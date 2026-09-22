@@ -73,6 +73,23 @@ export const sourceSchema = z.object({
     .optional(),
 });
 
+/**
+ * Question a choix unique. `answer` est saisi en base 1 dans le corpus, ce qui est plus
+ * naturel a la redaction, et converti en index base 0 a la validation.
+ */
+export const quizQuestionSchema = z
+  .object({
+    question: nonEmpty("question du quiz"),
+    options: z.array(nonEmpty("proposition")).min(2, "au moins deux propositions"),
+    answer: z.number().int().min(1, "answer commence a 1"),
+    explanation: nonEmpty("explication"),
+  })
+  .refine((value) => value.answer <= value.options.length, {
+    message: "answer designe une proposition inexistante",
+    path: ["answer"],
+  })
+  .transform((value) => ({ ...value, answer: value.answer - 1 }));
+
 export const categoryBlockSchema = z.object({
   type: z.literal("category"),
   title: nonEmpty("titre"),
@@ -92,6 +109,7 @@ export const articleBlockSchema = z.object({
   tags: z.array(tagValue).default([]),
   relatedArticles: z.array(slug).default([]),
   sources: z.array(sourceSchema).default([]),
+  quiz: z.array(quizQuestionSchema).default([]),
   lastVerified: isoDate.optional(),
   status: z.enum(["published", "draft"]).default("draft"),
 });

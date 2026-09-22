@@ -10,6 +10,7 @@ export type SeedSummary = {
   articles: EntityCounts;
   tags: number;
   sources: number;
+  quiz: number;
   relations: number;
   revisions: number;
   searchVectorsRefreshed: number;
@@ -48,6 +49,7 @@ export async function seedCorpus(
     articles: emptyCounts(),
     tags: 0,
     sources: 0,
+    quiz: 0,
     relations: 0,
     revisions: 0,
     searchVectorsRefreshed: 0,
@@ -131,7 +133,7 @@ export async function seedCorpus(
 
     const existing = await prisma.article.findUnique({
       where: { slug: article.slug },
-      include: { tags: true, sources: true },
+      include: { tags: true, sources: true, quiz: true },
     });
 
     if (!existing) {
@@ -151,6 +153,7 @@ export async function seedCorpus(
       summary.articles.created += 1;
       await syncTags(prisma, created.id, article.tags, tagIdBySlug);
       summary.sources += await syncSources(prisma, created.id, article.sources);
+      summary.quiz += await syncQuiz(prisma, created.id, article.quiz);
       continue;
     }
 
@@ -163,6 +166,7 @@ export async function seedCorpus(
       .filter((id): id is string => typeof id === "string");
 
     const sourcesChanged = !sameSources(existing.sources, article.sources);
+    const quizChanged = !sameQuiz(existing.quiz, article.quiz);
     const fieldsChanged =
       existing.title !== article.title ||
       existing.summary !== article.summary ||
@@ -171,9 +175,15 @@ export async function seedCorpus(
       !sameDate(existing.lastVerified, lastVerified) ||
       existing.categoryId !== categoryId;
 
-    if (!fieldsChanged && !sourcesChanged && sameSet(currentTagIds, desiredTagIds)) {
+    if (
+      !fieldsChanged &&
+      !sourcesChanged &&
+      !quizChanged &&
+      sameSet(currentTagIds, desiredTagIds)
+    ) {
       summary.articles.unchanged += 1;
       summary.sources += existing.sources.length;
+      summary.quiz += existing.quiz.length;
       continue;
     }
 
@@ -209,6 +219,12 @@ export async function seedCorpus(
       summary.sources += await syncSources(prisma, existing.id, article.sources);
     } else {
       summary.sources += existing.sources.length;
+    }
+
+    if (quizChanged) {
+      summary.quiz += await syncQuiz(prisma, existing.id, article.quiz);
+    } else {
+      summary.quiz += existing.quiz.length;
     }
   }
 
@@ -260,6 +276,58 @@ function sameSources(existing: ExistingSource[], desired: DesiredSource[]): bool
     .map((source) => key(source.title, source.url, source.publisher ?? null, source.date ?? null))
     .sort();
   return left.every((value, index) => value === right[index]);
+}
+
+type ExistingQuiz = {
+  position: number;
+  question: string;
+  options: string[];
+  answer: number;
+  explanation: string;
+};
+type DesiredQuiz = {
+  question: string;
+  options: string[];
+  answer: number;
+  explanation: string;
+};
+
+/** L'ordre compte ici, a la difference des sources: `position` fait partie du contenu. */
+function sameQuiz(existing: ExistingQuiz[], desired: readonly DesiredQuiz[]): boolean {
+  if (existing.length !== desired.length) return false;
+  const ordered = [...existing].sort((a, b) => a.position - b.position);
+  return ordered.every((question, index) => {
+    const wanted = desired[index];
+    if (!wanted) return false;
+    return (
+      question.question === wanted.question &&
+      question.answer === wanted.answer &&
+      question.explanation === wanted.explanation &&
+      question.options.length === wanted.options.length &&
+      question.options.every((option, rank) => option === wanted.options[rank])
+    );
+  });
+}
+
+async function syncQuiz(
+  prisma: PrismaClient,
+  articleId: string,
+  quiz: readonly DesiredQuiz[],
+): Promise<number> {
+  // Comme les sources, le quiz n'a pas de cle naturelle stable: on le reecrit en bloc.
+  await prisma.quizQuestion.deleteMany({ where: { articleId } });
+  if (quiz.length === 0) return 0;
+  await prisma.quizQuestion.createMany({
+    data: quiz.map((question, index) => ({
+      articleId,
+      position: index,
+      question: question.question,
+      options: [...question.options],
+      answer: question.answer,
+      explanation: question.explanation,
+    })),
+  });
+  return quiz.length;
 }
 
 async function syncTags(
@@ -328,6 +396,7 @@ export function formatSummary(summary: SeedSummary): string {
     line("articles", summary.articles),
     `  etiquettes   ${summary.tags}`,
     `  sources      ${summary.sources}`,
+    `  questions    ${summary.quiz}`,
     `  liens        ${summary.relations}`,
     `  revisions    ${summary.revisions}`,
     `  vecteurs recalcules ${summary.searchVectorsRefreshed}`,

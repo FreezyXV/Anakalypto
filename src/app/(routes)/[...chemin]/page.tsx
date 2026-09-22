@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
 import { ArticleCard } from "@/components/ArticleCard";
+import { ArticleQuiz } from "@/components/ArticleQuiz";
 import { Breadcrumb, type Crumb } from "@/components/Breadcrumb";
 import { JsonLd } from "@/components/JsonLd";
 import { Toc } from "@/components/Toc";
@@ -241,6 +242,8 @@ async function ArticleView({ article }: { article: ArticlePage }) {
             <div dangerouslySetInnerHTML={{ __html: html }} />
           </div>
         </div>
+
+        <ArticleQuiz questions={article.quiz} />
 
         {article.tags.length > 0 && (
           <section aria-labelledby="titre-etiquettes" className="rule-top mt-14 pt-4">

@@ -55,6 +55,7 @@ model Article {
 
   tags        ArticleTag[]
   sources     Source[]
+  quiz        QuizQuestion[]
   revisions   Revision[]
   relatedFrom RelatedArticle[] @relation("from")
   relatedTo   RelatedArticle[] @relation("to")
@@ -78,6 +79,23 @@ model Article {
   @@index([status, publishedAt])
   @@index([searchVector], map: "article_search_idx", type: Gin)
   @@index([searchTitle(ops: raw("gin_trgm_ops"))], map: "article_title_trgm_idx", type: Gin)
+}
+
+/// Question a choix unique posee en fin d'article. `position` fige l'ordre de presentation,
+/// `answer` est l'index de la bonne reponse dans `options`, base 0.
+model QuizQuestion {
+  id          String   @id @default(cuid())
+  position    Int
+  question    String
+  options     String[]
+  answer      Int
+  explanation String
+
+  articleId String
+  article   Article @relation(fields: [articleId], references: [id], onDelete: Cascade)
+
+  @@unique([articleId, position])
+  @@index([articleId])
 }
 
 model Tag {

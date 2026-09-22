@@ -198,6 +198,13 @@ export type ArticlePage = {
     publishedDate: string | null;
   }>;
   related: Array<{ slug: string; title: string; summary: string; path: string }>;
+  quiz: Array<{
+    question: string;
+    options: string[];
+    /** Index de la bonne reponse dans `options`, base 0. */
+    answer: number;
+    explanation: string;
+  }>;
 };
 
 export async function getArticleByPath(
@@ -210,6 +217,7 @@ export async function getArticleByPath(
       category: { select: { name: true, path: true } },
       tags: { include: { tag: true } },
       sources: { orderBy: { title: "asc" } },
+      quiz: { orderBy: { position: "asc" } },
       relatedFrom: {
         include: {
           to: {
@@ -262,6 +270,12 @@ export async function getArticleByPath(
         summary: relation.to.summary,
         path: `${relation.to.category.path}/${relation.to.slug}`,
       })),
+    quiz: article.quiz.map((question) => ({
+      question: question.question,
+      options: question.options,
+      answer: question.answer,
+      explanation: question.explanation,
+    })),
   };
 }
 
