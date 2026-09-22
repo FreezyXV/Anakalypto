@@ -120,6 +120,7 @@ connexion au client via l'adaptateur `@prisma/adapter-pg`.
 | `npm run prisma:studio`                   | Explorateur de données Prisma.                                        |
 | `npm run seed`                            | Importe `content/` dans la base pointée par `DATABASE_URL`.           |
 | `npm run seed:check`                      | Valide le corpus sans rien écrire.                                    |
+| `npm run setup:db`                        | Applique les migrations puis importe le corpus, dans cet ordre.       |
 
 Le seed accepte `--content=<répertoire>` pour importer depuis un autre dossier.
 
@@ -363,7 +364,18 @@ Relire le contenu des migrations non encore appliquées avant de les passer en p
 npx prisma migrate status
 ```
 
-### 5. Appliquer les migrations en production
+### 5. Préparer la base de production
+
+L'ordre compte : le schéma doit exister et le corpus être importé **avant** le premier
+déploiement. La génération statique interroge la base au moment du build ; sur une base vide,
+le site se construit sans aucune page d'article.
+
+```bash
+DATABASE_URL="<chaîne poolée>" DIRECT_URL="<chaîne directe>" npm run setup:db
+```
+
+`setup:db` enchaîne `prisma migrate deploy` puis l'import du corpus. Les deux étapes restent
+disponibles séparément (étape 6 pour le seul import) :
 
 ```bash
 DATABASE_URL="<chaîne poolée>" DIRECT_URL="<chaîne directe>" npm run prisma:deploy
@@ -397,6 +409,16 @@ Contrôles après déploiement :
 - une URL inexistante renvoie bien une 404.
 
 Consigner chaque opération dans `OPERATIONS_LOG.md`.
+
+### Erreurs fréquentes au premier déploiement
+
+| Symptôme dans les journaux de build                         | Cause                                                                                                                                                                                       | Correction                                                                                      |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| `DATABASE_URL est absente` pendant « Collecting page data » | Aucune variable d'environnement déclarée sur le projet. La génération statique interroge la base **au moment du build** : la variable est nécessaire au build, pas seulement à l'exécution. | Déclarer `DATABASE_URL` sur le projet, pour l'environnement visé, puis relancer le déploiement. |
+| `The table "public.Article" does not exist`                 | Migrations non appliquées à la base de production.                                                                                                                                          | Lancer `npm run setup:db` (étape 5), puis redéployer.                                           |
+| Build vert mais site sans article                           | Base migrée, corpus non importé.                                                                                                                                                            | Lancer `npm run seed` (étape 6), puis redéployer pour régénérer les pages statiques.            |
+| `Connection url is empty` lors d'une migration              | `DIRECT_URL` déclarée mais laissée vide.                                                                                                                                                    | Renseigner la chaîne directe, ou supprimer la variable : elle retombe alors sur `DATABASE_URL`. |
+| Build lancé depuis la mauvaise branche                      | La branche de production du projet ne pointe pas sur `main`.                                                                                                                                | Projet Vercel, Settings, Git, Production Branch : `main`.                                       |
 
 ### Portabilité
 

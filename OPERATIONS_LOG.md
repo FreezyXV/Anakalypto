@@ -3,23 +3,24 @@
 Journal informatif des operations significatives menees sur l'infrastructure d'Anakalypto :
 creation de ressources, migrations, imports de contenu, deploiements. Horodatage en UTC.
 
-| Date (UTC)       | Operation                        | Commande                                                              | Cible                               | Resultat                                                                                                                  |
-| ---------------- | -------------------------------- | --------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 2026-09-22 13:05 | Installation du plugin de design | `npm install -g ui-ux-pro-max-cli` puis `uipro init --ai claude`      | Poste de travail, `.claude/skills/` | Succes. 8 skills installees.                                                                                              |
-| 2026-09-22 13:07 | Initialisation du projet         | `npx create-next-app@16.3.5` (reference) puis configuration manuelle  | Depot local                         | Succes. Next.js 16.3.5, React 19.2.8, Tailwind 4.3.3, Prisma 7.10.0.                                                      |
-| 2026-09-22 13:12 | Base de developpement locale     | `createdb anakalypto_dev`, `createdb anakalypto_test`                 | PostgreSQL 16.13 local              | Succes. Roles et bases crees.                                                                                             |
-| 2026-09-22 13:13 | Migration initiale               | `npx prisma migrate dev --name init`                                  | `anakalypto_dev`                    | Succes. 7 tables, 1 enumeration.                                                                                          |
-| 2026-09-22 13:15 | Migration recherche francaise    | `npx prisma migrate dev` (migration SQL manuelle `add_french_search`) | `anakalypto_dev`                    | Succes. Extensions `unaccent` et `pg_trgm`, configuration `fr`, colonne `searchVector`, trigger et index GIN.             |
-| 2026-09-22 13:19 | Validation du corpus             | `npx tsx prisma/seed.ts --dry-run`                                    | `content/`                          | 4 anomalies detectees, aucune ecriture. Voir la section « Corrections de contenu » ci-dessous.                            |
-| 2026-09-22 13:20 | Import du corpus (developpement) | `npx tsx prisma/seed.ts`                                              | `anakalypto_dev`                    | Succes. 196 categories, 118 articles, 448 etiquettes, 177 sources, 77 liens.                                              |
-| 2026-09-22 13:21 | Controle d'idempotence           | `npx tsx prisma/seed.ts` (seconde execution)                          | `anakalypto_dev`                    | Succes. 0 creation, 0 mise a jour, 314 blocs inchanges, aucun doublon.                                                    |
-| 2026-09-22 13:24 | Suite de tests                   | `npm test`                                                            | `anakalypto_test`                   | Succes. 49 tests, 4 fichiers.                                                                                             |
-| 2026-09-22 13:30 | Migration normalisation du titre | `npx prisma migrate dev` (migration `normalize_search_title`)         | `anakalypto_dev`                    | Succes. Colonne `searchTitle` et index trigramme.                                                                         |
-| 2026-09-22 13:36 | Build de production              | `npm run build`                                                       | Local                               | Succes. 321 pages, dont 314 generees statiquement.                                                                        |
-| 2026-09-22 13:44 | Verification du rendu            | Serveur local et Chromium                                             | http://localhost:3000               | Succes. Pages, recherche, 404, sitemap et robots conformes. Pas de defilement horizontal a 375 px.                        |
-| 2026-09-22 13:52 | Acces Neon                       | `neon projects list`                                                  | console.neon.tech                   | Echec. Aucun jeton dans l'environnement, et hote refuse par la politique reseau de la session (403 au CONNECT du proxy).  |
-| 2026-09-22 13:52 | Acces Vercel                     | `vercel whoami`                                                       | api.vercel.com                      | Echec. CLI non authentifiee (Logged out), et hote refuse par la politique reseau de la session (403 au CONNECT du proxy). |
-| 2026-09-22 14:05 | Audit d'accessibilite            | axe-core 4.13 (WCAG 2.1 A et AA) sur Chromium                         | 7 pages, themes clair et sombre     | 1 violation `link-in-text-block` relevee puis corrigee. Controle final : aucune violation.                                |
+| Date (UTC)       | Operation                              | Commande                                                              | Cible                               | Resultat                                                                                                                                                              |
+| ---------------- | -------------------------------------- | --------------------------------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-09-22 13:05 | Installation du plugin de design       | `npm install -g ui-ux-pro-max-cli` puis `uipro init --ai claude`      | Poste de travail, `.claude/skills/` | Succes. 8 skills installees.                                                                                                                                          |
+| 2026-09-22 13:07 | Initialisation du projet               | `npx create-next-app@16.3.5` (reference) puis configuration manuelle  | Depot local                         | Succes. Next.js 16.3.5, React 19.2.8, Tailwind 4.3.3, Prisma 7.10.0.                                                                                                  |
+| 2026-09-22 13:12 | Base de developpement locale           | `createdb anakalypto_dev`, `createdb anakalypto_test`                 | PostgreSQL 16.13 local              | Succes. Roles et bases crees.                                                                                                                                         |
+| 2026-09-22 13:13 | Migration initiale                     | `npx prisma migrate dev --name init`                                  | `anakalypto_dev`                    | Succes. 7 tables, 1 enumeration.                                                                                                                                      |
+| 2026-09-22 13:15 | Migration recherche francaise          | `npx prisma migrate dev` (migration SQL manuelle `add_french_search`) | `anakalypto_dev`                    | Succes. Extensions `unaccent` et `pg_trgm`, configuration `fr`, colonne `searchVector`, trigger et index GIN.                                                         |
+| 2026-09-22 13:19 | Validation du corpus                   | `npx tsx prisma/seed.ts --dry-run`                                    | `content/`                          | 4 anomalies detectees, aucune ecriture. Voir la section « Corrections de contenu » ci-dessous.                                                                        |
+| 2026-09-22 13:20 | Import du corpus (developpement)       | `npx tsx prisma/seed.ts`                                              | `anakalypto_dev`                    | Succes. 196 categories, 118 articles, 448 etiquettes, 177 sources, 77 liens.                                                                                          |
+| 2026-09-22 13:21 | Controle d'idempotence                 | `npx tsx prisma/seed.ts` (seconde execution)                          | `anakalypto_dev`                    | Succes. 0 creation, 0 mise a jour, 314 blocs inchanges, aucun doublon.                                                                                                |
+| 2026-09-22 13:24 | Suite de tests                         | `npm test`                                                            | `anakalypto_test`                   | Succes. 49 tests, 4 fichiers.                                                                                                                                         |
+| 2026-09-22 13:30 | Migration normalisation du titre       | `npx prisma migrate dev` (migration `normalize_search_title`)         | `anakalypto_dev`                    | Succes. Colonne `searchTitle` et index trigramme.                                                                                                                     |
+| 2026-09-22 13:36 | Build de production                    | `npm run build`                                                       | Local                               | Succes. 321 pages, dont 314 generees statiquement.                                                                                                                    |
+| 2026-09-22 13:44 | Verification du rendu                  | Serveur local et Chromium                                             | http://localhost:3000               | Succes. Pages, recherche, 404, sitemap et robots conformes. Pas de defilement horizontal a 375 px.                                                                    |
+| 2026-09-22 13:52 | Acces Neon                             | `neon projects list`                                                  | console.neon.tech                   | Echec. Aucun jeton dans l'environnement, et hote refuse par la politique reseau de la session (403 au CONNECT du proxy).                                              |
+| 2026-09-22 13:52 | Acces Vercel                           | `vercel whoami`                                                       | api.vercel.com                      | Echec. CLI non authentifiee (Logged out), et hote refuse par la politique reseau de la session (403 au CONNECT du proxy).                                             |
+| 2026-09-22 14:05 | Audit d'accessibilite                  | axe-core 4.13 (WCAG 2.1 A et AA) sur Chromium                         | 7 pages, themes clair et sombre     | 1 violation `link-in-text-block` relevee puis corrigee. Controle final : aucune violation.                                                                            |
+| 2026-09-22 18:10 | Correction du repli d'URL de migration | `npm run setup:db` avec `DIRECT_URL` vide                             | Base locale vierge                  | Defaut reproduit puis corrige. Une `DIRECT_URL` declaree mais vide faisait echouer les migrations (`Connection url is empty`) au lieu de retomber sur `DATABASE_URL`. |
 
 ## Operations non realisees
 
@@ -41,6 +42,26 @@ production et deploiement.
 Tout ce qui ne dependait pas de ces acces a ete realise et verifie localement : schema,
 migrations, recherche francaise, import du corpus, pages, SEO, accessibilite, tests et build
 de production.
+
+## Premier deploiement Vercel
+
+Le deploiement lance depuis l'interface Vercel a echoue, journal a l'appui :
+
+```
+Error: Failed to collect configuration for /sitemap.xml
+  [cause]: Error: DATABASE_URL est absente.
+```
+
+Deux causes, aucune dans le code :
+
+1. **Aucune variable d'environnement declaree sur le projet Vercel.** La generation statique
+   interroge la base au moment du build, donc `DATABASE_URL` est necessaire au build et pas
+   seulement a l'execution.
+2. **Import realise depuis la branche `claude/install-frontend-design-skill-09qipb`**, branche
+   par defaut du depot a ce moment-la, et non depuis `main`.
+
+La marche a suivre est detaillee dans la section « Erreurs frequentes au premier deploiement »
+du README.
 
 ## Corrections de contenu
 

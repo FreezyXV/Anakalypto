@@ -21,6 +21,7 @@
     "prisma:studio": "prisma studio",
     "seed": "tsx prisma/seed.ts",
     "seed:check": "tsx prisma/seed.ts --dry-run",
+    "setup:db": "prisma migrate deploy && tsx prisma/seed.ts",
     "start": "next start",
     "test": "vitest run",
     "test:watch": "vitest",
