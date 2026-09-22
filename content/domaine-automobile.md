@@ -1,21 +1,57 @@
 ---
 type: category
-title: Usages et mobilité
-slug: usages-et-mobilite
-categoryPath: automobile/usages-et-mobilite
+title: Automobile
+slug: automobile
+categoryPath: automobile
+level: 0
+parentSlug:
+summary: >
+  Il se produit dans le monde plus de 90 millions de véhicules par an. L'automobile est l'un des
+  objets techniques les plus répandus sur la planète, et l'un des plus discutés. Cette section
+  l'aborde par quatre entrées. Les motorisations d'abord : comment fonctionne un moteur à
+  explosion, pourquoi le Diesel a dominé puis reculé, ce que change vraiment une batterie. La
+  sécurité ensuite, où l'on découvre que les voitures modernes sont conçues pour se déformer, et
+  que les aides à la conduite ont une efficacité mesurée, pas seulement annoncée. L'industrie
+  enfin, avec ses volumes, ses plateformes partagées et les normes qui orientent la conception.
+  Un dernier volet s'intéresse à l'usage réel : une voiture passe plus de 95 % de son temps à
+  l'arrêt, et son empreinte ne se mesure pas au seul pot d'échappement.
+---
+
+---
+type: category
+title: Motorisations
+slug: motorisations
+categoryPath: automobile/motorisations
 level: 1
 parentSlug: automobile
 summary: >
-  L'automobile ne se réduit pas à un objet technique : elle est aussi une pratique, un coût et
-  une organisation de l'espace. Cette catégorie examine la voiture du point de vue de son usage
-  réel. Un véhicule particulier passe l'essentiel de son existence à l'arrêt, transporte le plus
-  souvent une seule personne, et parcourt des distances quotidiennes bien inférieures à son
-  autonomie. Ces constats ont fait émerger des formes de mobilité partagée, autopartage,
-  covoiturage, location de courte durée, qui cherchent à augmenter le taux d'utilisation du parc.
-  La catégorie couvre également le cycle de vie du véhicule, de la fabrication à la fin de vie,
-  question devenue centrale avec l'électrification : le bilan environnemental d'une automobile ne
-  peut plus s'apprécier au seul pot d'échappement, mais sur l'ensemble de son existence, batteries
-  et recyclage compris.
+  Essence, Diesel, hybride, électrique, hydrogène. Chaque façon de faire avancer une voiture a
+  ses avantages, ses contraintes et son domaine d'emploi.
+---
+
+---
+type: category
+title: Thermique
+slug: thermique
+categoryPath: automobile/motorisations/thermique
+level: 2
+parentSlug: motorisations
+summary: >
+  Le moteur à explosion transforme la chaleur d'une combustion en rotation. Il équipe
+  l'automobile depuis plus d'un siècle, et n'en convertit toujours qu'un tiers environ en
+  mouvement.
+---
+
+---
+type: category
+title: Électrique
+slug: electrique
+categoryPath: automobile/motorisations/electrique
+level: 2
+parentSlug: motorisations
+summary: >
+  Le moteur électrique a un rendement supérieur à 90 % et presque aucune pièce d'usure. Toute
+  la difficulté est dans la batterie.
 ---
 
 ---
@@ -26,9 +62,8 @@ categoryPath: automobile/motorisations/motorisations-hybrides
 level: 2
 parentSlug: motorisations
 summary: >
-  L'hybridation associe un moteur thermique et une ou plusieurs machines électriques. Selon
-  l'architecture retenue et la capacité de la batterie, elle va d'une simple assistance au
-  démarrage jusqu'à une autonomie électrique de plusieurs dizaines de kilomètres.
+  Associer un moteur thermique et un moteur électrique ne sert pas à additionner leurs
+  puissances, mais à faire fonctionner le thermique là où il est le meilleur.
 ---
 
 ---
@@ -39,22 +74,44 @@ categoryPath: automobile/motorisations/carburants-alternatifs
 level: 2
 parentSlug: motorisations
 summary: >
-  Biocarburants, carburants de synthèse, gaz naturel et hydrogène cherchent à réduire l'empreinte
-  du transport routier sans renoncer au moteur à combustion. Leur bilan dépend entièrement de
-  leur mode de production.
+  Biocarburants, carburants de synthèse, gaz. Ils permettent de garder le moteur existant, mais
+  leur intérêt dépend entièrement de la façon dont ils sont fabriqués.
 ---
 
 ---
 type: category
-title: Réglementation automobile
-slug: reglementation-automobile
-categoryPath: automobile/industrie-automobile/reglementation-automobile
-level: 2
-parentSlug: industrie-automobile
+title: Sécurité et conduite
+slug: securite-et-conduite
+categoryPath: automobile/securite-et-conduite
+level: 1
+parentSlug: automobile
 summary: >
-  Normes d'émissions, homologation, exigences de sécurité et objectifs de flotte constituent le
-  cadre qui oriente la conception des véhicules autant que les choix industriels des
-  constructeurs.
+  Éviter l'accident, et en limiter les conséquences quand il devient inévitable. Deux
+  démarches distinctes, qui ont chacune fait chuter la mortalité routière.
+---
+
+---
+type: category
+title: Aides à la conduite
+slug: aides-a-la-conduite
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+level: 2
+parentSlug: securite-et-conduite
+summary: >
+  Freinage automatique, maintien dans la voie, angle mort. Ces systèmes ont une efficacité
+  mesurée par des études indépendantes, et des limites tout aussi documentées.
+---
+
+---
+type: category
+title: Conduite autonome
+slug: conduite-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+level: 2
+parentSlug: securite-et-conduite
+summary: >
+  Une voiture qui conduit seule existe déjà, dans des zones limitées et cartographiées. Le
+  chemin entre l'assistance et l'autonomie réelle est plus long qu'il n'y paraît.
 ---
 
 ---
@@ -65,9 +122,68 @@ categoryPath: automobile/securite-et-conduite/securite-passive
 level: 2
 parentSlug: securite-et-conduite
 summary: >
-  La sécurité passive rassemble les dispositifs qui limitent les conséquences d'un choc une fois
-  celui-ci inévitable : structures déformables, retenue des occupants, coussins gonflables et
-  habitacle indéformable.
+  Quand le choc est inévitable, il faut gagner des millisecondes. Structures qui se froissent,
+  ceintures et coussins gonflables y travaillent ensemble.
+---
+
+---
+type: category
+title: Industrie automobile
+slug: industrie-automobile
+categoryPath: automobile/industrie-automobile
+level: 1
+parentSlug: automobile
+summary: >
+  Plus de 90 millions de véhicules produits chaque année, une poignée de pays qui en fabriquent
+  la moitié, et des règles publiques qui orientent la conception.
+---
+
+---
+type: category
+title: Production
+slug: production
+categoryPath: automobile/industrie-automobile/production
+level: 2
+parentSlug: industrie-automobile
+summary: >
+  Où fabrique-t-on les voitures, en quelles quantités, et comment un même soubassement peut
+  donner naissance à une dizaine de modèles différents.
+---
+
+---
+type: category
+title: Marché
+slug: marche
+categoryPath: automobile/industrie-automobile/marche
+level: 2
+parentSlug: industrie-automobile
+summary: >
+  Qui achète, où, et quoi. Le marché de l'occasion, bien plus gros que celui du neuf, décide
+  aussi du coût réel d'une voiture.
+---
+
+---
+type: category
+title: Réglementation automobile
+slug: reglementation-automobile
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+level: 2
+parentSlug: industrie-automobile
+summary: >
+  Normes d'émissions, homologation, exigences de sécurité. Ce cadre public a autant façonné les
+  voitures modernes que la concurrence entre constructeurs.
+---
+
+---
+type: category
+title: Usages et mobilité
+slug: usages-et-mobilite
+categoryPath: automobile/usages-et-mobilite
+level: 1
+parentSlug: automobile
+summary: >
+  Une voiture particulière est garée plus de 95 % du temps et transporte en moyenne à peine plus
+  d'une personne. Ces deux chiffres ouvrent beaucoup de questions.
 ---
 
 ---
@@ -78,8 +194,8 @@ categoryPath: automobile/usages-et-mobilite/mobilite-partagee
 level: 2
 parentSlug: usages-et-mobilite
 summary: >
-  Autopartage, covoiturage et location de courte durée visent à dissocier l'usage de la
-  propriété et à relever le taux d'occupation des véhicules, très bas dans l'usage individuel.
+  Autopartage et covoiturage cherchent à mieux utiliser ce qui existe déjà : le temps
+  d'immobilisation des véhicules et les places vides.
 ---
 
 ---
@@ -90,224 +206,333 @@ categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 level: 2
 parentSlug: usages-et-mobilite
 summary: >
-  De la fabrication au recyclage, le cycle de vie d'une automobile détermine son bilan
-  environnemental réel et le coût total de sa possession, souvent très différent de son prix
-  d'achat.
+  De l'extraction des matières au recyclage, le bilan environnemental d'une voiture se juge sur
+  toute son existence, pas seulement quand elle roule.
 ---
 
 ---
 type: article
-title: Le marché de l'occasion et la valeur résiduelle
-slug: marche-de-loccasion-et-valeur-residuelle
-categoryPath: automobile/industrie-automobile/marche
+title: Comment fonctionne un moteur à explosion
+slug: fonctionnement-moteur-combustion-interne
+categoryPath: automobile/motorisations/thermique
 summary: >
-  Trois à quatre véhicules d'occasion changent de main pour un véhicule neuf vendu, et la
-  décote conditionne le coût réel de possession comme l'équilibre économique de la location.
-tags: [automobile, occasion, decote, marche, economie]
-relatedArticles: [marche-automobile-mondial-regions]
+  Quatre temps, des milliers de fois par minute. Et sur toute l'énergie contenue dans le
+  carburant, seuls 20 à 40 % arrivent aux roues.
+tags: [automobile, moteur, quatre-temps, rendement, turbo]
+relatedArticles: [moteur-diesel-principe-et-declin, voiture-electrique]
 sources:
-  - title: "Immatriculations de véhicules"
-    url: "https://www.statistiques.developpement-durable.gouv.fr/"
-    publisher: "Service des données et études statistiques"
-    date: "2025"
-  - title: "Automotive industry"
-    url: "https://www.britannica.com/technology/automotive-industry"
+  - title: "Internal-combustion engine"
+    url: "https://www.britannica.com/technology/internal-combustion-engine"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
+  - title: "Transport"
+    url: "https://www.iea.org/energy-system/transport"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Sur quatre temps, combien produisent réellement de l'énergie ?"
+    options:
+      - "Un seul, la combustion"
+      - "Deux"
+      - "Les quatre"
+    answer: 1
+    explanation: >
+      Admission, compression et échappement consomment de l'énergie. Seule la combustion en
+      produit. C'est pourquoi un volant d'inertie est nécessaire pour maintenir la rotation
+      entre deux explosions.
+  - question: "Que devient l'essentiel de l'énergie du carburant dans un moteur thermique ?"
+    options:
+      - "Elle sert à faire avancer la voiture"
+      - "Elle est perdue en chaleur dans l'échappement et le refroidissement"
+      - "Elle recharge la batterie"
+    answer: 2
+    explanation: >
+      Le rendement d'un moteur thermique d'automobile se situe entre 20 et 40 %. Le reste part
+      en chaleur, ce que l'on constate à la température du capot et des gaz d'échappement.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Le marché du véhicule d'occasion est, en volume, nettement plus important que celui du neuf : dans
-la plupart des pays européens, trois à quatre transactions d'occasion accompagnent chaque
-immatriculation neuve. Cette proportion fait de la valeur résiduelle un paramètre économique
-central, souvent sous-estimé par l'acheteur.
+Un moteur à explosion fait une chose simple : il transforme une explosion en rotation.
 
-## La décote, premier poste de coût
+Pour cela, il enferme un mélange d'air et de carburant dans un cylindre, l'enflamme, et
+récupère la poussée sur un piston. Une bielle convertit ce mouvement de va-et-vient en rotation
+du vilebrequin, qui finit par entraîner les roues.
 
-Pour un véhicule neuf conservé quelques années, la perte de valeur dépasse généralement le
-carburant, l'assurance et l'entretien réunis. Elle est très rapide au début : une part
-substantielle de la valeur disparaît dès la première année, puis le rythme ralentit. C'est la
-raison pour laquelle l'achat d'un véhicule de quelques années déplace le coût de possession vers
-l'entretien, en évitant la phase de décote la plus brutale.
+## Les quatre temps
 
-## Ce qui fait tenir une valeur
+Admission : le piston descend, une soupape s'ouvre, l'air et le carburant entrent.
 
-Plusieurs facteurs convergent : la réputation de fiabilité, la disponibilité des pièces, le coût
-des réparations courantes, la demande sur le segment concerné, et la lisibilité de l'historique
-d'entretien. Les motorisations subissent en outre l'effet des anticipations réglementaires : un
-type de motorisation menacé de restriction de circulation voit sa valeur résiduelle reculer avant
-même l'entrée en vigueur des mesures.
+Compression : les soupapes se ferment, le piston remonte et comprime fortement le mélange. Plus
+on comprime, plus la combustion sera efficace.
 
-## Le rôle des loueurs et des flottes
+Combustion : une bougie provoque une étincelle. Le mélange brûle très vite, la pression grimpe
+et repousse violemment le piston. C'est le seul temps qui produit de l'énergie.
 
-Une part importante des véhicules neufs est immatriculée par des loueurs, des entreprises ou des
-constructeurs eux-mêmes, puis revendue après deux à quatre ans. Ces acteurs déterminent leurs
-loyers à partir d'une valeur résiduelle estimée à l'avance : une erreur d'anticipation se traduit
-par une perte à la revente. Leur arrivée simultanée sur le marché de l'occasion pèse sur les prix,
-ce qui lie étroitement les deux marchés.
+Échappement : le piston remonte et chasse les gaz brûlés.
 
-## Faits clés
+Comme un seul temps sur quatre produit de l'énergie, il faut un volant d'inertie — une masse
+lourde en rotation — pour que le moteur continue de tourner entre deux explosions. Et comme les
+cylindres ne travaillent pas en même temps, un moteur à plusieurs cylindres tourne plus
+régulièrement.
 
-- Le marché de l'occasion représente trois à quatre fois le volume du neuf.
-- La décote constitue souvent le premier poste du coût de possession.
-- Elle est la plus rapide durant la première année de détention.
-- Les loueurs fixent leurs loyers sur une valeur résiduelle anticipée.
+## Essence ou Diesel
 
-[Emplacement image : courbe de décote d'un véhicule neuf sur huit ans, légende et texte
-alternatif à fournir ultérieurement.]
+Dans un moteur à essence, l'air et le carburant sont mélangés avant d'entrer, et une bougie
+enflamme le tout.
+
+Dans un moteur Diesel, seul l'air est comprimé, mais beaucoup plus fort. La compression le porte
+à une température si élevée que le carburant, injecté à la fin, s'enflamme tout seul. Pas de
+bougie d'allumage.
+
+## L'énergie perdue
+
+Un moteur thermique d'automobile a un rendement de 20 à 40 %. Tout le reste part en chaleur :
+dans les gaz d'échappement, dans le liquide de refroidissement, dans les frottements.
+
+C'est une limite physique, pas un défaut de fabrication : on ne peut pas convertir intégralement
+de la chaleur en mouvement.
+
+Pour améliorer ce bilan, les constructeurs ont ajouté le turbocompresseur. Une turbine placée
+dans l'échappement récupère une partie de l'énergie des gaz chauds et entraîne un compresseur qui
+gonfle l'air d'admission. On obtient plus de puissance avec un moteur plus petit, donc plus
+sobre.
+
+## À retenir
+
+- Quatre temps : admission, compression, combustion, échappement.
+- Un seul produit de l'énergie, d'où la nécessité d'un volant d'inertie.
+- Le Diesel enflamme le carburant par la chaleur de compression, sans bougie.
+- Le rendement se situe entre 20 et 40 %, le reste part en chaleur.
+
+[Emplacement image : les quatre temps d'un moteur à explosion, légende et texte alternatif à
+fournir ultérieurement.]
 
 ---
 
 ---
 type: article
-title: Les plateformes modulaires et la standardisation
-slug: plateformes-modulaires-et-standardisation
-categoryPath: automobile/industrie-automobile/production
+title: Le Diesel, du triomphe au recul
+slug: moteur-diesel-principe-et-declin
+categoryPath: automobile/motorisations/thermique
 summary: >
-  Partager une architecture de base entre plusieurs modèles et plusieurs marques abaisse les
-  coûts de développement, au prix d'une convergence technique entre véhicules concurrents.
-tags: [automobile, production, plateforme, standardisation, industrie]
-relatedArticles: [production-automobile-mondiale]
+  Il consomme 20 à 30 % de moins qu'un moteur à essence. Ce sont ses oxydes d'azote et ses
+  particules qui ont fini par le faire reculer.
+tags: [automobile, diesel, emissions, particules, rendement]
+relatedArticles: [fonctionnement-moteur-combustion-interne, normes-demissions-euro]
 sources:
-  - title: "Mass production"
-    url: "https://www.britannica.com/technology/mass-production"
+  - title: "Diesel engine"
+    url: "https://www.britannica.com/technology/diesel-engine"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
-  - title: "Industrie automobile"
-    url: "https://www.insee.fr/fr/statistiques"
-    publisher: "INSEE"
-    date: "2025"
-lastVerified: 2026-09-22
-status: published
----
-
-## Résumé
-
-Une plateforme automobile est un ensemble d'éléments structurants partagés par plusieurs modèles :
-soubassement, points d'ancrage des trains roulants, architecture électrique, implantation de la
-motorisation. Elle permet de décliner des carrosseries et des équipements très différents à partir
-d'une base commune, dont le coût de développement est amorti sur des volumes bien supérieurs à
-ceux d'un modèle unique.
-
-## De la plateforme rigide au jeu de modules
-
-Les premières plateformes fixaient un empattement et une voie, ce qui contraignait fortement les
-modèles dérivés. Les architectures modulaires introduites dans les années 2010 ont assoupli ces
-contraintes : certaines dimensions deviennent variables, tandis que des interfaces restent
-strictement normalisées. Un même ensemble peut ainsi servir une compacte et un véhicule familial
-de segment supérieur, sous plusieurs marques d'un même groupe.
-
-## Ce que la standardisation permet
-
-Les gains portent sur plusieurs postes. Les coûts d'études sont mutualisés, les pièces achetées en
-plus grande quantité, les lignes d'assemblage peuvent produire plusieurs modèles sans
-reconfiguration lourde, et les mises au point de sécurité, très coûteuses, ne sont menées qu'une
-fois. Le délai de développement d'un modèle dérivé s'en trouve fortement réduit, ce qui compte
-dans un secteur où la réactivité aux évolutions de la demande est décisive.
-
-## Les contreparties
-
-L'uniformisation technique réduit la différenciation entre marques d'un même groupe, qui se joue
-alors surtout sur le style, la finition et les prestations perçues. Un défaut affectant un
-composant partagé se propage à l'ensemble de la gamme, ce qui augmente l'ampleur des rappels.
-L'électrification a par ailleurs rebattu les cartes : les plateformes conçues pour un moteur
-thermique s'accommodent mal d'une batterie plate intégrée au plancher, ce qui a imposé le
-développement d'architectures dédiées.
-
-## Faits clés
-
-- Une plateforme partage soubassement, trains roulants et architecture électrique.
-- Les architectures modulaires rendent variables certaines dimensions clés.
-- Les gains portent sur les études, les achats et l'outil industriel.
-- Un défaut sur une pièce partagée élargit mécaniquement les campagnes de rappel.
-
-[Emplacement image : déclinaison de plusieurs carrosseries sur une même plateforme modulaire,
-légende et texte alternatif à fournir ultérieurement.]
-
----
-
----
-type: article
-title: Les normes d'émissions européennes
-slug: normes-demissions-euro
-categoryPath: automobile/industrie-automobile/reglementation-automobile
-summary: >
-  Depuis 1992, une succession de seuils a réduit d'un ordre de grandeur les émissions de
-  polluants réglementés, en contraignant l'architecture même des motorisations.
-tags: [automobile, emissions, norme-euro, pollution, reglementation]
-relatedArticles: [pollution-de-lair-ambiant-risque-sanitaire, moteur-diesel-principe-et-declin]
-sources:
-  - title: "Air quality standards"
-    url: "https://environment.ec.europa.eu/topics/air_en"
-    publisher: "Commission européenne"
-    date: "2025"
-  - title: "Émissions des transports"
+  - title: "Air quality"
     url: "https://www.eea.europa.eu/fr"
     publisher: "Agence européenne pour l'environnement"
     date: "2025"
+quiz:
+  - question: "Pourquoi un moteur Diesel consomme-t-il moins qu'un moteur à essence ?"
+    options:
+      - "Parce que le gazole coûte moins cher"
+      - "Parce qu'il comprime beaucoup plus fort, ce qui améliore son rendement"
+      - "Parce qu'il tourne plus lentement"
+    answer: 2
+    explanation: >
+      Un taux de compression élevé permet d'extraire davantage d'énergie de la même quantité de
+      carburant. C'est un avantage de thermodynamique, pas de prix à la pompe.
+  - question: "Pourquoi est-il difficile de réduire à la fois les oxydes d'azote et les particules ?"
+    options:
+      - "Parce que les deux traitements coûtent cher"
+      - "Parce que ce qui réduit l'un a tendance à augmenter l'autre"
+      - "Parce qu'ils sortent par des tuyaux différents"
+    answer: 2
+    explanation: >
+      Baisser la température de combustion réduit les oxydes d'azote mais favorise les
+      particules, et inversement. Il faut donc deux dispositifs de traitement distincts.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Les normes dites Euro fixent des plafonds d'émission pour les polluants réglementés des véhicules
-neufs vendus dans l'Union européenne. Elles ne concernent pas le dioxyde de carbone, traité par un
-dispositif distinct d'objectifs moyens de flotte, mais les oxydes d'azote, les particules, le
-monoxyde de carbone et les hydrocarbures imbrûlés.
+Pendant vingt ans, en Europe, plus d'une voiture neuve sur deux était un Diesel. Aujourd'hui,
+c'est devenu une part marginale du marché des voitures particulières.
 
-## Un durcissement par paliers
+Ce retournement très rapide mérite d'être expliqué, parce qu'il n'est pas dû à une découverte
+technique mais à un changement de ce que l'on décide de mesurer.
 
-Entrées en vigueur par étapes depuis le début des années 1990, ces normes ont abaissé les seuils
-d'un facteur proche de dix sur plusieurs polluants. Chaque palier a imposé une évolution
-technique : catalyseur trois voies sur les moteurs à allumage commandé, filtre à particules sur
-les moteurs Diesel, recirculation des gaz d'échappement, puis réduction catalytique sélective par
-injection d'une solution d'urée pour abaisser les oxydes d'azote.
+## Pourquoi il consommait moins
 
-## L'écart entre l'homologation et la route
+Le moteur Diesel comprime l'air beaucoup plus fort qu'un moteur à essence. Cette compression
+élevée améliore le rendement : on tire plus de travail de la même quantité de carburant.
 
-Les mesures d'homologation ont longtemps été réalisées sur un cycle de laboratoire peu
-représentatif de la conduite réelle, avec des accélérations douces et une température maîtrisée.
-L'écart constaté entre les valeurs homologuées et les émissions en conditions réelles, mis en
-lumière par une affaire de dispositifs de détection de cycle chez un grand constructeur, a conduit
-à introduire des essais en conduite réelle avec analyseur embarqué, et un cycle d'homologation
-plus exigeant.
+Il fonctionne en outre avec un excès d'air et sans papillon pour étrangler l'admission, ce qui
+limite les pertes quand on roule à faible charge — c'est-à-dire la plupart du temps.
 
-## Ce que la réglementation ne règle pas
+Résultat : 20 à 30 % de consommation en moins à performance comparable. Et donc moins de dioxyde
+de carbone au kilomètre.
 
-Les progrès portent sur les émissions à l'échappement. Or une part croissante des particules émises
-par le trafic provient de l'abrasion des freins, des pneumatiques et de la chaussée, sources non
-liées à la motorisation et que l'électrification ne supprime pas, l'alourdissement des véhicules
-pouvant même les aggraver. Les normes les plus récentes commencent à intégrer ces émissions hors
-échappement.
+## Pourquoi on l'a encouragé
 
-## Faits clés
+Dans les années 1990 et 2000, l'urgence affichée était le climat. Le critère retenu était donc
+le CO2 par kilomètre.
 
-- Les normes Euro visent les polluants locaux, pas le dioxyde de carbone.
-- Les seuils ont été abaissés d'environ un facteur dix depuis 1992.
-- Les essais en conduite réelle ont été introduits après la mise en évidence d'écarts majeurs.
-- Freins et pneumatiques constituent une source de particules indépendante de la motorisation.
+Sur ce critère, le Diesel gagnait. Les fiscalités du carburant l'ont favorisé dans plusieurs
+pays européens, et les constructeurs ont massivement investi.
 
-[Emplacement image : évolution des seuils d'émission réglementaires par palier, légende et texte
-alternatif à fournir ultérieurement.]
+## Le revers
+
+Le problème est que la combustion Diesel produit deux polluants locaux en quantité.
+
+Les oxydes d'azote, favorisés par la température élevée de combustion, irritent les voies
+respiratoires et participent à la formation d'ozone.
+
+Les particules fines, issues d'une combustion moins homogène, pénètrent profondément dans les
+poumons.
+
+Et ces deux problèmes sont antagonistes : abaisser la température pour réduire les oxydes
+d'azote augmente les particules, et inversement. Il a donc fallu ajouter un filtre à particules,
+puis un système qui injecte une solution d'urée pour détruire les oxydes d'azote. Le moteur est
+devenu coûteux et complexe.
+
+La révélation d'écarts massifs entre les valeurs mesurées en laboratoire et les émissions
+réelles sur route a achevé de détruire la confiance du public.
+
+## Où il reste pertinent
+
+Le principe conserve tout son intérêt là où le rendement prime et où le poids compte moins :
+camions, tracteurs, engins de chantier, navires, groupes électrogènes.
+
+Sur ces usages, aucune alternative n'est aujourd'hui prête à le remplacer à grande échelle.
+
+## À retenir
+
+- Le Diesel consomme 20 à 30 % de moins grâce à sa forte compression.
+- Il a été encouragé quand le seul critère retenu était le CO2 par kilomètre.
+- Oxydes d'azote et particules sont ses deux points faibles, et ils s'opposent.
+- Il reste dominant dans le transport lourd et les engins.
+
+[Emplacement image : comparaison des cycles essence et Diesel, légende et texte alternatif à
+fournir ultérieurement.]
 
 ---
 
 ---
 type: article
-title: La recharge des véhicules électriques
+title: La voiture électrique
+slug: voiture-electrique
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Plus de 20 millions d'exemplaires vendus dans le monde en 2025, soit environ un quart des
+  voitures neuves. La Chine représente plus de la moitié de cette croissance.
+tags: [automobile, electrique, batteries, marche, emissions]
+relatedArticles: [recharge-et-infrastructure-des-bornes, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Electric vehicles"
+    url: "https://www.iea.org/energy-system/transport/electric-vehicles"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+  - title: "Mobilité"
+    url: "https://www.ademe.fr/"
+    publisher: "ADEME"
+    date: "2025"
+quiz:
+  - question: "Quel est le rendement approximatif d'un moteur électrique ?"
+    options:
+      - "Environ 30 %"
+      - "Plus de 90 %"
+      - "Environ 50 %"
+    answer: 2
+    explanation: >
+      Contre 20 à 40 % pour un moteur thermique. Presque toute l'électricité consommée devient
+      du mouvement, et très peu de chaleur.
+  - question: "Qu'est-ce que la récupération au freinage ?"
+    options:
+      - "Un système qui refroidit les freins"
+      - "Le moteur fonctionne en génératrice et recharge la batterie au lieu de dissiper
+        l'énergie en chaleur"
+      - "Une réserve d'énergie dans les pneus"
+    answer: 2
+    explanation: >
+      Dans une voiture classique, freiner transforme l'énergie en chaleur perdue. Ici, une
+      partie revient dans la batterie, ce qui explique l'efficacité particulière en ville.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+En 2025, plus de 20 millions de voitures électriques ont été vendues dans le monde, soit environ
+un quart des voitures neuves. Il y a dix ans, c'était une curiosité.
+
+La Chine porte plus de la moitié de cette croissance, à la fois comme marché et comme
+producteur.
+
+## Ce que le moteur électrique fait mieux
+
+Son rendement dépasse 90 %, contre 20 à 40 % pour un moteur thermique. Presque toute
+l'électricité devient du mouvement.
+
+Il délivre son couple maximal dès l'arrêt, d'où l'accélération immédiate caractéristique. Pas
+besoin de boîte de vitesses à plusieurs rapports.
+
+Il compte très peu de pièces en mouvement : pas de soupapes, pas de courroie de distribution,
+pas d'embrayage, pas de vidange. L'entretien s'en trouve nettement réduit.
+
+Et il peut fonctionner à l'envers. Au freinage, il devient génératrice et renvoie de l'énergie
+dans la batterie, au lieu de la dissiper en chaleur dans les plaquettes. C'est pourquoi une
+voiture électrique est particulièrement efficace en ville, là où une thermique est au plus mal.
+
+## La batterie, le vrai sujet
+
+Tout le reste du problème est là.
+
+Une batterie lithium-ion stocke bien moins d'énergie par kilogramme que l'essence. Il en faut
+donc beaucoup, ce qui alourdit la voiture et renchérit son prix.
+
+La bonne nouvelle est la trajectoire des coûts : le prix des batteries a chuté d'un ordre de
+grandeur en une quinzaine d'années, et c'est ce qui a rendu ces voitures accessibles.
+
+Le poids reste un problème : une voiture électrique est généralement plus lourde qu'une
+thermique équivalente, ce qui use davantage pneus et chaussée.
+
+## L'électricité ne vient pas de nulle part
+
+Une voiture électrique n'émet rien à l'endroit où elle roule. Cela règle la question de la
+pollution de l'air en ville.
+
+Pour le climat, en revanche, tout dépend de la façon dont l'électricité est produite. Rechargée
+avec de l'électricité issue du charbon, une voiture électrique perd une grande partie de son
+avantage. Rechargée avec un mix décarboné, elle l'emporte largement.
+
+Il faut aussi compter la fabrication de la batterie, qui émet beaucoup au départ. Le bilan ne
+devient favorable qu'après plusieurs dizaines de milliers de kilomètres.
+
+## À retenir
+
+- Plus de 20 millions de ventes en 2025, environ un quart des voitures neuves.
+- Le moteur électrique dépasse 90 % de rendement et récupère l'énergie au freinage.
+- Le prix des batteries a chuté d'un ordre de grandeur en quinze ans.
+- Le bénéfice climatique dépend du mix électrique et du kilométrage parcouru.
+
+[Emplacement image : chaîne de traction d'une voiture électrique, légende et texte alternatif à
+fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Recharger une voiture électrique
 slug: recharge-et-infrastructure-des-bornes
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Puissance disponible, courbe de charge et maillage du territoire comptent davantage que la
-  capacité de la batterie dans l'usage réel d'un véhicule électrique.
+  La puissance de recharge chute fortement au-delà de 80 % de batterie. Sur un long trajet,
+  deux arrêts courts valent mieux qu'une charge complète.
 tags: [automobile, electrique, recharge, bornes, batteries]
-relatedArticles: [voiture-electrique, reseaux-electriques-intelligents-smart-grids]
+relatedArticles: [voiture-electrique, autonomie-reelle-et-cycle-dhomologation]
 sources:
-  - title: "Global EV Outlook"
+  - title: "Electric vehicles"
     url: "https://www.iea.org/energy-system/transport/electric-vehicles"
     publisher: "Agence internationale de l'énergie"
     date: "2025"
@@ -315,258 +540,298 @@ sources:
     url: "https://www.ademe.fr/"
     publisher: "ADEME"
     date: "2025"
+quiz:
+  - question: "Pourquoi la recharge ralentit-elle fortement après 80 % ?"
+    options:
+      - "Parce que la borne se fatigue"
+      - "Parce que la batterie limite la puissance pour protéger ses cellules"
+      - "Parce que le câble chauffe trop"
+    answer: 2
+    explanation: >
+      Remplir les derniers pour cent exige d'y aller doucement, sous peine d'abîmer les
+      cellules. C'est pourquoi on conseille des arrêts courts plutôt qu'une charge complète.
+  - question: "Où se rechargent la plupart des voitures électriques ?"
+    options:
+      - "Sur les bornes rapides des autoroutes"
+      - "À domicile, la nuit"
+      - "Dans les stations-service"
+    answer: 2
+    explanation: >
+      Les trajets quotidiens se comptent en dizaines de kilomètres. Une prise domestique
+      suffit largement pendant la nuit. La recharge rapide ne sert que pour les longs trajets.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-L'expérience d'un véhicule électrique dépend moins de la taille de sa batterie que des conditions
-dans lesquelles il se recharge. Trois paramètres la déterminent : la puissance accessible, la
-manière dont le véhicule accepte cette puissance au fil de la charge, et la densité du réseau de
-points de recharge.
+L'expérience d'une voiture électrique dépend moins de la taille de sa batterie que de la façon
+dont elle se recharge.
 
-## Trois régimes de recharge
+Et le point le plus contre-intuitif est celui-ci : la grande majorité des recharges se font
+tranquillement à domicile, la nuit, sur une prise ordinaire.
 
-La recharge domestique sur prise renforcée délivre quelques kilowatts et convient à une immobilisation
-nocturne : elle couvre sans difficulté les trajets quotidiens, qui se comptent le plus souvent en
-dizaines de kilomètres. La recharge accélérée en courant alternatif, jusqu'à 22 kilowatts, équipe
-parkings d'entreprise et voirie. La recharge rapide en courant continu, de 50 à plus de 300
-kilowatts, est réservée aux trajets longs : elle court-circuite le chargeur embarqué et alimente
-directement la batterie.
+## Trois vitesses
+
+La recharge domestique délivre quelques kilowatts. Elle prend une nuit entière, ce qui n'a
+aucune importance puisque la voiture dort. Elle couvre sans difficulté les trajets quotidiens,
+qui se comptent en dizaines de kilomètres.
+
+La recharge accélérée, jusqu'à 22 kilowatts, équipe les parkings d'entreprise et la voirie. On
+récupère l'essentiel pendant une journée de travail.
+
+La recharge rapide en courant continu, de 50 à plus de 300 kilowatts, sert aux longs trajets.
+Elle contourne le chargeur de la voiture et alimente directement la batterie.
 
 ## La courbe de charge
 
-Une batterie n'accepte pas une puissance constante. Elle atteint son maximum sur une plage
-intermédiaire d'état de charge, puis la puissance décroît fortement au-delà d'environ 80 pour cent
-afin de préserver les cellules. C'est pourquoi la pratique recommandée sur un long trajet consiste
-à effectuer des arrêts courts dans la plage la plus favorable plutôt qu'une charge complète. La
-température joue un rôle comparable : une batterie froide limite la puissance admissible, d'où le
-préconditionnement thermique déclenché à l'approche d'une borne.
+Une batterie n'accepte pas une puissance constante. C'est le point que les conducteurs
+découvrent souvent avec surprise.
 
-## Le maillage et ses contraintes
+La puissance est maximale sur une plage intermédiaire, puis chute nettement au-delà d'environ
+80 % de charge. Remplir les derniers pour cent prend presque aussi longtemps que d'aller de 20 à
+80 %.
 
-Le déploiement des points de recharge se heurte moins au coût des bornes qu'au raccordement au
-réseau électrique, qui suppose des puissances importantes en des points parfois éloignés des
-postes de transformation. La disponibilité, la fiabilité et la simplicité du paiement pèsent
-autant que le nombre de bornes sur l'usage effectif. L'habitat collectif sans place attribuée
-constitue le point dur : c'est là que l'absence de recharge nocturne reste le principal frein.
+Sur un long trajet, la stratégie efficace consiste donc à faire deux arrêts courts dans la bonne
+plage plutôt qu'un seul arrêt long.
 
-## Faits clés
+La température joue le même rôle. Une batterie froide accepte beaucoup moins de puissance. C'est
+pourquoi les voitures récentes chauffent la batterie automatiquement quand on programme une
+borne dans le GPS.
 
-- La recharge nocturne domestique couvre l'essentiel des besoins quotidiens.
-- La puissance acceptée chute au-delà d'environ 80 pour cent d'état de charge.
-- Une batterie froide limite fortement la puissance de recharge admissible.
-- Le raccordement au réseau, plus que la borne, conditionne le déploiement.
+## Le vrai obstacle au déploiement
 
-[Emplacement image : courbe de puissance de recharge en fonction de l'état de charge, légende et
-texte alternatif à fournir ultérieurement.]
+Ce n'est pas le prix des bornes. C'est le raccordement électrique.
+
+Une station de recharge rapide demande une puissance comparable à celle d'un petit village, en
+un point parfois éloigné du réseau. Les travaux de raccordement dominent le coût et les délais.
+
+L'autre point dur est l'habitat collectif sans place attribuée. Là, la recharge nocturne n'est
+pas possible, et c'est aujourd'hui le principal frein à l'adoption.
+
+## À retenir
+
+- La plupart des recharges se font à domicile, la nuit, sur faible puissance.
+- La puissance chute fortement au-delà de 80 % de charge.
+- Une batterie froide accepte beaucoup moins de puissance.
+- Le raccordement au réseau, pas la borne, conditionne le déploiement.
+
+[Emplacement image : courbe de puissance de recharge selon l'état de charge, légende et texte
+alternatif à fournir ultérieurement.]
 
 ---
 
 ---
 type: article
-title: L'autonomie réelle et le cycle d'homologation
+title: Pourquoi l'autonomie annoncée n'est jamais celle qu'on obtient
 slug: autonomie-reelle-et-cycle-dhomologation
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Les valeurs d'autonomie annoncées proviennent d'un protocole normalisé, dont les écarts avec
-  l'usage réel s'expliquent par la vitesse, la température et les auxiliaires.
-tags: [automobile, electrique, autonomie, WLTP, homologation]
+  La puissance nécessaire pour vaincre l'air augmente comme le cube de la vitesse. Rouler à
+  130 km/h au lieu de 110 coûte bien plus que 18 % d'énergie.
+tags: [automobile, electrique, autonomie, homologation, aerodynamique]
 relatedArticles: [recharge-et-infrastructure-des-bornes, voiture-electrique]
 sources:
-  - title: "Vehicle testing procedures"
+  - title: "Vehicle regulations"
     url: "https://unece.org/transport/vehicle-regulations"
     publisher: "Commission économique pour l'Europe des Nations unies"
     date: "2025"
-  - title: "Consommations et émissions"
+  - title: "Consommations"
     url: "https://www.ademe.fr/"
     publisher: "ADEME"
     date: "2025"
+quiz:
+  - question: "Pourquoi l'autonomie chute-t-elle autant sur autoroute ?"
+    options:
+      - "Parce que le moteur chauffe"
+      - "Parce que la puissance nécessaire pour vaincre l'air augmente comme le cube de la
+        vitesse"
+      - "Parce que la batterie se décharge toute seule"
+    answer: 2
+    explanation: >
+      La résistance de l'air croît avec le carré de la vitesse, et la puissance nécessaire avec
+      son cube. C'est pourquoi rouler un peu moins vite change beaucoup la consommation.
+  - question: "Pourquoi le froid réduit-il l'autonomie d'une voiture électrique ?"
+    options:
+      - "Parce que la batterie fonctionne moins bien et que le chauffage consomme de
+        l'électricité"
+      - "Parce que les pneus gonflent"
+      - "Parce que le moteur électrique gèle"
+    answer: 1
+    explanation: >
+      Double peine : la chimie de la batterie est moins efficace à froid, et il faut prélever
+      de l'électricité pour chauffer l'habitacle, alors qu'un moteur thermique le faisait
+      gratuitement avec sa chaleur perdue.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-L'autonomie affichée d'un véhicule électrique résulte d'un essai normalisé, conduit en
-laboratoire selon une procédure harmonisée à l'échelle internationale. Cette normalisation permet
-de comparer les modèles entre eux, mais elle ne prétend pas prédire l'autonomie d'un trajet
-particulier.
+Une voiture électrique annonce 450 kilomètres d'autonomie. Sur autoroute en hiver, vous en
+faites 280. Vous n'avez pas été trompé, mais vous n'avez pas lu la même chose que ce qui était
+mesuré.
 
-## Pourquoi un cycle normalisé
+## Pourquoi une mesure en laboratoire
 
-Mesurer une consommation sur route réelle donnerait des résultats non reproductibles : le trafic,
-le vent, la température et le style de conduite varient trop. Le cycle d'homologation impose donc
-un profil de vitesse défini, une température de référence et une masse conventionnelle. Le cycle
-en vigueur, plus long, plus rapide et plus dynamique que le précédent, a rapproché les valeurs
-officielles de l'usage courant sans supprimer l'écart.
+Mesurer une consommation sur route réelle donnerait un résultat différent à chaque essai :
+trafic, vent, température, style de conduite.
 
-## Les trois causes principales de l'écart
+Le cycle d'homologation impose donc des conditions identiques pour tous : un profil de vitesse
+défini, une température de référence, une masse conventionnelle.
 
-La vitesse pèse le plus : la résistance aérodynamique croît avec le carré de la vitesse et la
-puissance nécessaire avec son cube, si bien qu'un long trajet autoroutier peut réduire l'autonomie
-du tiers par rapport à un parcours mixte. Le froid agit doublement, en dégradant la chimie des
-cellules et en mobilisant le chauffage de l'habitacle, poste qu'un moteur thermique alimentait
-gratuitement par ses pertes. Le relief, la charge embarquée et l'usage de la climatisation
-complètent le tableau.
+Cela permet de comparer les modèles entre eux. Cela ne prétend pas prédire votre trajet.
 
-## Les parades techniques
+## Le poids énorme de la vitesse
 
-Les constructeurs recourent à la pompe à chaleur, bien plus efficace qu'une résistance pour
-chauffer l'habitacle, au préconditionnement de la batterie lorsque le véhicule est branché, et à
-la récupération d'énergie au freinage, particulièrement efficace en usage urbain. Les
-planificateurs d'itinéraire embarqués intègrent désormais vitesse prévue, relief et température
-pour estimer l'autonomie restante avec une précision très supérieure à un simple pourcentage de
-batterie.
+C'est le facteur principal, et il est mal connu.
 
-## Faits clés
+La résistance de l'air augmente comme le carré de la vitesse. Mais la puissance nécessaire pour
+la vaincre augmente comme le cube.
 
-- Le cycle d'homologation sert à comparer les modèles, non à prédire un trajet.
-- La puissance aérodynamique nécessaire croît comme le cube de la vitesse.
-- Le froid dégrade la batterie et mobilise le chauffage de l'habitacle.
-- Pompe à chaleur et préconditionnement réduisent sensiblement ces pertes.
+Concrètement : passer de 110 à 130 km/h, soit 18 % plus vite, demande environ 65 % de puissance
+en plus pour l'aérodynamique. Sur un long trajet autoroutier, l'autonomie peut reculer du tiers.
 
-[Emplacement image : autonomie comparée selon la vitesse et la température extérieure, légende et
-texte alternatif à fournir ultérieurement.]
+C'est d'ailleurs vrai aussi pour une voiture thermique, simplement on le remarque moins parce
+qu'une station-service se trouve à chaque sortie.
+
+## Le froid, double peine
+
+Le froid dégrade la chimie de la batterie : elle délivre moins bien son énergie.
+
+Et surtout, il faut chauffer l'habitacle. Dans une voiture thermique, le chauffage était
+gratuit : on récupérait la chaleur perdue du moteur, qui en produisait à profusion. Un moteur
+électrique, lui, ne perd presque rien — donc il n'y a rien à récupérer.
+
+D'où la pompe à chaleur, aujourd'hui répandue : elle déplace de la chaleur plutôt que d'en
+produire, ce qui consomme trois fois moins qu'une résistance électrique.
+
+## Ce qui compte encore
+
+Le relief, la charge embarquée, la présence d'un coffre de toit qui dégrade l'aérodynamique,
+et la pression des pneus.
+
+Les planificateurs d'itinéraire embarqués intègrent désormais tous ces paramètres et donnent
+une estimation bien plus fiable qu'un simple pourcentage de batterie.
+
+## À retenir
+
+- Le cycle d'homologation sert à comparer les modèles, pas à prédire un trajet.
+- La puissance nécessaire pour vaincre l'air croît comme le cube de la vitesse.
+- Le froid dégrade la batterie et mobilise le chauffage.
+- La pompe à chaleur consomme environ trois fois moins qu'une résistance.
+
+[Emplacement image : autonomie selon la vitesse et la température, légende et texte alternatif à
+fournir ultérieurement.]
 
 ---
 
 ---
 type: article
-title: Le moteur Diesel, principe et déclin
-slug: moteur-diesel-principe-et-declin
-categoryPath: automobile/motorisations/thermique
-summary: >
-  Son rendement supérieur lui a valu une domination européenne de deux décennies, avant que les
-  émissions d'oxydes d'azote et de particules n'inversent la tendance.
-tags: [automobile, diesel, moteur, rendement, emissions]
-relatedArticles: [fonctionnement-moteur-combustion-interne, normes-demissions-euro]
-sources:
-  - title: "Diesel engine"
-    url: "https://www.britannica.com/technology/diesel-engine"
-    publisher: "Encyclopaedia Britannica"
-    date: "2025"
-  - title: "Parc automobile et motorisations"
-    url: "https://www.statistiques.developpement-durable.gouv.fr/"
-    publisher: "Service des données et études statistiques"
-    date: "2025"
-lastVerified: 2026-09-22
-status: published
----
-
-## Résumé
-
-Le moteur Diesel se distingue du moteur à allumage commandé par son mode d'inflammation : l'air
-seul est comprimé, fortement, ce qui élève sa température au-delà du point d'auto-inflammation du
-carburant, injecté en fin de compression. Ce principe autorise un taux de compression élevé, d'où
-un rendement thermodynamique supérieur.
-
-## Les raisons d'un succès européen
-
-Un rendement meilleur se traduit par une consommation réduite d'environ 20 à 30 pour cent à
-prestation comparable, et donc par des émissions de dioxyde de carbone plus faibles au kilomètre.
-La combustion en mélange pauvre et l'absence de papillon d'admission limitent les pertes à charge
-partielle, ce qui avantage ce moteur sur les longs trajets. Une fiscalité du carburant souvent
-favorable et des politiques publiques attentives au seul dioxyde de carbone ont fait le reste : la
-part du Diesel dans les immatriculations européennes a dépassé la moitié du marché pendant une
-longue période.
-
-## Le revers
-
-La combustion en excès d'air et à haute température favorise précisément la formation des oxydes
-d'azote, et la combustion hétérogène produit des particules fines. Le traitement de ces deux
-polluants est antagoniste : abaisser les oxydes d'azote par recirculation des gaz augmente les
-particules, et inversement. Les dispositifs nécessaires, filtre à particules et réduction
-catalytique sélective, ont renchéri et complexifié le moteur. La mise en évidence d'écarts majeurs
-entre valeurs homologuées et émissions réelles a enfin détruit la confiance du public.
-
-## Un déclin inégal
-
-La part du Diesel s'est effondrée sur le marché des véhicules particuliers neufs en Europe, sous
-l'effet conjugué des restrictions de circulation urbaines, de la fiscalité et de la valeur
-résiduelle. Le principe conserve en revanche sa pertinence là où le rendement et le couple à bas
-régime priment et où les contraintes de masse sont moindres : transport routier de marchandises,
-engins agricoles, marine et production électrique de secours.
-
-## Faits clés
-
-- Le Diesel comprime l'air seul et enflamme le carburant par la chaleur de compression.
-- Son rendement supérieur réduit la consommation de 20 à 30 pour cent.
-- La réduction des oxydes d'azote et celle des particules sont antagonistes.
-- Le principe reste dominant dans le transport lourd et les engins.
-
-[Emplacement image : cycle thermodynamique comparé d'un moteur Diesel et d'un moteur à allumage
-commandé, légende et texte alternatif à fournir ultérieurement.]
-
----
-
----
-type: article
-title: Les architectures de motorisation hybride
+title: Les motorisations hybrides
 slug: motorisations-hybrides-architectures
 categoryPath: automobile/motorisations/motorisations-hybrides
 summary: >
-  Série, parallèle ou à dérivation de puissance, les hybrides se distinguent par la manière dont
-  les flux d'énergie thermique et électrique se combinent jusqu'aux roues.
-tags: [automobile, hybride, motorisation, rendement, rechargeable]
-relatedArticles: [moteur-diesel-principe-et-declin, voiture-electrique]
+  Un hybride rechargeable jamais rechargé consomme plus qu'une voiture thermique. C'est le seul
+  type de voiture dont le bilan dépend entièrement du comportement du conducteur.
+tags: [automobile, hybride, rechargeable, rendement, ville]
+relatedArticles: [voiture-electrique, fonctionnement-moteur-combustion-interne]
 sources:
   - title: "Hybrid vehicle"
     url: "https://www.britannica.com/technology/hybrid-vehicle"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
-  - title: "Transport et énergie"
+  - title: "Transport"
     url: "https://www.iea.org/energy-system/transport"
     publisher: "Agence internationale de l'énergie"
     date: "2025"
+quiz:
+  - question: "À quoi sert vraiment l'hybridation ?"
+    options:
+      - "À additionner la puissance des deux moteurs"
+      - "À faire fonctionner le moteur thermique dans sa zone de meilleur rendement"
+      - "À pouvoir rouler sans carburant"
+    answer: 2
+    explanation: >
+      Un moteur thermique a un mauvais rendement à faible charge et au démarrage. L'électrique
+      prend ces moments-là, et le thermique ne travaille que là où il est bon.
+  - question: "Dans quel usage un hybride classique est-il le plus efficace ?"
+    options:
+      - "Sur autoroute"
+      - "En ville, avec beaucoup d'arrêts et de redémarrages"
+      - "En montagne"
+    answer: 2
+    explanation: >
+      C'est en ville que le thermique est le plus mauvais et que la récupération au freinage
+      rapporte le plus. Sur autoroute, l'avantage s'efface presque entièrement.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Un véhicule hybride embarque deux sources de puissance, un moteur thermique et au moins une
-machine électrique associée à une batterie. L'intérêt ne tient pas à l'addition des puissances
-mais à la possibilité de faire fonctionner le moteur thermique dans sa zone de meilleur rendement,
-et de récupérer au freinage une énergie autrement dissipée en chaleur.
+Une voiture hybride embarque deux moteurs : un thermique et au moins un électrique, avec une
+batterie.
 
-## Trois familles
+L'idée n'est pas d'additionner leurs puissances. C'est de laisser chacun travailler là où il est
+bon.
 
-Dans l'hybride série, le moteur thermique n'entraîne jamais les roues : il entraîne une
-génératrice qui alimente la machine de traction ou la batterie. L'architecture est simple et le
-thermique tourne à régime constant, mais la double conversion entraîne des pertes. Dans l'hybride
-parallèle, les deux moteurs peuvent entraîner les roues, séparément ou ensemble, par le même
-organe de transmission. La dérivation de puissance, enfin, répartit le flux entre voie mécanique
-et voie électrique au moyen d'un train épicycloïdal, ce qui permet de choisir librement le régime
-du moteur thermique sans boîte de vitesses classique.
+## Le problème que cela résout
 
-## Le degré d'hybridation
+Un moteur thermique a un mauvais rendement à faible charge, au ralenti et au démarrage. Or c'est
+exactement ce qu'on lui demande en ville.
 
-L'hybridation légère se limite à un alterno-démarreur renforcé qui assiste les reprises et permet
-l'arrêt du moteur en décélération, pour un gain modeste. L'hybride complet ajoute une capacité de
-roulage électrique sur de courtes distances et à faible vitesse. L'hybride rechargeable embarque
-une batterie nettement plus grande, alimentée par le réseau, et offre plusieurs dizaines de
-kilomètres en électrique, couvrant les trajets quotidiens.
+Un moteur électrique, lui, est excellent précisément dans ces situations, et il peut récupérer
+de l'énergie au freinage.
 
-## La question du bénéfice réel
+L'hybridation consiste donc à couper le thermique quand il serait mauvais, et à le faire tourner
+à bon rendement le reste du temps.
 
-Le gain d'un hybride complet est le plus net en usage urbain, là où les arrêts et reprises sont
-fréquents et la récupération abondante ; il s'amenuise sur autoroute. Pour l'hybride rechargeable,
-tout dépend du comportement du conducteur : rechargé quotidiennement, il fonctionne l'essentiel du
-temps en électrique ; jamais rechargé, il transporte une batterie inutile et consomme davantage
-qu'un véhicule thermique équivalent. Les écarts observés entre homologation et usage réel sur ce
-segment s'expliquent principalement ainsi.
+## Trois architectures
 
-## Faits clés
+Dans l'hybride série, le moteur thermique n'entraîne jamais les roues. Il fait tourner une
+génératrice, et c'est l'électricité produite qui alimente le moteur de traction. Le thermique
+peut ainsi tourner à régime constant, à son meilleur point.
 
-- L'hybridation vise le rendement du moteur thermique, non l'addition des puissances.
-- Série, parallèle et dérivation de puissance se distinguent par le cheminement de l'énergie.
-- Le gain d'un hybride complet est maximal en usage urbain.
-- Le bénéfice d'un hybride rechargeable dépend entièrement de la fréquence de recharge.
+Dans l'hybride parallèle, les deux moteurs peuvent entraîner les roues, ensemble ou séparément.
 
-[Emplacement image : schémas comparés des architectures série, parallèle et à dérivation de
-puissance, légende et texte alternatif à fournir ultérieurement.]
+La dérivation de puissance, enfin, répartit l'énergie entre voie mécanique et voie électrique
+au moyen d'un train d'engrenages particulier. Elle permet de choisir librement le régime du
+thermique sans boîte de vitesses classique.
+
+## Trois degrés d'hybridation
+
+L'hybridation légère se limite à un démarreur renforcé qui assiste les reprises et coupe le
+moteur en décélération. Le gain est modeste.
+
+L'hybride complet peut rouler en électrique sur de courtes distances et à faible vitesse. C'est
+en ville qu'il brille.
+
+L'hybride rechargeable embarque une batterie nettement plus grosse, qu'on branche sur le réseau,
+et offre plusieurs dizaines de kilomètres en électrique.
+
+## Le piège de l'hybride rechargeable
+
+Ce dernier cas mérite une mise en garde.
+
+Rechargé chaque soir, il fonctionne l'essentiel du temps en électrique et sa consommation réelle
+est très basse.
+
+Jamais rechargé, il transporte une grosse batterie inutile, donc du poids mort, et consomme
+davantage qu'une voiture thermique équivalente.
+
+Les écarts considérables observés entre consommations homologuées et consommations réelles sur
+ce segment s'expliquent presque entièrement par ce comportement.
+
+## À retenir
+
+- L'hybridation vise le rendement du thermique, pas l'addition des puissances.
+- Série, parallèle et dérivation de puissance se distinguent par le chemin de l'énergie.
+- L'hybride complet est surtout efficace en ville.
+- Un hybride rechargeable non rechargé consomme plus qu'une thermique.
+
+[Emplacement image : trois architectures hybrides comparées, légende et texte alternatif à
+fournir ultérieurement.]
 
 ---
 
@@ -576,10 +841,10 @@ title: Biocarburants et carburants de synthèse
 slug: biocarburants-et-carburants-de-synthese
 categoryPath: automobile/motorisations/carburants-alternatifs
 summary: >
-  Produire un carburant liquide à partir de biomasse ou de dioxyde de carbone capté permet de
-  conserver le moteur existant, mais se heurte au rendement et à la ressource.
-tags: [automobile, biocarburants, carburants-de-synthese, energie, decarbonation]
-relatedArticles: [carburants-aviation-durables-saf, agriculture-durable-dans-le-monde]
+  Fabriquer du carburant liquide à partir de plantes ou de CO2 capté permet de garder les
+  voitures actuelles. Mais le rendement de la chaîne est mauvais.
+tags: [automobile, biocarburants, synthese, energie, rendement]
+relatedArticles: [carburants-aviation-durables-saf, empreinte-carbone-de-lalimentation]
 sources:
   - title: "Biofuels"
     url: "https://www.iea.org/energy-system/low-emission-fuels/biofuels"
@@ -589,50 +854,87 @@ sources:
     url: "https://www.ademe.fr/"
     publisher: "ADEME"
     date: "2025"
+quiz:
+  - question: "Quel est le principal reproche fait aux biocarburants de première génération ?"
+    options:
+      - "Ils abîment les moteurs"
+      - "Ils utilisent des cultures alimentaires et donc des terres agricoles"
+      - "Ils sentent mauvais"
+    answer: 2
+    explanation: >
+      Maïs, betterave, colza, palme : ce sont des cultures qui pourraient nourrir. Leur usage
+      comme carburant peut aussi pousser à défricher ailleurs pour compenser.
+  - question: "Pourquoi les carburants de synthèse consomment-ils tant d'électricité ?"
+    options:
+      - "Parce que les usines sont mal isolées"
+      - "Parce que chaque étape de conversion perd de l'énergie, et il y en a plusieurs"
+      - "Parce qu'il faut les transporter loin"
+    answer: 2
+    explanation: >
+      Électricité vers hydrogène, hydrogène plus CO2 vers carburant, puis carburant vers
+      mouvement dans un moteur à 30 % de rendement. Au total, il faut plusieurs fois plus
+      d'électricité que pour alimenter directement une voiture électrique.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Les carburants alternatifs liquides présentent un avantage décisif : ils s'utilisent dans les
-moteurs et les réseaux de distribution existants. Cette compatibilité explique l'attention qui
-leur est portée pour les usages que l'électrification atteint difficilement. Leur bilan dépend
-entièrement de leur mode de production.
+Il existe une famille de solutions qui ne demande de changer ni les voitures, ni les
+stations-service : fabriquer un carburant liquide autrement qu'à partir du pétrole.
 
-## Les générations de biocarburants
+C'est séduisant. C'est aussi là que se cachent les plus grosses difficultés.
 
-La première génération emploie des cultures alimentaires : sucre et amidon fermentés en éthanol,
-huiles végétales transformées en esters méthyliques. Elle est techniquement mûre mais entre en
-concurrence avec l'alimentation pour la terre et l'eau, et peut provoquer indirectement une
-conversion de surfaces naturelles dont les émissions annulent le bénéfice. La deuxième génération
-vise des résidus lignocellulosiques, pailles, déchets forestiers, qui ne concurrencent pas
-l'alimentation, mais dont la transformation reste difficile et coûteuse. La troisième, fondée sur
-les microalgues, demeure au stade de la recherche.
+## Les biocarburants de première génération
+
+On part de cultures : betterave, maïs ou canne pour faire de l'éthanol, colza ou palme pour faire
+du biodiesel.
+
+La technique est maîtrisée et déjà déployée. Le problème est ailleurs : ces cultures occupent des
+terres agricoles et de l'eau qui pourraient produire de la nourriture.
+
+Pire, un effet indirect existe. Si l'on consacre un champ de maïs au carburant, la nourriture
+qu'il produisait doit venir d'ailleurs — parfois d'une forêt défrichée. Les émissions de ce
+défrichement peuvent annuler le bénéfice.
+
+## La deuxième génération
+
+Elle vise des résidus : pailles, déchets forestiers, tiges non consommables. Aucune concurrence
+avec l'alimentation.
+
+Le problème devient technique. Ces matières contiennent de la lignine, très difficile à
+décomposer. Les procédés existent mais restent coûteux et peu déployés.
 
 ## Les carburants de synthèse
 
-Ces carburants combinent de l'hydrogène produit par électrolyse et du carbone capté, dans
-l'atmosphère ou sur un site industriel, pour reconstituer une molécule d'hydrocarbure. Le carbone
-restitué à la combustion est celui qui avait été capté, d'où la neutralité revendiquée. Le
-rendement de la chaîne complète constitue l'obstacle : chaque conversion coûte de l'énergie, et
-la quantité d'électricité nécessaire pour parcourir un kilomètre par cette voie dépasse largement
-celle d'un véhicule alimenté directement en électricité.
+Ici, on ne part plus du tout de plantes.
 
-## Où ils ont un sens
+On produit de l'hydrogène en cassant des molécules d'eau avec de l'électricité. On capte du
+dioxyde de carbone, dans l'air ou à la sortie d'une usine. On combine les deux pour reconstituer
+une molécule d'hydrocarbure.
 
-Le consensus des analyses disponibles réserve ces carburants aux usages où la densité énergétique
-et l'infrastructure existante priment : aviation long-courrier, transport maritime, engins lourds,
-et flotte de véhicules anciens qui continuera de circuler pendant des décennies. Les employer en
-substitut généralisé dans l'automobile particulière reviendrait à mobiliser une électricité
-décarbonée rare pour un usage où une solution plus efficace existe.
+Le carbone relâché à la combustion est celui qu'on avait capté : le bilan peut être neutre, si
+l'électricité est décarbonée.
 
-## Faits clés
+## Le problème du rendement
 
-- Les carburants liquides alternatifs sont compatibles avec les moteurs et réseaux existants.
+Comptons les pertes. Électricité vers hydrogène : on perd déjà une bonne part. Hydrogène plus
+CO2 vers carburant : on en perd encore. Carburant vers mouvement dans un moteur à 30 % de
+rendement : on perd l'essentiel.
+
+Au total, faire rouler une voiture avec un carburant de synthèse demande plusieurs fois plus
+d'électricité que de l'alimenter directement en électricité.
+
+C'est pourquoi les analyses disponibles réservent ces carburants aux usages qu'on ne sait pas
+électrifier : aviation long-courrier, navires, engins lourds, et le parc de véhicules anciens
+qui continuera de rouler pendant des décennies.
+
+## À retenir
+
+- Les carburants liquides alternatifs s'utilisent dans les véhicules existants.
 - La première génération concurrence les usages alimentaires des terres.
-- Les carburants de synthèse sont neutres seulement si électricité et carbone le sont.
-- Le rendement de la chaîne les réserve aux usages difficiles à électrifier.
+- Les carburants de synthèse sont neutres seulement si l'électricité l'est.
+- Leur rendement global les réserve aux usages difficiles à électrifier.
 
 [Emplacement image : comparaison du rendement de la chaîne électrique directe et de la chaîne
 carburant de synthèse, légende et texte alternatif à fournir ultérieurement.]
@@ -641,68 +943,109 @@ carburant de synthèse, légende et texte alternatif à fournir ultérieurement.
 
 ---
 type: article
-title: Ceinture, airbag et structures déformables
-slug: ceinture-airbag-et-structures-deformables
-categoryPath: automobile/securite-et-conduite/securite-passive
+title: Ce que les aides à la conduite évitent vraiment
+slug: technologies-aide-conduite-efficacite
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
 summary: >
-  Réduire la décélération subie par les occupants suppose d'allonger la durée du choc : tout
-  l'art de la sécurité passive consiste à gagner des millisecondes.
-tags: [automobile, securite-passive, ceinture, airbag, crash-test]
-relatedArticles: [technologies-aide-conduite-efficacite, freinage-durgence-automatique]
+  Le freinage d'urgence automatique réduit d'environ la moitié les collisions par l'arrière.
+  Mais son efficacité chute fortement de nuit sur les piétons.
+tags: [automobile, securite, ADAS, freinage, pietons]
+relatedArticles: [freinage-durgence-automatique, ceinture-airbag-et-structures-deformables]
 sources:
-  - title: "Road traffic injuries"
-    url: "https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries"
-    publisher: "Organisation mondiale de la santé"
-    date: "2025"
-  - title: "Sécurité des véhicules"
+  - title: "Safety ratings"
     url: "https://www.euroncap.com/fr"
     publisher: "Euro NCAP"
     date: "2025"
+  - title: "Road safety"
+    url: "https://www.who.int/health-topics/road-safety"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+quiz:
+  - question: "De combien le freinage d'urgence automatique réduit-il les collisions par l'arrière ?"
+    options:
+      - "D'environ 5 %"
+      - "D'environ la moitié"
+      - "De la quasi-totalité"
+    answer: 2
+    explanation: >
+      Les études indépendantes situent la réduction autour de 50 %, avec une fourchette de 34 à
+      50 % selon les configurations. C'est l'une des aides les mieux évaluées.
+  - question: "Dans quelle situation ces systèmes sont-ils les moins performants ?"
+    options:
+      - "Sur autoroute en plein jour"
+      - "La nuit, pour détecter un piéton"
+      - "Dans les embouteillages"
+    answer: 2
+    explanation: >
+      La caméra voit mal dans l'obscurité et un piéton est difficile à distinguer. C'est
+      précisément là que les accidents mortels de piétons sont les plus fréquents.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Lors d'un choc, ce qui blesse n'est pas la vitesse mais la décélération, c'est-à-dire la rapidité
-avec laquelle cette vitesse s'annule. Pour une variation de vitesse donnée, allonger la durée de
-l'arrêt réduit proportionnellement les efforts subis. Toute la sécurité passive découle de ce
-principe élémentaire.
+Les voitures récentes sont bardées de systèmes qui surveillent, alertent et parfois agissent à la
+place du conducteur.
 
-## La structure comme amortisseur
+Ce qui est intéressant, c'est qu'on ne se contente pas de les annoncer : des organismes
+indépendants mesurent leur effet réel en comparant les accidents des véhicules qui en sont
+équipés et de ceux qui ne le sont pas.
 
-La caisse d'un véhicule moderne n'est pas rigide partout, et c'est délibéré. Les zones avant et
-arrière sont conçues pour se déformer de manière programmée, absorbant l'énergie cinétique en se
-froissant selon des plis prévus au calcul. L'habitacle, à l'inverse, forme une cellule
-indéformable destinée à préserver l'espace de survie. Un véhicule ancien, plus rigide, transmettait
-la décélération presque intégralement à ses occupants.
+## Les chiffres
 
-## La retenue des occupants
+Le freinage d'urgence automatique est le plus étudié. Il réduit les collisions par l'arrière
+d'environ la moitié, avec une fourchette de 34 à 50 % selon les études et les configurations.
 
-La ceinture à trois points, généralisée à partir des années 1960, répartit l'effort sur le bassin
-et la cage thoracique, régions capables de le supporter. Elle s'est enrichie d'un prétensionneur,
-qui supprime le mou dès la détection du choc, et d'un limiteur d'effort, qui laisse filer la
-sangle de quelques centimètres au-delà d'une valeur donnée pour éviter les lésions thoraciques.
-Le coussin gonflable ne remplace pas la ceinture : il la complète en répartissant le contact sur
-une grande surface. Déployé sans ceinture, il peut lui-même blesser.
+Avec détection des piétons, la réduction des accidents impliquant un piéton est d'environ 27 %.
 
-## L'évaluation par les essais normalisés
+Ces chiffres sont considérables. Les collisions par l'arrière sont la configuration d'accident
+la plus fréquente, et les piétons figurent parmi les usagers les plus exposés.
 
-Les programmes d'évaluation indépendants soumettent les véhicules à des chocs frontaux, latéraux
-et contre poteau, mesurent les efforts sur des mannequins instrumentés et notent également la
-protection des piétons et le comportement des aides à la conduite. La publication de ces résultats
-a exercé sur les constructeurs une pression au moins aussi efficace que la réglementation, les
-notes influençant directement les décisions d'achat.
+## Les limites, tout aussi mesurées
 
-## Faits clés
+L'efficacité chute nettement dans deux cas.
 
-- Ce qui blesse est la décélération, non la vitesse elle-même.
-- Les zones déformables allongent la durée du choc, l'habitacle reste indéformable.
-- Prétensionneur et limiteur d'effort complètent la ceinture à trois points.
-- Le coussin gonflable complète la ceinture et ne la remplace pas.
+La nuit, d'abord : la caméra distingue mal un piéton dans l'obscurité, surtout s'il porte des
+vêtements sombres. Or c'est précisément la nuit que les accidents mortels de piétons sont les
+plus fréquents.
 
-[Emplacement image : déformation programmée d'une structure avant lors d'un choc frontal,
-légende et texte alternatif à fournir ultérieurement.]
+À haute vitesse ensuite : le système a besoin de distance pour agir, et au-delà d'un certain
+seuil il ne peut plus éviter le choc, seulement en réduire la violence.
+
+Restent aussi difficiles les traversées latérales rapides, les deux-roues et les situations avec
+beaucoup d'objets autour.
+
+## Les autres aides
+
+Le maintien dans la voie corrige la trajectoire si le véhicule dérive sans clignotant. Il agit
+sur les sorties de route, une cause majeure d'accidents mortels.
+
+La détection d'angle mort avertit lors d'un changement de file.
+
+Le régulateur adaptatif maintient une distance avec le véhicule précédent.
+
+## Le risque de la confiance
+
+Un effet indésirable est documenté : plus le conducteur fait confiance au système, moins il
+surveille.
+
+Or ces aides ne sont pas conçues pour conduire. Elles rattrapent une erreur, elles ne la
+remplacent pas. Un conducteur qui relâche son attention en comptant sur elles annule une partie
+du bénéfice.
+
+C'est pourquoi les protocoles d'évaluation récents notent aussi la façon dont un système
+maintient le conducteur impliqué.
+
+## À retenir
+
+- Le freinage automatique réduit d'environ la moitié les collisions par l'arrière.
+- Avec détection des piétons, la réduction est d'environ 27 %.
+- L'efficacité chute nettement de nuit et à haute vitesse.
+- La confiance excessive dans l'assistance réduit le bénéfice réel.
+
+[Emplacement image : efficacité mesurée des principales aides à la conduite, légende et texte
+alternatif à fournir ultérieurement.]
 
 ---
 
@@ -712,79 +1055,117 @@ title: Le freinage d'urgence automatique
 slug: freinage-durgence-automatique
 categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
 summary: >
-  Détecter un obstacle et déclencher le freinage sans intervention du conducteur réduit
-  sensiblement les collisions par l'arrière, la plus fréquente des configurations d'accident.
-tags: [automobile, securite, freinage, ADAS, capteurs]
+  Radar et caméra travaillent ensemble pour résoudre un dilemme : ne jamais rater un danger
+  réel, ne jamais freiner sans raison sur une voie rapide.
+tags: [automobile, freinage, radar, camera, securite]
 relatedArticles: [technologies-aide-conduite-efficacite, ceinture-airbag-et-structures-deformables]
 sources:
-  - title: "Vehicle safety technologies"
+  - title: "Safety technologies"
     url: "https://www.euroncap.com/fr"
     publisher: "Euro NCAP"
     date: "2025"
-  - title: "Road safety"
-    url: "https://www.who.int/health-topics/road-safety"
+  - title: "Road traffic injuries"
+    url: "https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries"
     publisher: "Organisation mondiale de la santé"
     date: "2025"
+quiz:
+  - question: "Pourquoi combine-t-on un radar et une caméra ?"
+    options:
+      - "Pour avoir deux fois plus d'images"
+      - "Parce que le radar mesure bien la distance même par mauvais temps, et la caméra
+        reconnaît ce que c'est"
+      - "Pour filmer les accidents"
+    answer: 2
+    explanation: >
+      Le radar sait qu'il y a quelque chose et à quelle distance, mais pas quoi. La caméra
+      reconnaît un piéton ou un panneau, mais estime mal les distances. Ensemble, ils se
+      complètent.
+  - question: "Pourquoi un freinage intempestif serait-il dangereux ?"
+    options:
+      - "Cela userait les plaquettes"
+      - "Un freinage brutal sans raison sur une voie rapide peut provoquer un accident par
+        l'arrière"
+      - "Cela viderait la batterie"
+    answer: 2
+    explanation: >
+      C'est pourquoi les constructeurs règlent ces systèmes avec beaucoup de prudence : rater
+      un danger est grave, mais freiner sans raison à 130 km/h l'est aussi.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Le freinage d'urgence automatique surveille en permanence l'espace situé devant le véhicule,
-estime le risque de collision et, si le conducteur ne réagit pas, déclenche lui-même le freinage.
-Obligatoire sur les véhicules neufs dans plusieurs juridictions, il figure parmi les aides à la
-conduite dont l'efficacité est la mieux documentée.
+Le freinage d'urgence automatique surveille en permanence ce qui se trouve devant la voiture. Si
+un choc devient probable et que le conducteur ne réagit pas, il freine lui-même.
 
-## La chaîne de perception
+Il est désormais obligatoire sur les véhicules neufs dans plusieurs régions du monde.
 
-Le système combine généralement un radar, qui mesure directement distance et vitesse relative et
-reste performant par mauvaise visibilité, et une caméra, qui reconnaît la nature de l'obstacle et
-sa position latérale. Certains véhicules ajoutent un télémètre laser. La fusion de ces sources
-vise à concilier deux exigences contradictoires : détecter tout danger réel, et ne jamais freiner
-sans raison, un déclenchement intempestif sur voie rapide étant lui-même dangereux.
+## Le dilemme central
 
-## De l'alerte au freinage complet
+Un tel système doit résoudre deux exigences contradictoires.
 
-L'intervention est graduée. Une alerte visuelle et sonore précède généralement toute action. Si le
-conducteur freine mais insuffisamment, un assistant amplifie la pression appliquée. En l'absence
-de réaction, le système freine de lui-même, d'abord partiellement, puis à pleine puissance. Même
-lorsque la collision ne peut être évitée, la réduction de vitesse obtenue diminue fortement la
-gravité des blessures, celle-ci variant approximativement comme le carré de la vitesse d'impact.
+Ne jamais rater un danger réel, évidemment.
 
-## Portée et limites
+Mais aussi ne jamais freiner sans raison. Un freinage brutal et injustifié à 130 km/h sur
+autoroute peut provoquer l'accident qu'on voulait éviter, cette fois par l'arrière.
 
-Les évaluations indépendantes montrent une réduction substantielle des collisions par l'arrière.
-Les performances restent en revanche inégales sur les usagers vulnérables, piétons et cyclistes,
-de nuit ou par temps dégradé, et lors de traversées latérales. Ces situations font l'objet de
-protocoles d'essai de plus en plus exigeants. Un risque comportemental est également documenté :
-la confiance excessive dans l'assistance peut conduire à relâcher l'attention, ce qui annule une
-partie du bénéfice.
+Tout le réglage consiste à placer le curseur entre ces deux erreurs.
 
-## Faits clés
+## Pourquoi deux capteurs
 
-- Le système combine radar et caméra pour concilier détection et absence de fausse alerte.
-- L'intervention est graduée, de l'alerte au freinage à pleine puissance.
-- La gravité des blessures varie approximativement comme le carré de la vitesse d'impact.
-- La détection des usagers vulnérables de nuit reste le point faible.
+Le radar émet des ondes et analyse l'écho. Il mesure très précisément la distance et la vitesse
+de rapprochement, et il fonctionne dans le brouillard, la pluie et la nuit. Mais il ne sait pas
+ce qu'il voit : une voiture, un panneau, une plaque d'égout ?
 
-[Emplacement image : zones de détection du radar et de la caméra devant un véhicule, légende et
-texte alternatif à fournir ultérieurement.]
+La caméra reconnaît les formes. Elle distingue un piéton d'un poteau, lit les lignes au sol,
+identifie un cycliste. Mais elle estime moins bien les distances et voit mal dans l'obscurité.
+
+En fusionnant les deux, on obtient à la fois la mesure fiable et l'identification. Certaines
+voitures ajoutent un télémètre laser, qui construit une carte en trois dimensions.
+
+## Une intervention progressive
+
+Le système n'attrape pas les freins d'un coup.
+
+Il commence par alerter, visuellement et par un son.
+
+Si le conducteur freine mais pas assez fort, un assistant amplifie sa pression — cas très
+fréquent, car beaucoup de conducteurs n'appuient pas à fond même en urgence.
+
+Sans réaction, il freine lui-même, d'abord partiellement, puis à pleine puissance.
+
+## Même quand le choc a lieu
+
+Il arrive que la collision soit inévitable. Le système freine quand même, et cela compte.
+
+La gravité des blessures varie approximativement comme le carré de la vitesse d'impact. Réduire
+la vitesse de 50 à 30 km/h avant le choc divise l'énergie par près de trois.
+
+## À retenir
+
+- Le système doit détecter tout danger réel sans jamais freiner à tort.
+- Le radar mesure les distances, la caméra identifie les objets.
+- L'intervention est graduée : alerte, assistance, freinage complet.
+- Même quand le choc a lieu, la réduction de vitesse diminue fortement la gravité.
+
+[Emplacement image : champs de détection du radar et de la caméra, légende et texte alternatif à
+fournir ultérieurement.]
 
 ---
 
 ---
 type: article
-title: Les niveaux d'automatisation de la conduite
-slug: niveaux-dautomatisation-de-la-conduite
+title: Les robotaxis en service
+slug: securite-des-vehicules-autonomes-waymo
 categoryPath: automobile/securite-et-conduite/conduite-autonome
 summary: >
-  L'échelle à six niveaux distingue les systèmes qui assistent un conducteur responsable de ceux
-  qui conduisent réellement, frontière située entre le niveau 2 et le niveau 3.
-tags: [automobile, conduite-autonome, automatisation, responsabilite, SAE]
-relatedArticles: [securite-des-vehicules-autonomes-waymo, freinage-durgence-automatique]
+  Des dizaines de millions de kilomètres parcourus sans personne au volant, dans quelques
+  villes américaines. Les données publiées permettent enfin de comparer.
+tags: [automobile, conduite-autonome, robotaxi, securite, donnees]
+relatedArticles: [niveaux-dautomatisation-de-la-conduite, freinage-durgence-automatique]
 sources:
-  - title: "Automated driving systems"
+  - title: "Automated vehicles safety"
     url: "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety"
     publisher: "National Highway Traffic Safety Administration"
     date: "2025"
@@ -792,69 +1173,817 @@ sources:
     url: "https://unece.org/transport/vehicle-regulations"
     publisher: "Commission économique pour l'Europe des Nations unies"
     date: "2025"
+quiz:
+  - question: "Pourquoi est-il difficile de comparer un robotaxi à un conducteur humain ?"
+    options:
+      - "Parce qu'on ne connaît pas le nombre de kilomètres"
+      - "Parce que les robotaxis roulent dans des zones et des conditions particulières, pas
+        partout ni par tous les temps"
+      - "Parce que les humains ne déclarent pas leurs accidents"
+    answer: 2
+    explanation: >
+      Ils circulent dans des villes cartographiées, souvent à vitesse modérée. Comparer à la
+      moyenne de tous les conducteurs sur toutes les routes fausserait la conclusion.
+  - question: "Que signifie « service sans conducteur » dans ces données ?"
+    options:
+      - "Qu'un opérateur surveille depuis la banquette arrière"
+      - "Qu'il n'y a personne au volant, le véhicule circulant seul avec des passagers"
+      - "Que la voiture est télécommandée en permanence"
+    answer: 2
+    explanation: >
+      C'est la distinction importante : les kilomètres parcourus avec un opérateur de sécurité
+      à bord ne comptent pas de la même façon que ceux réalisés véritablement sans personne au
+      volant.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Une échelle à six niveaux, de 0 à 5, est utilisée internationalement pour classer les systèmes de
-conduite automatisée. Elle est souvent présentée comme une progression continue, ce qui induit en
-erreur : la rupture décisive se situe en un point précis, entre le niveau 2 et le niveau 3, et
-elle porte sur la responsabilité plus que sur la technique.
+Dans plusieurs villes des États-Unis, on peut commander une voiture qui arrive sans personne au
+volant, ouvre ses portes, et conduit jusqu'à destination.
 
-## Les six échelons
+Ce n'est plus une démonstration. C'est un service commercial, avec des milliers de véhicules et
+des dizaines de millions de kilomètres parcourus.
 
-Le niveau 0 ne comporte aucune automatisation durable de la conduite, tout au plus des alertes.
-Le niveau 1 automatise soit la vitesse, soit la trajectoire, mais pas les deux. Le niveau 2
-combine les deux, ce qui donne l'impression d'un véhicule qui se conduit seul, alors que le
-conducteur doit continuer de surveiller en permanence et reprendre la main sans préavis. Le niveau
-3 autorise le conducteur à se désengager de la surveillance dans un domaine d'emploi restreint,
-tout en devant rester capable de reprendre la conduite lorsque le système le demande. Le niveau 4
-supprime cette exigence à l'intérieur de son domaine d'emploi, et le niveau 5 l'étendrait à toutes
-les conditions.
+## Ce que disent les données
 
-## Le problème du niveau 3
+Les opérateurs publient des bilans de sécurité, et des autorités de transport en exigent la
+transmission.
 
-Ce niveau intermédiaire concentre les difficultés. Il suppose qu'une personne dont l'attention
-s'est détournée puisse, en quelques secondes, reconstruire une compréhension de la situation et
-reprendre la conduite. Les travaux sur la reprise en main montrent que ce délai est long et
-variable, ce qui explique que les premiers déploiements soient limités à des situations très
-contraintes, embouteillage sur voie séparée à vitesse réduite.
+Sur les dizaines de millions de kilomètres réalisés véritablement sans conducteur à bord, le
+nombre de réclamations pour dommages corporels rapporté à la distance ressort nettement inférieur
+à celui des conducteurs humains sur les mêmes zones.
 
-## Domaine d'emploi et responsabilité
+La distinction entre kilomètres avec opérateur de sécurité à bord et kilomètres réellement sans
+personne est essentielle. Seuls les seconds disent quelque chose sur l'autonomie réelle.
 
-La notion clé n'est pas le niveau lui-même mais le domaine d'emploi : type de voie, vitesse,
-météo, zone cartographiée. Un système de niveau 4 opérant sur quelques quartiers cartographiés est
-plus automatisé, en droit, qu'un niveau 2 fonctionnant partout. C'est également à partir du
-niveau 3 que la responsabilité en cas d'accident se déplace, pendant le fonctionnement du système,
-du conducteur vers le constructeur, ce qui explique la prudence des industriels à revendiquer ce
-seuil.
+## Les précautions à prendre avec ces chiffres
 
-## Faits clés
+Ils sont encourageants, mais ils ne permettent pas encore de conclure que « la machine conduit
+mieux que l'humain ».
 
-- La rupture se situe entre le niveau 2 et le niveau 3, sur la surveillance.
-- Le niveau 2 exige une vigilance permanente malgré l'automatisation combinée.
-- La reprise en main au niveau 3 est longue et variable selon les personnes.
-- Le domaine d'emploi compte davantage que le numéro de niveau.
+Ces véhicules circulent dans des zones soigneusement cartographiées, souvent à vitesse modérée,
+dans des villes au climat clément. Ils évitent une partie des situations les plus difficiles.
 
-[Emplacement image : tableau des six niveaux avec répartition des tâches entre conducteur et
-système, légende et texte alternatif à fournir ultérieurement.]
+Le point de comparaison compte donc beaucoup : comparer à la moyenne de tous les conducteurs, sur
+toutes les routes, par tous les temps, fausserait le résultat.
+
+Les accidents graves restent par ailleurs rares, ce qui demande des distances énormes avant de
+pouvoir conclure statistiquement.
+
+## Ce qui reste difficile
+
+Les situations que les ingénieurs appellent les cas limites : un chantier improvisé, un agent qui
+fait des signes contradictoires, un véhicule de secours, un objet inhabituel sur la chaussée, une
+inondation.
+
+Un conducteur humain improvise. Un système doit avoir prévu la situation, ou savoir reconnaître
+qu'il ne sait pas — et s'arrêter en sécurité, ce qui bloque parfois la circulation.
+
+## À retenir
+
+- Des robotaxis circulent commercialement sans personne au volant.
+- Les données publiées indiquent un taux de dommages inférieur à celui des humains.
+- La comparaison est délicate : zones limitées, vitesse modérée, météo clémente.
+- Les cas limites imprévus restent la principale difficulté.
+
+[Emplacement image : capteurs d'un robotaxi et zone de service cartographiée, légende et texte
+alternatif à fournir ultérieurement.]
 
 ---
 
 ---
 type: article
-title: L'autopartage et le covoiturage
+title: Les six niveaux de conduite automatisée
+slug: niveaux-dautomatisation-de-la-conduite
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  La vraie frontière se situe entre le niveau 2 et le niveau 3. Elle ne porte pas sur la
+  technique mais sur la question de savoir qui est responsable.
+tags: [automobile, autonomie, niveaux, responsabilite, vigilance]
+relatedArticles: [securite-des-vehicules-autonomes-waymo, technologies-aide-conduite-efficacite]
+sources:
+  - title: "Automated vehicles"
+    url: "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety"
+    publisher: "National Highway Traffic Safety Administration"
+    date: "2025"
+  - title: "Vehicle regulations"
+    url: "https://unece.org/transport/vehicle-regulations"
+    publisher: "Commission économique pour l'Europe des Nations unies"
+    date: "2025"
+quiz:
+  - question: "Au niveau 2, le conducteur peut-il cesser de surveiller la route ?"
+    options:
+      - "Oui, la voiture conduit seule"
+      - "Non, il doit surveiller en permanence et pouvoir reprendre sans préavis"
+      - "Oui, mais seulement sur autoroute"
+    answer: 2
+    explanation: >
+      C'est le grand malentendu. Même si la voiture tient la vitesse et la trajectoire, la
+      responsabilité reste entièrement au conducteur, qui doit rester prêt à intervenir.
+  - question: "Pourquoi le niveau 3 est-il le plus délicat ?"
+    options:
+      - "Parce qu'il coûte cher"
+      - "Parce qu'il faut qu'une personne dont l'attention s'est détournée puisse reprendre la
+        conduite en quelques secondes"
+      - "Parce qu'il n'existe pas encore"
+    answer: 2
+    explanation: >
+      Reconstruire une compréhension complète de la situation après avoir lu ou regardé un écran
+      prend du temps, et ce temps varie beaucoup d'une personne à l'autre.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+Une échelle de 0 à 5 classe les systèmes de conduite automatisée. On la présente souvent comme
+une progression régulière, ce qui induit en erreur.
+
+Il n'y a pas six étapes équivalentes. Il y a une frontière, et elle se situe entre le niveau 2 et
+le niveau 3.
+
+## Les six échelons
+
+Niveau 0 : aucune automatisation durable, tout au plus des alertes.
+
+Niveau 1 : la voiture gère soit la vitesse, soit la trajectoire. Pas les deux.
+
+Niveau 2 : elle gère les deux en même temps. Cela donne l'impression qu'elle conduit seule. Elle
+ne conduit pas : le conducteur doit surveiller en permanence et pouvoir reprendre instantanément.
+
+Niveau 3 : le conducteur peut cesser de surveiller, dans des conditions précises. Mais il doit
+rester capable de reprendre la main quand le système le demande.
+
+Niveau 4 : plus besoin de reprendre la main, à l'intérieur d'un domaine d'emploi défini. Le
+véhicule sait se mettre en sécurité tout seul.
+
+Niveau 5 : partout, dans toutes les conditions. Cela n'existe pas.
+
+## La frontière
+
+Du niveau 0 au niveau 2, le conducteur conduit. La voiture aide.
+
+À partir du niveau 3, le système conduit. Le conducteur devient un recours.
+
+C'est un changement de nature, pas de degré. Et il entraîne un déplacement de la responsabilité
+juridique : pendant le fonctionnement du système, c'est le constructeur qui répond. Voilà
+pourquoi les industriels sont si prudents à revendiquer ce seuil.
+
+## Le problème particulier du niveau 3
+
+Il suppose qu'une personne dont l'attention s'est portée ailleurs puisse, en quelques secondes,
+comprendre la situation et reprendre la conduite.
+
+Les travaux sur la reprise en main montrent que ce délai est long et très variable. Reconstruire
+une conscience de la situation après avoir lu ou regardé un écran ne se fait pas instantanément.
+
+C'est pourquoi les premiers déploiements autorisés sont extrêmement encadrés : embouteillage sur
+voie séparée, vitesse limitée, météo favorable.
+
+## Le domaine d'emploi compte plus que le numéro
+
+Un système de niveau 4 qui fonctionne sur quelques quartiers cartographiés est plus automatisé,
+en droit, qu'un niveau 2 qui fonctionne partout.
+
+Le chiffre seul ne dit rien. Il faut toujours demander : dans quelles conditions ?
+
+## À retenir
+
+- La frontière se situe entre le niveau 2 et le niveau 3.
+- Au niveau 2, le conducteur reste responsable et doit surveiller en permanence.
+- À partir du niveau 3, la responsabilité se déplace vers le constructeur.
+- Le domaine d'emploi compte davantage que le numéro du niveau.
+
+[Emplacement image : les six niveaux et la répartition des tâches, légende et texte alternatif à
+fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Pourquoi les voitures sont faites pour se casser
+slug: ceinture-airbag-et-structures-deformables
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Une voiture rigide tuerait ses occupants. Les zones avant sont conçues pour se froisser, afin
+  d'allonger la durée du choc de quelques millisecondes.
+tags: [automobile, securite-passive, ceinture, airbag, crash-test]
+relatedArticles: [freinage-durgence-automatique, technologies-aide-conduite-efficacite]
+sources:
+  - title: "Road traffic injuries"
+    url: "https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+  - title: "Crash tests"
+    url: "https://www.euroncap.com/fr"
+    publisher: "Euro NCAP"
+    date: "2025"
+quiz:
+  - question: "Pourquoi l'avant d'une voiture moderne se froisse-t-il autant dans un choc ?"
+    options:
+      - "Parce que les constructeurs économisent sur la tôle"
+      - "Parce qu'en se déformant, il allonge la durée du choc et réduit la violence subie par
+        les occupants"
+      - "Parce que c'est moins cher à réparer"
+    answer: 2
+    explanation: >
+      Ce qui blesse, c'est la brutalité de l'arrêt. Étaler cet arrêt sur quelques millisecondes
+      de plus réduit proportionnellement les forces subies.
+  - question: "Un coussin gonflable peut-il remplacer la ceinture ?"
+    options:
+      - "Oui, c'est même plus efficace"
+      - "Non, il la complète, et sans ceinture il peut lui-même blesser"
+      - "Oui, si on roule en ville"
+    answer: 2
+    explanation: >
+      Le coussin se déploie à très grande vitesse. Il est conçu pour rencontrer un corps déjà
+      retenu par la ceinture. Un occupant non attaché le percute de plein fouet.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+Un réflexe courant : « les voitures d'avant étaient plus solides, regardez comme elles
+résistaient ». C'est vrai, et c'est précisément pourquoi elles étaient dangereuses.
+
+Ce qui blesse dans un choc, ce n'est pas la vitesse. C'est la brutalité avec laquelle cette
+vitesse s'annule.
+
+## Le principe
+
+Imaginez sauter d'un mètre de haut. Sur du béton, vous vous faites mal. Sur un matelas, non.
+
+Dans les deux cas, vous arrivez à la même vitesse et vous vous arrêtez. La différence est le
+temps que dure cet arrêt : quelques millisecondes sur le béton, quelques dixièmes de seconde sur
+le matelas.
+
+Allonger la durée de l'arrêt réduit proportionnellement la force subie. Toute la sécurité passive
+découle de là.
+
+## La voiture comme matelas
+
+Une caisse moderne n'est pas rigide partout, et c'est délibéré.
+
+Les zones avant et arrière sont calculées pour se déformer selon des plis prévus à l'avance,
+absorbant l'énergie en se froissant. Elles jouent le rôle du matelas.
+
+L'habitacle, à l'inverse, forme une cellule très rigide qui doit préserver l'espace de survie.
+On ne veut surtout pas qu'il se déforme.
+
+Une voiture ancienne, rigide partout, transmettait la décélération presque intégralement à ses
+occupants. Elle sortait mieux d'un choc. Eux, non.
+
+## Retenir les occupants
+
+La ceinture à trois points, généralisée dans les années 1960, répartit l'effort sur le bassin et
+la cage thoracique, deux zones capables de le supporter.
+
+Elle s'est perfectionnée. Le prétensionneur supprime le mou de la sangle dès la détection du
+choc. Le limiteur d'effort fait l'inverse un instant plus tard : au-delà d'une certaine force, il
+laisse filer quelques centimètres de sangle, pour éviter de casser des côtes.
+
+Le coussin gonflable ne remplace pas la ceinture : il la complète en répartissant le contact sur
+une grande surface. Déployé à très grande vitesse, il est conçu pour rencontrer un corps déjà
+retenu. Sans ceinture, il peut lui-même blesser gravement.
+
+## L'effet des essais publics
+
+Des programmes indépendants percutent les voitures neuves dans des configurations normalisées,
+mesurent les efforts sur des mannequins instrumentés, et publient une note.
+
+Cette publication a exercé sur les constructeurs une pression au moins aussi forte que la
+réglementation : une mauvaise note se voit immédiatement dans les ventes.
+
+## À retenir
+
+- Ce qui blesse est la brutalité de l'arrêt, pas la vitesse elle-même.
+- Les zones avant se déforment pour allonger la durée du choc.
+- L'habitacle, lui, doit rester indéformable.
+- Le coussin gonflable complète la ceinture et ne la remplace jamais.
+
+[Emplacement image : déformation programmée de l'avant d'une voiture lors d'un choc, légende et
+texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Où l'on fabrique les voitures
+slug: production-automobile-mondiale
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Plus de 92 millions de véhicules produits dans le monde en 2024. La Chine en fabrique à elle
+  seule près d'un tiers.
+tags: [automobile, production, industrie, Chine, statistiques]
+relatedArticles: [marche-automobile-mondial-regions, plateformes-modulaires-et-standardisation]
+sources:
+  - title: "Production statistics"
+    url: "https://www.oica.net/"
+    publisher: "Organisation internationale des constructeurs d'automobiles"
+    date: "2025"
+  - title: "Automotive industry"
+    url: "https://www.britannica.com/technology/automotive-industry"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Combien de véhicules ont été produits dans le monde en 2024 ?"
+    options:
+      - "Environ 10 millions"
+      - "Environ 92 millions"
+      - "Environ 500 millions"
+    answer: 2
+    explanation: >
+      Précisément 92,5 millions, dont environ 67,7 millions de voitures particulières et
+      24,8 millions de véhicules utilitaires.
+  - question: "Quelle part de la production mondiale la Chine représente-t-elle ?"
+    options:
+      - "Environ 5 %"
+      - "Environ un tiers"
+      - "Environ les trois quarts"
+    answer: 2
+    explanation: >
+      Plus de 31 millions de véhicules produits en 2024. Avec les États-Unis et le Japon, ces
+      trois pays représentent environ 54 % de la production mondiale.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+En 2024, 92,5 millions de véhicules sont sortis des usines du monde entier. Cela fait environ
+175 véhicules par minute, jour et nuit, toute l'année.
+
+Sur ce total, environ 67,7 millions sont des voitures particulières, et 24,8 millions des
+véhicules utilitaires : camionnettes, camions, bus.
+
+## Une géographie très concentrée
+
+La Chine domine largement, avec plus de 31 millions de véhicules produits en 2024 — près d'un
+tiers du total mondial.
+
+Avec les États-Unis et le Japon, on atteint environ 54 % de la production mondiale. Trois pays
+font plus de la moitié.
+
+Cette concentration s'explique par la taille des marchés intérieurs, par des décennies
+d'accumulation de savoir-faire industriel, et par la présence des fournisseurs de rang inférieur
+qui doivent se trouver à proximité des usines d'assemblage.
+
+## Un secteur qui ne croît plus beaucoup
+
+La production 2024 est en léger recul par rapport à 2023, d'environ 1 %.
+
+Le secteur a connu des années chaotiques : arrêts d'usines, puis pénurie mondiale de composants
+électroniques qui a bloqué des chaînes entières faute de puces coûtant quelques euros.
+
+Cette crise a révélé la fragilité d'une organisation très optimisée, où les stocks sont réduits
+au minimum pour économiser de la trésorerie.
+
+## Un assemblage, des milliers de pièces
+
+Une voiture compte environ 30 000 pièces. Le constructeur n'en fabrique lui-même qu'une petite
+partie.
+
+L'essentiel vient de fournisseurs, eux-mêmes alimentés par d'autres fournisseurs, sur plusieurs
+niveaux. Une usine d'assemblage reçoit des sous-ensembles complets — tableau de bord, sièges,
+trains roulants — livrés parfois dans l'ordre exact des voitures sur la chaîne.
+
+Ce système réduit énormément les coûts. Il rend aussi la chaîne vulnérable : une seule pièce
+manquante arrête tout.
+
+## À retenir
+
+- 92,5 millions de véhicules produits dans le monde en 2024.
+- La Chine en produit plus de 31 millions, près d'un tiers du total.
+- Chine, États-Unis et Japon font ensemble environ 54 % de la production.
+- Une voiture compte environ 30 000 pièces, majoritairement fournies par des sous-traitants.
+
+[Emplacement image : répartition de la production automobile mondiale par pays, légende et texte
+alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Une plateforme, dix modèles
+slug: plateformes-modulaires-et-standardisation
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Sous des carrosseries et des marques différentes se cache souvent le même soubassement. Cela
+  divise les coûts d'études, et multiplie l'ampleur des rappels.
+tags: [automobile, plateforme, production, standardisation, rappels]
+relatedArticles: [production-automobile-mondiale, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Mass production"
+    url: "https://www.britannica.com/technology/mass-production"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Industrie automobile"
+    url: "https://www.insee.fr/fr/statistiques"
+    publisher: "INSEE"
+    date: "2025"
+quiz:
+  - question: "Qu'est-ce qu'une plateforme automobile ?"
+    options:
+      - "Le quai où l'on charge les voitures"
+      - "L'ensemble des éléments structurants partagés par plusieurs modèles : soubassement,
+        points d'ancrage, architecture électrique"
+      - "Le logiciel du tableau de bord"
+    answer: 2
+    explanation: >
+      On peut construire dessus des carrosseries très différentes, sous plusieurs marques, tout
+      en n'ayant développé qu'une seule base.
+  - question: "Quel est l'inconvénient du partage de plateformes ?"
+    options:
+      - "Les voitures roulent moins vite"
+      - "Un défaut sur une pièce partagée se propage à toute la gamme, ce qui élargit les
+        rappels"
+      - "Cela coûte plus cher"
+    answer: 2
+    explanation: >
+      C'est l'envers de l'économie d'échelle : le même composant équipant des millions de
+      véhicules, un problème concerne d'un coup des millions de voitures.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+Deux voitures peuvent sembler n'avoir rien en commun : marques différentes, silhouettes
+différentes, prix différents. Et pourtant partager le même soubassement, les mêmes points
+d'ancrage de suspension, la même architecture électrique.
+
+C'est le principe de la plateforme.
+
+## Pourquoi partager
+
+Développer une voiture coûte extrêmement cher : des années d'études, des essais de structure, des
+homologations, des outillages.
+
+Si cette dépense sert un seul modèle, elle doit être amortie sur ses ventes. Si elle sert huit
+modèles de cinq marques, le coût unitaire s'effondre.
+
+S'ajoutent des gains partout ailleurs : les pièces s'achètent en plus grande quantité, une même
+ligne d'assemblage peut produire plusieurs modèles, et les coûteux essais de sécurité ne sont
+menés qu'une fois.
+
+## Des plateformes de plus en plus souples
+
+Les premières plateformes figeaient l'empattement et la largeur. Les modèles dérivés étaient donc
+forcément proches.
+
+Les architectures modulaires introduites dans les années 2010 ont changé cela : certaines
+dimensions deviennent réglables, tandis que des interfaces restent strictement normalisées. Une
+même base peut alors servir une petite compacte et un grand véhicule familial.
+
+## L'électrification a rebattu les cartes
+
+Une plateforme conçue pour un moteur thermique suppose un compartiment moteur à l'avant, un
+tunnel de transmission au centre, un réservoir à l'arrière.
+
+Une voiture électrique veut exactement l'inverse : un plancher plat et épais pour loger la
+batterie, pas de tunnel, pas de compartiment moteur volumineux.
+
+Adapter une plateforme thermique donne un compromis médiocre. C'est pourquoi les constructeurs
+ont développé des plateformes dédiées à l'électrique, avec des habitacles plus spacieux à
+longueur extérieure égale.
+
+## Le revers
+
+L'uniformisation réduit la différenciation entre marques d'un même groupe, qui se joue alors sur
+le style, la finition et les prestations perçues.
+
+Et surtout, un défaut sur un composant partagé concerne d'un coup toute la gamme. Les campagnes
+de rappel portant sur des millions de véhicules s'expliquent en grande partie ainsi.
+
+## À retenir
+
+- Une plateforme partage soubassement, ancrages et architecture électrique.
+- Elle permet d'amortir les études sur plusieurs modèles et plusieurs marques.
+- L'électrique a imposé des plateformes dédiées, à plancher plat.
+- Un défaut sur une pièce partagée élargit mécaniquement les rappels.
+
+[Emplacement image : plusieurs carrosseries dérivées d'une même plateforme, légende et texte
+alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le marché automobile mondial
+slug: marche-automobile-mondial-regions
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Le marché ne se déplace pas seulement en volume mais en nature : la part de l'électrique varie
+  énormément d'une région à l'autre.
+tags: [automobile, marche, ventes, regions, electrique]
+relatedArticles: [production-automobile-mondiale, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Sales statistics"
+    url: "https://www.oica.net/"
+    publisher: "Organisation internationale des constructeurs d'automobiles"
+    date: "2025"
+  - title: "Electric vehicles"
+    url: "https://www.iea.org/energy-system/transport/electric-vehicles"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les constructeurs suivent-ils les marchés région par région ?"
+    options:
+      - "Par curiosité"
+      - "Parce que les goûts, les réglementations et la part de l'électrique y sont très
+        différents"
+      - "Parce que les voitures sont différentes selon la couleur"
+    answer: 2
+    explanation: >
+      Une voiture qui se vend très bien dans une région peut n'intéresser personne dans une
+      autre. Taille, motorisation et équipements sont adaptés à chaque marché.
+  - question: "Qu'est-ce qui pousse le plus la vente de voitures électriques dans une région ?"
+    options:
+      - "La publicité"
+      - "La combinaison des réglementations, des aides à l'achat et des infrastructures de
+        recharge"
+      - "La couleur des voitures"
+    answer: 2
+    explanation: >
+      Les écarts entre pays s'expliquent avant tout par les politiques publiques et par la
+      disponibilité des bornes, plus que par les préférences des acheteurs.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+Acheter une voiture ne veut pas dire la même chose partout. Les volumes, les types de véhicules,
+les motorisations et les prix diffèrent profondément d'une région à l'autre.
+
+Comprendre ces écarts explique beaucoup de décisions industrielles qui paraissent sinon
+incohérentes.
+
+## Trois grands blocs
+
+La Chine est devenue le premier marché mondial, à la fois par le volume et par la vitesse
+d'évolution. C'est aussi là que la part de l'électrique progresse le plus vite, portée par des
+politiques publiques déterminées et par des constructeurs locaux devenus très compétitifs.
+
+L'Amérique du Nord se caractérise par des véhicules nettement plus gros et plus lourds : pick-up
+et grands SUV y représentent une part du marché sans équivalent ailleurs. Le carburant y est
+historiquement moins taxé.
+
+L'Europe a des véhicules plus compacts, des normes d'émissions plus contraignantes, et une
+fiscalité qui pèse sur la consommation.
+
+## Des marchés émergents décisifs
+
+L'Inde, l'Asie du Sud-Est, l'Amérique latine et l'Afrique représentent l'essentiel de la
+croissance future du parc mondial.
+
+Le taux de motorisation y reste très inférieur à celui des pays riches, et le deux-roues y joue
+un rôle central. Les véhicules vendus sont plus petits, plus simples, et le prix est le critère
+dominant.
+
+## Pourquoi cela compte pour la suite
+
+Le parc automobile mondial continuera de croître, principalement dans ces régions.
+
+La question des motorisations s'y pose différemment : le réseau électrique y est parfois moins
+fiable, l'habitat collectif sans place de stationnement y domine, et le pouvoir d'achat ne permet
+pas les mêmes choix.
+
+C'est là, plus qu'en Europe, que se jouera l'essentiel de l'empreinte future du transport
+routier.
+
+## À retenir
+
+- La Chine est le premier marché mondial et le plus rapide à basculer vers l'électrique.
+- L'Amérique du Nord achète des véhicules nettement plus gros.
+- L'essentiel de la croissance future viendra des marchés émergents.
+- Les politiques publiques expliquent l'essentiel des écarts entre régions.
+
+[Emplacement image : ventes de véhicules neufs par grande région, légende et texte alternatif à
+fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le marché de l'occasion et la décote
+slug: marche-de-loccasion-et-valeur-residuelle
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Pour une voiture neuve vendue, trois à quatre voitures d'occasion changent de main. Et la
+  perte de valeur coûte souvent plus cher que le carburant.
+tags: [automobile, occasion, decote, cout, marche]
+relatedArticles: [marche-automobile-mondial-regions, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Immatriculations"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/"
+    publisher: "Service des données et études statistiques"
+    date: "2025"
+  - title: "Automotive industry"
+    url: "https://www.britannica.com/technology/automotive-industry"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Quel est souvent le premier poste de coût d'une voiture neuve ?"
+    options:
+      - "Le carburant"
+      - "La perte de valeur, ou décote"
+      - "L'assurance"
+    answer: 2
+    explanation: >
+      Sur quelques années de détention, la valeur perdue dépasse généralement le carburant,
+      l'assurance et l'entretien réunis. C'est un coût invisible : on ne le paye qu'à la revente.
+  - question: "Quand la décote est-elle la plus rapide ?"
+    options:
+      - "La première année"
+      - "Après dix ans"
+      - "Elle est régulière tout au long de la vie du véhicule"
+    answer: 1
+    explanation: >
+      Une part importante de la valeur disparaît dès la première année, puis le rythme ralentit.
+      Acheter une voiture de deux ou trois ans évite cette phase.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+On parle beaucoup du marché du neuf. Mais en volume, l'occasion le dépasse largement : dans la
+plupart des pays européens, trois à quatre transactions d'occasion accompagnent chaque
+immatriculation neuve.
+
+Et cette réalité a une conséquence directe sur le portefeuille de l'acheteur.
+
+## Le coût qu'on ne voit pas
+
+Demandez à quelqu'un ce que lui coûte sa voiture : il parlera du carburant, de l'assurance, de
+l'entretien.
+
+Pour un véhicule neuf conservé quelques années, ces trois postes réunis pèsent souvent moins que
+la perte de valeur.
+
+C'est un coût invisible, parce qu'on ne le paie qu'une fois, à la revente. Mais il est bien réel.
+
+## La courbe de la décote
+
+Elle n'est pas régulière. La chute est brutale la première année, puis elle ralentit
+progressivement.
+
+C'est pourquoi acheter un véhicule de deux ou trois ans est souvent le meilleur compromis :
+l'essentiel de la décote est déjà passé, et la voiture est encore récente.
+
+## Ce qui fait tenir une valeur
+
+La réputation de fiabilité du modèle, en premier lieu.
+
+Le coût des réparations courantes et la disponibilité des pièces.
+
+La demande sur le segment : un type de véhicule à la mode se revend mieux.
+
+Et l'historique d'entretien, documenté et cohérent.
+
+Les motorisations subissent en outre l'effet des annonces réglementaires : un type de moteur
+menacé de restrictions de circulation perd de la valeur avant même que la mesure n'entre en
+vigueur.
+
+## Le rôle des loueurs
+
+Une part importante des voitures neuves n'est pas achetée par des particuliers mais par des
+loueurs, des entreprises ou les constructeurs eux-mêmes.
+
+Ils revendent après deux à quatre ans. Et ils calculent leurs loyers à partir d'une valeur
+résiduelle estimée à l'avance : si cette estimation est fausse, ils perdent de l'argent à la
+revente.
+
+Leur arrivée simultanée sur le marché de l'occasion pèse sur les prix, ce qui lie étroitement les
+deux marchés.
+
+## À retenir
+
+- Trois à quatre voitures d'occasion sont vendues pour une voiture neuve.
+- La décote dépasse souvent carburant, assurance et entretien réunis.
+- Elle est la plus rapide durant la première année.
+- Les loueurs fixent leurs loyers sur une valeur résiduelle anticipée.
+
+[Emplacement image : courbe de décote d'un véhicule neuf sur huit ans, légende et texte
+alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les normes d'émissions européennes
+slug: normes-demissions-euro
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Les seuils ont été divisés par environ dix depuis 1992. Mais une part croissante des
+  particules ne vient plus du moteur : elle vient des freins et des pneus.
+tags: [automobile, emissions, norme-euro, pollution, particules]
+relatedArticles: [moteur-diesel-principe-et-declin, pollution-de-lair-ambiant-risque-sanitaire]
+sources:
+  - title: "Air quality"
+    url: "https://environment.ec.europa.eu/topics/air_en"
+    publisher: "Commission européenne"
+    date: "2025"
+  - title: "Transport emissions"
+    url: "https://www.eea.europa.eu/fr"
+    publisher: "Agence européenne pour l'environnement"
+    date: "2025"
+quiz:
+  - question: "Les normes Euro portent-elles sur le CO2 ?"
+    options:
+      - "Oui, c'est leur objet principal"
+      - "Non, elles visent les polluants locaux comme les oxydes d'azote et les particules"
+      - "Oui, mais seulement depuis 2020"
+    answer: 2
+    explanation: >
+      Le CO2 est traité par un dispositif séparé, qui fixe une moyenne d'émissions pour
+      l'ensemble des véhicules vendus par un constructeur.
+  - question: "D'où vient une part croissante des particules émises par le trafic ?"
+    options:
+      - "Du pot d'échappement"
+      - "De l'usure des freins, des pneus et de la chaussée"
+      - "De la climatisation"
+    answer: 2
+    explanation: >
+      Ces émissions ne dépendent pas de la motorisation, et l'électrification ne les supprime
+      pas. Le poids plus élevé des voitures électriques peut même les aggraver.
+lastVerified: 2026-09-22
+status: published
+---
+
+## En bref
+
+Depuis le début des années 1990, une succession de normes appelées Euro fixe des plafonds
+d'émission pour les véhicules neufs vendus en Europe.
+
+Elles ne concernent pas le dioxyde de carbone. Elles visent les polluants qui abîment
+directement la santé : oxydes d'azote, particules, monoxyde de carbone, hydrocarbures imbrûlés.
+
+## Un durcissement par paliers
+
+Chaque nouveau palier a abaissé les seuils, jusqu'à les diviser par environ dix sur plusieurs
+polluants.
+
+Et chaque palier a imposé une évolution technique précise. Le catalyseur trois voies sur les
+moteurs à essence. Le filtre à particules sur les Diesel. La recirculation des gaz
+d'échappement. Puis l'injection d'une solution d'urée pour détruire les oxydes d'azote.
+
+Contrairement à ce qu'on lit parfois, ces normes ont été très efficaces : une voiture récente
+émet une fraction infime de ce qu'émettait une voiture des années 1980.
+
+## Le problème de la mesure
+
+Pendant longtemps, l'homologation se faisait sur un cycle de laboratoire peu réaliste :
+accélérations douces, température maîtrisée, accessoires éteints.
+
+Des écarts considérables ont été mis en évidence entre ces valeurs et les émissions réelles sur
+route, jusqu'à la découverte de dispositifs capables de reconnaître le cycle d'essai et d'ajuster
+le comportement du moteur.
+
+La réponse a été d'introduire des essais en conduite réelle, avec un analyseur embarqué, et un
+cycle d'homologation plus exigeant.
+
+## Ce que la norme ne réglait pas
+
+Tous ces progrès portent sur ce qui sort du pot d'échappement.
+
+Or une part croissante des particules émises par le trafic vient d'ailleurs : l'usure des
+plaquettes de frein, l'abrasion des pneumatiques, et l'usure de la chaussée.
+
+Ces sources ne dépendent pas de la motorisation. Une voiture électrique les produit aussi, et son
+poids plus élevé peut même les augmenter — même si la récupération au freinage réduit fortement
+l'usage des freins mécaniques.
+
+Les normes les plus récentes commencent à intégrer ces émissions hors échappement.
+
+## À retenir
+
+- Les normes Euro visent les polluants locaux, pas le dioxyde de carbone.
+- Les seuils ont été divisés par environ dix depuis 1992.
+- Les essais en conduite réelle ont remplacé le seul cycle de laboratoire.
+- Freins et pneus émettent des particules indépendamment de la motorisation.
+
+[Emplacement image : évolution des seuils d'émission par palier réglementaire, légende et texte
+alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Autopartage et covoiturage
 slug: autopartage-et-covoiturage
 categoryPath: automobile/usages-et-mobilite/mobilite-partagee
 summary: >
-  Une voiture particulière reste immobilisée plus de 95 pour cent du temps et transporte en
-  moyenne moins de deux personnes : deux marges que la mobilité partagée cherche à exploiter.
-tags: [mobilite, autopartage, covoiturage, usage, ville]
-relatedArticles: [urbanisation-mondiale-onu, analyse-du-cycle-de-vie-dune-automobile]
+  Une voiture particulière reste garée plus de 95 % du temps et transporte à peine plus d'une
+  personne. Deux gisements énormes, difficiles à exploiter.
+tags: [mobilite, autopartage, covoiturage, ville, usage]
+relatedArticles: [analyse-du-cycle-de-vie-dune-automobile, urbanisation-mondiale-onu]
 sources:
-  - title: "Mobilité et transports"
+  - title: "Mobilité"
     url: "https://www.ademe.fr/"
     publisher: "ADEME"
     date: "2025"
@@ -862,67 +1991,102 @@ sources:
     url: "https://www.iea.org/energy-system/transport"
     publisher: "Agence internationale de l'énergie"
     date: "2025"
+quiz:
+  - question: "Quelle proportion de son temps une voiture particulière passe-t-elle garée ?"
+    options:
+      - "Environ la moitié"
+      - "Plus de 95 %"
+      - "Environ 70 %"
+    answer: 2
+    explanation: >
+      Une voiture roule en moyenne moins d'une heure par jour. Le reste du temps, elle occupe
+      une place de stationnement, chez elle ou au travail.
+  - question: "De quoi dépend le bénéfice environnemental d'un service de mobilité partagée ?"
+    options:
+      - "Du nombre de véhicules disponibles"
+      - "Du mode de transport auquel il se substitue réellement"
+      - "De la marque des véhicules"
+    answer: 2
+    explanation: >
+      S'il remplace des trajets en voiture individuelle, le gain est net. S'il détourne des
+      usagers du bus, du vélo ou de la marche, le bilan peut devenir négatif.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-Deux constats fondent l'intérêt pour la mobilité partagée. Une automobile particulière passe la
-très grande majorité de son temps stationnée, et lorsqu'elle roule, elle transporte en moyenne à
-peine plus d'une personne. Autopartage et covoiturage visent respectivement ces deux gisements :
-le taux d'utilisation du véhicule et son taux d'occupation.
+Deux chiffres méritent qu'on s'y arrête.
+
+Une voiture particulière passe plus de 95 % de son temps à l'arrêt. Elle roule en moyenne moins
+d'une heure par jour.
+
+Et quand elle roule, elle transporte en moyenne à peine plus d'une personne.
+
+Ce sont deux gisements considérables. La mobilité partagée cherche à les exploiter.
 
 ## Deux logiques différentes
 
-L'autopartage met un même véhicule à disposition successivement de plusieurs usagers, en boucle
-depuis une station ou en trace directe dans un périmètre donné. Il s'adresse d'abord aux ménages
-urbains dont l'usage est occasionnel, et son effet documenté est la réduction du nombre de
-véhicules possédés. Le covoiturage remplit les places vides d'un trajet déjà prévu. Sur longue
-distance, il s'est imposé via des plateformes de mise en relation ; sur les trajets domicile-travail,
-qui constituent le gisement le plus important, il se heurte à la rigidité des horaires et à la
-faiblesse des économies perçues.
+L'autopartage s'attaque au premier : le temps d'immobilisation. Un même véhicule sert
+successivement à plusieurs personnes, depuis une station ou en libre-service dans un périmètre.
 
-## Ce que montrent les évaluations
+Le covoiturage s'attaque au second : les places vides d'un trajet déjà prévu.
 
-Les études disponibles attribuent à l'autopartage une réduction nette du parc automobile parmi ses
-usagers, chaque véhicule partagé se substituant à plusieurs véhicules particuliers. Le bilan global
-dépend cependant des reports : si le service détourne des usagers des transports collectifs ou de
-la marche plutôt que de la voiture individuelle, le gain environnemental s'amenuise, voire
-s'inverse. La question s'est posée avec acuité pour les services de voiture avec chauffeur.
+Ce ne sont pas du tout les mêmes services, ni les mêmes obstacles.
 
-## Les conditions de réussite
+## Ce que l'autopartage change
 
-Trois facteurs reviennent dans les retours d'expérience : la densité, qui conditionne la
-probabilité de trouver un véhicule ou un passager à proximité ; la fiabilité, une expérience
-manquée détournant durablement l'usager ; et l'articulation avec les transports collectifs, la
-mobilité partagée fonctionnant mieux en complément qu'en substitution. L'existence d'une offre
-crédible est enfin la condition pour qu'un ménage renonce à un second véhicule.
+Les études disponibles montrent un effet net : les ménages qui l'utilisent possèdent moins de
+véhicules. Chaque voiture partagée se substitue à plusieurs voitures particulières.
 
-## Faits clés
+Cela libère aussi de l'espace urbain : une place de stationnement occupe plusieurs mètres carrés,
+et une ville en compte des centaines de milliers.
 
-- Une voiture particulière est stationnée plus de 95 pour cent du temps.
-- Le taux d'occupation moyen se situe légèrement au-dessus d'une personne par véhicule.
-- Un véhicule en autopartage se substitue à plusieurs véhicules possédés.
-- Le bilan dépend du mode auquel le service se substitue réellement.
+## Pourquoi le covoiturage peine sur les trajets quotidiens
 
-[Emplacement image : répartition du temps d'usage et de stationnement d'un véhicule particulier,
-légende et texte alternatif à fournir ultérieurement.]
+Sur longue distance, il fonctionne : les plateformes de mise en relation ont créé un vrai marché.
+
+Sur les trajets domicile-travail, qui représentent pourtant le plus gros gisement, c'est bien
+plus difficile. Les horaires sont rigides, un imprévu à la sortie du travail bloque le retour, et
+l'économie perçue est faible sur une courte distance.
+
+Les dispositifs qui marchent le mieux combinent une garantie de retour et un avantage concret :
+voie réservée, stationnement facilité, incitation financière.
+
+## Le point d'attention
+
+Le bénéfice environnemental dépend entièrement de ce à quoi le service se substitue.
+
+S'il remplace des trajets en voiture individuelle, le gain est réel.
+
+S'il détourne des usagers du bus, du tramway, du vélo ou de la marche, le bilan peut s'inverser.
+La question s'est posée avec acuité pour les services de voiture avec chauffeur, dont plusieurs
+études ont montré qu'ils augmentaient la circulation en ville.
+
+## À retenir
+
+- Une voiture particulière est garée plus de 95 % du temps.
+- Le taux d'occupation moyen dépasse à peine une personne par véhicule.
+- Un véhicule en autopartage remplace plusieurs voitures possédées.
+- Le bilan dépend du mode de transport auquel le service se substitue.
+
+[Emplacement image : usage réel d'une voiture particulière sur une journée, légende et texte
+alternatif à fournir ultérieurement.]
 
 ---
 
 ---
 type: article
-title: L'analyse du cycle de vie d'une automobile
+title: L'empreinte d'une voiture sur toute sa vie
 slug: analyse-du-cycle-de-vie-dune-automobile
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  Comparer deux motorisations suppose d'additionner fabrication, usage et fin de vie : le point
-  d'équilibre entre un véhicule électrique et un véhicule thermique se mesure en kilomètres.
-tags: [automobile, cycle-de-vie, empreinte-carbone, recyclage, batteries]
+  Une voiture électrique part avec une dette carbone, à cause de sa batterie. Elle la rembourse
+  ensuite, kilomètre après kilomètre.
+tags: [automobile, cycle-de-vie, batteries, recyclage, empreinte-carbone]
 relatedArticles: [voiture-electrique, autopartage-et-covoiturage]
 sources:
-  - title: "Life cycle assessment of vehicles"
+  - title: "Life cycle assessment"
     url: "https://www.eea.europa.eu/fr"
     publisher: "Agence européenne pour l'environnement"
     date: "2025"
@@ -930,50 +2094,84 @@ sources:
     url: "https://www.ademe.fr/"
     publisher: "ADEME"
     date: "2025"
+quiz:
+  - question: "Pourquoi parle-t-on de « dette carbone » pour une voiture électrique ?"
+    options:
+      - "Parce qu'elle coûte cher à l'achat"
+      - "Parce que la fabrication de sa batterie émet beaucoup, avant même le premier kilomètre"
+      - "Parce qu'elle consomme de l'électricité"
+    answer: 2
+    explanation: >
+      Extraire et transformer les matériaux de la batterie demande beaucoup d'énergie. La
+      voiture commence donc sa vie avec un handicap qu'elle compense ensuite en roulant.
+  - question: "Que peut-on faire d'une batterie de voiture en fin de vie automobile ?"
+    options:
+      - "Seulement la jeter"
+      - "La réutiliser pour stocker de l'électricité dans un bâtiment, avant de la recycler"
+      - "La recharger indéfiniment"
+    answer: 2
+    explanation: >
+      Une batterie qui n'a plus assez de capacité pour une voiture reste très utile en usage
+      fixe, où le poids et le volume n'ont pas d'importance.
 lastVerified: 2026-09-22
 status: published
 ---
 
-## Résumé
+## En bref
 
-L'analyse du cycle de vie additionne les impacts d'un produit sur l'ensemble de son existence :
-extraction des matières, fabrication, distribution, usage, entretien et fin de vie. Appliquée à
-l'automobile, elle déplace le débat au-delà des émissions à l'échappement et permet de comparer
-des motorisations dont les impacts ne se situent pas aux mêmes étapes.
+Comparer une voiture électrique et une voiture thermique en regardant seulement le pot
+d'échappement n'a pas de sens. L'une n'en a pas, l'autre oui. La conclusion serait trop facile.
 
-## Une répartition des impacts très différente selon la motorisation
+L'analyse du cycle de vie additionne tout : extraction des matières, fabrication, transport,
+usage, entretien, fin de vie.
 
-Pour un véhicule thermique, la phase d'usage domine largement : la combustion du carburant
-représente l'essentiel des émissions sur la durée de vie. Pour un véhicule électrique, le rapport
-s'inverse : la fabrication, et singulièrement celle de la batterie, pèse beaucoup plus lourd, tandis
-que l'usage dépend du contenu carbone de l'électricité. Un véhicule électrique part donc avec une
-dette carbone initiale supérieure, qu'il amortit ensuite kilomètre après kilomètre.
+## Deux profils opposés
+
+Pour une voiture thermique, la phase d'usage domine largement. Brûler du carburant pendant quinze
+ans représente l'essentiel des émissions. La fabrication pèse relativement peu.
+
+Pour une voiture électrique, c'est l'inverse. La fabrication — et surtout celle de la batterie —
+pèse beaucoup plus lourd. L'usage dépend ensuite du contenu carbone de l'électricité.
+
+Autrement dit : la voiture électrique commence sa vie avec une dette, et la rembourse en roulant.
 
 ## Le point d'équilibre
 
-Le kilométrage à partir duquel le bilan cumulé devient favorable dépend de trois paramètres : la
-capacité de la batterie, le mix électrique de la zone de recharge, et la consommation du véhicule
-thermique de comparaison. Dans un pays où l'électricité est fortement décarbonée, ce point se situe
-à quelques dizaines de milliers de kilomètres ; il recule sensiblement là où l'électricité provient
-majoritairement du charbon. Les évaluations européennes disponibles concluent à un avantage net du
-véhicule électrique sur une durée de vie complète, tout en soulignant cette sensibilité.
+À partir de combien de kilomètres le bilan cumulé devient-il favorable ?
 
-## La fin de vie et la seconde vie
+Trois paramètres décident. La taille de la batterie : plus elle est grosse, plus la dette
+initiale est lourde. Le mix électrique du pays où l'on recharge. Et la consommation de la voiture
+thermique à laquelle on compare.
 
-Le recyclage d'une automobile est ancien et efficace pour les métaux, qui constituent l'essentiel
-de sa masse. Les batteries posent une question plus récente : avant leur recyclage, elles peuvent
-servir en stockage stationnaire, usage bien moins exigeant que la traction, ce qui allonge leur
-durée d'utilité. Les procédés hydrométallurgiques permettent de récupérer lithium, nickel et cobalt,
-mais leur rentabilité dépend des volumes, encore faibles, et du cours des métaux.
+Dans un pays à électricité fortement décarbonée, ce point se situe à quelques dizaines de
+milliers de kilomètres. Là où l'électricité vient surtout du charbon, il recule nettement.
 
-## Faits clés
+Les évaluations européennes concluent à un avantage net de l'électrique sur une durée de vie
+complète, tout en soulignant cette sensibilité.
 
-- L'usage domine le bilan d'un véhicule thermique, la fabrication celui d'un électrique.
-- Le point d'équilibre se mesure en dizaines de milliers de kilomètres.
-- Le contenu carbone de l'électricité de recharge est le paramètre le plus sensible.
-- La seconde vie en stockage stationnaire précède le recyclage des batteries.
+Un corollaire souvent oublié : une très grosse batterie pour une voiture qui roule peu est un
+mauvais calcul environnemental.
 
-[Emplacement image : émissions cumulées comparées d'un véhicule thermique et électrique en
-fonction du kilométrage, légende et texte alternatif à fournir ultérieurement.]
+## La fin de vie
+
+Le recyclage automobile est ancien et efficace pour les métaux, qui constituent l'essentiel de la
+masse d'un véhicule.
+
+Les batteries posent une question plus récente. Avant le recyclage, une seconde vie est possible :
+une batterie qui n'a plus assez de capacité pour une voiture reste parfaitement utilisable pour
+stocker de l'électricité dans un bâtiment, où son poids et son volume n'ont aucune importance.
+
+Vient ensuite le recyclage proprement dit, qui permet de récupérer lithium, nickel et cobalt. Sa
+rentabilité dépend des volumes, encore faibles, et du cours des métaux.
+
+## À retenir
+
+- L'usage domine le bilan d'une thermique, la fabrication celui d'une électrique.
+- Le point d'équilibre se compte en dizaines de milliers de kilomètres.
+- Le contenu carbone de l'électricité est le paramètre le plus sensible.
+- Les batteries peuvent servir en stockage fixe avant d'être recyclées.
+
+[Emplacement image : émissions cumulées comparées selon le kilométrage, légende et texte
+alternatif à fournir ultérieurement.]
 
 ---
