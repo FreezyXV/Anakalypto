@@ -1,0 +1,128 @@
+// Schema Prisma d'Anakalypto.
+// La recherche plein texte francaise (colonne searchVector, index GIN, trigger)
+// est ajoutee par une migration SQL manuelle: Prisma ne modelise pas le type tsvector.
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum ArticleStatus {
+  DRAFT
+  PUBLISHED
+}
+
+/// Noeud de l'arborescence thematique. `path` porte le chemin complet en slugs
+/// (ex: "sciences-fondamentales/physique") et sert de cle d'URL.
+model Category {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  name        String
+  description String?
+  level       Int
+  path        String  @unique
+
+  parentId String?
+  parent   Category?  @relation("CatTree", fields: [parentId], references: [id], onDelete: SetNull)
+  children Category[] @relation("CatTree")
+
+  articles Article[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([parentId])
+  @@index([level])
+}
+
+model Article {
+  id      String        @id @default(cuid())
+  slug    String        @unique
+  title   String
+  summary String
+  content String
+  status  ArticleStatus @default(DRAFT)
+
+  lastVerified DateTime?
+  publishedAt  DateTime?
+
+  categoryId String
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  tags        ArticleTag[]
+  sources     Source[]
+  revisions   Revision[]
+  relatedFrom RelatedArticle[] @relation("from")
+  relatedTo   RelatedArticle[] @relation("to")
+
+  /// Emplacement de l'image principale. Non implemente pour l'instant.
+  heroImage String?
+
+  /// Vecteur de recherche plein texte francais. La colonne, ses index et le trigger qui la
+  /// maintient sont crees par la migration SQL `add_french_search`. Elle est declaree ici
+  /// pour que l'etat du schema corresponde a celui de la base et eviter toute derive.
+  searchVector Unsupported("tsvector")?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([categoryId])
+  @@index([status, publishedAt])
+  @@index([searchVector], map: "article_search_idx", type: Gin)
+  @@index([title(ops: raw("gin_trgm_ops"))], map: "article_title_trgm_idx", type: Gin)
+}
+
+model Tag {
+  id       String       @id @default(cuid())
+  slug     String       @unique
+  name     String
+  articles ArticleTag[]
+}
+
+model ArticleTag {
+  articleId String
+  tagId     String
+  article   Article @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  tag       Tag     @relation(fields: [tagId], references: [id], onDelete: Cascade)
+
+  @@id([articleId, tagId])
+  @@index([tagId])
+}
+
+model Source {
+  id            String  @id @default(cuid())
+  title         String
+  url           String
+  publisher     String?
+  publishedDate String?
+
+  articleId String
+  article   Article @relation(fields: [articleId], references: [id], onDelete: Cascade)
+
+  @@index([articleId])
+}
+
+model RelatedArticle {
+  fromId String
+  toId   String
+  from   Article @relation("from", fields: [fromId], references: [id], onDelete: Cascade)
+  to     Article @relation("to", fields: [toId], references: [id], onDelete: Cascade)
+
+  @@id([fromId, toId])
+  @@index([toId])
+}
+
+model Revision {
+  id        String   @id @default(cuid())
+  articleId String
+  article   Article  @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  content   String
+  note      String?
+  editedAt  DateTime @default(now())
+
+  @@index([articleId, editedAt])
+}

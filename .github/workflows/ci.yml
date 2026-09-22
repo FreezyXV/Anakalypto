@@ -1,0 +1,62 @@
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  quality:
+    name: Lint, types et tests
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: anakalypto
+          POSTGRES_PASSWORD: anakalypto
+          POSTGRES_DB: anakalypto_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 10
+
+    env:
+      DATABASE_URL: postgresql://anakalypto:anakalypto@localhost:5432/anakalypto_test
+      DIRECT_URL: postgresql://anakalypto:anakalypto@localhost:5432/anakalypto_test
+      TEST_DATABASE_URL: postgresql://anakalypto:anakalypto@localhost:5432/anakalypto_test
+      NEXT_PUBLIC_SITE_URL: http://localhost:3000
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installer les dependances
+        run: npm ci
+
+      - name: Verifier le formatage
+        run: npm run format:check
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Verification des types
+        run: npm run typecheck
+
+      - name: Tests
+        run: npm test
+
+      - name: Build
+        run: npm run build
