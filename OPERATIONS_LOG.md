@@ -19,6 +19,7 @@ creation de ressources, migrations, imports de contenu, deploiements. Horodatage
 | 2026-09-22 13:44 | Verification du rendu            | Serveur local et Chromium                                             | http://localhost:3000               | Succes. Pages, recherche, 404, sitemap et robots conformes. Pas de defilement horizontal a 375 px.                        |
 | 2026-09-22 13:52 | Acces Neon                       | `neon projects list`                                                  | console.neon.tech                   | Echec. Aucun jeton dans l'environnement, et hote refuse par la politique reseau de la session (403 au CONNECT du proxy).  |
 | 2026-09-22 13:52 | Acces Vercel                     | `vercel whoami`                                                       | api.vercel.com                      | Echec. CLI non authentifiee (Logged out), et hote refuse par la politique reseau de la session (403 au CONNECT du proxy). |
+| 2026-09-22 14:05 | Audit d'accessibilite            | axe-core 4.13 (WCAG 2.1 A et AA) sur Chromium                         | 7 pages, themes clair et sombre     | 1 violation `link-in-text-block` relevee puis corrigee. Controle final : aucune violation.                                |
 
 ## Operations non realisees
 

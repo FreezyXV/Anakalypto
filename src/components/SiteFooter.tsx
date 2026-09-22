@@ -15,17 +15,26 @@ export function SiteFooter() {
 
           <nav aria-label="Navigation de pied de page" className="label space-y-2">
             <p>
-              <Link href="/categories" className="transition-colors duration-150 hover:text-ink">
+              <Link
+                href="/categories"
+                className="no-underline transition-colors duration-150 hover:text-ink"
+              >
                 Toutes les catégories
               </Link>
             </p>
             <p>
-              <Link href="/recherche" className="transition-colors duration-150 hover:text-ink">
+              <Link
+                href="/recherche"
+                className="no-underline transition-colors duration-150 hover:text-ink"
+              >
                 Recherche
               </Link>
             </p>
             <p>
-              <Link href="/a-propos" className="transition-colors duration-150 hover:text-ink">
+              <Link
+                href="/a-propos"
+                className="no-underline transition-colors duration-150 hover:text-ink"
+              >
                 Méthodologie et sources
               </Link>
             </p>

@@ -21,7 +21,10 @@ export function ArticleCard({ article }: { article: ArticleCardData }) {
   return (
     <article className="rule-top py-5">
       <h3 className="text-lg leading-snug font-semibold">
-        <Link href={article.path} className="transition-colors duration-150 hover:text-prussian">
+        <Link
+          href={article.path}
+          className="no-underline transition-colors duration-150 hover:text-prussian"
+        >
           {article.title}
         </Link>
       </h3>
@@ -32,7 +35,7 @@ export function ArticleCard({ article }: { article: ArticleCardData }) {
         {article.categoryName && article.categoryPath && (
           <Link
             href={article.categoryPath}
-            className="transition-colors duration-150 hover:text-ink"
+            className="no-underline transition-colors duration-150 hover:text-ink"
           >
             {article.categoryName}
           </Link>

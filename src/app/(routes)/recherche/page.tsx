@@ -82,7 +82,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
                     <h3 className="text-lg leading-snug font-semibold">
                       <Link
                         href={`/${result.categoryPath}/${result.slug}`}
-                        className="transition-colors duration-150 hover:text-prussian"
+                        className="no-underline transition-colors duration-150 hover:text-prussian"
                       >
                         {result.title}
                       </Link>
@@ -93,7 +93,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
                     <p className="label mt-2 flex flex-wrap items-center gap-x-3">
                       <Link
                         href={`/${result.categoryPath}`}
-                        className="transition-colors duration-150 hover:text-ink"
+                        className="no-underline transition-colors duration-150 hover:text-ink"
                       >
                         {result.categoryName}
                       </Link>

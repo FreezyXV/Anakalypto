@@ -44,7 +44,10 @@ export default async function HomePage() {
           <h2 id="titre-domaines" className="font-sans text-sm font-semibold">
             Les domaines
           </h2>
-          <Link href="/categories" className="label transition-colors duration-150 hover:text-ink">
+          <Link
+            href="/categories"
+            className="label no-underline transition-colors duration-150 hover:text-ink"
+          >
             Arborescence complète
           </Link>
         </div>

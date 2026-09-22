@@ -22,7 +22,7 @@ export function SiteHeader() {
             <Link
               key={item.href}
               href={item.href}
-              className="transition-colors duration-150 hover:text-ink"
+              className="no-underline transition-colors duration-150 hover:text-ink"
             >
               {item.label}
             </Link>

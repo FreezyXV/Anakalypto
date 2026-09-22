@@ -110,8 +110,15 @@
     border-radius: 1px;
   }
 
+  /*
+   * Preflight remet `text-decoration: inherit` sur les ancres, ce qui supprime le
+   * soulignement par defaut: un lien au fil du texte ne se distinguerait plus que par sa
+   * couleur, ce qui echoue au critere WCAG 1.4.1. On retablit donc le soulignement, et les
+   * listes de navigation le retirent explicitement avec l'utilitaire `no-underline`.
+   */
   a {
     color: inherit;
+    text-decoration-line: underline;
     text-decoration-color: var(--rule-strong);
     text-decoration-thickness: 1px;
     text-underline-offset: 0.18em;
@@ -244,7 +251,7 @@
 
   .prose a {
     color: var(--prussian);
-    text-decoration-color: color-mix(in srgb, var(--prussian) 45%, transparent);
+    text-decoration-color: color-mix(in srgb, var(--prussian) 55%, transparent);
   }
 
   .prose blockquote {

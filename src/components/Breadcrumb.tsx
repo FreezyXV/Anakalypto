@@ -26,7 +26,10 @@ export function Breadcrumb({ items }: { items: readonly Crumb[] }) {
                   {item.name}
                 </span>
               ) : (
-                <Link href={item.path} className="transition-colors duration-150 hover:text-ink">
+                <Link
+                  href={item.path}
+                  className="no-underline transition-colors duration-150 hover:text-ink"
+                >
                   {item.name}
                 </Link>
               )}

@@ -17,7 +17,7 @@ export function Toc({ entries }: { entries: readonly TocEntry[] }) {
           <li key={entry.id} className={entry.level === 3 ? "pl-4" : undefined}>
             <a
               href={`#${entry.id}`}
-              className="text-sm text-ink-muted transition-colors duration-150 hover:text-ink"
+              className="text-sm text-ink-muted no-underline transition-colors duration-150 hover:text-ink"
             >
               {entry.text}
             </a>
