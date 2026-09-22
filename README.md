@@ -106,21 +106,22 @@ connexion au client via l'adaptateur `@prisma/adapter-pg`.
 
 ## Commandes
 
-| Commande                                  | Effet                                                                 |
-| ----------------------------------------- | --------------------------------------------------------------------- |
-| `npm run dev`                             | Serveur de développement.                                             |
-| `npm run build`                           | Génère le client Prisma puis construit le site (321 pages statiques). |
-| `npm start`                               | Sert le site construit.                                               |
-| `npm run lint`                            | ESLint.                                                               |
-| `npm run format` / `npm run format:check` | Prettier, écriture ou vérification.                                   |
-| `npm run typecheck`                       | `tsc --noEmit`.                                                       |
-| `npm test`                                | Suite Vitest complète (nécessite la base de test).                    |
-| `npm run prisma:migrate`                  | Crée et applique une migration en développement.                      |
-| `npm run prisma:deploy`                   | Applique les migrations existantes (production).                      |
-| `npm run prisma:studio`                   | Explorateur de données Prisma.                                        |
-| `npm run seed`                            | Importe `content/` dans la base pointée par `DATABASE_URL`.           |
-| `npm run seed:check`                      | Valide le corpus sans rien écrire.                                    |
-| `npm run setup:db`                        | Applique les migrations puis importe le corpus, dans cet ordre.       |
+| Commande                                  | Effet                                                                                    |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------- |
+| `npm run dev`                             | Serveur de développement.                                                                |
+| `npm run build`                           | Génère le client Prisma puis construit le site (321 pages statiques).                    |
+| `npm start`                               | Sert le site construit.                                                                  |
+| `npm run lint`                            | ESLint.                                                                                  |
+| `npm run format` / `npm run format:check` | Prettier, écriture ou vérification.                                                      |
+| `npm run typecheck`                       | `tsc --noEmit`.                                                                          |
+| `npm test`                                | Suite Vitest complète (nécessite la base de test).                                       |
+| `npm run prisma:migrate`                  | Crée et applique une migration en développement.                                         |
+| `npm run prisma:deploy`                   | Applique les migrations existantes (production).                                         |
+| `npm run prisma:studio`                   | Explorateur de données Prisma.                                                           |
+| `npm run seed`                            | Importe `content/` dans la base pointée par `DATABASE_URL`.                              |
+| `npm run seed:check`                      | Valide le corpus sans rien écrire.                                                       |
+| `npm run setup:db`                        | Applique les migrations puis importe le corpus, dans cet ordre.                          |
+| `npm run build:with-db`                   | Migrations, import du corpus, puis build. Destiné à la commande de build d'un hébergeur. |
 
 Le seed accepte `--content=<répertoire>` pour importer depuis un autre dossier.
 
@@ -365,6 +366,32 @@ npx prisma migrate status
 ```
 
 ### 5. Préparer la base de production
+
+Deux chemins, au choix.
+
+#### Chemin A : déploiement autonome, aucune commande locale
+
+Déclarer `build:with-db` comme commande de build du projet d'hébergement (sur Vercel :
+Settings, Build and Deployment, Build Command, décocher « Override » puis saisir
+`npm run build:with-db`). Chaque déploiement applique alors les migrations, réimporte le
+corpus et régénère les pages, dans cet ordre.
+
+Ce chemin traite la base comme un dérivé du dépôt : le corpus vit dans `content/`, versionné,
+et la base n'en est que la projection interrogeable. L'import étant idempotent, le rejouer à
+chaque déploiement ne crée aucun doublon.
+
+Il impose en revanche de déclarer `DIRECT_URL` avec la chaîne **non poolée** : Prisma Migrate
+pose un verrou consultatif, que les poolers en mode transaction ne supportent pas. Sur Neon,
+la chaîne directe est la chaîne poolée dont on retire `-pooler` du nom d'hôte.
+
+À éviter si plusieurs déploiements peuvent se construire en parallèle sur la même base, ou si
+les environnements de prévisualisation partagent la base de production.
+
+#### Chemin B : préparation explicite, depuis un poste
+
+L'ordre compte : le schéma doit exister et le corpus être importé **avant** le premier
+déploiement. La génération statique interroge la base au moment du build ; sur une base vide,
+le site se construit sans aucune page d'article.
 
 L'ordre compte : le schéma doit exister et le corpus être importé **avant** le premier
 déploiement. La génération statique interroge la base au moment du build ; sur une base vide,

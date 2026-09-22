@@ -9,6 +9,7 @@
   },
   "scripts": {
     "build": "prisma generate && next build",
+    "build:with-db": "prisma migrate deploy && tsx prisma/seed.ts && npm run build",
     "dev": "next dev",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
