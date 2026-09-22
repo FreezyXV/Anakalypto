@@ -106,7 +106,7 @@ function transformFigurePlaceholders() {
       const html =
         '<figure class="figure-placeholder" role="group">' +
         '<div class="figure-placeholder__frame" aria-hidden="true"></div>' +
-        `<figcaption class="figure-placeholder__caption">Illustration a venir : ${escapeHtml(
+        `<figcaption class="figure-placeholder__caption">Illustration à venir : ${escapeHtml(
           caption
             .replace(/,\s*legende et texte alternatif a fournir ulterieurement\.?$/i, "")
             .replace(/,\s*légende et texte alternatif à fournir ultérieurement\.?$/i, "")

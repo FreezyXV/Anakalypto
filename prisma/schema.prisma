@@ -67,13 +67,17 @@ model Article {
   /// pour que l'etat du schema corresponde a celui de la base et eviter toute derive.
   searchVector Unsupported("tsvector")?
 
+  /// Titre sans accent et en minuscules, maintenu par le meme trigger. Sert au
+  /// rapprochement trigramme, que les accents feraient echouer sur le titre brut.
+  searchTitle String?
+
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
   @@index([categoryId])
   @@index([status, publishedAt])
   @@index([searchVector], map: "article_search_idx", type: Gin)
-  @@index([title(ops: raw("gin_trgm_ops"))], map: "article_title_trgm_idx", type: Gin)
+  @@index([searchTitle(ops: raw("gin_trgm_ops"))], map: "article_title_trgm_idx", type: Gin)
 }
 
 model Tag {

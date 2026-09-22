@@ -1,0 +1,356 @@
+@import "tailwindcss";
+
+/*
+ * Anakalypto - systeme visuel
+ *
+ * Direction: la planche d'encyclopedie imprimee. Papier neutre, encre profonde, filets
+ * fins pour structurer, et un bleu de Prusse emprunte au cyanotype, procede des planches
+ * scientifiques du XIXe siecle. Deux familles clairement distinctes: Spectral pour le
+ * texte lu, Archivo pour l'appareil de navigation.
+ */
+
+:root {
+  color-scheme: light;
+
+  --paper: #fbfaf7;
+  --surface: #f4f2ec;
+  --ink: #14181c;
+  --ink-muted: #575e65;
+  --prussian: #12415f;
+  --prussian-strong: #0b2f46;
+  --annotation: #7a5a12;
+  --rule: #d8d3c7;
+  --rule-strong: #b9b2a2;
+  --highlight: #e8eef3;
+
+  /*
+   * Piles typographiques. Elles sont declarees ici, et non uniquement dans @theme inline:
+   * `inline` remplace les valeurs directement dans les utilitaires Tailwind sans exposer
+   * de variable CSS, or les regles ecrites a la main ci-dessous en ont besoin.
+   */
+  --font-stack-serif: var(--font-spectral), ui-serif, Georgia, "Times New Roman", serif;
+  --font-stack-sans: var(--font-archivo), ui-sans-serif, system-ui, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+
+    --paper: #0e1418;
+    --surface: #161d22;
+    --ink: #e6e3db;
+    --ink-muted: #9aa4ac;
+    --prussian: #8fbbd4;
+    --prussian-strong: #b4d4e6;
+    --annotation: #d2b472;
+    --rule: #2a343b;
+    --rule-strong: #3d4a53;
+    --highlight: #1b2a33;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --paper: #0e1418;
+  --surface: #161d22;
+  --ink: #e6e3db;
+  --ink-muted: #9aa4ac;
+  --prussian: #8fbbd4;
+  --prussian-strong: #b4d4e6;
+  --annotation: #d2b472;
+  --rule: #2a343b;
+  --rule-strong: #3d4a53;
+  --highlight: #1b2a33;
+}
+
+@theme inline {
+  --font-serif: var(--font-stack-serif);
+  --font-sans: var(--font-stack-sans);
+
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-prussian: var(--prussian);
+  --color-prussian-strong: var(--prussian-strong);
+  --color-annotation: var(--annotation);
+  --color-rule: var(--rule);
+  --color-rule-strong: var(--rule-strong);
+  --color-highlight: var(--highlight);
+
+  /* Mesure de ligne confortable: environ 70 caracteres. */
+  --container-measure: 36rem;
+  --container-reading: 44rem;
+}
+
+@layer base {
+  * {
+    border-color: var(--rule);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-stack-serif);
+    font-size: 1.0625rem;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern" 1;
+  }
+
+  /* Un anneau de focus visible et contraste, jamais supprime. */
+  :focus-visible {
+    outline: 2px solid var(--prussian);
+    outline-offset: 2px;
+    border-radius: 1px;
+  }
+
+  a {
+    color: inherit;
+    text-decoration-color: var(--rule-strong);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  a:hover {
+    text-decoration-color: currentcolor;
+  }
+
+  ::selection {
+    background-color: var(--highlight);
+    color: var(--ink);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /*
+   * Appareil de navigation: petites capitales typographiques, jamais de capitales forcees.
+   */
+  .label {
+    font-family: var(--font-stack-sans);
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: var(--ink-muted);
+  }
+
+  .wordmark {
+    font-family: var(--font-stack-serif);
+    font-variant-caps: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+  }
+
+  /* Filet horizontal: le dispositif structurant de la planche imprimee. */
+  .rule-top {
+    border-top: 1px solid var(--rule);
+  }
+
+  .rule-bottom {
+    border-bottom: 1px solid var(--rule);
+  }
+
+  /*
+   * Corps d'article. Mise en forme ecrite a la main plutot qu'heritee d'un plugin:
+   * l'echelle typographique et les rythmes verticaux font partie de l'identite.
+   */
+  .prose {
+    max-width: var(--container-reading);
+  }
+
+  .prose > * + * {
+    margin-top: 1.1em;
+  }
+
+  .prose h2 {
+    font-size: 1.5rem;
+    line-height: 1.25;
+    font-weight: 600;
+    margin-top: 2.6rem;
+    padding-top: 0.9rem;
+    border-top: 1px solid var(--rule);
+    scroll-margin-top: 5rem;
+  }
+
+  .prose h3 {
+    font-size: 1.175rem;
+    line-height: 1.35;
+    font-weight: 600;
+    margin-top: 1.9rem;
+    scroll-margin-top: 5rem;
+  }
+
+  .prose p {
+    hyphens: auto;
+  }
+
+  .prose ul,
+  .prose ol {
+    padding-left: 1.25rem;
+  }
+
+  .prose ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .prose ul > li {
+    position: relative;
+    padding-left: 1.15rem;
+    margin-top: 0.45rem;
+  }
+
+  /* Puce en filet: prolonge le vocabulaire des reglures plutot qu'un disque generique. */
+  .prose ul > li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.85em;
+    width: 0.65rem;
+    height: 1px;
+    background-color: var(--rule-strong);
+  }
+
+  .prose ol {
+    list-style: decimal;
+  }
+
+  .prose ol > li {
+    margin-top: 0.45rem;
+    padding-left: 0.25rem;
+  }
+
+  .prose ol > li::marker {
+    font-family: var(--font-stack-sans);
+    font-size: 0.8em;
+    color: var(--ink-muted);
+  }
+
+  .prose a {
+    color: var(--prussian);
+    text-decoration-color: color-mix(in srgb, var(--prussian) 45%, transparent);
+  }
+
+  .prose blockquote {
+    border-left: 2px solid var(--rule-strong);
+    padding-left: 1rem;
+    color: var(--ink-muted);
+  }
+
+  .prose code {
+    font-family: ui-monospace, "SF Mono", "Cascadia Mono", monospace;
+    font-size: 0.875em;
+    background-color: var(--surface);
+    padding: 0.1em 0.3em;
+    border: 1px solid var(--rule);
+  }
+
+  .prose pre {
+    background-color: var(--surface);
+    border: 1px solid var(--rule);
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.875rem;
+    line-height: 1.55;
+  }
+
+  .prose pre code {
+    background: none;
+    border: none;
+    padding: 0;
+  }
+
+  .prose table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95em;
+  }
+
+  .prose th,
+  .prose td {
+    border: 1px solid var(--rule);
+    padding: 0.5rem 0.65rem;
+    text-align: left;
+  }
+
+  .prose th {
+    font-family: var(--font-stack-sans);
+    font-weight: 600;
+    background-color: var(--surface);
+  }
+
+  /*
+   * Cadre d'illustration a venir. Meme balisage que le composant FigurePlaceholder afin
+   * que les emplacements marques dans le Markdown et ceux poses dans les pages partagent
+   * une seule mise en forme.
+   */
+  .figure-placeholder {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .figure-placeholder__frame {
+    aspect-ratio: 16 / 9;
+    border: 1px solid var(--rule-strong);
+    background-image: repeating-linear-gradient(
+      -45deg,
+      transparent,
+      transparent 9px,
+      var(--rule) 9px,
+      var(--rule) 10px
+    );
+    opacity: 0.55;
+  }
+
+  .figure-placeholder__caption {
+    font-family: var(--font-stack-sans);
+    font-size: 0.8125rem;
+    line-height: 1.5;
+    color: var(--ink-muted);
+    margin-top: 0.6rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--rule);
+  }
+
+  /* Coloration syntaxique, alignee sur la palette du site. */
+  .hljs-comment,
+  .hljs-quote {
+    color: var(--ink-muted);
+    font-style: italic;
+  }
+
+  .hljs-keyword,
+  .hljs-selector-tag,
+  .hljs-literal,
+  .hljs-type {
+    color: var(--prussian);
+  }
+
+  .hljs-string,
+  .hljs-attr,
+  .hljs-number {
+    color: var(--annotation);
+  }
+
+  .hljs-title,
+  .hljs-name,
+  .hljs-section {
+    font-weight: 600;
+  }
+}

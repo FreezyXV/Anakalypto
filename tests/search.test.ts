@@ -150,6 +150,18 @@ describe("searchArticles", () => {
     expect(match?.match).toBe("approximatif");
   });
 
+  it("rattrape une faute sur un mot isole, malgre un titre long et accentue", async () => {
+    // Regression: `similarity` diluait le score sur tout le titre et les accents du titre
+    // changeaient les trigrammes, si bien qu'une saisie d'un seul mot ne trouvait rien.
+    const results = await searchArticles("telescpoe");
+    expect(results[0]?.slug).toBe("telescope-james-webb");
+    expect(results[0]?.match).toBe("approximatif");
+  });
+
+  it("ne rapproche pas une saisie sans rapport avec un titre", async () => {
+    expect(await searchArticles("qwertyuiopasdf")).toEqual([]);
+  });
+
   it("renvoie une liste vide pour une saisie sans correspondance", async () => {
     expect(await searchArticles("xyzzyplughquux")).toEqual([]);
   });
