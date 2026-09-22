@@ -89,9 +89,11 @@ function removeRedundantSections() {
 }
 
 /**
- * Convertit les marqueurs d'illustration en cadre neutre. Le balisage reproduit celui du
- * composant FigurePlaceholder: les deux partagent la classe `figure-placeholder` et donc
- * la meme mise en forme.
+ * Convertit les marqueurs d'illustration en cadre neutre legende.
+ *
+ * Les 118 emplacements du corpus sont tous poses dans le corps des articles, donc rendus
+ * par cette chaine: le balisage est produit ici, et sa mise en forme vit dans la classe
+ * `figure-placeholder` de globals.css. L'attribut alt sera renseigne avec l'image.
  */
 function transformFigurePlaceholders() {
   return (tree: MdastRoot) => {
@@ -155,23 +157,4 @@ export async function renderMarkdown(markdown: string): Promise<RenderedMarkdown
     .process(markdown);
 
   return { html: String(file), toc };
-}
-
-/**
- * Extrait un resume court a partir d'un corps Markdown, pour les cas ou aucun resume
- * explicite n'est disponible. Les titres et marqueurs sont ignores.
- */
-export function excerpt(markdown: string, maxLength = 200): string {
-  const text = markdown
-    .split("\n")
-    .filter((line) => !line.startsWith("#") && !line.startsWith("[Emplacement image"))
-    .join(" ")
-    .replace(/[*_`>]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-
-  if (text.length <= maxLength) return text;
-  const cut = text.slice(0, maxLength);
-  const lastSpace = cut.lastIndexOf(" ");
-  return `${cut.slice(0, lastSpace > 0 ? lastSpace : maxLength)}...`;
 }

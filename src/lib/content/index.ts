@@ -1,5 +1,5 @@
 export { loadContentBlocks } from "./load";
-export { splitBlocks, stripBlockSeparator } from "./parse";
+export { splitBlocks } from "./parse";
 export {
   articleBlockSchema,
   blockTypeSchema,

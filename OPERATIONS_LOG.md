@@ -67,9 +67,16 @@ Anomalies relevees par la validation du corpus livre, et traitement retenu.
    porte que le `provider`, `prisma.config.ts` fournit l'URL de migration (`DIRECT_URL` si
    elle existe, sinon `DATABASE_URL`) et l'application fournit l'URL d'execution via
    l'adaptateur `@prisma/adapter-pg`, exactement comme decrit dans la specification.
-2. **Profondeur des routes.** La specification decrit des routes `[category]/[subcategory]/
-[article]`. Le corpus livre comporte trois niveaux de categories et rattache ses 118
-   articles au troisieme, ce que ces routes ne peuvent pas exprimer. Le projet utilise une
+2. **Profondeur des routes.** La specification decrit des routes
+   `[category]/[subcategory]/[article]`. Le corpus livre comporte trois niveaux de categories
+   et rattache ses 118 articles au troisieme, ce que ces routes ne peuvent pas exprimer. Le projet utilise une
    route unique qui resout un chemin de profondeur quelconque vers une categorie ou un
    article. Les URLs restent lisibles et identiques a ce que la specification decrit pour
    les deux premiers niveaux.
+3. **Composant FigurePlaceholder.** La specification demande un composant React pour les
+   emplacements d'illustration. Les 118 emplacements du corpus sont tous poses dans le corps
+   des articles, converti en HTML par la chaine Markdown : un composant React ne pourrait pas
+   les servir sans decouper le corps rendu. Le cadre neutre legende est donc produit par
+   `src/lib/markdown.ts`, et sa mise en forme vit dans la classe `figure-placeholder` de
+   `globals.css`. Le resultat visuel et l'emplacement prevu pour le texte alternatif sont
+   ceux decrits par la specification.

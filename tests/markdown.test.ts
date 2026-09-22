@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import { excerpt, renderMarkdown } from "../src/lib/markdown";
+import { renderMarkdown } from "../src/lib/markdown";
 
 describe("renderMarkdown", () => {
   it("construit la table des matieres a partir des titres", async () => {
@@ -60,17 +60,5 @@ describe("renderMarkdown", () => {
 
     expect(html).not.toContain("<script>");
     expect(html).toContain("&lt;script&gt;");
-  });
-});
-
-describe("excerpt", () => {
-  it("ignore les titres et les marqueurs d'illustration", () => {
-    const text = excerpt("## Titre\nLe premier paragraphe.\n[Emplacement image : rien]");
-    expect(text).toBe("Le premier paragraphe.");
-  });
-
-  it("tronque sur une limite de mot", () => {
-    const text = excerpt("un deux trois quatre cinq six sept huit", 12);
-    expect(text).toBe("un deux...");
   });
 });
