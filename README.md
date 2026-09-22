@@ -282,13 +282,13 @@ retenu, 0,45, a été mesuré sur le corpus ; les rapprochements fortuits y plaf
 
 ## Déploiement sur Vercel et Neon
 
-> **État au 22 septembre 2026.** Les étapes 1 à 3 et 5 à 7 ci-dessous n'ont **pas** pu être
-> exécutées depuis la session d'automatisation : aucun jeton Vercel ou Neon n'était présent
-> dans l'environnement, et la politique réseau de cette session refuse les connexions vers
-> `console.neon.tech` et `api.vercel.com` (réponse 403 au CONNECT du proxy sortant). La
-> procédure ci-dessous est donc à exécuter par une personne disposant des accès. Tout ce qui
-> ne dépend pas de ces accès a été réalisé et vérifié : schéma, migrations, import du corpus,
-> pages, recherche, SEO, tests et build de production.
+> **État au 22 septembre 2026.** Le site est en production sur
+> **https://anakalypto.vercel.app**, servi depuis la branche `main` du dépôt
+> `FreezyXV/Anakalypto`, avec déploiement automatique à chaque `push`. La base Neon du projet
+> `bitter-recipe-44728859`, branche `production`, est migrée et peuplée : 196 catégories,
+> 118 articles, 448 étiquettes, 177 sources, 77 liens. La procédure ci-dessous reste la
+> référence pour reproduire ce déploiement, sur un autre environnement ou après une rotation
+> d'identifiants. Le déroulé effectif est consigné dans `OPERATIONS_LOG.md`.
 
 ### 1. Provisionner la base Neon
 
@@ -388,10 +388,6 @@ la chaîne directe est la chaîne poolée dont on retire `-pooler` du nom d'hôt
 les environnements de prévisualisation partagent la base de production.
 
 #### Chemin B : préparation explicite, depuis un poste
-
-L'ordre compte : le schéma doit exister et le corpus être importé **avant** le premier
-déploiement. La génération statique interroge la base au moment du build ; sur une base vide,
-le site se construit sans aucune page d'article.
 
 L'ordre compte : le schéma doit exister et le corpus être importé **avant** le premier
 déploiement. La génération statique interroge la base au moment du build ; sur une base vide,
