@@ -125,7 +125,7 @@ function CategoryView({ category }: { category: CategoryPage }) {
               <li key={child.path}>
                 <Link
                   href={`/${child.path}`}
-                  className="text-[1.05rem] leading-snug font-semibold no-underline transition-colors duration-150 hover:text-prussian"
+                  className="text-[1.05rem] leading-snug font-semibold no-underline transition-colors duration-150 hover:text-accent"
                 >
                   {child.name}
                 </Link>
@@ -222,18 +222,24 @@ async function ArticleView({ article }: { article: ArticlePage }) {
           )}
         </header>
 
-        <div className="mt-10 lg:grid lg:grid-cols-[minmax(0,1fr)_14rem] lg:gap-x-12">
-          <div className="prose order-1">
+        {/*
+          Le sommaire precede le corps dans le DOM: en dessous de `lg` le conteneur n'est
+          pas une grille, `order` ne s'y applique pas, et c'est l'ordre du document qui
+          place le sommaire replie avant le texte. Au-dela, la grille le renvoie en
+          seconde colonne.
+        */}
+        <div className="mt-10 lg:grid lg:grid-cols-[minmax(0,1fr)_15rem] lg:gap-x-12">
+          <aside className="lg:sticky lg:top-24 lg:order-2 lg:self-start">
+            <Toc entries={toc} />
+          </aside>
+
+          <div className="prose mt-8 lg:order-1 lg:mt-0">
             {/*
               Le corpus est redige par l'equipe editoriale et converti par notre propre
               chaine Markdown: aucun HTML exterieur n'entre ici.
             */}
             <div dangerouslySetInnerHTML={{ __html: html }} />
           </div>
-
-          <aside className="order-2 mt-12 lg:sticky lg:top-8 lg:mt-0 lg:self-start">
-            <Toc entries={toc} />
-          </aside>
         </div>
 
         {article.tags.length > 0 && (
@@ -261,7 +267,7 @@ async function ArticleView({ article }: { article: ArticlePage }) {
                 <li key={related.path}>
                   <Link
                     href={`/${related.path}`}
-                    className="leading-snug font-semibold no-underline transition-colors duration-150 hover:text-prussian"
+                    className="leading-snug font-semibold no-underline transition-colors duration-150 hover:text-accent"
                   >
                     {related.title}
                   </Link>
@@ -283,7 +289,7 @@ async function ArticleView({ article }: { article: ArticlePage }) {
                   href={source.url}
                   rel="noopener noreferrer nofollow"
                   target="_blank"
-                  className="text-prussian"
+                  className="text-accent"
                 >
                   {source.title}
                 </a>

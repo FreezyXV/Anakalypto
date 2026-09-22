@@ -30,7 +30,12 @@ export default async function HomePage() {
           ont été vérifiées.
         </p>
 
-        <div className="mt-7 max-w-reading">
+        {/*
+          Sur telephone, l'en-tete porte deja un champ de recherche pleine largeur, a
+          quelques centimetres de celui-ci: le repeter n'ajoute rien et repousse le
+          contenu. Il ne reparait qu'a partir de `md`, ou l'en-tete le reduit.
+        */}
+        <div className="mt-7 hidden max-w-reading md:block">
           <SearchBox size="large" />
         </div>
 
@@ -63,7 +68,7 @@ export default async function HomePage() {
                 href={`/${category.path}`}
                 className="group block no-underline transition-colors duration-150"
               >
-                <span className="text-[1.05rem] leading-snug font-semibold group-hover:text-prussian">
+                <span className="text-[1.05rem] leading-snug font-semibold group-hover:text-accent">
                   {category.name}
                 </span>
                 <span className="label mt-0.5 block">

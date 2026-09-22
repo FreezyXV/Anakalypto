@@ -17,7 +17,7 @@ export default function NotFound() {
       </div>
 
       <p className="mt-6">
-        <Link href="/categories" className="text-prussian">
+        <Link href="/categories" className="text-accent">
           Parcourir l&apos;arborescence des catégories
         </Link>
       </p>

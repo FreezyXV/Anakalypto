@@ -23,7 +23,7 @@ export function ArticleCard({ article }: { article: ArticleCardData }) {
       <h3 className="text-lg leading-snug font-semibold">
         <Link
           href={article.path}
-          className="no-underline transition-colors duration-150 hover:text-prussian"
+          className="no-underline transition-colors duration-150 hover:text-accent"
         >
           {article.title}
         </Link>

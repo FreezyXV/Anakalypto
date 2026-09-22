@@ -63,7 +63,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
             <p className="mt-6 max-w-reading leading-relaxed text-ink-muted">
               Aucun article ne correspond à cette recherche. Essayez un terme plus général, ou
               parcourez{" "}
-              <Link href="/categories" className="text-prussian">
+              <Link href="/categories" className="text-accent">
                 l&apos;arborescence des catégories
               </Link>
               .
@@ -82,7 +82,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
                     <h3 className="text-lg leading-snug font-semibold">
                       <Link
                         href={`/${result.categoryPath}/${result.slug}`}
-                        className="no-underline transition-colors duration-150 hover:text-prussian"
+                        className="no-underline transition-colors duration-150 hover:text-accent"
                       >
                         {result.title}
                       </Link>
