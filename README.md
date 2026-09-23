@@ -2,14 +2,17 @@
 
 Encyclopédie web francophone des sciences et des savoirs. Du grec _anakalypto_ : dévoiler.
 
-Le site couvre les sciences fondamentales, le corps humain et la santé, l'alimentation,
-l'espace, l'aéronautique, l'automobile, les industries, l'intelligence artificielle,
-l'informatique, l'énergie, le climat, l'ingénierie et les sciences humaines. Il s'adresse au
-public curieux et aux étudiants francophones. Chaque article est rédigé de manière originale,
+Le site couvre dix-neuf domaines : sciences fondamentales, sciences du vivant, corps humain et
+santé, alimentation, espace, aéronautique, automobile, industries, intelligence artificielle,
+informatique, énergie, environnement et climat, technologies et ingénierie, sciences humaines,
+droit et institutions, géographie, arts et culture, communication et médias, sport. Il s'adresse
+au public curieux à partir de dix ans. Chaque article est rédigé de manière originale,
 cite ses sources et indique la date de leur dernière vérification.
 
-État actuel du corpus : 196 catégories sur trois niveaux, 118 articles publiés, 177 sources
-citées.
+État actuel du corpus : 297 catégories sur trois niveaux, 274 articles publiés, 548 sources
+citées et 548 questions de quiz. Les articles visent un lectorat à partir de dix ans : chacun
+s'ouvre sur une section `## En bref`, se ferme sur `## À retenir`, et se termine par un quiz de
+deux questions.
 
 ## Sommaire
 
@@ -83,6 +86,12 @@ distincte (les tests vident les tables) :
 TEST_DATABASE_URL="postgresql://utilisateur:motdepasse@localhost:5432/anakalypto_test"
 ```
 
+Le nom de la base doit contenir `test` : la suite refuse de démarrer sinon, pour qu'un
+`DATABASE_URL` exporté par erreur dans le shell ne puisse pas vider la base de travail. Sans
+PostgreSQL local, une base dédiée sur la même instance Neon convient :
+`CREATE DATABASE anakalypto_test`, puis la même chaîne de connexion avec ce nom de base. Les
+migrations y sont appliquées automatiquement avant la suite.
+
 ## Variables d'environnement
 
 Aucune valeur réelle n'est versionnée : `.env.local`, `.env.test` et `.env*.local` sont
@@ -127,9 +136,16 @@ Le seed accepte `--content=<répertoire>` pour importer depuis un autre dossier.
 
 ## Format du fichier de contenu
 
-Le répertoire `content/` contient un ou plusieurs fichiers Markdown. Chaque fichier concatène
-des blocs, chacun introduit par un frontmatter YAML. Les blocs sont séparés par une ligne
-`---` isolée.
+Le répertoire `content/` contient un fichier Markdown par domaine, nommé `domaine-<slug>.md`
+et regroupant ses catégories et ses articles. Chaque fichier concatène des blocs, chacun
+introduit par un frontmatter YAML. Les blocs sont séparés par une ligne `---` isolée.
+
+Le découpage par fichier n'a aucune incidence sur le résultat : le seed lit tout `content/` et
+ne se fie qu'aux `slug` et aux `categoryPath`. Un domaine par fichier est simplement la
+granularité la plus pratique pour relire et modifier.
+
+Un titre ne peut pas contenir la séquence `deux-points suivi d'une espace` : YAML y verrait un
+séparateur de clé. Reformuler plutôt que d'échapper.
 
 ### Bloc catégorie
 
@@ -163,14 +179,32 @@ sources:
     url: "https://science.nasa.gov/mission/webb/"
     publisher: "NASA"
     date: "2026"
+quiz:
+  - question: "Pourquoi le télescope observe-t-il dans l'infrarouge ?"
+    options:
+      - "Parce que c'est moins cher"
+      - "Parce que la lumière des objets les plus lointains est étirée vers l'infrarouge"
+      - "Parce que l'infrarouge traverse les nuages"
+    answer: 2
+    explanation: >
+      L'expansion de l'Univers étire la lumière des galaxies les plus anciennes vers les
+      grandes longueurs d'onde.
 lastVerified: 2026-09-21
 status: published
 ---
 
-## Résumé
+## En bref
 
 Corps de l'article en Markdown.
+
+## À retenir
+
+- Trois à cinq points.
 ```
+
+Le champ `quiz` est facultatif et accepte de zéro à plusieurs questions. `answer` est l'index
+de la bonne réponse **en base 1** dans le corpus, ce qui évite les erreurs de relecture ; il est
+converti en base 0 à l'import. Une valeur hors de l'intervalle des options est refusée.
 
 ### Règles vérifiées à l'import
 
@@ -202,6 +236,13 @@ suffit à annuler tout l'import, avec un code de sortie non nul et un rapport lo
   et devient un cadre neutre avec légende.
 - Une section `## Articles liés` dans le corps est retirée au rendu : la liste est reconstruite
   à partir de `relatedArticles`, avec de vrais liens.
+- Un article s'ouvre sur `## En bref` et se ferme sur `## À retenir`, une liste de trois à cinq
+  points. Entre les deux, des sections courtes, des phrases courtes, et des chiffres datés
+  plutôt que des formules d'insistance.
+- Les textes visibles sont en français accentué ; les commentaires de code restent en ASCII.
+- La ponctuation double est mise en forme au rendu : espace fine insécable avant `?`, `!`, `;`
+  et à l'intérieur des guillemets, espace insécable avant `:`. Le corpus s'écrit donc avec des
+  espaces ordinaires, et le code affiché reste intact.
 
 ### Idempotence
 
@@ -209,6 +250,12 @@ Le seed est rejouable. Chaque entité est identifiée par son slug, et seules le
 réelles donnent lieu à une écriture. Le rapport final distingue les créations, les mises à
 jour et les blocs inchangés. Lorsque le corps d'un article change, la version précédente est
 archivée dans la table `Revision` avant d'être remplacée.
+
+Le corpus fait autorité : un article, une catégorie devenue vide ou une étiquette qui ne figure
+plus dans `content/` est supprimé de la base à l'import suivant, sinon la page correspondante
+resterait servie sans source. Une catégorie qui contient encore des articles n'est jamais
+supprimée — la suppression en cascade les emporterait. Les branches se vident donc de bas en
+haut, sur plusieurs imports si nécessaire.
 
 ## Architecture
 
@@ -282,11 +329,11 @@ retenu, 0,45, a été mesuré sur le corpus ; les rapprochements fortuits y plaf
 
 ## Déploiement sur Vercel et Neon
 
-> **État au 22 septembre 2026.** Le site est en production sur
+> **État au 23 septembre 2026.** Le site est en production sur
 > **https://anakalypto.vercel.app**, servi depuis la branche `main` du dépôt
 > `FreezyXV/Anakalypto`, avec déploiement automatique à chaque `push`. La base Neon du projet
-> `bitter-recipe-44728859`, branche `production`, est migrée et peuplée : 196 catégories,
-> 118 articles, 448 étiquettes, 177 sources, 77 liens. La procédure ci-dessous reste la
+> `bitter-recipe-44728859`, branche `production`, est migrée et peuplée : 297 catégories,
+> 274 articles, 983 étiquettes, 548 sources, 548 questions de quiz, 532 liens. La procédure ci-dessous reste la
 > référence pour reproduire ce déploiement, sur un autre environnement ou après une rotation
 > d'identifiants. Le déroulé effectif est consigné dans `OPERATIONS_LOG.md`.
 

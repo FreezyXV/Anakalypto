@@ -24,6 +24,7 @@ import {
   pageMetadata,
   SITE_NAME,
 } from "@/lib/seo";
+import { frenchSpacing } from "@/lib/typography";
 
 export const revalidate = 3600;
 export const dynamicParams = true;
@@ -109,9 +110,11 @@ function CategoryView({ category }: { category: CategoryPage }) {
       <JsonLd data={breadcrumbJsonLd(crumbs)} />
       <Breadcrumb items={crumbs} />
 
-      <h1 className="mt-4 text-3xl leading-tight font-semibold">{category.name}</h1>
+      <h1 className="mt-4 text-3xl leading-tight font-semibold">{frenchSpacing(category.name)}</h1>
 
-      {category.description && <p className="prose mt-5 leading-relaxed">{category.description}</p>}
+      {category.description && (
+        <p className="prose mt-5 leading-relaxed">{frenchSpacing(category.description)}</p>
+      )}
 
       {category.children.length > 0 && (
         <section aria-labelledby="titre-sous-categories" className="mt-12">
@@ -128,7 +131,7 @@ function CategoryView({ category }: { category: CategoryPage }) {
                   href={`/${child.path}`}
                   className="text-[1.05rem] leading-snug font-semibold no-underline transition-colors duration-150 hover:text-accent"
                 >
-                  {child.name}
+                  {frenchSpacing(child.name)}
                 </Link>
                 <span className="label mt-0.5 block">
                   {child.articleCount} article{child.articleCount > 1 ? "s" : ""}
@@ -210,10 +213,10 @@ async function ArticleView({ article }: { article: ArticlePage }) {
       <article className="mt-4">
         <header>
           <h1 className="max-w-reading text-3xl leading-tight font-semibold sm:text-4xl">
-            {article.title}
+            {frenchSpacing(article.title)}
           </h1>
           <p className="mt-4 max-w-reading text-lg leading-relaxed text-ink-muted">
-            {article.summary}
+            {frenchSpacing(article.summary)}
           </p>
           {verified && (
             <p className="label mt-4">

@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { formatDate, isoDate } from "@/lib/seo";
+import { frenchSpacing } from "@/lib/typography";
 
 export type ArticleCardData = {
   title: string;
@@ -25,11 +26,11 @@ export function ArticleCard({ article }: { article: ArticleCardData }) {
           href={article.path}
           className="no-underline transition-colors duration-150 hover:text-accent"
         >
-          {article.title}
+          {frenchSpacing(article.title)}
         </Link>
       </h3>
       <p className="mt-1.5 max-w-measure text-[0.95rem] leading-relaxed text-ink-muted">
-        {article.summary}
+        {frenchSpacing(article.summary)}
       </p>
       <p className="label mt-2 flex flex-wrap items-center gap-x-3 gap-y-1">
         {article.categoryName && article.categoryPath && (
@@ -37,7 +38,7 @@ export function ArticleCard({ article }: { article: ArticleCardData }) {
             href={article.categoryPath}
             className="no-underline transition-colors duration-150 hover:text-ink"
           >
-            {article.categoryName}
+            {frenchSpacing(article.categoryName)}
           </Link>
         )}
         {verified && (

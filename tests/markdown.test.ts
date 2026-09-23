@@ -61,4 +61,22 @@ describe("renderMarkdown", () => {
     expect(html).not.toContain("<script>");
     expect(html).toContain("&lt;script&gt;");
   });
+  it("insere les espaces insecables de la ponctuation double", async () => {
+    const { html, toc } = await renderMarkdown(
+      ["## Pourquoi ?", "", "Une question : la reponse ; puis la suite !"].join("\n"),
+    );
+
+    // Espace fine avant "?", "!" et ";", espace mot avant ":".
+    expect(html).toContain("Pourquoi\u202f?");
+    expect(html).toContain("question\u00a0:");
+    expect(html).toContain("reponse\u202f;");
+    expect(html).toContain("suite\u202f!");
+    expect(toc[0]?.text).toBe("Pourquoi\u202f?");
+  });
+
+  it("laisse le code intact", async () => {
+    const { html } = await renderMarkdown("Appel `fn(a ? b : c)` en ligne.");
+
+    expect(html).toContain("fn(a ? b : c)");
+  });
 });

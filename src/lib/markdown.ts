@@ -10,6 +10,8 @@ import { visit } from "unist-util-visit";
 import type { Root as MdastRoot, Paragraph, PhrasingContent, RootContent } from "mdast";
 import type { Element, Root as HastRoot } from "hast";
 
+import { frenchSpacing } from "./typography";
+
 /** Entree de la table des matieres, dans l'ordre du document. */
 export type TocEntry = {
   id: string;
@@ -91,8 +93,8 @@ function removeRedundantSections() {
 /**
  * Convertit les marqueurs d'illustration en cadre neutre legende.
  *
- * Les 118 emplacements du corpus sont tous poses dans le corps des articles, donc rendus
- * par cette chaine: le balisage est produit ici, et sa mise en forme vit dans la classe
+ * Les emplacements du corpus sont tous poses dans le corps des articles, donc rendus par
+ * cette chaine: le balisage est produit ici, et sa mise en forme vit dans la classe
  * `figure-placeholder` de globals.css. L'attribut alt sera renseigne avec l'image.
  */
 function transformFigurePlaceholders() {
@@ -121,6 +123,29 @@ function transformFigurePlaceholders() {
   };
 }
 
+/**
+ * Applique la typographie francaise aux textes rendus, en laissant le code intact: une
+ * espace insecable inseree dans un extrait de code en changerait le sens.
+ */
+function applyFrenchSpacing() {
+  return (tree: HastRoot) => {
+    visit(
+      tree,
+      "text",
+      (node: { value: string }, _index, parent: Element | HastRoot | undefined) => {
+        if (
+          parent &&
+          "tagName" in parent &&
+          (parent.tagName === "code" || parent.tagName === "pre")
+        ) {
+          return;
+        }
+        node.value = frenchSpacing(node.value);
+      },
+    );
+  };
+}
+
 /** Collecte les titres h2 et h3 apres attribution des identifiants par rehype-slug. */
 function collectToc(toc: TocEntry[]) {
   return (tree: HastRoot) => {
@@ -130,7 +155,7 @@ function collectToc(toc: TocEntry[]) {
       if (!id) return;
       const text = plainText(node.children as unknown as RootContent[]).trim();
       if (text.length === 0) return;
-      toc.push({ id, text, level: node.tagName === "h2" ? 2 : 3 });
+      toc.push({ id, text: frenchSpacing(text), level: node.tagName === "h2" ? 2 : 3 });
     });
   };
 }
@@ -153,6 +178,7 @@ export async function renderMarkdown(markdown: string): Promise<RenderedMarkdown
     .use(rehypeSlug)
     .use(rehypeHighlight, { detect: false, ignoreMissing: true })
     .use(collectToc, toc)
+    .use(applyFrenchSpacing)
     .use(rehypeStringify, { allowDangerousHtml: true })
     .process(markdown);
 

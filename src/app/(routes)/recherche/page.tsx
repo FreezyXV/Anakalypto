@@ -5,6 +5,7 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { SearchBox } from "@/components/SearchBox";
 import { searchArticles } from "@/lib/search";
 import { pageMetadata } from "@/lib/seo";
+import { frenchSpacing } from "@/lib/typography";
 
 // Les resultats dependent de la requete: la page est rendue a la demande.
 export const dynamic = "force-dynamic";
@@ -84,11 +85,11 @@ export default async function SearchPage({ searchParams }: PageProps) {
                         href={`/${result.categoryPath}/${result.slug}`}
                         className="no-underline transition-colors duration-150 hover:text-accent"
                       >
-                        {result.title}
+                        {frenchSpacing(result.title)}
                       </Link>
                     </h3>
                     <p className="mt-1.5 max-w-measure text-[0.95rem] leading-relaxed text-ink-muted">
-                      {result.summary}
+                      {frenchSpacing(result.summary)}
                     </p>
                     <p className="label mt-2 flex flex-wrap items-center gap-x-3">
                       <Link

@@ -2,6 +2,8 @@
 
 import { useState } from "react";
 
+import { frenchSpacing } from "@/lib/typography";
+
 export type QuizQuestion = {
   question: string;
   options: string[];
@@ -91,7 +93,7 @@ function Question({
     <li>
       <fieldset>
         <legend className="max-w-reading leading-snug font-semibold">
-          {index + 1}. {question.question}
+          {index + 1}. {frenchSpacing(question.question)}
         </legend>
 
         <div className="mt-3 space-y-1.5">
@@ -120,7 +122,7 @@ function Question({
                   onChange={() => onChoose(rank)}
                   className="mt-0.5 shrink-0 accent-[var(--accent)]"
                 />
-                <span>{option}</span>
+                <span>{frenchSpacing(option)}</span>
                 {revealed && isAnswer && (
                   <span className="label ml-auto shrink-0">Bonne réponse</span>
                 )}
@@ -132,7 +134,7 @@ function Question({
         <div aria-live="polite" className="mt-2">
           {revealed && (
             <p className="max-w-reading border-l-2 border-rule-strong pl-3 text-[0.95rem] leading-relaxed text-ink-muted">
-              {question.explanation}
+              {frenchSpacing(question.explanation)}
             </p>
           )}
         </div>

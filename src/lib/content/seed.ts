@@ -5,6 +5,8 @@ import type { ValidationResult } from "./validate";
 
 export type EntityCounts = { created: number; updated: number; unchanged: number };
 
+export type RemovedCounts = { articles: number; categories: number; tags: number };
+
 export type SeedSummary = {
   categories: EntityCounts;
   articles: EntityCounts;
@@ -13,6 +15,7 @@ export type SeedSummary = {
   quiz: number;
   relations: number;
   revisions: number;
+  removed: RemovedCounts;
   searchVectorsRefreshed: number;
 };
 
@@ -52,6 +55,7 @@ export async function seedCorpus(
     quiz: 0,
     relations: 0,
     revisions: 0,
+    removed: { articles: 0, categories: 0, tags: 0 },
     searchVectorsRefreshed: 0,
   };
 
@@ -251,7 +255,37 @@ export async function seedCorpus(
     summary.relations += desired.length;
   }
 
-  // 5. Filet de securite: le trigger PostgreSQL maintient searchVector a chaque ecriture,
+  // 5. Nettoyage. Le corpus est la source de verite: une entite retiree des fichiers doit
+  // disparaitre de la base, sinon la page correspondante reste servie alors qu'aucun fichier
+  // ne la decrit plus.
+  const keptArticleSlugs = corpus.articles.map((article) => article.slug);
+  if (keptArticleSlugs.length > 0) {
+    const removedArticles = await prisma.article.deleteMany({
+      where: { slug: { notIn: keptArticleSlugs } },
+    });
+    summary.removed.articles = removedArticles.count;
+  }
+
+  // Une categorie n'est supprimee que si elle est vide: la suppression en cascade emporterait
+  // sinon des articles toujours presents dans le corpus. Les branches se vident donc de bas en
+  // haut, sur plusieurs imports si necessaire.
+  const keptCategorySlugs = corpus.categories.map((category) => category.slug);
+  if (keptCategorySlugs.length > 0) {
+    const removedCategories = await prisma.category.deleteMany({
+      where: {
+        slug: { notIn: keptCategorySlugs },
+        articles: { none: {} },
+        children: { none: {} },
+      },
+    });
+    summary.removed.categories = removedCategories.count;
+  }
+
+  // Une etiquette n'existe que par ses articles.
+  const removedTags = await prisma.tag.deleteMany({ where: { articles: { none: {} } } });
+  summary.removed.tags = removedTags.count;
+
+  // 6. Filet de securite: le trigger PostgreSQL maintient searchVector a chaque ecriture,
   // mais une ligne importee avant la migration de recherche resterait sans vecteur.
   summary.searchVectorsRefreshed = await prisma.$executeRawUnsafe(
     `UPDATE "Article"
@@ -399,6 +433,8 @@ export function formatSummary(summary: SeedSummary): string {
     `  questions    ${summary.quiz}`,
     `  liens        ${summary.relations}`,
     `  revisions    ${summary.revisions}`,
+    `  supprimes    ${summary.removed.articles} article(s), ` +
+      `${summary.removed.categories} categorie(s), ${summary.removed.tags} etiquette(s)`,
     `  vecteurs recalcules ${summary.searchVectorsRefreshed}`,
   ].join("\n");
 }

@@ -206,6 +206,35 @@ describe("seedCorpus", () => {
     });
     expect(article?.category.slug).toBe("sciences");
   });
+
+  it("retire de la base ce qui a disparu du corpus", async () => {
+    await run(corpus());
+
+    // Corpus reduit: l'article "ondes-gravitationnelles" et la sous-categorie "physique"
+    // n'y figurent plus, et l'article restant remonte a la racine.
+    const reduced = corpus({
+      categoryPath: "sciences",
+      relatedArticles: [],
+      tags: ["physique"],
+    }).filter((block) => {
+      const slug = block.data["slug"];
+      return slug !== "ondes-gravitationnelles" && slug !== "physique";
+    });
+
+    const summary = await run(reduced);
+
+    expect(summary.removed).toMatchObject({ articles: 1, categories: 1, tags: 1 });
+    expect(
+      await prisma.article.findUnique({ where: { slug: "ondes-gravitationnelles" } }),
+    ).toBeNull();
+    expect(await prisma.category.findUnique({ where: { slug: "physique" } })).toBeNull();
+    // L'etiquette "gravitation" n'etait portee que par un article supprime.
+    expect(await prisma.tag.findUnique({ where: { slug: "gravitation" } })).toBeNull();
+    // L'article conserve, lui, est intact.
+    expect(
+      await prisma.article.findUnique({ where: { slug: "relativite-generale" } }),
+    ).not.toBeNull();
+  });
 });
 
 describe("corpus livre dans content/", () => {

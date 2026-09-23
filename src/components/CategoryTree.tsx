@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useRef } from "react";
 
 import type { CategoryNode } from "@/lib/queries";
+import { frenchSpacing } from "@/lib/typography";
 
 /**
  * Arborescence depliable des categories.
@@ -59,7 +60,7 @@ function Branch({ node, defaultOpen }: { node: CategoryNode; defaultOpen: boolea
           href={`/${node.path}`}
           className="text-[0.95rem] no-underline transition-colors duration-150 hover:text-accent"
         >
-          {node.name}
+          {frenchSpacing(node.name)}
         </Link>
         {node.articleCount > 0 && <span className="label ml-auto shrink-0">{count}</span>}
       </div>
@@ -71,7 +72,7 @@ function Branch({ node, defaultOpen }: { node: CategoryNode; defaultOpen: boolea
       <summary className="tree-summary">
         <span className="tree-marker" aria-hidden="true" />
         <span className={node.level === 0 ? "font-sans text-sm font-semibold" : "text-[0.95rem]"}>
-          {node.name}
+          {frenchSpacing(node.name)}
         </span>
         <span className="label ml-auto shrink-0">{count}</span>
       </summary>
@@ -82,7 +83,7 @@ function Branch({ node, defaultOpen }: { node: CategoryNode; defaultOpen: boolea
             href={`/${node.path}`}
             className="label no-underline transition-colors duration-150 hover:text-ink"
           >
-            Voir la page {node.name}
+            Voir la page {frenchSpacing(node.name)}
           </Link>
         </p>
         <ul>

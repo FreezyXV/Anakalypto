@@ -5,6 +5,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { SearchBox } from "@/components/SearchBox";
 import { getRecentArticles, getRootCategories, getSiteStats } from "@/lib/queries";
 import { websiteJsonLd } from "@/lib/seo";
+import { frenchSpacing } from "@/lib/typography";
 
 // Les articles changent au rythme des imports de corpus: une revalidation horaire suffit.
 export const revalidate = 3600;
@@ -69,7 +70,7 @@ export default async function HomePage() {
                 className="group block no-underline transition-colors duration-150"
               >
                 <span className="text-[1.05rem] leading-snug font-semibold group-hover:text-accent">
-                  {category.name}
+                  {frenchSpacing(category.name)}
                 </span>
                 <span className="label mt-0.5 block">
                   {category.articleCount} article{category.articleCount > 1 ? "s" : ""}

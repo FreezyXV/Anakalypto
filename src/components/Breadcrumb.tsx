@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { frenchSpacing } from "@/lib/typography";
 
 export type Crumb = { name: string; path: string };
 
@@ -23,14 +24,14 @@ export function Breadcrumb({ items }: { items: readonly Crumb[] }) {
               )}
               {last ? (
                 <span aria-current="page" className="text-ink">
-                  {item.name}
+                  {frenchSpacing(item.name)}
                 </span>
               ) : (
                 <Link
                   href={item.path}
                   className="no-underline transition-colors duration-150 hover:text-ink"
                 >
-                  {item.name}
+                  {frenchSpacing(item.name)}
                 </Link>
               )}
             </li>

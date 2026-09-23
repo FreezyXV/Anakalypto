@@ -240,7 +240,7 @@ Le problème n'est donc pas son existence, mais son renforcement rapide.
 ## Les principaux gaz
 
 La vapeur d'eau est le plus abondant, mais sa quantité dépend de la température : elle amplifie
-les变化 plutôt qu'elle ne les déclenche.
+les variations plutôt qu'elle ne les déclenche.
 
 Le dioxyde de carbone est le principal gaz que nous ajoutons. Il provient surtout de la combustion
 des énergies fossiles et de la déforestation. Une partie reste dans l'atmosphère pendant des
