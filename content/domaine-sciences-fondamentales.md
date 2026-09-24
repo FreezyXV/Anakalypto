@@ -2833,3 +2833,1227 @@ les régimes de pluie et sur la vie marine. C'est l'un des points de basculement
 et texte alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: La gravitation universelle
+slug: gravitation-universelle
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  La même force fait tomber une pomme et tourner la Lune : l'intuition géniale de Newton.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La relativité restreinte
+slug: relativite-restreinte
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Le temps ralentit quand on va vite : ce qu'Einstein a changé en 1905.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La relativité générale
+slug: relativite-generale
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  La gravité n'est pas une force mais une courbure de l'espace-temps, et le GPS en tient compte.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le pendule et la mesure du temps
+slug: pendule-mesure-temps
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Galilée, Huygens et l'horloge à balancier : le mouvement régulier qui a permis de mesurer le temps.
+tags: [mecanique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La lumière est une onde électromagnétique
+slug: lumiere-onde-electromagnetique
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Maxwell unifie lumière, électricité et magnétisme en quatre équations.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Tension, courant et résistance
+slug: tension-courant-resistance
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  La loi d'Ohm et les notions de base pour comprendre n'importe quel circuit électrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le spectre électromagnétique
+slug: spectre-electromagnetique
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Des ondes radio aux rayons gamma : une seule famille, des usages très différents.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les lentilles et l'optique
+slug: lentilles-optique
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Réfraction, loupes, lunettes, microscopes : comment le verre courbe la lumière.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'effet photoélectrique
+slug: effet-photoelectrique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  La lumière arrache des électrons au métal par paquets : l'expérience qui a lancé la physique quantique.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le principe d'incertitude
+slug: principe-incertitude
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  On ne peut pas connaître à la fois la position et la vitesse d'une particule avec précision.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'intrication quantique
+slug: intrication-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Deux particules liées à distance : le phénomène qu'Einstein trouvait effrayant.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le laser
+slug: laser
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une lumière d'une seule couleur, cohérente et intense : une application directe de la physique quantique.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'entropie
+slug: entropie
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Pourquoi le désordre augmente toujours, et pourquoi on ne peut pas revenir en arrière.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le moteur thermique et le cycle de Carnot
+slug: moteur-thermique-cycle-carnot
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  La limite théorique du rendement de tout moteur qui transforme la chaleur en travail.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le zéro absolu
+slug: zero-absolu
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  −273,15 °C : la température la plus basse possible et ce qui se passe près de ce seuil.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Conduction, convection, rayonnement
+slug: conduction-convection-rayonnement
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Les trois façons dont la chaleur se transmet, à connaître pour chauffer, isoler ou cuisiner.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les hydrocarbures et leurs familles
+slug: hydrocarbures-leurs-familles
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Alcanes, alcènes, aromatiques : la base de la chimie du pétrole et des plastiques.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les sucres, les graisses et les protéines
+slug: sucres-graisses-proteines
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  La chimie des trois grandes familles de molécules que nous mangeons.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La distillation
+slug: distillation
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Séparer des liquides par leur point d'ébullition : de l'alcool aux huiles essentielles et au carburant.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La chiralité
+slug: chiralite
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des molécules en miroir aux effets opposés : l'affaire de la thalidomide.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les acides et les bases
+slug: acides-bases
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Le pH, la neutralisation et les acides et bases de la vie quotidienne.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les métaux et leur réactivité
+slug: metaux-leur-reactivite
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Pourquoi l'or ne rouille pas et le sodium explose dans l'eau.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'eau, une molécule exceptionnelle
+slug: eau-molecule-exceptionnelle
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Pourquoi la glace flotte et pourquoi l'eau dissout tant de substances.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'oxydation et la réduction
+slug: oxydation-reduction
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Rouille, combustion, piles : la même réaction d'échange d'électrons derrière de nombreux phénomènes.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La catalyse
+slug: catalyse
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Accélérer une réaction sans être consommé : le secret de 90 % des procédés industriels.
+tags: [chimie-physique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les états de la matière
+slug: etats-matiere
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Solide, liquide, gaz, plasma : ce qui change à l'échelle des molécules.
+tags: [chimie-physique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La combustion
+slug: combustion
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Combustible, comburant, chaleur : comprendre le feu pour s'en servir et s'en protéger.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La cinétique chimique
+slug: cinetique-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Pourquoi certaines réactions sont instantanées et d'autres prennent des années.
+tags: [chimie-physique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La numération de position et le zéro
+slug: numeration-position-zero
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une invention indienne qui a rendu le calcul accessible à tous.
+tags: [algebre, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les équations du second degré
+slug: equations-second-degre
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une méthode connue depuis Babylone pour résoudre un problème classique.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les nombres premiers
+slug: nombres-premiers
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des nombres indivisibles au cœur de la cryptographie moderne.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les nombres complexes
+slug: nombres-complexes
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des nombres « imaginaires » devenus indispensables en physique et en ingénierie.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les dérivées, mesurer le changement
+slug: derivees-mesurer-changement
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  La vitesse instantanée et la pente d'une courbe : l'idée centrale du calcul différentiel.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les intégrales, additionner l'infiniment petit
+slug: integrales-additionner-infiniment-petit
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Calculer une aire, un volume ou une distance parcourue.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La croissance exponentielle
+slug: croissance-exponentielle
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Pourquoi notre intuition sous-estime les phénomènes qui doublent régulièrement.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Newton, Leibniz et l'invention du calcul
+slug: newton-leibniz-invention-calcul
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Deux inventeurs, une querelle de priorité et une révolution mathématique.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La moyenne et la médiane
+slug: moyenne-mediane
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Deux façons de résumer des données, qui peuvent raconter des histoires très différentes.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La loi normale
+slug: loi-normale
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  La courbe en cloche et pourquoi elle apparaît partout dans la nature.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les sondages
+slug: sondages
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment un échantillon de mille personnes peut représenter un pays, et la marge d'erreur.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le théorème de Bayes
+slug: theoreme-bayes
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Mettre à jour une croyance à la lumière d'une nouvelle information.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le théorème de Pythagore
+slug: theoreme-pythagore
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Le résultat le plus célèbre de la géométrie et ses usages, du chantier au GPS.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Arpenter et mesurer un terrain
+slug: arpenter-mesurer-terrain
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Triangulation, angles droits au cordeau, calcul de surfaces : la géométrie des bâtisseurs et des géomètres.
+tags: [geometrie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le nombre pi
+slug: nombre-pi
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Le rapport entre la circonférence et le diamètre d'un cercle, et la quête de ses décimales.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La trigonométrie
+slug: trigonometrie
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Sinus et cosinus : mesurer des distances inaccessibles, comme la hauteur d'une montagne.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Darwin et le voyage du Beagle
+slug: darwin-voyage-beagle
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Le voyage de cinq ans qui a mené à la théorie de l'évolution.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'origine de l'être humain
+slug: origine-etre-humain
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  De l'Afrique au reste du monde : les grandes étapes de l'évolution humaine.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les fossiles
+slug: fossiles
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment un organisme devient pierre, et comment on date les fossiles.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sélection artificielle
+slug: selection-artificielle
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Du loup au chien, de la moutarde sauvage au chou : l'évolution guidée par l'humain.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Mendel et les petits pois
+slug: mendel-petits-pois
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Les lois de l'hérédité découvertes par un moine en croisant des plantes.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Gènes dominants et récessifs
+slug: genes-dominants-recessifs
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Pourquoi un caractère peut sauter une génération.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les mutations
+slug: mutations
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Des erreurs de copie de l'ADN, source des maladies génétiques mais aussi de l'évolution.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'épigénétique
+slug: epigenetique
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment l'environnement modifie l'expression des gènes sans changer l'ADN.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La mitose et la méiose
+slug: mitose-meiose
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Deux façons pour une cellule de se diviser, pour grandir ou pour se reproduire.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La mitochondrie
+slug: mitochondrie
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  La centrale énergétique de la cellule, héritée d'une ancienne bactérie.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La photosynthèse
+slug: photosynthese
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment les plantes transforment la lumière, l'eau et le CO2 en sucre et en oxygène.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les cellules souches
+slug: cellules-souches
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Des cellules capables de devenir n'importe quel type de cellule, et leur potentiel médical.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cycle de l'azote
+slug: cycle-azote
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment l'azote de l'air devient protéine, et comment l'agriculture a bouleversé ce cycle.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La niche écologique
+slug: niche-ecologique
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Le rôle et la place d'une espèce dans son écosystème.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La symbiose
+slug: symbiose
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Lichens, mycorhizes, poissons nettoyeurs : quand deux espèces vivent en association.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les successions écologiques
+slug: successions-ecologiques
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment la vie recolonise un terrain nu, jusqu'à la forêt.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les trois familles de roches
+slug: trois-familles-roches
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Magmatiques, sédimentaires, métamorphiques : lire l'histoire de la Terre dans les roches.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Trouver des minerais
+slug: trouver-minerais
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment se forment les gisements et comment les prospecteurs les repèrent.
+tags: [geologie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'âge de la Terre
+slug: age-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  4,54 milliards d'années : comment on l'a mesuré grâce à la radioactivité.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Trouver l'eau souterraine
+slug: trouver-eau-souterraine
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Lire le relief et les roches pour savoir où creuser un puits.
+tags: [geologie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les vagues et la houle
+slug: vagues-houle
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment le vent crée les vagues, pourquoi elles déferlent, et les vagues scélérates.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grands fonds marins
+slug: grands-fonds-marins
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  L'environnement le plus mal connu de la planète : fosses, sources hydrothermales, vie extrême.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: El Niño et La Niña
+slug: el-nino-nina
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une oscillation du Pacifique qui perturbe le climat mondial tous les quelques années.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sel de la mer
+slug: sel-mer
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Pourquoi la mer est salée et comment on en extrait le sel.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les tsunamis
+slug: tsunamis
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment un séisme sous-marin génère une vague capable de traverser un océan.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'échelle de Richter et la magnitude
+slug: echelle-richter-magnitude
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Mesurer l'énergie d'un séisme, et pourquoi un degré de plus change tout.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pompéi et le Vésuve
+slug: pompei-vesuve
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  L'éruption de 79 et ce que la ville ensevelie nous apprend.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Prévoir les éruptions et les séismes
+slug: prevoir-eruptions-seismes
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Ce que l'on sait anticiper, et ce qui reste impossible.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

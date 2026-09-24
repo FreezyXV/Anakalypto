@@ -1180,3 +1180,1023 @@ est la seule dégradation véritablement irréversible.
 alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: La radiographie
+slug: radiographie
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Depuis la découverte des rayons X en 1895 : voir les os, et les précautions liées aux radiations.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IRM
+slug: irm
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des aimants puissants et les atomes d'hydrogène du corps : comment on obtient des images sans rayons X.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'échographie
+slug: echographie
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des ultrasons et leur écho : l'imagerie sans danger qui suit les grossesses.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le scanner
+slug: scanner
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des centaines de radiographies assemblées par ordinateur pour voir le corps en coupes.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le PET-scan et la médecine nucléaire
+slug: pet-scan-medecine-nucleaire
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Suivre un traceur radioactif pour voir le fonctionnement d'un organe, pas seulement sa forme.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'intelligence artificielle en radiologie
+slug: intelligence-artificielle-radiologie
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Détecter une tumeur sur une image : ce que les algorithmes font bien et leurs limites.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Examiner un patient sans machine
+slug: examiner-patient-sans-machine
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Palpation, auscultation, prise du pouls : l'examen clinique qui reste la base du diagnostic.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La découverte de la pénicilline
+slug: decouverte-penicilline
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une moisissure sur une boîte de Petri en 1928, et le long chemin jusqu'au médicament de masse.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: De l'écorce de saule à l'aspirine
+slug: ecorce-saule-aspirine
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment un remède traditionnel est devenu le médicament le plus consommé au monde.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le parcours d'un médicament dans le corps
+slug: parcours-medicament-corps
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Absorption, distribution, transformation, élimination : ce que devient une pilule avalée.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les essais cliniques
+slug: essais-cliniques
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Les phases I, II et III, et pourquoi il faut en moyenne dix ans pour mettre un médicament sur le marché.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les médicaments génériques
+slug: medicaments-generiques
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Même molécule, prix plus bas : ce que garantit un générique.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les effets indésirables et la pharmacovigilance
+slug: effets-indesirables-pharmacovigilance
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment on détecte les effets rares d'un médicament une fois commercialisé.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les anesthésiques
+slug: anesthesiques
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  De l'éther en 1846 aux anesthésies modernes : la découverte qui a rendu la chirurgie supportable.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les plantes médicinales, ce qui est prouvé
+slug: plantes-medicinales-prouve
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Quelques plantes ont une efficacité démontrée, beaucoup d'autres non : faire le tri.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'effet placebo
+slug: effet-placebo
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Pourquoi un comprimé sans principe actif peut soulager, et ce que cela implique pour les essais.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'essai randomisé en double aveugle
+slug: essai-randomise-double-aveugle
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  La méthode qui permet de savoir si un traitement marche vraiment.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les méta-analyses
+slug: meta-analyses
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Combiner les résultats de nombreuses études pour obtenir une réponse plus fiable.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Semmelweis et le lavage des mains
+slug: semmelweis-lavage-mains
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un médecin ignoré qui avait compris, en 1847, que se laver les mains sauvait des vies.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Corrélation n'est pas causalité
+slug: correlation-n-causalite
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Pourquoi deux choses qui évoluent ensemble ne sont pas forcément liées par une cause.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les conflits d'intérêts en médecine
+slug: conflits-interets-medecine
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Quand le financement d'une étude influence ses conclusions, et comment s'en protéger.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Lire une étude médicale
+slug: lire-etude-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Taille de l'échantillon, groupe contrôle, risque relatif ou absolu : les questions à se poser.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: James Lind et le scorbut
+slug: james-lind-scorbut
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  En 1747, le premier essai contrôlé de l'histoire montre que les agrumes guérissent le scorbut.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les OGM
+slug: ogm
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Définition, exemples cultivés dans le monde, et état des connaissances sur les risques.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'insuline produite par des bactéries
+slug: insuline-produite-bacteries
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  En 1982, le premier médicament issu du génie génétique a remplacé l'insuline animale.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La thérapie génique
+slug: therapie-genique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Corriger une maladie en apportant un gène fonctionnel : les premiers succès et les échecs.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le séquençage de l'ADN
+slug: sequencage-adn
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Du projet Génome humain, qui a coûté des milliards, au séquençage à quelques centaines d'euros.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les tests ADN généalogiques
+slug: tests-adn-genealogiques
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Ce qu'ils peuvent révéler sur les origines, leurs limites et les enjeux de vie privée.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'édition génétique d'embryons
+slug: edition-genetique-embryons
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  L'affaire des bébés CRISPR en Chine et les limites éthiques de la modification héréditaire.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les animaux génétiquement modifiés
+slug: animaux-genetiquement-modifies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Saumon à croissance rapide, moustiques stériles : applications et débats.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Faire produire des médicaments par des levures
+slug: faire-produire-medicaments-levures
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Reprogrammer des micro-organismes pour fabriquer des molécules complexes, comme l'artémisinine.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La viande cultivée
+slug: viande-cultivee-biotechnologie
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Produire de la viande à partir de cellules sans élever d'animaux : techniques, coûts et réglementation.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les biocarburants avancés
+slug: biocarburants-avances
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Fabriquer du carburant avec des algues ou des déchets plutôt qu'avec des cultures alimentaires.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Créer une cellule synthétique
+slug: creer-cellule-synthetique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  En 2010, une bactérie fonctionnant avec un génome entièrement synthétisé en laboratoire.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les risques de la biologie de synthèse
+slug: risques-biologie-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Biosécurité, dissémination, double usage : les garde-fous d'une discipline puissante.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fermentation, une biotechnologie ancienne
+slug: fermentation-biotechnologie-ancienne
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Pain, bière, fromage, vinaigre : les micro-organismes au service de l'humanité depuis des millénaires.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les enzymes industrielles
+slug: enzymes-industrielles
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des lessives aux jus de fruits : les protéines qui accélèrent les procédés industriels.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La domestication du blé
+slug: domestication-ble
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Il y a 10 000 ans, des épis qui ne se dispersent plus : la naissance de l'agriculture.
+tags: [selection-vegetale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La révolution verte
+slug: revolution-verte
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Variétés à haut rendement, engrais, irrigation : comment la production a triplé, et à quel prix.
+tags: [selection-vegetale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Produire et conserver ses semences
+slug: produire-conserver-semences
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Choisir les meilleurs plants, récolter, sécher et stocker les graines d'une saison à l'autre.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les variétés hybrides
+slug: varietes-hybrides
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Pourquoi les semences hybrides donnent de beaux rendements mais doivent être rachetées chaque année.
+tags: [selection-vegetale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le greffage
+slug: greffage
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Unir deux plantes pour combiner leurs qualités : la technique qui multiplie les arbres fruitiers.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le riz doré
+slug: riz-dore
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un riz enrichi en vitamine A pour lutter contre les carences : vingt ans de controverses.
+tags: [selection-vegetale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les plantes les plus nourrissantes
+slug: plantes-nourrissantes
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Pomme de terre, céréales, légumineuses : quelles cultures produisent le plus de calories et de protéines par hectare.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'agroécologie
+slug: agroecologie
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Utiliser les interactions naturelles plutôt que les intrants chimiques pour produire.
+tags: [agriculture-durable]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La rotation des cultures
+slug: rotation-cultures
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Alterner les cultures pour préserver le sol et limiter maladies et ravageurs : un principe vieux de plusieurs siècles.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les légumineuses et l'azote
+slug: legumineuses-azote
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Pois, haricots, trèfle captent l'azote de l'air et fertilisent le sol gratuitement.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'agriculture biologique
+slug: agriculture-biologique-agronomie
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Ce que garantit le label, ses rendements, et ce que disent les études comparatives.
+tags: [agriculture-durable]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'agroforesterie
+slug: agroforesterie
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Associer arbres et cultures sur une même parcelle pour produire plus et protéger les sols.
+tags: [agriculture-durable]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La lutte biologique contre les ravageurs
+slug: lutte-biologique-contre-ravageurs
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Coccinelles, oiseaux, plantes répulsives : protéger les cultures sans pesticides.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'irrigation économe en eau
+slug: irrigation-econome-eau
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Goutte-à-goutte, paillage, choix des cultures : produire avec moins d'eau.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'élevage et la traction animale
+slug: elevage-traction-animale
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Animaux de trait, fumier, lait : le rôle de l'élevage dans une ferme autonome.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Conserver les récoltes
+slug: conserver-recoltes
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Séchage, salaison, fumage, fermentation, conserves : éviter les pertes après la récolte.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'humus et la matière organique
+slug: humus-matiere-organique
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  La fraction sombre du sol qui retient l'eau, nourrit les plantes et stocke du carbone.
+tags: [sols-et-fertilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'érosion des sols
+slug: erosion-sols
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Le Dust Bowl américain des années 1930 et la perte des terres agricoles dans le monde.
+tags: [sols-et-fertilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Fertiliser sans engrais industriels
+slug: fertiliser-sans-engrais-industriels
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Fumier, compost, cendres, engrais verts : entretenir la fertilité d'un sol avec des ressources locales.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'azote, le phosphore et le potassium
+slug: azote-phosphore-potassium
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Les trois éléments dont les plantes ont le plus besoin et ce qui se passe quand ils manquent.
+tags: [sols-et-fertilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le phosphore, une ressource limitée
+slug: phosphore-ressource-limitee
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Les engrais phosphatés viennent de quelques mines dans le monde, surtout au Maroc.
+tags: [sols-et-fertilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Reconnaître un sol
+slug: reconnaitre-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Texture, couleur, test du bocal : diagnostiquer un sol sans laboratoire.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les vers de terre
+slug: vers-terre
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Ils labourent, aèrent et fertilisent le sol : Darwin leur a consacré son dernier livre.
+tags: [sols-et-fertilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

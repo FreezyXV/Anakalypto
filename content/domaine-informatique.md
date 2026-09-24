@@ -1506,3 +1506,1125 @@ de panne réseau.
 alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Le transistor
+slug: transistor
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  L'interrupteur électronique inventé en 1947, brique de base de toute l'informatique.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La loi de Moore
+slug: loi-moore
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Le nombre de transistors double environ tous les deux ans : une prédiction qui a tenu cinquante ans.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les cartes graphiques
+slug: cartes-graphiques
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des milliers de petits cœurs en parallèle, devenus indispensables à l'intelligence artificielle.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment on fabrique une puce
+slug: fabrique-puce
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Photolithographie, salles blanches, machines ASML : l'industrie la plus complexe du monde.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: TSMC et la géopolitique des puces
+slug: tsmc-geopolitique-puces
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Pourquoi une entreprise taïwanaise est devenue un enjeu stratégique mondial.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Architecture x86 et ARM
+slug: architecture-x86-arm
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Deux familles de processeurs, et pourquoi ARM gagne du terrain dans les ordinateurs.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le disque dur
+slug: disque-dur
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des plateaux magnétiques qui tournent à 7 200 tours par minute : une mécanique de précision.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La mémoire flash et les SSD
+slug: memoire-flash-ssd
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Stocker sans pièce mobile : fonctionnement et usure de la mémoire flash.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cloud
+slug: cloud
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Où sont vraiment stockées nos données, et ce que signifie les confier à un tiers.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Conserver les données sur le long terme
+slug: conserver-donnees-long-terme
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Disques, bandes, papier : combien de temps durent les supports, et comment éviter de perdre la mémoire numérique.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les centres de données
+slug: centres-donnees
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des bâtiments géants de serveurs : électricité, refroidissement et localisation.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sauvegarde, la règle du 3-2-1
+slug: sauvegarde-regle-3-2-1
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Trois copies, deux supports, une hors site : la méthode simple pour ne rien perdre.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le clavier AZERTY et QWERTY
+slug: clavier-azerty-qwerty
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Pourquoi nos claviers ne sont pas rangés dans l'ordre alphabétique.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'écran tactile
+slug: ecran-tactile
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Capacitif ou résistif : comment l'écran détecte le doigt.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'imprimante
+slug: imprimante
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Jet d'encre et laser : deux techniques pour mettre des pixels sur du papier.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La souris et l'interface graphique
+slug: souris-interface-graphique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des laboratoires Xerox au Macintosh : l'invention de l'interface que nous utilisons tous.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le port USB
+slug: port-usb
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment un connecteur universel a remplacé des dizaines de prises différentes.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'encre électronique
+slug: encre-electronique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  L'écran des liseuses, qui ne consomme de l'énergie que pour changer d'image.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Linux et le logiciel libre
+slug: linux-logiciel-libre
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un système créé par un étudiant en 1991, qui fait tourner la plupart des serveurs du monde.
+tags: [systemes-d-exploitation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Windows, macOS, Linux
+slug: windows-macos-linux
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Trois philosophies de système d'exploitation pour ordinateurs personnels.
+tags: [systemes-d-exploitation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Android et iOS
+slug: android-ios
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Les deux systèmes qui se partagent la quasi-totalité des smartphones.
+tags: [systemes-d-exploitation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les mises à jour, pourquoi elles comptent
+slug: mises-jour-elles-comptent
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Corriger les failles de sécurité est la première raison de mettre à jour.
+tags: [systemes-d-exploitation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La virtualisation
+slug: virtualisation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Faire tourner plusieurs ordinateurs virtuels sur une seule machine.
+tags: [systemes-d-exploitation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Remettre en marche un vieil ordinateur
+slug: remettre-marche-vieil-ordinateur
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Systèmes légers, pièces de rechange, réparation : prolonger la vie du matériel informatique.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le premier programme de l'histoire
+slug: premier-programme-histoire
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Ada Lovelace et la machine analytique de Babbage, en 1843.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Apprendre à programmer
+slug: apprendre-programmer
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Par où commencer, quels langages, et ce que la programmation apprend à penser.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le bug
+slug: bug
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des papillons dans les relais aux erreurs célèbres comme Ariane 5 en 1996.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les logiciels libres et open source
+slug: logiciels-libres-open-source
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Partager le code source : histoire, licences et modèle économique.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Web, HTML et JavaScript
+slug: web-html-javascript
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Les langages qui construisent les pages que nous consultons chaque jour.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La programmation assistée par l'IA
+slug: programmation-assistee-ia
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Ce que les assistants de code changent au métier de développeur.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les algorithmes de tri
+slug: algorithmes-tri
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Trier des millions de données rapidement : les méthodes classiques et leur efficacité.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'algorithme de recherche de Google
+slug: algorithme-recherche-google
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  PageRank : classer les pages web selon les liens qui pointent vers elles.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le GPS et le calcul d'itinéraire
+slug: gps-calcul-itineraire
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  L'algorithme de Dijkstra et ses successeurs pour trouver le chemin le plus court.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les algorithmes de recommandation
+slug: algorithmes-recommandation
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment les plateformes décident de ce qu'elles vous montrent.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La machine de Turing
+slug: machine-turing
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Le modèle théorique qui définit ce qu'un ordinateur peut calculer.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: P contre NP
+slug: p-contre-np
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Le plus grand problème ouvert de l'informatique, doté d'un prix d'un million de dollars.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Web et Tim Berners-Lee
+slug: web-tim-berners-lee
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  L'invention au CERN en 1989 qui a rendu internet accessible à tous.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les câbles sous-marins
+slug: cables-sous-marins
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Plus de 95 % des données intercontinentales passent par des câbles au fond des océans.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le DNS, l'annuaire d'internet
+slug: dns-annuaire-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment une adresse comme wikipedia.org devient une adresse IP.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La neutralité du net
+slug: neutralite-net
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Le principe selon lequel tous les contenus doivent circuler de la même façon.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Wi-Fi et la 5G
+slug: wi-fi-5g
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Deux technologies sans fil, deux usages : comment elles transmettent les données.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les réseaux locaux sans internet
+slug: reseaux-locaux-sans-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Relier des ordinateurs entre eux sans fournisseur d'accès : réseaux maillés et communication de secours.
+tags: [internet, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le phishing
+slug: phishing
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Les faux messages qui cherchent à voler vos identifiants, et comment les reconnaître.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les rançongiciels
+slug: rancongiciels
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des logiciels qui chiffrent les données et exigent une rançon : hôpitaux et entreprises visés.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les mots de passe et l'authentification à deux facteurs
+slug: mots-passe-authentification-deux-facteurs
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Pourquoi un mot de passe ne suffit plus.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les failles zero-day
+slug: failles-zero-day
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des vulnérabilités inconnues des éditeurs, vendues à prix d'or.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Protéger sa vie privée en ligne
+slug: proteger-vie-privee-ligne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Traçage, cookies, données personnelles : les gestes utiles.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les hackers éthiques
+slug: hackers-ethiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Les chercheurs payés pour trouver les failles avant les criminels.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le chiffre de César et la cryptographie antique
+slug: chiffre-cesar-cryptographie-antique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Les premières méthodes pour cacher un message.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Enigma et Alan Turing
+slug: enigma-alan-turing
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Casser le code allemand : un tournant de la Seconde Guerre mondiale.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La cryptographie à clé publique
+slug: cryptographie-cle-publique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Le système qui permet de sécuriser les échanges avec un inconnu.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le HTTPS et le cadenas du navigateur
+slug: https-cadenas-navigateur
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Ce que garantit la connexion sécurisée, et ce qu'elle ne garantit pas.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La blockchain
+slug: blockchain
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un registre partagé et infalsifiable : fonctionnement, usages et limites.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'ordinateur quantique et la cryptographie
+slug: ordinateur-quantique-cryptographie
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Pourquoi il pourrait casser les chiffrements actuels, et la cryptographie post-quantique.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le binaire
+slug: binaire
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Pourquoi les ordinateurs comptent avec des 0 et des 1.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le codage des caractères, de l'ASCII à l'Unicode
+slug: codage-caracteres-ascii-unicode
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment un ordinateur représente toutes les écritures du monde.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le format MP3
+slug: format-mp3
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Compresser le son en supprimant ce que l'oreille n'entend pas.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La vidéo en streaming
+slug: video-streaming
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment une vidéo HD tient dans une connexion internet ordinaire.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les couleurs à l'écran
+slug: couleurs-ecran
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Rouge, vert, bleu : comment trois couleurs en créent des millions.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les formats ouverts
+slug: formats-ouverts
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Pourquoi les formats ouverts garantissent qu'un fichier restera lisible dans des décennies.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le langage SQL
+slug: langage-sql
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Le langage qui interroge la plupart des bases de données depuis les années 1970.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les bases NoSQL
+slug: bases-nosql
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Des bases conçues pour les très gros volumes et les données peu structurées.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le big data
+slug: big-data
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Ce que change l'analyse de volumes massifs de données.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le RGPD
+slug: rgpd
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Le règlement européen qui encadre l'utilisation des données personnelles.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Wikipédia et les données ouvertes
+slug: wikipedia-donnees-ouvertes
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une encyclopédie collaborative et une base de données de connaissances libre.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les moteurs de recherche internes
+slug: moteurs-recherche-internes
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment on retrouve instantanément un document parmi des millions.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

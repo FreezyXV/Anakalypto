@@ -2175,3 +2175,2845 @@ rentabilité dépend des volumes, encore faibles, et du cours des métaux.
 alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Comment fonctionne une boîte de vitesses
+slug: fonctionnement-boite-de-vitesses
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Le moteur tourne dans une plage de régime limitée. La boîte de vitesses lui permet de démarrer,
+  accélérer et rouler vite sans sortir de cette zone.
+tags: [automobile, transmission, boite-de-vitesses, mecanique, rendement]
+relatedArticles: [fonctionnement-moteur-combustion-interne, motorisations-hybrides-architectures]
+sources:
+  - title: "Transmission"
+    url: "https://www.britannica.com/technology/transmission-engineering"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "À quoi sert principalement une boîte de vitesses ?"
+    options:
+      - "À refroidir le moteur"
+      - "À adapter le régime et le couple du moteur à la vitesse des roues"
+      - "À produire de l'électricité"
+    answer: 2
+    explanation: >
+      Les rapports courts favorisent le couple au démarrage et les rapports longs réduisent le
+      régime à vitesse stabilisée.
+  - question: "Pourquoi une voiture électrique a-t-elle souvent une seule vitesse ?"
+    options:
+      - "Parce que son moteur est trop lourd pour plusieurs rapports"
+      - "Parce que son moteur électrique fournit un couple élevé sur une large plage de régime"
+      - "Parce que la réglementation l'impose"
+    answer: 2
+    explanation: >
+      Un moteur électrique n'a pas besoin d'une plage de régime aussi étroite qu'un moteur
+      thermique, ce qui rend un seul rapport suffisant dans la plupart des cas.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Un moteur thermique ne peut pas fournir son meilleur travail à tous les régimes. La boîte de
+vitesses sert d'intermédiaire entre lui et les roues.
+
+## Les rapports
+
+Un rapport court multiplie le couple aux roues, au prix d'un régime moteur élevé. Il sert à
+ démarrer ou à monter une pente. Un rapport long fait tourner le moteur plus lentement et limite
+la consommation sur route.
+
+## Les différentes boîtes
+
+La boîte manuelle laisse le conducteur choisir les rapports avec un embrayage. L'automatique les
+sélectionne seule grâce à un convertisseur, des trains épicycloïdaux ou deux embrayages. Les
+voitures électriques ont souvent un seul rapport, car leur moteur fournit un couple élevé sur une
+large plage de régime.
+
+## À retenir
+
+- Les rapports courts privilégient le couple.
+- Les rapports longs réduisent le régime et le bruit.
+- Une voiture électrique n'a généralement pas besoin de boîte multi-rapports.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Pourquoi les pneus sont l'unique contact avec la route
+slug: pneus-contact-route-adherence
+categoryPath: automobile/securite-et-conduite
+summary: >
+  Quatre petites zones de caoutchouc transmettent freinage, direction et accélération. Leur état
+  influence directement l'adhérence et la distance d'arrêt.
+tags: [automobile, pneus, adherence, freinage, securite]
+relatedArticles: [ceinture-airbag-et-structures-deformables, technologies-aide-conduite-efficacite]
+sources:
+  - title: "Tyre safety"
+    url: "https://www.euroncap.com/fr"
+    publisher: "Euro NCAP"
+    date: "2025"
+quiz:
+  - question: "Quel élément relie directement la voiture à la chaussée ?"
+    options:
+      - "La suspension"
+      - "Les pneus"
+      - "Le moteur"
+    answer: 2
+    explanation: >
+      Les pneus sont le seul contact direct avec la route. Leur pression, leur usure et la qualité
+      du revêtement modifient l'adhérence.
+  - question: "Qu'est-ce qui réduit l'adhérence disponible d'un pneu ?"
+    options:
+      - "Une chaussée sèche et un pneu neuf"
+      - "L'eau, le froid, la neige, l'usure et une pression incorrecte"
+      - "Une vitesse très basse"
+    answer: 2
+    explanation: >
+      Ces facteurs réduisent la marge d'adhérence : si le conducteur demande alors plus que ce
+      que le pneu peut transmettre, la voiture glisse.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Les pneus ne sont pas un simple consommable. Ils doivent transmettre simultanément les efforts de
+freinage, de direction et d'accélération sur une surface minuscule.
+
+## L'adhérence disponible
+
+Sur chaussée sèche, le caoutchouc peut transmettre beaucoup d'effort. L'eau, le froid, la neige,
+l'usure et une pression incorrecte réduisent cette marge. Si le conducteur demande plus que ce que
+le pneu peut transmettre, la voiture glisse.
+
+## Pourquoi la pression compte
+
+Un pneu sous-gonflé se déforme davantage, chauffe et augmente la consommation. Un pneu trop gonflé
+réduit parfois la surface de contact et dégrade le confort. La pression recommandée se trouve sur
+l'étiquette du véhicule, pas sur le flanc du pneu.
+
+## À retenir
+
+- Les pneus sont l'unique contact direct avec la route.
+- La pression et l'état de la bande de roulement sont essentiels.
+- L'adhérence est une ressource limitée à partager entre freiner, tourner et accélérer.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La suspension et le compromis confort-tenue de route
+slug: suspension-confort-tenue-de-route
+categoryPath: automobile/securite-et-conduite
+summary: >
+  Une suspension doit maintenir les pneus au sol tout en isolant les occupants des irrégularités.
+  Ces deux objectifs se contredisent souvent.
+tags: [automobile, suspension, confort, tenue-de-route, chassis]
+relatedArticles: [pneus-contact-route-adherence, ceinture-airbag-et-structures-deformables]
+sources:
+  - title: "Automotive suspension"
+    url: "https://www.britannica.com/technology/suspension-automotive"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Quel est le rôle principal d'une suspension ?"
+    options:
+      - "Maintenir les pneus en contact avec la route et filtrer les chocs"
+      - "Refroidir les freins"
+      - "Augmenter la puissance du moteur"
+    answer: 1
+    explanation: >
+      Une suspension bien réglée combine contrôle de la caisse et contact régulier des pneus avec
+      la chaussée.
+  - question: "Quel est le rôle des amortisseurs ?"
+    options:
+      - "Porter le poids du véhicule"
+      - "Dissiper l'énergie des mouvements pour éviter les oscillations"
+      - "Diriger les roues"
+    answer: 2
+    explanation: >
+      Ce sont les ressorts qui portent le poids ; les amortisseurs, eux, contrôlent les
+      mouvements pour que le pneu garde le contact avec la chaussée.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La suspension relie les roues à la caisse. Elle doit absorber les bosses sans laisser la voiture
+rebondir, plonger au freinage ou se coucher dans les virages.
+
+## Ressorts et amortisseurs
+
+Les ressorts portent le poids et absorbent les irrégularités. Les amortisseurs dissipent l'énergie
+des mouvements afin d'éviter les oscillations. Un amortisseur usé laisse le pneu perdre plus
+souvent le contact avec la chaussée.
+
+## Un compromis permanent
+
+Des réglages souples améliorent le confort mais autorisent davantage de mouvements de caisse. Des
+réglages fermes contrôlent mieux la voiture mais transmettent plus de vibrations. Les suspensions
+pilotées tentent d'adapter ce compromis aux conditions.
+
+## À retenir
+
+- Les ressorts portent la caisse.
+- Les amortisseurs contrôlent les mouvements.
+- Le confort et la tenue de route demandent souvent des réglages opposés.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Comment fonctionne le freinage d'une voiture
+slug: fonctionnement-freinage-abs
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Le frein transforme l'énergie du mouvement en chaleur. L'ABS évite le blocage des roues afin de
+  conserver la capacité de diriger.
+tags: [automobile, freinage, ABS, energie, securite]
+relatedArticles: [freinage-durgence-automatique, pneus-contact-route-adherence]
+sources:
+  - title: "Anti-lock braking system"
+    url: "https://www.britannica.com/technology/anti-lock-braking-system"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Que cherche à empêcher l'ABS ?"
+    options:
+      - "La surchauffe du moteur"
+      - "Le blocage des roues au freinage"
+      - "La baisse de pression des pneus"
+    answer: 2
+    explanation: >
+      Une roue bloquée glisse et répond mal à la direction. L'ABS module rapidement la pression
+      pour préserver l'adhérence.
+  - question: "Pourquoi une roue bloquée est-elle dangereuse ?"
+    options:
+      - "Elle chauffe trop vite"
+      - "Elle glisse et perd une partie de sa capacité à changer de direction"
+      - "Elle use les pneus plus vite"
+    answer: 2
+    explanation: >
+      Une roue qui glisse au lieu de rouler répond moins bien au volant. L'ABS module la
+      pression pour éviter ce blocage et conserver la maniabilité.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Freiner consiste à retirer de l'énergie au véhicule. Les disques et plaquettes la transforment en
+chaleur, tandis que les pneus transmettent l'effort à la route.
+
+## Le rôle de l'ABS
+
+Une roue qui se bloque glisse au lieu de rouler. Elle perd alors une partie de sa capacité à
+changer de direction. Des capteurs mesurent la vitesse de chaque roue et une pompe module la
+pression plusieurs fois par seconde.
+
+## La distance d'arrêt
+
+Elle dépend de la vitesse, de l'adhérence, de l'état des pneus, de la charge et du temps de
+réaction. À vitesse plus élevée, l'énergie à dissiper augmente fortement.
+
+## À retenir
+
+- Les freins transforment le mouvement en chaleur.
+- L'ABS conserve une capacité de direction pendant un freinage intense.
+- La vitesse et l'adhérence dominent la distance d'arrêt.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: L'aérodynamique d'une voiture
+slug: aerodynamique-automobile-trainee
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  À vitesse élevée, l'air devient la principale résistance. La forme, le soubassement et les roues
+  déterminent une grande partie de la consommation.
+tags: [automobile, aerodynamique, consommation, vitesse, design]
+relatedArticles: [autonomie-reelle-et-cycle-dhomologation, plateformes-modulaires-et-standardisation]
+sources:
+  - title: "Drag coefficient"
+    url: "https://www.britannica.com/science/drag-physics"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Que se passe-t-il quand la vitesse augmente ?"
+    options:
+      - "La résistance de l'air diminue"
+      - "La résistance de l'air augmente fortement"
+      - "L'aérodynamique ne change pas"
+    answer: 2
+    explanation: >
+      La force aérodynamique augmente approximativement avec le carré de la vitesse, ce qui rend
+      l'autoroute énergivore.
+  - question: "Pourquoi un SUV demande-t-il souvent plus d'effort aérodynamique qu'une berline basse ?"
+    options:
+      - "Parce qu'il pèse plus lourd, uniquement"
+      - "Parce que sa plus grande surface frontale augmente la traînée à vitesse élevée"
+      - "Parce qu'il roule toujours plus vite"
+    answer: 2
+    explanation: >
+      La traînée dépend de la forme et de la surface frontale autant que de la vitesse. Une
+      position haute et une carrosserie imposante augmentent généralement l'effort demandé sur
+      route rapide.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Une voiture doit repousser l'air pour avancer. À faible vitesse, les pneus et la transmission
+comptent davantage ; à vitesse élevée, la traînée aérodynamique domine.
+
+## Les détails qui comptent
+
+Une carrosserie lisse, un soubassement caréné et des roues bien intégrées réduisent les
+perturbations. Un coffre de toit ou une fenêtre ouverte ajoutent de la traînée. Le coefficient de
+traînée ne suffit pas : la surface frontale compte aussi.
+
+## Le paradoxe du design
+
+Une forme très basse est efficace mais limite l'espace intérieur. Les SUV offrent une position
+haute appréciée, mais leur surface frontale augmente généralement l'effort demandé à vitesse
+élevée.
+
+## À retenir
+
+- La traînée dépend de la vitesse, de la forme et de la surface frontale.
+- Les roues et le dessous de caisse perturbent fortement l'écoulement.
+- Le confort et l'habitabilité peuvent s'opposer à l'efficacité aérodynamique.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les batteries lithium-ion et leurs chimies
+slug: chimies-batteries-lithium-ion-automobile
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Toutes les batteries lithium-ion ne se ressemblent pas. Les chimies privilégient tour à tour
+  densité énergétique, coût, durée de vie et sécurité.
+tags: [automobile, batterie, lithium-ion, LFP, NMC]
+relatedArticles: [voiture-electrique, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Global EV Outlook"
+    url: "https://www.iea.org/reports/global-ev-outlook-2025"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Quel est un avantage courant des batteries LFP ?"
+    options:
+      - "Un coût et une durabilité intéressants"
+      - "Elles ne contiennent aucune matière"
+      - "Elles produisent du carburant"
+    answer: 1
+    explanation: >
+      Les cellules LFP sont généralement appréciées pour leur coût, leur stabilité et leur durée
+      de vie, même si leur densité énergétique peut être plus faible.
+  - question: "Quelle différence oppose les chimies NMC et LFP ?"
+    options:
+      - "NMC est toujours moins chère que LFP"
+      - "NMC stocke plus d'énergie à masse égale, LFP est souvent moins coûteuse et très durable"
+      - "Elles utilisent exactement les mêmes métaux"
+    answer: 2
+    explanation: >
+      NMC privilégie la densité énergétique grâce au nickel, au manganèse et au cobalt, tandis
+      que LFP mise sur le coût et la durabilité avec du fer et du phosphate.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La batterie n'est pas un réservoir uniforme. Elle est formée de cellules dont la chimie détermine
+le compromis entre autonomie, prix, puissance, durée de vie et sécurité.
+
+## Deux familles courantes
+
+Les chimies NMC offrent une bonne densité énergétique et permettent de réduire le volume à
+autonomie égale. Elles utilisent notamment nickel, manganèse et cobalt dans la cathode.
+
+Les chimies LFP utilisent du fer et du phosphate. Elles sont souvent moins coûteuses et très
+durables, mais stockent moins d'énergie à masse égale.
+
+## La gestion électronique
+
+Le système BMS surveille tension, température et état de charge de chaque groupe de cellules. Il
+équilibre les cellules et limite la puissance lorsque la batterie est trop froide, trop chaude ou
+presque pleine.
+
+## À retenir
+
+- La chimie influence prix, autonomie, sécurité et durée de vie.
+- NMC et LFP répondent à des compromis différents.
+- Le BMS protège et équilibre les cellules.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le recyclage des batteries de voitures électriques
+slug: recyclage-batteries-vehicules-electriques
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Une batterie usagée n'est pas un déchet ordinaire. Elle peut être réparée, réemployée en stockage,
+  puis démontée pour récupérer ses matériaux.
+tags: [automobile, batterie, recyclage, lithium, economie-circulaire]
+relatedArticles: [chimies-batteries-lithium-ion-automobile, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Batteries and waste batteries"
+    url: "https://environment.ec.europa.eu/topics/waste-and-recycling/batteries-and-waste-batteries_en"
+    publisher: "Commission européenne"
+    date: "2025"
+quiz:
+  - question: "Que peut-on faire avant de recycler une batterie ?"
+    options:
+      - "La brûler"
+      - "La réparer ou la réutiliser pour du stockage stationnaire"
+      - "La remplir d'eau"
+    answer: 2
+    explanation: >
+      Certaines batteries conservent assez de capacité pour le stockage fixe, où le poids est moins
+      important qu'à bord d'un véhicule.
+  - question: "Que se passe-t-il souvent avant le recyclage final d'une batterie automobile ?"
+    options:
+      - "Elle est immédiatement détruite"
+      - "Elle peut être réemployée pour stocker de l'électricité, par exemple pour un bâtiment"
+      - "Elle est renvoyée sans aucun contrôle"
+    answer: 2
+    explanation: >
+      Une batterie devenue insuffisante pour la traction garde souvent assez de capacité pour
+      un usage stationnaire, avant d'être recyclée.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La fin de vie d'une batterie se raisonne par étapes. Une capacité devenue insuffisante pour une
+voiture peut rester utile dans un bâtiment.
+
+## Réparer puis réemployer
+
+Un diagnostic permet parfois de remplacer un module plutôt que toute la batterie. Si son état ne
+convient plus à la traction, elle peut stocker l'électricité solaire ou soutenir le réseau.
+
+## Recycler les matériaux
+
+Après le réemploi, les procédés récupèrent progressivement les métaux et autres composants. Le
+recyclage réduit la dépendance à l'extraction, mais il demande une filière sûre, automatisée et
+économiquement viable.
+
+## À retenir
+
+- Une batterie peut avoir plusieurs vies.
+- Le réemploi stationnaire intervient avant le recyclage final.
+- La sécurité du démontage est essentielle.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La voiture définie par logiciel
+slug: voiture-definie-par-logiciel
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Les véhicules récents deviennent des plateformes informatiques capables de recevoir des mises à
+  jour, mais cette souplesse augmente les enjeux de cybersécurité.
+tags: [automobile, logiciel, mises-a-jour, IA, cybersecurite]
+relatedArticles: [niveaux-dautomatisation-de-la-conduite, plateformes-modulaires-et-standardisation]
+sources:
+  - title: "Software-defined Vehicle 2026 Capital Market Day"
+    url: "https://www.renesas.com/en/document/ppt/software-defined-vehicle-2026-capital-market-day"
+    publisher: "Renesas"
+    date: "2026"
+  - title: "Automated vehicles safety"
+    url: "https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety"
+    publisher: "NHTSA"
+    date: "2025"
+quiz:
+  - question: "Que permet une voiture définie par logiciel ?"
+    options:
+      - "Modifier certaines fonctions par des mises à jour après la vente"
+      - "Rouler sans énergie"
+      - "Supprimer tous les capteurs"
+    answer: 1
+    explanation: >
+      Une architecture informatique centralisée peut faire évoluer des fonctions et corriger des
+      défauts à distance, sous réserve de sécurité et de compatibilité.
+  - question: "Que permet une architecture de voiture définie par logiciel ?"
+    options:
+      - "De supprimer tous les calculateurs du véhicule"
+      - "De déployer des corrections, fonctions et réglages à distance"
+      - "De faire rouler la voiture sans aucune électronique"
+    answer: 2
+    explanation: >
+      En regroupant les fonctions autour d'ordinateurs centraux, le véhicule peut recevoir des
+      mises à jour, ce qui prolonge et fait évoluer ses capacités après l'achat.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Une voiture moderne contient déjà des dizaines de calculateurs. Les architectures dites définies
+par logiciel regroupent davantage de fonctions autour d'ordinateurs centraux et de réseaux rapides.
+
+## Ce que cela change
+
+Des corrections, fonctions et réglages peuvent être déployés à distance. Le véhicule peut aussi
+analyser ses données, dialoguer avec le cloud et personnaliser son fonctionnement.
+
+## Le revers
+
+Plus de connectivité signifie davantage de points à protéger. Une mise à jour doit être authentifiée,
+testée et capable de revenir en arrière si elle échoue. Une erreur logicielle peut toucher beaucoup
+ de véhicules simultanément.
+
+## À retenir
+
+- Le logiciel devient une partie centrale du véhicule.
+- Les mises à jour à distance prolongent la vie fonctionnelle.
+- Cybersécurité et sûreté de fonctionnement sont indispensables.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les voitures connectées et la cybersécurité
+slug: voitures-connectees-cybersecurite
+categoryPath: automobile/securite-et-conduite
+summary: >
+  Une voiture connectée échange des données utiles, mais une interface mal protégée peut devenir
+  une porte d'entrée vers ses fonctions numériques.
+tags: [automobile, connectivite, cybersecurite, donnees, vie-privee]
+relatedArticles: [voiture-definie-par-logiciel, niveaux-dautomatisation-de-la-conduite]
+sources:
+  - title: "Cybersecurity and software updates"
+    url: "https://unece.org/transport/vehicle-regulations"
+    publisher: "UNECE"
+    date: "2025"
+quiz:
+  - question: "Pourquoi la connectivité augmente-t-elle le risque numérique ?"
+    options:
+      - "Parce qu'une voiture connectée roule plus vite"
+      - "Parce qu'elle ajoute des interfaces et des logiciels à protéger"
+      - "Parce que les pneus deviennent électroniques"
+    answer: 2
+    explanation: >
+      Chaque connexion doit être authentifiée et isolée afin de limiter l'accès aux fonctions
+      critiques.
+  - question: "Pourquoi certaines fonctions du véhicule doivent-elles rester isolées des services de confort ?"
+    options:
+      - "Pour économiser de la batterie"
+      - "Pour limiter les conséquences d'une attaque informatique sur des fonctions critiques"
+      - "Parce que la loi l'exige uniquement pour la navigation"
+    answer: 2
+    explanation: >
+      Séparer les réseaux évite qu'une faille dans une application de confort n'atteigne des
+      systèmes essentiels comme la direction ou le freinage.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Navigation en ligne, appels d'urgence, applications mobiles et mises à jour rendent la voiture
+plus utile. Ils créent aussi un système informatique roulant.
+
+## Les menaces
+
+Un attaquant peut viser une clé numérique, une application, un serveur ou un équipement installé
+sur le véhicule. Le risque ne se limite pas au vol de données : certaines fonctions doivent rester
+isolées des interfaces de confort.
+
+## Les protections
+
+Chiffrement, authentification forte, segmentation des réseaux, journaux d'événements et mises à
+jour régulières réduisent l'exposition. Le conducteur doit aussi protéger ses comptes et éviter de
+partager inutilement les clés numériques.
+
+## À retenir
+
+- Une voiture connectée est un système informatique.
+- Les fonctions critiques doivent être isolées des services de confort.
+- La protection concerne le véhicule, le cloud et le smartphone.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Pourquoi les puces sont devenues stratégiques pour l'automobile
+slug: semi-conducteurs-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une voiture moderne dépend de milliers de composants électroniques. Une puce manquante peut
+  immobiliser une chaîne entière.
+tags: [automobile, semi-conducteurs, industrie, electronique, production]
+relatedArticles: [production-automobile-mondiale, voiture-definie-par-logiciel]
+sources:
+  - title: "Automotive outlook 2026"
+    url: "https://semiengineering.com/automotive-outlook-2026/"
+    publisher: "Semiconductor Engineering"
+    date: "2026"
+quiz:
+  - question: "Pourquoi une seule puce peut-elle arrêter une production automobile ?"
+    options:
+      - "Parce qu'elle remplace le moteur"
+      - "Parce que le véhicule ne peut pas être livré sans certains composants validés"
+      - "Parce qu'elle sert uniquement à la radio"
+    answer: 2
+    explanation: >
+      Une pièce peu coûteuse peut être indispensable à la sécurité, au contrôle moteur ou à
+      l'homologation du véhicule.
+  - question: "Qu'a révélé la pénurie de semi-conducteurs dans l'automobile ?"
+    options:
+      - "Que les constructeurs n'utilisaient pas de puces électroniques"
+      - "Qu'une chaîne d'approvisionnement très optimisée peut devenir fragile"
+      - "Que les puces ne servent qu'aux écrans multimédias"
+    answer: 2
+    explanation: >
+      Un composant unique, même peu coûteux, peut arrêter une ligne de production entière
+      quand les stocks sont réduits au minimum.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Les semi-conducteurs contrôlent moteur, batterie, freinage, éclairage, écrans et systèmes d'aide.
+Leur valeur unitaire est parfois faible, mais leur absence bloque le véhicule.
+
+## Une chaîne complexe
+
+La conception d'une puce, sa fabrication, son assemblage et sa validation s'étendent sur plusieurs
+pays. Les constructeurs ont longtemps privilégié les stocks minimaux et les composants spécialisés.
+
+## La leçon de la pénurie
+
+Les interruptions ont montré qu'une chaîne très optimisée peut devenir fragile. Les constructeurs
+cherchent désormais à standardiser davantage, diversifier les fournisseurs et rapprocher certaines
+productions.
+
+## À retenir
+
+- L'électronique est présente dans presque toutes les fonctions du véhicule.
+- Un composant rare peut arrêter une ligne complète.
+- La résilience industrielle devient aussi importante que le coût.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les matériaux d'une voiture moderne
+slug: materiaux-automobile-acier-aluminium-composites
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Acier, aluminium, plastiques et composites remplissent des fonctions différentes. Le matériau
+  idéal dépend du coût, du poids, de la sécurité et du recyclage.
+tags: [automobile, materiaux, acier, aluminium, recyclage]
+relatedArticles: [ceinture-airbag-et-structures-deformables, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "Automotive industry"
+    url: "https://www.britannica.com/technology/automotive-industry"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Pourquoi l'acier reste-t-il très utilisé ?"
+    options:
+      - "Il est toujours le plus léger"
+      - "Il combine résistance, coût, formabilité et filières de recyclage"
+      - "Il ne rouille jamais"
+    answer: 2
+    explanation: >
+      Les aciers modernes peuvent être très résistants tout en restant adaptés à la fabrication en
+      grande série.
+  - question: "Pourquoi n'utilise-t-on pas un seul matériau pour toute la carrosserie ?"
+    options:
+      - "Par simple habitude industrielle"
+      - "Parce que chaque zone du véhicule a des besoins différents en sécurité, poids et coût"
+      - "Parce que l'acier est aujourd'hui interdit"
+    answer: 2
+    explanation: >
+      La cellule de survie, les zones déformables ou la batterie n'ont pas les mêmes exigences
+      : le choix du matériau se fait donc endroit par endroit.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La carrosserie n'est pas faite d'un seul matériau. Les ingénieurs choisissent selon l'endroit :
+cellule de survie, zones déformables, capot, roues, batterie ou habitacle.
+
+## Le compromis du poids
+
+Alléger réduit l'énergie nécessaire au déplacement, mais certains composants lourds améliorent la
+sécurité, la rigidité ou la durée de vie. L'aluminium et les composites peuvent aider, mais ils
+coûtent souvent plus cher et compliquent le recyclage.
+
+## Une conception pour la fin de vie
+
+Les matériaux assemblés de manière irréversible sont difficiles à séparer. La conception automobile
+intègre donc progressivement démontabilité, traçabilité et récupération des métaux.
+
+## À retenir
+
+- Aucun matériau ne gagne sur tous les critères.
+- L'allègement peut réduire la consommation, mais a un coût.
+- Le choix des matériaux influence aussi la fin de vie.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Pourquoi le poids d'une voiture augmente
+slug: augmentation-poids-voitures
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Sécurité, confort, équipements et batteries ont alourdi les véhicules. Le poids influence
+  consommation, pneus, freinage et occupation de l'espace.
+tags: [automobile, poids, SUV, securite, batteries]
+relatedArticles: [analyse-du-cycle-de-vie-dune-automobile, autopartage-et-covoiturage]
+sources:
+  - title: "Global Fuel Economy Initiative"
+    url: "https://www.iea.org/topics/fuel-economy"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Quel est un effet direct d'une voiture plus lourde ?"
+    options:
+      - "Elle demande généralement plus d'énergie pour accélérer et freiner"
+      - "Elle consomme toujours moins"
+      - "Elle n'use pas les pneus"
+    answer: 1
+    explanation: >
+      Une masse plus élevée demande plus d'énergie pour modifier la vitesse et augmente souvent
+      les efforts transmis aux pneus et aux freins.
+  - question: "Où le poids d'une voiture pénalise-t-il le plus la consommation ?"
+    options:
+      - "Sur autoroute, à vitesse stable"
+      - "En ville, avec des accélérations et freinages répétés"
+      - "Uniquement à l'arrêt, moteur coupé"
+    answer: 2
+    explanation: >
+      Sur autoroute, l'aérodynamique domine souvent la dépense d'énergie, alors qu'en ville
+      chaque accélération demande de remettre la masse en mouvement.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Les voitures ont gagné en sécurité, isolation, confort, électronique et taille. Les batteries
+ont ajouté une masse supplémentaire aux modèles électriques.
+
+## Les conséquences
+
+Le poids augmente l'énergie nécessaire pour accélérer, la charge sur les pneus et la quantité de
+matière utilisée. Il n'affecte pas de la même manière tous les usages : sur autoroute,
+l'aérodynamique domine souvent, tandis qu'en ville les accélérations répétées rendent la masse
+très pénalisante.
+
+## Le cercle des équipements
+
+Un véhicule plus lourd demande parfois des freins, des suspensions et des pneus plus grands. Ces
+éléments ajoutent à leur tour du poids. Réduire la masse dès la conception est donc plus efficace
+que compenser ensuite par davantage de puissance.
+
+## À retenir
+
+- Le poids agit sur énergie, pneus, freins et matériaux.
+- Les batteries ne sont pas le seul facteur d'alourdissement.
+- L'efficacité passe aussi par des véhicules plus sobres et mieux dimensionnés.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les émissions sonores de la circulation
+slug: bruit-routier-sante-et-pneus
+categoryPath: automobile/usages-et-mobilite
+summary: >
+  Le bruit routier vient du moteur à faible vitesse, mais surtout du contact pneus-chaussée à
+  vitesse élevée. L'électrification ne le supprime donc pas.
+tags: [automobile, bruit, pneus, ville, sante]
+relatedArticles: [normes-demissions-euro, augmentation-poids-voitures]
+sources:
+  - title: "Noise"
+    url: "https://www.eea.europa.eu/en/topics/in-depth/noise"
+    publisher: "Agence européenne pour l'environnement"
+    date: "2025"
+quiz:
+  - question: "À vitesse élevée, quelle source domine souvent le bruit d'une voiture ?"
+    options:
+      - "Le contact pneus-chaussée"
+      - "La radio"
+      - "La batterie"
+    answer: 1
+    explanation: >
+      Le bruit de roulement devient dominant lorsque le bruit du moteur diminue relativement.
+  - question: "À partir de quand le bruit des pneus domine-t-il le bruit du moteur ?"
+    options:
+      - "Dès le démarrage du véhicule"
+      - "Au-delà d'une certaine vitesse, pour les véhicules thermiques comme électriques"
+      - "Jamais, le moteur domine toujours"
+    answer: 2
+    explanation: >
+      À basse vitesse, l'électrique est plus silencieuse faute de moteur thermique au ralenti.
+      Mais passé un certain seuil, le bruit des pneus et de l'air prend le dessus pour les
+      deux types de véhicules.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Le bruit de la circulation est une pollution à part entière. Il dépend du trafic, de la vitesse,
+du revêtement et de la distance aux habitations.
+
+## Thermique contre électrique
+
+Une voiture électrique est beaucoup plus silencieuse à basse vitesse, car elle n'a pas de moteur
+thermique bruyant au ralenti et en accélération. Au-delà d'une certaine vitesse, le bruit des
+pneus et de l'air domine pour les deux types de véhicules.
+
+## Les leviers
+
+Réduire les vitesses, entretenir les revêtements, limiter le trafic et choisir des pneus moins
+bruyants peuvent agir. Un véhicule lourd ou équipé de pneus larges n'est pas automatiquement
+meilleur pour le voisinage.
+
+## À retenir
+
+- Le bruit ne vient pas uniquement du moteur.
+- L'électrique aide surtout à basse vitesse.
+- Vitesse, pneus et revêtement sont des leviers majeurs.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le contrôle technique et ce qu'il révèle
+slug: controle-technique-securite-pollution
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Le contrôle technique vérifie un véhicule à un instant donné. Il améliore la détection des
+  défauts, mais ne remplace ni l'entretien ni la responsabilité du conducteur.
+tags: [automobile, controle-technique, securite, pollution, entretien]
+relatedArticles: [normes-demissions-euro, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Roadworthiness"
+    url: "https://transport.ec.europa.eu/transport-themes/road-safety/roadworthiness_en"
+    publisher: "Commission européenne"
+    date: "2025"
+quiz:
+  - question: "Que mesure principalement un contrôle technique ?"
+    options:
+      - "L'état du véhicule au moment de l'inspection"
+      - "La qualité du conducteur"
+      - "La valeur future de la voiture"
+    answer: 1
+    explanation: >
+      Il recherche des défauts réglementaires et de sécurité à une date donnée, sans garantir que
+      le véhicule restera en bon état jusqu'au prochain contrôle.
+  - question: "Le contrôle technique garantit-il qu'une voiture restera fiable ensuite ?"
+    options:
+      - "Oui, pendant toute sa durée de validité"
+      - "Non, un défaut peut apparaître juste après le contrôle"
+      - "Oui, à condition d'être fait dans un centre agréé"
+    answer: 2
+    explanation: >
+      Le contrôle technique est une photographie à un instant donné. Il ne remplace pas
+      l'entretien régulier prévu par le constructeur.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Le contrôle technique est un filet de sécurité réglementaire. Il recherche des défauts qui peuvent
+menacer la sécurité, l'environnement ou la conformité du véhicule.
+
+## Ses limites
+
+Une voiture peut être conforme le jour du contrôle puis développer un défaut ensuite. L'inspection
+ne mesure pas toutes les pannes possibles et ne remplace pas les niveaux, les pneus, les freins ou
+les révisions prévus par le constructeur.
+
+## Pourquoi il compte pour l'occasion
+
+Les procès-verbaux et les factures d'entretien fournissent des indices sur l'état réel. Il faut
+cependant vérifier le véhicule, son historique et les éventuelles réparations avant l'achat.
+
+## À retenir
+
+- Le contrôle est une photographie, pas une garantie permanente.
+- Il complète l'entretien régulier.
+- Son historique aide à évaluer un véhicule d'occasion.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: L'histoire des grandes innovations automobiles
+slug: histoire-innovations-automobiles
+categoryPath: automobile/industrie-automobile
+summary: >
+  Démarreur électrique, ceinture, ABS, airbags et catalyseur ont transformé la voiture plus
+  profondément que les changements de style.
+tags: [automobile, histoire, innovation, securite, technologie]
+relatedArticles: [ceinture-airbag-et-structures-deformables, fonctionnement-freinage-abs]
+sources:
+  - title: "Automotive industry"
+    url: "https://www.britannica.com/technology/automotive-industry"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Safety ratings"
+    url: "https://www.euroncap.com/fr"
+    publisher: "Euro NCAP"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le démarreur électrique a-t-il changé l'usage de l'automobile ?"
+    options:
+      - "Il a supprimé la manivelle et rendu le démarrage plus pratique"
+      - "Il a remplacé les pneus"
+      - "Il a doublé la taille du moteur"
+    answer: 1
+    explanation: >
+      Le démarrage manuel était pénible et dangereux. Le démarreur électrique a rendu l'usage
+      quotidien beaucoup plus simple.
+  - question: "Pourquoi une bonne innovation automobile peut-elle rester marginale ?"
+    options:
+      - "Si elle est trop simple à fabriquer"
+      - "Si elle coûte trop cher ou si la filière industrielle n'est pas prête"
+      - "Si elle plaît immédiatement aux clients"
+    answer: 2
+    explanation: >
+      Une technologie doit être fiable, abordable, réparable et compatible avec les normes
+      pour se diffuser largement, pas seulement fonctionner en laboratoire.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+L'histoire automobile n'est pas seulement une succession de modèles. Elle est faite d'innovations
+qui ont changé la sécurité, la fiabilité, le confort et la pollution.
+
+## Des ruptures concrètes
+
+Le démarreur électrique a supprimé la manivelle. La production en série a abaissé le prix. La
+ceinture et les structures déformables ont réduit les blessures. L'injection, les catalyseurs et
+les filtres ont diminué les émissions locales.
+
+## Pourquoi les innovations se diffusent lentement
+
+Une technologie doit être fiable, abordable, réparable et compatible avec les normes. Une bonne
+idée peut rester marginale si elle ajoute trop de coût ou si la filière industrielle n'est pas
+prête.
+
+## À retenir
+
+- Les innovations utiles répondent à un problème concret.
+- Sécurité et pollution ont souvent guidé les progrès majeurs.
+- La diffusion dépend autant de l'industrie et des règles que de la technique.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La distribution variable et le turbo
+slug: distribution-variable-turbocompresseur
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Un moteur produit davantage quand il respire mieux. Distribution variable et turbocompresseur
+  augmentent le remplissage des cylindres sans agrandir le moteur.
+tags: [automobile, moteur, turbo, soupapes, rendement]
+relatedArticles: [fonctionnement-moteur-combustion-interne, fonctionnement-boite-de-vitesses]
+sources:
+  - title: "Internal-combustion engine"
+    url: "https://www.britannica.com/technology/internal-combustion-engine"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Que fait principalement un turbocompresseur ?"
+    options:
+      - "Il comprime l'air admis pour faire entrer davantage d'oxygène"
+      - "Il refroidit les pneus"
+      - "Il remplace les freins"
+    answer: 1
+    explanation: >
+      Une turbine entraînée par les gaz d'échappement actionne un compresseur placé sur
+      l'admission.
+  - question: "Que fait le turbocompresseur ?"
+    options:
+      - "Il refroidit directement le moteur"
+      - "Il utilise les gaz d'échappement pour comprimer l'air admis dans le moteur"
+      - "Il remplace la boîte de vitesses"
+    answer: 2
+    explanation: >
+      La turbine entraînée par les gaz d'échappement fait tourner un compresseur : l'air
+      comprimé permet de réduire la cylindrée à puissance comparable.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Un moteur est une pompe à air : plus il fait entrer d'air et de carburant, plus il peut produire
+de puissance. Mais il faut aussi évacuer rapidement les gaz brûlés.
+
+## La distribution variable
+
+Le calage des soupapes peut être adapté au régime et à la charge. À bas régime, on privilégie la
+souplesse ; à haut régime, on augmente le remplissage. La levée variable agit aussi sur la
+quantité d'air admise.
+
+## Le turbocompresseur
+
+Les gaz d'échappement font tourner une turbine reliée à un compresseur. L'air comprimé permet de
+réduire la cylindrée à puissance comparable. L'échangeur refroidit cet air pour le rendre plus
+dense.
+
+## À retenir
+
+- La distribution règle les échanges de gaz.
+- Le turbo récupère une partie de l'énergie de l'échappement.
+- L'échangeur améliore la densité de l'air comprimé.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le système de refroidissement du moteur
+slug: refroidissement-moteur-thermique
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Un moteur doit rester dans une fenêtre de température étroite : trop froid, il consomme mal ;
+  trop chaud, il se détériore.
+tags: [automobile, moteur, refroidissement, liquide, thermostat]
+relatedArticles: [fonctionnement-moteur-combustion-interne, entretien-automobile]
+sources:
+  - title: "Internal-combustion engine"
+    url: "https://www.britannica.com/technology/internal-combustion-engine"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "À quoi sert le thermostat ?"
+    options:
+      - "À maintenir le moteur dans une plage de température adaptée"
+      - "À augmenter la pression des pneus"
+      - "À filtrer le carburant"
+    answer: 1
+    explanation: >
+      Il régule la circulation du liquide de refroidissement afin d'accélérer la montée en
+      température puis d'éviter la surchauffe.
+  - question: "Pourquoi un moteur qui reste froid n'est-il pas idéal ?"
+    options:
+      - "Il consomme moins de carburant"
+      - "Il vaporise moins bien le carburant et lubrifie moins efficacement"
+      - "Il chauffe l'habitacle plus vite"
+    answer: 2
+    explanation: >
+      Un moteur froid oblige parfois le calculateur à enrichir le mélange, ce qui augmente
+      consommation et émissions pendant la montée en température.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La combustion crée beaucoup de chaleur. Le moteur ne doit pourtant ni bouillir ni fonctionner
+froid en permanence.
+
+## Le circuit
+
+Une pompe fait circuler un liquide dans le bloc moteur. Le radiateur évacue la chaleur vers l'air,
+le ventilateur intervient à faible vitesse et le thermostat dirige le flux selon la température.
+
+## Pourquoi le froid n'est pas idéal
+
+Un moteur froid vaporise moins bien le carburant et lubrifie moins efficacement. Le calculateur
+enrichit parfois le mélange, ce qui augmente la consommation et les émissions pendant la montée
+en température.
+
+## À retenir
+
+- Le refroidissement stabilise la température du moteur.
+- Le thermostat accélère la mise en température.
+- Liquide insuffisant ou surchauffe peuvent causer des dégâts majeurs.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Pourquoi l'huile moteur est essentielle
+slug: huile-moteur-lubrification
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  L'huile réduit les frottements, évacue une partie de la chaleur et emporte des impuretés. Son
+  vieillissement explique les intervalles de vidange.
+tags: [automobile, entretien, huile, moteur, frottement]
+relatedArticles: [fonctionnement-moteur-combustion-interne, refroidissement-moteur-thermique]
+sources:
+  - title: "Vehicle maintenance"
+    url: "https://www.nhtsa.gov/vehicle-safety"
+    publisher: "NHTSA"
+    date: "2025"
+quiz:
+  - question: "Quel est un rôle de l'huile moteur ?"
+    options:
+      - "Réduire les frottements entre les pièces mobiles"
+      - "Gonfler les pneus"
+      - "Recharger la batterie de traction"
+    answer: 1
+    explanation: >
+      Le film d'huile sépare les surfaces, limite l'usure et participe au refroidissement et au
+      nettoyage interne.
+  - question: "Que fait l'huile moteur, en plus de lubrifier les pièces ?"
+    options:
+      - "Elle alimente le moteur en carburant"
+      - "Elle transporte la chaleur vers le carter et retient des particules"
+      - "Elle remplace le liquide de refroidissement"
+    answer: 2
+    explanation: >
+      L'huile joue plusieurs rôles à la fois : former un film protecteur, évacuer une partie
+      de la chaleur et piéger des particules grâce à ses additifs.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Dans un moteur, des surfaces métalliques se déplacent à grande vitesse sous forte pression. Sans
+lubrification, le frottement provoquerait une usure et une chaleur destructrices.
+
+## Une huile multifonction
+
+Elle forme un film entre les pièces, transporte de la chaleur vers le carter et retient des
+particules. Des additifs combattent l'oxydation, la corrosion et les dépôts.
+
+## Pourquoi la vidange compte
+
+La chaleur, le carburant imbrûlé et les particules altèrent progressivement l'huile. Le bon
+intervalle dépend du moteur, de l'usage et de la spécification prévue par le constructeur.
+
+## À retenir
+
+- L'huile protège, refroidit et nettoie.
+- Une huile dégradée perd une partie de ses propriétés.
+- La spécification du constructeur compte autant que la viscosité.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le filtre à particules et le catalyseur
+slug: filtre-particules-catalyseur
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Les moteurs modernes traitent leurs gaz après la combustion. Le filtre capture des particules et
+  le catalyseur transforme plusieurs polluants.
+tags: [automobile, pollution, catalyseur, filtre, diesel]
+relatedArticles: [moteur-diesel-principe-et-declin, normes-demissions-euro]
+sources:
+  - title: "Air quality"
+    url: "https://www.eea.europa.eu/en/topics/air"
+    publisher: "Agence européenne pour l'environnement"
+    date: "2025"
+quiz:
+  - question: "Que fait un filtre à particules ?"
+    options:
+      - "Il capture une partie des particules des gaz d'échappement"
+      - "Il stocke le carburant"
+      - "Il refroidit l'habitacle"
+    answer: 1
+    explanation: >
+      Les suies sont retenues puis brûlées périodiquement lors d'une régénération contrôlée.
+  - question: "Que peuvent provoquer des petits trajets répétés sur le filtre à particules ?"
+    options:
+      - "Ils l'entretiennent naturellement"
+      - "Ils empêchent la régénération, qui a besoin de température, de se dérouler correctement"
+      - "Ils n'ont aucun effet sur son fonctionnement"
+    answer: 2
+    explanation: >
+      Le filtre doit atteindre une température suffisante pour brûler la suie accumulée. Des
+      trajets trop courts empêchent souvent cette régénération.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Réduire les émissions ne consiste pas uniquement à améliorer la combustion. Une partie du travail
+se fait dans la ligne d'échappement.
+
+## Le catalyseur
+
+Ses surfaces revêtues de métaux accélèrent des réactions chimiques qui transforment certains
+polluants en substances moins nocives. Il doit atteindre une température suffisante pour être
+efficace.
+
+## Le filtre à particules
+
+Il piège la suie dans une structure poreuse. Lorsque la charge augmente, le système élève la
+température afin de brûler les dépôts. Les petits trajets répétés peuvent empêcher cette
+régénération de se dérouler correctement.
+
+## À retenir
+
+- Le catalyseur transforme chimiquement certains polluants.
+- Le filtre retient puis brûle des particules.
+- Un usage inadapté peut perturber la régénération du filtre.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La transmission intégrale et le différentiel
+slug: transmission-integrale-differentiel
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Le différentiel permet aux roues d'un même essieu de parcourir des distances différentes. La
+  transmission intégrale répartit le couple lorsque l'adhérence varie.
+tags: [automobile, transmission, differentiel, 4x4, adherence]
+relatedArticles: [pneus-contact-route-adherence, fonctionnement-boite-de-vitesses]
+sources:
+  - title: "Differential"
+    url: "https://www.britannica.com/technology/differential-mechanics"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Pourquoi faut-il un différentiel dans un virage ?"
+    options:
+      - "Les roues intérieures et extérieures parcourent des distances différentes"
+      - "Pour refroidir la boîte"
+      - "Pour augmenter la hauteur de caisse"
+    answer: 1
+    explanation: >
+      Sans différentiel, les roues devraient tourner à la même vitesse et pourraient ripper ou
+      forcer la transmission.
+  - question: "Pourquoi les roues d'une voiture ont-elles besoin d'un différentiel ?"
+    options:
+      - "Pour freiner plus fort en virage"
+      - "Parce que la roue extérieure d'un virage parcourt un arc plus long que la roue intérieure"
+      - "Pour économiser du carburant sur autoroute"
+    answer: 2
+    explanation: >
+      Sans différentiel, les roues d'un même essieu ne pourraient pas tourner à des vitesses
+      différentes, ce qui rendrait les virages impossibles sans contrainte excessive.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Dans un virage, la roue extérieure parcourt un arc plus long que la roue intérieure. Elles ne
+peuvent donc pas tourner exactement à la même vitesse.
+
+## Le différentiel
+
+Un ensemble d'engrenages autorise cette différence tout en transmettant le couple. Sur une route
+très glissante, il peut toutefois envoyer l'essentiel du couple à la roue qui patine.
+
+## La transmission intégrale
+
+Elle entraîne deux essieux et peut répartir le couple selon l'adhérence, la vitesse et le mode de
+conduite. Elle améliore la motricité, mais ajoute poids, frottements et consommation.
+
+## À retenir
+
+- Le différentiel rend les virages possibles sans contrainte excessive.
+- La transmission intégrale aide surtout lorsque l'adhérence est asymétrique.
+- Plus de motricité ne signifie pas automatiquement plus de capacité de freinage.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La direction assistée et la maniabilité
+slug: direction-assistee-maniabilite
+categoryPath: automobile/securite-et-conduite
+summary: >
+  La direction transmet l'intention du conducteur aux roues. L'assistance réduit l'effort, tandis
+  que la géométrie détermine stabilité et précision.
+tags: [automobile, direction, assistance, maniabilite, securite]
+relatedArticles: [suspension-confort-tenue-de-route, pneus-contact-route-adherence]
+sources:
+  - title: "Automotive steering"
+    url: "https://www.britannica.com/technology/steering"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Quel est le rôle de la direction assistée ?"
+    options:
+      - "Réduire l'effort nécessaire pour orienter les roues"
+      - "Augmenter le volume du coffre"
+      - "Remplacer les amortisseurs"
+    answer: 1
+    explanation: >
+      Un moteur électrique ou un circuit hydraulique apporte une assistance, sans remplacer la
+      liaison de direction.
+  - question: "Quel est le compromis d'une direction très démultipliée ?"
+    options:
+      - "Elle facilite les manœuvres mais demande davantage de rotation du volant"
+      - "Elle est toujours plus rapide à manier qu'une direction directe"
+      - "Elle supprime le besoin de suspension"
+    answer: 1
+    explanation: >
+      Une direction démultipliée rend les manœuvres plus faciles, au prix d'un volant qu'il
+      faut tourner davantage pour un même angle de roues.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Le volant agit sur les roues directrices. La géométrie du train avant, les pneus et la suspension
+font ensuite la différence entre une voiture stable et une voiture nerveuse.
+
+## Assistance électrique
+
+Les systèmes modernes utilisent souvent un moteur électrique. Ils consomment surtout lorsqu'une
+correction est demandée et peuvent intégrer des fonctions d'aide au stationnement ou de maintien
+dans la voie.
+
+## Une question de compromis
+
+Une direction très démultipliée facilite les manœuvres mais demande davantage de rotation. Une
+direction directe est plus réactive, mais peut devenir sensible aux erreurs et aux irrégularités.
+
+## À retenir
+
+- L'assistance réduit l'effort, elle ne crée pas l'adhérence.
+- La géométrie influence stabilité et précision.
+- Les systèmes électriques facilitent l'intégration d'aides à la conduite.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Comment fonctionnent les capteurs ADAS
+slug: capteurs-adas-radar-camera-lidar
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Caméra, radar, ultrasons et lidar ne perçoivent pas le monde de la même façon. La fusion de leurs
+  informations compense leurs limites respectives.
+tags: [automobile, ADAS, radar, camera, lidar]
+relatedArticles: [technologies-aide-conduite-efficacite, freinage-durgence-automatique]
+sources:
+  - title: "ADAS Specialist"
+    url: "https://ase.com/tests/l4/"
+    publisher: "ASE"
+    date: "2026"
+  - title: "Lidar and radar"
+    url: "https://www.techbriefs.com/component/content/article/47810-doc-8948"
+    publisher: "Tech Briefs"
+    date: "2023"
+quiz:
+  - question: "Pourquoi utiliser plusieurs types de capteurs ?"
+    options:
+      - "Parce que chacun possède des forces et des limites différentes"
+      - "Pour augmenter le poids sans raison"
+      - "Pour remplacer les pneus"
+    answer: 1
+    explanation: >
+      La caméra reconnaît les formes, le radar mesure bien distance et vitesse, les ultrasons
+      servent aux courtes distances et le lidar produit une représentation tridimensionnelle.
+  - question: "Pourquoi combine-t-on plusieurs capteurs, comme la caméra, le radar et le lidar ?"
+    options:
+      - "Pour réduire les coûts de fabrication"
+      - "Parce qu'aucun capteur ne suffit seul dans toutes les situations"
+      - "Parce que la réglementation impose ce nombre précis"
+    answer: 2
+    explanation: >
+      Chaque capteur a ses limites propres : la fusion des mesures améliore la robustesse de
+      la perception, sans supprimer les limites de météo ou de calibration.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Un système d'aide ne voit pas comme un humain. Il combine plusieurs capteurs afin d'estimer la
+position, la vitesse et la nature des objets autour du véhicule.
+
+## Les rôles
+
+La caméra lit les lignes et reconnaît les véhicules, piétons et panneaux. Le radar mesure distance
+et vitesse, même dans des conditions où l'image est dégradée. Les ultrasons couvrent les manœuvres
+à basse vitesse. Le lidar mesure des distances par impulsions lumineuses et construit une carte 3D.
+
+## La fusion
+
+Un calculateur compare les mesures et cherche une interprétation cohérente. Cette redondance aide
+le système à détecter une erreur, mais elle ne supprime pas les limites de visibilité, de météo ou
+de calibration.
+
+## À retenir
+
+- Aucun capteur ne suffit dans toutes les situations.
+- La fusion améliore la robustesse de la perception.
+- Un choc ou un remplacement de pare-brise peut nécessiter une recalibration.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La communication entre véhicules et infrastructures
+slug: communication-v2x-vehicule-infrastructure
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  La technologie V2X permet aux véhicules d'échanger avec d'autres véhicules, des piétons et la
+  route afin d'anticiper certains dangers invisibles.
+tags: [automobile, V2X, connectivite, securite, infrastructure]
+relatedArticles: [voitures-connectees-cybersecurite, niveaux-dautomatisation-de-la-conduite]
+sources:
+  - title: "V2X deployment"
+    url: "https://www.swri.org/newsroom/annual-report/2024/automotive-transportation"
+    publisher: "Southwest Research Institute"
+    date: "2024"
+  - title: "Vehicle regulations"
+    url: "https://unece.org/transport/vehicle-regulations"
+    publisher: "UNECE"
+    date: "2025"
+quiz:
+  - question: "Que signifie V2X ?"
+    options:
+      - "Vehicle to Everything, communication avec l'environnement connecté"
+      - "Vitesse variable pour pneus"
+      - "Ventilation deux fois plus puissante"
+    answer: 1
+    explanation: >
+      V2V concerne les véhicules, V2I l'infrastructure et V2P les piétons ou cyclistes équipés.
+  - question: "Que regroupe la communication V2X ?"
+    options:
+      - "Uniquement les communications entre deux voitures"
+      - "Les communications véhicule-véhicule, véhicule-infrastructure et véhicule-piéton"
+      - "Uniquement la réception de la radio"
+    answer: 2
+    explanation: >
+      V2X est un terme général qui inclut V2V, V2I et V2P : le véhicule échange des
+      informations avec plusieurs types d'acteurs de la route.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Une voiture équipée de capteurs ne perçoit pas toujours un véhicule caché par un camion ou un
+virage. Une communication avec l'environnement peut fournir une information en avance.
+
+## Les usages
+
+Un véhicule peut recevoir l'alerte d'un freinage brutal en amont, d'un chantier, d'un feu ou d'un
+véhicule d'urgence. L'infrastructure peut aussi ajuster les feux selon le trafic.
+
+## La limite essentielle
+
+Le système ne doit pas supposer que tous les usagers sont connectés. La perception classique reste
+nécessaire. Les messages doivent également être authentifiés et protégés contre les fausses alertes.
+
+## À retenir
+
+- V2X regroupe V2V, V2I et V2P.
+- La technologie peut signaler un danger hors du champ visuel.
+- Elle complète les capteurs et dépend de la cybersécurité.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le risque d'emballement thermique des batteries
+slug: emballement-thermique-batterie-electrique
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Une batterie lithium-ion peut produire sa propre chaleur lors d'un défaut. La sécurité repose sur
+  la surveillance, le refroidissement et la limitation de la propagation entre cellules.
+tags: [automobile, batterie, securite, thermique, incendie]
+relatedArticles: [chimies-batteries-lithium-ion-automobile, recyclage-batteries-vehicules-electriques]
+sources:
+  - title: "Battery safety roadmap"
+    url: "https://www.energy.gov/sites/default/files/2023-10/21CTP_Safety_TST_Roadmap_approved_09-22-2023_compliant.pdf"
+    publisher: "U.S. Department of Energy"
+    date: "2023"
+quiz:
+  - question: "Que cherche à empêcher le système de gestion de batterie ?"
+    options:
+      - "La surcharge, la surchauffe et la propagation d'un défaut"
+      - "La pluie sur la carrosserie"
+      - "La baisse du niveau d'huile"
+    answer: 1
+    explanation: >
+      Le BMS surveille les cellules et peut réduire la puissance ou isoler le pack lorsqu'un
+      paramètre devient dangereux.
+  - question: "Que cherche avant tout à empêcher la conception d'une batterie de véhicule électrique ?"
+    options:
+      - "Qu'une cellule chauffe ses cellules voisines"
+      - "Que la batterie se recharge trop rapidement"
+      - "Que la batterie pèse trop lourd"
+    answer: 1
+    explanation: >
+      L'emballement thermique se propage d'une cellule à l'autre : empêcher cette propagation
+      est l'objectif principal des protections physiques et électroniques.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La batterie contient beaucoup d'énergie dans un volume compact. Un court-circuit interne, un choc,
+une surcharge ou une température excessive peut déclencher une réaction auto-entretenue.
+
+## Les protections
+
+Le BMS mesure tensions et températures. Des fusibles, contacteurs, barrières physiques et circuits
+de refroidissement isolent les défauts. La conception cherche surtout à empêcher qu'une cellule
+chauffe ses voisines.
+
+## Après un accident
+
+Un pack endommagé peut rester dangereux même lorsque le véhicule est arrêté. Les secours et les
+techniciens suivent donc des procédures spécifiques pour identifier, isoler et transporter une
+batterie accidentée.
+
+## À retenir
+
+- L'emballement thermique est une réaction de sécurité critique.
+- Le BMS ne remplace pas les protections physiques.
+- Une batterie accidentée doit être évaluée par des professionnels formés.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La voiture à hydrogène et la pile à combustible
+slug: voiture-hydrogene-pile-combustible
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Une pile à combustible transforme l'hydrogène en électricité à bord. Elle évite les émissions
+  directes de CO2, mais dépend d'une production et d'une distribution d'hydrogène adaptées.
+tags: [automobile, hydrogene, pile-a-combustible, energie, transport]
+relatedArticles: [voiture-electrique, biocarburants-et-carburants-de-synthese]
+sources:
+  - title: "Hydrogen"
+    url: "https://www.iea.org/energy-system/low-emission-fuels/hydrogen"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Que produit principalement une pile à combustible alimentée en hydrogène ?"
+    options:
+      - "De l'électricité, de la chaleur et de l'eau"
+      - "Du gazole"
+      - "Du charbon"
+    answer: 1
+    explanation: >
+      La réaction électrochimique fournit l'électricité au moteur ; l'eau et la chaleur sont les
+      produits associés au niveau du véhicule.
+  - question: "Pourquoi l'hydrogène n'est-il pas automatiquement une énergie bas-carbone ?"
+    options:
+      - "Parce qu'il est toujours produit à partir de charbon"
+      - "Parce que son bilan carbone dépend entièrement de la méthode utilisée pour le produire"
+      - "Parce que l'hydrogène est radioactif"
+    answer: 2
+    explanation: >
+      Produire de l'hydrogène consomme de l'énergie : son impact réel dépend donc de la source
+      d'électricité ou de gaz utilisée en amont.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La voiture à hydrogène est une voiture électrique dont l'électricité est produite à bord. Une pile
+à combustible combine hydrogène et oxygène pour alimenter le moteur.
+
+## Ses atouts
+
+Le plein peut être rapide et l'autonomie adaptée aux longues distances. Le véhicule ne rejette pas
+de CO2 à l'échappement, mais de l'eau et de la chaleur.
+
+## Ses difficultés
+
+La chaîne complète perd davantage d'énergie que l'électricité directe. Il faut produire, comprimer,
+transporter et distribuer l'hydrogène. Les stations sont rares et les réservoirs doivent résister à
+une forte pression.
+
+## À retenir
+
+- La pile à combustible produit l'électricité à bord.
+- L'hydrogène n'est pas automatiquement bas-carbone : tout dépend de sa production.
+- L'infrastructure limite encore les usages automobiles particuliers.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les véhicules utilitaires et leurs contraintes
+slug: vehicules-utilitaires-transport-marchandises
+categoryPath: automobile/usages-et-mobilite
+summary: >
+  Une camionnette ne se juge pas comme une citadine : charge utile, temps d'immobilisation et
+  accès urbain déterminent son coût et sa motorisation.
+tags: [automobile, utilitaire, logistique, electrique, livraison]
+relatedArticles: [production-automobile-mondiale, voiture-electrique]
+sources:
+  - title: "Transport"
+    url: "https://www.iea.org/energy-system/transport"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Pourquoi l'électrification d'un utilitaire est-elle plus complexe ?"
+    options:
+      - "La charge et les kilomètres quotidiens influencent fortement la taille de batterie"
+      - "Les utilitaires n'ont pas de roues"
+      - "Ils ne peuvent pas être rechargés"
+    answer: 1
+    explanation: >
+      Une batterie plus grosse augmente l'autonomie mais réduit la charge utile et renchérit le
+      véhicule. Le dimensionnement dépend donc de la mission réelle.
+  - question: "Pourquoi une flotte professionnelle peut-elle mieux dimensionner sa batterie qu'un particulier ?"
+    options:
+      - "Parce qu'elle paie l'électricité moins cher"
+      - "Parce qu'elle connaît mieux ses trajets réels et peut planifier les recharges"
+      - "Parce que la loi l'y oblige"
+    answer: 2
+    explanation: >
+      Un trajet répétitif et connu à l'avance permet de choisir une batterie ni trop grande ni
+      trop petite, contrairement à un usage particulier plus imprévisible.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Un véhicule utilitaire est un outil de travail. Il transporte des marchandises, parcourt parfois
+un itinéraire répétitif et doit rester disponible pendant les heures d'activité.
+
+## Le dimensionnement
+
+Une batterie surdimensionnée coûte cher et réduit la charge utile. Une batterie trop petite peut
+imposer des recharges pendant la tournée. Les flottes connaissent souvent mieux leurs trajets que
+les particuliers et peuvent donc planifier plus efficacement.
+
+## La logistique urbaine
+
+Les restrictions de circulation, le bruit nocturne et les livraisons du dernier kilomètre rendent
+les véhicules propres particulièrement intéressants en ville, à condition de disposer d'une
+recharge au dépôt.
+
+## À retenir
+
+- La mission réelle détermine la bonne motorisation.
+- La charge utile est aussi importante que l'autonomie.
+- Les dépôts peuvent faciliter la recharge des flottes.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Pourquoi les SUV ont changé le marché automobile
+slug: essor-suv-marche-automobile
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Les SUV combinent position de conduite élevée, espace et image robuste, mais leur taille modifie
+  consommation, prix, sécurité des autres usagers et occupation de l'espace.
+tags: [automobile, SUV, marche, poids, urbanisme]
+relatedArticles: [marche-automobile-mondial-regions, augmentation-poids-voitures]
+sources:
+  - title: "Global Fuel Economy Initiative"
+    url: "https://www.iea.org/topics/fuel-economy"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Pourquoi un SUV peut-il consommer davantage qu'une berline équivalente ?"
+    options:
+      - "Sa masse et sa surface frontale sont souvent plus élevées"
+      - "Parce qu'il n'a pas de moteur"
+      - "Parce que ses vitres sont plus petites"
+    answer: 1
+    explanation: >
+      Masse et aérodynamique augmentent généralement l'énergie nécessaire, même si les progrès
+      techniques réduisent l'écart entre modèles.
+  - question: "La consommation d'un SUV dépend-elle uniquement de sa silhouette ?"
+    options:
+      - "Oui, la forme haute explique tout"
+      - "Non, le modèle, la motorisation et l'usage réel comptent aussi"
+      - "Oui, car tous les SUV consomment de la même façon"
+    answer: 2
+    explanation: >
+      Une carrosserie haute augmente souvent la surface frontale, mais la consommation finale
+      dépend aussi de la motorisation choisie et de la façon dont le véhicule est utilisé.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Le SUV est devenu une silhouette dominante dans de nombreux marchés. Il répond à une demande de
+position haute, d'espace et de polyvalence perçue.
+
+## Les effets techniques
+
+Une carrosserie plus haute augmente souvent la surface frontale. Les grandes roues et les
+équipements ajoutent du poids. La consommation dépend toutefois du modèle, de la motorisation et
+de l'usage, pas uniquement de la forme.
+
+## Les effets urbains
+
+Un véhicule plus volumineux occupe davantage d'espace de stationnement et peut présenter un risque
+plus important pour certains usagers vulnérables. Cela alimente le débat sur la taille plutôt que
+sur la seule motorisation.
+
+## À retenir
+
+- Le succès des SUV est à la fois technique, commercial et culturel.
+- Taille, poids et aérodynamique influencent leur efficacité.
+- Le choix d'un véhicule devrait être proportionné à l'usage réel.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Comment calculer le coût total d'une voiture
+slug: cout-total-possession-voiture
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Le prix d'achat n'est qu'une partie de la dépense. Décote, énergie, assurance, entretien,
+  financement et stationnement déterminent le coût réel par kilomètre.
+tags: [automobile, cout, achat, assurance, entretien]
+relatedArticles: [marche-de-loccasion-et-valeur-residuelle, controle-technique-securite-pollution]
+sources:
+  - title: "Transport"
+    url: "https://www.ademe.fr/"
+    publisher: "ADEME"
+    date: "2025"
+quiz:
+  - question: "Quel poste est souvent oublié dans le coût d'une voiture ?"
+    options:
+      - "La décote"
+      - "La couleur"
+      - "Le nombre de portes"
+    answer: 1
+    explanation: >
+      La valeur perdue à la revente est une dépense économique réelle, même si elle n'est pas
+      payée chaque mois comme le carburant.
+  - question: "Pourquoi une voiture moins chère à l'achat n'est-elle pas forcément la moins coûteuse au final ?"
+    options:
+      - "Parce que le prix affiché inclut toujours tout"
+      - "Parce que la décote, l'entretien et l'énergie s'ajoutent au prix d'achat"
+      - "Parce que l'assurance est toujours gratuite"
+    answer: 2
+    explanation: >
+      Le coût total additionne achat, énergie, assurance, entretien et taxes, puis retire la
+      valeur de revente : un prix d'achat bas peut cacher une forte décote ou des réparations
+      coûteuses.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Pour comparer deux voitures, il faut additionner les dépenses sur une période donnée puis retirer
+la valeur de revente. Le résultat peut surprendre : une voiture moins chère à l'achat n'est pas
+forcément la moins coûteuse.
+
+## La formule simple
+
+Coût total = achat ou financement + énergie + assurance + entretien + pneus + taxes + stationnement
+− valeur de revente. Diviser par les kilomètres donne un coût par kilomètre comparable.
+
+## Les variables cachées
+
+Une faible consommation ne compense pas toujours une forte décote. Un modèle fiable peut coûter
+plus cher à l'achat mais moins en réparations. Le kilométrage annuel change aussi l'intérêt d'un
+véhicule électrique, hybride ou thermique.
+
+## À retenir
+
+- Le coût total dépasse largement le prix affiché.
+- La décote doit être intégrée au calcul.
+- Comparer par kilomètre aide à éviter les fausses bonnes affaires.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les rappels automobiles et la traçabilité
+slug: rappels-automobiles-securite
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Un rappel corrige un défaut identifié après la production. La traçabilité par numéro de série
+  permet de prévenir les propriétaires concernés.
+tags: [automobile, rappel, securite, constructeur, regulation]
+relatedArticles: [plateformes-modulaires-et-standardisation, controle-technique-securite-pollution]
+sources:
+  - title: "Vehicle safety recalls"
+    url: "https://www.nhtsa.gov/recalls"
+    publisher: "NHTSA"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les rappels peuvent-ils concerner plusieurs modèles ?"
+    options:
+      - "Parce qu'ils partagent parfois une même pièce ou plateforme"
+      - "Parce que toutes les voitures ont la même couleur"
+      - "Parce qu'un modèle est toujours vendu seul"
+    answer: 1
+    explanation: >
+      Un composant commun peut être installé dans plusieurs modèles et plusieurs années de
+      production.
+  - question: "Comment un constructeur identifie-t-il les véhicules concernés par un rappel ?"
+    options:
+      - "Au hasard, parmi tous les modèles vendus"
+      - "Grâce aux numéros de série des véhicules concernés"
+      - "En se fiant à la couleur du véhicule"
+    answer: 2
+    explanation: >
+      La traçabilité par numéro de série permet de cibler précisément les véhicules touchés
+      par le défaut, sans rappeler l'ensemble de la gamme.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Un rappel n'est pas nécessairement la preuve que toute une voiture est dangereuse. Il signifie
+qu'un défaut identifié justifie une action corrective selon un niveau de risque défini.
+
+## La chaîne du rappel
+
+Le constructeur identifie le problème, détermine les véhicules concernés grâce aux numéros de
+série, informe les autorités et les propriétaires, puis organise la réparation généralement sans
+frais pour le défaut couvert.
+
+## Pourquoi vérifier
+
+Un propriétaire peut avoir acheté une voiture d'occasion après l'annonce du rappel. Vérifier le
+VIN ou l'immatriculation auprès du constructeur permet de savoir si l'intervention a été réalisée.
+
+## À retenir
+
+- Un rappel corrige un défaut identifié après commercialisation.
+- La traçabilité relie une pièce à une série de véhicules.
+- Il faut vérifier les rappels lors de l'achat d'occasion.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La réparation et le diagnostic électronique
+slug: diagnostic-electronique-reparation-automobile
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Le mécanicien ne cherche plus seulement une panne mécanique : il interprète des données,
+  historiques et codes défauts, puis vérifie la cause réelle.
+tags: [automobile, diagnostic, OBD, reparation, electronique]
+relatedArticles: [voiture-definie-par-logiciel, semi-conducteurs-automobile]
+sources:
+  - title: "ADAS Specialist"
+    url: "https://ase.com/tests/l4/"
+    publisher: "ASE"
+    date: "2026"
+quiz:
+  - question: "Un code défaut identifie-t-il toujours directement la pièce à remplacer ?"
+    options:
+      - "Oui, sans aucun contrôle"
+      - "Non, il indique un système ou une anomalie à confirmer par des mesures"
+      - "Il indique uniquement la couleur"
+    answer: 2
+    explanation: >
+      Un capteur peut signaler une valeur incohérente à cause d'un câblage, d'une alimentation ou
+      d'un autre composant défectueux.
+  - question: "Que faut-il faire d'un code défaut relevé lors d'un diagnostic électronique ?"
+    options:
+      - "L'effacer immédiatement sans autre vérification"
+      - "L'interpréter en le croisant avec d'autres données et des tests physiques"
+      - "Changer systématiquement toutes les pièces électroniques"
+    answer: 2
+    explanation: >
+      Le code n'est que le point de départ du raisonnement : le technicien doit le confronter
+      aux symptômes, aux données en direct et à des tests pour trouver la vraie cause.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Les véhicules enregistrent des informations sur leurs systèmes. Une prise de diagnostic peut
+révéler un code, mais le code n'est que le début du raisonnement.
+
+## Le bon diagnostic
+
+Le technicien compare symptômes, données en direct, schémas électriques et tests physiques. Changer
+une pièce au hasard coûte cher et peut masquer la cause.
+
+## La spécialisation augmente
+
+Batteries haute tension, radars, caméras et réseaux de calculateurs demandent des procédures et des
+outils adaptés. Une réparation correcte inclut parfois une programmation ou une calibration.
+
+## À retenir
+
+- Un code défaut doit être interprété, pas simplement effacé.
+- Les véhicules modernes combinent mécanique, électricité et logiciel.
+- La compétence et l'outillage deviennent déterminants.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La durée de vie d'une voiture dépend-elle du kilométrage
+slug: duree-vie-voiture-kilometrage-entretien
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Le kilométrage ne suffit pas à prédire la fiabilité. L'entretien, les trajets, le climat, le
+  stockage et la qualité de conception comptent souvent autant.
+tags: [automobile, fiabilite, kilometrage, entretien, occasion]
+relatedArticles: [marche-de-loccasion-et-valeur-residuelle, controle-technique-securite-pollution]
+sources:
+  - title: "Roadworthiness"
+    url: "https://transport.ec.europa.eu/transport-themes/road-safety/roadworthiness_en"
+    publisher: "Commission européenne"
+    date: "2025"
+quiz:
+  - question: "Pourquoi deux voitures avec le même kilométrage peuvent-elles être très différentes ?"
+    options:
+      - "Leurs usages et leur entretien peuvent différer fortement"
+      - "Le kilométrage est toujours identique"
+      - "L'âge ne compte jamais"
+    answer: 1
+    explanation: >
+      Autoroute régulière, petits trajets urbains, climat salin et entretien négligé n'usent pas
+      les organes de la même façon.
+  - question: "Quel document aide le mieux à évaluer la trajectoire réelle d'un véhicule d'occasion ?"
+    options:
+      - "Le kilométrage affiché, à lui seul"
+      - "L'historique cohérent d'entretien et de réparations"
+      - "La couleur de la carrosserie"
+    answer: 2
+    explanation: >
+      Un compteur ne raconte qu'une partie de l'histoire : les factures et contrôles
+      renseignent bien mieux sur l'usage réel du véhicule.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Un compteur ne raconte qu'une partie de l'histoire. Une voiture qui a fait beaucoup d'autoroute
+peut être moins sollicitée qu'une autre ayant parcouru moins de kilomètres en ville.
+
+## L'âge et l'usage
+
+Joints, caoutchoucs, batteries auxiliaires et fluides vieillissent aussi avec le temps. Les
+trajets courts multiplient les démarrages à froid. Le sel, l'humidité et les fortes chaleurs
+accélèrent certains vieillissements.
+
+## Le document le plus utile
+
+Un historique cohérent : factures, contrôles, opérations prévues et réparations importantes. Il
+permet de comprendre la trajectoire du véhicule plutôt que de regarder un seul chiffre.
+
+## À retenir
+
+- Kilométrage et âge mesurent des contraintes différentes.
+- Le type de trajet influence l'usure.
+- L'historique d'entretien vaut mieux qu'une impression visuelle seule.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La recharge bidirectionnelle et le véhicule-réseau
+slug: recharge-bidirectionnelle-vehicule-reseau
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Une voiture électrique peut parfois restituer son énergie à une maison ou au réseau. L'intérêt
+  dépend de la compatibilité, du contrat et de l'usure de la batterie.
+tags: [automobile, electrique, recharge, V2G, energie]
+relatedArticles: [recharge-et-infrastructure-des-bornes, chimies-batteries-lithium-ion-automobile]
+sources:
+  - title: "Electric vehicles"
+    url: "https://www.iea.org/energy-system/transport/electric-vehicles"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Que permet la recharge bidirectionnelle ?"
+    options:
+      - "De charger la voiture et parfois de renvoyer de l'électricité vers une maison ou un réseau"
+      - "De rouler sans batterie"
+      - "De produire de l'essence"
+    answer: 1
+    explanation: >
+      Le chargeur fonctionne dans les deux sens, à condition que le véhicule, la borne et le
+      cadre électrique soient compatibles.
+  - question: "Que permet le mode V2H (vehicle-to-home) ?"
+    options:
+      - "De recharger uniquement une autre voiture"
+      - "D'alimenter une maison à partir de la batterie du véhicule"
+      - "De faire rouler la voiture plus vite"
+    answer: 2
+    explanation: >
+      V2H, V2G et V2L désignent trois usages différents de la recharge bidirectionnelle : V2H
+      consiste précisément à alimenter un logement.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Une voiture stationnée représente une batterie mobile. Avec une borne bidirectionnelle, elle peut
+absorber de l'électricité lorsque le réseau est disponible puis en restituer lors d'un besoin.
+
+## Trois usages
+
+V2H alimente une maison, V2G échange avec le réseau et V2L fournit directement de l'électricité à
+des appareils. Les fonctions disponibles dépendent du véhicule et du chargeur.
+
+## Les conditions
+
+Il faut une norme compatible, une installation adaptée et un contrat qui précise la rémunération et
+la gestion de la batterie. Le pilotage doit préserver une réserve pour le déplacement prévu.
+
+## À retenir
+
+- La voiture peut devenir un élément du système électrique.
+- Compatibilité et réglementation sont indispensables.
+- Le bénéfice doit être comparé à l'usure et à la perte de disponibilité.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La conduite économe et l'éco-conduite
+slug: eco-conduite-consommation-securite
+categoryPath: automobile/usages-et-mobilite
+summary: >
+  Anticiper, accélérer progressivement et limiter la vitesse réduisent la consommation. La bonne
+  éco-conduite améliore aussi la sécurité sans inciter à rouler dangereusement lentement.
+tags: [automobile, ecoconduite, consommation, securite, vitesse]
+relatedArticles: [autonomie-reelle-et-cycle-dhomologation, pneus-contact-route-adherence]
+sources:
+  - title: "Fuel economy"
+    url: "https://www.iea.org/topics/fuel-economy"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Quel comportement réduit généralement la consommation ?"
+    options:
+      - "Anticiper et éviter les accélérations puis freinages inutiles"
+      - "Gonfler les pneus au hasard"
+      - "Laisser le moteur tourner à l'arrêt"
+    answer: 1
+    explanation: >
+      Anticiper conserve davantage d'énergie et réduit les pertes liées aux accélérations et aux
+      freinages répétés.
+  - question: "Que ne faut-il jamais sacrifier pour réduire sa consommation de carburant ?"
+    options:
+      - "Le confort des passagers"
+      - "La sécurité et la fluidité de la circulation"
+      - "La climatisation, dans tous les cas"
+    answer: 2
+    explanation: >
+      Certains gestes d'éco-conduite, comme rouler trop lentement ou couper des systèmes de
+      sécurité, sont contre-productifs : la sécurité reste toujours prioritaire.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La consommation dépend de la voiture, mais aussi de la manière de l'utiliser. L'énergie dépensée
+pour accélérer est souvent perdue au freinage si l'on n'anticipe pas.
+
+## Les gestes efficaces
+
+Regarder loin, maintenir une vitesse stable, vérifier la pression des pneus, retirer les charges
+inutiles et utiliser le chauffage ou la climatisation avec mesure. Sur une électrique, le freinage
+régénératif récupère une partie de l'énergie, mais ne rend pas toute l'énergie dépensée.
+
+## Ce qu'il ne faut pas faire
+
+Rouler trop lentement pour gêner la circulation, couper des systèmes de sécurité ou se mettre au
+point mort dans une situation inadaptée. La sécurité et la fluidité restent prioritaires.
+
+## À retenir
+
+- Anticiper est souvent le geste le plus efficace.
+- Vitesse, pneus, charge et climatisation influencent la consommation.
+- L'éco-conduite ne doit jamais dégrader la sécurité.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La place de la voiture dans la ville
+slug: voiture-espace-urbain-stationnement
+categoryPath: automobile/usages-et-mobilite
+summary: >
+  Une voiture en mouvement demande une voirie ; une voiture à l'arrêt demande du stationnement.
+  La place consacrée à ces deux usages influence la forme et le coût de la ville.
+tags: [automobile, ville, stationnement, urbanisme, mobilite]
+relatedArticles: [autopartage-et-covoiturage, essor-suv-marche-automobile]
+sources:
+  - title: "Urban mobility"
+    url: "https://www.ademe.fr/"
+    publisher: "ADEME"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le stationnement est-il un sujet de mobilité ?"
+    options:
+      - "Parce que chercher une place ajoute du trafic et du temps au déplacement"
+      - "Parce qu'il ne concerne que les garages privés"
+      - "Parce qu'une voiture ne s'arrête jamais"
+    answer: 1
+    explanation: >
+      Le stationnement occupe de l'espace et peut provoquer des tours de quartier ou des trajets
+      supplémentaires.
+  - question: "Comment un stationnement abondant et peu coûteux influence-t-il l'usage de la voiture en ville ?"
+    options:
+      - "Il le décourage fortement"
+      - "Il l'encourage, en réduisant le coût perçu de l'usage automobile"
+      - "Il n'a aucun effet mesurable"
+    answer: 2
+    explanation: >
+      Un stationnement facile et bon marché incite à utiliser la voiture ; une tarification
+      mieux conçue peut au contraire réduire la recherche de places.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La voiture n'est pas seulement un moyen de déplacement. Elle occupe une place lorsqu'elle est
+stationnée et requiert une infrastructure lorsqu'elle circule.
+
+## Un arbitrage d'espace
+
+Rue, trottoir, piste cyclable, arbres, terrasses et stationnement se partagent une largeur limitée.
+La décision révèle les priorités d'une ville et le prix réel de chaque usage.
+
+## Le levier du stationnement
+
+Un stationnement abondant et peu coûteux encourage l'usage automobile. Une tarification ou une
+régulation mieux conçue peut réduire la recherche de places et financer des alternatives, mais elle
+doit tenir compte des besoins des résidents et des personnes à mobilité réduite.
+
+## À retenir
+
+- La voiture consomme de l'espace même lorsqu'elle ne roule pas.
+- Le stationnement influence la circulation et les choix de transport.
+- L'aménagement urbain peut changer les comportements sans changer les voitures.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le freinage régénératif expliqué
+slug: freinage-regeneratif-explication
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Une voiture électrique peut transformer une partie de son ralentissement en électricité. Le
+  système améliore l'efficacité, mais ne remplace pas les freins classiques.
+tags: [automobile, electrique, freinage, regeneration, energie]
+relatedArticles: [voiture-electrique, fonctionnement-freinage-abs]
+sources:
+  - title: "Electric vehicles"
+    url: "https://www.iea.org/energy-system/transport/electric-vehicles"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Que devient l'énergie lors du freinage régénératif ?"
+    options:
+      - "Une partie est convertie en électricité et renvoyée vers la batterie"
+      - "Elle disparaît sans aucune transformation"
+      - "Elle gonfle les pneus"
+    answer: 1
+    explanation: >
+      Le moteur fonctionne alors comme une génératrice. La récupération reste limitée par la
+      puissance acceptée par la batterie et par l'adhérence.
+  - question: "Pourquoi les freins à friction restent-ils nécessaires malgré le freinage régénératif ?"
+    options:
+      - "Parce que le freinage régénératif ne fonctionne jamais vraiment"
+      - "Parce qu'une batterie pleine, une urgence ou une faible adhérence limitent la récupération"
+      - "Parce que la loi l'exige, sans raison technique"
+    answer: 2
+    explanation: >
+      Le moteur-génératrice ne peut pas toujours absorber l'énergie du freinage : les freins
+      classiques restent indispensables pour immobiliser le véhicule en toute situation.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Dans une voiture classique, le frein dissipe l'énergie du mouvement sous forme de chaleur. Dans
+une voiture électrique, le moteur peut inverser son fonctionnement et récupérer une partie de cette
+énergie.
+
+## Une récupération partielle
+
+Le moteur devient génératrice et oppose un couple aux roues. L'électricité produite recharge la
+batterie, mais les pertes électriques et mécaniques empêchent de tout récupérer.
+
+## Pourquoi les freins restent nécessaires
+
+Un freinage d'urgence, une batterie pleine, une faible adhérence ou une très basse vitesse peuvent
+réduire la récupération. Les freins à friction restent indispensables pour immobiliser le véhicule.
+
+## À retenir
+
+- Le freinage régénératif récupère une partie de l'énergie.
+- Il réduit l'usage des plaquettes.
+- Il ne supprime pas le système de freinage classique.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La climatisation et le chauffage automobile
+slug: chauffage-climatisation-consommation-automobile
+categoryPath: automobile/usages-et-mobilite
+summary: >
+  Chauffer ou refroidir l'habitacle consomme de l'énergie. L'impact est particulièrement visible
+  dans une voiture électrique, qui dispose de peu de chaleur perdue.
+tags: [automobile, chauffage, climatisation, consommation, electrique]
+relatedArticles: [autonomie-reelle-et-cycle-dhomologation, voiture-electrique]
+sources:
+  - title: "Electric vehicles"
+    url: "https://www.iea.org/energy-system/transport/electric-vehicles"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le chauffage pénalise-t-il davantage une voiture électrique ?"
+    options:
+      - "Le moteur produit peu de chaleur récupérable"
+      - "La batterie devient un moteur thermique"
+      - "Les pneus refroidissent l'habitacle"
+    answer: 1
+    explanation: >
+      Une résistance ou une pompe à chaleur doit fournir l'énergie thermique, alors qu'un moteur
+      thermique rejette beaucoup de chaleur.
+  - question: "Pourquoi une pompe à chaleur est-elle plus efficace qu'une résistance électrique pour chauffer l'habitacle ?"
+    options:
+      - "Parce qu'elle crée de la chaleur à partir de rien"
+      - "Parce qu'elle transfère de la chaleur existante au lieu de la produire directement"
+      - "Parce qu'elle ne consomme aucune énergie"
+    answer: 2
+    explanation: >
+      Une pompe à chaleur déplace de la chaleur plutôt que de la générer, ce qui réduit la
+      consommation d'énergie par rapport à une résistance classique.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La climatisation prélève de l'énergie au moteur ou à la batterie. Le chauffage est un cas
+particulier : une voiture thermique peut réutiliser une partie de sa chaleur perdue, mais une
+électrique doit la produire ou la déplacer.
+
+## Pompe à chaleur
+
+Elle transfère de la chaleur au lieu de la créer directement. Son efficacité varie avec la
+température extérieure, mais elle peut réduire la consommation par rapport à une résistance.
+
+## Les bons réflexes
+
+Préchauffer une électrique pendant qu'elle est branchée, utiliser les sièges chauffants et régler
+raisonnablement la température limite la perte d'autonomie.
+
+## À retenir
+
+- Chauffage et climatisation influencent la consommation.
+- La pompe à chaleur est plus efficace qu'une résistance dans certaines conditions.
+- Le préconditionnement branché économise la batterie de traction.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: L'ergonomie et la fatigue au volant
+slug: ergonomie-fatigue-conduite
+categoryPath: automobile/securite-et-conduite
+summary: >
+  Position, visibilité, commandes et vigilance influencent la sécurité. Une voiture confortable ne
+  doit pas seulement être agréable : elle doit réduire les erreurs et la fatigue.
+tags: [automobile, ergonomie, fatigue, securite, conduite]
+relatedArticles: [technologies-aide-conduite-efficacite, niveaux-dautomatisation-de-la-conduite]
+sources:
+  - title: "Road safety"
+    url: "https://www.who.int/health-topics/road-safety"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+quiz:
+  - question: "Pourquoi l'ergonomie compte-t-elle pour la sécurité ?"
+    options:
+      - "Une commande mal placée détourne l'attention et augmente les erreurs"
+      - "Elle augmente automatiquement la puissance"
+      - "Elle remplace la ceinture"
+    answer: 1
+    explanation: >
+      Une information claire et une position adaptée réduisent le temps passé à chercher une
+      commande ou à corriger une posture inconfortable.
+  - question: "Les aides à la conduite suppriment-elles le risque de somnolence au volant ?"
+    options:
+      - "Oui, complètement"
+      - "Non, elles ne corrigent pas la fatigue et peuvent donner une fausse impression de sécurité"
+      - "Oui, si le véhicule est récent"
+    answer: 2
+    explanation: >
+      Un conducteur fatigué reste moins capable de détecter et corriger une erreur, quel que
+      soit le niveau d'assistance du véhicule.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Le conducteur est encore le principal opérateur du véhicule. La position des commandes, la
+lisibilité des informations et le réglage du siège peuvent donc influencer directement la sécurité.
+
+## La fatigue
+
+Long trajet, mauvaise posture, chaleur et écran trop chargé réduisent l'attention. Les aides à la
+conduite ne corrigent pas la somnolence et peuvent même donner une fausse impression de sécurité.
+
+## Une interface bien conçue
+
+Les informations urgentes doivent être visibles et compréhensibles. Les commandes essentielles
+restent accessibles sans détourner longuement les yeux de la route.
+
+## À retenir
+
+- Le confort et la sécurité ne sont pas séparés.
+- La fatigue réduit la capacité à détecter et corriger une erreur.
+- Une interface trop complexe peut annuler une partie du bénéfice technologique.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les collisions avec les piétons et les cyclistes
+slug: securite-pietons-cyclistes-automobile
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  La forme du véhicule, la vitesse et la visibilité influencent fortement les conséquences d'un
+  choc avec un usager vulnérable.
+tags: [automobile, pietons, cyclistes, securite, ville]
+relatedArticles: [ceinture-airbag-et-structures-deformables, technologies-aide-conduite-efficacite]
+sources:
+  - title: "Road traffic injuries"
+    url: "https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+quiz:
+  - question: "Quel facteur réduit fortement la gravité d'un choc avec un piéton ?"
+    options:
+      - "Une vitesse d'impact plus faible"
+      - "Des pneus plus brillants"
+      - "Une radio plus forte"
+    answer: 1
+    explanation: >
+      L'énergie du choc augmente fortement avec la vitesse. Réduire la vitesse laisse aussi plus
+      de temps pour détecter et éviter l'obstacle.
+  - question: "Qu'est-ce qui détermine le plus la gravité d'une collision avec un piéton ?"
+    options:
+      - "La couleur du véhicule"
+      - "La vitesse au moment du choc"
+      - "La marque du véhicule"
+    answer: 2
+    explanation: >
+      La vitesse au moment de l'impact est le facteur déterminant de la gravité des blessures,
+      avant même le type de véhicule impliqué.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Les piétons et cyclistes ne disposent pas d'une carrosserie protectrice. La sécurité dépend donc
+de la vitesse, de la visibilité, de l'aménagement de la route et des systèmes de détection.
+
+## La conception du véhicule
+
+Capot, pare-chocs, bords avant et systèmes de freinage automatique sont évalués pour réduire le
+risque et la gravité des blessures. La visibilité depuis le siège compte également.
+
+## Le rôle de la ville
+
+Éclairage, passages protégés, séparation des flux et limitation de vitesse complètent les
+technologies embarquées. Aucune caméra ne compense un environnement routier mal conçu.
+
+## À retenir
+
+- La vitesse est déterminante pour la gravité d'un choc.
+- La sécurité des usagers vulnérables combine véhicule et infrastructure.
+- Le conducteur doit rester attentif aux zones peu visibles.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les zones à faibles émissions et les restrictions de circulation
+slug: zones-faibles-emissions-automobile
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Les villes peuvent limiter l'accès des véhicules selon leurs émissions ou leur vignette. Ces
+  règles transforment la valeur et l'usage des voitures avant même leur interdiction totale.
+tags: [automobile, ZFE, pollution, ville, regulation]
+relatedArticles: [normes-demissions-euro, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Air quality"
+    url: "https://environment.ec.europa.eu/topics/air_en"
+    publisher: "Commission européenne"
+    date: "2025"
+quiz:
+  - question: "Quel est l'objectif principal d'une zone à faibles émissions ?"
+    options:
+      - "Réduire l'exposition aux polluants routiers dans une zone donnée"
+      - "Augmenter la vitesse maximale"
+      - "Interdire toutes les voitures partout"
+    answer: 1
+    explanation: >
+      Les restrictions ciblent certains véhicules ou certaines périodes afin d'améliorer la qualité
+      de l'air localement.
+  - question: "Sur quoi agit une zone à faibles émissions, contrairement à une norme d'homologation ?"
+    options:
+      - "Uniquement sur les véhicules neufs"
+      - "Sur les véhicules qui circulent déjà dans un territoire donné"
+      - "Sur le prix du carburant à la pompe"
+    answer: 2
+    explanation: >
+      Une norme d'homologation s'applique aux véhicules neufs, tandis qu'une zone à faibles
+      émissions restreint la circulation des véhicules déjà en usage.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Une norme d'homologation concerne les véhicules neufs. Une zone à faibles émissions agit sur les
+véhicules qui circulent déjà dans un territoire. Les deux mécanismes sont donc différents.
+
+## Les effets
+
+Les règles peuvent accélérer le renouvellement du parc, modifier les prix de l'occasion et pousser
+les entreprises à adapter leurs flottes. Leur efficacité dépend du contrôle, du périmètre et des
+alternatives disponibles.
+
+## Une transition à organiser
+
+Les ménages qui ne peuvent pas changer de voiture immédiatement ont besoin d'information, d'aides
+ou de solutions de transport crédibles. Une restriction isolée peut déplacer le trafic plutôt que
+le réduire.
+
+## À retenir
+
+- Une ZFE agit localement sur les véhicules en circulation.
+- Les restrictions influencent le marché de l'occasion.
+- L'accompagnement et les alternatives déterminent l'acceptabilité.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La chaîne de valeur des matières premières automobiles
+slug: matieres-premieres-automobile-lithium-cobalt-nickel
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une voiture mobilise acier, cuivre, aluminium, lithium, nickel et terres rares. Leur extraction,
+  leur raffinage et leur recyclage deviennent des enjeux industriels et géopolitiques.
+tags: [automobile, matieres-premieres, lithium, cobalt, industrie]
+relatedArticles: [chimies-batteries-lithium-ion-automobile, recyclage-batteries-vehicules-electriques]
+sources:
+  - title: "Global Critical Minerals Outlook"
+    url: "https://www.iea.org/reports/global-critical-minerals-outlook-2025"
+    publisher: "Agence internationale de l'énergie"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le recyclage des batteries devient-il stratégique ?"
+    options:
+      - "Il peut fournir une partie des matériaux et réduire la dépendance à l'extraction"
+      - "Il produit directement des pneus"
+      - "Il supprime le besoin d'électricité"
+    answer: 1
+    explanation: >
+      Récupérer les matériaux limite les pertes et réduit la pression sur de nouvelles mines, même
+      si le recyclage ne remplace pas immédiatement toute l'extraction.
+  - question: "La voiture électrique supprime-t-elle la question des ressources minérales ?"
+    options:
+      - "Oui, elle n'utilise aucun métal"
+      - "Non, elle déplace le besoin vers d'autres matériaux comme le lithium ou le cobalt"
+      - "Oui, car tout est recyclé automatiquement"
+    answer: 2
+    explanation: >
+      La transition électrique remplace une dépendance au pétrole par une dépendance à
+      d'autres ressources, qu'il faut extraire, raffiner et transformer.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La transition automobile déplace une partie des enjeux : moins de pétrole brûlé, mais davantage de
+matériaux nécessaires aux batteries, moteurs, câbles et systèmes électroniques.
+
+## Du minerai au composant
+
+L'extraction n'est qu'une étape. Le minerai doit être concentré, raffiné, transformé en matériau
+industriel puis intégré dans une cellule ou un composant. Les capacités de raffinage peuvent être
+plus concentrées géographiquement que les mines.
+
+## Réduire la pression
+
+Batteries plus petites, chimies moins dépendantes de certains métaux, amélioration des rendements,
+réemploi et recyclage agissent ensemble. Aucun levier unique ne suffit.
+
+## À retenir
+
+- La voiture électrique ne supprime pas la question des ressources.
+- Raffinage et fabrication sont aussi stratégiques que l'extraction.
+- Sobriété, substitution et recyclage réduisent les risques.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Les essais de collision et les étoiles de sécurité
+slug: crash-tests-etoiles-securite
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Les essais de collision utilisent des mannequins instrumentés et des scénarios standardisés pour
+  comparer la protection des occupants et des usagers vulnérables.
+tags: [automobile, crash-test, securite, euro-ncap, airbags]
+relatedArticles: [ceinture-airbag-et-structures-deformables, technologies-aide-conduite-efficacite]
+sources:
+  - title: "Safety ratings"
+    url: "https://www.euroncap.com/fr"
+    publisher: "Euro NCAP"
+    date: "2025"
+quiz:
+  - question: "Que mesurent principalement les mannequins de crash-test ?"
+    options:
+      - "Les efforts et accélérations subis lors du choc"
+      - "La consommation de carburant"
+      - "La qualité de la peinture"
+    answer: 1
+    explanation: >
+      Des capteurs estiment le risque de blessures sur différentes zones du corps.
+  - question: "Que faut-il regarder en plus de la note globale d'un crash-test ?"
+    options:
+      - "Rien, la note globale suffit"
+      - "Le détail par catégorie : adultes, enfants, piétons, aides à la conduite"
+      - "Uniquement la couleur du véhicule testé"
+    answer: 2
+    explanation: >
+      Une note globale peut masquer des écarts importants : un véhicule bien noté pour les
+      adultes peut l'être moins pour les piétons, par exemple.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+Un crash-test transforme un accident complexe en protocole comparable. La voiture est percutée à
+une vitesse et selon une configuration définies, puis les capteurs et les images sont analysés.
+
+## Une note multidimensionnelle
+
+La protection des adultes ne résume pas tout. Les évaluations prennent aussi en compte les
+enfants, les piétons, les cyclistes et les aides à la conduite. Une note globale doit donc être
+lue avec le détail des catégories.
+
+## Les limites
+
+Un véhicule peut obtenir une bonne note dans un scénario et être moins protecteur dans un autre.
+Les résultats ne prédisent pas exactement chaque accident réel ; ils permettent surtout de comparer
+les modèles dans un protocole connu.
+
+## À retenir
+
+- Les crash-tests créent une comparaison standardisée.
+- Les étoiles combinent plusieurs dimensions de sécurité.
+- Aucun test ne couvre toutes les situations réelles.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le recyclage d'une carrosserie en acier et aluminium
+slug: recyclage-acier-aluminium-automobile
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Les métaux représentent une grande partie de la masse d'une voiture et peuvent être récupérés.
+  Le démontage et la séparation déterminent la qualité du recyclage.
+tags: [automobile, recyclage, acier, aluminium, economie-circulaire]
+relatedArticles: [materiaux-automobile-acier-aluminium-composites, analyse-du-cycle-de-vie-dune-automobile]
+sources:
+  - title: "End-of-life vehicles"
+    url: "https://environment.ec.europa.eu/topics/waste-and-recycling/end-life-vehicles_en"
+    publisher: "Commission européenne"
+    date: "2025"
+quiz:
+  - question: "Pourquoi séparer les métaux avant refusion ?"
+    options:
+      - "Pour préserver leurs propriétés et leur valeur"
+      - "Pour les rendre invisibles"
+      - "Pour augmenter la consommation"
+    answer: 1
+    explanation: >
+      Un acier ou un aluminium correctement trié conserve une meilleure qualité de matière secondaire.
+  - question: "Qu'est-ce qui complique la séparation des matériaux lors du recyclage d'une voiture ?"
+    options:
+      - "Le prix de l'acier"
+      - "Le mélange de plastiques, composites, mousses et adhésifs"
+      - "La couleur de la peinture"
+    answer: 2
+    explanation: >
+      Ces matériaux assemblés de manière irréversible sont difficiles à trier, contrairement
+      aux métaux qui se séparent bien par aimants ou courants de Foucault.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La fin de vie d'une voiture commence souvent par la dépollution et le démontage des composants
+réutilisables. La carcasse est ensuite broyée et les fractions métalliques sont séparées.
+
+## Réemploi puis recyclage
+
+Une pièce complète peut avoir davantage de valeur qu'une matière fondue. Les métaux sont ensuite
+triés par aimants, courants de Foucault et procédés complémentaires.
+
+## Les difficultés
+
+Plastiques mélangés, composites, mousses, adhésifs et batteries compliquent la séparation. Concevoir
+une voiture démontable améliore la récupération et réduit les pertes.
+
+## À retenir
+
+- La réutilisation précède souvent le recyclage matière.
+- Le tri détermine la qualité des métaux récupérés.
+- La conception influence directement la fin de vie.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: La location longue durée et la propriété automobile
+slug: location-longue-duree-propriete-automobile
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Acheter, louer ou financer une voiture répartit différemment le risque de décote, les réparations
+  et la liberté d'usage. Le prix mensuel ne suffit pas à comparer les offres.
+tags: [automobile, LLD, financement, achat, decote]
+relatedArticles: [cout-total-possession-voiture, marche-de-loccasion-et-valeur-residuelle]
+sources:
+  - title: "Consumer credit"
+    url: "https://www.economie.gouv.fr/particuliers/credit-consommation"
+    publisher: "Direction générale de la concurrence, de la consommation et de la répression des fraudes"
+    date: "2025"
+quiz:
+  - question: "Que faut-il comparer dans une location longue durée ?"
+    options:
+      - "Le coût total, le kilométrage prévu, les frais et les conditions de restitution"
+      - "Uniquement le premier loyer"
+      - "La couleur du véhicule"
+    answer: 1
+    explanation: >
+      Les kilomètres supplémentaires, l'état de restitution et les services inclus peuvent modifier
+      fortement le coût final.
+  - question: "Un loyer de location longue durée peu élevé signifie-t-il un coût total faible ?"
+    options:
+      - "Oui, toujours"
+      - "Non, il faut vérifier ce qu'il inclut et les conditions de restitution"
+      - "Oui, car l'assurance est toujours incluse d'office"
+    answer: 2
+    explanation: >
+      Un loyer peut sembler bas tout en excluant assurance, entretien ou pneus, ou en cachant
+      des frais de restitution importants.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La location longue durée transforme l'achat d'une voiture en service mensuel. Elle peut simplifier
+la gestion, mais elle ne rend pas le véhicule moins cher par magie.
+
+## Ce que le loyer contient
+
+Il reflète généralement une valeur résiduelle estimée, la durée, le kilométrage et parfois des
+services. Assurance, entretien, pneus, apport et frais de restitution peuvent être séparés.
+
+## Le choix dépend de l'usage
+
+Un kilométrage stable et une volonté de changer régulièrement peuvent favoriser la location. Un
+conducteur qui garde longtemps sa voiture peut préférer acheter et amortir la décote sur davantage
+d'années.
+
+## À retenir
+
+- Un petit loyer n'est pas un coût total.
+- Kilométrage et restitution sont essentiels.
+- Achat et location répartissent différemment le risque financier.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le partage de données et la vie privée dans la voiture
+slug: donnees-voiture-vie-privee
+categoryPath: automobile/securite-et-conduite
+summary: >
+  Une voiture connectée peut enregistrer position, trajets, diagnostics et habitudes. L'utilité du
+  service doit être mise en balance avec la transparence et le contrôle des données.
+tags: [automobile, donnees, vie-privee, connectivite, RGPD]
+relatedArticles: [voitures-connectees-cybersecurite, voiture-definie-par-logiciel]
+sources:
+  - title: "Connected vehicles and data"
+    url: "https://www.cnil.fr/fr/les-vehicules-connectes"
+    publisher: "CNIL"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les données de trajet sont-elles sensibles ?"
+    options:
+      - "Elles peuvent révéler des habitudes, lieux fréquentés et horaires"
+      - "Elles changent la couleur de la voiture"
+      - "Elles rendent les pneus plus larges"
+    answer: 1
+    explanation: >
+      Une série de positions répétées peut permettre de déduire domicile, travail ou habitudes.
+  - question: "Quelles questions faut-il se poser à propos des données collectées par une voiture connectée ?"
+    options:
+      - "Aucune, elles sont automatiquement protégées"
+      - "Qui les collecte, pourquoi, combien de temps, et avec qui elles sont partagées"
+      - "Uniquement leur poids en mégaoctets"
+    answer: 2
+    explanation: >
+      Ces questions concernent constructeurs, applications et assureurs : la transparence et
+      la minimisation des données collectées sont essentielles.
+lastVerified: 2026-09-23
+status: published
+---
+
+## En bref
+
+La connectivité rend possibles navigation, assistance, diagnostic à distance et services
+personnalisés. Elle transforme aussi le véhicule en source de données sur son usage.
+
+## Quelles données
+
+Position, vitesse, état du véhicule, commandes vocales, téléphone associé et interactions avec les
+services peuvent être collectés selon les fonctions activées et les contrats.
+
+## Les bonnes questions
+
+Qui collecte ? Pourquoi ? Combien de temps ? Avec qui les données sont-elles partagées ? Le
+conducteur peut-il accéder, corriger ou supprimer certaines informations ? Ces questions concernent
+constructeurs, applications et assureurs.
+
+## À retenir
+
+- La voiture connectée peut révéler beaucoup sur les habitudes.
+- La transparence et la minimisation des données sont essentielles.
+- La cybersécurité ne remplace pas la protection de la vie privée.
+
+[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+

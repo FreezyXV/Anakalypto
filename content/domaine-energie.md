@@ -2180,3 +2180,1091 @@ malentendus dans le débat public.
 alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Comment se forme le pétrole
+slug: forme-petrole
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Des millions d'années de plancton enfoui, de chaleur et de pression : la géologie qui explique pourquoi le pétrole est rare et non renouvelable.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le gaz naturel liquéfié
+slug: gaz-naturel-liquefie
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Refroidir le gaz à −162 °C pour le transporter par bateau a transformé un marché régional en marché mondial.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pétrole de schiste et fracturation hydraulique
+slug: petrole-schiste-fracturation-hydraulique
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  La technique qui a fait des États-Unis le premier producteur mondial, et les controverses environnementales qu'elle suscite.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'OPEP et le prix du baril
+slug: opep-prix-baril
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment une poignée de pays producteurs influence un prix qui pèse sur toute l'économie mondiale.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le pic pétrolier, prédictions et réalité
+slug: pic-petrolier-predictions-realite
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Pourquoi les annonces de fin du pétrole se sont succédé sans se réaliser, et ce qui limite vraiment la production.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les plateformes offshore
+slug: plateformes-offshore
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Forer sous des centaines de mètres d'eau : l'ingénierie extrême des gisements en mer.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le biogaz, du gaz sans gisement
+slug: biogaz-gaz-sans-gisement
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Un méthaniseur transforme fumier et déchets organiques en gaz combustible : une source d'énergie à la portée d'une ferme.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment fonctionne une centrale nucléaire
+slug: fonctionne-centrale-nucleaire
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  De la fission de l'uranium à la turbine : une centrale nucléaire est d'abord une grosse bouilloire.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Tchernobyl et Fukushima
+slug: tchernobyl-fukushima
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Deux accidents majeurs, deux enchaînements différents, et les leçons de sûreté qui en ont été tirées.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'uranium, de la mine au combustible
+slug: uranium-mine-combustible
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Extraction, enrichissement, fabrication des assemblages : le long parcours d'un combustible stratégique.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les petits réacteurs modulaires
+slug: petits-reacteurs-modulaires
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  La promesse de réacteurs fabriqués en série, plus petits et plus rapides à construire, face à la réalité des coûts.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La radioactivité et ses unités
+slug: radioactivite-unites
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Becquerel, gray, sievert : comprendre les ordres de grandeur pour juger d'un risque radiologique.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le démantèlement des centrales
+slug: demantelement-centrales
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Déconstruire un réacteur prend des décennies : techniques, coûts et déchets d'une étape souvent oubliée.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le charbon de bois
+slug: charbon-bois
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Carboniser le bois pour obtenir un combustible plus chaud et plus léger : le combustible qui a permis la métallurgie pendant des millénaires.
+tags: [charbon, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment s'est formé le charbon
+slug: s-forme-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Les forêts géantes du Carbonifère enfouies il y a 300 millions d'années sont devenues nos gisements actuels.
+tags: [charbon]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La mine de charbon, histoire et dangers
+slug: mine-charbon-histoire-dangers
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Coups de grisou, silicose, catastrophe de Courrières : le prix humain de la révolution industrielle.
+tags: [charbon]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le charbon en Chine et en Inde
+slug: charbon-chine-inde
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Pourquoi les deux pays les plus peuplés continuent d'ouvrir des centrales à charbon malgré leurs engagements climatiques.
+tags: [charbon]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Capter et stocker le carbone
+slug: capter-stocker-carbone
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Récupérer le CO2 à la sortie des cheminées pour l'enfouir : promesse technique et limites économiques.
+tags: [charbon]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La machine à vapeur
+slug: machine-vapeur
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Transformer la chaleur en mouvement : l'invention qui a lancé la révolution industrielle et son principe, toujours actuel.
+tags: [charbon, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le prix du solaire a été divisé par dix
+slug: prix-solaire-ete-divise-dix
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Comment la production de masse a fait du solaire l'électricité la moins chère de l'histoire dans de nombreuses régions.
+tags: [solaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le silicium, du sable au panneau
+slug: silicium-sable-panneau
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Purifier le silicium puis le découper en plaquettes : les étapes industrielles derrière chaque panneau photovoltaïque.
+tags: [solaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le four et le chauffe-eau solaires
+slug: four-chauffe-eau-solaires
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Concentrer le soleil pour cuire ou chauffer l'eau sans électricité : des techniques simples et durables.
+tags: [solaire, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'agrivoltaïsme
+slug: agrivoltaisme
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Installer des panneaux au-dessus des cultures : une cohabitation qui peut protéger les plantes ou leur voler la lumière.
+tags: [solaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le recyclage des panneaux solaires
+slug: recyclage-panneaux-solaires
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Verre, aluminium, silicium, argent : que devient un panneau après 25 à 30 ans de service.
+tags: [solaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le solaire dans l'espace
+slug: solaire-espace
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Les satellites vivent de panneaux solaires depuis 1958 ; le projet de centrales orbitales reste lointain.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les moulins à vent
+slug: moulins-vent
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Moudre le grain et pomper l'eau avec le vent : une technologie millénaire, ancêtre direct des éoliennes.
+tags: [eolien, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment une éolienne produit de l'électricité
+slug: eolienne-produit-electricite
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Pales, nacelle, génératrice : pourquoi une éolienne ne peut récupérer plus de 59 % de l'énergie du vent.
+tags: [eolien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'éolien en mer
+slug: eolien-mer
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des vents plus forts et plus réguliers, mais des coûts d'installation et de maintenance bien plus élevés.
+tags: [eolien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les éoliennes flottantes
+slug: eoliennes-flottantes
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des turbines ancrées sur des flotteurs pour exploiter les mers profondes, inaccessibles aux fondations fixes.
+tags: [eolien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Éoliennes, bruit, oiseaux et paysages
+slug: eoliennes-bruit-oiseaux-paysages
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Ce que disent les études sur les nuisances réelles des éoliennes, loin des idées reçues des deux camps.
+tags: [eolien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Construire une petite éolienne
+slug: construire-petite-eolienne
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Alternateur, pales, régulation : les principes d'une éolienne domestique pour une maison ou un village isolé.
+tags: [eolien, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le moulin à eau
+slug: moulin-eau
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  La première énergie mécanique maîtrisée à grande échelle : moudre, scier, forger grâce au courant d'une rivière.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grands barrages du monde
+slug: grands-barrages-monde
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Trois-Gorges, Itaipu, Grand Renaissance : puissance électrique et bouleversements humains et écologiques.
+tags: [hydraulique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les stations de transfert d'énergie par pompage
+slug: stations-transfert-energie-pompage
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Remonter l'eau quand l'électricité abonde pour la turbiner quand elle manque : la plus grande batterie du monde.
+tags: [hydraulique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'énergie des marées et des vagues
+slug: energie-marees-vagues
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une énergie prévisible mais difficile à exploiter : l'usine marémotrice de la Rance et ses successeurs.
+tags: [hydraulique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La microcentrale hydroélectrique
+slug: microcentrale-hydroelectrique
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Quelques mètres de chute et un petit débit suffisent à alimenter un hameau en électricité.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Courant continu contre courant alternatif
+slug: courant-continu-contre-courant-alternatif
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  La guerre des courants entre Edison et Tesla, et pourquoi l'alternatif a gagné le réseau électrique.
+tags: [reseaux-electriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le transformateur
+slug: transformateur
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  L'appareil sans pièce mobile qui permet de transporter l'électricité sur des centaines de kilomètres.
+tags: [reseaux-electriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grandes pannes électriques
+slug: grandes-pannes-electriques
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Italie 2003, Espagne 2025 : comment un incident local peut plonger un pays entier dans le noir.
+tags: [reseaux-electriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fréquence du réseau, 50 hertz à tenir
+slug: frequence-reseau-50-hertz-tenir
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Pourquoi production et consommation doivent s'équilibrer à chaque seconde, et ce qui se passe sinon.
+tags: [reseaux-electriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Produire de l'électricité avec un aimant
+slug: produire-electricite-avec-aimant
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Dynamo et alternateur : le principe de l'induction qui se cache derrière presque toute l'électricité produite.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les interconnexions européennes
+slug: interconnexions-europeennes
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment les pays européens échangent leur électricité et se secourent mutuellement.
+tags: [reseaux-electriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La batterie au plomb
+slug: batterie-plomb
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Inventée en 1859, toujours dans chaque voiture : robuste, recyclable et fabricable avec des matériaux simples.
+tags: [batteries, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le lithium, une ressource stratégique
+slug: lithium-ressource-strategique
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Où se trouve le lithium, comment on l'extrait et pourquoi sa demande explose.
+tags: [batteries]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les batteries sodium-ion
+slug: batteries-sodium-ion
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Remplacer le lithium par le sodium du sel : une alternative moins chère qui arrive sur le marché.
+tags: [batteries]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le recyclage des batteries
+slug: recyclage-batteries
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Récupérer lithium, cobalt et nickel : un enjeu industriel et géopolitique majeur.
+tags: [batteries]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi une batterie s'use
+slug: batterie-s-use
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Cycles, chaleur, charge rapide : les mécanismes qui réduisent la capacité avec le temps.
+tags: [batteries]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pile de Volta
+slug: pile-volta
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  En 1800, un empilement de disques de cuivre et de zinc produit le premier courant électrique continu.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Hydrogène gris, bleu et vert
+slug: hydrogene-gris-bleu-vert
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Les couleurs de l'hydrogène disent comment il est produit, et c'est là que tout se joue pour le climat.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'électrolyse de l'eau
+slug: electrolyse-eau
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Séparer l'eau en hydrogène et oxygène avec de l'électricité : le principe, les rendements, les usages.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pile à combustible
+slug: pile-combustible
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Produire de l'électricité à partir d'hydrogène sans combustion : fonctionnement et applications.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'hydrogène dans l'industrie
+slug: hydrogene-industrie
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Engrais, raffinage, acier : les usages où l'hydrogène est déjà indispensable ou pourrait le devenir.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Stocker et transporter l'hydrogène
+slug: stocker-transporter-hydrogene
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  La plus petite molécule de l'univers fuit, fragilise les métaux et prend beaucoup de place.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pompe à chaleur
+slug: pompe-chaleur
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Comment un appareil peut fournir trois fois plus de chaleur qu'il ne consomme d'électricité.
+tags: [efficacite-energetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Isoler un bâtiment
+slug: isoler-batiment
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Toiture, murs, fenêtres, ponts thermiques : où part la chaleur d'une maison et comment la garder.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'éclairage LED
+slug: eclairage-led
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Dix fois moins d'énergie qu'une ampoule à incandescence : l'une des révolutions d'efficacité les plus rapides.
+tags: [efficacite-energetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le rendement d'un moteur
+slug: rendement-moteur
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Pourquoi un moteur thermique perd l'essentiel de son énergie en chaleur, contre un moteur électrique.
+tags: [efficacite-energetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La cogénération
+slug: cogeneration
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Produire électricité et chaleur en même temps pour valoriser l'énergie qu'une centrale classique gaspille.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le bois de chauffage
+slug: bois-chauffage
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Première énergie de l'humanité et encore essentielle : essences, séchage, rendement des poêles et pollution.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La précarité énergétique
+slug: precarite-energetique
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Des millions de foyers ont du mal à se chauffer : définition, mesure et politiques publiques.
+tags: [usages-et-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La consommation d'énergie des transports
+slug: consommation-energie-transports
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Voiture, avion, train, bateau : l'énergie dépensée par passager ou par tonne transportée.
+tags: [usages-et-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'énergie grise
+slug: energie-grise
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  L'énergie cachée dans la fabrication d'un objet dépasse souvent celle de son utilisation.
+tags: [usages-et-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La facture d'électricité décryptée
+slug: facture-electricite-decryptee
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Production, acheminement, taxes : ce que l'on paie vraiment sur une facture.
+tags: [usages-et-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La consommation énergétique du numérique
+slug: consommation-energetique-numerique
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Centres de données, réseaux, terminaux et IA : la part croissante de l'énergie mondiale consommée par le numérique.
+tags: [usages-et-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

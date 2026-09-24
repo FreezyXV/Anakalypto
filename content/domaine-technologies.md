@@ -1375,3 +1375,1074 @@ incidents ne remontent pas, et l'on perd précisément l'information dont on a b
 texte alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Le levier, la poulie et le plan incliné
+slug: levier-poulie-plan-incline
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Les machines simples qui multiplient la force humaine, à la base de toute construction depuis l'Antiquité.
+tags: [structures, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'arc et la voûte
+slug: arc-voute
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Comment des pierres qui ne tiennent que par leur poids peuvent franchir des portées de plusieurs dizaines de mètres.
+tags: [structures, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les fondations d'un bâtiment
+slug: fondations-batiment
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Semelles, pieux, radiers : comment un bâtiment reporte son poids sur le sol sans s'enfoncer.
+tags: [structures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Construire contre les séismes
+slug: construire-contre-seismes
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Isolateurs, contreventements, ductilité : les principes du génie parasismique.
+tags: [structures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les gratte-ciel
+slug: gratte-ciel
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  De l'acier et de l'ascenseur au béton à haute performance : comment on construit toujours plus haut.
+tags: [structures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La charpente en bois
+slug: charpente-bois
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Assemblages, triangulation, choix des essences : le savoir-faire des charpentiers pour couvrir un bâtiment.
+tags: [structures, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les coupoles et les dômes
+slug: coupoles-domes
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Du Panthéon de Rome à Florence : l'ingénierie des grandes coupoles avant l'acier.
+tags: [structures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La chaux, liant millénaire
+slug: chaux-liant-millenaire
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Cuire du calcaire pour obtenir un liant qui durcit à l'air : une technique à la portée d'un village.
+tags: [materiaux, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le béton armé
+slug: beton-arme
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Associer l'acier qui résiste à la traction et le béton qui résiste à la compression : l'invention qui a changé la construction.
+tags: [materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La brique de terre cuite
+slug: brique-terre-cuite
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Argile, moulage, séchage, cuisson : fabriquer un matériau de construction avec les ressources du sol.
+tags: [materiaux, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Construire en terre crue
+slug: construire-terre-crue
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Pisé, adobe, torchis : la moitié de l'humanité vit encore dans des bâtiments en terre.
+tags: [materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le bois dans la construction moderne
+slug: bois-construction-moderne
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Bois lamellé-collé et panneaux de bois massif permettent aujourd'hui des immeubles de plusieurs étages.
+tags: [materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le verre plat
+slug: verre-plat
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Du verre soufflé au procédé float : comment on fabrique les vitres de nos fenêtres.
+tags: [materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le béton romain
+slug: beton-romain
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Pourquoi certains ouvrages romains ont mieux résisté au temps que nos bétons modernes.
+tags: [materiaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les ponts suspendus
+slug: ponts-suspendus
+categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
+summary: >
+  Câbles, pylônes, tablier : comment ils franchissent les plus longues portées, et l'effondrement de Tacoma.
+tags: [ouvrages-dart]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Creuser un tunnel
+slug: creuser-tunnel
+categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
+summary: >
+  Tunneliers, méthode traditionnelle, tunnel sous la Manche : techniques et risques.
+tags: [ouvrages-dart]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les barrages, comment ils résistent
+slug: barrages-ils-resistent
+categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
+summary: >
+  Barrages-poids, voûtes, digues en terre : les principes qui retiennent des milliards de mètres cubes d'eau.
+tags: [ouvrages-dart]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Construire une route durable
+slug: construire-route-durable
+categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
+summary: >
+  Couches de forme, drainage, revêtement : pourquoi une route mal drainée se dégrade vite.
+tags: [ouvrages-dart, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le viaduc de Millau
+slug: viaduc-millau
+categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
+summary: >
+  Un record mondial de hauteur de pile : les défis techniques d'un ouvrage emblématique.
+tags: [ouvrages-dart]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les aqueducs et canaux
+slug: aqueducs-canaux
+categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
+summary: >
+  Amener l'eau par gravité sur des dizaines de kilomètres : la pente, les siphons et l'entretien.
+tags: [ouvrages-dart, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les écluses
+slug: ecluses
+categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
+summary: >
+  Faire monter et descendre un bateau avec de l'eau : un mécanisme simple qui a ouvert les voies navigables.
+tags: [ouvrages-dart]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le moteur électrique
+slug: moteur-electrique
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Comment un courant et un aimant produisent un mouvement de rotation.
+tags: [actionneurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'hydraulique et la pneumatique
+slug: hydraulique-pneumatique
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Transmettre une force par un fluide : des pelleteuses aux freins de voiture.
+tags: [actionneurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les moteurs pas à pas et servomoteurs
+slug: moteurs-servomoteurs
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Des moteurs capables de positionnements précis, au cœur des imprimantes 3D et des robots.
+tags: [actionneurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Engrenages, courroies et transmissions
+slug: engrenages-courroies-transmissions
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Transformer vitesse et force : la mécanique qui relie un moteur à ce qu'il doit faire bouger.
+tags: [actionneurs, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les muscles artificiels
+slug: muscles-artificiels
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Polymères et alliages qui se contractent : vers des robots plus souples.
+tags: [actionneurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La main robotique
+slug: main-robotique
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Reproduire la dextérité humaine reste l'un des défis les plus difficiles de la robotique.
+tags: [actionneurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le lidar
+slug: lidar
+categoryPath: technologies-et-ingenierie/robotique/perception
+summary: >
+  Mesurer les distances avec des impulsions laser pour cartographier l'environnement en trois dimensions.
+tags: [perception]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La vision par ordinateur
+slug: vision-ordinateur
+categoryPath: technologies-et-ingenierie/robotique/perception
+summary: >
+  Comment une caméra et des algorithmes reconnaissent des objets, des visages ou des obstacles.
+tags: [perception]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les capteurs de force et de toucher
+slug: capteurs-force-toucher
+categoryPath: technologies-et-ingenierie/robotique/perception
+summary: >
+  Donner aux robots le sens du toucher pour manipuler des objets fragiles.
+tags: [perception]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La centrale inertielle
+slug: centrale-inertielle
+categoryPath: technologies-et-ingenierie/robotique/perception
+summary: >
+  Accéléromètres et gyroscopes permettent de connaître sa position sans signal extérieur.
+tags: [perception]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le radar
+slug: radar
+categoryPath: technologies-et-ingenierie/robotique/perception
+summary: >
+  Détecter à distance grâce aux ondes radio : de la Seconde Guerre mondiale aux voitures modernes.
+tags: [perception]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Fusionner les capteurs
+slug: fusionner-capteurs
+categoryPath: technologies-et-ingenierie/robotique/perception
+summary: >
+  Pourquoi un robot combine plusieurs capteurs imparfaits pour obtenir une perception fiable.
+tags: [perception]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La voiture autonome
+slug: voiture-autonome
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Les niveaux d'autonomie, les technologies utilisées et les obstacles qui restent.
+tags: [robots-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les drones
+slug: drones
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Du loisir à l'agriculture et à la livraison : comment vole un multicoptère.
+tags: [robots-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les robots humanoïdes
+slug: robots-humanoides
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Pourquoi donner une forme humaine à un robot, et ce que les prototypes actuels savent faire.
+tags: [robots-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les rovers martiens
+slug: rovers-martiens
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Sojourner, Curiosity, Perseverance : piloter un robot à plusieurs minutes-lumière.
+tags: [robots-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les robots d'entrepôt
+slug: robots-entrepot
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Des milliers de robots déplacent les étagères chez les géants de la logistique.
+tags: [robots-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les robots sous-marins
+slug: robots-sous-marins
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Explorer les grands fonds et inspecter les installations offshore sans plongeur.
+tags: [robots-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les robots aspirateurs
+slug: robots-aspirateurs
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Le robot le plus répandu dans les foyers, et les algorithmes de navigation qu'il utilise.
+tags: [robots-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les nanotubes de carbone
+slug: nanotubes-carbone
+categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
+summary: >
+  Plus résistants que l'acier, conducteurs, très légers : propriétés et difficultés de production.
+tags: [nanomateriaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les nanoparticules et la santé
+slug: nanoparticules-sante
+categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
+summary: >
+  Ce que l'on sait des risques des nanoparticules pour les poumons et l'environnement.
+tags: [nanomateriaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les points quantiques
+slug: points-quantiques
+categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
+summary: >
+  Des cristaux minuscules dont la couleur dépend de la taille, utilisés dans les écrans et récompensés par un prix Nobel en 2023.
+tags: [nanomateriaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Voir l'infiniment petit
+slug: voir-infiniment-petit
+categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
+summary: >
+  Microscopes électroniques et à force atomique : les outils qui ont rendu les nanotechnologies possibles.
+tags: [nanomateriaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les nanoparticules d'argent
+slug: nanoparticules-argent
+categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
+summary: >
+  Antibactériennes, utilisées dans les textiles et les pansements, mais qui interrogent sur leurs rejets.
+tags: [nanomateriaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le vitrail médiéval et les nanoparticules d'or
+slug: vitrail-medieval-nanoparticules-or
+categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
+summary: >
+  Les artisans du Moyen Âge utilisaient des nanoparticules sans le savoir pour colorer le verre.
+tags: [nanomateriaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les surfaces autonettoyantes
+slug: surfaces-autonettoyantes
+categoryPath: technologies-et-ingenierie/nanotechnologies/applications
+summary: >
+  L'effet lotus : des surfaces que l'eau et la saleté ne peuvent pas accrocher.
+tags: [applications]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La nanomédecine
+slug: nanomedecine
+categoryPath: technologies-et-ingenierie/nanotechnologies/applications
+summary: >
+  Des nanoparticules pour transporter un médicament jusqu'à une tumeur, comme les vaccins à ARN.
+tags: [applications]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les nanotechnologies dans l'électronique
+slug: nanotechnologies-electronique
+categoryPath: technologies-et-ingenierie/nanotechnologies/applications
+summary: >
+  La miniaturisation des transistors a déjà fait de chaque puce un objet nanotechnologique.
+tags: [applications]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les crèmes solaires minérales
+slug: cremes-solaires-minerales
+categoryPath: technologies-et-ingenierie/nanotechnologies/applications
+summary: >
+  Dioxyde de titane et oxyde de zinc en nanoparticules : efficacité et débats.
+tags: [applications]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La filtration de l'eau par membranes
+slug: filtration-eau-membranes
+categoryPath: technologies-et-ingenierie/nanotechnologies/applications
+summary: >
+  Des membranes aux pores nanométriques pour purifier l'eau ou la dessaler.
+tags: [applications]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fatigue des matériaux
+slug: fatigue-materiaux
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Pourquoi une pièce peut casser sous une charge bien inférieure à sa résistance, après des millions de cycles.
+tags: [choix-des-materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La corrosion
+slug: corrosion
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Rouille et autres corrosions : les mécanismes et les moyens de protéger les métaux.
+tags: [choix-des-materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les aciers inoxydables
+slug: aciers-inoxydables
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Le chrome qui protège l'acier : familles d'inox et usages.
+tags: [choix-des-materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'aluminium et ses alliages
+slug: aluminium-alliages
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Léger, recyclable, mais gourmand en énergie à produire.
+tags: [choix-des-materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les céramiques techniques
+slug: ceramiques-techniques
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Résistantes à la chaleur et à l'usure mais fragiles : des freins aux prothèses de hanche.
+tags: [choix-des-materiaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Reconnaître et récupérer les matériaux
+slug: reconnaitre-recuperer-materiaux
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Identifier métaux, plastiques et bois pour les réemployer : un savoir utile quand rien ne se fabrique plus.
+tags: [choix-des-materiaux, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'effondrement du pont de Gênes
+slug: effondrement-pont-genes
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience
+summary: >
+  Corrosion, conception, entretien : l'enquête sur la catastrophe du pont Morandi en 2018.
+tags: [defaillances-et-retour-dexperience]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La navette Challenger
+slug: navette-challenger
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience
+summary: >
+  Un joint défaillant par grand froid et des alertes ignorées : un cas d'école de la sûreté.
+tags: [defaillances-et-retour-dexperience]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Titanic, une défaillance en chaîne
+slug: titanic-defaillance-chaine
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience
+summary: >
+  Acier, rivets, compartiments, canots : ce que le naufrage a changé dans la sécurité maritime.
+tags: [defaillances-et-retour-dexperience]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'analyse des modes de défaillance
+slug: analyse-modes-defaillance
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience
+summary: >
+  La méthode qui consiste à imaginer tout ce qui peut casser avant que cela arrive.
+tags: [defaillances-et-retour-dexperience]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le facteur humain dans les accidents
+slug: facteur-humain-accidents
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience
+summary: >
+  Fatigue, organisation, communication : pourquoi l'erreur humaine est rarement la seule cause.
+tags: [defaillances-et-retour-dexperience]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les coefficients de sécurité
+slug: coefficients-securite
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience
+summary: >
+  Pourquoi les ingénieurs dimensionnent les structures pour résister à bien plus que la charge prévue.
+tags: [defaillances-et-retour-dexperience]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

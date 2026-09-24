@@ -1250,3 +1250,1074 @@ des pièces détachées, indices de réparabilité, restrictions sur certains em
 ultérieurement.]
 
 ---
+
+---
+type: article
+title: Le dioxyde de carbone, d'où il vient et où il va
+slug: dioxyde-carbone-vient-va
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Combustion, déforestation, océans, végétation : le cycle du carbone et le déséquilibre que nous y avons créé.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le méthane, un gaz puissant mais bref
+slug: methane-gaz-puissant-mais-bref
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Élevage, rizières, fuites de gaz : pourquoi réduire le méthane est le levier le plus rapide contre le réchauffement.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La courbe de Keeling
+slug: courbe-keeling
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Depuis 1958, la mesure du CO2 au sommet du Mauna Loa raconte la hausse continue de sa concentration.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le protoxyde d'azote et les engrais
+slug: protoxyde-azote-engrais
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un gaz à effet de serre méconnu, lié à l'agriculture, et qui détruit aussi la couche d'ozone.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'empreinte carbone d'un Français
+slug: empreinte-carbone-francais
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Transports, alimentation, logement, consommation : d'où viennent les quelque neuf tonnes de CO2 par personne et par an.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Émissions territoriales et importées
+slug: emissions-territoriales-importees
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un pays peut réduire ses émissions en délocalisant sa production : les deux façons de compter.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le trou dans la couche d'ozone
+slug: trou-couche-ozone
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un autre problème atmosphérique mondial, réglé par le protocole de Montréal : une réussite qui fait école.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le GIEC, comment il travaille
+slug: giec-travaille
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Des milliers de chercheurs, des rapports relus ligne à ligne par les gouvernements : l'organisation de l'expertise climatique.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les trajectoires socio-économiques du GIEC
+slug: trajectoires-socio-economiques-giec
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Cinq futurs possibles selon nos choix démographiques, économiques et politiques.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Neutralité carbone, ce que cela signifie
+slug: neutralite-carbone-cela-signifie
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Émettre moins et absorber autant qu'on émet : les conditions réelles d'un objectif souvent mal compris.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'Accord de Paris
+slug: accord-paris
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Limiter le réchauffement bien en dessous de 2 °C : ce que les pays ont promis et où ils en sont.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les points de bascule climatiques
+slug: points-bascule-climatiques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Calottes glaciaires, Amazonie, courants océaniques : des seuils au-delà desquels les changements s'emballent.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les modèles climatiques
+slug: modeles-climatiques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment on simule le climat futur sur ordinateur, et pourquoi on peut leur faire confiance malgré leurs incertitudes.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La géo-ingénierie
+slug: geo-ingenierie
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Voiler le soleil ou fertiliser les océans : des remèdes technologiques risqués et controversés.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La montée du niveau des mers
+slug: montee-niveau-mers
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Dilatation de l'eau et fonte des glaces : combien de centimètres, où, et quelles côtes sont menacées.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les canicules
+slug: canicules
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des vagues de chaleur plus fréquentes et plus intenses, et leur coût humain, comme en 2003 en Europe.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Sécheresses et incendies de forêt
+slug: secheresses-incendies-foret
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment le réchauffement allonge la saison des feux et en augmente l'intensité.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le climat et les rendements agricoles
+slug: climat-rendements-agricoles
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Chaleur, sécheresse, ravageurs : ce que le réchauffement fait aux récoltes mondiales.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Se protéger des inondations
+slug: proteger-inondations
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Digues, zones d'expansion des crues, habitat adapté : les techniques pour vivre avec l'eau.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les réfugiés climatiques
+slug: refugies-climatiques
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Qui quitte son lieu de vie à cause du climat, combien, et sous quel statut juridique.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Rafraîchir les villes
+slug: rafraichir-villes
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Végétalisation, matériaux clairs, eau : les solutions contre les îlots de chaleur urbains.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sixième extinction de masse
+slug: sixieme-extinction-masse
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comparer le rythme actuel de disparition des espèces aux cinq grandes crises de l'histoire de la vie.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le déclin des insectes pollinisateurs
+slug: declin-insectes-pollinisateurs
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Abeilles, bourdons, papillons : causes du déclin et conséquences pour l'agriculture.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les espèces invasives
+slug: especes-invasives
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Frelon asiatique, jussie, rats sur les îles : quand une espèce introduite bouleverse un écosystème.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Sauver une espèce de l'extinction
+slug: sauver-espece-extinction
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Le condor de Californie, le bouquetin, le lynx : ce qu'implique la réintroduction d'une espèce.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le braconnage et le trafic d'espèces sauvages
+slug: braconnage-trafic-especes-sauvages
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Ivoire, pangolins, oiseaux : un commerce illégal parmi les plus rentables du monde.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les banques de graines
+slug: banques-graines
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Le Svalbard conserve plus d'un million d'échantillons de semences, assurance de l'agriculture mondiale.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dodo et les espèces disparues
+slug: dodo-especes-disparues
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Ce que les extinctions récentes documentées nous apprennent sur la fragilité des espèces insulaires.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les zones humides
+slug: zones-humides
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Marais, tourbières, mangroves : des écosystèmes discrets qui filtrent l'eau et stockent du carbone.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les récifs coralliens
+slug: recifs-coralliens
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Moins de 1 % des fonds marins mais un quart des espèces marines, menacés par le blanchissement.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les prairies et les savanes
+slug: prairies-savanes
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Des écosystèmes façonnés par le feu et les herbivores, souvent oubliés au profit des forêts.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les haies et le bocage
+slug: haies-bocage
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Brise-vent, refuges pour la faune, régulation de l'eau : les services rendus par les haies aux cultures.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La continuité écologique
+slug: continuite-ecologique
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Pourquoi les espèces ont besoin de corridors pour circuler, se reproduire et s'adapter.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le réensauvagement
+slug: reensauvagement
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Laisser la nature reprendre ses droits : les loups de Yellowstone et d'autres expériences.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les sols, écosystème caché
+slug: sols-ecosysteme-cache
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un gramme de sol contient des millions d'organismes dont dépend toute la production végétale.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La déforestation en Amazonie
+slug: deforestation-amazonie
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Élevage, soja, orpaillage : les moteurs de la déforestation et les tentatives pour l'enrayer.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'acidification des océans
+slug: acidification-oceans
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  En absorbant du CO2, l'océan devient plus acide, avec des effets sur les coquillages et les coraux.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La surpêche
+slug: surpeche
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un tiers des stocks de poissons exploités au-delà de leur capacité : état des lieux et solutions.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Gérer durablement une forêt
+slug: gerer-durablement-foret
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Coupes, régénération, diversité des essences : produire du bois sans épuiser la forêt.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le plastique dans les océans
+slug: plastique-oceans
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  D'où il vient, où il s'accumule, et pourquoi le nettoyage ne suffira pas.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les forêts boréales
+slug: forets-boreales
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  La plus grande forêt du monde, de la Sibérie au Canada, et son rôle dans le climat.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les aires marines protégées
+slug: aires-marines-protegees
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Protéger des zones de l'océan pour laisser les populations de poissons se reconstituer.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les particules fines
+slug: particules-fines
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  PM10, PM2,5 : d'où elles viennent, où elles vont dans le corps, et leurs effets sur la santé.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pollution de l'air intérieur
+slug: pollution-air-interieur
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Chauffage au bois, cuisine, produits ménagers : l'air d'une maison peut être plus pollué que celui de la rue.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le smog de Londres de 1952
+slug: smog-londres-1952
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Quatre jours de brouillard toxique, des milliers de morts, et la naissance des lois sur la qualité de l'air.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'ozone de basse altitude
+slug: ozone-basse-altitude
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Protecteur en altitude, nocif au niveau du sol : pourquoi les pics d'ozone surviennent l'été.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les pluies acides
+slug: pluies-acides
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un problème des années 1980 largement résolu en réduisant le soufre des combustibles.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Mesurer la qualité de l'air
+slug: mesurer-qualite-air
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Capteurs, stations, indices : comment sont produites les alertes de pollution.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le radon, un gaz radioactif naturel
+slug: radon-gaz-radioactif-naturel
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Présent dans certains sols granitiques, il s'accumule dans les maisons et augmente le risque de cancer.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Rendre l'eau potable
+slug: rendre-eau-potable
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Décantation, filtration, désinfection : les étapes, des techniques simples aux usines de traitement.
+tags: [eau, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le traitement des eaux usées
+slug: traitement-eaux-usees
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment une station d'épuration nettoie l'eau avant de la rendre à la rivière.
+tags: [eau, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les nappes phréatiques
+slug: nappes-phreatiques
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  L'eau souterraine représente la plus grande réserve d'eau douce liquide : comment elle se recharge et s'épuise.
+tags: [eau]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Récupérer l'eau de pluie
+slug: recuperer-eau-pluie
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Collecte, stockage, usages possibles et précautions sanitaires.
+tags: [eau, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'eau virtuelle
+slug: eau-virtuelle-ressources
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Il faut environ 15 000 litres d'eau pour produire un kilo de bœuf : l'eau cachée dans ce que nous consommons.
+tags: [eau]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dessalement de l'eau de mer
+slug: dessalement-eau-mer
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Transformer l'eau salée en eau douce : techniques, coût énergétique et rejets.
+tags: [eau]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les pollutions de l'eau
+slug: pollutions-eau
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Nitrates, pesticides, microplastiques, résidus de médicaments : ce que contiennent nos rivières.
+tags: [eau]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le compostage
+slug: compostage
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Transformer les déchets organiques en engrais : processus biologique et bonnes pratiques.
+tags: [dechets-et-recyclage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le recyclage du verre et de l'aluminium
+slug: recyclage-verre-aluminium
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Deux matériaux recyclables presque à l'infini, contrairement à la plupart des plastiques.
+tags: [dechets-et-recyclage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi le plastique se recycle mal
+slug: plastique-recycle-mal
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Mélanges de résines, additifs, dégradation : les limites techniques du recyclage des plastiques.
+tags: [dechets-et-recyclage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'économie circulaire
+slug: economie-circulaire
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Réparer, réemployer, recycler : sortir du modèle extraire, fabriquer, jeter.
+tags: [dechets-et-recyclage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les déchets électroniques
+slug: dechets-electroniques
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Téléphones et ordinateurs contiennent de l'or, du cuivre et des terres rares, mais aussi des toxiques.
+tags: [dechets-et-recyclage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Réparer plutôt que jeter
+slug: reparer-plutot-jeter
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Obsolescence, indice de réparabilité, savoir-faire : prolonger la vie des objets.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les décharges et l'incinération
+slug: decharges-incineration
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Ce que deviennent les déchets non recyclés, et les impacts de chaque solution.
+tags: [dechets-et-recyclage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

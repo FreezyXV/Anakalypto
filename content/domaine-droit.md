@@ -2255,3 +2255,1142 @@ fréquente de malentendus, parfois entretenus.
 alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Le mariage, le PACS et le concubinage
+slug: mariage-pacs-concubinage
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Trois façons de vivre à deux, trois régimes juridiques différents.
+tags: [droit-civil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'héritage et la réserve héréditaire
+slug: heritage-reserve-hereditaire
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Pourquoi on ne peut pas déshériter ses enfants en France.
+tags: [droit-civil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La propriété et le cadastre
+slug: propriete-cadastre
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Prouver qui possède une terre : le registre qui évite des conflits sans fin.
+tags: [droit-civil, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le divorce
+slug: divorce
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Les différentes procédures et leurs conséquences.
+tags: [droit-civil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'autorité parentale
+slug: autorite-parentale
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Droits et devoirs des parents envers leurs enfants.
+tags: [droit-civil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le bail d'habitation
+slug: bail-habitation
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Droits et obligations du locataire et du propriétaire.
+tags: [droit-civil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La tutelle et la curatelle
+slug: tutelle-curatelle
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Protéger les adultes qui ne peuvent plus gérer seuls leurs affaires.
+tags: [droit-civil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Contravention, délit et crime
+slug: contravention-delit-crime
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Les trois catégories d'infractions et les juridictions qui les jugent.
+tags: [droit-penal]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La légitime défense
+slug: legitime-defense
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Les conditions strictes dans lesquelles on peut se défendre.
+tags: [droit-penal]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La responsabilité pénale des mineurs
+slug: responsabilite-penale-mineurs
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Comment la justice traite les mineurs délinquants.
+tags: [droit-penal]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La prison et ses alternatives
+slug: prison-alternatives
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Surpopulation carcérale, bracelet électronique, travail d'intérêt général.
+tags: [droit-penal]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La récidive
+slug: recidive
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Mesurer la récidive et ce qui aide à la prévenir.
+tags: [droit-penal]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La cybercriminalité et le droit
+slug: cybercriminalite-droit
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Harcèlement en ligne, escroqueries, piratage : ce que dit la loi.
+tags: [droit-penal]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le procès pénal, étape par étape
+slug: proces-penal-etape-etape
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  De la plainte au jugement : le parcours d'une affaire pénale.
+tags: [procedure-et-preuve]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La preuve ADN
+slug: preuve-adn
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une preuve puissante, mais pas infaillible : erreurs judiciaires et contaminations.
+tags: [procedure-et-preuve]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le droit à un avocat
+slug: droit-avocat
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  À quel moment on peut être assisté, et l'aide juridictionnelle.
+tags: [procedure-et-preuve]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'appel et la cassation
+slug: appel-cassation
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Contester une décision : les recours possibles.
+tags: [procedure-et-preuve]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les erreurs judiciaires
+slug: erreurs-judiciaires
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  L'affaire Dreyfus, l'affaire Seznec et la révision des condamnations.
+tags: [procedure-et-preuve]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La médiation et l'arbitrage
+slug: mediation-arbitrage
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Régler un conflit sans aller au tribunal, avec l'aide d'un tiers neutre.
+tags: [procedure-et-preuve, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Conseil constitutionnel
+slug: conseil-constitutionnel
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Qui vérifie que les lois respectent la Constitution, et la question prioritaire de constitutionnalité.
+tags: [droit-constitutionnel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le référendum
+slug: referendum
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Consulter directement le peuple : usages et limites en France.
+tags: [droit-constitutionnel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'article 49.3
+slug: article-49-3
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Faire adopter une loi sans vote : fonctionnement et controverses.
+tags: [droit-constitutionnel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les régimes présidentiel et parlementaire
+slug: regimes-presidentiel-parlementaire
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Comparer les institutions des États-Unis, du Royaume-Uni et de la France.
+tags: [droit-constitutionnel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment est votée une loi
+slug: votee-loi
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Le parcours d'un texte entre l'Assemblée nationale et le Sénat.
+tags: [droit-constitutionnel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Écrire une constitution
+slug: ecrire-constitution
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Assemblées constituantes, séparation des pouvoirs, droits garantis : comment une société se donne des règles fondamentales.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les Nations unies
+slug: nations-unies
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Fonctionnement de l'ONU et du Conseil de sécurité, et le droit de veto.
+tags: [droit-international]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les conventions de Genève
+slug: conventions-geneve
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Le droit de la guerre : protéger les civils, les blessés et les prisonniers.
+tags: [droit-international]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le droit de la mer
+slug: droit-mer
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  La convention de Montego Bay et le partage des océans.
+tags: [droit-international]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le droit européen
+slug: droit-europeen
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Comment les règles européennes s'appliquent en France.
+tags: [droit-international]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le procès de Nuremberg
+slug: proces-nuremberg
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  En 1945, le premier tribunal international juge les crimes de guerre.
+tags: [droit-international]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les sanctions internationales
+slug: sanctions-internationales
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Embargos, gels d'avoirs : les outils pour faire pression sur un État.
+tags: [droit-international]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La Charte de l'environnement
+slug: charte-environnement
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Le texte de 2005 qui a donné une valeur constitutionnelle à l'environnement.
+tags: [droit-de-lenvironnement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le principe pollueur-payeur
+slug: principe-pollueur-payeur
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Faire supporter le coût d'une pollution à celui qui la cause.
+tags: [droit-de-lenvironnement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les procès climatiques
+slug: proces-climatiques
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  L'Affaire du siècle et les citoyens qui attaquent les États pour inaction.
+tags: [droit-de-lenvironnement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le préjudice écologique
+slug: prejudice-ecologique
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Réparer un dommage causé à la nature elle-même : le naufrage de l'Erika.
+tags: [droit-de-lenvironnement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les études d'impact
+slug: etudes-impact
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Évaluer les effets d'un projet sur l'environnement avant de l'autoriser.
+tags: [droit-de-lenvironnement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La protection des espèces
+slug: protection-especes
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Le droit qui interdit de détruire les espèces protégées et leurs habitats.
+tags: [droit-de-lenvironnement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les tribunaux administratifs
+slug: tribunaux-administratifs
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Contester une décision de l'administration.
+tags: [organisation-judiciaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La cour d'assises et le jury populaire
+slug: cour-assises-jury-populaire
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Des citoyens tirés au sort pour juger les crimes.
+tags: [organisation-judiciaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le conseil de prud'hommes
+slug: conseil-prud-hommes
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Le tribunal des conflits entre employeurs et salariés.
+tags: [organisation-judiciaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La Cour européenne des droits de l'homme
+slug: cour-europeenne-droits-homme
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Un recours contre les États qui violent les droits fondamentaux.
+tags: [organisation-judiciaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Conseil d'État
+slug: conseil-etat
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Juge suprême de l'administration et conseiller du gouvernement.
+tags: [organisation-judiciaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La lenteur de la justice
+slug: lenteur-justice
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Délais, moyens, magistrats : pourquoi les procès prennent tant de temps.
+tags: [organisation-judiciaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le droit d'asile
+slug: droit-asile
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Qui peut demander l'asile, et comment la demande est examinée.
+tags: [droits-fondamentaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La laïcité
+slug: laicite
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  La loi de 1905 et ce qu'elle impose à l'État et aux citoyens.
+tags: [droits-fondamentaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le droit à la vie privée
+slug: droit-vie-privee
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Protéger son image, ses données et sa correspondance.
+tags: [droits-fondamentaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'égalité devant la loi et les discriminations
+slug: egalite-devant-loi-discriminations
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Ce qui est interdit et comment faire valoir ses droits.
+tags: [droits-fondamentaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La liberté de manifester
+slug: liberte-manifester
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Déclaration, interdiction, maintien de l'ordre : le cadre juridique.
+tags: [droits-fondamentaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les droits de l'enfant
+slug: droits-enfant
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  La convention internationale de 1989 et ses applications.
+tags: [droits-fondamentaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le métier d'avocat
+slug: metier-avocat
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Formation, serment, rôle : ce que fait vraiment un avocat.
+tags: [metiers-du-droit]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le notaire
+slug: notaire
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Ventes immobilières, successions, contrats de mariage : un officier public.
+tags: [metiers-du-droit]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les magistrats
+slug: magistrats
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Juges et procureurs : deux fonctions, une même profession.
+tags: [metiers-du-droit]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le commissaire de justice
+slug: commissaire-justice
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  L'ancien huissier : constats, significations et saisies.
+tags: [metiers-du-droit]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les juristes d'entreprise
+slug: juristes-entreprise
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Conseiller une entreprise pour prévenir les litiges.
+tags: [metiers-du-droit]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La justice et l'intelligence artificielle
+slug: justice-intelligence-artificielle
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Justice prédictive, recherche juridique : ce que l'IA change pour les métiers du droit.
+tags: [metiers-du-droit]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le licenciement
+slug: licenciement
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Motifs, procédure et indemnités.
+tags: [droit-du-travail]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La durée du travail et les 35 heures
+slug: duree-travail-35-heures
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Heures supplémentaires, repos, congés : les règles.
+tags: [droit-du-travail]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le salaire minimum
+slug: salaire-minimum
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  L'histoire du SMIC et les débats sur son niveau.
+tags: [droit-du-travail]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le harcèlement au travail
+slug: harcelement-travail
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Harcèlement moral et sexuel : définitions et recours.
+tags: [droit-du-travail]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les syndicats et les élus du personnel
+slug: syndicats-elus-personnel
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Le rôle des représentants des salariés dans l'entreprise.
+tags: [droit-du-travail]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le télétravail
+slug: teletravail
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Le cadre juridique du travail à distance.
+tags: [droit-du-travail]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le crédit à la consommation
+slug: credit-consommation
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Taux, assurance, surendettement : ce que la loi impose aux prêteurs.
+tags: [droit-de-la-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les clauses abusives
+slug: clauses-abusives
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Les clauses de contrat interdites car trop déséquilibrées.
+tags: [droit-de-la-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les litiges avec un vendeur en ligne
+slug: litiges-avec-vendeur-ligne
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Livraison, remboursement, recours : les droits de l'acheteur.
+tags: [droit-de-la-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le démarchage téléphonique
+slug: demarchage-telephonique
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Ce qui est autorisé, et comment s'y opposer.
+tags: [droit-de-la-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les associations de consommateurs
+slug: associations-consommateurs
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Leur rôle et l'action de groupe.
+tags: [droit-de-la-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'obsolescence programmée
+slug: obsolescence-programmee
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un délit en France depuis 2015 : que dit la loi ?
+tags: [droit-de-la-consommation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

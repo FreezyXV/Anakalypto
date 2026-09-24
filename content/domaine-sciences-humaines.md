@@ -1630,3 +1630,1142 @@ minoritaires, et en faire le modèle général masque le fonctionnement d'ensemb
 et texte alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: La maîtrise du feu
+slug: maitrise-feu
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Quand et comment nos ancêtres ont appris à produire et entretenir le feu, et ce que cela a changé.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La grotte Chauvet et l'art pariétal
+slug: grotte-chauvet-art-parietal
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des peintures de plus de 30 000 ans d'une maîtrise étonnante.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La révolution néolithique
+slug: revolution-neolithique
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  L'invention de l'agriculture et de l'élevage, et la sédentarisation qui l'a accompagnée.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Néandertal, notre cousin
+slug: neandertal-notre-cousin
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Ce que l'on sait de sa vie, de sa disparition, et des gènes qu'il nous a laissés.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les outils de pierre
+slug: outils-pierre
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Du galet taillé aux lames fines : l'évolution des techniques de taille sur deux millions d'années.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les premiers peuplements de l'Amérique et de l'Australie
+slug: premiers-peuplements-amerique-australie
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment les humains ont atteint des continents séparés par des mers.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La révolution industrielle
+slug: revolution-industrielle
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Charbon, vapeur, usines : le basculement parti d'Angleterre vers 1780.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La Première Guerre mondiale
+slug: premiere-guerre-mondiale
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Les causes, les tranchées, et un monde bouleversé en quatre ans.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La Seconde Guerre mondiale
+slug: seconde-guerre-mondiale
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Le conflit le plus meurtrier de l'histoire et l'ordre mondial qui en est né.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La guerre froide
+slug: guerre-froide
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Deux blocs, la dissuasion nucléaire et la chute du mur de Berlin.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La décolonisation
+slug: decolonisation
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment les empires coloniaux se sont défaits après 1945.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le plan Marshall et la reconstruction de l'Europe
+slug: plan-marshall-reconstruction-europe
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment un continent en ruines s'est relevé en une quinzaine d'années.
+tags: [epoque-contemporaine, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La construction européenne
+slug: construction-europeenne
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Du charbon et de l'acier en 1951 à l'Union européenne d'aujourd'hui.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La critique des sources
+slug: critique-sources
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Qui a écrit ce document, quand, pourquoi : les questions de base de l'historien.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La datation au carbone 14
+slug: datation-carbone-14
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment la radioactivité permet de dater des restes organiques jusqu'à 50 000 ans.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'archéologie préventive
+slug: archeologie-preventive
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Fouiller avant les travaux : la discipline qui livre aujourd'hui l'essentiel des découvertes.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'effondrement des civilisations
+slug: effondrement-civilisations
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Rome, les Mayas, l'âge du bronze : ce que les grands effondrements ont en commun, et comment on en sort.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le déchiffrement des hiéroglyphes
+slug: dechiffrement-hieroglyphes
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Champollion et la pierre de Rosette : retrouver le sens d'une écriture oubliée.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les faux historiques
+slug: faux-historiques
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  De la donation de Constantin aux carnets d'Hitler : comment on démasque un faux.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La division du travail
+slug: division-travail
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  De la manufacture d'épingles d'Adam Smith aux chaînes de valeur mondiales : pourquoi se spécialiser enrichit.
+tags: [microeconomie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'offre et la demande
+slug: offre-demande
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Le mécanisme de base qui fixe les prix sur un marché.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le monopole
+slug: monopole
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Quand une seule entreprise domine un marché, et le rôle des autorités de concurrence.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les externalités
+slug: externalites
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Pollution, vaccination : quand une activité affecte des tiers sans compensation.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La comptabilité en partie double
+slug: comptabilite-partie-double
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Inventée à Venise, la méthode qui permet de suivre toute l'activité d'une entreprise.
+tags: [microeconomie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La théorie des jeux
+slug: theorie-jeux
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Le dilemme du prisonnier et les décisions stratégiques.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le troc et l'invention de la monnaie
+slug: troc-invention-monnaie
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Pourquoi la monnaie est apparue, et ses formes successives, du sel à la monnaie numérique.
+tags: [macroeconomie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les banques centrales
+slug: banques-centrales
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Qui décide des taux d'intérêt et pourquoi cela concerne tout le monde.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le chômage
+slug: chomage
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment on le mesure, ses différentes causes et les politiques pour le réduire.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La crise de 1929
+slug: crise-1929
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Le krach, la Grande Dépression et les leçons tirées pour les crises suivantes.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La crise financière de 2008
+slug: crise-financiere-2008
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Des crédits immobiliers américains à la crise mondiale.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le PIB et ses limites
+slug: pib-limites
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Ce que mesure le produit intérieur brut, et ce qu'il ignore.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La dette publique
+slug: dette-publique
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Pourquoi les États s'endettent et à partir de quand cela devient un problème.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'impôt progressif
+slug: impot-progressif
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Pourquoi les plus hauts revenus paient un taux plus élevé, et les débats que cela suscite.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'État-providence
+slug: etat-providence
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Retraites, santé, allocations : l'histoire de la protection sociale.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pauvreté dans le monde
+slug: pauvrete-monde
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Le recul spectaculaire de l'extrême pauvreté depuis 1990 et ce qui reste à faire.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Patrimoine et héritage
+slug: patrimoine-heritage
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Pourquoi les inégalités de patrimoine sont bien plus fortes que celles des revenus.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le revenu universel
+slug: revenu-universel
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Verser à chacun un revenu sans condition : arguments, expériences et objections.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les inégalités entre femmes et hommes
+slug: inegalites-entre-femmes-hommes
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Salaires, temps partiel, retraites : ce que mesurent les écarts.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le langage
+slug: langage
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment le cerveau produit et comprend le langage, et les aires qui s'en chargent.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Prendre une décision
+slug: prendre-decision
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Intuition et raisonnement : les deux systèmes de pensée décrits par Kahneman.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'intelligence et le QI
+slug: intelligence-qi
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Ce que mesurent les tests de QI, leurs limites et les débats qu'ils suscitent.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Apprendre efficacement
+slug: apprendre-efficacement
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Répétition espacée, test de soi-même : ce que la recherche dit des méthodes d'apprentissage.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La conscience
+slug: conscience
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  L'une des plus grandes énigmes de la science : les théories actuelles.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les illusions d'optique
+slug: illusions-optique
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Ce qu'elles révèlent sur la façon dont le cerveau construit ce que nous voyons.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'attachement chez le jeune enfant
+slug: attachement-chez-jeune-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Pourquoi le lien avec les adultes proches est déterminant pour le développement.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'acquisition du langage
+slug: acquisition-langage
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Du babillage aux phrases : comment un enfant apprend à parler.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'adolescence et le cerveau
+slug: adolescence-cerveau
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Un cerveau en pleine réorganisation, qui explique certains comportements.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le vieillissement cognitif
+slug: vieillissement-cognitif
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Ce qui décline avec l'âge, ce qui se maintient, et ce qui aide à rester en forme.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Piaget et les stades du développement
+slug: piaget-stades-developpement
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  La théorie qui a longtemps dominé la psychologie de l'enfant, et ses critiques.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le biais de confirmation
+slug: biais-confirmation
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Nous cherchons les informations qui confirment ce que nous pensons déjà.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'effet Dunning-Kruger
+slug: effet-dunning-kruger
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi les moins compétents surestiment souvent leurs capacités.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le biais du survivant
+slug: biais-survivant
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Juger à partir de ceux qui ont réussi en oubliant tous ceux qui ont échoué.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'aversion à la perte
+slug: aversion-perte
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Perdre 100 euros fait plus mal que gagner 100 euros ne fait plaisir.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les fausses informations et leur propagation
+slug: fausses-informations-leur-propagation
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi les infox circulent plus vite que les corrections.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'effet de cadrage
+slug: effet-cadrage
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  La même information présentée différemment change nos décisions.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'expérience de Milgram
+slug: experience-milgram
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Jusqu'où obéit-on à une autorité : une expérience célèbre et ses critiques.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La confiance et le capital social
+slug: confiance-capital-social
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Pourquoi les sociétés où l'on se fait confiance fonctionnent mieux.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La coopération et les biens communs
+slug: cooperation-biens-communs
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Elinor Ostrom et les communautés qui gèrent ensemble pâturages, forêts et pêcheries sans les épuiser.
+tags: [groupes-et-normes, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les rites et les fêtes
+slug: rites-fetes
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Ce que les rituels apportent à la cohésion d'un groupe.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les mouvements sociaux
+slug: mouvements-sociaux
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment naissent et réussissent les mobilisations collectives.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La famille et ses transformations
+slug: famille-transformations
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Mariage, divorce, familles recomposées : l'évolution de la famille en un siècle.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Transmettre les savoirs
+slug: transmettre-savoirs
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Apprentissage, compagnonnage, écoles : comment une société transmet ses savoir-faire d'une génération à l'autre.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'alphabétisation dans le monde
+slug: alphabetisation-monde
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  De 12 % à près de 90 % en deux siècles : une transformation majeure.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les classements PISA
+slug: classements-pisa
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Ce que mesurent les enquêtes internationales sur les élèves, et ce qu'elles ne mesurent pas.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'école de Jules Ferry
+slug: ecole-jules-ferry
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Gratuite, laïque et obligatoire : les lois des années 1880.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'ascenseur social
+slug: ascenseur-social
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment on mesure la mobilité sociale et comment elle a évolué.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'apprentissage et la formation professionnelle
+slug: apprentissage-formation-professionnelle
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Le modèle allemand et l'essor de l'apprentissage en France.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

@@ -1159,3 +1159,1057 @@ vérifiable, et les plus incertains là où l'erreur passe inaperçue.
 légende et texte alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Le neurone artificiel
+slug: neurone-artificiel
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une fonction mathématique inspirée, de loin, du neurone biologique.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La rétropropagation du gradient
+slug: retropropagation-gradient
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  L'algorithme qui permet à un réseau de neurones d'apprendre de ses erreurs.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les réseaux convolutifs et la vision
+slug: reseaux-convolutifs-vision
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Comment une IA apprend à reconnaître des chats, des visages ou des tumeurs.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: AlexNet et le tournant de 2012
+slug: alexnet-tournant-2012
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  La compétition ImageNet qui a lancé la vague de l'apprentissage profond.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le surapprentissage
+slug: surapprentissage
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Quand un modèle apprend par cœur au lieu de comprendre.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les pionniers de l'apprentissage profond
+slug: pionniers-apprentissage-profond
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Hinton, LeCun, Bengio : le prix Turing 2018 et des décennies de recherche à contre-courant.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: AlphaFold et la structure des protéines
+slug: alphafold-structure-proteines
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Prédire la forme des protéines : une avancée récompensée par le prix Nobel de chimie 2024.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: AlphaGo contre Lee Sedol
+slug: alphago-contre-lee-sedol
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  En 2016, une IA bat un champion de go, un jeu jugé hors de portée des machines.
+tags: [apprentissage-par-renforcement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La récompense et la punition
+slug: recompense-punition
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Le principe de l'apprentissage par essais et erreurs, emprunté à la psychologie.
+tags: [apprentissage-par-renforcement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le renforcement à partir de retours humains
+slug: renforcement-partir-retours-humains
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  La technique qui a rendu les assistants conversationnels plus utiles et plus polis.
+tags: [apprentissage-par-renforcement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les robots qui apprennent à marcher
+slug: robots-apprennent-marcher
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Apprendre des mouvements en simulation avant de les transférer au monde réel.
+tags: [apprentissage-par-renforcement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les IA qui trichent
+slug: ia-trichent
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Quand un système trouve une faille dans ses règles pour maximiser sa récompense.
+tags: [apprentissage-par-renforcement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Échecs et Deep Blue
+slug: echecs-deep-blue
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  En 1997, un ordinateur bat Kasparov : une victoire fondée sur la force de calcul.
+tags: [apprentissage-par-renforcement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'étiquetage des données
+slug: etiquetage-donnees
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Le travail humain, souvent invisible, qui permet aux IA d'apprendre.
+tags: [donnees-et-entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le coût énergétique de l'entraînement
+slug: cout-energetique-entrainement
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Combien d'électricité et d'eau consomment les grands modèles.
+tags: [donnees-et-entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les données synthétiques
+slug: donnees-synthetiques
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Entraîner une IA avec des données produites par une autre IA : promesses et risques.
+tags: [donnees-et-entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les droits d'auteur et l'entraînement des IA
+slug: droits-auteur-entrainement-ia
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Les procès d'auteurs et de médias contre les entreprises d'IA.
+tags: [donnees-et-entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les lois d'échelle
+slug: lois-echelle
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Plus de données, plus de calcul, meilleurs résultats : jusqu'où ?
+tags: [donnees-et-entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Évaluer une IA
+slug: evaluer-ia
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Les benchmarks, leurs limites et le problème de la contamination.
+tags: [donnees-et-entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le mécanisme d'attention
+slug: mecanisme-attention
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Comment un modèle décide quels mots comptent pour comprendre une phrase.
+tags: [transformeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les tokens
+slug: tokens
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Les morceaux de mots que manipulent les modèles de langage.
+tags: [transformeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fenêtre de contexte
+slug: fenetre-contexte
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  La quantité de texte qu'un modèle peut prendre en compte d'un seul coup.
+tags: [transformeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les embeddings
+slug: embeddings
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Représenter le sens des mots par des nombres, pour mesurer leur proximité.
+tags: [transformeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les modèles ouverts et fermés
+slug: modeles-ouverts-fermes
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Poids publiés ou non : ce que cela change pour la recherche et la sécurité.
+tags: [transformeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Du GPT de 2018 aux modèles actuels
+slug: gpt-2018-modeles-actuels
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Les grandes étapes de l'évolution des modèles de langage.
+tags: [transformeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Faire tourner une IA sur son ordinateur
+slug: faire-tourner-ia-ordinateur
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Les modèles locaux fonctionnent sans internet : un moyen de garder l'accès au savoir hors ligne.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La génération d'images
+slug: generation-images
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Les modèles de diffusion : partir du bruit pour arriver à une image.
+tags: [ia-generative]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La génération de voix et de musique
+slug: generation-voix-musique
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Des voix clonées aux chansons générées : techniques et enjeux.
+tags: [ia-generative]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les deepfakes
+slug: deepfakes
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Des vidéos truquées réalistes : risques de manipulation et moyens de détection.
+tags: [ia-generative]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les agents d'IA
+slug: agents-ia
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Des IA qui enchaînent des actions pour accomplir une tâche, et les risques associés.
+tags: [ia-generative]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA et la création artistique
+slug: ia-creation-artistique
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Qui est l'auteur d'une œuvre générée, et ce que l'IA change pour les artistes.
+tags: [ia-generative]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La génération de vidéos
+slug: generation-videos
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Les progrès rapides de la vidéo générée et leurs limites.
+tags: [ia-generative]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le filigrane des contenus générés
+slug: filigrane-contenus-generes
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Marquer les textes et images produits par IA : techniques et efficacité.
+tags: [ia-generative]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA ne sait pas ce qu'elle ne sait pas
+slug: ia-sait-qu-sait
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Pourquoi un modèle affirme avec assurance des choses fausses.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le raisonnement des modèles de langage
+slug: raisonnement-modeles-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Ce qu'ils savent faire en logique et en mathématiques, et où ils échouent.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'injection de prompt
+slug: injection-prompt
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Des instructions cachées dans un texte qui détournent le comportement d'une IA.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Vérifier une réponse d'IA
+slug: verifier-reponse-ia
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Les bons réflexes pour ne pas se laisser tromper.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le paradoxe de Moravec
+slug: paradoxe-moravec
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Pourquoi ce qui est facile pour un enfant est difficile pour une machine, et inversement.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'alignement des IA
+slug: alignement-ia
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Faire en sorte qu'une IA poursuive les objectifs voulus par ses concepteurs.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les IA sont-elles conscientes
+slug: ia-elles-conscientes
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Ce que la science peut dire, et ne peut pas encore dire, sur cette question.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La reconnaissance faciale et ses erreurs
+slug: reconnaissance-faciale-erreurs
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Des taux d'erreur différents selon la couleur de peau : études et conséquences.
+tags: [biais]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les biais de genre dans les IA
+slug: biais-genre-ia
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Traductions, recrutement, images générées : comment les stéréotypes se reproduisent.
+tags: [biais]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'algorithme de recrutement d'Amazon
+slug: algorithme-recrutement-amazon
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un outil abandonné parce qu'il pénalisait les candidatures féminines.
+tags: [biais]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les algorithmes en justice
+slug: algorithmes-justice
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Prédire la récidive : l'affaire COMPAS aux États-Unis.
+tags: [biais]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Mesurer l'équité d'un algorithme
+slug: mesurer-equite-algorithme
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Plusieurs définitions de l'équité, parfois incompatibles entre elles.
+tags: [biais]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les biais culturels et linguistiques
+slug: biais-culturels-linguistiques
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Des IA entraînées surtout en anglais, qui comprennent moins bien les autres cultures.
+tags: [biais]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les systèmes à haut risque
+slug: systemes-haut-risque
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Ce que le règlement européen impose aux IA utilisées dans la santé, l'emploi ou la justice.
+tags: [regulation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La régulation de l'IA aux États-Unis et en Chine
+slug: regulation-ia-etats-unis-chine
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Trois modèles de régulation qui s'opposent.
+tags: [regulation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La reconnaissance faciale dans l'espace public
+slug: reconnaissance-faciale-espace-public
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Autorisée, encadrée ou interdite selon les pays.
+tags: [regulation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La responsabilité en cas d'erreur d'une IA
+slug: responsabilite-cas-erreur-ia
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Qui est responsable quand une IA cause un dommage.
+tags: [regulation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sécurité des IA les plus puissantes
+slug: securite-ia-puissantes
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Évaluations, laboratoires de sûreté et engagements des entreprises.
+tags: [regulation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA et les armes autonomes
+slug: ia-armes-autonomes
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Le débat international sur les systèmes d'armes létales autonomes.
+tags: [regulation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA dans l'éducation
+slug: ia-education
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Tricherie, tutorat personnalisé : ce que l'IA change à l'école.
+tags: [travail-et-usages]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA dans la santé
+slug: ia-sante
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Diagnostic, découverte de médicaments, gestion administrative.
+tags: [travail-et-usages]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les métiers les plus exposés
+slug: metiers-exposes
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Ce que disent les études sur les emplois transformés ou menacés.
+tags: [travail-et-usages]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Bien utiliser un assistant conversationnel
+slug: bien-utiliser-assistant-conversationnel
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Formuler une demande, vérifier, protéger ses données.
+tags: [travail-et-usages]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA et la productivité
+slug: ia-productivite
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Ce que mesurent les études sur les gains réels dans les entreprises.
+tags: [travail-et-usages]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA dans la recherche scientifique
+slug: ia-recherche-scientifique
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Des mathématiques à la biologie : les découvertes assistées par l'IA.
+tags: [travail-et-usages]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les hivers de l'IA
+slug: hivers-ia
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  De la conférence de Dartmouth en 1956 aux périodes de désillusion : une histoire faite de promesses et de reculs.
+tags: [apprentissage-profond]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le test de Turing
+slug: test-turing
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une machine peut-elle se faire passer pour un humain, et ce test mesure-t-il vraiment l'intelligence ?
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'effet ELIZA
+slug: effet-eliza
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Depuis le premier chatbot en 1966, nous prêtons facilement des sentiments aux machines qui parlent.
+tags: [limites-et-erreurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'IA et les élections
+slug: ia-elections
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Désinformation, faux enregistrements, ciblage : les risques et les mesures prises par les États et les plateformes.
+tags: [regulation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

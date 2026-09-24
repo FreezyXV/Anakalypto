@@ -1160,3 +1160,1057 @@ production mondiale serait impossible.
 alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: L'Himalaya et l'Everest
+slug: himalaya-everest
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Comment la collision entre l'Inde et l'Asie a créé les plus hautes montagnes du monde.
+tags: [reliefs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'érosion et les paysages
+slug: erosion-paysages
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Eau, vent et glace sculptent les reliefs : des canyons aux vallées glaciaires.
+tags: [reliefs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les déserts
+slug: deserts
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Chauds ou froids, de sable ou de pierre : ce qui fait un désert.
+tags: [reliefs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les plaines et les deltas
+slug: plaines-deltas
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Les terres plates et fertiles où vit une grande partie de l'humanité.
+tags: [reliefs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Lire une carte topographique
+slug: lire-carte-topographique
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Courbes de niveau, échelle, orientation : se repérer et comprendre le relief sur le papier.
+tags: [reliefs, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les glaciers
+slug: glaciers
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Comment ils se forment, avancent, reculent, et ce que leur fonte signifie.
+tags: [reliefs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La mousson
+slug: mousson
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Le régime de pluies qui fait vivre la moitié de la population mondiale.
+tags: [climatologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les cyclones tropicaux
+slug: cyclones-tropicaux
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Ouragans, typhons, cyclones : comment se forment les tempêtes les plus violentes.
+tags: [climatologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les microclimats
+slug: microclimats
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Pourquoi il fait plus chaud en ville et plus frais au bord d'un lac.
+tags: [climatologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Prévoir le temps sans instruments
+slug: prevoir-temps-sans-instruments
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Nuages, vent, comportement des animaux : ce que l'observation permet de prévoir, et ses limites.
+tags: [climatologie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les prévisions météorologiques
+slug: previsions-meteorologiques
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Du baromètre aux supercalculateurs : comment on prévoit le temps aujourd'hui.
+tags: [climatologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le climat méditerranéen
+slug: climat-mediterraneen
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des étés secs et des hivers doux, sur cinq régions du monde.
+tags: [climatologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le calendrier des saisons et des cultures
+slug: calendrier-saisons-cultures
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Latitude, saisons, gelées : adapter les semis et récoltes au climat local.
+tags: [climatologie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grands fleuves du monde
+slug: grands-fleuves-monde
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Nil, Amazone, Yangtsé : des fleuves qui ont façonné des civilisations.
+tags: [hydrographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les bassins versants
+slug: bassins-versants
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Chaque goutte de pluie rejoint un cours d'eau : la logique de l'organisation de l'eau.
+tags: [hydrographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les lacs
+slug: lacs
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Formation, types, et lacs menacés comme la mer d'Aral.
+tags: [hydrographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les crues et les inondations
+slug: crues-inondations
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Pourquoi les rivières débordent, et les crues historiques.
+tags: [hydrographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les eaux partagées entre pays
+slug: eaux-partagees-entre-pays
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Nil, Mékong, Tigre et Euphrate : les tensions autour des fleuves transfrontaliers.
+tags: [hydrographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les sources et les résurgences
+slug: sources-resurgences
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Où l'eau souterraine ressort à la surface, et les réseaux karstiques.
+tags: [hydrographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La transition démographique
+slug: transition-demographique
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Le passage d'une forte natalité et mortalité à des taux bas : un phénomène mondial.
+tags: [demographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le vieillissement de la population
+slug: vieillissement-population
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Japon, Europe, Chine : les conséquences d'une population qui vieillit.
+tags: [demographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La démographie de l'Afrique
+slug: demographie-afrique
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Le continent qui comptera un quart de l'humanité en 2050.
+tags: [demographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'espérance de vie
+slug: esperance-vie
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Elle a doublé en deux siècles : les raisons de ce progrès.
+tags: [demographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pyramide des âges
+slug: pyramide-ages
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Lire l'histoire d'un pays dans la répartition de sa population par âge.
+tags: [demographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La baisse de la fécondité
+slug: baisse-fecondite
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Pourquoi le nombre d'enfants par femme baisse presque partout.
+tags: [demographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les mégapoles
+slug: megapoles
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Tokyo, Delhi, Shanghai, Lagos : les villes de plus de dix millions d'habitants.
+tags: [urbanisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les bidonvilles
+slug: bidonvilles
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Un milliard de personnes vivent dans des quartiers informels : causes et politiques.
+tags: [urbanisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'étalement urbain
+slug: etalement-urbain
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Pourquoi les villes s'étendent, et ce que cela coûte en terres et en transports.
+tags: [urbanisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les villes nouvelles
+slug: villes-nouvelles
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Brasilia, Canberra, les villes nouvelles françaises : bâtir une ville de toutes pièces.
+tags: [urbanisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Organiser un village autonome
+slug: organiser-village-autonome
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Eau, énergie, nourriture, déchets : ce dont une petite communauté a besoin pour fonctionner.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les transports urbains
+slug: transports-urbains
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Métro, tramway, bus, vélo : comment se déplacent les habitants des villes.
+tags: [urbanisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'exode rural
+slug: exode-rural
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Le grand mouvement des campagnes vers les villes depuis le XIXe siècle.
+tags: [migrations]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les diasporas
+slug: diasporas
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Chinoise, indienne, libanaise : des communautés dispersées et reliées.
+tags: [migrations]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les réfugiés dans le monde
+slug: refugies-monde
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Qui sont les réfugiés, où vont-ils et quel est leur statut.
+tags: [migrations]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les routes migratoires vers l'Europe
+slug: routes-migratoires-vers-europe
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Méditerranée, Balkans : des routes dangereuses et leurs évolutions.
+tags: [migrations]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les transferts d'argent des migrants
+slug: transferts-argent-migrants
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Plus que l'aide au développement : les sommes envoyées vers les pays d'origine.
+tags: [migrations]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grandes migrations de l'histoire
+slug: grandes-migrations-histoire
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des peuplements préhistoriques aux migrations européennes vers l'Amérique.
+tags: [migrations]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les frontières naturelles, un mythe
+slug: frontieres-naturelles-mythe
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Fleuves et montagnes ne font pas les frontières : ce sont des choix politiques.
+tags: [frontieres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les murs frontaliers
+slug: murs-frontaliers
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  De Berlin à la frontière américano-mexicaine : pourquoi on construit des murs.
+tags: [frontieres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les frontières maritimes
+slug: frontieres-maritimes
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Eaux territoriales, zones économiques exclusives : le découpage des mers.
+tags: [frontieres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'espace Schengen
+slug: espace-schengen
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Circuler librement en Europe : fonctionnement et limites.
+tags: [frontieres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les conflits territoriaux actuels
+slug: conflits-territoriaux-actuels
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Cachemire, Taïwan, mer de Chine : les frontières contestées.
+tags: [frontieres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les enclaves et les bizarreries frontalières
+slug: enclaves-bizarreries-frontalieres
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Baarle-Nassau, Llívia : quand les frontières dessinent des casse-têtes.
+tags: [frontieres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les terres rares
+slug: terres-rares
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Indispensables aux aimants et à l'électronique, dominées par la Chine.
+tags: [ressources]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cuivre
+slug: cuivre
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Le métal de l'électrification, et les pays qui le produisent.
+tags: [ressources]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'eau, ressource géopolitique
+slug: eau-ressource-geopolitique
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Barrages et partage des fleuves au cœur de tensions internationales.
+tags: [ressources]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les ressources d'un territoire
+slug: ressources-territoire
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Bois, pierre, argile, eau, terres cultivables : inventorier ce qu'un territoire peut fournir localement.
+tags: [ressources, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sable, une ressource qui s'épuise
+slug: sable-ressource-s-epuise
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Le matériau le plus extrait au monde après l'eau, pour le béton.
+tags: [ressources]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les terres agricoles
+slug: terres-agricoles
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Où se trouvent les meilleures terres et comment leur accaparement s'est accéléré.
+tags: [ressources]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le détroit d'Ormuz
+slug: detroit-ormuz
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Un cinquième du pétrole mondial passe par ce couloir de quelques dizaines de kilomètres.
+tags: [routes-et-detroits]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le canal de Panama
+slug: canal-panama
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Relier Atlantique et Pacifique : histoire, écluses et sécheresse.
+tags: [routes-et-detroits]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les routes de la soie
+slug: routes-soie
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des caravanes antiques au projet chinois des nouvelles routes de la soie.
+tags: [routes-et-detroits]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La route maritime du Nord
+slug: route-maritime-nord
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Le réchauffement ouvre l'Arctique à la navigation : opportunités et risques.
+tags: [routes-et-detroits]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le détroit de Malacca
+slug: detroit-malacca
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Le passage le plus fréquenté d'Asie, entre océan Indien et Pacifique.
+tags: [routes-et-detroits]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Naviguer sans GPS
+slug: naviguer-sans-gps
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Boussole, étoiles, carte et estime : les méthodes de navigation traditionnelles.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La piraterie maritime
+slug: piraterie-maritime
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  De la Somalie au golfe de Guinée : une menace pour le commerce mondial.
+tags: [routes-et-detroits]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grottes et le relief karstique
+slug: grottes-relief-karstique
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Quand l'eau dissout le calcaire : gouffres, rivières souterraines et grottes.
+tags: [reliefs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les vents dominants et les alizés
+slug: vents-dominants-alizes
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  La circulation générale de l'atmosphère, qui a guidé les navigateurs pendant des siècles.
+tags: [climatologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le recensement de la population
+slug: recensement-population
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Compter les habitants d'un pays : méthodes, histoire et difficultés.
+tags: [demographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les villes face à la montée des eaux
+slug: villes-face-montee-eaux
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Jakarta, Venise, Lagos : des villes littorales menacées et leurs stratégies.
+tags: [urbanisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grandes zones de pêche
+slug: grandes-zones-peche
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Où se concentrent les poissons, et la compétition entre flottes pour y accéder.
+tags: [ressources]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les migrations internes en Chine
+slug: migrations-internes-chine
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des centaines de millions de ruraux partis travailler dans les villes côtières.
+tags: [migrations]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

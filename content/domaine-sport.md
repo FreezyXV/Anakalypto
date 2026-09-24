@@ -1221,3 +1221,1023 @@ Agir sur ces obstacles est plus efficace que de répéter qu'il faut bouger.
 texte alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Les fibres musculaires lentes et rapides
+slug: fibres-musculaires-lentes-rapides
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Pourquoi un marathonien et un sprinteur n'ont pas les mêmes muscles.
+tags: [energetique-musculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La VO2 max
+slug: vo2-max
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  La quantité maximale d'oxygène qu'on peut utiliser, indicateur de l'endurance.
+tags: [energetique-musculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'acide lactique, un faux coupable
+slug: acide-lactique-faux-coupable
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Il n'est pas responsable des courbatures : ce que la science a corrigé.
+tags: [energetique-musculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les courbatures
+slug: courbatures
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Des micro-lésions musculaires qui apparaissent le lendemain de l'effort.
+tags: [energetique-musculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'alimentation de l'effort
+slug: alimentation-effort
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Glucides, hydratation, récupération : bien manger pour performer.
+tags: [energetique-musculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fréquence cardiaque à l'effort
+slug: frequence-cardiaque-effort
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Zones d'entraînement et fréquence maximale.
+tags: [energetique-musculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sport par forte chaleur
+slug: sport-forte-chaleur
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Coup de chaleur et déshydratation : les risques et les précautions.
+tags: [energetique-musculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La surcompensation
+slug: surcompensation
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Le principe qui explique pourquoi on progresse pendant la récupération.
+tags: [entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le fractionné
+slug: fractionne
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Alterner efforts intenses et récupération pour progresser plus vite.
+tags: [entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La musculation
+slug: musculation
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Force, hypertrophie, endurance musculaire : les principes de l'entraînement.
+tags: [entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le surentraînement
+slug: surentrainement
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Quand l'entraînement fait régresser : signes et prévention.
+tags: [entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'étirement, utile ou non
+slug: etirement-utile-non
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Ce que disent les études sur les étirements avant et après le sport.
+tags: [entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La préparation mentale
+slug: preparation-mentale
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Visualisation, gestion du stress : le mental des champions.
+tags: [entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'entraînement en altitude
+slug: entrainement-altitude
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Pourquoi les athlètes vont s'entraîner en montagne.
+tags: [entrainement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Soigner une entorse
+slug: soigner-entorse
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Repos, glace, compression, élévation : les premiers soins et la rééducation.
+tags: [blessures-et-prevention, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Immobiliser une fracture
+slug: immobiliser-fracture
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Reconnaître une fracture et stabiliser le membre en attendant un soin.
+tags: [blessures-et-prevention, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La rupture du ligament croisé
+slug: rupture-ligament-croise
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Une blessure fréquente au football et au ski : opération et retour au sport.
+tags: [blessures-et-prevention]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les commotions dans le sport
+slug: commotions-sport
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Rugby, football américain : un risque longtemps sous-estimé.
+tags: [blessures-et-prevention]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les tendinites
+slug: tendinites
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Surutilisation, gestes répétés : prévenir et soigner.
+tags: [blessures-et-prevention]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La mort subite du sportif
+slug: mort-subite-sportif
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Rare mais dramatique : le dépistage et le défibrillateur.
+tags: [blessures-et-prevention]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'échauffement
+slug: echauffement
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Pourquoi et comment préparer le corps à l'effort.
+tags: [blessures-et-prevention]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les règles du rugby
+slug: regles-rugby
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Mêlée, touche, essai : comprendre un sport réputé complexe.
+tags: [sports-collectifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le basket-ball
+slug: basket-ball
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Inventé en 1891 par un professeur pour occuper ses élèves en hiver.
+tags: [sports-collectifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La tactique au football
+slug: tactique-football
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Des systèmes en 4-4-2 au pressing : comment les entraîneurs organisent une équipe.
+tags: [sports-collectifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le handball
+slug: handball
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Un sport où la France est une grande nation.
+tags: [sports-collectifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le volley-ball
+slug: volley-ball
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Rotation, passe, smash : un sport sans contact.
+tags: [sports-collectifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La Coupe du monde de football
+slug: coupe-monde-football
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Histoire du plus grand événement sportif de la planète.
+tags: [sports-collectifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cricket
+slug: cricket
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Le deuxième sport le plus suivi au monde, grâce à l'Inde.
+tags: [sports-collectifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le marathon
+slug: marathon
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  De la légende de Phidippidès aux marathons en moins de deux heures.
+tags: [sports-individuels]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Apprendre à nager
+slug: apprendre-nager
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Un savoir vital : les étapes pour être à l'aise dans l'eau et ne pas se noyer.
+tags: [sports-individuels, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Tour de France
+slug: tour-france
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Une course de trois semaines née en 1903 pour vendre un journal.
+tags: [sports-individuels]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le tennis
+slug: tennis
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Des jeux de paume aux quatre tournois du Grand Chelem.
+tags: [sports-individuels]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les arts martiaux
+slug: arts-martiaux
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Judo, karaté, taekwondo : origines et philosophie.
+tags: [sports-individuels]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'escalade
+slug: escalade
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Devenue olympique en 2021 : blocs, difficulté, vitesse.
+tags: [sports-individuels]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La gymnastique
+slug: gymnastique
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Force, souplesse et précision : les agrès et la notation.
+tags: [sports-individuels]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les Jeux paralympiques
+slug: jeux-paralympiques
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
+summary: >
+  De Stoke Mandeville en 1948 aux Jeux de Paris 2024.
+tags: [sports-et-handicap]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les lames de course
+slug: lames-course
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
+summary: >
+  La technologie des prothèses et le débat sur l'avantage qu'elles donnent.
+tags: [sports-et-handicap]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cécifoot
+slug: cecifoot
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
+summary: >
+  Le football pour les joueurs aveugles, avec un ballon sonore.
+tags: [sports-et-handicap]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le basket en fauteuil
+slug: basket-fauteuil
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
+summary: >
+  Un sport rapide et spectaculaire aux règles adaptées.
+tags: [sports-et-handicap]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sport adapté au handicap mental
+slug: sport-adapte-handicap-mental
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
+summary: >
+  Un sport longtemps exclu des Jeux et ses compétitions.
+tags: [sports-et-handicap]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Rendre le sport accessible
+slug: rendre-sport-accessible
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
+summary: >
+  Équipements, clubs et encadrement pour tous.
+tags: [sports-et-handicap]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'EPO
+slug: epo
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Augmenter les globules rouges : le produit du scandale Festina en 1998.
+tags: [dopage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le passeport biologique
+slug: passeport-biologique
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Suivre les paramètres sanguins d'un athlète dans le temps pour détecter le dopage.
+tags: [dopage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dopage d'État en Russie
+slug: dopage-etat-russie
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Le scandale révélé en 2015 et ses conséquences.
+tags: [dopage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Lance Armstrong
+slug: lance-armstrong
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Sept Tours de France retirés : l'histoire d'une tricherie organisée.
+tags: [dopage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les anabolisants
+slug: anabolisants
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Muscler artificiellement : effets et dangers pour la santé.
+tags: [dopage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dopage chez les amateurs
+slug: dopage-chez-amateurs
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Un problème de santé publique au-delà du sport de haut niveau.
+tags: [dopage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les droits télévisés
+slug: droits-televises
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport
+summary: >
+  La principale source de revenus du football professionnel.
+tags: [economie-du-sport]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le coût des Jeux olympiques
+slug: cout-jeux-olympiques
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport
+summary: >
+  Pourquoi les villes candidates sont de moins en moins nombreuses.
+tags: [economie-du-sport]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les transferts de joueurs
+slug: transferts-joueurs
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport
+summary: >
+  L'arrêt Bosman et l'explosion des montants.
+tags: [economie-du-sport]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sponsoring
+slug: sponsoring
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport
+summary: >
+  Les marques et le sport : un partenariat ancien.
+tags: [economie-du-sport]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les paris sportifs
+slug: paris-sportifs
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport
+summary: >
+  Un marché en croissance et ses risques : addiction et matchs truqués.
+tags: [economie-du-sport]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sport féminin professionnel
+slug: sport-feminin-professionnel
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport
+summary: >
+  Audiences, salaires, médiatisation : une croissance rapide.
+tags: [economie-du-sport]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sédentarité
+slug: sedentarite
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  Rester assis trop longtemps nuit à la santé, même si l'on fait du sport.
+tags: [activite-physique-et-sante]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Marcher 10 000 pas par jour
+slug: marcher-10-000-jour
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  D'où vient ce chiffre et ce que disent réellement les études.
+tags: [activite-physique-et-sante]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sport et la santé mentale
+slug: sport-sante-mentale
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  L'activité physique réduit l'anxiété et la dépression.
+tags: [activite-physique-et-sante]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sport chez les seniors
+slug: sport-chez-seniors
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  Rester actif pour prévenir les chutes et la perte d'autonomie.
+tags: [activite-physique-et-sante]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sport sur ordonnance
+slug: sport-ordonnance
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  Prescrire l'activité physique comme un médicament.
+tags: [activite-physique-et-sante]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sport et les enfants
+slug: sport-enfants
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  Quelle activité, combien de temps, et pourquoi c'est essentiel.
+tags: [activite-physique-et-sante]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Porter et soulever sans se blesser
+slug: porter-soulever-sans-blesser
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  Les gestes pour porter des charges lourdes en protégeant son dos.
+tags: [activite-physique-et-sante, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---

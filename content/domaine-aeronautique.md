@@ -100,7 +100,7 @@ categoryPath: aeronautique/aerodynamique/portance
 summary: >
   Si une aile est trop inclinée face au vent, l'air ne la suit plus et l'avion cesse
   brutalement de voler. Cela peut arriver à n'importe quelle vitesse.
-tags: [aeronautique, aerodynamique, decrochage, incidence, portance]
+tags: [portance]
 relatedArticles: [physique-portance-aerodynamique]
 sources:
   - title: "Airplane, flight control systems"
@@ -183,7 +183,7 @@ categoryPath: aeronautique/aerodynamique/trainee
 summary: >
   Les petites ailettes relevées à l'extrémité des ailes ne sont pas un décor. Elles cassent des
   tourbillons qui freinent l'avion et font économiser jusqu'à 6 % de carburant.
-tags: [aeronautique, aerodynamique, trainee, winglets, consommation]
+tags: [portance]
 relatedArticles: [trainee-aerodynamique-reduction]
 sources:
   - title: "Winglets"
@@ -276,7 +276,7 @@ categoryPath: aeronautique/aerodynamique/ecoulements
 summary: >
   Contre la surface d'une aile, l'air est immobile. Quelques millimètres plus loin, il file à
   900 km/h. Tout se joue dans cette mince pellicule.
-tags: [aerodynamique, couche-limite, turbulence, frottement, Reynolds]
+tags: [portance]
 relatedArticles: [trainee-aerodynamique-reduction]
 sources:
   - title: "Boundary layer"
@@ -369,7 +369,7 @@ categoryPath: aeronautique/aerodynamique/ecoulements
 summary: >
   Un avion de ligne ne dépasse jamais la vitesse du son. Mais l'air qui passe sur son aile, lui,
   la dépasse — et cela crée une onde de choc.
-tags: [aerodynamique, transsonique, onde-de-choc, Mach, fleche]
+tags: [portance]
 relatedArticles: [couche-limite-transition-laminaire-turbulent]
 sources:
   - title: "Airplane aerodynamics"
@@ -461,7 +461,7 @@ categoryPath: aeronautique/aviation-civile/decarbonation
 summary: >
   L'hydrogène contient trois fois plus d'énergie que le kérosène pour un même poids. Mais il en
   occupe quatre fois le volume, même glacé à moins 253 degrés.
-tags: [aeronautique, hydrogene, decarbonation, propulsion, transport-aerien]
+tags: [portance]
 relatedArticles: [carburants-aviation-durables-saf]
 sources:
   - title: "Hydrogen"
@@ -555,7 +555,7 @@ categoryPath: aeronautique/aviation-civile/securite
 summary: >
   Après chaque accident, des enquêteurs cherchent les causes — mais surtout pas les coupables.
   Cette règle étrange est l'une des raisons pour lesquelles l'avion est devenu si sûr.
-tags: [aeronautique, securite, enquete, BEA, boite-noire]
+tags: [portance]
 relatedArticles: [statistiques-mondiales-securite-aerienne]
 sources:
   - title: "Le BEA"
@@ -646,7 +646,7 @@ categoryPath: aeronautique/aviation-civile/certification-aeronautique
 summary: >
   Pour prouver qu'un avion est sûr, on en casse un. Littéralement : une aile complète est tordue
   en laboratoire jusqu'à ce qu'elle rompe.
-tags: [aeronautique, certification, EASA, FAA, essais]
+tags: [portance]
 relatedArticles: [enquetes-de-securite-apres-accident]
 sources:
   - title: "Certification specifications"
@@ -740,7 +740,7 @@ categoryPath: aeronautique/propulsion/turboreacteurs
 summary: >
   Les réacteurs modernes sont bien plus gros que ceux des années 1960, et pourtant bien plus
   silencieux et économes. La raison tient en une idée simple.
-tags: [propulsion, turboreacteur, double-flux, rendement, bruit]
+tags: [portance]
 relatedArticles: [fonctionnement-turboreacteur]
 sources:
   - title: "Turbofan"
@@ -841,7 +841,7 @@ categoryPath: aeronautique/propulsion/turbopropulseurs
 summary: >
   Sur les trajets courts, un avion à hélice consomme un quart à un tiers de moins qu'un avion à
   réaction de taille comparable.
-tags: [propulsion, turbopropulseur, helice, aviation-regionale, rendement]
+tags: [portance]
 relatedArticles: [taux-de-dilution-turboreacteurs]
 sources:
   - title: "Turboprop"
@@ -932,7 +932,7 @@ categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
 summary: >
   Une batterie stocke environ cinquante fois moins d'énergie qu'un même poids de kérosène. Et
   contrairement à un avion classique, un avion électrique ne s'allège jamais en vol.
-tags: [propulsion, electrique, hybride, batteries, aviation-legere]
+tags: [portance]
 relatedArticles: [avion-a-hydrogene-etat-des-projets, prix-des-batteries-lithium-ion-2025]
 sources:
   - title: "Grid-scale storage"
@@ -1028,7 +1028,7 @@ categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
 summary: >
   Sans rien voir dehors, un pilote sait sa vitesse, son altitude, son inclinaison et son cap.
   Six cadrans ont suffi pendant cinquante ans.
-tags: [aeronautique, instruments, altimetre, horizon-artificiel, pilotage]
+tags: [portance]
 relatedArticles: [systemes-de-navigation-inertielle-et-satellitaire]
 sources:
   - title: "Pilot's Handbook of Aeronautical Knowledge"
@@ -1128,7 +1128,7 @@ categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
 summary: >
   L'une compte ses propres mouvements depuis le départ et se trompe un peu plus chaque heure.
   L'autre écoute des satellites et peut être brouillée. Ensemble, elles se complètent.
-tags: [navigation, inertielle, GPS, Galileo, satellites]
+tags: [portance]
 relatedArticles: [instruments-de-vol-primaires, constellations-satellites-orbite-basse]
 sources:
   - title: "Satellite navigation"
@@ -1230,7 +1230,7 @@ categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
 summary: >
   Plus de 100 000 vols décollent chaque jour dans le monde. Des contrôleurs les séparent en
   altitude, en distance et dans le temps pour qu'aucun ne se rencontre.
-tags: [navigation, controle-aerien, separation, radar, securite]
+tags: [portance]
 relatedArticles: [systemes-de-navigation-inertielle-et-satellitaire, statistiques-mondiales-securite-aerienne]
 sources:
   - title: "Air traffic management"
@@ -1464,7 +1464,7 @@ categoryPath: aeronautique/aerodynamique/portance
 summary: >
   Un Airbus A380 pèse jusqu'à 575 tonnes au décollage. Rien ne le soutient, sauf une
   différence de pression entre le dessus et le dessous de ses ailes.
-tags: [aeronautique, aerodynamique, portance, pression, Newton]
+tags: [portance]
 relatedArticles: [decrochage-aerodynamique, trainee-aerodynamique-reduction]
 sources:
   - title: "Airplane"
@@ -1557,7 +1557,7 @@ categoryPath: aeronautique/aerodynamique/trainee
 summary: >
   Trois forces différentes retiennent un avion en arrière. Les ingénieurs se battent pour
   gagner 1 % sur chacune, car sur un long-courrier cela représente des tonnes de kérosène.
-tags: [aeronautique, aerodynamique, trainee, frottement, consommation]
+tags: [portance]
 relatedArticles: [winglets-trainee-induite, couche-limite-transition-laminaire-turbulent]
 sources:
   - title: "Airplane"
@@ -1654,7 +1654,7 @@ categoryPath: aeronautique/aviation-civile/securite
 summary: >
   Le nombre d'accidents mortels par million de vols a été divisé par plus de cinquante depuis
   les années 1970, alors que le trafic était multiplié par dix.
-tags: [aeronautique, securite, statistiques, accidents, transport]
+tags: [portance]
 relatedArticles: [enquetes-de-securite-apres-accident, certification-avion-de-transport]
 sources:
   - title: "Safety report"
@@ -1749,7 +1749,7 @@ categoryPath: aeronautique/propulsion/turboreacteurs
 summary: >
   Aspirer, comprimer, brûler, éjecter. Quatre temps suffisent à décrire le moteur qui propulse
   la quasi-totalité des avions de ligne.
-tags: [aeronautique, propulsion, turbofan, moteur, poussee]
+tags: [portance]
 relatedArticles: [taux-de-dilution-turboreacteurs, carburants-aviation-durables-saf]
 sources:
   - title: "Turbofan"
@@ -1841,7 +1841,7 @@ categoryPath: aeronautique/propulsion/moteurs-a-piston
 summary: >
   Le même cycle à quatre temps que dans une voiture, mais avec une essence encore plombée et
   deux magnétos pour ne jamais tomber en panne d'allumage.
-tags: [aeronautique, propulsion, moteur-a-piston, aviation-legere, helice]
+tags: [portance]
 relatedArticles: [fonctionnement-turboreacteur, turbopropulseur-principe-domaine-emploi]
 sources:
   - title: "Internal-combustion engine"
@@ -1939,7 +1939,7 @@ categoryPath: aeronautique/aviation-civile/decarbonation
 summary: >
   Ils ressemblent au kérosène, se versent dans les mêmes réservoirs, mais ne viennent pas du
   pétrole. Problème : ils représentent encore moins de 1 % du carburant consommé.
-tags: [aeronautique, decarbonation, SAF, kerosene, climat]
+tags: [portance]
 relatedArticles: [avion-a-hydrogene-etat-des-projets, fonctionnement-turboreacteur]
 sources:
   - title: "Sustainable aviation fuel"
@@ -2019,5 +2019,991 @@ des centaines d'usines. C'est l'un des plus gros chantiers industriels du secteu
 
 [Emplacement image : les trois filières de production de carburants durables, légende et texte
 alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Comment les volets et les becs font voler plus lentement
+slug: comment-les-volets-et-les-becs-font-voler-plus-lentement
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le centre de gravité et l’équilibre d’un avion
+slug: le-centre-de-gravite-et-lequilibre-dun-avion
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi les avions ont une queue
+slug: pourquoi-les-avions-ont-une-queue
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le roulis, le tangage et le lacet
+slug: le-roulis-le-tangage-et-le-lacet
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment fonctionnent les commandes de vol électriques
+slug: comment-fonctionnent-les-commandes-de-vol-electriques
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les générateurs de tourbillons
+slug: les-generateurs-de-tourbillons
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi les avions ont des ailes en flèche
+slug: pourquoi-les-avions-ont-des-ailes-en-fleche
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L’effet de sol à l’atterrissage
+slug: leffet-de-sol-a-latterrissage
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment un planeur vole sans moteur
+slug: comment-un-planeur-vole-sans-moteur
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les tourbillons laissés par les gros avions
+slug: les-tourbillons-laisses-par-les-gros-avions
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment fonctionne une postcombustion
+slug: comment-fonctionne-une-postcombustion
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le compresseur et ses risques de décrochage
+slug: le-compresseur-et-ses-risques-de-decrochage
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi un moteur d’avion doit être certifié contre les oiseaux
+slug: pourquoi-un-moteur-davion-doit-etre-certifie-contre-les-oiseaux
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les hélices à pas variable
+slug: les-helices-a-pas-variable
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [turbopropulseurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi les moteurs sont montés sous les ailes
+slug: pourquoi-les-moteurs-sont-montes-sous-les-ailes
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les moteurs à hydrogène contre les piles à combustible
+slug: les-moteurs-a-hydrogene-contre-les-piles-a-combustible
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le refroidissement des moteurs d’avion
+slug: le-refroidissement-des-moteurs-davion
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment un avion démarre son réacteur
+slug: comment-un-avion-demarre-son-reacteur
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dégivrage des ailes et des moteurs
+slug: le-degivrage-des-ailes-et-des-moteurs
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi la foudre ne fait pas tomber un avion
+slug: pourquoi-la-foudre-ne-fait-pas-tomber-un-avion
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Que se passe-t-il en cas de panne moteur
+slug: que-se-passe-t-il-en-cas-de-panne-moteur
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment fonctionne l’évacuation en 90 secondes
+slug: comment-fonctionne-levacuation-en-90-secondes
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les facteurs humains et la gestion des erreurs
+slug: les-facteurs-humains-et-la-gestion-des-erreurs
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi les avions sont pressurisés
+slug: pourquoi-les-avions-sont-pressurises
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La boîte noire et les données de vol
+slug: la-boite-noire-et-les-donnees-de-vol
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment une compagnie entretient sa flotte
+slug: comment-une-compagnie-entretient-sa-flotte
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le rôle du copilote dans la sécurité
+slug: le-role-du-copilote-dans-la-securite
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment les avions évitent les collisions en vol
+slug: comment-les-avions-evitent-les-collisions-en-vol
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le GPS, Galileo et la vulnérabilité du signal
+slug: le-gps-galileo-et-la-vulnerabilite-du-signal
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi les avions suivent des routes aériennes
+slug: pourquoi-les-avions-suivent-des-routes-aeriennes
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment fonctionne l’atterrissage aux instruments
+slug: comment-fonctionne-latterrissage-aux-instruments
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le radar météo à bord
+slug: le-radar-meteo-a-bord
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les turbulences, ce que voit le pilote
+slug: les-turbulences-ce-que-voit-le-pilote
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi un avion peut voler au-dessus des orages
+slug: pourquoi-un-avion-peut-voler-au-dessus-des-orages
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le rôle des NOTAM dans un vol
+slug: le-role-des-notam-dans-un-vol
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les drones et la nouvelle circulation aérienne
+slug: les-drones-et-la-nouvelle-circulation-aerienne
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment un aéroport organise les départs
+slug: comment-un-aeroport-organise-les-departs
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le décollage interrompu et la distance d’arrêt
+slug: le-decollage-interrompu-et-la-distance-darret
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi les pistes sont numérotées
+slug: pourquoi-les-pistes-sont-numerotees
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment un avion se pose par vent de travers
+slug: comment-un-avion-se-pose-par-vent-de-travers
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les avions-citernes et le ravitaillement en vol
+slug: les-avions-citernes-et-le-ravitaillement-en-vol
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les avions de transport militaire
+slug: les-avions-de-transport-militaire
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les avions amphibies et l’hydraviation
+slug: les-avions-amphibies-et-lhydraviation
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les avions solaires et leurs limites
+slug: les-avions-solaires-et-leurs-limites
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les ailes volantes et les avions sans empennage
+slug: les-ailes-volantes-et-les-avions-sans-empennage
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L’impression 3D dans l’aéronautique
+slug: limpression-3d-dans-laeronautique
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les matériaux composites des avions modernes
+slug: les-materiaux-composites-des-avions-modernes
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi un avion fatigue avec les cycles de vol
+slug: pourquoi-un-avion-fatigue-avec-les-cycles-de-vol
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le bruit des avions et les trajectoires optimisées
+slug: le-bruit-des-avions-et-les-trajectoires-optimisees
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les traînées de condensation et le climat
+slug: les-trainees-de-condensation-et-le-climat
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment réduire les émissions au sol
+slug: comment-reduire-les-emissions-au-sol
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les aéroports face aux événements météorologiques extrêmes
+slug: les-aeroports-face-aux-evenements-meteorologiques-extremes
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le contrôle aérien sans radar
+slug: le-controle-aerien-sans-radar
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment les avions communiquent avec le sol
+slug: comment-les-avions-communiquent-avec-le-sol
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L’aviation supersonique civile peut-elle revenir
+slug: laviation-supersonique-civile-peut-elle-revenir
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les avions à décollage et atterrissage verticaux
+slug: les-avions-a-decollage-et-atterrissage-verticaux
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Comment choisir la meilleure altitude de croisière
+slug: comment-choisir-la-meilleure-altitude-de-croisiere
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Pourquoi les avions font parfois des détours
+slug: pourquoi-les-avions-font-parfois-des-detours
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un sujet interactif pour comprendre un mécanisme concret de l'aéronautique, avec une question centrale, des exemples et des choix à explorer dans l'application.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
 
 ---

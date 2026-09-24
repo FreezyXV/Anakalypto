@@ -744,7 +744,7 @@ summary: >
   Les molécules d'un aliment sont bien trop grosses pour entrer dans nos cellules. Toute la
   digestion consiste à les découper.
 tags: [digestion, intestin, enzymes, absorption, hormones]
-relatedArticles: [microbiote-intestinal, role-glucides-lipides-proteines]
+relatedArticles: [microbiote-intestinal-physiologie, role-glucides-lipides-proteines]
 sources:
   - title: "Human digestive system"
     url: "https://www.britannica.com/science/human-digestive-system"
@@ -840,7 +840,7 @@ alternatif à fournir ultérieurement.]
 ---
 type: article
 title: Le microbiote intestinal
-slug: microbiote-intestinal
+slug: microbiote-intestinal-physiologie
 categoryPath: corps-humain-et-sante/physiologie/microbiote
 summary: >
   Des milliers de milliards de micro-organismes vivent dans notre intestin, à peu près autant
@@ -950,7 +950,7 @@ summary: >
   Un antibiotique ne fait pas le tri. Après un traitement de quelques jours, le microbiote met
   des semaines, parfois des mois, à se reconstituer.
 tags: [microbiote, antibiotiques, dysbiose, resistance, intestin]
-relatedArticles: [microbiote-intestinal, resistance-aux-antimicrobiens]
+relatedArticles: [microbiote-intestinal-physiologie, resistance-aux-antimicrobiens]
 sources:
   - title: "Antimicrobial resistance"
     url: "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
@@ -2203,5 +2203,1246 @@ conclure. Et c'est précisément ce qu'on fait avant de recommander un programme
 
 [Emplacement image : illustration du biais d'avance au diagnostic sur une ligne de temps,
 légende et texte alternatif à fournir ultérieurement.]
+
+---
+
+---
+type: article
+title: Le massage cardiaque
+slug: massage-cardiaque
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  Pourquoi quelques minutes de compressions thoraciques peuvent sauver une vie avant l'arrivée des secours.
+tags: [systeme-cardiovasculaire, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'infarctus du myocarde
+slug: infarctus-myocarde
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  Une artère du cœur se bouche : les signes, l'urgence et les facteurs de risque.
+tags: [systeme-cardiovasculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cholestérol, bon et mauvais
+slug: cholesterol-bon-mauvais
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  Ce que mesurent vraiment le LDL et le HDL, et leur rôle dans les maladies cardiovasculaires.
+tags: [systeme-cardiovasculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'AVC
+slug: avc
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  Visage paralysé, bras faible, trouble de la parole : reconnaître un accident vasculaire cérébral et agir vite.
+tags: [systeme-cardiovasculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le sang et ses composants
+slug: sang-composants
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  Globules rouges, blancs, plaquettes, plasma : ce que transporte le sang et à quoi sert chacun.
+tags: [systeme-cardiovasculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les groupes sanguins
+slug: groupes-sanguins
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  A, B, AB, O et rhésus : pourquoi on ne peut pas transfuser n'importe quel sang à n'importe qui.
+tags: [systeme-cardiovasculaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Arrêter une hémorragie
+slug: arreter-hemorragie
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  Compression, pansement compressif, garrot : les gestes qui empêchent de perdre trop de sang.
+tags: [systeme-cardiovasculaire, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le neurone et la synapse
+slug: neurone-synapse
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Comment les cellules nerveuses transmettent l'information par des signaux électriques et chimiques.
+tags: [systeme-nerveux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La maladie d'Alzheimer
+slug: maladie-alzheimer
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Ce qui se passe dans le cerveau, les premiers signes et l'état de la recherche.
+tags: [systeme-nerveux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La douleur
+slug: douleur
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Un signal d'alarme utile qui devient parfois une maladie en soi : les mécanismes de la douleur chronique.
+tags: [systeme-nerveux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les cinq sens, et les autres
+slug: cinq-sens-autres
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Équilibre, position du corps, température : nous avons bien plus de cinq sens.
+tags: [systeme-nerveux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La maladie de Parkinson
+slug: maladie-parkinson
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Un manque de dopamine qui perturbe le mouvement : symptômes, traitements, recherche.
+tags: [systeme-nerveux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'épilepsie
+slug: epilepsie
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une tempête électrique dans le cerveau : causes, crises et gestes à faire.
+tags: [systeme-nerveux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La migraine
+slug: migraine
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Bien plus qu'un mal de tête : mécanismes, déclencheurs et traitements récents.
+tags: [systeme-nerveux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'asthme
+slug: asthme
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Des bronches qui se resserrent : déclencheurs, traitements et bonne utilisation des inhalateurs.
+tags: [systeme-respiratoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le tabac et les poumons
+slug: tabac-poumons
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Cancer, bronchopneumopathie chronique : les effets du tabac et le bénéfice de l'arrêt à tout âge.
+tags: [systeme-respiratoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La tuberculose
+slug: tuberculose
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une maladie ancienne toujours parmi les infections les plus meurtrières du monde.
+tags: [systeme-respiratoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Dégager les voies respiratoires
+slug: degager-voies-respiratoires
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  La manœuvre de Heimlich et la position latérale de sécurité : des gestes simples face à un étouffement.
+tags: [systeme-respiratoire, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Respirer en altitude
+slug: respirer-altitude
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Moins d'oxygène en haut des montagnes : le mal aigu des montagnes et l'acclimatation.
+tags: [systeme-respiratoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'oxygène à l'hôpital
+slug: oxygene-hopital
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Quand et pourquoi on donne de l'oxygène, et le rôle des respirateurs.
+tags: [systeme-respiratoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La déshydratation et le soluté de réhydratation
+slug: deshydratation-solute-rehydratation
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un mélange d'eau, de sel et de sucre qui a sauvé des millions de vies lors des diarrhées.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les vitamines et les carences
+slug: vitamines-carences
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Scorbut, béribéri, rachitisme : ce qui arrive quand un aliment essentiel manque.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le foie, usine chimique du corps
+slug: foie-usine-chimique-corps
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Plus de 500 fonctions : filtrer, stocker, fabriquer, détoxifier.
+tags: [systeme-digestif]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les intolérances et allergies alimentaires
+slug: intolerances-allergies-alimentaires
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Gluten, lactose, arachide : faire la différence entre intolérance et allergie.
+tags: [systeme-digestif]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les besoins nutritionnels de base
+slug: besoins-nutritionnels-base
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Calories, protéines, graisses, vitamines, minéraux : de quoi un corps a besoin pour vivre en bonne santé.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'ulcère et la bactérie Helicobacter
+slug: ulcere-bacterie-helicobacter
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Une découverte qui a valu un prix Nobel : un ulcère se soigne avec des antibiotiques.
+tags: [systeme-digestif]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les maladies auto-immunes
+slug: maladies-auto-immunes
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Quand le système immunitaire attaque le corps : diabète de type 1, sclérose en plaques, polyarthrite.
+tags: [immunite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fièvre, utile ou dangereuse
+slug: fievre-utile-dangereuse
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Pourquoi le corps monte sa température et quand faut-il s'en inquiéter.
+tags: [immunite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'immunothérapie contre le cancer
+slug: immunotherapie-contre-cancer
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Réveiller le système immunitaire pour qu'il attaque les tumeurs.
+tags: [immunite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'immunité collective
+slug: immunite-collective
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Pourquoi la protection d'une population dépend de la part de personnes immunisées.
+tags: [immunite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les greffes et le rejet
+slug: greffes-rejet
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Faire accepter un organe étranger au système immunitaire.
+tags: [immunite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le VIH et le système immunitaire
+slug: vih-systeme-immunitaire
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Comment le virus détruit les défenses du corps, et comment les traitements l'en empêchent.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le microbiote de la peau
+slug: microbiote-peau
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des milliards de bactéries qui protègent la peau et que la toilette excessive peut déséquilibrer.
+tags: [microbiote]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les probiotiques, ce qui est prouvé
+slug: probiotiques-prouve
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Yaourts et compléments : ce que disent réellement les études.
+tags: [microbiote]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La transplantation fécale
+slug: transplantation-fecale
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un traitement étonnant et très efficace contre certaines infections intestinales graves.
+tags: [microbiote]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Microbiote et cerveau
+slug: microbiote-cerveau
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Les liens étudiés entre bactéries intestinales, humeur et comportement.
+tags: [microbiote]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les fibres alimentaires
+slug: fibres-alimentaires
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  La nourriture préférée de notre microbiote, et pourquoi nous n'en mangeons pas assez.
+tags: [microbiote]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'insomnie
+slug: insomnie
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Causes, conséquences et traitements, dont les thérapies comportementales plus efficaces que les somnifères.
+tags: [sommeil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les rêves
+slug: reves
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Ce que la science sait des rêves et du sommeil paradoxal.
+tags: [sommeil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'apnée du sommeil
+slug: apnee-sommeil
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des arrêts respiratoires la nuit, souvent non diagnostiqués, aux conséquences sérieuses.
+tags: [sommeil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'horloge biologique
+slug: horloge-biologique
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Le rythme de 24 heures qui règle sommeil, température et hormones.
+tags: [sommeil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les écrans et le sommeil
+slug: ecrans-sommeil
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Lumière bleue, stimulation, horaires : ce que l'on sait vraiment de l'effet des écrans.
+tags: [sommeil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sieste
+slug: sieste
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Durée idéale, bénéfices, et pourquoi certains se sentent pire après.
+tags: [sommeil]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cancer, comment il apparaît
+slug: cancer-apparait
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des mutations qui s'accumulent et une cellule qui prolifère sans contrôle.
+tags: [maladies-chroniques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'insuffisance cardiaque
+slug: insuffisance-cardiaque
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Un cœur qui ne pompe plus assez : essoufflement, œdèmes, et des traitements qui ont transformé le pronostic.
+tags: [maladies-chroniques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les maladies rénales chroniques
+slug: maladies-renales-chroniques
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des reins qui filtrent de moins en moins : causes, dialyse et greffe.
+tags: [maladies-chroniques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'arthrose
+slug: arthrose
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  L'usure du cartilage des articulations : première cause de douleur chronique.
+tags: [maladies-chroniques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La bronchopneumopathie chronique obstructive
+slug: bronchopneumopathie-chronique-obstructive
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une maladie respiratoire sous-diagnostiquée, principalement due au tabac.
+tags: [maladies-chroniques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Vivre avec une maladie chronique
+slug: vivre-avec-maladie-chronique
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  L'éducation thérapeutique et l'importance de l'adhésion au traitement.
+tags: [maladies-chroniques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le choléra et l'eau contaminée
+slug: cholera-eau-contaminee
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  John Snow et la pompe de Broad Street : l'enquête qui a fondé l'épidémiologie en 1854.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Soigner une plaie
+slug: soigner-plaie
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Nettoyer, désinfecter, surveiller : éviter qu'une blessure ne s'infecte.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le paludisme
+slug: paludisme
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Un parasite transmis par les moustiques qui tue encore des centaines de milliers de personnes par an.
+tags: [maladies-infectieuses]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La grippe espagnole de 1918
+slug: grippe-espagnole-1918
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  La pandémie la plus meurtrière du XXe siècle et ce qu'elle nous apprend.
+tags: [maladies-infectieuses]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Virus et bactéries, quelle différence
+slug: virus-bacteries-quelle-difference
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Pourquoi les antibiotiques soignent les unes et pas les autres.
+tags: [maladies-infectieuses]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les maladies transmises par l'eau et les aliments
+slug: maladies-transmises-eau-aliments
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Typhoïde, dysenterie, hépatite A : les prévenir par l'hygiène et la cuisson.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La peste
+slug: peste
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  De la peste noire au XIVe siècle aux cas actuels : la maladie qui a tué un tiers de l'Europe.
+tags: [maladies-infectieuses]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les troubles anxieux
+slug: troubles-anxieux
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Anxiété généralisée, crises de panique, phobies : quand la peur devient envahissante.
+tags: [sante-mentale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le burn-out
+slug: burn-out
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  L'épuisement professionnel : signes, causes et reconnaissance.
+tags: [sante-mentale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le trouble bipolaire
+slug: trouble-bipolaire
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Alternance de phases dépressives et d'excitation : diagnostic et traitements.
+tags: [sante-mentale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La schizophrénie
+slug: schizophrenie
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une maladie souvent mal comprise : symptômes, idées reçues et prise en charge.
+tags: [sante-mentale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le stress post-traumatique
+slug: stress-post-traumatique
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Après un choc, des souvenirs qui reviennent sans cesse : reconnaître et soigner le traumatisme.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les addictions
+slug: addictions
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Alcool, tabac, jeux : ce qui se passe dans le cerveau et comment on en sort.
+tags: [sante-mentale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'éradication de la variole
+slug: eradication-variole
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  La seule maladie humaine totalement éliminée, en 1980, grâce à la vaccination.
+tags: [vaccination]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Jenner, Pasteur et les premiers vaccins
+slug: jenner-pasteur-premiers-vaccins
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  De la vaccine au vaccin contre la rage : l'histoire des débuts de la vaccination.
+tags: [vaccination]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le calendrier vaccinal
+slug: calendrier-vaccinal
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Quels vaccins à quel âge, et pourquoi certains nécessitent des rappels.
+tags: [vaccination]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les effets indésirables des vaccins
+slug: effets-indesirables-vaccins
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Ce qui est fréquent, ce qui est rare, et comment ils sont surveillés.
+tags: [vaccination]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La défiance envers les vaccins
+slug: defiance-envers-vaccins
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  D'où elle vient, l'affaire Wakefield, et ses conséquences sur la rougeole.
+tags: [vaccination]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La poliomyélite, bientôt éradiquée
+slug: poliomyelite-bientot-eradiquee
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Il ne reste que quelques cas dans le monde : les derniers obstacles.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dépistage du cancer du sein
+slug: depistage-cancer-sein
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Mammographie : bénéfices, faux positifs et surdiagnostic.
+tags: [depistage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dépistage du cancer colorectal
+slug: depistage-cancer-colorectal
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Un test simple à faire chez soi qui réduit la mortalité.
+tags: [depistage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dépistage néonatal
+slug: depistage-neonatal
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Le test du talon qui détecte des maladies rares dès la naissance.
+tags: [depistage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les faux positifs expliqués
+slug: faux-positifs-expliques
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Pourquoi un test fiable à 99 % peut se tromper la plupart du temps pour une maladie rare.
+tags: [depistage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le frottis et le cancer du col de l'utérus
+slug: frottis-cancer-col-uterus
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Un dépistage efficace et le rôle du vaccin contre le papillomavirus.
+tags: [depistage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
 
 ---

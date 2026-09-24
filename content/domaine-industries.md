@@ -1191,3 +1191,1057 @@ non.
 fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Du minerai au fer, le bas fourneau
+slug: minerai-fer-bas-fourneau
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Réduire le minerai de fer avec du charbon de bois : la technique qui a ouvert l'âge du fer.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le haut fourneau
+slug: haut-fourneau
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Coke, minerai, air chaud : comment on produit la fonte en continu, à des milliers de tonnes par jour.
+tags: [siderurgie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La forge et le travail du fer
+slug: forge-travail-fer
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Chauffer, marteler, souder à la forge : le métier qui fabrique outils et pièces à la main.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Fonte, fer et acier, quelle différence
+slug: fonte-fer-acier-quelle-difference
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Tout est une question de carbone : quelques pour mille changent complètement les propriétés du métal.
+tags: [siderurgie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le four électrique et le recyclage de l'acier
+slug: four-electrique-recyclage-acier
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Refondre la ferraille avec de l'électricité : l'acier est le matériau le plus recyclé du monde.
+tags: [siderurgie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La trempe et le revenu
+slug: trempe-revenu
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Chauffer puis refroidir brutalement : comment on rend un acier dur, puis moins cassant.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sidérurgie chinoise
+slug: siderurgie-chinoise
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Plus de la moitié de l'acier mondial produit dans un seul pays : les raisons et les conséquences.
+tags: [siderurgie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Fabriquer du savon
+slug: fabriquer-savon
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Graisse et soude : la saponification, une réaction simple essentielle à l'hygiène.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le procédé Haber-Bosch
+slug: procede-haber-bosch
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Fixer l'azote de l'air pour fabriquer des engrais : l'invention qui nourrit la moitié de l'humanité.
+tags: [chimie-industrielle]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'acide sulfurique
+slug: acide-sulfurique
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Le produit chimique le plus fabriqué au monde, indicateur historique de la puissance industrielle d'un pays.
+tags: [chimie-industrielle]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La soude et la potasse
+slug: soude-potasse
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Des cendres de bois aux usines chimiques : deux bases indispensables au verre, au savon et au papier.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pétrochimie
+slug: petrochimie
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Du naphta aux plastiques : comment le pétrole devient matière première.
+tags: [chimie-industrielle]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les accidents chimiques majeurs
+slug: accidents-chimiques-majeurs
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Bhopal, Seveso, AZF : ce qu'ils ont changé dans la réglementation des sites industriels.
+tags: [chimie-industrielle]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La chimie verte
+slug: chimie-verte
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Concevoir des procédés qui consomment moins d'énergie et produisent moins de déchets toxiques.
+tags: [chimie-industrielle]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La chaîne de montage
+slug: chaine-montage
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Ford et la Model T : comment la division du travail a fait chuter le prix de l'automobile.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'automate programmable
+slug: automate-programmable
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Le petit ordinateur industriel qui pilote machines et usines depuis les années 1970.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les cobots
+slug: cobots
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des robots conçus pour travailler à côté des humains, sans cage de protection.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La machine-outil à commande numérique
+slug: machine-outil-commande-numerique
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Usiner une pièce au centième de millimètre à partir d'un fichier informatique.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le lean manufacturing
+slug: lean-manufacturing
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  La méthode Toyota : produire juste ce qu'il faut, quand il le faut, en chassant le gaspillage.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les usines sans lumière
+slug: usines-sans-lumiere
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des sites qui tournent sans présence humaine : réalité, limites et quelques exemples.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le métier Jacquard
+slug: metier-jacquard
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  En 1801, des cartes perforées pilotent un métier à tisser : un ancêtre de la programmation.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le conteneur
+slug: conteneur
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  La boîte standardisée qui a divisé le coût du transport maritime et mondialisé la production.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le juste-à-temps et ses fragilités
+slug: juste-temps-fragilites
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Supprimer les stocks rend efficace, mais vulnérable aux crises, comme en 2020-2021.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La pénurie de semi-conducteurs
+slug: penurie-semi-conducteurs
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment une crise des puces a arrêté des usines automobiles dans le monde entier.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le code-barres et la traçabilité
+slug: code-barres-tracabilite
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Du code-barres au QR code : suivre un produit de l'usine au consommateur.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le dernier kilomètre
+slug: dernier-kilometre
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  La partie la plus chère d'une livraison et les solutions pour la rendre moins coûteuse.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le canal de Suez bloqué en 2021
+slug: canal-suez-bloque-2021
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Six jours d'Ever Given en travers du canal et les leçons pour le commerce mondial.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Stocker et conserver les marchandises
+slug: stocker-conserver-marchandises
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Silos, entrepôts, rotation des stocks : éviter pertes et pénuries.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le système métrique
+slug: systeme-metrique
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Né de la Révolution française, il est devenu le langage commun des mesures dans le monde.
+tags: [qualite-et-normalisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Mesurer avec précision
+slug: mesurer-avec-precision
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Pied à coulisse, étalons, tolérances : pourquoi la mesure est la base de toute fabrication.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les normes ISO
+slug: normes-iso
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Qui les écrit, à quoi elles servent, et pourquoi les entreprises s'y conforment.
+tags: [qualite-et-normalisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le contrôle qualité statistique
+slug: controle-qualite-statistique
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Contrôler un échantillon plutôt que tout : les cartes de contrôle et la méthode Six Sigma.
+tags: [qualite-et-normalisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les pièces interchangeables
+slug: pieces-interchangeables
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Fabriquer des pièces identiques pour pouvoir les remplacer : une révolution du XIXe siècle.
+tags: [qualite-et-normalisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le marquage CE
+slug: marquage
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Ce que garantit (et ne garantit pas) le petit logo présent sur les produits vendus en Europe.
+tags: [qualite-et-normalisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La redéfinition du kilogramme
+slug: redefinition-kilogramme
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  En 2019, le kilogramme n'est plus un cylindre de métal mais une constante de la physique.
+tags: [qualite-et-normalisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les capteurs, comment ils mesurent
+slug: capteurs-ils-mesurent
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Température, pression, vibration : les principes physiques des capteurs industriels.
+tags: [iot]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La maintenance prédictive
+slug: maintenance-predictive
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Anticiper la panne d'une machine en surveillant ses vibrations et sa température.
+tags: [iot]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les réseaux pour objets connectés
+slug: reseaux-objets-connectes
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  LoRa, 5G, Wi-Fi : quels réseaux pour des capteurs qui doivent tenir des années sur une pile.
+tags: [iot]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La cybersécurité des usines
+slug: cybersecurite-usines
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Stuxnet et les attaques contre les systèmes industriels : pourquoi une usine connectée est vulnérable.
+tags: [iot]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les compteurs intelligents
+slug: compteurs-intelligents
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Linky et ses équivalents : ce qu'ils mesurent, ce qu'ils permettent, et les débats qu'ils ont suscités.
+tags: [iot]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'agriculture connectée
+slug: agriculture-connectee
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Capteurs d'humidité, colliers pour vaches, drones : les objets connectés dans les champs.
+tags: [iot]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les étiquettes RFID
+slug: etiquettes-rfid
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Identifier un objet à distance sans contact : des badges d'accès aux péages.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La simulation numérique en ingénierie
+slug: simulation-numerique-ingenierie
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Calculer la résistance d'une pièce ou l'écoulement de l'air avant de la fabriquer.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le jumeau numérique d'une ville
+slug: jumeau-numerique-ville
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Modéliser les flux d'une ville pour tester des aménagements avant de les construire.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La conception assistée par ordinateur
+slug: conception-assistee-ordinateur
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Du dessin technique à la maquette 3D : comment on conçoit une pièce aujourd'hui.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le jumeau numérique en médecine
+slug: jumeau-numerique-medecine
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Simuler le cœur d'un patient pour préparer une intervention.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le jumeau numérique d'un avion
+slug: jumeau-numerique-avion
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Suivre l'état de chaque appareil en service à partir des données de vol.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les limites des jumeaux numériques
+slug: limites-jumeaux-numeriques
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Données incomplètes, modèles simplifiés, coûts : ce qu'un double numérique ne peut pas faire.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fonderie
+slug: fonderie
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Couler un métal fondu dans un moule en sable : une technique ancienne toujours au cœur de l'industrie.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'usinage
+slug: usinage
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Tourner, fraiser, percer : enlever de la matière pour obtenir une forme précise.
+tags: [mise-en-forme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'impression 3D
+slug: impression-3d
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Fabriquer couche par couche : prototypes, pièces médicales, pièces métalliques pour l'aviation.
+tags: [mise-en-forme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'emboutissage
+slug: emboutissage
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Former des tôles sous presse : comment on fabrique une carrosserie de voiture.
+tags: [mise-en-forme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le soudage
+slug: soudage
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Arc électrique, chalumeau, soudure à la forge : assembler durablement deux pièces de métal.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Filer et tisser
+slug: filer-tisser
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  De la fibre au fil, du fil au tissu : les gestes et machines qui habillent l'humanité.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le moulage par injection des plastiques
+slug: moulage-injection-plastiques
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Injecter un plastique fondu dans un moule : la technique de fabrication d'objets en grande série.
+tags: [mise-en-forme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Qu'est-ce qu'un polymère
+slug: qu-qu-polymere
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  De longues chaînes de molécules répétées : le principe commun aux plastiques, au caoutchouc et à l'ADN.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le caoutchouc naturel et la vulcanisation
+slug: caoutchouc-naturel-vulcanisation
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  De la sève de l'hévéa aux pneus : l'invention de Goodyear qui a rendu le caoutchouc utilisable.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La fibre de carbone
+slug: fibre-carbone
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Légère et très résistante : de la Formule 1 aux avions modernes.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les bioplastiques
+slug: bioplastiques
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Plastiques d'origine végétale ou biodégradables : ne pas confondre les deux.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le nylon et les fibres synthétiques
+slug: nylon-fibres-synthetiques
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  L'invention du nylon en 1935 et la révolution des textiles synthétiques.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les thermoplastiques et thermodurcissables
+slug: thermoplastiques-thermodurcissables
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Pourquoi certains plastiques se refondent et d'autres non, et ce que cela change pour le recyclage.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La bakélite
+slug: bakelite
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Le premier plastique entièrement synthétique, en 1907, et l'âge d'or des objets en bakélite.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---

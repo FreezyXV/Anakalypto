@@ -2173,3 +2173,1176 @@ l'identique, accélérera la construction des savoirs scientifiques.
 alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: La gamme et les notes
+slug: gamme-notes
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Pourquoi sept notes, et d'où viennent do, ré, mi.
+tags: [musique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les grandes familles d'instruments
+slug: grandes-familles-instruments
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Cordes, vents, percussions : comment chaque instrument produit un son.
+tags: [musique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Bach et la musique baroque
+slug: bach-musique-baroque
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Le compositeur qui a fixé les règles de l'harmonie occidentale.
+tags: [musique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le jazz
+slug: jazz
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Né à La Nouvelle-Orléans, un genre qui a révolutionné la musique du XXe siècle.
+tags: [musique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le solfège
+slug: solfege
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Écrire la musique sur une partition : une invention médiévale.
+tags: [musique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La musique électronique
+slug: musique-electronique
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Des synthétiseurs aux logiciels : comment l'électronique a transformé la création musicale.
+tags: [musique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le streaming musical
+slug: streaming-musical
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Comment les plateformes ont changé l'industrie et la rémunération des artistes.
+tags: [musique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Molière
+slug: moliere
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Le dramaturge le plus joué en France et ses comédies de mœurs.
+tags: [theatre-et-danse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Shakespeare
+slug: shakespeare
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Tragédies, comédies, et une influence inégalée sur la langue anglaise.
+tags: [theatre-et-danse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La commedia dell'arte
+slug: commedia-dell-arte
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Les masques et personnages types du théâtre italien.
+tags: [theatre-et-danse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le théâtre nô et le kabuki
+slug: theatre-no-kabuki
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Deux formes du théâtre traditionnel japonais.
+tags: [theatre-et-danse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La danse contemporaine
+slug: danse-contemporaine
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  De Pina Bausch à aujourd'hui : une danse qui rompt avec le ballet classique.
+tags: [theatre-et-danse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le festival d'Avignon
+slug: festival-avignon
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Le plus grand festival de théâtre du monde, créé en 1947.
+tags: [theatre-et-danse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Verdi et l'opéra italien
+slug: verdi-opera-italien
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  La Traviata, Aida : l'opéra populaire du XIXe siècle.
+tags: [opera-et-arts-lyriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Mozart et l'opéra
+slug: mozart-opera
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  La Flûte enchantée, Don Giovanni : des chefs-d'œuvre du genre.
+tags: [opera-et-arts-lyriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La voix lyrique
+slug: voix-lyrique
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Soprano, ténor, baryton : les tessitures et la technique du chant sans micro.
+tags: [opera-et-arts-lyriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Wagner et l'œuvre d'art totale
+slug: wagner-uvre-art-totale
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  L'Anneau du Nibelung et un opéra qui fusionne musique et drame.
+tags: [opera-et-arts-lyriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'opérette et la comédie musicale
+slug: operette-comedie-musicale
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  D'Offenbach à Broadway : le spectacle chanté populaire.
+tags: [opera-et-arts-lyriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Construire une salle d'opéra
+slug: construire-salle-opera
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Acoustique, machinerie, fosse d'orchestre : l'architecture au service de la voix.
+tags: [opera-et-arts-lyriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La Joconde
+slug: joconde
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Pourquoi ce portrait est devenu le tableau le plus célèbre du monde.
+tags: [peinture-et-sculpture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'impressionnisme
+slug: impressionnisme
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Monet, Renoir et la peinture de la lumière en plein air.
+tags: [peinture-et-sculpture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cubisme et Picasso
+slug: cubisme-picasso
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Représenter un objet sous plusieurs angles à la fois.
+tags: [peinture-et-sculpture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Michel-Ange et la chapelle Sixtine
+slug: michel-ange-chapelle-sixtine
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Quatre ans sur un échafaudage pour peindre un plafond.
+tags: [peinture-et-sculpture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La sculpture en bronze
+slug: sculpture-bronze
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  La technique de la fonte à la cire perdue, de l'Antiquité à Rodin.
+tags: [peinture-et-sculpture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les pigments et la fabrication des couleurs
+slug: pigments-fabrication-couleurs
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Ocres, terres, minéraux : comment on fabrique des couleurs depuis la préhistoire.
+tags: [peinture-et-sculpture, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'art contemporain
+slug: art-contemporain
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Pourquoi certaines œuvres déroutent, et comment les regarder.
+tags: [peinture-et-sculpture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le cinéma muet
+slug: cinema-muet
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Chaplin, Méliès, Keaton : l'art du cinéma avant le son.
+tags: [photographie-et-cinema]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le passage au parlant
+slug: passage-parlant
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  En 1927, Le Chanteur de jazz : une révolution pour les acteurs et les studios.
+tags: [photographie-et-cinema]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La Nouvelle Vague
+slug: nouvelle-vague
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Godard, Truffaut et le cinéma français des années 1960.
+tags: [photographie-et-cinema]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les effets spéciaux
+slug: effets-speciaux
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Des maquettes aux images de synthèse : l'illusion au cinéma.
+tags: [photographie-et-cinema]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La photographie numérique
+slug: photographie-numerique
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Comment un capteur remplace la pellicule.
+tags: [photographie-et-cinema]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le photojournalisme
+slug: photojournalisme
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Des photographies qui ont changé la perception des guerres et des crises.
+tags: [photographie-et-cinema]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Bauhaus
+slug: bauhaus
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  L'école allemande qui a inventé le design moderne.
+tags: [arts-graphiques-et-design]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La bande dessinée
+slug: bande-dessinee
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  De Töpffer à Hergé et aux mangas : un art à part entière.
+tags: [arts-graphiques-et-design]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'affiche
+slug: affiche
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Toulouse-Lautrec, Mucha et l'art de l'affiche publicitaire.
+tags: [arts-graphiques-et-design]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le logo et l'identité visuelle
+slug: logo-identite-visuelle
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment une marque se reconnaît en un coup d'œil.
+tags: [arts-graphiques-et-design]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le design industriel
+slug: design-industriel
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Donner forme aux objets du quotidien, de la chaise au téléphone.
+tags: [arts-graphiques-et-design]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La calligraphie
+slug: calligraphie
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  L'art de la belle écriture, en Chine, dans le monde arabe et en Occident.
+tags: [arts-graphiques-et-design]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les pyramides d'Égypte
+slug: pyramides-egypte
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Comment on a construit des monuments de plusieurs millions de blocs il y a 4 500 ans.
+tags: [architecture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'architecture romaine
+slug: architecture-romaine
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  L'arc, la voûte, le béton : les innovations qui ont permis le Colisée et le Panthéon.
+tags: [architecture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Corbusier et l'architecture moderne
+slug: corbusier-architecture-moderne
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Pilotis, plan libre, toit-terrasse : les principes d'une révolution.
+tags: [architecture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Haussmann et le Paris moderne
+slug: haussmann-paris-moderne
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  La transformation de Paris sous le Second Empire.
+tags: [architecture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'architecture vernaculaire
+slug: architecture-vernaculaire
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Construire avec les matériaux et le climat locaux : les maisons traditionnelles du monde.
+tags: [architecture, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'architecture bioclimatique
+slug: architecture-bioclimatique
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Orienter et concevoir un bâtiment pour qu'il se chauffe et se rafraîchisse naturellement.
+tags: [architecture]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le Louvre
+slug: louvre
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Du palais royal au musée le plus visité du monde.
+tags: [musees-et-conservation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La restitution des œuvres
+slug: restitution-uvres
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Faut-il rendre les objets pris pendant la colonisation ? Le débat actuel.
+tags: [musees-et-conservation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'incendie de Notre-Dame et sa restauration
+slug: incendie-notre-dame-restauration
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Cinq ans de chantier et les savoir-faire mobilisés.
+tags: [musees-et-conservation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le vol de la Joconde en 1911
+slug: vol-joconde-1911
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  L'affaire qui a rendu le tableau mondialement célèbre.
+tags: [musees-et-conservation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Protéger le patrimoine en temps de guerre
+slug: proteger-patrimoine-temps-guerre
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Monuments men, Palmyre, Ukraine : sauver les œuvres des conflits.
+tags: [musees-et-conservation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les archives et bibliothèques de préservation
+slug: archives-bibliotheques-preservation
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Conserver la mémoire écrite d'une civilisation pour les générations futures.
+tags: [musees-et-conservation, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le repas gastronomique des Français
+slug: repas-gastronomique-francais
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Inscrit à l'UNESCO en 2010 : ce qui est protégé exactement.
+tags: [patrimoine-immateriel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les langues en danger
+slug: langues-danger
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Une langue disparaît tous les trois mois environ : que perd-on ?
+tags: [patrimoine-immateriel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les contes et la tradition orale
+slug: contes-tradition-orale
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Comment les histoires se transmettent sans écrit.
+tags: [patrimoine-immateriel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les savoir-faire artisanaux
+slug: savoir-faire-artisanaux
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Compagnonnage, métiers d'art : des gestes qui se transmettent de maître à apprenti.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les fêtes traditionnelles
+slug: fetes-traditionnelles
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Carnavals, fêtes religieuses et populaires : leur rôle social.
+tags: [patrimoine-immateriel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les danses traditionnelles
+slug: danses-traditionnelles
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Du flamenco au tango, des danses devenues patrimoine mondial.
+tags: [patrimoine-immateriel]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La poésie
+slug: poesie
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Rimes, vers libres, haïkus : les formes de la poésie.
+tags: [genres-litteraires]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La science-fiction
+slug: science-fiction
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  De Jules Verne à aujourd'hui : un genre qui imagine l'avenir.
+tags: [genres-litteraires]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le roman policier
+slug: roman-policier
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  D'Edgar Allan Poe à Agatha Christie : l'art de l'énigme.
+tags: [genres-litteraires]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les épopées antiques
+slug: epopees-antiques
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  L'Iliade, l'Odyssée, Gilgamesh : les plus vieux récits de l'humanité.
+tags: [genres-litteraires]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La littérature post-apocalyptique
+slug: litterature-post-apocalyptique
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  De La Route à Station Eleven : ce que la fiction imagine de la reconstruction après l'effondrement.
+tags: [genres-litteraires]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le théâtre classique français
+slug: theatre-classique-francais
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Racine, Corneille et la règle des trois unités.
+tags: [genres-litteraires]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'invention de l'écriture
+slug: invention-ecriture
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  En Mésopotamie vers 3300 avant notre ère : des comptes aux récits.
+tags: [histoire-du-livre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Fabriquer du papier
+slug: fabriquer-papier
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Fibres, pâte, séchage : la technique chinoise qui a démocratisé l'écrit.
+tags: [histoire-du-livre, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: La bibliothèque d'Alexandrie
+slug: bibliotheque-alexandrie
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Le plus grand centre de savoir de l'Antiquité et sa disparition.
+tags: [histoire-du-livre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Les manuscrits médiévaux
+slug: manuscrits-medievaux
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Les moines copistes, le parchemin et les enluminures.
+tags: [histoire-du-livre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'encre et les outils d'écriture
+slug: encre-outils-ecriture
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Encres au carbone et au fer, calames, plumes : écrire de façon durable.
+tags: [histoire-du-livre, essentiel-reconstruction]
+priority: 1
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: L'Encyclopédie de Diderot et d'Alembert
+slug: encyclopedie-diderot-alembert
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Rassembler tout le savoir humain au XVIIIe siècle, un projet révolutionnaire.
+tags: [histoire-du-livre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+
+---
+type: article
+title: Le livre numérique
+slug: livre-numerique
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Liseuses, formats, et avenir du livre papier.
+tags: [histoire-du-livre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
