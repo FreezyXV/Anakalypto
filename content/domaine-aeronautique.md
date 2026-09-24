@@ -11347,3 +11347,1308 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: L'ecoulement laminaire autour d'un fuselage supersonique
+slug: l-ecoulement-laminaire-autour-d-un-fuselage-supersonique
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Pourquoi maintenir un ecoulement ordonne devient encore plus critique a tres grande vitesse.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des essuie-glaces et petits accessoires exterieurs
+slug: la-trainee-des-essuie-glaces-et-petits-accessoires-exterieurs
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Meme de tres petits elements exterieurs ajoutent une resistance mesurable a grande vitesse.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee liee aux joints et interstices de la cellule
+slug: la-trainee-liee-aux-joints-et-interstices-de-la-cellule
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi les fabricants soignent l'etancheite aerodynamique de chaque panneau.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction de trainee par gestion active du flux d'air moteur
+slug: la-reduction-de-trainee-par-gestion-active-du-flux-d-air-moteur
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Des systemes qui ajustent l'admission d'air pour limiter les pertes aerodynamiques.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee comparee entre ailes droites et ailes en fleche a basse vitesse
+slug: la-trainee-comparee-entre-ailes-droites-et-ailes-en-fleche-a-basse-vitesse
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi la fleche, avantageuse en croisiere, penalise legerement le vol lent.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de trainee sur avions historiques restaures
+slug: les-tests-de-trainee-sur-avions-historiques-restaures
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment on mesure aujourd'hui l'aerodynamisme d'appareils concus il y a des decennies.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des sieges et de leur resistance aux chocs
+slug: la-certification-des-sieges-et-de-leur-resistance-aux-chocs
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des tests specifiques qui verifient la tenue du mobilier de cabine en cas d'urgence.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des pilotes d'essai etrangers dans la certification croisee
+slug: le-role-des-pilotes-d-essai-etrangers-dans-la-certification-croisee
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment deux autorites differentes valident conjointement un meme appareil.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compensation carbone volontaire des passagers aeriens
+slug: la-compensation-carbone-volontaire-des-passagers-aeriens
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un geste individuel dont l'impact reel reste modeste face aux emissions globales du secteur.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les accords sectoriels internationaux sur la decarbonation aerienne
+slug: les-accords-sectoriels-internationaux-sur-la-decarbonation-aerienne
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment les compagnies aeriennes coordonnent, avec difficulte, des objectifs communs.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation continue face a l'automatisation croissante du controle aerien
+slug: la-formation-continue-face-a-l-automatisation-croissante-du-controle-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment le metier de controleur evolue avec l'arrivee d'outils de plus en plus assistes.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol dans les avions ultralegers
+slug: les-instruments-de-vol-dans-les-avions-ultralegers
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un equipement minimal mais suffisant pour un usage recreatif encadre.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lecture croisee des instruments en situation degradee
+slug: la-lecture-croisee-des-instruments-en-situation-degradee
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une methode qui evite de se fier a un seul indicateur potentiellement defaillant.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol synthetiques (SVS)
+slug: les-instruments-de-vol-synthetiques-svs
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une technologie qui recree une vision du terrain meme par visibilite nulle.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'horizon artificiel de secours a alimentation autonome
+slug: le-role-de-l-horizon-artificiel-de-secours-a-alimentation-autonome
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un dernier recours qui fonctionne meme apres une panne electrique generale.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol des dirigeables modernes
+slug: les-instruments-de-vol-des-dirigeables-modernes
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Des besoins specifiques lies a un mode de vol tres different de l'avion classique.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le carburateur a niveau constant, principe mecanique
+slug: le-carburateur-a-niveau-constant-principe-mecanique
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un mecanisme simple qui regule automatiquement l'arrivee de carburant.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La magnetos double et la redondance de l'allumage aeronautique
+slug: la-magnetos-double-et-la-redondance-de-l-allumage-aeronautique
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi chaque moteur d'avion leger dispose de deux systemes d'allumage independants.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rodage d'un moteur a piston neuf ou revise
+slug: le-rodage-d-un-moteur-a-piston-neuf-ou-revise
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une periode initiale essentielle pour assurer un bon ajustement des pieces mecaniques.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les additifs pour carburant d'aviation legere
+slug: les-additifs-pour-carburant-d-aviation-legere
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des composes qui ameliorent certaines proprietes du carburant sans changer le moteur.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference de puissance entre moteurs atmospheriques et turbocompresses
+slug: la-difference-de-puissance-entre-moteurs-atmospheriques-et-turbocompresses
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Deux approches distinctes pour obtenir davantage de puissance d'un meme moteur de base.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage prolonge d'un moteur a piston aeronautique
+slug: le-stockage-prolonge-d-un-moteur-a-piston-aeronautique
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des precautions specifiques necessaires pour un moteur qui ne vole pas pendant longtemps.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vibrations anormales, un signe avant-coureur de panne moteur
+slug: les-vibrations-anormales-un-signe-avant-coureur-de-panne-moteur
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi un pilote attentif detecte souvent un probleme avant qu'il ne devienne critique.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation pratique a la reparation de base d'un moteur d'avion leger
+slug: la-formation-pratique-a-la-reparation-de-base-d-un-moteur-d-avion-leger
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des competences mecaniques utiles pour un entretien de premier niveau.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement par ailettes des cylindres de moteur a piston
+slug: le-refroidissement-par-ailettes-des-cylindres-de-moteur-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une solution simple et efficace pour dissiper la chaleur sans circuit liquide.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions electriques d'entrainement acrobatique
+slug: les-avions-electriques-d-entrainement-acrobatique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une categorie recente qui explore les limites de cette technologie en usage intensif.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie des batteries en cycles de charge aeronautiques
+slug: la-duree-de-vie-des-batteries-en-cycles-de-charge-aeronautiques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un facteur economique important qui influence le cout d'exploitation reel.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs electriques a aimants permanents en aviation
+slug: les-moteurs-electriques-a-aimants-permanents-en-aviation
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une technologie qui offre un excellent rapport puissance-poids pour cet usage.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des batteries aeronautiques contre l'emballement thermique
+slug: la-certification-des-batteries-aeronautiques-contre-l-emballement-thermique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des tests specifiques imposes avant qu'une batterie ne puisse voler.
+tags: [propulsion-electrique-aeronautique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cablage haute tension dans les avions electriques
+slug: le-cablage-haute-tension-dans-les-avions-electriques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des defis specifiques d'isolation electrique a haute altitude, ou l'air se rarefie.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions electriques amphibies
+slug: les-avions-electriques-amphibies
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une combinaison recente qui associe deux technologies encore peu repandues.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bruit residuel des helices sur avion electrique
+slug: le-bruit-residuel-des-helices-sur-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Meme sans moteur thermique, l'helice elle-meme reste une source sonore notable.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recharge rapide specifique aux aeroports regionaux
+slug: la-recharge-rapide-specifique-aux-aeroports-regionaux
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des infrastructures a developper pour permettre une rotation rapide des avions electriques.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les simulateurs de vol adaptes a la formation sur avions electriques
+slug: les-simulateurs-de-vol-adaptes-a-la-formation-sur-avions-electriques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Comment preparer les pilotes aux specificites de cette motorisation avant le vol reel.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La propulsion electrique hybride serie-parallele combinee
+slug: la-propulsion-electrique-hybride-serie-parallele-combinee
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une architecture qui tente de cumuler les avantages des deux approches existantes.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact du froid en altitude sur les batteries d'avion
+slug: l-impact-du-froid-en-altitude-sur-les-batteries-d-avion
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi les basses temperatures reduisent sensiblement la capacite disponible.
+tags: [propulsion-electrique-aeronautique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les records de distance en avion entierement electrique
+slug: les-records-de-distance-en-avion-entierement-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des demonstrateurs qui repoussent progressivement les limites d'autonomie actuelles.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance predictive des batteries d'avion electrique
+slug: la-maintenance-predictive-des-batteries-d-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Comment on anticipe une degradation avant qu'elle n'affecte la securite du vol.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions electriques a decollage court (eSTOL)
+slug: les-avions-electriques-a-decollage-court-estol
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une categorie qui combine propulsion electrique et performances de piste courte.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des supercondensateurs en complement des batteries d'avion
+slug: le-role-des-supercondensateurs-en-complement-des-batteries-d-avion
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une technologie qui peut fournir des pics de puissance ponctuels tres rapides.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des pompiers aeroportuaires aux incendies de batteries
+slug: la-formation-des-pompiers-aeroportuaires-aux-incendies-de-batteries
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des procedures specifiques, differentes de celles utilisees pour un incendie de kerosene.
+tags: [propulsion-electrique-aeronautique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions electriques dans l'aviation agricole
+slug: les-avions-electriques-dans-l-aviation-agricole
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une piste explorée pour reduire le cout et le bruit de cette activite specifique.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poids des systemes de refroidissement dans un avion electrique
+slug: le-poids-des-systemes-de-refroidissement-dans-un-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un cout cache qui reduit une partie du gain de poids attendu de cette motorisation.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des connecteurs de recharge aeronautique
+slug: la-normalisation-des-connecteurs-de-recharge-aeronautique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un enjeu pratique pour permettre a differents avions d'utiliser les memes infrastructures.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions electriques utilises pour le remorquage de planeurs
+slug: les-avions-electriques-utilises-pour-le-remorquage-de-planeurs
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un usage deja mature qui remplace progressivement le remorqueur thermique classique.
+tags: [propulsion-electrique-aeronautique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bilan carbone complet d'un avion electrique selon la source d'electricite
+slug: le-bilan-carbone-complet-d-un-avion-electrique-selon-la-source-d-electricite
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi l'avantage environnemental depend fortement de l'origine du courant utilise.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions electriques biplaces pour la formation initiale
+slug: les-avions-electriques-biplaces-pour-la-formation-initiale
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une categorie particulierement adaptee aux vols courts d'apprentissage.
+tags: [propulsion-electrique-aeronautique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance aux vibrations des batteries en environnement aeronautique
+slug: la-resistance-aux-vibrations-des-batteries-en-environnement-aeronautique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des contraintes mecaniques specifiques liees aux turbulences et aux atterrissages.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couts d'assurance specifiques aux avions electriques
+slug: les-couts-d-assurance-specifiques-aux-avions-electriques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un marche encore jeune ou les assureurs manquent de recul statistique.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir de la propulsion electrique pour le vol long-courrier
+slug: l-avenir-de-la-propulsion-electrique-pour-le-vol-long-courrier
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi cette technologie reste, pour l'instant, limitee aux courtes distances.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion de la fin de vie des batteries d'avion electrique
+slug: la-gestion-de-la-fin-de-vie-des-batteries-d-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Comment organiser un recyclage adapte a un secteur encore emergent.
+tags: [propulsion-electrique-aeronautique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification specifique des turbopropulseurs civils
+slug: la-certification-specifique-des-turbopropulseurs-civils
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des exigences adaptees a une technologie distincte du turboreacteur pur.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turbopropulseur PT6, un moteur emblematique de l'aviation legere
+slug: le-turbopropulseur-pt6-un-moteur-emblematique-de-l-aviation-legere
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un modele largement repandu, reconnu pour sa fiabilite exceptionnelle.
+tags: [turbopropulseurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs dans les avions de patrouille maritime
+slug: les-turbopropulseurs-dans-les-avions-de-patrouille-maritime
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une motorisation choisie pour son endurance plutot que pour sa vitesse.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle numerique a pleine autorite applique aux turbopropulseurs
+slug: le-controle-numerique-a-pleine-autorite-applique-aux-turbopropulseurs
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Comment un calculateur optimise en continu le fonctionnement du moteur et de l'helice.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite en cas de mise en drapeau intempestive d'une helice
+slug: la-securite-en-cas-de-mise-en-drapeau-intempestive-d-une-helice
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une procedure d'urgence essentielle pour gerer une panne inattendue.
+tags: [turbopropulseurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs utilises pour la formation militaire initiale
+slug: les-turbopropulseurs-utilises-pour-la-formation-militaire-initiale
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une etape intermediaire courante avant de passer aux avions a reaction.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement propulsif d'une helice comparee a une soufflante
+slug: le-rendement-propulsif-d-une-helice-comparee-a-une-soufflante
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi une helice reste plus efficace a basse vitesse malgre son apparente simplicite.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs dans l'aviation d'affaires
+slug: les-turbopropulseurs-dans-l-aviation-d-affaires
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un segment ou cette motorisation reste appreciee pour son cout d'exploitation.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance programmee d'un turbopropulseur regional
+slug: la-maintenance-programmee-d-un-turbopropulseur-regional
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des intervalles de revision qui different de ceux d'un moteur a piston.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs et leur adaptation aux pistes courtes non revetues
+slug: les-turbopropulseurs-et-leur-adaptation-aux-pistes-courtes-non-revetues
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une robustesse particuliere recherchee pour l'aviation dans les regions isolees.
+tags: [turbopropulseurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bruit percu au sol d'un turbopropulseur contre un turboreacteur
+slug: le-bruit-percu-au-sol-d-un-turbopropulseur-contre-un-turboreacteur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une difference de signature sonore qui influence le choix pres des zones habitees.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs dans les avions-ecoles multimoteurs
+slug: les-turbopropulseurs-dans-les-avions-ecoles-multimoteurs
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une etape de formation qui prepare les pilotes aux avions de ligne regionaux.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance aux impacts d'oiseaux d'une helice de turbopropulseur
+slug: la-resistance-aux-impacts-d-oiseaux-d-une-helice-de-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des tests specifiques adaptes a la geometrie particuliere de ce type de moteur.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs a tres haute puissance pour le transport lourd
+slug: les-turbopropulseurs-a-tres-haute-puissance-pour-le-transport-lourd
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des versions renforcees adaptees a des charges utiles importantes.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le remplacement progressif de certains turboreacteurs par des turbopropulseurs
+slug: le-remplacement-progressif-de-certains-turboreacteurs-par-des-turbopropulseurs
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une tendance observee sur certaines lignes regionales pour reduire les couts.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs dans l'aviation de largage (parachutisme)
+slug: les-turbopropulseurs-dans-l-aviation-de-largage-parachutisme
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une motorisation appreciee pour sa capacite a monter rapidement en altitude.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation specifique des mecaniciens sur turbopropulseur
+slug: la-formation-specifique-des-mecaniciens-sur-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des competences distinctes de celles requises pour un moteur a piston ou un reacteur pur.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs et la consommation en montee
+slug: les-turbopropulseurs-et-la-consommation-en-montee
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une phase de vol particulierement gourmande, ou l'efficacite du moteur compte le plus.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement de la turbine dans un turbopropulseur
+slug: le-refroidissement-de-la-turbine-dans-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des techniques similaires a celles utilisees sur les turboreacteurs, adaptees a l'echelle du moteur.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs utilises pour l'epandage agricole
+slug: les-turbopropulseurs-utilises-pour-l-epandage-agricole
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une puissance elevee et une grande robustesse adaptees a un usage intensif et repetitif.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transition historique du moteur a piston vers le turbopropulseur
+slug: la-transition-historique-du-moteur-a-piston-vers-le-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Comment cette technologie a progressivement remplace le piston sur de nombreux avions.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs contrarotatifs et la reduction du couple de reaction
+slug: les-turbopropulseurs-contrarotatifs-et-la-reduction-du-couple-de-reaction
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une solution qui elimine un effet secondaire genant des helices simples.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison acoustique interieure entre turbopropulseur et turboreacteur
+slug: la-comparaison-acoustique-interieure-entre-turbopropulseur-et-turboreacteur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi le confort sonore en cabine differe sensiblement entre ces deux motorisations.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs dans les avions de transport tactique militaire
+slug: les-turbopropulseurs-dans-les-avions-de-transport-tactique-militaire
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une motorisation choisie pour sa capacite a operer depuis des terrains sommaires.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle thermodynamique specifique d'un turbopropulseur
+slug: le-cycle-thermodynamique-specifique-d-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une variante du cycle des turboreacteurs, adaptee pour entrainer une helice.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs et leur usage dans les avions amphibies de lutte anti-incendie
+slug: les-turbopropulseurs-et-leur-usage-dans-les-avions-amphibies-de-lutte-anti-incendie
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une motorisation appreciee pour sa fiabilite lors de missions exigeantes et repetees.
+tags: [turbopropulseurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production mondiale de turbopropulseurs civils
+slug: la-production-mondiale-de-turbopropulseurs-civils
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un marche concentre autour de quelques fabricants specialises de longue date.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs et l'altitude de croisiere optimale
+slug: les-turbopropulseurs-et-l-altitude-de-croisiere-optimale
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un compromis different de celui des turboreacteurs, lie a la physique de l'helice.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance au givrage des entrees d'air de turbopropulseur
+slug: la-resistance-au-givrage-des-entrees-d-air-de-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des systemes specifiques pour eviter qu'une accumulation de glace ne perturbe le moteur.
+tags: [turbopropulseurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs experimentaux a tres grande efficacite
+slug: les-turbopropulseurs-experimentaux-a-tres-grande-efficacite
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des projets de recherche qui explorent encore les limites de cette technologie mature.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir du turbopropulseur face a l'electrification partielle de l'aviation
+slug: l-avenir-du-turbopropulseur-face-a-l-electrification-partielle-de-l-aviation
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Comment cette technologie mature pourrait evoluer vers une hybridation progressive.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs et la reduction de l'empreinte sonore aeroportuaire
+slug: les-turbopropulseurs-et-la-reduction-de-l-empreinte-sonore-aeroportuaire
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un avantage relatif qui pourrait favoriser cette motorisation a l'avenir.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La disponibilite des pieces detachees pour turbopropulseurs anciens
+slug: la-disponibilite-des-pieces-detachees-pour-turbopropulseurs-anciens
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un enjeu logistique pour maintenir en vol une flotte vieillissante mais fiable.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance des disques de turbine aux forces centrifuges extremes
+slug: la-resistance-des-disques-de-turbine-aux-forces-centrifuges-extremes
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Une contrainte mecanique majeure qui impose des materiaux et une precision exceptionnels.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les alliages monocristallins dans les aubes de turbine
+slug: les-alliages-monocristallins-dans-les-aubes-de-turbine
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Une structure metallique particuliere qui resiste mieux a la chaleur extreme et a la fatigue.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du carter de reacteur dans l'insonorisation
+slug: le-role-du-carter-de-reacteur-dans-l-insonorisation
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment la structure exterieure du moteur contribue elle-meme a reduire le bruit percu.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

@@ -9097,3 +9097,3828 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Le role de la salive dans la premiere etape de la digestion
+slug: le-role-de-la-salive-dans-la-premiere-etape-de-la-digestion
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un liquide qui commence a decomposer les aliments des la mastication en bouche.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement de l'estomac et la secretion des sucs gastriques
+slug: le-fonctionnement-de-l-estomac-et-la-secretion-des-sucs-gastriques
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un organe musculaire qui melange et decompose chimiquement les aliments ingeres.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du foie dans la digestion des graisses
+slug: le-role-du-foie-dans-la-digestion-des-graisses
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un organe essentiel qui produit la bile necessaire a l'assimilation des lipides.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vesicule biliaire et le stockage de la bile
+slug: la-vesicule-biliaire-et-le-stockage-de-la-bile
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un petit reservoir qui concentre et libere la bile au moment des repas.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pancreas et la production d'enzymes digestives
+slug: le-pancreas-et-la-production-d-enzymes-digestives
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Une glande discrete mais essentielle a la decomposition des aliments dans l'intestin.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'absorption des nutriments dans l'intestin grele
+slug: l-absorption-des-nutriments-dans-l-intestin-grele
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  L'etape finale ou la majorite des elements nutritifs passent dans le sang.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du gros intestin dans la reabsorption de l'eau
+slug: le-role-du-gros-intestin-dans-la-reabsorption-de-l-eau
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Une derniere etape qui concentre les dechets avant leur elimination.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes phases de la mastication et leur importance pour la digestion
+slug: les-differentes-phases-de-la-mastication-et-leur-importance-pour-la-digestion
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un travail mecanique prealable qui facilite tout le reste du processus digestif.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le peristaltisme et le mouvement des aliments dans le tube digestif
+slug: le-peristaltisme-et-le-mouvement-des-aliments-dans-le-tube-digestif
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Des contractions musculaires coordonnees qui font progresser les aliments sans effort conscient.
+tags: [systeme-digestif, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les glandes salivaires et leur emplacement dans la bouche
+slug: les-glandes-salivaires-et-leur-emplacement-dans-la-bouche
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Trois paires de glandes qui produisent la salive necessaire a la digestion.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sphincter oesophagien et son role de barriere contre les remontees acides
+slug: le-sphincter-oesophagien-et-son-role-de-barriere-contre-les-remontees-acides
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un muscle circulaire qui empeche normalement le contenu de l'estomac de remonter.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La digestion des proteines dans l'estomac
+slug: la-digestion-des-proteines-dans-l-estomac
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un processus chimique specifique qui decompose les proteines en elements plus simples.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'appendice et les hypotheses sur son utilite
+slug: le-role-de-l-appendice-et-les-hypotheses-sur-son-utilite
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un petit organe longtemps considere comme inutile mais dont le role est mieux compris aujourd'hui.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les villosites intestinales et l'augmentation de la surface d'absorption
+slug: les-villosites-intestinales-et-l-augmentation-de-la-surface-d-absorption
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  De minuscules structures qui multiplient considerablement la capacite d'absorption de l'intestin.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La digestion des glucides des la bouche grace a la salive
+slug: la-digestion-des-glucides-des-la-bouche-grace-a-la-salive
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un processus qui commence des la mastication, avant meme l'arrivee dans l'estomac.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du rectum et de l'anus dans l'elimination des dechets digestifs
+slug: le-role-du-rectum-et-de-l-anus-dans-l-elimination-des-dechets-digestifs
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Les dernieres etapes du systeme digestif responsables de l'expulsion des residus.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hormones digestives et leur role dans la regulation de l'appetit
+slug: les-hormones-digestives-et-leur-role-dans-la-regulation-de-l-appetit
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Des messagers chimiques qui signalent au cerveau la faim ou la satiete.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La circulation sanguine hepatique et son role dans le filtrage des nutriments
+slug: la-circulation-sanguine-hepatique-et-son-role-dans-le-filtrage-des-nutriments
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un reseau specifique qui achemine les nutriments absorbes directement vers le foie.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transit intestinal et les facteurs qui l'influencent
+slug: le-transit-intestinal-et-les-facteurs-qui-l-influencent
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Une vitesse variable selon l'alimentation, l'hydratation et l'activite physique.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes parties de l'intestin grele et leurs fonctions specifiques
+slug: les-differentes-parties-de-l-intestin-grele-et-leurs-fonctions-specifiques
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Trois segments qui se succedent avec des roles legerement differents dans la digestion.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bacteries du gros intestin dans la digestion finale
+slug: le-role-des-bacteries-du-gros-intestin-dans-la-digestion-finale
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Des micro-organismes qui achevent la decomposition de certains residus alimentaires.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sensation de faim et les signaux envoyes par l'estomac vide
+slug: la-sensation-de-faim-et-les-signaux-envoyes-par-l-estomac-vide
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un mecanisme physiologique complexe qui declenche le besoin de manger.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle nerveux du systeme digestif independant du cerveau conscient
+slug: le-controle-nerveux-du-systeme-digestif-independant-du-cerveau-conscient
+categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
+summary: >
+  Un reseau de neurones propre a l'intestin qui fonctionne en grande partie de maniere autonome.
+tags: [systeme-digestif]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement des synapses dans la transmission de l'influx nerveux
+slug: le-fonctionnement-des-synapses-dans-la-transmission-de-l-influx-nerveux
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Le point de contact entre deux neurones ou l'information passe de l'un a l'autre.
+tags: [systeme-nerveux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes parties du cerveau et leurs fonctions principales
+slug: les-differentes-parties-du-cerveau-et-leurs-fonctions-principales
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une organisation en plusieurs regions specialisees dans des taches distinctes.
+tags: [systeme-nerveux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la moelle epiniere dans la transmission des messages nerveux
+slug: le-role-de-la-moelle-epiniere-dans-la-transmission-des-messages-nerveux
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Un axe central qui relie le cerveau au reste du corps.
+tags: [systeme-nerveux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nerfs peripheriques et leur role dans la sensation et le mouvement
+slug: les-nerfs-peripheriques-et-leur-role-dans-la-sensation-et-le-mouvement
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Un reseau etendu qui relie le systeme nerveux central a tous les organes du corps.
+tags: [systeme-nerveux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme nerveux autonome et le controle involontaire des organes
+slug: le-systeme-nerveux-autonome-et-le-controle-involontaire-des-organes
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une partie du systeme nerveux qui regule des fonctions comme la respiration sans effort conscient.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reflexes et leur role dans la protection rapide du corps
+slug: les-reflexes-et-leur-role-dans-la-protection-rapide-du-corps
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une reponse automatique et immediate qui ne passe pas par une reflexion consciente.
+tags: [systeme-nerveux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du cervelet dans l'equilibre et la coordination des mouvements
+slug: le-role-du-cervelet-dans-l-equilibre-et-la-coordination-des-mouvements
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une petite region cerebrale essentielle a la precision de nos gestes quotidiens.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La myeline et son role dans la vitesse de transmission des signaux nerveux
+slug: la-myeline-et-son-role-dans-la-vitesse-de-transmission-des-signaux-nerveux
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une gaine protectrice qui accelere considerablement la circulation de l'influx nerveux.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme nerveux sympathique et la reponse au stress du corps
+slug: le-systeme-nerveux-sympathique-et-la-reponse-au-stress-du-corps
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une reponse physiologique qui prepare l'organisme a affronter un danger percu.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de neurones selon leur fonction dans le corps
+slug: les-differents-types-de-neurones-selon-leur-fonction-dans-le-corps
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une diversite cellulaire adaptee aux nombreuses taches assurees par le systeme nerveux.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du tronc cerebral dans les fonctions vitales de base
+slug: le-role-du-tronc-cerebral-dans-les-fonctions-vitales-de-base
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une region essentielle qui regule la respiration et le rythme cardiaque de maniere automatique.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La plasticite cerebrale et la capacite du cerveau a se reorganiser
+slug: la-plasticite-cerebrale-et-la-capacite-du-cerveau-a-se-reorganiser
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une propriete remarquable qui permet au cerveau de s'adapter tout au long de la vie.
+tags: [systeme-nerveux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les neurotransmetteurs et leur role dans la communication entre neurones
+slug: les-neurotransmetteurs-et-leur-role-dans-la-communication-entre-neurones
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Des substances chimiques qui transmettent l'information d'un neurone a l'autre.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme nerveux parasympathique et le retour au calme du corps
+slug: le-systeme-nerveux-parasympathique-et-le-retour-au-calme-du-corps
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une partie du systeme nerveux qui favorise la detente et la recuperation.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les meninges et leur role protecteur autour du cerveau et de la moelle epiniere
+slug: les-meninges-et-leur-role-protecteur-autour-du-cerveau-et-de-la-moelle-epiniere
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Trois membranes qui enveloppent et protegent le systeme nerveux central.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le liquide cephalo-rachidien et son role d'amortisseur pour le cerveau
+slug: le-liquide-cephalo-rachidien-et-son-role-d-amortisseur-pour-le-cerveau
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Un fluide qui protege physiquement le cerveau contre les chocs.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission de la douleur du point de contact jusqu'au cerveau
+slug: la-transmission-de-la-douleur-du-point-de-contact-jusqu-au-cerveau
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Un trajet complexe qui explique pourquoi la douleur est ressentie et localisee.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'hypothalamus dans la regulation de la temperature corporelle
+slug: le-role-de-l-hypothalamus-dans-la-regulation-de-la-temperature-corporelle
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une petite structure cerebrale qui agit comme un thermostat interne du corps.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aires cerebrales specialisees dans le langage
+slug: les-aires-cerebrales-specialisees-dans-le-langage
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Des regions specifiques dont l'activite est essentielle a la comprehension et a la production de la parole.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation progressive des connexions neuronales durant la grossesse
+slug: la-formation-progressive-des-connexions-neuronales-durant-la-grossesse
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Une formation progressive qui commence tres tot durant la grossesse.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des signaux visuels de l'oeil jusqu'au cerveau
+slug: la-transmission-des-signaux-visuels-de-l-oeil-jusqu-au-cerveau
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Un trajet nerveux specifique qui permet l'interpretation des images percues.
+tags: [systeme-nerveux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le trajet de l'air depuis le nez jusqu'aux poumons
+slug: le-trajet-de-l-air-depuis-le-nez-jusqu-aux-poumons
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Un parcours qui traverse plusieurs organes avant d'atteindre les alveoles pulmonaires.
+tags: [systeme-respiratoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du diaphragme dans le mecanisme de la respiration
+slug: le-role-du-diaphragme-dans-le-mecanisme-de-la-respiration
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Un muscle essentiel dont la contraction et le relachement permettent d'inspirer et d'expirer.
+tags: [systeme-respiratoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les alveoles pulmonaires et les echanges gazeux avec le sang
+slug: les-alveoles-pulmonaires-et-les-echanges-gazeux-avec-le-sang
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  De minuscules structures ou l'oxygene passe dans le sang et le dioxyde de carbone en sort.
+tags: [systeme-respiratoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cordes vocales dans la production de la voix
+slug: le-role-des-cordes-vocales-dans-la-production-de-la-voix
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Deux membranes situees dans le larynx dont les vibrations creent le son de la voix.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trachee et son role de conduit protege pour l'air
+slug: la-trachee-et-son-role-de-conduit-protege-pour-l-air
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Un tube renforce par des anneaux de cartilage qui maintient les voies aeriennes ouvertes.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cils vibratiles dans le nettoyage des voies respiratoires
+slug: le-role-des-cils-vibratiles-dans-le-nettoyage-des-voies-respiratoires
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  De minuscules structures qui evacuent les impuretes captees dans le mucus.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bronches et leur ramification progressive dans les poumons
+slug: les-bronches-et-leur-ramification-progressive-dans-les-poumons
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une arborescence qui distribue l'air jusqu'aux plus petites structures pulmonaires.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle nerveux automatique du rythme respiratoire
+slug: le-controle-nerveux-automatique-du-rythme-respiratoire
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Un mecanisme cerebral qui ajuste en permanence la frequence de la respiration sans effort conscient.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La plevre et son role protecteur autour des poumons
+slug: la-plevre-et-son-role-protecteur-autour-des-poumons
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une double membrane qui facilite le glissement des poumons lors de la respiration.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du nez dans le rechauffement et l'humidification de l'air inspire
+slug: le-role-du-nez-dans-le-rechauffement-et-l-humidification-de-l-air-inspire
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une premiere etape qui prepare l'air avant son arrivee dans les poumons.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La capacite pulmonaire et son evolution selon l'age et l'activite physique
+slug: la-capacite-pulmonaire-et-son-evolution-selon-l-age-et-l-activite-physique
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une mesure du volume d'air que les poumons peuvent contenir, variable selon plusieurs facteurs.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mecanisme de la toux comme reflexe de protection des voies respiratoires
+slug: le-mecanisme-de-la-toux-comme-reflexe-de-protection-des-voies-respiratoires
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une reaction automatique qui expulse rapidement un corps etranger ou une irritation.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'epiglotte dans la separation entre voies respiratoires et digestives
+slug: le-role-de-l-epiglotte-dans-la-separation-entre-voies-respiratoires-et-digestives
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Un petit clapet qui evite que les aliments ne passent dans les voies aeriennes.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La respiration abdominale contre la respiration thoracique
+slug: la-respiration-abdominale-contre-la-respiration-thoracique
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Deux facons distinctes de respirer qui mobilisent des muscles differents.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport de l'oxygene dans le sang par les globules rouges
+slug: le-transport-de-l-oxygene-dans-le-sang-par-les-globules-rouges
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une etape essentielle qui suit directement les echanges gazeux dans les poumons.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les eternuements et leur role de protection des voies nasales
+slug: les-eternuements-et-leur-role-de-protection-des-voies-nasales
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Un reflexe puissant qui expulse rapidement des particules irritantes du nez.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du larynx dans la protection des voies respiratoires lors de la deglutition
+slug: le-role-du-larynx-dans-la-protection-des-voies-respiratoires-lors-de-la-deglutition
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une structure qui se ferme temporairement pour empecher les aliments d'y penetrer.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation du systeme respiratoire a l'altitude
+slug: l-adaptation-du-systeme-respiratoire-a-l-altitude
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Des mecanismes physiologiques qui compensent progressivement la rarefaction de l'oxygene.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mecanisme du hoquet et les hypotheses sur son origine
+slug: le-mecanisme-du-hoquet-et-les-hypotheses-sur-son-origine
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une contraction involontaire et repetee du diaphragme dont la cause exacte reste debattue.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sinus dans la resonance de la voix et la filtration de l'air
+slug: le-role-des-sinus-dans-la-resonance-de-la-voix-et-la-filtration-de-l-air
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Des cavites osseuses qui participent a plusieurs fonctions respiratoires complementaires.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La respiration pendant le sommeil et ses variations naturelles
+slug: la-respiration-pendant-le-sommeil-et-ses-variations-naturelles
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Un rythme qui se modifie legerement selon les phases du sommeil.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle volontaire temporaire de la respiration
+slug: le-controle-volontaire-temporaire-de-la-respiration
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Une capacite limitee qui permet de retenir sa respiration avant que le reflexe automatique ne reprenne.
+tags: [systeme-respiratoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le diabete de type deux et les facteurs qui favorisent son apparition
+slug: le-diabete-de-type-deux-et-les-facteurs-qui-favorisent-son-apparition
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une maladie chronique liee a la resistance progressive du corps a l'insuline.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hypertension arterielle et ses consequences sur le long terme
+slug: l-hypertension-arterielle-et-ses-consequences-sur-le-long-terme
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une pression sanguine trop elevee qui fatigue progressivement le coeur et les vaisseaux.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'asthme chronique et les facteurs declenchants des crises
+slug: l-asthme-chronique-et-les-facteurs-declenchants-des-crises
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une inflammation des voies respiratoires qui peut etre aggravee par divers elements de l'environnement.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies inflammatoires chroniques de l'intestin
+slug: les-maladies-inflammatoires-chroniques-de-l-intestin
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des affections durables qui provoquent une inflammation recurrente du systeme digestif.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'arthrose et l'usure progressive des articulations
+slug: l-arthrose-et-l-usure-progressive-des-articulations
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une degradation du cartilage qui s'installe generalement avec l'avancee en age.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies cardiovasculaires chroniques et leur prevention au quotidien
+slug: les-maladies-cardiovasculaires-chroniques-et-leur-prevention-au-quotidien
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des habitudes de vie qui peuvent significativement reduire les risques a long terme.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bronchopneumopathie chronique obstructive et ses causes principales
+slug: la-bronchopneumopathie-chronique-obstructive-et-ses-causes-principales
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une maladie respiratoire durable souvent liee a une exposition prolongee a des substances irritantes.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi medical regulier necessaire pour les maladies chroniques
+slug: le-suivi-medical-regulier-necessaire-pour-les-maladies-chroniques
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Un accompagnement dans la duree essentiel pour limiter les complications de ces affections.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact psychologique de vivre avec une maladie chronique
+slug: l-impact-psychologique-de-vivre-avec-une-maladie-chronique
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Un aspect souvent sous-estime mais tout aussi important que la prise en charge physique.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les allergies chroniques et leur gestion au quotidien
+slug: les-allergies-chroniques-et-leur-gestion-au-quotidien
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des reactions durables du systeme immunitaire qui necessitent des adaptations de vie.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La goutte et l'accumulation d'acide urique dans l'organisme
+slug: la-goutte-et-l-accumulation-d-acide-urique-dans-l-organisme
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une maladie chronique douloureuse liee a un dereglement du metabolisme.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies renales chroniques et le role de la prevention precoce
+slug: les-maladies-renales-chroniques-et-le-role-de-la-prevention-precoce
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une degradation progressive de la fonction des reins souvent evitable avec un depistage a temps.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'obesite comme facteur de risque de nombreuses maladies chroniques
+slug: l-obesite-comme-facteur-de-risque-de-nombreuses-maladies-chroniques
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Un exces de poids durable qui augmente significativement le risque de plusieurs pathologies.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migraines chroniques et leurs declencheurs frequents
+slug: les-migraines-chroniques-et-leurs-declencheurs-frequents
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des maux de tete recurrents dont l'origine et les facteurs varient d'une personne a l'autre.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'exercice regulier comme complement au traitement des affections durables
+slug: l-exercice-regulier-comme-complement-au-traitement-des-affections-durables
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Un element cle qui ameliore souvent significativement la qualite de vie des personnes concernees.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies thyroidiennes chroniques et leur impact sur le metabolisme
+slug: les-maladies-thyroidiennes-chroniques-et-leur-impact-sur-le-metabolisme
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des dereglements durables d'une glande qui influence de nombreuses fonctions du corps.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'osteoporose et la fragilisation progressive des os
+slug: l-osteoporose-et-la-fragilisation-progressive-des-os
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Une perte de densite osseuse qui augmente le risque de fractures avec l'age.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies chroniques de la peau et leur prise en charge sur le long terme
+slug: les-maladies-chroniques-de-la-peau-et-leur-prise-en-charge-sur-le-long-terme
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des affections cutanees durables qui necessitent souvent des traitements adaptes en continu.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'importance de l'alimentation dans la gestion des maladies chroniques
+slug: l-importance-de-l-alimentation-dans-la-gestion-des-maladies-chroniques
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Un facteur souvent central pour limiter la progression ou les symptomes de ces affections.
+tags: [maladies-chroniques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies chroniques et l'adaptation du mode de vie professionnel
+slug: les-maladies-chroniques-et-l-adaptation-du-mode-de-vie-professionnel
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des amenagements parfois necessaires pour continuer a travailler avec une affection durable.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des associations de patients dans l'accompagnement des maladies chroniques
+slug: le-role-des-associations-de-patients-dans-l-accompagnement-des-maladies-chroniques
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Un soutien complementaire au suivi medical, base sur le partage d'experience entre malades.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies chroniques rares et les defis specifiques de leur prise en charge
+slug: les-maladies-chroniques-rares-et-les-defis-specifiques-de-leur-prise-en-charge
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Des affections peu frequentes qui posent des difficultes particulieres de diagnostic et de traitement.
+tags: [maladies-chroniques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differences entre infection virale et infection bacterienne
+slug: les-differences-entre-infection-virale-et-infection-bacterienne
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Deux causes d'infection tres differentes qui necessitent des traitements adaptes distincts.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mecanisme de transmission des maladies infectieuses respiratoires
+slug: le-mecanisme-de-transmission-des-maladies-infectieuses-respiratoires
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Une propagation qui se fait generalement par des gouttelettes emises en toussant ou en parlant.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies infectieuses transmises par l'eau contaminee
+slug: les-maladies-infectieuses-transmises-par-l-eau-contaminee
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des infections qui se propagent lorsque l'eau consommee n'est pas correctement traitee.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la fievre comme reponse naturelle a une infection
+slug: le-role-de-la-fievre-comme-reponse-naturelle-a-une-infection
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Une augmentation de la temperature corporelle qui aide l'organisme a combattre les agents pathogenes.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies infectieuses transmises par les insectes piqueurs
+slug: les-maladies-infectieuses-transmises-par-les-insectes-piqueurs
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des affections propagees par certains insectes qui servent de vecteur a l'agent pathogene.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance aux antibiotiques et ses causes principales
+slug: la-resistance-aux-antibiotiques-et-ses-causes-principales
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Un phenomene preoccupant lie notamment a l'usage excessif ou inapproprie de ces medicaments.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies infectieuses de l'enfance et leur evolution grace a la vaccination
+slug: les-maladies-infectieuses-de-l-enfance-et-leur-evolution-grace-a-la-vaccination
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des affections autrefois frequentes dont la prevalence a fortement diminue.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du systeme immunitaire dans la lutte contre les infections
+slug: le-role-du-systeme-immunitaire-dans-la-lutte-contre-les-infections
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Une defense naturelle du corps qui identifie et elimine les agents pathogenes.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les infections nosocomiales contractees en milieu hospitalier
+slug: les-infections-nosocomiales-contractees-en-milieu-hospitalier
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des infections specifiques liees a l'environnement de soins, necessitant des mesures d'hygiene strictes.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La periode d'incubation d'une maladie infectieuse
+slug: la-periode-d-incubation-d-une-maladie-infectieuse
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Le delai entre le contact avec un agent pathogene et l'apparition des premiers symptomes.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies infectieuses parasitaires et leurs modes de transmission
+slug: les-maladies-infectieuses-parasitaires-et-leurs-modes-de-transmission
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des affections causees par des organismes qui vivent aux depens d'un hote.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'hygiene des mains dans la prevention des infections
+slug: le-role-de-l-hygiene-des-mains-dans-la-prevention-des-infections
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Un geste simple mais determinant pour limiter la propagation de nombreux agents pathogenes.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les epidemies historiques et les lecons tirees pour la sante publique moderne
+slug: les-epidemies-historiques-et-les-lecons-tirees-pour-la-sante-publique-moderne
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des evenements passes qui ont profondement influence les strategies actuelles de prevention.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les infections sexuellement transmissibles et leur prevention
+slug: les-infections-sexuellement-transmissibles-et-leur-prevention
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des affections dont la transmission peut etre significativement reduite par des mesures adaptees.
+tags: [maladies-infectieuses, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des antiviraux dans le traitement de certaines infections virales
+slug: le-role-des-antiviraux-dans-le-traitement-de-certaines-infections-virales
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des medicaments specifiques qui ralentissent la multiplication de certains virus.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies infectieuses emergentes et la surveillance internationale
+slug: les-maladies-infectieuses-emergentes-et-la-surveillance-internationale
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  De nouvelles menaces suivies de pres par les organismes de sante a l'echelle mondiale.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La quarantaine et l'isolement comme mesures de controle des infections
+slug: la-quarantaine-et-l-isolement-comme-mesures-de-controle-des-infections
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des pratiques anciennes toujours utilisees pour limiter la propagation de maladies contagieuses.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les infections fongiques et leurs particularites par rapport aux autres infections
+slug: les-infections-fongiques-et-leurs-particularites-par-rapport-aux-autres-infections
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Des affections causees par des champignons microscopiques, moins connues que les infections bacteriennes.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des moustiques dans la transmission de plusieurs maladies tropicales
+slug: le-role-des-moustiques-dans-la-transmission-de-plusieurs-maladies-tropicales
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Un vecteur majeur responsable de la propagation de plusieurs affections graves.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies infectieuses et l'importance du diagnostic rapide
+slug: les-maladies-infectieuses-et-l-importance-du-diagnostic-rapide
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Une identification precoce qui ameliore considerablement les chances de traitement efficace.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission mere-enfant de certaines maladies infectieuses
+slug: la-transmission-mere-enfant-de-certaines-maladies-infectieuses
+categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
+summary: >
+  Un mode de transmission specifique qui necessite une surveillance particuliere durant la grossesse.
+tags: [maladies-infectieuses]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'anxiete generalisee et ses manifestations physiques
+slug: l-anxiete-generalisee-et-ses-manifestations-physiques
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Un trouble caracterise par une inquietude excessive qui affecte aussi le corps.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La depression et les differences entre tristesse passagere et trouble durable
+slug: la-depression-et-les-differences-entre-tristesse-passagere-et-trouble-durable
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une distinction importante pour comprendre quand une aide professionnelle devient necessaire.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du soutien social dans la prevention des troubles mentaux
+slug: le-role-du-soutien-social-dans-la-prevention-des-troubles-mentaux
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Des liens humains solides qui constituent un facteur protecteur reconnu pour la sante mentale.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les troubles du sommeil et leur lien avec la sante mentale
+slug: les-troubles-du-sommeil-et-leur-lien-avec-la-sante-mentale
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une relation etroite ou chacun des deux problemes peut aggraver l'autre.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le burn-out et l'epuisement professionnel prolonge
+slug: le-burn-out-et-l-epuisement-professionnel-prolonge
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Un etat d'epuisement lie a un stress chronique au travail, aujourd'hui mieux reconnu.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les troubles obsessionnels compulsifs et leur impact sur le quotidien
+slug: les-troubles-obsessionnels-compulsifs-et-leur-impact-sur-le-quotidien
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Des pensees intrusives et des comportements repetitifs qui perturbent la vie de tous les jours.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stigmatisation des maladies mentales et ses consequences sur le soin
+slug: la-stigmatisation-des-maladies-mentales-et-ses-consequences-sur-le-soin
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Un prejuge social qui retarde souvent la recherche d'aide chez les personnes concernees.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la therapie par la parole dans le traitement des troubles mentaux
+slug: le-role-de-la-therapie-par-la-parole-dans-le-traitement-des-troubles-mentaux
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une approche qui aide a comprendre et a modifier des schemas de pensee problematiques.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les troubles alimentaires et leurs consequences sur la sante physique et mentale
+slug: les-troubles-alimentaires-et-leurs-consequences-sur-la-sante-physique-et-mentale
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Des comportements alimentaires perturbes qui affectent a la fois le corps et l'esprit.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stress chronique et ses effets sur le corps et l'esprit
+slug: le-stress-chronique-et-ses-effets-sur-le-corps-et-l-esprit
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une tension prolongee qui, contrairement au stress ponctuel, peut avoir des consequences durables.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les troubles bipolaires et l'alternance entre differentes phases d'humeur
+slug: les-troubles-bipolaires-et-l-alternance-entre-differentes-phases-d-humeur
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une affection caracterisee par des variations importantes de l'energie et de l'humeur.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'activite physique dans l'amelioration de la sante mentale
+slug: le-role-de-l-activite-physique-dans-l-amelioration-de-la-sante-mentale
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Un facteur beneficique reconnu pour reduire l'anxiete et ameliorer l'humeur generale.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les phobies specifiques et les mecanismes de leur apparition
+slug: les-phobies-specifiques-et-les-mecanismes-de-leur-apparition
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Des peurs intenses et irrationnelles face a une situation ou un objet particulier.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sante mentale des adolescents et les defis propres a cette periode de vie
+slug: la-sante-mentale-des-adolescents-et-les-defis-propres-a-cette-periode-de-vie
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une etape de developpement qui comporte des vulnerabilites specifiques a surveiller.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le trouble de stress post-traumatique et ses manifestations
+slug: le-trouble-de-stress-post-traumatique-et-ses-manifestations
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une reaction durable a un evenement traumatisant vecu ou temoin.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sommeil reparateur dans l'equilibre psychologique
+slug: le-role-du-sommeil-reparateur-dans-l-equilibre-psychologique
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Un besoin fondamental dont le manque affecte significativement la stabilite emotionnelle.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les addictions comportementales et leur reconnaissance croissante
+slug: les-addictions-comportementales-et-leur-reconnaissance-croissante
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Des dependances qui ne concernent pas une substance mais un comportement precis.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La solitude et son impact sur la sante mentale, en particulier chez les personnes agees
+slug: la-solitude-et-son-impact-sur-la-sante-mentale-en-particulier-chez-les-personnes-agees
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Un isolement social qui constitue un facteur de risque reconnu pour plusieurs troubles.
+tags: [sante-mentale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des groupes de parole dans le soutien aux personnes en difficulte psychologique
+slug: le-role-des-groupes-de-parole-dans-le-soutien-aux-personnes-en-difficulte-psychologique
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Un espace d'echange entre personnes vivant des experiences similaires.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les troubles anxieux chez l'enfant et leur reconnaissance precoce
+slug: les-troubles-anxieux-chez-l-enfant-et-leur-reconnaissance-precoce
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Des manifestations specifiques qui peuvent differer de celles observees chez l'adulte.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lien entre alimentation equilibree et bien-etre mental
+slug: le-lien-entre-alimentation-equilibree-et-bien-etre-mental
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une influence de plus en plus documentee entre ce que l'on mange et comment on se sent.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience psychologique face aux epreuves de la vie
+slug: la-resilience-psychologique-face-aux-epreuves-de-la-vie
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Une capacite qui permet a certaines personnes de mieux surmonter des situations difficiles.
+tags: [sante-mentale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des globules blancs dans la defense de l'organisme
+slug: le-role-des-globules-blancs-dans-la-defense-de-l-organisme
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Des cellules specialisees qui identifient et eliminent les elements etrangers au corps.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre immunite innee et immunite acquise
+slug: la-difference-entre-immunite-innee-et-immunite-acquise
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Deux mecanismes de defense complementaires qui protegent le corps de maniere differente.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des anticorps dans la reconnaissance des agents pathogenes
+slug: le-role-des-anticorps-dans-la-reconnaissance-des-agents-pathogenes
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Des proteines specifiques capables de reconnaitre et de neutraliser un envahisseur precis.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La memoire immunitaire et son role dans la protection durable
+slug: la-memoire-immunitaire-et-son-role-dans-la-protection-durable
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Une capacite du corps a se souvenir d'un agent pathogene deja rencontre.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la peau comme premiere barriere de defense du corps
+slug: le-role-de-la-peau-comme-premiere-barriere-de-defense-du-corps
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Une protection physique qui empeche la plupart des agents pathogenes de penetrer dans l'organisme.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ganglions lymphatiques et leur role dans la reponse immunitaire
+slug: les-ganglions-lymphatiques-et-leur-role-dans-la-reponse-immunitaire
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  De petites structures ou se rencontrent et s'activent les cellules de defense du corps.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'inflammation comme reponse immunitaire naturelle
+slug: le-role-de-l-inflammation-comme-reponse-immunitaire-naturelle
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Une reaction du corps qui, bien que parfois inconfortable, aide a combattre une infection.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies auto-immunes et le dereglement de la reconnaissance du soi
+slug: les-maladies-auto-immunes-et-le-dereglement-de-la-reconnaissance-du-soi
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Des affections ou le systeme immunitaire attaque par erreur les propres cellules du corps.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du thymus dans le developpement du systeme immunitaire
+slug: le-role-du-thymus-dans-le-developpement-du-systeme-immunitaire
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Un organe particulierement actif durant l'enfance pour la maturation de certaines cellules de defense.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'immunite acquise grace a l'allaitement maternel
+slug: l-immunite-acquise-grace-a-l-allaitement-maternel
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Un transfert naturel de protection de la mere vers le nourrisson durant les premiers mois.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la rate dans la filtration du sang et la defense immunitaire
+slug: le-role-de-la-rate-dans-la-filtration-du-sang-et-la-defense-immunitaire
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Un organe qui elimine les cellules usees et participe activement a la reponse immunitaire.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cellules tueuses naturelles et leur role dans la lutte contre les cellules infectees
+slug: les-cellules-tueuses-naturelles-et-leur-role-dans-la-lutte-contre-les-cellules-infectees
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Un type de cellule immunitaire capable de detruire directement des cellules anormales.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sommeil dans le bon fonctionnement du systeme immunitaire
+slug: le-role-du-sommeil-dans-le-bon-fonctionnement-du-systeme-immunitaire
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Un repos suffisant qui renforce significativement les defenses naturelles du corps.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'affaiblissement du systeme immunitaire avec l'avancee en age
+slug: l-affaiblissement-du-systeme-immunitaire-avec-l-avancee-en-age
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Un phenomene naturel qui explique en partie une plus grande vulnerabilite aux infections.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la moelle osseuse dans la production des cellules immunitaires
+slug: le-role-de-la-moelle-osseuse-dans-la-production-des-cellules-immunitaires
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Un tissu essentiel ou naissent la plupart des cellules de defense du corps.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les allergies comme reaction excessive du systeme immunitaire
+slug: les-allergies-comme-reaction-excessive-du-systeme-immunitaire
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Une reponse disproportionnee du corps face a une substance normalement inoffensive.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du stress dans l'affaiblissement temporaire des defenses immunitaires
+slug: le-role-du-stress-dans-l-affaiblissement-temporaire-des-defenses-immunitaires
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Une tension prolongee qui peut reduire l'efficacite de la reponse du corps face aux infections.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre immunite active et immunite passive
+slug: la-difference-entre-immunite-active-et-immunite-passive
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Deux facons distinctes d'acquerir une protection contre un agent pathogene specifique.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du microbiote intestinal dans la regulation du systeme immunitaire
+slug: le-role-du-microbiote-intestinal-dans-la-regulation-du-systeme-immunitaire
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Des liens etroits recemment mieux compris entre les bacteries intestinales et les defenses du corps.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fievres et leur role dans le ralentissement de la multiplication des agents pathogenes
+slug: les-fievres-et-leur-role-dans-le-ralentissement-de-la-multiplication-des-agents-pathogenes
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Une elevation de temperature qui rend l'environnement moins favorable a certains microbes.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'alimentation dans le renforcement naturel des defenses immunitaires
+slug: le-role-de-l-alimentation-dans-le-renforcement-naturel-des-defenses-immunitaires
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Des apports nutritionnels qui soutiennent le bon fonctionnement du systeme de defense du corps.
+tags: [immunite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les deficits immunitaires primaires presents des la naissance
+slug: les-deficits-immunitaires-primaires-presents-des-la-naissance
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Des anomalies congenitales qui affaiblissent durablement les defenses naturelles du corps.
+tags: [immunite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La diversite des bacteries qui composent le microbiote intestinal
+slug: la-diversite-des-bacteries-qui-composent-le-microbiote-intestinal
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un ecosysteme complexe compose de milliers d'especes differentes de micro-organismes.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du microbiote dans la digestion de certains aliments
+slug: le-role-du-microbiote-dans-la-digestion-de-certains-aliments
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des bacteries capables de decomposer des fibres que le corps humain ne digere pas seul.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation du microbiote intestinal des la naissance
+slug: la-formation-du-microbiote-intestinal-des-la-naissance
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un peuplement bacterien qui commence tres tot et evolue durant les premieres annees de vie.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lien entre alimentation et equilibre du microbiote intestinal
+slug: le-lien-entre-alimentation-et-equilibre-du-microbiote-intestinal
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Une influence directe des habitudes alimentaires sur la composition des bacteries intestinales.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microbiote cutane et son role protecteur pour la peau
+slug: le-microbiote-cutane-et-son-role-protecteur-pour-la-peau
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Une population de micro-organismes qui vit a la surface du corps et participe a sa defense.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du microbiote dans la production de certaines vitamines
+slug: le-role-du-microbiote-dans-la-production-de-certaines-vitamines
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des bacteries intestinales capables de synthetiser des elements essentiels a l'organisme.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le desequilibre du microbiote et ses consequences sur la sante digestive
+slug: le-desequilibre-du-microbiote-et-ses-consequences-sur-la-sante-digestive
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un phenomene qui peut favoriser l'apparition de divers troubles intestinaux.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microbiote buccal et son role dans la sante dentaire
+slug: le-microbiote-buccal-et-son-role-dans-la-sante-dentaire
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un ecosysteme bacterien specifique a la bouche, dont l'equilibre influence la sante des dents.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact des antibiotiques sur l'equilibre du microbiote intestinal
+slug: l-impact-des-antibiotiques-sur-l-equilibre-du-microbiote-intestinal
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un traitement qui, en ciblant des bacteries nuisibles, affecte aussi les bacteries beneficiques.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du microbiote dans la maturation du systeme immunitaire de l'enfant
+slug: le-role-du-microbiote-dans-la-maturation-du-systeme-immunitaire-de-l-enfant
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Une influence precoce et durable sur le developpement des defenses naturelles du corps.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probiotiques et leur role dans le soutien du microbiote intestinal
+slug: les-probiotiques-et-leur-role-dans-le-soutien-du-microbiote-intestinal
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des micro-organismes vivants consommes pour favoriser un equilibre bacterien beneficique.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microbiote et son influence potentielle sur l'humeur et le comportement
+slug: le-microbiote-et-son-influence-potentielle-sur-l-humeur-et-le-comportement
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un lien encore etudie entre les bacteries intestinales et certains aspects du bien-etre mental.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission du microbiote entre la mere et l'enfant lors de l'accouchement
+slug: la-transmission-du-microbiote-entre-la-mere-et-l-enfant-lors-de-l-accouchement
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un moment cle qui influence durablement la composition bacterienne initiale du nouveau-ne.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du microbiote dans la regulation du poids corporel
+slug: le-role-du-microbiote-dans-la-regulation-du-poids-corporel
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des liens etudies entre la composition bacterienne intestinale et le metabolisme energetique.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fibres alimentaires et leur role de nourriture pour le microbiote intestinal
+slug: les-fibres-alimentaires-et-leur-role-de-nourriture-pour-le-microbiote-intestinal
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des elements essentiels que les bacteries intestinales utilisent pour se developper.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microbiote et la protection contre les bacteries pathogenes
+slug: le-microbiote-et-la-protection-contre-les-bacteries-pathogenes
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un role de barriere naturelle qui limite l'installation de micro-organismes nuisibles.
+tags: [microbiote, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stabilite du microbiote intestinal a l'age adulte
+slug: la-stabilite-du-microbiote-intestinal-a-l-age-adulte
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un equilibre qui, une fois etabli, reste relativement constant sauf perturbation majeure.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du microbiote vaginal dans la protection contre les infections
+slug: le-role-du-microbiote-vaginal-dans-la-protection-contre-les-infections
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un ecosysteme bacterien specifique qui contribue a l'equilibre de cette zone du corps.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les recherches actuelles sur le lien entre microbiote et maladies chroniques
+slug: les-recherches-actuelles-sur-le-lien-entre-microbiote-et-maladies-chroniques
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un domaine scientifique en plein developpement qui explore de nouvelles pistes de comprehension.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microbiote respiratoire et son role encore peu connu
+slug: le-microbiote-respiratoire-et-son-role-encore-peu-connu
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un ecosysteme bacterien present dans les voies respiratoires, moins etudie que le microbiote intestinal.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact du mode d'accouchement sur la composition initiale du microbiote du nourrisson
+slug: l-impact-du-mode-d-accouchement-sur-la-composition-initiale-du-microbiote-du-nourrisson
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Une difference observee selon que la naissance se fait par voie naturelle ou par cesarienne.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du microbiote dans la fermentation des fibres en acides gras beneficiques
+slug: le-role-du-microbiote-dans-la-fermentation-des-fibres-en-acides-gras-beneficiques
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Un processus chimique realise par les bacteries intestinales qui produit des composes utiles au corps.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La diversite du microbiote selon les regions du monde et les habitudes alimentaires
+slug: la-diversite-du-microbiote-selon-les-regions-du-monde-et-les-habitudes-alimentaires
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des variations observees qui refletent les differences culturelles et environnementales.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microbiote et son evolution au cours du vieillissement
+slug: le-microbiote-et-son-evolution-au-cours-du-vieillissement
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Des changements progressifs dans la composition bacterienne intestinale au fil des annees.
+tags: [microbiote]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes phases du sommeil et leur role respectif
+slug: les-differentes-phases-du-sommeil-et-leur-role-respectif
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un cycle compose de plusieurs etapes distinctes, chacune remplissant une fonction specifique.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sommeil paradoxal dans la memorisation et les reves
+slug: le-role-du-sommeil-paradoxal-dans-la-memorisation-et-les-reves
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Une phase particuliere ou l'activite cerebrale est intense malgre l'immobilite du corps.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les besoins en sommeil selon l'age de la vie
+slug: les-besoins-en-sommeil-selon-l-age-de-la-vie
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Une duree qui varie considerablement entre le nourrisson, l'enfant, l'adolescent et l'adulte.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'horloge biologique interne et la regulation naturelle du sommeil
+slug: l-horloge-biologique-interne-et-la-regulation-naturelle-du-sommeil
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un mecanisme interne qui synchronise le corps sur un cycle d'environ vingt-quatre heures.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la melatonine dans l'endormissement
+slug: le-role-de-la-melatonine-dans-l-endormissement
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Une hormone naturellement produite par le corps qui favorise la venue du sommeil.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les consequences du manque de sommeil sur la concentration et la memoire
+slug: les-consequences-du-manque-de-sommeil-sur-la-concentration-et-la-memoire
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des effets mesurables sur les capacites cognitives des le premier manque de repos.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la lumiere dans la regulation du cycle veille-sommeil
+slug: le-role-de-la-lumiere-dans-la-regulation-du-cycle-veille-sommeil
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un facteur environnemental determinant pour synchroniser correctement l'horloge interne.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les troubles du sommeil les plus frequents et leurs causes
+slug: les-troubles-du-sommeil-les-plus-frequents-et-leurs-causes
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des difficultes variees qui touchent une part importante de la population a un moment donne.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sommeil dans la consolidation des apprentissages
+slug: le-role-du-sommeil-dans-la-consolidation-des-apprentissages
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un processus nocturne qui aide le cerveau a fixer durablement de nouvelles connaissances.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact des ecrans sur la qualite du sommeil
+slug: l-impact-des-ecrans-sur-la-qualite-du-sommeil
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Une exposition a la lumiere bleue le soir qui peut retarder l'endormissement naturel.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cycles de sommeil et leur duree approximative au cours de la nuit
+slug: les-cycles-de-sommeil-et-leur-duree-approximative-au-cours-de-la-nuit
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Une succession reguliere de phases qui se repete plusieurs fois durant une nuit complete.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sommeil dans la reparation physique du corps
+slug: le-role-du-sommeil-dans-la-reparation-physique-du-corps
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Une periode ou de nombreux processus de reparation et de croissance ont lieu.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sieste et ses effets sur la vigilance et les performances
+slug: la-sieste-et-ses-effets-sur-la-vigilance-et-les-performances
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un court repos diurne qui peut ameliorer significativement l'attention et la reactivite.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reves et les hypotheses scientifiques sur leur fonction
+slug: les-reves-et-les-hypotheses-scientifiques-sur-leur-fonction
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un phenomene encore partiellement mysterieux malgre de nombreuses theories scientifiques.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'insomnie et les approches non medicamenteuses pour l'ameliorer
+slug: l-insomnie-et-les-approches-non-medicamenteuses-pour-l-ameliorer
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des difficultes d'endormissement ou de maintien du sommeil, souvent ameliorables par des habitudes adaptees.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le decalage horaire et son impact temporaire sur le sommeil
+slug: le-decalage-horaire-et-son-impact-temporaire-sur-le-sommeil
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un desequilibre entre l'horloge interne et l'heure locale lors de voyages sur de longues distances.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sommeil dans la regulation des hormones de l'appetit
+slug: le-role-du-sommeil-dans-la-regulation-des-hormones-de-l-appetit
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un lien qui explique en partie pourquoi le manque de sommeil peut influencer les habitudes alimentaires.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les apneees du sommeil et leurs consequences sur la sante
+slug: les-apneees-du-sommeil-et-leurs-consequences-sur-la-sante
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des interruptions repetees de la respiration durant le sommeil qui necessitent une attention medicale.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sommeil chez les personnes agees et ses particularites
+slug: le-sommeil-chez-les-personnes-agees-et-ses-particularites
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des changements naturels dans la structure et la duree du sommeil avec l'avancee en age.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la temperature corporelle dans la facilitation de l'endormissement
+slug: le-role-de-la-temperature-corporelle-dans-la-facilitation-de-l-endormissement
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Une legere baisse de temperature qui accompagne naturellement le processus d'endormissement.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rythmes chronobiologiques et les differences entre couche-tot et couche-tard
+slug: les-rythmes-chronobiologiques-et-les-differences-entre-couche-tot-et-couche-tard
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des preferences naturelles qui varient d'une personne a l'autre selon un profil biologique propre.
+tags: [sommeil]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sommeil et son role dans la regulation des emotions
+slug: le-sommeil-et-son-role-dans-la-regulation-des-emotions
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Un repos suffisant qui aide a mieux gerer les reactions emotionnelles durant la journee.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les habitudes favorisant un endormissement naturel et de qualite
+slug: les-habitudes-favorisant-un-endormissement-naturel-et-de-qualite
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Des pratiques simples qui ameliorent generalement la facilite et la qualite du sommeil.
+tags: [sommeil, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage precoce et son role dans l'efficacite du traitement
+slug: le-depistage-precoce-et-son-role-dans-l-efficacite-du-traitement
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une detection anticipee qui ameliore souvent significativement les chances de guerison.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les campagnes de depistage organisees a l'echelle d'une population
+slug: les-campagnes-de-depistage-organisees-a-l-echelle-d-une-population
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des programmes systematiques qui visent a detecter une maladie avant l'apparition de symptomes.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage neonatal et les maladies recherchees a la naissance
+slug: le-depistage-neonatal-et-les-maladies-recherchees-a-la-naissance
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des tests systematiques realises chez le nouveau-ne pour detecter certaines affections rares.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de depistage rapide et leur utilite en situation d'urgence
+slug: les-tests-de-depistage-rapide-et-leur-utilite-en-situation-d-urgence
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des methodes qui permettent d'obtenir un resultat en quelques minutes plutot qu'en plusieurs jours.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage genetique et les questions ethiques qu'il souleve
+slug: le-depistage-genetique-et-les-questions-ethiques-qu-il-souleve
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une pratique qui permet d'identifier des risques hereditaires mais pose des questions delicates.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites et les faux positifs possibles dans le depistage medical
+slug: les-limites-et-les-faux-positifs-possibles-dans-le-depistage-medical
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une realite importante a comprendre pour interpreter correctement un resultat de test.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage visuel et auditif chez l'enfant en bas age
+slug: le-depistage-visuel-et-auditif-chez-l-enfant-en-bas-age
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des controles precoces essentiels pour detecter d'eventuels troubles sensoriels.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du medecin generaliste dans l'orientation vers un depistage adapte
+slug: le-role-du-medecin-generaliste-dans-l-orientation-vers-un-depistage-adapte
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Un premier interlocuteur essentiel pour identifier les depistages pertinents selon chaque situation.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les depistages recommandes selon les tranches d'age
+slug: les-depistages-recommandes-selon-les-tranches-d-age
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des controles specifiques dont la pertinence varie au cours de la vie.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage des maladies professionnelles chez les travailleurs exposes
+slug: le-depistage-des-maladies-professionnelles-chez-les-travailleurs-exposes
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une surveillance specifique adaptee aux risques particuliers de certains metiers.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avancees technologiques recentes dans les methodes de depistage
+slug: les-avancees-technologiques-recentes-dans-les-methodes-de-depistage
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des innovations qui rendent la detection precoce plus rapide et plus accessible.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage volontaire contre le depistage obligatoire selon les maladies
+slug: le-depistage-volontaire-contre-le-depistage-obligatoire-selon-les-maladies
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une distinction importante qui reflete des enjeux ethiques et de sante publique differents.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les freins psychologiques et sociaux au depistage de certaines maladies
+slug: les-freins-psychologiques-et-sociaux-au-depistage-de-certaines-maladies
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des obstacles qui expliquent en partie pourquoi certaines personnes evitent de se faire depister.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage a domicile et son developpement recent
+slug: le-depistage-a-domicile-et-son-developpement-recent
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des tests desormais realisables sans avoir a se rendre dans un etablissement de sante.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couts economiques et les benefices du depistage a grande echelle
+slug: les-couts-economiques-et-les-benefices-du-depistage-a-grande-echelle
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Un equilibre que les autorites de sante doivent evaluer pour chaque programme propose.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La detection precoce des retards de developpement chez le tout-petit
+slug: la-detection-precoce-des-retards-de-developpement-chez-le-tout-petit
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une detection precoce qui permet une prise en charge plus efficace de certaines difficultes.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les recommandations internationales sur la frequence des depistages
+slug: les-recommandations-internationales-sur-la-frequence-des-depistages
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des lignes directrices qui varient selon les organismes de sante et les pays.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'information du public dans l'adhesion aux campagnes de depistage
+slug: le-role-de-l-information-du-public-dans-l-adhesion-aux-campagnes-de-depistage
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une communication claire qui influence directement la participation aux programmes proposes.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage des facteurs de risque avant l'apparition de toute maladie
+slug: le-depistage-des-facteurs-de-risque-avant-l-apparition-de-toute-maladie
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une approche preventive qui identifie des elements susceptibles de favoriser une pathologie future.
+tags: [depistage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites d'acces au depistage selon les regions et les revenus
+slug: les-inegalites-d-acces-au-depistage-selon-les-regions-et-les-revenus
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Un enjeu de sante publique qui limite l'efficacite globale de certains programmes.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage genetique prenatal et les informations qu'il peut apporter
+slug: le-depistage-genetique-prenatal-et-les-informations-qu-il-peut-apporter
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des tests realises durant la grossesse pour detecter certaines anomalies chez le foetus.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi apres un depistage positif et l'importance de la prise en charge rapide
+slug: le-suivi-apres-un-depistage-positif-et-l-importance-de-la-prise-en-charge-rapide
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une etape essentielle qui conditionne l'efficacite reelle de toute la demarche de depistage.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les autotests et leur developpement pour certaines maladies courantes
+slug: les-autotests-et-leur-developpement-pour-certaines-maladies-courantes
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Des dispositifs accessibles qui permettent a chacun de realiser un premier controle chez soi.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le depistage collectif en milieu scolaire pour certains troubles courants
+slug: le-depistage-collectif-en-milieu-scolaire-pour-certains-troubles-courants
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Une organisation qui facilite la detection precoce chez un grand nombre d'enfants.
+tags: [depistage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe fondamental de la vaccination et l'entrainement du systeme immunitaire
+slug: le-principe-fondamental-de-la-vaccination-et-l-entrainement-du-systeme-immunitaire
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un mecanisme qui prepare le corps a reconnaitre un agent pathogene avant une exposition reelle.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du premier vaccin et la decouverte de la vaccination
+slug: l-histoire-du-premier-vaccin-et-la-decouverte-de-la-vaccination
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une avancee scientifique majeure qui a transforme durablement la lutte contre les maladies infectieuses.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calendrier vaccinal recommande selon les ages de la vie
+slug: le-calendrier-vaccinal-recommande-selon-les-ages-de-la-vie
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un programme structure qui organise les vaccinations necessaires depuis la naissance jusqu'a l'age adulte.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'immunite collective et son role dans la protection des personnes non vaccinees
+slug: l-immunite-collective-et-son-role-dans-la-protection-des-personnes-non-vaccinees
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un phenomene ou la vaccination d'une grande partie de la population protege indirectement les autres.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de vaccins et leurs technologies respectives
+slug: les-differents-types-de-vaccins-et-leurs-technologies-respectives
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Plusieurs approches scientifiques distinctes qui permettent toutes de stimuler l'immunite.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les effets secondaires courants et rares de la vaccination
+slug: les-effets-secondaires-courants-et-rares-de-la-vaccination
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une distinction importante pour comprendre les reactions frequentes benignes des risques exceptionnels.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des rappels vaccinaux dans le maintien de la protection
+slug: le-role-des-rappels-vaccinaux-dans-le-maintien-de-la-protection
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des doses supplementaires necessaires pour prolonger l'efficacite de certains vaccins dans le temps.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vaccination des voyageurs vers certaines regions du monde
+slug: la-vaccination-des-voyageurs-vers-certaines-regions-du-monde
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des recommandations specifiques adaptees aux risques infectieux propres a chaque destination.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eradication de certaines maladies grace a la vaccination massive
+slug: l-eradication-de-certaines-maladies-grace-a-la-vaccination-massive
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des succes historiques ou une maladie a completement disparu grace a une couverture vaccinale suffisante.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les controverses et la desinformation autour de la vaccination
+slug: les-controverses-et-la-desinformation-autour-de-la-vaccination
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des craintes infondees qui ont parfois freine l'adhesion a certains programmes vaccinaux.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement et les etapes de validation d'un nouveau vaccin
+slug: le-developpement-et-les-etapes-de-validation-d-un-nouveau-vaccin
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un processus long et rigoureux qui garantit la securite avant toute utilisation a grande echelle.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vaccination des professionnels de sante et son importance specifique
+slug: la-vaccination-des-professionnels-de-sante-et-son-importance-specifique
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une protection necessaire a la fois pour eux-memes et pour les patients qu'ils soignent.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des campagnes de vaccination lors des epidemies mondiales
+slug: le-role-des-campagnes-de-vaccination-lors-des-epidemies-mondiales
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une reponse coordonnee qui a permis de limiter l'impact de plusieurs crises sanitaires majeures.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vaccins combines et leur interet pratique
+slug: les-vaccins-combines-et-leur-interet-pratique
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une seule injection qui protege simultanement contre plusieurs maladies distinctes.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation et le transport des vaccins a temperature controlee
+slug: la-conservation-et-le-transport-des-vaccins-a-temperature-controlee
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une chaine logistique rigoureuse necessaire pour preserver l'efficacite de ces produits sensibles.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'Organisation mondiale de la sante dans la coordination vaccinale internationale
+slug: le-role-de-l-organisation-mondiale-de-la-sante-dans-la-coordination-vaccinale-internationale
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une instance qui harmonise les recommandations et soutient l'acces aux vaccins dans le monde.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vaccination animale et son role dans la prevention des maladies transmissibles a l'humain
+slug: la-vaccination-animale-et-son-role-dans-la-prevention-des-maladies-transmissibles-a-l-humain
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une protection qui reduit egalement les risques de transmission entre especes.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites d'acces a la vaccination entre pays riches et pays pauvres
+slug: les-inegalites-d-acces-a-la-vaccination-entre-pays-riches-et-pays-pauvres
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un enjeu mondial majeur pour garantir une protection equitable de toutes les populations.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi de la securite des vaccins apres leur mise sur le marche
+slug: le-suivi-de-la-securite-des-vaccins-apres-leur-mise-sur-le-marche
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une surveillance continue qui permet de detecter d'eventuels effets rares non observes auparavant.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vaccination et son role dans la reduction de la mortalite infantile mondiale
+slug: la-vaccination-et-son-role-dans-la-reduction-de-la-mortalite-infantile-mondiale
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un progres majeur de sante publique qui a sauve un nombre considerable de vies d'enfants.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les obligations vaccinales selon les pays et leur justification de sante publique
+slug: les-obligations-vaccinales-selon-les-pays-et-leur-justification-de-sante-publique
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des politiques variables qui refletent des choix differents en matiere de protection collective.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des professionnels de sante dans l'information sur la vaccination
+slug: le-role-des-professionnels-de-sante-dans-l-information-sur-la-vaccination
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un accompagnement essentiel pour repondre aux questions et aux inquietudes des patients.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recherche continue pour developper de nouveaux vaccins contre des maladies encore non couvertes
+slug: la-recherche-continue-pour-developper-de-nouveaux-vaccins-contre-des-maladies-encore-non-couvertes
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un domaine scientifique actif qui vise a etendre la protection vaccinale a de nouvelles pathologies.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'eradication de la variole grace a un effort vaccinal mondial coordonne
+slug: l-histoire-de-l-eradication-de-la-variole-grace-a-un-effort-vaccinal-mondial-coordonne
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un exemple emblematique de reussite collective dans la lutte contre une maladie infectieuse.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vaccination des personnes agees et l'adaptation des recommandations a leurs besoins
+slug: la-vaccination-des-personnes-agees-et-l-adaptation-des-recommandations-a-leurs-besoins
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des programmes specifiques tenant compte d'une vulnerabilite accrue face a certaines infections.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sages-femmes et des pediatres dans le suivi vaccinal des nourrissons
+slug: le-role-des-sages-femmes-et-des-pediatres-dans-le-suivi-vaccinal-des-nourrissons
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un accompagnement de proximite essentiel pour assurer le respect du calendrier vaccinal.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre vaccin vivant attenue et vaccin inactive
+slug: la-difference-entre-vaccin-vivant-attenue-et-vaccin-inactive
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Deux approches techniques distinctes qui influencent la maniere dont le corps developpe son immunite.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la vaccination dans la protection contre certains cancers d'origine virale
+slug: le-role-de-la-vaccination-dans-la-protection-contre-certains-cancers-d-origine-virale
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Une prevention qui va au-dela des seules maladies infectieuses classiques.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La communication publique autour des campagnes de vaccination
+slug: la-communication-publique-autour-des-campagnes-de-vaccination
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des strategies d'information essentielles pour maintenir la confiance et la participation du public.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role historique de Louis Pasteur dans le developpement de la vaccination moderne
+slug: le-role-historique-de-louis-pasteur-dans-le-developpement-de-la-vaccination-moderne
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Des travaux scientifiques fondateurs qui ont ouvert la voie a de nombreux vaccins ulterieurs.
+tags: [vaccination]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vaccination et son role dans la reduction des hospitalisations liees aux maladies infectieuses
+slug: la-vaccination-et-son-role-dans-la-reduction-des-hospitalisations-liees-aux-maladies-infectieuses
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Un impact mesurable sur la charge globale pesant sur les systemes de sante.
+tags: [vaccination, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.

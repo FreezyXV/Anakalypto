@@ -8644,3 +8644,3318 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La distinction entre contravention, delit et crime
+slug: la-distinction-entre-contravention-delit-et-crime
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une classification fondamentale qui determine la gravite et la procedure applicable a une infraction.
+tags: [droit-penal, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de la presomption d'innocence
+slug: le-principe-de-la-presomption-d-innocence
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une regle essentielle qui protege toute personne accusee tant que sa culpabilite n'est pas prouvee.
+tags: [droit-penal, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La legitime defense et ses conditions d'application
+slug: la-legitime-defense-et-ses-conditions-d-application
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une exception au droit penal qui permet de se proteger sans etre sanctionne, sous conditions strictes.
+tags: [droit-penal, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du casier judiciaire dans le suivi des condamnations
+slug: le-role-du-casier-judiciaire-dans-le-suivi-des-condamnations
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un registre officiel qui conserve la trace des sanctions penales prononcees contre une personne.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La responsabilite penale des mineurs et ses specificites
+slug: la-responsabilite-penale-des-mineurs-et-ses-specificites
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un cadre adapte qui tient compte de l'age et de la maturite de la personne mise en cause.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les circonstances attenuantes et aggravantes dans la determination d'une peine
+slug: les-circonstances-attenuantes-et-aggravantes-dans-la-determination-d-une-peine
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Des elements qui permettent au juge d'ajuster la sanction selon le contexte precis des faits.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'exigence d'un texte legal prealable pour toute sanction penale
+slug: l-exigence-d-un-texte-legal-prealable-pour-toute-sanction-penale
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une regle fondamentale qui interdit de punir un acte non prevu par la loi au moment des faits.
+tags: [droit-penal, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La prescription penale et l'extinction de l'action en justice avec le temps
+slug: la-prescription-penale-et-l-extinction-de-l-action-en-justice-avec-le-temps
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un delai au-dela duquel une infraction ne peut plus faire l'objet de poursuites.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les peines alternatives a l'emprisonnement
+slug: les-peines-alternatives-a-l-emprisonnement
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Des sanctions qui visent a punir tout en favorisant la reinsertion plutot que l'incarceration.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du parquet dans le declenchement des poursuites penales
+slug: le-role-du-parquet-dans-le-declenchement-des-poursuites-penales
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une institution qui decide si une infraction signalee doit faire l'objet de poursuites judiciaires.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La complicite et la tentative en droit penal
+slug: la-complicite-et-la-tentative-en-droit-penal
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Deux notions qui permettent de sanctionner une participation ou une intention non aboutie a une infraction.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les infractions contre les biens et leur classification
+slug: les-infractions-contre-les-biens-et-leur-classification
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une categorie large qui regroupe le vol, l'escroquerie et d'autres atteintes a la propriete.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit penal des affaires et la lutte contre la fraude economique
+slug: le-droit-penal-des-affaires-et-la-lutte-contre-la-fraude-economique
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un domaine specifique qui sanctionne les comportements illicites dans la vie des entreprises.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La garde a vue et les droits de la personne interpellee
+slug: la-garde-a-vue-et-les-droits-de-la-personne-interpellee
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une mesure encadree par des garanties precises destinees a proteger la personne concernee.
+tags: [droit-penal, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gradation des sanctions applicables aux infractions au code de la route
+slug: la-gradation-des-sanctions-applicables-aux-infractions-au-code-de-la-route
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un ensemble de sanctions graduees selon la dangerosite du comportement au volant.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'expertise psychiatrique dans certaines procedures penales
+slug: le-role-de-l-expertise-psychiatrique-dans-certaines-procedures-penales
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une evaluation specialisee qui aide a determiner la responsabilite penale d'une personne.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybercriminalite et l'adaptation du droit penal aux infractions numeriques
+slug: la-cybercriminalite-et-l-adaptation-du-droit-penal-aux-infractions-numeriques
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un domaine recent qui a necessite la creation de nouvelles categories d'infractions.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sursis et ses differentes formes en droit penal
+slug: le-sursis-et-ses-differentes-formes-en-droit-penal
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un mecanisme qui suspend l'execution d'une peine sous certaines conditions.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recidive et son impact sur la severite de la sanction penale
+slug: la-recidive-et-son-impact-sur-la-severite-de-la-sanction-penale
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Une situation ou la repetition d'une infraction entraine generalement une peine plus lourde.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit penal international et la poursuite des crimes les plus graves
+slug: le-droit-penal-international-et-la-poursuite-des-crimes-les-plus-graves
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Un cadre specifique qui permet de juger des atteintes majeures aux droits humains au-dela des frontieres.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mesures de surete comme complement a la sanction penale
+slug: les-mesures-de-surete-comme-complement-a-la-sanction-penale
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Des dispositifs qui visent a prevenir la reiteration d'une infraction apres la peine purgee.
+tags: [droit-penal]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de chaque partie a repondre aux arguments avances par l'adversaire
+slug: le-droit-de-chaque-partie-a-repondre-aux-arguments-avances-par-l-adversaire
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une regle essentielle qui garantit a chaque partie le droit de connaitre et de discuter les arguments adverses.
+tags: [procedure-et-preuve, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La charge de la preuve et sa repartition entre les parties
+slug: la-charge-de-la-preuve-et-sa-repartition-entre-les-parties
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une regle qui determine qui doit demontrer les faits qu'il avance devant un tribunal.
+tags: [procedure-et-preuve, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents modes de preuve admis devant un tribunal
+slug: les-differents-modes-de-preuve-admis-devant-un-tribunal
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un ensemble d'elements varies, du temoignage au document, que le juge peut prendre en compte.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'huissier de justice dans la constatation des faits
+slug: le-role-de-l-huissier-de-justice-dans-la-constatation-des-faits
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un professionnel dont les constats officiels servent de preuve fiable devant un tribunal.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La procedure d'appel et le reexamen d'une decision de justice
+slug: la-procedure-d-appel-et-le-reexamen-d-une-decision-de-justice
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un recours qui permet de faire verifier une premiere decision par une juridiction superieure.
+tags: [procedure-et-preuve, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pourvoi en cassation et son role specifique dans l'organisation judiciaire
+slug: le-pourvoi-en-cassation-et-son-role-specifique-dans-l-organisation-judiciaire
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un recours qui verifie non pas les faits mais la bonne application du droit par les juges precedents.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les preuves numeriques et les defis de leur authentification
+slug: les-preuves-numeriques-et-les-defis-de-leur-authentification
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un enjeu recent lie a la difficulte de garantir l'origine et l'integrite d'un document electronique.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du temoin dans une procedure judiciaire
+slug: le-role-du-temoin-dans-une-procedure-judiciaire
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une personne qui apporte son recit des faits pour eclairer la decision du juge.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mediation comme alternative au proces judiciaire classique
+slug: la-mediation-comme-alternative-au-proces-judiciaire-classique
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une methode de resolution des conflits qui evite un passage devant un tribunal.
+tags: [procedure-et-preuve, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le referement et les procedures d'urgence devant un tribunal
+slug: le-referement-et-les-procedures-d-urgence-devant-un-tribunal
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une voie rapide qui permet d'obtenir une decision provisoire lorsque la situation l'exige.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La force probante des documents ecrits en droit
+slug: la-force-probante-des-documents-ecrits-en-droit
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une hierarchie qui accorde plus ou moins de credit selon la nature du document presente.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'avocat dans la constitution du dossier d'une affaire
+slug: le-role-de-l-avocat-dans-la-constitution-du-dossier-d-une-affaire
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un accompagnement essentiel qui aide a rassembler et presenter les elements de preuve pertinents.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les delais de prescription en matiere civile
+slug: les-delais-de-prescription-en-matiere-civile
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une periode au-dela de laquelle une action en justice n'est plus recevable.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'expertise judiciaire et son role dans l'eclairage technique d'un litige
+slug: l-expertise-judiciaire-et-son-role-dans-l-eclairage-technique-d-un-litige
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une intervention specialisee qui aide le juge a comprendre des aspects techniques complexes.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de la publicite des debats judiciaires
+slug: le-principe-de-la-publicite-des-debats-judiciaires
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une regle qui garantit que la justice soit rendue de maniere transparente, sauf exceptions prevues.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conciliation prealable a un proces dans certains litiges
+slug: la-conciliation-prealable-a-un-proces-dans-certains-litiges
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une etape souvent obligatoire qui vise a trouver un accord avant d'aller devant un tribunal.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du greffe dans l'organisation administrative des procedures judiciaires
+slug: le-role-du-greffe-dans-l-organisation-administrative-des-procedures-judiciaires
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un service essentiel mais souvent meconnu qui assure le suivi administratif des affaires.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les preuves illegalement obtenues et leur recevabilite devant un tribunal
+slug: les-preuves-illegalement-obtenues-et-leur-recevabilite-devant-un-tribunal
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une question delicate sur l'equilibre entre verite des faits et respect des procedures.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le serment du temoin et ses consequences juridiques en cas de faux temoignage
+slug: le-serment-du-temoin-et-ses-consequences-juridiques-en-cas-de-faux-temoignage
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un engagement solennel qui expose a des sanctions en cas de declaration mensongere.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La procedure simplifiee pour les petits litiges du quotidien
+slug: la-procedure-simplifiee-pour-les-petits-litiges-du-quotidien
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un cadre allege qui facilite l'acces a la justice pour des affaires de faible montant.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du juge d'instruction dans les affaires penales complexes
+slug: le-role-du-juge-d-instruction-dans-les-affaires-penales-complexes
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Un magistrat charge de rassembler les elements necessaires avant un eventuel proces.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'execution des decisions de justice et les moyens de contrainte disponibles
+slug: l-execution-des-decisions-de-justice-et-les-moyens-de-contrainte-disponibles
+categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
+summary: >
+  Une derniere etape essentielle pour que la decision rendue ait un effet concret.
+tags: [procedure-et-preuve]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de la separation des pouvoirs
+slug: le-principe-de-la-separation-des-pouvoirs
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Une organisation fondamentale qui repartit l'autorite entre plusieurs institutions distinctes.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du conseil constitutionnel dans le controle des lois
+slug: le-role-du-conseil-constitutionnel-dans-le-controle-des-lois
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Une institution qui verifie la conformite des textes legislatifs aux principes fondamentaux.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents regimes politiques et leur organisation constitutionnelle
+slug: les-differents-regimes-politiques-et-leur-organisation-constitutionnelle
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Une diversite de modeles qui repartissent differemment le pouvoir entre les institutions.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La hierarchie des normes juridiques et la place de la constitution
+slug: la-hierarchie-des-normes-juridiques-et-la-place-de-la-constitution
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un ordre qui place le texte constitutionnel au sommet des regles applicables dans un pays.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de vote et son evolution historique dans les democraties
+slug: le-droit-de-vote-et-son-evolution-historique-dans-les-democraties
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un droit fondamental dont l'extension progressive a marque l'histoire de nombreux pays.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La procedure de revision constitutionnelle
+slug: la-procedure-de-revision-constitutionnelle
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un mecanisme specifique, generalement plus exigeant, pour modifier le texte fondamental d'un pays.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chef de l'Etat selon les differents systemes constitutionnels
+slug: le-role-du-chef-de-l-etat-selon-les-differents-systemes-constitutionnels
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Des fonctions tres variables selon que le regime est presidentiel, parlementaire ou mixte.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les droits et libertes fondamentaux garantis par une constitution
+slug: les-droits-et-libertes-fondamentaux-garantis-par-une-constitution
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un socle de protections essentielles accorde a chaque citoyen face au pouvoir de l'Etat.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle de constitutionnalite a posteriori d'une loi deja en vigueur
+slug: le-controle-de-constitutionnalite-a-posteriori-d-une-loi-deja-en-vigueur
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Une procedure qui permet de contester une loi meme apres son adoption.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La question prioritaire de constitutionnalite et son fonctionnement
+slug: la-question-prioritaire-de-constitutionnalite-et-son-fonctionnement
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un mecanisme qui permet a un citoyen de contester la conformite d'une loi lors d'un proces.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le federalisme et la repartition des competences entre Etat central et regions
+slug: le-federalisme-et-la-repartition-des-competences-entre-etat-central-et-regions
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un modele d'organisation qui partage le pouvoir entre differents niveaux de gouvernement.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du parlement dans l'elaboration et le vote des lois
+slug: le-role-du-parlement-dans-l-elaboration-et-le-vote-des-lois
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Une institution centrale du processus democratique charge de representer les citoyens.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dissolution du parlement et ses consequences institutionnelles
+slug: la-dissolution-du-parlement-et-ses-consequences-institutionnelles
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Une decision exceptionnelle qui entraine de nouvelles elections legislatives anticipees.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des grandes declarations des droits de l'homme et leur influence constitutionnelle
+slug: l-histoire-des-grandes-declarations-des-droits-de-l-homme-et-leur-influence-constitutionnelle
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Des textes fondateurs qui ont profondement inspire de nombreuses constitutions modernes.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de la laicite dans les textes constitutionnels
+slug: le-principe-de-la-laicite-dans-les-textes-constitutionnels
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un principe qui organise la separation entre les institutions publiques et les religions.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La responsabilite politique du gouvernement devant le parlement
+slug: la-responsabilite-politique-du-gouvernement-devant-le-parlement
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un mecanisme qui permet aux representants du peuple de controler l'action de l'executif.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etats d'exception et leur encadrement constitutionnel
+slug: les-etats-d-exception-et-leur-encadrement-constitutionnel
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Des dispositifs prevus pour des circonstances graves, encadres pour eviter les abus de pouvoir.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cours constitutionnelles dans le monde et leurs differences
+slug: le-role-des-cours-constitutionnelles-dans-le-monde-et-leurs-differences
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Des institutions dont les pouvoirs et les modes de fonctionnement varient selon les pays.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La citoyennete et les droits qui y sont attaches dans une constitution
+slug: la-citoyennete-et-les-droits-qui-y-sont-attaches-dans-une-constitution
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un statut juridique qui garantit un ensemble de droits et de devoirs specifiques.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution historique des constitutions ecrites depuis le dix-huitieme siecle
+slug: l-evolution-historique-des-constitutions-ecrites-depuis-le-dix-huitieme-siecle
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un mouvement mondial qui a progressivement generalise l'adoption de textes fondamentaux ecrits.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le referendum comme outil de participation directe des citoyens
+slug: le-referendum-comme-outil-de-participation-directe-des-citoyens
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Un mecanisme qui permet au peuple de se prononcer directement sur une question importante.
+tags: [droit-constitutionnel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection constitutionnelle des minorites dans certains pays
+slug: la-protection-constitutionnelle-des-minorites-dans-certains-pays
+categoryPath: droit-et-justice/droit-public/droit-constitutionnel
+summary: >
+  Des dispositions specifiques destinees a garantir les droits de groupes moins representes.
+tags: [droit-constitutionnel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe pollueur-payeur en droit de l'environnement
+slug: le-principe-pollueur-payeur-en-droit-de-l-environnement
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Une regle qui fait porter le cout de la reparation d'un dommage sur celui qui en est responsable.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de precaution face aux risques environnementaux incertains
+slug: le-principe-de-precaution-face-aux-risques-environnementaux-incertains
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Une approche qui permet d'agir preventivement meme en l'absence de certitude scientifique totale.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etudes d'impact environnemental avant un grand projet d'amenagement
+slug: les-etudes-d-impact-environnemental-avant-un-grand-projet-d-amenagement
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Une evaluation prealable obligatoire pour mesurer les consequences ecologiques d'un projet.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les interdictions legales visant a preserver les especes en voie de disparition
+slug: les-interdictions-legales-visant-a-preserver-les-especes-en-voie-de-disparition
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un cadre legal qui interdit ou encadre strictement certaines atteintes a des especes fragiles.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit international de l'environnement et les grands accords climatiques
+slug: le-droit-international-de-l-environnement-et-les-grands-accords-climatiques
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des engagements pris collectivement par de nombreux pays pour repondre a des enjeux globaux.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La responsabilite environnementale des entreprises pour les dommages causes
+slug: la-responsabilite-environnementale-des-entreprises-pour-les-dommages-causes
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un cadre juridique qui oblige les entreprises a reparer les atteintes causees a l'environnement.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aires protegees et leur statut juridique specifique
+slug: les-aires-protegees-et-leur-statut-juridique-specifique
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des zones ou des regles particulieres limitent certaines activites pour preserver la nature.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de l'eau et la gestion juridique de cette ressource partagee
+slug: le-droit-de-l-eau-et-la-gestion-juridique-de-cette-ressource-partagee
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un cadre qui organise l'usage et la protection d'une ressource essentielle mais limitee.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sanctions penales applicables en cas d'atteinte grave a l'environnement
+slug: les-sanctions-penales-applicables-en-cas-d-atteinte-grave-a-l-environnement
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des peines specifiques destinees a dissuader les comportements les plus dommageables.
+tags: [droit-de-lenvironnement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des associations environnementales dans les recours juridiques
+slug: le-role-des-associations-environnementales-dans-les-recours-juridiques
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des organisations qui utilisent le droit pour defendre la protection de la nature devant les tribunaux.
+tags: [droit-de-lenvironnement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation juridique de la gestion des dechets
+slug: la-reglementation-juridique-de-la-gestion-des-dechets
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un ensemble de regles qui encadrent le traitement des dechets pour limiter leur impact.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de l'environnement et la protection des forets
+slug: le-droit-de-l-environnement-et-la-protection-des-forets
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des regles specifiques qui encadrent l'exploitation et la preservation des espaces forestiers.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes juridiques encadrant les emissions polluantes des industries
+slug: les-normes-juridiques-encadrant-les-emissions-polluantes-des-industries
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des seuils reglementaires qui limitent la pollution rejetee par les activites industrielles.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le contentieux climatique et les proces intentes contre des Etats ou des entreprises
+slug: le-contentieux-climatique-et-les-proces-intentes-contre-des-etats-ou-des-entreprises
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Une tendance recente ou des citoyens utilisent la justice pour exiger une action climatique.
+tags: [droit-de-lenvironnement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le statut legal special accorde aux marais et tourbieres
+slug: le-statut-legal-special-accorde-aux-marais-et-tourbieres
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un statut particulier accorde a ces ecosystemes essentiels mais longtemps sous-estimes.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de l'environnement marin et la protection des oceans
+slug: le-droit-de-l-environnement-marin-et-la-protection-des-oceans
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un cadre juridique specifique qui encadre les activites humaines affectant les milieux marins.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mecanismes juridiques de compensation ecologique
+slug: les-mecanismes-juridiques-de-compensation-ecologique
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des obligations qui imposent de compenser un dommage environnemental par une action reparatrice.
+tags: [droit-de-lenvironnement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit a un environnement sain reconnu dans certaines constitutions
+slug: le-droit-a-un-environnement-sain-reconnu-dans-certaines-constitutions
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Une reconnaissance juridique croissante qui eleve la protection environnementale au rang de droit fondamental.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation juridique des organismes genetiquement modifies
+slug: la-reglementation-juridique-des-organismes-genetiquement-modifies
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un cadre specifique qui encadre l'utilisation de ces technologies dans l'agriculture.
+tags: [droit-de-lenvironnement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des juges dans l'interpretation des lois environnementales
+slug: le-role-des-juges-dans-l-interpretation-des-lois-environnementales
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Une contribution essentielle qui precise concretement la portee de textes parfois generaux.
+tags: [droit-de-lenvironnement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les taxes ecologiques comme levier pour orienter les comportements
+slug: les-taxes-ecologiques-comme-levier-pour-orienter-les-comportements
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des taxes specifiques concues pour encourager des comportements moins nuisibles a l'environnement.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de l'environnement et la protection de la qualite de l'air
+slug: le-droit-de-l-environnement-et-la-protection-de-la-qualite-de-l-air
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Un cadre juridique qui fixe des normes pour limiter la pollution atmospherique.
+tags: [droit-de-lenvironnement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les conventions internationales sur la biodiversite et leur mise en oeuvre nationale
+slug: les-conventions-internationales-sur-la-biodiversite-et-leur-mise-en-oeuvre-nationale
+categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
+summary: >
+  Des engagements globaux qui necessitent une transposition dans le droit de chaque pays.
+tags: [droit-de-lenvironnement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des traites internationaux dans les relations entre Etats
+slug: le-role-des-traites-internationaux-dans-les-relations-entre-etats
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Des accords formels qui encadrent juridiquement les engagements pris par les pays entre eux.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La souverainete des Etats et ses limites en droit international
+slug: la-souverainete-des-etats-et-ses-limites-en-droit-international
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un principe fondamental nuance par les engagements que chaque pays choisit de prendre.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des Nations unies dans le maintien de la paix internationale
+slug: le-role-des-nations-unies-dans-le-maintien-de-la-paix-internationale
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Une organisation centrale qui coordonne l'action collective face aux conflits entre pays.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La Cour internationale de justice et le reglement pacifique des differends
+slug: la-cour-internationale-de-justice-et-le-reglement-pacifique-des-differends
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Une institution qui permet de trancher juridiquement des litiges entre Etats sans recourir a la force.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit humanitaire international et la protection des populations en temps de guerre
+slug: le-droit-humanitaire-international-et-la-protection-des-populations-en-temps-de-guerre
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un ensemble de regles qui encadre les comportements autorises meme durant un conflit arme.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les immunites diplomatiques et leur justification
+slug: les-immunites-diplomatiques-et-leur-justification
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Des protections juridiques particulieres accordees aux representants officiels d'un pays a l'etranger.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de la mer et le partage des espaces maritimes entre pays
+slug: le-droit-de-la-mer-et-le-partage-des-espaces-maritimes-entre-pays
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un cadre qui organise les droits de chaque Etat sur les eaux qui bordent son territoire.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconnaissance internationale d'un Etat et ses consequences juridiques
+slug: la-reconnaissance-internationale-d-un-etat-et-ses-consequences-juridiques
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un acte qui conditionne la capacite d'un pays a participer pleinement aux relations internationales.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des organisations regionales dans la cooperation entre pays voisins
+slug: le-role-des-organisations-regionales-dans-la-cooperation-entre-pays-voisins
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Des structures qui facilitent des accords specifiques entre pays d'une meme zone geographique.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La Cour penale internationale et la poursuite des crimes les plus graves
+slug: la-cour-penale-internationale-et-la-poursuite-des-crimes-les-plus-graves
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Une institution creee pour juger des atteintes majeures aux droits humains au-dela des frontieres nationales.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit international des refugies et leur protection
+slug: le-droit-international-des-refugies-et-leur-protection
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un cadre juridique specifique qui organise l'accueil et les droits des personnes fuyant un danger.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resolution des conflits territoriaux par la voie du droit international
+slug: la-resolution-des-conflits-territoriaux-par-la-voie-du-droit-international
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Des mecanismes juridiques qui permettent de trancher des litiges frontaliers sans recourir a la force.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sanctions internationales dans les relations entre Etats
+slug: le-role-des-sanctions-internationales-dans-les-relations-entre-etats
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Des mesures qui visent a faire pression sur un pays sans recourir a une intervention militaire.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit international economique et la regulation du commerce entre pays
+slug: le-droit-international-economique-et-la-regulation-du-commerce-entre-pays
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un cadre qui organise les echanges commerciaux et previent certains conflits economiques.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La coutume internationale comme source du droit entre Etats
+slug: la-coutume-internationale-comme-source-du-droit-entre-etats
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Une pratique repetee et acceptee qui finit par devenir une regle juridique reconnue.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ambassades dans la representation d'un pays a l'etranger
+slug: le-role-des-ambassades-dans-la-representation-d-un-pays-a-l-etranger
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Des institutions qui assurent le lien diplomatique et juridique entre deux pays.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection internationale des droits de l'enfant
+slug: la-protection-internationale-des-droits-de-l-enfant
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un cadre specifique qui reconnait des droits particuliers aux plus jeunes, au-dela des frontieres.
+tags: [droit-international, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit international de l'espace et l'usage pacifique de l'orbite terrestre
+slug: le-droit-international-de-l-espace-et-l-usage-pacifique-de-l-orbite-terrestre
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un cadre juridique recent qui organise les activites spatiales entre pays.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La responsabilite internationale des Etats en cas de violation du droit
+slug: la-responsabilite-internationale-des-etats-en-cas-de-violation-du-droit
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un principe qui permet d'engager la responsabilite d'un pays pour un manquement a ses engagements.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tribunaux penaux internationaux specifiques a certains conflits
+slug: le-role-des-tribunaux-penaux-internationaux-specifiques-a-certains-conflits
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Des juridictions creees pour juger des crimes commis dans un contexte historique precis.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit international et la protection des travailleurs migrants
+slug: le-droit-international-et-la-protection-des-travailleurs-migrants
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un cadre specifique qui vise a garantir des droits minimaux aux personnes travaillant hors de leur pays.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La negociation des traites internationaux et les etapes de leur adoption
+slug: la-negociation-des-traites-internationaux-et-les-etapes-de-leur-adoption
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Un processus long qui necessite l'accord de plusieurs pays avant l'entree en vigueur d'un texte.
+tags: [droit-international]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit a un proces equitable comme garantie fondamentale
+slug: le-droit-a-un-proces-equitable-comme-garantie-fondamentale
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un principe essentiel qui assure a chacun un traitement impartial devant la justice.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La liberte d'expression et ses limites legales
+slug: la-liberte-d-expression-et-ses-limites-legales
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit fondamental qui n'est pas absolu et peut etre encadre pour proteger d'autres interets.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit a la vie privee face aux nouvelles technologies
+slug: le-droit-a-la-vie-privee-face-aux-nouvelles-technologies
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Une protection fondamentale mise a l'epreuve par la collecte croissante de donnees personnelles.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'egalite devant la loi comme principe fondamental
+slug: l-egalite-devant-la-loi-comme-principe-fondamental
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit qui garantit un traitement identique de tous les citoyens face aux regles communes.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La liberte de reunion et de manifestation
+slug: la-liberte-de-reunion-et-de-manifestation
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit qui permet aux citoyens d'exprimer collectivement leurs opinions dans l'espace public.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit a la protection contre les traitements inhumains ou degradants
+slug: le-droit-a-la-protection-contre-les-traitements-inhumains-ou-degradants
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Une garantie fondamentale qui interdit toute forme de violence institutionnelle excessive.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La liberte de religion et de conscience
+slug: la-liberte-de-religion-et-de-conscience
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit fondamental qui protege la possibilite de croire ou de ne pas croire selon son choix.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit a l'education comme droit fondamental reconnu internationalement
+slug: le-droit-a-l-education-comme-droit-fondamental-reconnu-internationalement
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit qui garantit a chaque enfant l'acces a un enseignement de base.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection juridique contre les discriminations
+slug: la-protection-juridique-contre-les-discriminations
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un ensemble de regles qui interdisent un traitement defavorable fonde sur des criteres illegitimes.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit au respect de la dignite humaine
+slug: le-droit-au-respect-de-la-dignite-humaine
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un principe fondateur qui sous-tend l'ensemble des autres droits fondamentaux reconnus.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'independance des medias face au pouvoir comme pilier democratique
+slug: l-independance-des-medias-face-au-pouvoir-comme-pilier-democratique
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit essentiel qui protege l'independance des medias face aux pressions du pouvoir.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit d'asile et la protection des personnes persecutees
+slug: le-droit-d-asile-et-la-protection-des-personnes-persecutees
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit fondamental qui permet a une personne en danger de trouver refuge dans un autre pays.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection des droits fondamentaux des personnes en situation de handicap
+slug: la-protection-des-droits-fondamentaux-des-personnes-en-situation-de-handicap
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un cadre specifique qui garantit l'accessibilite et la non-discrimination pour ces personnes.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit au travail et sa reconnaissance dans les textes fondamentaux
+slug: le-droit-au-travail-et-sa-reconnaissance-dans-les-textes-fondamentaux
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit qui, bien que difficile a garantir pleinement, oriente les politiques publiques de l'emploi.
+tags: [droits-fondamentaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La liberte d'association et le droit de se regrouper
+slug: la-liberte-d-association-et-le-droit-de-se-regrouper
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit fondamental qui permet aux citoyens de former des organisations pour defendre des interets communs.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit a un logement decent comme aspiration fondamentale
+slug: le-droit-a-un-logement-decent-comme-aspiration-fondamentale
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un objectif reconnu dans plusieurs textes internationaux malgre des difficultes de mise en oeuvre.
+tags: [droits-fondamentaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection des droits fondamentaux des personnes detenues
+slug: la-protection-des-droits-fondamentaux-des-personnes-detenues
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Des garanties minimales qui s'appliquent meme aux personnes privees de liberte.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconnaissance juridique de l'acces aux soins comme droit essentiel
+slug: la-reconnaissance-juridique-de-l-acces-aux-soins-comme-droit-essentiel
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit qui implique l'acces a des soins de qualite pour l'ensemble de la population.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La liberte syndicale et le droit de defendre collectivement ses interets professionnels
+slug: la-liberte-syndicale-et-le-droit-de-defendre-collectivement-ses-interets-professionnels
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un droit fondamental qui permet aux travailleurs de s'organiser pour negocier leurs conditions de travail.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La garantie de pouvoir contester effectivement une decision devant un juge
+slug: la-garantie-de-pouvoir-contester-effectivement-une-decision-devant-un-juge
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Une garantie qui assure que chacun puisse effectivement contester une decision qu'il juge injuste.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection des droits fondamentaux des enfants
+slug: la-protection-des-droits-fondamentaux-des-enfants
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un cadre specifique qui reconnait des besoins et des vulnerabilites propres a cette periode de la vie.
+tags: [droits-fondamentaux, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit a la nationalite et ses consequences juridiques
+slug: le-droit-a-la-nationalite-et-ses-consequences-juridiques
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Un lien juridique fondamental entre une personne et un Etat, source de nombreux droits et devoirs.
+tags: [droits-fondamentaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier d'avocat et ses differentes specialisations
+slug: le-metier-d-avocat-et-ses-differentes-specialisations
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Une profession centrale du droit qui defend et conseille des clients dans de nombreux domaines.
+tags: [metiers-du-droit, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role et la nomination des juges dans l'organisation judiciaire
+slug: le-role-et-la-nomination-des-juges-dans-l-organisation-judiciaire
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Une fonction essentielle qui exige independance et impartialite dans le rendu des decisions.
+tags: [metiers-du-droit, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de notaire et son role dans les actes juridiques officiels
+slug: le-metier-de-notaire-et-son-role-dans-les-actes-juridiques-officiels
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel charge d'authentifier certains actes essentiels de la vie civile.
+tags: [metiers-du-droit, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le procureur et son role dans la poursuite des infractions penales
+slug: le-procureur-et-son-role-dans-la-poursuite-des-infractions-penales
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un magistrat charge de representer la societe et de decider de l'opportunite des poursuites.
+tags: [metiers-du-droit, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier d'huissier de justice et ses missions variees
+slug: le-metier-d-huissier-de-justice-et-ses-missions-variees
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel charge de faire executer les decisions de justice et de constater certains faits.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation necessaire pour devenir magistrat
+slug: la-formation-necessaire-pour-devenir-magistrat
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un parcours exigeant qui combine etudes juridiques approfondies et selection rigoureuse.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de greffier et son role dans le fonctionnement des tribunaux
+slug: le-metier-de-greffier-et-son-role-dans-le-fonctionnement-des-tribunaux
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel indispensable qui assure le suivi administratif de chaque procedure judiciaire.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le conseil juridique en entreprise et son role de prevention des litiges
+slug: le-conseil-juridique-en-entreprise-et-son-role-de-prevention-des-litiges
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel qui aide les organisations a respecter le droit et a eviter les conflits.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de mediateur et son role dans la resolution amiable des conflits
+slug: le-metier-de-mediateur-et-son-role-dans-la-resolution-amiable-des-conflits
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel qui aide les parties a trouver un accord sans passer par un proces.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le juriste d'entreprise et ses missions au quotidien
+slug: le-juriste-d-entreprise-et-ses-missions-au-quotidien
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel du droit integre directement au sein d'une organisation pour la conseiller.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de commissaire de justice et l'evolution recente de cette profession
+slug: le-metier-de-commissaire-de-justice-et-l-evolution-recente-de-cette-profession
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Une profession qui regroupe desormais plusieurs metiers juridiques auparavant distincts.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'avocat commis d'office pour les personnes sans moyens
+slug: le-role-de-l-avocat-commis-d-office-pour-les-personnes-sans-moyens
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un dispositif qui garantit l'acces a une defense meme pour les personnes aux ressources limitees.
+tags: [metiers-du-droit, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier d'enqueteur de police judiciaire et sa collaboration avec la justice
+slug: le-metier-d-enqueteur-de-police-judiciaire-et-sa-collaboration-avec-la-justice
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un role essentiel dans la collecte des preuves necessaires au bon deroulement d'une procedure.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deontologie professionnelle des avocats et ses principes
+slug: la-deontologie-professionnelle-des-avocats-et-ses-principes
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un ensemble de regles ethiques qui encadrent l'exercice honnete et loyal de cette profession.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de conciliateur de justice benevole
+slug: le-metier-de-conciliateur-de-justice-benevole
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un role de proximite qui aide a resoudre des litiges simples sans recourir a un tribunal.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le juriste specialise en droit international et ses debouches professionnels
+slug: le-juriste-specialise-en-droit-international-et-ses-debouches-professionnels
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Une specialisation qui ouvre vers des carrieres au sein d'organisations ou d'entreprises multinationales.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier d'assistant juridique et son role de soutien aux professionnels du droit
+slug: le-metier-d-assistant-juridique-et-son-role-de-soutien-aux-professionnels-du-droit
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Une fonction qui accompagne le travail quotidien des avocats et des juristes.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation continue des professionnels du droit face a l'evolution des lois
+slug: la-formation-continue-des-professionnels-du-droit-face-a-l-evolution-des-lois
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Une necessite constante pour rester a jour face aux changements frequents de la legislation.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier d'expert judiciaire et son role d'appui technique a la justice
+slug: le-metier-d-expert-judiciaire-et-son-role-d-appui-technique-a-la-justice
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel exterieur sollicite pour eclairer le juge sur un point technique precis.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les carrieres internationales dans le domaine du droit
+slug: les-carrieres-internationales-dans-le-domaine-du-droit
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Des opportunites professionnelles qui s'ouvrent au sein d'organisations et de tribunaux internationaux.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de legiste et son role dans la redaction des textes de loi
+slug: le-metier-de-legiste-et-son-role-dans-la-redaction-des-textes-de-loi
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un professionnel discret mais essentiel a la qualite et a la coherence de la legislation.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La diversite des parcours menant aux professions juridiques
+slug: la-diversite-des-parcours-menant-aux-professions-juridiques
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Des voies d'acces variees qui refletent la richesse des metiers lies au droit.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de juge des enfants et sa specificite dans l'organisation judiciaire
+slug: le-metier-de-juge-des-enfants-et-sa-specificite-dans-l-organisation-judiciaire
+categoryPath: droit-et-justice/justice-et-institutions/metiers-du-droit
+summary: >
+  Un role particulier centre sur la protection et l'accompagnement des mineurs.
+tags: [metiers-du-droit]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La hierarchie des juridictions dans l'organisation judiciaire
+slug: la-hierarchie-des-juridictions-dans-l-organisation-judiciaire
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une structure a plusieurs niveaux qui organise le traitement des affaires selon leur nature et leur gravite.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tribunaux de premiere instance dans le systeme judiciaire
+slug: le-role-des-tribunaux-de-premiere-instance-dans-le-systeme-judiciaire
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Le premier niveau ou la plupart des affaires sont examinees et jugees.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cour d'appel et son role de reexamen des decisions judiciaires
+slug: la-cour-d-appel-et-son-role-de-reexamen-des-decisions-judiciaires
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une juridiction superieure qui permet de contester un jugement rendu en premiere instance.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cour supreme dans l'unification de l'interpretation du droit
+slug: le-role-de-la-cour-supreme-dans-l-unification-de-l-interpretation-du-droit
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une juridiction au sommet du systeme qui veille a une application coherente des lois.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distinction entre juridictions civiles et juridictions penales
+slug: la-distinction-entre-juridictions-civiles-et-juridictions-penales
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Deux branches distinctes de l'organisation judiciaire qui traitent des types d'affaires differents.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tribunaux administratifs face aux litiges avec l'administration
+slug: le-role-des-tribunaux-administratifs-face-aux-litiges-avec-l-administration
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une juridiction specifique qui juge les differends entre les citoyens et les institutions publiques.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'organisation territoriale des juridictions dans un pays
+slug: l-organisation-territoriale-des-juridictions-dans-un-pays
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une repartition geographique qui determine quel tribunal est competent selon le lieu concerne.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du conseil superieur de la magistrature dans l'independance des juges
+slug: le-role-du-conseil-superieur-de-la-magistrature-dans-l-independance-des-juges
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une institution qui garantit que les magistrats exercent leur fonction sans pression exterieure.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tribunaux specialises et leur competence sur des matieres particulieres
+slug: les-tribunaux-specialises-et-leur-competence-sur-des-matieres-particulieres
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Des juridictions dediees a des domaines specifiques comme le commerce ou le travail.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du ministere public au sein de l'organisation judiciaire
+slug: le-role-du-ministere-public-au-sein-de-l-organisation-judiciaire
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une institution qui represente les interets de la societe dans les procedures penales.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La justice de proximite et son role pour les litiges du quotidien
+slug: la-justice-de-proximite-et-son-role-pour-les-litiges-du-quotidien
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Un niveau accessible de justice concu pour traiter rapidement des affaires simples et courantes.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'independance de la justice comme principe fondamental de l'organisation judiciaire
+slug: l-independance-de-la-justice-comme-principe-fondamental-de-l-organisation-judiciaire
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une garantie essentielle qui protege les decisions des juges de toute influence exterieure.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tribunaux de commerce dans le reglement des litiges economiques
+slug: le-role-des-tribunaux-de-commerce-dans-le-reglement-des-litiges-economiques
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une juridiction specialisee qui traite des conflits entre entreprises et commercants.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aide juridictionnelle et l'acces a la justice pour les personnes aux revenus modestes
+slug: l-aide-juridictionnelle-et-l-acces-a-la-justice-pour-les-personnes-aux-revenus-modestes
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Un dispositif qui permet de beneficier d'un accompagnement juridique malgre des ressources limitees.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tribunaux militaires dans certains systemes judiciaires
+slug: le-role-des-tribunaux-militaires-dans-certains-systemes-judiciaires
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une juridiction specifique adaptee aux infractions commises dans un contexte militaire.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dematerialisation des procedures judiciaires et ses effets sur l'organisation des tribunaux
+slug: la-dematerialisation-des-procedures-judiciaires-et-ses-effets-sur-l-organisation-des-tribunaux
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une transformation numerique qui modifie progressivement le fonctionnement quotidien de la justice.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des chambres specialisees au sein d'un meme tribunal
+slug: le-role-des-chambres-specialisees-au-sein-d-un-meme-tribunal
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une organisation interne qui repartit les affaires selon leur nature entre differentes equipes de juges.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La justice des mineurs et son organisation specifique
+slug: la-justice-des-mineurs-et-son-organisation-specifique
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Un systeme adapte qui privilegie generalement l'education a la seule sanction pour les jeunes.
+tags: [organisation-judiciaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du defenseur des droits dans le controle des institutions
+slug: le-role-du-defenseur-des-droits-dans-le-controle-des-institutions
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Une instance independante qui veille au respect des droits des citoyens face aux administrations.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les delais de traitement des affaires et les efforts pour desengorger la justice
+slug: les-delais-de-traitement-des-affaires-et-les-efforts-pour-desengorger-la-justice
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Un enjeu majeur pour garantir une justice rendue dans un temps raisonnable.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tribunaux internationaux dans le paysage judiciaire mondial
+slug: le-role-des-tribunaux-internationaux-dans-le-paysage-judiciaire-mondial
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Des institutions qui completent l'organisation judiciaire nationale pour certains types d'affaires.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transparence de l'organisation judiciaire et l'acces du public aux decisions rendues
+slug: la-transparence-de-l-organisation-judiciaire-et-l-acces-du-public-aux-decisions-rendues
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Un enjeu democratique qui permet aux citoyens de comprendre le fonctionnement de leur justice.
+tags: [organisation-judiciaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de retractation apres un achat a distance
+slug: le-droit-de-retractation-apres-un-achat-a-distance
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un delai legal qui permet a l'acheteur de changer d'avis sans avoir a se justifier.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La garantie legale de conformite sur les produits achetes
+slug: la-garantie-legale-de-conformite-sur-les-produits-achetes
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Une protection qui oblige le vendeur a fournir un bien conforme a ce qui a ete annonce.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les dispositions contractuelles desequilibrees interdites envers les acheteurs
+slug: les-dispositions-contractuelles-desequilibrees-interdites-envers-les-acheteurs
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des dispositions desequilibrees interdites car elles desavantagent injustement le consommateur.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des associations de consommateurs dans la defense des acheteurs
+slug: le-role-des-associations-de-consommateurs-dans-la-defense-des-acheteurs
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des organisations qui accompagnent et informent les consommateurs face a des litiges commerciaux.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection contre les pratiques commerciales trompeuses
+slug: la-protection-contre-les-pratiques-commerciales-trompeuses
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un ensemble de regles qui interdit aux vendeurs d'induire le consommateur en erreur.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de la consommation applique au credit a la consommation
+slug: le-droit-de-la-consommation-applique-au-credit-a-la-consommation
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des regles specifiques qui protegent l'emprunteur face aux offres de pret pour des achats courants.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La garantie des vices caches et son fonctionnement
+slug: la-garantie-des-vices-caches-et-son-fonctionnement
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Une protection qui permet a l'acheteur de se retourner contre le vendeur pour un defaut non visible.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le demarchage commercial et son encadrement legal
+slug: le-demarchage-commercial-et-son-encadrement-legal
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des regles specifiques qui protegent le consommateur face a une sollicitation commerciale non souhaitee.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des soldes et des periodes de promotion
+slug: la-reglementation-des-soldes-et-des-periodes-de-promotion
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un cadre legal qui encadre les moments ou les commercants peuvent proposer des rabais importants.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de la consommation et la protection des donnees des acheteurs en ligne
+slug: le-droit-de-la-consommation-et-la-protection-des-donnees-des-acheteurs-en-ligne
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Une garantie complementaire qui encadre l'usage des informations personnelles collectees lors d'un achat.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mediation de la consommation comme alternative au tribunal
+slug: la-mediation-de-la-consommation-comme-alternative-au-tribunal
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Une procedure gratuite qui aide a resoudre un litige commercial sans proces.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation de la publicite trompeuse
+slug: la-reglementation-de-la-publicite-trompeuse
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un ensemble de regles qui interdit toute communication commerciale mensongere envers le consommateur.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de la consommation applique aux voyages et sejours a forfait
+slug: le-droit-de-la-consommation-applique-aux-voyages-et-sejours-a-forfait
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des protections specifiques pour les consommateurs achetant un voyage organise.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des produits mis sur le marche et les obligations des fabricants
+slug: la-securite-des-produits-mis-sur-le-marche-et-les-obligations-des-fabricants
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un cadre qui impose des normes de securite avant qu'un produit ne puisse etre vendu.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le surendettement et les procedures de protection du consommateur
+slug: le-surendettement-et-les-procedures-de-protection-du-consommateur
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un dispositif qui aide les personnes en grande difficulte financiere a retrouver un equilibre.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des contrats d'abonnement et leur resiliation
+slug: la-reglementation-des-contrats-d-abonnement-et-leur-resiliation
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des regles qui facilitent la sortie d'un engagement commercial de longue duree.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de la consommation et les achats groupes ou collaboratifs
+slug: le-droit-de-la-consommation-et-les-achats-groupes-ou-collaboratifs
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un cadre qui s'adapte a des formes recentes et particulieres de consommation.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection du consommateur face aux services financiers
+slug: la-protection-du-consommateur-face-aux-services-financiers
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des regles specifiques qui encadrent la vente de produits d'epargne ou d'assurance.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de la consommation et l'etiquetage obligatoire des produits
+slug: le-droit-de-la-consommation-et-l-etiquetage-obligatoire-des-produits
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Une obligation d'information qui permet au consommateur de faire un choix eclaire.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des ventes a distance et du commerce electronique
+slug: la-reglementation-des-ventes-a-distance-et-du-commerce-electronique
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Un cadre specifique qui adapte les protections classiques du consommateur au contexte numerique.
+tags: [droit-de-la-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des autorites de controle dans la protection des consommateurs
+slug: le-role-des-autorites-de-controle-dans-la-protection-des-consommateurs
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Des institutions publiques qui surveillent le respect des regles commerciales et sanctionnent les abus.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La garantie commerciale offerte par les fabricants en complement de la garantie legale
+slug: la-garantie-commerciale-offerte-par-les-fabricants-en-complement-de-la-garantie-legale
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Une protection additionnelle proposee volontairement, distincte des garanties imposees par la loi.
+tags: [droit-de-la-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le contrat de travail et ses elements essentiels
+slug: le-contrat-de-travail-et-ses-elements-essentiels
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un accord qui formalise la relation entre un employeur et un salarie selon des regles precises.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree legale du temps de travail et les regles relatives aux heures supplementaires
+slug: la-duree-legale-du-temps-de-travail-et-les-regles-relatives-aux-heures-supplementaires
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un cadre qui protege le salarie contre une charge de travail excessive.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit au conge paye et son fonctionnement
+slug: le-droit-au-conge-paye-et-son-fonctionnement
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un droit fondamental qui garantit au salarie une periode de repos remuneree chaque annee.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La procedure de licenciement et les protections accordees au salarie
+slug: la-procedure-de-licenciement-et-les-protections-accordees-au-salarie
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un encadrement legal qui vise a eviter les ruptures de contrat abusives ou injustifiees.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le salaire minimum et son role de protection sociale
+slug: le-salaire-minimum-et-son-role-de-protection-sociale
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un seuil legal qui garantit une remuneration minimale pour tout travail effectue.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation des salaries par les delegues du personnel et les syndicats
+slug: la-representation-des-salaries-par-les-delegues-du-personnel-et-les-syndicats
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un mecanisme qui permet aux travailleurs de faire entendre collectivement leurs interets.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de greve et son encadrement legal
+slug: le-droit-de-greve-et-son-encadrement-legal
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un droit fondamental des travailleurs, soumis toutefois a certaines conditions et limites.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection contre le harcelement moral et sexuel au travail
+slug: la-protection-contre-le-harcelement-moral-et-sexuel-au-travail
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un cadre legal qui sanctionne des comportements portant gravement atteinte a la dignite du salarie.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le contrat a duree determinee et ses conditions d'utilisation
+slug: le-contrat-a-duree-determinee-et-ses-conditions-d-utilisation
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un type de contrat encadre strictement pour eviter un usage abusif par l'employeur.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite et la sante au travail comme obligations de l'employeur
+slug: la-securite-et-la-sante-au-travail-comme-obligations-de-l-employeur
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un ensemble de regles qui protegent le salarie contre les risques lies a son activite professionnelle.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le teletravail et son encadrement juridique recent
+slug: le-teletravail-et-son-encadrement-juridique-recent
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Une organisation du travail qui a necessite l'adaptation progressive du droit existant.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La periode d'essai et ses regles specifiques
+slug: la-periode-d-essai-et-ses-regles-specifiques
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Une phase initiale du contrat qui permet a chaque partie de verifier que la collaboration convient.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit au repos et les limites legales imposees a l'amplitude horaire
+slug: le-droit-au-repos-et-les-limites-legales-imposees-a-l-amplitude-horaire
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Une protection essentielle qui garantit un temps de recuperation suffisant entre deux journees de travail.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La negociation collective et le role des conventions collectives
+slug: la-negociation-collective-et-le-role-des-conventions-collectives
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un mecanisme qui permet d'adapter les regles generales du travail a un secteur d'activite precis.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le conge parental et les droits associes a la naissance d'un enfant
+slug: le-conge-parental-et-les-droits-associes-a-la-naissance-d-un-enfant
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Une protection qui permet aux parents de s'absenter temporairement tout en preservant leur emploi.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La discrimination a l'embauche et les protections legales contre ces pratiques
+slug: la-discrimination-a-l-embauche-et-les-protections-legales-contre-ces-pratiques
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un cadre qui interdit d'ecarter un candidat pour des motifs illegitimes.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit du travail applique aux stagiaires et apprentis
+slug: le-droit-du-travail-applique-aux-stagiaires-et-apprentis
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Des regles specifiques adaptees a des situations d'emploi liees a une formation.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La rupture conventionnelle comme mode de fin de contrat amiable
+slug: la-rupture-conventionnelle-comme-mode-de-fin-de-contrat-amiable
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Une procedure qui permet a l'employeur et au salarie de se separer d'un commun accord.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit du travail et la protection des lanceurs d'alerte en entreprise
+slug: le-droit-du-travail-et-la-protection-des-lanceurs-d-alerte-en-entreprise
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Une garantie recente qui protege les salaries signalant des pratiques illegales.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le comite social et economique et son role dans l'entreprise
+slug: le-comite-social-et-economique-et-son-role-dans-l-entreprise
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Une instance de representation qui traite des questions economiques et sociales au sein de l'organisation.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation professionnelle continue comme droit du salarie
+slug: la-formation-professionnelle-continue-comme-droit-du-salarie
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Un droit qui permet de developper ses competences tout au long de sa vie professionnelle.
+tags: [droit-du-travail, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le travail de nuit et les protections specifiques accordees aux salaries concernes
+slug: le-travail-de-nuit-et-les-protections-specifiques-accordees-aux-salaries-concernes
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Des regles particulieres qui compensent les contraintes liees a ce type d'horaire.
+tags: [droit-du-travail]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

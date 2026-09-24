@@ -8581,3 +8581,3348 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La musique traditionnelle irlandaise et ses instruments
+slug: la-musique-traditionnelle-irlandaise-et-ses-instruments
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Un repertoire ancien transmis oralement, aujourd'hui joue partout dans le monde.
+tags: [musique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le repertoire des grands airs d'opera les plus celebres
+slug: le-repertoire-des-grands-airs-d-opera-les-plus-celebres
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Quelques morceaux devenus si populaires qu'ils depassent le cercle des amateurs d'opera.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La technique du chant lyrique sans microphone
+slug: la-technique-du-chant-lyrique-sans-microphone
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Comment un chanteur d'opera projette sa voix jusqu'au fond d'une grande salle.
+tags: [opera-et-arts-lyriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chef d'orchestre dans une production lyrique
+slug: le-role-du-chef-d-orchestre-dans-une-production-lyrique
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Une coordination delicate entre la fosse, la scene et les chanteurs.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera baroque italien et ses castrats celebres
+slug: l-opera-baroque-italien-et-ses-castrats-celebres
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Une periode ou certaines voix exceptionnelles dominaient les scenes europeennes.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La Traviata et son influence sur l'opera romantique
+slug: la-traviata-et-son-influence-sur-l-opera-romantique
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Une oeuvre de Verdi devenue l'un des piliers du repertoire lyrique mondial.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Ring de Wagner, une oeuvre demesuree
+slug: le-ring-de-wagner-une-oeuvre-demesuree
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Un cycle de quatre operas d'une ampleur rarement egalee dans l'histoire de la musique.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acoustique des salles d'opera historiques
+slug: l-acoustique-des-salles-d-opera-historiques
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Comment l'architecture influence directement la qualite sonore percue par le public.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le costume et le maquillage dans l'opera traditionnel
+slug: le-costume-et-le-maquillage-dans-l-opera-traditionnel
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Des elements visuels qui renforcent l'identification immediate des personnages.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera chinois et ses conventions gestuelles
+slug: l-opera-chinois-et-ses-conventions-gestuelles
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Un art tres codifie ou chaque mouvement porte une signification precise.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reception critique de l'opera au XIXe siecle
+slug: la-reception-critique-de-l-opera-au-xixe-siecle
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Comment le public et les critiques de l'epoque jugeaient les nouvelles creations.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera de Pekin et sa transmission traditionnelle
+slug: l-opera-de-pekin-et-sa-transmission-traditionnelle
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Un art exigeant qui demande des annees de formation specifique des le plus jeune age.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les divas de l'opera et leur statut culturel
+slug: les-divas-de-l-opera-et-leur-statut-culturel
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Comment certaines chanteuses sont devenues des figures publiques majeures.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera contemporain et ses experimentations scenographiques
+slug: l-opera-contemporain-et-ses-experimentations-scenographiques
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Comment les metteurs en scene actuels renouvellent la presentation d'oeuvres classiques.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La Callas et sa technique vocale singuliere
+slug: la-callas-et-sa-technique-vocale-singuliere
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Une chanteuse dont l'approche a marque durablement l'histoire de l'opera.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera et le cinema, adaptations et influences croisees
+slug: l-opera-et-le-cinema-adaptations-et-influences-croisees
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Comment ces deux arts se sont mutuellement inspires au fil du temps.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le financement des maisons d'opera a travers le monde
+slug: le-financement-des-maisons-d-opera-a-travers-le-monde
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Des modeles economiques tres varies selon les pays et les traditions culturelles.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera populaire et sa democratisation recente
+slug: l-opera-populaire-et-sa-democratisation-recente
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Des initiatives qui tentent de rendre cet art accessible a un public plus large.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation vocale classique et ses methodes
+slug: la-formation-vocale-classique-et-ses-methodes
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Un apprentissage long et exigeant qui precede toute carriere lyrique serieuse.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera et la censure politique a travers l'histoire
+slug: l-opera-et-la-censure-politique-a-travers-l-histoire
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Des oeuvres qui ont parfois derange le pouvoir en place de leur epoque.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du souffleur dans l'opera traditionnel
+slug: le-role-du-souffleur-dans-l-opera-traditionnel
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Un metier aujourd'hui disparu mais autrefois essentiel a la reussite d'une representation.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera minimaliste du XXe siecle
+slug: l-opera-minimaliste-du-xxe-siecle
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Un mouvement qui a introduit repetition et simplicite dans un genre traditionnellement grandiose.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands festivals d'opera dans le monde
+slug: les-grands-festivals-d-opera-dans-le-monde
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Des rendez-vous annuels qui rassemblent passionnes et nouvelles productions.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'opera et l'enregistrement, une revolution technique
+slug: l-opera-et-l-enregistrement-une-revolution-technique
+categoryPath: arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques
+summary: >
+  Comment la captation sonore a permis de diffuser cet art bien au-dela des salles.
+tags: [opera-et-arts-lyriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre elisabethain et son public populaire
+slug: le-theatre-elisabethain-et-son-public-populaire
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une epoque ou le theatre attirait toutes les classes sociales dans une meme salle.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tragedie classique francaise et ses regles strictes
+slug: la-tragedie-classique-francaise-et-ses-regles-strictes
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un genre codifie par des contraintes precises de temps, lieu et action.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Racine et l'art de la tragedie classique
+slug: racine-et-l-art-de-la-tragedie-classique
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un dramaturge dont les oeuvres illustrent parfaitement les regles du theatre classique.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vaudeville, un genre theatral populaire
+slug: le-vaudeville-un-genre-theatral-populaire
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une comedie legere fondee sur les quiproquos et les rebondissements rapides.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre de boulevard et son public fidele
+slug: le-theatre-de-boulevard-et-son-public-fidele
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un genre commercial qui a longtemps domine les scenes parisiennes.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La danse contemporaine et la liberte du mouvement
+slug: la-danse-contemporaine-et-la-liberte-du-mouvement
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un mouvement artistique qui a rompu avec les contraintes techniques du ballet classique.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Martha Graham et la fondation de la danse moderne americaine
+slug: martha-graham-et-la-fondation-de-la-danse-moderne-americaine
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une chorégraphe dont l'approche a durablement influence la danse du XXe siecle.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le ballet romantique et ses grandes oeuvres
+slug: le-ballet-romantique-et-ses-grandes-oeuvres
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une periode qui a introduit legerete et feerie dans la danse classique.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le flamenco et son evolution scenique moderne
+slug: le-flamenco-et-son-evolution-scenique-moderne
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Comment cet art traditionnel s'est adapte aux scenes theatrales contemporaines.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La danse orientale et ses traditions regionales
+slug: la-danse-orientale-et-ses-traditions-regionales
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un ensemble de pratiques tres variees selon les cultures et les pays.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre d'objets et de marionnettes contemporain
+slug: le-theatre-d-objets-et-de-marionnettes-contemporain
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une renaissance moderne d'un art tres ancien, adapte a de nouveaux publics.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La scenographie moderne et l'usage de la technologie
+slug: la-scenographie-moderne-et-l-usage-de-la-technologie
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Comment la video et les effets numeriques transforment la mise en scene actuelle.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre engage et son role social contemporain
+slug: le-theatre-engage-et-son-role-social-contemporain
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Comment la scene continue de porter des questions politiques et sociales actuelles.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La danse hip-hop, de la rue a la scene institutionnelle
+slug: la-danse-hip-hop-de-la-rue-a-la-scene-institutionnelle
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un parcours qui a fait entrer un art urbain dans les theatres les plus prestigieux.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre populaire et la decentralisation culturelle
+slug: le-theatre-populaire-et-la-decentralisation-culturelle
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Des politiques qui ont cherche a rapprocher le theatre des publics eloignes des grandes villes.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tragedie grecque et le choeur antique
+slug: la-tragedie-grecque-et-le-choeur-antique
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un element central du theatre grec, aujourd'hui largement disparu des mises en scene modernes.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre epique de Brecht et la distanciation
+slug: le-theatre-epique-de-brecht-et-la-distanciation
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une methode qui invite le spectateur a garder un regard critique sur l'action.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La danse butoh et l'exploration du corps
+slug: la-danse-butoh-et-l-exploration-du-corps
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une forme radicale nee au Japon apres la Seconde Guerre mondiale.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre forum et la participation du public
+slug: le-theatre-forum-et-la-participation-du-public
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Une methode qui transforme les spectateurs en acteurs de la resolution d'un conflit.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comedie musicale francaise contemporaine
+slug: la-comedie-musicale-francaise-contemporaine
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Comment ce genre importe s'est adapte au gout et aux themes locaux.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le costume de scene et son role narratif
+slug: le-costume-de-scene-et-son-role-narratif
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Un element visuel qui participe directement a la comprehension d'un personnage.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation de l'acteur, methodes et ecoles
+slug: la-formation-de-l-acteur-methodes-et-ecoles
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Des approches pedagogiques variees pour developper le jeu et la presence scenique.
+tags: [theatre-et-danse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design d'interface utilisateur, principes de base
+slug: le-design-d-interface-utilisateur-principes-de-base
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment on concoit des ecrans intuitifs et faciles a comprendre.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mouvement De Stijl et son influence sur le design
+slug: le-mouvement-de-stijl-et-son-influence-sur-le-design
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un courant artistique qui a privilegie les formes geometriques pures.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le constructivisme russe et l'affiche politique
+slug: le-constructivisme-russe-et-l-affiche-politique
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un mouvement artistique qui a fusionne art et propagande de maniere innovante.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design suisse et sa lisibilite systematique
+slug: le-design-suisse-et-sa-lisibilite-systematique
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Une ecole graphique reconnue pour sa clarte et son organisation rigoureuse.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La typographie sans-serif et son essor au XXe siecle
+slug: la-typographie-sans-serif-et-son-essor-au-xxe-siecle
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Une famille de caracteres devenue dominante dans la communication moderne.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pop art et son influence sur le graphisme publicitaire
+slug: le-pop-art-et-son-influence-sur-le-graphisme-publicitaire
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment ce mouvement artistique a transforme les codes visuels de la publicite.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des logos les plus celebres et leur evolution
+slug: l-histoire-des-logos-les-plus-celebres-et-leur-evolution
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment certaines marques ont fait evoluer leur identite visuelle sur des decennies.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design d'emballage et la psychologie des couleurs
+slug: le-design-d-emballage-et-la-psychologie-des-couleurs
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment le choix des teintes influence inconsciemment la perception d'un produit.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'illustration scientifique, un art de precision
+slug: l-illustration-scientifique-un-art-de-precision
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un genre graphique qui exige a la fois rigueur documentaire et sens esthetique.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bande dessinee japonaise et ses codes visuels distincts
+slug: la-bande-dessinee-japonaise-et-ses-codes-visuels-distincts
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un style graphique qui utilise des conventions differentes de la bande dessinee occidentale.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design d'affiche de cinema americain contre europeen
+slug: le-design-d-affiche-de-cinema-americain-contre-europeen
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Deux traditions graphiques aux approches esthetiques sensiblement differentes.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mouvement psychedelique et l'affiche musicale des annees 1960
+slug: le-mouvement-psychedelique-et-l-affiche-musicale-des-annees-1960
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un style visuel exuberant ne dans le contexte de la contre-culture americaine.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design responsable et l'ecoconception graphique
+slug: le-design-responsable-et-l-ecoconception-graphique
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment le graphisme integre desormais des considerations environnementales.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La calligraphie arabe et ses styles regionaux
+slug: la-calligraphie-arabe-et-ses-styles-regionaux
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un art de l'ecriture d'une grande richesse, developpe sur plus d'un millenaire.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La calligraphie chinoise et japonaise, principes esthetiques
+slug: la-calligraphie-chinoise-et-japonaise-principes-esthetiques
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un art qui allie maitrise technique et expression personnelle du geste.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design generique contre le design de marque
+slug: le-design-generique-contre-le-design-de-marque
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Deux approches distinctes selon que l'on cherche a universaliser ou a personnaliser.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'affiche de propagande de guerre
+slug: l-histoire-de-l-affiche-de-propagande-de-guerre
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment le graphisme a ete mobilise pour soutenir l'effort militaire national.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design d'icones et de pictogrammes numeriques
+slug: le-design-d-icones-et-de-pictogrammes-numeriques
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un exercice de simplification extreme au service de la comprehension immediate.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gravure sur bois et son heritage dans le design moderne
+slug: la-gravure-sur-bois-et-son-heritage-dans-le-design-moderne
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Une technique ancienne qui continue d'influencer l'esthetique graphique actuelle.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design d'affiche sportive et olympique
+slug: le-design-d-affiche-sportive-et-olympique
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Comment chaque edition des Jeux olympiques a developpe sa propre identite visuelle.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mouvement Memphis et le design postmoderne
+slug: le-mouvement-memphis-et-le-design-postmoderne
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un courant qui a bouscule les codes esthetiques etablis dans les annees 1980.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lettre dessinee a la main avant la typographie numerique
+slug: la-lettre-dessinee-a-la-main-avant-la-typographie-numerique
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un savoir-faire artisanal essentiel avant la generalisation des polices informatiques.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le design d'exposition et la mise en scene d'objets
+slug: le-design-d-exposition-et-la-mise-en-scene-d-objets
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Un metier discret qui structure profondement l'experience du visiteur.
+tags: [arts-graphiques-et-design]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le maniere baroque et le mouvement dramatique en peinture
+slug: le-maniere-baroque-et-le-mouvement-dramatique-en-peinture
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un style qui privilegie la tension, le contraste et l'emotion intense.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le romantisme en peinture et l'exaltation du sentiment
+slug: le-romantisme-en-peinture-et-l-exaltation-du-sentiment
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un mouvement qui a place l'emotion individuelle au coeur de la creation artistique.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Delacroix et la peinture romantique francaise
+slug: delacroix-et-la-peinture-romantique-francaise
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un artiste dont l'oeuvre incarne la puissance expressive de ce mouvement.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le realisme en peinture et le rejet de l'idealisation
+slug: le-realisme-en-peinture-et-le-rejet-de-l-idealisation
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un mouvement qui a choisi de representer le monde tel qu'il est vraiment.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Courbet et la peinture du quotidien ordinaire
+slug: courbet-et-la-peinture-du-quotidien-ordinaire
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un artiste qui a scandalise en peignant des scenes considerees comme trop banales.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fauvisme et l'usage libere de la couleur
+slug: le-fauvisme-et-l-usage-libere-de-la-couleur
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un mouvement bref mais influent qui a liberer la couleur de sa fonction descriptive.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Matisse et la simplification des formes
+slug: matisse-et-la-simplification-des-formes
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un artiste dont l'evolution vers l'epure a marque tout le XXe siecle artistique.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le surrealisme et l'exploration des reves en peinture
+slug: le-surrealisme-et-l-exploration-des-reves-en-peinture
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un mouvement qui a puise directement dans l'imaginaire de l'inconscient.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Magritte et le jeu avec la representation
+slug: magritte-et-le-jeu-avec-la-representation
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un peintre qui a questionne, avec humour, la relation entre l'image et la realite.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sculpture cinetique et le mouvement dans l'art
+slug: la-sculpture-cinetique-et-le-mouvement-dans-l-art
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Une approche qui integre le mouvement reel comme partie de l'oeuvre elle-meme.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Calder et l'invention du mobile
+slug: calder-et-l-invention-du-mobile
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un sculpteur dont l'innovation a introduit le mouvement dans la sculpture moderne.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'art minimaliste et la reduction des formes
+slug: l-art-minimaliste-et-la-reduction-des-formes
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un mouvement qui a cherche l'essentiel en depouillant l'oeuvre du superflu.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La technique de la fresque a la Renaissance italienne
+slug: la-technique-de-la-fresque-a-la-renaissance-italienne
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un savoir-faire exigeant qui a produit certaines des oeuvres les plus celebres au monde.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le clair-obscur chez les peintres flamands
+slug: le-clair-obscur-chez-les-peintres-flamands
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Une maitrise technique de la lumiere qui a marque tout un courant pictural.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sculpture antique grecque et ses proportions ideales
+slug: la-sculpture-antique-grecque-et-ses-proportions-ideales
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un ideal esthetique qui a influence l'art occidental pendant des millenaires.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le maniera nisme et la distorsion elegante des corps
+slug: le-maniera-nisme-et-la-distorsion-elegante-des-corps
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Une periode de transition entre Renaissance et baroque, marquee par la sophistication.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La peinture de paysage et son evolution historique
+slug: la-peinture-de-paysage-et-son-evolution-historique
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un genre longtemps considere mineur, devenu central dans l'art moderne.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La nature morte, un genre pictural sous-estime
+slug: la-nature-morte-un-genre-pictural-sous-estime
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un exercice technique exigeant, souvent devalue face aux grands sujets historiques.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le portrait royal et son role politique dans l'histoire
+slug: le-portrait-royal-et-son-role-politique-dans-l-histoire
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Comment la peinture a longtemps servi a construire et diffuser une image du pouvoir.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sculpture funeraire a travers les civilisations
+slug: la-sculpture-funeraire-a-travers-les-civilisations
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un art qui accompagne la mort dans presque toutes les cultures humaines.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'art brut et la creation en marge des institutions
+slug: l-art-brut-et-la-creation-en-marge-des-institutions
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Des oeuvres produites hors du systeme artistique traditionnel, reconnues plus tard.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pointillisme et la theorie scientifique de la couleur
+slug: le-pointillisme-et-la-theorie-scientifique-de-la-couleur
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Une technique nee de recherches sur la perception visuelle des couleurs.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Seurat et l'application rigoureuse du pointillisme
+slug: seurat-et-l-application-rigoureuse-du-pointillisme
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Un artiste dont la methode systematique a defini tout un courant pictural.
+tags: [peinture-et-sculpture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema d'auteur europeen et son influence mondiale
+slug: le-cinema-d-auteur-europeen-et-son-influence-mondiale
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un courant qui a valorise la vision personnelle du realisateur avant tout.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le neorealisme italien et le tournage en decors reels
+slug: le-neorealisme-italien-et-le-tournage-en-decors-reels
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un mouvement qui a choisi la rue plutot que le studio pour plus de verite.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La Nouvelle Vague francaise et la rupture avec le cinema classique
+slug: la-nouvelle-vague-francaise-et-la-rupture-avec-le-cinema-classique
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un mouvement qui a libere le langage cinematographique de conventions rigides.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema de genre americain et ses codes narratifs
+slug: le-cinema-de-genre-americain-et-ses-codes-narratifs
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Comment western, film noir et comedie musicale ont chacun leurs propres regles.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le film noir americain et son esthetique caracteristique
+slug: le-film-noir-americain-et-son-esthetique-caracteristique
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un genre marque par des jeux d'ombre et une ambiance moralement ambigue.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La photographie documentaire et l'engagement social
+slug: la-photographie-documentaire-et-l-engagement-social
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Comment certains photographes ont utilise leur art pour temoigner d'injustices.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le photojournalisme et l'ethique de l'image de guerre
+slug: le-photojournalisme-et-l-ethique-de-l-image-de-guerre
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Des questions morales complexes sur la representation de la souffrance humaine.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La photographie en noir et blanc contre en couleur
+slug: la-photographie-en-noir-et-blanc-contre-en-couleur
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Deux choix esthetiques qui produisent des effets emotionnels tres differents.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema experimental et l'exploration formelle
+slug: le-cinema-experimental-et-l-exploration-formelle
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Des oeuvres qui remettent en question les conventions narratives classiques.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le montage sonore au cinema, un art discret
+slug: le-montage-sonore-au-cinema-un-art-discret
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un travail souvent invisible mais essentiel a l'immersion du spectateur.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La photographie de rue et l'instant capture
+slug: la-photographie-de-rue-et-l-instant-capture
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un genre qui exige reactivite et sens de l'observation du quotidien.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema muet japonais et le role du benshi
+slug: le-cinema-muet-japonais-et-le-role-du-benshi
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Une tradition unique ou un narrateur commentait en direct les films projetes.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le technicolor et la revolution de la couleur au cinema
+slug: le-technicolor-et-la-revolution-de-la-couleur-au-cinema
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Une technologie qui a transforme durablement l'esthetique du cinema hollywoodien.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema d'animation stop-motion et ses studios celebres
+slug: le-cinema-d-animation-stop-motion-et-ses-studios-celebres
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Une technique artisanale qui perdure malgre l'essor de l'animation numerique.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La photographie aerienne et son role dans l'art contemporain
+slug: la-photographie-aerienne-et-son-role-dans-l-art-contemporain
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un point de vue inhabituel qui revele des motifs invisibles depuis le sol.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema de science-fiction et ses effets speciaux pionniers
+slug: le-cinema-de-science-fiction-et-ses-effets-speciaux-pionniers
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Comment ce genre a souvent repousse les limites techniques de son epoque.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le photoreportage et la naissance des grands magazines illustres
+slug: le-photoreportage-et-la-naissance-des-grands-magazines-illustres
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Comment certaines publications ont fait de l'image le coeur de leur identite.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema muet comique et l'universalite du langage physique
+slug: le-cinema-muet-comique-et-l-universalite-du-langage-physique
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un genre qui a traverse les frontieres sans jamais avoir besoin de traduction.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration numerique des films anciens
+slug: la-restauration-numerique-des-films-anciens
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Des techniques modernes qui redonnent vie a des oeuvres degradees par le temps.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema independant americain et son financement alternatif
+slug: le-cinema-independant-americain-et-son-financement-alternatif
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Comment certains realisateurs contournent les grands studios pour creer librement.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La photographie de mode et son evolution stylistique
+slug: la-photographie-de-mode-et-son-evolution-stylistique
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Un genre qui a considerablement influence l'esthetique visuelle contemporaine.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cinema d'horreur et ses codes visuels recurrents
+slug: le-cinema-d-horreur-et-ses-codes-visuels-recurrents
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Comment ce genre exploite des techniques precises pour susciter la peur.
+tags: [photographie-et-cinema]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman epistolaire et son renouveau contemporain
+slug: le-roman-epistolaire-et-son-renouveau-contemporain
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un format ancien qui trouve de nouvelles formes a l'ere du numerique.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tragedie moderne et sa reinterpretation du genre antique
+slug: la-tragedie-moderne-et-sa-reinterpretation-du-genre-antique
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Comment des auteurs contemporains revisitent des structures narratives millenaires.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman picaresque et l'aventure du heros marginal
+slug: le-roman-picaresque-et-l-aventure-du-heros-marginal
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un genre ancien centre sur les peripeties d'un personnage souvent hors norme.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La litterature fantastique et l'irruption de l'etrange
+slug: la-litterature-fantastique-et-l-irruption-de-l-etrange
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un genre qui joue sur l'hesitation entre explication rationnelle et surnaturelle.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman naturaliste et l'observation scientifique de la societe
+slug: le-roman-naturaliste-et-l-observation-scientifique-de-la-societe
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un mouvement qui a applique une methode presque documentaire a la fiction.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Emile Zola et le cycle naturaliste des Rougon-Macquart
+slug: emile-zola-et-le-cycle-naturaliste-des-rougon-macquart
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Une oeuvre monumentale qui a documente une epoque a travers la fiction.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theatre de l'absurde et la remise en question du langage
+slug: le-theatre-de-l-absurde-et-la-remise-en-question-du-langage
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un mouvement qui a questionne la capacite meme des mots a communiquer un sens.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La litterature engagee et le role social de l'ecrivain
+slug: la-litterature-engagee-et-le-role-social-de-l-ecrivain
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Comment certains auteurs ont assume une responsabilite politique explicite.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman d'apprentissage et la construction du personnage
+slug: le-roman-d-apprentissage-et-la-construction-du-personnage
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un genre centre sur l'evolution personnelle d'un heros au fil du recit.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La poesie engagee et son role dans les mouvements sociaux
+slug: la-poesie-engagee-et-son-role-dans-les-mouvements-sociaux
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Comment des vers ont parfois porte des messages politiques puissants.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman feuilleton du XIXe siecle et son succes populaire
+slug: le-roman-feuilleton-du-xixe-siecle-et-son-succes-populaire
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un format de publication qui a construit une relation etroite avec les lecteurs.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Alexandre Dumas et la maitrise du roman feuilleton
+slug: alexandre-dumas-et-la-maitrise-du-roman-feuilleton
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un auteur dont la production abondante illustre parfaitement ce format litteraire.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La litterature de l'exil et le sentiment de deracinement
+slug: la-litterature-de-l-exil-et-le-sentiment-de-deracinement
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Comment des ecrivains ont transforme une experience douloureuse en matiere litteraire.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman experimental et la deconstruction narrative
+slug: le-roman-experimental-et-la-deconstruction-narrative
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Des oeuvres qui remettent en cause la structure traditionnelle du recit.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La science-fiction dystopique et ses avertissements sociaux
+slug: la-science-fiction-dystopique-et-ses-avertissements-sociaux
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Comment ce genre imagine des futurs sombres pour alerter sur le present.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman regionaliste et l'attachement a un territoire
+slug: le-roman-regionaliste-et-l-attachement-a-un-territoire
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un genre qui ancre profondement ses recits dans une geographie precise.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La litterature de voyage et la decouverte de l'autre
+slug: la-litterature-de-voyage-et-la-decouverte-de-l-autre
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un genre ancien qui a nourri l'imaginaire collectif sur des terres lointaines.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman graphique contemporain et sa reconnaissance litteraire
+slug: le-roman-graphique-contemporain-et-sa-reconnaissance-litteraire
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Comment ce format hybride a progressivement gagne en legitimite culturelle.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La litterature jeunesse et ses enjeux pedagogiques
+slug: la-litterature-jeunesse-et-ses-enjeux-pedagogiques
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un genre qui combine divertissement et transmission de valeurs pour les plus jeunes.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman choral et la multiplicite des points de vue
+slug: le-roman-choral-et-la-multiplicite-des-points-de-vue
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Une technique narrative qui enrichit un recit par des perspectives complementaires.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La poesie en prose, une forme hybride
+slug: la-poesie-en-prose-une-forme-hybride
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un genre qui melange la liberte du recit et l'intensite de l'expression poetique.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roman policier scandinave et son style caracteristique
+slug: le-roman-policier-scandinave-et-son-style-caracteristique
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un courant recent qui a renouvele les codes du genre par une ambiance particuliere.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La litterature de l'absurde chez Kafka
+slug: la-litterature-de-l-absurde-chez-kafka
+categoryPath: arts-et-culture/litterature-et-ecriture/genres-litteraires
+summary: >
+  Un univers litteraire ou l'irrationnel devient la norme d'un monde bureaucratique.
+tags: [genres-litteraires]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premieres bibliotheques publiques de l'Antiquite
+slug: les-premieres-bibliotheques-publiques-de-l-antiquite
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Des lieux de savoir qui ont precede de plusieurs millenaires les institutions modernes.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le manuscrit sur peau de vean, une matiere premiere couteuse
+slug: le-manuscrit-sur-peau-de-vean-une-matiere-premiere-couteuse
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Un support ancien dont le cout explique en partie la rarete des livres medievaux.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'atelier de copiste medieval, organisation du travail
+slug: l-atelier-de-copiste-medieval-organisation-du-travail
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment plusieurs personnes collaboraient pour produire un seul manuscrit complet.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reliure medievale et ses techniques de protection
+slug: la-reliure-medievale-et-ses-techniques-de-protection
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Des methodes artisanales concues pour proteger un objet precieux et fragile.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'invention du papier en Chine et sa diffusion vers l'Occident
+slug: l-invention-du-papier-en-chine-et-sa-diffusion-vers-l-occident
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Un long voyage technologique qui a mis des siecles a traverser le monde.
+tags: [histoire-du-livre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le commerce du livre a la Renaissance
+slug: le-commerce-du-livre-a-la-renaissance
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment l'imprimerie a rapidement transforme le livre en une marchandise commerciale.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premieres maisons d'edition europeennes
+slug: les-premieres-maisons-d-edition-europeennes
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment le metier d'editeur s'est progressivement distingue de celui d'imprimeur.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La censure des livres sous l'Ancien Regime
+slug: la-censure-des-livres-sous-l-ancien-regime
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment le pouvoir controlait etroitement ce qui pouvait etre imprime et diffuse.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le colportage et la diffusion populaire du livre
+slug: le-colportage-et-la-diffusion-populaire-du-livre
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment des vendeurs ambulants ont rendu la lecture accessible aux campagnes.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'Encyclopedie et la diffusion clandestine du savoir
+slug: l-encyclopedie-et-la-diffusion-clandestine-du-savoir
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Une entreprise editoriale majeure qui a du affronter la censure de son epoque.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le livre de poche et la democratisation de la lecture au XXe siecle
+slug: le-livre-de-poche-et-la-democratisation-de-la-lecture-au-xxe-siecle
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment un format economique a considerablement elargi le lectorat.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bibliotheques nationales et leur mission de conservation
+slug: les-bibliotheques-nationales-et-leur-mission-de-conservation
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Des institutions charges de preserver le patrimoine ecrit d'un pays entier.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le livre audio et sa place dans l'histoire de la transmission orale
+slug: le-livre-audio-et-sa-place-dans-l-histoire-de-la-transmission-orale
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Un format moderne qui renoue, sous une forme technologique, avec une tradition ancienne.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reliure d'art et son statut de patrimoine culturel
+slug: la-reliure-d-art-et-son-statut-de-patrimoine-culturel
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment certains livres deviennent eux-memes des objets artistiques precieux.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la bibliotheque du Vatican
+slug: l-histoire-de-la-bibliotheque-du-vatican
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Une collection exceptionnelle qui rassemble des siecles de manuscrits precieux.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le livre interdit et son role dans l'histoire des idees
+slug: le-livre-interdit-et-son-role-dans-l-histoire-des-idees
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment certains ouvrages censures ont malgre tout profondement marque leur epoque.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les incunables, les premiers livres imprimes
+slug: les-incunables-les-premiers-livres-imprimes
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Des ouvrages rares produits dans les toutes premieres decennies de l'imprimerie.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le papier chiffon et sa qualite de conservation
+slug: le-papier-chiffon-et-sa-qualite-de-conservation
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Un materiau ancien dont la durabilite explique la survie de nombreux documents.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reliure japonaise traditionnelle
+slug: la-reliure-japonaise-traditionnelle
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Une technique distincte de la tradition occidentale, adaptee au papier local.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des grandes destructions de bibliotheques
+slug: l-histoire-des-grandes-destructions-de-bibliotheques
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Des pertes irreparables qui ont marque durablement l'histoire du savoir humain.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le livre electronique et son adoption progressive
+slug: le-livre-electronique-et-son-adoption-progressive
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Comment ce format numerique a trouve sa place aux cotes du livre papier.
+tags: [histoire-du-livre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation preventive des livres anciens en bibliotheque
+slug: la-conservation-preventive-des-livres-anciens-en-bibliotheque
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Des conditions precises de temperature et d'humidite pour eviter toute degradation.
+tags: [histoire-du-livre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture byzantine et ses coupoles caracteristiques
+slug: l-architecture-byzantine-et-ses-coupoles-caracteristiques
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un style qui a marque durablement l'architecture religieuse de tout un empire.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Sainte-Sophie, un chef-d'oeuvre architectural byzantin
+slug: sainte-sophie-un-chef-d-oeuvre-architectural-byzantin
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un monument dont la coupole a defie les techniques de construction de son epoque.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture romane et ses formes massives
+slug: l-architecture-romane-et-ses-formes-massives
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un style qui privilegie l'epaisseur des murs et la simplicite des volumes.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture Art nouveau et ses formes organiques
+slug: l-architecture-art-nouveau-et-ses-formes-organiques
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un mouvement qui a integre des courbes inspirees de la nature dans le batiment.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Antoni Gaudi et l'architecture organique catalane
+slug: antoni-gaudi-et-l-architecture-organique-catalane
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un architecte dont l'oeuvre unique defie les categories architecturales classiques.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture bauhaus et la fonction avant la forme
+slug: l-architecture-bauhaus-et-la-fonction-avant-la-forme
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Une ecole qui a impose l'idee que l'utilite doit guider l'esthetique du batiment.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le brutalisme architectural et son usage du beton brut
+slug: le-brutalisme-architectural-et-son-usage-du-beton-brut
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un style controverse qui assume pleinement la matiere premiere de la construction.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture coloniale et ses influences croisees
+slug: l-architecture-coloniale-et-ses-influences-croisees
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Comment des styles europeens se sont adaptes a des climats et cultures locales.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les palais de la Renaissance italienne
+slug: les-palais-de-la-renaissance-italienne
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Des residences qui affichaient a la fois puissance politique et raffinement esthetique.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture des chateaux forts medievaux
+slug: l-architecture-des-chateaux-forts-medievaux
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Une construction pensee avant tout pour la defense militaire du territoire.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture indienne et ses temples sculptes
+slug: l-architecture-indienne-et-ses-temples-sculptes
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un patrimoine architectural d'une richesse decorative exceptionnelle.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'Alhambra de Grenade et l'architecture islamique andalouse
+slug: l-alhambra-de-grenade-et-l-architecture-islamique-andalouse
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un ensemble palatial qui illustre le raffinement de l'art architectural de son epoque.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture des gratte-ciel de Chicago, une pionniere
+slug: l-architecture-des-gratte-ciel-de-chicago-une-pionniere
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Une ville qui a invente les techniques permettant de construire toujours plus haut.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture des maisons traditionnelles japonaises
+slug: l-architecture-des-maisons-traditionnelles-japonaises
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Des principes qui privilegient la flexibilite de l'espace et le lien avec la nature.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture des cathedrales gothiques francaises
+slug: l-architecture-des-cathedrales-gothiques-francaises
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Des monuments qui ont repousse les limites techniques de la construction medievale.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Notre-Dame de Paris et son histoire architecturale
+slug: notre-dame-de-paris-et-son-histoire-architecturale
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un edifice dont la construction s'est etalee sur pres de deux siecles.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture des maisons a colombages medievales
+slug: l-architecture-des-maisons-a-colombages-medievales
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Une technique de construction qui a marque durablement les villes europeennes.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture soviet ique et son esthetique monumentale
+slug: l-architecture-soviet-ique-et-son-esthetique-monumentale
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Un style qui reflete directement les ambitions politiques du regime qui l'a produit.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mouvement moderniste et le rejet de l'ornementation
+slug: le-mouvement-moderniste-et-le-rejet-de-l-ornementation
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Une philosophie architecturale qui a privilegie la simplicite et la fonction.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture des ponts historiques remarquables
+slug: l-architecture-des-ponts-historiques-remarquables
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Des ouvrages qui combinent prouesse technique et qualite esthetique.
+tags: [architecture]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture verte contemporaine et l'integration ecologique
+slug: l-architecture-verte-contemporaine-et-l-integration-ecologique
+categoryPath: arts-et-culture/patrimoine/architecture
+summary: >
+  Une approche recente qui cherche a reduire l'empreinte environnementale des batiments.
+tags: [architecture, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Louvre, de palais royal a musee universel
+slug: le-louvre-de-palais-royal-a-musee-universel
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Une transformation historique qui a fait de ce lieu un symbole culturel mondial.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le British Museum et ses collections d'antiquites
+slug: le-british-museum-et-ses-collections-d-antiquites
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Un des musees les plus visites au monde, temoin de l'histoire de plusieurs civilisations.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le musee d'Orsay et la valorisation de l'art du XIXe siecle
+slug: le-musee-d-orsay-et-la-valorisation-de-l-art-du-xixe-siecle
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Comment une ancienne gare a ete transformee en un espace museal majeur.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation des textiles anciens et fragiles
+slug: la-conservation-des-textiles-anciens-et-fragiles
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des techniques delicates pour preserver des matieres particulierement sensibles au temps.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration des tableaux endommages
+slug: la-restauration-des-tableaux-endommages
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Un travail minutieux qui doit rester reversible et parfaitement documente.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le musee d'art contemporain et ses defis de conservation specifiques
+slug: le-musee-d-art-contemporain-et-ses-defis-de-conservation-specifiques
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des oeuvres parfois ephemeres ou fragiles qui posent des questions inedites.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pillage colonial et le debat sur la restitution des oeuvres
+slug: le-pillage-colonial-et-le-debat-sur-la-restitution-des-oeuvres
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Une question historique et ethique qui anime de nombreux musees aujourd'hui.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le musee virtuel et l'acces numerique aux collections mondiales
+slug: le-musee-virtuel-et-l-acces-numerique-aux-collections-mondiales
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Comment internet permet de decouvrir des oeuvres sans se deplacer physiquement.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation des photographies anciennes
+slug: la-conservation-des-photographies-anciennes
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des techniques specifiques pour preserver un support chimique fragile et sensible.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le musee ethnographique et ses questions ethiques contemporaines
+slug: le-musee-ethnographique-et-ses-questions-ethiques-contemporaines
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Comment ces institutions revisitent aujourd'hui la maniere de presenter d'autres cultures.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration des sculptures en pierre exterieures
+slug: la-restauration-des-sculptures-en-pierre-exterieures
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des defis specifiques lies a une exposition permanente aux intemperies.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le musee des sciences naturelles et la conservation des specimens
+slug: le-musee-des-sciences-naturelles-et-la-conservation-des-specimens
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des methodes particulieres pour preserver durablement des collections biologiques.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des oeuvres d'art dans les musees
+slug: la-securite-des-oeuvres-d-art-dans-les-musees
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Un ensemble de mesures discretes mais essentielles pour proteger un patrimoine precieux.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol d'oeuvres d'art le plus celebre de l'histoire
+slug: le-vol-d-oeuvres-d-art-le-plus-celebre-de-l-histoire
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des episodes qui ont marque durablement l'histoire de certains musees majeurs.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation-restauration des ceramiques anciennes
+slug: la-conservation-restauration-des-ceramiques-anciennes
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des techniques specifiques adaptees a la fragilite de ce materiau.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le musee en plein air et la conservation du patrimoine industriel
+slug: le-musee-en-plein-air-et-la-conservation-du-patrimoine-industriel
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Comment d'anciens sites de production deviennent des lieux de memoire visitables.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'assurance des oeuvres d'art lors des expositions temporaires
+slug: l-assurance-des-oeuvres-d-art-lors-des-expositions-temporaires
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Un enjeu financier et logistique majeur pour tout pret entre institutions.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation des instruments de musique historiques
+slug: la-conservation-des-instruments-de-musique-historiques
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Des defis specifiques qui doivent concilier preservation et jouabilite eventuelle.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le catalogage numerique des collections museales
+slug: le-catalogage-numerique-des-collections-museales
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Comment la technologie facilite desormais la gestion de vastes ensembles d'objets.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restitution du patrimoine culturel africain
+slug: la-restitution-du-patrimoine-culturel-africain
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Un mouvement recent qui interroge la legitimite de certaines collections coloniales.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le musee d'histoire naturelle et la taxidermie de conservation
+slug: le-musee-d-histoire-naturelle-et-la-taxidermie-de-conservation
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Une technique ancienne toujours utilisee pour preserver l'apparence d'especes animales.
+tags: [musees-et-conservation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission orale des mythes fondateurs
+slug: la-transmission-orale-des-mythes-fondateurs
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Comment des recits essentiels ont traverse les generations sans jamais etre ecrits.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques traditionnelles de teinture des tissus
+slug: les-techniques-traditionnelles-de-teinture-des-tissus
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un savoir-faire ancien qui utilise des ressources naturelles locales specifiques.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les savoir-faire traditionnels de la poterie regionale
+slug: les-savoir-faire-traditionnels-de-la-poterie-regionale
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des techniques transmises de generation en generation, propres a chaque territoire.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des chants traditionnels de travail collectif
+slug: la-transmission-des-chants-traditionnels-de-travail-collectif
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Comment le rythme du chant accompagnait et facilitait un effort physique partage.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fetes traditionnelles liees aux cycles agricoles
+slug: les-fetes-traditionnelles-liees-aux-cycles-agricoles
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des celebrations anciennes qui marquent les etapes cles de l'annee cultivee.
+tags: [patrimoine-immateriel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des savoirs de la peche traditionnelle cotiere
+slug: la-transmission-des-savoirs-de-la-peche-traditionnelle-cotiere
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un savoir pratique developpe sur des generations, adapte a un environnement precis.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les danses rituelles et leur role dans la cohesion sociale
+slug: les-danses-rituelles-et-leur-role-dans-la-cohesion-sociale
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Comment le mouvement collectif renforce le sentiment d'appartenance d'un groupe.
+tags: [patrimoine-immateriel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des recettes de medecine populaire traditionnelle
+slug: la-transmission-des-recettes-de-medecine-populaire-traditionnelle
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des connaissances empiriques accumulees bien avant la medecine scientifique moderne.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques traditionnelles de tissage regional
+slug: les-techniques-traditionnelles-de-tissage-regional
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des savoir-faire specifiques qui distinguent chaque region par ses motifs propres.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission orale de l'histoire familiale et genealogique
+slug: la-transmission-orale-de-l-histoire-familiale-et-genealogique
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Comment certaines cultures conservent une memoire precise sur plusieurs generations.
+tags: [patrimoine-immateriel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les jeux traditionnels et leur transmission intergenerationnelle
+slug: les-jeux-traditionnels-et-leur-transmission-intergenerationnelle
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des pratiques ludiques qui transmettent aussi des valeurs et des competences sociales.
+tags: [patrimoine-immateriel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sauvegarde des langues minoritaires en danger
+slug: la-sauvegarde-des-langues-minoritaires-en-danger
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un enjeu culturel majeur face a la disparition rapide de nombreuses langues locales.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques traditionnelles de vannerie regionale
+slug: les-techniques-traditionnelles-de-vannerie-regionale
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un artisanat ancien adapte aux ressources vegetales disponibles localement.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des savoirs meteorologiques par l'observation naturelle
+slug: la-transmission-des-savoirs-meteorologiques-par-l-observation-naturelle
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Comment certaines communautes predisent le temps sans instrument scientifique.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les contes et legendes locales, une memoire collective
+slug: les-contes-et-legendes-locales-une-memoire-collective
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des recits qui transmettent, sous forme d'histoires, les valeurs d'une communaute.
+tags: [patrimoine-immateriel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des techniques de construction en pierre seche
+slug: la-transmission-des-techniques-de-construction-en-pierre-seche
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un savoir-faire ancien encore pratique dans certaines regions rurales.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rites de mariage traditionnels a travers le monde
+slug: les-rites-de-mariage-traditionnels-a-travers-le-monde
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des ceremonies tres variees qui refletent les valeurs propres a chaque culture.
+tags: [patrimoine-immateriel]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission du savoir-faire des tanneurs traditionnels
+slug: la-transmission-du-savoir-faire-des-tanneurs-traditionnels
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un artisanat ancien essentiel avant l'industrialisation du traitement du cuir.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques traditionnelles de fabrication de fromages regionaux
+slug: les-techniques-traditionnelles-de-fabrication-de-fromages-regionaux
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des savoir-faire specifiques qui expliquent la diversite des fromages locaux.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des competences de navigation traditionnelle en Oceanie
+slug: la-transmission-des-competences-de-navigation-traditionnelle-en-oceanie
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un savoir remarquable qui a permis de parcourir le Pacifique sans instrument moderne.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques traditionnelles d'apiculture
+slug: les-techniques-traditionnelles-d-apiculture
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Un savoir ancien essentiel a la production de miel et a la pollinisation.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sauvegarde des savoir-faire artisanaux menaces de disparition
+slug: la-sauvegarde-des-savoir-faire-artisanaux-menaces-de-disparition
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Des metiers rares dont la transmission repose sur un tres petit nombre de praticiens.
+tags: [patrimoine-immateriel, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.

@@ -5838,3 +5838,2598 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La rotation des cultures et son role dans la preservation de la fertilite des sols
+slug: la-rotation-des-cultures-et-son-role-dans-la-preservation-de-la-fertilite-des-sols
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une pratique ancienne qui evite l'epuisement des sols en alternant differentes especes cultivees.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture de conservation et la reduction du travail du sol
+slug: l-agriculture-de-conservation-et-la-reduction-du-travail-du-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une approche qui limite le labour pour preserver la structure et la vie du sol.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cultures intermediaires dans la protection des sols entre deux recoltes
+slug: le-role-des-cultures-intermediaires-dans-la-protection-des-sols-entre-deux-recoltes
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une couverture vegetale temporaire qui limite l'erosion et enrichit naturellement le sol.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agroforesterie et l'association d'arbres avec des cultures agricoles
+slug: l-agroforesterie-et-l-association-d-arbres-avec-des-cultures-agricoles
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une pratique qui combine les benefices des arbres et des cultures sur une meme parcelle.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la lutte biologique dans la reduction de l'usage des pesticides
+slug: le-role-de-la-lutte-biologique-dans-la-reduction-de-l-usage-des-pesticides
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une methode qui utilise des organismes naturels pour controler les nuisibles des cultures.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture de precision et l'usage des technologies pour optimiser les ressources
+slug: l-agriculture-de-precision-et-l-usage-des-technologies-pour-optimiser-les-ressources
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une approche moderne qui ajuste finement les apports selon les besoins reels de chaque parcelle.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des haies et des bandes enherbees dans la preservation de la biodiversite agricole
+slug: le-role-des-haies-et-des-bandes-enherbees-dans-la-preservation-de-la-biodiversite-agricole
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des amenagements simples qui abritent une faune utile et limitent l'erosion des sols.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture biologique et ses principes fondamentaux de production
+slug: l-agriculture-biologique-et-ses-principes-fondamentaux-de-production
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une approche qui exclut les produits chimiques de synthese au profit de methodes naturelles.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la reduction des intrants chimiques dans une agriculture plus durable
+slug: le-role-de-la-reduction-des-intrants-chimiques-dans-une-agriculture-plus-durable
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une demarche qui vise a limiter l'usage d'engrais et de pesticides de synthese.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'irrigation raisonnee et l'optimisation de l'usage de l'eau en agriculture
+slug: l-irrigation-raisonnee-et-l-optimisation-de-l-usage-de-l-eau-en-agriculture
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une gestion plus precise qui limite le gaspillage d'une ressource de plus en plus precieuse.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des associations de cultures dans une parcelle agricole durable
+slug: le-role-des-associations-de-cultures-dans-une-parcelle-agricole-durable
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une pratique qui fait pousser ensemble differentes plantes se beneficiant mutuellement.
+tags: [agriculture-durable]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture durable et la reduction de l'empreinte carbone des exploitations
+slug: l-agriculture-durable-et-la-reduction-de-l-empreinte-carbone-des-exploitations
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Un objectif qui combine pratiques agricoles et enjeux climatiques globaux.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du compostage dans la fertilisation naturelle des sols agricoles
+slug: le-role-du-compostage-dans-la-fertilisation-naturelle-des-sols-agricoles
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une valorisation des dechets organiques qui enrichit durablement la terre cultivee.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture durable et la preservation des pollinisateurs sauvages
+slug: l-agriculture-durable-et-la-preservation-des-pollinisateurs-sauvages
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une attention particuliere portee aux insectes essentiels a la reproduction de nombreuses cultures.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des semences paysannes dans la diversite genetique agricole durable
+slug: le-role-des-semences-paysannes-dans-la-diversite-genetique-agricole-durable
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des varietes locales conservees qui maintiennent une richesse genetique face a l'uniformisation.
+tags: [agriculture-durable]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture durable et la reduction du gaspillage alimentaire a la ferme
+slug: l-agriculture-durable-et-la-reduction-du-gaspillage-alimentaire-a-la-ferme
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une attention portee des le champ pour limiter les pertes avant meme la commercialisation.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des circuits courts dans le soutien a une agriculture plus durable
+slug: le-role-des-circuits-courts-dans-le-soutien-a-une-agriculture-plus-durable
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une distribution qui rapproche producteurs et consommateurs, reduisant les distances de transport.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture durable et l'adaptation des pratiques face au changement climatique
+slug: l-agriculture-durable-et-l-adaptation-des-pratiques-face-au-changement-climatique
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des ajustements necessaires pour continuer a produire dans des conditions climatiques changeantes.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la certification environnementale dans la valorisation des pratiques agricoles durables
+slug: le-role-de-la-certification-environnementale-dans-la-valorisation-des-pratiques-agricoles-durables
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Un label qui reconnait et encourage les efforts des producteurs engages dans cette demarche.
+tags: [agriculture-durable]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture durable et la gestion raisonnee des dechets agricoles
+slug: l-agriculture-durable-et-la-gestion-raisonnee-des-dechets-agricoles
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une valorisation intelligente des residus qui limite les impacts environnementaux de la production.
+tags: [agriculture-durable]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la formation des agriculteurs dans la transition vers des pratiques plus durables
+slug: le-role-de-la-formation-des-agriculteurs-dans-la-transition-vers-des-pratiques-plus-durables
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Un accompagnement necessaire pour faciliter l'adoption de nouvelles methodes de production.
+tags: [agriculture-durable]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la selection vegetale pour ameliorer les cultures
+slug: le-principe-general-de-la-selection-vegetale-pour-ameliorer-les-cultures
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un processus qui choisit et croise des plantes selon des caracteristiques desirees.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la domestication des plantes cultivees depuis les debuts de l'agriculture
+slug: l-histoire-de-la-domestication-des-plantes-cultivees-depuis-les-debuts-de-l-agriculture
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un long processus qui a transforme des plantes sauvages en varietes adaptees a la culture humaine.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des croisements dans l'obtention de nouvelles varietes vegetales
+slug: le-role-des-croisements-dans-l-obtention-de-nouvelles-varietes-vegetales
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une methode traditionnelle qui combine les caracteristiques de deux plantes parentes distinctes.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale pour la resistance aux maladies des cultures
+slug: la-selection-vegetale-pour-la-resistance-aux-maladies-des-cultures
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un objectif majeur qui vise a reduire la vulnerabilite des plantes face aux agents pathogenes.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des banques de semences dans la conservation de la diversite genetique vegetale
+slug: le-role-des-banques-de-semences-dans-la-conservation-de-la-diversite-genetique-vegetale
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Des installations qui preservent durablement des varietes anciennes ou rares pour l'avenir.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale pour l'adaptation aux conditions climatiques extremes
+slug: la-selection-vegetale-pour-l-adaptation-aux-conditions-climatiques-extremes
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un enjeu croissant face aux secheresses et aux temperatures plus variables affectant les cultures.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des marqueurs genetiques dans l'acceleration moderne de la selection vegetale
+slug: le-role-des-marqueurs-genetiques-dans-l-acceleration-moderne-de-la-selection-vegetale
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une technique qui identifie rapidement les plantes porteuses de caracteristiques recherchees.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale et l'amelioration du rendement des cultures vivrieres
+slug: la-selection-vegetale-et-l-amelioration-du-rendement-des-cultures-vivrieres
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un objectif historique qui a considerablement augmente la capacite a nourrir la population mondiale.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la variabilite genetique naturelle comme ressource pour la selection vegetale
+slug: le-role-de-la-variabilite-genetique-naturelle-comme-ressource-pour-la-selection-vegetale
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une richesse indispensable qui offre la matiere premiere necessaire a toute amelioration future.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale participative impliquant directement les agriculteurs locaux
+slug: la-selection-vegetale-participative-impliquant-directement-les-agriculteurs-locaux
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une approche qui associe les producteurs eux-memes au choix des varietes developpees.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des varietes anciennes dans la preservation du patrimoine genetique agricole
+slug: le-role-des-varietes-anciennes-dans-la-preservation-du-patrimoine-genetique-agricole
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Des varietes parfois moins productives mais precieuses pour leur diversite genetique conservee.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale pour ameliorer la qualite nutritionnelle des aliments
+slug: la-selection-vegetale-pour-ameliorer-la-qualite-nutritionnelle-des-aliments
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un objectif qui vise a enrichir naturellement certains aliments en nutriments essentiels.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des essais en champ dans la validation d'une nouvelle variete selectionnee
+slug: le-role-des-essais-en-champ-dans-la-validation-d-une-nouvelle-variete-selectionnee
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une etape necessaire qui teste en conditions reelles les performances d'une plante ameliore.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale et l'adaptation des cultures aux sols pauvres ou difficiles
+slug: la-selection-vegetale-et-l-adaptation-des-cultures-aux-sols-pauvres-ou-difficiles
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un enjeu important pour permettre l'agriculture dans des zones aux conditions moins favorables.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des instituts de recherche agronomique dans le developpement de nouvelles varietes
+slug: le-role-des-instituts-de-recherche-agronomique-dans-le-developpement-de-nouvelles-varietes
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Des organisations specialisees qui mènent des programmes de selection sur le long terme.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale et la reduction du besoin en intrants chimiques des cultures
+slug: la-selection-vegetale-et-la-reduction-du-besoin-en-intrants-chimiques-des-cultures
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un objectif qui developpe des plantes naturellement plus resistantes, limitant le recours aux traitements.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la duree necessaire pour developper une nouvelle variete vegetale
+slug: le-role-de-la-duree-necessaire-pour-developper-une-nouvelle-variete-vegetale
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un processus generalement long qui necessite plusieurs generations de plantes avant d'aboutir.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale et la question de la propriete intellectuelle sur les nouvelles varietes
+slug: la-selection-vegetale-et-la-question-de-la-propriete-intellectuelle-sur-les-nouvelles-varietes
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un enjeu juridique qui encadre les droits associes aux plantes issues de programmes de selection.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la selection massale traditionnelle dans l'histoire de l'agriculture
+slug: le-role-de-la-selection-massale-traditionnelle-dans-l-histoire-de-l-agriculture
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une methode ancienne qui a permis d'ameliorer progressivement les cultures sans outils modernes.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale pour des cultures adaptees a l'agriculture urbaine
+slug: la-selection-vegetale-pour-des-cultures-adaptees-a-l-agriculture-urbaine
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un domaine emergent qui developpe des varietes compactes adaptees a des espaces restreints.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la conservation in situ des especes vegetales sauvages apparentees aux cultures
+slug: le-role-de-la-conservation-in-situ-des-especes-vegetales-sauvages-apparentees-aux-cultures
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une protection directement dans leur milieu naturel qui preserve une ressource genetique precieuse.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale et l'amelioration de la conservation des recoltes apres-recolte
+slug: la-selection-vegetale-et-l-amelioration-de-la-conservation-des-recoltes-apres-recolte
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un objectif qui vise a reduire les pertes liees au stockage et au transport des produits agricoles.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La composition d'un sol fertile et les elements qui le caracterisent
+slug: la-composition-d-un-sol-fertile-et-les-elements-qui-le-caracterisent
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un equilibre complexe entre matiere organique, mineraux, eau et air necessaire a une bonne fertilite.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des micro-organismes du sol dans la fertilite agricole
+slug: le-role-des-micro-organismes-du-sol-dans-la-fertilite-agricole
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une vie invisible mais essentielle qui transforme la matiere organique en nutriments disponibles.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'erosion des sols agricoles et ses consequences sur la fertilite a long terme
+slug: l-erosion-des-sols-agricoles-et-ses-consequences-sur-la-fertilite-a-long-terme
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une perte progressive de la couche fertile qui menace la capacite productive future des terres.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la matiere organique dans la structure et la fertilite d'un sol
+slug: le-role-de-la-matiere-organique-dans-la-structure-et-la-fertilite-d-un-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un composant essentiel qui ameliore la retention d'eau et la disponibilite des nutriments.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les analyses de sol et leur role dans l'ajustement precis de la fertilisation
+slug: les-analyses-de-sol-et-leur-role-dans-l-ajustement-precis-de-la-fertilisation
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un diagnostic prealable qui permet d'adapter les apports aux besoins reels de chaque parcelle.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des vers de terre dans l'amelioration naturelle de la structure du sol
+slug: le-role-des-vers-de-terre-dans-l-amelioration-naturelle-de-la-structure-du-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un allie discret mais precieux qui aere le sol et favorise la circulation de l'eau et des nutriments.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compaction des sols agricoles et ses effets negatifs sur la fertilite
+slug: la-compaction-des-sols-agricoles-et-ses-effets-negatifs-sur-la-fertilite
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un tassement excessif qui limite la circulation de l'air, de l'eau et des racines dans le sol.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du pH du sol dans la disponibilite des nutriments pour les plantes
+slug: le-role-du-ph-du-sol-dans-la-disponibilite-des-nutriments-pour-les-plantes
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un facteur chimique important qui influence directement la capacite des plantes a absorber certains elements.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les engrais verts et leur role dans l'enrichissement naturel des sols
+slug: les-engrais-verts-et-leur-role-dans-l-enrichissement-naturel-des-sols
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des cultures specifiques semees pour etre ensuite incorporees au sol afin de l'enrichir.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la biodiversite du sol dans le maintien global de sa fertilite
+slug: le-role-de-la-biodiversite-du-sol-dans-le-maintien-global-de-sa-fertilite
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un ecosysteme riche et varie qui contribue a de nombreuses fonctions essentielles du sol vivant.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desertification et la perte progressive de fertilite dans certaines regions du monde
+slug: la-desertification-et-la-perte-progressive-de-fertilite-dans-certaines-regions-du-monde
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un phenomene grave qui transforme des terres autrefois cultivables en zones arides improductives.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du drainage dans la gestion de l'exces d'eau et la preservation de la fertilite
+slug: le-role-du-drainage-dans-la-gestion-de-l-exces-d-eau-et-la-preservation-de-la-fertilite
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un amenagement necessaire dans certains sols pour eviter l'asphyxie des racines des plantes.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pratiques de non-labour et leur impact sur la conservation de la structure du sol
+slug: les-pratiques-de-non-labour-et-leur-impact-sur-la-conservation-de-la-structure-du-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une approche qui limite les perturbations mecaniques pour preserver l'organisation naturelle du sol.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la salinisation des sols dans la degradation de leur fertilite
+slug: le-role-de-la-salinisation-des-sols-dans-la-degradation-de-leur-fertilite
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un phenomene souvent lie a une irrigation mal maitrisee qui rend progressivement le sol moins productif.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cycles biogeochimiques du sol et leur role dans la disponibilite des nutriments
+slug: les-cycles-biogeochimiques-du-sol-et-leur-role-dans-la-disponibilite-des-nutriments
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des mouvements naturels de matiere qui rendent progressivement disponibles les elements nutritifs necessaires.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du paillage dans la protection et l'enrichissement progressif du sol
+slug: le-role-du-paillage-dans-la-protection-et-l-enrichissement-progressif-du-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une couverture qui limite l'evaporation, protege contre l'erosion et enrichit le sol en se decomposant.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cartographie des sols et son role dans la planification agricole a grande echelle
+slug: la-cartographie-des-sols-et-son-role-dans-la-planification-agricole-a-grande-echelle
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un outil qui aide a identifier les zones les plus adaptees a chaque type de culture.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du champignon mycorhizien dans l'assistance aux racines des plantes
+slug: le-role-du-champignon-mycorhizien-dans-l-assistance-aux-racines-des-plantes
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une association naturelle qui ameliore l'acces des plantes a l'eau et aux nutriments du sol.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration de sols degrades par des pratiques agricoles intensives anciennes
+slug: la-restauration-de-sols-degrades-par-des-pratiques-agricoles-intensives-anciennes
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un processus long mais possible qui redonne progressivement fertilite a des terres appauvries.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la couverture vegetale permanente dans la protection durable de la fertilite du sol
+slug: le-role-de-la-couverture-vegetale-permanente-dans-la-protection-durable-de-la-fertilite-du-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une strategie qui evite de laisser le sol nu, particulierement vulnerable a la degradation.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sols tropicaux et les defis specifiques de leur fertilite face a un climat different
+slug: les-sols-tropicaux-et-les-defis-specifiques-de-leur-fertilite-face-a-un-climat-different
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des caracteristiques particulieres qui necessitent des approches de gestion adaptees a ce contexte.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la biologie de synthese et la conception de nouveaux systemes vivants
+slug: le-principe-general-de-la-biologie-de-synthese-et-la-conception-de-nouveaux-systemes-vivants
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une discipline qui applique des principes d'ingenierie a la conception de fonctions biologiques.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des circuits genetiques artificiels dans la biologie de synthese
+slug: le-role-des-circuits-genetiques-artificiels-dans-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des assemblages de genes concus pour produire un comportement precis et previsible dans une cellule.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese appliquee a la production de medicaments
+slug: la-biologie-de-synthese-appliquee-a-la-production-de-medicaments
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une application qui utilise des organismes modifies pour fabriquer des substances therapeutiques.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bacteries modifiees dans la production industrielle de composes utiles
+slug: le-role-des-bacteries-modifiees-dans-la-production-industrielle-de-composes-utiles
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des micro-organismes reprogrammes pour fabriquer efficacement des substances d'interet economique.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese et la creation de biocarburants a partir d'organismes modifies
+slug: la-biologie-de-synthese-et-la-creation-de-biocarburants-a-partir-d-organismes-modifies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une piste prometteuse qui vise a produire de l'energie renouvelable grace a des organismes concus specifiquement.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des questions ethiques dans le developpement de la biologie de synthese
+slug: le-role-des-questions-ethiques-dans-le-developpement-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une reflexion necessaire sur les limites et les risques associes a la creation de nouvelles formes de vie.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese appliquee a la depollution de l'environnement
+slug: la-biologie-de-synthese-appliquee-a-la-depollution-de-l-environnement
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une application qui developpe des organismes capables de degrader specifiquement certains polluants.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la standardisation des composants genetiques dans la biologie de synthese moderne
+slug: le-role-de-la-standardisation-des-composants-genetiques-dans-la-biologie-de-synthese-moderne
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une approche qui facilite l'assemblage de nouvelles fonctions biologiques a partir d'elements reutilisables.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese et la production de materiaux biologiques innovants
+slug: la-biologie-de-synthese-et-la-production-de-materiaux-biologiques-innovants
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une piste de recherche qui explore la fabrication de nouveaux materiaux grace a des organismes concus.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la securite biologique dans l'encadrement des recherches en biologie de synthese
+slug: le-role-de-la-securite-biologique-dans-l-encadrement-des-recherches-en-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des precautions rigoureuses necessaires pour eviter tout risque lie a la manipulation d'organismes modifies.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese appliquee a l'agriculture et la creation de plantes aux fonctions nouvelles
+slug: la-biologie-de-synthese-appliquee-a-l-agriculture-et-la-creation-de-plantes-aux-fonctions-nouvelles
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une application qui pourrait transformer certaines cultures grace a des capacites biologiques inedites.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cellules artificielles minimales dans la comprehension fondamentale de la vie
+slug: le-role-des-cellules-artificielles-minimales-dans-la-comprehension-fondamentale-de-la-vie
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une approche qui construit des systemes tres simplifies pour mieux comprendre les mecanismes essentiels du vivant.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese et son potentiel dans la lutte contre certaines maladies infectieuses
+slug: la-biologie-de-synthese-et-son-potentiel-dans-la-lutte-contre-certaines-maladies-infectieuses
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une piste prometteuse qui developpe des organismes concus pour combattre des agents pathogenes specifiques.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la reglementation internationale dans l'encadrement de la biologie de synthese
+slug: le-role-de-la-reglementation-internationale-dans-l-encadrement-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Un cadre juridique encore en construction face a une discipline scientifique en evolution rapide.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese appliquee a la production alimentaire alternative
+slug: la-biologie-de-synthese-appliquee-a-la-production-alimentaire-alternative
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une application qui explore la fabrication de proteines ou d'aliments par des voies biologiques nouvelles.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des simulations informatiques dans la conception prealable de systemes biologiques synthetiques
+slug: le-role-des-simulations-informatiques-dans-la-conception-prealable-de-systemes-biologiques-synthetiques
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Un outil qui permet de tester virtuellement un concept avant de le realiser en laboratoire.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese et les debats sur la brevetabilite des organismes concus artificiellement
+slug: la-biologie-de-synthese-et-les-debats-sur-la-brevetabilite-des-organismes-concus-artificiellement
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une question juridique complexe liee a la propriete intellectuelle sur des formes de vie modifiees.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la collaboration internationale dans les avancees de la biologie de synthese
+slug: le-role-de-la-collaboration-internationale-dans-les-avancees-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une cooperation scientifique qui accelere le partage de connaissances dans ce domaine emergent.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese appliquee a la conservation des especes menacees
+slug: la-biologie-de-synthese-appliquee-a-la-conservation-des-especes-menacees
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une piste explorative qui envisage des outils biologiques nouveaux au service de la protection de la nature.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la formation specialisee dans le developpement des competences en biologie de synthese
+slug: le-role-de-la-formation-specialisee-dans-le-developpement-des-competences-en-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une necessite croissante face a une discipline qui combine biologie, ingenierie et informatique.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese et les risques de detournement a des fins malveillantes
+slug: la-biologie-de-synthese-et-les-risques-de-detournement-a-des-fins-malveillantes
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une preoccupation serieuse qui justifie une vigilance particuliere dans l'encadrement de ces recherches.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la modification genetique d'un organisme vivant
+slug: le-principe-general-de-la-modification-genetique-d-un-organisme-vivant
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une technique qui permet de modifier volontairement le materiel genetique d'un etre vivant.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La technique de l'edition genetique par ciseaux moleculaires
+slug: la-technique-de-l-edition-genetique-par-ciseaux-moleculaires
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une avancee majeure qui permet de modifier avec precision une sequence genetique specifique.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique applique a la production d'insuline pour les patients diabetiques
+slug: le-genie-genetique-applique-a-la-production-d-insuline-pour-les-patients-diabetiques
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une application historique qui a permis de produire ce medicament essentiel a grande echelle.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plantes genetiquement modifiees et leurs usages agricoles principaux
+slug: les-plantes-genetiquement-modifiees-et-leurs-usages-agricoles-principaux
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Des cultures dont le materiel genetique a ete modifie pour ameliorer certaines caracteristiques.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du genie genetique dans le developpement de nouveaux vaccins
+slug: le-role-du-genie-genetique-dans-le-developpement-de-nouveaux-vaccins
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une technique qui a permis d'accelerer significativement la production de certains vaccins modernes.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debats ethiques autour de la modification genetique des embryons humains
+slug: les-debats-ethiques-autour-de-la-modification-genetique-des-embryons-humains
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une question particulierement sensible qui souleve d'importantes interrogations morales et sociales.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique et la therapie genique pour traiter certaines maladies hereditaires
+slug: le-genie-genetique-et-la-therapie-genique-pour-traiter-certaines-maladies-hereditaires
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une approche prometteuse qui vise a corriger directement l'origine genetique d'une maladie.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des organismes genetiquement modifies dans l'industrie pharmaceutique
+slug: le-role-des-organismes-genetiquement-modifies-dans-l-industrie-pharmaceutique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une application qui utilise des organismes reprogrammes pour fabriquer des medicaments complexes.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation encadrant l'usage des organismes genetiquement modifies dans l'agriculture
+slug: la-reglementation-encadrant-l-usage-des-organismes-genetiquement-modifies-dans-l-agriculture
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un cadre juridique variable selon les pays qui encadre strictement ces pratiques.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique applique a l'amelioration de la resistance des cultures aux insectes
+slug: le-genie-genetique-applique-a-l-amelioration-de-la-resistance-des-cultures-aux-insectes
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une application qui reduit potentiellement le besoin en pesticides grace a une resistance naturelle integree.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du diagnostic genetique dans la detection precoce de certaines maladies
+slug: le-role-du-diagnostic-genetique-dans-la-detection-precoce-de-certaines-maladies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une application medicale qui permet d'identifier des risques hereditaires avant l'apparition de symptomes.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite et l'evaluation des risques associes aux organismes genetiquement modifies
+slug: la-securite-et-l-evaluation-des-risques-associes-aux-organismes-genetiquement-modifies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Des protocoles rigoureux necessaires avant toute mise sur le marche de ces organismes.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique et la conservation d'especes menacees grace a des techniques avancees
+slug: le-genie-genetique-et-la-conservation-d-especes-menacees-grace-a-des-techniques-avancees
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une piste de recherche qui explore le potentiel de ces outils pour la protection de la biodiversite.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des animaux genetiquement modifies dans la recherche medicale
+slug: le-role-des-animaux-genetiquement-modifies-dans-la-recherche-medicale
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un usage courant en laboratoire qui aide a comprendre certaines maladies et a tester des traitements.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique et l'etiquetage des produits contenant des organismes modifies
+slug: le-genie-genetique-et-l-etiquetage-des-produits-contenant-des-organismes-modifies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une exigence d'information qui permet aux consommateurs de faire un choix eclaire.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la brevetabilite du vivant dans les debats sur le genie genetique
+slug: le-role-de-la-brevetabilite-du-vivant-dans-les-debats-sur-le-genie-genetique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une question juridique et ethique complexe liee a la propriete sur des organismes modifies.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique applique a la production de biocarburants a partir de micro-organismes modifies
+slug: le-genie-genetique-applique-a-la-production-de-biocarburants-a-partir-de-micro-organismes-modifies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une piste explorative qui vise a produire de l'energie de maniere plus durable.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'acceptabilite sociale dans le deploiement des technologies de genie genetique
+slug: le-role-de-l-acceptabilite-sociale-dans-le-deploiement-des-technologies-de-genie-genetique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une dimension essentielle qui determine largement l'adoption reelle de ces innovations.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique et la lutte contre certaines maladies transmises par les insectes
+slug: le-genie-genetique-et-la-lutte-contre-certaines-maladies-transmises-par-les-insectes
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une approche qui modifie geneticalement des populations d'insectes vecteurs de maladies.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la recherche fondamentale dans les progres continus du genie genetique
+slug: le-role-de-la-recherche-fondamentale-dans-les-progres-continus-du-genie-genetique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un travail scientifique de longue haleine qui alimente les applications pratiques de cette discipline.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique et les questions de propriete intellectuelle sur les semences modifiees
+slug: le-genie-genetique-et-les-questions-de-propriete-intellectuelle-sur-les-semences-modifiees
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un enjeu economique important qui influence directement l'acces des agriculteurs a ces technologies.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du principe de precaution dans l'encadrement des applications du genie genetique
+slug: le-role-du-principe-de-precaution-dans-l-encadrement-des-applications-du-genie-genetique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une approche prudente qui privilegie la prevention face a des risques encore mal connus.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la radiographie et son usage medical courant
+slug: le-principe-general-de-la-radiographie-et-son-usage-medical-courant
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique ancienne mais toujours essentielle qui utilise des rayons pour visualiser l'interieur du corps.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement de l'imagerie par resonance magnetique
+slug: le-fonctionnement-de-l-imagerie-par-resonance-magnetique
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique qui utilise un champ magnetique puissant pour produire des images detaillees des tissus.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'echographie dans le suivi de la grossesse
+slug: le-role-de-l-echographie-dans-le-suivi-de-la-grossesse
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique sans danger particulierement utilisee pour observer le developpement du foetus.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tomodensitometrie et son role dans l'obtention d'images en coupe du corps
+slug: la-tomodensitometrie-et-son-role-dans-l-obtention-d-images-en-coupe-du-corps
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique qui combine plusieurs radiographies pour reconstituer une image tridimensionnelle precise.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie medicale dans le diagnostic precoce du cancer
+slug: le-role-de-l-imagerie-medicale-dans-le-diagnostic-precoce-du-cancer
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un outil essentiel qui permet de detecter des anomalies avant meme l'apparition de symptomes visibles.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La scintigraphie et l'usage de traceurs radioactifs en imagerie medicale
+slug: la-scintigraphie-et-l-usage-de-traceurs-radioactifs-en-imagerie-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique specifique qui suit le parcours d'une substance faiblement radioactive dans le corps.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie medicale dans le suivi de l'evolution d'une maladie
+slug: le-role-de-l-imagerie-medicale-dans-le-suivi-de-l-evolution-d-une-maladie
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un outil precieux qui permet de comparer l'etat d'un patient a differents moments du traitement.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avancees recentes de l'intelligence artificielle dans l'analyse des images medicales
+slug: les-avancees-recentes-de-l-intelligence-artificielle-dans-l-analyse-des-images-medicales
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une aide croissante qui assiste les radiologues dans l'identification d'anomalies subtiles.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie medicale dans la planification d'une intervention chirurgicale
+slug: le-role-de-l-imagerie-medicale-dans-la-planification-d-une-intervention-chirurgicale
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une preparation essentielle qui permet au chirurgien de visualiser precisement la zone a operer.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des patients face aux radiations utilisees dans certaines techniques d'imagerie
+slug: la-securite-des-patients-face-aux-radiations-utilisees-dans-certaines-techniques-d-imagerie
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une precaution necessaire qui limite l'exposition tout en preservant la qualite du diagnostic.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie fonctionnelle dans l'etude de l'activite du cerveau
+slug: le-role-de-l-imagerie-fonctionnelle-dans-l-etude-de-l-activite-du-cerveau
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique avancee qui observe non seulement la structure mais aussi le fonctionnement d'un organe.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de contraste utilises pour ameliorer la visibilite en imagerie medicale
+slug: les-differents-types-de-contraste-utilises-pour-ameliorer-la-visibilite-en-imagerie-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des produits specifiques qui rendent certains tissus ou vaisseaux plus visibles sur une image.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie medicale dans le suivi des patients apres un traitement
+slug: le-role-de-l-imagerie-medicale-dans-le-suivi-des-patients-apres-un-traitement
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un controle regulier qui verifie l'efficacite d'une therapie et l'absence de recidive.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mammographie et son role dans le depistage du cancer du sein
+slug: la-mammographie-et-son-role-dans-le-depistage-du-cancer-du-sein
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique specifique dediee a la detection precoce de cette maladie frequente.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des radiologues dans l'interpretation precise des images medicales
+slug: le-role-des-radiologues-dans-l-interpretation-precise-des-images-medicales
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un professionnel specialise dont l'expertise est essentielle pour un diagnostic fiable.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale portable et son usage croissant dans les situations d'urgence
+slug: l-imagerie-medicale-portable-et-son-usage-croissant-dans-les-situations-d-urgence
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une evolution technique qui permet des examens rapides directement au chevet du patient.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie medicale dans la recherche scientifique sur les maladies
+slug: le-role-de-l-imagerie-medicale-dans-la-recherche-scientifique-sur-les-maladies
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un outil qui aide les chercheurs a mieux comprendre l'evolution et les mecanismes de nombreuses pathologies.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les innovations recentes dans la reduction des doses de radiation en imagerie medicale
+slug: les-innovations-recentes-dans-la-reduction-des-doses-de-radiation-en-imagerie-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des progres techniques continus qui ameliorent la securite des examens pour les patients.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie medicale veterinaire dans le diagnostic des animaux
+slug: le-role-de-l-imagerie-medicale-veterinaire-dans-le-diagnostic-des-animaux
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une application similaire aux techniques humaines, adaptee aux besoins specifiques des animaux.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La disponibilite inegale de l'imagerie medicale avancee selon les regions du monde
+slug: la-disponibilite-inegale-de-l-imagerie-medicale-avancee-selon-les-regions-du-monde
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un enjeu d'equite qui limite l'acces a certains diagnostics precis dans les zones moins equipees.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la formation continue des professionnels face aux innovations en imagerie medicale
+slug: le-role-de-la-formation-continue-des-professionnels-face-aux-innovations-en-imagerie-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une necessite constante dans un domaine ou les technologies evoluent rapidement.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couts economiques de l'imagerie medicale avancee pour les systemes de sante
+slug: les-couts-economiques-de-l-imagerie-medicale-avancee-pour-les-systemes-de-sante
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un enjeu financier important qui influence les choix d'investissement des etablissements de soins.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'imagerie medicale dans la detection precoce des maladies cardiovasculaires
+slug: le-role-de-l-imagerie-medicale-dans-la-detection-precoce-des-maladies-cardiovasculaires
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une application essentielle qui aide a identifier des risques avant qu'un incident grave ne survienne.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution historique des techniques d'imagerie medicale depuis la decouverte des rayons X
+slug: l-evolution-historique-des-techniques-d-imagerie-medicale-depuis-la-decouverte-des-rayons-x
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un parcours remarquable qui a considerablement ameliore les capacites de diagnostic medical.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la medecine fondee sur les preuves scientifiques
+slug: le-principe-general-de-la-medecine-fondee-sur-les-preuves-scientifiques
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une approche qui fonde les decisions medicales sur les resultats les plus fiables de la recherche.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des essais cliniques randomises dans la validation d'un nouveau traitement
+slug: le-role-des-essais-cliniques-randomises-dans-la-validation-d-un-nouveau-traitement
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une methode rigoureuse qui compare objectivement l'efficacite d'un traitement par rapport a une reference.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La hierarchie des niveaux de preuve scientifique en medecine
+slug: la-hierarchie-des-niveaux-de-preuve-scientifique-en-medecine
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une classification qui distingue la fiabilite de differents types d'etudes medicales.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des meta-analyses dans la synthese de multiples etudes medicales
+slug: le-role-des-meta-analyses-dans-la-synthese-de-multiples-etudes-medicales
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une methode qui combine les resultats de plusieurs recherches pour degager une conclusion plus solide.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves et la lutte contre les traitements inefficaces
+slug: la-medecine-fondee-sur-les-preuves-et-la-lutte-contre-les-traitements-inefficaces
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une demarche qui vise a ecarter progressivement des pratiques non soutenues par des donnees fiables.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du double aveugle dans la fiabilite des essais cliniques
+slug: le-role-du-double-aveugle-dans-la-fiabilite-des-essais-cliniques
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une methode qui evite les biais en cachant l'attribution des traitements aux patients et aux medecins.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves et son integration dans la pratique quotidienne des soignants
+slug: la-medecine-fondee-sur-les-preuves-et-son-integration-dans-la-pratique-quotidienne-des-soignants
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un defi pratique qui consiste a traduire les resultats de recherche en decisions concretes au chevet du patient.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des recommandations de bonnes pratiques issues de la medecine fondee sur les preuves
+slug: le-role-des-recommandations-de-bonnes-pratiques-issues-de-la-medecine-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Des guides pratiques qui aident les professionnels a appliquer les connaissances scientifiques les plus solides.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves face aux limites de certaines etudes scientifiques
+slug: la-medecine-fondee-sur-les-preuves-face-aux-limites-de-certaines-etudes-scientifiques
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une reconnaissance necessaire que toute recherche comporte des marges d'incertitude a considerer.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du consentement eclaire du patient dans le cadre de la medecine fondee sur les preuves
+slug: le-role-du-consentement-eclaire-du-patient-dans-le-cadre-de-la-medecine-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une exigence ethique qui associe le patient a une decision fondee sur des donnees fiables.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves et l'evaluation de l'efficacite des traitements alternatifs
+slug: la-medecine-fondee-sur-les-preuves-et-l-evaluation-de-l-efficacite-des-traitements-alternatifs
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une demarche qui applique les memes exigences de rigueur a toute pratique therapeutique proposee.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des registres de patients dans la collecte de donnees pour la medecine fondee sur les preuves
+slug: le-role-des-registres-de-patients-dans-la-collecte-de-donnees-pour-la-medecine-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un suivi a grande echelle qui complete les essais cliniques par des observations en conditions reelles.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves et la personnalisation des soins selon chaque patient
+slug: la-medecine-fondee-sur-les-preuves-et-la-personnalisation-des-soins-selon-chaque-patient
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un equilibre delicat entre des donnees generales et les particularites individuelles de chaque situation.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des revues scientifiques dans la diffusion des connaissances de la medecine fondee sur les preuves
+slug: le-role-des-revues-scientifiques-dans-la-diffusion-des-connaissances-de-la-medecine-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un canal essentiel qui rend accessibles aux professionnels les resultats de la recherche medicale.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves et les defis lies au financement de la recherche clinique
+slug: la-medecine-fondee-sur-les-preuves-et-les-defis-lies-au-financement-de-la-recherche-clinique
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un enjeu economique important qui conditionne la production de nouvelles connaissances fiables.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la formation medicale continue dans la mise a jour des connaissances fondees sur les preuves
+slug: le-role-de-la-formation-medicale-continue-dans-la-mise-a-jour-des-connaissances-fondees-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une necessite constante pour que les professionnels restent informes des dernieres avancees fiables.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves et la reduction des variations injustifiees dans les pratiques medicales
+slug: la-medecine-fondee-sur-les-preuves-et-la-reduction-des-variations-injustifiees-dans-les-pratiques-medicales
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un objectif qui vise a harmoniser les soins selon les connaissances scientifiques les plus solides.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la transparence des resultats de recherche dans la fiabilite de la medecine fondee sur les preuves
+slug: le-role-de-la-transparence-des-resultats-de-recherche-dans-la-fiabilite-de-la-medecine-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une exigence essentielle pour eviter que des resultats defavorables ne soient dissimules.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves appliquee aux decisions de sante publique
+slug: la-medecine-fondee-sur-les-preuves-appliquee-aux-decisions-de-sante-publique
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une extension de cette approche au-dela du soin individuel, jusqu'aux politiques de sante a grande echelle.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du jugement clinique du medecin en complement de la medecine fondee sur les preuves
+slug: le-role-du-jugement-clinique-du-medecin-en-complement-de-la-medecine-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une combinaison necessaire entre donnees scientifiques generales et experience individuelle du praticien.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves et l'evaluation continue des pratiques medicales existantes
+slug: la-medecine-fondee-sur-les-preuves-et-l-evaluation-continue-des-pratiques-medicales-existantes
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un processus permanent qui remet regulierement en question des habitudes anciennes a la lumiere de nouvelles donnees.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de l'action d'un medicament dans l'organisme
+slug: le-principe-general-de-l-action-d-un-medicament-dans-l-organisme
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un processus qui decrit comment une substance active interagit avec le corps pour produire un effet.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du dosage dans l'efficacite et la securite d'un traitement medicamenteux
+slug: le-role-du-dosage-dans-l-efficacite-et-la-securite-d-un-traitement-medicamenteux
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un equilibre precis necessaire pour obtenir l'effet souhaite sans provoquer d'effets indesirables.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etapes de developpement d'un nouveau medicament avant sa mise sur le marche
+slug: les-etapes-de-developpement-d-un-nouveau-medicament-avant-sa-mise-sur-le-marche
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un processus long et rigoureux qui garantit la securite et l'efficacite avant toute commercialisation.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des effets secondaires dans l'evaluation globale d'un traitement medicamenteux
+slug: le-role-des-effets-secondaires-dans-l-evaluation-globale-d-un-traitement-medicamenteux
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une consideration essentielle qui met en balance les benefices et les risques d'un medicament.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacocinetique et le parcours d'un medicament dans le corps humain
+slug: la-pharmacocinetique-et-le-parcours-d-un-medicament-dans-le-corps-humain
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une etude qui suit comment une substance est absorbee, distribuee, transformee et eliminee.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des interactions medicamenteuses dans la securite des traitements combines
+slug: le-role-des-interactions-medicamenteuses-dans-la-securite-des-traitements-combines
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un enjeu important lorsque plusieurs medicaments sont pris simultanement par un meme patient.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacovigilance et le suivi des effets indesirables apres la mise sur le marche d'un medicament
+slug: la-pharmacovigilance-et-le-suivi-des-effets-indesirables-apres-la-mise-sur-le-marche-d-un-medicament
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une surveillance continue qui permet de detecter des risques rares non observes lors des essais initiaux.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des generiques dans l'acces plus large aux traitements medicamenteux
+slug: le-role-des-generiques-dans-l-acces-plus-large-aux-traitements-medicamenteux
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Des versions moins couteuses qui reproduisent l'effet d'un medicament original apres l'expiration d'un brevet.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie et l'adaptation des doses selon l'age et l'etat du patient
+slug: la-pharmacologie-et-l-adaptation-des-doses-selon-l-age-et-l-etat-du-patient
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une personnalisation necessaire car un meme medicament peut agir differemment selon chaque individu.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des recepteurs cellulaires dans le mecanisme d'action des medicaments
+slug: le-role-des-recepteurs-cellulaires-dans-le-mecanisme-d-action-des-medicaments
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Des structures precises auxquelles se lient les molecules actives pour produire leur effet.
+tags: [pharmacologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie et le developpement de traitements cibles pour certains cancers
+slug: la-pharmacologie-et-le-developpement-de-traitements-cibles-pour-certains-cancers
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une avancee majeure qui vise a attaquer specifiquement les cellules malades sans affecter les cellules saines.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des essais precliniques avant les premiers tests d'un medicament chez l'humain
+slug: le-role-des-essais-precliniques-avant-les-premiers-tests-d-un-medicament-chez-l-humain
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une etape prealable indispensable qui evalue la securite d'une substance avant son usage chez l'homme.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie et la resistance croissante de certains agents pathogenes aux traitements existants
+slug: la-pharmacologie-et-la-resistance-croissante-de-certains-agents-pathogenes-aux-traitements-existants
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un defi majeur qui complique l'efficacite de medicaments autrefois tres performants.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la posologie personnalisee dans l'optimisation d'un traitement medicamenteux
+slug: le-role-de-la-posologie-personnalisee-dans-l-optimisation-d-un-traitement-medicamenteux
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une adaptation precise qui tient compte des caracteristiques propres a chaque patient.
+tags: [pharmacologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie et le developpement de nouveaux antidouleurs plus surs
+slug: la-pharmacologie-et-le-developpement-de-nouveaux-antidouleurs-plus-surs
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une recherche continue qui vise a soulager efficacement tout en limitant les risques de dependance.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du placebo dans la comprehension de l'effet reel d'un medicament
+slug: le-role-du-placebo-dans-la-comprehension-de-l-effet-reel-d-un-medicament
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un outil scientifique essentiel qui aide a distinguer l'effet propre d'une substance de l'effet psychologique.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie et l'adaptation des traitements pendant la grossesse
+slug: la-pharmacologie-et-l-adaptation-des-traitements-pendant-la-grossesse
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une prudence particuliere necessaire pour proteger a la fois la mere et l'enfant a naitre.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la biodisponibilite dans l'efficacite reelle d'un medicament administre
+slug: le-role-de-la-biodisponibilite-dans-l-efficacite-reelle-d-un-medicament-administre
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une mesure qui indique quelle proportion d'une substance atteint reellement sa cible dans le corps.
+tags: [pharmacologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie veterinaire et l'adaptation des traitements aux differentes especes animales
+slug: la-pharmacologie-veterinaire-et-l-adaptation-des-traitements-aux-differentes-especes-animales
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un domaine specifique qui adapte les principes generaux aux particularites physiologiques de chaque animal.
+tags: [pharmacologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la recherche sur les medicaments orphelins pour les maladies rares
+slug: le-role-de-la-recherche-sur-les-medicaments-orphelins-pour-les-maladies-rares
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un effort scientifique specifique face a des maladies touchant peu de patients mais aux besoins reels.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie et le role des pharmaciens dans le conseil et la securite des traitements
+slug: la-pharmacologie-et-le-role-des-pharmaciens-dans-le-conseil-et-la-securite-des-traitements
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un professionnel essentiel qui accompagne les patients dans le bon usage de leurs medicaments.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.

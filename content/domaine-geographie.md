@@ -6189,3 +6189,2928 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La transition demographique et ses differentes etapes
+slug: la-transition-demographique-et-ses-differentes-etapes
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un processus historique qui decrit l'evolution progressive des taux de natalite et de mortalite.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vieillissement de la population dans les pays developpes
+slug: le-vieillissement-de-la-population-dans-les-pays-developpes
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un phenomene qui transforme profondement les besoins sociaux et economiques d'un pays.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La piramide des ages et ce qu'elle revele sur une population
+slug: la-piramide-des-ages-et-ce-qu-elle-revele-sur-une-population
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un outil graphique qui synthetise la repartition d'une population par age et par sexe.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les taux de natalite et de fecondite et leurs variations mondiales
+slug: les-taux-de-natalite-et-de-fecondite-et-leurs-variations-mondiales
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Des indicateurs cles qui different fortement selon les regions et les niveaux de developpement.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'esperance de vie et les facteurs qui l'influencent a travers le monde
+slug: l-esperance-de-vie-et-les-facteurs-qui-l-influencent-a-travers-le-monde
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une mesure qui reflete a la fois les conditions sanitaires et le niveau de developpement d'un pays.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les projections demographiques mondiales pour les prochaines decennies
+slug: les-projections-demographiques-mondiales-pour-les-prochaines-decennies
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Des estimations qui aident a anticiper les besoins futurs en matiere de ressources et de services.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La densite de population et sa repartition tres inegale sur Terre
+slug: la-densite-de-population-et-sa-repartition-tres-inegale-sur-terre
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une distribution qui reflete l'histoire, le climat et les ressources disponibles de chaque region.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mortalite infantile comme indicateur de developpement
+slug: le-role-de-la-mortalite-infantile-comme-indicateur-de-developpement
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une mesure sensible qui reflete directement les conditions de sante d'une population.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les politiques natalistes et leur impact sur la demographie d'un pays
+slug: les-politiques-natalistes-et-leur-impact-sur-la-demographie-d-un-pays
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Des mesures publiques qui visent a influencer volontairement le taux de natalite national.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le declin demographique et ses consequences economiques et sociales
+slug: le-declin-demographique-et-ses-consequences-economiques-et-sociales
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une baisse de population qui pose des defis specifiques pour l'avenir d'un territoire.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La demographie des grandes metropoles mondiales
+slug: la-demographie-des-grandes-metropoles-mondiales
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une concentration de population qui pose des defis particuliers d'organisation et de services.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des recensements dans la connaissance precise d'une population
+slug: le-role-des-recensements-dans-la-connaissance-precise-d-une-population
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un exercice statistique regulier essentiel pour orienter les politiques publiques.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites demographiques entre zones rurales et zones urbaines
+slug: les-inegalites-demographiques-entre-zones-rurales-et-zones-urbaines
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Des dynamiques de population tres differentes selon le type de territoire concerne.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La demographie et son lien avec le developpement economique d'un pays
+slug: la-demographie-et-son-lien-avec-le-developpement-economique-d-un-pays
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une relation complexe qui influence et est influencee par le niveau de richesse d'une nation.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vieillissement demographique et les besoins accrus en matiere de sante
+slug: le-vieillissement-demographique-et-les-besoins-accrus-en-matiere-de-sante
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une transformation qui necessite une adaptation des systemes de soins a une population plus agee.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les disparites de sexe-ratio dans certaines populations mondiales
+slug: les-disparites-de-sexe-ratio-dans-certaines-populations-mondiales
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un desequilibre observe dans certaines regions qui souleve des questions sociales importantes.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La demographie historique et l'evolution de la population mondiale au fil des siecles
+slug: la-demographie-historique-et-l-evolution-de-la-population-mondiale-au-fil-des-siecles
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Une croissance qui s'est fortement acceleree a partir de certaines periodes cles de l'histoire.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'urbanisation dans les changements demographiques mondiaux
+slug: le-role-de-l-urbanisation-dans-les-changements-demographiques-mondiaux
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un mouvement massif de population qui transforme durablement la repartition geographique des habitants.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les indicateurs demographiques utilises pour comparer le developpement entre pays
+slug: les-indicateurs-demographiques-utilises-pour-comparer-le-developpement-entre-pays
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Des mesures standardisees qui permettent des comparaisons internationales sur la population.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La demographie et les defis lies au marche du travail futur
+slug: la-demographie-et-les-defis-lies-au-marche-du-travail-futur
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un lien direct entre l'evolution de la population active et les besoins economiques d'un pays.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des migrations dans l'evolution demographique de certains territoires
+slug: le-role-des-migrations-dans-l-evolution-demographique-de-certains-territoires
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un facteur qui, au-dela des naissances et des deces, modifie durablement la population d'une region.
+tags: [demographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La demographie mondiale et la question de la capacite d'accueil de la planete
+slug: la-demographie-mondiale-et-la-question-de-la-capacite-d-accueil-de-la-planete
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Un debat ancien qui interroge les limites de ressources face a une population croissante.
+tags: [demographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations internes au sein d'un meme pays
+slug: les-migrations-internes-au-sein-d-un-meme-pays
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des deplacements souvent lies a la recherche d'un emploi ou de meilleures conditions de vie.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations economiques et leurs principales causes
+slug: les-migrations-economiques-et-leurs-principales-causes
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un deplacement motive par la recherche d'opportunites professionnelles meilleures qu'a l'origine.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reseaux familiaux dans les parcours migratoires
+slug: le-role-des-reseaux-familiaux-dans-les-parcours-migratoires
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un soutien souvent determinant qui facilite l'installation dans un nouveau pays.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les deplacements de populations lies a la degradation progressive de leur environnement
+slug: les-deplacements-de-populations-lies-a-la-degradation-progressive-de-leur-environnement
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un phenomene croissant lie a la degradation des conditions de vie dans certaines regions.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'integration des populations migrantes dans leur pays d'accueil
+slug: l-integration-des-populations-migrantes-dans-leur-pays-d-accueil
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un processus complexe qui implique a la fois les nouveaux arrivants et la societe d'accueil.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations saisonnieres liees au travail agricole
+slug: les-migrations-saisonnieres-liees-au-travail-agricole
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un deplacement temporaire et repetitif suivant les besoins des periodes de recolte.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des diasporas dans le maintien des liens avec le pays d'origine
+slug: le-role-des-diasporas-dans-le-maintien-des-liens-avec-le-pays-d-origine
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des communautes eloignees qui conservent des liens culturels et economiques forts avec leur terre natale.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les routes migratoires historiques et leur evolution au fil du temps
+slug: les-routes-migratoires-historiques-et-leur-evolution-au-fil-du-temps
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des trajets qui ont change selon les contextes politiques, economiques et geographiques.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des envois de fonds des migrants pour l'economie de leur pays d'origine
+slug: le-role-des-envois-de-fonds-des-migrants-pour-l-economie-de-leur-pays-d-origine
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Une source de revenus significative pour de nombreuses familles restees au pays.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations etudiantes et leur role dans les echanges internationaux
+slug: les-migrations-etudiantes-et-leur-role-dans-les-echanges-internationaux
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un deplacement temporaire motive par l'acces a une formation dans un autre pays.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre migration volontaire et migration forcee
+slug: la-difference-entre-migration-volontaire-et-migration-forcee
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Une distinction essentielle qui reflete des situations et des droits tres differents.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des politiques migratoires dans la regulation des flux entre pays
+slug: le-role-des-politiques-migratoires-dans-la-regulation-des-flux-entre-pays
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des cadres legaux qui encadrent les conditions d'entree et de sejour sur un territoire.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations urbaines des campagnes vers les grandes villes
+slug: les-migrations-urbaines-des-campagnes-vers-les-grandes-villes
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un mouvement massif observe dans de nombreux pays en cours de developpement.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'age et du genre dans les profils des populations migrantes
+slug: le-role-de-l-age-et-du-genre-dans-les-profils-des-populations-migrantes
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des caracteristiques qui varient selon le type de migration et la region d'origine.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les camps de refugies et les conditions de vie des populations deplacees
+slug: les-camps-de-refugies-et-les-conditions-de-vie-des-populations-deplacees
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des installations temporaires qui deviennent parfois des lieux de vie de tres longue duree.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du changement climatique dans l'augmentation future des migrations
+slug: le-role-du-changement-climatique-dans-l-augmentation-future-des-migrations
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un facteur croissant qui devrait accentuer les deplacements de population dans les decennies a venir.
+tags: [migrations, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations de retraite vers des regions au climat plus favorable
+slug: les-migrations-de-retraite-vers-des-regions-au-climat-plus-favorable
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un phenomene specifique ou des personnes agees choisissent de s'installer ailleurs apres leur carriere.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des frontieres dans la regulation des mouvements migratoires
+slug: le-role-des-frontieres-dans-la-regulation-des-mouvements-migratoires
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des limites politiques qui encadrent, facilitent ou restreignent selon les cas les deplacements.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations qualifiees et le phenomene de la fuite des cerveaux
+slug: les-migrations-qualifiees-et-le-phenomene-de-la-fuite-des-cerveaux
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un depart de personnes hautement formees qui peut priver leur pays d'origine de competences precieuses.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des organisations internationales dans l'assistance aux populations migrantes
+slug: le-role-des-organisations-internationales-dans-l-assistance-aux-populations-migrantes
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Des institutions qui coordonnent l'aide humanitaire et juridique apportee aux personnes deplacees.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations pendulaires quotidiennes entre domicile et lieu de travail
+slug: les-migrations-pendulaires-quotidiennes-entre-domicile-et-lieu-de-travail
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un deplacement regulier a plus petite echelle qui structure la vie de nombreuses agglomerations.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la perception publique des migrations dans le debat politique contemporain
+slug: le-role-de-la-perception-publique-des-migrations-dans-le-debat-politique-contemporain
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Un sujet souvent sensible qui suscite des positions tres variees selon les contextes nationaux.
+tags: [migrations]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La croissance des megapoles et les defis d'une urbanisation rapide
+slug: la-croissance-des-megapoles-et-les-defis-d-une-urbanisation-rapide
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Un phenomene mondial qui pose des questions majeures d'infrastructure et de services publics.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la planification urbaine dans le developpement organise des villes
+slug: le-role-de-la-planification-urbaine-dans-le-developpement-organise-des-villes
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une demarche qui vise a anticiper les besoins futurs plutot que de subir une croissance non maitrisee.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bidonvilles et les defis specifiques de l'urbanisation informelle
+slug: les-bidonvilles-et-les-defis-specifiques-de-l-urbanisation-informelle
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des quartiers qui se developpent en dehors des cadres de planification officiels.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des transports en commun dans l'organisation des villes modernes
+slug: le-role-des-transports-en-commun-dans-l-organisation-des-villes-modernes
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une infrastructure essentielle pour permettre la mobilite d'une population urbaine croissante.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'etalement urbain et ses consequences sur les territoires environnants
+slug: l-etalement-urbain-et-ses-consequences-sur-les-territoires-environnants
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une expansion progressive des villes qui grignote souvent des terres agricoles ou naturelles.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des espaces verts dans la qualite de vie en milieu urbain
+slug: le-role-des-espaces-verts-dans-la-qualite-de-vie-en-milieu-urbain
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des amenagements qui apportent des benefices multiples pour la sante et le bien-etre des habitants.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les villes intelligentes et l'usage des technologies pour ameliorer la gestion urbaine
+slug: les-villes-intelligentes-et-l-usage-des-technologies-pour-ameliorer-la-gestion-urbaine
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une approche qui utilise des donnees et des capteurs pour optimiser le fonctionnement de la ville.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la densification urbaine comme alternative a l'etalement
+slug: le-role-de-la-densification-urbaine-comme-alternative-a-l-etalement
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une strategie qui vise a construire davantage en hauteur plutot que d'occuper de nouvelles surfaces.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites sociales et spatiales au sein des grandes villes
+slug: les-inegalites-sociales-et-spatiales-au-sein-des-grandes-villes
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une repartition inegale des ressources et des opportunites selon les quartiers d'une meme ville.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du logement social dans les politiques urbaines
+slug: le-role-du-logement-social-dans-les-politiques-urbaines
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une reponse publique aux besoins de logement des populations aux revenus modestes.
+tags: [urbanisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La renovation urbaine des quartiers anciens ou degrades
+slug: la-renovation-urbaine-des-quartiers-anciens-ou-degrades
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des projets qui visent a ameliorer les conditions de vie dans des zones urbaines vieillissantes.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des centres-villes historiques face aux dynamiques d'urbanisation moderne
+slug: le-role-des-centres-villes-historiques-face-aux-dynamiques-d-urbanisation-moderne
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Un patrimoine ancien qui doit souvent s'adapter aux besoins contemporains sans perdre son caractere.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les villes cotieres et les defis specifiques de leur urbanisation
+slug: les-villes-cotieres-et-les-defis-specifiques-de-leur-urbanisation
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des territoires qui combinent attractivite et vulnerabilite face a certains risques naturels.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la gouvernance locale dans la gestion de l'urbanisation
+slug: le-role-de-la-gouvernance-locale-dans-la-gestion-de-l-urbanisation
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des institutions municipales dont les decisions influencent directement le developpement du territoire.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les villes nouvelles et les projets de creation urbaine planifiee
+slug: les-villes-nouvelles-et-les-projets-de-creation-urbaine-planifiee
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des agglomerations concues des le depart selon un plan d'ensemble reflechi.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mixite fonctionnelle dans l'urbanisme contemporain
+slug: le-role-de-la-mixite-fonctionnelle-dans-l-urbanisme-contemporain
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une approche qui melange habitat, commerces et emplois plutot que de les separer strictement.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis de l'approvisionnement en eau et en energie des grandes villes
+slug: les-defis-de-l-approvisionnement-en-eau-et-en-energie-des-grandes-villes
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une logistique complexe necessaire pour repondre aux besoins d'une population urbaine dense.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'urbanisation dans la transformation des paysages agricoles environnants
+slug: le-role-de-l-urbanisation-dans-la-transformation-des-paysages-agricoles-environnants
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une pression fonciere qui reduit progressivement les surfaces disponibles pour l'agriculture.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les villes moyennes et leur role souvent sous-estime dans l'armature urbaine
+slug: les-villes-moyennes-et-leur-role-souvent-sous-estime-dans-l-armature-urbaine
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des agglomerations de taille intermediaire qui jouent un role economique et social important.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la participation citoyenne dans les projets d'amenagement urbain
+slug: le-role-de-la-participation-citoyenne-dans-les-projets-d-amenagement-urbain
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Une implication croissante des habitants dans les decisions qui concernent leur cadre de vie.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis climatiques specifiques des zones urbaines densement peuplees
+slug: les-defis-climatiques-specifiques-des-zones-urbaines-densement-peuplees
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Des phenomenes comme les ilots de chaleur qui affectent particulierement les grandes villes.
+tags: [urbanisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands types de climats et leur repartition sur la planete
+slug: les-grands-types-de-climats-et-leur-repartition-sur-la-planete
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Une classification qui organise les climats selon la temperature et les precipitations.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des courants oceaniques dans la regulation des climats regionaux
+slug: le-role-des-courants-oceaniques-dans-la-regulation-des-climats-regionaux
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Une influence majeure qui explique pourquoi des regions a meme latitude ont des climats differents.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moussons et leur importance pour l'agriculture de nombreuses regions
+slug: les-moussons-et-leur-importance-pour-l-agriculture-de-nombreuses-regions
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Un phenomene climatique regulier dont dependent des millions de personnes pour leurs recoltes.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du relief dans les variations climatiques locales
+slug: le-role-du-relief-dans-les-variations-climatiques-locales
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Une influence directe des montagnes et des vallees sur les temperatures et les precipitations.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones climatiques mediterraneennes et leurs caracteristiques particulieres
+slug: les-zones-climatiques-mediterraneennes-et-leurs-caracteristiques-particulieres
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Un type de climat specifique present dans plusieurs regions du monde eloignees les unes des autres.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la latitude dans la distribution mondiale des climats
+slug: le-role-de-la-latitude-dans-la-distribution-mondiale-des-climats
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Un facteur fondamental qui explique les grandes tendances climatiques a l'echelle du globe.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les climats arides et semi-arides et les strategies d'adaptation des populations locales
+slug: les-climats-arides-et-semi-arides-et-les-strategies-d-adaptation-des-populations-locales
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des conditions difficiles qui ont pousse les populations a developper des methodes ingenieuses.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'altitude dans les variations de temperature observees en montagne
+slug: le-role-de-l-altitude-dans-les-variations-de-temperature-observees-en-montagne
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Une regle generale qui explique pourquoi il fait plus froid en altitude, meme sous les tropiques.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les climats polaires et les conditions de vie extreme qui les caracterisent
+slug: les-climats-polaires-et-les-conditions-de-vie-extreme-qui-les-caracterisent
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des regions aux temperatures tres basses ou peu d'especes parviennent a survivre durablement.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des masses d'air dans la formation des phenomenes meteorologiques
+slug: le-role-des-masses-d-air-dans-la-formation-des-phenomenes-meteorologiques
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des volumes d'air aux caracteristiques distinctes dont les rencontres provoquent divers phenomenes.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les climats tropicaux humides et leur biodiversite exceptionnelle
+slug: les-climats-tropicaux-humides-et-leur-biodiversite-exceptionnelle
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des conditions chaudes et humides qui favorisent une abondance remarquable d'especes vivantes.
+tags: [climatologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la climatologie historique dans la comprehension des changements climatiques actuels
+slug: le-role-de-la-climatologie-historique-dans-la-comprehension-des-changements-climatiques-actuels
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Une etude du passe qui aide a mieux interpreter les evolutions climatiques recentes.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les climats continentaux et leurs ecarts de temperature marques entre saisons
+slug: les-climats-continentaux-et-leurs-ecarts-de-temperature-marques-entre-saisons
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Un type de climat caracterise par des hivers tres froids et des etes tres chauds.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des stations meteorologiques dans la collecte de donnees climatiques
+slug: le-role-des-stations-meteorologiques-dans-la-collecte-de-donnees-climatiques
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Un reseau mondial qui permet de suivre et de comprendre l'evolution du climat sur le long terme.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les microclimats et leurs particularites a tres petite echelle geographique
+slug: les-microclimats-et-leurs-particularites-a-tres-petite-echelle-geographique
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des variations locales significatives qui existent meme au sein d'une meme grande region climatique.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des phenomenes climatiques cycliques dans les variations meteorologiques mondiales
+slug: le-role-des-phenomenes-climatiques-cycliques-dans-les-variations-meteorologiques-mondiales
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des cycles naturels qui influencent temporairement les conditions climatiques a l'echelle globale.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les climats de mousson et leurs consequences sur les cycles agricoles
+slug: les-climats-de-mousson-et-leurs-consequences-sur-les-cycles-agricoles
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Une alternance saisonniere marquee qui structure l'annee agricole de regions entieres.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la vegetation dans la regulation du climat local
+slug: le-role-de-la-vegetation-dans-la-regulation-du-climat-local
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Une influence reciproque ou les plantes modifient legerement les conditions climatiques environnantes.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones de transition climatique et leur sensibilite particuliere aux changements
+slug: les-zones-de-transition-climatique-et-leur-sensibilite-particuliere-aux-changements
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Des regions intermediaires entre deux types de climats, souvent plus vulnerables aux variations.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la classification de Koppen dans l'etude scientifique des climats mondiaux
+slug: le-role-de-la-classification-de-koppen-dans-l-etude-scientifique-des-climats-mondiaux
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Un systeme largement utilise pour categoriser et comparer les climats a travers le monde.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les climats oceaniques et leur douceur relative liee a la proximite de la mer
+slug: les-climats-oceaniques-et-leur-douceur-relative-liee-a-la-proximite-de-la-mer
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Un type de climat tempere par l'influence moderatrice des grandes masses d'eau proches.
+tags: [climatologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle hydrologique et le parcours de l'eau a travers les differents milieux
+slug: le-cycle-hydrologique-et-le-parcours-de-l-eau-a-travers-les-differents-milieux
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un mouvement continu qui relie les oceans, l'atmosphere, les terres et les eaux souterraines.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands fleuves du monde et leur role dans le developpement des civilisations
+slug: les-grands-fleuves-du-monde-et-leur-role-dans-le-developpement-des-civilisations
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Des cours d'eau majeurs qui ont souvent ete a l'origine des premieres grandes societes humaines.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bassins versants dans l'organisation du reseau hydrographique
+slug: le-role-des-bassins-versants-dans-l-organisation-du-reseau-hydrographique
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une zone geographique qui collecte et achemine l'eau vers un meme cours d'eau principal.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lacs et leur formation selon differents processus geologiques
+slug: les-lacs-et-leur-formation-selon-differents-processus-geologiques
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une diversite d'origines qui explique la grande variete de lacs presents sur la planete.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des deltas fluviaux dans la formation de terres fertiles
+slug: le-role-des-deltas-fluviaux-dans-la-formation-de-terres-fertiles
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une zone d'accumulation de sediments qui cree souvent des terres particulierement propices a l'agriculture.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les eaux souterraines et leur role essentiel dans l'approvisionnement en eau douce
+slug: les-eaux-souterraines-et-leur-role-essentiel-dans-l-approvisionnement-en-eau-douce
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une ressource invisible mais capitale pour de nombreuses populations a travers le monde.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des zones humides dans la regulation du cycle de l'eau
+slug: le-role-des-zones-humides-dans-la-regulation-du-cycle-de-l-eau
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Des ecosystemes qui absorbent et restituent progressivement l'eau, limitant les crues et les secheresses.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les estuaires et leur richesse ecologique particuliere
+slug: les-estuaires-et-leur-richesse-ecologique-particuliere
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une zone de rencontre entre eau douce et eau salee qui abrite une biodiversite specifique.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des glaciers dans l'approvisionnement en eau de certaines regions montagneuses
+slug: le-role-des-glaciers-dans-l-approvisionnement-en-eau-de-certaines-regions-montagneuses
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une reserve d'eau naturelle dont la fonte alimente de nombreux cours d'eau en aval.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bassins hydrographiques transfrontaliers et les enjeux de leur gestion partagee
+slug: les-bassins-hydrographiques-transfrontaliers-et-les-enjeux-de-leur-gestion-partagee
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un cours d'eau qui traverse plusieurs pays necessite une cooperation pour une gestion equitable.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'erosion fluviale dans le faconnement des paysages
+slug: le-role-de-l-erosion-fluviale-dans-le-faconnement-des-paysages
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un processus lent mais puissant qui transforme progressivement le relief au fil du temps.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les regimes hydrologiques des fleuves et leurs variations saisonnieres
+slug: les-regimes-hydrologiques-des-fleuves-et-leurs-variations-saisonnieres
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Des fluctuations de debit qui dependent fortement des precipitations et de la fonte des neiges.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des barrages dans la modification artificielle du reseau hydrographique
+slug: le-role-des-barrages-dans-la-modification-artificielle-du-reseau-hydrographique
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une intervention humaine qui transforme profondement le comportement naturel d'un cours d'eau.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fleuves cotiers et leur role dans les ecosystemes littoraux
+slug: les-fleuves-cotiers-et-leur-role-dans-les-ecosystemes-littoraux
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Des cours d'eau plus courts qui rejoignent directement la mer avec un impact ecologique specifique.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cartographie hydrographique dans la gestion des ressources en eau
+slug: le-role-de-la-cartographie-hydrographique-dans-la-gestion-des-ressources-en-eau
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un outil essentiel pour planifier et anticiper les besoins lies a l'eau sur un territoire.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inondations fluviales et les facteurs qui augmentent leur frequence
+slug: les-inondations-fluviales-et-les-facteurs-qui-augmentent-leur-frequence
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un phenomene naturel dont l'ampleur est parfois aggravee par certaines activites humaines.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des aquiferes dans le stockage naturel de l'eau souterraine
+slug: le-role-des-aquiferes-dans-le-stockage-naturel-de-l-eau-souterraine
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Des reservoirs geologiques capables de conserver l'eau pendant de tres longues periodes.
+tags: [hydrographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les confluences de rivieres et leur importance dans le paysage geographique
+slug: les-confluences-de-rivieres-et-leur-importance-dans-le-paysage-geographique
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Le point de rencontre entre deux cours d'eau qui cree souvent des sites remarquables.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la navigation fluviale dans l'histoire des echanges commerciaux
+slug: le-role-de-la-navigation-fluviale-dans-l-histoire-des-echanges-commerciaux
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un moyen de transport ancien qui a longtemps facilite le commerce entre les regions.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sources et l'origine geologique de la formation des cours d'eau
+slug: les-sources-et-l-origine-geologique-de-la-formation-des-cours-d-eau
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Le point de depart d'un fleuve, souvent situe dans une zone de relief ou une nappe souterraine.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du reseau hydrographique dans la biodiversite des ecosystemes d'eau douce
+slug: le-role-du-reseau-hydrographique-dans-la-biodiversite-des-ecosystemes-d-eau-douce
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un ensemble de milieux qui abrite une part significative des especes vivantes connues.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les meandres et la formation sinueuse de certains cours d'eau
+slug: les-meandres-et-la-formation-sinueuse-de-certains-cours-d-eau
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Un phenomene naturel qui resulte de l'erosion progressive des berges par le courant.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du niveau des nappes phreatiques comme indicateur de l'etat des ressources en eau
+slug: le-role-du-niveau-des-nappes-phreatiques-comme-indicateur-de-l-etat-des-ressources-en-eau
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Une mesure regulierement suivie pour anticiper d'eventuelles tensions sur cette ressource.
+tags: [hydrographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des montagnes par le mouvement des plaques tectoniques
+slug: la-formation-des-montagnes-par-le-mouvement-des-plaques-tectoniques
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un processus tres lent qui souleve progressivement de vastes chaines montagneuses.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plaines et leur role dans le developpement de l'agriculture
+slug: les-plaines-et-leur-role-dans-le-developpement-de-l-agriculture
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Des terrains plats particulierement propices a la culture et a l'installation humaine.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'erosion dans la transformation progressive des reliefs
+slug: le-role-de-l-erosion-dans-la-transformation-progressive-des-reliefs
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un processus continu qui use lentement les montagnes et redessine les paysages.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plateaux et leur formation geologique specifique
+slug: les-plateaux-et-leur-formation-geologique-specifique
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une surface elevee et relativement plate qui se distingue nettement des plaines environnantes.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des volcans dans la formation de certains reliefs particuliers
+slug: le-role-des-volcans-dans-la-formation-de-certains-reliefs-particuliers
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une activite geologique qui cree des formes de relief souvent spectaculaires.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vallees et leur formation par l'action de l'eau ou des glaciers
+slug: les-vallees-et-leur-formation-par-l-action-de-l-eau-ou-des-glaciers
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un creux allonge dans le paysage souvent sculpte sur de tres longues periodes de temps.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des failles geologiques dans la formation de certains reliefs accidentes
+slug: le-role-des-failles-geologiques-dans-la-formation-de-certains-reliefs-accidentes
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une fracture dans l'ecorce terrestre qui peut donner naissance a des paysages particuliers.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les canyons et leur formation par l'erosion prolongee des cours d'eau
+slug: les-canyons-et-leur-formation-par-l-erosion-prolongee-des-cours-d-eau
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Des gorges profondes creusees patiemment par le passage continu de l'eau.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des glaciers dans le faconnement des reliefs montagneux
+slug: le-role-des-glaciers-dans-le-faconnement-des-reliefs-montagneux
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une action lente mais puissante qui a sculpte de nombreux paysages montagneux actuels.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les collines et leur formation par des processus geologiques varies
+slug: les-collines-et-leur-formation-par-des-processus-geologiques-varies
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un relief modere qui peut resulter de multiples origines selon les regions du monde.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du relief dans la repartition de la population sur un territoire
+slug: le-role-du-relief-dans-la-repartition-de-la-population-sur-un-territoire
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une influence importante qui explique pourquoi certaines zones sont plus peuplees que d'autres.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands massifs montagneux du monde et leurs caracteristiques distinctes
+slug: les-grands-massifs-montagneux-du-monde-et-leurs-caracteristiques-distinctes
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une diversite de chaines qui refletent des histoires geologiques tres differentes.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du relief dans les choix d'implantation des voies de communication
+slug: le-role-du-relief-dans-les-choix-d-implantation-des-voies-de-communication
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une contrainte majeure qui oriente souvent le trace des routes et des voies ferrees.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les depressions et bassins geologiques et leur formation
+slug: les-depressions-et-bassins-geologiques-et-leur-formation
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une zone en creux qui peut resulter de mouvements tectoniques specifiques.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du relief dans les risques naturels comme les glissements de terrain
+slug: le-role-du-relief-dans-les-risques-naturels-comme-les-glissements-de-terrain
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une topographie particuliere qui peut favoriser certains types de catastrophes naturelles.
+tags: [reliefs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hauts plateaux et les conditions de vie specifiques a haute altitude
+slug: les-hauts-plateaux-et-les-conditions-de-vie-specifiques-a-haute-altitude
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Des territoires ou les populations ont developpe des adaptations particulieres a l'altitude.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la sedimentation dans la formation progressive de certains reliefs
+slug: le-role-de-la-sedimentation-dans-la-formation-progressive-de-certains-reliefs
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Une accumulation lente de materiaux qui finit par creer de nouvelles formes de terrain.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cotes rocheuses et leur formation par l'action des vagues
+slug: les-cotes-rocheuses-et-leur-formation-par-l-action-des-vagues
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un littoral sculpte progressivement par la force continue de la mer.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du relief karstique et la formation de grottes souterraines
+slug: le-role-du-relief-karstique-et-la-formation-de-grottes-souterraines
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un type de paysage particulier cree par la dissolution progressive de certaines roches.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reliefs desertiques et les formes particulieres creees par le vent
+slug: les-reliefs-desertiques-et-les-formes-particulieres-creees-par-le-vent
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un paysage faconne par l'erosion eolienne dans les regions les plus arides.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cartographie topographique dans la representation precise du relief
+slug: le-role-de-la-cartographie-topographique-dans-la-representation-precise-du-relief
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un outil essentiel qui permet de visualiser et de mesurer les variations d'altitude d'un territoire.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reliefs sous-marins et la topographie meconnue des fonds oceaniques
+slug: les-reliefs-sous-marins-et-la-topographie-meconnue-des-fonds-oceaniques
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Un paysage cache qui comporte lui aussi des montagnes, des vallees et des plaines.
+tags: [reliefs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tracé historique des frontieres et les conflits qu'il a parfois engendres
+slug: le-trace-historique-des-frontieres-et-les-conflits-qu-il-a-parfois-engendres
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des lignes qui, une fois etablies, ont souvent des consequences durables sur les relations entre pays.
+tags: [frontieres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres naturelles definies par des elements geographiques
+slug: les-frontieres-naturelles-definies-par-des-elements-geographiques
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des limites qui suivent des montagnes, des fleuves ou d'autres reperes physiques du terrain.
+tags: [frontieres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des frontieres artificielles heritees de la colonisation
+slug: le-role-des-frontieres-artificielles-heritees-de-la-colonisation
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des limites tracees sans toujours tenir compte des realites culturelles ou ethniques locales.
+tags: [frontieres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones frontalieres et les dynamiques economiques specifiques qui s'y developpent
+slug: les-zones-frontalieres-et-les-dynamiques-economiques-specifiques-qui-s-y-developpent
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des territoires ou les echanges transfrontaliers creent souvent une activite economique particuliere.
+tags: [frontieres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle des frontieres et les differents niveaux de surveillance selon les pays
+slug: le-controle-des-frontieres-et-les-differents-niveaux-de-surveillance-selon-les-pays
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des dispositifs variables qui refletent les priorites de securite de chaque nation.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres maritimes et les regles internationales qui les definissent
+slug: les-frontieres-maritimes-et-les-regles-internationales-qui-les-definissent
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Un cadre juridique specifique qui organise les limites en mer entre pays voisins.
+tags: [frontieres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des frontieres dans les conflits territoriaux contemporains
+slug: le-role-des-frontieres-dans-les-conflits-territoriaux-contemporains
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des zones disputees qui restent aujourd'hui encore source de tensions entre certains pays.
+tags: [frontieres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres ouvertes et les espaces de libre circulation entre pays
+slug: les-frontieres-ouvertes-et-les-espaces-de-libre-circulation-entre-pays
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Un modele qui facilite grandement les echanges entre les populations de plusieurs nations.
+tags: [frontieres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des murs et barrieres frontalieres dans les relations internationales contemporaines
+slug: le-role-des-murs-et-barrieres-frontalieres-dans-les-relations-internationales-contemporaines
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des constructions physiques qui materialisent parfois des tensions politiques importantes.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les enclaves et exclaves comme cas particuliers de frontieres complexes
+slug: les-enclaves-et-exclaves-comme-cas-particuliers-de-frontieres-complexes
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des territoires dont la situation geographique cree des situations administratives inhabituelles.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des traites internationaux dans la fixation officielle des frontieres
+slug: le-role-des-traites-internationaux-dans-la-fixation-officielle-des-frontieres
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des accords formels qui etablissent juridiquement les limites reconnues entre plusieurs pays.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres disparues suite a des evolutions politiques majeures
+slug: les-frontieres-disparues-suite-a-des-evolutions-politiques-majeures
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des limites qui ont cesse d'exister a la suite de changements politiques significatifs.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des postes frontaliers dans la gestion des flux de personnes et de marchandises
+slug: le-role-des-postes-frontaliers-dans-la-gestion-des-flux-de-personnes-et-de-marchandises
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des points de passage essentiels a l'organisation des echanges entre pays voisins.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres linguistiques et culturelles qui ne coincident pas toujours avec les frontieres politiques
+slug: les-frontieres-linguistiques-et-culturelles-qui-ne-coincident-pas-toujours-avec-les-frontieres-politiques
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Un decalage frequent entre les limites administratives et les realites culturelles du terrain.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des zones demilitarisees le long de certaines frontieres sensibles
+slug: le-role-des-zones-demilitarisees-le-long-de-certaines-frontieres-sensibles
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des espaces tampons destines a reduire les risques de conflit direct entre deux pays.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres en montagne et les defis specifiques de leur delimitation
+slug: les-frontieres-en-montagne-et-les-defis-specifiques-de-leur-delimitation
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Un terrain difficile qui complique parfois le trace precis d'une limite internationale.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des organisations internationales dans la mediation des differends frontaliers
+slug: le-role-des-organisations-internationales-dans-la-mediation-des-differends-frontaliers
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des institutions qui aident a trouver des solutions pacifiques aux desaccords territoriaux.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres et la question de la double nationalite pour les populations frontalieres
+slug: les-frontieres-et-la-question-de-la-double-nationalite-pour-les-populations-frontalieres
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Une situation particuliere qui concerne les personnes vivant a proximite immediate d'une limite nationale.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des frontieres dans l'organisation des reseaux de transport internationaux
+slug: le-role-des-frontieres-dans-l-organisation-des-reseaux-de-transport-internationaux
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Une contrainte administrative qui influence directement le trace des grandes infrastructures.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontieres contestees et les mecanismes de resolution pacifique des litiges
+slug: les-frontieres-contestees-et-les-mecanismes-de-resolution-pacifique-des-litiges
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Des procedures diplomatiques et juridiques qui visent a eviter le recours a la force.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geographie physique dans la stabilite ou l'instabilite d'une frontiere
+slug: le-role-de-la-geographie-physique-dans-la-stabilite-ou-l-instabilite-d-une-frontiere
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Un terrain qui peut soit faciliter soit compliquer le maintien d'une limite durable entre pays.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les travailleurs transfrontaliers et leur role dans l'economie des regions limitrophes
+slug: les-travailleurs-transfrontaliers-et-leur-role-dans-l-economie-des-regions-limitrophes
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Une population qui traverse quotidiennement une frontiere pour se rendre a son emploi.
+tags: [frontieres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle geopolitique des ressources petrolieres a l'echelle mondiale
+slug: le-controle-geopolitique-des-ressources-petrolieres-a-l-echelle-mondiale
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Un enjeu strategique majeur qui influence fortement les relations internationales.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources en eau douce et les tensions geopolitiques qu'elles peuvent generer
+slug: les-ressources-en-eau-douce-et-les-tensions-geopolitiques-qu-elles-peuvent-generer
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une ressource vitale et parfois rare qui peut devenir source de conflit entre pays voisins.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des terres rares dans les strategies industrielles et geopolitiques mondiales
+slug: le-role-des-terres-rares-dans-les-strategies-industrielles-et-geopolitiques-mondiales
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Des metaux essentiels a de nombreuses technologies modernes, concentres dans peu de pays.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources minieres et leur role dans le developpement economique des pays producteurs
+slug: les-ressources-minieres-et-leur-role-dans-le-developpement-economique-des-pays-producteurs
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une richesse naturelle qui peut representer une opportunite mais aussi un defi de gouvernance.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle des ressources agricoles et les enjeux de securite alimentaire mondiale
+slug: le-controle-des-ressources-agricoles-et-les-enjeux-de-securite-alimentaire-mondiale
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une preoccupation croissante liee a la capacite de chaque region a nourrir sa population.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources halieutiques et les tensions liees a leur exploitation dans les eaux internationales
+slug: les-ressources-halieutiques-et-les-tensions-liees-a-leur-exploitation-dans-les-eaux-internationales
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Un enjeu de partage qui concerne des ressources marines parfois surexploitees.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ressources energetiques renouvelables dans les nouvelles dynamiques geopolitiques
+slug: le-role-des-ressources-energetiques-renouvelables-dans-les-nouvelles-dynamiques-geopolitiques
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une transformation en cours qui modifie progressivement les equilibres de pouvoir traditionnels.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources forestieres et les enjeux de leur exploitation durable
+slug: les-ressources-forestieres-et-les-enjeux-de-leur-exploitation-durable
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une richesse naturelle qui souleve des questions a la fois economiques et environnementales.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle geopolitique des gisements de gaz naturel
+slug: le-controle-geopolitique-des-gisements-de-gaz-naturel
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une ressource strategique dont la distribution et le transport influencent les relations entre pays.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources en metaux precieux et leur role historique dans les relations internationales
+slug: les-ressources-en-metaux-precieux-et-leur-role-historique-dans-les-relations-internationales
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une richesse recherchee depuis des siecles qui a souvent influence les explorations et les conquetes.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ressources en uranium dans les strategies energetiques nationales
+slug: le-role-des-ressources-en-uranium-dans-les-strategies-energetiques-nationales
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une matiere premiere strategique liee au developpement de l'energie nucleaire.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les conflits lies a l'exploitation des ressources naturelles dans certaines regions du monde
+slug: les-conflits-lies-a-l-exploitation-des-ressources-naturelles-dans-certaines-regions-du-monde
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Des tensions qui peuvent degenerer lorsque le partage d'une ressource devient source de rivalite.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ressources arctiques dans les nouvelles tensions geopolitiques regionales
+slug: le-role-des-ressources-arctiques-dans-les-nouvelles-tensions-geopolitiques-regionales
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une region qui suscite un interet croissant a mesure que la fonte des glaces facilite l'acces aux ressources.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources en sable et gravier et leur importance souvent sous-estimee
+slug: les-ressources-en-sable-et-gravier-et-leur-importance-souvent-sous-estimee
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Des materiaux essentiels a la construction dont l'extraction pose des defis environnementaux croissants.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des accords internationaux dans la gestion partagee des ressources naturelles
+slug: le-role-des-accords-internationaux-dans-la-gestion-partagee-des-ressources-naturelles
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Des cadres de cooperation qui visent a eviter les conflits autour de ressources communes.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources en lithium et leur importance croissante pour les technologies modernes
+slug: les-ressources-en-lithium-et-leur-importance-croissante-pour-les-technologies-modernes
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Un materiau devenu strategique avec le developpement des batteries pour vehicules electriques.
+tags: [ressources, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des multinationales dans l'exploitation des ressources naturelles des pays en developpement
+slug: le-role-des-multinationales-dans-l-exploitation-des-ressources-naturelles-des-pays-en-developpement
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une presence economique qui souleve des questions sur le partage equitable des benefices.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources genetiques et la question de leur appropriation internationale
+slug: les-ressources-genetiques-et-la-question-de-leur-appropriation-internationale
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Un enjeu emergent lie a la biodiversite et a son exploitation potentielle a des fins commerciales.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la dependance aux importations de ressources dans la vulnerabilite economique d'un pays
+slug: le-role-de-la-dependance-aux-importations-de-ressources-dans-la-vulnerabilite-economique-d-un-pays
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une fragilite strategique qui pousse certains pays a diversifier leurs sources d'approvisionnement.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources phosphatees et leur role essentiel dans la production agricole mondiale
+slug: les-ressources-phosphatees-et-leur-role-essentiel-dans-la-production-agricole-mondiale
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Une matiere premiere strategique indispensable a la fabrication de nombreux engrais.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reserves strategiques nationales de ressources critiques
+slug: le-role-des-reserves-strategiques-nationales-de-ressources-critiques
+categoryPath: geographie-et-territoires/geopolitique/ressources
+summary: >
+  Des stocks constitues par certains pays pour se premunir contre d'eventuelles ruptures d'approvisionnement.
+tags: [ressources]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role strategique des detroits dans le commerce maritime mondial
+slug: le-role-strategique-des-detroits-dans-le-commerce-maritime-mondial
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des passages etroits qui concentrent une part considerable des echanges commerciaux internationaux.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands canaux artificiels et leur importance pour le commerce international
+slug: les-grands-canaux-artificiels-et-leur-importance-pour-le-commerce-international
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des infrastructures construites par l'homme qui raccourcissent considerablement certaines routes maritimes.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle geopolitique des routes maritimes commerciales majeures
+slug: le-controle-geopolitique-des-routes-maritimes-commerciales-majeures
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Un enjeu de securite et d'influence pour les pays situes le long de ces passages strategiques.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les routes terrestres historiques et leur role dans les echanges entre civilisations
+slug: les-routes-terrestres-historiques-et-leur-role-dans-les-echanges-entre-civilisations
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  D'anciens itineraires qui ont facilite pendant des siecles le commerce entre regions eloignees.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ports strategiques dans le controle des flux commerciaux mondiaux
+slug: le-role-des-ports-strategiques-dans-le-controle-des-flux-commerciaux-mondiaux
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des points de passage essentiels qui concentrent une part importante du trafic maritime mondial.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nouvelles routes commerciales ouvertes par la fonte des glaces arctiques
+slug: les-nouvelles-routes-commerciales-ouvertes-par-la-fonte-des-glaces-arctiques
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Une transformation recente qui pourrait modifier durablement les itineraires maritimes mondiaux.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des detroits dans les tensions geopolitiques regionales
+slug: le-role-des-detroits-dans-les-tensions-geopolitiques-regionales
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des passages strategiques dont le controle peut devenir source de rivalites entre plusieurs pays.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grandes routes aeriennes commerciales et leur organisation mondiale
+slug: les-grandes-routes-aeriennes-commerciales-et-leur-organisation-mondiale
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Un reseau de trajets qui structure les echanges de personnes et de marchandises par voie aerienne.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des infrastructures portuaires dans la competitivite economique d'un pays
+slug: le-role-des-infrastructures-portuaires-dans-la-competitivite-economique-d-un-pays
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Un equipement essentiel qui facilite ou au contraire freine le commerce exterieur d'une nation.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les routes commerciales historiques comme la route de la soie et leur heritage
+slug: les-routes-commerciales-historiques-comme-la-route-de-la-soie-et-leur-heritage
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  D'anciens itineraires legendaires qui ont profondement marque les echanges culturels et economiques.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la piraterie maritime dans certaines routes commerciales sensibles
+slug: le-role-de-la-piraterie-maritime-dans-certaines-routes-commerciales-sensibles
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Une menace persistante qui necessite des mesures de securite specifiques dans certaines zones.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands projets d'infrastructure visant a creer de nouvelles routes commerciales
+slug: les-grands-projets-d-infrastructure-visant-a-creer-de-nouvelles-routes-commerciales
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des investissements majeurs qui cherchent a redessiner les circuits d'echanges mondiaux.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des accords internationaux dans la garantie de la liberte de navigation
+slug: le-role-des-accords-internationaux-dans-la-garantie-de-la-liberte-de-navigation
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Un cadre juridique essentiel qui protege le droit de circuler librement sur certaines voies maritimes.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les routes ferroviaires transcontinentales et leur role dans le commerce terrestre
+slug: les-routes-ferroviaires-transcontinentales-et-leur-role-dans-le-commerce-terrestre
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des liaisons de grande distance qui offrent une alternative au transport maritime ou aerien.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des zones economiques speciales situees pres des grandes routes commerciales
+slug: le-role-des-zones-economiques-speciales-situees-pres-des-grandes-routes-commerciales
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des territoires amenages pour profiter directement de leur position sur un axe d'echange majeur.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les routes fluviales et leur importance pour le commerce interieur de certains pays
+slug: les-routes-fluviales-et-leur-importance-pour-le-commerce-interieur-de-certains-pays
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Un reseau navigable qui facilite le transport de marchandises loin des cotes maritimes.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des alliances internationales dans la securisation des routes commerciales strategiques
+slug: le-role-des-alliances-internationales-dans-la-securisation-des-routes-commerciales-strategiques
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Une cooperation entre pays qui vise a proteger conjointement des voies d'echange essentielles.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les detroits historiques et les conflits qui ont marque leur controle au fil des siecles
+slug: les-detroits-historiques-et-les-conflits-qui-ont-marque-leur-controle-au-fil-des-siecles
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Des passages qui ont souvent ete au coeur de rivalites majeures entre puissances.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des routes commerciales dans la diffusion des cultures et des idees
+slug: le-role-des-routes-commerciales-dans-la-diffusion-des-cultures-et-des-idees
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Un echange qui, au-dela des marchandises, a favorise la circulation de connaissances et de pratiques.
+tags: [routes-et-detroits, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nouvelles routes logistiques liees au developpement du commerce en ligne mondial
+slug: les-nouvelles-routes-logistiques-liees-au-developpement-du-commerce-en-ligne-mondial
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Une transformation recente qui modifie les besoins en matiere d'acheminement rapide des marchandises.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la surveillance satellite dans le suivi du trafic sur les grandes routes maritimes
+slug: le-role-de-la-surveillance-satellite-dans-le-suivi-du-trafic-sur-les-grandes-routes-maritimes
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Une technologie moderne qui permet une gestion plus fine et plus securisee du commerce mondial.
+tags: [routes-et-detroits]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

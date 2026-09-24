@@ -6263,3 +6263,2883 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Le principe general de l'apprentissage par renforcement
+slug: le-principe-general-de-l-apprentissage-par-renforcement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une methode ou un agent apprend a agir en recevant des recompenses ou des penalites selon ses choix.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la recompense dans l'orientation du comportement d'un agent artificiel
+slug: le-role-de-la-recompense-dans-l-orientation-du-comportement-d-un-agent-artificiel
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Un signal qui guide progressivement l'agent vers les actions les plus avantageuses.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les jeux video comme terrain d'entrainement privilegie pour l'apprentissage par renforcement
+slug: les-jeux-video-comme-terrain-d-entrainement-privilegie-pour-l-apprentissage-par-renforcement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Un environnement controle et repetable particulierement adapte au test de ces methodes.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compromis entre exploration et exploitation dans l'apprentissage par renforcement
+slug: le-compromis-entre-exploration-et-exploitation-dans-l-apprentissage-par-renforcement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Un dilemme fondamental entre tenter de nouvelles actions et exploiter les strategies deja connues.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la fonction de valeur dans l'estimation des benefices futurs d'une action
+slug: le-role-de-la-fonction-de-valeur-dans-l-estimation-des-benefices-futurs-d-une-action
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Un outil mathematique qui aide l'agent a evaluer l'interet a long terme de ses choix.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entrainement progressif de robots physiques par essais et recompenses
+slug: l-entrainement-progressif-de-robots-physiques-par-essais-et-recompenses
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une application concrete ou un robot apprend progressivement a accomplir des taches physiques.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des simulations dans l'entrainement securise des agents d'apprentissage par renforcement
+slug: le-role-des-simulations-dans-l-entrainement-securise-des-agents-d-apprentissage-par-renforcement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Un environnement virtuel qui permet de s'entrainer sans risque avant un deploiement reel.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les victoires historiques de l'intelligence artificielle dans des jeux de strategie complexes
+slug: les-victoires-historiques-de-l-intelligence-artificielle-dans-des-jeux-de-strategie-complexes
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Des exploits marquants qui ont demontre publiquement la puissance de ces methodes d'apprentissage.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la politique dans la strategie de decision d'un agent entraine par renforcement
+slug: le-role-de-la-politique-dans-la-strategie-de-decision-d-un-agent-entraine-par-renforcement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une regle de comportement qui determine quelle action choisir selon la situation rencontree.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage par renforcement multi-agents et la cooperation entre plusieurs systemes
+slug: l-apprentissage-par-renforcement-multi-agents-et-la-cooperation-entre-plusieurs-systemes
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une extension complexe ou plusieurs agents interagissent et doivent parfois collaborer entre eux.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'apprentissage par renforcement dans l'optimisation des systemes de recommandation
+slug: le-role-de-l-apprentissage-par-renforcement-dans-l-optimisation-des-systemes-de-recommandation
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une application qui ajuste progressivement les suggestions selon les reactions de l'utilisateur.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis de la conception d'une fonction de recompense adaptee a un probleme complexe
+slug: les-defis-de-la-conception-d-une-fonction-de-recompense-adaptee-a-un-probleme-complexe
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une difficulte pratique majeure car une recompense mal concue peut mener a des comportements indesirables.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage par renforcement applique a la gestion de reseaux electriques
+slug: l-apprentissage-par-renforcement-applique-a-la-gestion-de-reseaux-electriques
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une application qui optimise dynamiquement la distribution d'energie selon la demande.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reseaux de neurones dans l'apprentissage par renforcement profond
+slug: le-role-des-reseaux-de-neurones-dans-l-apprentissage-par-renforcement-profond
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une combinaison technique qui a permis des progres majeurs dans la resolution de problemes complexes.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage par renforcement et son role dans l'optimisation de la conduite autonome
+slug: l-apprentissage-par-renforcement-et-son-role-dans-l-optimisation-de-la-conduite-autonome
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une application prometteuse qui aide un vehicule a ameliorer progressivement ses decisions de conduite.
+tags: [apprentissage-par-renforcement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'apprentissage par renforcement dans la finance algorithmique
+slug: le-role-de-l-apprentissage-par-renforcement-dans-la-finance-algorithmique
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une application qui ajuste des strategies d'investissement en fonction des resultats observes.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites actuelles de l'apprentissage par renforcement face a des problemes du monde reel
+slug: les-limites-actuelles-de-l-apprentissage-par-renforcement-face-a-des-problemes-du-monde-reel
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Des difficultes pratiques qui compliquent le passage d'un environnement simule a une application concrete.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage par renforcement inverse et la deduction d'objectifs a partir de comportements observes
+slug: l-apprentissage-par-renforcement-inverse-et-la-deduction-d-objectifs-a-partir-de-comportements-observes
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une approche originale qui cherche a comprendre les intentions plutot que de les imposer directement.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la patience et du temps d'entrainement necessaire en apprentissage par renforcement
+slug: le-role-de-la-patience-et-du-temps-d-entrainement-necessaire-en-apprentissage-par-renforcement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une contrainte pratique importante qui peut necessiter de tres nombreuses tentatives avant reussite.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage par renforcement applique a l'optimisation de la logistique et des chaines d'approvisionnement
+slug: l-apprentissage-par-renforcement-applique-a-l-optimisation-de-la-logistique-et-des-chaines-d-approvisionnement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une application concrete qui ameliore progressivement l'efficacite des decisions logistiques.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des benchmarks standardises dans l'evaluation des progres en apprentissage par renforcement
+slug: le-role-des-benchmarks-standardises-dans-l-evaluation-des-progres-en-apprentissage-par-renforcement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Des environnements de test communs qui permettent de comparer objectivement differentes methodes.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage par renforcement et les questions ethiques liees a son deploiement
+slug: l-apprentissage-par-renforcement-et-les-questions-ethiques-liees-a-son-deploiement
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une reflexion necessaire sur les consequences de systemes qui apprennent de maniere autonome.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la generalisation dans la capacite d'un agent entraine a s'adapter a de nouvelles situations
+slug: le-role-de-la-generalisation-dans-la-capacite-d-un-agent-entraine-a-s-adapter-a-de-nouvelles-situations
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
+summary: >
+  Une qualite essentielle qui distingue un apprentissage superficiel d'une comprehension plus profonde.
+tags: [apprentissage-par-renforcement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general des reseaux de neurones artificiels
+slug: le-principe-general-des-reseaux-de-neurones-artificiels
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une architecture inspiree tres librement du fonctionnement du cerveau, organisee en couches de traitement.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des couches cachees dans le fonctionnement d'un reseau de neurones profond
+slug: le-role-des-couches-cachees-dans-le-fonctionnement-d-un-reseau-de-neurones-profond
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Des etapes intermediaires qui permettent au reseau d'extraire progressivement des informations complexes.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage profond applique a la reconnaissance d'images
+slug: l-apprentissage-profond-applique-a-la-reconnaissance-d-images
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une application majeure qui a considerablement ameliore la capacite des machines a identifier des objets visuels.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reseaux de neurones convolutifs dans l'analyse d'images
+slug: le-role-des-reseaux-de-neurones-convolutifs-dans-l-analyse-d-images
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une architecture specifique particulierement efficace pour traiter des donnees visuelles.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entrainement d'un reseau de neurones et le principe de la retropropagation
+slug: l-entrainement-d-un-reseau-de-neurones-et-le-principe-de-la-retropropagation
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une methode fondamentale qui ajuste progressivement le reseau en fonction de ses erreurs.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reseaux de neurones recurrents dans le traitement de sequences
+slug: le-role-des-reseaux-de-neurones-recurrents-dans-le-traitement-de-sequences
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une architecture adaptee aux donnees ordonnees dans le temps, comme le texte ou la parole.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage profond et son role dans les avancees recentes de la reconnaissance vocale
+slug: l-apprentissage-profond-et-son-role-dans-les-avancees-recentes-de-la-reconnaissance-vocale
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une amelioration significative qui a rendu les assistants vocaux bien plus fiables qu'auparavant.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la quantite de donnees necessaire pour entrainer efficacement un reseau profond
+slug: le-role-de-la-quantite-de-donnees-necessaire-pour-entrainer-efficacement-un-reseau-profond
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une exigence importante car ces methodes necessitent generalement de tres grands volumes d'exemples.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux generatifs antagonistes et leur principe de competition entre deux modeles
+slug: les-reseaux-generatifs-antagonistes-et-leur-principe-de-competition-entre-deux-modeles
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une approche originale ou deux reseaux s'ameliorent mutuellement a travers une competition constante.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la puissance de calcul dans les progres recents de l'apprentissage profond
+slug: le-role-de-la-puissance-de-calcul-dans-les-progres-recents-de-l-apprentissage-profond
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Un facteur determinant qui a permis d'entrainer des modeles de plus en plus performants.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage profond applique a la traduction automatique de langues
+slug: l-apprentissage-profond-applique-a-la-traduction-automatique-de-langues
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une application qui a considerablement ameliore la qualite des traductions produites par ordinateur.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du surapprentissage et les techniques pour l'eviter dans un reseau profond
+slug: le-role-du-surapprentissage-et-les-techniques-pour-l-eviter-dans-un-reseau-profond
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Un probleme frequent ou le modele memorise les exemples plutot que d'apprendre a generaliser.
+tags: [apprentissage-profond]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux de neurones profonds appliques au diagnostic medical par imagerie
+slug: les-reseaux-de-neurones-profonds-appliques-au-diagnostic-medical-par-imagerie
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une application prometteuse qui aide les professionnels de sante a detecter certaines anomalies.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du transfert d'apprentissage dans la reutilisation de modeles deja entraines
+slug: le-role-du-transfert-d-apprentissage-dans-la-reutilisation-de-modeles-deja-entraines
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une technique efficace qui permet d'adapter un modele existant a une nouvelle tache sans tout reapprendre.
+tags: [apprentissage-profond]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage profond et la generation de contenu artificiel comme des images ou des textes
+slug: l-apprentissage-profond-et-la-generation-de-contenu-artificiel-comme-des-images-ou-des-textes
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une capacite recente et impressionnante qui souleve aussi de nouvelles questions ethiques.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la fonction d'activation dans le comportement des neurones artificiels
+slug: le-role-de-la-fonction-d-activation-dans-le-comportement-des-neurones-artificiels
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Un element technique qui determine comment un neurone reagit aux signaux qu'il recoit.
+tags: [apprentissage-profond]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux de neurones profonds dans les systemes de recommandation en ligne
+slug: les-reseaux-de-neurones-profonds-dans-les-systemes-de-recommandation-en-ligne
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une application discrete mais tres repandue qui personnalise les suggestions faites aux utilisateurs.
+tags: [apprentissage-profond]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la consommation energetique dans l'entrainement des grands modeles d'apprentissage profond
+slug: le-role-de-la-consommation-energetique-dans-l-entrainement-des-grands-modeles-d-apprentissage-profond
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Un enjeu environnemental croissant lie a la puissance de calcul necessaire a ces methodes.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'apprentissage profond applique a la detection de fraudes financieres
+slug: l-apprentissage-profond-applique-a-la-detection-de-fraudes-financieres
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une utilisation concrete qui identifie automatiquement des comportements suspects dans de grands volumes de transactions.
+tags: [apprentissage-profond]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des architectures profondes dans la comprehension du langage naturel
+slug: le-role-des-architectures-profondes-dans-la-comprehension-du-langage-naturel
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Une avancee majeure qui a considerablement ameliore la capacite des machines a traiter le texte.
+tags: [apprentissage-profond, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la qualite des donnees dans la performance d'un modele d'apprentissage automatique
+slug: le-role-de-la-qualite-des-donnees-dans-la-performance-d-un-modele-d-apprentissage-automatique
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un facteur determinant car un modele ne peut pas depasser la qualite de ce qu'il apprend.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La separation des donnees en ensembles d'entrainement et de test
+slug: la-separation-des-donnees-en-ensembles-d-entrainement-et-de-test
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une pratique essentielle qui permet d'evaluer honnetement la capacite reelle d'un modele.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'annotation manuelle dans la preparation des donnees d'entrainement
+slug: le-role-de-l-annotation-manuelle-dans-la-preparation-des-donnees-d-entrainement
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un travail souvent long et couteux mais indispensable pour de nombreux types d'apprentissage.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais presents dans les donnees et leur impact sur le comportement d'un modele
+slug: les-biais-presents-dans-les-donnees-et-leur-impact-sur-le-comportement-d-un-modele
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un risque majeur ou un modele reproduit ou amplifie des desequilibres presents dans ses exemples.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du nettoyage des donnees avant l'entrainement d'un modele d'apprentissage automatique
+slug: le-role-du-nettoyage-des-donnees-avant-l-entrainement-d-un-modele-d-apprentissage-automatique
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une etape preparatoire necessaire pour eliminer les erreurs et incoherences des donnees brutes.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'augmentation de donnees comme technique pour enrichir artificiellement un jeu d'entrainement limite
+slug: l-augmentation-de-donnees-comme-technique-pour-enrichir-artificiellement-un-jeu-d-entrainement-limite
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une methode qui cree des variations supplementaires a partir des donnees existantes.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la validation croisee dans l'evaluation fiable d'un modele d'apprentissage
+slug: le-role-de-la-validation-croisee-dans-l-evaluation-fiable-d-un-modele-d-apprentissage
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une methode statistique qui teste un modele sur plusieurs decoupages differents des donnees disponibles.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les donnees synthetiques generees artificiellement pour l'entrainement de modeles
+slug: les-donnees-synthetiques-generees-artificiellement-pour-l-entrainement-de-modeles
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une alternative utile lorsque les donnees reelles sont rares, sensibles ou couteuses a obtenir.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du surapprentissage et du sous-apprentissage dans la qualite d'un modele entraine
+slug: le-role-du-surapprentissage-et-du-sous-apprentissage-dans-la-qualite-d-un-modele-entraine
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Deux problemes opposes qui traduisent chacun un mauvais equilibre entre le modele et ses donnees.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La collecte ethique de donnees et le respect du consentement des personnes concernees
+slug: la-collecte-ethique-de-donnees-et-le-respect-du-consentement-des-personnes-concernees
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un enjeu croissant lie a l'origine et a l'usage responsable des informations utilisees pour entrainer un modele.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la diversite des donnees dans la capacite de generalisation d'un modele
+slug: le-role-de-la-diversite-des-donnees-dans-la-capacite-de-generalisation-d-un-modele
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une richesse d'exemples varies qui aide le modele a mieux fonctionner face a des situations nouvelles.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les jeux de donnees publics et leur role dans la recherche en intelligence artificielle
+slug: les-jeux-de-donnees-publics-et-leur-role-dans-la-recherche-en-intelligence-artificielle
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Des ressources partagees qui permettent a la communaute scientifique de comparer differentes approches.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du pretraitement des donnees dans la preparation avant l'entrainement d'un modele
+slug: le-role-du-pretraitement-des-donnees-dans-la-preparation-avant-l-entrainement-d-un-modele
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une etape technique qui met les donnees dans un format adapte a l'apprentissage automatique.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les donnees deséquilibrees et les techniques pour compenser leur repartition inegale
+slug: les-donnees-desequilibrees-et-les-techniques-pour-compenser-leur-repartition-inegale
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un defi frequent lorsque certaines categories sont beaucoup moins representees que d'autres.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'etiquetage collaboratif dans la constitution de grands jeux de donnees
+slug: le-role-de-l-etiquetage-collaboratif-dans-la-constitution-de-grands-jeux-de-donnees
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une approche qui mobilise de nombreuses personnes pour annoter efficacement de vastes ensembles d'informations.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les donnees personnelles et les reglementations encadrant leur usage pour l'entrainement de modeles
+slug: les-donnees-personnelles-et-les-reglementations-encadrant-leur-usage-pour-l-entrainement-de-modeles
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un cadre juridique de plus en plus strict qui protege les informations sensibles des individus.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du volume de donnees necessaire selon la complexite du modele a entrainer
+slug: le-role-du-volume-de-donnees-necessaire-selon-la-complexite-du-modele-a-entrainer
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une relation generale ou des modeles plus complexes necessitent habituellement davantage d'exemples.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les donnees d'entrainement obsoletes et le besoin de reactualisation reguliere d'un modele
+slug: les-donnees-d-entrainement-obsoletes-et-le-besoin-de-reactualisation-reguliere-d-un-modele
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un enjeu de maintenance qui garantit que le modele reste pertinent face a un monde qui change.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des metriques d'evaluation dans la mesure objective de la performance d'un modele
+slug: le-role-des-metriques-d-evaluation-dans-la-mesure-objective-de-la-performance-d-un-modele
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Des indicateurs precis qui permettent de comparer differentes approches selon des criteres communs.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La provenance des donnees et les questions de propriete intellectuelle qu'elle souleve
+slug: la-provenance-des-donnees-et-les-questions-de-propriete-intellectuelle-qu-elle-souleve
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Un debat actuel sur les droits associes aux contenus utilises pour entrainer des modeles d'intelligence artificielle.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du reequilibrage des donnees dans la reduction des biais discriminatoires d'un modele
+slug: le-role-du-reequilibrage-des-donnees-dans-la-reduction-des-biais-discriminatoires-d-un-modele
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une technique corrective qui vise a limiter la reproduction d'inegalites presentes dans les exemples.
+tags: [donnees-et-entrainement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couts economiques lies a la collecte et a la preparation des donnees d'entrainement
+slug: les-couts-economiques-lies-a-la-collecte-et-a-la-preparation-des-donnees-d-entrainement
+categoryPath: intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement
+summary: >
+  Une depense souvent sous-estimee mais qui represente une part importante du developpement d'un modele.
+tags: [donnees-et-entrainement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais de genre dans les systemes d'intelligence artificielle
+slug: les-biais-de-genre-dans-les-systemes-d-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une reproduction indesirable de stereotypes existants deja presents dans les donnees d'apprentissage.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais raciaux dans les technologies de reconnaissance faciale
+slug: les-biais-raciaux-dans-les-technologies-de-reconnaissance-faciale
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un probleme documente ou certains systemes se montrent moins fiables selon l'origine des personnes analysees.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des donnees historiques dans la reproduction de discriminations passees par un modele
+slug: le-role-des-donnees-historiques-dans-la-reproduction-de-discriminations-passees-par-un-modele
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un risque majeur ou une intelligence artificielle apprend involontairement des inegalites du passe.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais dans les systemes de recrutement automatise
+slug: les-biais-dans-les-systemes-de-recrutement-automatise
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un enjeu concret ou un outil d'intelligence artificielle peut desavantager certains candidats sans intention explicite.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la diversite des equipes de developpement dans la reduction des biais algorithmiques
+slug: le-role-de-la-diversite-des-equipes-de-developpement-dans-la-reduction-des-biais-algorithmiques
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une piste de solution qui vise a integrer davantage de perspectives des la conception d'un systeme.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais dans les systemes de credit et d'evaluation financiere automatisee
+slug: les-biais-dans-les-systemes-de-credit-et-d-evaluation-financiere-automatisee
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un risque qui peut affecter injustement l'acces a des services financiers pour certaines populations.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'audit algorithmique dans la detection des biais caches d'un modele
+slug: le-role-de-l-audit-algorithmique-dans-la-detection-des-biais-caches-d-un-modele
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une verification independante qui examine le comportement d'un systeme pour reperer d'eventuelles inegalites.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais linguistiques dans les modeles de traitement du langage naturel
+slug: les-biais-linguistiques-dans-les-modeles-de-traitement-du-langage-naturel
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une performance parfois inegale d'un modele selon la langue ou le dialecte utilise par l'utilisateur.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la transparence algorithmique dans l'identification des biais existants
+slug: le-role-de-la-transparence-algorithmique-dans-l-identification-des-biais-existants
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une exigence croissante qui permet de mieux comprendre pourquoi un systeme prend certaines decisions.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais dans les systemes de justice predictive et leur impact sur les decisions judiciaires
+slug: les-biais-dans-les-systemes-de-justice-predictive-et-leur-impact-sur-les-decisions-judiciaires
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un enjeu particulierement sensible ou une erreur peut avoir des consequences graves pour une personne.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tests statistiques dans la mesure objective des biais d'un modele
+slug: le-role-des-tests-statistiques-dans-la-mesure-objective-des-biais-d-un-modele
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Des methodes rigoureuses qui permettent de quantifier precisement des inegalites de traitement.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais lies a l'age dans les systemes automatises de decision
+slug: les-biais-lies-a-l-age-dans-les-systemes-automatises-de-decision
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un phenomene moins etudie mais reel ou certains groupes d'age sont traites differemment par un modele.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des correctifs techniques dans la reduction des biais apres leur detection
+slug: le-role-des-correctifs-techniques-dans-la-reduction-des-biais-apres-leur-detection
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Des ajustements specifiques appliques a un modele pour limiter des inegalites identifiees.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais geographiques dans les modeles entraines principalement sur certaines regions du monde
+slug: les-biais-geographiques-dans-les-modeles-entraines-principalement-sur-certaines-regions-du-monde
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un desequilibre de representation qui peut affecter la pertinence d'un modele selon le contexte culturel.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des associations de defense des droits dans la denonciation des biais algorithmiques
+slug: le-role-des-associations-de-defense-des-droits-dans-la-denonciation-des-biais-algorithmiques
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une vigilance citoyenne complementaire aux controles techniques et reglementaires.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais dans les systemes de reconnaissance vocale selon les accents et les langues
+slug: les-biais-dans-les-systemes-de-reconnaissance-vocale-selon-les-accents-et-les-langues
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une performance variable qui peut desavantager certains locuteurs par rapport a d'autres.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la reglementation dans l'obligation de tester les biais avant le deploiement d'un systeme
+slug: le-role-de-la-reglementation-dans-l-obligation-de-tester-les-biais-avant-le-deploiement-d-un-systeme
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Des exigences legales croissantes qui responsabilisent davantage les concepteurs de technologies.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais de confirmation amplifies par les systemes de recommandation personnalisee
+slug: les-biais-de-confirmation-amplifies-par-les-systemes-de-recommandation-personnalisee
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un phenomene ou un algorithme renforce des opinions deja existantes plutot que d'ouvrir a la diversite.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'education du public dans la comprehension des biais presents dans l'intelligence artificielle
+slug: le-role-de-l-education-du-public-dans-la-comprehension-des-biais-presents-dans-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une sensibilisation necessaire pour que les utilisateurs restent critiques face aux resultats produits.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais dans les systemes medicaux automatises selon les populations etudiees
+slug: les-biais-dans-les-systemes-medicaux-automatises-selon-les-populations-etudiees
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un risque specifique lie a un manque de diversite dans les donnees medicales utilisees pour l'entrainement.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la recherche academique dans l'avancement des connaissances sur les biais algorithmiques
+slug: le-role-de-la-recherche-academique-dans-l-avancement-des-connaissances-sur-les-biais-algorithmiques
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un travail scientifique continu qui ameliore progressivement la comprehension de ces phenomenes.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais dans les systemes de moderation automatique de contenu en ligne
+slug: les-biais-dans-les-systemes-de-moderation-automatique-de-contenu-en-ligne
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Un enjeu qui peut affecter injustement certains groupes ou certaines expressions culturelles.
+tags: [biais]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la responsabilite des entreprises dans la correction des biais de leurs systemes
+slug: le-role-de-la-responsabilite-des-entreprises-dans-la-correction-des-biais-de-leurs-systemes
+categoryPath: intelligence-artificielle/ethique-et-societe/biais
+summary: >
+  Une obligation croissante qui pousse les organisations a assumer les consequences de leurs technologies.
+tags: [biais, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des premieres lois specifiques encadrant l'intelligence artificielle
+slug: le-role-des-premieres-lois-specifiques-encadrant-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des textes recents qui commencent a definir un cadre juridique pour ces technologies.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La classification des systemes d'intelligence artificielle selon leur niveau de risque
+slug: la-classification-des-systemes-d-intelligence-artificielle-selon-leur-niveau-de-risque
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Une approche reglementaire qui adapte les exigences selon les consequences potentielles d'un systeme.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des autorites de controle dans la surveillance des systemes d'intelligence artificielle
+slug: le-role-des-autorites-de-controle-dans-la-surveillance-des-systemes-d-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des institutions specifiques chargees de verifier le respect des regles applicables a ces technologies.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les obligations de transparence imposees aux developpeurs de systemes d'intelligence artificielle
+slug: les-obligations-de-transparence-imposees-aux-developpeurs-de-systemes-d-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des exigences qui visent a rendre plus comprehensible le fonctionnement de ces technologies.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la certification dans la validation de la conformite d'un systeme d'intelligence artificielle
+slug: le-role-de-la-certification-dans-la-validation-de-la-conformite-d-un-systeme-d-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Un processus qui verifie qu'un systeme respecte les normes de securite et d'ethique attendues.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differences d'approche reglementaire entre plusieurs grandes regions du monde
+slug: les-differences-d-approche-reglementaire-entre-plusieurs-grandes-regions-du-monde
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des strategies variees qui refletent des priorites et des cultures juridiques distinctes.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la responsabilite juridique en cas de dommage cause par un systeme autonome
+slug: le-role-de-la-responsabilite-juridique-en-cas-de-dommage-cause-par-un-systeme-autonome
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Une question complexe qui interroge qui doit repondre des consequences d'une decision automatisee.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les interdictions specifiques de certains usages jugés trop risques de l'intelligence artificielle
+slug: les-interdictions-specifiques-de-certains-usages-juges-trop-risques-de-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des limites claires posees face a des applications considerees comme dangereuses pour les droits fondamentaux.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des comites d'ethique dans l'accompagnement du developpement responsable de l'intelligence artificielle
+slug: le-role-des-comites-d-ethique-dans-l-accompagnement-du-developpement-responsable-de-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des instances consultatives qui aident a anticiper les consequences ethiques d'une nouvelle technologie.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sanctions prevues en cas de non-respect des reglementations sur l'intelligence artificielle
+slug: les-sanctions-prevues-en-cas-de-non-respect-des-reglementations-sur-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des consequences juridiques destinees a inciter les entreprises a se conformer aux exigences legales.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cooperation internationale dans l'harmonisation des regles sur l'intelligence artificielle
+slug: le-role-de-la-cooperation-internationale-dans-l-harmonisation-des-regles-sur-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Un effort de coordination necessaire face a des technologies qui depassent facilement les frontieres.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les consultations publiques organisees avant l'adoption de nouvelles lois sur l'intelligence artificielle
+slug: les-consultations-publiques-organisees-avant-l-adoption-de-nouvelles-lois-sur-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Une demarche democratique qui associe la societe civile a l'elaboration du cadre juridique.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la protection des donnees personnelles dans la regulation de l'intelligence artificielle
+slug: le-role-de-la-protection-des-donnees-personnelles-dans-la-regulation-de-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Un lien etroit entre deux cadres juridiques qui se renforcent mutuellement.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debats sur la regulation de l'intelligence artificielle generative et ses usages creatifs
+slug: les-debats-sur-la-regulation-de-l-intelligence-artificielle-generative-et-ses-usages-creatifs
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des discussions specifiques liees aux enjeux particuliers de ces technologies recentes.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des organismes de normalisation technique dans la regulation de l'intelligence artificielle
+slug: le-role-des-organismes-de-normalisation-technique-dans-la-regulation-de-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des institutions qui definissent des standards techniques complementaires aux lois generales.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les obligations d'information des utilisateurs face a un systeme d'intelligence artificielle
+slug: les-obligations-d-information-des-utilisateurs-face-a-un-systeme-d-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Une exigence qui garantit que les personnes sachent qu'elles interagissent avec une machine.
+tags: [regulation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du droit de la concurrence dans l'encadrement des grandes entreprises d'intelligence artificielle
+slug: le-role-du-droit-de-la-concurrence-dans-l-encadrement-des-grandes-entreprises-d-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Une dimension economique de la regulation qui vise a preserver un marche equitable.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les propositions de moratoire temporaire sur certains developpements d'intelligence artificielle avancee
+slug: les-propositions-de-moratoire-temporaire-sur-certains-developpements-d-intelligence-artificielle-avancee
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Des appels a une pause reflexion face a des progres juges potentiellement risques.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sandbox reglementaires dans l'experimentation encadree de nouvelles technologies
+slug: le-role-des-sandbox-reglementaires-dans-l-experimentation-encadree-de-nouvelles-technologies
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Un espace controle qui permet de tester une innovation avant son deploiement complet.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debats parlementaires autour de l'adoption des premieres grandes lois sur l'intelligence artificielle
+slug: les-debats-parlementaires-autour-de-l-adoption-des-premieres-grandes-lois-sur-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Un processus legislatif qui a mobilise de nombreux acteurs aux interets parfois divergents.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la societe civile dans l'influence sur la regulation de l'intelligence artificielle
+slug: le-role-de-la-societe-civile-dans-l-influence-sur-la-regulation-de-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Une participation citoyenne qui pese de plus en plus dans les decisions publiques sur ce sujet.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis d'application pratique des reglementations face a l'evolution rapide des technologies
+slug: les-defis-d-application-pratique-des-reglementations-face-a-l-evolution-rapide-des-technologies
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Une difficulte reelle ou la loi peine parfois a suivre le rythme des innovations techniques.
+tags: [regulation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de l'intelligence artificielle sur la transformation de certains metiers
+slug: l-impact-de-l-intelligence-artificielle-sur-la-transformation-de-certains-metiers
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une evolution qui modifie profondement les taches quotidiennes de nombreux professionnels.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans l'automatisation de taches repetitives au travail
+slug: le-role-de-l-intelligence-artificielle-dans-l-automatisation-de-taches-repetitives-au-travail
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une liberation de temps qui permet aux travailleurs de se concentrer sur des activites plus complexes.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nouveaux metiers crees par le developpement de l'intelligence artificielle
+slug: les-nouveaux-metiers-crees-par-le-developpement-de-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Des professions inedites qui n'existaient pas avant l'essor de ces technologies.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la formation continue face aux transformations liees a l'intelligence artificielle
+slug: le-role-de-la-formation-continue-face-aux-transformations-liees-a-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une necessite croissante pour que les travailleurs adaptent leurs competences aux nouveaux outils.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les craintes liees a la disparition de certains emplois du fait de l'intelligence artificielle
+slug: les-craintes-liees-a-la-disparition-de-certains-emplois-du-fait-de-l-intelligence-artificielle
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une inquietude legitime qui accompagne historiquement chaque grande vague d'automatisation.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle comme outil d'assistance plutot que de remplacement du travailleur
+slug: le-role-de-l-intelligence-artificielle-comme-outil-d-assistance-plutot-que-de-remplacement-du-travailleur
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une perspective qui envisage la technologie comme un complement aux competences humaines.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages de l'intelligence artificielle dans l'education et l'apprentissage personnalise
+slug: les-usages-de-l-intelligence-artificielle-dans-l-education-et-l-apprentissage-personnalise
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une application qui adapte le contenu pedagogique aux besoins specifiques de chaque eleve.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans l'assistance aux personnes en situation de handicap
+slug: le-role-de-l-intelligence-artificielle-dans-l-assistance-aux-personnes-en-situation-de-handicap
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Des outils qui facilitent l'autonomie et l'inclusion de personnes ayant des besoins particuliers.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages de l'intelligence artificielle dans la creation artistique et culturelle
+slug: les-usages-de-l-intelligence-artificielle-dans-la-creation-artistique-et-culturelle
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une application qui souleve a la fois de l'enthousiasme et des questions sur la place de la creation humaine.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans le diagnostic medical et l'aide a la decision clinique
+slug: le-role-de-l-intelligence-artificielle-dans-le-diagnostic-medical-et-l-aide-a-la-decision-clinique
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une assistance precieuse qui complete l'expertise des professionnels de sante sans les remplacer.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages de l'intelligence artificielle dans l'agriculture et l'optimisation des rendements
+slug: les-usages-de-l-intelligence-artificielle-dans-l-agriculture-et-l-optimisation-des-rendements
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une application concrete qui aide les agriculteurs a prendre des decisions plus precises.
+tags: [travail-et-usages]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans les services clients et l'assistance automatisee
+slug: le-role-de-l-intelligence-artificielle-dans-les-services-clients-et-l-assistance-automatisee
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une application repandue qui traite une grande partie des demandes simples des utilisateurs.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages de l'intelligence artificielle dans la recherche scientifique et l'acceleration des decouvertes
+slug: les-usages-de-l-intelligence-artificielle-dans-la-recherche-scientifique-et-l-acceleration-des-decouvertes
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Un outil puissant qui aide les chercheurs a analyser des donnees complexes plus rapidement.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans la lutte contre le changement climatique
+slug: le-role-de-l-intelligence-artificielle-dans-la-lutte-contre-le-changement-climatique
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une application prometteuse pour optimiser l'usage des ressources et anticiper certains phenomenes.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inquietudes liees a la dependance croissante aux outils d'intelligence artificielle au travail
+slug: les-inquietudes-liees-a-la-dependance-croissante-aux-outils-d-intelligence-artificielle-au-travail
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une reflexion necessaire sur l'equilibre entre efficacite et maintien des competences humaines.
+tags: [travail-et-usages]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans la securite et la prevention des risques industriels
+slug: le-role-de-l-intelligence-artificielle-dans-la-securite-et-la-prevention-des-risques-industriels
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une surveillance renforcee qui aide a anticiper et a prevenir des incidents avant qu'ils ne surviennent.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages de l'intelligence artificielle dans les administrations publiques
+slug: les-usages-de-l-intelligence-artificielle-dans-les-administrations-publiques
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une modernisation des services qui vise a simplifier certaines demarches pour les citoyens.
+tags: [travail-et-usages]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans l'evolution des metiers de la creation de contenu
+slug: le-role-de-l-intelligence-artificielle-dans-l-evolution-des-metiers-de-la-creation-de-contenu
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une transformation qui touche particulierement les professions liees a l'ecriture et a la conception visuelle.
+tags: [travail-et-usages]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debats sur la juste remuneration des travailleurs dont les donnees ont servi a entrainer un modele
+slug: les-debats-sur-la-juste-remuneration-des-travailleurs-dont-les-donnees-ont-servi-a-entrainer-un-modele
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une question emergente liee a la valeur economique creee a partir de contenus humains existants.
+tags: [travail-et-usages]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle dans l'amelioration de l'accessibilite des services numeriques
+slug: le-role-de-l-intelligence-artificielle-dans-l-amelioration-de-l-accessibilite-des-services-numeriques
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une contribution qui facilite l'usage de la technologie pour un public plus large et diversifie.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages de l'intelligence artificielle dans le domaine de la securite publique et leurs limites ethiques
+slug: les-usages-de-l-intelligence-artificielle-dans-le-domaine-de-la-securite-publique-et-leurs-limites-ethiques
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une application sensible qui necessite un encadrement particulierement rigoureux.
+tags: [travail-et-usages]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du dialogue social dans l'accompagnement des transformations liees a l'intelligence artificielle en entreprise
+slug: le-role-du-dialogue-social-dans-l-accompagnement-des-transformations-liees-a-l-intelligence-artificielle-en-entreprise
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Une concertation necessaire entre employeurs et salaries face a ces changements profonds.
+tags: [travail-et-usages, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la generation de texte par intelligence artificielle
+slug: le-principe-general-de-la-generation-de-texte-par-intelligence-artificielle
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une capacite qui permet a un modele de produire du texte coherent a partir d'une simple instruction.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La generation d'images par intelligence artificielle et son fonctionnement de base
+slug: la-generation-d-images-par-intelligence-artificielle-et-son-fonctionnement-de-base
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une technologie qui cree des visuels originaux a partir d'une description fournie en langage naturel.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des instructions precises dans l'obtention de meilleurs resultats generatifs
+slug: le-role-des-instructions-precises-dans-l-obtention-de-meilleurs-resultats-generatifs
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une competence pratique qui ameliore significativement la qualite des contenus produits par un modele.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages de l'intelligence artificielle generative dans la creation de musique originale
+slug: les-usages-de-l-intelligence-artificielle-generative-dans-la-creation-de-musique-originale
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application qui compose des morceaux entiers a partir de simples parametres definis par l'utilisateur.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans l'assistance a l'ecriture creative
+slug: le-role-de-l-intelligence-artificielle-generative-dans-l-assistance-a-l-ecriture-creative
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Un outil qui aide les auteurs a explorer des idees ou a surmonter des blocages dans leur travail.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les videos generees par intelligence artificielle et les progres recents de cette technologie
+slug: les-videos-generees-par-intelligence-artificielle-et-les-progres-recents-de-cette-technologie
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une capacite emergente qui permet de creer des sequences animees a partir de descriptions textuelles.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans le prototypage rapide de nouveaux designs
+slug: le-role-de-l-intelligence-artificielle-generative-dans-le-prototypage-rapide-de-nouveaux-designs
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application qui accelere considerablement les phases initiales de conception d'un produit.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les questions de droits d'auteur souleves par les contenus produits par intelligence artificielle generative
+slug: les-questions-de-droits-d-auteur-souleves-par-les-contenus-produits-par-intelligence-artificielle-generative
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Un debat juridique actuel sur la propriete des oeuvres creees avec l'aide de ces outils.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans la personnalisation de contenus marketing
+slug: le-role-de-l-intelligence-artificielle-generative-dans-la-personnalisation-de-contenus-marketing
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application commerciale qui adapte automatiquement des messages a differents publics.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les deepfakes et les risques lies a la generation d'images ou de videos trompeuses
+slug: les-deepfakes-et-les-risques-lies-a-la-generation-d-images-ou-de-videos-trompeuses
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Un usage detourne preoccupant qui souleve d'importantes questions de confiance et de securite.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans l'assistance a la programmation informatique
+slug: le-role-de-l-intelligence-artificielle-generative-dans-l-assistance-a-la-programmation-informatique
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Un outil qui aide les developpeurs a ecrire, corriger et comprendre du code plus rapidement.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avatars virtuels generes par intelligence artificielle et leurs usages croissants
+slug: les-avatars-virtuels-generes-par-intelligence-artificielle-et-leurs-usages-croissants
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application qui cree des representations numeriques personnalisees pour divers contextes.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans le doublage et la synthese vocale
+slug: le-role-de-l-intelligence-artificielle-generative-dans-le-doublage-et-la-synthese-vocale
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une technologie qui produit des voix artificielles de plus en plus proches de la parole humaine.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites actuelles de la coherence factuelle des contenus produits par intelligence artificielle generative
+slug: les-limites-actuelles-de-la-coherence-factuelle-des-contenus-produits-par-intelligence-artificielle-generative
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une faiblesse importante ou le modele peut produire des affirmations plausibles mais fausses.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans la conception de jeux video
+slug: le-role-de-l-intelligence-artificielle-generative-dans-la-conception-de-jeux-video
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application qui aide a creer plus rapidement des environnements, des personnages ou des scenarios.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debats sur l'authenticite et l'originalite des contenus produits par intelligence artificielle generative
+slug: les-debats-sur-l-authenticite-et-l-originalite-des-contenus-produits-par-intelligence-artificielle-generative
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une reflexion culturelle sur la valeur et la signification d'une creation assistee par la machine.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans la traduction et l'adaptation de contenus multimedia
+slug: le-role-de-l-intelligence-artificielle-generative-dans-la-traduction-et-l-adaptation-de-contenus-multimedia
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application qui facilite l'acces a des contenus originellement produits dans une autre langue.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les outils de detection de contenus generes par intelligence artificielle et leurs limites
+slug: les-outils-de-detection-de-contenus-generes-par-intelligence-artificielle-et-leurs-limites
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Des methodes encore imparfaites qui tentent d'identifier ce qui a ete produit par une machine.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'intelligence artificielle generative dans la restauration et la colorisation d'archives anciennes
+slug: le-role-de-l-intelligence-artificielle-generative-dans-la-restauration-et-la-colorisation-d-archives-anciennes
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application qui redonne vie a des documents historiques degrades ou incomplets.
+tags: [ia-generative]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages educatifs de l'intelligence artificielle generative pour creer du contenu pedagogique personnalise
+slug: les-usages-educatifs-de-l-intelligence-artificielle-generative-pour-creer-du-contenu-pedagogique-personnalise
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Une application qui adapte automatiquement des exercices ou des explications au niveau de chaque apprenant.
+tags: [ia-generative, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le phenomene des hallucinations dans les modeles de langage
+slug: le-phenomene-des-hallucinations-dans-les-modeles-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une tendance a produire des informations fausses avec une apparence de certitude trompeuse.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la date limite des connaissances d'un modele de langage dans ses reponses
+slug: le-role-de-la-date-limite-des-connaissances-d-un-modele-de-langage-dans-ses-reponses
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une limite importante liee au fait que le modele ne connait que les informations disponibles jusqu'a un certain moment.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les difficultes des modeles de langage a effectuer des calculs mathematiques precis
+slug: les-difficultes-des-modeles-de-langage-a-effectuer-des-calculs-mathematiques-precis
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une faiblesse frequente liee a la nature meme du fonctionnement de ces systemes.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du contexte limite dans les capacites de raisonnement d'un modele de langage
+slug: le-role-du-contexte-limite-dans-les-capacites-de-raisonnement-d-un-modele-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une contrainte technique qui restreint la quantite d'informations que le modele peut prendre en compte simultanement.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais culturels et linguistiques dans les reponses produites par les modeles de langage
+slug: les-biais-culturels-et-linguistiques-dans-les-reponses-produites-par-les-modeles-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une tendance a mieux refleter certaines cultures que d'autres selon la composition des donnees d'entrainement.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la verification humaine face aux limites des modeles de langage
+slug: le-role-de-la-verification-humaine-face-aux-limites-des-modeles-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une precaution essentielle qui rappelle l'importance de ne pas faire une confiance aveugle a ces outils.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les difficultes des modeles de langage a comprendre l'ironie et le second degre
+slug: les-difficultes-des-modeles-de-langage-a-comprendre-l-ironie-et-le-second-degre
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une limite de comprehension qui peut mener a des interpretations litterales inappropriees.
+tags: [limites-et-erreurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la sensibilite aux formulations dans les reponses variables d'un modele de langage
+slug: le-role-de-la-sensibilite-aux-formulations-dans-les-reponses-variables-d-un-modele-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Un phenomene ou une legere reformulation de la question peut donner une reponse tres differente.
+tags: [limites-et-erreurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites des modeles de langage face a des raisonnements logiques complexes
+slug: les-limites-des-modeles-de-langage-face-a-des-raisonnements-logiques-complexes
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une faiblesse qui se manifeste particulierement sur des problemes necessitant plusieurs etapes de deduction.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la transparence sur les limites d'un modele dans la confiance des utilisateurs
+slug: le-role-de-la-transparence-sur-les-limites-d-un-modele-dans-la-confiance-des-utilisateurs
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une communication honnete necessaire pour eviter une confiance excessive envers ces outils.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les difficultes des modeles de langage a gerer des informations tres recentes
+slug: les-difficultes-des-modeles-de-langage-a-gerer-des-informations-tres-recentes
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une limite naturelle liee au delai entre l'entrainement du modele et son utilisation effective.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tests adverses dans la decouverte des failles d'un modele de langage
+slug: le-role-des-tests-adverses-dans-la-decouverte-des-failles-d-un-modele-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une methode qui cherche deliberement des questions capables de faire echouer le systeme.
+tags: [limites-et-erreurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites des modeles de langage dans la comprehension d'un contexte culturel specifique
+slug: les-limites-des-modeles-de-langage-dans-la-comprehension-d-un-contexte-culturel-specifique
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une difficulte a saisir pleinement des nuances propres a une culture particuliere.
+tags: [limites-et-erreurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la coherence interne dans l'evaluation de la fiabilite d'une reponse generee
+slug: le-role-de-la-coherence-interne-dans-l-evaluation-de-la-fiabilite-d-une-reponse-generee
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Un critere utile mais imparfait qui n'exclut pas la presence d'informations fausses bien presentees.
+tags: [limites-et-erreurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les difficultes des modeles de langage a reconnaitre leurs propres erreurs sans aide exterieure
+slug: les-difficultes-des-modeles-de-langage-a-reconnaitre-leurs-propres-erreurs-sans-aide-exterieure
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une limite qui souligne l'importance de la verification par une source independante.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la recherche continue dans la reduction progressive des erreurs des modeles de langage
+slug: le-role-de-la-recherche-continue-dans-la-reduction-progressive-des-erreurs-des-modeles-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Un effort scientifique constant qui vise a ameliorer la fiabilite de ces systemes au fil du temps.
+tags: [limites-et-erreurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites des modeles de langage face a des questions necessitant une expertise tres specialisee
+slug: les-limites-des-modeles-de-langage-face-a-des-questions-necessitant-une-expertise-tres-specialisee
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une prudence necessaire dans des domaines ou une erreur pourrait avoir des consequences graves.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la citation des sources dans l'amelioration de la fiabilite percue d'un modele de langage
+slug: le-role-de-la-citation-des-sources-dans-l-amelioration-de-la-fiabilite-percue-d-un-modele-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une pratique qui aide l'utilisateur a verifier lui-meme l'exactitude d'une information fournie.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les difficultes des modeles de langage a maintenir une coherence sur de tres longues conversations
+slug: les-difficultes-des-modeles-de-langage-a-maintenir-une-coherence-sur-de-tres-longues-conversations
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une limite technique liee a la capacite du systeme a se souvenir des echanges precedents.
+tags: [limites-et-erreurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'esprit critique de l'utilisateur face aux reponses produites par un modele de langage
+slug: le-role-de-l-esprit-critique-de-l-utilisateur-face-aux-reponses-produites-par-un-modele-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Une competence essentielle qui reste indispensable malgre les progres constants de ces technologies.
+tags: [limites-et-erreurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de l'architecture transformeur en intelligence artificielle
+slug: le-principe-general-de-l-architecture-transformeur-en-intelligence-artificielle
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une innovation majeure qui a transforme la maniere dont les machines traitent le langage.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du mecanisme d'attention dans le fonctionnement des transformeurs
+slug: le-role-du-mecanisme-d-attention-dans-le-fonctionnement-des-transformeurs
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Un composant cle qui permet au modele de ponderer l'importance de chaque mot dans son contexte.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre les transformeurs et les architectures de reseaux de neurones precedentes
+slug: la-difference-entre-les-transformeurs-et-les-architectures-de-reseaux-de-neurones-precedentes
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une avancee technique qui a permis de traiter le langage de maniere plus efficace et plus rapide.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du traitement en parallele dans l'efficacite des transformeurs par rapport aux methodes anteriereures
+slug: le-role-du-traitement-en-parallele-dans-l-efficacite-des-transformeurs-par-rapport-aux-methodes-anteriereures
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une capacite qui accelere considerablement l'entrainement sur de grands volumes de texte.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands modeles de langage bases sur l'architecture transformeur
+slug: les-grands-modeles-de-langage-bases-sur-l-architecture-transformeur
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Des systemes de grande taille qui ont demontre des capacites remarquables de comprehension et de generation.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'encodage positionnel dans la comprehension de l'ordre des mots par un transformeur
+slug: le-role-de-l-encodage-positionnel-dans-la-comprehension-de-l-ordre-des-mots-par-un-transformeur
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Un element technique qui permet au modele de tenir compte de la position de chaque mot dans une phrase.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transformeurs appliques au-dela du texte, notamment aux images et au son
+slug: les-transformeurs-appliques-au-dela-du-texte-notamment-aux-images-et-au-son
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une extension de cette architecture a d'autres types de donnees que le seul langage ecrit.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du pre-entrainement massif dans la construction des grands modeles bases sur les transformeurs
+slug: le-role-du-pre-entrainement-massif-dans-la-construction-des-grands-modeles-bases-sur-les-transformeurs
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une premiere phase generale qui precede l'adaptation du modele a des taches plus specifiques.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transformeurs et l'evolution rapide de leur taille au fil des recentes annees
+slug: les-transformeurs-et-l-evolution-rapide-de-leur-taille-au-fil-des-recentes-annees
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une croissance impressionnante du nombre de parametres qui a accompagne les progres de ces modeles.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'affinage specifique dans l'adaptation d'un modele transformeur a une tache particuliere
+slug: le-role-de-l-affinage-specifique-dans-l-adaptation-d-un-modele-transformeur-a-une-tache-particuliere
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une seconde etape qui specialise un modele generaliste pour un usage plus precis.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transformeurs multimodaux capables de traiter simultanement texte, image et son
+slug: les-transformeurs-multimodaux-capables-de-traiter-simultanement-texte-image-et-son
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une avancee recente qui combine plusieurs types d'information au sein d'un meme modele.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la couche d'attention multi-tetes dans la richesse de comprehension d'un transformeur
+slug: le-role-de-la-couche-d-attention-multi-tetes-dans-la-richesse-de-comprehension-d-un-transformeur
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Un mecanisme qui permet au modele d'examiner un texte sous plusieurs angles simultanement.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis lies au cout de calcul de l'entrainement des grands modeles transformeurs
+slug: les-defis-lies-au-cout-de-calcul-de-l-entrainement-des-grands-modeles-transformeurs
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une contrainte pratique importante liee aux ressources considerables necessaires a ces entrainements.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des transformeurs dans les progres recents de la traduction automatique
+slug: le-role-des-transformeurs-dans-les-progres-recents-de-la-traduction-automatique
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une amelioration significative de la qualite grace a une meilleure prise en compte du contexte global.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les versions allegees de transformeurs concues pour fonctionner sur des appareils moins puissants
+slug: les-versions-allegees-de-transformeurs-concues-pour-fonctionner-sur-des-appareils-moins-puissants
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une adaptation necessaire pour rendre ces technologies accessibles au-dela des grands centres de calcul.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la recherche academique dans les ameliorations continues de l'architecture transformeur
+slug: le-role-de-la-recherche-academique-dans-les-ameliorations-continues-de-l-architecture-transformeur
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Un travail scientifique constant qui affine progressivement le fonctionnement de ces modeles.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transformeurs et leur capacite a generer du texte coherent sur de longues sequences
+slug: les-transformeurs-et-leur-capacite-a-generer-du-texte-coherent-sur-de-longues-sequences
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une performance remarquable par rapport aux limites des architectures qui les ont precedes.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'open source dans la diffusion et l'amelioration collective des modeles transformeurs
+slug: le-role-de-l-open-source-dans-la-diffusion-et-l-amelioration-collective-des-modeles-transformeurs
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Un partage qui a accelere considerablement les progres et l'adoption de cette technologie.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transformeurs appliques a la prediction de structures biologiques complexes
+slug: les-transformeurs-appliques-a-la-prediction-de-structures-biologiques-complexes
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une application scientifique majeure qui a aide a resoudre des problemes longtemps consideres tres difficiles.
+tags: [transformeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la comprehension du contexte long dans les capacites avancees des transformeurs recents
+slug: le-role-de-la-comprehension-du-contexte-long-dans-les-capacites-avancees-des-transformeurs-recents
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Une amelioration continue qui permet au modele de traiter des documents de plus en plus longs.
+tags: [transformeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

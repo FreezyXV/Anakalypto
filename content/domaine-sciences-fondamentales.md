@@ -12142,3 +12142,5793 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Le noyau cellulaire et son role de centre de commande de la cellule
+slug: le-noyau-cellulaire-et-son-role-de-centre-de-commande-de-la-cellule
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une structure qui conserve et protege le materiel genetique necessaire au fonctionnement cellulaire.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La membrane plasmique et son role de barriere selective de la cellule
+slug: la-membrane-plasmique-et-son-role-de-barriere-selective-de-la-cellule
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une frontiere fine qui controle precisement ce qui entre et sort de la cellule.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mitochondries et leur role dans la production d'energie cellulaire
+slug: les-mitochondries-et-leur-role-dans-la-production-d-energie-cellulaire
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Des structures souvent appelees centrales energetiques en raison de leur fonction essentielle.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du reticulum endoplasmique dans la fabrication des proteines et des lipides
+slug: le-role-du-reticulum-endoplasmique-dans-la-fabrication-des-proteines-et-des-lipides
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un reseau interne qui participe activement a la production de composants cellulaires essentiels.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference fondamentale entre cellules procaryotes et cellules eucaryotes
+slug: la-difference-fondamentale-entre-cellules-procaryotes-et-cellules-eucaryotes
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une distinction majeure qui separe les formes de vie les plus simples des organismes plus complexes.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'appareil de Golgi dans le tri et l'expedition des molecules cellulaires
+slug: le-role-de-l-appareil-de-golgi-dans-le-tri-et-l-expedition-des-molecules-cellulaires
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une structure qui organise et achemine les produits fabriques a l'interieur de la cellule.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La division cellulaire et le principe general de la multiplication des cellules
+slug: la-division-cellulaire-et-le-principe-general-de-la-multiplication-des-cellules
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un processus fondamental qui permet a un organisme de grandir et de se renouveler.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ribosomes dans la fabrication des proteines a partir de l'information genetique
+slug: le-role-des-ribosomes-dans-la-fabrication-des-proteines-a-partir-de-l-information-genetique
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  De minuscules structures qui traduisent le code genetique en molecules fonctionnelles.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La communication entre cellules et le role des signaux chimiques
+slug: la-communication-entre-cellules-et-le-role-des-signaux-chimiques
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un echange constant d'informations qui coordonne le comportement de nombreuses cellules ensemble.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cytosquelette et son role dans le maintien de la forme et du mouvement cellulaire
+slug: le-cytosquelette-et-son-role-dans-le-maintien-de-la-forme-et-du-mouvement-cellulaire
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une charpente interne flexible qui structure la cellule et permet certains de ses mouvements.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mort cellulaire programmee et son role naturel dans le fonctionnement de l'organisme
+slug: la-mort-cellulaire-programmee-et-son-role-naturel-dans-le-fonctionnement-de-l-organisme
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un mecanisme controle qui elimine des cellules devenues inutiles ou dangereuses pour l'organisme.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des lysosomes dans le recyclage des composants cellulaires uses
+slug: le-role-des-lysosomes-dans-le-recyclage-des-composants-cellulaires-uses
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Des structures specialisees qui digerent et recyclent des elements dont la cellule n'a plus besoin.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cellule vegetale et ses differences specifiques par rapport a la cellule animale
+slug: la-cellule-vegetale-et-ses-differences-specifiques-par-rapport-a-la-cellule-animale
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Des particularites propres, comme la paroi rigide, qui distinguent nettement ces deux types cellulaires.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du cycle cellulaire dans la regulation precise de la division des cellules
+slug: le-role-du-cycle-cellulaire-dans-la-regulation-precise-de-la-division-des-cellules
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une sequence d'etapes controlees qui garantit une division cellulaire correcte et sans erreur.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cellules souches et leur capacite remarquable a se transformer en differents types cellulaires
+slug: les-cellules-souches-et-leur-capacite-remarquable-a-se-transformer-en-differents-types-cellulaires
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une propriete exceptionnelle qui explique leur interet majeur pour la recherche medicale.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du transport actif a travers la membrane cellulaire
+slug: le-role-du-transport-actif-a-travers-la-membrane-cellulaire
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un mecanisme qui deplace des substances contre leur tendance naturelle, en consommant de l'energie.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decouverte historique de la cellule et l'invention du microscope
+slug: la-decouverte-historique-de-la-cellule-et-l-invention-du-microscope
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une avancee scientifique majeure qui a revele pour la premiere fois l'unite de base du vivant.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des jonctions cellulaires dans la cohesion des tissus vivants
+slug: le-role-des-jonctions-cellulaires-dans-la-cohesion-des-tissus-vivants
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Des structures qui relient les cellules entre elles pour former des tissus solides et fonctionnels.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La respiration cellulaire et la transformation des nutriments en energie utilisable
+slug: la-respiration-cellulaire-et-la-transformation-des-nutriments-en-energie-utilisable
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un processus fondamental commun a la quasi-totalite des cellules vivantes connues.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du cytoplasme comme milieu ou se deroulent de nombreuses reactions cellulaires
+slug: le-role-du-cytoplasme-comme-milieu-ou-se-deroulent-de-nombreuses-reactions-cellulaires
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un espace interne riche en eau qui abrite la plupart des activites chimiques de la cellule.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les organites cellulaires et leur specialisation dans des fonctions precises
+slug: les-organites-cellulaires-et-leur-specialisation-dans-des-fonctions-precises
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une organisation interne qui repartit les taches entre differentes structures specialisees.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la photosynthese dans les cellules vegetales pour produire de l'energie
+slug: le-role-de-la-photosynthese-dans-les-cellules-vegetales-pour-produire-de-l-energie
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un processus remarquable qui transforme la lumiere en energie chimique utilisable par la plante.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La taille des cellules et les limites physiques qui la contraignent
+slug: la-taille-des-cellules-et-les-limites-physiques-qui-la-contraignent
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une contrainte biologique qui explique pourquoi les cellules restent generalement microscopiques.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des vacuoles dans le stockage de substances au sein d'une cellule vegetale
+slug: le-role-des-vacuoles-dans-le-stockage-de-substances-au-sein-d-une-cellule-vegetale
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une structure de reserve qui conserve eau, nutriments ou dechets a l'interieur de la cellule.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La specialisation cellulaire et la formation de tissus aux fonctions distinctes
+slug: la-specialisation-cellulaire-et-la-formation-de-tissus-aux-fonctions-distinctes
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un processus qui transforme des cellules similaires en types tres differents selon leur role.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general d'un ecosysteme et de ses composantes
+slug: le-principe-general-d-un-ecosysteme-et-de-ses-composantes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un ensemble d'organismes vivants en interaction constante avec leur environnement physique.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La notion de niche ecologique et le role specifique de chaque espece
+slug: la-notion-de-niche-ecologique-et-le-role-specifique-de-chaque-espece
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une place particuliere occupee par une espece au sein de son environnement.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les relations de predation et leur role dans la regulation des populations
+slug: les-relations-de-predation-et-leur-role-dans-la-regulation-des-populations
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une interaction fondamentale qui maintient un equilibre naturel entre proies et predateurs.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la competition entre especes pour l'acces aux ressources limitees
+slug: le-role-de-la-competition-entre-especes-pour-l-acces-aux-ressources-limitees
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une dynamique naturelle qui influence fortement la repartition et l'abondance des especes.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les relations de symbiose et les benefices mutuels entre especes differentes
+slug: les-relations-de-symbiose-et-les-benefices-mutuels-entre-especes-differentes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une cooperation etroite ou deux especes distinctes tirent chacune avantage de leur association.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des decomposeurs dans le recyclage de la matiere organique morte
+slug: le-role-des-decomposeurs-dans-le-recyclage-de-la-matiere-organique-morte
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Des organismes essentiels qui transforment les restes en nutriments reutilisables par l'ecosysteme.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La succession ecologique et l'evolution progressive d'un milieu au fil du temps
+slug: la-succession-ecologique-et-l-evolution-progressive-d-un-milieu-au-fil-du-temps
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un processus naturel ou un ecosysteme se transforme graduellement apres une perturbation.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la capacite de charge d'un ecosysteme dans la limitation des populations
+slug: le-role-de-la-capacite-de-charge-d-un-ecosysteme-dans-la-limitation-des-populations
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une limite naturelle au-dela de laquelle un milieu ne peut plus soutenir davantage d'individus.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les chaines et reseaux alimentaires dans la structuration d'un ecosysteme
+slug: les-chaines-et-reseaux-alimentaires-dans-la-structuration-d-un-ecosysteme
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un ensemble de relations qui organise le transfert d'energie entre les differents organismes.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du parasitisme dans les relations naturelles entre especes
+slug: le-role-du-parasitisme-dans-les-relations-naturelles-entre-especes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une interaction ou une espece profite d'une autre au detriment de cette derniere.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite et son role dans la stabilite globale d'un ecosysteme
+slug: la-biodiversite-et-son-role-dans-la-stabilite-globale-d-un-ecosysteme
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une richesse d'especes qui renforce generalement la resilience face aux perturbations.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des especes pionnieres dans la colonisation de milieux nouveaux ou perturbes
+slug: le-role-des-especes-pionnieres-dans-la-colonisation-de-milieux-nouveaux-ou-perturbes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Des especes capables de s'installer les premieres dans des conditions difficiles.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cycles biogeochimiques et la circulation des elements essentiels dans la nature
+slug: les-cycles-biogeochimiques-et-la-circulation-des-elements-essentiels-dans-la-nature
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Des mouvements naturels qui font circuler des elements comme le carbone entre differents reservoirs.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du mutualisme dans les associations beneficiaires pour deux especes
+slug: le-role-du-mutualisme-dans-les-associations-beneficiaires-pour-deux-especes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une forme de cooperation ou aucune des deux especes n'est desavantagee par la relation.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation naturelle des populations animales par les ressources disponibles
+slug: la-regulation-naturelle-des-populations-animales-par-les-ressources-disponibles
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un mecanisme d'equilibre qui limite naturellement la croissance d'une population.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des especes cles dans le maintien de l'equilibre d'un ecosysteme entier
+slug: le-role-des-especes-cles-dans-le-maintien-de-l-equilibre-d-un-ecosysteme-entier
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Certaines especes dont l'influence depasse largement leur seule abondance numerique.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les perturbations naturelles et leur role dans le renouvellement des ecosystemes
+slug: les-perturbations-naturelles-et-leur-role-dans-le-renouvellement-des-ecosystemes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Des evenements comme le feu ou les tempetes qui, malgre leur violence, jouent un role ecologique.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la migration animale dans l'exploitation saisonniere de differents milieux
+slug: le-role-de-la-migration-animale-dans-l-exploitation-saisonniere-de-differents-milieux
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un comportement qui permet a certaines especes de profiter de ressources variables selon les saisons.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecologie comportementale et l'etude des strategies de survie des especes
+slug: l-ecologie-comportementale-et-l-etude-des-strategies-de-survie-des-especes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une discipline qui analyse comment le comportement des animaux s'adapte a leur environnement.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du commensalisme dans les relations neutres pour l'une des deux especes
+slug: le-role-du-commensalisme-dans-les-relations-neutres-pour-l-une-des-deux-especes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une interaction ou une espece beneficie sans consequence particuliere pour l'autre.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fragmentation des habitats et son impact sur les interactions ecologiques
+slug: la-fragmentation-des-habitats-et-son-impact-sur-les-interactions-ecologiques
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un decoupage du territoire naturel qui perturbe les relations habituelles entre especes.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'ecologie des populations dans la comprehension des dynamiques d'une espece
+slug: le-role-de-l-ecologie-des-populations-dans-la-comprehension-des-dynamiques-d-une-espece
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une approche qui etudie comment le nombre d'individus d'une espece evolue au fil du temps.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la selection naturelle propose par Charles Darwin
+slug: le-principe-general-de-la-selection-naturelle-propose-par-charles-darwin
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un mecanisme fondamental qui explique comment les especes se transforment progressivement au fil du temps.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La notion d'adaptation et son role dans la survie des especes face a leur environnement
+slug: la-notion-d-adaptation-et-son-role-dans-la-survie-des-especes-face-a-leur-environnement
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une caracteristique qui ameliore les chances de survie et de reproduction d'un organisme.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des mutations genetiques comme source de variation dans l'evolution
+slug: le-role-des-mutations-genetiques-comme-source-de-variation-dans-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un changement aleatoire du materiel genetique qui peut parfois s'averer avantageux.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La speciation et le processus de formation de nouvelles especes
+slug: la-speciation-et-le-processus-de-formation-de-nouvelles-especes
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un mecanisme long qui separe progressivement une population en deux especes distinctes.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les preuves fossiles de l'evolution et ce qu'elles revelent sur le passe
+slug: les-preuves-fossiles-de-l-evolution-et-ce-qu-elles-revelent-sur-le-passe
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des traces conservees qui temoignent directement des formes de vie disparues.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la selection sexuelle dans l'evolution de certains traits spectaculaires
+slug: le-role-de-la-selection-sexuelle-dans-l-evolution-de-certains-traits-spectaculaires
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un mecanisme particulier ou les preferences reproductrices favorisent certaines caracteristiques.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution convergente et l'apparition de solutions similaires chez des especes sans lien de parente
+slug: l-evolution-convergente-et-l-apparition-de-solutions-similaires-chez-des-especes-sans-lien-de-parente
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un phenomene fascinant ou des especes distinctes developpent independamment des traits semblables.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la derive genetique dans les changements aleatoires d'une population
+slug: le-role-de-la-derive-genetique-dans-les-changements-aleatoires-d-une-population
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un mecanisme distinct de la selection naturelle qui agit particulierement dans les petites populations.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les preuves genetiques modernes de l'evolution et de la parente entre especes
+slug: les-preuves-genetiques-modernes-de-l-evolution-et-de-la-parente-entre-especes
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des analyses de l'ADN qui confirment et precisent les liens de parente entre organismes.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'isolement geographique dans le processus de speciation
+slug: le-role-de-l-isolement-geographique-dans-le-processus-de-speciation
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une separation physique qui empeche le croisement et favorise l'apparition de nouvelles especes.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution de l'oeil comme exemple souvent cite de complexification progressive
+slug: l-evolution-de-l-oeil-comme-exemple-souvent-cite-de-complexification-progressive
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un exemple classique qui illustre comment une structure complexe peut evoluer par etapes.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des especes intermediaires dans la comprehension des transitions evolutives
+slug: le-role-des-especes-intermediaires-dans-la-comprehension-des-transitions-evolutives
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des formes de vie qui presentent des caracteristiques melant deux groupes distincts.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution humaine et les principales etapes de son histoire
+slug: l-evolution-humaine-et-les-principales-etapes-de-son-histoire
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un parcours long et complexe qui a conduit progressivement a l'espece humaine actuelle.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la coevolution entre especes en interaction etroite et durable
+slug: le-role-de-la-coevolution-entre-especes-en-interaction-etroite-et-durable
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un processus ou deux especes influencent mutuellement leur evolution respective au fil du temps.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les resistances aux antibiotiques comme exemple observable d'evolution rapide
+slug: les-resistances-aux-antibiotiques-comme-exemple-observable-d-evolution-rapide
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une illustration concrete et actuelle du principe de selection naturelle en action.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'extinction des especes dans la dynamique globale de l'evolution
+slug: le-role-de-l-extinction-des-especes-dans-la-dynamique-globale-de-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un phenomene naturel qui a toujours accompagne l'histoire de la vie sur Terre.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'arbre phylogenetique et la representation des liens de parente entre especes
+slug: l-arbre-phylogenetique-et-la-representation-des-liens-de-parente-entre-especes
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un outil visuel qui organise les relations evolutives entre differentes formes de vie.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des structures vestigiales comme temoins de l'histoire evolutive d'une espece
+slug: le-role-des-structures-vestigiales-comme-temoins-de-l-histoire-evolutive-d-une-espece
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des organes reduits ou inutiles qui rappellent une fonction ancestrale disparue.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution des resistances chez les plantes face aux insectes ravageurs
+slug: l-evolution-des-resistances-chez-les-plantes-face-aux-insectes-ravageurs
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une course constante entre plantes et insectes qui illustre la pression evolutive reciproque.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du hasard et de la necessite dans la comprehension moderne de l'evolution
+slug: le-role-du-hasard-et-de-la-necessite-dans-la-comprehension-moderne-de-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une reflexion qui combine des elements aleatoires et des contraintes environnementales fortes.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grandes extinctions massives de l'histoire de la vie sur Terre
+slug: les-grandes-extinctions-massives-de-l-histoire-de-la-vie-sur-terre
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des evenements majeurs qui ont profondement remodele la diversite du vivant a plusieurs reprises.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la datation scientifique dans la reconstitution de la chronologie de l'evolution
+slug: le-role-de-la-datation-scientifique-dans-la-reconstitution-de-la-chronologie-de-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des methodes precises qui permettent de situer dans le temps les etapes de l'histoire du vivant.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de l'heredite et la transmission des caracteres
+slug: le-principe-general-de-l-heredite-et-la-transmission-des-caracteres
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un mecanisme fondamental qui explique comment les traits passent d'une generation a l'autre.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La structure de l'ADN et son role de support de l'information genetique
+slug: la-structure-de-l-adn-et-son-role-de-support-de-l-information-genetique
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une molecule remarquable qui contient l'ensemble des instructions necessaires a un organisme.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des genes dans la determination des caracteristiques d'un organisme
+slug: le-role-des-genes-dans-la-determination-des-caracteristiques-d-un-organisme
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Des segments precis d'ADN qui portent l'information necessaire a une fonction particuliere.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois de l'heredite decouvertes par Gregor Mendel
+slug: les-lois-de-l-heredite-decouvertes-par-gregor-mendel
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Des principes fondamentaux qui ont pose les bases de la genetique moderne.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des chromosomes dans l'organisation du materiel genetique
+slug: le-role-des-chromosomes-dans-l-organisation-du-materiel-genetique
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Des structures qui rassemblent et organisent l'ADN au sein du noyau cellulaire.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre genes dominants et genes recessifs
+slug: la-difference-entre-genes-dominants-et-genes-recessifs
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une distinction essentielle pour comprendre comment certains traits s'expriment ou restent caches.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des mutations genetiques dans l'apparition de nouvelles caracteristiques
+slug: le-role-des-mutations-genetiques-dans-l-apparition-de-nouvelles-caracteristiques
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un changement dans l'ADN qui peut avoir des consequences variees sur un organisme.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des maladies genetiques hereditaires au sein d'une famille
+slug: la-transmission-des-maladies-genetiques-hereditaires-au-sein-d-une-famille
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un mecanisme qui explique pourquoi certaines affections se retrouvent sur plusieurs generations.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'ARN dans la traduction de l'information genetique en proteines
+slug: le-role-de-l-arn-dans-la-traduction-de-l-information-genetique-en-proteines
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un intermediaire essentiel qui transporte et traduit les instructions contenues dans l'ADN.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique des groupes sanguins et leur transmission hereditaire
+slug: la-genetique-des-groupes-sanguins-et-leur-transmission-hereditaire
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un exemple concret et bien connu de la transmission de caracteres selon des regles precises.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sequencage du genome dans la comprehension complete de l'heredite
+slug: le-role-du-sequencage-du-genome-dans-la-comprehension-complete-de-l-heredite
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une avancee majeure qui a permis de lire l'integralite de l'information genetique d'un organisme.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique des jumeaux et ce qu'elle revele sur l'influence de l'heredite
+slug: la-genetique-des-jumeaux-et-ce-qu-elle-revele-sur-l-influence-de-l-heredite
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une situation particuliere qui aide a distinguer l'influence genetique de celle de l'environnement.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'epigenetique dans la modulation de l'expression des genes
+slug: le-role-de-l-epigenetique-dans-la-modulation-de-l-expression-des-genes
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un domaine qui etudie comment l'environnement peut influencer le fonctionnement des genes sans modifier l'ADN.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique des populations et l'etude de la variation genetique a grande echelle
+slug: la-genetique-des-populations-et-l-etude-de-la-variation-genetique-a-grande-echelle
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une discipline qui analyse comment les caracteristiques genetiques se repartissent dans un groupe.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du conseil genetique dans l'accompagnement des familles a risque hereditaire
+slug: le-role-du-conseil-genetique-dans-l-accompagnement-des-familles-a-risque-hereditaire
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un accompagnement specialise qui aide a comprendre et a anticiper certains risques familiaux.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique et l'heredite des caracteres lies au sexe
+slug: la-genetique-et-l-heredite-des-caracteres-lies-au-sexe
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une transmission particuliere qui explique pourquoi certains traits touchent differemment hommes et femmes.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tests genetiques dans le diagnostic de certaines maladies hereditaires
+slug: le-role-des-tests-genetiques-dans-le-diagnostic-de-certaines-maladies-hereditaires
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un outil medical qui permet d'identifier des risques avant meme l'apparition de symptomes.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique quantitative et l'etude des caracteres influences par plusieurs genes
+slug: la-genetique-quantitative-et-l-etude-des-caracteres-influences-par-plusieurs-genes
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une approche qui s'interesse a des traits complexes resultant de l'action combinee de nombreux genes.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la genetique dans la comprehension de la diversite biologique entre individus
+slug: le-role-de-la-genetique-dans-la-comprehension-de-la-diversite-biologique-entre-individus
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une explication fondamentale des differences observees entre les membres d'une meme espece.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique moleculaire et l'etude fine des mecanismes au niveau de l'ADN
+slug: la-genetique-moleculaire-et-l-etude-fine-des-mecanismes-au-niveau-de-l-adn
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une discipline qui explore en detail les processus chimiques a l'origine de l'heredite.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'heredite multifactorielle dans certaines maladies communes
+slug: le-role-de-l-heredite-multifactorielle-dans-certaines-maladies-communes
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une combinaison de facteurs genetiques et environnementaux qui explique de nombreuses affections frequentes.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique et son role dans la comprehension de l'origine de certains cancers
+slug: la-genetique-et-son-role-dans-la-comprehension-de-l-origine-de-certains-cancers
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une avancee importante qui a revele le lien entre certaines mutations et le developpement tumoral.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la recombinaison genetique dans la creation de nouvelles combinaisons de genes
+slug: le-role-de-la-recombinaison-genetique-dans-la-creation-de-nouvelles-combinaisons-de-genes
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un processus naturel qui melange le materiel genetique lors de la reproduction sexuee.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La classification periodique des elements et son role fondamental en chimie
+slug: la-classification-periodique-des-elements-et-son-role-fondamental-en-chimie
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un tableau organise qui regroupe tous les elements chimiques connus selon leurs proprietes.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des metaux dans la chimie inorganique et leurs proprietes communes
+slug: le-role-des-metaux-dans-la-chimie-inorganique-et-leurs-proprietes-communes
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une categorie d'elements caracterisee par une conductivite et une brillance particulieres.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sels mineraux et leur role dans de nombreuses reactions chimiques
+slug: les-sels-mineraux-et-leur-role-dans-de-nombreuses-reactions-chimiques
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des composes courants formes par la reaction entre un acide et une base.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des gaz nobles et leur stabilite chimique remarquable
+slug: le-role-des-gaz-nobles-et-leur-stabilite-chimique-remarquable
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une famille d'elements peu reactifs en raison de leur structure electronique particuliere.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les oxydes metalliques et leur formation par reaction avec l'oxygene
+slug: les-oxydes-metalliques-et-leur-formation-par-reaction-avec-l-oxygene
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des composes frequents qui resultent de la combinaison d'un metal avec l'oxygene de l'air.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des acides et des bases dans les reactions chimiques inorganiques
+slug: le-role-des-acides-et-des-bases-dans-les-reactions-chimiques-inorganiques
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Deux categories fondamentales de composes qui reagissent selon des principes bien definis.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des mineraux et leur formation naturelle dans la croute terrestre
+slug: la-chimie-des-mineraux-et-leur-formation-naturelle-dans-la-croute-terrestre
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une discipline qui etudie la composition chimique des roches et des cristaux naturels.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des complexes de coordination dans la chimie des metaux de transition
+slug: le-role-des-complexes-de-coordination-dans-la-chimie-des-metaux-de-transition
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des structures particulieres ou un metal central se lie a plusieurs autres molecules.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composes du carbone consideres comme relevant de la chimie inorganique
+slug: les-composes-du-carbone-consideres-comme-relevant-de-la-chimie-inorganique
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une categorie particuliere qui echappe a la classification habituelle du carbone organique.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cristallographie dans l'etude de la structure des composes inorganiques
+slug: le-role-de-la-cristallographie-dans-l-etude-de-la-structure-des-composes-inorganiques
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une technique qui revele l'organisation precise des atomes au sein d'un materiau solide.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reactions d'oxydoreduction et leur importance en chimie inorganique
+slug: les-reactions-d-oxydoreduction-et-leur-importance-en-chimie-inorganique
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un type de reaction fondamental ou des electrons sont echanges entre differentes substances.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des catalyseurs inorganiques dans l'acceleration de certaines reactions industrielles
+slug: le-role-des-catalyseurs-inorganiques-dans-l-acceleration-de-certaines-reactions-industrielles
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des substances qui facilitent une reaction chimique sans etre elles-memes consommees.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des semi-conducteurs et son role dans l'electronique moderne
+slug: la-chimie-des-semi-conducteurs-et-son-role-dans-l-electronique-moderne
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une branche essentielle qui a rendu possible le developpement de nombreuses technologies actuelles.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des composes du silicium dans la fabrication de materiaux industriels
+slug: le-role-des-composes-du-silicium-dans-la-fabrication-de-materiaux-industriels
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un element abondant dont les composes sont utilises dans de nombreuses applications techniques.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie inorganique et la synthese de nouveaux materiaux ceramiques
+slug: la-chimie-inorganique-et-la-synthese-de-nouveaux-materiaux-ceramiques
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une application qui developpe des materiaux resistants a des temperatures et des contraintes extremes.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des composes du soufre dans l'industrie chimique
+slug: le-role-des-composes-du-soufre-dans-l-industrie-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des substances largement utilisees dans de nombreux procedes de fabrication industrielle.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des elements de transition et leurs proprietes catalytiques particulieres
+slug: la-chimie-des-elements-de-transition-et-leurs-proprietes-catalytiques-particulieres
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une famille d'elements aux comportements chimiques varies et souvent tres utiles.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la chimie inorganique dans le traitement des eaux
+slug: le-role-de-la-chimie-inorganique-dans-le-traitement-des-eaux
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une application pratique qui utilise des reactions chimiques pour purifier l'eau destinee a la consommation.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composes du phosphore et leur role essentiel dans l'agriculture
+slug: les-composes-du-phosphore-et-leur-role-essentiel-dans-l-agriculture
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des elements chimiques indispensables a la fabrication de nombreux engrais.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la chimie inorganique dans la conception de batteries et de piles
+slug: le-role-de-la-chimie-inorganique-dans-la-conception-de-batteries-et-de-piles
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une application technologique majeure qui repose sur des reactions chimiques precises entre metaux.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des halogenes et leur reactivite particulierement elevee
+slug: la-chimie-des-halogenes-et-leur-reactivite-particulierement-elevee
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une famille d'elements tres reactifs qui forment facilement des composes avec de nombreux autres elements.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des composes inorganiques dans la fabrication du verre
+slug: le-role-des-composes-inorganiques-dans-la-fabrication-du-verre
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une application ancienne qui combine plusieurs elements pour obtenir un materiau transparent et resistant.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role central du carbone dans la chimie organique
+slug: le-role-central-du-carbone-dans-la-chimie-organique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Un element unique par sa capacite a former de tres nombreuses liaisons avec d'autres atomes.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hydrocarbures et leur role de base dans de nombreux composes organiques
+slug: les-hydrocarbures-et-leur-role-de-base-dans-de-nombreux-composes-organiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des molecules simples composees uniquement de carbone et d'hydrogene, a l'origine de nombreux produits.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des groupes fonctionnels dans les proprietes des molecules organiques
+slug: le-role-des-groupes-fonctionnels-dans-les-proprietes-des-molecules-organiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des ensembles d'atomes specifiques qui determinent le comportement chimique d'une molecule.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre molecules organiques saturees et insaturees
+slug: la-difference-entre-molecules-organiques-saturees-et-insaturees
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une distinction essentielle liee au type de liaisons presentes entre les atomes de carbone.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reactions de polymerisation dans la fabrication des plastiques
+slug: le-role-des-reactions-de-polymerisation-dans-la-fabrication-des-plastiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Un processus chimique qui assemble de petites molecules en longues chaines pour former un materiau.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les isomeres et le phenomene ou une meme formule chimique donne des molecules differentes
+slug: les-isomeres-et-le-phenomene-ou-une-meme-formule-chimique-donne-des-molecules-differentes
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Un phenomene fascinant ou des atomes identiques peuvent s'organiser de plusieurs facons distinctes.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la chimie organique dans la synthese de medicaments
+slug: le-role-de-la-chimie-organique-dans-la-synthese-de-medicaments
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une application essentielle qui permet de creer artificiellement des molecules therapeutiques complexes.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les alcools et leur role dans de nombreuses reactions et applications chimiques
+slug: les-alcools-et-leur-role-dans-de-nombreuses-reactions-et-applications-chimiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une famille de composes courants presents dans de nombreux produits du quotidien.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des acides carboxyliques dans la chimie organique et leurs usages
+slug: le-role-des-acides-carboxyliques-dans-la-chimie-organique-et-leurs-usages
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une categorie de composes reconnaissable a leur groupe fonctionnel caracteristique.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie organique et la synthese de nouveaux materiaux composites
+slug: la-chimie-organique-et-la-synthese-de-nouveaux-materiaux-composites
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une contribution essentielle au developpement de materiaux innovants aux proprietes ameliorees.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reactions d'estérification dans la fabrication de parfums et d'aromes
+slug: le-role-des-reactions-d-esterification-dans-la-fabrication-de-parfums-et-d-aromes
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une reaction chimique specifique qui produit des molecules souvent associees a des odeurs agreables.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sucres et leur classification en chimie organique
+slug: les-sucres-et-leur-classification-en-chimie-organique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une famille de molecules essentielles a la vie, classees selon leur structure moleculaire precise.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la chirurgie moleculaire, ou chimie de synthese, dans la creation de nouvelles molecules
+slug: le-role-de-la-chirurgie-moleculaire-ou-chimie-de-synthese-dans-la-creation-de-nouvelles-molecules
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une discipline qui assemble methodiquement des atomes pour construire des molecules complexes.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie organique et son role dans l'industrie des colorants synthetiques
+slug: la-chimie-organique-et-son-role-dans-l-industrie-des-colorants-synthetiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une application historique majeure qui a permis de produire des couleurs autrefois tres couteuses.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des amines dans la chimie organique et leurs applications variees
+slug: le-role-des-amines-dans-la-chimie-organique-et-leurs-applications-variees
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une famille de composes azotes presents dans de nombreuses molecules biologiques et industrielles.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stereochimie et l'importance de l'orientation spatiale des molecules organiques
+slug: la-stereochimie-et-l-importance-de-l-orientation-spatiale-des-molecules-organiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une dimension supplementaire qui peut radicalement changer les proprietes d'une meme molecule.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la chimie organique dans la production de cosmetiques
+slug: le-role-de-la-chimie-organique-dans-la-production-de-cosmetiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une application quotidienne qui repose sur la synthese de nombreuses molecules specifiques.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reactions de substitution et d'addition en chimie organique
+slug: les-reactions-de-substitution-et-d-addition-en-chimie-organique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Deux mecanismes fondamentaux qui expliquent comment les molecules organiques se transforment.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la chimie organique dans le developpement de l'agrochimie
+slug: le-role-de-la-chimie-organique-dans-le-developpement-de-l-agrochimie
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une contribution essentielle a la fabrication de produits utilises dans l'agriculture moderne.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie organique verte et la recherche de procedes plus respectueux de l'environnement
+slug: la-chimie-organique-verte-et-la-recherche-de-procedes-plus-respectueux-de-l-environnement
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une demarche qui vise a reduire l'impact ecologique de la synthese chimique traditionnelle.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reactions catalysees par des enzymes dans la chimie organique naturelle
+slug: le-role-des-reactions-catalysees-par-des-enzymes-dans-la-chimie-organique-naturelle
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Un processus efficace ou des molecules biologiques accelerent des reactions complexes.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la thermodynamique chimique dans la comprehension des reactions
+slug: le-role-de-la-thermodynamique-chimique-dans-la-comprehension-des-reactions
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une discipline qui etudie les echanges d'energie associes aux transformations chimiques.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cinetique chimique et l'etude de la vitesse des reactions
+slug: la-cinetique-chimique-et-l-etude-de-la-vitesse-des-reactions
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une branche qui analyse les facteurs influencant la rapidite avec laquelle une reaction se produit.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'equilibre chimique dans les reactions reversibles
+slug: le-role-de-l-equilibre-chimique-dans-les-reactions-reversibles
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un etat particulier ou une reaction chimique semble s'arreter sans que les substances disparaissent completement.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La spectroscopie et son role dans l'analyse de la composition des substances
+slug: la-spectroscopie-et-son-role-dans-l-analyse-de-la-composition-des-substances
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une technique qui utilise la lumiere pour identifier et etudier des molecules a distance.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la structure electronique des atomes dans leurs proprietes chimiques
+slug: le-role-de-la-structure-electronique-des-atomes-dans-leurs-proprietes-chimiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une organisation particuliere des electrons qui determine largement le comportement chimique d'un element.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique et l'etude des changements d'etat de la matiere
+slug: la-chimie-physique-et-l-etude-des-changements-d-etat-de-la-matiere
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une discipline qui explique les transformations entre solide, liquide et gaz d'un point de vue energetique.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des catalyseurs dans l'acceleration des reactions chimiques sans etre consommes
+slug: le-role-des-catalyseurs-dans-l-acceleration-des-reactions-chimiques-sans-etre-consommes
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un mecanisme fondamental qui facilite une reaction en abaissant l'energie necessaire pour qu'elle se produise.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie quantique et l'application des principes de la physique quantique a la chimie
+slug: la-chimie-quantique-et-l-application-des-principes-de-la-physique-quantique-a-la-chimie
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une approche qui utilise des lois physiques fondamentales pour expliquer le comportement des molecules.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'entropie dans la comprehension du sens naturel des reactions chimiques
+slug: le-role-de-l-entropie-dans-la-comprehension-du-sens-naturel-des-reactions-chimiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un concept fondamental qui aide a predire dans quelle direction une transformation va spontanement evoluer.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique et l'etude des solutions et de la dissolution des substances
+slug: la-chimie-physique-et-l-etude-des-solutions-et-de-la-dissolution-des-substances
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une analyse detaillee de la maniere dont differentes substances se melangent entre elles.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la diffusion moleculaire dans les phenomenes chimiques et physiques
+slug: le-role-de-la-diffusion-moleculaire-dans-les-phenomenes-chimiques-et-physiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un mouvement naturel qui explique comment les molecules se repartissent progressivement dans un milieu.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique et l'analyse des surfaces et des interfaces entre materiaux
+slug: la-chimie-physique-et-l-analyse-des-surfaces-et-des-interfaces-entre-materiaux
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une discipline qui etudie ce qui se passe precisement a la frontiere entre deux substances distinctes.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des liaisons chimiques dans la stabilite et les proprietes des molecules
+slug: le-role-des-liaisons-chimiques-dans-la-stabilite-et-les-proprietes-des-molecules
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une force fondamentale qui maintient ensemble les atomes au sein d'une molecule.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique et son role dans le developpement de nouveaux materiaux energetiques
+slug: la-chimie-physique-et-son-role-dans-le-developpement-de-nouveaux-materiaux-energetiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une contribution essentielle a la conception de batteries et d'autres dispositifs de stockage d'energie.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la thermochimie dans le calcul de l'energie liberee ou absorbee par une reaction
+slug: le-role-de-la-thermochimie-dans-le-calcul-de-l-energie-liberee-ou-absorbee-par-une-reaction
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une branche specifique qui mesure precisement les echanges de chaleur lors d'une transformation chimique.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique et l'etude des phenomenes electrochimiques
+slug: la-chimie-physique-et-l-etude-des-phenomenes-electrochimiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une discipline qui explore le lien etroit entre reactions chimiques et courant electrique.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la modelisation moleculaire dans la prediction du comportement des substances
+slug: le-role-de-la-modelisation-moleculaire-dans-la-prediction-du-comportement-des-substances
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un outil informatique qui simule virtuellement le comportement de molecules avant toute experience reelle.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique et l'analyse des phenomenes de transport thermique dans la matiere
+slug: la-chimie-physique-et-l-analyse-des-phenomenes-de-transport-thermique-dans-la-matiere
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une etude qui explique comment la chaleur se propage a travers differentes substances.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la photochimie dans les reactions declenchees par la lumiere
+slug: le-role-de-la-photochimie-dans-les-reactions-declenchees-par-la-lumiere
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un domaine specifique qui etudie comment la lumiere peut provoquer ou influencer une reaction chimique.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique et son role dans la comprehension des phenomenes atmospheriques
+slug: la-chimie-physique-et-son-role-dans-la-comprehension-des-phenomenes-atmospheriques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une contribution essentielle a l'analyse des reactions chimiques qui se produisent dans l'air.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general d'une equation et la recherche de sa solution
+slug: le-principe-general-d-une-equation-et-la-recherche-de-sa-solution
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une expression mathematique qui exprime une egalite entre deux quantites a determiner.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les polynomes et leur role fondamental en algebre
+slug: les-polynomes-et-leur-role-fondamental-en-algebre
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des expressions mathematiques construites a partir de puissances d'une meme variable.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des matrices dans la representation et la resolution de systemes d'equations
+slug: le-role-des-matrices-dans-la-representation-et-la-resolution-de-systemes-d-equations
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un outil qui organise des nombres en tableau pour faciliter certains calculs complexes.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nombres complexes et leur extension utile au-dela des nombres reels
+slug: les-nombres-complexes-et-leur-extension-utile-au-dela-des-nombres-reels
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une categorie de nombres qui permet de resoudre des equations impossibles avec les nombres habituels.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des groupes en algebre abstraite et leur structure fondamentale
+slug: le-role-des-groupes-en-algebre-abstraite-et-leur-structure-fondamentale
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un concept qui etudie des ensembles munis d'une operation respectant certaines regles precises.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'equations lineaires et les methodes pour les resoudre
+slug: les-systemes-d-equations-lineaires-et-les-methodes-pour-les-resoudre
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un ensemble de plusieurs equations dont on cherche une solution commune a toutes.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'algebre lineaire dans la representation des transformations geometriques
+slug: le-role-de-l-algebre-lineaire-dans-la-representation-des-transformations-geometriques
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une branche qui decrit mathematiquement comment des figures peuvent etre deplacees ou deformees.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions et leur role central dans la description des relations mathematiques
+slug: les-fonctions-et-leur-role-central-dans-la-description-des-relations-mathematiques
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un concept fondamental qui associe a chaque valeur d'entree une valeur de sortie unique.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des vecteurs en algebre et leur utilisation en physique et en geometrie
+slug: le-role-des-vecteurs-en-algebre-et-leur-utilisation-en-physique-et-en-geometrie
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un objet mathematique qui represente a la fois une direction et une grandeur.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites mathematiques et leurs methodes de resolution
+slug: les-inegalites-mathematiques-et-leurs-methodes-de-resolution
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une comparaison entre deux quantites qui ne sont pas necessairement egales.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des racines d'un polynome dans la resolution d'equations complexes
+slug: le-role-des-racines-d-un-polynome-dans-la-resolution-d-equations-complexes
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Les valeurs specifiques qui, une fois substituees, annulent l'expression polynomiale.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'algebre booleenne et son role fondamental dans l'informatique moderne
+slug: l-algebre-booleenne-et-son-role-fondamental-dans-l-informatique-moderne
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une branche des mathematiques qui traite des valeurs vraies ou fausses, essentielle au fonctionnement des ordinateurs.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des determinants dans l'etude des matrices et des systemes lineaires
+slug: le-role-des-determinants-dans-l-etude-des-matrices-et-des-systemes-lineaires
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un nombre calcule a partir d'une matrice qui renseigne sur certaines de ses proprietes essentielles.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les suites numeriques et leurs regles de progression
+slug: les-suites-numeriques-et-leurs-regles-de-progression
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une liste ordonnee de nombres qui suit une regle precise pour passer d'un terme au suivant.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'algebre dans la modelisation de phenomenes economiques et financiers
+slug: le-role-de-l-algebre-dans-la-modelisation-de-phenomenes-economiques-et-financiers
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une application concrete qui utilise des equations pour representer des situations du monde reel.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les anneaux et les corps comme structures algebriques fondamentales
+slug: les-anneaux-et-les-corps-comme-structures-algebriques-fondamentales
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des concepts abstraits qui generalisent les proprietes des nombres a d'autres ensembles mathematiques.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la factorisation dans la simplification des expressions algebriques
+slug: le-role-de-la-factorisation-dans-la-simplification-des-expressions-algebriques
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une technique qui decompose une expression complexe en un produit de facteurs plus simples.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les equations du second degre et les methodes historiques pour les resoudre
+slug: les-equations-du-second-degre-et-les-methodes-historiques-pour-les-resoudre
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un type d'equation frequent dont la resolution a occupe les mathematiciens depuis l'Antiquite.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'algebre dans la cryptographie moderne et la securite des donnees
+slug: le-role-de-l-algebre-dans-la-cryptographie-moderne-et-la-securite-des-donnees
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une application essentielle qui utilise des proprietes mathematiques pour proteger des informations.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les espaces vectoriels et leur role dans l'algebre lineaire avancee
+slug: les-espaces-vectoriels-et-leur-role-dans-l-algebre-lineaire-avancee
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un cadre abstrait qui generalise la notion de vecteur a des contextes mathematiques plus larges.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general d'une limite en mathematiques
+slug: le-principe-general-d-une-limite-en-mathematiques
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un concept fondamental qui decrit le comportement d'une fonction lorsqu'elle s'approche d'une valeur precise.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La derivee et son role dans la mesure du taux de variation d'une fonction
+slug: la-derivee-et-son-role-dans-la-mesure-du-taux-de-variation-d-une-fonction
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un outil qui indique a quelle vitesse une quantite change par rapport a une autre.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'integrale et son role dans le calcul d'aires et de quantites accumulees
+slug: l-integrale-et-son-role-dans-le-calcul-d-aires-et-de-quantites-accumulees
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un concept fondamental qui permet de calculer une surface ou une somme continue de petites quantites.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la continuite d'une fonction dans l'analyse mathematique
+slug: le-role-de-la-continuite-d-une-fonction-dans-l-analyse-mathematique
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une propriete qui garantit qu'une fonction ne presente pas de rupture brutale dans son comportement.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les series mathematiques et la somme d'une infinite de termes
+slug: les-series-mathematiques-et-la-somme-d-une-infinite-de-termes
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un concept qui etudie ce qui se passe lorsqu'on additionne indefiniment des quantites de plus en plus petites.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du calcul differentiel dans la modelisation du changement
+slug: le-role-du-calcul-differentiel-dans-la-modelisation-du-changement
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une branche essentielle qui decrit mathematiquement comment les choses evoluent dans le temps.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les equations differentielles et leur role dans la description de phenomenes naturels
+slug: les-equations-differentielles-et-leur-role-dans-la-description-de-phenomenes-naturels
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Des equations qui relient une quantite a sa propre vitesse de variation.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'analyse mathematique dans la modelisation de la croissance des populations
+slug: le-role-de-l-analyse-mathematique-dans-la-modelisation-de-la-croissance-des-populations
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une application concrete qui utilise des outils mathematiques pour predire l'evolution d'un nombre d'individus.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions exponentielles et logarithmiques et leurs proprietes remarquables
+slug: les-fonctions-exponentielles-et-logarithmiques-et-leurs-proprietes-remarquables
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Deux familles de fonctions particulierement utiles pour decrire des phenomenes de croissance ou de decroissance.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du theoreme fondamental de l'analyse reliant derivee et integrale
+slug: le-role-du-theoreme-fondamental-de-l-analyse-reliant-derivee-et-integrale
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un resultat majeur qui etablit un lien profond entre deux concepts en apparence distincts.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions trigonometriques et leur role dans l'etude des phenomenes periodiques
+slug: les-fonctions-trigonometriques-et-leur-role-dans-l-etude-des-phenomenes-periodiques
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Des outils essentiels pour decrire des mouvements qui se repetent regulierement dans le temps.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'analyse numerique dans l'approximation de solutions mathematiques complexes
+slug: le-role-de-l-analyse-numerique-dans-l-approximation-de-solutions-mathematiques-complexes
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une approche pratique qui calcule des valeurs approchees lorsqu'une solution exacte est trop difficile a obtenir.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les points d'inflexion et les extremums dans l'etude du comportement d'une fonction
+slug: les-points-d-inflexion-et-les-extremums-dans-l-etude-du-comportement-d-une-fonction
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Des points particuliers qui revelent des changements importants dans l'allure d'une courbe.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'analyse dans la modelisation des phenomenes physiques comme le mouvement
+slug: le-role-de-l-analyse-dans-la-modelisation-des-phenomenes-physiques-comme-le-mouvement
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une application fondamentale qui a permis de decrire mathematiquement le deplacement des objets.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les series de Fourier et la decomposition de phenomenes complexes en composantes simples
+slug: les-series-de-fourier-et-la-decomposition-de-phenomenes-complexes-en-composantes-simples
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une technique remarquable qui decompose un signal complique en une somme de vibrations simples.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la convergence dans l'etude des suites et des series mathematiques
+slug: le-role-de-la-convergence-dans-l-etude-des-suites-et-des-series-mathematiques
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une propriete qui determine si une succession de valeurs s'approche d'une limite precise.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les equations aux derivees partielles et leur role dans la description de phenomenes complexes
+slug: les-equations-aux-derivees-partielles-et-leur-role-dans-la-description-de-phenomenes-complexes
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Des equations avancees qui decrivent des situations dependant de plusieurs variables a la fois.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'analyse mathematique dans l'optimisation de problemes concrets
+slug: le-role-de-l-analyse-mathematique-dans-l-optimisation-de-problemes-concrets
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une application qui aide a trouver la meilleure solution possible parmi de nombreuses options.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nombres irrationnels et leur decouverte historique en mathematiques
+slug: les-nombres-irrationnels-et-leur-decouverte-historique-en-mathematiques
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une categorie de nombres dont l'existence a longtemps intrigue et derange les mathematiciens anciens.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'analyse complexe dans l'extension des outils mathematiques aux nombres imaginaires
+slug: le-role-de-l-analyse-complexe-dans-l-extension-des-outils-mathematiques-aux-nombres-imaginaires
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une branche avancee qui applique les concepts de l'analyse a une categorie plus large de nombres.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les theoremes fondamentaux de la geometrie euclidienne
+slug: les-theoremes-fondamentaux-de-la-geometrie-euclidienne
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un ensemble de resultats de base qui structurent depuis des siecles l'etude des formes et des espaces.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du theoreme de Pythagore dans la geometrie du triangle rectangle
+slug: le-role-du-theoreme-de-pythagore-dans-la-geometrie-du-triangle-rectangle
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une relation celebre et fondamentale qui relie les longueurs des cotes d'un triangle particulier.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les figures geometriques planes et leurs proprietes caracteristiques
+slug: les-figures-geometriques-planes-et-leurs-proprietes-caracteristiques
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des formes simples comme le cercle ou le carre dont l'etude constitue la base de la geometrie.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la trigonometrie dans l'etude des angles et des triangles
+slug: le-role-de-la-trigonometrie-dans-l-etude-des-angles-et-des-triangles
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une branche qui relie les angles d'un triangle a la longueur de ses cotes.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les solides geometriques et le calcul de leur volume
+slug: les-solides-geometriques-et-le-calcul-de-leur-volume
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des formes en trois dimensions dont la mesure precise interesse de nombreuses applications pratiques.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des transformations geometriques comme la rotation et la symetrie
+slug: le-role-des-transformations-geometriques-comme-la-rotation-et-la-symetrie
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des operations qui deplacent ou modifient une figure tout en preservant certaines de ses proprietes.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie non euclidienne et la remise en question d'un postulat ancien
+slug: la-geometrie-non-euclidienne-et-la-remise-en-question-d-un-postulat-ancien
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une decouverte majeure qui a montre que d'autres geometries coherentes pouvaient exister.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geometrie analytique dans la representation des figures par des equations
+slug: le-role-de-la-geometrie-analytique-dans-la-representation-des-figures-par-des-equations
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une approche qui relie les formes geometriques a des expressions algebriques precises.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les angles et leur classification selon leur mesure
+slug: les-angles-et-leur-classification-selon-leur-mesure
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un concept fondamental de la geometrie qui decrit l'ecart entre deux directions.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geometrie dans l'architecture et la construction de batiments
+slug: le-role-de-la-geometrie-dans-l-architecture-et-la-construction-de-batiments
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une application tres concrete ou les principes geometriques garantissent la solidite des structures.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les polygones reguliers et leurs proprietes remarquables
+slug: les-polygones-reguliers-et-leurs-proprietes-remarquables
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des figures aux cotes et aux angles egaux, etudiees depuis l'Antiquite pour leur symetrie parfaite.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geometrie dans l'art et les proportions esthetiques
+slug: le-role-de-la-geometrie-dans-l-art-et-les-proportions-esthetiques
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une influence discrete mais reelle sur de nombreuses oeuvres artistiques a travers l'histoire.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les coniques et leur role dans la description des trajectoires courbes
+slug: les-coniques-et-leur-role-dans-la-description-des-trajectoires-courbes
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des figures obtenues en coupant un cone, presentes dans de nombreux phenomenes naturels.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geometrie dans la navigation et le calcul de distances
+slug: le-role-de-la-geometrie-dans-la-navigation-et-le-calcul-de-distances
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une application ancienne qui a permis aux navigateurs de se reperer sur de longues distances.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie descriptive et la representation d'objets en trois dimensions sur un plan
+slug: la-geometrie-descriptive-et-la-representation-d-objets-en-trois-dimensions-sur-un-plan
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une technique qui permet de dessiner precisement des objets complexes en deux dimensions.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du theoreme de Thales dans l'etude des proportions geometriques
+slug: le-role-du-theoreme-de-thales-dans-l-etude-des-proportions-geometriques
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un resultat fondamental qui relie des longueurs proportionnelles dans des figures similaires.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fractales et la geometrie des formes complexes et repetitives
+slug: les-fractales-et-la-geometrie-des-formes-complexes-et-repetitives
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des figures mathematiques fascinantes qui se repetent a differentes echelles d'observation.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geometrie dans les jeux video et la representation numerique
+slug: le-role-de-la-geometrie-dans-les-jeux-video-et-la-representation-numerique
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une application moderne essentielle a la creation d'environnements visuels sur ordinateur.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les demonstrations geometriques et la rigueur du raisonnement mathematique
+slug: les-demonstrations-geometriques-et-la-rigueur-du-raisonnement-mathematique
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une methode structuree qui prouve de maniere incontestable une propriete geometrique.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geometrie dans la cartographie et la representation de la Terre
+slug: le-role-de-la-geometrie-dans-la-cartographie-et-la-representation-de-la-terre
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un defi particulier lie a la representation d'une surface courbe sur une carte plane.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general du calcul de probabilite d'un evenement
+slug: le-principe-general-du-calcul-de-probabilite-d-un-evenement
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une mesure qui quantifie la chance qu'un evenement particulier se produise.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les statistiques descriptives et le resume d'un ensemble de donnees
+slug: les-statistiques-descriptives-et-le-resume-d-un-ensemble-de-donnees
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Des outils simples comme la moyenne qui permettent de synthetiser une grande quantite d'informations.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la loi des grands nombres dans la comprehension des phenomenes aleatoires
+slug: le-role-de-la-loi-des-grands-nombres-dans-la-comprehension-des-phenomenes-aleatoires
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un principe fondamental qui explique pourquoi les resultats se stabilisent sur un grand nombre d'essais.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les distributions de probabilite et leur role dans la modelisation du hasard
+slug: les-distributions-de-probabilite-et-leur-role-dans-la-modelisation-du-hasard
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Des modeles mathematiques qui decrivent comment les resultats possibles se repartissent.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'esperance mathematique dans l'evaluation d'un jeu de hasard
+slug: le-role-de-l-esperance-mathematique-dans-l-evaluation-d-un-jeu-de-hasard
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une valeur moyenne attendue qui aide a juger si un jeu est favorable ou non sur le long terme.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites conditionnelles et l'influence d'un evenement sur un autre
+slug: les-probabilites-conditionnelles-et-l-influence-d-un-evenement-sur-un-autre
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un concept qui mesure comment la probabilite d'un evenement change selon des informations supplementaires.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des statistiques dans les sondages et les enquetes d'opinion
+slug: le-role-des-statistiques-dans-les-sondages-et-les-enquetes-d-opinion
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une application tres repandue qui estime les opinions d'une large population a partir d'un echantillon.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi normale et son role central dans de nombreux phenomenes naturels
+slug: la-loi-normale-et-son-role-central-dans-de-nombreux-phenomenes-naturels
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une distribution particuliere qui decrit remarquablement bien de tres nombreuses situations reelles.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tests statistiques dans la validation scientifique de resultats de recherche
+slug: le-role-des-tests-statistiques-dans-la-validation-scientifique-de-resultats-de-recherche
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une methode rigoureuse qui verifie si une observation est significative ou due au simple hasard.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites et leur role dans les jeux de hasard et les casinos
+slug: les-probabilites-et-leur-role-dans-les-jeux-de-hasard-et-les-casinos
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un domaine d'application classique ou le calcul des chances est essentiel a la comprehension du jeu.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'echantillonnage dans la fiabilite des etudes statistiques
+slug: le-role-de-l-echantillonnage-dans-la-fiabilite-des-etudes-statistiques
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une methode de selection qui determine directement la qualite des conclusions d'une etude.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les correlations statistiques et la distinction essentielle avec la causalite
+slug: les-correlations-statistiques-et-la-distinction-essentielle-avec-la-causalite
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un piege frequent ou deux phenomenes lies ne signifient pas necessairement que l'un cause l'autre.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des probabilites dans les modeles de prevision meteorologique
+slug: le-role-des-probabilites-dans-les-modeles-de-prevision-meteorologique
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une application concrete qui exprime l'incertitude inherente aux previsions du temps.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La variance et l'ecart-type comme mesures de la dispersion des donnees
+slug: la-variance-et-l-ecart-type-comme-mesures-de-la-dispersion-des-donnees
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Des indicateurs qui completent la moyenne en montrant a quel point les valeurs varient entre elles.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des statistiques dans l'evaluation des risques en assurance
+slug: le-role-des-statistiques-dans-l-evaluation-des-risques-en-assurance
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une application majeure ou le calcul des probabilites determine directement le cout d'une couverture.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites et la genetique dans la prevision de la transmission de caracteres
+slug: les-probabilites-et-la-genetique-dans-la-prevision-de-la-transmission-de-caracteres
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une application ou le calcul des chances aide a comprendre l'heredite de certains traits.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des intervalles de confiance dans l'interpretation des resultats statistiques
+slug: le-role-des-intervalles-de-confiance-dans-l-interpretation-des-resultats-statistiques
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un outil qui exprime le degre de certitude associe a une estimation issue de donnees.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les statistiques dans le domaine du sport pour evaluer les performances
+slug: les-statistiques-dans-le-domaine-du-sport-pour-evaluer-les-performances
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une application populaire qui utilise des donnees chiffrees pour analyser objectivement des competitions.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des probabilites dans les algorithmes d'intelligence artificielle
+slug: le-role-des-probabilites-dans-les-algorithmes-d-intelligence-artificielle
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une base mathematique essentielle a de nombreuses methodes modernes d'apprentissage automatique.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais statistiques et les erreurs frequentes dans l'interpretation des donnees
+slug: les-biais-statistiques-et-les-erreurs-frequentes-dans-l-interpretation-des-donnees
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Des pieges courants qui peuvent conduire a des conclusions trompeuses meme avec des donnees correctes.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general du champ electrique et son role dans les interactions entre charges
+slug: le-principe-general-du-champ-electrique-et-son-role-dans-les-interactions-entre-charges
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une force fondamentale qui s'exerce entre des objets porteurs de charge electrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le champ magnetique et son role dans les interactions entre aimants et courants
+slug: le-champ-magnetique-et-son-role-dans-les-interactions-entre-aimants-et-courants
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une force invisible qui explique le comportement des aimants et des courants electriques.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'induction electromagnetique dans la production d'electricite
+slug: le-role-de-l-induction-electromagnetique-dans-la-production-d-electricite
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un phenomene fondamental qui permet de transformer un mouvement en courant electrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ondes electromagnetiques et leur role dans la transmission d'informations
+slug: les-ondes-electromagnetiques-et-leur-role-dans-la-transmission-d-informations
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un phenomene qui inclut la lumiere visible mais aussi les ondes radio et bien d'autres formes.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la loi de Coulomb dans le calcul de la force entre deux charges electriques
+slug: le-role-de-la-loi-de-coulomb-dans-le-calcul-de-la-force-entre-deux-charges-electriques
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une relation fondamentale qui quantifie precisement l'attraction ou la repulsion entre charges.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les circuits electriques et le principe de la circulation du courant
+slug: les-circuits-electriques-et-le-principe-de-la-circulation-du-courant
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un chemin ferme qui permet aux charges electriques de circuler et d'alimenter des appareils.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du champ electromagnetique unifie dans la physique moderne
+slug: le-role-du-champ-electromagnetique-unifie-dans-la-physique-moderne
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une comprehension qui a revele que l'electricite et le magnetisme sont deux aspects d'un meme phenomene.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aimants et le magnetisme naturel de certains materiaux
+slug: les-aimants-et-le-magnetisme-naturel-de-certains-materiaux
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une propriete remarquable presente naturellement dans certains materiaux depuis l'Antiquite.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'electromagnetisme dans le fonctionnement des moteurs electriques
+slug: le-role-de-l-electromagnetisme-dans-le-fonctionnement-des-moteurs-electriques
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une application fondamentale qui transforme l'energie electrique en mouvement mecanique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les equations de Maxwell et leur role fondamental dans la description de l'electromagnetisme
+slug: les-equations-de-maxwell-et-leur-role-fondamental-dans-la-description-de-l-electromagnetisme
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un ensemble de relations mathematiques qui unifient l'ensemble des phenomenes electriques et magnetiques.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du spectre electromagnetique dans la classification des differentes ondes
+slug: le-role-du-spectre-electromagnetique-dans-la-classification-des-differentes-ondes
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un classement qui organise toutes les ondes electromagnetiques selon leur longueur d'onde.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les generateurs electriques et le principe de conversion de l'energie mecanique en electricite
+slug: les-generateurs-electriques-et-le-principe-de-conversion-de-l-energie-mecanique-en-electricite
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un dispositif fondamental qui utilise le mouvement pour produire un courant electrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du champ magnetique terrestre dans la protection de la planete
+slug: le-role-du-champ-magnetique-terrestre-dans-la-protection-de-la-planete
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un bouclier naturel invisible qui protege la Terre de certaines particules dangereuses venues de l'espace.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transformateurs electriques et leur role dans l'ajustement de la tension
+slug: les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un dispositif essentiel qui permet d'adapter le niveau de tension du courant electrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'electromagnetisme dans le fonctionnement des haut-parleurs
+slug: le-role-de-l-electromagnetisme-dans-le-fonctionnement-des-haut-parleurs
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une application concrete qui transforme un signal electrique en vibration sonore audible.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ondes radio et leur role dans les communications sans fil
+slug: les-ondes-radio-et-leur-role-dans-les-communications-sans-fil
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une portion specifique du spectre electromagnetique particulierement utilisee pour transmettre des informations.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la resistance electrique dans le comportement des circuits
+slug: le-role-de-la-resistance-electrique-dans-le-comportement-des-circuits
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une propriete qui s'oppose au passage du courant et transforme une partie de l'energie en chaleur.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capaciteurs et leur role dans le stockage temporaire de l'energie electrique
+slug: les-capaciteurs-et-leur-role-dans-le-stockage-temporaire-de-l-energie-electrique
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un composant qui accumule et restitue rapidement de l'energie sous forme electrique.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'electromagnetisme dans l'imagerie medicale par resonance magnetique
+slug: le-role-de-l-electromagnetisme-dans-l-imagerie-medicale-par-resonance-magnetique
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une application avancee qui exploite des principes electromagnetiques pour visualiser l'interieur du corps.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les phenomenes de polarisation de la lumiere et leur explication electromagnetique
+slug: les-phenomenes-de-polarisation-de-la-lumiere-et-leur-explication-electromagnetique
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un aspect particulier des ondes lumineuses qui trouve son explication dans la theorie electromagnetique.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'electromagnetisme dans le developpement des technologies sans fil modernes
+slug: le-role-de-l-electromagnetisme-dans-le-developpement-des-technologies-sans-fil-modernes
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une base scientifique essentielle a de nombreuses innovations de communication actuelles.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les micro-ondes et leur role a la fois en cuisine et en telecommunication
+slug: les-micro-ondes-et-leur-role-a-la-fois-en-cuisine-et-en-telecommunication
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une meme categorie d'ondes utilisee pour des applications tres differentes au quotidien.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les trois lois du mouvement formulees par Isaac Newton
+slug: les-trois-lois-du-mouvement-formulees-par-isaac-newton
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Des principes fondamentaux qui decrivent comment les objets se deplacent sous l'effet de forces.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la force de gravitation dans l'attraction entre les objets
+slug: le-role-de-la-force-de-gravitation-dans-l-attraction-entre-les-objets
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une force universelle qui explique pourquoi les objets tombent et pourquoi les planetes orbitent.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La notion d'energie cinetique et son role dans le mouvement des objets
+slug: la-notion-d-energie-cinetique-et-son-role-dans-le-mouvement-des-objets
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une forme d'energie liee directement a la vitesse d'un objet en deplacement.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'energie potentielle dans le stockage d'energie lie a la position
+slug: le-role-de-l-energie-potentielle-dans-le-stockage-d-energie-lie-a-la-position
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une forme d'energie qui depend de la position d'un objet par rapport a une reference.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation de l'energie mecanique dans un systeme sans frottement
+slug: la-conservation-de-l-energie-mecanique-dans-un-systeme-sans-frottement
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un principe fondamental qui explique comment l'energie se transforme sans jamais disparaitre.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des forces de frottement dans le ralentissement des mouvements
+slug: le-role-des-forces-de-frottement-dans-le-ralentissement-des-mouvements
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une force qui s'oppose au deplacement et transforme progressivement l'energie de mouvement en chaleur.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mecanique du point materiel et la simplification du mouvement des objets
+slug: la-mecanique-du-point-materiel-et-la-simplification-du-mouvement-des-objets
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une approche qui reduit un objet complexe a un simple point pour faciliter son etude.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la quantite de mouvement dans les chocs entre objets
+slug: le-role-de-la-quantite-de-mouvement-dans-les-chocs-entre-objets
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une grandeur physique essentielle qui se conserve lors d'une collision entre deux corps.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mouvements circulaires et la force centripete qui les maintient
+slug: les-mouvements-circulaires-et-la-force-centripete-qui-les-maintient
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un type particulier de mouvement qui necessite une force dirigee constamment vers le centre.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mecanique dans la conception des ponts et des structures
+slug: le-role-de-la-mecanique-dans-la-conception-des-ponts-et-des-structures
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une application essentielle qui garantit la solidite et la stabilite des constructions humaines.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les oscillations et le mouvement periodique d'un pendule
+slug: les-oscillations-et-le-mouvement-periodique-d-un-pendule
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un mouvement qui se repete regulierement, etudie depuis des siecles pour sa regularite remarquable.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du centre de gravite dans l'equilibre des objets
+slug: le-role-du-centre-de-gravite-dans-l-equilibre-des-objets
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un point precis dont la position determine si un objet reste stable ou bascule.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mecanique des fluides et l'etude du comportement des liquides et des gaz en mouvement
+slug: la-mecanique-des-fluides-et-l-etude-du-comportement-des-liquides-et-des-gaz-en-mouvement
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une branche qui explique comment l'eau ou l'air se comportent lorsqu'ils circulent.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mecanique dans l'etude du mouvement des planetes
+slug: le-role-de-la-mecanique-dans-l-etude-du-mouvement-des-planetes
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une application historique majeure qui a permis de comprendre et de predire les orbites celestes.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les chutes libres et l'acceleration constante due a la gravite
+slug: les-chutes-libres-et-l-acceleration-constante-due-a-la-gravite
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un phenomene simple mais fondamental qui a permis de nombreuses decouvertes en physique.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mecanique dans la conception des vehicules et des moyens de transport
+slug: le-role-de-la-mecanique-dans-la-conception-des-vehicules-et-des-moyens-de-transport
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une application concrete essentielle a la securite et a l'efficacite des transports modernes.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les forces de tension et de compression dans les structures mecaniques
+slug: les-forces-de-tension-et-de-compression-dans-les-structures-mecaniques
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Deux types de contraintes fondamentales qui s'exercent sur les materiaux d'une construction.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du moment d'une force dans la rotation des objets
+slug: le-role-du-moment-d-une-force-dans-la-rotation-des-objets
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une grandeur qui explique pourquoi une force peut faire tourner un objet autour d'un point fixe.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mecanique statique et l'etude des objets a l'equilibre
+slug: la-mecanique-statique-et-l-etude-des-objets-a-l-equilibre
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une branche qui analyse les forces sur des objets qui ne bougent pas malgre les contraintes.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mecanique dans le fonctionnement des machines simples comme le levier
+slug: le-role-de-la-mecanique-dans-le-fonctionnement-des-machines-simples-comme-le-levier
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Des dispositifs anciens et ingenieux qui utilisent des principes mecaniques fondamentaux.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mouvements des projectiles et la trajectoire courbe qu'ils suivent
+slug: les-mouvements-des-projectiles-et-la-trajectoire-courbe-qu-ils-suivent
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un mouvement combine qui associe une vitesse horizontale et l'effet constant de la gravite.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de la dualite onde-particule en physique quantique
+slug: le-principe-de-la-dualite-onde-particule-en-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une decouverte surprenante ou la lumiere et la matiere se comportent tantot comme une onde, tantot comme une particule.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du principe d'incertitude dans la comprehension du monde microscopique
+slug: le-role-du-principe-d-incertitude-dans-la-comprehension-du-monde-microscopique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une limite fondamentale qui montre qu'on ne peut pas connaitre simultanement certaines proprietes avec precision.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La quantification de l'energie et la decouverte des niveaux discrets d'energie
+slug: la-quantification-de-l-energie-et-la-decouverte-des-niveaux-discrets-d-energie
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une revelation majeure qui a montre que l'energie ne varie pas de maniere continue a l'echelle atomique.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la fonction d'onde dans la description probabiliste des particules
+slug: le-role-de-la-fonction-d-onde-dans-la-description-probabiliste-des-particules
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un outil mathematique qui decrit non pas une position certaine mais une probabilite de presence.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les photons et la nature quantique de la lumiere
+slug: les-photons-et-la-nature-quantique-de-la-lumiere
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une decouverte fondamentale qui a revele que la lumiere est composee de petits paquets d'energie.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'effet tunnel dans le passage de particules a travers des barrieres
+slug: le-role-de-l-effet-tunnel-dans-le-passage-de-particules-a-travers-des-barrieres
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un phenomene contre-intuitif ou une particule peut traverser un obstacle qu'elle ne devrait pas pouvoir franchir.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'intrication quantique et le lien mysterieux entre particules eloignees
+slug: l-intrication-quantique-et-le-lien-mysterieux-entre-particules-eloignees
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un phenomene fascinant ou deux particules restent liees quelle que soit la distance qui les separe.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la physique quantique dans le fonctionnement des lasers
+slug: le-role-de-la-physique-quantique-dans-le-fonctionnement-des-lasers
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une application concrete qui exploite des principes quantiques pour produire une lumiere tres particuliere.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La superposition quantique et la possibilite pour une particule d'etre dans plusieurs etats
+slug: la-superposition-quantique-et-la-possibilite-pour-une-particule-d-etre-dans-plusieurs-etats
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un concept etonnant ou une particule peut exister simultanement dans plusieurs configurations possibles.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la physique quantique dans le developpement des semi-conducteurs
+slug: le-role-de-la-physique-quantique-dans-le-developpement-des-semi-conducteurs
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une base scientifique essentielle qui a permis l'essor de l'electronique moderne.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les experiences historiques qui ont revele les etrangetes du monde quantique
+slug: les-experiences-historiques-qui-ont-revele-les-etrangetes-du-monde-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Des experiences marquantes qui ont bouscule les intuitions classiques sur le comportement de la matiere.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mecanique quantique dans la comprehension de la structure des atomes
+slug: le-role-de-la-mecanique-quantique-dans-la-comprehension-de-la-structure-des-atomes
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une avancee fondamentale qui a explique pourquoi les atomes se comportent comme ils le font.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ordinateurs quantiques et leur principe de fonctionnement radicalement different
+slug: les-ordinateurs-quantiques-et-leur-principe-de-fonctionnement-radicalement-different
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une technologie emergente qui exploite des proprietes quantiques pour realiser certains calculs autrement.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chat de Schrodinger comme illustration celebre des paradoxes quantiques
+slug: le-role-du-chat-de-schrodinger-comme-illustration-celebre-des-paradoxes-quantiques
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une experience de pensee celebre qui illustre de maniere frappante l'etrangete du monde quantique.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decoherence quantique et la transition entre le monde microscopique et le monde visible
+slug: la-decoherence-quantique-et-la-transition-entre-le-monde-microscopique-et-le-monde-visible
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un phenomene qui explique pourquoi les etranges effets quantiques ne s'observent pas a notre echelle habituelle.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la physique quantique dans les technologies de cryptographie avancee
+slug: le-role-de-la-physique-quantique-dans-les-technologies-de-cryptographie-avancee
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une application prometteuse qui utilise des principes quantiques pour securiser des communications.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les particules elementaires et leur description par la physique quantique moderne
+slug: les-particules-elementaires-et-leur-description-par-la-physique-quantique-moderne
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un cadre theorique qui decrit les constituants les plus fondamentaux de la matiere connue.
+tags: [physique-quantique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des interpretations philosophiques dans le debat sur le sens de la physique quantique
+slug: le-role-des-interpretations-philosophiques-dans-le-debat-sur-le-sens-de-la-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une reflexion continue sur ce que signifient reellement les etranges resultats de cette theorie.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La physique quantique et son role dans la comprehension du rayonnement du corps noir
+slug: la-physique-quantique-et-son-role-dans-la-comprehension-du-rayonnement-du-corps-noir
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une decouverte historique qui a marque le point de depart de toute la physique quantique moderne.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la physique quantique dans les capteurs de precision extreme
+slug: le-role-de-la-physique-quantique-dans-les-capteurs-de-precision-extreme
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une application recente qui exploite la sensibilite des phenomenes quantiques pour des mesures tres precises.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la temperature et son role dans les echanges de chaleur
+slug: le-principe-general-de-la-temperature-et-son-role-dans-les-echanges-de-chaleur
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une grandeur fondamentale qui mesure l'agitation des particules constituant la matiere.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les trois principes fondamentaux de la thermodynamique
+slug: les-trois-principes-fondamentaux-de-la-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Des lois essentielles qui gouvernent tous les echanges d'energie sous forme de chaleur.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'entropie dans la mesure du desordre d'un systeme
+slug: le-role-de-l-entropie-dans-la-mesure-du-desordre-d-un-systeme
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un concept qui quantifie a quel point un systeme est organise ou au contraire desordonne.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation de l'energie dans les transformations thermodynamiques
+slug: la-conservation-de-l-energie-dans-les-transformations-thermodynamiques
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un principe fondamental qui affirme que l'energie ne se cree ni ne se detruit, seulement se transforme.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des changements d'etat dans les echanges d'energie thermique
+slug: le-role-des-changements-d-etat-dans-les-echanges-d-energie-thermique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un phenomene ou une substance absorbe ou libere de l'energie en passant d'un etat a un autre.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La thermodynamique et le fonctionnement des moteurs a combustion
+slug: la-thermodynamique-et-le-fonctionnement-des-moteurs-a-combustion
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une application essentielle qui explique comment la chaleur peut etre convertie en mouvement mecanique.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la chaleur specifique dans la capacite d'une substance a stocker l'energie thermique
+slug: le-role-de-la-chaleur-specifique-dans-la-capacite-d-une-substance-a-stocker-l-energie-thermique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une propriete qui varie selon les materiaux et explique pourquoi certains chauffent plus vite que d'autres.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transferts thermiques par conduction, convection et rayonnement
+slug: les-transferts-thermiques-par-conduction-convection-et-rayonnement
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Trois mecanismes distincts qui expliquent comment la chaleur se propage d'un endroit a un autre.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la thermodynamique dans le fonctionnement des refrigerateurs
+slug: le-role-de-la-thermodynamique-dans-le-fonctionnement-des-refrigerateurs
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une application inversee qui utilise des principes thermiques pour extraire la chaleur d'un espace ferme.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le zero absolu et la limite theorique la plus froide possible
+slug: le-zero-absolu-et-la-limite-theorique-la-plus-froide-possible
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une temperature limite ou l'agitation des particules devient theoriquement minimale.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du rendement dans l'evaluation de l'efficacite d'une machine thermique
+slug: le-role-du-rendement-dans-l-evaluation-de-l-efficacite-d-une-machine-thermique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une mesure essentielle qui compare l'energie utile produite a l'energie totale consommee.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La thermodynamique statistique et le lien entre comportement microscopique et proprietes macroscopiques
+slug: la-thermodynamique-statistique-et-le-lien-entre-comportement-microscopique-et-proprietes-macroscopiques
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une approche qui explique les proprietes visibles d'une substance a partir du comportement de ses particules.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la thermodynamique dans le fonctionnement des centrales electriques
+slug: le-role-de-la-thermodynamique-dans-le-fonctionnement-des-centrales-electriques
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une application majeure qui transforme la chaleur en electricite a grande echelle.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gaz parfaits et le modele simplifie de leur comportement thermodynamique
+slug: les-gaz-parfaits-et-le-modele-simplifie-de-leur-comportement-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un modele theorique utile qui simplifie l'etude du comportement des gaz reels.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'irreversibilite dans la comprehension du sens naturel des transformations
+slug: le-role-de-l-irreversibilite-dans-la-comprehension-du-sens-naturel-des-transformations
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une observation fondamentale qui explique pourquoi certains processus ne se produisent jamais a l'envers.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La thermodynamique et son role dans l'isolation thermique des batiments
+slug: la-thermodynamique-et-son-role-dans-l-isolation-thermique-des-batiments
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une application pratique qui vise a limiter les pertes de chaleur d'une construction.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la pression dans les relations thermodynamiques fondamentales
+slug: le-role-de-la-pression-dans-les-relations-thermodynamiques-fondamentales
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une grandeur physique essentielle qui interagit etroitement avec la temperature et le volume d'un gaz.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cycles thermodynamiques et leur role dans l'analyse des machines thermiques
+slug: les-cycles-thermodynamiques-et-leur-role-dans-l-analyse-des-machines-thermiques
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une sequence repetee de transformations qui decrit le fonctionnement de nombreux moteurs.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la thermodynamique dans la comprehension des phenomenes climatiques
+slug: le-role-de-la-thermodynamique-dans-la-comprehension-des-phenomenes-climatiques
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une contribution essentielle a l'etude des echanges d'energie qui influencent le climat terrestre.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'equilibre thermique et le principe naturel d'egalisation des temperatures
+slug: l-equilibre-thermique-et-le-principe-naturel-d-egalisation-des-temperatures
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un phenomene fondamental qui explique pourquoi deux objets a des temperatures differentes finissent par s'egaliser.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des roches sedimentaires par accumulation de particules
+slug: la-formation-des-roches-sedimentaires-par-accumulation-de-particules
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un processus lent qui transforme des sediments deposes en roches solides au fil du temps.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des roches magmatiques dans la comprehension de l'activite interne de la Terre
+slug: le-role-des-roches-magmatiques-dans-la-comprehension-de-l-activite-interne-de-la-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des roches formees a partir du refroidissement de matiere en fusion venue des profondeurs terrestres.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les roches metamorphiques et leur transformation sous l'effet de la chaleur et de la pression
+slug: les-roches-metamorphiques-et-leur-transformation-sous-l-effet-de-la-chaleur-et-de-la-pression
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une categorie de roches qui changent de nature sans jamais fondre completement.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des couches geologiques dans la reconstitution de l'histoire de la Terre
+slug: le-role-des-couches-geologiques-dans-la-reconstitution-de-l-histoire-de-la-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un empilement naturel qui, comme les pages d'un livre, raconte le passe de notre planete.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La derive des continents et la theorie de la tectonique des plaques
+slug: la-derive-des-continents-et-la-theorie-de-la-tectonique-des-plaques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une decouverte majeure qui explique le mouvement lent mais constant des continents.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des mineraux dans la composition et l'identification des roches
+slug: le-role-des-mineraux-dans-la-composition-et-l-identification-des-roches
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des composants de base dont la combinaison determine la nature de chaque type de roche.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La datation des roches et les methodes utilisees pour estimer leur age
+slug: la-datation-des-roches-et-les-methodes-utilisees-pour-estimer-leur-age
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des techniques scientifiques qui permettent de determiner precisement l'anciennete d'une formation rocheuse.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'erosion dans la transformation continue du paysage geologique
+slug: le-role-de-l-erosion-dans-la-transformation-continue-du-paysage-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un processus lent mais puissant qui use et redessine progressivement le relief terrestre.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fossiles et leur role dans la comprehension de l'histoire geologique et biologique
+slug: les-fossiles-et-leur-role-dans-la-comprehension-de-l-histoire-geologique-et-biologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des traces conservees qui renseignent a la fois sur le passe geologique et sur la vie ancienne.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des failles geologiques dans la structure de la croute terrestre
+slug: le-role-des-failles-geologiques-dans-la-structure-de-la-croute-terrestre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une fracture dans les roches qui temoigne des tensions internes exercees sur l'ecorce terrestre.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stratigraphie et l'etude de l'ordre des couches geologiques
+slug: la-stratigraphie-et-l-etude-de-l-ordre-des-couches-geologiques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une discipline qui analyse l'empilement des roches pour en deduire une chronologie precise.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du cycle des roches dans la transformation continue de la matiere terrestre
+slug: le-role-du-cycle-des-roches-dans-la-transformation-continue-de-la-matiere-terrestre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un processus permanent ou les roches se transforment sans cesse d'un type a un autre.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gisements mineraux et leur formation geologique specifique
+slug: les-gisements-mineraux-et-leur-formation-geologique-specifique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des concentrations naturelles de mineraux utiles dont la formation resulte de conditions particulieres.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geologie dans la recherche de ressources naturelles souterraines
+slug: le-role-de-la-geologie-dans-la-recherche-de-ressources-naturelles-souterraines
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une application pratique essentielle a la localisation de nombreuses ressources exploitables.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geologie structurale et l'etude des deformations de la croute terrestre
+slug: la-geologie-structurale-et-l-etude-des-deformations-de-la-croute-terrestre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une branche qui analyse comment les roches se plient, se cassent et se deplacent au fil du temps.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des glaciations passees dans le faconnement des paysages actuels
+slug: le-role-des-glaciations-passees-dans-le-faconnement-des-paysages-actuels
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des periodes anciennes de froid intense qui ont profondement transforme de nombreux territoires.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geologie marine et l'etude des fonds oceaniques
+slug: la-geologie-marine-et-l-etude-des-fonds-oceaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une branche qui explore un environnement geologique cache mais tout aussi riche que les continents.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geologie dans l'evaluation des risques naturels pour l'amenagement du territoire
+slug: le-role-de-la-geologie-dans-l-evaluation-des-risques-naturels-pour-l-amenagement-du-territoire
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une contribution essentielle a la securite des constructions humaines face aux alea geologiques.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grottes et cavites souterraines et leur formation geologique
+slug: les-grottes-et-cavites-souterraines-et-leur-formation-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des espaces naturels crees par la dissolution progressive de certaines roches par l'eau.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geologie dans la comprehension de l'histoire climatique ancienne de la Terre
+slug: le-role-de-la-geologie-dans-la-comprehension-de-l-histoire-climatique-ancienne-de-la-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une contribution precieuse qui aide a reconstituer des climats disparus depuis tres longtemps.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mineraux precieux et leur formation geologique particuliere
+slug: les-mineraux-precieux-et-leur-formation-geologique-particuliere
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des substances rares dont la formation necessite des conditions geologiques exceptionnelles.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la geologie appliquee dans les grands projets de construction
+slug: le-role-de-la-geologie-appliquee-dans-les-grands-projets-de-construction
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une expertise indispensable pour garantir la stabilite des ouvrages sur leur sol de fondation.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La composition chimique de l'eau de mer et sa salinite
+slug: la-composition-chimique-de-l-eau-de-mer-et-sa-salinite
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un melange complexe de sels dissous qui caracterise l'eau des oceans du monde entier.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des courants oceaniques dans la circulation globale de l'eau marine
+slug: le-role-des-courants-oceaniques-dans-la-circulation-globale-de-l-eau-marine
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des mouvements a grande echelle qui transportent chaleur et nutriments a travers les oceans.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La topographie des fonds oceaniques et ses reliefs meconnus
+slug: la-topographie-des-fonds-oceaniques-et-ses-reliefs-meconnus
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un paysage sous-marin aussi varie que celui des continents, comprenant montagnes et vallees.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des marees dans le mouvement periodique des oceans
+slug: le-role-des-marees-dans-le-mouvement-periodique-des-oceans
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene regulier cause principalement par l'attraction de la Lune sur les masses d'eau.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stratification thermique des oceans selon la profondeur
+slug: la-stratification-thermique-des-oceans-selon-la-profondeur
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une organisation en couches ou la temperature diminue generalement avec la profondeur.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du plancton dans la production primaire des ecosystemes oceaniques
+slug: le-role-du-plancton-dans-la-production-primaire-des-ecosystemes-oceaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des organismes microscopiques qui constituent la base de la chaine alimentaire marine.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones abyssales et les conditions extremes qui y regnent
+slug: les-zones-abyssales-et-les-conditions-extremes-qui-y-regnent
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des profondeurs oceaniques ou regnent obscurite totale, froid intense et pression enorme.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des oceans dans la regulation du climat mondial
+slug: le-role-des-oceans-dans-la-regulation-du-climat-mondial
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une fonction essentielle qui absorbe et redistribue une grande partie de la chaleur terrestre.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La circulation thermohaline et son role dans les grands courants oceaniques mondiaux
+slug: la-circulation-thermohaline-et-son-role-dans-les-grands-courants-oceaniques-mondiaux
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un mouvement global de l'eau entraine par des differences de temperature et de salinite.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'oceanographie dans l'etude du changement climatique
+slug: le-role-de-l-oceanographie-dans-l-etude-du-changement-climatique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une contribution essentielle qui aide a comprendre l'impact du rechauffement sur les mers du monde.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vagues et leur formation par l'action du vent sur la surface de l'eau
+slug: les-vagues-et-leur-formation-par-l-action-du-vent-sur-la-surface-de-l-eau
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene familier dont l'etude precise revele des mecanismes physiques complexes.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sediments marins dans la reconstitution de l'histoire climatique passee
+slug: le-role-des-sediments-marins-dans-la-reconstitution-de-l-histoire-climatique-passee
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des depots accumules au fond des oceans qui conservent des indices precieux sur le climat ancien.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'exploration des grands fonds oceaniques et les technologies qui la rendent possible
+slug: l-exploration-des-grands-fonds-oceaniques-et-les-technologies-qui-la-rendent-possible
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des defis techniques considerables surmontes grace a des vehicules specialement concus.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'oceanographie dans la comprehension des phenomenes cotiers
+slug: le-role-de-l-oceanographie-dans-la-comprehension-des-phenomenes-cotiers
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une contribution essentielle a la gestion des zones littorales et de leurs risques specifiques.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sources hydrothermales sous-marines et la vie qui s'y developpe
+slug: les-sources-hydrothermales-sous-marines-et-la-vie-qui-s-y-developpe
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des environnements extremes ou des ecosystemes surprenants se developpent sans lumiere solaire.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bouees et des satellites dans la surveillance moderne des oceans
+slug: le-role-des-bouees-et-des-satellites-dans-la-surveillance-moderne-des-oceans
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des outils technologiques qui permettent de suivre en continu l'etat des mers du monde entier.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des tsunamis et leur propagation a travers l'ocean
+slug: la-formation-des-tsunamis-et-leur-propagation-a-travers-l-ocean
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene rare mais potentiellement devastateur qui se propage sur de tres longues distances.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'oceanographie biologique dans l'etude de la vie marine
+slug: le-role-de-l-oceanographie-biologique-dans-l-etude-de-la-vie-marine
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une branche specifique qui se concentre sur les organismes vivants peuplant les oceans.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les upwellings et la remontee d'eaux profondes riches en nutriments
+slug: les-upwellings-et-la-remontee-d-eaux-profondes-riches-en-nutriments
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene qui enrichit certaines zones oceaniques et favorise une abondance de vie marine.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'oceanographie dans la comprehension du niveau des mers
+slug: le-role-de-l-oceanographie-dans-la-comprehension-du-niveau-des-mers
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une contribution scientifique essentielle pour mesurer et anticiper les variations du niveau marin.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de la formation d'un volcan
+slug: le-principe-general-de-la-formation-d-un-volcan
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une structure geologique qui permet a la matiere en fusion des profondeurs de remonter a la surface.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types d'eruptions volcaniques selon leur intensite
+slug: les-differents-types-d-eruptions-volcaniques-selon-leur-intensite
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une classification qui distingue des eruptions plus ou moins violentes selon plusieurs facteurs.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des plaques tectoniques dans la localisation des zones volcaniques
+slug: le-role-des-plaques-tectoniques-dans-la-localisation-des-zones-volcaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un lien direct entre les frontieres des plaques terrestres et la presence de nombreux volcans.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tremblements de terre et le mecanisme de liberation de l'energie sismique
+slug: les-tremblements-de-terre-et-le-mecanisme-de-liberation-de-l-energie-sismique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un phenomene soudain qui libere brutalement une energie accumulee dans les roches terrestres.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sismographes dans la detection et la mesure des seismes
+slug: le-role-des-sismographes-dans-la-detection-et-la-mesure-des-seismes
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des instruments precis qui enregistrent les vibrations du sol lors d'un tremblement de terre.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones a risque sismique et leur identification a l'echelle mondiale
+slug: les-zones-a-risque-sismique-et-leur-identification-a-l-echelle-mondiale
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des regions ou la probabilite de tremblements de terre est particulierement elevee.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du magma dans le fonctionnement interne d'un volcan actif
+slug: le-role-du-magma-dans-le-fonctionnement-interne-d-un-volcan-actif
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une matiere en fusion dont le comportement determine largement le type d'eruption possible.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tsunamis declenches par des seismes sous-marins
+slug: les-tsunamis-declenches-par-des-seismes-sous-marins
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une consequence dramatique possible d'un tremblement de terre survenant sous l'ocean.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la surveillance volcanique dans la prevention des risques pour les populations
+slug: le-role-de-la-surveillance-volcanique-dans-la-prevention-des-risques-pour-les-populations
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un suivi scientifique continu qui aide a anticiper une eruption avant qu'elle ne survienne.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les repliques sismiques et leur frequence apres un tremblement de terre majeur
+slug: les-repliques-sismiques-et-leur-frequence-apres-un-tremblement-de-terre-majeur
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des secousses secondaires souvent moins fortes mais qui peuvent se poursuivre longtemps.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des volcans dans la formation de nouvelles terres et de nouveaux reliefs
+slug: le-role-des-volcans-dans-la-formation-de-nouvelles-terres-et-de-nouveaux-reliefs
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un phenomene qui, malgre ses dangers, contribue aussi a la creation de paysages nouveaux.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echelle de Richter et la mesure de la magnitude des tremblements de terre
+slug: l-echelle-de-richter-et-la-mesure-de-la-magnitude-des-tremblements-de-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un outil de reference qui quantifie l'energie liberee lors d'un seisme.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des gaz volcaniques dans l'evaluation du danger d'une eruption imminente
+slug: le-role-des-gaz-volcaniques-dans-l-evaluation-du-danger-d-une-eruption-imminente
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des emissions qui, analysees attentivement, peuvent revenir des signes avant-coureurs d'une eruption.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les constructions parasismiques et les techniques pour resister aux tremblements de terre
+slug: les-constructions-parasismiques-et-les-techniques-pour-resister-aux-tremblements-de-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des methodes de construction specifiques qui limitent les degats lors d'un seisme important.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des volcans sous-marins dans la formation de nouvelles iles
+slug: le-role-des-volcans-sous-marins-dans-la-formation-de-nouvelles-iles
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un phenomene geologique qui peut litteralement faire naitre de nouvelles terres emergees.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les failles actives et leur surveillance continue par les scientifiques
+slug: les-failles-actives-et-leur-surveillance-continue-par-les-scientifiques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des zones de fracture sous surveillance constante en raison du risque sismique qu'elles representent.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'histoire des grandes eruptions volcaniques dans la comprehension des risques actuels
+slug: le-role-de-l-histoire-des-grandes-eruptions-volcaniques-dans-la-comprehension-des-risques-actuels
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des evenements passes qui aident les scientifiques a mieux evaluer les dangers futurs.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les seismes induits par certaines activites humaines
+slug: les-seismes-induits-par-certaines-activites-humaines
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un phenomene moins connu ou des activites comme l'extraction peuvent parfois declencher des secousses.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des nuees ardentes dans la dangerosite de certaines eruptions volcaniques
+slug: le-role-des-nuees-ardentes-dans-la-dangerosite-de-certaines-eruptions-volcaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un phenomene extremement rapide et destructeur associe a certains types d'eruptions.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evacuation des populations face au risque volcanique ou sismique imminent
+slug: l-evacuation-des-populations-face-au-risque-volcanique-ou-sismique-imminent
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une mesure de securite cruciale qui repose sur une surveillance et une alerte efficaces.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des observatoires volcanologiques dans la surveillance des volcans actifs
+slug: le-role-des-observatoires-volcanologiques-dans-la-surveillance-des-volcans-actifs
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des installations scientifiques dediees qui suivent en permanence l'activite des volcans a risque.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les seismes de faible magnitude et leur frequence quotidienne largement imperceptible
+slug: les-seismes-de-faible-magnitude-et-leur-frequence-quotidienne-largement-imperceptible
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une activite sismique constante qui passe generalement inapercue de la plupart des populations.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du magma andesitique dans les eruptions explosives les plus dangereuses
+slug: le-role-du-magma-andesitique-dans-les-eruptions-explosives-les-plus-dangereuses
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une composition specifique du magma qui favorise des eruptions particulierement violentes.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les points chauds volcaniques et la formation de chapelets d'iles volcaniques
+slug: les-points-chauds-volcaniques-et-la-formation-de-chapelets-d-iles-volcaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un phenomene geologique particulier qui explique la formation de certains archipels celebres.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la deformation du sol dans la detection precoce d'une eruption imminente
+slug: le-role-de-la-deformation-du-sol-dans-la-detection-precoce-d-une-eruption-imminente
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un gonflement mesurable du terrain qui peut signaler une remontee de magma avant une eruption.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les seismes intraplaques et leur origine moins bien comprise que ceux des frontieres de plaques
+slug: les-seismes-intraplaques-et-leur-origine-moins-bien-comprise-que-ceux-des-frontieres-de-plaques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des tremblements de terre qui surviennent loin des zones de contact habituelles entre plaques.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

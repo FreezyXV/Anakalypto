@@ -7518,3 +7518,3693 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Le principe des bases de donnees relationnelles et l'organisation en tables
+slug: le-principe-des-bases-de-donnees-relationnelles-et-l-organisation-en-tables
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une structure qui organise l'information en tableaux relies entre eux par des cles communes.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le langage SQL et son role dans l'interrogation des bases de donnees
+slug: le-langage-sql-et-son-role-dans-l-interrogation-des-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un langage specialise qui permet de rechercher et de manipuler efficacement des donnees stockees.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees non relationnelles et leurs usages specifiques
+slug: les-bases-de-donnees-non-relationnelles-et-leurs-usages-specifiques
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une approche alternative adaptee a des donnees moins structurees que les tables classiques.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des index dans l'acceleration des recherches en base de donnees
+slug: le-role-des-index-dans-l-acceleration-des-recherches-en-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un mecanisme qui permet de retrouver rapidement une information sans parcourir toute la base.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sauvegarde et la restauration des bases de donnees
+slug: la-sauvegarde-et-la-restauration-des-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une precaution essentielle pour proteger les informations contre une perte accidentelle.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cles primaires et etrangeres dans la structure d'une base de donnees
+slug: le-role-des-cles-primaires-et-etrangeres-dans-la-structure-d-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Des elements qui garantissent l'unicite et la coherence des liens entre differentes tables.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transactions et le principe de coherence des donnees en base
+slug: les-transactions-et-le-principe-de-coherence-des-donnees-en-base
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un mecanisme qui garantit qu'une operation complexe s'effectue entierement ou pas du tout.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bases de donnees distribuees sur plusieurs serveurs
+slug: le-role-des-bases-de-donnees-distribuees-sur-plusieurs-serveurs
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une architecture qui repartit les informations pour ameliorer la disponibilite et la performance.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des donnees comme methode pour eviter les redondances
+slug: la-normalisation-des-donnees-comme-methode-pour-eviter-les-redondances
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une organisation reflechie qui limite la duplication inutile d'informations dans une base.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'administrateur de bases de donnees dans une organisation
+slug: le-role-de-l-administrateur-de-bases-de-donnees-dans-une-organisation
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un professionnel charge de garantir la performance, la securite et la disponibilite des donnees.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees en memoire et leur rapidite d'acces
+slug: les-bases-de-donnees-en-memoire-et-leur-rapidite-d-acces
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une technologie qui stocke temporairement les donnees directement dans la memoire vive pour plus de vitesse.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chiffrement dans la protection des donnees sensibles stockees
+slug: le-role-du-chiffrement-dans-la-protection-des-donnees-sensibles-stockees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une securite supplementaire qui rend illisibles les informations en cas d'acces non autorise.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les entrepots de donnees et leur role dans l'analyse a grande echelle
+slug: les-entrepots-de-donnees-et-leur-role-dans-l-analyse-a-grande-echelle
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une structure specialisee concue pour rassembler et analyser de tres grands volumes d'informations.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des requetes complexes dans l'extraction d'informations utiles d'une base de donnees
+slug: le-role-des-requetes-complexes-dans-l-extraction-d-informations-utiles-d-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Des commandes elaborees qui combinent plusieurs criteres pour obtenir un resultat precis.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La replication des bases de donnees pour garantir la continuite de service
+slug: la-replication-des-bases-de-donnees-pour-garantir-la-continuite-de-service
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une copie synchronisee qui assure la disponibilite des donnees meme en cas de panne d'un serveur.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bases de donnees graphes dans la representation de relations complexes
+slug: le-role-des-bases-de-donnees-graphes-dans-la-representation-de-relations-complexes
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une approche specifique particulierement adaptee a l'etude de reseaux et de connexions entre elements.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La migration de donnees entre differents systemes de bases de donnees
+slug: la-migration-de-donnees-entre-differents-systemes-de-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une operation delicate qui transfere des informations d'une technologie a une autre sans les perdre.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'integrite referentielle dans la fiabilite d'une base de donnees
+slug: le-role-de-l-integrite-referentielle-dans-la-fiabilite-d-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une regle qui empeche des incoherences entre des donnees liees les unes aux autres.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees temps reel et leurs usages dans des applications critiques
+slug: les-bases-de-donnees-temps-reel-et-leurs-usages-dans-des-applications-critiques
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une technologie qui traite les informations avec un delai extremement court apres leur reception.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'anonymisation des donnees personnelles dans les bases de donnees
+slug: le-role-de-l-anonymisation-des-donnees-personnelles-dans-les-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une technique qui protege l'identite des personnes tout en conservant l'utilite des informations.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les performances d'une base de donnees et les facteurs qui les influencent
+slug: les-performances-d-une-base-de-donnees-et-les-facteurs-qui-les-influencent
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Plusieurs elements techniques qui determinent la rapidite de reponse d'un systeme de gestion de donnees.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du versionnement des schemas dans l'evolution d'une base de donnees
+slug: le-role-du-versionnement-des-schemas-dans-l-evolution-d-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une gestion soigneuse des changements de structure qui evite de casser les applications existantes.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees open source et leur adoption croissante dans l'industrie
+slug: les-bases-de-donnees-open-source-et-leur-adoption-croissante-dans-l-industrie
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Des solutions gratuites et modifiables qui rivalisent desormais avec les produits commerciaux.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe du codage binaire dans la representation numerique de l'information
+slug: le-principe-du-codage-binaire-dans-la-representation-numerique-de-l-information
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un systeme fondamental qui traduit toute information en une suite de zeros et de uns.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression sans perte et son role dans la reduction de la taille des fichiers
+slug: la-compression-sans-perte-et-son-role-dans-la-reduction-de-la-taille-des-fichiers
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une methode qui reduit la taille d'un fichier tout en permettant de retrouver exactement l'original.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression avec perte utilisee pour les images et les videos
+slug: la-compression-avec-perte-utilisee-pour-les-images-et-les-videos
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une methode qui reduit fortement la taille d'un fichier en sacrifiant une partie des details.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du format JPEG dans la compression des images numeriques
+slug: le-role-du-format-jpeg-dans-la-compression-des-images-numeriques
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un standard tres repandu qui equilibre qualite visuelle et taille reduite du fichier.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation des nombres en virgule flottante dans les ordinateurs
+slug: la-representation-des-nombres-en-virgule-flottante-dans-les-ordinateurs
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une methode qui permet de representer des nombres tres grands ou tres petits avec precision.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du codage de Huffman dans la compression efficace des donnees
+slug: le-role-du-codage-de-huffman-dans-la-compression-efficace-des-donnees
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une technique qui attribue des codes plus courts aux elements les plus frequents d'un fichier.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation des caracteres et des textes en informatique
+slug: la-representation-des-caracteres-et-des-textes-en-informatique
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un systeme qui associe chaque lettre et symbole a une valeur numerique reconnue par l'ordinateur.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la compression audio dans les formats musicaux numeriques
+slug: le-role-de-la-compression-audio-dans-les-formats-musicaux-numeriques
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une technique qui reduit la taille des fichiers sonores tout en preservant une qualite d'ecoute acceptable.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de compression video et leur role dans le streaming moderne
+slug: les-algorithmes-de-compression-video-et-leur-role-dans-le-streaming-moderne
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Des methodes sophistiquees qui permettent de diffuser des videos sans necessiter une bande passante excessive.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la redondance dans les techniques de compression de donnees
+slug: le-role-de-la-redondance-dans-les-techniques-de-compression-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une repetition d'information que les algorithmes de compression cherchent a eliminer intelligemment.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation des couleurs numeriques et les modeles colorimetriques
+slug: la-representation-des-couleurs-numeriques-et-les-modeles-colorimetriques
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un systeme qui traduit chaque couleur visible en une combinaison de valeurs numeriques.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des formats d'archives dans le regroupement et la compression de plusieurs fichiers
+slug: le-role-des-formats-d-archives-dans-le-regroupement-et-la-compression-de-plusieurs-fichiers
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un outil pratique qui combine plusieurs documents en un seul fichier compresse.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression de texte et les algorithmes specifiques a ce type de donnee
+slug: la-compression-de-texte-et-les-algorithmes-specifiques-a-ce-type-de-donnee
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Des methodes adaptees a la structure particuliere du langage ecrit pour reduire efficacement sa taille.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du taux de compression dans le compromis entre taille et qualite
+slug: le-role-du-taux-de-compression-dans-le-compromis-entre-taille-et-qualite
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un equilibre a trouver entre l'espace economise et la degradation eventuelle du contenu.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation des images vectorielles par rapport aux images matricielles
+slug: la-representation-des-images-vectorielles-par-rapport-aux-images-matricielles
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Deux approches distinctes qui decrivent une image soit par des formes, soit par des points.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la compression dans la reduction des couts de stockage et de transmission
+slug: le-role-de-la-compression-dans-la-reduction-des-couts-de-stockage-et-de-transmission
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un avantage economique direct qui explique l'importance de ces techniques dans l'informatique moderne.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les codes correcteurs d'erreurs et leur role dans la fiabilite de la transmission de donnees
+slug: les-codes-correcteurs-d-erreurs-et-leur-role-dans-la-fiabilite-de-la-transmission-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un mecanisme qui permet de detecter et parfois de corriger automatiquement des erreurs de transmission.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation numerique du son et le principe de l'echantillonnage
+slug: la-representation-numerique-du-son-et-le-principe-de-l-echantillonnage
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une methode qui transforme une onde sonore continue en une suite de valeurs numeriques discretes.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des standards de compression dans l'interoperabilite entre logiciels
+slug: le-role-des-standards-de-compression-dans-l-interoperabilite-entre-logiciels
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Des formats communs qui garantissent qu'un fichier compresse puisse etre lu par differents programmes.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression en temps reel et ses defis techniques specifiques
+slug: la-compression-en-temps-reel-et-ses-defis-techniques-specifiques
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une contrainte supplementaire qui exige des algorithmes rapides sans sacrifier trop de qualite.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'entropie dans la theorie mathematique de la compression de l'information
+slug: le-role-de-l-entropie-dans-la-theorie-mathematique-de-la-compression-de-l-information
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un concept fondamental qui mesure la quantite d'information reellement contenue dans des donnees.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general d'un algorithme comme suite d'instructions precises
+slug: le-principe-general-d-un-algorithme-comme-suite-d-instructions-precises
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une methode structuree qui decrit etape par etape comment resoudre un probleme donne.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de tri et leurs differentes strategies pour organiser des donnees
+slug: les-algorithmes-de-tri-et-leurs-differentes-strategies-pour-organiser-des-donnees
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes variees qui permettent de ranger des elements dans un ordre precis.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de recherche et leur role dans la localisation rapide d'une information
+slug: les-algorithmes-de-recherche-et-leur-role-dans-la-localisation-rapide-d-une-information
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes qui permettent de retrouver efficacement un element dans un ensemble de donnees.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La complexite algorithmique et la mesure de l'efficacite d'une methode de calcul
+slug: la-complexite-algorithmique-et-la-mesure-de-l-efficacite-d-une-methode-de-calcul
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une analyse qui evalue combien de temps et de ressources un algorithme necessite selon la taille du probleme.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes recursifs et le principe de resolution par decomposition
+slug: les-algorithmes-recursifs-et-le-principe-de-resolution-par-decomposition
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une approche qui resout un probleme en le divisant en versions plus petites du meme probleme.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des structures de donnees dans l'efficacite des algorithmes
+slug: le-role-des-structures-de-donnees-dans-l-efficacite-des-algorithmes
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une organisation adaptee de l'information qui influence directement la rapidite d'un traitement.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes gloutons et leur strategie de decision locale optimale
+slug: les-algorithmes-gloutons-et-leur-strategie-de-decision-locale-optimale
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une methode qui fait a chaque etape le meilleur choix immediat sans reconsiderer les decisions passees.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation dynamique comme methode d'optimisation algorithmique
+slug: la-programmation-dynamique-comme-methode-d-optimisation-algorithmique
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une technique qui evite de refaire des calculs deja effectues en les conservant en memoire.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de graphes et leur role dans l'analyse de reseaux complexes
+slug: les-algorithmes-de-graphes-et-leur-role-dans-l-analyse-de-reseaux-complexes
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes specifiques adaptees a l'etude de structures faites de noeuds et de connexions.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des algorithmes dans les moteurs de recherche sur Internet
+slug: le-role-des-algorithmes-dans-les-moteurs-de-recherche-sur-internet
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes complexes qui classent et selectionnent les resultats les plus pertinents pour l'utilisateur.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de compression et leur lien avec la theorie de l'information
+slug: les-algorithmes-de-compression-et-leur-lien-avec-la-theorie-de-l-information
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes qui reduisent la taille des donnees tout en preservant l'information essentielle.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La verification et la preuve de la correction d'un algorithme
+slug: la-verification-et-la-preuve-de-la-correction-d-un-algorithme
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une demarche rigoureuse qui garantit qu'une methode fonctionne correctement dans tous les cas prevus.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes d'apprentissage automatique et leur principe de base
+slug: les-algorithmes-d-apprentissage-automatique-et-leur-principe-de-base
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes qui ameliorent leurs performances a partir de l'analyse de donnees existantes.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des heuristiques dans la resolution de problemes complexes sans solution exacte rapide
+slug: le-role-des-heuristiques-dans-la-resolution-de-problemes-complexes-sans-solution-exacte-rapide
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des approximations raisonnables utilisees lorsque trouver la solution parfaite prendrait trop de temps.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de cryptographie et leur role dans la securisation des communications
+slug: les-algorithmes-de-cryptographie-et-leur-role-dans-la-securisation-des-communications
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes mathematiques qui protegent les informations echangees contre les acces non autorises.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La visualisation des algorithmes comme outil pedagogique pour comprendre leur fonctionnement
+slug: la-visualisation-des-algorithmes-comme-outil-pedagogique-pour-comprendre-leur-fonctionnement
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une representation graphique qui aide a saisir intuitivement le deroulement d'une methode de calcul.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes paralleles et leur execution simultanee sur plusieurs processeurs
+slug: les-algorithmes-paralleles-et-leur-execution-simultanee-sur-plusieurs-processeurs
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une approche qui divise un calcul entre plusieurs unites pour accelerer le traitement global.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des algorithmes dans la planification d'itineraires et la navigation
+slug: le-role-des-algorithmes-dans-la-planification-d-itineraires-et-la-navigation
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes qui calculent le trajet le plus efficace entre deux points selon divers criteres.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes evolutionnaires inspires des principes de la selection naturelle
+slug: les-algorithmes-evolutionnaires-inspires-des-principes-de-la-selection-naturelle
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une approche originale qui fait evoluer des solutions par des mecanismes proches de l'evolution biologique.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des algorithmes dans la detection de fraudes et d'anomalies
+slug: le-role-des-algorithmes-dans-la-detection-de-fraudes-et-d-anomalies
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes qui identifient automatiquement des comportements inhabituels dans de grands ensembles de donnees.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites theoriques de certains problemes que meme les meilleurs algorithmes ne peuvent resoudre rapidement
+slug: les-limites-theoriques-de-certains-problemes-que-meme-les-meilleurs-algorithmes-ne-peuvent-resoudre-rapidement
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une realite mathematique qui montre que certains problemes restent extremement difficiles a resoudre efficacement.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents paradigmes de programmation et leurs approches distinctes
+slug: les-differents-paradigmes-de-programmation-et-leurs-approches-distinctes
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Plusieurs philosophies de conception qui orientent differemment la maniere d'ecrire un programme.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des variables dans le stockage temporaire de donnees en programmation
+slug: le-role-des-variables-dans-le-stockage-temporaire-de-donnees-en-programmation
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un espace nomme qui conserve une valeur pendant l'execution d'un programme.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les boucles et leur role dans la repetition automatisee d'instructions
+slug: les-boucles-et-leur-role-dans-la-repetition-automatisee-d-instructions
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une structure fondamentale qui permet d'executer plusieurs fois une meme sequence d'actions.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des fonctions dans l'organisation et la reutilisation du code
+slug: le-role-des-fonctions-dans-l-organisation-et-la-reutilisation-du-code
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des blocs autonomes qui regroupent des instructions destinees a etre utilisees plusieurs fois.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation orientee objet et le principe des classes et des instances
+slug: la-programmation-orientee-objet-et-le-principe-des-classes-et-des-instances
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une approche qui organise le code autour d'entites qui combinent donnees et comportements.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du debogage dans la correction des erreurs d'un programme
+slug: le-role-du-debogage-dans-la-correction-des-erreurs-d-un-programme
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une etape essentielle qui identifie et resout les problemes presents dans un code informatique.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les langages de programmation compiles et interpretes, une distinction fondamentale
+slug: les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Deux approches differentes de la maniere dont un ordinateur execute finalement le code ecrit.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tests automatises dans la fiabilite d'un logiciel
+slug: le-role-des-tests-automatises-dans-la-fiabilite-d-un-logiciel
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une pratique qui verifie systematiquement que le code fonctionne comme prevu apres chaque modification.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des erreurs et des exceptions dans un programme informatique
+slug: la-gestion-des-erreurs-et-des-exceptions-dans-un-programme-informatique
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une technique qui permet a un logiciel de reagir intelligemment face a une situation imprevue.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la documentation dans la comprehension et la maintenance d'un code
+slug: le-role-de-la-documentation-dans-la-comprehension-et-la-maintenance-d-un-code
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des explications ecrites qui aident d'autres developpeurs a comprendre le fonctionnement d'un programme.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les environnements de developpement integres et leur role dans le travail des programmeurs
+slug: les-environnements-de-developpement-integres-et-leur-role-dans-le-travail-des-programmeurs
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des logiciels qui rassemblent tous les outils necessaires a l'ecriture et au test du code.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du controle de version dans la collaboration entre plusieurs developpeurs
+slug: le-role-du-controle-de-version-dans-la-collaboration-entre-plusieurs-developpeurs
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un systeme qui suit l'historique des modifications et facilite le travail simultane sur un meme projet.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation fonctionnelle et son approche basee sur les fonctions mathematiques
+slug: la-programmation-fonctionnelle-et-son-approche-basee-sur-les-fonctions-mathematiques
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un paradigme qui traite le calcul comme une evaluation de fonctions plutot que comme une suite d'instructions.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bibliotheques logicielles dans l'acceleration du developpement
+slug: le-role-des-bibliotheques-logicielles-dans-l-acceleration-du-developpement
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des ensembles de code deja ecrit et reutilisable qui evitent de tout recreer depuis le debut.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les principes de la programmation lisible et maintenable dans le temps
+slug: les-principes-de-la-programmation-lisible-et-maintenable-dans-le-temps
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des bonnes pratiques qui facilitent la comprehension et la modification future d'un code.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'optimisation du code dans l'amelioration des performances d'un logiciel
+slug: le-role-de-l-optimisation-du-code-dans-l-amelioration-des-performances-d-un-logiciel
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un travail specifique qui vise a rendre un programme plus rapide ou moins gourmand en ressources.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les langages de script et leur usage pour automatiser des taches simples
+slug: les-langages-de-script-et-leur-usage-pour-automatiser-des-taches-simples
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des outils legers particulierement adaptes a des taches rapides et repetitives.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la revue de code dans l'amelioration collective de la qualite d'un logiciel
+slug: le-role-de-la-revue-de-code-dans-l-amelioration-collective-de-la-qualite-d-un-logiciel
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une pratique ou d'autres developpeurs examinent le travail avant son integration definitive.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les interfaces de programmation et leur role dans la communication entre logiciels
+slug: les-interfaces-de-programmation-et-leur-role-dans-la-communication-entre-logiciels
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un ensemble de regles qui permet a differents programmes d'echanger des informations entre eux.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la formation continue pour un programmeur face a l'evolution rapide des technologies
+slug: le-role-de-la-formation-continue-pour-un-programmeur-face-a-l-evolution-rapide-des-technologies
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une necessite constante dans un domaine ou les outils et les pratiques changent frequemment.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de tri implementes concretement dans differents langages de programmation
+slug: les-algorithmes-de-tri-implementes-concretement-dans-differents-langages-de-programmation
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une mise en pratique des principes theoriques adaptee aux specificites de chaque langage.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la programmation asynchrone dans la gestion efficace de taches multiples
+slug: le-role-de-la-programmation-asynchrone-dans-la-gestion-efficace-de-taches-multiples
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une approche qui permet a un programme de continuer a fonctionner pendant qu'une operation longue se termine.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role central d'un systeme d'exploitation dans le fonctionnement d'un ordinateur
+slug: le-role-central-d-un-systeme-d-exploitation-dans-le-fonctionnement-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un logiciel fondamental qui gere les ressources materielles et permet aux autres programmes de s'executer.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La repartition de la memoire vive entre les differents programmes actifs
+slug: la-repartition-de-la-memoire-vive-entre-les-differents-programmes-actifs
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une fonction essentielle qui repartit et protege l'espace memoire entre les differents programmes actifs.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'ordonnancement des taches dans un systeme d'exploitation multitache
+slug: le-role-de-l-ordonnancement-des-taches-dans-un-systeme-d-exploitation-multitache
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un mecanisme qui decide quel programme peut utiliser le processeur a chaque instant.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes de fichiers et l'organisation des donnees sur un support de stockage
+slug: les-systemes-de-fichiers-et-l-organisation-des-donnees-sur-un-support-de-stockage
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une structure qui permet de retrouver, organiser et proteger les fichiers enregistres.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des pilotes dans la communication entre le systeme d'exploitation et le materiel
+slug: le-role-des-pilotes-dans-la-communication-entre-le-systeme-d-exploitation-et-le-materiel
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des logiciels specifiques qui traduisent les instructions du systeme pour chaque composant materiel.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre systemes d'exploitation proprietaires et systemes ouverts
+slug: la-difference-entre-systemes-d-exploitation-proprietaires-et-systemes-ouverts
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Deux modeles distincts qui different par leur mode de developpement et de distribution.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'interface utilisateur dans l'accessibilite d'un systeme d'exploitation
+slug: le-role-de-l-interface-utilisateur-dans-l-accessibilite-d-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une couche visuelle qui facilite l'usage du systeme pour des personnes non specialistes.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mises a jour de securite et leur importance pour un systeme d'exploitation
+slug: les-mises-a-jour-de-securite-et-leur-importance-pour-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des correctifs reguliers indispensables pour proteger contre des vulnerabilites decouvertes.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la virtualisation dans l'execution de plusieurs systemes d'exploitation simultanement
+slug: le-role-de-la-virtualisation-dans-l-execution-de-plusieurs-systemes-d-exploitation-simultanement
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une technologie qui permet de faire fonctionner plusieurs environnements independants sur une meme machine.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation embarques et leurs usages specifiques dans les appareils du quotidien
+slug: les-systemes-d-exploitation-embarques-et-leurs-usages-specifiques-dans-les-appareils-du-quotidien
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une categorie legere adaptee aux contraintes particulieres de petits appareils electroniques.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la gestion des permissions dans la securite d'un systeme d'exploitation
+slug: le-role-de-la-gestion-des-permissions-dans-la-securite-d-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un controle precis qui determine quels utilisateurs peuvent acceder a quelles ressources.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation en temps reel et leurs contraintes particulieres
+slug: les-systemes-d-exploitation-en-temps-reel-et-leurs-contraintes-particulieres
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une categorie specifique concue pour garantir une reponse dans un delai extremement precis.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du noyau dans l'architecture d'un systeme d'exploitation
+slug: le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Le coeur du systeme qui gere directement les interactions les plus fondamentales avec le materiel.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation mobiles et leurs specificites par rapport aux systemes de bureau
+slug: les-systemes-d-exploitation-mobiles-et-leurs-specificites-par-rapport-aux-systemes-de-bureau
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des adaptations particulieres necessaires pour repondre aux contraintes des appareils portables.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la ligne de commande dans l'interaction directe avec un systeme d'exploitation
+slug: le-role-de-la-ligne-de-commande-dans-l-interaction-directe-avec-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une methode plus technique mais souvent plus puissante pour controler precisement le systeme.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation distribues et leur fonctionnement sur plusieurs machines connectees
+slug: les-systemes-d-exploitation-distribues-et-leur-fonctionnement-sur-plusieurs-machines-connectees
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une approche ou plusieurs ordinateurs collaborent pour se comporter comme un systeme unique.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la compatibilite logicielle dans le choix d'un systeme d'exploitation
+slug: le-role-de-la-compatibilite-logicielle-dans-le-choix-d-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un critere pratique important qui determine quels programmes pourront effectivement etre utilises.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processus et threads geres par un systeme d'exploitation moderne
+slug: les-processus-et-threads-geres-par-un-systeme-d-exploitation-moderne
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des unites d'execution qui permettent a un ordinateur de traiter plusieurs taches en parallele.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du demarrage et de l'initialisation d'un systeme d'exploitation au lancement d'un ordinateur
+slug: le-role-du-demarrage-et-de-l-initialisation-d-un-systeme-d-exploitation-au-lancement-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une sequence precise d'etapes necessaires avant que l'ordinateur ne devienne pleinement utilisable.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation historiques et leur influence sur les technologies actuelles
+slug: les-systemes-d-exploitation-historiques-et-leur-influence-sur-les-technologies-actuelles
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des ancetres dont les principes fondamentaux continuent d'influencer les systemes modernes.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la personnalisation dans l'adaptation d'un systeme d'exploitation aux besoins de l'utilisateur
+slug: le-role-de-la-personnalisation-dans-l-adaptation-d-un-systeme-d-exploitation-aux-besoins-de-l-utilisateur
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une flexibilite qui permet a chacun d'adapter son environnement de travail selon ses preferences.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation et la gestion de l'energie sur les appareils portables
+slug: les-systemes-d-exploitation-et-la-gestion-de-l-energie-sur-les-appareils-portables
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une fonction importante qui optimise l'autonomie en ajustant l'usage des ressources materielles.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la resilience d'un systeme d'exploitation face aux pannes et aux erreurs
+slug: le-role-de-la-resilience-d-un-systeme-d-exploitation-face-aux-pannes-et-aux-erreurs
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une capacite a continuer de fonctionner ou a recuperer rapidement apres un incident technique.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation open source et leur developpement communautaire
+slug: les-systemes-d-exploitation-open-source-et-leur-developpement-communautaire
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un modele collaboratif ou de nombreux contributeurs ameliorent ensemble un meme logiciel librement partage.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de fonctionnement de la memoire vive d'un ordinateur
+slug: le-principe-de-fonctionnement-de-la-memoire-vive-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un espace de stockage temporaire tres rapide qui perd son contenu a l'extinction de l'appareil.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les disques durs mecaniques et leur principe de stockage magnetique
+slug: les-disques-durs-mecaniques-et-leur-principe-de-stockage-magnetique
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une technologie ancienne mais toujours utilisee qui enregistre les donnees sur des plateaux en rotation.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les disques a memoire flash et leurs avantages par rapport aux disques mecaniques
+slug: les-disques-a-memoire-flash-et-leurs-avantages-par-rapport-aux-disques-mecaniques
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une technologie plus rapide et plus resistante aux chocs que les disques durs traditionnels.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la memoire cache dans l'acceleration des acces aux donnees frequentes
+slug: le-role-de-la-memoire-cache-dans-l-acceleration-des-acces-aux-donnees-frequentes
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un espace tres rapide mais limite qui conserve temporairement les informations les plus utilisees.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents niveaux de stockage dans l'architecture d'un ordinateur
+slug: les-differents-niveaux-de-stockage-dans-l-architecture-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une hierarchie qui equilibre vitesse d'acces et capacite selon le type de memoire utilise.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage en nuage et ses avantages pour l'acces aux donnees depuis n'importe ou
+slug: le-stockage-en-nuage-et-ses-avantages-pour-l-acces-aux-donnees-depuis-n-importe-ou
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une solution qui conserve les fichiers sur des serveurs distants accessibles via Internet.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie des supports de stockage et les facteurs qui l'influencent
+slug: la-duree-de-vie-des-supports-de-stockage-et-les-facteurs-qui-l-influencent
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une limite naturelle qui varie selon la technologie et les conditions d'utilisation.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la memoire morte dans la conservation d'informations permanentes
+slug: le-role-de-la-memoire-morte-dans-la-conservation-d-informations-permanentes
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un type de memoire qui conserve son contenu meme lorsque l'appareil est eteint.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cles USB et leur usage pratique pour le transport de donnees
+slug: les-cles-usb-et-leur-usage-pratique-pour-le-transport-de-donnees
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un support portable et pratique devenu tres courant pour deplacer des fichiers.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la redondance dans la protection des donnees stockees contre la perte
+slug: le-role-de-la-redondance-dans-la-protection-des-donnees-stockees-contre-la-perte
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une strategie qui duplique les informations pour eviter qu'une panne ne les fasse disparaitre.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cartes memoire et leur usage dans les appareils photo et telephones
+slug: les-cartes-memoire-et-leur-usage-dans-les-appareils-photo-et-telephones
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un support compact largement utilise pour etendre la capacite de stockage d'un appareil portable.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la compression dans l'optimisation de l'espace de stockage disponible
+slug: le-role-de-la-compression-dans-l-optimisation-de-l-espace-de-stockage-disponible
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une technique qui reduit la taille des fichiers pour economiser de la place sur un support.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les architectures de stockage en reseau pour les entreprises
+slug: les-architectures-de-stockage-en-reseau-pour-les-entreprises
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des solutions qui centralisent le stockage de donnees pour un acces partage entre plusieurs utilisateurs.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la memoire vive dans les performances globales d'un ordinateur
+slug: le-role-de-la-memoire-vive-dans-les-performances-globales-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un facteur determinant qui influence directement la fluidite d'utilisation d'une machine.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les technologies de stockage emergentes et leurs promesses pour l'avenir
+slug: les-technologies-de-stockage-emergentes-et-leurs-promesses-pour-l-avenir
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des innovations en developpement qui pourraient offrir des capacites bien superieures aux solutions actuelles.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du formatage dans la preparation d'un support de stockage a l'usage
+slug: le-role-du-formatage-dans-la-preparation-d-un-support-de-stockage-a-l-usage
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une etape necessaire qui organise l'espace disponible selon un systeme de fichiers reconnu.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les disques optiques et leur declin progressif face aux nouvelles technologies
+slug: les-disques-optiques-et-leur-declin-progressif-face-aux-nouvelles-technologies
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un support autrefois populaire qui a progressivement cede sa place a des solutions plus pratiques.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la fragmentation dans la performance des disques de stockage mecaniques
+slug: le-role-de-la-fragmentation-dans-la-performance-des-disques-de-stockage-mecaniques
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un phenomene qui peut ralentir l'acces aux donnees dispersees sur un support magnetique.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sauvegardes automatiques et leur role dans la protection des donnees personnelles
+slug: les-sauvegardes-automatiques-et-leur-role-dans-la-protection-des-donnees-personnelles
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une pratique preventive essentielle pour eviter la perte definitive d'informations importantes.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la capacite de stockage dans le choix d'un appareil informatique
+slug: le-role-de-la-capacite-de-stockage-dans-le-choix-d-un-appareil-informatique
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un critere pratique important qui influence directement l'usage quotidien d'un ordinateur ou d'un telephone.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les technologies de stockage utilisees dans les grands centres de donnees
+slug: les-technologies-de-stockage-utilisees-dans-les-grands-centres-de-donnees
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des solutions industrielles adaptees a la gestion de volumes considerables d'informations.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chiffrement des supports de stockage dans la protection des donnees sensibles
+slug: le-role-du-chiffrement-des-supports-de-stockage-dans-la-protection-des-donnees-sensibles
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une securite supplementaire qui rend les informations illisibles en cas de vol du support.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites physiques actuelles de la miniaturisation des supports de stockage
+slug: les-limites-physiques-actuelles-de-la-miniaturisation-des-supports-de-stockage
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des contraintes techniques qui posent des defis croissants a mesure que les technologies progressent.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de fonctionnement d'un ecran a cristaux liquides
+slug: le-principe-de-fonctionnement-d-un-ecran-a-cristaux-liquides
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie repandue qui utilise des cristaux capables de moduler le passage de la lumiere.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecrans a diodes electroluminescentes organiques et leurs avantages visuels
+slug: les-ecrans-a-diodes-electroluminescentes-organiques-et-leurs-avantages-visuels
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie plus recente qui offre des contrastes et des couleurs particulierement marques.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du clavier comme peripherique d'entree essentiel de l'ordinateur
+slug: le-role-du-clavier-comme-peripherique-d-entree-essentiel-de-l-ordinateur
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un dispositif fondamental qui permet de saisir du texte et de controler de nombreuses fonctions.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La souris et son role dans l'interaction graphique avec un ordinateur
+slug: la-souris-et-son-role-dans-l-interaction-graphique-avec-un-ordinateur
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un peripherique qui a transforme la maniere dont les utilisateurs interagissent avec les interfaces visuelles.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la resolution d'un ecran dans la nettete de l'image affichee
+slug: le-role-de-la-resolution-d-un-ecran-dans-la-nettete-de-l-image-affichee
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une caracteristique technique qui determine le niveau de detail visible sur un affichage.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les imprimantes et leurs differentes technologies d'impression
+slug: les-imprimantes-et-leurs-differentes-technologies-d-impression
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des peripheriques varies adaptes a des besoins d'impression tres differents.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ecrans tactiles dans la simplification de l'interaction avec les appareils modernes
+slug: le-role-des-ecrans-tactiles-dans-la-simplification-de-l-interaction-avec-les-appareils-modernes
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie qui permet de controler directement un appareil du bout des doigts.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les webcams et leur role croissant dans la communication a distance
+slug: les-webcams-et-leur-role-croissant-dans-la-communication-a-distance
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un peripherique devenu essentiel avec le developpement des reunions et des appels video.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du taux de rafraichissement dans la fluidite d'affichage d'un ecran
+slug: le-role-du-taux-de-rafraichissement-dans-la-fluidite-d-affichage-d-un-ecran
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une caracteristique technique particulierement importante pour les usages exigeant une reactivite elevee.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scanners et leur role dans la numerisation de documents papier
+slug: les-scanners-et-leur-role-dans-la-numerisation-de-documents-papier
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un peripherique qui convertit un document physique en fichier numerique exploitable.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des haut-parleurs et casques dans la restitution du son numerique
+slug: le-role-des-haut-parleurs-et-casques-dans-la-restitution-du-son-numerique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des peripheriques qui transforment un signal electrique en son audible par l'utilisateur.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecrans incurves et leurs avantages pour certains usages specifiques
+slug: les-ecrans-incurves-et-leurs-avantages-pour-certains-usages-specifiques
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une forme particuliere qui ameliore l'immersion visuelle dans certains contextes d'utilisation.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des manettes de jeu comme peripheriques specialises
+slug: le-role-des-manettes-de-jeu-comme-peripheriques-specialises
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un dispositif concu specifiquement pour ameliorer le confort et la precision dans les jeux video.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecrans tactiles capacitifs et leur difference avec les ecrans resistifs
+slug: les-ecrans-tactiles-capacitifs-et-leur-difference-avec-les-ecrans-resistifs
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Deux technologies distinctes qui detectent le toucher selon des principes physiques differents.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la luminosite et du contraste dans la qualite percue d'un ecran
+slug: le-role-de-la-luminosite-et-du-contraste-dans-la-qualite-percue-d-un-ecran
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des caracteristiques qui influencent fortement le confort visuel selon les conditions d'eclairage.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les peripheriques d'entree specialises pour les personnes en situation de handicap
+slug: les-peripheriques-d-entree-specialises-pour-les-personnes-en-situation-de-handicap
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des dispositifs adaptes qui facilitent l'usage de l'informatique pour des besoins particuliers.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des connecteurs et des ports dans le branchement des peripheriques
+slug: le-role-des-connecteurs-et-des-ports-dans-le-branchement-des-peripheriques
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des interfaces physiques standardisees necessaires pour relier differents appareils entre eux.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecrans pliables et les innovations recentes dans le domaine de l'affichage
+slug: les-ecrans-pliables-et-les-innovations-recentes-dans-le-domaine-de-l-affichage
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie emergente qui ouvre de nouvelles possibilites de conception d'appareils.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tablettes graphiques comme peripheriques pour la creation numerique
+slug: le-role-des-tablettes-graphiques-comme-peripheriques-pour-la-creation-numerique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un outil specialise qui facilite le dessin et la retouche d'images directement sur ordinateur.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les peripheriques sans fil et les technologies qui permettent leur fonctionnement
+slug: les-peripheriques-sans-fil-et-les-technologies-qui-permettent-leur-fonctionnement
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une commodite croissante qui elimine le besoin de cables tout en maintenant une connexion fiable.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'ergonomie dans la conception des peripheriques informatiques modernes
+slug: le-role-de-l-ergonomie-dans-la-conception-des-peripheriques-informatiques-modernes
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une attention croissante portee au confort d'utilisation sur de longues periodes.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role central du processeur dans le fonctionnement d'un ordinateur
+slug: le-role-central-du-processeur-dans-le-fonctionnement-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Le composant qui execute les instructions et realise les calculs necessaires au fonctionnement global.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La frequence d'horloge et son role dans la vitesse d'un processeur
+slug: la-frequence-d-horloge-et-son-role-dans-la-vitesse-d-un-processeur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une mesure qui indique combien de cycles de calcul un processeur peut effectuer chaque seconde.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs multicoeurs et leur capacite a traiter plusieurs taches simultanement
+slug: les-processeurs-multicoeurs-et-leur-capacite-a-traiter-plusieurs-taches-simultanement
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une architecture qui combine plusieurs unites de calcul independantes sur une meme puce.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du cache du processeur dans l'acceleration de l'acces aux donnees frequentes
+slug: le-role-du-cache-du-processeur-dans-l-acceleration-de-l-acces-aux-donnees-frequentes
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une petite memoire tres rapide integree directement au processeur pour limiter les temps d'attente.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La miniaturisation des transistors et son role dans l'evolution de la puissance des processeurs
+slug: la-miniaturisation-des-transistors-et-son-role-dans-l-evolution-de-la-puissance-des-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une reduction continue de la taille des composants qui a permis des gains de performance considerables.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la dissipation thermique dans le fonctionnement fiable d'un processeur
+slug: le-role-de-la-dissipation-thermique-dans-le-fonctionnement-fiable-d-un-processeur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une gestion necessaire de la chaleur generee par l'activite intense du composant.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs graphiques et leur specialisation dans le calcul parallele
+slug: les-processeurs-graphiques-et-leur-specialisation-dans-le-calcul-parallele
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un type de processeur optimise pour realiser simultanement de tres nombreux calculs simples.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du jeu d'instructions dans la conception et la compatibilite d'un processeur
+slug: le-role-du-jeu-d-instructions-dans-la-conception-et-la-compatibilite-d-un-processeur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un ensemble de commandes de base que le processeur est capable de comprendre et d'executer.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs a faible consommation destines aux appareils portables
+slug: les-processeurs-a-faible-consommation-destines-aux-appareils-portables
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une conception adaptee qui privilegie l'autonomie de la batterie plutot que la puissance maximale.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la prediction de branchement dans l'optimisation de la vitesse d'execution d'un processeur
+slug: le-role-de-la-prediction-de-branchement-dans-l-optimisation-de-la-vitesse-d-execution-d-un-processeur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une technique astucieuse qui anticipe le resultat probable d'une decision pour gagner du temps.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs specialises pour l'intelligence artificielle et l'apprentissage automatique
+slug: les-processeurs-specialises-pour-l-intelligence-artificielle-et-l-apprentissage-automatique
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une conception dediee optimisee specifiquement pour les calculs propres a ce type de traitement.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la finesse de gravure dans les performances et l'efficacite d'un processeur moderne
+slug: le-role-de-la-finesse-de-gravure-dans-les-performances-et-l-efficacite-d-un-processeur-moderne
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une mesure technique qui influence directement la densite et la consommation du composant.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs historiques et l'evolution de leur puissance au fil des decennies
+slug: les-processeurs-historiques-et-l-evolution-de-leur-puissance-au-fil-des-decennies
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un progres continu remarquable qui a transforme profondement les capacites de l'informatique.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du refroidissement actif dans le maintien des performances d'un processeur puissant
+slug: le-role-du-refroidissement-actif-dans-le-maintien-des-performances-d-un-processeur-puissant
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des systemes mecaniques qui evacuent efficacement la chaleur pour eviter toute surchauffe.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs integres directement sur la meme puce que d'autres composants
+slug: les-processeurs-integres-directement-sur-la-meme-puce-que-d-autres-composants
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une architecture qui combine plusieurs fonctions distinctes au sein d'un seul circuit integre.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du surcadençage dans l'augmentation temporaire des performances d'un processeur
+slug: le-role-du-surcadencage-dans-l-augmentation-temporaire-des-performances-d-un-processeur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une pratique qui pousse le composant au-dela de ses parametres habituels de fonctionnement.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs quantiques comme piste de recherche pour le calcul du futur
+slug: les-processeurs-quantiques-comme-piste-de-recherche-pour-le-calcul-du-futur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une technologie encore experimentale qui exploite des principes tres differents de l'informatique classique.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la virtualisation materielle dans les capacites modernes des processeurs
+slug: le-role-de-la-virtualisation-materielle-dans-les-capacites-modernes-des-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une fonctionnalite integree qui facilite l'execution simultanee de plusieurs systemes independants.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les benchmarks et les methodes utilisees pour comparer les performances de differents processeurs
+slug: les-benchmarks-et-les-methodes-utilisees-pour-comparer-les-performances-de-differents-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des tests standardises qui permettent d'evaluer objectivement la puissance de calcul disponible.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la fabrication des semi-conducteurs dans la disponibilite mondiale des processeurs
+slug: le-role-de-la-fabrication-des-semi-conducteurs-dans-la-disponibilite-mondiale-des-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une industrie complexe et concentree dont les capacites influencent fortement le marche technologique.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs embarques dans les objets connectes du quotidien
+slug: les-processeurs-embarques-dans-les-objets-connectes-du-quotidien
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des composants souvent modestes en puissance mais essentiels au fonctionnement de nombreux appareils.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'architecture des processeurs dans leur efficacite energetique globale
+slug: le-role-de-l-architecture-des-processeurs-dans-leur-efficacite-energetique-globale
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des choix de conception qui influencent directement la consommation electrique du composant.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general du chiffrement des donnees numeriques
+slug: le-principe-general-du-chiffrement-des-donnees-numeriques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une transformation qui rend une information illisible sans la cle necessaire pour la dechiffrer.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement symetrique et l'usage d'une meme cle pour chiffrer et dechiffrer
+slug: le-chiffrement-symetrique-et-l-usage-d-une-meme-cle-pour-chiffrer-et-dechiffrer
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une methode rapide mais qui necessite un partage securise prealable de la cle secrete.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement asymetrique et le principe des cles publique et privee
+slug: le-chiffrement-asymetrique-et-le-principe-des-cles-publique-et-privee
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une methode qui utilise deux cles distinctes, l'une partageable et l'autre gardee strictement secrete.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chiffrement dans la securisation des sites web modernes
+slug: le-role-du-chiffrement-dans-la-securisation-des-sites-web-modernes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une protection standard qui garantit la confidentialite des echanges entre un site et ses visiteurs.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La signature numerique et son role dans la verification de l'authenticite d'un document
+slug: la-signature-numerique-et-son-role-dans-la-verification-de-l-authenticite-d-un-document
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une technique qui permet de confirmer l'origine et l'integrite d'une information numerique.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement de bout en bout dans les applications de messagerie
+slug: le-chiffrement-de-bout-en-bout-dans-les-applications-de-messagerie
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une protection qui garantit que seuls l'expediteur et le destinataire peuvent lire un message.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des fonctions de hachage dans la verification de l'integrite des donnees
+slug: le-role-des-fonctions-de-hachage-dans-la-verification-de-l-integrite-des-donnees
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une methode qui produit une empreinte unique permettant de detecter toute modification d'un fichier.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement des disques durs et la protection des donnees en cas de vol de l'appareil
+slug: le-chiffrement-des-disques-durs-et-la-protection-des-donnees-en-cas-de-vol-de-l-appareil
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une securite qui rend les informations inaccessibles meme si le materiel physique est derobe.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la longueur de la cle dans la robustesse d'un chiffrement
+slug: le-role-de-la-longueur-de-la-cle-dans-la-robustesse-d-un-chiffrement
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un facteur technique qui determine directement la difficulte a casser une protection par la force.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la cryptographie avant l'ere numerique moderne
+slug: l-histoire-de-la-cryptographie-avant-l-ere-numerique-moderne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des methodes anciennes qui ont precede et inspire les techniques de chiffrement actuelles.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chiffrement dans la protection des mots de passe stockes
+slug: le-role-du-chiffrement-dans-la-protection-des-mots-de-passe-stockes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une pratique essentielle qui evite qu'un mot de passe vole soit directement utilisable.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les protocoles de chiffrement utilises pour securiser les reseaux sans fil
+slug: les-protocoles-de-chiffrement-utilises-pour-securiser-les-reseaux-sans-fil
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des standards specifiques qui protegent les communications transmises par ondes radio.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cryptographie post-quantique face aux futurs ordinateurs quantiques
+slug: le-role-de-la-cryptographie-post-quantique-face-aux-futurs-ordinateurs-quantiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une recherche anticipee necessaire pour proteger les donnees contre une menace technologique future.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement homomorphe et la possibilite de calculer sur des donnees chiffrees
+slug: le-chiffrement-homomorphe-et-la-possibilite-de-calculer-sur-des-donnees-chiffrees
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une technique avancee qui permet de traiter des informations sans jamais les dechiffrer completement.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des certificats numeriques dans la confiance accordee a un site web
+slug: le-role-des-certificats-numeriques-dans-la-confiance-accordee-a-un-site-web
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un document electronique qui atteste de l'identite verifiee d'un service en ligne.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vulnerabilites historiques de certains algorithmes de chiffrement aujourd'hui abandonnes
+slug: les-vulnerabilites-historiques-de-certains-algorithmes-de-chiffrement-aujourd-hui-abandonnes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des faiblesses decouvertes qui ont conduit au remplacement de methodes autrefois considerees sures.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chiffrement dans la protection de la vie privee des utilisateurs en ligne
+slug: le-role-du-chiffrement-dans-la-protection-de-la-vie-privee-des-utilisateurs-en-ligne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un outil essentiel qui limite la capacite de tiers a intercepter des communications privees.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debats publics autour de l'acces des autorites aux communications chiffrees
+slug: les-debats-publics-autour-de-l-acces-des-autorites-aux-communications-chiffrees
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une tension persistante entre securite individuelle et besoins des enquetes judiciaires.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chiffrement dans les transactions bancaires en ligne
+slug: le-role-du-chiffrement-dans-les-transactions-bancaires-en-ligne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une protection indispensable qui securise les informations financieres lors des paiements numeriques.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les generateurs de nombres aleatoires et leur role essentiel dans un chiffrement robuste
+slug: les-generateurs-de-nombres-aleatoires-et-leur-role-essentiel-dans-un-chiffrement-robuste
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un composant technique discret mais crucial pour garantir l'imprevisibilite des cles generees.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des standards internationaux dans l'adoption large de certains algorithmes de chiffrement
+slug: le-role-des-standards-internationaux-dans-l-adoption-large-de-certains-algorithmes-de-chiffrement
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une reconnaissance officielle qui favorise l'usage generalise d'une methode jugee fiable.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les logiciels malveillants et leurs differentes categories
+slug: les-logiciels-malveillants-et-leurs-differentes-categories
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des programmes concus intentionnellement pour nuire a un systeme informatique ou a son utilisateur.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le phishing et les techniques de tromperie utilisees pour voler des informations personnelles
+slug: le-phishing-et-les-techniques-de-tromperie-utilisees-pour-voler-des-informations-personnelles
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une methode frequente qui imite des communications legitimes pour piegera les utilisateurs.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des pare-feux dans la protection d'un reseau informatique
+slug: le-role-des-pare-feux-dans-la-protection-d-un-reseau-informatique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un dispositif qui filtre le trafic entrant et sortant pour bloquer les connexions suspectes.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rancongiciels et le chiffrement malveillant de donnees contre rancon
+slug: les-rancongiciels-et-le-chiffrement-malveillant-de-donnees-contre-rancon
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une menace particulierement redoutee qui rend les fichiers d'une victime inaccessibles jusqu'a paiement.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des mises a jour de securite dans la prevention des cyberattaques
+slug: le-role-des-mises-a-jour-de-securite-dans-la-prevention-des-cyberattaques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des correctifs reguliers qui ferment les failles decouvertes avant qu'elles ne soient exploitees.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'authentification a plusieurs facteurs et son role dans le renforcement de la securite des comptes
+slug: l-authentification-a-plusieurs-facteurs-et-son-role-dans-le-renforcement-de-la-securite-des-comptes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une methode qui combine plusieurs preuves d'identite pour limiter les acces non autorises.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la sensibilisation des utilisateurs dans la prevention des incidents de cybersecurite
+slug: le-role-de-la-sensibilisation-des-utilisateurs-dans-la-prevention-des-incidents-de-cybersecurite
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une formation essentielle car de nombreuses attaques exploitent d'abord des erreurs humaines.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les attaques par deni de service et leur impact sur la disponibilite d'un service en ligne
+slug: les-attaques-par-deni-de-service-et-leur-impact-sur-la-disponibilite-d-un-service-en-ligne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une methode qui sature un systeme de requetes pour le rendre temporairement inaccessible.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des tests d'intrusion dans l'evaluation proactive de la securite d'un systeme
+slug: le-role-des-tests-d-intrusion-dans-l-evaluation-proactive-de-la-securite-d-un-systeme
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une simulation controlee d'attaque qui permet d'identifier les failles avant qu'un malveillant ne les trouve.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vols de donnees personnelles et leurs consequences pour les victimes
+slug: les-vols-de-donnees-personnelles-et-leurs-consequences-pour-les-victimes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un incident qui expose des informations sensibles pouvant etre exploitees a des fins malveillantes.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des centres de reponse aux incidents dans la gestion d'une cyberattaque
+slug: le-role-des-centres-de-reponse-aux-incidents-dans-la-gestion-d-une-cyberattaque
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des equipes specialisees qui interviennent rapidement pour limiter les degats d'une attaque en cours.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les logiciels espions et la collecte discrete d'informations sur un utilisateur
+slug: les-logiciels-espions-et-la-collecte-discrete-d-informations-sur-un-utilisateur
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des programmes qui surveillent secretement l'activite d'un appareil sans le consentement de son proprietaire.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la gestion des mots de passe dans la securite personnelle en ligne
+slug: le-role-de-la-gestion-des-mots-de-passe-dans-la-securite-personnelle-en-ligne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une pratique essentielle qui reduit considerablement le risque de compromission d'un compte.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les attaques ciblant les infrastructures critiques comme l'energie ou la sante
+slug: les-attaques-ciblant-les-infrastructures-critiques-comme-l-energie-ou-la-sante
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une menace particulierement grave en raison des consequences potentielles sur la vie quotidienne.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du chiffrement dans la strategie globale de cybersecurite d'une organisation
+slug: le-role-du-chiffrement-dans-la-strategie-globale-de-cybersecurite-d-une-organisation
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une protection complementaire qui limite l'impact d'un eventuel vol de donnees.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vulnerabilites zero-day et le risque qu'elles representent avant leur correction
+slug: les-vulnerabilites-zero-day-et-le-risque-qu-elles-representent-avant-leur-correction
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une faille inconnue des developpeurs qui peut etre exploitee avant qu'un correctif n'existe.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cybersecurite dans la protection des objets connectes domestiques
+slug: le-role-de-la-cybersecurite-dans-la-protection-des-objets-connectes-domestiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un enjeu croissant lie a la multiplication d'appareils souvent moins bien proteges que les ordinateurs.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques d'ingenierie sociale utilisees pour manipuler les victimes
+slug: les-techniques-d-ingenierie-sociale-utilisees-pour-manipuler-les-victimes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des methodes qui exploitent la confiance ou la peur plutot que des failles purement techniques.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la segmentation reseau dans la limitation de la propagation d'une attaque
+slug: le-role-de-la-segmentation-reseau-dans-la-limitation-de-la-propagation-d-une-attaque
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une architecture qui isole differentes parties d'un reseau pour contenir un incident eventuel.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cyberattaques etatiques et leur role dans les tensions internationales modernes
+slug: les-cyberattaques-etatiques-et-leur-role-dans-les-tensions-internationales-modernes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une dimension geopolitique qui transforme la cybersecurite en enjeu de securite nationale.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sauvegardes regulieres dans la resilience face aux rancongiciels
+slug: le-role-des-sauvegardes-regulieres-dans-la-resilience-face-aux-rancongiciels
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une precaution essentielle qui permet de retablir des donnees sans avoir a payer une rancon.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les failles de securite dans les applications mobiles et leur correction
+slug: les-failles-de-securite-dans-les-applications-mobiles-et-leur-correction
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un enjeu specifique lie a la diversite et a la rapidite de developpement de ces logiciels.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des professionnels de la cybersecurite dans la protection des entreprises modernes
+slug: le-role-des-professionnels-de-la-cybersecurite-dans-la-protection-des-entreprises-modernes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un metier en forte croissance face a l'augmentation constante des menaces numeriques.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement des adresses IP dans l'identification des appareils sur Internet
+slug: le-fonctionnement-des-adresses-ip-dans-l-identification-des-appareils-sur-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un systeme d'identification unique qui permet a chaque appareil connecte d'etre localise sur le reseau.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du systeme de noms de domaine dans la navigation sur Internet
+slug: le-role-du-systeme-de-noms-de-domaine-dans-la-navigation-sur-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un annuaire qui traduit les noms de sites en adresses numeriques comprehensibles par les machines.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les protocoles de communication qui permettent le fonctionnement d'Internet
+slug: les-protocoles-de-communication-qui-permettent-le-fonctionnement-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un ensemble de regles communes qui garantissent que differents appareils peuvent echanger des informations.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des fournisseurs d'acces dans la connexion des utilisateurs au reseau mondial
+slug: le-role-des-fournisseurs-d-acces-dans-la-connexion-des-utilisateurs-au-reseau-mondial
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des entreprises qui assurent le lien technique entre un foyer ou une entreprise et Internet.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la creation d'Internet et son evolution depuis ses origines militaires et academiques
+slug: l-histoire-de-la-creation-d-internet-et-son-evolution-depuis-ses-origines-militaires-et-academiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un parcours surprenant qui a transforme un projet limite en infrastructure mondiale essentielle.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des serveurs dans la mise a disposition de contenus sur Internet
+slug: le-role-des-serveurs-dans-la-mise-a-disposition-de-contenus-sur-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des ordinateurs specialises qui stockent et distribuent en permanence les informations demandees.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bande passante et son role dans la vitesse de connexion a Internet
+slug: la-bande-passante-et-son-role-dans-la-vitesse-de-connexion-a-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une mesure qui determine la quantite de donnees pouvant transiter en un temps donne.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reseaux de diffusion de contenu dans l'acceleration du chargement des sites web
+slug: le-role-des-reseaux-de-diffusion-de-contenu-dans-l-acceleration-du-chargement-des-sites-web
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une infrastructure distribuee qui rapproche geographiquement les donnees des utilisateurs finaux.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La neutralite du net et le principe d'egalite de traitement des donnees circulant sur Internet
+slug: la-neutralite-du-net-et-le-principe-d-egalite-de-traitement-des-donnees-circulant-sur-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un principe fondamental qui garantit qu'aucun contenu n'est favorise ou penalise arbitrairement.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du protocole de securisation dans les echanges chiffres sur Internet
+slug: le-role-du-protocole-de-securisation-dans-les-echanges-chiffres-sur-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une couche de protection qui garantit la confidentialite des informations transmises sur le web.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acces a Internet dans les zones rurales et les defis specifiques de son deploiement
+slug: l-acces-a-internet-dans-les-zones-rurales-et-les-defis-specifiques-de-son-deploiement
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un enjeu d'equite territoriale lie aux couts eleves d'installation dans les zones peu peuplees.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cables sous-marins dans la connexion mondiale a Internet
+slug: le-role-des-cables-sous-marins-dans-la-connexion-mondiale-a-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une infrastructure physique essentielle qui relie les continents entre eux pour les echanges numeriques.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gouvernance mondiale d'Internet et les organisations qui en assurent le bon fonctionnement
+slug: la-gouvernance-mondiale-d-internet-et-les-organisations-qui-en-assurent-le-bon-fonctionnement
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une coordination internationale necessaire pour maintenir un reseau coherent a l'echelle du globe.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'adressage IP nouvelle generation face a l'epuisement des anciennes adresses
+slug: le-role-de-l-adressage-ip-nouvelle-generation-face-a-l-epuisement-des-anciennes-adresses
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une evolution technique necessaire face au nombre croissant d'appareils connectes dans le monde.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fracture numerique et les inegalites d'acces a Internet a travers le monde
+slug: la-fracture-numerique-et-les-inegalites-d-acces-a-internet-a-travers-le-monde
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un ecart important qui limite l'acces a l'information et aux services pour une partie de la population mondiale.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des routeurs dans l'acheminement des donnees a travers le reseau Internet
+slug: le-role-des-routeurs-dans-l-acheminement-des-donnees-a-travers-le-reseau-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des equipements qui dirigent intelligemment les informations vers leur destination correcte.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs de recherche et leur role fondamental dans l'usage quotidien d'Internet
+slug: les-moteurs-de-recherche-et-leur-role-fondamental-dans-l-usage-quotidien-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un outil devenu indispensable pour retrouver une information parmi des milliards de pages disponibles.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la censure et des restrictions d'acces a Internet dans certains pays
+slug: le-role-de-la-censure-et-des-restrictions-d-acces-a-internet-dans-certains-pays
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des limitations imposees qui restreignent l'acces libre a l'information pour certaines populations.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution du debit moyen des connexions Internet au fil des decennies
+slug: l-evolution-du-debit-moyen-des-connexions-internet-au-fil-des-decennies
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une amelioration continue qui a transforme les usages possibles sur le reseau mondial.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reseaux mobiles dans l'extension de l'acces a Internet au-dela des connexions fixes
+slug: le-role-des-reseaux-mobiles-dans-l-extension-de-l-acces-a-internet-au-dela-des-connexions-fixes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une complementarite qui a considerablement elargi le nombre de personnes connectees dans le monde.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation energetique globale du fonctionnement d'Internet
+slug: la-consommation-energetique-globale-du-fonctionnement-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un enjeu environnemental croissant lie a l'ensemble des infrastructures necessaires au reseau mondial.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des normes techniques internationales dans l'interoperabilite mondiale d'Internet
+slug: le-role-des-normes-techniques-internationales-dans-l-interoperabilite-mondiale-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des standards communs indispensables pour que des reseaux distincts puissent communiquer entre eux.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acces satellite a Internet comme solution pour les regions les plus isolees
+slug: l-acces-satellite-a-internet-comme-solution-pour-les-regions-les-plus-isolees
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une technologie recente qui permet une connexion la ou les infrastructures terrestres restent absentes.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du web des origines par rapport aux usages actuels d'Internet
+slug: le-role-du-web-des-origines-par-rapport-aux-usages-actuels-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une transformation profonde qui a considerablement enrichi les possibilites offertes par le reseau.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience d'Internet face aux pannes et aux catastrophes naturelles
+slug: la-resilience-d-internet-face-aux-pannes-et-aux-catastrophes-naturelles
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une architecture concue des l'origine pour continuer a fonctionner meme en cas de defaillance partielle.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

@@ -7370,3 +7370,3603 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Le principe du big bang et l'origine de l'univers observable
+slug: le-principe-du-big-bang-et-l-origine-de-l-univers-observable
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une theorie scientifique qui decrit l'expansion de l'univers depuis un etat initial extremement dense.
+tags: [cosmologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'expansion de l'univers et sa decouverte historique
+slug: l-expansion-de-l-univers-et-sa-decouverte-historique
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Un phenomene mesure pour la premiere fois au debut du vingtieme siecle, qui a transforme la cosmologie.
+tags: [cosmologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fond diffus cosmologique comme temoin du jeune univers
+slug: le-fond-diffus-cosmologique-comme-temoin-du-jeune-univers
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Un rayonnement fossile qui apporte des informations precieuses sur les debuts de l'univers.
+tags: [cosmologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La matiere noire et les indices de son existence
+slug: la-matiere-noire-et-les-indices-de-son-existence
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une matiere invisible dont la presence est deduite de ses effets gravitationnels observes.
+tags: [cosmologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie sombre et son role dans l'acceleration de l'expansion de l'univers
+slug: l-energie-sombre-et-son-role-dans-l-acceleration-de-l-expansion-de-l-univers
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une composante mysterieuse qui semble accelerer l'eloignement des galaxies entre elles.
+tags: [cosmologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des premieres galaxies apres le big bang
+slug: la-formation-des-premieres-galaxies-apres-le-big-bang
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Un processus long qui a transforme un univers initialement tres uniforme en structures complexes.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des supernovae dans la mesure des distances cosmiques
+slug: le-role-des-supernovae-dans-la-mesure-des-distances-cosmiques
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Des explosions stellaires dont la luminosite connue sert de reference pour mesurer l'univers.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les theories sur la forme et la taille globale de l'univers
+slug: les-theories-sur-la-forme-et-la-taille-globale-de-l-univers
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Des hypotheses scientifiques qui explorent la geometrie a tres grande echelle du cosmos.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le destin ultime de l'univers selon differents scenarios cosmologiques
+slug: le-destin-ultime-de-l-univers-selon-differents-scenarios-cosmologiques
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Plusieurs futurs possibles envisages par les scientifiques selon les proprietes de l'energie sombre.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La nucleosynthese primordiale et la formation des premiers elements chimiques
+slug: la-nucleosynthese-primordiale-et-la-formation-des-premiers-elements-chimiques
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Un processus tres precoce qui a produit les premiers atomes legers de l'univers.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des grands releves de galaxies dans la cartographie de l'univers
+slug: le-role-des-grands-releves-de-galaxies-dans-la-cartographie-de-l-univers
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Des observations a grande echelle qui revelent la structure en filaments de la matiere cosmique.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La constante de Hubble et son role dans la mesure de l'expansion de l'univers
+slug: la-constante-de-hubble-et-son-role-dans-la-mesure-de-l-expansion-de-l-univers
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Un nombre cle qui permet de calculer la vitesse a laquelle l'univers s'agrandit.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les theories alternatives au modele standard de la cosmologie
+slug: les-theories-alternatives-au-modele-standard-de-la-cosmologie
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Des propositions scientifiques qui questionnent certains aspects du modele le plus largement accepte.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'inflation cosmique dans les tout premiers instants de l'univers
+slug: le-role-de-l-inflation-cosmique-dans-les-tout-premiers-instants-de-l-univers
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une phase d'expansion extremement rapide qui aurait eu lieu juste apres le big bang.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La structure a grande echelle de l'univers en filaments et vides cosmiques
+slug: la-structure-a-grande-echelle-de-l-univers-en-filaments-et-vides-cosmiques
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une organisation surprenante de la matiere qui ressemble a une immense toile.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ondes gravitationnelles primordiales dans l'etude du jeune univers
+slug: le-role-des-ondes-gravitationnelles-primordiales-dans-l-etude-du-jeune-univers
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Des signaux tres subtils qui pourraient renseigner sur les tout premiers instants du cosmos.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'age de l'univers et les methodes utilisees pour l'estimer
+slug: l-age-de-l-univers-et-les-methodes-utilisees-pour-l-estimer
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Un calcul qui combine plusieurs observations independantes pour aboutir a une estimation fiable.
+tags: [cosmologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paradoxe d'Olbers et la question de l'obscurite du ciel nocturne
+slug: le-paradoxe-d-olbers-et-la-question-de-l-obscurite-du-ciel-nocturne
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une reflexion ancienne qui a contribue a la comprehension moderne de la taille de l'univers.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des amas de galaxies dans l'etude de la matiere noire
+slug: le-role-des-amas-de-galaxies-dans-l-etude-de-la-matiere-noire
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  De vastes structures dont l'etude a fourni des preuves importantes de cette matiere invisible.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cosmologie observationnelle et les grands telescopes dedies a l'etude de l'univers lointain
+slug: la-cosmologie-observationnelle-et-les-grands-telescopes-dedies-a-l-etude-de-l-univers-lointain
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Des instruments specialement concus pour sonder les confins les plus eloignes du cosmos.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le multivers comme hypothese speculative en cosmologie theorique
+slug: le-multivers-comme-hypothese-speculative-en-cosmologie-theorique
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une idee qui envisage l'existence possible d'autres univers au-dela du notre.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la relativite generale dans la comprehension de la cosmologie moderne
+slug: le-role-de-la-relativite-generale-dans-la-comprehension-de-la-cosmologie-moderne
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une theorie fondamentale qui decrit comment la matiere et l'espace-temps interagissent a grande echelle.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premieres secondes de l'univers selon la physique moderne
+slug: les-premieres-secondes-de-l-univers-selon-la-physique-moderne
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Une periode extremement breve mais determinante pour la suite de l'evolution cosmique.
+tags: [cosmologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des etoiles a partir de nuages de gaz et de poussiere
+slug: la-formation-des-etoiles-a-partir-de-nuages-de-gaz-et-de-poussiere
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un processus long qui transforme progressivement la matiere interstellaire en une nouvelle etoile.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle de vie des etoiles selon leur masse initiale
+slug: le-cycle-de-vie-des-etoiles-selon-leur-masse-initiale
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Une trajectoire tres differente selon que l'etoile est petite, moyenne ou tres massive.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fusion nucleaire au coeur des etoiles et la production d'energie
+slug: la-fusion-nucleaire-au-coeur-des-etoiles-et-la-production-d-energie
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un processus fondamental qui explique pourquoi les etoiles brillent pendant des milliards d'annees.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les naines blanches comme etape finale de certaines etoiles
+slug: les-naines-blanches-comme-etape-finale-de-certaines-etoiles
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un residu stellaire tres dense qui subsiste apres la fin de vie d'une etoile de taille moyenne.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etoiles a neutrons et leur densite extraordinaire
+slug: les-etoiles-a-neutrons-et-leur-densite-extraordinaire
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un objet extremement compact issu de l'effondrement du coeur d'une etoile massive.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les supernovae et l'explosion spectaculaire de certaines etoiles
+slug: les-supernovae-et-l-explosion-spectaculaire-de-certaines-etoiles
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un evenement cataclysmique qui marque la fin violente de certaines etoiles massives.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La classification des etoiles selon leur couleur et leur temperature
+slug: la-classification-des-etoiles-selon-leur-couleur-et-leur-temperature
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un systeme qui permet de categoriser les etoiles selon des caracteristiques physiques observables.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du soleil comme etoile de reference pour l'etude de l'astrophysique stellaire
+slug: le-role-du-soleil-comme-etoile-de-reference-pour-l-etude-de-l-astrophysique-stellaire
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Une etoile proche qui permet d'observer en detail des phenomenes valables pour d'autres etoiles.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etoiles variables et les fluctuations de leur luminosite
+slug: les-etoiles-variables-et-les-fluctuations-de-leur-luminosite
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Des etoiles dont l'eclat change de maniere reguliere ou irreguliere au fil du temps.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etoiles doubles et multiples et leurs interactions gravitationnelles
+slug: les-etoiles-doubles-et-multiples-et-leurs-interactions-gravitationnelles
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Des systemes ou plusieurs etoiles orbitent l'une autour de l'autre selon des configurations variees.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le diagramme de Hertzsprung-Russell et son role dans la classification stellaire
+slug: le-diagramme-de-hertzsprung-russell-et-son-role-dans-la-classification-stellaire
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un outil graphique fondamental qui organise les etoiles selon leur luminosite et leur temperature.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les geantes rouges comme phase avancee de l'evolution stellaire
+slug: les-geantes-rouges-comme-phase-avancee-de-l-evolution-stellaire
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Une etape ou une etoile grossit considerablement avant d'entrer dans les derniers stades de sa vie.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vent stellaire et son influence sur l'environnement proche d'une etoile
+slug: le-vent-stellaire-et-son-influence-sur-l-environnement-proche-d-une-etoile
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un flux de particules emis en permanence qui peut affecter les objets situes a proximite.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les amas d'etoiles et leur role dans l'etude de la formation stellaire
+slug: les-amas-d-etoiles-et-leur-role-dans-l-etude-de-la-formation-stellaire
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Des regroupements qui permettent d'observer des etoiles nees a peu pres au meme moment.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des etoiles massives dans l'enrichissement chimique de l'univers
+slug: le-role-des-etoiles-massives-dans-l-enrichissement-chimique-de-l-univers
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Des etoiles dont l'explosion finale disperse des elements essentiels a la formation future de planetes.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les taches stellaires et l'activite magnetique des etoiles
+slug: les-taches-stellaires-et-l-activite-magnetique-des-etoiles
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Des phenomenes similaires aux taches solaires, observables sur de nombreuses autres etoiles.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mesure de la distance des etoiles grace a la methode de la parallaxe
+slug: la-mesure-de-la-distance-des-etoiles-grace-a-la-methode-de-la-parallaxe
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Une technique geometrique qui permet de calculer precisement l'eloignement d'une etoile proche.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etoiles a la fin de leur vie et la formation de nebuleuses planetaires
+slug: les-etoiles-a-la-fin-de-leur-vie-et-la-formation-de-nebuleuses-planetaires
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un phenomene spectaculaire ou une etoile ejecte ses couches externes en fin de vie.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la spectroscopie dans l'analyse de la composition chimique des etoiles
+slug: le-role-de-la-spectroscopie-dans-l-analyse-de-la-composition-chimique-des-etoiles
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Une methode qui permet de determiner a distance de quoi une etoile est composee.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pulsars comme etoiles a neutrons en rotation rapide
+slug: les-pulsars-comme-etoiles-a-neutrons-en-rotation-rapide
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un type particulier d'etoile a neutrons qui emet des impulsions regulieres detectables depuis la Terre.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie d'une etoile selon sa masse initiale
+slug: la-duree-de-vie-d-une-etoile-selon-sa-masse-initiale
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Une regle generale ou les etoiles les plus massives vivent paradoxalement moins longtemps.
+tags: [etoiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des pepinieres stellaires dans la naissance de nouvelles etoiles
+slug: le-role-des-pepinieres-stellaires-dans-la-naissance-de-nouvelles-etoiles
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Des regions particulierement actives de l'espace ou de nombreuses etoiles se forment simultanement.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etoiles les plus proches du systeme solaire et leurs caracteristiques
+slug: les-etoiles-les-plus-proches-du-systeme-solaire-et-leurs-caracteristiques
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Un voisinage stellaire qui offre des opportunites uniques d'observation detaillee.
+tags: [etoiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des trous noirs stellaires apres l'effondrement d'une etoile massive
+slug: la-formation-des-trous-noirs-stellaires-apres-l-effondrement-d-une-etoile-massive
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Un processus qui survient lorsque le coeur d'une etoile tres massive s'effondre sur lui-meme.
+tags: [trous-noirs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'horizon des evenements et la limite au-dela de laquelle rien ne peut s'echapper
+slug: l-horizon-des-evenements-et-la-limite-au-dela-de-laquelle-rien-ne-peut-s-echapper
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une frontiere theorique qui definit la region d'ou meme la lumiere ne peut plus sortir.
+tags: [trous-noirs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les objets tres massifs abritant le coeur des grandes galaxies
+slug: les-objets-tres-massifs-abritant-le-coeur-des-grandes-galaxies
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des objets extremement massifs qui semblent presents au coeur de la plupart des grandes galaxies.
+tags: [trous-noirs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La premiere photographie d'un trou noir et sa signification scientifique
+slug: la-premiere-photographie-d-un-trou-noir-et-sa-signification-scientifique
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Un exploit technique majeur qui a confirme visuellement des predictions theoriques anciennes.
+tags: [trous-noirs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le trou noir au centre de notre propre galaxie
+slug: le-trou-noir-au-centre-de-notre-propre-galaxie
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Un objet massif dont la presence a ete confirmee par l'observation d'etoiles en orbite autour de lui.
+tags: [trous-noirs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ondes gravitationnelles emises par la fusion de deux trous noirs
+slug: les-ondes-gravitationnelles-emises-par-la-fusion-de-deux-trous-noirs
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des signaux detectes pour la premiere fois qui ont ouvert une nouvelle facon d'observer l'univers.
+tags: [trous-noirs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La theorie de la relativite generale et sa prediction des trous noirs
+slug: la-theorie-de-la-relativite-generale-et-sa-prediction-des-trous-noirs
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Un cadre theorique qui a permis d'anticiper l'existence de ces objets bien avant leur observation.
+tags: [trous-noirs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paradoxe de l'information dans la physique des trous noirs
+slug: le-paradoxe-de-l-information-dans-la-physique-des-trous-noirs
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une question theorique complexe qui interroge ce que devient l'information engloutie par un trou noir.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les disques d'accretion autour des trous noirs et leur rayonnement intense
+slug: les-disques-d-accretion-autour-des-trous-noirs-et-leur-rayonnement-intense
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  De la matiere en spirale autour du trou noir qui emet une lumiere tres intense avant de disparaitre.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'influence de ces objets extremes sur la dynamique de leur galaxie hote
+slug: l-influence-de-ces-objets-extremes-sur-la-dynamique-de-leur-galaxie-hote
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une influence importante sur la formation et la dynamique de la galaxie qui les abrite.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les jets de matiere emis par certains trous noirs actifs
+slug: les-jets-de-matiere-emis-par-certains-trous-noirs-actifs
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des flux de particules extremement energetiques ejectes perpendiculairement au disque d'accretion.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rayonnement de Hawking et l'evaporation theorique des trous noirs
+slug: le-rayonnement-de-hawking-et-l-evaporation-theorique-des-trous-noirs
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une hypothese scientifique qui suggere que les trous noirs pourraient lentement perdre de leur masse.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les trous noirs de masse intermediaire et leur rarete apparente
+slug: les-trous-noirs-de-masse-intermediaire-et-leur-rarete-apparente
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une categorie d'objets dont l'existence reste plus difficile a confirmer que les autres types.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distinction entre trou noir et etoile a neutrons
+slug: la-distinction-entre-trou-noir-et-etoile-a-neutrons
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Deux objets extremement denses issus de processus similaires mais avec des proprietes distinctes.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des trous noirs primordiaux comme hypothese sur l'univers tres jeune
+slug: le-role-des-trous-noirs-primordiaux-comme-hypothese-sur-l-univers-tres-jeune
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une idee speculative selon laquelle certains trous noirs auraient pu se former tres tot dans l'histoire de l'univers.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les methodes indirectes utilisees pour detecter un trou noir invisible
+slug: les-methodes-indirectes-utilisees-pour-detecter-un-trou-noir-invisible
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des techniques qui reperent les effets d'un trou noir sur son environnement plutot que l'objet lui-meme.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des trous noirs dans les scenarios de science-fiction et leur base scientifique reelle
+slug: le-role-des-trous-noirs-dans-les-scenarios-de-science-fiction-et-leur-base-scientifique-reelle
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une comparaison entre les representations populaires et ce que la science comprend reellement.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La spaghettification, un phenomene extreme pres d'un trou noir
+slug: la-spaghettification-un-phenomene-extreme-pres-d-un-trou-noir
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Un effet theorique spectaculaire qui decrit l'etirement extreme de la matiere pres d'un trou noir.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les trous noirs et la courbure extreme de l'espace-temps qu'ils provoquent
+slug: les-trous-noirs-et-la-courbure-extreme-de-l-espace-temps-qu-ils-provoquent
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Une deformation majeure de l'espace qui illustre de maniere spectaculaire la relativite generale.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des detecteurs d'ondes gravitationnelles dans l'etude des trous noirs
+slug: le-role-des-detecteurs-d-ondes-gravitationnelles-dans-l-etude-des-trous-noirs
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des instruments sensibles qui ont ouvert une toute nouvelle facon d'observer ces objets.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les collisions entre trous noirs et galaxies et leurs consequences
+slug: les-collisions-entre-trous-noirs-et-galaxies-et-leurs-consequences
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des evenements rares mais spectaculaires qui peuvent transformer radicalement une galaxie.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre trou noir et trou de ver dans la physique theorique
+slug: la-difference-entre-trou-noir-et-trou-de-ver-dans-la-physique-theorique
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Deux concepts distincts souvent confondus dans la culture populaire.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des trous noirs dans la comprehension moderne de la gravite
+slug: le-role-des-trous-noirs-dans-la-comprehension-moderne-de-la-gravite
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des objets extremes qui servent de laboratoire naturel pour tester les theories de la gravitation.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La masse des trous noirs et les methodes pour la mesurer indirectement
+slug: la-masse-des-trous-noirs-et-les-methodes-pour-la-mesurer-indirectement
+categoryPath: espace-et-astronomie/astrophysique/trous-noirs
+summary: >
+  Des calculs bases sur l'observation de l'influence gravitationnelle exercee sur l'environnement proche.
+tags: [trous-noirs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de fonctionnement d'une fusee et la propulsion par reaction
+slug: le-principe-de-fonctionnement-d-une-fusee-et-la-propulsion-par-reaction
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Un mecanisme fondamental qui permet de propulser un engin en ejectant de la matiere a grande vitesse.
+tags: [lanceurs-et-orbites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes orbites terrestres utilisees pour les satellites
+slug: les-differentes-orbites-terrestres-utilisees-pour-les-satellites
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des altitudes et des trajectoires variees adaptees a des usages tres differents.
+tags: [lanceurs-et-orbites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des etages multiples dans la conception des fusees
+slug: le-role-des-etages-multiples-dans-la-conception-des-fusees
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une architecture qui permet d'optimiser l'efficacite du lancement en se debarrassant du poids inutile.
+tags: [lanceurs-et-orbites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fusees reutilisables et leur impact sur le cout de l'acces a l'espace
+slug: les-fusees-reutilisables-et-leur-impact-sur-le-cout-de-l-acces-a-l-espace
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une innovation majeure qui a considerablement reduit le prix d'un lancement spatial.
+tags: [lanceurs-et-orbites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lancement vers l'orbite geostationnaire et ses specificites techniques
+slug: le-lancement-vers-l-orbite-geostationnaire-et-ses-specificites-techniques
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une orbite particuliere qui permet a un satellite de rester fixe au-dessus d'un meme point terrestre.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sites de lancement spatial et les criteres de leur emplacement
+slug: les-sites-de-lancement-spatial-et-les-criteres-de-leur-emplacement
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des choix strategiques qui tiennent compte de la latitude et de la securite environnante.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des carburants utilises dans la propulsion des fusees
+slug: le-role-des-carburants-utilises-dans-la-propulsion-des-fusees
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des combinaisons chimiques variees selon les besoins de puissance et de stockage du lanceur.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les manoeuvres orbitales necessaires pour changer la trajectoire d'un engin spatial
+slug: les-manoeuvres-orbitales-necessaires-pour-changer-la-trajectoire-d-un-engin-spatial
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des ajustements precis qui permettent de modifier la position d'un satellite ou d'une sonde.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'assistance gravitationnelle pour economiser du carburant lors d'un voyage spatial
+slug: le-role-de-l-assistance-gravitationnelle-pour-economiser-du-carburant-lors-d-un-voyage-spatial
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une technique astucieuse qui utilise la gravite d'une planete pour accelerer une sonde.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fenetres de lancement et les contraintes de timing pour une mission spatiale
+slug: les-fenetres-de-lancement-et-les-contraintes-de-timing-pour-une-mission-spatiale
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des periodes precises ou les conditions sont optimales pour un lancement reussi.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des petits lanceurs dans le marche croissant des micro-satellites
+slug: le-role-des-petits-lanceurs-dans-le-marche-croissant-des-micro-satellites
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une nouvelle categorie de fusees adaptees a des charges utiles plus modestes.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debris spatiaux et les risques qu'ils posent pour les satellites en orbite
+slug: les-debris-spatiaux-et-les-risques-qu-ils-posent-pour-les-satellites-en-orbite
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Un encombrement croissant de l'espace proche de la Terre qui menace les missions actuelles et futures.
+tags: [lanceurs-et-orbites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des stations de controle au sol dans le suivi d'un lancement
+slug: le-role-des-stations-de-controle-au-sol-dans-le-suivi-d-un-lancement
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des equipes specialisees qui surveillent chaque etape critique du vol d'une fusee.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les orbites polaires et leur interet pour l'observation de la Terre
+slug: les-orbites-polaires-et-leur-interet-pour-l-observation-de-la-terre
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une trajectoire qui permet de survoler l'ensemble de la surface terrestre au fil du temps.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la vitesse de liberation dans le calcul d'un lancement spatial
+slug: le-role-de-la-vitesse-de-liberation-dans-le-calcul-d-un-lancement-spatial
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une vitesse minimale necessaire pour qu'un engin echappe a l'attraction terrestre.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les megaconstellations de satellites et leur deploiement par lancements groupes
+slug: les-megaconstellations-de-satellites-et-leur-deploiement-par-lancements-groupes
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une strategie qui permet de placer un grand nombre de satellites en un minimum de lancements.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'aerodynamisme dans la conception de la coiffe d'une fusee
+slug: le-role-de-l-aerodynamisme-dans-la-conception-de-la-coiffe-d-une-fusee
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une protection specifique qui abrite la charge utile durant la traversee de l'atmosphere.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais de moteurs de fusee avant un lancement reel
+slug: les-essais-de-moteurs-de-fusee-avant-un-lancement-reel
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des tests rigoureux indispensables pour verifier la fiabilite avant tout vol effectif.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des nouvelles entreprises privees dans le developpement des lanceurs spatiaux
+slug: le-role-des-nouvelles-entreprises-privees-dans-le-developpement-des-lanceurs-spatiaux
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une transformation recente du secteur qui a accelere l'innovation dans ce domaine.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les orbites basses et leur usage pour les stations spatiales habitees
+slug: les-orbites-basses-et-leur-usage-pour-les-stations-spatiales-habitees
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Une altitude relativement proche qui facilite l'acces et le ravitaillement des missions habitees.
+tags: [lanceurs-et-orbites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la meteorologie dans la decision de reporter ou non un lancement
+slug: le-role-de-la-meteorologie-dans-la-decision-de-reporter-ou-non-un-lancement
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des conditions atmospheriques precises qui doivent etre reunies pour garantir la securite du vol.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les futures generations de lanceurs superlourds pour l'exploration lointaine
+slug: les-futures-generations-de-lanceurs-superlourds-pour-l-exploration-lointaine
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Des projets ambitieux concus pour transporter des charges bien plus importantes que les fusees actuelles.
+tags: [lanceurs-et-orbites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes spatiales dans l'exploration des planetes lointaines
+slug: le-role-des-sondes-spatiales-dans-l-exploration-des-planetes-lointaines
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des engins non habites envoyes pour etudier des objets celestes inaccessibles directement.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondes en orbite autour d'une planete et leur mode d'observation
+slug: les-sondes-en-orbite-autour-d-une-planete-et-leur-mode-d-observation
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une approche qui permet une etude prolongee et detaillee d'une planete depuis son voisinage.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les atterrisseurs et rovers envoyes a la surface d'autres planetes
+slug: les-atterrisseurs-et-rovers-envoyes-a-la-surface-d-autres-planetes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des engins concus pour explorer directement le sol d'un autre monde.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes dans l'etude des cometes et des asteroides
+slug: le-role-des-sondes-dans-l-etude-des-cometes-et-des-asteroides
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des missions qui ont permis d'analyser directement la composition de ces petits corps celestes.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondes ayant quitte le systeme solaire et leur voyage vers l'espace interstellaire
+slug: les-sondes-ayant-quitte-le-systeme-solaire-et-leur-voyage-vers-l-espace-interstellaire
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des engins pionniers qui continuent leur voyage bien au-dela de leur mission initiale.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'energie nucleaire dans l'alimentation des sondes destinees aux confins du systeme solaire
+slug: le-role-de-l-energie-nucleaire-dans-l-alimentation-des-sondes-destinees-aux-confins-du-systeme-solaire
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une solution necessaire la ou l'energie solaire devient trop faible pour etre suffisante.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments scientifiques embarques sur une sonde spatiale typique
+slug: les-instruments-scientifiques-embarques-sur-une-sonde-spatiale-typique
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une combinaison d'outils qui permettent de mesurer, photographier et analyser a distance.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes dans la decouverte des lunes des planetes geantes
+slug: le-role-des-sondes-dans-la-decouverte-des-lunes-des-planetes-geantes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des missions qui ont revele une diversite surprenante de mondes autour des grandes planetes.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La communication avec une sonde spatiale a tres grande distance
+slug: la-communication-avec-une-sonde-spatiale-a-tres-grande-distance
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Un defi technique majeur lie au temps considerable que met un signal a parcourir cette distance.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes dans l'etude de l'atmosphere des autres planetes
+slug: le-role-des-sondes-dans-l-etude-de-l-atmosphere-des-autres-planetes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des mesures directes qui permettent de comprendre la composition et le comportement de ces atmospheres.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondes solaires et l'etude rapprochee de notre etoile
+slug: les-sondes-solaires-et-l-etude-rapprochee-de-notre-etoile
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des missions specifiques concues pour resister a la proximite extreme avec le soleil.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des panneaux solaires dans l'alimentation energetique des sondes spatiales
+slug: le-role-des-panneaux-solaires-dans-l-alimentation-energetique-des-sondes-spatiales
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une source d'energie privilegiee tant que la sonde reste suffisamment proche du soleil.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les missions de retour d'echantillons menees par des sondes robotiques
+slug: les-missions-de-retour-d-echantillons-menees-par-des-sondes-robotiques
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des projets ambitieux qui rapportent sur Terre de la matiere prelevee ailleurs dans le systeme solaire.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes dans la recherche de traces d'eau sur d'autres corps celestes
+slug: le-role-des-sondes-dans-la-recherche-de-traces-d-eau-sur-d-autres-corps-celestes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une question centrale qui guide de nombreuses missions d'exploration robotique.
+tags: [sondes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie exceptionnelle de certaines sondes spatiales anciennes
+slug: la-duree-de-vie-exceptionnelle-de-certaines-sondes-spatiales-anciennes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des missions qui ont largement depasse leur duree de fonctionnement initialement prevue.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes dans la cartographie detaillee de la surface des planetes
+slug: le-role-des-sondes-dans-la-cartographie-detaillee-de-la-surface-des-planetes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des instruments qui produisent des images precises utilisees pour etablir des cartes completes.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis techniques de l'atterrissage d'une sonde sur un autre corps celeste
+slug: les-defis-techniques-de-l-atterrissage-d-une-sonde-sur-un-autre-corps-celeste
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une phase particulierement critique ou de nombreuses missions ont echoue par le passe.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes dans l'etude des anneaux des planetes geantes
+slug: le-role-des-sondes-dans-l-etude-des-anneaux-des-planetes-geantes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des observations rapprochees qui ont revele une structure bien plus complexe que prevu.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondes jumelles envoyees simultanement pour securiser une mission scientifique
+slug: les-sondes-jumelles-envoyees-simultanement-pour-securiser-une-mission-scientifique
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une strategie qui augmente les chances de succes en cas de defaillance de l'une des deux sondes.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des agences spatiales internationales dans la collaboration autour des missions de sondes
+slug: le-role-des-agences-spatiales-internationales-dans-la-collaboration-autour-des-missions-de-sondes
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une cooperation qui permet de partager les couts et les competences necessaires a ces projets ambitieux.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondes destinees a l'etude des astres les plus eloignes du systeme solaire
+slug: les-sondes-destinees-a-l-etude-des-astres-les-plus-eloignes-du-systeme-solaire
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Des missions qui repoussent continuellement les limites de notre connaissance directe de l'espace.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du vieillissement des composants electroniques dans la fin de vie d'une sonde spatiale
+slug: le-role-du-vieillissement-des-composants-electroniques-dans-la-fin-de-vie-d-une-sonde-spatiale
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Un facteur inevitable qui finit par limiter la duree de fonctionnement de tout engin spatial.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondes autonomes capables de prendre des decisions sans intervention humaine immediate
+slug: les-sondes-autonomes-capables-de-prendre-des-decisions-sans-intervention-humaine-immediate
+categoryPath: espace-et-astronomie/exploration-spatiale/sondes
+summary: >
+  Une necessite liee a la distance qui rend impossible un controle en temps reel depuis la Terre.
+tags: [sondes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des astronautes avant un vol spatial
+slug: la-formation-des-astronautes-avant-un-vol-spatial
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Un entrainement long et rigoureux qui prepare le corps et l'esprit aux conditions extremes de l'espace.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les effets de l'apesanteur sur le corps humain lors d'un sejour prolonge
+slug: les-effets-de-l-apesanteur-sur-le-corps-humain-lors-d-un-sejour-prolonge
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des changements physiologiques significatifs qui necessitent un suivi medical attentif.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des combinaisons spatiales dans la protection des astronautes
+slug: le-role-des-combinaisons-spatiales-dans-la-protection-des-astronautes
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Un equipement essentiel qui protege contre le vide, les temperatures extremes et les radiations.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vie quotidienne a bord d'une station spatiale habitee
+slug: la-vie-quotidienne-a-bord-d-une-station-spatiale-habitee
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une organisation particuliere du sommeil, des repas et du travail en apesanteur.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sorties extravehiculaires dans les missions spatiales habitees
+slug: le-role-des-sorties-extravehiculaires-dans-les-missions-spatiales-habitees
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des interventions delicates realisees directement a l'exterieur du vaisseau ou de la station.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers vols spatiaux habites et leur importance historique
+slug: les-premiers-vols-spatiaux-habites-et-leur-importance-historique
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des exploits pionniers qui ont ouvert la voie a toute l'exploration spatiale humaine ulterieure.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'alimentation specifique des astronautes en apesanteur
+slug: le-role-de-l-alimentation-specifique-des-astronautes-en-apesanteur
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des repas concus pour rester nutritifs et faciles a consommer dans des conditions particulieres.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques lies aux radiations cosmiques pour les astronautes en mission longue duree
+slug: les-risques-lies-aux-radiations-cosmiques-pour-les-astronautes-en-mission-longue-duree
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une exposition accrue par rapport a la surface terrestre qui necessite des protections specifiques.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la selection psychologique des candidats astronautes
+slug: le-role-de-la-selection-psychologique-des-candidats-astronautes
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des criteres rigoureux qui evaluent la capacite a vivre en groupe dans un espace confine.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les projets de vols habites vers Mars et leurs defis techniques
+slug: les-projets-de-vols-habites-vers-mars-et-leurs-defis-techniques
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une ambition majeure qui souleve des questions techniques et humaines encore non resolues.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'exercice physique quotidien pour les astronautes en orbite
+slug: le-role-de-l-exercice-physique-quotidien-pour-les-astronautes-en-orbite
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une necessite pour limiter la perte de masse musculaire et osseuse durant un long sejour.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vaisseaux spatiaux habites et leur evolution technique au fil des decennies
+slug: les-vaisseaux-spatiaux-habites-et-leur-evolution-technique-au-fil-des-decennies
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des progres continus qui ont ameliore le confort et la securite des equipages.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des experiences scientifiques menees par les astronautes en orbite
+slug: le-role-des-experiences-scientifiques-menees-par-les-astronautes-en-orbite
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des recherches variees rendues possibles uniquement grace a l'environnement particulier de l'espace.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les retours sur Terre apres un long sejour spatial et la readaptation du corps
+slug: les-retours-sur-terre-apres-un-long-sejour-spatial-et-la-readaptation-du-corps
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une phase delicate ou l'organisme doit progressivement retrouver ses reperes gravitationnels.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la cooperation internationale dans les missions spatiales habitees modernes
+slug: le-role-de-la-cooperation-internationale-dans-les-missions-spatiales-habitees-modernes
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une collaboration entre plusieurs pays qui partagent les couts et les competences necessaires.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tourismes spatiaux et l'ouverture des vols habites au secteur prive
+slug: les-tourismes-spatiaux-et-l-ouverture-des-vols-habites-au-secteur-prive
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une tendance recente qui elargit l'acces a l'espace au-dela des seuls astronautes professionnels.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du sommeil et de son adaptation particuliere en environnement spatial
+slug: le-role-du-sommeil-et-de-son-adaptation-particuliere-en-environnement-spatial
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des cycles perturbes par l'absence de reperes jour-nuit habituels a bord d'une station.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les accidents survenus lors de missions spatiales habitees et les lecons de securite tirees
+slug: les-accidents-survenus-lors-de-missions-spatiales-habitees-et-les-lecons-de-securite-tirees
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des evenements graves qui ont conduit a des ameliorations majeures des protocoles de securite.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des femmes dans l'histoire des vols spatiaux habites
+slug: le-role-des-femmes-dans-l-histoire-des-vols-spatiaux-habites
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des parcours pionniers qui ont progressivement ouvert cette activite a une plus grande diversite.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les futures stations spatiales commerciales et leur role dans l'avenir des vols habites
+slug: les-futures-stations-spatiales-commerciales-et-leur-role-dans-l-avenir-des-vols-habites
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Des projets prives qui pourraient completer ou remplacer les stations gouvernementales actuelles.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la communication avec la Terre pendant une mission spatiale habitee de longue duree
+slug: le-role-de-la-communication-avec-la-terre-pendant-une-mission-spatiale-habitee-de-longue-duree
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Un lien essentiel pour le soutien technique mais aussi psychologique de l'equipage.
+tags: [vols-habites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vols habites vers la Lune et les projets de retour d'astronautes a sa surface
+slug: les-vols-habites-vers-la-lune-et-les-projets-de-retour-d-astronautes-a-sa-surface
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Une ambition renouvelee apres plusieurs decennies sans presence humaine sur cet astre.
+tags: [vols-habites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lumiere comme principal messager utilise pour observer l'univers
+slug: la-lumiere-comme-principal-messager-utilise-pour-observer-l-univers
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une information essentielle qui parcourt l'espace et nous renseigne sur des objets tres eloignes.
+tags: [messagers-du-cosmos, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rayons cosmiques et leur origine encore partiellement mysterieuse
+slug: les-rayons-cosmiques-et-leur-origine-encore-partiellement-mysterieuse
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Des particules tres energetiques qui traversent l'espace et atteignent parfois la Terre.
+tags: [messagers-du-cosmos, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les neutrinos comme messagers discrets de phenomenes astrophysiques violents
+slug: les-neutrinos-comme-messagers-discrets-de-phenomenes-astrophysiques-violents
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Des particules presque invisibles qui traversent la matiere presque sans interagir.
+tags: [messagers-du-cosmos, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ondes gravitationnelles comme nouvelle facon d'observer l'univers
+slug: les-ondes-gravitationnelles-comme-nouvelle-facon-d-observer-l-univers
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Un signal recemment detecte qui ouvre une toute nouvelle maniere d'etudier le cosmos.
+tags: [messagers-du-cosmos, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rayonnement gamma et son role dans l'etude des evenements les plus energetiques de l'univers
+slug: le-rayonnement-gamma-et-son-role-dans-l-etude-des-evenements-les-plus-energetiques-de-l-univers
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Un type de lumiere tres energetique associe a des phenomenes cosmiques violents.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rayons X et leur utilisation pour observer les objets extremement chauds de l'univers
+slug: les-rayons-x-et-leur-utilisation-pour-observer-les-objets-extremement-chauds-de-l-univers
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une lumiere invisible a l'oeil nu qui revele des phenomenes tres energetiques.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des meteorites comme echantillons physiques venus de l'espace
+slug: le-role-des-meteorites-comme-echantillons-physiques-venus-de-l-espace
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Des fragments qui apportent des informations directes sur la composition d'autres corps celestes.
+tags: [messagers-du-cosmos, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ondes radio emises naturellement par certains objets celestes
+slug: les-ondes-radio-emises-naturellement-par-certains-objets-celestes
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Un signal qui a permis de decouvrir des phenomenes invisibles dans le spectre visible.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des detecteurs souterrains dans la capture des neutrinos venus de l'espace
+slug: le-role-des-detecteurs-souterrains-dans-la-capture-des-neutrinos-venus-de-l-espace
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Des installations enfouies profondement pour se proteger des interferences terrestres.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lumiere infrarouge et son role dans l'observation des objets froids de l'univers
+slug: la-lumiere-infrarouge-et-son-role-dans-l-observation-des-objets-froids-de-l-univers
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une longueur d'onde qui revele des objets trop froids pour emettre de la lumiere visible.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des rayons cosmiques dans l'etude des sursauts gamma
+slug: le-role-des-rayons-cosmiques-dans-l-etude-des-sursauts-gamma
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Des particules qui accompagnent parfois des explosions parmi les plus energetiques connues.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les messagers multiples et l'astronomie combinant plusieurs types de signaux
+slug: les-messagers-multiples-et-l-astronomie-combinant-plusieurs-types-de-signaux
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une approche moderne qui croise differentes sources d'information pour mieux comprendre un phenomene.
+tags: [messagers-du-cosmos, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'atmosphere terrestre dans le filtrage de certains messagers cosmiques
+slug: le-role-de-l-atmosphere-terrestre-dans-le-filtrage-de-certains-messagers-cosmiques
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une protection naturelle qui bloque certains rayonnements avant qu'ils n'atteignent le sol.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les poussieres interstellaires et ce qu'elles revelent sur la composition de l'univers
+slug: les-poussieres-interstellaires-et-ce-qu-elles-revelent-sur-la-composition-de-l-univers
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  De minuscules particules qui portent des informations sur les processus qui les ont formees.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ondes gravitationnelles dans la detection de la fusion d'objets extremement denses
+slug: le-role-des-ondes-gravitationnelles-dans-la-detection-de-la-fusion-d-objets-extremement-denses
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une methode qui permet de detecter des evenements invisibles par les moyens optiques classiques.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les micrometeorites et leur collecte pour l'etude de la matiere extraterrestre
+slug: les-micrometeorites-et-leur-collecte-pour-l-etude-de-la-matiere-extraterrestre
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  De tres petits fragments recoltes sur Terre qui renseignent sur la composition du systeme solaire.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du rayonnement ultraviolet dans l'etude des etoiles jeunes et chaudes
+slug: le-role-du-rayonnement-ultraviolet-dans-l-etude-des-etoiles-jeunes-et-chaudes
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une longueur d'onde particulierement utile pour observer certains types d'etoiles specifiques.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les antennes radio geantes et leur role dans la capture des signaux cosmiques faibles
+slug: les-antennes-radio-geantes-et-leur-role-dans-la-capture-des-signaux-cosmiques-faibles
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Des instruments de grande taille necessaires pour detecter des signaux extremement faibles.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des collisions de particules cosmiques dans la haute atmosphere terrestre
+slug: le-role-des-collisions-de-particules-cosmiques-dans-la-haute-atmosphere-terrestre
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Des interactions qui produisent des particules secondaires observables depuis le sol.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents messagers cosmiques et la complementarite de leurs informations
+slug: les-differents-messagers-cosmiques-et-la-complementarite-de-leurs-informations
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Une combinaison de sources variees qui offre une vision plus complete des phenomenes celestes.
+tags: [messagers-du-cosmos]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de fonctionnement d'un telescope optique
+slug: le-principe-de-fonctionnement-d-un-telescope-optique
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Un instrument qui collecte et concentre la lumiere pour observer des objets celestes lointains.
+tags: [telescopes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre telescope a miroir et telescope a lentille
+slug: la-difference-entre-telescope-a-miroir-et-telescope-a-lentille
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Deux conceptions distinctes qui presentent chacune des avantages et des limites specifiques.
+tags: [telescopes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les telescopes spatiaux et leurs avantages par rapport aux instruments au sol
+slug: les-telescopes-spatiaux-et-leurs-avantages-par-rapport-aux-instruments-au-sol
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Une position hors de l'atmosphere qui permet des observations bien plus nettes et precises.
+tags: [telescopes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la taille du miroir dans la puissance d'un telescope
+slug: le-role-de-la-taille-du-miroir-dans-la-puissance-d-un-telescope
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Un facteur determinant qui influence directement la quantite de lumiere collectee.
+tags: [telescopes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands telescopes terrestres et le choix strategique de leur emplacement
+slug: les-grands-telescopes-terrestres-et-le-choix-strategique-de-leur-emplacement
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des sites choisis avec soin pour beneficier d'un ciel clair et stable toute l'annee.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'optique adaptative dans l'amelioration de la nettete des images astronomiques
+slug: le-role-de-l-optique-adaptative-dans-l-amelioration-de-la-nettete-des-images-astronomiques
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Une technologie qui corrige en temps reel les distorsions causees par l'atmosphere terrestre.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les radiotelescopes et leur role dans l'observation de longueurs d'onde invisibles a l'oeil
+slug: les-radiotelescopes-et-leur-role-dans-l-observation-de-longueurs-d-onde-invisibles-a-l-oeil
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des instruments concus pour capter les ondes radio emises par de nombreux objets celestes.
+tags: [telescopes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des premiers telescopes et leur role dans la revolution astronomique
+slug: l-histoire-des-premiers-telescopes-et-leur-role-dans-la-revolution-astronomique
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des instruments pionniers qui ont completement transforme la comprehension humaine du ciel.
+tags: [telescopes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des reseaux de telescopes travaillant ensemble pour une resolution accrue
+slug: le-role-des-reseaux-de-telescopes-travaillant-ensemble-pour-une-resolution-accrue
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Une combinaison de plusieurs instruments qui permet d'obtenir une precision superieure a un seul appareil.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les telescopes amateurs et leur role dans la decouverte de phenomenes celestes
+slug: les-telescopes-amateurs-et-leur-role-dans-la-decouverte-de-phenomenes-celestes
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des instruments accessibles qui permettent parfois a des passionnes de contribuer a la science.
+tags: [telescopes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des filtres specifiques dans l'observation de certains phenomenes astronomiques
+slug: le-role-des-filtres-specifiques-dans-l-observation-de-certains-phenomenes-astronomiques
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des accessoires qui permettent d'isoler certaines longueurs d'onde utiles a une observation precise.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les telescopes destines a l'observation des rayons X et gamma depuis l'espace
+slug: les-telescopes-destines-a-l-observation-des-rayons-x-et-gamma-depuis-l-espace
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des instruments specifiques adaptes a des longueurs d'onde bloquees par l'atmosphere terrestre.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la resolution angulaire dans la capacite d'un telescope a distinguer les details
+slug: le-role-de-la-resolution-angulaire-dans-la-capacite-d-un-telescope-a-distinguer-les-details
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Une caracteristique technique essentielle pour observer des objets tres proches les uns des autres.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les futurs grands telescopes en construction et leurs ambitions scientifiques
+slug: les-futurs-grands-telescopes-en-construction-et-leurs-ambitions-scientifiques
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des projets d'envergure qui promettent de repousser encore les limites de l'observation astronomique.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des observatoires historiques dans le developpement de l'astronomie
+slug: le-role-des-observatoires-historiques-dans-le-developpement-de-l-astronomie
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des institutions anciennes qui ont accumule des observations precieuses sur de longues periodes.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les telescopes infrarouges et leur role dans l'observation a travers les nuages de poussiere
+slug: les-telescopes-infrarouges-et-leur-role-dans-l-observation-a-travers-les-nuages-de-poussiere
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Une technologie qui permet de voir au-dela d'obstacles qui bloquent la lumiere visible.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la collecte de donnees automatisee dans les grands telescopes modernes
+slug: le-role-de-la-collecte-de-donnees-automatisee-dans-les-grands-telescopes-modernes
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Un fonctionnement de plus en plus informatise qui permet de traiter d'immenses quantites d'observations.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les telescopes participatifs qui permettent au grand public de contribuer a la recherche
+slug: les-telescopes-participatifs-qui-permettent-au-grand-public-de-contribuer-a-la-recherche
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des initiatives qui invitent des volontaires a aider a analyser des donnees astronomiques.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'interferometrie dans l'astronomie de tres haute precision
+slug: le-role-de-l-interferometrie-dans-l-astronomie-de-tres-haute-precision
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Une technique qui combine les signaux de plusieurs instruments pour ameliorer considerablement la resolution.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis techniques de la maintenance d'un telescope spatial en orbite
+slug: les-defis-techniques-de-la-maintenance-d-un-telescope-spatial-en-orbite
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Des interventions complexes rendues necessaires malgre l'eloignement et l'inaccessibilite de l'instrument.
+tags: [telescopes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation de la Lune selon la theorie de l'impact geant
+slug: la-formation-de-la-lune-selon-la-theorie-de-l-impact-geant
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une hypothese largement acceptee qui explique l'origine de notre satellite naturel.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les phases de la Lune et leur explication astronomique
+slug: les-phases-de-la-lune-et-leur-explication-astronomique
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un cycle regulier qui resulte de la position changeante de la Lune par rapport au soleil.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les missions Apollo et les premiers pas de l'homme sur la Lune
+slug: les-missions-apollo-et-les-premiers-pas-de-l-homme-sur-la-lune
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un programme historique qui a marque une etape majeure de l'exploration spatiale humaine.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la Lune dans les marees terrestres
+slug: le-role-de-la-lune-dans-les-marees-terrestres
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une influence gravitationnelle qui explique le mouvement regulier des oceans sur notre planete.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La composition geologique de la surface lunaire
+slug: la-composition-geologique-de-la-surface-lunaire
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un sol tres different de celui de la Terre, marque par de nombreux impacts de meteorites.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les crateres lunaires et ce qu'ils revelent sur l'histoire du systeme solaire
+slug: les-crateres-lunaires-et-ce-qu-ils-revelent-sur-l-histoire-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Des marques d'impacts anciens qui temoignent d'un bombardement intense dans le passe.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'absence d'atmosphere lunaire et ses consequences pour l'exploration humaine
+slug: l-absence-d-atmosphere-lunaire-et-ses-consequences-pour-l-exploration-humaine
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une caracteristique majeure qui impose des contraintes specifiques a toute presence humaine.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les eclipses lunaires et leur explication astronomique
+slug: les-eclipses-lunaires-et-leur-explication-astronomique
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un phenomene qui se produit lorsque la Terre s'interpose entre le soleil et la Lune.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la face cachee de la Lune et pourquoi elle n'est jamais visible depuis la Terre
+slug: le-role-de-la-face-cachee-de-la-lune-et-pourquoi-elle-n-est-jamais-visible-depuis-la-terre
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une consequence directe de la rotation synchronisee de la Lune avec son orbite.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les projets actuels de retour habite sur la Lune
+slug: les-projets-actuels-de-retour-habite-sur-la-lune
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Des ambitions renouvelees qui visent a etablir une presence humaine plus durable sur cet astre.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decouverte de glace d'eau dans certaines regions polaires de la Lune
+slug: la-decouverte-de-glace-d-eau-dans-certaines-regions-polaires-de-la-lune
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une trouvaille importante qui pourrait faciliter de futures missions habitees prolongees.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la Lune dans la stabilisation de l'axe de rotation de la Terre
+slug: le-role-de-la-lune-dans-la-stabilisation-de-l-axe-de-rotation-de-la-terre
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une influence discrete mais essentielle pour la stabilite climatique de notre planete.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les echantillons de roches lunaires rapportes sur Terre et leur etude scientifique
+slug: les-echantillons-de-roches-lunaires-rapportes-sur-terre-et-leur-etude-scientifique
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Des precieux fragments qui continuent d'apporter des informations des decennies apres leur collecte.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la gravite reduite de la Lune pour les futures bases habitees
+slug: le-role-de-la-gravite-reduite-de-la-lune-pour-les-futures-bases-habitees
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une caracteristique physique qui influencerait fortement la conception d'une installation permanente.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les variations de temperature extremes a la surface de la Lune
+slug: les-variations-de-temperature-extremes-a-la-surface-de-la-lune
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un ecart tres important entre le jour et la nuit lunaire, du a l'absence d'atmosphere.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des futures bases lunaires comme etape vers l'exploration de Mars
+slug: le-role-des-futures-bases-lunaires-comme-etape-vers-l-exploration-de-mars
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un projet envisage comme un tremplin technique et logistique pour des missions plus lointaines.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ressources potentielles exploitables sur la Lune pour de futures missions
+slug: les-ressources-potentielles-exploitables-sur-la-lune-pour-de-futures-missions
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Des elements presents sur place qui pourraient reduire la dependance a des ravitaillements depuis la Terre.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la Lune dans les mythes et les calendriers de nombreuses civilisations anciennes
+slug: le-role-de-la-lune-dans-les-mythes-et-les-calendriers-de-nombreuses-civilisations-anciennes
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une influence culturelle importante qui a precede de loin la comprehension scientifique moderne.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les missions robotiques recentes envoyees vers la Lune par plusieurs pays
+slug: les-missions-robotiques-recentes-envoyees-vers-la-lune-par-plusieurs-pays
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un regain d'interet international qui multiplie les projets d'exploration de notre satellite.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la poussiere lunaire et les defis qu'elle pose pour les equipements
+slug: le-role-de-la-poussiere-lunaire-et-les-defis-qu-elle-pose-pour-les-equipements
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Une matiere abrasive et collante qui complique le fonctionnement des instruments et des combinaisons.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eloignement progressif de la Lune par rapport a la Terre au fil du temps
+slug: l-eloignement-progressif-de-la-lune-par-rapport-a-la-terre-au-fil-du-temps
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un phenomene tres lent mais mesurable lie aux forces gravitationnelles entre les deux corps.
+tags: [lune]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la Lune comme premiere etape historique de l'exploration spatiale humaine au-dela de l'orbite terrestre
+slug: le-role-de-la-lune-comme-premiere-etape-historique-de-l-exploration-spatiale-humaine-au-dela-de-l-orbite-terrestre
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Un jalon fondateur qui a ouvert la voie a toutes les ambitions spatiales humaines ulterieures.
+tags: [lune, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les asteroides et leur origine dans la formation du systeme solaire
+slug: les-asteroides-et-leur-origine-dans-la-formation-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Des corps rocheux qui n'ont jamais fusionne pour former une planete complete.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La ceinture principale d'asteroides situee entre Mars et Jupiter
+slug: la-ceinture-principale-d-asteroides-situee-entre-mars-et-jupiter
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une region du systeme solaire qui concentre la grande majorite des asteroides connus.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cometes et leur composition riche en glace et en poussiere
+slug: les-cometes-et-leur-composition-riche-en-glace-et-en-poussiere
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Des corps qui liberent du gaz et de la poussiere lorsqu'ils s'approchent du soleil.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la queue des cometes et son orientation particuliere
+slug: le-role-de-la-queue-des-cometes-et-son-orientation-particuliere
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Un phenomene visuel spectaculaire cause par la pression du vent solaire sur la matiere liberee.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les objets de la ceinture de Kuiper au-dela de l'orbite de Neptune
+slug: les-objets-de-la-ceinture-de-kuiper-au-dela-de-l-orbite-de-neptune
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une region lointaine et froide qui abrite de nombreux petits corps glaces.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le statut particulier de Pluton parmi les objets du systeme solaire
+slug: le-statut-particulier-de-pluton-parmi-les-objets-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Un corps celeste dont la classification a evolue suite a de nouvelles decouvertes scientifiques.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les meteores et le phenomene visible des etoiles filantes
+slug: les-meteores-et-le-phenomene-visible-des-etoiles-filantes
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Un spectacle celeste cause par l'entree de petites particules dans l'atmosphere terrestre.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le risque d'impact d'asteroides avec la Terre et les moyens de surveillance
+slug: le-risque-d-impact-d-asteroides-avec-la-terre-et-les-moyens-de-surveillance
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Un enjeu de securite planetaire qui justifie une veille scientifique constante.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les missions spatiales envoyees pour etudier de pres des asteroides
+slug: les-missions-spatiales-envoyees-pour-etudier-de-pres-des-asteroides
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Des projets qui permettent d'analyser directement la composition de ces petits corps.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nuage d'Oort comme reservoir lointain de cometes potentielles
+slug: le-nuage-d-oort-comme-reservoir-lointain-de-cometes-potentielles
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une region hypothetique tres eloignee qui serait l'origine de nombreuses cometes a longue periode.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les asteroides geocroiseurs et leur surveillance particuliere
+slug: les-asteroides-geocroiseurs-et-leur-surveillance-particuliere
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Des objets dont l'orbite les rapproche suffisamment de la Terre pour justifier une attention accrue.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cometes dans l'apport potentiel d'eau sur les planetes du systeme solaire
+slug: le-role-des-cometes-dans-l-apport-potentiel-d-eau-sur-les-planetes-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une hypothese scientifique qui explore l'origine possible de l'eau terrestre.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes formes et tailles des asteroides observes dans le systeme solaire
+slug: les-differentes-formes-et-tailles-des-asteroides-observes-dans-le-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une grande diversite qui va de simples rochers a des corps de plusieurs centaines de kilometres.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des missions de deviation d'asteroides comme protection planetaire
+slug: le-role-des-missions-de-deviation-d-asteroides-comme-protection-planetaire
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Des projets experimentaux qui testent la possibilite de modifier la trajectoire d'un objet dangereux.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les planetes naines et leur classification specifique dans le systeme solaire
+slug: les-planetes-naines-et-leur-classification-specifique-dans-le-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une categorie intermediaire qui regroupe des corps trop grands pour etre de simples asteroides.
+tags: [petits-corps, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des pluies de meteores annuelles et leur origine cometaire
+slug: le-role-des-pluies-de-meteores-annuelles-et-leur-origine-cometaire
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Un phenomene recurrent lie au passage regulier de la Terre a travers les debris d'une comete.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les satellites naturels des asteroides et leur decouverte relativement recente
+slug: les-satellites-naturels-des-asteroides-et-leur-decouverte-relativement-recente
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une surprise scientifique qui a revele que certains petits corps possedent leur propre lune.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cometes periodiques et leur retour regulier observable depuis la Terre
+slug: le-role-des-cometes-periodiques-et-leur-retour-regulier-observable-depuis-la-terre
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Des objets dont le passage previsible permet une observation repetee au fil des decennies.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques d'analyse a distance de la composition des asteroides
+slug: les-techniques-d-analyse-a-distance-de-la-composition-des-asteroides
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Des methodes qui permettent de determiner de quoi un asteroide est fait sans s'y rendre.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des collisions entre petits corps dans la formation de nouveaux fragments
+slug: le-role-des-collisions-entre-petits-corps-dans-la-formation-de-nouveaux-fragments
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Un processus continu qui alimente la population d'objets plus petits dans le systeme solaire.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les projets d'exploitation minieres futures des asteroides riches en ressources
+slug: les-projets-d-exploitation-minieres-futures-des-asteroides-riches-en-ressources
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Une piste envisagee pour l'avenir de l'exploitation de ressources au-dela de la Terre.
+tags: [petits-corps]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des planetes a partir du disque de matiere entourant le jeune soleil
+slug: la-formation-des-planetes-a-partir-du-disque-de-matiere-entourant-le-jeune-soleil
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Un processus long qui a progressivement rassemble la matiere en corps de plus en plus grands.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distinction entre planetes telluriques et planetes geantes gazeuses
+slug: la-distinction-entre-planetes-telluriques-et-planetes-geantes-gazeuses
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Deux categories fondamentales qui different par leur composition et leur structure interne.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Mercure, la planete la plus proche du soleil et ses conditions extremes
+slug: mercure-la-planete-la-plus-proche-du-soleil-et-ses-conditions-extremes
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Un monde marque par des ecarts de temperature considerables entre le jour et la nuit.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Venus et son atmosphere extremement dense et toxique
+slug: venus-et-son-atmosphere-extremement-dense-et-toxique
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une planete dont les conditions de surface sont parmi les plus hostiles du systeme solaire.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Mars et les indices de la presence passee d'eau liquide a sa surface
+slug: mars-et-les-indices-de-la-presence-passee-d-eau-liquide-a-sa-surface
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une planete qui suscite un interet scientifique majeur pour la recherche de vie passee.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Jupiter, la plus grande planete du systeme solaire et sa grande tache rouge
+slug: jupiter-la-plus-grande-planete-du-systeme-solaire-et-sa-grande-tache-rouge
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une geante gazeuse dont la tempete geante fascine les astronomes depuis des siecles.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Saturne et son systeme d'anneaux spectaculaire
+slug: saturne-et-son-systeme-d-anneaux-spectaculaire
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une planete emblematique reconnaissable entre toutes grace a cette structure remarquable.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Uranus et son inclinaison axiale tres particuliere
+slug: uranus-et-son-inclinaison-axiale-tres-particuliere
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une planete qui tourne presque sur le cote par rapport aux autres planetes du systeme solaire.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Neptune, la planete la plus eloignee du soleil et ses vents extremement violents
+slug: neptune-la-planete-la-plus-eloignee-du-soleil-et-ses-vents-extremement-violents
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Un monde lointain caracterise par les vitesses de vent les plus elevees observees dans le systeme solaire.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des lunes des planetes geantes dans la comprehension du systeme solaire
+slug: le-role-des-lunes-des-planetes-geantes-dans-la-comprehension-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Des satellites naturels souvent aussi fascinants que les planetes qu'ils accompagnent.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les atmospheres planetaires et leur diversite au sein du systeme solaire
+slug: les-atmospheres-planetaires-et-leur-diversite-au-sein-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une grande variete de compositions qui reflete l'histoire particuliere de chaque planete.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le champ magnetique des planetes et son role protecteur
+slug: le-champ-magnetique-des-planetes-et-son-role-protecteur
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Un bouclier invisible qui protege certaines planetes des particules energetiques venues de l'espace.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tempetes et phenomenes meteorologiques observes sur les autres planetes
+slug: les-tempetes-et-phenomenes-meteorologiques-observes-sur-les-autres-planetes
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Des evenements parfois bien plus violents que tout ce qui existe sur Terre.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la distance au soleil dans la temperature de surface des planetes
+slug: le-role-de-la-distance-au-soleil-dans-la-temperature-de-surface-des-planetes
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Un facteur essentiel, bien que non unique, qui influence les conditions de chaque planete.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les missions d'exploration ayant visite chacune des planetes du systeme solaire
+slug: les-missions-d-exploration-ayant-visite-chacune-des-planetes-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Un parcours d'exploration qui a progressivement permis d'etudier de pres tous ces mondes.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La rotation des planetes et les differences de duree du jour selon chaque monde
+slug: la-rotation-des-planetes-et-les-differences-de-duree-du-jour-selon-chaque-monde
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une variation surprenante ou une journee peut durer de quelques heures a plusieurs mois terrestres.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la gravite differente sur chaque planete et ses consequences
+slug: le-role-de-la-gravite-differente-sur-chaque-planete-et-ses-consequences
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une force qui varie fortement d'un monde a l'autre et qui influencerait toute presence humaine future.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les planetes du systeme solaire et la question de leur habitabilite potentielle
+slug: les-planetes-du-systeme-solaire-et-la-question-de-leur-habitabilite-potentielle
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une reflexion scientifique qui evalue les conditions necessaires a une eventuelle forme de vie.
+tags: [planetes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des sondes en orbite dans l'etude a long terme des planetes du systeme solaire
+slug: le-role-des-sondes-en-orbite-dans-l-etude-a-long-terme-des-planetes-du-systeme-solaire
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Des missions prolongees qui permettent de suivre l'evolution des phenomenes sur plusieurs annees.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison entre les planetes du systeme solaire et les exoplanetes decouvertes ailleurs
+slug: la-comparaison-entre-les-planetes-du-systeme-solaire-et-les-exoplanetes-decouvertes-ailleurs
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Une mise en perspective qui aide a comprendre ce qui rend notre systeme solaire particulier ou commun.
+tags: [planetes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
