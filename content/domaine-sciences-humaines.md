@@ -2769,3 +2769,4923 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: Le coefficient de Gini, mesurer les inegalites
+slug: le-coefficient-de-gini-mesurer-les-inegalites
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Un indicateur statistique qui resume en un seul chiffre le niveau d'inegalite d'un pays.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La courbe de Lorenz et la repartition des revenus
+slug: la-courbe-de-lorenz-et-la-repartition-des-revenus
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Un outil visuel qui rend concrete la notion d'inegalite economique.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites de patrimoine contre les inegalites de revenu
+slug: les-inegalites-de-patrimoine-contre-les-inegalites-de-revenu
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Deux mesures distinctes qui racontent des histoires souvent tres differentes.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La redistribution des richesses, mecanismes principaux
+slug: la-redistribution-des-richesses-mecanismes-principaux
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Impots, prestations sociales : comment un Etat reduit les ecarts economiques.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impot sur le revenu, principe de progressivite
+slug: l-impot-sur-le-revenu-principe-de-progressivite
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Pourquoi ceux qui gagnent plus paient generalement un taux plus eleve.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les prestations sociales et leur role redistributif
+slug: les-prestations-sociales-et-leur-role-redistributif
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment certaines aides publiques compensent directement les inegalites de depart.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mobilite sociale intergenerationnelle
+slug: la-mobilite-sociale-intergenerationnelle
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Dans quelle mesure la situation des parents determine celle de leurs enfants.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le seuil de pauvrete, definition et mesure
+slug: le-seuil-de-pauvrete-definition-et-mesure
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment on trace, de maniere relative ou absolue, la frontiere de la pauvrete.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pauvrete extreme dans le monde, evolution recente
+slug: la-pauvrete-extreme-dans-le-monde-evolution-recente
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Des progres reels mais inegaux dans la reduction de la pauvrete la plus severe.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites de sante entre groupes sociaux
+slug: les-inegalites-de-sante-entre-groupes-sociaux
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment le niveau de vie influence directement l'esperance et la qualite de vie.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'heritage et sa transmission intergenerationnelle
+slug: l-heritage-et-sa-transmission-intergenerationnelle
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment le patrimoine familial perpetue, sur plusieurs generations, des inegalites initiales.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites d'acces a l'education
+slug: les-inegalites-d-acces-a-l-education
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment le milieu social influence, des le plus jeune age, les trajectoires scolaires.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le revenu universel, principe et experimentations
+slug: le-revenu-universel-principe-et-experimentations
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Une idee ancienne, testee recemment dans plusieurs pays avec des resultats varies.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites de genre dans les salaires
+slug: les-inegalites-de-genre-dans-les-salaires
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Un ecart persistant, aux causes multiples, malgre des decennies de politiques publiques.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le plafond de verre dans les carrieres professionnelles
+slug: le-plafond-de-verre-dans-les-carrieres-professionnelles
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Un obstacle invisible mais reel qui limite l'acces des femmes aux postes les plus eleves.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites territoriales au sein d'un meme pays
+slug: les-inegalites-territoriales-au-sein-d-un-meme-pays
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment le lieu de naissance influence fortement les opportunites economiques.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fiscalite du patrimoine et ses debats
+slug: la-fiscalite-du-patrimoine-et-ses-debats
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment taxer la richesse accumulee reste un sujet politique tres discute.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites entre generations
+slug: les-inegalites-entre-generations
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment les conditions economiques different fortement selon l'epoque de naissance.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'Etat-providence, origines et modeles
+slug: l-etat-providence-origines-et-modeles
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment differents pays ont construit des systemes tres varies de protection sociale.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les modeles scandinaves de redistribution
+slug: les-modeles-scandinaves-de-redistribution
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Des systemes souvent cites en exemple pour leur combinaison de croissance et d'egalite.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites mondiales entre pays riches et pauvres
+slug: les-inegalites-mondiales-entre-pays-riches-et-pauvres
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Un ecart de developpement qui reste considerable malgre des decennies de croissance globale.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aide au developpement et son efficacite reelle
+slug: l-aide-au-developpement-et-son-efficacite-reelle
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Ce que les etudes economiques revelent sur l'impact de cette aide internationale.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites face aux chocs economiques
+slug: les-inegalites-face-aux-chocs-economiques
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Pourquoi les crises economiques touchent generalement plus durement les plus vulnerables.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La discrimination economique et ses formes
+slug: la-discrimination-economique-et-ses-formes
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment certains groupes subissent un traitement economique defavorable, meme a competences egales.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites d'acces au credit bancaire
+slug: les-inegalites-d-acces-au-credit-bancaire
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment l'origine sociale ou geographique peut influencer l'acces au financement.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La redistribution par les services publics gratuits
+slug: la-redistribution-par-les-services-publics-gratuits
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment l'ecole, la sante et d'autres services reduisent indirectement les inegalites.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites de patrimoine immobilier
+slug: les-inegalites-de-patrimoine-immobilier
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment l'acces a la propriete cree des ecarts de richesse qui se creusent avec le temps.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le revenu minimum garanti, comparaison internationale
+slug: le-revenu-minimum-garanti-comparaison-internationale
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Des dispositifs varies qui visent tous a assurer un minimum vital.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites d'exposition aux risques environnementaux
+slug: les-inegalites-d-exposition-aux-risques-environnementaux
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment les populations les plus pauvres subissent souvent le plus la pollution.
+tags: [inegalites-et-redistribution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution historique des inegalites depuis la revolution industrielle
+slug: l-evolution-historique-des-inegalites-depuis-la-revolution-industrielle
+categoryPath: sciences-humaines-et-sociales/economie/inegalites-et-redistribution
+summary: >
+  Comment les ecarts de richesse ont evolue en dents de scie depuis deux siecles.
+tags: [inegalites-et-redistribution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le produit interieur brut, ce qu'il mesure vraiment
+slug: le-produit-interieur-brut-ce-qu-il-mesure-vraiment
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un indicateur central de l'economie, avec des limites importantes a connaitre.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites du PIB comme mesure du bien-etre
+slug: les-limites-du-pib-comme-mesure-du-bien-etre
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Pourquoi ce chiffre ne capture pas tout ce qui compte dans une societe.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'inflation, mecanisme et mesure
+slug: l-inflation-mecanisme-et-mesure
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment on quantifie la hausse generale des prix dans une economie.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hyperinflation, quand la monnaie perd toute valeur
+slug: l-hyperinflation-quand-la-monnaie-perd-toute-valeur
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Des episodes historiques extremes ou une monnaie s'effondre en quelques mois.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deflation, un risque economique moins connu
+slug: la-deflation-un-risque-economique-moins-connu
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Pourquoi une baisse generale des prix peut, paradoxalement, poser probleme.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des banques centrales dans l'economie
+slug: le-role-des-banques-centrales-dans-l-economie
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment ces institutions influencent, sans le controler totalement, le cours de l'economie.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les taux d'interet directeurs et leur influence
+slug: les-taux-d-interet-directeurs-et-leur-influence
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un levier essentiel utilise par les banques centrales pour agir sur l'economie.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chomage, mesure et types
+slug: le-chomage-mesure-et-types
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Structurel, conjoncturel, frictionnel : plusieurs formes distinctes de chomage.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les politiques de l'emploi et leur efficacite
+slug: les-politiques-de-l-emploi-et-leur-efficacite
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Ce que les etudes economiques revelent sur les mesures censees reduire le chomage.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La crise de 1929, causes et consequences
+slug: la-crise-de-1929-causes-et-consequences
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un effondrement economique majeur qui a change durablement les politiques publiques.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le krach boursier et son mecanisme
+slug: le-krach-boursier-et-son-mecanisme
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment une perte de confiance soudaine peut declencher un effondrement des marches.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La crise financiere de 2008, origines
+slug: la-crise-financiere-de-2008-origines
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment des mecanismes financiers complexes ont declenche une crise mondiale.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les subprimes et la crise des credits immobiliers americains
+slug: les-subprimes-et-la-crise-des-credits-immobiliers-americains
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un mecanisme financier specifique a l'origine d'une crise economique majeure.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dette publique, comment elle se forme
+slug: la-dette-publique-comment-elle-se-forme
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un mecanisme simple mais dont l'accumulation souleve des questions economiques complexes.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La soutenabilite de la dette publique
+slug: la-soutenabilite-de-la-dette-publique
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment les economistes evaluent si l'endettement d'un pays reste maitrisable.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La politique monetaire contre la politique budgetaire
+slug: la-politique-monetaire-contre-la-politique-budgetaire
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Deux leviers distincts, souvent combines, pour agir sur l'economie d'un pays.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle economique, expansion et recession
+slug: le-cycle-economique-expansion-et-recession
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment l'activite economique alterne naturellement entre phases de croissance et de ralentissement.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recession, definition et mesure
+slug: la-recession-definition-et-mesure
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un ralentissement economique prolonge, aux consequences concretes sur l'emploi et les revenus.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes formes de monnaie a travers l'histoire
+slug: les-differentes-formes-de-monnaie-a-travers-l-histoire
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Coquillages, metaux, papier : une diversite de supports pour une meme fonction.
+tags: [macroeconomie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La masse monetaire et son controle
+slug: la-masse-monetaire-et-son-controle
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment les autorites influencent la quantite de monnaie en circulation.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le commerce international et ses theories economiques
+slug: le-commerce-international-et-ses-theories-economiques
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Pourquoi les pays echangent, meme quand l'un semble plus efficace en tout.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La balance commerciale d'un pays
+slug: la-balance-commerciale-d-un-pays
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un indicateur qui compare ce qu'un pays vend et achete au reste du monde.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les taux de change et leur determination
+slug: les-taux-de-change-et-leur-determination
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Comment la valeur relative de deux monnaies s'ajuste sur les marches internationaux.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les crises de la dette souveraine
+slug: les-crises-de-la-dette-souveraine
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Des episodes ou un pays entier peine a honorer ses engagements financiers.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stagflation, un phenomene economique paradoxal
+slug: la-stagflation-un-phenomene-economique-paradoxal
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Quand inflation elevee et stagnation economique surviennent simultanement.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les theories economiques keynesienne et liberale
+slug: les-theories-economiques-keynesienne-et-liberale
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Deux grandes ecoles de pensee qui proposent des reponses opposees aux crises.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: John Maynard Keynes et l'intervention economique de l'Etat
+slug: john-maynard-keynes-et-l-intervention-economique-de-l-etat
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un economiste dont les idees ont transforme les politiques publiques du XXe siecle.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mondialisation economique, avantages et critiques
+slug: la-mondialisation-economique-avantages-et-critiques
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Un phenomene qui a transforme profondement les economies nationales depuis des decennies.
+tags: [macroeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les indicateurs alternatifs au PIB
+slug: les-indicateurs-alternatifs-au-pib
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Des tentatives de mesurer le bien-etre economique au-dela de la seule production.
+tags: [macroeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi de l'offre et de la demande, mecanisme detaille
+slug: la-loi-de-l-offre-et-de-la-demande-mecanisme-detaille
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment ces deux forces determinent conjointement le prix d'un bien.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'elasticite prix de la demande
+slug: l-elasticite-prix-de-la-demande
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment la consommation d'un bien reagit, plus ou moins fortement, a une variation de prix.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La concurrence pure et parfaite, un modele theorique
+slug: la-concurrence-pure-et-parfaite-un-modele-theorique
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Un cas ideal, rarement observe dans la realite, qui sert de reference economique.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le monopole, mecanisme et consequences economiques
+slug: le-monopole-mecanisme-et-consequences-economiques
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment l'absence de concurrence modifie le comportement d'une entreprise unique.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'oligopole, quelques acteurs dominants un marche
+slug: l-oligopole-quelques-acteurs-dominants-un-marche
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Une situation frequente ou peu d'entreprises se partagent l'essentiel d'un secteur.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les externalites positives et negatives
+slug: les-externalites-positives-et-negatives
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment une activite economique peut affecter des tiers sans compensation directe.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La division du travail, principe economique fondamental
+slug: la-division-du-travail-principe-economique-fondamental
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment specialiser les taches augmente considerablement la productivite collective.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Adam Smith et l'origine de la division du travail
+slug: adam-smith-et-l-origine-de-la-division-du-travail
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Un economiste dont l'exemple de la manufacture d'epingles reste celebre.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comptabilite en partie double, invention historique
+slug: la-comptabilite-en-partie-double-invention-historique
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Une methode comptable qui a transforme la gestion economique des entreprises.
+tags: [microeconomie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Luca Pacioli et la formalisation de la comptabilite moderne
+slug: luca-pacioli-et-la-formalisation-de-la-comptabilite-moderne
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Un moine mathematicien dont les travaux ont structure la comptabilite pendant des siecles.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La theorie des jeux, comprendre les decisions strategiques
+slug: la-theorie-des-jeux-comprendre-les-decisions-strategiques
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Un cadre mathematique qui modelise les interactions entre acteurs rationnels.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le dilemme du prisonnier en theorie des jeux
+slug: le-dilemme-du-prisonnier-en-theorie-des-jeux
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Un exemple celebre qui illustre pourquoi la cooperation n'est pas toujours evidente.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couts de production et leur structure
+slug: les-couts-de-production-et-leur-structure
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment une entreprise decompose et analyse ses depenses pour fixer un prix.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les economies d'echelle
+slug: les-economies-d-echelle
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Pourquoi produire en plus grande quantite reduit souvent le cout unitaire.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La rationalite economique et ses limites
+slug: la-rationalite-economique-et-ses-limites
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Ce que l'economie comportementale revele sur les ecarts entre theorie et comportement reel.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche du travail, offre et demande d'emploi
+slug: le-marche-du-travail-offre-et-demande-d-emploi
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment ce marche particulier obeit, avec des specificites, aux memes lois generales.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fixation des prix dans un marche concurrentiel
+slug: la-fixation-des-prix-dans-un-marche-concurrentiel
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment de nombreux vendeurs et acheteurs aboutissent naturellement a un prix d'equilibre.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La discrimination par les prix
+slug: la-discrimination-par-les-prix
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment une meme entreprise peut vendre un produit identique a des prix differents.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biens publics et le probleme du passager clandestin
+slug: les-biens-publics-et-le-probleme-du-passager-clandestin
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Pourquoi certains biens ne peuvent pas etre efficacement fournis par le seul marche.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation economique des marches
+slug: la-regulation-economique-des-marches
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment les pouvoirs publics interviennent pour corriger certaines defaillances du marche.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le surplus du consommateur et du producteur
+slug: le-surplus-du-consommateur-et-du-producteur
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Deux concepts economiques qui mesurent le benefice retire d'un echange.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La microeconomie de la publicite
+slug: la-microeconomie-de-la-publicite
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment les entreprises utilisent l'information, ou son absence, pour influencer les choix.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les asymetries d'information sur un marche
+slug: les-asymetries-d-information-sur-un-marche
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment un desequilibre de connaissance entre acheteur et vendeur fausse l'echange.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche de l'occasion et la selection adverse
+slug: le-marche-de-l-occasion-et-la-selection-adverse
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Un exemple concret ou le manque d'information degrade la qualite moyenne d'un marche.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La concurrence monopolistique
+slug: la-concurrence-monopolistique
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Une situation intermediaire ou de nombreuses entreprises vendent des produits legerement differencies.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couts irrecuperables et la prise de decision economique
+slug: les-couts-irrecuperables-et-la-prise-de-decision-economique
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Pourquoi il est rationnel d'ignorer une depense deja engagee, meme si c'est difficile.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La theorie du consommateur en microeconomie
+slug: la-theorie-du-consommateur-en-microeconomie
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment les economistes modelisent les choix de consommation d'un individu rationnel.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cartels et l'entente illegale entre entreprises
+slug: les-cartels-et-l-entente-illegale-entre-entreprises
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment des concurrents s'accordent parfois, illegalement, pour fixer les prix.
+tags: [microeconomie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La microeconomie appliquee au marche du logement
+slug: la-microeconomie-appliquee-au-marche-du-logement
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment l'offre et la demande expliquent, en partie, la formation des loyers et des prix immobiliers.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la naissance de la microeconomie comme discipline
+slug: l-histoire-de-la-naissance-de-la-microeconomie-comme-discipline
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Comment cette branche de l'economie s'est distinguee progressivement de la macroeconomie.
+tags: [microeconomie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les causes profondes de la Premiere Guerre mondiale
+slug: les-causes-profondes-de-la-premiere-guerre-mondiale
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un enchainement complexe d'alliances et de tensions qui a mene a un conflit mondial.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vie dans les tranchees pendant la Grande Guerre
+slug: la-vie-dans-les-tranchees-pendant-la-grande-guerre
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Des conditions extremes qui ont marque durablement une generation entiere.
+tags: [epoque-contemporaine]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le traite de Versailles et ses consequences
+slug: le-traite-de-versailles-et-ses-consequences
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un accord de paix dont les termes ont durablement influence la suite de l'histoire.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La montee des totalitarismes dans l'entre-deux-guerres
+slug: la-montee-des-totalitarismes-dans-l-entre-deux-guerres
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment des crises economiques et politiques ont favorise des regimes autoritaires.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les causes de la Seconde Guerre mondiale
+slug: les-causes-de-la-seconde-guerre-mondiale
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un enchainement d'evenements qui a mene au conflit le plus meurtrier de l'histoire.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La Shoah, un genocide sans precedent
+slug: la-shoah-un-genocide-sans-precedent
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un evenement historique majeur dont la comprehension reste essentielle.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le debarquement de Normandie
+slug: le-debarquement-de-normandie
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Une operation militaire d'une ampleur considerable qui a change le cours du conflit.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bombe atomique et la fin de la guerre du Pacifique
+slug: la-bombe-atomique-et-la-fin-de-la-guerre-du-pacifique
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un evenement qui a marque l'entree de l'humanite dans l'ere nucleaire.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La creation de l'Organisation des Nations unies
+slug: la-creation-de-l-organisation-des-nations-unies
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Une institution nee de la volonte d'eviter un nouveau conflit mondial.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rideau de fer et la division de l'Europe
+slug: le-rideau-de-fer-et-la-division-de-l-europe
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment le continent s'est retrouve coupe en deux blocs ideologiquement opposes.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La crise de Cuba, un moment de tension extreme
+slug: la-crise-de-cuba-un-moment-de-tension-extreme
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un episode de la guerre froide qui a approche le monde d'un conflit nucleaire.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La course a l'armement nucleaire pendant la guerre froide
+slug: la-course-a-l-armement-nucleaire-pendant-la-guerre-froide
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Une rivalite technologique et militaire qui a domine plusieurs decennies.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chute du mur de Berlin
+slug: la-chute-du-mur-de-berlin
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un evenement symbolique majeur qui a marque la fin d'une epoque geopolitique.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decolonisation en Afrique
+slug: la-decolonisation-en-afrique
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un processus complexe qui a redessine la carte politique d'un continent entier.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decolonisation en Asie
+slug: la-decolonisation-en-asie
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment plusieurs pays ont retrouve leur independance apres des decennies de domination coloniale.
+tags: [epoque-contemporaine]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le plan Marshall et la reconstruction economique de l'Europe
+slug: le-plan-marshall-et-la-reconstruction-economique-de-l-europe
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un programme d'aide massif qui a facilite le redressement d'un continent devaste.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction europeenne, etapes cles
+slug: la-construction-europeenne-etapes-cles
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un processus progressif qui a transforme des ennemis historiques en partenaires.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le traite de Rome et la naissance de l'Europe economique
+slug: le-traite-de-rome-et-la-naissance-de-l-europe-economique
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un texte fondateur qui a pose les bases de l'integration europeenne actuelle.
+tags: [epoque-contemporaine]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mouvements de 1968 a travers le monde
+slug: les-mouvements-de-1968-a-travers-le-monde
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Une periode de contestation sociale et culturelle qui a marque de nombreux pays.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La revolution numerique et ses consequences historiques
+slug: la-revolution-numerique-et-ses-consequences-historiques
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Une transformation technologique majeure qui redefinit encore le monde contemporain.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mondialisation contemporaine, une acceleration historique
+slug: la-mondialisation-contemporaine-une-acceleration-historique
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment les echanges economiques et culturels se sont intensifies depuis plusieurs decennies.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chute de l'Union sovietique
+slug: la-chute-de-l-union-sovietique
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un evenement majeur qui a mis fin a un ordre mondial etabli depuis des decennies.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grandes migrations du XXe siecle
+slug: les-grandes-migrations-du-xxe-siecle
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Des deplacements de population massifs lies aux guerres et aux crises economiques.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des droits civiques aux Etats-Unis
+slug: l-histoire-des-droits-civiques-aux-etats-unis
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un long combat qui a progressivement etendu l'egalite legale entre citoyens.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conquete spatiale comme evenement historique
+slug: la-conquete-spatiale-comme-evenement-historique
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment la rivalite entre deux puissances a mene l'humanite au-dela de la Terre.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du mouvement feministe contemporain
+slug: l-histoire-du-mouvement-feministe-contemporain
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Plusieurs vagues successives qui ont progressivement transforme la place des femmes.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La guerre froide en Asie, un conflit indirect
+slug: la-guerre-froide-en-asie-un-conflit-indirect
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment la rivalite entre grandes puissances s'est jouee par pays interposes.
+tags: [epoque-contemporaine]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du terrorisme international contemporain
+slug: l-histoire-du-terrorisme-international-contemporain
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  L'evolution d'une menace qui a profondement marque la geopolitique recente.
+tags: [epoque-contemporaine]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les attentats du 11 septembre 2001 et leurs consequences
+slug: les-attentats-du-11-septembre-2001-et-leurs-consequences
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Un evenement majeur qui a redefini durablement la politique internationale.
+tags: [epoque-contemporaine]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'Union europeenne depuis son elargissement
+slug: l-histoire-de-l-union-europeenne-depuis-son-elargissement
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Comment cette organisation a integre progressivement de nombreux nouveaux pays.
+tags: [epoque-contemporaine]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre source primaire et secondaire
+slug: la-difference-entre-source-primaire-et-secondaire
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Une distinction essentielle pour tout travail historique rigoureux.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La critique interne et externe d'une source historique
+slug: la-critique-interne-et-externe-d-une-source-historique
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Deux etapes complementaires pour evaluer la fiabilite d'un document ancien.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'archeologie, une methode complementaire de l'histoire
+slug: l-archeologie-une-methode-complementaire-de-l-histoire
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment l'etude des vestiges materiels eclaire ce que les textes ne disent pas.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'archeologie preventive avant les grands travaux
+slug: l-archeologie-preventive-avant-les-grands-travaux
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment on protege le patrimoine enfoui avant qu'un chantier ne le detruise.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La datation au carbone 14, principe scientifique
+slug: la-datation-au-carbone-14-principe-scientifique
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Une methode qui exploite la desintegration radioactive pour estimer un age.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites de la datation au carbone 14
+slug: les-limites-de-la-datation-au-carbone-14
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Pourquoi cette methode fiable connait tout de meme certaines contraintes techniques.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le dechiffrement des hieroglyphes egyptiens
+slug: le-dechiffrement-des-hieroglyphes-egyptiens
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment la pierre de Rosette a permis de lire une ecriture perdue depuis des siecles.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Jean-Francois Champollion et la pierre de Rosette
+slug: jean-francois-champollion-et-la-pierre-de-rosette
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Un chercheur dont la perseverance a permis une avancee majeure pour l'egyptologie.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les faux historiques celebres et leur demasquage
+slug: les-faux-historiques-celebres-et-leur-demasquage
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Des documents fabriques qui ont trompe, parfois longtemps, historiens et grand public.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effondrement des civilisations anciennes, causes etudiees
+slug: l-effondrement-des-civilisations-anciennes-causes-etudiees
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment les historiens analysent la disparition de societes autrefois florissantes.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chute de l'empire romain, plusieurs theories
+slug: la-chute-de-l-empire-romain-plusieurs-theories
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Un evenement majeur dont les causes exactes restent debattues par les historiens.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire orale, une source a part entiere
+slug: l-histoire-orale-une-source-a-part-entiere
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment les temoignages transmis oralement completent les archives ecrites.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les archives et leur conservation historique
+slug: les-archives-et-leur-conservation-historique
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment on preserve, sur le long terme, les documents essentiels a la memoire collective.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'historiographie, l'etude de l'histoire de l'histoire
+slug: l-historiographie-l-etude-de-l-histoire-de-l-histoire
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment le regard des historiens eux-memes evolue au fil du temps.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais dans l'ecriture de l'histoire
+slug: les-biais-dans-l-ecriture-de-l-histoire
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Pourquoi aucun recit historique n'est jamais totalement neutre ou objectif.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconstitution historique experimentale
+slug: la-reconstitution-historique-experimentale
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment reproduire des techniques anciennes eclaire notre comprehension du passe.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La paleographie, dechiffrer les ecritures anciennes
+slug: la-paleographie-dechiffrer-les-ecritures-anciennes
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Une competence specialisee necessaire pour lire des documents historiques manuscrits.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La numismatique, l'etude des monnaies anciennes
+slug: la-numismatique-l-etude-des-monnaies-anciennes
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment de simples pieces de monnaie racontent l'histoire economique et politique.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dendrochronologie, dater grace aux arbres
+slug: la-dendrochronologie-dater-grace-aux-arbres
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Une methode qui exploite les cernes de croissance pour dater precisement du bois ancien.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire comparee entre differentes civilisations
+slug: l-histoire-comparee-entre-differentes-civilisations
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Une approche qui met en perspective des societes eloignees dans le temps ou l'espace.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des musees dans la transmission de l'histoire
+slug: le-role-des-musees-dans-la-transmission-de-l-histoire
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment ces institutions rendent accessible au public le travail des historiens.
+tags: [methode-historique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconstitution des genomes anciens
+slug: la-reconstitution-des-genomes-anciens
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Une methode recente qui apporte des informations historiques inedites sur les populations passees.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les erreurs frequentes d'interpretation en histoire
+slug: les-erreurs-frequentes-d-interpretation-en-histoire
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Pourquoi projeter des idees actuelles sur le passe deforme souvent la comprehension historique.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire environnementale, une approche recente
+slug: l-histoire-environnementale-une-approche-recente
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment les historiens integrent desormais le climat et l'environnement dans leur analyse.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cartographie historique et son evolution
+slug: la-cartographie-historique-et-son-evolution
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment les cartes anciennes revelent la vision du monde de leur epoque.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les temoignages de premiere main et leur fiabilite
+slug: les-temoignages-de-premiere-main-et-leur-fiabilite
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Pourquoi un temoin direct peut, malgre sa proximite avec l'evenement, se tromper.
+tags: [methode-historique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des mentalites, comprendre les idees d'une epoque
+slug: l-histoire-des-mentalites-comprendre-les-idees-d-une-epoque
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Une approche qui cherche a reconstituer la maniere de penser d'une societe passee.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restitution numerique des sites archeologiques
+slug: la-restitution-numerique-des-sites-archeologiques
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment la technologie moderne permet de visualiser des lieux aujourd'hui disparus.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire quantitative, utiliser les chiffres du passe
+slug: l-histoire-quantitative-utiliser-les-chiffres-du-passe
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Comment des donnees statistiques anciennes eclairent des tendances historiques longues.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation universitaire du metier d'historien
+slug: la-formation-universitaire-du-metier-d-historien
+categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
+summary: >
+  Un parcours specifique qui combine rigueur methodologique et vaste culture generale.
+tags: [methode-historique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maitrise du feu, une etape fondatrice
+slug: la-maitrise-du-feu-une-etape-fondatrice
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment cette avancee a transforme l'alimentation, la securite et la vie sociale des premiers humains.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Allumer un feu sans allumettes, methodes prehistoriques
+slug: allumer-un-feu-sans-allumettes-methodes-prehistoriques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des techniques simples, redecouvertes aujourd'hui, pour produire du feu avec des moyens rudimentaires.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers outils de pierre taillee
+slug: les-premiers-outils-de-pierre-taillee
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Une innovation technique fondamentale qui a marque le debut de l'histoire humaine.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La taille du silex, technique de base
+slug: la-taille-du-silex-technique-de-base
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Un savoir-faire ancien qui permet de fabriquer des outils tranchants a partir d'une simple pierre.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premieres armes de chasse prehistoriques
+slug: les-premieres-armes-de-chasse-prehistoriques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des outils ingenieux qui ont permis a l'homme de chasser plus efficacement.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le propulseur, une invention prehistorique ingenieuse
+slug: le-propulseur-une-invention-prehistorique-ingenieuse
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Un dispositif simple qui demultiplie considerablement la force de lancer d'une sagaie.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'art parietal, peindre sur les parois des grottes
+slug: l-art-parietal-peindre-sur-les-parois-des-grottes
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Les plus anciennes traces connues de l'expression artistique humaine.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La grotte Chauvet et ses peintures exceptionnelles
+slug: la-grotte-chauvet-et-ses-peintures-exceptionnelles
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Un ensemble remarquable qui a repousse la datation connue de l'art prehistorique.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Lascaux, un sanctuaire prehistorique celebre
+slug: lascaux-un-sanctuaire-prehistorique-celebre
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Un ensemble de peintures qui continue de fasciner par sa qualite artistique.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La revolution neolithique, un tournant majeur
+slug: la-revolution-neolithique-un-tournant-majeur
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Le passage d'un mode de vie nomade a une existence sedentaire fondee sur l'agriculture.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sedentarisation et ses consequences sociales
+slug: la-sedentarisation-et-ses-consequences-sociales
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment s'installer durablement a change profondement l'organisation des societes humaines.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers villages agricoles neolithiques
+slug: les-premiers-villages-agricoles-neolithiques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment les premieres communautes ont organise leur vie autour de la culture des champs.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La domestication des premiers animaux
+slug: la-domestication-des-premiers-animaux
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment l'humanite a progressivement transforme des especes sauvages en compagnons utiles.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Neandertal, un cousin longtemps sous-estime
+slug: neandertal-un-cousin-longtemps-sous-estime
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Ce que les decouvertes recentes revelent sur les capacites de cette espece proche de la notre.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cohabitation entre Neandertal et Homo sapiens
+slug: la-cohabitation-entre-neandertal-et-homo-sapiens
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Une periode de chevauchement qui a laisse des traces genetiques encore visibles aujourd'hui.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers peuplements de l'Amerique
+slug: les-premiers-peuplements-de-l-amerique
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment et quand les premiers humains ont atteint ce continent longtemps isole.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pont terrestre de Beringie
+slug: le-pont-terrestre-de-beringie
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Une voie de passage aujourd'hui disparue qui a permis un peuplement humain majeur.
+tags: [prehistoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers peuplements de l'Australie
+slug: les-premiers-peuplements-de-l-australie
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Une traversee maritime remarquable realisee par les humains prehistoriques.
+tags: [prehistoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les megalithes prehistoriques et leur signification
+slug: les-megalithes-prehistoriques-et-leur-signification
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  D'imposantes structures de pierre dont la fonction exacte reste parfois debattue.
+tags: [prehistoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La ceramique, une invention neolithique majeure
+slug: la-ceramique-une-invention-neolithique-majeure
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment la fabrication de recipients a transforme la conservation et la cuisson des aliments.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de vetements prehistoriques
+slug: la-fabrication-de-vetements-prehistoriques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des techniques rudimentaires mais essentielles pour se proteger du froid.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers bijoux et parures prehistoriques
+slug: les-premiers-bijoux-et-parures-prehistoriques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des objets qui revelent une dimension symbolique et sociale des les societes anciennes.
+tags: [prehistoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chasse collective au Paleolithique
+slug: la-chasse-collective-au-paleolithique
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des strategies organisees qui ont permis de capturer de grandes proies dangereuses.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'age du bronze, une nouvelle ere technique
+slug: l-age-du-bronze-une-nouvelle-ere-technique
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment la maitrise d'un nouvel alliage a transforme outils et armes.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'age du fer et son impact sur les societes anciennes
+slug: l-age-du-fer-et-son-impact-sur-les-societes-anciennes
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Une avancee metallurgique qui a rendu les outils plus resistants et plus accessibles.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers rites funeraires prehistoriques
+slug: les-premiers-rites-funeraires-prehistoriques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des pratiques qui revelent une conscience de la mort des les societes les plus anciennes.
+tags: [prehistoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution du langage humain, hypotheses scientifiques
+slug: l-evolution-du-langage-humain-hypotheses-scientifiques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Une question complexe sur laquelle les chercheurs continuent de debattre.
+tags: [prehistoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations humaines prehistoriques hors d'Afrique
+slug: les-migrations-humaines-prehistoriques-hors-d-afrique
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Comment notre espece a progressivement colonise l'ensemble de la planete.
+tags: [prehistoire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les outils en os et en bois prehistoriques
+slug: les-outils-en-os-et-en-bois-prehistoriques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Des materiaux moins durables que la pierre, mais tout aussi essentiels a l'epoque.
+tags: [prehistoire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Ce que l'ADN ancien revele sur nos ancetres prehistoriques
+slug: ce-que-l-adn-ancien-revele-sur-nos-ancetres-prehistoriques
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Une technologie recente qui apporte des reponses inedites sur notre propre histoire.
+tags: [prehistoire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de disponibilite
+slug: le-biais-de-disponibilite
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on surestime la frequence d'evenements qui viennent facilement a l'esprit.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais d'ancrage dans la prise de decision
+slug: le-biais-d-ancrage-dans-la-prise-de-decision
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment une premiere information influence durablement nos jugements suivants.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'illusion de controle
+slug: l-illusion-de-controle
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on surestime souvent sa propre capacite a influencer des evenements incertains.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais retrospectif, tout semblait evident apres coup
+slug: le-biais-retrospectif-tout-semblait-evident-apres-coup
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on croit, une fois un evenement passe, qu'on aurait pu le predire.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de halo dans le jugement d'autrui
+slug: l-effet-de-halo-dans-le-jugement-d-autrui
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment une seule qualite percue influence notre perception globale d'une personne.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais d'optimisme et ses consequences
+slug: le-biais-d-optimisme-et-ses-consequences
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on sous-estime generalement les risques qui nous concernent personnellement.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aversion a la perte, pourquoi perdre fait plus mal que gagner
+slug: l-aversion-a-la-perte-pourquoi-perdre-fait-plus-mal-que-gagner
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Un biais central qui explique de nombreux comportements economiques irrationnels.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de dotation, surevaluer ce que l'on possede deja
+slug: l-effet-de-dotation-surevaluer-ce-que-l-on-possede-deja
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on accorde plus de valeur a un objet simplement parce qu'on le detient.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de confirmation au quotidien
+slug: le-biais-de-confirmation-au-quotidien
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment on cherche naturellement les informations qui confirment ce que l'on croit deja.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet Dunning-Kruger, surestimer sa propre competence
+slug: l-effet-dunning-kruger-surestimer-sa-propre-competence
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi les personnes les moins competentes surestiment souvent leurs capacites.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais du survivant dans l'analyse des reussites
+slug: le-biais-du-survivant-dans-l-analyse-des-reussites
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on tire des lecons erronees en n'observant que les cas de succes.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de cadrage sur la prise de decision
+slug: l-effet-de-cadrage-sur-la-prise-de-decision
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment la simple formulation d'un choix peut en changer radicalement le resultat.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de groupe (pensee de groupe)
+slug: le-biais-de-groupe-pensee-de-groupe
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment la pression d'un collectif peut degrader la qualite d'une decision.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'illusion de frequence (effet Baader-Meinhof)
+slug: l-illusion-de-frequence-effet-baader-meinhof
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi une information nouvellement apprise semble soudain apparaitre partout.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais d'attribution, expliquer le comportement d'autrui
+slug: le-biais-d-attribution-expliquer-le-comportement-d-autrui
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on attribue souvent les erreurs des autres a leur personnalite plutot qu'aux circonstances.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de negativite
+slug: le-biais-de-negativite
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi les evenements negatifs marquent generalement plus fortement que les positifs.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fausse unanimite percue
+slug: la-fausse-unanimite-percue
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on surestime souvent le nombre de personnes qui partagent notre propre opinion.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de statu quo, preferer ne rien changer
+slug: le-biais-de-statu-quo-preferer-ne-rien-changer
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on tend a favoriser la situation actuelle, meme quand une alternative serait meilleure.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fausses informations et les mecanismes de leur propagation
+slug: les-fausses-informations-et-les-mecanismes-de-leur-propagation
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment certains biais cognitifs facilitent la diffusion d'informations erronees.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de familiarite
+slug: le-biais-de-familiarite
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on fait davantage confiance a ce qui nous est deja connu.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de contraste dans la perception
+slug: l-effet-de-contraste-dans-la-perception
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment un jugement peut changer radicalement selon ce a quoi on le compare.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de proportionnalite, chercher des causes a la hauteur des effets
+slug: le-biais-de-proportionnalite-chercher-des-causes-a-la-hauteur-des-effets
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on peine a accepter qu'un grand evenement puisse avoir une cause banale.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sous-estimation de la regression vers la moyenne
+slug: la-sous-estimation-de-la-regression-vers-la-moyenne
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Un phenomene statistique frequemment mal interprete dans le raisonnement quotidien.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de simplicite dans le raisonnement
+slug: le-biais-de-simplicite-dans-le-raisonnement
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Pourquoi on prefere naturellement les explications simples, meme quand elles sont incompletes.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais cognitifs en contexte medical
+slug: les-biais-cognitifs-en-contexte-medical
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment ces mecanismes peuvent, malgre l'expertise, influencer un diagnostic.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais cognitifs dans les decisions financieres
+slug: les-biais-cognitifs-dans-les-decisions-financieres
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment des mecanismes psychologiques expliquent des choix d'investissement irrationnels.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lutte contre ses propres biais cognitifs
+slug: la-lutte-contre-ses-propres-biais-cognitifs
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Des methodes pratiques pour limiter, sans jamais les eliminer totalement, ces mecanismes.
+tags: [biais-cognitifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais culturel dans la perception d'autrui
+slug: le-biais-culturel-dans-la-perception-d-autrui
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment notre propre culture influence, sans qu'on le remarque, notre jugement des autres.
+tags: [biais-cognitifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Daniel Kahneman et la formalisation des biais cognitifs
+slug: daniel-kahneman-et-la-formalisation-des-biais-cognitifs
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Un chercheur dont les travaux ont profondement transforme la comprehension de la decision humaine.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais cognitifs et la justice, un risque a surveiller
+slug: les-biais-cognitifs-et-la-justice-un-risque-a-surveiller
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Comment ces mecanismes peuvent, involontairement, influencer une decision judiciaire.
+tags: [biais-cognitifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La memoire a court terme et ses limites
+slug: la-memoire-a-court-terme-et-ses-limites
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Pourquoi on ne peut retenir qu'un nombre restreint d'informations a la fois.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La memoire a long terme et sa consolidation
+slug: la-memoire-a-long-terme-et-sa-consolidation
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment une information passe d'un stockage temporaire a une trace durable.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de memoire
+slug: les-differents-types-de-memoire
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Episodique, semantique, procedurale : plusieurs systemes distincts pour se souvenir.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'oubli, un phenomene utile autant que genant
+slug: l-oubli-un-phenomene-utile-autant-que-genant
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Pourquoi le cerveau efface naturellement une grande partie des informations recues.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'attention selective, filtrer l'information utile
+slug: l-attention-selective-filtrer-l-information-utile
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment le cerveau choisit, parmi un flot d'informations, ce qui merite d'etre traite.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cecite d'inattention, ne pas voir l'evident
+slug: la-cecite-d-inattention-ne-pas-voir-l-evident
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Un phenomene surprenant ou l'attention concentree fait litteralement manquer un evenement visible.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le multitache, une illusion cognitive
+slug: le-multitache-une-illusion-cognitive
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Ce que les etudes revelent sur notre incapacite reelle a faire plusieurs choses a la fois.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acquisition du langage chez l'enfant
+slug: l-acquisition-du-langage-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Un processus rapide et complexe qui suit des etapes remarquablement similaires partout.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bilinguisme et ses effets cognitifs
+slug: le-bilinguisme-et-ses-effets-cognitifs
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Ce que la recherche montre sur les avantages et les defis de parler deux langues.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le processus de prise de decision humaine
+slug: le-processus-de-prise-de-decision-humaine
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment le cerveau arbitre, souvent inconsciemment, entre plusieurs options possibles.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pensee rapide et la pensee lente
+slug: la-pensee-rapide-et-la-pensee-lente
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Deux modes de raisonnement distincts qui coexistent en permanence dans notre esprit.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'intuition, un raisonnement rapide mais faillible
+slug: l-intuition-un-raisonnement-rapide-mais-faillible
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment le cerveau produit des jugements instantanes, pas toujours fiables.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'intelligence, un concept difficile a definir
+slug: l-intelligence-un-concept-difficile-a-definir
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Pourquoi cette notion, largement utilisee, resiste a une definition scientifique simple.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le test de QI, ce qu'il mesure et ne mesure pas
+slug: le-test-de-qi-ce-qu-il-mesure-et-ne-mesure-pas
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Un outil utile mais limite pour evaluer une capacite aussi complexe que l'intelligence.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les intelligences multiples, une theorie discutee
+slug: les-intelligences-multiples-une-theorie-discutee
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Une proposition qui elargit la notion d'intelligence au-dela du seul raisonnement logique.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Apprendre efficacement, ce que la science recommande
+slug: apprendre-efficacement-ce-que-la-science-recommande
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Des methodes validees qui ameliorent reellement la retention des connaissances.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de repetition espacee dans l'apprentissage
+slug: l-effet-de-repetition-espacee-dans-l-apprentissage
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Une methode simple et puissante pour memoriser durablement une information.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le test comme methode d'apprentissage
+slug: le-test-comme-methode-d-apprentissage
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Pourquoi se tester soi-meme renforce la memoire bien mieux que la simple relecture.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conscience, un mystere scientifique persistant
+slug: la-conscience-un-mystere-scientifique-persistant
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Une question qui touche autant a la philosophie qu'a la neuroscience moderne.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le probleme difficile de la conscience
+slug: le-probleme-difficile-de-la-conscience
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Pourquoi expliquer l'experience subjective reste un defi majeur pour la science.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les illusions d'optique et ce qu'elles revelent du cerveau
+slug: les-illusions-d-optique-et-ce-qu-elles-revelent-du-cerveau
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment ces phenomenes montrent que la perception n'est jamais une simple photographie.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La perception visuelle, un processus actif de construction
+slug: la-perception-visuelle-un-processus-actif-de-construction
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment le cerveau interprete, plutot qu'il n'enregistre passivement, ce que voient les yeux.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resolution de problemes, strategies cognitives
+slug: la-resolution-de-problemes-strategies-cognitives
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment le cerveau aborde, avec plus ou moins d'efficacite, une situation nouvelle.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La creativite, un processus cognitif etudie
+slug: la-creativite-un-processus-cognitif-etudie
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Ce que la recherche en psychologie revele sur les mecanismes de la pensee creative.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La charge cognitive et ses limites
+slug: la-charge-cognitive-et-ses-limites
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Pourquoi le cerveau se fatigue et devient moins efficace face a trop d'informations simultanees.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La metacognition, penser sur sa propre pensee
+slug: la-metacognition-penser-sur-sa-propre-pensee
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Une capacite essentielle qui permet d'evaluer et d'ajuster ses propres strategies mentales.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le raisonnement logique et ses limites naturelles
+slug: le-raisonnement-logique-et-ses-limites-naturelles
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Pourquoi le cerveau humain n'est pas naturellement doue pour la logique formelle.
+tags: [cognition]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cognition sociale, comprendre les autres
+slug: la-cognition-sociale-comprendre-les-autres
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment le cerveau interprete les intentions et les emotions d'autrui.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement de la theorie de l'esprit chez l'enfant
+slug: le-developpement-de-la-theorie-de-l-esprit-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Comment un enfant apprend progressivement a comprendre que les autres pensent differemment de lui.
+tags: [cognition]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cognition et le vieillissement, ce qui change vraiment
+slug: la-cognition-et-le-vieillissement-ce-qui-change-vraiment
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Ce que la science distingue entre declin normal et pathologique de la cognition.
+tags: [cognition, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers mois de developpement du nourrisson
+slug: les-premiers-mois-de-developpement-du-nourrisson
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une periode intense de croissance sensorielle et motrice des la naissance.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reflexe archaique chez le nouveau-ne
+slug: le-reflexe-archaique-chez-le-nouveau-ne
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Des comportements automatiques presents des la naissance, qui disparaissent progressivement.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'attachement selon la theorie de Bowlby
+slug: l-attachement-selon-la-theorie-de-bowlby
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Un lien precoce fondamental qui influence le developpement psychologique ulterieur.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents styles d'attachement chez l'enfant
+slug: les-differents-styles-d-attachement-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment la qualite de la relation precoce influence durablement les relations futures.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les stades du developpement cognitif selon Piaget
+slug: les-stades-du-developpement-cognitif-selon-piaget
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une theorie influente qui decrit des etapes successives dans la pensee de l'enfant.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La permanence de l'objet chez le jeune enfant
+slug: la-permanence-de-l-objet-chez-le-jeune-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une acquisition cognitive precoce essentielle a la comprehension du monde.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acquisition du langage, etapes principales
+slug: l-acquisition-du-langage-etapes-principales
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Un processus rapide qui suit des jalons remarquablement previsibles chez l'enfant.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le babillage, une etape essentielle du langage
+slug: le-babillage-une-etape-essentielle-du-langage
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Des sons apparemment sans signification qui preparent en realite la parole future.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jeu chez l'enfant, un moteur du developpement
+slug: le-jeu-chez-l-enfant-un-moteur-du-developpement
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment une activite apparemment simple contribue en realite a de multiples apprentissages.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adolescence, une transformation cerebrale majeure
+slug: l-adolescence-une-transformation-cerebrale-majeure
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une periode de reorganisation neurologique profonde, pas seulement hormonale.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La prise de risque chez l'adolescent
+slug: la-prise-de-risque-chez-l-adolescent
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Ce que les neurosciences revelent sur les causes de ce comportement caracteristique.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction de l'identite a l'adolescence
+slug: la-construction-de-l-identite-a-l-adolescence
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une etape psychologique cruciale dans la formation de la personnalite adulte.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement moral chez l'enfant
+slug: le-developpement-moral-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment se construit progressivement la comprehension du bien et du mal.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les stades du developpement moral selon Kohlberg
+slug: les-stades-du-developpement-moral-selon-kohlberg
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une theorie qui decrit une progression dans le raisonnement ethique au fil de la vie.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement social chez le jeune enfant
+slug: le-developpement-social-chez-le-jeune-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment les premieres interactions posent les bases des relations sociales futures.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation emotionnelle chez l'enfant
+slug: la-regulation-emotionnelle-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment un enfant apprend progressivement a gerer ses propres emotions.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vieillissement cognitif normal
+slug: le-vieillissement-cognitif-normal
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Ce qui change reellement, et ce qui reste stable, dans le cerveau qui vieillit.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La plasticite cerebrale tout au long de la vie
+slug: la-plasticite-cerebrale-tout-au-long-de-la-vie
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment le cerveau conserve, meme a l'age adulte, une capacite reelle d'adaptation.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement du langage bilingue chez l'enfant
+slug: le-developpement-du-langage-bilingue-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment un cerveau jeune gere l'apprentissage simultane de deux langues.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience psychologique chez l'enfant
+slug: la-resilience-psychologique-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment certains enfants surmontent des epreuves difficiles sans sequelles durables.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La separation et l'angoisse chez le jeune enfant
+slug: la-separation-et-l-angoisse-chez-le-jeune-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une etape normale du developpement, generalement transitoire.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement de l'empathie chez l'enfant
+slug: le-developpement-de-l-empathie-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment cette capacite essentielle se construit progressivement au cours de l'enfance.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du jeu symbolique dans le developpement
+slug: le-role-du-jeu-symbolique-dans-le-developpement
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment faire semblant contribue reellement au developpement cognitif de l'enfant.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement psychomoteur du nourrisson
+slug: le-developpement-psychomoteur-du-nourrisson
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une sequence d'etapes motrices previsibles, de la tenue de tete a la marche.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'influence de l'environnement sur le developpement cognitif
+slug: l-influence-de-l-environnement-sur-le-developpement-cognitif
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Ce que la recherche revele sur le poids relatif des genes et du contexte de vie.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement du raisonnement mathematique chez l'enfant
+slug: le-developpement-du-raisonnement-mathematique-chez-l-enfant
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment se construit progressivement la comprehension des nombres et des quantites.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La menopause andropause et les changements psychologiques associes
+slug: la-menopause-andropause-et-les-changements-psychologiques-associes
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Des transitions hormonales qui s'accompagnent aussi de changements psychologiques.
+tags: [developpement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vieillissement et la memoire, ce qui evolue reellement
+slug: le-vieillissement-et-la-memoire-ce-qui-evolue-reellement
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Une distinction importante entre un declin normal et un signe de maladie.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le developpement du sommeil de la naissance a l'age adulte
+slug: le-developpement-du-sommeil-de-la-naissance-a-l-age-adulte
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Comment les besoins et la structure du sommeil evoluent tout au long de la vie.
+tags: [developpement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Jean Piaget, une figure fondatrice de la psychologie du developpement
+slug: jean-piaget-une-figure-fondatrice-de-la-psychologie-du-developpement
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Un chercheur dont les observations minutieuses ont durablement marque cette discipline.
+tags: [developpement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sociologie de l'ecole, origines et methodes
+slug: la-sociologie-de-l-ecole-origines-et-methodes
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment cette discipline etudie l'ecole comme une institution sociale a part entiere.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pierre Bourdieu et la reproduction sociale
+slug: pierre-bourdieu-et-la-reproduction-sociale
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Un sociologue dont les travaux ont profondement influence la comprehension des inegalites scolaires.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le capital culturel et son role dans la reussite scolaire
+slug: le-capital-culturel-et-son-role-dans-la-reussite-scolaire
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment un environnement familial favorable influence, sans le vouloir, les resultats a l'ecole.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'alphabetisation mondiale, progres et defis
+slug: l-alphabetisation-mondiale-progres-et-defis
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Une avancee majeure de l'humanite, encore incomplete dans plusieurs regions du monde.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les methodes historiques d'alphabetisation de masse
+slug: les-methodes-historiques-d-alphabetisation-de-masse
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment certains pays ont reussi a alphabetiser rapidement l'ensemble de leur population.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecole de Jules Ferry et la gratuite de l'enseignement
+slug: l-ecole-de-jules-ferry-et-la-gratuite-de-l-enseignement
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Une reforme majeure qui a rendu l'ecole accessible a tous les enfants d'un pays.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'obligation scolaire
+slug: l-histoire-de-l-obligation-scolaire
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment l'idee que chaque enfant doive aller a l'ecole s'est progressivement imposee.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les classements internationaux PISA, ce qu'ils mesurent
+slug: les-classements-internationaux-pisa-ce-qu-ils-mesurent
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Une comparaison qui suscite a la fois interet et debats methodologiques.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ascenseur social, mythe ou realite mesurable
+slug: l-ascenseur-social-mythe-ou-realite-mesurable
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Ce que les etudes sociologiques revelent sur la mobilite sociale reelle.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mixite sociale a l'ecole
+slug: la-mixite-sociale-a-l-ecole
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment la composition sociale d'un etablissement influence les parcours des eleves.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'orientation scolaire et ses biais sociaux
+slug: l-orientation-scolaire-et-ses-biais-sociaux
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment le milieu d'origine influence, souvent inconsciemment, les choix d'orientation.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission des savoirs de generation en generation
+slug: la-transmission-des-savoirs-de-generation-en-generation
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Un processus au coeur meme de toute societe humaine, bien au-dela de l'ecole.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'education non formelle, apprendre hors de l'ecole
+slug: l-education-non-formelle-apprendre-hors-de-l-ecole
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment de nombreux apprentissages essentiels se font en dehors du cadre scolaire.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites d'acces a l'education dans le monde
+slug: les-inegalites-d-acces-a-l-education-dans-le-monde
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Des ecarts persistants, particulierement marques entre filles et garcons dans certaines regions.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'education des filles, un levier de developpement
+slug: l-education-des-filles-un-levier-de-developpement
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Ce que les etudes montrent sur l'impact considerable de cet investissement educatif.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sociologie du redoublement scolaire
+slug: la-sociologie-du-redoublement-scolaire
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Ce que la recherche revele sur l'efficacite reelle, ou non, de cette pratique.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'enseignement a distance et ses enjeux sociaux
+slug: l-enseignement-a-distance-et-ses-enjeux-sociaux
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment cette modalite educative peut, selon les cas, reduire ou creuser les inegalites.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation continue des adultes
+slug: la-formation-continue-des-adultes
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment l'apprentissage se poursuit, de plus en plus, bien au-dela de la scolarite initiale.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des enseignants dans la reussite scolaire
+slug: le-role-des-enseignants-dans-la-reussite-scolaire
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Ce que la recherche identifie comme les facteurs les plus determinants de l'enseignement.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sociologie des diplomes et de leur valeur sur le marche du travail
+slug: la-sociologie-des-diplomes-et-de-leur-valeur-sur-le-marche-du-travail
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment un meme diplome peut avoir une valeur tres differente selon le contexte.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecole comme lieu de socialisation
+slug: l-ecole-comme-lieu-de-socialisation
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Au-dela des savoirs, un role essentiel dans l'apprentissage de la vie collective.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les determinants sociaux de l'abandon scolaire
+slug: les-determinants-sociaux-de-l-abandon-scolaire
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Un phenomene aux causes multiples, souvent liees a des difficultes economiques ou familiales.
+tags: [education-et-mobilite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'education comparee entre differents systemes nationaux
+slug: l-education-comparee-entre-differents-systemes-nationaux
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Ce que la comparaison internationale revele sur les choix educatifs possibles.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sociologie de l'enseignement superieur
+slug: la-sociologie-de-l-enseignement-superieur
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment l'universite reproduit, ou au contraire attenue, certaines inegalites sociales.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la bibliotheque dans l'acces au savoir
+slug: le-role-de-la-bibliotheque-dans-l-acces-au-savoir
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Une institution ancienne qui reste un levier essentiel d'egalite educative.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'education dans les situations de crise et de conflit
+slug: l-education-dans-les-situations-de-crise-et-de-conflit
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment maintenir l'acces au savoir des enfants meme en periode d'instabilite majeure.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation professionnelle des adultes en reconversion
+slug: la-formation-professionnelle-des-adultes-en-reconversion
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment le systeme educatif s'adapte a des besoins qui evoluent tout au long de la vie active.
+tags: [education-et-mobilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sociologie des filieres d'elite
+slug: la-sociologie-des-filieres-d-elite
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Comment certains parcours educatifs concentrent des avantages sociaux durables.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'universite comme institution
+slug: l-histoire-de-l-universite-comme-institution
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Une organisation ancienne dont le modele a durablement structure l'enseignement superieur mondial.
+tags: [education-et-mobilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le conformisme social, mecanismes psychologiques
+slug: le-conformisme-social-mecanismes-psychologiques
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Pourquoi les individus alignent souvent leur comportement sur celui du groupe.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'experience de conformite d'Asch
+slug: l-experience-de-conformite-d-asch
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Une experience celebre qui a revele la force de la pression sociale sur le jugement individuel.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'experience de Milgram sur l'obeissance a l'autorite
+slug: l-experience-de-milgram-sur-l-obeissance-a-l-autorite
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Une etude marquante qui a interroge les limites de l'obeissance humaine.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Ce que l'experience de Milgram a vraiment demontre
+slug: ce-que-l-experience-de-milgram-a-vraiment-demontre
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Une reinterpretation qui nuance certaines conclusions initialement tirees de cette experience.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet spectateur et la diffusion de la responsabilite
+slug: l-effet-spectateur-et-la-diffusion-de-la-responsabilite
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Pourquoi la presence d'autres personnes peut, paradoxalement, reduire l'aide apportee.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La confiance sociale, un capital collectif
+slug: la-confiance-sociale-un-capital-collectif
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment ce lien invisible facilite la cooperation au sein d'une societe.
+tags: [groupes-et-normes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le capital social, definition et role
+slug: le-capital-social-definition-et-role
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Un ensemble de relations qui, comme une ressource, peut beneficier a un individu ou un groupe.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cooperation dans la gestion des biens communs
+slug: la-cooperation-dans-la-gestion-des-biens-communs
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment des communautes reussissent, ou echouent, a gerer collectivement une ressource partagee.
+tags: [groupes-et-normes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Elinor Ostrom et la gestion durable des biens communs
+slug: elinor-ostrom-et-la-gestion-durable-des-biens-communs
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Une chercheuse qui a montre que la cooperation locale peut reussir la ou la theorie predisait l'echec.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tragedie des biens communs, un concept classique
+slug: la-tragedie-des-biens-communs-un-concept-classique
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Un modele theorique qui explique pourquoi une ressource partagee peut etre surexploitee.
+tags: [groupes-et-normes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rites de passage dans differentes cultures
+slug: les-rites-de-passage-dans-differentes-cultures
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Des ceremonies qui marquent, de maniere tres variee, les etapes importantes de la vie.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role social des fetes collectives
+slug: le-role-social-des-fetes-collectives
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment ces moments partages renforcent la cohesion d'un groupe humain.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mouvements sociaux, mecanismes de mobilisation
+slug: les-mouvements-sociaux-mecanismes-de-mobilisation
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment un groupe d'individus parvient a s'organiser autour d'une cause commune.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La theorie de l'action collective
+slug: la-theorie-de-l-action-collective
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Pourquoi il est parfois difficile de mobiliser un groupe, meme autour d'un interet partage.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La famille, une institution en transformation
+slug: la-famille-une-institution-en-transformation
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment cette structure sociale de base a evolue significativement au fil des decennies.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nouvelles formes de famille contemporaines
+slug: les-nouvelles-formes-de-famille-contemporaines
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Une diversite croissante de configurations familiales qui questionne les modeles traditionnels.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des normes sociales implicites
+slug: le-role-des-normes-sociales-implicites
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment des regles non ecrites influencent, sans qu'on en ait toujours conscience, nos comportements.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deviance sociale, une construction relative
+slug: la-deviance-sociale-une-construction-relative
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Pourquoi ce qui est considere comme deviant varie fortement selon le contexte culturel.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle social, formel et informel
+slug: le-controle-social-formel-et-informel
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment une societe maintient l'ordre au-dela des seules lois et de la police.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les groupes d'appartenance et de reference
+slug: les-groupes-d-appartenance-et-de-reference
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment on se definit par rapport a des groupes que l'on frequente, ou auxquels on aspire.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sociologie des reseaux sociaux hors ligne
+slug: la-sociologie-des-reseaux-sociaux-hors-ligne
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment les relations interpersonnelles structurent, bien avant internet, la vie sociale.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lien social et l'isolement dans les societes modernes
+slug: le-lien-social-et-l-isolement-dans-les-societes-modernes
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Ce que les sociologues observent sur l'evolution des liens humains contemporains.
+tags: [groupes-et-normes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La solidarite communautaire en situation de crise
+slug: la-solidarite-communautaire-en-situation-de-crise
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment les groupes humains s'organisent spontanement face a une catastrophe.
+tags: [groupes-et-normes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de reciprocite dans les echanges sociaux
+slug: les-normes-de-reciprocite-dans-les-echanges-sociaux
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Un principe universel qui structure une grande part des relations humaines.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sociologie du travail en equipe
+slug: la-sociologie-du-travail-en-equipe
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment un groupe professionnel developpe ses propres normes et dynamiques internes.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les stereotypes de groupe et leur formation
+slug: les-stereotypes-de-groupe-et-leur-formation
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment le cerveau simplifie, parfois de maniere trompeuse, la perception des groupes sociaux.
+tags: [groupes-et-normes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La polarisation de groupe, un phenomene amplificateur
+slug: la-polarisation-de-groupe-un-phenomene-amplificateur
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment discuter entre personnes d'accord renforce souvent les positions initiales.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du leader informel dans un groupe
+slug: le-role-du-leader-informel-dans-un-groupe
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment une autorite peut emerger sans jamais avoir ete officiellement designee.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cohesion de groupe et ses facteurs
+slug: la-cohesion-de-groupe-et-ses-facteurs
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Ce qui rend un groupe plus ou moins soude face a l'adversite.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rituels de groupe et leur fonction sociale
+slug: les-rituels-de-groupe-et-leur-fonction-sociale
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Comment des pratiques repetees renforcent le sentiment d'appartenance commune.
+tags: [groupes-et-normes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

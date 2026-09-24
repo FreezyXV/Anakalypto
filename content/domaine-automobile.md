@@ -5017,3 +5017,4203 @@ constructeurs, applications et assureurs.
 
 [Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
 
+
+---
+type: article
+title: Le marche automobile chinois et sa croissance
+slug: le-marche-automobile-chinois-et-sa-croissance
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment la Chine est devenue en quelques decennies le premier marche automobile mondial.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les constructeurs automobiles low-cost
+slug: les-constructeurs-automobiles-low-cost
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment certaines marques proposent des vehicules a des prix tres reduits.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consolidation des constructeurs automobiles par fusions
+slug: la-consolidation-des-constructeurs-automobiles-par-fusions
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Pourquoi de nombreuses marques historiques appartiennent aujourd'hui a de grands groupes.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche automobile indien et ses particularites
+slug: le-marche-automobile-indien-et-ses-particularites
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un marche domine par de petits vehicules adaptes a un contexte economique specifique.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La depreciation d'une voiture neuve
+slug: la-depreciation-d-une-voiture-neuve
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Pourquoi une voiture perd une part importante de sa valeur des la sortie du concessionnaire.
+tags: [marche]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche des vehicules d'occasion et son fonctionnement
+slug: le-marche-des-vehicules-d-occasion-et-son-fonctionnement
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment se fixe le prix d'une voiture qui a deja change de proprietaire.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les concessions automobiles face a la vente en ligne
+slug: les-concessions-automobiles-face-a-la-vente-en-ligne
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment le modele de distribution automobile evolue avec le numerique.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les marques automobiles de niche et le marche du luxe
+slug: les-marques-automobiles-de-niche-et-le-marche-du-luxe
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un segment particulier ou volume et rentabilite ne suivent pas les memes regles.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche automobile africain et ses defis specifiques
+slug: le-marche-automobile-africain-et-ses-defis-specifiques
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Des enjeux d'infrastructure et de pouvoir d'achat propres a ce continent.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les taxes et malus ecologiques sur les vehicules neufs
+slug: les-taxes-et-malus-ecologiques-sur-les-vehicules-neufs
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment la fiscalite influence directement les choix d'achat automobile.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche des pieces detachees automobiles
+slug: le-marche-des-pieces-detachees-automobiles
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un secteur economique important, distinct de la vente des vehicules eux-memes.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La contrefacon de pieces automobiles
+slug: la-contrefacon-de-pieces-automobiles
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un marche parallele qui pose de reels risques de securite.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche des vehicules utilitaires legers
+slug: le-marche-des-vehicules-utilitaires-legers
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un segment professionnel dont la demande suit de pres l'activite economique.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les salons automobiles et leur declin progressif
+slug: les-salons-automobiles-et-leur-declin-progressif
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment ces evenements historiques ont perdu de leur importance face au numerique.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche automobile japonais et ses specificites
+slug: le-marche-automobile-japonais-et-ses-specificites
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un marche domine par de petits vehicules adaptes a un espace urbain reduit.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La publicite automobile et son evolution historique
+slug: la-publicite-automobile-et-son-evolution-historique
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment les codes publicitaires ont change avec les valeurs de chaque epoque.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche des voitures de collection
+slug: le-marche-des-voitures-de-collection
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment certaines voitures anciennes prennent de la valeur plutot que d'en perdre.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les strategies de gamme des constructeurs automobiles
+slug: les-strategies-de-gamme-des-constructeurs-automobiles
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment une marque segmente ses modeles pour toucher differents budgets.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le financement automobile et le credit-bail
+slug: le-financement-automobile-et-le-credit-bail
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Des solutions financieres qui ont change la maniere d'acquerir une voiture.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche automobile sud-americain
+slug: le-marche-automobile-sud-americain
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Des dynamiques economiques et industrielles propres a cette region du monde.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distribution automobile directe sans concessionnaire
+slug: la-distribution-automobile-directe-sans-concessionnaire
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un modele recent adopte par certains nouveaux constructeurs.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche des vehicules de sport et de performance
+slug: le-marche-des-vehicules-de-sport-et-de-performance
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un segment reduit mais symboliquement important pour l'image des marques.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact des penuries de composants sur le marche automobile
+slug: l-impact-des-penuries-de-composants-sur-le-marche-automobile
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment une crise industrielle peut faire grimper durablement les prix.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche automobile russe et son isolement recent
+slug: le-marche-automobile-russe-et-son-isolement-recent
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Des bouleversements majeurs lies au contexte geopolitique international.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les strategies d'exportation des constructeurs automobiles
+slug: les-strategies-d-exportation-des-constructeurs-automobiles
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment une marque adapte ses modeles a des marches tres differents.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche des vehicules electriques d'occasion
+slug: le-marche-des-vehicules-electriques-d-occasion
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un segment nouveau avec des questions specifiques sur l'etat de la batterie.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La garantie constructeur et son role commercial
+slug: la-garantie-constructeur-et-son-role-commercial
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment cette promesse influence la confiance des acheteurs.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche automobile coreen et son essor international
+slug: le-marche-automobile-coreen-et-son-essor-international
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Comment des marques longtemps discretes sont devenues des references mondiales.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les foires et enchères automobiles specialisees
+slug: les-foires-et-encheres-automobiles-specialisees
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un circuit de vente particulier, notamment pour les vehicules rares ou anciens.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des flottes d'entreprise dans le marche automobile
+slug: le-role-des-flottes-d-entreprise-dans-le-marche-automobile
+categoryPath: automobile/industrie-automobile/marche
+summary: >
+  Un segment d'achat important, avec des criteres tres differents des particuliers.
+tags: [marche]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaine de montage et son invention par Ford
+slug: la-chaine-de-montage-et-son-invention-par-ford
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment cette methode a rendu la voiture accessible au plus grand nombre.
+tags: [production, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La robotisation des usines automobiles
+slug: la-robotisation-des-usines-automobiles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment l'automatisation a transforme profondement la production de vehicules.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le juste-a-temps dans la production automobile
+slug: le-juste-a-temps-dans-la-production-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une methode qui reduit les stocks mais rend la chaine plus vulnerable aux chocs.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'emboutissage de la tole automobile
+slug: l-emboutissage-de-la-tole-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une etape essentielle qui donne sa forme a la carrosserie d'une voiture.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La peinture automobile et ses etapes industrielles
+slug: la-peinture-automobile-et-ses-etapes-industrielles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Un processus complexe en plusieurs couches, essentiel a la protection du vehicule.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'assemblage final d'une voiture, etape par etape
+slug: l-assemblage-final-d-une-voiture-etape-par-etape
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment des milliers de pieces se rejoignent pour former un vehicule complet.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle qualite dans l'industrie automobile
+slug: le-controle-qualite-dans-l-industrie-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Des tests systematiques a chaque etape pour eviter tout defaut a la livraison.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sous-traitance automobile et les equipementiers
+slug: la-sous-traitance-automobile-et-les-equipementiers
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Pourquoi un constructeur ne fabrique lui-meme qu'une partie de sa propre voiture.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usines automobiles flexibles multi-modeles
+slug: les-usines-automobiles-flexibles-multi-modeles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment une meme ligne de production peut fabriquer plusieurs vehicules differents.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La delocalisation de la production automobile
+slug: la-delocalisation-de-la-production-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Pourquoi certains constructeurs ont deplace leur production vers d'autres pays.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moulage sous pression dans la fabrication automobile
+slug: le-moulage-sous-pression-dans-la-fabrication-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une technique qui permet de produire rapidement des pieces metalliques complexes.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production de moteurs, un savoir-faire industriel a part
+slug: la-production-de-moteurs-un-savoir-faire-industriel-a-part
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Pourquoi la fabrication d'un moteur reste distincte du reste de la voiture.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de securite au travail dans les usines automobiles
+slug: les-normes-de-securite-au-travail-dans-les-usines-automobiles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment l'industrie a fait evoluer ses pratiques pour proteger ses ouvriers.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production juste-in-sequence des composants automobiles
+slug: la-production-juste-in-sequence-des-composants-automobiles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Livrer une piece precise au moment exact ou elle est necessaire sur la chaine.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impression 3D dans la production automobile
+slug: l-impression-3d-dans-la-production-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une technologie encore marginale, mais utile pour le prototypage rapide.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication des pneus automobiles
+slug: la-fabrication-des-pneus-automobiles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Un processus industriel complexe qui melange caoutchouc, textile et acier.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des chutes de production automobile
+slug: le-recyclage-des-chutes-de-production-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment l'industrie reduit ses dechets directement sur la chaine de fabrication.
+tags: [production, essentiel-reconstruction]
+priority: 3
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production automobile pendant les crises sanitaires
+slug: la-production-automobile-pendant-les-crises-sanitaires
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment une pandemie a bouleverse durablement les chaines de production mondiales.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usines automobiles alimentees en energie renouvelable
+slug: les-usines-automobiles-alimentees-en-energie-renouvelable
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une tendance recente pour reduire l'empreinte carbone de la fabrication elle-meme.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production de batteries automobiles a grande echelle
+slug: la-production-de-batteries-automobiles-a-grande-echelle
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Un nouveau defi industriel impose par l'essor du vehicule electrique.
+tags: [production]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gigafactories et la production massive de batteries
+slug: les-gigafactories-et-la-production-massive-de-batteries
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Des usines d'une taille inedite dediees uniquement au stockage electrique.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite de la peinture et sa resistance dans le temps
+slug: la-qualite-de-la-peinture-et-sa-resistance-dans-le-temps
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Pourquoi une simple couche de couleur doit resister a des annees d'exposition.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le soudage automatise dans l'industrie automobile
+slug: le-soudage-automatise-dans-l-industrie-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment des robots assemblent avec precision des milliers de points de soudure.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production automobile artisanale des petites series
+slug: la-production-automobile-artisanale-des-petites-series
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment certains constructeurs de niche fabriquent encore a la main.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact des greves sur la production automobile
+slug: l-impact-des-greves-sur-la-production-automobile
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment un mouvement social peut interrompre completement une chaine de montage.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des pieces automobiles entre modeles
+slug: la-normalisation-des-pieces-automobiles-entre-modeles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment reutiliser une meme piece sur plusieurs voitures reduit les couts.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production automobile et la gestion des dechets industriels
+slug: la-production-automobile-et-la-gestion-des-dechets-industriels
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment une usine automobile traite ce qu'elle ne peut pas reutiliser directement.
+tags: [production, essentiel-reconstruction]
+priority: 3
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests d'endurance avant le lancement d'un nouveau modele
+slug: les-tests-d-endurance-avant-le-lancement-d-un-nouveau-modele
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Des millions de kilometres parcourus avant qu'une voiture n'arrive chez le client.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production automobile en periode de penurie de semi-conducteurs
+slug: la-production-automobile-en-periode-de-penurie-de-semi-conducteurs
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Comment l'industrie a du adapter ses lignes face a un manque de composants electroniques.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le montage des sieges et des interieurs automobiles
+slug: le-montage-des-sieges-et-des-interieurs-automobiles
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Une etape ou se rejoignent mecanique, textile et electronique embarquee.
+tags: [production]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des normes de securite automobile
+slug: l-histoire-des-normes-de-securite-automobile
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment la ceinture de securite et l'airbag sont devenus obligatoires.
+tags: [reglementation-automobile]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation du bruit des vehicules
+slug: la-reglementation-du-bruit-des-vehicules
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des normes qui limitent le niveau sonore autorise pour une voiture.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le permis de conduire, histoire et evolutions
+slug: le-permis-de-conduire-histoire-et-evolutions
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment ce document est devenu une etape obligatoire pour conduire.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des vitesses maximales autorisees
+slug: la-reglementation-des-vitesses-maximales-autorisees
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment les limitations de vitesse ont evolue selon les epoques et les pays.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes d'homologation d'un vehicule neuf
+slug: les-normes-d-homologation-d-un-vehicule-neuf
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Les etapes obligatoires avant qu'une voiture puisse etre vendue legalement.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation de l'alcool au volant
+slug: la-reglementation-de-l-alcool-au-volant
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment les seuils legaux ont evolue avec les connaissances sur les risques.
+tags: [reglementation-automobile]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois sur les telephones au volant
+slug: les-lois-sur-les-telephones-au-volant
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Une reglementation recente face a un risque devenu majeur sur la route.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des sieges enfants dans les vehicules
+slug: la-reglementation-des-sieges-enfants-dans-les-vehicules
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des normes precises concues pour proteger les plus jeunes passagers.
+tags: [reglementation-automobile]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes environnementales et le cycle de test des vehicules
+slug: les-normes-environnementales-et-le-cycle-de-test-des-vehicules
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment on mesure officiellement la consommation et les emissions d'une voiture.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le scandale du dieselgate et ses consequences reglementaires
+slug: le-scandale-du-dieselgate-et-ses-consequences-reglementaires
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Une fraude majeure qui a durablement change le controle des emissions.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des vehicules anciens et de collection
+slug: la-reglementation-des-vehicules-anciens-et-de-collection
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des regles adaptees specifiquement a des voitures qui ne repondent plus aux normes actuelles.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois sur l'assurance automobile obligatoire
+slug: les-lois-sur-l-assurance-automobile-obligatoire
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Pourquoi assurer sa voiture est devenu une obligation legale presque partout.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des vehicules electriques et leurs aides
+slug: la-reglementation-des-vehicules-electriques-et-leurs-aides
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment les Etats encouragent, ou parfois freinent, cette transition.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de securite pour les vehicules autonomes
+slug: les-normes-de-securite-pour-les-vehicules-autonomes
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Un cadre juridique encore en construction pour une technologie tres recente.
+tags: [reglementation-automobile]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation du transport de marchandises dangereuses par route
+slug: la-reglementation-du-transport-de-marchandises-dangereuses-par-route
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des regles strictes qui encadrent un risque potentiellement grave.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois sur le stationnement et leur evolution urbaine
+slug: les-lois-sur-le-stationnement-et-leur-evolution-urbaine
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment les villes reglementent un espace de plus en plus dispute.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des vehicules importes
+slug: la-reglementation-des-vehicules-importes
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des normes specifiques pour verifier la conformite d'une voiture venue d'un autre pays.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les controles routiers et leur role dans la securite
+slug: les-controles-routiers-et-leur-role-dans-la-securite
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment la presence des forces de l'ordre influence les comportements au volant.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation du transport scolaire
+slug: la-reglementation-du-transport-scolaire
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des normes de securite renforcees specifiquement pour ce type de vehicule.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois sur les zones a faibles emissions en Europe
+slug: les-lois-sur-les-zones-a-faibles-emissions-en-europe
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment differents pays ont adapte un meme principe a leur contexte local.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des deux-roues motorises
+slug: la-reglementation-des-deux-roues-motorises
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des regles distinctes de celles des voitures, adaptees a un vehicule different.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de retrofit electrique des vehicules anciens
+slug: les-normes-de-retrofit-electrique-des-vehicules-anciens
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Une reglementation recente qui encadre la conversion d'une voiture thermique en electrique.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des vehicules de location
+slug: la-reglementation-des-vehicules-de-location
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des obligations specifiques qui incombent aux societes de location automobile.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois sur la publicite automobile et l'environnement
+slug: les-lois-sur-la-publicite-automobile-et-l-environnement
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment certains pays encadrent desormais la promotion des vehicules polluants.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation internationale du transport routier
+slug: la-reglementation-internationale-du-transport-routier
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Comment des accords entre pays harmonisent certaines regles de circulation.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de resistance au choc lateral
+slug: les-normes-de-resistance-au-choc-lateral
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Une exigence de securite specifique, distincte du choc frontal classique.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation du covoiturage et des plateformes numeriques
+slug: la-reglementation-du-covoiturage-et-des-plateformes-numeriques
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Un cadre juridique recent pour un usage qui a explose avec le numerique.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois sur la formation continue des conducteurs professionnels
+slug: les-lois-sur-la-formation-continue-des-conducteurs-professionnels
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Pourquoi certains metiers exigent un renouvellement regulier des competences.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des vehicules agricoles sur route
+slug: la-reglementation-des-vehicules-agricoles-sur-route
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Des regles particulieres pour des engins qui ne sont pas concus pour la route classique.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes d'accessibilite des vehicules pour personnes handicapees
+slug: les-normes-d-accessibilite-des-vehicules-pour-personnes-handicapees
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Une reglementation qui vise a rendre la mobilite automobile plus inclusive.
+tags: [reglementation-automobile]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le GPL, un carburant alternatif ancien
+slug: le-gpl-un-carburant-alternatif-ancien
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Une technologie deja mature, longtemps utilisee avant l'essor de l'electrique.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le GNV, rouler au gaz naturel
+slug: le-gnv-rouler-au-gaz-naturel
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Une alternative au diesel et a l'essence, avec une infrastructure encore limitee.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ethanol comme carburant automobile
+slug: l-ethanol-comme-carburant-automobile
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Un carburant issu de la fermentation de plantes, utilise pur ou en melange.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bioethanol E85 et son adoption progressive
+slug: le-bioethanol-e85-et-son-adoption-progressive
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Un carburant qui melange essence et alcool agricole en forte proportion.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biodiesel issu d'huiles usagees
+slug: le-biodiesel-issu-d-huiles-usagees
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Une valorisation directe de dechets alimentaires en carburant automobile.
+tags: [carburants-alternatifs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les carburants de synthese pour vehicules thermiques existants
+slug: les-carburants-de-synthese-pour-vehicules-thermiques-existants
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Une piste qui vise a decarboner sans remplacer le parc automobile actuel.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene comprime pour l'automobile
+slug: l-hydrogene-comprime-pour-l-automobile
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Un carburant qui necessite des reservoirs specifiques capables de resister a haute pression.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les stations-service a hydrogene et leur rarete
+slug: les-stations-service-a-hydrogene-et-leur-rarete
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Pourquoi l'infrastructure reste le principal obstacle a ce carburant.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le methanol comme carburant automobile alternatif
+slug: le-methanol-comme-carburant-automobile-alternatif
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Un carburant liquide facile a produire, mais peu repandu dans l'automobile.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison des carburants alternatifs par bilan carbone
+slug: la-comparaison-des-carburants-alternatifs-par-bilan-carbone
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Quelle alternative offre reellement le meilleur compromis environnemental.
+tags: [carburants-alternatifs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs bicarburation essence-GPL
+slug: les-moteurs-bicarburation-essence-gpl
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Une technologie qui permet de basculer entre deux carburants selon la disponibilite.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des premiers vehicules a hydrogene
+slug: l-histoire-des-premiers-vehicules-a-hydrogene
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Des prototypes anciens, parfois oublies, qui ont explore cette voie des le XXe siecle.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout de production compare des carburants alternatifs
+slug: le-cout-de-production-compare-des-carburants-alternatifs
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Pourquoi certains carburants restent plus chers que le petrole malgre les progres.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vehicules bicarburation gaz naturel et biogaz
+slug: les-vehicules-bicarburation-gaz-naturel-et-biogaz
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Comment un meme moteur peut fonctionner avec des sources de gaz differentes.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation des moteurs existants aux carburants alternatifs
+slug: l-adaptation-des-moteurs-existants-aux-carburants-alternatifs
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Ce qu'il faut modifier, ou non, sur un moteur pour changer de carburant.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le potentiel des algues comme source de biocarburant
+slug: le-potentiel-des-algues-comme-source-de-biocarburant
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Une piste de recherche prometteuse, mais encore loin d'une production a grande echelle.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vehicules a carburant alternatif dans les flottes publiques
+slug: les-vehicules-a-carburant-alternatif-dans-les-flottes-publiques
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Comment certaines collectivites ont adopte ces technologies avant le grand public.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La disponibilite geographique des carburants alternatifs
+slug: la-disponibilite-geographique-des-carburants-alternatifs
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Pourquoi ces solutions restent inegalement accessibles selon les regions.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les incitations fiscales pour les carburants alternatifs
+slug: les-incitations-fiscales-pour-les-carburants-alternatifs
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Comment certains gouvernements encouragent financierement ces choix de motorisation.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement energetique compare des carburants alternatifs
+slug: le-rendement-energetique-compare-des-carburants-alternatifs
+categoryPath: automobile/motorisations/carburants-alternatifs
+summary: >
+  Pourquoi produire un litre de carburant alternatif ne coute pas la meme energie selon la filiere.
+tags: [carburants-alternatifs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur electrique automobile, principe general
+slug: le-moteur-electrique-automobile-principe-general
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Comment un moteur electrique transforme du courant en mouvement, sans combustion.
+tags: [electrique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de moteurs electriques automobiles
+slug: les-differents-types-de-moteurs-electriques-automobiles
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Synchrone, asynchrone : deux architectures aux compromis differents.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des batteries au-dela du lithium-ion
+slug: la-chimie-des-batteries-au-dela-du-lithium-ion
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Des recherches en cours sur des alternatives plus stables ou moins couteuses.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries sodium-ion, une alternative emergente
+slug: les-batteries-sodium-ion-une-alternative-emergente
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Une technologie qui pourrait reduire la dependance a certains metaux rares.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recharge rapide et ses limites techniques
+slug: la-recharge-rapide-et-ses-limites-techniques
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Pourquoi il existe une vitesse de recharge maximale sans endommager la batterie.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau de bornes de recharge publiques
+slug: le-reseau-de-bornes-de-recharge-publiques
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Comment se deploie, plus ou moins vite selon les regions, cette infrastructure.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recharge a domicile et ses installations necessaires
+slug: la-recharge-a-domicile-et-ses-installations-necessaires
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Ce qu'il faut prevoir chez soi pour recharger une voiture electrique.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'autonomie hivernale des vehicules electriques
+slug: l-autonomie-hivernale-des-vehicules-electriques
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Pourquoi le froid reduit sensiblement l'autonomie d'une batterie.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vieillissement des batteries de voiture electrique
+slug: le-vieillissement-des-batteries-de-voiture-electrique
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Comment la capacite d'une batterie diminue progressivement avec le temps et l'usage.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La garantie batterie des constructeurs electriques
+slug: la-garantie-batterie-des-constructeurs-electriques
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Ce que couvrent, ou non, les engagements des constructeurs sur la duree de vie.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poids des voitures electriques et ses consequences
+slug: le-poids-des-voitures-electriques-et-ses-consequences
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Comment la batterie alourdit sensiblement un vehicule par rapport a un thermique.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison de cout d'usage entre thermique et electrique
+slug: la-comparaison-de-cout-d-usage-entre-thermique-et-electrique
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Ce que change reellement le passage a l'electrique sur le budget d'un menage.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bruit artificiel des vehicules electriques a basse vitesse
+slug: le-bruit-artificiel-des-vehicules-electriques-a-basse-vitesse
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Une obligation reglementaire pour proteger les pietons d'un vehicule trop silencieux.
+tags: [electrique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le second marche des voitures electriques d'occasion
+slug: le-second-marche-des-voitures-electriques-d-occasion
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Un segment nouveau, ou l'etat de la batterie devient le critere central.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de la conduite sur l'autonomie electrique
+slug: l-impact-de-la-conduite-sur-l-autonomie-electrique
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Comment le style de conduite influence bien plus l'autonomie que sur un thermique.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les microcars electriques urbaines
+slug: les-microcars-electriques-urbaines
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Une categorie de vehicules tres legers, adaptes uniquement aux courts trajets urbains.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaine de traction electrique complete
+slug: la-chaine-de-traction-electrique-complete
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Batterie, onduleur, moteur : comment l'energie circule dans une voiture electrique.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement des batteries de vehicules electriques
+slug: le-refroidissement-des-batteries-de-vehicules-electriques
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Pourquoi la gestion thermique est aussi critique que la chimie de la batterie elle-meme.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vehicules electriques a batterie echangeable
+slug: les-vehicules-electriques-a-batterie-echangeable
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Une alternative a la recharge classique : remplacer la batterie plutot que la recharger.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de la recharge electrique sur le reseau electrique local
+slug: l-impact-de-la-recharge-electrique-sur-le-reseau-electrique-local
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Comment la multiplication des voitures electriques questionne la capacite du reseau.
+tags: [electrique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general de l'hybride essence-electrique
+slug: le-principe-general-de-l-hybride-essence-electrique
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Comment deux sources d'energie se completent dans un meme vehicule.
+tags: [motorisations-hybrides]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hybride serie contre l'hybride parallele
+slug: l-hybride-serie-contre-l-hybride-parallele
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Deux architectures differentes pour combiner moteur thermique et electrique.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hybride rechargeable (plug-in), un compromis particulier
+slug: l-hybride-rechargeable-plug-in-un-compromis-particulier
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Un vehicule capable de rouler en electrique pur sur de courtes distances.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le micro-hybride et son assistance electrique limitee
+slug: le-micro-hybride-et-son-assistance-electrique-limitee
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Une hybridation legere qui n'offre pas de roulage tout electrique.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion electronique de la repartition d'energie hybride
+slug: la-gestion-electronique-de-la-repartition-d-energie-hybride
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Comment un ordinateur decide en permanence quelle source d'energie utiliser.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la premiere voiture hybride commerciale
+slug: l-histoire-de-la-premiere-voiture-hybride-commerciale
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Comment ce type de motorisation s'est impose progressivement sur le marche.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le freinage regeneratif dans les vehicules hybrides
+slug: le-freinage-regeneratif-dans-les-vehicules-hybrides
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Comment le systeme recupere de l'energie meme sans recharge exterieure.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avantages de l'hybride en usage urbain
+slug: les-avantages-de-l-hybride-en-usage-urbain
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Pourquoi cette motorisation est particulierement efficace dans les embouteillages.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La batterie des vehicules hybrides, plus petite mais essentielle
+slug: la-batterie-des-vehicules-hybrides-plus-petite-mais-essentielle
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Une capacite bien plus reduite que celle d'un vehicule tout electrique.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hybrides dans le sport automobile
+slug: les-hybrides-dans-le-sport-automobile
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Comment cette technologie a fait son entree dans les competitions de haut niveau.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison hybride contre electrique pur
+slug: la-comparaison-hybride-contre-electrique-pur
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Deux approches differentes pour reduire la consommation de carburant.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien specifique d'un vehicule hybride
+slug: l-entretien-specifique-d-un-vehicule-hybride
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Ce qui change, et ce qui reste identique, par rapport a un vehicule thermique classique.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hybrides dans les flottes de taxis
+slug: les-hybrides-dans-les-flottes-de-taxis
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Pourquoi cette motorisation s'est largement imposee dans ce secteur specifique.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout d'achat supplementaire d'un vehicule hybride
+slug: le-cout-d-achat-supplementaire-d-un-vehicule-hybride
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Pourquoi cette technologie reste generalement plus chere qu'un vehicule thermique classique.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fiabilite a long terme des motorisations hybrides
+slug: la-fiabilite-a-long-terme-des-motorisations-hybrides
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Ce que revelent les statistiques apres plusieurs annees de recul sur cette technologie.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hybrides utilitaires legers pour les livraisons urbaines
+slug: les-hybrides-utilitaires-legers-pour-les-livraisons-urbaines
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Une motorisation adaptee a des trajets courts et frequents en ville.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hybridation des vehicules lourds et des camions
+slug: l-hybridation-des-vehicules-lourds-et-des-camions
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Un defi technique different, lie au poids et a l'usage intensif de ces vehicules.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des batteries des vehicules hybrides
+slug: le-recyclage-des-batteries-des-vehicules-hybrides
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Une question specifique, distincte de celle des batteries de vehicules tout electriques.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation reelle des hybrides selon le type de trajet
+slug: la-consommation-reelle-des-hybrides-selon-le-type-de-trajet
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Pourquoi les chiffres officiels varient fortement entre usage urbain et autoroutier.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir des motorisations hybrides face a l'electrification totale
+slug: l-avenir-des-motorisations-hybrides-face-a-l-electrification-totale
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Une technologie de transition dont la duree de vie commerciale reste incertaine.
+tags: [motorisations-hybrides]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle a quatre temps expliqué en detail
+slug: le-cycle-a-quatre-temps-explique-en-detail
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Admission, compression, combustion, echappement : les quatre etapes d'un moteur thermique.
+tags: [thermique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le taux de compression d'un moteur essence
+slug: le-taux-de-compression-d-un-moteur-essence
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Un parametre cle qui influence directement puissance et rendement.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cliquetis moteur et ses causes
+slug: le-cliquetis-moteur-et-ses-causes
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une combustion anormale qui peut endommager severement un moteur essence.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme d'allumage electronique moderne
+slug: le-systeme-d-allumage-electronique-moderne
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Comment une etincelle precisement synchronisee declenche la combustion.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La culasse et son role dans un moteur thermique
+slug: la-culasse-et-son-role-dans-un-moteur-thermique
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une piece essentielle qui abrite les soupapes et la chambre de combustion.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vilebrequin, transformer un mouvement lineaire en rotation
+slug: le-vilebrequin-transformer-un-mouvement-lineaire-en-rotation
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une piece mecanique centrale qui traduit l'explosion en mouvement utile.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les segments de piston et l'etancheite du moteur
+slug: les-segments-de-piston-et-l-etancheite-du-moteur
+categoryPath: automobile/motorisations/thermique
+summary: >
+  De petites pieces essentielles qui empechent les fuites entre piston et cylindre.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distribution par courroie contre par chaine
+slug: la-distribution-par-courroie-contre-par-chaine
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Deux technologies differentes avec des implications sur l'entretien du moteur.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur diesel, principe de l'auto-inflammation
+slug: le-moteur-diesel-principe-de-l-auto-inflammation
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Contrairement a l'essence, ce moteur n'a pas besoin de bougie pour s'allumer.
+tags: [thermique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'injection directe dans les moteurs essence modernes
+slug: l-injection-directe-dans-les-moteurs-essence-modernes
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une technique qui a ameliore significativement le rendement des moteurs a essence.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de depollution des moteurs diesel (AdBlue)
+slug: le-systeme-de-depollution-des-moteurs-diesel-adblue
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une solution chimique injectee pour reduire les oxydes d'azote a l'echappement.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le downsizing moteur, faire plus petit mais plus efficace
+slug: le-downsizing-moteur-faire-plus-petit-mais-plus-efficace
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une strategie industrielle pour reduire la consommation sans sacrifier la puissance.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme start-stop automatique
+slug: le-systeme-start-stop-automatique
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une fonction simple qui coupe le moteur a l'arret pour economiser du carburant.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La suralimentation par turbocompresseur, principe detaille
+slug: la-suralimentation-par-turbocompresseur-principe-detaille
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Comment on force davantage d'air dans le moteur pour augmenter sa puissance.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement par air contre par liquide
+slug: le-refroidissement-par-air-contre-par-liquide
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Deux approches historiques differentes pour evacuer la chaleur d'un moteur.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lubrification moteur et les differents types d'huile
+slug: la-lubrification-moteur-et-les-differents-types-d-huile
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Pourquoi le choix de la viscosite d'huile n'est jamais arbitraire.
+tags: [thermique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pot catalytique, transformer chimiquement les gaz d'echappement
+slug: le-pot-catalytique-transformer-chimiquement-les-gaz-d-echappement
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Un dispositif discret mais essentiel pour reduire la pollution locale.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission manuelle contre automatique
+slug: la-transmission-manuelle-contre-automatique
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Deux philosophies de conduite, avec des compromis de plaisir et d'efficacite.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La boite de vitesses a double embrayage
+slug: la-boite-de-vitesses-a-double-embrayage
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une technologie qui combine rapidite de passage des rapports et confort de conduite.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur rotatif Wankel dans l'automobile
+slug: le-moteur-rotatif-wankel-dans-l-automobile
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une architecture rare, plus compacte mais moins repandue qu'un moteur a pistons.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission integrale permanente
+slug: la-transmission-integrale-permanente
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Comment certains vehicules repartissent en continu la puissance sur les quatre roues.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le circuit de refroidissement et le role du liquide antigel
+slug: le-circuit-de-refroidissement-et-le-role-du-liquide-antigel
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Pourquoi ce liquide protege le moteur autant du gel que de la surchauffe.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La combustion pauvre et ses limites techniques
+slug: la-combustion-pauvre-et-ses-limites-techniques
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une piste d'amelioration du rendement, limitee par des contraintes de stabilite.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur diesel et son declin dans les ventes automobiles
+slug: le-moteur-diesel-et-son-declin-dans-les-ventes-automobiles
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Comment ce type de moteur a perdu en quelques annees une grande partie de sa popularite.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La technologie de coupure de cylindres
+slug: la-technologie-de-coupure-de-cylindres
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Comment un moteur peut desactiver temporairement certains cylindres pour economiser du carburant.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le remplissage variable des cylindres
+slug: le-remplissage-variable-des-cylindres
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une technique avancee pour optimiser la combustion selon le regime moteur.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fiabilite comparee des moteurs essence et diesel
+slug: la-fiabilite-comparee-des-moteurs-essence-et-diesel
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Ce que revelent les statistiques d'entretien sur le long terme.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur thermique face aux nouvelles normes d'emissions
+slug: le-moteur-thermique-face-aux-nouvelles-normes-d-emissions
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Comment cette technologie ancienne continue de s'adapter a des contraintes croissantes.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La combustion homogene a allumage commande (HCCI)
+slug: la-combustion-homogene-a-allumage-commande-hcci
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une technologie experimentale qui combine avantages du diesel et de l'essence.
+tags: [thermique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien preventif d'un moteur thermique
+slug: l-entretien-preventif-d-un-moteur-thermique
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Les gestes reguliers qui prolongent significativement la duree de vie d'un moteur.
+tags: [thermique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le regulateur de vitesse adaptatif
+slug: le-regulateur-de-vitesse-adaptatif
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Un systeme qui ajuste automatiquement la vitesse selon le trafic devant le vehicule.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'alerte de franchissement de ligne
+slug: l-alerte-de-franchissement-de-ligne
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Un dispositif qui previent le conducteur d'une sortie involontaire de voie.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le maintien automatique dans la voie de circulation
+slug: le-maintien-automatique-dans-la-voie-de-circulation
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Une assistance qui corrige legerement la trajectoire sans reprendre le controle total.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de stationnement a ultrasons
+slug: les-capteurs-de-stationnement-a-ultrasons
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Une technologie simple et ancienne, devenue quasi universelle sur les vehicules recents.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La camera de recul et son role dans la securite
+slug: la-camera-de-recul-et-son-role-dans-la-securite
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Un dispositif qui a considerablement reduit les accidents de manoeuvre arriere.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'angle mort et les systemes de detection associes
+slug: l-angle-mort-et-les-systemes-de-detection-associes
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Comment la technologie compense une limite physique de la vision humaine.
+tags: [aides-a-la-conduite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le regulateur de vitesse limiteur
+slug: le-regulateur-de-vitesse-limiteur
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Deux fonctions souvent confondues mais aux usages tres differents.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconnaissance des panneaux de signalisation
+slug: la-reconnaissance-des-panneaux-de-signalisation
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Comment une camera embarquee identifie et affiche les limitations de vitesse.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'assistance au stationnement automatique
+slug: l-assistance-au-stationnement-automatique
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Un systeme qui prend en charge tout ou partie de la manoeuvre de stationnement.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La detection de fatigue du conducteur
+slug: la-detection-de-fatigue-du-conducteur
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Comment un vehicule peut analyser des signes subtils de somnolence au volant.
+tags: [aides-a-la-conduite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le freinage d'urgence automatique pieton
+slug: le-freinage-d-urgence-automatique-pieton
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Une adaptation specifique du freinage automatique pour proteger les usagers vulnerables.
+tags: [aides-a-la-conduite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'alerte de collision arriere
+slug: l-alerte-de-collision-arriere
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Un systeme qui previent le conducteur d'un risque de choc par l'arriere.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vision nocturne assistee par infrarouge
+slug: la-vision-nocturne-assistee-par-infrarouge
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Une technologie qui detecte des obstacles invisibles a l'oeil nu la nuit.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'affichage tete haute dans les voitures grand public
+slug: l-affichage-tete-haute-dans-les-voitures-grand-public
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Comment cette technologie longtemps reservee a l'aviation a gagne l'automobile.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle de stabilite electronique (ESP)
+slug: le-controle-de-stabilite-electronique-esp
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Un systeme qui corrige automatiquement une perte d'adherence en virage.
+tags: [aides-a-la-conduite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'antipatinage et son role sur route glissante
+slug: l-antipatinage-et-son-role-sur-route-glissante
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Comment ce systeme evite qu'une roue ne tourne dans le vide sans traction.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les radars anticollision a courte et longue portee
+slug: les-radars-anticollision-a-courte-et-longue-portee
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Deux types de capteurs complementaires pour couvrir differentes distances de detection.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'assistance a la conduite sur autoroute
+slug: l-assistance-a-la-conduite-sur-autoroute
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Un ensemble combine de fonctions qui reduit la charge mentale sur de longs trajets.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La detection d'angle mort pour les deux-roues
+slug: la-detection-d-angle-mort-pour-les-deux-roues
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Une adaptation specifique face a un usager particulierement vulnerable en ville.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle adaptatif des phares
+slug: le-controle-adaptatif-des-phares
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Comment l'eclairage s'ajuste automatiquement selon la circulation environnante.
+tags: [aides-a-la-conduite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le niveau 2 d'automatisation, deja present sur de nombreux vehicules
+slug: le-niveau-2-d-automatisation-deja-present-sur-de-nombreux-vehicules
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Ce que le conducteur doit encore assumer meme avec ces aides avancees.
+tags: [conduite-autonome]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le niveau 3, une delegation partielle mais reelle
+slug: le-niveau-3-une-delegation-partielle-mais-reelle
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Un seuil technique et legal ou la responsabilite commence a changer de main.
+tags: [conduite-autonome]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cartographie haute definition pour vehicules autonomes
+slug: la-cartographie-haute-definition-pour-vehicules-autonomes
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Pourquoi une voiture autonome a besoin d'une carte bien plus precise qu'un GPS classique.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs lidar dans la conduite autonome
+slug: les-capteurs-lidar-dans-la-conduite-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Une technologie de mesure par laser essentielle a la perception de l'environnement.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fusion de capteurs pour la conduite autonome
+slug: la-fusion-de-capteurs-pour-la-conduite-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Comment combiner plusieurs sources d'information ameliore la fiabilite du systeme.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les dilemmes ethiques de la conduite autonome
+slug: les-dilemmes-ethiques-de-la-conduite-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Des questions philosophiques concretes que les ingenieurs doivent traduire en code.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La responsabilite juridique en cas d'accident autonome
+slug: la-responsabilite-juridique-en-cas-d-accident-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Un flou juridique encore largement en construction dans de nombreux pays.
+tags: [conduite-autonome]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de vehicules autonomes en conditions reelles
+slug: les-tests-de-vehicules-autonomes-en-conditions-reelles
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Comment les constructeurs valident leurs systemes avant deploiement commercial.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conduite autonome en environnement urbain complexe
+slug: la-conduite-autonome-en-environnement-urbain-complexe
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Pourquoi la ville reste un defi bien plus difficile que l'autoroute pour ces systemes.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les navettes autonomes en site protege
+slug: les-navettes-autonomes-en-site-protege
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Une premiere etape plus simple, deployee dans des environnements controles.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybersecurite des vehicules autonomes
+slug: la-cybersecurite-des-vehicules-autonomes
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Pourquoi un vehicule qui se conduit seul devient une cible informatique specifique.
+tags: [conduite-autonome]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du conducteur de secours dans les tests autonomes
+slug: le-role-du-conducteur-de-secours-dans-les-tests-autonomes
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Un metier temporaire ne avec le developpement de cette technologie.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La perception des pietons par un vehicule autonome
+slug: la-perception-des-pietons-par-un-vehicule-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Un des defis techniques les plus complexes de cette technologie.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les accidents impliquant des vehicules autonomes
+slug: les-accidents-impliquant-des-vehicules-autonomes
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Ce que ces incidents ont revele sur les limites actuelles de la technologie.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conduite autonome en conditions meteorologiques degradees
+slug: la-conduite-autonome-en-conditions-meteorologiques-degradees
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Pourquoi pluie et neige restent des obstacles majeurs pour ces systemes.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acceptabilite sociale de la conduite autonome
+slug: l-acceptabilite-sociale-de-la-conduite-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Ce que les enquetes revelent sur la confiance du public envers cette technologie.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les niveaux 4 et 5, vers l'autonomie complete
+slug: les-niveaux-4-et-5-vers-l-autonomie-complete
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Ce qui separe encore les systemes actuels d'une conduite totalement sans intervention.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des ingenieurs a la conduite autonome
+slug: la-formation-des-ingenieurs-a-la-conduite-autonome
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Un domaine recent qui melange mecanique, informatique et intelligence artificielle.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les camions autonomes et le transport de marchandises
+slug: les-camions-autonomes-et-le-transport-de-marchandises
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Un usage envisage avant la voiture particuliere, sur des trajets plus previsibles.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le retour d'experience des premiers deploiements de robotaxis
+slug: le-retour-d-experience-des-premiers-deploiements-de-robotaxis
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Ce que les premieres flottes commerciales revelent en conditions reelles.
+tags: [conduite-autonome]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones de deformation programmee
+slug: les-zones-de-deformation-programmee
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Comment une carrosserie concue pour se plier absorbe l'energie d'un choc.
+tags: [securite-passive, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'airbag, principe et declenchement
+slug: l-airbag-principe-et-declenchement
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Un dispositif qui doit se gonfler en quelques millisecondes pour etre efficace.
+tags: [securite-passive, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La ceinture de securite et son histoire
+slug: la-ceinture-de-securite-et-son-histoire
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Une invention simple qui a sauve plus de vies que toute autre technologie automobile.
+tags: [securite-passive, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pretensionneur de ceinture de securite
+slug: le-pretensionneur-de-ceinture-de-securite
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Un mecanisme qui resserre instantanement la ceinture des le debut d'un choc.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cellule de survie rigide de l'habitacle
+slug: la-cellule-de-survie-rigide-de-l-habitacle
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Pourquoi certaines parties de la voiture doivent au contraire rester rigides.
+tags: [securite-passive, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les airbags lateraux et de tete
+slug: les-airbags-lateraux-et-de-tete
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Une protection specifique contre les chocs qui ne viennent pas de face.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le siege auto pour enfant et ses normes de securite
+slug: le-siege-auto-pour-enfant-et-ses-normes-de-securite
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Comment adapter la protection d'un choc a la morphologie d'un jeune enfant.
+tags: [securite-passive, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les appuie-tetes et la prevention du coup du lapin
+slug: les-appuie-tetes-et-la-prevention-du-coup-du-lapin
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Un element discret mais essentiel en cas de choc par l'arriere.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance au retournement de la carrosserie
+slug: la-resistance-au-retournement-de-la-carrosserie
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Un critere de securite specifique, distinct de la resistance au choc frontal.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pare-brise feuillete contre les vitres laterales trempees
+slug: le-pare-brise-feuillete-contre-les-vitres-laterales-trempees
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Deux types de verre securite avec des comportements tres differents en cas de bris.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de choc frontal a differentes vitesses
+slug: les-tests-de-choc-frontal-a-differentes-vitesses
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Comment on standardise des scenarios pour comparer la securite de vehicules differents.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de decouplage de la colonne de direction
+slug: le-systeme-de-decouplage-de-la-colonne-de-direction
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Un dispositif qui protege le conducteur d'un impact direct avec le volant.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection des pietons integree a la carrosserie
+slug: la-protection-des-pietons-integree-a-la-carrosserie
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Comment le capot et le pare-chocs sont concus pour limiter les blessures.
+tags: [securite-passive]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les extincteurs et equipements de securite obligatoires
+slug: les-extincteurs-et-equipements-de-securite-obligatoires
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Ce que chaque vehicule doit legalement transporter selon les pays.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance des reservoirs de carburant aux chocs
+slug: la-resistance-des-reservoirs-de-carburant-aux-chocs
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Pourquoi un reservoir doit survivre a un impact violent sans prendre feu.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le desenfumage et l'evacuation rapide apres un accident
+slug: le-desenfumage-et-l-evacuation-rapide-apres-un-accident
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Des elements de conception qui facilitent la sortie des occupants en urgence.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mannequins de crash-test et leur sophistication
+slug: les-mannequins-de-crash-test-et-leur-sophistication
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Des instruments de mesure tres complexes qui simulent le corps humain.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite passive specifique aux vehicules electriques
+slug: la-securite-passive-specifique-aux-vehicules-electriques
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Des enjeux particuliers lies a la presence d'une batterie haute tension.
+tags: [securite-passive]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme d'appel d'urgence automatique apres un accident (eCall)
+slug: le-systeme-d-appel-d-urgence-automatique-apres-un-accident-ecall
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Un dispositif qui alerte les secours automatiquement en cas de choc grave.
+tags: [securite-passive, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite passive des vehicules utilitaires et poids lourds
+slug: la-securite-passive-des-vehicules-utilitaires-et-poids-lourds
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Des contraintes tres differentes de celles des voitures particulieres.
+tags: [securite-passive]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le carnet d'entretien et son role dans la valeur du vehicule
+slug: le-carnet-d-entretien-et-son-role-dans-la-valeur-du-vehicule
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Pourquoi un historique complet rassure fortement un futur acheteur.
+tags: [entretien-et-cycle-de-vie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vidange, frequence et importance reelle
+slug: la-vidange-frequence-et-importance-reelle
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Un entretien simple mais determinant pour la longevite d'un moteur.
+tags: [entretien-et-cycle-de-vie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'usure des plaquettes et disques de frein
+slug: l-usure-des-plaquettes-et-disques-de-frein
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Comment reconnaitre les signes d'usure avant qu'ils ne deviennent dangereux.
+tags: [entretien-et-cycle-de-vie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pression des pneus et son impact sur la securite
+slug: la-pression-des-pneus-et-son-impact-sur-la-securite
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Un controle simple, souvent neglige, qui influence pourtant l'adherence et la consommation.
+tags: [entretien-et-cycle-de-vie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le remplacement de la courroie de distribution
+slug: le-remplacement-de-la-courroie-de-distribution
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Une piece dont la defaillance peut endommager gravement tout un moteur.
+tags: [entretien-et-cycle-de-vie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien de la climatisation automobile
+slug: l-entretien-de-la-climatisation-automobile
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Un systeme souvent oublie jusqu'a ce qu'il tombe en panne.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie moyenne d'une voiture aujourd'hui
+slug: la-duree-de-vie-moyenne-d-une-voiture-aujourd-hui
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Comment cette duree a evolue avec les progres de fiabilite mecanique.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage prolonge d'un vehicule inutilise
+slug: le-stockage-prolonge-d-un-vehicule-inutilise
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Les precautions necessaires pour qu'une voiture reste en bon etat sans rouler.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La revente d'une voiture, preparer le vehicule
+slug: la-revente-d-une-voiture-preparer-le-vehicule
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Des gestes simples qui peuvent augmenter significativement la valeur de revente.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle technique, ce qui est verifie precisement
+slug: le-controle-technique-ce-qui-est-verifie-precisement
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Un tour d'horizon detaille des points systematiquement inspectes.
+tags: [entretien-et-cycle-de-vie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La corrosion de la carrosserie et sa prevention
+slug: la-corrosion-de-la-carrosserie-et-sa-prevention
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Comment l'humidite et le sel de deneigement accelerent la degradation du metal.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien specifique d'une voiture electrique
+slug: l-entretien-specifique-d-une-voiture-electrique
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Ce qui change radicalement, et ce qui reste identique, par rapport a un thermique.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie d'une batterie de voiture electrique
+slug: la-duree-de-vie-d-une-batterie-de-voiture-electrique
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Combien de cycles de charge une batterie peut-elle reellement supporter.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le remplacement des amortisseurs uses
+slug: le-remplacement-des-amortisseurs-uses
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Des signes discrets mais reels d'une usure qui degrade la securite.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien de la chaine de transmission
+slug: l-entretien-de-la-chaine-de-transmission
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Une piece souvent oubliee mais essentielle a la fiabilite du vehicule.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La destruction reglementee d'un vehicule hors d'usage
+slug: la-destruction-reglementee-d-un-vehicule-hors-d-usage
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Un processus encadre pour eviter les abandons sauvages de vehicules.
+tags: [entretien-et-cycle-de-vie, essentiel-reconstruction]
+priority: 3
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des pieces automobiles reutilisables
+slug: le-recyclage-des-pieces-automobiles-reutilisables
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Comment certaines pieces d'occasion trouvent une seconde vie sur d'autres vehicules.
+tags: [entretien-et-cycle-de-vie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La depollution obligatoire avant destruction d'un vehicule
+slug: la-depollution-obligatoire-avant-destruction-d-un-vehicule
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Une etape essentielle pour retirer les fluides et composants dangereux.
+tags: [entretien-et-cycle-de-vie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien preventif contre l'entretien curatif
+slug: l-entretien-preventif-contre-l-entretien-curatif
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Deux philosophies d'entretien qui n'ont pas le meme cout sur le long terme.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La revision periodique constructeur, ce qu'elle inclut vraiment
+slug: la-revision-periodique-constructeur-ce-qu-elle-inclut-vraiment
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Ce que couvre reellement une revision par rapport a un simple entretien basique.
+tags: [entretien-et-cycle-de-vie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'autopartage en libre-service urbain
+slug: l-autopartage-en-libre-service-urbain
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Un modele qui permet d'utiliser une voiture sans en etre proprietaire.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le covoiturage longue distance et son organisation
+slug: le-covoiturage-longue-distance-et-son-organisation
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment des plateformes ont structure une pratique auparavant informelle.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vehicules en libre-service electriques
+slug: les-vehicules-en-libre-service-electriques
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Un modele qui combine mobilite partagee et transition energetique.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact environnemental de la mobilite partagee
+slug: l-impact-environnemental-de-la-mobilite-partagee
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Ce que les etudes montrent reellement sur la reduction du nombre de vehicules.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le modele economique des plateformes de VTC
+slug: le-modele-economique-des-plateformes-de-vtc
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment ces services generent des revenus tout en fixant des prix variables.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation des VTC face aux taxis traditionnels
+slug: la-reglementation-des-vtc-face-aux-taxis-traditionnels
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Un conflit reglementaire qui a marque de nombreuses villes dans le monde.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le covoiturage domicile-travail et ses incitations
+slug: le-covoiturage-domicile-travail-et-ses-incitations
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment certaines entreprises et collectivites encouragent cette pratique.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les micro-vehicules partages en ville
+slug: les-micro-vehicules-partages-en-ville
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Une categorie legere adaptee aux tres courtes distances urbaines.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de la mobilite partagee sur le taux de motorisation des menages
+slug: l-impact-de-la-mobilite-partagee-sur-le-taux-de-motorisation-des-menages
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Ce que revelent les etudes sur les foyers qui renoncent a posseder une voiture.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le covoiturage rural et ses defis specifiques
+slug: le-covoiturage-rural-et-ses-defis-specifiques
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Pourquoi ce modele fonctionne differemment en dehors des grandes villes.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des passagers dans les services de VTC
+slug: la-securite-des-passagers-dans-les-services-de-vtc
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Les mesures mises en place pour renforcer la confiance des utilisateurs.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'autopartage entre particuliers
+slug: l-autopartage-entre-particuliers
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Un modele qui permet de louer directement sa propre voiture a d'autres.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la mobilite partagee dans les zones peu desservies
+slug: le-role-de-la-mobilite-partagee-dans-les-zones-peu-desservies
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment ces services peuvent completer l'offre de transport public existante.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tarification dynamique dans les services de mobilite partagee
+slug: la-tarification-dynamique-dans-les-services-de-mobilite-partagee
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment le prix varie selon la demande, parfois de maniere tres visible.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'integration de la mobilite partagee aux transports publics
+slug: l-integration-de-la-mobilite-partagee-aux-transports-publics
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment certaines villes tentent de combiner plusieurs modes de deplacement.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le covoiturage instantane et les applications de mise en relation
+slug: le-covoiturage-instantane-et-les-applications-de-mise-en-relation
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Une evolution recente qui rapproche le covoiturage du transport a la demande.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les abonnements de mobilite multimodale
+slug: les-abonnements-de-mobilite-multimodale
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Une formule qui regroupe plusieurs moyens de transport dans un seul service.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de la mobilite partagee sur le stationnement urbain
+slug: l-impact-de-la-mobilite-partagee-sur-le-stationnement-urbain
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment moins de vehicules possedes pourrait liberer de l'espace en ville.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les freins culturels a l'adoption de la mobilite partagee
+slug: les-freins-culturels-a-l-adoption-de-la-mobilite-partagee
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Pourquoi la possession individuelle reste dominante malgre ces alternatives.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir de la mobilite partagee face aux vehicules autonomes
+slug: l-avenir-de-la-mobilite-partagee-face-aux-vehicules-autonomes
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Comment ces deux tendances technologiques pourraient converger a terme.
+tags: [mobilite-partagee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

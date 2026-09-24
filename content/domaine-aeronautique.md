@@ -3007,3 +3007,8343 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: Le nombre de Reynolds et les regimes d'ecoulement
+slug: le-nombre-de-reynolds-et-les-regimes-d-ecoulement
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un nombre sans dimension qui predit si l'air glisse en couches ou tourbillonne autour d'une aile.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La couche limite laminaire et turbulente
+slug: la-couche-limite-laminaire-et-turbulente
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Deux etats de l'air au contact de l'aile, avec des consequences opposees sur la trainee.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le decollement de la couche limite
+slug: le-decollement-de-la-couche-limite
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Quand l'air ne suit plus la surface de l'aile et que la portance s'effondre.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rainures de requin sur les avions de ligne
+slug: les-rainures-de-requin-sur-les-avions-de-ligne
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un revetement strie invente pour l'aeronautique en s'inspirant de la peau des requins.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi des aires et le fuselage en bouteille de Coca
+slug: la-loi-des-aires-et-le-fuselage-en-bouteille-de-coca
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une astuce de forme qui reduit la trainee au passage du mur du son.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nombre de Mach et ses regimes de vol
+slug: le-nombre-de-mach-et-ses-regimes-de-vol
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Subsonique, transsonique, supersonique, hypersonique : quatre mondes aerodynamiques tres differents.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Mach critique d'une aile
+slug: le-mach-critique-d-une-aile
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  La vitesse a partir de laquelle l'air accelere localement au-dela du mur du son.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tremblement transsonique (buffet)
+slug: le-tremblement-transsonique-buffet
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Des vibrations qui annoncent que l'avion approche de ses limites aerodynamiques.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ailes en delta et leur portance tourbillonnaire
+slug: les-ailes-en-delta-et-leur-portance-tourbillonnaire
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un tourbillon controle au-dessus de l'aile qui remplace la portance classique a basse vitesse.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Concorde et son aile ogivale
+slug: le-concorde-et-son-aile-ogivale
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une forme d'aile pensee pour concilier vol supersonique et atterrissage lent.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ailes a fleche variable
+slug: les-ailes-a-fleche-variable
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Des avions comme le F-14 qui changent la forme de leurs ailes en plein vol.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ailes a fleche vers l'avant
+slug: les-ailes-a-fleche-vers-l-avant
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une configuration rare, testee sur le X-29, qui retarde le decrochage en bout d'aile.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La soufflerie, simuler le vol au sol
+slug: la-soufflerie-simuler-le-vol-au-sol
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Comment on recree artificiellement l'ecoulement de l'air autour d'une maquette d'avion.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mecanique des fluides numerique (CFD)
+slug: la-mecanique-des-fluides-numerique-cfd
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Simuler l'ecoulement de l'air par ordinateur avant meme de construire un prototype.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La visualisation d'ecoulement par fumee et brins de laine
+slug: la-visualisation-d-ecoulement-par-fumee-et-brins-de-laine
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Des methodes simples pour rendre visible un air normalement invisible.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle de couche limite par aspiration
+slug: le-controle-de-couche-limite-par-aspiration
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Aspirer l'air le long de l'aile pour retarder le decrochage aerodynamique.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les becs de bord d'attaque et les vortilons
+slug: les-becs-de-bord-d-attaque-et-les-vortilons
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  De petits dispositifs qui organisent les tourbillons pour repousser le decrochage.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les configurations canard
+slug: les-configurations-canard
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une petite aile placee a l'avant qui change l'equilibre et la maniabilite de l'avion.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Aile en fleche contre aile en delta
+slug: aile-en-fleche-contre-aile-en-delta
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Deux reponses differentes au meme probleme : voler vite sans decrocher trop tot.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee d'onde au passage du mur du son
+slug: la-trainee-d-onde-au-passage-du-mur-du-son
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un pic de resistance de l'air qui disparait une fois le mur du son franchi.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet Coanda et les volets souffles
+slug: l-effet-coanda-et-les-volets-souffles
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un jet d'air qui suit une surface courbe pour augmenter artificiellement la portance.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aile a circulation controlee
+slug: l-aile-a-circulation-controlee
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Souffler de l'air par une fente pour remplacer les volets mecaniques classiques.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les categories de turbulence de sillage
+slug: les-categories-de-turbulence-de-sillage
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Comment on classe les avions pour espacer les decollages selon les tourbillons qu'ils laissent.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ingestion de vortex au sol
+slug: l-ingestion-de-vortex-au-sol
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un tourbillon qui aspire des debris du sol vers les reacteurs au decollage.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions de recherche en ecoulement laminaire naturel
+slug: les-avions-de-recherche-en-ecoulement-laminaire-naturel
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Des demonstrateurs concus pour garder l'air laminaire le plus longtemps possible sur l'aile.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bang supersonique, comment il se forme
+slug: le-bang-supersonique-comment-il-se-forme
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une onde de choc conique qui suit l'avion et frappe le sol comme un coup de tonnerre.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le X-59 et l'attenuation du bang supersonique
+slug: le-x-59-et-l-attenuation-du-bang-supersonique
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un avion experimental concu pour transformer le bang en un bruit sourd tolerable.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rapport portance-trainee, mesurer l'efficacite d'une aile
+slug: le-rapport-portance-trainee-mesurer-l-efficacite-d-une-aile
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un ratio qui resume a lui seul l'efficacite aerodynamique d'un planeur ou d'un avion.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Chuck Yeager et le franchissement du mur du son
+slug: chuck-yeager-et-le-franchissement-du-mur-du-son
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Le premier vol officiellement plus rapide que la vitesse du son, en 1947.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le F-102 et la validation de la loi des aires
+slug: le-f-102-et-la-validation-de-la-loi-des-aires
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un chasseur redessine en urgence apres avoir echoue a passer le mur du son.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cisaillement de vent et ses dangers
+slug: le-cisaillement-de-vent-et-ses-dangers
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un changement brutal de vitesse ou de direction du vent qui piege les pilotes au decollage.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microburst, une menace pour l'atterrissage
+slug: le-microburst-une-menace-pour-l-atterrissage
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une colonne d'air descendante violente responsable de plusieurs accidents historiques.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La turbulence en air clair
+slug: la-turbulence-en-air-clair
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une turbulence invisible aux radars, liee aux courants-jets, qui secoue les avions de croisiere.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ondes orographiques et le vol en montagne
+slug: les-ondes-orographiques-et-le-vol-en-montagne
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Des vagues d'air invisibles creees par le relief, exploitees ou redoutees selon l'altitude.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le courant-jet et la planification des vols
+slug: le-courant-jet-et-la-planification-des-vols
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un fleuve d'air rapide en altitude que les compagnies exploitent pour gagner du temps.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les allees de tourbillons de Karman en aeronautique
+slug: les-allees-de-tourbillons-de-karman-en-aeronautique
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un motif tourbillonnaire regulier qui se forme derriere certains obstacles dans l'ecoulement.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le flottement aeroelastique, quand une aile vibre trop
+slug: le-flottement-aeroelastique-quand-une-aile-vibre-trop
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Une resonance dangereuse entre la structure de l'aile et les forces aerodynamiques.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais en vol de flottement
+slug: les-essais-en-vol-de-flottement
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Comment les ingenieurs testent volontairement les limites de vibration d'un avion neuf.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La divergence aerodynamique et l'inversion des gouvernes
+slug: la-divergence-aerodynamique-et-l-inversion-des-gouvernes
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Quand une aile se tord tellement que les commandes produisent l'effet inverse de celui voulu.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les charges de flexion et de torsion sur une aile
+slug: les-charges-de-flexion-et-de-torsion-sur-une-aile
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Pourquoi une aile d'avion doit flechir sans se rompre pendant le vol.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol hypersonique et la barriere thermique
+slug: le-vol-hypersonique-et-la-barriere-thermique
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Au-dela de Mach 5, l'echauffement de l'air devient le vrai obstacle, plus que la portance.
+tags: [ecoulements]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les statoreacteurs et le vol hypersonique
+slug: les-statoreacteurs-et-le-vol-hypersonique
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un moteur sans piece mobile qui ne fonctionne qu'a tres grande vitesse.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'interaction onde de choc-couche limite
+slug: l-interaction-onde-de-choc-couche-limite
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Quand une onde de choc perturbe la couche limite et declenche un decollement local.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le X-15 et l'exploration du vol hypersonique habite
+slug: le-x-15-et-l-exploration-du-vol-hypersonique-habite
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un avion-fusee des annees 1960 qui a repousse les limites de vitesse et d'altitude.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecoulements transsoniques sur les pales d'helicoptere
+slug: les-ecoulements-transsoniques-sur-les-pales-d-helicoptere
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Pourquoi une pale qui avance peut approcher le mur du son alors que l'appareil vole lentement.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le decrochage dynamique des pales d'helicoptere
+slug: le-decrochage-dynamique-des-pales-d-helicoptere
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un phenomene transitoire qui augmente brievement la portance avant de la faire chuter.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tourbillons marginaux et leur visualisation
+slug: les-tourbillons-marginaux-et-leur-visualisation
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Comment on observe et mesure les tourbillons qui se forment au bout des ailes.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aerodynamique des drones a voilure fixe
+slug: l-aerodynamique-des-drones-a-voilure-fixe
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Des contraintes differentes de celles des avions habites, a tres petite echelle.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle actif des ecoulements par jets synthetiques
+slug: le-controle-actif-des-ecoulements-par-jets-synthetiques
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Souffler et aspirer alternativement de l'air pour manipuler l'ecoulement sans piece mobile.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de pression parietale en soufflerie
+slug: les-capteurs-de-pression-parietale-en-soufflerie
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  De minuscules capteurs colles sur une maquette pour cartographier les pressions de l'air.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transition laminaire-turbulent forcee par rugosite
+slug: la-transition-laminaire-turbulent-forcee-par-rugosite
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Comment une simple rayure peut declencher artificiellement la turbulence sur une aile.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nombre de Strouhal et les vibrations induites par l'ecoulement
+slug: le-nombre-de-strouhal-et-les-vibrations-induites-par-l-ecoulement
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Un parametre qui relie la frequence des tourbillons a la vitesse de l'air.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aerodynamique des ailes flexibles bio-inspirees
+slug: l-aerodynamique-des-ailes-flexibles-bio-inspirees
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Des ailes qui se deforment comme celles des oiseaux pour s'adapter au vent.
+tags: [ecoulements]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le decrochage dynamique en virage serre
+slug: le-decrochage-dynamique-en-virage-serre
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment un virage trop brutal peut declencher un decrochage meme a grande vitesse.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les dispositifs hypersustentateurs, panorama complet
+slug: les-dispositifs-hypersustentateurs-panorama-complet
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Volets, becs, generateurs de tourbillons : tout ce qui aide une aile a voler lentement.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La polaire de vitesse d'un planeur
+slug: la-polaire-de-vitesse-d-un-planeur
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une courbe qui indique la meilleure vitesse pour planer loin ou monter vite.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le centrage et les limites avant-arriere
+slug: le-centrage-et-les-limites-avant-arriere
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi un avion mal charge peut devenir instable ou incontrolable.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compensateur de profondeur (trim)
+slug: le-compensateur-de-profondeur-trim
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un petit reglage qui evite au pilote de tenir en permanence une force sur le manche.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vrille et sa recuperation
+slug: la-vrille-et-sa-recuperation
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une rotation incontrolee autour de l'axe de lacet, redoutee et pourtant maitrisable.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol dos, voler la tete en bas
+slug: le-vol-dos-voler-la-tete-en-bas
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment une aile symetrique peut porter un avion meme inverse.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ailes symetriques contre les ailes cambrees
+slug: les-ailes-symetriques-contre-les-ailes-cambrees
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Deux profils differents pour deux usages : voltige acrobatique ou vol de croisiere.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le foyer aerodynamique d'une aile
+slug: le-foyer-aerodynamique-d-une-aile
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un point theorique autour duquel varient les forces de portance selon l'incidence.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stabilite longitudinale d'un avion
+slug: la-stabilite-longitudinale-d-un-avion
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi un avion bien concu revient tout seul a une assiette stable.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'empennage en T et ses particularites
+slug: l-empennage-en-t-et-ses-particularites
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une configuration de queue qui evite le souffle des reacteurs mais pose d'autres risques.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le decrochage profond de l'empennage en T
+slug: le-decrochage-profond-de-l-empennage-en-t
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un piege aerodynamique ou l'aile masque completement le stabilisateur horizontal.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les generateurs de vortex sur les ailes
+slug: les-generateurs-de-vortex-sur-les-ailes
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  De petites ailettes qui retardent le decrochage en energisant l'ecoulement.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol en formation et l'aspiration aerodynamique
+slug: le-vol-en-formation-et-l-aspiration-aerodynamique
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment voler dans le sillage d'un autre avion peut economiser du carburant.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ailes gauchissantes des freres Wright
+slug: les-ailes-gauchissantes-des-freres-wright
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Avant les ailerons modernes, une methode ingenieuse pour controler le roulis.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'invention de l'aileron moderne
+slug: l-invention-de-l-aileron-moderne
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment le controle du roulis a evolue du gauchissement d'aile a l'aileron articule.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La portance negative d'un aileron de voiture de course
+slug: la-portance-negative-d-un-aileron-de-voiture-de-course
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Le meme principe qu'une aile d'avion, mais utilise a l'envers pour plaquer au sol.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol plane apres panne totale des moteurs
+slug: le-vol-plane-apres-panne-totale-des-moteurs
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment un avion de ligne peut parcourir des dizaines de kilometres sans moteur.
+tags: [portance, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol du Gimli Glider, un Boeing sans carburant
+slug: le-vol-du-gimli-glider-un-boeing-sans-carburant
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un avion de ligne qui s'est pose en planant apres une panne de carburant en 1983.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rapport de finesse d'un planeur de competition
+slug: le-rapport-de-finesse-d-un-planeur-de-competition
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi certains planeurs peuvent parcourir plus de soixante kilometres par kilometre de chute.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les thermiques et le vol a voile
+slug: les-thermiques-et-le-vol-a-voile
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment les pilotes de planeur exploitent l'air chaud ascendant pour gagner de l'altitude.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'onde de pente et le vol a voile en montagne
+slug: l-onde-de-pente-et-le-vol-a-voile-en-montagne
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un courant ascendant cree par le vent qui heurte un relief.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le winch-launch, decoller un planeur au treuil
+slug: le-winch-launch-decoller-un-planeur-au-treuil
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une methode de lancement sans avion remorqueur, par cable et treuil au sol.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La voltige aerienne et les figures imposees
+slug: la-voltige-aerienne-et-les-figures-imposees
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Boucles, tonneaux, vrilles : la portance mise au service du spectacle aerien.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions a geometrie variable et le decrochage
+slug: les-avions-a-geometrie-variable-et-le-decrochage
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment la fleche des ailes modifie le comportement au decrochage a basse vitesse.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mythe de l'egalite des temps de parcours
+slug: le-mythe-de-l-egalite-des-temps-de-parcours
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une explication fausse mais tenace de la portance, encore enseignee a tort.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La portance expliquee par la troisieme loi de Newton
+slug: la-portance-expliquee-par-la-troisieme-loi-de-newton
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une explication complementaire a Bernoulli, fondee sur la deviation de l'air vers le bas.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le profil d'aile laminaire des planeurs modernes
+slug: le-profil-d-aile-laminaire-des-planeurs-modernes
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une forme optimisee pour garder l'ecoulement laminaire le plus longtemps possible.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions ultralegers et leur portance a faible vitesse
+slug: les-avions-ultralegers-et-leur-portance-a-faible-vitesse
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Des appareils tres legers qui volent a des vitesses proches du decrochage classique.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le decrochage asymetrique et le depart en vrille
+slug: le-decrochage-asymetrique-et-le-depart-en-vrille
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Quand une aile decroche avant l'autre et fait basculer l'avion sur le cote.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avertisseurs de decrochage (stick shaker)
+slug: les-avertisseurs-de-decrochage-stick-shaker
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un dispositif qui secoue artificiellement le manche pour prevenir le pilote a temps.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme anti-decrochage automatique (stick pusher)
+slug: le-systeme-anti-decrochage-automatique-stick-pusher
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Quand l'ordinateur de bord pousse le nez vers le bas pour eviter le decrochage.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'accident du vol Air France 447 et la perte de vitesse
+slug: l-accident-du-vol-air-france-447-et-la-perte-de-vitesse
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment une confusion sur la vitesse a mene a un decrochage inexpliqué par l'equipage.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les volets Fowler et leur deploiement complexe
+slug: les-volets-fowler-et-leur-deploiement-complexe
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un type de volet qui recule et s'abaisse pour augmenter fortement la surface portante.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les becs de bord d'attaque automatiques
+slug: les-becs-de-bord-d-attaque-automatiques
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Des dispositifs qui se deploient seuls sous l'effet de la pression de l'air.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le braquage differentiel des ailerons
+slug: le-braquage-differentiel-des-ailerons
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi les deux ailerons ne bougent pas toujours du meme angle.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les spoilers et leur double role
+slug: les-spoilers-et-leur-double-role
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Des freins aerodynamiques qui servent aussi a controler le roulis en vol.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roulis induit par le lacet
+slug: le-roulis-induit-par-le-lacet
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment un mouvement de lacet peut provoquer un roulis non desire.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La stabilite laterale et le dievre des ailes
+slug: la-stabilite-laterale-et-le-dievre-des-ailes
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi les ailes de nombreux avions sont legerement relevees vers le haut.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions a aile volante et leur controle
+slug: les-avions-a-aile-volante-et-leur-controle
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Sans queue ni fuselage classique, comment ces avions restent-ils stables.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le B-2 et les defis de l'aile volante furtive
+slug: le-b-2-et-les-defis-de-l-aile-volante-furtive
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un bombardier sans empennage qui a demande des decennies de recherche en stabilite.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions biplans et leur portance combinee
+slug: les-avions-biplans-et-leur-portance-combinee
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi deux ailes superposees ont dominé l'aviation avant les annees 1930.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le passage du biplan au monoplan
+slug: le-passage-du-biplan-au-monoplan
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une revolution aerodynamique qui a reduit la trainee au prix de nouveaux defis structurels.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ailes en mouette inversee
+slug: les-ailes-en-mouette-inversee
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Une forme d'aile en V invente, utilisee notamment sur le Chance Vought Corsair.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Corsair et son aile en W
+slug: le-corsair-et-son-aile-en-w
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi ce chasseur de la Seconde Guerre mondiale avait des ailes si particulieres.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hydravions et la portance au decollage sur l'eau
+slug: les-hydravions-et-la-portance-au-decollage-sur-l-eau
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment un flotteur ou une coque modifie le comportement aerodynamique au decollage.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de sol chez les oiseaux planeurs
+slug: l-effet-de-sol-chez-les-oiseaux-planeurs
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi les pelicans volent si pres de la surface de l'eau.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les records d'altitude en vol a voile
+slug: les-records-d-altitude-en-vol-a-voile
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Comment des planeurs ont atteint plus de 15000 metres grace aux ondes stratospheriques.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Perlan Project et le vol stratospherique sans moteur
+slug: le-perlan-project-et-le-vol-stratospherique-sans-moteur
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Un planeur experimental concu pour explorer la stratosphere grace aux ondes polaires.
+tags: [portance]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La portance en vol stationnaire d'un hélicoptère
+slug: la-portance-en-vol-stationnaire-d-un-helicoptere
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Pourquoi un helicoptere consomme plus d'energie immobile qu'en vol de translation.
+tags: [portance]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee parasite et ses composantes
+slug: la-trainee-parasite-et-ses-composantes
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Frottement, forme et interference : trois sources de resistance qui n'aident jamais l'avion.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee induite par la portance
+slug: la-trainee-induite-par-la-portance
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Un cout aerodynamique inevitable qui augmente quand l'avion vole lentement.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le coefficient de trainee, mesurer l'aerodynamisme
+slug: le-coefficient-de-trainee-mesurer-l-aerodynamisme
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Un nombre sans dimension qui compare l'efficacite de differentes formes d'avions.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le carenage des trains d'atterrissage
+slug: le-carenage-des-trains-d-atterrissage
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi certains petits avions cachent leurs roues sous des carenages profiles.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee d'interference entre l'aile et le fuselage
+slug: la-trainee-d-interference-entre-l-aile-et-le-fuselage
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Un surcout de resistance cree la ou deux surfaces se rencontrent.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rivets affleurants et la trainee de surface
+slug: les-rivets-affleurants-et-la-trainee-de-surface
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi les avions modernes evitent les rivets qui depassent de la peau de l'appareil.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le polissage et le nettoyage des avions de ligne
+slug: le-polissage-et-le-nettoyage-des-avions-de-ligne
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment la proprete d'un fuselage influence reellement la consommation de carburant.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les carenages de mat reacteur
+slug: les-carenages-de-mat-reacteur
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Des formes etudiees pour limiter la trainee la ou le moteur rejoint l'aile.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee de base d'un fuselage
+slug: la-trainee-de-base-d-un-fuselage
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  La resistance creee par la zone de sillage a l'arriere de l'avion.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les winglets, reduire la trainee induite
+slug: les-winglets-reduire-la-trainee-induite
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  De petites ailettes verticales qui recuperent une partie de l'energie perdue en bout d'aile.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sharklets et raked wingtips, variantes de winglets
+slug: les-sharklets-et-raked-wingtips-variantes-de-winglets
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Differentes formes de bouts d'aile pour le meme objectif d'economie de carburant.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee de compressibilite pres du mur du son
+slug: la-trainee-de-compressibilite-pres-du-mur-du-son
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Une augmentation brutale de la resistance de l'air juste avant la vitesse du son.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tourbillon marginal et son energie perdue
+slug: le-tourbillon-marginal-et-son-energie-perdue
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment un tourbillon en bout d'aile represente une perte d'energie mesurable.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La finesse aerodynamique en croisiere
+slug: la-finesse-aerodynamique-en-croisiere
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Le rapport entre portance et trainee qui determine la distance franchissable.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pliage des bouts d'aile au sol
+slug: le-pliage-des-bouts-d-aile-au-sol
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi certains avions de ligne recents replient leurs ailes sur le tarmac.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des antennes et capteurs exterieurs
+slug: la-trainee-des-antennes-et-capteurs-exterieurs
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Meme de petits objets exterieurs ajoutent une resistance mesurable a grande vitesse.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aerodynamique des reservoirs externes
+slug: l-aerodynamique-des-reservoirs-externes
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment des reservoirs supplementaires modifient la trainee et l'autonomie d'un avion.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee de sillage des avions en formation serree
+slug: la-trainee-de-sillage-des-avions-en-formation-serree
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment la position dans le sillage d'un autre avion change la resistance ressentie.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le record de finesse des planeurs modernes
+slug: le-record-de-finesse-des-planeurs-modernes
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Certains planeurs depassent 70 de rapport portance-trainee, un record d'efficacite.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des skis sur les avions polaires
+slug: la-trainee-des-skis-sur-les-avions-polaires
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment on adapte un avion pour atterrir sur neige sans trop penaliser sa vitesse.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nettoyage aerodynamique d'un avion de chasse
+slug: le-nettoyage-aerodynamique-d-un-avion-de-chasse
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi les avions militaires cachent capteurs et armements pour rester furtifs et rapides.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee liee au givre sur les surfaces portantes
+slug: la-trainee-liee-au-givre-sur-les-surfaces-portantes
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Meme une fine couche de givre peut degrader fortement l'aerodynamique d'une aile.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests en soufflerie de trainee totale
+slug: les-tests-en-soufflerie-de-trainee-totale
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment on mesure precisement la resistance globale d'une maquette d'avion.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction de trainee par gestion de la couche limite
+slug: la-reduction-de-trainee-par-gestion-de-la-couche-limite
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Aspirer ou souffler l'air pres de la paroi pour retarder les pertes d'energie.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fuselage a section optimisee des avions modernes
+slug: le-fuselage-a-section-optimisee-des-avions-modernes
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi la forme exacte d'un fuselage cylindrique n'a rien d'arbitraire.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des avions supersoniques en croisiere
+slug: la-trainee-des-avions-supersoniques-en-croisiere
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi voler plus vite que le son coute nettement plus cher en carburant.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais de trainee en vol reel
+slug: les-essais-de-trainee-en-vol-reel
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment on verifie en conditions reelles les predictions faites en soufflerie.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee de refroidissement des moteurs a piston
+slug: la-trainee-de-refroidissement-des-moteurs-a-piston
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  L'air necessaire pour refroidir un moteur cree lui-meme une resistance a l'avancement.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capots NACA et la reduction de trainee des moteurs
+slug: les-capots-naca-et-la-reduction-de-trainee-des-moteurs
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Une invention des annees 1920 qui a change la silhouette des avions a helice.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee de la voilure haute contre la voilure basse
+slug: la-trainee-de-la-voilure-haute-contre-la-voilure-basse
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Deux positions d'aile qui n'ont pas exactement le meme cout aerodynamique.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rapport poids-trainee dans la conception d'un avion
+slug: le-rapport-poids-trainee-dans-la-conception-d-un-avion
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi les ingenieurs doivent sans cesse arbitrer entre legerete et aerodynamisme.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des trains d'atterrissage non retractables
+slug: la-trainee-des-trains-d-atterrissage-non-retractables
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi de nombreux petits avions gardent des roues fixes malgre le cout en vitesse.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de la charge alaire sur la trainee induite
+slug: l-effet-de-la-charge-alaire-sur-la-trainee-induite
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi une aile plus grande pour le meme poids reduit certaines pertes aerodynamiques.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des avions cargo a large fuselage
+slug: la-trainee-des-avions-cargo-a-large-fuselage
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment la forme imposee par le chargement influence l'efficacite aerodynamique.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de trainee du Concorde en soufflerie
+slug: les-tests-de-trainee-du-concorde-en-soufflerie
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Des annees de recherche pour equilibrer vitesse supersonique et consommation.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee de forme des drones a voilure fixe
+slug: la-trainee-de-forme-des-drones-a-voilure-fixe
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Des contraintes aerodynamiques specifiques a de tres petits engins volants.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nombre de Froude et la trainee des hydravions
+slug: le-nombre-de-froude-et-la-trainee-des-hydravions
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Un parametre qui decrit la resistance creee par un flotteur a la surface de l'eau.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee induite par les rafales de vent
+slug: la-trainee-induite-par-les-rafales-de-vent
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment les turbulences ponctuelles augmentent temporairement la resistance ressentie par l'avion.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aerodynamique des reservoirs de carburant integres a l'aile
+slug: l-aerodynamique-des-reservoirs-de-carburant-integres-a-l-aile
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Loger le carburant dans l'aile elle-meme sans creer de surcout aerodynamique majeur.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des portes et trappes ouvertes en vol
+slug: la-trainee-des-portes-et-trappes-ouvertes-en-vol
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Meme un train d'atterrissage en cours de sortie modifie brutalement la resistance.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de trainee par fil tendu (tuft testing)
+slug: les-tests-de-trainee-par-fil-tendu-tuft-testing
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Une methode simple et economique pour visualiser les zones de decollement d'air.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction de trainee par gestion active des volets
+slug: la-reduction-de-trainee-par-gestion-active-des-volets
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Ajuster finement la position des volets en croisiere pour optimiser chaque phase de vol.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee comparee des avions a reaction et a helice
+slug: la-trainee-comparee-des-avions-a-reaction-et-a-helice
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Deux familles de propulsion qui n'ont pas le meme optimum aerodynamique.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du carenage aerodynamique des trains classiques
+slug: l-histoire-du-carenage-aerodynamique-des-trains-classiques
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Bien avant l'aviation, l'aerodynamisme des trains a inspire certains ingenieurs aeronautiques.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee et la consommation de carburant a long-courrier
+slug: la-trainee-et-la-consommation-de-carburant-a-long-courrier
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Pourquoi un gain de trainee minime represente des economies enormes sur un vol de dix heures.
+tags: [trainee]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etudes de trainee sur maquettes a echelle reduite
+slug: les-etudes-de-trainee-sur-maquettes-a-echelle-reduite
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment on extrapole les resultats d'une petite maquette a un avion grandeur reelle.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des surfaces mobiles en position neutre
+slug: la-trainee-des-surfaces-mobiles-en-position-neutre
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Meme immobiles, les gouvernes de vol ne sont jamais totalement neutres aerodynamiquement.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de trainee des avions solaires longue duree
+slug: les-tests-de-trainee-des-avions-solaires-longue-duree
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Chaque gramme de resistance compte quand l'unique source d'energie est le soleil.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee des cables et haubans des premiers avions
+slug: la-trainee-des-cables-et-haubans-des-premiers-avions
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Avant les structures monocoques, une foret de cables freinait fortement les premiers appareils.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction de trainee par forme laminaire naturelle du fuselage
+slug: la-reduction-de-trainee-par-forme-laminaire-naturelle-du-fuselage
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Etudier la forme du fuselage lui-meme pour prolonger l'ecoulement laminaire.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de mesure de trainee embarques
+slug: les-instruments-de-mesure-de-trainee-embarques
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Comment un avion d'essai mesure en temps reel sa propre resistance aerodynamique.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trainee residuelle apres optimisation complete d'un avion
+slug: la-trainee-residuelle-apres-optimisation-complete-d-un-avion
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Meme sur l'avion le plus abouti, une part de resistance reste incompressible.
+tags: [trainee]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le certificat de navigabilite d'un avion
+slug: le-certificat-de-navigabilite-d-un-avion
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Le document qui atteste qu'un appareil precis respecte les normes de securite.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agence europeenne de securite aerienne (AESA)
+slug: l-agence-europeenne-de-securite-aerienne-aesa
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  L'organisme qui certifie les avions civils en Europe, face a la FAA americaine.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La FAA et la certification des avions americains
+slug: la-faa-et-la-certification-des-avions-americains
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  L'autorite qui a longtemps donne le ton mondial en matiere de securite aerienne.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le processus de certification d'un nouveau modele d'avion
+slug: le-processus-de-certification-d-un-nouveau-modele-d-avion
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des annees d'essais au sol et en vol avant qu'un avion transporte des passagers.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification du Boeing 737 MAX et ses failles
+slug: la-certification-du-boeing-737-max-et-ses-failles
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un cas qui a revele les limites du systeme de delegation de certification.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La navigabilite permanente et les consignes de navigabilite
+slug: la-navigabilite-permanente-et-les-consignes-de-navigabilite
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment un avion deja en service reste sous surveillance reglementaire continue.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le manuel de vol et ses limitations
+slug: le-manuel-de-vol-et-ses-limitations
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Le document de reference qui fixe les limites d'utilisation legales d'un avion.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des pieces detachees aeronautiques
+slug: la-certification-des-pieces-detachees-aeronautiques
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi une simple vis d'avion doit venir d'un fournisseur agree.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les heures de vol d'essai avant certification
+slug: les-heures-de-vol-d-essai-avant-certification
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des milliers d'heures de tests reels avant qu'un avion soit autorise a voler commercialement.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification ETOPS pour le vol long-courrier bimoteur
+slug: la-certification-etops-pour-le-vol-long-courrier-bimoteur
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment un avion a deux moteurs est autorise a voler loin de tout aeroport.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais de resistance structurale au sol
+slug: les-essais-de-resistance-structurale-au-sol
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment on plie et teste une cellule d'avion entiere avant le premier vol.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des simulateurs de vol
+slug: la-certification-des-simulateurs-de-vol
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi un simulateur doit lui-meme etre valide pour compter comme entrainement reel.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vieillissement des flottes et la certification prolongee
+slug: le-vieillissement-des-flottes-et-la-certification-prolongee
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment on autorise des avions vieux de plusieurs decennies a continuer de voler.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des drones civils
+slug: la-certification-des-drones-civils
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des regles nouvelles, encore en construction, pour un type d'appareil recent.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de resistance au feu des materiaux de cabine
+slug: les-normes-de-resistance-au-feu-des-materiaux-de-cabine
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi les sieges et moquettes d'avion doivent resister aux flammes un temps minimal.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification acoustique des avions
+slug: la-certification-acoustique-des-avions
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment on mesure et limite le bruit qu'un avion peut legalement produire.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais de resistance a l'ingestion d'oiseaux
+slug: les-essais-de-resistance-a-l-ingestion-d-oiseaux
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi on tire litteralement des oiseaux dans les reacteurs avant certification.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des avions de voltige
+slug: la-certification-des-avions-de-voltige
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des normes structurelles renforcees pour resister aux contraintes de la voltige aerienne.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le maintien de la navigabilite par les compagnies aeriennes
+slug: le-maintien-de-la-navigabilite-par-les-compagnies-aeriennes
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Les obligations d'entretien continu qui incombent aux exploitants, pas seulement au constructeur.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des modifications apres-vente d'un avion
+slug: la-certification-des-modifications-apres-vente-d-un-avion
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi ajouter un simple equipement peut exiger une nouvelle certification partielle.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'harmonisation internationale des normes de certification
+slug: l-harmonisation-internationale-des-normes-de-certification
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment les autorites mondiales tentent de reconnaitre mutuellement leurs certifications.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des helicopteres civils
+slug: la-certification-des-helicopteres-civils
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des criteres particuliers lies au vol stationnaire et a l'autorotation.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais de givrage en conditions reelles et artificielles
+slug: les-essais-de-givrage-en-conditions-reelles-et-artificielles
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment on verifie qu'un avion peut voler en toute securite dans le givre.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des systemes de pilotage automatique
+slug: la-certification-des-systemes-de-pilotage-automatique
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi un logiciel de vol doit passer par une validation aussi stricte qu'une piece mecanique.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des pilotes d'essai dans la certification
+slug: le-role-des-pilotes-d-essai-dans-la-certification
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un metier rare qui consiste a tester volontairement les limites d'un avion neuf.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification environnementale des moteurs d'avion
+slug: la-certification-environnementale-des-moteurs-d-avion
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des limites d'emissions polluantes qui s'ajoutent aux criteres de securite classiques.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les audits de conformite des chaines de production aeronautiques
+slug: les-audits-de-conformite-des-chaines-de-production-aeronautiques
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment on verifie que chaque avion produit en serie respecte le modele certifie.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des sieges ejectables militaires
+slug: la-certification-des-sieges-ejectables-militaires
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des normes specifiques a l'aviation de combat, tres differentes du civil.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le retrait de certification d'un type d'avion
+slug: le-retrait-de-certification-d-un-type-d-avion
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Les circonstances rares ou une autorite interdit purement et simplement un modele de voler.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des avions electriques et hybrides
+slug: la-certification-des-avions-electriques-et-hybrides
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un cadre reglementaire encore en construction pour une technologie tres recente.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais de resistance a la foudre
+slug: les-essais-de-resistance-a-la-foudre
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment on verifie qu'un avion frappe par la foudre reste pilotable.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des systemes de detection d'incendie moteur
+slug: la-certification-des-systemes-de-detection-d-incendie-moteur
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des capteurs qui doivent detecter un feu en quelques secondes, sans fausse alerte.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des compagnies d'assurance dans la securite aeronautique
+slug: le-role-des-compagnies-d-assurance-dans-la-securite-aeronautique
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment les assureurs influencent indirectement les standards de securite des flottes.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des trains d'atterrissage
+slug: la-certification-des-trains-d-atterrissage
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des milliers de cycles de test avant qu'un train d'atterrissage soit approuve.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La double certification des avions militaires et civils
+slug: la-double-certification-des-avions-militaires-et-civils
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Certains appareils doivent repondre a deux referentiels de securite tres differents.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de resistance des hublots d'avion
+slug: les-normes-de-resistance-des-hublots-d-avion
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi un hublot doit resister a une difference de pression enorme.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des systemes d'oxygene d'urgence
+slug: la-certification-des-systemes-d-oxygene-d-urgence
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des masques qui doivent se deployer et fonctionner en quelques secondes, sans exception.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi des incidents et le retour d'experience reglementaire
+slug: le-suivi-des-incidents-et-le-retour-d-experience-reglementaire
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment chaque incident, meme mineur, alimente les futures normes de certification.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des avions amateurs et de construction personnelle
+slug: la-certification-des-avions-amateurs-et-de-construction-personnelle
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un cadre plus souple mais toujours encadre pour les avions construits par des particuliers.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de resistance des reservoirs de carburant
+slug: les-normes-de-resistance-des-reservoirs-de-carburant
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi un reservoir d'avion doit survivre a un choc sans exploser.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification croisee des pilotes entre types d'avions
+slug: la-certification-croisee-des-pilotes-entre-types-d-avions
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi un pilote qualifie sur un avion ne peut pas en piloter un autre sans formation.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'OACI dans les standards mondiaux de securite
+slug: le-role-de-l-oaci-dans-les-standards-mondiaux-de-securite
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Une organisation de l'ONU qui fixe un socle commun de regles pour tous les pays.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des pistes et infrastructures aeroportuaires
+slug: la-certification-des-pistes-et-infrastructures-aeroportuaires
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Les normes qui s'appliquent au sol, pas seulement aux avions eux-memes.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais de resistance au crash controle
+slug: les-essais-de-resistance-au-crash-controle
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des tests destructifs volontaires pour ameliorer la survie des occupants.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des avions cargo convertis depuis des avions passagers
+slug: la-certification-des-avions-cargo-convertis-depuis-des-avions-passagers
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi transformer un avion de ligne en cargo exige une nouvelle certification partielle.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout economique de la certification aeronautique
+slug: le-cout-economique-de-la-certification-aeronautique
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi certifier un nouvel avion coute souvent plus cher que le developper.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des systemes de freinage et d'inversion de poussee
+slug: la-certification-des-systemes-de-freinage-et-d-inversion-de-poussee
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des tests rigoureux pour un systeme critique a l'atterrissage.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de resistance des portes de soute
+slug: les-normes-de-resistance-des-portes-de-soute
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un point de defaillance historique qui a conduit a des normes tres strictes.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des avions supersoniques civils modernes
+slug: la-certification-des-avions-supersoniques-civils-modernes
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Un cadre en cours de redefinition pour le retour annonce du vol supersonique commercial.
+tags: [certification-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des comites d'examen independants en securite aeronautique
+slug: le-role-des-comites-d-examen-independants-en-securite-aeronautique
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Des experts exterieurs charges de challenger les conclusions des constructeurs.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des systemes de navigation par satellite en aviation
+slug: la-certification-des-systemes-de-navigation-par-satellite-en-aviation
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Pourquoi utiliser le GPS pour l'atterrissage exige des garanties de fiabilite renforcees.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais climatiques extremes avant certification
+slug: les-essais-climatiques-extremes-avant-certification
+categoryPath: aeronautique/aviation-civile/certification-aeronautique
+summary: >
+  Comment on verifie qu'un avion fonctionne aussi bien au Sahara qu'en Siberie.
+tags: [certification-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement energetique d'un vol long-courrier
+slug: le-rendement-energetique-d-un-vol-long-courrier
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi un avion de ligne moderne consomme moins par passager qu'il y a trente ans.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biocarburants d'aviation issus des dechets
+slug: les-biocarburants-d-aviation-issus-des-dechets
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Transformer des huiles usagees ou des residus agricoles en carburant pour avions.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les carburants de synthese pour l'aviation (e-fuels)
+slug: les-carburants-de-synthese-pour-l-aviation-e-fuels
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Fabriquer un carburant d'avion a partir de CO2 capte et d'hydrogene.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'objectif de neutralite carbone de l'aviation en 2050
+slug: l-objectif-de-neutralite-carbone-de-l-aviation-en-2050
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un engagement du secteur aerien, avec des moyens encore tres incertains.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compensation carbone des vols commerciaux
+slug: la-compensation-carbone-des-vols-commerciaux
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment fonctionne, et jusqu'ou va, le principe de compenser un vol par un projet ailleurs.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mecanisme CORSIA de compensation aerienne internationale
+slug: le-mecanisme-corsia-de-compensation-aerienne-internationale
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un accord mondial encadrant les emissions de CO2 du transport aerien.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions a fuselage integre a l'aile (blended wing body)
+slug: les-avions-a-fuselage-integre-a-l-aile-blended-wing-body
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Une forme d'avion futuriste concue pour reduire fortement la consommation de carburant.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'optimisation des trajectoires de vol pour reduire les emissions
+slug: l-optimisation-des-trajectoires-de-vol-pour-reduire-les-emissions
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment un vol plus direct ou mieux profile en altitude economise du carburant.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roulage electrique au sol des avions
+slug: le-roulage-electrique-au-sol-des-avions
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Faire circuler un avion sur le tarmac sans allumer ses reacteurs.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La descente continue et l'economie de carburant a l'atterrissage
+slug: la-descente-continue-et-l-economie-de-carburant-a-l-atterrissage
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Une technique de descente qui evite les paliers gourmands en carburant.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs a tres grand taux de dilution et leur efficacite
+slug: les-moteurs-a-tres-grand-taux-de-dilution-et-leur-efficacite
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi les reacteurs modernes sont devenus si larges pour economiser du carburant.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poids des sieges et des materiaux de cabine dans la consommation
+slug: le-poids-des-sieges-et-des-materiaux-de-cabine-dans-la-consommation
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Chaque kilogramme economise en cabine reduit la consommation sur toute la duree de vie de l'avion.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions regionaux hybrides-electriques
+slug: les-avions-regionaux-hybrides-electriques
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Des projets de courte distance qui combinent moteur thermique et propulsion electrique.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene liquide comme carburant d'avion
+slug: l-hydrogene-liquide-comme-carburant-d-avion
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un carburant tres energetique mais encombrant, qui impose de repenser l'avion.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis du stockage de l'hydrogene a bord d'un avion
+slug: les-defis-du-stockage-de-l-hydrogene-a-bord-d-un-avion
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi l'hydrogene liquide exige des reservoirs bien plus gros que le kerosene.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La taxe carbone sur les billets d'avion
+slug: la-taxe-carbone-sur-les-billets-d-avion
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment certains pays tentent de faire payer le cout climatique d'un vol.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le train contre l'avion sur les courtes distances
+slug: le-train-contre-l-avion-sur-les-courtes-distances
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Une comparaison directe d'empreinte carbone qui pousse certains pays a limiter les vols courts.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les traînées de condensation et leur impact climatique reel
+slug: les-trainees-de-condensation-et-leur-impact-climatique-reel
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un effet rechauffant parfois sous-estime, distinct des emissions de CO2.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pilotage evitant les zones propices aux traînées persistantes
+slug: le-pilotage-evitant-les-zones-propices-aux-trainees-persistantes
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Devier legerement une route de vol pour limiter un effet climatique invisible.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs a propulsion distribuee electrique
+slug: les-moteurs-a-propulsion-distribuee-electrique
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Repartir la poussee sur plusieurs petits moteurs electriques plutot que deux gros reacteurs.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avion a propulsion electrique a batteries pour courtes distances
+slug: l-avion-a-propulsion-electrique-a-batteries-pour-courtes-distances
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Les limites de poids des batteries qui freinent l'electrification de l'aviation.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La densite energetique des batteries contre celle du kerosene
+slug: la-densite-energetique-des-batteries-contre-celle-du-kerosene
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi une batterie reste bien moins efficace au kilogramme qu'un carburant liquide.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couloirs aeriens optimises pour economiser le carburant
+slug: les-couloirs-aeriens-optimises-pour-economiser-le-carburant
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Redessiner les routes du ciel pour reduire collectivement la consommation mondiale.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction du poids structurel par les materiaux composites
+slug: la-reduction-du-poids-structurel-par-les-materiaux-composites
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment la fibre de carbone a permis de reduire la consommation des avions recents.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout de production des carburants d'aviation durables
+slug: le-cout-de-production-des-carburants-d-aviation-durables
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi ces carburants restent aujourd'hui plusieurs fois plus chers que le kerosene fossile.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La disponibilite limitee des matieres premieres pour les biocarburants
+slug: la-disponibilite-limitee-des-matieres-premieres-pour-les-biocarburants
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi on ne peut pas simplement remplacer tout le kerosene par des biocarburants.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aeroports et leur propre transition energetique
+slug: les-aeroports-et-leur-propre-transition-energetique
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Vehicules au sol electriques, batiments sobres : la decarbonation ne concerne pas que les avions.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La capture directe de CO2 pour produire du carburant d'aviation
+slug: la-capture-directe-de-co2-pour-produire-du-carburant-d-aviation
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Utiliser le carbone de l'air lui-meme comme matiere premiere pour un carburant de synthese.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions solaires longue duree et leurs limites d'usage
+slug: les-avions-solaires-longue-duree-et-leurs-limites-d-usage
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Des demonstrateurs capables de voler des jours, mais incapables de transporter des passagers.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction de la vitesse de croisiere pour economiser le carburant
+slug: la-reduction-de-la-vitesse-de-croisiere-pour-economiser-le-carburant
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi voler legerement plus lentement peut reduire sensiblement la consommation.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les accords volontaires des compagnies aeriennes sur le climat
+slug: les-accords-volontaires-des-compagnies-aeriennes-sur-le-climat
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Des engagements prives qui completent, ou parfois devancent, la reglementation.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le maillage des vols et le taux de remplissage des avions
+slug: le-maillage-des-vols-et-le-taux-de-remplissage-des-avions
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi un avion plein pollue beaucoup moins par passager qu'un avion a moitie vide.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions cargo et leur propre defi de decarbonation
+slug: les-avions-cargo-et-leur-propre-defi-de-decarbonation
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Le fret aerien, tres rapide mais tres emetteur, cherche aussi des alternatives.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recherche sur les moteurs a combustion enrichie a l'hydrogene
+slug: la-recherche-sur-les-moteurs-a-combustion-enrichie-a-l-hydrogene
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Bruler un melange de kerosene et d'hydrogene pour reduire les emissions sans tout changer.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les labels environnementaux pour les vols commerciaux
+slug: les-labels-environnementaux-pour-les-vols-commerciaux
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment un passager peut, ou ne peut pas, comparer l'empreinte carbone de deux vols.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction du bruit comme objectif environnemental parallele
+slug: la-reduction-du-bruit-comme-objectif-environnemental-parallele
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi la lutte contre le bruit aerien suit une trajectoire proche de celle du carbone.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les investissements publics dans l'aviation decarbonee
+slug: les-investissements-publics-dans-l-aviation-decarbonee
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Le role des subventions et des programmes de recherche nationaux et europeens.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison des empreintes carbone entre classes de voyage
+slug: la-comparaison-des-empreintes-carbone-entre-classes-de-voyage
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi voyager en classe affaires pese plus lourd au kilometre qu'en classe economique.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les alternatives au kerosene testees historiquement
+slug: les-alternatives-au-kerosene-testees-historiquement
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Des essais anciens, souvent oublies, avec du methane ou de l'hydrogene des les annees 1950.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des normes internationales dans l'adoption des SAF
+slug: le-role-des-normes-internationales-dans-l-adoption-des-saf
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment un carburant durable doit d'abord etre certifie compatible avec les moteurs existants.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation de carburant au sol pendant les attentes
+slug: la-consommation-de-carburant-au-sol-pendant-les-attentes
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi un avion qui patiente sur le tarmac consomme aussi, sans avancer.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios prospectifs de decarbonation totale de l'aviation
+slug: les-scenarios-prospectifs-de-decarbonation-totale-de-l-aviation
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Les differentes trajectoires envisagees par les experts pour un secteur difficile a decarboner.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison de l'empreinte carbone du fret aerien et maritime
+slug: la-comparaison-de-l-empreinte-carbone-du-fret-aerien-et-maritime
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi transporter une marchandise par avion coute tellement plus cher en carbone.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du recyclage des avions en fin de vie
+slug: le-role-du-recyclage-des-avions-en-fin-de-vie
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Que deviennent les materiaux d'un avion retire du service apres des decennies de vol.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cimetieres d'avions et le desert comme lieu de stockage
+slug: les-cimetieres-d-avions-et-le-desert-comme-lieu-de-stockage
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Pourquoi des dizaines d'avions retires du service sont stockes dans des zones aussi seches.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction des emissions de particules fines des reacteurs
+slug: la-reduction-des-emissions-de-particules-fines-des-reacteurs
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Un enjeu de qualite de l'air local, distinct du CO2 climatique.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les technologies de capture d'emissions au sol des aeroports
+slug: les-technologies-de-capture-d-emissions-au-sol-des-aeroports
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Des dispositifs experimentaux pour limiter la pollution locale autour des pistes.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sobriete volontaire et la reduction du trafic aerien
+slug: la-sobriete-volontaire-et-la-reduction-du-trafic-aerien
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Des mouvements citoyens qui appellent a voler moins plutot qu'a voler plus proprement.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les indicateurs de performance environnementale d'une compagnie aerienne
+slug: les-indicateurs-de-performance-environnementale-d-une-compagnie-aerienne
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment on mesure et compare le progres climatique d'une flotte entiere.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ingenieurs materiaux dans la reduction de poids
+slug: le-role-des-ingenieurs-materiaux-dans-la-reduction-de-poids
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Chaque gramme economise sur un composant se multiplie par le nombre d'avions produits.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les futurs standards d'efficacite energetique imposes aux constructeurs
+slug: les-futurs-standards-d-efficacite-energetique-imposes-aux-constructeurs
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Comment la reglementation pousse progressivement l'industrie vers des avions plus sobres.
+tags: [decarbonation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calcul de l'empreinte carbone d'un passager sur un vol donne
+slug: le-calcul-de-l-empreinte-carbone-d-un-passager-sur-un-vol-donne
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  La methode utilisee pour estimer les emissions attribuees a chaque siege occupe.
+tags: [decarbonation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le modele suisse du fromage en securite aeronautique
+slug: le-modele-suisse-du-fromage-en-securite-aeronautique
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Une image utilisee pour expliquer pourquoi un accident exige toujours plusieurs defaillances alignees.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La culture juste et le signalement des erreurs sans sanction
+slug: la-culture-juste-et-le-signalement-des-erreurs-sans-sanction
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi encourager les pilotes a rapporter leurs erreurs ameliore la securite globale.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les listes de verification (checklists) en cockpit
+slug: les-listes-de-verification-checklists-en-cockpit
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Une methode simple mais determinante pour eviter les oublis critiques.
+tags: [securite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automatisation du cockpit et la vigilance des pilotes
+slug: l-automatisation-du-cockpit-et-la-vigilance-des-pilotes
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment un cockpit trop automatise peut paradoxalement reduire la reactivite humaine.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des ressources en equipage (CRM)
+slug: la-gestion-des-ressources-en-equipage-crm
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Une methode de communication en cockpit nee pour eviter les erreurs hierarchiques fatales.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'accident de Tenerife et la naissance du CRM moderne
+slug: l-accident-de-tenerife-et-la-naissance-du-crm-moderne
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  La pire catastrophe aeronautique de l'histoire a change durablement la formation des pilotes.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes anticollision embarques (TCAS)
+slug: les-systemes-anticollision-embarques-tcas
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un dispositif qui alerte automatiquement deux avions en route de collision.
+tags: [securite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme d'alerte de proximite du sol (GPWS)
+slug: le-systeme-d-alerte-de-proximite-du-sol-gpws
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Une technologie qui a fait chuter drastiquement les accidents par impact controle avec le sol.
+tags: [securite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'accident du mont Sainte-Odile et les alertes sol
+slug: l-accident-du-mont-sainte-odile-et-les-alertes-sol
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un accident qui a accelere l'adoption generalisee des systemes anti-collision terrain.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fatigue des pilotes et la reglementation du temps de vol
+slug: la-fatigue-des-pilotes-et-la-reglementation-du-temps-de-vol
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi le nombre d'heures qu'un pilote peut voler est strictement encadre.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les incidents lies au sommeil en vol de nuit
+slug: les-incidents-lies-au-sommeil-en-vol-de-nuit
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment la fatigue humaine reste un facteur de risque malgre l'automatisation.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation aux situations d'urgence en simulateur
+slug: la-formation-aux-situations-d-urgence-en-simulateur
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi les pilotes s'entrainent regulierement a des pannes qu'ils ne vivront peut-etre jamais.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les procedures d'evacuation d'urgence testees en conditions reelles
+slug: les-procedures-d-evacuation-d-urgence-testees-en-conditions-reelles
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment les constructeurs prouvent qu'un avion plein peut etre evacue en 90 secondes.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du steward et de l'hotesse dans la securite
+slug: le-role-du-steward-et-de-l-hotesse-dans-la-securite
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un metier avant tout dedie a la securite, avant le service aux passagers.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gilets de sauvetage et radeaux de survie a bord
+slug: les-gilets-de-sauvetage-et-radeaux-de-survie-a-bord
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi certains vols au-dessus de l'eau imposent un equipement de survie specifique.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'analyse des precurseurs d'accidents (near misses)
+slug: l-analyse-des-precurseurs-d-accidents-near-misses
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment etudier les incidents evites de justesse pour prevenir de vrais accidents.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Bureau d'enquetes et d'analyses (BEA) et son role
+slug: le-bureau-d-enquetes-et-d-analyses-bea-et-son-role
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  L'organisme francais charge d'enqueter sur les accidents d'aviation civile.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les enregistreurs de parametres de vol et leur analyse
+slug: les-enregistreurs-de-parametres-de-vol-et-leur-analyse
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Des milliers de donnees enregistrees en continu, essentielles pour comprendre un accident.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le partage international des lecons tirees des accidents
+slug: le-partage-international-des-lecons-tirees-des-accidents
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment un accident dans un pays ameliore la securite partout ailleurs.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des vols en conditions meteorologiques degradees
+slug: la-securite-des-vols-en-conditions-meteorologiques-degradees
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Les protocoles specifiques qui s'appliquent par brouillard, neige ou orage violent.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques lies aux marchandises dangereuses en soute
+slug: les-risques-lies-aux-marchandises-dangereuses-en-soute
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi certains objets du quotidien sont strictement interdits en soute d'avion.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'incendie de batteries lithium en soute d'avion
+slug: l-incendie-de-batteries-lithium-en-soute-d-avion
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un risque moderne lie aux appareils electroniques transportes en masse.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite face aux actes de malveillance a bord
+slug: la-securite-face-aux-actes-de-malveillance-a-bord
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Les protocoles specifiques aux menaces humaines, distincts des pannes techniques.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le renforcement des portes de cockpit apres 2001
+slug: le-renforcement-des-portes-de-cockpit-apres-2001
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment un evenement a change durablement l'architecture de securite des avions.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inspections de securite avant chaque vol
+slug: les-inspections-de-securite-avant-chaque-vol
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  La liste des verifications qu'un equipage effectue systematiquement avant le decollage.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance preventive et la detection precoce des pannes
+slug: la-maintenance-preventive-et-la-detection-precoce-des-pannes
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi remplacer une piece avant qu'elle ne tombe en panne est une strategie de securite.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de vibration pour anticiper les pannes moteur
+slug: les-capteurs-de-vibration-pour-anticiper-les-pannes-moteur
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Une surveillance continue qui permet d'intervenir avant qu'un incident ne survienne.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'age d'un avion dans la statistique d'accidents
+slug: le-role-de-l-age-d-un-avion-dans-la-statistique-d-accidents
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Ce que les chiffres montrent reellement sur le lien entre anciennete et securite.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des vols dans l'aviation d'affaires et privee
+slug: la-securite-des-vols-dans-l-aviation-d-affaires-et-privee
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Des statistiques d'accidents nettement moins favorables que dans l'aviation commerciale.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques specifiques de l'aviation agricole
+slug: les-risques-specifiques-de-l-aviation-agricole
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Le vol a tres basse altitude expose a des dangers rarement rencontres ailleurs.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des heliports urbains
+slug: la-securite-des-heliports-urbains
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Des contraintes d'espace et d'obstacles tres differentes de celles d'un aeroport classique.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle de securite des passagers et bagages
+slug: le-controle-de-securite-des-passagers-et-bagages
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  L'histoire et le fonctionnement des filtres de surete dans les aeroports.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques lies aux drones pres des aeroports
+slug: les-risques-lies-aux-drones-pres-des-aeroports
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment un simple loisir peut perturber gravement le trafic aerien commercial.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des vols polaires longue distance
+slug: la-securite-des-vols-polaires-longue-distance
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Des routes qui imposent des protocoles specifiques en cas de deroutement.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones de deroutement d'urgence en vol transoceanique
+slug: les-zones-de-deroutement-d-urgence-en-vol-transoceanique
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi certaines routes sont choisies en fonction des aeroports de secours disponibles.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la meteorologie aeronautique dans la prevention des accidents
+slug: le-role-de-la-meteorologie-aeronautique-dans-la-prevention-des-accidents
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Des previsions specialisees, distinctes de la meteo grand public, essentielles au vol.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite face aux cendres volcaniques
+slug: la-securite-face-aux-cendres-volcaniques
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi un simple nuage de cendres peut immobiliser tout un continent aerien.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eruption de l'Eyjafjallajokull et la paralysie du trafic aerien europeen
+slug: l-eruption-de-l-eyjafjallajokull-et-la-paralysie-du-trafic-aerien-europeen
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un episode de 2010 qui a revele la vulnerabilite du transport aerien aux alea naturels.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques lies aux impacts de foudre repetes
+slug: les-risques-lies-aux-impacts-de-foudre-repetes
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi un avion frappe plusieurs fois par vol reste generalement en securite.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des vols cargo sans passagers
+slug: la-securite-des-vols-cargo-sans-passagers
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Des normes parfois differentes, avec un equipage reduit mais des risques specifiques.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des associations de familles de victimes dans l'evolution des normes
+slug: le-role-des-associations-de-familles-de-victimes-dans-l-evolution-des-normes
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment la pression citoyenne a parfois accelere des reformes de securite.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite psychologique des equipages apres un incident grave
+slug: la-securite-psychologique-des-equipages-apres-un-incident-grave
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Le suivi humain necessaire apres un evenement traumatisant en vol.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de resistance des sieges passagers aux chocs
+slug: les-tests-de-resistance-des-sieges-passagers-aux-chocs
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi un siege d'avion doit survivre a une deceleration violente sans se rompre.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite renforcee des vols au-dessus de zones de conflit
+slug: la-securite-renforcee-des-vols-au-dessus-de-zones-de-conflit
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Comment les compagnies decident d'eviter ou non un espace aerien a risque.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol MH17 et la reevaluation des routes en zone de conflit
+slug: le-vol-mh17-et-la-reevaluation-des-routes-en-zone-de-conflit
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Un accident qui a change la maniere dont l'industrie evalue les risques geopolitiques.
+tags: [securite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des aeronefs face au risque laser
+slug: la-securite-des-aeronefs-face-au-risque-laser
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Pourquoi pointer un laser vers un cockpit represente un danger reel et puni par la loi.
+tags: [securite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le decoupage de l'espace aerien en secteurs
+slug: le-decoupage-de-l-espace-aerien-en-secteurs
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment le ciel est divise en zones dont chacune est geree par un controleur.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de controleur aerien
+slug: le-metier-de-controleur-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Une profession a haute responsabilite qui gere en permanence des dizaines d'avions.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tours de controle et l'approche des aeroports
+slug: les-tours-de-controle-et-l-approche-des-aeroports
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Deux echelons distincts de controle, l'un pour le sol, l'autre pour l'approche.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle d'approche et le sequencement des atterrissages
+slug: le-controle-d-approche-et-le-sequencement-des-atterrissages
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment on ordonne l'arrivee de dizaines d'avions sur une meme piste.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les centres de controle en route
+slug: les-centres-de-controle-en-route
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Des salles qui suivent les avions en croisiere, loin de tout aeroport.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La coordination internationale du trafic aerien
+slug: la-coordination-internationale-du-trafic-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment un vol traverse plusieurs pays sans jamais perdre son suivi au sol.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les creneaux horaires (slots) dans les grands aeroports
+slug: les-creneaux-horaires-slots-dans-les-grands-aeroports
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Pourquoi un avion ne peut pas simplement decoller quand il le souhaite.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des retards en cascade dans le reseau aerien
+slug: la-gestion-des-retards-en-cascade-dans-le-reseau-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment un incident localise peut perturber tout un reseau de vols en quelques heures.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le ciel unique europeen et la fragmentation du controle aerien
+slug: le-ciel-unique-europeen-et-la-fragmentation-du-controle-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un projet ancien pour unifier un espace aerien encore decoupe par pays.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les greves de controleurs aeriens et leurs consequences
+slug: les-greves-de-controleurs-aeriens-et-leurs-consequences
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment un mouvement social peut immobiliser une grande partie du trafic continental.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La separation minimale entre deux avions en vol
+slug: la-separation-minimale-entre-deux-avions-en-vol
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Les distances reglementaires, horizontales et verticales, que le controle aerien doit garantir.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien militaire et sa coordination avec le civil
+slug: le-controle-aerien-militaire-et-sa-coordination-avec-le-civil
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment deux systemes distincts partagent le meme espace aerien.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes automatises d'aide a la decision des controleurs
+slug: les-systemes-automatises-d-aide-a-la-decision-des-controleurs
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Des outils informatiques qui suggerent des trajectoires sans remplacer le jugement humain.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La surveillance dependante automatique (ADS-B)
+slug: la-surveillance-dependante-automatique-ads-b
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Une technologie qui a progressivement complete, puis parfois remplace, le radar classique.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le radar primaire et le radar secondaire en controle aerien
+slug: le-radar-primaire-et-le-radar-secondaire-en-controle-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Deux technologies complementaires pour localiser et identifier les avions.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion du trafic aerien par intelligence artificielle
+slug: la-gestion-du-trafic-aerien-par-intelligence-artificielle
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Des recherches en cours pour assister, voire partiellement automatiser, le controle aerien.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones interdites et reglementees de l'espace aerien
+slug: les-zones-interdites-et-reglementees-de-l-espace-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Pourquoi certaines portions du ciel restent fermees a l'aviation civile.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien dans les zones a faible trafic
+slug: le-controle-aerien-dans-les-zones-a-faible-trafic
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment on gere des espaces immenses avec tres peu d'avions et peu d'infrastructure.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation initiale d'un controleur aerien
+slug: la-formation-initiale-d-un-controleur-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un parcours long et selectif avant d'assumer seul la responsabilite du trafic.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les erreurs humaines en controle aerien et leurs consequences
+slug: les-erreurs-humaines-en-controle-aerien-et-leurs-consequences
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment un instant d'inattention peut mettre en danger plusieurs avions.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La collision aerienne d'Uberlingen et ses lecons
+slug: la-collision-aerienne-d-uberlingen-et-ses-lecons
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un accident qui a clarifie la hierarchie entre alerte automatique et instruction humaine.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien pendant les evenements meteorologiques extremes
+slug: le-controle-aerien-pendant-les-evenements-meteorologiques-extremes
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment les controleurs reorganisent le trafic autour d'un orage majeur.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion du trafic aerien pendant une crise sanitaire mondiale
+slug: la-gestion-du-trafic-aerien-pendant-une-crise-sanitaire-mondiale
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Ce que la pandemie de 2020 a revele sur la fragilite du reseau aerien.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien oceanique sans couverture radar
+slug: le-controle-aerien-oceanique-sans-couverture-radar
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment on suit des avions au-dessus de l'Atlantique, hors de portee des radars classiques.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La disparition du vol MH370 et la surveillance oceanique
+slug: la-disparition-du-vol-mh370-et-la-surveillance-oceanique
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un evenement qui a relance le debat sur le suivi continu des avions en haute mer.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien des vols basse altitude et des drones
+slug: le-controle-aerien-des-vols-basse-altitude-et-des-drones
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un nouveau defi impose par la multiplication des engins volants de petite taille.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La priorisation des vols d'urgence dans le trafic aerien
+slug: la-priorisation-des-vols-d-urgence-dans-le-trafic-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment un avion en detresse obtient immediatement la priorite sur tous les autres.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion du trafic aerien lors des grands evenements internationaux
+slug: la-gestion-du-trafic-aerien-lors-des-grands-evenements-internationaux
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment on organise temporairement un afflux massif d'avions prives et officiels.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du controle aerien dans la prevention des collisions au sol
+slug: le-role-du-controle-aerien-dans-la-prevention-des-collisions-au-sol
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Pourquoi les incursions de piste representent un risque aussi serieux que les collisions en vol.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les incursions de piste et leur prevention
+slug: les-incursions-de-piste-et-leur-prevention
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un avion ou un vehicule qui penetre par erreur sur une piste active.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La coordination entre pilotes et controleurs par phraseologie standardisee
+slug: la-coordination-entre-pilotes-et-controleurs-par-phraseologie-standardisee
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un vocabulaire precis et universel pour eviter toute ambiguite radio.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les malentendus linguistiques en communication aeronautique
+slug: les-malentendus-linguistiques-en-communication-aeronautique
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Pourquoi l'anglais aeronautique standardise reste imparfait face aux accents et au stress.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien dans les pays a infrastructure limitee
+slug: le-controle-aerien-dans-les-pays-a-infrastructure-limitee
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment certains espaces aeriens fonctionnent encore avec des moyens tres reduits.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des vols detournes ou en urgence declaree
+slug: la-gestion-des-vols-detournes-ou-en-urgence-declaree
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Les procedures specifiques qui s'enclenchent des qu'un avion signale un probleme grave.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du controle aerien dans la reduction des emissions
+slug: le-role-du-controle-aerien-dans-la-reduction-des-emissions
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment des trajectoires mieux optimisees par le controle aerien reduisent la consommation.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La saturation des grands hubs aeriens mondiaux
+slug: la-saturation-des-grands-hubs-aeriens-mondiaux
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Pourquoi certains aeroports fonctionnent en permanence a la limite de leur capacite.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien pendant les operations de recherche et sauvetage
+slug: le-controle-aerien-pendant-les-operations-de-recherche-et-sauvetage
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment le trafic normal s'adapte pour laisser place a une operation d'urgence.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion du trafic aerien par vent fort ou cisaillement
+slug: la-gestion-du-trafic-aerien-par-vent-fort-ou-cisaillement
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment les controleurs adaptent les pistes et les espacements selon le vent.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du controle aerien dans les vols VIP et gouvernementaux
+slug: le-role-du-controle-aerien-dans-les-vols-vip-et-gouvernementaux
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Des protocoles de securite et de discretion specifiques a certains vols sensibles.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La modernisation des systemes de controle aerien vieillissants
+slug: la-modernisation-des-systemes-de-controle-aerien-vieillissants
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Pourquoi remplacer un systeme informatique de controle aerien prend des annees.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien face a la croissance du trafic mondial
+slug: le-controle-aerien-face-a-la-croissance-du-trafic-mondial
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment anticiper un doublement du nombre de vols dans les decennies a venir.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion conjointe du trafic aerien et spatial
+slug: la-gestion-conjointe-du-trafic-aerien-et-spatial
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un nouveau defi pose par la multiplication des lancements de fusees commerciales.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des superviseurs en salle de controle aerien
+slug: le-role-des-superviseurs-en-salle-de-controle-aerien
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Une supervision humaine supplementaire au-dessus des controleurs eux-memes.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des conflits de trajectoire par anticipation
+slug: la-gestion-des-conflits-de-trajectoire-par-anticipation
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment les controleurs detectent un risque de collision plusieurs minutes a l'avance.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle aerien et la gestion des vols de fret nocturnes
+slug: le-controle-aerien-et-la-gestion-des-vols-de-fret-nocturnes
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Des contraintes horaires et de bruit specifiques a l'activite cargo de nuit.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation continue et les recertifications des controleurs aeriens
+slug: la-formation-continue-et-les-recertifications-des-controleurs-aeriens
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Pourquoi un controleur doit regulierement prouver le maintien de ses competences.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du controle aerien dans les vols experimentaux et essais
+slug: le-role-du-controle-aerien-dans-les-vols-experimentaux-et-essais
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Des procedures particulieres pour proteger le trafic normal pendant un vol de test.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion du trafic aerien transfrontalier en zone de guerre
+slug: la-gestion-du-trafic-aerien-transfrontalier-en-zone-de-guerre
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Comment les autorites redessinent les routes aeriennes autour d'un conflit actif.
+tags: [controle-du-trafic-aerien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le futur de la gestion du trafic aerien avec les taxis volants
+slug: le-futur-de-la-gestion-du-trafic-aerien-avec-les-taxis-volants
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Un nouveau type d'appareil urbain qui va exiger de nouvelles regles de circulation.
+tags: [controle-du-trafic-aerien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'anemometre et la mesure de la vitesse en vol
+slug: l-anemometre-et-la-mesure-de-la-vitesse-en-vol
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un instrument essentiel qui mesure la vitesse de l'avion par rapport a l'air.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'altimetre barometrique et ses limites
+slug: l-altimetre-barometrique-et-ses-limites
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment on mesure l'altitude a partir de la pression atmospherique, et pourquoi cela peut tromper.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'horizon artificiel, garder l'assiette sans repere visuel
+slug: l-horizon-artificiel-garder-l-assiette-sans-repere-visuel
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un instrument qui remplace l'horizon reel quand la visibilite disparait.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le variometre et la mesure du taux de montee
+slug: le-variometre-et-la-mesure-du-taux-de-montee
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un instrument qui indique si l'avion monte ou descend, et a quelle vitesse.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le conservateur de cap gyroscopique
+slug: le-conservateur-de-cap-gyroscopique
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un instrument qui garde une reference de direction stable malgre les mouvements de l'avion.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compas magnetique en aviation et ses erreurs
+slug: le-compas-magnetique-en-aviation-et-ses-erreurs
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Pourquoi un simple compas magnetique peut se tromper en virage ou en acceleration.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de secours en cas de panne electrique totale
+slug: les-instruments-de-secours-en-cas-de-panne-electrique-totale
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un jeu minimal d'instruments purement mecaniques pour continuer a voler sans electricite.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecran de vol primaire (PFD) des avions modernes
+slug: l-ecran-de-vol-primaire-pfd-des-avions-modernes
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment les instruments analogiques ont fusionne en un seul ecran numerique.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecran multifonction de navigation (MFD)
+slug: l-ecran-multifonction-de-navigation-mfd
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un ecran qui affiche la carte, le plan de vol et les systemes de l'avion.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de gestion de vol (FMS)
+slug: le-systeme-de-gestion-de-vol-fms
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  L'ordinateur qui calcule et suit automatiquement la route optimale d'un avion de ligne.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pilote automatique, ce qu'il fait vraiment
+slug: le-pilote-automatique-ce-qu-il-fait-vraiment
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un systeme qui suit des instructions precises, sans jamais decider seul de la strategie.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les modes de couplage du pilote automatique
+slug: les-modes-de-couplage-du-pilote-automatique
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment un pilote choisit precisement ce que l'automatisme doit controler a chaque instant.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'atterrissage automatique par tres faible visibilite
+slug: l-atterrissage-automatique-par-tres-faible-visibilite
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment certains avions se posent avec une intervention humaine minimale par brouillard epais.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transpondeur et son role dans l'identification radar
+slug: le-transpondeur-et-son-role-dans-l-identification-radar
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un appareil qui repond automatiquement aux radars pour signaler position et identite.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme d'avertissement et d'alarme du poste de pilotage (EICAS)
+slug: le-systeme-d-avertissement-et-d-alarme-du-poste-de-pilotage-eicas
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment un avion signale ses propres pannes de maniere hierarchisee.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de navigation inertielle sans signal exterieur
+slug: les-instruments-de-navigation-inertielle-sans-signal-exterieur
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un systeme capable de calculer une position sans radio ni satellite.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La centrale a reference inertielle et ses gyroscopes laser
+slug: la-centrale-a-reference-inertielle-et-ses-gyroscopes-laser
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une technologie qui mesure les mouvements de l'avion sans piece mecanique tournante.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calculateur de donnees air
+slug: le-calculateur-de-donnees-air
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un composant qui transforme des mesures de pression en vitesse et altitude exploitables.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondes de vitesse Pitot et leurs defaillances celebres
+slug: les-sondes-de-vitesse-pitot-et-leurs-defaillances-celebres
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un capteur simple mais critique, implique dans plusieurs accidents historiques.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le radioalitmetre pour les mesures de tres basse altitude
+slug: le-radioalitmetre-pour-les-mesures-de-tres-basse-altitude
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un instrument specifique pour l'approche finale, distinct de l'altimetre barometrique.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme d'atterrissage aux instruments (ILS) en detail
+slug: le-systeme-d-atterrissage-aux-instruments-ils-en-detail
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment deux faisceaux radio guident precisement un avion jusqu'a la piste.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les approches de precision et de non-precision
+slug: les-approches-de-precision-et-de-non-precision
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Deux categories d'atterrissage aux instruments, avec des marges de securite differentes.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme d'augmentation satellite pour la navigation civile
+slug: le-systeme-d-augmentation-satellite-pour-la-navigation-civile
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une technologie qui ameliore la precision du GPS pour l'aviation.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La navigation de surface (RNAV) et ses avantages
+slug: la-navigation-de-surface-rnav-et-ses-avantages
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une methode qui libere les avions des routes rigides basees sur des balises au sol.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les balises VOR et leur declin progressif
+slug: les-balises-vor-et-leur-declin-progressif
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  D'anciens emetteurs au sol, longtemps essentiels, aujourd'hui complementaires du satellite.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de mesure de distance (DME)
+slug: le-systeme-de-mesure-de-distance-dme
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un instrument qui calcule la distance a une balise par le temps d'un signal radio.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cartes aeronautiques et leur lecture
+slug: les-cartes-aeronautiques-et-leur-lecture
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un langage graphique specifique, tres different d'une carte routiere classique.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La navigation a l'estime sans instrument electronique
+slug: la-navigation-a-l-estime-sans-instrument-electronique
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une methode ancienne, encore enseignee, fondee sur le cap, la vitesse et le temps.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sextant en aviation, une methode de navigation ancienne
+slug: le-sextant-en-aviation-une-methode-de-navigation-ancienne
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Avant les satellites, certains longs vols se reperaient encore grace aux etoiles.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 3
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de mesure de temperature exterieure en vol
+slug: les-instruments-de-mesure-de-temperature-exterieure-en-vol
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une donnee simple mais essentielle pour calculer les performances reelles de l'avion.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le detecteur de cisaillement de vent embarque
+slug: le-detecteur-de-cisaillement-de-vent-embarque
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un instrument qui alerte l'equipage d'un danger invisible a l'oeil nu.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme d'affichage tete haute (HUD) en aviation
+slug: le-systeme-d-affichage-tete-haute-hud-en-aviation
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Projeter les informations de vol directement dans le champ de vision du pilote.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lunettes de vision nocturne en aviation civile et militaire
+slug: les-lunettes-de-vision-nocturne-en-aviation-civile-et-militaire
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment voir dans l'obscurite totale change la conduite d'un vol.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de gestion des performances de vol
+slug: le-systeme-de-gestion-des-performances-de-vol
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un calculateur qui optimise en continu la vitesse et l'altitude pour economiser du carburant.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desorientation spatiale et la confiance aux instruments
+slug: la-desorientation-spatiale-et-la-confiance-aux-instruments
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Pourquoi un pilote doit parfois faire confiance a ses instruments contre ses propres sensations.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'illusion somatogravique en vol sans repere visuel
+slug: l-illusion-somatogravique-en-vol-sans-repere-visuel
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une illusion qui fait croire au pilote qu'il monte alors qu'il accelere simplement.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de secours mecaniques a horizon artificiel de secours
+slug: les-instruments-de-secours-mecaniques-a-horizon-artificiel-de-secours
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un dernier recours purement mecanique quand tous les systemes electroniques tombent en panne.
+tags: [instruments-de-vol, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la double instrumentation independante en cockpit
+slug: le-role-de-la-double-instrumentation-independante-en-cockpit
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Pourquoi le pilote et le copilote disposent chacun d'instruments totalement separes.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance et l'etalonnage regulier des instruments de vol
+slug: la-maintenance-et-l-etalonnage-regulier-des-instruments-de-vol
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Pourquoi un instrument mal calibre peut induire une erreur invisible mais dangereuse.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol des planeurs et leur simplicite
+slug: les-instruments-de-vol-des-planeurs-et-leur-simplicite
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un cockpit depouille, adapte a un vol sans moteur ni systeme electrique complexe.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le variometre acoustique en vol a voile
+slug: le-variometre-acoustique-en-vol-a-voile
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un son qui indique au pilote de planeur s'il monte ou descend sans regarder l'instrument.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol des ballons a air chaud
+slug: les-instruments-de-vol-des-ballons-a-air-chaud
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un altimetre et un variometre suffisent souvent la ou un avion en compte des dizaines.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le glass cockpit et la disparition des instruments a aiguilles
+slug: le-glass-cockpit-et-la-disparition-des-instruments-a-aiguilles
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment les ecrans numeriques ont progressivement remplace les cadrans mecaniques.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol dans les cockpits militaires de chasse
+slug: les-instruments-de-vol-dans-les-cockpits-militaires-de-chasse
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Des priorites d'affichage tres differentes de celles de l'aviation civile.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La redondance des instruments critiques en cas de panne
+slug: la-redondance-des-instruments-critiques-en-cas-de-panne
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Pourquoi une information essentielle est toujours mesuree par plusieurs capteurs independants.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol historiques des annees 1930
+slug: les-instruments-de-vol-historiques-des-annees-1930
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment on volait avec un altimetre, un compas et bien peu d'autres reperes.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du mecanicien navigant, un poste aujourd'hui disparu
+slug: le-role-du-mecanicien-navigant-un-poste-aujourd-hui-disparu
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Un troisieme membre d'equipage charge autrefois de surveiller les systemes de l'avion.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de vol adaptes aux drones telepilotes
+slug: les-instruments-de-vol-adaptes-aux-drones-telepilotes
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Comment un pilote au sol recoit les memes informations essentielles qu'a bord.
+tags: [instruments-de-vol]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation au vol aux instruments sans visibilite exterieure
+slug: la-formation-au-vol-aux-instruments-sans-visibilite-exterieure
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Une qualification specifique, distincte du simple permis de voler a vue.
+tags: [instruments-de-vol]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur en etoile et sa disposition radiale
+slug: le-moteur-en-etoile-et-sa-disposition-radiale
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une architecture de moteur a piston tres utilisee sur les avions anciens.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur a plat (boxer) des petits avions
+slug: le-moteur-a-plat-boxer-des-petits-avions
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  L'architecture la plus courante sur les avions legers modernes, simple et fiable.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur en ligne et son refroidissement liquide
+slug: le-moteur-en-ligne-et-son-refroidissement-liquide
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une architecture qui a equipe des chasseurs celebres de la Seconde Guerre mondiale.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Rolls-Royce Merlin, un moteur qui a change l'histoire
+slug: le-rolls-royce-merlin-un-moteur-qui-a-change-l-histoire
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Le moteur qui a equipe le Spitfire et le Hurricane pendant la bataille d'Angleterre.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le magneto, allumer un moteur sans batterie
+slug: le-magneto-allumer-un-moteur-sans-batterie
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un systeme d'allumage autonome qui reste standard sur les avions legers actuels.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le carburateur et le givrage du carburateur en vol
+slug: le-carburateur-et-le-givrage-du-carburateur-en-vol
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un risque specifique aux moteurs a piston, meme par temps chaud et sec.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'injection de carburant sur les moteurs d'avion legers
+slug: l-injection-de-carburant-sur-les-moteurs-d-avion-legers
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une alternative au carburateur qui reduit certains risques mais en cree d'autres.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reglage de la richesse du melange en altitude
+slug: le-reglage-de-la-richesse-du-melange-en-altitude
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi un pilote doit ajuster manuellement le melange air-carburant en montant.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La detonation et le cliquetis dans un moteur d'avion
+slug: la-detonation-et-le-cliquetis-dans-un-moteur-d-avion
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une combustion anormale qui peut endommager gravement un moteur a piston.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de refroidissement par air des moteurs a piston
+slug: le-systeme-de-refroidissement-par-air-des-moteurs-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Comment un moteur d'avion leger evacue sa chaleur sans radiateur liquide.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les volets de capot et la regulation thermique du moteur
+slug: les-volets-de-capot-et-la-regulation-thermique-du-moteur
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  De petites trappes qui ajustent le refroidissement selon la phase de vol.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'helice a pas fixe contre l'helice a pas variable
+slug: l-helice-a-pas-fixe-contre-l-helice-a-pas-variable
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Deux facons d'adapter l'angle des pales aux conditions de vol.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le regulateur d'helice a pas variable
+slug: le-regulateur-d-helice-a-pas-variable
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un mecanisme qui ajuste automatiquement l'angle des pales pour maintenir un regime constant.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree entre revisions (TBO) d'un moteur d'avion
+slug: la-duree-entre-revisions-tbo-d-un-moteur-d-avion
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi un moteur est revise apres un nombre d'heures precis, meme sans panne.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La revision complete d'un moteur a piston aeronautique
+slug: la-revision-complete-d-un-moteur-a-piston-aeronautique
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un demontage total et une inspection piece par piece, obligatoires periodiquement.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs diesel d'aviation modernes
+slug: les-moteurs-diesel-d-aviation-modernes
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une alternative recente au moteur essence classique, plus econome en carburant.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le carburant avgas et son avenir incertain
+slug: le-carburant-avgas-et-son-avenir-incertain
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un carburant avec plomb encore utilise, dont le remplacement pose des defis techniques.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le remplacement du plomb dans le carburant aviation
+slug: le-remplacement-du-plomb-dans-le-carburant-aviation
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi eliminer le plomb d'un carburant reste plus complique que pour l'automobile.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turbocompresseur applique aux moteurs a piston d'avion
+slug: le-turbocompresseur-applique-aux-moteurs-a-piston-d-avion
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Comment on compense la rarefaction de l'air en altitude sur un petit moteur.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La panne moteur en vol et la procedure d'urgence
+slug: la-panne-moteur-en-vol-et-la-procedure-d-urgence
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Les gestes reflexes qu'un pilote doit executer en cas d'arret moteur soudain.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'atterrissage force apres panne moteur
+slug: l-atterrissage-force-apres-panne-moteur
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Comment un pilote choisit et rejoint un terrain de secours sans propulsion.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur Wankel rotatif applique a l'aviation legere
+slug: le-moteur-wankel-rotatif-applique-a-l-aviation-legere
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une architecture rare, plus compacte qu'un moteur a pistons classique.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lubrification et le circuit d'huile d'un moteur a piston
+slug: la-lubrification-et-le-circuit-d-huile-d-un-moteur-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi la pression et la temperature d'huile sont surveillees en permanence en vol.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bougies d'allumage aeronautiques et leur double circuit
+slug: les-bougies-d-allumage-aeronautiques-et-leur-double-circuit
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi chaque cylindre d'un moteur d'avion dispose de deux bougies independantes.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calage des soupapes sur un moteur d'avion a piston
+slug: le-calage-des-soupapes-sur-un-moteur-d-avion-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un reglage precis qui influence directement la puissance et la fiabilite du moteur.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vibrations et l'equilibrage d'un moteur en etoile
+slug: les-vibrations-et-l-equilibrage-d-un-moteur-en-etoile
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi certaines configurations de moteur imposent un equilibrage particulierement soigne.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du moteur a piston aeronautique depuis 1903
+slug: l-histoire-du-moteur-a-piston-aeronautique-depuis-1903
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des freres Wright aux moteurs modernes, plus d'un siecle d'evolution technique.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur du Spirit of Saint Louis et la traversee de Lindbergh
+slug: le-moteur-du-spirit-of-saint-louis-et-la-traversee-de-lindbergh
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Comment un moteur a piston fiable a rendu possible la premiere traversee solo de l'Atlantique.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les records de vitesse des avions a moteur a piston
+slug: les-records-de-vitesse-des-avions-a-moteur-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Avant l'ere du reacteur, la course a la vitesse reposait entierement sur le piston.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation specifique d'un moteur a piston d'avion
+slug: la-consommation-specifique-d-un-moteur-a-piston-d-avion
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Comment on mesure et compare l'efficacite energetique de differents moteurs.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs a piston dans l'aviation agricole
+slug: les-moteurs-a-piston-dans-l-aviation-agricole
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des contraintes de fiabilite et de robustesse specifiques a un usage tres exigeant.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur a piston dans les avions de voltige
+slug: le-moteur-a-piston-dans-les-avions-de-voltige
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des moteurs concus pour fonctionner meme inverses ou en negatif prolonge.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lubrification en vol dos d'un moteur d'avion de voltige
+slug: la-lubrification-en-vol-dos-d-un-moteur-d-avion-de-voltige
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un defi technique specifique : faire circuler l'huile meme la tete en bas.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs a piston certifies experimentaux (kit planes)
+slug: les-moteurs-a-piston-certifies-experimentaux-kit-planes
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des moteurs parfois moins reglementes, utilises sur des avions construits par des amateurs.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison entre moteur a piston et moteur electrique en aviation legere
+slug: la-comparaison-entre-moteur-a-piston-et-moteur-electrique-en-aviation-legere
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Deux technologies aux compromis tres differents pour l'aviation de loisir.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur a piston hybride pour l'aviation legere
+slug: le-moteur-a-piston-hybride-pour-l-aviation-legere
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Combiner un petit moteur thermique et un moteur electrique sur un meme avion leger.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des mecaniciens specialises en moteurs a piston aeronautiques
+slug: la-formation-des-mecaniciens-specialises-en-moteurs-a-piston-aeronautiques
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un metier tres specifique, distinct de la mecanique automobile malgre des ressemblances.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inspections avant-vol specifiques a un moteur a piston
+slug: les-inspections-avant-vol-specifiques-a-un-moteur-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une liste de verifications physiques que le pilote effectue lui-meme avant de decoller.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement choc et ses risques pour un moteur d'avion
+slug: le-refroidissement-choc-et-ses-risques-pour-un-moteur-d-avion
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi descendre trop vite en reduisant la puissance peut endommager un moteur chaud.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs a piston deux temps en aviation ultralegere
+slug: les-moteurs-a-piston-deux-temps-en-aviation-ultralegere
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une architecture legere et simple, mais moins durable que le quatre temps.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification acoustique specifique aux moteurs a piston
+slug: la-certification-acoustique-specifique-aux-moteurs-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi le bruit des petits avions de loisir fait l'objet de normes propres.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'altitude densite sur les performances d'un moteur a piston
+slug: le-role-de-l-altitude-densite-sur-les-performances-d-un-moteur-a-piston
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi un meme moteur produit moins de puissance par temps chaud en altitude.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les carburants alternatifs testes sur moteurs a piston aeronautiques
+slug: les-carburants-alternatifs-testes-sur-moteurs-a-piston-aeronautiques
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des recherches en cours pour remplacer un carburant plombe vieux de plusieurs decennies.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La surveillance electronique moderne des moteurs a piston (EMS)
+slug: la-surveillance-electronique-moderne-des-moteurs-a-piston-ems
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Comment des capteurs numeriques ont progressivement complete les jauges mecaniques traditionnelles.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pannes de carburateur les plus frequentes en vol
+slug: les-pannes-de-carburateur-les-plus-frequentes-en-vol
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Un ensemble de defaillances bien connues, largement couvertes par la formation des pilotes.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poids et l'encombrement compares des moteurs a piston et a turbine
+slug: le-poids-et-l-encombrement-compares-des-moteurs-a-piston-et-a-turbine
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi le choix entre les deux depend surtout de la taille et de l'usage de l'avion.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs a piston dans l'aviation de sauvetage et de secours
+slug: les-moteurs-a-piston-dans-l-aviation-de-sauvetage-et-de-secours
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Des exigences de fiabilite particulierement elevees pour des missions critiques.
+tags: [moteurs-a-piston, essentiel-reconstruction]
+priority: 3
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction du bruit des moteurs a piston par silencieux d'echappement
+slug: la-reduction-du-bruit-des-moteurs-a-piston-par-silencieux-d-echappement
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Une adaptation simple mais efficace pour limiter les nuisances sonores au sol.
+tags: [moteurs-a-piston]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir du moteur a piston face a l'electrification de l'aviation legere
+slug: l-avenir-du-moteur-a-piston-face-a-l-electrification-de-l-aviation-legere
+categoryPath: aeronautique/propulsion/moteurs-a-piston
+summary: >
+  Pourquoi ce moteur centenaire reste, pour l'instant, difficile a remplacer completement.
+tags: [moteurs-a-piston]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur electrique aeronautique, principe general
+slug: le-moteur-electrique-aeronautique-principe-general
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Comment un moteur electrique transforme du courant en poussee, sans combustion.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La densite de puissance des moteurs electriques d'avion
+slug: la-densite-de-puissance-des-moteurs-electriques-d-avion
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi un moteur electrique peut etre tres puissant pour son poids, contrairement a sa batterie.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries lithium-ion appliquees a l'aviation electrique
+slug: les-batteries-lithium-ion-appliquees-a-l-aviation-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Les contraintes specifiques de securite et de poids propres a un usage aeronautique.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rapport poids-autonomie, principal obstacle de l'avion electrique
+slug: le-rapport-poids-autonomie-principal-obstacle-de-l-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi chaque kilometre d'autonomie supplementaire coute tres cher en poids de batterie.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions-taxis electriques a decollage vertical (eVTOL)
+slug: les-avions-taxis-electriques-a-decollage-vertical-evtol
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une nouvelle categorie d'appareils urbains, entre l'helicoptere et le drone.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La propulsion distribuee sur les avions electriques
+slug: la-propulsion-distribuee-sur-les-avions-electriques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Repartir plusieurs petits moteurs electriques le long de l'aile plutot qu'un seul gros.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions hybrides serie et hybrides paralleles
+slug: les-avions-hybrides-serie-et-hybrides-paralleles
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Deux architectures differentes pour combiner moteur thermique et moteur electrique.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recours a une pile a combustible pour l'aviation electrique
+slug: le-recours-a-une-pile-a-combustible-pour-l-aviation-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Produire de l'electricite a bord a partir d'hydrogene plutot que de la stocker en batterie.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recharge au sol des avions electriques
+slug: la-recharge-au-sol-des-avions-electriques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des infrastructures encore rares, tres differentes du plein de kerosene classique.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement des moteurs electriques d'avion
+slug: le-refroidissement-des-moteurs-electriques-d-avion
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi un moteur electrique puissant degage lui aussi beaucoup de chaleur.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification specifique des avions electriques
+slug: la-certification-specifique-des-avions-electriques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un cadre reglementaire encore jeune, adapte progressivement a partir des normes existantes.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les records de vol en avion electrique
+slug: les-records-de-vol-en-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des demonstrateurs qui repoussent progressivement les limites de distance et de vitesse.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avion electrique pour la formation des pilotes
+slug: l-avion-electrique-pour-la-formation-des-pilotes
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un usage realiste a court terme, grace a des vols courts et peu couteux.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bruit reduit des avions electriques
+slug: le-bruit-reduit-des-avions-electriques
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un avantage majeur pour l'acceptabilite pres des zones habitees.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis de securite incendie des batteries d'avion electrique
+slug: les-defis-de-securite-incendie-des-batteries-d-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi une batterie endommagee represente un risque specifique a gerer differemment du kerosene.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison de cout d'exploitation entre avion electrique et thermique
+slug: la-comparaison-de-cout-d-exploitation-entre-avion-electrique-et-thermique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Moins cher a l'usage, mais avec un cout d'achat et de batterie encore eleve.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions electriques regionaux en developpement
+slug: les-avions-electriques-regionaux-en-developpement
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des projets industriels qui visent des liaisons courtes entre petites villes.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des batteries d'avion en fin de vie
+slug: le-recyclage-des-batteries-d-avion-en-fin-de-vie
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un enjeu environnemental supplementaire propre a l'aviation electrique.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La propulsion electrique appliquee aux planeurs
+slug: la-propulsion-electrique-appliquee-aux-planeurs
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un petit moteur electrique retractable pour decoller seul, sans avion remorqueur.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs electriques supraconducteurs pour l'aviation
+slug: les-moteurs-electriques-supraconducteurs-pour-l-aviation
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une technologie de recherche qui promet des moteurs plus legers et plus puissants.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle de vol electrique integre a la propulsion
+slug: le-controle-de-vol-electrique-integre-a-la-propulsion
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Comment gerer simultanement plusieurs moteurs electriques independants en toute securite.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les infrastructures aeroportuaires adaptees a l'aviation electrique
+slug: les-infrastructures-aeroportuaires-adaptees-a-l-aviation-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Bornes de recharge, stockage d'energie : des amenagements encore a construire.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison environnementale entre avion electrique et avion a hydrogene
+slug: la-comparaison-environnementale-entre-avion-electrique-et-avion-a-hydrogene
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Deux voies de decarbonation qui n'ont pas les memes contraintes techniques.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les startups aeronautiques specialisees en propulsion electrique
+slug: les-startups-aeronautiques-specialisees-en-propulsion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un secteur en pleine effervescence, porte par de nombreuses jeunes entreprises.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des gouvernements dans le financement de l'avion electrique
+slug: le-role-des-gouvernements-dans-le-financement-de-l-avion-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des subventions publiques importantes pour accelerer une technologie encore couteuse.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La propulsion electrique pour les drones de longue endurance
+slug: la-propulsion-electrique-pour-les-drones-de-longue-endurance
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un usage deja mature, contrairement aux avions habites electriques.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests en vol des premiers avions de ligne hybrides
+slug: les-tests-en-vol-des-premiers-avions-de-ligne-hybrides
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Des demonstrateurs a l'echelle reduite avant d'envisager des avions commerciaux hybrides.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion thermique des batteries en haute altitude
+slug: la-gestion-thermique-des-batteries-en-haute-altitude
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Pourquoi le froid exterieur pose autant de defis que la chaleur du moteur.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poids compare d'un reservoir de kerosene et d'une batterie equivalente
+slug: le-poids-compare-d-un-reservoir-de-kerosene-et-d-une-batterie-equivalente
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Une comparaison qui explique pourquoi l'aviation electrique reste limitee aux courtes distances.
+tags: [propulsion-electrique-aeronautique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de securite specifiques aux avions a decollage vertical electrique
+slug: les-normes-de-securite-specifiques-aux-avions-a-decollage-vertical-electrique
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Un cadre reglementaire construit en parallele du developpement de ces nouveaux appareils.
+tags: [propulsion-electrique-aeronautique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe general du turbopropulseur
+slug: le-principe-general-du-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une turbine a gaz qui entraine une helice plutot que de propulser directement l'air.
+tags: [turbopropulseurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reducteur de vitesse d'un turbopropulseur
+slug: le-reducteur-de-vitesse-d-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi la turbine doit tourner beaucoup plus vite que l'helice qu'elle entraine.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les helices a pas variable des turbopropulseurs
+slug: les-helices-a-pas-variable-des-turbopropulseurs
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Comment on adapte l'angle des pales a chaque phase du vol.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le regime constant et la puissance variable d'un turbopropulseur
+slug: le-regime-constant-et-la-puissance-variable-d-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi l'helice tourne toujours a la meme vitesse, quelle que soit la puissance demandee.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mise en drapeau d'une helice apres panne moteur
+slug: la-mise-en-drapeau-d-une-helice-apres-panne-moteur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une manoeuvre qui aligne les pales avec le vent pour reduire la trainee.
+tags: [turbopropulseurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le domaine d'emploi ideal du turbopropulseur
+slug: le-domaine-d-emploi-ideal-du-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi cette technologie reste privilegiee sur les distances courtes et moyennes.
+tags: [turbopropulseurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison entre turbopropulseur et turboreacteur
+slug: la-comparaison-entre-turbopropulseur-et-turboreacteur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Deux technologies aux compromis differents entre vitesse, altitude et consommation.
+tags: [turbopropulseurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement du turbopropulseur a basse altitude
+slug: le-rendement-du-turbopropulseur-a-basse-altitude
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi cette motorisation reste efficace la ou le turboreacteur perd son avantage.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avions regionaux equipes de turbopropulseurs
+slug: les-avions-regionaux-equipes-de-turbopropulseurs
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une categorie d'avions de ligne encore largement propulsee par cette technologie.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turbopropulseur dans l'aviation militaire de transport
+slug: le-turbopropulseur-dans-l-aviation-militaire-de-transport
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des avions comme le C-130, choisis pour leur robustesse plus que leur vitesse.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le C-130 Hercules et son moteur turbopropulseur
+slug: le-c-130-hercules-et-son-moteur-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Un avion de transport militaire embleme, en service depuis plus de soixante-dix ans.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turbopropulseur dans l'aviation agricole
+slug: le-turbopropulseur-dans-l-aviation-agricole
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une puissance elevee et une grande fiabilite, adaptees a un usage intensif.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La turbine libre contre la turbine liee dans un turbopropulseur
+slug: la-turbine-libre-contre-la-turbine-liee-dans-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Deux architectures internes differentes pour transmettre la puissance a l'helice.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le demarrage d'un turbopropulseur
+slug: le-demarrage-d-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une sequence progressive tres differente du demarrage d'un moteur a piston.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs a double helice contrarotative
+slug: les-turbopropulseurs-a-double-helice-contrarotative
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Deux helices tournant en sens inverse pour ameliorer le rendement propulsif.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bruit caracteristique d'un turbopropulseur
+slug: le-bruit-caracteristique-d-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi ces moteurs produisent une signature sonore reconnaissable entre toutes.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien specifique d'un turbopropulseur
+slug: l-entretien-specifique-d-un-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Des intervalles de revision differents de ceux d'un moteur a piston ou d'un reacteur pur.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turbopropulseur dans les avions d'entrainement militaire
+slug: le-turbopropulseur-dans-les-avions-d-entrainement-militaire
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une etape intermediaire entre le moteur a piston et le reacteur pour former les pilotes.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs a haute altitude et leurs limites
+slug: les-turbopropulseurs-a-haute-altitude-et-leurs-limites
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi cette technologie perd progressivement son avantage au-dessus d'une certaine altitude.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du premier avion de ligne a turbopropulseur
+slug: l-histoire-du-premier-avion-de-ligne-a-turbopropulseur
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Le Vickers Viscount, pionnier de cette technologie dans l'aviation commerciale.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turbopropulseur dans les hydravions modernes
+slug: le-turbopropulseur-dans-les-hydravions-modernes
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une combinaison rare mais toujours utilisee pour certaines missions specifiques.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation comparee d'un turbopropulseur et d'un turboreacteur regional
+slug: la-consommation-comparee-d-un-turbopropulseur-et-d-un-turboreacteur-regional
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Pourquoi certaines compagnies regionales preferent encore l'helice au reacteur.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turbopropulseur dans les avions de surveillance maritime
+slug: le-turbopropulseur-dans-les-avions-de-surveillance-maritime
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une autonomie et une endurance recherchees pour des missions de longue duree.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbopropulseurs contrarotatifs experimentaux (open rotor)
+slug: les-turbopropulseurs-contrarotatifs-experimentaux-open-rotor
+categoryPath: aeronautique/propulsion/turbopropulseurs
+summary: >
+  Une piste de recherche pour concilier la vitesse d'un reacteur et l'efficacite d'une helice.
+tags: [turbopropulseurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cinq etages d'un turboreacteur
+slug: les-cinq-etages-d-un-turboreacteur
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Entree d'air, compresseur, chambre de combustion, turbine et tuyere : le chemin du gaz dans un reacteur.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chambre de combustion d'un reacteur d'avion
+slug: la-chambre-de-combustion-d-un-reacteur-d-avion
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un espace ou le carburant brule en continu a des temperatures extremes.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aubes de turbine et leur resistance a la chaleur
+slug: les-aubes-de-turbine-et-leur-resistance-a-la-chaleur
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Des pieces qui tournent a des temperatures superieures au point de fusion de leur propre metal.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement interne des aubes de turbine
+slug: le-refroidissement-interne-des-aubes-de-turbine
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment on fait circuler de l'air frais a l'interieur meme d'une piece brulante.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les revetements thermiques des pieces de turbine
+slug: les-revetements-thermiques-des-pieces-de-turbine
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Une fine couche ceramique qui protege le metal des temperatures extremes.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compresseur axial contre le compresseur centrifuge
+slug: le-compresseur-axial-contre-le-compresseur-centrifuge
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Deux architectures differentes pour comprimer l'air avant la combustion.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pompage du compresseur, une instabilite dangereuse
+slug: le-pompage-du-compresseur-une-instabilite-dangereuse
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un phenomene ou l'ecoulement d'air s'inverse brutalement dans le compresseur.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tuyere d'ejection et l'acceleration des gaz
+slug: la-tuyere-d-ejection-et-l-acceleration-des-gaz
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  La derniere etape du reacteur, ou les gaz sont expulses a grande vitesse.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'inverseur de poussee au freinage
+slug: l-inverseur-de-poussee-au-freinage
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment un reacteur peut rediriger sa poussee vers l'avant pour ralentir l'avion au sol.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le taux de dilution d'un turboreacteur moderne
+slug: le-taux-de-dilution-d-un-turboreacteur-moderne
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Le rapport entre l'air qui contourne le moteur et celui qui traverse le coeur.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turboreacteur simple flux contre le double flux
+slug: le-turboreacteur-simple-flux-contre-le-double-flux
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Deux generations de moteurs, avec des compromis tres differents en bruit et consommation.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turboreacteur a flux mixte contre a flux separe
+slug: le-turboreacteur-a-flux-mixte-contre-a-flux-separe
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Une difference de conception qui influence le bruit et le rendement du moteur.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le General Electric GE9X, le plus gros reacteur civil
+slug: le-general-electric-ge9x-le-plus-gros-reacteur-civil
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un moteur dont le diametre depasse celui du fuselage de certains avions historiques.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le CFM56, le reacteur le plus produit de l'histoire
+slug: le-cfm56-le-reacteur-le-plus-produit-de-l-histoire
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un moteur present sur des dizaines de milliers d'avions a travers le monde.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La postcombustion sur les reacteurs militaires
+slug: la-postcombustion-sur-les-reacteurs-militaires
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Injecter du carburant supplementaire apres la turbine pour une poussee ponctuelle enorme.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le statoreacteur, un moteur sans piece tournante
+slug: le-statoreacteur-un-moteur-sans-piece-tournante
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un moteur extremement simple qui ne fonctionne qu'a tres grande vitesse.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pulsoreacteur et son fonctionnement intermittent
+slug: le-pulsoreacteur-et-son-fonctionnement-intermittent
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un moteur rudimentaire, celebre pour avoir propulse les V1 allemands.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien preventif des turboreacteurs civils
+slug: l-entretien-preventif-des-turboreacteurs-civils
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Des inspections regulieres par endoscopie interne, sans demonter le moteur.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'inspection par endoscopie des reacteurs en service
+slug: l-inspection-par-endoscopie-des-reacteurs-en-service
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment on inspecte l'interieur d'un moteur sans jamais l'ouvrir completement.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le montage sous aile contre le montage arriere des reacteurs
+slug: le-montage-sous-aile-contre-le-montage-arriere-des-reacteurs
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Deux positions differentes avec des consequences sur l'aerodynamique et la securite.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests d'ingestion de glace dans les reacteurs
+slug: les-tests-d-ingestion-de-glace-dans-les-reacteurs
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment on verifie qu'un moteur reste fonctionnel apres avoir avale de la glace.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol du Gimli Glider et l'extinction totale des reacteurs
+slug: le-vol-du-gimli-glider-et-l-extinction-totale-des-reacteurs
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un cas rare ou un avion de ligne a du planer sans aucun moteur en marche.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le redemarrage en vol d'un reacteur eteint
+slug: le-redemarrage-en-vol-d-un-reacteur-eteint
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Une procedure specifique qui exploite le vent relatif pour relancer la turbine.
+tags: [turboreacteurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'usure et le remplacement des aubes de compresseur
+slug: l-usure-et-le-remplacement-des-aubes-de-compresseur
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Pourquoi meme de minuscules impacts de poussiere finissent par degrader une aube.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bruit d'un reacteur et ses sources principales
+slug: le-bruit-d-un-reacteur-et-ses-sources-principales
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment on distingue le bruit du souffle d'air de celui de la combustion elle-meme.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les silencieux et attenuateurs de bruit des reacteurs
+slug: les-silencieux-et-attenuateurs-de-bruit-des-reacteurs
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Des dispositifs concus specifiquement pour reduire les nuisances sonores autour des aeroports.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle numerique a pleine autorite (FADEC)
+slug: le-controle-numerique-a-pleine-autorite-fadec
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un ordinateur qui gere seul le fonctionnement complet d'un reacteur moderne.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification des reacteurs contre l'ingestion d'oiseaux
+slug: la-certification-des-reacteurs-contre-l-ingestion-d-oiseaux
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Pourquoi on teste litteralement des carcasses d'oiseaux projetees dans un moteur en marche.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vol du Airbus A320 sur l'Hudson et la double perte de reacteurs
+slug: le-vol-du-airbus-a320-sur-l-hudson-et-la-double-perte-de-reacteurs
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un amerrissage d'urgence reussi apres une collision avec des oiseaux sur les deux moteurs.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les materiaux composites dans les reacteurs modernes
+slug: les-materiaux-composites-dans-les-reacteurs-modernes
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment la fibre de carbone a progressivement remplace certaines pieces metalliques.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du carter de confinement en cas de rupture d'aube
+slug: le-role-du-carter-de-confinement-en-cas-de-rupture-d-aube
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Une structure concue pour retenir des debris projetes a tres haute vitesse.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'incident du vol Qantas 32 et la rupture de turbine
+slug: l-incident-du-vol-qantas-32-et-la-rupture-de-turbine
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un cas majeur de defaillance de reacteur qui a teste la solidite d'un Airbus A380.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation specifique d'un turboreacteur en croisiere
+slug: la-consommation-specifique-d-un-turboreacteur-en-croisiere
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment on mesure precisement l'efficacite d'un moteur a differentes altitudes.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reacteur a soufflante non carenee (open rotor)
+slug: le-reacteur-a-soufflante-non-carenee-open-rotor
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un concept experimental qui promet une efficacite proche du turbopropulseur a vitesse elevee.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du bypass dans la reduction du bruit des reacteurs
+slug: le-role-du-bypass-dans-la-reduction-du-bruit-des-reacteurs
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Pourquoi un flux d'air froid autour du coeur du moteur attenue le bruit percu au sol.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du premier vol a reaction en 1939
+slug: l-histoire-du-premier-vol-a-reaction-en-1939
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Le Heinkel He 178, premier avion propulse uniquement par un turboreacteur.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Frank Whittle et l'invention independante du turboreacteur
+slug: frank-whittle-et-l-invention-independante-du-turboreacteur
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un ingenieur britannique qui a developpe la meme idee que les Allemands, separement.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'huile de lubrification dans un turboreacteur
+slug: le-role-de-l-huile-de-lubrification-dans-un-turboreacteur
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Meme sans piston, un reacteur depend d'un circuit d'huile pour ses roulements.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La surveillance des parametres moteur en temps reel (ACARS)
+slug: la-surveillance-des-parametres-moteur-en-temps-reel-acars
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment les donnees d'un reacteur sont transmises au sol pendant meme le vol.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des capteurs de vibration dans la detection precoce de panne
+slug: le-role-des-capteurs-de-vibration-dans-la-detection-precoce-de-panne
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Une surveillance continue capable d'anticiper une defaillance avant qu'elle ne survienne.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais au banc d'un reacteur avant integration sur avion
+slug: les-essais-au-banc-d-un-reacteur-avant-integration-sur-avion
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Des tests intensifs au sol avant qu'un moteur ne vole pour la premiere fois.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie et le remplacement complet d'un turboreacteur
+slug: la-duree-de-vie-et-le-remplacement-complet-d-un-turboreacteur
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Pourquoi un reacteur civil est concu pour des dizaines de milliers d'heures de vol.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du reacteur auxiliaire de puissance (APU)
+slug: le-role-du-reacteur-auxiliaire-de-puissance-apu
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Un petit moteur independant qui fournit electricite et air comprime au sol.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le demarrage des reacteurs principaux grace a l'APU
+slug: le-demarrage-des-reacteurs-principaux-grace-a-l-apu
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment un avion produit sa propre energie pour lancer ses moteurs principaux.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les carburants alternatifs testes sur turboreacteurs existants
+slug: les-carburants-alternatifs-testes-sur-turboreacteurs-existants
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Pourquoi la plupart des nouveaux carburants doivent fonctionner sans modifier le moteur.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du turboreacteur dans les avions de chasse modernes
+slug: le-role-du-turboreacteur-dans-les-avions-de-chasse-modernes
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Des moteurs optimises pour la poussee maximale plutot que pour la seule efficacite.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turboreacteurs a vectorisation de poussee
+slug: les-turboreacteurs-a-vectorisation-de-poussee
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Orienter directement le flux du reacteur pour ameliorer la maniabilite d'un avion de combat.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comparaison de fiabilite entre reacteur ancien et moderne
+slug: la-comparaison-de-fiabilite-entre-reacteur-ancien-et-moderne
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment la fiabilite des turboreacteurs civils s'est amelioree sur plusieurs decennies.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le futur des turboreacteurs face aux contraintes climatiques
+slug: le-futur-des-turboreacteurs-face-aux-contraintes-climatiques
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Comment les fabricants ameliorent encore le rendement d'une technologie deja tres mature.
+tags: [turboreacteurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du carenage acoustique autour de la soufflante
+slug: le-role-du-carenage-acoustique-autour-de-la-soufflante
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Des materiaux absorbants integres a l'entree d'air pour attenuer le bruit percu au sol.
+tags: [turboreacteurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

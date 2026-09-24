@@ -4057,3 +4057,8088 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: Le noyau cellulaire, le centre de commande
+slug: le-noyau-cellulaire-le-centre-de-commande
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  L'organite qui abrite et protege le materiel genetique de la cellule.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La membrane cellulaire, une frontiere selective
+slug: la-membrane-cellulaire-une-frontiere-selective
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une barriere fine qui controle precisement ce qui entre et sort de la cellule.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reticulum endoplasmique et la fabrication des proteines
+slug: le-reticulum-endoplasmique-et-la-fabrication-des-proteines
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un reseau interne essentiel a la production et au transport moleculaire.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre cellule animale et cellule vegetale
+slug: la-difference-entre-cellule-animale-et-cellule-vegetale
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Des structures communes, mais aussi des elements propres a chaque regne.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La paroi cellulaire des plantes
+slug: la-paroi-cellulaire-des-plantes
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une structure rigide qui donne sa forme et sa resistance a la cellule vegetale.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chloroplaste, l'usine solaire de la cellule vegetale
+slug: le-chloroplaste-l-usine-solaire-de-la-cellule-vegetale
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  L'organite responsable de la transformation de la lumiere en energie chimique.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La respiration cellulaire, produire de l'energie
+slug: la-respiration-cellulaire-produire-de-l-energie
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment chaque cellule transforme des nutriments en energie utilisable.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ATP, la monnaie energetique universelle du vivant
+slug: l-atp-la-monnaie-energetique-universelle-du-vivant
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une molecule presente dans toutes les cellules connues pour stocker et transferer l'energie.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La division cellulaire, principe general
+slug: la-division-cellulaire-principe-general
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment une cellule se duplique pour donner naissance a deux cellules identiques.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle cellulaire et ses etapes
+slug: le-cycle-cellulaire-et-ses-etapes
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une sequence precise d'evenements que traverse chaque cellule avant de se diviser.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cellules souches, un potentiel de renouvellement
+slug: les-cellules-souches-un-potentiel-de-renouvellement
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Des cellules capables de se transformer en plusieurs types cellulaires differents.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cellules souches embryonnaires contre adultes
+slug: les-cellules-souches-embryonnaires-contre-adultes
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Deux categories aux capacites et aux usages ethiques tres differents.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decouverte de la cellule par Robert Hooke
+slug: la-decouverte-de-la-cellule-par-robert-hooke
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un moment fondateur de la biologie, rendu possible par l'invention du microscope.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La theorie cellulaire, un principe unificateur du vivant
+slug: la-theorie-cellulaire-un-principe-unificateur-du-vivant
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  L'idee que tout etre vivant est compose d'une ou plusieurs cellules.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les organites cellulaires, une visite guidee
+slug: les-organites-cellulaires-une-visite-guidee
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un panorama des principales structures internes qui composent une cellule.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La membrane plasmique et le transport actif
+slug: la-membrane-plasmique-et-le-transport-actif
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment une cellule peut deplacer des substances contre le sens naturel de diffusion.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'osmose, un phenomene cellulaire fondamental
+slug: l-osmose-un-phenomene-cellulaire-fondamental
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment l'eau se deplace naturellement a travers une membrane cellulaire.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bacteries, des cellules sans noyau
+slug: les-bacteries-des-cellules-sans-noyau
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une categorie d'organismes vivants dont l'organisation interne differe radicalement.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre cellule procaryote et eucaryote
+slug: la-difference-entre-cellule-procaryote-et-eucaryote
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une distinction fondamentale qui separe deux grandes categories du vivant.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cytosquelette, la charpente interne de la cellule
+slug: le-cytosquelette-la-charpente-interne-de-la-cellule
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un reseau de fibres qui donne sa forme et permet le mouvement de la cellule.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mort cellulaire programmee (apoptose)
+slug: la-mort-cellulaire-programmee-apoptose
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Un mecanisme naturel essentiel qui elimine des cellules devenues inutiles ou dangereuses.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microscope electronique et l'observation des cellules
+slug: le-microscope-electronique-et-l-observation-des-cellules
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une technologie qui a revele des details invisibles au microscope optique classique.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La photosynthese, etapes principales
+slug: la-photosynthese-etapes-principales
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment les plantes transforment la lumiere, l'eau et le CO2 en matiere organique.
+tags: [cellule, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre photosynthese et respiration cellulaire
+slug: la-difference-entre-photosynthese-et-respiration-cellulaire
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Deux processus complementaires qui echangent, en quelque sorte, les memes elements.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les virus, entre le vivant et l'inerte
+slug: les-virus-entre-le-vivant-et-l-inerte
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Pourquoi ces entites posent une question difficile a la definition meme de la vie.
+tags: [cellule]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La taille des cellules et ses limites physiques
+slug: la-taille-des-cellules-et-ses-limites-physiques
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Pourquoi une cellule ne peut pas grossir indefiniment sans perdre en efficacite.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La communication entre cellules
+slug: la-communication-entre-cellules
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment des cellules coordonnent leur comportement grace a des signaux chimiques.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cellules specialisees dans un organisme complexe
+slug: les-cellules-specialisees-dans-un-organisme-complexe
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment des cellules identiques a l'origine se differencient pour remplir des roles distincts.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La culture cellulaire en laboratoire
+slug: la-culture-cellulaire-en-laboratoire
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Comment on fait vivre et se reproduire des cellules en dehors d'un organisme entier.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la decouverte du noyau cellulaire
+slug: l-histoire-de-la-decouverte-du-noyau-cellulaire
+categoryPath: sciences-fondamentales/biologie/cellule
+summary: >
+  Une avancee progressive qui a precise notre comprehension de la structure du vivant.
+tags: [cellule]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le concept d'ecosysteme, une definition de base
+slug: le-concept-d-ecosysteme-une-definition-de-base
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un ensemble d'organismes vivants et de leur environnement, en interaction constante.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les producteurs, consommateurs et decomposeurs
+slug: les-producteurs-consommateurs-et-decomposeurs
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Trois roles fondamentaux qui structurent le fonctionnement de tout ecosysteme.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le flux d'energie dans un ecosysteme
+slug: le-flux-d-energie-dans-un-ecosysteme
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment l'energie solaire se transmet, en diminuant, d'un niveau trophique a l'autre.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biomasse et sa mesure dans un ecosysteme
+slug: la-biomasse-et-sa-mesure-dans-un-ecosysteme
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un indicateur qui permet de comparer la quantite de vie presente dans differents milieux.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La capacite de charge d'un ecosysteme
+slug: la-capacite-de-charge-d-un-ecosysteme
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une limite naturelle au-dela de laquelle une population ne peut plus croitre durablement.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La competition entre especes pour les ressources
+slug: la-competition-entre-especes-pour-les-ressources
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un mecanisme fondamental qui structure la repartition des especes dans un milieu.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La predation et son role regulateur
+slug: la-predation-et-son-role-regulateur
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment les relations proie-predateur maintiennent un equilibre dynamique.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mutualisme, une cooperation entre especes
+slug: le-mutualisme-une-cooperation-entre-especes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Une relation ou deux especes differentes tirent toutes deux un benefice reel.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le parasitisme, une relation a sens unique
+slug: le-parasitisme-une-relation-a-sens-unique
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment une espece profite d'une autre au detriment de cette derniere.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les successions ecologiques primaires et secondaires
+slug: les-successions-ecologiques-primaires-et-secondaires
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment un ecosysteme se reconstruit progressivement apres une perturbation.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes pionnieres dans la colonisation d'un milieu
+slug: les-especes-pionnieres-dans-la-colonisation-d-un-milieu
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Les premieres formes de vie a s'installer dans un environnement vierge ou perturbe.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle du carbone dans les ecosystemes
+slug: le-cycle-du-carbone-dans-les-ecosystemes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment cet element circule entre organismes vivants, sol, eau et atmosphere.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle du phosphore, un cycle sans phase gazeuse
+slug: le-cycle-du-phosphore-un-cycle-sans-phase-gazeuse
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Un cycle different des autres, essentiel a la vie mais souvent limitant.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La niche ecologique, le role precis d'une espece
+slug: la-niche-ecologique-le-role-precis-d-une-espece
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment chaque espece occupe une place fonctionnelle specifique dans son milieu.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'exclusion competitive entre especes proches
+slug: l-exclusion-competitive-entre-especes-proches
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Pourquoi deux especes tres similaires ne peuvent generalement pas cohabiter durablement.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience ecologique face aux perturbations
+slug: la-resilience-ecologique-face-aux-perturbations
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Pourquoi certains ecosystemes se retablissent plus vite que d'autres apres un choc.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite et sa mesure scientifique
+slug: la-biodiversite-et-sa-mesure-scientifique
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment on quantifie objectivement la richesse d'un ecosysteme.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes cles de voute dans un ecosysteme
+slug: les-especes-cles-de-voute-dans-un-ecosysteme
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Certaines especes dont la disparition entraine un effondrement disproportionne du reste.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux trophiques, plus complexes que de simples chaines
+slug: les-reseaux-trophiques-plus-complexes-que-de-simples-chaines
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment les relations alimentaires forment en realite un reseau enchevetre.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecologie des populations, croissance et regulation
+slug: l-ecologie-des-populations-croissance-et-regulation
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment le nombre d'individus d'une espece evolue dans le temps.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dynamique proie-predateur, cycles naturels
+slug: la-dynamique-proie-predateur-cycles-naturels
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment les populations de deux especes liees oscillent dans le temps de maniere previsible.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les perturbations naturelles et leur role ecologique
+slug: les-perturbations-naturelles-et-leur-role-ecologique
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Feux, tempetes : des evenements qui, sous conditions, renouvellent un ecosysteme.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La zonation ecologique selon l'altitude ou la profondeur
+slug: la-zonation-ecologique-selon-l-altitude-ou-la-profondeur
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment les especes se repartissent selon un gradient environnemental progressif.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes generalistes contre specialistes
+slug: les-especes-generalistes-contre-specialistes
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Deux strategies ecologiques opposees face aux variations de l'environnement.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le concept de service ecosystemique
+slug: le-concept-de-service-ecosystemique
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment on evalue la valeur concrete que la nature apporte a l'humanite.
+tags: [ecologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La coevolution entre especes en interaction etroite
+slug: la-coevolution-entre-especes-en-interaction-etroite
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment deux especes peuvent evoluer conjointement au fil du temps.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecosystemes insulaires et leurs regles particulieres
+slug: les-ecosystemes-insulaires-et-leurs-regles-particulieres
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Pourquoi les iles suivent souvent des dynamiques ecologiques distinctes.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecologie microbienne, un monde invisible mais essentiel
+slug: l-ecologie-microbienne-un-monde-invisible-mais-essentiel
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment des micro-organismes influencent des ecosystemes entiers.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fragmentation des habitats et ses consequences ecologiques
+slug: la-fragmentation-des-habitats-et-ses-consequences-ecologiques
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment diviser un milieu naturel affecte les especes bien au-dela de la surface perdue.
+tags: [ecologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la naissance de l'ecologie comme science
+slug: l-histoire-de-la-naissance-de-l-ecologie-comme-science
+categoryPath: sciences-fondamentales/biologie/ecologie
+summary: >
+  Comment cette discipline s'est progressivement structuree au cours du XXe siecle.
+tags: [ecologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection naturelle, mecanisme explique simplement
+slug: la-selection-naturelle-mecanisme-explique-simplement
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Le principe fondamental qui explique comment les especes se transforment dans le temps.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La variation genetique, matiere premiere de l'evolution
+slug: la-variation-genetique-matiere-premiere-de-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Sans difference entre individus, aucune selection naturelle ne pourrait operer.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La derive genetique, un facteur d'evolution du hasard
+slug: la-derive-genetique-un-facteur-d-evolution-du-hasard
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment le simple hasard peut, lui aussi, faire evoluer une population.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La speciation, comment naît une nouvelle espece
+slug: la-speciation-comment-nait-une-nouvelle-espece
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Le processus par lequel une population se scinde en deux especes distinctes.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Darwin, Wallace et la decouverte independante de la selection naturelle
+slug: darwin-wallace-et-la-decouverte-independante-de-la-selection-naturelle
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment deux chercheurs sont arrives, separement, a la meme idee revolutionnaire.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le voyage du Beagle et la genese de la theorie de Darwin
+slug: le-voyage-du-beagle-et-la-genese-de-la-theorie-de-darwin
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une expedition scientifique qui a fourni les observations fondatrices d'une theorie majeure.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les iles Galapagos et leurs especes uniques
+slug: les-iles-galapagos-et-leurs-especes-uniques
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un laboratoire naturel qui a fourni des indices cles sur l'evolution des especes.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pinsons de Darwin, un exemple celebre d'adaptation
+slug: les-pinsons-de-darwin-un-exemple-celebre-d-adaptation
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment de petites variations de bec revelent un processus evolutif en action.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution humaine, grandes etapes
+slug: l-evolution-humaine-grandes-etapes
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un long processus qui a mene, par etapes successives, a l'espece humaine actuelle.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes humaines disparues
+slug: les-especes-humaines-disparues
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Neandertal et d'autres cousins eloignes qui ont coexiste avec notre propre espece.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Neandertal, ce que l'on sait aujourd'hui
+slug: neandertal-ce-que-l-on-sait-aujourd-hui
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une espece longtemps sous-estimee, dont les capacites reelles sont reevaluees.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sortie d'Afrique de l'espece humaine
+slug: la-sortie-d-afrique-de-l-espece-humaine
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment nos ancetres ont progressivement peuple l'ensemble de la planete.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fossiles, temoins directs de l'histoire de la vie
+slug: les-fossiles-temoins-directs-de-l-histoire-de-la-vie
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment des restes rares mais precieux racontent l'evolution des especes.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La datation des fossiles, methodes scientifiques
+slug: la-datation-des-fossiles-methodes-scientifiques
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment on estime avec precision l'age de restes vieux de millions d'annees.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les chainons manquants, un malentendu frequent
+slug: les-chainons-manquants-un-malentendu-frequent
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Pourquoi cette expression populaire deforme la comprehension reelle de l'evolution.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La convergence evolutive, des solutions similaires independantes
+slug: la-convergence-evolutive-des-solutions-similaires-independantes
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment des especes tres eloignees peuvent developper des traits tres similaires.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection sexuelle, un moteur particulier de l'evolution
+slug: la-selection-sexuelle-un-moteur-particulier-de-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment le choix du partenaire peut favoriser des traits parfois couteux pour la survie.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution des antibiotiques, une course permanente
+slug: l-evolution-des-antibiotiques-une-course-permanente
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment les bacteries evoluent en temps reel face a nos traitements medicaux.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance aux pesticides, une evolution observable
+slug: la-resistance-aux-pesticides-une-evolution-observable
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un exemple concret et rapide de selection naturelle a l'oeuvre aujourd'hui.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution convergente des ailes chez differentes especes
+slug: l-evolution-convergente-des-ailes-chez-differentes-especes
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment le vol est apparu independamment plusieurs fois dans l'histoire du vivant.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection artificielle, l'homme comme force evolutive
+slug: la-selection-artificielle-l-homme-comme-force-evolutive
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment la domestication a modifie des especes bien plus vite que la nature seule.
+tags: [evolution, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'arbre phylogenetique, representer les liens de parente du vivant
+slug: l-arbre-phylogenetique-representer-les-liens-de-parente-du-vivant
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Un outil visuel qui organise les especes selon leur histoire evolutive commune.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les preuves moleculaires de l'evolution
+slug: les-preuves-moleculaires-de-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment la comparaison de l'ADN confirme et precise les relations entre especes.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution en action, des exemples observes de nos jours
+slug: l-evolution-en-action-des-exemples-observes-de-nos-jours
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des cas concrets ou l'evolution se produit sur une echelle de temps humaine.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La theorie de l'evolution face a la societe
+slug: la-theorie-de-l-evolution-face-a-la-societe
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Pourquoi cette theorie scientifique solide reste parfois contestee culturellement.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'extinction, un processus naturel de l'evolution
+slug: l-extinction-un-processus-naturel-de-l-evolution
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment la disparition d'especes fait partie integrante de l'histoire du vivant.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cinq grandes extinctions de masse de l'histoire
+slug: les-cinq-grandes-extinctions-de-masse-de-l-histoire
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Des evenements majeurs qui ont chacun redessine radicalement la biodiversite terrestre.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution des dents chez les mammiferes
+slug: l-evolution-des-dents-chez-les-mammiferes
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Comment la forme des dents revele l'adaptation d'une espece a son alimentation.
+tags: [evolution]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La generation spontanee, une theorie abandonnee
+slug: la-generation-spontanee-une-theorie-abandonnee
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une idee ancienne, refutee par l'experience, sur l'apparition de la vie.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Louis Pasteur et la refutation de la generation spontanee
+slug: louis-pasteur-et-la-refutation-de-la-generation-spontanee
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Une experience elegante qui a definitivement clos un vieux debat scientifique.
+tags: [evolution]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chromosome, support physique des genes
+slug: le-chromosome-support-physique-des-genes
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une structure qui organise et protege l'ensemble du materiel genetique d'une cellule.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le gene, une definition precise
+slug: le-gene-une-definition-precise
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une unite d'information genetique qui code, generalement, pour une proteine.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genotype et le phenotype, une distinction essentielle
+slug: le-genotype-et-le-phenotype-une-distinction-essentielle
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Pourquoi ce que l'on observe ne revele pas toujours directement le materiel genetique.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Mendel et la naissance de la genetique moderne
+slug: mendel-et-la-naissance-de-la-genetique-moderne
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment des experiences sur des petits pois ont pose les bases de toute une science.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lois de l'heredite selon Mendel
+slug: les-lois-de-l-heredite-selon-mendel
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Des principes simples mais fondamentaux qui expliquent la transmission des caracteres.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les genes dominants et recessifs, mecanisme explique
+slug: les-genes-dominants-et-recessifs-mecanisme-explique
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Pourquoi un caractere peut se transmettre sans toujours s'exprimer immediatement.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mutations genetiques, moteur de la diversite
+slug: les-mutations-genetiques-moteur-de-la-diversite
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Des changements aleatoires qui, cumules, alimentent l'evolution du vivant.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de mutations genetiques
+slug: les-differents-types-de-mutations-genetiques
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Ponctuelle, insertion, deletion : plusieurs facons dont l'ADN peut se modifier.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'heredite liee au sexe
+slug: l-heredite-liee-au-sexe
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Pourquoi certains caracteres se transmettent differemment selon le sexe de l'individu.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies genetiques hereditaires
+slug: les-maladies-genetiques-hereditaires
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment une simple mutation peut se transmettre de generation en generation.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le conseil genetique, informer avant une decision
+slug: le-conseil-genetique-informer-avant-une-decision
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un accompagnement qui aide les familles a comprendre un risque genetique identifie.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'epigenetique, quand l'environnement influence l'expression des genes
+slug: l-epigenetique-quand-l-environnement-influence-l-expression-des-genes
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment des facteurs exterieurs peuvent activer ou desactiver un gene sans le modifier.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transmission epigenetique entre generations
+slug: la-transmission-epigenetique-entre-generations
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une decouverte surprenante qui remet en question certaines idees recues sur l'heredite.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les jumeaux et l'etude de l'heritabilite
+slug: les-jumeaux-et-l-etude-de-l-heritabilite
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment comparer des vrais et des faux jumeaux eclaire le poids relatif des genes.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cartographie du genome, une entreprise scientifique majeure
+slug: la-cartographie-du-genome-une-entreprise-scientifique-majeure
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment on a etabli, gene par gene, la carte complete de l'ADN humain.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genome humain, ce qu'il contient reellement
+slug: le-genome-humain-ce-qu-il-contient-reellement
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Un panorama de ce que revele, et ne revele pas, notre patrimoine genetique complet.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ADN non codant, longtemps appele ADN poubelle
+slug: l-adn-non-codant-longtemps-appele-adn-poubelle
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une partie du genome dont le role s'est revele bien plus important qu'on ne le pensait.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transcription et la traduction genetique
+slug: la-transcription-et-la-traduction-genetique
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment l'information contenue dans un gene devient une proteine fonctionnelle.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le code genetique, un langage universel du vivant
+slug: le-code-genetique-un-langage-universel-du-vivant
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment quatre lettres suffisent a coder toute l'information biologique connue.
+tags: [genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique des groupes sanguins
+slug: la-genetique-des-groupes-sanguins
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment un simple heritage genetique determine une caracteristique medicale essentielle.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'heredite mitochondriale, transmise uniquement par la mere
+slug: l-heredite-mitochondriale-transmise-uniquement-par-la-mere
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une particularite genetique qui trace directement une lignee maternelle.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests genetiques prenataux
+slug: les-tests-genetiques-prenataux
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Des examens qui permettent de detecter certaines conditions avant la naissance.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique des populations
+slug: la-genetique-des-populations
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment les frequences genetiques evoluent au sein d'un groupe d'individus.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les maladies genetiques recessives et le role de la consanguinite
+slug: les-maladies-genetiques-recessives-et-le-role-de-la-consanguinite
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Pourquoi certaines unions augmentent le risque d'exprimer une maladie rare.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le clonage genetique, principes et distinctions
+slug: le-clonage-genetique-principes-et-distinctions
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Une confusion frequente entre plusieurs techniques regroupees sous ce meme terme.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique des groupes ethniques et ses limites scientifiques
+slug: la-genetique-des-groupes-ethniques-et-ses-limites-scientifiques
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Ce que la science affirme, et surtout n'affirme pas, sur ce sujet sensible.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la redecouverte des travaux de Mendel
+slug: l-histoire-de-la-redecouverte-des-travaux-de-mendel
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment une decouverte pourtant majeure a d'abord ete largement ignoree.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La genetique quantitative, des caracteres influences par plusieurs genes
+slug: la-genetique-quantitative-des-caracteres-influences-par-plusieurs-genes
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Pourquoi de nombreux traits ne dependent pas d'un seul gene isole.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consanguinite et ses effets genetiques
+slug: la-consanguinite-et-ses-effets-genetiques
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Pourquoi les unions entre proches parents augmentent statistiquement certains risques.
+tags: [genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les avancees recentes du sequencage genetique rapide
+slug: les-avancees-recentes-du-sequencage-genetique-rapide
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Comment cette technologie est devenue considerablement plus rapide et accessible.
+tags: [genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La structure de l'atome, protons, neutrons et electrons
+slug: la-structure-de-l-atome-protons-neutrons-et-electrons
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Les composants fondamentaux qui constituent toute la matiere connue.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La classification periodique, principe d'organisation
+slug: la-classification-periodique-principe-d-organisation
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment un simple tableau organise logiquement tous les elements chimiques connus.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Mendeleïev et l'invention du tableau periodique
+slug: mendeleiev-et-l-invention-du-tableau-periodique
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment un chercheur a predit l'existence d'elements encore inconnus de son temps.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les familles chimiques du tableau periodique
+slug: les-familles-chimiques-du-tableau-periodique
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Pourquoi certains elements partagent des proprietes chimiques tres similaires.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les liaisons chimiques, ioniques et covalentes
+slug: les-liaisons-chimiques-ioniques-et-covalentes
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Deux mecanismes fondamentaux qui expliquent comment les atomes s'associent.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pH, mesurer l'acidite d'une solution
+slug: le-ph-mesurer-l-acidite-d-une-solution
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une echelle simple qui indique le caractere acide ou basique d'un liquide.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les acides et bases du quotidien
+slug: les-acides-et-bases-du-quotidien
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des exemples concrets qui montrent l'omnipresence de cette chimie de base.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reactivite des metaux, une echelle utile
+slug: la-reactivite-des-metaux-une-echelle-utile
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Pourquoi certains metaux reagissent violemment et d'autres presque pas du tout.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La corrosion des metaux, mecanisme chimique
+slug: la-corrosion-des-metaux-mecanisme-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment l'oxygene et l'humidite degradent progressivement de nombreux metaux.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection des metaux contre la corrosion
+slug: la-protection-des-metaux-contre-la-corrosion
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des methodes simples et efficaces pour prolonger la duree de vie d'un objet metallique.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eau, une molecule aux proprietes exceptionnelles
+slug: l-eau-une-molecule-aux-proprietes-exceptionnelles
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Pourquoi cette molecule simple presente des caracteristiques chimiques uniques.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sels mineraux et leur role chimique
+slug: les-sels-mineraux-et-leur-role-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des composes essentiels presents aussi bien dans la nature que dans le corps humain.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'oxydation et la reduction, deux faces d'une meme reaction
+slug: l-oxydation-et-la-reduction-deux-faces-d-une-meme-reaction
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un principe chimique fondamental qui explique de nombreux phenomenes du quotidien.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gaz nobles, des elements peu reactifs
+slug: les-gaz-nobles-des-elements-peu-reactifs
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une famille chimique particuliere dont l'inertie s'explique par leur structure atomique.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les metaux alcalins et leur reactivite extreme
+slug: les-metaux-alcalins-et-leur-reactivite-extreme
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une famille chimique dont certains membres reagissent violemment avec l'eau.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des cristaux
+slug: la-formation-des-cristaux
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment des atomes s'organisent naturellement selon des structures geometriques precises.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mineraux, des composes chimiques naturels
+slug: les-mineraux-des-composes-chimiques-naturels
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment la chimie inorganique se manifeste directement dans les roches de la Terre.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des ciments et des betons
+slug: la-chimie-des-ciments-et-des-betons
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des reactions chimiques precises qui transforment une poudre en materiau solide.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les isotopes, des atomes presque identiques
+slug: les-isotopes-des-atomes-presque-identiques
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Pourquoi certains atomes d'un meme element ont des masses legerement differentes.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radioactivite naturelle des elements
+slug: la-radioactivite-naturelle-des-elements
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un phenomene qui touche certains atomes instables presents dans notre environnement.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gaz, proprietes chimiques de base
+slug: les-gaz-proprietes-chimiques-de-base
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment la chimie explique le comportement particulier de cet etat de la matiere.
+tags: [chimie-inorganique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie de l'air que l'on respire
+slug: la-chimie-de-l-air-que-l-on-respire
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Une composition precise, essentielle a la vie, qu'il est utile de bien connaitre.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composes du soufre et leurs usages
+slug: les-composes-du-soufre-et-leurs-usages
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un element chimique aux applications tres variees, de l'industrie a la biologie.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie du sel de table
+slug: la-chimie-du-sel-de-table
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un compose ionique simple mais essentiel, present dans la vie quotidienne depuis toujours.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les indicateurs colores en chimie
+slug: les-indicateurs-colores-en-chimie
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Des substances qui changent de couleur pour reveler l'acidite d'une solution.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des engrais mineraux
+slug: la-chimie-des-engrais-mineraux
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment des composes inorganiques simples fournissent des nutriments essentiels aux plantes.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reactions de precipitation en chimie
+slug: les-reactions-de-precipitation-en-chimie
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment deux solutions liquides peuvent produire un solide en se melangeant.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie du fer et de ses oxydes
+slug: la-chimie-du-fer-et-de-ses-oxydes
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Un element central dans l'histoire humaine, avec une chimie riche et variee.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les solutions aqueuses et la dissolution des sels
+slug: les-solutions-aqueuses-et-la-dissolution-des-sels
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment l'eau dissout efficacement de nombreux composes chimiques.
+tags: [chimie-inorganique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la decouverte de l'oxygene
+slug: l-histoire-de-la-decouverte-de-l-oxygene
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Comment plusieurs chercheurs ont, presque simultanement, identifie ce gaz essentiel.
+tags: [chimie-inorganique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La polyvalence du carbone, base de la chimie organique
+slug: la-polyvalence-du-carbone-base-de-la-chimie-organique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Pourquoi cet element peut former une variete quasi infinie de molecules.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hydrocarbures satures et insatures
+slug: les-hydrocarbures-satures-et-insatures
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une distinction chimique fondamentale qui influence les proprietes d'une molecule.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les groupes fonctionnels en chimie organique
+slug: les-groupes-fonctionnels-en-chimie-organique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des structures precises qui determinent le comportement chimique d'une molecule.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les alcools, structure et proprietes chimiques
+slug: les-alcools-structure-et-proprietes-chimiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une famille de molecules organiques tres presente dans la vie quotidienne.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les acides gras et leur role biologique
+slug: les-acides-gras-et-leur-role-biologique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des molecules essentielles a la fois a l'alimentation et a la structure des cellules.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sucres, structure chimique de base
+slug: les-sucres-structure-chimique-de-base
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment de simples molecules organiques deviennent une source d'energie essentielle.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les proteines, assemblage d'acides amines
+slug: les-proteines-assemblage-d-acides-amines
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment vingt briques elementaires suffisent a construire une diversite immense de molecules.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La structure tridimensionnelle des proteines
+slug: la-structure-tridimensionnelle-des-proteines
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Pourquoi la forme d'une molecule determine directement sa fonction biologique.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les polymeres naturels et synthetiques
+slug: les-polymeres-naturels-et-synthetiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment de longues chaines moleculaires composent aussi bien le bois que le plastique.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distillation, separer des liquides organiques
+slug: la-distillation-separer-des-liquides-organiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une technique ancienne fondee sur les differences de temperature d'ebullition.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fermentation, une transformation chimique biologique
+slug: la-fermentation-une-transformation-chimique-biologique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment des micro-organismes transforment naturellement une substance en une autre.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La saponification, la chimie derriere le savon
+slug: la-saponification-la-chimie-derriere-le-savon
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une reaction chimique ancienne qui transforme une graisse en un produit nettoyant.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chiralite, quand deux molecules sont des images miroir
+slug: la-chiralite-quand-deux-molecules-sont-des-images-miroir
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Un phenomene chimique subtil qui peut avoir des consequences biologiques majeures.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les esters, responsables de nombreux aromes naturels
+slug: les-esters-responsables-de-nombreux-aromes-naturels
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une famille de molecules organiques a l'origine de nombreuses odeurs et saveurs.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La combustion des hydrocarbures
+slug: la-combustion-des-hydrocarbures
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une reaction chimique fondamentale a l'origine de la production d'energie fossile.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les alcaloides, des molecules vegetales puissantes
+slug: les-alcaloides-des-molecules-vegetales-puissantes
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des composes organiques naturels aux effets biologiques parfois tres marques.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie du petrole, un melange complexe d'hydrocarbures
+slug: la-chimie-du-petrole-un-melange-complexe-d-hydrocarbures
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment on separe et valorise les differents composants de cette ressource.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vitamines, structure chimique et role
+slug: les-vitamines-structure-chimique-et-role
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des molecules organiques essentielles que le corps ne peut generalement pas fabriquer seul.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des colorants naturels
+slug: la-chimie-des-colorants-naturels
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment certaines molecules organiques presentes dans la nature produisent des couleurs stables.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les terpenes, composes aromatiques du monde vegetal
+slug: les-terpenes-composes-aromatiques-du-monde-vegetal
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une famille de molecules a l'origine de nombreuses odeurs caracteristiques des plantes.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La synthese organique, fabriquer une molecule etape par etape
+slug: la-synthese-organique-fabriquer-une-molecule-etape-par-etape
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment les chimistes construisent methodiquement des molecules complexes.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hormones, des messagers chimiques organiques
+slug: les-hormones-des-messagers-chimiques-organiques
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des molecules qui coordonnent a distance le fonctionnement de tout un organisme.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie organique des plastiques courants
+slug: la-chimie-organique-des-plastiques-courants
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment differentes structures moleculaires donnent des proprietes tres variees.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les acides amines essentiels et leur structure
+slug: les-acides-amines-essentiels-et-leur-structure
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des briques moleculaires que le corps ne peut pas synthetiser lui-meme.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie du vinaigre et de la fermentation acetique
+slug: la-chimie-du-vinaigre-et-de-la-fermentation-acetique
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Une transformation chimique simple, connue et utilisee depuis l'Antiquite.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cetones et aldehydes, deux familles apparentees
+slug: les-cetones-et-aldehydes-deux-familles-apparentees
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des groupes fonctionnels courants aux proprietes chimiques distinctes mais liees.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie organique du bois et de la cellulose
+slug: la-chimie-organique-du-bois-et-de-la-cellulose
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Comment cette molecule abondante constitue la structure de base des plantes.
+tags: [chimie-organique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les amines, une famille organique azotee
+slug: les-amines-une-famille-organique-azotee
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Des molecules presentes aussi bien dans la biologie que dans l'industrie chimique.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La polymerisation, assembler de petites molecules en chaine
+slug: la-polymerisation-assembler-de-petites-molecules-en-chaine
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Le processus chimique fondamental derriere la fabrication de tous les plastiques.
+tags: [chimie-organique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la synthese du premier compose organique artificiel
+slug: l-histoire-de-la-synthese-du-premier-compose-organique-artificiel
+categoryPath: sciences-fondamentales/chimie/chimie-organique
+summary: >
+  Un moment qui a remis en question l'idee que la chimie du vivant etait a part.
+tags: [chimie-organique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie d'activation d'une reaction chimique
+slug: l-energie-d-activation-d-une-reaction-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Pourquoi certaines reactions, meme favorables, ont besoin d'un declencheur initial.
+tags: [chimie-physique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reactions exothermiques et endothermiques
+slug: les-reactions-exothermiques-et-endothermiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Deux categories de reactions qui liberent ou, au contraire, absorbent de l'energie.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'equilibre chimique, un etat dynamique
+slug: l-equilibre-chimique-un-etat-dynamique
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment une reaction peut sembler arretee tout en continuant en permanence.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de Le Chatelier
+slug: le-principe-de-le-chatelier
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une regle qui predit comment un systeme chimique reagit face a une perturbation.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La catalyse enzymatique dans le vivant
+slug: la-catalyse-enzymatique-dans-le-vivant
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment des molecules biologiques accelerent des reactions chimiques essentielles.
+tags: [chimie-physique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etats de la matiere, au-dela des trois classiques
+slug: les-etats-de-la-matiere-au-dela-des-trois-classiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Solide, liquide, gaz, et d'autres etats moins connus mais bien reels.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le plasma, le quatrieme etat de la matiere
+slug: le-plasma-le-quatrieme-etat-de-la-matiere
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un etat particulier ou les atomes perdent leurs electrons, present dans les etoiles.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les changements d'etat de la matiere
+slug: les-changements-d-etat-de-la-matiere
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Fusion, evaporation, sublimation : comment la matiere change de forme sans changer de nature.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La combustion, une reaction chimique fondamentale
+slug: la-combustion-une-reaction-chimique-fondamentale
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Le mecanisme precis qui explique pourquoi et comment une matiere brule.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le triangle du feu, les conditions necessaires a la combustion
+slug: le-triangle-du-feu-les-conditions-necessaires-a-la-combustion
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Trois elements simples dont la comprehension aide a prevenir et eteindre un incendie.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cinetique chimique, mesurer la vitesse d'une reaction
+slug: la-cinetique-chimique-mesurer-la-vitesse-d-une-reaction
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Pourquoi certaines reactions sont instantanees et d'autres extremement lentes.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les facteurs qui influencent la vitesse d'une reaction chimique
+slug: les-facteurs-qui-influencent-la-vitesse-d-une-reaction-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Temperature, concentration, surface de contact : des leviers concrets et mesurables.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La solubilite, dissoudre une substance dans une autre
+slug: la-solubilite-dissoudre-une-substance-dans-une-autre
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un phenomene chimique quotidien dont les regles sont bien comprises.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie de la corrosion et sa prevention
+slug: la-chimie-de-la-corrosion-et-sa-prevention
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment ralentir chimiquement un processus de degradation naturel des metaux.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reactions acide-base en detail
+slug: les-reactions-acide-base-en-detail
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment un acide et une base s'annulent mutuellement selon une chimie precise.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaleur de reaction et sa mesure
+slug: la-chaleur-de-reaction-et-sa-mesure
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment on quantifie precisement l'energie liberee ou absorbee par une transformation.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie de la dissolution du sel dans l'eau
+slug: la-chimie-de-la-dissolution-du-sel-dans-l-eau
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un exemple simple mais complet des principes de la chimie physique.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les solutions sursaturees, un etat instable
+slug: les-solutions-sursaturees-un-etat-instable
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment une solution peut contenir plus de substance dissoute que d'ordinaire.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pression et son influence sur les reactions chimiques
+slug: la-pression-et-son-influence-sur-les-reactions-chimiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment ce facteur physique modifie parfois directement le cours d'une reaction.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des explosifs, principes generaux
+slug: la-chimie-des-explosifs-principes-generaux
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une reaction chimique extremement rapide, aux principes physiques bien compris.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la temperature dans les reactions chimiques
+slug: le-role-de-la-temperature-dans-les-reactions-chimiques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Pourquoi chauffer une reaction l'accelere generalement de maniere significative.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des piles electriques
+slug: la-chimie-des-piles-electriques
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment une reaction chimique controlee produit directement un courant electrique.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entropie en chimie, le desordre naturel des systemes
+slug: l-entropie-en-chimie-le-desordre-naturel-des-systemes
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Un concept fondamental qui explique pourquoi certaines reactions sont spontanees.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique des detergents
+slug: la-chimie-physique-des-detergents
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment ces produits combinent des proprietes chimiques pour eliminer les saletes.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reactions en chaine, un mecanisme auto-entretenu
+slug: les-reactions-en-chaine-un-mecanisme-auto-entretenu
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment une premiere reaction peut en declencher automatiquement d'autres.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie de la rouille et sa cinetique
+slug: la-chimie-de-la-rouille-et-sa-cinetique
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Pourquoi ce processus de corrosion, bien que lent, est chimiquement inevitable sans protection.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des catalyseurs dans l'industrie chimique
+slug: le-role-des-catalyseurs-dans-l-industrie-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment ces substances accelerent des reactions sans etre elles-memes consommees.
+tags: [chimie-physique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie physique de l'evaporation
+slug: la-chimie-physique-de-l-evaporation
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment un liquide se transforme en gaz meme sans atteindre son point d'ebullition.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les melanges homogenes et heterogenes
+slug: les-melanges-homogenes-et-heterogenes
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Une distinction chimique de base utile pour comprendre de nombreux phenomenes du quotidien.
+tags: [chimie-physique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la decouverte des lois de la thermodynamique chimique
+slug: l-histoire-de-la-decouverte-des-lois-de-la-thermodynamique-chimique
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Comment des chercheurs ont progressivement formalise les echanges d'energie en chimie.
+tags: [chimie-physique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les equations lineaires, principe de resolution
+slug: les-equations-lineaires-principe-de-resolution
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  La forme la plus simple d'equation, base de nombreux raisonnements mathematiques.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'equations a plusieurs inconnues
+slug: les-systemes-d-equations-a-plusieurs-inconnues
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment resoudre simultanement plusieurs relations mathematiques liees entre elles.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Al-Khwarizmi et les origines de l'algebre
+slug: al-khwarizmi-et-les-origines-de-l-algebre
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un mathematicien dont les travaux ont donne son nom a cette branche entiere.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La factorisation, decomposer une expression algebrique
+slug: la-factorisation-decomposer-une-expression-algebrique
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une technique fondamentale pour simplifier et resoudre de nombreux problemes.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les polynomes, structure et operations de base
+slug: les-polynomes-structure-et-operations-de-base
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des expressions mathematiques centrales, utilisees dans de nombreux domaines appliques.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fractions et leurs operations
+slug: les-fractions-et-leurs-operations
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des notions de base essentielles avant d'aborder des mathematiques plus avancees.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les puissances et les racines carrees
+slug: les-puissances-et-les-racines-carrees
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des operations fondamentales qui simplifient l'ecriture de calculs repetitifs.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nombres negatifs, une invention progressive
+slug: les-nombres-negatifs-une-invention-progressive
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une notion qui a mis du temps a etre pleinement acceptee par les mathematiciens.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le zero, un chiffre qui a change les mathematiques
+slug: le-zero-un-chiffre-qui-a-change-les-mathematiques
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment ce concept, longtemps absent, a transforme entierement le calcul.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fractions continues
+slug: les-fractions-continues
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une facon alternative et elegante de representer certains nombres.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resolution des equations du troisieme degre
+slug: la-resolution-des-equations-du-troisieme-degre
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une avancee historique majeure qui a longtemps resiste aux mathematiciens.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nombres irrationnels, une decouverte troublante
+slug: les-nombres-irrationnels-une-decouverte-troublante
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment les mathematiciens grecs ont ete confrontes a des nombres qu'ils ne pouvaient exprimer simplement.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nombres premiers, definition et importance
+slug: les-nombres-premiers-definition-et-importance
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des nombres fondamentaux qui servent de briques de base a tous les autres.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le crible d'Eratosthene, trouver les nombres premiers
+slug: le-crible-d-eratosthene-trouver-les-nombres-premiers
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une methode ancienne, simple et efficace pour identifier ces nombres particuliers.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie et son lien avec les nombres premiers
+slug: la-cryptographie-et-son-lien-avec-les-nombres-premiers
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment une propriete mathematique ancienne protege aujourd'hui nos communications numeriques.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nombres complexes, au-dela de la droite reelle
+slug: les-nombres-complexes-au-dela-de-la-droite-reelle
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une extension des nombres qui a resolu des problemes jusque-la insolubles.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'unite imaginaire et son utilite pratique
+slug: l-unite-imaginaire-et-son-utilite-pratique
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un concept d'abord juge etrange, devenu essentiel a de nombreuses applications concretes.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les matrices, organiser des nombres en tableau
+slug: les-matrices-organiser-des-nombres-en-tableau
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un outil mathematique puissant utilise dans de nombreux domaines scientifiques.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vecteurs, representer une grandeur avec une direction
+slug: les-vecteurs-representer-une-grandeur-avec-une-direction
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un concept essentiel qui combine une valeur numerique et une orientation dans l'espace.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les suites numeriques et leurs regles
+slug: les-suites-numeriques-et-leurs-regles
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment une simple regle peut engendrer une sequence infinie de nombres.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La suite de Fibonacci et ses apparitions dans la nature
+slug: la-suite-de-fibonacci-et-ses-apparitions-dans-la-nature
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une sequence celebre qui apparait de maniere surprenante dans le monde vivant.
+tags: [algebre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nombre d'or et ses proprietes mathematiques
+slug: le-nombre-d-or-et-ses-proprietes-mathematiques
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un rapport particulier longtemps associe, a tort ou a raison, a l'esthetique.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inegalites mathematiques, comparer sans egaler
+slug: les-inegalites-mathematiques-comparer-sans-egaler
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Des outils essentiels pour raisonner sur des ordres de grandeur plutot que des valeurs exactes.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resolution graphique des equations
+slug: la-resolution-graphique-des-equations
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment visualiser une equation aide souvent a mieux la comprendre et la resoudre.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les logarithmes, simplifier les calculs complexes
+slug: les-logarithmes-simplifier-les-calculs-complexes
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une invention historique qui a considerablement facilite les calculs avant les calculatrices.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: John Napier et l'invention des logarithmes
+slug: john-napier-et-l-invention-des-logarithmes
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un mathematicien dont l'invention a transforme les calculs scientifiques pendant des siecles.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes de numeration a travers l'histoire
+slug: les-systemes-de-numeration-a-travers-l-histoire
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment differentes civilisations ont invente des facons distinctes de compter.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La numeration binaire, base de l'informatique moderne
+slug: la-numeration-binaire-base-de-l-informatique-moderne
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Un systeme tres simple mais a l'origine de toute l'informatique actuelle.
+tags: [algebre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les congruences et l'arithmetique modulaire
+slug: les-congruences-et-l-arithmetique-modulaire
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Une facon de raisonner sur les restes d'une division, utile dans de nombreux domaines.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du developpement de l'algebre abstraite
+slug: l-histoire-du-developpement-de-l-algebre-abstraite
+categoryPath: sciences-fondamentales/mathematiques/algebre
+summary: >
+  Comment cette branche des mathematiques a evolue vers des structures de plus en plus generales.
+tags: [algebre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La notion de limite en mathematiques
+slug: la-notion-de-limite-en-mathematiques
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un concept fondamental qui permet de raisonner sur ce qui se passe a l'infini.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La continuite d'une fonction mathematique
+slug: la-continuite-d-une-fonction-mathematique
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une propriete intuitive mais rigoureusement definie en mathematiques.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions mathematiques, definition et exemples
+slug: les-fonctions-mathematiques-definition-et-exemples
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un concept central qui relie une valeur d'entree a une valeur de sortie unique.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La derivee, mesurer un taux de changement instantane
+slug: la-derivee-mesurer-un-taux-de-changement-instantane
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un outil essentiel pour comprendre comment une quantite evolue a chaque instant.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les applications concretes de la derivee
+slug: les-applications-concretes-de-la-derivee
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Vitesse, acceleration : comment ce concept mathematique decrit des phenomenes reels.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'integrale, calculer une aire sous une courbe
+slug: l-integrale-calculer-une-aire-sous-une-courbe
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un outil qui permet de sommer une infinite de petites quantites.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theoreme fondamental de l'analyse
+slug: le-theoreme-fondamental-de-l-analyse
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un lien profond et elegant entre deux operations mathematiques apparemment distinctes.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Newton, Leibniz et la querelle de l'invention du calcul
+slug: newton-leibniz-et-la-querelle-de-l-invention-du-calcul
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une rivalite historique autour de la paternite d'une decouverte mathematique majeure.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La croissance exponentielle, comprendre son ampleur
+slug: la-croissance-exponentielle-comprendre-son-ampleur
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Pourquoi cette forme de croissance depasse largement l'intuition humaine naturelle.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La croissance logistique, une alternative plus realiste
+slug: la-croissance-logistique-une-alternative-plus-realiste
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un modele qui integre une limite naturelle a la croissance exponentielle.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les series mathematiques, additionner l'infini
+slug: les-series-mathematiques-additionner-l-infini
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Comment une somme infinie de termes peut, dans certains cas, donner un resultat fini.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paradoxe de Zenon et l'infini mathematique
+slug: le-paradoxe-de-zenon-et-l-infini-mathematique
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un casse-tete ancien resolu grace aux outils modernes de l'analyse.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les equations differentielles, decrire un changement continu
+slug: les-equations-differentielles-decrire-un-changement-continu
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un outil mathematique essentiel pour modeliser de nombreux phenomenes naturels.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions trigonometriques et leur usage en analyse
+slug: les-fonctions-trigonometriques-et-leur-usage-en-analyse
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Comment des concepts geometriques anciens s'integrent aux mathematiques du changement.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nombre e, une constante mathematique fondamentale
+slug: le-nombre-e-une-constante-mathematique-fondamentale
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un nombre special qui apparait naturellement dans de nombreux phenomenes de croissance.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions exponentielles et logarithmiques
+slug: les-fonctions-exponentielles-et-logarithmiques
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Deux fonctions inverses l'une de l'autre, essentielles a de nombreux modeles scientifiques.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'analyse numerique, approximer ce qu'on ne peut calculer exactement
+slug: l-analyse-numerique-approximer-ce-qu-on-ne-peut-calculer-exactement
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Des methodes pratiques pour obtenir des resultats utiles meme sans solution exacte.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le prix Abel et son role dans les mathematiques contemporaines
+slug: le-prix-abel-et-son-role-dans-les-mathematiques-contemporaines
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une recompense prestigieuse qui distingue les contributions majeures a la discipline.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fractales, des formes infiniment complexes
+slug: les-fractales-des-formes-infiniment-complexes
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Des objets mathematiques qui revelent la meme complexite a toutes les echelles.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Benoit Mandelbrot et la decouverte des fractales
+slug: benoit-mandelbrot-et-la-decouverte-des-fractales
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un mathematicien qui a formalise et popularise ce concept fascinant.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'analyse appliquee a la modelisation de population
+slug: l-analyse-appliquee-a-la-modelisation-de-population
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Comment des outils mathematiques predisent l'evolution du nombre d'individus.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les optimisations mathematiques, trouver le meilleur resultat
+slug: les-optimisations-mathematiques-trouver-le-meilleur-resultat
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Des methodes qui permettent de determiner un maximum ou un minimum precis.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calcul infinitesimal, une revolution mathematique
+slug: le-calcul-infinitesimal-une-revolution-mathematique
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Comment cette approche a permis de resoudre des problemes juges auparavant impossibles.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les developpements en serie de Taylor
+slug: les-developpements-en-serie-de-taylor
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une methode qui approxime une fonction complexe par une somme de termes plus simples.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La convergence et la divergence des suites
+slug: la-convergence-et-la-divergence-des-suites
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Deux comportements opposes qui determinent le destin d'une sequence infinie de nombres.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'analyse complexe, etendre le calcul aux nombres imaginaires
+slug: l-analyse-complexe-etendre-le-calcul-aux-nombres-imaginaires
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Une branche des mathematiques aux applications surprenantes en physique et en ingenierie.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les modeles mathematiques de propagation des epidemies
+slug: les-modeles-mathematiques-de-propagation-des-epidemies
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Comment l'analyse mathematique aide a comprendre et anticiper une epidemie.
+tags: [analyse, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des controverses sur les fondements de l'analyse
+slug: l-histoire-des-controverses-sur-les-fondements-de-l-analyse
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Comment les mathematiciens ont mis des siecles a rendre rigoureux des concepts intuitifs.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les applications de l'analyse en economie
+slug: les-applications-de-l-analyse-en-economie
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Comment des outils mathematiques modelisent croissance, inflation et autres phenomenes.
+tags: [analyse]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'analyse mathematique dans la physique moderne
+slug: le-role-de-l-analyse-mathematique-dans-la-physique-moderne
+categoryPath: sciences-fondamentales/mathematiques/analyse
+summary: >
+  Un langage mathematique indispensable pour formuler les lois fondamentales de la nature.
+tags: [analyse]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les axiomes d'Euclide, fonder la geometrie
+slug: les-axiomes-d-euclide-fonder-la-geometrie
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un petit nombre de principes de base a partir desquels tout le reste se deduit.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les geometries non euclidiennes
+slug: les-geometries-non-euclidiennes
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des systemes mathematiques qui remettent en question un postulat vieux de deux mille ans.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theoreme de Pythagore, demonstration et usages
+slug: le-theoreme-de-pythagore-demonstration-et-usages
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une relation geometrique fondamentale, connue et utilisee depuis l'Antiquite.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du theoreme de Pythagore avant Pythagore lui-meme
+slug: l-histoire-du-theoreme-de-pythagore-avant-pythagore-lui-meme
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des civilisations anciennes qui connaissaient deja cette relation avant sa formalisation grecque.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Arpenter et mesurer un terrain, methodes de base
+slug: arpenter-et-mesurer-un-terrain-methodes-de-base
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des techniques geometriques simples utilisees depuis l'Antiquite pour delimiter l'espace.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La triangulation, mesurer une distance sans la parcourir
+slug: la-triangulation-mesurer-une-distance-sans-la-parcourir
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une methode geometrique ancienne toujours utilisee en cartographie moderne.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nombre pi, une constante universelle
+slug: le-nombre-pi-une-constante-universelle
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un nombre present dans toute geometrie circulaire, connu depuis des millenaires.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calcul historique de la valeur de pi
+slug: le-calcul-historique-de-la-valeur-de-pi
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Comment des mathematiciens anciens ont approche cette constante sans outils modernes.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trigonometrie, mesurer les triangles
+slug: la-trigonometrie-mesurer-les-triangles
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un ensemble de relations essentielles pour calculer distances et angles inaccessibles.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions sinus et cosinus, principe de base
+slug: les-fonctions-sinus-et-cosinus-principe-de-base
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Deux fonctions fondamentales qui relient un angle a des rapports de longueurs.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie dans l'architecture ancienne
+slug: la-geometrie-dans-l-architecture-ancienne
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Comment des principes geometriques precis ont guide la construction de monuments celebres.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les solides platoniciens, une classification ancienne
+slug: les-solides-platoniciens-une-classification-ancienne
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Cinq formes geometriques particulieres connues depuis l'Antiquite grecque.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie projective, une autre facon de voir l'espace
+slug: la-geometrie-projective-une-autre-facon-de-voir-l-espace
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une branche des mathematiques nee des besoins de la perspective artistique.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie fractale et ses applications
+slug: la-geometrie-fractale-et-ses-applications
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Comment des formes complexes a toutes les echelles decrivent mieux certains objets naturels.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calcul d'aires et de volumes de base
+slug: le-calcul-d-aires-et-de-volumes-de-base
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des formules essentielles utilisees quotidiennement dans de nombreux metiers pratiques.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie descriptive, representer la 3D en 2D
+slug: la-geometrie-descriptive-representer-la-3d-en-2d
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une methode systematique pour dessiner precisement des objets en trois dimensions.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les coniques, cercle, ellipse, parabole et hyperbole
+slug: les-coniques-cercle-ellipse-parabole-et-hyperbole
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Quatre courbes fondamentales obtenues en coupant un cone selon differents angles.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie et l'astronomie ancienne
+slug: la-geometrie-et-l-astronomie-ancienne
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Comment des outils geometriques simples ont permis de mesurer le cosmos.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Eratosthene et le calcul de la circonference terrestre
+slug: eratosthene-et-le-calcul-de-la-circonference-terrestre
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une mesure remarquablement precise realisee avec des moyens tres rudimentaires.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie hyperbolique et ses applications modernes
+slug: la-geometrie-hyperbolique-et-ses-applications-modernes
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une geometrie contre-intuitive qui trouve pourtant des usages scientifiques concrets.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transformations geometriques, translation, rotation, symetrie
+slug: les-transformations-geometriques-translation-rotation-symetrie
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des operations fondamentales qui deplacent ou modifient une figure sans la deformer.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie utilisee dans la navigation maritime historique
+slug: la-geometrie-utilisee-dans-la-navigation-maritime-historique
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Comment des calculs geometriques simples ont permis de traverser les oceans.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theoreme de Thales et ses applications pratiques
+slug: le-theoreme-de-thales-et-ses-applications-pratiques
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une relation geometrique simple, utile pour mesurer des hauteurs inaccessibles.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie des polygones reguliers
+slug: la-geometrie-des-polygones-reguliers
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des formes aux proprietes mathematiques precises, presentes dans de nombreux contextes.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction geometrique a la regle et au compas
+slug: la-construction-geometrique-a-la-regle-et-au-compas
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Des methodes anciennes qui permettent de tracer des figures precises sans mesure.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les problemes classiques insolubles de la geometrie grecque
+slug: les-problemes-classiques-insolubles-de-la-geometrie-grecque
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Trois defis anciens dont l'impossibilite n'a ete prouvee que des siecles plus tard.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie appliquee a la cartographie
+slug: la-geometrie-appliquee-a-la-cartographie
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Comment on represente une Terre courbe sur une surface plane sans deformation totale.
+tags: [geometrie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les proprietes geometriques du cercle
+slug: les-proprietes-geometriques-du-cercle
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Une figure simple mais aux proprietes mathematiques d'une grande richesse.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geometrie et l'art de la perspective
+slug: la-geometrie-et-l-art-de-la-perspective
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Comment des regles mathematiques precises ont transforme la peinture a la Renaissance.
+tags: [geometrie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des Elements d'Euclide, un texte fondateur
+slug: l-histoire-des-elements-d-euclide-un-texte-fondateur
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Un ouvrage antique qui a structure l'enseignement de la geometrie pendant des siecles.
+tags: [geometrie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calcul des probabilites, principes de base
+slug: le-calcul-des-probabilites-principes-de-base
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment on quantifie mathematiquement la chance qu'un evenement se produise.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pascal, Fermat et la naissance du calcul des probabilites
+slug: pascal-fermat-et-la-naissance-du-calcul-des-probabilites
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une correspondance entre deux mathematiciens qui a fonde toute une discipline.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites conditionnelles, quand un evenement en influence un autre
+slug: les-probabilites-conditionnelles-quand-un-evenement-en-influence-un-autre
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un concept essentiel pour raisonner correctement sur des situations liees.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theoreme de Bayes, mettre a jour ses croyances
+slug: le-theoreme-de-bayes-mettre-a-jour-ses-croyances
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une methode mathematique pour reviser une probabilite a la lumiere d'une nouvelle information.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi des grands nombres
+slug: la-loi-des-grands-nombres
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Pourquoi les resultats aleatoires se stabilisent progressivement sur un grand nombre d'essais.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moyenne, la mediane et le mode, trois mesures distinctes
+slug: la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Des indicateurs statistiques qui ne racontent pas toujours la meme histoire.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecart-type, mesurer la dispersion des donnees
+slug: l-ecart-type-mesurer-la-dispersion-des-donnees
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un indicateur essentiel qui complete la moyenne pour decrire un ensemble de valeurs.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi normale, une distribution omnipresente
+slug: la-loi-normale-une-distribution-omnipresente
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une courbe en cloche qui decrit remarquablement bien de nombreux phenomenes naturels.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le theoreme central limite
+slug: le-theoreme-central-limite
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un resultat mathematique puissant qui explique la frequence de la loi normale.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sondages, methodologie et marges d'erreur
+slug: les-sondages-methodologie-et-marges-d-erreur
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment on estime l'opinion d'une population entiere a partir d'un echantillon reduit.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais d'echantillonnage dans les statistiques
+slug: les-biais-d-echantillonnage-dans-les-statistiques
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Pourquoi un echantillon mal choisi peut fausser completement une conclusion.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les intervalles de confiance en statistique
+slug: les-intervalles-de-confiance-en-statistique
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une methode qui exprime honnetement l'incertitude autour d'une estimation.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests d'hypotheses statistiques
+slug: les-tests-d-hypotheses-statistiques
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une methode rigoureuse pour verifier si une observation depasse le simple hasard.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La correlation statistique, mesurer un lien entre deux variables
+slug: la-correlation-statistique-mesurer-un-lien-entre-deux-variables
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un outil utile mais qui ne prouve jamais a lui seul une relation de cause a effet.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paradoxe de Simpson en statistique
+slug: le-paradoxe-de-simpson-en-statistique
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un phenomene surprenant ou une tendance s'inverse selon la maniere de regrouper les donnees.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi des series et le hasard percu
+slug: la-loi-des-series-et-le-hasard-percu
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Pourquoi le hasard reel semble souvent moins aleatoire qu'on ne l'imagine intuitivement.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paradoxe des anniversaires
+slug: le-paradoxe-des-anniversaires
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un resultat contre-intuitif qui illustre les pieges du raisonnement probabiliste naif.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites appliquees aux jeux de hasard
+slug: les-probabilites-appliquees-aux-jeux-de-hasard
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment le calcul des probabilites explique pourquoi le casino gagne toujours a long terme.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'esperance mathematique, une valeur moyenne attendue
+slug: l-esperance-mathematique-une-valeur-moyenne-attendue
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Un concept qui permet d'evaluer objectivement un pari ou une decision incertaine.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les statistiques descriptives contre inferentielles
+slug: les-statistiques-descriptives-contre-inferentielles
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Deux approches distinctes selon que l'on decrit des donnees ou qu'on generalise a partir d'elles.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regression lineaire, modeliser une relation simple
+slug: la-regression-lineaire-modeliser-une-relation-simple
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une methode statistique de base pour predire une valeur a partir d'une autre.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites et la medecine, interpreter un test
+slug: les-probabilites-et-la-medecine-interpreter-un-test
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Pourquoi un resultat de test positif ne signifie pas toujours ce que l'on croit intuitivement.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le faux positif et le faux negatif en statistique
+slug: le-faux-positif-et-le-faux-negatif-en-statistique
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Deux types d'erreurs distinctes, essentielles a comprendre pour interpreter un test.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites dans la meteorologie
+slug: les-probabilites-dans-la-meteorologie
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment on exprime scientifiquement l'incertitude inherente aux previsions du temps.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du developpement des statistiques modernes
+slug: l-histoire-du-developpement-des-statistiques-modernes
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment cette discipline s'est structuree progressivement depuis plusieurs siecles.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites et la genetique
+slug: les-probabilites-et-la-genetique
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment le hasard genetique determine, selon des regles precises, la transmission de caracteres.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les erreurs courantes d'interpretation des statistiques
+slug: les-erreurs-courantes-d-interpretation-des-statistiques
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Des pieges frequents, meme chez des lecteurs attentifs de donnees chiffrees.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le hasard veritable contre le hasard apparent
+slug: le-hasard-veritable-contre-le-hasard-apparent
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Une distinction subtile entre l'imprevisibilite reelle et une simple complexite non comprise.
+tags: [probabilites-et-statistiques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les probabilites dans l'assurance et la gestion du risque
+slug: les-probabilites-dans-l-assurance-et-la-gestion-du-risque
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Comment ce secteur economique entier repose sur le calcul rigoureux des probabilites.
+tags: [probabilites-et-statistiques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands nombres et l'intuition humaine, un decalage frequent
+slug: les-grands-nombres-et-l-intuition-humaine-un-decalage-frequent
+categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
+summary: >
+  Pourquoi notre cerveau raisonne mal, naturellement, face a de tres grandes quantites.
+tags: [probabilites-et-statistiques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La charge electrique, notion fondamentale
+slug: la-charge-electrique-notion-fondamentale
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une propriete de base de la matiere qui explique l'ensemble des phenomenes electriques.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le champ electrique, une force a distance
+slug: le-champ-electrique-une-force-a-distance
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment une charge influence l'espace qui l'entoure, meme sans contact direct.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le champ magnetique, principe et sources
+slug: le-champ-magnetique-principe-et-sources
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une force invisible produite par des charges en mouvement ou certains materiaux.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'electromagnetisme unifie par Maxwell
+slug: l-electromagnetisme-unifie-par-maxwell
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment un seul cadre theorique a reuni electricite, magnetisme et lumiere.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi d'Ohm, relier tension, courant et resistance
+slug: la-loi-d-ohm-relier-tension-courant-et-resistance
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une relation simple mais fondamentale pour tout circuit electrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les circuits electriques en serie et en parallele
+slug: les-circuits-electriques-en-serie-et-en-parallele
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Deux montages de base aux comportements electriques tres differents.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'induction electromagnetique
+slug: l-induction-electromagnetique
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Le phenomene physique fondamental qui permet de produire de l'electricite avec un aimant.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Michael Faraday et la decouverte de l'induction
+slug: michael-faraday-et-la-decouverte-de-l-induction
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un chercheur autodidacte dont les experiences ont fonde une part majeure de la physique moderne.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur electrique, principe physique de base
+slug: le-moteur-electrique-principe-physique-de-base
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment un champ magnetique transforme un courant electrique en mouvement.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le generateur electrique, principe inverse du moteur
+slug: le-generateur-electrique-principe-inverse-du-moteur
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment le mouvement mecanique se transforme, a l'inverse, en courant electrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aimants naturels et artificiels
+slug: les-aimants-naturels-et-artificiels
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Deux origines differentes pour un meme phenomene physique fondamental.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le champ magnetique terrestre et son role protecteur
+slug: le-champ-magnetique-terrestre-et-son-role-protecteur
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un bouclier invisible qui protege la planete de rayonnements dangereux.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La boussole, une application ancienne du magnetisme
+slug: la-boussole-une-application-ancienne-du-magnetisme
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un instrument simple qui exploite directement le champ magnetique terrestre.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le spectre electromagnetique dans son ensemble
+slug: le-spectre-electromagnetique-dans-son-ensemble
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment lumiere visible, ondes radio et rayons X partagent une meme nature physique.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lumiere visible, une petite partie du spectre
+slug: la-lumiere-visible-une-petite-partie-du-spectre
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Pourquoi nos yeux ne percoivent qu'une infime fraction des ondes electromagnetiques existantes.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ondes radio, principe de transmission
+slug: les-ondes-radio-principe-de-transmission
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment une information peut voyager a distance grace a des ondes electromagnetiques.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rayons X, decouverte et applications
+slug: les-rayons-x-decouverte-et-applications
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une decouverte accidentelle qui a transforme la medecine et l'industrie.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les micro-ondes et leurs usages
+slug: les-micro-ondes-et-leurs-usages
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une gamme d'ondes electromagnetiques aux applications tres variees, du four a la communication.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reflexion et la refraction de la lumiere
+slug: la-reflexion-et-la-refraction-de-la-lumiere
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Deux phenomenes optiques fondamentaux qui expliquent le comportement de la lumiere.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lentilles optiques, principe de fonctionnement
+slug: les-lentilles-optiques-principe-de-fonctionnement
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment une simple piece de verre courbe peut modifier le trajet de la lumiere.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La polarisation de la lumiere
+slug: la-polarisation-de-la-lumiere
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une propriete moins connue mais essentielle a de nombreuses technologies optiques.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couleurs et la decomposition de la lumiere blanche
+slug: les-couleurs-et-la-decomposition-de-la-lumiere-blanche
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment Newton a demontre que la lumiere blanche contient en realite toutes les couleurs.
+tags: [electromagnetisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'electricite statique, un phenomene quotidien
+slug: l-electricite-statique-un-phenomene-quotidien
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un exemple simple et frequent de charge electrique accumulee.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement d'un electroaimant
+slug: le-fonctionnement-d-un-electroaimant
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment on cree un champ magnetique controlable a partir d'un simple courant electrique.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance electrique et l'effet Joule
+slug: la-resistance-electrique-et-l-effet-joule
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment un courant electrique produit naturellement de la chaleur en traversant un materiau.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les supraconducteurs, une resistance electrique nulle
+slug: les-supraconducteurs-une-resistance-electrique-nulle
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un phenomene physique remarquable observe uniquement a tres basse temperature.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le condensateur electrique, stocker une charge
+slug: le-condensateur-electrique-stocker-une-charge
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un composant simple mais essentiel dans de nombreux circuits electriques.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La foudre, un phenomene electromagnetique naturel
+slug: la-foudre-un-phenomene-electromagnetique-naturel
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment une accumulation de charges dans un nuage produit une decharge spectaculaire.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paratonnerre, une application pratique de l'electromagnetisme
+slug: le-paratonnerre-une-application-pratique-de-l-electromagnetisme
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Une invention simple qui protege efficacement les batiments de la foudre.
+tags: [electromagnetisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'unification de l'electricite et du magnetisme
+slug: l-histoire-de-l-unification-de-l-electricite-et-du-magnetisme
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Comment deux phenomenes longtemps consideres separes se sont reveles intimement lies.
+tags: [electromagnetisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La premiere loi de Newton, le principe d'inertie
+slug: la-premiere-loi-de-newton-le-principe-d-inertie
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Pourquoi un objet garde son mouvement tant qu'aucune force ne vient le modifier.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deuxieme loi de Newton, force et acceleration
+slug: la-deuxieme-loi-de-newton-force-et-acceleration
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une relation fondamentale qui relie la force appliquee au mouvement resultant.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La troisieme loi de Newton, action et reaction
+slug: la-troisieme-loi-de-newton-action-et-reaction
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Pourquoi chaque force s'accompagne toujours d'une force opposee de meme intensite.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La notion de force en physique
+slug: la-notion-de-force-en-physique
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un concept fondamental qui explique tous les changements de mouvement observes.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation de l'energie mecanique
+slug: la-conservation-de-l-energie-mecanique
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un principe fondamental qui explique de nombreux phenomenes physiques du quotidien.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie cinetique et l'energie potentielle
+slug: l-energie-cinetique-et-l-energie-potentielle
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Deux formes complementaires d'energie mecanique qui se transforment l'une en l'autre.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gravitation universelle selon Newton
+slug: la-gravitation-universelle-selon-newton
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une loi simple mais puissante qui explique le mouvement des planetes comme la chute d'une pomme.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poids et la masse, une distinction essentielle
+slug: le-poids-et-la-masse-une-distinction-essentielle
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Deux notions souvent confondues mais physiquement tres differentes.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chute libre et l'acceleration de la pesanteur
+slug: la-chute-libre-et-l-acceleration-de-la-pesanteur
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Pourquoi tous les objets tombent a la meme vitesse en l'absence de resistance de l'air.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Galilee et les experiences sur la chute des corps
+slug: galilee-et-les-experiences-sur-la-chute-des-corps
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Comment des observations minutieuses ont remis en cause une croyance ancienne.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mouvement circulaire et la force centripete
+slug: le-mouvement-circulaire-et-la-force-centripete
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Pourquoi un objet en rotation necessite toujours une force dirigee vers le centre.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pendule, un instrument de mesure du temps
+slug: le-pendule-un-instrument-de-mesure-du-temps
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Comment un objet oscillant simple a permis de mesurer le temps avec precision.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Galilee et la decouverte de l'isochronisme du pendule
+slug: galilee-et-la-decouverte-de-l-isochronisme-du-pendule
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une observation qui a mene a une invention majeure pour la mesure du temps.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La friction, une force qui s'oppose au mouvement
+slug: la-friction-une-force-qui-s-oppose-au-mouvement
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un phenomene omnipresent, essentiel autant qu'il peut etre genant selon le contexte.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le frottement statique contre le frottement dynamique
+slug: le-frottement-statique-contre-le-frottement-dynamique
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Deux formes de friction dont la comprehension explique de nombreux phenomenes pratiques.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La relativite restreinte, principes de base
+slug: la-relativite-restreinte-principes-de-base
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une theorie qui a bouleverse notre comprehension du temps et de l'espace.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dilatation du temps en relativite
+slug: la-dilatation-du-temps-en-relativite
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un effet reel, verifie experimentalement, ou le temps s'ecoule differemment selon la vitesse.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La relativite generale et la courbure de l'espace-temps
+slug: la-relativite-generale-et-la-courbure-de-l-espace-temps
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Comment Einstein a redefini la gravite comme une deformation geometrique.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les preuves experimentales de la relativite generale
+slug: les-preuves-experimentales-de-la-relativite-generale
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Des observations qui ont confirme, souvent avec une precision remarquable, cette theorie.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe d'equivalence en relativite generale
+slug: le-principe-d-equivalence-en-relativite-generale
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une idee simple mais profonde qui a guide Einstein vers sa theorie de la gravitation.
+tags: [mecanique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La quantite de mouvement et sa conservation
+slug: la-quantite-de-mouvement-et-sa-conservation
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un principe physique fondamental qui explique de nombreuses collisions et interactions.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moment cinetique et sa conservation
+slug: le-moment-cinetique-et-sa-conservation
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Pourquoi un patineur tourne plus vite en ramenant ses bras vers le corps.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les machines simples, leviers, poulies et plans inclines
+slug: les-machines-simples-leviers-poulies-et-plans-inclines
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Des dispositifs anciens et ingenieux qui demultiplient l'effort humain.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le levier, principe et applications pratiques
+slug: le-levier-principe-et-applications-pratiques
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un outil physique tres simple qui demultiplie une force appliquee.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La poulie, principe et applications pratiques
+slug: la-poulie-principe-et-applications-pratiques
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un dispositif simple qui change la direction ou l'intensite d'une force.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mouvement des projectiles
+slug: le-mouvement-des-projectiles
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Comment la gravite et la vitesse initiale determinent ensemble la trajectoire d'un objet lance.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'equilibre des forces et la statique
+slug: l-equilibre-des-forces-et-la-statique
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Comment on determine si une structure reste stable sous l'effet de plusieurs forces.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le centre de gravite d'un objet
+slug: le-centre-de-gravite-d-un-objet
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un point theorique essentiel pour comprendre la stabilite de toute structure.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mecanique des fluides, principes de base
+slug: la-mecanique-des-fluides-principes-de-base
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Comment les liquides et les gaz se comportent sous l'effet des forces physiques.
+tags: [mecanique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe d'Archimede et la flottabilite
+slug: le-principe-d-archimede-et-la-flottabilite
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Une decouverte ancienne qui explique pourquoi certains objets flottent et d'autres coulent.
+tags: [mecanique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dualite onde-particule, un concept fondamental
+slug: la-dualite-onde-particule-un-concept-fondamental
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment la lumiere et la matiere se comportent tantot comme une onde, tantot comme une particule.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'experience des fentes de Young en physique quantique
+slug: l-experience-des-fentes-de-young-en-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une experience celebre qui a revele la nature etrange du monde quantique.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La quantification de l'energie
+slug: la-quantification-de-l-energie
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une decouverte fondamentale qui a donne son nom a toute cette branche de la physique.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Max Planck et les origines de la physique quantique
+slug: max-planck-et-les-origines-de-la-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un chercheur dont une decouverte, faite presque a contrecoeur, a lance toute une revolution.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet photoelectrique et la lumiere en tant que particule
+slug: l-effet-photoelectrique-et-la-lumiere-en-tant-que-particule
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une observation qu'Einstein a expliquee en revelant la nature corpusculaire de la lumiere.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe d'incertitude de Heisenberg
+slug: le-principe-d-incertitude-de-heisenberg
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une limite fondamentale de la connaissance qui n'est pas une simple imprecision technique.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La superposition quantique, un etat multiple
+slug: la-superposition-quantique-un-etat-multiple
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un phenomene contre-intuitif ou une particule peut se trouver dans plusieurs etats a la fois.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chat de Schrodinger, une experience de pensee celebre
+slug: le-chat-de-schrodinger-une-experience-de-pensee-celebre
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une image utilisee pour illustrer, et parfois questionner, l'etrangete de la physique quantique.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'intrication quantique, une connexion instantanee
+slug: l-intrication-quantique-une-connexion-instantanee
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un phenomene qui relie deux particules meme separees par une grande distance.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le laser, une application directe de la physique quantique
+slug: le-laser-une-application-directe-de-la-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment un principe theorique abstrait a donne naissance a une technologie omnipresente.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement precis d'un laser
+slug: le-fonctionnement-precis-d-un-laser
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment on obtient une lumiere si particuliere, coherente et concentree.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet tunnel quantique
+slug: l-effet-tunnel-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un phenomene ou une particule traverse une barriere qu'elle ne devrait, classiquement, pas pouvoir franchir.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les applications de l'effet tunnel dans la technologie moderne
+slug: les-applications-de-l-effet-tunnel-dans-la-technologie-moderne
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment ce phenomene contre-intuitif est exploite dans certains composants electroniques.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ordinateur quantique, principe general
+slug: l-ordinateur-quantique-principe-general
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une technologie qui exploite directement les proprietes etranges du monde quantique.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le qubit, l'unite de base de l'information quantique
+slug: le-qubit-l-unite-de-base-de-l-information-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une unite d'information qui differe fondamentalement du bit classique.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les erreurs dans les ordinateurs quantiques
+slug: les-erreurs-dans-les-ordinateurs-quantiques
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un defi technique majeur qui freine encore le developpement de cette technologie.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La correction d'erreurs quantiques
+slug: la-correction-d-erreurs-quantiques
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Des methodes qui tentent de stabiliser une technologie intrinsequement fragile.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les applications futures de l'ordinateur quantique
+slug: les-applications-futures-de-l-ordinateur-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Des domaines ou cette technologie pourrait, un jour, surpasser l'informatique classique.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mecanique quantique et la chimie moderne
+slug: la-mecanique-quantique-et-la-chimie-moderne
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment cette theorie physique explique le comportement des atomes et des molecules.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les semi-conducteurs, une application quantique omnipresente
+slug: les-semi-conducteurs-une-application-quantique-omnipresente
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment des principes quantiques rendent possible toute l'electronique moderne.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paradoxe EPR et le debat Einstein-Bohr
+slug: le-paradoxe-epr-et-le-debat-einstein-bohr
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une controverse historique majeure sur l'interpretation du monde quantique.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differentes interpretations de la physique quantique
+slug: les-differentes-interpretations-de-la-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Plusieurs facons, philosophiquement distinctes, de comprendre ce que revele cette theorie.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie quantique, une securite theoriquement absolue
+slug: la-cryptographie-quantique-une-securite-theoriquement-absolue
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Une application qui exploite les lois de la physique pour garantir la confidentialite.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microscope a effet tunnel, voir des atomes individuels
+slug: le-microscope-a-effet-tunnel-voir-des-atomes-individuels
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un instrument qui exploite directement un phenomene quantique pour observer l'infiniment petit.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La physique quantique et la fluorescence des materiaux
+slug: la-physique-quantique-et-la-fluorescence-des-materiaux
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment des phenomenes quantiques expliquent certaines couleurs et lumieres emises.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les diodes electroluminescentes (LED) et la physique quantique
+slug: les-diodes-electroluminescentes-led-et-la-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment un phenomene quantique produit directement une lumiere efficace et durable.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale et la physique quantique
+slug: l-imagerie-medicale-et-la-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment plusieurs technologies medicales reposent sur des principes quantiques fondamentaux.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La teleportation quantique, ce que cela signifie vraiment
+slug: la-teleportation-quantique-ce-que-cela-signifie-vraiment
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Un terme souvent mal compris qui ne correspond pas a la science-fiction populaire.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la physique quantique dans le GPS
+slug: le-role-de-la-physique-quantique-dans-le-gps
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment des effets relativistes et quantiques sont pris en compte pour une precision suffisante.
+tags: [physique-quantique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des debats fondateurs de la physique quantique
+slug: l-histoire-des-debats-fondateurs-de-la-physique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Comment les plus grands physiciens du XXe siecle ont debattu du sens de cette theorie.
+tags: [physique-quantique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre chaleur et temperature
+slug: la-difference-entre-chaleur-et-temperature
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une distinction essentielle souvent confondue dans le langage courant.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le premier principe de la thermodynamique
+slug: le-premier-principe-de-la-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une loi fondamentale sur la conservation de l'energie dans tout systeme physique.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le second principe de la thermodynamique
+slug: le-second-principe-de-la-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une loi qui explique pourquoi certains processus sont irreversibles dans la nature.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entropie, mesurer le desordre d'un systeme
+slug: l-entropie-mesurer-le-desordre-d-un-systeme
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un concept central qui explique la direction naturelle de nombreux phenomenes physiques.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le zero absolu, une limite theorique de temperature
+slug: le-zero-absolu-une-limite-theorique-de-temperature
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une limite physique fondamentale que l'on peut approcher sans jamais totalement atteindre.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les echelles de temperature, Celsius, Fahrenheit et Kelvin
+slug: les-echelles-de-temperature-celsius-fahrenheit-et-kelvin
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Trois systemes de mesure avec des points de reference historiques differents.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conduction thermique, transmettre la chaleur par contact
+slug: la-conduction-thermique-transmettre-la-chaleur-par-contact
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Le mode de transfert de chaleur le plus direct, essentiel dans de nombreux materiaux.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La convection thermique dans les fluides
+slug: la-convection-thermique-dans-les-fluides
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment un liquide ou un gaz chauffe se met naturellement en mouvement.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rayonnement thermique
+slug: le-rayonnement-thermique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un mode de transfert de chaleur qui ne necessite aucun contact ni matiere intermediaire.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur thermique, principe general de fonctionnement
+slug: le-moteur-thermique-principe-general-de-fonctionnement
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment on transforme de la chaleur en mouvement mecanique utile.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle de Carnot, un modele theorique ideal
+slug: le-cycle-de-carnot-un-modele-theorique-ideal
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un concept fondamental qui fixe une limite maximale d'efficacite pour tout moteur thermique.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement d'un moteur thermique
+slug: le-rendement-d-un-moteur-thermique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Pourquoi aucun moteur ne peut convertir toute la chaleur en energie utile.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La refrigeration, le principe inverse du moteur thermique
+slug: la-refrigeration-le-principe-inverse-du-moteur-thermique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment on retire de la chaleur d'un espace pour le refroidir artificiellement.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaleur latente, une energie cachee dans les changements d'etat
+slug: la-chaleur-latente-une-energie-cachee-dans-les-changements-d-etat
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Pourquoi la temperature ne monte pas immediatement quand on fait fondre de la glace.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'isolation thermique, principes physiques de base
+slug: l-isolation-thermique-principes-physiques-de-base
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment ralentir efficacement les transferts de chaleur d'un espace a un autre.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dilatation thermique des materiaux
+slug: la-dilatation-thermique-des-materiaux
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Pourquoi la plupart des materiaux changent legerement de taille avec la temperature.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le thermometre, histoire et principes physiques
+slug: le-thermometre-histoire-et-principes-physiques
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment on mesure objectivement une sensation aussi subjective que la chaleur.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'equilibre thermique entre deux corps
+slug: l-equilibre-thermique-entre-deux-corps
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un principe simple mais fondamental qui explique le sens naturel des echanges de chaleur.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La thermodynamique des gaz parfaits
+slug: la-thermodynamique-des-gaz-parfaits
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un modele simplifie mais tres utile pour comprendre le comportement des gaz.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi de Boyle-Mariotte sur les gaz
+slug: la-loi-de-boyle-mariotte-sur-les-gaz
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Une relation simple entre pression et volume, connue depuis le XVIIe siecle.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement energetique et les pertes thermiques inevitables
+slug: le-rendement-energetique-et-les-pertes-thermiques-inevitables
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Pourquoi toute transformation d'energie s'accompagne toujours d'une perte sous forme de chaleur.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La thermodynamique appliquee au climat terrestre
+slug: la-thermodynamique-appliquee-au-climat-terrestre
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment les principes physiques de base expliquent les grands equilibres climatiques.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de serre explique par la thermodynamique
+slug: l-effet-de-serre-explique-par-la-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment un principe physique simple explique un phenomene climatique majeur.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pompe a chaleur, principe thermodynamique
+slug: la-pompe-a-chaleur-principe-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un systeme qui deplace de la chaleur plutot que de la produire directement.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la decouverte des lois de la thermodynamique
+slug: l-histoire-de-la-decouverte-des-lois-de-la-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment cette science s'est developpee en parallele de la revolution industrielle.
+tags: [thermodynamique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Sadi Carnot et les fondements de la thermodynamique
+slug: sadi-carnot-et-les-fondements-de-la-thermodynamique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un ingenieur dont les travaux ont pose les bases theoriques de cette discipline.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La thermodynamique et l'origine de la fleche du temps
+slug: la-thermodynamique-et-l-origine-de-la-fleche-du-temps
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Pourquoi le temps semble avoir un sens unique alors que la plupart des lois physiques sont reversibles.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation de l'energie a l'echelle de l'univers
+slug: la-conservation-de-l-energie-a-l-echelle-de-l-univers
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment un principe physique local s'applique, en theorie, a l'echelle cosmique.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement par evaporation, principe physique
+slug: le-refroidissement-par-evaporation-principe-physique
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment ce mecanisme naturel explique la transpiration et d'autres phenomenes de refroidissement.
+tags: [thermodynamique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La thermodynamique des etoiles
+slug: la-thermodynamique-des-etoiles
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Comment les principes physiques fondamentaux expliquent l'energie et la vie des etoiles.
+tags: [thermodynamique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La structure interne de la Terre
+slug: la-structure-interne-de-la-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Noyau, manteau, croute : trois couches aux proprietes tres differentes.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le noyau terrestre et le champ magnetique
+slug: le-noyau-terrestre-et-le-champ-magnetique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment un metal en fusion au centre de la planete genere un bouclier protecteur.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le manteau terrestre et ses mouvements lents
+slug: le-manteau-terrestre-et-ses-mouvements-lents
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une couche epaisse dont les mouvements, tres lents, expliquent la tectonique des plaques.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La croute terrestre, oceanique contre continentale
+slug: la-croute-terrestre-oceanique-contre-continentale
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Deux types de croute aux epaisseurs et compositions bien distinctes.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle des roches, une transformation continue
+slug: le-cycle-des-roches-une-transformation-continue
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment les roches se transforment sans cesse d'un type a un autre sur des millions d'annees.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les roches magmatiques, formation et types
+slug: les-roches-magmatiques-formation-et-types
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des roches nees directement du refroidissement d'un magma en fusion.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les roches sedimentaires, formation par accumulation
+slug: les-roches-sedimentaires-formation-par-accumulation
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment des couches successives de sediments se transforment en roche solide.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les roches metamorphiques, transformees par la chaleur et la pression
+slug: les-roches-metamorphiques-transformees-par-la-chaleur-et-la-pression
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment une roche existante change de nature sans fondre completement.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reconnaitre les roches courantes, methode pratique
+slug: reconnaitre-les-roches-courantes-methode-pratique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des criteres simples pour identifier une roche sans equipement specialise.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Trouver des minerais utiles, principes de prospection
+slug: trouver-des-minerais-utiles-principes-de-prospection
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des indices geologiques simples qui orientent la recherche de ressources minerales.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le minerai de fer, ou et comment le reconnaitre
+slug: le-minerai-de-fer-ou-et-comment-le-reconnaitre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des criteres visuels et physiques simples pour identifier cette ressource essentielle.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'age de la Terre, comment on l'a determine
+slug: l-age-de-la-terre-comment-on-l-a-determine
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une question qui a longtemps divise scientifiques et theologiens avant d'etre resolue.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La datation radiometrique des roches
+slug: la-datation-radiometrique-des-roches
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une methode scientifique fiable pour estimer precisement l'age d'une roche ancienne.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couches geologiques et la stratigraphie
+slug: les-couches-geologiques-et-la-stratigraphie
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment on lit l'histoire de la Terre dans l'empilement successif des couches de roche.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fossiles guides, des reperes dans le temps geologique
+slug: les-fossiles-guides-des-reperes-dans-le-temps-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment certains fossiles permettent de dater precisement une couche de roche.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Trouver l'eau souterraine, indices geologiques
+slug: trouver-l-eau-souterraine-indices-geologiques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des signes naturels qui revelent la presence probable d'une nappe d'eau accessible.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le forage d'un puits, principes geologiques de base
+slug: le-forage-d-un-puits-principes-geologiques-de-base
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment adapter la profondeur et la technique au type de sol rencontre.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grottes et leur formation geologique
+slug: les-grottes-et-leur-formation-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment l'eau dissout progressivement certaines roches pour creer des cavites.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gisements de charbon, formation geologique
+slug: les-gisements-de-charbon-formation-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment d'anciennes forets se sont transformees en cette ressource fossile.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gisements de petrole, conditions de formation
+slug: les-gisements-de-petrole-conditions-de-formation
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des conditions geologiques precises et rares necessaires a l'accumulation de cette ressource.
+tags: [geologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sol et sa relation avec la roche mere sous-jacente
+slug: le-sol-et-sa-relation-avec-la-roche-mere-sous-jacente
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment la nature de la roche influence directement les proprietes du sol qui se forme.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cartes geologiques, lire l'histoire d'un territoire
+slug: les-cartes-geologiques-lire-l-histoire-d-un-territoire
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un outil essentiel qui revele la composition du sous-sol sur une vaste zone.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La prospection minerale traditionnelle sans equipement moderne
+slug: la-prospection-minerale-traditionnelle-sans-equipement-moderne
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Des methodes empiriques utilisees historiquement pour localiser des ressources minerales.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les argiles et leurs usages pratiques
+slug: les-argiles-et-leurs-usages-pratiques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un materiau geologique courant aux applications multiples, de la poterie a la construction.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calcaire, une roche aux nombreux usages
+slug: le-calcaire-une-roche-aux-nombreux-usages
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Une roche sedimentaire courante, essentielle notamment a la fabrication de la chaux et du ciment.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sable et sa composition geologique
+slug: le-sable-et-sa-composition-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un materiau omnipresent dont l'origine et la composition varient selon les regions.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geologie appliquee au genie civil
+slug: la-geologie-appliquee-au-genie-civil
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment la connaissance du sous-sol conditionne directement la construction de batiments et d'ouvrages.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques geologiques et leur prevention
+slug: les-risques-geologiques-et-leur-prevention
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Glissements de terrain, affaissements : des phenomenes qu'une bonne connaissance geologique permet d'anticiper.
+tags: [geologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la naissance de la geologie comme science
+slug: l-histoire-de-la-naissance-de-la-geologie-comme-science
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Comment cette discipline s'est structuree face aux idees religieuses et philosophiques anciennes.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: James Hutton et le principe de l'actualisme geologique
+slug: james-hutton-et-le-principe-de-l-actualisme-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
+summary: >
+  Un chercheur dont l'idee fondamentale reste au coeur de la geologie moderne.
+tags: [geologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La composition chimique de l'eau de mer
+slug: la-composition-chimique-de-l-eau-de-mer
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un melange precis de sels mineraux qui rend l'eau de mer distincte de l'eau douce.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi la mer est salee
+slug: pourquoi-la-mer-est-salee
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un processus geologique lent qui explique l'accumulation progressive du sel dans les oceans.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands courants oceaniques et leur role climatique
+slug: les-grands-courants-oceaniques-et-leur-role-climatique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un systeme de circulation qui redistribue la chaleur a l'echelle de la planete entiere.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Gulf Stream et son influence sur le climat europeen
+slug: le-gulf-stream-et-son-influence-sur-le-climat-europeen
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un courant particulier dont l'existence adoucit sensiblement le climat d'un continent entier.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La circulation thermohaline, le moteur profond des oceans
+slug: la-circulation-thermohaline-le-moteur-profond-des-oceans
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un systeme de circulation lent mais puissant, entraine par des differences de temperature et de salinite.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vagues, formation et mecanique
+slug: les-vagues-formation-et-mecanique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment le vent transfere son energie a la surface de l'eau pour creer des vagues.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La houle, distincte des vagues locales
+slug: la-houle-distincte-des-vagues-locales
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une ondulation qui peut voyager sur des milliers de kilometres depuis sa zone de formation.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les marees, mecanisme detaille
+slug: les-marees-mecanisme-detaille
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment l'attraction combinee de la Lune et du Soleil souleve regulierement les oceans.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grandes marees et les marees de morte-eau
+slug: les-grandes-marees-et-les-marees-de-morte-eau
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Deux extremes du phenomene de maree, lies a la position relative du Soleil et de la Lune.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands fonds marins, un territoire encore peu explore
+slug: les-grands-fonds-marins-un-territoire-encore-peu-explore
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un environnement extreme qui reste, aujourd'hui encore, largement meconnu.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sources hydrothermales sous-marines
+slug: les-sources-hydrothermales-sous-marines
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des ecosystemes uniques qui vivent sans lumiere, grace a l'energie chimique de la Terre.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fosses oceaniques, les points les plus profonds de la planete
+slug: les-fosses-oceaniques-les-points-les-plus-profonds-de-la-planete
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des abysses formes par la tectonique des plaques, encore largement inexplores.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: El Nino et ses consequences climatiques mondiales
+slug: el-nino-et-ses-consequences-climatiques-mondiales
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene oceanique regulier qui perturbe le climat bien au-dela du seul Pacifique.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La Nina, l'autre phase du cycle oceanique du Pacifique
+slug: la-nina-l-autre-phase-du-cycle-oceanique-du-pacifique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene oppose a El Nino, avec ses propres consequences climatiques distinctes.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La temperature des oceans et le rechauffement climatique
+slug: la-temperature-des-oceans-et-le-rechauffement-climatique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment les mers absorbent une part enorme de la chaleur excedentaire de la planete.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acidification des oceans, mecanisme chimique
+slug: l-acidification-des-oceans-mecanisme-chimique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment l'exces de CO2 atmospherique modifie directement la chimie de l'eau de mer.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les icebergs, formation et derive
+slug: les-icebergs-formation-et-derive
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment ces masses de glace se detachent et voyagent au gre des courants marins.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La banquise, distincte des icebergs
+slug: la-banquise-distincte-des-icebergs
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une couche de glace de mer qui se forme et fond selon un cycle saisonnier.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bioluminescence marine
+slug: la-bioluminescence-marine
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene naturel etrange ou certains organismes marins produisent leur propre lumiere.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones mortes oceaniques
+slug: les-zones-mortes-oceaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des regions ou le manque d'oxygene rend la vie marine quasiment impossible.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cartographie des fonds marins
+slug: la-cartographie-des-fonds-marins
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment on mesure et represente le relief cache sous des kilometres d'eau.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sel de la mer, extraction traditionnelle
+slug: le-sel-de-la-mer-extraction-traditionnelle
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des methodes anciennes, encore utilisees, pour recolter ce compose essentiel.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les marais salants et la production artisanale de sel
+slug: les-marais-salants-et-la-production-artisanale-de-sel
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Une technique ancienne qui exploite simplement le soleil et le vent pour recolter le sel.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La navigation grace aux courants oceaniques historiques
+slug: la-navigation-grace-aux-courants-oceaniques-historiques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment les marins anciens ont appris a exploiter des courants reguliers et previsibles.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'oceanographie et la prevision des tsunamis
+slug: l-oceanographie-et-la-prevision-des-tsunamis
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment la comprehension des oceans aide a anticiper ce phenomene destructeur.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments historiques de mesure oceanographique
+slug: les-instruments-historiques-de-mesure-oceanographique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des outils simples, developpes avant la technologie moderne, pour etudier les mers.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La derive des continents, une decouverte liee a l'oceanographie
+slug: la-derive-des-continents-une-decouverte-liee-a-l-oceanographie
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Comment l'etude des fonds marins a confirme une theorie longtemps contestee.
+tags: [oceanographie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les upwellings, remontees d'eaux froides riches en nutriments
+slug: les-upwellings-remontees-d-eaux-froides-riches-en-nutriments
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Un phenomene naturel qui explique la richesse de certaines zones de peche.
+tags: [oceanographie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La salinite des mers fermees comparee aux oceans ouverts
+slug: la-salinite-des-mers-fermees-comparee-aux-oceans-ouverts
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Pourquoi certaines mers, comme la mer Morte, presentent une salinite exceptionnelle.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des grandes expeditions oceanographiques
+slug: l-histoire-des-grandes-expeditions-oceanographiques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Des voyages scientifiques qui ont considerablement fait progresser la connaissance des oceans.
+tags: [oceanographie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de volcans
+slug: les-differents-types-de-volcans
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Bouclier, strato-volcan, cone de scories : des formes liees a la nature de l'eruption.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le magma, matiere premiere des eruptions volcaniques
+slug: le-magma-matiere-premiere-des-eruptions-volcaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une roche en fusion dont les proprietes determinent le type d'eruption possible.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones volcaniques actives dans le monde
+slug: les-zones-volcaniques-actives-dans-le-monde
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une repartition qui suit de pres les frontieres entre les plaques tectoniques.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La ceinture de feu du Pacifique
+slug: la-ceinture-de-feu-du-pacifique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une zone qui concentre la grande majorite des volcans et seismes de la planete.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les eruptions effusives contre explosives
+slug: les-eruptions-effusives-contre-explosives
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Deux types d'eruptions aux dangers et aux mecanismes tres differents.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nuees ardentes, un danger volcanique majeur
+slug: les-nuees-ardentes-un-danger-volcanique-majeur
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un phenomene extremement rapide et destructeur associe a certaines eruptions.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pompei et l'eruption du Vesuve en 79
+slug: pompei-et-l-eruption-du-vesuve-en-79
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un evenement historique celebre qui a fige une ville entiere dans le temps.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les geysers, une manifestation indirecte du volcanisme
+slug: les-geysers-une-manifestation-indirecte-du-volcanisme
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment l'eau chauffee par le sous-sol produit des jaillissements spectaculaires et reguliers.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sources chaudes et leur origine geologique
+slug: les-sources-chaudes-et-leur-origine-geologique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une manifestation plus douce de la chaleur interne de la Terre.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La prevision des eruptions volcaniques
+slug: la-prevision-des-eruptions-volcaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des signes precurseurs que les scientifiques surveillent pour anticiper une eruption.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La surveillance sismique des volcans actifs
+slug: la-surveillance-sismique-des-volcans-actifs
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment de petits tremblements de terre revelent souvent une activite volcanique montante.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tremblements de terre, mecanisme de base
+slug: les-tremblements-de-terre-mecanisme-de-base
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment une accumulation de tension le long d'une faille se libere soudainement.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echelle de Richter et la mesure de la magnitude
+slug: l-echelle-de-richter-et-la-mesure-de-la-magnitude
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un outil scientifique qui quantifie objectivement la puissance d'un seisme.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echelle de magnitude de moment, plus precise que Richter
+slug: l-echelle-de-magnitude-de-moment-plus-precise-que-richter
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une methode moderne qui a progressivement remplace l'echelle historique pour les grands seismes.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tsunamis, mecanisme de formation
+slug: les-tsunamis-mecanisme-de-formation
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment un seisme sous-marin peut generer une vague destructrice a des milliers de kilometres.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'alerte precoce aux tsunamis
+slug: les-systemes-d-alerte-precoce-aux-tsunamis
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des dispositifs qui permettent de gagner de precieuses minutes avant l'arrivee d'une vague.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Se proteger pendant un tremblement de terre
+slug: se-proteger-pendant-un-tremblement-de-terre
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des gestes simples et eprouves qui reduisent significativement les risques de blessure.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction parasismique, principes de base
+slug: la-construction-parasismique-principes-de-base
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment concevoir un batiment capable de mieux resister aux secousses.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les repliques sismiques apres un seisme majeur
+slug: les-repliques-sismiques-apres-un-seisme-majeur
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Pourquoi la terre continue de trembler, parfois pendant des semaines, apres le choc principal.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La prevision des seismes, un defi scientifique non resolu
+slug: la-prevision-des-seismes-un-defi-scientifique-non-resolu
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Pourquoi, contrairement aux volcans, predire un tremblement de terre reste tres difficile.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones de subduction et leur risque sismique eleve
+slug: les-zones-de-subduction-et-leur-risque-sismique-eleve
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des regions ou une plaque s'enfonce sous une autre, generant les seismes les plus puissants.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eruption du mont Pinatubo et ses consequences climatiques
+slug: l-eruption-du-mont-pinatubo-et-ses-consequences-climatiques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Un evenement volcanique majeur qui a temporairement refroidi le climat mondial.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les supervolcans, un risque rare mais catastrophique
+slug: les-supervolcans-un-risque-rare-mais-catastrophique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Des eruptions d'une ampleur exceptionnelle qui pourraient affecter la planete entiere.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le volcanisme sous-marin
+slug: le-volcanisme-sous-marin
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une activite volcanique qui echappe largement a l'observation directe.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des iles volcaniques
+slug: la-formation-des-iles-volcaniques
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment une activite volcanique repetee peut faire emerger une terre au milieu de l'ocean.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les seismes induits par l'activite humaine
+slug: les-seismes-induits-par-l-activite-humaine
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment certaines activites, comme l'extraction ou l'injection de fluides, peuvent declencher des seismes.
+tags: [volcans-et-seismes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconstruction apres un seisme majeur
+slug: la-reconstruction-apres-un-seisme-majeur
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment on replanifie une reconstruction en integrant les lecons du desastre.
+tags: [volcans-et-seismes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les volcans de boue, un phenomene distinct du volcanisme classique
+slug: les-volcans-de-boue-un-phenomene-distinct-du-volcanisme-classique
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Une activite geologique qui n'implique pas de magma mais des gaz et des sediments.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la sismologie moderne
+slug: l-histoire-de-la-sismologie-moderne
+categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
+summary: >
+  Comment cette science s'est developpee grace a des instruments de mesure de plus en plus precis.
+tags: [volcans-et-seismes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

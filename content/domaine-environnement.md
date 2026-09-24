@@ -2418,3 +2418,4053 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: La chaine alimentaire et les niveaux trophiques
+slug: la-chaine-alimentaire-et-les-niveaux-trophiques
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment l'energie circule d'un organisme a l'autre dans un ecosysteme.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes cles de voute d'un ecosysteme
+slug: les-especes-cles-de-voute-d-un-ecosysteme
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Certaines especes dont la disparition entraine un effondrement disproportionne du reste.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La symbiose dans la nature, des exemples concrets
+slug: la-symbiose-dans-la-nature-des-exemples-concrets
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment deux especes tres differentes peuvent s'entraider durablement.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecosystemes forestiers temperes
+slug: les-ecosystemes-forestiers-temperes
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un ensemble complexe d'especes adaptees a des saisons marquees.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecosystemes de montagne et leur fragilite
+slug: les-ecosystemes-de-montagne-et-leur-fragilite
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Des milieux ou l'altitude cree des conditions de vie tres particulieres.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience des ecosystemes face aux perturbations
+slug: la-resilience-des-ecosystemes-face-aux-perturbations
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Pourquoi certains milieux naturels se retablissent plus vite que d'autres.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les services ecosystemiques rendus par les insectes
+slug: les-services-ecosystemiques-rendus-par-les-insectes
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Pollinisation, decomposition : des roles essentiels souvent invisibles.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite des sols agricoles
+slug: la-biodiversite-des-sols-agricoles
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un ecosysteme souvent sous-estime, pourtant essentiel a la fertilite.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les corridors ecologiques et la connectivite des habitats
+slug: les-corridors-ecologiques-et-la-connectivite-des-habitats
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment relier des espaces naturels isoles ameliore la survie des especes.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones de transition ecologique (ecotones)
+slug: les-zones-de-transition-ecologique-ecotones
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Des espaces frontieres entre deux milieux, souvent particulierement riches en especes.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration ecologique des milieux degrades
+slug: la-restauration-ecologique-des-milieux-degrades
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment on tente de reparer un ecosysteme apres une degradation humaine.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mangroves, un ecosysteme protecteur des cotes
+slug: les-mangroves-un-ecosysteme-protecteur-des-cotes
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Une foret amphibie qui protege le littoral et abrite une biodiversite unique.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tourbieres et leur role dans le stockage du carbone
+slug: les-tourbieres-et-leur-role-dans-le-stockage-du-carbone
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Des zones humides qui stockent, sur des milliers d'annees, une quantite enorme de carbone.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite urbaine, un ecosysteme meconnu
+slug: la-biodiversite-urbaine-un-ecosysteme-meconnu
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment la nature s'adapte, parfois avec succes, a l'environnement des villes.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les recifs coralliens d'eau froide
+slug: les-recifs-coralliens-d-eau-froide
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Une decouverte relativement recente, distincte des recifs tropicaux plus connus.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des grands predateurs dans l'equilibre d'un ecosysteme
+slug: le-role-des-grands-predateurs-dans-l-equilibre-d-un-ecosysteme
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment leur presence ou leur absence transforme completement un milieu.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le retour du loup et ses consequences ecologiques
+slug: le-retour-du-loup-et-ses-consequences-ecologiques
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un exemple concret des effets en cascade que peut avoir un grand predateur.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecosystemes lacustres et leur equilibre fragile
+slug: les-ecosystemes-lacustres-et-leur-equilibre-fragile
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un milieu clos particulierement sensible aux pollutions et perturbations.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deforestation et la fragmentation des habitats
+slug: la-deforestation-et-la-fragmentation-des-habitats
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment couper une foret en morceaux affecte bien plus que la seule surface perdue.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecosystemes cotiers face a la montee des eaux
+slug: les-ecosystemes-cotiers-face-a-la-montee-des-eaux
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment le changement climatique modifie directement ces milieux fragiles.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite des grottes et des milieux souterrains
+slug: la-biodiversite-des-grottes-et-des-milieux-souterrains
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un ecosysteme cache, adapte a l'obscurite totale et a des ressources limitees.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les services de regulation rendus par les zones humides
+slug: les-services-de-regulation-rendus-par-les-zones-humides
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Filtration de l'eau, attenuation des crues : des fonctions naturelles precieuses.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite des deserts, une adaptation extreme
+slug: la-biodiversite-des-deserts-une-adaptation-extreme
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Des especes capables de survivre dans des conditions particulierement hostiles.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des vers de terre dans la fertilite des sols
+slug: le-role-des-vers-de-terre-dans-la-fertilite-des-sols
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un travail discret mais essentiel a la sante des ecosystemes terrestres.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite des estuaires
+slug: la-biodiversite-des-estuaires
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Une zone de rencontre entre eau douce et eau salee, riche en especes specifiques.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecosystemes insulaires et leur fragilite specifique
+slug: les-ecosystemes-insulaires-et-leur-fragilite-specifique
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Pourquoi les iles concentrent souvent des especes uniques mais vulnerables.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reintroduction d'especes disparues localement
+slug: la-reintroduction-d-especes-disparues-localement
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment on tente de restaurer un ecosysteme en y reintroduisant une espece perdue.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecosystemes de mangroves et la pisciculture traditionnelle
+slug: les-ecosystemes-de-mangroves-et-la-pisciculture-traditionnelle
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Comment des communautes exploitent durablement ces milieux depuis des generations.
+tags: [ecosystemes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite des prairies alpines
+slug: la-biodiversite-des-prairies-alpines
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un ecosysteme d'altitude riche en especes adaptees a des conditions rudes.
+tags: [ecosystemes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des champignons dans les ecosystemes forestiers
+slug: le-role-des-champignons-dans-les-ecosystemes-forestiers
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Un reseau souterrain essentiel qui relie et nourrit les arbres entre eux.
+tags: [ecosystemes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les criteres de classification de la liste rouge
+slug: les-criteres-de-classification-de-la-liste-rouge
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comment on determine precisement le niveau de menace pesant sur une espece.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le trafic international d'especes protegees
+slug: le-trafic-international-d-especes-protegees
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un commerce illegal qui reste, malgre les lois, extremement lucratif.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La convention CITES et la protection des especes
+slug: la-convention-cites-et-la-protection-des-especes
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un accord international qui encadre le commerce des especes menacees.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les causes principales du declin de la biodiversite
+slug: les-causes-principales-du-declin-de-la-biodiversite
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un ensemble de facteurs combines, plus complexe qu'une seule cause isolee.
+tags: [especes-menacees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La perte d'habitat, premiere cause d'extinction
+slug: la-perte-d-habitat-premiere-cause-d-extinction
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Pourquoi la destruction des milieux naturels reste le facteur le plus determinant.
+tags: [especes-menacees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes invasives et leur impact sur la faune locale
+slug: les-especes-invasives-et-leur-impact-sur-la-faune-locale
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comment une espece introduite peut bouleverser tout un ecosysteme.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reproduction en captivite pour sauver une espece
+slug: la-reproduction-en-captivite-pour-sauver-une-espece
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Une derniere strategie utilisee quand une population sauvage devient trop fragile.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les banques de semences et la conservation genetique vegetale
+slug: les-banques-de-semences-et-la-conservation-genetique-vegetale
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comment on conserve la diversite genetique des plantes pour l'avenir.
+tags: [especes-menacees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le declin des populations d'abeilles
+slug: le-declin-des-populations-d-abeilles
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un phenomene aux causes multiples, aux consequences agricoles majeures.
+tags: [especes-menacees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pesticides et leur impact sur les insectes pollinisateurs
+slug: les-pesticides-et-leur-impact-sur-les-insectes-pollinisateurs
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un lien de plus en plus documente entre certaines substances et le declin des populations.
+tags: [especes-menacees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sixieme extinction de masse, comparaison avec les precedentes
+slug: la-sixieme-extinction-de-masse-comparaison-avec-les-precedentes
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Pourquoi le rythme actuel de disparition des especes inquiete particulierement les scientifiques.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rhinoceros et le trafic de corne
+slug: les-rhinoceros-et-le-trafic-de-corne
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un exemple emblematique du braconnage motive par des croyances sans fondement scientifique.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les elephants et le trafic d'ivoire
+slug: les-elephants-et-le-trafic-d-ivoire
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Une menace historique qui continue de peser sur les populations restantes.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tigre, une espece en danger critique
+slug: le-tigre-une-espece-en-danger-critique
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Une population qui a chute de maniere spectaculaire en a peine un siecle.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le retablissement du bison d'Amerique
+slug: le-retablissement-du-bison-d-amerique
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un exemple reussi de sauvetage d'une espece proche de l'extinction totale.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands singes et la pression sur leur habitat
+slug: les-grands-singes-et-la-pression-sur-leur-habitat
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Une menace directement liee a la deforestation dans certaines regions tropicales.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les amphibiens, un declin mondial preoccupant
+slug: les-amphibiens-un-declin-mondial-preoccupant
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un groupe entier d'especes particulierement vulnerable aux changements environnementaux.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le champignon chytride et les amphibiens
+slug: le-champignon-chytride-et-les-amphibiens
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Une maladie fongique qui a decime des populations entieres dans le monde.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes marines menacees par la surpeche
+slug: les-especes-marines-menacees-par-la-surpeche
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Des populations de poissons qui declinent plus vite qu'elles ne se reproduisent.
+tags: [especes-menacees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection des tortues marines
+slug: la-protection-des-tortues-marines
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Des especes anciennes menacees par la pollution, la peche et le braconnage.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'extinction du dodo, une lecon historique
+slug: l-extinction-du-dodo-une-lecon-historique
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un exemple souvent cite de disparition d'une espece causee directement par l'homme.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les corridors migratoires et leur protection
+slug: les-corridors-migratoires-et-leur-protection
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comment certaines especes dependent de routes precises pour survivre a chaque saison.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le declin des oiseaux migrateurs
+slug: le-declin-des-oiseaux-migrateurs
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un phenomene mondial lie a la perte d'habitats sur plusieurs continents a la fois.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration de populations de saumon
+slug: la-restauration-de-populations-de-saumon
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Des efforts pour restaurer des especes affectees par les barrages et la pollution.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes endemiques et leur vulnerabilite particuliere
+slug: les-especes-endemiques-et-leur-vulnerabilite-particuliere
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Pourquoi une espece presente nulle part ailleurs est particulierement exposee.
+tags: [especes-menacees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation ex situ contre in situ
+slug: la-conservation-ex-situ-contre-in-situ
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Deux strategies complementaires pour proteger une espece menacee.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des zoos modernes dans la conservation
+slug: le-role-des-zoos-modernes-dans-la-conservation
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comment ces institutions ont evolue vers un role de preservation des especes.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lutte contre le braconnage par les communautes locales
+slug: la-lutte-contre-le-braconnage-par-les-communautes-locales
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comment impliquer les populations riveraines ameliore souvent l'efficacite de la protection.
+tags: [especes-menacees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes disparues au cours du dernier siecle
+slug: les-especes-disparues-au-cours-du-dernier-siecle
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Un panorama qui illustre l'acceleration recente du phenomene d'extinction.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi scientifique des populations en danger
+slug: le-suivi-scientifique-des-populations-en-danger
+categoryPath: environnement-et-climat/biodiversite/especes-menacees
+summary: >
+  Comment on mesure, dans le temps, l'evolution reelle d'une population menacee.
+tags: [especes-menacees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deforestation mondiale, chiffres et tendances
+slug: la-deforestation-mondiale-chiffres-et-tendances
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un panorama global de la disparition des forets a l'echelle de la planete.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La foret amazonienne et son role climatique
+slug: la-foret-amazonienne-et-son-role-climatique
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un ecosysteme majeur souvent decrit, a raison, comme un regulateur du climat mondial.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion durable des forets, principes de base
+slug: la-gestion-durable-des-forets-principes-de-base
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Comment exploiter le bois sans compromettre la survie a long terme de la foret.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reboisement, methodes et limites
+slug: le-reboisement-methodes-et-limites
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Planter des arbres ne suffit pas toujours a recreer un ecosysteme forestier complet.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les forets primaires contre les forets secondaires
+slug: les-forets-primaires-contre-les-forets-secondaires
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Une distinction essentielle qui change radicalement la valeur ecologique d'un milieu.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agroforesterie, combiner arbres et cultures
+slug: l-agroforesterie-combiner-arbres-et-cultures
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Une approche ancienne qui associe production agricole et couvert forestier.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les incendies de foret et leur role ecologique naturel
+slug: les-incendies-de-foret-et-leur-role-ecologique-naturel
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Pourquoi le feu fait, dans certaines limites, partie du cycle naturel de la foret.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lutte contre les feux de foret
+slug: la-lutte-contre-les-feux-de-foret
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Des methodes de prevention et d'intervention adaptees a differents types de terrain.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bois de chauffage et la pression sur les forets locales
+slug: le-bois-de-chauffage-et-la-pression-sur-les-forets-locales
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Une source d'energie essentielle qui peut aussi mener a une surexploitation.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'exploitation forestiere illegale dans le monde
+slug: l-exploitation-forestiere-illegale-dans-le-monde
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un commerce qui echappe largement aux regles de gestion durable.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les forets tropicales humides et leur biodiversite exceptionnelle
+slug: les-forets-tropicales-humides-et-leur-biodiversite-exceptionnelle
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un ecosysteme qui concentre une part disproportionnee des especes de la planete.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ocean, plus grand puits de carbone de la planete
+slug: l-ocean-plus-grand-puits-de-carbone-de-la-planete
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Comment les mers absorbent une part importante du CO2 emis par les activites humaines.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acidification des oceans, mecanisme et consequences
+slug: l-acidification-des-oceans-mecanisme-et-consequences
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Comment l'exces de CO2 modifie directement la chimie de l'eau de mer.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La surpeche et l'effondrement de certains stocks
+slug: la-surpeche-et-l-effondrement-de-certains-stocks
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Pourquoi pecher trop vite peut rendre une ressource incapable de se renouveler.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La peche durable, principes et labels
+slug: la-peche-durable-principes-et-labels
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Des methodes qui cherchent a preserver les populations de poissons a long terme.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le plastique dans les oceans, ampleur du probleme
+slug: le-plastique-dans-les-oceans-ampleur-du-probleme
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Une pollution qui s'accumule et persiste durant des siecles dans les milieux marins.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les continents de dechets plastiques oceaniques
+slug: les-continents-de-dechets-plastiques-oceaniques
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Des zones d'accumulation massive creees par les courants marins.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aires marines protegees, efficacite et limites
+slug: les-aires-marines-protegees-efficacite-et-limites
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Des zones ou l'activite humaine est restreinte pour laisser la nature se regenerer.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les forets boreales et leur role climatique
+slug: les-forets-boreales-et-leur-role-climatique
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un immense ecosysteme nordique qui stocke une quantite considerable de carbone.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deforestation liee a l'agriculture d'exportation
+slug: la-deforestation-liee-a-l-agriculture-d-exportation
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Comment la demande mondiale de certains produits pousse a defricher des forets entieres.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des mangroves dans la protection cotiere
+slug: le-role-des-mangroves-dans-la-protection-cotiere
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Une barriere naturelle qui attenue l'impact des tempetes et de l'erosion.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pisciculture, une alternative a la peche sauvage
+slug: la-pisciculture-une-alternative-a-la-peche-sauvage
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Une production qui peut soulager la pression sur les stocks naturels, sous conditions.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les courants oceaniques et leur role dans le climat mondial
+slug: les-courants-oceaniques-et-leur-role-dans-le-climat-mondial
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un systeme de circulation qui redistribue la chaleur a l'echelle de la planete.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La foret mediterraneenne et son adaptation au feu
+slug: la-foret-mediterraneenne-et-son-adaptation-au-feu
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un ecosysteme specifique dont certaines especes dependent meme du feu pour se reproduire.
+tags: [forets-et-oceans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les especes marines les plus impactees par le rechauffement
+slug: les-especes-marines-les-plus-impactees-par-le-rechauffement
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Des populations qui migrent ou declinent en reponse a la hausse des temperatures.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration des recifs coralliens
+slug: la-restauration-des-recifs-coralliens
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Des techniques experimentales pour tenter de reparer un ecosysteme gravement affecte.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des grandes forets dans le cycle de l'eau
+slug: le-role-des-grandes-forets-dans-le-cycle-de-l-eau
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Comment les arbres influencent directement les precipitations regionales.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification forestiere durable (FSC et equivalents)
+slug: la-certification-forestiere-durable-fsc-et-equivalents
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Un label qui tente de garantir une gestion responsable de l'exploitation du bois.
+tags: [forets-et-oceans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones de peche traditionnelle et leur gestion communautaire
+slug: les-zones-de-peche-traditionnelle-et-leur-gestion-communautaire
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Comment certaines communautes ont developpe des regles durables sans reglementation etatique.
+tags: [forets-et-oceans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact du chalutage de fond sur les ecosystemes marins
+slug: l-impact-du-chalutage-de-fond-sur-les-ecosystemes-marins
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Une technique de peche efficace mais particulierement destructrice pour les fonds marins.
+tags: [forets-et-oceans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents gaz a effet de serre et leur pouvoir de rechauffement
+slug: les-differents-gaz-a-effet-de-serre-et-leur-pouvoir-de-rechauffement
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Tous les gaz ne contribuent pas de la meme maniere au rechauffement climatique.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vapeur d'eau, le gaz a effet de serre le plus abondant
+slug: la-vapeur-d-eau-le-gaz-a-effet-de-serre-le-plus-abondant
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un gaz naturel dont le role differe fondamentalement du CO2 emis par l'homme.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle du carbone naturel avant l'ere industrielle
+slug: le-cycle-du-carbone-naturel-avant-l-ere-industrielle
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un equilibre qui existait bien avant que l'activite humaine ne le perturbe.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sources naturelles et humaines de methane
+slug: les-sources-naturelles-et-humaines-de-methane
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Comment on distingue les emissions naturelles de celles causees par l'activite humaine.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le methane issu de l'elevage bovin
+slug: le-methane-issu-de-l-elevage-bovin
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un gaz produit naturellement par la digestion de certains animaux d'elevage.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fuites de methane dans l'industrie gaziere
+slug: les-fuites-de-methane-dans-l-industrie-gaziere
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Une source d'emissions souvent sous-estimee mais relativement facile a reduire.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protoxyde d'azote et son origine agricole
+slug: le-protoxyde-d-azote-et-son-origine-agricole
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un gaz a effet de serre puissant, principalement lie a l'usage d'engrais.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gaz fluores et leur impact climatique
+slug: les-gaz-fluores-et-leur-impact-climatique
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Des gaz industriels au pouvoir de rechauffement extremement eleve malgre leur faible volume.
+tags: [gaz-a-effet-de-serre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mesure des concentrations de CO2 dans l'atmosphere
+slug: la-mesure-des-concentrations-de-co2-dans-l-atmosphere
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Comment les scientifiques suivent, avec precision, l'evolution de ce gaz depuis des decennies.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'observatoire de Mauna Loa et la courbe de Keeling
+slug: l-observatoire-de-mauna-loa-et-la-courbe-de-keeling
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un site de mesure emblematique qui suit le CO2 atmospherique depuis 1958.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les puits de carbone naturels
+slug: les-puits-de-carbone-naturels
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Forets, oceans, sols : les principaux reservoirs qui absorbent une partie du CO2 emis.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'empreinte carbone, methode de calcul
+slug: l-empreinte-carbone-methode-de-calcul
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Comment on estime la quantite de gaz a effet de serre associee a une activite.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions territoriales contre les emissions importees
+slug: les-emissions-territoriales-contre-les-emissions-importees
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Une distinction essentielle qui change la maniere de comparer l'impact climatique des pays.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole de Kyoto, premier accord climatique contraignant
+slug: le-protocole-de-kyoto-premier-accord-climatique-contraignant
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un texte fondateur qui a precede l'Accord de Paris de plusieurs decennies.
+tags: [gaz-a-effet-de-serre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deforestation comme source d'emissions de CO2
+slug: la-deforestation-comme-source-d-emissions-de-co2
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Comment couper une foret libere du carbone au lieu d'en absorber.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions de gaz a effet de serre du secteur du batiment
+slug: les-emissions-de-gaz-a-effet-de-serre-du-secteur-du-batiment
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un poste important, souvent moins visible que les transports ou l'industrie.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le trou dans la couche d'ozone, un probleme distinct du climat
+slug: le-trou-dans-la-couche-d-ozone-un-probleme-distinct-du-climat
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Une confusion frequente entre deux phenomenes atmospheriques differents.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole de Montreal et la reparation de la couche d'ozone
+slug: le-protocole-de-montreal-et-la-reparation-de-la-couche-d-ozone
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un succes rare de cooperation internationale face a une menace environnementale.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions de gaz a effet de serre du transport maritime
+slug: les-emissions-de-gaz-a-effet-de-serre-du-transport-maritime
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un secteur difficile a decarboner en raison des distances et des technologies disponibles.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle du carbone oceanique
+slug: le-cycle-du-carbone-oceanique
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Comment les mers absorbent, stockent et parfois relarguent du carbone.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions historiques cumulees par pays
+slug: les-emissions-historiques-cumulees-par-pays
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Pourquoi la responsabilite climatique se mesure aussi sur le temps long.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre gaz a effet de serre et pollution de l'air
+slug: la-difference-entre-gaz-a-effet-de-serre-et-pollution-de-l-air
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Deux problemes distincts, parfois lies aux memes sources, mais aux mecanismes differents.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions de gaz a effet de serre du numerique
+slug: les-emissions-de-gaz-a-effet-de-serre-du-numerique
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un secteur en croissance dont l'empreinte reste souvent meconnue du grand public.
+tags: [gaz-a-effet-de-serre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le forcage radiatif, mesurer l'impact d'un gaz sur le climat
+slug: le-forcage-radiatif-mesurer-l-impact-d-un-gaz-sur-le-climat
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un concept scientifique qui permet de comparer l'effet reel de differents gaz.
+tags: [gaz-a-effet-de-serre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie atmospherique des differents gaz a effet de serre
+slug: la-duree-de-vie-atmospherique-des-differents-gaz-a-effet-de-serre
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Pourquoi certains gaz disparaissent en quelques annees et d'autres en des siecles.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions liees a la production de ciment
+slug: les-emissions-liees-a-la-production-de-ciment
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un materiau essentiel dont la fabrication est intrinsequement emettrice de CO2.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet de serre naturel, indispensable a la vie sur Terre
+slug: l-effet-de-serre-naturel-indispensable-a-la-vie-sur-terre
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Sans ce phenomene naturel, la planete serait bien trop froide pour la vie.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions de gaz a effet de serre liees a la deforestation tropicale
+slug: les-emissions-de-gaz-a-effet-de-serre-liees-a-la-deforestation-tropicale
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Une source majeure d'emissions concentree dans quelques regions du monde.
+tags: [gaz-a-effet-de-serre]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le potentiel de rechauffement global, une unite de comparaison
+slug: le-potentiel-de-rechauffement-global-une-unite-de-comparaison
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Comment on ramene l'effet de differents gaz a une meme echelle de mesure.
+tags: [gaz-a-effet-de-serre]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emissions de gaz a effet de serre du secteur agricole global
+slug: les-emissions-de-gaz-a-effet-de-serre-du-secteur-agricole-global
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Un ensemble de sources variees, de l'elevage aux engrais azotes.
+tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation au changement climatique, principes generaux
+slug: l-adaptation-au-changement-climatique-principes-generaux
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment on se prepare a des changements deja engages, quoi qu'on fasse desormais.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vagues de chaleur, mecanisme et frequence croissante
+slug: les-vagues-de-chaleur-mecanisme-et-frequence-croissante
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Un phenomene meteorologique dont l'intensite et la frequence augmentent nettement.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Se proteger d'une canicule, gestes essentiels
+slug: se-proteger-d-une-canicule-gestes-essentiels
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des reflexes simples qui reduisent significativement les risques pour la sante.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La montee du niveau des mers, mecanismes et projections
+slug: la-montee-du-niveau-des-mers-mecanismes-et-projections
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment la fonte des glaces et la dilatation de l'eau elevent progressivement les oceans.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations climatiques, un phenomene deja en cours
+slug: les-migrations-climatiques-un-phenomene-deja-en-cours
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment le changement climatique pousse deja des populations a se deplacer.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation de l'agriculture au changement climatique
+slug: l-adaptation-de-l-agriculture-au-changement-climatique
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment les pratiques agricoles evoluent face a des conditions climatiques changeantes.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les infrastructures urbaines face aux vagues de chaleur
+slug: les-infrastructures-urbaines-face-aux-vagues-de-chaleur
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment les villes repensent leur amenagement pour limiter les ilots de chaleur.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vegetalisation urbaine comme strategie d'adaptation
+slug: la-vegetalisation-urbaine-comme-strategie-d-adaptation
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment planter des arbres en ville reduit concretement la temperature ressentie.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les inondations et leur prevention structurelle
+slug: les-inondations-et-leur-prevention-structurelle
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des amenagements concrets qui limitent l'impact des crues sur les zones habitees.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des secheresses prolongees
+slug: la-gestion-des-secheresses-prolongees
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des strategies necessaires pour limiter l'impact d'un manque d'eau durable.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les incendies de foret et le changement climatique
+slug: les-incendies-de-foret-et-le-changement-climatique
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment des conditions plus chaudes et seches allongent la saison des feux.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation des batiments a des temperatures extremes
+slug: l-adaptation-des-batiments-a-des-temperatures-extremes
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des principes de construction qui limitent le besoin de climatisation active.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les points de bascule climatiques, un risque de seuil irreversible
+slug: les-points-de-bascule-climatiques-un-risque-de-seuil-irreversible
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des elements du systeme terrestre qui pourraient basculer brutalement au-dela d'un certain seuil.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fonte du permafrost et ses consequences
+slug: la-fonte-du-permafrost-et-ses-consequences
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Un sol gele qui, en degelant, pourrait liberer une quantite importante de carbone.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation des systemes de sante aux vagues de chaleur
+slug: l-adaptation-des-systemes-de-sante-aux-vagues-de-chaleur
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment les hopitaux et services de secours se preparent a des pics de mortalite lies a la chaleur.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience alimentaire face aux chocs climatiques
+slug: la-resilience-alimentaire-face-aux-chocs-climatiques
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment diversifier les cultures et les stocks limite les risques de penurie.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les refugies climatiques et le vide juridique international
+slug: les-refugies-climatiques-et-le-vide-juridique-international
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Un statut encore mal reconnu pour des personnes deplacees par des causes environnementales.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation des cotes face a l'erosion accrue
+slug: l-adaptation-des-cotes-face-a-l-erosion-accrue
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des strategies variees, du repli strategique aux ouvrages de protection.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les canicules marines et leur impact sur la vie oceanique
+slug: les-canicules-marines-et-leur-impact-sur-la-vie-oceanique
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Un phenomene moins connu que les canicules terrestres, mais tout aussi destructeur.
+tags: [impacts-et-adaptation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation des reseaux electriques aux evenements extremes
+slug: l-adaptation-des-reseaux-electriques-aux-evenements-extremes
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment renforcer une infrastructure critique face a des conditions plus violentes.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les strategies de repli face a la montee des eaux
+slug: les-strategies-de-repli-face-a-la-montee-des-eaux
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des decisions difficiles ou certaines zones cotieres sont progressivement abandonnees.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact du changement climatique sur les rendements agricoles
+slug: l-impact-du-changement-climatique-sur-les-rendements-agricoles
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment des conditions plus instables affectent directement la production alimentaire mondiale.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plans nationaux d'adaptation au changement climatique
+slug: les-plans-nationaux-d-adaptation-au-changement-climatique
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment les gouvernements planifient officiellement leur reponse aux impacts a venir.
+tags: [impacts-et-adaptation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconstruction apres une catastrophe climatique
+slug: la-reconstruction-apres-une-catastrophe-climatique
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment integrer des principes de resilience dans la reconstruction post-catastrophe.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation des especes sauvages au changement climatique
+slug: l-adaptation-des-especes-sauvages-au-changement-climatique
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment certains organismes vivants modifient deja leur comportement ou leur repartition.
+tags: [impacts-et-adaptation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'alerte precoce face aux catastrophes climatiques
+slug: les-systemes-d-alerte-precoce-face-aux-catastrophes-climatiques
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des dispositifs qui permettent d'anticiper et de reduire les pertes humaines.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation du tourisme aux nouvelles contraintes climatiques
+slug: l-adaptation-du-tourisme-aux-nouvelles-contraintes-climatiques
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment ce secteur economique s'ajuste face a des conditions changeantes.
+tags: [impacts-et-adaptation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion de l'eau en periode de stress hydrique croissant
+slug: la-gestion-de-l-eau-en-periode-de-stress-hydrique-croissant
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Des strategies d'adaptation face a une ressource de plus en plus sous tension.
+tags: [impacts-et-adaptation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les assurances face aux risques climatiques croissants
+slug: les-assurances-face-aux-risques-climatiques-croissants
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Comment ce secteur economique s'adapte a une frequence accrue de catastrophes.
+tags: [impacts-et-adaptation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation psychologique face a l'anxiete climatique
+slug: l-adaptation-psychologique-face-a-l-anxiete-climatique
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Un phenomene emergent qui touche particulierement les jeunes generations.
+tags: [impacts-et-adaptation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement du GIEC et l'evaluation scientifique collective
+slug: le-fonctionnement-du-giec-et-l-evaluation-scientifique-collective
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment des milliers de chercheurs synthetisent l'etat des connaissances sur le climat.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rapports du GIEC, structure et methode
+slug: les-rapports-du-giec-structure-et-methode
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment ces documents massifs sont elabores et valides avant publication.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le budget carbone restant, une notion cle
+slug: le-budget-carbone-restant-une-notion-cle
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Combien de CO2 peut encore etre emis avant de depasser certains seuils critiques.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios socio-economiques partages (SSP)
+slug: les-scenarios-socio-economiques-partages-ssp
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment les chercheurs imaginent differentes trajectoires possibles pour l'avenir.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La neutralite carbone, ce que ce terme signifie vraiment
+slug: la-neutralite-carbone-ce-que-ce-terme-signifie-vraiment
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Une notion souvent utilisee, mais dont la definition precise merite d'etre clarifiee.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'Accord de Paris, contenu et mecanismes
+slug: l-accord-de-paris-contenu-et-mecanismes
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Un texte international majeur qui fixe des objectifs mais peu d'obligations contraignantes.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les contributions nationales determinees (NDC)
+slug: les-contributions-nationales-determinees-ndc
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment chaque pays fixe lui-meme ses propres engagements climatiques.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les modeles climatiques, comment ils fonctionnent
+slug: les-modeles-climatiques-comment-ils-fonctionnent
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Des simulations complexes qui tentent de projeter l'evolution future du climat.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre meteo et climat
+slug: la-difference-entre-meteo-et-climat
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Une confusion frequente entre deux echelles de temps totalement differentes.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geo-ingenierie climatique, principes et risques
+slug: la-geo-ingenierie-climatique-principes-et-risques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Des propositions ambitieuses et controversees pour intervenir directement sur le climat.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La captation et le stockage du carbone a grande echelle
+slug: la-captation-et-le-stockage-du-carbone-a-grande-echelle
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Une technologie encore couteuse qui pourrait jouer un role dans certains scenarios.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios de rechauffement a 1,5 et 2 degres
+slug: les-scenarios-de-rechauffement-a-1-5-et-2-degres
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Pourquoi ce demi-degre de difference represente un enjeu majeur.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La marge d'incertitude des projections climatiques
+slug: la-marge-d-incertitude-des-projections-climatiques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Pourquoi les scientifiques presentent toujours leurs resultats sous forme de fourchettes.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les negociations climatiques internationales, historique
+slug: les-negociations-climatiques-internationales-historique
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Une serie de sommets qui ont progressivement construit la gouvernance climatique mondiale.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des pays en developpement dans les negociations climatiques
+slug: le-role-des-pays-en-developpement-dans-les-negociations-climatiques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Des positions specifiques liees a une responsabilite historique moindre mais des impacts subis importants.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le financement climatique international
+slug: le-financement-climatique-international
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment les pays riches s'engagent, avec des resultats variables, a aider les pays vulnerables.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios d'emissions et leurs consequences a long terme
+slug: les-scenarios-d-emissions-et-leurs-consequences-a-long-terme
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment des choix presents determinent des trajectoires climatiques sur des siecles.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La verification independante des engagements climatiques
+slug: la-verification-independante-des-engagements-climatiques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment on s'assure que les pays respectent reellement leurs promesses.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des puits de carbone dans les strategies de neutralite
+slug: le-role-des-puits-de-carbone-dans-les-strategies-de-neutralite
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Pourquoi il ne suffit pas de reduire les emissions, il faut aussi en absorber.
+tags: [scenarios]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios extremes de rechauffement climatique
+slug: les-scenarios-extremes-de-rechauffement-climatique
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Des trajectoires moins probables mais dont les consequences seraient particulierement graves.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La comptabilite carbone des entreprises
+slug: la-comptabilite-carbone-des-entreprises
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment les organisations mesurent et rapportent desormais leur propre empreinte.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la societe civile dans les negociations climatiques
+slug: le-role-de-la-societe-civile-dans-les-negociations-climatiques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment des organisations non gouvernementales influencent les discussions officielles.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios de transition energetique mondiale
+slug: les-scenarios-de-transition-energetique-mondiale
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Differentes trajectoires envisagees pour remplacer les energies fossiles a l'echelle globale.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La credibilite scientifique du consensus climatique
+slug: la-credibilite-scientifique-du-consensus-climatique
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment on evalue le degre d'accord entre les chercheurs sur cette question.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les points de bascule dans les modeles climatiques
+slug: les-points-de-bascule-dans-les-modeles-climatiques
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment les scientifiques integrent le risque de changements brutaux et irreversibles.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des oceans dans les projections climatiques a long terme
+slug: le-role-des-oceans-dans-les-projections-climatiques-a-long-terme
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Un systeme a inertie lente qui continue de reagir longtemps apres un changement.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios climatiques regionaux contre globaux
+slug: les-scenarios-climatiques-regionaux-contre-globaux
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Pourquoi une meme moyenne mondiale peut cacher des situations tres differentes localement.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi annuel des emissions mondiales de gaz a effet de serre
+slug: le-suivi-annuel-des-emissions-mondiales-de-gaz-a-effet-de-serre
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Comment on mesure, chaque annee, si le monde progresse ou non vers ses objectifs.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transparence des donnees climatiques nationales
+slug: la-transparence-des-donnees-climatiques-nationales
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Un enjeu de confiance essentiel pour la credibilite des engagements internationaux.
+tags: [scenarios]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les scenarios d'adaptation combines aux scenarios d'attenuation
+slug: les-scenarios-d-adaptation-combines-aux-scenarios-d-attenuation
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Pourquoi reduire les emissions et s'adapter aux impacts doivent avancer ensemble.
+tags: [scenarios, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tri selectif, principes et efficacite reelle
+slug: le-tri-selectif-principes-et-efficacite-reelle
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Ce qui se passe reellement apres que l'on ait separe ses dechets a la maison.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage du papier et du carton
+slug: le-recyclage-du-papier-et-du-carton
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Un processus relativement simple qui permet une reutilisation efficace de la matiere.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des metaux, un processus tres efficace
+slug: le-recyclage-des-metaux-un-processus-tres-efficace
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Pourquoi l'aluminium et l'acier comptent parmi les materiaux les mieux recycles.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les difficultes du recyclage du plastique
+slug: les-difficultes-du-recyclage-du-plastique
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Pourquoi tous les plastiques ne se recyclent pas de la meme facon, ni aussi facilement.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de plastiques et leur recyclabilite
+slug: les-differents-types-de-plastiques-et-leur-recyclabilite
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Un code numerique simple qui cache une realite technique bien plus complexe.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compostage domestique, methode et benefices
+slug: le-compostage-domestique-methode-et-benefices
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une technique accessible qui transforme des dechets organiques en ressource utile.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La methanisation des dechets organiques
+slug: la-methanisation-des-dechets-organiques
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Comment on peut produire de l'energie a partir de dechets qui seraient sinon perdus.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les decharges controlees et leur gestion
+slug: les-decharges-controlees-et-leur-gestion
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une solution qui reste, malgre le recyclage, encore largement utilisee dans le monde.
+tags: [dechets-et-recyclage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'incineration des dechets avec valorisation energetique
+slug: l-incineration-des-dechets-avec-valorisation-energetique
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Comment bruler des dechets peut aussi produire de la chaleur ou de l'electricite.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les dechets electroniques, un flux en forte croissance
+slug: les-dechets-electroniques-un-flux-en-forte-croissance
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une categorie de dechets particulierement complexe a traiter correctement.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des metaux precieux dans les appareils electroniques
+slug: le-recyclage-des-metaux-precieux-dans-les-appareils-electroniques
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Comment on recupere des ressources rares cachees dans nos vieux appareils.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'economie circulaire, principes fondamentaux
+slug: l-economie-circulaire-principes-fondamentaux
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une approche qui vise a boucler les cycles de matiere plutot que de tout jeter.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reparer plutot que jeter, l'essor de la reparation
+slug: reparer-plutot-que-jeter-l-essor-de-la-reparation
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Comment prolonger la duree de vie d'un objet reduit directement les dechets produits.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reemploi des objets avant leur recyclage
+slug: le-reemploi-des-objets-avant-leur-recyclage
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une hierarchie souvent oubliee, ou reutiliser vaut generalement mieux que recycler.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les dechets dangereux et leur traitement specifique
+slug: les-dechets-dangereux-et-leur-traitement-specifique
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Des categories qui exigent des precautions particulieres pour eviter tout risque.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage du verre, un materiau recyclable a l'infini
+slug: le-recyclage-du-verre-un-materiau-recyclable-a-l-infini
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une matiere qui peut etre reutilisee indefiniment sans perte de qualite.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consigne pour reemploi des bouteilles
+slug: la-consigne-pour-reemploi-des-bouteilles
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Un systeme ancien qui revient dans plusieurs pays pour reduire les emballages jetables.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les dechets textiles et leur recyclage encore limite
+slug: les-dechets-textiles-et-leur-recyclage-encore-limite
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Un secteur ou la matiere reste, aujourd'hui encore, difficile a valoriser efficacement.
+tags: [dechets-et-recyclage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La collecte selective dans les zones rurales
+slug: la-collecte-selective-dans-les-zones-rurales
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Des defis logistiques specifiques, distincts de ceux rencontres en milieu urbain.
+tags: [dechets-et-recyclage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des batteries et des piles usagees
+slug: le-recyclage-des-batteries-et-des-piles-usagees
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une filiere specifique necessaire en raison des substances potentiellement dangereuses.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les emballages reutilisables comme alternative au jetable
+slug: les-emballages-reutilisables-comme-alternative-au-jetable
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une tendance en croissance qui remet en question le modele de l'usage unique.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tri des dechets en situation de crise ou d'isolement
+slug: le-tri-des-dechets-en-situation-de-crise-ou-d-isolement
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Des principes simples pour gerer les dechets meme sans collecte organisee.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction a la source, le premier geste ecologique
+slug: la-reduction-a-la-source-le-premier-geste-ecologique
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Pourquoi ne pas produire de dechet reste toujours preferable a le recycler.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des huiles usagees
+slug: le-recyclage-des-huiles-usagees
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une matiere qui, mal jetee, pollue gravement l'eau, mais qui se valorise bien.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les dechets de construction et leur valorisation
+slug: les-dechets-de-construction-et-leur-valorisation
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Un volume important de matiere qui peut souvent etre reutilise sur d'autres chantiers.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La traceabilite des dechets, du bac a la filiere finale
+slug: la-traceabilite-des-dechets-du-bac-a-la-filiere-finale
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Comment on suit precisement ce que deviennent reellement nos dechets tries.
+tags: [dechets-et-recyclage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage chimique du plastique, une piste recente
+slug: le-recyclage-chimique-du-plastique-une-piste-recente
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Une technologie emergente qui pourrait completer le recyclage mecanique classique.
+tags: [dechets-et-recyclage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les points de collecte et de reemploi communautaires
+slug: les-points-de-collecte-et-de-reemploi-communautaires
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Des initiatives locales qui facilitent le partage et la reutilisation d'objets.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication d'objets utiles a partir de dechets recycles
+slug: la-fabrication-d-objets-utiles-a-partir-de-dechets-recycles
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Des exemples concrets de transformation creative de matieres jetees.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact environnemental global du non-recyclage
+slug: l-impact-environnemental-global-du-non-recyclage
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Ce que represente concretement, en ressources et en pollution, l'absence de tri.
+tags: [dechets-et-recyclage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'eau par les nitrates agricoles
+slug: la-pollution-de-l-eau-par-les-nitrates-agricoles
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment l'usage intensif d'engrais degrade progressivement les ressources en eau.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'eau par les pesticides
+slug: la-pollution-de-l-eau-par-les-pesticides
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Un probleme qui touche a la fois les eaux de surface et les nappes souterraines.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution industrielle des cours d'eau
+slug: la-pollution-industrielle-des-cours-d-eau
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des rejets chimiques qui peuvent affecter durablement tout un ecosysteme aquatique.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les microplastiques dans l'eau douce
+slug: les-microplastiques-dans-l-eau-douce
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une pollution invisible qui se retrouve desormais jusque dans l'eau du robinet.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le traitement des eaux usees, etapes principales
+slug: le-traitement-des-eaux-usees-etapes-principales
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment on rend a la nature une eau qui a servi, sans y laisser de pollution.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les stations d'epuration, fonctionnement general
+slug: les-stations-d-epuration-fonctionnement-general
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des installations essentielles mais souvent invisibles du grand public.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reutilisation des eaux usees traitees
+slug: la-reutilisation-des-eaux-usees-traitees
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment une eau deja utilisee peut, apres traitement, servir a nouveau.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recuperation de l'eau de pluie a l'echelle domestique
+slug: la-recuperation-de-l-eau-de-pluie-a-l-echelle-domestique
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une pratique simple et accessible pour reduire sa consommation d'eau potable.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les nappes phreatiques, formation et vulnerabilite
+slug: les-nappes-phreatiques-formation-et-vulnerabilite
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment l'eau souterraine se forme, et pourquoi elle reste fragile face aux pollutions.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La surexploitation des nappes phreatiques dans le monde
+slug: la-surexploitation-des-nappes-phreatiques-dans-le-monde
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Quand on puise l'eau souterraine plus vite qu'elle ne se recharge naturellement.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stress hydrique, definition et regions concernees
+slug: le-stress-hydrique-definition-et-regions-concernees
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une situation ou la demande en eau depasse durablement les ressources disponibles.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les conflits lies a l'acces a l'eau
+slug: les-conflits-lies-a-l-acces-a-l-eau
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment le partage d'une ressource limitee peut devenir une source de tension.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La purification de l'eau en situation d'urgence
+slug: la-purification-de-l-eau-en-situation-d-urgence
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des methodes accessibles pour rendre une eau potable sans infrastructure complexe.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'eau par les medicaments
+slug: la-pollution-de-l-eau-par-les-medicaments
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une contamination discrete mais croissante, difficile a traiter completement.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pollutions accidentelles de l'eau, causes et gestion
+slug: les-pollutions-accidentelles-de-l-eau-causes-et-gestion
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment on reagit face a un deversement soudain de substances polluantes.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eau virtuelle et son impact sur les echanges mondiaux
+slug: l-eau-virtuelle-et-son-impact-sur-les-echanges-mondiaux
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment le commerce international deplace indirectement d'immenses quantites d'eau.
+tags: [eau]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite de l'eau potable, normes et controles
+slug: la-qualite-de-l-eau-potable-normes-et-controles
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Un ensemble de criteres precis qui garantissent la securite sanitaire de l'eau distribuee.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le dessalement de l'eau de mer, une solution couteuse mais necessaire
+slug: le-dessalement-de-l-eau-de-mer-une-solution-couteuse-mais-necessaire
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une technologie de plus en plus utilisee dans les regions les plus arides.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion integree des ressources en eau
+slug: la-gestion-integree-des-ressources-en-eau
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une approche qui coordonne differents usages autour d'une meme ressource partagee.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones humides et leur role de filtration naturelle
+slug: les-zones-humides-et-leur-role-de-filtration-naturelle
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment certains milieux naturels purifient gratuitement une partie de l'eau qui les traverse.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'eau par les eaux de ruissellement urbain
+slug: la-pollution-de-l-eau-par-les-eaux-de-ruissellement-urbain
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment la pluie entraine avec elle les polluants accumules sur les surfaces urbaines.
+tags: [eau]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'irrigation efficace et l'economie d'eau agricole
+slug: l-irrigation-efficace-et-l-economie-d-eau-agricole
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des techniques qui reduisent le gaspillage tout en maintenant les rendements.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'eau par les metaux lourds
+slug: la-pollution-de-l-eau-par-les-metaux-lourds
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des contaminants persistants qui peuvent s'accumuler dans la chaine alimentaire.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le partage transfrontalier des fleuves internationaux
+slug: le-partage-transfrontalier-des-fleuves-internationaux
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment plusieurs pays negocient l'usage d'une meme ressource en eau.
+tags: [eau]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction de la consommation d'eau domestique
+slug: la-reduction-de-la-consommation-d-eau-domestique
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des gestes simples qui, cumules, representent des economies significatives.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fuites dans les reseaux de distribution d'eau
+slug: les-fuites-dans-les-reseaux-de-distribution-d-eau
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Un gaspillage souvent important, lie a des infrastructures parfois vieillissantes.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'eau liee a l'elevage intensif
+slug: la-pollution-de-l-eau-liee-a-l-elevage-intensif
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des rejets qui peuvent degrader localement la qualite des cours d'eau proches.
+tags: [eau]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le prix de l'eau et son role dans la gestion de la ressource
+slug: le-prix-de-l-eau-et-son-role-dans-la-gestion-de-la-ressource
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment la tarification peut encourager, ou non, une consommation plus raisonnee.
+tags: [eau]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration des cours d'eau degrades
+slug: la-restauration-des-cours-d-eau-degrades
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Des projets qui visent a redonner a une riviere son fonctionnement naturel.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite de l'approvisionnement en eau des grandes villes
+slug: la-securite-de-l-approvisionnement-en-eau-des-grandes-villes
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Comment les metropoles anticipent les risques de penurie future.
+tags: [eau, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les principales sources de pollution de l'air
+slug: les-principales-sources-de-pollution-de-l-air
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un panorama des origines, industrielles, domestiques et liees aux transports.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les particules fines PM2,5 et leurs effets sur la sante
+slug: les-particules-fines-pm2-5-et-leurs-effets-sur-la-sante
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Des particules si petites qu'elles penetrent profondement dans les poumons.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air liee au chauffage domestique
+slug: la-pollution-de-l-air-liee-au-chauffage-domestique
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Une source souvent sous-estimee, particulierement en hiver.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air interieur, un risque meconnu
+slug: la-pollution-de-l-air-interieur-un-risque-meconnu
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Pourquoi l'air a l'interieur d'un logement peut parfois etre plus pollue qu'a l'exterieur.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Aerer son logement, un geste simple et efficace
+slug: aerer-son-logement-un-geste-simple-et-efficace
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Une habitude simple qui reduit sensiblement la pollution de l'air interieur.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ozone de basse altitude, un polluant secondaire
+slug: l-ozone-de-basse-altitude-un-polluant-secondaire
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Contrairement a la couche d'ozone protectrice, celui-ci pose un probleme sanitaire.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pluies acides, mecanisme et consequences
+slug: les-pluies-acides-mecanisme-et-consequences
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un phenomene qui a marque les debats environnementaux avant le rechauffement climatique.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Mesurer la qualite de l'air, methodes et indices
+slug: mesurer-la-qualite-de-l-air-methodes-et-indices
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Comment on transforme des donnees complexes en un indice simple et comprehensible.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le radon, un gaz radioactif naturel domestique
+slug: le-radon-un-gaz-radioactif-naturel-domestique
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un risque invisible present dans certains sols et habitations.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air liee au trafic routier
+slug: la-pollution-de-l-air-liee-au-trafic-routier
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Une source majeure en zone urbaine, avec des impacts sanitaires bien documentes.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les episodes de pollution atmospherique aigue
+slug: les-episodes-de-pollution-atmospherique-aigue
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Des periodes ou la concentration de polluants depasse significativement les seuils habituels.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le smog photochimique et ses conditions de formation
+slug: le-smog-photochimique-et-ses-conditions-de-formation
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un phenomene qui combine pollution et conditions meteorologiques specifiques.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air liee a l'agriculture
+slug: la-pollution-de-l-air-liee-a-l-agriculture
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Une source souvent oubliee, notamment liee a l'usage d'engrais et de pesticides.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les masques de protection respiratoire, efficacite reelle
+slug: les-masques-de-protection-respiratoire-efficacite-reelle
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Ce que ces dispositifs protegent reellement, et leurs limites.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air dans les transports en commun souterrains
+slug: la-pollution-de-l-air-dans-les-transports-en-commun-souterrains
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un environnement clos ou certains polluants peuvent s'accumuler specifiquement.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plantes depolluantes, mythe ou realite
+slug: les-plantes-depolluantes-mythe-ou-realite
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Ce que la science dit reellement de la capacite des plantes a purifier l'air interieur.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air et les maladies respiratoires chroniques
+slug: la-pollution-de-l-air-et-les-maladies-respiratoires-chroniques
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un lien de plus en plus etabli entre exposition prolongee et sante pulmonaire.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones a faibles emissions urbaines
+slug: les-zones-a-faibles-emissions-urbaines
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Des perimetres ou l'acces des vehicules les plus polluants est restreint.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite de l'air dans les cuisines sans ventilation adequate
+slug: la-qualite-de-l-air-dans-les-cuisines-sans-ventilation-adequate
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un risque important dans les habitations utilisant des combustibles solides pour cuisiner.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air liee aux incendies de foret
+slug: la-pollution-de-l-air-liee-aux-incendies-de-foret
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Des episodes qui peuvent degrader la qualite de l'air sur des distances considerables.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composes organiques volatils dans l'habitat
+slug: les-composes-organiques-volatils-dans-l-habitat
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Des substances chimiques emises par certains materiaux et produits du quotidien.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air et le developpement de l'enfant
+slug: la-pollution-de-l-air-et-le-developpement-de-l-enfant
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Une vulnerabilite particuliere liee a un systeme respiratoire encore en formation.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux de surveillance de la qualite de l'air
+slug: les-reseaux-de-surveillance-de-la-qualite-de-l-air
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Comment on organise un suivi continu et fiable de la pollution atmospherique.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air liee aux dechets brules a l'air libre
+slug: la-pollution-de-l-air-liee-aux-dechets-brules-a-l-air-libre
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Une pratique repandue dans certaines regions, aux consequences sanitaires reelles.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les filtres a air domestiques, principes et efficacite
+slug: les-filtres-a-air-domestiques-principes-et-efficacite
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Des dispositifs simples qui peuvent ameliorer sensiblement l'air respire chez soi.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air transfrontaliere
+slug: la-pollution-de-l-air-transfrontaliere
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Comment la pollution emise dans un pays peut affecter directement ses voisins.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les particules ultrafines et leur penetration dans l'organisme
+slug: les-particules-ultrafines-et-leur-penetration-dans-l-organisme
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Une categorie encore plus petite que les particules fines, aux effets specifiques.
+tags: [qualite-de-l-air]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pollution de l'air liee au chauffage au bois mal maitrise
+slug: la-pollution-de-l-air-liee-au-chauffage-au-bois-mal-maitrise
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Pourquoi un mauvais reglage ou un bois humide augmente fortement les emissions.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact economique de la pollution de l'air sur la sante publique
+slug: l-impact-economique-de-la-pollution-de-l-air-sur-la-sante-publique
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un cout souvent sous-estime mais considerable pour les systemes de sante.
+tags: [qualite-de-l-air]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La ventilation mecanique controlee dans l'habitat moderne
+slug: la-ventilation-mecanique-controlee-dans-l-habitat-moderne
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Un systeme qui renouvelle l'air interieur tout en limitant les pertes de chaleur.
+tags: [qualite-de-l-air, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.

@@ -2345,3 +2345,4008 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: Le protocole de communication des objets connectes
+slug: le-protocole-de-communication-des-objets-connectes
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment de petits appareils echangent des donnees avec une consommation d'energie minimale.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de temperature industriels
+slug: les-capteurs-de-temperature-industriels
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Un composant simple mais essentiel a la surveillance de nombreux processus.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de pression et leurs usages industriels
+slug: les-capteurs-de-pression-et-leurs-usages-industriels
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment on mesure une force invisible mais critique dans de nombreux systemes.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance predictive par analyse vibratoire
+slug: la-maintenance-predictive-par-analyse-vibratoire
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment de simples vibrations anormales trahissent une panne future.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les jumeaux numeriques appliques a l'internet des objets
+slug: les-jumeaux-numeriques-appliques-a-l-internet-des-objets
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment une representation virtuelle aide a interpreter des donnees de capteurs reels.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des reseaux d'objets connectes industriels
+slug: la-securite-des-reseaux-d-objets-connectes-industriels
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Un enjeu croissant a mesure que les usines deviennent plus interconnectees.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux basse consommation pour capteurs distants (LPWAN)
+slug: les-reseaux-basse-consommation-pour-capteurs-distants-lpwan
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Une technologie qui permet de faire fonctionner des capteurs pendant des annees sans changer de pile.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture de precision par capteurs connectes
+slug: l-agriculture-de-precision-par-capteurs-connectes
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment mesurer finement sol et meteo optimise l'usage de l'eau et des engrais.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les compteurs intelligents et la gestion energetique fine
+slug: les-compteurs-intelligents-et-la-gestion-energetique-fine
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment ces appareils permettent un suivi bien plus precis de la consommation.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tracabilite des produits par etiquettes RFID
+slug: la-tracabilite-des-produits-par-etiquettes-rfid
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Une technologie qui permet de suivre un objet tout au long de sa chaine logistique.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de qualite de l'air en milieu industriel
+slug: les-capteurs-de-qualite-de-l-air-en-milieu-industriel
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment on surveille en continu des polluants potentiellement dangereux pour les travailleurs.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La collecte de donnees en temps reel dans une usine connectee
+slug: la-collecte-de-donnees-en-temps-reel-dans-une-usine-connectee
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment des milliers de capteurs transforment le pilotage d'une production industrielle.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les objets connectes dans la surveillance des infrastructures
+slug: les-objets-connectes-dans-la-surveillance-des-infrastructures
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Ponts, barrages : comment des capteurs surveillent en continu la sante de structures critiques.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybersecurite des compteurs intelligents
+slug: la-cybersecurite-des-compteurs-intelligents
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Un enjeu specifique lie a la multiplication de ces appareils connectes au reseau.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs portables dans l'industrie et la securite au travail
+slug: les-capteurs-portables-dans-l-industrie-et-la-securite-au-travail
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment des dispositifs individuels surveillent l'exposition d'un travailleur a certains risques.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage et le traitement massif des donnees industrielles
+slug: le-stockage-et-le-traitement-massif-des-donnees-industrielles
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment on gere le volume enorme d'informations produites par des capteurs connectes.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de niveau dans le stockage industriel
+slug: les-capteurs-de-niveau-dans-le-stockage-industriel
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Un dispositif simple qui evite les debordements et les ruptures de stock.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'internet des objets dans la gestion de l'eau
+slug: l-internet-des-objets-dans-la-gestion-de-l-eau
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment des capteurs distants surveillent en temps reel la qualite et le debit de l'eau.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etiquettes RFID passives contre actives
+slug: les-etiquettes-rfid-passives-contre-actives
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Deux technologies aux couts et aux usages tres differents pour le suivi d'objets.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance predictive appliquee aux eoliennes
+slug: la-maintenance-predictive-appliquee-aux-eoliennes
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment on anticipe une panne sur des equipements difficiles d'acces.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs environnementaux dans l'agriculture connectee
+slug: les-capteurs-environnementaux-dans-l-agriculture-connectee
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Humidite du sol, luminosite : des mesures qui optimisent directement les rendements.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fiabilite des reseaux de capteurs sur de longues periodes
+slug: la-fiabilite-des-reseaux-de-capteurs-sur-de-longues-periodes
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Pourquoi la duree de vie d'une batterie devient un enjeu industriel majeur.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les jumeaux numeriques et la maintenance predictive combinee
+slug: les-jumeaux-numeriques-et-la-maintenance-predictive-combinee
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment associer simulation et donnees reelles ameliore la prevention des pannes.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'internet des objets dans la logistique du dernier kilometre
+slug: l-internet-des-objets-dans-la-logistique-du-dernier-kilometre
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment le suivi en temps reel ameliore la fiabilite des livraisons.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs acoustiques dans la surveillance industrielle
+slug: les-capteurs-acoustiques-dans-la-surveillance-industrielle
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment le son anormal d'une machine peut reveler un probleme naissant.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des protocoles pour objets connectes industriels
+slug: la-normalisation-des-protocoles-pour-objets-connectes-industriels
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Pourquoi l'absence de standards communs complique l'interoperabilite des systemes.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs dans la surveillance de la sante des batiments
+slug: les-capteurs-dans-la-surveillance-de-la-sante-des-batiments
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment on detecte precocement fissures et deformations structurelles.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'internet des objets dans la gestion des dechets urbains
+slug: l-internet-des-objets-dans-la-gestion-des-dechets-urbains
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Des capteurs qui signalent quand une benne est pleine, optimisant les tournees.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience des reseaux de capteurs face aux catastrophes
+slug: la-resilience-des-reseaux-de-capteurs-face-aux-catastrophes
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment ces systemes continuent, ou non, de fonctionner en situation degradee.
+tags: [iot, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution historique des capteurs industriels
+slug: l-evolution-historique-des-capteurs-industriels
+categoryPath: industries/industrie-4-0/iot
+summary: >
+  Comment des instruments autrefois mecaniques sont devenus electroniques puis connectes.
+tags: [iot]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La simulation numerique appliquee a l'aeronautique
+slug: la-simulation-numerique-appliquee-a-l-aeronautique
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on teste virtuellement un avion avant meme sa construction physique.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique d'une centrale electrique
+slug: le-jumeau-numerique-d-une-centrale-electrique
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Une representation virtuelle qui permet d'anticiper le comportement d'une installation complexe.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La modelisation 3D dans la conception industrielle
+slug: la-modelisation-3d-dans-la-conception-industrielle
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on visualise et modifie un produit avant de le fabriquer reellement.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique d'un pont ou d'un ouvrage d'art
+slug: le-jumeau-numerique-d-un-pont-ou-d-un-ouvrage-d-art
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on surveille virtuellement l'usure et la resistance d'une infrastructure.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La simulation numerique en genie civil
+slug: la-simulation-numerique-en-genie-civil
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on teste la resistance d'une structure avant sa construction reelle.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique d'un reseau electrique
+slug: le-jumeau-numerique-d-un-reseau-electrique
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Une representation virtuelle qui aide a anticiper les pannes et optimiser la distribution.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conception assistee par ordinateur, histoire et principes
+slug: la-conception-assistee-par-ordinateur-histoire-et-principes
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment le dessin technique est passe du papier a l'ecran.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le dessin technique manuel avant l'ordinateur
+slug: le-dessin-technique-manuel-avant-l-ordinateur
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Des methodes de precision developpees bien avant l'ere numerique.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique appliquee a l'agriculture
+slug: le-jumeau-numerique-appliquee-a-l-agriculture
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Une representation virtuelle d'une exploitation pour optimiser les cultures.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La simulation par elements finis, principe de base
+slug: la-simulation-par-elements-finis-principe-de-base
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Une methode mathematique qui decoupe un objet complexe pour mieux l'analyser.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique d'un batiment (BIM)
+slug: le-jumeau-numerique-d-un-batiment-bim
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Une representation numerique complete qui accompagne un batiment sur toute sa vie.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maquette numerique dans la construction moderne
+slug: la-maquette-numerique-dans-la-construction-moderne
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment un modele virtuel complet remplace progressivement les plans papier.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique dans l'industrie automobile
+slug: le-jumeau-numerique-dans-l-industrie-automobile
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on simule des milliers de scenarios avant de construire un vehicule.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites actuelles des jumeaux numeriques
+slug: les-limites-actuelles-des-jumeaux-numeriques
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Ce que ces outils ne peuvent pas encore reproduire fidelement du monde reel.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La validation d'un jumeau numerique face au reel
+slug: la-validation-d-un-jumeau-numerique-face-au-reel
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on verifie que le modele virtuel correspond bien au comportement reel.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique dans la gestion des risques industriels
+slug: le-jumeau-numerique-dans-la-gestion-des-risques-industriels
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment simuler un accident potentiel avant qu'il ne se produise reellement.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La simulation numerique en meteorologie
+slug: la-simulation-numerique-en-meteorologie
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment des modeles complexes tentent de reproduire le comportement de l'atmosphere.
+tags: [jumeaux-numeriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique du corps humain en medecine
+slug: le-jumeau-numerique-du-corps-humain-en-medecine
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Des modeles personnalises qui pourraient a terme aider a anticiper certaines maladies.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conception generative assistee par ordinateur
+slug: la-conception-generative-assistee-par-ordinateur
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment un logiciel propose lui-meme des formes optimisees selon des contraintes donnees.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique d'une usine complete
+slug: le-jumeau-numerique-d-une-usine-complete
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Une representation virtuelle globale qui permet de tester des changements sans risque.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La simulation numerique dans l'industrie pharmaceutique
+slug: la-simulation-numerique-dans-l-industrie-pharmaceutique
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on modelise le comportement de molecules avant les essais reels.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout de developpement d'un jumeau numerique
+slug: le-cout-de-developpement-d-un-jumeau-numerique
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Pourquoi cette technologie reste encore couteuse a mettre en place pleinement.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique et la formation des operateurs industriels
+slug: le-jumeau-numerique-et-la-formation-des-operateurs-industriels
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment un environnement virtuel permet de s'entrainer sans risquer du materiel reel.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La simulation numerique dans la conception de ponts
+slug: la-simulation-numerique-dans-la-conception-de-ponts
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on teste virtuellement la resistance d'une structure aux charges et au vent.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique appliquee a la gestion de l'eau urbaine
+slug: le-jumeau-numerique-appliquee-a-la-gestion-de-l-eau-urbaine
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Une representation virtuelle qui aide a anticiper fuites et surcharges du reseau.
+tags: [jumeaux-numeriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La simulation numerique et la reduction des couts de prototypage
+slug: la-simulation-numerique-et-la-reduction-des-couts-de-prototypage
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment tester virtuellement reduit le nombre de prototypes physiques necessaires.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique dans la logistique portuaire
+slug: le-jumeau-numerique-dans-la-logistique-portuaire
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment on optimise virtuellement le flux de conteneurs dans un port complexe.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la premiere maquette numerique industrielle
+slug: l-histoire-de-la-premiere-maquette-numerique-industrielle
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment cette pratique s'est progressivement imposee dans l'industrie moderne.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jumeau numerique et la transition energetique des batiments
+slug: le-jumeau-numerique-et-la-transition-energetique-des-batiments
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Comment simuler virtuellement la consommation aide a planifier des renovations efficaces.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les competences necessaires pour concevoir un jumeau numerique
+slug: les-competences-necessaires-pour-concevoir-un-jumeau-numerique
+categoryPath: industries/industrie-4-0/jumeaux-numeriques
+summary: >
+  Un metier au croisement de l'ingenierie, de l'informatique et des donnees.
+tags: [jumeaux-numeriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication traditionnelle du savon
+slug: la-fabrication-traditionnelle-du-savon
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Une reaction chimique simple, connue depuis des siecles, entre graisse et base.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le procede Haber-Bosch et la fabrication d'engrais
+slug: le-procede-haber-bosch-et-la-fabrication-d-engrais
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Une invention qui a permis de nourrir des milliards d'humains supplementaires.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de l'acide sulfurique
+slug: la-fabrication-de-l-acide-sulfurique
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un des composes chimiques les plus produits au monde, base de nombreux procedes.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La soude caustique, fabrication et usages
+slug: la-soude-caustique-fabrication-et-usages
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un produit chimique de base utilise dans d'innombrables procedes industriels.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de la potasse
+slug: la-fabrication-de-la-potasse
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un compose essentiel a la fabrication d'engrais et de verre.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La petrochimie, transformer le petrole en materiaux
+slug: la-petrochimie-transformer-le-petrole-en-materiaux
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment une meme ressource donne naissance a des milliers de produits differents.
+tags: [chimie-industrielle]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands accidents chimiques industriels de l'histoire
+slug: les-grands-accidents-chimiques-industriels-de-l-histoire
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Des catastrophes qui ont durablement renforce les normes de securite du secteur.
+tags: [chimie-industrielle]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie verte, reduire l'impact des procedes industriels
+slug: la-chimie-verte-reduire-l-impact-des-procedes-industriels
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Une approche qui cherche a concilier production chimique et responsabilite environnementale.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale de la chaux
+slug: la-fabrication-artisanale-de-la-chaux
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un procede ancien, essentiel a la construction, base sur la cuisson de calcaire.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ammoniac, un compose chimique cle de l'industrie
+slug: l-ammoniac-un-compose-chimique-cle-de-l-industrie
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Une molecule essentielle a la fabrication d'engrais et de nombreux produits industriels.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication du verre, procede de base
+slug: la-fabrication-du-verre-procede-de-base
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment un simple sable se transforme en un materiau transparent et solide.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le procede de fabrication du ciment
+slug: le-procede-de-fabrication-du-ciment
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Une combinaison precise de matieres premieres cuites a tres haute temperature.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de l'eau de Javel
+slug: la-fabrication-de-l-eau-de-javel
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un desinfectant simple et efficace, produit chimiquement depuis plusieurs siecles.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distillation, principe chimique de base
+slug: la-distillation-principe-chimique-de-base
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Une methode ancienne pour separer des liquides selon leur temperature d'ebullition.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale de l'alcool par fermentation et distillation
+slug: la-fabrication-artisanale-de-l-alcool-par-fermentation-et-distillation
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un procede combine, connu depuis des millenaires dans de nombreuses cultures.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les engrais chimiques, types et fabrication
+slug: les-engrais-chimiques-types-et-fabrication
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Azote, phosphore, potassium : trois elements essentiels a la croissance des plantes.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des explosifs industriels
+slug: la-chimie-des-explosifs-industriels
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Des composes utilises pour l'exploitation miniere et les grands travaux publics.
+tags: [chimie-industrielle]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication industrielle des colorants
+slug: la-fabrication-industrielle-des-colorants
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment on synthetise chimiquement des couleurs autrefois extraites de plantes ou d'animaux.
+tags: [chimie-industrielle]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les catalyseurs, accelerer une reaction chimique
+slug: les-catalyseurs-accelerer-une-reaction-chimique
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Des composes qui permettent une reaction sans etre eux-memes consommes.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie du chlore et ses usages industriels
+slug: la-chimie-du-chlore-et-ses-usages-industriels
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un element tres reactif, essentiel a de nombreux procedes de purification et de synthese.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de l'acide chlorhydrique
+slug: la-fabrication-de-l-acide-chlorhydrique
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un acide fort, largement utilise dans l'industrie chimique et la purification de metaux.
+tags: [chimie-industrielle]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite dans les usines chimiques
+slug: la-securite-dans-les-usines-chimiques
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Des protocoles stricts necessaires pour manipuler des substances potentiellement dangereuses.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale de bougies et de cires
+slug: la-fabrication-artisanale-de-bougies-et-de-cires
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un procede simple qui melange chimie basique et savoir-faire traditionnel.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des pigments et des peintures
+slug: la-chimie-des-pigments-et-des-peintures
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment on obtient des couleurs stables et durables a partir de composes chimiques.
+tags: [chimie-industrielle]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production industrielle d'oxygene et d'azote
+slug: la-production-industrielle-d-oxygene-et-d-azote
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment on separe les gaz de l'air pour des usages medicaux et industriels.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication du papier, procede chimique de base
+slug: la-fabrication-du-papier-procede-chimique-de-base
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment la cellulose du bois se transforme en une matiere fine et resistante.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des adhesifs et des colles
+slug: la-chimie-des-adhesifs-et-des-colles
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Des composes qui permettent d'assembler durablement des materiaux tres differents.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production de gaz industriels comprimes
+slug: la-production-de-gaz-industriels-comprimes
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment on stocke et transporte en toute securite des gaz sous haute pression.
+tags: [chimie-industrielle]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale de l'encre
+slug: la-fabrication-artisanale-de-l-encre
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Un melange chimique simple, essentiel a l'ecriture depuis l'Antiquite.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recuperation et le recyclage des solvants industriels
+slug: la-recuperation-et-le-recyclage-des-solvants-industriels
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Comment on limite le gaspillage de composes chimiques couteux et parfois dangereux.
+tags: [chimie-industrielle, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le minerai de fer, extraction et traitement
+slug: le-minerai-de-fer-extraction-et-traitement
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  La matiere premiere de base necessaire a toute production d'acier.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon de bois dans la metallurgie ancienne
+slug: le-charbon-de-bois-dans-la-metallurgie-ancienne
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Un combustible essentiel avant l'usage du coke, encore utilise dans certaines forges.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bas fourneau, une technique metallurgique ancienne
+slug: le-bas-fourneau-une-technique-metallurgique-ancienne
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Une methode simple et accessible pour extraire du fer sans haute technologie.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le haut fourneau, fonctionnement detaille
+slug: le-haut-fourneau-fonctionnement-detaille
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Une installation industrielle qui transforme en continu du minerai en fer liquide.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le coke, un combustible essentiel a la siderurgie moderne
+slug: le-coke-un-combustible-essentiel-a-la-siderurgie-moderne
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment ce derive du charbon a remplace le bois dans les hauts fourneaux.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La forge, transformer le metal par la chaleur et le marteau
+slug: la-forge-transformer-le-metal-par-la-chaleur-et-le-marteau
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Un savoir-faire ancien, base de toute la metallurgie manuelle.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trempe et le revenu, durcir et stabiliser l'acier
+slug: la-trempe-et-le-revenu-durcir-et-stabiliser-l-acier
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Deux etapes complementaires qui determinent les proprietes finales d'une piece metallique.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La difference entre fonte, fer et acier
+slug: la-difference-entre-fonte-fer-et-acier
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Trois materiaux proches mais aux proprietes tres differentes selon leur teneur en carbone.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'affinage du fer, retirer les impuretes
+slug: l-affinage-du-fer-retirer-les-impuretes
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Une etape essentielle pour transformer une fonte fragile en un metal solide et malleable.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le laminage de l'acier, mettre en forme le metal
+slug: le-laminage-de-l-acier-mettre-en-forme-le-metal
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment on transforme un bloc de metal brut en plaques, barres ou fils.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La trempe a l'eau contre la trempe a l'huile
+slug: la-trempe-a-l-eau-contre-la-trempe-a-l-huile
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Deux methodes de refroidissement rapide qui donnent des resultats differents.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les alliages d'acier et leurs proprietes specifiques
+slug: les-alliages-d-acier-et-leurs-proprietes-specifiques
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment ajouter d'autres metaux modifie radicalement les qualites de l'acier.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acier inoxydable, principe de resistance a la corrosion
+slug: l-acier-inoxydable-principe-de-resistance-a-la-corrosion
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Un alliage particulier dont la surface se protege elle-meme naturellement.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La forge traditionnelle et la fabrication d'outils simples
+slug: la-forge-traditionnelle-et-la-fabrication-d-outils-simples
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Des techniques accessibles pour produire des outils essentiels sans usine moderne.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le martelage a froid contre le travail a chaud du metal
+slug: le-martelage-a-froid-contre-le-travail-a-chaud-du-metal
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Deux approches distinctes qui n'offrent pas les memes possibilites de mise en forme.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fonderie, couler le metal dans un moule
+slug: la-fonderie-couler-le-metal-dans-un-moule
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Une technique ancienne qui permet de reproduire des formes complexes en serie.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reduction directe du fer sans haut fourneau
+slug: la-reduction-directe-du-fer-sans-haut-fourneau
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Une methode alternative qui pourrait reduire l'empreinte carbone de la production d'acier.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene comme reducteur dans la siderurgie du futur
+slug: l-hydrogene-comme-reducteur-dans-la-siderurgie-du-futur
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Une piste serieuse pour produire de l'acier sans emettre autant de CO2.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La siderurgie chinoise, premiere productrice mondiale d'acier
+slug: la-siderurgie-chinoise-premiere-productrice-mondiale-d-acier
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment ce pays est devenu, en quelques decennies, le centre de gravite de cette industrie.
+tags: [siderurgie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La forge et la fabrication de lames tranchantes
+slug: la-forge-et-la-fabrication-de-lames-tranchantes
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Un savoir-faire specifique qui combine choix du metal et maitrise de la trempe.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des dechets metalliques dans la siderurgie
+slug: le-recyclage-des-dechets-metalliques-dans-la-siderurgie
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment on reintroduit efficacement de vieux metaux dans le cycle de production.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance mecanique de l'acier selon sa composition
+slug: la-resistance-mecanique-de-l-acier-selon-sa-composition
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment de petites variations chimiques changent fortement les proprietes finales.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la revolution industrielle et l'essor de la siderurgie
+slug: l-histoire-de-la-revolution-industrielle-et-l-essor-de-la-siderurgie
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment la production massive d'acier a transforme les societes du XIXe siecle.
+tags: [siderurgie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale de clous et petites pieces metalliques
+slug: la-fabrication-artisanale-de-clous-et-petites-pieces-metalliques
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Des competences de base transmissibles pour produire des objets utiles du quotidien.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle qualite dans la production d'acier
+slug: le-controle-qualite-dans-la-production-d-acier
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Comment on verifie que chaque lot d'acier respecte les normes attendues.
+tags: [siderurgie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production d'acier a partir de ferraille recyclee
+slug: la-production-d-acier-a-partir-de-ferraille-recyclee
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Un procede moins energivore que la production a partir de minerai brut.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de fours de forge traditionnels
+slug: les-differents-types-de-fours-de-forge-traditionnels
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Des variantes techniques adaptees a differents besoins et ressources locales.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La metallurgie du bronze avant celle du fer
+slug: la-metallurgie-du-bronze-avant-celle-du-fer
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Un alliage plus facile a travailler qui a precede historiquement l'age du fer.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien et l'affutage des outils en acier
+slug: l-entretien-et-l-affutage-des-outils-en-acier
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Des competences pratiques essentielles pour maintenir des outils efficaces longtemps.
+tags: [siderurgie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du premier robot industriel
+slug: l-histoire-du-premier-robot-industriel
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment cette invention a change durablement le visage des usines modernes.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de robots industriels
+slug: les-differents-types-de-robots-industriels
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Bras articules, robots cartesiens : des architectures adaptees a des taches differentes.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automate programmable industriel
+slug: l-automate-programmable-industriel
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Un petit ordinateur robuste qui pilote de nombreux processus industriels au quotidien.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cobots, travailler aux cotes des robots
+slug: les-cobots-travailler-aux-cotes-des-robots
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Une nouvelle generation de robots concus pour collaborer directement avec des humains.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lean manufacturing, principes fondamentaux
+slug: le-lean-manufacturing-principes-fondamentaux
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Une methode d'organisation qui vise a eliminer systematiquement le gaspillage.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usines entierement automatisees (usines sans lumiere)
+slug: les-usines-entierement-automatisees-usines-sans-lumiere
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des lignes de production qui fonctionnent sans intervention humaine directe.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier Jacquard, un anceatre de l'automatisation
+slug: le-metier-jacquard-un-anceatre-de-l-automatisation
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Une invention du XIXe siecle qui a programme le tissage grace a des cartes perforees.
+tags: [automatisation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cartes perforees dans l'histoire de l'automatisation
+slug: les-cartes-perforees-dans-l-histoire-de-l-automatisation
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Un systeme simple qui a precede de loin les ordinateurs modernes.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaine de montage automatisee moderne
+slug: la-chaine-de-montage-automatisee-moderne
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment robots et humains se repartissent aujourd'hui les taches sur une meme ligne.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs de vision industrielle et le controle qualite automatise
+slug: les-capteurs-de-vision-industrielle-et-le-controle-qualite-automatise
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment une camera peut detecter des defauts invisibles a l'oeil nu.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automatisation de la manutention industrielle
+slug: l-automatisation-de-la-manutention-industrielle
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des systemes qui deplacent automatiquement des charges lourdes dans une usine.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vehicules a guidage automatique en entrepot
+slug: les-vehicules-a-guidage-automatique-en-entrepot
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des chariots autonomes qui transportent des marchandises sans conducteur.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de l'automatisation sur l'emploi industriel
+slug: l-impact-de-l-automatisation-sur-l-emploi-industriel
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Ce que les etudes economiques revelent reellement sur cette transformation du travail.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des techniciens de maintenance robotique
+slug: la-formation-des-techniciens-de-maintenance-robotique
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Un metier en croissance a mesure que les robots se multiplient dans l'industrie.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les robots collaboratifs dans les petites entreprises
+slug: les-robots-collaboratifs-dans-les-petites-entreprises
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment l'automatisation devient accessible meme aux structures de taille modeste.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automatisation dans l'industrie textile historique
+slug: l-automatisation-dans-l-industrie-textile-historique
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment les premieres machines ont transforme radicalement ce secteur des le XVIIIe siecle.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des travailleurs face aux robots industriels
+slug: la-securite-des-travailleurs-face-aux-robots-industriels
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des normes precises pour eviter tout accident entre humains et machines.
+tags: [automatisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes de vision par ordinateur dans l'automatisation
+slug: les-systemes-de-vision-par-ordinateur-dans-l-automatisation
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment l'intelligence artificielle ameliore la precision des taches automatisees.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automatisation de la logistique d'entrepot
+slug: l-automatisation-de-la-logistique-d-entrepot
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment de grands centres de distribution fonctionnent avec un minimum d'intervention humaine.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pilotage a distance des lignes de production
+slug: le-pilotage-a-distance-des-lignes-de-production
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment un operateur peut superviser une usine entiere depuis un poste centralise.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites actuelles de l'automatisation industrielle
+slug: les-limites-actuelles-de-l-automatisation-industrielle
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Ce que les robots ne peuvent, aujourd'hui encore, pas faire aussi bien que l'humain.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automatisation dans l'agroalimentaire
+slug: l-automatisation-dans-l-agroalimentaire
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des lignes de production qui allient rapidite, hygiene et precision constante.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance des systemes automatises complexes
+slug: la-maintenance-des-systemes-automatises-complexes
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Un defi croissant a mesure que les usines deviennent plus interconnectees.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution des couts de la robotique industrielle
+slug: l-evolution-des-couts-de-la-robotique-industrielle
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment la baisse des prix a rendu l'automatisation accessible a plus d'entreprises.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes de securite specifiques aux cobots
+slug: les-normes-de-securite-specifiques-aux-cobots
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des regles adaptees a un type de robot concu pour cotoyer directement l'humain.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automatisation dans l'industrie pharmaceutique
+slug: l-automatisation-dans-l-industrie-pharmaceutique
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Des exigences de precision et d'hygiene qui rendent l'automatisation particulierement utile.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des simulateurs dans la formation aux systemes automatises
+slug: le-role-des-simulateurs-dans-la-formation-aux-systemes-automatises
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment on prepare des operateurs sans risquer du materiel industriel reel.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'automatisation partielle contre l'automatisation totale
+slug: l-automatisation-partielle-contre-l-automatisation-totale
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Deux strategies industrielles avec des couts et des risques tres differents.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir de la cobotique dans les petites et moyennes entreprises
+slug: l-avenir-de-la-cobotique-dans-les-petites-et-moyennes-entreprises
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Comment cette technologie pourrait se democratiser dans les annees a venir.
+tags: [automatisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'invention du conteneur et son impact mondial
+slug: l-invention-du-conteneur-et-son-impact-mondial
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Une simple boite metallique standardisee qui a revolutionne le commerce international.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport maritime de marchandises, organisation generale
+slug: le-transport-maritime-de-marchandises-organisation-generale
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment des millions de conteneurs traversent les oceans chaque annee.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les entrepots automatises modernes
+slug: les-entrepots-automatises-modernes
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment des systemes robotises gerent le stockage et la preparation de commandes.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le juste-a-temps et ses vulnerabilites
+slug: le-juste-a-temps-et-ses-vulnerabilites
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Une methode efficace en temps normal mais fragile face aux perturbations.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience des chaines d'approvisionnement
+slug: la-resilience-des-chaines-d-approvisionnement
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment certaines entreprises diversifient leurs sources pour reduire les risques.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La penurie mondiale de semi-conducteurs
+slug: la-penurie-mondiale-de-semi-conducteurs
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Un episode qui a revele la dependance de nombreuses industries a quelques usines.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le blocage du canal de Suez en 2021
+slug: le-blocage-du-canal-de-suez-en-2021
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Un incident localise qui a perturbe le commerce mondial pendant plusieurs jours.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le code-barres, invention et fonctionnement
+slug: le-code-barres-invention-et-fonctionnement
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Une technologie simple qui a transforme la gestion des stocks et des ventes.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La tracabilite des produits dans la chaine logistique
+slug: la-tracabilite-des-produits-dans-la-chaine-logistique
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment on suit un produit depuis sa fabrication jusqu'a sa vente finale.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le dernier kilometre, le maillon le plus couteux
+slug: le-dernier-kilometre-le-maillon-le-plus-couteux
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Pourquoi la derniere etape de livraison represente souvent le plus grand defi logistique.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage et la conservation des marchandises perissables
+slug: le-stockage-et-la-conservation-des-marchandises-perissables
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Des techniques specifiques necessaires pour preserver la qualite de certains produits.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaine du froid dans le transport de marchandises
+slug: la-chaine-du-froid-dans-le-transport-de-marchandises
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment on maintient une temperature constante sur de longues distances.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hubs logistiques et leur role strategique
+slug: les-hubs-logistiques-et-leur-role-strategique
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Des points de convergence essentiels dans l'organisation du transport mondial.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La logistique inverse, gerer les retours de produits
+slug: la-logistique-inverse-gerer-les-retours-de-produits
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Un flux souvent oublie mais de plus en plus important avec le commerce en ligne.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport ferroviaire de marchandises
+slug: le-transport-ferroviaire-de-marchandises
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Une alternative au transport routier, souvent plus efficace sur de longues distances.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des stocks, methodes et principes de base
+slug: la-gestion-des-stocks-methodes-et-principes-de-base
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment eviter a la fois le surstockage couteux et la rupture d'approvisionnement.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les previsions de la demande dans la chaine logistique
+slug: les-previsions-de-la-demande-dans-la-chaine-logistique
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment on anticipe les besoins futurs pour ajuster la production et le stockage.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaine logistique alimentaire mondiale
+slug: la-chaine-logistique-alimentaire-mondiale
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment la nourriture voyage, parfois sur des milliers de kilometres, avant l'assiette.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La logistique humanitaire en situation d'urgence
+slug: la-logistique-humanitaire-en-situation-d-urgence
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment on organise l'acheminement de l'aide dans des conditions particulierement difficiles.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La logistique du dernier kilometre en zone rurale isolee
+slug: la-logistique-du-dernier-kilometre-en-zone-rurale-isolee
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Des defis specifiques distincts de ceux rencontres en milieu urbain dense.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact environnemental du transport de marchandises
+slug: l-impact-environnemental-du-transport-de-marchandises
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment le choix du mode de transport influence directement l'empreinte carbone.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des entrepots temporaires en cas de crise
+slug: la-gestion-des-entrepots-temporaires-en-cas-de-crise
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment on improvise rapidement des capacites de stockage en situation exceptionnelle.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des ports dans la chaine logistique mondiale
+slug: le-role-des-ports-dans-la-chaine-logistique-mondiale
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Des infrastructures essentielles qui concentrent une part majeure du commerce international.
+tags: [chaine-logistique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La logistique des pieces detachees industrielles
+slug: la-logistique-des-pieces-detachees-industrielles
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Un defi specifique lie a la necessite de disponibilite rapide et imprevisible.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaine logistique et la resilience face aux catastrophes naturelles
+slug: la-chaine-logistique-et-la-resilience-face-aux-catastrophes-naturelles
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment on maintient un approvisionnement essentiel malgre une perturbation majeure.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage strategique de reserves essentielles
+slug: le-stockage-strategique-de-reserves-essentielles
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Pourquoi certains pays constituent des stocks pour faire face a une penurie soudaine.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La logistique des dons alimentaires et leur redistribution
+slug: la-logistique-des-dons-alimentaires-et-leur-redistribution
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment organiser efficacement le transport de surplus vers des populations dans le besoin.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'optimisation des tournees de livraison
+slug: l-optimisation-des-tournees-de-livraison
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Des methodes mathematiques qui reduisent distance et temps de trajet.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chaine logistique du batiment et des materiaux de construction
+slug: la-chaine-logistique-du-batiment-et-des-materiaux-de-construction
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Des specificites propres a des produits souvent lourds et encombrants.
+tags: [chaine-logistique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des cooperatives dans la logistique agricole locale
+slug: le-role-des-cooperatives-dans-la-logistique-agricole-locale
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Comment des producteurs s'organisent collectivement pour mutualiser transport et stockage.
+tags: [chaine-logistique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du systeme metrique
+slug: l-histoire-du-systeme-metrique
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment une reforme revolutionnaire a impose un systeme de mesure universel.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pieces interchangeables, une revolution industrielle
+slug: les-pieces-interchangeables-une-revolution-industrielle
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment cette idee simple a rendu possible la production et la reparation en masse.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pas de vis standardise, une norme invisible mais essentielle
+slug: le-pas-de-vis-standardise-une-norme-invisible-mais-essentielle
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Pourquoi une simple vis peut se visser partout dans le monde de la meme facon.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Mesurer avec precision, instruments et methodes de base
+slug: mesurer-avec-precision-instruments-et-methodes-de-base
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Des outils simples mais essentiels pour garantir la fiabilite d'une fabrication.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pied a coulisse, un instrument de mesure precis
+slug: le-pied-a-coulisse-un-instrument-de-mesure-precis
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Un outil simple mais indispensable dans presque tout atelier de fabrication.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les normes ISO, un langage commun pour l'industrie mondiale
+slug: les-normes-iso-un-langage-commun-pour-l-industrie-mondiale
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment ces standards permettent a des entreprises du monde entier de travailler ensemble.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle qualite statistique, principes de base
+slug: le-controle-qualite-statistique-principes-de-base
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment on verifie la qualite d'une production sans tout inspecter un par un.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marquage CE et la conformite des produits en Europe
+slug: le-marquage-ce-et-la-conformite-des-produits-en-europe
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Un symbole qui garantit le respect de certaines normes de securite minimales.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La redefinition du kilogramme, une revolution metrologique
+slug: la-redefinition-du-kilogramme-une-revolution-metrologique
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment cette unite de base a ete redefinie sur des constantes physiques universelles.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tolerances dimensionnelles en fabrication industrielle
+slug: les-tolerances-dimensionnelles-en-fabrication-industrielle
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Pourquoi aucune piece n'est jamais fabriquee exactement a la dimension theorique.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'etalonnage des instruments de mesure
+slug: l-etalonnage-des-instruments-de-mesure
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment on verifie regulierement qu'un instrument mesure toujours correctement.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des filetages et des boulons
+slug: la-normalisation-des-filetages-et-des-boulons
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment un standard mondial permet l'interchangeabilite de pieces mecaniques simples.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle non destructif dans l'industrie
+slug: le-controle-non-destructif-dans-l-industrie
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Des methodes qui permettent de verifier une piece sans jamais l'endommager.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La certification qualite ISO 9001
+slug: la-certification-qualite-iso-9001
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Un standard largement adopte pour garantir une gestion rigoureuse de la qualite.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de mesure de longueur historiques
+slug: les-instruments-de-mesure-de-longueur-historiques
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Des methodes anciennes, souvent basees sur le corps humain, avant la standardisation.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La precision des balances industrielles
+slug: la-precision-des-balances-industrielles
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment on garantit une mesure fiable du poids dans des contextes exigeants.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du Bureau international des poids et mesures
+slug: le-role-du-bureau-international-des-poids-et-mesures
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  L'organisme qui garantit l'unite et la fiabilite des mesures a travers le monde.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des connecteurs electriques
+slug: la-normalisation-des-connecteurs-electriques
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Pourquoi tous les pays n'utilisent pas le meme systeme de prises electriques.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defauts de fabrication et leur classification
+slug: les-defauts-de-fabrication-et-leur-classification
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment on categorise et priorise differents types de non-conformites.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La metrologie legale et son role de protection du consommateur
+slug: la-metrologie-legale-et-son-role-de-protection-du-consommateur
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment la loi garantit que les instruments de mesure commerciaux sont fiables.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des tailles de vetements
+slug: la-normalisation-des-tailles-de-vetements
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Pourquoi une meme taille peut correspondre a des mesures differentes selon les marques.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les outils de mesure de precision fabriques a la main
+slug: les-outils-de-mesure-de-precision-fabriques-a-la-main
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Des methodes artisanales pour obtenir une precision suffisante sans equipement industriel.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la standardisation des rails de chemin de fer
+slug: l-histoire-de-la-standardisation-des-rails-de-chemin-de-fer
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment un ecartement different selon les pays a longtemps complique le transport ferroviaire.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle qualite dans l'industrie agroalimentaire
+slug: le-controle-qualite-dans-l-industrie-agroalimentaire
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Des criteres specifiques lies a la securite sanitaire des produits.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation internationale des containers de transport
+slug: la-normalisation-internationale-des-containers-de-transport
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment une taille standard a facilite l'ensemble du commerce maritime mondial.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les instruments de mesure du temps et leur standardisation historique
+slug: les-instruments-de-mesure-du-temps-et-leur-standardisation-historique
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment l'heure elle-meme a du etre synchronisee a l'echelle mondiale.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des laboratoires d'essais independants
+slug: le-role-des-laboratoires-d-essais-independants
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Comment on verifie objectivement qu'un produit respecte les normes annoncees.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation des unites de mesure electriques
+slug: la-normalisation-des-unites-de-mesure-electriques
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Volt, ampere, watt : des unites definies avec precision pour garantir la compatibilite.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis de la normalisation dans les technologies emergentes
+slug: les-defis-de-la-normalisation-dans-les-technologies-emergentes
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Pourquoi de nouveaux secteurs mettent du temps a adopter des standards communs.
+tags: [qualite-et-normalisation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'importance de la normalisation pour la reparation et l'entretien
+slug: l-importance-de-la-normalisation-pour-la-reparation-et-l-entretien
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Pourquoi des pieces standardisees facilitent enormement la maintenance a long terme.
+tags: [qualite-et-normalisation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La structure moleculaire d'un polymere
+slug: la-structure-moleculaire-d-un-polymere
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Comment de longues chaines de molecules donnent aux plastiques leurs proprietes.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le caoutchouc naturel, de l'arbre a l'objet fini
+slug: le-caoutchouc-naturel-de-l-arbre-a-l-objet-fini
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Une matiere premiere vegetale transformee par un procede chimique specifique.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vulcanisation, une decouverte qui a change le caoutchouc
+slug: la-vulcanisation-une-decouverte-qui-a-change-le-caoutchouc
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Comment un simple ajout de soufre a rendu ce materiau bien plus durable.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fibre de carbone, un materiau leger et resistant
+slug: la-fibre-de-carbone-un-materiau-leger-et-resistant
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Comment cette fibre exceptionnelle combine legerete et solidite structurelle.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bioplastiques, une alternative aux plastiques classiques
+slug: les-bioplastiques-une-alternative-aux-plastiques-classiques
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Des materiaux issus de ressources renouvelables, avec des proprietes variables.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nylon, la premiere fibre synthetique de l'histoire
+slug: le-nylon-la-premiere-fibre-synthetique-de-l-histoire
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Une invention qui a transforme l'industrie textile des le milieu du XXe siecle.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les thermoplastiques contre les thermodurcissables
+slug: les-thermoplastiques-contre-les-thermodurcissables
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Deux grandes familles de plastiques qui reagissent tres differemment a la chaleur.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bakelite, le premier plastique entierement synthetique
+slug: la-bakelite-le-premier-plastique-entierement-synthetique
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Une invention pionniere qui a ouvert la voie a toute l'industrie des plastiques modernes.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le polyethylene, le plastique le plus produit au monde
+slug: le-polyethylene-le-plastique-le-plus-produit-au-monde
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un materiau omnipresent dans les emballages du quotidien.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le PVC, fabrication et usages courants
+slug: le-pvc-fabrication-et-usages-courants
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un materiau polyvalent present dans la construction et de nombreux objets du quotidien.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composites a matrice ceramique
+slug: les-composites-a-matrice-ceramique
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Des materiaux avances concus pour resister a des temperatures extremes.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le contreplaque et les composites a base de bois
+slug: le-contreplaque-et-les-composites-a-base-de-bois
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Comment on combine des couches de bois pour obtenir un materiau plus resistant.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fibres naturelles utilisees en composites
+slug: les-fibres-naturelles-utilisees-en-composites
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Chanvre, lin : des alternatives vegetales aux fibres synthetiques classiques.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des plastiques composites
+slug: le-recyclage-des-plastiques-composites
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un defi technique particulier lie au melange intime de plusieurs materiaux.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance mecanique comparee des composites et des metaux
+slug: la-resistance-mecanique-comparee-des-composites-et-des-metaux
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Pourquoi certains composites depassent, a poids egal, la resistance de nombreux metaux.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les elastomeres et leurs proprietes elastiques
+slug: les-elastomeres-et-leurs-proprietes-elastiques
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Une famille de materiaux capable de se deformer largement puis de reprendre leur forme.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de mousses polymeres
+slug: la-fabrication-de-mousses-polymeres
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Comment on introduit de l'air dans un materiau pour l'alleger considerablement.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les polymeres biodegradables et leurs limites reelles
+slug: les-polymeres-biodegradables-et-leurs-limites-reelles
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Ce que signifie vraiment ce terme, souvent utilise de maniere imprecise.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La degradation des plastiques dans l'environnement
+slug: la-degradation-des-plastiques-dans-l-environnement
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un processus beaucoup plus lent qu'on ne le pense generalement.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composites utilises dans l'aeronautique moderne
+slug: les-composites-utilises-dans-l-aeronautique-moderne
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Comment ces materiaux ont permis de reduire significativement le poids des avions.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale de resines composites simples
+slug: la-fabrication-artisanale-de-resines-composites-simples
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Des principes de base accessibles pour reparer ou fabriquer de petits objets solides.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le polyester, fibre synthetique polyvalente
+slug: le-polyester-fibre-synthetique-polyvalente
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un materiau tres repandu, present aussi bien dans le textile que dans l'emballage.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les polymeres conducteurs d'electricite
+slug: les-polymeres-conducteurs-d-electricite
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Une categorie surprenante de plastiques capables de conduire le courant.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication du latex a partir de l'hevea
+slug: la-fabrication-du-latex-a-partir-de-l-hevea
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Comment on recolte et transforme la seve d'un arbre en materiau utile.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composites renforces de fibres de verre
+slug: les-composites-renforces-de-fibres-de-verre
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un materiau accessible et economique, tres utilise dans de nombreux secteurs.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact environnemental de la production de plastiques
+slug: l-impact-environnemental-de-la-production-de-plastiques
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un cout ecologique qui commence bien avant que l'objet n'arrive entre nos mains.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les polymeres utilises dans le domaine medical
+slug: les-polymeres-utilises-dans-le-domaine-medical
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Des materiaux specifiques concus pour etre compatibles avec le corps humain.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reparation d'objets composites endommages
+slug: la-reparation-d-objets-composites-endommages
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Des techniques accessibles pour prolonger la duree de vie d'un objet en materiau composite.
+tags: [composites-et-polymeres, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le silicone, un polymere aux usages tres varies
+slug: le-silicone-un-polymere-aux-usages-tres-varies
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Un materiau resistant a la chaleur, present dans des domaines tres differents.
+tags: [composites-et-polymeres]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composites naturels presents dans la nature
+slug: les-composites-naturels-presents-dans-la-nature
+categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
+summary: >
+  Le bois ou l'os sont eux-memes des exemples naturels de materiaux composites.
+tags: [composites-et-polymeres]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fonderie, un savoir-faire millenaire
+slug: la-fonderie-un-savoir-faire-millenaire
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique ancienne de mise en forme du metal, encore utilisee aujourd'hui.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moule perdu, une technique de fonderie precise
+slug: le-moule-perdu-une-technique-de-fonderie-precise
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une methode qui detruit le moule a chaque piece pour un resultat tres fidele.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'usinage, retirer la matiere pour former une piece
+slug: l-usinage-retirer-la-matiere-pour-former-une-piece
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une approche opposee au moulage, qui part d'un bloc plein pour le sculpter.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tour et le fraisage, deux techniques d'usinage de base
+slug: le-tour-et-le-fraisage-deux-techniques-d-usinage-de-base
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Des methodes fondamentales presentes dans presque tout atelier mecanique.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impression 3D, principe general
+slug: l-impression-3d-principe-general
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique recente qui construit un objet couche par couche.
+tags: [mise-en-forme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impression 3D metallique
+slug: l-impression-3d-metallique
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technologie avancee qui permet de fabriquer des pieces metalliques complexes.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'emboutissage, mettre en forme la tole
+slug: l-emboutissage-mettre-en-forme-la-tole
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique rapide et economique pour produire en grande serie des pieces metalliques.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le soudage, assembler durablement des metaux
+slug: le-soudage-assembler-durablement-des-metaux
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique essentielle qui unit deux pieces en fusionnant localement la matiere.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le soudage a l'arc, principe de base
+slug: le-soudage-a-l-arc-principe-de-base
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une des methodes de soudage les plus courantes, accessible avec un equipement simple.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Filer et tisser, la mise en forme des fibres textiles
+slug: filer-et-tisser-la-mise-en-forme-des-fibres-textiles
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Des techniques ancestrales qui transforment une matiere brute en tissu utilisable.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rouet, une invention qui a transforme le filage
+slug: le-rouet-une-invention-qui-a-transforme-le-filage
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Un outil simple qui a rendu la production de fil beaucoup plus rapide.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier a tisser manuel
+slug: le-metier-a-tisser-manuel
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Un outil ancien mais toujours pertinent pour comprendre les bases du tissage.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le forgeage, mettre en forme le metal par deformation
+slug: le-forgeage-mettre-en-forme-le-metal-par-deformation
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique ancienne qui renforce le metal en meme temps qu'elle le forme.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'extrusion, un procede de mise en forme continue
+slug: l-extrusion-un-procede-de-mise-en-forme-continue
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Comment on obtient une forme constante en poussant une matiere a travers un moule.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le thermoformage des plastiques
+slug: le-thermoformage-des-plastiques
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique simple qui chauffe puis moule une feuille de plastique.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decoupe laser dans l'industrie
+slug: la-decoupe-laser-dans-l-industrie
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technologie de precision qui a transforme la decoupe de nombreux materiaux.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rivetage, une methode d'assemblage sans soudure
+slug: le-rivetage-une-methode-d-assemblage-sans-soudure
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique ancienne encore utilisee, notamment en aeronautique.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le collage industriel comme alternative au soudage
+slug: le-collage-industriel-comme-alternative-au-soudage
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Comment des adhesifs modernes remplacent parfois avantageusement d'autres methodes d'assemblage.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le polissage et la finition de surface des metaux
+slug: le-polissage-et-la-finition-de-surface-des-metaux
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une derniere etape qui ameliore a la fois l'aspect et la resistance d'une piece.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale de poteries et de ceramiques
+slug: la-fabrication-artisanale-de-poteries-et-de-ceramiques
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Un savoir-faire ancien accessible avec des outils tres simples.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le travail du cuir, techniques de mise en forme de base
+slug: le-travail-du-cuir-techniques-de-mise-en-forme-de-base
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Des methodes traditionnelles pour transformer une peau en objet utile.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de cordages traditionnels
+slug: la-fabrication-de-cordages-traditionnels
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique simple et essentielle pour produire un materiel resistant a partir de fibres.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tressage de la vannerie
+slug: le-tressage-de-la-vannerie
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique tres ancienne, accessible avec des materiaux naturels locaux.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decoupe et le pliage de la tole
+slug: la-decoupe-et-le-pliage-de-la-tole
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Des techniques de base pour transformer une simple feuille de metal en objet utile.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moulage a la cire perdue en bijouterie et fonderie d'art
+slug: le-moulage-a-la-cire-perdue-en-bijouterie-et-fonderie-d-art
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique ancienne de haute precision, encore utilisee aujourd'hui.
+tags: [mise-en-forme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de briques par moulage et cuisson
+slug: la-fabrication-de-briques-par-moulage-et-cuisson
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Un procede ancien et accessible, essentiel a la construction traditionnelle.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tournage du bois
+slug: le-tournage-du-bois
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une technique manuelle qui permet de creer des formes symetriques a partir d'une piece brute.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de cables metalliques par toronnage
+slug: la-fabrication-de-cables-metalliques-par-toronnage
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Comment on assemble plusieurs fils fins pour obtenir un cable resistant.
+tags: [mise-en-forme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la mise en forme des metaux depuis l'age du bronze
+slug: l-histoire-de-la-mise-en-forme-des-metaux-depuis-l-age-du-bronze
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Une evolution technique continue sur plusieurs millenaires d'histoire humaine.
+tags: [mise-en-forme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.

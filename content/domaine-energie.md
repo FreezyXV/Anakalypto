@@ -3369,3 +3369,4788 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: L'isolation naturelle des habitats traditionnels
+slug: l-isolation-naturelle-des-habitats-traditionnels
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Comment des batisseurs anciens ont limite les pertes de chaleur sans materiaux modernes.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le double vitrage et la reduction des pertes thermiques
+slug: le-double-vitrage-et-la-reduction-des-pertes-thermiques
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un principe simple qui reduit fortement les deperditions de chaleur par les fenetres.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La ventilation naturelle et le rafraichissement passif
+slug: la-ventilation-naturelle-et-le-rafraichissement-passif
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Des principes architecturaux anciens pour reduire le besoin de climatisation.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'inertie thermique des batiments en pierre et en terre
+slug: l-inertie-thermique-des-batiments-en-pierre-et-en-terre
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Comment certains materiaux lourds stabilisent naturellement la temperature interieure.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement energetique d'un poele a bois traditionnel
+slug: le-rendement-energetique-d-un-poele-a-bois-traditionnel
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Comment optimiser la combustion pour tirer le maximum de chaleur du bois.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'orientation des batiments pour capter la chaleur solaire
+slug: l-orientation-des-batiments-pour-capter-la-chaleur-solaire
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un principe ancien qui reduit les besoins de chauffage sans aucune technologie.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le calfeutrage, reduire les pertes d'air simplement
+slug: le-calfeutrage-reduire-les-pertes-d-air-simplement
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Des gestes simples et peu couteux qui limitent fortement les pertes de chaleur.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La toiture vegetalisee et son role isolant
+slug: la-toiture-vegetalisee-et-son-role-isolant
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Une couverture vivante qui ameliore naturellement l'isolation d'un batiment.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement compare des differents systemes de chauffage
+slug: le-rendement-compare-des-differents-systemes-de-chauffage
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Ce qui distingue reellement l'efficacite de plusieurs methodes de chauffage.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echangeur de chaleur, principe et usages
+slug: l-echangeur-de-chaleur-principe-et-usages
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un dispositif simple qui recupere une chaleur qui serait sinon perdue.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recuperation de chaleur sur l'eau de douche
+slug: la-recuperation-de-chaleur-sur-l-eau-de-douche
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Une technologie simple qui reduit sensiblement la facture d'eau chaude.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'isolation par l'exterieur contre l'isolation par l'interieur
+slug: l-isolation-par-l-exterieur-contre-l-isolation-par-l-interieur
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Deux methodes avec des avantages et des couts tres differents.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vitrage simple contre le vitrage triple
+slug: le-vitrage-simple-contre-le-vitrage-triple
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Des ecarts de performance thermique qui justifient parfois un investissement plus lourd.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation thermique par thermostat
+slug: la-regulation-thermique-par-thermostat
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un dispositif simple qui evite un gaspillage important de chauffage.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'efficacite energetique des appareils electromenagers
+slug: l-efficacite-energetique-des-appareils-electromenagers
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Comment un simple label permet de comparer la consommation reelle des appareils.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement d'une chaudiere a condensation
+slug: le-rendement-d-une-chaudiere-a-condensation
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Une technologie qui recupere une part de chaleur habituellement perdue avec les fumees.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'isolation des combles, le geste le plus rentable
+slug: l-isolation-des-combles-le-geste-le-plus-rentable
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Pourquoi cette intervention simple offre generalement le meilleur retour sur investissement.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pont thermique, une faiblesse frequente de l'isolation
+slug: le-pont-thermique-une-faiblesse-frequente-de-l-isolation
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un point de deperdition souvent invisible mais couteux en energie.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La climatisation passive par ventilation croisee
+slug: la-climatisation-passive-par-ventilation-croisee
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Une technique ancienne qui reduit la chaleur sans aucun appareil electrique.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement d'une ampoule a incandescence contre une LED
+slug: le-rendement-d-une-ampoule-a-incandescence-contre-une-led
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un ecart d'efficacite considerable qui explique le remplacement progressif de l'ancienne technologie.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'isolation des tuyaux d'eau chaude
+slug: l-isolation-des-tuyaux-d-eau-chaude
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un geste simple souvent neglige qui reduit pourtant des pertes reelles.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le productible solaire selon l'orientation d'un toit
+slug: le-productible-solaire-selon-l-orientation-d-un-toit
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Comment l'angle et la direction d'exposition changent radicalement le rendement.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sobriete energetique, distincte de l'efficacite
+slug: la-sobriete-energetique-distincte-de-l-efficacite
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Deux approches complementaires mais fondamentalement differentes de la consommation.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chauffage au bois, rendement selon les technologies
+slug: le-chauffage-au-bois-rendement-selon-les-technologies
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Foyer ouvert, insert, poele a granules : des ecarts d'efficacite considerables.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'isolation thermique par materiaux biosources
+slug: l-isolation-thermique-par-materiaux-biosources
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Des solutions naturelles, souvent locales, qui remplacent les isolants industriels.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le diagnostic de performance energetique d'un logement
+slug: le-diagnostic-de-performance-energetique-d-un-logement
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Un outil qui permet de situer l'efficacite reelle d'une habitation.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effacement de consommation electrique
+slug: l-effacement-de-consommation-electrique
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Comment reduire temporairement sa consommation aux heures de forte demande.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement des moteurs electriques industriels
+slug: le-rendement-des-moteurs-electriques-industriels
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Pourquoi remplacer un vieux moteur peut generer des economies substantielles.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'efficacite energetique dans les batiments anciens
+slug: l-efficacite-energetique-dans-les-batiments-anciens
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Des defis specifiques pour ameliorer sans denaturer un patrimoine existant.
+tags: [efficacite-energetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cogeneration, produire chaleur et electricite ensemble
+slug: la-cogeneration-produire-chaleur-et-electricite-ensemble
+categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
+summary: >
+  Une methode qui valorise une energie habituellement perdue sous forme de chaleur.
+tags: [efficacite-energetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie du chauffage domestique
+slug: la-consommation-d-energie-du-chauffage-domestique
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Le premier poste de depense energetique dans la plupart des foyers.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie de l'eau chaude sanitaire
+slug: la-consommation-d-energie-de-l-eau-chaude-sanitaire
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un besoin quotidien souvent sous-estime dans le budget energetique global.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie de la cuisson des aliments
+slug: la-consommation-d-energie-de-la-cuisson-des-aliments
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Comment differentes methodes de cuisson n'ont pas le meme cout energetique.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie necessaire pour produire un bien manufacture
+slug: l-energie-necessaire-pour-produire-un-bien-manufacture
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Comment on evalue le cout energetique cache derriere chaque objet.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie en veille des appareils electroniques
+slug: la-consommation-d-energie-en-veille-des-appareils-electroniques
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un gaspillage discret mais reel, present dans presque tous les foyers.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation electrique d'un centre de donnees
+slug: la-consommation-electrique-d-un-centre-de-donnees
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Une infrastructure numerique invisible mais tres energivore.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie consommee par le streaming video
+slug: l-energie-consommee-par-le-streaming-video
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un usage quotidien dont le cout energetique reste largement meconnu.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie du transport de marchandises
+slug: la-consommation-d-energie-du-transport-de-marchandises
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Comment le mode de transport choisi change radicalement le bilan energetique.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La precarite energetique, definition et ampleur
+slug: la-precarite-energetique-definition-et-ampleur
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Une situation ou se chauffer correctement devient un choix budgetaire difficile.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aides existantes contre la precarite energetique
+slug: les-aides-existantes-contre-la-precarite-energetique
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Des dispositifs concus pour accompagner les foyers les plus vulnerables.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie liee a l'eclairage public
+slug: la-consommation-d-energie-liee-a-l-eclairage-public
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un poste de depense important pour les collectivites locales.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie grise des materiaux de construction
+slug: l-energie-grise-des-materiaux-de-construction
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Le cout energetique cache dans la fabrication meme d'un materiau.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie des data centers d'intelligence artificielle
+slug: la-consommation-d-energie-des-data-centers-d-intelligence-artificielle
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un usage recent en forte croissance, aux besoins energetiques considerables.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment lire et comprendre sa facture d'energie
+slug: comment-lire-et-comprendre-sa-facture-d-energie
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Des elements essentiels pour comprendre precisement ce que l'on paie.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation saisonniere d'energie d'un foyer
+slug: la-consommation-saisonniere-d-energie-d-un-foyer
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Pourquoi les besoins energetiques varient fortement selon les mois de l'annee.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie necessaire au traitement de l'eau potable
+slug: l-energie-necessaire-au-traitement-de-l-eau-potable
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un cout energetique souvent invisible derriere un service essentiel.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie du secteur agricole
+slug: la-consommation-d-energie-du-secteur-agricole
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Machines, engrais, irrigation : des besoins energetiques varies et importants.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de la temperature de consigne sur la consommation
+slug: l-impact-de-la-temperature-de-consigne-sur-la-consommation
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Comment chaque degre supplementaire de chauffage augmente sensiblement la facture.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie des vehicules electriques a l'echelle d'un reseau
+slug: la-consommation-d-energie-des-vehicules-electriques-a-l-echelle-d-un-reseau
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Ce que represente concretement une flotte croissante de voitures rechargeables.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi personnalise de sa consommation energetique
+slug: le-suivi-personnalise-de-sa-consommation-energetique
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Des outils simples pour identifier ou va reellement l'energie chez soi.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie du secteur du batiment global
+slug: la-consommation-d-energie-du-secteur-du-batiment-global
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un des postes les plus importants de la consommation energetique mondiale.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie necessaire au dessalement de l'eau de mer
+slug: l-energie-necessaire-au-dessalement-de-l-eau-de-mer
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Une methode efficace mais couteuse en energie pour produire de l'eau douce.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie liee au refroidissement des batiments
+slug: la-consommation-d-energie-liee-au-refroidissement-des-batiments
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un poste en forte croissance avec le rechauffement climatique.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact des habitudes individuelles sur la consommation totale
+slug: l-impact-des-habitudes-individuelles-sur-la-consommation-totale
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Ce que peuvent, et ne peuvent pas, changer les gestes individuels a l'echelle collective.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie du chauffage collectif
+slug: la-consommation-d-energie-du-chauffage-collectif
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Des specificites propres a l'habitat partage, distinctes du logement individuel.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie consommee par l'industrie lourde
+slug: l-energie-consommee-par-l-industrie-lourde
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un secteur qui concentre une part importante de la consommation energetique mondiale.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie liee au traitement des dechets
+slug: la-consommation-d-energie-liee-au-traitement-des-dechets
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un cout energetique cache dans la gestion de ce que l'on jette.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de la meteo dans la prevision de la consommation energetique
+slug: le-role-de-la-meteo-dans-la-prevision-de-la-consommation-energetique
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Comment les gestionnaires de reseau anticipent les pics lies au froid ou a la chaleur.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation d'energie liee au travail a distance
+slug: la-consommation-d-energie-liee-au-travail-a-distance
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Un partage different des besoins energetiques entre domicile et bureau.
+tags: [usages-et-consommation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution historique de la consommation energetique mondiale
+slug: l-evolution-historique-de-la-consommation-energetique-mondiale
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Comment les besoins en energie ont explose depuis la revolution industrielle.
+tags: [usages-et-consommation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon et la revolution industrielle
+slug: le-charbon-et-la-revolution-industrielle
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment cette ressource a directement permis la transformation industrielle du XIXe siecle.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de charbon selon leur qualite
+slug: les-differents-types-de-charbon-selon-leur-qualite
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Tourbe, lignite, houille, anthracite : une meme origine, des usages tres differents.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon de bois, fabrication traditionnelle
+slug: le-charbon-de-bois-fabrication-traditionnelle
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Une methode ancienne qui transforme le bois en un combustible plus dense en energie.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La combustion du charbon, principe chimique de base
+slug: la-combustion-du-charbon-principe-chimique-de-base
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment cette reaction simple libere une energie exploitee depuis des siecles.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La centrale a charbon, fonctionnement general
+slug: la-centrale-a-charbon-fonctionnement-general
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment on transforme la combustion de ce combustible en electricite.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques sanitaires lies a l'extraction du charbon
+slug: les-risques-sanitaires-lies-a-l-extraction-du-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Des maladies professionnelles historiquement associees a ce travail difficile.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite dans les mines de charbon
+slug: la-securite-dans-les-mines-de-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Des risques specifiques, du grisou aux effondrements, qui ont marque l'histoire miniere.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le declin du charbon dans les pays industrialises
+slug: le-declin-du-charbon-dans-les-pays-industrialises
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment cette source d'energie historique perd progressivement du terrain.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon et la pollution atmospherique
+slug: le-charbon-et-la-pollution-atmospherique
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Un lien direct entre la combustion de ce combustible et la qualite de l'air.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gazeification du charbon
+slug: la-gazeification-du-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Une technologie qui transforme ce combustible solide en gaz utilisable.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon comme reserve strategique nationale
+slug: le-charbon-comme-reserve-strategique-nationale
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Pourquoi certains pays conservent des stocks importants malgre la transition energetique.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bassins houillers historiques et leur reconversion
+slug: les-bassins-houillers-historiques-et-leur-reconversion
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment d'anciennes regions minieres se sont transformees apres la fermeture des mines.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon actif et ses usages au-dela de l'energie
+slug: le-charbon-actif-et-ses-usages-au-dela-de-l-energie
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Une forme particuliere de charbon utilisee pour la filtration et la purification.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La capture du carbone appliquee aux centrales a charbon
+slug: la-capture-du-carbone-appliquee-aux-centrales-a-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Une technologie qui tente de reduire l'impact climatique de cette energie fossile.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon et la production d'acier
+slug: le-charbon-et-la-production-d-acier
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Un usage industriel essentiel, distinct de la simple production d'electricite.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'exploitation a ciel ouvert contre l'exploitation souterraine
+slug: l-exploitation-a-ciel-ouvert-contre-l-exploitation-souterraine
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Deux methodes d'extraction avec des impacts environnementaux tres differents.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon dans les pays en developpement aujourd'hui
+slug: le-charbon-dans-les-pays-en-developpement-aujourd-hui
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Pourquoi cette energie reste centrale pour certaines economies emergentes.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconversion des travailleurs du charbon
+slug: la-reconversion-des-travailleurs-du-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Un defi social majeur lie a la transition energetique en cours.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon et les greves ouvrieres historiques
+slug: le-charbon-et-les-greves-ouvrieres-historiques
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment ce secteur a souvent ete au coeur de luttes sociales majeures.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La combustion domestique du charbon avant l'electricite
+slug: la-combustion-domestique-du-charbon-avant-l-electricite
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment ce combustible a longtemps chauffe et eclaire les foyers.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poele a charbon traditionnel
+slug: le-poele-a-charbon-traditionnel
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Un appareil simple qui a longtemps ete la principale source de chauffage domestique.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon et la machine a vapeur, une revolution conjointe
+slug: le-charbon-et-la-machine-a-vapeur-une-revolution-conjointe
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment ces deux innovations se sont mutuellement renforcees.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite de l'air dans les villes a l'ere du charbon
+slug: la-qualite-de-l-air-dans-les-villes-a-l-ere-du-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Des episodes de pollution extreme qui ont marque l'histoire urbaine.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le smog de Londres et la combustion massive de charbon
+slug: le-smog-de-londres-et-la-combustion-massive-de-charbon
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Un episode historique qui a change durablement les politiques de qualite de l'air.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon dans la production de ciment
+slug: le-charbon-dans-la-production-de-ciment
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Un usage industriel moins connu mais bien reel de cette energie fossile.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reserve mondiale de charbon et sa duree estimee
+slug: la-reserve-mondiale-de-charbon-et-sa-duree-estimee
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Contrairement au petrole, cette ressource reste encore abondante pour longtemps.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon et les emissions de methane des mines
+slug: le-charbon-et-les-emissions-de-methane-des-mines
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Un impact climatique moins visible que le CO2 mais bien reel.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transition juste dans les regions charbonnieres
+slug: la-transition-juste-dans-les-regions-charbonnieres
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Comment accompagner socialement la fin progressive de cette activite historique.
+tags: [charbon]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le charbon vegetal comme filtre domestique de l'eau
+slug: le-charbon-vegetal-comme-filtre-domestique-de-l-eau
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Une technique ancienne et accessible pour ameliorer la qualite de l'eau.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production artisanale de charbon de bois en meule
+slug: la-production-artisanale-de-charbon-de-bois-en-meule
+categoryPath: energie/energies-fossiles-et-nucleaire/charbon
+summary: >
+  Une methode traditionnelle qui ne demande aucun equipement industriel.
+tags: [charbon, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La composition chimique du petrole brut
+slug: la-composition-chimique-du-petrole-brut
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Un melange complexe d'hydrocarbures qui doit etre separe avant usage.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le forage petrolier, principe et technologie
+slug: le-forage-petrolier-principe-et-technologie
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment on atteint et extrait une ressource situee a grande profondeur.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distillation fractionnee du petrole
+slug: la-distillation-fractionnee-du-petrole
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Le procede de base qui separe le petrole en ses differents composants utiles.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les derives du petrole dans la vie quotidienne
+slug: les-derives-du-petrole-dans-la-vie-quotidienne
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une ressource omnipresente bien au-dela du seul carburant automobile.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le gaz naturel, composition et usages
+slug: le-gaz-naturel-composition-et-usages
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Un combustible fossile plus propre que le charbon, mais toujours emetteur de carbone.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport du gaz naturel par gazoduc
+slug: le-transport-du-gaz-naturel-par-gazoduc
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une infrastructure massive qui relie les zones de production aux consommateurs.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La liquefaction du gaz naturel pour le transport maritime
+slug: la-liquefaction-du-gaz-naturel-pour-le-transport-maritime
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une technologie qui permet de transporter le gaz sans passer par un gazoduc.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reserves mondiales de petrole et leur repartition
+slug: les-reserves-mondiales-de-petrole-et-leur-repartition
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une ressource tres inegalement distribuee a la surface du globe.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'OPEP et la regulation du marche petrolier
+slug: l-opep-et-la-regulation-du-marche-petrolier
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment un groupe de pays producteurs influence le prix mondial du petrole.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le prix du baril et ses facteurs de variation
+slug: le-prix-du-baril-et-ses-facteurs-de-variation
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Pourquoi ce prix fluctue autant, sous l'effet de nombreux facteurs combines.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le petrole de schiste et la fracturation hydraulique
+slug: le-petrole-de-schiste-et-la-fracturation-hydraulique
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une technique controversee qui a transforme le marche energetique americain.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plateformes petrolieres offshore
+slug: les-plateformes-petrolieres-offshore
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une prouesse d'ingenierie pour extraire du petrole sous la mer.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les marees noires, causes et consequences ecologiques
+slug: les-marees-noires-causes-et-consequences-ecologiques
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Des catastrophes environnementales majeures liees au transport maritime du petrole.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le raffinage du petrole, etapes principales
+slug: le-raffinage-du-petrole-etapes-principales
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment un brut extrait du sol devient un ensemble de produits utilisables.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le gaz de petrole liquefie (GPL) et ses usages
+slug: le-gaz-de-petrole-liquefie-gpl-et-ses-usages
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Un derive polyvalent, utilise aussi bien pour cuisiner que pour se chauffer.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le petrole et la petrochimie, au-dela du carburant
+slug: le-petrole-et-la-petrochimie-au-dela-du-carburant
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment cette ressource sert de matiere premiere a d'innombrables produits industriels.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pic petrolier, une notion souvent mal comprise
+slug: le-pic-petrolier-une-notion-souvent-mal-comprise
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Ce concept ne signifie pas la fin du petrole, mais un plafond de production.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hydrates de methane, une ressource future incertaine
+slug: les-hydrates-de-methane-une-ressource-future-incertaine
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une forme de gaz naturel piegee sous les fonds oceaniques, encore peu exploitee.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport maritime du petrole par petrolier
+slug: le-transport-maritime-du-petrole-par-petrolier
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une infrastructure essentielle mais vulnerable aux risques environnementaux.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geopolitique du gaz naturel en Europe
+slug: la-geopolitique-du-gaz-naturel-en-europe
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment la dependance energetique a pu devenir un enjeu politique majeur.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biogaz comme substitut partiel au gaz naturel
+slug: le-biogaz-comme-substitut-partiel-au-gaz-naturel
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une alternative renouvelable produite a partir de dechets organiques.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sables bitumineux, une ressource petroliere non conventionnelle
+slug: les-sables-bitumineux-une-ressource-petroliere-non-conventionnelle
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Une methode d'extraction couteuse et energivore, aux impacts environnementaux marques.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage souterrain du gaz naturel
+slug: le-stockage-souterrain-du-gaz-naturel
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment on constitue des reserves pour faire face aux pics de demande hivernaux.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La combustion du gaz naturel domestique
+slug: la-combustion-du-gaz-naturel-domestique
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Un usage courant qui repose sur une infrastructure de distribution complexe.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le petrole et la formation des roches meres
+slug: le-petrole-et-la-formation-des-roches-meres
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Les conditions geologiques particulieres necessaires a la formation de cette ressource.
+tags: [hydrocarbures]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite comparee des differents petroles bruts
+slug: la-qualite-comparee-des-differents-petroles-bruts
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Pourquoi tous les petroles ne se raffinent pas de la meme maniere.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les taxes sur les hydrocarbures et leur role economique
+slug: les-taxes-sur-les-hydrocarbures-et-leur-role-economique
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment la fiscalite influence le prix final paye par le consommateur.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le petrole et les conflits geopolitiques historiques
+slug: le-petrole-et-les-conflits-geopolitiques-historiques
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Comment le controle de cette ressource a souvent influence des tensions internationales.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le kerosene, un derive essentiel de l'aviation
+slug: le-kerosene-un-derive-essentiel-de-l-aviation
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Un carburant specifique dont les proprietes sont adaptees aux conditions du vol.
+tags: [hydrocarbures, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bitume, un derive du petrole omnipresent
+slug: le-bitume-un-derive-du-petrole-omnipresent
+categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
+summary: >
+  Un materiau que l'on croise chaque jour sans forcement connaitre son origine.
+tags: [hydrocarbures]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fission nucleaire, principe physique de base
+slug: la-fission-nucleaire-principe-physique-de-base
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Le mecanisme fondamental qui liberet une energie considerable a partir d'un atome.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le combustible nucleaire, de la mine au reacteur
+slug: le-combustible-nucleaire-de-la-mine-au-reacteur
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un long parcours de transformation avant que l'uranium ne devienne utilisable.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'enrichissement de l'uranium, principe et enjeux
+slug: l-enrichissement-de-l-uranium-principe-et-enjeux
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Une etape technique sensible, aussi bien civile que geopolitique.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement d'un reacteur a eau pressurisee
+slug: le-fonctionnement-d-un-reacteur-a-eau-pressurisee
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  La technologie la plus repandue dans le parc nucleaire mondial actuel.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle de la reaction en chaine nucleaire
+slug: le-controle-de-la-reaction-en-chaine-nucleaire
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Comment on maitrise precisement une reaction potentiellement tres dangereuse.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite passive des reacteurs nucleaires modernes
+slug: la-securite-passive-des-reacteurs-nucleaires-modernes
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Des systemes concus pour fonctionner meme sans intervention humaine active.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'accident de Three Mile Island
+slug: l-accident-de-three-mile-island
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un incident majeur qui a change durablement les normes de securite du secteur.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La catastrophe de Tchernobyl, deroulement et consequences
+slug: la-catastrophe-de-tchernobyl-deroulement-et-consequences
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un accident majeur qui a durablement marque la perception publique du nucleaire.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La catastrophe de Fukushima, causes et lecons
+slug: la-catastrophe-de-fukushima-causes-et-lecons
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un accident recent qui a revele des vulnerabilites specifiques face aux catastrophes naturelles.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage des dechets radioactifs a long terme
+slug: le-stockage-des-dechets-radioactifs-a-long-terme
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un defi technique et politique majeur, sur des echelles de temps considerables.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le retraitement du combustible nucleaire use
+slug: le-retraitement-du-combustible-nucleaire-use
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Une methode qui permet de reutiliser une partie du combustible deja utilise.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les petits reacteurs modulaires, une nouvelle approche
+slug: les-petits-reacteurs-modulaires-une-nouvelle-approche
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Des reacteurs de taille reduite qui promettent plus de flexibilite et de securite.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le demantelement d'une centrale nucleaire
+slug: le-demantelement-d-une-centrale-nucleaire
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un processus long et couteux, encore peu experimente a grande echelle.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les surgenerateurs, produire plus de combustible qu'on en consomme
+slug: les-surgenerateurs-produire-plus-de-combustible-qu-on-en-consomme
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Une technologie ambitieuse mais complexe, encore peu deployee.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fusion nucleaire, le graal energetique recherche
+slug: la-fusion-nucleaire-le-graal-energetique-recherche
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Une technologie prometteuse, encore au stade experimental apres des decennies de recherche.
+tags: [nucleaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le projet ITER et la fusion par confinement magnetique
+slug: le-projet-iter-et-la-fusion-par-confinement-magnetique
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un projet international majeur pour tenter de maitriser cette technologie.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radioactivite naturelle, une realite omnipresente
+slug: la-radioactivite-naturelle-une-realite-omnipresente
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un phenomene present dans notre environnement quotidien, souvent meconnu.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les unites de mesure de la radioactivite
+slug: les-unites-de-mesure-de-la-radioactivite
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Becquerel, sievert : des unites specifiques indispensables pour comprendre les risques.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les effets biologiques des rayonnements ionisants
+slug: les-effets-biologiques-des-rayonnements-ionisants
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Comment differentes doses de radiation affectent le corps humain.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection contre les rayonnements radioactifs
+slug: la-protection-contre-les-rayonnements-radioactifs
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Des principes simples, distance, temps, ecran, pour limiter l'exposition.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nucleaire militaire et le nucleaire civil, distinctions
+slug: le-nucleaire-militaire-et-le-nucleaire-civil-distinctions
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Deux usages tres differents d'une meme technologie fondamentale.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La non-proliferation nucleaire, principe et controle
+slug: la-non-proliferation-nucleaire-principe-et-controle
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Des accords internationaux qui tentent de limiter la diffusion des armes nucleaires.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les centrales nucleaires flottantes
+slug: les-centrales-nucleaires-flottantes
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Une technologie recente qui vise a alimenter des zones isolees en electricite.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie d'une centrale nucleaire
+slug: la-duree-de-vie-d-une-centrale-nucleaire
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Pourquoi ces installations peuvent fonctionner bien plus longtemps que prevu initialement.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout economique du nucleaire compare aux autres energies
+slug: le-cout-economique-du-nucleaire-compare-aux-autres-energies
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un debat complexe qui integre construction, exploitation et demantelement.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acceptabilite sociale de l'energie nucleaire
+slug: l-acceptabilite-sociale-de-l-energie-nucleaire
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Ce que les sondages revelent sur la perception publique de cette energie.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine nucleaire, un usage pacifique meconnu
+slug: la-medecine-nucleaire-un-usage-pacifique-meconnu
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Comment la radioactivite est utilisee au quotidien pour diagnostiquer et soigner.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le radon, une radioactivite naturelle domestique
+slug: le-radon-une-radioactivite-naturelle-domestique
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Un gaz radioactif present naturellement dans certains sols et habitations.
+tags: [nucleaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des dechets nucleaires de faible activite
+slug: la-formation-des-dechets-nucleaires-de-faible-activite
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Tous les dechets nucleaires ne presentent pas le meme niveau de danger.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reacteurs a sels fondus, une technologie alternative
+slug: les-reacteurs-a-sels-fondus-une-technologie-alternative
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Une approche differente de la fission nucleaire, etudiee depuis des decennies.
+tags: [nucleaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe physique de la production eolienne
+slug: le-principe-physique-de-la-production-eolienne
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Comment l'energie cinetique du vent se transforme en electricite.
+tags: [eolien, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du moulin a vent avant l'electricite
+slug: l-histoire-du-moulin-a-vent-avant-l-electricite
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des siecles d'usage mecanique du vent avant sa transformation en electricite moderne.
+tags: [eolien, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction d'une petite eolienne domestique
+slug: la-construction-d-une-petite-eolienne-domestique
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des principes accessibles pour produire une electricite d'appoint localement.
+tags: [eolien, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement d'une eolienne selon la vitesse du vent
+slug: le-rendement-d-une-eolienne-selon-la-vitesse-du-vent
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Pourquoi la production varie de maniere non lineaire avec la force du vent.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La limite de Betz, le maximum theorique d'une eolienne
+slug: la-limite-de-betz-le-maximum-theorique-d-une-eolienne
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Une loi physique qui fixe une limite fondamentale au rendement eolien.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les eoliennes a axe vertical, une alternative moins repandue
+slug: les-eoliennes-a-axe-vertical-une-alternative-moins-repandue
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Une conception differente, avec ses propres avantages et inconvenients.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'implantation d'un parc eolien terrestre
+slug: l-implantation-d-un-parc-eolien-terrestre
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Les etapes et criteres necessaires pour choisir un site adapte.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eolien en mer, contraintes et avantages
+slug: l-eolien-en-mer-contraintes-et-avantages
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des vents plus forts et reguliers, au prix d'une installation plus complexe.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les eoliennes flottantes, une technologie recente
+slug: les-eoliennes-flottantes-une-technologie-recente
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Une innovation qui permet d'installer des eoliennes en eaux profondes.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des pales d'eoliennes en fin de vie
+slug: le-recyclage-des-pales-d-eoliennes-en-fin-de-vie
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Un defi technique recent, encore imparfaitement resolu.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact de l'eolien sur la biodiversite locale
+slug: l-impact-de-l-eolien-sur-la-biodiversite-locale
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Un enjeu reel qui necessite des etudes prealables avant tout projet.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bruit des eoliennes et sa reglementation
+slug: le-bruit-des-eoliennes-et-sa-reglementation
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des normes precises encadrent la distance minimale avec les habitations.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'intermittence de la production eolienne
+slug: l-intermittence-de-la-production-eolienne
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Un defi majeur pour l'integration de cette energie au reseau electrique.
+tags: [eolien]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les previsions meteorologiques et la production eolienne
+slug: les-previsions-meteorologiques-et-la-production-eolienne
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Comment on anticipe la production pour mieux gerer le reseau electrique.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage d'energie associe a l'eolien
+slug: le-stockage-d-energie-associe-a-l-eolien
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des solutions necessaires pour compenser l'irregularite naturelle de cette production.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eolien offshore flottant en Mediterranee
+slug: l-eolien-offshore-flottant-en-mediterranee
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Une adaptation specifique aux fonds marins profonds de cette region.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les generatrices utilisees dans les eoliennes modernes
+slug: les-generatrices-utilisees-dans-les-eoliennes-modernes
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Le composant qui transforme reellement le mouvement mecanique en electricite.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maintenance d'une eolienne industrielle
+slug: la-maintenance-d-une-eolienne-industrielle
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des interventions techniques regulieres, parfois en hauteur et en conditions difficiles.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eolien citoyen et le financement participatif
+slug: l-eolien-citoyen-et-le-financement-participatif
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des projets ou les habitants locaux investissent directement dans un parc eolien.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie d'une eolienne industrielle
+slug: la-duree-de-vie-d-une-eolienne-industrielle
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Combien de temps ces installations peuvent-elles produire de l'electricite.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les records de puissance des eoliennes modernes
+slug: les-records-de-puissance-des-eoliennes-modernes
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Comment la taille et la puissance de ces machines ont explose en quelques decennies.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eolien terrestre en zone montagneuse
+slug: l-eolien-terrestre-en-zone-montagneuse
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des contraintes specifiques liees au relief et a l'acces aux sites.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le potentiel eolien mondial par region
+slug: le-potentiel-eolien-mondial-par-region
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Une ressource tres inegalement repartie a la surface du globe.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mats d'eoliennes, materiaux et hauteur
+slug: les-mats-d-eoliennes-materiaux-et-hauteur
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Comment la hauteur influence directement la quantite de vent capte.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eolien et l'emploi local dans les territoires
+slug: l-eolien-et-l-emploi-local-dans-les-territoires
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Un secteur qui a cree de nouveaux emplois dans certaines regions rurales.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cohabitation entre eolien et agriculture
+slug: la-cohabitation-entre-eolien-et-agriculture
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Comment un meme terrain peut accueillir a la fois cultures et production eolienne.
+tags: [eolien, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les eoliennes urbaines de petite taille
+slug: les-eoliennes-urbaines-de-petite-taille
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Une technologie encore experimentale pour produire de l'electricite en ville.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle d'orientation des pales d'eoliennes
+slug: le-controle-d-orientation-des-pales-d-eoliennes
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Un mecanisme qui optimise en permanence la captation du vent.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production eolienne nocturne et son role dans le reseau
+slug: la-production-eolienne-nocturne-et-son-role-dans-le-reseau
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Pourquoi le vent souffle souvent plus fort la nuit que le jour.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des premieres eoliennes productrices d'electricite
+slug: l-histoire-des-premieres-eoliennes-productrices-d-electricite
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Des pionniers qui ont adapte une technologie ancienne a un nouvel usage.
+tags: [eolien]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe physique de l'energie hydraulique
+slug: le-principe-physique-de-l-energie-hydraulique
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Comment l'energie potentielle de l'eau se transforme en electricite.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction d'une roue a eau traditionnelle
+slug: la-construction-d-une-roue-a-eau-traditionnelle
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une technologie ancienne, accessible, qui a longtemps fait fonctionner moulins et ateliers.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le barrage hydroelectrique, principe de fonctionnement
+slug: le-barrage-hydroelectrique-principe-de-fonctionnement
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Comment un mur retient l'eau pour produire de l'electricite a la demande.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grands types de barrages et leurs usages
+slug: les-grands-types-de-barrages-et-leurs-usages
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Voute, poids, digue : des architectures adaptees a differents terrains.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La microcentrale hydroelectrique de riviere
+slug: la-microcentrale-hydroelectrique-de-riviere
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une solution a petite echelle qui exploite un cours d'eau local sans grand barrage.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les stations de transfert d'energie par pompage (STEP)
+slug: les-stations-de-transfert-d-energie-par-pompage-step
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une methode qui stocke l'energie en remontant de l'eau, puis la restitue en la faisant redescendre.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie maremotrice, exploiter le mouvement des marees
+slug: l-energie-maremotrice-exploiter-le-mouvement-des-marees
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une source d'energie previsible, contrairement au vent ou au soleil.
+tags: [hydraulique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hydroliennes, l'eolien sous-marin
+slug: les-hydroliennes-l-eolien-sous-marin
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une technologie qui exploite les courants marins pour produire de l'electricite.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le barrage des Trois-Gorges, le plus grand du monde
+slug: le-barrage-des-trois-gorges-le-plus-grand-du-monde
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Un ouvrage colossal qui illustre l'ampleur possible de cette technologie.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'impact environnemental des grands barrages
+slug: l-impact-environnemental-des-grands-barrages
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Des consequences reelles sur les ecosystemes et les populations riveraines.
+tags: [hydraulique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le deplacement de populations lie a la construction de barrages
+slug: le-deplacement-de-populations-lie-a-la-construction-de-barrages
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Un cout social souvent sous-estime de ces grands projets d'infrastructure.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les passes a poissons dans les amenagements hydrauliques
+slug: les-passes-a-poissons-dans-les-amenagements-hydrauliques
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Des dispositifs concus pour preserver la migration naturelle des especes aquatiques.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La petite hydroelectricite et son potentiel sous-exploite
+slug: la-petite-hydroelectricite-et-son-potentiel-sous-exploite
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Des installations modestes qui pourraient encore se multiplier localement.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moulin a eau et ses usages historiques au-dela de l'electricite
+slug: le-moulin-a-eau-et-ses-usages-historiques-au-dela-de-l-electricite
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Mouture du grain, sciage du bois : des usages mecaniques bien anterieurs a l'electricite.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie des vagues, une ressource encore peu exploitee
+slug: l-energie-des-vagues-une-ressource-encore-peu-exploitee
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une piste prometteuse mais technologiquement encore immature.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation du debit d'un cours d'eau par un barrage
+slug: la-regulation-du-debit-d-un-cours-d-eau-par-un-barrage
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Comment ces infrastructures influencent aussi la gestion de l'eau en aval.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydroelectricite au fil de l'eau
+slug: l-hydroelectricite-au-fil-de-l-eau
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une methode qui produit de l'electricite sans construire de grand reservoir.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La turbine hydraulique, differents types et usages
+slug: la-turbine-hydraulique-differents-types-et-usages
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Pelton, Francis, Kaplan : des technologies adaptees a des chutes d'eau differentes.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des barrages et les risques de rupture
+slug: la-securite-des-barrages-et-les-risques-de-rupture
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Un enjeu majeur qui exige une surveillance constante de ces infrastructures.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydroelectricite dans les pays en developpement
+slug: l-hydroelectricite-dans-les-pays-en-developpement
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une source d'energie particulierement adaptee aux regions montagneuses sans reseau developpe.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sedimentation des barrages et la perte de capacite
+slug: la-sedimentation-des-barrages-et-la-perte-de-capacite
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Un phenomene naturel qui reduit progressivement l'efficacite de ces ouvrages.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des barrages dans la prevention des inondations
+slug: le-role-des-barrages-dans-la-prevention-des-inondations
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une fonction complementaire a la seule production d'electricite.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les norias, un dispositif ancien d'elevation de l'eau
+slug: les-norias-un-dispositif-ancien-d-elevation-de-l-eau
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une technologie tres ancienne, encore utilisee dans certaines regions du monde.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction d'un petit moulin fonctionnel
+slug: la-construction-d-un-petit-moulin-fonctionnel
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Les principes de base pour fabriquer un dispositif simple exploitant un courant d'eau.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydroelectricite et la gestion des periodes de secheresse
+slug: l-hydroelectricite-et-la-gestion-des-periodes-de-secheresse
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Comment cette source d'energie devient vulnerable face au manque d'eau.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le barrage d'Assouan et son impact sur le Nil
+slug: le-barrage-d-assouan-et-son-impact-sur-le-nil
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Un exemple historique majeur des consequences ecologiques d'un grand barrage.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'energie hydraulique et l'irrigation agricole combinees
+slug: l-energie-hydraulique-et-l-irrigation-agricole-combinees
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Comment un meme amenagement peut servir plusieurs usages a la fois.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration de la continuite ecologique des rivieres
+slug: la-restauration-de-la-continuite-ecologique-des-rivieres
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Des projets recents qui demantelent certains petits barrages devenus obsoletes.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le productible hydroelectrique selon les saisons
+slug: le-productible-hydroelectrique-selon-les-saisons
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Pourquoi la production varie fortement entre periodes de fonte des neiges et etiage.
+tags: [hydraulique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moulins a maree historiques
+slug: les-moulins-a-maree-historiques
+categoryPath: energie/energies-renouvelables/hydraulique
+summary: >
+  Une technologie ancienne qui exploitait deja le mouvement regulier des marees.
+tags: [hydraulique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet photovoltaique, principe physique de base
+slug: l-effet-photovoltaique-principe-physique-de-base
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Comment la lumiere du soleil se transforme directement en courant electrique.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de cellules photovoltaiques
+slug: les-differents-types-de-cellules-photovoltaiques
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Silicium monocristallin, polycristallin, couches minces : des technologies aux compromis distincts.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication d'un panneau solaire, etape par etape
+slug: la-fabrication-d-un-panneau-solaire-etape-par-etape
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Du sable au module fini, un processus industriel de plusieurs etapes.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement d'un panneau solaire selon son orientation
+slug: le-rendement-d-un-panneau-solaire-selon-son-orientation
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Comment l'angle et la direction d'exposition influencent la production reelle.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le vieillissement des panneaux solaires dans le temps
+slug: le-vieillissement-des-panneaux-solaires-dans-le-temps
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une perte de rendement progressive mais lente sur plusieurs decennies.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le solaire thermique contre le solaire photovoltaique
+slug: le-solaire-thermique-contre-le-solaire-photovoltaique
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Deux technologies distinctes qui exploitent le soleil de manieres differentes.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chauffe-eau solaire individuel
+slug: le-chauffe-eau-solaire-individuel
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une technologie simple et accessible pour reduire la facture d'eau chaude.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les centrales solaires a concentration
+slug: les-centrales-solaires-a-concentration
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une technologie qui utilise des miroirs pour concentrer la chaleur du soleil.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage thermique dans les centrales solaires
+slug: le-stockage-thermique-dans-les-centrales-solaires
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Comment on conserve la chaleur du soleil pour produire de l'electricite meme la nuit.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agrivoltaisme, combiner agriculture et production solaire
+slug: l-agrivoltaisme-combiner-agriculture-et-production-solaire
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une meme surface qui produit a la fois de la nourriture et de l'electricite.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des panneaux solaires en fin de vie
+slug: le-recyclage-des-panneaux-solaires-en-fin-de-vie
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un defi technique recent, encore en cours de structuration industrielle.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le solaire flottant sur les plans d'eau
+slug: le-solaire-flottant-sur-les-plans-d-eau
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une solution qui evite d'occuper des terres agricoles ou naturelles.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production solaire domestique et l'autoconsommation
+slug: la-production-solaire-domestique-et-l-autoconsommation
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Comment un foyer peut produire et consommer directement sa propre electricite.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le kit solaire portable pour zones sans electricite
+slug: le-kit-solaire-portable-pour-zones-sans-electricite
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une solution simple et accessible pour un acces basique a l'electricite.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cuisiniere solaire, une technologie simple et efficace
+slug: la-cuisiniere-solaire-une-technologie-simple-et-efficace
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un dispositif accessible qui permet de cuisiner sans combustible ni electricite.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sechoir solaire pour la conservation des aliments
+slug: le-sechoir-solaire-pour-la-conservation-des-aliments
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une technique simple qui combine energie solaire et conservation alimentaire.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le distillateur solaire pour purifier l'eau
+slug: le-distillateur-solaire-pour-purifier-l-eau
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un dispositif rudimentaire qui utilise la chaleur du soleil pour desinfecter l'eau.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le silicium, du sable brut au materiau semi-conducteur
+slug: le-silicium-du-sable-brut-au-materiau-semi-conducteur
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un long processus de purification necessaire avant de fabriquer une cellule solaire.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'intermittence solaire et sa gestion sur le reseau
+slug: l-intermittence-solaire-et-sa-gestion-sur-le-reseau
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un defi partage avec l'eolien, qui exige des solutions de flexibilite.
+tags: [solaire]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le prix du solaire, une baisse historique en quelques decennies
+slug: le-prix-du-solaire-une-baisse-historique-en-quelques-decennies
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Comment cette technologie est devenue l'une des plus competitives au monde.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le solaire dans l'espace, une piste de recherche
+slug: le-solaire-dans-l-espace-une-piste-de-recherche
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un concept ambitieux qui vise a capter l'energie solaire hors de l'atmosphere.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La toiture solaire integree au batiment
+slug: la-toiture-solaire-integree-au-batiment
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Des tuiles ou panneaux concus pour se fondre directement dans l'architecture.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le panneau solaire bifacial, capter la lumiere des deux cotes
+slug: le-panneau-solaire-bifacial-capter-la-lumiere-des-deux-cotes
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une innovation recente qui augmente le rendement global d'un panneau.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production solaire en zone desertique
+slug: la-production-solaire-en-zone-desertique
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un potentiel enorme, limite surtout par l'eloignement des zones de consommation.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lampadaire solaire autonome
+slug: le-lampadaire-solaire-autonome
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une solution simple pour eclairer sans raccordement au reseau electrique.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pompe a eau solaire pour l'irrigation
+slug: la-pompe-a-eau-solaire-pour-l-irrigation
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une technologie qui permet de pomper de l'eau sans depenser de carburant.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rechauffeur solaire de serre agricole
+slug: le-rechauffeur-solaire-de-serre-agricole
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Comment le soleil peut prolonger la saison de culture sans chauffage fossile.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La degradation des performances solaires par la poussiere
+slug: la-degradation-des-performances-solaires-par-la-poussiere
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Un facteur simple mais important, particulierement dans les zones aride.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nettoyage et l'entretien des panneaux solaires
+slug: le-nettoyage-et-l-entretien-des-panneaux-solaires
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Des gestes simples qui maintiennent le rendement optimal d'une installation.
+tags: [solaire, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la premiere cellule photovoltaique
+slug: l-histoire-de-la-premiere-cellule-photovoltaique
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Une invention du milieu du XXe siecle qui a ouvert la voie a cette technologie.
+tags: [solaire]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe electrochimique d'une batterie
+slug: le-principe-electrochimique-d-une-batterie
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Comment une reaction chimique controlee produit un courant electrique utilisable.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pile de Volta, la premiere source d'electricite continue
+slug: la-pile-de-volta-la-premiere-source-d-electricite-continue
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une invention fondatrice qui a rendu possible toute l'electricite portable moderne.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction d'une pile electrique simple
+slug: la-construction-d-une-pile-electrique-simple
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Des principes de base accessibles pour fabriquer une source d'electricite rudimentaire.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La batterie au plomb, une technologie ancienne toujours utilisee
+slug: la-batterie-au-plomb-une-technologie-ancienne-toujours-utilisee
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une chimie robuste et economique, encore utilisee dans de nombreux vehicules.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La batterie au nickel-cadmium et son declin
+slug: la-batterie-au-nickel-cadmium-et-son-declin
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une technologie autrefois populaire, progressivement abandonnee pour des raisons environnementales.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement precis d'une batterie lithium-ion
+slug: le-fonctionnement-precis-d-une-batterie-lithium-ion
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Comment les ions se deplacent entre deux electrodes pour stocker et restituer l'energie.
+tags: [batteries]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries sodium-ion, une alternative prometteuse
+slug: les-batteries-sodium-ion-une-alternative-prometteuse
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une technologie qui pourrait reduire la dependance a certains metaux rares.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des batteries lithium-ion
+slug: le-recyclage-des-batteries-lithium-ion
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Un enjeu croissant a mesure que ces batteries se multiplient dans le monde.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi une batterie s'use avec le temps
+slug: pourquoi-une-batterie-s-use-avec-le-temps
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Un vieillissement chimique inevitable, mais dont la vitesse peut etre ralentie.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lithium, une ressource strategique mondiale
+slug: le-lithium-une-ressource-strategique-mondiale
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Un metal devenu essentiel, dont l'extraction pose des questions environnementales.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'extraction du lithium et ses methodes
+slug: l-extraction-du-lithium-et-ses-methodes
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Salars, mines : des techniques d'extraction tres differentes selon les gisements.
+tags: [batteries]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cobalt dans les batteries et les enjeux ethiques de son extraction
+slug: le-cobalt-dans-les-batteries-et-les-enjeux-ethiques-de-son-extraction
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Un metal essentiel dont l'extraction souleve de reelles questions humaines.
+tags: [batteries]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries a flux, une technologie pour le stockage massif
+slug: les-batteries-a-flux-une-technologie-pour-le-stockage-massif
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une approche differente, adaptee au stockage a grande echelle plutot qu'a la mobilite.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage d'energie par batteries a l'echelle d'un reseau electrique
+slug: le-stockage-d-energie-par-batteries-a-l-echelle-d-un-reseau-electrique
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Comment ces installations aident a stabiliser un reseau alimente par des energies intermittentes.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La densite energetique d'une batterie, ce que cela signifie
+slug: la-densite-energetique-d-une-batterie-ce-que-cela-signifie
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Un critere cle qui determine le poids et le volume necessaires pour une meme energie.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des batteries et le risque d'emballement thermique
+slug: la-securite-des-batteries-et-le-risque-d-emballement-thermique
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Pourquoi certaines batteries endommagees peuvent devenir dangereuses.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de gestion de batterie (BMS)
+slug: le-systeme-de-gestion-de-batterie-bms
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Un composant electronique essentiel qui protege et optimise l'usage d'une batterie.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries a l'etat solide, la prochaine generation
+slug: les-batteries-a-l-etat-solide-la-prochaine-generation
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une technologie en developpement qui promet plus de securite et de capacite.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La seconde vie des batteries de vehicules electriques
+slug: la-seconde-vie-des-batteries-de-vehicules-electriques
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Comment une batterie trop faible pour un vehicule peut encore servir ailleurs.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage d'energie domestique par batterie
+slug: le-stockage-d-energie-domestique-par-batterie
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Comment un foyer peut stocker sa propre production solaire pour la nuit.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication d'une batterie a partir de materiaux courants
+slug: la-fabrication-d-une-batterie-a-partir-de-materiaux-courants
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Des principes simples permettant de comprendre le stockage electrochimique de base.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries zinc-air, une chimie alternative
+slug: les-batteries-zinc-air-une-chimie-alternative
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une technologie qui utilise l'oxygene de l'air comme reactif, reduisant le poids.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout de production des batteries et son evolution
+slug: le-cout-de-production-des-batteries-et-son-evolution
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une baisse spectaculaire qui a rendu possible l'essor du vehicule electrique.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage d'energie par volant d'inertie
+slug: le-stockage-d-energie-par-volant-d-inertie
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une alternative mecanique au stockage chimique, adaptee a des usages specifiques.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie LFP (lithium-fer-phosphate), plus stable et moins chere
+slug: la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une variante de batterie lithium qui privilegie securite et longevite.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport et le stockage securise des batteries au lithium
+slug: le-transport-et-le-stockage-securise-des-batteries-au-lithium
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Des precautions specifiques necessaires en raison des risques d'incendie.
+tags: [batteries, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La capacite de decharge rapide d'une batterie
+slug: la-capacite-de-decharge-rapide-d-une-batterie
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Pourquoi certaines batteries peuvent liberer beaucoup d'energie tres vite, et d'autres non.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marche mondial des batteries et sa croissance
+slug: le-marche-mondial-des-batteries-et-sa-croissance
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Un secteur industriel en expansion rapide, porte par la transition energetique.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries utilisees dans les appareils medicaux implantes
+slug: les-batteries-utilisees-dans-les-appareils-medicaux-implantes
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Des exigences de fiabilite extremement elevees pour ce type d'usage specifique.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La chimie des piles alcalines du quotidien
+slug: la-chimie-des-piles-alcalines-du-quotidien
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Une technologie tres repandue, simple et peu couteuse, pour un usage jetable.
+tags: [batteries]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La molecule d'hydrogene et ses proprietes energetiques
+slug: la-molecule-d-hydrogene-et-ses-proprietes-energetiques
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Un element tres leger et tres energetique, mais qui n'existe pas a l'etat pur naturellement.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'electrolyse de l'eau, produire de l'hydrogene
+slug: l-electrolyse-de-l-eau-produire-de-l-hydrogene
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Une reaction chimique simple qui separe l'eau en hydrogene et oxygene.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene gris, produit a partir de gaz naturel
+slug: l-hydrogene-gris-produit-a-partir-de-gaz-naturel
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  La methode de production actuellement la plus repandue, mais aussi la plus emettrice.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene bleu, une etape intermediaire
+slug: l-hydrogene-bleu-une-etape-intermediaire
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Une production qui capture une partie du carbone emis lors de la fabrication.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene vert, produit par energie renouvelable
+slug: l-hydrogene-vert-produit-par-energie-renouvelable
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  La version la plus propre, mais aussi actuellement la plus couteuse.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage de l'hydrogene sous pression
+slug: le-stockage-de-l-hydrogene-sous-pression
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Un defi technique lie a la tres faible densite naturelle de ce gaz.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage de l'hydrogene sous forme liquide
+slug: le-stockage-de-l-hydrogene-sous-forme-liquide
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Une methode qui exige des temperatures extremement basses pour etre efficace.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pile a combustible, transformer l'hydrogene en electricite
+slug: la-pile-a-combustible-transformer-l-hydrogene-en-electricite
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Le processus inverse de l'electrolyse, qui produit electricite et eau.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport de l'hydrogene par pipeline
+slug: le-transport-de-l-hydrogene-par-pipeline
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Des infrastructures specifiques necessaires, distinctes de celles du gaz naturel classique.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene dans l'industrie chimique
+slug: l-hydrogene-dans-l-industrie-chimique
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Un usage historique et massif, bien avant les questions energetiques actuelles.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene comme reducteur dans la siderurgie
+slug: l-hydrogene-comme-reducteur-dans-la-siderurgie
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Une piste serieuse pour decarboner la production d'acier.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couleurs de l'hydrogene, un systeme de classification
+slug: les-couleurs-de-l-hydrogene-un-systeme-de-classification
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Gris, bleu, vert, rose : un code couleur qui indique la methode de production.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene et la mobilite lourde
+slug: l-hydrogene-et-la-mobilite-lourde
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Une piste envisagee pour les camions et les usages difficiles a electrifier.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite du stockage de l'hydrogene
+slug: la-securite-du-stockage-de-l-hydrogene
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Des precautions specifiques liees a l'inflammabilite de ce gaz tres leger.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene naturel, une decouverte geologique recente
+slug: l-hydrogene-naturel-une-decouverte-geologique-recente
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Contrairement aux idees recues, de l'hydrogene existe naturellement dans certains sous-sols.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rendement energetique de la chaine hydrogene complete
+slug: le-rendement-energetique-de-la-chaine-hydrogene-complete
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Pourquoi cette filiere perd une part importante de l'energie a chaque etape.
+tags: [hydrogene]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'electrolyseur, principe et technologies existantes
+slug: l-electrolyseur-principe-et-technologies-existantes
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Des variantes techniques differentes pour produire de l'hydrogene par electrolyse.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'hydrogene dans le raffinage du petrole
+slug: l-hydrogene-dans-le-raffinage-du-petrole
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Un usage industriel deja ancien, souvent ignore du grand public.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le potentiel de l'hydrogene pour le stockage saisonnier d'energie
+slug: le-potentiel-de-l-hydrogene-pour-le-stockage-saisonnier-d-energie
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Une piste pour conserver de l'energie renouvelable sur de longues periodes.
+tags: [hydrogene, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ammoniac comme vecteur de transport de l'hydrogene
+slug: l-ammoniac-comme-vecteur-de-transport-de-l-hydrogene
+categoryPath: energie/reseaux-et-stockage/hydrogene
+summary: >
+  Une molecule plus facile a transporter que l'hydrogene pur lui-meme.
+tags: [hydrogene]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de base d'un reseau electrique
+slug: le-principe-de-base-d-un-reseau-electrique
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment l'electricite est produite, transportee puis distribuee jusqu'a chaque foyer.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Produire de l'electricite avec un aimant, principe fondamental
+slug: produire-de-l-electricite-avec-un-aimant-principe-fondamental
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Le phenomene physique de base a l'origine de presque toute la production electrique.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La guerre des courants entre Edison et Tesla
+slug: la-guerre-des-courants-entre-edison-et-tesla
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Un episode historique qui a determine le standard electrique encore utilise aujourd'hui.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transformateur electrique, principe et role
+slug: le-transformateur-electrique-principe-et-role
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Un composant essentiel qui permet d'adapter la tension a chaque etape du reseau.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transport de l'electricite a haute tension
+slug: le-transport-de-l-electricite-a-haute-tension
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Pourquoi on eleve la tension pour limiter les pertes sur de longues distances.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La frequence du reseau electrique, un equilibre a maintenir
+slug: la-frequence-du-reseau-electrique-un-equilibre-a-maintenir
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Pourquoi maintenir une frequence stable est essentiel au bon fonctionnement du reseau.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'equilibre entre production et consommation electrique
+slug: l-equilibre-entre-production-et-consommation-electrique
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Un defi permanent, car l'electricite ne se stocke pas facilement a grande echelle.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les grandes pannes electriques de l'histoire
+slug: les-grandes-pannes-electriques-de-l-histoire
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Des exemples marquants qui revelent la fragilite parfois cachee des reseaux.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le black-out, causes et prevention
+slug: le-black-out-causes-et-prevention
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment une simple defaillance locale peut se propager a tout un reseau.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les interconnexions electriques entre pays
+slug: les-interconnexions-electriques-entre-pays
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment l'electricite circule au-dela des frontieres pour equilibrer l'offre et la demande.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau electrique intelligent (smart grid)
+slug: le-reseau-electrique-intelligent-smart-grid
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Une infrastructure moderne capable de s'adapter en temps reel aux besoins.
+tags: [reseaux-electriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mix electrique, comprendre sa composition
+slug: le-mix-electrique-comprendre-sa-composition
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment un pays combine plusieurs sources d'energie pour produire son electricite.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion de l'intermittence des energies renouvelables
+slug: la-gestion-de-l-intermittence-des-energies-renouvelables
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Des solutions techniques necessaires pour integrer une production variable au reseau.
+tags: [reseaux-electriques]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poste electrique, un maillon essentiel du reseau
+slug: le-poste-electrique-un-maillon-essentiel-du-reseau
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Une installation technique qui transforme et repartit l'electricite localement.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lignes electriques souterraines contre aeriennes
+slug: les-lignes-electriques-souterraines-contre-aeriennes
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Deux methodes de transport avec des couts et des avantages tres differents.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compteur electrique intelligent
+slug: le-compteur-electrique-intelligent
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Un dispositif recent qui permet un suivi plus precis de la consommation.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production electrique decentralisee
+slug: la-production-electrique-decentralisee
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment de nombreuses petites installations changent la logique d'un reseau autrefois centralise.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reconstruction d'un reseau electrique apres une catastrophe
+slug: la-reconstruction-d-un-reseau-electrique-apres-une-catastrophe
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Les priorites et les etapes necessaires pour retablir rapidement l'electricite.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le generateur electrique manuel ou a manivelle
+slug: le-generateur-electrique-manuel-ou-a-manivelle
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Une solution simple pour produire une petite quantite d'electricite sans infrastructure.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau electrique isole, alimenter une zone sans connexion
+slug: le-reseau-electrique-isole-alimenter-une-zone-sans-connexion
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Des solutions autonomes pour des regions eloignees de tout reseau national.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distribution electrique en basse tension
+slug: la-distribution-electrique-en-basse-tension
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  La derniere etape du reseau, celle qui arrive directement chez les usagers.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le disjoncteur, un dispositif de securite essentiel
+slug: le-disjoncteur-un-dispositif-de-securite-essentiel
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Un composant simple mais vital qui protege les installations electriques.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La foudre et sa gestion sur le reseau electrique
+slug: la-foudre-et-sa-gestion-sur-le-reseau-electrique
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Des dispositifs specifiques concus pour proteger le reseau de ce phenomene naturel.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau electrique et la recharge des vehicules electriques
+slug: le-reseau-electrique-et-la-recharge-des-vehicules-electriques
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment cette nouvelle demande change la gestion globale du reseau.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation de la tension electrique sur le reseau
+slug: la-regulation-de-la-tension-electrique-sur-le-reseau
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Pourquoi maintenir une tension stable est essentiel au bon fonctionnement des appareils.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'electrification des campagnes
+slug: l-histoire-de-l-electrification-des-campagnes
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment l'electricite a progressivement atteint les zones les plus reculees.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau electrique et les vagues de chaleur extreme
+slug: le-reseau-electrique-et-les-vagues-de-chaleur-extreme
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Comment une demande accrue de climatisation peut mettre le reseau sous tension.
+tags: [reseaux-electriques, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybersecurite des reseaux electriques
+slug: la-cybersecurite-des-reseaux-electriques
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Un enjeu recent, a mesure que ces infrastructures deviennent de plus en plus numeriques.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout de la maintenance des reseaux electriques vieillissants
+slug: le-cout-de-la-maintenance-des-reseaux-electriques-vieillissants
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Un defi majeur pour de nombreux pays dont l'infrastructure date de plusieurs decennies.
+tags: [reseaux-electriques]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.

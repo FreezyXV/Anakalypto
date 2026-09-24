@@ -2149,3 +2149,4053 @@ dernier produit capable de réunir tout le monde au même moment.
 légende et texte alternatif à fournir ultérieurement.]
 
 ---
+
+---
+type: article
+title: Gutenberg et la naissance de la presse imprimee
+slug: gutenberg-et-la-naissance-de-la-presse-imprimee
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment l'imprimerie a rendu possible la diffusion massive de l'information.
+tags: [presse-ecrite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le premier quotidien de l'histoire
+slug: le-premier-quotidien-de-l-histoire
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Un journal pionnier qui a invente le rythme d'actualite au jour le jour.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La liberte de la presse, une conquete recente
+slug: la-liberte-de-la-presse-une-conquete-recente
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment ce principe s'est impose progressivement contre la censure d'Etat.
+tags: [presse-ecrite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journal a un centime et la presse populaire
+slug: le-journal-a-un-centime-et-la-presse-populaire
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment un prix tres bas a ouvert la lecture de journaux au plus grand nombre.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le photojournalisme et l'entree de l'image dans la presse
+slug: le-photojournalisme-et-l-entree-de-l-image-dans-la-presse
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment la photographie a transforme la maniere de raconter l'actualite.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La caricature de presse et son role politique
+slug: la-caricature-de-presse-et-son-role-politique
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Un dessin simple qui a souvent porte une critique plus forte qu'un long article.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les correspondants de guerre et le recit du front
+slug: les-correspondants-de-guerre-et-le-recit-du-front
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Un metier ne du besoin de temoigner directement depuis les zones de conflit.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format tabloid contre le format broadsheet
+slug: le-format-tabloid-contre-le-format-broadsheet
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Deux tailles de journaux qui refletent aussi deux styles editoriaux differents.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse clandestine sous l'occupation
+slug: la-presse-clandestine-sous-l-occupation
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment l'information a continue de circuler malgre une censure totale.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le declin des tirages de la presse papier
+slug: le-declin-des-tirages-de-la-presse-papier
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment la concurrence numerique a bouleverse un modele economique centenaire.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse people et son essor au XXe siecle
+slug: la-presse-people-et-son-essor-au-xxe-siecle
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment un genre nouveau a trouve un public tres large et durable.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journal syndical et la presse militante
+slug: le-journal-syndical-et-la-presse-militante
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Des titres nes pour porter une cause plutot que pour informer neutralement.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les kiosques a journaux, un commerce en declin
+slug: les-kiosques-a-journaux-un-commerce-en-declin
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment un point de vente embleme de la ville a progressivement disparu.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse regionale et son role de proximite
+slug: la-presse-regionale-et-son-role-de-proximite
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Pourquoi ces titres restent souvent plus lus que la presse nationale localement.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le supplement week-end et l'invention du magazine dans le journal
+slug: le-supplement-week-end-et-l-invention-du-magazine-dans-le-journal
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment la presse a diversifie ses formats pour fideliser ses lecteurs.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La une de journal, un art de la synthese
+slug: la-une-de-journal-un-art-de-la-synthese
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment on choisit et hierarchise l'information la plus importante du jour.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fait divers dans la presse populaire
+slug: le-fait-divers-dans-la-presse-populaire
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Pourquoi ce type de recit a toujours attire un tres large lectorat.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse satirique et ses provocations celebres
+slug: la-presse-satirique-et-ses-provocations-celebres
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Des titres qui ont fait du rire et de la critique un veritable genre journalistique.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pigiste, un statut journalistique precaire
+slug: le-pigiste-un-statut-journalistique-precaire
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment de nombreux journalistes travaillent sans contrat stable.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse specialisee et ses lecteurs fideles
+slug: la-presse-specialisee-et-ses-lecteurs-fideles
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment des titres tres cibles ont survecu malgre la crise generale de la presse.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imprimerie rotative et l'acceleration de la production de journaux
+slug: l-imprimerie-rotative-et-l-acceleration-de-la-production-de-journaux
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Une innovation technique qui a permis d'imprimer des millions d'exemplaires rapidement.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journal mural, une presse sans papier ni impression
+slug: le-journal-mural-une-presse-sans-papier-ni-impression
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Une methode ancienne d'affichage de l'information dans l'espace public.
+tags: [presse-ecrite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse coloniale et son role historique ambigu
+slug: la-presse-coloniale-et-son-role-historique-ambigu
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment certains titres ont a la fois informe et servi une propagande officielle.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme d'investigation et ses grandes affaires
+slug: le-journalisme-d-investigation-et-ses-grandes-affaires
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Des enquetes de presse qui ont revele des scandales majeurs au fil de l'histoire.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse feministe et son role dans les luttes sociales
+slug: la-presse-feministe-et-son-role-dans-les-luttes-sociales
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Des titres qui ont porte des revendications longtemps absentes de la presse generaliste.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journal scolaire, une premiere ecole du journalisme
+slug: le-journal-scolaire-une-premiere-ecole-du-journalisme
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment cette pratique educative initie tot a la fabrication de l'information.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse en temps de guerre et la censure militaire
+slug: la-presse-en-temps-de-guerre-et-la-censure-militaire
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment l'information est controlee, filtree ou parfois totalement bloquee en conflit.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le modele economique publicitaire de la presse
+slug: le-modele-economique-publicitaire-de-la-presse
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment la publicite a longtemps finance l'essentiel du journalisme papier.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse gratuite et son modele economique specifique
+slug: la-presse-gratuite-et-son-modele-economique-specifique
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Comment certains titres ont choisi de se financer sans faire payer le lecteur.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de correcteur dans la presse ecrite
+slug: le-metier-de-correcteur-dans-la-presse-ecrite
+categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
+summary: >
+  Un role discret mais essentiel a la qualite et la credibilite d'un journal.
+tags: [presse-ecrite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'invention de la radio et ses pionniers
+slug: l-invention-de-la-radio-et-ses-pionniers
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment la transmission d'ondes a permis de faire voyager la voix sans fil.
+tags: [radio-et-television, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La premiere emission de television regulière
+slug: la-premiere-emission-de-television-reguliere
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Les debuts d'un media qui allait transformer completement le divertissement de masse.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio pendant la Seconde Guerre mondiale
+slug: la-radio-pendant-la-seconde-guerre-mondiale
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment ce media est devenu un outil strategique de propagande et de resistance.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television en couleur, une revolution technique
+slug: la-television-en-couleur-une-revolution-technique
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment le passage du noir et blanc a la couleur a change la perception du petit ecran.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journal televise et l'invention de l'information en direct
+slug: le-journal-televise-et-l-invention-de-l-information-en-direct
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment la television a impose son propre rythme a l'actualite quotidienne.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television par cable et l'explosion du nombre de chaines
+slug: la-television-par-cable-et-l-explosion-du-nombre-de-chaines
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment cette technologie a mis fin au monopole de quelques chaines nationales.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio libre et la fin du monopole d'Etat
+slug: la-radio-libre-et-la-fin-du-monopole-d-etat
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment de nombreux pays ont ouvert progressivement les ondes a des acteurs prives.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le talk-show, un format televisuel devenu universel
+slug: le-talk-show-un-format-televisuel-devenu-universel
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment ce genre a transforme la maniere de traiter l'actualite et le divertissement.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio a l'ere du podcast
+slug: la-radio-a-l-ere-du-podcast
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment un media centenaire s'est reinvente grace au numerique.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television par satellite et sa portee mondiale
+slug: la-television-par-satellite-et-sa-portee-mondiale
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment cette technologie a permis de diffuser au-dela des frontieres terrestres.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le feuilleton radiophonique et ses succes populaires
+slug: le-feuilleton-radiophonique-et-ses-succes-populaires
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Un format ancien qui a captive des audiences massives avant la television.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio d'Etat contre la radio commerciale
+slug: la-radio-d-etat-contre-la-radio-commerciale
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Deux modeles de financement qui influencent directement le contenu diffuse.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television publique et sa mission specifique
+slug: la-television-publique-et-sa-mission-specifique
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Pourquoi certains Etats ont voulu preserver un media non commercial.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sondage d'audience et son influence sur les programmes
+slug: le-sondage-d-audience-et-son-influence-sur-les-programmes
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment un simple chiffre peut determiner le sort d'une emission entiere.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio pirate et la contestation des monopoles
+slug: la-radio-pirate-et-la-contestation-des-monopoles
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Des emetteurs clandestins qui ont force l'ouverture des ondes officielles.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television interactive et le vote en direct
+slug: la-television-interactive-et-le-vote-en-direct
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment certains formats ont tente d'impliquer davantage le public.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le clip musical et son role dans l'histoire de la television
+slug: le-clip-musical-et-son-role-dans-l-histoire-de-la-television
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment ce format court a transforme la promotion de la musique populaire.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio locale et son role communautaire
+slug: la-radio-locale-et-son-role-communautaire
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Des stations de petite echelle qui informent et relient un territoire precis.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television numerique terrestre et la fin de l'analogique
+slug: la-television-numerique-terrestre-et-la-fin-de-l-analogique
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Une transition technique majeure qui a change la reception televisuelle chez soi.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le documentaire televisuel, entre information et spectacle
+slug: le-documentaire-televisuel-entre-information-et-spectacle
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment ce format a construit un genre a part entiere sur le petit ecran.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio a ondes courtes et la diffusion internationale
+slug: la-radio-a-ondes-courtes-et-la-diffusion-internationale
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Une technologie qui a longtemps permis d'ecouter des stations tres eloignees.
+tags: [radio-et-television, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La construction et l'utilisation d'un poste radio a cristal
+slug: la-construction-et-l-utilisation-d-un-poste-radio-a-cristal
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Un recepteur tres simple, sans piles, base uniquement sur l'energie de l'onde captee.
+tags: [radio-et-television, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le poste de television a tube cathodique
+slug: le-poste-de-television-a-tube-cathodique
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Une technologie aujourd'hui obsolete qui a equipe des generations de foyers.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio comme outil d'alerte en cas de catastrophe
+slug: la-radio-comme-outil-d-alerte-en-cas-de-catastrophe
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Pourquoi ce media reste souvent le plus fiable quand d'autres reseaux tombent.
+tags: [radio-et-television, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journal parle, une tradition radiophonique specifique
+slug: le-journal-parle-une-tradition-radiophonique-specifique
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Un format qui a longtemps ete la principale source d'actualite pour beaucoup de foyers.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television en circuit ferme et ses usages historiques
+slug: la-television-en-circuit-ferme-et-ses-usages-historiques
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Un usage discret de la television, distinct de la diffusion grand public.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio amateur, un reseau mondial de passionnes
+slug: la-radio-amateur-un-reseau-mondial-de-passionnes
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Une pratique qui permet de communiquer sur de longues distances sans infrastructure commerciale.
+tags: [radio-et-television, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le brouillage radio pendant la guerre froide
+slug: le-brouillage-radio-pendant-la-guerre-froide
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Comment certains Etats ont tente d'empecher la reception de stations etrangeres.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television scolaire et educative
+slug: la-television-scolaire-et-educative
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Des programmes concus specifiquement pour accompagner l'enseignement.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radio associative et son role social
+slug: la-radio-associative-et-son-role-social
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Des stations a but non lucratif qui donnent une voix a des publics peu representes.
+tags: [radio-et-television]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La propagande de guerre a travers l'histoire
+slug: la-propagande-de-guerre-a-travers-l-histoire
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment les Etats ont toujours cherche a orienter l'opinion en temps de conflit.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rumeurs et leur propagation avant internet
+slug: les-rumeurs-et-leur-propagation-avant-internet
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment une fausse information circulait deja tres vite sans reseaux sociaux.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les theories du complot, mecanismes psychologiques
+slug: les-theories-du-complot-mecanismes-psychologiques
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Pourquoi certaines explications simples seduisent plus que la realite complexe.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bots et comptes automatises de desinformation
+slug: les-bots-et-comptes-automatises-de-desinformation
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment des programmes informatiques amplifient artificiellement certains messages.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fermes a trolls et la desinformation organisee
+slug: les-fermes-a-trolls-et-la-desinformation-organisee
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Des structures coordonnees qui produisent du contenu trompeur a grande echelle.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation en periode electorale
+slug: la-desinformation-en-periode-electorale
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Pourquoi ces episodes concentrent particulierement les tentatives de manipulation.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les chambres d'echo et la polarisation en ligne
+slug: les-chambres-d-echo-et-la-polarisation-en-ligne
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment les algorithmes peuvent enfermer chacun dans des opinions similaires aux siennes.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation medicale et ses consequences sanitaires
+slug: la-desinformation-medicale-et-ses-consequences-sanitaires
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment de fausses informations sur la sante peuvent causer un reel danger.
+tags: [desinformation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fact-checking, methode et limites
+slug: le-fact-checking-methode-et-limites
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment les journalistes verifient une information, et pourquoi ce n'est pas toujours suffisant.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les images sorties de leur contexte
+slug: les-images-sorties-de-leur-contexte
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Une des methodes de desinformation les plus simples et les plus efficaces.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation climatique et ses strategies
+slug: la-desinformation-climatique-et-ses-strategies
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment certains discours ont cherche a semer le doute sur un consensus scientifique.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les deepfakes vocaux et leurs usages malveillants
+slug: les-deepfakes-vocaux-et-leurs-usages-malveillants
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Une technologie qui peut imiter une voix humaine de maniere presque parfaite.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation dans les conflits armes contemporains
+slug: la-desinformation-dans-les-conflits-armes-contemporains
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment l'information est devenue une arme a part entiere sur le terrain.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des algorithmes dans la diffusion de fausses informations
+slug: le-role-des-algorithmes-dans-la-diffusion-de-fausses-informations
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Pourquoi certains contenus trompeurs se propagent plus vite que les corrections.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lutte contre la desinformation par les plateformes
+slug: la-lutte-contre-la-desinformation-par-les-plateformes
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Ce que font, et ne font pas, les grandes plateformes pour limiter ce phenomene.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les canulars historiques celebres avant internet
+slug: les-canulars-historiques-celebres-avant-internet
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Des exemples anciens qui montrent que la fausse information n'est pas un phenomene recent.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation scientifique et le doute fabrique
+slug: la-desinformation-scientifique-et-le-doute-fabrique
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment certaines industries ont finance des etudes pour semer la confusion.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des influenceurs dans la propagation de fausses informations
+slug: le-role-des-influenceurs-dans-la-propagation-de-fausses-informations
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment la confiance envers une personne peut favoriser la diffusion d'erreurs.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation d'Etat et les operations d'influence
+slug: la-desinformation-d-etat-et-les-operations-d-influence
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment certains gouvernements financent des campagnes de manipulation etrangere.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais cognitifs exploites par la desinformation
+slug: les-biais-cognitifs-exploites-par-la-desinformation
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Pourquoi le cerveau humain est naturellement vulnerable a certains types de manipulation.
+tags: [desinformation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La verification des sources en situation d'urgence
+slug: la-verification-des-sources-en-situation-d-urgence
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment distinguer une information fiable d'une rumeur pendant une crise.
+tags: [desinformation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role de l'education dans la resistance a la desinformation
+slug: le-role-de-l-education-dans-la-resistance-a-la-desinformation
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Ce que montrent les etudes sur l'efficacite de la formation a l'esprit critique.
+tags: [desinformation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation sur les reseaux sociaux fermes (messageries privees)
+slug: la-desinformation-sur-les-reseaux-sociaux-fermes-messageries-privees
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Un defi specifique, plus difficile a surveiller que les reseaux publics.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les satires prises pour de vraies informations
+slug: les-satires-prises-pour-de-vraies-informations
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment un contenu humoristique peut etre partage a tort comme information reelle.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation et la sante publique pendant les epidemies
+slug: la-desinformation-et-la-sante-publique-pendant-les-epidemies
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment de fausses informations ont complique la gestion de crises sanitaires reelles.
+tags: [desinformation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des agences de presse dans la lutte contre la desinformation
+slug: le-role-des-agences-de-presse-dans-la-lutte-contre-la-desinformation
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment ces organisations verifient l'information avant sa diffusion massive.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La manipulation d'images avant l'ere numerique
+slug: la-manipulation-d-images-avant-l-ere-numerique
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Des techniques de retouche existaient bien avant les logiciels modernes.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desinformation liee aux catastrophes naturelles
+slug: la-desinformation-liee-aux-catastrophes-naturelles
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Comment de fausses informations circulent particulierement vite en periode de crise.
+tags: [desinformation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des bibliothecaires dans la lutte contre la desinformation
+slug: le-role-des-bibliothecaires-dans-la-lutte-contre-la-desinformation
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Un metier ancien devenu essentiel pour orienter vers des sources fiables.
+tags: [desinformation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience face a la desinformation, competences pratiques
+slug: la-resilience-face-a-la-desinformation-competences-pratiques
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Des methodes simples et concretes pour evaluer soi-meme une information douteuse.
+tags: [desinformation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Distinguer un fait d'une opinion dans un texte
+slug: distinguer-un-fait-d-une-opinion-dans-un-texte
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Une competence de base essentielle avant meme de verifier une source.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Identifier la source originale d'une information
+slug: identifier-la-source-originale-d-une-information
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi remonter a l'origine d'un contenu change souvent sa credibilite percue.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre le modele economique d'un media
+slug: comprendre-le-modele-economique-d-un-media
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi savoir qui finance un media aide a comprendre son angle editorial.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reconnaitre un contenu sponsorise ou publicitaire
+slug: reconnaitre-un-contenu-sponsorise-ou-publicitaire
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des indices simples pour distinguer une information d'un contenu commercial.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Verifier une image avec une recherche inversee
+slug: verifier-une-image-avec-une-recherche-inversee
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Une methode simple et accessible pour retracer l'origine reelle d'une photo.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre les biais de confirmation dans sa propre lecture
+slug: comprendre-les-biais-de-confirmation-dans-sa-propre-lecture
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi on croit plus facilement ce qui confirme deja nos opinions.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Lire une etude scientifique avec esprit critique
+slug: lire-une-etude-scientifique-avec-esprit-critique
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des reperes simples pour evaluer la solidite d'une recherche sans etre expert.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'education aux medias a l'ecole, methodes et objectifs
+slug: l-education-aux-medias-a-l-ecole-methodes-et-objectifs
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Comment certains pays ont integre cette competence des le plus jeune age.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reconnaitre les techniques de manipulation dans un texte
+slug: reconnaitre-les-techniques-de-manipulation-dans-un-texte
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des procedes rhetoriques courants utilises pour orienter l'opinion du lecteur.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre la difference entre correlation et causalite
+slug: comprendre-la-difference-entre-correlation-et-causalite
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Une erreur de raisonnement tres frequente dans l'interpretation de l'actualite.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Verifier la date de publication d'une information partagee
+slug: verifier-la-date-de-publication-d-une-information-partagee
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Un reflexe simple qui evite de partager une vieille information comme actuelle.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre le role de la ligne editoriale d'un media
+slug: comprendre-le-role-de-la-ligne-editoriale-d-un-media
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi deux journaux peuvent traiter le meme fait de maniere tres differente.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Identifier un site satirique ou parodique
+slug: identifier-un-site-satirique-ou-parodique
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des indices simples pour eviter de confondre humour et information reelle.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre comment fonctionne un algorithme de recommandation
+slug: comprendre-comment-fonctionne-un-algorithme-de-recommandation
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Ce qui determine ce que l'on voit en premier sur un fil d'actualite.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Evaluer la credibilite d'un expert cite dans un article
+slug: evaluer-la-credibilite-d-un-expert-cite-dans-un-article
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des questions simples a se poser sur la competence reelle d'une personne citee.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lecture critique des statistiques dans les medias
+slug: la-lecture-critique-des-statistiques-dans-les-medias
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Comment un meme chiffre peut etre presente de maniere trompeuse selon le contexte.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reconnaitre les titres racoleurs et leur ecart avec le contenu
+slug: reconnaitre-les-titres-racoleurs-et-leur-ecart-avec-le-contenu
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi certains titres exagerent volontairement pour attirer l'attention.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre la difference entre journalisme et communication
+slug: comprendre-la-difference-entre-journalisme-et-communication
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Deux metiers souvent confondus, avec des objectifs fondamentalement differents.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'education aux medias pour les personnes agees
+slug: l-education-aux-medias-pour-les-personnes-agees
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des besoins et des vulnerabilites specifiques face aux nouveaux formats d'information.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Verifier une citation attribuee a une personnalite
+slug: verifier-une-citation-attribuee-a-une-personnalite
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Une categorie tres frequente de fausses informations, facile a verifier.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre le fonctionnement d'une chambre d'echo personnelle
+slug: comprendre-le-fonctionnement-d-une-chambre-d-echo-personnelle
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi notre propre reseau social peut deformer notre perception du monde.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Utiliser plusieurs sources pour verifier une meme information
+slug: utiliser-plusieurs-sources-pour-verifier-une-meme-information
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Une methode simple, appelee recoupement, essentielle a tout esprit critique.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reconnaitre un compte automatise sur les reseaux sociaux
+slug: reconnaitre-un-compte-automatise-sur-les-reseaux-sociaux
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des indices comportementaux qui trahissent souvent un compte non humain.
+tags: [education-aux-medias]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre le role du contexte culturel dans l'interpretation d'une information
+slug: comprendre-le-role-du-contexte-culturel-dans-l-interpretation-d-une-information
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi une meme information peut etre percue tres differemment selon le pays.
+tags: [education-aux-medias]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Enseigner l'esprit critique sans decourager la confiance
+slug: enseigner-l-esprit-critique-sans-decourager-la-confiance
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Un equilibre delicat entre vigilance necessaire et mefiance excessive.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Verifier l'authenticite d'une video partagee en ligne
+slug: verifier-l-authenticite-d-une-video-partagee-en-ligne
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des methodes accessibles pour reperer un montage ou une manipulation.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comprendre les limites de sa propre expertise sur un sujet
+slug: comprendre-les-limites-de-sa-propre-expertise-sur-un-sujet
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Pourquoi l'humilite intellectuelle reste une des meilleures defenses contre l'erreur.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'education aux medias dans les zones a faible acces internet
+slug: l-education-aux-medias-dans-les-zones-a-faible-acces-internet
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Des methodes adaptees a des contextes ou l'information circule differemment.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reconnaitre l'ironie et le second degre dans un texte ecrit
+slug: reconnaitre-l-ironie-et-le-second-degre-dans-un-texte-ecrit
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Un exercice difficile, source frequente de malentendus en ligne.
+tags: [education-aux-medias]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Construire sa propre liste de sources fiables et diversifiees
+slug: construire-sa-propre-liste-de-sources-fiables-et-diversifiees
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Une methode pratique pour s'informer sans dependre d'une seule perspective.
+tags: [education-aux-medias, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les regles deontologiques du journalisme
+slug: les-regles-deontologiques-du-journalisme
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un ensemble de principes qui encadrent la pratique professionnelle de l'information.
+tags: [journalisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La verification des faits avant publication
+slug: la-verification-des-faits-avant-publication
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Une etape essentielle du travail journalistique, souvent invisible pour le lecteur.
+tags: [journalisme, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme de donnees et l'usage des chiffres
+slug: le-journalisme-de-donnees-et-l-usage-des-chiffres
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment analyser de grandes quantites de donnees pour raconter une histoire.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lanceur d'alerte et la protection des sources
+slug: le-lanceur-d-alerte-et-la-protection-des-sources
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un role essentiel a certaines revelations, mais juridiquement fragile.
+tags: [journalisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme d'investigation et ses methodes d'enquete
+slug: le-journalisme-d-investigation-et-ses-methodes-d-enquete
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Des techniques longues et rigoureuses pour reveler des faits caches.
+tags: [journalisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les prix journalistiques et leur role dans la profession
+slug: les-prix-journalistiques-et-leur-role-dans-la-profession
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment ces recompenses valorisent certaines pratiques exemplaires du metier.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reportage de terrain et ses contraintes
+slug: le-reportage-de-terrain-et-ses-contraintes
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Ce qu'implique concretement d'aller chercher l'information sur place.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La deontologie de l'image en journalisme
+slug: la-deontologie-de-l-image-en-journalisme
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Des questions ethiques specifiques liees a la diffusion de photos choquantes.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme scientifique, vulgariser sans deformer
+slug: le-journalisme-scientifique-vulgariser-sans-deformer
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un exercice d'equilibre entre accessibilite et exactitude scientifique.
+tags: [journalisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le statut juridique du journaliste
+slug: le-statut-juridique-du-journaliste
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Ce que la loi reconnait, et protege, specifiquement pour cette profession.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La redaction en chef et l'organisation d'un media
+slug: la-redaction-en-chef-et-l-organisation-d-un-media
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment se prennent concretement les decisions editoriales quotidiennes.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme independant et les nouveaux modeles de financement
+slug: le-journalisme-independant-et-les-nouveaux-modeles-de-financement
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment certains journalistes se passent desormais des medias traditionnels.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des journalistes et les ecoles specialisees
+slug: la-formation-des-journalistes-et-les-ecoles-specialisees
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment on apprend aujourd'hui ce metier en constante evolution.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme de solutions, changer d'angle sur l'actualite
+slug: le-journalisme-de-solutions-changer-d-angle-sur-l-actualite
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Une approche qui cherche a montrer des reponses plutot que seulement des problemes.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques du metier de journaliste dans le monde
+slug: les-risques-du-metier-de-journaliste-dans-le-monde
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un panorama des dangers reels encourus dans certains pays pour informer.
+tags: [journalisme]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme local face a la desertification de l'information
+slug: le-journalisme-local-face-a-la-desertification-de-l-information
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment certaines regions se retrouvent sans couverture mediatique de proximite.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de reponse et son fonctionnement
+slug: le-droit-de-reponse-et-son-fonctionnement
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un mecanisme legal qui permet a une personne citee de reagir publiquement.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme sportif et ses codes specifiques
+slug: le-journalisme-sportif-et-ses-codes-specifiques
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un genre a part, entre information factuelle et recit passionne.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La couverture mediatique des catastrophes naturelles
+slug: la-couverture-mediatique-des-catastrophes-naturelles
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Des defis particuliers pour informer vite tout en restant exact.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme economique et sa complexite technique
+slug: le-journalisme-economique-et-sa-complexite-technique
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment rendre accessibles des sujets financiers souvent tres techniques.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les agences de presse et leur role invisible
+slug: les-agences-de-presse-et-leur-role-invisible
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment une meme depeche alimente souvent des dizaines de medias differents.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme participatif et les contenus envoyes par le public
+slug: le-journalisme-participatif-et-les-contenus-envoyes-par-le-public
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment certains medias integrent des temoignages directs de citoyens.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La couverture journalistique des proces
+slug: la-couverture-journalistique-des-proces
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Des regles specifiques qui encadrent le traitement mediatique de la justice.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme culturel et la critique artistique
+slug: le-journalisme-culturel-et-la-critique-artistique
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un genre qui combine information, analyse et jugement personnel assume.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La presse etudiante et sa formation aux pratiques journalistiques
+slug: la-presse-etudiante-et-sa-formation-aux-pratiques-journalistiques
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment ce type de media forme souvent les futurs professionnels de l'information.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme d'exploration et le grand reportage
+slug: le-journalisme-d-exploration-et-le-grand-reportage
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Un genre ancien qui privilegie le temps long et l'immersion sur le terrain.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les correspondants a l'etranger et leur role specifique
+slug: les-correspondants-a-l-etranger-et-leur-role-specifique
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment ces journalistes couvrent l'actualite internationale depuis le terrain meme.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le journalisme et la pression des annonceurs
+slug: le-journalisme-et-la-pression-des-annonceurs
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Une tension permanente entre independance editoriale et financement publicitaire.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La verification collaborative de l'information en ligne
+slug: la-verification-collaborative-de-l-information-en-ligne
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Comment des communautes de journalistes et de citoyens verifient ensemble des faits.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du mediateur ou ombudsman dans une redaction
+slug: le-role-du-mediateur-ou-ombudsman-dans-une-redaction
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Une fonction interne chargee de recevoir les critiques du public sur le media.
+tags: [journalisme]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les regles de moderation des grandes plateformes
+slug: les-regles-de-moderation-des-grandes-plateformes
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Ce que les conditions d'utilisation interdisent reellement, et comment c'est applique.
+tags: [plateformes-et-moderation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier de moderateur de contenu
+slug: le-metier-de-moderateur-de-contenu
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Un travail souvent invisible, expose a des contenus difficiles au quotidien.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation automatisee par intelligence artificielle
+slug: la-moderation-automatisee-par-intelligence-artificielle
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Ce que les algorithmes detectent bien, et ce qui leur echappe encore.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le signalement de contenu par les utilisateurs
+slug: le-signalement-de-contenu-par-les-utilisateurs
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Comment ce mecanisme simple alimente une grande partie du travail de moderation.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation des contenus violents et choquants
+slug: la-moderation-des-contenus-violents-et-choquants
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Des criteres complexes a appliquer de maniere coherente a l'echelle mondiale.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le retrait de contenu et le droit a la liberte d'expression
+slug: le-retrait-de-contenu-et-le-droit-a-la-liberte-d-expression
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Une tension permanente entre securite et libertes individuelles en ligne.
+tags: [plateformes-et-moderation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation multilingue et ses defis
+slug: la-moderation-multilingue-et-ses-defis
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Pourquoi appliquer les memes regles dans toutes les langues du monde est complexe.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les conseils de surveillance independants des plateformes
+slug: les-conseils-de-surveillance-independants-des-plateformes
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Comment certaines entreprises ont cree des instances externes de decision.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation des discours de haine en ligne
+slug: la-moderation-des-discours-de-haine-en-ligne
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Des criteres qui varient selon les pays et les cultures juridiques.
+tags: [plateformes-et-moderation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le shadowban, une moderation invisible et controversee
+slug: le-shadowban-une-moderation-invisible-et-controversee
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Une pratique qui reduit la visibilite d'un contenu sans le supprimer explicitement.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation des contenus lies aux mineurs
+slug: la-moderation-des-contenus-lies-aux-mineurs
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Des regles particulierement strictes pour proteger les plus jeunes utilisateurs.
+tags: [plateformes-et-moderation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les traumatismes psychologiques des moderateurs de contenu
+slug: les-traumatismes-psychologiques-des-moderateurs-de-contenu
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Un cout humain souvent ignore d'un travail expose a des images choquantes.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation dans les jeux video en ligne
+slug: la-moderation-dans-les-jeux-video-en-ligne
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Des enjeux specifiques lies aux interactions en temps reel entre joueurs.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des lois nationales dans la moderation des plateformes
+slug: le-role-des-lois-nationales-dans-la-moderation-des-plateformes
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Comment differents pays imposent des obligations parfois contradictoires.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation des campagnes de desinformation coordonnee
+slug: la-moderation-des-campagnes-de-desinformation-coordonnee
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Des methodes specifiques pour detecter des reseaux de comptes lies.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'appel d'une decision de moderation par un utilisateur
+slug: l-appel-d-une-decision-de-moderation-par-un-utilisateur
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Un processus qui existe, mais dont l'efficacite reste variable selon les plateformes.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation des contenus commerciaux et publicitaires
+slug: la-moderation-des-contenus-commerciaux-et-publicitaires
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Des regles distinctes de celles qui s'appliquent aux contenus personnels.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La transparence des plateformes sur leurs pratiques de moderation
+slug: la-transparence-des-plateformes-sur-leurs-pratiques-de-moderation
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Ce que les entreprises publient, ou refusent de publier, sur leurs decisions.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La moderation des messages prives, un defi different
+slug: la-moderation-des-messages-prives-un-defi-different
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Pourquoi surveiller des echanges chiffres pose des questions ethiques specifiques.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout economique de la moderation pour les plateformes
+slug: le-cout-economique-de-la-moderation-pour-les-plateformes
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Combien coute reellement la surveillance de milliards de publications quotidiennes.
+tags: [plateformes-et-moderation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des premiers reseaux sociaux en ligne
+slug: l-histoire-des-premiers-reseaux-sociaux-en-ligne
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Des plateformes aujourd'hui oubliees qui ont pose les bases du concept.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fil d'actualite et son organisation algorithmique
+slug: le-fil-d-actualite-et-son-organisation-algorithmique
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Pourquoi ce que vous voyez n'est jamais un simple ordre chronologique.
+tags: [reseaux-sociaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux visuels et l'importance de l'image
+slug: les-reseaux-sociaux-visuels-et-l-importance-de-l-image
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment certaines plateformes ont fait de la photo leur format central.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux professionnels et leur usage specifique
+slug: les-reseaux-sociaux-professionnels-et-leur-usage-specifique
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Une categorie distincte, centree sur la carriere plutot que le loisir.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree d'attention et le design addictif des reseaux sociaux
+slug: la-duree-d-attention-et-le-design-addictif-des-reseaux-sociaux
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment certaines fonctionnalites sont concues pour capter l'attention le plus longtemps possible.
+tags: [reseaux-sociaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux ephemeres et le contenu qui disparait
+slug: les-reseaux-sociaux-ephemeres-et-le-contenu-qui-disparait
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Un format qui a change les habitudes de partage en ligne.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'influence des reseaux sociaux sur l'estime de soi
+slug: l-influence-des-reseaux-sociaux-sur-l-estime-de-soi
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Ce que les etudes montrent sur le lien entre usage intensif et bien-etre psychologique.
+tags: [reseaux-sociaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les groupes prives sur les reseaux sociaux
+slug: les-groupes-prives-sur-les-reseaux-sociaux
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Des espaces moins visibles qui echappent en partie a la moderation publique.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le metier d'influenceur et son modele economique
+slug: le-metier-d-influenceur-et-son-modele-economique
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment une audience en ligne peut devenir une source de revenus reguliere.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux decentralises, une alternative aux grandes plateformes
+slug: les-reseaux-sociaux-decentralises-une-alternative-aux-grandes-plateformes
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Des projets qui tentent de repartir le pouvoir habituellement concentre.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La viralite, comment un contenu se propage massivement
+slug: la-viralite-comment-un-contenu-se-propage-massivement
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Les mecanismes qui expliquent pourquoi certains contenus explosent en popularite.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux et la mobilisation politique
+slug: les-reseaux-sociaux-et-la-mobilisation-politique
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment ces plateformes ont joue un role dans plusieurs mouvements sociaux recents.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La publicite ciblee sur les reseaux sociaux
+slug: la-publicite-ciblee-sur-les-reseaux-sociaux
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment vos donnees personnelles determinent les annonces que vous voyez.
+tags: [reseaux-sociaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux pour enfants et leurs specificites
+slug: les-reseaux-sociaux-pour-enfants-et-leurs-specificites
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Des plateformes concues avec des regles differentes pour un public plus jeune.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cyberharcelement sur les reseaux sociaux
+slug: le-cyberharcelement-sur-les-reseaux-sociaux
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Un phenomene qui touche particulierement les jeunes utilisateurs.
+tags: [reseaux-sociaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux et la comparaison sociale
+slug: les-reseaux-sociaux-et-la-comparaison-sociale
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment l'exposition constante a la vie des autres influence notre perception.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La monetisation directe des createurs de contenu
+slug: la-monetisation-directe-des-createurs-de-contenu
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment certaines plateformes remunerent directement leurs utilisateurs les plus actifs.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tendances et les hashtags, organiser une conversation mondiale
+slug: les-tendances-et-les-hashtags-organiser-une-conversation-mondiale
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Comment un simple symbole permet de regrouper des millions de publications.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux sociaux et la sante mentale des adolescents
+slug: les-reseaux-sociaux-et-la-sante-mentale-des-adolescents
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Un sujet de preoccupation croissante chez les chercheurs et les parents.
+tags: [reseaux-sociaux]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie moyenne d'une plateforme sociale
+slug: la-duree-de-vie-moyenne-d-une-plateforme-sociale
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Pourquoi certains reseaux autrefois dominants ont fini par disparaitre.
+tags: [reseaux-sociaux]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le premier site internet de l'histoire
+slug: le-premier-site-internet-de-l-histoire
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Une page tres simple qui a inaugure ce qui allait devenir le web moderne.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le langage HTML, structurer une page web
+slug: le-langage-html-structurer-une-page-web
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Le code de base qui permet de construire n'importe quelle page internet.
+tags: [web, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le navigateur web et son evolution technique
+slug: le-navigateur-web-et-son-evolution-technique
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment cet outil quotidien a change radicalement en quelques decennies.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moteur de recherche et son principe de fonctionnement
+slug: le-moteur-de-recherche-et-son-principe-de-fonctionnement
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment un algorithme trie des milliards de pages en une fraction de seconde.
+tags: [web]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le referencement naturel et son influence sur le web
+slug: le-referencement-naturel-et-son-influence-sur-le-web
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment les sites optimisent leur contenu pour apparaitre en premier dans les recherches.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le web 2.0 et l'arrivee du contenu genere par les utilisateurs
+slug: le-web-2-0-et-l-arrivee-du-contenu-genere-par-les-utilisateurs
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Un changement majeur qui a transforme les internautes en producteurs de contenu.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le blog, un format pionnier du web personnel
+slug: le-blog-un-format-pionnier-du-web-personnel
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment ce format simple a permis a chacun de publier en ligne.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le commerce en ligne et sa transformation du web
+slug: le-commerce-en-ligne-et-sa-transformation-du-web
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment internet est devenu un lieu d'achat autant que d'information.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cookies et le suivi des internautes
+slug: les-cookies-et-le-suivi-des-internautes
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Une technologie discrete qui permet de suivre le comportement de navigation.
+tags: [web]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le web semantique et ses promesses non tenues
+slug: le-web-semantique-et-ses-promesses-non-tenues
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Une vision ambitieuse du web qui n'a jamais totalement vu le jour.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La neutralite du net, un principe fondateur
+slug: la-neutralite-du-net-un-principe-fondateur
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Pourquoi ce principe garantit un traitement egal de toutes les donnees qui circulent.
+tags: [web]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nom de domaine et son fonctionnement
+slug: le-nom-de-domaine-et-son-fonctionnement
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment un simple mot se transforme en adresse pour un site internet.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de noms de domaine (DNS)
+slug: le-systeme-de-noms-de-domaine-dns
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  L'annuaire invisible qui traduit les adresses en langage comprehensible par les machines.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le web mobile et l'adaptation des sites aux smartphones
+slug: le-web-mobile-et-l-adaptation-des-sites-aux-smartphones
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment la navigation sur petit ecran a change la conception des sites.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'accessibilite numerique des sites web
+slug: l-accessibilite-numerique-des-sites-web
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Pourquoi concevoir un site pensant aux personnes en situation de handicap.
+tags: [web]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le web profond et le web sombre, distinguer les deux
+slug: le-web-profond-et-le-web-sombre-distinguer-les-deux
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Une confusion frequente entre deux notions techniques bien differentes.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les certificats de securite et le protocole HTTPS
+slug: les-certificats-de-securite-et-le-protocole-https
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment on garantit qu'une connexion a un site reste confidentielle.
+tags: [web]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le web archivage et la memoire d'internet
+slug: le-web-archivage-et-la-memoire-d-internet
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment certains projets sauvegardent des versions anciennes de sites disparus.
+tags: [web, essentiel-reconstruction]
+priority: 3
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format PDF et sa place dans le partage de documents
+slug: le-format-pdf-et-sa-place-dans-le-partage-de-documents
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Un format concu pour preserver exactement la mise en page d'un document.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les CMS et la democratisation de la creation de sites web
+slug: les-cms-et-la-democratisation-de-la-creation-de-sites-web
+categoryPath: communication-et-medias/medias-numeriques/web
+summary: >
+  Comment des outils simples ont permis a chacun de creer un site sans coder.
+tags: [web]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cable telephonique en cuivre, une technologie centenaire
+slug: le-cable-telephonique-en-cuivre-une-technologie-centenaire
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  La technologie qui a longtemps porte a la fois la voix et internet.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe physique de la fibre optique
+slug: le-principe-physique-de-la-fibre-optique
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Comment la lumiere transporte l'information a une vitesse extremement rapide.
+tags: [fibre-et-reseaux-fixes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le deploiement de la fibre optique dans les territoires ruraux
+slug: le-deploiement-de-la-fibre-optique-dans-les-territoires-ruraux
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Un defi logistique et economique different de celui des zones urbaines denses.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le raccordement final chez l'abonne, un point critique
+slug: le-raccordement-final-chez-l-abonne-un-point-critique
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Pourquoi le dernier segment d'un reseau reste souvent le plus complexe a installer.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ADSL, une technologie de transition vers le tres haut debit
+slug: l-adsl-une-technologie-de-transition-vers-le-tres-haut-debit
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Comment cette technologie a exploite le reseau telephonique existant.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux de telecommunication sous-marins
+slug: les-reseaux-de-telecommunication-sous-marins
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Des cables geants qui relient les continents et transportent l'essentiel du trafic internet mondial.
+tags: [fibre-et-reseaux-fixes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reparation d'un cable sous-marin endommage
+slug: la-reparation-d-un-cable-sous-marin-endommage
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Une operation technique complexe realisee par des navires specialises.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le multiplexage, faire circuler plusieurs signaux sur un meme cable
+slug: le-multiplexage-faire-circuler-plusieurs-signaux-sur-un-meme-cable
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Une technique qui optimise l'usage d'une infrastructure couteuse a installer.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fin programmee du reseau telephonique cuivre
+slug: la-fin-programmee-du-reseau-telephonique-cuivre
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Comment plusieurs pays organisent la transition complete vers la fibre.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux fixes en zone de conflit ou de catastrophe
+slug: les-reseaux-fixes-en-zone-de-conflit-ou-de-catastrophe
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Comment retablir une connexion quand l'infrastructure a ete detruite.
+tags: [fibre-et-reseaux-fixes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le peering, comment les operateurs echangent le trafic internet
+slug: le-peering-comment-les-operateurs-echangent-le-trafic-internet
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Des accords techniques discrets qui garantissent la fluidite globale du reseau.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite de service et la garantie de debit
+slug: la-qualite-de-service-et-la-garantie-de-debit
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Ce que les operateurs s'engagent, ou non, a fournir contractuellement.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le partage des infrastructures fixes entre operateurs
+slug: le-partage-des-infrastructures-fixes-entre-operateurs
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Pourquoi plusieurs entreprises utilisent parfois le meme reseau physique.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les box internet et leur role dans le reseau domestique
+slug: les-box-internet-et-leur-role-dans-le-reseau-domestique
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Comment cet appareil central connecte tous les equipements d'un foyer.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fibre optique et la reduction de la consommation energetique des reseaux
+slug: la-fibre-optique-et-la-reduction-de-la-consommation-energetique-des-reseaux
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Pourquoi cette technologie consomme moins d'energie que le cuivre a debit egal.
+tags: [fibre-et-reseaux-fixes, essentiel-reconstruction]
+priority: 3
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau fixe professionnel et ses exigences specifiques
+slug: le-reseau-fixe-professionnel-et-ses-exigences-specifiques
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Des besoins de fiabilite et de securite superieurs a un usage domestique classique.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du premier reseau telephonique national
+slug: l-histoire-du-premier-reseau-telephonique-national
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Comment un pays a progressivement connecte l'ensemble de son territoire.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le central telephonique, coeur historique du reseau fixe
+slug: le-central-telephonique-coeur-historique-du-reseau-fixe
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Un lieu physique essentiel avant l'ere entierement numerique des telecommunications.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fracture numerique territoriale et l'acces au tres haut debit
+slug: la-fracture-numerique-territoriale-et-l-acces-au-tres-haut-debit
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Pourquoi certaines regions restent moins bien connectees que d'autres.
+tags: [fibre-et-reseaux-fixes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le raccordement en aerien contre en souterrain
+slug: le-raccordement-en-aerien-contre-en-souterrain
+categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
+summary: >
+  Deux methodes d'installation avec des couts et des risques tres differents.
+tags: [fibre-et-reseaux-fixes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La premiere generation de reseau mobile analogique
+slug: la-premiere-generation-de-reseau-mobile-analogique
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Les debuts de la telephonie sans fil, bien avant le smartphone moderne.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le passage du reseau 2G au reseau 3G
+slug: le-passage-du-reseau-2g-au-reseau-3g
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment cette transition a permis l'usage massif d'internet sur mobile.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le SMS, un format ne d'une contrainte technique
+slug: le-sms-un-format-ne-d-une-contrainte-technique
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment une limite de 160 caracteres a change durablement la communication.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'antenne relais, principe et fonctionnement
+slug: l-antenne-relais-principe-et-fonctionnement
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Un element discret mais indispensable au fonctionnement du reseau mobile.
+tags: [reseaux-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La couverture mobile en zone rurale
+slug: la-couverture-mobile-en-zone-rurale
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Un enjeu d'amenagement du territoire autant que technique.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'itinerance mobile et les accords entre operateurs
+slug: l-itinerance-mobile-et-les-accords-entre-operateurs
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment votre telephone continue de fonctionner en changeant de pays.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le roaming international et son evolution tarifaire
+slug: le-roaming-international-et-son-evolution-tarifaire
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment les couts d'usage a l'etranger ont evolue avec la reglementation.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La saturation du reseau mobile lors des grands evenements
+slug: la-saturation-du-reseau-mobile-lors-des-grands-evenements
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Pourquoi le reseau peut devenir inutilisable meme avec une bonne couverture.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frequences radio et leur attribution aux operateurs
+slug: les-frequences-radio-et-leur-attribution-aux-operateurs
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Une ressource limitee dont la repartition fait l'objet d'encheres publiques.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau mobile en situation de catastrophe naturelle
+slug: le-reseau-mobile-en-situation-de-catastrophe-naturelle
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment on retablit une communication d'urgence quand l'infrastructure est endommagee.
+tags: [reseaux-mobiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les stations mobiles temporaires deployables
+slug: les-stations-mobiles-temporaires-deployables
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Des antennes mobiles utilisees pour renforcer un reseau lors d'un evenement ou d'une crise.
+tags: [reseaux-mobiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation energetique des reseaux mobiles
+slug: la-consommation-energetique-des-reseaux-mobiles
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Un enjeu environnemental souvent sous-estime de l'infrastructure numerique.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le partage de reseau mobile entre operateurs concurrents
+slug: le-partage-de-reseau-mobile-entre-operateurs-concurrents
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment des entreprises rivales mutualisent parfois leurs infrastructures.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La telephonie mobile par satellite
+slug: la-telephonie-mobile-par-satellite
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Une alternative pour les zones totalement depourvues de reseau terrestre.
+tags: [reseaux-mobiles, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution de la carte SIM vers l'eSIM
+slug: l-evolution-de-la-carte-sim-vers-l-esim
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment une puce physique a progressivement ete remplacee par une solution logicielle.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau mobile prive pour les entreprises
+slug: le-reseau-mobile-prive-pour-les-entreprises
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Des infrastructures dediees, distinctes du reseau grand public.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des communications mobiles
+slug: la-securite-des-communications-mobiles
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Comment les appels et donnees sont proteges, ou parfois vulnerables, sur ce reseau.
+tags: [reseaux-mobiles]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le handover, changer d'antenne sans interrompre la communication
+slug: le-handover-changer-d-antenne-sans-interrompre-la-communication
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Un mecanisme invisible qui permet de rester connecte en se deplacant.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reglementation du demarchage telephonique
+slug: la-reglementation-du-demarchage-telephonique
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Des lois qui tentent d'encadrer un usage souvent percu comme intrusif.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau mobile dans les transports en mouvement
+slug: le-reseau-mobile-dans-les-transports-en-mouvement
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Des defis techniques specifiques pour maintenir une connexion a grande vitesse.
+tags: [reseaux-mobiles]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le premier satellite de telecommunication
+slug: le-premier-satellite-de-telecommunication
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Comment cette technologie a permis les premieres liaisons transcontinentales directes.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'orbite geostationnaire et son utilite pour les telecommunications
+slug: l-orbite-geostationnaire-et-son-utilite-pour-les-telecommunications
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Pourquoi certains satellites semblent rester fixes au-dessus d'un meme point.
+tags: [satellites]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La television par satellite, principe technique
+slug: la-television-par-satellite-principe-technique
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Comment un signal parcourt des milliers de kilometres avant d'arriver chez vous.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les satellites de navigation et le positionnement mondial
+slug: les-satellites-de-navigation-et-le-positionnement-mondial
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Comment une constellation entiere permet de connaitre sa position sur Terre.
+tags: [satellites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le delai de transmission satellite et ses consequences pratiques
+slug: le-delai-de-transmission-satellite-et-ses-consequences-pratiques
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Pourquoi une communication par satellite n'est jamais totalement instantanee.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les terminaux satellites individuels et leur usage croissant
+slug: les-terminaux-satellites-individuels-et-leur-usage-croissant
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Comment des particuliers accedent desormais directement a une connexion satellite.
+tags: [satellites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lancement d'un satellite de telecommunication
+slug: le-lancement-d-un-satellite-de-telecommunication
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Les etapes necessaires avant qu'un satellite ne soit operationnel en orbite.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie d'un satellite de telecommunication
+slug: la-duree-de-vie-d-un-satellite-de-telecommunication
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Pourquoi ces appareils doivent etre remplaces regulierement malgre leur cout eleve.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debris spatiaux et le risque pour les satellites actifs
+slug: les-debris-spatiaux-et-le-risque-pour-les-satellites-actifs
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Un encombrement croissant de l'orbite terrestre qui menace les infrastructures existantes.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La telephonie satellite pour les zones isolees
+slug: la-telephonie-satellite-pour-les-zones-isolees
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Une solution de connexion la ou aucune autre infrastructure n'est disponible.
+tags: [satellites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les satellites d'observation et leur difference avec les satellites de telecommunication
+slug: les-satellites-d-observation-et-leur-difference-avec-les-satellites-de-telecommunication
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Deux usages tres distincts d'une meme technologie orbitale.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La concurrence entre constellations de satellites en orbite basse
+slug: la-concurrence-entre-constellations-de-satellites-en-orbite-basse
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Comment plusieurs entreprises rivalisent pour couvrir la planete d'internet par satellite.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout d'acces a une connexion internet par satellite
+slug: le-cout-d-acces-a-une-connexion-internet-par-satellite
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Pourquoi cette technologie reste generalement plus chere qu'une connexion terrestre.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les satellites militaires de communication
+slug: les-satellites-militaires-de-communication
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Des infrastructures strategiques, souvent distinctes des usages civils.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience des communications satellites face aux catastrophes
+slug: la-resilience-des-communications-satellites-face-aux-catastrophes
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Pourquoi cette technologie reste fonctionnelle quand les reseaux terrestres tombent.
+tags: [satellites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le brouillage des signaux satellites
+slug: le-brouillage-des-signaux-satellites
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Une menace technique qui peut perturber gravement les communications concernees.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La station terrestre, point de contact avec le satellite
+slug: la-station-terrestre-point-de-contact-avec-le-satellite
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Une infrastructure au sol indispensable au fonctionnement de tout reseau satellite.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frequences reservees aux communications satellites
+slug: les-frequences-reservees-aux-communications-satellites
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Comment on evite les interferences entre les nombreux systemes en orbite.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la course aux satellites de telecommunication
+slug: l-histoire-de-la-course-aux-satellites-de-telecommunication
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Une rivalite technologique et politique nee en pleine guerre froide.
+tags: [satellites]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les satellites de secours pour la continuite des communications critiques
+slug: les-satellites-de-secours-pour-la-continuite-des-communications-critiques
+categoryPath: communication-et-medias/telecommunications/satellites
+summary: >
+  Comment certains systemes redondants garantissent qu'une communication essentielle ne soit jamais coupee.
+tags: [satellites, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.

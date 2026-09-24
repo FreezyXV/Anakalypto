@@ -2628,3 +2628,4893 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: Le modele relationnel, principe fondamental des bases de donnees
+slug: le-modele-relationnel-principe-fondamental-des-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment organiser l'information en tables reliees entre elles.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cles primaires et etrangeres dans une base de donnees
+slug: les-cles-primaires-et-etrangeres-dans-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Deux concepts essentiels qui structurent les relations entre les donnees.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation d'une base de donnees
+slug: la-normalisation-d-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une methode qui evite la duplication inutile d'informations.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les transactions et la coherence des donnees
+slug: les-transactions-et-la-coherence-des-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment on garantit qu'une operation complexe reussit entierement ou pas du tout.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees orientees graphe
+slug: les-bases-de-donnees-orientees-graphe
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une approche differente, adaptee aux donnees fortement interconnectees.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'indexation dans une base de donnees
+slug: l-indexation-dans-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une technique qui accelere considerablement la recherche d'information.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees en memoire, plus rapides mais plus fragiles
+slug: les-bases-de-donnees-en-memoire-plus-rapides-mais-plus-fragiles
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un compromis entre vitesse d'acces et securite de la donnee.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La replication des bases de donnees
+slug: la-replication-des-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment on duplique une base pour eviter de perdre des donnees en cas de panne.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le big data, au-dela du simple volume
+slug: le-big-data-au-dela-du-simple-volume
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Trois caracteristiques qui definissent reellement ce concept souvent mal compris.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'analyse de donnees a grande echelle
+slug: l-analyse-de-donnees-a-grande-echelle
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment on extrait des tendances utiles a partir de volumes massifs d'informations.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le RGPD et la protection des donnees personnelles
+slug: le-rgpd-et-la-protection-des-donnees-personnelles
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un cadre juridique europeen qui encadre l'usage des donnees des individus.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'anonymisation des donnees personnelles
+slug: l-anonymisation-des-donnees-personnelles
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Des techniques qui permettent d'exploiter des donnees sans identifier les personnes.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Wikipedia et le modele des donnees ouvertes
+slug: wikipedia-et-le-modele-des-donnees-ouvertes
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment un projet collaboratif a construit une encyclopedie librement reutilisable.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les donnees ouvertes (open data) et leur usage public
+slug: les-donnees-ouvertes-open-data-et-leur-usage-public
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment des administrations rendent accessibles des informations d'interet general.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs de recherche internes aux sites web
+slug: les-moteurs-de-recherche-internes-aux-sites-web
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment un site organise et rend accessible son propre contenu.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le langage SQL, interroger une base de donnees
+slug: le-langage-sql-interroger-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un langage specifique qui permet de poser des questions precises a une base de donnees.
+tags: [bases-de-donnees]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases NoSQL et leurs usages specifiques
+slug: les-bases-nosql-et-leurs-usages-specifiques
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une alternative au modele relationnel, adaptee a certains types de donnees.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sauvegarde reguliere d'une base de donnees
+slug: la-sauvegarde-reguliere-d-une-base-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une pratique essentielle pour eviter une perte totale en cas d'incident.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des bases de donnees sensibles
+slug: la-securite-des-bases-de-donnees-sensibles
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Des mesures specifiques necessaires pour proteger des informations critiques.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les entrepots de donnees et l'analyse decisionnelle
+slug: les-entrepots-de-donnees-et-l-analyse-decisionnelle
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment de grandes organisations centralisent leurs donnees pour mieux les analyser.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement des bases de donnees
+slug: le-chiffrement-des-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Une protection supplementaire pour des informations particulierement sensibles.
+tags: [bases-de-donnees, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees distribuees geographiquement
+slug: les-bases-de-donnees-distribuees-geographiquement
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment on repartit une meme base sur plusieurs sites pour ameliorer la fiabilite.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'historique des systemes de gestion de bases de donnees
+slug: l-historique-des-systemes-de-gestion-de-bases-de-donnees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment cette technologie a evolue depuis les premiers fichiers informatiques.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les requetes complexes et l'optimisation des performances
+slug: les-requetes-complexes-et-l-optimisation-des-performances
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment on ecrit une demande a une base de donnees pour qu'elle reste rapide.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees dans les systemes bancaires
+slug: les-bases-de-donnees-dans-les-systemes-bancaires
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Des exigences de fiabilite et de securite particulierement elevees.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La migration d'une base de donnees vers un nouveau systeme
+slug: la-migration-d-une-base-de-donnees-vers-un-nouveau-systeme
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un processus delicat qui doit preserver l'integrite de toutes les informations.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de donnees scientifiques partagees
+slug: les-bases-de-donnees-scientifiques-partagees
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Comment les chercheurs mutualisent leurs donnees pour accelerer la recherche.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite des donnees et son controle
+slug: la-qualite-des-donnees-et-son-controle
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Pourquoi une donnee erronee peut fausser l'ensemble d'une analyse.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les licences de donnees ouvertes et leur diversite
+slug: les-licences-de-donnees-ouvertes-et-leur-diversite
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Differents niveaux de liberte accordes pour la reutilisation d'une meme donnee.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation a long terme des bases de donnees historiques
+slug: la-conservation-a-long-terme-des-bases-de-donnees-historiques
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Un defi technique face a l'obsolescence rapide des formats informatiques.
+tags: [bases-de-donnees]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme binaire, base de toute l'informatique
+slug: le-systeme-binaire-base-de-toute-l-informatique
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment deux simples chiffres suffisent a representer n'importe quelle information.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'octet, une unite fondamentale de mesure informatique
+slug: l-octet-une-unite-fondamentale-de-mesure-informatique
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment on organise les bits en groupes pour representer des donnees plus complexes.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le codage ASCII, les premiers caracteres informatiques
+slug: le-codage-ascii-les-premiers-caracteres-informatiques
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un standard ancien qui a defini comment representer numeriquement les lettres.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'Unicode, representer toutes les langues du monde
+slug: l-unicode-representer-toutes-les-langues-du-monde
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une extension necessaire pour depasser les limites des premiers codages de texte.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression sans perte, principe general
+slug: la-compression-sans-perte-principe-general
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment on reduit la taille d'un fichier sans perdre la moindre information.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression avec perte, un compromis assume
+slug: la-compression-avec-perte-un-compromis-assume
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment on sacrifie une part de qualite pour reduire fortement la taille d'un fichier.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format JPEG et la compression d'image
+slug: le-format-jpeg-et-la-compression-d-image
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une technique qui exploite les limites de la perception visuelle humaine.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format PNG contre le format JPEG
+slug: le-format-png-contre-le-format-jpeg
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Deux approches differentes selon que l'on privilegie la qualite ou la taille du fichier.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format MP3 et la compression audio
+slug: le-format-mp3-et-la-compression-audio
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment ce format a rendu possible le partage massif de musique numerique.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La video en streaming, comment elle fonctionne techniquement
+slug: la-video-en-streaming-comment-elle-fonctionne-techniquement
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un flux continu de donnees compressees, transmis en temps reel.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les codecs video et leur role
+slug: les-codecs-video-et-leur-role
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Des programmes specifiques qui compressent puis decompressent une video.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les couleurs a l'ecran, principe RVB
+slug: les-couleurs-a-l-ecran-principe-rvb
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment trois couleurs de base suffisent a reproduire toutes les nuances visibles.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La profondeur de couleur d'une image numerique
+slug: la-profondeur-de-couleur-d-une-image-numerique
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment le nombre de bits par pixel determine la richesse des couleurs affichables.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les formats de fichiers ouverts contre proprietaires
+slug: les-formats-de-fichiers-ouverts-contre-proprietaires
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une distinction qui influence directement la liberte d'usage d'un document.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression des fichiers texte
+slug: la-compression-des-fichiers-texte
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Pourquoi le texte se compresse generalement tres efficacement, contrairement aux images.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format PDF et la preservation de la mise en page
+slug: le-format-pdf-et-la-preservation-de-la-mise-en-page
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un format concu pour garantir un affichage identique sur tous les appareils.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation numerique du son
+slug: la-representation-numerique-du-son
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment on transforme une onde sonore continue en une suite de nombres.
+tags: [representation-et-compression]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echantillonnage audio et sa frequence
+slug: l-echantillonnage-audio-et-sa-frequence
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un parametre technique qui determine directement la fidelite d'un enregistrement.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les archives compressees et leur usage courant
+slug: les-archives-compressees-et-leur-usage-courant
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment regrouper plusieurs fichiers en un seul, plus leger a transferer.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression d'images sans perte (format RAW)
+slug: la-compression-d-images-sans-perte-format-raw
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un format qui conserve l'integralite des donnees captees par un appareil photo.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le code correcteur d'erreurs dans le stockage numerique
+slug: le-code-correcteur-d-erreurs-dans-le-stockage-numerique
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Des techniques qui permettent de detecter et corriger des donnees corrompues.
+tags: [representation-et-compression, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation des nombres a virgule flottante
+slug: la-representation-des-nombres-a-virgule-flottante
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment un ordinateur represente des nombres non entiers, avec ses propres limites.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format GIF et l'animation legere
+slug: le-format-gif-et-l-animation-legere
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un format ancien, toujours largement utilise pour les courtes animations.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression video moderne (H.264, H.265)
+slug: la-compression-video-moderne-h-264-h-265
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Des standards qui permettent le streaming haute definition avec un debit limite.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le codage de Huffman, une methode historique de compression
+slug: le-codage-de-huffman-une-methode-historique-de-compression
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un algorithme elegant qui attribue des codes plus courts aux elements les plus frequents.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La representation binaire des images vectorielles
+slug: la-representation-binaire-des-images-vectorielles
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Une approche differente qui decrit une image par des formes plutot que des pixels.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le format SVG et les images vectorielles evolutives
+slug: le-format-svg-et-les-images-vectorielles-evolutives
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un format qui garde sa nettete quelle que soit la taille d'affichage.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les metadonnees d'un fichier numerique
+slug: les-metadonnees-d-un-fichier-numerique
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Des informations cachees qui accompagnent un fichier sans en faire partie visible.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression audio sans perte (FLAC)
+slug: la-compression-audio-sans-perte-flac
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Un format qui reduit la taille d'un fichier sans jamais sacrifier la qualite sonore.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la compression de donnees informatiques
+slug: l-histoire-de-la-compression-de-donnees-informatiques
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Comment cette necessite technique a evolue avec la croissance du volume de donnees.
+tags: [representation-et-compression]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La complexite algorithmique, mesurer l'efficacite
+slug: la-complexite-algorithmique-mesurer-l-efficacite
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment on evalue si un algorithme reste rapide meme avec beaucoup de donnees.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de tri, comparaison des methodes
+slug: les-algorithmes-de-tri-comparaison-des-methodes
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Plusieurs facons distinctes de ranger une liste, avec des performances tres variables.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le tri rapide (quicksort), un algorithme classique
+slug: le-tri-rapide-quicksort-un-algorithme-classique
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une methode elegante et efficace, encore largement utilisee aujourd'hui.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de recherche dans une liste triee
+slug: les-algorithmes-de-recherche-dans-une-liste-triee
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment retrouver un element beaucoup plus vite grace a un ordre prealable.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recherche dichotomique, diviser pour trouver plus vite
+slug: la-recherche-dichotomique-diviser-pour-trouver-plus-vite
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une methode simple mais tres efficace pour rechercher dans des donnees triees.
+tags: [algorithmes, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'algorithme de Dijkstra et le calcul du plus court chemin
+slug: l-algorithme-de-dijkstra-et-le-calcul-du-plus-court-chemin
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une methode fondamentale utilisee notamment par les systemes de navigation.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement general des algorithmes de recommandation
+slug: le-fonctionnement-general-des-algorithmes-de-recommandation
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment un systeme suggere du contenu en fonction de vos comportements passes.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La machine de Turing, un modele theorique fondateur
+slug: la-machine-de-turing-un-modele-theorique-fondateur
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Un concept abstrait qui a pose les bases theoriques de toute l'informatique moderne.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le probleme P contre NP, une question ouverte majeure
+slug: le-probleme-p-contre-np-une-question-ouverte-majeure
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une des plus grandes enigmes non resolues de l'informatique theorique.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes gloutons, des solutions rapides mais imparfaites
+slug: les-algorithmes-gloutons-des-solutions-rapides-mais-imparfaites
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une approche qui privilegie la rapidite au prix d'une solution pas toujours optimale.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation dynamique, resoudre en decoupant un probleme
+slug: la-programmation-dynamique-resoudre-en-decoupant-un-probleme
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une technique qui evite de refaire plusieurs fois le meme calcul.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de compression et leur efficacite comparee
+slug: les-algorithmes-de-compression-et-leur-efficacite-comparee
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Pourquoi certaines methodes conviennent mieux a certains types de donnees.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les arbres de decision en algorithmique
+slug: les-arbres-de-decision-en-algorithmique
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une structure simple qui organise une suite de choix successifs.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes genetiques, s'inspirer de l'evolution
+slug: les-algorithmes-genetiques-s-inspirer-de-l-evolution
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une approche qui simule la selection naturelle pour resoudre des problemes complexes.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recursivite en programmation
+slug: la-recursivite-en-programmation
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Un concept ou une fonction s'appelle elle-meme pour resoudre un probleme plus simple.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de hachage et leurs usages
+slug: les-algorithmes-de-hachage-et-leurs-usages
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une technique qui transforme une donnee en une empreinte courte et unique.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les structures de donnees fondamentales
+slug: les-structures-de-donnees-fondamentales
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Listes, piles, files : des organisations de base qui influencent l'efficacite d'un programme.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'algorithme de calcul d'itineraire d'un GPS
+slug: l-algorithme-de-calcul-d-itineraire-d-un-gps
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment un systeme trouve le meilleur trajet parmi des millions de combinaisons possibles.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de detection de fraude
+slug: les-algorithmes-de-detection-de-fraude
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment identifier automatiquement des comportements suspects parmi des millions de transactions.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La theorie des graphes appliquee aux algorithmes
+slug: la-theorie-des-graphes-appliquee-aux-algorithmes
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Un cadre mathematique qui structure de nombreux problemes informatiques concrets.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes paralleles, resoudre plus vite a plusieurs
+slug: les-algorithmes-paralleles-resoudre-plus-vite-a-plusieurs
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment repartir un calcul sur plusieurs processeurs pour gagner du temps.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le probleme du voyageur de commerce
+slug: le-probleme-du-voyageur-de-commerce
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Un exemple classique qui illustre les limites de certains algorithmes face a la complexite.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes d'apprentissage automatique, principes de base
+slug: les-algorithmes-d-apprentissage-automatique-principes-de-base
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment un programme peut ameliorer ses performances a partir de donnees d'exemple.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La verification formelle des algorithmes critiques
+slug: la-verification-formelle-des-algorithmes-critiques
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment on prouve mathematiquement qu'un algorithme fonctionne toujours correctement.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de cryptographie et leur securite
+slug: les-algorithmes-de-cryptographie-et-leur-securite
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Comment des methodes mathematiques garantissent la confidentialite d'une information.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des premiers algorithmes avant l'informatique
+slug: l-histoire-des-premiers-algorithmes-avant-l-informatique
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes de calcul systematique qui existaient bien avant les ordinateurs.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Al-Khwarizmi et l'origine du mot algorithme
+slug: al-khwarizmi-et-l-origine-du-mot-algorithme
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Un mathematicien ancien dont le nom a donne naissance a ce terme aujourd'hui central.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de compression d'image sans perte
+slug: les-algorithmes-de-compression-d-image-sans-perte
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Des methodes qui reduisent la taille d'un fichier sans jamais sacrifier de qualite.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites theoriques du calcul informatique
+slug: les-limites-theoriques-du-calcul-informatique
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Certains problemes restent, par nature, impossibles a resoudre pour un ordinateur.
+tags: [algorithmes]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes utilises dans les moteurs de recherche modernes
+slug: les-algorithmes-utilises-dans-les-moteurs-de-recherche-modernes
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Une combinaison complexe de methodes qui classe des milliards de pages web.
+tags: [algorithmes]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les paradigmes de programmation, differentes facons de coder
+slug: les-paradigmes-de-programmation-differentes-facons-de-coder
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Imperatif, oriente objet, fonctionnel : des philosophies distinctes pour ecrire un programme.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation orientee objet, principes de base
+slug: la-programmation-orientee-objet-principes-de-base
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une approche qui organise le code autour d'objets dotes de proprietes et de comportements.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les variables et les types de donnees en programmation
+slug: les-variables-et-les-types-de-donnees-en-programmation
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des concepts fondamentaux presents dans presque tous les langages informatiques.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les boucles et les conditions, structures de base d'un programme
+slug: les-boucles-et-les-conditions-structures-de-base-d-un-programme
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Deux mecanismes essentiels qui permettent a un programme de repeter ou de choisir.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le debogage, trouver et corriger une erreur de code
+slug: le-debogage-trouver-et-corriger-une-erreur-de-code
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une competence essentielle qui occupe une part importante du travail de programmation.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du premier bug informatique
+slug: l-histoire-du-premier-bug-informatique
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une anecdote celebre a l'origine du terme utilise encore aujourd'hui.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les logiciels libres, principes et philosophie
+slug: les-logiciels-libres-principes-et-philosophie
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une approche qui garantit a chacun le droit d'etudier, modifier et partager un programme.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La licence GPL et le copyleft
+slug: la-licence-gpl-et-le-copyleft
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un mecanisme juridique astucieux qui garantit la liberte durable d'un logiciel.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Linus Torvalds et la creation de Linux
+slug: linus-torvalds-et-la-creation-de-linux
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Comment un projet etudiant est devenu un des systemes les plus utilises au monde.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le controle de version et l'outil Git
+slug: le-controle-de-version-et-l-outil-git
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un systeme essentiel qui permet de suivre l'historique des modifications d'un code.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Apprendre a programmer, par ou commencer
+slug: apprendre-a-programmer-par-ou-commencer
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des principes generaux utiles quel que soit le langage choisi au depart.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les langages de programmation interpretes contre compiles
+slug: les-langages-de-programmation-interpretes-contre-compiles
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Deux approches differentes qui influencent la vitesse et la portabilite d'un programme.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le langage Python et sa popularite
+slug: le-langage-python-et-sa-popularite
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un langage reconnu pour sa simplicite, largement utilise dans de nombreux domaines.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le langage JavaScript et le web interactif
+slug: le-langage-javascript-et-le-web-interactif
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un langage indispensable pour rendre une page web dynamique et reactive.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le HTML, structurer une page web
+slug: le-html-structurer-une-page-web
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Le langage de base qui definit le contenu et l'organisation d'une page internet.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le CSS, mettre en forme une page web
+slug: le-css-mettre-en-forme-une-page-web
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un langage complementaire au HTML, dedie a l'apparence visuelle d'un site.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation assistee par l'intelligence artificielle
+slug: la-programmation-assistee-par-l-intelligence-artificielle
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Comment des outils recents suggerent ou generent directement des lignes de code.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests logiciels, garantir la fiabilite d'un programme
+slug: les-tests-logiciels-garantir-la-fiabilite-d-un-programme
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des methodes systematiques pour verifier qu'un code fonctionne comme prevu.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La documentation du code, une pratique essentielle
+slug: la-documentation-du-code-une-pratique-essentielle
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Pourquoi expliquer son propre code reste indispensable pour le travail futur.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes et la programmation, une distinction essentielle
+slug: les-algorithmes-et-la-programmation-une-distinction-essentielle
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Pourquoi un meme algorithme peut s'ecrire dans des langages tres differents.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation bas niveau contre haut niveau
+slug: la-programmation-bas-niveau-contre-haut-niveau
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Deux approches qui n'offrent pas le meme controle ni la meme simplicite d'usage.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le langage assembleur, programmer pres du materiel
+slug: le-langage-assembleur-programmer-pres-du-materiel
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un langage tres proche du fonctionnement physique du processeur.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frameworks de developpement web
+slug: les-frameworks-de-developpement-web
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des outils qui accelerent la construction d'un site en fournissant une base commune.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation collaborative et le travail en equipe
+slug: la-programmation-collaborative-et-le-travail-en-equipe
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Comment plusieurs personnes ecrivent ensemble un meme programme sans se marcher dessus.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les erreurs de securite courantes en programmation
+slug: les-erreurs-de-securite-courantes-en-programmation
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des failles frequentes qui peuvent compromettre gravement un logiciel.
+tags: [programmation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La programmation embarquee, coder pour de petits appareils
+slug: la-programmation-embarquee-coder-pour-de-petits-appareils
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des contraintes specifiques liees a des ressources materielles tres limitees.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le premier langage de programmation de l'histoire
+slug: le-premier-langage-de-programmation-de-l-histoire
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Comment on a commence a communiquer des instructions precises a une machine.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Ada Lovelace, souvent consideree comme la premiere programmeuse
+slug: ada-lovelace-souvent-consideree-comme-la-premiere-programmeuse
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Une figure historique associee aux tout premiers concepts de programmation.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les IDE, environnements de developpement integres
+slug: les-ide-environnements-de-developpement-integres
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Des outils qui facilitent l'ecriture, le test et la correction d'un programme.
+tags: [programmation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lisibilite du code, pourquoi elle compte autant
+slug: la-lisibilite-du-code-pourquoi-elle-compte-autant
+categoryPath: micro-informatique-et-informatique/logiciel/programmation
+summary: >
+  Un code clair est bien plus facile a corriger et a faire evoluer par la suite.
+tags: [programmation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le noyau d'un systeme d'exploitation
+slug: le-noyau-d-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  La partie centrale qui gere directement les ressources materielles de l'ordinateur.
+tags: [systemes-d-exploitation]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion de la memoire par le systeme d'exploitation
+slug: la-gestion-de-la-memoire-par-le-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment plusieurs programmes se partagent efficacement une meme memoire vive.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ordonnancement des taches par le systeme d'exploitation
+slug: l-ordonnancement-des-taches-par-le-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment un ordinateur donne l'impression de faire plusieurs choses en meme temps.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le systeme de fichiers, organiser les donnees sur un disque
+slug: le-systeme-de-fichiers-organiser-les-donnees-sur-un-disque
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une structure invisible mais essentielle qui permet de retrouver chaque fichier.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Windows, histoire et evolution
+slug: windows-histoire-et-evolution
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment ce systeme d'exploitation est devenu dominant sur les ordinateurs personnels.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: macOS et son ecosysteme ferme
+slug: macos-et-son-ecosysteme-ferme
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une approche differente de l'informatique, integree specifiquement au materiel Apple.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les distributions Linux, une diversite volontaire
+slug: les-distributions-linux-une-diversite-volontaire
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment un meme noyau donne naissance a de nombreuses versions differentes.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Android, le systeme d'exploitation mobile dominant
+slug: android-le-systeme-d-exploitation-mobile-dominant
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment ce systeme, base sur Linux, a conquis la majorite des smartphones mondiaux.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: iOS et l'approche fermee d'Apple pour mobile
+slug: ios-et-l-approche-fermee-d-apple-pour-mobile
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un systeme concu specifiquement, et exclusivement, pour les appareils de la marque.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mises a jour de securite, pourquoi elles sont essentielles
+slug: les-mises-a-jour-de-securite-pourquoi-elles-sont-essentielles
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Pourquoi ignorer ces mises a jour expose directement a des risques reels.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La virtualisation, faire tourner un systeme dans un autre
+slug: la-virtualisation-faire-tourner-un-systeme-dans-un-autre
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une technologie qui permet d'executer un ordinateur virtuel a l'interieur d'un vrai.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les conteneurs logiciels et leur difference avec la virtualisation
+slug: les-conteneurs-logiciels-et-leur-difference-avec-la-virtualisation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une approche plus legere pour isoler des applications les unes des autres.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Installer un systeme d'exploitation leger sur du materiel ancien
+slug: installer-un-systeme-d-exploitation-leger-sur-du-materiel-ancien
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment redonner une seconde vie utile a un ordinateur obsolete.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le boot et le demarrage d'un ordinateur
+slug: le-boot-et-le-demarrage-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une sequence precise d'etapes necessaires avant que le systeme ne soit utilisable.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pilotes materiels et leur role
+slug: les-pilotes-materiels-et-leur-role
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des programmes specifiques qui permettent au systeme de communiquer avec chaque composant.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La ligne de commande, une alternative a l'interface graphique
+slug: la-ligne-de-commande-une-alternative-a-l-interface-graphique
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une methode plus directe et souvent plus puissante pour controler un ordinateur.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des tout premiers systemes d'exploitation
+slug: l-histoire-des-tout-premiers-systemes-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment ces logiciels essentiels ont evolue depuis les debuts de l'informatique.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation en temps reel
+slug: les-systemes-d-exploitation-en-temps-reel
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des systemes specifiques concus pour garantir une reponse dans un delai strict.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des systemes d'exploitation modernes
+slug: la-securite-des-systemes-d-exploitation-modernes
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des mecanismes multiples concus pour proteger l'ordinateur contre des attaques.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mises a jour automatiques, avantages et risques
+slug: les-mises-a-jour-automatiques-avantages-et-risques
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Un compromis entre securite renforcee et perte partielle de controle utilisateur.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le multitache dans les systemes d'exploitation
+slug: le-multitache-dans-les-systemes-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment un ordinateur execute apparemment plusieurs programmes simultanement.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation open source pour serveurs
+slug: les-systemes-d-exploitation-open-source-pour-serveurs
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une dominance quasi totale de Linux dans ce secteur particulier de l'informatique.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compatibilite materielle des systemes d'exploitation
+slug: la-compatibilite-materielle-des-systemes-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Pourquoi certains systemes fonctionnent, ou non, sur un materiel donne.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les interfaces graphiques, evolution historique
+slug: les-interfaces-graphiques-evolution-historique
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment on est passe d'un ecran de texte a des fenetres et icones intuitives.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion de l'energie par les systemes d'exploitation mobiles
+slug: la-gestion-de-l-energie-par-les-systemes-d-exploitation-mobiles
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Comment le logiciel optimise en permanence l'autonomie d'une batterie.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation embarques dans les objets du quotidien
+slug: les-systemes-d-exploitation-embarques-dans-les-objets-du-quotidien
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Des logiciels discrets presents dans de nombreux appareils electroniques.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fin de vie d'un systeme d'exploitation
+slug: la-fin-de-vie-d-un-systeme-d-exploitation
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Ce qui se passe, et les risques encourus, quand un systeme n'est plus mis a jour.
+tags: [systemes-d-exploitation, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La personnalisation d'un systeme d'exploitation Linux
+slug: la-personnalisation-d-un-systeme-d-exploitation-linux
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Une liberte de configuration bien plus grande que sur des systemes fermes.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les systemes d'exploitation et la compatibilite ascendante
+slug: les-systemes-d-exploitation-et-la-compatibilite-ascendante
+categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
+summary: >
+  Pourquoi de vieux logiciels fonctionnent parfois encore sur des systemes recents.
+tags: [systemes-d-exploitation]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le disque dur, principe mecanique de fonctionnement
+slug: le-disque-dur-principe-mecanique-de-fonctionnement
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une technologie de stockage encore repandue malgre l'arrivee de solutions plus rapides.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La memoire flash, une technologie sans piece mobile
+slug: la-memoire-flash-une-technologie-sans-piece-mobile
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un principe de stockage electronique qui a transforme la portabilite des donnees.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les SSD contre les disques durs traditionnels
+slug: les-ssd-contre-les-disques-durs-traditionnels
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Deux technologies aux compromis differents de vitesse, prix et fiabilite.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La memoire vive (RAM), un stockage temporaire essentiel
+slug: la-memoire-vive-ram-un-stockage-temporaire-essentiel
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une memoire rapide mais qui efface son contenu des l'extinction de l'appareil.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cloud, comprendre ce qui se cache derriere ce terme
+slug: le-cloud-comprendre-ce-qui-se-cache-derriere-ce-terme
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une infrastructure bien reelle de serveurs, malgre une image souvent immaterielle.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les centres de donnees, l'infrastructure physique du numerique
+slug: les-centres-de-donnees-l-infrastructure-physique-du-numerique
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des batiments immenses qui hebergent une part enorme des donnees mondiales.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation energetique des centres de donnees
+slug: la-consommation-energetique-des-centres-de-donnees
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un cout environnemental souvent invisible du stockage numerique massif.
+tags: [memoire-et-stockage]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regle de sauvegarde 3-2-1
+slug: la-regle-de-sauvegarde-3-2-1
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une methode simple et eprouvee pour proteger efficacement ses donnees importantes.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation des donnees sur le tres long terme
+slug: la-conservation-des-donnees-sur-le-tres-long-terme
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un defi technique reel face a l'obsolescence rapide des supports numeriques.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les supports de stockage optiques (CD, DVD, Blu-ray)
+slug: les-supports-de-stockage-optiques-cd-dvd-blu-ray
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une technologie autrefois dominante, aujourd'hui largement supplantee.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bande magnetique, un support de sauvegarde toujours utilise
+slug: la-bande-magnetique-un-support-de-sauvegarde-toujours-utilise
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une technologie ancienne mais encore pertinente pour l'archivage a grande echelle.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La duree de vie reelle des differents supports de stockage
+slug: la-duree-de-vie-reelle-des-differents-supports-de-stockage
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Pourquoi certains supports se degradent bien plus vite que d'autres.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement des disques de stockage
+slug: le-chiffrement-des-disques-de-stockage
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une protection supplementaire en cas de perte ou de vol d'un appareil.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La memoire cache d'un ordinateur
+slug: la-memoire-cache-d-un-ordinateur
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une petite memoire tres rapide qui accelere sensiblement les operations courantes.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recuperation de donnees apres une panne materielle
+slug: la-recuperation-de-donnees-apres-une-panne-materielle
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des techniques parfois complexes pour recuperer des informations apparemment perdues.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le formatage d'un support de stockage
+slug: le-formatage-d-un-support-de-stockage
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une operation qui prepare un disque a recevoir des donnees selon un format precis.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cles USB, technologie et usages
+slug: les-cles-usb-technologie-et-usages
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Un support de stockage portable devenu omnipresent dans la vie quotidienne.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La densite de stockage et son evolution historique
+slug: la-densite-de-stockage-et-son-evolution-historique
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Comment on stocke aujourd'hui bien plus de donnees dans un espace bien plus petit.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage redondant (RAID)
+slug: le-stockage-redondant-raid
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une technique qui repartit les donnees sur plusieurs disques pour eviter leur perte.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La memoire morte (ROM) et son role specifique
+slug: la-memoire-morte-rom-et-son-role-specifique
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une memoire qui conserve des instructions essentielles, meme sans alimentation.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage decentralise et le partage de fichiers pair a pair
+slug: le-stockage-decentralise-et-le-partage-de-fichiers-pair-a-pair
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une alternative aux serveurs centralises pour repartir le stockage des donnees.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compression de donnees pour optimiser le stockage
+slug: la-compression-de-donnees-pour-optimiser-le-stockage
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Comment on reduit l'espace necessaire sans perdre l'information elle-meme.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage des donnees medicales et leurs exigences specifiques
+slug: le-stockage-des-donnees-medicales-et-leurs-exigences-specifiques
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Des normes de securite et de conservation particulierement strictes.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les serveurs personnels a domicile
+slug: les-serveurs-personnels-a-domicile
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une alternative au cloud commercial pour garder le controle de ses propres donnees.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage hors ligne comme protection contre les cyberattaques
+slug: le-stockage-hors-ligne-comme-protection-contre-les-cyberattaques
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Une methode simple pour proteger une copie de donnees essentielles.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'evolution des capacites de stockage informatique
+slug: l-histoire-de-l-evolution-des-capacites-de-stockage-informatique
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Comment quelques kilo-octets sont devenus des tera-octets en quelques decennies.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fiabilite a long terme des SSD
+slug: la-fiabilite-a-long-terme-des-ssd
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Ce que revelent les etudes sur la duree de vie reelle de cette technologie.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage des sauvegardes hors site
+slug: le-stockage-des-sauvegardes-hors-site
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Pourquoi conserver une copie dans un lieu different reste une precaution essentielle.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La suppression definitive de donnees numeriques
+slug: la-suppression-definitive-de-donnees-numeriques
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Pourquoi effacer un fichier ne suffit pas toujours a le rendre irrecuperable.
+tags: [memoire-et-stockage, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage numerique et son impact environnemental global
+slug: le-stockage-numerique-et-son-impact-environnemental-global
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Ce que represente concretement, en energie et en materiaux, l'archivage massif de donnees.
+tags: [memoire-et-stockage]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecran LCD, principe technique de base
+slug: l-ecran-lcd-principe-technique-de-base
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie qui module la lumiere plutot que de la produire directement.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecran OLED, une technologie plus recente
+slug: l-ecran-oled-une-technologie-plus-recente
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Chaque pixel produit sa propre lumiere, sans retro-eclairage separe.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resolution d'un ecran, comprendre ce chiffre
+slug: la-resolution-d-un-ecran-comprendre-ce-chiffre
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un nombre qui indique combien de points composent l'image affichee.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le taux de rafraichissement d'un ecran
+slug: le-taux-de-rafraichissement-d-un-ecran
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Combien de fois par seconde l'image se met a jour, avec un impact reel sur la fluidite.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le clavier AZERTY contre QWERTY, une histoire de disposition
+slug: le-clavier-azerty-contre-qwerty-une-histoire-de-disposition
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Deux agencements de touches nes de contraintes techniques aujourd'hui disparues.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'invention du clavier mecanique
+slug: l-invention-du-clavier-mecanique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie ancienne qui a precede de loin les ordinateurs eux-memes.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ecran tactile, principe de fonctionnement
+slug: l-ecran-tactile-principe-de-fonctionnement
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment un ecran detecte precisement l'endroit ou on le touche.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La souris informatique, une invention pionniere
+slug: la-souris-informatique-une-invention-pionniere
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un peripherique qui a rendu l'informatique bien plus intuitive pour le grand public.
+tags: [peripheriques-et-ecrans]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'interface graphique, une revolution de l'informatique personnelle
+slug: l-interface-graphique-une-revolution-de-l-informatique-personnelle
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment les icones et fenetres ont remplace les lignes de commande pour le grand public.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le port USB, un standard qui a simplifie la connectique
+slug: le-port-usb-un-standard-qui-a-simplifie-la-connectique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment un connecteur universel a mis fin a une multitude de prises incompatibles.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imprimante, technologies principales
+slug: l-imprimante-technologies-principales
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Jet d'encre, laser : deux methodes tres differentes pour transferer une image sur papier.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imprimante laser, principe de fonctionnement
+slug: l-imprimante-laser-principe-de-fonctionnement
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie qui utilise l'electricite statique pour deposer precisement de l'encre.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'encre electronique, une technologie a faible consommation
+slug: l-encre-electronique-une-technologie-a-faible-consommation
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un ecran special qui ne consomme de l'energie que lors du changement d'affichage.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le scanner, numeriser un document physique
+slug: le-scanner-numeriser-un-document-physique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un appareil essentiel pour transformer le papier en fichier numerique exploitable.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le webcam et la capture video numerique
+slug: le-webcam-et-la-capture-video-numerique
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un peripherique devenu indispensable pour la communication a distance.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microphone informatique et la capture du son
+slug: le-microphone-informatique-et-la-capture-du-son
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment un appareil transforme une onde sonore en signal numerique exploitable.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les haut-parleurs informatiques, principe de restitution du son
+slug: les-haut-parleurs-informatiques-principe-de-restitution-du-son
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment un signal numerique redevient un son audible.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le manette de jeu et les peripheriques de loisir
+slug: le-manette-de-jeu-et-les-peripheriques-de-loisir
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des dispositifs concus specifiquement pour ameliorer l'experience de jeu.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecrans tactiles resistifs contre capacitifs
+slug: les-ecrans-tactiles-resistifs-contre-capacitifs
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Deux technologies aux principes physiques distincts pour detecter le toucher.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reparation d'un ecran d'ordinateur ou de smartphone
+slug: la-reparation-d-un-ecran-d-ordinateur-ou-de-smartphone
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des competences pratiques qui prolongent la duree de vie d'un appareil.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les peripheriques sans fil et leur autonomie
+slug: les-peripheriques-sans-fil-et-leur-autonomie
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un compromis entre confort d'usage et gestion d'une batterie supplementaire.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'accessibilite des peripheriques informatiques
+slug: l-accessibilite-des-peripheriques-informatiques
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des adaptations specifiques concues pour les personnes en situation de handicap.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le retroeclairage des ecrans et son impact sur le sommeil
+slug: le-retroeclairage-des-ecrans-et-son-impact-sur-le-sommeil
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment la lumiere emise par un ecran peut perturber l'endormissement.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les ecrans incurves, avantages et limites reelles
+slug: les-ecrans-incurves-avantages-et-limites-reelles
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Ce que cette forme particuliere apporte concretement a l'experience visuelle.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La technologie tactile multipoint
+slug: la-technologie-tactile-multipoint
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Comment un ecran peut detecter simultanement plusieurs doigts distincts.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'evolution des ecrans informatiques
+slug: l-histoire-de-l-evolution-des-ecrans-informatiques
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Du tube cathodique aux ecrans plats modernes, une transformation technique majeure.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les peripheriques de saisie alternatifs pour l'accessibilite
+slug: les-peripheriques-de-saisie-alternatifs-pour-l-accessibilite
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des dispositifs adaptes qui permettent a chacun d'utiliser un ordinateur.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entretien et le nettoyage des peripheriques informatiques
+slug: l-entretien-et-le-nettoyage-des-peripheriques-informatiques
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Des gestes simples qui prolongent la duree de vie du materiel.
+tags: [peripheriques-et-ecrans, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les imprimantes 3D grand public
+slug: les-imprimantes-3d-grand-public
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Une technologie de fabrication accessible desormais a de nombreux particuliers.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation electrique des peripheriques informatiques
+slug: la-consommation-electrique-des-peripheriques-informatiques
+categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
+summary: >
+  Un poste souvent sous-estime dans la consommation globale d'un ordinateur.
+tags: [peripheriques-et-ecrans]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le transistor, le composant elementaire de l'informatique moderne
+slug: le-transistor-le-composant-elementaire-de-l-informatique-moderne
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un interrupteur electronique minuscule a l'origine de toute la puissance de calcul actuelle.
+tags: [processeurs, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'invention du transistor et son impact historique
+slug: l-invention-du-transistor-et-son-impact-historique
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une decouverte qui a rendu obsoletes les tubes a vide bien plus volumineux.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La loi de Moore, une prediction devenue reference
+slug: la-loi-de-moore-une-prediction-devenue-reference
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une observation empirique qui a guide des decennies de progres technologique.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment fonctionne un processeur, principes de base
+slug: comment-fonctionne-un-processeur-principes-de-base
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Le composant central qui execute les instructions de tout programme informatique.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle d'horloge d'un processeur
+slug: le-cycle-d-horloge-d-un-processeur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une cadence tres rapide qui rythme l'ensemble des operations de calcul.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs multicoeurs, calculer en parallele
+slug: les-processeurs-multicoeurs-calculer-en-parallele
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Comment plusieurs unites de calcul reunies ameliorent les performances globales.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gravure des puces en nanometres
+slug: la-gravure-des-puces-en-nanometres
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un nombre qui indique la finesse extreme des composants d'un processeur moderne.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment on fabrique une puce electronique
+slug: comment-on-fabrique-une-puce-electronique
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un processus industriel d'une precision extreme, en plusieurs centaines d'etapes.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les salles blanches dans la fabrication de puces
+slug: les-salles-blanches-dans-la-fabrication-de-puces
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un environnement d'une proprete extreme, indispensable a cette production delicate.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cartes graphiques, un processeur specialise
+slug: les-cartes-graphiques-un-processeur-specialise
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un composant concu specifiquement pour des calculs paralleles massifs.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'usage des cartes graphiques au-dela du jeu video
+slug: l-usage-des-cartes-graphiques-au-dela-du-jeu-video
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Comment ces composants sont devenus essentiels a l'intelligence artificielle moderne.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture x86, une famille de processeurs dominante
+slug: l-architecture-x86-une-famille-de-processeurs-dominante
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un standard historique qui equipe encore la majorite des ordinateurs personnels.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'architecture ARM et son essor dans le mobile
+slug: l-architecture-arm-et-son-essor-dans-le-mobile
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une conception differente, privilegiant l'efficacite energetique plutot que la seule puissance brute.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: TSMC et la concentration mondiale de la fabrication de puces
+slug: tsmc-et-la-concentration-mondiale-de-la-fabrication-de-puces
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Comment une seule entreprise est devenue centrale dans une chaine d'approvisionnement mondiale.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La geopolitique des semi-conducteurs
+slug: la-geopolitique-des-semi-conducteurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Pourquoi la fabrication de puces est devenue un enjeu strategique majeur entre nations.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs quantiques, une technologie emergente
+slug: les-processeurs-quantiques-une-technologie-emergente
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une approche radicalement differente du calcul, encore au stade experimental.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La consommation energetique des processeurs modernes
+slug: la-consommation-energetique-des-processeurs-modernes
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un enjeu croissant a mesure que la puissance de calcul demandee augmente.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le refroidissement des processeurs
+slug: le-refroidissement-des-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Comment on evacue une chaleur importante generee par une activite electronique intense.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites physiques de la miniaturisation des puces
+slug: les-limites-physiques-de-la-miniaturisation-des-puces
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Pourquoi la loi de Moore pourrait atteindre, a terme, une limite physique reelle.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs specialises pour l'intelligence artificielle
+slug: les-processeurs-specialises-pour-l-intelligence-artificielle
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des puces concues specifiquement pour accelerer certains types de calculs.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du premier microprocesseur commercial
+slug: l-histoire-du-premier-microprocesseur-commercial
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Comment un composant unique a rendu possible l'ordinateur personnel.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le jeu d'instructions d'un processeur
+slug: le-jeu-d-instructions-d-un-processeur
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un vocabulaire de base que le processeur peut comprendre et executer.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les failles de securite materielles des processeurs
+slug: les-failles-de-securite-materielles-des-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des vulnerabilites decouvertes directement dans la conception physique des puces.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication de semi-conducteurs et l'usage de l'eau ultrapure
+slug: la-fabrication-de-semi-conducteurs-et-l-usage-de-l-eau-ultrapure
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Une ressource critique et souvent meconnue dans ce processus industriel.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs embarques dans les objets du quotidien
+slug: les-processeurs-embarques-dans-les-objets-du-quotidien
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des puces discretes presentes dans un nombre croissant d'appareils.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le silicium, materiau de base des processeurs
+slug: le-silicium-materiau-de-base-des-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un element abondant dont les proprietes electroniques particulieres ont rendu possible l'informatique moderne.
+tags: [processeurs]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La purification du silicium pour l'industrie des semi-conducteurs
+slug: la-purification-du-silicium-pour-l-industrie-des-semi-conducteurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Un processus exigeant qui necessite une purete quasi absolue du materiau.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs anciens et leur usage residuel aujourd'hui
+slug: les-processeurs-anciens-et-leur-usage-residuel-aujourd-hui
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Comment certaines puces anciennes restent en service dans des systemes specifiques.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience de la chaine d'approvisionnement en puces electroniques
+slug: la-resilience-de-la-chaine-d-approvisionnement-en-puces-electroniques
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Comment les pays tentent de securiser un secteur devenu strategiquement critique.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cout de developpement d'une nouvelle generation de processeurs
+slug: le-cout-de-developpement-d-une-nouvelle-generation-de-processeurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Des investissements colossaux necessaires pour rester competitif dans ce secteur.
+tags: [processeurs]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement symetrique, une meme cle pour chiffrer et dechiffrer
+slug: le-chiffrement-symetrique-une-meme-cle-pour-chiffrer-et-dechiffrer
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une methode rapide mais qui pose un defi pour partager la cle en toute securite.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement asymetrique, deux cles complementaires
+slug: le-chiffrement-asymetrique-deux-cles-complementaires
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une innovation majeure qui a resolu le probleme du partage securise de cles.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffre de Vigenere, une amelioration historique du chiffre de Cesar
+slug: le-chiffre-de-vigenere-une-amelioration-historique-du-chiffre-de-cesar
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une methode ancienne plus robuste, longtemps consideree comme incassable.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptanalyse, l'art de casser un chiffrement
+slug: la-cryptanalyse-l-art-de-casser-un-chiffrement
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une discipline qui a evolue en parallele des methodes de chiffrement elles-memes.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Enigma, une machine de chiffrement complexe
+slug: enigma-une-machine-de-chiffrement-complexe
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un dispositif mecanique sophistique utilise pendant la Seconde Guerre mondiale.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Alan Turing et le dechiffrement d'Enigma
+slug: alan-turing-et-le-dechiffrement-d-enigma
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Comment des travaux de cryptanalyse ont contribue significativement a l'issue d'un conflit majeur.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La signature numerique, garantir l'authenticite d'un document
+slug: la-signature-numerique-garantir-l-authenticite-d-un-document
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une technique cryptographique qui prouve l'origine et l'integrite d'une information.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les certificats numeriques et la confiance en ligne
+slug: les-certificats-numeriques-et-la-confiance-en-ligne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Comment on verifie qu'un site internet est bien celui qu'il pretend etre.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole HTTPS et le cadenas du navigateur
+slug: le-protocole-https-et-le-cadenas-du-navigateur
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un standard qui chiffre les echanges entre un utilisateur et un site web.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La blockchain, principe technique fondamental
+slug: la-blockchain-principe-technique-fondamental
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un registre distribue et infalsifiable, base sur des mecanismes cryptographiques.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fonctions de hachage cryptographique
+slug: les-fonctions-de-hachage-cryptographique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un outil qui transforme une donnee en une empreinte unique et verifiable.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement de bout en bout dans la messagerie
+slug: le-chiffrement-de-bout-en-bout-dans-la-messagerie
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une garantie que seuls l'expediteur et le destinataire peuvent lire un message.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ordinateur quantique et la menace pour la cryptographie actuelle
+slug: l-ordinateur-quantique-et-la-menace-pour-la-cryptographie-actuelle
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Comment cette technologie future pourrait rendre obsoletes certains chiffrements.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie post-quantique, preparer l'avenir
+slug: la-cryptographie-post-quantique-preparer-l-avenir
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des methodes concues des aujourd'hui pour resister aux futurs ordinateurs quantiques.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement des disques durs et des appareils mobiles
+slug: le-chiffrement-des-disques-durs-et-des-appareils-mobiles
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une protection essentielle en cas de perte ou de vol d'un appareil.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion des cles de chiffrement en entreprise
+slug: la-gestion-des-cles-de-chiffrement-en-entreprise
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un enjeu organisationnel autant que technique pour proteger des donnees sensibles.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole SSL et son role historique
+slug: le-protocole-ssl-et-son-role-historique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un ancetre du HTTPS actuel, developpe pour securiser les premiers echanges web.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie a l'epoque romaine et antique
+slug: la-cryptographie-a-l-epoque-romaine-et-antique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des methodes rudimentaires mais reelles, utilisees bien avant l'ere numerique.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement des reseaux Wi-Fi domestiques
+slug: le-chiffrement-des-reseaux-wi-fi-domestiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des protocoles successifs concus pour proteger l'acces a un reseau sans fil.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie utilisee dans les cartes bancaires
+slug: la-cryptographie-utilisee-dans-les-cartes-bancaires
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des mecanismes discrets mais essentiels pour securiser chaque transaction.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement homomorphe, calculer sans jamais dechiffrer
+slug: le-chiffrement-homomorphe-calculer-sans-jamais-dechiffrer
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une technique avancee qui permet de traiter des donnees chiffrees directement.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cles de chiffrement fortes contre faibles
+slug: les-cles-de-chiffrement-fortes-contre-faibles
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Pourquoi la longueur et la complexite d'une cle influencent directement sa securite.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie appliquee au vote electronique
+slug: la-cryptographie-appliquee-au-vote-electronique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des enjeux de securite particulierement eleves pour ce type d'usage sensible.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement des communications militaires historiques
+slug: le-chiffrement-des-communications-militaires-historiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des methodes anciennes qui ont precede les technologies numeriques actuelles.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie dans les objets connectes
+slug: la-cryptographie-dans-les-objets-connectes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Un defi specifique lie a des appareils souvent peu puissants pour calculer.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La distribution quantique de cles cryptographiques
+slug: la-distribution-quantique-de-cles-cryptographiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une methode theoriquement inviolable, fondee sur les lois de la physique quantique.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la cryptographie avant l'ere numerique
+slug: l-histoire-de-la-cryptographie-avant-l-ere-numerique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des methodes de dissimulation de messages presentes depuis l'Antiquite.
+tags: [chiffrement]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement dans les systemes de sante numeriques
+slug: le-chiffrement-dans-les-systemes-de-sante-numeriques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Une protection essentielle pour des donnees medicales particulierement sensibles.
+tags: [chiffrement, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cryptographie legere pour appareils a faible puissance
+slug: la-cryptographie-legere-pour-appareils-a-faible-puissance
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des methodes adaptees a des contraintes materielles tres limitees.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des autorites de certification dans la securite du web
+slug: le-role-des-autorites-de-certification-dans-la-securite-du-web
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Des organismes de confiance qui garantissent l'identite des sites internet.
+tags: [chiffrement]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les differents types de logiciels malveillants
+slug: les-differents-types-de-logiciels-malveillants
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Virus, vers, chevaux de Troie : des menaces informatiques aux mecanismes distincts.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement d'un antivirus
+slug: le-fonctionnement-d-un-antivirus
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Comment ce logiciel detecte, ou tente de detecter, des programmes malveillants.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pare-feu, une premiere ligne de defense reseau
+slug: le-pare-feu-une-premiere-ligne-de-defense-reseau
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un dispositif qui filtre le trafic entrant et sortant d'un ordinateur ou d'un reseau.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ingenierie sociale, manipuler plutot que pirater techniquement
+slug: l-ingenierie-sociale-manipuler-plutot-que-pirater-techniquement
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Comment de nombreuses attaques exploitent la confiance humaine plutot qu'une faille technique.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le phishing, reconnaitre une tentative d'hamecconnage
+slug: le-phishing-reconnaitre-une-tentative-d-hamecconnage
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des techniques simples pour identifier un email ou un message frauduleux.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rancongiciels, une menace en forte croissance
+slug: les-rancongiciels-une-menace-en-forte-croissance
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un logiciel malveillant qui bloque l'acces aux donnees jusqu'au paiement d'une rancon.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sauvegarde comme protection contre les rancongiciels
+slug: la-sauvegarde-comme-protection-contre-les-rancongiciels
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Pourquoi une sauvegarde reguliere reste la meilleure defense contre ce type de menace.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'authentification a deux facteurs, une protection renforcee
+slug: l-authentification-a-deux-facteurs-une-protection-renforcee
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une methode simple qui reduit considerablement le risque de piratage d'un compte.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La creation d'un mot de passe robuste
+slug: la-creation-d-un-mot-de-passe-robuste
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des principes simples qui augmentent considerablement la resistance a une attaque.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gestionnaires de mots de passe
+slug: les-gestionnaires-de-mots-de-passe
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un outil qui permet d'utiliser des mots de passe forts sans avoir a tous les memoriser.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les failles zero-day, une menace difficile a anticiper
+slug: les-failles-zero-day-une-menace-difficile-a-anticiper
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des vulnerabilites inconnues meme des developpeurs du logiciel concerne.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les hackers ethiques, une profession de securite reconnue
+slug: les-hackers-ethiques-une-profession-de-securite-reconnue
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des specialistes qui testent legalement la securite d'un systeme pour l'ameliorer.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les attaques par deni de service
+slug: les-attaques-par-deni-de-service
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une methode qui vise a rendre un service inaccessible en le submergeant de requetes.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des reseaux Wi-Fi publics
+slug: la-securite-des-reseaux-wi-fi-publics
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des precautions specifiques necessaires quand on se connecte hors de chez soi.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le VPN, principe et usages
+slug: le-vpn-principe-et-usages
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un outil qui protege et anonymise partiellement une connexion internet.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybersecurite des infrastructures critiques
+slug: la-cybersecurite-des-infrastructures-critiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un enjeu majeur pour des systemes dont la defaillance aurait des consequences graves.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les attaques par hameconnage cible (spear phishing)
+slug: les-attaques-par-hameconnage-cible-spear-phishing
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une version plus sophistiquee du phishing, adaptee specifiquement a sa cible.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La securite des objets connectes domestiques
+slug: la-securite-des-objets-connectes-domestiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des appareils souvent moins proteges que les ordinateurs traditionnels.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mises a jour de securite, une protection essentielle et gratuite
+slug: les-mises-a-jour-de-securite-une-protection-essentielle-et-gratuite
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Pourquoi retarder une mise a jour laisse une porte ouverte inutilement longtemps.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybersecurite dans les hopitaux
+slug: la-cybersecurite-dans-les-hopitaux
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un enjeu vital ou une cyberattaque peut avoir des consequences directes sur des patients.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les attaques de la chaine d'approvisionnement logicielle
+slug: les-attaques-de-la-chaine-d-approvisionnement-logicielle
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une methode qui compromet un logiciel avant meme qu'il n'atteigne l'utilisateur final.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Proteger sa vie privee en ligne, principes de base
+slug: proteger-sa-vie-privee-en-ligne-principes-de-base
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des reflexes simples pour limiter la collecte de ses propres donnees personnelles.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybersecurite des systemes de vote electronique
+slug: la-cybersecurite-des-systemes-de-vote-electronique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Des exigences particulierement elevees pour un usage aussi sensible.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests d'intrusion, simuler une attaque pour se proteger
+slug: les-tests-d-intrusion-simuler-une-attaque-pour-se-proteger
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Une pratique proactive qui identifie les failles avant qu'un attaquant ne le fasse.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La cybersecurite des reseaux electriques intelligents
+slug: la-cybersecurite-des-reseaux-electriques-intelligents
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un enjeu croissant a mesure que ces infrastructures deviennent plus connectees.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cyberattaques etatiques et le cyberespionnage
+slug: les-cyberattaques-etatiques-et-le-cyberespionnage
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Un domaine ou des Etats eux-memes deviennent des acteurs de la menace informatique.
+tags: [cybersecurite]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation a la cybersecurite en entreprise
+slug: la-formation-a-la-cybersecurite-en-entreprise
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Pourquoi la sensibilisation humaine reste aussi importante que les outils techniques.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mots de passe par defaut, une vulnerabilite frequente et evitable
+slug: les-mots-de-passe-par-defaut-une-vulnerabilite-frequente-et-evitable
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Pourquoi ne jamais garder un mot de passe fourni par defaut sur un appareil.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reponse a incident en cybersecurite
+slug: la-reponse-a-incident-en-cybersecurite
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Les etapes precises a suivre immediatement apres la decouverte d'une compromission.
+tags: [cybersecurite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'evolution historique des menaces informatiques
+slug: l-evolution-historique-des-menaces-informatiques
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Comment les cyberattaques ont gagne en sophistication depuis les premiers virus.
+tags: [cybersecurite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole TCP/IP, la base technique d'internet
+slug: le-protocole-tcp-ip-la-base-technique-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un ensemble de regles communes qui permet a des milliards d'appareils de communiquer.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adresse IP, l'identifiant de chaque appareil connecte
+slug: l-adresse-ip-l-identifiant-de-chaque-appareil-connecte
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un numero unique necessaire pour qu'un message trouve son destinataire sur le reseau.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le routage, comment un message trouve son chemin sur internet
+slug: le-routage-comment-un-message-trouve-son-chemin-sur-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un systeme decentralise qui achemine l'information a travers de multiples points.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cables sous-marins, l'infrastructure physique d'internet
+slug: les-cables-sous-marins-l-infrastructure-physique-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des cables geants qui transportent l'essentiel du trafic internet mondial.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La neutralite du net, un principe fondateur menace
+slug: la-neutralite-du-net-un-principe-fondateur-menace
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Pourquoi ce principe garantit un traitement egal de toutes les donnees qui circulent.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Wi-Fi, principe technique de base
+slug: le-wi-fi-principe-technique-de-base
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment des ondes radio permettent une connexion sans fil a courte distance.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La 5G et l'evolution des reseaux mobiles
+slug: la-5g-et-l-evolution-des-reseaux-mobiles
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une nouvelle generation qui promet des debits et une latence bien ameliores.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole HTTP, la base des echanges web
+slug: le-protocole-http-la-base-des-echanges-web
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un standard qui permet a un navigateur d'obtenir le contenu d'une page.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le peering entre fournisseurs d'acces internet
+slug: le-peering-entre-fournisseurs-d-acces-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des accords techniques qui garantissent la fluidite globale du trafic mondial.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience d'internet face aux catastrophes
+slug: la-resilience-d-internet-face-aux-catastrophes
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment cette infrastructure decentralisee a ete concue pour resister a des pannes locales.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les serveurs DNS alternatifs et leur role
+slug: les-serveurs-dns-alternatifs-et-leur-role
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment on peut choisir differents annuaires pour ameliorer vitesse ou confidentialite.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fibre optique et le transport de donnees a tres haut debit
+slug: la-fibre-optique-et-le-transport-de-donnees-a-tres-haut-debit
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment la lumiere transporte l'information a une vitesse extremement rapide.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la creation d'internet
+slug: l-histoire-de-la-creation-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un projet initialement militaire et universitaire devenu une infrastructure mondiale.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le web decentralise, une alternative aux plateformes centralisees
+slug: le-web-decentralise-une-alternative-aux-plateformes-centralisees
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des projets qui tentent de repartir le pouvoir habituellement concentre en ligne.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La censure d'internet dans certains pays
+slug: la-censure-d-internet-dans-certains-pays
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment des Etats filtrent ou bloquent l'acces a certains contenus en ligne.
+tags: [internet]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le reseau Tor et l'anonymat en ligne
+slug: le-reseau-tor-et-l-anonymat-en-ligne
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un systeme qui permet de naviguer en masquant significativement son identite reelle.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les points d'echange internet (IXP)
+slug: les-points-d-echange-internet-ixp
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Des lieux physiques ou differents reseaux se connectent entre eux directement.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La saturation du reseau internet lors des grands evenements
+slug: la-saturation-du-reseau-internet-lors-des-grands-evenements
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Pourquoi un trafic massif ponctuel peut ralentir sensiblement une connexion.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole IPv6, l'avenir de l'adressage internet
+slug: le-protocole-ipv6-l-avenir-de-l-adressage-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une extension necessaire face a l'epuisement du nombre d'adresses disponibles.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gouvernance mondiale d'internet
+slug: la-gouvernance-mondiale-d-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment un reseau sans frontieres est neanmoins organise et regule.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux maillés communautaires
+slug: les-reseaux-mailles-communautaires
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une alternative locale et collaborative aux fournisseurs d'acces traditionnels.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La connexion satellite pour les zones sans infrastructure terrestre
+slug: la-connexion-satellite-pour-les-zones-sans-infrastructure-terrestre
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une solution recente pour un acces internet dans les regions les plus isolees.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole FTP et le transfert de fichiers
+slug: le-protocole-ftp-et-le-transfert-de-fichiers
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Une methode ancienne mais toujours utilisee pour echanger des fichiers volumineux.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualite de service sur un reseau internet
+slug: la-qualite-de-service-sur-un-reseau-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment on priorise certains types de trafic pour garantir une experience fluide.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les reseaux prives virtuels d'entreprise
+slug: les-reseaux-prives-virtuels-d-entreprise
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Comment des employes distants accedent en securite aux ressources internes.
+tags: [internet]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fracture numerique et l'acces inegal a internet
+slug: la-fracture-numerique-et-l-acces-inegal-a-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Un ecart persistant entre regions et populations dans l'acces a ce reseau essentiel.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fonctionnement d'un routeur domestique
+slug: le-fonctionnement-d-un-routeur-domestique
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  L'appareil central qui connecte l'ensemble des appareils d'un foyer a internet.
+tags: [internet, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.

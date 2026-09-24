@@ -2298,3 +2298,3543 @@ status: planned
 À rédiger.
 
 ---
+
+---
+type: article
+title: Le compagnonnage des plantes au potager
+slug: le-compagnonnage-des-plantes-au-potager
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Comment associer certaines cultures ameliore naturellement leur croissance mutuelle.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le paillage, proteger et nourrir le sol
+slug: le-paillage-proteger-et-nourrir-le-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une technique simple qui limite l'evaporation et enrichit progressivement la terre.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La permaculture, principes fondamentaux
+slug: la-permaculture-principes-fondamentaux
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une approche qui imite les ecosystemes naturels pour concevoir un systeme agricole durable.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La culture sur buttes
+slug: la-culture-sur-buttes
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une technique qui ameliore le drainage et la structure du sol cultive.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture sur brulis, avantages et limites
+slug: l-agriculture-sur-brulis-avantages-et-limites
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une methode ancienne, efficace a petite echelle mais destructrice si repetee trop souvent.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La jachere, laisser un sol se reposer
+slug: la-jachere-laisser-un-sol-se-reposer
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une pratique ancienne qui restaure naturellement la fertilite entre deux cultures.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture en terrasses
+slug: l-agriculture-en-terrasses
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une technique ancienne qui permet de cultiver efficacement des terrains en pente.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le maraichage sur petite surface
+slug: le-maraichage-sur-petite-surface
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Comment produire une quantite importante de legumes sur un espace limite.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'association des cultures cerealieres et legumineuses
+slug: l-association-des-cultures-cerealieres-et-legumineuses
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une pratique ancienne qui ameliore naturellement la fertilite du sol.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion de l'eau en agriculture seche
+slug: la-gestion-de-l-eau-en-agriculture-seche
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des techniques qui permettent de cultiver malgre des precipitations limitees.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les haies bocageres et leur role agricole
+slug: les-haies-bocageres-et-leur-role-agricole
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une infrastructure naturelle qui protege les cultures et abrite la biodiversite.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La culture en aquaponie
+slug: la-culture-en-aquaponie
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Un systeme qui combine elevage de poissons et culture de plantes en circuit ferme.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le desherbage sans produits chimiques
+slug: le-desherbage-sans-produits-chimiques
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des methodes manuelles et mecaniques pour limiter les plantes indesirables.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lutte integree contre les ravageurs agricoles
+slug: la-lutte-integree-contre-les-ravageurs-agricoles
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une approche qui combine plusieurs methodes pour limiter les degats sans tout eliminer chimiquement.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les auxiliaires de culture, des insectes allies
+slug: les-auxiliaires-de-culture-des-insectes-allies
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Comment certains insectes protegent naturellement les cultures contre d'autres nuisibles.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La rotation longue et la sante des sols
+slug: la-rotation-longue-et-la-sante-des-sols
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Pourquoi alterner sur plusieurs annees les cultures preserve mieux la fertilite.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture de conservation et le non-labour
+slug: l-agriculture-de-conservation-et-le-non-labour
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une methode qui limite le travail du sol pour preserver sa structure et sa vie.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compostage a la ferme
+slug: le-compostage-a-la-ferme
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Comment transformer des dechets organiques en un fertilisant naturel de qualite.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'elevage extensif contre l'elevage intensif
+slug: l-elevage-extensif-contre-l-elevage-intensif
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Deux modeles aux consequences tres differentes sur l'environnement et le bien-etre animal.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion durable des paturages
+slug: la-gestion-durable-des-paturages
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Comment eviter le surpaturage tout en maintenant une production animale suffisante.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agroforesterie mediterraneenne traditionnelle
+slug: l-agroforesterie-mediterraneenne-traditionnelle
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des systemes anciens qui combinent arbres et cultures dans des climats secs.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation des semences paysannes
+slug: la-conservation-des-semences-paysannes
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Pourquoi preserver des varietes locales reste essentiel a la resilience agricole.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sechage et la conservation des recoltes sans electricite
+slug: le-sechage-et-la-conservation-des-recoltes-sans-electricite
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des methodes traditionnelles pour eviter que les recoltes ne pourrissent.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les greniers traditionnels de stockage des grains
+slug: les-greniers-traditionnels-de-stockage-des-grains
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une infrastructure ancienne, efficace, pour proteger une recolte sur le long terme.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La polyculture-elevage, un systeme complementaire
+slug: la-polyculture-elevage-un-systeme-complementaire
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Comment associer cultures et animaux ameliore l'autonomie globale d'une ferme.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture de subsistance et son role economique
+slug: l-agriculture-de-subsistance-et-son-role-economique
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une forme d'agriculture qui nourrit encore une part importante de la population mondiale.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion de l'eau de pluie en agriculture
+slug: la-gestion-de-l-eau-de-pluie-en-agriculture
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Des techniques simples pour capter et utiliser efficacement une ressource gratuite.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agriculture biodynamique, principes et controverses
+slug: l-agriculture-biodynamique-principes-et-controverses
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Une approche qui va au-dela du bio, avec des pratiques parfois debattues scientifiquement.
+tags: [agriculture-durable]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resilience des systemes agricoles face aux chocs climatiques
+slug: la-resilience-des-systemes-agricoles-face-aux-chocs-climatiques
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Comment diversifier cultures et pratiques reduit le risque de perte totale.
+tags: [agriculture-durable, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La domestication des premieres plantes cultivees
+slug: la-domestication-des-premieres-plantes-cultivees
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment l'humanite a progressivement transforme des plantes sauvages en cultures fiables.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La domestication du mais en Amerique centrale
+slug: la-domestication-du-mais-en-amerique-centrale
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment une plante sauvage a ete transformee en l'une des cereales les plus cultivees au monde.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La domestication du riz en Asie
+slug: la-domestication-du-riz-en-asie
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un processus qui a nourri, et continue de nourrir, une part enorme de l'humanite.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection massale, une methode ancienne et accessible
+slug: la-selection-massale-une-methode-ancienne-et-accessible
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Choisir simplement les meilleures graines d'une recolte pour la suivante.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le croisement de varietes vegetales
+slug: le-croisement-de-varietes-vegetales
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une technique de base qui combine les qualites de deux plantes differentes.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation des semences a la ferme
+slug: la-conservation-des-semences-a-la-ferme
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Des methodes simples pour garder des graines viables d'une saison a l'autre.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les banques de semences mondiales
+slug: les-banques-de-semences-mondiales
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Des reserves protegees qui preservent la diversite genetique des plantes cultivees.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance aux maladies chez les plantes cultivees
+slug: la-resistance-aux-maladies-chez-les-plantes-cultivees
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment on selectionne des varietes capables de mieux resister aux agents pathogenes.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les varietes anciennes contre les varietes modernes
+slug: les-varietes-anciennes-contre-les-varietes-modernes
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un compromis entre rendement eleve et diversite genetique preservee.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le greffage, associer deux plantes en une seule
+slug: le-greffage-associer-deux-plantes-en-une-seule
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une technique ancienne qui combine les qualites d'un porte-greffe et d'un greffon.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La revolution verte, avancees et limites
+slug: la-revolution-verte-avancees-et-limites
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une periode qui a considerablement augmente les rendements, avec des consequences durables.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Norman Borlaug et l'histoire de la revolution verte
+slug: norman-borlaug-et-l-histoire-de-la-revolution-verte
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un chercheur dont les travaux ont contribue a eviter des famines majeures.
+tags: [selection-vegetale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les varietes hybrides F1, avantages et limites
+slug: les-varietes-hybrides-f1-avantages-et-limites
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Pourquoi ces varietes performent bien mais ne se reproduisent pas fidelement.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le riz dore, une plante enrichie en vitamine A
+slug: le-riz-dore-une-plante-enrichie-en-vitamine-a
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un exemple concret de selection visant a lutter contre une carence nutritionnelle repandue.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale pour la resistance a la secheresse
+slug: la-selection-vegetale-pour-la-resistance-a-la-secheresse
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un enjeu croissant face a des conditions climatiques de plus en plus instables.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plantes les plus nourrissantes au monde
+slug: les-plantes-les-plus-nourrissantes-au-monde
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un panorama des cultures qui offrent le meilleur rapport nutrition-rendement.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation in situ des varietes vegetales
+slug: la-conservation-in-situ-des-varietes-vegetales
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Preserver des plantes directement dans leur environnement naturel d'origine.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale pour ameliorer le gout
+slug: la-selection-vegetale-pour-ameliorer-le-gout
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Un objectif parfois neglige au profit du seul rendement ou de la conservation.
+tags: [selection-vegetale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les legumineuses ameliorees et la fixation d'azote
+slug: les-legumineuses-ameliorees-et-la-fixation-d-azote
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment on selectionne des varietes encore plus efficaces pour enrichir le sol.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le marcottage, une technique de multiplication vegetale simple
+slug: le-marcottage-une-technique-de-multiplication-vegetale-simple
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une methode accessible pour reproduire fidelement une plante sans passer par la graine.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bouturage, multiplier une plante sans semence
+slug: le-bouturage-multiplier-une-plante-sans-semence
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une technique tres simple et accessible, utilisee depuis des siecles.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale pour la conservation post-recolte
+slug: la-selection-vegetale-pour-la-conservation-post-recolte
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment certaines varietes se conservent naturellement plus longtemps que d'autres.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'adaptation des cultures a differents climats
+slug: l-adaptation-des-cultures-a-differents-climats
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment la selection vegetale a permis d'etendre certaines cultures a de nouvelles regions.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plantes vivrieres oubliees et leur potentiel
+slug: les-plantes-vivrieres-oubliees-et-leur-potentiel
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Des cultures autrefois abandonnees qui pourraient regagner en importance a l'avenir.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale participative avec les agriculteurs
+slug: la-selection-vegetale-participative-avec-les-agriculteurs
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Une approche qui associe directement les producteurs au choix des varietes ameliorees.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'amelioration de la pomme de terre
+slug: l-histoire-de-l-amelioration-de-la-pomme-de-terre
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment cette plante originaire des Andes s'est adaptee a des climats tres varies.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La diversite genetique comme assurance contre les crises agricoles
+slug: la-diversite-genetique-comme-assurance-contre-les-crises-agricoles
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Pourquoi cultiver plusieurs varietes reduit le risque de perte totale d'une recolte.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La selection vegetale et l'adaptation aux sols pauvres
+slug: la-selection-vegetale-et-l-adaptation-aux-sols-pauvres
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment certaines varietes ont ete developpees pour des terres peu fertiles.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les techniques de pollinisation controlee en selection vegetale
+slug: les-techniques-de-pollinisation-controlee-en-selection-vegetale
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Comment on maitrise precisement le croisement entre deux plantes choisies.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir de la selection vegetale face au changement climatique
+slug: l-avenir-de-la-selection-vegetale-face-au-changement-climatique
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Des recherches en cours pour adapter les cultures a des conditions futures incertaines.
+tags: [selection-vegetale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La composition d'un sol fertile
+slug: la-composition-d-un-sol-fertile
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un equilibre precis entre mineraux, matiere organique, eau et air.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La texture du sol, argile, limon et sable
+slug: la-texture-du-sol-argile-limon-et-sable
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Comment la proportion de ces trois elements determine les proprietes d'une terre.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pH du sol et son influence sur les cultures
+slug: le-ph-du-sol-et-son-influence-sur-les-cultures
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un facteur souvent sous-estime qui determine la disponibilite des nutriments.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation naturelle d'un sol
+slug: la-formation-naturelle-d-un-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un processus tres lent qui explique pourquoi une terre fertile est une ressource precieuse.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La structure du sol et sa capacite de retention d'eau
+slug: la-structure-du-sol-et-sa-capacite-de-retention-d-eau
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Comment l'organisation des particules du sol influence directement sa fertilite.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La matiere organique et son role dans la fertilite
+slug: la-matiere-organique-et-son-role-dans-la-fertilite
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un composant essentiel qui nourrit a la fois les plantes et la vie microbienne du sol.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'humus, un produit complexe de decomposition
+slug: l-humus-un-produit-complexe-de-decomposition
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une matiere stable qui ameliore durablement la structure et la fertilite d'un sol.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vie microbienne du sol et son role essentiel
+slug: la-vie-microbienne-du-sol-et-son-role-essentiel
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des milliards de micro-organismes invisibles mais indispensables a la fertilite.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les champignons mycorhiziens et les racines des plantes
+slug: les-champignons-mycorhiziens-et-les-racines-des-plantes
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une association naturelle qui ameliore considerablement l'absorption des nutriments.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'erosion des sols, causes et consequences
+slug: l-erosion-des-sols-causes-et-consequences
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un phenomene qui degrade irreversiblement une ressource pourtant essentielle.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La lutte contre l'erosion par des techniques simples
+slug: la-lutte-contre-l-erosion-par-des-techniques-simples
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des methodes accessibles pour proteger un sol cultive sans equipement couteux.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La desertification, un processus de degradation extreme
+slug: la-desertification-un-processus-de-degradation-extreme
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Comment un sol fertile peut, dans certaines conditions, devenir totalement improductif.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Reconnaitre un sol fertile a l'oeil et au toucher
+slug: reconnaitre-un-sol-fertile-a-l-oeil-et-au-toucher
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des methodes simples et accessibles pour evaluer une terre sans laboratoire.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compostage, transformer des dechets en fertilite
+slug: le-compostage-transformer-des-dechets-en-fertilite
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une methode accessible qui recycle la matiere organique en nutriments disponibles.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Fertiliser un sol sans engrais industriels
+slug: fertiliser-un-sol-sans-engrais-industriels
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des methodes traditionnelles qui restaurent la fertilite avec des ressources locales.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fumier animal comme fertilisant naturel
+slug: le-fumier-animal-comme-fertilisant-naturel
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une ressource traditionnelle essentielle a l'agriculture avant l'ere des engrais chimiques.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les engrais verts, cultiver pour enrichir le sol
+slug: les-engrais-verts-cultiver-pour-enrichir-le-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des plantes cultivees non pour la recolte, mais pour ameliorer la terre elle-meme.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'azote, le phosphore et le potassium, trois elements cles
+slug: l-azote-le-phosphore-et-le-potassium-trois-elements-cles
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Les trois nutriments essentiels que toute plante cultivee necessite en quantite.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cycle de l'azote dans le sol
+slug: le-cycle-de-l-azote-dans-le-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Comment cet element essentiel circule entre l'air, le sol et les plantes.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le phosphore, une ressource minerale limitee
+slug: le-phosphore-une-ressource-minerale-limitee
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Pourquoi cet element essentiel a l'agriculture pourrait devenir rare a long terme.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vers de terre, ingenieurs discrets du sol
+slug: les-vers-de-terre-ingenieurs-discrets-du-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un role essentiel dans l'aeration et l'enrichissement naturel de la terre.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La compaction du sol et ses consequences agricoles
+slug: la-compaction-du-sol-et-ses-consequences-agricoles
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Comment un sol trop tasse limite fortement la croissance des racines.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La salinisation des sols irrigues
+slug: la-salinisation-des-sols-irrigues
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Un probleme frequent qui degrade progressivement les terres cultivees en zone seche.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'analyse de sol, comprendre sa propre terre
+slug: l-analyse-de-sol-comprendre-sa-propre-terre
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des methodes simples pour identifier les besoins specifiques d'un terrain cultive.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La restauration d'un sol degrade
+slug: la-restauration-d-un-sol-degrade
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des techniques progressives pour redonner de la fertilite a une terre epuisee.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les sols volcaniques et leur fertilite exceptionnelle
+slug: les-sols-volcaniques-et-leur-fertilite-exceptionnelle
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Pourquoi certaines terres, malgre leur origine, comptent parmi les plus productives.
+tags: [sols-et-fertilite]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La gestion durable des terres agricoles a long terme
+slug: la-gestion-durable-des-terres-agricoles-a-long-terme
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Une approche qui vise a preserver la fertilite pour les generations futures.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des residus de culture dans la fertilite du sol
+slug: le-role-des-residus-de-culture-dans-la-fertilite-du-sol
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Pourquoi laisser certains debris vegetaux au champ ameliore la terre.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biodiversite du sol et sa mesure
+slug: la-biodiversite-du-sol-et-sa-mesure
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Comment on evalue la richesse invisible d'un ecosysteme souterrain.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le drainage des sols trop humides pour l'agriculture
+slug: le-drainage-des-sols-trop-humides-pour-l-agriculture
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Des techniques anciennes et modernes pour rendre une terre gorgee d'eau cultivable.
+tags: [sols-et-fertilite, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les principes de base de la biologie de synthese
+slug: les-principes-de-base-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une discipline qui concoit des systemes biologiques comme on concevrait un circuit electronique.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production de vaccins par biologie de synthese
+slug: la-production-de-vaccins-par-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment cette approche a accelere considerablement le developpement de certains vaccins.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les levures modifiees pour produire des molecules d'interet
+slug: les-levures-modifiees-pour-produire-des-molecules-d-interet
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment on detourne un organisme simple pour fabriquer des substances complexes.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production d'insuline par bacteries modifiees
+slug: la-production-d-insuline-par-bacteries-modifiees
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une avancee majeure qui a rendu ce traitement bien plus accessible et fiable.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biocarburants avances issus de la biologie de synthese
+slug: les-biocarburants-avances-issus-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des recherches qui visent a produire du carburant a partir d'organismes concus specifiquement.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La viande cultivee en laboratoire, principe et enjeux
+slug: la-viande-cultivee-en-laboratoire-principe-et-enjeux
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une technologie qui pourrait offrir une alternative a l'elevage traditionnel.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Creer une cellule synthetique, ou en est la recherche
+slug: creer-une-cellule-synthetique-ou-en-est-la-recherche
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Un objectif ambitieux qui reste, pour l'instant, largement theorique.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques biologiques associes a la biologie de synthese
+slug: les-risques-biologiques-associes-a-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des questions de securite serieuses souleve par la manipulation d'organismes vivants.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biosecurite dans les laboratoires de biologie de synthese
+slug: la-biosecurite-dans-les-laboratoires-de-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des protocoles stricts necessaires pour eviter tout accident ou usage malveillant.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les enzymes industrielles produites par des micro-organismes
+slug: les-enzymes-industrielles-produites-par-des-micro-organismes
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des molecules essentielles a de nombreux procedes, aujourd'hui produites biologiquement.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fermentation, une biotechnologie ancienne toujours actuelle
+slug: la-fermentation-une-biotechnologie-ancienne-toujours-actuelle
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une technique traditionnelle qui reste, aujourd'hui encore, une base de la biologie industrielle.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biopesticides issus de la biologie de synthese
+slug: les-biopesticides-issus-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une alternative biologique aux pesticides chimiques classiques.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production de plastiques biodegradables par des bacteries
+slug: la-production-de-plastiques-biodegradables-par-des-bacteries
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment certains micro-organismes fabriquent naturellement des materiaux alternatifs.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les circuits genetiques synthetiques
+slug: les-circuits-genetiques-synthetiques
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment on programme litteralement le comportement d'une cellule vivante.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese appliquee a la depollution
+slug: la-biologie-de-synthese-appliquee-a-la-depollution
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des micro-organismes concus pour degrader specifiquement certains polluants.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les debats ethiques autour de la biologie de synthese
+slug: les-debats-ethiques-autour-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des questions philosophiques et morales soulevees par la creation de vie artificielle.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production de proteines alimentaires par fermentation
+slug: la-production-de-proteines-alimentaires-par-fermentation
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une piste serieuse pour diversifier les sources de proteines a grande echelle.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algues modifiees pour la production de biocarburants
+slug: les-algues-modifiees-pour-la-production-de-biocarburants
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Un organisme prometteur en raison de sa croissance rapide et de sa faible demande en terre.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation internationale de la biologie de synthese
+slug: la-regulation-internationale-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Un cadre encore en construction face a une technologie qui progresse rapidement.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les applications medicales de la biologie de synthese
+slug: les-applications-medicales-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment cette discipline ouvre de nouvelles pistes therapeutiques prometteuses.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production de saveurs et aromes par biologie de synthese
+slug: la-production-de-saveurs-et-aromes-par-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment on reproduit biologiquement des composes autrefois extraits de plantes rares.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les micro-organismes concus pour produire du carburant a partir de dechets
+slug: les-micro-organismes-concus-pour-produire-du-carburant-a-partir-de-dechets
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Une piste qui associe gestion des dechets et production d'energie.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese et la resilience alimentaire
+slug: la-biologie-de-synthese-et-la-resilience-alimentaire
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment cette discipline pourrait, a terme, diversifier les sources de nourriture disponibles.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les outils de conception assistee par ordinateur en biologie de synthese
+slug: les-outils-de-conception-assistee-par-ordinateur-en-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment les chercheurs planifient numeriquement des systemes biologiques complexes.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese dans la fabrication de medicaments complexes
+slug: la-biologie-de-synthese-dans-la-fabrication-de-medicaments-complexes
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment cette approche permet de produire des molecules auparavant tres difficiles a synthetiser.
+tags: [biologie-de-synthese]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les start-ups pionnieres de la biologie de synthese
+slug: les-start-ups-pionnieres-de-la-biologie-de-synthese
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Un secteur en croissance qui attire des investissements importants ces dernieres annees.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese et la production de vitamines
+slug: la-biologie-de-synthese-et-la-production-de-vitamines
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Comment certains nutriments essentiels sont aujourd'hui produits par des organismes modifies.
+tags: [biologie-de-synthese, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les defis techniques de la biologie de synthese a grande echelle
+slug: les-defis-techniques-de-la-biologie-de-synthese-a-grande-echelle
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Pourquoi passer du laboratoire a la production industrielle reste souvent complexe.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biologie de synthese appliquee a la conservation des especes
+slug: la-biologie-de-synthese-appliquee-a-la-conservation-des-especes
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des pistes de recherche exploratoires pour proteger, voire restaurer, certaines especes.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir de la biologie de synthese dans l'industrie
+slug: l-avenir-de-la-biologie-de-synthese-dans-l-industrie
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Des applications qui pourraient transformer plusieurs secteurs economiques a moyen terme.
+tags: [biologie-de-synthese]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe de base de la modification genetique
+slug: le-principe-de-base-de-la-modification-genetique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment on introduit ou modifie un gene precis dans un organisme vivant.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Watson, Crick et Franklin, l'histoire d'une decouverte partagee
+slug: watson-crick-et-franklin-l-histoire-d-une-decouverte-partagee
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une avancee scientifique majeure dont l'histoire complete merite d'etre connue.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sequencage du genome humain
+slug: le-sequencage-du-genome-humain
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un projet international majeur qui a cartographie l'ensemble de notre patrimoine genetique.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: CRISPR, comment fonctionnent ces ciseaux moleculaires
+slug: crispr-comment-fonctionnent-ces-ciseaux-moleculaires
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une technologie qui permet de modifier l'ADN avec une precision inedite.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'origine bacterienne naturelle de CRISPR
+slug: l-origine-bacterienne-naturelle-de-crispr
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment un mecanisme de defense bacterien est devenu un outil scientifique majeur.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les therapies geniques, principes et exemples
+slug: les-therapies-geniques-principes-et-exemples
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment on corrige directement une maladie en modifiant le materiel genetique d'un patient.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La premiere maladie soignee par therapie genique
+slug: la-premiere-maladie-soignee-par-therapie-genique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un moment historique qui a valide le principe de cette approche therapeutique.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les OGM alimentaires, ce que dit la science sur leur securite
+slug: les-ogm-alimentaires-ce-que-dit-la-science-sur-leur-securite
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un sujet souvent debattu, avec un large consensus scientifique sur son innocuite alimentaire.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les OGM resistants aux insectes ravageurs
+slug: les-ogm-resistants-aux-insectes-ravageurs
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment une modification genetique peut reduire le besoin en pesticides chimiques.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'edition genetique d'embryons humains, un debat ethique majeur
+slug: l-edition-genetique-d-embryons-humains-un-debat-ethique-majeur
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une frontiere scientifique qui souleve des questions morales tres serieuses.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cas de He Jiankui et les bebes genetiquement modifies
+slug: le-cas-de-he-jiankui-et-les-bebes-genetiquement-modifies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un evenement controverse qui a marque durablement le debat sur cette technologie.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le sequencage de l'ADN, comment ca fonctionne concretement
+slug: le-sequencage-de-l-adn-comment-ca-fonctionne-concretement
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une technique qui permet de lire, lettre par lettre, le code genetique d'un organisme.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests ADN genealogiques, ce qu'ils revelent vraiment
+slug: les-tests-adn-genealogiques-ce-qu-ils-revelent-vraiment
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Ce que ces analyses commerciales peuvent, et ne peuvent pas, reellement affirmer.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les animaux genetiquement modifies pour la recherche medicale
+slug: les-animaux-genetiquement-modifies-pour-la-recherche-medicale
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment ces organismes aident a comprendre et tester des traitements futurs.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le clonage animal, principe et limites
+slug: le-clonage-animal-principe-et-limites
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une technique qui a marque les esprits, mais dont les applications restent limitees.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La brebis Dolly et l'histoire du premier clonage de mammifere
+slug: la-brebis-dolly-et-l-histoire-du-premier-clonage-de-mammifere
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un evenement scientifique majeur qui a change la perception publique de cette technologie.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique dans la production de medicaments
+slug: le-genie-genetique-dans-la-production-de-medicaments
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment des organismes modifies fabriquent aujourd'hui des molecules therapeutiques complexes.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La biosecurite des organismes genetiquement modifies
+slug: la-biosecurite-des-organismes-genetiquement-modifies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Des protocoles stricts pour eviter tout risque de dissemination non controlee.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique applique aux plantes resistantes a la secheresse
+slug: le-genie-genetique-applique-aux-plantes-resistantes-a-la-secheresse
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une piste de recherche pour adapter les cultures a des conditions climatiques changeantes.
+tags: [genie-genetique, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La regulation internationale des OGM
+slug: la-regulation-internationale-des-ogm
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Des approches tres differentes selon les pays face a cette meme technologie.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique et la lutte contre les maladies genetiques rares
+slug: le-genie-genetique-et-la-lutte-contre-les-maladies-genetiques-rares
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment cette technologie ouvre des perspectives inedites pour des patients auparavant sans solution.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vecteurs viraux en therapie genique
+slug: les-vecteurs-viraux-en-therapie-genique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment on utilise, de maniere controlee, des virus modifies pour delivrer un traitement.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique dans l'agriculture, panorama des applications
+slug: le-genie-genetique-dans-l-agriculture-panorama-des-applications
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Un ensemble de techniques varies, au-dela de la seule resistance aux insectes.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation genetique des especes menacees
+slug: la-conservation-genetique-des-especes-menacees
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment le sequencage aide a preserver la diversite genetique d'especes en danger.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le debat public autour des OGM en Europe
+slug: le-debat-public-autour-des-ogm-en-europe
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Pourquoi cette technologie a suscite une mefiance particulierement forte dans certains pays.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique et la production de vaccins modernes
+slug: le-genie-genetique-et-la-production-de-vaccins-modernes
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment cette technologie a accelere considerablement le developpement de certains vaccins.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites actuelles de la therapie genique
+slug: les-limites-actuelles-de-la-therapie-genique
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Des defis techniques et economiques qui restent a resoudre pour cette approche.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le genie genetique dans la lutte contre les moustiques vecteurs de maladies
+slug: le-genie-genetique-dans-la-lutte-contre-les-moustiques-vecteurs-de-maladies
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Une piste de recherche controversee mais potentiellement tres efficace.
+tags: [genie-genetique]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avenir du genie genetique en medecine personnalisee
+slug: l-avenir-du-genie-genetique-en-medecine-personnalisee
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Comment cette technologie pourrait, a terme, adapter un traitement au profil genetique de chacun.
+tags: [genie-genetique]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decouverte des rayons X
+slug: la-decouverte-des-rayons-x
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une decouverte accidentelle qui a ouvert la voie a toute l'imagerie medicale moderne.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le principe physique de la radiographie
+slug: le-principe-physique-de-la-radiographie
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment des rayons traversent le corps differemment selon les tissus rencontres.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques et precautions liees aux rayons X
+slug: les-risques-et-precautions-liees-aux-rayons-x
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Pourquoi cet examen, bien qu'utile, doit rester utilise avec moderation.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'IRM, principe physique de base
+slug: l-irm-principe-physique-de-base
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique qui utilise un champ magnetique puissant plutot que des rayonnements.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi l'IRM ne convient pas a tout le monde
+slug: pourquoi-l-irm-ne-convient-pas-a-tout-le-monde
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des contre-indications specifiques liees a la presence de certains implants metalliques.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echographie, une technique sans rayonnement
+slug: l-echographie-une-technique-sans-rayonnement
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment des ultrasons permettent de visualiser l'interieur du corps en toute securite.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echographie pendant la grossesse
+slug: l-echographie-pendant-la-grossesse
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un examen essentiel pour suivre le developpement d'un foetus sans risque connu.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le scanner (tomodensitometrie), principe et usages
+slug: le-scanner-tomodensitometrie-principe-et-usages
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique qui combine plusieurs radiographies pour reconstituer une image en trois dimensions.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Examiner un patient sans machine, l'auscultation clinique
+slug: examiner-un-patient-sans-machine-l-auscultation-clinique
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des methodes traditionnelles toujours essentielles avant tout recours a l'imagerie.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La palpation, un examen medical de base
+slug: la-palpation-un-examen-medical-de-base
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique simple et ancienne qui reste essentielle au diagnostic clinique.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de l'invention du stethoscope
+slug: l-histoire-de-l-invention-du-stethoscope
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un instrument simple qui a transforme l'examen clinique du patient.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mammographie et le depistage du cancer du sein
+slug: la-mammographie-et-le-depistage-du-cancer-du-sein
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un examen d'imagerie specifique dedie a la detection precoce de cette maladie.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale portable dans les zones isolees
+slug: l-imagerie-medicale-portable-dans-les-zones-isolees
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des technologies simplifiees concues pour fonctionner sans infrastructure lourde.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'endoscopie, observer l'interieur du corps directement
+slug: l-endoscopie-observer-l-interieur-du-corps-directement
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une technique qui permet de visualiser un organe sans chirurgie majeure.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La coloscopie et le depistage du cancer colorectal
+slug: la-coloscopie-et-le-depistage-du-cancer-colorectal
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un examen specifique essentiel a la prevention de cette maladie frequente.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie par contraste, ameliorer la visibilite de certains tissus
+slug: l-imagerie-par-contraste-ameliorer-la-visibilite-de-certains-tissus
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment un produit specifique rend visibles des structures autrement indiscernables.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques des produits de contraste utilises en imagerie
+slug: les-risques-des-produits-de-contraste-utilises-en-imagerie
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des precautions necessaires pour certains patients avant l'usage de ces produits.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale et le suivi des traitements contre le cancer
+slug: l-imagerie-medicale-et-le-suivi-des-traitements-contre-le-cancer
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment ces techniques permettent de mesurer l'efficacite reelle d'un traitement.
+tags: [imagerie-medicale]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'echographie doppler et le suivi de la circulation sanguine
+slug: l-echographie-doppler-et-le-suivi-de-la-circulation-sanguine
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Une variante qui mesure specifiquement le mouvement du sang dans les vaisseaux.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radiographie dentaire, principe et frequence recommandee
+slug: la-radiographie-dentaire-principe-et-frequence-recommandee
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un examen courant qui doit lui aussi respecter un principe de moderation.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale en situation d'urgence
+slug: l-imagerie-medicale-en-situation-d-urgence
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment ces techniques permettent un diagnostic rapide dans des situations critiques.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La formation des radiologues et l'interpretation des images
+slug: la-formation-des-radiologues-et-l-interpretation-des-images
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Un metier hautement specialise qui exige des annees de formation.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale et la detection precoce des fractures
+slug: l-imagerie-medicale-et-la-detection-precoce-des-fractures
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment une simple radiographie peut confirmer ou ecarter ce type de blessure.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites de l'imagerie medicale
+slug: les-limites-de-l-imagerie-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Ce que ces techniques ne peuvent pas, malgre leur sophistication, toujours reveler.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale vétérinaire
+slug: l-imagerie-medicale-veterinaire
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment ces memes technologies sont adaptees au diagnostic des animaux.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des premieres utilisations medicales des ultrasons
+slug: l-histoire-des-premieres-utilisations-medicales-des-ultrasons
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Comment cette technologie initialement militaire a trouve une application medicale majeure.
+tags: [imagerie-medicale]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La radioprotection des professionnels de sante
+slug: la-radioprotection-des-professionnels-de-sante
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des precautions specifiques necessaires pour ceux qui utilisent ces techniques au quotidien.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'imagerie medicale a faible cout pour les pays en developpement
+slug: l-imagerie-medicale-a-faible-cout-pour-les-pays-en-developpement
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Des innovations recentes qui visent a rendre ces examens plus accessibles.
+tags: [imagerie-medicale, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les niveaux de preuve en medecine, une hierarchie essentielle
+slug: les-niveaux-de-preuve-en-medecine-une-hierarchie-essentielle
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Pourquoi toutes les etudes scientifiques ne se valent pas dans leur fiabilite.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'essai clinique randomise, un standard de reference
+slug: l-essai-clinique-randomise-un-standard-de-reference
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une methode rigoureuse qui reste la reference pour prouver l'efficacite d'un traitement.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le double aveugle, eliminer les biais d'attente
+slug: le-double-aveugle-eliminer-les-biais-d-attente
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une methode qui empeche a la fois le patient et le medecin d'influencer, meme inconsciemment, le resultat.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet placebo, un phenomene reel et mesurable
+slug: l-effet-placebo-un-phenomene-reel-et-mesurable
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment une substance inactive peut neanmoins produire un effet mesurable.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'effet nocebo, quand l'attente d'un mal le provoque
+slug: l-effet-nocebo-quand-l-attente-d-un-mal-le-provoque
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Le pendant negatif de l'effet placebo, tout aussi reel scientifiquement.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les meta-analyses, combiner plusieurs etudes
+slug: les-meta-analyses-combiner-plusieurs-etudes
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une methode qui rassemble des resultats varies pour degager une conclusion plus fiable.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Corrélation n'est pas causalite, un piège frequent
+slug: correlation-n-est-pas-causalite-un-piege-frequent
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une erreur de raisonnement tres commune, meme parmi des observateurs attentifs.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Semmelweis et la decouverte du lavage des mains
+slug: semmelweis-et-la-decouverte-du-lavage-des-mains
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une histoire qui illustre comment une idee juste peut mettre du temps a s'imposer.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: James Lind et le premier essai clinique controle de l'histoire
+slug: james-lind-et-le-premier-essai-clinique-controle-de-l-histoire
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une experience du XVIIIe siecle qui a pose les bases de la methode scientifique en medecine.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les conflits d'interets en recherche medicale
+slug: les-conflits-d-interets-en-recherche-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment le financement d'une etude peut, sans fraude, influencer ses conclusions.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Lire une etude medicale avec esprit critique
+slug: lire-une-etude-medicale-avec-esprit-critique
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Des reperes simples pour evaluer soi-meme la solidite d'une publication scientifique.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La taille de l'echantillon dans une etude scientifique
+slug: la-taille-de-l-echantillon-dans-une-etude-scientifique
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Pourquoi une etude menee sur trop peu de personnes reste peu fiable.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le biais de publication en recherche medicale
+slug: le-biais-de-publication-en-recherche-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Pourquoi les etudes aux resultats negatifs sont moins souvent publiees que les positives.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La reproductibilite des resultats scientifiques
+slug: la-reproductibilite-des-resultats-scientifiques
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un critere essentiel : un resultat isole ne suffit jamais a etablir une verite medicale.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les etudes observationnelles contre les essais controles
+slug: les-etudes-observationnelles-contre-les-essais-controles
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Deux types d'etudes aux niveaux de preuve tres differents.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine factuelle face aux croyances populaires
+slug: la-medecine-factuelle-face-aux-croyances-populaires
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment distinguer un traitement prouve d'une pratique simplement traditionnelle.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role des agences de sante dans l'evaluation des traitements
+slug: le-role-des-agences-de-sante-dans-l-evaluation-des-traitements
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment des organismes independants verifient l'efficacite avant toute autorisation.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les revues systematiques de la litterature medicale
+slug: les-revues-systematiques-de-la-litterature-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une methode rigoureuse qui rassemble et evalue l'ensemble des preuves disponibles sur un sujet.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des erreurs medicales corrigees par la science
+slug: l-histoire-des-erreurs-medicales-corrigees-par-la-science
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Des pratiques longtemps considerees comme valides, abandonnees apres des preuves contraires.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le scorbut et la decouverte du role de la vitamine C
+slug: le-scorbut-et-la-decouverte-du-role-de-la-vitamine-c
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Une histoire emblematique de la demarche scientifique appliquee a la medecine.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves face aux medecines alternatives
+slug: la-medecine-fondee-sur-les-preuves-face-aux-medecines-alternatives
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment on evalue scientifiquement, avec ou sans succes, ces pratiques.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le suivi a long terme dans les etudes medicales
+slug: le-suivi-a-long-terme-dans-les-etudes-medicales
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Pourquoi certains effets, bons ou mauvais, n'apparaissent que des annees plus tard.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais cliniques de phase 1, 2 et 3, une progression prudente
+slug: les-essais-cliniques-de-phase-1-2-et-3-une-progression-prudente
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment un nouveau traitement est teste par etapes successives de plus en plus larges.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La significativite statistique en medecine
+slug: la-significativite-statistique-en-medecine
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un concept technique essentiel pour distinguer un vrai effet d'un simple hasard.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le consentement eclaire dans la recherche medicale
+slug: le-consentement-eclaire-dans-la-recherche-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Un principe ethique fondamental qui protege les participants a une etude.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les registres de patients en recherche medicale
+slug: les-registres-de-patients-en-recherche-medicale
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment on suit sur le long terme de larges populations pour observer des tendances.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La medecine fondee sur les preuves dans les pays a faibles ressources
+slug: la-medecine-fondee-sur-les-preuves-dans-les-pays-a-faibles-ressources
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment appliquer ces principes rigoureux malgre des moyens limites.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire du developpement de la methode scientifique en medecine
+slug: l-histoire-du-developpement-de-la-methode-scientifique-en-medecine
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment cette discipline est passee de l'observation empirique a la preuve rigoureuse.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les limites de la medecine fondee sur les preuves
+slug: les-limites-de-la-medecine-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Ce que cette approche rigoureuse ne peut pas toujours capturer dans la pratique clinique.
+tags: [medecine-fondee-sur-les-preuves]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le role du patient dans une decision medicale fondee sur les preuves
+slug: le-role-du-patient-dans-une-decision-medicale-fondee-sur-les-preuves
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Comment concilier donnees scientifiques et preferences individuelles du patient.
+tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La decouverte accidentelle de la penicilline
+slug: la-decouverte-accidentelle-de-la-penicilline
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment une observation fortuite a change durablement le cours de la medecine.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Alexander Fleming et l'histoire de la penicilline
+slug: alexander-fleming-et-l-histoire-de-la-penicilline
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un chercheur dont l'observation attentive a mene a une decouverte majeure.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'aspirine, de l'ecorce de saule au medicament moderne
+slug: l-aspirine-de-l-ecorce-de-saule-au-medicament-moderne
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un exemple emblematique de molecule naturelle purifiee puis synthetisee.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacocinetique, ce que le corps fait au medicament
+slug: la-pharmacocinetique-ce-que-le-corps-fait-au-medicament
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment un medicament est absorbe, distribue, transforme puis elimine par le corps.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacodynamie, ce que le medicament fait au corps
+slug: la-pharmacodynamie-ce-que-le-medicament-fait-au-corps
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment une molecule interagit precisement avec ses cibles biologiques.
+tags: [pharmacologie]
+priority: 3
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les essais cliniques, etapes obligatoires avant commercialisation
+slug: les-essais-cliniques-etapes-obligatoires-avant-commercialisation
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un long parcours de verification necessaire avant qu'un medicament n'atteigne les patients.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les medicaments generiques, meme efficacite a moindre cout
+slug: les-medicaments-generiques-meme-efficacite-a-moindre-cout
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Pourquoi une copie fidele d'un medicament peut couter bien moins cher.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacovigilance, surveiller les medicaments apres leur mise sur le marche
+slug: la-pharmacovigilance-surveiller-les-medicaments-apres-leur-mise-sur-le-marche
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment on continue de detecter des effets rares une fois un traitement largement utilise.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les effets indesirables des medicaments, comment ils sont classes
+slug: les-effets-indesirables-des-medicaments-comment-ils-sont-classes
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une distinction utile entre effets frequents et rares, benins et graves.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les interactions medicamenteuses, un risque a connaitre
+slug: les-interactions-medicamenteuses-un-risque-a-connaitre
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Pourquoi combiner certains traitements peut modifier dangereusement leurs effets.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les anesthesiques, une revolution pour la chirurgie
+slug: les-anesthesiques-une-revolution-pour-la-chirurgie
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment ces substances ont rendu possible une chirurgie sans douleur insupportable.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire des premieres anesthesies chirurgicales
+slug: l-histoire-des-premieres-anesthesies-chirurgicales
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Des tentatives risquees qui ont progressivement etabli des methodes fiables.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les antibiotiques, mode d'action general
+slug: les-antibiotiques-mode-d-action-general
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment ces medicaments ciblent specifiquement les bacteries sans toucher les cellules humaines.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La resistance bacterienne aux antibiotiques
+slug: la-resistance-bacterienne-aux-antibiotiques
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un phenomene naturel accelere par un usage excessif de ces medicaments.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bon usage des antibiotiques au quotidien
+slug: le-bon-usage-des-antibiotiques-au-quotidien
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Des principes simples pour limiter le developpement de resistances bacteriennes.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les plantes medicinales, ce que la science confirme reellement
+slug: les-plantes-medicinales-ce-que-la-science-confirme-reellement
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un tri necessaire entre efficacite prouvee et croyance populaire persistante.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La quinine, un remede historique contre le paludisme
+slug: la-quinine-un-remede-historique-contre-le-paludisme
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une molecule naturelle qui a longtemps ete le seul traitement efficace contre cette maladie.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La digitaline, du jardin a la pharmacie
+slug: la-digitaline-du-jardin-a-la-pharmacie
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un exemple ancien de plante toxique devenue medicament a dose controlee.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les vaccins, une forme particuliere de pharmacologie preventive
+slug: les-vaccins-une-forme-particuliere-de-pharmacologie-preventive
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment ces produits previennent une maladie plutot que de la traiter apres coup.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La posologie, pourquoi le dosage compte autant que la molecule
+slug: la-posologie-pourquoi-le-dosage-compte-autant-que-la-molecule
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un principe fondamental resume par l'expression ancienne selon laquelle la dose fait le poison.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les formes galeniques d'un medicament
+slug: les-formes-galeniques-d-un-medicament
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comprime, sirop, injection : pourquoi une meme molecule prend des formes differentes.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La conservation des medicaments, regles essentielles
+slug: la-conservation-des-medicaments-regles-essentielles
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Des precautions simples pour garantir qu'un medicament reste efficace et sur.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les medicaments essentiels selon l'Organisation mondiale de la sante
+slug: les-medicaments-essentiels-selon-l-organisation-mondiale-de-la-sante
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une liste qui identifie les traitements les plus indispensables a toute population.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication artisanale historique des remedes avant l'industrie pharmaceutique
+slug: la-fabrication-artisanale-historique-des-remedes-avant-l-industrie-pharmaceutique
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment les remedes etaient prepares avant la standardisation industrielle moderne.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les analgesiques, comprendre les differents niveaux de puissance
+slug: les-analgesiques-comprendre-les-differents-niveaux-de-puissance
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Une classification utile pour comprendre pourquoi tous les antidouleurs ne se valent pas.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie du paracetamol
+slug: la-pharmacologie-du-paracetamol
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Un medicament tres courant dont le mecanisme precis reste partiellement mysterieux.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les risques du surdosage medicamenteux
+slug: les-risques-du-surdosage-medicamenteux
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Des precautions essentielles, meme pour des medicaments consideres comme benins.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pharmacologie appliquee aux enfants, des doses adaptees
+slug: la-pharmacologie-appliquee-aux-enfants-des-doses-adaptees
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Pourquoi on ne peut jamais simplement reduire une dose adulte pour un enfant.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acces aux medicaments essentiels dans le monde
+slug: l-acces-aux-medicaments-essentiels-dans-le-monde
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Des inegalites persistantes qui limitent l'acces a des traitements pourtant peu couteux.
+tags: [pharmacologie, essentiel-reconstruction]
+priority: 2
+essentiel: true
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'histoire de la fondation de l'industrie pharmaceutique moderne
+slug: l-histoire-de-la-fondation-de-l-industrie-pharmaceutique-moderne
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Comment la production de medicaments est passee de l'artisanat a l'industrie a grande echelle.
+tags: [pharmacologie]
+priority: 2
+essentiel: false
+status: planned
+---
+
+À rédiger.
