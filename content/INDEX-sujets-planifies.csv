@@ -1,0 +1,965 @@
+domaine;categoryPath;titre;slug;priorite;essentiel;status
+arts;arts-et-culture/arts-du-spectacle/musique;Pourquoi le la fait 440 hertz;diapason-a440-norme-internationale;;non;published
+arts;arts-et-culture/arts-du-spectacle/musique;Pourquoi un piano est toujours un peu faux;gammes-et-temperament-egal;;non;published
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;Aux origines du théâtre;origines-theatre-grec-antique;;non;published
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;La naissance du ballet;naissance-du-ballet-classique;;non;published
+arts;arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques;L'invention de l'opéra;naissance-de-lopera-en-italie;;non;published
+arts;arts-et-culture/arts-du-spectacle/musique;L'enregistrement du son;histoire-de-lenregistrement-sonore;;non;published
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La perspective, une invention du XVe siècle;perspective-lineaire-renaissance;;non;published
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Le tableau à 450 millions de dollars;salvator-mundi-record-denchere;;non;published
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;L'invention de la photographie;invention-de-la-photographie;;non;published
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;La première séance de cinéma;premiere-projection-cinematographe-lumiere;;non;published
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;L'histoire des lettres que vous lisez;histoire-de-la-typographie;;non;published
+arts;arts-et-culture/patrimoine/architecture;Les trois ordres de l'architecture grecque;ordres-architecturaux-grecs;;non;published
+arts;arts-et-culture/patrimoine/architecture;Comment le gothique a fait entrer la lumière;art-gothique-et-croisee-dogives;;non;published
+arts;arts-et-culture/patrimoine/architecture;Le Burj Khalifa et la résistance au vent;burj-khalifa-exemple-architectural;;non;published
+arts;arts-et-culture/patrimoine/musees-et-conservation;La Liste du patrimoine mondial;liste-du-patrimoine-mondial-unesco;;non;published
+arts;arts-et-culture/patrimoine/musees-et-conservation;Conserver plutôt que restaurer;conservation-preventive-et-restauration;;non;published
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Le patrimoine qui ne se touche pas;patrimoine-culturel-immateriel;;non;published
+arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;Comment le roman est devenu un genre;naissance-du-roman-moderne;;non;published
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;L'imprimerie de Gutenberg;invention-de-limprimerie-a-caracteres-mobiles;;non;published
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le massage cardiaque;massage-cardiaque;;non;published
+droit;droit-et-justice/droit-prive/droit-civil;Le Code civil de 1804;code-civil-des-francais-1804;;non;published
+droit;droit-et-justice/droit-prive/droit-penal;Ce que la loi interdit et pourquoi;principes-du-droit-penal;;non;published
+droit;droit-et-justice/droit-prive/droit-penal;L'abolition de la peine de mort en France;abolition-peine-de-mort-france-1981;;non;published
+droit;droit-et-justice/droit-prive/procedure-et-preuve;La présomption d'innocence;presomption-dinnocence-et-charge-de-la-preuve;;non;published
+droit;droit-et-justice/droit-public/droit-constitutionnel;La Constitution de 1958;constitution-du-4-octobre-1958;;non;published
+droit;droit-et-justice/droit-public/droit-international;La Cour pénale internationale;cour-penale-internationale-statut-de-rome;;non;published
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;Le principe de précaution;principe-de-precaution;;non;published
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Comment sont organisés les tribunaux;organisation-tribunaux-en-france;;non;published
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;La Déclaration universelle des droits de l'homme;declaration-universelle-droits-homme-1948;;non;published
+droit;droit-et-justice/justice-et-institutions/metiers-du-droit;Qui fait quoi dans un tribunal;metiers-de-la-justice;;non;published
+droit;droit-et-justice/droit-prive/droit-civil;Ce qui rend un contrat valable;contrat-conditions-de-validite;;non;published
+droit;droit-et-justice/droit-prive/droit-civil;Réparer le dommage que l'on cause;responsabilite-civile-et-reparation;;non;published
+droit;droit-et-justice/droit-prive/droit-penal;Pourquoi les infractions se prescrivent;prescription-en-matiere-penale;;non;published
+droit;droit-et-justice/droit-prive/procedure-et-preuve;La garde à vue;garde-a-vue-et-droits-de-la-defense;;non;published
+droit;droit-et-justice/droit-public/droit-constitutionnel;La séparation des pouvoirs;separation-des-pouvoirs;;non;published
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;La liberté d'expression et ses limites;liberte-dexpression-et-ses-limites;;non;published
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le contrat de travail;contrat-de-travail-et-licenciement;;non;published
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le droit de grève;droit-de-greve;;non;published
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Rétractation et garanties;droit-de-retractation-et-garanties;;non;published
+energie;energie/energies-renouvelables/hydraulique;Le moulin à eau;moulin-eau;;non;published
+environnement;environnement-et-climat/pollution-et-ressources/eau;Rendre l'eau potable;rendre-eau-potable;;non;published
+espace;espace-et-astronomie/systeme-solaire/planetes;Les huit planètes du Système solaire;huit-planetes-systeme-solaire;;non;published
+espace;espace-et-astronomie/systeme-solaire/lune;La Lune, sa formation et les marées;la-lune-formation-et-marees;;non;published
+espace;espace-et-astronomie/systeme-solaire/petits-corps;Astéroïdes, comètes et météorites;asteroides-cometes-et-meteorites;;non;published
+espace;espace-et-astronomie/astrophysique/etoiles;Comment naissent et meurent les étoiles;formation-stellaire-galaxies-lointaines-jwst;;non;published
+espace;espace-et-astronomie/astrophysique/cosmologie;Les ondes gravitationnelles;gwtc-5-catalogue-ondes-gravitationnelles;;non;published
+espace;espace-et-astronomie/astrophysique/trous-noirs;Les trous noirs;trous-noirs-ce-quon-en-sait;;non;published
+espace;espace-et-astronomie/exploration-spatiale/sondes;Le télescope spatial James Webb;telescope-spatial-james-webb;;non;published
+espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;Pourquoi observer dans l'infrarouge;pourquoi-observer-dans-linfrarouge;;non;published
+espace;espace-et-astronomie/observation-astronomique/telescopes;À quoi sert la taille d'un télescope;taille-des-telescopes-et-resolution;;non;published
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;Artemis II, le retour vers la Lune;artemis-ii-retour-vers-la-lune;;non;published
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Comment on met un objet en orbite;mettre-un-objet-en-orbite;;non;published
+geographie;geographie-et-territoires/geographie-physique/reliefs;La formation des montagnes;formation-chaines-de-montagnes;;non;published
+geographie;geographie-et-territoires/geographie-physique/climatologie;Les grands types de climats;classification-climats-mondiaux-koppen;;non;published
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Pourquoi il pleut ici et pas là;pourquoi-il-pleut-ici-et-pas-la;;non;published
+geographie;geographie-et-territoires/geographie-humaine/demographie;Huit milliards d'habitants;huit-milliards-dhabitants;;non;published
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;L'urbanisation du monde;urbanisation-mondiale-onu;;non;published
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les migrations, chiffres et idées reçues;migrations-realites-et-idees-recues;;non;published
+geographie;geographie-et-territoires/geopolitique/frontieres;Comment se dessinent les frontières;differend-frontalier-essequibo-guyana-venezuela;;non;published
+geographie;geographie-et-territoires/geopolitique/ressources;Les ressources stratégiques;repartition-mondiale-lithium-ressource-strategique;;non;published
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Les détroits et les routes maritimes;detroits-et-routes-maritimes;;non;published
+industries;industries/industrie-lourde/siderurgie;Du minerai au fer, le bas fourneau;minerai-fer-bas-fourneau;;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;La gravure en deux nanomètres;gravure-2-nanometres-tsmc;;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;Comment fonctionne un processeur;comment-fonctionne-un-processeur;;non;published
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Mémoire vive et stockage;ram-stockage-ssd-evolution;;non;published
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;Comment un écran affiche une image;comment-un-ecran-affiche-une-image;;non;published
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;À quoi sert un système d'exploitation;histoire-principes-systemes-exploitation;;non;published
+informatique;micro-informatique-et-informatique/logiciel/programmation;Les langages de programmation;histoire-principes-langages-programmation;;non;published
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;Les algorithmes et leur efficacité;algorithmes-et-complexite;;non;published
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Comment fonctionne internet;fonctionnement-internet-acces-mondial;;non;published
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Les cyberattaques;ampleur-cyberattaques-mondiales;;non;published
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Le chiffrement;chiffrement-et-vie-privee;;non;published
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;Comment on compresse une image ou un son;representation-et-compression-des-donnees;;non;published
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Les bases de données;bases-de-donnees-et-index;;non;published
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;Comment une machine apprend;principes-apprentissage-profond;;non;published
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement;Apprendre en jouant des millions de parties;apprentissage-par-renforcement-alphago;;non;published
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement;Les données d'entraînement;donnees-dentrainement-et-surapprentissage;;non;published
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Les transformeurs;transformeurs-architecture-ia;;non;published
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;L'IA générative multimodale;gpt-4o-ia-generative-multimodale;;non;published
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Pourquoi une IA invente des choses fausses;limites-des-modeles-de-langage;;non;published
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/biais;Les biais des algorithmes;biais-algorithmiques-exemples-documentes;;non;published
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;Le règlement européen sur l'IA;reglement-europeen-sur-lia-ai-act;;non;published
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;Ce que l'IA change dans le travail;ia-et-transformation-du-travail;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;La rotation des cultures;rotation-cultures;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;Les trois lois de Newton;lois-de-newton-mecanique-classique;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;L'énergie ne se perd jamais;energie-et-conservation;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Une particule peut-elle être une onde;dualite-onde-corpuscule;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;L'ordinateur quantique et ses erreurs;correction-derreurs-quantiques-willow;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;L'électricité et le magnétisme sont la même chose;electricite-et-magnetisme-un-seul-phenomene;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Comment fonctionne un aimant;comment-fonctionne-un-aimant;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Les deux principes de la thermodynamique;les-deux-principes-de-la-thermodynamique;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Température et chaleur ne sont pas la même chose;temperature-et-chaleur;;non;published
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Le tableau périodique;tableau-periodique-des-elements;;non;published
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-organique;Le carbone, l'atome du vivant;molecule-carbone-composes-organiques;;non;published
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;Pourquoi une réaction chimique se produit;reactions-chimiques-et-equilibre;;non;published
+sciences-fondamentales;sciences-fondamentales/mathematiques/algebre;L'algèbre, ou comment calculer avec l'inconnu;histoire-principes-algebre;;non;published
+sciences-fondamentales;sciences-fondamentales/mathematiques/analyse;Le prix Abel et les mathématiques contemporaines;prix-abel-2025-kashiwara;;non;published
+sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;Le hasard et les probabilités;le-hasard-et-les-probabilites;;non;published
+sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;La géométrie d'Euclide et celles qui l'ont suivie;geometrie-euclidienne-et-au-dela;;non;published
+sciences-fondamentales;sciences-fondamentales/biologie/evolution;L'évolution par sélection naturelle;theorie-evolution-selection-naturelle;;non;published
+sciences-fondamentales;sciences-fondamentales/biologie/genetique;La découverte de la structure de l'ADN;decouverte-structure-adn;;non;published
+sciences-fondamentales;sciences-fondamentales/biologie/cellule;La cellule, unité du vivant;la-cellule-unite-du-vivant;;non;published
+sciences-fondamentales;sciences-fondamentales/biologie/ecologie;Qui mange qui dans un écosystème;chaines-alimentaires-et-ecosystemes;;non;published
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/geologie;La tectonique des plaques;tectonique-des-plaques;;non;published
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;Volcans et tremblements de terre;volcans-et-tremblements-de-terre;;non;published
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les grands courants océaniques;courants-oceaniques-role-climatique;;non;published
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;Ce que la préhistoire nous apprend encore;homo-naledi-species-debattue;;non;published
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;Deux siècles qui ont tout changé;grandes-transformations-epoque-contemporaine;;non;published
+sciences-humaines;sciences-humaines-et-sociales/histoire/methode-historique;Comment travaille un historien;comment-travaille-un-historien;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Comment se forme un prix;principes-offre-et-demande;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;La croissance économique mondiale;perspectives-de-croissance-mondiale-fmi-2025;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;L'inflation;inflation-comment-ca-marche;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistribution;Mesurer les inégalités;inegalites-de-revenu-et-de-patrimoine;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;La mémoire et l'attention;processus-cognitifs-memoire-attention;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;Comment un enfant apprend à penser;stades-developpement-enfant-piaget;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Pourquoi notre cerveau se trompe;pourquoi-notre-cerveau-se-trompe;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Pourquoi les gens se conforment;conformite-et-obeissance;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;L'école et la reproduction sociale;ecole-et-reproduction-sociale;;non;published
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;D'où vient l'énergie d'un muscle;filieres-energetiques-du-muscle;;non;published
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Comment on progresse à l'entraînement;principes-periodisation-entrainement-sportif;;non;published
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Pourquoi on se blesse en faisant du sport;blessures-et-charge-dentrainement;;non;published
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;265 millions de footballeurs;big-count-fifa-265-millions-de-joueurs;;non;published
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Ce que les records d'athlétisme racontent;records-donnees-reference-athletisme;;non;published
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le sport adapté et la classification;sport-adapte-et-classification;;non;published
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Le dopage et les contrôles;rapport-adrv-2023-dopage-ama;;non;published
+sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;L'économie du sport;economie-mondiale-du-sport;;non;published
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Bouger est un médicament;bouger-est-un-medicament;;non;published
+technologies;technologies-et-ingenierie/genie-civil/materiaux;La chaux, liant millénaire;chaux-liant-millenaire;;non;published
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Les pigments et la fabrication des couleurs;pigments-fabrication-couleurs;1;oui;planned
+arts;arts-et-culture/patrimoine/architecture;L'architecture vernaculaire;architecture-vernaculaire;1;oui;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;Les archives et bibliothèques de préservation;archives-bibliotheques-preservation;1;oui;planned
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Les savoir-faire artisanaux;savoir-faire-artisanaux;1;oui;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Fabriquer du papier;fabriquer-papier;1;oui;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;L'encre et les outils d'écriture;encre-outils-ecriture;1;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Arrêter une hémorragie;arreter-hemorragie;1;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Dégager les voies respiratoires;degager-voies-respiratoires;1;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La déshydratation et le soluté de réhydratation;deshydratation-solute-rehydratation;1;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les vitamines et les carences;vitamines-carences;1;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les besoins nutritionnels de base;besoins-nutritionnels-base;1;oui;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le choléra et l'eau contaminée;cholera-eau-contaminee;1;oui;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Soigner une plaie;soigner-plaie;1;oui;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Les maladies transmises par l'eau et les aliments;maladies-transmises-eau-aliments;1;oui;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le stress post-traumatique;stress-post-traumatique;1;oui;planned
+droit;droit-et-justice/droit-prive/droit-civil;La propriété et le cadastre;propriete-cadastre;1;oui;planned
+droit;droit-et-justice/droit-prive/procedure-et-preuve;La médiation et l'arbitrage;mediation-arbitrage;1;oui;planned
+droit;droit-et-justice/droit-public/droit-constitutionnel;Écrire une constitution;ecrire-constitution;1;oui;planned
+energie;energie/energies-renouvelables/hydraulique;La microcentrale hydroélectrique;microcentrale-hydroelectrique;1;oui;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;Produire de l'électricité avec un aimant;produire-electricite-avec-aimant;1;oui;planned
+energie;energie/reseaux-et-stockage/batteries;La batterie au plomb;batterie-plomb;1;oui;planned
+energie;energie/reseaux-et-stockage/hydrogene;L'électrolyse de l'eau;electrolyse-eau;1;oui;planned
+energie;energie/efficacite-et-sobriete/efficacite-energetique;Isoler un bâtiment;isoler-batiment;1;oui;planned
+energie;energie/efficacite-et-sobriete/efficacite-energetique;La cogénération;cogeneration;1;oui;planned
+energie;energie/efficacite-et-sobriete/usages-et-consommation;Le bois de chauffage;bois-chauffage;1;oui;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Le traitement des eaux usées;traitement-eaux-usees;1;oui;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Récupérer l'eau de pluie;recuperer-eau-pluie;1;oui;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Réparer plutôt que jeter;reparer-plutot-jeter;1;oui;planned
+espace;espace-et-astronomie/systeme-solaire/lune;Le calendrier lunaire;calendrier-lunaire;1;oui;planned
+espace;espace-et-astronomie/astrophysique/etoiles;Se repérer grâce aux étoiles;reperer-grace-etoiles;1;oui;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;Fabriquer une lunette astronomique;fabriquer-lunette-astronomique;1;oui;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Lire une carte topographique;lire-carte-topographique;1;oui;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Prévoir le temps sans instruments;prevoir-temps-sans-instruments;1;oui;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Le calendrier des saisons et des cultures;calendrier-saisons-cultures;1;oui;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;Organiser un village autonome;organiser-village-autonome;1;oui;planned
+geographie;geographie-et-territoires/geopolitique/ressources;Les ressources d'un territoire;ressources-territoire;1;oui;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Naviguer sans GPS;naviguer-sans-gps;1;oui;planned
+industries;industries/industrie-lourde/siderurgie;La forge et le travail du fer;forge-travail-fer;1;oui;planned
+industries;industries/industrie-lourde/siderurgie;La trempe et le revenu;trempe-revenu;1;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;Fabriquer du savon;fabriquer-savon;1;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;La soude et la potasse;soude-potasse;1;oui;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Stocker et conserver les marchandises;stocker-conserver-marchandises;1;oui;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;Mesurer avec précision;mesurer-avec-precision;1;oui;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;La fonderie;fonderie;1;oui;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;Le soudage;soudage;1;oui;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;Filer et tisser;filer-tisser;1;oui;planned
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Conserver les données sur le long terme;conserver-donnees-long-terme;1;oui;planned
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Remettre en marche un vieil ordinateur;remettre-marche-vieil-ordinateur;1;oui;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Les réseaux locaux sans internet;reseaux-locaux-sans-internet;1;oui;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Faire tourner une IA sur son ordinateur;faire-tourner-ia-ordinateur;1;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;Les légumineuses et l'azote;legumineuses-azote;1;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;La lutte biologique contre les ravageurs;lutte-biologique-contre-ravageurs;1;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;L'irrigation économe en eau;irrigation-econome-eau;1;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;L'élevage et la traction animale;elevage-traction-animale;1;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;Conserver les récoltes;conserver-recoltes;1;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;Fertiliser sans engrais industriels;fertiliser-sans-engrais-industriels;1;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;Reconnaître un sol;reconnaitre-sol;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;Le pendule et la mesure du temps;pendule-mesure-temps;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Tension, courant et résistance;tension-courant-resistance;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Les lentilles et l'optique;lentilles-optique;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Conduction, convection, rayonnement;conduction-convection-rayonnement;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-organique;La distillation;distillation;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Les acides et les bases;acides-bases;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;L'oxydation et la réduction;oxydation-reduction;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;La combustion;combustion;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/algebre;La numération de position et le zéro;numeration-position-zero;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;Arpenter et mesurer un terrain;arpenter-mesurer-terrain;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/geologie;Trouver des minerais;trouver-minerais;1;oui;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/geologie;Trouver l'eau souterraine;trouver-eau-souterraine;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;La révolution néolithique;revolution-neolithique;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;Les outils de pierre;outils-pierre;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;Le plan Marshall et la reconstruction de l'Europe;plan-marshall-reconstruction-europe;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/methode-historique;L'effondrement des civilisations;effondrement-civilisations;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;La division du travail;division-travail;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;La comptabilité en partie double;comptabilite-partie-double;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le troc et l'invention de la monnaie;troc-invention-monnaie;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;La coopération et les biens communs;cooperation-biens-communs;1;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;Transmettre les savoirs;transmettre-savoirs;1;oui;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Soigner une entorse;soigner-entorse;1;oui;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Immobiliser une fracture;immobiliser-fracture;1;oui;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Apprendre à nager;apprendre-nager;1;oui;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Porter et soulever sans se blesser;porter-soulever-sans-blesser;1;oui;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;La brique de terre cuite;brique-terre-cuite;1;oui;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Construire une route durable;construire-route-durable;1;oui;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les aqueducs et canaux;aqueducs-canaux;1;oui;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;Engrenages, courroies et transmissions;engrenages-courroies-transmissions;1;oui;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;Reconnaître et récupérer les matériaux;reconnaitre-recuperer-materiaux;1;oui;planned
+arts;arts-et-culture/arts-du-spectacle/musique;La gamme et les notes;gamme-notes;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Les grandes familles d'instruments;grandes-familles-instruments;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Bach et la musique baroque;bach-musique-baroque;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Le jazz;jazz;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Le solfège;solfege;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/musique;La musique électronique;musique-electronique;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Le streaming musical;streaming-musical;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;Molière;moliere;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;Shakespeare;shakespeare;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;La commedia dell'arte;commedia-dell-arte;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;Le théâtre nô et le kabuki;theatre-no-kabuki;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;La danse contemporaine;danse-contemporaine;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;Le festival d'Avignon;festival-avignon;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques;Verdi et l'opéra italien;verdi-opera-italien;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques;Mozart et l'opéra;mozart-opera;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques;La voix lyrique;voix-lyrique;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques;Wagner et l'œuvre d'art totale;wagner-uvre-art-totale;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques;L'opérette et la comédie musicale;operette-comedie-musicale;2;non;planned
+arts;arts-et-culture/arts-du-spectacle/opera-et-arts-lyriques;Construire une salle d'opéra;construire-salle-opera;2;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La Joconde;joconde;2;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;L'impressionnisme;impressionnisme;2;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Le cubisme et Picasso;cubisme-picasso;2;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Michel-Ange et la chapelle Sixtine;michel-ange-chapelle-sixtine;2;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La sculpture en bronze;sculpture-bronze;2;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;L'art contemporain;art-contemporain;2;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le cinéma muet;cinema-muet;2;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le passage au parlant;passage-parlant;2;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;La Nouvelle Vague;nouvelle-vague;2;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;Les effets spéciaux;effets-speciaux;2;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;La photographie numérique;photographie-numerique;2;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le photojournalisme;photojournalisme;2;non;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le Bauhaus;bauhaus;2;non;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La bande dessinée;bande-dessinee;2;non;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;L'affiche;affiche;2;non;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le logo et l'identité visuelle;logo-identite-visuelle;2;non;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le design industriel;design-industriel;2;non;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La calligraphie;calligraphie;2;non;planned
+arts;arts-et-culture/patrimoine/architecture;Les pyramides d'Égypte;pyramides-egypte;2;non;planned
+arts;arts-et-culture/patrimoine/architecture;L'architecture romaine;architecture-romaine;2;non;planned
+arts;arts-et-culture/patrimoine/architecture;Le Corbusier et l'architecture moderne;corbusier-architecture-moderne;2;non;planned
+arts;arts-et-culture/patrimoine/architecture;Haussmann et le Paris moderne;haussmann-paris-moderne;2;non;planned
+arts;arts-et-culture/patrimoine/architecture;L'architecture bioclimatique;architecture-bioclimatique;2;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;Le Louvre;louvre;2;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;La restitution des œuvres;restitution-uvres;2;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;L'incendie de Notre-Dame et sa restauration;incendie-notre-dame-restauration;2;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;Le vol de la Joconde en 1911;vol-joconde-1911;2;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;Protéger le patrimoine en temps de guerre;proteger-patrimoine-temps-guerre;2;non;planned
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Le repas gastronomique des Français;repas-gastronomique-francais;2;non;planned
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Les langues en danger;langues-danger;2;non;planned
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Les contes et la tradition orale;contes-tradition-orale;2;non;planned
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Les fêtes traditionnelles;fetes-traditionnelles;2;non;planned
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Les danses traditionnelles;danses-traditionnelles;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;La poésie;poesie;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;La science-fiction;science-fiction;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;Le roman policier;roman-policier;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;Les épopées antiques;epopees-antiques;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;La littérature post-apocalyptique;litterature-post-apocalyptique;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;Le théâtre classique français;theatre-classique-francais;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;L'invention de l'écriture;invention-ecriture;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;La bibliothèque d'Alexandrie;bibliotheque-alexandrie;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Les manuscrits médiévaux;manuscrits-medievaux;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;L'Encyclopédie de Diderot et d'Alembert;encyclopedie-diderot-alembert;2;non;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Le livre numérique;livre-numerique;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'infarctus du myocarde;infarctus-myocarde;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le cholestérol, bon et mauvais;cholesterol-bon-mauvais;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'AVC;avc;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le sang et ses composants;sang-composants;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les groupes sanguins;groupes-sanguins;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le neurone et la synapse;neurone-synapse;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La maladie d'Alzheimer;maladie-alzheimer;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La douleur;douleur;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Les cinq sens, et les autres;cinq-sens-autres;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La maladie de Parkinson;maladie-parkinson;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;L'épilepsie;epilepsie;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La migraine;migraine;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;L'asthme;asthme;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Le tabac et les poumons;tabac-poumons;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;La tuberculose;tuberculose;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Respirer en altitude;respirer-altitude;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;L'oxygène à l'hôpital;oxygene-hopital;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le foie, usine chimique du corps;foie-usine-chimique-corps;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les intolérances et allergies alimentaires;intolerances-allergies-alimentaires;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;L'ulcère et la bactérie Helicobacter;ulcere-bacterie-helicobacter;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/immunite;Les maladies auto-immunes;maladies-auto-immunes;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/immunite;La fièvre, utile ou dangereuse;fievre-utile-dangereuse;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/immunite;L'immunothérapie contre le cancer;immunotherapie-contre-cancer;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/immunite;L'immunité collective;immunite-collective;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/immunite;Les greffes et le rejet;greffes-rejet;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/microbiote;Le microbiote de la peau;microbiote-peau;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/microbiote;Les probiotiques, ce qui est prouvé;probiotiques-prouve;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/microbiote;La transplantation fécale;transplantation-fecale;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/microbiote;Microbiote et cerveau;microbiote-cerveau;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/microbiote;Les fibres alimentaires;fibres-alimentaires;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;L'insomnie;insomnie;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;Les rêves;reves;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;L'apnée du sommeil;apnee-sommeil;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;L'horloge biologique;horloge-biologique;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;Les écrans et le sommeil;ecrans-sommeil;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;La sieste;sieste;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;Le cancer, comment il apparaît;cancer-apparait;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;L'insuffisance cardiaque;insuffisance-cardiaque;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;Les maladies rénales chroniques;maladies-renales-chroniques;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;L'arthrose;arthrose;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;La bronchopneumopathie chronique obstructive;bronchopneumopathie-chronique-obstructive;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;Vivre avec une maladie chronique;vivre-avec-maladie-chronique;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le paludisme;paludisme;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La grippe espagnole de 1918;grippe-espagnole-1918;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Virus et bactéries, quelle différence;virus-bacteries-quelle-difference;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La peste;peste;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les troubles anxieux;troubles-anxieux;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le burn-out;burn-out;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le trouble bipolaire;trouble-bipolaire;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;La schizophrénie;schizophrenie;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les addictions;addictions;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;L'éradication de la variole;eradication-variole;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Jenner, Pasteur et les premiers vaccins;jenner-pasteur-premiers-vaccins;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Le calendrier vaccinal;calendrier-vaccinal;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Les effets indésirables des vaccins;effets-indesirables-vaccins;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;La défiance envers les vaccins;defiance-envers-vaccins;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Le dépistage du cancer du sein;depistage-cancer-sein;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Le dépistage du cancer colorectal;depistage-cancer-colorectal;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Le dépistage néonatal;depistage-neonatal;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Les faux positifs expliqués;faux-positifs-expliques;2;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Le frottis et le cancer du col de l'utérus;frottis-cancer-col-uterus;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le mariage, le PACS et le concubinage;mariage-pacs-concubinage;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;L'héritage et la réserve héréditaire;heritage-reserve-hereditaire;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le divorce;divorce;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;L'autorité parentale;autorite-parentale;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le bail d'habitation;bail-habitation;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;La tutelle et la curatelle;tutelle-curatelle;2;non;planned
+droit;droit-et-justice/droit-prive/droit-penal;Contravention, délit et crime;contravention-delit-crime;2;non;planned
+droit;droit-et-justice/droit-prive/droit-penal;La légitime défense;legitime-defense;2;non;planned
+droit;droit-et-justice/droit-prive/droit-penal;La responsabilité pénale des mineurs;responsabilite-penale-mineurs;2;non;planned
+droit;droit-et-justice/droit-prive/droit-penal;La prison et ses alternatives;prison-alternatives;2;non;planned
+droit;droit-et-justice/droit-prive/droit-penal;La récidive;recidive;2;non;planned
+droit;droit-et-justice/droit-prive/droit-penal;La cybercriminalité et le droit;cybercriminalite-droit;2;non;planned
+droit;droit-et-justice/droit-prive/procedure-et-preuve;Le procès pénal, étape par étape;proces-penal-etape-etape;2;non;planned
+droit;droit-et-justice/droit-prive/procedure-et-preuve;La preuve ADN;preuve-adn;2;non;planned
+droit;droit-et-justice/droit-prive/procedure-et-preuve;Le droit à un avocat;droit-avocat;2;non;planned
+droit;droit-et-justice/droit-prive/procedure-et-preuve;L'appel et la cassation;appel-cassation;2;non;planned
+droit;droit-et-justice/droit-prive/procedure-et-preuve;Les erreurs judiciaires;erreurs-judiciaires;2;non;planned
+droit;droit-et-justice/droit-public/droit-constitutionnel;Le Conseil constitutionnel;conseil-constitutionnel;2;non;planned
+droit;droit-et-justice/droit-public/droit-constitutionnel;Le référendum;referendum;2;non;planned
+droit;droit-et-justice/droit-public/droit-constitutionnel;L'article 49.3;article-49-3;2;non;planned
+droit;droit-et-justice/droit-public/droit-constitutionnel;Les régimes présidentiel et parlementaire;regimes-presidentiel-parlementaire;2;non;planned
+droit;droit-et-justice/droit-public/droit-constitutionnel;Comment est votée une loi;votee-loi;2;non;planned
+droit;droit-et-justice/droit-public/droit-international;Les Nations unies;nations-unies;2;non;planned
+droit;droit-et-justice/droit-public/droit-international;Les conventions de Genève;conventions-geneve;2;non;planned
+droit;droit-et-justice/droit-public/droit-international;Le droit de la mer;droit-mer;2;non;planned
+droit;droit-et-justice/droit-public/droit-international;Le droit européen;droit-europeen;2;non;planned
+droit;droit-et-justice/droit-public/droit-international;Le procès de Nuremberg;proces-nuremberg;2;non;planned
+droit;droit-et-justice/droit-public/droit-international;Les sanctions internationales;sanctions-internationales;2;non;planned
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;La Charte de l'environnement;charte-environnement;2;non;planned
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;Le principe pollueur-payeur;principe-pollueur-payeur;2;non;planned
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;Les procès climatiques;proces-climatiques;2;non;planned
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;Le préjudice écologique;prejudice-ecologique;2;non;planned
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;Les études d'impact;etudes-impact;2;non;planned
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;La protection des espèces;protection-especes;2;non;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Les tribunaux administratifs;tribunaux-administratifs;2;non;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La cour d'assises et le jury populaire;cour-assises-jury-populaire;2;non;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le conseil de prud'hommes;conseil-prud-hommes;2;non;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La Cour européenne des droits de l'homme;cour-europeenne-droits-homme;2;non;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le Conseil d'État;conseil-etat;2;non;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La lenteur de la justice;lenteur-justice;2;non;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Le droit d'asile;droit-asile;2;non;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;La laïcité;laicite;2;non;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Le droit à la vie privée;droit-vie-privee;2;non;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;L'égalité devant la loi et les discriminations;egalite-devant-loi-discriminations;2;non;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;La liberté de manifester;liberte-manifester;2;non;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Les droits de l'enfant;droits-enfant;2;non;planned
+droit;droit-et-justice/justice-et-institutions/metiers-du-droit;Le métier d'avocat;metier-avocat;2;non;planned
+droit;droit-et-justice/justice-et-institutions/metiers-du-droit;Le notaire;notaire;2;non;planned
+droit;droit-et-justice/justice-et-institutions/metiers-du-droit;Les magistrats;magistrats;2;non;planned
+droit;droit-et-justice/justice-et-institutions/metiers-du-droit;Le commissaire de justice;commissaire-justice;2;non;planned
+droit;droit-et-justice/justice-et-institutions/metiers-du-droit;Les juristes d'entreprise;juristes-entreprise;2;non;planned
+droit;droit-et-justice/justice-et-institutions/metiers-du-droit;La justice et l'intelligence artificielle;justice-intelligence-artificielle;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le licenciement;licenciement;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;La durée du travail et les 35 heures;duree-travail-35-heures;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le salaire minimum;salaire-minimum;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le harcèlement au travail;harcelement-travail;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Les syndicats et les élus du personnel;syndicats-elus-personnel;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le télétravail;teletravail;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le crédit à la consommation;credit-consommation;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les clauses abusives;clauses-abusives;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les litiges avec un vendeur en ligne;litiges-avec-vendeur-ligne;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le démarchage téléphonique;demarchage-telephonique;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les associations de consommateurs;associations-consommateurs;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;L'obsolescence programmée;obsolescence-programmee;2;non;planned
+energie;energie/energies-renouvelables/hydraulique;Les grands barrages du monde;grands-barrages-monde;2;non;planned
+energie;energie/energies-renouvelables/hydraulique;Les stations de transfert d'énergie par pompage;stations-transfert-energie-pompage;2;non;planned
+energie;energie/energies-renouvelables/hydraulique;L'énergie des marées et des vagues;energie-marees-vagues;2;non;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;Courant continu contre courant alternatif;courant-continu-contre-courant-alternatif;2;non;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;Le transformateur;transformateur;2;non;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;Les grandes pannes électriques;grandes-pannes-electriques;2;non;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;La fréquence du réseau, 50 hertz à tenir;frequence-reseau-50-hertz-tenir;2;non;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;Les interconnexions européennes;interconnexions-europeennes;2;non;planned
+energie;energie/reseaux-et-stockage/batteries;Le lithium, une ressource stratégique;lithium-ressource-strategique;2;non;planned
+energie;energie/reseaux-et-stockage/batteries;Les batteries sodium-ion;batteries-sodium-ion;2;non;planned
+energie;energie/reseaux-et-stockage/batteries;Le recyclage des batteries;recyclage-batteries;2;non;planned
+energie;energie/reseaux-et-stockage/batteries;Pourquoi une batterie s'use;batterie-s-use;2;non;planned
+energie;energie/reseaux-et-stockage/hydrogene;Hydrogène gris, bleu et vert;hydrogene-gris-bleu-vert;2;non;planned
+energie;energie/reseaux-et-stockage/hydrogene;La pile à combustible;pile-combustible;2;non;planned
+energie;energie/reseaux-et-stockage/hydrogene;L'hydrogène dans l'industrie;hydrogene-industrie;2;non;planned
+energie;energie/reseaux-et-stockage/hydrogene;Stocker et transporter l'hydrogène;stocker-transporter-hydrogene;2;non;planned
+energie;energie/efficacite-et-sobriete/efficacite-energetique;La pompe à chaleur;pompe-chaleur;2;non;planned
+energie;energie/efficacite-et-sobriete/efficacite-energetique;L'éclairage LED;eclairage-led;2;non;planned
+energie;energie/efficacite-et-sobriete/efficacite-energetique;Le rendement d'un moteur;rendement-moteur;2;non;planned
+energie;energie/efficacite-et-sobriete/usages-et-consommation;La précarité énergétique;precarite-energetique;2;non;planned
+energie;energie/efficacite-et-sobriete/usages-et-consommation;La consommation d'énergie des transports;consommation-energie-transports;2;non;planned
+energie;energie/efficacite-et-sobriete/usages-et-consommation;L'énergie grise;energie-grise;2;non;planned
+energie;energie/efficacite-et-sobriete/usages-et-consommation;La facture d'électricité décryptée;facture-electricite-decryptee;2;non;planned
+energie;energie/efficacite-et-sobriete/usages-et-consommation;La consommation énergétique du numérique;consommation-energetique-numerique;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Les nappes phréatiques;nappes-phreatiques;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;L'eau virtuelle;eau-virtuelle;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Le dessalement de l'eau de mer;dessalement-eau-mer;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Les pollutions de l'eau;pollutions-eau;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le compostage;compostage;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le recyclage du verre et de l'aluminium;recyclage-verre-aluminium;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Pourquoi le plastique se recycle mal;plastique-recycle-mal;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;L'économie circulaire;economie-circulaire;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Les déchets électroniques;dechets-electroniques;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Les décharges et l'incinération;decharges-incineration;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/planetes;Mars, la planète rouge;mars-planete-rouge;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/planetes;Vénus, l'enfer voisin;venus-enfer-voisin;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/planetes;Jupiter, la géante gazeuse;jupiter-geante-gazeuse;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/planetes;Saturne et ses anneaux;saturne-anneaux;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/planetes;Pluton et les planètes naines;pluton-planetes-naines;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/planetes;Les exoplanètes;exoplanetes;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/lune;Les phases de la Lune;phases-lune;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/lune;Les éclipses;eclipses;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/lune;Apollo 11 et les premiers pas sur la Lune;apollo-11-premiers-lune;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/lune;La face cachée de la Lune;face-cachee-lune;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/lune;L'eau sur la Lune;eau-lune;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/petits-corps;La comète de Halley;comete-halley;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/petits-corps;La météorite de Tcheliabinsk;meteorite-tcheliabinsk;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/petits-corps;L'extinction des dinosaures;extinction-dinosaures;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/petits-corps;La défense planétaire;defense-planetaire;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/petits-corps;La ceinture de Kuiper et le nuage d'Oort;ceinture-kuiper-nuage-oort;2;non;planned
+espace;espace-et-astronomie/systeme-solaire/petits-corps;Les étoiles filantes;etoiles-filantes;2;non;planned
+espace;espace-et-astronomie/astrophysique/etoiles;Le Soleil;soleil;2;non;planned
+espace;espace-et-astronomie/astrophysique/etoiles;Les supernovas;supernovas;2;non;planned
+espace;espace-et-astronomie/astrophysique/etoiles;Les étoiles à neutrons et les pulsars;etoiles-neutrons-pulsars;2;non;planned
+espace;espace-et-astronomie/astrophysique/etoiles;La couleur des étoiles;couleur-etoiles;2;non;planned
+espace;espace-et-astronomie/astrophysique/etoiles;Les éruptions solaires;eruptions-solaires;2;non;planned
+espace;espace-et-astronomie/astrophysique/cosmologie;Le Big Bang;big-bang;2;non;planned
+espace;espace-et-astronomie/astrophysique/cosmologie;L'expansion de l'Univers;expansion-univers;2;non;planned
+espace;espace-et-astronomie/astrophysique/cosmologie;La matière noire;matiere-noire;2;non;planned
+espace;espace-et-astronomie/astrophysique/cosmologie;L'énergie sombre;energie-sombre;2;non;planned
+espace;espace-et-astronomie/astrophysique/cosmologie;Le fond diffus cosmologique;fond-diffus-cosmologique;2;non;planned
+espace;espace-et-astronomie/astrophysique/cosmologie;Les galaxies et la Voie lactée;galaxies-voie-lactee;2;non;planned
+espace;espace-et-astronomie/astrophysique/trous-noirs;La première image d'un trou noir;premiere-image-trou-noir;2;non;planned
+espace;espace-et-astronomie/astrophysique/trous-noirs;Sagittarius A*, le trou noir de notre galaxie;sagittarius-trou-noir-notre-galaxie;2;non;planned
+espace;espace-et-astronomie/astrophysique/trous-noirs;L'horizon des événements;horizon-evenements;2;non;planned
+espace;espace-et-astronomie/astrophysique/trous-noirs;Le rayonnement de Hawking;rayonnement-hawking;2;non;planned
+espace;espace-et-astronomie/astrophysique/trous-noirs;Les quasars;quasars;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/sondes;Voyager, les sondes les plus lointaines;voyager-sondes-lointaines;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/sondes;Rosetta et la comète Tchouri;rosetta-comete-tchouri;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/sondes;New Horizons et Pluton;new-horizons-pluton;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/sondes;Les sondes vers Jupiter et ses lunes;sondes-vers-jupiter-lunes;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/sondes;Les échantillons ramenés sur Terre;echantillons-ramenes-terre;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/sondes;Parker Solar Probe;parker-solar-probe;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;Youri Gagarine, le premier homme dans l'espace;youri-gagarine-premier-homme-espace;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;La Station spatiale internationale;station-spatiale-internationale;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;Le corps humain dans l'espace;corps-humain-espace;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;Le tourisme spatial;tourisme-spatial;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;La station spatiale chinoise;station-spatiale-chinoise;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;Aller sur Mars;aller-mars;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Les fusées réutilisables;fusees-reutilisables;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;L'orbite géostationnaire;orbite-geostationnaire;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Les constellations de satellites;constellations-satellites;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Les débris spatiaux;debris-spatiaux;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Le GPS et Galileo;gps-galileo;2;non;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Kourou et les bases de lancement;kourou-bases-lancement;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;La lunette de Galilée;lunette-galilee;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;Le télescope spatial Hubble;telescope-spatial-hubble;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;Les très grands télescopes au sol;tres-grands-telescopes-sol;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;Les radiotélescopes;radiotelescopes;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;La pollution lumineuse;pollution-lumineuse;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;Les neutrinos;neutrinos;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;Les rayons cosmiques;rayons-cosmiques;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;La spectroscopie;spectroscopie;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;La recherche de vie extraterrestre;recherche-vie-extraterrestre;2;non;planned
+espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;Les ondes radio de l'Univers;ondes-radio-univers;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;L'Himalaya et l'Everest;himalaya-everest;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;L'érosion et les paysages;erosion-paysages;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Les déserts;deserts;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Les plaines et les deltas;plaines-deltas;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Les glaciers;glaciers;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;La mousson;mousson;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Les cyclones tropicaux;cyclones-tropicaux;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Les microclimats;microclimats;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Les prévisions météorologiques;previsions-meteorologiques;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Le climat méditerranéen;climat-mediterraneen;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Les grands fleuves du monde;grands-fleuves-monde;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Les bassins versants;bassins-versants;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Les lacs;lacs;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Les crues et les inondations;crues-inondations;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Les eaux partagées entre pays;eaux-partagees-entre-pays;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Les sources et les résurgences;sources-resurgences;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;La transition démographique;transition-demographique;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;Le vieillissement de la population;vieillissement-population;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;La démographie de l'Afrique;demographie-afrique;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;L'espérance de vie;esperance-vie;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;La pyramide des âges;pyramide-ages;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;La baisse de la fécondité;baisse-fecondite;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;Les mégapoles;megapoles;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;Les bidonvilles;bidonvilles;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;L'étalement urbain;etalement-urbain;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;Les villes nouvelles;villes-nouvelles;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;Les transports urbains;transports-urbains;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;L'exode rural;exode-rural;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les diasporas;diasporas;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les réfugiés dans le monde;refugies-monde;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les routes migratoires vers l'Europe;routes-migratoires-vers-europe;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les transferts d'argent des migrants;transferts-argent-migrants;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les grandes migrations de l'histoire;grandes-migrations-histoire;2;non;planned
+geographie;geographie-et-territoires/geopolitique/frontieres;Les frontières naturelles, un mythe;frontieres-naturelles-mythe;2;non;planned
+geographie;geographie-et-territoires/geopolitique/frontieres;Les murs frontaliers;murs-frontaliers;2;non;planned
+geographie;geographie-et-territoires/geopolitique/frontieres;Les frontières maritimes;frontieres-maritimes;2;non;planned
+geographie;geographie-et-territoires/geopolitique/frontieres;L'espace Schengen;espace-schengen;2;non;planned
+geographie;geographie-et-territoires/geopolitique/frontieres;Les conflits territoriaux actuels;conflits-territoriaux-actuels;2;non;planned
+geographie;geographie-et-territoires/geopolitique/frontieres;Les enclaves et les bizarreries frontalières;enclaves-bizarreries-frontalieres;2;non;planned
+geographie;geographie-et-territoires/geopolitique/ressources;Les terres rares;terres-rares;2;non;planned
+geographie;geographie-et-territoires/geopolitique/ressources;Le cuivre;cuivre;2;non;planned
+geographie;geographie-et-territoires/geopolitique/ressources;L'eau, ressource géopolitique;eau-ressource-geopolitique;2;non;planned
+geographie;geographie-et-territoires/geopolitique/ressources;Le sable, une ressource qui s'épuise;sable-ressource-s-epuise;2;non;planned
+geographie;geographie-et-territoires/geopolitique/ressources;Les terres agricoles;terres-agricoles;2;non;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Le détroit d'Ormuz;detroit-ormuz;2;non;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Le canal de Panama;canal-panama;2;non;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Les routes de la soie;routes-soie;2;non;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;La route maritime du Nord;route-maritime-nord;2;non;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Le détroit de Malacca;detroit-malacca;2;non;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;La piraterie maritime;piraterie-maritime;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Les grottes et le relief karstique;grottes-relief-karstique;2;non;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Les vents dominants et les alizés;vents-dominants-alizes;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;Le recensement de la population;recensement-population;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;Les villes face à la montée des eaux;villes-face-montee-eaux;2;non;planned
+geographie;geographie-et-territoires/geopolitique/ressources;Les grandes zones de pêche;grandes-zones-peche;2;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les migrations internes en Chine;migrations-internes-chine;2;non;planned
+industries;industries/industrie-lourde/siderurgie;Le haut fourneau;haut-fourneau;2;non;planned
+industries;industries/industrie-lourde/siderurgie;Fonte, fer et acier, quelle différence;fonte-fer-acier-quelle-difference;2;non;planned
+industries;industries/industrie-lourde/siderurgie;Le four électrique et le recyclage de l'acier;four-electrique-recyclage-acier;2;non;planned
+industries;industries/industrie-lourde/siderurgie;La sidérurgie chinoise;siderurgie-chinoise;2;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;Le procédé Haber-Bosch;procede-haber-bosch;2;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;L'acide sulfurique;acide-sulfurique;2;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;La pétrochimie;petrochimie;2;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;Les accidents chimiques majeurs;accidents-chimiques-majeurs;2;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;La chimie verte;chimie-verte;2;non;planned
+industries;industries/industrie-manufacturiere/automatisation;La chaîne de montage;chaine-montage;2;non;planned
+industries;industries/industrie-manufacturiere/automatisation;L'automate programmable;automate-programmable;2;non;planned
+industries;industries/industrie-manufacturiere/automatisation;Les cobots;cobots;2;non;planned
+industries;industries/industrie-manufacturiere/automatisation;La machine-outil à commande numérique;machine-outil-commande-numerique;2;non;planned
+industries;industries/industrie-manufacturiere/automatisation;Le lean manufacturing;lean-manufacturing;2;non;planned
+industries;industries/industrie-manufacturiere/automatisation;Les usines sans lumière;usines-sans-lumiere;2;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Le conteneur;conteneur;2;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Le juste-à-temps et ses fragilités;juste-temps-fragilites;2;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;La pénurie de semi-conducteurs;penurie-semi-conducteurs;2;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Le code-barres et la traçabilité;code-barres-tracabilite;2;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Le dernier kilomètre;dernier-kilometre;2;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Le canal de Suez bloqué en 2021;canal-suez-bloque-2021;2;non;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;Le système métrique;systeme-metrique;2;non;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;Les normes ISO;normes-iso;2;non;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;Le contrôle qualité statistique;controle-qualite-statistique;2;non;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;Les pièces interchangeables;pieces-interchangeables;2;non;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;Le marquage CE;marquage;2;non;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;La redéfinition du kilogramme;redefinition-kilogramme;2;non;planned
+industries;industries/industrie-4-0/iot;Les capteurs, comment ils mesurent;capteurs-ils-mesurent;2;non;planned
+industries;industries/industrie-4-0/iot;La maintenance prédictive;maintenance-predictive;2;non;planned
+industries;industries/industrie-4-0/iot;Les réseaux pour objets connectés;reseaux-objets-connectes;2;non;planned
+industries;industries/industrie-4-0/iot;La cybersécurité des usines;cybersecurite-usines;2;non;planned
+industries;industries/industrie-4-0/iot;Les compteurs intelligents;compteurs-intelligents;2;non;planned
+industries;industries/industrie-4-0/iot;L'agriculture connectée;agriculture-connectee;2;non;planned
+industries;industries/industrie-4-0/jumeaux-numeriques;La simulation numérique en ingénierie;simulation-numerique-ingenierie;2;non;planned
+industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numérique d'une ville;jumeau-numerique-ville;2;non;planned
+industries;industries/industrie-4-0/jumeaux-numeriques;La conception assistée par ordinateur;conception-assistee-ordinateur;2;non;planned
+industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numérique en médecine;jumeau-numerique-medecine;2;non;planned
+industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numérique d'un avion;jumeau-numerique-avion;2;non;planned
+industries;industries/industrie-4-0/jumeaux-numeriques;Les limites des jumeaux numériques;limites-jumeaux-numeriques;2;non;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;L'usinage;usinage;2;non;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;L'impression 3D;impression-3d;2;non;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;L'emboutissage;emboutissage;2;non;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;Le moulage par injection des plastiques;moulage-injection-plastiques;2;non;planned
+industries;industries/materiaux-et-procedes/composites-et-polymeres;Qu'est-ce qu'un polymère;qu-qu-polymere;2;non;planned
+industries;industries/materiaux-et-procedes/composites-et-polymeres;Le caoutchouc naturel et la vulcanisation;caoutchouc-naturel-vulcanisation;2;non;planned
+industries;industries/materiaux-et-procedes/composites-et-polymeres;La fibre de carbone;fibre-carbone;2;non;planned
+industries;industries/materiaux-et-procedes/composites-et-polymeres;Les bioplastiques;bioplastiques;2;non;planned
+industries;industries/materiaux-et-procedes/composites-et-polymeres;Le nylon et les fibres synthétiques;nylon-fibres-synthetiques;2;non;planned
+industries;industries/materiaux-et-procedes/composites-et-polymeres;Les thermoplastiques et thermodurcissables;thermoplastiques-thermodurcissables;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Le transistor;transistor;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;La loi de Moore;loi-moore;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Les cartes graphiques;cartes-graphiques;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Comment on fabrique une puce;fabrique-puce;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;TSMC et la géopolitique des puces;tsmc-geopolitique-puces;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Architecture x86 et ARM;architecture-x86-arm;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Le disque dur;disque-dur;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;La mémoire flash et les SSD;memoire-flash-ssd;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Le cloud;cloud;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Les centres de données;centres-donnees;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;La sauvegarde, la règle du 3-2-1;sauvegarde-regle-3-2-1;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;Le clavier AZERTY et QWERTY;clavier-azerty-qwerty;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;L'écran tactile;ecran-tactile;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;L'imprimante;imprimante;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;La souris et l'interface graphique;souris-interface-graphique;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;Le port USB;port-usb;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Linux et le logiciel libre;linux-logiciel-libre;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Windows, macOS, Linux;windows-macos-linux;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Android et iOS;android-ios;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Les mises à jour, pourquoi elles comptent;mises-jour-elles-comptent;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;La virtualisation;virtualisation;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/programmation;Le premier programme de l'histoire;premier-programme-histoire;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/programmation;Apprendre à programmer;apprendre-programmer;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/programmation;Le bug;bug;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/programmation;Les logiciels libres et open source;logiciels-libres-open-source;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/programmation;Le Web, HTML et JavaScript;web-html-javascript;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/programmation;La programmation assistée par l'IA;programmation-assistee-ia;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;Les algorithmes de tri;algorithmes-tri;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;L'algorithme de recherche de Google;algorithme-recherche-google;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;Le GPS et le calcul d'itinéraire;gps-calcul-itineraire;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;Les algorithmes de recommandation;algorithmes-recommandation;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;La machine de Turing;machine-turing;2;non;planned
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;P contre NP;p-contre-np;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le Web et Tim Berners-Lee;web-tim-berners-lee;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Les câbles sous-marins;cables-sous-marins;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le DNS, l'annuaire d'internet;dns-annuaire-internet;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;La neutralité du net;neutralite-net;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le Wi-Fi et la 5G;wi-fi-5g;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Le phishing;phishing;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Les rançongiciels;rancongiciels;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Les mots de passe et l'authentification à deux facteurs;mots-passe-authentification-deux-facteurs;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Les failles zero-day;failles-zero-day;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Protéger sa vie privée en ligne;proteger-vie-privee-ligne;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Le chiffre de César et la cryptographie antique;chiffre-cesar-cryptographie-antique;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Enigma et Alan Turing;enigma-alan-turing;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;La cryptographie à clé publique;cryptographie-cle-publique;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Le HTTPS et le cadenas du navigateur;https-cadenas-navigateur;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;La blockchain;blockchain;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;L'ordinateur quantique et la cryptographie;ordinateur-quantique-cryptographie;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;Le binaire;binaire;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;Le codage des caractères, de l'ASCII à l'Unicode;codage-caracteres-ascii-unicode;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;Le format MP3;format-mp3;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;La vidéo en streaming;video-streaming;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;Les couleurs à l'écran;couleurs-ecran;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;Les formats ouverts;formats-ouverts;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Le langage SQL;langage-sql;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Les bases NoSQL;bases-nosql;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Le big data;big-data;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Le RGPD;rgpd;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Wikipédia et les données ouvertes;wikipedia-donnees-ouvertes;2;non;planned
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Les moteurs de recherche internes;moteurs-recherche-internes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;Le neurone artificiel;neurone-artificiel;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;La rétropropagation du gradient;retropropagation-gradient;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;Les réseaux convolutifs et la vision;reseaux-convolutifs-vision;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;AlexNet et le tournant de 2012;alexnet-tournant-2012;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;Le surapprentissage;surapprentissage;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;Les pionniers de l'apprentissage profond;pionniers-apprentissage-profond;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;AlphaFold et la structure des protéines;alphafold-structure-proteines;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement;AlphaGo contre Lee Sedol;alphago-contre-lee-sedol;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement;La récompense et la punition;recompense-punition;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement;Le renforcement à partir de retours humains;renforcement-partir-retours-humains;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement;Les robots qui apprennent à marcher;robots-apprennent-marcher;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement;Les IA qui trichent;ia-trichent;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement;Échecs et Deep Blue;echecs-deep-blue;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement;L'étiquetage des données;etiquetage-donnees;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement;Le coût énergétique de l'entraînement;cout-energetique-entrainement;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement;Les données synthétiques;donnees-synthetiques;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement;Les droits d'auteur et l'entraînement des IA;droits-auteur-entrainement-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement;Les lois d'échelle;lois-echelle;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/donnees-et-entrainement;Évaluer une IA;evaluer-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Le mécanisme d'attention;mecanisme-attention;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Les tokens;tokens;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;La fenêtre de contexte;fenetre-contexte;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Les embeddings;embeddings;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Les modèles ouverts et fermés;modeles-ouverts-fermes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Du GPT de 2018 aux modèles actuels;gpt-2018-modeles-actuels;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;La génération d'images;generation-images;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;La génération de voix et de musique;generation-voix-musique;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;Les deepfakes;deepfakes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;Les agents d'IA;agents-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;L'IA et la création artistique;ia-creation-artistique;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;La génération de vidéos;generation-videos;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;Le filigrane des contenus générés;filigrane-contenus-generes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;L'IA ne sait pas ce qu'elle ne sait pas;ia-sait-qu-sait;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Le raisonnement des modèles de langage;raisonnement-modeles-langage;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;L'injection de prompt;injection-prompt;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Vérifier une réponse d'IA;verifier-reponse-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Le paradoxe de Moravec;paradoxe-moravec;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;L'alignement des IA;alignement-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Les IA sont-elles conscientes;ia-elles-conscientes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/biais;La reconnaissance faciale et ses erreurs;reconnaissance-faciale-erreurs;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/biais;Les biais de genre dans les IA;biais-genre-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/biais;L'algorithme de recrutement d'Amazon;algorithme-recrutement-amazon;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/biais;Les algorithmes en justice;algorithmes-justice;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/biais;Mesurer l'équité d'un algorithme;mesurer-equite-algorithme;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/biais;Les biais culturels et linguistiques;biais-culturels-linguistiques;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;Les systèmes à haut risque;systemes-haut-risque;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;La régulation de l'IA aux États-Unis et en Chine;regulation-ia-etats-unis-chine;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;La reconnaissance faciale dans l'espace public;reconnaissance-faciale-espace-public;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;La responsabilité en cas d'erreur d'une IA;responsabilite-cas-erreur-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;La sécurité des IA les plus puissantes;securite-ia-puissantes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;L'IA et les armes autonomes;ia-armes-autonomes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;L'IA dans l'éducation;ia-education;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;L'IA dans la santé;ia-sante;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;Les métiers les plus exposés;metiers-exposes;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;Bien utiliser un assistant conversationnel;bien-utiliser-assistant-conversationnel;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;L'IA et la productivité;ia-productivite;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;L'IA dans la recherche scientifique;ia-recherche-scientifique;2;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;Les hivers de l'IA;hivers-ia;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Le test de Turing;test-turing;2;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;L'effet ELIZA;effet-eliza;2;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;L'IA et les élections;ia-elections;2;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;L'agriculture biologique;agriculture-biologique;2;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;L'agroforesterie;agroforesterie;2;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;L'humus et la matière organique;humus-matiere-organique;2;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;L'érosion des sols;erosion-sols;2;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;L'azote, le phosphore et le potassium;azote-phosphore-potassium;2;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;Le phosphore, une ressource limitée;phosphore-ressource-limitee;2;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;Les vers de terre;vers-terre;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;La gravitation universelle;gravitation-universelle;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;La relativité restreinte;relativite-restreinte;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;La relativité générale;relativite-generale;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;La lumière est une onde électromagnétique;lumiere-onde-electromagnetique;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Le spectre électromagnétique;spectre-electromagnetique;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;L'effet photoélectrique;effet-photoelectrique;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Le principe d'incertitude;principe-incertitude;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;L'intrication quantique;intrication-quantique;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Le laser;laser;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;L'entropie;entropie;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le moteur thermique et le cycle de Carnot;moteur-thermique-cycle-carnot;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le zéro absolu;zero-absolu;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-organique;Les hydrocarbures et leurs familles;hydrocarbures-leurs-familles;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-organique;Les sucres, les graisses et les protéines;sucres-graisses-proteines;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-organique;La chiralité;chiralite;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Les métaux et leur réactivité;metaux-leur-reactivite;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;L'eau, une molécule exceptionnelle;eau-molecule-exceptionnelle;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;La catalyse;catalyse;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;Les états de la matière;etats-matiere;2;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;La cinétique chimique;cinetique-chimique;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/algebre;Les équations du second degré;equations-second-degre;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/algebre;Les nombres premiers;nombres-premiers;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/algebre;Les nombres complexes;nombres-complexes;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/analyse;Les dérivées, mesurer le changement;derivees-mesurer-changement;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/analyse;Les intégrales, additionner l'infiniment petit;integrales-additionner-infiniment-petit;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/analyse;La croissance exponentielle;croissance-exponentielle;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/analyse;Newton, Leibniz et l'invention du calcul;newton-leibniz-invention-calcul;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;La moyenne et la médiane;moyenne-mediane;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;La loi normale;loi-normale;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;Les sondages;sondages;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;Le théorème de Bayes;theoreme-bayes;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;Le théorème de Pythagore;theoreme-pythagore;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;Le nombre pi;nombre-pi;2;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;La trigonométrie;trigonometrie;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/evolution;Darwin et le voyage du Beagle;darwin-voyage-beagle;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/evolution;L'origine de l'être humain;origine-etre-humain;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/evolution;Les fossiles;fossiles;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/evolution;La sélection artificielle;selection-artificielle;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/genetique;Mendel et les petits pois;mendel-petits-pois;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/genetique;Gènes dominants et récessifs;genes-dominants-recessifs;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/genetique;Les mutations;mutations;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/genetique;L'épigénétique;epigenetique;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/cellule;La mitose et la méiose;mitose-meiose;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/cellule;La mitochondrie;mitochondrie;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/cellule;La photosynthèse;photosynthese;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/cellule;Les cellules souches;cellules-souches;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/ecologie;Le cycle de l'azote;cycle-azote;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/ecologie;La niche écologique;niche-ecologique;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/ecologie;La symbiose;symbiose;2;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/ecologie;Les successions écologiques;successions-ecologiques;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/geologie;Les trois familles de roches;trois-familles-roches;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/geologie;L'âge de la Terre;age-terre;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les vagues et la houle;vagues-houle;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les grands fonds marins;grands-fonds-marins;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;El Niño et La Niña;el-nino-nina;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Le sel de la mer;sel-mer;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;Les tsunamis;tsunamis;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;L'échelle de Richter et la magnitude;echelle-richter-magnitude;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;Pompéi et le Vésuve;pompei-vesuve;2;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;Prévoir les éruptions et les séismes;prevoir-eruptions-seismes;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;La maîtrise du feu;maitrise-feu;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;La grotte Chauvet et l'art pariétal;grotte-chauvet-art-parietal;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;Néandertal, notre cousin;neandertal-notre-cousin;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;Les premiers peuplements de l'Amérique et de l'Australie;premiers-peuplements-amerique-australie;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;La révolution industrielle;revolution-industrielle;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;La Première Guerre mondiale;premiere-guerre-mondiale;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;La Seconde Guerre mondiale;seconde-guerre-mondiale;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;La guerre froide;guerre-froide;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;La décolonisation;decolonisation;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;La construction européenne;construction-europeenne;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/methode-historique;La critique des sources;critique-sources;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/methode-historique;La datation au carbone 14;datation-carbone-14;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/methode-historique;L'archéologie préventive;archeologie-preventive;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/methode-historique;Le déchiffrement des hiéroglyphes;dechiffrement-hieroglyphes;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;L'offre et la demande;offre-demande;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Le monopole;monopole;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Les externalités;externalites;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;La théorie des jeux;theorie-jeux;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Les banques centrales;banques-centrales;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le chômage;chomage;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;La crise de 1929;crise-1929;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;La crise financière de 2008;crise-financiere-2008;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le PIB et ses limites;pib-limites;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;La dette publique;dette-publique;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistribution;L'impôt progressif;impot-progressif;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistribution;L'État-providence;etat-providence;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistribution;La pauvreté dans le monde;pauvrete-monde;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistribution;Patrimoine et héritage;patrimoine-heritage;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistribution;Le revenu universel;revenu-universel;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistribution;Les inégalités entre femmes et hommes;inegalites-entre-femmes-hommes;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Le langage;langage;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Prendre une décision;prendre-decision;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;L'intelligence et le QI;intelligence-qi;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Apprendre efficacement;apprendre-efficacement;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;La conscience;conscience;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;L'attachement chez le jeune enfant;attachement-chez-jeune-enfant;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;L'acquisition du langage;acquisition-langage;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;L'adolescence et le cerveau;adolescence-cerveau;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;Le vieillissement cognitif;vieillissement-cognitif;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;Piaget et les stades du développement;piaget-stades-developpement;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Le biais de confirmation;biais-confirmation;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'effet Dunning-Kruger;effet-dunning-kruger;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Le biais du survivant;biais-survivant;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'aversion à la perte;aversion-perte;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Les fausses informations et leur propagation;fausses-informations-leur-propagation;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'effet de cadrage;effet-cadrage;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;L'expérience de Milgram;experience-milgram;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;La confiance et le capital social;confiance-capital-social;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Les rites et les fêtes;rites-fetes;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Les mouvements sociaux;mouvements-sociaux;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;La famille et ses transformations;famille-transformations;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;L'alphabétisation dans le monde;alphabetisation-monde;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;Les classements PISA;classements-pisa;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;L'école de Jules Ferry;ecole-jules-ferry;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;L'ascenseur social;ascenseur-social;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;L'apprentissage et la formation professionnelle;apprentissage-formation-professionnelle;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Les fibres musculaires lentes et rapides;fibres-musculaires-lentes-rapides;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;La VO2 max;vo2-max;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'acide lactique, un faux coupable;acide-lactique-faux-coupable;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Les courbatures;courbatures;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'alimentation de l'effort;alimentation-effort;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;La fréquence cardiaque à l'effort;frequence-cardiaque-effort;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Le sport par forte chaleur;sport-forte-chaleur;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;La surcompensation;surcompensation;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le fractionné;fractionne;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;La musculation;musculation;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le surentraînement;surentrainement;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;L'étirement, utile ou non;etirement-utile-non;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;La préparation mentale;preparation-mentale;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;L'entraînement en altitude;entrainement-altitude;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;La rupture du ligament croisé;rupture-ligament-croise;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Les commotions dans le sport;commotions-sport;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Les tendinites;tendinites;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;La mort subite du sportif;mort-subite-sportif;2;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;L'échauffement;echauffement;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Les règles du rugby;regles-rugby;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le basket-ball;basket-ball;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;La tactique au football;tactique-football;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le handball;handball;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le volley-ball;volley-ball;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;La Coupe du monde de football;coupe-monde-football;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le marathon;marathon;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le Tour de France;tour-france;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le tennis;tennis;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les arts martiaux;arts-martiaux;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;L'escalade;escalade;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;La gymnastique;gymnastique;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Les Jeux paralympiques;jeux-paralympiques;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Les lames de course;lames-course;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le cécifoot;cecifoot;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le basket en fauteuil;basket-fauteuil;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le sport adapté au handicap mental;sport-adapte-handicap-mental;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Rendre le sport accessible;rendre-sport-accessible;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;L'EPO;epo;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Le passeport biologique;passeport-biologique;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Le dopage d'État en Russie;dopage-etat-russie;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Lance Armstrong;lance-armstrong;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Les anabolisants;anabolisants;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Le dopage chez les amateurs;dopage-chez-amateurs;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;Les droits télévisés;droits-televises;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;Le coût des Jeux olympiques;cout-jeux-olympiques;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;Les transferts de joueurs;transferts-joueurs;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;Le sponsoring;sponsoring;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;Les paris sportifs;paris-sportifs;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;Le sport féminin professionnel;sport-feminin-professionnel;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;La sédentarité;sedentarite;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Marcher 10 000 pas par jour;marcher-10-000-jour;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Le sport et la santé mentale;sport-sante-mentale;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Le sport chez les seniors;sport-chez-seniors;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Le sport sur ordonnance;sport-ordonnance;2;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Le sport et les enfants;sport-enfants;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Le béton armé;beton-arme;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Construire en terre crue;construire-terre-crue;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Le bois dans la construction moderne;bois-construction-moderne;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Le verre plat;verre-plat;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les ponts suspendus;ponts-suspendus;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Creuser un tunnel;creuser-tunnel;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les barrages, comment ils résistent;barrages-ils-resistent;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Le viaduc de Millau;viaduc-millau;2;non;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les écluses;ecluses;2;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;Le moteur électrique;moteur-electrique;2;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;L'hydraulique et la pneumatique;hydraulique-pneumatique;2;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;Les moteurs pas à pas et servomoteurs;moteurs-servomoteurs;2;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;Les muscles artificiels;muscles-artificiels;2;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;La main robotique;main-robotique;2;non;planned
+technologies;technologies-et-ingenierie/robotique/perception;Le lidar;lidar;2;non;planned
+technologies;technologies-et-ingenierie/robotique/perception;La vision par ordinateur;vision-ordinateur;2;non;planned
+technologies;technologies-et-ingenierie/robotique/perception;Les capteurs de force et de toucher;capteurs-force-toucher;2;non;planned
+technologies;technologies-et-ingenierie/robotique/perception;La centrale inertielle;centrale-inertielle;2;non;planned
+technologies;technologies-et-ingenierie/robotique/perception;Le radar;radar;2;non;planned
+technologies;technologies-et-ingenierie/robotique/perception;Fusionner les capteurs;fusionner-capteurs;2;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;La voiture autonome;voiture-autonome;2;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les drones;drones;2;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les robots humanoïdes;robots-humanoides;2;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les rovers martiens;rovers-martiens;2;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les robots d'entrepôt;robots-entrepot;2;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les robots sous-marins;robots-sous-marins;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Les nanotubes de carbone;nanotubes-carbone;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Les nanoparticules et la santé;nanoparticules-sante;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Les points quantiques;points-quantiques;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Voir l'infiniment petit;voir-infiniment-petit;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Les nanoparticules d'argent;nanoparticules-argent;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/applications;Les surfaces autonettoyantes;surfaces-autonettoyantes;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/applications;La nanomédecine;nanomedecine;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/applications;Les nanotechnologies dans l'électronique;nanotechnologies-electronique;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/applications;Les crèmes solaires minérales;cremes-solaires-minerales;2;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/applications;La filtration de l'eau par membranes;filtration-eau-membranes;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;La fatigue des matériaux;fatigue-materiaux;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;La corrosion;corrosion;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;Les aciers inoxydables;aciers-inoxydables;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;L'aluminium et ses alliages;aluminium-alliages;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;Les céramiques techniques;ceramiques-techniques;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience;L'effondrement du pont de Gênes;effondrement-pont-genes;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience;La navette Challenger;navette-challenger;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience;Le Titanic, une défaillance en chaîne;titanic-defaillance-chaine;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience;L'analyse des modes de défaillance;analyse-modes-defaillance;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience;Le facteur humain dans les accidents;facteur-humain-accidents;2;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience;Les coefficients de sécurité;coefficients-securite;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/immunite;Le VIH et le système immunitaire;vih-systeme-immunitaire;3;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;La poliomyélite, bientôt éradiquée;poliomyelite-bientot-eradiquee;3;non;planned
+energie;energie/reseaux-et-stockage/batteries;La pile de Volta;pile-volta;3;non;planned
+industries;industries/industrie-manufacturiere/automatisation;Le métier Jacquard;metier-jacquard;3;non;planned
+industries;industries/industrie-4-0/iot;Les étiquettes RFID;etiquettes-rfid;3;non;planned
+industries;industries/materiaux-et-procedes/composites-et-polymeres;La bakélite;bakelite;3;non;planned
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;L'encre électronique;encre-electronique;3;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Les hackers éthiques;hackers-ethiques;3;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/methode-historique;Les faux historiques;faux-historiques;3;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Les illusions d'optique;illusions-optique;3;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le cricket;cricket;3;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Le béton romain;beton-romain;3;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les robots aspirateurs;robots-aspirateurs;3;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Le vitrail médiéval et les nanoparticules d'or;vitrail-medieval-nanoparticules-or;3;non;planned
