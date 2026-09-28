@@ -1592,13 +1592,94 @@ slug: faire-tourner-ia-ordinateur
 categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
 summary: >
   Les modèles locaux fonctionnent sans internet : un moyen de garder l'accès au savoir hors ligne.
-tags: [transformeurs, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [transformeurs, ia-locale, hors-ligne, essentiel-reconstruction]
+relatedArticles: [reseaux-locaux-sans-internet]
+sources:
+  - title: "llama.cpp: A CPU-First Framework for Running LLaMA Models on Local Hardware"
+    url: "https://www.sandgarden.com/learn/llama-cpp"
+    publisher: "Sand Garden"
+    date: "2025"
+  - title: "Which Quantization Should I Use? A Unified Evaluation of llama.cpp Quantization"
+    url: "https://arxiv.org/html/2601.14277v1"
+    publisher: "arXiv"
+    date: "2026"
+quiz:
+  - question: "Que permet la technique appelée quantification pour exécuter un modèle de
+      langage sur un ordinateur ordinaire ?"
+    options:
+      - "Elle rend le modèle plus intelligent"
+      - "Elle réduit la précision des calculs internes pour diminuer la mémoire nécessaire"
+      - "Elle connecte automatiquement le modèle à internet"
+    answer: 2
+    explanation: >
+      La quantification réduit la précision numérique utilisée pour stocker les paramètres du
+      modèle, ce qui diminue fortement la mémoire nécessaire, au prix d'une légère perte de
+      qualité généralement acceptable.
+  - question: "Quel avantage principal offre l'exécution d'un modèle de langage directement sur
+      son propre ordinateur, plutôt que via un service en ligne ?"
+    options:
+      - "Le modèle devient automatiquement plus performant que n'importe quel service en ligne"
+      - "Le modèle reste utilisable même sans connexion internet"
+      - "Cela élimine tout besoin de mémoire vive"
+    answer: 2
+    explanation: >
+      Un modèle exécuté localement continue de fonctionner même sans accès à internet,
+      contrairement à un service en ligne qui devient inutilisable dès que la connexion est
+      coupée.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Interroger une intelligence artificielle ne nécessite pas forcément une connexion à internet. Des
+modèles de langage peuvent fonctionner directement sur un ordinateur personnel, sans dépendre
+d'aucun service extérieur, à condition de respecter certaines contraintes techniques.
+
+## Pourquoi un modèle de langage est-il si volumineux
+
+Un modèle de langage contient des milliards de paramètres numériques ajustés durant son
+entraînement. Stocker et faire fonctionner un tel volume de données nécessite normalement une
+quantité de mémoire bien supérieure à celle d'un ordinateur personnel ordinaire.
+
+## La quantification, réduire la précision pour gagner en légèreté
+
+La quantification consiste à réduire la précision numérique utilisée pour stocker chaque
+paramètre du modèle, ce qui diminue fortement l'espace mémoire nécessaire. Cette réduction
+entraîne une légère perte de qualité dans les réponses, généralement peu perceptible pour un usage
+courant.
+
+## Des outils conçus pour le matériel ordinaire
+
+Des logiciels spécialisés, conçus pour fonctionner efficacement sur un simple processeur
+d'ordinateur plutôt que sur du matériel spécialisé coûteux, permettent d'exécuter des modèles
+quantifiés même sur une machine sans carte graphique puissante.
+
+## L'avantage de fonctionner sans connexion
+
+Un modèle de langage exécuté localement continue de répondre aux questions même en l'absence
+totale de connexion internet, ce qui en fait un outil précieux de conservation et d'accès au
+savoir dans des situations où les réseaux de communication habituels seraient indisponibles.
+
+## Les limites d'un modèle exécuté localement
+
+Un modèle quantifié pour fonctionner sur du matériel modeste reste généralement moins performant
+qu'un modèle de très grande taille exécuté sur une infrastructure spécialisée. Il reste néanmoins
+capable de répondre utilement à de nombreuses questions générales, même hors ligne.
+
+## À retenir
+
+- Un modèle de langage contient des milliards de paramètres, ce qui nécessite normalement
+  beaucoup de mémoire.
+- La quantification réduit la précision des paramètres pour diminuer fortement la mémoire
+  nécessaire.
+- Des logiciels spécialisés permettent d'exécuter des modèles quantifiés sur un ordinateur
+  ordinaire.
+- Un modèle exécuté localement continue de fonctionner sans aucune connexion internet.
+- Un modèle allégé reste moins performant qu'un grand modèle en ligne, mais utile hors ligne.
+
+[Emplacement image : ordinateur portable exécutant un modèle de langage localement, sans
+connexion réseau visible, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

@@ -1572,13 +1572,93 @@ slug: calendrier-lunaire
 categoryPath: espace-et-astronomie/systeme-solaire/lune
 summary: >
   Des premiers calendriers humains aux calendriers lunaires encore utilisés aujourd'hui.
-tags: [lune, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [lune, calendrier, temps, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Calendar - Ancient, Religious, Systems"
+    url: "https://www.britannica.com/science/calendar/Ancient-and-religious-calendar-systems"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Lunar Calendar History: Ancient Civilizations & Time"
+    url: "https://timeinmilitary.com/blog/history-of-lunar-calendar"
+    publisher: "TimeInMilitary"
+    date: "2025"
+quiz:
+  - question: "Combien de temps dure approximativement un cycle lunaire complet, d'une nouvelle
+      lune à la suivante ?"
+    options:
+      - "Environ sept jours"
+      - "Environ vingt-neuf jours et demi"
+      - "Environ trois mois"
+    answer: 2
+    explanation: >
+      Le cycle lunaire, de nouvelle lune à nouvelle lune, dure environ vingt-neuf jours et demi,
+      une durée observable à l'œil nu qui a servi de base à de nombreux calendriers anciens.
+  - question: "Quelle civilisation a développé l'un des premiers calendriers lunaires formels
+      connus, vers 3000 avant notre ère ?"
+    options:
+      - "Les Égyptiens"
+      - "Les Sumériens de Mésopotamie"
+      - "Les Romains"
+    answer: 2
+    explanation: >
+      Les Sumériens de Mésopotamie ont développé vers 3000 avant notre ère l'un des premiers
+      calendriers lunaires formels, plus tard affiné par les Babyloniens.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant les calendriers modernes basés sur le Soleil, l'humanité observait déjà le cycle régulier
+des phases de la Lune pour organiser le temps. Ce calendrier lunaire, l'un des plus anciens outils
+de mesure du temps, reste utilisé aujourd'hui dans plusieurs cultures.
+
+## Le cycle lunaire, une régularité observable
+
+La Lune traverse un cycle complet de phases, de la nouvelle lune à la pleine lune puis retour à la
+nouvelle lune, en environ vingt-neuf jours et demi. Cette régularité, visible à l'œil nu chaque
+nuit, en a fait un repère naturel pour organiser le temps bien avant l'écriture.
+
+## Les premiers calendriers lunaires connus
+
+Des marques sur des os datant d'environ trente-deux mille ans avant notre ère, retrouvées en
+Europe, suggèrent un suivi précoce des cycles lunaires. Des calendriers lunaires formels sont
+apparus en Mésopotamie vers 3000 avant notre ère, développés par les Sumériens puis affinés par
+les Babyloniens.
+
+## Le décalage entre l'année lunaire et l'année solaire
+
+Douze cycles lunaires complets totalisent environ trois cent cinquante-quatre jours, soit environ
+onze jours de moins qu'une année solaire complète. Ce décalage explique pourquoi un calendrier
+purement lunaire dérive progressivement par rapport aux saisons, contrairement à un calendrier
+solaire.
+
+## Les calendriers lunisolaires, une solution intermédiaire
+
+Pour éviter cette dérive, de nombreuses civilisations ont développé des calendriers lunisolaires,
+qui suivent les mois lunaires tout en ajoutant occasionnellement un mois supplémentaire pour
+rester alignés avec les saisons de l'année solaire.
+
+## Des calendriers lunaires encore utilisés aujourd'hui
+
+Le calendrier islamique reste un calendrier purement lunaire, sans ajustement solaire, ce qui
+explique le décalage progressif de ses fêtes religieuses par rapport aux saisons. Le Nouvel An
+lunaire et d'autres fêtes traditionnelles asiatiques suivent également des calendriers basés sur
+les cycles de la Lune.
+
+## À retenir
+
+- Un cycle lunaire complet dure environ vingt-neuf jours et demi, observable à l'œil nu.
+- Des calendriers lunaires formels existaient déjà en Mésopotamie vers 3000 avant notre ère.
+- Douze cycles lunaires totalisent environ onze jours de moins qu'une année solaire complète.
+- Les calendriers lunisolaires ajoutent occasionnellement un mois pour rester alignés sur les
+  saisons.
+- Le calendrier islamique et le Nouvel An lunaire asiatique restent basés sur les cycles de la
+  Lune aujourd'hui.
+
+[Emplacement image : les différentes phases de la Lune sur un mois, du croissant à la pleine
+lune, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1742,13 +1822,91 @@ slug: reperer-grace-etoiles
 categoryPath: espace-et-astronomie/astrophysique/etoiles
 summary: >
   Étoile polaire, Croix du Sud, constellations : trouver le nord et l'heure la nuit.
-tags: [etoiles, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [etoiles, navigation, orientation, essentiel-reconstruction]
+relatedArticles: [naviguer-sans-gps]
+sources:
+  - title: "The Southern Cross is your guide to due south"
+    url: "https://earthsky.org/favorite-star-patterns/how-to-use-southern-cross-to-find-south-celestial-pole/"
+    publisher: "EarthSky"
+    date: "2025"
+  - title: "Star Navigation Guide: How to Navigate by the Stars"
+    url: "https://replogleglobes.com/blog/star-navigation-guide-how-to-navigate-by-the-stars/"
+    publisher: "Replogle Globes"
+    date: "2025"
+quiz:
+  - question: "Pourquoi l'étoile polaire est-elle si utile pour trouver le nord dans l'hémisphère
+      nord ?"
+    options:
+      - "Elle est l'étoile la plus brillante du ciel nocturne"
+      - "Elle est située presque exactement au-dessus du pôle nord et reste donc fixe dans le
+        ciel"
+      - "Elle change de position chaque nuit de façon prévisible"
+    answer: 2
+    explanation: >
+      L'étoile polaire se trouve presque exactement dans l'alignement de l'axe de rotation de la
+      Terre, ce qui la fait apparaître pratiquement immobile dans le ciel tout au long de la nuit
+      et de l'année, contrairement aux autres étoiles.
+  - question: "Comment la Croix du Sud permet-elle de trouver le sud dans l'hémisphère sud ?"
+    options:
+      - "En suivant directement l'étoile la plus brillante de la constellation"
+      - "En prolongeant sa grande branche jusqu'à un point qui indique approximativement le pôle
+        céleste sud"
+      - "Elle n'indique aucune direction utile"
+    answer: 2
+    explanation: >
+      En prolongeant environ quatre fois et demie la longueur de sa branche la plus longue, on
+      obtient approximativement la position du pôle céleste sud, dont on peut ensuite se
+      repérer au sol.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Bien avant la boussole et le GPS, les voyageurs se repéraient déjà grâce aux étoiles. Deux points
+de repère majeurs, l'étoile polaire dans l'hémisphère nord et la Croix du Sud dans l'hémisphère
+sud, permettent de retrouver une direction fiable dans l'obscurité.
+
+## L'étoile polaire, un repère presque immobile
+
+Dans l'hémisphère nord, l'étoile polaire se situe presque exactement dans l'alignement de l'axe de
+rotation terrestre. Contrairement aux autres étoiles qui semblent tourner dans le ciel au cours de
+la nuit, elle reste pratiquement immobile, ce qui en fait un repère fiable pour indiquer le nord.
+
+## Retrouver l'étoile polaire dans le ciel
+
+La Grande Ourse, une constellation facilement reconnaissable, aide à localiser l'étoile polaire :
+en prolongeant environ cinq fois la distance entre les deux étoiles formant le bord de sa
+casserole, on tombe directement sur elle.
+
+## La Croix du Sud pour l'hémisphère austral
+
+Dans l'hémisphère sud, où l'étoile polaire n'est pas visible, la constellation de la Croix du Sud
+joue un rôle équivalent. En prolongeant environ quatre fois et demie la longueur de sa branche la
+plus longue, on obtient approximativement la position du pôle céleste sud.
+
+## Estimer l'heure grâce aux étoiles
+
+Les constellations se déplacent régulièrement dans le ciel au fil de la nuit, à cause de la
+rotation de la Terre. Un observateur familier avec la position habituelle de certaines étoiles à
+une heure donnée peut estimer approximativement l'heure qu'il est, sans montre ni instrument.
+
+## Les limites de cette méthode
+
+Un ciel couvert de nuages rend cette technique inutilisable, et une identification erronée d'une
+constellation peut conduire à une estimation de direction complètement fausse. Ces méthodes
+restent néanmoins fiables et gratuites par ciel dégagé.
+
+## À retenir
+
+- L'étoile polaire, presque immobile dans le ciel, indique le nord dans l'hémisphère nord.
+- La Grande Ourse aide à localiser facilement l'étoile polaire dans le ciel nocturne.
+- La Croix du Sud joue un rôle équivalent pour indiquer le sud dans l'hémisphère austral.
+- La position des constellations au fil de la nuit permet d'estimer approximativement l'heure.
+- Un ciel couvert de nuages rend ces méthodes de repérage inutilisables.
+
+[Emplacement image : ciel nocturne montrant la Grande Ourse pointant vers l'étoile polaire,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2371,13 +2529,95 @@ slug: fabriquer-lunette-astronomique
 categoryPath: espace-et-astronomie/observation-astronomique/telescopes
 summary: >
   Lentilles, tube, oculaire : construire un instrument d'observation simple.
-tags: [telescopes, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [telescopes, lentilles, observation, essentiel-reconstruction]
+relatedArticles: [lentilles-optique]
+sources:
+  - title: "Building a Simple Refracting Telescope"
+    url: "https://www.amnh.org/learn-teach/curriculum-collections/discovering-the-universe/building-a-simple-refracting-telescope"
+    publisher: "American Museum of Natural History"
+    date: "2025"
+  - title: "Build your own Galilean telescope"
+    url: "https://www.skyatnightmagazine.com/advice/diy/build-your-own-galilean-telescope"
+    publisher: "BBC Sky at Night Magazine"
+    date: "2025"
+quiz:
+  - question: "Combien de lentilles au minimum sont nécessaires pour construire une lunette
+      astronomique simple de type Galilée ?"
+    options:
+      - "Une seule lentille suffit"
+      - "Deux lentilles, une pour l'objectif et une pour l'oculaire"
+      - "Au moins cinq lentilles"
+    answer: 2
+    explanation: >
+      Une lunette de type Galilée nécessite deux lentilles : une lentille objective, qui
+      capte la lumière de l'objet observé, et une lentille oculaire, à travers laquelle
+      l'observateur regarde.
+  - question: "Comment calcule-t-on approximativement le grossissement d'une lunette
+      astronomique simple ?"
+    options:
+      - "En additionnant les distances focales des deux lentilles"
+      - "En divisant la distance focale de la lentille objective par celle de la lentille
+        oculaire"
+      - "En mesurant uniquement la longueur totale du tube"
+    answer: 2
+    explanation: >
+      Le grossissement d'une lunette se calcule en divisant la distance focale de la lentille
+      objective, qui capte la lumière, par celle de la lentille oculaire, à travers laquelle on
+      observe.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Observer la Lune avec un relief détaillé ou distinguer les principales lunes de Jupiter ne
+nécessite pas un équipement sophistiqué. Une lunette astronomique simple, construite avec deux
+lentilles et un tube, suffit à reproduire l'instrument que Galilée utilisait en 1609.
+
+## Le principe d'une lunette de type Galilée
+
+Deux lentilles alignées suffisent : une lentille objective, qui capte la lumière de l'objet
+observé et la fait converger, et une lentille oculaire, à travers laquelle l'observateur regarde
+l'image ainsi agrandie.
+
+## Assembler le tube et les lentilles
+
+Deux tubes de carton, l'un glissant à l'intérieur de l'autre, permettent de fixer chaque lentille
+à une extrémité tout en ajustant la distance entre elles pour obtenir une image nette, un réglage
+appelé mise au point.
+
+## Calculer le grossissement obtenu
+
+Diviser la distance focale de la lentille objective par celle de la lentille oculaire donne le
+grossissement approximatif de l'instrument. Une lentille objective à longue distance focale
+associée à une lentille oculaire à courte distance focale produit un grossissement plus important.
+
+## Ajuster la longueur du tube
+
+La longueur totale du tube correspond approximativement à la somme des distances focales des deux
+lentilles. Un tube trop court ou trop long empêche d'obtenir une image nette, quelle que soit la
+qualité des lentilles utilisées.
+
+## Les limites d'une lunette artisanale
+
+Une lunette simple, construite avec des lentilles de qualité modeste, produit une image souvent
+moins nette et moins lumineuse qu'un instrument commercial, mais reste suffisante pour observer
+les cratères de la Lune, les principales lunes de Jupiter, ou les anneaux de Saturne dans de bonnes
+conditions.
+
+## À retenir
+
+- Une lunette de type Galilée nécessite deux lentilles : une objective et une oculaire.
+- Deux tubes coulissants permettent d'ajuster la distance entre les lentilles pour la mise au
+  point.
+- Le grossissement se calcule en divisant la distance focale de l'objective par celle de
+  l'oculaire.
+- La longueur du tube correspond approximativement à la somme des deux distances focales.
+- Une lunette artisanale reste suffisante pour observer la Lune, Jupiter et Saturne dans de
+  bonnes conditions.
+
+[Emplacement image : lunette astronomique artisanale faite de deux tubes de carton avec des
+lentilles fixées à chaque extrémité, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

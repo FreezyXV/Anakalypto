@@ -111,7 +111,7 @@ export const articleBlockSchema = z.object({
   sources: z.array(sourceSchema).default([]),
   quiz: z.array(quizQuestionSchema).default([]),
   lastVerified: isoDate.optional(),
-  status: z.enum(["published", "draft"]).default("draft"),
+  status: z.enum(["published", "draft", "planned"]).default("draft"),
 });
 
 export type CategoryBlock = z.infer<typeof categoryBlockSchema>;

@@ -1667,13 +1667,96 @@ slug: conserver-donnees-long-terme
 categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
 summary: >
   Disques, bandes, papier : combien de temps durent les supports, et comment éviter de perdre la mémoire numérique.
-tags: [memoire-et-stockage, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [memoire-et-stockage, archivage, conservation, essentiel-reconstruction]
+relatedArticles: [archives-bibliotheques-preservation]
+sources:
+  - title: "Data Storage Lifespans: How Long Will Media Really Last?"
+    url: "https://www.arcserve.com/blog/data-storage-lifespans-how-long-will-media-really-last"
+    publisher: "Arcserve"
+    date: "2025"
+  - title: "Optical media preservation"
+    url: "https://en.wikipedia.org/wiki/Optical_media_preservation"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Combien de temps une bande magnétique conserve-t-elle généralement des données
+      fiables, dans de bonnes conditions de stockage ?"
+    options:
+      - "Environ un an"
+      - "Environ dix à vingt ans"
+      - "Plusieurs siècles sans aucune précaution"
+    answer: 2
+    explanation: >
+      Une bande magnétique conserve généralement des données fiables pendant dix à vingt ans,
+      parfois jusqu'à trente ans selon les fabricants, mais uniquement dans des conditions de
+      température et d'humidité stables.
+  - question: "Pourquoi la conservation numérique nécessite-t-elle plus qu'un simple support de
+      stockage fiable ?"
+    options:
+      - "Un support fiable suffit à lui seul dans tous les cas"
+      - "Les formats de fichiers et les logiciels capables de les lire évoluent et peuvent
+        devenir obsolètes"
+      - "La conservation numérique ne pose en réalité aucun défi particulier"
+    answer: 2
+    explanation: >
+      Même un support physique en parfait état devient inutile si le format du fichier ou le
+      logiciel nécessaire pour l'ouvrir n'est plus disponible, un problème appelé obsolescence
+      logicielle.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Contrairement à une idée répandue, les données numériques ne se conservent pas indéfiniment sans
+effort. Chaque support de stockage a une durée de vie limitée, et le format même des fichiers peut
+devenir illisible avec le temps si personne n'y prête attention.
+
+## La durée de vie limitée des supports physiques
+
+Une bande magnétique conserve généralement ses données de manière fiable pendant dix à vingt ans
+dans de bonnes conditions. Un disque optique de qualité archive peut atteindre plusieurs décennies,
+voire un siècle pour les meilleurs supports, tandis qu'un disque dur mécanique reste plus
+vulnérable aux pannes mécaniques sur le long terme.
+
+## L'importance des conditions de stockage
+
+La température, l'humidité et la lumière affectent tous les supports de stockage, qu'ils soient
+magnétiques ou optiques. Un environnement stable, frais et sec prolonge considérablement la durée
+de vie effective de n'importe quel support de conservation.
+
+## L'obsolescence des formats et des logiciels
+
+Un support en parfait état ne garantit rien si le format du fichier qu'il contient n'est plus
+reconnu par aucun logiciel actuel, ou si le lecteur physique nécessaire pour accéder au support a
+disparu du marché. Ce problème, appelé obsolescence logicielle, menace autant la conservation que
+la dégradation physique.
+
+## La règle des trois copies
+
+Une pratique recommandée consiste à conserver au moins trois copies d'une donnée importante, sur
+au moins deux supports différents, dont une copie stockée dans un lieu physiquement distinct. Cette
+redondance protège contre la défaillance simultanée de plusieurs copies.
+
+## Migrer régulièrement vers de nouveaux supports
+
+Recopier périodiquement des données importantes vers des supports plus récents, avant que
+l'ancien support ne devienne défaillant ou illisible, reste la seule stratégie véritablement
+fiable pour une conservation numérique sur le très long terme.
+
+## À retenir
+
+- Chaque support de stockage, magnétique ou optique, a une durée de vie limitée dans le temps.
+- Un environnement stable, frais et sec prolonge considérablement la durée de vie des supports.
+- Un format de fichier obsolète peut rendre une donnée illisible même si le support reste
+  intact.
+- Conserver au moins trois copies sur des supports différents protège contre la perte de
+  données.
+- Migrer régulièrement les données vers de nouveaux supports reste la stratégie la plus fiable à
+  long terme.
+
+[Emplacement image : différents supports de stockage, disque dur, bande magnétique et disque
+optique, côte à côte, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1905,13 +1988,95 @@ slug: remettre-marche-vieil-ordinateur
 categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
 summary: >
   Systèmes légers, pièces de rechange, réparation : prolonger la vie du matériel informatique.
-tags: [systemes-d-exploitation, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [systemes-d-exploitation, reparation, materiel, essentiel-reconstruction]
+relatedArticles: [reconnaitre-recuperer-materiaux]
+sources:
+  - title: "How to revive your old computer"
+    url: "https://www.fastcompany.com/90773755/how-to-revive-your-old-computer"
+    publisher: "Fast Company"
+    date: "2025"
+  - title: "Restoration of vintage computers"
+    url: "http://www.retrotechnology.com/restore/r_restore.html"
+    publisher: "RetroTechnology"
+    date: "2025"
+quiz:
+  - question: "Quelle panne est souvent la première cause de dysfonctionnement d'un vieil
+      ordinateur remis en marche après une longue période ?"
+    options:
+      - "Le clavier"
+      - "Le disque dur, en particulier après une longue période d'inutilisation"
+      - "L'écran, systématiquement"
+    answer: 2
+    explanation: >
+      Le disque dur, un composant mécanique avec des pièces mobiles, est souvent le premier à
+      montrer des signes de défaillance sur un ordinateur ancien, surtout après une longue
+      période sans utilisation.
+  - question: "Pourquoi installer un système d'exploitation léger peut-il redonner une seconde
+      vie à un vieil ordinateur ?"
+    options:
+      - "Un système léger consomme moins de ressources que les systèmes récents plus exigeants"
+      - "Cela n'a aucun effet sur les performances"
+      - "Un système léger rend l'ordinateur plus rapide même s'il consomme plus de ressources"
+    answer: 1
+    explanation: >
+      Les systèmes d'exploitation modernes exigent souvent des ressources matérielles
+      importantes. Un système plus léger, conçu pour du matériel plus modeste, permet à un vieil
+      ordinateur de continuer à fonctionner correctement.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un ordinateur ancien, jugé trop lent ou dépassé, peut souvent retrouver une seconde vie utile
+grâce à quelques vérifications simples, un peu de nettoyage et un système d'exploitation mieux
+adapté à ses capacités réelles.
+
+## Diagnostiquer les pannes les plus courantes
+
+Le disque dur, composant mécanique le plus sollicité, est souvent le premier à faiblir après une
+longue période d'inutilisation. Une pile interne défaillante peut aussi provoquer une corrosion
+sur la carte mère, tandis qu'une pâte thermique durcie avec le temps réduit l'efficacité du
+refroidissement du processeur.
+
+## Nettoyer avant de diagnostiquer plus loin
+
+La poussière accumulée dans un ordinateur ancien nuit à la ventilation et peut provoquer une
+surchauffe. Un nettoyage à l'air comprimé et avec de l'alcool isopropylique pour les contacts
+électriques résout souvent une partie des problèmes sans nécessiter de remplacement de pièces.
+
+## Installer un système d'exploitation adapté au matériel
+
+Les systèmes d'exploitation récents exigent souvent des ressources que le matériel ancien ne peut
+plus fournir. Installer un système plus léger, conçu spécifiquement pour du matériel modeste,
+redonne fréquemment une fluidité d'utilisation acceptable à un ordinateur ancien.
+
+## Remplacer les pièces les plus fragiles
+
+Un disque dur mécanique peut être remplacé par un support à mémoire flash, plus rapide et sans
+pièce mobile susceptible de tomber en panne. La mémoire vive, quand elle est insuffisante et que
+le format est encore disponible, peut aussi être complétée à moindre coût.
+
+## Trouver des pièces pour du matériel ancien
+
+Certaines pièces spécifiques à un matériel ancien deviennent difficiles à trouver neuves. Les
+composants d'occasion, récupérés sur d'autres ordinateurs hors service, ou des équivalents plus
+récents compatibles, permettent souvent de contourner ce problème.
+
+## À retenir
+
+- Le disque dur est souvent le premier composant à faiblir sur un ordinateur resté longtemps
+  inutilisé.
+- Un nettoyage de la poussière et des contacts résout fréquemment une partie des problèmes
+  rencontrés.
+- Un système d'exploitation léger redonne une fluidité acceptable à du matériel ancien limité.
+- Remplacer un disque dur mécanique par un support à mémoire flash améliore nettement les
+  performances.
+- Des pièces d'occasion ou des équivalents compatibles permettent de contourner la rareté de
+  certains composants anciens.
+
+[Emplacement image : ordinateur ancien ouvert en cours de nettoyage et de maintenance, légende et
+texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2211,13 +2376,94 @@ slug: reseaux-locaux-sans-internet
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
 summary: >
   Relier des ordinateurs entre eux sans fournisseur d'accès : réseaux maillés et communication de secours.
-tags: [internet, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [internet, reseau-local, communication, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Wireless mesh network"
+    url: "https://en.wikipedia.org/wiki/Wireless_mesh_network"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "Creating a Local Wi-Fi Network Without Internet: Step-by-Step Guide"
+    url: "https://optnode.com/index.php/2025/07/02/creating-a-local-wi-fi-network-without-internet-step-by-step-guide/"
+    publisher: "OptNode"
+    date: "2025"
+quiz:
+  - question: "Peut-on faire fonctionner un réseau local reliant plusieurs ordinateurs sans
+      aucune connexion à internet ?"
+    options:
+      - "Non, un réseau local nécessite obligatoirement internet"
+      - "Oui, un réseau local fonctionne indépendamment de toute connexion internet"
+      - "Seulement avec des appareils très récents"
+    answer: 2
+    explanation: >
+      Un réseau local, ou LAN, relie des appareils entre eux pour qu'ils communiquent
+      directement, ce qui ne nécessite aucune connexion à internet. Un routeur simplement allumé,
+      sans être relié à un fournisseur d'accès, suffit à créer ce réseau.
+  - question: "Quel avantage principal offre un réseau maillé par rapport à un réseau classique
+      avec un seul point central ?"
+    options:
+      - "Il est toujours moins cher à mettre en place"
+      - "Si un nœud du réseau tombe en panne, les autres continuent de communiquer entre eux"
+      - "Il ne nécessite aucun appareil électronique"
+    answer: 2
+    explanation: >
+      Dans un réseau maillé, chaque appareil peut relayer les communications des autres. La
+      panne d'un seul nœud n'empêche donc pas le reste du réseau de continuer à fonctionner,
+      contrairement à un réseau dépendant d'un unique point central.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Internet et réseau local sont deux choses distinctes. Il est tout à fait possible de relier
+plusieurs ordinateurs entre eux pour qu'ils échangent des fichiers ou communiquent, sans aucun
+accès à internet ni fournisseur extérieur.
+
+## Un réseau local fonctionne sans internet
+
+Un routeur simplement allumé, sans être relié à un fournisseur d'accès, diffuse tout de même un
+signal auquel plusieurs appareils peuvent se connecter. Ces appareils peuvent alors communiquer
+directement entre eux, partager des fichiers ou utiliser des services locaux, sans jamais sortir
+de ce réseau restreint.
+
+## Les usages possibles d'un réseau local isolé
+
+Un tel réseau permet de partager des documents, d'héberger une messagerie locale entre plusieurs
+utilisateurs, ou de mettre à disposition une base de connaissances stockée sur un seul appareil
+mais consultable par tous les autres connectés au même réseau.
+
+## Le principe du réseau maillé
+
+Un réseau maillé relie plusieurs appareils, appelés nœuds, qui peuvent chacun relayer les
+communications des autres vers leur destination finale. Cette architecture ne dépend d'aucun point
+central unique : si un nœud tombe en panne, les autres continuent généralement de communiquer
+entre eux par d'autres chemins disponibles.
+
+## Une solution de secours en cas de coupure
+
+En cas de coupure des infrastructures de communication habituelles, un réseau local ou maillé
+improvisé permet de maintenir une communication essentielle entre plusieurs points d'une même
+zone, sans dépendre d'une infrastructure extérieure défaillante.
+
+## Les limites de cette approche
+
+Un réseau local sans internet reste limité géographiquement à la portée de ses appareils, et ne
+donne pas accès aux ressources extérieures disponibles normalement sur internet. Il reste
+néanmoins précieux pour maintenir une communication de proximité en toutes circonstances.
+
+## À retenir
+
+- Un réseau local fonctionne indépendamment de toute connexion à internet.
+- Un routeur simplement allumé, sans fournisseur d'accès, permet de créer un tel réseau.
+- Un réseau maillé relaie les communications entre plusieurs appareils sans point central unique.
+- La panne d'un nœud dans un réseau maillé n'empêche pas le reste du réseau de continuer à
+  fonctionner.
+- Cette solution reste limitée géographiquement mais utile en cas de coupure des infrastructures
+  habituelles.
+
+[Emplacement image : schéma d'un réseau maillé reliant plusieurs appareils entre eux sans passer
+par internet, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

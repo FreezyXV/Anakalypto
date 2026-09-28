@@ -1955,7 +1955,7 @@ summary: >
   Planter la même chose au même endroit chaque année épuise le sol. Changer de culture, en
   alternant avec des plantes qui fixent l'azote de l'air, entretient sa fertilité gratuitement.
 tags: [agriculture, sol, azote, legumineuses, essentiel-reconstruction]
-relatedArticles: [le-sol-est-un-milieu-vivant, comment-on-ameliore-les-plantes-cultivees]
+relatedArticles: []
 sources:
   - title: "Biological Nitrogen Fixation in Agricultural Systems"
     url: "https://www.frontiersin.org/articles/10.3389/fsufs.2021.767998/pdf"
@@ -2068,13 +2068,92 @@ slug: legumineuses-azote
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
   Pois, haricots, trèfle captent l'azote de l'air et fertilisent le sol gratuitement.
-tags: [agriculture-durable, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [agriculture-durable, azote, legumineuses, essentiel-reconstruction]
+relatedArticles: [fertiliser-sans-engrais-industriels]
+sources:
+  - title: "Legumes and Nitrogen"
+    url: "https://ssl.acesag.auburn.edu/anr/forages/FAQs/LegumesandNitrogen.php"
+    publisher: "Alabama Cooperative Extension System"
+    date: "2025"
+  - title: "The Impacts of Domestication and Breeding on Nitrogen Fixation Symbiosis in
+      Legumes"
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461779/"
+    publisher: "National Center for Biotechnology Information"
+    date: "2025"
+quiz:
+  - question: "Comment les légumineuses parviennent-elles à enrichir le sol en azote ?"
+    options:
+      - "Elles absorbent l'azote déjà présent dans le sol plus efficacement que les autres
+        plantes"
+      - "Des bactéries vivant dans des nodules sur leurs racines captent l'azote de l'air"
+      - "Elles produisent de l'azote par photosynthèse"
+    answer: 2
+    explanation: >
+      Des bactéries appelées rhizobiums s'installent dans des nodules formés sur les racines
+      des légumineuses et transforment l'azote de l'air, inutilisable tel quel par les plantes,
+      en une forme assimilable.
+  - question: "Pourquoi alterne-t-on des légumineuses avec d'autres cultures dans une rotation
+      agricole ?"
+    options:
+      - "Pour changer la couleur du champ chaque année"
+      - "Pour reconstituer la fertilité azotée du sol sans engrais chimique"
+      - "Pour éviter que les légumineuses ne poussent trop vite"
+    answer: 2
+    explanation: >
+      Les légumineuses laissent dans le sol une partie de l'azote qu'elles ont fixé, ce qui
+      profite à la culture suivante et réduit le besoin d'engrais azoté apporté artificiellement.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'air contient une quantité énorme d'azote, un élément essentiel à la croissance des plantes,
+mais sous une forme qu'elles ne peuvent pas utiliser directement. Les légumineuses, grâce à des
+bactéries associées à leurs racines, savent capter cet azote gratuitement et enrichir le sol.
+
+## Une association entre plante et bactérie
+
+Les racines des légumineuses, comme les pois, les haricots ou le trèfle, développent de petits
+renflements appelés nodules, où vivent des bactéries appelées rhizobiums. Ces bactéries
+transforment l'azote gazeux de l'air en une forme que la plante peut absorber et utiliser.
+
+## Un échange bénéfique aux deux partenaires
+
+En retour de cet azote fourni, la plante nourrit les bactéries en leur fournissant des sucres
+produits par la photosynthèse. Cette collaboration profite aux deux organismes et évite à la
+plante de dépendre uniquement de l'azote déjà présent dans le sol.
+
+## Pourquoi cela enrichit tout le champ
+
+Une partie de l'azote capté par les légumineuses reste dans le sol après leur récolte, notamment
+dans les racines et les résidus laissés sur place. La culture suivante, plantée à cet endroit,
+profite directement de cet apport naturel.
+
+## La rotation des cultures, une pratique ancienne
+
+Alterner une culture de légumineuses avec d'autres cultures, comme des céréales, permet de
+reconstituer régulièrement la fertilité azotée du sol sans recourir à des engrais chimiques. Cette
+pratique, observée empiriquement bien avant sa compréhension scientifique, reste une des bases de
+l'agriculture durable.
+
+## Utiliser les légumineuses comme engrais vert
+
+Semer une légumineuse non pas pour la récolter mais pour la retourner directement dans le sol,
+une pratique appelée engrais vert, permet de restituer rapidement l'azote fixé sans même attendre
+une récolte.
+
+## À retenir
+
+- Des bactéries logées dans des nodules sur les racines des légumineuses captent l'azote de
+  l'air.
+- Cette association profite à la fois à la plante et aux bactéries.
+- Une partie de l'azote fixé reste dans le sol au bénéfice de la culture suivante.
+- La rotation des cultures avec des légumineuses reconstitue la fertilité sans engrais chimique.
+- Semer une légumineuse comme engrais vert restitue l'azote sans attendre une récolte.
+
+[Emplacement image : racine de légumineuse montrant les nodules où vivent les bactéries fixatrices
+d'azote, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2119,13 +2198,87 @@ slug: lutte-biologique-contre-ravageurs
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
   Coccinelles, oiseaux, plantes répulsives : protéger les cultures sans pesticides.
-tags: [agriculture-durable, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [agriculture-durable, lutte-biologique, ravageurs, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Biological Pest Control Methods"
+    url: "https://solvepestproblems.oregonstate.edu/property-guides/biological-pest-control"
+    publisher: "Oregon State University"
+    date: "2025"
+  - title: "Companion planting"
+    url: "https://en.wikipedia.org/wiki/Companion_planting"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Comment la coccinelle aide-t-elle à protéger les cultures sans pesticide ?"
+    options:
+      - "Elle pollinise les fleurs plus efficacement que les abeilles"
+      - "Elle se nourrit de pucerons et d'autres insectes nuisibles aux plantes"
+      - "Elle repousse les oiseaux qui mangent les graines"
+    answer: 2
+    explanation: >
+      La coccinelle et ses larves consomment de grandes quantités de pucerons, un ravageur
+      fréquent des cultures, ce qui en fait un allié naturel efficace du jardinier.
+  - question: "Que permet l'association de plantes différentes dans un même champ ou jardin ?"
+    options:
+      - "Attirer des insectes utiles et perturber les ravageurs qui repèrent leur plante hôte"
+      - "Réduire uniquement le besoin d'arrosage"
+      - "Empêcher toute croissance des mauvaises herbes sans aucun autre effet"
+    answer: 1
+    explanation: >
+      Associer certaines plantes attire des prédateurs naturels des ravageurs et perturbe la
+      capacité de certains insectes à localiser leur plante préférée par l'odeur.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant l'apparition des pesticides chimiques, les cultures se protégeaient déjà des insectes
+nuisibles grâce à leurs propres prédateurs naturels et à des associations de plantes réfléchies.
+Ces méthodes, appelées lutte biologique, restent efficaces et ne laissent aucun résidu toxique.
+
+## Des prédateurs naturels comme alliés
+
+Les coccinelles et leurs larves dévorent de grandes quantités de pucerons. Les oiseaux
+insectivores, les araignées et certaines guêpes parasites s'attaquent aussi à de nombreux
+ravageurs, régulant naturellement leur population sans intervention humaine directe.
+
+## Attirer les prédateurs utiles au jardin
+
+Planter des fleurs comme l'aneth, la coriandre ou l'alysson attire les insectes prédateurs des
+ravageurs en leur offrant nourriture et abri. Un jardin qui héberge ces alliés naturels a moins
+besoin d'intervenir directement contre les nuisibles.
+
+## L'association de plantes comme protection
+
+Certaines plantes, cultivées côte à côte, se protègent mutuellement : une plante répulsive
+masque l'odeur qui attire un ravageur vers sa plante préférée, tandis qu'une autre attire les
+ravageurs loin de la culture principale, agissant comme un piège vivant.
+
+## Pourquoi cette diversité fonctionne
+
+Un champ cultivé avec une seule espèce offre un festin facile et concentré pour un ravageur
+spécialisé. Diversifier les cultures et mélanger les espèces complique la tâche du ravageur pour
+localiser et envahir massivement sa plante préférée.
+
+## Les limites de la lutte biologique
+
+Cette approche demande généralement plus d'observation et de patience qu'un traitement chimique
+immédiat, et ne supprime pas toujours totalement un ravageur déjà bien installé. Elle vise un
+équilibre durable plutôt qu'une éradication complète et rapide.
+
+## À retenir
+
+- Les coccinelles, oiseaux et araignées sont des prédateurs naturels efficaces contre de
+  nombreux ravageurs.
+- Certaines fleurs attirent ces prédateurs utiles en leur offrant nourriture et abri.
+- Associer des plantes différentes peut repousser ou piéger naturellement des ravageurs.
+- La diversité des cultures complique la tâche des ravageurs spécialisés dans une seule plante.
+- La lutte biologique vise un équilibre durable plutôt qu'une élimination immédiate et totale.
+
+[Emplacement image : une coccinelle se nourrissant de pucerons sur une tige de plante cultivée,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2136,13 +2289,89 @@ slug: irrigation-econome-eau
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
   Goutte-à-goutte, paillage, choix des cultures : produire avec moins d'eau.
-tags: [agriculture-durable, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [agriculture-durable, irrigation, eau, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Drip irrigation"
+    url: "https://en.wikipedia.org/wiki/Drip_irrigation"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "Drip Irrigation System: How It Saves Water in Farming"
+    url: "https://www.smsfoundation.org/what-is-a-drip-irrigation-system-and-how-does-it-help-to-save-water/"
+    publisher: "SMS Foundation"
+    date: "2025"
+quiz:
+  - question: "Comment l'irrigation goutte-à-goutte permet-elle d'économiser l'eau par rapport à
+      un arrosage classique ?"
+    options:
+      - "Elle arrose toute la surface du champ uniformément"
+      - "Elle délivre l'eau directement au niveau des racines, limitant évaporation et
+        ruissellement"
+      - "Elle utilise de l'eau salée plutôt que de l'eau douce"
+    answer: 2
+    explanation: >
+      En apportant l'eau goutte à goutte directement près des racines des plantes, ce système
+      limite fortement les pertes par évaporation en surface et par écoulement hors de la zone
+      utile.
+  - question: "Quel rôle joue le paillage dans une irrigation plus économe en eau ?"
+    options:
+      - "Il empêche uniquement les mauvaises herbes de pousser"
+      - "Il limite l'évaporation de l'eau à la surface du sol"
+      - "Il refroidit l'eau d'irrigation avant qu'elle n'atteigne les racines"
+    answer: 2
+    explanation: >
+      Une couche de paillage à la surface du sol réduit l'évaporation directe de l'eau, ce qui
+      permet au sol de rester humide plus longtemps entre deux arrosages.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Arroser une culture ne signifie pas forcément déverser de grandes quantités d'eau sur tout un
+champ. Plusieurs techniques permettent de produire autant, voire davantage, avec une quantité
+d'eau nettement réduite.
+
+## L'irrigation goutte-à-goutte, une précision ciblée
+
+Ce système délivre l'eau lentement et directement près des racines de chaque plante, plutôt que
+d'arroser toute la surface du sol. Cette précision réduit considérablement les pertes par
+évaporation et par ruissellement hors de la zone utile aux racines.
+
+## Le paillage, une protection contre l'évaporation
+
+Recouvrir le sol d'une couche de paille, de feuilles mortes ou d'autres matières organiques
+limite l'évaporation directe de l'eau exposée au soleil et au vent, ce qui permet au sol de
+conserver son humidité plus longtemps entre deux arrosages.
+
+## Choisir des cultures adaptées au climat local
+
+Certaines plantes nécessitent naturellement moins d'eau que d'autres pour produire une récolte
+comparable. Adapter le choix des cultures aux conditions climatiques locales réduit les besoins
+globaux en irrigation sans sacrifier la production.
+
+## Arroser au bon moment de la journée
+
+Arroser tôt le matin ou en fin de journée, lorsque les températures sont plus fraîches et
+l'évaporation plus faible, permet à une plus grande part de l'eau apportée d'atteindre réellement
+les racines plutôt que de s'évaporer avant d'y parvenir.
+
+## Récupérer et réutiliser l'eau disponible localement
+
+Collecter l'eau de pluie ou réutiliser une partie des eaux domestiques peu polluées pour
+l'irrigation réduit la dépendance à des sources d'eau plus lointaines ou plus précieuses.
+
+## À retenir
+
+- L'irrigation goutte-à-goutte délivre l'eau directement aux racines, réduisant fortement les
+  pertes.
+- Le paillage limite l'évaporation de l'eau à la surface du sol.
+- Choisir des cultures adaptées au climat local réduit les besoins globaux en eau.
+- Arroser tôt le matin ou en soirée limite les pertes par évaporation immédiate.
+- Récupérer l'eau de pluie localement réduit la dépendance à des sources plus lointaines.
+
+[Emplacement image : système d'irrigation goutte-à-goutte délivrant de l'eau directement aux
+racines de plants cultivés, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2153,13 +2382,91 @@ slug: elevage-traction-animale
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
   Animaux de trait, fumier, lait : le rôle de l'élevage dans une ferme autonome.
-tags: [agriculture-durable, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [agriculture-durable, elevage, traction-animale, essentiel-reconstruction]
+relatedArticles: [fertiliser-sans-engrais-industriels]
+sources:
+  - title: "Draft animal"
+    url: "https://www.britannica.com/animal/draft-animal"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Horses vs. oxen. A comparison of draft animal power"
+    url: "https://archiviostorico.sdfgroup.com/en/stories/horses-vs-oxen-a-comparison-of-draft-animal-power/"
+    publisher: "SDF Group Historical Archive"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les bœufs ont-ils longtemps été préférés aux chevaux pour labourer de
+      grands champs ?"
+    options:
+      - "Ils sont plus rapides que les chevaux"
+      - "Ils ont une meilleure endurance, mangent moins et travaillent bien en terrain difficile"
+      - "Ils ne nécessitent aucun entraînement particulier"
+    answer: 2
+    explanation: >
+      Bien que plus lents que les chevaux, les bœufs offrent une meilleure endurance, consomment
+      environ moitié moins de nourriture et se montrent plus efficaces en terrain accidenté ou
+      boueux.
+  - question: "Au-delà de la traction, quel autre apport essentiel le bétail fournit-il à une
+      ferme ?"
+    options:
+      - "Aucun autre apport significatif"
+      - "Du fumier qui fertilise naturellement les cultures"
+      - "Uniquement de la compagnie pour les agriculteurs"
+    answer: 2
+    explanation: >
+      Le fumier produit par les animaux d'élevage constitue un fertilisant naturel précieux qui
+      enrichit le sol des cultures, en plus du lait, de la viande ou de la force de traction
+      fournis par ces animaux.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Bien avant l'arrivée du tracteur, les animaux fournissaient à la fois la force nécessaire pour
+labourer, la matière fertilisante pour les champs, et une partie de l'alimentation d'une ferme.
+Cette polyvalence reste précieuse partout où les machines motorisées ne sont pas disponibles.
+
+## La force de traction animale
+
+Bœufs, chevaux, ânes ou mules peuvent tirer une charrue, un chariot ou d'autres outils agricoles.
+Le choix de l'animal dépend du terrain et des besoins : les bœufs offrent une meilleure endurance
+et conviennent bien aux sols difficiles, tandis que les chevaux travaillent plus rapidement sur
+terrain plus facile.
+
+## Le fumier, un engrais naturel gratuit
+
+Les déjections des animaux d'élevage, une fois compostées, forment un fertilisant riche en
+nutriments qui améliore directement la fertilité des sols cultivés, réduisant le besoin d'engrais
+apportés de l'extérieur.
+
+## Le lait et la viande, une production alimentaire directe
+
+Au-delà de leur force de travail, les animaux d'élevage fournissent du lait, transformable en
+fromage ou en beurre pour une conservation plus longue, ainsi que de la viande, une source de
+protéines complémentaire aux cultures végétales.
+
+## Une ferme qui fonctionne en circuit fermé
+
+Les animaux consomment une partie des résidus de culture non utilisables directement par l'homme,
+comme les fanes ou la paille, et restituent en échange fumier, lait et force de travail. Ce cycle
+réduit la dépendance d'une exploitation à des ressources extérieures.
+
+## Choisir des animaux adaptés à ses besoins
+
+Le choix d'un animal de trait ou d'élevage dépend du climat local, du terrain, de la disponibilité
+de nourriture et des besoins précis de la ferme : traction, lait, viande, ou une combinaison de
+ces usages.
+
+## À retenir
+
+- Les animaux de trait fournissent une force de travail essentielle pour labourer et transporter.
+- Le fumier composté constitue un engrais naturel qui enrichit les sols cultivés.
+- Le lait et la viande complètent l'alimentation issue des cultures végétales.
+- Une ferme avec élevage fonctionne en partie en circuit fermé, limitant la dépendance extérieure.
+- Le choix des animaux dépend du terrain, du climat et des besoins précis de l'exploitation.
+
+[Emplacement image : bœufs attelés tirant une charrue dans un champ, légende et texte alternatif
+à fournir ultérieurement.]
 
 ---
 
@@ -2170,13 +2477,91 @@ slug: conserver-recoltes
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
   Séchage, salaison, fumage, fermentation, conserves : éviter les pertes après la récolte.
-tags: [agriculture-durable, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [agriculture-durable, conservation, recolte, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "A History of Food Preservation: Traditional Methods from Ancient Times to Today"
+    url: "https://blog.smartsense.co/short-history-of-food-preservation"
+    publisher: "SmartSense"
+    date: "2025"
+  - title: "Preserving the Harvest: Traditional Methods of Food Preservation"
+    url: "https://www.alliedacademies.org/articles/preserving-the-harvest-traditional-methods-of-food-preservation-32251.html"
+    publisher: "Allied Academies"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le séchage permet-il de conserver un aliment longtemps ?"
+    options:
+      - "Il détruit tous les nutriments de l'aliment"
+      - "Il retire l'eau dont les bactéries et moisissures ont besoin pour se développer"
+      - "Il rend l'aliment plus lourd et plus dense"
+    answer: 2
+    explanation: >
+      Les micro-organismes responsables de la décomposition des aliments ont besoin d'eau pour se
+      développer. En la retirant, le séchage prive ces organismes des conditions nécessaires à
+      leur prolifération.
+  - question: "Sur quel principe repose la conservation des aliments par salage ?"
+    options:
+      - "Le sel donne meilleur goût, sans autre effet"
+      - "Le sel retire l'humidité de l'aliment par un phénomène appelé osmose"
+      - "Le sel refroidit l'aliment"
+    answer: 2
+    explanation: >
+      Le sel attire l'eau contenue dans les cellules de l'aliment vers l'extérieur par osmose,
+      créant un environnement trop sec pour la plupart des bactéries responsables de la
+      décomposition.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une récolte abondante ne sert à rien si elle pourrit avant d'être consommée. Depuis des
+millénaires, l'humanité a développé des méthodes simples pour conserver la nourriture bien
+au-delà de la saison où elle a été produite.
+
+## Le séchage, la méthode la plus ancienne
+
+Retirer l'eau d'un aliment, au soleil, au vent ou près d'une source de chaleur, prive les
+bactéries et moisissures de l'humidité dont elles ont besoin pour se développer. Cette technique,
+utilisée depuis des millénaires, fonctionne sur les fruits, les légumes, les céréales et la viande.
+
+## La salaison, retirer l'eau autrement
+
+Le sel attire l'eau contenue dans les cellules d'un aliment vers l'extérieur, un phénomène appelé
+osmose, créant un environnement trop sec pour la plupart des micro-organismes responsables de la
+décomposition. Cette méthode a longtemps servi à conserver poissons et viandes.
+
+## Le fumage, séchage et protection combinés
+
+Exposer un aliment à la fumée d'un feu combine un effet de séchage avec des composés chimiques
+présents dans la fumée qui ralentissent le développement des bactéries, tout en apportant un goût
+particulier apprécié.
+
+## La fermentation, transformer plutôt qu'empêcher
+
+Plutôt que d'empêcher toute activité microbienne, la fermentation encourage le développement de
+micro-organismes utiles, comme certaines bactéries ou levures, qui transforment l'aliment tout en
+empêchant l'installation de micro-organismes nuisibles. Yaourt, choucroute et pain en sont des
+exemples courants.
+
+## Les conserves, isoler l'aliment de l'air
+
+Chauffer un aliment puis le sceller hermétiquement dans un récipient détruit la plupart des
+micro-organismes présents et empêche l'entrée de nouveaux, permettant une conservation qui peut
+durer plusieurs années dans de bonnes conditions.
+
+## À retenir
+
+- Le séchage retire l'eau nécessaire au développement des bactéries et moisissures.
+- La salaison retire l'eau d'un aliment par un phénomène chimique appelé osmose.
+- Le fumage combine séchage et effet protecteur des composés présents dans la fumée.
+- La fermentation encourage des micro-organismes utiles qui empêchent l'installation de ceux
+  qui sont nuisibles.
+- Les conserves isolent l'aliment de l'air après une cuisson qui détruit les micro-organismes
+  présents.
+
+[Emplacement image : légumes et viandes suspendus pour sécher à l'air libre, à côté de bocaux de
+conserves fermées, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2221,13 +2606,88 @@ slug: fertiliser-sans-engrais-industriels
 categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
 summary: >
   Fumier, compost, cendres, engrais verts : entretenir la fertilité d'un sol avec des ressources locales.
-tags: [sols-et-fertilite, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [sols-et-fertilite, compost, fumier, essentiel-reconstruction]
+relatedArticles: [legumineuses-azote, elevage-traction-animale]
+sources:
+  - title: "Natural Ways to Restore Soil Fertility Without Chemical Fertilizers"
+    url: "https://vocal.media/earth/natural-ways-to-restore-soil-fertility-without-chemical-fertilizers"
+    publisher: "Vocal Media"
+    date: "2025"
+  - title: "7 Green Manure Options for Soil Fertility That Rebuild Land Naturally"
+    url: "https://www.farmstandapp.com/65636/7-green-manure-options-for-soil-fertility/"
+    publisher: "FarmstandApp"
+    date: "2025"
+quiz:
+  - question: "Qu'est-ce que le compost et comment se forme-t-il ?"
+    options:
+      - "Un produit chimique fabriqué en usine"
+      - "Une matière riche obtenue par la décomposition de déchets organiques grâce à des
+        bactéries et champignons"
+      - "Un mélange de sable et de gravier"
+    answer: 2
+    explanation: >
+      Le compost résulte de la décomposition contrôlée de déchets de cuisine, de résidus de
+      jardin et de fumier par des micro-organismes, produisant une matière riche qui nourrit le
+      sol.
+  - question: "Qu'est-ce qu'un engrais vert ?"
+    options:
+      - "Un engrais chimique de couleur verte"
+      - "Une plante cultivée puis incorporée directement au sol pour l'enrichir"
+      - "Un colorant utilisé pour teindre les récoltes"
+    answer: 2
+    explanation: >
+      Un engrais vert est une culture, souvent une légumineuse, semée non pour être récoltée mais
+      pour être coupée et mélangée au sol, où elle libère les nutriments qu'elle a accumulés.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant l'apparition des engrais chimiques industriels, les agriculteurs entretenaient déjà la
+fertilité de leurs terres avec des ressources trouvées sur place : déjections animales, déchets
+végétaux et cendres. Ces méthodes restent efficaces et accessibles partout.
+
+## Le fumier, une ressource directement disponible
+
+Les déjections des animaux d'élevage, une fois compostées pour réduire leur acidité et éliminer
+d'éventuels agents pathogènes, forment un fertilisant riche en azote, phosphore et potassium,
+trois éléments essentiels à la croissance des plantes.
+
+## Le compost, transformer les déchets en ressource
+
+Mélanger déchets de cuisine, résidus de jardin et parfois fumier dans un tas ou un bac permet à
+des bactéries et champignons de décomposer progressivement cette matière en un produit riche et
+homogène, prêt à enrichir n'importe quel sol cultivé.
+
+## Les cendres de bois, une source de minéraux
+
+Les cendres issues de la combustion du bois contiennent du potassium et d'autres minéraux
+utiles aux plantes. Utilisées avec modération, car elles restent alcalines, elles complètent
+efficacement un apport en compost ou en fumier.
+
+## Les engrais verts, cultiver pour enrichir
+
+Semer une plante, souvent une légumineuse, non pas pour la récolter mais pour la couper et la
+mélanger directement au sol avant sa floraison, restitue rapidement les nutriments qu'elle a
+accumulés, notamment l'azote capté dans l'air.
+
+## Combiner plusieurs sources pour un sol équilibré
+
+Aucune de ces méthodes seule ne remplace parfaitement un engrais industriel complet. Combiner
+fumier, compost, cendres et engrais verts selon les ressources disponibles localement permet
+généralement d'entretenir durablement la fertilité d'un sol cultivé.
+
+## À retenir
+
+- Le fumier composté apporte azote, phosphore et potassium directement au sol.
+- Le compost transforme les déchets organiques en une matière riche grâce à des micro-organismes.
+- Les cendres de bois apportent du potassium, à utiliser avec modération.
+- Un engrais vert restitue rapidement les nutriments d'une plante coupée et mélangée au sol.
+- Combiner plusieurs sources selon les ressources locales entretient durablement la fertilité.
+
+[Emplacement image : tas de compost en décomposition à côté d'un champ où pousse un engrais vert,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2272,13 +2732,92 @@ slug: reconnaitre-sol
 categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
 summary: >
   Texture, couleur, test du bocal : diagnostiquer un sol sans laboratoire.
-tags: [sols-et-fertilite, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [sols-et-fertilite, sol, diagnostic, essentiel-reconstruction]
+relatedArticles: [fertiliser-sans-engrais-industriels]
+sources:
+  - title: "Soil Texture Analysis: The Jar Test"
+    url: "https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/"
+    publisher: "Clemson Cooperative Extension"
+    date: "2025"
+  - title: "Three Simple Soil Tests to Determine What Type of Soil You Have"
+    url: "https://deepgreenpermaculture.com/2020/07/23/three-simple-soil-tests-to-determine-what-type-of-soil-you-have/"
+    publisher: "Deep Green Permaculture"
+    date: "2025"
+quiz:
+  - question: "Comment fonctionne le test du bocal pour identifier un sol ?"
+    options:
+      - "On observe la couleur de la fumée en brûlant un échantillon"
+      - "On mélange de la terre à de l'eau dans un bocal et on observe comment les particules
+        se déposent en couches"
+      - "On mesure uniquement le poids de la terre"
+    answer: 2
+    explanation: >
+      Après agitation, les particules les plus lourdes comme le sable se déposent en premier,
+      suivies du limon, puis de l'argile, formant des couches visibles qui révèlent la
+      composition du sol.
+  - question: "Quelle proportion approximative de sable, limon et argile caractérise un sol
+      idéal appelé limon argilo-sableux, ou loam ?"
+    options:
+      - "Presque uniquement de l'argile"
+      - "Environ 40 % de sable, 40 % de limon et 20 % d'argile"
+      - "Uniquement du sable pur"
+    answer: 2
+    explanation: >
+      Ce type de sol équilibré, souvent considéré comme idéal pour la plupart des cultures,
+      combine sable, limon et argile dans des proportions qui favorisent à la fois le drainage
+      et la rétention d'eau et de nutriments.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant de planter quoi que ce soit, connaître la nature de son sol évite bien des déceptions. Sans
+laboratoire ni équipement coûteux, quelques observations simples et un test facile à réaliser
+suffisent à identifier les grandes caractéristiques d'un sol.
+
+## Observer la couleur du sol
+
+Un sol sombre indique généralement une bonne richesse en matière organique décomposée, favorable
+à la culture. Un sol très pâle ou grisâtre suggère souvent un manque de matière organique ou un
+excès d'humidité stagnante.
+
+## Le test au toucher
+
+Prendre une poignée de terre humide et la malaxer donne des indices précieux : une terre qui
+forme facilement un ruban long et lisse contient beaucoup d'argile, tandis qu'une terre qui
+s'effrite immédiatement et paraît granuleuse au toucher contient surtout du sable.
+
+## Le test du bocal, une méthode plus précise
+
+Remplir un bocal transparent au tiers de terre tamisée, compléter avec de l'eau, agiter
+vigoureusement pendant plusieurs minutes, puis laisser reposer pendant un ou deux jours. Les
+particules se déposent alors en couches distinctes selon leur poids : le sable au fond, le limon
+au milieu, l'argile au-dessus.
+
+## Interpréter les résultats
+
+Un sol équilibré, souvent appelé limon argilo-sableux, comporte environ quarante pour cent de
+sable, quarante pour cent de limon et vingt pour cent d'argile. Cette combinaison retient
+suffisamment l'eau et les nutriments tout en laissant l'excès d'eau s'écouler correctement.
+
+## Adapter ses pratiques selon le type de sol identifié
+
+Un sol trop sableux draine vite mais retient mal l'eau et les nutriments, ce qui demande des
+apports plus fréquents en matière organique. Un sol trop argileux retient bien l'eau mais draine
+mal, ce qui peut nécessiter un ameublissement régulier pour éviter l'asphyxie des racines.
+
+## À retenir
+
+- La couleur du sol donne un premier indice sur sa richesse en matière organique.
+- Le test au toucher distingue rapidement un sol sableux d'un sol argileux.
+- Le test du bocal sépare visuellement sable, limon et argile en couches selon leur poids.
+- Un sol équilibré combine environ quarante pour cent de sable, quarante de limon et vingt
+  d'argile.
+- Identifier son type de sol aide à adapter l'arrosage et les apports en matière organique.
+
+[Emplacement image : bocal transparent montrant les couches de sable, limon et argile séparées
+après le test de sédimentation, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

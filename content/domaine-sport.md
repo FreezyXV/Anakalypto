@@ -1467,13 +1467,86 @@ slug: soigner-entorse
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
 summary: >
   Repos, glace, compression, élévation : les premiers soins et la rééducation.
-tags: [blessures-et-prevention, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [blessures-et-prevention, entorse, premiers-secours, essentiel-reconstruction]
+relatedArticles: [immobiliser-fracture]
+sources:
+  - title: "Sprain: First aid"
+    url: "https://www.mayoclinic.org/first-aid/first-aid-sprain/basics/art-20056622"
+    publisher: "Mayo Clinic"
+    date: "2025"
+  - title: "Rest, ice, compression, and elevation (RICE): Method and how it works"
+    url: "https://www.medicalnewstoday.com/articles/321469"
+    publisher: "Medical News Today"
+    date: "2025"
+quiz:
+  - question: "Que signifie l'acronyme RICE utilisé pour les premiers soins d'une entorse ?"
+    options:
+      - "Repos, glace, compression, élévation"
+      - "Rapidité, intensité, chaleur, exercice"
+      - "Repos, injection, chaleur, étirement"
+    answer: 1
+    explanation: >
+      RICE, pour rest, ice, compression, elevation en anglais, résume les quatre gestes
+      recommandés en premiers soins pour limiter l'enflure et la douleur après une entorse.
+  - question: "Pourquoi faut-il placer un tissu entre la glace et la peau lors du traitement
+      d'une entorse ?"
+    options:
+      - "Pour que la glace fonde plus lentement"
+      - "Pour éviter d'endommager la peau par un contact direct trop froid"
+      - "Pour améliorer l'aspect esthétique"
+    answer: 2
+    explanation: >
+      Un contact direct et prolongé entre la glace et la peau peut provoquer des brûlures par le
+      froid. Un tissu fin protège la peau tout en laissant passer l'effet refroidissant.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une entorse, causée par l'étirement ou la déchirure des ligaments qui stabilisent une
+articulation, guérit généralement bien si elle est prise en charge rapidement. Quatre gestes
+simples, résumés par l'acronyme RICE, limitent l'enflure et accélèrent la récupération.
+
+## Repos, le premier réflexe
+
+Cesser immédiatement l'activité qui a causé la blessure et éviter de mettre du poids sur
+l'articulation touchée pendant les premières quarante-huit à soixante-douze heures limite
+l'aggravation de la lésion.
+
+## Glace, pour limiter l'enflure
+
+Appliquer de la glace enveloppée dans un tissu fin pendant quinze à vingt minutes, plusieurs fois
+par jour durant les deux premiers jours, réduit l'inflammation et la douleur. Un contact direct et
+prolongé avec la peau doit être évité pour ne pas provoquer de brûlure par le froid.
+
+## Compression, pour stabiliser
+
+Un bandage élastique enroulé autour de l'articulation, ni trop serré ni trop lâche, limite le
+gonflement. Il doit permettre de glisser un doigt sous le bandage sans difficulté, signe qu'il ne
+coupe pas la circulation.
+
+## Élévation, pour drainer
+
+Surélever le membre blessé au-dessus du niveau du cœur, autant que possible, aide le sang et les
+liquides accumulés à refluer, réduisant davantage l'enflure durant les premiers jours.
+
+## La rééducation, une étape à ne pas négliger
+
+Une fois la douleur aiguë passée, des exercices progressifs de mobilité et de renforcement
+aident l'articulation à retrouver sa stabilité et réduisent le risque de récidive, particulièrement
+fréquent après une première entorse mal soignée.
+
+## À retenir
+
+- L'acronyme RICE résume les quatre gestes essentiels : repos, glace, compression, élévation.
+- Le repos immédiat évite d'aggraver la lésion des ligaments touchés.
+- La glace doit toujours être appliquée avec un tissu protecteur, jamais directement sur la peau.
+- Un bandage de compression adapté limite le gonflement sans couper la circulation.
+- La rééducation progressive réduit le risque de récidive après la guérison initiale.
+
+[Emplacement image : cheville entourée d'un bandage de compression, surélevée avec une poche de
+glace enveloppée d'un tissu, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1484,13 +1557,91 @@ slug: immobiliser-fracture
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
 summary: >
   Reconnaître une fracture et stabiliser le membre en attendant un soin.
-tags: [blessures-et-prevention, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [blessures-et-prevention, fracture, premiers-secours, essentiel-reconstruction]
+relatedArticles: [soigner-entorse]
+sources:
+  - title: "Fractures (broken bones): First aid"
+    url: "https://www.mayoclinic.org/first-aid/first-aid-fractures/basics/art-20056641"
+    publisher: "Mayo Clinic"
+    date: "2025"
+  - title: "How to Immobilize a Fracture: First Aid for Broken Bones"
+    url: "https://www.uscpronline.com/first-aid/how-to-immobilize-fracture"
+    publisher: "USC Pro Online"
+    date: "2025"
+quiz:
+  - question: "Que faut-il immobiliser en plus de l'os cassé lorsqu'on installe une attelle ?"
+    options:
+      - "Rien d'autre, seule la fracture compte"
+      - "Les articulations situées au-dessus et en dessous de la fracture"
+      - "Uniquement le membre opposé"
+    answer: 2
+    explanation: >
+      Une règle fondamentale de l'attelle consiste à immobiliser aussi les articulations
+      situées de part et d'autre de la fracture, pour empêcher tout mouvement du foyer de
+      fracture.
+  - question: "Que ne faut-il jamais faire face à un membre visiblement déformé par une
+      fracture ?"
+    options:
+      - "Appeler les secours"
+      - "Tenter de redresser ou réaligner l'os déformé"
+      - "Immobiliser le membre dans la position trouvée"
+    answer: 2
+    explanation: >
+      Tenter de redresser un os déformé risque d'endommager des vaisseaux sanguins, des nerfs ou
+      des muscles environnants. Le membre doit être immobilisé dans la position où il se trouve.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une fracture nécessite une prise en charge médicale, mais une immobilisation correcte en
+attendant les secours limite la douleur et évite d'aggraver la blessure. Quelques principes
+simples permettent de stabiliser un membre avec des moyens de fortune.
+
+## Reconnaître une fracture probable
+
+Une douleur intense localisée, un gonflement rapide, une incapacité à utiliser le membre, ou une
+déformation visible évoquent fortement une fracture. Dans le doute, il vaut mieux traiter la
+blessure comme une fracture plutôt que de risquer une aggravation.
+
+## Le principe de base d'une attelle
+
+Une attelle doit immobiliser non seulement l'os fracturé, mais aussi les articulations situées
+juste au-dessus et juste en dessous de la fracture, afin d'empêcher tout mouvement au niveau de la
+zone blessée.
+
+## Fabriquer une attelle de fortune
+
+Des matériaux rigides comme des planches, des magazines enroulés ou des bâtons solides peuvent
+servir de support. Ils doivent être rembourrés avec un tissu pour éviter tout point de pression
+inconfortable, puis fixés avec des bandes de tissu, une écharpe ou même des lacets.
+
+## Ne jamais redresser un os déformé
+
+Contrairement à un réflexe naturel, il ne faut jamais tenter de remettre en place un membre
+visiblement déformé. Cela risquerait d'endommager des vaisseaux sanguins, des nerfs ou des
+muscles proches de l'os cassé. Le membre s'immobilise dans la position où il se trouve.
+
+## Surveiller la circulation après la pose
+
+Une fois l'attelle posée, vérifier régulièrement, environ une fois par heure, que la
+circulation sanguine reste bonne : la peau doit garder sa couleur normale et la personne doit
+sentir ses doigts ou ses orteils. Une sensation d'engourdissement impose de desserrer
+immédiatement le bandage.
+
+## À retenir
+
+- Douleur intense, gonflement rapide, déformation ou incapacité à bouger évoquent une fracture.
+- Une attelle doit immobiliser aussi les articulations situées au-dessus et en dessous de la
+  fracture.
+- Des matériaux rigides rembourrés, fixés sans serrer excessivement, suffisent à improviser une
+  attelle.
+- Il ne faut jamais tenter de redresser un os visiblement déformé.
+- La circulation sous l'attelle doit être vérifiée régulièrement après la pose.
+
+[Emplacement image : jambe immobilisée avec une attelle improvisée à partir d'une planche et de
+bandes de tissu, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1722,13 +1873,88 @@ slug: apprendre-nager
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
 summary: >
   Un savoir vital : les étapes pour être à l'aise dans l'eau et ne pas se noyer.
-tags: [sports-individuels, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [sports-individuels, natation, securite, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "How to Float in Water: 8-Step Guide for Every Body Type"
+    url: "https://www.swimoutlet.com/blogs/guides/how-to-float-for-swimming"
+    publisher: "SwimOutlet"
+    date: "2025"
+  - title: "Swimming for Beginners: 6 Basic Skills Everyone Should Learn"
+    url: "https://www.philaymca.org/news/basic-swimming-skills-everyone-should-learn"
+    publisher: "YMCA of Philadelphia"
+    date: "2025"
+quiz:
+  - question: "Quelle est généralement la toute première compétence à apprendre pour se sentir
+      en confiance dans l'eau ?"
+    options:
+      - "Le crawl à grande vitesse"
+      - "Flotter sur le dos"
+      - "Plonger depuis un plot de départ"
+    answer: 2
+    explanation: >
+      Flotter est considérée comme la compétence de base la plus importante : elle rassure le
+      corps et permet de rester en sécurité même sans savoir nager activement.
+  - question: "Que faut-il faire en priorité si l'on commence à paniquer dans l'eau ?"
+    options:
+      - "Nager le plus vite possible vers le bord en s'épuisant"
+      - "Arrêter de s'agiter, se mettre sur le dos et flotter en respirant calmement"
+      - "Crier sans bouger les bras ni les jambes"
+    answer: 2
+    explanation: >
+      S'arrêter, se remettre sur le dos et flotter en respirant calmement permet de reprendre le
+      contrôle avant de nager ou de marcher vers la sécurité, plutôt que de s'épuiser en
+      paniquant.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Savoir nager n'est pas un simple loisir : c'est une compétence qui peut sauver une vie. Apprendre
+progressivement, en commençant par des bases simples avant les mouvements plus complexes, permet à
+presque tout le monde de devenir à l'aise dans l'eau.
+
+## Flotter, la première compétence essentielle
+
+Flotter sur le dos, bras écartés, tête en arrière et oreilles dans l'eau, menton relevé, est la
+compétence de base la plus importante. Un corps détendu, les poumons remplis d'air et les membres
+écartés, flotte naturellement pour la grande majorité des personnes.
+
+## Maîtriser la respiration
+
+La technique de base consiste à expirer sous l'eau par le nez et la bouche, puis à inspirer
+rapidement dès que la tête ressort de l'eau. Cette coordination entre mouvement et respiration
+prend du temps à devenir naturelle.
+
+## Ne jamais commencer en eau profonde
+
+Un apprentissage sûr débute toujours en eau peu profonde, où l'on peut prendre appui, avant de
+progresser vers une eau plus profonde. Vérifier que l'on peut flotter, faire du surplace pendant
+trente secondes et nager au moins dix mètres sans toucher le fond avant de s'aventurer plus loin.
+
+## Nager toujours accompagné
+
+Même une personne à l'aise dans l'eau devrait éviter de nager seule, en particulier en milieu
+naturel où les courants et la profondeur sont moins prévisibles qu'en piscine.
+
+## Que faire en cas de panique dans l'eau
+
+Le réflexe de s'agiter et de nager frénétiquement épuise rapidement. Il vaut mieux arrêter tout
+mouvement brusque, se remettre sur le dos en position d'étoile de mer, flotter en respirant
+calmement, puis reprendre progressivement la nage ou attendre de l'aide.
+
+## À retenir
+
+- Flotter sur le dos est la compétence de base la plus importante à acquérir en premier.
+- La respiration coordonnée s'apprend progressivement, en expirant sous l'eau et en inspirant
+  hors de l'eau.
+- Un apprentissage sûr commence toujours en eau peu profonde avant de progresser.
+- Nager accompagné reste plus sûr que nager seul, même pour une personne expérimentée.
+- En cas de panique, flotter calmement sur le dos permet de reprendre le contrôle avant d'agir.
+
+[Emplacement image : une personne flottant sur le dos en position détendue dans une piscine peu
+profonde, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2232,13 +2458,89 @@ slug: porter-soulever-sans-blesser
 categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
 summary: >
   Les gestes pour porter des charges lourdes en protégeant son dos.
-tags: [activite-physique-et-sante, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [activite-physique-et-sante, ergonomie, dos, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Proper Lifting Techniques in the Workplace"
+    url: "https://ergoscience.com/updates/proper-lifting-technique-its-more-than-bend-your-knees-keep-your-back-straight/"
+    publisher: "ErgoScience"
+    date: "2025"
+  - title: "OSHA Proper Lifting Techniques: Safe Lifting Ergonomics"
+    url: "https://www.osha.com/blog/proper-lifting-techniques"
+    publisher: "OSHA"
+    date: "2025"
+quiz:
+  - question: "Quel est le geste le plus important pour protéger son dos en soulevant une
+      charge lourde ?"
+    options:
+      - "Se pencher rapidement vers l'avant"
+      - "Plier les genoux et laisser les jambes faire l'effort"
+      - "Retenir sa respiration le plus longtemps possible"
+    answer: 2
+    explanation: >
+      Les muscles des jambes sont bien plus puissants que les petits muscles du dos. Plier les
+      genoux et pousser avec les jambes protège la colonne vertébrale des efforts excessifs.
+  - question: "Que risque-t-on en tournant le buste tout en portant une charge lourde ?"
+    options:
+      - "Rien de particulier"
+      - "Une blessure grave au dos, car la torsion combinée au poids fragilise la colonne"
+      - "Une amélioration de l'équilibre"
+    answer: 2
+    explanation: >
+      Tourner le buste en portant une charge combine torsion et compression sur la colonne
+      vertébrale, un mouvement particulièrement à risque de blessure. Il vaut mieux déplacer les
+      pieds pour changer de direction.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le dos se blesse souvent non pas à cause du poids porté, mais à cause de la mauvaise façon de le
+soulever. Quelques principes simples, faciles à retenir, protègent efficacement contre les
+blessures les plus courantes liées au port de charges.
+
+## Plier les genoux, pas le dos
+
+Face à une charge au sol, il faut s'accroupir en pliant les genoux, garder le dos droit dans sa
+courbure naturelle, et laisser les muscles des jambes, bien plus puissants que ceux du dos,
+fournir l'effort de soulèvement.
+
+## Garder la charge près du corps
+
+Tenir l'objet aussi proche que possible du corps, à hauteur du nombril environ, réduit
+considérablement la tension exercée sur le dos par rapport à une charge tenue à bout de bras.
+
+## Ne jamais tourner le buste en portant
+
+Si un changement de direction est nécessaire, il vaut mieux déplacer les pieds plutôt que de
+tordre le torse. Cette torsion combinée au poids porté représente l'une des causes les plus
+fréquentes de blessures graves au dos.
+
+## Adopter une position stable avant de soulever
+
+Les pieds écartés à la largeur des épaules, un pied légèrement avancé sur le côté de l'objet,
+offrent une meilleure stabilité qu'une position les pieds joints, qui favorise les déséquilibres.
+
+## Redescendre une charge avec les mêmes précautions
+
+Poser une charge au sol demande la même prudence que la soulever : plier les genoux en gardant
+le dos droit, plutôt que de se pencher en avant depuis la taille, ce qui expose exactement aux
+mêmes risques.
+
+## À retenir
+
+- Plier les genoux et pousser avec les jambes protège le dos bien plus efficacement que se
+  pencher.
+- Garder la charge proche du corps réduit considérablement la tension sur la colonne
+  vertébrale.
+- Ne jamais tourner le buste en portant une charge : mieux vaut déplacer les pieds.
+- Une position stable, pieds écartés, prévient les déséquilibres au moment de soulever.
+- Reposer une charge nécessite les mêmes précautions que la soulever.
+
+[Emplacement image : comparaison entre une posture correcte, genoux pliés, et une posture
+incorrecte, dos courbé, lors du port d'une charge, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 

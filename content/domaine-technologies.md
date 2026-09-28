@@ -1631,13 +1631,93 @@ slug: brique-terre-cuite
 categoryPath: technologies-et-ingenierie/genie-civil/materiaux
 summary: >
   Argile, moulage, séchage, cuisson : fabriquer un matériau de construction avec les ressources du sol.
-tags: [materiaux, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [materiaux, brique, argile, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Brick and tile - Manufacturing, Clay, Firing"
+    url: "https://www.britannica.com/technology/brick-building-material/Modern-brick-production"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "Kiln firings: History, development and types of Structural kilns"
+    url: "https://www.borregaard.com/biokeram/kiln-firing-history-development-and-types-of-kilns"
+    publisher: "Borregaard"
+    date: "2025"
+quiz:
+  - question: "Pourquoi la cuisson transforme-t-elle définitivement une brique d'argile séchée à
+      l'air en un matériau bien plus résistant ?"
+    options:
+      - "La cuisson évapore simplement l'eau restante, sans autre effet"
+      - "La chaleur intense modifie chimiquement la structure de l'argile de façon irréversible"
+      - "La cuisson ajoute du métal à la brique"
+    answer: 2
+    explanation: >
+      À haute température, entre environ 850 et 950 degrés, la structure minérale de l'argile se
+      transforme chimiquement de façon irréversible, ce qui rend la brique dure et résistante à
+      l'eau, contrairement à une brique simplement séchée au soleil.
+  - question: "Pourquoi les briques doivent-elles sécher à l'air avant d'être cuites au four ?"
+    options:
+      - "Pour économiser du combustible uniquement"
+      - "Pour éviter que l'eau restante ne se transforme brutalement en vapeur et ne fasse
+        éclater la brique pendant la cuisson"
+      - "Pour leur donner une couleur particulière"
+    answer: 2
+    explanation: >
+      Une brique encore chargée d'eau qui entrerait directement dans un four très chaud risquerait
+      de voir cette eau se transformer brusquement en vapeur, provoquant des fissures ou un
+      éclatement de la pièce.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Depuis plus de cinq mille ans, l'argile façonnée puis cuite fournit un matériau de construction
+solide, durable et fabricable presque partout où l'on trouve une terre adaptée. Le principe reste
+aujourd'hui identique à celui utilisé par les premières civilisations.
+
+## Choisir et préparer l'argile
+
+Une argile adaptée à la brique contient un mélange équilibré de particules fines et de sable, qui
+évite un retrait excessif au séchage. La terre est mélangée à de l'eau jusqu'à obtenir une pâte
+homogène et malléable, débarrassée des cailloux et débris.
+
+## Mouler la brique
+
+La pâte d'argile est pressée dans un moule de forme rectangulaire, traditionnellement en bois,
+puis démoulée délicatement pour conserver sa forme sans se déformer. Cette étape peut se réaliser
+entièrement à la main, sans outillage complexe.
+
+## Le séchage, une étape indispensable avant la cuisson
+
+Les briques moulées doivent sécher à l'air libre, à l'abri du soleil direct et de la pluie,
+pendant plusieurs jours à plusieurs semaines. Une brique encore chargée d'eau qui entrerait
+directement au four risquerait d'éclater sous l'effet de la vapeur produite brutalement.
+
+## La cuisson, une transformation chimique irréversible
+
+Chauffées entre environ huit cent cinquante et neuf cent cinquante degrés dans un four, les
+briques subissent une transformation chimique définitive de leur structure minérale, ce qui les
+rend dures, résistantes à l'eau et durables sur le long terme, contrairement à une simple brique
+séchée au soleil.
+
+## Les fours traditionnels
+
+Les premiers fours à briques, développés il y a environ cinq mille cinq cents ans, étaient de
+simples structures de terre percées de tunnels laissant passer la chaleur d'un feu. Ce principe
+de base a évolué vers des fours plus sophistiqués, mais reste reproductible avec des moyens
+simples.
+
+## À retenir
+
+- Une argile adaptée mélange particules fines et sable pour limiter le retrait au séchage.
+- La pâte d'argile est moulée à la main dans un moule rectangulaire, traditionnellement en bois.
+- Le séchage à l'air, avant la cuisson, évite que l'eau restante ne fasse éclater la brique.
+- La cuisson entre huit cent cinquante et neuf cent cinquante degrés transforme chimiquement
+  l'argile de façon irréversible.
+- Des fours de terre simples suffisent à reproduire ce procédé sans installation industrielle.
+
+[Emplacement image : briques d'argile moulées séchant à l'air libre à côté d'un four traditionnel
+en fonctionnement, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1767,13 +1847,94 @@ slug: construire-route-durable
 categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
 summary: >
   Couches de forme, drainage, revêtement : pourquoi une route mal drainée se dégrade vite.
-tags: [ouvrages-dart, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [ouvrages-dart, route, drainage, essentiel-reconstruction]
+relatedArticles: [aqueducs-canaux]
+sources:
+  - title: "The Construction and Use of Ancient Roman Roads"
+    url: "https://engineeringrome.org/the-construction-and-use-of-ancient-roman-roads/"
+    publisher: "Engineering Rome"
+    date: "2025"
+  - title: "Roman road system"
+    url: "https://www.britannica.com/technology/Roman-road-system"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les routes romaines étaient-elles construites en plusieurs couches
+      superposées plutôt qu'en une seule ?"
+    options:
+      - "Pour des raisons uniquement esthétiques"
+      - "Chaque couche remplit une fonction différente, de la stabilité au drainage"
+      - "Pour utiliser le plus de matériaux possible"
+    answer: 2
+    explanation: >
+      Les couches successives des routes romaines, du gros empierrement de fondation jusqu'au
+      revêtement de surface, remplissaient chacune un rôle distinct : stabilité, résistance et
+      évacuation de l'eau.
+  - question: "Pourquoi une route mal drainée se dégrade-t-elle plus rapidement qu'une route bien
+      drainée ?"
+    options:
+      - "L'eau stagnante n'a aucun effet sur la structure d'une route"
+      - "L'eau qui s'infiltre affaiblit les couches sous-jacentes et les fait céder sous le poids
+        du trafic"
+      - "L'eau rend la route plus solide en la compactant"
+    answer: 2
+    explanation: >
+      L'eau qui pénètre et stagne dans les couches inférieures d'une route affaiblit leur
+      cohésion, ce qui provoque des affaissements et des fissures sous le passage répété des
+      véhicules.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une route qui dure des décennies et une route qui se dégrade en quelques saisons ne diffèrent pas
+tant par les matériaux utilisés que par leur capacité à évacuer l'eau. Ce principe, déjà maîtrisé
+par les ingénieurs romains, reste valable aujourd'hui.
+
+## Une structure en plusieurs couches superposées
+
+Les routes romaines associaient une fondation de gros empierrement, une couche intermédiaire de
+gravats liés à la chaux, une couche de béton compacté, puis un revêtement de surface en pierres
+plates. Chaque couche jouait un rôle distinct dans la solidité de l'ensemble.
+
+## Le drainage, la clé de la durabilité
+
+Une surface légèrement bombée, plus haute au centre que sur les côtés, permet à l'eau de pluie de
+s'écouler vers des fossés latéraux plutôt que de stagner et de s'infiltrer dans la structure de la
+route. Sans ce drainage, l'eau accumulée affaiblit progressivement les couches inférieures.
+
+## Pourquoi l'eau détruit une route de l'intérieur
+
+L'eau qui s'infiltre dans les couches sous-jacentes réduit leur cohésion et leur capacité à
+supporter le poids du trafic. Sous des charges répétées, une structure affaiblie par l'humidité
+finit par s'affaisser, provoquant fissures et nids-de-poule.
+
+## Adapter les matériaux aux ressources locales
+
+Les Romains utilisaient les matériaux disponibles localement, sable, pierres concassées et
+parfois de la cendre volcanique pour fabriquer un mortier résistant. Une route durable peut
+aujourd'hui encore s'appuyer sur des matériaux locaux, à condition de respecter les principes de
+structure et de drainage.
+
+## L'entretien, un complément indispensable
+
+Même une route bien construite nécessite un entretien régulier pour rester fonctionnelle : nettoyer
+les fossés de drainage, réparer les fissures avant qu'elles ne s'aggravent, et surveiller les
+signes précoces de dégradation.
+
+## À retenir
+
+- Une route durable superpose plusieurs couches, chacune remplissant une fonction distincte.
+- Une surface légèrement bombée facilite l'évacuation de l'eau vers des fossés latéraux.
+- L'eau infiltrée affaiblit les couches inférieures et provoque affaissements et fissures.
+- Les matériaux locaux peuvent suffire à condition de respecter les principes de structure et de
+  drainage.
+- Un entretien régulier reste indispensable pour préserver la durabilité d'une route bien
+  construite.
+
+[Emplacement image : coupe transversale d'une route montrant ses différentes couches et son
+système de drainage latéral, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1801,13 +1962,95 @@ slug: aqueducs-canaux
 categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
 summary: >
   Amener l'eau par gravité sur des dizaines de kilomètres : la pente, les siphons et l'entretien.
-tags: [ouvrages-dart, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [ouvrages-dart, aqueduc, eau, essentiel-reconstruction]
+relatedArticles: [construire-route-durable]
+sources:
+  - title: "Aqueducts: Quenching Rome's Thirst"
+    url: "https://www.nationalgeographic.com/history/history-magazine/article/roman-aqueducts-engineering-innovation"
+    publisher: "National Geographic"
+    date: "2025"
+  - title: "Roman aqueduct"
+    url: "https://en.wikipedia.org/wiki/Roman_aqueduct"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Quelle force principale permettait à l'eau de circuler dans un aqueduc romain sur
+      des dizaines de kilomètres ?"
+    options:
+      - "Des pompes mécaniques actionnées en continu"
+      - "La seule gravité, grâce à une pente descendante constante et très légère"
+      - "La pression atmosphérique uniquement"
+    answer: 2
+    explanation: >
+      Les ingénieurs romains calculaient une pente descendante continue, parfois de quelques
+      centimètres seulement par kilomètre, suffisante pour que l'eau s'écoule sous son propre
+      poids sur de très longues distances.
+  - question: "Quelle proportion du réseau d'aqueducs de Rome circulait sous terre plutôt que sur
+      des arches visibles ?"
+    options:
+      - "La quasi-totalité, environ 85 %"
+      - "Environ la moitié"
+      - "Une infime partie, moins de 5 %"
+    answer: 1
+    explanation: >
+      Contrairement à l'image des grandes arches monumentales, la majorité du réseau
+      d'aqueducs romains circulait sous terre ou au niveau du sol, les arches n'étant
+      construites que pour franchir des vallées ou des dépressions.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Faire voyager de l'eau sur des dizaines de kilomètres sans aucune pompe semble impossible, et
+pourtant les ingénieurs romains y parvenaient couramment grâce à un principe d'une simplicité
+trompeuse : une pente descendante continue et parfaitement calculée.
+
+## Le principe de l'écoulement gravitaire
+
+Un canal légèrement incliné, avec une pente descendante d'à peine quelques centimètres par
+kilomètre, suffit à faire circuler l'eau sur de très longues distances sans aucune intervention
+mécanique. Cette pente devait être suffisamment régulière pour éviter tout ralentissement ou
+stagnation.
+
+## Franchir les obstacles du terrain
+
+Quand le terrain naturel ne permettait pas de conserver cette pente régulière, les ingénieurs
+construisaient des ponts à arches pour traverser une vallée, creusaient des tunnels à travers une
+colline, ou utilisaient des siphons, un système de tuyaux qui exploite la pression pour faire
+remonter temporairement l'eau avant qu'elle ne redescende.
+
+## La majeure partie du réseau reste invisible
+
+Contrairement à l'image des grandes arches monumentales, la plus grande partie d'un réseau
+d'aqueducs circulait sous terre ou directement au niveau du sol. Les structures aériennes
+n'étaient construites que pour franchir des vallées ou des dépressions du terrain.
+
+## Un travail de surveillance précis avant construction
+
+Localiser une pente descendante constante sur de longues distances nécessitait des instruments de
+mesure simples mais précis, comme le niveau à eau ou des dispositifs de visée, ainsi qu'un travail
+d'arpentage rigoureux avant toute construction.
+
+## L'entretien, indispensable à la durée de vie de l'ouvrage
+
+Les dépôts minéraux transportés par l'eau s'accumulent progressivement sur les parois d'un canal
+et peuvent finir par réduire son débit. Un entretien régulier, incluant le nettoyage des dépôts et
+la réparation des fissures, était nécessaire pour maintenir un aqueduc fonctionnel sur le long
+terme.
+
+## À retenir
+
+- Un aqueduc fonctionne uniquement grâce à une pente descendante continue et très légère.
+- Ponts à arches, tunnels et siphons permettent de franchir les obstacles du terrain sans rompre
+  cette pente.
+- La majorité d'un réseau d'aqueducs circulait sous terre, pas sur des arches visibles.
+- Un arpentage précis était indispensable avant de construire un tel ouvrage.
+- Un entretien régulier contre les dépôts minéraux maintenait le débit de l'eau sur le long
+  terme.
+
+[Emplacement image : aqueduc romain à arches franchissant une vallée, avec un canal d'eau visible
+au sommet, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1886,13 +2129,92 @@ slug: engrenages-courroies-transmissions
 categoryPath: technologies-et-ingenierie/robotique/actionneurs
 summary: >
   Transformer vitesse et force : la mécanique qui relie un moteur à ce qu'il doit faire bouger.
-tags: [actionneurs, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [actionneurs, engrenages, transmission, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Belts, Chains and Gears: How Power Transmission Works"
+    url: "https://eepower.com/technical-articles/belts-chains-and-gears-how-power-transmission-works/"
+    publisher: "EE Power"
+    date: "2025"
+  - title: "The Science of Mechanical Motion: Gears and Pulleys"
+    url: "https://control.com/technical-articles/gear-and-pulley-motion-transmission/"
+    publisher: "Control.com"
+    date: "2025"
+quiz:
+  - question: "Que se passe-t-il quand un petit engrenage entraîne un engrenage beaucoup plus
+      grand ?"
+    options:
+      - "La vitesse de rotation augmente, la force diminue"
+      - "La vitesse de rotation diminue, mais la force transmise augmente"
+      - "Rien ne change entre les deux engrenages"
+    answer: 2
+    explanation: >
+      Un grand engrenage entraîné par un petit tourne plus lentement, mais avec une force, ou
+      couple, plus importante, un principe utilisé pour démultiplier la force disponible.
+  - question: "Quel est l'avantage principal d'une transmission par chaîne par rapport à une
+      transmission par courroie ?"
+    options:
+      - "Elle est toujours plus silencieuse"
+      - "Elle supporte des charges plus importantes avec très peu de glissement"
+      - "Elle ne nécessite aucun entretien"
+    answer: 2
+    explanation: >
+      Grâce à l'engrènement de ses maillons dans des roues dentées, une chaîne transmet la
+      puissance avec un minimum de glissement, ce qui la rend adaptée aux charges lourdes,
+      contrairement à une courroie qui peut patiner.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un moteur tourne presque toujours à une vitesse et avec une force qui ne correspondent pas
+directement au besoin final. Engrenages, courroies et chaînes servent précisément à adapter cette
+vitesse et cette force entre le moteur et ce qu'il doit réellement faire bouger.
+
+## Les engrenages, transformer vitesse et force
+
+Deux roues dentées de tailles différentes, engrenées l'une dans l'autre, tournent à des vitesses
+différentes. Un petit engrenage entraînant un grand engrenage réduit la vitesse de rotation mais
+augmente la force transmise, un principe appelé démultiplication.
+
+## Les courroies, transmettre à distance
+
+Une courroie souple tendue entre deux poulies transmet le mouvement de rotation d'un arbre à un
+autre situé à distance, sans nécessiter d'engrenages directement en contact. La taille relative
+des deux poulies détermine, comme pour les engrenages, le rapport de vitesse obtenu.
+
+## Les chaînes, une transmission sans glissement
+
+Une chaîne engrenée dans des roues dentées, appelées pignons, transmet la puissance avec très peu
+de glissement, contrairement à une courroie qui peut patiner sous une charge importante. Cette
+robustesse rend les chaînes adaptées au transport de charges lourdes.
+
+## Choisir la bonne solution selon le besoin
+
+Les engrenages conviennent bien quand les axes sont proches et qu'une transmission précise et
+robuste est nécessaire. Les courroies conviennent aux transmissions à distance et silencieuses.
+Les chaînes s'imposent quand une force importante doit être transmise sans glissement.
+
+## Combiner plusieurs éléments pour un résultat précis
+
+De nombreuses machines combinent plusieurs engrenages, courroies ou chaînes en série, chacun
+ajustant un peu la vitesse et la force, pour obtenir précisément la combinaison finale nécessaire
+à une tâche donnée.
+
+## À retenir
+
+- Un petit engrenage entraînant un grand engrenage réduit la vitesse mais augmente la force
+  transmise.
+- Une courroie transmet le mouvement à distance entre deux poulies de tailles différentes.
+- Une chaîne engrenée dans des pignons transmet la puissance avec très peu de glissement.
+- Le choix entre engrenage, courroie et chaîne dépend de la distance, de la charge et du bruit
+  acceptable.
+- Combiner plusieurs éléments en série permet d'obtenir précisément la vitesse et la force
+  recherchées.
+
+[Emplacement image : train d'engrenages de tailles différentes engrenés les uns dans les autres,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2430,13 +2752,94 @@ slug: reconnaitre-recuperer-materiaux
 categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
 summary: >
   Identifier métaux, plastiques et bois pour les réemployer : un savoir utile quand rien ne se fabrique plus.
-tags: [choix-des-materiaux, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [choix-des-materiaux, recuperation, recyclage, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Scrap Metal Recycling"
+    url: "https://www.bruker.com/en/applications/industrial/metals/scrap-metal-recycling.html"
+    publisher: "Bruker"
+    date: "2025"
+  - title: "Recycling"
+    url: "https://www.britannica.com/science/recycling"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Comment distinguer rapidement un métal ferreux, comme le fer ou l'acier, d'un
+      métal non ferreux ?"
+    options:
+      - "Un métal ferreux est toujours plus léger"
+      - "Un métal ferreux est attiré par un aimant, contrairement à la plupart des métaux non
+        ferreux"
+      - "Un métal ferreux est toujours de couleur dorée"
+    answer: 2
+    explanation: >
+      La plupart des métaux ferreux, contenant du fer, sont magnétiques et attirés par un aimant,
+      tandis que des métaux non ferreux comme l'aluminium, le cuivre ou le laiton ne le sont
+      généralement pas.
+  - question: "Pourquoi recycler l'aluminium plutôt que d'en extraire du minerai neuf permet-il
+      une économie d'énergie considérable ?"
+    options:
+      - "Parce que fondre de l'aluminium déjà raffiné demande beaucoup moins d'énergie que le
+        processus complet d'extraction à partir du minerai"
+      - "Parce que l'aluminium recyclé est un matériau différent"
+      - "Il n'y a en réalité aucune économie d'énergie"
+    answer: 1
+    explanation: >
+      Le recyclage de l'aluminium permet d'économiser jusqu'à environ 95 % de l'énergie
+      nécessaire par rapport à l'extraction et au raffinage du minerai brut, car il évite les
+      étapes les plus coûteuses en énergie du procédé initial.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Reconnaître de quoi est fait un objet permet de décider s'il peut être réutilisé tel quel, fondu à
+nouveau, ou simplement écarté. Ce savoir, précieux dans une économie qui fabrique peu, repose sur
+quelques tests simples accessibles à tous.
+
+## Distinguer les métaux ferreux des métaux non ferreux
+
+Un aimant permet un premier tri rapide : le fer, l'acier et la fonte sont magnétiques et attirés
+par l'aimant, tandis que l'aluminium, le cuivre, le laiton et la plupart des autres métaux non
+ferreux ne le sont pas.
+
+## Reconnaître un métal par son aspect et son poids
+
+La couleur, la densité et la réaction au son quand on le frappe aident à identifier un métal :
+le cuivre a une teinte rougeâtre caractéristique, l'aluminium est notablement léger pour son
+volume, et l'acier sonne différemment du laiton lorsqu'on le tape.
+
+## Identifier un plastique par des tests simples
+
+Un morceau de plastique qui flotte dans l'eau salée diffère d'un plastique qui coule, ce qui aide
+à distinguer certaines familles entre elles. L'odeur dégagée lors d'un léger chauffage, effectué
+avec précaution et dans un lieu ventilé, donne aussi des indices sur sa composition.
+
+## Évaluer la qualité d'un bois de récupération
+
+Un bois sain résiste à la pression d'un ongle sans marquer facilement, ne sent pas le moisi et ne
+présente pas de traces d'attaque d'insectes xylophages. Ces signes simples aident à juger si une
+pièce de bois récupérée reste utilisable pour une nouvelle construction.
+
+## Pourquoi recycler plutôt que d'extraire à neuf
+
+Fondre à nouveau un métal déjà raffiné, comme l'aluminium, demande beaucoup moins d'énergie que
+d'extraire et de traiter un minerai brut depuis le début. Cette différence rend la récupération de
+matériaux existants particulièrement avantageuse en l'absence d'industrie extractive disponible.
+
+## À retenir
+
+- Un aimant distingue rapidement les métaux ferreux, magnétiques, des métaux non ferreux.
+- La couleur, le poids et le son d'un métal frappé aident à l'identifier plus précisément.
+- Flottaison dans l'eau salée et odeur au chauffage donnent des indices sur un type de plastique.
+- Un bois sain résiste à la pression d'un ongle et ne présente pas de traces de moisissure ou
+  d'insectes.
+- Recycler un métal déjà raffiné demande beaucoup moins d'énergie que d'extraire un minerai
+  neuf.
+
+[Emplacement image : tri de matériaux récupérés, métaux, plastiques et bois, avec un aimant
+utilisé pour tester leur nature, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

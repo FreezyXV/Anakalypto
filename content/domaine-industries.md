@@ -1201,7 +1201,7 @@ summary: >
   De l'argile, du charbon de bois et de l'air soufflé : le bas fourneau a permis, dès l'âge du
   fer, de transformer une roche commune en métal, sans jamais atteindre son point de fusion.
 tags: [siderurgie, metallurgie, fer, charbon-de-bois, essentiel-reconstruction]
-relatedArticles: [la-forge-et-le-travail-du-fer, la-trempe-et-le-revenu]
+relatedArticles: [forge-travail-fer, la-trempe-et-le-revenu-durcir-et-stabiliser-l-acier]
 sources:
   - title: "Bloomery"
     url: "https://en.wikipedia.org/wiki/Bloomery"
@@ -1333,13 +1333,92 @@ slug: forge-travail-fer
 categoryPath: industries/industrie-lourde/siderurgie
 summary: >
   Chauffer, marteler, souder à la forge : le métier qui fabrique outils et pièces à la main.
-tags: [siderurgie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [siderurgie, forge, metallurgie, essentiel-reconstruction]
+relatedArticles: [trempe-revenu]
+sources:
+  - title: "History of Forging Techniques"
+    url: "https://cantondropforge.com/history-of-forging/"
+    publisher: "Canton Drop Forge"
+    date: "2025"
+  - title: "Collections: Iron, How Did They Make It, Part III: Hammer-time"
+    url: "https://acoup.blog/2020/10/02/collections-iron-how-did-they-make-it-part-iii-hammer-time/"
+    publisher: "A Collection of Unmitigated Pedantry"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le forgeron chauffe-t-il le métal avant de le marteler ?"
+    options:
+      - "Pour le nettoyer de la rouille"
+      - "Pour le rendre malléable et éviter qu'il ne se fissure"
+      - "Pour le rendre plus lourd"
+    answer: 2
+    explanation: >
+      À froid, le fer résiste et se fissure sous les coups. Chauffé au rouge, il devient
+      malléable et peut être mis en forme sans se briser.
+  - question: "Qu'est-ce qu'un bas fourneau produisait à partir du minerai de fer ?"
+    options:
+      - "Du fer liquide prêt à être coulé dans un moule"
+      - "Une masse spongieuse mêlée de scories, appelée loupe"
+      - "De l'acier inoxydable directement"
+    answer: 2
+    explanation: >
+      Le bas fourneau ne chauffait pas assez pour faire fondre complètement le fer : il
+      produisait une masse poreuse, la loupe, qu'il fallait ensuite marteler pour en extraire le
+      métal.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant les usines modernes, chaque outil, chaque clou et chaque fer à cheval sortait de la forge
+d'un artisan. Le principe reste simple : chauffer le métal jusqu'à le rendre malléable, puis le
+frapper pour lui donner forme.
+
+## Extraire un métal travaillable
+
+Pendant des siècles, le fer a été obtenu dans un four appelé bas fourneau, ou bloomerie, chauffé
+au charbon de bois avec un apport d'air forcé par un soufflet. Le minerai ne fond pas
+complètement : il forme une masse spongieuse mêlée de scories, appelée loupe, qu'il faut ensuite
+marteler pour en extraire le métal utilisable.
+
+## Pourquoi chauffer avant de frapper
+
+À froid, le fer résiste et se fissure sous le marteau. Chauffé au rouge, autour de neuf cents
+degrés, il devient malléable : ses atomes peuvent glisser les uns sur les autres sans que la
+pièce ne se casse. C'est cette plage de température que le forgeron surveille en observant la
+couleur du métal.
+
+## Les gestes de base
+
+Marteler étire, aplatit ou épaissit le métal selon l'angle et la force du coup. Souder à la forge
+consiste à chauffer deux pièces jusqu'à ce que leurs surfaces commencent tout juste à fondre,
+puis à les marteler ensemble pour qu'elles ne fassent plus qu'une seule pièce.
+
+## Le rôle de l'enclume et du marteau
+
+L'enclume sert de surface dure et stable contre laquelle le métal est frappé. Sa forme, avec une
+partie plate et une partie conique appelée corne, permet de réaliser des courbes ou des angles
+différents selon la partie utilisée.
+
+## Une compétence redevenue utile
+
+Sans usine ni électricité, un forgeron capable de chauffer un four au charbon de bois peut
+fabriquer ou réparer des outils essentiels : couteaux, haches, clous, charnières, socs de
+charrue. C'est un savoir-faire ancien mais toujours transmissible avec des moyens simples.
+
+## À retenir
+
+- La forge consiste à chauffer le métal pour le rendre malléable, puis à le marteler pour lui
+  donner forme.
+- Le fer était autrefois extrait dans un bas fourneau chauffé au charbon de bois.
+- Le fer chauffé au rouge, vers neuf cents degrés, peut être travaillé sans se briser.
+- Souder à la forge consiste à marteler ensemble deux pièces chauffées presque au point de
+  fusion.
+- Ce savoir-faire ne nécessite ni électricité ni usine, seulement un four, un marteau et une
+  enclume.
+
+[Emplacement image : forgeron chauffant une pièce de métal dans un foyer au charbon de bois
+avant de la marteler sur une enclume, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1384,13 +1463,90 @@ slug: trempe-revenu
 categoryPath: industries/industrie-lourde/siderurgie
 summary: >
   Chauffer puis refroidir brutalement : comment on rend un acier dur, puis moins cassant.
-tags: [siderurgie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [siderurgie, acier, traitement-thermique, essentiel-reconstruction]
+relatedArticles: [forge-travail-fer]
+sources:
+  - title: "Quenching and tempering of steel"
+    url: "https://www.tec-science.com/material-science/heat-treatment-steel/quenching-and-tempering/"
+    publisher: "tec-science"
+    date: "2025"
+  - title: "Learn About Quenching & Tempering"
+    url: "https://www.cliftonsteel.com/education/quenching-tempering"
+    publisher: "Clifton Steel"
+    date: "2025"
+quiz:
+  - question: "Que se passe-t-il quand on plonge un acier chauffé brutalement dans l'eau froide ?"
+    options:
+      - "Il devient très dur mais aussi très cassant"
+      - "Il devient plus souple immédiatement"
+      - "Il perd toutes ses propriétés mécaniques"
+    answer: 1
+    explanation: >
+      Ce refroidissement brutal, la trempe, fige une structure très dure appelée martensite,
+      mais l'acier obtenu est alors extrêmement cassant.
+  - question: "À quoi sert le revenu après la trempe d'un acier ?"
+    options:
+      - "À le rendre encore plus dur"
+      - "À relâcher les tensions internes et réduire la fragilité"
+      - "À le colorer"
+    answer: 2
+    explanation: >
+      Le revenu, un réchauffage plus doux que la trempe, permet de relâcher une partie des
+      tensions créées par le refroidissement brutal, rendant l'acier moins cassant.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un même morceau d'acier peut être mou et facile à travailler, ou dur et résistant à l'usure,
+selon la façon dont il est chauffé et refroidi. Deux étapes, la trempe puis le revenu, permettent
+de choisir précisément ses propriétés finales.
+
+## Chauffer jusqu'à changer la structure interne
+
+L'acier est d'abord chauffé à une température élevée, généralement autour de neuf cents degrés,
+jusqu'à ce que sa structure interne se réorganise en une forme appelée austénite. À cette
+température, les atomes de carbone se dispersent uniformément dans le métal.
+
+## La trempe, un refroidissement brutal
+
+L'acier chaud est alors plongé rapidement dans l'eau, l'huile, ou un autre liquide refroidissant.
+Ce choc thermique bloque les atomes de carbone dans une position figée, formant une structure
+très dure appelée martensite. L'acier trempé est extrêmement résistant à l'usure, mais aussi très
+cassant : un choc peut le briser net comme du verre.
+
+## Le revenu, pour retrouver de la résistance aux chocs
+
+Pour corriger cette fragilité, l'acier trempé est réchauffé à une température plus modérée,
+généralement entre cent cinquante et sept cents degrés selon le résultat recherché, puis
+refroidi plus lentement. Cette étape relâche une partie des tensions internes créées par la
+trempe et rend l'acier moins cassant, au prix d'une légère baisse de dureté.
+
+## Un réglage précis selon l'usage
+
+Plus la température de revenu est élevée, plus l'acier perd en dureté mais gagne en résistance
+aux chocs. Un couteau de cuisine, une lame de hache et un ressort ne sont pas revenus à la même
+température, car ils n'ont pas besoin des mêmes propriétés.
+
+## Reconnaître la température à l'œil
+
+Un forgeron expérimenté peut estimer la température de revenu grâce aux couleurs qui apparaissent
+à la surface de l'acier poli lorsqu'il chauffe : du jaune pâle pour une trempe très dure, jusqu'au
+bleu pour un acier plus souple et résistant aux chocs.
+
+## À retenir
+
+- La trempe consiste à chauffer l'acier puis à le refroidir brutalement pour le rendre très dur.
+- Un acier juste trempé est dur mais très cassant, comme du verre.
+- Le revenu, un réchauffage plus doux, redonne de la résistance aux chocs en sacrifiant un peu de
+  dureté.
+- Plus la température de revenu est élevée, plus l'acier devient souple et résistant aux chocs.
+- Les couleurs de la surface de l'acier chauffé indiquent approximativement la température
+  atteinte.
+
+[Emplacement image : séquence de la trempe d'un acier rouge plongé dans l'eau puis du revenu à
+couleur bleue, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1418,13 +1574,90 @@ slug: fabriquer-savon
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
   Graisse et soude : la saponification, une réaction simple essentielle à l'hygiène.
-tags: [chimie-industrielle, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [chimie-industrielle, savon, saponification, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Saponification"
+    url: "https://www.ebsco.com/research-starters/chemistry/saponification"
+    publisher: "EBSCO Research Starters"
+    date: "2025"
+  - title: "The Chemistry of Soap Making"
+    url: "https://www.chagrinvalleysoapandsalve.com/blogs/idas-soap-box-blog/the-chemistry-of-soap-making"
+    publisher: "Chagrin Valley Soap & Salve"
+    date: "2025"
+quiz:
+  - question: "Que produit la réaction entre une graisse et de la soude, en plus du savon ?"
+    options:
+      - "Du sel"
+      - "De la glycérine"
+      - "Du sucre"
+    answer: 2
+    explanation: >
+      La saponification décompose les triglycérides de la graisse en acides gras, qui forment le
+      savon avec la soude, et en glycérine, libérée comme sous-produit.
+  - question: "Pourquoi le savon parvient-il à nettoyer la graisse alors que l'eau seule n'y
+      arrive pas ?"
+    options:
+      - "Le savon est plus chaud que l'eau"
+      - "Chaque molécule de savon attire à la fois l'eau et la graisse"
+      - "Le savon dissout chimiquement la graisse"
+    answer: 2
+    explanation: >
+      Une molécule de savon a une extrémité qui se lie à l'eau et une autre qui se lie à la
+      graisse, ce qui lui permet d'entraîner la graisse et la saleté avec l'eau de rinçage.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Mélanger de la graisse et une base forte déclenche une réaction chimique appelée saponification,
+qui transforme les deux en savon. Ce principe, connu depuis l'Antiquité, reste la base de la
+fabrication du savon aujourd'hui.
+
+## La réaction chimique en jeu
+
+Les graisses et les huiles sont composées de molécules appelées triglycérides. Au contact d'une
+base forte comme la soude, ces molécules se décomposent : les acides gras qu'elles contiennent se
+combinent à la soude pour former du savon, tandis que la glycérine se sépare comme sous-produit.
+
+## D'où vient la soude
+
+Traditionnellement, la soude était obtenue en filtrant de l'eau à travers des cendres de bois, ce
+qui produisait une solution alcaline appelée lessive de cendres. Aujourd'hui, la soude caustique
+industrielle rend le procédé plus rapide et plus prévisible, mais le principe chimique reste
+identique.
+
+## Les étapes de la fabrication traditionnelle
+
+La graisse est d'abord fondue et filtrée pour retirer les impuretés. Elle est ensuite mélangée
+progressivement à la solution de soude, en chauffant et en remuant constamment, car l'eau et la
+graisse ne se mélangent pas naturellement. Du sel est parfois ajouté pour séparer le savon formé
+de l'eau restante : le savon remonte alors à la surface et peut être recueilli.
+
+## Laisser durcir et sécher
+
+Le mélange encore mou est versé dans des moules où il refroidit et durcit. Une période de séchage
+de plusieurs semaines, appelée cure, permet à la réaction de se terminer complètement et rend le
+savon moins irritant pour la peau.
+
+## Pourquoi le savon nettoie
+
+Chaque molécule de savon a une extrémité qui aime l'eau et une autre qui aime la graisse. Cette
+double affinité permet au savon de capturer la graisse et la saleté, puis de les entraîner avec
+l'eau du rinçage, ce que l'eau seule ne pourrait pas faire.
+
+## À retenir
+
+- La saponification transforme une graisse et une base forte en savon et en glycérine.
+- La soude peut venir de cendres de bois filtrées, une méthode utilisée depuis des siècles.
+- Le sel ajouté permet de séparer le savon formé du reste du liquide.
+- Un temps de séchage de plusieurs semaines rend le savon final moins irritant.
+- Le savon nettoie car chaque molécule attire à la fois l'eau et la graisse, ce que l'eau seule
+  ne fait pas.
+
+[Emplacement image : étapes de la saponification, du mélange de graisse et de soude jusqu'au
+savon durci en moule, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1469,13 +1702,94 @@ slug: soude-potasse
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
   Des cendres de bois aux usines chimiques : deux bases indispensables au verre, au savon et au papier.
-tags: [chimie-industrielle, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [chimie-industrielle, soude, potasse, essentiel-reconstruction]
+relatedArticles: [fabriquer-savon]
+sources:
+  - title: "Chapter 3: Potash, Soda Ash, and Borates"
+    url: "https://www.energy.gov/sites/prod/files/2013/11/f4/potash_soda_borate.pdf"
+    publisher: "U.S. Department of Energy"
+    date: "2025"
+  - title: "Sodium carbonate"
+    url: "https://en.wikipedia.org/wiki/Sodium_carbonate"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "D'où provenaient traditionnellement la soude et la potasse avant leur production
+      industrielle ?"
+    options:
+      - "De roches extraites de mines profondes uniquement"
+      - "Des cendres de plantes, la soude de plantes marines, la potasse de plantes terrestres"
+      - "De l'eau de mer directement évaporée"
+    answer: 2
+    explanation: >
+      Historiquement, la soude s'obtenait en lessivant les cendres de plantes marines riches en
+      sodium, tandis que la potasse provenait des cendres de plantes terrestres, notamment du
+      bois brûlé.
+  - question: "Quelle innovation a permis de produire de la soude à grande échelle à partir de
+      simple sel de cuisine ?"
+    options:
+      - "Le procédé Leblanc, développé en 1791"
+      - "La distillation de l'eau de mer"
+      - "L'extraction directe depuis des mines de charbon"
+    answer: 1
+    explanation: >
+      Nicolas Leblanc a mis au point en 1791 un procédé industriel qui transforme du sel commun,
+      via de l'acide sulfurique et du calcaire, en soude produite à grande échelle et à moindre
+      coût.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le verre, le savon et le papier partagent un point commun invisible : leur fabrication nécessite
+souvent une base chimique appelée soude ou potasse. Ces substances, autrefois tirées de simples
+cendres végétales, restent aujourd'hui produites à très grande échelle.
+
+## Deux substances d'origine végétale
+
+La soude, ou carbonate de sodium, s'obtenait traditionnellement en filtrant de l'eau à travers des
+cendres de plantes marines riches en sodium. La potasse, ou carbonate de potassium, provenait de
+la même manière des cendres de plantes terrestres, en particulier du bois brûlé.
+
+## Des usages multiples depuis l'Antiquité
+
+Ces deux bases servaient depuis l'Antiquité à fabriquer du verre, en abaissant la température de
+fusion du sable, à produire du savon par saponification, et à blanchir les textiles avant
+teinture.
+
+## Le procédé Leblanc, la première production industrielle
+
+En 1791, le chimiste français Nicolas Leblanc met au point un procédé qui transforme du sel de
+cuisine ordinaire, avec de l'acide sulfurique et du calcaire, en soude produite en grande
+quantité, bien plus rapidement qu'en filtrant des cendres.
+
+## Le procédé Solvay, une amélioration majeure
+
+En 1861, le chimiste belge Ernest Solvay développe un procédé plus efficace, utilisant de
+l'ammoniac et du dioxyde de carbone, qui produit moins de déchets et consomme moins d'énergie que
+la méthode de Leblanc. Cette technique reste utilisée aujourd'hui pour l'essentiel de la
+production mondiale de soude.
+
+## Produire de la potasse de façon artisanale
+
+Faire tremper des cendres de bois dans l'eau, puis filtrer et faire évaporer le liquide obtenu,
+permet de récupérer une potasse brute utilisable pour fabriquer du savon ou traiter certains
+textiles, même sans installation industrielle.
+
+## À retenir
+
+- La soude provenait traditionnellement de cendres de plantes marines, la potasse de plantes
+  terrestres.
+- Ces deux bases servent depuis l'Antiquité à fabriquer du verre, du savon et à traiter les
+  textiles.
+- Le procédé Leblanc, en 1791, a permis de produire de la soude à grande échelle à partir de sel.
+- Le procédé Solvay, en 1861, a amélioré l'efficacité de cette production industrielle.
+- Faire tremper puis évaporer des cendres de bois permet de produire de la potasse de façon
+  artisanale.
+
+[Emplacement image : cendres de bois filtrées dans l'eau pour produire de la potasse brute,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1758,13 +2072,89 @@ slug: stocker-conserver-marchandises
 categoryPath: industries/industrie-manufacturiere/chaine-logistique
 summary: >
   Silos, entrepôts, rotation des stocks : éviter pertes et pénuries.
-tags: [chaine-logistique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [chaine-logistique, stockage, gestion, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Warehouse Inventory Management – Best Practices for 2025"
+    url: "https://www.autostoresystem.com/insights/guide-to-inventory-management"
+    publisher: "AutoStore"
+    date: "2025"
+  - title: "25 Warehouse Best Practices To Improve Warehouse Operations"
+    url: "https://modula.us/blog/best-practices-in-warehouse-management/"
+    publisher: "Modula"
+    date: "2025"
+quiz:
+  - question: "Que signifie la méthode de rotation des stocks appelée premier entré, premier
+      sorti ?"
+    options:
+      - "On utilise toujours en premier les marchandises arrivées le plus récemment"
+      - "On utilise en priorité les marchandises stockées depuis le plus longtemps"
+      - "On mélange systématiquement les anciens et les nouveaux stocks"
+    answer: 2
+    explanation: >
+      Cette méthode consiste à écouler en premier les produits les plus anciens en stock, ce qui
+      évite qu'ils ne se périment ou ne deviennent obsolètes avant d'être utilisés.
+  - question: "Pourquoi organiser un entrepôt par zones selon le type de marchandise stockée ?"
+    options:
+      - "Pour des raisons uniquement esthétiques"
+      - "Pour réduire les manipulations inutiles et limiter les erreurs de stockage"
+      - "Pour occuper le plus d'espace possible"
+    answer: 2
+    explanation: >
+      Un zonage réfléchi place chaque type de marchandise à l'endroit le plus adapté, réduisant
+      le temps de manipulation et limitant les risques d'erreurs ou de dommages.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Produire une marchandise ne sert à rien si elle se perd, se détériore ou devient introuvable avant
+d'être utilisée. Stocker correctement, c'est autant une question d'organisation que de protection
+physique des biens conservés.
+
+## Organiser l'espace selon les besoins
+
+Répartir un lieu de stockage en zones adaptées à chaque type de marchandise réduit les
+manipulations inutiles et limite les risques d'erreur. Les produits les plus demandés se placent
+généralement près des sorties, tandis que les produits volumineux ou peu sollicités occupent des
+zones plus éloignées.
+
+## La rotation des stocks pour éviter les pertes
+
+La méthode premier entré, premier sorti consiste à utiliser en priorité les marchandises stockées
+depuis le plus longtemps, avant celles arrivées plus récemment. Cette pratique simple évite
+qu'un produit périssable ou daté ne reste oublié jusqu'à devenir inutilisable.
+
+## Protéger les marchandises des conditions extérieures
+
+L'humidité, la chaleur, les insectes et les rongeurs menacent de nombreux types de marchandises
+stockées. Des silos étanches, des entrepôts ventilés et des protections contre les nuisibles
+prolongent significativement la durée de conservation.
+
+## Suivre précisément ce qui est stocké
+
+Un inventaire tenu à jour, même sans outil informatique sophistiqué, évite les ruptures
+inattendues et les commandes en double. Savoir précisément ce qui est disponible, où, et depuis
+quand, est la base d'une gestion efficace des stocks.
+
+## Anticiper les besoins futurs
+
+Observer les tendances de consommation passées aide à anticiper les besoins futurs et à éviter
+à la fois le surstockage, qui immobilise inutilement des ressources, et la pénurie, qui interrompt
+une activité au moment critique.
+
+## À retenir
+
+- Organiser un espace de stockage en zones adaptées réduit les manipulations et les erreurs.
+- La méthode premier entré, premier sorti évite que des produits anciens ne soient oubliés.
+- Protéger les marchandises de l'humidité, de la chaleur et des nuisibles prolonge leur
+  conservation.
+- Un inventaire tenu à jour évite ruptures inattendues et commandes en double.
+- Anticiper les besoins futurs équilibre le risque de surstockage et celui de pénurie.
+
+[Emplacement image : entrepôt organisé en zones avec des étagères étiquetées et un système de
+rotation des stocks visible, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1792,13 +2182,90 @@ slug: mesurer-avec-precision
 categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
 summary: >
   Pied à coulisse, étalons, tolérances : pourquoi la mesure est la base de toute fabrication.
-tags: [qualite-et-normalisation, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [qualite-et-normalisation, mesure, precision, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "What Is Calibration? Understanding the Basics"
+    url: "https://www.fluke.com/en-us/learn/blog/calibration/about-calibration"
+    publisher: "Fluke"
+    date: "2025"
+  - title: "Measurements and Standards"
+    url: "https://www.nist.gov/standards-measurements"
+    publisher: "National Institute of Standards and Technology"
+    date: "2025"
+quiz:
+  - question: "Pourquoi deux pièces fabriquées séparément doivent-elles être mesurées avec une
+      grande précision pour s'assembler correctement ?"
+    options:
+      - "Pour des raisons uniquement esthétiques"
+      - "Parce qu'un écart de mesure, même minime, peut empêcher un assemblage précis"
+      - "Parce que la couleur des pièces doit correspondre"
+    answer: 2
+    explanation: >
+      Sans mesure précise et cohérente entre les ateliers de fabrication, des pièces conçues
+      pour s'assembler risquent de ne pas correspondre exactement, rendant l'assemblage impossible
+      ou peu fiable.
+  - question: "À quoi sert la calibration régulière d'un instrument de mesure ?"
+    options:
+      - "À le rendre plus esthétique"
+      - "À vérifier et ajuster sa précision par rapport à une référence connue"
+      - "À accélérer la vitesse de mesure"
+    answer: 2
+    explanation: >
+      Un instrument de mesure peut dériver avec le temps ou l'usage. La calibration compare
+      régulièrement ses résultats à une référence fiable et corrige tout écart constaté.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Fabriquer une pièce qui s'assemble parfaitement avec une autre, produite ailleurs, nécessite un
+langage commun de mesure. Sans cette précision partagée, l'industrie moderne, où des composants
+viennent souvent d'usines différentes, serait tout simplement impossible.
+
+## Le pied à coulisse, un instrument de précision courant
+
+Cet outil mesure des longueurs, des diamètres intérieurs et extérieurs avec une précision de
+l'ordre du dixième de millimètre, bien supérieure à celle d'une règle graduée classique, grâce à
+un système de vernier qui affine la lecture.
+
+## Les étalons, une référence commune
+
+Un étalon est un objet ou une valeur de référence dont la mesure est connue avec une exactitude
+extrême. Tous les instruments de mesure sont, directement ou indirectement, comparés à ces
+références, ce qui garantit que deux instruments différents mesurent de la même façon.
+
+## La calibration, vérifier la fiabilité d'un instrument
+
+Avec le temps ou l'usage, un instrument de mesure peut légèrement dériver de sa précision
+d'origine. La calibration consiste à comparer régulièrement ses mesures à une référence connue et
+à corriger tout écart détecté.
+
+## Les tolérances, accepter une marge d'imprécision maîtrisée
+
+Aucune fabrication n'atteint une précision parfaite. Les ingénieurs définissent donc une
+tolérance, une marge d'écart acceptable autour d'une dimension visée, suffisamment petite pour
+garantir le bon fonctionnement de la pièce, mais réaliste pour la fabrication.
+
+## Pourquoi la précision fonde l'industrie moderne
+
+Des composants fabriqués dans des usines différentes, parfois sur des continents différents,
+peuvent s'assembler sans problème uniquement parce que chacun a été mesuré selon les mêmes
+références et les mêmes tolérances acceptées.
+
+## À retenir
+
+- Le pied à coulisse permet des mesures de précision bien supérieures à une règle graduée
+  classique.
+- Les étalons servent de référence commune à laquelle tous les instruments de mesure se
+  rattachent.
+- La calibration vérifie et corrige régulièrement la précision d'un instrument de mesure.
+- Une tolérance définit une marge d'écart acceptable autour d'une dimension visée.
+- Cette précision partagée permet à des pièces fabriquées séparément de s'assembler correctement.
+
+[Emplacement image : pied à coulisse mesurant précisément le diamètre d'une pièce métallique,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2115,13 +2582,91 @@ slug: fonderie
 categoryPath: industries/materiaux-et-procedes/mise-en-forme
 summary: >
   Couler un métal fondu dans un moule en sable : une technique ancienne toujours au cœur de l'industrie.
-tags: [mise-en-forme, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [mise-en-forme, fonderie, moulage, essentiel-reconstruction]
+relatedArticles: [forge-travail-fer]
+sources:
+  - title: "The Metal Casting Process Explained"
+    url: "https://www.generalkinematics.com/blog/metal-casting-process-explained/"
+    publisher: "General Kinematics"
+    date: "2025"
+  - title: "Sand Casting"
+    url: "https://www.reliance-foundry.com/blog/sand-casting"
+    publisher: "Reliance Foundry"
+    date: "2025"
+quiz:
+  - question: "De quoi est généralement composé le moule utilisé en fonderie au sable ?"
+    options:
+      - "Uniquement de métal solide"
+      - "D'un mélange de sable, d'argile et d'eau"
+      - "De papier compressé"
+    answer: 2
+    explanation: >
+      Le moule de fonderie au sable est fabriqué à partir d'un mélange de sable, d'argile qui
+      lie les grains entre eux, et d'eau, formant une matière suffisamment résistante pour
+      recevoir le métal en fusion.
+  - question: "Quelle est la dernière étape du processus de fonderie au sable, après le
+      refroidissement du métal ?"
+    options:
+      - "On repeint immédiatement la pièce"
+      - "On casse le moule de sable pour en extraire la pièce solidifiée"
+      - "On refait fondre la pièce une seconde fois"
+    answer: 2
+    explanation: >
+      Contrairement à d'autres techniques de moulage réutilisables, le moule de sable est
+      généralement détruit pour libérer la pièce solidifiée, ce qui nécessite de refaire un
+      nouveau moule pour chaque nouvelle pièce.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Verser du métal en fusion dans un moule pour lui donner une forme précise est une technique
+vieille de plusieurs milliers d'années, encore largement utilisée aujourd'hui pour fabriquer des
+pièces complexes qu'il serait difficile d'obtenir autrement.
+
+## Préparer le moule en sable
+
+Un mélange de sable, d'argile qui lie les grains entre eux, et d'eau est tassé autour d'un modèle
+reproduisant la forme désirée. Une fois le modèle retiré, l'empreinte creuse laissée dans le sable
+sert de moule pour recevoir le métal liquide.
+
+## Faire fondre et couler le métal
+
+Le métal, chauffé bien au-delà de son point de fusion dans un four adapté, est versé
+soigneusement dans le moule à travers un canal appelé conduit de coulée, en veillant à ne pas
+emprisonner de bulles d'air qui fragiliseraient la pièce finale.
+
+## Laisser refroidir avant de démouler
+
+Le métal doit refroidir suffisamment pour se solidifier complètement avant d'être manipulé. Ce
+temps de refroidissement varie selon le métal utilisé, la taille de la pièce et l'épaisseur des
+parois.
+
+## Casser le moule pour récupérer la pièce
+
+Contrairement à un moule réutilisable, le moule de sable est généralement détruit pour libérer la
+pièce solidifiée. Un nouveau moule doit être préparé pour chaque nouvelle pièce coulée, sauf
+lorsqu'un modèle permanent est utilisé.
+
+## Une technique ancienne encore essentielle
+
+Des traces de fonderie remontent à plus de cinq mille ans en Mésopotamie. Aujourd'hui encore, la
+fonderie au sable reste la méthode la plus utilisée pour produire des pièces métalliques de forme
+complexe, en particulier en fer et en acier.
+
+## À retenir
+
+- Le moule de fonderie au sable est fabriqué à partir de sable, d'argile et d'eau.
+- Le métal en fusion est versé dans le moule à travers un conduit de coulée.
+- Un temps de refroidissement suffisant est nécessaire avant de manipuler la pièce.
+- Le moule de sable est généralement détruit pour libérer la pièce, nécessitant un nouveau moule
+  à chaque coulée.
+- Cette technique, vieille de plusieurs milliers d'années, reste largement utilisée dans
+  l'industrie moderne.
+
+[Emplacement image : métal en fusion versé dans un moule de sable lors d'une opération de
+fonderie, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2183,13 +2728,95 @@ slug: soudage
 categoryPath: industries/materiaux-et-procedes/mise-en-forme
 summary: >
   Arc électrique, chalumeau, soudure à la forge : assembler durablement deux pièces de métal.
-tags: [mise-en-forme, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [mise-en-forme, soudage, assemblage, essentiel-reconstruction]
+relatedArticles: [forge-travail-fer]
+sources:
+  - title: "Arc welding"
+    url: "https://en.wikipedia.org/wiki/Arc_welding"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "What Is Arc Welding? Types, Uses, Techniques, And Process"
+    url: "https://erieit.edu/different-types-of-arc-welding/"
+    publisher: "Erie Institute of Technology"
+    date: "2025"
+quiz:
+  - question: "Comment le soudage à l'arc électrique parvient-il à faire fondre le métal ?"
+    options:
+      - "Un courant électrique crée un arc entre une électrode et le métal, générant une chaleur
+        extrême"
+      - "Le métal est chauffé dans un four séparé puis apporté sur la pièce"
+      - "L'électricité magnétise le métal jusqu'à le faire fondre"
+    answer: 1
+    explanation: >
+      Un courant électrique puissant traverse l'espace entre une électrode et la pièce à souder,
+      créant un arc dont la température peut dépasser six mille degrés, suffisant pour faire
+      fondre localement le métal.
+  - question: "Quel est le point commun essentiel entre le soudage à la forge, ancien, et le
+      soudage à l'arc électrique, moderne ?"
+    options:
+      - "Les deux méthodes utilisent de l'électricité"
+      - "Les deux méthodes chauffent le métal jusqu'à le faire fondre ou presque fondre pour
+        assembler les pièces"
+      - "Les deux méthodes se pratiquent uniquement sous l'eau"
+    answer: 2
+    explanation: >
+      Que ce soit par la chaleur d'un feu de forge ou par un arc électrique, les deux techniques
+      reposent sur le même principe fondamental : amener le métal à une température suffisante
+      pour que les pièces fusionnent en une seule.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Assembler deux pièces de métal pour qu'elles ne forment plus qu'une seule pièce solide est
+possible grâce au soudage, une technique qui utilise la chaleur pour fusionner localement les
+surfaces en contact. Plusieurs méthodes existent, des plus anciennes aux plus modernes.
+
+## Le principe commun à toutes les techniques de soudage
+
+Chauffer suffisamment les surfaces de deux pièces métalliques pour qu'elles fondent
+partiellement, puis les mettre en contact et les laisser refroidir ensemble, crée une liaison
+continue entre les deux métaux, plus solide qu'un simple assemblage mécanique.
+
+## Le soudage à la forge, la méthode la plus ancienne
+
+Chauffer deux pièces de fer au rouge, presque au point de fusion, puis les marteler ensemble,
+permet aux surfaces de fusionner sous l'effet combiné de la chaleur et de la pression. Cette
+technique était la seule disponible avant l'invention du soudage électrique.
+
+## Le soudage à l'arc électrique
+
+Un courant électrique puissant traverse l'espace entre une électrode et la pièce à souder,
+créant un arc dont la température peut dépasser six mille degrés. Cette chaleur intense fait
+fondre localement le métal, formant un bain de fusion qui se solidifie en un joint solide.
+
+## Le soudage au chalumeau
+
+Une flamme obtenue en mélangeant un gaz combustible à de l'oxygène pur atteint une température
+suffisante pour faire fondre de nombreux métaux. Cette méthode, plus simple à mettre en œuvre que
+le soudage électrique, reste utilisée pour de nombreuses réparations et travaux ponctuels.
+
+## Protéger le métal en fusion pendant le soudage
+
+L'oxygène de l'air, au contact du métal chauffé à très haute température, peut provoquer des
+réactions chimiques indésirables qui fragilisent la soudure. De nombreuses techniques utilisent un
+gaz protecteur ou un revêtement fondant qui isole temporairement la zone de soudage de l'air
+ambiant.
+
+## À retenir
+
+- Le soudage fusionne localement deux pièces de métal grâce à une chaleur suffisante.
+- Le soudage à la forge, la méthode la plus ancienne, combine chaleur intense et martelage.
+- Le soudage à l'arc électrique utilise un courant puissant pour créer une chaleur extrême
+  localisée.
+- Le soudage au chalumeau utilise une flamme de gaz combustible et d'oxygène pour fondre le
+  métal.
+- Un gaz protecteur ou un revêtement fondant isole souvent la soudure de l'air ambiant pendant
+  l'opération.
+
+[Emplacement image : arc électrique lumineux entre une électrode de soudage et une pièce de
+métal, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2200,13 +2827,89 @@ slug: filer-tisser
 categoryPath: industries/materiaux-et-procedes/mise-en-forme
 summary: >
   De la fibre au fil, du fil au tissu : les gestes et machines qui habillent l'humanité.
-tags: [mise-en-forme, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [mise-en-forme, textile, tissage, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Spinning (textiles)"
+    url: "https://en.wikipedia.org/wiki/Spinning_(textiles)"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "Overview of Early Textile Production: Hand Spinning and Weaving"
+    url: "https://www.textileschool.com/10386/overview-of-early-textile-production-hand-spinning-and-weaving/"
+    publisher: "Textile School"
+    date: "2025"
+quiz:
+  - question: "Que fait précisément l'action de filer une fibre textile ?"
+    options:
+      - "Elle tisse deux fils ensemble à angle droit"
+      - "Elle étire et torsade des fibres courtes pour former un fil continu et résistant"
+      - "Elle teint la fibre dans une couleur choisie"
+    answer: 2
+    explanation: >
+      Filer consiste à étirer progressivement des fibres courtes et désordonnées tout en les
+      torsadant, ce qui les fait s'accrocher les unes aux autres pour former un fil continu et
+      solide.
+  - question: "Comment un tissu est-il fabriqué à partir de fils ?"
+    options:
+      - "En collant les fils ensemble avec de la colle naturelle"
+      - "En entrecroisant deux séries de fils, la chaîne et la trame, à angle droit"
+      - "En chauffant les fils jusqu'à ce qu'ils fusionnent"
+    answer: 2
+    explanation: >
+      Le tissage entrelace une série de fils tendus, appelée chaîne, avec une série de fils
+      passés perpendiculairement, appelée trame, créant une structure solide et souple.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Transformer une fibre végétale ou animale en vêtement demande deux étapes fondamentales : filer,
+pour obtenir un fil résistant, puis tisser, pour assembler ces fils en une surface souple et
+solide. Ces gestes, pratiqués depuis des millénaires, restent à la base de toute production
+textile.
+
+## Filer, transformer la fibre en fil
+
+Les fibres brutes, courtes et désordonnées, sont d'abord démêlées puis étirées progressivement
+tout en étant torsadées. Cette torsion fait s'accrocher les fibres les unes aux autres, formant un
+fil continu bien plus résistant que chaque fibre isolée.
+
+## Les outils traditionnels du filage
+
+La quenouille tenait les fibres non filées, tandis que le fuseau, souvent lesté d'un petit poids
+appelé volant, tournait pour créer la torsion nécessaire. Le rouet, inventé en Inde et diffusé en
+Europe au Moyen Âge, a ensuite mécanisé ce mouvement de rotation.
+
+## Tisser, entrelacer les fils en tissu
+
+Le tissage entrecroise deux séries de fils à angle droit : les fils de chaîne, tendus
+verticalement sur un métier à tisser, et les fils de trame, passés horizontalement entre eux. Ce
+tressage régulier crée une surface solide et souple.
+
+## Le métier à tisser, un outil ancien et essentiel
+
+Des poids de métier à tisser ont été retrouvés sur des sites vieux de plus de neuf mille ans. Un
+métier simple maintient les fils de chaîne tendus pendant que la trame est passée alternativement
+au-dessus et en dessous, un principe resté fondamentalement identique jusqu'à aujourd'hui.
+
+## Une compétence transmissible sans machine complexe
+
+Filer à la main avec un simple fuseau et tisser sur un métier rudimentaire restent des
+compétences réalisables sans électricité ni machine complexe, à condition de disposer d'une
+matière première comme de la laine, du lin ou du coton.
+
+## À retenir
+
+- Filer étire et torsade des fibres courtes pour former un fil continu et résistant.
+- La quenouille, le fuseau et le rouet sont les outils traditionnels du filage à la main.
+- Tisser entrecroise des fils de chaîne tendus avec des fils de trame passés perpendiculairement.
+- Des poids de métier à tisser existent depuis plus de neuf mille ans.
+- Filer et tisser restent réalisables sans électricité, avec des outils simples et une fibre
+  brute.
+
+[Emplacement image : fuseau en train de filer de la laine brute en fil, à côté d'un métier à
+tisser rudimentaire, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

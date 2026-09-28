@@ -2297,13 +2297,90 @@ slug: propriete-cadastre
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
   Prouver qui possède une terre : le registre qui évite des conflits sans fin.
-tags: [droit-civil, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [droit-civil, cadastre, propriete, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "What Are Cadastral Surveys? — A Guide for Land Surveyors"
+    url: "https://www.mckissock.com/blog/land-surveyor/what-are-cadastral-surveys-a-guide-for-land-surveyors/"
+    publisher: "McKissock Learning"
+    date: "2025"
+  - title: "Cadastral Survey History"
+    url: "https://www.blm.gov/programs/lands-and-realty/cadastral-survey/history"
+    publisher: "Bureau of Land Management"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les anciens Égyptiens réalisaient-ils des relevés de terrain après
+      chaque crue du Nil ?"
+    options:
+      - "Pour mesurer le niveau de l'eau uniquement"
+      - "Pour rétablir les limites de propriété effacées par la crue"
+      - "Pour construire de nouveaux canaux d'irrigation"
+    answer: 2
+    explanation: >
+      Les crues du Nil effaçaient les repères visibles délimitant les parcelles. Les relevés
+      permettaient de retracer avec précision les limites d'origine une fois les eaux retirées.
+  - question: "Que contient principalement un cadastre ?"
+    options:
+      - "Uniquement des photographies aériennes d'un territoire"
+      - "La géométrie des parcelles, leur propriétaire et souvent leur valeur"
+      - "La liste des habitants d'une ville"
+    answer: 2
+    explanation: >
+      Un cadastre est un registre public qui documente les limites précises de chaque parcelle,
+      son propriétaire et ses droits associés, servant de référence légale en cas de litige.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sans registre fiable, deux voisins peuvent revendiquer la même bande de terre pendant des
+générations. Le cadastre, un inventaire précis des parcelles et de leurs propriétaires, existe
+depuis l'Antiquité pour éviter ce genre de conflit sans fin.
+
+## Une idée aussi ancienne que l'agriculture
+
+Les Égyptiens de l'Antiquité effectuaient des relevés de terrain après chaque crue du Nil, qui
+effaçait les limites visibles entre les parcelles. Les arpenteurs romains, appelés agrimensores,
+produisaient de leur côté des registres cadastraux à des fins fiscales dans tout l'empire.
+
+## Ce que contient un cadastre
+
+Un cadastre associe à chaque parcelle sa position exacte, sa surface, son propriétaire légal et
+parfois sa valeur estimée. Cette information sert à la fois de preuve de propriété, de base pour
+l'impôt foncier et d'outil de résolution des litiges de voisinage.
+
+## Mesurer une limite sur le terrain
+
+Établir une limite précise nécessite des instruments de mesure, aujourd'hui souvent des appareils
+électroniques, mais historiquement des chaînes d'arpenteur, des cordes nouées à intervalles
+réguliers ou des jalons plantés en ligne de visée.
+
+## Pourquoi ce registre évite les conflits
+
+Sans document officiel, une limite de propriété repose sur la mémoire ou des marqueurs physiques
+fragiles, comme une haie ou une pierre, facilement déplacés ou oubliés. Un cadastre écrit et
+consultable tranche objectivement en cas de désaccord.
+
+## Reconstituer un cadastre après sa disparition
+
+Si les registres sont détruits, il reste possible de reconstituer les limites à partir des
+témoignages des habitants, des marqueurs physiques durables comme des murets de pierre, ou
+d'anciennes cartes conservées ailleurs.
+
+## À retenir
+
+- Le cadastre est un registre qui associe chaque parcelle à sa position, sa surface et son
+  propriétaire.
+- Les Égyptiens et les Romains tenaient déjà des relevés cadastraux dans l'Antiquité.
+- Ce registre sert à la fois de preuve de propriété, de base d'imposition et d'outil de
+  résolution des litiges.
+- Sans document écrit, les limites reposent sur des marqueurs fragiles, facilement contestés.
+- Un cadastre détruit peut être reconstitué à partir de témoignages et de marqueurs physiques
+  durables.
+
+[Emplacement image : carte cadastrale ancienne montrant les limites de parcelles numérotées d'un
+village, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2569,13 +2646,88 @@ slug: mediation-arbitrage
 categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
 summary: >
   Régler un conflit sans aller au tribunal, avec l'aide d'un tiers neutre.
-tags: [procedure-et-preuve, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [procedure-et-preuve, mediation, arbitrage, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Arbitration vs. Mediation: What's the Difference?"
+    url: "https://www.purduegloballawschool.edu/blog/news/arbitration-vs-mediation"
+    publisher: "Purdue Global Law School"
+    date: "2025"
+  - title: "What Is the Difference Between Arbitration and Mediation?"
+    url: "https://www.superlawyers.com/resources/alternative-dispute-resolution/what-is-the-difference-between-arbitration-and-mediation/"
+    publisher: "Super Lawyers"
+    date: "2025"
+quiz:
+  - question: "Quelle est la principale différence entre médiation et arbitrage ?"
+    options:
+      - "La médiation est toujours gratuite, l'arbitrage jamais"
+      - "En médiation, les parties décident elles-mêmes de l'accord ; en arbitrage, un tiers
+        impose une décision contraignante"
+      - "L'arbitrage se déroule uniquement par écrit"
+    answer: 2
+    explanation: >
+      En médiation, le médiateur facilite le dialogue mais rien n'est décidé sans l'accord des
+      deux parties. En arbitrage, l'arbitre tranche et sa décision s'impose, comme un juge.
+  - question: "Dans quelle situation la médiation est-elle particulièrement adaptée ?"
+    options:
+      - "Quand les parties veulent préserver leur relation, par exemple en famille ou en
+        affaires"
+      - "Quand une décision rapide et définitive est absolument nécessaire"
+      - "Uniquement pour des litiges portant sur de très grosses sommes d'argent"
+    answer: 1
+    explanation: >
+      La médiation cherche un accord accepté par les deux parties, ce qui aide à préserver la
+      relation entre elles, contrairement à une décision imposée par un tiers.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Tous les conflits ne nécessitent pas un tribunal. Deux méthodes permettent de régler un désaccord
+avec l'aide d'une personne extérieure neutre, sans passer par un procès long et coûteux : la
+médiation et l'arbitrage.
+
+## La médiation, un dialogue facilité
+
+Un médiateur neutre aide les deux parties à discuter, comprendre leurs points de vue respectifs et
+chercher ensemble une solution acceptable. Rien n'est imposé : l'accord final doit être approuvé
+par les deux camps, ce qui aide à préserver une relation durable entre eux.
+
+## L'arbitrage, une décision qui s'impose
+
+Dans l'arbitrage, les parties présentent leurs arguments et leurs preuves à un arbitre neutre, qui
+rend ensuite une décision contraignante, comparable à un jugement rendu par un tribunal privé.
+Cette décision s'impose aux deux parties, qu'elles l'approuvent ou non.
+
+## Pourquoi choisir l'une plutôt que l'autre
+
+La médiation convient bien aux conflits où préserver la relation compte, comme un désaccord
+familial ou commercial durable. L'arbitrage est préféré pour des litiges plus complexes ou plus
+graves, où une décision rapide et définitive est nécessaire.
+
+## Rapidité et coût
+
+La médiation se conclut généralement plus vite et coûte moins cher qu'un arbitrage ou qu'un
+procès classique, car elle ne nécessite pas de constituer un dossier de preuves aussi complet.
+
+## Organiser une médiation sans institution officielle
+
+Une médiation informelle peut être menée par une personne respectée et neutre au sein d'une
+communauté, sans cadre juridique officiel, à condition que les deux parties acceptent librement sa
+présence et s'engagent à respecter l'accord trouvé.
+
+## À retenir
+
+- La médiation aide les parties à trouver elles-mêmes un accord, sans rien leur imposer.
+- L'arbitrage aboutit à une décision contraignante rendue par un tiers neutre.
+- La médiation convient mieux quand la relation entre les parties doit être préservée.
+- La médiation est généralement plus rapide et moins coûteuse que l'arbitrage ou un procès.
+- Une médiation informelle peut être menée par une personne neutre respectée, sans cadre
+  juridique officiel.
+
+[Emplacement image : deux personnes en conflit assises de part et d'autre d'un médiateur neutre
+autour d'une table, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2671,13 +2823,92 @@ slug: ecrire-constitution
 categoryPath: droit-et-justice/droit-public/droit-constitutionnel
 summary: >
   Assemblées constituantes, séparation des pouvoirs, droits garantis : comment une société se donne des règles fondamentales.
-tags: [droit-constitutionnel, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [droit-constitutionnel, constitution, pouvoirs, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Separation of Powers Under the Constitution"
+    url: "https://constitution.congress.gov/browse/essay/intro.7-2/ALDE_00000031/"
+    publisher: "Congress.gov, Library of Congress"
+    date: "2025"
+  - title: "2.4 Constitutional Principles and Provisions"
+    url: "https://mlpp.pressbooks.pub/pol111mhs/chapter/2-3-constitutional-principles-and-provisions/"
+    publisher: "American Government and Politics"
+    date: "2025"
+quiz:
+  - question: "Que signifie la séparation des pouvoirs dans une constitution ?"
+    options:
+      - "Un seul dirigeant contrôle toutes les décisions du pays"
+      - "Les fonctions de faire les lois, de les appliquer et de juger sont réparties entre
+        des institutions distinctes"
+      - "Chaque région du pays a sa propre constitution indépendante"
+    answer: 2
+    explanation: >
+      La séparation des pouvoirs répartit le pouvoir législatif, exécutif et judiciaire entre
+      des institutions distinctes, chacune pouvant limiter les abus des autres.
+  - question: "Pourquoi une constitution prévoit-elle une procédure spécifique pour la
+      modifier ?"
+    options:
+      - "Pour empêcher toute modification future du texte"
+      - "Pour permettre son évolution tout en évitant des changements trop faciles ou
+        précipités"
+      - "Parce que la loi l'exige dans tous les pays sans exception"
+    answer: 2
+    explanation: >
+      Une procédure de révision, généralement plus exigeante qu'une loi ordinaire, permet à la
+      constitution de s'adapter dans le temps tout en la protégeant de changements arbitraires.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une constitution fixe les règles fondamentales selon lesquelles une société s'organise et se
+gouverne. La rédiger suppose de répondre à des questions simples mais essentielles : qui décide,
+qui applique, qui juge, et quels droits chaque personne conserve face au pouvoir.
+
+## Poser des principes fondateurs
+
+Avant de détailler l'organisation des institutions, un texte constitutionnel énonce des principes
+généraux, comme la liberté, l'égalité devant la loi et l'État de droit. Ces principes orientent
+ensuite toutes les règles plus précises qui suivent.
+
+## Répartir le pouvoir entre plusieurs mains
+
+La séparation des pouvoirs distribue trois fonctions distinctes, faire les lois, les appliquer et
+juger les litiges, entre des institutions différentes. Aucune ne peut agir seule sans une forme de
+contrôle des autres, ce qui limite le risque d'abus.
+
+## Garantir des droits face au pouvoir
+
+Une constitution solide protège des droits individuels, comme la liberté d'expression, la
+propriété ou un procès équitable, et fixe des limites claires à ce que le pouvoir peut exiger
+d'une personne. Elle prévoit aussi des moyens concrets de faire valoir ces droits en cas de
+violation.
+
+## Prévoir comment le texte pourra changer
+
+Une société évolue, et sa constitution doit pouvoir évoluer avec elle. Un texte fondateur définit
+donc une procédure de révision, généralement plus exigeante qu'une loi ordinaire, précisant qui
+peut proposer un changement et selon quelle majorité il sera accepté.
+
+## Le rôle d'une assemblée constituante
+
+Rédiger une constitution suppose souvent de réunir une assemblée représentative de la société
+concernée, chargée de débattre et d'approuver le texte avant qu'il n'entre en vigueur. Cette
+étape donne au texte une légitimité qu'un document imposé sans discussion n'aurait pas.
+
+## À retenir
+
+- Une constitution fixe qui décide, qui applique et qui juge au sein d'une société.
+- La séparation des pouvoirs répartit ces fonctions entre des institutions distinctes qui se
+  limitent mutuellement.
+- Elle garantit aussi des droits individuels face au pouvoir, avec des moyens de les faire
+  respecter.
+- Une procédure de révision permet au texte d'évoluer sans faciliter des changements arbitraires.
+- Une assemblée constituante représentative donne au texte sa légitimité.
+
+[Emplacement image : une assemblée constituante en pleine délibération autour d'un texte
+constitutionnel en cours de rédaction, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

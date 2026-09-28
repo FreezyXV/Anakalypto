@@ -2589,13 +2589,90 @@ slug: pigments-fabrication-couleurs
 categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
 summary: >
   Ocres, terres, minéraux : comment on fabrique des couleurs depuis la préhistoire.
-tags: [peinture-et-sculpture, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [peinture-et-sculpture, pigments, couleur, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Natural Pigments and the Geology of Color Through History"
+    url: "https://www.beyondeveryart.com/natural-pigments-and-the-geology-of-color-through-history/"
+    publisher: "Beyond Every Art"
+    date: "2025"
+  - title: "History of pigments"
+    url: "https://www.winsornewton.com/blogs/articles/history-of-pigments"
+    publisher: "Winsor & Newton"
+    date: "2025"
+quiz:
+  - question: "D'où venaient la plupart des premiers pigments utilisés par l'humanité ?"
+    options:
+      - "De colorants chimiques fabriqués en laboratoire"
+      - "De terres et de roches broyées, comme l'ocre"
+      - "Uniquement de plantes cultivées"
+    answer: 2
+    explanation: >
+      L'ocre, une terre riche en oxyde de fer, est l'un des tout premiers pigments utilisés,
+      broyé en poudre puis mélangé à de l'eau, de l'huile ou de la résine.
+  - question: "Pourquoi le bleu outremer tiré du lapis-lazuli était-il si précieux autrefois ?"
+    options:
+      - "Il était fabriqué à partir d'or"
+      - "La pierre venait de très loin et sa préparation était longue et coûteuse"
+      - "Il ne s'agissait pas d'un vrai pigment mais d'un colorant textile"
+    answer: 2
+    explanation: >
+      Le lapis-lazuli provenait presque exclusivement d'Afghanistan et sa transformation en
+      pigment était complexe, ce qui en faisait l'un des pigments les plus chers au monde.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Bien avant l'invention des peintures en pot, les artistes fabriquaient leurs propres couleurs à
+partir de terres, de roches et de plantes broyées. Ce savoir-faire, vieux de plus de cent mille
+ans, reste utile partout où l'on ne peut pas acheter de peinture toute prête.
+
+## Les terres colorées, les pigments les plus anciens
+
+L'ocre, une terre riche en oxyde de fer, donne des couleurs allant du jaune au rouge selon sa
+composition et sa cuisson. Broyée en poudre fine puis mélangée à de l'eau, à de la graisse ou à
+une résine végétale, elle forme une peinture simple et durable, utilisée depuis la préhistoire.
+
+## Les pigments minéraux plus rares
+
+Certaines roches donnent des couleurs plus difficiles à obtenir. Le lapis-lazuli, une pierre semi
+précieuse venue principalement d'Afghanistan, produit un bleu profond appelé outremer. Sa rareté
+et la complexité de sa préparation en ont longtemps fait le pigment le plus cher au monde,
+réservé aux commandes les plus prestigieuses.
+
+## Les pigments d'origine végétale et animale
+
+Le noir de fumée, obtenu en récupérant la suie d'une flamme, et les colorants tirés de baies, de
+racines ou d'insectes complètent la palette des couleurs naturelles. Ces pigments organiques sont
+souvent moins résistants à la lumière que les pigments minéraux.
+
+## Fabriquer une peinture simple
+
+Un pigment en poudre ne devient une peinture utilisable qu'une fois mélangé à un liant, qui le
+fait adhérer à la surface peinte. L'eau seule ne suffit pas : il faut de la graisse, de l'œuf, une
+colle animale ou une résine pour que la couleur reste fixée une fois sèche.
+
+## Une technique redevenue utile
+
+Sans magasin de fournitures artistiques, il reste possible de fabriquer des couleurs avec des
+matériaux trouvés localement : terres argileuses, charbon de bois broyé, jus de plantes. La
+qualité varie, mais le principe reste identique à celui utilisé il y a des dizaines de milliers
+d'années.
+
+## À retenir
+
+- L'ocre, une terre riche en oxyde de fer, est l'un des tout premiers pigments utilisés par
+  l'humanité.
+- Le lapis-lazuli produisait le bleu outremer, longtemps le pigment le plus cher au monde.
+- Le noir de fumée et les colorants végétaux complètent la palette des couleurs naturelles.
+- Un pigment seul ne suffit pas : il faut un liant, comme la graisse ou l'œuf, pour fixer la
+  couleur.
+- Ce savoir-faire ancien reste utilisable avec des matériaux trouvés localement.
+
+[Emplacement image : pigments naturels en poudre, de l'ocre rouge au bleu outremer, à côté des
+matériaux bruts dont ils sont issus, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2895,13 +2972,94 @@ slug: architecture-vernaculaire
 categoryPath: arts-et-culture/patrimoine/architecture
 summary: >
   Construire avec les matériaux et le climat locaux : les maisons traditionnelles du monde.
-tags: [architecture, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [architecture, construction, climat, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Vernacular Architecture in the Era of Climate Change"
+    url: "https://www.planetizen.com/features/127347-vernacular-architecture-era-climate-change"
+    publisher: "Planetizen"
+    date: "2025"
+  - title: "Architecture 101: What Is Vernacular Architecture?"
+    url: "https://architizer.com/blog/practice/details/architecture-101-what-is-vernacular-architecture/"
+    publisher: "Architizer Journal"
+    date: "2025"
+quiz:
+  - question: "Qu'est-ce qui définit l'architecture vernaculaire ?"
+    options:
+      - "Des bâtiments conçus par des architectes formés selon des normes internationales"
+      - "Des constructions utilisant les matériaux et savoir-faire locaux, sans architecte
+        formel"
+      - "Uniquement des monuments historiques classés"
+    answer: 2
+    explanation: >
+      L'architecture vernaculaire désigne des traditions de construction développées par des
+      communautés locales, avec les matériaux disponibles sur place et sans intervention
+      d'architectes formés.
+  - question: "Pourquoi les toits sont-ils très pentus dans les régions très pluvieuses ?"
+    options:
+      - "Pour des raisons uniquement esthétiques"
+      - "Pour évacuer rapidement l'eau de pluie et éviter les infiltrations"
+      - "Pour résister aux tremblements de terre"
+    answer: 2
+    explanation: >
+      Une forte pente permet à l'eau de ruisseler rapidement sans stagner, ce qui protège la
+      toiture et limite les risques d'infiltration dans les régions très pluvieuses.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Partout dans le monde, avant l'arrivée des architectes formés et des matériaux industriels, les
+populations ont construit leurs maisons avec ce qu'elles avaient sous la main : terre, bois,
+pierre, bambou ou chaume. Cette architecture, adaptée au climat local, fonctionne encore
+aujourd'hui.
+
+## Construire avec ce que l'on trouve sur place
+
+L'architecture vernaculaire utilise des matériaux facilement disponibles près du lieu de
+construction : argile et terre crue, pierre, bois, bambou, roseaux ou chaume. Ce choix réduit
+fortement les besoins de transport et rend la construction accessible sans industrie lourde.
+
+## S'adapter au climat plutôt que le combattre
+
+Dans les régions chaudes et sèches, des murs épais en terre retardent l'entrée de la chaleur dans
+la maison. Dans les régions humides, des maisons surélevées sur pilotis protègent des inondations
+et favorisent la circulation de l'air. Les toits pentus des régions pluvieuses évacuent
+rapidement l'eau, tandis que les toits plats des régions arides servent parfois à faire sécher
+des récoltes.
+
+## Des exemples à travers le monde
+
+Les maisons en adobe des régions désertiques, les trulli de pierre du sud de l'Italie, les
+chaumières couvertes de paille, ou encore les habitations en terre d'Afrique de l'Ouest illustrent
+cette diversité de solutions, chacune répondant à des contraintes locales précises.
+
+## Un savoir transmis sans plan écrit
+
+Ces techniques se transmettent généralement d'une génération à l'autre par la pratique, sans
+plans architecturaux formels. Chaque bâtisseur ajuste la méthode selon l'expérience accumulée
+localement sur ce qui résiste et ce qui ne résiste pas.
+
+## Pourquoi ce savoir reste utile aujourd'hui
+
+Sans accès à des matériaux industriels comme le béton ou l'acier, ces techniques permettent de
+construire un abri solide et adapté au climat avec des ressources locales renouvelables. Elles
+laissent aussi une empreinte environnementale bien plus faible que la construction moderne.
+
+## À retenir
+
+- L'architecture vernaculaire utilise des matériaux locaux : terre, bois, pierre, bambou ou
+  chaume.
+- Elle s'adapte au climat local plutôt que de le combattre, avec des murs épais, des toits
+  pentus ou des maisons surélevées.
+- Des exemples existent sur tous les continents, chacun adapté à des contraintes locales
+  différentes.
+- Ce savoir-faire se transmet par la pratique, sans plans architecturaux formels.
+- Il reste utile là où l'accès aux matériaux industriels est limité.
+
+[Emplacement image : plusieurs habitations traditionnelles du monde, maison en adobe, trullo et
+maison sur pilotis, cote a cote, legende et texte alternatif a fournir ulterieurement.]
 
 ---
 
@@ -3014,13 +3172,91 @@ slug: archives-bibliotheques-preservation
 categoryPath: arts-et-culture/patrimoine/musees-et-conservation
 summary: >
   Conserver la mémoire écrite d'une civilisation pour les générations futures.
-tags: [musees-et-conservation, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [musees-et-conservation, archives, preservation, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "2.1 Temperature, Relative Humidity, Light, and Air Quality: Basic Guidelines for
+      Preservation"
+    url: "https://www.nedcc.org/free-resources/preservation-leaflets/2.-the-environment/2.1-temperature,-relative-humidity,-light,-and-air-quality-basic-guidelines-for-preservation"
+    publisher: "Northeast Document Conservation Center"
+    date: "2025"
+  - title: "Guidelines for Preservation, Conservation, and Restoration of Local History and
+      Local Genealogical Materials"
+    url: "https://www.ala.org/rusa/resources/guidelines/guidelinespreservation"
+    publisher: "American Library Association"
+    date: "2025"
+quiz:
+  - question: "Quel facteur environnemental menace le plus la conservation à long terme d'un
+      document ancien ?"
+    options:
+      - "La couleur de la pièce où il est rangé"
+      - "Les variations de température et d'humidité"
+      - "Le nombre de personnes qui le consultent"
+    answer: 2
+    explanation: >
+      Les recherches montrent que les variations de température, d'humidité, l'exposition à la
+      lumière et les polluants abîment durablement le papier et l'encre.
+  - question: "Pourquoi conserve-t-on souvent les archives dans un endroit sombre et frais ?"
+    options:
+      - "Pour économiser l'électricité"
+      - "Pour ralentir la dégradation du papier causée par la lumière et la chaleur"
+      - "Parce que la lumière rend les documents illisibles immédiatement"
+    answer: 2
+    explanation: >
+      La chaleur accélère les réactions chimiques qui fragilisent le papier, et la lumière,
+      surtout ultraviolette, décolore et affaiblit les fibres au fil du temps.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un document écrit peut traverser les siècles, ou se désagréger en quelques décennies, selon la
+façon dont il est conservé. Archives et bibliothèques existent précisément pour protéger cette
+mémoire collective et la transmettre aux générations suivantes.
+
+## Ce qui abîme un document ancien
+
+La chaleur, l'humidité, la lumière et les insectes sont les principaux ennemis du papier. Une
+chaleur excessive accélère les réactions chimiques qui fragilisent les fibres. Une humidité trop
+élevée favorise les moisissures, tandis qu'un air trop sec rend le papier cassant.
+
+## Stabiliser l'environnement de conservation
+
+Un lieu de stockage frais, sombre et à humidité stable protège bien mieux un document qu'une
+pièce chauffée et exposée au soleil. Des variations brutales de température ou d'humidité sont
+souvent plus dommageables qu'une condition légèrement défavorable mais constante.
+
+## Manipuler sans abîmer
+
+Toucher un document ancien avec des mains propres et sèches, éviter de le plier ou de l'exposer
+longtemps à la lumière directe, et le ranger à plat ou verticalement selon son format, prolonge
+considérablement sa durée de vie.
+
+## Dupliquer pour se protéger de la perte totale
+
+Recopier, photographier ou numériser un document important répartit le risque : même si
+l'original est détruit par un incendie ou une inondation, une copie ailleurs préserve
+l'information. Cette pratique de duplication est aussi ancienne que l'écriture elle-même.
+
+## Organiser pour retrouver l'information
+
+Un classement clair, par date, par sujet ou par origine, rend une collection réellement utile.
+Une archive immense mais désorganisée perd une grande partie de sa valeur si personne ne peut y
+retrouver un document précis.
+
+## À retenir
+
+- La chaleur, l'humidité, la lumière et les insectes sont les principaux ennemis d'un document
+  ancien.
+- Un environnement frais, sombre et stable protège mieux qu'une pièce chauffée et changeante.
+- Manipuler un document avec des mains propres et sèches prolonge sa durée de vie.
+- Dupliquer un document important répartit le risque de perte totale.
+- Un classement clair rend une collection réellement utilisable, pas seulement conservée.
+
+[Emplacement image : rayonnages d'archives dans une pièce fraîche et sombre, avec des documents
+rangés à plat et verticalement selon leur format, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 
@@ -3082,13 +3318,93 @@ slug: savoir-faire-artisanaux
 categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
 summary: >
   Compagnonnage, métiers d'art : des gestes qui se transmettent de maître à apprenti.
-tags: [patrimoine-immateriel, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [patrimoine-immateriel, artisanat, transmission, essentiel-reconstruction]
+relatedArticles: [transmettre-savoirs]
+sources:
+  - title: "Traditional craftsmanship"
+    url: "https://ich.unesco.org/en/traditional-craftsmanship-00057"
+    publisher: "UNESCO"
+    date: "2025"
+  - title: "Intangible Cultural Heritage"
+    url: "https://www.unesco.org/en/intangible-cultural-heritage"
+    publisher: "UNESCO"
+    date: "2025"
+quiz:
+  - question: "Selon l'UNESCO, que cherche-t-on avant tout à préserver dans le patrimoine
+      artisanal ?"
+    options:
+      - "Les objets fabriqués eux-mêmes, conservés dans des musées"
+      - "Les savoirs et gestes des artisans, transmis à de nouveaux apprentis"
+      - "Uniquement les outils anciens utilisés autrefois"
+    answer: 2
+    explanation: >
+      La convention de l'UNESCO se concentre sur les compétences et connaissances des artisans
+      plutôt que sur les produits eux-mêmes : sauvegarder un savoir-faire, c'est faire en sorte
+      qu'il continue à être transmis et pratiqué.
+  - question: "Pourquoi un savoir-faire artisanal peut-il disparaître même si des objets anciens
+      en témoignent encore ?"
+    options:
+      - "Parce que les objets se détruisent avec le temps"
+      - "Parce que le geste et la connaissance pratique ne se transmettent plus si personne ne
+        les apprend"
+      - "Parce que les musées interdisent leur reproduction"
+    answer: 2
+    explanation: >
+      Un objet ancien peut survivre sans que personne ne sache encore le fabriquer : c'est la
+      transmission vivante du geste, de maître à apprenti, qui maintient un savoir-faire en vie.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un savoir-faire artisanal ne se conserve pas dans un livre ou un musée : il vit dans les mains de
+celles et ceux qui le pratiquent, et se transmet directement d'une personne à une autre. Sans
+cette transmission, même les techniques les plus anciennes disparaissent.
+
+## Ce que l'UNESCO appelle patrimoine immatériel
+
+Le patrimoine culturel immatériel regroupe les pratiques, connaissances et savoir-faire qu'une
+communauté reconnaît comme faisant partie de son identité. L'artisanat traditionnel en est
+l'expression la plus concrète : poterie, travail du bois, tissage, forge ou fabrication
+d'instruments de musique.
+
+## Le geste avant l'objet
+
+Ce qui compte n'est pas l'objet fini, mais la compétence nécessaire pour le fabriquer. Un vase
+ancien peut être admiré pendant des siècles sans que personne ne sache plus le reproduire, si la
+technique de sa fabrication s'est perdue en chemin.
+
+## La transmission de maître à apprenti
+
+Le compagnonnage, pratiqué depuis le Moyen Âge dans de nombreux métiers, organise cette
+transmission autour d'un apprentissage long, souvent itinérant, où l'apprenti observe, répète et
+perfectionne le geste du maître jusqu'à le maîtriser à son tour.
+
+## Pourquoi ces savoirs disparaissent facilement
+
+Un savoir-faire non transmis pendant une seule génération peut disparaître définitivement,
+contrairement à un texte écrit qui reste lisible tant qu'il est conservé. C'est pourquoi
+encourager activement la pratique et la transmission compte davantage que la seule conservation
+d'objets anciens.
+
+## Reconstruire une compétence perdue
+
+Quand un savoir-faire a disparu, l'étude d'objets anciens, de textes techniques ou l'expérience
+par essais successifs permet parfois de le reconstituer, mais rarement avec la même précision
+qu'une transmission directe et continue.
+
+## À retenir
+
+- Un savoir-faire artisanal vit dans le geste transmis, pas dans les objets fabriqués.
+- L'UNESCO classe l'artisanat traditionnel parmi les cinq domaines du patrimoine immatériel.
+- Le compagnonnage organise depuis des siècles la transmission de maître à apprenti.
+- Un savoir non transmis pendant une génération peut disparaître définitivement.
+- Reconstruire une technique perdue est possible, mais rarement aussi précis qu'une transmission
+  directe.
+
+[Emplacement image : un artisan expérimenté montrant un geste précis à un jeune apprenti dans un
+atelier, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3252,13 +3568,90 @@ slug: fabriquer-papier
 categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
 summary: >
   Fibres, pâte, séchage : la technique chinoise qui a démocratisé l'écrit.
-tags: [histoire-du-livre, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [histoire-du-livre, papier, ecriture, essentiel-reconstruction]
+relatedArticles: [encre-outils-ecriture]
+sources:
+  - title: "Cai Lun Invents Paper"
+    url: "https://www.ebsco.com/research-starters/history/cai-lun-invents-paper"
+    publisher: "EBSCO Research Starters"
+    date: "2025"
+  - title: "Cai Lun"
+    url: "https://www.britannica.com/biography/Cai-Lun"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Avec quels matériaux Cai Lun a-t-il mis au point sa technique de fabrication du
+      papier vers l'an 105 ?"
+    options:
+      - "Uniquement avec de la pâte de bois moderne"
+      - "Avec de vieux filets de pêche, de l'écorce de mûrier, du chanvre et des chiffons"
+      - "Avec des feuilles de papyrus importées d'Égypte"
+    answer: 2
+    explanation: >
+      Cai Lun a combiné des matériaux de récupération variés, écorce, chiffons et filets usés,
+      pour produire une pâte à papier légère et solide, moins coûteuse que les supports
+      antérieurs.
+  - question: "Quel outil permettait de récupérer les fibres en suspension dans l'eau pour
+      former une feuille ?"
+    options:
+      - "Une presse à vis en métal"
+      - "Un tamis en bambou monté sur un cadre en bois"
+      - "Un rouleau de pierre polie"
+    answer: 2
+    explanation: >
+      Le tamis de bambou, trempé dans la cuve puis secoué doucement, retenait les fibres en une
+      fine couche uniforme qui, une fois pressée et séchée, devenait une feuille de papier.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant le papier, écrire nécessitait du papyrus, du parchemin ou des tablettes d'argile, coûteux
+ou difficiles à produire en grande quantité. Une technique mise au point en Chine vers l'an 105 a
+rendu l'écrit accessible à un bien plus grand nombre de personnes.
+
+## L'invention attribuée à Cai Lun
+
+Le fonctionnaire chinois Cai Lun est traditionnellement crédité de la mise au point du premier
+procédé de fabrication du papier, à partir de matériaux de récupération : vieux filets de pêche,
+écorce de mûrier, chanvre et chiffons usagés.
+
+## Transformer des fibres en pâte
+
+Les matériaux sont d'abord bouillis et ramollis dans l'eau, puis pilés au maillet de bois ou au
+mortier de pierre jusqu'à former une pâte fibreuse homogène. Ce broyage sépare les fibres de
+cellulose qui constitueront la feuille de papier.
+
+## Capturer les fibres avec un tamis
+
+La pâte diluée dans une grande cuve d'eau est captée par un tamis de bambou tendu sur un cadre de
+bois, plongé puis retiré de l'eau. Un mouvement de secousse régulier répartit les fibres
+uniformément, formant une fine couche entrelacée qui deviendra la feuille.
+
+## Presser et sécher
+
+La couche de fibres humide est retirée du tamis, pressée entre des tissus absorbants ou des
+planches pour en extraire l'excès d'eau, puis séchée au soleil ou suspendue à l'air libre jusqu'à
+devenir une feuille solide et souple.
+
+## Une invention qui a changé le monde
+
+Depuis la Chine, cette technique s'est diffusée progressivement vers le Moyen-Orient, puis
+l'Europe, remplaçant des supports d'écriture plus coûteux et transformant durablement la
+diffusion des connaissances et de l'écrit.
+
+## À retenir
+
+- Avant le papier, écrire nécessitait du papyrus, du parchemin ou des tablettes, coûteux à
+  produire.
+- Cai Lun a mis au point vers l'an 105 un procédé utilisant des matériaux de récupération.
+- La pâte est obtenue en pilant des fibres bouillies jusqu'à former un mélange homogène.
+- Un tamis de bambou capture les fibres en une fine couche qui deviendra la feuille.
+- Cette invention s'est diffusée du monde chinois vers le Moyen-Orient puis l'Europe.
+
+[Emplacement image : étapes de la fabrication du papier, du tamis de bambou plongé dans la pâte
+jusqu'aux feuilles séchant au soleil, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3303,13 +3696,90 @@ slug: encre-outils-ecriture
 categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
 summary: >
   Encres au carbone et au fer, calames, plumes : écrire de façon durable.
-tags: [histoire-du-livre, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [histoire-du-livre, encre, ecriture, essentiel-reconstruction]
+relatedArticles: [fabriquer-papier]
+sources:
+  - title: "Iron gall ink"
+    url: "https://www.library.illinois.edu/rbx/2021/04/07/iron-gall-ink/"
+    publisher: "University of Illinois Rare Book and Manuscript Library"
+    date: "2025"
+  - title: "The Quill Pen: History and Examples"
+    url: "https://theoldtimey.com/the-quill-pen-history/"
+    publisher: "The Old Timey"
+    date: "2025"
+quiz:
+  - question: "De quoi est faite l'encre au carbone, l'une des plus anciennes encres connues ?"
+    options:
+      - "De suie mélangée à un liant comme la colle ou la gomme"
+      - "De fer dissous dans du vinaigre"
+      - "De pigments végétaux uniquement"
+    answer: 1
+    explanation: >
+      L'encre au carbone, utilisée depuis environ 2700 avant notre ère, est fabriquée à partir de
+      suie noire finement mélangée à un liant qui permet de l'appliquer et de la fixer sur un
+      support.
+  - question: "Pourquoi l'encre au fer et à la noix de galle est-elle restée l'encre standard en
+      Europe pendant plus de mille ans ?"
+    options:
+      - "Parce qu'elle était la moins chère à produire"
+      - "Parce qu'elle est permanente et résistante à l'eau une fois séchée"
+      - "Parce qu'elle séchait instantanément"
+    answer: 2
+    explanation: >
+      Contrairement à d'autres encres, celle au fer et à la noix de galle pénètre dans les fibres
+      du support et résiste à l'eau après séchage, ce qui explique sa longévité d'usage.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Écrire durablement suppose deux choses : un outil capable de déposer une trace fine et régulière,
+et une encre qui résiste au temps sans s'effacer. Deux solutions, mises au point il y a des
+siècles, ont dominé l'écriture manuscrite pendant très longtemps.
+
+## L'encre au carbone, la plus ancienne
+
+Apparue en Chine vers 2700 avant notre ère, l'encre au carbone est obtenue en mélangeant de la
+suie finement broyée à un liant comme la colle animale ou la gomme végétale. Simple à fabriquer,
+elle reste toutefois sensible à l'eau une fois appliquée.
+
+## L'encre au fer et à la noix de galle
+
+Fabriquée à partir de sels de fer et de tanins extraits de noix de galle, excroissances formées
+par certains insectes sur les chênes, cette encre devient permanente et résistante à l'eau en
+séchant, car elle pénètre directement dans les fibres du support. Elle a dominé l'écriture
+européenne du Moyen Âge jusqu'au début du vingtième siècle.
+
+## La plume d'oiseau, un outil taillé à la main
+
+À partir d'environ l'an 600, la plume d'oie ou de cygne devient l'instrument d'écriture le plus
+répandu en Europe. Le bout de la plume est taillé en biseau puis fendu légèrement pour retenir
+l'encre et la laisser s'écouler régulièrement sur le support.
+
+## Le calame, une alternative de roseau
+
+Avant et parallèlement à la plume, le calame, une tige de roseau taillée en pointe, servait déjà à
+écrire dans le monde méditerranéen et au Moyen-Orient. Plus rigide qu'une plume, il convient bien
+à certains styles d'écriture calligraphique.
+
+## Fabriquer une encre de fortune
+
+À défaut d'encre commerciale, mélanger de la suie de bois finement broyée avec un peu de gomme
+arabique ou de colle diluée dans l'eau donne une encre simple, utilisable avec une plume ou un
+calame taillé à la main.
+
+## À retenir
+
+- L'encre au carbone, faite de suie et de liant, est utilisée depuis environ 2700 avant notre
+  ère.
+- L'encre au fer et à la noix de galle est devenue permanente et résistante à l'eau après séchage.
+- La plume d'oiseau taillée a dominé l'écriture européenne pendant plus d'un millénaire.
+- Le calame de roseau reste une alternative plus rigide, adaptée à certaines calligraphies.
+- Une encre simple peut se fabriquer avec de la suie broyée et un liant comme la gomme arabique.
+
+[Emplacement image : une plume d'oiseau taillée trempée dans un encrier, à côté d'un calame de
+roseau, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

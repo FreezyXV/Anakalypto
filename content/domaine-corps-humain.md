@@ -2216,7 +2216,7 @@ summary: >
   façon irréversible. Des compressions thoraciques, commencées tout de suite, peuvent doubler
   les chances de survie en attendant les secours.
 tags: [premiers-secours, cardiologie, urgence, essentiel-reconstruction]
-relatedArticles: [le-coeur-et-la-circulation-du-sang, larret-cardiaque]
+relatedArticles: [coeur-circulation-sanguine, l-arret-cardiaque-et-les-gestes-qui-sauvent]
 sources:
   - title: "ERC Guidelines 2025 Basic Life Support"
     url: "https://www.sciencedirect.com/science/article/abs/pii/S0300957221002112"
@@ -2416,13 +2416,84 @@ slug: arreter-hemorragie
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
   Compression, pansement compressif, garrot : les gestes qui empêchent de perdre trop de sang.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [systeme-cardiovasculaire, secourisme, hemorragie, essentiel-reconstruction]
+relatedArticles: [soigner-plaie]
+sources:
+  - title: "Bleeding (Life-Threatening External)"
+    url: "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external"
+    publisher: "American Red Cross"
+    date: "2025"
+  - title: "How to Apply a Tourniquet"
+    url: "https://www.redcross.org/take-a-class/resources/articles/how-to-apply-a-tourniquet"
+    publisher: "American Red Cross"
+    date: "2025"
+quiz:
+  - question: "Quel est le tout premier geste face à une hémorragie importante ?"
+    options:
+      - "Poser immédiatement un garrot"
+      - "Appliquer une pression directe sur la plaie"
+      - "Surélever la victime sans rien faire d'autre"
+    answer: 2
+    explanation: >
+      La pression directe arrête la grande majorité des saignements. Le garrot n'intervient
+      que si elle ne suffit pas, sur un membre.
+  - question: "Que faire si le pansement est trempé de sang ?"
+    options:
+      - "Le retirer et en poser un nouveau"
+      - "Ajouter un pansement supplémentaire par-dessus sans retirer le premier"
+      - "Attendre qu'il sèche tout seul"
+    answer: 2
+    explanation: >
+      Retirer un pansement déjà en place relance le saignement en décollant le caillot qui
+      commence à se former en dessous.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une hémorragie importante peut tuer en moins de cinq minutes. Le premier geste, presque
+toujours efficace, est la pression directe sur la plaie. Le garrot n'intervient qu'en dernier
+recours, quand rien d'autre ne suffit.
+
+## La pression directe, le geste qui sauve
+
+Appuyer fort sur la plaie avec un tissu propre, un pansement ou même la main nue. La pression
+bloque le sang qui s'échappe et laisse le temps au corps de commencer à cicatriser.
+
+Ne pas relâcher pour vérifier : chaque interruption relance le saignement. Si le tissu est
+trempé, on en rajoute un autre par-dessus, sans retirer le premier.
+
+## Le pansement compressif
+
+Quand il faut garder les mains libres, on fixe la pression avec un bandage serré autour du
+pansement. Il doit rester ferme mais ne pas couper la circulation du reste du membre.
+
+## Le garrot, en dernier recours
+
+Sur un bras ou une jambe, si la pression directe ne suffit pas face à un saignement qui met la
+vie en danger, on pose un garrot au-dessus de la plaie, jamais sur une articulation. On note
+l'heure de pose : cette information sera cruciale pour les secours.
+
+Un garrot ne se desserre jamais une fois posé, sauf par un professionnel de santé. Le membre
+risque de souffrir, mais c'est le prix à payer pour sauver une vie.
+
+## Ce qu'il ne faut pas faire
+
+Ne pas retirer un objet planté dans la plaie : il bouche parfois lui-même une partie de la
+blessure. Éviter un garrot de fortune improvisé à la hâte si un tissu large et un bâton solide
+ne sont pas disponibles : un lien trop fin coupe la peau sans arrêter le saignement.
+
+## À retenir
+
+- La pression directe et prolongée arrête la plupart des hémorragies.
+- Ne jamais retirer un pansement déjà imbibé : on rajoute par-dessus.
+- Le garrot ne s'utilise qu'en dernier recours, sur un membre, jamais sur une articulation.
+- Une fois posé, un garrot ne se retire que par un professionnel de santé.
+- Un adulte peut mourir d'une perte de sang en moins de cinq minutes.
+
+[Emplacement image : schéma des points de pression directe et de pose d'un garrot sur un bras,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2603,13 +2674,84 @@ slug: degager-voies-respiratoires
 categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
 summary: >
   La manœuvre de Heimlich et la position latérale de sécurité : des gestes simples face à un étouffement.
-tags: [systeme-respiratoire, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [systeme-respiratoire, secourisme, etouffement, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Choking: First aid"
+    url: "https://www.mayoclinic.org/first-aid/first-aid-choking/basics/art-20056637"
+    publisher: "Mayo Clinic"
+    date: "2025"
+  - title: "Choking first aid advice for an adult"
+    url: "https://www.redcross.org.uk/first-aid/learn-first-aid/choking"
+    publisher: "British Red Cross"
+    date: "2025"
+quiz:
+  - question: "Que faire en premier si une personne tousse encore fort ?"
+    options:
+      - "La laisser tousser"
+      - "Commencer directement la manœuvre de Heimlich"
+      - "Lui taper dans le dos immédiatement"
+    answer: 1
+    explanation: >
+      Tant que la toux est efficace, l'air passe encore. C'est le mécanisme naturel le plus
+      efficace pour expulser l'objet.
+  - question: "Comment adapter les compressions chez une femme enceinte qui s'étouffe ?"
+    options:
+      - "On ne fait rien de différent"
+      - "On comprime le thorax plutôt que l'abdomen"
+      - "On attend les secours sans agir"
+    answer: 2
+    explanation: >
+      Comprimer le ventre d'une femme enceinte est dangereux pour elle et le fœtus : on déplace
+      le point de compression sur le thorax.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand quelqu'un s'étouffe, l'air ne passe plus. La personne ne peut ni parler ni tousser fort.
+Quelques gestes précis, appris en quelques minutes, peuvent dégager les voies respiratoires en
+quelques secondes.
+
+## Reconnaître un étouffement grave
+
+Si la personne tousse fort ou peut encore parler, l'air passe encore un peu : on la laisse
+tousser, c'est le meilleur réflexe naturel. Le danger commence quand elle porte les mains à sa
+gorge, ne peut plus émettre aucun son, ni respirer.
+
+## Les claques dans le dos
+
+Pencher la personne en avant, soutenir son torse d'une main, et donner cinq claques fermes entre
+les omoplates avec le talon de l'autre main. Le choc et la gravité aident souvent à expulser
+l'objet.
+
+## La manœuvre de Heimlich
+
+Si les claques ne suffisent pas, se placer derrière la personne, un poing fermé juste au-dessus
+du nombril, l'autre main par-dessus. Tirer brusquement vers soi et vers le haut, cinq fois. L'air
+restant dans les poumons est chassé d'un coup et peut éjecter l'objet coincé.
+
+Alterner cinq claques dans le dos et cinq compressions abdominales jusqu'à ce que l'objet
+ressorte ou que la personne puisse à nouveau respirer.
+
+## Si la personne perd connaissance
+
+Allonger la personne au sol et commencer une réanimation cardio-pulmonaire. Chaque fois qu'on
+ouvre les voies respiratoires pour insuffler de l'air, regarder si l'objet est visible dans la
+bouche avant de le retirer avec un doigt.
+
+## À retenir
+
+- Si la personne tousse encore, la laisser tousser : c'est le geste naturel le plus efficace.
+- Cinq claques dans le dos, puis cinq compressions abdominales, en alternance.
+- La manœuvre de Heimlich ne s'utilise que si la personne ne peut plus respirer du tout.
+- Chez une femme enceinte ou une personne très corpulente, les compressions se font sur le
+  thorax, pas sur le ventre.
+- Une perte de connaissance impose de commencer immédiatement une réanimation.
+
+[Emplacement image : séquence des claques dans le dos puis de la manœuvre de Heimlich, légende
+et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2654,13 +2796,88 @@ slug: deshydratation-solute-rehydratation
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
   Un mélange d'eau, de sel et de sucre qui a sauvé des millions de vies lors des diarrhées.
-tags: [systeme-digestif, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [systeme-digestif, secourisme, dehydratation, essentiel-reconstruction]
+relatedArticles: [cholera-eau-contaminee]
+sources:
+  - title: "Oral Rehydration Therapy"
+    url: "https://www.merckmanuals.com/professional/pediatrics/dehydration-and-fluid-therapy-in-children/oral-rehydration-therapy"
+    publisher: "Merck Manual Professional Edition"
+    date: "2025"
+  - title: "Diarrhoea Treatment Guidelines Including new recommendations"
+    url: "https://cdn.who.int/media/docs/default-source/2021-dha-docs/pnadk428.pdf"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le soluté de réhydratation orale contient-il du sucre en plus du sel ?"
+    options:
+      - "Pour améliorer le goût uniquement"
+      - "Le glucose aide l'intestin à mieux absorber le sodium et donc l'eau"
+      - "Pour donner de l'énergie rapidement au malade"
+    answer: 2
+    explanation: >
+      Le glucose facilite le transport actif du sodium à travers la paroi intestinale, ce qui
+      entraîne l'eau avec lui et permet une meilleure réhydratation.
+  - question: "Quelle proportion de malades sévèrement déshydratés le soluté de réhydratation
+      orale permet-il de traiter sans perfusion ?"
+    options:
+      - "Environ 10 %"
+      - "Environ 50 %"
+      - "Environ 90 %"
+    answer: 3
+    explanation: >
+      Selon les estimations médicales, le soluté de réhydratation orale peut à lui seul traiter
+      environ neuf malades sur dix qui, auparavant, auraient nécessité une perfusion.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une diarrhée importante fait perdre à la fois de l'eau et des sels minéraux essentiels. Boire de
+l'eau seule ne suffit pas toujours à compenser cette perte. Un mélange précis d'eau, de sel et de
+sucre, mis au point dans les années 1960, sauve chaque année des millions de vies.
+
+## Pourquoi l'eau seule ne suffit pas toujours
+
+Le corps a besoin de sodium et de potassium pour que l'eau reste bien absorbée par l'intestin et
+reste dans l'organisme. Lors d'une diarrhée sévère, ces sels sont perdus en même temps que l'eau.
+Boire de l'eau pure sans les remplacer peut même diluer davantage le sel restant dans le sang.
+
+## La formule qui a changé la médecine
+
+Le soluté de réhydratation orale recommandé par l'Organisation mondiale de la santé associe du
+glucose, du chlorure de sodium, du chlorure de potassium et du citrate de sodium, dilués dans un
+litre d'eau propre. Le glucose aide le corps à mieux absorber le sodium à travers la paroi
+intestinale.
+
+Cette découverte est considérée comme l'une des avancées médicales les plus importantes du
+vingtième siècle : elle peut à elle seule réhydrater environ neuf malades sur dix qui, avant son
+invention, auraient nécessité une perfusion.
+
+## Préparer un soluté de fortune
+
+À défaut de sachet tout prêt, un mélange approximatif peut se préparer avec un litre d'eau
+propre, six cuillères à café rases de sucre et une demi-cuillère à café rase de sel. Ce n'est pas
+aussi précis que la formule officielle, mais cela reste utile en attendant mieux.
+
+## Reconnaître une déshydratation
+
+Une bouche sèche, une soif intense, des urines rares et foncées, une grande fatigue ou des
+vertiges signalent une déshydratation. Chez un jeune enfant, l'absence de larmes en pleurant ou
+une fontanelle creusée sont des signes plus graves qui nécessitent une prise en charge rapide.
+
+## À retenir
+
+- La diarrhée fait perdre à la fois de l'eau et des sels minéraux essentiels.
+- Le soluté de réhydratation orale combine eau, sel, potassium et sucre dans des proportions
+  précises.
+- Le glucose aide le corps à mieux absorber le sodium et donc l'eau.
+- À défaut de sachet officiel, un litre d'eau, six cuillères à café de sucre et une demi-cuillère
+  de sel peuvent dépanner.
+- Bouche sèche, urines rares et fatigue intense sont les premiers signes à surveiller.
+
+[Emplacement image : proportions d'eau, de sel et de sucre pour préparer un soluté de
+réhydratation orale, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2671,13 +2888,86 @@ slug: vitamines-carences
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
   Scorbut, béribéri, rachitisme : ce qui arrive quand un aliment essentiel manque.
-tags: [systeme-digestif, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [systeme-digestif, vitamines, carence, essentiel-reconstruction]
+relatedArticles: [besoins-nutritionnels-base]
+sources:
+  - title: "Vitamin Deficiency Types, Symptoms, Diagnosis"
+    url: "https://my.clevelandclinic.org/health/diseases/vitamin-deficiency"
+    publisher: "Cleveland Clinic"
+    date: "2025"
+  - title: "Scurvy: Symptoms, causes, treatment, and prevention"
+    url: "https://www.medicalnewstoday.com/articles/155758"
+    publisher: "Medical News Today"
+    date: "2025"
+quiz:
+  - question: "Le scorbut est causé par le manque de quelle vitamine ?"
+    options:
+      - "La vitamine A"
+      - "La vitamine C"
+      - "La vitamine D"
+    answer: 2
+    explanation: >
+      Le scorbut survient quand l'alimentation manque durablement de vitamine C, une substance
+      que le corps humain ne peut pas fabriquer lui-même et doit obtenir par la nourriture.
+  - question: "Quel type de symptôme une carence en vitamine A peut-elle provoquer en premier ?"
+    options:
+      - "Des troubles de la vision, notamment dans l'obscurité"
+      - "Une perte totale du goût"
+      - "Une croissance excessive des cheveux"
+    answer: 1
+    explanation: >
+      La vitamine A joue un rôle essentiel dans la vision. Sa carence provoque souvent d'abord
+      une difficulté à voir en faible lumière, avant d'autres symptômes plus graves.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le corps humain ne peut pas fabriquer la plupart des vitamines lui-même : il doit les obtenir
+par l'alimentation. Quand un aliment essentiel manque durablement, des maladies précises et bien
+identifiées apparaissent, parfois après plusieurs semaines seulement.
+
+## Le scorbut, la maladie du manque de vitamine C
+
+Sans vitamine C, apportée notamment par les fruits et légumes frais, le corps ne parvient plus à
+fabriquer correctement le collagène, une protéine essentielle aux tissus. Cela provoque fatigue,
+gencives qui saignent, bleus qui apparaissent facilement et cicatrisation ralentie.
+
+## Le béribéri et la carence en vitamine B1
+
+Une alimentation basée presque uniquement sur du riz blanchi, dépourvu de son enveloppe riche en
+vitamine B1, peut provoquer le béribéri : faiblesse musculaire, troubles nerveux et, dans les cas
+graves, des problèmes cardiaques.
+
+## Le rachitisme et le manque de vitamine D
+
+Chez l'enfant, un manque prolongé de vitamine D, produite en partie par la peau exposée au
+soleil, empêche les os de se minéraliser correctement, provoquant des déformations appelées
+rachitisme.
+
+## D'autres carences fréquentes
+
+Le manque de vitamine A affecte d'abord la vision, en particulier dans l'obscurité. Une carence
+en fer, bien qu'il ne s'agisse pas d'une vitamine, provoque une anémie qui se traduit par une
+fatigue intense et un essoufflement.
+
+## Prévenir une carence sans complément alimentaire
+
+Varier son alimentation entre légumes, fruits, céréales complètes et sources de protéines
+diverses couvre généralement les besoins de base. L'exposition régulière de la peau au soleil
+complète les apports en vitamine D quand l'alimentation seule ne suffit pas.
+
+## À retenir
+
+- Le corps ne fabrique pas la plupart des vitamines : il doit les obtenir par l'alimentation.
+- Le scorbut résulte d'un manque de vitamine C, présente dans les fruits et légumes frais.
+- Le béribéri touche les personnes se nourrissant presque uniquement de riz blanchi.
+- Le rachitisme, chez l'enfant, résulte d'un manque de vitamine D et déforme les os.
+- Varier son alimentation et s'exposer au soleil couvre la plupart des besoins de base.
+
+[Emplacement image : tableau illustrant les principales carences en vitamines et les aliments qui
+les préviennent, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2722,13 +3012,90 @@ slug: besoins-nutritionnels-base
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
   Calories, protéines, graisses, vitamines, minéraux : de quoi un corps a besoin pour vivre en bonne santé.
-tags: [systeme-digestif, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [systeme-digestif, nutrition, alimentation, essentiel-reconstruction]
+relatedArticles: [vitamines-carences]
+sources:
+  - title: "Healthy diet"
+    url: "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+  - title: "6 Essential Nutrients and Why Your Body Needs Them"
+    url: "https://www.healthline.com/health/food-nutrition/six-essential-nutrients"
+    publisher: "Healthline"
+    date: "2025"
+quiz:
+  - question: "Quels sont les trois macronutriments qui fournissent l'énergie au corps ?"
+    options:
+      - "Les vitamines, les minéraux et l'eau"
+      - "Les glucides, les protéines et les graisses"
+      - "Le fer, le calcium et le zinc"
+    answer: 2
+    explanation: >
+      Les glucides, les protéines et les graisses sont appelés macronutriments car ils sont
+      nécessaires en grande quantité et fournissent l'énergie utilisée par le corps.
+  - question: "Selon les recommandations générales, quelle part de l'énergie quotidienne
+      devraient représenter les protéines ?"
+    options:
+      - "Entre 10 et 35 %"
+      - "Environ 90 %"
+      - "Moins de 1 %"
+    answer: 1
+    explanation: >
+      Les recommandations nutritionnelles générales situent l'apport en protéines entre 10 et
+      35 % de l'énergie quotidienne totale, le reste provenant des glucides et des graisses.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un corps humain a besoin chaque jour d'une combinaison précise de nutriments pour fonctionner
+correctement : de l'énergie pour bouger et réfléchir, des matériaux pour se réparer, et de petites
+quantités de substances essentielles au bon fonctionnement de chaque cellule.
+
+## Les macronutriments, l'énergie du corps
+
+Les glucides, les protéines et les graisses fournissent l'essentiel de l'énergie quotidienne. Les
+glucides et les graisses couvrent la majorité des besoins énergétiques, tandis que les protéines
+servent aussi à construire et réparer les tissus, notamment les muscles.
+
+## Les micronutriments, en petites quantités mais indispensables
+
+Une trentaine de vitamines et de minéraux, dont le fer, l'iode et le zinc, ne fournissent pas
+d'énergie mais restent indispensables au fonctionnement de nombreux processus internes, de la
+formation du sang à la solidité des os.
+
+## Combien de calories par jour
+
+Les besoins énergétiques quotidiens varient selon l'âge, le sexe, le poids et le niveau
+d'activité physique, mais un repère couramment utilisé situe les besoins de base autour de deux
+mille deux cents calories par jour pour un adulte moyen.
+
+## Un équilibre plutôt qu'un aliment miracle
+
+Aucun aliment unique ne couvre tous les besoins du corps. La diversité alimentaire, en combinant
+céréales, légumineuses, légumes, fruits et sources de protéines variées, reste la meilleure
+garantie contre les carences, bien plus fiable qu'un seul aliment jugé complet.
+
+## Reconnaître un déséquilibre nutritionnel
+
+Une fatigue persistante, une perte de poids inexpliquée, une cicatrisation lente ou une
+sensibilité accrue aux infections peuvent signaler un déséquilibre nutritionnel, qu'il s'agisse
+d'un manque global de nourriture ou d'un déséquilibre entre les différents nutriments consommés.
+
+## À retenir
+
+- Le corps a besoin chaque jour de macronutriments pour l'énergie et de micronutriments en
+  petites quantités.
+- Glucides, protéines et graisses fournissent l'essentiel de l'énergie quotidienne.
+- Une trentaine de vitamines et minéraux restent indispensables malgré leur faible quantité
+  nécessaire.
+- Un repère courant situe les besoins énergétiques d'un adulte autour de deux mille deux cents
+  calories par jour.
+- La diversité alimentaire protège mieux contre les carences qu'un seul aliment jugé complet.
+
+[Emplacement image : assiette équilibrée illustrant les proportions de glucides, protéines,
+graisses et légumes recommandées, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3147,13 +3514,88 @@ slug: cholera-eau-contaminee
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
   John Snow et la pompe de Broad Street : l'enquête qui a fondé l'épidémiologie en 1854.
-tags: [maladies-infectieuses, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [maladies-infectieuses, eau, cholera, essentiel-reconstruction]
+relatedArticles: [deshydratation-solute-rehydratation]
+sources:
+  - title: "Cholera"
+    url: "https://www.who.int/news-room/fact-sheets/detail/cholera"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+  - title: "Understanding Cholera: Causes, Symptoms, and Treatment"
+    url: "https://www.paho.org/en/topics/cholera"
+    publisher: "Pan American Health Organization"
+    date: "2025"
+quiz:
+  - question: "Comment John Snow a-t-il identifié l'origine de l'épidémie de choléra de 1854 à
+      Londres ?"
+    options:
+      - "Il a découvert la bactérie au microscope"
+      - "Il a repéré sur une carte que les décès se concentraient autour d'une pompe à eau"
+      - "Il a interrogé directement le gouvernement britannique"
+    answer: 2
+    explanation: >
+      Sans connaître encore la bactérie responsable, Snow a utilisé une carte des décès pour
+      repérer que la plupart des cas se trouvaient près d'une seule pompe, celle de Broad Street.
+  - question: "Qu'est-ce qui tue le plus souvent un malade du choléra non traité ?"
+    options:
+      - "La bactérie elle-même attaque directement les organes"
+      - "La déshydratation causée par la diarrhée massive"
+      - "La fièvre élevée"
+    answer: 2
+    explanation: >
+      Le choléra provoque une perte d'eau si rapide et si importante que la déshydratation, et
+      non la bactérie directement, représente le danger vital principal.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le choléra est une infection intestinale violente causée par une bactérie transmise par de l'eau
+ou des aliments contaminés par des matières fécales. En 1854, une enquête menée à Londres a
+permis de comprendre pour la première fois comment la maladie se propageait, avant même la
+découverte du microbe responsable.
+
+## Une maladie de l'eau sale
+
+La bactérie responsable, Vibrio cholerae, se transmet quand une personne boit de l'eau ou mange
+des aliments contaminés par les selles d'une personne infectée. Sans accès à l'eau potable ni à
+des toilettes propres, l'infection se propage très rapidement dans une population.
+
+## L'enquête de John Snow
+
+En 1854, une épidémie de choléra frappe le quartier de Soho à Londres. Le médecin John Snow, en
+pointant sur une carte chaque décès, remarque qu'ils sont concentrés autour d'une seule pompe à
+eau, dans Broad Street. Il convainc les autorités de retirer la poignée de la pompe : l'épidémie
+recule.
+
+À l'époque, personne ne connaissait encore la bactérie responsable. Snow avait deviné, par la
+seule observation des faits, que l'eau était en cause. Ce travail est aujourd'hui considéré comme
+l'un des actes fondateurs de l'épidémiologie moderne.
+
+## Les symptômes et le danger réel
+
+Le choléra provoque une diarrhée aqueuse très abondante, parfois plusieurs litres par jour,
+accompagnée de vomissements. Le vrai danger n'est pas la bactérie elle-même mais la
+déshydratation extrêmement rapide qu'elle cause : une personne peut mourir en quelques heures
+sans traitement.
+
+## Prévenir et soigner
+
+L'accès à une eau potable et à des installations sanitaires propres reste la meilleure
+prévention. En cas d'infection, le traitement principal est le soluté de réhydratation orale,
+complété par des antibiotiques dans les cas les plus graves.
+
+## À retenir
+
+- Le choléra se transmet par de l'eau ou des aliments contaminés par des matières fécales.
+- En 1854, John Snow a retracé une épidémie à Londres jusqu'à une seule pompe à eau contaminée.
+- Ce travail a posé les bases de l'épidémiologie moderne, avant même la découverte du microbe.
+- Le danger principal du choléra est la déshydratation rapide, pas la bactérie elle-même.
+- L'eau potable et les toilettes propres restent la meilleure protection contre la maladie.
+
+[Emplacement image : carte de John Snow situant les cas de choléra autour de la pompe de Broad
+Street en 1854, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3164,13 +3606,80 @@ slug: soigner-plaie
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
   Nettoyer, désinfecter, surveiller : éviter qu'une blessure ne s'infecte.
-tags: [maladies-infectieuses, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [maladies-infectieuses, secourisme, plaie, essentiel-reconstruction]
+relatedArticles: [arreter-hemorragie]
+sources:
+  - title: "Cuts and scrapes: First aid"
+    url: "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711"
+    publisher: "Mayo Clinic"
+    date: "2025"
+  - title: "Prevention and management of wound infection"
+    url: "https://www.who.int/docs/default-source/documents/publications/prevention-and-management-of-wound-infection.pdf"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+quiz:
+  - question: "Pourquoi faut-il éviter de mettre du savon directement dans une plaie ouverte ?"
+    options:
+      - "Le savon irrite les tissus à vif et retarde la cicatrisation"
+      - "Le savon attire les microbes"
+      - "Le savon empêche le sang de coaguler"
+    answer: 1
+    explanation: >
+      Le savon sert à nettoyer la peau autour de la plaie, mais il irrite les tissus à
+      l'intérieur de la blessure elle-même.
+  - question: "Quel signe indique qu'une plaie s'infecte ?"
+    options:
+      - "Une légère douleur qui diminue chaque jour"
+      - "Une rougeur qui s'étend et du pus"
+      - "Une petite croûte qui se forme"
+    answer: 2
+    explanation: >
+      Une croûte est un signe normal de cicatrisation. Une rougeur qui s'étend et du pus
+      signalent au contraire une infection.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une plaie mal soignée s'infecte facilement : les microbes profitent de la peau ouverte pour
+entrer dans le corps. Quatre gestes simples, faits dans l'ordre, réduisent énormément ce risque.
+
+## Se laver les mains avant tout
+
+Avant de toucher la moindre plaie, se laver les mains à l'eau et au savon pendant au moins vingt
+secondes. Les mains sont l'une des principales sources de microbes transmis à une blessure
+ouverte.
+
+## Nettoyer la plaie à l'eau
+
+Rincer abondamment sous l'eau courante pour emporter la terre, les graviers ou les éclats. Laver
+la peau autour avec du savon, sans faire pénétrer de savon dans la plaie elle-même, ce qui irrite
+les tissus à vif.
+
+Retirer les débris visibles avec une pince propre, désinfectée à l'alcool si possible.
+
+## Protéger sans étouffer
+
+Appliquer une fine couche de pommade antibiotique ou de vaseline pour garder la plaie humide, ce
+qui favorise la cicatrisation, puis couvrir d'un pansement propre. Changer le pansement chaque
+jour, ou dès qu'il est mouillé ou sale.
+
+## Surveiller les signes d'infection
+
+Une rougeur qui s'étend, une chaleur locale, un gonflement, du pus ou une douleur qui augmente
+au lieu de diminuer sont des signes d'alerte. Une fièvre associée à ces symptômes impose de
+consulter rapidement.
+
+## À retenir
+
+- Se laver les mains avant de toucher une plaie, c'est le geste le plus important.
+- Rincer à l'eau claire, laver autour au savon, ne jamais mettre de savon dans la plaie.
+- Garder la plaie propre et humide sous un pansement changé chaque jour.
+- Rougeur qui s'étend, chaleur, pus ou fièvre sont les signaux d'une infection à surveiller.
+
+[Emplacement image : les quatre étapes du soin d'une plaie, du lavage des mains au pansement,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3232,13 +3741,89 @@ slug: maladies-transmises-eau-aliments
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
   Typhoïde, dysenterie, hépatite A : les prévenir par l'hygiène et la cuisson.
-tags: [maladies-infectieuses, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [maladies-infectieuses, hygiene, eau, essentiel-reconstruction]
+relatedArticles: [cholera-eau-contaminee]
+sources:
+  - title: "Seven Common Waterborne Diseases (and How to Prevent Them)"
+    url: "https://waterforgood.org/7-most-common-waterborne-diseases-and-how-to-prevent-them/"
+    publisher: "Water for Good"
+    date: "2025"
+  - title: "FSHN0514 Preventing Foodborne Illness: Typhoid Fever - Salmonella Typhi"
+    url: "https://www.nifa.usda.gov/sites/default/files/resource/Preventing-Foodborne-Illness-Salmonella-typhi.pdf"
+    publisher: "USDA National Institute of Food and Agriculture"
+    date: "2025"
+quiz:
+  - question: "Comment la typhoïde se transmet-elle principalement ?"
+    options:
+      - "Par les piqûres d'insectes"
+      - "En ingérant de l'eau ou des aliments contaminés par des matières fécales humaines"
+      - "Par contact direct avec la peau d'une personne malade"
+    answer: 2
+    explanation: >
+      La typhoïde se transmet uniquement par ingestion d'eau ou d'aliments contaminés par des
+      matières fécales contenant la bactérie responsable de la maladie.
+  - question: "Quelle mesure simple réduit fortement le risque de maladies transmises par les
+      aliments ?"
+    options:
+      - "Consommer uniquement des aliments crus"
+      - "Se laver les mains et bien cuire les aliments"
+      - "Manger le plus rapidement possible"
+    answer: 2
+    explanation: >
+      Le lavage des mains et une cuisson suffisante des aliments éliminent la grande majorité des
+      agents pathogènes responsables des maladies transmises par l'eau et la nourriture.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Plusieurs maladies graves se transmettent de la même façon : par de l'eau ou des aliments
+contaminés par des matières fécales. Typhoïde, dysenterie et hépatite A en font partie, mais
+toutes se préviennent efficacement par des gestes d'hygiène simples.
+
+## La typhoïde, une bactérie transmise par les matières fécales
+
+La typhoïde se transmet uniquement par l'ingestion d'eau ou d'aliments contaminés par les
+matières fécales d'une personne infectée. Elle provoque une fièvre prolongée, des douleurs
+abdominales et, sans traitement, des complications graves.
+
+## La dysenterie, une inflammation intestinale sévère
+
+Causée par une bactérie ou un parasite, la dysenterie provoque une diarrhée souvent
+accompagnée de sang, des crampes intenses, de la fièvre et des vomissements. Comme la typhoïde,
+elle se transmet par l'eau et les aliments souillés.
+
+## L'hépatite A, une infection du foie
+
+Ce virus se transmet par les mêmes voies : eau et aliments contaminés, notamment des fruits de
+mer insuffisamment cuits ou des produits lavés avec une eau souillée. Il provoque une
+inflammation du foie qui peut rendre la peau et les yeux jaunes.
+
+## La cuisson, une protection très efficace
+
+La chaleur détruit la grande majorité des bactéries, virus et parasites responsables de ces
+maladies. Bien cuire viandes, œufs et légumes, et éviter les aliments crus d'origine douteuse,
+réduit fortement le risque d'infection.
+
+## L'hygiène des mains et de l'eau
+
+Se laver les mains au savon avant de manger et après être allé aux toilettes, ainsi que
+consommer une eau traitée ou bouillie, coupent la chaîne de transmission de ces maladies à leur
+point de départ.
+
+## À retenir
+
+- Typhoïde, dysenterie et hépatite A se transmettent toutes par l'eau ou les aliments
+  contaminés par des matières fécales.
+- La typhoïde provoque une fièvre prolongée, la dysenterie une diarrhée souvent sanglante.
+- L'hépatite A touche le foie et peut jaunir la peau et les yeux.
+- Bien cuire les aliments détruit la grande majorité des agents responsables de ces maladies.
+- Le lavage des mains et une eau traitée coupent la chaîne de transmission à sa source.
+
+[Emplacement image : les gestes d'hygiène essentiels, lavage des mains et cuisson des aliments,
+pour prévenir les maladies transmises par l'eau et la nourriture, légende et texte alternatif à
+fournir ultérieurement.]
 
 ---
 
@@ -3334,13 +3919,92 @@ slug: stress-post-traumatique
 categoryPath: corps-humain-et-sante/maladies/sante-mentale
 summary: >
   Après un choc, des souvenirs qui reviennent sans cesse : reconnaître et soigner le traumatisme.
-tags: [sante-mentale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [sante-mentale, traumatisme, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Post-traumatic stress disorder (PTSD) - Symptoms and causes"
+    url: "https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967"
+    publisher: "Mayo Clinic"
+    date: "2025"
+  - title: "Post-traumatic stress disorder"
+    url: "https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder"
+    publisher: "Organisation mondiale de la santé"
+    date: "2025"
+quiz:
+  - question: "Quel type d'événement peut déclencher un stress post-traumatique ?"
+    options:
+      - "Uniquement les combats militaires"
+      - "Tout événement impliquant un danger de mort ou une atteinte physique grave, vécu ou
+        observé"
+      - "Uniquement les événements vécus dans l'enfance"
+    answer: 2
+    explanation: >
+      Le stress post-traumatique peut survenir après une agression, un accident, une catastrophe
+      naturelle ou tout événement où la vie ou l'intégrité physique d'une personne a été
+      menacée, qu'elle l'ait vécu ou observé.
+  - question: "Quel est le traitement principal du stress post-traumatique ?"
+    options:
+      - "Le repos complet sans aucune activité"
+      - "La thérapie par la parole, parfois associée à un traitement médicamenteux"
+      - "L'isolement total de toute personne extérieure"
+    answer: 2
+    explanation: >
+      La psychothérapie, sous diverses formes, constitue le traitement principal du stress
+      post-traumatique, parfois complétée par des médicaments prescrits par un professionnel.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Après un événement violent ou dangereux, certaines personnes continuent d'en revivre les images
+et les émotions bien après que le danger est passé. Ce trouble, appelé stress post-traumatique,
+est une réaction reconnue et traitable, pas un signe de faiblesse.
+
+## Ce qui peut déclencher ce trouble
+
+Une agression, un accident grave, une catastrophe naturelle, un conflit armé, ou le fait
+d'assister à la mort ou à la souffrance d'autrui, peuvent tous déclencher un stress
+post-traumatique, chez la victime directe comme chez un témoin.
+
+## Les symptômes principaux
+
+La personne revit l'événement à travers des souvenirs intrusifs ou des cauchemars, évite les
+situations qui le rappellent, reste dans un état de vigilance excessive, et peut présenter des
+troubles du sommeil, de l'irritabilité ou un sentiment de culpabilité intense.
+
+## Pourquoi ce trouble persiste chez certaines personnes
+
+Toute personne exposée à un événement traumatique ne développe pas ce trouble. Des facteurs comme
+des expositions antérieures à l'adversité, en particulier durant l'enfance, augmentent le risque,
+sans que cela reflète une quelconque faiblesse personnelle.
+
+## Le rôle de la thérapie par la parole
+
+Différentes formes de psychothérapie aident la personne à traiter progressivement les souvenirs
+traumatiques plutôt que de les éviter, réduisant peu à peu leur intensité émotionnelle. Un
+traitement médicamenteux peut compléter cette approche dans certains cas.
+
+## L'importance d'un soutien précoce
+
+Plus la prise en charge commence tôt après l'événement, plus elle a de chances d'être efficace.
+Le soutien de l'entourage, sans forcer la personne à revivre l'événement avant qu'elle ne soit
+prête, joue aussi un rôle important dans le rétablissement.
+
+## À retenir
+
+- Le stress post-traumatique peut survenir après tout événement mettant en danger la vie ou
+  l'intégrité physique, vécu ou observé.
+- Les symptômes incluent souvenirs intrusifs, évitement, vigilance excessive et troubles du
+  sommeil.
+- Ce trouble ne reflète pas une faiblesse personnelle, mais une réaction reconnue et traitable.
+- La thérapie par la parole reste le traitement principal, parfois associée à des médicaments.
+- Une prise en charge précoce et un soutien de l'entourage améliorent les chances de
+  rétablissement.
+
+[Emplacement image : représentation symbolique d'une personne accompagnée par un professionnel
+de santé mentale dans un cadre bienveillant, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 

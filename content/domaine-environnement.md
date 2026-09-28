@@ -2093,7 +2093,7 @@ summary: >
   Faire bouillir de l'eau une minute tue l'essentiel des microbes qui la rendent dangereuse.
   Le reste — la clarté, le goût, les polluants chimiques — demande d'autres méthodes.
 tags: [eau, potabilisation, hygiene, survie, essentiel-reconstruction]
-relatedArticles: [dechets-et-recyclage, le-stress-hydrique-dans-le-monde]
+relatedArticles: [stress-hydrique-mondial]
 sources:
   - title: "Household Water Treatment"
     url: "https://www.cdc.gov/global-water-sanitation-hygiene/about/about-household-water-treatment.html"
@@ -2205,13 +2205,88 @@ slug: traitement-eaux-usees
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
   Comment une station d'épuration nettoie l'eau avant de la rendre à la rivière.
-tags: [eau, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [eau, assainissement, essentiel-reconstruction]
+relatedArticles: [recuperer-eau-pluie]
+sources:
+  - title: "Primary, Secondary, and Tertiary Wastewater Treatment: How Do They Work?"
+    url: "https://www.organicawater.com/primary-secondary-tertiary-wastewater-treatment-work/"
+    publisher: "Organica Water"
+    date: "2025"
+  - title: "What are the Three Stages of Wastewater Treatment?"
+    url: "https://www.membracon.co.uk/blog/what-are-the-three-stages-of-wastewater-treatment/"
+    publisher: "Membracon"
+    date: "2025"
+quiz:
+  - question: "Comment le traitement secondaire élimine-t-il les matières organiques dissoutes
+      dans l'eau ?"
+    options:
+      - "Par filtration mécanique fine"
+      - "Grâce à des bactéries qui les digèrent"
+      - "Par simple évaporation"
+    answer: 2
+    explanation: >
+      Le traitement secondaire repose sur des colonies de bactéries qui se nourrissent des
+      matières organiques encore présentes dans l'eau, la purifiant biologiquement.
+  - question: "Que risque une rivière qui reçoit des eaux usées non traitées ?"
+    options:
+      - "Elle devient plus froide"
+      - "L'excès de matières organiques épuise l'oxygène disponible pour la vie aquatique"
+      - "Rien de particulier à court terme"
+    answer: 2
+    explanation: >
+      La digestion de matières organiques en excès consomme l'oxygène dissous dans l'eau, ce qui
+      peut asphyxier poissons et autres organismes aquatiques.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chaque jour, les eaux usées d'une ville transportent déchets, matières organiques et microbes.
+Avant de rejoindre une rivière, elles passent par plusieurs étapes de nettoyage dans une station
+d'épuration.
+
+## Le traitement primaire, un tri physique
+
+L'eau arrive d'abord dans des grilles qui retiennent les gros déchets, puis dans un bassin où
+elle ralentit. La gravité fait le reste : les matières lourdes tombent au fond en boues, les
+graisses et les huiles remontent à la surface, où elles sont écumées.
+
+## Le traitement secondaire, un travail de microbes
+
+L'eau passe ensuite dans des bassins où vivent des colonies de bactéries. Ces micro-organismes se
+nourrissent des matières organiques encore dissoutes dans l'eau, les mêmes sucres et graisses qui
+la rendaient polluante. En digérant ces déchets, les bactéries purifient l'eau presque
+naturellement.
+
+## Le traitement tertiaire, la finition
+
+Une dernière étape, pas toujours systématique, retire l'azote et le phosphore restants, filtre
+les dernières particules fines, puis désinfecte l'eau, par exemple avec des rayons ultraviolets
+ou du chlore, pour éliminer les microbes restants avant le rejet.
+
+## Que deviennent les boues
+
+Les matières solides récupérées lors du traitement primaire et secondaire, appelées boues, sont
+elles-mêmes traitées : séchées, parfois utilisées comme engrais après contrôle, ou incinérées.
+
+## Pourquoi c'est indispensable
+
+Sans ce traitement, les eaux usées rejetées directement dans une rivière y apporteraient des
+microbes pathogènes et un excès de matières organiques qui asphyxierait la vie aquatique en
+consommant tout l'oxygène disponible.
+
+## À retenir
+
+- Le traitement primaire retire les déchets solides par simple gravité.
+- Le traitement secondaire utilise des bactéries pour digérer les matières organiques dissoutes.
+- Le traitement tertiaire, quand il existe, retire azote, phosphore et derniers microbes.
+- Les boues récupérées sont elles-mêmes traitées, parfois valorisées comme engrais.
+- Sans traitement, l'eau rejetée étoufferait la vie aquatique en épuisant l'oxygène de la
+  rivière.
+
+[Emplacement image : schéma des trois étapes d'une station d'épuration, du bassin de
+décantation au rejet en rivière, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2239,13 +2314,89 @@ slug: recuperer-eau-pluie
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
   Collecte, stockage, usages possibles et précautions sanitaires.
-tags: [eau, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [eau, recuperation, essentiel-reconstruction]
+relatedArticles: [traitement-eaux-usees]
+sources:
+  - title: "Rainwater Harvesting Systems Technology Review"
+    url: "https://www.energy.gov/cmei/femp/rainwater-harvesting-systems-technology-review"
+    publisher: "U.S. Department of Energy"
+    date: "2025"
+  - title: "First Flush Filters - Rainwater Collection and Stormwater Management"
+    url: "https://www.rainharvest.com/filtration/pre-filtration/first-flush-filters.asp"
+    publisher: "RainHarvest Systems"
+    date: "2025"
+quiz:
+  - question: "Pourquoi faut-il détourner les premières minutes de pluie avant qu'elles
+      n'atteignent la cuve ?"
+    options:
+      - "Parce qu'elles contiennent moins d'eau"
+      - "Parce qu'elles rincent le toit et sont les plus chargées en poussière et déjections"
+      - "Parce qu'elles sont trop froides"
+    answer: 2
+    explanation: >
+      Le toit accumule poussières, feuilles et déjections d'oiseaux entre deux pluies. Les
+      premières minutes d'averse les emportent, d'où l'intérêt de les détourner avant le stockage.
+  - question: "Que faut-il faire pour rendre potable de l'eau de pluie récupérée simplement ?"
+    options:
+      - "Rien, elle est déjà potable"
+      - "La laisser reposer une nuit"
+      - "La filtrer finement puis la désinfecter"
+    answer: 3
+    explanation: >
+      Sans étape supplémentaire, l'eau de pluie collectée convient à l'arrosage ou au nettoyage,
+      mais pas à la consommation directe : il faut une filtration fine suivie d'une désinfection.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Récupérer l'eau de pluie qui tombe sur un toit est l'une des méthodes les plus simples pour se
+constituer une réserve d'eau. Bien faite, elle fournit une eau utile pour de nombreux usages ;
+mal faite, elle peut aussi transporter des microbes et des polluants.
+
+## Le principe général
+
+L'eau qui ruisselle sur un toit est collectée par des gouttières, puis acheminée vers une cuve de
+stockage. Trois éléments suffisent : une surface de collecte, un système de filtration, et un
+réservoir.
+
+## Le problème des premières minutes de pluie
+
+Les premières minutes d'une averse rincent le toit de la poussière, des feuilles mortes et des
+déjections d'oiseaux accumulées depuis la dernière pluie. Cette eau, la plus sale, doit être
+détournée avant de rejoindre la cuve : c'est le rôle d'un dispositif appelé première chasse, qui
+dévie automatiquement les premiers litres vers l'extérieur.
+
+## Filtrer avant de stocker
+
+Une grille à l'entrée de la gouttière retient les feuilles et les gros débris. Un filtre plus
+fin, placé avant l'entrée de la cuve, arrête les particules restantes. Ces étapes protègent la
+qualité de l'eau stockée et évitent d'encrasser le réservoir.
+
+## Ce que l'on peut faire avec cette eau
+
+Sans traitement supplémentaire, l'eau de pluie récupérée convient pour arroser un jardin, laver
+du linge ou nettoyer un sol. La rendre potable demande une étape en plus : filtration fine et
+désinfection, par exemple par ébullition ou par des pastilles purifiantes.
+
+## Précautions sanitaires
+
+Un toit couvert de bitume ou traité chimiquement peut libérer des substances indésirables dans
+l'eau collectée. La cuve doit rester à l'abri de la lumière pour éviter le développement
+d'algues, et être nettoyée régulièrement.
+
+## À retenir
+
+- Trois éléments suffisent : surface de collecte, filtration, stockage.
+- Les premières minutes de pluie, les plus sales, doivent être détournées avant la cuve.
+- Sans traitement, l'eau de pluie sert à arroser, laver ou nettoyer, pas à boire directement.
+- Rendre cette eau potable demande une filtration fine puis une désinfection.
+- Une cuve à l'abri de la lumière limite le développement d'algues.
+
+[Emplacement image : schéma d'un système de récupération d'eau de pluie avec gouttière,
+dispositif de première chasse et cuve de stockage, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 
@@ -2392,13 +2543,93 @@ slug: reparer-plutot-jeter
 categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
 summary: >
   Obsolescence, indice de réparabilité, savoir-faire : prolonger la vie des objets.
-tags: [dechets-et-recyclage, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [dechets-et-recyclage, reparation, essentiel-reconstruction]
+relatedArticles: [reconnaitre-recuperer-materiaux]
+sources:
+  - title: "The right-to-repair movement: Sustainability and consumer rights"
+    url: "https://journals.sagepub.com/doi/10.1177/20438869231178037"
+    publisher: "Journal of Consumer Culture"
+    date: "2025"
+  - title: "How Right to Repair Laws Can Reduce E-Waste"
+    url: "https://www.human-i-t.org/right-to-repair-e-waste/"
+    publisher: "Human-I-T"
+    date: "2025"
+quiz:
+  - question: "En 2022, quelle quantité de déchets électroniques a été générée dans le monde,
+      selon les estimations citées par le mouvement pour le droit à la réparation ?"
+    options:
+      - "Environ 6 millions de tonnes"
+      - "Environ 62 millions de tonnes"
+      - "Environ 620 millions de tonnes"
+    answer: 2
+    explanation: >
+      Le monde a produit environ 62 millions de tonnes de déchets électroniques en 2022, une
+      augmentation de 82 % par rapport à 2010, ce qui illustre l'ampleur du problème que le
+      mouvement pour le droit à la réparation cherche à résoudre.
+  - question: "Que revendique principalement le mouvement pour le droit à la réparation ?"
+    options:
+      - "L'interdiction totale de fabriquer de nouveaux appareils"
+      - "L'accès aux pièces, aux outils et aux informations nécessaires pour réparer un objet
+        que l'on possède"
+      - "La gratuité de tous les services de réparation"
+    answer: 2
+    explanation: >
+      Le mouvement rassemble ateliers de réparation indépendants, associations environnementales
+      et consommateurs qui militent pour garantir l'accès aux pièces détachées, aux outils et aux
+      informations techniques nécessaires à la réparation.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Jeter un objet cassé et en racheter un neuf semble souvent plus simple que de le réparer. Pourtant,
+chaque objet réparé plutôt que remplacé économise les ressources et l'énergie nécessaires à la
+fabrication d'un nouveau produit, un enjeu qui prend une ampleur considérable à l'échelle mondiale.
+
+## L'ampleur du problème des déchets électroniques
+
+Le monde a produit environ soixante-deux millions de tonnes de déchets électroniques en 2022, une
+hausse de quatre-vingt-deux pour cent par rapport à 2010. Chaque année, des dizaines de milliards
+de dollars de matériaux précieux, comme le cuivre, l'or et des métaux rares, sont ainsi perdus
+faute d'être récupérés efficacement.
+
+## Pourquoi certains objets sont difficiles à réparer
+
+Des appareils conçus avec des composants collés plutôt que vissés, des pièces propriétaires
+introuvables ailleurs, ou une absence totale de documentation technique rendent la réparation
+difficile, voire impossible, pour de nombreux objets électroniques modernes.
+
+## Le mouvement pour le droit à la réparation
+
+Ce mouvement rassemble ateliers de réparation indépendants, associations environnementales et
+consommateurs qui réclament l'accès aux pièces détachées, aux outils spécialisés et aux
+informations techniques nécessaires pour réparer un objet, plutôt que de dépendre uniquement du
+fabricant d'origine.
+
+## Un indice pour orienter les choix d'achat
+
+Certains pays imposent désormais un indice de réparabilité, une note qui informe l'acheteur sur la
+facilité à réparer un produit avant même de l'acheter. Cet outil aide à orienter les décisions
+d'achat vers des produits conçus pour durer.
+
+## Prolonger la vie des objets par soi-même
+
+Réapprendre des gestes simples, comme recoudre un vêtement, resserrer une vis desserrée ou
+remplacer une pièce d'usure identifiée, prolonge considérablement la durée de vie d'un objet sans
+nécessiter de compétences très spécialisées.
+
+## À retenir
+
+- Le monde a produit environ soixante-deux millions de tonnes de déchets électroniques en 2022.
+- Des composants collés ou des pièces introuvables rendent certains objets difficiles à réparer.
+- Le mouvement pour le droit à la réparation réclame l'accès aux pièces, outils et informations
+  techniques.
+- Un indice de réparabilité aide les consommateurs à choisir des produits conçus pour durer.
+- Réapprendre des gestes simples de réparation prolonge la vie de nombreux objets du quotidien.
+
+[Emplacement image : personne réparant un appareil électronique ouvert avec des outils simples,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

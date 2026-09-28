@@ -1672,13 +1672,94 @@ slug: revolution-neolithique
 categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
 summary: >
   L'invention de l'agriculture et de l'élevage, et la sédentarisation qui l'a accompagnée.
-tags: [prehistoire, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [prehistoire, agriculture, sedentarisation, essentiel-reconstruction]
+relatedArticles: [outils-pierre]
+sources:
+  - title: "Neolithic Revolution"
+    url: "https://www.history.com/articles/neolithic-revolution"
+    publisher: "History.com"
+    date: "2025"
+  - title: "Dynamics of the Neolithic Revolution"
+    url: "https://www.worldhistory.org/article/1937/dynamics-of-the-neolithic-revolution/"
+    publisher: "World History Encyclopedia"
+    date: "2025"
+quiz:
+  - question: "Dans quelle région la révolution néolithique a-t-elle débuté vers 10 000 avant
+      notre ère ?"
+    options:
+      - "Le Croissant fertile, au Moyen-Orient"
+      - "L'Europe du Nord"
+      - "L'Australie"
+    answer: 1
+    explanation: >
+      Le Croissant fertile, une région en forme de croissant au Moyen-Orient, est considéré
+      comme le premier foyer de la révolution néolithique, où les humains ont commencé à
+      cultiver des céréales sauvages.
+  - question: "Quel changement fondamental de mode de vie a accompagné l'invention de
+      l'agriculture ?"
+    options:
+      - "Le passage d'une vie nomade de chasseurs-cueilleurs à des établissements sédentaires"
+      - "Le passage inverse, de la sédentarité au nomadisme"
+      - "Aucun changement significatif de mode de vie"
+    answer: 1
+    explanation: >
+      L'agriculture, contrairement à la chasse et la cueillette, nécessite de rester sur place
+      pour surveiller et récolter les cultures, ce qui a conduit à l'établissement de villages
+      permanents.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Il y a environ douze mille ans, l'humanité a connu l'une des transformations les plus profondes de
+son histoire : le passage d'un mode de vie nomade fondé sur la chasse et la cueillette à des
+sociétés agricoles sédentaires. Ce changement a posé les bases de toutes les civilisations
+ultérieures.
+
+## Le Croissant fertile, berceau de l'agriculture
+
+Vers 10 000 avant notre ère, dans une région du Moyen-Orient aujourd'hui appelée Croissant
+fertile, des populations ont commencé à cultiver délibérément des céréales sauvages plutôt que de
+simplement les cueillir. Cette transition s'est également produite de façon indépendante dans
+d'autres régions du monde, comme l'Asie de l'Est ou la Mésoamérique.
+
+## De la cueillette à la culture
+
+Sélectionner et replanter les graines des plantes les plus productives a progressivement
+transformé des espèces sauvages en variétés domestiquées, plus productives mais dépendantes de
+l'intervention humaine pour se reproduire efficacement.
+
+## La domestication des animaux
+
+Peu après les premières cultures, certains animaux comme les moutons, les chèvres et plus tard le
+bétail ont été domestiqués, fournissant viande, lait, laine et force de travail, complétant
+utilement la production agricole.
+
+## La sédentarisation, une conséquence directe
+
+Contrairement à la chasse et la cueillette, l'agriculture exige de rester sur place pour
+surveiller, entretenir et récolter les cultures. Cette contrainte a conduit à l'établissement de
+villages permanents, une transformation radicale du mode de vie humain.
+
+## Les conséquences durables de cette transformation
+
+La possibilité de produire un surplus alimentaire a permis à certaines personnes de se consacrer à
+d'autres activités que la production de nourriture, favorisant l'apparition de l'artisanat
+spécialisé, du commerce et, à terme, des premières civilisations organisées.
+
+## À retenir
+
+- La révolution néolithique a débuté vers 10 000 avant notre ère dans le Croissant fertile.
+- Elle marque le passage d'un mode de vie nomade à des sociétés agricoles sédentaires.
+- La sélection des meilleures graines a progressivement domestiqué des plantes sauvages.
+- La domestication des animaux a complété la production agricole en fournissant nourriture et
+  force de travail.
+- Le surplus alimentaire produit a permis l'apparition de l'artisanat, du commerce et des
+  premières civilisations.
+
+[Emplacement image : scène illustrant le passage de la cueillette à la culture organisée de
+céréales dans le Croissant fertile, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1706,13 +1787,95 @@ slug: outils-pierre
 categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
 summary: >
   Du galet taillé aux lames fines : l'évolution des techniques de taille sur deux millions d'années.
-tags: [prehistoire, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [prehistoire, outils, taille-pierre, essentiel-reconstruction]
+relatedArticles: [revolution-neolithique]
+sources:
+  - title: "A Primer on Paleolithic Technology"
+    url: "https://www.nature.com/scitable/knowledge/library/a-primer-on-paleolithic-technology-83034489/"
+    publisher: "Nature Scitable"
+    date: "2025"
+  - title: "History of Stone Tools: Oldowan to Neolithic"
+    url: "https://www.artslookup.com/prehistoric/stone-tools-history.html"
+    publisher: "ArtsLookUp"
+    date: "2025"
+quiz:
+  - question: "Quelle propriété physique de certaines roches, comme le silex, les rend
+      particulièrement adaptées à la taille d'outils préhistoriques ?"
+    options:
+      - "Leur couleur particulièrement attrayante"
+      - "Leur capacité à se fracturer de façon prévisible en éclats tranchants"
+      - "Leur légèreté extrême"
+    answer: 2
+    explanation: >
+      Des roches comme le silex ou l'obsidienne se fracturent selon un schéma prévisible appelé
+      fracture conchoïdale, ce qui permet de détacher des éclats tranchants avec un contrôle
+      relativement précis.
+  - question: "Quelle avancée technique a permis d'obtenir des outils de pierre plus précis et
+      mieux contrôlés que les premiers percuteurs en pierre dure ?"
+    options:
+      - "L'utilisation de percuteurs plus lourds uniquement"
+      - "L'utilisation de percuteurs plus tendres, en bois ou en bois de cervidé"
+      - "L'abandon complet de la pierre au profit d'autres matériaux"
+    answer: 2
+    explanation: >
+      Un percuteur plus tendre, comme un morceau de bois ou de bois de cervidé, permet un
+      détachement d'éclats plus contrôlé et plus précis qu'un percuteur en pierre dure,
+      représentant une avancée technique majeure.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pendant plus de quatre-vingt-dix-neuf pour cent de l'histoire humaine, la pierre taillée a été
+l'outil de base de la survie quotidienne. La maîtrise de cette technique, appelée taille de
+pierre, a évolué considérablement sur environ deux millions d'années.
+
+## Le principe de la taille de pierre
+
+Frapper une pierre, appelée nucléus, avec un percuteur permet de détacher des éclats tranchants.
+Cette technique, appelée débitage, exploite le fait que certaines roches, comme le silex ou
+l'obsidienne, se fracturent selon un schéma prévisible appelé fracture conchoïdale.
+
+## Les premiers outils, simples mais efficaces
+
+Les outils les plus anciens connus, datant d'environ deux millions et demi d'années, montraient
+déjà une sélection réfléchie des matériaux et une certaine maîtrise technique, malgré leur
+apparence rudimentaire comparée aux outils plus tardifs.
+
+## L'amélioration progressive des techniques
+
+Des outils bifaciaux, taillés symétriquement sur leurs deux faces, sont apparus plus tard,
+témoignant d'une planification plus poussée du geste de taille. L'usage de percuteurs plus
+tendres, en bois ou en bois de cervidé plutôt qu'en pierre dure, a permis un contrôle bien plus
+fin du résultat obtenu.
+
+## Les lames fines, un sommet de sophistication
+
+Les techniques les plus avancées de la préhistoire permettaient de produire des lames longues,
+fines et régulières, à partir d'un même bloc de pierre préparé avec soin. Cette maîtrise
+technique nécessitait un apprentissage long et une grande habileté gestuelle.
+
+## Reproduire ces techniques aujourd'hui
+
+La taille de pierre reste une compétence reproductible avec des moyens simples : une roche
+adaptée, un percuteur en pierre ou en bois dur, et de la patience. Cette compétence permet de
+fabriquer des outils coupants utiles en l'absence de métal disponible.
+
+## À retenir
+
+- La taille de pierre a été la technologie principale de l'humanité pendant l'essentiel de son
+  histoire.
+- Des roches comme le silex se fracturent de façon prévisible, ce qui permet de détacher des
+  éclats tranchants.
+- Les outils se sont progressivement raffinés, des simples éclats aux outils bifaciaux
+  symétriques.
+- Un percuteur tendre, en bois ou en bois de cervidé, permet un contrôle plus fin que la pierre
+  dure.
+- Cette compétence ancienne reste reproductible aujourd'hui avec des moyens simples.
+
+[Emplacement image : séquence de taille d'un silex, du bloc brut à l'éclat tranchant obtenu,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1825,13 +1988,93 @@ slug: plan-marshall-reconstruction-europe
 categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
 summary: >
   Comment un continent en ruines s'est relevé en une quinzaine d'années.
-tags: [epoque-contemporaine, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [epoque-contemporaine, reconstruction, plan-marshall, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Marshall Plan"
+    url: "https://en.wikipedia.org/wiki/Marshall_Plan"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "The Marshall Plan and Postwar Economic Recovery"
+    url: "https://www.nationalww2museum.org/war/articles/marshall-plan-and-postwar-economic-recovery"
+    publisher: "The National WWII Museum"
+    date: "2025"
+quiz:
+  - question: "Qui a proposé le plan de reconstruction européenne en 1947, donnant son nom au
+      Plan Marshall ?"
+    options:
+      - "Le président américain Harry Truman"
+      - "Le secrétaire d'État américain George Marshall"
+      - "Le Premier ministre britannique Winston Churchill"
+    answer: 2
+    explanation: >
+      George Marshall, secrétaire d'État des États-Unis, a proposé ce plan de reconstruction
+      dans un discours prononcé à l'université Harvard en juin 1947, ce qui lui a donné son nom.
+  - question: "Quel montant approximatif les États-Unis ont-ils transféré à dix-sept pays
+      européens dans le cadre de ce programme de reconstruction ?"
+    options:
+      - "Environ 1,3 million de dollars"
+      - "Environ 13,3 milliards de dollars"
+      - "Environ 133 000 dollars"
+    answer: 2
+    explanation: >
+      Les États-Unis ont transféré environ 13,3 milliards de dollars à dix-sept pays d'Europe
+      occidentale entre 1948 et 1952 pour soutenir leur reconstruction économique après la guerre.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1945, l'Europe sortait de la Seconde Guerre mondiale avec des villes en ruines, des industries
+détruites et des millions de personnes déplacées. En une quinzaine d'années à peine, le continent
+s'était largement relevé, grâce notamment à un vaste programme d'aide connu sous le nom de Plan
+Marshall.
+
+## Un continent dévasté par la guerre
+
+Les infrastructures de transport, les réseaux électriques, les ports et de nombreuses usines
+avaient subi des dommages considérables durant le conflit. La faim, le chômage et le manque de
+logements touchaient une grande partie de la population européenne au sortir de la guerre.
+
+## La proposition de George Marshall
+
+En juin 1947, le secrétaire d'État américain George Marshall propose, lors d'un discours à
+l'université Harvard, un vaste programme d'aide économique destiné à reconstruire les économies
+européennes dévastées et à prévenir une instabilité prolongée du continent.
+
+## Une aide financière massive
+
+Entre 1948 et 1952, les États-Unis transfèrent environ 13,3 milliards de dollars à dix-sept pays
+d'Europe occidentale, sous forme de matériaux, d'équipements et de financements destinés à
+reconstruire les infrastructures, relancer l'industrie et lever certaines barrières commerciales
+entre pays voisins.
+
+## Une reconstruction rapide et coordonnée
+
+Ce programme a encouragé la coopération entre pays européens plutôt qu'une reconstruction menée
+isolément par chacun. Cette coordination a permis de reconstruire plus efficacement les réseaux de
+transport, l'industrie et le commerce à l'échelle du continent tout entier.
+
+## Un héritage durable
+
+Au-delà de la reconstruction matérielle immédiate, le Plan Marshall a posé les bases d'une
+coopération économique européenne prolongée, qui a par la suite contribué à l'émergence des
+premières institutions d'intégration européenne dans les décennies suivantes.
+
+## À retenir
+
+- L'Europe sortait de la Seconde Guerre mondiale avec des infrastructures et des industries
+  largement détruites.
+- George Marshall a proposé ce programme de reconstruction lors d'un discours en juin 1947.
+- Les États-Unis ont transféré environ 13,3 milliards de dollars à dix-sept pays européens entre
+  1948 et 1952.
+- Ce programme a encouragé une reconstruction coordonnée entre pays plutôt qu'isolée.
+- Il a posé les bases d'une coopération économique européenne durable au-delà de la seule
+  reconstruction immédiate.
+
+[Emplacement image : ville européenne en reconstruction après-guerre avec des grues et des
+échafaudages visibles, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1910,13 +2153,99 @@ slug: effondrement-civilisations
 categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
 summary: >
   Rome, les Mayas, l'âge du bronze : ce que les grands effondrements ont en commun, et comment on en sort.
-tags: [methode-historique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [methode-historique, effondrement, civilisation, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Joseph Tainter"
+    url: "https://en.wikipedia.org/wiki/Joseph_Tainter"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "Societal collapse"
+    url: "https://en.wikipedia.org/wiki/Societal_collapse"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Selon la théorie de l'archéologue Joseph Tainter, quelle est la cause fondamentale
+      de l'effondrement des sociétés complexes ?"
+    options:
+      - "Toujours une invasion militaire extérieure"
+      - "Des rendements décroissants sur les investissements consacrés à gérer une complexité
+        sociale croissante"
+      - "Uniquement des catastrophes naturelles"
+    answer: 2
+    explanation: >
+      Tainter soutient que les sociétés deviennent de plus en plus complexes pour résoudre leurs
+      problèmes, jusqu'à ce que le coût de cette complexité dépasse les bénéfices qu'elle
+      apporte, rendant l'effondrement inévitable.
+  - question: "Sur quel facteur principal l'auteur Jared Diamond met-il l'accent pour expliquer
+      certains effondrements de civilisations ?"
+    options:
+      - "L'épuisement des ressources environnementales locales"
+      - "Uniquement des conflits internes politiques"
+      - "L'absence totale de facteurs identifiables"
+    answer: 1
+    explanation: >
+      Diamond met l'accent sur l'épuisement des ressources locales, comme les terres cultivables
+      ou les forêts, comme facteur déterminant dans l'effondrement de plusieurs sociétés
+      étudiées.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Rome, les cités mayas, les civilisations de l'âge du bronze : l'histoire regorge de grandes
+sociétés qui se sont effondrées après des siècles de prospérité. Étudier ces effondrements révèle
+des points communs qui aident à mieux comprendre les fragilités de toute société complexe.
+
+## La théorie de la complexité croissante
+
+L'archéologue Joseph Tainter soutient que les sociétés se complexifient progressivement pour
+résoudre leurs problèmes, par exemple en développant une administration plus élaborée ou des
+infrastructures plus sophistiquées. Passé un certain seuil, cette complexité coûte plus cher
+qu'elle n'apporte de bénéfices, rendant la société vulnérable.
+
+## L'épuisement des ressources locales
+
+L'auteur Jared Diamond met l'accent sur l'épuisement progressif des ressources naturelles locales,
+comme les terres cultivables, les forêts ou l'eau, comme facteur déterminant dans plusieurs
+effondrements historiques étudiés, notamment celui de certaines sociétés insulaires isolées.
+
+## Des facteurs qui se combinent rarement seuls
+
+Un effondrement résulte rarement d'une seule cause isolée. Une sécheresse prolongée, une
+mauvaise gestion des ressources, des tensions politiques internes et une pression militaire
+extérieure peuvent se combiner et s'aggraver mutuellement jusqu'à dépasser la capacité
+d'adaptation d'une société.
+
+## L'effondrement n'est pas toujours une disparition totale
+
+Un effondrement politique et administratif ne signifie pas nécessairement la disparition complète
+d'une population. Après la chute de l'Empire romain d'Occident, par exemple, les populations ont
+continué à vivre, mais selon des structures sociales et politiques beaucoup plus simples et
+décentralisées.
+
+## Les leçons pour reconstruire après un effondrement
+
+Les sociétés qui se sont relevées après un effondrement ont généralement simplifié temporairement
+leurs structures, en revenant à des formes d'organisation plus locales et plus résilientes, avant
+de reconstruire progressivement une complexité nouvelle, adaptée aux ressources réellement
+disponibles.
+
+## À retenir
+
+- Joseph Tainter attribue l'effondrement des sociétés complexes à des rendements décroissants de
+  leur complexité.
+- Jared Diamond met l'accent sur l'épuisement des ressources locales comme facteur déterminant.
+- Un effondrement résulte généralement de plusieurs facteurs combinés plutôt que d'une seule
+  cause.
+- Un effondrement politique n'entraîne pas toujours la disparition complète d'une population.
+- Se reconstruire après un effondrement passe souvent par une simplification temporaire avant une
+  nouvelle complexité.
+
+[Emplacement image : ruines d'une ancienne cité, comme celles de Rome ou d'une cité maya,
+symbolisant l'effondrement d'une civilisation, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 
@@ -1961,13 +2290,99 @@ slug: division-travail
 categoryPath: sciences-humaines-et-sociales/economie/microeconomie
 summary: >
   De la manufacture d'épingles d'Adam Smith aux chaînes de valeur mondiales : pourquoi se spécialiser enrichit.
-tags: [microeconomie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [microeconomie, specialisation, productivite, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Division of Labor and Specialization"
+    url: "https://www.econlib.org/library/topics/highschool/divisionoflaborspecialization.html"
+    publisher: "Econlib"
+    date: "2025"
+  - title: "The Importance of Specialization and Division of Labor by Adam Smith"
+    url: "https://capitalism.org/markets/division-of-labor/"
+    publisher: "Capitalism.org"
+    date: "2025"
+quiz:
+  - question: "Dans son exemple célèbre de la manufacture d'épingles, que démontrait Adam
+      Smith ?"
+    options:
+      - "Qu'un seul ouvrier travaillant seul produit toujours plus qu'une équipe"
+      - "Que diviser la fabrication en tâches spécialisées permet de produire beaucoup plus
+        d'épingles qu'un travail non spécialisé"
+      - "Que la fabrication d'épingles ne peut jamais être améliorée"
+    answer: 2
+    explanation: >
+      Smith a montré que dix ouvriers spécialisés chacun dans une étape précise pouvaient
+      produire des dizaines de milliers d'épingles par jour, bien plus que si chacun avait
+      fabriqué des épingles entières seul de bout en bout.
+  - question: "Selon Adam Smith, quel facteur limite l'étendue possible de la division du
+      travail dans une économie ?"
+    options:
+      - "La taille du marché disponible pour écouler la production"
+      - "Le nombre total d'habitants d'un pays uniquement"
+      - "Rien ne limite jamais la division du travail"
+    answer: 1
+    explanation: >
+      Smith a formulé le principe selon lequel l'étendue de la division du travail est toujours
+      limitée par l'étendue du marché : une spécialisation poussée n'a de sens que si la demande
+      est suffisante pour écouler la production ainsi obtenue.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un groupe de personnes qui se répartissent des tâches spécialisées produit généralement bien
+davantage que si chacune travaillait seule de bout en bout. Ce principe simple, décrit par
+l'économiste Adam Smith en 1776, explique une grande partie de la richesse produite par les
+sociétés modernes.
+
+## L'exemple célèbre de la manufacture d'épingles
+
+Adam Smith a illustré ce principe en observant une manufacture d'épingles : dix ouvriers,
+chacun spécialisé dans une étape précise de la fabrication, pouvaient produire plusieurs dizaines
+de milliers d'épingles par jour, bien plus que si chacun avait fabriqué des épingles entières de
+manière isolée.
+
+## Pourquoi la spécialisation augmente la productivité
+
+Se concentrer sur une seule tâche répétée permet de développer rapidement une compétence
+approfondie, d'éviter les pertes de temps liées au changement fréquent d'activité, et souvent
+d'utiliser des outils spécifiquement adaptés à cette tâche précise.
+
+## La limite posée par la taille du marché
+
+Smith a également noté que l'étendue possible de la division du travail dépend directement de la
+taille du marché disponible : une spécialisation très poussée n'a d'intérêt que si suffisamment de
+personnes sont prêtes à acheter la production ainsi obtenue.
+
+## Des ateliers artisanaux aux chaînes mondiales
+
+Ce même principe, observé à l'échelle d'un petit atelier, s'applique aujourd'hui à l'échelle
+mondiale : différents pays se spécialisent dans différentes étapes de production d'un même
+produit, chacun exploitant ses avantages particuliers, avant que les composants ne soient
+assemblés ailleurs.
+
+## Les limites de la spécialisation extrême
+
+Une spécialisation trop poussée peut rendre un travailleur ou une région vulnérable si la demande
+pour sa spécialité disparaît soudainement, ou créer une dépendance risquée envers d'autres
+partenaires pour tout ce que l'on ne produit plus soi-même.
+
+## À retenir
+
+- Adam Smith a démontré en 1776, avec l'exemple de la manufacture d'épingles, les bénéfices de
+  la spécialisation.
+- Se spécialiser dans une tâche répétée développe rapidement une compétence approfondie et
+  efficace.
+- L'étendue de la division du travail est limitée par la taille du marché disponible pour écouler
+  la production.
+- Ce principe s'applique aujourd'hui à l'échelle mondiale, à travers les chaînes de production
+  internationales.
+- Une spécialisation trop poussée peut aussi créer des vulnérabilités et des dépendances
+  risquées.
+
+[Emplacement image : atelier illustrant plusieurs ouvriers spécialisés dans des étapes distinctes
+d'une même chaîne de fabrication, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2029,13 +2444,97 @@ slug: comptabilite-partie-double
 categoryPath: sciences-humaines-et-sociales/economie/microeconomie
 summary: >
   Inventée à Venise, la méthode qui permet de suivre toute l'activité d'une entreprise.
-tags: [microeconomie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [microeconomie, comptabilite, gestion, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Luca Pacioli"
+    url: "https://en.wikipedia.org/wiki/Luca_Pacioli"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "History of accounting"
+    url: "https://en.wikipedia.org/wiki/History_of_accounting"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Que signifie le principe de base de la comptabilité en partie double ?"
+    options:
+      - "Chaque transaction n'affecte qu'un seul compte"
+      - "Chaque transaction est enregistrée simultanément dans au moins deux comptes différents,
+        de façon équilibrée"
+      - "Il faut tenir deux registres identiques par sécurité"
+    answer: 2
+    explanation: >
+      La partie double enregistre chaque opération sous deux aspects complémentaires, par
+      exemple une somme qui sort d'un compte et entre dans un autre, garantissant que les deux
+      inscriptions s'équilibrent toujours.
+  - question: "Quel a été le rôle exact de Luca Pacioli dans l'histoire de la comptabilité en
+      partie double ?"
+    options:
+      - "Il a inventé cette méthode à partir de rien en 1494"
+      - "Il a codifié et publié une méthode déjà utilisée depuis environ deux siècles par les
+        marchands italiens"
+      - "Il n'a eu aucun rôle réel dans cette histoire"
+    answer: 2
+    explanation: >
+      Des marchands vénitiens utilisaient déjà des versions de la comptabilité en partie double
+      depuis environ deux siècles avant Pacioli. Sa contribution majeure fut de systématiser et
+      de publier cette méthode, la rendant accessible à un public bien plus large.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Savoir précisément d'où vient l'argent d'une entreprise et où il va est essentiel pour la gérer
+correctement. La comptabilité en partie double, systématisée à Venise à la fin du quinzième
+siècle, reste aujourd'hui encore la méthode de référence pour suivre l'activité financière d'une
+organisation.
+
+## Le principe de l'équilibre permanent
+
+Chaque opération financière est enregistrée sous deux aspects complémentaires : par exemple, un
+achat fait sortir de l'argent d'un compte tout en faisant entrer un bien dans un autre compte. Ces
+deux inscriptions doivent toujours s'équilibrer, ce qui permet de détecter facilement une erreur
+de saisie.
+
+## L'usage marchand qui a précédé la théorie
+
+Des marchands de Venise, Florence et Gênes utilisaient déjà des versions de cette méthode depuis
+environ deux siècles avant sa description écrite, un registre complet datant de 1299 en
+témoignant. Le commerce florissant de ces villes italiennes rendait nécessaire un suivi rigoureux
+des transactions.
+
+## La contribution de Luca Pacioli
+
+En 1494, le moine et mathématicien Luca Pacioli publie un ouvrage décrivant en détail cette
+méthode déjà pratiquée par les marchands vénitiens. Grâce à l'imprimerie, tout juste inventée, son
+livre se diffuse bien plus largement qu'un manuscrit n'aurait pu le faire, popularisant durablement
+cette technique.
+
+## Pourquoi cette méthode reste indispensable
+
+La partie double permet à tout moment de connaître précisément la situation financière d'une
+activité, de détecter rapidement une erreur grâce au déséquilibre qu'elle provoque, et de
+distinguer clairement les différentes sources de revenus et de dépenses.
+
+## Tenir une comptabilité simple sans logiciel
+
+Un simple carnet divisé en colonnes, où chaque opération est notée deux fois selon son origine et
+sa destination, suffit à appliquer ce principe sans nécessiter le moindre outil informatique,
+comme le faisaient déjà les marchands du Moyen Âge.
+
+## À retenir
+
+- La comptabilité en partie double enregistre chaque opération dans au moins deux comptes
+  équilibrés.
+- Des marchands italiens utilisaient cette méthode environ deux siècles avant sa première
+  publication.
+- Luca Pacioli a codifié et publié cette méthode en 1494, favorisant sa diffusion large.
+- Cet équilibre permanent permet de détecter facilement les erreurs de saisie.
+- Un simple carnet suffit à appliquer ce principe sans aucun outil informatique.
+
+[Emplacement image : registre comptable ancien montrant des colonnes équilibrées de débit et de
+crédit, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2063,13 +2562,93 @@ slug: troc-invention-monnaie
 categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
 summary: >
   Pourquoi la monnaie est apparue, et ses formes successives, du sel à la monnaie numérique.
-tags: [macroeconomie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [macroeconomie, monnaie, troc, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "History of money"
+    url: "https://en.wikipedia.org/wiki/History_of_money"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "The History of the Trade and Barter System"
+    url: "https://squareup.com/us/en/the-bottom-line/managing-your-finances/a-history-of-the-trade-and-barter-system"
+    publisher: "Square"
+    date: "2025"
+quiz:
+  - question: "Quelle difficulté principale limitait l'efficacité du système de troc ?"
+    options:
+      - "Il fallait toujours de l'or pour échanger quoi que ce soit"
+      - "La double coïncidence des besoins, où chaque partie doit vouloir précisément ce que
+        l'autre propose"
+      - "Le troc n'a en réalité jamais posé aucun problème pratique"
+    answer: 2
+    explanation: >
+      Le troc exige que chaque partie possède exactement ce que l'autre souhaite, une situation
+      appelée double coïncidence des besoins, ce qui rend les échanges complexes et souvent peu
+      efficaces à mesure que les sociétés se développent.
+  - question: "Où et quand sont apparues les premières pièces de monnaie métalliques connues ?"
+    options:
+      - "En Chine au vingtième siècle"
+      - "En Lydie, en Asie Mineure, vers le septième ou sixième siècle avant notre ère"
+      - "En Amérique au Moyen Âge"
+    answer: 2
+    explanation: >
+      Les toutes premières pièces de monnaie frappées sont généralement attribuées à la Lydie,
+      une région d'Asie Mineure, vers le septième ou sixième siècle avant notre ère, à peu près à
+      la même époque que des développements similaires en Inde et en Chine.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant l'invention de la monnaie, les échanges reposaient sur le troc, l'échange direct de biens
+contre d'autres biens. Ce système, limité par ses propres contraintes, a progressivement cédé la
+place à des formes de monnaie de plus en plus pratiques, jusqu'à la monnaie numérique
+d'aujourd'hui.
+
+## La limite fondamentale du troc
+
+Le troc exige que chaque partie souhaite précisément ce que l'autre propose, une situation appelée
+double coïncidence des besoins. Un éleveur de moutons qui a besoin d'outils doit trouver un
+artisan qui accepte spécifiquement des moutons en échange, une condition pas toujours réunie.
+
+## Les premières formes de monnaie marchandise
+
+Face à cette limite, certaines sociétés ont adopté des biens largement acceptés comme
+intermédiaires d'échange : coquillages, sel, bétail ou céréales, des biens dont la valeur était
+généralement reconnue par tous, facilitant les transactions même sans coïncidence directe des
+besoins.
+
+## L'apparition des métaux précieux
+
+Il y a environ trois mille cinq cents ans, l'or et l'argent, pesés selon leur poids, ont commencé
+à servir de mesure de valeur commune. Leur rareté, leur durabilité et leur facilité de transport
+en faisaient un intermédiaire d'échange plus pratique que la plupart des biens périssables.
+
+## L'invention des pièces frappées
+
+Vers le septième ou sixième siècle avant notre ère, en Lydie, en Inde et en Chine
+indépendamment, apparaissent les premières pièces métalliques frappées, garantissant un poids et
+une valeur standardisés sans nécessiter une pesée à chaque transaction.
+
+## Vers la monnaie papier et numérique
+
+La monnaie papier apparaît en Chine dès le septième siècle de notre ère, représentant une valeur
+sans avoir le poids ni le volume des métaux précieux. Aujourd'hui, la monnaie numérique poursuit
+cette même évolution vers des échanges toujours plus rapides et moins encombrants physiquement.
+
+## À retenir
+
+- Le troc exige une double coïncidence des besoins, ce qui limite fortement son efficacité.
+- Des biens comme le sel, les coquillages ou le bétail ont d'abord servi de monnaie marchandise.
+- L'or et l'argent pesés sont devenus une mesure de valeur commune il y a environ trois mille
+  cinq cents ans.
+- Les premières pièces frappées sont apparues vers le septième ou sixième siècle avant notre ère.
+- La monnaie papier, apparue en Chine, a ouvert la voie à des formes d'échange toujours plus
+  légères, jusqu'à la monnaie numérique.
+
+[Emplacement image : évolution de la monnaie, du troc de biens aux premières pièces métalliques
+frappées, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2607,13 +3186,100 @@ slug: cooperation-biens-communs
 categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
 summary: >
   Elinor Ostrom et les communautés qui gèrent ensemble pâturages, forêts et pêcheries sans les épuiser.
-tags: [groupes-et-normes, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [groupes-et-normes, biens-communs, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Elinor Ostrom"
+    url: "https://en.wikipedia.org/wiki/Elinor_Ostrom"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "Governing the Commons: The Evolution of Institutions for Collective Action"
+    url: "https://en.wikipedia.org/wiki/Governing_the_Commons"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Que soutenait la théorie de la tragédie des biens communs avant les travaux d'Elinor Ostrom ?"
+    options:
+      - "Que les communautés géraient toujours parfaitement leurs ressources partagées"
+      - "Que les ressources partagées sans propriétaire unique seraient inévitablement surexploitées
+        et détruites"
+      - "Que seules les entreprises privées pouvaient protéger les ressources naturelles"
+    answer: 2
+    explanation: >
+      La théorie de la tragédie des biens communs affirmait que sans propriété privée ou contrôle
+      étatique, chaque individu exploiterait une ressource partagée à son propre avantage jusqu'à
+      son épuisement complet, une prédiction qu'Elinor Ostrom a nuancée par ses observations de
+      terrain.
+  - question: "Pour quels travaux Elinor Ostrom a-t-elle reçu le prix de la Banque de Suède en sciences
+      économiques en 2009 ?"
+    options:
+      - "Son analyse de la gouvernance des biens communs par des communautés autogérées"
+      - "Ses travaux sur les taux d'intérêt des banques centrales"
+      - "Son invention de nouveaux instruments financiers"
+    answer: 1
+    explanation: >
+      Elinor Ostrom a reçu ce prix pour avoir démontré, à partir d'études de cas réelles, que des
+      communautés peuvent gérer durablement des ressources partagées comme les pâturages, les
+      forêts ou les zones de pêche, sans intervention extérieure, grâce à des règles collectives.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pendant longtemps, on a pensé que les ressources partagées, comme un pâturage ou une zone de
+pêche, étaient condamnées à être surexploitées puisque personne n'en est individuellement
+responsable. La chercheuse Elinor Ostrom a montré, par l'observation de communautés réelles, que
+ce scénario n'est pas une fatalité.
+
+## La tragédie annoncée des biens communs
+
+Selon cette théorie classique, quand une ressource est accessible à tous sans règle de partage,
+chaque utilisateur a intérêt à en prélever le plus possible avant que d'autres ne le fassent,
+menant à l'épuisement collectif de la ressource, même si cela dessert tout le monde à long terme.
+
+## Les observations de terrain d'Elinor Ostrom
+
+Elinor Ostrom a étudié des pâturages en Suisse, des forêts au Japon et des systèmes d'irrigation
+aux Philippines gérés depuis des générations par des communautés locales, sans propriétaire
+unique ni intervention de l'État, et pourtant sans effondrement de la ressource.
+
+## Les règles qui rendent la coopération possible
+
+Ses recherches ont identifié des principes communs aux communautés qui réussissent : des
+frontières claires sur qui a le droit d'utiliser la ressource, des règles adaptées au contexte
+local, une surveillance assurée par les usagers eux-mêmes, et des sanctions progressives contre
+ceux qui ne respectent pas les règles.
+
+## L'importance de la confiance et du dialogue
+
+Ces communautés se rencontrent régulièrement pour ajuster leurs règles ensemble, ce qui crée un
+climat de confiance mutuelle. Chacun sait que les autres respectent leur engagement, ce qui rend
+inutile la tentation de prélever plus que sa part.
+
+## Pourquoi ce constat compte pour reconstruire
+
+Après une crise, la gestion de biens communs comme l'eau potable, le bois de chauffage ou les
+terres cultivables redevient une question vitale. Les principes d'Ostrom montrent qu'une
+communauté n'a besoin ni d'un propriétaire unique ni d'une autorité extérieure pour gérer ses
+ressources : des règles claires et partagées collectivement suffisent souvent.
+
+## À retenir
+
+- La théorie de la tragédie des biens communs prédisait l'épuisement inévitable des ressources
+  partagées.
+- Elinor Ostrom a montré, par des études de terrain, que des communautés gèrent durablement des
+  ressources communes depuis des générations.
+- Des frontières claires, des règles locales et une surveillance par les usagers eux-mêmes
+  favorisent cette réussite.
+- La confiance mutuelle et le dialogue régulier entre usagers rendent ces règles efficaces sans
+  besoin de propriétaire unique.
+- Ces principes sont directement utiles pour organiser le partage de ressources vitales après une
+  crise.
+
+[Emplacement image : communauté villageoise se réunissant pour discuter des règles de partage
+d'une ressource commune comme un pâturage ou un point d'eau, légende et texte alternatif à
+fournir ultérieurement.]
 
 ---
 
@@ -2675,13 +3341,98 @@ slug: transmettre-savoirs
 categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
 summary: >
   Apprentissage, compagnonnage, écoles : comment une société transmet ses savoir-faire d'une génération à l'autre.
-tags: [education-et-mobilite, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [education-et-mobilite, transmission, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Apprenticeship"
+    url: "https://en.wikipedia.org/wiki/Apprenticeship"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "Oral tradition"
+    url: "https://en.wikipedia.org/wiki/Oral_tradition"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Comment fonctionnait traditionnellement l'apprentissage d'un métier avant la
+      généralisation des écoles ?"
+    options:
+      - "Un jeune vivait et travaillait plusieurs années auprès d'un maître artisan qui lui
+        transmettait progressivement son savoir-faire"
+      - "Chacun devait deviner seul comment exercer un métier sans aide"
+      - "Les livres remplaçaient entièrement le besoin d'observer un maître au travail"
+    answer: 1
+    explanation: >
+      L'apprentissage traditionnel reposait sur une relation directe et prolongée entre un maître
+      et un apprenti, qui observait, imitait et pratiquait sous supervision jusqu'à maîtriser le
+      métier, une méthode antérieure et complémentaire à l'enseignement écrit.
+  - question: "Pourquoi la tradition orale reste-t-elle essentielle même dans les sociétés qui savent
+      écrire ?"
+    options:
+      - "Parce qu'elle est plus rapide à produire qu'un livre imprimé"
+      - "Parce qu'elle permet de transmettre gestes, savoir-faire pratiques et contexte vécu, des
+        éléments difficiles à capturer entièrement par l'écrit seul"
+      - "Parce que l'écriture a totalement disparu dans certaines régions du monde"
+    answer: 2
+    explanation: >
+      Un texte peut décrire une technique, mais des savoir-faire comme le geste précis d'un
+      artisan, le ton d'un conte ou une intuition pratique se transmettent mieux par la
+      démonstration directe et la répétition orale, en complément de tout support écrit.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Aucune société ne survit sans transmettre ses savoirs à la génération suivante. Depuis toujours,
+l'humanité a inventé plusieurs manières de le faire : la parole, l'observation directe, le
+compagnonnage, puis l'école, chacune avec ses forces propres.
+
+## La tradition orale, la plus ancienne des transmissions
+
+Avant l'écriture, les sociétés transmettaient récits, techniques et règles par la parole, souvent
+sous forme de contes, chants ou proverbes faciles à mémoriser. Cette tradition orale reste
+vivante aujourd'hui dans de nombreuses cultures et continue de transmettre des savoirs que
+l'écrit seul décrit mal.
+
+## Le compagnonnage, apprendre en faisant
+
+Le compagnonnage repose sur une relation prolongée entre un maître et un apprenti : ce dernier
+observe, imite les gestes, puis pratique sous supervision jusqu'à maîtriser progressivement le
+métier. Cette méthode reste irremplaçable pour les savoir-faire manuels comme la forge, la
+menuiserie ou la médecine de terrain.
+
+## L'écriture, une mémoire qui dépasse une vie humaine
+
+L'écriture a permis de conserver des savoirs au-delà de la mémoire d'une seule personne ou d'une
+seule génération, rendant possible l'accumulation de connaissances techniques et scientifiques
+sur des siècles, consultables par quiconque sait lire.
+
+## L'école, transmettre à grande échelle
+
+L'école organise la transmission de connaissances de base à un grand nombre d'élèves
+simultanément, un progrès majeur par rapport à l'apprentissage individuel, mais qui reste souvent
+insuffisant seul pour les savoir-faire pratiques qui exigent la démonstration directe.
+
+## Pourquoi cela compte après une rupture
+
+Si les infrastructures s'effondrent, la survie d'une communauté dépend de sa capacité à
+transmettre rapidement des savoirs essentiels : cultiver, soigner, construire, réparer.
+Combiner l'oral, la démonstration pratique et l'écrit reste la meilleure garantie qu'un
+savoir-faire ne se perde pas avec la disparition d'une seule personne qui le détient.
+
+## À retenir
+
+- La tradition orale est la plus ancienne forme de transmission des savoirs et reste utile pour
+  les gestes et savoir-faire pratiques.
+- Le compagnonnage transmet un métier par l'observation directe et la pratique encadrée par un
+  maître.
+- L'écriture permet de conserver des connaissances au-delà de la mémoire d'une seule génération.
+- L'école transmet des savoirs de base à grande échelle mais complète, sans les remplacer,
+  l'apprentissage pratique et oral.
+- Combiner ces méthodes protège une communauté contre la perte de savoir-faire essentiels.
+
+[Emplacement image : artisan montrant un geste technique à un jeune apprenti, légende et texte
+alternatif à fournir ultérieurement.]
 
 ---
 

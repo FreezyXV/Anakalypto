@@ -2892,13 +2892,92 @@ slug: pendule-mesure-temps
 categoryPath: sciences-fondamentales/physique/mecanique
 summary: >
   Galilée, Huygens et l'horloge à balancier : le mouvement régulier qui a permis de mesurer le temps.
-tags: [mecanique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [mecanique, pendule, temps, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Foucault pendulum"
+    url: "https://en.wikipedia.org/wiki/Foucault_pendulum"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "The Physics of the Pendulum: The Swing That Measured Time and Proved the Earth
+      Spins"
+    url: "https://world-of-physics.com/blog/physics-of-the-pendulum-the-swing-that-measured-time/"
+    publisher: "World of Physics"
+    date: "2025"
+quiz:
+  - question: "Quelle observation aurait conduit Galilée à s'intéresser au mouvement régulier du
+      pendule ?"
+    options:
+      - "La chute d'une pomme"
+      - "Le balancement régulier de lustres dans une cathédrale, quelle que soit l'ampleur de
+        leur mouvement"
+      - "La rotation d'une roue de moulin"
+    answer: 2
+    explanation: >
+      Galilée aurait remarqué que des lustres suspendus dans la cathédrale de Pise mettaient
+      toujours le même temps à effectuer une oscillation, que leur balancement soit ample ou
+      restreint, une propriété appelée isochronisme.
+  - question: "Qui a construit la première horloge pratique utilisant un pendule, en 1657 ?"
+    options:
+      - "Galilée lui-même"
+      - "Christian Huygens"
+      - "Léon Foucault"
+    answer: 2
+    explanation: >
+      Bien que Galilée ait étudié les propriétés du pendule, c'est le savant néerlandais
+      Christian Huygens qui a construit en 1657 la première horloge à pendule réellement
+      fonctionnelle et précise.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un pendule qui oscille met toujours le même temps pour faire un aller-retour, quelle que soit
+l'ampleur de son mouvement, tant que cette ampleur reste modérée. Cette régularité remarquable a
+permis, au dix-septième siècle, de mesurer le temps avec une précision inédite.
+
+## Une régularité surprenante
+
+La durée d'une oscillation complète d'un pendule dépend presque uniquement de la longueur de son
+fil, et non de l'amplitude de son balancement ni du poids attaché à son extrémité. Un pendule plus
+long oscille plus lentement qu'un pendule court.
+
+## L'observation attribuée à Galilée
+
+Le physicien italien Galilée aurait remarqué cette régularité en observant le balancement de
+lustres suspendus dans une cathédrale, constatant que leur temps d'oscillation restait constant
+même lorsque leur mouvement s'amortissait progressivement.
+
+## La première horloge à pendule
+
+Bien que Galilée ait étudié cette propriété, c'est le scientifique néerlandais Christian Huygens
+qui construisit en 1657 la première horloge à pendule pratique. Cette invention a réduit l'erreur
+moyenne des horloges de plusieurs minutes par jour à moins de dix secondes.
+
+## Le pendule de Foucault et la rotation de la Terre
+
+En 1851, le physicien français Léon Foucault suspendit un lourd pendule au plafond du Panthéon de
+Paris pour démontrer, sans télescope ni observation astronomique, que la Terre tourne bel et bien
+sur elle-même.
+
+## Fabriquer un pendule simple pour mesurer un intervalle de temps
+
+Un simple poids suspendu à une ficelle de longueur connue oscille avec une régularité suffisante
+pour estimer approximativement des durées, une méthode utile en l'absence de tout instrument de
+mesure électronique.
+
+## À retenir
+
+- La durée d'oscillation d'un pendule dépend surtout de la longueur de son fil, pas de son poids.
+- Galilée aurait observé cette régularité en regardant des lustres se balancer dans une
+  cathédrale.
+- Christian Huygens a construit la première horloge à pendule pratique en 1657.
+- Cette invention a considérablement amélioré la précision de la mesure du temps.
+- Le pendule de Foucault a démontré en 1851 la rotation de la Terre sur elle-même.
+
+[Emplacement image : pendule oscillant suspendu à un fil de longueur mesurée, illustrant la
+régularité de son mouvement, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2926,13 +3005,90 @@ slug: tension-courant-resistance
 categoryPath: sciences-fondamentales/physique/electromagnetisme
 summary: >
   La loi d'Ohm et les notions de base pour comprendre n'importe quel circuit électrique.
-tags: [electromagnetisme, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [electromagnetisme, tension, courant, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Voltage, Current, Resistance, and Ohm's Law"
+    url: "https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/all"
+    publisher: "SparkFun Learn"
+    date: "2025"
+  - title: "Ohm's law"
+    url: "https://www.britannica.com/science/Ohms-law"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+quiz:
+  - question: "Que représente la tension dans un circuit électrique ?"
+    options:
+      - "La quantité de charge qui circule chaque seconde"
+      - "La différence de charge électrique entre deux points, qui pousse le courant à circuler"
+      - "La capacité d'un matériau à laisser passer le courant"
+    answer: 2
+    explanation: >
+      La tension, mesurée en volts, représente la différence de charge électrique entre deux
+      points d'un circuit, une force qui pousse les charges électriques à se déplacer.
+  - question: "Selon la loi d'Ohm, que se passe-t-il si l'on augmente la résistance d'un
+      circuit sans changer la tension ?"
+    options:
+      - "Le courant augmente"
+      - "Le courant diminue"
+      - "Rien ne change"
+    answer: 2
+    explanation: >
+      La loi d'Ohm indique que le courant est inversement proportionnel à la résistance : à
+      tension égale, augmenter la résistance d'un circuit réduit la quantité de courant qui y
+      circule.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Trois grandeurs suffisent à comprendre le fonctionnement de base de n'importe quel circuit
+électrique : la tension, le courant et la résistance. Une relation simple, découverte en 1827,
+relie ces trois notions entre elles.
+
+## La tension, la force qui pousse le courant
+
+La tension, mesurée en volts, représente une différence de charge électrique entre deux points
+d'un circuit. Cette différence agit comme une force qui pousse les charges électriques à se
+déplacer d'un point vers l'autre.
+
+## Le courant, le débit des charges électriques
+
+Le courant, mesuré en ampères, représente la quantité de charge électrique qui circule à travers
+un point du circuit chaque seconde. Plus le courant est important, plus le débit de charges
+électriques en mouvement est élevé.
+
+## La résistance, ce qui freine le passage du courant
+
+La résistance, mesurée en ohms, représente la difficulté qu'un matériau oppose au passage du
+courant électrique. Un bon conducteur, comme le cuivre, offre une résistance très faible ; un
+isolant, comme le caoutchouc, offre une résistance très élevée.
+
+## La loi d'Ohm, la relation qui relie les trois
+
+Le physicien allemand Georg Simon Ohm a établi en 1827 que le courant est directement
+proportionnel à la tension et inversement proportionnel à la résistance. Connaître deux de ces
+trois valeurs permet toujours de calculer la troisième.
+
+## Une image utile pour comprendre
+
+Comparer un circuit électrique à un système de tuyaux d'eau aide à visualiser ces notions : la
+tension correspond à la pression de l'eau, le courant correspond au débit d'eau qui circule, et la
+résistance correspond à l'étroitesse du tuyau qui freine ce débit.
+
+## À retenir
+
+- La tension, mesurée en volts, est la force qui pousse les charges électriques à circuler.
+- Le courant, mesuré en ampères, est la quantité de charge qui circule chaque seconde.
+- La résistance, mesurée en ohms, freine plus ou moins le passage du courant selon le matériau.
+- La loi d'Ohm relie ces trois grandeurs : le courant est proportionnel à la tension et inverse
+  à la résistance.
+- L'analogie d'un circuit d'eau, avec pression, débit et étroitesse du tuyau, aide à visualiser
+  ces notions.
+
+[Emplacement image : circuit électrique simple avec une pile, un fil et une ampoule, annoté avec
+tension, courant et résistance, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2960,13 +3116,89 @@ slug: lentilles-optique
 categoryPath: sciences-fondamentales/physique/electromagnetisme
 summary: >
   Réfraction, loupes, lunettes, microscopes : comment le verre courbe la lumière.
-tags: [electromagnetisme, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [electromagnetisme, optique, lentilles, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "How do lenses work? What are the different types of lens?"
+    url: "https://www.explainthatstuff.com/lenses.html"
+    publisher: "Explain that Stuff"
+    date: "2025"
+  - title: "16.3 Lenses"
+    url: "https://openstax.org/books/physics/pages/16-3-lenses"
+    publisher: "OpenStax"
+    date: "2025"
+quiz:
+  - question: "Que fait une lentille convexe, aussi appelée convergente, à la lumière qui la
+      traverse ?"
+    options:
+      - "Elle disperse les rayons lumineux dans toutes les directions"
+      - "Elle fait converger les rayons lumineux parallèles vers un point appelé foyer"
+      - "Elle bloque complètement le passage de la lumière"
+    answer: 2
+    explanation: >
+      Une lentille convexe, plus épaisse au centre que sur les bords, courbe les rayons
+      lumineux parallèles de façon à les faire converger vers un point unique appelé foyer.
+  - question: "Pour quel type de problème de vue une lentille concave, ou divergente, est-elle
+      utilisée ?"
+    options:
+      - "Pour corriger la vision de près, l'hypermétropie"
+      - "Pour corriger la vision de loin, la myopie"
+      - "Pour corriger la perception des couleurs"
+    answer: 2
+    explanation: >
+      Une lentille concave fait diverger les rayons lumineux, ce qui compense l'excès de
+      convergence de l'œil myope et permet de mieux voir les objets éloignés.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un simple morceau de verre courbé peut agrandir un objet, corriger la vue, ou permettre
+d'observer des étoiles lointaines. Ce pouvoir repose sur un phénomène physique appelé réfraction,
+la déviation de la lumière lorsqu'elle traverse un matériau transparent.
+
+## Le principe de la réfraction
+
+La lumière change de vitesse en passant de l'air au verre, ce qui dévie sa trajectoire. Une
+lentille exploite ce phénomène en donnant au verre une forme courbée précise, qui dirige les
+rayons lumineux vers une direction voulue.
+
+## Les lentilles convexes, qui font converger la lumière
+
+Plus épaisse au centre que sur les bords, une lentille convexe rapproche les rayons lumineux
+parallèles jusqu'à les faire converger en un point appelé foyer. Ce type de lentille sert dans les
+loupes, les télescopes et pour corriger l'hypermétropie.
+
+## Les lentilles concaves, qui font diverger la lumière
+
+Plus fine au centre que sur les bords, une lentille concave écarte les rayons lumineux plutôt que
+de les rapprocher. Ce type de lentille corrige la myopie, en compensant un œil qui fait converger
+la lumière trop fortement.
+
+## La loupe, l'usage le plus simple
+
+Une simple lentille convexe tenue près d'un objet permet de l'observer agrandi, car elle dévie
+les rayons lumineux de manière à ce que le cerveau perçoive l'objet comme plus grand qu'il ne
+l'est réellement.
+
+## Combiner plusieurs lentilles
+
+Un microscope ou une lunette astronomique associe généralement au moins deux lentilles, chacune
+agrandissant l'image produite par la précédente, ce qui permet d'atteindre des grossissements
+impossibles avec une seule lentille.
+
+## À retenir
+
+- La réfraction dévie la lumière lorsqu'elle traverse un matériau transparent comme le verre.
+- Une lentille convexe fait converger les rayons lumineux vers un point appelé foyer.
+- Une lentille concave fait diverger les rayons lumineux plutôt que de les rapprocher.
+- Une loupe est une simple lentille convexe qui agrandit l'image perçue d'un objet proche.
+- Combiner plusieurs lentilles, comme dans un microscope, permet d'atteindre de forts
+  grossissements.
+
+[Emplacement image : rayons de lumière traversant une lentille convexe et convergeant vers un
+point focal, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3096,13 +3328,89 @@ slug: conduction-convection-rayonnement
 categoryPath: sciences-fondamentales/physique/thermodynamique
 summary: >
   Les trois façons dont la chaleur se transmet, à connaître pour chauffer, isoler ou cuisiner.
-tags: [thermodynamique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [thermodynamique, chaleur, transfert-thermique, essentiel-reconstruction]
+relatedArticles: [combustion]
+sources:
+  - title: "Heat Transfer - Conduction, Convection, Radiation"
+    url: "https://sciencenotes.org/heat-transfer-conduction-convection-radiation/"
+    publisher: "Science Notes"
+    date: "2025"
+  - title: "What's the Difference Between Conduction, Convection, and Radiation?"
+    url: "https://www.machinedesign.com/learning-resources/whats-the-difference-between/document/21834474/whats-the-difference-between-conduction-convection-and-radiation"
+    publisher: "Machine Design"
+    date: "2025"
+quiz:
+  - question: "Quel mode de transfert de chaleur nécessite un contact direct entre deux objets ?"
+    options:
+      - "La convection"
+      - "La conduction"
+      - "Le rayonnement"
+    answer: 2
+    explanation: >
+      La conduction transmet la chaleur par contact direct entre deux objets ou entre deux
+      parties d'un même objet, comme un manche de casserole qui chauffe au contact du feu.
+  - question: "Quel mode de transfert de chaleur permet au Soleil de réchauffer la Terre malgré
+      le vide de l'espace ?"
+    options:
+      - "La conduction, car l'espace conduit la chaleur"
+      - "La convection, grâce au mouvement des masses d'air"
+      - "Le rayonnement, qui ne nécessite aucun support matériel"
+    answer: 3
+    explanation: >
+      Contrairement à la conduction et à la convection, le rayonnement transporte l'énergie sous
+      forme d'ondes électromagnétiques et ne nécessite aucun support matériel, ce qui lui permet
+      de traverser le vide spatial.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La chaleur se déplace toujours d'un endroit chaud vers un endroit plus froid, mais elle le fait de
+trois façons différentes selon les situations. Connaître ces trois modes aide à comprendre
+pourquoi un objet chauffe, refroidit, ou reste isolé.
+
+## La conduction, un transfert par contact direct
+
+La chaleur se propage de proche en proche à travers un matériau, ou entre deux objets en contact
+direct. Le manche métallique d'une casserole qui chauffe progressivement au contact du feu
+illustre ce mode de transfert.
+
+## La convection, un transfert par mouvement de matière
+
+Dans un liquide ou un gaz, les parties chaudes, moins denses, montent naturellement tandis que les
+parties froides, plus denses, descendent, créant un mouvement continu qui répartit la chaleur.
+L'eau qui bout dans une casserole ou l'air chaud qui monte dans une pièce illustrent ce phénomène.
+
+## Le rayonnement, un transfert sans support matériel
+
+L'énergie se propage sous forme d'ondes électromagnétiques, sans nécessiter aucun support
+matériel. C'est ce mode de transfert qui permet au Soleil de réchauffer la Terre à travers le vide
+de l'espace, ou qui explique la chaleur ressentie près d'un feu sans contact direct.
+
+## Ces trois modes agissent souvent ensemble
+
+Dans une situation réelle, comme un feu de camp, les trois modes se combinent : la conduction
+chauffe les objets en contact direct avec les braises, la convection fait monter l'air chaud, et
+le rayonnement réchauffe directement la peau des personnes proches sans qu'elles touchent le feu.
+
+## Une application pratique pour l'isolation
+
+Un bon isolant limite la conduction en piégeant de l'air, mauvais conducteur de chaleur, dans de
+petites poches. Une surface réfléchissante limite le rayonnement en renvoyant une partie de
+l'énergie plutôt que de l'absorber.
+
+## À retenir
+
+- La conduction transmet la chaleur par contact direct, de proche en proche.
+- La convection déplace la chaleur grâce au mouvement des liquides ou des gaz chauffés.
+- Le rayonnement transporte l'énergie sous forme d'ondes, sans nécessiter de support matériel.
+- Ces trois modes agissent souvent simultanément dans une même situation, comme un feu de camp.
+- Un bon isolant limite la conduction en piégeant de l'air, un mauvais conducteur de chaleur.
+
+[Emplacement image : feu de camp illustrant les trois modes de transfert thermique, conduction
+dans les bûches, convection dans l'air chaud, rayonnement vers les personnes proches, légende et
+texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3147,13 +3455,88 @@ slug: distillation
 categoryPath: sciences-fondamentales/chimie/chimie-organique
 summary: >
   Séparer des liquides par leur point d'ébullition : de l'alcool aux huiles essentielles et au carburant.
-tags: [chimie-organique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [chimie-organique, distillation, separation, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Distillation"
+    url: "https://www.ebsco.com/research-starters/chemistry/distillation/"
+    publisher: "EBSCO Research Starters"
+    date: "2025"
+  - title: "2.2: Distillation"
+    url: "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book:_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/02:_COMMON_ORGANIC_CHEMISTRY_LABORATORY_TECHNIQUES/2.02:_Distillation"
+    publisher: "Chemistry LibreTexts"
+    date: "2025"
+quiz:
+  - question: "Sur quel principe repose la distillation pour séparer deux liquides mélangés ?"
+    options:
+      - "La différence de couleur entre les liquides"
+      - "La différence de point d'ébullition entre les liquides"
+      - "La différence de poids entre les liquides"
+    answer: 2
+    explanation: >
+      La distillation exploite le fait que chaque liquide bout à une température différente : le
+      composant au point d'ébullition le plus bas s'évapore en premier lorsqu'on chauffe le
+      mélange.
+  - question: "Pourquoi peut-on séparer l'alcool de l'eau par distillation ?"
+    options:
+      - "Parce que l'alcool bout à une température plus basse que l'eau"
+      - "Parce que l'alcool est plus lourd que l'eau"
+      - "Parce que l'eau s'évapore complètement en premier"
+    answer: 1
+    explanation: >
+      L'alcool bout à une température inférieure à celle de l'eau. En chauffant le mélange,
+      l'alcool s'évapore en premier et peut être recueilli séparément après condensation.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chauffer un mélange de liquides puis recondenser la vapeur permet de séparer ses composants selon
+leur température d'ébullition. Cette technique ancienne, appelée distillation, sert aussi bien à
+produire de l'alcool qu'à purifier de l'eau ou extraire des huiles essentielles.
+
+## Le principe physique de la séparation
+
+Chaque liquide pur bout à une température qui lui est propre. Dans un mélange chauffé
+progressivement, le composant dont le point d'ébullition est le plus bas s'évapore en premier,
+laissant le reste du mélange encore liquide.
+
+## Capturer et refroidir la vapeur
+
+La vapeur qui s'échappe du mélange chauffé est dirigée vers un tube refroidi de l'extérieur,
+souvent par de l'eau froide circulant autour. Ce refroidissement fait recondenser la vapeur en
+liquide, qui s'écoule alors séparément du mélange d'origine.
+
+## L'exemple de l'alcool
+
+L'alcool bout à une température inférieure à celle de l'eau. En chauffant un mélange fermenté
+contenant de l'alcool et de l'eau, l'alcool s'évapore en premier et peut être recueilli
+séparément, ce qui permet de concentrer sa proportion dans le liquide obtenu.
+
+## D'autres usages de la distillation
+
+Cette technique sert aussi à purifier de l'eau salée ou contaminée en la vaporisant puis en la
+recondensant sans les impuretés non volatiles, à extraire des huiles essentielles de plantes
+aromatiques, et à séparer les différents composants du pétrole brut selon leur température
+d'ébullition.
+
+## Une technique connue depuis l'Antiquité
+
+Des traces de distillation remontent à l'Antiquité, utilisées pour produire des parfums et des
+remèdes. Cette technique s'est ensuite perfectionnée au fil des siècles, notamment grâce à de
+meilleurs systèmes de refroidissement de la vapeur.
+
+## À retenir
+
+- La distillation sépare des liquides mélangés selon leur température d'ébullition différente.
+- Le composant qui bout à la température la plus basse s'évapore et se recondense en premier.
+- L'alcool, qui bout avant l'eau, peut ainsi être concentré à partir d'un mélange fermenté.
+- Cette technique sert aussi à purifier l'eau et à extraire des huiles essentielles de plantes.
+- La distillation est utilisée depuis l'Antiquité, notamment pour les parfums et les remèdes.
+
+[Emplacement image : montage de distillation avec ballon chauffé, tube de refroidissement et
+récipient de collecte du liquide condensé, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3181,13 +3564,88 @@ slug: acides-bases
 categoryPath: sciences-fondamentales/chimie/chimie-inorganique
 summary: >
   Le pH, la neutralisation et les acides et bases de la vie quotidienne.
-tags: [chimie-inorganique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [chimie-inorganique, acide, base, essentiel-reconstruction]
+relatedArticles: [oxydation-reduction]
+sources:
+  - title: "Acids and Bases I: Definitions, pH and neutralization"
+    url: "https://www.visionlearning.com/en/library/Chemistry/6/Acids-and-Bases-I/271/"
+    publisher: "Visionlearning"
+    date: "2025"
+  - title: "9.2: The pH Scale (Acidic/Basic/Neutral solutions)"
+    url: "https://chem.libretexts.org/Courses/South_Puget_Sound_Community_College/Chem_121:_Introduction_to_Chemistry/09:_Chapter_8A_-_Acids_bases_and_pH/9.02:_The_pH_Scale_(Acidic_Basic_Neutral_solutions)"
+    publisher: "Chemistry LibreTexts"
+    date: "2025"
+quiz:
+  - question: "Sur l'échelle de pH, que signifie une valeur inférieure à 7 ?"
+    options:
+      - "Une solution basique"
+      - "Une solution acide"
+      - "Une solution parfaitement neutre"
+    answer: 2
+    explanation: >
+      L'échelle de pH va de 0 à 14. Une valeur inférieure à 7 indique une solution acide, une
+      valeur supérieure à 7 indique une solution basique, et 7 correspond à la neutralité.
+  - question: "Que se forme-t-il quand un acide et une base réagissent complètement ensemble ?"
+    options:
+      - "Un gaz toxique dans tous les cas"
+      - "De l'eau et un sel"
+      - "Un nouvel acide plus fort"
+    answer: 2
+    explanation: >
+      Une réaction de neutralisation combine les ions d'un acide et d'une base pour former de
+      l'eau et un sel, ramenant généralement la solution vers un pH proche de la neutralité.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Vinaigre, jus de citron, savon ou bicarbonate : ces produits du quotidien sont soit des acides,
+soit des bases. Comprendre cette distinction fondamentale de la chimie aide à comprendre de
+nombreuses réactions utiles, de la cuisine au nettoyage.
+
+## Ce qui distingue un acide d'une base
+
+Un acide libère des ions hydrogène chargés positivement lorsqu'il est dissous dans l'eau, tandis
+qu'une base libère des ions hydroxyde chargés négativement. Cette différence chimique explique
+leurs propriétés souvent opposées.
+
+## L'échelle de pH pour mesurer l'acidité
+
+L'échelle de pH, graduée de 0 à 14, permet de situer une solution. En dessous de 7, la solution
+est acide ; au-dessus de 7, elle est basique ; à exactement 7, elle est neutre. Chaque unité de
+cette échelle représente un changement dix fois plus important qu'il n'y parait.
+
+## La neutralisation, une réaction utile
+
+Mélanger un acide et une base dans des proportions adaptées les neutralise mutuellement,
+produisant de l'eau et un sel. C'est ce principe qui permet, par exemple, de neutraliser un sol
+trop acide avec de la chaux, ou de calmer une brûlure d'estomac avec du bicarbonate.
+
+## Des exemples du quotidien
+
+Le vinaigre, le jus de citron et l'acide contenu dans l'estomac sont des acides. Le savon, le
+bicarbonate de soude et la lessive de cendres sont des bases. Ces substances, bien que courantes,
+peuvent irriter la peau ou les yeux si elles sont fortement concentrées.
+
+## Manipuler des acides et des bases en sécurité
+
+Les acides et les bases les plus concentrés peuvent provoquer des brûlures chimiques. Diluer
+progressivement une substance concentrée dans l'eau, plutôt que l'inverse, réduit le risque de
+projection dangereuse.
+
+## À retenir
+
+- Un acide libère des ions hydrogène dans l'eau, une base libère des ions hydroxyde.
+- L'échelle de pH situe une solution entre acide, en dessous de 7, et basique, au-dessus de 7.
+- Mélanger un acide et une base dans de bonnes proportions les neutralise, formant de l'eau et
+  un sel.
+- Le vinaigre et le jus de citron sont des acides courants, le savon et le bicarbonate des bases
+  courantes.
+- Toujours diluer un produit concentré dans l'eau, jamais l'inverse, pour limiter les risques.
+
+[Emplacement image : échelle de pH illustrée avec des exemples courants, du citron acide au
+savon basique, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3232,13 +3690,91 @@ slug: oxydation-reduction
 categoryPath: sciences-fondamentales/chimie/chimie-inorganique
 summary: >
   Rouille, combustion, piles : la même réaction d'échange d'électrons derrière de nombreux phénomènes.
-tags: [chimie-inorganique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [chimie-inorganique, oxydoreduction, electrons, essentiel-reconstruction]
+relatedArticles: [acides-bases, combustion]
+sources:
+  - title: "Ox-redox Reactions"
+    url: "https://www.ebsco.com/research-starters/chemistry/ox-redox-reactions"
+    publisher: "EBSCO Research Starters"
+    date: "2025"
+  - title: "4.4: Oxidation-Reduction Reactions"
+    url: "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map:_Chemistry_-_The_Central_Science_(Brown_et_al.)/04:_Reactions_in_Aqueous_Solution/4.04:_Oxidation-Reduction_Reactions"
+    publisher: "Chemistry LibreTexts"
+    date: "2025"
+quiz:
+  - question: "Que se passe-t-il chimiquement lors de l'oxydation du fer, qui forme la rouille ?"
+    options:
+      - "Le fer gagne des électrons cédés par l'oxygène"
+      - "Le fer perd des électrons qui sont captés par l'oxygène"
+      - "Le fer se transforme directement en oxygène"
+    answer: 2
+    explanation: >
+      Lors de la formation de la rouille, le fer perd des électrons, ce qui constitue une
+      oxydation, tandis que l'oxygène gagne ces électrons, ce qui constitue une réduction.
+  - question: "Pourquoi appelle-t-on ces réactions des réactions d'oxydoréduction ?"
+    options:
+      - "Parce qu'elles produisent toujours de l'oxygène pur"
+      - "Parce qu'elles combinent toujours une oxydation, une perte d'électrons, et une
+        réduction, un gain d'électrons"
+      - "Parce qu'elles ne se produisent qu'en présence de rouille"
+    answer: 2
+    explanation: >
+      Dans toute réaction de ce type, les électrons perdus par une substance qui s'oxyde sont
+      exactement gagnés par une autre substance qui se réduit : les deux processus sont
+      indissociables.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La rouille qui ronge le fer, la flamme d'un feu de bois et le courant produit par une pile ont un
+point commun invisible : dans chacun de ces phénomènes, des électrons passent d'une substance à
+une autre. Cette famille de réactions s'appelle l'oxydoréduction.
+
+## Oxydation et réduction, deux faces d'une même réaction
+
+L'oxydation désigne la perte d'électrons par une substance, tandis que la réduction désigne le
+gain de ces mêmes électrons par une autre substance. Ces deux processus se produisent toujours
+ensemble : les électrons perdus par l'un sont exactement ceux gagnés par l'autre.
+
+## L'exemple de la rouille
+
+Quand le fer rouille, il perd des électrons au profit de l'oxygène de l'air, en présence d'humidité.
+Le fer s'oxyde, l'oxygène se réduit, et le résultat visible de cette réaction lente est la couche
+rougeâtre et friable que l'on appelle rouille.
+
+## L'exemple de la combustion
+
+Brûler du bois ou un autre combustible est aussi une réaction d'oxydoréduction, bien plus rapide
+que la rouille : le combustible cède des électrons à l'oxygène de l'air, libérant une grande
+quantité d'énergie sous forme de chaleur et de lumière.
+
+## L'exemple des piles électriques
+
+Une pile produit du courant électrique grâce à une réaction d'oxydoréduction contrôlée : les
+électrons échangés entre deux métaux différents sont forcés de circuler à travers un circuit
+extérieur plutôt que directement entre les deux substances.
+
+## Ralentir ou provoquer ces réactions volontairement
+
+Protéger un métal avec une peinture ou un revêtement ralentit son oxydation en l'isolant de
+l'air et de l'humidité. À l'inverse, concentrer l'oxygène ou augmenter la température accélère
+volontairement une réaction, comme dans un feu bien attisé.
+
+## À retenir
+
+- L'oxydation est une perte d'électrons, la réduction est un gain d'électrons.
+- Ces deux processus se produisent toujours simultanément dans une même réaction.
+- La rouille, la combustion et le fonctionnement des piles sont tous des exemples
+  d'oxydoréduction.
+- Un revêtement protecteur ralentit l'oxydation d'un métal en le protégeant de l'air et de
+  l'humidité.
+- Augmenter la température ou l'apport en oxygène accélère volontairement ces réactions.
+
+[Emplacement image : comparaison visuelle entre un clou rouillé et une flamme de combustion,
+illustrant deux vitesses d'une même famille de réactions, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 
@@ -3283,13 +3819,89 @@ slug: combustion
 categoryPath: sciences-fondamentales/chimie/chimie-physique
 summary: >
   Combustible, comburant, chaleur : comprendre le feu pour s'en servir et s'en protéger.
-tags: [chimie-physique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [chimie-physique, combustion, feu, essentiel-reconstruction]
+relatedArticles: [oxydation-reduction]
+sources:
+  - title: "The Fire Triangle"
+    url: "https://www.sc.edu/ehs/training/Fire/01_triangle.htm"
+    publisher: "University of South Carolina Environmental Health and Safety"
+    date: "2025"
+  - title: "What is fire?"
+    url: "https://www.sciencelearn.org.nz/resources/747-what-is-fire"
+    publisher: "Science Learning Hub"
+    date: "2025"
+quiz:
+  - question: "Quels sont les trois éléments réunis dans le triangle du feu ?"
+    options:
+      - "L'eau, l'air et la terre"
+      - "Le combustible, le comburant et la chaleur"
+      - "Le bois, le charbon et le gaz"
+    answer: 2
+    explanation: >
+      Le triangle du feu représente les trois éléments indispensables à toute combustion : une
+      matière qui brûle, un gaz qui l'alimente, généralement l'oxygène, et une source de chaleur
+      suffisante pour démarrer la réaction.
+  - question: "Pourquoi étouffer un feu avec une couverture peut-il l'éteindre ?"
+    options:
+      - "Parce que cela refroidit instantanément le combustible"
+      - "Parce que cela coupe l'accès à l'oxygène nécessaire à la combustion"
+      - "Parce que la couverture absorbe le combustible"
+    answer: 2
+    explanation: >
+      En privant le feu d'oxygène, l'un des trois éléments indispensables du triangle du feu,
+      la combustion ne peut plus se poursuivre et s'éteint.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un feu ne s'allume et ne brûle que si trois éléments sont réunis en même temps : une matière qui
+peut brûler, un gaz qui alimente la réaction, et une chaleur suffisante pour la déclencher.
+Comprendre cette combinaison, appelée triangle du feu, aide à la fois à allumer un feu et à
+l'éteindre.
+
+## Le combustible, la matière qui brûle
+
+Le combustible peut être solide, comme le bois ou le charbon, liquide, comme l'essence, ou
+gazeux, comme le gaz naturel. Tous partagent la capacité de réagir chimiquement avec un gaz pour
+libérer de l'énergie.
+
+## Le comburant, le gaz qui alimente la flamme
+
+L'oxygène de l'air joue le rôle de comburant dans la quasi-totalité des combustions courantes.
+Il réagit avec les éléments chimiques du combustible pour former de nouveaux composés, notamment
+du dioxyde de carbone et de l'eau, en libérant de l'énergie.
+
+## La chaleur, l'étincelle nécessaire
+
+Une énergie initiale, appelée énergie d'activation, doit être apportée pour rompre les premières
+liaisons chimiques du combustible et démarrer la réaction. Une fois amorcée, la combustion
+produit elle-même suffisamment de chaleur pour s'entretenir.
+
+## Éteindre un feu en retirant un élément du triangle
+
+Retirer n'importe lequel des trois éléments suffit à arrêter une combustion : étouffer les flammes
+prive le feu d'oxygène, l'eau refroidit en dessous de la température nécessaire, et éloigner le
+combustible restant empêche la propagation.
+
+## Une combustion complète contre une combustion incomplète
+
+Quand l'oxygène est suffisant, la combustion est dite complète et produit surtout du dioxyde de
+carbone et de l'eau. Quand l'oxygène manque, la combustion devient incomplète et produit de la
+fumée, de la suie et du monoxyde de carbone, un gaz dangereux et invisible.
+
+## À retenir
+
+- Une combustion nécessite trois éléments réunis : combustible, comburant et chaleur.
+- L'oxygène de l'air joue le rôle de comburant dans la plupart des combustions.
+- Retirer l'un des trois éléments du triangle suffit à éteindre un feu.
+- Une combustion incomplète, par manque d'oxygène, produit du monoxyde de carbone dangereux.
+- Une énergie initiale est nécessaire pour démarrer la réaction, qui s'entretient ensuite
+  elle-même.
+
+[Emplacement image : schéma du triangle du feu illustrant combustible, comburant et chaleur,
+légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3317,13 +3929,93 @@ slug: numeration-position-zero
 categoryPath: sciences-fondamentales/mathematiques/algebre
 summary: >
   Une invention indienne qui a rendu le calcul accessible à tous.
-tags: [algebre, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [algebre, numeration, zero, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "How India's invention of zero helped create modern mathematics"
+    url: "https://scroll.in/article/851466/how-the-invention-of-zero-helped-create-modern-mathematics"
+    publisher: "Scroll.in"
+    date: "2025"
+  - title: "Decimal numeration and the place-value system - Indian Mathematics"
+    url: "https://mathshistory.st-andrews.ac.uk/Projects/Pearce/chapter-8/"
+    publisher: "MacTutor History of Mathematics, University of St Andrews"
+    date: "2025"
+quiz:
+  - question: "Qu'apporte le système de numération de position par rapport à des systèmes plus
+      anciens, comme les chiffres romains ?"
+    options:
+      - "Il utilise plus de symboles différents"
+      - "La valeur d'un chiffre dépend de sa position, ce qui simplifie énormément les calculs"
+      - "Il ne permet d'écrire que de petits nombres"
+    answer: 2
+    explanation: >
+      Dans un système de position, un même chiffre change de valeur selon sa place dans le
+      nombre, ce qui rend les opérations comme l'addition ou la multiplication bien plus simples
+      qu'avec des systèmes où chaque symbole a une valeur fixe.
+  - question: "Pourquoi le zéro est-il indispensable dans un système de numération de
+      position ?"
+    options:
+      - "Il n'a aucune utilité particulière"
+      - "Il marque l'absence de valeur à une position donnée, sans quoi la position des autres
+        chiffres devient ambiguë"
+      - "Il sert uniquement à décorer les nombres"
+    answer: 2
+    explanation: >
+      Sans un symbole pour marquer une position vide, il devient impossible de distinguer par
+      exemple 205 de 25 : le zéro rend explicite l'absence de valeur à une position précise.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Compter avec des chiffres romains rend une simple multiplication extrêmement laborieuse. Le
+système que nous utilisons aujourd'hui, où la position d'un chiffre détermine sa valeur, provient
+d'une invention indienne qui a considérablement simplifié le calcul pour toute l'humanité.
+
+## Le principe de la numération de position
+
+Dans notre système, un même chiffre change de valeur selon sa position : le chiffre deux vaut
+deux unités, vingt, ou deux cents, selon qu'il se trouve en première, deuxième ou troisième
+position. Cette simple idée évite d'avoir besoin d'un symbole différent pour chaque grandeur.
+
+## Le rôle essentiel du zéro
+
+Sans un symbole pour marquer une position vide, il devient impossible de distinguer certains
+nombres entre eux. Le zéro résout ce problème en indiquant explicitement l'absence de valeur à une
+position donnée, rendant le système de position pleinement fonctionnel.
+
+## Une invention développée en Inde
+
+Les mathématiciens indiens ont développé ce système autour du sixième siècle de notre ère.
+L'astronome et mathématicien Aryabhata a posé les bases de cette numération de position vers l'an
+500, et le savant Brahmagupta a établi au septième siècle le zéro comme un nombre à part entière,
+utilisable dans les calculs.
+
+## Une diffusion progressive vers le reste du monde
+
+Ce système s'est diffusé depuis l'Inde vers le Moyen-Orient, où des savants arabes l'ont adopté et
+transmis, avant d'atteindre l'Europe autour du neuvième siècle. C'est pourquoi ces chiffres sont
+aujourd'hui encore appelés chiffres arabes, bien qu'ils soient d'origine indienne.
+
+## Pourquoi ce système a rendu le calcul accessible
+
+Avec un système de position et un zéro, additionner, soustraire ou multiplier de grands nombres
+devient une opération mécanique et systématique, réalisable sans connaissance mathématique
+avancée, contrairement aux systèmes de numération antérieurs bien plus lourds à manipuler.
+
+## À retenir
+
+- Dans un système de position, la valeur d'un chiffre dépend de sa place dans le nombre.
+- Le zéro marque l'absence de valeur à une position, rendant le système sans ambiguïté.
+- Ce système a été développé en Inde autour du sixième siècle de notre ère.
+- Il s'est diffusé via le monde arabe avant d'atteindre l'Europe au neuvième siècle.
+- Cette invention a rendu les calculs complexes accessibles sans connaissance mathématique
+  avancée.
+
+[Emplacement image : comparaison entre un nombre écrit en chiffres romains et le même nombre
+écrit avec la numération de position moderne, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 
@@ -3538,13 +4230,95 @@ slug: arpenter-mesurer-terrain
 categoryPath: sciences-fondamentales/mathematiques/geometrie
 summary: >
   Triangulation, angles droits au cordeau, calcul de surfaces : la géométrie des bâtisseurs et des géomètres.
-tags: [geometrie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [geometrie, arpentage, triangulation, essentiel-reconstruction]
+relatedArticles: [propriete-cadastre]
+sources:
+  - title: "Triangulation (surveying)"
+    url: "https://en.wikipedia.org/wiki/Triangulation_(surveying)"
+    publisher: "Wikipedia"
+    date: "2025"
+  - title: "The Precision Art of Land Surveying"
+    url: "https://www.txsurveys.com/the-precision-art-of-land-surveying/"
+    publisher: "TX Surveys"
+    date: "2025"
+quiz:
+  - question: "Sur quel principe repose la triangulation pour mesurer une distance sans la
+      parcourir directement ?"
+    options:
+      - "On mesure uniquement le temps de trajet à pied"
+      - "On mesure des angles depuis les deux extrémités d'une base connue, puis on calcule les
+        distances par trigonométrie"
+      - "On compte le nombre de pas nécessaires"
+    answer: 2
+    explanation: >
+      La triangulation mesure les angles vers un point depuis les deux extrémités d'une distance
+      déjà connue, appelée base, ce qui permet de calculer par trigonométrie les distances qu'il
+      serait difficile de mesurer directement.
+  - question: "Comment peut-on tracer un angle droit précis sur le terrain sans instrument
+      spécialisé, en utilisant une corde ?"
+    options:
+      - "En pliant la corde en deux parties égales"
+      - "En formant un triangle avec des côtés dans un rapport de trois, quatre et cinq unités"
+      - "En tendant la corde le plus fort possible"
+    answer: 2
+    explanation: >
+      Un triangle dont les côtés respectent le rapport trois, quatre, cinq forme toujours un
+      angle droit exact entre les deux côtés les plus courts, une méthode connue et utilisée
+      depuis l'Antiquité.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Mesurer un terrain, tracer un angle droit précis ou calculer une surface ne nécessite pas
+forcément d'instruments sophistiqués. Des méthodes géométriques simples, connues depuis
+l'Antiquité, permettent d'arpenter un terrain avec une précision suffisante pour la plupart des
+usages.
+
+## La triangulation, mesurer sans se déplacer
+
+Pour connaître la distance jusqu'à un point difficile d'accès, on mesure les angles vers ce point
+depuis les deux extrémités d'une distance déjà connue, appelée base. La trigonométrie permet
+ensuite de calculer les distances manquantes sans jamais parcourir le terrain concerné.
+
+## Tracer un angle droit avec une simple corde
+
+Un triangle dont les côtés respectent la proportion trois, quatre et cinq unités forme toujours un
+angle droit exact entre les deux côtés les plus courts. Cette méthode, connue depuis l'Antiquité
+égyptienne, permet de tracer des angles droits précis avec seulement une corde nouée à intervalles
+réguliers.
+
+## Mesurer une distance sans instrument électronique
+
+Une corde ou une chaîne de longueur connue, tendue et comptée en unités successives, permet de
+mesurer directement une distance sur un terrain plat. Sur un terrain irrégulier, il faut corriger
+cette mesure pour tenir compte de la pente.
+
+## Calculer la surface d'un terrain
+
+Un terrain de forme régulière, comme un rectangle ou un triangle, se calcule avec des formules
+géométriques simples. Un terrain de forme irrégulière peut être décomposé en plusieurs figures
+simples, dont on additionne ensuite les surfaces individuelles.
+
+## L'usage des instruments historiques
+
+Avant les appareils électroniques modernes, les arpenteurs utilisaient des instruments comme le
+théodolite, qui mesure précisément les angles horizontaux et verticaux, pour appliquer la
+triangulation à grande échelle sur des territoires entiers.
+
+## À retenir
+
+- La triangulation calcule des distances par trigonométrie à partir d'angles mesurés depuis une
+  base connue.
+- Un triangle aux côtés dans un rapport trois, quatre, cinq forme toujours un angle droit exact.
+- Une corde de longueur connue permet de mesurer directement une distance sur un terrain plat.
+- Un terrain irrégulier se calcule en le décomposant en plusieurs figures géométriques simples.
+- Le théodolite, un instrument historique, mesure précisément les angles pour l'arpentage à
+  grande échelle.
+
+[Emplacement image : arpenteur utilisant une corde nouée pour tracer un angle droit sur un
+terrain, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3878,13 +4652,93 @@ slug: trouver-minerais
 categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
 summary: >
   Comment se forment les gisements et comment les prospecteurs les repèrent.
-tags: [geologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [geologie, minerais, prospection, essentiel-reconstruction]
+relatedArticles: [trouver-eau-souterraine]
+sources:
+  - title: "Indicator Mineral"
+    url: "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/indicator-mineral"
+    publisher: "ScienceDirect"
+    date: "2025"
+  - title: "8 Steps of Mineral Exploration"
+    url: "https://rangefront.com/blog/8-steps-mineral-exploration/"
+    publisher: "Rangefront Mining Services"
+    date: "2025"
+quiz:
+  - question: "Pourquoi les failles et fractures géologiques indiquent-elles parfois la
+      présence de minerais ?"
+    options:
+      - "Elles n'ont aucun lien avec la formation des gisements"
+      - "Elles ont servi de passages à des fluides chauds qui y ont déposé des minéraux"
+      - "Elles empêchent toujours la formation de minerais"
+    answer: 2
+    explanation: >
+      Les fractures et zones de contact entre roches différentes servent souvent de conduits
+      naturels à des fluides chauds chargés de minéraux, qui s'y déposent en refroidissant.
+  - question: "Que sont les minéraux indicateurs utilisés en prospection minière ?"
+    options:
+      - "Des outils électroniques de mesure"
+      - "Des minéraux spécifiques dont la présence signale la possibilité d'un gisement à
+        proximité"
+      - "Des cartes topographiques anciennes"
+    answer: 2
+    explanation: >
+      Certains minéraux, retrouvés dans les sédiments ou les roches, servent d'indices qui
+      orientent les prospecteurs vers une zone où un gisement plus important pourrait se
+      trouver.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les minerais ne sont pas répartis au hasard dans le sous-sol : leur formation suit des processus
+géologiques précis, qui laissent des indices repérables en surface. Ces indices ont guidé les
+prospecteurs bien avant l'apparition des instruments modernes.
+
+## Comment se forment les gisements
+
+De nombreux gisements se forment quand des fluides chauds, chargés de minéraux dissous,
+circulent à travers des fractures de la roche puis refroidissent, déposant progressivement leur
+contenu minéral concentré en un même endroit.
+
+## Les failles et fractures, des indices de surface
+
+Les zones de fracture et les contacts entre différents types de roches servent souvent de
+conduits naturels à ces fluides chauds. Repérer ces structures géologiques en surface oriente
+souvent la recherche vers des zones plus prometteuses.
+
+## Les changements de couleur des roches
+
+Des solutions minérales acides peuvent blanchir ou altérer la couleur des roches environnantes.
+De fines veines de quartz, des traces de rouille ou une décoloration inhabituelle peuvent signaler
+une activité géologique passée liée à un gisement proche.
+
+## Les minéraux indicateurs
+
+Certains minéraux, retrouvés en petite quantité dans les sédiments d'une rivière ou dans le sol,
+servent d'indices précieux : leur présence suggère qu'un gisement plus important se trouve quelque
+part en amont ou à proximité.
+
+## Les méthodes modernes de prospection
+
+Aujourd'hui, des mesures magnétiques, gravitationnelles ou électriques du sous-sol complètent
+l'observation directe du terrain, révélant des anomalies invisibles à l'œil nu qui peuvent
+signaler la présence d'un gisement.
+
+## À retenir
+
+- De nombreux gisements se forment quand des fluides chauds chargés de minéraux se déposent en
+  refroidissant.
+- Les failles et fractures géologiques ont souvent servi de conduits à ces fluides.
+- Des changements de couleur des roches peuvent signaler une activité géologique liée à un
+  gisement.
+- Certains minéraux indicateurs, trouvés en petite quantité, orientent vers un gisement plus
+  important à proximité.
+- Des mesures magnétiques ou électriques modernes complètent aujourd'hui l'observation directe
+  du terrain.
+
+[Emplacement image : affleurement rocheux montrant des veines de quartz et des traces de
+minéralisation, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3912,13 +4766,92 @@ slug: trouver-eau-souterraine
 categoryPath: sciences-fondamentales/sciences-de-la-terre/geologie
 summary: >
   Lire le relief et les roches pour savoir où creuser un puits.
-tags: [geologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [geologie, eau-souterraine, puits, essentiel-reconstruction]
+relatedArticles: [trouver-minerais]
+sources:
+  - title: "E9 - Methods for finding underground water and water tables"
+    url: "https://wikiwater.fr/e9-methods-for-finding-underground"
+    publisher: "Wikiwater"
+    date: "2025"
+  - title: "How to Detect Underground Water: Methods and Signs"
+    url: "https://biologyinsights.com/how-to-detect-underground-water-methods-and-signs/"
+    publisher: "Biology Insights"
+    date: "2025"
+quiz:
+  - question: "Quel signe végétal peut indiquer la présence d'eau souterraine peu profonde ?"
+    options:
+      - "Des plantes desséchées même en saison humide"
+      - "Une végétation particulièrement verte et dense qui le reste en saison sèche"
+      - "L'absence totale de végétation"
+    answer: 2
+    explanation: >
+      Une végétation qui reste luxuriante même pendant les périodes sèches, contrastant avec les
+      alentours plus secs, suggère souvent que les racines des plantes atteignent une nappe d'eau
+      peu profonde.
+  - question: "Pourquoi les vallées et zones basses sont-elles souvent plus favorables pour
+      trouver de l'eau souterraine que les collines ?"
+    options:
+      - "L'eau s'accumule naturellement par gravité vers les points bas du relief"
+      - "Les vallées reçoivent toujours plus de pluie que les collines"
+      - "Le sol des vallées est toujours plus perméable"
+    answer: 1
+    explanation: >
+      L'eau souterraine, comme l'eau de surface, a tendance à s'écouler vers les points les plus
+      bas du relief sous l'effet de la gravité, ce qui rend la nappe généralement plus proche de
+      la surface dans les vallées.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant de creuser un puits, il vaut mieux savoir où l'eau est susceptible de se trouver. Le
+relief, la végétation et la nature des roches donnent des indices précieux, bien avant tout
+équipement scientifique moderne.
+
+## Observer le relief du terrain
+
+L'eau souterraine, comme l'eau de surface, tend à s'écouler vers les points les plus bas d'un
+paysage sous l'effet de la gravité. Les vallées, les zones de drainage naturel et les terrains bas
+présentent donc généralement une nappe d'eau plus proche de la surface que les collines
+environnantes.
+
+## Lire les signes donnés par la végétation
+
+Une végétation particulièrement verte et dense, qui reste luxuriante même en période sèche alors
+que les environs se dessèchent, signale souvent que les racines des plantes atteignent une réserve
+d'eau souterraine peu profonde.
+
+## Repérer les sources et suintements naturels
+
+Une source ou une zone de sol constamment humide indique que la nappe d'eau souterraine affleure
+naturellement à cet endroit. Un cours d'eau qui continue de couler même durant les périodes de
+sécheresse prolongée révèle une alimentation souterraine continue.
+
+## Comprendre la nature des roches locales
+
+Certaines roches, comme le sable ou le calcaire fissuré, laissent facilement passer et circuler
+l'eau, tandis que d'autres, comme l'argile compacte, la retiennent en surface ou la bloquent
+presque totalement. Identifier la roche dominante d'une région aide à anticiper la profondeur
+probable d'une nappe.
+
+## Les méthodes plus rigoureuses
+
+Au-delà de l'observation directe, des professionnels utilisent des mesures de résistivité
+électrique du sol, une technique qui révèle des différences de composition invisibles à l'œil nu
+et localise plus précisément une nappe d'eau souterraine avant de creuser.
+
+## À retenir
+
+- L'eau souterraine s'écoule généralement vers les points bas du relief, comme les vallées.
+- Une végétation qui reste verte en saison sèche peut signaler une nappe d'eau peu profonde.
+- Les sources et zones de sol constamment humide révèlent un affleurement naturel de la nappe.
+- Le sable et le calcaire fissuré laissent mieux circuler l'eau que l'argile compacte.
+- Des mesures de résistivité électrique du sol permettent une localisation plus précise avant de
+  creuser.
+
+[Emplacement image : paysage montrant une végétation dense dans une vallée signalant la présence
+d'eau souterraine peu profonde, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

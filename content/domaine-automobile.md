@@ -3232,7 +3232,7 @@ summary: >
   Un moteur doit rester dans une fenêtre de température étroite : trop froid, il consomme mal ;
   trop chaud, il se détériore.
 tags: [automobile, moteur, refroidissement, liquide, thermostat]
-relatedArticles: [fonctionnement-moteur-combustion-interne, entretien-automobile]
+relatedArticles: [fonctionnement-moteur-combustion-interne]
 sources:
   - title: "Internal-combustion engine"
     url: "https://www.britannica.com/technology/internal-combustion-engine"

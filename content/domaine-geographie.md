@@ -1236,13 +1236,91 @@ slug: lire-carte-topographique
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
   Courbes de niveau, échelle, orientation : se repérer et comprendre le relief sur le papier.
-tags: [reliefs, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [reliefs, cartographie, orientation, essentiel-reconstruction]
+relatedArticles: [naviguer-sans-gps]
+sources:
+  - title: "How to Read a Topographic Map"
+    url: "https://www.rei.com/learn/expert-advice/topo-maps-how-to-use.html"
+    publisher: "REI"
+    date: "2025"
+  - title: "What are Contour Lines?"
+    url: "https://www.greenbelly.co/pages/contour-lines"
+    publisher: "Greenbelly Meals"
+    date: "2025"
+quiz:
+  - question: "Que signifient des courbes de niveau très rapprochées les unes des autres sur une
+      carte topographique ?"
+    options:
+      - "Un terrain plat et facile à parcourir"
+      - "Une pente raide où l'altitude change rapidement sur une courte distance"
+      - "Une zone où il n'y a aucune information disponible"
+    answer: 2
+    explanation: >
+      Des courbes de niveau rapprochées indiquent que l'altitude varie beaucoup sur une distance
+      réduite, ce qui signale une pente raide, tandis que des courbes espacées indiquent un
+      terrain plus plat.
+  - question: "Que signifie une échelle de carte indiquée comme un pour vingt-quatre mille ?"
+    options:
+      - "Un centimètre sur la carte correspond à vingt-quatre mille centimètres sur le terrain"
+      - "La carte couvre vingt-quatre mille kilomètres carrés"
+      - "Il y a vingt-quatre mille courbes de niveau sur la carte"
+    answer: 1
+    explanation: >
+      Une échelle de un pour vingt-quatre mille signifie qu'une unité de mesure sur la carte, par
+      exemple un centimètre, correspond à vingt-quatre mille de cette même unité sur le terrain
+      réel.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une carte topographique représente en deux dimensions un terrain qui en compte trois, grâce à des
+lignes appelées courbes de niveau. Apprendre à lire ces courbes permet de visualiser mentalement
+le relief réel avant même de mettre les pieds sur le terrain.
+
+## Les courbes de niveau, le relief en lignes
+
+Chaque courbe de niveau relie tous les points situés à une même altitude. L'écart d'altitude entre
+deux courbes consécutives, appelé équidistance, reste constant sur une même carte et est indiqué
+dans sa légende.
+
+## Interpréter l'espacement des courbes
+
+Des courbes rapprochées signalent une pente raide, où l'altitude change rapidement sur une courte
+distance. Des courbes largement espacées indiquent au contraire un terrain relativement plat, où
+l'altitude évolue lentement.
+
+## Les courbes maîtresses, des repères facilités
+
+Pour faciliter la lecture, une courbe sur cinq environ, appelée courbe maîtresse, est tracée plus
+épaisse et porte une indication d'altitude directement écrite sur la ligne, ce qui évite de
+compter toutes les courbes intermédiaires une par une.
+
+## Comprendre l'échelle de la carte
+
+L'échelle indique le rapport entre une distance mesurée sur la carte et la distance réelle sur le
+terrain. Une échelle de un pour vingt-quatre mille signifie qu'un centimètre sur le papier
+correspond à vingt-quatre mille centimètres, soit deux cent quarante mètres, sur le terrain réel.
+
+## S'orienter avec la carte
+
+Aligner la carte avec le nord réel, à l'aide d'une boussole ou de repères naturels, permet de
+faire correspondre les éléments dessinés avec ce que l'on observe autour de soi, facilitant
+grandement le repérage sur le terrain.
+
+## À retenir
+
+- Les courbes de niveau relient les points de même altitude sur une carte topographique.
+- Des courbes rapprochées indiquent une pente raide, des courbes espacées un terrain plus plat.
+- Les courbes maîtresses, plus épaisses, portent une indication d'altitude pour faciliter la
+  lecture.
+- L'échelle indique le rapport entre une distance sur la carte et la distance réelle sur le
+  terrain.
+- Aligner la carte avec le nord réel facilite grandement le repérage sur le terrain.
+
+[Emplacement image : carte topographique avec des courbes de niveau illustrant une vallée et une
+colline, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1321,13 +1399,94 @@ slug: prevoir-temps-sans-instruments
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
   Nuages, vent, comportement des animaux : ce que l'observation permet de prévoir, et ses limites.
-tags: [climatologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [climatologie, meteorologie, observation, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "The Language of Clouds: Reading the Sky Without Instruments"
+    url: "https://terra-cultura.com/en/the-language-of-clouds-reading-the-sky-without-instruments/"
+    publisher: "Terra Cultura"
+    date: "2025"
+  - title: "15 Old-Fashioned Ways To Predict The Weather Without An App"
+    url: "https://homesteadhow-to.com/15-old-fashioned-ways-to-predict-the-weather-without-an-app/"
+    publisher: "Homestead How-To"
+    date: "2025"
+quiz:
+  - question: "Que signale l'apparition de nuages fins en forme de crochets ou de virgules dans
+      le ciel ?"
+    options:
+      - "Un temps sec et stable pour plusieurs jours"
+      - "L'approche probable d'un front chaud, annonçant une pluie continue"
+      - "Une tempête de neige imminente uniquement en hiver"
+    answer: 2
+    explanation: >
+      Ces nuages fins, appelés cirrus, se forment souvent en avant-garde d'un front chaud qui
+      approche, et annoncent généralement l'arrivée d'une pluie continue dans les heures ou
+      jours suivants.
+  - question: "Pourquoi des oiseaux posés en nombre sur des fils électriques peuvent-ils indiquer
+      un changement de temps ?"
+    options:
+      - "Cela n'a aucun rapport avec la météo"
+      - "Une baisse de la pression atmosphérique, souvent liée à l'approche d'une perturbation,
+        peut modifier leur comportement"
+      - "Les oiseaux se posent toujours ainsi, sans lien avec le temps"
+    answer: 2
+    explanation: >
+      Certains oiseaux semblent réagir à la baisse de pression atmosphérique qui précède souvent
+      une perturbation météorologique, ce qui peut expliquer un comportement de regroupement
+      inhabituel.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Bien avant les prévisions météorologiques modernes, observer attentivement le ciel, le vent et le
+comportement des animaux permettait déjà d'anticiper un changement de temps. Ces méthodes restent
+utiles, même si elles ne remplacent pas des instruments de mesure précis.
+
+## Lire les nuages
+
+Des nuages fins en forme de crochets, appelés cirrus, annoncent souvent l'approche d'un front
+chaud et d'une pluie continue dans les heures ou jours suivants. Des nuages gris et épais,
+appelés stratus, apportent généralement une pluie fine et prolongée, tandis que des nuages en
+forme de choux-fleurs isolés dans un ciel par ailleurs dégagé signalent souvent un temps stable.
+
+## Observer le vent et son évolution
+
+Un vent qui souffle de la mer vers la terre le matin indique généralement une situation stable.
+Un vent persistant venant de la terre vers la mer durant la nuit peut au contraire signaler
+l'approche d'une perturbation, en particulier dans les régions côtières.
+
+## Les signes donnés par les animaux et les plantes
+
+Des oiseaux posés en nombre sur des fils électriques peuvent réagir à une baisse de pression
+atmosphérique annonciatrice d'un changement de temps. Certaines plantes libèrent une odeur
+particulière, proche du compost, avant l'arrivée d'un système de basse pression.
+
+## Le brouillard, un indicateur à double sens
+
+En été, un brouillard matinal annonce souvent une journée qui restera dégagée, car l'air est
+encore trop frais pour évaporer l'humidité qui se condense donc en brouillard. Un ciel étoilé et
+clair la nuit indique généralement un air sec, ce qui se traduit souvent par une nuit fraîche et
+une matinée limpide.
+
+## Les limites de ces méthodes
+
+Ces observations restent des indications générales, utiles à court terme, mais bien moins fiables
+qu'une prévision moderne basée sur des mesures précises et des modèles informatiques complexes.
+Elles conservent néanmoins leur utilité en l'absence de tout instrument disponible.
+
+## À retenir
+
+- Des cirrus en crochets annoncent souvent l'approche d'un front chaud et d'une pluie continue.
+- Un vent persistant de la terre vers la mer la nuit peut signaler une perturbation à venir.
+- Le comportement de certains animaux peut réagir à la baisse de pression avant une perturbation.
+- Un brouillard matinal en été annonce généralement une journée dégagée.
+- Ces méthodes restent des indications générales, moins fiables qu'une prévision moderne
+  instrumentée.
+
+[Emplacement image : ciel montrant des nuages cirrus en forme de crochets annonçant un changement
+de temps, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1372,13 +1531,93 @@ slug: calendrier-saisons-cultures
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
   Latitude, saisons, gelées : adapter les semis et récoltes au climat local.
-tags: [climatologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [climatologie, agriculture, saisons, essentiel-reconstruction]
+relatedArticles: [prevoir-temps-sans-instruments]
+sources:
+  - title: "Understanding When to Plant Vegetables"
+    url: "https://www.almanac.com/understanding-when-plant-vegetables"
+    publisher: "The Old Farmer's Almanac"
+    date: "2025"
+  - title: "Farmers' Almanac Planting Calendar"
+    url: "https://www.farmersalmanac.com/calendar/gardening"
+    publisher: "Farmers' Almanac"
+    date: "2025"
+quiz:
+  - question: "Pourquoi la date des dernières gelées printanières est-elle une information
+      essentielle pour planifier les semis ?"
+    options:
+      - "Elle n'a aucune influence sur les cultures"
+      - "Semer trop tôt expose les jeunes plants au gel, qui peut les détruire"
+      - "Elle détermine uniquement la couleur des fleurs obtenues"
+    answer: 2
+    explanation: >
+      De nombreuses jeunes pousses ne résistent pas au gel. Connaître la date moyenne de la
+      dernière gelée printanière de sa région permet d'éviter de semer trop tôt et de perdre une
+      culture entière.
+  - question: "Pourquoi la latitude d'un lieu influence-t-elle fortement son calendrier
+      agricole ?"
+    options:
+      - "Elle détermine la durée et l'intensité des saisons, donc la période favorable à chaque
+        culture"
+      - "Elle n'a aucun effet sur le climat local"
+      - "Elle change uniquement la couleur du sol"
+    answer: 1
+    explanation: >
+      La latitude influence directement la durée du jour, l'intensité du rayonnement solaire et
+      la longueur des saisons, ce qui détermine les périodes favorables aux semis et aux récoltes
+      dans chaque région.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Semer une graine trop tôt ou trop tard, selon le climat local, peut compromettre toute une
+récolte. Adapter son calendrier de culture à la latitude, aux saisons et au risque de gelée d'une
+région augmente considérablement les chances de succès.
+
+## Le rôle de la latitude
+
+La latitude d'un lieu détermine la durée du jour, l'intensité du rayonnement solaire reçu et la
+longueur des saisons. Les régions plus proches de l'équateur connaissent des saisons moins
+marquées, tandis que les régions plus proches des pôles ont des étés courts et des hivers longs et
+rigoureux.
+
+## Identifier la date des dernières gelées
+
+Connaître la date moyenne de la dernière gelée printanière d'une région permet d'éviter de semer
+des plants sensibles trop tôt, ce qui les exposerait à un risque destructeur. De la même façon, la
+date de la première gelée automnale marque la limite de la saison de culture.
+
+## Adapter les cultures à la saison
+
+Les cultures dites de saison fraîche, comme certaines salades, tolèrent des températures plus
+basses et se sèment tôt au printemps. Les cultures de saison chaude, comme les tomates ou les
+haricots, nécessitent d'attendre que tout risque de gel soit écarté avant d'être plantées.
+
+## Observer les signes naturels locaux
+
+Au-delà des dates calendaires théoriques, observer la floraison de certaines plantes locales ou
+le réveil de certains insectes peut donner des indices fiables sur le moment réel où les
+conditions deviennent favorables, particulièrement utile dans un climat qui varie d'une année sur
+l'autre.
+
+## Tenir un calendrier personnalisé au fil des années
+
+Noter chaque année les dates de semis, de gelées observées et de récoltes permet de construire
+progressivement un calendrier précis et adapté à son propre terrain, souvent plus fiable qu'une
+moyenne générale calculée pour toute une région.
+
+## À retenir
+
+- La latitude détermine la durée des saisons et l'intensité du rayonnement solaire reçu.
+- Connaître la date moyenne des dernières gelées évite de semer trop tôt des plants sensibles.
+- Les cultures de saison fraîche et de saison chaude ne se sèment pas au même moment.
+- Observer des signes naturels locaux complète utilement les dates calendaires théoriques.
+- Tenir un calendrier personnalisé au fil des années affine la précision pour son propre terrain.
+
+[Emplacement image : calendrier agricole illustrant les périodes de semis et de récolte selon les
+saisons, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1661,13 +1900,94 @@ slug: organiser-village-autonome
 categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
 summary: >
   Eau, énergie, nourriture, déchets : ce dont une petite communauté a besoin pour fonctionner.
-tags: [urbanisation, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [urbanisation, autonomie, communaute, essentiel-reconstruction]
+relatedArticles: [ressources-territoire]
+sources:
+  - title: "Build an off-grid eco-community: land, people, ownership & design"
+    url: "https://www.ecohome.net/en/guides/4159/how-to-start-an-eco-community/"
+    publisher: "Ecohome"
+    date: "2025"
+  - title: "100% Self Sufficient Off Grid Village Grows its Own Food & Produces its Own Power"
+    url: "https://offgridworld.com/100-self-sufficient-off-grid-village-grows-its-own-food-produces-its-own-power/"
+    publisher: "Off Grid World"
+    date: "2025"
+quiz:
+  - question: "Quels sont les besoins fondamentaux qu'une communauté autonome doit satisfaire en
+      priorité ?"
+    options:
+      - "Uniquement l'accès à internet"
+      - "L'eau potable, l'énergie, la nourriture et la gestion des déchets"
+      - "Uniquement un système de transport rapide"
+    answer: 2
+    explanation: >
+      Une communauté véritablement autonome doit d'abord sécuriser ses besoins fondamentaux :
+      accès à l'eau potable, production d'énergie, production alimentaire suffisante et gestion
+      des déchets générés.
+  - question: "Pourquoi la diversité des sources de production est-elle importante pour
+      l'autonomie d'un village ?"
+    options:
+      - "Elle n'a aucune importance particulière"
+      - "Elle réduit la vulnérabilité face à la défaillance d'une seule source ou d'un seul
+        système"
+      - "Elle complique uniquement la gestion sans autre bénéfice"
+    answer: 2
+    explanation: >
+      Dépendre d'une seule source d'eau, d'énergie ou de nourriture rend une communauté
+      vulnérable si cette source venait à faire défaut. Diversifier les sources renforce la
+      résilience globale du village.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Faire fonctionner une petite communauté sans dépendre de réseaux extérieurs nécessite de couvrir
+quatre besoins fondamentaux : l'eau, l'énergie, la nourriture et la gestion des déchets. Organiser
+ces besoins de façon cohérente est la base de toute autonomie durable.
+
+## Sécuriser l'accès à l'eau potable
+
+Un village autonome a besoin d'au moins une source d'eau fiable, qu'il s'agisse d'un puits, d'une
+source naturelle ou d'un système de récupération d'eau de pluie, complétée par une méthode de
+traitement adaptée pour garantir sa potabilité.
+
+## Produire suffisamment de nourriture localement
+
+Cultiver une diversité de plantes vivrières, adaptées au climat local, réduit le risque qu'une
+seule mauvaise récolte ne mette en péril l'approvisionnement alimentaire de toute la communauté.
+L'élevage complète utilement cette production par des protéines animales et du fumier fertilisant.
+
+## Générer de l'énergie localement
+
+Bois de chauffage, énergie solaire, éolienne ou hydraulique selon les ressources disponibles
+localement permettent de couvrir les besoins essentiels en chauffage, cuisson et éclairage sans
+dépendre d'un réseau extérieur.
+
+## Gérer les déchets produits par la communauté
+
+Composter les déchets organiques pour fertiliser les cultures, trier et réutiliser les matériaux
+récupérables, et prévoir un traitement adapté des eaux usées évite l'accumulation de déchets qui
+finirait par polluer l'environnement immédiat du village.
+
+## Diversifier pour renforcer la résilience
+
+Dépendre d'une seule source d'eau, d'énergie ou de nourriture rend une communauté vulnérable en
+cas de défaillance. Combiner plusieurs sources complémentaires pour chaque besoin fondamental
+renforce considérablement la capacité du village à surmonter des difficultés imprévues.
+
+## À retenir
+
+- Un village autonome doit sécuriser en priorité l'eau, l'énergie, la nourriture et la gestion
+  des déchets.
+- Une source d'eau fiable, complétée par un traitement adapté, garantit la potabilité de
+  l'approvisionnement.
+- Diversifier les cultures vivrières et l'élevage réduit le risque lié à une mauvaise récolte.
+- Composter et trier les déchets évite leur accumulation et enrichit les cultures.
+- Diversifier les sources pour chaque besoin fondamental renforce la résilience globale de la
+  communauté.
+
+[Emplacement image : schéma d'un village autonome montrant ses sources d'eau, d'énergie, ses
+cultures et sa gestion des déchets, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -1950,13 +2270,101 @@ slug: ressources-territoire
 categoryPath: geographie-et-territoires/geopolitique/ressources
 summary: >
   Bois, pierre, argile, eau, terres cultivables : inventorier ce qu'un territoire peut fournir localement.
-tags: [ressources, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [ressources, territoire, autonomie, essentiel-reconstruction]
+relatedArticles: [organiser-village-autonome]
+sources:
+  - title: "Strategic Value Definition for AP Human Geography"
+    url: "https://fiveable.me/ap-hug/key-terms/strategic-value"
+    publisher: "Fiveable"
+    date: "2025"
+  - title: "Revisiting the Resource Curse in the Age of Energy Transition"
+    url: "https://arxiv.org/pdf/2404.17713"
+    publisher: "arXiv"
+    date: "2025"
+quiz:
+  - question: "Pourquoi est-il utile de dresser un inventaire précis des ressources disponibles
+      sur un territoire avant de s'y installer durablement ?"
+    options:
+      - "Cela permet uniquement de satisfaire une curiosité scientifique"
+      - "Cela révèle ce que le territoire peut fournir localement sans dépendre d'importations
+        extérieures"
+      - "Cela n'a aucune utilité pratique concrète"
+    answer: 2
+    explanation: >
+      Connaître précisément les ressources en bois, pierre, argile, eau et terres cultivables
+      d'un territoire permet d'anticiper ce qui pourra être produit localement, sans dépendre
+      d'approvisionnements extérieurs incertains.
+  - question: "Pourquoi la présence d'eau douce est-elle souvent considérée comme la ressource la
+      plus déterminante d'un territoire ?"
+    options:
+      - "Parce qu'elle est la seule ressource véritablement indispensable à toute vie et
+        activité humaine"
+      - "Parce qu'elle n'a en réalité aucune importance particulière"
+      - "Parce qu'elle sert uniquement à des usages décoratifs"
+    answer: 1
+    explanation: >
+      Sans eau douce accessible, ni la survie humaine, ni l'agriculture, ni la plupart des
+      activités artisanales ou industrielles ne sont possibles, ce qui en fait la ressource la
+      plus fondamentale d'un territoire.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant de s'installer durablement sur un territoire, savoir précisément ce qu'il peut fournir
+localement, en eau, en matériaux et en terres cultivables, permet d'anticiper les besoins qui
+devront être comblés autrement, par échange ou par importation.
+
+## L'eau douce, la ressource la plus déterminante
+
+Sans accès à une eau douce fiable, que ce soit par une rivière, une source ou une nappe
+souterraine, aucune installation humaine durable n'est réellement viable. C'est généralement le
+premier critère à évaluer avant tout autre.
+
+## Les terres cultivables et leur qualité
+
+La superficie de terres suffisamment fertiles, leur exposition au soleil et leur accès à
+l'irrigation déterminent la capacité d'un territoire à nourrir sa population de façon autonome sur
+le long terme.
+
+## Le bois et les matériaux de construction
+
+La présence de forêts fournit du bois de construction, du bois de chauffage et des matériaux pour
+de nombreux usages quotidiens. La disponibilité locale de pierre, d'argile ou de sable détermine
+également les possibilités de construction sans avoir à importer de matériaux.
+
+## Les ressources minérales et énergétiques
+
+Un territoire peut aussi offrir des gisements de minerais utiles à la métallurgie, du charbon ou
+d'autres sources d'énergie locales, ainsi qu'un potentiel hydraulique, éolien ou solaire selon sa
+géographie et son climat.
+
+## L'importance stratégique de certaines ressources
+
+Certaines ressources acquièrent une valeur stratégique particulière au-delà de leur seule utilité
+locale, notamment lorsqu'elles permettent des échanges avec d'autres territoires moins bien
+dotés, renforçant ainsi l'influence et la sécurité de la communauté qui les possède.
+
+## Dresser un inventaire réaliste
+
+Un inventaire honnête des ressources réellement disponibles, plutôt que des ressources
+théoriquement présentes mais difficiles d'accès, aide à établir des priorités réalistes pour
+l'installation et le développement d'une communauté sur un territoire donné.
+
+## À retenir
+
+- L'eau douce accessible reste généralement la ressource la plus déterminante d'un territoire.
+- La qualité des terres cultivables conditionne la capacité d'un territoire à nourrir sa
+  population.
+- Le bois, la pierre et l'argile locaux permettent de construire sans dépendre d'importations.
+- Les ressources minérales et énergétiques locales complètent les besoins de base d'un
+  territoire.
+- Un inventaire réaliste des ressources accessibles aide à établir des priorités d'installation
+  cohérentes.
+
+[Emplacement image : carte d'un territoire annotée des ressources locales disponibles, eau, bois,
+terres cultivables et minerais, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -2086,13 +2494,93 @@ slug: naviguer-sans-gps
 categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
 summary: >
   Boussole, étoiles, carte et estime : les méthodes de navigation traditionnelles.
-tags: [routes-et-detroits, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [routes-et-detroits, navigation, orientation, essentiel-reconstruction]
+relatedArticles: [reperer-grace-etoiles, lire-carte-topographique]
+sources:
+  - title: "How to Navigate Without GPS: Master Land Navigation Skills"
+    url: "https://www.battlbox.com/blogs/outdoors/how-to-navigate-without-gps-mastering-the-art-of-classic-navigation"
+    publisher: "Battlbox"
+    date: "2025"
+  - title: "Celestial navigation"
+    url: "https://en.wikipedia.org/wiki/Celestial_navigation"
+    publisher: "Wikipedia"
+    date: "2025"
+quiz:
+  - question: "Qu'est-ce que la navigation à l'estime ?"
+    options:
+      - "Une méthode qui utilise uniquement les étoiles"
+      - "Une estimation de sa position à partir du point de départ, de la direction suivie et de
+        la distance parcourue"
+      - "Une technique qui nécessite obligatoirement un satellite"
+    answer: 2
+    explanation: >
+      La navigation à l'estime calcule une position approximative en combinant un point de
+      départ connu, la direction suivie et la distance estimée parcourue depuis ce point.
+  - question: "Quelle méthode simple permet de trouver approximativement l'axe est-ouest en
+      plein jour grâce au soleil ?"
+    options:
+      - "Observer uniquement la couleur du ciel"
+      - "Planter un bâton vertical et suivre le déplacement de l'ombre de sa pointe au fil du
+        temps"
+      - "Compter le nombre de nuages visibles"
+    answer: 2
+    explanation: >
+      La méthode de l'ombre du bâton consiste à marquer la position de l'extrémité de l'ombre à
+      intervalles réguliers : la ligne reliant ces marques indique approximativement l'axe
+      est-ouest.
+lastVerified: 2026-09-28
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant l'invention du GPS, des navigateurs traversaient déjà des océans entiers sans jamais perdre
+leur direction. Plusieurs méthodes complémentaires, combinées intelligemment, permettent de se
+repérer avec une précision suffisante sans aucun appareil électronique.
+
+## La navigation à l'estime
+
+Cette méthode calcule une position approximative à partir d'un point de départ connu, de la
+direction suivie et de la distance parcourue depuis ce point. Chaque erreur s'accumule au fil du
+trajet, ce qui rend nécessaire de recaler régulièrement sa position grâce à d'autres repères.
+
+## S'orienter grâce au soleil
+
+Planter un bâton vertical dans le sol et marquer la position de l'extrémité de son ombre à
+intervalles réguliers permet de tracer une ligne qui indique approximativement l'axe est-ouest, la
+première marque correspondant à l'ouest et la seconde à l'est.
+
+## S'orienter grâce aux étoiles la nuit
+
+L'étoile polaire dans l'hémisphère nord, ou la Croix du Sud dans l'hémisphère austral, indiquent
+respectivement le nord et le sud avec une fiabilité suffisante pour orienter un déplacement
+nocturne.
+
+## Utiliser une carte et une boussole ensemble
+
+Une carte seule indique où se trouvent les éléments du terrain, mais ne dit pas dans quelle
+direction on regarde réellement. Une boussole, alignée avec le nord indiqué sur la carte, permet
+de faire correspondre les deux et de suivre une direction précise.
+
+## Observer les repères naturels du terrain
+
+L'écoulement des cours d'eau, la direction dominante des vents qui façonne certains arbres, ou la
+répartition de la végétation selon l'exposition au soleil, offrent des indices complémentaires qui
+aident à confirmer une direction déjà estimée par d'autres méthodes.
+
+## À retenir
+
+- La navigation à l'estime calcule une position à partir du point de départ, de la direction et
+  de la distance parcourue.
+- La méthode de l'ombre du bâton indique approximativement l'axe est-ouest en plein jour.
+- L'étoile polaire et la Croix du Sud indiquent respectivement le nord et le sud la nuit.
+- Une carte et une boussole utilisées ensemble permettent de suivre une direction précise sur le
+  terrain.
+- Les repères naturels du terrain confirment utilement une direction déjà estimée par d'autres
+  méthodes.
+
+[Emplacement image : bâton planté verticalement avec des marques au sol indiquant le déplacement
+de son ombre au fil du temps, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 

@@ -2717,7 +2717,7 @@ summary: >
   Avant la machine à vapeur, le moulin à eau a été la première grande source d'énergie mécanique
   maîtrisée par l'humanité : moudre le grain, scier le bois, forger le fer, sans muscle animal.
 tags: [hydraulique, energie, histoire, moulin, essentiel-reconstruction]
-relatedArticles: [lhydroelectricite, la-machine-a-vapeur]
+relatedArticles: [le-charbon-et-la-machine-a-vapeur-une-revolution-conjointe]
 sources:
   - title: "Watermills: A Key Technology of Medieval Europe"
     url: "https://historymedieval.com/watermills-a-key-tech-of-the-middle-ages/"
@@ -2884,13 +2884,91 @@ slug: microcentrale-hydroelectrique
 categoryPath: energie/energies-renouvelables/hydraulique
 summary: >
   Quelques mètres de chute et un petit débit suffisent à alimenter un hameau en électricité.
-tags: [hydraulique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [hydraulique, microcentrale, electricite, essentiel-reconstruction]
+relatedArticles: [produire-electricite-avec-aimant]
+sources:
+  - title: "Micro Hydro Power and How Does Micro Power Work?"
+    url: "https://www.alternative-energy-tutorials.com/hydro-energy/micro-hydro-power.html"
+    publisher: "Alternative Energy Tutorials"
+    date: "2025"
+  - title: "How Does a Micro Hydro Generator Work?"
+    url: "https://www.ecoflow.com/us/blog/how-does-micro-hydro-generator-work"
+    publisher: "EcoFlow"
+    date: "2025"
+quiz:
+  - question: "Quels sont les deux facteurs qui déterminent la puissance produite par une
+      microcentrale hydroélectrique ?"
+    options:
+      - "La couleur de l'eau et la température"
+      - "La hauteur de chute et le débit de l'eau"
+      - "La taille du réservoir de stockage uniquement"
+    answer: 2
+    explanation: >
+      La puissance disponible dépend de la hauteur de chute, appelée hauteur de charge, et du
+      débit, c'est-à-dire la quantité d'eau qui passe par seconde à travers la turbine.
+  - question: "Pourquoi une microcentrale au fil de l'eau a-t-elle un impact environnemental
+      plus faible qu'un grand barrage ?"
+    options:
+      - "Parce qu'elle ne nécessite ni grand barrage ni réservoir de stockage"
+      - "Parce qu'elle ne produit aucune électricité"
+      - "Parce qu'elle fonctionne uniquement la nuit"
+    answer: 1
+    explanation: >
+      Une installation au fil de l'eau détourne une partie du courant sans grand barrage ni
+      réservoir, évitant l'inondation de terres et limitant fortement l'impact sur le milieu.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Il n'est pas nécessaire de construire un immense barrage pour produire de l'électricité à partir
+de l'eau. Un petit cours d'eau, avec seulement quelques mètres de chute, peut suffire à alimenter
+un hameau grâce à une installation appelée microcentrale hydroélectrique.
+
+## Le principe reste le même qu'un grand barrage
+
+L'eau qui tombe ou circule fait tourner une turbine, elle-même reliée à un générateur qui produit
+du courant électrique. La microcentrale applique ce principe à une échelle bien plus modeste, sans
+nécessiter d'infrastructure massive.
+
+## Deux facteurs déterminent la puissance disponible
+
+La hauteur de chute, aussi appelée hauteur de charge, et le débit, c'est-à-dire la quantité d'eau
+qui passe chaque seconde, déterminent ensemble la puissance qu'une installation peut produire. Une
+chute importante avec un faible débit peut produire autant qu'une faible chute avec un débit
+important.
+
+## Une installation au fil de l'eau
+
+Contrairement à un grand barrage, la plupart des microcentrales fonctionnent au fil de l'eau :
+elles détournent une partie du courant d'une rivière sans grand réservoir de stockage ni
+inondation de terres environnantes, ce qui limite fortement leur impact sur le milieu naturel.
+
+## Une puissance modeste mais suffisante localement
+
+Ces installations produisent généralement entre cinq et cent kilowatts, une puissance suffisante
+pour alimenter un petit hameau, une exploitation agricole isolée ou une communauté rurale, sans
+raccordement à un réseau électrique plus large.
+
+## Un fonctionnement continu, contrairement au soleil et au vent
+
+Tant que le cours d'eau conserve un débit suffisant, une microcentrale produit de l'électricité en
+continu, de jour comme de nuit, contrairement aux panneaux solaires ou aux éoliennes qui dépendent
+de conditions météorologiques changeantes.
+
+## À retenir
+
+- Une microcentrale applique le même principe qu'un grand barrage, à une échelle bien plus
+  modeste.
+- La hauteur de chute et le débit de l'eau déterminent ensemble la puissance produite.
+- La plupart fonctionnent au fil de l'eau, sans grand réservoir ni inondation de terres.
+- Ces installations produisent typiquement entre cinq et cent kilowatts, assez pour un hameau.
+- Contrairement au solaire ou à l'éolien, elles produisent en continu tant que l'eau coule.
+
+[Emplacement image : petite turbine hydroélectrique installée sur un cours d'eau, reliée à un
+générateur alimentant quelques habitations, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 
@@ -2969,13 +3047,97 @@ slug: produire-electricite-avec-aimant
 categoryPath: energie/reseaux-et-stockage/reseaux-electriques
 summary: >
   Dynamo et alternateur : le principe de l'induction qui se cache derrière presque toute l'électricité produite.
-tags: [reseaux-electriques, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [reseaux-electriques, induction, generateur, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Electromagnetism - Induction, Faraday, Magnetism"
+    url: "https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction"
+    publisher: "Encyclopaedia Britannica"
+    date: "2025"
+  - title: "The birth of the electric machines: a commentary on Faraday (1832) 'Experimental
+      researches in electricity'"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360079/"
+    publisher: "Philosophical Transactions of the Royal Society / PMC"
+    date: "2025"
+quiz:
+  - question: "Que faut-il faire pour qu'un aimant produise du courant électrique dans une
+      bobine ?"
+    options:
+      - "Le placer immobile à côté de la bobine"
+      - "Le déplacer ou le faire tourner près de la bobine"
+      - "Le chauffer fortement"
+    answer: 2
+    explanation: >
+      C'est la variation du champ magnétique, provoquée par le mouvement de l'aimant, qui induit
+      un courant. Un aimant immobile ne produit rien.
+  - question: "Quel principe commun utilisent la plupart des centrales électriques pour produire
+      du courant ?"
+    options:
+      - "La réaction chimique entre deux métaux"
+      - "L'induction électromagnétique découverte par Faraday"
+      - "La combustion directe transformée en électricité"
+    answer: 2
+    explanation: >
+      Qu'elles soient nucléaires, hydrauliques ou thermiques, la plupart des centrales font
+      tourner un aimant dans des bobines pour produire du courant par induction.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Déplacer un aimant près d'un fil électrique enroulé en bobine suffit à produire du courant, sans
+aucune réaction chimique. Cette découverte, faite en 1831, est à l'origine de presque toute
+l'électricité produite dans le monde aujourd'hui.
+
+## La découverte de Faraday
+
+Le physicien britannique Michael Faraday cherchait depuis dix ans à prouver qu'un aimant pouvait
+produire de l'électricité. En 1831, il observe qu'en déplaçant rapidement un aimant à l'intérieur
+d'une bobine de fil, un courant électrique bref apparaît dans le fil, même sans pile ni batterie.
+
+Ce phénomène s'appelle l'induction électromagnétique : un champ magnétique qui varie dans le
+temps crée un courant électrique dans un conducteur voisin.
+
+## Pourquoi il faut du mouvement
+
+Un aimant immobile près d'une bobine ne produit rien : c'est la variation du champ magnétique,
+pas sa seule présence, qui génère le courant. C'est pourquoi il faut faire tourner l'aimant, ou
+la bobine, en continu pour obtenir un courant électrique soutenu plutôt qu'une simple impulsion.
+
+## De la découverte à la dynamo
+
+Quelques années seulement après l'expérience de Faraday, des ingénieurs ont construit les
+premiers générateurs pratiques exploitant ce principe : des aimants tournant à l'intérieur de
+bobines fixes, entraînés par une manivelle, une roue à eau ou une machine à vapeur.
+
+## L'alternateur moderne
+
+Presque toutes les centrales électriques actuelles, qu'elles soient nucléaires, hydrauliques ou à
+charbon, fonctionnent sur exactement ce même principe : une source d'énergie fait tourner un
+aimant à l'intérieur de bobines, ce qui produit le courant alternatif qui alimente le réseau
+électrique.
+
+## Fabriquer un générateur de fortune
+
+Une bobine de fil de cuivre isolé, enroulée autour d'un aimant que l'on fait tourner rapidement à
+la main, produit un courant électrique mesurable, suffisant pour allumer une petite ampoule ou
+une diode. Plus la rotation est rapide et le nombre de spires élevé, plus le courant produit est
+important.
+
+## À retenir
+
+- Un aimant en mouvement près d'une bobine de fil produit un courant électrique, sans réaction
+  chimique.
+- Michael Faraday a découvert ce phénomène, l'induction électromagnétique, en 1831.
+- Seule la variation du champ magnétique produit du courant, pas sa simple présence.
+- La quasi-totalité des centrales électriques actuelles utilisent ce même principe pour produire
+  du courant.
+- Une bobine de cuivre et un aimant en rotation suffisent à construire un générateur électrique
+  rudimentaire.
+
+[Emplacement image : schéma d'un aimant tournant à l'intérieur d'une bobine de fil produisant un
+courant électrique, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3003,13 +3165,91 @@ slug: batterie-plomb
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
   Inventée en 1859, toujours dans chaque voiture : robuste, recyclable et fabricable avec des matériaux simples.
-tags: [batteries, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [batteries, plomb, stockage, essentiel-reconstruction]
+relatedArticles: [electrolyse-eau]
+sources:
+  - title: "BU-201: How does the Lead Acid Battery Work?"
+    url: "https://www.batteryuniversity.com/article/bu-201-how-does-the-lead-acid-battery-work/"
+    publisher: "Battery University"
+    date: "2025"
+  - title: "Gaston Planté and his invention of the lead-acid battery"
+    url: "https://ui.adsabs.harvard.edu/abs/2010JPS...195.4424K/abstract"
+    publisher: "Journal of Power Sources"
+    date: "2025"
+quiz:
+  - question: "Qui a inventé la batterie au plomb, première batterie rechargeable au monde ?"
+    options:
+      - "Michael Faraday en 1831"
+      - "Gaston Planté en 1859"
+      - "Alessandro Volta en 1800"
+    answer: 2
+    explanation: >
+      Le physicien français Gaston Planté a mis au point en 1859 la première batterie
+      rechargeable pratique, utilisant des plaques de plomb enroulées et immergées dans une
+      solution d'acide sulfurique.
+  - question: "Dans quel liquide les plaques de plomb d'une batterie sont-elles immergées ?"
+    options:
+      - "De l'eau salée"
+      - "Un mélange d'eau et d'acide sulfurique"
+      - "De l'huile minérale"
+    answer: 2
+    explanation: >
+      L'électrolyte d'une batterie au plomb est une solution d'eau et d'acide sulfurique, qui
+      permet la réaction chimique reversible entre les deux plaques lors de la charge et de la
+      décharge.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Plus de cent soixante ans après son invention, la batterie au plomb reste la technologie de
+stockage électrique la plus fabriquée au monde. Robuste, réparable et entièrement recyclable, elle
+équipe encore aujourd'hui la quasi-totalité des véhicules à moteur thermique.
+
+## L'invention de Gaston Planté
+
+En 1859, le physicien français Gaston Planté met au point la première batterie rechargeable
+pratique de l'histoire. Son dispositif utilise deux plaques de plomb enroulées, séparées par un
+tissu isolant, immergées dans une solution d'eau et d'acide sulfurique.
+
+## Comment elle produit du courant
+
+Une plaque est recouverte de dioxyde de plomb, l'autre est du plomb spongieux. Plongées dans
+l'électrolyte acide, elles réagissent chimiquement en libérant des électrons qui circulent à
+travers un circuit extérieur, produisant le courant électrique utilisable.
+
+## Une réaction chimique réversible
+
+Contrairement à une pile classique, cette réaction peut être inversée en faisant circuler un
+courant en sens contraire, ce qui recharge la batterie. C'est cette réversibilité qui a fait de
+l'invention de Planté la première batterie véritablement rechargeable.
+
+## Pourquoi cette technologie ancienne perdure
+
+La batterie au plomb reste peu coûteuse à produire, tolère bien les fortes intensités nécessaires
+au démarrage d'un moteur, et se recycle presque intégralement : le plomb récupéré sert à fabriquer
+de nouvelles batteries, ce qui en fait l'une des technologies de stockage les plus recyclées au
+monde.
+
+## Fabriquer une batterie de fortune
+
+Le principe de base peut être reproduit avec des plaques de plomb ou d'autres métaux plongées
+dans une solution acide, bien qu'une version artisanale reste bien moins performante et plus
+dangereuse à manipuler qu'une batterie industrielle, en raison de la toxicité du plomb et de
+l'acidité de l'électrolyte.
+
+## À retenir
+
+- Gaston Planté a inventé la première batterie rechargeable pratique en 1859.
+- Deux plaques de plomb différentes, immergées dans de l'acide sulfurique dilué, produisent le
+  courant.
+- La réaction chimique est réversible, ce qui permet de recharger la batterie.
+- Cette technologie reste peu coûteuse, robuste et presque entièrement recyclable.
+- Le plomb et l'acide utilisés restent dangereux à manipuler sans précautions adaptées.
+
+[Emplacement image : coupe d'une batterie au plomb montrant les plaques immergées dans
+l'électrolyte acide, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3122,13 +3362,88 @@ slug: electrolyse-eau
 categoryPath: energie/reseaux-et-stockage/hydrogene
 summary: >
   Séparer l'eau en hydrogène et oxygène avec de l'électricité : le principe, les rendements, les usages.
-tags: [hydrogene, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [hydrogene, electrolyse, essentiel-reconstruction]
+relatedArticles: [batterie-plomb, produire-electricite-avec-aimant]
+sources:
+  - title: "Hydrogen Production: Electrolysis"
+    url: "https://www.energy.gov/eere/fuelcells/hydrogen-production-electrolysis"
+    publisher: "U.S. Department of Energy"
+    date: "2025"
+  - title: "Electrolysis of Water: Definition and Equation"
+    url: "https://www.chemistrylearner.com/electrolysis-of-water.html"
+    publisher: "Chemistry Learner"
+    date: "2025"
+quiz:
+  - question: "Que se forme-t-il à la cathode lors de l'électrolyse de l'eau ?"
+    options:
+      - "De l'oxygène"
+      - "De l'hydrogène"
+      - "Du sel"
+    answer: 2
+    explanation: >
+      À la cathode, les ions hydrogène issus de la réaction à l'anode se combinent avec des
+      électrons pour former de l'hydrogène gazeux, tandis que l'oxygène se forme à l'anode.
+  - question: "Quelle est l'équation globale de l'électrolyse de l'eau ?"
+    options:
+      - "H2O devient directement de l'hydrogène pur sans autre produit"
+      - "Deux molécules d'eau donnent deux molécules d'hydrogène et une d'oxygène"
+      - "L'eau se transforme en sel et en gaz carbonique"
+    answer: 2
+    explanation: >
+      L'équation globale, deux H2O donnent deux H2 et un O2, montre que l'eau se sépare en deux
+      fois plus d'hydrogène que d'oxygène, en volume de gaz produit.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Faire passer un courant électrique dans de l'eau suffit à la séparer en ses deux composants,
+l'hydrogène et l'oxygène. Ce procédé, appelé électrolyse, est aujourd'hui l'une des principales
+méthodes envisagées pour produire de l'hydrogène sans recourir aux énergies fossiles.
+
+## Le principe de la séparation
+
+Deux électrodes, une positive appelée anode et une négative appelée cathode, sont plongées dans
+l'eau et reliées à une source de courant électrique. Une membrane sépare les deux zones pour
+éviter que les gaz produits ne se remélangent.
+
+## Ce qui se passe à chaque électrode
+
+À l'anode, l'eau réagit pour former de l'oxygène et des ions hydrogène chargés positivement. Ces
+ions traversent la membrane vers la cathode, où ils captent des électrons venus du circuit
+électrique pour former de l'hydrogène gazeux.
+
+## Une réaction chimique simple mais gourmande en énergie
+
+L'équation globale de la réaction s'écrit ainsi : deux molécules d'eau se transforment en deux
+molécules d'hydrogène et une molécule d'oxygène. Cette transformation nécessite une quantité
+importante d'électricité, ce qui explique le coût encore élevé de l'hydrogène produit ainsi.
+
+## Un hydrogène propre seulement sous condition
+
+L'électrolyse ne produit aucune émission directe de gaz à effet de serre. Mais l'empreinte
+environnementale réelle dépend entièrement de la source de l'électricité utilisée : une
+électricité produite à partir de charbon déplace simplement le problème plutôt que de le
+résoudre.
+
+## Une expérience réalisable simplement
+
+Faire passer un faible courant continu à travers de l'eau légèrement salée, avec deux électrodes
+en métal inerte, produit visiblement des bulles de gaz aux deux électrodes, une démonstration
+simple du principe de l'électrolyse.
+
+## À retenir
+
+- L'électrolyse sépare l'eau en hydrogène et en oxygène grâce à un courant électrique.
+- L'hydrogène se forme à la cathode, l'oxygène à l'anode.
+- La réaction globale produit deux fois plus de volume d'hydrogène que d'oxygène.
+- Ce procédé ne rejette aucune émission directe, mais dépend de la propreté de l'électricité
+  utilisée.
+- Une expérience simple avec de l'eau salée et un courant faible illustre ce principe.
+
+[Emplacement image : schéma d'un électrolyseur avec deux électrodes plongées dans l'eau produisant
+des bulles d'hydrogène et d'oxygène, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3207,13 +3522,88 @@ slug: isoler-batiment
 categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
 summary: >
   Toiture, murs, fenêtres, ponts thermiques : où part la chaleur d'une maison et comment la garder.
-tags: [efficacite-energetique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [efficacite-energetique, isolation, batiment, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Understanding R-Values and Insulation"
+    url: "https://focusonenergy.com/blog/understanding-r-values-and-insulation"
+    publisher: "Focus on Energy"
+    date: "2025"
+  - title: "Understanding Insulation and R-Value"
+    url: "https://www.thisoldhouse.com/insulation/understanding-insulation-and-r-value"
+    publisher: "This Old House"
+    date: "2025"
+quiz:
+  - question: "Qu'est-ce qu'un pont thermique ?"
+    options:
+      - "Un pont construit avec des matériaux chauffants"
+      - "Un point où l'isolation est interrompue et où la chaleur s'échappe plus vite"
+      - "Un système de chauffage au sol"
+    answer: 2
+    explanation: >
+      Un pont thermique est une zone, comme une jonction entre mur et plancher, où l'isolation
+      est affaiblie ou absente, ce qui crée une fuite de chaleur localisée.
+  - question: "Pourquoi isoler le toit est-il souvent la priorité dans une maison ?"
+    options:
+      - "Parce que c'est le plus facile à peindre"
+      - "Parce que l'air chaud monte et s'échappe en premier par le haut"
+      - "Parce que le toit coûte le moins cher à isoler"
+    answer: 2
+    explanation: >
+      L'air chaud étant moins dense, il monte naturellement vers le haut du bâtiment. Sans
+      isolation du toit, cette chaleur s'échappe rapidement.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans une maison mal isolée, la chaleur s'échappe en continu : par le toit, les murs, les fenêtres
+et certains points faibles appelés ponts thermiques. Isoler, c'est ralentir cette fuite pour
+dépenser moins d'énergie à se chauffer.
+
+## Ce que mesure la résistance thermique
+
+La capacité d'un matériau à freiner le passage de la chaleur se mesure par sa résistance
+thermique. Plus cette valeur est élevée, plus le matériau isole efficacement. Elle dépend à la
+fois du matériau utilisé et de son épaisseur : une couche plus épaisse isole toujours mieux
+qu'une couche fine du même matériau.
+
+## Le toit, première priorité
+
+Dans une maison non isolée, une part importante de la chaleur s'échappe par le toit, car l'air
+chaud monte naturellement. C'est généralement le premier chantier à mener, souvent aussi le plus
+rentable pour l'effort fourni.
+
+## Les murs et les fenêtres
+
+Les murs extérieurs perdent de la chaleur par simple conduction, à travers l'épaisseur du
+matériau. Les fenêtres, plus fines et souvent moins isolantes que les murs, en perdent
+proportionnellement davantage : un double vitrage réduit nettement ces pertes par rapport à une
+simple vitre.
+
+## Les ponts thermiques, des points faibles cachés
+
+Un pont thermique est un endroit où l'isolation est interrompue ou affaiblie, par exemple la
+jonction entre un mur et un plancher, ou l'encadrement d'une fenêtre. La chaleur s'y concentre et
+s'échappe plus vite qu'ailleurs, même dans une maison par ailleurs bien isolée.
+
+## Une isolation mal posée perd son efficacité
+
+Un isolant comprimé, mal ajusté, ou humide, perd une grande partie de sa capacité à freiner la
+chaleur. La qualité de la pose compte autant que la qualité du matériau lui-même.
+
+## À retenir
+
+- La résistance thermique mesure la capacité d'un matériau à freiner le passage de la chaleur.
+- Le toit est souvent la priorité, car l'air chaud s'y accumule et s'échappe en premier.
+- Le double vitrage réduit fortement les pertes de chaleur par les fenêtres.
+- Les ponts thermiques sont des points faibles où l'isolation est interrompue.
+- Une isolation mal posée ou humide perd une grande partie de son efficacité.
+
+[Emplacement image : coupe d'une maison montrant les principales voies de déperdition de
+chaleur, toit, murs, fenêtres et ponts thermiques, légende et texte alternatif à fournir
+ultérieurement.]
 
 ---
 
@@ -3258,13 +3648,91 @@ slug: cogeneration
 categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
 summary: >
   Produire électricité et chaleur en même temps pour valoriser l'énergie qu'une centrale classique gaspille.
-tags: [efficacite-energetique, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [efficacite-energetique, cogeneration, chaleur, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "How does combined heat and power (CHP) cogeneration work?"
+    url: "https://www.explainthatstuff.com/combinedheatpower_cogeneration.html"
+    publisher: "Explain that Stuff"
+    date: "2025"
+  - title: "Combined Heat and Power Basics"
+    url: "https://www.energy.gov/cmei/ito/combined-heat-and-power-basics"
+    publisher: "U.S. Department of Energy"
+    date: "2025"
+quiz:
+  - question: "Que fait une centrale classique de la chaleur produite en fabriquant de
+      l'électricité ?"
+    options:
+      - "Elle la stocke pour l'utiliser plus tard"
+      - "Elle la rejette dans l'environnement sans la valoriser"
+      - "Elle la transforme intégralement en électricité supplémentaire"
+    answer: 2
+    explanation: >
+      Une centrale électrique classique évacue généralement la chaleur produite comme un déchet,
+      sans la récupérer pour un usage utile, ce qui limite son rendement global.
+  - question: "Quel rendement global une installation de cogénération peut-elle atteindre,
+      contre environ 60 % pour une centrale classique ?"
+    options:
+      - "Environ 65 %"
+      - "Jusqu'à environ 90 %"
+      - "Exactement le même rendement"
+    answer: 2
+    explanation: >
+      En récupérant la chaleur normalement perdue pour chauffer des bâtiments ou de l'eau, une
+      installation de cogénération peut atteindre un rendement global proche de 90 %.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Produire de l'électricité génère presque toujours de la chaleur en plus, souvent rejetée sans
+être utilisée. La cogénération récupère cette chaleur perdue pour chauffer des bâtiments ou de
+l'eau, valorisant une énergie qu'une centrale classique gaspille habituellement.
+
+## Deux formes d'énergie à partir d'un seul combustible
+
+Une installation de cogénération brûle un combustible, gaz naturel, bois ou autre, pour faire
+tourner un moteur ou une turbine reliée à un générateur électrique. La chaleur dégagée par cette
+combustion, au lieu d'être perdue, est récupérée par un échangeur thermique.
+
+## Ce que devient la chaleur récupérée
+
+Cette chaleur sert ensuite à produire de l'eau chaude ou de la vapeur, utilisée pour chauffer des
+bâtiments, alimenter un procédé industriel, ou même refroidir un espace grâce à des dispositifs
+adaptés fonctionnant à partir de chaleur.
+
+## Un gain d'efficacité considérable
+
+Une centrale électrique classique n'atteint généralement qu'environ soixante pour cent
+d'efficacité, le reste étant perdu sous forme de chaleur rejetée. Une installation de cogénération
+peut au contraire convertir jusqu'à environ quatre-vingt-dix pour cent de l'énergie du combustible
+en électricité et en chaleur utiles.
+
+## Produire l'énergie là où elle est utilisée
+
+La cogénération fonctionne souvent de manière décentralisée, directement sur le site où
+l'électricité et la chaleur sont consommées, ce qui réduit aussi les pertes liées au transport de
+l'électricité sur de longues distances.
+
+## Une solution adaptée à de nombreuses échelles
+
+Des hôpitaux, des usines, des immeubles collectifs ou même des quartiers entiers utilisent des
+installations de cogénération adaptées à leur taille, depuis de petites unités jusqu'à des
+installations industrielles de grande capacité.
+
+## À retenir
+
+- La cogénération produit à la fois de l'électricité et de la chaleur utile à partir d'un même
+  combustible.
+- Une centrale classique perd une grande partie de son énergie sous forme de chaleur rejetée.
+- La cogénération peut atteindre un rendement global proche de quatre-vingt-dix pour cent.
+- Elle fonctionne souvent directement sur le site de consommation, réduisant les pertes de
+  transport.
+- Elle s'adapte à de nombreuses échelles, d'un immeuble à une installation industrielle.
+
+[Emplacement image : schéma d'une installation de cogénération montrant la production simultanée
+d'électricité et de chaleur récupérée, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
@@ -3275,13 +3743,92 @@ slug: bois-chauffage
 categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
 summary: >
   Première énergie de l'humanité et encore essentielle : essences, séchage, rendement des poêles et pollution.
-tags: [usages-et-consommation, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+tags: [usages-et-consommation, bois, chauffage, essentiel-reconstruction]
+relatedArticles: []
+sources:
+  - title: "Best Firewood: Heat Values and Wood-Burning Tips"
+    url: "https://www.almanac.com/content/best-firewood-heat-values-wood-burning-tips"
+    publisher: "The Old Farmer's Almanac"
+    date: "2025"
+  - title: "Firewood Moisture Content, Levels for Safe and Efficient Burning"
+    url: "https://sensorahome.com/blogs/moisture-meter/firewood-moisture-content"
+    publisher: "Sensora Home"
+    date: "2025"
+quiz:
+  - question: "Pourquoi le bois fraîchement coupé brûle-t-il moins bien que le bois séché ?"
+    options:
+      - "Parce qu'il est plus lourd à transporter"
+      - "Parce qu'une partie de la chaleur sert à évaporer l'eau qu'il contient encore"
+      - "Parce qu'il contient moins de carbone"
+    answer: 2
+    explanation: >
+      Le bois fraîchement coupé peut contenir plus de 50 % d'eau. Une partie importante de
+      l'énergie de combustion sert alors à évaporer cette eau plutôt qu'à chauffer.
+  - question: "Combien de temps de séchage un bois dur comme le chêne nécessite-t-il
+      généralement avant d'être bien sec ?"
+    options:
+      - "Moins d'une semaine"
+      - "Entre dix-huit et trente mois"
+      - "Dix ans minimum"
+    answer: 2
+    explanation: >
+      Les bois durs et denses comme le chêne, riches en énergie mais lents à sécher, nécessitent
+      généralement de dix-huit à trente mois de séchage pour atteindre un taux d'humidité
+      adapté à la combustion.
+lastVerified: 2026-09-25
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le bois a chauffé l'humanité pendant l'essentiel de son histoire, bien avant le charbon ou le gaz.
+Correctement choisi, séché et brûlé, il reste aujourd'hui une source de chaleur efficace ; mal
+préparé, il chauffe mal et pollue davantage.
+
+## Pourquoi le séchage change tout
+
+Un bois fraîchement coupé peut contenir plus de la moitié de son poids en eau. Brûler ce bois
+gaspille une grande partie de l'énergie à évaporer cette eau au lieu de produire de la chaleur, et
+génère davantage de fumée et de dépôts dans le conduit d'évacuation.
+
+## Combien de temps sécher son bois
+
+Un bois correctement séché atteint un taux d'humidité d'environ quinze à vingt pour cent. Les
+bois tendres sèchent en quelques mois, tandis que des bois denses comme le chêne nécessitent
+généralement dix-huit à trente mois pour atteindre ce niveau.
+
+## Le choix de l'essence de bois
+
+Les bois durs et denses, comme le chêne, le hêtre ou l'érable, contiennent davantage d'énergie par
+volume et brûlent plus longtemps que les bois tendres comme le pin, qui s'enflamment vite mais se
+consument rapidement.
+
+## Le rôle du poêle dans le rendement final
+
+Un foyer ouvert traditionnel laisse s'échapper une grande partie de la chaleur produite par la
+cheminée. Un poêle fermé, conçu pour mieux contrôler l'arrivée d'air, restitue une part
+nettement plus importante de l'énergie du bois sous forme de chaleur utile.
+
+## Pollution et précautions
+
+La combustion du bois, même bien sec, produit des particules fines qui affectent la qualité de
+l'air, en particulier dans les zones densément peuplées. Un bois bien sec, brûlé dans un appareil
+adapté et régulièrement entretenu, réduit sensiblement ces émissions par rapport à un bois humide
+brûlé dans un foyer ouvert.
+
+## À retenir
+
+- Un bois fraîchement coupé contient beaucoup d'eau, ce qui réduit fortement son efficacité de
+  combustion.
+- Un séchage de plusieurs mois à plusieurs années, selon l'essence, est nécessaire avant de
+  brûler le bois.
+- Les bois durs comme le chêne contiennent plus d'énergie et brûlent plus longtemps que les bois
+  tendres.
+- Un poêle fermé restitue davantage de chaleur qu'un foyer ouvert traditionnel.
+- Un bois bien sec brûlé dans un appareil adapté réduit sensiblement les émissions de particules.
+
+[Emplacement image : bûches de bois empilées et séchant à l'air libre à côté d'un poêle fermé en
+fonctionnement, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 
