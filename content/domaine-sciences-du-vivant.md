@@ -8972,3 +8972,115 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La dé-extinction du mammouth, promesses et limites
+slug: la-de-extinction-du-mammouth-promesses-et-limites
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Ramener le mammouth exigerait un ADN intact, or l'ADN se dégrade avec le temps. Le record de
+  lecture d'ADN ancien atteint deux millions d'années.
+tags: [genie-genetique, adn-ancien, mammouth, de-extinction]
+sources:
+  - title: "Half life of DNA in bones - Extinct New Zealand moa"
+    url: "https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=8&id=108267"
+    publisher: "Harvard Medical School, BioNumbers"
+  - title: "Moa bones reveal DNA half-life but Jurassic Park remains fiction"
+    url: "https://theconversation.com/moa-bones-reveal-dna-half-life-but-jurassic-park-remains-fiction-10067"
+    publisher: "The Conversation"
+  - title: "Million-year-old mammoth teeth yield world's oldest DNA"
+    url: "https://www.nationalgeographic.com/science/article/million-year-old-mammoth-teeth-yield-worlds-oldest-dna"
+    publisher: "National Geographic"
+  - title: "Ancient DNA"
+    url: "https://en.wikipedia.org/wiki/Ancient_DNA"
+    publisher: "Wikipedia"
+  - title: "Discovery of world's oldest DNA breaks record by one million years"
+    url: "https://www.sciencedaily.com/releases/2022/12/221207142356.htm"
+    publisher: "ScienceDaily"
+  - title: "Woolly mammoth"
+    url: "https://en.wikipedia.org/wiki/Woolly_mammoth"
+    publisher: "Wikipedia"
+  - title: "What killed the last woolly mammoths?"
+    url: "https://www.nationalgeographic.com/science/article/woolly-mammoth-last-extinction-genetics"
+    publisher: "National Geographic"
+  - title: "Contrairement à ce qu'on imagine, aucun mammouth ne sera jamais ramené à la vie"
+    url: "https://www.futura-sciences.com/sante/actualites/genetique-contrairement-ce-quon-imagine-aucun-mammouth-ne-sera-jamais-ramene-vie-k2m6-138065/"
+    publisher: "Futura"
+  - title: "Dolly (sheep)"
+    url: "https://en.wikipedia.org/wiki/Dolly_(sheep)"
+    publisher: "Wikipedia"
+  - title: "De-extinction"
+    url: "https://en.wikipedia.org/wiki/De-extinction"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la demi-vie estimée de l'ADN dans un os de moa, pour un petit fragment ?"
+    options:
+      - "52 ans"
+      - "521 ans"
+      - "52 100 ans"
+    answer: 2
+    explanation: >
+      Dans les os du moa, une espèce disparue de Nouvelle-Zélande, l'ADN a une demi-vie estimée
+      à 521 ans pour un fragment de 242 paires de bases.
+  - question: "Quel est le record d'ancienneté d'un ADN retrouvé dans des sédiments du Groenland ?"
+    options:
+      - "Environ 2 000 ans"
+      - "Environ 200 000 ans"
+      - "Environ 2 millions d'années"
+    answer: 3
+    explanation: >
+      De l'ADN vieux de deux millions d'années a été retrouvé dans des sédiments du Groenland :
+      c'est un record d'ancienneté.
+  - question: "Sur combien de tentatives une seule agnelle, Dolly, a-t-elle atteint l'âge adulte ?"
+    options:
+      - "3"
+      - "277"
+      - "2 000"
+    answer: 2
+    explanation: >
+      Dolly, premier mammifère cloné à partir d'une cellule adulte, est la seule agnelle arrivée
+      à l'âge adulte sur 277 tentatives.
+  - question: "Quand les derniers mammouths laineux ont-ils disparu de l'île Wrangel ?"
+    options:
+      - "Il y a environ 400 ans"
+      - "Il y a environ 4 000 ans"
+      - "Il y a environ 40 000 ans"
+    answer: 2
+    explanation: >
+      Les derniers mammouths laineux ont disparu de l'île Wrangel il y a environ 4 000 ans.
+lastVerified: 2026-09-30
+status: planned
+---
+
+## En bref
+
+L'ADN se dégrade avec le temps : dans des os de moa, sa demi-vie est estimée à 521 ans pour un fragment de 242 paires de bases. Du côté des records, de l'ADN vieux de deux millions d'années a été retrouvé au Groenland. Pour le mammouth, il n'en reste pas assez d'intact pour guider la fabrication d'un embryon.
+
+## Un ADN qui s'use
+
+Dans les os du moa, une espèce disparue de Nouvelle-Zélande, l'ADN a une demi-vie estimée à 521 ans pour un fragment de 242 paires de bases.
+
+## Les records de lecture
+
+L'ADN de molaires de mammouths de Sibérie vieilles de plus d'un million d'années a pu être séquencé. De l'ADN vieux de deux millions d'années a été retrouvé dans des sédiments du Groenland : c'est un record d'ancienneté.
+
+## Le clonage, une entreprise difficile
+
+Dolly, premier mammifère cloné à partir d'une cellule adulte, est la seule agnelle arrivée à l'âge adulte sur 277 tentatives.
+
+## Ramener le mammouth ?
+
+Le clonage exigerait un ADN intact, mais l'ADN ancien est généralement dégradé : il n'en reste pas assez pour guider la fabrication d'un embryon. L'autre voie part de l'éléphant d'Asie, le plus proche parent vivant du mammouth. On obtiendrait d'abord un hybride, et les spécialistes discutent de sa ressemblance avec un mammouth authentique. Aucune de ces méthodes n'est réalisable aujourd'hui.
+
+## Un repère dans le temps
+
+Les derniers mammouths laineux ont disparu de l'île Wrangel il y a environ 4 000 ans.
+
+## À retenir
+
+- L'ADN se dégrade : dans des os de moa, sa demi-vie est estimée à 521 ans pour un fragment de 242 paires de bases.
+- De l'ADN vieux de deux millions d'années a été retrouvé dans des sédiments du Groenland : c'est un record d'ancienneté.
+- Il n'en reste pas assez d'ADN intact pour guider la fabrication d'un embryon de mammouth.
+- Dolly est la seule agnelle arrivée à l'âge adulte sur 277 tentatives.
+- Aucune méthode pour ressusciter le mammouth laineux n'est réalisable aujourd'hui.

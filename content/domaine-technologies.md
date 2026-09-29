@@ -4732,18 +4732,117 @@ status: planned
 
 ---
 type: article
-title: Le levier, la poulie et le plan incline en construction
+title: Le levier, la poulie et la roue, la mécanique de base
 slug: le-levier-la-poulie-et-le-plan-incline-en-construction
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Trois principes physiques simples utilises depuis l'Antiquite pour deplacer des charges lourdes.
-tags: [structures, essentiel-reconstruction]
+  Levier, poulie et roue sont trois des six machines simples. Leur avantage mécanique se calcule
+  avec des bras de levier ou un nombre de brins de corde.
+tags: [structures, essentiel-reconstruction, reconstruction]
+sources:
+  - title: "Simple Machines (Next Gen STEM)"
+    url: "https://www.nasa.gov/wp-content/uploads/2022/06/simple_machines_classroom_connection_508.pdf"
+    publisher: "NASA"
+  - title: "Simple machine"
+    url: "https://en.wikipedia.org/wiki/Simple_machine"
+    publisher: "Wikipedia"
+  - title: "Lever"
+    url: "https://en.wikipedia.org/wiki/Lever"
+    publisher: "Wikipedia"
+  - title: "Pulley"
+    url: "https://en.wikipedia.org/wiki/Pulley"
+    publisher: "Wikipedia"
+  - title: "Block and tackle"
+    url: "https://en.wikipedia.org/wiki/Block_and_tackle"
+    publisher: "Wikipedia"
+  - title: "Powerful Pulleys"
+    url: "https://www.teachengineering.org/lessons/cub_simple_lesson05"
+    publisher: "TeachEngineering"
+  - title: "Ljubljana Marshes Wheel"
+    url: "https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel"
+    publisher: "Wikipedia"
+  - title: "The Wheel, 5200 years"
+    url: "https://mgml.si/en/city-museum/exhibitions/211/the-wheel-5200-years/"
+    publisher: "City Museum of Ljubljana"
+  - title: "Oldest wheel"
+    url: "https://www.guinnessworldrecords.com/world-records/713722-oldest-wheel"
+    publisher: "Guinness World Records"
+quiz:
+  - question: "Combien de machines simples classiques la NASA compte-t-elle ?"
+    options:
+      - "Trois"
+      - "Six"
+      - "Douze"
+    answer: 2
+    explanation: >
+      Il existe six machines simples classiques : la vis, le plan incliné, le coin, le levier,
+      la roue et l'essieu, et la poulie.
+  - question: "Quel est l'avantage mécanique d'une poulie mobile seule ?"
+    options:
+      - "1"
+      - "2"
+      - "6"
+    answer: 2
+    explanation: >
+      Une poulie mobile seule est portée par deux brins de la même corde : son avantage
+      mécanique est de 2.
+  - question: "Avec un avantage mécanique de 6, quelle longueur de corde faut-il tirer pour élever la charge d'un mètre ?"
+    options:
+      - "1 mètre"
+      - "3 mètres"
+      - "6 mètres"
+    answer: 3
+    explanation: >
+      Ce qu'on gagne en force se paie en longueur de corde : avec un avantage mécanique de 6, il
+      faut tirer 6 mètres de corde pour élever la charge d'un mètre.
+  - question: "Quel âge a la plus ancienne roue en bois connue avec son essieu ?"
+    options:
+      - "Environ 520 ans"
+      - "Environ 5 200 ans"
+      - "Environ 52 000 ans"
+    answer: 2
+    explanation: >
+      La plus ancienne roue en bois connue, avec son essieu, découverte dans les marais de
+      Ljubljana en Slovénie, a environ 5 200 ans.
+lastVerified: 2026-09-30
 priority: 2
 essentiel: true
 status: planned
 ---
 
-À rédiger.
+## En bref
+
+Une machine simple change la direction ou l'intensité d'une force. On en compte six, dont le levier, la roue et l'essieu, et la poulie. La poulie permet de gagner en force, en payant ce gain en longueur de corde.
+
+[Emplacement image : curseur interactif « Combien de brins portent la charge ? ». L'utilisateur choisit un nombre de brins de corde de 1 à 4 et voit l'avantage mécanique, égal au nombre de brins, ainsi que la longueur de corde à tirer pour élever la charge d'un mètre, égale elle aussi au nombre de brins. Légende et texte alternatif à fournir ultérieurement.]
+
+## Six machines simples
+
+Il existe six machines simples classiques : la vis, le plan incliné, le coin, le levier, la roue et l'essieu, et la poulie. La NASA cite comme exemples la balançoire à bascule et les ciseaux pour le levier, le vélo et l'horloge pour la roue et l'essieu, l'ascenseur et le puits pour la poulie.
+
+## Le levier
+
+Un levier s'appuie sur un point fixe, le pivot ou point d'appui, pour déplacer un objet. Son avantage mécanique est égal au rapport des longueurs de ses bras de levier. Les plus anciens écrits conservés sur le levier sont attribués à Archimède, à qui l'on prête la phrase « Donnez-moi un levier assez long et un point d'appui, et je soulèverai le monde ».
+
+## La poulie
+
+L'avantage mécanique d'un système de poulies est égal au nombre de brins de corde qui portent la charge. Une poulie fixe change seulement la direction de la force : elle n'apporte aucun avantage mécanique. Une poulie mobile seule est portée par deux brins de la même corde : son avantage mécanique est de 2. Ce qu'on gagne en force se paie en longueur de corde : avec un avantage mécanique de 6, il faut tirer 6 mètres de corde pour élever la charge d'un mètre.
+
+## La roue
+
+Une roue fixée à un essieu sert à faire tourner ou à déplacer une charge. La plus ancienne roue en bois connue, avec son essieu, découverte dans les marais de Ljubljana en Slovénie, a environ 5 200 ans. Elle est en frêne et en chêne, et son essieu est en chêne : il était fixé aux roues par des coins en chêne et tournait avec elles.
+
+## Avant de commencer
+
+Il faut une corde solide, une barre rigide, une roue ou une poulie.
+
+## À retenir
+
+- Il existe six machines simples classiques, dont le levier, la roue et l'essieu, et la poulie.
+- L'avantage mécanique d'un levier est le rapport des longueurs de ses bras.
+- L'avantage mécanique d'un système de poulies est égal au nombre de brins de corde qui portent la charge.
+- Ce qu'on gagne en force se paie en longueur de corde.
+- La plus ancienne roue en bois connue avec son essieu a environ 5 200 ans.
 
 ---
 type: article

@@ -9224,3 +9224,103 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Les règles avant les réseaux, les systèmes experts
+slug: systemes-experts-les-regles-avant-les-reseaux
+categoryPath: intelligence-artificielle/apprentissage-automatique
+summary: >
+  Un système expert combine une base de connaissances et un moteur d'inférence qui applique des
+  règles « si… alors… ». DENDRAL et MYCIN en sont des pionniers.
+tags: [systemes-experts, regles, essentiel-reconstruction, reconstruction]
+sources:
+  - title: "Expert system"
+    url: "https://en.wikipedia.org/wiki/Expert_system"
+    publisher: "Wikipedia"
+  - title: "Expert systems in the 1980s"
+    url: "https://stacks.stanford.edu/file/druid:vf069sz9374/vf069sz9374.pdf"
+    publisher: "E. A. Feigenbaum, Stanford University"
+  - title: "DENDRAL and Meta-DENDRAL"
+    url: "https://stacks.stanford.edu/file/druid:pj337tr4694/pj337tr4694.pdf"
+    publisher: "E. A. Feigenbaum et B. G. Buchanan, Artificial Intelligence"
+  - title: "Dendral"
+    url: "https://en.wikipedia.org/wiki/Dendral"
+    publisher: "Wikipedia"
+  - title: "Mycin"
+    url: "https://en.wikipedia.org/wiki/Mycin"
+    publisher: "Wikipedia"
+  - title: "Expert Systems/MYCIN"
+    url: "https://en.wikibooks.org/wiki/Expert_Systems/MYCIN"
+    publisher: "Wikibooks"
+quiz:
+  - question: "Quelles sont les deux parties d'un système expert ?"
+    options:
+      - "Un écran et un clavier"
+      - "Une base de connaissances et un moteur d'inférence"
+      - "Un réseau de neurones et une base d'images"
+    answer: 2
+    explanation: >
+      Un système expert comprend une base de connaissances, qui représente des faits et des
+      règles, et un moteur d'inférence, qui applique les règles aux faits connus pour en déduire
+      de nouveaux faits.
+  - question: "Que faisait DENDRAL ?"
+    options:
+      - "Il jouait aux échecs"
+      - "Il identifiait des molécules organiques à partir de spectres de masse"
+      - "Il traduisait des textes"
+    answer: 2
+    explanation: >
+      DENDRAL aide des chimistes à identifier des molécules organiques inconnues en analysant
+      leurs spectres de masse.
+  - question: "Quelle forme ont les règles d'un système expert ?"
+    options:
+      - "« si… alors… »"
+      - "Un tableau de nombres"
+      - "Un dessin"
+    answer: 1
+    explanation: >
+      Les règles sont de la forme « si… alors… », et non du code procédural classique.
+lastVerified: 2026-09-30
+priority: 2
+essentiel: true
+status: planned
+---
+
+## En bref
+
+Un système expert est un programme qui utilise des connaissances et des règles de raisonnement pour résoudre des problèmes exigeant une expertise humaine. Il combine une base de connaissances et un moteur d'inférence. DENDRAL, en chimie, et MYCIN, pour des infections graves, comptent parmi ses pionniers.
+
+[Emplacement image : diagramme en quatre étapes reliées par des flèches, « Comment un système expert raisonne ». Base de connaissances : des faits et des règles « si… alors… » fournis par des experts. Données du cas : les informations saisies pour le problème à résoudre. Moteur d'inférence : il applique les règles aux faits connus. Nouveaux faits : les déductions qui mènent à une conclusion. Légende et texte alternatif à fournir ultérieurement.]
+
+## Une règle, deux parties
+
+Une règle ressemble à « si le feu est rouge, alors je m'arrête ». Les règles d'un système expert sont de la forme « si… alors… », et non du code procédural classique. Le système comprend une base de connaissances, qui représente des faits et des règles, et un moteur d'inférence, qui applique les règles aux faits connus pour en déduire de nouveaux faits.
+
+## Deux sortes de connaissances
+
+Les connaissances d'un système expert sont de deux sortes : des faits largement partagés par les experts, et des heuristiques, règles de bon jugement plus privées qui caractérisent la décision d'expert. Le niveau du système dépend surtout de la taille et de la qualité de sa base de connaissances.
+
+## DENDRAL
+
+DENDRAL aide des chimistes à identifier des molécules organiques inconnues en analysant leurs spectres de masse. On le considère comme le premier système expert, car il automatise la démarche de décision des chimistes organiciens. Ses concepteurs ont constaté que davantage de connaissances de chimie comptait plus que des méthodes de résolution de problèmes plus puissantes.
+
+## MYCIN
+
+MYCIN est développé à l'université Stanford au début des années 1970, pendant cinq ou six ans. Il identifiait des bactéries responsables d'infections graves et recommandait des antibiotiques. Il n'a jamais servi en routine : il fonctionnait seul, avec saisie manuelle des données, sur un ordinateur PDP-10, avant l'arrivée des ordinateurs personnels, et des observateurs ont soulevé des questions d'éthique et de responsabilité des médecins. EMYCIN a repris son mécanisme de règles : pour un nouveau domaine, le concepteur fournit ses propres règles et paramètres.
+
+## Une limite
+
+Le problème le plus cité est celui de l'acquisition des connaissances : obtenir du temps d'experts du domaine est toujours difficile.
+
+## Avant de commencer
+
+Il faut savoir ce qu'est une règle « si… alors… » et un programme qui la suit.
+
+## À retenir
+
+- Un système expert combine une base de connaissances et un moteur d'inférence qui applique des règles « si… alors… ».
+- DENDRAL aide des chimistes à identifier des molécules à partir de leurs spectres de masse ; on le considère comme le premier système expert.
+- MYCIN est développé à Stanford au début des années 1970, pendant cinq ou six ans.
+- MYCIN n'a jamais servi en routine : il fonctionnait seul, avec saisie manuelle des données.
+- Le problème le plus cité est l'acquisition des connaissances.

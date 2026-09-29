@@ -9602,3 +9602,98 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Refaire une carte, la triangulation
+slug: refaire-une-carte-par-triangulation
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Mesurer une base puis des angles suffit à calculer des distances et à dresser des cartes. La
+  méthode a servi à définir le mètre.
+tags: [cartographie, triangulation, mesure-de-la-terre, essentiel-reconstruction, reconstruction]
+sources:
+  - title: "Triangulation (surveying)"
+    url: "https://en.wikipedia.org/wiki/Triangulation_(surveying)"
+    publisher: "Wikipedia"
+  - title: "Mapping the history of triangulation"
+    url: "https://thonyc.wordpress.com/2012/05/25/mapping-the-history-of-triangulation/"
+    publisher: "thonyc.wordpress.com"
+  - title: "Willebrord Snellius"
+    url: "https://en.wikipedia.org/wiki/Willebrord_Snellius"
+    publisher: "Wikipedia"
+  - title: "Willebrord Snell"
+    url: "https://mathshistory.st-andrews.ac.uk/Biographies/Snell/"
+    publisher: "MacTutor, University of St Andrews"
+  - title: "Jean Baptiste Joseph Delambre"
+    url: "https://mathshistory.st-andrews.ac.uk/Biographies/Delambre/"
+    publisher: "MacTutor, University of St Andrews"
+  - title: "Arc measurement of Delambre and Méchain"
+    url: "https://en.wikipedia.org/wiki/Arc_measurement_of_Delambre_and_M%C3%A9chain"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que faut-il connaître pour calculer la position du troisième sommet d'un triangle ?"
+    options:
+      - "Seulement deux côtés"
+      - "La longueur d'un côté et deux angles"
+      - "Uniquement les trois angles"
+    answer: 2
+    explanation: >
+      On peut calculer la position du troisième sommet d'un triangle si l'on connaît la longueur
+      d'un côté et deux angles.
+  - question: "En quelle année Gemma Frisius propose-t-il la triangulation pour dresser des cartes ?"
+    options:
+      - "1333"
+      - "1533"
+      - "1733"
+    answer: 2
+    explanation: >
+      En 1533, Gemma Frisius propose d'utiliser la triangulation pour dresser des cartes.
+  - question: "Comment le mètre a-t-il été défini à l'origine ?"
+    options:
+      - "Comme la longueur d'un bras de roi"
+      - "Comme la taille d'un pas"
+      - "Comme la dix-millionième partie du quart du méridien terrestre"
+    answer: 3
+    explanation: >
+      Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre, c'est-
+      à-dire de la distance du pôle Nord à l'équateur.
+lastVerified: 2026-09-30
+priority: 2
+essentiel: true
+status: planned
+---
+
+## En bref
+
+La triangulation calcule la position d'un point à partir d'un côté mesuré et de deux angles. En 1533, Gemma Frisius propose cette méthode pour dresser des cartes. À partir de 1792, Delambre et Méchain mesurent un arc du méridien de Paris, mesure dont découle le mètre.
+
+[Emplacement image : diagramme en quatre étapes, « Trianguler : de la base au point inconnu ». Étape 1, mesurer la base : une ligne de référence entre deux piquets, sur un terrain plat. Étape 2, viser depuis un bout : on mesure l'angle vers un troisième piquet, au théodolite. Étape 3, viser depuis l'autre bout : même opération depuis l'autre extrémité de la base. Étape 4, calculer : un côté et deux angles suffisent pour trouver le troisième sommet. Légende et texte alternatif à fournir ultérieurement.]
+
+## Le principe
+
+On peut calculer la position du troisième sommet d'un triangle si l'on connaît la longueur d'un côté et deux angles. On mesure d'abord une base, une ligne de référence entre deux piquets sur un terrain plat, avec des perches ou des chaînes. Depuis chaque bout, on vise un troisième piquet et on mesure l'angle au théodolite.
+
+## Une méthode qui voyage
+
+En 1533, Gemma Frisius propose d'utiliser la triangulation pour dresser des cartes. En 1617, Willebrord Snellius publie sa triangulation des Pays-Bas pour mesurer la Terre. Il est le premier arpenteur connu, depuis Ératosthène, à mesurer un grand arc par triangulation.
+
+## Le mètre
+
+En 1792, Delambre et Méchain commencent à mesurer un arc du méridien de Paris entre Dunkerque et Barcelone, mesure dont découle le mètre. Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre, c'est-à-dire de la distance du pôle Nord à l'équateur.
+
+## Une aventure rude
+
+Delambre, Méchain puis Arago ont été emprisonnés plusieurs fois pendant leurs mesures. Le mètre légal est un peu plus court que ne le voulait sa définition d'origine, à cause d'un effet de déviation de la verticale que les géodésiens n'avaient pas pris en compte.
+
+## Avant de commencer
+
+Il faut un terrain dégagé, deux piquets, et de quoi mesurer une longueur et un angle.
+
+## À retenir
+
+- Un côté mesuré et deux angles suffisent pour calculer le troisième sommet d'un triangle.
+- En 1533, Gemma Frisius propose la triangulation pour dresser des cartes.
+- En 1617, Snellius publie sa triangulation des Pays-Bas pour mesurer la Terre.
+- En 1792, Delambre et Méchain commencent à mesurer un arc du méridien de Paris entre Dunkerque et Barcelone.
+- Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre.

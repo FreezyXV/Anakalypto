@@ -9443,3 +9443,95 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Marcher et porter longtemps, l'astuce du pendule
+slug: marcher-et-porter-longtemps
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  En marchant, le corps se comporte comme un pendule inversé et récupère au mieux environ 65 %
+  de l'énergie du mouvement. Le portage sur la tête reste débattu.
+tags: [marche, biomecanique, portage, essentiel-reconstruction, reconstruction]
+sources:
+  - title: "Walking"
+    url: "https://en.wikipedia.org/wiki/Walking"
+    publisher: "Wikipedia"
+  - title: "Unstable Footwear as a Speed-Dependent Noise-Based Training Gear to Exercise Inverted Pendulum Motion During Walking"
+    url: "https://arxiv.org/pdf/1702.04944"
+    publisher: "arXiv"
+  - title: "Head-carrying"
+    url: "https://en.wikipedia.org/wiki/Head-carrying"
+    publisher: "Wikipedia"
+  - title: "The mechanics of head-supported load carriage by Nepalese porters"
+    url: "https://journals.biologists.com/jeb/article/219/22/3626/16733/The-mechanics-of-head-supported-load-carriage-by"
+    publisher: "Journal of Experimental Biology"
+quiz:
+  - question: "En marchant, quelle part de l'énergie mécanique le corps peut-il récupérer au mieux ?"
+    options:
+      - "Environ 6,5 %"
+      - "Environ 65 %"
+      - "Environ 95 %"
+    answer: 2
+    explanation: >
+      Pendant la marche, le corps peut récupérer au mieux environ 65 % de l'énergie mécanique
+      grâce à la gravité, comme un pendule inversé.
+  - question: "Jusqu'à quelle part de leur poids des femmes africaines ont-elles porté sur la tête sans dépenser sensiblement plus d'énergie ?"
+    options:
+      - "Environ 2 %"
+      - "Environ 20 %"
+      - "Environ 100 %"
+    answer: 2
+    explanation: >
+      Des femmes africaines ont pu porter sur la tête des charges allant jusqu'à 20 % de leur
+      poids sans dépenser sensiblement plus d'énergie.
+  - question: "À quoi ressemble le mouvement du corps qui marche ?"
+    options:
+      - "À un pendule inversé"
+      - "À un ressort de montre"
+      - "À une roue qui tourne"
+    answer: 1
+    explanation: >
+      Le mouvement du corps qui marche ressemble à celui d'un pendule inversé : la gravité fait
+      une partie du travail.
+  - question: "Que montre une étude plus récente sur le portage sur la tête avec de lourdes charges ?"
+    options:
+      - "Aucune dépense d'énergie en plus"
+      - "Plus d'oxygène consommé que dans le dos"
+      - "Une marche deux fois plus rapide"
+    answer: 2
+    explanation: >
+      Une étude plus récente, avec des charges bien plus lourdes, a trouvé que le portage sur la
+      tête consommait plus d'oxygène que le portage dans le dos.
+lastVerified: 2026-09-30
+priority: 2
+essentiel: true
+status: planned
+---
+
+## En bref
+
+Le corps qui marche ressemble à un pendule inversé : la gravité fait une partie du travail. Au mieux, la marche récupère environ 65 % de l'énergie mécanique. Des femmes africaines ont pu porter sur la tête jusqu'à 20 % de leur poids sans dépenser sensiblement plus d'énergie, un résultat qu'une étude plus récente nuance.
+
+## Un pendule inversé
+
+Le mouvement du corps qui marche ressemble à celui d'un pendule inversé : la gravité fait une partie du travail. Pendant la marche, le corps peut récupérer au mieux environ 65 % de l'énergie mécanique. La marche humaine est un peu plus économe en énergie que le déplacement d'un mammifère quadrupède de taille comparable, comme le chimpanzé.
+
+## Porter sur la tête
+
+Des femmes africaines ont pu porter sur la tête des charges allant jusqu'à 20 % de leur poids sans dépenser sensiblement plus d'énergie.
+
+## Une science qui évolue
+
+Une étude plus récente, avec des charges bien plus lourdes, a trouvé que le portage sur la tête consommait plus d'oxygène que le portage dans le dos. Il ne faut donc pas généraliser le résultat des 20 %. Cette fiche décrit des mesures scientifiques, pas des conseils d'entraînement.
+
+## Avant de commencer
+
+Aucun matériel n'est nécessaire, seulement son corps.
+
+## À retenir
+
+- Le mouvement du corps qui marche ressemble à celui d'un pendule inversé : la gravité fait une partie du travail.
+- Au mieux, la marche récupère environ 65 % de l'énergie mécanique.
+- Des femmes africaines ont pu porter sur la tête des charges allant jusqu'à 20 % de leur poids sans dépenser sensiblement plus d'énergie.
+- Une étude plus récente, avec des charges bien plus lourdes, a trouvé plus d'oxygène consommé pour la tête que pour le dos.
