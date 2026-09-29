@@ -4101,18 +4101,83 @@ status: planned
 
 ---
 type: article
-title: La fabrication du verre, procede de base
+title: Refaire du verre après l'effondrement
 slug: la-fabrication-du-verre-procede-de-base
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Comment un simple sable se transforme en un materiau transparent et solide.
-tags: [chimie-industrielle, essentiel-reconstruction]
+  Du sable, un fondant et de la chaux : la recette du verre tient en trois ingrédients, et le
+  soufflage à la canne est né au Ier siècle avant notre ère.
+tags: [chimie-industrielle, essentiel-reconstruction, reconstruction]
+sources:
+  - title: "Verre"
+    url: "https://fr.wikipedia.org/wiki/Verre"
+    publisher: "Wikipédia"
+  - title: "Glassblowing"
+    url: "https://en.wikipedia.org/wiki/Glassblowing"
+    publisher: "Wikipedia"
+  - title: "The History of Glass Blowing"
+    url: "https://www.scientificglassservices.co.uk/the-history-of-glass-blowing/"
+    publisher: "Scientific Glass Services"
+quiz:
+  - question: "Quel est l'ingrédient principal du verre courant ?"
+    options:
+      - "L'argile"
+      - "Le sable, c'est-à-dire la silice"
+      - "Le sel de cuisine"
+    answer: 2
+    explanation: >
+      Le verre courant est surtout de la silice, c'est-à-dire du sable, additionnée d'un
+      fondant, la soude, et de chaux.
+  - question: "À quoi sert la soude dans le verre courant ?"
+    options:
+      - "Elle rend le verre opaque"
+      - "Elle abaisse la température de fusion et la viscosité"
+      - "Elle colore le verre en bleu"
+    answer: 2
+    explanation: >
+      La soude sert de fondant : elle abaisse la température de fusion et la viscosité du verre.
+  - question: "À quelle époque invente-t-on le soufflage du verre à la canne ?"
+    options:
+      - "Au Ier siècle avant J.-C."
+      - "Au Ve siècle après J.-C."
+      - "Au XVe siècle"
+    answer: 1
+    explanation: >
+      Des artisans de la côte syro-palestinienne inventent le soufflage du verre à la canne au
+      Ier siècle avant J.-C.
+lastVerified: 2026-09-29
 priority: 2
 essentiel: true
 status: planned
 ---
 
-À rédiger.
+## En bref
+
+Le verre courant est surtout du sable, additionné d'un fondant et de chaux. Le fondant, la soude, fait fondre le mélange à plus basse température. Au Ier siècle avant notre ère, des artisans de la côte syro-palestinienne inventent le soufflage à la canne.
+
+[Emplacement image : diagramme « Du sable au bocal, la chaîne à reconstruire » en cinq étapes reliées par des flèches. Réunir : sable (silice), fondant (soude) et chaux. Fondre : le fondant abaisse la température nécessaire. Cueillir : prendre une boule de verre fondu au bout de la canne. Souffler : gonfler la boule pour former un objet creux. Façonner : tourner, pincer et couper pendant que le verre est mou. Légende et texte alternatif à fournir ultérieurement.]
+
+## Trois ingrédients
+
+Le verre courant est surtout de la silice, c'est-à-dire du sable. On y ajoute un fondant, la soude, et de la chaux.
+
+## Le rôle du fondant
+
+La soude sert de fondant : elle abaisse la température de fusion et la viscosité du verre. Pour refaire du verre, il faut donc réunir ces trois ingrédients et savoir entretenir un feu très chaud pendant longtemps.
+
+## La canne à souffler
+
+Au Ier siècle avant notre ère, des artisans de la côte syro-palestinienne inventent le soufflage du verre à la canne.
+
+## Prudence
+
+Le verre en fusion et les fours brûlent gravement : lunettes, gants et distance restent indispensables.
+
+## À retenir
+
+- Le verre courant est surtout de la silice (le sable), avec un fondant (la soude) et de la chaux.
+- La soude abaisse la température de fusion et la viscosité du verre.
+- Le soufflage à la canne est inventé au Ier siècle avant notre ère, sur la côte syro-palestinienne.
 
 ---
 type: article

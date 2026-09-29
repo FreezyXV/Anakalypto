@@ -11210,3 +11210,98 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Retrouver l'heure avec le Soleil
+slug: retrouver-l-heure-avec-le-soleil
+categoryPath: espace-et-astronomie/observation-astronomique
+summary: >
+  Un cadran solaire donne l'heure grâce à l'ombre d'un style parallèle à l'axe de la Terre. Les
+  plus anciennes horloges à ombre connues datent d'Égypte, vers 1500 av. J.-C.
+tags: [cadran-solaire, mesure-du-temps, essentiel-reconstruction, reconstruction]
+sources:
+  - title: "Sundial"
+    url: "https://en.wikipedia.org/wiki/Sundial"
+    publisher: "Wikipedia"
+  - title: "A Walk Through Time — Early Clocks"
+    url: "https://www.nist.gov/pml/time-and-frequency-division/popular-links/walk-through-time/walk-through-time-early-clocks"
+    publisher: "NIST"
+  - title: "Noon"
+    url: "https://en.wikipedia.org/wiki/Noon"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est l'inclinaison du style d'un cadran solaire ?"
+    options:
+      - "Égale à la latitude du lieu"
+      - "Toujours de 45°"
+      - "Égale à la longitude du lieu"
+    answer: 1
+    explanation: >
+      Le style du cadran doit être parallèle à l'axe de rotation de la Terre : son inclinaison
+      est égale à la latitude du lieu.
+  - question: "Vers quelle époque apparaissent les plus anciennes horloges à ombre connues ?"
+    options:
+      - "Vers 1500 av. J.-C., en Égypte"
+      - "Vers l'an 1000 après J.-C., en Europe"
+      - "Au XVIIe siècle, en France"
+    answer: 1
+    explanation: >
+      Vers 1500 av. J.-C., les plus anciennes horloges à ombre connues apparaissent en Égypte.
+  - question: "Au nord des tropiques, où pointe l'ombre d'un bâton vertical à midi solaire ?"
+    options:
+      - "Vers le nord"
+      - "Vers le sud"
+      - "Vers l'ouest"
+    answer: 1
+    explanation: >
+      À midi solaire, le Soleil est à peu près au plus haut et l'ombre la plus courte ; au nord
+      des tropiques, il est plein sud et l'ombre pointe vers le nord.
+  - question: "De combien l'heure solaire est-elle décalée par degré de longitude d'écart avec le méridien du fuseau ?"
+    options:
+      - "Environ 4 minutes"
+      - "Environ 40 minutes"
+      - "Elle n'est pas décalée"
+    answer: 1
+    explanation: >
+      Chaque degré de longitude d'écart avec le méridien du fuseau horaire décale l'heure
+      solaire d'environ 4 minutes.
+lastVerified: 2026-09-29
+priority: 2
+essentiel: true
+status: planned
+---
+
+## En bref
+
+Un cadran solaire donne l'heure grâce à l'ombre d'un bâton, le style. Pour que le cadran soit précis, le style doit être parallèle à l'axe de rotation de la Terre : son inclinaison est égale à la latitude du lieu. Les plus anciennes horloges à ombre connues apparaissent en Égypte vers 1500 av. J.-C.
+
+[Emplacement image : curseur interactif « Inclinez le style selon votre latitude ». L'utilisateur fait glisser la latitude de 0° à 90° et voit l'inclinaison du style suivre la même valeur : 0° à l'équateur, 90° au pôle. Légende et texte alternatif à fournir ultérieurement.]
+
+## L'ombre à midi
+
+À midi solaire, le Soleil est à peu près au plus haut et l'ombre la plus courte. Au nord des tropiques, il est plein sud et l'ombre pointe vers le nord.
+
+## Incliner le style
+
+Le style du cadran doit être parallèle à l'axe de rotation de la Terre. Son inclinaison est donc égale à la latitude du lieu.
+
+## Deux corrections
+
+L'heure solaire s'écarte de l'heure des montres de jusqu'à environ un quart d'heure selon la saison : c'est l'équation du temps. Chaque degré de longitude d'écart avec le méridien du fuseau horaire décale en plus l'heure solaire d'environ 4 minutes.
+
+## Un savoir ancien
+
+Vers 1500 av. J.-C., les plus anciennes horloges à ombre connues apparaissent en Égypte. Au Ier siècle avant notre ère, Vitruve décrit une douzaine de styles de cadrans en usage autour de la Méditerranée.
+
+## Avant de commencer
+
+Il faut un bâton droit, un sol plat et une journée ensoleillée.
+
+## À retenir
+
+- Vers 1500 av. J.-C., les plus anciennes horloges à ombre connues apparaissent en Égypte.
+- À midi solaire, l'ombre est la plus courte ; au nord des tropiques, elle pointe vers le nord.
+- L'inclinaison du style est égale à la latitude du lieu.
+- L'heure solaire s'écarte de l'heure des montres de jusqu'à environ un quart d'heure selon la saison.
+- Chaque degré de longitude d'écart avec le méridien du fuseau décale l'heure solaire d'environ 4 minutes.

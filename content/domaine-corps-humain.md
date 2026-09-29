@@ -7004,18 +7004,91 @@ status: planned
 
 ---
 type: article
-title: L'hygiene des mains et la prevention des infections
+title: Se laver les mains, le geste qui a sauvé des mères
 slug: l-hygiene-des-mains-et-la-prevention-des-infections
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
-  Un geste simple mais determinant pour limiter la transmission de nombreuses maladies.
-tags: [maladies-infectieuses, essentiel-reconstruction]
+  Dans la première clinique obstétrique de Vienne, Semmelweis impose aux médecins de se laver
+  les mains : la mortalité de sa clinique tombe sous les 3 %.
+tags: [maladies-infectieuses, essentiel-reconstruction, reconstruction]
+sources:
+  - title: "Ignaz Semmelweis"
+    url: "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+    publisher: "Wikipedia"
+  - title: "Ignaz Semmelweis"
+    url: "https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/"
+    publisher: "Science History Institute"
+  - title: "About Handwashing"
+    url: "https://www.cdc.gov/clean-hands/about/index.html"
+    publisher: "CDC"
+quiz:
+  - question: "Dans la première clinique obstétrique de Vienne, quelle part des accouchées mourait avant la mesure ?"
+    options:
+      - "Environ 1 %"
+      - "Environ 18 %"
+      - "Environ 50 %"
+    answer: 2
+    explanation: >
+      Environ 18 % des accouchées mouraient dans la première clinique obstétrique de Vienne
+      avant l'obligation de se laver les mains.
+  - question: "Avec quoi Semmelweis fait-il laver les mains des médecins ?"
+    options:
+      - "Du vinaigre"
+      - "Une solution de chlorure de chaux"
+      - "De l'eau de mer"
+    answer: 2
+    explanation: >
+      Semmelweis impose aux médecins de se laver les mains avec une solution de chlorure de
+      chaux entre les autopsies et les examens.
+  - question: "Après la mesure, la mortalité de sa clinique tombe…"
+    options:
+      - "sous les 3 %"
+      - "à 10 %"
+      - "à 15 %"
+    answer: 1
+    explanation: >
+      Après la mesure de Semmelweis, la mortalité de sa clinique tombe sous les 3 %.
+  - question: "Combien de temps frotter ses mains au savon selon le CDC ?"
+    options:
+      - "5 secondes"
+      - "Au moins 20 secondes"
+      - "5 minutes"
+    answer: 2
+    explanation: >
+      Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes.
+lastVerified: 2026-09-29
 priority: 2
 essentiel: true
 status: planned
 ---
 
-À rédiger.
+## En bref
+
+Dans la première clinique obstétrique de Vienne, environ 18 % des accouchées mouraient avant que Semmelweis n'impose aux médecins de se laver les mains. Après cette mesure, la mortalité de sa clinique tombe sous les 3 %. Aujourd'hui encore, se laver les mains au savon aide à prévenir des infections.
+
+## Un chiffre à Vienne
+
+Dans la première clinique obstétrique de Vienne, environ 18 % des accouchées mouraient avant l'obligation de se laver les mains.
+
+## La mesure de Semmelweis
+
+Semmelweis impose aux médecins de se laver les mains avec une solution de chlorure de chaux entre les autopsies et les examens. Après la mesure, la mortalité de sa clinique tombe sous les 3 %.
+
+## Aujourd'hui
+
+Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes. Se laver les mains au savon aide à prévenir les infections respiratoires et diarrhéiques.
+
+## Avant de commencer
+
+Il faut de l'eau propre et du savon, ou une solution désinfectante. En cas de symptômes, consulter un professionnel de santé.
+
+## À retenir
+
+- Environ 18 % des accouchées mouraient dans la première clinique obstétrique de Vienne avant la mesure de Semmelweis.
+- Semmelweis impose un lavage des mains au chlorure de chaux entre les autopsies et les examens.
+- Après la mesure, la mortalité de sa clinique tombe sous les 3 %.
+- Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes.
+- Se laver les mains au savon aide à prévenir les infections respiratoires et diarrhéiques.
 
 ---
 type: article
@@ -7154,18 +7227,100 @@ status: planned
 
 ---
 type: article
-title: La desinfection de l'eau en situation d'epidemie
+title: L'eau potable, première médecine
 slug: la-desinfection-de-l-eau-en-situation-d-epidemie
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
-  Des methodes simples pour limiter la propagation de maladies liees a l'eau.
-tags: [maladies-infectieuses, essentiel-reconstruction]
+  Bouillir, décanter, exposer au soleil : trois gestes simples pour rendre une eau plus sûre,
+  depuis l'enquête de John Snow en 1854.
+tags: [maladies-infectieuses, eau, essentiel-reconstruction, reconstruction]
+relatedArticles: [cholera-eau-contaminee, rendre-eau-potable]
+sources:
+  - title: "Making Water Safe in an Emergency"
+    url: "https://www.cdc.gov/healthywater/emergency/making-water-safe.html"
+    publisher: "CDC"
+  - title: "Solar water disinfection"
+    url: "https://en.wikipedia.org/wiki/Solar_water_disinfection"
+    publisher: "Wikipedia"
+  - title: "SODIS : application de la méthode"
+    url: "https://www.sodis.ch/methode/anwendung/index_EN.html"
+    publisher: "Fondation SODIS / Eawag"
+  - title: "1854 Broad Street cholera outbreak"
+    url: "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de temps faire bouillir une eau claire à gros bouillons ?"
+    options:
+      - "10 secondes"
+      - "1 minute"
+      - "20 minutes"
+    answer: 2
+    explanation: >
+      Faire bouillir une eau claire à gros bouillons pendant 1 minute tue les germes (3 minutes
+      au-dessus d'environ 2 000 m d'altitude).
+  - question: "Votre eau est trouble. Que faire d'abord ?"
+    options:
+      - "La boire vite"
+      - "La laisser décanter ou la filtrer dans un tissu propre"
+      - "Y ajouter du sucre"
+    answer: 2
+    explanation: >
+      Une eau trouble se laisse d'abord décanter ou se filtre à travers un tissu propre avant
+      d'être désinfectée.
+  - question: "Méthode SODIS : combien de temps d'exposition quand moins de la moitié du ciel est couverte ?"
+    options:
+      - "30 minutes"
+      - "6 heures"
+      - "1 semaine"
+    answer: 2
+    explanation: >
+      Avec la méthode SODIS, 6 heures de plein soleil dans une bouteille transparente en PET
+      suffisent quand moins de la moitié du ciel est couverte.
+  - question: "Et si le ciel est couvert à plus de 50 % ?"
+    options:
+      - "Aucune différence"
+      - "2 jours consécutifs au soleil"
+      - "C'est impossible"
+    answer: 2
+    explanation: >
+      Par ciel couvert à plus de 50 %, la bouteille reste 2 jours consécutifs au soleil.
+lastVerified: 2026-09-29
 priority: 2
 essentiel: true
 status: planned
 ---
 
-À rédiger.
+## En bref
+
+Faire bouillir une eau claire à gros bouillons pendant 1 minute tue les germes. Une eau trouble se laisse d'abord décanter ou se filtre. Sans feu, la méthode SODIS utilise le soleil et une bouteille transparente. En 1854 à Londres, John Snow relie une épidémie de choléra à une pompe publique.
+
+## Une pompe à Londres
+
+En 1854 à Londres, John Snow relie une épidémie de choléra à une pompe publique contaminée de Broad Street. On retire la poignée de la pompe.
+
+## Bouillir
+
+Faire bouillir une eau claire à gros bouillons pendant 1 minute tue les germes. Au-dessus d'environ 2 000 m d'altitude, il faut 3 minutes.
+
+## Décanter ou filtrer
+
+Une eau trouble se laisse d'abord décanter ou se filtre à travers un tissu propre avant d'être désinfectée.
+
+## Le soleil, méthode SODIS
+
+Avec SODIS, 6 heures de plein soleil dans une bouteille transparente en PET suffisent quand moins de la moitié du ciel est couverte. Par ciel couvert à plus de 50 %, la bouteille reste 2 jours consécutifs au soleil. L'Organisation mondiale de la santé recommande SODIS comme méthode de traitement de l'eau à domicile.
+
+## Avant de commencer
+
+Il faut savoir faire un feu, ou disposer de soleil et de bouteilles transparentes. En cas de doute sur une source d'eau, demander l'avis d'un professionnel de santé.
+
+## À retenir
+
+- Faire bouillir une eau claire à gros bouillons pendant 1 minute tue les germes (3 minutes au-dessus d'environ 2 000 m).
+- Une eau trouble se décante ou se filtre à travers un tissu propre avant d'être désinfectée.
+- Méthode SODIS : 6 heures de plein soleil dans une bouteille transparente en PET quand moins de la moitié du ciel est couverte.
+- Par ciel couvert à plus de 50 %, la bouteille reste 2 jours consécutifs au soleil.
+- En 1854 à Londres, John Snow relie une épidémie de choléra à une pompe publique de Broad Street.
 
 ---
 type: article
