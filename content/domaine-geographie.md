@@ -9702,14 +9702,81 @@ title: La projection de Mercator et la déformation des cartes
 slug: la-projection-de-mercator-et-la-deformation-des-cartes
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la projection de Mercator et la déformation des cartes.
-tags: [reliefs, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  La projection de Mercator, présentée en 1569, conserve les angles et rend les routes à cap
+  constant rectilignes, mais elle déforme les surfaces près des pôles.
+tags: [cartographie, projection, mercator]
+sources:
+  - title: "Mercator projection"
+    url: "https://en.wikipedia.org/wiki/Mercator_projection"
+    publisher: "Wikipedia"
+  - title: "Nautical Cartography"
+    url: "https://nauticalcharts.noaa.gov/learn/nautical-cartography.html"
+    publisher: "NOAA Office of Coast Survey"
+  - title: "Selecting a Map Projection"
+    url: "https://education.nationalgeographic.org/resource/selecting-map-projection/"
+    publisher: "National Geographic Education"
+quiz:
+  - question: "En quelle année Mercator présente-t-il sa projection ?"
+    options:
+      - "1369"
+      - "1569"
+      - "1769"
+    answer: 2
+    explanation: >
+      1569 : le géographe flamand Gerardus Mercator présente sa projection.
+  - question: "Que conserve la projection de Mercator ?"
+    options:
+      - "Les angles"
+      - "Les surfaces"
+      - "Les distances"
+    answer: 1
+    explanation: >
+      La projection de Mercator conserve les angles, mais déforme les surfaces.
+  - question: "Combien de fois la surface de l'Afrique est-elle plus grande que celle du Groenland ?"
+    options:
+      - "Environ 2 fois"
+      - "Environ 14 fois"
+      - "Environ 140 fois"
+    answer: 2
+    explanation: >
+      Le Groenland paraît aussi grand que l'Afrique, alors que la surface de l'Afrique est
+      environ 14 fois plus grande.
+  - question: "Pourquoi les marins utilisent-ils cette projection ?"
+    options:
+      - "Une ligne droite y est une route à cap constant"
+      - "Elle est en couleur"
+      - "Elle montre les vents"
+    answer: 1
+    explanation: >
+      Sur une carte de Mercator, toute ligne droite est une ligne de cap constant, ou
+      loxodromie.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La projection de Mercator, présentée en 1569, conserve les angles et rend les routes à cap constant rectilignes, mais elle déforme les surfaces près des pôles.
+
+## Une carte pour les marins
+
+En 1569, le géographe flamand Gerardus Mercator présente sa projection. Sur une carte de Mercator, toute ligne droite est une ligne de cap constant, ou loxodromie : un navire qui garde le même cap suit un segment de droite. La projection est devenue la référence des cartes marines.
+
+## Les angles, mais pas les surfaces
+
+La projection de Mercator conserve les angles, mais déforme les surfaces ; elle convient mal aux régions proches des pôles. L'échelle augmente avec la latitude : les objets éloignés de l'équateur paraissent plus grands.
+
+## Le Groenland et l'Afrique
+
+Sur une carte de Mercator, le Groenland paraît aussi grand que l'Afrique, alors que la surface de l'Afrique est environ 14 fois plus grande.
+
+## À retenir
+
+- En 1569, le géographe flamand Gerardus Mercator présente sa projection.
+- Sur ses cartes, toute ligne droite est une ligne de cap constant, ou loxodromie.
+- Elle conserve les angles, mais déforme les surfaces : l'échelle augmente avec la latitude.
+- Le Groenland y paraît aussi grand que l'Afrique, dont la surface est environ 14 fois plus grande.
+- Elle est devenue la référence des cartes marines.
 
 ---
 type: article

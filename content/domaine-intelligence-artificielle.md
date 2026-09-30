@@ -9372,18 +9372,94 @@ status: planned
 
 ---
 type: article
-title: Le perceptron de 1957, premier algorithme d'apprentissage
-slug: le-perceptron-de-1957-premier-algorithme-d-apprentissage
+title: Le perceptron, la machine qui apprend
+slug: le-perceptron-la-machine-qui-apprend
 categoryPath: intelligence-artificielle/apprentissage-automatique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le perceptron de 1957, premier algorithme d'apprentissage.
-tags: [apprentissage-automatique, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  Le perceptron de Frank Rosenblatt, présenté en 1958, apprend à distinguer deux types de
+  cartes. Un livre de 1969 en pointe les limites.
+tags: [perceptron, histoire-de-l-ia, reseaux-de-neurones]
+sources:
+  - title: "Professor's perceptron paved the way for AI – 60 years too soon"
+    url: "https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon"
+    publisher: "Cornell Chronicle"
+  - title: "Perceptron"
+    url: "https://en.wikipedia.org/wiki/Perceptron"
+    publisher: "Wikipedia"
+  - title: "Frank Rosenblatt"
+    url: "https://en.wikipedia.org/wiki/Frank_Rosenblatt"
+    publisher: "Wikipedia"
+  - title: "Perceptrons (book)"
+    url: "https://en.wikipedia.org/wiki/Perceptrons_(book)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où Rosenblatt a-t-il construit le perceptron ?"
+    options:
+      - "Au Cornell Aeronautical Laboratory, à Buffalo"
+      - "Au MIT, à Boston"
+      - "À Stanford, en Californie"
+    answer: 1
+    explanation: >
+      Frank Rosenblatt, psychologue et ingénieur de projet au Cornell Aeronautical Laboratory de
+      Buffalo, a construit le perceptron.
+  - question: "Quel ordinateur sert à la démonstration de juillet 1958 ?"
+    options:
+      - "Un IBM 704"
+      - "Un micro-ordinateur"
+      - "Un Minitel"
+    answer: 1
+    explanation: >
+      En juillet 1958, l'Office of Naval Research présente le perceptron : un ordinateur IBM 704
+      apprend à distinguer des cartes marquées à gauche de cartes marquées à droite.
+  - question: "Quelle fonction un neurone artificiel isolé ne peut-il pas réaliser ?"
+    options:
+      - "Le « ou exclusif » (XOR)"
+      - "L'addition"
+      - "Le « et » logique"
+    answer: 1
+    explanation: >
+      Ce livre montre qu'un neurone artificiel isolé ne peut pas réaliser certaines fonctions,
+      comme le « ou exclusif » (XOR).
+  - question: "Qu'appelle-t-on l'« hiver de l'IA » ?"
+    options:
+      - "Des décennies où les financements fédéraux pour l'IA se sont taris"
+      - "Une saison de tests de robots"
+      - "Un prix annuel"
+    answer: 1
+    explanation: >
+      L'« hiver de l'IA » désigne des décennies où les financements fédéraux pour l'intelligence
+      artificielle se sont taris.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le perceptron de Frank Rosenblatt, présenté en 1958, apprend à distinguer deux types de cartes. Un livre de 1969 en pointe les limites.
+
+## Un psychologue et une machine
+
+Frank Rosenblatt, psychologue et ingénieur de projet au Cornell Aeronautical Laboratory de Buffalo, a construit le perceptron. Son Mark I Perceptron est aujourd'hui conservé à la Smithsonian Institution.
+
+## La démonstration de 1958
+
+En juillet 1958, l'Office of Naval Research présente le perceptron : un ordinateur IBM 704 apprend à distinguer des cartes perforées marquées à gauche de cartes marquées à droite. Après une conférence de presse de la Marine, un journal décrit le perceptron comme l'embryon d'un ordinateur qui pourrait marcher, parler, voir, écrire, se reproduire et avoir conscience de lui-même.
+
+## Les limites
+
+En 1969, Marvin Minsky et Seymour Papert publient le livre Perceptrons. Il montre qu'un neurone artificiel isolé ne peut pas réaliser certaines fonctions, comme le « ou exclusif » (XOR).
+
+## L'hiver de l'IA
+
+Après ce livre, la recherche sur les réseaux de neurones a décliné : c'est l'une des origines de l'« hiver de l'IA », des décennies où les financements fédéraux pour l'intelligence artificielle se sont taris.
+
+## À retenir
+
+- Frank Rosenblatt, psychologue et ingénieur au Cornell Aeronautical Laboratory de Buffalo, a construit le perceptron.
+- En juillet 1958, un IBM 704 apprend à distinguer des cartes marquées à gauche de cartes marquées à droite.
+- Un journal décrit la machine comme l'embryon d'un ordinateur qui pourrait marcher, parler, voir et écrire.
+- En 1969, Minsky et Papert montrent qu'un neurone artificiel isolé ne peut pas réaliser le « ou exclusif ».
+- Le recul de la recherche qui suit contribue à l'« hiver de l'IA ».
 
 ---
 type: article

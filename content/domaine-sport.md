@@ -9675,14 +9675,86 @@ title: Les records de 1968 à Mexico et l'altitude
 slug: les-records-de-1968-a-mexico-et-l-altitude
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les records de 1968 à Mexico et l'altitude.
-tags: [sports-individuels, veille-2026-09]
-priority: 0.8
-essentiel: false
-status: planned
+  Le 18 octobre 1968, Bob Beamon saute 8,90 m aux Jeux de Mexico, à 2 240 m d'altitude, et
+  améliore le record de 55 cm. Il tiendra presque 23 ans.
+tags: [athletisme, altitude, records]
+sources:
+  - title: "The perfect jump: Beamon's 8.90m celebrates its 50th anniversary"
+    url: "https://worldathletics.org/news/news/bob-beamon-890m-long-jump-world-record-50th-a"
+    publisher: "World Athletics"
+  - title: "Bob Beamon"
+    url: "https://en.wikipedia.org/wiki/Bob_Beamon"
+    publisher: "Wikipedia"
+  - title: "Mexico City"
+    url: "https://en.wikipedia.org/wiki/Mexico_City"
+    publisher: "Wikipedia"
+  - title: "Athletics at the 1968 Summer Olympics"
+    url: "https://en.wikipedia.org/wiki/Athletics_at_the_1968_Summer_Olympics"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle altitude se trouve Mexico ?"
+    options:
+      - "224 mètres"
+      - "2 240 mètres"
+      - "22 400 mètres"
+    answer: 2
+    explanation: >
+      Mexico se trouve à 2 240 mètres d'altitude.
+  - question: "Quelle distance Bob Beamon saute-t-il ?"
+    options:
+      - "8,90 mètres"
+      - "7,90 mètres"
+      - "9,90 mètres"
+    answer: 1
+    explanation: >
+      Bob Beamon saute 8,90 mètres, nouveau record du monde.
+  - question: "De combien améliore-t-il l'ancien record du monde ?"
+    options:
+      - "De 55 centimètres"
+      - "De 5 centimètres"
+      - "De 5 mètres"
+    answer: 1
+    explanation: >
+      Il améliore l'ancien record du monde de 55 centimètres.
+  - question: "Combien de temps son record tient-il ?"
+    options:
+      - "Presque 23 ans"
+      - "2 ans"
+      - "50 ans"
+    answer: 1
+    explanation: >
+      Son record tient presque 23 ans.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le 18 octobre 1968, Bob Beamon saute 8,90 m aux Jeux de Mexico, à 2 240 m d'altitude, et améliore le record de 55 cm. Il tiendra presque 23 ans.
+
+## Un saut hors norme
+
+Le 18 octobre 1968, Bob Beamon saute 8,90 mètres en longueur aux Jeux olympiques de Mexico et améliore l'ancien record du monde de 55 centimètres.
+
+## Un record qui dure
+
+Son record tient presque 23 ans. En 1991, Mike Powell le bat.
+
+## Une ville en altitude
+
+Mexico se trouve à 2 240 mètres d'altitude.
+
+## Des records à la pelle
+
+À ces Jeux, des records du monde sont battus notamment au 100 m, au 200 m, au 400 m, au 800 m, au 400 m haies, à la longueur et au triple saut chez les hommes. Faut-il les attribuer à l'altitude ? Cette fiche ne tranche pas : elle donne les faits confirmés pour que chacun puisse comparer.
+
+## À retenir
+
+- Le 18 octobre 1968, Bob Beamon saute 8,90 mètres en longueur aux Jeux olympiques de Mexico.
+- Il améliore l'ancien record du monde de 55 centimètres.
+- Mexico se trouve à 2 240 mètres d'altitude.
+- Son record tient presque 23 ans, jusqu'à ce que Mike Powell le batte en 1991.
+- À ces Jeux, des records du monde tombent aussi au 100 m, 200 m, 400 m, 800 m, 400 m haies et triple saut.
 
 ---
 type: article

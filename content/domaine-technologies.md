@@ -10931,3 +10931,96 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Les alliages à mémoire de forme
+slug: les-alliages-a-memoire-de-forme
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Le nitinol, alliage de nickel et de titane, garde en mémoire sa forme d'origine : déformé à
+  froid, il la retrouve quand on le chauffe.
+tags: [nitinol, memoire-de-forme, alliages]
+sources:
+  - title: "Teaching an Old Metal New Tricks"
+    url: "https://spinoff.nasa.gov/Teaching_an_Old_Metal_New_Tricks"
+    publisher: "NASA Spinoff"
+  - title: "Nickel titanium"
+    url: "https://en.wikipedia.org/wiki/Nickel_titanium"
+    publisher: "Wikipedia"
+  - title: "Shape-memory alloy"
+    url: "https://en.wikipedia.org/wiki/Shape-memory_alloy"
+    publisher: "Wikipedia"
+quiz:
+  - question: "De quels métaux est fait le nitinol ?"
+    options:
+      - "Nickel et titane"
+      - "Cuivre et zinc"
+      - "Or et cadmium"
+    answer: 1
+    explanation: >
+      Le nitinol est un alliage de nickel et de titane.
+  - question: "Que fait un alliage à mémoire de forme quand on le chauffe après l'avoir déformé à froid ?"
+    options:
+      - "Il retrouve sa forme d'origine"
+      - "Il devient liquide"
+      - "Il devient magnétique"
+    answer: 1
+    explanation: >
+      Un alliage à mémoire de forme peut être déformé à froid, puis retrouve sa forme d'origine
+      quand on le chauffe.
+  - question: "Que permet la superélasticité ?"
+    options:
+      - "Subir de grandes déformations et reprendre aussitôt sa forme"
+      - "Devenir plus dur en refroidissant"
+      - "Fondre à basse température"
+    answer: 1
+    explanation: >
+      La superélasticité permet à la pièce de subir de grandes déformations et de reprendre
+      aussitôt sa forme quand on la relâche.
+  - question: "Quel laboratoire a donné une partie de son nom au nitinol ?"
+    options:
+      - "Le Naval Ordnance Laboratory"
+      - "Le Cornell Aeronautical Laboratory"
+      - "Les Bell Labs"
+    answer: 1
+    explanation: >
+      Son nom reprend des lettres des deux métaux et du Naval Ordnance Laboratory, le
+      laboratoire américain où ses propriétés ont été découvertes.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Le nitinol, alliage de nickel et de titane, garde en mémoire sa forme d'origine : déformé à froid, il la retrouve quand on le chauffe.
+
+[Emplacement image : diagramme en quatre étapes, « Comment un alliage se souvient de sa forme ». À basse température : la martensite est la structure favorisée. Déformation à froid : l'alliage peut être déformé. Chauffage : l'austénite devient la structure favorisée. Forme d'origine : l'alliage retrouve sa forme d'origine. Légende et texte alternatif à fournir ultérieurement.]
+
+## Un alliage de nickel et de titane
+
+Le nitinol est un alliage de nickel et de titane, présents en proportions atomiques à peu près égales. Son nom reprend des lettres des deux métaux et du Naval Ordnance Laboratory, le laboratoire américain où ses propriétés ont été découvertes.
+
+## La mémoire de forme
+
+Un alliage à mémoire de forme peut être déformé à froid, puis retrouve sa forme d'origine quand on le chauffe. Deux structures cristallines se relaient selon la température : la martensite, favorisée à basse température, et l'austénite, favorisée à haute température.
+
+## La superélasticité
+
+La superélasticité permet à la pièce de subir de grandes déformations et de reprendre aussitôt sa forme quand on la relâche.
+
+## Une histoire de laboratoire
+
+L'effet de mémoire de forme a d'abord été observé par le chimiste suédois Arne Ölander, dans des alliages d'or et de cadmium. Au Naval Ordnance Laboratory, William Buehler devait trouver des alliages très résistants à la fatigue aux températures élevées, pour des ogives de missiles. Lors d'une réunion de direction du laboratoire, un échantillon plié a repris sa forme d'origine quand on l'a chauffé avec un briquet de pipe, à la surprise de tous.
+
+## Des usages médicaux et quotidiens
+
+Le nitinol sert notamment aux cathéters, aux stents et aux aiguilles superélastiques ; un stent replié, inséré dans une artère, reprend sa forme dilatée sous l'effet de la chaleur du corps. Il sert aussi en dentisterie, dans des fils orthodontiques. On en trouve dans des montures de lunettes très résistantes et dans le dispositif de stabilisation d'image optique de téléphones mobiles. Cette fiche ne donne aucun conseil médical.
+
+## À retenir
+
+- Le nitinol est un alliage de nickel et de titane, en proportions atomiques à peu près égales.
+- Son nom reprend les deux métaux et le Naval Ordnance Laboratory, où ses propriétés ont été découvertes.
+- Déformé à froid, un alliage à mémoire de forme retrouve sa forme d'origine quand on le chauffe.
+- La superélasticité lui permet de subir de grandes déformations et de reprendre aussitôt sa forme.
+- Il sert aux stents, aux fils orthodontiques des dentistes et à des montures de lunettes très résistantes.

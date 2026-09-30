@@ -18902,14 +18902,84 @@ title: Pourquoi la glace flotte sur l'eau
 slug: pourquoi-la-glace-flotte-sur-l-eau
 categoryPath: sciences-fondamentales/physique/thermodynamique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi la glace flotte sur l'eau.
-tags: [thermodynamique, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  L'eau devient environ 9 % moins dense en gelant : la glace flotte. Et l'eau est la plus dense
+  vers 4 °C, ce qui évite qu'un lac gèle du fond vers la surface.
+tags: [eau, glace, densite]
+sources:
+  - title: "Water Density"
+    url: "https://www.usgs.gov/water-science-school/science/water-density"
+    publisher: "U.S. Geological Survey"
+  - title: "Facts About Water"
+    url: "https://www.usgs.gov/water-science-school/science/facts-about-water"
+    publisher: "U.S. Geological Survey"
+  - title: "Properties of water"
+    url: "https://en.wikipedia.org/wiki/Properties_of_water"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle température l'eau liquide est-elle la plus dense ?"
+    options:
+      - "0 °C"
+      - "4 °C environ"
+      - "10 °C"
+    answer: 2
+    explanation: >
+      L'eau liquide est la plus dense à environ 4 °C.
+  - question: "De combien l'eau devient-elle moins dense en gelant ?"
+    options:
+      - "Environ 0,9 %"
+      - "Environ 9 %"
+      - "Environ 90 %"
+    answer: 2
+    explanation: >
+      En gelant, l'eau devient environ 9 % moins dense.
+  - question: "Pourquoi la glace flotte-t-elle ?"
+    options:
+      - "Elle est moins dense que l'eau liquide"
+      - "Elle est pleine de sel"
+      - "Elle est plus froide que l'air"
+    answer: 1
+    explanation: >
+      La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte.
+  - question: "Si l'eau était la plus dense à son point de congélation, que pourrait-il arriver à un lac en hiver ?"
+    options:
+      - "Il pourrait geler du fond vers la surface"
+      - "Il ne gèlerait jamais"
+      - "Il deviendrait salé"
+    answer: 1
+    explanation: >
+      Si l'eau était la plus dense au point de congélation, l'eau très froide de la surface
+      coulerait en hiver et le lac pourrait geler du fond vers la surface.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'eau devient environ 9 % moins dense en gelant : la glace flotte. Et l'eau est la plus dense vers 4 °C, ce qui évite qu'un lac gèle du fond vers la surface.
+
+## Un glaçon qui flotte
+
+La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte. En gelant, l'eau devient environ 9 % moins dense. Dans la glace, les molécules d'eau forment un réseau où elles sont plus espacées que dans le liquide.
+
+## La densité maximale à 4 °C
+
+L'eau liquide est la plus dense à environ 4 °C, et non à 0 °C. Dans un lac, l'eau la plus dense descend donc sous l'eau moins dense.
+
+## Et si ce n'était pas le cas ?
+
+Si l'eau était la plus dense au point de congélation, l'eau très froide de la surface coulerait en hiver et le lac pourrait geler du fond vers la surface.
+
+## Un couvercle isolant
+
+La glace flotte et isole l'eau qui se trouve dessous : même un grand lac comme le lac Baïkal ne gèle que sur une épaisseur limitée en hiver.
+
+## À retenir
+
+- La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte.
+- En gelant, l'eau devient environ 9 % moins dense.
+- Dans la glace, les molécules forment un réseau où elles sont plus espacées que dans le liquide.
+- L'eau liquide est la plus dense à environ 4 °C, et non à 0 °C.
+- Dans un lac, l'eau la plus dense descend donc sous l'eau moins dense.
 
 ---
 type: article
@@ -18992,14 +19062,84 @@ title: Les fosses océaniques et la zone hadale
 slug: les-fosses-oceaniques-et-la-zone-hadale
 categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les fosses océaniques et la zone hadale.
-tags: [oceanographie, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  La zone hadale commence vers 6 000 mètres sous la surface et atteint 11 000 mètres. Dans ses
+  fosses, sans lumière et sous une pression extrême, des animaux vivent.
+tags: [oceanographie, grands-fonds, fosses]
+sources:
+  - title: "The Hadal Zone: Aqua Incognita"
+    url: "https://oceanexplorer.noaa.gov/expedition-feature/okeanos-ex2102-features-hadalzone/"
+    publisher: "NOAA Ocean Exploration"
+  - title: "Hadal zone"
+    url: "https://en.wikipedia.org/wiki/Hadal_zone"
+    publisher: "Wikipedia"
+  - title: "Challenger Deep"
+    url: "https://en.wikipedia.org/wiki/Challenger_Deep"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À partir de quelle profondeur commence la zone hadale ?"
+    options:
+      - "Environ 600 mètres"
+      - "Environ 6 000 mètres"
+      - "Environ 60 000 mètres"
+    answer: 2
+    explanation: >
+      La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface.
+  - question: "D'où vient le nom de la zone hadale ?"
+    options:
+      - "D'Hadès, dieu grec des enfers"
+      - "D'un explorateur nommé Hadal"
+      - "D'une île du Pacifique"
+    answer: 1
+    explanation: >
+      Son nom vient d'Hadès, le dieu grec des enfers.
+  - question: "À quelle surface les fosses hadales sont-elles comparables ?"
+    options:
+      - "À la moitié de l'Australie"
+      - "À la France"
+      - "À une piscine"
+    answer: 1
+    explanation: >
+      Les fosses et les grands creux hadaux occupent ensemble une surface à peu près égale à la
+      moitié de l'Australie.
+  - question: "Quel poisson vit dans la zone hadale ?"
+    options:
+      - "Le poisson-limace"
+      - "Le requin blanc"
+      - "Le thon rouge"
+    answer: 1
+    explanation: >
+      Des crustacés et des poissons comme les poissons-limaces vivent dans la zone hadale.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La zone hadale commence vers 6 000 mètres sous la surface et atteint 11 000 mètres. Dans ses fosses, sans lumière et sous une pression extrême, des animaux vivent.
+
+## Sous 6 000 mètres
+
+La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface. Son nom vient d'Hadès, le dieu grec des enfers.
+
+## Noir, froid, sous pression
+
+Il n'y a aucune lumière du soleil, l'eau est froide, les nutriments sont rares et la pression est extrêmement élevée.
+
+## Des fosses immenses
+
+Les fosses et les grands creux hadaux occupent ensemble une surface à peu près égale à la moitié de l'Australie.
+
+## Des animaux y vivent
+
+Des crustacés comme des amphipodes, des mysides et des isopodes y atteignent parfois de grandes tailles, et des poissons comme les poissons-limaces y vivent. La première descente habitée au fond du Challenger Deep a été réalisée à bord du Trieste, par Jacques Piccard et le lieutenant Don Walsh.
+
+## À retenir
+
+- La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface.
+- Son nom vient d'Hadès, le dieu grec des enfers.
+- Il n'y a aucune lumière du soleil ; l'eau est froide, les nutriments rares et la pression extrême.
+- Ses fosses occupent ensemble une surface à peu près égale à la moitié de l'Australie.
+- Des crustacés et des poissons-limaces y vivent ; certains crustacés atteignent de grandes tailles.
 
 ---
 type: article

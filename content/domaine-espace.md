@@ -11310,14 +11310,88 @@ title: Les marées et l'effet de la Lune sur les océans
 slug: les-marees-et-l-effet-de-la-lune-sur-les-oceans
 categoryPath: espace-et-astronomie/systeme-solaire/lune
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les marées et l'effet de la Lune sur les océans.
-tags: [lune, veille-2026-09]
-priority: 0.92
-essentiel: false
-status: planned
+  La gravité de la Lune produit la force de marée. Un jour lunaire dure 24 h 50, et deux marées
+  hautes se succèdent à environ 12 h 25.
+tags: [lune, marees, gravite]
+sources:
+  - title: "Frequency of Tides - The Lunar Day"
+    url: "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "How frequent are tides?"
+    url: "https://oceanservice.noaa.gov/facts/tidefrequency.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "What Causes Tides?"
+    url: "https://www.nesdis.noaa.gov/about/k-12-education/oceans-coasts/what-causes-tides"
+    publisher: "NOAA NESDIS"
+  - title: "Tide"
+    url: "https://en.wikipedia.org/wiki/Tide"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien dure un jour lunaire ?"
+    options:
+      - "24 heures"
+      - "24 heures et 50 minutes"
+      - "25 heures et 50 minutes"
+    answer: 2
+    explanation: >
+      Un jour lunaire dure 24 heures et 50 minutes.
+  - question: "Combien de marées hautes par jour lunaire sur la plupart des côtes ?"
+    options:
+      - "Une"
+      - "Deux"
+      - "Quatre"
+    answer: 2
+    explanation: >
+      La plupart des côtes connaissent deux marées hautes et deux marées basses par jour
+      lunaire.
+  - question: "Quand a-t-on des marées de vives-eaux ?"
+    options:
+      - "À la pleine lune et à la nouvelle lune"
+      - "Au seul premier quartier"
+      - "Jamais en hiver"
+    answer: 1
+    explanation: >
+      Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la nouvelle lune,
+      les effets se renforcent : ce sont les marées de vives-eaux.
+  - question: "Quelle baie est souvent citée pour avoir les plus hautes marées du monde ?"
+    options:
+      - "La baie de Fundy"
+      - "La mer Méditerranée"
+      - "La mer Morte"
+    answer: 1
+    explanation: >
+      La baie de Fundy est souvent citée comme ayant les plus hautes marées du monde.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La gravité de la Lune produit la force de marée. Un jour lunaire dure 24 h 50, et deux marées hautes se succèdent à environ 12 h 25.
+
+## Deux marées hautes par jour
+
+La plupart des côtes connaissent deux marées hautes et deux marées basses par jour lunaire. Un jour lunaire dure 24 heures et 50 minutes, et deux marées hautes se succèdent à environ 12 heures et 25 minutes d'intervalle.
+
+## Pourquoi 24 h 50
+
+Le jour lunaire dépasse 24 heures de 50 minutes parce que la Lune tourne autour de la Terre dans le même sens que la rotation de la Terre : la Terre met 50 minutes de plus pour la « rattraper ».
+
+## La force de marée
+
+La gravité de la Lune produit la force de marée, une force qui vient des différences de gravité d'un point à l'autre de la Terre ; le Soleil y contribue, plus faiblement. Du côté tourné vers la Lune, la gravité est la plus forte et attire l'eau ; du côté opposé, elle est la plus faible et l'eau se renfle aussi.
+
+## Vives-eaux et mortes-eaux
+
+Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la nouvelle lune, les effets se renforcent : ce sont les marées de vives-eaux. Quand ils s'opposent, ce sont les marées de mortes-eaux, inhabituellement faibles. La baie de Fundy est souvent citée comme ayant les plus hautes marées du monde.
+
+## À retenir
+
+- La gravité de la Lune produit la force de marée ; le Soleil y contribue, plus faiblement.
+- Du côté de la Lune, la gravité attire l'eau ; du côté opposé, elle est plus faible et l'eau se renfle aussi.
+- La plupart des côtes ont deux marées hautes et deux marées basses par jour lunaire.
+- Un jour lunaire dure 24 h 50 : la Terre doit « rattraper » la Lune, qui tourne dans le même sens.
+- À la pleine lune et à la nouvelle lune, Terre, Lune et Soleil alignés donnent les marées de vives-eaux.
 
 ---
 type: article

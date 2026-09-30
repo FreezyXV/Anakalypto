@@ -9106,14 +9106,86 @@ title: CRISPR, les ciseaux génétiques
 slug: crispr-les-ciseaux-genetiques
 categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : cRISPR, les ciseaux génétiques.
-tags: [genie-genetique, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  CRISPR est un système de défense des bactéries détourné pour modifier l'ADN. Il a valu le prix
+  Nobel de chimie 2020 à Emmanuelle Charpentier et Jennifer Doudna.
+tags: [crispr, genetique, nobel]
+sources:
+  - title: "CRISPR"
+    url: "https://en.wikipedia.org/wiki/CRISPR"
+    publisher: "Wikipedia"
+  - title: "Nobel Prize 2020 in Chemistry honors CRISPR: a tool for rewriting the code of life"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7782372/"
+    publisher: "PubMed Central (NIH)"
+  - title: "CRISPR"
+    url: "https://www.genome.gov/genetics-glossary/CRISPR"
+    publisher: "National Human Genome Research Institute"
+quiz:
+  - question: "Que fait Cas9 ?"
+    options:
+      - "Il coupe l'ADN à un endroit précis, guidé par un ARN"
+      - "Il copie l'ADN"
+      - "Il fabrique des protéines"
+    answer: 1
+    explanation: >
+      Cas9 est une enzyme qui, guidée par un ARN, reconnaît un endroit précis de l'ADN et le
+      coupe.
+  - question: "À quoi sert CRISPR dans la nature ?"
+    options:
+      - "À défendre les bactéries contre les virus"
+      - "À digérer le sucre"
+      - "À fabriquer des antibiotiques"
+    answer: 1
+    explanation: >
+      Dans la nature, CRISPR est un système de défense des bactéries : elles détectent et
+      détruisent l'ADN des virus qui les infectent.
+  - question: "En quelle année paraît l'article fondateur de Charpentier et Doudna ?"
+    options:
+      - "2012"
+      - "1982"
+      - "2022"
+    answer: 1
+    explanation: >
+      2012 : article fondateur de Charpentier et Doudna sur CRISPR-Cas9.
+  - question: "Quel prix récompense CRISPR-Cas9 en 2020 ?"
+    options:
+      - "Le prix Nobel de chimie"
+      - "Le prix Nobel de la paix"
+      - "La médaille Fields"
+    answer: 1
+    explanation: >
+      2020 : le prix Nobel de chimie récompense Emmanuelle Charpentier et Jennifer Doudna pour
+      CRISPR-Cas9.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+CRISPR est un système de défense des bactéries détourné pour modifier l'ADN. Il a valu le prix Nobel de chimie 2020 à Emmanuelle Charpentier et Jennifer Doudna.
+
+## Un système de défense des bactéries
+
+CRISPR est l'abréviation de « clustered regularly interspaced short palindromic repeats », des séquences répétées d'ADN régulièrement espacées. Dans la nature, c'est un système de défense des bactéries : elles détectent et détruisent l'ADN des virus, les bactériophages, qui les infectent.
+
+## Cas9, les ciseaux
+
+Cas9 est une enzyme qui, guidée par un ARN, reconnaît un endroit précis de l'ADN et le coupe. Fusionner deux ARN en un seul ARN guide a simplifié le ciblage de Cas9.
+
+## Un outil de laboratoire
+
+CRISPR est aussi une technologie que des chercheurs utilisent pour modifier l'ADN d'organismes vivants ; elle est adaptée de systèmes naturels de bactéries. En 2012, Charpentier et Doudna publient l'article fondateur de CRISPR-Cas9. En 2020, le prix Nobel de chimie les récompense.
+
+## Les essais
+
+Des essais cliniques testent CRISPR pour des maladies héréditaires comme la bêta-thalassémie et la drépanocytose. Cette fiche ne donne aucun conseil médical.
+
+## À retenir
+
+- CRISPR est l'abréviation de « clustered regularly interspaced short palindromic repeats ».
+- Dans la nature, c'est un système de défense des bactéries contre les virus qui les infectent.
+- Cas9 est une enzyme qui, guidée par un ARN, reconnaît un endroit précis de l'ADN et le coupe.
+- En 2012, Charpentier et Doudna publient l'article fondateur de CRISPR-Cas9.
+- En 2020, le prix Nobel de chimie les récompense.
 
 ---
 type: article

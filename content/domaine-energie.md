@@ -12548,14 +12548,87 @@ title: Comment fonctionne une éolienne
 slug: comment-fonctionne-une-eolienne
 categoryPath: energie/energies-renouvelables/eolien
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment fonctionne une éolienne.
-tags: [eolien, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  Les pales tournent grâce à la portance, des engrenages accélèrent le rotor et la génératrice
+  produit le courant. La limite de Betz plafonne le rendement à 59,3 %.
+tags: [eolien, portance, betz]
+sources:
+  - title: "How a Wind Turbine Works"
+    url: "https://www.energy.gov/articles/how-wind-turbine-works"
+    publisher: "U.S. Department of Energy"
+  - title: "Wind turbine"
+    url: "https://en.wikipedia.org/wiki/Wind_turbine"
+    publisher: "Wikipedia"
+  - title: "MIT engineers' new theory could improve the design and operation of wind farms"
+    url: "https://news.mit.edu/2024/new-theory-could-improve-design-and-operation-wind-farms-0821"
+    publisher: "MIT News"
+quiz:
+  - question: "Que contient la nacelle d'une éolienne ?"
+    options:
+      - "Des engrenages, le rotor et la génératrice"
+      - "Uniquement des batteries"
+      - "Un moteur à essence"
+    answer: 1
+    explanation: >
+      Les engrenages, le rotor et la génératrice se trouvent dans un boîtier appelé nacelle.
+  - question: "Quelle force fait tourner le rotor ?"
+    options:
+      - "La portance"
+      - "Le magnétisme"
+      - "La chaleur du sol"
+    answer: 1
+    explanation: >
+      Une poche d'air à basse pression tire la pale vers elle et fait tourner le rotor : c'est
+      la portance.
+  - question: "Combien de pales ont en général les éoliennes commerciales à axe horizontal ?"
+    options:
+      - "Une"
+      - "Trois"
+      - "Dix"
+    answer: 2
+    explanation: >
+      Les éoliennes commerciales à axe horizontal ont en général trois pales.
+  - question: "Quelle part de l'énergie cinétique du vent une éolienne peut-elle extraire au mieux selon la limite de Betz ?"
+    options:
+      - "Environ 59,3 %"
+      - "Environ 99 %"
+      - "Environ 10 %"
+    answer: 1
+    explanation: >
+      Selon la limite de Betz, une éolienne ne peut extraire au mieux qu'environ 59,3 % de
+      l'énergie cinétique du vent qui la traverse.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les pales tournent grâce à la portance, des engrenages accélèrent le rotor et la génératrice produit le courant. La limite de Betz plafonne le rendement à 59,3 %.
+
+[Emplacement image : diagramme en quatre étapes reliées par des flèches, « Du vent au courant électrique ». Le vent : son énergie cinétique fait tourner les pales. Les pales : une poche d'air à basse pression tire la pale, c'est la portance. Les engrenages : ils accélèrent la rotation du rotor. La génératrice : elle produit du courant alternatif. Légende et texte alternatif à fournir ultérieurement.]
+
+## De l'air à l'électricité
+
+Une éolienne est un dispositif qui convertit l'énergie cinétique du vent en énergie électrique. Les éoliennes commerciales à axe horizontal ont en général trois pales, placées face au vent devant la tour.
+
+## La pale et la portance
+
+Quand le vent souffle, une poche d'air à basse pression se forme d'un côté de la pale ; elle tire la pale vers elle et fait tourner le rotor : c'est la portance.
+
+## Dans la nacelle
+
+Les engrenages, le rotor et la génératrice se trouvent dans un boîtier appelé nacelle. Une série d'engrenages accélère la rotation du rotor jusqu'à une vitesse qui permet à la génératrice de produire du courant alternatif.
+
+## La limite de Betz
+
+Selon la limite de Betz, une éolienne ne peut extraire au mieux qu'environ 59,3 % de l'énergie cinétique du vent qui la traverse. Une théorie récente montre qu'on peut extraire un peu plus de puissance que ne le prévoyait la formule d'origine, de l'ordre de quelques pour cent.
+
+## À retenir
+
+- Une éolienne convertit l'énergie cinétique du vent en énergie électrique.
+- Sur une pale, une poche d'air à basse pression tire la pale et fait tourner le rotor : c'est la portance.
+- Les engrenages, le rotor et la génératrice se trouvent dans la nacelle.
+- Les engrenages accélèrent le rotor jusqu'à la vitesse qui permet à la génératrice de produire du courant alternatif.
+- Les éoliennes commerciales à axe horizontal ont en général trois pales, face au vent.
 
 ---
 type: article

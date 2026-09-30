@@ -9571,14 +9571,95 @@ title: Le blanchissement des coraux
 slug: le-blanchissement-des-coraux
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le blanchissement des coraux.
-tags: [forets-et-oceans, veille-2026-09]
-priority: 0.92
-essentiel: false
-status: planned
+  Quand l'eau est trop chaude, les coraux perdent les algues qui les nourrissent et
+  blanchissent. La NOAA compte quatre épisodes mondiaux depuis 1998.
+tags: [forets-et-oceans, coraux, blanchissement]
+sources:
+  - title: "What is coral bleaching?"
+    url: "https://oceanservice.noaa.gov/facts/coral_bleach.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "What is a coral?"
+    url: "https://oceanservice.noaa.gov/facts/coral.html"
+    publisher: "NOAA National Ocean Service"
+  - title: "Coral bleaching"
+    url: "https://en.wikipedia.org/wiki/Coral_bleaching"
+    publisher: "Wikipedia"
+  - title: "NOAA Coral Reef Watch 5km Methodology Page"
+    url: "https://coralreefwatch.noaa.gov/product/5km/methodology.php"
+    publisher: "NOAA Coral Reef Watch"
+  - title: "NOAA confirms 4th global coral bleaching event"
+    url: "https://www.noaa.gov/news-release/noaa-confirms-4th-global-coral-bleaching-event"
+    publisher: "NOAA"
+  - title: "World's Fourth Mass Coral Bleaching Event Likely Ended in 2025"
+    url: "https://www.nesdis.noaa.gov/news/worlds-fourth-mass-coral-bleaching-event-likely-ended-2025"
+    publisher: "NOAA NESDIS"
+quiz:
+  - question: "Comment s'appellent les algues qui vivent dans les tissus du corail ?"
+    options:
+      - "Les zooxanthelles"
+      - "Les diatomées"
+      - "Les sargasses"
+    answer: 1
+    explanation: >
+      Les coraux vivent en association avec des algues microscopiques, les zooxanthelles,
+      installées dans leurs tissus.
+  - question: "De combien de degrés la mer doit-elle dépasser le maximum de la moyenne mensuelle pour atteindre le seuil de blanchissement de la NOAA ?"
+    options:
+      - "0,1 °C"
+      - "1 °C"
+      - "10 °C"
+    answer: 2
+    explanation: >
+      La NOAA appelle seuil de blanchissement une température de la mer supérieure de 1 °C au
+      maximum de la moyenne mensuelle.
+  - question: "Combien d'épisodes mondiaux de blanchissement des coraux ont été recensés ?"
+    options:
+      - "Un"
+      - "Quatre"
+      - "Dix"
+    answer: 2
+    explanation: >
+      Quatre épisodes mondiaux de blanchissement des coraux ont été recensés.
+  - question: "Que peut devenir un corail blanchi si le stress n'est pas sévère ?"
+    options:
+      - "Il peut se rétablir"
+      - "Il meurt toujours en une semaine"
+      - "Il devient rouge"
+    answer: 1
+    explanation: >
+      Si le stress est modéré, le corail peut se rétablir ; si la perte d'algues dure et que le
+      stress continue, il finit par mourir.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand l'eau est trop chaude, les coraux perdent les algues qui les nourrissent et blanchissent. La NOAA compte quatre épisodes mondiaux depuis 1998.
+
+## Les algues du corail
+
+Les coraux sont des animaux fixés, formés de polypes qui fabriquent un squelette de calcaire. Ils vivent en association avec des algues microscopiques, les zooxanthelles, installées dans leurs tissus. Ces algues sont leur principale source de nourriture.
+
+## Quand le corail blanchit
+
+Quand le corail est stressé, les algues quittent ses tissus et il devient blanc ou très pâle. Parmi les causes du blanchissement figurent le changement de température de l'océan, le ruissellement et la pollution, l'excès de soleil et les marées basses extrêmes. Sans ses algues, le corail perd sa nourriture principale et devient plus sensible aux maladies.
+
+## Se rétablir ou mourir
+
+Si le stress est modéré, le corail peut se rétablir ; si la perte d'algues dure et que le stress continue, le corail finit par mourir.
+
+## Un problème mondial
+
+La NOAA appelle seuil de blanchissement une température de la mer supérieure de 1 °C au maximum de la moyenne mensuelle. Le premier épisode mondial date de 1998. En 2024, la NOAA confirme un quatrième épisode. Entre début 2023 et mi-2025, environ 84 % de la superficie des récifs du monde a subi une chaleur de niveau blanchissement.
+
+## À retenir
+
+- Les coraux vivent avec des algues microscopiques, les zooxanthelles, installées dans leurs tissus.
+- Stressé, le corail perd ces algues et devient blanc ou très pâle : c'est le blanchissement.
+- Ces algues sont sa principale nourriture ; sans elles, le corail est plus sensible aux maladies.
+- La NOAA parle de seuil de blanchissement à 1 °C au-dessus du maximum de la moyenne mensuelle.
+- Le premier épisode mondial date de 1998 ; le quatrième, confirmé en 2024, a exposé environ 84 % des récifs à une chaleur de blanchissement.
 
 ---
 type: article
