@@ -19131,14 +19131,87 @@ title: La réaction de Maillard, le secret du brunissement des aliments
 slug: la-reaction-de-maillard-le-secret-du-brunissement-des-aliments
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réaction de Maillard, le secret du brunissement des aliments.
-tags: [transformation-industrielle, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  La réaction de Maillard unit des sucres et des acides aminés sous l'effet de la chaleur. Elle
+  donne aux aliments cuits leur couleur brune et leurs arômes.
+tags: [transformation-industrielle]
+sources:
+  - title: "Réaction de Maillard"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9action_de_Maillard"
+    publisher: "Wikipédia"
+  - title: "Maillard reaction"
+    url: "https://en.wikipedia.org/wiki/Maillard_reaction"
+    publisher: "Wikipedia"
+  - title: "Caramelization"
+    url: "https://en.wikipedia.org/wiki/Caramelization"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quels ingrédients réagissent dans la réaction de Maillard ?"
+    options:
+      - "Des sucres réducteurs et des acides aminés"
+      - "Du sel et de l'eau"
+      - "Du vinaigre seul"
+    answer: 1
+    explanation: >
+      La réaction de Maillard est une réaction chimique entre des sucres réducteurs et des
+      composés qui portent un groupe amine, comme les acides aminés.
+  - question: "Que produit-elle dans un aliment cuit ?"
+    options:
+      - "Des pigments bruns et des arômes"
+      - "Du gel"
+      - "Du gaz hilarant"
+    answer: 1
+    explanation: >
+      Elle produit des composés bruns, les mélanoïdines, et de nombreux composés aromatiques,
+      qui donnent aux aliments cuits leur couleur et leur odeur.
+  - question: "Quelle différence avec la caramélisation ?"
+    options:
+      - "La caramélisation chauffe des sucres seuls, sans acides aminés"
+      - "Aucune"
+      - "Le caramel est une protéine"
+    answer: 1
+    explanation: >
+      La caramélisation est différente : elle chauffe des sucres seuls et ne fait pas intervenir
+      d'acides aminés.
+  - question: "Quel composé peut se former à haute température ?"
+    options:
+      - "L'acrylamide"
+      - "Le sel de table"
+      - "Le jus d'orange"
+    answer: 1
+    explanation: >
+      À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ;
+      cuire à plus basse température permet d'en limiter la formation.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La réaction de Maillard unit des sucres et des acides aminés sous l'effet de la chaleur. Elle donne aux aliments cuits leur couleur brune et leurs arômes.
+
+## Une réaction de cuisine
+
+La réaction de Maillard est une réaction chimique entre des sucres réducteurs et des composés qui portent un groupe amine, comme les acides aminés. Elle produit des composés bruns, les mélanoïdines, et de nombreux composés aromatiques, qui donnent aux aliments cuits leur couleur et leur odeur.
+
+## Où la rencontre-t-on ?
+
+Viande grillée, pain grillé, café torréfié et sirop d'érable doivent une part de leur couleur et de leur goût à la réaction de Maillard. Le chimiste français Louis-Camille Maillard a décrit cette réaction au début du XXe siècle.
+
+## À ne pas confondre avec le caramel
+
+La caramélisation est différente : elle chauffe des sucres seuls et ne fait pas intervenir d'acides aminés. La caramélisation est un brunissement du sucre seul, qui donne une saveur de beurre et une couleur brune, par exemple dans la sauce caramel ou la crème brûlée. La réaction de Maillard demande de la chaleur : elle se produit à haute température.
+
+## Un revers
+
+À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ; cuire à plus basse température permet d'en limiter la formation.
+
+## À retenir
+
+- La réaction de Maillard unit des sucres réducteurs et des acides aminés.
+- Elle crée les pigments bruns et les arômes des aliments cuits.
+- Viande grillée, pain grillé, café torréfié et sirop d'érable doivent une part de leur couleur et de leur goût à la réaction de Maillard.
+- La caramélisation chauffe des sucres seuls, sans acides aminés : ce n'est pas la même réaction.
+- À haute température, elle peut former de l'acrylamide, un cancérogène probable.
 
 ---
 type: article
@@ -19157,18 +19230,91 @@ status: planned
 
 ---
 type: article
-title: Les aliments fermentés et le microbiote intestinal
-slug: les-aliments-fermentes-et-le-microbiote-intestinal
+title: Yaourt, choucroute, kéfir, que sont les probiotiques ?
+slug: yaourt-choucroute-kefir-que-sont-les-probiotiques
 categoryPath: alimentation-et-nutrition/nutriments/microbiote-et-probiotiques
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les aliments fermentés et le microbiote intestinal.
-tags: [microbiote-et-probiotiques, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  La fermentation transforme les aliments grâce à des micro-organismes. Les probiotiques sont
+  des micro-organismes vivants, dont les bénéfices restent à préciser.
+tags: [microbiote-et-probiotiques]
+sources:
+  - title: "Aliment fermenté"
+    url: "https://fr.wikipedia.org/wiki/Aliment_ferment%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Fermentation in food processing"
+    url: "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    publisher: "Wikipedia"
+  - title: "Probiotics: Usefulness and Safety"
+    url: "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+    publisher: "NCCIH (NIH)"
+quiz:
+  - question: "Qui transforme un aliment lors de sa fermentation ?"
+    options:
+      - "Des micro-organismes, comme des bactéries et des levures"
+      - "De la chaleur seule"
+      - "Un congélateur"
+    answer: 1
+    explanation: >
+      Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries,
+      levures ou moisissures.
+  - question: "Qu'est-ce qu'un probiotique ?"
+    options:
+      - "Un micro-organisme vivant dont on attend un bénéfice pour la santé"
+      - "Un sucre artificiel"
+      - "Un antibiotique"
+    answer: 1
+    explanation: >
+      Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la
+      santé quand on les consomme.
+  - question: "Le bénéfice d'une souche de probiotique garantit-il celui des autres ?"
+    options:
+      - "Non, les effets diffèrent selon le type"
+      - "Oui, toujours"
+      - "Seulement en hiver"
+    answer: 1
+    explanation: >
+      Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit
+      pas celui d'une autre.
+  - question: "Qui a montré le rôle des levures dans la fermentation alcoolique ?"
+    options:
+      - "Louis Pasteur"
+      - "Albert Einstein"
+      - "Marie Curie"
+    answer: 1
+    explanation: >
+      Louis Pasteur a fondé la science de la fermentation en montrant le rôle des levures dans
+      la fermentation alcoolique.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La fermentation transforme les aliments grâce à des micro-organismes. Les probiotiques sont des micro-organismes vivants, dont les bénéfices restent à préciser.
+
+## Des aliments transformés par des microbes
+
+Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures. Yaourt, fromage, kimchi, choucroute, pain, vin, bière et vinaigre sont des aliments fermentés. Louis Pasteur a fondé la science de la fermentation en montrant le rôle des levures dans la fermentation alcoolique.
+
+## Pourquoi fermenter
+
+La fermentation améliore la digestibilité, la valeur nutritive et le goût des aliments. La fermentation conserve les aliments sans réfrigération ni additifs de synthèse.
+
+## Que sont les probiotiques
+
+Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la santé quand on les consomme. Les probiotiques se trouvent dans le yaourt et d'autres aliments fermentés, ainsi que dans des compléments. La plupart des probiotiques contiennent des bactéries des groupes Lactobacillus et Bifidobacterium, ou des levures comme Saccharomyces boulardii.
+
+## Ce que l'on sait, et ce que l'on ignore
+
+Les recherches sont prometteuses pour certains problèmes de santé, mais il reste beaucoup à apprendre pour savoir si les probiotiques sont utiles et sûrs. Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit pas celui d'une autre. Les probiotiques ont une longue histoire d'usage apparemment sûr chez les personnes en bonne santé, mais des infections graves ont été signalées chez des bébés prématurés.
+
+## À retenir
+
+- Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures.
+- Yaourt, fromage, kimchi, choucroute, pain, vin, bière et vinaigre sont des aliments fermentés.
+- La fermentation améliore la digestibilité, la valeur nutritive et le goût des aliments.
+- Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice pour la santé.
+- Les recherches sont prometteuses, mais il reste beaucoup à apprendre sur l'utilité et la sûreté des probiotiques.
 
 ---
 type: article
@@ -19176,29 +19322,174 @@ title: Pourquoi le sel et le sucre conservent les aliments
 slug: pourquoi-le-sel-et-le-sucre-conservent-les-aliments
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi le sel et le sucre conservent les aliments.
-tags: [conservation, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Le sel et le sucre dissous abaissent l'eau disponible pour les microbes et les empêchent de se
+  multiplier, sans forcément les tuer.
+tags: [conservation]
+sources:
+  - title: "Conservation des aliments"
+    url: "https://fr.wikipedia.org/wiki/Conservation_des_aliments"
+    publisher: "Wikipédia"
+  - title: "Food preservation"
+    url: "https://en.wikipedia.org/wiki/Food_preservation"
+    publisher: "Wikipedia"
+  - title: "Water activity"
+    url: "https://en.wikipedia.org/wiki/Water_activity"
+    publisher: "Wikipedia"
+quiz:
+  - question: "De quoi les microbes ont-ils besoin pour proliférer ?"
+    options:
+      - "D'eau"
+      - "De lumière du soleil"
+      - "De silence"
+    answer: 1
+    explanation: >
+      Les micro-organismes ont besoin d'eau pour proliférer : réduire l'eau disponible freine
+      leur croissance.
+  - question: "Comment le sel gêne-t-il les microbes ?"
+    options:
+      - "Il attire l'eau par osmose"
+      - "Il les colore en rouge"
+      - "Il les fait grossir"
+    answer: 1
+    explanation: >
+      Le sel attire l'eau par osmose, ce qui rend le milieu hostile à la croissance des
+      microbes.
+  - question: "Qu'est-ce qui conserve la confiture ?"
+    options:
+      - "Le sucre qui attire l'eau hors des microbes"
+      - "Le froid du frigo uniquement"
+      - "La couleur du fruit"
+    answer: 1
+    explanation: >
+      Le sucre attire l'eau hors des cellules des microbes, qui se dessèchent : c'est ce qui
+      conserve les confitures et les fruits confits.
+  - question: "Baisser l'activité de l'eau tue-t-il les microbes déjà présents ?"
+    options:
+      - "Non, ils survivent mais ne se multiplient plus"
+      - "Oui, tous"
+      - "Ils deviennent géants"
+    answer: 1
+    explanation: >
+      Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cellules vivantes
+      peuvent subsister, mais elles ne se multiplient plus.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le sel et le sucre dissous abaissent l'eau disponible pour les microbes et les empêchent de se multiplier, sans forcément les tuer.
+
+## Pourquoi les aliments se gâtent
+
+Les micro-organismes ont besoin d'eau pour proliférer : réduire l'eau disponible freine leur croissance.
+
+## Sel et sucre, des aspirateurs à eau
+
+Le sel attire l'eau par osmose, ce qui rend le milieu hostile à la croissance des microbes. Le sucre attire l'eau hors des cellules des microbes, qui se dessèchent : c'est ce qui conserve les confitures et les fruits confits. Le sel et le sucre dissous abaissent l'activité de l'eau, parce qu'ils se disputent les molécules d'eau. L'activité de l'eau est le rapport entre la pression de vapeur de l'aliment et celle de l'eau pure à la même température ; l'eau pure vaut 1.
+
+## Ce que cela ne fait pas
+
+Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cellules vivantes peuvent subsister, mais elles ne se multiplient plus.
+
+## D'autres méthodes
+
+Le séchage, la plus ancienne forme de conservation, retire l'eau dont les microbes ont besoin. Le fumage combine déshydratation et composés antimicrobiens déposés par la fumée. Le froid ralentit la croissance des micro-organismes sans les éliminer. La fermentation conserve en produisant des acides qui créent un milieu hostile aux microbes nuisibles.
+
+## À retenir
+
+- Les micro-organismes ont besoin d'eau pour proliférer : réduire l'eau disponible freine leur croissance.
+- Le sel attire l'eau par osmose, ce qui rend le milieu hostile à la croissance des microbes.
+- Le sucre attire l'eau hors des cellules des microbes, qui se dessèchent : c'est ce qui conserve les confitures et les fruits confits.
+- Le sel et le sucre dissous abaissent l'activité de l'eau en se disputant ses molécules.
+- Baisser l'activité de l'eau ne tue pas les microbes : ils survivent, mais ne se multiplient plus.
 
 ---
 type: article
-title: La fermentation lactique, des bactéries au service des aliments
-slug: la-fermentation-lactique-des-bacteries-au-service-des-aliments
+title: Comment des bactéries transforment-elles le lait en yaourt ?
+slug: comment-des-bacteries-transforment-elles-le-lait-en-yaourt
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fermentation lactique, des bactéries au service des aliments.
-tags: [fermentation, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  Des bactéries lactiques transforment des sucres en acide lactique, sans oxygène. Cela donne le
+  yaourt, la choucroute et bien d'autres aliments, et cela les conserve.
+tags: [fermentation]
+sources:
+  - title: "Fermentation lactique"
+    url: "https://fr.wikipedia.org/wiki/Fermentation_lactique"
+    publisher: "Wikipédia"
+  - title: "Lactic acid fermentation"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid_fermentation"
+    publisher: "Wikipedia"
+  - title: "Fermentation in food processing"
+    url: "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que produit la fermentation lactique ?"
+    options:
+      - "De l'acide lactique"
+      - "De l'alcool pur"
+      - "De l'oxygène"
+    answer: 1
+    explanation: >
+      La fermentation lactique transforme des sucres en acide lactique, sans oxygène, grâce à
+      des bactéries lactiques.
+  - question: "Quel effet l'acidification a-t-elle sur l'aliment ?"
+    options:
+      - "Elle empêche la croissance de bactéries pathogènes"
+      - "Elle le rend toxique"
+      - "Elle le colore en bleu"
+    answer: 1
+    explanation: >
+      Elle acidifie l'aliment, ce qui empêche la croissance de bactéries pathogènes.
+  - question: "Quel sucre du lait les bactéries transforment-elles pour faire le yaourt ?"
+    options:
+      - "Le lactose"
+      - "Le saccharose"
+      - "Le fructose"
+    answer: 1
+    explanation: >
+      Le yaourt, le fromage et les laits fermentés naissent de la transformation du lactose par
+      des bactéries lactiques.
+  - question: "Quel légume donne la choucroute après fermentation lactique ?"
+    options:
+      - "Le chou"
+      - "La pomme de terre"
+      - "Le poireau"
+    answer: 1
+    explanation: >
+      Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes se
+      conservent par fermentation lactique.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des bactéries lactiques transforment des sucres en acide lactique, sans oxygène. Cela donne le yaourt, la choucroute et bien d'autres aliments, et cela les conserve.
+
+## Des bactéries sans oxygène
+
+La fermentation lactique transforme des sucres en acide lactique, sans oxygène, grâce à des bactéries lactiques. Elle acidifie l'aliment, ce qui empêche la croissance de bactéries pathogènes.
+
+## Du lait au yaourt
+
+Le yaourt, le fromage et les laits fermentés naissent de la transformation du lactose par des bactéries lactiques. Pour le yaourt, on utilise en général les bactéries Lactobacillus bulgaricus et Streptococcus thermophilus. Dans le yaourt, la fermentation réduit la quantité de lactose disponible.
+
+## Des légumes et des boissons
+
+Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes se conservent par fermentation lactique. Le kéfir, le kombucha, le kvas et l'airag reposent sur des fermentations lactiques. Le levain et le tempeh font aussi appel à la fermentation lactique. L'ensilage conserve l'herbe, le maïs et d'autres fourrages par fermentation.
+
+## Dans nos muscles aussi
+
+Les cellules musculaires font aussi de la fermentation lactique lors d'un effort intense, mais c'est un phénomène distinct de la fermentation des aliments.
+
+## À retenir
+
+- Des bactéries lactiques transforment des sucres en acide lactique, sans oxygène.
+- Elle acidifie l'aliment, ce qui empêche la croissance de bactéries pathogènes.
+- Le yaourt, le fromage et les laits fermentés naissent de la transformation du lactose par des bactéries lactiques.
+- Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes se conservent par fermentation lactique.
+- Les cellules musculaires font aussi de la fermentation lactique lors d'un effort intense, mais c'est un phénomène distinct de la fermentation des aliments.
 
 ---
 type: article
@@ -19217,18 +19508,89 @@ status: planned
 
 ---
 type: article
-title: La pasteurisation, de Pasteur au lait d'aujourd'hui
-slug: la-pasteurisation-de-pasteur-au-lait-d-aujourd-hui
+title: Pourquoi chauffe-t-on le lait avant de le vendre ?
+slug: pourquoi-chauffe-t-on-le-lait-avant-de-le-vendre
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la pasteurisation, de Pasteur au lait d'aujourd'hui.
-tags: [conservation, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  La pasteurisation chauffe un aliment à une température modérée pour éliminer les germes
+  dangereux, sans le stériliser. Louis Pasteur l'a mise au point pour le vin.
+tags: [conservation]
+sources:
+  - title: "Pasteurisation"
+    url: "https://fr.wikipedia.org/wiki/Pasteurisation"
+    publisher: "Wikipédia"
+  - title: "Pasteurization"
+    url: "https://en.wikipedia.org/wiki/Pasteurization"
+    publisher: "Wikipedia"
+  - title: "Louis Pasteur"
+    url: "https://en.wikipedia.org/wiki/Louis_Pasteur"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle température la pasteurisation chauffe-t-elle en général ?"
+    options:
+      - "À moins de 100 °C"
+      - "À 1 000 °C"
+      - "À 500 °C"
+    answer: 1
+    explanation: >
+      La pasteurisation est un procédé de conservation où l'aliment est chauffé à une
+      température modérée, inférieure à 100 °C, pour éliminer les germes dangereux.
+  - question: "Pour quel produit Pasteur a-t-il d'abord mis au point le procédé ?"
+    options:
+      - "Le vin"
+      - "Le pain"
+      - "Le chocolat"
+    answer: 1
+    explanation: >
+      Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin.
+  - question: "La pasteurisation détruit-elle les spores ?"
+    options:
+      - "Non"
+      - "Oui, tous"
+      - "Seulement dans le lait"
+    answer: 1
+    explanation: >
+      La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores.
+  - question: "Quel traitement stérilise le lait pour le garder plusieurs mois ?"
+    options:
+      - "Le traitement UHT"
+      - "La congélation rapide"
+      - "Le brassage"
+    answer: 1
+    explanation: >
+      Le traitement UHT stérilise le lait et permet de le conserver plusieurs mois sans
+      réfrigération.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La pasteurisation chauffe un aliment à une température modérée pour éliminer les germes dangereux, sans le stériliser. Louis Pasteur l'a mise au point pour le vin.
+
+## Chauffer sans cuire
+
+La pasteurisation est un procédé de conservation où l'aliment est chauffé à une température modérée, inférieure à 100 °C, pour éliminer les germes dangereux. La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores. On pasteurise le lait, les jus de fruits, la bière, le cidre, les œufs, le vinaigre et bien d'autres produits.
+
+## De Pasteur au lait d'aujourd'hui
+
+Elle porte le nom de Louis Pasteur, dont les recherches ont montré que la chaleur désactive les micro-organismes indésirables du vin. Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin. Pasteur a démontré que les levures provoquent la fermentation qui transforme le sucre en alcool. Pour le lait, la méthode HTST chauffe le lait quelques secondes à haute température, puis le refroidit vite.
+
+## Ce que cela change
+
+Elle détruit des bactéries dangereuses comme Salmonella, Listeria et E. coli O157:H7 dans les produits laitiers. Elle modifie légèrement la teneur de certains aliments en vitamines. Le traitement UHT stérilise le lait et permet de le conserver plusieurs mois sans réfrigération.
+
+## Un institut
+
+Louis Pasteur a dirigé l'Institut Pasteur jusqu'à sa mort.
+
+## À retenir
+
+- La pasteurisation chauffe un aliment à moins de 100 °C pour éliminer les germes dangereux.
+- Elle porte le nom de Louis Pasteur, dont les recherches ont montré que la chaleur désactive les micro-organismes indésirables du vin.
+- Louis Pasteur a fait breveter le procédé pour lutter contre les « maladies » du vin.
+- La pasteurisation n'est pas une stérilisation : elle ne détruit pas les spores.
+- On pasteurise le lait, les jus de fruits, la bière, le cidre, les œufs, le vinaigre et bien d'autres produits.
 
 ---
 type: article
@@ -19247,33 +19609,180 @@ status: planned
 
 ---
 type: article
-title: L'eau cachée dans les aliments, l'empreinte eau d'un repas
-slug: l-eau-cachee-dans-les-aliments-l-empreinte-eau-d-un-repas
+title: Quelle quantité d'eau se cache dans notre assiette ?
+slug: quelle-quantite-d-eau-se-cache-dans-notre-assiette
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'eau cachée dans les aliments, l'empreinte eau d'un repas.
-tags: [empreinte-alimentaire, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  Produire un aliment demande de l'eau, souvent beaucoup plus que ce qu'on voit. L'empreinte eau
+  distingue l'eau bleue, verte et grise.
+tags: [empreinte-alimentaire]
+sources:
+  - title: "Eau virtuelle"
+    url: "https://fr.wikipedia.org/wiki/Eau_virtuelle"
+    publisher: "Wikipédia"
+  - title: "Empreinte eau"
+    url: "https://fr.wikipedia.org/wiki/Empreinte_eau"
+    publisher: "Wikipédia"
+  - title: "Water footprint"
+    url: "https://en.wikipedia.org/wiki/Water_footprint"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle eau est l'eau de pluie stockée dans le sol ?"
+    options:
+      - "L'eau verte"
+      - "L'eau bleue"
+      - "L'eau grise"
+    answer: 1
+    explanation: >
+      On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de
+      pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
+  - question: "Quel produit demande le plus d'eau à produire : le bœuf ou le porc ?"
+    options:
+      - "Le bœuf"
+      - "Le porc"
+      - "Exactement autant"
+    answer: 1
+    explanation: >
+      Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau
+      pour produire un kilo de bœuf.
+  - question: "Quel secteur utilise la plus grande partie de l'eau consommée ?"
+    options:
+      - "L'agriculture"
+      - "Les piscines"
+      - "Les fontaines"
+    answer: 1
+    explanation: >
+      L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
+  - question: "À quoi correspond l'eau grise ?"
+    options:
+      - "À l'eau nécessaire pour diluer les polluants"
+      - "À l'eau de pluie"
+      - "À l'eau de mer"
+    answer: 1
+    explanation: >
+      On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de
+      pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Produire un aliment demande de l'eau, souvent beaucoup plus que ce qu'on voit. L'empreinte eau distingue l'eau bleue, verte et grise.
+
+## Une eau qu'on ne voit pas
+
+L'empreinte eau est le volume total d'eau douce utilisé pour produire les biens et services consommés ; l'eau virtuelle est l'eau nécessaire pour fabriquer un bien de consommation. On distingue l'eau bleue, prélevée dans les rivières et les nappes, l'eau verte, l'eau de pluie stockée dans le sol, et l'eau grise, nécessaire pour diluer les polluants.
+
+## Des produits très gourmands
+
+Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau pour produire un kilo de bœuf. Une tasse de café demande, pour sa production, bien plus d'eau que celle qu'elle contient. L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
+
+## Un enjeu mondial
+
+Les pays qui manquent d'eau gèrent leurs exportations agricoles en tenant compte de l'eau qu'elles contiennent. La consommation d'eau virtuelle par habitant varie beaucoup selon les régions du monde : elle est plus élevée en Europe et en Amérique du Nord qu'en Asie.
+
+## Un concept récent
+
+Le concept d'empreinte eau a été introduit par Arjen Hoekstra au début des années 2000. Une norme internationale, l'ISO 14046, précise comment évaluer l'empreinte eau.
+
+## À retenir
+
+- L'eau virtuelle est l'eau nécessaire pour fabriquer un bien ; l'empreinte eau en est le total.
+- L'eau bleue vient des rivières et des nappes, l'eau verte de la pluie stockée dans le sol, l'eau grise dilue les polluants.
+- Le bœuf a une empreinte eau bien plus élevée que le porc : il faut beaucoup plus d'eau pour produire un kilo de bœuf.
+- L'agriculture utilise la plus grande partie de l'eau consommée par l'humanité.
+- Une tasse de café demande, pour sa production, bien plus d'eau que celle qu'elle contient.
 
 ---
 type: article
-title: La qualité de l'alimentation compte-t-elle plus que son degré de transformation ?
-slug: la-qualite-de-l-alimentation-compte-t-elle-plus-que-son-degre-de-transformation
+title: Un aliment ultra-transformé est-il mauvais par nature ?
+slug: un-aliment-ultra-transforme-est-il-mauvais-par-nature
 categoryPath: alimentation-et-nutrition/nutrition-et-sante
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la qualité de l'alimentation compte-t-elle plus que son degré de transformation ?.
-tags: [nutrition-et-sante, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  La classification NOVA range les aliments selon leur degré de transformation. Elle est utile
+  et critiquée : le débat porte sur le rôle de la transformation et de la qualité
+  nutritionnelle.
+tags: [nutrition-et-sante]
+sources:
+  - title: "Aliment ultra-transformé"
+    url: "https://fr.wikipedia.org/wiki/Aliment_ultra-transform%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Ultra-processed food"
+    url: "https://en.wikipedia.org/wiki/Ultra-processed_food"
+    publisher: "Wikipedia"
+  - title: "Nova classification"
+    url: "https://en.wikipedia.org/wiki/Nova_classification"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de groupes la classification NOVA compte-t-elle ?"
+    options:
+      - "Quatre"
+      - "Deux"
+      - "Dix"
+    answer: 1
+    explanation: >
+      La classification NOVA range les aliments en quatre groupes selon leur degré de
+      transformation : non transformés ou peu transformés, ingrédients culinaires transformés,
+      aliments transformés, aliments ultra-transformés.
+  - question: "Où la classification NOVA a-t-elle été proposée ?"
+    options:
+      - "À l'université de São Paulo, au Brésil"
+      - "À Paris"
+      - "À Tokyo"
+    answer: 1
+    explanation: >
+      Elle a été proposée par des chercheurs de l'université de São Paulo, au Brésil, autour de
+      Carlos Augusto Monteiro.
+  - question: "Les liens entre aliments ultra-transformés et maladies prouvent-ils une cause ?"
+    options:
+      - "Non, ce sont des associations"
+      - "Oui, toujours"
+      - "Personne n'a étudié"
+    answer: 1
+    explanation: >
+      Ces liens sont des associations : selon les sources, la causalité n'est pas établie, sauf
+      pour la prise de poids.
+  - question: "NOVA tient-elle compte de la composition nutritionnelle des aliments ?"
+    options:
+      - "Non"
+      - "Oui, uniquement"
+      - "Seulement pour le sel"
+    answer: 1
+    explanation: >
+      NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est pas conçue
+      pour évaluer leur profil nutritionnel.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La classification NOVA range les aliments selon leur degré de transformation. Elle est utile et critiquée : le débat porte sur le rôle de la transformation et de la qualité nutritionnelle.
+
+## Une classification en quatre groupes
+
+La classification NOVA range les aliments en quatre groupes selon leur degré de transformation : non transformés ou peu transformés, ingrédients culinaires transformés, aliments transformés, aliments ultra-transformés. Elle a été proposée par des chercheurs de l'université de São Paulo, au Brésil, autour de Carlos Augusto Monteiro. Un aliment ultra-transformé est fabriqué industriellement à partir de nombreux ingrédients, souvent avec des additifs, que l'on n'utilise pas dans une cuisine familiale.
+
+## Des exemples et des liens avec la santé
+
+Des sodas, des pizzas surgelées, des céréales de petit-déjeuner et des plats préparés industriels sont des exemples d'aliments ultra-transformés. Des études associent une forte consommation d'aliments ultra-transformés à davantage d'obésité, de diabète, de maladies cardiovasculaires et d'autres problèmes de santé. Ces liens sont des associations : selon les sources, la causalité n'est pas établie, sauf pour la prise de poids. Tous les aliments ultra-transformés ne se valent pas : ceux d'origine végétale présentent moins de risques que ceux d'origine animale, et certains pains ou céréales sont liés à un risque plus faible de diabète.
+
+## Les limites de NOVA
+
+NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est pas conçue pour évaluer leur profil nutritionnel. On reproche à NOVA d'être binaire et de sous-entendre que les aliments ultra-transformés sont tous nocifs, sans tenir compte de la nutrition ni de l'enrichissement.
+
+## Un débat ouvert
+
+Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
+
+## À retenir
+
+- Un aliment ultra-transformé est fabriqué industriellement, avec de nombreux ingrédients et additifs de cuisine non familiale.
+- NOVA range les aliments en quatre groupes selon leur degré de transformation.
+- Des études associent les aliments ultra-transformés à plus d'obésité, de diabète et de maladies cardiovasculaires.
+- Ces liens sont des associations : la causalité n'est pas établie, sauf pour la prise de poids.
+- Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
 
 ---
 type: article
@@ -19296,11 +19805,83 @@ title: Le petit-déjeuner des adolescents et leurs apports en nutriments
 slug: le-petit-dejeuner-des-adolescents-et-leurs-apports-en-nutriments
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le petit-déjeuner des adolescents et leurs apports en nutriments.
-tags: [reperes-nutritionnels, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Dans plusieurs études, les jeunes qui prennent un petit-déjeuner ont des apports plus élevés
+  en vitamines et minéraux. Mais la plupart de ces études ne prouvent pas une cause.
+tags: [reperes-nutritionnels]
+sources:
+  - title: "Breakfast"
+    url: "https://en.wikipedia.org/wiki/Breakfast"
+    publisher: "Wikipedia"
+  - title: "Breakfast Characteristics and Its Association with Daily Micronutrients Intake in Children and Adolescents: A Systematic Review and Meta-Analysis"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7589686/"
+    publisher: "PubMed Central (NIH)"
+  - title: "Breakfast Habits, Anthropometry, and Nutrition-Related Outcomes in Adolescents From Low- and Middle-Income Countries"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12012571/"
+    publisher: "PubMed Central (NIH)"
+quiz:
+  - question: "Que signifie le mot petit-déjeuner ou breakfast ?"
+    options:
+      - "Rompre le jeûne de la nuit"
+      - "Manger avant le lever du soleil"
+      - "Repas de midi"
+    answer: 1
+    explanation: >
+      Le petit-déjeuner est le premier repas de la journée : il rompt le jeûne de la nuit.
+  - question: "Dans les études, que montraient les jeunes qui prenaient un petit-déjeuner ?"
+    options:
+      - "Des apports plus élevés en vitamines et minéraux"
+      - "Des apports nuls"
+      - "Un poids toujours plus bas"
+    answer: 1
+    explanation: >
+      Dans la plupart des études, ceux qui prennent un petit-déjeuner avaient des apports plus
+      élevés en vitamines du groupe B et en vitamines A et C que ceux qui le sautent.
+  - question: "Pourquoi ces études ne prouvent-elles pas une cause ?"
+    options:
+      - "Elles sont surtout transversales"
+      - "Elles sont toutes trop courtes"
+      - "Elles ne comptent personne"
+    answer: 1
+    explanation: >
+      Presque toutes les études étaient transversales : elles ne permettent pas d'établir une
+      relation de cause à effet.
+  - question: "Quel est l'avis professionnel actuel cité ?"
+    options:
+      - "Largement favorable au petit-déjeuner"
+      - "Contre le petit-déjeuner"
+      - "Sans avis"
+    answer: 1
+    explanation: >
+      L'avis professionnel actuel est largement favorable au petit-déjeuner, même si sauter ce
+      repas peut valoir mieux que le remplacer par des aliments peu sains.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans plusieurs études, les jeunes qui prennent un petit-déjeuner ont des apports plus élevés en vitamines et minéraux. Mais la plupart de ces études ne prouvent pas une cause.
+
+## Le premier repas
+
+Le petit-déjeuner est le premier repas de la journée : il rompt le jeûne de la nuit. Le petit-déjeuner varie selon les pays : soupe miso et bouillie de riz au Japon, petit-déjeuner complet britannique avec bacon et œufs, céréales et pancakes aux États-Unis.
+
+## Ce que disent les études
+
+Une revue systématique d'études sur des enfants et des adolescents de 2 à 18 ans a comparé ceux qui prennent un petit-déjeuner et ceux qui le sautent. Dans la plupart des études, ceux qui prennent un petit-déjeuner avaient des apports plus élevés en vitamines du groupe B et en vitamines A et C que ceux qui le sautent. Ils avaient aussi des apports plus élevés en fer, calcium, magnésium, potassium, zinc et iode. Prendre un petit-déjeuner semble associé à des apports plus élevés en micronutriments sur la journée, mais la qualité des aliments compte aussi.
+
+## Des preuves à nuancer
+
+Presque toutes les études étaient transversales : elles ne permettent pas d'établir une relation de cause à effet. Pour la plupart des résultats, le niveau de certitude des preuves est jugé très faible, car les études sont surtout observationnelles.
+
+## Mémoire et avis des professionnels
+
+Chez les enfants et les adolescents, le petit-déjeuner est associé à une meilleure mémoire et à de meilleurs résultats scolaires selon des études. L'avis professionnel actuel est largement favorable au petit-déjeuner, même si sauter ce repas peut valoir mieux que le remplacer par des aliments peu sains.
+
+## À retenir
+
+- Le petit-déjeuner est le premier repas de la journée : il rompt le jeûne de la nuit.
+- Ceux qui déjeunent le matin ont des apports plus élevés en vitamines B, A et C que ceux qui sautent ce repas.
+- Ils avaient aussi des apports plus élevés en fer, calcium, magnésium, potassium, zinc et iode.
+- Presque toutes les études sont transversales : elles n'établissent pas de relation de cause à effet.
+- Prendre un petit-déjeuner semble associé à des apports plus élevés en micronutriments sur la journée, mais la qualité des aliments compte aussi.
