@@ -11859,18 +11859,18 @@ corps-humain;corps-humain-et-sante/prevention-et-sante-publique;Le remboursement
 intelligence-artificielle;intelligence-artificielle/apprentissage-automatique;Les règles avant les réseaux, les systèmes experts;systemes-experts-les-regles-avant-les-reseaux;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Refaire une carte, la triangulation;refaire-une-carte-par-triangulation;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Marcher et porter longtemps, l'astuce du pendule;marcher-et-porter-longtemps;2;oui;published
-aeronautique;aeronautique/aerodynamique/portance;Pourquoi un avion vole, portance et écoulement de l'air;pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air;0.91;non;planned
-aeronautique;aeronautique/propulsion/turboreacteurs;Le turboréacteur à double flux, principe de fonctionnement;le-turboreacteur-a-double-flux-principe-de-fonctionnement;0.89;non;planned
-aeronautique;aeronautique/navigation-aerienne/controle-du-trafic-aerien;Comment le contrôle aérien gère des milliers de vols;comment-le-controle-aerien-gere-des-milliers-de-vols;0.88;non;planned
-aeronautique;aeronautique/aerodynamique/portance;Comment les pales d'un hélicoptère créent la portance;comment-les-pales-d-un-helicoptere-creent-la-portance;0.88;non;planned
-aeronautique;aeronautique/aviation-civile/securite;Les turbulences, pourquoi l'avion est secoué;les-turbulences-pourquoi-l-avion-est-secoue;0.88;non;planned
-aeronautique;aeronautique/aerodynamique/ecoulements;Le mur du son et le bang supersonique;le-mur-du-son-et-le-bang-supersonique;0.86;non;planned
-aeronautique;aeronautique/aviation-civile/securite;La boîte noire, deux enregistreurs pour comprendre un accident;la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident;0.83;non;planned
-aeronautique;aeronautique/aerodynamique/ecoulements;Le planeur, voler sans moteur;le-planeur-voler-sans-moteur;0.83;non;planned
-aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;L'horizon artificiel et les instruments de base du pilote;l-horizon-artificiel-et-les-instruments-de-base-du-pilote;0.82;non;planned
-aeronautique;aeronautique/aerodynamique/trainee;Les winglets, petits ailerons contre la traînée;les-winglets-petits-ailerons-contre-la-trainee;0.82;non;planned
-aeronautique;aeronautique/propulsion/propulsion-electrique-aeronautique;L'avion à hydrogène, pile à combustible et réservoirs;l-avion-a-hydrogene-pile-a-combustible-et-reservoirs;0.8;non;planned
-aeronautique;aeronautique/aviation-civile/decarbonation;Les concepts d'avion à hydrogène d'Airbus;les-concepts-d-avion-a-hydrogene-d-airbus;0.76;non;planned
+aeronautique;aeronautique/aerodynamique/portance;Pourquoi un avion vole, portance et écoulement de l'air;pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air;0.91;non;published
+aeronautique;aeronautique/propulsion/turboreacteurs;Le turboréacteur à double flux, principe de fonctionnement;le-turboreacteur-a-double-flux-principe-de-fonctionnement;0.89;non;published
+aeronautique;aeronautique/navigation-aerienne/controle-du-trafic-aerien;Comment le contrôle aérien gère des milliers de vols;comment-le-controle-aerien-gere-des-milliers-de-vols;0.88;non;published
+aeronautique;aeronautique/aerodynamique/portance;Comment les pales d'un hélicoptère créent la portance;comment-les-pales-d-un-helicoptere-creent-la-portance;0.88;non;published
+aeronautique;aeronautique/aviation-civile/securite;Les turbulences, pourquoi l'avion est secoué;les-turbulences-pourquoi-l-avion-est-secoue;0.88;non;published
+aeronautique;aeronautique/aerodynamique/ecoulements;Le mur du son et le bang supersonique;le-mur-du-son-et-le-bang-supersonique;0.86;non;published
+aeronautique;aeronautique/aviation-civile/securite;La boîte noire, deux enregistreurs pour comprendre un accident;la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident;0.83;non;published
+aeronautique;aeronautique/aerodynamique/ecoulements;Le planeur, voler sans moteur;le-planeur-voler-sans-moteur;0.83;non;published
+aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Comment un pilote sait-il où est le haut dans les nuages ?;comment-un-pilote-sait-il-ou-est-le-haut-dans-les-nuages;0.82;non;published
+aeronautique;aeronautique/aerodynamique/trainee;Les winglets, petits ailerons contre la traînée;les-winglets-petits-ailerons-contre-la-trainee;0.82;non;published
+aeronautique;aeronautique/propulsion/propulsion-electrique-aeronautique;Que rejette un avion à hydrogène, et où loge-t-on le carburant ?;que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant;0.8;non;published
+aeronautique;aeronautique/aviation-civile/decarbonation;Les concepts d'avion à hydrogène d'Airbus;les-concepts-d-avion-a-hydrogene-d-airbus;0.76;non;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;La réaction de Maillard, le secret du brunissement des aliments;la-reaction-de-maillard-le-secret-du-brunissement-des-aliments;0.89;non;planned
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;Le fer et la vitamine B12, leurs rôles dans le corps;le-fer-et-la-vitamine-b12-leurs-roles-dans-le-corps;0.89;non;planned
 alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;Les aliments fermentés et le microbiote intestinal;les-aliments-fermentes-et-le-microbiote-intestinal;0.89;non;planned
