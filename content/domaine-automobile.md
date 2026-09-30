@@ -15040,165 +15040,962 @@ status: planned
 
 ---
 type: article
-title: La recharge rapide d'une voiture électrique, comment ça marche
-slug: la-recharge-rapide-d-une-voiture-electrique-comment-ca-marche
+title: Pourquoi une borne de recharge rapide charge-t-elle une voiture électrique bien plus vite ?
+slug: pourquoi-une-borne-de-recharge-rapide-charge-t-elle-une-voiture-electrique-bien-plus-vite
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la recharge rapide d'une voiture électrique, comment ça marche.
-tags: [electrique, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Une borne de recharge rapide convertit le courant elle-même et l'envoie en courant continu
+  directement à la batterie. La voiture n'utilise plus son chargeur embarqué, plus lent.
+tags: [electrique]
+sources:
+  - title: "Borne de recharge"
+    url: "https://fr.wikipedia.org/wiki/Borne_de_recharge"
+    publisher: "Wikipédia"
+  - title: "Charging station"
+    url: "https://en.wikipedia.org/wiki/Charging_station"
+    publisher: "Wikipedia"
+  - title: "Electric Vehicle Charging Stations"
+    url: "https://afdc.energy.gov/fuels/electricity-stations"
+    publisher: "Alternative Fuels Data Center, département de l'Énergie des États-Unis"
+  - title: "Electric Charging"
+    url: "https://www.fueleconomy.gov/feg/charging.shtml"
+    publisher: "fueleconomy.gov, département de l'Énergie des États-Unis"
+  - title: "The Ultimate Guide to DC Fast Charging"
+    url: "https://www.power-sonic.com/the-ultimate-guide-to-dc-fast-charging/"
+    publisher: "Power-Sonic"
+quiz:
+  - question: "Que fait une borne de recharge rapide que ne fait pas une prise ordinaire ?"
+    options:
+      - "Elle fabrique de l'électricité avec du carburant"
+      - "Elle refroidit la voiture"
+      - "Elle envoie du courant continu directement à la batterie"
+    answer: 3
+    explanation: >
+      En recharge rapide, la borne contient un grand convertisseur : elle envoie du courant
+      continu directement à la batterie, sans passer par le chargeur embarqué de la voiture.
+  - question: "Comment calcule-t-on le temps de charge théorique ?"
+    options:
+      - "En divisant la capacité de la batterie par la puissance de charge"
+      - "En multipliant le poids par la vitesse"
+      - "En comptant les kilomètres"
+    answer: 1
+    explanation: >
+      Le temps de charge théorique se calcule en divisant la capacité de la batterie, en kWh,
+      par la puissance de charge, en kW.
+  - question: "Que se passe-t-il quand la batterie se remplit pendant une recharge rapide ?"
+    options:
+      - "La charge accélère sans limite"
+      - "La borne s'éteint toujours"
+      - "La charge ralentit"
+    answer: 3
+    explanation: >
+      La puissance n'est pas constante : la voiture charge au maximum seulement une partie du
+      temps, puis ralentit quand la batterie se remplit, souvent fortement vers la fin.
+  - question: "Quel standard de prise est très répandu en Europe pour la recharge rapide ?"
+    options:
+      - "Le CCS"
+      - "Le GB/T"
+      - "La prise jack"
+    answer: 1
+    explanation: >
+      Plusieurs standards de prises coexistent : le CCS, très répandu en Europe et en Amérique
+      du Nord, le CHAdeMO, d'origine japonaise, le GB/T chinois et la prise de Tesla.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une borne de recharge rapide convertit le courant elle-même et l'envoie en courant continu directement à la batterie. La voiture n'utilise plus son chargeur embarqué, plus lent.
+
+## Courant alternatif, courant continu
+
+En recharge sur courant alternatif, c'est le chargeur embarqué de la voiture qui transforme le courant du réseau en courant continu pour la batterie. En recharge rapide, la borne contient un grand convertisseur : elle envoie du courant continu directement à la batterie, sans passer par le chargeur embarqué de la voiture. Le temps de charge théorique se calcule en divisant la capacité de la batterie, en kWh, par la puissance de charge, en kW.
+
+## Lente, accélérée, rapide
+
+On distingue plusieurs types de recharge : lente, accélérée et rapide, de plus en plus puissantes. Une recharge rapide ajoute en général de 100 à 200 milles d'autonomie, soit environ 160 à 320 km, en 30 minutes. Toutes les voitures n'acceptent pas la recharge rapide, et elle n'est pas pratique à installer à la maison.
+
+## Une batterie qui fixe la vitesse
+
+Le système de gestion de la batterie limite la puissance pour protéger la batterie, si bien que la recharge réelle est plus lente que le calcul théorique. La puissance n'est pas constante : la voiture charge au maximum seulement une partie du temps, puis ralentit quand la batterie se remplit, souvent fortement vers la fin.
+
+## Des prises différentes
+
+Plusieurs standards de prises coexistent : le CCS, très répandu en Europe et en Amérique du Nord, le CHAdeMO, d'origine japonaise, le GB/T chinois et la prise de Tesla.
+
+## À retenir
+
+- En recharge sur courant alternatif, c'est le chargeur embarqué de la voiture qui transforme le courant du réseau en courant continu pour la batterie.
+- En recharge rapide, la borne envoie du courant continu directement à la batterie, sans passer par le chargeur embarqué.
+- On distingue plusieurs types de recharge : lente, accélérée et rapide, de plus en plus puissantes.
+- Une recharge rapide ajoute en général de 100 à 200 milles d'autonomie, soit environ 160 à 320 km, en 30 minutes.
+- La voiture charge au maximum une partie du temps, puis ralentit quand la batterie se remplit.
 
 ---
 type: article
-title: Le freinage ABS, comment il évite le blocage des roues
-slug: le-freinage-abs-comment-il-evite-le-blocage-des-roues
+title: Comment l'ABS permet-il de tourner le volant en freinant à fond ?
+slug: comment-l-abs-permet-il-de-tourner-le-volant-en-freinant-a-fond
 categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le freinage ABS, comment il évite le blocage des roues.
-tags: [aides-a-la-conduite, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  L'ABS surveille chaque roue et relâche un instant la pression de freinage d'une roue qui va se
+  bloquer. Le conducteur garde ainsi la maîtrise de la direction.
+tags: [aides-a-la-conduite]
+sources:
+  - title: "Anti-lock braking system"
+    url: "https://en.wikipedia.org/wiki/Anti-lock_braking_system"
+    publisher: "Wikipedia"
+  - title: "What is ABS? Anti-lock braking systems explained"
+    url: "https://www.autoexpress.co.uk/what-is-abs"
+    publisher: "Auto Express"
+  - title: "A Short History of Antilock Brake Systems"
+    url: "https://www.aa1car.com/library/abs98.htm"
+    publisher: "AA1Car"
+quiz:
+  - question: "Que fait l'ABS quand une roue risque de se bloquer ?"
+    options:
+      - "Il coupe le moteur"
+      - "Il réduit un instant la pression de freinage sur cette roue"
+      - "Il gonfle le pneu"
+    answer: 2
+    explanation: >
+      Quand une roue tourne moins vite que les autres, signe qu'elle va se bloquer, le
+      calculateur réduit la pression de freinage sur cette roue avec une vanne, puis la
+      rétablit.
+  - question: "Que peut faire le conducteur grâce à l'ABS en freinant à fond ?"
+    options:
+      - "Fermer les yeux"
+      - "Continuer à tourner le volant"
+      - "Rouler sans freins"
+    answer: 2
+    explanation: >
+      Une roue bloquée ne dirige plus la voiture ; grâce à l'ABS, le conducteur peut continuer à
+      tourner le volant en freinant au maximum.
+  - question: "Sur quelles surfaces l'ABS peut-il allonger la distance d'arrêt ?"
+    options:
+      - "Le gravier, la neige ou la boue"
+      - "Une route sèche bien plane"
+      - "Un parking couvert"
+    answer: 1
+    explanation: >
+      Sur le gravier, la neige ou la boue, l'ABS peut allonger la distance d'arrêt, car une roue
+      bloquée creuse et accroche mieux ; il garde toutefois la maîtrise de la direction.
+  - question: "En quelle année Mercedes-Benz lance-t-elle les premières voitures de série avec un ABS électronique sur les quatre roues ?"
+    options:
+      - "1978"
+      - "1908"
+      - "2008"
+    answer: 1
+    explanation: >
+      En 1978, Mercedes-Benz lance les premières voitures de série dotées d'un ABS électronique
+      sur les quatre roues, mis au point avec Bosch.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'ABS surveille chaque roue et relâche un instant la pression de freinage d'une roue qui va se bloquer. Le conducteur garde ainsi la maîtrise de la direction.
+
+## Éviter le blocage des roues
+
+L'ABS est un système de freinage qui empêche les roues de se bloquer quand on freine fort. Il comprend des capteurs de vitesse sur les roues, un calculateur, des vannes hydrauliques et une pompe. Quand une roue tourne moins vite que les autres, signe qu'elle va se bloquer, le calculateur réduit la pression de freinage sur cette roue avec une vanne, puis la rétablit. Le système agit bien plus vite qu'un conducteur qui pomperait sur la pédale.
+
+## Garder la maîtrise de la direction
+
+Une roue bloquée ne dirige plus la voiture ; grâce à l'ABS, le conducteur peut continuer à tourner le volant en freinant au maximum. Sur le gravier, la neige ou la boue, l'ABS peut allonger la distance d'arrêt, car une roue bloquée creuse et accroche mieux ; il garde toutefois la maîtrise de la direction.
+
+## D'où vient l'ABS ?
+
+L'idée vient de l'aviation : des systèmes antidérapants ont d'abord équipé de gros avions, avant les voitures. En 1978, Mercedes-Benz lance les premières voitures de série dotées d'un ABS électronique sur les quatre roues, mis au point avec Bosch. Dans l'Union européenne, l'ABS est obligatoire sur les voitures neuves.
+
+## À retenir
+
+- L'ABS est un système de freinage qui empêche les roues de se bloquer quand on freine fort.
+- Si une roue risque de se bloquer, le calculateur réduit un instant la pression de freinage sur cette roue.
+- Grâce à l'ABS, le conducteur peut tourner le volant en freinant au maximum, car les roues ne se bloquent pas.
+- Sur le gravier ou la neige, l'ABS peut allonger la distance d'arrêt, mais il garde la maîtrise de la direction.
+- En 1978, Mercedes-Benz lance les premières voitures de série avec un ABS électronique sur les quatre roues.
 
 ---
 type: article
-title: La récupération d'énergie au freinage
-slug: la-recuperation-d-energie-au-freinage
+title: Comment une voiture électrique récupère-t-elle de l'énergie en freinant ?
+slug: comment-une-voiture-electrique-recupere-t-elle-de-l-energie-en-freinant
 categoryPath: automobile/motorisations/motorisations-hybrides
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la récupération d'énergie au freinage.
-tags: [motorisations-hybrides, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  En freinant, le moteur électrique d'une voiture se comporte comme une génératrice et envoie de
+  l'électricité à la batterie. Les freins classiques restent pourtant nécessaires.
+tags: [motorisations-hybrides]
+sources:
+  - title: "Freinage régénératif"
+    url: "https://fr.wikipedia.org/wiki/Freinage_r%C3%A9g%C3%A9n%C3%A9ratif"
+    publisher: "Wikipédia"
+  - title: "Regenerative braking"
+    url: "https://en.wikipedia.org/wiki/Regenerative_braking"
+    publisher: "Wikipedia"
+  - title: "Hybrid Electric Vehicles"
+    url: "https://www.fueleconomy.gov/feg/hybridtech.shtml"
+    publisher: "fueleconomy.gov, département de l'Énergie des États-Unis"
+quiz:
+  - question: "Que devient le moteur électrique quand on freine avec récupération ?"
+    options:
+      - "Une génératrice"
+      - "Une pompe"
+      - "Un ventilateur"
+    answer: 1
+    explanation: >
+      Au freinage, le moteur électrique fonctionne comme une génératrice : il transforme
+      l'énergie de mouvement de la voiture en électricité, au lieu de la perdre en chaleur.
+  - question: "Où l'électricité produite est-elle stockée ?"
+    options:
+      - "Dans les pneus"
+      - "Dans le réservoir d'essence"
+      - "Dans la batterie"
+    answer: 3
+    explanation: >
+      L'électricité produite est stockée dans la batterie, ce qui augmente l'énergie disponible
+      et l'autonomie du véhicule.
+  - question: "Pourquoi garde-t-on des freins à friction ?"
+    options:
+      - "Pour décorer les roues"
+      - "Pour refroidir le moteur"
+      - "La récupération faiblit à basse vitesse et ne suffit pas en urgence"
+    answer: 3
+    explanation: >
+      Les freins à friction restent indispensables : la récupération faiblit à basse vitesse,
+      dépend de l'état de charge de la batterie et ne suffit pas pour un freinage d'urgence.
+  - question: "Que permet la conduite à une seule pédale ?"
+    options:
+      - "S'arrêter avec le freinage par récupération sur route plane"
+      - "Conduire sans volant"
+      - "Rouler sans batterie"
+    answer: 1
+    explanation: >
+      Certaines voitures, comme la Chevrolet Bolt, permettent la conduite à une seule pédale :
+      le freinage par récupération peut suffire à s'arrêter sur une route plane.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En freinant, le moteur électrique d'une voiture se comporte comme une génératrice et envoie de l'électricité à la batterie. Les freins classiques restent pourtant nécessaires.
+
+## Un moteur qui devient générateur
+
+Au freinage, le moteur électrique fonctionne comme une génératrice : il transforme l'énergie de mouvement de la voiture en électricité, au lieu de la perdre en chaleur. L'électricité produite est stockée dans la batterie, ce qui augmente l'énergie disponible et l'autonomie du véhicule. Le système récupère une partie de l'énergie habituellement perdue en chaleur dans les freins, ce qui améliore le rendement global du véhicule. Dans une voiture hybride, le mouvement des roues fait tourner le moteur, qui produit de l'électricité et aide à ralentir le véhicule.
+
+## Des limites bien réelles
+
+Les freins à friction restent indispensables : la récupération faiblit à basse vitesse, dépend de l'état de charge de la batterie et ne suffit pas pour un freinage d'urgence. Seules les roues équipées d'un moteur peuvent récupérer de l'énergie de façon efficace.
+
+## Conduire avec une seule pédale
+
+Certaines voitures, comme la Chevrolet Bolt, permettent la conduite à une seule pédale : le freinage par récupération peut suffire à s'arrêter sur une route plane. La conduite à une seule pédale pose des questions de sécurité, par exemple sur la visibilité des feux stop et sur la confusion du conducteur.
+
+## Bien au-delà de l'automobile
+
+On retrouve ce principe dans les voitures électriques et hybrides, les trains électriques, les ascenseurs et les vélos électriques. La Formule 1 utilise ce principe avec des systèmes de récupération d'énergie cinétique, d'abord appelés KERS, puis MGU-K.
+
+## À retenir
+
+- Au freinage, le moteur électrique devient génératrice : il transforme l'énergie de mouvement en électricité, au lieu de la perdre en chaleur.
+- L'électricité produite est stockée dans la batterie, ce qui augmente l'énergie disponible et l'autonomie du véhicule.
+- Les freins à friction restent indispensables : la récupération faiblit à basse vitesse et ne suffit pas en freinage d'urgence.
+- Certaines voitures permettent la conduite à une seule pédale : la récupération peut suffire à s'arrêter sur route plane.
+- On retrouve ce principe dans les voitures électriques et hybrides, les trains électriques, les ascenseurs et les vélos électriques.
 
 ---
 type: article
-title: Les niveaux d'autonomie de la conduite automatisée
-slug: les-niveaux-d-autonomie-de-la-conduite-automatisee
+title: Que signifient les niveaux de la conduite automatisée, de 0 à 5 ?
+slug: que-signifient-les-niveaux-de-la-conduite-automatisee-de-0-a-5
 categoryPath: automobile/securite-et-conduite/conduite-autonome
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les niveaux d'autonomie de la conduite automatisée.
-tags: [conduite-autonome, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Une norme classe la conduite automatisée en six niveaux, de 0 à 5. Jusqu'au niveau 2, le
+  conducteur surveille la route ; à partir du niveau 3, c'est le système.
+tags: [conduite-autonome]
+sources:
+  - title: "Véhicule autonome"
+    url: "https://fr.wikipedia.org/wiki/V%C3%A9hicule_autonome"
+    publisher: "Wikipédia"
+  - title: "Self-driving car"
+    url: "https://en.wikipedia.org/wiki/Self-driving_car"
+    publisher: "Wikipedia"
+  - title: "The SAE Levels of Driving Automation Fully Explained (Levels 0–5)"
+    url: "https://www.zego.com/blog/the-sae-levels-of-driving-automation-explained-levels-0-5/"
+    publisher: "Zego"
+quiz:
+  - question: "Qui surveille la route au niveau 2 ?"
+    options:
+      - "Le système seul"
+      - "Personne"
+      - "Le conducteur"
+    answer: 3
+    explanation: >
+      Jusqu'au niveau 2, c'est le conducteur qui surveille la route ; à partir du niveau 3,
+      c'est le système.
+  - question: "Que fait une voiture de niveau 1 ?"
+    options:
+      - "Elle conduit seule partout"
+      - "Elle ne fait rien du tout"
+      - "Elle contrôle soit la direction, soit la vitesse"
+    answer: 3
+    explanation: >
+      Niveau 1 : assistance ; le système contrôle soit la direction, soit la vitesse, comme un
+      régulateur de vitesse adaptatif.
+  - question: "Quel est le niveau du système Autopilot de Tesla ?"
+    options:
+      - "Le niveau 5"
+      - "Le niveau 2"
+      - "Le niveau 0"
+    answer: 2
+    explanation: >
+      Le système Autopilot de Tesla est classé au niveau 2, malgré des noms qui évoquent une
+      conduite totalement autonome.
+  - question: "Que signifie le niveau 4 ?"
+    options:
+      - "La voiture conduit seule dans une zone ou des conditions précises"
+      - "Le conducteur fait tout"
+      - "La voiture n'a pas de freins"
+    answer: 1
+    explanation: >
+      Niveau 4 : automatisation élevée ; dans une zone ou des conditions précises, la voiture
+      conduit seule, sans intervention du conducteur.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une norme classe la conduite automatisée en six niveaux, de 0 à 5. Jusqu'au niveau 2, le conducteur surveille la route ; à partir du niveau 3, c'est le système.
+
+## Une échelle de 0 à 5
+
+Les niveaux d'autonomie viennent d'une norme de l'association américaine SAE, la J3016, utilisée dans le monde entier par les constructeurs et les autorités. Niveau 0 : aucune automatisation ; le conducteur fait tout et la voiture peut seulement l'avertir, par exemple d'un danger. Niveau 1 : assistance ; le système contrôle soit la direction, soit la vitesse, comme un régulateur de vitesse adaptatif. Niveau 2 : automatisation partielle ; le système gère direction et vitesse, mais le conducteur doit surveiller la route et reste responsable.
+
+## Quand la voiture prend le relais
+
+Niveau 3 : automatisation conditionnelle ; dans certaines conditions, le système surveille la route, mais le conducteur doit reprendre la main quand il le demande. Niveau 4 : automatisation élevée ; dans une zone ou des conditions précises, la voiture conduit seule, sans intervention du conducteur. Niveau 5 : automatisation complète ; la voiture conduit seule dans toutes les conditions, sans intervention humaine.
+
+## Qui surveille la route ?
+
+Jusqu'au niveau 2, c'est le conducteur qui surveille la route ; à partir du niveau 3, c'est le système. Le système Autopilot de Tesla est classé au niveau 2, malgré des noms qui évoquent une conduite totalement autonome. En France, la réglementation distingue les véhicules partiellement, hautement et totalement automatisés. Un système où l'on peut lâcher le volant un moment n'est pas une vraie délégation de conduite si le constructeur n'en assume pas la responsabilité légale.
+
+## Les yeux de la voiture
+
+Les voitures autonomes utilisent des lidars, des radars, des caméras, le GPS et des capteurs à ultrasons.
+
+## À retenir
+
+- Les niveaux d'autonomie viennent d'une norme de l'association américaine SAE, la J3016, utilisée dans le monde entier par les constructeurs et les autorités.
+- Niveau 2 : automatisation partielle ; le système gère direction et vitesse, mais le conducteur doit surveiller la route et reste responsable.
+- Niveau 3 : automatisation conditionnelle ; dans certaines conditions, le système surveille la route, mais le conducteur doit reprendre la main quand il le demande.
+- Jusqu'au niveau 2, c'est le conducteur qui surveille la route ; à partir du niveau 3, c'est le système.
+- Le système Autopilot de Tesla est classé au niveau 2, malgré des noms qui évoquent une conduite totalement autonome.
 
 ---
 type: article
-title: Les moteurs électriques à aimants permanents et les terres rares
-slug: les-moteurs-electriques-a-aimants-permanents-et-les-terres-rares
+title: Pourquoi les moteurs de voitures électriques ont-ils besoin de terres rares ?
+slug: pourquoi-les-moteurs-de-voitures-electriques-ont-ils-besoin-de-terres-rares
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les moteurs électriques à aimants permanents et les terres rares.
-tags: [electrique, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  Beaucoup de moteurs de voitures électriques utilisent des aimants très puissants, faits de
+  néodyme. Ces aimants dépendent de terres rares, dont la production est très concentrée.
+tags: [electrique]
+sources:
+  - title: "Moteur synchrone"
+    url: "https://fr.wikipedia.org/wiki/Moteur_synchrone"
+    publisher: "Wikipédia"
+  - title: "Neodymium magnet"
+    url: "https://en.wikipedia.org/wiki/Neodymium_magnet"
+    publisher: "Wikipedia"
+  - title: "Rare Earth Elements, executive summary"
+    url: "https://www.iea.org/reports/rare-earth-elements/executive-summary"
+    publisher: "Agence internationale de l'énergie"
+  - title: "Rare Earths Statistics and Information"
+    url: "https://www.usgs.gov/centers/national-minerals-information-center/rare-earths-statistics-and-information"
+    publisher: "USGS, Service géologique des États-Unis"
+quiz:
+  - question: "Qu'est-ce qui entraîne le rotor d'un moteur synchrone à aimants ?"
+    options:
+      - "Une courroie"
+      - "Un champ magnétique tournant créé par le stator"
+      - "Un ressort"
+    answer: 2
+    explanation: >
+      Dans un moteur synchrone à aimants permanents, le rotor porte des aimants ; le stator,
+      relié à un courant alternatif triphasé, crée un champ magnétique tournant qui entraîne le
+      rotor.
+  - question: "De quoi est fait un aimant au néodyme ?"
+    options:
+      - "D'or et de cuivre"
+      - "De néodyme, de fer et de bore"
+      - "De plomb et d'étain"
+    answer: 2
+    explanation: >
+      Les aimants les plus puissants du commerce sont les aimants au néodyme, un alliage de
+      néodyme, de fer et de bore.
+  - question: "Les terres rares sont-elles rares dans l'écorce terrestre ?"
+    options:
+      - "Relativement abondantes, malgré leur nom"
+      - "Introuvables"
+      - "Présentes seulement dans l'espace"
+    answer: 1
+    explanation: >
+      Malgré leur nom, les terres rares sont relativement abondantes dans l'écorce terrestre.
+  - question: "Quel pays domine la fabrication de ces aimants ?"
+    options:
+      - "La Chine"
+      - "Le Canada"
+      - "L'Islande"
+    answer: 1
+    explanation: >
+      La Chine domine la fabrication de ces aimants et le raffinage des terres rares.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Beaucoup de moteurs de voitures électriques utilisent des aimants très puissants, faits de néodyme. Ces aimants dépendent de terres rares, dont la production est très concentrée.
+
+## Comment tourne le moteur
+
+Dans un moteur synchrone à aimants permanents, le rotor porte des aimants ; le stator, relié à un courant alternatif triphasé, crée un champ magnétique tournant qui entraîne le rotor. Une machine synchrone peut fonctionner en moteur ou en générateur.
+
+## Des aimants très puissants
+
+Les aimants les plus puissants du commerce sont les aimants au néodyme, un alliage de néodyme, de fer et de bore. Ils sont faits surtout de néodyme et de praséodyme, avec parfois du dysprosium et du terbium pour mieux résister à la chaleur. Leurs performances baissent nettement quand la température monte. On les trouve dans les moteurs des voitures électriques et hybrides, dans des éoliennes et dans des équipements industriels.
+
+## Des terres rares pas si rares
+
+Les terres rares forment un groupe d'éléments qui comprend le scandium, l'yttrium et les lanthanides, des métaux gris argenté, mous et réactifs. Malgré leur nom, les terres rares sont relativement abondantes dans l'écorce terrestre. La Chine domine la fabrication de ces aimants et le raffinage des terres rares.
+
+## À retenir
+
+- Le stator, alimenté en courant alternatif triphasé, crée un champ magnétique tournant qui entraîne le rotor à aimants.
+- Les aimants les plus puissants du commerce sont les aimants au néodyme, un alliage de néodyme, de fer et de bore.
+- Ils sont faits surtout de néodyme et de praséodyme, avec parfois du dysprosium et du terbium pour mieux résister à la chaleur.
+- On les trouve dans les moteurs des voitures électriques et hybrides, dans des éoliennes et dans des équipements industriels.
+- La Chine domine la fabrication de ces aimants et le raffinage des terres rares.
 
 ---
 type: article
-title: L'autopartage et le covoiturage, bénéfices et limites
-slug: l-autopartage-et-le-covoiturage-benefices-et-limites
+title: Quelle différence entre autopartage et covoiturage, et que gagne-t-on vraiment ?
+slug: quelle-difference-entre-autopartage-et-covoiturage-et-que-gagne-t-on-vraiment
 categoryPath: automobile/usages-et-mobilite/mobilite-partagee
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'autopartage et le covoiturage, bénéfices et limites.
-tags: [mobilite-partagee, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  L'autopartage partage une flotte de voitures que l'on utilise à tour de rôle ; le covoiturage
+  partage un trajet dans la même voiture. Tous deux ont des bénéfices et des limites.
+tags: [mobilite-partagee]
+sources:
+  - title: "Autopartage"
+    url: "https://fr.wikipedia.org/wiki/Autopartage"
+    publisher: "Wikipédia"
+  - title: "Covoiturage"
+    url: "https://fr.wikipedia.org/wiki/Covoiturage"
+    publisher: "Wikipédia"
+  - title: "Carsharing"
+    url: "https://en.wikipedia.org/wiki/Carsharing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la différence entre autopartage et covoiturage ?"
+    options:
+      - "Il n'y en a aucune"
+      - "L'autopartage partage la voiture à tour de rôle, le covoiturage partage le trajet"
+      - "L'autopartage est réservé aux vélos"
+    answer: 2
+    explanation: >
+      Avec l'autopartage, des personnes utilisent la même voiture l'une après l'autre ; avec le
+      covoiturage, elles voyagent ensemble dans la même voiture.
+  - question: "Qu'est-ce que l'autopartage en trace directe ?"
+    options:
+      - "On laisse la voiture où l'on veut dans une zone"
+      - "On la rend toujours à la même station"
+      - "On la garde pour toujours"
+    answer: 1
+    explanation: >
+      L'autopartage existe en boucle, avec des stations où l'on rend la voiture, en trace
+      directe, où on la laisse où l'on veut dans une zone, ou entre particuliers.
+  - question: "Que peut demander un conducteur qui fait du covoiturage en France ?"
+    options:
+      - "Le partage des frais du trajet seulement"
+      - "Un salaire"
+      - "Un loyer mensuel"
+    answer: 1
+    explanation: >
+      En France, le conducteur ne doit pas faire de bénéfice : il ne peut demander que le
+      partage des frais du trajet.
+  - question: "Que fait une voiture en autopartage, selon l'Ademe ?"
+    options:
+      - "Elle remplace plusieurs voitures individuelles"
+      - "Elle double le nombre de voitures"
+      - "Elle supprime les routes"
+    answer: 1
+    explanation: >
+      Une voiture en autopartage remplace plusieurs voitures individuelles et libère des places
+      de stationnement, selon l'Ademe.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'autopartage partage une flotte de voitures que l'on utilise à tour de rôle ; le covoiturage partage un trajet dans la même voiture. Tous deux ont des bénéfices et des limites.
+
+## Deux façons de partager
+
+L'autopartage est la mise en commun d'une flotte de véhicules au profit d'abonnés, qui les utilisent chacun à leur tour pour des trajets et des durées de leur choix. Le covoiturage est l'utilisation conjointe d'une voiture par un conducteur non professionnel et un ou plusieurs passagers pour un trajet commun. Avec l'autopartage, des personnes utilisent la même voiture l'une après l'autre ; avec le covoiturage, elles voyagent ensemble dans la même voiture.
+
+## Plusieurs formes d'autopartage
+
+L'autopartage existe en boucle, avec des stations où l'on rend la voiture, en trace directe, où on la laisse où l'on veut dans une zone, ou entre particuliers.
+
+## Ce que l'on gagne
+
+Une voiture en autopartage remplace plusieurs voitures individuelles et libère des places de stationnement, selon l'Ademe. Les membres d'un service d'autopartage roulent en général moins, et évitent les frais d'achat, d'entretien et d'assurance d'une voiture personnelle. Le covoiturage partage les frais du trajet, augmente le nombre de personnes par voiture, et peut réduire les embouteillages et la pollution.
+
+## Les limites
+
+En France, le conducteur ne doit pas faire de bénéfice : il ne peut demander que le partage des frais du trajet. Malgré les politiques de promotion, le nombre moyen de personnes par voiture reste faible en France. BlaBlaCar est la grande plateforme de covoiturage longue distance.
+
+## À retenir
+
+- Avec l'autopartage, des personnes utilisent la même voiture l'une après l'autre ; avec le covoiturage, elles voyagent ensemble dans la même voiture.
+- L'autopartage existe en boucle, avec stations, en trace directe, sans station, ou entre particuliers.
+- Une voiture en autopartage remplace plusieurs voitures individuelles et libère des places de stationnement, selon l'Ademe.
+- Le covoiturage partage les frais du trajet, augmente le nombre de personnes par voiture, et peut réduire les embouteillages et la pollution.
+- En France, le conducteur ne doit pas faire de bénéfice : il ne peut demander que le partage des frais du trajet.
 
 ---
 type: article
-title: L'autonomie d'une voiture électrique et le cycle d'homologation WLTP
-slug: l-autonomie-d-une-voiture-electrique-et-le-cycle-d-homologation-wltp
+title: Pourquoi l'autonomie réelle d'une voiture électrique peut-elle être plus faible que l'autonomie annoncée ?
+slug: pourquoi-l-autonomie-reelle-d-une-voiture-electrique-peut-elle-etre-plus-faible-que-l-autonomie-annoncee
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'autonomie d'une voiture électrique et le cycle d'homologation WLTP.
-tags: [electrique, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Le WLTP est un test en laboratoire qui sert à annoncer la consommation et l'autonomie des
+  voitures neuves. Il est plus réaliste que l'ancien NEDC, mais pas identique à la route.
+tags: [electrique]
+sources:
+  - title: "Worldwide Harmonised Light Vehicles Test Procedure"
+    url: "https://en.wikipedia.org/wiki/Worldwide_Harmonised_Light_Vehicles_Test_Procedure"
+    publisher: "Wikipedia"
+  - title: "WLTP testing for Porsche cars"
+    url: "https://www.porsche.com/international/accessoriesandservice/porscheservice/additionalinformation/wltp/"
+    publisher: "Porsche"
+  - title: "New WLTP Vehicle Testing guide"
+    url: "https://www.drive-electric.co.uk/guides/general/new-wltp-vehicle-range-testing/"
+    publisher: "DriveElectric"
+  - title: "WLTP Cycle Approval"
+    url: "https://www.qovoltis.com/en/actualites/homologation-cycle-wltp"
+    publisher: "Qovoltis"
+  - title: "WLTP versus NEDC"
+    url: "https://www.enreso.world/en/wltp-versus-nedc/"
+    publisher: "Enreso"
+quiz:
+  - question: "Depuis quand le WLTP est-il obligatoire pour les voitures neuves dans l'Union européenne ?"
+    options:
+      - "Depuis le 1er janvier 1990"
+      - "Depuis le 1er septembre 2018"
+      - "Depuis le 14 juillet 2030"
+    answer: 2
+    explanation: >
+      Depuis le 1er septembre 2018, le WLTP est obligatoire pour les voitures neuves vendues
+      dans l'Union européenne.
+  - question: "Combien de temps dure le cycle WLTP ?"
+    options:
+      - "5 minutes"
+      - "30 minutes"
+      - "3 heures"
+    answer: 2
+    explanation: >
+      Le test dure 30 minutes, soit dix minutes de plus que le NEDC.
+  - question: "Quel test le WLTP a-t-il remplacé ?"
+    options:
+      - "Le NEDC"
+      - "Le contrôle technique"
+      - "Le permis à points"
+    answer: 1
+    explanation: >
+      Il a remplacé le NEDC, un test plus ancien qui correspondait moins bien à la conduite
+      réelle.
+  - question: "Pourquoi l'autonomie réelle peut-elle être plus faible que l'autonomie WLTP ?"
+    options:
+      - "La vitesse sur autoroute, le style de conduite, le relief et la météo jouent"
+      - "Le test est fait sans batterie"
+      - "Le test est fait à l'envers"
+    answer: 1
+    explanation: >
+      L'autonomie réelle peut rester inférieure à l'autonomie WLTP, surtout sur autoroute à
+      vitesse élevée ; le style de conduite, le relief et la météo jouent aussi.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le WLTP est un test en laboratoire qui sert à annoncer la consommation et l'autonomie des voitures neuves. Il est plus réaliste que l'ancien NEDC, mais pas identique à la route.
+
+## Un test en laboratoire
+
+Le WLTP est une procédure d'essai mondiale qui sert à mesurer la consommation et les émissions de CO2 et de polluants des voitures. Le WLTP est un cycle réalisé en laboratoire, conçu pour mieux refléter la consommation en conditions réelles. Depuis le 1er septembre 2018, le WLTP est obligatoire pour les voitures neuves vendues dans l'Union européenne. Il a remplacé le NEDC, un test plus ancien qui correspondait moins bien à la conduite réelle.
+
+## Un cycle plus long et plus réaliste
+
+Le cycle comporte quatre phases, à vitesse faible, moyenne, élevée puis très élevée. Le test dure 30 minutes, soit dix minutes de plus que le NEDC. Il représente 23,25 km, soit plus du double des 11 km du NEDC. La vitesse moyenne est de 46,5 km/h, avec des pointes à plus de 130 km/h.
+
+## Ce que cela change pour l'autonomie
+
+Pour les voitures électriques, l'autonomie annoncée avec le WLTP est plus basse que celle qui était annoncée avec le NEDC. Les chiffres de consommation et d'émissions sont en général plus élevés avec le WLTP qu'avec le NEDC : le test est plus réaliste, mais les voitures ne consomment pas plus qu'avant. L'autonomie réelle peut rester inférieure à l'autonomie WLTP, surtout sur autoroute à vitesse élevée ; le style de conduite, le relief et la météo jouent aussi.
+
+## À retenir
+
+- Le WLTP est une procédure d'essai mondiale qui sert à mesurer la consommation et les émissions de CO2 et de polluants des voitures.
+- Depuis le 1er septembre 2018, le WLTP est obligatoire pour les voitures neuves vendues dans l'Union européenne.
+- Le test dure 30 minutes, soit dix minutes de plus que le NEDC.
+- Pour les voitures électriques, l'autonomie annoncée avec le WLTP est plus basse que celle qui était annoncée avec le NEDC.
+- L'autonomie réelle peut rester inférieure à l'autonomie WLTP, surtout sur autoroute à vitesse élevée.
 
 ---
 type: article
-title: Le véhicule défini par logiciel
-slug: le-vehicule-defini-par-logiciel
+title: Qu'est-ce qu'une voiture définie par logiciel, et en quoi change-t-elle tout ?
+slug: qu-est-ce-qu-une-voiture-definie-par-logiciel-et-en-quoi-change-t-elle-tout
 categoryPath: automobile/industrie-automobile/production
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le véhicule défini par logiciel.
-tags: [production, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Dans un véhicule défini par logiciel, le logiciel commande et améliore les fonctions de la
+  voiture, même après l'achat. Quelques gros ordinateurs remplacent de nombreux petits
+  calculateurs.
+tags: [production]
+sources:
+  - title: "What is a software-defined vehicle?"
+    url: "https://www.ibm.com/think/topics/software-defined-vehicle"
+    publisher: "IBM"
+  - title: "The complete guide to software-defined vehicles"
+    url: "https://blogs.sw.siemens.com/automotive-transportation/2025/08/22/the-complete-guide-to-software-defined-vehicles/"
+    publisher: "Siemens"
+  - title: "Explaining software-defined vehicles"
+    url: "https://www.rolandberger.com/en/Insights/Publications/Explaining-software-defined-vehicles.html"
+    publisher: "Roland Berger"
+quiz:
+  - question: "Que signifie OTA pour une voiture ?"
+    options:
+      - "Mise à jour à distance, over the air"
+      - "Offre tarifaire annuelle"
+      - "Organisation technique automobile"
+    answer: 1
+    explanation: >
+      Les mises à jour à distance, dites OTA pour over the air, ajoutent des fonctions ou
+      corrigent des défauts sans passer par le garage, comme sur un smartphone.
+  - question: "Par quoi un véhicule défini par logiciel remplace-t-il beaucoup de petits calculateurs ?"
+    options:
+      - "Par des câbles plus longs"
+      - "Par quelques ordinateurs plus puissants"
+      - "Par un moteur plus gros"
+    answer: 2
+    explanation: >
+      Le véhicule défini par logiciel les remplace par quelques ordinateurs plus puissants,
+      parfois organisés par zones du véhicule.
+  - question: "Quel risque augmente quand la voiture est très connectée ?"
+    options:
+      - "Les crevaisons"
+      - "Les bouchons"
+      - "Les attaques informatiques"
+    answer: 3
+    explanation: >
+      Plus la voiture est connectée, plus le risque d'attaque informatique augmente : la
+      cybersécurité devient un enjeu majeur.
+  - question: "Que peuvent vendre les constructeurs en plus de la voiture ?"
+    options:
+      - "Des fonctions par abonnement"
+      - "Des routes"
+      - "De l'essence gratuite"
+    answer: 1
+    explanation: >
+      Les constructeurs peuvent vendre des fonctions par abonnement, ce qui crée un lien durable
+      avec le client mais peut aussi irriter certains acheteurs.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un véhicule défini par logiciel, le logiciel commande et améliore les fonctions de la voiture, même après l'achat. Quelques gros ordinateurs remplacent de nombreux petits calculateurs.
+
+## Une voiture pilotée par logiciel
+
+Un véhicule défini par logiciel est une voiture dont les fonctions principales sont commandées, mises à jour et améliorées par logiciel plutôt que par du matériel fixe. Une voiture classique contient de nombreux petits calculateurs, les ECU, chacun chargé d'une fonction comme le freinage ou la climatisation. Le véhicule défini par logiciel les remplace par quelques ordinateurs plus puissants, parfois organisés par zones du véhicule.
+
+## Des mises à jour comme sur un téléphone
+
+Les mises à jour à distance, dites OTA pour over the air, ajoutent des fonctions ou corrigent des défauts sans passer par le garage, comme sur un smartphone. Les constructeurs utilisent des jumeaux numériques et de la simulation pour concevoir et tester des fonctions avant de les installer dans la voiture. Les constructeurs peuvent vendre des fonctions par abonnement, ce qui crée un lien durable avec le client mais peut aussi irriter certains acheteurs.
+
+## Des risques à maîtriser
+
+Plus la voiture est connectée, plus le risque d'attaque informatique augmente : la cybersécurité devient un enjeu majeur. Quand un logiciel change le comportement d'une voiture déjà vendue, des questions de responsabilité et de réglementation se posent.
+
+## À retenir
+
+- Une voiture définie par logiciel voit ses fonctions commandées, mises à jour et améliorées par logiciel plutôt que par du matériel fixe.
+- Une voiture classique contient de nombreux petits calculateurs, les ECU, chacun chargé d'une fonction comme le freinage ou la climatisation.
+- Le véhicule défini par logiciel les remplace par quelques ordinateurs plus puissants, parfois organisés par zones du véhicule.
+- Les mises à jour à distance, dites OTA, ajoutent des fonctions ou corrigent des défauts sans passer par le garage.
+- Plus la voiture est connectée, plus le risque d'attaque informatique augmente : la cybersécurité devient un enjeu majeur.
 
 ---
 type: article
-title: Les batteries à électrolyte solide et l'autonomie des voitures
-slug: les-batteries-a-electrolyte-solide-et-l-autonomie-des-voitures
+title: Pourquoi les batteries à électrolyte solide font-elles tant rêver les constructeurs ?
+slug: pourquoi-les-batteries-a-electrolyte-solide-font-elles-tant-rever-les-constructeurs
 categoryPath: automobile/motorisations/electrique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les batteries à électrolyte solide et l'autonomie des voitures.
-tags: [electrique, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Une batterie à électrolyte solide remplace le liquide par un solide. Elle promet plus
+  d'énergie et plus de sécurité, mais des obstacles techniques freinent son arrivée dans les
+  voitures.
+tags: [electrique]
+sources:
+  - title: "Batterie à électrolyte solide"
+    url: "https://fr.wikipedia.org/wiki/Batterie_%C3%A0_%C3%A9lectrolyte_solide"
+    publisher: "Wikipédia"
+  - title: "Solid-state battery"
+    url: "https://en.wikipedia.org/wiki/Solid-state_battery"
+    publisher: "Wikipedia"
+  - title: "Design Strategies for Anodes and Interfaces Toward Practical Solid-State Li-Metal Batteries"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10520671/"
+    publisher: "PubMed Central"
+quiz:
+  - question: "Que remplace l'électrolyte solide dans ces batteries ?"
+    options:
+      - "Le lithium"
+      - "L'électrolyte liquide ou gélifié"
+      - "Le boîtier"
+    answer: 2
+    explanation: >
+      Une batterie à électrolyte solide utilise un électrolyte solide entre l'anode et la
+      cathode, à la place de l'électrolyte liquide ou gélifié des batteries classiques.
+  - question: "Pourquoi ces batteries sont-elles jugées plus sûres ?"
+    options:
+      - "Elles sont plus lourdes"
+      - "Elles n'ont pas de borne"
+      - "La plupart des électrolytes solides ne brûlent pas"
+    answer: 3
+    explanation: >
+      Comme la plupart des électrolytes solides ne brûlent pas, le risque d'incendie et
+      d'emballement thermique est beaucoup plus faible.
+  - question: "Qu'est-ce qu'une dendrite ?"
+    options:
+      - "Un câble de recharge"
+      - "Un type de pneu"
+      - "Un filament métallique qui peut provoquer un court-circuit"
+    answer: 3
+    explanation: >
+      Le lithium peut former des dendrites, des filaments métalliques qui traversent
+      l'électrolyte et provoquent des courts-circuits : c'est l'un des plus gros obstacles
+      techniques.
+  - question: "Où ces batteries existent-elles déjà ?"
+    options:
+      - "Dans toutes les voitures"
+      - "Dans des stimulateurs cardiaques"
+      - "Dans les avions de ligne"
+    answer: 2
+    explanation: >
+      Des batteries à électrolyte solide existent déjà, par exemple dans les stimulateurs
+      cardiaques et certains objets portables.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une batterie à électrolyte solide remplace le liquide par un solide. Elle promet plus d'énergie et plus de sécurité, mais des obstacles techniques freinent son arrivée dans les voitures.
+
+## Un solide au lieu d'un liquide
+
+Une batterie à électrolyte solide utilise un électrolyte solide entre l'anode et la cathode, à la place de l'électrolyte liquide ou gélifié des batteries classiques. En théorie, ces batteries peuvent stocker beaucoup plus d'énergie que les batteries lithium-ion actuelles, donc offrir plus d'autonomie dans le même espace. Comme la plupart des électrolytes solides ne brûlent pas, le risque d'incendie et d'emballement thermique est beaucoup plus faible. Elles peuvent fonctionner sur une plage de températures plus large, ce qui pourrait simplifier le refroidissement des batteries.
+
+## Les obstacles
+
+Le lithium peut former des dendrites, des filaments métalliques qui traversent l'électrolyte et provoquent des courts-circuits : c'est l'un des plus gros obstacles techniques. Le contact entre deux solides est difficile à obtenir : la résistance à l'interface entre la cathode et l'électrolyte solide est un problème ancien. La fabrication est chère : les films minces demandent du matériel de dépôt sous vide coûteux, et les films d'électrolyte doivent encore devenir plus fins.
+
+## Où en est-on ?
+
+Des batteries à électrolyte solide existent déjà, par exemple dans les stimulateurs cardiaques et certains objets portables. Malgré les annonces de constructeurs comme Toyota, Honda et QuantumScape, ces batteries n'ont pas encore atteint l'échelle industrielle et commerciale.
+
+## À retenir
+
+- Une batterie à électrolyte solide utilise un électrolyte solide entre l'anode et la cathode, à la place de l'électrolyte liquide ou gélifié des batteries classiques.
+- En théorie, elles stockent beaucoup plus d'énergie dans le même espace que les batteries lithium-ion, donc offrent plus d'autonomie.
+- Comme la plupart des électrolytes solides ne brûlent pas, le risque d'incendie et d'emballement thermique est beaucoup plus faible.
+- Le lithium peut former des filaments, les dendrites, qui traversent l'électrolyte et provoquent des courts-circuits.
+- Malgré les annonces de constructeurs comme Toyota, Honda et QuantumScape, ces batteries n'ont pas encore atteint l'échelle industrielle et commerciale.
 
 ---
 type: article
-title: L'airbag, un déclenchement en quelques millisecondes
-slug: l-airbag-un-declenchement-en-quelques-millisecondes
+title: Comment un airbag se gonfle-t-il plus vite qu'un clin d'œil ?
+slug: comment-un-airbag-se-gonfle-t-il-plus-vite-qu-un-clin-d-oeil
 categoryPath: automobile/securite-et-conduite/securite-passive
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'airbag, un déclenchement en quelques millisecondes.
-tags: [securite-passive, veille-2026-09]
-priority: 0.8
-essentiel: false
-status: planned
+  Un airbag détecte un choc brutal, déclenche un générateur de gaz et se gonfle en quelques
+  dizaines de millisecondes. Il complète la ceinture de sécurité, sans la remplacer.
+tags: [securite-passive]
+sources:
+  - title: "Airbag"
+    url: "https://fr.wikipedia.org/wiki/Airbag"
+    publisher: "Wikipédia"
+  - title: "Airbag"
+    url: "https://en.wikipedia.org/wiki/Airbag"
+    publisher: "Wikipedia"
+  - title: "How Do Airbags Deploy So Fast In A Car Accident?"
+    url: "https://www.scienceabc.com/innovation/airbags-deploy-fast-car-accident-threshold-working-mechanism-accelerometer-acu-sensor"
+    publisher: "ScienceABC"
+  - title: "Airbags"
+    url: "https://www.iihs.org/topics/airbags"
+    publisher: "Insurance Institute for Highway Safety"
+quiz:
+  - question: "Qu'est-ce qui détecte le choc dans un airbag ?"
+    options:
+      - "Des accéléromètres"
+      - "Un thermomètre"
+      - "Un compteur de vitesse"
+    answer: 1
+    explanation: >
+      Des capteurs, les accéléromètres, détectent une décélération brutale ; un calculateur
+      décide alors d'allumer un générateur de gaz qui gonfle le coussin.
+  - question: "Quelle est la vitesse de gonflage d'un airbag ?"
+    options:
+      - "Quelques dizaines de millisecondes"
+      - "Plusieurs minutes"
+      - "Une heure"
+    answer: 1
+    explanation: >
+      Un airbag se gonfle en quelques dizaines de millisecondes, plus vite qu'un clin d'œil.
+  - question: "Un airbag remplace-t-il la ceinture de sécurité ?"
+    options:
+      - "Non, il la complète"
+      - "Oui, totalement"
+      - "Seulement de nuit"
+    answer: 1
+    explanation: >
+      Un airbag complète la ceinture de sécurité, il ne la remplace pas : son efficacité
+      optimale est obtenue avec elle.
+  - question: "Que faut-il faire d'un airbag après son déclenchement ?"
+    options:
+      - "Le regonfler avec une pompe"
+      - "Le laisser tel quel"
+      - "Le remplacer"
+    answer: 3
+    explanation: >
+      Un airbag ne se déclenche qu'une fois : après un choc, il doit être remplacé.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un airbag détecte un choc brutal, déclenche un générateur de gaz et se gonfle en quelques dizaines de millisecondes. Il complète la ceinture de sécurité, sans la remplacer.
+
+## De la détection au gonflage
+
+Des capteurs, les accéléromètres, détectent une décélération brutale ; un calculateur décide alors d'allumer un générateur de gaz qui gonfle le coussin. Le calculateur n'allume le gonflage que si la décélération dépasse un seuil, qui dépend du type de choc. Le gonflage vient d'une réaction chimique qui produit surtout de l'azote ; on a utilisé l'azoture de sodium, puis d'autres composés comme le nitrate de guanidine. Un airbag se gonfle en quelques dizaines de millisecondes, plus vite qu'un clin d'œil.
+
+## Une aide, pas un remplacement
+
+Un airbag complète la ceinture de sécurité, il ne la remplace pas : son efficacité optimale est obtenue avec elle. Un airbag frontal réduit le risque de blessure grave à la tête et de décès lors d'un choc de face, surtout quand la ceinture est bouclée.
+
+## Des limites à connaître
+
+Un airbag ne se déclenche qu'une fois : après un choc, il doit être remplacé. Un airbag frontal ne protège pas lors d'un choc latéral : des airbags latéraux existent pour cela.
+
+## À retenir
+
+- Des capteurs, les accéléromètres, détectent une décélération brutale ; un calculateur décide alors d'allumer un générateur de gaz qui gonfle le coussin.
+- Le calculateur n'allume le gonflage que si la décélération dépasse un seuil, qui dépend du type de choc.
+- Un airbag se gonfle en quelques dizaines de millisecondes, plus vite qu'un clin d'œil.
+- Un airbag complète la ceinture de sécurité, il ne la remplace pas : son efficacité optimale est obtenue avec elle.
+- Un airbag ne se déclenche qu'une fois : après un choc, il doit être remplacé.
 
 ---
 type: article
-title: La norme Euro 7 et les émissions des véhicules
-slug: la-norme-euro-7-et-les-emissions-des-vehicules
+title: Pourquoi la norme Euro 7 s'intéresse-t-elle aussi aux freins et aux pneus ?
+slug: pourquoi-la-norme-euro-7-s-interesse-t-elle-aussi-aux-freins-et-aux-pneus
 categoryPath: automobile/industrie-automobile/reglementation-automobile
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la norme Euro 7 et les émissions des véhicules.
-tags: [reglementation-automobile, veille-2026-09]
-priority: 0.8
-essentiel: false
-status: planned
+  Les normes Euro limitent la pollution des véhicules neufs. Euro 7 est la première à encadrer
+  aussi les particules des freins, l'usure des pneus et la durabilité des batteries.
+tags: [reglementation-automobile]
+sources:
+  - title: "Normes européennes d'émission"
+    url: "https://fr.wikipedia.org/wiki/Normes_europ%C3%A9ennes_d%27%C3%A9mission"
+    publisher: "Wikipédia"
+  - title: "European emission standards"
+    url: "https://en.wikipedia.org/wiki/European_emission_standards"
+    publisher: "Wikipedia"
+  - title: "Emissions in the automotive sector"
+    url: "https://single-market-economy.ec.europa.eu/sectors/automotive-industry/environmental-protection/emissions-automotive-sector_en"
+    publisher: "Commission européenne"
+  - title: "Euro 7: Parliament adopts measures to reduce road transport emissions"
+    url: "https://www.europarl.europa.eu/news/en/press-room/20240308IPR19017/"
+    publisher: "Parlement européen"
+quiz:
+  - question: "À quoi servent les normes Euro ?"
+    options:
+      - "À fixer le prix de l'essence"
+      - "À limiter la pollution des véhicules neufs"
+      - "À choisir la couleur des voitures"
+    answer: 2
+    explanation: >
+      Les normes Euro fixent des limites de pollution pour les véhicules neufs vendus en Europe,
+      de plus en plus strictes avec le temps.
+  - question: "Quel polluant les normes Euro ne limitent-elles pas directement ?"
+    options:
+      - "Les oxydes d'azote"
+      - "Le CO2, réglementé à part"
+      - "Les particules"
+    answer: 2
+    explanation: >
+      Elles limitent surtout les oxydes d'azote, le monoxyde de carbone, les hydrocarbures et
+      les particules, mais pas le CO2, qui fait l'objet d'une réglementation à part.
+  - question: "Qu'est-ce qu'Euro 7 est la première norme à encadrer ?"
+    options:
+      - "La couleur des phares"
+      - "Les particules des freins et l'usure des pneus"
+      - "La longueur des voitures"
+    answer: 2
+    explanation: >
+      Euro 7 est la première norme au monde à encadrer les particules émises par les freins et
+      l'usure des pneus, et elle fixe des exigences de durabilité pour les batteries des
+      véhicules électriques.
+  - question: "Pour les voitures, qu'Euro 7 garde-t-elle de la norme précédente ?"
+    options:
+      - "Les limites d'émission à l'échappement d'Euro 6"
+      - "Les limites de vitesse"
+      - "Les règles du permis"
+    answer: 1
+    explanation: >
+      Pour les voitures et les camionnettes, Euro 7 garde les limites d'émission à l'échappement
+      d'Euro 6 ; les camions et les bus voient leurs limites durcies.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les normes Euro limitent la pollution des véhicules neufs. Euro 7 est la première à encadrer aussi les particules des freins, l'usure des pneus et la durabilité des batteries.
+
+## Des limites de pollution pour les véhicules neufs
+
+Les normes Euro fixent des limites de pollution pour les véhicules neufs vendus en Europe, de plus en plus strictes avec le temps. Elles limitent surtout les oxydes d'azote, le monoxyde de carbone, les hydrocarbures et les particules, mais pas le CO2, qui fait l'objet d'une réglementation à part. Les essais en laboratoire sous-estimaient les émissions réelles de certains diesels, ce qui a conduit à passer aux essais WLTP et à des mesures en conditions réelles de conduite.
+
+## Ce qu'Euro 7 ajoute
+
+Euro 7 est la première norme au monde à encadrer les particules émises par les freins et l'usure des pneus, et elle fixe des exigences de durabilité pour les batteries des véhicules électriques. Pour les voitures et les camionnettes, Euro 7 garde les limites d'émission à l'échappement d'Euro 6 ; les camions et les bus voient leurs limites durcies. Les limites de particules de freinage valent d'abord pour les voitures et les camionnettes, avec des règles particulières selon qu'il s'agit d'un véhicule électrique ou thermique. Un passeport environnemental du véhicule doit indiquer les émissions, le CO2, la consommation et la durabilité de la batterie.
+
+## Un calendrier par étapes
+
+Le règlement Euro 7 a été adopté en 2024. Euro 7 s'applique par étapes : d'abord aux nouveaux modèles de voitures et de camionnettes, puis à tous les véhicules neufs, puis aux camions et aux bus.
+
+## À retenir
+
+- Les normes Euro fixent des limites de pollution pour les véhicules neufs vendus en Europe, de plus en plus strictes avec le temps.
+- Elles limitent les oxydes d'azote, le monoxyde de carbone, les hydrocarbures et les particules, mais pas le CO2.
+- Euro 7 est la première norme à encadrer les particules des freins et l'usure des pneus, et la durabilité des batteries.
+- Pour les voitures et les camionnettes, Euro 7 garde les limites à l'échappement d'Euro 6 ; celles des camions et des bus durcissent.
+- Euro 7 s'applique par étapes : nouveaux modèles de voitures, tous les véhicules neufs, puis camions et bus.
