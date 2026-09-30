@@ -13740,78 +13740,453 @@ status: planned
 
 ---
 type: article
-title: Les vaccins à ARN messager expliqués
-slug: les-vaccins-a-arn-messager-expliques
+title: Comment un vaccin à ARN messager apprend-il au corps à se défendre ?
+slug: comment-un-vaccin-a-arn-messager-apprend-il-au-corps-a-se-defendre
 categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les vaccins à ARN messager expliqués.
-tags: [vaccination, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Un vaccin à ARN messager donne aux cellules le plan d'un morceau inoffensif du virus. Le
+  système immunitaire apprend à le reconnaître, sans que l'ARN ne modifie les gènes.
+tags: [vaccination]
+sources:
+  - title: "Vaccin à ARN messager"
+    url: "https://fr.wikipedia.org/wiki/Vaccin_%C3%A0_ARN_messager"
+    publisher: "Wikipédia"
+  - title: "MRNA vaccine"
+    url: "https://en.wikipedia.org/wiki/MRNA_vaccine"
+    publisher: "Wikipedia"
+  - title: "How COVID-19 mRNA vaccines work"
+    url: "https://www.cdc.gov/covid/vaccines/how-they-work.html"
+    publisher: "CDC, centres américains de contrôle et de prévention des maladies"
+quiz:
+  - question: "Que contient un vaccin à ARN messager ?"
+    options:
+      - "Le virus entier"
+      - "De l'ADN humain"
+      - "Le plan d'une protéine du virus"
+    answer: 3
+    explanation: >
+      Un vaccin à ARN messager contient le plan d'une protéine du virus : les cellules s'en
+      servent pour fabriquer cette protéine, et le système immunitaire apprend à la reconnaître.
+  - question: "L'ARN d'un vaccin entre-t-il dans le noyau de la cellule ?"
+    options:
+      - "Oui, et il remplace l'ADN"
+      - "Non, il ne peut donc pas modifier les gènes"
+      - "Oui, pour fabriquer un nouveau noyau"
+    answer: 2
+    explanation: >
+      L'ARN reste dans le cytoplasme de la cellule ; il n'entre pas dans le noyau, où se trouve
+      l'ADN, et ne peut donc pas modifier les gènes.
+  - question: "Que deviennent l'ARN et le morceau de protéine après usage ?"
+    options:
+      - "Les cellules détruisent l'ARN et l'éliminent"
+      - "L'ARN reste toute la vie"
+      - "L'ARN devient de l'ADN"
+    answer: 1
+    explanation: >
+      Une fois le morceau de protéine fabriqué, les cellules détruisent l'ARN et l'éliminent
+      comme un déchet.
+  - question: "Dans quoi l'ARN du vaccin est-il enveloppé ?"
+    options:
+      - "Des bulles de savon"
+      - "Du plastique"
+      - "Des nanoparticules de lipides"
+    answer: 3
+    explanation: >
+      L'ARN est enveloppé dans des nanoparticules de lipides, qui le protègent de la dégradation
+      et l'aident à entrer dans les cellules.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un vaccin à ARN messager donne aux cellules le plan d'un morceau inoffensif du virus. Le système immunitaire apprend à le reconnaître, sans que l'ARN ne modifie les gènes.
+
+## Un plan, pas le virus
+
+Un vaccin à ARN messager contient le plan d'une protéine du virus : les cellules s'en servent pour fabriquer cette protéine, et le système immunitaire apprend à la reconnaître. Les cellules ne fabriquent qu'un morceau inoffensif du virus, par exemple une partie de la protéine de pointe, la protéine spike, du coronavirus. Le corps montre ce morceau à la surface de ses cellules ; le système immunitaire le repère comme étranger, fabrique des anticorps et active d'autres cellules de défense.
+
+## Une enveloppe de lipides
+
+L'ARN est enveloppé dans des nanoparticules de lipides, qui le protègent de la dégradation et l'aident à entrer dans les cellules. L'ARN est fragile, c'est pourquoi certains de ces vaccins doivent être conservés à très basse température.
+
+## Pas de modification des gènes
+
+L'ARN reste dans le cytoplasme de la cellule ; il n'entre pas dans le noyau, où se trouve l'ADN, et ne peut donc pas modifier les gènes. Une fois le morceau de protéine fabriqué, les cellules détruisent l'ARN et l'éliminent comme un déchet.
+
+## Une idée récompensée
+
+Le premier vaccin à ARN messager autorisé dans le monde, celui de Pfizer-BioNTech, l'a été au Royaume-Uni. Katalin Karikó et Drew Weissman ont reçu le prix Nobel de médecine pour les découvertes qui ont rendu possibles des vaccins à ARN messager efficaces contre la Covid-19. Des vaccins à ARN messager sont aussi étudiés contre la grippe, la rage, certains cancers, le VIH et le virus Zika.
+
+## À retenir
+
+- Un vaccin à ARN messager donne aux cellules le plan d'une protéine du virus, que le système immunitaire apprend à reconnaître.
+- Les cellules ne fabriquent qu'un morceau inoffensif du virus, par exemple une partie de la protéine de pointe, la protéine spike, du coronavirus.
+- L'ARN n'entre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut pas modifier les gènes.
+- Une fois le morceau de protéine fabriqué, les cellules détruisent l'ARN et l'éliminent comme un déchet.
+- Katalin Karikó et Drew Weissman ont reçu le prix Nobel de médecine pour leurs découvertes sur ces vaccins.
 
 ---
 type: article
-title: Le dépistage organisé des cancers en France
-slug: le-depistage-organise-des-cancers-en-france
+title: Comment fonctionne le dépistage organisé des cancers en France ?
+slug: comment-fonctionne-le-depistage-organise-des-cancers-en-france
 categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le dépistage organisé des cancers en France.
-tags: [depistage, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Un dépistage cherche un cancer chez des personnes sans symptômes. En France, trois dépistages
+  sont organisés : sein, colorectal et col de l'utérus, avec des tranches d'âge précises.
+tags: [depistage]
+sources:
+  - title: "Cancer screening"
+    url: "https://en.wikipedia.org/wiki/Cancer_screening"
+    publisher: "Wikipedia"
+  - title: "Cancer du sein"
+    url: "https://fr.wikipedia.org/wiki/Cancer_du_sein"
+    publisher: "Wikipédia"
+  - title: "Cancer colorectal"
+    url: "https://fr.wikipedia.org/wiki/Cancer_colorectal"
+    publisher: "Wikipédia"
+  - title: "Cancer du col de l'utérus"
+    url: "https://fr.wikipedia.org/wiki/Cancer_du_col_de_l%27ut%C3%A9rus"
+    publisher: "Wikipédia"
+  - title: "Dépistages organisés des cancers"
+    url: "https://www.ameli.fr/assure/sante/assurance-maladie/prevention-depistages/depistages-organises-cancer"
+    publisher: "Assurance Maladie (ameli.fr)"
+  - title: "Dépistage organisé du cancer du sein pour les femmes entre 50 et 74 ans"
+    url: "https://www.ameli.fr/finistere/assure/sante/themes/cancer-sein/depistage-organise-50-74-ans"
+    publisher: "Assurance Maladie (ameli.fr)"
+  - title: "Le dépistage organisé du cancer colorectal"
+    url: "https://www.ameli.fr/medecin/sante-prevention/pathologies/cancers/depistage-organise-du-cancer-colorectal"
+    publisher: "Assurance Maladie (ameli.fr)"
+  - title: "Le dépistage organisé du cancer du col de l'utérus"
+    url: "https://www.ameli.fr/medecin/sante-prevention/pathologies/cancers/cancer-du-col-de-l-uterus/depistage-organise-du-cancer-du-col-de-l-uterus"
+    publisher: "Assurance Maladie (ameli.fr)"
+  - title: "Dépistage organisé du cancer du col de l'utérus"
+    url: "https://depistagecoluterus.e-cancer.fr/"
+    publisher: "Institut national du cancer"
+quiz:
+  - question: "À partir de quel âge le dépistage organisé du cancer du sein est-il proposé aux femmes en France ?"
+    options:
+      - "À 18 ans"
+      - "À 50 ans"
+      - "À 90 ans"
+    answer: 2
+    explanation: >
+      Pour le sein, le dépistage organisé concerne les femmes de 50 à 74 ans, sans symptômes,
+      avec une mammographie tous les deux ans.
+  - question: "Quel test est utilisé pour le dépistage organisé du cancer colorectal ?"
+    options:
+      - "Une prise de sang pour le cholestérol"
+      - "La recherche de sang invisible dans les selles"
+      - "Une radio du poumon"
+    answer: 2
+    explanation: >
+      Le test colorectal est immunologique : il cherche du sang invisible dans un échantillon de
+      selles, et une coloscopie est nécessaire s'il est positif.
+  - question: "Quel virus est responsable de la quasi-totalité des cancers du col de l'utérus ?"
+    options:
+      - "Le papillomavirus, ou HPV"
+      - "Le virus de la grippe"
+      - "Le virus de la varicelle"
+    answer: 1
+    explanation: >
+      Le papillomavirus, ou HPV, est responsable de la quasi-totalité des cancers du col de
+      l'utérus.
+  - question: "Que signifie un faux positif ?"
+    options:
+      - "Le cancer est guéri"
+      - "Le test est gratuit"
+      - "On croit à tort à un cancer"
+    answer: 3
+    explanation: >
+      Le dépistage a aussi des limites : des faux positifs, où l'on croit à tort à un cancer, et
+      du surdiagnostic, où l'on repère des tumeurs qui n'auraient jamais fait de mal.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un dépistage cherche un cancer chez des personnes sans symptômes. En France, trois dépistages sont organisés : sein, colorectal et col de l'utérus, avec des tranches d'âge précises.
+
+## Chercher sans symptôme
+
+Le dépistage consiste à chercher un cancer avant l'apparition de symptômes, pour le repérer plus tôt et le rendre plus facile à traiter. Aucun test n'est parfait : tous les tests de dépistage donnent parfois de faux positifs et de faux négatifs.
+
+## Trois dépistages organisés
+
+En France, trois cancers font l'objet d'un dépistage organisé : le cancer du sein, le cancer colorectal et le cancer du col de l'utérus. Pour le sein, le dépistage organisé concerne les femmes de 50 à 74 ans, sans symptômes, avec une mammographie tous les deux ans. Pour le cancer colorectal, il s'adresse aux femmes et aux hommes de 50 à 74 ans, avec un test de recherche de sang dans les selles. Pour le col de l'utérus, il concerne les femmes de 25 à 65 ans : un frottis pour les plus jeunes, puis un test de détection du papillomavirus, le HPV.
+
+## Des tests différents
+
+Le test colorectal est immunologique : il cherche du sang invisible dans un échantillon de selles, et une coloscopie est nécessaire s'il est positif. Le papillomavirus, ou HPV, est responsable de la quasi-totalité des cancers du col de l'utérus.
+
+## Des limites à connaître
+
+Le dépistage a aussi des limites : des faux positifs, où l'on croit à tort à un cancer, et du surdiagnostic, où l'on repère des tumeurs qui n'auraient jamais fait de mal.
+
+## À retenir
+
+- Le dépistage consiste à chercher un cancer avant l'apparition de symptômes, pour le repérer plus tôt et le rendre plus facile à traiter.
+- En France, trois cancers font l'objet d'un dépistage organisé : le cancer du sein, le cancer colorectal et le cancer du col de l'utérus.
+- Pour le sein, il concerne les femmes de 50 à 74 ans, avec une mammographie tous les deux ans.
+- Pour le cancer colorectal, il s'adresse aux adultes de 50 à 74 ans, avec un test de recherche de sang dans les selles.
+- Le dépistage a des limites : des faux positifs et du surdiagnostic, qui repère des tumeurs qui n'auraient jamais fait de mal.
 
 ---
 type: article
-title: Pourquoi le souffle manque en altitude
-slug: pourquoi-le-souffle-manque-en-altitude
+title: Pourquoi manque-t-on de souffle en altitude alors que l'air reste le même ?
+slug: pourquoi-manque-t-on-de-souffle-en-altitude-alors-que-l-air-reste-le-meme
 categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi le souffle manque en altitude.
-tags: [systeme-respiratoire, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  En altitude, l'air contient la même proportion d'oxygène, mais la pression baisse : il en
+  arrive moins dans les poumons. Le corps respire plus vite, puis s'acclimate peu à peu.
+tags: [systeme-respiratoire]
+sources:
+  - title: "Mal aigu des montagnes"
+    url: "https://fr.wikipedia.org/wiki/Mal_aigu_des_montagnes"
+    publisher: "Wikipédia"
+  - title: "Effects of high altitude on humans"
+    url: "https://en.wikipedia.org/wiki/Effects_of_high_altitude_on_humans"
+    publisher: "Wikipedia"
+  - title: "Altitude sickness"
+    url: "https://en.wikipedia.org/wiki/Altitude_sickness"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que change-t-il dans l'air en altitude ?"
+    options:
+      - "L'air contient beaucoup moins d'azote"
+      - "L'air devient plus lourd"
+      - "La pression baisse, donc il arrive moins d'oxygène dans les poumons"
+    answer: 3
+    explanation: >
+      En altitude, l'air contient la même proportion d'oxygène qu'au niveau de la mer, mais la
+      pression de l'air baisse : il arrive moins d'oxygène dans les poumons à chaque
+      respiration.
+  - question: "Que fait le corps pour compenser le manque d'oxygène ?"
+    options:
+      - "Il arrête de respirer"
+      - "Il respire plus vite et plus profondément"
+      - "Il mange davantage"
+    answer: 2
+    explanation: >
+      Pour compenser, le corps respire plus vite et plus profondément : c'est
+      l'hyperventilation, déclenchée par des capteurs de l'oxygène situés dans les artères du
+      cou.
+  - question: "Que fabrique le corps en plus grande quantité pour s'acclimater ?"
+    options:
+      - "Des globules rouges"
+      - "Des os"
+      - "Des ongles"
+    answer: 1
+    explanation: >
+      Avec le temps, le corps s'acclimate : il fabrique davantage de globules rouges, ouvre plus
+      de petits vaisseaux et transporte mieux l'oxygène.
+  - question: "Qu'appelle-t-on la zone de la mort ?"
+    options:
+      - "Une altitude où le corps ne peut plus s'acclimater"
+      - "Une zone sans neige"
+      - "Un refuge de montagne"
+    answer: 1
+    explanation: >
+      Dans la zone de la mort, à très haute altitude, le corps ne peut plus s'acclimater : un
+      long séjour sans oxygène supplémentaire abîme ses fonctions.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En altitude, l'air contient la même proportion d'oxygène, mais la pression baisse : il en arrive moins dans les poumons. Le corps respire plus vite, puis s'acclimate peu à peu.
+
+## Moins d'oxygène à chaque souffle
+
+En altitude, l'air contient la même proportion d'oxygène qu'au niveau de la mer, mais la pression de l'air baisse : il arrive moins d'oxygène dans les poumons à chaque respiration. Pour compenser, le corps respire plus vite et plus profondément : c'est l'hyperventilation, déclenchée par des capteurs de l'oxygène situés dans les artères du cou. Cette respiration rapide rend le sang trop alcalin, ce qui freine ensuite l'augmentation de la respiration ; les reins compensent au bout de plusieurs jours ou semaines.
+
+## S'habituer petit à petit
+
+Avec le temps, le corps s'acclimate : il fabrique davantage de globules rouges, ouvre plus de petits vaisseaux et transporte mieux l'oxygène. Monter progressivement, en laissant au corps le temps de s'habituer, réduit le risque de mal des montagnes. Dans la zone de la mort, à très haute altitude, le corps ne peut plus s'acclimater : un long séjour sans oxygène supplémentaire abîme ses fonctions.
+
+## Quand le corps ne suit pas
+
+Le mal aigu des montagnes est un malaise dû au manque d'oxygène en altitude : maux de tête, fatigue, nausées, vertiges et troubles du sommeil. Il apparaît surtout à haute altitude, plus souvent quand on monte vite, et ses signes se manifestent en général dans les premières heures après l'arrivée. Dans les cas graves, un gonflement du cerveau ou des poumons, un œdème, peut apparaître et devenir mortel sans prise en charge.
+
+## À retenir
+
+- En altitude, la proportion d'oxygène est la même, mais la pression de l'air baisse : il arrive moins d'oxygène dans les poumons.
+- Pour compenser, le corps respire plus vite et plus profondément : c'est l'hyperventilation, déclenchée par des capteurs de l'oxygène situés dans les artères du cou.
+- Avec le temps, le corps s'acclimate : il fabrique davantage de globules rouges, ouvre plus de petits vaisseaux et transporte mieux l'oxygène.
+- Le mal aigu des montagnes est un malaise dû au manque d'oxygène en altitude : maux de tête, fatigue, nausées, vertiges et troubles du sommeil.
+- Monter progressivement, en laissant au corps le temps de s'habituer, réduit le risque de mal des montagnes.
 
 ---
 type: article
-title: L'inflammation de bas grade, ce que l'on sait
-slug: l-inflammation-de-bas-grade-ce-que-l-on-sait
+title: Pourquoi parle-t-on d'inflammation de bas grade ?
+slug: pourquoi-parle-t-on-d-inflammation-de-bas-grade
 categoryPath: corps-humain-et-sante/physiologie/immunite
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'inflammation de bas grade, ce que l'on sait.
-tags: [immunite, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  L'inflammation est une réaction de défense. Quand elle devient chronique et discrète, on parle
+  d'inflammation de bas grade, repérée par des marqueurs sanguins comme la CRP.
+tags: [immunite]
+sources:
+  - title: "Inflammation"
+    url: "https://fr.wikipedia.org/wiki/Inflammation"
+    publisher: "Wikipédia"
+  - title: "Inflammation"
+    url: "https://en.wikipedia.org/wiki/Inflammation"
+    publisher: "Wikipedia"
+  - title: "C-reactive protein"
+    url: "https://en.wikipedia.org/wiki/C-reactive_protein"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que l'inflammation ?"
+    options:
+      - "La réaction du système immunitaire face à une agression"
+      - "Une maladie des os"
+      - "Un type de vitamine"
+    answer: 1
+    explanation: >
+      L'inflammation est la réaction du système immunitaire face à une agression.
+  - question: "Quelle protéine du sang sert de marqueur d'inflammation ?"
+    options:
+      - "L'hémoglobine seule"
+      - "L'insuline"
+      - "La protéine C-réactive, ou CRP"
+    answer: 3
+    explanation: >
+      La CRP est une protéine fabriquée par le foie quand il y a de l'inflammation ; son taux
+      peut monter très fortement lors d'une infection.
+  - question: "Une CRP élevée indique-t-elle toujours la cause de l'inflammation ?"
+    options:
+      - "Oui, toujours une infection"
+      - "Oui, toujours le stress"
+      - "Non, une infection, une blessure ou une maladie peuvent la faire monter"
+    answer: 3
+    explanation: >
+      Une CRP élevée indique une inflammation, mais pas sa cause : une infection, une blessure
+      ou une maladie chronique peuvent la faire monter.
+  - question: "Quels facteurs favorisent l'inflammation chronique ?"
+    options:
+      - "Boire de l'eau"
+      - "Dormir dans le noir"
+      - "L'obésité, le tabac, le stress et une alimentation déséquilibrée"
+    answer: 3
+    explanation: >
+      Plusieurs facteurs favorisent l'inflammation chronique : l'obésité, le tabac, le stress,
+      une alimentation déséquilibrée et la sédentarité.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'inflammation est une réaction de défense. Quand elle devient chronique et discrète, on parle d'inflammation de bas grade, repérée par des marqueurs sanguins comme la CRP.
+
+## L'inflammation, une défense
+
+L'inflammation est la réaction du système immunitaire face à une agression. L'inflammation aiguë est une réaction courte et utile à une blessure ou à une infection ; ses signes classiques sont la rougeur, la chaleur, le gonflement, la douleur et la perte de fonction. L'inflammation chronique dure longtemps et fait intervenir d'autres cellules immunitaires, surtout des macrophages et des lymphocytes.
+
+## Le bas grade et ses marqueurs
+
+L'inflammation de bas grade est une inflammation chronique faible, que l'on repère par des marqueurs dans le sang, comme la protéine C-réactive, ou CRP. La CRP est une protéine fabriquée par le foie quand il y a de l'inflammation ; son taux peut monter très fortement lors d'une infection. Une CRP élevée indique une inflammation, mais pas sa cause : une infection, une blessure ou une maladie chronique peuvent la faire monter. Un taux de base élevé de CRP est associé à un risque plus grand de diabète, d'hypertension et de maladie cardiovasculaire, mais la CRP n'est pas recommandée comme test de dépistage chez les adultes sans symptômes à risque moyen.
+
+## Causes et liens avec les maladies
+
+Plusieurs facteurs favorisent l'inflammation chronique : l'obésité, le tabac, le stress, une alimentation déséquilibrée et la sédentarité. L'inflammation chronique est associée à des maladies comme les maladies cardiovasculaires, le diabète, l'obésité, les maladies auto-immunes et les troubles de l'humeur.
+
+## À retenir
+
+- L'inflammation est la réaction du système immunitaire face à une agression.
+- L'inflammation aiguë est une réaction courte et utile : rougeur, chaleur, gonflement et douleur.
+- L'inflammation de bas grade est une inflammation chronique faible, que l'on repère par des marqueurs dans le sang, comme la protéine C-réactive, ou CRP.
+- La CRP est une protéine fabriquée par le foie quand il y a de l'inflammation ; son taux peut monter très fortement lors d'une infection.
+- Plusieurs facteurs favorisent l'inflammation chronique : l'obésité, le tabac, le stress, une alimentation déséquilibrée et la sédentarité.
 
 ---
 type: article
-title: La mise en place du microbiote dès la naissance
-slug: la-mise-en-place-du-microbiote-des-la-naissance
+title: Comment le microbiote d'un bébé se met-il en place après la naissance ?
+slug: comment-le-microbiote-d-un-bebe-se-met-il-en-place-apres-la-naissance
 categoryPath: corps-humain-et-sante/physiologie/microbiote
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la mise en place du microbiote dès la naissance.
-tags: [microbiote, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Le microbiote intestinal commence à se former à l'accouchement. Le lait, les premiers repas et
+  l'environnement le façonnent pendant les premières années de la vie.
+tags: [microbiote]
+sources:
+  - title: "Microbiote intestinal humain"
+    url: "https://fr.wikipedia.org/wiki/Microbiote_intestinal_humain"
+    publisher: "Wikipédia"
+  - title: "Gut microbiota"
+    url: "https://en.wikipedia.org/wiki/Gut_microbiota"
+    publisher: "Wikipedia"
+  - title: "Microbiote intestinal (flore intestinale)"
+    url: "https://www.inserm.fr/dossier/microbiote-intestinal-flore-intestinale/"
+    publisher: "Inserm"
+  - title: "Human milk oligosaccharide"
+    url: "https://en.wikipedia.org/wiki/Human_milk_oligosaccharide"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quand le microbiote intestinal commence-t-il à se former ?"
+    options:
+      - "À l'âge de 20 ans"
+      - "Après le premier anniversaire seulement"
+      - "À l'accouchement"
+    answer: 3
+    explanation: >
+      La colonisation commence à l'accouchement : le bébé reçoit des bactéries de la flore
+      vaginale s'il naît par voie basse, ou de l'environnement s'il naît par césarienne.
+  - question: "Que contient le lait maternel qui nourrit des bactéries utiles ?"
+    options:
+      - "Des cailloux"
+      - "Des sucres appelés oligosaccharides"
+      - "Du sel de mer"
+    answer: 2
+    explanation: >
+      Le lait maternel contient des sucres, les oligosaccharides, que le bébé ne digère pas mais
+      qui nourrissent des bactéries utiles, les bifidobactéries.
+  - question: "Que fait le système immunitaire de l'intestin pendant cette période ?"
+    options:
+      - "Il détruit toutes les bactéries"
+      - "Il s'arrête"
+      - "Il apprend à tolérer les bactéries de la flore"
+    answer: 3
+    explanation: >
+      Pendant cette période, le système immunitaire de l'intestin apprend à tolérer les
+      bactéries de la flore, mais pas les autres micro-organismes.
+  - question: "Qu'est-ce qui peut modifier le microbiote ?"
+    options:
+      - "Les antibiotiques, l'alimentation et l'environnement"
+      - "La couleur des chaussettes"
+      - "La taille de la chambre"
+    answer: 1
+    explanation: >
+      Les antibiotiques, l'alimentation, l'environnement et l'hygiène peuvent modifier la
+      composition du microbiote.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le microbiote intestinal commence à se former à l'accouchement. Le lait, les premiers repas et l'environnement le façonnent pendant les premières années de la vie.
+
+## Des bactéries dès l'accouchement
+
+Le microbiote intestinal est l'ensemble des micro-organismes qui vivent dans le tube digestif, surtout des bactéries. La colonisation commence à l'accouchement : le bébé reçoit des bactéries de la flore vaginale s'il naît par voie basse, ou de l'environnement s'il naît par césarienne. Les premières bactéries, qui ont besoin d'oxygène, s'installent d'abord ; en consommant l'oxygène, elles permettent ensuite l'installation de bactéries qui vivent sans oxygène.
+
+## Le rôle du lait et des premiers repas
+
+Le lait maternel contient des sucres, les oligosaccharides, que le bébé ne digère pas mais qui nourrissent des bactéries utiles, les bifidobactéries. Quand l'alimentation se diversifie, au moment du sevrage, le microbiote du bébé devient rapidement aussi complexe que celui d'un adulte.
+
+## Une mise en place qui dure
+
+Le microbiote se stabilise progressivement pendant les premières années de la vie, en se rapprochant de celui d'un adulte. Pendant cette période, le système immunitaire de l'intestin apprend à tolérer les bactéries de la flore, mais pas les autres micro-organismes. Les antibiotiques, l'alimentation, l'environnement et l'hygiène peuvent modifier la composition du microbiote. Le microbiote aide à digérer les fibres, fabrique certaines vitamines et protège la paroi de l'intestin contre des agents pathogènes.
+
+## À retenir
+
+- Le microbiote intestinal est l'ensemble des micro-organismes qui vivent dans le tube digestif, surtout des bactéries.
+- La colonisation commence à l'accouchement, avec la flore vaginale ou l'environnement selon le mode de naissance.
+- Le lait maternel contient des sucres, les oligosaccharides, que le bébé ne digère pas mais qui nourrissent des bactéries utiles, les bifidobactéries.
+- Le microbiote se stabilise progressivement pendant les premières années de la vie, en se rapprochant de celui d'un adulte.
+- Pendant cette période, le système immunitaire de l'intestin apprend à tolérer les bactéries de la flore, mais pas les autres micro-organismes.
 
 ---
 type: article
@@ -13830,33 +14205,180 @@ status: planned
 
 ---
 type: article
-title: Pourquoi un bébé a plus d'os qu'un adulte
-slug: pourquoi-un-bebe-a-plus-d-os-qu-un-adulte
+title: Pourquoi un bébé a-t-il plus d'os qu'un adulte ?
+slug: pourquoi-un-bebe-a-t-il-plus-d-os-qu-un-adulte
 categoryPath: corps-humain-et-sante/anatomie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi un bébé a plus d'os qu'un adulte.
-tags: [anatomie, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  Un bébé naît avec environ 300 os, un adulte en a 206. La différence vient de la soudure de
+  nombreux os pendant la croissance, et du cartilage qui se transforme en os.
+tags: [anatomie]
+sources:
+  - title: "Squelette humain"
+    url: "https://fr.wikipedia.org/wiki/Squelette_humain"
+    publisher: "Wikipédia"
+  - title: "Human skeleton"
+    url: "https://en.wikipedia.org/wiki/Human_skeleton"
+    publisher: "Wikipedia"
+  - title: "Health Lesson: Learning About Bones"
+    url: "https://www.niams.nih.gov/health-topics/educational-resources/health-lesson-learning-about-bones"
+    publisher: "NIAMS, Instituts nationaux de la santé des États-Unis"
+  - title: "Your Bones (for Kids)"
+    url: "https://kidshealth.org/en/kids/bones.html"
+    publisher: "Nemours KidsHealth"
+quiz:
+  - question: "Combien d'os a un adulte ?"
+    options:
+      - "206"
+      - "50"
+      - "1 000"
+    answer: 1
+    explanation: >
+      Un adulte a 206 os.
+  - question: "Pourquoi un bébé a-t-il plus d'os qu'un adulte ?"
+    options:
+      - "Les os disparaissent avec l'âge"
+      - "Beaucoup d'os se soudent entre eux pendant la croissance"
+      - "Les bébés mangent plus de calcium"
+    answer: 2
+    explanation: >
+      La différence vient du fait que beaucoup d'os du bébé se soudent entre eux pendant la
+      croissance.
+  - question: "Avec quelle matière souple certains os du bébé sont-ils faits ?"
+    options:
+      - "Du caoutchouc"
+      - "Du cartilage"
+      - "Du verre"
+    answer: 2
+    explanation: >
+      Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et
+      d'autres en contiennent en partie.
+  - question: "Quel os se forme par la soudure de plusieurs vertèbres du bas du dos ?"
+    options:
+      - "Le sacrum"
+      - "Le fémur"
+      - "La clavicule"
+    answer: 1
+    explanation: >
+      Par exemple, plusieurs vertèbres du bas du dos se soudent pour former un seul os, le
+      sacrum, et certains os du crâne et du bassin se soudent aussi.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un bébé naît avec environ 300 os, un adulte en a 206. La différence vient de la soudure de nombreux os pendant la croissance, et du cartilage qui se transforme en os.
+
+## Plus d'os à la naissance
+
+Un bébé naît avec environ 300 os. Un adulte a 206 os. Le nombre exact dépend de la façon de compter les os, car certains se soudent ou varient d'une personne à l'autre.
+
+## Des os qui se soudent
+
+La différence vient du fait que beaucoup d'os du bébé se soudent entre eux pendant la croissance. Par exemple, plusieurs vertèbres du bas du dos se soudent pour former un seul os, le sacrum, et certains os du crâne et du bassin se soudent aussi.
+
+## Du cartilage à l'os
+
+Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et d'autres en contiennent en partie. Pendant l'enfance, le cartilage grandit et est remplacé peu à peu par de l'os, grâce au calcium. La croissance des os se termine, et la masse osseuse atteint son maximum, au début de l'âge adulte.
+
+## Un squelette complet
+
+Le squelette comprend aussi des ligaments, du cartilage et des articulations, qui l'aident à soutenir le corps, à bouger et à protéger les organes.
+
+## À retenir
+
+- Un bébé naît avec environ 300 os.
+- Un adulte a 206 os.
+- La différence vient du fait que beaucoup d'os du bébé se soudent entre eux pendant la croissance.
+- Chez le bébé, certains os sont entièrement faits de cartilage, une matière souple, et d'autres en contiennent en partie.
+- La croissance des os se termine, et la masse osseuse atteint son maximum, au début de l'âge adulte.
 
 ---
 type: article
-title: Le manque de sommeil et l'activité des gènes de l'immunité
-slug: le-manque-de-sommeil-et-l-activite-des-genes-de-l-immunite
+title: Pourquoi manquer de sommeil affaiblit-il les défenses du corps ?
+slug: pourquoi-manquer-de-sommeil-affaiblit-il-les-defenses-du-corps
 categoryPath: corps-humain-et-sante/physiologie/sommeil
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le manque de sommeil et l'activité des gènes de l'immunité.
-tags: [sommeil, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Le manque de sommeil altère le système immunitaire : il favorise l'inflammation, augmente le
+  risque d'infection et change l'activité de gènes. Les mécanismes précis restent mal connus.
+tags: [sommeil]
+sources:
+  - title: "Sleep deprivation"
+    url: "https://en.wikipedia.org/wiki/Sleep_deprivation"
+    publisher: "Wikipedia"
+  - title: "Sleep"
+    url: "https://en.wikipedia.org/wiki/Sleep"
+    publisher: "Wikipedia"
+  - title: "Sommeil"
+    url: "https://fr.wikipedia.org/wiki/Sommeil"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait le manque de sommeil au système immunitaire ?"
+    options:
+      - "Il le renforce toujours"
+      - "Il altère son fonctionnement"
+      - "Il le supprime complètement"
+    answer: 2
+    explanation: >
+      Le manque de sommeil altère la fonction immunitaire : le sommeil aide le corps à restaurer
+      ses défenses et à les faire fonctionner.
+  - question: "Que produisent davantage les personnes qui manquent de sommeil ?"
+    options:
+      - "Des os"
+      - "Des cheveux"
+      - "Des cytokines inflammatoires"
+    answer: 3
+    explanation: >
+      Le manque de sommeil augmente la production de cytokines inflammatoires, des messagers
+      chimiques du système immunitaire, ce qui est lié à une inflammation dans tout le corps.
+  - question: "Que modifie le manque de sommeil, selon les études ?"
+    options:
+      - "La couleur des yeux"
+      - "La taille adulte"
+      - "L'expression de gènes liés au rythme du corps, au métabolisme et à l'immunité"
+    answer: 3
+    explanation: >
+      Le manque de sommeil modifie l'expression de gènes qui régulent les rythmes du corps, le
+      métabolisme et l'immunité.
+  - question: "Les mécanismes précis du lien entre sommeil et immunité sont-ils totalement compris ?"
+    options:
+      - "Oui, tout est connu"
+      - "On n'a jamais étudié la question"
+      - "Non, ils restent mal compris"
+    answer: 3
+    explanation: >
+      Les mécanismes précis par lesquels le sommeil renforce l'immunité sont encore mal compris.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le manque de sommeil altère le système immunitaire : il favorise l'inflammation, augmente le risque d'infection et change l'activité de gènes. Les mécanismes précis restent mal connus.
+
+## Dormir pour se défendre
+
+Le manque de sommeil altère la fonction immunitaire : le sommeil aide le corps à restaurer ses défenses et à les faire fonctionner. Dans une étude, les personnes qui dormaient mieux avaient davantage de lymphocytes T et B dans le sang, les principales cellules de défense. Le manque de sommeil augmente la production de cytokines inflammatoires, des messagers chimiques du système immunitaire, ce qui est lié à une inflammation dans tout le corps.
+
+## Infections et vaccins
+
+Les personnes qui dorment peu sont plus exposées aux infections, comme le rhume ou la grippe. Après un vaccin contre la grippe, des personnes qui dormaient mal ont produit nettement moins d'anticorps.
+
+## Des gènes qui changent
+
+Le manque de sommeil modifie l'expression de gènes qui régulent les rythmes du corps, le métabolisme et l'immunité. Les rythmes du corps sont réglés par une horloge interne qui possède ses propres gènes. Une nuit comprend plusieurs cycles de sommeil, avec du sommeil lent profond et du sommeil paradoxal.
+
+## Ce qu'on ignore encore
+
+Les mécanismes précis par lesquels le sommeil renforce l'immunité sont encore mal compris.
+
+## À retenir
+
+- Le manque de sommeil altère la fonction immunitaire : le sommeil aide le corps à restaurer ses défenses et à les faire fonctionner.
+- Le manque de sommeil augmente la production de cytokines inflammatoires, des messagers du système immunitaire.
+- Les personnes qui dorment peu sont plus exposées aux infections, comme le rhume ou la grippe.
+- Le manque de sommeil modifie l'expression de gènes qui régulent les rythmes du corps, le métabolisme et l'immunité.
+- Les mécanismes précis par lesquels le sommeil renforce l'immunité sont encore mal compris.
 
 ---
 type: article
@@ -13875,18 +14397,91 @@ status: planned
 
 ---
 type: article
-title: La sensation de chute à l'endormissement
-slug: la-sensation-de-chute-a-l-endormissement
+title: Pourquoi a-t-on parfois l'impression de tomber juste avant de s'endormir ?
+slug: pourquoi-a-t-on-parfois-l-impression-de-tomber-juste-avant-de-s-endormir
 categoryPath: corps-humain-et-sante/physiologie/sommeil
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la sensation de chute à l'endormissement.
-tags: [sommeil, veille-2026-09]
-priority: 0.79
-essentiel: false
-status: planned
+  Au moment de s'endormir, on sursaute parfois avec une sensation de chute : c'est une secousse
+  hypnique. Très courante et en général bénigne, elle a plusieurs explications possibles.
+tags: [sommeil]
+sources:
+  - title: "Hypnic jerk"
+    url: "https://en.wikipedia.org/wiki/Hypnic_jerk"
+    publisher: "Wikipedia"
+  - title: "Hypnagogia"
+    url: "https://en.wikipedia.org/wiki/Hypnagogia"
+    publisher: "Wikipedia"
+  - title: "Sommeil"
+    url: "https://fr.wikipedia.org/wiki/Sommeil"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment appelle-t-on le sursaut qui survient à l'endormissement ?"
+    options:
+      - "Une secousse hypnique"
+      - "Un éternuement"
+      - "Un hoquet"
+    answer: 1
+    explanation: >
+      Une secousse hypnique est une contraction brusque et involontaire des muscles qui se
+      produit au moment de s'endormir.
+  - question: "Quelle sensation l'accompagne souvent ?"
+    options:
+      - "Une sensation de chute dans le vide"
+      - "Une sensation de faim"
+      - "Une sensation de froid"
+    answer: 1
+    explanation: >
+      Elle s'accompagne souvent d'une sensation de chute dans le vide, parfois avec un cœur qui
+      s'accélère, une respiration rapide et des sueurs.
+  - question: "Ces secousses sont-elles en général dangereuses ?"
+    options:
+      - "Oui, toujours graves"
+      - "Non, elles sont en général bénignes"
+      - "Seulement la nuit de Noël"
+    answer: 2
+    explanation: >
+      Elles sont en général bénignes et ne causent pas de dommage neurologique ; dans les cas
+      sévères, elles peuvent toutefois perturber le sommeil.
+  - question: "Quelle est l'une des hypothèses sur leur origine ?"
+    options:
+      - "Le corps prend le relâchement des muscles pour une chute"
+      - "Le cerveau s'éteint complètement"
+      - "Les yeux changent de couleur"
+    answer: 1
+    explanation: >
+      Selon une hypothèse, le corps prend le relâchement des muscles pour une chute et déclenche
+      un réflexe de protection.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au moment de s'endormir, on sursaute parfois avec une sensation de chute : c'est une secousse hypnique. Très courante et en général bénigne, elle a plusieurs explications possibles.
+
+## Le sursaut de l'endormissement
+
+Une secousse hypnique est une contraction brusque et involontaire des muscles qui se produit au moment de s'endormir. Elle s'accompagne souvent d'une sensation de chute dans le vide, parfois avec un cœur qui s'accélère, une respiration rapide et des sueurs. Ces secousses sont très courantes : la plupart des gens en ont déjà eu au moins une.
+
+## Au seuil du sommeil
+
+Elles surviennent pendant le passage de l'éveil au sommeil, une période appelée hypnagogie. Les sensations de l'endormissement sont surtout associées au premier stade du sommeil, une phase de somnolence. Cette transition s'accompagne parfois d'images, de sons ou de sensations : points lumineux, bruits, impression de flotter ou de tomber.
+
+## Deux hypothèses
+
+Selon une hypothèse, le corps prend le relâchement des muscles pour une chute et déclenche un réflexe de protection. Une autre hypothèse y voit un réflexe ancien qui aurait aidé nos ancêtres primates à se rattraper dans les arbres, mais les preuves sont limitées.
+
+## Facteurs et bénignité
+
+Des horaires de sommeil irréguliers, le stress, l'anxiété, les stimulants comme la caféine et le tabac, la fatigue et l'effort physique le soir semblent augmenter ces secousses. Elles sont en général bénignes et ne causent pas de dommage neurologique ; dans les cas sévères, elles peuvent toutefois perturber le sommeil.
+
+## À retenir
+
+- Une secousse hypnique est une contraction brusque et involontaire des muscles qui se produit au moment de s'endormir.
+- Elle s'accompagne souvent d'une sensation de chute dans le vide, parfois avec un cœur qui s'accélère, une respiration rapide et des sueurs.
+- Ces secousses sont très courantes : la plupart des gens en ont déjà eu au moins une.
+- Selon une hypothèse, le corps prend le relâchement des muscles pour une chute et déclenche un réflexe de protection.
+- Elles sont en général bénignes et ne causent pas de dommage neurologique ; dans les cas sévères, elles peuvent toutefois perturber le sommeil.
 
 ---
 type: article
@@ -13905,15 +14500,86 @@ status: planned
 
 ---
 type: article
-title: Le bâillement contagieux et l'empathie
-slug: le-baillement-contagieux-et-l-empathie
+title: Pourquoi le bâillement est-il contagieux, et est-ce un signe d'empathie ?
+slug: pourquoi-le-baillement-est-il-contagieux-et-est-ce-un-signe-d-empathie
 categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le bâillement contagieux et l'empathie.
-tags: [systeme-nerveux, veille-2026-09]
-priority: 0.78
-essentiel: false
-status: planned
+  Le bâillement est un réflexe commun à tous les vertébrés. Il se transmet d'une personne à
+  l'autre, davantage entre proches, mais le lien avec l'empathie reste débattu.
+tags: [systeme-nerveux]
+sources:
+  - title: "Bâillement"
+    url: "https://fr.wikipedia.org/wiki/B%C3%A2illement"
+    publisher: "Wikipédia"
+  - title: "Yawn"
+    url: "https://en.wikipedia.org/wiki/Yawn"
+    publisher: "Wikipedia"
+  - title: "Empathy"
+    url: "https://en.wikipedia.org/wiki/Empathy"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quels animaux bâillent ?"
+    options:
+      - "Seulement les humains"
+      - "Seulement les chiens"
+      - "Tous les vertébrés"
+    answer: 3
+    explanation: >
+      Tous les vertébrés bâillent : mammifères, oiseaux, reptiles et poissons.
+  - question: "Avec qui le bâillement est-il le plus contagieux ?"
+    options:
+      - "Les proches, comme la famille et les amis"
+      - "Les inconnus uniquement"
+      - "Personne"
+    answer: 1
+    explanation: >
+      La contagion est plus forte entre proches qu'entre inconnus : d'abord la famille, puis les
+      amis, puis les connaissances, enfin les inconnus.
+  - question: "Le lien entre bâillement contagieux et empathie est-il prouvé sans discussion ?"
+    options:
+      - "Oui, c'est certain"
+      - "Non, il reste débattu"
+      - "On ne l'a jamais étudié"
+    answer: 2
+    explanation: >
+      Le lien entre bâillement contagieux et empathie est débattu : certains chercheurs y voient
+      un signe d'empathie, d'autres jugent que les preuves ne suffisent pas.
+  - question: "Quelle est l'une des hypothèses sur l'utilité du bâillement ?"
+    options:
+      - "Faire grandir les dents"
+      - "Changer la couleur de la peau"
+      - "Refroidir le cerveau"
+    answer: 3
+    explanation: >
+      Selon une hypothèse, bâiller aide à refroidir le cerveau.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le bâillement est un réflexe commun à tous les vertébrés. Il se transmet d'une personne à l'autre, davantage entre proches, mais le lien avec l'empathie reste débattu.
+
+## Un réflexe universel
+
+Le bâillement est un réflexe : une longue inspiration, bouche grande ouverte, suivie d'une brève expiration. Un bâillement dure quelques secondes. Tous les vertébrés bâillent : mammifères, oiseaux, reptiles et poissons.
+
+## À quoi sert un bâillement ?
+
+Selon une hypothèse, bâiller aide à refroidir le cerveau. Une autre hypothèse le relie à la vigilance : bâiller aiderait à rester éveillé, surtout en groupe.
+
+## Une contagion entre proches
+
+Le bâillement est contagieux : voir ou entendre quelqu'un bâiller donne souvent envie de bâiller aussi. La contagion apparaît au cours de la petite enfance : les enfants très jeunes y sont peu sensibles. Elle existe aussi chez d'autres animaux, comme les chimpanzés, les chiens et les babouins gélada. La contagion est plus forte entre proches qu'entre inconnus : d'abord la famille, puis les amis, puis les connaissances, enfin les inconnus.
+
+## Et l'empathie ?
+
+L'empathie est la capacité de comprendre, de ressentir et de partager l'expérience d'une autre personne. Le lien entre bâillement contagieux et empathie est débattu : certains chercheurs y voient un signe d'empathie, d'autres jugent que les preuves ne suffisent pas. Des neurones miroirs, qui s'activent quand on agit et quand on observe une action, ont influencé la recherche sur l'empathie, mais leur rôle exact reste débattu.
+
+## À retenir
+
+- Le bâillement est un réflexe : une longue inspiration, bouche grande ouverte, suivie d'une brève expiration.
+- Tous les vertébrés bâillent : mammifères, oiseaux, reptiles et poissons.
+- Le bâillement est contagieux : voir ou entendre quelqu'un bâiller donne souvent envie de bâiller aussi.
+- La contagion est plus forte avec la famille et les amis qu'avec des inconnus.
+- Le lien entre bâillement contagieux et empathie est débattu parmi les chercheurs.
