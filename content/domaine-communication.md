@@ -11752,108 +11752,620 @@ status: planned
 
 ---
 type: article
-title: Comment vérifier l'origine d'une image trouvée en ligne
-slug: comment-verifier-l-origine-d-une-image-trouvee-en-ligne
+title: Comment retrouver d'où vient une image trouvée en ligne ?
+slug: comment-retrouver-d-ou-vient-une-image-trouvee-en-ligne
 categoryPath: communication-et-medias/information-et-verification/education-aux-medias
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment vérifier l'origine d'une image trouvée en ligne.
-tags: [education-aux-medias, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  La recherche d'image inversée permet de retrouver où une image apparaît ailleurs sur Internet.
+  Les métadonnées Exif donnent des indices, mais on peut les effacer ou les modifier.
+tags: [education-aux-medias]
+sources:
+  - title: "Reverse image search"
+    url: "https://en.wikipedia.org/wiki/Reverse_image_search"
+    publisher: "Wikipedia"
+  - title: "Exif"
+    url: "https://fr.wikipedia.org/wiki/Exif"
+    publisher: "Wikipédia"
+  - title: "Fact-checking"
+    url: "https://en.wikipedia.org/wiki/Fact-checking"
+    publisher: "Wikipedia"
+  - title: "Vérification des faits"
+    url: "https://fr.wikipedia.org/wiki/V%C3%A9rification_des_faits"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait la recherche d'image inversée ?"
+    options:
+      - "Elle cherche où l'image apparaît ailleurs"
+      - "Elle retourne l'image"
+      - "Elle efface l'image"
+    answer: 1
+    explanation: >
+      La recherche d'image inversée consiste à fournir une image à un outil, qui cherche ensuite
+      où elle apparaît ailleurs, au lieu de chercher avec des mots.
+  - question: "Que contiennent les métadonnées Exif d'une photo ?"
+    options:
+      - "Seulement le nom du photographe"
+      - "La date, l'appareil, les réglages, parfois la position GPS"
+      - "Le prix de la photo"
+    answer: 2
+    explanation: >
+      Exif est un format de métadonnées intégrées au fichier d'une image numérique : date et
+      heure de la prise de vue, appareil, réglages et parfois coordonnées GPS.
+  - question: "Les métadonnées Exif prouvent-elles l'origine d'une photo ?"
+    options:
+      - "Oui, toujours"
+      - "Non, on peut les modifier ou les effacer"
+      - "Seulement pour les portraits"
+    answer: 2
+    explanation: >
+      Ces métadonnées ne prouvent pas l'origine d'une photo : on peut les effacer ou les
+      modifier avec des outils, et certains logiciels les suppriment.
+  - question: "Quel outil permet une recherche d'image inversée ?"
+    options:
+      - "Un tableur"
+      - "TinEye"
+      - "Le Bluetooth"
+    answer: 2
+    explanation: >
+      Parmi les outils connus figurent Google Images, relié à Google Lens, Yandex, TinEye et
+      Bing.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La recherche d'image inversée permet de retrouver où une image apparaît ailleurs sur Internet. Les métadonnées Exif donnent des indices, mais on peut les effacer ou les modifier.
+
+## Chercher avec une image
+
+La recherche d'image inversée consiste à fournir une image à un outil, qui cherche ensuite où elle apparaît ailleurs, au lieu de chercher avec des mots. L'outil analyse les couleurs, les formes et les textures de l'image, puis en crée une empreinte numérique pour la comparer à sa base de données. Parmi les outils connus figurent Google Images, relié à Google Lens, Yandex, TinEye et Bing.
+
+## À quoi ça sert
+
+On s'en sert pour retrouver la source d'origine d'une image, une version plus grande, les endroits où elle apparaît et parfois son auteur. Cette recherche fait partie des méthodes des vérificateurs de faits, avec la lecture latérale, qui consiste à consulter d'autres sources, et les services d'archives du web. Vérifier une information, c'est repérer l'affirmation douteuse, chercher la source primaire, consulter des experts et comparer avec des données fiables.
+
+## Les métadonnées, un indice fragile
+
+Exif est un format de métadonnées intégrées au fichier d'une image numérique : date et heure de la prise de vue, appareil, réglages et parfois coordonnées GPS. Ces métadonnées ne prouvent pas l'origine d'une photo : on peut les effacer ou les modifier avec des outils, et certains logiciels les suppriment.
+
+## À retenir
+
+- La recherche d'image inversée fournit une image à un outil, qui cherche où elle apparaît ailleurs sur Internet.
+- On s'en sert pour retrouver la source d'origine d'une image, une version plus grande, les endroits où elle apparaît et parfois son auteur.
+- Les vérificateurs de faits combinent recherche d'image inversée, lecture latérale et services d'archives du web.
+- Les métadonnées Exif indiquent la date de prise de vue, l'appareil, les réglages et parfois la position GPS.
+- Ces métadonnées ne prouvent pas l'origine d'une photo : on peut les effacer ou les modifier avec des outils, et certains logiciels les suppriment.
 
 ---
 type: article
-title: La vérification des faits, la méthode des journalistes
-slug: la-verification-des-faits-la-methode-des-journalistes
+title: Comment les journalistes vérifient-ils une information avant de la publier ?
+slug: comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier
 categoryPath: communication-et-medias/information-et-verification/journalisme
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la vérification des faits, la méthode des journalistes.
-tags: [journalisme, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  La vérification des faits contrôle qu'une affirmation est exacte, avant ou après sa
+  publication. Les vérificateurs cherchent la source première et consultent des experts.
+tags: [journalisme]
+sources:
+  - title: "Vérification des faits"
+    url: "https://fr.wikipedia.org/wiki/V%C3%A9rification_des_faits"
+    publisher: "Wikipédia"
+  - title: "Fact-checking"
+    url: "https://en.wikipedia.org/wiki/Fact-checking"
+    publisher: "Wikipedia"
+  - title: "International Fact-Checking Network"
+    url: "https://en.wikipedia.org/wiki/International_Fact-Checking_Network"
+    publisher: "Wikipedia"
+  - title: "International Fact-Checking Network"
+    url: "https://www.poynter.org/ifcn/"
+    publisher: "Poynter Institute"
+quiz:
+  - question: "Que fait un vérificateur de faits avec une affirmation douteuse ?"
+    options:
+      - "Il cherche la source primaire et consulte des experts"
+      - "Il la recopie"
+      - "Il la supprime sans vérifier"
+    answer: 1
+    explanation: >
+      Les vérificateurs repèrent l'affirmation douteuse, cherchent la source primaire,
+      consultent des experts et comparent avec des bases de données et des statistiques
+      officielles.
+  - question: "Qu'est-ce que la lecture latérale ?"
+    options:
+      - "Lire un texte à l'envers"
+      - "Consulter plusieurs autres sources pour vérifier vite"
+      - "Lire seulement le titre"
+    answer: 2
+    explanation: >
+      La lecture latérale consiste à consulter plusieurs autres sources pour vérifier vite une
+      information.
+  - question: "Quel média français a la rubrique Les Décodeurs ?"
+    options:
+      - "Le Monde"
+      - "Le Petit Journal"
+      - "La Gazette de Nantes"
+    answer: 1
+    explanation: >
+      En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération.
+  - question: "La vérification des faits convainc-t-elle toujours tout le monde ?"
+    options:
+      - "Oui, toujours"
+      - "Seulement les enfants"
+      - "Non, elle est moins efficace sur les publics très polarisés"
+    answer: 3
+    explanation: >
+      La vérification des faits a une efficacité limitée sur les publics très polarisés, et elle
+      peut parfois répéter une fausse information en la corrigeant.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La vérification des faits contrôle qu'une affirmation est exacte, avant ou après sa publication. Les vérificateurs cherchent la source première et consultent des experts.
+
+## Contrôler avant de publier
+
+La vérification des faits, ou fact-checking, consiste à contrôler la véracité des faits et l'exactitude des chiffres présentés dans les médias et par les personnalités publiques. Elle peut avoir lieu avant la publication, en interne dans la rédaction, ou après, par des organisations extérieures. Les vérificateurs repèrent l'affirmation douteuse, cherchent la source primaire, consultent des experts et comparent avec des bases de données et des statistiques officielles.
+
+## Des gestes précis
+
+La lecture latérale consiste à consulter plusieurs autres sources pour vérifier vite une information. Ils utilisent aussi la recherche d'image inversée, des services d'archives du web et des outils pour étudier les domaines et les réseaux sociaux.
+
+## Qui vérifie ?
+
+En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération. L'International Fact-Checking Network, hébergé par l'institut Poynter, publie un code de principes que les organisations de vérification s'engagent à respecter.
+
+## Des limites
+
+La vérification des faits a une efficacité limitée sur les publics très polarisés, et elle peut parfois répéter une fausse information en la corrigeant.
+
+## À retenir
+
+- La vérification des faits contrôle la véracité des faits et l'exactitude des chiffres présentés dans les médias.
+- Les vérificateurs repèrent l'affirmation douteuse, cherchent la source primaire et consultent des experts.
+- La lecture latérale consiste à consulter plusieurs autres sources pour vérifier vite une information.
+- En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Libération.
+- La vérification des faits a une efficacité limitée sur les publics très polarisés.
 
 ---
 type: article
-title: Les algorithmes de recommandation et le fil d'actualité
-slug: les-algorithmes-de-recommandation-et-le-fil-d-actualite
+title: Pourquoi votre fil d'actualité ne ressemble-t-il pas à celui d'un ami ?
+slug: pourquoi-votre-fil-d-actualite-ne-ressemble-t-il-pas-a-celui-d-un-ami
 categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les algorithmes de recommandation et le fil d'actualité.
-tags: [plateformes-et-moderation, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Un système de recommandation trie les contenus pour montrer à chacun ce qui a le plus de
+  chances de lui plaire. Il s'appuie sur des signaux comme l'historique et le temps passé.
+tags: [plateformes-et-moderation]
+sources:
+  - title: "Système de recommandation"
+    url: "https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_recommandation"
+    publisher: "Wikipédia"
+  - title: "Recommender system"
+    url: "https://en.wikipedia.org/wiki/Recommender_system"
+    publisher: "Wikipedia"
+  - title: "How YouTube recommendations work"
+    url: "https://www.youtube.com/howyoutubeworks/product-features/recommendations/"
+    publisher: "YouTube"
+  - title: "The Digital Services Act package"
+    url: "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"
+    publisher: "Commission européenne"
+quiz:
+  - question: "À quoi sert un système de recommandation ?"
+    options:
+      - "À montrer à chacun les contenus les plus susceptibles de lui plaire"
+      - "À supprimer les vidéos"
+      - "À mesurer la vitesse d'Internet"
+    answer: 1
+    explanation: >
+      Un système de recommandation est un outil qui trie et classe des contenus pour montrer à
+      chaque utilisateur ceux qui ont le plus de chances de l'intéresser.
+  - question: "Sur quelle idée repose le filtrage collaboratif ?"
+    options:
+      - "On ne propose jamais rien de nouveau"
+      - "Tout le monde reçoit la même chose"
+      - "Ce que des personnes qui nous ressemblent ont aimé peut nous plaire"
+    answer: 3
+    explanation: >
+      Le filtrage collaboratif repose sur une idée simple : si deux personnes aiment les mêmes
+      choses, ce que l'une apprécie a de bonnes chances de plaire aussi à l'autre.
+  - question: "Que désigne la bulle de filtres ?"
+    options:
+      - "Une publicité en forme de bulle"
+      - "Un filtre photo"
+      - "Voir surtout des contenus proches de ses goûts"
+    answer: 3
+    explanation: >
+      Les systèmes de recommandation sont critiqués pour les bulles de filtres, où l'on voit
+      surtout des contenus proches de ses goûts, et pour leurs biais.
+  - question: "Que doivent proposer les très grandes plateformes européennes ?"
+    options:
+      - "Un fil sans aucune image"
+      - "Un fil réservé aux adultes"
+      - "Un fil d'actualité non personnalisé"
+    answer: 3
+    explanation: >
+      Le règlement européen sur les services numériques oblige les très grandes plateformes à
+      proposer un fil d'actualité qui n'est pas personnalisé.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un système de recommandation trie les contenus pour montrer à chacun ce qui a le plus de chances de lui plaire. Il s'appuie sur des signaux comme l'historique et le temps passé.
+
+## Trier pour vous
+
+Un système de recommandation est un outil qui trie et classe des contenus pour montrer à chaque utilisateur ceux qui ont le plus de chances de l'intéresser. Le filtrage collaboratif repose sur une idée simple : si deux personnes aiment les mêmes choses, ce que l'une apprécie a de bonnes chances de plaire aussi à l'autre. Le filtrage par contenu propose des éléments proches de ceux que l'utilisateur a déjà aimés, d'après leurs caractéristiques. La plupart des systèmes modernes combinent les deux approches.
+
+## Ce que le système observe
+
+Ils utilisent des notes, l'historique de navigation et d'achats, les clics et le temps passé devant un contenu, parfois sans que l'utilisateur en soit conscient. Sur YouTube, le comportement de visionnage des utilisateurs compte parmi les signaux utilisés pour les recommandations. Un nouvel utilisateur pose problème : sans historique, le système sait mal quoi lui proposer, c'est le problème du démarrage à froid.
+
+## Des critiques et des règles
+
+Les systèmes de recommandation sont critiqués pour les bulles de filtres, où l'on voit surtout des contenus proches de ses goûts, et pour leurs biais. Le règlement européen sur les services numériques oblige les très grandes plateformes à proposer un fil d'actualité qui n'est pas personnalisé.
+
+## À retenir
+
+- Un système de recommandation trie des contenus pour montrer à chacun ceux qui ont le plus de chances de l'intéresser.
+- Le filtrage collaboratif propose à une personne ce qu'ont aimé d'autres personnes qui lui ressemblent.
+- Les systèmes utilisent les notes, les clics, l'historique et le temps passé, parfois sans que l'utilisateur en soit conscient.
+- Les systèmes de recommandation sont critiqués pour les bulles de filtres, où l'on voit surtout des contenus proches de ses goûts, et pour leurs biais.
+- Le règlement européen sur les services numériques oblige les très grandes plateformes à proposer un fil d'actualité qui n'est pas personnalisé.
 
 ---
 type: article
-title: Les débuts de la radio et de la TSF
-slug: les-debuts-de-la-radio-et-de-la-tsf
+title: Comment la TSF a-t-elle permis d'envoyer des messages sans fil ?
+slug: comment-la-tsf-a-t-elle-permis-d-envoyer-des-messages-sans-fil
 categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les débuts de la radio et de la TSF.
-tags: [radio-et-television, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  La télégraphie sans fil envoie des messages en code Morse par ondes électromagnétiques. Avec
+  Marconi, elle a traversé l'Atlantique avant de donner naissance à la radio pour tous.
+tags: [radio-et-television]
+sources:
+  - title: "Histoire de la radio"
+    url: "https://fr.wikipedia.org/wiki/Histoire_de_la_radio"
+    publisher: "Wikipédia"
+  - title: "History of radio"
+    url: "https://en.wikipedia.org/wiki/History_of_radio"
+    publisher: "Wikipedia"
+  - title: "Télégraphie sans fil"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9graphie_sans_fil"
+    publisher: "Wikipédia"
+  - title: "Guglielmo Marconi"
+    url: "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment les messages de la TSF sont-ils codés ?"
+    options:
+      - "En chansons"
+      - "En images"
+      - "En code Morse"
+    answer: 3
+    explanation: >
+      Les messages sont envoyés en code Morse, par des signaux courts et longs ; le récepteur
+      utilise un détecteur inventé par Édouard Branly, le cohéreur.
+  - question: "Qui a inventé le cohéreur, détecteur d'ondes utilisé en TSF ?"
+    options:
+      - "Thomas Edison"
+      - "Édouard Branly"
+      - "Louis Pasteur"
+    answer: 2
+    explanation: >
+      Les messages sont envoyés en code Morse, par des signaux courts et longs ; le récepteur
+      utilise un détecteur inventé par Édouard Branly, le cohéreur.
+  - question: "Quelle lettre Marconi a-t-il entendue à Terre-Neuve ?"
+    options:
+      - "La lettre Z"
+      - "La lettre A"
+      - "La lettre S"
+    answer: 3
+    explanation: >
+      Marconi a réussi une liaison transatlantique : la lettre S, en code Morse, envoyée de
+      Cornouailles a été entendue à Terre-Neuve.
+  - question: "Quel signal s'est imposé après le naufrage du Titanic ?"
+    options:
+      - "Le signal SOS"
+      - "Le signal rouge"
+      - "Le signal du phare"
+    answer: 1
+    explanation: >
+      La TSF a aidé aux secours en mer, pour les passagers du Republic puis du Titanic ; après
+      le Titanic, l'écoute permanente et le signal SOS se sont imposés.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La télégraphie sans fil envoie des messages en code Morse par ondes électromagnétiques. Avec Marconi, elle a traversé l'Atlantique avant de donner naissance à la radio pour tous.
+
+## Des ondes qui portent des messages
+
+La télégraphie sans fil, ou TSF, permet d'écrire à distance grâce à des ondes électromagnétiques, sans fil entre l'émetteur et le récepteur. Les messages sont envoyés en code Morse, par des signaux courts et longs ; le récepteur utilise un détecteur inventé par Édouard Branly, le cohéreur. Heinrich Hertz a montré par l'expérience l'existence des ondes électromagnétiques, que l'on a appelées ensuite ondes hertziennes.
+
+## Marconi et l'Atlantique
+
+Guglielmo Marconi a fait ses premières expériences de radio dans le grenier de la villa Griffone, en Italie ; en relevant l'antenne et en reliant l'émetteur à la terre, il a pu transmettre plus loin. À Londres, Marconi a obtenu un brevet britannique pour un système de communication par ondes radio, le premier du genre. Marconi a réussi une liaison transatlantique : la lettre S, en code Morse, envoyée de Cornouailles a été entendue à Terre-Neuve.
+
+## La TSF en France et en mer
+
+En France, Eugène Ducretet a établi la première liaison radio entre la tour Eiffel et le Panthéon. La tour Eiffel a émis des signaux horaires, des bulletins météo et des radiotélégrammes. La TSF a aidé aux secours en mer, pour les passagers du Republic puis du Titanic ; après le Titanic, l'écoute permanente et le signal SOS se sont imposés.
+
+## De la TSF à la radio pour tous
+
+Reginald Fessenden a réussi une des premières transmissions de sons par radio, avant la naissance de la radiodiffusion. La station KDKA de Pittsburgh, première station commerciale américaine autorisée, a fait ses débuts en diffusant les résultats d'une élection présidentielle. Les radios à transistors ont rendu l'écoute portable accessible à tous.
+
+## À retenir
+
+- La télégraphie sans fil, ou TSF, permet d'écrire à distance grâce à des ondes électromagnétiques, sans fil entre l'émetteur et le récepteur.
+- Heinrich Hertz a montré par l'expérience l'existence des ondes électromagnétiques, que l'on a appelées ensuite ondes hertziennes.
+- Marconi a réussi une liaison transatlantique : la lettre S, en code Morse, envoyée de Cornouailles a été entendue à Terre-Neuve.
+- La TSF a aidé aux secours en mer ; après le Titanic, l'écoute permanente et le signal SOS se sont imposés.
+- Les radios à transistors ont rendu l'écoute portable accessible à tous.
 
 ---
 type: article
-title: De la 2G à la 5G, ce qui change à chaque génération
-slug: de-la-2g-a-la-5g-ce-qui-change-a-chaque-generation
+title: Que change chaque génération de réseau mobile, de la 2G à la 5G ?
+slug: que-change-chaque-generation-de-reseau-mobile-de-la-2g-a-la-5g
 categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : de la 2G à la 5G, ce qui change à chaque génération.
-tags: [reseaux-mobiles, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Chaque génération de réseau mobile a apporté une nouveauté, de la voix au web mobile. La 5G
+  ajoute plus de débit, moins de délai et plus d'appareils connectés.
+tags: [reseaux-mobiles]
+sources:
+  - title: "5G"
+    url: "https://fr.wikipedia.org/wiki/5G"
+    publisher: "Wikipédia"
+  - title: "5G"
+    url: "https://en.wikipedia.org/wiki/5G"
+    publisher: "Wikipedia"
+  - title: "5G - Fifth generation of mobile technologies"
+    url: "https://www.itu.int/en/mediacentre/backgrounders/Pages/5G-fifth-generation-of-mobile-technologies.aspx"
+    publisher: "Union internationale des télécommunications"
+quiz:
+  - question: "Qu'a apporté la 2G par rapport à la 1G ?"
+    options:
+      - "La télévision"
+      - "Le numérique et les SMS"
+      - "Le GPS"
+    answer: 2
+    explanation: >
+      La 2G est passée au numérique et a apporté les SMS.
+  - question: "Qu'a ouvert la 3G sur les téléphones ?"
+    options:
+      - "L'accès au web"
+      - "La radio FM"
+      - "Le minitel"
+    answer: 1
+    explanation: >
+      La 3G a ouvert l'accès au web sur mobile.
+  - question: "Que désigne la latence d'un réseau ?"
+    options:
+      - "Le prix de l'abonnement"
+      - "La taille du téléphone"
+      - "Le délai de réponse"
+    answer: 3
+    explanation: >
+      Son délai de réponse, la latence, est beaucoup plus court que celui de la 4G.
+  - question: "Quelle organisation gère les fréquences et élabore les normes mondiales de la 5G ?"
+    options:
+      - "La Poste"
+      - "L'Union internationale des télécommunications"
+      - "La FIFA"
+    answer: 2
+    explanation: >
+      L'Union internationale des télécommunications gère les fréquences radio et élabore les
+      normes mondiales de la 5G, appelée IMT-2020.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chaque génération de réseau mobile a apporté une nouveauté, de la voix au web mobile. La 5G ajoute plus de débit, moins de délai et plus d'appareils connectés.
+
+## Quatre générations avant la 5G
+
+La 1G transmettait la voix de façon analogique. La 2G est passée au numérique et a apporté les SMS. La 3G a ouvert l'accès au web sur mobile. La 4G a accéléré les connexions mobiles.
+
+## Ce que change la 5G
+
+La 5G est la cinquième génération de réseaux mobiles ; elle succède à la 4G avec des débits plus élevés, un délai de réponse plus court et plus d'appareils connectés en même temps. La 5G offre des débits théoriques bien supérieurs à ceux de la 4G. Son délai de réponse, la latence, est beaucoup plus court que celui de la 4G. Elle permet de connecter beaucoup plus d'appareils dans la même zone.
+
+## Fréquences et normes
+
+La 5G utilise des bandes basses et moyennes, et des ondes millimétriques qui offrent des débits de plusieurs gigabits mais avec une portée plus courte. L'organisme 3GPP a normalisé la 5G dans sa version appelée Release 15. L'Union internationale des télécommunications gère les fréquences radio et élabore les normes mondiales de la 5G, appelée IMT-2020.
+
+## Des premiers usages
+
+La 5G vise des usages comme les villes connectées, la réalité virtuelle, la médecine à distance et la communication entre machines dans l'industrie. La Corée du Sud a été la première à lancer un réseau 5G national entièrement commercial.
+
+## À retenir
+
+- La 2G est passée au numérique et a apporté les SMS.
+- La 4G a accéléré les connexions mobiles.
+- La 5G succède à la 4G avec plus de débit, un délai de réponse plus court et plus d'appareils connectés.
+- Son délai de réponse, la latence, est beaucoup plus court que celui de la 4G.
+- La 5G utilise des bandes basses, moyennes et des ondes millimétriques, très rapides mais de courte portée.
 
 ---
 type: article
-title: La télévision en couleur, de l'invention à la généralisation
-slug: la-television-en-couleur-de-l-invention-a-la-generalisation
+title: Comment la télévision est-elle passée du noir et blanc à la couleur ?
+slug: comment-la-television-est-elle-passee-du-noir-et-blanc-a-la-couleur
 categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la télévision en couleur, de l'invention à la généralisation.
-tags: [radio-et-television, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  La télévision en couleur mélange le rouge, le vert et le bleu, et reste compatible avec les
+  anciens postes. Trois normes se sont imposées : NTSC, SECAM et PAL.
+tags: [radio-et-television]
+sources:
+  - title: "Télévision en couleur"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_en_couleur"
+    publisher: "Wikipédia"
+  - title: "Color television"
+    url: "https://en.wikipedia.org/wiki/Color_television"
+    publisher: "Wikipedia"
+  - title: "La bataille de la couleur"
+    url: "https://www.ina.fr/ina-eclaire-actu/video/caf86014745/la-bataille-de-la-couleur"
+    publisher: "INA"
+quiz:
+  - question: "Quelles sont les trois couleurs primaires de la télévision ?"
+    options:
+      - "Le jaune, le noir et le blanc"
+      - "Le rouge, le vert et le bleu"
+      - "Le rose, le gris et le marron"
+    answer: 2
+    explanation: >
+      La télévision en couleur combine trois couleurs primaires, le rouge, le vert et le bleu,
+      pour reproduire toutes les teintes.
+  - question: "Pourquoi un ancien poste en noir et blanc pouvait-il afficher une émission en couleur ?"
+    options:
+      - "Le poste changeait de couleur"
+      - "Le signal de couleur est codé à part"
+      - "Il fallait un câble spécial"
+    answer: 2
+    explanation: >
+      Le signal de couleur est codé séparément de la luminosité, ce qui permet aux anciens
+      téléviseurs en noir et blanc d'afficher quand même l'image.
+  - question: "Quelle norme de télévision couleur est française ?"
+    options:
+      - "Le PAL"
+      - "Le NTSC"
+      - "Le SECAM"
+    answer: 3
+    explanation: >
+      Trois normes se sont imposées : le NTSC aux États-Unis, le SECAM en France et le PAL en
+      Allemagne, adopté ensuite par la plupart des pays européens.
+  - question: "Sur quelle chaîne la couleur est-elle d'abord diffusée en France ?"
+    options:
+      - "La première chaîne"
+      - "La troisième chaîne"
+      - "La deuxième chaîne"
+    answer: 3
+    explanation: >
+      En France, la couleur est d'abord diffusée sur la deuxième chaîne, avec le SECAM.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La télévision en couleur mélange le rouge, le vert et le bleu, et reste compatible avec les anciens postes. Trois normes se sont imposées : NTSC, SECAM et PAL.
+
+## Trois couleurs primaires
+
+La télévision en couleur combine trois couleurs primaires, le rouge, le vert et le bleu, pour reproduire toutes les teintes. Le signal de couleur est codé séparément de la luminosité, ce qui permet aux anciens téléviseurs en noir et blanc d'afficher quand même l'image. John Logie Baird a fait la première démonstration publique de télévision en couleur, avec des disques tournants munis de filtres colorés.
+
+## Une bataille de normes
+
+Aux États-Unis, deux systèmes se sont affrontés : un système séquentiel de la chaîne CBS, puis le NTSC, compatible avec le noir et blanc. Trois normes se sont imposées : le NTSC aux États-Unis, le SECAM en France et le PAL en Allemagne, adopté ensuite par la plupart des pays européens. Le SECAM a été mis au point par le Français Henri de France, qui a travaillé sur ce système pendant de longues années.
+
+## Une arrivée progressive
+
+En France, la couleur est d'abord diffusée sur la deuxième chaîne, avec le SECAM. L'adoption a été progressive : la couleur s'est généralisée peu à peu dans les pays industrialisés, malgré des téléviseurs plus chers que ceux en noir et blanc. Selon les pays, la couleur est arrivée à des dates très différentes.
+
+## À retenir
+
+- La télévision en couleur combine trois couleurs primaires, le rouge, le vert et le bleu, pour reproduire toutes les teintes.
+- Le signal de couleur est codé à part : les anciens postes en noir et blanc affichent quand même l'image.
+- Trois normes se sont imposées : le NTSC aux États-Unis, le SECAM en France et le PAL en Allemagne.
+- En France, la couleur est d'abord diffusée sur la deuxième chaîne, avec le SECAM.
+- La couleur s'est généralisée peu à peu, malgré des téléviseurs plus chers que ceux en noir et blanc.
 
 ---
 type: article
-title: Les réseaux sociaux comme source d'information des jeunes
-slug: les-reseaux-sociaux-comme-source-d-information-des-jeunes
+title: Pourquoi les jeunes s'informent-ils surtout sur les réseaux sociaux ?
+slug: pourquoi-les-jeunes-s-informent-ils-surtout-sur-les-reseaux-sociaux
 categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les réseaux sociaux comme source d'information des jeunes.
-tags: [reseaux-sociaux, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Les jeunes adultes passent davantage par les réseaux sociaux et la vidéo pour s'informer que
+  leurs aînés. YouTube et TikTok jouent un grand rôle, et les créateurs de contenu prennent de
+  la place.
+tags: [reseaux-sociaux]
+sources:
+  - title: "Digital News Report 2025, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Digital News Report 2024, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Digital News Report 2022, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Social Media and News Fact Sheet"
+    url: "https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/"
+    publisher: "Pew Research Center"
+quiz:
+  - question: "Qui s'informe le plus par les réseaux sociaux et la vidéo ?"
+    options:
+      - "Les jeunes adultes"
+      - "Les personnes de plus de 80 ans"
+      - "Personne"
+    answer: 1
+    explanation: >
+      Les jeunes adultes s'informent davantage par les réseaux sociaux et la vidéo que leurs
+      aînés, qui restent plus attachés aux sites et aux applications des médias.
+  - question: "Quelles plateformes vidéo prennent de plus en plus de place pour l'actualité ?"
+    options:
+      - "Le minitel et la radio"
+      - "YouTube et TikTok"
+      - "Le télégraphe"
+    answer: 2
+    explanation: >
+      Les plateformes vidéo comme YouTube et TikTok prennent de plus en plus de place dans
+      l'accès à l'actualité.
+  - question: "Qui prend souvent plus de place que les médias traditionnels sur TikTok et Instagram ?"
+    options:
+      - "Les imprimeurs"
+      - "Les créateurs de contenu"
+      - "Les libraires"
+    answer: 2
+    explanation: >
+      Sur TikTok et Instagram, des voix alternatives et des créateurs de contenu prennent
+      souvent plus de place que les médias traditionnels, qui restent plus visibles sur Facebook
+      et X.
+  - question: "Que commencent à utiliser certaines personnes, surtout les moins de 25 ans, pour s'informer ?"
+    options:
+      - "Des assistants d'intelligence artificielle"
+      - "Des pigeons voyageurs"
+      - "Des cartes postales"
+    answer: 1
+    explanation: >
+      Les assistants d'intelligence artificielle commencent à servir de source d'information,
+      surtout chez les moins de 25 ans.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les jeunes adultes passent davantage par les réseaux sociaux et la vidéo pour s'informer que leurs aînés. YouTube et TikTok jouent un grand rôle, et les créateurs de contenu prennent de la place.
+
+## Une enquête annuelle
+
+Ces résultats viennent d'une enquête annuelle de l'institut Reuters, menée dans des dizaines de pays, le Digital News Report. Les jeunes adultes s'informent davantage par les réseaux sociaux et la vidéo que leurs aînés, qui restent plus attachés aux sites et aux applications des médias.
+
+## Vidéo, YouTube et TikTok
+
+Les plateformes vidéo comme YouTube et TikTok prennent de plus en plus de place dans l'accès à l'actualité. Aux États-Unis, la part des utilisateurs de TikTok qui s'y informent régulièrement a beaucoup augmenté ces dernières années. Une grande partie de l'actualité en vidéo est regardée sur des plateformes plutôt que sur les sites des médias eux-mêmes, ce qui complique leur financement.
+
+## Créateurs, influenceurs et IA
+
+Sur TikTok et Instagram, des voix alternatives et des créateurs de contenu prennent souvent plus de place que les médias traditionnels, qui restent plus visibles sur Facebook et X. En France, un créateur de contenu, HugoDécrypte, touche une part importante des moins de 35 ans. Les assistants d'intelligence artificielle commencent à servir de source d'information, surtout chez les moins de 25 ans.
+
+## Des usages différents selon les pays
+
+Les usages varient beaucoup selon les pays : TikTok sert bien plus à s'informer en Thaïlande qu'au Royaume-Uni. Aux États-Unis, plus de la moitié des adultes disent s'informer au moins parfois sur les réseaux sociaux.
+
+## À retenir
+
+- Les jeunes adultes s'informent davantage par les réseaux sociaux et la vidéo que leurs aînés.
+- Les plateformes vidéo comme YouTube et TikTok prennent de plus en plus de place dans l'accès à l'actualité.
+- Sur TikTok et Instagram, les créateurs de contenu prennent souvent plus de place que les médias traditionnels.
+- Les assistants d'intelligence artificielle commencent à servir de source d'information, surtout chez les moins de 25 ans.
+- Les usages varient beaucoup selon les pays : TikTok sert bien plus à s'informer en Thaïlande qu'au Royaume-Uni.
 
 ---
 type: article
@@ -11872,60 +12384,376 @@ status: planned
 
 ---
 type: article
-title: Le règlement européen sur les services numériques
-slug: le-reglement-europeen-sur-les-services-numeriques
+title: Comment le règlement européen sur les services numériques encadre-t-il les grandes plateformes ?
+slug: comment-le-reglement-europeen-sur-les-services-numeriques-encadre-t-il-les-grandes-plateformes
 categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le règlement européen sur les services numériques.
-tags: [plateformes-et-moderation, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  Le règlement sur les services numériques, ou DSA, fixe des règles communes aux services en
+  ligne dans l'Union européenne. Les très grandes plateformes ont des obligations renforcées.
+tags: [plateformes-et-moderation]
+sources:
+  - title: "Législation sur les services numériques"
+    url: "https://fr.wikipedia.org/wiki/L%C3%A9gislation_sur_les_services_num%C3%A9riques"
+    publisher: "Wikipédia"
+  - title: "Digital Services Act"
+    url: "https://en.wikipedia.org/wiki/Digital_Services_Act"
+    publisher: "Wikipedia"
+  - title: "The Digital Services Act package"
+    url: "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"
+    publisher: "Commission européenne"
+  - title: "5 informations à retenir sur le Règlement sur les services numériques (RSN) ou Digital Services Act (DSA)"
+    url: "https://www.arcom.fr/actualites/5-informations-retenir-sur-le-reglement-sur-les-services-numeriques-rsn-ou-digital-services-act-dsa"
+    publisher: "Arcom"
+quiz:
+  - question: "Que signifie DSA ?"
+    options:
+      - "Digital Services Act, le règlement sur les services numériques"
+      - "Dépôt de signaux audio"
+      - "Droit des services agricoles"
+    answer: 1
+    explanation: >
+      Le règlement sur les services numériques, ou DSA, est un règlement européen qui encadre
+      les services en ligne : réseaux sociaux, places de marché, magasins d'applications et
+      moteurs de recherche.
+  - question: "Que peut faire un utilisateur grâce au DSA ?"
+    options:
+      - "Choisir le prix des publicités"
+      - "Supprimer les plateformes"
+      - "Signaler un contenu illicite et faire appel d'une décision de modération"
+    answer: 3
+    explanation: >
+      Les plateformes doivent permettre de signaler facilement un contenu illicite, expliquer
+      pourquoi elles retirent un contenu et offrir un moyen de faire appel.
+  - question: "À partir de quelle taille une plateforme est-elle très grande ?"
+    options:
+      - "Plus de 100 utilisateurs"
+      - "Plus de 45 millions d'utilisateurs actifs par mois dans l'Union"
+      - "Plus de 3 employés"
+    answer: 2
+    explanation: >
+      Les très grandes plateformes, celles qui ont plus de 45 millions d'utilisateurs actifs par
+      mois dans l'Union européenne, ont des obligations renforcées.
+  - question: "Quelle autorité est coordinateur du DSA en France ?"
+    options:
+      - "La Poste"
+      - "L'Insee"
+      - "L'Arcom"
+    answer: 3
+    explanation: >
+      Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en
+      France, c'est l'Arcom.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le règlement sur les services numériques, ou DSA, fixe des règles communes aux services en ligne dans l'Union européenne. Les très grandes plateformes ont des obligations renforcées.
+
+## Un cadre commun
+
+Le règlement sur les services numériques, ou DSA, est un règlement européen qui encadre les services en ligne : réseaux sociaux, places de marché, magasins d'applications et moteurs de recherche. Il remplace des règles nationales différentes par un cadre unique dans toute l'Union.
+
+## Des droits pour les utilisateurs
+
+Les plateformes doivent permettre de signaler facilement un contenu illicite, expliquer pourquoi elles retirent un contenu et offrir un moyen de faire appel. La publicité ciblée destinée aux mineurs est restreinte, et les interfaces trompeuses sont interdites.
+
+## Des règles renforcées pour les géants
+
+Les très grandes plateformes, celles qui ont plus de 45 millions d'utilisateurs actifs par mois dans l'Union européenne, ont des obligations renforcées. Elles doivent analyser les risques que leur service fait peser, par exemple sur les droits fondamentaux, la liberté des médias ou la santé publique, puis les réduire. Elles doivent aussi proposer un fil d'actualité non personnalisé, sans recommandations fondées sur le profil de l'utilisateur.
+
+## Qui contrôle ?
+
+Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom. Une entreprise qui ne respecte pas ces règles risque de lourdes amendes, calculées sur son chiffre d'affaires mondial. Le règlement est pleinement applicable depuis le 17 février 2024.
+
+## À retenir
+
+- Le DSA est un règlement européen qui encadre les réseaux sociaux, les places de marché, les magasins d'applications et les moteurs de recherche.
+- Les plateformes doivent permettre de signaler facilement un contenu illicite, expliquer pourquoi elles retirent un contenu et offrir un moyen de faire appel.
+- Les plateformes de plus de 45 millions d'utilisateurs mensuels dans l'Union ont des obligations renforcées.
+- Elles doivent aussi proposer un fil d'actualité non personnalisé, sans recommandations fondées sur le profil de l'utilisateur.
+- Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom.
 
 ---
 type: article
-title: La confiance dans les médias, les baromètres internationaux
-slug: la-confiance-dans-les-medias-les-barometres-internationaux
+title: Dans quels pays fait-on le plus confiance aux médias ?
+slug: dans-quels-pays-fait-on-le-plus-confiance-aux-medias
 categoryPath: communication-et-medias/information-et-verification/journalisme
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la confiance dans les médias, les baromètres internationaux.
-tags: [journalisme, veille-2026-09]
-priority: 0.81
-essentiel: false
-status: planned
+  Des enquêtes annuelles mesurent la confiance du public dans les médias. La confiance moyenne
+  reste stable, mais elle varie beaucoup d'un pays à l'autre.
+tags: [journalisme]
+sources:
+  - title: "Digital News Report 2025, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Digital News Report 2024, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Digital News Report 2022, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Reuters Institute for the Study of Journalism"
+    url: "https://en.wikipedia.org/wiki/Reuters_Institute_for_the_Study_of_Journalism"
+    publisher: "Wikipedia"
+  - title: "Trust in Media at New Low of 28% in U.S."
+    url: "https://news.gallup.com/poll/695762/trust-media-new-low.aspx"
+    publisher: "Gallup"
+  - title: "Confiance dans les médias : 6 Français sur 10 se méfient des médias sur les grands sujets d'actualité"
+    url: "https://www.franceinfo.fr/economie/medias/confiance-dans-les-medias-6-francais-sur-10-se-mefient-des-medias-sur-les-grands-sujets-d-actualite_7741576.html"
+    publisher: "franceinfo"
+quiz:
+  - question: "Qu'est-ce que le Digital News Report ?"
+    options:
+      - "Un journal télévisé"
+      - "Une enquête annuelle du Reuters Institute sur l'information"
+      - "Un réseau social"
+    answer: 2
+    explanation: >
+      Un baromètre de confiance est une enquête répétée chaque année ; le plus connu au niveau
+      international est le Digital News Report du Reuters Institute, de l'université d'Oxford.
+  - question: "Quel pays arrive en tête pour la confiance dans les médias dans l'édition 2024 ?"
+    options:
+      - "La Hongrie"
+      - "La Grèce"
+      - "La Finlande"
+    answer: 3
+    explanation: >
+      La Finlande arrive en tête pour la confiance dans les médias, tandis que la Grèce et la
+      Hongrie figurent parmi les pays les plus méfiants.
+  - question: "La confiance moyenne dans l'information a-t-elle beaucoup changé entre 2024 et 2025 ?"
+    options:
+      - "Non, elle est restée stable"
+      - "Oui, elle a doublé"
+      - "Oui, elle a disparu"
+    answer: 1
+    explanation: >
+      Dans cette enquête, la confiance moyenne dans l'information est restée stable entre 2024
+      et 2025.
+  - question: "Que suit une part croissante du public pour s'informer ?"
+    options:
+      - "Des pigeons voyageurs"
+      - "Des créateurs de contenu"
+      - "Des crieurs publics"
+    answer: 2
+    explanation: >
+      Une part croissante du public suit l'actualité par des créateurs de contenu, même si
+      beaucoup disent ne pas leur faire confiance.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des enquêtes annuelles mesurent la confiance du public dans les médias. La confiance moyenne reste stable, mais elle varie beaucoup d'un pays à l'autre.
+
+## Mesurer la confiance
+
+Un baromètre de confiance est une enquête répétée chaque année ; le plus connu au niveau international est le Digital News Report du Reuters Institute, de l'université d'Oxford. Cette enquête couvre des dizaines de pays sur six continents. Dans cette enquête, la confiance moyenne dans l'information est restée stable entre 2024 et 2025.
+
+## Des écarts entre pays
+
+La Finlande arrive en tête pour la confiance dans les médias, tandis que la Grèce et la Hongrie figurent parmi les pays les plus méfiants. Aux États-Unis, la confiance dans les médias est basse : c'est le pays le moins confiant de l'enquête du Reuters Institute en 2022, et l'institut Gallup mesure un niveau bien inférieur à celui des années 1970.
+
+## Des baromètres nationaux
+
+Dans des pays comme la France et les États-Unis, des baromètres nationaux montrent qu'une part importante du public se méfie des médias. Une part croissante du public suit l'actualité par des créateurs de contenu, même si beaucoup disent ne pas leur faire confiance.
+
+## Méfiance et évitement
+
+La méfiance va souvent avec l'évitement de l'information : certaines personnes se détournent des médias qu'elles jugent biaisés.
+
+## À retenir
+
+- Le Digital News Report du Reuters Institute, de l'université d'Oxford, est un baromètre international annuel.
+- Dans cette enquête, la confiance moyenne dans l'information est restée stable entre 2024 et 2025.
+- La Finlande arrive en tête pour la confiance dans les médias, tandis que la Grèce et la Hongrie figurent parmi les pays les plus méfiants.
+- Aux États-Unis, la confiance dans les médias est basse, bien inférieure à celle des années 1970 selon Gallup.
+- Une part croissante du public suit l'actualité par des créateurs de contenu, même si beaucoup disent ne pas leur faire confiance.
 
 ---
 type: article
-title: Le rôle de l'Arcom dans la lutte contre la manipulation de l'information
-slug: le-role-de-l-arcom-dans-la-lutte-contre-la-manipulation-de-l-information
+title: Que fait l'Arcom face aux fausses informations ?
+slug: que-fait-l-arcom-face-aux-fausses-informations
 categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le rôle de l'Arcom dans la lutte contre la manipulation de l'information.
-tags: [plateformes-et-moderation, veille-2026-09]
-priority: 0.81
-essentiel: false
-status: planned
+  L'Arcom surveille l'audiovisuel et les plateformes numériques en France. Une loi de 2018
+  impose aux grandes plateformes de lutter contre les fausses informations pendant les
+  élections.
+tags: [plateformes-et-moderation]
+sources:
+  - title: "Autorité de régulation de la communication audiovisuelle et numérique"
+    url: "https://fr.wikipedia.org/wiki/Autorit%C3%A9_de_r%C3%A9gulation_de_la_communication_audiovisuelle_et_num%C3%A9rique"
+    publisher: "Wikipédia"
+  - title: "Loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information"
+    url: "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559/"
+    publisher: "Légifrance"
+  - title: "Lutte contre la manipulation de l'information en période électorale : les mesures prises par les plateformes en ligne"
+    url: "https://www.arcom.fr/internet-et-reseaux-sociaux/lutte-contre-la-manipulation-de-linformation-en-periode-electorale-les-mesures-prises-par-les-plateformes-en-ligne"
+    publisher: "Arcom"
+  - title: "Que faire en cas de diffusion de « fausses nouvelles » ?"
+    url: "https://presidentielle2022.conseil-constitutionnel.fr/l-election/la-campagne-sur-internet/que-faire-en-cas-de-diffusion-de-fausses-nouvelles.html"
+    publisher: "Conseil constitutionnel"
+  - title: "Digital Services Act"
+    url: "https://en.wikipedia.org/wiki/Digital_Services_Act"
+    publisher: "Wikipedia"
+quiz:
+  - question: "De quelles autorités l'Arcom est-elle née ?"
+    options:
+      - "De la Poste et de l'Insee"
+      - "Du Sénat et de l'Assemblée"
+      - "Du CSA et de la Hadopi"
+    answer: 3
+    explanation: >
+      Elle est née de la fusion du CSA et de la Hadopi.
+  - question: "Que peut faire un juge des référés face à une fausse nouvelle qui menace une élection ?"
+    options:
+      - "Annuler l'élection tout seul"
+      - "Rien du tout"
+      - "Faire cesser sa diffusion massive"
+    answer: 3
+    explanation: >
+      Un juge des référés peut ordonner de faire cesser la diffusion massive et artificielle
+      d'une fausse nouvelle manifeste, qui menace la sincérité d'une élection.
+  - question: "Que doivent faire les grandes plateformes avant les élections ?"
+    options:
+      - "Fermer leurs comptes"
+      - "Publier des sondages"
+      - "Prendre des mesures contre les fausses informations"
+    answer: 3
+    explanation: >
+      Avant les élections, les grandes plateformes doivent prendre des mesures contre les
+      fausses informations qui peuvent troubler l'ordre public ou la sincérité du scrutin.
+  - question: "Quelle loi organise la lutte contre la manipulation de l'information en France ?"
+    options:
+      - "La loi du 22 décembre 2018"
+      - "La loi du 1er janvier 1900"
+      - "La loi de 1789"
+    answer: 1
+    explanation: >
+      Une loi du 22 décembre 2018 organise la lutte contre la manipulation de l'information,
+      surtout pendant les élections.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'Arcom surveille l'audiovisuel et les plateformes numériques en France. Une loi de 2018 impose aux grandes plateformes de lutter contre les fausses informations pendant les élections.
+
+## Une autorité née d'une fusion
+
+L'Arcom est l'autorité qui surveille l'audiovisuel et les plateformes numériques en France. Elle est née de la fusion du CSA et de la Hadopi. Elle garantit la liberté de communication, protège les mineurs, lutte contre le piratage et veille à l'équité du temps de parole politique. Elle peut délivrer des autorisations de diffusion, adresser des mises en garde et prononcer des sanctions financières.
+
+## La loi de 2018
+
+Une loi du 22 décembre 2018 organise la lutte contre la manipulation de l'information, surtout pendant les élections. Avant les élections, les grandes plateformes doivent prendre des mesures contre les fausses informations qui peuvent troubler l'ordre public ou la sincérité du scrutin. Elles doivent aussi informer clairement sur l'identité de ceux qui paient pour promouvoir un contenu et sur les montants versés. L'Arcom veille à ces obligations et publie des informations sur les mesures prises par les plateformes.
+
+## Le juge et l'Arcom
+
+Un juge des référés peut ordonner de faire cesser la diffusion massive et artificielle d'une fausse nouvelle manifeste, qui menace la sincérité d'une élection. L'Arcom peut suspendre la diffusion de services de télévision contrôlés par un État étranger qui diffusent délibérément de fausses informations pendant une période électorale.
+
+## Un rôle européen
+
+L'Arcom est aussi le coordinateur français pour les services numériques dans le cadre du règlement européen DSA.
+
+## À retenir
+
+- L'Arcom est l'autorité qui surveille l'audiovisuel et les plateformes numériques en France.
+- Elle est née de la fusion du CSA et de la Hadopi.
+- Une loi du 22 décembre 2018 organise la lutte contre la manipulation de l'information pendant les élections.
+- Avant les élections, les grandes plateformes doivent prendre des mesures contre les fausses informations qui peuvent troubler l'ordre public ou la sincérité du scrutin.
+- Un juge des référés peut faire cesser la diffusion massive d'une fausse nouvelle manifeste qui menace une élection.
 
 ---
 type: article
-title: L'évitement de l'information par le public
-slug: l-evitement-de-l-information-par-le-public
+title: Pourquoi certaines personnes évitent-elles les actualités ?
+slug: pourquoi-certaines-personnes-evitent-elles-les-actualites
 categoryPath: communication-et-medias/information-et-verification/education-aux-medias
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'évitement de l'information par le public.
-tags: [education-aux-medias, veille-2026-09]
-priority: 0.8
-essentiel: false
-status: planned
+  Une part croissante du public évite volontairement les actualités, surtout à cause de leur
+  négativité et de leur trop-plein. Les enquêtes du Reuters Institute suivent ce phénomène
+  chaque année.
+tags: [education-aux-medias]
+sources:
+  - title: "Digital News Report 2025, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Digital News Report 2024, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "Digital News Report 2022, executive summary"
+    url: "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022/dnr-executive-summary"
+    publisher: "Reuters Institute, université d'Oxford"
+  - title: "News avoidance"
+    url: "https://en.wikipedia.org/wiki/News_avoidance"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que l'évitement de l'information ?"
+    options:
+      - "Éviter volontairement les actualités"
+      - "Lire trois journaux par jour"
+      - "Écrire des articles"
+    answer: 1
+    explanation: >
+      L'évitement de l'information consiste à éviter volontairement les actualités, pour se
+      protéger d'un flot de nouvelles surtout négatives.
+  - question: "Quelle part des personnes interrogées disent éviter parfois ou souvent l'actualité dans le rapport 2024 ?"
+    options:
+      - "39 %"
+      - "3 %"
+      - "99 %"
+    answer: 1
+    explanation: >
+      Dans le rapport 2024, 39 % des personnes interrogées disent éviter parfois ou souvent
+      l'actualité.
+  - question: "Parmi ces raisons, laquelle est citée pour éviter l'actualité ?"
+    options:
+      - "Le prix des journaux"
+      - "Le trop-plein d'informations"
+      - "La couleur des titres"
+    answer: 2
+    explanation: >
+      Parmi les raisons citées : l'humeur qui se dégrade, le trop-plein d'informations, le
+      sentiment d'impuissance face aux grands problèmes et la méfiance envers les médias.
+  - question: "Qu'est-ce que le doomscrolling ?"
+    options:
+      - "Faire défiler sans fin des nouvelles négatives"
+      - "Lire un livre"
+      - "Éteindre son téléphone"
+    answer: 1
+    explanation: >
+      Le doomscrolling, qui consiste à faire défiler sans fin des nouvelles négatives, et
+      l'évitement sont deux réactions opposées aux mêmes causes : la négativité, la répétition
+      et la surcharge d'informations.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une part croissante du public évite volontairement les actualités, surtout à cause de leur négativité et de leur trop-plein. Les enquêtes du Reuters Institute suivent ce phénomène chaque année.
+
+## Éviter les nouvelles
+
+L'évitement de l'information consiste à éviter volontairement les actualités, pour se protéger d'un flot de nouvelles surtout négatives. Dans l'enquête annuelle du Reuters Institute, la part des personnes qui évitent parfois ou souvent l'actualité a fortement augmenté depuis 2017. Dans le rapport 2024, 39 % des personnes interrogées disent éviter parfois ou souvent l'actualité. Le rapport 2025 indique que l'évitement de l'actualité est au plus haut niveau jamais mesuré par l'enquête.
+
+## Pourquoi ?
+
+Parmi les raisons citées : l'humeur qui se dégrade, le trop-plein d'informations, le sentiment d'impuissance face aux grands problèmes et la méfiance envers les médias. En 2022, la raison la plus citée était la place trop grande de la politique et de la Covid-19 dans l'actualité. La fatigue liée aux conflits, comme ceux d'Ukraine et du Moyen-Orient, nourrit ce phénomène.
+
+## Deux réactions opposées
+
+Le doomscrolling, qui consiste à faire défiler sans fin des nouvelles négatives, et l'évitement sont deux réactions opposées aux mêmes causes : la négativité, la répétition et la surcharge d'informations.
+
+## D'un pays à l'autre
+
+L'évitement sélectif a doublé depuis 2017 dans certains pays, comme le Brésil et le Royaume-Uni.
+
+## À retenir
+
+- L'évitement de l'information consiste à éviter volontairement les actualités, pour se protéger d'un flot de nouvelles surtout négatives.
+- Dans l'enquête annuelle du Reuters Institute, la part des personnes qui évitent parfois ou souvent l'actualité a fortement augmenté depuis 2017.
+- Dans le rapport 2024, 39 % des personnes interrogées disent éviter parfois ou souvent l'actualité.
+- Raisons citées : l'humeur qui se dégrade, le trop-plein d'informations, l'impuissance et la méfiance envers les médias.
+- Le doomscrolling et l'évitement sont deux réactions opposées aux mêmes causes : négativité, répétition et surcharge.
