@@ -7057,9 +7057,7 @@ quiz:
     explanation: >
       Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes.
 lastVerified: 2026-09-29
-priority: 2
-essentiel: true
-status: planned
+status: published
 ---
 
 ## En bref
@@ -7285,9 +7283,7 @@ quiz:
     explanation: >
       Par ciel couvert à plus de 50 %, la bouteille reste 2 jours consécutifs au soleil.
 lastVerified: 2026-09-29
-priority: 2
-essentiel: true
-status: planned
+status: published
 ---
 
 ## En bref

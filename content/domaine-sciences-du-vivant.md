@@ -9050,7 +9050,7 @@ quiz:
     explanation: >
       Les derniers mammouths laineux ont disparu de l'île Wrangel il y a environ 4 000 ans.
 lastVerified: 2026-09-30
-status: planned
+status: published
 ---
 
 ## En bref

@@ -4805,9 +4805,7 @@ quiz:
       La plus ancienne roue en bois connue, avec son essieu, découverte dans les marais de
       Ljubljana en Slovénie, a environ 5 200 ans.
 lastVerified: 2026-09-30
-priority: 2
-essentiel: true
-status: planned
+status: published
 ---
 
 ## En bref

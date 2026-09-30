@@ -3082,7 +3082,7 @@ corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La fievre jaun
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le cycle de vie du parasite du paludisme;le-cycle-de-vie-du-parasite-du-paludisme;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La lepre, une maladie ancienne encore mal comprise;la-lepre-une-maladie-ancienne-encore-mal-comprise;3;non;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La quarantaine, une methode ancienne toujours utile;la-quarantaine-une-methode-ancienne-toujours-utile;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;L'hygiene des mains et la prevention des infections;l-hygiene-des-mains-et-la-prevention-des-infections;2;oui;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;L'hygiene des mains et la prevention des infections;l-hygiene-des-mains-et-la-prevention-des-infections;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La resistance aux antiviraux, un enjeu croissant;la-resistance-aux-antiviraux-un-enjeu-croissant;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Les zoonoses, ces maladies transmises par les animaux;les-zoonoses-ces-maladies-transmises-par-les-animaux;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La grippe saisonniere et sa surveillance annuelle;la-grippe-saisonniere-et-sa-surveillance-annuelle;2;oui;planned
@@ -3092,7 +3092,7 @@ corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le portage sai
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La stérilisation du materiel medical;la-sterilisation-du-materiel-medical;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Les antibiotiques, decouverte et usage raisonne;les-antibiotiques-decouverte-et-usage-raisonne;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La transmission par voie sexuelle, panorama des infections concernees;la-transmission-par-voie-sexuelle-panorama-des-infections-concernees;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La desinfection de l'eau en situation d'epidemie;la-desinfection-de-l-eau-en-situation-d-epidemie;2;oui;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La desinfection de l'eau en situation d'epidemie;la-desinfection-de-l-eau-en-situation-d-epidemie;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le suivi epidemiologique et la detection precoce des epidemies;le-suivi-epidemiologique-et-la-detection-precoce-des-epidemies;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La leptospirose, une maladie transmise par les rongeurs;la-leptospirose-une-maladie-transmise-par-les-rongeurs;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le tetanos neonatal et sa prevention;le-tetanos-neonatal-et-sa-prevention;2;oui;planned
@@ -4867,7 +4867,7 @@ industries;industries/industrie-lourde/chimie-industrielle;Les grands accidents 
 industries;industries/industrie-lourde/chimie-industrielle;La chimie verte, reduire l'impact des procedes industriels;la-chimie-verte-reduire-l-impact-des-procedes-industriels;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication artisanale de la chaux;la-fabrication-artisanale-de-la-chaux;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;L'ammoniac, un compose chimique cle de l'industrie;l-ammoniac-un-compose-chimique-cle-de-l-industrie;2;oui;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;Le procede de fabrication du ciment;le-procede-de-fabrication-du-ciment;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'eau de Javel;la-fabrication-de-l-eau-de-javel;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La distillation, principe chimique de base;la-distillation-principe-chimique-de-base;2;oui;planned
@@ -7132,7 +7132,7 @@ technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les infrastruc
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;L'histoire des grands travaux publics a travers les civilisations;l-histoire-des-grands-travaux-publics-a-travers-les-civilisations;2;non;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;Les forces qui s'exercent sur une structure;les-forces-qui-s-exercent-sur-une-structure;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;La compression et la traction en ingenierie structurelle;la-compression-et-la-traction-en-ingenierie-structurelle;2;oui;planned
-technologies;technologies-et-ingenierie/genie-civil/structures;Le levier, la poulie et le plan incline en construction;le-levier-la-poulie-et-le-plan-incline-en-construction;2;oui;planned
+technologies;technologies-et-ingenierie/genie-civil/structures;Le levier, la poulie et le plan incline en construction;le-levier-la-poulie-et-le-plan-incline-en-construction;2;oui;published
 technologies;technologies-et-ingenierie/genie-civil/structures;L'arc, une forme structurelle millenaire;l-arc-une-forme-structurelle-millenaire;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;La voute, principe et evolution historique;la-voute-principe-et-evolution-historique;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;Les fondations d'un batiment, role et types;les-fondations-d-un-batiment-role-et-types;2;oui;planned
@@ -11834,9 +11834,9 @@ sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-se
 sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;Les points chauds volcaniques et la formation de chapelets d'iles volcaniques;les-points-chauds-volcaniques-et-la-formation-de-chapelets-d-iles-volcaniques;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;Le role de la deformation du sol dans la detection precoce d'une eruption imminente;le-role-de-la-deformation-du-sol-dans-la-detection-precoce-d-une-eruption-imminente;3;non;planned
 sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes;Les seismes intraplaques et leur origine moins bien comprise que ceux des frontieres de plaques;les-seismes-intraplaques-et-leur-origine-moins-bien-comprise-que-ceux-des-frontieres-de-plaques;3;non;planned
-espace;espace-et-astronomie/observation-astronomique;Retrouver l'heure avec le Soleil;retrouver-l-heure-avec-le-soleil;2;oui;planned
+espace;espace-et-astronomie/observation-astronomique;Retrouver l'heure avec le Soleil;retrouver-l-heure-avec-le-soleil;2;oui;published
 intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;L'intelligence artificielle générale, sommes-nous proches ?;l-intelligence-artificielle-generale-sommes-nous-proches;0.7;non;planned
-sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/genie-genetique;La dé-extinction du mammouth, promesses et limites;la-de-extinction-du-mammouth-promesses-et-limites;0.75;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/genie-genetique;La dé-extinction du mammouth, promesses et limites;la-de-extinction-du-mammouth-promesses-et-limites;0.75;non;published
 intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;L'IA au service de l'accès aux traitements, quelle confiance lui accorder ?;l-ia-au-service-de-l-acces-aux-traitements-quelle-confiance-lui-accorder;0.82;non;planned
 industries;industries/industrie-manufacturiere;Où se concentrent les annonces d'investissements industriels en France ?;ou-se-concentrent-les-annonces-d-investissements-industriels-en-france;0.7;non;planned
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;Les échouages de sargasses en Martinique;les-echouages-de-sargasses-en-martinique;0.72;non;planned
@@ -11857,8 +11857,8 @@ corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;Les migraines ch
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;Le goût du gras, une sixième saveur ?;le-gout-du-gras-une-sixieme-saveur;0.68;non;planned
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique;Le remboursement des médicaments antiobésité Wegovy et Mounjaro;le-remboursement-des-medicaments-antiobesite-wegovy-et-mounjaro;0.69;non;planned
 intelligence-artificielle;intelligence-artificielle/apprentissage-automatique;Les règles avant les réseaux, les systèmes experts;systemes-experts-les-regles-avant-les-reseaux;2;oui;planned
-geographie;geographie-et-territoires/geographie-physique/reliefs;Refaire une carte, la triangulation;refaire-une-carte-par-triangulation;2;oui;planned
-sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Marcher et porter longtemps, l'astuce du pendule;marcher-et-porter-longtemps;2;oui;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Refaire une carte, la triangulation;refaire-une-carte-par-triangulation;2;oui;published
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Marcher et porter longtemps, l'astuce du pendule;marcher-et-porter-longtemps;2;oui;published
 aeronautique;aeronautique/aerodynamique/portance;Pourquoi un avion vole, portance et écoulement de l'air;pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air;0.91;non;planned
 aeronautique;aeronautique/propulsion/turboreacteurs;Le turboréacteur à double flux, principe de fonctionnement;le-turboreacteur-a-double-flux-principe-de-fonctionnement;0.89;non;planned
 aeronautique;aeronautique/navigation-aerienne/controle-du-trafic-aerien;Comment le contrôle aérien gère des milliers de vols;comment-le-controle-aerien-gere-des-milliers-de-vols;0.88;non;planned

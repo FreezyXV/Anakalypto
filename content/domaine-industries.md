@@ -4146,9 +4146,7 @@ quiz:
       Des artisans de la côte syro-palestinienne inventent le soufflage du verre à la canne au
       Ier siècle avant J.-C.
 lastVerified: 2026-09-29
-priority: 2
-essentiel: true
-status: planned
+status: published
 ---
 
 ## En bref

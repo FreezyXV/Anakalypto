@@ -9659,9 +9659,7 @@ quiz:
       Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre, c'est-
       à-dire de la distance du pôle Nord à l'équateur.
 lastVerified: 2026-09-30
-priority: 2
-essentiel: true
-status: planned
+status: published
 ---
 
 ## En bref

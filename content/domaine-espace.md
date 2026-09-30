@@ -11267,9 +11267,7 @@ quiz:
       Chaque degré de longitude d'écart avec le méridien du fuseau horaire décale l'heure
       solaire d'environ 4 minutes.
 lastVerified: 2026-09-29
-priority: 2
-essentiel: true
-status: planned
+status: published
 ---
 
 ## En bref

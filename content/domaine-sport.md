@@ -9504,9 +9504,7 @@ quiz:
       Une étude plus récente, avec des charges bien plus lourdes, a trouvé que le portage sur la
       tête consommait plus d'oxygène que le portage dans le dos.
 lastVerified: 2026-09-30
-priority: 2
-essentiel: true
-status: planned
+status: published
 ---
 
 ## En bref
