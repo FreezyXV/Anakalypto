@@ -11749,3 +11749,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Comment vérifier l'origine d'une image trouvée en ligne
+slug: comment-verifier-l-origine-d-une-image-trouvee-en-ligne
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment vérifier l'origine d'une image trouvée en ligne.
+tags: [education-aux-medias, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La vérification des faits, la méthode des journalistes
+slug: la-verification-des-faits-la-methode-des-journalistes
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la vérification des faits, la méthode des journalistes.
+tags: [journalisme, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les algorithmes de recommandation et le fil d'actualité
+slug: les-algorithmes-de-recommandation-et-le-fil-d-actualite
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les algorithmes de recommandation et le fil d'actualité.
+tags: [plateformes-et-moderation, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les débuts de la radio et de la TSF
+slug: les-debuts-de-la-radio-et-de-la-tsf
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les débuts de la radio et de la TSF.
+tags: [radio-et-television, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: De la 2G à la 5G, ce qui change à chaque génération
+slug: de-la-2g-a-la-5g-ce-qui-change-a-chaque-generation
+categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : de la 2G à la 5G, ce qui change à chaque génération.
+tags: [reseaux-mobiles, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La télévision en couleur, de l'invention à la généralisation
+slug: la-television-en-couleur-de-l-invention-a-la-generalisation
+categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la télévision en couleur, de l'invention à la généralisation.
+tags: [radio-et-television, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les réseaux sociaux comme source d'information des jeunes
+slug: les-reseaux-sociaux-comme-source-d-information-des-jeunes
+categoryPath: communication-et-medias/medias-numeriques/reseaux-sociaux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les réseaux sociaux comme source d'information des jeunes.
+tags: [reseaux-sociaux, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ancienneté des fausses nouvelles avant Internet
+slug: l-anciennete-des-fausses-nouvelles-avant-internet
+categoryPath: communication-et-medias/information-et-verification/desinformation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'ancienneté des fausses nouvelles avant Internet.
+tags: [desinformation, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le règlement européen sur les services numériques
+slug: le-reglement-europeen-sur-les-services-numeriques
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le règlement européen sur les services numériques.
+tags: [plateformes-et-moderation, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La confiance dans les médias, les baromètres internationaux
+slug: la-confiance-dans-les-medias-les-barometres-internationaux
+categoryPath: communication-et-medias/information-et-verification/journalisme
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la confiance dans les médias, les baromètres internationaux.
+tags: [journalisme, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le rôle de l'Arcom dans la lutte contre la manipulation de l'information
+slug: le-role-de-l-arcom-dans-la-lutte-contre-la-manipulation-de-l-information
+categoryPath: communication-et-medias/medias-numeriques/plateformes-et-moderation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le rôle de l'Arcom dans la lutte contre la manipulation de l'information.
+tags: [plateformes-et-moderation, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'évitement de l'information par le public
+slug: l-evitement-de-l-information-par-le-public
+categoryPath: communication-et-medias/information-et-verification/education-aux-medias
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'évitement de l'information par le public.
+tags: [education-aux-medias, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.

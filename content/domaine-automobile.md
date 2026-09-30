@@ -15022,3 +15022,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Le turbocompresseur, comment il augmente la puissance d'un moteur
+slug: le-turbocompresseur-comment-il-augmente-la-puissance-d-un-moteur
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le turbocompresseur, comment il augmente la puissance d'un moteur.
+tags: [thermique, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La recharge rapide d'une voiture électrique, comment ça marche
+slug: la-recharge-rapide-d-une-voiture-electrique-comment-ca-marche
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la recharge rapide d'une voiture électrique, comment ça marche.
+tags: [electrique, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le freinage ABS, comment il évite le blocage des roues
+slug: le-freinage-abs-comment-il-evite-le-blocage-des-roues
+categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le freinage ABS, comment il évite le blocage des roues.
+tags: [aides-a-la-conduite, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La récupération d'énergie au freinage
+slug: la-recuperation-d-energie-au-freinage
+categoryPath: automobile/motorisations/motorisations-hybrides
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la récupération d'énergie au freinage.
+tags: [motorisations-hybrides, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les niveaux d'autonomie de la conduite automatisée
+slug: les-niveaux-d-autonomie-de-la-conduite-automatisee
+categoryPath: automobile/securite-et-conduite/conduite-autonome
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les niveaux d'autonomie de la conduite automatisée.
+tags: [conduite-autonome, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs électriques à aimants permanents et les terres rares
+slug: les-moteurs-electriques-a-aimants-permanents-et-les-terres-rares
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les moteurs électriques à aimants permanents et les terres rares.
+tags: [electrique, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'autopartage et le covoiturage, bénéfices et limites
+slug: l-autopartage-et-le-covoiturage-benefices-et-limites
+categoryPath: automobile/usages-et-mobilite/mobilite-partagee
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'autopartage et le covoiturage, bénéfices et limites.
+tags: [mobilite-partagee, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'autonomie d'une voiture électrique et le cycle d'homologation WLTP
+slug: l-autonomie-d-une-voiture-electrique-et-le-cycle-d-homologation-wltp
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'autonomie d'une voiture électrique et le cycle d'homologation WLTP.
+tags: [electrique, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le véhicule défini par logiciel
+slug: le-vehicule-defini-par-logiciel
+categoryPath: automobile/industrie-automobile/production
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le véhicule défini par logiciel.
+tags: [production, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries à électrolyte solide et l'autonomie des voitures
+slug: les-batteries-a-electrolyte-solide-et-l-autonomie-des-voitures
+categoryPath: automobile/motorisations/electrique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les batteries à électrolyte solide et l'autonomie des voitures.
+tags: [electrique, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'airbag, un déclenchement en quelques millisecondes
+slug: l-airbag-un-declenchement-en-quelques-millisecondes
+categoryPath: automobile/securite-et-conduite/securite-passive
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'airbag, un déclenchement en quelques millisecondes.
+tags: [securite-passive, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La norme Euro 7 et les émissions des véhicules
+slug: la-norme-euro-7-et-les-emissions-des-vehicules
+categoryPath: automobile/industrie-automobile/reglementation-automobile
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la norme Euro 7 et les émissions des véhicules.
+tags: [reglementation-automobile, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.

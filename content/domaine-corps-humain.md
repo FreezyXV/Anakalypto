@@ -13741,3 +13741,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Les vaccins à ARN messager expliqués
+slug: les-vaccins-a-arn-messager-expliques
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les vaccins à ARN messager expliqués.
+tags: [vaccination, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le dépistage organisé des cancers en France
+slug: le-depistage-organise-des-cancers-en-france
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le dépistage organisé des cancers en France.
+tags: [depistage, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi le souffle manque en altitude
+slug: pourquoi-le-souffle-manque-en-altitude
+categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi le souffle manque en altitude.
+tags: [systeme-respiratoire, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'inflammation de bas grade, ce que l'on sait
+slug: l-inflammation-de-bas-grade-ce-que-l-on-sait
+categoryPath: corps-humain-et-sante/physiologie/immunite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'inflammation de bas grade, ce que l'on sait.
+tags: [immunite, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La mise en place du microbiote dès la naissance
+slug: la-mise-en-place-du-microbiote-des-la-naissance
+categoryPath: corps-humain-et-sante/physiologie/microbiote
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la mise en place du microbiote dès la naissance.
+tags: [microbiote, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maladie de Parkinson et les différences entre hommes et femmes
+slug: la-maladie-de-parkinson-et-les-differences-entre-hommes-et-femmes
+categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la maladie de Parkinson et les différences entre hommes et femmes.
+tags: [maladies-chroniques, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi un bébé a plus d'os qu'un adulte
+slug: pourquoi-un-bebe-a-plus-d-os-qu-un-adulte
+categoryPath: corps-humain-et-sante/anatomie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi un bébé a plus d'os qu'un adulte.
+tags: [anatomie, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le manque de sommeil et l'activité des gènes de l'immunité
+slug: le-manque-de-sommeil-et-l-activite-des-genes-de-l-immunite
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le manque de sommeil et l'activité des gènes de l'immunité.
+tags: [sommeil, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le cœur et la flore intestinale
+slug: le-c-ur-et-la-flore-intestinale
+categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le cœur et la flore intestinale.
+tags: [systeme-cardiovasculaire, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La sensation de chute à l'endormissement
+slug: la-sensation-de-chute-a-l-endormissement
+categoryPath: corps-humain-et-sante/physiologie/sommeil
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la sensation de chute à l'endormissement.
+tags: [sommeil, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stress chronique et les cellules NK
+slug: le-stress-chronique-et-les-cellules-nk
+categoryPath: corps-humain-et-sante/maladies/sante-mentale
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le stress chronique et les cellules NK.
+tags: [sante-mentale, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le bâillement contagieux et l'empathie
+slug: le-baillement-contagieux-et-l-empathie
+categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le bâillement contagieux et l'empathie.
+tags: [systeme-nerveux, veille-2026-09]
+priority: 0.78
+essentiel: false
+status: planned
+---
+
+À rédiger.

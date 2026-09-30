@@ -9535,3 +9535,183 @@ Aucun matériel n'est nécessaire, seulement son corps.
 - Au mieux, la marche récupère environ 65 % de l'énergie mécanique.
 - Des femmes africaines ont pu porter sur la tête des charges allant jusqu'à 20 % de leur poids sans dépenser sensiblement plus d'énergie.
 - Une étude plus récente, avec des charges bien plus lourdes, a trouvé plus d'oxygène consommé pour la tête que pour le dos.
+
+---
+type: article
+title: L'échauffement avant l'effort
+slug: l-echauffement-avant-l-effort
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'échauffement avant l'effort.
+tags: [blessures-et-prevention, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'EPO et le dopage sanguin
+slug: l-epo-et-le-dopage-sanguin
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'EPO et le dopage sanguin.
+tags: [dopage, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'entraînement en altitude et les globules rouges
+slug: l-entrainement-en-altitude-et-les-globules-rouges
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'entraînement en altitude et les globules rouges.
+tags: [entrainement, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acide lactique et la fatigue, un mythe tenace
+slug: l-acide-lactique-et-la-fatigue-un-mythe-tenace
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'acide lactique et la fatigue, un mythe tenace.
+tags: [energetique-musculaire, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La science du sport dans les équipes de haut niveau
+slug: la-science-du-sport-dans-les-equipes-de-haut-niveau
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la science du sport dans les équipes de haut niveau.
+tags: [sports-collectifs, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les crampes musculaires et leurs causes débattues
+slug: les-crampes-musculaires-et-leurs-causes-debattues
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les crampes musculaires et leurs causes débattues.
+tags: [energetique-musculaire, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le moment de l'ingestion des nutriments et la performance
+slug: le-moment-de-l-ingestion-des-nutriments-et-la-performance
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le moment de l'ingestion des nutriments et la performance.
+tags: [entrainement, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les capteurs portés au poignet et l'activité physique
+slug: les-capteurs-portes-au-poignet-et-l-activite-physique
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les capteurs portés au poignet et l'activité physique.
+tags: [activite-physique-et-sante, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les records du monde et leurs limites
+slug: les-records-du-monde-et-leurs-limites
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les records du monde et leurs limites.
+tags: [sports-individuels, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les records de 1968 à Mexico et l'altitude
+slug: les-records-de-1968-a-mexico-et-l-altitude
+categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les records de 1968 à Mexico et l'altitude.
+tags: [sports-individuels, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La récupération après l'effort et les montres connectées
+slug: la-recuperation-apres-l-effort-et-les-montres-connectees
+categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la récupération après l'effort et les montres connectées.
+tags: [entrainement, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le dopage technologique et les chaussures de marathon
+slug: le-dopage-technologique-et-les-chaussures-de-marathon
+categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le dopage technologique et les chaussures de marathon.
+tags: [dopage, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.

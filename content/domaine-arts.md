@@ -12396,3 +12396,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Les manuscrits enluminés du Moyen Âge
+slug: les-manuscrits-enlumines-du-moyen-age
+categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les manuscrits enluminés du Moyen Âge.
+tags: [histoire-du-livre, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La typographie, l'histoire des caractères d'imprimerie
+slug: la-typographie-l-histoire-des-caracteres-d-imprimerie
+categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la typographie, l'histoire des caractères d'imprimerie.
+tags: [arts-graphiques-et-design, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La perspective, comment les peintres ont appris à tromper l'oeil
+slug: la-perspective-comment-les-peintres-ont-appris-a-tromper-l-oeil
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la perspective, comment les peintres ont appris à tromper l'oeil.
+tags: [peinture-et-sculpture, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi la forme d'un instrument change son son
+slug: pourquoi-la-forme-d-un-instrument-change-son-son
+categoryPath: arts-et-culture/arts-du-spectacle/musique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi la forme d'un instrument change son son.
+tags: [musique, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cabinets de curiosités, ancêtres des musées
+slug: les-cabinets-de-curiosites-ancetres-des-musees
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les cabinets de curiosités, ancêtres des musées.
+tags: [musees-et-conservation, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les manufactures des Gobelins et de Beauvais, l'art de la tapisserie
+slug: les-manufactures-des-gobelins-et-de-beauvais-l-art-de-la-tapisserie
+categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les manufactures des Gobelins et de Beauvais, l'art de la tapisserie.
+tags: [patrimoine-immateriel, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les marionnettes et le théâtre d'ombres dans le monde
+slug: les-marionnettes-et-le-theatre-d-ombres-dans-le-monde
+categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les marionnettes et le théâtre d'ombres dans le monde.
+tags: [theatre-et-danse, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pigments toxiques des maîtres anciens
+slug: les-pigments-toxiques-des-maitres-anciens
+categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les pigments toxiques des maîtres anciens.
+tags: [peinture-et-sculpture, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premières projections des frères Lumière
+slug: les-premieres-projections-des-freres-lumiere
+categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les premières projections des frères Lumière.
+tags: [photographie-et-cinema, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Restaurer une oeuvre, retrouver l'original ou le préserver ?
+slug: restaurer-une-oeuvre-retrouver-l-original-ou-le-preserver
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : restaurer une oeuvre, retrouver l'original ou le préserver ?.
+tags: [musees-et-conservation, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'archéologie préventive en France et ses découvertes
+slug: l-archeologie-preventive-en-france-et-ses-decouvertes
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'archéologie préventive en France et ses découvertes.
+tags: [musees-et-conservation, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le Laboratoire du Louvre et l'étude des oeuvres
+slug: le-laboratoire-du-louvre-et-l-etude-des-oeuvres
+categoryPath: arts-et-culture/patrimoine/musees-et-conservation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le Laboratoire du Louvre et l'étude des oeuvres.
+tags: [musees-et-conservation, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.

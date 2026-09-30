@@ -11454,3 +11454,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Comment les mots de passe sont protégés
+slug: comment-les-mots-de-passe-sont-proteges
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment les mots de passe sont protégés.
+tags: [chiffrement, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le chiffrement RSA et les clés publique et privée
+slug: le-chiffrement-rsa-et-les-cles-publique-et-privee
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le chiffrement RSA et les clés publique et privée.
+tags: [chiffrement, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment voyagent les données sur Internet
+slug: comment-voyagent-les-donnees-sur-internet
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment voyagent les données sur Internet.
+tags: [internet, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'algorithme de Shor et la menace sur le chiffrement RSA
+slug: l-algorithme-de-shor-et-la-menace-sur-le-chiffrement-rsa
+categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'algorithme de Shor et la menace sur le chiffrement RSA.
+tags: [algorithmes, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mémoires SSD et les disques durs
+slug: les-memoires-ssd-et-les-disques-durs
+categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les mémoires SSD et les disques durs.
+tags: [memoire-et-stockage, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le protocole Internet, des années 1970 à aujourd'hui
+slug: le-protocole-internet-des-annees-1970-a-aujourd-hui
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le protocole Internet, des années 1970 à aujourd'hui.
+tags: [internet, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le passage à la cryptographie post-quantique dans les systèmes d'information
+slug: le-passage-a-la-cryptographie-post-quantique-dans-les-systemes-d-information
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le passage à la cryptographie post-quantique dans les systèmes d'information.
+tags: [cybersecurite, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pixel et la représentation des images
+slug: le-pixel-et-la-representation-des-images
+categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le pixel et la représentation des images.
+tags: [representation-et-compression, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les premiers standards de cryptographie post-quantique du NIST
+slug: les-premiers-standards-de-cryptographie-post-quantique-du-nist
+categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les premiers standards de cryptographie post-quantique du NIST.
+tags: [cybersecurite, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bases de données vectorielles et l'intelligence artificielle
+slug: les-bases-de-donnees-vectorielles-et-l-intelligence-artificielle
+categoryPath: micro-informatique-et-informatique/donnees/bases-de-donnees
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les bases de données vectorielles et l'intelligence artificielle.
+tags: [bases-de-donnees, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs open source RISC-V
+slug: les-processeurs-open-source-risc-v
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les processeurs open source RISC-V.
+tags: [processeurs, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les processeurs quantiques supraconducteurs
+slug: les-processeurs-quantiques-supraconducteurs
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les processeurs quantiques supraconducteurs.
+tags: [processeurs, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.

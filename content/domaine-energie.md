@@ -12541,3 +12541,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Comment fonctionne une éolienne
+slug: comment-fonctionne-une-eolienne
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment fonctionne une éolienne.
+tags: [eolien, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fission expliquée, de l'atome à la turbine
+slug: la-fission-expliquee-de-l-atome-a-la-turbine
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fission expliquée, de l'atome à la turbine.
+tags: [nucleaire, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'éolien en mer et les éoliennes flottantes
+slug: l-eolien-en-mer-et-les-eoliennes-flottantes
+categoryPath: energie/energies-renouvelables/eolien
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'éolien en mer et les éoliennes flottantes.
+tags: [eolien, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La production d'électricité en France par filière
+slug: la-production-d-electricite-en-france-par-filiere
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la production d'électricité en France par filière.
+tags: [usages-et-consommation, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fusion nucléaire, où en sont les réacteurs expérimentaux
+slug: la-fusion-nucleaire-ou-en-sont-les-reacteurs-experimentaux
+categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fusion nucléaire, où en sont les réacteurs expérimentaux.
+tags: [nucleaire, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cellules solaires en pérovskite
+slug: les-cellules-solaires-en-perovskite
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les cellules solaires en pérovskite.
+tags: [solaire, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les réseaux intelligents et la flexibilité de la demande
+slug: les-reseaux-intelligents-et-la-flexibilite-de-la-demande
+categoryPath: energie/reseaux-et-stockage/reseaux-electriques
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les réseaux intelligents et la flexibilité de la demande.
+tags: [reseaux-electriques, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'agrivoltaïsme, produire de l'électricité et des cultures
+slug: l-agrivoltaisme-produire-de-l-electricite-et-des-cultures
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'agrivoltaïsme, produire de l'électricité et des cultures.
+tags: [solaire, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le stockage d'énergie par air comprimé
+slug: le-stockage-d-energie-par-air-comprime
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le stockage d'énergie par air comprimé.
+tags: [batteries, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les cellules tandem silicium-pérovskite
+slug: les-cellules-tandem-silicium-perovskite
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les cellules tandem silicium-pérovskite.
+tags: [solaire, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les méga-batteries qui stabilisent le réseau électrique
+slug: les-mega-batteries-qui-stabilisent-le-reseau-electrique
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les méga-batteries qui stabilisent le réseau électrique.
+tags: [batteries, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les batteries à flux redox
+slug: les-batteries-a-flux-redox
+categoryPath: energie/reseaux-et-stockage/batteries
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les batteries à flux redox.
+tags: [batteries, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.

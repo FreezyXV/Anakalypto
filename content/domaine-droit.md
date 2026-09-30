@@ -12190,3 +12190,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La propriété intellectuelle, droit d'auteur, brevet et marque
+slug: la-propriete-intellectuelle-droit-d-auteur-brevet-et-marque
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la propriété intellectuelle, droit d'auteur, brevet et marque.
+tags: [droit-civil, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le règlement général sur la protection des données, ses principes
+slug: le-reglement-general-sur-la-protection-des-donnees-ses-principes
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le règlement général sur la protection des données, ses principes.
+tags: [droit-international, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La responsabilité des plateformes en ligne pour les contenus publiés
+slug: la-responsabilite-des-plateformes-en-ligne-pour-les-contenus-publies
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la responsabilité des plateformes en ligne pour les contenus publiés.
+tags: [droit-civil, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le contrat et ses conditions de validité
+slug: le-contrat-et-ses-conditions-de-validite
+categoryPath: droit-et-justice/droit-prive/droit-civil
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le contrat et ses conditions de validité.
+tags: [droit-civil, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit à un tribunal indépendant et impartial
+slug: le-droit-a-un-tribunal-independant-et-impartial
+categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le droit à un tribunal indépendant et impartial.
+tags: [droits-fondamentaux, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le droit de rétractation lors d'un achat en ligne
+slug: le-droit-de-retractation-lors-d-un-achat-en-ligne
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le droit de rétractation lors d'un achat en ligne.
+tags: [droit-de-la-consommation, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les deux ordres de juridictions, judiciaire et administratif
+slug: les-deux-ordres-de-juridictions-judiciaire-et-administratif
+categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les deux ordres de juridictions, judiciaire et administratif.
+tags: [organisation-judiciaire, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les images dénudées générées par IA sans consentement et le droit
+slug: les-images-denudees-generees-par-ia-sans-consentement-et-le-droit
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les images dénudées générées par IA sans consentement et le droit.
+tags: [droit-international, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le télétravail et le droit
+slug: le-teletravail-et-le-droit
+categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télétravail et le droit.
+tags: [droit-du-travail, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le règlement européen sur l'intelligence artificielle, étapes d'application
+slug: le-reglement-europeen-sur-l-intelligence-artificielle-etapes-d-application
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le règlement européen sur l'intelligence artificielle, étapes d'application.
+tags: [droit-international, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les contenus générés par IA et les obligations de transparence
+slug: les-contenus-generes-par-ia-et-les-obligations-de-transparence
+categoryPath: droit-et-justice/droit-public/droit-international
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les contenus générés par IA et les obligations de transparence.
+tags: [droit-international, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La prescription en droit pénal
+slug: la-prescription-en-droit-penal
+categoryPath: droit-et-justice/droit-prive/droit-penal
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la prescription en droit pénal.
+tags: [droit-penal, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.

@@ -11859,3 +11859,231 @@ corps-humain;corps-humain-et-sante/prevention-et-sante-publique;Le remboursement
 intelligence-artificielle;intelligence-artificielle/apprentissage-automatique;Les règles avant les réseaux, les systèmes experts;systemes-experts-les-regles-avant-les-reseaux;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Refaire une carte, la triangulation;refaire-une-carte-par-triangulation;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Marcher et porter longtemps, l'astuce du pendule;marcher-et-porter-longtemps;2;oui;planned
+aeronautique;aeronautique/aerodynamique/portance;Pourquoi un avion vole, portance et écoulement de l'air;pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air;0.91;non;planned
+aeronautique;aeronautique/propulsion/turboreacteurs;Le turboréacteur à double flux, principe de fonctionnement;le-turboreacteur-a-double-flux-principe-de-fonctionnement;0.89;non;planned
+aeronautique;aeronautique/navigation-aerienne/controle-du-trafic-aerien;Comment le contrôle aérien gère des milliers de vols;comment-le-controle-aerien-gere-des-milliers-de-vols;0.88;non;planned
+aeronautique;aeronautique/aerodynamique/portance;Comment les pales d'un hélicoptère créent la portance;comment-les-pales-d-un-helicoptere-creent-la-portance;0.88;non;planned
+aeronautique;aeronautique/aviation-civile/securite;Les turbulences, pourquoi l'avion est secoué;les-turbulences-pourquoi-l-avion-est-secoue;0.88;non;planned
+aeronautique;aeronautique/aerodynamique/ecoulements;Le mur du son et le bang supersonique;le-mur-du-son-et-le-bang-supersonique;0.86;non;planned
+aeronautique;aeronautique/aviation-civile/securite;La boîte noire, deux enregistreurs pour comprendre un accident;la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident;0.83;non;planned
+aeronautique;aeronautique/aerodynamique/ecoulements;Le planeur, voler sans moteur;le-planeur-voler-sans-moteur;0.83;non;planned
+aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;L'horizon artificiel et les instruments de base du pilote;l-horizon-artificiel-et-les-instruments-de-base-du-pilote;0.82;non;planned
+aeronautique;aeronautique/aerodynamique/trainee;Les winglets, petits ailerons contre la traînée;les-winglets-petits-ailerons-contre-la-trainee;0.82;non;planned
+aeronautique;aeronautique/propulsion/propulsion-electrique-aeronautique;L'avion à hydrogène, pile à combustible et réservoirs;l-avion-a-hydrogene-pile-a-combustible-et-reservoirs;0.8;non;planned
+aeronautique;aeronautique/aviation-civile/decarbonation;Les concepts d'avion à hydrogène d'Airbus;les-concepts-d-avion-a-hydrogene-d-airbus;0.76;non;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;La réaction de Maillard, le secret du brunissement des aliments;la-reaction-de-maillard-le-secret-du-brunissement-des-aliments;0.89;non;planned
+alimentation;alimentation-et-nutrition/nutriments/micronutriments;Le fer et la vitamine B12, leurs rôles dans le corps;le-fer-et-la-vitamine-b12-leurs-roles-dans-le-corps;0.89;non;planned
+alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;Les aliments fermentés et le microbiote intestinal;les-aliments-fermentes-et-le-microbiote-intestinal;0.89;non;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Pourquoi le sel et le sucre conservent les aliments;pourquoi-le-sel-et-le-sucre-conservent-les-aliments;0.89;non;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation lactique, des bactéries au service des aliments;la-fermentation-lactique-des-bacteries-au-service-des-aliments;0.88;non;planned
+alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les additifs alimentaires et leur réglementation;les-additifs-alimentaires-et-leur-reglementation;0.87;non;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La pasteurisation, de Pasteur au lait d'aujourd'hui;la-pasteurisation-de-pasteur-au-lait-d-aujourd-hui;0.86;non;planned
+alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;Eau plate et eau gazeuse, quelles différences ?;eau-plate-et-eau-gazeuse-quelles-differences;0.85;non;planned
+alimentation;alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire;L'eau cachée dans les aliments, l'empreinte eau d'un repas;l-eau-cachee-dans-les-aliments-l-empreinte-eau-d-un-repas;0.85;non;planned
+alimentation;alimentation-et-nutrition/nutrition-et-sante;La qualité de l'alimentation compte-t-elle plus que son degré de transformation ?;la-qualite-de-l-alimentation-compte-t-elle-plus-que-son-degre-de-transformation;0.85;non;planned
+alimentation;alimentation-et-nutrition/nutriments/macronutriments;Fructose et glucose, pourquoi le cerveau ne les traite pas de la même façon;fructose-et-glucose-pourquoi-le-cerveau-ne-les-traite-pas-de-la-meme-facon;0.83;non;planned
+alimentation;alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels;Le petit-déjeuner des adolescents et leurs apports en nutriments;le-petit-dejeuner-des-adolescents-et-leurs-apports-en-nutriments;0.83;non;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Les manuscrits enluminés du Moyen Âge;les-manuscrits-enlumines-du-moyen-age;0.89;non;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La typographie, l'histoire des caractères d'imprimerie;la-typographie-l-histoire-des-caracteres-d-imprimerie;0.88;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La perspective, comment les peintres ont appris à tromper l'oeil;la-perspective-comment-les-peintres-ont-appris-a-tromper-l-oeil;0.87;non;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Pourquoi la forme d'un instrument change son son;pourquoi-la-forme-d-un-instrument-change-son-son;0.87;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;Les cabinets de curiosités, ancêtres des musées;les-cabinets-de-curiosites-ancetres-des-musees;0.86;non;planned
+arts;arts-et-culture/patrimoine/patrimoine-immateriel;Les manufactures des Gobelins et de Beauvais, l'art de la tapisserie;les-manufactures-des-gobelins-et-de-beauvais-l-art-de-la-tapisserie;0.86;non;planned
+arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;Les marionnettes et le théâtre d'ombres dans le monde;les-marionnettes-et-le-theatre-d-ombres-dans-le-monde;0.84;non;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Les pigments toxiques des maîtres anciens;les-pigments-toxiques-des-maitres-anciens;0.84;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;Les premières projections des frères Lumière;les-premieres-projections-des-freres-lumiere;0.84;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;Restaurer une oeuvre, retrouver l'original ou le préserver ?;restaurer-une-oeuvre-retrouver-l-original-ou-le-preserver;0.83;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;L'archéologie préventive en France et ses découvertes;l-archeologie-preventive-en-france-et-ses-decouvertes;0.82;non;planned
+arts;arts-et-culture/patrimoine/musees-et-conservation;Le Laboratoire du Louvre et l'étude des oeuvres;le-laboratoire-du-louvre-et-l-etude-des-oeuvres;0.79;non;planned
+automobile;automobile/motorisations/thermique;Le turbocompresseur, comment il augmente la puissance d'un moteur;le-turbocompresseur-comment-il-augmente-la-puissance-d-un-moteur;0.88;non;planned
+automobile;automobile/motorisations/electrique;La recharge rapide d'une voiture électrique, comment ça marche;la-recharge-rapide-d-une-voiture-electrique-comment-ca-marche;0.87;non;planned
+automobile;automobile/securite-et-conduite/aides-a-la-conduite;Le freinage ABS, comment il évite le blocage des roues;le-freinage-abs-comment-il-evite-le-blocage-des-roues;0.87;non;planned
+automobile;automobile/motorisations/motorisations-hybrides;La récupération d'énergie au freinage;la-recuperation-d-energie-au-freinage;0.86;non;planned
+automobile;automobile/securite-et-conduite/conduite-autonome;Les niveaux d'autonomie de la conduite automatisée;les-niveaux-d-autonomie-de-la-conduite-automatisee;0.86;non;planned
+automobile;automobile/motorisations/electrique;Les moteurs électriques à aimants permanents et les terres rares;les-moteurs-electriques-a-aimants-permanents-et-les-terres-rares;0.85;non;planned
+automobile;automobile/usages-et-mobilite/mobilite-partagee;L'autopartage et le covoiturage, bénéfices et limites;l-autopartage-et-le-covoiturage-benefices-et-limites;0.84;non;planned
+automobile;automobile/motorisations/electrique;L'autonomie d'une voiture électrique et le cycle d'homologation WLTP;l-autonomie-d-une-voiture-electrique-et-le-cycle-d-homologation-wltp;0.83;non;planned
+automobile;automobile/industrie-automobile/production;Le véhicule défini par logiciel;le-vehicule-defini-par-logiciel;0.83;non;planned
+automobile;automobile/motorisations/electrique;Les batteries à électrolyte solide et l'autonomie des voitures;les-batteries-a-electrolyte-solide-et-l-autonomie-des-voitures;0.83;non;planned
+automobile;automobile/securite-et-conduite/securite-passive;L'airbag, un déclenchement en quelques millisecondes;l-airbag-un-declenchement-en-quelques-millisecondes;0.8;non;planned
+automobile;automobile/industrie-automobile/reglementation-automobile;La norme Euro 7 et les émissions des véhicules;la-norme-euro-7-et-les-emissions-des-vehicules;0.8;non;planned
+communication;communication-et-medias/information-et-verification/education-aux-medias;Comment vérifier l'origine d'une image trouvée en ligne;comment-verifier-l-origine-d-une-image-trouvee-en-ligne;0.9;non;planned
+communication;communication-et-medias/information-et-verification/journalisme;La vérification des faits, la méthode des journalistes;la-verification-des-faits-la-methode-des-journalistes;0.88;non;planned
+communication;communication-et-medias/medias-numeriques/plateformes-et-moderation;Les algorithmes de recommandation et le fil d'actualité;les-algorithmes-de-recommandation-et-le-fil-d-actualite;0.86;non;planned
+communication;communication-et-medias/histoire-des-medias/radio-et-television;Les débuts de la radio et de la TSF;les-debuts-de-la-radio-et-de-la-tsf;0.86;non;planned
+communication;communication-et-medias/telecommunications/reseaux-mobiles;De la 2G à la 5G, ce qui change à chaque génération;de-la-2g-a-la-5g-ce-qui-change-a-chaque-generation;0.84;non;planned
+communication;communication-et-medias/histoire-des-medias/radio-et-television;La télévision en couleur, de l'invention à la généralisation;la-television-en-couleur-de-l-invention-a-la-generalisation;0.84;non;planned
+communication;communication-et-medias/medias-numeriques/reseaux-sociaux;Les réseaux sociaux comme source d'information des jeunes;les-reseaux-sociaux-comme-source-d-information-des-jeunes;0.84;non;planned
+communication;communication-et-medias/information-et-verification/desinformation;L'ancienneté des fausses nouvelles avant Internet;l-anciennete-des-fausses-nouvelles-avant-internet;0.83;non;planned
+communication;communication-et-medias/medias-numeriques/plateformes-et-moderation;Le règlement européen sur les services numériques;le-reglement-europeen-sur-les-services-numeriques;0.82;non;planned
+communication;communication-et-medias/information-et-verification/journalisme;La confiance dans les médias, les baromètres internationaux;la-confiance-dans-les-medias-les-barometres-internationaux;0.81;non;planned
+communication;communication-et-medias/medias-numeriques/plateformes-et-moderation;Le rôle de l'Arcom dans la lutte contre la manipulation de l'information;le-role-de-l-arcom-dans-la-lutte-contre-la-manipulation-de-l-information;0.81;non;planned
+communication;communication-et-medias/information-et-verification/education-aux-medias;L'évitement de l'information par le public;l-evitement-de-l-information-par-le-public;0.8;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Les vaccins à ARN messager expliqués;les-vaccins-a-arn-messager-expliques;0.89;non;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Le dépistage organisé des cancers en France;le-depistage-organise-des-cancers-en-france;0.87;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Pourquoi le souffle manque en altitude;pourquoi-le-souffle-manque-en-altitude;0.87;non;planned
+corps-humain;corps-humain-et-sante/physiologie/immunite;L'inflammation de bas grade, ce que l'on sait;l-inflammation-de-bas-grade-ce-que-l-on-sait;0.86;non;planned
+corps-humain;corps-humain-et-sante/physiologie/microbiote;La mise en place du microbiote dès la naissance;la-mise-en-place-du-microbiote-des-la-naissance;0.86;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;La maladie de Parkinson et les différences entre hommes et femmes;la-maladie-de-parkinson-et-les-differences-entre-hommes-et-femmes;0.85;non;planned
+corps-humain;corps-humain-et-sante/anatomie;Pourquoi un bébé a plus d'os qu'un adulte;pourquoi-un-bebe-a-plus-d-os-qu-un-adulte;0.85;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;Le manque de sommeil et l'activité des gènes de l'immunité;le-manque-de-sommeil-et-l-activite-des-genes-de-l-immunite;0.83;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le cœur et la flore intestinale;le-c-ur-et-la-flore-intestinale;0.82;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;La sensation de chute à l'endormissement;la-sensation-de-chute-a-l-endormissement;0.79;non;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le stress chronique et les cellules NK;le-stress-chronique-et-les-cellules-nk;0.79;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le bâillement contagieux et l'empathie;le-baillement-contagieux-et-l-empathie;0.78;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;La propriété intellectuelle, droit d'auteur, brevet et marque;la-propriete-intellectuelle-droit-d-auteur-brevet-et-marque;0.9;non;planned
+droit;droit-et-justice/droit-public/droit-international;Le règlement général sur la protection des données, ses principes;le-reglement-general-sur-la-protection-des-donnees-ses-principes;0.88;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;La responsabilité des plateformes en ligne pour les contenus publiés;la-responsabilite-des-plateformes-en-ligne-pour-les-contenus-publies;0.87;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le contrat et ses conditions de validité;le-contrat-et-ses-conditions-de-validite;0.87;non;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Le droit à un tribunal indépendant et impartial;le-droit-a-un-tribunal-independant-et-impartial;0.86;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le droit de rétractation lors d'un achat en ligne;le-droit-de-retractation-lors-d-un-achat-en-ligne;0.86;non;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Les deux ordres de juridictions, judiciaire et administratif;les-deux-ordres-de-juridictions-judiciaire-et-administratif;0.85;non;planned
+droit;droit-et-justice/droit-public/droit-international;Les images dénudées générées par IA sans consentement et le droit;les-images-denudees-generees-par-ia-sans-consentement-et-le-droit;0.85;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le télétravail et le droit;le-teletravail-et-le-droit;0.84;non;planned
+droit;droit-et-justice/droit-public/droit-international;Le règlement européen sur l'intelligence artificielle, étapes d'application;le-reglement-europeen-sur-l-intelligence-artificielle-etapes-d-application;0.83;non;planned
+droit;droit-et-justice/droit-public/droit-international;Les contenus générés par IA et les obligations de transparence;les-contenus-generes-par-ia-et-les-obligations-de-transparence;0.83;non;planned
+droit;droit-et-justice/droit-prive/droit-penal;La prescription en droit pénal;la-prescription-en-droit-penal;0.82;non;planned
+energie;energie/energies-renouvelables/eolien;Comment fonctionne une éolienne;comment-fonctionne-une-eolienne;0.91;non;planned
+energie;energie/energies-fossiles-et-nucleaire/nucleaire;La fission expliquée, de l'atome à la turbine;la-fission-expliquee-de-l-atome-a-la-turbine;0.9;non;planned
+energie;energie/energies-renouvelables/eolien;L'éolien en mer et les éoliennes flottantes;l-eolien-en-mer-et-les-eoliennes-flottantes;0.87;non;planned
+energie;energie/efficacite-et-sobriete/usages-et-consommation;La production d'électricité en France par filière;la-production-d-electricite-en-france-par-filiere;0.87;non;planned
+energie;energie/energies-fossiles-et-nucleaire/nucleaire;La fusion nucléaire, où en sont les réacteurs expérimentaux;la-fusion-nucleaire-ou-en-sont-les-reacteurs-experimentaux;0.85;non;planned
+energie;energie/energies-renouvelables/solaire;Les cellules solaires en pérovskite;les-cellules-solaires-en-perovskite;0.85;non;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;Les réseaux intelligents et la flexibilité de la demande;les-reseaux-intelligents-et-la-flexibilite-de-la-demande;0.84;non;planned
+energie;energie/energies-renouvelables/solaire;L'agrivoltaïsme, produire de l'électricité et des cultures;l-agrivoltaisme-produire-de-l-electricite-et-des-cultures;0.83;non;planned
+energie;energie/reseaux-et-stockage/batteries;Le stockage d'énergie par air comprimé;le-stockage-d-energie-par-air-comprime;0.83;non;planned
+energie;energie/energies-renouvelables/solaire;Les cellules tandem silicium-pérovskite;les-cellules-tandem-silicium-perovskite;0.83;non;planned
+energie;energie/reseaux-et-stockage/batteries;Les méga-batteries qui stabilisent le réseau électrique;les-mega-batteries-qui-stabilisent-le-reseau-electrique;0.83;non;planned
+energie;energie/reseaux-et-stockage/batteries;Les batteries à flux redox;les-batteries-a-flux-redox;0.8;non;planned
+environnement;environnement-et-climat/changement-climatique/impacts-et-adaptation;L'élévation du niveau de la mer et les littoraux;l-elevation-du-niveau-de-la-mer-et-les-littoraux;0.92;non;planned
+environnement;environnement-et-climat/biodiversite/forets-et-oceans;Le blanchissement des coraux;le-blanchissement-des-coraux;0.92;non;planned
+environnement;environnement-et-climat/biodiversite/forets-et-oceans;Les récifs coralliens et l'acidification des océans;les-recifs-coralliens-et-l-acidification-des-oceans;0.91;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le compostage des déchets de cuisine;le-compostage-des-dechets-de-cuisine;0.89;non;planned
+environnement;environnement-et-climat/changement-climatique/scenarios;Le lien entre crise climatique et crise de la biodiversité, rapport GIEC et IPBES;le-lien-entre-crise-climatique-et-crise-de-la-biodiversite-rapport-giec-et-ipbes;0.89;non;planned
+environnement;environnement-et-climat/changement-climatique/gaz-a-effet-de-serre;Le méthane, un gaz à effet de serre puissant;le-methane-un-gaz-a-effet-de-serre-puissant;0.89;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;Les particules fines, taille et effets;les-particules-fines-taille-et-effets;0.89;non;planned
+environnement;environnement-et-climat/biodiversite/ecosystemes;Les pollinisateurs sauvages et les cultures;les-pollinisateurs-sauvages-et-les-cultures;0.89;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Les zones humides, éponges naturelles;les-zones-humides-eponges-naturelles;0.88;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le recyclage du plastique, ce qui est réellement recyclé;le-recyclage-du-plastique-ce-qui-est-reellement-recycle;0.87;non;planned
+environnement;environnement-et-climat/biodiversite/forets-et-oceans;Les espèces des grandes profondeurs océaniques;les-especes-des-grandes-profondeurs-oceaniques;0.86;non;planned
+environnement;environnement-et-climat/changement-climatique/impacts-et-adaptation;La fonte des glaciers et la vie microbienne des cours d'eau glaciaires;la-fonte-des-glaciers-et-la-vie-microbienne-des-cours-d-eau-glaciaires;0.84;non;planned
+espace;espace-et-astronomie/systeme-solaire/lune;Les marées et l'effet de la Lune sur les océans;les-marees-et-l-effet-de-la-lune-sur-les-oceans;0.92;non;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Comment une fusée atteint l'orbite;comment-une-fusee-atteint-l-orbite;0.91;non;planned
+espace;espace-et-astronomie/astrophysique/etoiles;La naissance des étoiles;la-naissance-des-etoiles;0.9;non;planned
+espace;espace-et-astronomie/systeme-solaire/lune;Les éclipses de Lune et de Soleil;les-eclipses-de-lune-et-de-soleil;0.9;non;planned
+espace;espace-et-astronomie/exploration-spatiale/vols-habites;Comment les astronautes vivent en apesanteur;comment-les-astronautes-vivent-en-apesanteur;0.89;non;planned
+espace;espace-et-astronomie/systeme-solaire/planetes;Les exoplanètes de la zone habitable;les-exoplanetes-de-la-zone-habitable;0.88;non;planned
+espace;espace-et-astronomie/astrophysique/cosmologie;Les lentilles gravitationnelles et les amas de galaxies;les-lentilles-gravitationnelles-et-les-amas-de-galaxies;0.88;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;Le télescope Webb et l'atmosphère des exoplanètes;le-telescope-webb-et-l-atmosphere-des-exoplanetes;0.87;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;Le télescope spatial PLATO de l'ESA;le-telescope-spatial-plato-de-l-esa;0.84;non;planned
+espace;espace-et-astronomie/observation-astronomique/messagers-du-cosmos;La microlentille gravitationnelle et la détection d'exoplanètes;la-microlentille-gravitationnelle-et-la-detection-d-exoplanetes;0.83;non;planned
+espace;espace-et-astronomie/systeme-solaire/petits-corps;Les Perséides et les Géminides, pluies d'étoiles filantes;les-perseides-et-les-geminides-pluies-d-etoiles-filantes;0.83;non;planned
+espace;espace-et-astronomie/observation-astronomique/telescopes;Le télescope spatial Nancy Grace Roman et la chasse aux exoplanètes;le-telescope-spatial-nancy-grace-roman-et-la-chasse-aux-exoplanetes;0.82;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;La projection de Mercator et la déformation des cartes;la-projection-de-mercator-et-la-deformation-des-cartes;0.89;non;planned
+geographie;geographie-et-territoires/geographie-humaine/urbanisation;L'organisation d'une ville, centre et périphéries;l-organisation-d-une-ville-centre-et-peripheries;0.87;non;planned
+geographie;geographie-et-territoires/geopolitique/frontieres;Les frontières du monde, tracés et contestations;les-frontieres-du-monde-traces-et-contestations;0.87;non;planned
+geographie;geographie-et-territoires/geographie-physique/hydrographie;Les lignes de partage des eaux et les bassins versants;les-lignes-de-partage-des-eaux-et-les-bassins-versants;0.87;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;La taille réelle des pays sur une carte;la-taille-reelle-des-pays-sur-une-carte;0.86;non;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Les déserts du monde et leurs superficies;les-deserts-du-monde-et-leurs-superficies;0.84;non;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Les fuseaux horaires, pourquoi 24 tranches;les-fuseaux-horaires-pourquoi-24-tranches;0.84;non;planned
+geographie;geographie-et-territoires/geographie-humaine/migrations;Les migrations internes en France;les-migrations-internes-en-france;0.84;non;planned
+geographie;geographie-et-territoires/geographie-physique;Les territoires d'outre-mer français, un espace dispersé;les-territoires-d-outre-mer-francais-un-espace-disperse;0.84;non;planned
+geographie;geographie-et-territoires/geopolitique/routes-et-detroits;La maritimisation de l'économie mondiale et les flux;la-maritimisation-de-l-economie-mondiale-et-les-flux;0.83;non;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;La dynamique démographique des départements français;la-dynamique-demographique-des-departements-francais;0.82;non;planned
+geographie;geographie-et-territoires/geographie-humaine;Les littoraux français, une population dense sur un petit territoire;les-littoraux-francais-une-population-dense-sur-un-petit-territoire;0.81;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication des panneaux solaires en silicium;la-fabrication-des-panneaux-solaires-en-silicium;0.87;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication des puces en silicium, du wafer au boîtier;la-fabrication-des-puces-en-silicium-du-wafer-au-boitier;0.87;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Le conteneur maritime, la boîte qui a changé le commerce;le-conteneur-maritime-la-boite-qui-a-change-le-commerce;0.87;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication du papier, du bois à la feuille;la-fabrication-du-papier-du-bois-a-la-feuille;0.86;non;planned
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;La normalisation ISO, pourquoi des normes communes;la-normalisation-iso-pourquoi-des-normes-communes;0.83;non;planned
+industries;industries/industrie-manufacturiere/automatisation;La réindustrialisation et la robotique en France;la-reindustrialisation-et-la-robotique-en-france;0.83;non;planned
+industries;industries/industrie-lourde/siderurgie;Le haut-fourneau et le four électrique, deux filières d'acier;le-haut-fourneau-et-le-four-electrique-deux-filieres-d-acier;0.82;non;planned
+industries;industries/industrie-lourde/siderurgie;L'acier décarboné produit avec de l'hydrogène;l-acier-decarbone-produit-avec-de-l-hydrogene;0.81;non;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;La fabrication additive et les pièces détachées locales;la-fabrication-additive-et-les-pieces-detachees-locales;0.81;non;planned
+industries;industries/materiaux-et-procedes/mise-en-forme;Le recyclage des aimants de terres rares;le-recyclage-des-aimants-de-terres-rares;0.81;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Les gigafactories de batteries en Europe;les-gigafactories-de-batteries-en-europe;0.79;non;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Les micro-usines et les fab labs;les-micro-usines-et-les-fab-labs;0.79;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Comment les mots de passe sont protégés;comment-les-mots-de-passe-sont-proteges;0.91;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Le chiffrement RSA et les clés publique et privée;le-chiffrement-rsa-et-les-cles-publique-et-privee;0.91;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Comment voyagent les données sur Internet;comment-voyagent-les-donnees-sur-internet;0.9;non;planned
+informatique;micro-informatique-et-informatique/logiciel/algorithmes;L'algorithme de Shor et la menace sur le chiffrement RSA;l-algorithme-de-shor-et-la-menace-sur-le-chiffrement-rsa;0.89;non;planned
+informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Les mémoires SSD et les disques durs;les-memoires-ssd-et-les-disques-durs;0.88;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le protocole Internet, des années 1970 à aujourd'hui;le-protocole-internet-des-annees-1970-a-aujourd-hui;0.87;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Le passage à la cryptographie post-quantique dans les systèmes d'information;le-passage-a-la-cryptographie-post-quantique-dans-les-systemes-d-information;0.86;non;planned
+informatique;micro-informatique-et-informatique/donnees/representation-et-compression;Le pixel et la représentation des images;le-pixel-et-la-representation-des-images;0.86;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/cybersecurite;Les premiers standards de cryptographie post-quantique du NIST;les-premiers-standards-de-cryptographie-post-quantique-du-nist;0.84;non;planned
+informatique;micro-informatique-et-informatique/donnees/bases-de-donnees;Les bases de données vectorielles et l'intelligence artificielle;les-bases-de-donnees-vectorielles-et-l-intelligence-artificielle;0.83;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Les processeurs open source RISC-V;les-processeurs-open-source-risc-v;0.83;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Les processeurs quantiques supraconducteurs;les-processeurs-quantiques-supraconducteurs;0.83;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique;Comment un réseau ajuste ses poids pendant l'apprentissage;comment-un-reseau-ajuste-ses-poids-pendant-l-apprentissage;0.9;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique/apprentissage-profond;AlexNet et l'essor de l'apprentissage profond en 2012;alexnet-et-l-essor-de-l-apprentissage-profond-en-2012;0.86;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/ia-generative;L'IA vocale et les assistants conversationnels;l-ia-vocale-et-les-assistants-conversationnels;0.85;non;planned
+intelligence-artificielle;intelligence-artificielle/apprentissage-automatique;Le perceptron de 1957, premier algorithme d'apprentissage;le-perceptron-de-1957-premier-algorithme-d-apprentissage;0.85;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Pourquoi une IA peut se tromper avec assurance;pourquoi-une-ia-peut-se-tromper-avec-assurance;0.85;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;L'IA physique et les robots capables de généraliser;l-ia-physique-et-les-robots-capables-de-generaliser;0.83;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;La fenêtre de contexte d'un modèle de langage;la-fenetre-de-contexte-d-un-modele-de-langage;0.83;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Les modèles de raisonnement et la réflexion étape par étape;les-modeles-de-raisonnement-et-la-reflexion-etape-par-etape;0.83;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/transformeurs;Les modèles qui combinent vision et langage;les-modeles-qui-combinent-vision-et-langage;0.83;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/travail-et-usages;Les usages encadrés de l'IA dans la justice;les-usages-encadres-de-l-ia-dans-la-justice;0.83;non;planned
+intelligence-artificielle;intelligence-artificielle/modeles-de-langage/limites-et-erreurs;Les tests de performance des IA et leurs limites;les-tests-de-performance-des-ia-et-leurs-limites;0.82;non;planned
+intelligence-artificielle;intelligence-artificielle/ethique-et-societe/regulation;Les pratiques interdites par le règlement européen sur l'IA;les-pratiques-interdites-par-le-reglement-europeen-sur-l-ia;0.81;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les vaccins à ARN messager, principe de fonctionnement;les-vaccins-a-arn-messager-principe-de-fonctionnement;0.9;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/genie-genetique;CRISPR, les ciseaux génétiques;crispr-les-ciseaux-genetiques;0.89;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/imagerie-medicale;L'IRM, comment elle fabrique des images du corps;l-irm-comment-elle-fabrique-des-images-du-corps;0.88;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/sols-et-fertilite;Le microbiome du sol et les cultures;le-microbiome-du-sol-et-les-cultures;0.87;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;L'essai clinique randomisé en double aveugle;l-essai-clinique-randomise-en-double-aveugle;0.86;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese;La bioluminescence, des microbes qui produisent de la lumière;la-bioluminescence-des-microbes-qui-produisent-de-la-lumiere;0.86;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/selection-vegetale;L'édition génomique des plantes et la sélection végétale;l-edition-genomique-des-plantes-et-la-selection-vegetale;0.85;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;L'ARN messager et la médecine régénérative;l-arn-messager-et-la-medecine-regenerative;0.84;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese;Les bioplastiques à base de ressources renouvelables;les-bioplastiques-a-base-de-ressources-renouvelables;0.84;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/agriculture-durable;La protection des cultures par ARN;la-protection-des-cultures-par-arn;0.81;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/selection-vegetale;La réglementation européenne des nouvelles techniques génomiques;la-reglementation-europeenne-des-nouvelles-techniques-genomiques;0.8;non;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/genie-genetique;Les recombinases guidées par ARN;les-recombinases-guidees-par-arn;0.73;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;La gravité vue comme une déformation de l'espace-temps;la-gravite-vue-comme-une-deformation-de-l-espace-temps;0.92;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;Les quatre interactions fondamentales;les-quatre-interactions-fondamentales;0.91;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Pourquoi la glace flotte sur l'eau;pourquoi-la-glace-flotte-sur-l-eau;0.91;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Pourquoi un lac gèle par le dessus;pourquoi-un-lac-gele-par-le-dessus;0.9;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Le qubit, l'unité de l'informatique quantique;le-qubit-l-unite-de-l-informatique-quantique;0.88;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;La réaction de Maillard vue par la chimie;la-reaction-de-maillard-vue-par-la-chimie;0.87;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/evolution;Les animaux des profondeurs et l'adaptation à la pression;les-animaux-des-profondeurs-et-l-adaptation-a-la-pression;0.87;non;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;De la sphère au plan, la géométrie des projections de cartes;de-la-sphere-au-plan-la-geometrie-des-projections-de-cartes;0.86;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les fosses océaniques et la zone hadale;les-fosses-oceaniques-et-la-zone-hadale;0.85;non;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Les matériaux topologiques et les supraconducteurs de surface;les-materiaux-topologiques-et-les-supraconducteurs-de-surface;0.76;non;planned
+sciences-fondamentales;sciences-fondamentales/biologie/genetique;Les mutations nuisibles des derniers mammouths;les-mutations-nuisibles-des-derniers-mammouths;0.74;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Les supraconducteurs à réseau kagome;les-supraconducteurs-a-reseau-kagome;0.74;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/epoque-contemporaine;La révolution industrielle et ses tensions sociales;la-revolution-industrielle-et-ses-tensions-sociales;0.92;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;Le développement de l'enfant selon Piaget;le-developpement-de-l-enfant-selon-piaget;0.91;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;L'économie comportementale de Kahneman et Tversky;l-economie-comportementale-de-kahneman-et-tversky;0.9;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;L'éducation et la mobilité sociale;l-education-et-la-mobilite-sociale;0.89;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;La procrastination, pourquoi on remet à plus tard;la-procrastination-pourquoi-on-remet-a-plus-tard;0.89;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Pourquoi croit-on aux fausses informations ?;pourquoi-croit-on-aux-fausses-informations;0.89;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Les biais émotionnels dans les décisions;les-biais-emotionnels-dans-les-decisions;0.88;non;planned
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Les rumeurs et leur circulation;les-rumeurs-et-leur-circulation;0.84;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Le nudge, inciter sans contraindre;le-nudge-inciter-sans-contraindre;0.83;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Pourquoi la monnaie réapparaît toujours;pourquoi-la-monnaie-reapparait-toujours;0.8;non;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;L'inflation et la quantité de monnaie selon Jean Bodin;l-inflation-et-la-quantite-de-monnaie-selon-jean-bodin;0.75;non;planned
+sciences-humaines;sciences-humaines-et-sociales/histoire/prehistoire;Le prince celte de Lavau et sa tombe;le-prince-celte-de-lavau-et-sa-tombe;0.74;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;L'échauffement avant l'effort;l-echauffement-avant-l-effort;0.86;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;L'EPO et le dopage sanguin;l-epo-et-le-dopage-sanguin;0.86;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;L'entraînement en altitude et les globules rouges;l-entrainement-en-altitude-et-les-globules-rouges;0.85;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'acide lactique et la fatigue, un mythe tenace;l-acide-lactique-et-la-fatigue-un-mythe-tenace;0.83;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;La science du sport dans les équipes de haut niveau;la-science-du-sport-dans-les-equipes-de-haut-niveau;0.83;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Les crampes musculaires et leurs causes débattues;les-crampes-musculaires-et-leurs-causes-debattues;0.83;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le moment de l'ingestion des nutriments et la performance;le-moment-de-l-ingestion-des-nutriments-et-la-performance;0.82;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Les capteurs portés au poignet et l'activité physique;les-capteurs-portes-au-poignet-et-l-activite-physique;0.82;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records du monde et leurs limites;les-records-du-monde-et-leurs-limites;0.82;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records de 1968 à Mexico et l'altitude;les-records-de-1968-a-mexico-et-l-altitude;0.8;non;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;La récupération après l'effort et les montres connectées;la-recuperation-apres-l-effort-et-les-montres-connectees;0.79;non;planned
+sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Le dopage technologique et les chaussures de marathon;le-dopage-technologique-et-les-chaussures-de-marathon;0.79;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/applications;La nanofabrication, construire à l'échelle du milliardième de mètre;la-nanofabrication-construire-a-l-echelle-du-milliardieme-de-metre;0.85;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Le béton bas carbone et les géopolymères;le-beton-bas-carbone-et-les-geopolymeres;0.84;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;Les moteurs pas à pas;les-moteurs-pas-a-pas;0.83;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;Les exosquelettes et l'aide à la marche;les-exosquelettes-et-l-aide-a-la-marche;0.82;non;planned
+technologies;technologies-et-ingenierie/genie-civil/structures;L'optimisation topologique pour économiser la matière;l-optimisation-topologique-pour-economiser-la-matiere;0.79;non;planned
+technologies;technologies-et-ingenierie/genie-civil/structures;Le pont imprimé en 3D et la construction bas carbone;le-pont-imprime-en-3d-et-la-construction-bas-carbone;0.79;non;planned
+technologies;technologies-et-ingenierie/nanotechnologies/nanomateriaux;Les matériaux nanostructurés pour l'impression 3D;les-materiaux-nanostructures-pour-l-impression-3d;0.79;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Le béton imprimé en 3D et les bâtiments;le-beton-imprime-en-3d-et-les-batiments;0.78;non;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;Les composites auto-cicatrisants;les-composites-auto-cicatrisants;0.78;non;planned
+technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les robots de construction;les-robots-de-construction;0.78;non;planned
+technologies;technologies-et-ingenierie/genie-civil/structures;Les structures gonflables et déployables;les-structures-gonflables-et-deployables;0.78;non;planned
+technologies;technologies-et-ingenierie/genie-civil/materiaux;Le béton autocicatrisant;le-beton-autocicatrisant;0.77;non;planned

@@ -18865,3 +18865,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La gravité vue comme une déformation de l'espace-temps
+slug: la-gravite-vue-comme-une-deformation-de-l-espace-temps
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la gravité vue comme une déformation de l'espace-temps.
+tags: [mecanique, veille-2026-09]
+priority: 0.92
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les quatre interactions fondamentales
+slug: les-quatre-interactions-fondamentales
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les quatre interactions fondamentales.
+tags: [mecanique, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi la glace flotte sur l'eau
+slug: pourquoi-la-glace-flotte-sur-l-eau
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi la glace flotte sur l'eau.
+tags: [thermodynamique, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi un lac gèle par le dessus
+slug: pourquoi-un-lac-gele-par-le-dessus
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi un lac gèle par le dessus.
+tags: [thermodynamique, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le qubit, l'unité de l'informatique quantique
+slug: le-qubit-l-unite-de-l-informatique-quantique
+categoryPath: sciences-fondamentales/physique/physique-quantique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le qubit, l'unité de l'informatique quantique.
+tags: [physique-quantique, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La réaction de Maillard vue par la chimie
+slug: la-reaction-de-maillard-vue-par-la-chimie
+categoryPath: sciences-fondamentales/chimie/chimie-physique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réaction de Maillard vue par la chimie.
+tags: [chimie-physique, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les animaux des profondeurs et l'adaptation à la pression
+slug: les-animaux-des-profondeurs-et-l-adaptation-a-la-pression
+categoryPath: sciences-fondamentales/biologie/evolution
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les animaux des profondeurs et l'adaptation à la pression.
+tags: [evolution, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: De la sphère au plan, la géométrie des projections de cartes
+slug: de-la-sphere-au-plan-la-geometrie-des-projections-de-cartes
+categoryPath: sciences-fondamentales/mathematiques/geometrie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : de la sphère au plan, la géométrie des projections de cartes.
+tags: [geometrie, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fosses océaniques et la zone hadale
+slug: les-fosses-oceaniques-et-la-zone-hadale
+categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les fosses océaniques et la zone hadale.
+tags: [oceanographie, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les matériaux topologiques et les supraconducteurs de surface
+slug: les-materiaux-topologiques-et-les-supraconducteurs-de-surface
+categoryPath: sciences-fondamentales/chimie/chimie-inorganique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les matériaux topologiques et les supraconducteurs de surface.
+tags: [chimie-inorganique, veille-2026-09]
+priority: 0.76
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les mutations nuisibles des derniers mammouths
+slug: les-mutations-nuisibles-des-derniers-mammouths
+categoryPath: sciences-fondamentales/biologie/genetique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les mutations nuisibles des derniers mammouths.
+tags: [genetique, veille-2026-09]
+priority: 0.74
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les supraconducteurs à réseau kagome
+slug: les-supraconducteurs-a-reseau-kagome
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les supraconducteurs à réseau kagome.
+tags: [electromagnetisme, veille-2026-09]
+priority: 0.74
+essentiel: false
+status: planned
+---
+
+À rédiger.

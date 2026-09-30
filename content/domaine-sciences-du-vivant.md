@@ -9084,3 +9084,183 @@ Les derniers mammouths laineux ont disparu de l'île Wrangel il y a environ 4 00
 - Il n'en reste pas assez d'ADN intact pour guider la fabrication d'un embryon de mammouth.
 - Dolly est la seule agnelle arrivée à l'âge adulte sur 277 tentatives.
 - Aucune méthode pour ressusciter le mammouth laineux n'est réalisable aujourd'hui.
+
+---
+type: article
+title: Les vaccins à ARN messager, principe de fonctionnement
+slug: les-vaccins-a-arn-messager-principe-de-fonctionnement
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les vaccins à ARN messager, principe de fonctionnement.
+tags: [pharmacologie, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: CRISPR, les ciseaux génétiques
+slug: crispr-les-ciseaux-genetiques
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : cRISPR, les ciseaux génétiques.
+tags: [genie-genetique, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'IRM, comment elle fabrique des images du corps
+slug: l-irm-comment-elle-fabrique-des-images-du-corps
+categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'IRM, comment elle fabrique des images du corps.
+tags: [imagerie-medicale, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le microbiome du sol et les cultures
+slug: le-microbiome-du-sol-et-les-cultures
+categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le microbiome du sol et les cultures.
+tags: [sols-et-fertilite, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'essai clinique randomisé en double aveugle
+slug: l-essai-clinique-randomise-en-double-aveugle
+categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'essai clinique randomisé en double aveugle.
+tags: [medecine-fondee-sur-les-preuves, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La bioluminescence, des microbes qui produisent de la lumière
+slug: la-bioluminescence-des-microbes-qui-produisent-de-la-lumiere
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la bioluminescence, des microbes qui produisent de la lumière.
+tags: [biologie-de-synthese, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'édition génomique des plantes et la sélection végétale
+slug: l-edition-genomique-des-plantes-et-la-selection-vegetale
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'édition génomique des plantes et la sélection végétale.
+tags: [selection-vegetale, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'ARN messager et la médecine régénérative
+slug: l-arn-messager-et-la-medecine-regenerative
+categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'ARN messager et la médecine régénérative.
+tags: [pharmacologie, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les bioplastiques à base de ressources renouvelables
+slug: les-bioplastiques-a-base-de-ressources-renouvelables
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les bioplastiques à base de ressources renouvelables.
+tags: [biologie-de-synthese, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La protection des cultures par ARN
+slug: la-protection-des-cultures-par-arn
+categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la protection des cultures par ARN.
+tags: [agriculture-durable, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La réglementation européenne des nouvelles techniques génomiques
+slug: la-reglementation-europeenne-des-nouvelles-techniques-genomiques
+categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réglementation européenne des nouvelles techniques génomiques.
+tags: [selection-vegetale, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les recombinases guidées par ARN
+slug: les-recombinases-guidees-par-arn
+categoryPath: sciences-du-vivant-appliquees/biotechnologies/genie-genetique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les recombinases guidées par ARN.
+tags: [genie-genetique, veille-2026-09]
+priority: 0.73
+essentiel: false
+status: planned
+---
+
+À rédiger.

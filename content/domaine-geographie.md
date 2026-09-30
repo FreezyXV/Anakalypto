@@ -9697,3 +9697,183 @@ Il faut un terrain dégagé, deux piquets, et de quoi mesurer une longueur et un
 - En 1617, Snellius publie sa triangulation des Pays-Bas pour mesurer la Terre.
 - En 1792, Delambre et Méchain commencent à mesurer un arc du méridien de Paris entre Dunkerque et Barcelone.
 - Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre.
+
+---
+type: article
+title: La projection de Mercator et la déformation des cartes
+slug: la-projection-de-mercator-et-la-deformation-des-cartes
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la projection de Mercator et la déformation des cartes.
+tags: [reliefs, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'organisation d'une ville, centre et périphéries
+slug: l-organisation-d-une-ville-centre-et-peripheries
+categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'organisation d'une ville, centre et périphéries.
+tags: [urbanisation, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les frontières du monde, tracés et contestations
+slug: les-frontieres-du-monde-traces-et-contestations
+categoryPath: geographie-et-territoires/geopolitique/frontieres
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les frontières du monde, tracés et contestations.
+tags: [frontieres, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lignes de partage des eaux et les bassins versants
+slug: les-lignes-de-partage-des-eaux-et-les-bassins-versants
+categoryPath: geographie-et-territoires/geographie-physique/hydrographie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les lignes de partage des eaux et les bassins versants.
+tags: [hydrographie, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La taille réelle des pays sur une carte
+slug: la-taille-reelle-des-pays-sur-une-carte
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la taille réelle des pays sur une carte.
+tags: [reliefs, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les déserts du monde et leurs superficies
+slug: les-deserts-du-monde-et-leurs-superficies
+categoryPath: geographie-et-territoires/geographie-physique/reliefs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les déserts du monde et leurs superficies.
+tags: [reliefs, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les fuseaux horaires, pourquoi 24 tranches
+slug: les-fuseaux-horaires-pourquoi-24-tranches
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les fuseaux horaires, pourquoi 24 tranches.
+tags: [climatologie, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les migrations internes en France
+slug: les-migrations-internes-en-france
+categoryPath: geographie-et-territoires/geographie-humaine/migrations
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les migrations internes en France.
+tags: [migrations, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les territoires d'outre-mer français, un espace dispersé
+slug: les-territoires-d-outre-mer-francais-un-espace-disperse
+categoryPath: geographie-et-territoires/geographie-physique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les territoires d'outre-mer français, un espace dispersé.
+tags: [geographie-physique, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La maritimisation de l'économie mondiale et les flux
+slug: la-maritimisation-de-l-economie-mondiale-et-les-flux
+categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la maritimisation de l'économie mondiale et les flux.
+tags: [routes-et-detroits, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La dynamique démographique des départements français
+slug: la-dynamique-demographique-des-departements-francais
+categoryPath: geographie-et-territoires/geographie-humaine/demographie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la dynamique démographique des départements français.
+tags: [demographie, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les littoraux français, une population dense sur un petit territoire
+slug: les-littoraux-francais-une-population-dense-sur-un-petit-territoire
+categoryPath: geographie-et-territoires/geographie-humaine
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les littoraux français, une population dense sur un petit territoire.
+tags: [geographie-humaine, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.

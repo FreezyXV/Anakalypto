@@ -9549,3 +9549,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: L'élévation du niveau de la mer et les littoraux
+slug: l-elevation-du-niveau-de-la-mer-et-les-littoraux
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'élévation du niveau de la mer et les littoraux.
+tags: [impacts-et-adaptation, veille-2026-09]
+priority: 0.92
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le blanchissement des coraux
+slug: le-blanchissement-des-coraux
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le blanchissement des coraux.
+tags: [forets-et-oceans, veille-2026-09]
+priority: 0.92
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les récifs coralliens et l'acidification des océans
+slug: les-recifs-coralliens-et-l-acidification-des-oceans
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les récifs coralliens et l'acidification des océans.
+tags: [forets-et-oceans, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le compostage des déchets de cuisine
+slug: le-compostage-des-dechets-de-cuisine
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le compostage des déchets de cuisine.
+tags: [dechets-et-recyclage, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le lien entre crise climatique et crise de la biodiversité, rapport GIEC et IPBES
+slug: le-lien-entre-crise-climatique-et-crise-de-la-biodiversite-rapport-giec-et-ipbes
+categoryPath: environnement-et-climat/changement-climatique/scenarios
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le lien entre crise climatique et crise de la biodiversité, rapport GIEC et IPBES.
+tags: [scenarios, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le méthane, un gaz à effet de serre puissant
+slug: le-methane-un-gaz-a-effet-de-serre-puissant
+categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le méthane, un gaz à effet de serre puissant.
+tags: [gaz-a-effet-de-serre, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les particules fines, taille et effets
+slug: les-particules-fines-taille-et-effets
+categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les particules fines, taille et effets.
+tags: [qualite-de-l-air, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pollinisateurs sauvages et les cultures
+slug: les-pollinisateurs-sauvages-et-les-cultures
+categoryPath: environnement-et-climat/biodiversite/ecosystemes
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les pollinisateurs sauvages et les cultures.
+tags: [ecosystemes, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les zones humides, éponges naturelles
+slug: les-zones-humides-eponges-naturelles
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les zones humides, éponges naturelles.
+tags: [eau, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage du plastique, ce qui est réellement recyclé
+slug: le-recyclage-du-plastique-ce-qui-est-reellement-recycle
+categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le recyclage du plastique, ce qui est réellement recyclé.
+tags: [dechets-et-recyclage, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les espèces des grandes profondeurs océaniques
+slug: les-especes-des-grandes-profondeurs-oceaniques
+categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les espèces des grandes profondeurs océaniques.
+tags: [forets-et-oceans, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fonte des glaciers et la vie microbienne des cours d'eau glaciaires
+slug: la-fonte-des-glaciers-et-la-vie-microbienne-des-cours-d-eau-glaciaires
+categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fonte des glaciers et la vie microbienne des cours d'eau glaciaires.
+tags: [impacts-et-adaptation, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.

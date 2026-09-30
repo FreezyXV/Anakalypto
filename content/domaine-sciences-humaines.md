@@ -11965,3 +11965,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La révolution industrielle et ses tensions sociales
+slug: la-revolution-industrielle-et-ses-tensions-sociales
+categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la révolution industrielle et ses tensions sociales.
+tags: [epoque-contemporaine, veille-2026-09]
+priority: 0.92
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le développement de l'enfant selon Piaget
+slug: le-developpement-de-l-enfant-selon-piaget
+categoryPath: sciences-humaines-et-sociales/psychologie/developpement
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le développement de l'enfant selon Piaget.
+tags: [developpement, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'économie comportementale de Kahneman et Tversky
+slug: l-economie-comportementale-de-kahneman-et-tversky
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'économie comportementale de Kahneman et Tversky.
+tags: [microeconomie, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'éducation et la mobilité sociale
+slug: l-education-et-la-mobilite-sociale
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'éducation et la mobilité sociale.
+tags: [education-et-mobilite, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La procrastination, pourquoi on remet à plus tard
+slug: la-procrastination-pourquoi-on-remet-a-plus-tard
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la procrastination, pourquoi on remet à plus tard.
+tags: [biais-cognitifs, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi croit-on aux fausses informations ?
+slug: pourquoi-croit-on-aux-fausses-informations
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi croit-on aux fausses informations ?.
+tags: [cognition, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les biais émotionnels dans les décisions
+slug: les-biais-emotionnels-dans-les-decisions
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les biais émotionnels dans les décisions.
+tags: [biais-cognitifs, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les rumeurs et leur circulation
+slug: les-rumeurs-et-leur-circulation
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les rumeurs et leur circulation.
+tags: [groupes-et-normes, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le nudge, inciter sans contraindre
+slug: le-nudge-inciter-sans-contraindre
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le nudge, inciter sans contraindre.
+tags: [microeconomie, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi la monnaie réapparaît toujours
+slug: pourquoi-la-monnaie-reapparait-toujours
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi la monnaie réapparaît toujours.
+tags: [macroeconomie, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'inflation et la quantité de monnaie selon Jean Bodin
+slug: l-inflation-et-la-quantite-de-monnaie-selon-jean-bodin
+categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'inflation et la quantité de monnaie selon Jean Bodin.
+tags: [macroeconomie, veille-2026-09]
+priority: 0.75
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le prince celte de Lavau et sa tombe
+slug: le-prince-celte-de-lavau-et-sa-tombe
+categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le prince celte de Lavau et sa tombe.
+tags: [prehistoire, veille-2026-09]
+priority: 0.74
+essentiel: false
+status: planned
+---
+
+À rédiger.

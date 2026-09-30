@@ -9324,3 +9324,183 @@ Il faut savoir ce qu'est une règle « si… alors… » et un programme qui la 
 - MYCIN est développé à Stanford au début des années 1970, pendant cinq ou six ans.
 - MYCIN n'a jamais servi en routine : il fonctionnait seul, avec saisie manuelle des données.
 - Le problème le plus cité est l'acquisition des connaissances.
+
+---
+type: article
+title: Comment un réseau ajuste ses poids pendant l'apprentissage
+slug: comment-un-reseau-ajuste-ses-poids-pendant-l-apprentissage
+categoryPath: intelligence-artificielle/apprentissage-automatique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment un réseau ajuste ses poids pendant l'apprentissage.
+tags: [apprentissage-automatique, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: AlexNet et l'essor de l'apprentissage profond en 2012
+slug: alexnet-et-l-essor-de-l-apprentissage-profond-en-2012
+categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : alexNet et l'essor de l'apprentissage profond en 2012.
+tags: [apprentissage-profond, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'IA vocale et les assistants conversationnels
+slug: l-ia-vocale-et-les-assistants-conversationnels
+categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'IA vocale et les assistants conversationnels.
+tags: [ia-generative, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le perceptron de 1957, premier algorithme d'apprentissage
+slug: le-perceptron-de-1957-premier-algorithme-d-apprentissage
+categoryPath: intelligence-artificielle/apprentissage-automatique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le perceptron de 1957, premier algorithme d'apprentissage.
+tags: [apprentissage-automatique, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi une IA peut se tromper avec assurance
+slug: pourquoi-une-ia-peut-se-tromper-avec-assurance
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi une IA peut se tromper avec assurance.
+tags: [limites-et-erreurs, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'IA physique et les robots capables de généraliser
+slug: l-ia-physique-et-les-robots-capables-de-generaliser
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'IA physique et les robots capables de généraliser.
+tags: [travail-et-usages, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fenêtre de contexte d'un modèle de langage
+slug: la-fenetre-de-contexte-d-un-modele-de-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fenêtre de contexte d'un modèle de langage.
+tags: [transformeurs, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les modèles de raisonnement et la réflexion étape par étape
+slug: les-modeles-de-raisonnement-et-la-reflexion-etape-par-etape
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les modèles de raisonnement et la réflexion étape par étape.
+tags: [transformeurs, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les modèles qui combinent vision et langage
+slug: les-modeles-qui-combinent-vision-et-langage
+categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les modèles qui combinent vision et langage.
+tags: [transformeurs, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les usages encadrés de l'IA dans la justice
+slug: les-usages-encadres-de-l-ia-dans-la-justice
+categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les usages encadrés de l'IA dans la justice.
+tags: [travail-et-usages, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les tests de performance des IA et leurs limites
+slug: les-tests-de-performance-des-ia-et-leurs-limites
+categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les tests de performance des IA et leurs limites.
+tags: [limites-et-erreurs, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les pratiques interdites par le règlement européen sur l'IA
+slug: les-pratiques-interdites-par-le-reglement-europeen-sur-l-ia
+categoryPath: intelligence-artificielle/ethique-et-societe/regulation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les pratiques interdites par le règlement européen sur l'IA.
+tags: [regulation, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.

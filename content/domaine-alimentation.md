@@ -19124,3 +19124,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La réaction de Maillard, le secret du brunissement des aliments
+slug: la-reaction-de-maillard-le-secret-du-brunissement-des-aliments
+categoryPath: alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réaction de Maillard, le secret du brunissement des aliments.
+tags: [transformation-industrielle, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le fer et la vitamine B12, leurs rôles dans le corps
+slug: le-fer-et-la-vitamine-b12-leurs-roles-dans-le-corps
+categoryPath: alimentation-et-nutrition/nutriments/micronutriments
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le fer et la vitamine B12, leurs rôles dans le corps.
+tags: [micronutriments, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les aliments fermentés et le microbiote intestinal
+slug: les-aliments-fermentes-et-le-microbiote-intestinal
+categoryPath: alimentation-et-nutrition/nutriments/microbiote-et-probiotiques
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les aliments fermentés et le microbiote intestinal.
+tags: [microbiote-et-probiotiques, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Pourquoi le sel et le sucre conservent les aliments
+slug: pourquoi-le-sel-et-le-sucre-conservent-les-aliments
+categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi le sel et le sucre conservent les aliments.
+tags: [conservation, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fermentation lactique, des bactéries au service des aliments
+slug: la-fermentation-lactique-des-bacteries-au-service-des-aliments
+categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fermentation lactique, des bactéries au service des aliments.
+tags: [fermentation, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les additifs alimentaires et leur réglementation
+slug: les-additifs-alimentaires-et-leur-reglementation
+categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les additifs alimentaires et leur réglementation.
+tags: [securite-alimentaire, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La pasteurisation, de Pasteur au lait d'aujourd'hui
+slug: la-pasteurisation-de-pasteur-au-lait-d-aujourd-hui
+categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la pasteurisation, de Pasteur au lait d'aujourd'hui.
+tags: [conservation, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Eau plate et eau gazeuse, quelles différences ?
+slug: eau-plate-et-eau-gazeuse-quelles-differences
+categoryPath: alimentation-et-nutrition/nutriments/eau-et-hydratation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : eau plate et eau gazeuse, quelles différences ?.
+tags: [eau-et-hydratation, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'eau cachée dans les aliments, l'empreinte eau d'un repas
+slug: l-eau-cachee-dans-les-aliments-l-empreinte-eau-d-un-repas
+categoryPath: alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'eau cachée dans les aliments, l'empreinte eau d'un repas.
+tags: [empreinte-alimentaire, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La qualité de l'alimentation compte-t-elle plus que son degré de transformation ?
+slug: la-qualite-de-l-alimentation-compte-t-elle-plus-que-son-degre-de-transformation
+categoryPath: alimentation-et-nutrition/nutrition-et-sante
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la qualité de l'alimentation compte-t-elle plus que son degré de transformation ?.
+tags: [nutrition-et-sante, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Fructose et glucose, pourquoi le cerveau ne les traite pas de la même façon
+slug: fructose-et-glucose-pourquoi-le-cerveau-ne-les-traite-pas-de-la-meme-facon
+categoryPath: alimentation-et-nutrition/nutriments/macronutriments
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : fructose et glucose, pourquoi le cerveau ne les traite pas de la même façon.
+tags: [macronutriments, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le petit-déjeuner des adolescents et leurs apports en nutriments
+slug: le-petit-dejeuner-des-adolescents-et-leurs-apports-en-nutriments
+categoryPath: alimentation-et-nutrition/regimes-et-recommandations/reperes-nutritionnels
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le petit-déjeuner des adolescents et leurs apports en nutriments.
+tags: [reperes-nutritionnels, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.

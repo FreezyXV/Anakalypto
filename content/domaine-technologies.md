@@ -10753,3 +10753,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La nanofabrication, construire à l'échelle du milliardième de mètre
+slug: la-nanofabrication-construire-a-l-echelle-du-milliardieme-de-metre
+categoryPath: technologies-et-ingenierie/nanotechnologies/applications
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la nanofabrication, construire à l'échelle du milliardième de mètre.
+tags: [applications, veille-2026-09]
+priority: 0.85
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le béton bas carbone et les géopolymères
+slug: le-beton-bas-carbone-et-les-geopolymeres
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le béton bas carbone et les géopolymères.
+tags: [materiaux, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les moteurs pas à pas
+slug: les-moteurs-pas-a-pas
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les moteurs pas à pas.
+tags: [actionneurs, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les exosquelettes et l'aide à la marche
+slug: les-exosquelettes-et-l-aide-a-la-marche
+categoryPath: technologies-et-ingenierie/robotique/actionneurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les exosquelettes et l'aide à la marche.
+tags: [actionneurs, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'optimisation topologique pour économiser la matière
+slug: l-optimisation-topologique-pour-economiser-la-matiere
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'optimisation topologique pour économiser la matière.
+tags: [structures, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le pont imprimé en 3D et la construction bas carbone
+slug: le-pont-imprime-en-3d-et-la-construction-bas-carbone
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le pont imprimé en 3D et la construction bas carbone.
+tags: [structures, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les matériaux nanostructurés pour l'impression 3D
+slug: les-materiaux-nanostructures-pour-l-impression-3d
+categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les matériaux nanostructurés pour l'impression 3D.
+tags: [nanomateriaux, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le béton imprimé en 3D et les bâtiments
+slug: le-beton-imprime-en-3d-et-les-batiments
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le béton imprimé en 3D et les bâtiments.
+tags: [materiaux, veille-2026-09]
+priority: 0.78
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les composites auto-cicatrisants
+slug: les-composites-auto-cicatrisants
+categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les composites auto-cicatrisants.
+tags: [choix-des-materiaux, veille-2026-09]
+priority: 0.78
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les robots de construction
+slug: les-robots-de-construction
+categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les robots de construction.
+tags: [robots-mobiles, veille-2026-09]
+priority: 0.78
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les structures gonflables et déployables
+slug: les-structures-gonflables-et-deployables
+categoryPath: technologies-et-ingenierie/genie-civil/structures
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les structures gonflables et déployables.
+tags: [structures, veille-2026-09]
+priority: 0.78
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le béton autocicatrisant
+slug: le-beton-autocicatrisant
+categoryPath: technologies-et-ingenierie/genie-civil/materiaux
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le béton autocicatrisant.
+tags: [materiaux, veille-2026-09]
+priority: 0.77
+essentiel: false
+status: planned
+---
+
+À rédiger.

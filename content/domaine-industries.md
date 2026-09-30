@@ -10103,3 +10103,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: La fabrication des panneaux solaires en silicium
+slug: la-fabrication-des-panneaux-solaires-en-silicium
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication des panneaux solaires en silicium.
+tags: [chimie-industrielle, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication des puces en silicium, du wafer au boîtier
+slug: la-fabrication-des-puces-en-silicium-du-wafer-au-boitier
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication des puces en silicium, du wafer au boîtier.
+tags: [chimie-industrielle, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le conteneur maritime, la boîte qui a changé le commerce
+slug: le-conteneur-maritime-la-boite-qui-a-change-le-commerce
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le conteneur maritime, la boîte qui a changé le commerce.
+tags: [chaine-logistique, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication du papier, du bois à la feuille
+slug: la-fabrication-du-papier-du-bois-a-la-feuille
+categoryPath: industries/industrie-lourde/chimie-industrielle
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication du papier, du bois à la feuille.
+tags: [chimie-industrielle, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La normalisation ISO, pourquoi des normes communes
+slug: la-normalisation-iso-pourquoi-des-normes-communes
+categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la normalisation ISO, pourquoi des normes communes.
+tags: [qualite-et-normalisation, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La réindustrialisation et la robotique en France
+slug: la-reindustrialisation-et-la-robotique-en-france
+categoryPath: industries/industrie-manufacturiere/automatisation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réindustrialisation et la robotique en France.
+tags: [automatisation, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le haut-fourneau et le four électrique, deux filières d'acier
+slug: le-haut-fourneau-et-le-four-electrique-deux-filieres-d-acier
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le haut-fourneau et le four électrique, deux filières d'acier.
+tags: [siderurgie, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'acier décarboné produit avec de l'hydrogène
+slug: l-acier-decarbone-produit-avec-de-l-hydrogene
+categoryPath: industries/industrie-lourde/siderurgie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'acier décarboné produit avec de l'hydrogène.
+tags: [siderurgie, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La fabrication additive et les pièces détachées locales
+slug: la-fabrication-additive-et-les-pieces-detachees-locales
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication additive et les pièces détachées locales.
+tags: [mise-en-forme, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le recyclage des aimants de terres rares
+slug: le-recyclage-des-aimants-de-terres-rares
+categoryPath: industries/materiaux-et-procedes/mise-en-forme
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le recyclage des aimants de terres rares.
+tags: [mise-en-forme, veille-2026-09]
+priority: 0.81
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les gigafactories de batteries en Europe
+slug: les-gigafactories-de-batteries-en-europe
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les gigafactories de batteries en Europe.
+tags: [chaine-logistique, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les micro-usines et les fab labs
+slug: les-micro-usines-et-les-fab-labs
+categoryPath: industries/industrie-manufacturiere/chaine-logistique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les micro-usines et les fab labs.
+tags: [chaine-logistique, veille-2026-09]
+priority: 0.79
+essentiel: false
+status: planned
+---
+
+À rédiger.

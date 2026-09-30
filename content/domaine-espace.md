@@ -11305,3 +11305,183 @@ Il faut un bâton droit, un sol plat et une journée ensoleillée.
 - L'inclinaison du style est égale à la latitude du lieu.
 - L'heure solaire s'écarte de l'heure des montres de jusqu'à environ un quart d'heure selon la saison.
 - Chaque degré de longitude d'écart avec le méridien du fuseau décale l'heure solaire d'environ 4 minutes.
+
+---
+type: article
+title: Les marées et l'effet de la Lune sur les océans
+slug: les-marees-et-l-effet-de-la-lune-sur-les-oceans
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les marées et l'effet de la Lune sur les océans.
+tags: [lune, veille-2026-09]
+priority: 0.92
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment une fusée atteint l'orbite
+slug: comment-une-fusee-atteint-l-orbite
+categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment une fusée atteint l'orbite.
+tags: [lanceurs-et-orbites, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La naissance des étoiles
+slug: la-naissance-des-etoiles
+categoryPath: espace-et-astronomie/astrophysique/etoiles
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la naissance des étoiles.
+tags: [etoiles, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les éclipses de Lune et de Soleil
+slug: les-eclipses-de-lune-et-de-soleil
+categoryPath: espace-et-astronomie/systeme-solaire/lune
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les éclipses de Lune et de Soleil.
+tags: [lune, veille-2026-09]
+priority: 0.9
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment les astronautes vivent en apesanteur
+slug: comment-les-astronautes-vivent-en-apesanteur
+categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment les astronautes vivent en apesanteur.
+tags: [vols-habites, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les exoplanètes de la zone habitable
+slug: les-exoplanetes-de-la-zone-habitable
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les exoplanètes de la zone habitable.
+tags: [planetes, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les lentilles gravitationnelles et les amas de galaxies
+slug: les-lentilles-gravitationnelles-et-les-amas-de-galaxies
+categoryPath: espace-et-astronomie/astrophysique/cosmologie
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les lentilles gravitationnelles et les amas de galaxies.
+tags: [cosmologie, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le télescope Webb et l'atmosphère des exoplanètes
+slug: le-telescope-webb-et-l-atmosphere-des-exoplanetes
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télescope Webb et l'atmosphère des exoplanètes.
+tags: [telescopes, veille-2026-09]
+priority: 0.87
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le télescope spatial PLATO de l'ESA
+slug: le-telescope-spatial-plato-de-l-esa
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télescope spatial PLATO de l'ESA.
+tags: [telescopes, veille-2026-09]
+priority: 0.84
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La microlentille gravitationnelle et la détection d'exoplanètes
+slug: la-microlentille-gravitationnelle-et-la-detection-d-exoplanetes
+categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la microlentille gravitationnelle et la détection d'exoplanètes.
+tags: [messagers-du-cosmos, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les Perséides et les Géminides, pluies d'étoiles filantes
+slug: les-perseides-et-les-geminides-pluies-d-etoiles-filantes
+categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les Perséides et les Géminides, pluies d'étoiles filantes.
+tags: [petits-corps, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le télescope spatial Nancy Grace Roman et la chasse aux exoplanètes
+slug: le-telescope-spatial-nancy-grace-roman-et-la-chasse-aux-exoplanetes
+categoryPath: espace-et-astronomie/observation-astronomique/telescopes
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télescope spatial Nancy Grace Roman et la chasse aux exoplanètes.
+tags: [telescopes, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.

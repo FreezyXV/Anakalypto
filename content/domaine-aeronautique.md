@@ -12652,3 +12652,183 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: Pourquoi un avion vole, portance et écoulement de l'air
+slug: pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi un avion vole, portance et écoulement de l'air.
+tags: [portance, veille-2026-09]
+priority: 0.91
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le turboréacteur à double flux, principe de fonctionnement
+slug: le-turboreacteur-a-double-flux-principe-de-fonctionnement
+categoryPath: aeronautique/propulsion/turboreacteurs
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le turboréacteur à double flux, principe de fonctionnement.
+tags: [turboreacteurs, veille-2026-09]
+priority: 0.89
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment le contrôle aérien gère des milliers de vols
+slug: comment-le-controle-aerien-gere-des-milliers-de-vols
+categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment le contrôle aérien gère des milliers de vols.
+tags: [controle-du-trafic-aerien, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Comment les pales d'un hélicoptère créent la portance
+slug: comment-les-pales-d-un-helicoptere-creent-la-portance
+categoryPath: aeronautique/aerodynamique/portance
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment les pales d'un hélicoptère créent la portance.
+tags: [portance, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les turbulences, pourquoi l'avion est secoué
+slug: les-turbulences-pourquoi-l-avion-est-secoue
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les turbulences, pourquoi l'avion est secoué.
+tags: [securite, veille-2026-09]
+priority: 0.88
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le mur du son et le bang supersonique
+slug: le-mur-du-son-et-le-bang-supersonique
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le mur du son et le bang supersonique.
+tags: [ecoulements, veille-2026-09]
+priority: 0.86
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: La boîte noire, deux enregistreurs pour comprendre un accident
+slug: la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident
+categoryPath: aeronautique/aviation-civile/securite
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la boîte noire, deux enregistreurs pour comprendre un accident.
+tags: [securite, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Le planeur, voler sans moteur
+slug: le-planeur-voler-sans-moteur
+categoryPath: aeronautique/aerodynamique/ecoulements
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le planeur, voler sans moteur.
+tags: [ecoulements, veille-2026-09]
+priority: 0.83
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'horizon artificiel et les instruments de base du pilote
+slug: l-horizon-artificiel-et-les-instruments-de-base-du-pilote
+categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'horizon artificiel et les instruments de base du pilote.
+tags: [instruments-de-vol, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les winglets, petits ailerons contre la traînée
+slug: les-winglets-petits-ailerons-contre-la-trainee
+categoryPath: aeronautique/aerodynamique/trainee
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les winglets, petits ailerons contre la traînée.
+tags: [trainee, veille-2026-09]
+priority: 0.82
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: L'avion à hydrogène, pile à combustible et réservoirs
+slug: l-avion-a-hydrogene-pile-a-combustible-et-reservoirs
+categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'avion à hydrogène, pile à combustible et réservoirs.
+tags: [propulsion-electrique-aeronautique, veille-2026-09]
+priority: 0.8
+essentiel: false
+status: planned
+---
+
+À rédiger.
+
+---
+type: article
+title: Les concepts d'avion à hydrogène d'Airbus
+slug: les-concepts-d-avion-a-hydrogene-d-airbus
+categoryPath: aeronautique/aviation-civile/decarbonation
+summary: >
+  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les concepts d'avion à hydrogène d'Airbus.
+tags: [decarbonation, veille-2026-09]
+priority: 0.76
+essentiel: false
+status: planned
+---
+
+À rédiger.
