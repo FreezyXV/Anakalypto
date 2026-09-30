@@ -12399,33 +12399,180 @@ status: planned
 
 ---
 type: article
-title: Les manuscrits enluminés du Moyen Âge
-slug: les-manuscrits-enlumines-du-moyen-age
+title: Comment fabriquait-on un livre enluminé au Moyen Âge ?
+slug: comment-fabriquait-on-un-livre-enlumine-au-moyen-age
 categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les manuscrits enluminés du Moyen Âge.
-tags: [histoire-du-livre, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Un manuscrit enluminé est un livre copié à la main et décoré de bordures, de lettrines et de
+  miniatures. On l'écrivait sur du parchemin, dans les monastères puis dans des ateliers
+  urbains.
+tags: [histoire-du-livre]
+sources:
+  - title: "Enluminure"
+    url: "https://fr.wikipedia.org/wiki/Enluminure"
+    publisher: "Wikipédia"
+  - title: "Illuminated manuscript"
+    url: "https://en.wikipedia.org/wiki/Illuminated_manuscript"
+    publisher: "Wikipedia"
+  - title: "Scriptorium"
+    url: "https://en.wikipedia.org/wiki/Scriptorium"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur quoi écrivait-on les manuscrits enluminés ?"
+    options:
+      - "Sur du parchemin, surtout du vélin"
+      - "Sur du plastique"
+      - "Sur du verre"
+    answer: 1
+    explanation: >
+      On écrivait sur du parchemin, en particulier du vélin, fait de peau de veau, qui résistait
+      mieux à l'encre et aux pigments que le papyrus.
+  - question: "Que signifie le latin illuminare, d'où vient le mot enluminure ?"
+    options:
+      - "Éclairer"
+      - "Écrire"
+      - "Copier"
+    answer: 1
+    explanation: >
+      Le mot enluminure vient du latin illuminare, « éclairer », en référence à l'or employé
+      dans ces décors.
+  - question: "Où les moines copiaient-ils les textes ?"
+    options:
+      - "Dans le scriptorium"
+      - "Dans la cuisine du roi"
+      - "Dans un musée"
+    answer: 1
+    explanation: >
+      Les moines copiaient les textes dans le scriptorium, une salle d'écriture des monastères,
+      où certains préparaient le parchemin, d'autres copiaient le texte et d'autres l'ornaient.
+  - question: "Quel événement a fait décliner l'enluminure ?"
+    options:
+      - "L'imprimerie"
+      - "La radio"
+      - "Le cinéma"
+    answer: 1
+    explanation: >
+      L'imprimerie a fait décliner l'enluminure : on en a encore produit au début du XVIe
+      siècle, mais en bien plus petit nombre et pour les très riches.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un manuscrit enluminé est un livre copié à la main et décoré de bordures, de lettrines et de miniatures. On l'écrivait sur du parchemin, dans les monastères puis dans des ateliers urbains.
+
+## Un livre fait main
+
+Un manuscrit enluminé est un manuscrit dont le texte est décoré à la main de bordures, de miniatures et d'autres ornements. On écrivait sur du parchemin, en particulier du vélin, fait de peau de veau, qui résistait mieux à l'encre et aux pigments que le papyrus. Le mot enluminure vient du latin illuminare, « éclairer », en référence à l'or employé dans ces décors. Pour être dit enluminé, un manuscrit doit contenir du métal, en général de la feuille d'or.
+
+## Couleurs, or et décors
+
+Les artistes employaient des pigments naturels : lapis-lazuli pour le bleu, vermillon pour le rouge, safran pour le jaune, liés avec des colles animales et de la gomme arabique. On y trouve des scènes pleine page, des bordures décorées, des lettrines et des drôleries, petits êtres fantaisistes dans les marges.
+
+## Dans les monastères puis dans les villes
+
+Les moines copiaient les textes dans le scriptorium, une salle d'écriture des monastères, où certains préparaient le parchemin, d'autres copiaient le texte et d'autres l'ornaient. Ensuite, des ateliers urbains ont pris le relais des monastères pour produire des manuscrits. Des personnes riches commandaient ces livres comme signe de statut dans leur communauté, avec parfois un portrait du donateur ou des armoiries.
+
+## Des exemples célèbres, et la fin d'un art
+
+Le Livre de Kells et les Très Riches Heures sont des exemples célèbres de manuscrits enluminés. L'imprimerie a fait décliner l'enluminure : on en a encore produit au début du XVIe siècle, mais en bien plus petit nombre et pour les très riches. Une analyse dentaire publiée en 2019 a montré que des femmes ont aussi enluminé des manuscrits.
+
+## À retenir
+
+- Un manuscrit enluminé est un livre copié à la main, dont le texte est décoré de bordures et de miniatures.
+- On écrivait sur du parchemin, en particulier du vélin, fait de peau de veau, qui résistait mieux à l'encre et aux pigments que le papyrus.
+- Les pigments étaient naturels : lapis-lazuli pour le bleu, vermillon pour le rouge, safran pour le jaune.
+- Les moines copiaient les textes dans le scriptorium, une salle d'écriture des monastères, où certains préparaient le parchemin, d'autres copiaient le texte et d'autres l'ornaient.
+- L'imprimerie a fait décliner l'enluminure, produite ensuite en bien plus petit nombre et pour les très riches.
 
 ---
 type: article
-title: La typographie, l'histoire des caractères d'imprimerie
-slug: la-typographie-l-histoire-des-caracteres-d-imprimerie
+title: Comment la typographie est-elle passée du plomb à l'écran ?
+slug: comment-la-typographie-est-elle-passee-du-plomb-a-l-ecran
 categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la typographie, l'histoire des caractères d'imprimerie.
-tags: [arts-graphiques-et-design, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  La typographie est l'art de composer des caractères pour rendre un texte lisible. Elle est
+  passée des caractères mobiles de Gutenberg aux machines, puis aux polices numériques.
+tags: [arts-graphiques-et-design]
+sources:
+  - title: "Typographie"
+    url: "https://fr.wikipedia.org/wiki/Typographie"
+    publisher: "Wikipédia"
+  - title: "Typography"
+    url: "https://en.wikipedia.org/wiki/Typography"
+    publisher: "Wikipedia"
+  - title: "Movable type"
+    url: "https://en.wikipedia.org/wiki/Movable_type"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui a d'abord inventé le caractère mobile, avec de la céramique ?"
+    options:
+      - "Bi Sheng, en Chine"
+      - "Gutenberg, en Allemagne"
+      - "Didot, en France"
+    answer: 1
+    explanation: >
+      Le caractère mobile a d'abord été inventé en Chine, sous la dynastie Song, par Bi Sheng,
+      avec de la céramique.
+  - question: "Quel alliage Gutenberg a-t-il utilisé pour ses caractères ?"
+    options:
+      - "Plomb, antimoine et étain"
+      - "Or et argent"
+      - "Fer et cuivre"
+    answer: 1
+    explanation: >
+      Johannes Gutenberg est à l'origine de l'imprimerie à caractères mobiles en plomb en
+      Europe, avec un alliage de plomb, d'antimoine et d'étain.
+  - question: "Que sont les empattements d'une police ?"
+    options:
+      - "De petits traits au bout des lettres"
+      - "Des couleurs"
+      - "Des accents"
+    answer: 1
+    explanation: >
+      Les polices à empattements ont de petits traits au bout des lettres ; les polices sans
+      empattement n'en ont pas.
+  - question: "Quelles machines ont automatisé la composition au plomb ?"
+    options:
+      - "La Linotype et la Monotype"
+      - "Le Minitel"
+      - "Le télégraphe"
+    answer: 1
+    explanation: >
+      Les machines Linotype et Monotype ont automatisé la composition en fondant des lignes
+      entières ou des caractères en plomb.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La typographie est l'art de composer des caractères pour rendre un texte lisible. Elle est passée des caractères mobiles de Gutenberg aux machines, puis aux polices numériques.
+
+## Composer un texte
+
+La typographie est l'art et la technique de composer des caractères pour rendre un texte lisible quand on l'affiche ou l'imprime. Composer un texte, c'est choisir des polices, des tailles de caractères, la longueur des lignes, l'interligne, l'espacement des lettres et le crénage. Les polices à empattements ont de petits traits au bout des lettres ; les polices sans empattement n'en ont pas.
+
+## Des caractères mobiles au plomb
+
+Le caractère mobile a d'abord été inventé en Chine, sous la dynastie Song, par Bi Sheng, avec de la céramique. La Corée a produit le plus ancien livre conservé imprimé avec des caractères mobiles en métal, le Jikji. Johannes Gutenberg est à l'origine de l'imprimerie à caractères mobiles en plomb en Europe, avec un alliage de plomb, d'antimoine et d'étain. La qualité et le prix bas de la Bible de Gutenberg ont montré la supériorité des caractères mobiles sur l'impression par planches de bois. L'imprimerie est l'un des facteurs qui ont favorisé la Renaissance.
+
+## Au temps du plomb
+
+Les typographes plaçaient à la main les caractères dans un composteur, pris dans des casses de bois contenant majuscules et minuscules. Les machines Linotype et Monotype ont automatisé la composition en fondant des lignes entières ou des caractères en plomb. En France, les caractères se mesurent en points et en cicéros, un cicéro valant douze points.
+
+## À l'ère du numérique
+
+Avec la photocomposition puis la publication assistée par ordinateur, les méthodes au plomb ont laissé place à des méthodes numériques. La lisibilité désigne la facilité à distinguer chaque lettre ; la lecturabilité, la facilité à comprendre le texte dans son ensemble.
+
+## À retenir
+
+- La typographie est l'art et la technique de composer des caractères pour rendre un texte lisible quand on l'affiche ou l'imprime.
+- Les polices à empattements ont de petits traits au bout des lettres ; les polices sans empattement n'en ont pas.
+- Le caractère mobile a d'abord été inventé en Chine, sous la dynastie Song, par Bi Sheng, avec de la céramique.
+- Gutenberg a mis au point en Europe l'imprimerie à caractères mobiles en plomb, avec un alliage de plomb, d'antimoine et d'étain.
+- Avec la photocomposition puis la publication assistée par ordinateur, les méthodes au plomb ont laissé place à des méthodes numériques.
 
 ---
 type: article
@@ -12444,123 +12591,706 @@ status: planned
 
 ---
 type: article
-title: Pourquoi la forme d'un instrument change son son
-slug: pourquoi-la-forme-d-un-instrument-change-son-son
+title: Pourquoi deux instruments ne sonnent-ils pas pareil sur la même note ?
+slug: pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note
 categoryPath: arts-et-culture/arts-du-spectacle/musique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi la forme d'un instrument change son son.
-tags: [musique, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Le timbre est ce qui permet de reconnaître un instrument ou une voix. Il dépend des
+  harmoniques, du début du son et de la forme de l'instrument.
+tags: [musique]
+sources:
+  - title: "Timbre (acoustique)"
+    url: "https://fr.wikipedia.org/wiki/Timbre_(acoustique)"
+    publisher: "Wikipédia"
+  - title: "Musical acoustics"
+    url: "https://en.wikipedia.org/wiki/Musical_acoustics"
+    publisher: "Wikipedia"
+  - title: "Timbre"
+    url: "https://en.wikipedia.org/wiki/Timbre"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que permet de reconnaître le timbre ?"
+    options:
+      - "Un instrument ou une voix"
+      - "La hauteur d'une note"
+      - "Le volume d'une salle"
+    answer: 1
+    explanation: >
+      Le timbre est l'ensemble des caractéristiques du son qui permettent de reconnaître un
+      instrument ou une voix.
+  - question: "Qu'est-ce qui détermine la hauteur d'un son ?"
+    options:
+      - "La fréquence fondamentale"
+      - "La couleur de l'instrument"
+      - "Le prix de l'instrument"
+    answer: 1
+    explanation: >
+      Un son musical contient une fréquence fondamentale, qui détermine la hauteur, et des
+      harmoniques, dont les fréquences sont des multiples entiers de la fondamentale.
+  - question: "Pourquoi deux instruments sonnent-ils différemment sur la même note ?"
+    options:
+      - "Leurs harmoniques se répartissent autrement"
+      - "Ils n'utilisent pas le même air"
+      - "L'un est plus lourd"
+    answer: 1
+    explanation: >
+      Deux instruments qui jouent la même note sonnent différemment parce que leurs harmoniques
+      ne se répartissent pas de la même façon.
+  - question: "Pourquoi l'attaque d'un son est-elle importante ?"
+    options:
+      - "Elle aide à identifier l'instrument"
+      - "Elle change la note"
+      - "Elle chauffe l'instrument"
+    answer: 1
+    explanation: >
+      Le début du son, l'attaque, est essentiel pour identifier un instrument : sans lui, il
+      devient difficile de reconnaître le timbre.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le timbre est ce qui permet de reconnaître un instrument ou une voix. Il dépend des harmoniques, du début du son et de la forme de l'instrument.
+
+## Reconnaître un instrument
+
+Le timbre est l'ensemble des caractéristiques du son qui permettent de reconnaître un instrument ou une voix. Deux instruments qui jouent la même note sonnent différemment parce que leurs harmoniques ne se répartissent pas de la même façon. Le début du son, l'attaque, est essentiel pour identifier un instrument : sans lui, il devient difficile de reconnaître le timbre.
+
+## Fondamentale et harmoniques
+
+Un son musical contient une fréquence fondamentale, qui détermine la hauteur, et des harmoniques, dont les fréquences sont des multiples entiers de la fondamentale. Les matériaux, les chambres de résonance et la forme d'un instrument influencent la façon dont les vibrations se développent et se combinent. Le timbre dépend aussi de la durée de l'attaque, de l'extinction, du maintien et du relâchement du son.
+
+## Le musicien et l'acousticien
+
+Un musicien peut changer le timbre par sa technique : un violoniste qui joue près de la touche obtient un son léger, près du chevalet un son plus dur. L'acoustique musicale est un domaine qui combine la physique, la psychophysique, la facture instrumentale et d'autres disciplines pour étudier la physique de la musique. Hermann von Helmholtz a révolutionné ce domaine au XIXe siècle par ses études sur les sensations sonores.
+
+## Consonance, battements et cerveau
+
+Deux notes dont les fréquences sont dans des rapports simples, comme 2/1, 3/2 ou 5/4, sonnent de façon harmonieuse. Un intervalle légèrement désaccordé produit des battements : le son pulse, ce que l'on perçoit comme une dissonance. Une part du timbre est psychologique : elle est perçue par le cerveau et ne se mesure pas directement avec la physique.
+
+## À retenir
+
+- Le timbre est ce qui permet de reconnaître un instrument ou une voix.
+- Un son musical contient une fréquence fondamentale, qui détermine la hauteur, et des harmoniques, dont les fréquences sont des multiples entiers de la fondamentale.
+- Deux instruments qui jouent la même note sonnent différemment, car leurs harmoniques se répartissent autrement.
+- Les matériaux, la chambre de résonance et la forme d'un instrument influencent ses vibrations.
+- Le début du son, l'attaque, est essentiel pour identifier un instrument : sans lui, il devient difficile de reconnaître le timbre.
 
 ---
 type: article
-title: Les cabinets de curiosités, ancêtres des musées
-slug: les-cabinets-de-curiosites-ancetres-des-musees
+title: Pourquoi les princes collectionnaient-ils des objets étranges ?
+slug: pourquoi-les-princes-collectionnaient-ils-des-objets-etranges
 categoryPath: arts-et-culture/patrimoine/musees-et-conservation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les cabinets de curiosités, ancêtres des musées.
-tags: [musees-et-conservation, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Les cabinets de curiosités rassemblaient des objets naturels, des œuvres d'art et des
+  instruments rares. Ces collections ont donné naissance à des musées modernes.
+tags: [musees-et-conservation]
+sources:
+  - title: "Cabinet de curiosités"
+    url: "https://fr.wikipedia.org/wiki/Cabinet_de_curiosit%C3%A9s"
+    publisher: "Wikipédia"
+  - title: "Cabinet of curiosities"
+    url: "https://en.wikipedia.org/wiki/Cabinet_of_curiosities"
+    publisher: "Wikipedia"
+  - title: "Cabinets de curiosités"
+    url: "https://histoire-image.org/etudes/cabinets-curiosites"
+    publisher: "Histoire par l'image"
+quiz:
+  - question: "Que désigne le mot naturalia ?"
+    options:
+      - "Les objets venus de la nature"
+      - "Les objets fabriqués par l'homme"
+      - "Les tableaux"
+    answer: 1
+    explanation: >
+      On y rangeait des naturalia, objets de la nature comme les coquillages, les fossiles ou
+      les animaux naturalisés, et des artificialia, objets fabriqués par l'homme comme les
+      armes, les bijoux ou les instruments.
+  - question: "À quelle époque sont apparus les cabinets de curiosités ?"
+    options:
+      - "À la Renaissance"
+      - "À l'âge de pierre"
+      - "Au XXIe siècle"
+    answer: 1
+    explanation: >
+      Ils sont apparus à la Renaissance en Europe, à partir de la fin du XVe siècle, et ont
+      fleuri jusqu'au XVIIIe siècle.
+  - question: "Quelles cornes de licorne étaient en réalité des défenses de narval ?"
+    options:
+      - "Celles des cabinets de curiosités"
+      - "Celles des contes"
+      - "Aucune"
+    answer: 1
+    explanation: >
+      Les collections montraient aussi des plantes, des animaux et des objets venus de pays
+      lointains, par exemple des cornes de licorne qui étaient en réalité des défenses de
+      narval.
+  - question: "Quel musée d'Oxford est issu de ces collections ?"
+    options:
+      - "L'Ashmolean Museum"
+      - "Le Louvre"
+      - "Le Prado"
+    answer: 1
+    explanation: >
+      Ces collections ont formé le noyau de musées modernes, comme l'Ashmolean Museum d'Oxford
+      et le British Museum.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les cabinets de curiosités rassemblaient des objets naturels, des œuvres d'art et des instruments rares. Ces collections ont donné naissance à des musées modernes.
+
+## Une pièce pleine de merveilles
+
+Un cabinet de curiosités est une collection d'objets rares, nouveaux ou singuliers, présentés dans une pièce ou un meuble, qui mêle objets naturels, œuvres d'art et instruments scientifiques. Ils sont apparus à la Renaissance en Europe, à partir de la fin du XVe siècle, et ont fleuri jusqu'au XVIIIe siècle. On y rangeait des naturalia, objets de la nature comme les coquillages, les fossiles ou les animaux naturalisés, et des artificialia, objets fabriqués par l'homme comme les armes, les bijoux ou les instruments. Les collections montraient aussi des plantes, des animaux et des objets venus de pays lointains, par exemple des cornes de licorne qui étaient en réalité des défenses de narval.
+
+## Pourquoi collectionner ?
+
+Un cabinet servait à montrer le statut social de son propriétaire et à divertir des visiteurs savants. Parmi les collectionneurs célèbres figurent Ole Worm, au Danemark, l'empereur Rodolphe II et François Ier de France.
+
+## Des catalogues pour les savants
+
+Des catalogues illustrés, comme le Museum Wormianum d'Ole Worm, faisaient connaître ces collections aux savants d'Europe.
+
+## De la curiosité au musée
+
+Au XVIIIe siècle, sous l'influence des Lumières, on a classé les objets par nature, ce qui a conduit à la création de musées. Ces collections ont formé le noyau de musées modernes, comme l'Ashmolean Museum d'Oxford et le British Museum.
+
+## À retenir
+
+- Un cabinet de curiosités rassemble des objets rares : naturels, artistiques et scientifiques.
+- Ils sont apparus à la Renaissance en Europe, à partir de la fin du XVe siècle, et ont fleuri jusqu'au XVIIIe siècle.
+- Les naturalia venaient de la nature ; les artificialia étaient fabriqués par l'homme.
+- Parmi les collectionneurs célèbres figurent Ole Worm, au Danemark, l'empereur Rodolphe II et François Ier de France.
+- Ces collections ont formé le noyau de musées modernes, comme l'Ashmolean Museum d'Oxford et le British Museum.
 
 ---
 type: article
-title: Les manufactures des Gobelins et de Beauvais, l'art de la tapisserie
-slug: les-manufactures-des-gobelins-et-de-beauvais-l-art-de-la-tapisserie
+title: Pourquoi un ministre du roi a-t-il transformé une teinturerie en manufacture de tapisseries ?
+slug: pourquoi-un-ministre-du-roi-a-t-il-transforme-une-teinturerie-en-manufacture-de-tapisseries
 categoryPath: arts-et-culture/patrimoine/patrimoine-immateriel
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les manufactures des Gobelins et de Beauvais, l'art de la tapisserie.
-tags: [patrimoine-immateriel, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  La manufacture des Gobelins, fondée par une famille de teinturiers, tisse des tapisseries de
+  haute lisse d'après des cartons d'artistes. Elle relève aujourd'hui du Mobilier national.
+tags: [patrimoine-immateriel]
+sources:
+  - title: "Manufacture des Gobelins"
+    url: "https://fr.wikipedia.org/wiki/Manufacture_des_Gobelins"
+    publisher: "Wikipédia"
+  - title: "Gobelins Manufactory"
+    url: "https://en.wikipedia.org/wiki/Gobelins_Manufactory"
+    publisher: "Wikipedia"
+  - title: "Mobilier national"
+    url: "https://fr.wikipedia.org/wiki/Mobilier_national"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qui étaient les Gobelins à l'origine ?"
+    options:
+      - "Une famille de teinturiers"
+      - "Des bergers"
+      - "Des maçons"
+    answer: 1
+    explanation: >
+      Les Gobelins étaient une famille de teinturiers installés à Paris, dans le faubourg Saint-
+      Marcel, au milieu du XVe siècle.
+  - question: "Quel type de tapisserie la manufacture des Gobelins tisse-t-elle surtout ?"
+    options:
+      - "De haute lisse"
+      - "De velours"
+      - "De paille"
+    answer: 1
+    explanation: >
+      La manufacture est spécialisée dans la tapisserie de haute lisse, tissée par des lissiers
+      qui suivent des cartons peints.
+  - question: "Qui dirigeait la manufacture sous Louis XIV ?"
+    options:
+      - "Le peintre Charles Le Brun"
+      - "Napoléon"
+      - "Molière"
+    answer: 1
+    explanation: >
+      Sous Louis XIV, Colbert rachète l'établissement, qui devient une manufacture royale sous
+      la direction du peintre Charles Le Brun.
+  - question: "Quel organisme gère les Gobelins, Beauvais et la Savonnerie ?"
+    options:
+      - "Le Mobilier national"
+      - "La Banque de France"
+      - "L'Opéra"
+    answer: 1
+    explanation: >
+      Le Mobilier national gère les manufactures des Gobelins, de Beauvais et de la Savonnerie,
+      ainsi que des ateliers de dentelle à Alençon et au Puy-en-Velay.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La manufacture des Gobelins, fondée par une famille de teinturiers, tisse des tapisseries de haute lisse d'après des cartons d'artistes. Elle relève aujourd'hui du Mobilier national.
+
+## Une famille de teinturiers
+
+Les Gobelins étaient une famille de teinturiers installés à Paris, dans le faubourg Saint-Marcel, au milieu du XVe siècle.
+
+## Une manufacture royale
+
+Sous Louis XIV, Colbert rachète l'établissement, qui devient une manufacture royale sous la direction du peintre Charles Le Brun. Des artistes comme Rubens, Simon Vouet et David ont fourni des cartons aux lissiers. Pendant la Révolution française, la manufacture a connu de graves difficultés, puis Napoléon l'a relancée.
+
+## Le travail des lissiers
+
+La manufacture est spécialisée dans la tapisserie de haute lisse, tissée par des lissiers qui suivent des cartons peints. On y utilise des métiers de haute lisse et de basse lisse, avec des techniques du XVIIe siècle. La manufacture produit un petit nombre de tapisseries pour décorer des institutions de l'État, avec des sujets contemporains comme historiques.
+
+## Le Mobilier national
+
+Le Mobilier national gère les manufactures des Gobelins, de Beauvais et de la Savonnerie, ainsi que des ateliers de dentelle à Alençon et au Puy-en-Velay. Le Mobilier national meuble les bâtiments officiels de la République, comme l'Élysée, Matignon, les ministères et les ambassades, et gère leurs collections. Le Mobilier national a fusionné avec la Cité de la céramique pour former les Manufactures nationales, Sèvres et Mobilier national. Aujourd'hui, elle fonctionne comme une institution d'État, relevant du ministère de la Culture, et propose des visites et des expositions.
+
+## À retenir
+
+- Les Gobelins étaient une famille de teinturiers installés à Paris, dans le faubourg Saint-Marcel, au milieu du XVe siècle.
+- Sous Louis XIV, Colbert rachète l'établissement, qui devient une manufacture royale sous la direction du peintre Charles Le Brun.
+- Les lissiers tissent en haute lisse en suivant des cartons peints.
+- Des artistes comme Rubens, Simon Vouet et David ont fourni des cartons aux lissiers.
+- Aujourd'hui, elle fonctionne comme une institution d'État, relevant du ministère de la Culture, et propose des visites et des expositions.
 
 ---
 type: article
-title: Les marionnettes et le théâtre d'ombres dans le monde
-slug: les-marionnettes-et-le-theatre-d-ombres-dans-le-monde
+title: D'où viennent les marionnettes et le théâtre d'ombres ?
+slug: d-ou-viennent-les-marionnettes-et-le-theatre-d-ombres
 categoryPath: arts-et-culture/arts-du-spectacle/theatre-et-danse
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les marionnettes et le théâtre d'ombres dans le monde.
-tags: [theatre-et-danse, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Les marionnettes et les silhouettes du théâtre d'ombres racontent des histoires dans le monde
+  entier. Le wayang indonésien et le Karagöz turc en sont des exemples connus.
+tags: [theatre-et-danse]
+sources:
+  - title: "Marionnette"
+    url: "https://fr.wikipedia.org/wiki/Marionnette"
+    publisher: "Wikipédia"
+  - title: "Théâtre d'ombres"
+    url: "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_d%27ombres"
+    publisher: "Wikipédia"
+  - title: "Wayang puppet theatre"
+    url: "https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063"
+    publisher: "UNESCO"
+quiz:
+  - question: "Comment s'anime une marionnette à gaine ?"
+    options:
+      - "En glissant la main dans un gant"
+      - "Avec des piles"
+      - "Avec un ressort"
+    answer: 1
+    explanation: >
+      Les marionnettes à gaine s'animent en glissant la main dans un gant qui commande la tête
+      et les bras ; Guignol et Polichinelle en sont des exemples.
+  - question: "Où est né le wayang ?"
+    options:
+      - "Sur l'île de Java, en Indonésie"
+      - "En Islande"
+      - "Au Canada"
+    answer: 1
+    explanation: >
+      Le wayang, théâtre de marionnettes indonésien, est né sur l'île de Java ; sa forme en
+      ombres, le wayang kulit, compte parmi les plus renommées d'Asie du Sud-Est.
+  - question: "Quel pays passe pour le berceau du théâtre d'ombres ?"
+    options:
+      - "La Chine"
+      - "Le Brésil"
+      - "La Norvège"
+    answer: 1
+    explanation: >
+      La Chine passe pour le berceau du théâtre d'ombres ; des traditions existent aussi en
+      Inde, en Indonésie, en Turquie et en Égypte.
+  - question: "À quoi servait d'abord le théâtre d'ombres ?"
+    options:
+      - "À des usages religieux et d'exorcisme"
+      - "À faire de la publicité"
+      - "À enseigner les mathématiques"
+    answer: 1
+    explanation: >
+      Le théâtre d'ombres a d'abord servi à des usages religieux et d'exorcisme avant de devenir
+      un divertissement d'épopées, de satire et de commentaire politique.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les marionnettes et les silhouettes du théâtre d'ombres racontent des histoires dans le monde entier. Le wayang indonésien et le Karagöz turc en sont des exemples connus.
+
+## Des objets qui jouent
+
+Une marionnette est un objet de jeu théâtral ou à usage sacré, manipulé par un marionnettiste. On distingue des marionnettes à fils, à gaine, à tringles et des ombres. Les marionnettes à gaine s'animent en glissant la main dans un gant qui commande la tête et les bras ; Guignol et Polichinelle en sont des exemples. Guignol a été créé à Lyon par Laurent Mourguet, au début du XIXe siècle.
+
+## Des silhouettes derrière un écran
+
+Le théâtre d'ombres projette des silhouettes découpées sur un écran éclairé par derrière, avec de la musique, un récit et du chant. Le théâtre d'ombres est probablement la plus ancienne forme de théâtre de marionnettes. Le théâtre d'ombres a d'abord servi à des usages religieux et d'exorcisme avant de devenir un divertissement d'épopées, de satire et de commentaire politique.
+
+## Des traditions du monde entier
+
+La Chine passe pour le berceau du théâtre d'ombres ; des traditions existent aussi en Inde, en Indonésie, en Turquie et en Égypte. Le wayang, théâtre de marionnettes indonésien, est né sur l'île de Java ; sa forme en ombres, le wayang kulit, compte parmi les plus renommées d'Asie du Sud-Est. Le théâtre d'ombres turc Karagöz est reconnu par l'UNESCO comme patrimoine culturel immatériel. Le Sbek Thom cambodgien, inscrit par l'UNESCO, utilise de grandes silhouettes fixes qui représentent des personnages divins.
+
+## Et en France
+
+Dominique Séraphin a installé le théâtre d'ombres en France au XVIIIe siècle, et le cabaret du Chat Noir l'a popularisé à la fin du XIXe siècle.
+
+## À retenir
+
+- Une marionnette est un objet de jeu théâtral ou à usage sacré, manipulé par un marionnettiste.
+- On distingue des marionnettes à fils, à gaine, à tringles et des ombres.
+- Une marionnette à gaine s'anime en glissant la main dans un gant qui commande la tête et les bras.
+- Le théâtre d'ombres projette des silhouettes découpées sur un écran éclairé par derrière, avec de la musique, un récit et du chant.
+- La Chine passe pour le berceau du théâtre d'ombres ; des traditions existent aussi en Inde, en Indonésie, en Turquie et en Égypte.
 
 ---
 type: article
-title: Les pigments toxiques des maîtres anciens
-slug: les-pigments-toxiques-des-maitres-anciens
+title: Pourquoi certains pigments des maîtres anciens étaient-ils dangereux ?
+slug: pourquoi-certains-pigments-des-maitres-anciens-etaient-ils-dangereux
 categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les pigments toxiques des maîtres anciens.
-tags: [peinture-et-sculpture, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Le blanc de plomb, le vermillon et le vert-de-gris ont longtemps servi aux peintres, malgré
+  leur toxicité. Ils ont fini par être abandonnés.
+tags: [peinture-et-sculpture]
+sources:
+  - title: "Blanc de plomb"
+    url: "https://fr.wikipedia.org/wiki/Blanc_de_plomb"
+    publisher: "Wikipédia"
+  - title: "Vermilion"
+    url: "https://en.wikipedia.org/wiki/Vermilion"
+    publisher: "Wikipedia"
+  - title: "Verdigris"
+    url: "https://en.wikipedia.org/wiki/Verdigris"
+    publisher: "Wikipedia"
+quiz:
+  - question: "De quel métal est fait le blanc de plomb ?"
+    options:
+      - "Du plomb"
+      - "De l'argent"
+      - "De l'or"
+    answer: 1
+    explanation: >
+      Le blanc de plomb, ou céruse, est un carbonate basique de plomb utilisé comme pigment
+      blanc.
+  - question: "De quel minéral vient le vermillon ?"
+    options:
+      - "Le cinabre, un sulfure de mercure"
+      - "Le lapis-lazuli"
+      - "Le quartz"
+    answer: 1
+    explanation: >
+      Le vermillon est un pigment rouge toxique, fabriqué à partir du cinabre, un minéral de
+      sulfure de mercure.
+  - question: "Quel pigment a remplacé presque entièrement le vermillon au XXe siècle ?"
+    options:
+      - "Le rouge de cadmium"
+      - "Le bleu de Prusse"
+      - "Le blanc de zinc"
+    answer: 1
+    explanation: >
+      Au XXe siècle, le vermillon a été presque entièrement remplacé par un pigment synthétique,
+      le rouge de cadmium.
+  - question: "Que devient souvent le vert-de-gris avec le temps ?"
+    options:
+      - "Il brunit ou s'assombrit"
+      - "Il devient transparent"
+      - "Il devient rose"
+    answer: 1
+    explanation: >
+      Avec le temps, ce pigment vert peut brunir ou s'assombrir.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le blanc de plomb, le vermillon et le vert-de-gris ont longtemps servi aux peintres, malgré leur toxicité. Ils ont fini par être abandonnés.
+
+## Le blanc de plomb
+
+Le blanc de plomb, ou céruse, est un carbonate basique de plomb utilisé comme pigment blanc. Le blanc de plomb est connu depuis l'Antiquité : Xénophon, Dioscoride, Vitruve et Pline le mentionnent comme cosmétique et comme pigment. En peinture à l'huile, le blanc de plomb accélère le séchage et offre une très bonne opacité. Vitruve notait déjà le teint blafard de ceux qui produisaient le plomb, signe d'intoxication. La France a fini par interdire la céruse dans les travaux de peinture ; le blanc de zinc, puis le blanc de titane, l'ont remplacée.
+
+## Le vermillon
+
+Le vermillon est un pigment rouge toxique, fabriqué à partir du cinabre, un minéral de sulfure de mercure. On a employé le vermillon de l'Antiquité au XIXe siècle ; les Romains tiraient leur cinabre de la mine d'Almadén, en Espagne, exploitée par des prisonniers. Comme la plupart des composés du mercure, le vermillon est toxique, et l'extraction du cinabre était difficile, chère et dangereuse. Le vermillon peut s'assombrir ou prendre un reflet gris violacé. Au XXe siècle, le vermillon a été presque entièrement remplacé par un pigment synthétique, le rouge de cadmium.
+
+## Le vert-de-gris
+
+Le vert-de-gris est un nom courant pour des sels de cuivre de l'acide acétique, un peu toxiques, qui vont du vert au vert bleuté. Le vert-de-gris a été l'un des principaux pigments verts des artistes, de l'Antiquité à la fin du XXe siècle. Avec le temps, ce pigment vert peut brunir ou s'assombrir. Son usage a reculé au XIXe siècle, quand le vert émeraude et le viridian sont devenus disponibles.
+
+## À retenir
+
+- Le blanc de plomb, ou céruse, est un carbonate basique de plomb utilisé comme pigment blanc.
+- En peinture à l'huile, le blanc de plomb accélère le séchage et offre une très bonne opacité.
+- Le vermillon est un pigment rouge toxique, fait à partir du cinabre, un minéral de sulfure de mercure.
+- Comme la plupart des composés du mercure, le vermillon est toxique, et l'extraction du cinabre était difficile, chère et dangereuse.
+- Le vert-de-gris est un nom courant pour des sels de cuivre de l'acide acétique, un peu toxiques, qui vont du vert au vert bleuté.
 
 ---
 type: article
-title: Les premières projections des frères Lumière
-slug: les-premieres-projections-des-freres-lumiere
+title: Comment les frères Lumière ont-ils inventé la projection de films ?
+slug: comment-les-freres-lumiere-ont-ils-invente-la-projection-de-films
 categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les premières projections des frères Lumière.
-tags: [photographie-et-cinema, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Les frères Lumière ont breveté le cinématographe en 1895 et donné à Paris la première
+  projection publique payante, avec dix films d'environ cinquante secondes.
+tags: [photographie-et-cinema]
+sources:
+  - title: "Frères Lumière"
+    url: "https://fr.wikipedia.org/wiki/Fr%C3%A8res_Lumi%C3%A8re"
+    publisher: "Wikipédia"
+  - title: "Auguste and Louis Lumière"
+    url: "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re"
+    publisher: "Wikipedia"
+  - title: "Cinématographe"
+    url: "https://fr.wikipedia.org/wiki/Cin%C3%A9matographe"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que peut faire le cinématographe Lumière ?"
+    options:
+      - "Filmer, tirer des copies et projeter"
+      - "Seulement filmer"
+      - "Seulement projeter"
+    answer: 1
+    explanation: >
+      Le cinématographe Lumière est un appareil trois-en-un qui permet de filmer, de tirer des
+      copies et de projeter des images animées.
+  - question: "Où a lieu la première projection publique payante ?"
+    options:
+      - "Au Salon indien du Grand Café, à Paris"
+      - "À l'Opéra de Lyon"
+      - "Au Louvre"
+    answer: 1
+    explanation: >
+      La première projection publique payante a lieu le 28 décembre 1895, au Salon indien du
+      Grand Café, à Paris.
+  - question: "Combien de films sont projetés ce jour-là ?"
+    options:
+      - "Dix"
+      - "Un seul"
+      - "Cent"
+    answer: 1
+    explanation: >
+      Ce jour-là, dix films très courts sont projetés, d'environ cinquante secondes chacun.
+  - question: "Quelle différence avec le kinétoscope d'Edison ?"
+    options:
+      - "Le cinématographe projette sur un grand écran"
+      - "Il ne montre que des photos fixes"
+      - "Il est muet"
+    answer: 1
+    explanation: >
+      À la différence du kinétoscope d'Edison, qui se regarde seul, le cinématographe projette
+      les images sur un grand écran.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les frères Lumière ont breveté le cinématographe en 1895 et donné à Paris la première projection publique payante, avec dix films d'environ cinquante secondes.
+
+## Un appareil trois-en-un
+
+Auguste et Louis Lumière étaient des fabricants français de matériel photographique. Le cinématographe Lumière est un appareil trois-en-un qui permet de filmer, de tirer des copies et de projeter des images animées. Le cinématographe utilise une pellicule souple de 35 mm, avec une perforation ronde de chaque côté de chaque image. Une griffe entraîne la pellicule de façon intermittente, image par image, grâce à une came de Reuleaux. À la différence du kinétoscope d'Edison, qui se regarde seul, le cinématographe projette les images sur un grand écran.
+
+## Le brevet et la première séance
+
+Les frères Lumière ont déposé le brevet du cinématographe le 13 février 1895, à Paris. La première projection publique payante a lieu le 28 décembre 1895, au Salon indien du Grand Café, à Paris. Ce jour-là, dix films très courts sont projetés, d'environ cinquante secondes chacun.
+
+## Des films célèbres
+
+La Sortie de l'usine Lumière à Lyon est le premier film de Louis Lumière ; L'Arroseur arrosé est considéré comme le premier film de fiction, une comédie. L'Arrivée d'un train en gare de La Ciotat figure parmi leurs films célèbres.
+
+## Après 1895
+
+En 1896, les frères Lumière font des tournées avec le cinématographe en Europe, au Mexique et en Amérique du Sud. Les frères Lumière ont aussi mis au point l'Autochrome, un procédé de photographie en couleurs. L'Institut Lumière, à Lyon, est installé dans la maison de leur père.
+
+## À retenir
+
+- Le cinématographe est un appareil trois-en-un : il filme, tire des copies et projette.
+- Les frères Lumière ont déposé le brevet du cinématographe le 13 février 1895, à Paris.
+- La première projection publique payante a lieu le 28 décembre 1895, au Salon indien du Grand Café, à Paris.
+- Ce jour-là, dix films très courts sont projetés, d'environ cinquante secondes chacun.
+- La Sortie de l'usine Lumière à Lyon est le premier film de Louis Lumière.
 
 ---
 type: article
-title: Restaurer une oeuvre, retrouver l'original ou le préserver ?
-slug: restaurer-une-oeuvre-retrouver-l-original-ou-le-preserver
+title: Comment décide-t-on de restaurer une œuvre sans la trahir ?
+slug: comment-decide-t-on-de-restaurer-une-uvre-sans-la-trahir
 categoryPath: arts-et-culture/patrimoine/musees-et-conservation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : restaurer une oeuvre, retrouver l'original ou le préserver ?.
-tags: [musees-et-conservation, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Conserver une œuvre, c'est prévenir sa dégradation ; la restaurer, c'est intervenir
+  directement. Les professionnels suivent des principes comme la réversibilité et l'intervention
+  minimale.
+tags: [musees-et-conservation]
+sources:
+  - title: "Restauration (art)"
+    url: "https://fr.wikipedia.org/wiki/Restauration_(art)"
+    publisher: "Wikipédia"
+  - title: "Conservation and restoration of paintings"
+    url: "https://en.wikipedia.org/wiki/Conservation_and_restoration_of_paintings"
+    publisher: "Wikipedia"
+  - title: "Conservation and restoration of cultural property"
+    url: "https://en.wikipedia.org/wiki/Conservation_and_restoration_of_cultural_property"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait la conservation d'une œuvre ?"
+    options:
+      - "Elle prévient sa dégradation"
+      - "Elle la repeint entièrement"
+      - "Elle la vend"
+    answer: 1
+    explanation: >
+      La conservation prévient la dégradation d'une œuvre ; la restauration intervient
+      directement pour en améliorer la lisibilité, en respectant son intégrité.
+  - question: "Que signifie la réversibilité en restauration ?"
+    options:
+      - "Les matériaux doivent pouvoir être retirés sans abîmer l'œuvre"
+      - "L'œuvre peut être retournée"
+      - "L'œuvre peut être copiée"
+    answer: 1
+    explanation: >
+      Selon le principe de réversibilité, les matériaux de restauration doivent pouvoir être
+      retirés plus tard sans abîmer l'œuvre.
+  - question: "Les zones restaurées doivent-elles se distinguer de l'original ?"
+    options:
+      - "Oui, par leur matériau ou leur rendu"
+      - "Non, elles doivent être invisibles à jamais"
+      - "Seulement dans les musées"
+    answer: 1
+    explanation: >
+      Les zones restaurées doivent se distinguer de l'original, par leur matériau ou leur rendu.
+  - question: "Sur quoi porte un débat vif en restauration de tableaux ?"
+    options:
+      - "Le nettoyage des vernis"
+      - "La couleur du cadre"
+      - "Le prix du billet"
+    answer: 1
+    explanation: >
+      Le nettoyage des tableaux fait débat : pour certains historiens, il déforme l'œuvre ; pour
+      d'autres, il lui rend sa fraîcheur d'origine.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Conserver une œuvre, c'est prévenir sa dégradation ; la restaurer, c'est intervenir directement. Les professionnels suivent des principes comme la réversibilité et l'intervention minimale.
+
+## Conserver ou restaurer
+
+La conservation prévient la dégradation d'une œuvre ; la restauration intervient directement pour en améliorer la lisibilité, en respectant son intégrité. La conservation préventive vient en premier : elle protège les œuvres de la température, de l'humidité et de la lumière.
+
+## Les règles du métier
+
+Selon le principe de réversibilité, les matériaux de restauration doivent pouvoir être retirés plus tard sans abîmer l'œuvre. Les zones restaurées doivent se distinguer de l'original, par leur matériau ou leur rendu. On applique le principe d'intervention minimale et l'on documente tout le travail effectué. Les restaurateurs suivent des codes de déontologie, comme celui de l'American Institute for Conservation.
+
+## Un débat vif
+
+Le nettoyage des tableaux fait débat : pour certains historiens, il déforme l'œuvre ; pour d'autres, il lui rend sa fraîcheur d'origine. Retirer un repeint exige une documentation historique prouvant que cette couche n'est pas de la main de l'artiste. Cesare Brandi a proposé la technique du tratteggio pour concilier la valeur historique et la valeur esthétique d'une œuvre.
+
+## De l'analyse à la formation
+
+Avant de traiter un tableau, on l'examine et on l'analyse avec des techniques comme l'imagerie multispectrale ou la fluorescence X. La charte de Venise est un texte international fondateur pour la conservation des monuments ; elle pose que la restauration s'arrête là où commence l'hypothèse. En France, des formations publiques délivrent des diplômes d'État qui permettent d'intervenir sur les collections publiques.
+
+## À retenir
+
+- La conservation prévient la dégradation ; la restauration intervient directement pour améliorer la lisibilité.
+- Selon le principe de réversibilité, les matériaux de restauration doivent pouvoir être retirés plus tard sans abîmer l'œuvre.
+- Les zones restaurées doivent se distinguer de l'original, par leur matériau ou leur rendu.
+- On applique le principe d'intervention minimale et l'on documente tout le travail effectué.
+- Le nettoyage des tableaux fait débat : il déforme l'œuvre pour certains, il lui rend sa fraîcheur pour d'autres.
 
 ---
 type: article
-title: L'archéologie préventive en France et ses découvertes
-slug: l-archeologie-preventive-en-france-et-ses-decouvertes
+title: Pourquoi fouille-t-on avant de construire une route ?
+slug: pourquoi-fouille-t-on-avant-de-construire-une-route
 categoryPath: arts-et-culture/patrimoine/musees-et-conservation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'archéologie préventive en France et ses découvertes.
-tags: [musees-et-conservation, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  L'archéologie préventive étudie les vestiges menacés par des travaux avant qu'ils ne
+  disparaissent. En France, l'Inrap réalise les diagnostics et les fouilles.
+tags: [musees-et-conservation]
+sources:
+  - title: "Archéologie préventive"
+    url: "https://fr.wikipedia.org/wiki/Arch%C3%A9ologie_pr%C3%A9ventive"
+    publisher: "Wikipédia"
+  - title: "Institut national de recherches archéologiques préventives"
+    url: "https://fr.wikipedia.org/wiki/Institut_national_de_recherches_arch%C3%A9ologiques_pr%C3%A9ventives"
+    publisher: "Wikipédia"
+  - title: "Rescue archaeology"
+    url: "https://en.wikipedia.org/wiki/Rescue_archaeology"
+    publisher: "Wikipedia"
+  - title: "Inrap, Institut national de recherches archéologiques préventives"
+    url: "https://www.inrap.fr/"
+    publisher: "Inrap"
+quiz:
+  - question: "Quand fouille-t-on en archéologie préventive ?"
+    options:
+      - "Avant des travaux d'aménagement"
+      - "Après la construction"
+      - "Jamais sur un chantier"
+    answer: 1
+    explanation: >
+      L'archéologie préventive vise à préserver et à étudier les éléments importants du
+      patrimoine archéologique menacés par des travaux d'aménagement.
+  - question: "Qui finance en général l'archéologie préventive ?"
+    options:
+      - "L'aménageur"
+      - "Les touristes"
+      - "Les élèves"
+    answer: 1
+    explanation: >
+      Dans de nombreux pays, l'aménageur finance l'archéologie préventive, selon le principe
+      pollueur-payeur.
+  - question: "Quel institut français réalise ces fouilles ?"
+    options:
+      - "L'Inrap"
+      - "La Poste"
+      - "L'Insee"
+    answer: 1
+    explanation: >
+      L'Inrap, Institut national de recherches archéologiques préventives, réalise des
+      diagnostics et des fouilles avant les travaux d'aménagement.
+  - question: "Quelle convention fixe un cadre européen de protection ?"
+    options:
+      - "La convention de Malte"
+      - "La convention de Genève"
+      - "La convention de Paris sur le vin"
+    answer: 1
+    explanation: >
+      La convention de Malte a fixé un cadre européen de protection du patrimoine archéologique
+      menacé par les aménagements.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'archéologie préventive étudie les vestiges menacés par des travaux avant qu'ils ne disparaissent. En France, l'Inrap réalise les diagnostics et les fouilles.
+
+## Fouiller avant de construire
+
+L'archéologie préventive vise à préserver et à étudier les éléments importants du patrimoine archéologique menacés par des travaux d'aménagement. Elle comprend des diagnostics, par sondages, et des fouilles, ainsi que des mesures de sauvegarde si nécessaire. Contrairement à l'archéologie classique, le travail de sauvetage doit se faire vite, à cause des délais des chantiers.
+
+## Un cadre européen
+
+La convention de Malte a fixé un cadre européen de protection du patrimoine archéologique menacé par les aménagements. Dans de nombreux pays, l'aménageur finance l'archéologie préventive, selon le principe pollueur-payeur. On parle aussi d'archéologie de sauvetage, de contrat ou d'aménageur, selon les pays.
+
+## L'Inrap en France
+
+En France, une loi de 2001 a organisé l'archéologie préventive, avec des diagnostics et un financement par les aménageurs. L'Inrap, Institut national de recherches archéologiques préventives, réalise des diagnostics et des fouilles avant les travaux d'aménagement. L'Inrap est un établissement public administratif, placé sous la tutelle des ministères de la Culture et de la Recherche. L'Inrap a remplacé l'Afan, l'Association pour les fouilles archéologiques nationales. L'Inrap assure l'exploitation scientifique des opérations et la diffusion de leurs résultats.
+
+## Une découverte qui marque
+
+À Dublin, la démolition de Wood Quay a révélé des vestiges vikings exceptionnellement bien conservés et provoqué une vive réaction du public.
+
+## À retenir
+
+- L'archéologie préventive étudie les vestiges menacés par des travaux d'aménagement.
+- Elle comprend des diagnostics, par sondages, et des fouilles, ainsi que des mesures de sauvegarde si nécessaire.
+- La convention de Malte a fixé un cadre européen de protection du patrimoine archéologique menacé par les aménagements.
+- Dans de nombreux pays, c'est l'aménageur qui finance l'archéologie préventive.
+- L'Inrap, Institut national de recherches archéologiques préventives, réalise des diagnostics et des fouilles avant les travaux d'aménagement.
 
 ---
 type: article
