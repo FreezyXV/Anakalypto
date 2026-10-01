@@ -12193,18 +12193,88 @@ status: planned
 
 ---
 type: article
-title: La propriété intellectuelle, droit d'auteur, brevet et marque
-slug: la-propriete-intellectuelle-droit-d-auteur-brevet-et-marque
+title: Qu'est-ce qui distingue le droit d'auteur, le brevet et la marque ?
+slug: qu-est-ce-qui-distingue-le-droit-d-auteur-le-brevet-et-la-marque
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la propriété intellectuelle, droit d'auteur, brevet et marque.
-tags: [droit-civil, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  La propriété intellectuelle protège les créations de l'esprit. Le droit d'auteur protège les
+  œuvres, le brevet les inventions et la marque les noms et signes d'une entreprise.
+tags: [droit-civil]
+sources:
+  - title: "Propriété intellectuelle"
+    url: "https://fr.wikipedia.org/wiki/Propri%C3%A9t%C3%A9_intellectuelle"
+    publisher: "Wikipédia"
+  - title: "Intellectual property"
+    url: "https://en.wikipedia.org/wiki/Intellectual_property"
+    publisher: "Wikipedia"
+  - title: "What is intellectual property?"
+    url: "https://www.wipo.int/about-ip/en/"
+    publisher: "Organisation mondiale de la propriété intellectuelle"
+quiz:
+  - question: "Que protège le droit d'auteur ?"
+    options:
+      - "Les noms de villes"
+      - "Les œuvres originales, comme les livres, la musique ou les films"
+      - "Les recettes de cuisine de tout le monde"
+    answer: 2
+    explanation: >
+      Le droit d'auteur protège les œuvres originales : livres, musique, peintures, films,
+      logiciels, bases de données.
+  - question: "Le droit d'auteur exige-t-il un dépôt ?"
+    options:
+      - "Non, aucune formalité de dépôt n'est exigée"
+      - "Oui, auprès d'un notaire"
+      - "Oui, chaque année"
+    answer: 1
+    explanation: >
+      Le droit d'auteur n'exige aucune formalité de dépôt, alors que les brevets et les marques
+      sont protégés par un enregistrement auprès d'offices.
+  - question: "Que protège un brevet ?"
+    options:
+      - "Une invention, pour une durée limitée"
+      - "Un titre de livre"
+      - "Une chanson seulement"
+    answer: 1
+    explanation: >
+      Un brevet protège une invention, un produit ou un procédé, pour une durée limitée : son
+      titulaire a le droit exclusif de la fabriquer, de l'utiliser et de la vendre, en échange
+      de la description de l'invention.
+  - question: "Qu'est-ce qu'une marque ?"
+    options:
+      - "Une tache sur un mur"
+      - "Un signe qui distingue les produits d'une entreprise de ceux des concurrents"
+      - "Un contrat de travail"
+    answer: 2
+    explanation: >
+      Une marque est un signe, un nom ou un logo qui distingue les produits ou services d'une
+      entreprise de ceux des concurrents ; sa protection peut être renouvelée sans limite.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La propriété intellectuelle protège les créations de l'esprit. Le droit d'auteur protège les œuvres, le brevet les inventions et la marque les noms et signes d'une entreprise.
+
+## Protéger des créations de l'esprit
+
+La propriété intellectuelle désigne les droits sur les créations de l'esprit : inventions, œuvres littéraires et artistiques, dessins et modèles, signes et noms utilisés dans le commerce. Ces droits visent à encourager la création et l'innovation, en équilibrant l'intérêt des créateurs et celui du public. Elle comprend deux grandes branches : la propriété littéraire et artistique, avec le droit d'auteur, et la propriété industrielle, avec les brevets, les marques et les dessins et modèles.
+
+## Le droit d'auteur
+
+Le droit d'auteur protège les œuvres originales : livres, musique, peintures, films, logiciels, bases de données. Il protège la forme d'une œuvre, pas les idées qui la sous-tendent. Le droit d'auteur n'exige aucune formalité de dépôt, alors que les brevets et les marques sont protégés par un enregistrement auprès d'offices. Le droit d'auteur comprend des droits moraux, perpétuels et inaliénables, et des droits patrimoniaux, limités dans le temps.
+
+## Brevets, marques et autres protections
+
+Un brevet protège une invention, un produit ou un procédé, pour une durée limitée : son titulaire a le droit exclusif de la fabriquer, de l'utiliser et de la vendre, en échange de la description de l'invention. Une marque est un signe, un nom ou un logo qui distingue les produits ou services d'une entreprise de ceux des concurrents ; sa protection peut être renouvelée sans limite. Un dessin ou modèle protège l'apparence d'un objet : sa forme, ses motifs, ses couleurs. Le secret d'affaires protège des informations confidentielles utiles à une entreprise, comme une formule ou un procédé de fabrication. Une indication géographique identifie un produit dont les qualités sont liées à son lieu d'origine.
+
+## À retenir
+
+- La propriété intellectuelle désigne les droits sur les créations de l'esprit : inventions, œuvres, dessins, signes et noms.
+- Le droit d'auteur protège les œuvres originales : livres, musique, peintures, films, logiciels, bases de données.
+- Le droit d'auteur n'exige aucun dépôt ; les brevets et les marques sont protégés par un enregistrement.
+- Un brevet protège une invention pour une durée limitée, en échange de sa description.
+- Une marque est un signe qui distingue les produits d'une entreprise ; sa protection peut être renouvelée sans limite.
 
 ---
 type: article
@@ -12223,18 +12293,96 @@ status: planned
 
 ---
 type: article
-title: La responsabilité des plateformes en ligne pour les contenus publiés
-slug: la-responsabilite-des-plateformes-en-ligne-pour-les-contenus-publies
+title: Une plateforme est-elle responsable des contenus que ses utilisateurs publient ?
+slug: une-plateforme-est-elle-responsable-des-contenus-que-ses-utilisateurs-publient
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la responsabilité des plateformes en ligne pour les contenus publiés.
-tags: [droit-civil, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  En principe, un hébergeur n'est pas responsable d'un contenu illicite qu'il ignorait, mais il
+  doit agir vite une fois informé. Le règlement européen sur les services numériques renforce
+  ces règles.
+tags: [droit-civil]
+sources:
+  - title: "Loi pour la confiance dans l'économie numérique"
+    url: "https://fr.wikipedia.org/wiki/Loi_pour_la_confiance_dans_l%27%C3%A9conomie_num%C3%A9rique"
+    publisher: "Wikipédia"
+  - title: "Digital Services Act"
+    url: "https://en.wikipedia.org/wiki/Digital_Services_Act"
+    publisher: "Wikipedia"
+  - title: "Législation sur les services numériques"
+    url: "https://fr.wikipedia.org/wiki/L%C3%A9gislation_sur_les_services_num%C3%A9riques"
+    publisher: "Wikipédia"
+  - title: "The Digital Services Act package"
+    url: "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"
+    publisher: "Commission européenne"
+  - title: "5 informations à retenir sur le Règlement sur les services numériques (RSN) ou Digital Services Act (DSA)"
+    url: "https://www.arcom.fr/actualites/5-informations-retenir-sur-le-reglement-sur-les-services-numeriques-rsn-ou-digital-services-act-dsa"
+    publisher: "Arcom"
+quiz:
+  - question: "Un hébergeur est-il responsable d'un contenu illicite qu'il ignorait ?"
+    options:
+      - "Non, s'il le retire promptement dès qu'il est informé"
+      - "Oui, toujours"
+      - "Seulement le dimanche"
+    answer: 1
+    explanation: >
+      Un hébergeur ne peut pas être tenu pour responsable d'un contenu qu'il stocke s'il n'avait
+      pas connaissance de son caractère illicite, ou s'il a agi promptement pour le retirer ou
+      en bloquer l'accès dès qu'il en a été informé.
+  - question: "Que doit indiquer une notification de contenu illicite en droit français ?"
+    options:
+      - "Seulement un smiley"
+      - "Le numéro de téléphone du voisin"
+      - "L'auteur, l'emplacement précis du contenu et les raisons légales du retrait"
+    answer: 3
+    explanation: >
+      Pour signaler un contenu, la notification doit indiquer l'identité de son auteur,
+      l'emplacement précis du contenu et les raisons légales de son retrait.
+  - question: "Que renforce le règlement européen sur les services numériques ?"
+    options:
+      - "Le prix des abonnements"
+      - "La taille des écrans"
+      - "Les règles de signalement, de recours et de transparence"
+    answer: 3
+    explanation: >
+      Le règlement européen sur les services numériques, le DSA, renforce ce cadre : procédures
+      de signalement et de recours, plus de transparence et règles renforcées pour les très
+      grandes plateformes.
+  - question: "Quelle autorité est chargée de faire respecter le DSA en France ?"
+    options:
+      - "La Poste"
+      - "L'Insee"
+      - "L'Arcom"
+    answer: 3
+    explanation: >
+      Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en
+      France, c'est l'Arcom.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En principe, un hébergeur n'est pas responsable d'un contenu illicite qu'il ignorait, mais il doit agir vite une fois informé. Le règlement européen sur les services numériques renforce ces règles.
+
+## Éditeur ou hébergeur ?
+
+En France, la loi pour la confiance dans l'économie numérique, la LCEN, fixe le régime de responsabilité des hébergeurs de contenus. Elle transpose en droit français une directive européenne sur le commerce électronique. Un hébergeur ne peut pas être tenu pour responsable d'un contenu qu'il stocke s'il n'avait pas connaissance de son caractère illicite, ou s'il a agi promptement pour le retirer ou en bloquer l'accès dès qu'il en a été informé. Pour signaler un contenu, la notification doit indiquer l'identité de son auteur, l'emplacement précis du contenu et les raisons légales de son retrait.
+
+## Le DSA renforce les règles
+
+Le règlement européen sur les services numériques, le DSA, renforce ce cadre : procédures de signalement et de recours, plus de transparence et règles renforcées pour les très grandes plateformes. Les plateformes doivent permettre de signaler facilement un contenu illicite, expliquer pourquoi elles retirent un contenu et offrir un moyen de faire appel. Les très grandes plateformes doivent analyser et réduire les risques que leur service fait peser, par exemple sur les droits fondamentaux, la liberté des médias ou la santé publique.
+
+## Qui contrôle et sanctionne ?
+
+Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom. Une plateforme qui ne respecte pas les règles risque de lourdes amendes, calculées sur son chiffre d'affaires mondial.
+
+## À retenir
+
+- En France, la loi pour la confiance dans l'économie numérique, la LCEN, fixe le régime de responsabilité des hébergeurs de contenus.
+- Un hébergeur n'est pas responsable d'un contenu illicite qu'il ignorait, s'il le retire promptement dès qu'il est informé.
+- Pour signaler un contenu, la notification doit indiquer l'identité de son auteur, l'emplacement précis du contenu et les raisons légales de son retrait.
+- Le DSA renforce ce cadre : signalement, recours, transparence et règles renforcées pour les très grandes plateformes.
+- Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom.
 
 ---
 type: article
@@ -12253,48 +12401,269 @@ status: planned
 
 ---
 type: article
-title: Le droit à un tribunal indépendant et impartial
-slug: le-droit-a-un-tribunal-independant-et-impartial
+title: Pourquoi chacun a-t-il droit à un tribunal indépendant et impartial ?
+slug: pourquoi-chacun-a-t-il-droit-a-un-tribunal-independant-et-impartial
 categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le droit à un tribunal indépendant et impartial.
-tags: [droits-fondamentaux, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Toute personne a droit à ce que sa cause soit entendue équitablement par un tribunal
+  indépendant et impartial, selon la Déclaration universelle et la Convention européenne des
+  droits de l'homme.
+tags: [droits-fondamentaux]
+sources:
+  - title: "Universal Declaration of Human Rights"
+    url: "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+    publisher: "Nations unies"
+  - title: "Droit à un procès équitable"
+    url: "https://fr.wikipedia.org/wiki/Droit_%C3%A0_un_proc%C3%A8s_%C3%A9quitable"
+    publisher: "Wikipédia"
+  - title: "European Convention on Human Rights"
+    url: "https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights"
+    publisher: "Wikipedia"
+  - title: "Judicial independence"
+    url: "https://en.wikipedia.org/wiki/Judicial_independence"
+    publisher: "Wikipedia"
+  - title: "Indépendance de la justice"
+    url: "https://fr.wikipedia.org/wiki/Ind%C3%A9pendance_de_la_justice"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que signifie l'indépendance de la justice ?"
+    options:
+      - "Les tribunaux ne subissent pas de pression indue des autres pouvoirs"
+      - "Les juges décident au hasard"
+      - "Les juges n'ont pas de salaire"
+    answer: 1
+    explanation: >
+      L'indépendance de la justice signifie que les tribunaux ne doivent subir aucune pression
+      indue des autres pouvoirs ni d'intérêts privés ou partisans.
+  - question: "Que précise l'article 11 de la Déclaration universelle ?"
+    options:
+      - "Tout le monde est coupable"
+      - "Il n'y a pas de procès public"
+      - "Toute personne accusée est présumée innocente jusqu'à preuve de sa culpabilité"
+    answer: 3
+    explanation: >
+      L'article 11 précise que toute personne accusée est présumée innocente jusqu'à ce que sa
+      culpabilité soit établie lors d'un procès public où elle a eu toutes les garanties
+      nécessaires à sa défense.
+  - question: "Où siège la Cour européenne des droits de l'homme ?"
+    options:
+      - "À Madrid"
+      - "À Strasbourg"
+      - "À Lisbonne"
+    answer: 2
+    explanation: >
+      La Cour européenne des droits de l'homme, à Strasbourg, veille au respect de la Convention
+      ; toute personne qui estime que ses droits ont été violés peut la saisir, dans les
+      conditions prévues.
+  - question: "Quelle garantie protège les magistrats du siège en France ?"
+    options:
+      - "Le tirage au sort"
+      - "L'inamovibilité"
+      - "La fermeture des tribunaux"
+    answer: 2
+    explanation: >
+      En France, la Constitution de 1958 reconnaît l'indépendance de l'autorité judiciaire, et
+      les magistrats du siège sont inamovibles, selon l'article 64.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Toute personne a droit à ce que sa cause soit entendue équitablement par un tribunal indépendant et impartial, selon la Déclaration universelle et la Convention européenne des droits de l'homme.
+
+## Un droit proclamé dans le monde entier
+
+L'article 10 de la Déclaration universelle des droits de l'homme affirme que toute personne a droit, en pleine égalité, à ce que sa cause soit entendue équitablement et publiquement par un tribunal indépendant et impartial. L'article 11 précise que toute personne accusée est présumée innocente jusqu'à ce que sa culpabilité soit établie lors d'un procès public où elle a eu toutes les garanties nécessaires à sa défense.
+
+## Le procès équitable en Europe
+
+En Europe, l'article 6 de la Convention européenne des droits de l'homme garantit une audience publique devant un tribunal indépendant et impartial, dans un délai raisonnable, ainsi que la présomption d'innocence. La Cour européenne des droits de l'homme, à Strasbourg, veille au respect de la Convention ; toute personne qui estime que ses droits ont été violés peut la saisir, dans les conditions prévues. Un procès équitable suppose un juge indépendant et impartial, une audience publique, un délai raisonnable, la possibilité de s'exprimer et une procédure régulière.
+
+## Des juges indépendants
+
+L'indépendance de la justice signifie que les tribunaux ne doivent subir aucune pression indue des autres pouvoirs ni d'intérêts privés ou partisans. Elle protège les citoyens contre les excès du pouvoir : les décisions reposent alors sur la loi et sur les faits, pas sur une pression politique. Parmi les garanties figurent l'inamovibilité des juges, l'indépendance de l'institution et la sécurité financière des magistrats. La séparation des pouvoirs, entre la justice, le gouvernement et le Parlement, protège l'autonomie des juges. En France, la Constitution de 1958 reconnaît l'indépendance de l'autorité judiciaire, et les magistrats du siège sont inamovibles, selon l'article 64.
+
+## À retenir
+
+- Selon la Déclaration universelle, toute personne a droit à une audience équitable et publique devant un tribunal indépendant et impartial.
+- L'article 6 de la Convention européenne garantit une audience publique devant un tribunal indépendant et impartial, et la présomption d'innocence.
+- L'indépendance de la justice signifie que les tribunaux ne doivent subir aucune pression indue des autres pouvoirs ni d'intérêts privés ou partisans.
+- Parmi les garanties figurent l'inamovibilité des juges, l'indépendance de l'institution et la sécurité financière des magistrats.
+- En France, la Constitution de 1958 reconnaît l'indépendance de l'autorité judiciaire, et les magistrats du siège sont inamovibles, selon l'article 64.
 
 ---
 type: article
-title: Le droit de rétractation lors d'un achat en ligne
-slug: le-droit-de-retractation-lors-d-un-achat-en-ligne
+title: Peut-on changer d'avis après un achat en ligne ?
+slug: peut-on-changer-d-avis-apres-un-achat-en-ligne
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le droit de rétractation lors d'un achat en ligne.
-tags: [droit-de-la-consommation, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Pour un achat à distance, le consommateur dispose en principe de 14 jours pour changer d'avis,
+  sans donner de raison. Certains achats sont exclus de ce droit.
+tags: [droit-de-la-consommation]
+sources:
+  - title: "Droit de rétractation"
+    url: "https://fr.wikipedia.org/wiki/Droit_de_r%C3%A9tractation"
+    publisher: "Wikipédia"
+  - title: "Vente à distance : droit de rétractation du consommateur"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F10485"
+    publisher: "Service-Public.fr, direction de l'information légale et administrative"
+  - title: "Retours et droit de rétractation"
+    url: "https://europa.eu/youreurope/citizens/consumers/shopping/returns/index_fr.htm"
+    publisher: "Your Europe, Union européenne"
+quiz:
+  - question: "Quel est le délai de rétractation pour un achat à distance ?"
+    options:
+      - "1 heure"
+      - "3 ans"
+      - "14 jours"
+    answer: 3
+    explanation: >
+      Pour un achat à distance, le délai de rétractation est de 14 jours.
+  - question: "À partir de quand le délai commence-t-il pour l'achat d'un objet ?"
+    options:
+      - "À la naissance de l'acheteur"
+      - "À la réception du bien"
+      - "À la fabrication de l'objet"
+    answer: 2
+    explanation: >
+      Le délai commence à courir à la réception du bien, ou à la conclusion du contrat s'il
+      s'agit d'un service.
+  - question: "Le vendeur peut-il exiger un envoi recommandé pour la rétractation ?"
+    options:
+      - "Oui, toujours"
+      - "Non"
+      - "Seulement le lundi"
+    answer: 2
+    explanation: >
+      On l'exerce en prévenant le vendeur avant la fin du délai, avec le formulaire fourni ou
+      par toute déclaration écrite claire ; le vendeur ne peut pas exiger un envoi recommandé.
+  - question: "Lequel de ces achats est en général exclu du droit de rétractation ?"
+    options:
+      - "Un livre standard"
+      - "Une paire de chaussures standard"
+      - "Un bien personnalisé"
+    answer: 3
+    explanation: >
+      Le droit ne s'applique pas à tous les achats : biens personnalisés, biens périssables,
+      contenus numériques déjà téléchargés, services déjà exécutés avec l'accord du client,
+      billets de transport ou de spectacle, services financiers.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour un achat à distance, le consommateur dispose en principe de 14 jours pour changer d'avis, sans donner de raison. Certains achats sont exclus de ce droit.
+
+## Un droit de changer d'avis
+
+Le droit de rétractation permet à un consommateur d'annuler un contrat de vente pendant une durée limitée, sans avoir à donner de raison. Pour un achat à distance, le délai de rétractation est de 14 jours. Le délai commence à courir à la réception du bien, ou à la conclusion du contrat s'il s'agit d'un service.
+
+## Comment l'exercer
+
+On l'exerce en prévenant le vendeur avant la fin du délai, avec le formulaire fourni ou par toute déclaration écrite claire ; le vendeur ne peut pas exiger un envoi recommandé. Le vendeur doit rembourser dans les 14 jours après avoir été informé de la décision, mais il peut attendre le retour des biens. Le remboursement se fait par le même moyen de paiement que l'achat, sauf accord du client. Les frais de retour sont en général à la charge du consommateur, sauf si le vendeur ne l'a pas informé ou s'il propose de les payer.
+
+## Des exceptions
+
+Le droit ne s'applique pas à tous les achats : biens personnalisés, biens périssables, contenus numériques déjà téléchargés, services déjà exécutés avec l'accord du client, billets de transport ou de spectacle, services financiers. Ce droit vaut pour les achats auprès de vendeurs professionnels, pas pour les ventes entre particuliers.
+
+## À retenir
+
+- Le droit de rétractation permet à un consommateur d'annuler un contrat de vente pendant une durée limitée, sans avoir à donner de raison.
+- Pour un achat à distance, le délai de rétractation est de 14 jours.
+- On prévient le vendeur avant la fin du délai, avec le formulaire fourni ou par un écrit clair.
+- Le vendeur doit rembourser dans les 14 jours après avoir été informé de la décision, mais il peut attendre le retour des biens.
+- Il ne s'applique ni aux biens personnalisés, ni aux biens périssables, ni aux billets de spectacle ou de transport.
 
 ---
 type: article
-title: Les deux ordres de juridictions, judiciaire et administratif
-slug: les-deux-ordres-de-juridictions-judiciaire-et-administratif
+title: Pourquoi la France a-t-elle deux ordres de juridictions, judiciaire et administratif ?
+slug: pourquoi-la-france-a-t-elle-deux-ordres-de-juridictions-judiciaire-et-administratif
 categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les deux ordres de juridictions, judiciaire et administratif.
-tags: [organisation-judiciaire, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  La France a deux ordres de juridictions : l'ordre judiciaire, pour les litiges entre personnes
+  privées et le pénal, et l'ordre administratif, pour les litiges avec l'administration.
+tags: [organisation-judiciaire]
+sources:
+  - title: "Dualité des ordres de juridiction en France"
+    url: "https://fr.wikipedia.org/wiki/Dualit%C3%A9_des_ordres_de_juridiction_en_France"
+    publisher: "Wikipédia"
+  - title: "L'organisation des cours et tribunaux"
+    url: "https://www.justice.gouv.fr/justice-france/lorganisation-cours-tribunaux"
+    publisher: "Ministère de la Justice"
+  - title: "Juridictions administratives"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2025"
+    publisher: "Service-Public.fr, direction de l'information légale et administrative"
+quiz:
+  - question: "Quel ordre juge les litiges entre une personne et l'administration ?"
+    options:
+      - "L'ordre judiciaire"
+      - "L'ordre administratif"
+      - "Aucun"
+    answer: 2
+    explanation: >
+      Les juridictions administratives règlent les litiges entre l'administration et les
+      particuliers.
+  - question: "Quelle juridiction est au sommet de l'ordre administratif ?"
+    options:
+      - "La Cour de cassation"
+      - "Le Conseil d'État"
+      - "Le tribunal de police"
+    answer: 2
+    explanation: >
+      Dans l'ordre administratif : le tribunal administratif, la cour administrative d'appel et,
+      au sommet, le Conseil d'État.
+  - question: "Que fait le Tribunal des conflits ?"
+    options:
+      - "Il tranche les conflits de compétence entre les deux ordres"
+      - "Il juge les vols à l'étalage"
+      - "Il vote les lois"
+    answer: 1
+    explanation: >
+      Le Tribunal des conflits veille à la séparation entre les deux ordres et tranche les
+      conflits de compétence entre eux.
+  - question: "D'où vient la séparation des deux ordres ?"
+    options:
+      - "Du Moyen Âge seulement"
+      - "De la Révolution française"
+      - "D'un traité récent"
+    answer: 2
+    explanation: >
+      Cette séparation vient de la Révolution française : par méfiance envers les juges, une loi
+      a affirmé que les fonctions judiciaires sont distinctes des fonctions administratives et
+      le resteront.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La France a deux ordres de juridictions : l'ordre judiciaire, pour les litiges entre personnes privées et le pénal, et l'ordre administratif, pour les litiges avec l'administration.
+
+## Deux ordres, deux rôles
+
+En France, il existe deux ordres de juridictions : l'ordre judiciaire et l'ordre administratif. Les juridictions judiciaires règlent les litiges entre personnes privées et sanctionnent les auteurs d'infractions pénales. Les juridictions administratives règlent les litiges entre l'administration et les particuliers.
+
+## Les juridictions de chaque ordre
+
+Dans l'ordre judiciaire : le tribunal judiciaire, le conseil de prud'hommes, le tribunal de commerce, le tribunal de police, le tribunal correctionnel, la cour d'assises, la cour d'appel et, au sommet, la Cour de cassation. Dans l'ordre administratif : le tribunal administratif, la cour administrative d'appel et, au sommet, le Conseil d'État. Le Conseil d'État peut juger certaines affaires en premier et dernier ressort, ou examiner les pourvois en cassation contre des décisions de juridictions inférieures. Des juridictions spécialisées existent aussi, comme la Cour nationale du droit d'asile dans l'ordre administratif.
+
+## Pourquoi cette séparation ?
+
+Cette séparation vient de la Révolution française : par méfiance envers les juges, une loi a affirmé que les fonctions judiciaires sont distinctes des fonctions administratives et le resteront. D'autres pays européens, comme l'Allemagne, l'Autriche et le Portugal, ont aussi des juridictions administratives distinctes. Ce système est parfois critiqué pour sa complexité, car il faut déterminer quel juge est compétent, et pour les délais.
+
+## Le Tribunal des conflits
+
+Le Tribunal des conflits veille à la séparation entre les deux ordres et tranche les conflits de compétence entre eux.
+
+## À retenir
+
+- En France, il existe deux ordres de juridictions : l'ordre judiciaire et l'ordre administratif.
+- Les juridictions judiciaires règlent les litiges entre personnes privées et sanctionnent les auteurs d'infractions pénales.
+- Les juridictions administratives règlent les litiges entre l'administration et les particuliers.
+- Le Tribunal des conflits veille à la séparation entre les deux ordres et tranche les conflits de compétence entre eux.
+- La séparation vient de la Révolution, par méfiance envers les juges qui auraient pu gêner l'administration.
 
 ---
 type: article
@@ -12313,18 +12682,90 @@ status: planned
 
 ---
 type: article
-title: Le télétravail et le droit
-slug: le-teletravail-et-le-droit
+title: Quelles sont les règles du télétravail pour un salarié en France ?
+slug: quelles-sont-les-regles-du-teletravail-pour-un-salarie-en-france
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télétravail et le droit.
-tags: [droit-du-travail, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Le télétravail repose sur le volontariat et se met en place par accord, charte ou accord
+  direct. L'employeur doit prendre en charge les frais, et le salarié garde les mêmes droits.
+tags: [droit-du-travail]
+sources:
+  - title: "Télétravail"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9travail"
+    publisher: "Wikipédia"
+  - title: "Télétravail du salarié dans le secteur privé"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F13851"
+    publisher: "Service-Public.fr, direction de l'information légale et administrative"
+  - title: "Remboursement des frais de télétravail"
+    url: "https://entreprendre.service-public.gouv.fr/actualites/A18043"
+    publisher: "Service-Public.fr, entreprendre"
+quiz:
+  - question: "Un employeur peut-il en principe imposer le télétravail ?"
+    options:
+      - "Oui, toujours"
+      - "Non, il repose sur le volontariat"
+      - "Seulement le mardi"
+    answer: 2
+    explanation: >
+      Le télétravail repose sur le volontariat : l'employeur ne peut en principe pas l'imposer
+      au salarié.
+  - question: "Qui prend en charge les frais engagés par le salarié pour son activité en télétravail ?"
+    options:
+      - "Le voisin"
+      - "L'employeur"
+      - "Le collègue"
+    answer: 2
+    explanation: >
+      L'employeur doit prendre en charge les frais engagés par le salarié pour son activité,
+      soit par un remboursement, soit par une allocation forfaitaire.
+  - question: "Un accident pendant le télétravail est-il présumé être un accident du travail ?"
+    options:
+      - "Oui"
+      - "Non, jamais"
+      - "Seulement en été"
+    answer: 1
+    explanation: >
+      Un accident survenu pendant le télétravail est présumé être un accident du travail.
+  - question: "Que permet le droit à la déconnexion ?"
+    options:
+      - "Couper Internet dans toute la ville"
+      - "Ne pas répondre aux sollicitations professionnelles hors des horaires convenus"
+      - "Ne jamais travailler"
+    answer: 2
+    explanation: >
+      Le droit à la déconnexion permet de ne pas répondre aux sollicitations professionnelles en
+      dehors des horaires convenus.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le télétravail repose sur le volontariat et se met en place par accord, charte ou accord direct. L'employeur doit prendre en charge les frais, et le salarié garde les mêmes droits.
+
+## Un travail volontaire
+
+Le télétravail est une forme d'organisation du travail où un travail qui aurait pu être fait dans les locaux de l'employeur est effectué, de façon volontaire, hors de ces locaux. Le télétravail repose sur le volontariat : l'employeur ne peut en principe pas l'imposer au salarié. En cas de circonstances exceptionnelles, comme une épidémie, ou de force majeure, l'employeur peut imposer le télétravail sans l'accord du salarié.
+
+## Comment le mettre en place
+
+Un accord national interprofessionnel fixe le cadre général, pour toutes les entreprises. Il peut être mis en place par un accord collectif, par une charte élaborée par l'employeur après avis du comité social et économique, ou par un accord direct entre l'employeur et le salarié.
+
+## Les obligations de l'employeur
+
+L'employeur fournit et entretient les équipements nécessaires, et il assure la protection des données. L'employeur doit prendre en charge les frais engagés par le salarié pour son activité, soit par un remboursement, soit par une allocation forfaitaire.
+
+## Les droits du salarié
+
+Un salarié en télétravail a les mêmes droits que les autres : formation, santé et sécurité, avantages sociaux, charge de travail équivalente. Un accident survenu pendant le télétravail est présumé être un accident du travail. Le droit à la déconnexion permet de ne pas répondre aux sollicitations professionnelles en dehors des horaires convenus.
+
+## À retenir
+
+- Le télétravail est un travail qui aurait pu être fait dans les locaux de l'employeur, effectué volontairement ailleurs.
+- Le télétravail repose sur le volontariat : l'employeur ne peut en principe pas l'imposer au salarié.
+- Il se met en place par un accord collectif, une charte ou un accord direct entre l'employeur et le salarié.
+- L'employeur doit prendre en charge les frais engagés par le salarié pour son activité, soit par un remboursement, soit par une allocation forfaitaire.
+- Un accident survenu pendant le télétravail est présumé être un accident du travail.
 
 ---
 type: article
@@ -12343,18 +12784,87 @@ status: planned
 
 ---
 type: article
-title: Les contenus générés par IA et les obligations de transparence
-slug: les-contenus-generes-par-ia-et-les-obligations-de-transparence
+title: Un contenu fabriqué par une IA doit-il être signalé comme tel ?
+slug: un-contenu-fabrique-par-une-ia-doit-il-etre-signale-comme-tel
 categoryPath: droit-et-justice/droit-public/droit-international
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les contenus générés par IA et les obligations de transparence.
-tags: [droit-international, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Le règlement européen sur l'IA impose de la transparence : on doit savoir quand on parle à une
+  IA et pouvoir repérer les contenus qu'elle a générés.
+tags: [droit-international]
+sources:
+  - title: "AI Act, Shaping Europe's digital future"
+    url: "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    publisher: "Commission européenne"
+  - title: "Règlement sur l'intelligence artificielle"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A8glement_sur_l%27intelligence_artificielle"
+    publisher: "Wikipédia"
+  - title: "Artificial Intelligence Act"
+    url: "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que doit-on pouvoir savoir quand on discute avec un chatbot ?"
+    options:
+      - "Que l'on interagit avec une IA"
+      - "Le nom de ses voisins"
+      - "Son numéro de téléphone"
+    answer: 1
+    explanation: >
+      Le règlement européen sur l'IA impose des obligations de transparence : les personnes
+      doivent savoir quand elles interagissent avec un système d'IA, comme un chatbot, et
+      pouvoir repérer les contenus générés par l'IA.
+  - question: "Dans quelle catégorie de risque rangent-on les hypertrucages ?"
+    options:
+      - "Le risque minimal sans aucune règle"
+      - "Aucune catégorie"
+      - "Le risque limité, avec des obligations de transparence"
+    answer: 3
+    explanation: >
+      Les systèmes qui produisent des hypertrucages ou des médias manipulés relèvent du risque
+      limité : on leur impose surtout de la transparence.
+  - question: "Que doivent documenter les modèles d'IA à usage général ?"
+    options:
+      - "Leur fonctionnement et leurs données d'entraînement"
+      - "La météo"
+      - "Le prix des écrans"
+    answer: 1
+    explanation: >
+      Les modèles d'IA à usage général, comme ceux qui font fonctionner des chatbots, doivent
+      documenter leur fonctionnement et leurs données d'entraînement.
+  - question: "Depuis quand les obligations pour les modèles à usage général s'appliquent-elles ?"
+    options:
+      - "Depuis 1900"
+      - "Depuis le 2 août 2025"
+      - "Pas encore prévu"
+    answer: 2
+    explanation: >
+      Les obligations pour les modèles d'IA à usage général s'appliquent depuis le 2 août 2025.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le règlement européen sur l'IA impose de la transparence : on doit savoir quand on parle à une IA et pouvoir repérer les contenus qu'elle a générés.
+
+## Savoir quand on parle à une IA
+
+Le règlement européen sur l'IA impose des obligations de transparence : les personnes doivent savoir quand elles interagissent avec un système d'IA, comme un chatbot, et pouvoir repérer les contenus générés par l'IA. Les systèmes qui produisent des hypertrucages ou des médias manipulés relèvent du risque limité : on leur impose surtout de la transparence. Le règlement distingue plusieurs niveaux de risque, plus une catégorie à part pour les modèles d'IA à usage général.
+
+## Les modèles à usage général
+
+Les modèles d'IA à usage général, comme ceux qui font fonctionner des chatbots, doivent documenter leur fonctionnement et leurs données d'entraînement. Les obligations pour les modèles d'IA à usage général s'appliquent depuis le 2 août 2025. La plupart des autres règles s'appliquent à partir du 2 août 2026.
+
+## Ce qui est interdit, et ce qui est libre
+
+Certaines pratiques sont interdites, par exemple la manipulation nuisible et la notation sociale. La Commission range aussi parmi les pratiques interdites la création de contenus intimes non consentis par IA. La plupart des usages de l'IA, comme les filtres anti-spam ou les jeux vidéo, relèvent du risque minimal et n'ont pas d'obligation spécifique.
+
+## À retenir
+
+- Les personnes doivent savoir quand elles interagissent avec une IA, comme un chatbot, et pouvoir repérer les contenus qu'elle génère.
+- Les systèmes qui produisent des hypertrucages ou des médias manipulés relèvent du risque limité : on leur impose surtout de la transparence.
+- Les modèles d'IA à usage général, comme ceux qui font fonctionner des chatbots, doivent documenter leur fonctionnement et leurs données d'entraînement.
+- La plupart des autres règles s'appliquent à partir du 2 août 2026.
+- Certaines pratiques sont interdites, par exemple la manipulation nuisible et la notation sociale.
 
 ---
 type: article
