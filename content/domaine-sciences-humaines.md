@@ -11968,180 +11968,1043 @@ status: planned
 
 ---
 type: article
-title: La révolution industrielle et ses tensions sociales
-slug: la-revolution-industrielle-et-ses-tensions-sociales
+title: Pourquoi la révolution industrielle a-t-elle provoqué autant de révoltes et de lois sociales ?
+slug: pourquoi-la-revolution-industrielle-a-t-elle-provoque-autant-de-revoltes-et-de-lois-sociales
 categoryPath: sciences-humaines-et-sociales/histoire/epoque-contemporaine
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la révolution industrielle et ses tensions sociales.
-tags: [epoque-contemporaine, veille-2026-09]
-priority: 0.92
-essentiel: false
-status: planned
+  L'industrialisation remplace le travail à la main par des machines et des usines. Elle entasse
+  des ouvriers dans les villes, provoque la révolte des luddites, puis des lois sur le travail
+  des enfants.
+tags: [epoque-contemporaine]
+sources:
+  - title: "Industrial Revolution"
+    url: "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    publisher: "Wikipedia"
+  - title: "Révolution industrielle"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9volution_industrielle"
+    publisher: "Wikipédia"
+  - title: "Luddite"
+    url: "https://en.wikipedia.org/wiki/Luddite"
+    publisher: "Wikipedia"
+  - title: "Factory Acts"
+    url: "https://en.wikipedia.org/wiki/Factory_Acts"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où commence la révolution industrielle ?"
+    options:
+      - "Au Japon"
+      - "En Australie"
+      - "En Grande-Bretagne"
+    answer: 3
+    explanation: >
+      La révolution industrielle commence en Grande-Bretagne, à la fin du XVIIIe siècle, puis
+      gagne le reste de l'Europe et les États-Unis.
+  - question: "Qui étaient les luddites ?"
+    options:
+      - "Des ouvriers du textile qui détruisaient des machines"
+      - "Des marchands de thé"
+      - "Des marins"
+    answer: 1
+    explanation: >
+      Les luddites étaient des ouvriers anglais du textile qui détruisaient des machines, en se
+      réclamant d'un personnage, Ned Ludd.
+  - question: "Que reprochaient-ils surtout aux fabricants ?"
+    options:
+      - "De contourner les usages du métier"
+      - "D'utiliser de la peinture"
+      - "D'ouvrir le dimanche"
+    answer: 1
+    explanation: >
+      Ils ne rejetaient pas les machines en elles-mêmes : ils s'en prenaient aux fabricants qui
+      contournaient les usages du métier, sur les salaires, le travail des enfants et la
+      qualité.
+  - question: "Que créait une loi importante sur les usines ?"
+    options:
+      - "Un nouveau drapeau"
+      - "Une monnaie"
+      - "Un corps d'inspecteurs d'usines"
+    answer: 3
+    explanation: >
+      Une loi importante a créé un corps d'inspecteurs d'usines et interdit le travail de nuit
+      des plus jeunes.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'industrialisation remplace le travail à la main par des machines et des usines. Elle entasse des ouvriers dans les villes, provoque la révolte des luddites, puis des lois sur le travail des enfants.
+
+## Machines, usines, villes
+
+La révolution industrielle commence en Grande-Bretagne, à la fin du XVIIIe siècle, puis gagne le reste de l'Europe et les États-Unis. On passe de la production à la main à des machines et au système de l'usine mécanisée, avec une production qui augmente énormément. Les enclosures et la mécanisation de l'agriculture poussent des paysans sans terre vers les villes, où ils deviennent les premiers ouvriers. L'urbanisation transforme la société, l'économie, le droit et la politique. Le travail des enfants fait partie de ces changements et devient l'un des grands sujets de débat.
+
+## Révoltes et répression
+
+Les luddites étaient des ouvriers anglais du textile qui détruisaient des machines, en se réclamant d'un personnage, Ned Ludd. Ils ne rejetaient pas les machines en elles-mêmes : ils s'en prenaient aux fabricants qui contournaient les usages du métier, sur les salaires, le travail des enfants et la qualité. L'État a envoyé des troupes en grand nombre et a rendu le bris de machines passible de la peine de mort.
+
+## Des lois pour encadrer le travail
+
+Des lois sur les usines ont peu à peu encadré la durée du travail et le travail des enfants, avec des limites d'âge et d'horaires. Une loi importante a créé un corps d'inspecteurs d'usines et interdit le travail de nuit des plus jeunes. Un mouvement pour limiter la journée de travail, mené par des réformateurs, a fini par obtenir une limite pour les femmes et les enfants dans le textile. Les premières lois étaient peu appliquées : les magistrats locaux étaient souvent eux-mêmes propriétaires d'usines. Ces bouleversements ont fait naître ce qu'on appelle la question sociale. Les historiens débattent du moment où le niveau de vie a vraiment progressé pour les ouvriers.
+
+## À retenir
+
+- Les enclosures et la mécanisation de l'agriculture poussent des paysans sans terre vers les villes, où ils deviennent les premiers ouvriers.
+- Les luddites étaient des ouvriers anglais du textile qui détruisaient des machines, en se réclamant d'un personnage, Ned Ludd.
+- Ils ne rejetaient pas les machines, mais les fabricants qui contournaient les usages du métier.
+- L'État a envoyé des troupes en grand nombre et a rendu le bris de machines passible de la peine de mort.
+- Une loi importante a créé un corps d'inspecteurs d'usines et interdit le travail de nuit des plus jeunes.
 
 ---
 type: article
-title: Le développement de l'enfant selon Piaget
-slug: le-developpement-de-l-enfant-selon-piaget
+title: Comment pense un enfant, selon Piaget, et qu'en reste-t-il aujourd'hui ?
+slug: comment-pense-un-enfant-selon-piaget-et-qu-en-reste-t-il-aujourd-hui
 categoryPath: sciences-humaines-et-sociales/psychologie/developpement
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le développement de l'enfant selon Piaget.
-tags: [developpement, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  Jean Piaget décrit quatre stades du développement de l'intelligence, où l'enfant construit
+  activement sa pensée. Des recherches plus récentes ont nuancé ses résultats, sans effacer son
+  héritage.
+tags: [developpement]
+sources:
+  - title: "Piaget's theory of cognitive development"
+    url: "https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development"
+    publisher: "Wikipedia"
+  - title: "Jean Piaget"
+    url: "https://fr.wikipedia.org/wiki/Jean_Piaget"
+    publisher: "Wikipédia"
+  - title: "Jean Piaget"
+    url: "https://en.wikipedia.org/wiki/Jean_Piaget"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de grands stades Piaget distingue-t-il ?"
+    options:
+      - "Deux"
+      - "Quatre"
+      - "Sept"
+    answer: 2
+    explanation: >
+      Il distingue quatre stades : sensori-moteur, préopératoire, opératoire concret et
+      opératoire formel.
+  - question: "Qu'est-ce que la permanence de l'objet ?"
+    options:
+      - "Comprendre qu'un objet existe même caché"
+      - "Garder tous ses jouets"
+      - "Ne jamais lâcher un objet"
+    answer: 1
+    explanation: >
+      Au stade sensori-moteur, le bébé comprend peu à peu que les objets continuent d'exister
+      quand il ne les voit plus : c'est la permanence de l'objet.
+  - question: "Que signifie l'accommodation ?"
+    options:
+      - "Modifier ses structures mentales quand elles ne suffisent plus"
+      - "Ranger sa chambre"
+      - "Changer d'école"
+    answer: 1
+    explanation: >
+      L'assimilation intègre une information nouvelle aux structures mentales existantes ;
+      l'accommodation les modifie quand elles ne suffisent plus.
+  - question: "Que montrent des recherches plus récentes ?"
+    options:
+      - "Que Piaget avait tout prévu"
+      - "Les bébés comprennent certaines choses plus tôt que Piaget ne le pensait"
+      - "Que les enfants ne pensent pas"
+    answer: 2
+    explanation: >
+      Des recherches ont montré que les bébés comprennent certaines choses plus tôt que Piaget
+      ne le pensait, et que le développement ne suit pas toujours des stades nets.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Jean Piaget décrit quatre stades du développement de l'intelligence, où l'enfant construit activement sa pensée. Des recherches plus récentes ont nuancé ses résultats, sans effacer son héritage.
+
+## Un biologiste qui observe des enfants
+
+Jean Piaget était un biologiste, psychologue et épistémologue suisse, qui a profondément marqué la psychologie du développement. Il a notamment observé ses propres enfants pour comprendre comment leur pensée évolue. Son épistémologie génétique cherche à expliquer la connaissance par son histoire et ses origines psychologiques. Pour Piaget, l'enfant construit activement ses connaissances, au lieu de les recevoir passivement.
+
+## Quatre stades
+
+Il distingue quatre stades : sensori-moteur, préopératoire, opératoire concret et opératoire formel. Au stade sensori-moteur, le bébé comprend peu à peu que les objets continuent d'exister quand il ne les voit plus : c'est la permanence de l'objet. Au stade préopératoire, l'enfant utilise des symboles et l'imagination, mais a du mal à voir le point de vue des autres : c'est l'égocentrisme. Au stade opératoire concret, l'enfant comprend la conservation : un changement d'apparence ne change pas les propriétés de base. Au stade opératoire formel, l'adolescent peut raisonner de façon abstraite et envisager des hypothèses. L'assimilation intègre une information nouvelle aux structures mentales existantes ; l'accommodation les modifie quand elles ne suffisent plus.
+
+## Un héritage nuancé
+
+Cette idée a influencé l'éducation et les méthodes centrées sur l'élève. Des recherches ont montré que les bébés comprennent certaines choses plus tôt que Piaget ne le pensait, et que le développement ne suit pas toujours des stades nets. On lui reproche aussi d'avoir sous-estimé le rôle de la culture et du langage, que Vygotski mettait en avant. Ses échantillons étaient petits et non aléatoires, ce qui limite la portée de ses conclusions.
+
+## À retenir
+
+- Il distingue quatre stades : sensori-moteur, préopératoire, opératoire concret et opératoire formel.
+- Le bébé comprend peu à peu que les objets existent même cachés : c'est la permanence de l'objet.
+- Au stade opératoire concret, l'enfant comprend la conservation : un changement d'apparence ne change pas les propriétés de base.
+- Pour Piaget, l'enfant construit activement ses connaissances, au lieu de les recevoir passivement.
+- Des recherches montrent que les bébés comprennent certaines choses plus tôt que Piaget ne le pensait.
 
 ---
 type: article
-title: L'économie comportementale de Kahneman et Tversky
-slug: l-economie-comportementale-de-kahneman-et-tversky
+title: Pourquoi perdre une somme fait-il plus mal que gagner la même somme ne fait plaisir ?
+slug: pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir
 categoryPath: sciences-humaines-et-sociales/economie/microeconomie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'économie comportementale de Kahneman et Tversky.
-tags: [microeconomie, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  Kahneman et Tversky ont montré que nous jugeons les gains et les pertes par rapport à un point
+  de repère, et que les pertes pèsent plus. Nos raccourcis mentaux produisent des erreurs
+  régulières.
+tags: [microeconomie]
+sources:
+  - title: "Prospect theory"
+    url: "https://en.wikipedia.org/wiki/Prospect_theory"
+    publisher: "Wikipedia"
+  - title: "Économie comportementale"
+    url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
+    publisher: "Wikipédia"
+  - title: "Heuristics in judgment and decision-making"
+    url: "https://en.wikipedia.org/wiki/Heuristics_in_judgment_and_decision-making"
+    publisher: "Wikipedia"
+  - title: "Loss aversion"
+    url: "https://en.wikipedia.org/wiki/Loss_aversion"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que signifie l'aversion aux pertes ?"
+    options:
+      - "On adore perdre"
+      - "On ne remarque pas les pertes"
+      - "On réagit plus fort aux pertes qu'aux gains équivalents"
+    answer: 3
+    explanation: >
+      L'aversion aux pertes signifie que nous réagissons plus fortement aux pertes qu'aux gains
+      équivalents.
+  - question: "Par rapport à quoi juge-t-on un résultat selon la théorie des perspectives ?"
+    options:
+      - "Une valeur absolue"
+      - "Un point de repère lié à sa situation"
+      - "Le prix d'un journal"
+    answer: 2
+    explanation: >
+      Nous jugeons un résultat par rapport à un point de repère lié à notre situation, plutôt
+      que dans l'absolu.
+  - question: "Qu'est-ce qu'une heuristique ?"
+    options:
+      - "Une calculatrice"
+      - "Un raccourci mental qui conduit parfois à des erreurs"
+      - "Un animal"
+    answer: 2
+    explanation: >
+      Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduisent à des
+      erreurs systématiques.
+  - question: "Qu'est-ce que l'ancrage ?"
+    options:
+      - "Jeter l'ancre d'un bateau"
+      - "Choisir au hasard"
+      - "S'appuyer trop sur la première information reçue"
+    answer: 3
+    explanation: >
+      Avec l'ancrage, nous nous appuyons trop sur la première information reçue, même
+      arbitraire.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Kahneman et Tversky ont montré que nous jugeons les gains et les pertes par rapport à un point de repère, et que les pertes pèsent plus. Nos raccourcis mentaux produisent des erreurs régulières.
+
+## Un humain pas si rationnel
+
+L'économie classique suppose un être humain rationnel, l'homo œconomicus ; l'économie comportementale étudie pourquoi nous nous en écartons. Daniel Kahneman et Amos Tversky ont repéré des anomalies systématiques dans nos décisions, par des expériences de psychologie. La théorie des perspectives décrit comment nous décidons en situation de risque, de façon différente de la théorie de l'utilité espérée. Nous jugeons un résultat par rapport à un point de repère lié à notre situation, plutôt que dans l'absolu.
+
+## Gains, pertes et probabilités
+
+L'aversion aux pertes signifie que nous réagissons plus fortement aux pertes qu'aux gains équivalents. Nous déformons aussi les probabilités : nous donnons trop de poids aux événements rares et pas assez aux événements presque certains. Face à des gains possibles, nous évitons le risque ; face à des pertes possibles, nous avons tendance à le rechercher. La façon de présenter un choix, son cadrage, influence notre décision.
+
+## Des raccourcis mentaux
+
+Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduisent à des erreurs systématiques. L'heuristique de représentativité juge selon la ressemblance avec un modèle : dans l'exemple de Linda, on la juge plus probablement caissière de banque et féministe que simplement caissière. L'heuristique de disponibilité estime la fréquence d'un événement à la facilité avec laquelle des exemples viennent à l'esprit. Avec l'ancrage, nous nous appuyons trop sur la première information reçue, même arbitraire.
+
+## Reconnaissance et débats
+
+Daniel Kahneman a reçu le prix Nobel d'économie pour avoir fait entrer la psychologie dans l'économie. Des travaux récents discutent l'universalité de l'aversion aux pertes, et des études du domaine ont été retirées pour données douteuses.
+
+## À retenir
+
+- Nous jugeons un résultat par rapport à un point de repère lié à notre situation, plutôt que dans l'absolu.
+- L'aversion aux pertes signifie que nous réagissons plus fortement aux pertes qu'aux gains équivalents.
+- Nous déformons aussi les probabilités : nous donnons trop de poids aux événements rares et pas assez aux événements presque certains.
+- Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduisent à des erreurs systématiques.
+- Des travaux récents discutent l'universalité de l'aversion aux pertes, et des études du domaine ont été retirées pour données douteuses.
 
 ---
 type: article
-title: L'éducation et la mobilité sociale
-slug: l-education-et-la-mobilite-sociale
+title: L'école aide-t-elle vraiment à monter dans l'échelle sociale ?
+slug: l-ecole-aide-t-elle-vraiment-a-monter-dans-l-echelle-sociale
 categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'éducation et la mobilité sociale.
-tags: [education-et-mobilite, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Le diplôme aide à progresser dans l'échelle sociale, mais l'origine sociale pèse encore lourd.
+  Pour Bourdieu et Passeron, l'école peut aussi reproduire les inégalités plus qu'elle ne les
+  réduit.
+tags: [education-et-mobilite]
+sources:
+  - title: "Social mobility"
+    url: "https://en.wikipedia.org/wiki/Social_mobility"
+    publisher: "Wikipedia"
+  - title: "Mobilité sociale"
+    url: "https://fr.wikipedia.org/wiki/Mobilit%C3%A9_sociale"
+    publisher: "Wikipédia"
+  - title: "Reproduction sociale"
+    url: "https://fr.wikipedia.org/wiki/Reproduction_sociale"
+    publisher: "Wikipédia"
+  - title: "Des trajectoires professionnelles liées au diplôme et à l'origine sociale"
+    url: "https://www.insee.fr/fr/statistiques/4305814"
+    publisher: "Insee"
+  - title: "Malgré la progression de l'emploi qualifié, un quart des personnes se sentent socialement déclassées par rapport à leur père"
+    url: "https://www.insee.fr/fr/statistiques/2897850"
+    publisher: "Insee"
+quiz:
+  - question: "Qu'est-ce que la mobilité intergénérationnelle ?"
+    options:
+      - "Le déménagement d'une famille"
+      - "Un changement de nom"
+      - "La comparaison entre la position des parents et celle de leurs enfants"
+    answer: 3
+    explanation: >
+      On distingue la mobilité au cours d'une vie et la mobilité entre générations, qui compare
+      la position des parents à celle de leurs enfants.
+  - question: "Que fait le diplôme du supérieur pour les chances de devenir cadre ?"
+    options:
+      - "Il n'a aucun effet"
+      - "Il les augmente fortement"
+      - "Il les supprime"
+    answer: 2
+    explanation: >
+      En France, avoir un diplôme du supérieur augmente fortement les chances de devenir cadre
+      vers quarante ans, par rapport à un simple baccalauréat.
+  - question: "Que montrent Bourdieu et Passeron sur l'école ?"
+    options:
+      - "Elle supprime toutes les inégalités"
+      - "Elle peut reproduire les inégalités en favorisant les élèves déjà privilégiés"
+      - "Elle n'a aucun lien avec la société"
+    answer: 2
+    explanation: >
+      Pour eux, le système scolaire favorise les élèves déjà privilégiés et légitime les
+      hiérarchies sociales existantes.
+  - question: "Que dit la courbe de Gatsby le magnifique ?"
+    options:
+      - "Plus on est riche, plus on voyage"
+      - "Plus un pays est inégalitaire, plus la mobilité est faible"
+      - "Plus on est jeune, plus on gagne"
+    answer: 2
+    explanation: >
+      Les pays les plus inégalitaires ont en général une mobilité plus faible : c'est la courbe
+      de Gatsby le magnifique.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le diplôme aide à progresser dans l'échelle sociale, mais l'origine sociale pèse encore lourd. Pour Bourdieu et Passeron, l'école peut aussi reproduire les inégalités plus qu'elle ne les réduit.
+
+## Qu'appelle-t-on mobilité sociale ?
+
+La mobilité sociale désigne le déplacement des individus ou des familles entre les niveaux de la société. On distingue la mobilité au cours d'une vie et la mobilité entre générations, qui compare la position des parents à celle de leurs enfants. L'éducation est l'un des principaux moyens de s'élever socialement dans les pays occidentaux.
+
+## Ce que disent les chiffres
+
+En France, avoir un diplôme du supérieur augmente fortement les chances de devenir cadre vers quarante ans, par rapport à un simple baccalauréat. Les enfants de cadres deviennent bien plus souvent cadres que les enfants d'ouvriers. À diplôme égal, les femmes profitent moins d'un diplôme du supérieur que les hommes pour devenir cadres. Malgré la hausse de l'emploi qualifié, une part importante des personnes se sentent socialement déclassées par rapport à leur père. Selon l'OCDE, il faudrait en France plusieurs générations pour qu'une famille pauvre atteigne le revenu moyen.
+
+## L'école reproduit-elle les inégalités ?
+
+La reproduction sociale est le phénomène par lequel les positions sociales se transmettent d'une génération à l'autre. Pierre Bourdieu et Jean-Claude Passeron ont montré que la position sociale des parents fonctionne comme un héritage pour les enfants. Pour eux, le système scolaire favorise les élèves déjà privilégiés et légitime les hiérarchies sociales existantes. Les enfants de familles aisées reçoivent plus de soutien dès la petite enfance, ce qui crée des avantages qui durent toute la scolarité. Les pays les plus inégalitaires ont en général une mobilité plus faible : c'est la courbe de Gatsby le magnifique. On parle d'ascenseur social, une image qui ne dit pas qu'il serve à tout le monde de la même façon.
+
+## À retenir
+
+- La mobilité sociale désigne le déplacement des individus ou des familles entre les niveaux de la société.
+- En France, avoir un diplôme du supérieur augmente fortement les chances de devenir cadre vers quarante ans, par rapport à un simple baccalauréat.
+- Les enfants de cadres deviennent bien plus souvent cadres que les enfants d'ouvriers.
+- Pierre Bourdieu et Jean-Claude Passeron ont montré que la position sociale des parents fonctionne comme un héritage pour les enfants.
+- Les pays les plus inégalitaires ont en général une mobilité plus faible : c'est la courbe de Gatsby le magnifique.
 
 ---
 type: article
-title: La procrastination, pourquoi on remet à plus tard
-slug: la-procrastination-pourquoi-on-remet-a-plus-tard
+title: Pourquoi remet-on à demain ce qu'on sait devoir faire aujourd'hui ?
+slug: pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui
 categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la procrastination, pourquoi on remet à plus tard.
-tags: [biais-cognitifs, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Procrastiner, c'est retarder volontairement une tâche en sachant qu'on s'en trouvera plus mal.
+  Ce n'est pas de la paresse : on fuit surtout une émotion désagréable et on préfère le plaisir
+  immédiat.
+tags: [biais-cognitifs]
+sources:
+  - title: "Procrastination"
+    url: "https://en.wikipedia.org/wiki/Procrastination"
+    publisher: "Wikipedia"
+  - title: "Procrastination"
+    url: "https://fr.wikipedia.org/wiki/Procrastination"
+    publisher: "Wikipédia"
+  - title: "Hyperbolic discounting"
+    url: "https://en.wikipedia.org/wiki/Hyperbolic_discounting"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Procrastiner, est-ce seulement de la paresse ?"
+    options:
+      - "Non, c'est surtout fuir une émotion désagréable"
+      - "Oui, uniquement"
+      - "C'est un sport"
+    answer: 1
+    explanation: >
+      Ce n'est pas simplement de la paresse : c'est un retard volontaire, irrationnel et souvent
+      contre-productif.
+  - question: "Quel facteur a le lien le plus fort avec la procrastination ?"
+    options:
+      - "La taille des chaussures"
+      - "L'impulsivité"
+      - "La météo"
+    answer: 2
+    explanation: >
+      L'impulsivité, c'est-à-dire la difficulté à résister à une autre occupation immédiate, a
+      le lien le plus fort avec la procrastination.
+  - question: "Que décrit l'actualisation hyperbolique ?"
+    options:
+      - "On préfère une petite récompense immédiate à une plus grande plus tard"
+      - "On calcule parfaitement le futur"
+      - "On préfère toujours attendre"
+    answer: 1
+    explanation: >
+      L'actualisation hyperbolique décrit le fait qu'on préfère une petite récompense immédiate
+      à une plus grande plus tard, et qu'on décompte le futur proche plus fort que le futur
+      lointain.
+  - question: "Un retard peut-il être utile ?"
+    options:
+      - "Non, jamais"
+      - "Seulement le dimanche"
+      - "Oui, parfois, car il évite des décisions hâtives"
+    answer: 3
+    explanation: >
+      Un certain retard peut être utile, car il évite des décisions hâtives.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Procrastiner, c'est retarder volontairement une tâche en sachant qu'on s'en trouvera plus mal. Ce n'est pas de la paresse : on fuit surtout une émotion désagréable et on préfère le plaisir immédiat.
+
+## Une définition précise
+
+Procrastiner, c'est retarder volontairement une action prévue, alors qu'on s'attend à s'en trouver plus mal. Le mot vient du latin pro, en avant, et crastinus, de demain, et il est proche du grec akrasia, agir contre son meilleur jugement. Ce n'est pas simplement de la paresse : c'est un retard volontaire, irrationnel et souvent contre-productif.
+
+## Pourquoi on repousse
+
+L'explication principale actuelle est la difficulté à gérer ses émotions : on repousse une tâche pour éviter les sentiments négatifs qu'elle provoque. L'impulsivité, c'est-à-dire la difficulté à résister à une autre occupation immédiate, a le lien le plus fort avec la procrastination. La théorie de la motivation temporelle retient trois facteurs : l'espoir de réussir, la valeur de la tâche et l'impulsivité. L'actualisation hyperbolique décrit le fait qu'on préfère une petite récompense immédiate à une plus grande plus tard, et qu'on décompte le futur proche plus fort que le futur lointain. Cela rend nos choix incohérents dans le temps : nous prenons aujourd'hui des décisions que notre moi futur regretterait.
+
+## Conséquences et pistes
+
+Les procrastinateurs subissent plus de stress à l'approche des échéances et obtiennent en moyenne de moins bons résultats scolaires. Un certain retard peut être utile, car il évite des décisions hâtives. Repérer ce qui déclenche l'envie de remettre à plus tard, fixer des objectifs réalistes et réduire les distractions sont des pistes décrites. Des études de jumeaux montrent que la procrastination est en partie héritable, avec un lien génétique avec l'impulsivité. Les distractions numériques ont augmenté la part de personnes qui se disent procrastinatrices.
+
+## À retenir
+
+- Procrastiner, c'est retarder volontairement une action prévue, alors qu'on s'attend à s'en trouver plus mal.
+- Ce n'est pas simplement de la paresse : c'est un retard volontaire, irrationnel et souvent contre-productif.
+- On repousse une tâche pour éviter les sentiments négatifs qu'elle provoque, plutôt que par paresse.
+- L'impulsivité, c'est-à-dire la difficulté à résister à une autre occupation immédiate, a le lien le plus fort avec la procrastination.
+- On préfère une petite récompense immédiate à une plus grande plus tard : c'est l'actualisation hyperbolique.
 
 ---
 type: article
-title: Pourquoi croit-on aux fausses informations ?
-slug: pourquoi-croit-on-aux-fausses-informations
+title: Pourquoi croit-on aux fausses informations, même quand on se croit prudent ?
+slug: pourquoi-croit-on-aux-fausses-informations-meme-quand-on-se-croit-prudent
 categoryPath: sciences-humaines-et-sociales/psychologie/cognition
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi croit-on aux fausses informations ?.
-tags: [cognition, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Les fausses informations marchent parce qu'elles jouent sur nos émotions, sur la confiance
+  envers nos proches, sur la répétition et sur nos opinions. Elles circulent vite, mais on peut
+  s'en protéger.
+tags: [cognition]
+sources:
+  - title: "Misinformation"
+    url: "https://en.wikipedia.org/wiki/Misinformation"
+    publisher: "Wikipedia"
+  - title: "Désinformation"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9sinformation"
+    publisher: "Wikipédia"
+  - title: "Illusory truth effect"
+    url: "https://en.wikipedia.org/wiki/Illusory_truth_effect"
+    publisher: "Wikipedia"
+  - title: "Confirmation bias"
+    url: "https://en.wikipedia.org/wiki/Confirmation_bias"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la différence entre mésinformation et désinformation ?"
+    options:
+      - "Aucune"
+      - "La couleur du journal"
+      - "L'intention : la désinformation est volontaire"
+    answer: 3
+    explanation: >
+      La mésinformation est une information fausse diffusée sans intention de nuire ; la
+      désinformation est trompeuse et diffusée volontairement.
+  - question: "Que dit l'effet de vérité illusoire ?"
+    options:
+      - "Que tout ce qui est faux se voit"
+      - "Que la vérité change chaque jour"
+      - "Répéter une affirmation la rend plus crédible"
+    answer: 3
+    explanation: >
+      La répétition d'une affirmation la rend plus crédible, parce que nous confondons
+      familiarité et vérité : c'est l'effet de vérité illusoire.
+  - question: "Qu'est-ce que le biais de confirmation ?"
+    options:
+      - "Chercher et retenir ce qui confirme nos croyances"
+      - "Confirmer son billet de train"
+      - "Vérifier une adresse"
+    answer: 1
+    explanation: >
+      Le biais de confirmation est la tendance à chercher, interpréter et retenir les
+      informations qui confirment nos croyances.
+  - question: "Qu'est-ce que le prébunking ?"
+    options:
+      - "Détruire des journaux"
+      - "Montrer des exemples de manipulation avant d'y être exposé"
+      - "Corriger après coup seulement"
+    answer: 2
+    explanation: >
+      Le prébunking, qui montre des exemples de manipulation avant l'exposition, et l'éducation
+      aux médias sont des remèdes prometteurs.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les fausses informations marchent parce qu'elles jouent sur nos émotions, sur la confiance envers nos proches, sur la répétition et sur nos opinions. Elles circulent vite, mais on peut s'en protéger.
+
+## Mésinformation ou désinformation ?
+
+La mésinformation est une information fausse diffusée sans intention de nuire ; la désinformation est trompeuse et diffusée volontairement.
+
+## Ce qui nous rend crédules
+
+Nous retenons et partageons plus volontiers ce qui nous touche émotionnellement. Une fausse information circule plus facilement quand elle est partagée par des personnes de confiance que par des inconnus. Nous nous rassemblons avec des gens qui pensent comme nous, et ces chambres d'écho laissent les fausses croyances sans contradiction. La répétition d'une affirmation la rend plus crédible, parce que nous confondons familiarité et vérité : c'est l'effet de vérité illusoire. Cet effet joue même quand la personne connaît la bonne réponse. Le biais de confirmation est la tendance à chercher, interpréter et retenir les informations qui confirment nos croyances. Il est plus fort pour les sujets chargés d'émotion et les croyances profondes, et il ne dépend pas du niveau d'intelligence. Le biais de négativité amplifie les contenus problématiques, et les plateformes favorisent la viralité plutôt que la fiabilité. Une citation avec lien vers une revue scientifique augmente la confiance, même si le lecteur ne vérifie pas.
+
+## Aller vite et se protéger
+
+Selon une étude sur Twitter, les fausses informations se propagent plus vite, plus loin et plus largement que les vraies. Le prébunking, qui montre des exemples de manipulation avant l'exposition, et l'éducation aux médias sont des remèdes prometteurs. La vérification des faits et un ton empathique dans les corrections aident à garder le dialogue ouvert. La société elle-même est le premier rempart contre la manipulation de l'information.
+
+## À retenir
+
+- La mésinformation est une information fausse diffusée sans intention de nuire ; la désinformation est trompeuse et diffusée volontairement.
+- Nous retenons et partageons plus volontiers ce qui nous touche émotionnellement.
+- Répéter une affirmation la rend plus crédible : nous confondons familiarité et vérité.
+- Le biais de confirmation est la tendance à chercher, interpréter et retenir les informations qui confirment nos croyances.
+- Le prébunking, qui montre des exemples de manipulation avant l'exposition, et l'éducation aux médias sont des remèdes prometteurs.
 
 ---
 type: article
-title: Les biais émotionnels dans les décisions
-slug: les-biais-emotionnels-dans-les-decisions
+title: Comment nos émotions orientent-elles nos décisions sans qu'on s'en rende compte ?
+slug: comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte
 categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les biais émotionnels dans les décisions.
-tags: [biais-cognitifs, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  Nos émotions servent de raccourci : si on aime quelque chose, on le juge moins risqué et plus
+  utile. L'aversion aux pertes et l'effet de dotation en sont d'autres exemples, qui faussent
+  nos choix.
+tags: [biais-cognitifs]
+sources:
+  - title: "Affect heuristic"
+    url: "https://en.wikipedia.org/wiki/Affect_heuristic"
+    publisher: "Wikipedia"
+  - title: "Loss aversion"
+    url: "https://en.wikipedia.org/wiki/Loss_aversion"
+    publisher: "Wikipedia"
+  - title: "Heuristics in judgment and decision-making"
+    url: "https://en.wikipedia.org/wiki/Heuristics_in_judgment_and_decision-making"
+    publisher: "Wikipedia"
+  - title: "Économie comportementale"
+    url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait l'heuristique d'affect ?"
+    options:
+      - "Elle fait reposer un jugement sur notre réaction émotionnelle"
+      - "Elle mesure la température"
+      - "Elle supprime les émotions"
+    answer: 1
+    explanation: >
+      L'heuristique d'affect est un raccourci mental où notre réaction émotionnelle joue le rôle
+      principal dans un jugement.
+  - question: "Si on aime quelque chose, comment juge-t-on ses risques ?"
+    options:
+      - "Plus grands"
+      - "Identiques"
+      - "Plus faibles"
+    answer: 3
+    explanation: >
+      Si l'on a un sentiment positif envers quelque chose, on juge ses risques plus faibles et
+      ses bénéfices plus grands ; un sentiment négatif produit l'effet inverse.
+  - question: "Qu'est-ce que l'effet de dotation ?"
+    options:
+      - "Faire un cadeau"
+      - "Compter son argent"
+      - "Valoriser davantage ce que l'on possède"
+    answer: 3
+    explanation: >
+      L'effet de dotation nous fait attribuer plus de valeur à ce que nous possédons qu'à un
+      objet identique que nous ne possédons pas.
+  - question: "Les études sont-elles unanimes sur l'aversion aux pertes ?"
+    options:
+      - "Oui, toutes la retrouvent"
+      - "Aucune n'existe"
+      - "Non, certaines discutent son universalité"
+    answer: 3
+    explanation: >
+      Des travaux récents discutent l'universalité de l'aversion aux pertes : certaines études
+      ne la retrouvent pas.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Nos émotions servent de raccourci : si on aime quelque chose, on le juge moins risqué et plus utile. L'aversion aux pertes et l'effet de dotation en sont d'autres exemples, qui faussent nos choix.
+
+## L'émotion comme raccourci
+
+L'heuristique d'affect est un raccourci mental où notre réaction émotionnelle joue le rôle principal dans un jugement. Le chercheur Paul Slovic a contribué à développer ce concept. Si l'on a un sentiment positif envers quelque chose, on juge ses risques plus faibles et ses bénéfices plus grands ; un sentiment négatif produit l'effet inverse. Le processus est rapide et automatique, et il ne demande pas d'analyse approfondie. Il influence des décisions de santé, la perception du changement climatique et l'évaluation de produits nouveaux.
+
+## Les pertes pèsent plus
+
+L'aversion aux pertes signifie que la même situation paraît pire quand elle est présentée comme une perte que comme un gain. L'anticipation d'une perte active l'amygdale, une région liée à la peur. L'effet de dotation nous fait attribuer plus de valeur à ce que nous possédons qu'à un objet identique que nous ne possédons pas. Le biais du statu quo nous fait préférer les conditions actuelles au changement. L'erreur des coûts irrécupérables nous fait continuer à investir dans une entreprise qui échoue.
+
+## Raccourcis et limites
+
+Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduisent à des erreurs systématiques. Le cadrage, c'est-à-dire la façon de présenter une situation, influence aussi nos décisions. Des travaux récents discutent l'universalité de l'aversion aux pertes : certaines études ne la retrouvent pas.
+
+## À retenir
+
+- L'heuristique d'affect est un raccourci mental où notre réaction émotionnelle joue le rôle principal dans un jugement.
+- Un sentiment positif fait juger les risques plus faibles et les bénéfices plus grands ; un sentiment négatif, l'inverse.
+- L'aversion aux pertes signifie que la même situation paraît pire quand elle est présentée comme une perte que comme un gain.
+- L'effet de dotation nous fait attribuer plus de valeur à ce que nous possédons qu'à un objet identique que nous ne possédons pas.
+- Des travaux récents discutent l'universalité de l'aversion aux pertes : certaines études ne la retrouvent pas.
 
 ---
 type: article
-title: Les rumeurs et leur circulation
-slug: les-rumeurs-et-leur-circulation
+title: Pourquoi une rumeur se déforme-t-elle en passant de bouche en bouche ?
+slug: pourquoi-une-rumeur-se-deforme-t-elle-en-passant-de-bouche-en-bouche
 categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les rumeurs et leur circulation.
-tags: [groupes-et-normes, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Une rumeur est une information non vérifiée qui circule. En passant de personne en personne,
+  elle perd des détails, en accentue certains et se déforme selon les croyances de chacun.
+tags: [groupes-et-normes]
+sources:
+  - title: "Rumor"
+    url: "https://en.wikipedia.org/wiki/Rumor"
+    publisher: "Wikipedia"
+  - title: "Rumeur"
+    url: "https://fr.wikipedia.org/wiki/Rumeur"
+    publisher: "Wikipédia"
+  - title: "Rumeur d'Orléans"
+    url: "https://fr.wikipedia.org/wiki/Rumeur_d%27Orl%C3%A9ans"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qu'est-ce qu'une rumeur ?"
+    options:
+      - "Une information officielle"
+      - "Une information non vérifiée qui circule"
+      - "Un conte de fées"
+    answer: 2
+    explanation: >
+      Une rumeur est une information non vérifiée qui circule entre les gens, souvent sans
+      preuve solide.
+  - question: "Que fait le nivellement ?"
+    options:
+      - "Il fait disparaître beaucoup de détails"
+      - "Il ajoute de la couleur"
+      - "Il aplatit le sol"
+    answer: 1
+    explanation: >
+      Le nivellement, ou réduction, fait disparaître beaucoup de détails dès les premières
+      retransmissions.
+  - question: "Qu'a-t-on constaté à Orléans lors de cette célèbre rumeur ?"
+    options:
+      - "Des disparitions prouvées"
+      - "Une fête"
+      - "Une rumeur sans aucune disparition réelle"
+    answer: 3
+    explanation: >
+      À Orléans, la rumeur de jeunes femmes disparaissant dans des cabines d'essayage s'est
+      propagée par le seul bouche-à-oreille, alors qu'aucune disparition n'avait eu lieu.
+  - question: "Un démenti éteint-il toujours une rumeur ?"
+    options:
+      - "Oui, toujours"
+      - "Seulement le lundi"
+      - "Non, pas toujours"
+    answer: 3
+    explanation: >
+      Démentir ne suffit pas toujours à éteindre une rumeur.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une rumeur est une information non vérifiée qui circule. En passant de personne en personne, elle perd des détails, en accentue certains et se déforme selon les croyances de chacun.
+
+## Qu'est-ce qu'une rumeur ?
+
+Une rumeur est une information non vérifiée qui circule entre les gens, souvent sans preuve solide. Elle sert à comprendre ensemble une situation incertaine : les gens cherchent du sens à plusieurs. Beaucoup de rumeurs offrent des explications simples à des problèmes sociaux, ce qui explique leur attrait. La plupart naissent spontanément, et non d'un complot organisé.
+
+## Trois façons de se déformer
+
+Gordon Allport et Leo Postman ont étudié comment un message change quand il passe de personne en personne. Le nivellement, ou réduction, fait disparaître beaucoup de détails dès les premières retransmissions. L'accentuation conserve certains détails, ou en ajoute, pour donner plus de cohérence ou d'effet. L'assimilation déforme le message selon les valeurs, les croyances ou les émotions de celui qui le raconte. Les rumeurs négatives se propagent mieux que les positives.
+
+## Un cas d'école : Orléans
+
+À Orléans, la rumeur de jeunes femmes disparaissant dans des cabines d'essayage s'est propagée par le seul bouche-à-oreille, alors qu'aucune disparition n'avait eu lieu. Elle a fini par rassembler des foules menaçantes devant des magasins, après un relais par la presse locale. Le sociologue Edgar Morin a mené une enquête avec son équipe, publiée dans La Rumeur d'Orléans. Démentir ne suffit pas toujours à éteindre une rumeur. Des rumeurs semblables sont apparues dans d'autres villes françaises et à l'étranger.
+
+## À retenir
+
+- Une rumeur est une information non vérifiée qui circule entre les gens, souvent sans preuve solide.
+- Le nivellement, ou réduction, fait disparaître beaucoup de détails dès les premières retransmissions.
+- L'accentuation conserve certains détails, ou en ajoute, pour donner plus de cohérence ou d'effet.
+- L'assimilation déforme le message selon les valeurs, les croyances ou les émotions de celui qui le raconte.
+- À Orléans, la rumeur de disparitions dans des cabines d'essayage s'est propagée sans aucune disparition réelle.
 
 ---
 type: article
-title: Le nudge, inciter sans contraindre
-slug: le-nudge-inciter-sans-contraindre
+title: Comment pousser les gens à mieux choisir sans rien leur interdire ?
+slug: comment-pousser-les-gens-a-mieux-choisir-sans-rien-leur-interdire
 categoryPath: sciences-humaines-et-sociales/economie/microeconomie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le nudge, inciter sans contraindre.
-tags: [microeconomie, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Un nudge est un petit coup de pouce dans la façon de présenter un choix, qui oriente les gens
+  sans rien interdire ni changer les incitations. Il est efficace parfois, mais discuté.
+tags: [microeconomie]
+sources:
+  - title: "Nudge theory"
+    url: "https://en.wikipedia.org/wiki/Nudge_theory"
+    publisher: "Wikipedia"
+  - title: "Default effect"
+    url: "https://en.wikipedia.org/wiki/Default_effect"
+    publisher: "Wikipedia"
+  - title: "Économie comportementale"
+    url: "https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qu'est-ce qu'un nudge ?"
+    options:
+      - "Une interdiction"
+      - "Un coup de pouce dans la présentation d'un choix, sans rien interdire"
+      - "Une taxe"
+    answer: 2
+    explanation: >
+      Un nudge est un aspect de l'architecture du choix qui modifie le comportement de façon
+      prévisible, sans interdire d'option ni changer significativement les incitations
+      économiques.
+  - question: "Quelle technique courante utilise-t-on ?"
+    options:
+      - "L'option par défaut"
+      - "La menace"
+      - "Le bruit"
+    answer: 1
+    explanation: >
+      L'option par défaut, comme l'inscription automatique à un plan d'épargne retraite, est une
+      technique courante.
+  - question: "Que montre l'exemple du don d'organes ?"
+    options:
+      - "Le don est interdit"
+      - "Être donneur par défaut augmente la participation"
+      - "Personne n'y participe"
+    answer: 2
+    explanation: >
+      Pour le don d'organes, les pays où l'on est donneur par défaut ont une participation bien
+      plus élevée que ceux où il faut s'inscrire.
+  - question: "Quelle critique est faite aux nudges ?"
+    options:
+      - "Ils sont trop chers à imprimer"
+      - "Leur efficacité est discutée et ils posent des questions d'éthique"
+      - "Ils sont interdits partout"
+    answer: 2
+    explanation: >
+      Une analyse récente, après correction des biais de publication, ne trouve pas de preuve
+      d'un effet des nudges.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un nudge est un petit coup de pouce dans la façon de présenter un choix, qui oriente les gens sans rien interdire ni changer les incitations. Il est efficace parfois, mais discuté.
+
+## Une idée simple
+
+La théorie du nudge vient du livre Nudge, de Richard Thaler et Cass Sunstein. Un nudge est un aspect de l'architecture du choix qui modifie le comportement de façon prévisible, sans interdire d'option ni changer significativement les incitations économiques. On parle de paternalisme libertarien : orienter les comportements par l'environnement, sans obligation ni contrainte. Les nudges visent notre mode de décision rapide et automatique, que Kahneman appelle le système 1.
+
+## Des exemples
+
+L'option par défaut, comme l'inscription automatique à un plan d'épargne retraite, est une technique courante. Pour le don d'organes, les pays où l'on est donneur par défaut ont une participation bien plus élevée que ceux où il faut s'inscrire. L'effet de défaut tient à l'effort mental, aux coûts de changement, à l'aversion aux pertes et au fait qu'on y voit une recommandation implicite. Placer les aliments sains à hauteur des yeux augmente leur choix. Montrer ce que font les autres, la preuve sociale, peut aussi influencer les décisions.
+
+## Usages et critiques
+
+Des gouvernements ont créé des équipes dédiées, comme la Behavioural Insights Team au Royaume-Uni. On les applique à la santé, à l'éducation et à l'environnement. Une analyse récente, après correction des biais de publication, ne trouve pas de preuve d'un effet des nudges. Des critiques soulèvent aussi des questions d'autonomie et de manipulation.
+
+## À retenir
+
+- Un nudge modifie le comportement par la présentation du choix, sans rien interdire ni changer les incitations.
+- On parle de paternalisme libertarien : orienter les comportements par l'environnement, sans obligation ni contrainte.
+- L'option par défaut, comme l'inscription automatique à un plan d'épargne retraite, est une technique courante.
+- Pour le don d'organes, les pays où l'on est donneur par défaut ont une participation bien plus élevée que ceux où il faut s'inscrire.
+- Une analyse récente, après correction des biais de publication, ne trouve pas de preuve d'un effet des nudges.
 
 ---
 type: article
-title: Pourquoi la monnaie réapparaît toujours
-slug: pourquoi-la-monnaie-reapparait-toujours
+title: Pourquoi les humains inventent-ils toujours une monnaie, même dans un camp de prisonniers ?
+slug: pourquoi-les-humains-inventent-ils-toujours-une-monnaie-meme-dans-un-camp-de-prisonniers
 categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi la monnaie réapparaît toujours.
-tags: [macroeconomie, veille-2026-09]
-priority: 0.8
-essentiel: false
-status: planned
+  La monnaie résout la difficulté du troc : elle est un moyen d'échange, une unité de compte et
+  une réserve de valeur acceptés de tous. Même des prisonniers ont fait des cigarettes leur
+  monnaie.
+tags: [macroeconomie]
+sources:
+  - title: "Money"
+    url: "https://en.wikipedia.org/wiki/Money"
+    publisher: "Wikipedia"
+  - title: "Monnaie"
+    url: "https://fr.wikipedia.org/wiki/Monnaie"
+    publisher: "Wikipédia"
+  - title: "Commodity money"
+    url: "https://en.wikipedia.org/wiki/Commodity_money"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel problème la monnaie résout-elle ?"
+    options:
+      - "La difficulté du troc : la double coïncidence des besoins"
+      - "Le manque d'eau"
+      - "Les embouteillages"
+    answer: 1
+    explanation: >
+      Le troc exige une double coïncidence des besoins : chacun doit vouloir ce que l'autre
+      possède, au même moment.
+  - question: "Quels sont les trois rôles de la monnaie ?"
+    options:
+      - "Intermédiaire d'échange, unité de compte, réserve de valeur"
+      - "Habiller, nourrir, loger"
+      - "Peser, mesurer, couper"
+    answer: 1
+    explanation: >
+      Elle joue trois rôles : intermédiaire des échanges, unité de compte et réserve de valeur.
+  - question: "Que sont devenues les cigarettes dans les camps de prisonniers ?"
+    options:
+      - "Une monnaie standard"
+      - "Des bijoux"
+      - "Des armes"
+    answer: 1
+    explanation: >
+      Dans des camps de prisonniers de guerre, l'économiste R. A. Radford a décrit des
+      cigarettes devenues monnaie standard, acceptées même par les non-fumeurs.
+  - question: "Sur quoi repose toute monnaie ?"
+    options:
+      - "La confiance collective"
+      - "La couleur du billet"
+      - "Le poids du porte-monnaie"
+    answer: 1
+    explanation: >
+      Quelle que soit sa forme, la monnaie repose sur la confiance collective.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La monnaie résout la difficulté du troc : elle est un moyen d'échange, une unité de compte et une réserve de valeur acceptés de tous. Même des prisonniers ont fait des cigarettes leur monnaie.
+
+## À quoi sert la monnaie ?
+
+La monnaie est ce qui est généralement accepté comme paiement pour des biens et des services. Elle joue trois rôles : intermédiaire des échanges, unité de compte et réserve de valeur. Le troc exige une double coïncidence des besoins : chacun doit vouloir ce que l'autre possède, au même moment. La monnaie lève cette contrainte : on vend contre de la monnaie, puis on achète plus tard ce qu'on veut.
+
+## Des formes variées
+
+Quand la monnaie a pris forme, les sociétés ont employé des objets variés : coquillages, orge, sel, bétail, métaux précieux. Une bonne monnaie-marchandise est durable, transportable, divisible et désirée par beaucoup. Dans des camps de prisonniers de guerre, l'économiste R. A. Radford a décrit des cigarettes devenues monnaie standard, acceptées même par les non-fumeurs. Cette monnaie est apparue spontanément, quand la monnaie officielle manquait. Les premières pièces ont été frappées en Lydie, en or et en argent ou en électrum.
+
+## Confiance et monnaie moderne
+
+Quelle que soit sa forme, la monnaie repose sur la confiance collective. La monnaie moderne n'a presque plus de valeur matérielle propre : c'est la monnaie fiduciaire. Elle est créée par les banques centrales et par les banques, à travers les prêts et les dépôts. Avant la monnaie, les sociétés fonctionnaient surtout par dons et dettes plutôt que par troc pur.
+
+## À retenir
+
+- Elle joue trois rôles : intermédiaire des échanges, unité de compte et réserve de valeur.
+- Le troc exige une double coïncidence des besoins : chacun doit vouloir ce que l'autre possède, au même moment.
+- Une bonne monnaie-marchandise est durable, transportable, divisible et désirée par beaucoup.
+- Dans des camps de prisonniers de guerre, l'économiste R. A. Radford a décrit des cigarettes devenues monnaie standard, acceptées même par les non-fumeurs.
+- Quelle que soit sa forme, la monnaie repose sur la confiance collective.
 
 ---
 type: article
-title: L'inflation et la quantité de monnaie selon Jean Bodin
-slug: l-inflation-et-la-quantite-de-monnaie-selon-jean-bodin
+title: Pourquoi les prix ont-ils flambé au XVIe siècle, selon Jean Bodin ?
+slug: pourquoi-les-prix-ont-ils-flambe-au-xvie-siecle-selon-jean-bodin
 categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'inflation et la quantité de monnaie selon Jean Bodin.
-tags: [macroeconomie, veille-2026-09]
-priority: 0.75
-essentiel: false
-status: planned
+  Au XVIe siècle, l'Europe a connu une longue hausse des prix. Jean Bodin l'a expliquée par
+  l'arrivée de l'or et de l'argent d'Amérique, une idée à l'origine de la théorie quantitative
+  de la monnaie.
+tags: [macroeconomie]
+sources:
+  - title: "Jean Bodin"
+    url: "https://fr.wikipedia.org/wiki/Jean_Bodin"
+    publisher: "Wikipédia"
+  - title: "Quantity theory of money"
+    url: "https://en.wikipedia.org/wiki/Quantity_theory_of_money"
+    publisher: "Wikipedia"
+  - title: "Price revolution"
+    url: "https://en.wikipedia.org/wiki/Price_revolution"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment Bodin explique-t-il la hausse des prix ?"
+    options:
+      - "Par un hiver trop froid"
+      - "Par la peste seulement"
+      - "Par l'afflux d'or et d'argent d'Amérique"
+    answer: 3
+    explanation: >
+      Bodin l'explique surtout par l'afflux d'or et d'argent du Nouveau Monde, qui augmente la
+      quantité de monnaie.
+  - question: "Que dit la théorie quantitative de la monnaie ?"
+    options:
+      - "Les prix sont toujours fixes"
+      - "Les prix sont proportionnels à la quantité de monnaie"
+      - "La monnaie n'a aucun effet"
+    answer: 2
+    explanation: >
+      La théorie quantitative de la monnaie affirme que le niveau général des prix est
+      proportionnel à la quantité de monnaie en circulation.
+  - question: "Qui avait formulé l'idée avant Bodin ?"
+    options:
+      - "Napoléon"
+      - "Martín de Azpilcueta"
+      - "Newton"
+    answer: 2
+    explanation: >
+      Un savant espagnol, Martín de Azpilcueta, avait formulé cette idée avant lui.
+  - question: "Les banques centrales ciblent-elles encore la masse monétaire ?"
+    options:
+      - "Oui, toutes"
+      - "Elles n'existent pas"
+      - "Non, elles ont abandonné ce ciblage"
+    answer: 3
+    explanation: >
+      Les banques centrales ont abandonné le ciblage de la masse monétaire, mais la plupart des
+      économistes lient l'inflation à la croissance de la monnaie.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au XVIe siècle, l'Europe a connu une longue hausse des prix. Jean Bodin l'a expliquée par l'arrivée de l'or et de l'argent d'Amérique, une idée à l'origine de la théorie quantitative de la monnaie.
+
+## Un juriste face à la vie chère
+
+Jean Bodin était un juriste et penseur politique français, auteur des Six livres de la République. Dans sa Réponse aux paradoxes de Monsieur de Malestroit, il discute la hausse des prix. La révolution des prix désigne une longue période d'inflation en Europe occidentale, surtout dans la seconde moitié du XVIe siècle. Bodin l'explique surtout par l'afflux d'or et d'argent du Nouveau Monde, qui augmente la quantité de monnaie. Il écarte l'explication par l'altération des monnaies : l'inflation venait bien plus de l'afflux espagnol-américain.
+
+## Les causes en débat
+
+Les grandes mines d'argent du Pérou, du Mexique et de Bolivie ont fortement augmenté la production, grâce à de nouvelles techniques de traitement. Un savant espagnol, Martín de Azpilcueta, avait formulé cette idée avant lui. Les historiens discutent d'autres causes : croissance de la population, hausse de la production minière européenne, urbanisation et rapidité de circulation de la monnaie. L'inflation s'est apaisée quand les envois de métaux américains ont diminué.
+
+## Une théorie durable
+
+La théorie quantitative de la monnaie affirme que le niveau général des prix est proportionnel à la quantité de monnaie en circulation. On l'écrit souvent MV = PY : monnaie, vitesse de circulation, prix et production. Copernic avait déjà noté que la monnaie perd de la valeur quand elle est trop abondante. La théorie suppose que la production est fixée de l'extérieur, que la vitesse de circulation est constante et que la banque centrale contrôle la monnaie. Les banques centrales ont abandonné le ciblage de la masse monétaire, mais la plupart des économistes lient l'inflation à la croissance de la monnaie.
+
+## À retenir
+
+- La révolution des prix désigne une longue période d'inflation en Europe occidentale, surtout dans la seconde moitié du XVIe siècle.
+- Bodin l'explique surtout par l'afflux d'or et d'argent du Nouveau Monde, qui augmente la quantité de monnaie.
+- Il écarte l'explication par l'altération des monnaies : l'inflation venait bien plus de l'afflux espagnol-américain.
+- La théorie quantitative de la monnaie affirme que le niveau général des prix est proportionnel à la quantité de monnaie en circulation.
+- Les banques centrales ont abandonné le ciblage de la masse monétaire, mais la plupart des économistes lient l'inflation à la croissance de la monnaie.
 
 ---
 type: article
-title: Le prince celte de Lavau et sa tombe
-slug: le-prince-celte-de-lavau-et-sa-tombe
+title: Que révèle la tombe intacte du prince celte de Lavau sur ses liens avec la Méditerranée ?
+slug: que-revele-la-tombe-intacte-du-prince-celte-de-lavau-sur-ses-liens-avec-la-mediterranee
 categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le prince celte de Lavau et sa tombe.
-tags: [prehistoire, veille-2026-09]
-priority: 0.74
-essentiel: false
-status: planned
+  À Lavau, dans l'Aube, les archéologues ont fouillé une tombe princière celte jamais pillée :
+  un défunt sur son char, de l'or, un grand chaudron de bronze et des vases importés de
+  Méditerranée.
+tags: [prehistoire]
+sources:
+  - title: "Une tombe princière celte découverte à Lavau"
+    url: "https://www.inrap.fr/une-tombe-princiere-celte-du-ve-siecle-avant-notre-ere-decouverte-lavau-1369"
+    publisher: "Inrap"
+  - title: "La tombe princière et le complexe funéraire monumental de Lavau, ZAC du Moutot"
+    url: "https://www.inrap.fr/la-tombe-princiere-et-le-complexe-funeraire-monumental-de-lavau-zac-du-moutot-19965"
+    publisher: "Inrap"
+  - title: "Lavau, Aube"
+    url: "https://en.wikipedia.org/wiki/Lavau,_Aube"
+    publisher: "Wikipedia"
+  - title: "Découverte d'une tombe princière celte exceptionnelle"
+    url: "https://www.futura-sciences.com/sciences/actualites/archeologie-decouverte-tombe-princiere-celte-exceptionnelle-57410/"
+    publisher: "Futura Sciences"
+  - title: "La tombe jamais pillée d'un prince celte avec son chaudron étrusque"
+    url: "https://sciencepost.fr/sous-un-rond-point-de-l-aube-dormait-depuis-2-500-ans-la-tombe-jamais-pillee-d-un-prince-celte-avec-son-chaudron-etrusque-d-un-metre/"
+    publisher: "Science Post"
+quiz:
+  - question: "Qui a fouillé la tombe de Lavau ?"
+    options:
+      - "Des chasseurs de trésors"
+      - "Une équipe de cinéma"
+      - "L'Inrap, institut d'archéologie préventive"
+    answer: 3
+    explanation: >
+      Une fouille préventive de l'Inrap a mis au jour à Lavau, dans l'Aube, une tombe princière
+      celte et un complexe funéraire monumental.
+  - question: "Sur quoi reposait le défunt ?"
+    options:
+      - "Sur un lit en or"
+      - "Sur un char à deux roues"
+      - "Sur un tapis volant"
+    answer: 2
+    explanation: >
+      Le défunt, un homme, reposait sur un char à deux roues.
+  - question: "Quelle importation grecque a-t-on trouvée ?"
+    options:
+      - "Une cruche à vin d'Athènes à figures noires"
+      - "Un ordinateur"
+      - "Une montre"
+    answer: 1
+    explanation: >
+      On y a trouvé une cruche à vin grecque d'Athènes à figures noires, et des importations
+      étrusques et italiques.
+  - question: "Que montre ce mobilier sur les Celtes ?"
+    options:
+      - "Que leurs élites profitaient des échanges avec la Méditerranée"
+      - "Qu'ils ne voyageaient jamais"
+      - "Qu'ils ne connaissaient pas le métal"
+    answer: 1
+    explanation: >
+      Ces objets montrent que les élites celtes profitaient des échanges avec les cités
+      méditerranéennes, notamment Marseille.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+À Lavau, dans l'Aube, les archéologues ont fouillé une tombe princière celte jamais pillée : un défunt sur son char, de l'or, un grand chaudron de bronze et des vases importés de Méditerranée.
+
+## Une tombe princière jamais pillée
+
+Une fouille préventive de l'Inrap a mis au jour à Lavau, dans l'Aube, une tombe princière celte et un complexe funéraire monumental. La tombe se trouvait au centre d'un grand tumulus et n'avait pas été pillée. Elle contenait une vaste chambre funéraire, l'une des plus grandes connues pour cette période. Le défunt, un homme, reposait sur un char à deux roues. Il portait des bijoux en or, dont un torque et des bracelets, ainsi que des perles d'ambre. La pièce majeure du mobilier est un grand chaudron de bronze orné. Ses anses sont ornées du dieu-fleuve grec Achéloos.
+
+## Des liens avec la Méditerranée
+
+Il était accompagné de céramiques et de bassins de bronze, qui montrent des banquets d'élite. On y a trouvé une cruche à vin grecque d'Athènes à figures noires, et des importations étrusques et italiques. Ces objets montrent que les élites celtes profitaient des échanges avec les cités méditerranéennes, notamment Marseille.
+
+## Une place dans l'histoire celte
+
+La découverte est comparable à la tombe de la princesse de Vix, l'une des plus importantes de l'âge du fer en France. Le site est un complexe funéraire monumental : d'autres tombes entouraient la tombe princière. D'autres tombes se trouvaient à proximité, dont un guerrier avec une épée et une femme parée de bracelets de bronze.
+
+## À retenir
+
+- La tombe se trouvait au centre d'un grand tumulus et n'avait pas été pillée.
+- Le défunt, un homme, reposait sur un char à deux roues.
+- La pièce majeure du mobilier est un grand chaudron de bronze orné.
+- On y a trouvé une cruche à vin grecque d'Athènes à figures noires, et des importations étrusques et italiques.
+- Ces objets montrent que les élites celtes profitaient des échanges avec les cités méditerranéennes, notamment Marseille.
