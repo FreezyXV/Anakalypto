@@ -9087,18 +9087,90 @@ Les derniers mammouths laineux ont disparu de l'île Wrangel il y a environ 4 00
 
 ---
 type: article
-title: Les vaccins à ARN messager, principe de fonctionnement
-slug: les-vaccins-a-arn-messager-principe-de-fonctionnement
+title: Comment un vaccin à ARN messager apprend-il à notre corps à reconnaître un virus ?
+slug: comment-un-vaccin-a-arn-messager-apprend-il-a-notre-corps-a-reconnaitre-un-virus
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les vaccins à ARN messager, principe de fonctionnement.
-tags: [pharmacologie, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  Un vaccin à ARN messager donne aux cellules la recette d'un morceau inoffensif du virus. Le
+  système immunitaire le reconnaît et en garde la mémoire. L'ARN n'entre pas dans le noyau et
+  disparaît vite.
+tags: [pharmacologie]
+sources:
+  - title: "How COVID-19 Vaccines Work"
+    url: "https://www.cdc.gov/covid/vaccines/how-they-work.html"
+    publisher: "CDC, Centres américains de contrôle et de prévention des maladies"
+  - title: "MRNA vaccine"
+    url: "https://en.wikipedia.org/wiki/MRNA_vaccine"
+    publisher: "Wikipedia"
+  - title: "Vaccin à ARN messager"
+    url: "https://fr.wikipedia.org/wiki/Vaccin_%C3%A0_ARN_messager"
+    publisher: "Wikipédia"
+  - title: "Messenger RNA"
+    url: "https://en.wikipedia.org/wiki/Messenger_RNA"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que donne un vaccin à ARN messager aux cellules ?"
+    options:
+      - "Un virus entier vivant"
+      - "Les instructions pour fabriquer un morceau inoffensif du virus"
+      - "Des anticorps tout faits"
+    answer: 2
+    explanation: >
+      Un vaccin à ARN messager donne aux cellules les instructions pour fabriquer un morceau
+      inoffensif d'une protéine du virus, la protéine spike dans le cas du Covid-19.
+  - question: "Pourquoi enferme-t-on l'ARN dans des nanoparticules de lipides ?"
+    options:
+      - "Pour le rendre invisible"
+      - "Pour le colorer"
+      - "Parce qu'il est fragile et doit entrer dans les cellules"
+    answer: 3
+    explanation: >
+      L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le protègent et
+      l'aident à entrer dans les cellules.
+  - question: "L'ARN du vaccin peut-il modifier nos gènes ?"
+    options:
+      - "Oui, toujours"
+      - "Seulement la nuit"
+      - "Non, il n'entre pas dans le noyau où se trouve l'ADN"
+    answer: 3
+    explanation: >
+      L'ARN ne pénètre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut donc pas
+      modifier nos gènes.
+  - question: "Que devient l'ARN après son travail ?"
+    options:
+      - "Il est dégradé et éliminé par les cellules"
+      - "Il reste toute la vie"
+      - "Il devient de l'ADN"
+    answer: 1
+    explanation: >
+      Une fois son travail fait, l'ARN est dégradé par les cellules et éliminé.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un vaccin à ARN messager donne aux cellules la recette d'un morceau inoffensif du virus. Le système immunitaire le reconnaît et en garde la mémoire. L'ARN n'entre pas dans le noyau et disparaît vite.
+
+## Une recette plutôt qu'un virus
+
+Un vaccin à ARN messager donne aux cellules les instructions pour fabriquer un morceau inoffensif d'une protéine du virus, la protéine spike dans le cas du Covid-19. Le système immunitaire repère que cette protéine n'a rien à faire là et lance une réponse, avec des anticorps. Le corps garde ainsi un apprentissage qui l'aide à se protéger contre une future infection, sans avoir eu besoin d'être malade.
+
+## Protéger l'ARN, puis le faire disparaître
+
+L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le protègent et l'aident à entrer dans les cellules. L'ARN ne pénètre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut donc pas modifier nos gènes. Une fois son travail fait, l'ARN est dégradé par les cellules et éliminé. Certains vaccins demandent une conservation à très basse température, parce que l'ARN est fragile hors des cellules.
+
+## Une technologie mise au point au fil des années
+
+Katalin Karikó et Drew Weissman ont montré que modifier certains éléments de l'ARN réduit les réactions inflammatoires tout en gardant son efficacité, ce qui leur a valu le prix Nobel de médecine. Cette technologie permet de concevoir très vite un nouveau vaccin. Les premiers vaccins à ARN messager autorisés l'ont été pendant la pandémie de Covid-19.
+
+## À retenir
+
+- Il donne aux cellules la recette d'un morceau inoffensif d'une protéine du virus, la spike pour le Covid-19.
+- Le corps garde ainsi un apprentissage qui l'aide à se protéger contre une future infection, sans avoir eu besoin d'être malade.
+- L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le protègent et l'aident à entrer dans les cellules.
+- L'ARN ne pénètre pas dans le noyau de la cellule, où se trouve l'ADN : il ne peut donc pas modifier nos gènes.
+- Une fois son travail fait, l'ARN est dégradé par les cellules et éliminé.
 
 ---
 type: article
@@ -9189,33 +9261,170 @@ Des essais cliniques testent CRISPR pour des maladies héréditaires comme la b�
 
 ---
 type: article
-title: L'IRM, comment elle fabrique des images du corps
-slug: l-irm-comment-elle-fabrique-des-images-du-corps
+title: Comment un aimant géant et des ondes radio fabriquent-ils une image de l'intérieur du corps ?
+slug: comment-un-aimant-geant-et-des-ondes-radio-fabriquent-ils-une-image-de-l-interieur-du-corps
 categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'IRM, comment elle fabrique des images du corps.
-tags: [imagerie-medicale, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  L'IRM aligne les noyaux d'hydrogène du corps avec un champ magnétique puissant, les perturbe
+  avec des ondes radio, puis mesure leur signal. Un ordinateur en fait une image, sans rayons X.
+tags: [imagerie-medicale]
+sources:
+  - title: "Magnetic Resonance Imaging (MRI)"
+    url: "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri"
+    publisher: "NIBIB, Instituts nationaux de la santé (États-Unis)"
+  - title: "Imagerie par résonance magnétique"
+    url: "https://fr.wikipedia.org/wiki/Imagerie_par_r%C3%A9sonance_magn%C3%A9tique"
+    publisher: "Wikipédia"
+  - title: "Magnetic resonance imaging"
+    url: "https://en.wikipedia.org/wiki/Magnetic_resonance_imaging"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait l'aimant d'une IRM aux protons du corps ?"
+    options:
+      - "Il les chauffe jusqu'à la fonte"
+      - "Il les efface"
+      - "Il les aligne avec son champ"
+    answer: 3
+    explanation: >
+      Un aimant très puissant crée un champ magnétique qui force les protons du corps à
+      s'aligner avec lui.
+  - question: "L'IRM utilise-t-elle des rayons X ?"
+    options:
+      - "Oui, de fortes doses"
+      - "Seulement pour le cerveau"
+      - "Non, ni rayonnement ionisant"
+    answer: 3
+    explanation: >
+      Contrairement aux rayons X et au scanner, l'IRM n'utilise pas de rayonnement ionisant.
+  - question: "Quels tissus l'IRM montre-t-elle particulièrement bien ?"
+    options:
+      - "Les tissus mous, comme le cerveau et les muscles"
+      - "Seulement les os durs"
+      - "Uniquement les dents"
+    answer: 1
+    explanation: >
+      Elle montre très bien les tissus mous, comme le cerveau, la moelle épinière, les muscles
+      et les tendons.
+  - question: "Pourquoi les objets métalliques ferromagnétiques posent-ils problème ?"
+    options:
+      - "Le champ magnétique est très puissant"
+      - "Ils sont trop lourds"
+      - "Ils font de l'ombre"
+    answer: 1
+    explanation: >
+      Les objets métalliques ferromagnétiques, comme certains stimulateurs cardiaques, sont une
+      contre-indication, car le champ magnétique est très puissant.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'IRM aligne les noyaux d'hydrogène du corps avec un champ magnétique puissant, les perturbe avec des ondes radio, puis mesure leur signal. Un ordinateur en fait une image, sans rayons X.
+
+## Aligner puis perturber
+
+Un aimant très puissant crée un champ magnétique qui force les protons du corps à s'aligner avec lui. Ces protons sont surtout les noyaux d'hydrogène de l'eau et de la graisse, très présents dans le corps. Une impulsion d'ondes radio les fait sortir de leur alignement.
+
+## Écouter, localiser, reconstruire
+
+En revenant à l'équilibre, les protons émettent un signal que des capteurs détectent, et ce signal diffère selon les tissus. Des gradients du champ magnétique permettent de savoir d'où vient chaque signal dans l'espace. Un ordinateur reconstruit ensuite une image en deux ou trois dimensions. L'intensité du champ se mesure en teslas, et les appareils plus puissants donnent des images plus nettes des tissus mous.
+
+## Ce que l'IRM voit, et ce qu'elle exige
+
+Contrairement aux rayons X et au scanner, l'IRM n'utilise pas de rayonnement ionisant. Elle montre très bien les tissus mous, comme le cerveau, la moelle épinière, les muscles et les tendons. On peut injecter un produit de contraste, qui contient souvent du gadolinium, pour rendre certaines images plus lumineuses. Les objets métalliques ferromagnétiques, comme certains stimulateurs cardiaques, sont une contre-indication, car le champ magnétique est très puissant. L'examen est bruyant, et la personne doit rester immobile à l'intérieur de l'aimant.
+
+## À retenir
+
+- Un aimant très puissant crée un champ magnétique qui force les protons du corps à s'aligner avec lui.
+- Une impulsion d'ondes radio les fait sortir de leur alignement.
+- En revenant à l'équilibre, les protons émettent un signal qui diffère selon les tissus.
+- Contrairement aux rayons X et au scanner, l'IRM n'utilise pas de rayonnement ionisant.
+- Les objets métalliques ferromagnétiques sont une contre-indication, car le champ magnétique est très puissant.
 
 ---
 type: article
-title: Le microbiome du sol et les cultures
-slug: le-microbiome-du-sol-et-les-cultures
+title: Comment les microbes du sol aident-ils les plantes à pousser ?
+slug: comment-les-microbes-du-sol-aident-ils-les-plantes-a-pousser
 categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le microbiome du sol et les cultures.
-tags: [sols-et-fertilite, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Le sol grouille de bactéries, de champignons et d'autres microbes qui recyclent les
+  nutriments, fixent l'azote et protègent les racines. Les pratiques agricoles peuvent les aider
+  ou les perturber.
+tags: [sols-et-fertilite]
+sources:
+  - title: "Soil microbiology"
+    url: "https://en.wikipedia.org/wiki/Soil_microbiome"
+    publisher: "Wikipedia"
+  - title: "Rhizosphere"
+    url: "https://en.wikipedia.org/wiki/Rhizosphere"
+    publisher: "Wikipedia"
+  - title: "Soil Microbiology"
+    url: "https://www.ars.usda.gov/pacific-west-area/pendleton/columbia-plateau-conservation-research-center/docs/microbiology/"
+    publisher: "USDA, Service de recherche agricole"
+quiz:
+  - question: "Que fait la rhizosphère ?"
+    options:
+      - "C'est la zone du sol influencée par les racines et leurs microbes"
+      - "C'est une couche de roche"
+      - "C'est un nuage de poussière"
+    answer: 1
+    explanation: >
+      La rhizosphère est la région étroite du sol directement influencée par les sécrétions des
+      racines et les microbes qui y vivent.
+  - question: "Que font certaines bactéries du sol avec l'azote de l'air ?"
+    options:
+      - "Elles le gardent pour elles"
+      - "Elles le transforment en composés utilisables par les plantes"
+      - "Elles le bloquent"
+    answer: 2
+    explanation: >
+      Certaines bactéries transforment l'azote de l'air en composés que les plantes peuvent
+      utiliser.
+  - question: "À quoi servent les champignons mycorhiziens ?"
+    options:
+      - "À colorer les fleurs"
+      - "À éloigner la pluie"
+      - "À prolonger les racines pour absorber eau et nutriments"
+    answer: 3
+    explanation: >
+      Les champignons mycorhiziens forment un réseau qui prolonge les racines et facilite
+      l'absorption de l'eau et des nutriments.
+  - question: "Qu'est-ce qui peut perturber les communautés microbiennes du sol ?"
+    options:
+      - "La lumière de la lune"
+      - "Des engrais chimiques et des pesticides"
+      - "Les nuages"
+    answer: 2
+    explanation: >
+      Les engrais chimiques et les pesticides peuvent perturber ces communautés.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le sol grouille de bactéries, de champignons et d'autres microbes qui recyclent les nutriments, fixent l'azote et protègent les racines. Les pratiques agricoles peuvent les aider ou les perturber.
+
+## Une foule invisible
+
+Le sol contient des bactéries, des archées, des champignons, des algues, des protozoaires et d'autres microbes. Ces microbes font circuler le carbone, l'azote, le phosphore et le soufre dans le sol. Certaines bactéries transforment l'azote de l'air en composés que les plantes peuvent utiliser. Les champignons excellent pour décomposer les matières végétales, en particulier le bois mort.
+
+## Autour des racines
+
+La rhizosphère est la région étroite du sol directement influencée par les sécrétions des racines et les microbes qui y vivent. Les racines libèrent des sucres et des acides organiques qui nourrissent les microbes et rendent le phosphore, l'azote, le potassium et le fer plus disponibles. Les légumineuses s'associent à des bactéries, les rhizobiums, qui forment des nodosités sur les racines, où l'azote de l'air est transformé. Les champignons mycorhiziens forment un réseau qui prolonge les racines et facilite l'absorption de l'eau et des nutriments. Des microbes bénéfiques produisent des antibiotiques et d'autres composés qui freinent les organismes pathogènes.
+
+## Ce qui change le microbiome
+
+Le pH, la texture, la matière organique et les plantes cultivées influencent les populations de microbes. Les pratiques agricoles, comme la rotation des cultures ou la fertilisation azotée, modifient les communautés microbiennes du sol. Les engrais chimiques et les pesticides peuvent perturber ces communautés. Un sol riche en microbes variés réduit les maladies des plantes et peut améliorer la productivité des cultures.
+
+## À retenir
+
+- Ces microbes font circuler le carbone, l'azote, le phosphore et le soufre dans le sol.
+- Certaines bactéries transforment l'azote de l'air en composés que les plantes peuvent utiliser.
+- Les champignons mycorhiziens forment un réseau qui prolonge les racines et facilite l'absorption de l'eau et des nutriments.
+- Des microbes bénéfiques produisent des antibiotiques et d'autres composés qui freinent les organismes pathogènes.
+- Les pratiques agricoles, comme la rotation des cultures ou la fertilisation azotée, modifient les communautés microbiennes du sol.
 
 ---
 type: article
@@ -9234,33 +9443,177 @@ status: planned
 
 ---
 type: article
-title: La bioluminescence, des microbes qui produisent de la lumière
-slug: la-bioluminescence-des-microbes-qui-produisent-de-la-lumiere
+title: Comment des bactéries produisent-elles de la lumière, et pourquoi le font-elles ensemble ?
+slug: comment-des-bacteries-produisent-elles-de-la-lumiere-et-pourquoi-le-font-elles-ensemble
 categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la bioluminescence, des microbes qui produisent de la lumière.
-tags: [biologie-de-synthese, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  La bioluminescence est de la lumière produite par une réaction chimique chez un être vivant.
+  Certaines bactéries ne s'allument que si leur population est dense : c'est la détection du
+  quorum.
+tags: [biologie-de-synthese]
+sources:
+  - title: "What is bioluminescence?"
+    url: "https://oceanservice.noaa.gov/facts/biolum.html"
+    publisher: "NOAA, Service océanique national (États-Unis)"
+  - title: "Bioluminescence"
+    url: "https://en.wikipedia.org/wiki/Bioluminescence"
+    publisher: "Wikipedia"
+  - title: "Bioluminescence"
+    url: "https://fr.wikipedia.org/wiki/Bioluminescence"
+    publisher: "Wikipédia"
+  - title: "Quorum sensing"
+    url: "https://en.wikipedia.org/wiki/Quorum_sensing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que la bioluminescence ?"
+    options:
+      - "De la lumière du soleil réfléchie"
+      - "De la lumière électrique"
+      - "De la lumière produite par un être vivant grâce à une réaction chimique"
+    answer: 3
+    explanation: >
+      La bioluminescence est la production et l'émission de lumière par un être vivant, grâce à
+      une réaction chimique.
+  - question: "Comment s'appelle l'enzyme qui aide à produire la lumière ?"
+    options:
+      - "La lactase"
+      - "La pepsine"
+      - "La luciférase"
+    answer: 3
+    explanation: >
+      La réaction associe un substrat, la luciférine, une enzyme, la luciférase, et l'oxygène :
+      elle libère de la lumière.
+  - question: "Quand les bactéries du calmar s'allument-elles ?"
+    options:
+      - "Quand elles sont seules"
+      - "Toutes les nuits à minuit"
+      - "Quand leur densité dépasse un seuil"
+    answer: 3
+    explanation: >
+      Quand la concentration dépasse un seuil, les gènes de la luciférase s'activent : les
+      bactéries s'allument toutes ensemble.
+  - question: "À quoi sert la luciférase en biotechnologie ?"
+    options:
+      - "De gène rapporteur qui montre l'activité d'un gène"
+      - "De carburant de fusée"
+      - "D'engrais"
+    answer: 1
+    explanation: >
+      En biotechnologie, la luciférase sert de gène rapporteur : sa lumière montre qu'un gène
+      est actif.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La bioluminescence est de la lumière produite par une réaction chimique chez un être vivant. Certaines bactéries ne s'allument que si leur population est dense : c'est la détection du quorum.
+
+## De la lumière sans chaleur
+
+La bioluminescence est la production et l'émission de lumière par un être vivant, grâce à une réaction chimique. La réaction associe un substrat, la luciférine, une enzyme, la luciférase, et l'oxygène : elle libère de la lumière. On parle de lumière froide, car presque toute l'énergie devient de la lumière et très peu de la chaleur. Beaucoup d'animaux marins en produisent, de la surface au fond de l'océan, mais on en trouve aussi sur terre, comme les lucioles. Les animaux s'en servent pour éloigner ou fuir les prédateurs, attirer ou trouver une proie, et communiquer avec leur espèce.
+
+## Compter ses voisines
+
+Le calmar hawaïen héberge dans des organes lumineux des bactéries du genre Vibrio, qui produisent la lumière à sa place. La détection du quorum permet aux bactéries de repérer leur densité de population et de réguler leurs gènes en conséquence. Elles libèrent en permanence de petites molécules signal, les auto-inducteurs, qui s'accumulent quand la population grandit. Quand la concentration dépasse un seuil, les gènes de la luciférase s'activent : les bactéries s'allument toutes ensemble. Aliivibrio fischeri, la bactérie du calmar, fut le premier cas documenté de ce mécanisme. Le même système règle d'autres comportements, comme la formation de biofilms.
+
+## Des usages en laboratoire
+
+En biotechnologie, la luciférase sert de gène rapporteur : sa lumière montre qu'un gène est actif. La lumière produite avec l'ATP sert aussi de biocapteur pour détecter des microbes vivants, par exemple dans l'eau.
+
+## À retenir
+
+- La bioluminescence est la production et l'émission de lumière par un être vivant, grâce à une réaction chimique.
+- La réaction associe un substrat, la luciférine, une enzyme, la luciférase, et l'oxygène : elle libère de la lumière.
+- La détection du quorum permet aux bactéries de repérer leur densité de population et de réguler leurs gènes en conséquence.
+- Quand la concentration dépasse un seuil, les gènes de la luciférase s'activent : les bactéries s'allument toutes ensemble.
+- En biotechnologie, la luciférase sert de gène rapporteur : sa lumière montre qu'un gène est actif.
 
 ---
 type: article
-title: L'édition génomique des plantes et la sélection végétale
-slug: l-edition-genomique-des-plantes-et-la-selection-vegetale
+title: Comment l'édition du génome change-t-elle la façon de créer de nouvelles variétés de plantes ?
+slug: comment-l-edition-du-genome-change-t-elle-la-facon-de-creer-de-nouvelles-varietes-de-plantes
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'édition génomique des plantes et la sélection végétale.
-tags: [selection-vegetale, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  La sélection classique croise des plantes sur de nombreuses générations. L'édition génomique
+  coupe l'ADN à un endroit précis pour modifier un caractère, sans gène étranger obligatoire.
+tags: [selection-vegetale]
+sources:
+  - title: "Plant breeding"
+    url: "https://en.wikipedia.org/wiki/Plant_breeding"
+    publisher: "Wikipedia"
+  - title: "Genome editing"
+    url: "https://en.wikipedia.org/wiki/Genome_editing"
+    publisher: "Wikipedia"
+  - title: "Édition génomique"
+    url: "https://fr.wikipedia.org/wiki/%C3%89dition_g%C3%A9nomique"
+    publisher: "Wikipédia"
+  - title: "Nouvelles techniques génomiques"
+    url: "https://fr.wikipedia.org/wiki/Nouvelles_techniques_g%C3%A9nomiques"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment crée-t-on une variété par sélection classique ?"
+    options:
+      - "En les coloriant"
+      - "En croisant des plantes aux bons caractères"
+      - "En les congelant"
+    answer: 2
+    explanation: >
+      La méthode classique consiste à repérer des plantes aux bons caractères et à les croiser,
+      par exemple un pois résistant au mildiou avec un pois productif mais fragile.
+  - question: "Que font les ciseaux moléculaires de l'édition génomique ?"
+    options:
+      - "Ils coupent les feuilles"
+      - "Ils tuent la plante"
+      - "Ils coupent l'ADN à un endroit précis"
+    answer: 3
+    explanation: >
+      L'édition génomique utilise des ciseaux moléculaires, des enzymes qui coupent l'ADN à un
+      endroit précis.
+  - question: "Que fait la cellule après la coupure de l'ADN ?"
+    options:
+      - "Elle s'arrête de vivre"
+      - "Elle devient une pierre"
+      - "Elle répare, ce qui produit la modification"
+    answer: 3
+    explanation: >
+      La cellule répare ensuite la coupure, ce qui produit la modification voulue.
+  - question: "Quel risque signalent des scientifiques ?"
+    options:
+      - "Un manque de soleil"
+      - "Des effets hors cible"
+      - "Une trop grande quantité d'eau"
+    answer: 2
+    explanation: >
+      Les scientifiques signalent des risques, comme les effets hors cible et les impacts
+      écologiques possibles des gènes dirigeant l'hérédité.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La sélection classique croise des plantes sur de nombreuses générations. L'édition génomique coupe l'ADN à un endroit précis pour modifier un caractère, sans gène étranger obligatoire.
+
+## La sélection classique
+
+La sélection végétale change les caractères des plantes pour obtenir ceux que l'on veut, comme le rendement ou la résistance aux maladies. La méthode classique consiste à repérer des plantes aux bons caractères et à les croiser, par exemple un pois résistant au mildiou avec un pois productif mais fragile. Cela demande de la patience : il faut de nombreuses générations pour intégrer un caractère dans une population de plantes. La sélection assistée par marqueurs utilise l'ADN pour repérer les gènes d'intérêt sans attendre que le caractère apparaisse. La transgenèse insère directement un gène, mais l'endroit de l'insertion est aléatoire.
+
+## Des ciseaux moléculaires
+
+L'édition génomique utilise des ciseaux moléculaires, des enzymes qui coupent l'ADN à un endroit précis. La cellule répare ensuite la coupure, ce qui produit la modification voulue. Les outils comprennent les méganucléases, les nucléases à doigt de zinc, les TALEN et CRISPR-Cas9, le plus utilisé en recherche. Emmanuelle Charpentier et Jennifer Doudna ont reçu le prix Nobel de chimie pour cette méthode.
+
+## Ce qu'on en attend, et les précautions
+
+Ces techniques modifient le génome sans nécessairement introduire d'ADN étranger. On cite déjà des tomates éditées et des plantes résistantes aux maladies. Les buts sont la tolérance aux stress, le rendement, la qualité, l'adaptation au climat et la résistance aux maladies. Les scientifiques signalent des risques, comme les effets hors cible et les impacts écologiques possibles des gènes dirigeant l'hérédité.
+
+## À retenir
+
+- On croise des plantes aux bons caractères, par exemple un pois résistant avec un pois productif.
+- L'édition génomique utilise des ciseaux moléculaires, des enzymes qui coupent l'ADN à un endroit précis.
+- La cellule répare ensuite la coupure, ce qui produit la modification voulue.
+- Ces techniques modifient le génome sans nécessairement introduire d'ADN étranger.
+- Les scientifiques signalent des risques, comme les effets hors cible et les impacts écologiques possibles des gènes dirigeant l'hérédité.
 
 ---
 type: article
@@ -9279,48 +9632,260 @@ status: planned
 
 ---
 type: article
-title: Les bioplastiques à base de ressources renouvelables
-slug: les-bioplastiques-a-base-de-ressources-renouvelables
+title: Un plastique d'origine végétale est-il forcément biodégradable ?
+slug: un-plastique-d-origine-vegetale-est-il-forcement-biodegradable
 categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les bioplastiques à base de ressources renouvelables.
-tags: [biologie-de-synthese, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Un bioplastique vient de ressources renouvelables, comme l'amidon ou la canne à sucre. Mais
+  d'origine végétale ne veut pas dire biodégradable : beaucoup exigent un compostage industriel.
+tags: [biologie-de-synthese]
+sources:
+  - title: "Bioplastic"
+    url: "https://en.wikipedia.org/wiki/Bioplastic"
+    publisher: "Wikipedia"
+  - title: "Bioplastique"
+    url: "https://fr.wikipedia.org/wiki/Bioplastique"
+    publisher: "Wikipédia"
+  - title: "Bio-based, biodegradable and compostable plastics"
+    url: "https://environment.ec.europa.eu/topics/plastics/bio-based-biodegradable-and-compostable-plastics_en"
+    publisher: "Commission européenne"
+  - title: "Polylactic acid"
+    url: "https://en.wikipedia.org/wiki/Polylactic_acid"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Un plastique biosourcé est-il forcément biodégradable ?"
+    options:
+      - "Oui, toujours"
+      - "Oui, dans l'eau seulement"
+      - "Non, ce sont deux propriétés différentes"
+    answer: 3
+    explanation: >
+      Biosourcé, biodégradable et compostable sont trois propriétés différentes : un plastique
+      peut en avoir une sans les autres.
+  - question: "À partir de quoi fabrique-t-on le PLA ?"
+    options:
+      - "De pétrole brut"
+      - "De verre fondu"
+      - "De l'amidon de maïs ou de la canne à sucre fermentés"
+    answer: 3
+    explanation: >
+      Le PLA, ou acide polylactique, est fabriqué par fermentation de l'amidon de maïs ou de la
+      canne à sucre ; c'est l'un des bioplastiques les plus répandus.
+  - question: "Où les plastiques compostables se décomposent-ils en général ?"
+    options:
+      - "Dans n'importe quel jardin"
+      - "Dans des installations de compostage industriel"
+      - "Dans l'eau de mer"
+    answer: 2
+    explanation: >
+      Les plastiques compostables se décomposent en général dans des installations de compostage
+      industriel, après avoir été collectés.
+  - question: "Quel problème pose la culture des plantes pour bioplastiques ?"
+    options:
+      - "Elle fait concurrence à l'alimentation et utilise des terres"
+      - "Elle est interdite partout"
+      - "Elle ne demande pas de terres"
+    answer: 1
+    explanation: >
+      Les cultures qui les produisent font concurrence à l'alimentation et utilisent des terres,
+      des engrais et des pesticides.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un bioplastique vient de ressources renouvelables, comme l'amidon ou la canne à sucre. Mais d'origine végétale ne veut pas dire biodégradable : beaucoup exigent un compostage industriel.
+
+## Trois mots à ne pas confondre
+
+Un bioplastique est un plastique fabriqué à partir de ressources renouvelables, comme l'amidon, la cellulose ou la canne à sucre, plutôt que de pétrole. Biosourcé, biodégradable et compostable sont trois propriétés différentes : un plastique peut en avoir une sans les autres. Le bio-PE, fabriqué à partir de canne à sucre, et le polyamide 11, issu de l'huile de ricin, sont biosourcés mais non biodégradables.
+
+## Quelques matières
+
+Le PLA, ou acide polylactique, est fabriqué par fermentation de l'amidon de maïs ou de la canne à sucre ; c'est l'un des bioplastiques les plus répandus. Les PHA sont produits par des bactéries. On les trouve surtout dans les emballages et les objets jetables ; le PLA sert aussi pour l'impression 3D et les implants chirurgicaux.
+
+## Après l'usage, et pour la planète
+
+Les plastiques compostables se décomposent en général dans des installations de compostage industriel, après avoir été collectés. Le PLA se dégrade mal dans les décharges et les composts domestiques, et se dégrade en mer comme les plastiques issus du pétrole. Les cultures qui les produisent font concurrence à l'alimentation et utilisent des terres, des engrais et des pesticides. Selon les études, certains bioplastiques réduisent l'empreinte carbone, d'autres abîment plus l'environnement que les plastiques du pétrole. Le coût et les performances posent problème : le PLA est cassant et résiste mal à la chaleur. L'Union européenne a adopté un cadre pour éviter les fausses allégations de biodégradabilité, qui pourraient encourager à jeter ces plastiques dans la nature. Les bioplastiques représentent encore une petite part de la production mondiale de plastiques.
+
+## À retenir
+
+- Un bioplastique est un plastique fabriqué à partir de ressources renouvelables, comme l'amidon, la cellulose ou la canne à sucre, plutôt que de pétrole.
+- Biosourcé, biodégradable et compostable sont trois propriétés différentes : un plastique peut en avoir une sans les autres.
+- Le PLA est fabriqué par fermentation de l'amidon de maïs ou de la canne à sucre.
+- Les plastiques compostables se décomposent en général dans des installations de compostage industriel, après avoir été collectés.
+- Les cultures qui les produisent font concurrence à l'alimentation et utilisent des terres, des engrais et des pesticides.
 
 ---
 type: article
-title: La protection des cultures par ARN
-slug: la-protection-des-cultures-par-arn
+title: Comment un brin d'ARN pulvérisé sur une culture peut-il neutraliser un ravageur ?
+slug: comment-un-brin-d-arn-pulverise-sur-une-culture-peut-il-neutraliser-un-ravageur
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la protection des cultures par ARN.
-tags: [agriculture-durable, veille-2026-09]
-priority: 0.81
-essentiel: false
-status: planned
+  Un ARN double brin pulvérisé sur les feuilles peut éteindre un gène vital d'un ravageur, par
+  interférence par ARN. Un tel produit a été autorisé contre le doryphore de la pomme de terre.
+tags: [agriculture-durable]
+sources:
+  - title: "RNA interference"
+    url: "https://en.wikipedia.org/wiki/RNA_interference"
+    publisher: "Wikipedia"
+  - title: "Interférence par ARN"
+    url: "https://fr.wikipedia.org/wiki/Interf%C3%A9rence_par_ARN"
+    publisher: "Wikipédia"
+  - title: "EPA Registers Novel Pesticide Technology for Potato Crops"
+    url: "https://www.epa.gov/pesticides/epa-registers-novel-pesticide-technology-potato-crops"
+    publisher: "EPA, Agence américaine de protection de l'environnement"
+  - title: "Colorado potato beetle"
+    url: "https://en.wikipedia.org/wiki/Colorado_potato_beetle"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait l'interférence par ARN ?"
+    options:
+      - "Elle éteint un gène dont la séquence correspond à l'ARN"
+      - "Elle crée un nouveau gène"
+      - "Elle colore les feuilles"
+    answer: 1
+    explanation: >
+      L'interférence par ARN est un processus naturel où un ARN double brin entraîne
+      l'extinction d'un gène dont la séquence correspond.
+  - question: "Quel ravageur vise le produit à ARN dont parle la fiche ?"
+    options:
+      - "Le hanneton"
+      - "Le doryphore de la pomme de terre"
+      - "L'abeille"
+    answer: 2
+    explanation: >
+      Le doryphore de la pomme de terre est un ravageur majeur : ses larves peuvent détruire le
+      feuillage et réduire fortement le rendement.
+  - question: "Pourquoi cherche-t-on d'autres solutions que les insecticides chimiques ?"
+    options:
+      - "Ils sont trop colorés"
+      - "Ils sont trop légers"
+      - "Le doryphore devient rapidement résistant"
+    answer: 3
+    explanation: >
+      Il devient rapidement résistant aux insecticides chimiques, y compris à de nombreux
+      produits différents.
+  - question: "Le produit à ARN fabrique-t-il un organisme génétiquement modifié ?"
+    options:
+      - "Oui, toujours"
+      - "Seulement en été"
+      - "Non"
+    answer: 3
+    explanation: >
+      Ce procédé ne produit pas d'organisme génétiquement modifié.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un ARN double brin pulvérisé sur les feuilles peut éteindre un gène vital d'un ravageur, par interférence par ARN. Un tel produit a été autorisé contre le doryphore de la pomme de terre.
+
+## Éteindre un gène
+
+L'interférence par ARN est un processus naturel où un ARN double brin entraîne l'extinction d'un gène dont la séquence correspond. L'enzyme Dicer coupe l'ARN double brin en petits morceaux, qui guident un complexe, RISC, pour détruire les ARN messagers correspondants. Andrew Fire et Craig Mello ont reçu le prix Nobel de médecine pour avoir décrit ce mécanisme.
+
+## Un ravageur, un produit
+
+Le doryphore de la pomme de terre est un ravageur majeur : ses larves peuvent détruire le feuillage et réduire fortement le rendement. Il devient rapidement résistant aux insecticides chimiques, y compris à de nombreux produits différents. Le ledprona est un produit à base d'ARN double brin, qui se pulvérise sur les plants de pomme de terre. Il éteint un gène du doryphore, nécessaire pour fabriquer une protéine, PSMB5, indispensable à sa survie. Ce procédé ne produit pas d'organisme génétiquement modifié.
+
+## Évaluation et autres usages
+
+L'agence américaine de l'environnement a conclu à l'absence de risque préoccupant pour la santé humaine et l'environnement, y compris pour les espèces protégées. Elle a enregistré le produit pour une durée limitée, après une période d'essais et une consultation publique. L'interférence par ARN sert aussi à créer des plantes à teneur réduite en toxines ou en allergènes, comme le coton à faible teneur en gossypol. C'est aussi un outil de recherche qui permet d'étudier la fonction des gènes.
+
+## À retenir
+
+- L'interférence par ARN est un processus naturel où un ARN double brin entraîne l'extinction d'un gène dont la séquence correspond.
+- L'enzyme Dicer coupe l'ARN double brin en petits morceaux, qui guident la destruction des ARN messagers correspondants.
+- Il devient rapidement résistant aux insecticides chimiques.
+- Il éteint un gène du doryphore, nécessaire pour fabriquer une protéine, PSMB5, indispensable à sa survie.
+- L'agence américaine de l'environnement a conclu à l'absence de risque préoccupant pour la santé humaine et l'environnement, y compris pour les espèces protégées.
 
 ---
 type: article
-title: La réglementation européenne des nouvelles techniques génomiques
-slug: la-reglementation-europeenne-des-nouvelles-techniques-genomiques
+title: Une plante modifiée sans ADN étranger est-elle un OGM aux yeux de l'Europe ?
+slug: une-plante-modifiee-sans-adn-etranger-est-elle-un-ogm-aux-yeux-de-l-europe
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réglementation européenne des nouvelles techniques génomiques.
-tags: [selection-vegetale, veille-2026-09]
-priority: 0.8
-essentiel: false
-status: planned
+  L'Europe réglemente les OGM selon la méthode utilisée. Un nouveau règlement distingue deux
+  catégories de plantes éditées : l'une proche des plantes classiques, l'autre soumise aux
+  règles OGM.
+tags: [selection-vegetale]
+sources:
+  - title: "Council Adopts Regulation on New Genomic Techniques"
+    url: "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/council-adopts-regulation-new-genomic-techniques-2026-05-05_en"
+    publisher: "Commission européenne"
+  - title: "Nouvelles techniques génomiques"
+    url: "https://fr.wikipedia.org/wiki/Nouvelles_techniques_g%C3%A9nomiques"
+    publisher: "Wikipédia"
+  - title: "Regulation of genetic engineering"
+    url: "https://en.wikipedia.org/wiki/Regulation_of_genetic_engineering"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur quoi l'Union européenne fonde-t-elle sa réglementation des OGM ?"
+    options:
+      - "La couleur du produit"
+      - "Le prix de vente"
+      - "Le procédé utilisé pour créer l'organisme"
+    answer: 3
+    explanation: >
+      L'Union européenne réglemente les OGM selon le procédé utilisé pour les créer, alors que
+      l'Amérique du Nord regarde surtout le produit obtenu.
+  - question: "Que décide la catégorie 1 des nouvelles techniques génomiques ?"
+    options:
+      - "Les plantes équivalentes aux variétés classiques échappent aux règles OGM"
+      - "Toutes les plantes sont interdites"
+      - "Elles sont toutes étiquetées en rouge"
+    answer: 1
+    explanation: >
+      La catégorie 1 regroupe les plantes jugées équivalentes aux variétés obtenues par
+      sélection classique : elles échappent à la législation sur les OGM.
+  - question: "Qu'est-ce qui reste soumis aux règles OGM ?"
+    options:
+      - "La catégorie 2 : autorisation, traçabilité et étiquetage"
+      - "Les carottes classiques"
+      - "Les fleurs du jardin"
+    answer: 1
+    explanation: >
+      La catégorie 2 reste soumise aux règles OGM : autorisation, traçabilité et étiquetage.
+  - question: "Les plantes de catégorie 2 peuvent-elles être cultivées en bio ?"
+    options:
+      - "Non, elles sont exclues de la production biologique"
+      - "Oui, toujours"
+      - "Seulement en hiver"
+    answer: 1
+    explanation: >
+      Les plantes de catégorie 2 sont exclues de la production biologique, et l'usage de la
+      catégorie 1 dans le bio reste interdit en attendant une évaluation.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'Europe réglemente les OGM selon la méthode utilisée. Un nouveau règlement distingue deux catégories de plantes éditées : l'une proche des plantes classiques, l'autre soumise aux règles OGM.
+
+## Une règle fondée sur le procédé
+
+L'Union européenne réglemente les OGM selon le procédé utilisé pour les créer, alors que l'Amérique du Nord regarde surtout le produit obtenu. Chaque OGM est évalué au cas par cas par l'Autorité européenne de sécurité des aliments, avant sa mise sur le marché. Un arrêt de la Cour de justice de l'Union européenne a classé les organismes issus de mutagenèse parmi les OGM.
+
+## Un cadre qui s'ajuste
+
+Les nouvelles techniques génomiques regroupent des techniques d'édition du génome qui ne nécessitent pas forcément d'ADN étranger. La Suède avait jugé qu'un organisme dont l'ADN étranger a été retiré n'était pas un OGM, ce qui révélait des divergences entre pays. La catégorie 1 regroupe les plantes jugées équivalentes aux variétés obtenues par sélection classique : elles échappent à la législation sur les OGM. La catégorie 2 reste soumise aux règles OGM : autorisation, traçabilité et étiquetage. Les plantes de catégorie 1 ne sont pas étiquetées, sauf les semences et autres matériels de reproduction.
+
+## Exceptions et suites
+
+Certains caractères sont exclus de la catégorie 1, comme la tolérance aux herbicides ou la production de substances insecticides connues. Les plantes de catégorie 2 sont exclues de la production biologique, et l'usage de la catégorie 1 dans le bio reste interdit en attendant une évaluation. Les développeurs doivent déclarer leurs brevets dans une base publique, et un groupe d'experts étudiera l'effet du droit des brevets. Le Conseil de l'Union européenne a adopté le règlement ; son application est attendue dans plusieurs années, pas immédiatement.
+
+## À retenir
+
+- L'Union européenne réglemente les OGM selon le procédé utilisé pour les créer, alors que l'Amérique du Nord regarde surtout le produit obtenu.
+- Un arrêt de la Cour de justice de l'Union européenne a classé les organismes issus de mutagenèse parmi les OGM.
+- La catégorie 1 regroupe les plantes jugées équivalentes aux variétés classiques : elles échappent aux règles OGM.
+- La catégorie 2 reste soumise aux règles OGM : autorisation, traçabilité et étiquetage.
+- La catégorie 2 est exclue du bio, et la catégorie 1 reste interdite en bio en attendant une évaluation.
 
 ---
 type: article
