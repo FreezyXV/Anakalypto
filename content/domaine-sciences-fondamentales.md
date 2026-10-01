@@ -18868,33 +18868,173 @@ status: planned
 
 ---
 type: article
-title: La gravité vue comme une déformation de l'espace-temps
-slug: la-gravite-vue-comme-une-deformation-de-l-espace-temps
+title: Pourquoi les objets tombent-ils, si la gravité n'est pas une force pour Einstein ?
+slug: pourquoi-les-objets-tombent-ils-si-la-gravite-n-est-pas-une-force-pour-einstein
 categoryPath: sciences-fondamentales/physique/mecanique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la gravité vue comme une déformation de l'espace-temps.
-tags: [mecanique, veille-2026-09]
-priority: 0.92
-essentiel: false
-status: planned
+  Pour la relativité générale, la masse courbe l'espace-temps, et les objets suivent cette
+  courbure. Cette idée explique l'orbite de Mercure, la déviation de la lumière et les ondes
+  gravitationnelles.
+tags: [mecanique]
+sources:
+  - title: "General relativity"
+    url: "https://en.wikipedia.org/wiki/General_relativity"
+    publisher: "Wikipedia"
+  - title: "Relativité générale"
+    url: "https://fr.wikipedia.org/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale"
+    publisher: "Wikipédia"
+  - title: "Ask an Astrophysicist : relativity"
+    url: "https://imagine.gsfc.nasa.gov/ask_astro/relativity.html"
+    publisher: "NASA, Imagine the Universe"
+quiz:
+  - question: "Pour la relativité générale, qu'est-ce que la gravité ?"
+    options:
+      - "Une corde invisible"
+      - "Un champ de colle"
+      - "La manifestation de la courbure de l'espace-temps"
+    answer: 3
+    explanation: >
+      Pour la relativité générale, la gravité n'est pas une force : c'est la manifestation de la
+      courbure de l'espace-temps.
+  - question: "Que suivent les objets en chute libre ?"
+    options:
+      - "Des géodésiques de l'espace courbé"
+      - "Des routes goudronnées"
+      - "Des lignes tracées sur la Terre"
+    answer: 1
+    explanation: >
+      Les objets en chute libre suivent les chemins les plus directs de cet espace courbé,
+      appelés géodésiques.
+  - question: "Qu'est-ce qu'une lentille gravitationnelle ?"
+    options:
+      - "Un verre de lunettes géant"
+      - "Une loupe de poche"
+      - "Un objet massif qui courbe la lumière derrière lui"
+    answer: 3
+    explanation: >
+      Un objet très massif, comme un amas de galaxies, courbe la lumière et crée des images
+      multiples : c'est une lentille gravitationnelle.
+  - question: "Pourquoi les satellites GPS ont-ils besoin de la relativité ?"
+    options:
+      - "Ils volent trop bas"
+      - "Leurs horloges ne battent pas au même rythme que celles du sol"
+      - "Ils n'ont pas d'horloge"
+    answer: 2
+    explanation: >
+      Les satellites GPS ont besoin de corrections relativistes, car leurs horloges ne battent
+      pas au même rythme que celles du sol.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour la relativité générale, la masse courbe l'espace-temps, et les objets suivent cette courbure. Cette idée explique l'orbite de Mercure, la déviation de la lumière et les ondes gravitationnelles.
+
+## Une autre idée de la gravité
+
+Pour la relativité générale, la gravité n'est pas une force : c'est la manifestation de la courbure de l'espace-temps. La masse dit à l'espace-temps comment se courber, et l'espace-temps courbé dit à la matière comment se déplacer. Les objets en chute libre suivent les chemins les plus directs de cet espace courbé, appelés géodésiques. Localement, on ne peut pas distinguer un champ de gravité d'une accélération : c'est le principe d'équivalence. La gravité de Newton reste une très bonne approximation quand les champs sont faibles et les vitesses petites.
+
+## Les preuves
+
+La théorie explique parfaitement l'avance de l'orbite de Mercure. Elle prévoit que la lumière des étoiles est déviée près du Soleil, ce qu'une observation pendant une éclipse a confirmé. Un objet très massif, comme un amas de galaxies, courbe la lumière et crée des images multiples : c'est une lentille gravitationnelle. Un pulsar double a confirmé que le système perd de l'énergie par rayonnement gravitationnel, ce qui a valu un prix Nobel. Les ondes gravitationnelles, des vibrations de l'espace-temps, ont été détectées directement par l'observatoire LIGO.
+
+## Dans la vie de tous les jours
+
+Les satellites GPS ont besoin de corrections relativistes, car leurs horloges ne battent pas au même rythme que celles du sol. Les trous noirs sont des déformations extrêmes de l'espace-temps.
+
+## À retenir
+
+- Pour la relativité générale, la gravité n'est pas une force : c'est la manifestation de la courbure de l'espace-temps.
+- La masse dit à l'espace-temps comment se courber, et l'espace-temps courbé dit à la matière comment se déplacer.
+- Les objets en chute libre suivent les chemins les plus directs de cet espace courbé, appelés géodésiques.
+- Elle prévoit que la lumière des étoiles est déviée près du Soleil, ce qu'une observation pendant une éclipse a confirmé.
+- Les satellites GPS ont besoin de corrections relativistes, car leurs horloges ne battent pas au même rythme que celles du sol.
 
 ---
 type: article
-title: Les quatre interactions fondamentales
-slug: les-quatre-interactions-fondamentales
+title: Quelles sont les quatre forces qui gouvernent tout l'Univers ?
+slug: quelles-sont-les-quatre-forces-qui-gouvernent-tout-l-univers
 categoryPath: sciences-fondamentales/physique/mecanique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les quatre interactions fondamentales.
-tags: [mecanique, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  Toute la physique repose sur quatre interactions : gravitation, électromagnétisme, interaction
+  faible et interaction forte. Trois entrent dans le modèle standard ; la gravitation reste à
+  part.
+tags: [mecanique]
+sources:
+  - title: "Fundamental interaction"
+    url: "https://en.wikipedia.org/wiki/Fundamental_interaction"
+    publisher: "Wikipedia"
+  - title: "Interaction fondamentale"
+    url: "https://fr.wikipedia.org/wiki/Interaction_fondamentale"
+    publisher: "Wikipédia"
+  - title: "The Standard Model"
+    url: "https://home.cern/science/physics/standard-model"
+    publisher: "CERN"
+quiz:
+  - question: "Combien d'interactions fondamentales la physique reconnaît-elle ?"
+    options:
+      - "Quatre"
+      - "Deux"
+      - "Dix"
+    answer: 1
+    explanation: >
+      Les phénomènes physiques s'expliquent par quatre interactions fondamentales :
+      gravitationnelle, électromagnétique, forte et faible.
+  - question: "Quelle est la plus faible à l'échelle des atomes ?"
+    options:
+      - "L'interaction forte"
+      - "La gravitation"
+      - "L'électromagnétisme"
+    answer: 2
+    explanation: >
+      La gravitation est la plus faible des quatre à l'échelle des atomes, mais elle domine à
+      l'échelle astronomique : sa portée est infinie et elle attire toujours.
+  - question: "Que fait l'interaction forte ?"
+    options:
+      - "Elle allume les lampes"
+      - "Elle fait tourner la Terre"
+      - "Elle lie les quarks et assure la cohésion des noyaux"
+    answer: 3
+    explanation: >
+      L'interaction forte lie les quarks par l'intermédiaire de gluons et assure la cohésion des
+      noyaux.
+  - question: "Quelle interaction n'entre pas dans le modèle standard ?"
+    options:
+      - "L'électromagnétisme"
+      - "L'interaction faible"
+      - "La gravitation"
+    answer: 3
+    explanation: >
+      La gravitation n'en fait pas partie : l'y intégrer s'est révélé un défi difficile, et
+      aucune théorie quantique de la gravitation n'a abouti.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Toute la physique repose sur quatre interactions : gravitation, électromagnétisme, interaction faible et interaction forte. Trois entrent dans le modèle standard ; la gravitation reste à part.
+
+## Les quatre interactions
+
+Les phénomènes physiques s'expliquent par quatre interactions fondamentales : gravitationnelle, électromagnétique, forte et faible. La gravitation est la plus faible des quatre à l'échelle des atomes, mais elle domine à l'échelle astronomique : sa portée est infinie et elle attire toujours. L'électromagnétisme agit sur les particules chargées, avec une portée infinie ; son médiateur est le photon. Il est bien plus fort que la gravitation, mais ses effets s'annulent dans les objets électriquement neutres. Il est responsable de la lumière, de l'électricité et de la chimie du quotidien.
+
+## Dans le noyau
+
+L'interaction faible provoque des désintégrations comme la radioactivité bêta ; ses médiateurs sont les bosons W et Z. L'interaction forte lie les quarks par l'intermédiaire de gluons et assure la cohésion des noyaux. Les interactions forte et faible n'agissent qu'à très courte distance, à l'échelle du noyau.
+
+## Le modèle standard et ses limites
+
+Le modèle standard de la physique des particules décrit trois des quatre interactions : électromagnétique, forte et faible. La gravitation n'en fait pas partie : l'y intégrer s'est révélé un défi difficile, et aucune théorie quantique de la gravitation n'a abouti. Les interactions électromagnétique et faible ont été unifiées dans la théorie électrofaible. Les théories au-delà du modèle standard restent très spéculatives, faute de preuves expérimentales solides.
+
+## À retenir
+
+- Les phénomènes physiques s'expliquent par quatre interactions fondamentales : gravitationnelle, électromagnétique, forte et faible.
+- La gravitation est la plus faible à l'échelle des atomes, mais domine à l'échelle astronomique, car elle attire toujours.
+- L'électromagnétisme agit sur les particules chargées, avec une portée infinie ; son médiateur est le photon.
+- L'interaction forte lie les quarks par l'intermédiaire de gluons et assure la cohésion des noyaux.
+- La gravitation n'en fait pas partie : aucune théorie quantique de la gravitation n'a abouti.
 
 ---
 type: article
@@ -18983,78 +19123,434 @@ La glace flotte et isole l'eau qui se trouve dessous : même un grand lac comme 
 
 ---
 type: article
-title: Pourquoi un lac gèle par le dessus
-slug: pourquoi-un-lac-gele-par-le-dessus
+title: Pourquoi un lac gèle-t-il par la surface plutôt que par le fond ?
+slug: pourquoi-un-lac-gele-t-il-par-la-surface-plutot-que-par-le-fond
 categoryPath: sciences-fondamentales/physique/thermodynamique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi un lac gèle par le dessus.
-tags: [thermodynamique, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  L'eau est la plus dense vers 4 °C, et la glace est moins dense que l'eau liquide. L'eau froide
+  coule jusqu'à ce que le lac soit proche de 4 °C, puis la surface gèle et protège la vie
+  dessous.
+tags: [thermodynamique]
+sources:
+  - title: "Water density"
+    url: "https://www.usgs.gov/water-science-school/science/water-density"
+    publisher: "USGS, Service géologique des États-Unis"
+  - title: "Properties of water"
+    url: "https://en.wikipedia.org/wiki/Properties_of_water"
+    publisher: "Wikipedia"
+  - title: "Glace"
+    url: "https://fr.wikipedia.org/wiki/Glace"
+    publisher: "Wikipédia"
+quiz:
+  - question: "À quelle température environ l'eau liquide est-elle la plus dense ?"
+    options:
+      - "4 °C"
+      - "0 °C"
+      - "20 °C"
+    answer: 1
+    explanation: >
+      L'eau liquide est la plus dense à environ 4 °C.
+  - question: "Pourquoi la glace flotte-t-elle ?"
+    options:
+      - "Elle est plus lourde"
+      - "Elle contient de l'air chaud"
+      - "Elle est moins dense que l'eau liquide"
+    answer: 3
+    explanation: >
+      En gelant, l'eau perd environ 9 % de sa densité : la glace est moins dense que l'eau
+      liquide.
+  - question: "Qu'arrive-t-il à l'eau de surface qui se refroidit en hiver ?"
+    options:
+      - "Elle devient plus dense et coule"
+      - "Elle remonte aussitôt"
+      - "Elle disparaît"
+    answer: 1
+    explanation: >
+      En hiver, l'eau de surface se refroidit, devient plus dense et coule, jusqu'à ce que tout
+      le lac soit proche de la température de densité maximale.
+  - question: "À quoi sert la glace de surface pour la vie du lac ?"
+    options:
+      - "Elle attire les poissons"
+      - "Elle isole l'eau du dessous"
+      - "Elle donne du sel"
+    answer: 2
+    explanation: >
+      La glace de surface isole l'eau du dessous, qui reste liquide, et protège les animaux
+      aquatiques.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'eau est la plus dense vers 4 °C, et la glace est moins dense que l'eau liquide. L'eau froide coule jusqu'à ce que le lac soit proche de 4 °C, puis la surface gèle et protège la vie dessous.
+
+## Une eau qui n'est pas comme les autres
+
+L'eau liquide est la plus dense à environ 4 °C. Plus l'eau est plus chaude ou plus froide que cette température, moins elle est dense. En gelant, l'eau perd environ 9 % de sa densité : la glace est moins dense que l'eau liquide. C'est pourquoi la glace flotte, ce qui est inhabituel : pour la plupart des matériaux, c'est l'inverse. Dans la glace, les molécules s'alignent en un réseau régulier et ouvert, tenu par des liaisons hydrogène, qui laisse plus de vide entre elles.
+
+## Comment un lac se refroidit
+
+En hiver, l'eau de surface se refroidit, devient plus dense et coule, jusqu'à ce que tout le lac soit proche de la température de densité maximale. Ensuite seulement, la surface gèle. Si l'eau se comportait comme les autres liquides, le refroidissement de la surface provoquerait un mélange et le lac gèlerait par le fond, tuant la vie. La glace de surface isole l'eau du dessous, qui reste liquide, et protège les animaux aquatiques.
+
+## Autres précisions
+
+Les matières dissoutes augmentent la densité de l'eau, comme le sel dans l'eau de mer. Même un lac très profond comme le Baïkal ne gèle que sur une épaisseur limitée, et ses eaux profondes restent froides, près de la température de densité maximale.
+
+## À retenir
+
+- L'eau liquide est la plus dense à environ 4 °C.
+- En gelant, l'eau perd environ 9 % de sa densité : la glace est moins dense que l'eau liquide.
+- Dans la glace, les molécules forment un réseau ouvert, tenu par des liaisons hydrogène, avec plus de vide entre elles.
+- En hiver, l'eau de surface refroidie coule, jusqu'à ce que tout le lac soit proche de sa densité maximale.
+- La glace de surface isole l'eau du dessous, qui reste liquide, et protège les animaux aquatiques.
 
 ---
 type: article
-title: Le qubit, l'unité de l'informatique quantique
-slug: le-qubit-l-unite-de-l-informatique-quantique
+title: Qu'est-ce qu'un qubit, et en quoi diffère-t-il d'un bit ordinaire ?
+slug: qu-est-ce-qu-un-qubit-et-en-quoi-differe-t-il-d-un-bit-ordinaire
 categoryPath: sciences-fondamentales/physique/physique-quantique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le qubit, l'unité de l'informatique quantique.
-tags: [physique-quantique, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  Un bit vaut 0 ou 1. Un qubit peut être en superposition de 0 et de 1 ; quand on le mesure, on
+  obtient 0 ou 1. Plusieurs qubits peuvent être intriqués, mais ils perdent vite leur état
+  quantique.
+tags: [physique-quantique]
+sources:
+  - title: "Qubit"
+    url: "https://en.wikipedia.org/wiki/Qubit"
+    publisher: "Wikipedia"
+  - title: "Ordinateur quantique"
+    url: "https://fr.wikipedia.org/wiki/Ordinateur_quantique"
+    publisher: "Wikipédia"
+  - title: "Superconducting quantum computing"
+    url: "https://en.wikipedia.org/wiki/Superconducting_quantum_computing"
+    publisher: "Wikipedia"
+  - title: "Shor's algorithm"
+    url: "https://en.wikipedia.org/wiki/Shor%27s_algorithm"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui distingue un qubit d'un bit ?"
+    options:
+      - "Il peut être en superposition de 0 et de 1"
+      - "Il est plus gros"
+      - "Il n'a jamais de valeur"
+    answer: 1
+    explanation: >
+      Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition
+      cohérente de plusieurs états à la fois.
+  - question: "Que donne la mesure d'un qubit ?"
+    options:
+      - "Toujours 0,5"
+      - "Une image"
+      - "0 ou 1, et elle détruit la superposition"
+    answer: 3
+    explanation: >
+      Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition.
+  - question: "Qu'est-ce que la décohérence ?"
+    options:
+      - "La perte de l'état quantique du qubit"
+      - "Un défaut de couleur"
+      - "Un bruit de ventilateur"
+    answer: 1
+    explanation: >
+      Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de
+      calcul.
+  - question: "Comment pilote-t-on un qubit supraconducteur ?"
+    options:
+      - "Avec un marteau"
+      - "Avec un aimant jouet"
+      - "Avec des impulsions micro-ondes"
+    answer: 3
+    explanation: >
+      Une impulsion micro-onde fait tourner l'état d'un qubit sur la sphère de Bloch.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un bit vaut 0 ou 1. Un qubit peut être en superposition de 0 et de 1 ; quand on le mesure, on obtient 0 ou 1. Plusieurs qubits peuvent être intriqués, mais ils perdent vite leur état quantique.
+
+## Du bit au qubit
+
+Un qubit, ou bit quantique, est l'unité de base de l'information quantique : il peut être réalisé par un système quantique à deux niveaux. Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition cohérente de plusieurs états à la fois. Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition. Les chances d'obtenir 0 ou 1 dépendent des amplitudes qui décrivent l'état du qubit. Plusieurs qubits peuvent être intriqués : leurs mesures sont alors corrélées de façon impossible en physique classique.
+
+## Comment on fabrique un qubit
+
+On réalise des qubits avec des circuits supraconducteurs, des ions piégés, des photons, des atomes neutres ou des spins dans le silicium. Les qubits supraconducteurs sont des circuits refroidis très près du zéro absolu, et pilotés par des impulsions micro-ondes. Une impulsion micro-onde fait tourner l'état d'un qubit sur la sphère de Bloch.
+
+## Fragile mais prometteur
+
+Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de calcul. Pour calculer de façon fiable, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques. L'algorithme de Shor, conçu pour un ordinateur quantique, factorise de grands nombres en temps polynomial. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore.
+
+## À retenir
+
+- Un qubit, ou bit quantique, est l'unité de base de l'information quantique : il peut être réalisé par un système quantique à deux niveaux.
+- Un bit classique vaut 0 ou 1, alors qu'un qubit peut se trouver dans une superposition cohérente de plusieurs états à la fois.
+- Quand on mesure un qubit, il donne 0 ou 1, et la mesure détruit sa superposition.
+- Plusieurs qubits peuvent être intriqués : leurs mesures sont alors corrélées de façon impossible en physique classique.
+- Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de calcul.
 
 ---
 type: article
-title: La réaction de Maillard vue par la chimie
-slug: la-reaction-de-maillard-vue-par-la-chimie
+title: Pourquoi la croûte du pain et la viande grillée ont-elles ce goût et cette couleur ?
+slug: pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur
 categoryPath: sciences-fondamentales/chimie/chimie-physique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réaction de Maillard vue par la chimie.
-tags: [chimie-physique, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  La réaction de Maillard unit des acides aminés et des sucres sous l'effet de la chaleur. Elle
+  forme des pigments bruns et des arômes. Ce n'est pas la caramélisation, qui n'implique que des
+  sucres.
+tags: [chimie-physique]
+sources:
+  - title: "Maillard reaction"
+    url: "https://en.wikipedia.org/wiki/Maillard_reaction"
+    publisher: "Wikipedia"
+  - title: "Réaction de Maillard"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9action_de_Maillard"
+    publisher: "Wikipédia"
+  - title: "Caramelization"
+    url: "https://en.wikipedia.org/wiki/Caramelization"
+    publisher: "Wikipedia"
+  - title: "Acrylamide"
+    url: "https://www.fda.gov/food/process-contaminants-food/acrylamide"
+    publisher: "FDA, Agence américaine des produits alimentaires et médicamenteux"
+quiz:
+  - question: "Entre quoi la réaction de Maillard a-t-elle lieu ?"
+    options:
+      - "De l'eau et du sel"
+      - "Du sable et de l'huile"
+      - "Des acides aminés et des sucres réducteurs"
+    answer: 3
+    explanation: >
+      La réaction de Maillard est une réaction chimique entre des acides aminés et des sucres
+      réducteurs, qui produit des pigments bruns, les mélanoïdines.
+  - question: "Qu'est-ce qui la distingue de la caramélisation ?"
+    options:
+      - "La caramélisation ne met en jeu que des sucres"
+      - "La caramélisation est froide"
+      - "La caramélisation n'existe pas"
+    answer: 1
+    explanation: >
+      La caramélisation est un brunissement des sucres seuls, sans acides aminés.
+  - question: "Que donne-t-elle aux aliments ?"
+    options:
+      - "Une couleur brune et des arômes"
+      - "Un goût de glace"
+      - "De la lumière"
+    answer: 1
+    explanation: >
+      Elle demande de la chaleur et donne à la fois la couleur brune et de nombreux arômes.
+  - question: "Quelle substance peut se former à haute température ?"
+    options:
+      - "Le sel de table"
+      - "L'oxygène pur"
+      - "L'acrylamide"
+    answer: 3
+    explanation: >
+      À haute température, elle peut former de l'acrylamide, à partir d'un acide aminé,
+      l'asparagine, et de sucres.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La réaction de Maillard unit des acides aminés et des sucres sous l'effet de la chaleur. Elle forme des pigments bruns et des arômes. Ce n'est pas la caramélisation, qui n'implique que des sucres.
+
+## Une réaction entre sucres et acides aminés
+
+La réaction de Maillard est une réaction chimique entre des acides aminés et des sucres réducteurs, qui produit des pigments bruns, les mélanoïdines. Elle demande de la chaleur et donne à la fois la couleur brune et de nombreux arômes. Elle porte le nom du chimiste français Louis-Camille Maillard, qui l'a décrite au début du XXe siècle. On la trouve dans la croûte du pain, la viande grillée, le café torréfié, les frites ou les noix grillées.
+
+## Ce qui la fait varier
+
+Elle progresse vite à haute température ; une chaleur trop forte mène à la caramélisation et à la pyrolyse, avec des goûts brûlés. La caramélisation est un brunissement des sucres seuls, sans acides aminés. Chaque sucre caramélise à une température différente. Le pH change la vitesse de la réaction : en milieu alcalin, comme les bretzels trempés dans la soude, elle s'accélère. La quantité d'eau compte aussi : la réaction a une teneur en eau idéale.
+
+## Effets secondaires et suites
+
+À haute température, elle peut former de l'acrylamide, à partir d'un acide aminé, l'asparagine, et de sucres. Dans des expériences sur des animaux, de fortes doses d'acrylamide ont provoqué des cancers, mais ces doses étaient bien plus grandes que celles de l'alimentation. On peut réduire la formation d'acrylamide avec des cuissons à plus basse température ou des traitements par enzymes. En médecine, l'hémoglobine glyquée, issue d'une réaction proche, sert de marqueur du diabète à long terme.
+
+## À retenir
+
+- La réaction de Maillard est une réaction chimique entre des acides aminés et des sucres réducteurs, qui produit des pigments bruns, les mélanoïdines.
+- Elle demande de la chaleur et donne à la fois la couleur brune et de nombreux arômes.
+- La caramélisation est un brunissement des sucres seuls, sans acides aminés.
+- Le pH change la vitesse de la réaction : en milieu alcalin, comme les bretzels trempés dans la soude, elle s'accélère.
+- À haute température, elle peut former de l'acrylamide, à partir d'un acide aminé, l'asparagine, et de sucres.
 
 ---
 type: article
-title: Les animaux des profondeurs et l'adaptation à la pression
-slug: les-animaux-des-profondeurs-et-l-adaptation-a-la-pression
+title: Comment les animaux des profondeurs survivent-ils à une pression écrasante ?
+slug: comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante
 categoryPath: sciences-fondamentales/biologie/evolution
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les animaux des profondeurs et l'adaptation à la pression.
-tags: [evolution, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Les animaux des grands fonds gardent leurs protéines et leurs membranes fonctionnelles malgré
+  la pression grâce à des molécules protectrices, des corps souples et l'absence de poches
+  d'air.
+tags: [evolution]
+sources:
+  - title: "Deep-sea fish"
+    url: "https://en.wikipedia.org/wiki/Deep-sea_fish"
+    publisher: "Wikipedia"
+  - title: "Trimethylamine N-oxide"
+    url: "https://en.wikipedia.org/wiki/Trimethylamine_N-oxide"
+    publisher: "Wikipedia"
+  - title: "Grands fonds marins"
+    url: "https://fr.wikipedia.org/wiki/Grands_fonds_marins"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi beaucoup de poissons des profondeurs n'ont-ils pas de vessie natatoire à gaz ?"
+    options:
+      - "Elle serait écrasée par la pression"
+      - "Ils n'aiment pas l'air"
+      - "Ils sont trop petits"
+    answer: 1
+    explanation: >
+      Beaucoup de poissons des profondeurs n'ont pas de vessie natatoire remplie de gaz, ou une
+      vessie inutilisable, car le gaz serait écrasé.
+  - question: "À quoi sert le TMAO ?"
+    options:
+      - "À éclairer l'océan"
+      - "À réchauffer l'eau"
+      - "À stabiliser les protéines sous pression"
+    answer: 3
+    explanation: >
+      Une molécule, le TMAO, stabilise les protéines et contrecarre l'effet déformant de la
+      pression.
+  - question: "Que contient la couche sous la peau de certaines espèces ?"
+    options:
+      - "Une gélatine qui aide à flotter"
+      - "Du sable"
+      - "De l'acier"
+    answer: 1
+    explanation: >
+      Environ deux cents espèces ont une couche gélatineuse sous la peau, qui les aide à flotter
+      sans poche de gaz.
+  - question: "Pourquoi leur métabolisme est-il lent ?"
+    options:
+      - "La nourriture est rare dans les profondeurs"
+      - "Ils dorment toujours"
+      - "L'eau est trop chaude"
+    answer: 1
+    explanation: >
+      Leur métabolisme est lent, et leur croissance aussi, car la nourriture, la neige marine,
+      est rare.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les animaux des grands fonds gardent leurs protéines et leurs membranes fonctionnelles malgré la pression grâce à des molécules protectrices, des corps souples et l'absence de poches d'air.
+
+## Un monde extrême
+
+Dans les grands fonds, la pression de l'eau est très élevée et augmente avec la profondeur. L'eau y est aussi très froide et sa température est remarquablement stable. La lumière n'y arrive plus, donc aucune photosynthèse n'est possible.
+
+## Des corps adaptés
+
+Les membranes des cellules contiennent plus d'acides gras insaturés, ce qui les garde fluides malgré la compression. Beaucoup de poissons des profondeurs n'ont pas de vessie natatoire remplie de gaz, ou une vessie inutilisable, car le gaz serait écrasé. Environ deux cents espèces ont une couche gélatineuse sous la peau, qui les aide à flotter sans poche de gaz.
+
+## Des molécules protectrices
+
+Une molécule, le TMAO, stabilise les protéines et contrecarre l'effet déformant de la pression. Plus l'animal vit profond, plus il accumule de TMAO. Le TMAO appartient aux piézolytes, des molécules qui donnent aux protéines la souplesse nécessaire sous forte pression. Le poisson le plus profond connu a été trouvé dans la fosse des Mariannes, avec un taux de TMAO particulièrement élevé.
+
+## Vivre avec peu
+
+Beaucoup d'animaux produisent leur propre lumière par bioluminescence, pour chasser, communiquer et se camoufler. Leur métabolisme est lent, et leur croissance aussi, car la nourriture, la neige marine, est rare.
+
+## À retenir
+
+- Dans les grands fonds, la pression de l'eau est très élevée et augmente avec la profondeur.
+- Les membranes des cellules contiennent plus d'acides gras insaturés, ce qui les garde fluides malgré la compression.
+- Beaucoup de poissons des profondeurs n'ont pas de vessie natatoire à gaz, qui serait écrasée.
+- Une molécule, le TMAO, stabilise les protéines et contrecarre l'effet déformant de la pression.
+- Leur métabolisme est lent, et leur croissance aussi, car la nourriture, la neige marine, est rare.
 
 ---
 type: article
-title: De la sphère au plan, la géométrie des projections de cartes
-slug: de-la-sphere-au-plan-la-geometrie-des-projections-de-cartes
+title: Pourquoi aucune carte du monde à plat ne peut-elle être parfaitement fidèle ?
+slug: pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele
 categoryPath: sciences-fondamentales/mathematiques/geometrie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : de la sphère au plan, la géométrie des projections de cartes.
-tags: [geometrie, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Un théorème de Gauss prouve qu'on ne peut pas aplatir une sphère sans la déformer. Chaque
+  projection garde certaines propriétés, comme les angles ou les surfaces, au prix d'autres.
+tags: [geometrie]
+sources:
+  - title: "Map projection"
+    url: "https://en.wikipedia.org/wiki/Map_projection"
+    publisher: "Wikipedia"
+  - title: "Projection cartographique"
+    url: "https://fr.wikipedia.org/wiki/Projection_cartographique"
+    publisher: "Wikipédia"
+  - title: "Mercator projection"
+    url: "https://en.wikipedia.org/wiki/Mercator_projection"
+    publisher: "Wikipedia"
+  - title: "Theorema Egregium"
+    url: "https://en.wikipedia.org/wiki/Theorema_Egregium"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que prouve le théorème remarquable de Gauss pour les cartes ?"
+    options:
+      - "Les cartes sont toujours exactes"
+      - "Aplatir une sphère sans déformation est impossible"
+      - "La Terre est plate"
+    answer: 2
+    explanation: >
+      Le théorème remarquable de Gauss montre qu'on ne peut pas représenter la surface d'une
+      sphère sur un plan sans déformation.
+  - question: "Que conserve une projection conforme ?"
+    options:
+      - "Toutes les surfaces"
+      - "Les angles et les formes locales"
+      - "Les couleurs"
+    answer: 2
+    explanation: >
+      Une projection conforme conserve les angles et les formes locales.
+  - question: "Peut-on avoir une projection à la fois conforme et équivalente ?"
+    options:
+      - "Non, c'est impossible"
+      - "Oui, toujours"
+      - "Oui, mais seulement sur papier"
+    answer: 1
+    explanation: >
+      Aucune projection ne peut être à la fois conforme et équivalente, car la sphère n'est pas
+      développable.
+  - question: "Quel défaut a la projection de Mercator ?"
+    options:
+      - "Elle exagère les surfaces loin de l'équateur"
+      - "Elle efface les océans"
+      - "Elle inverse le nord et le sud"
+    answer: 1
+    explanation: >
+      Mais elle exagère les surfaces loin de l'équateur : le Groenland y paraît aussi grand que
+      l'Afrique, alors que l'Afrique est bien plus vaste.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un théorème de Gauss prouve qu'on ne peut pas aplatir une sphère sans la déformer. Chaque projection garde certaines propriétés, comme les angles ou les surfaces, au prix d'autres.
+
+## Pourquoi on déforme toujours
+
+Une projection cartographique représente la surface courbe du globe sur un plan. Le théorème remarquable de Gauss montre qu'on ne peut pas représenter la surface d'une sphère sur un plan sans déformation. La sphère a une courbure positive constante et le plan une courbure nulle, ce qui les rend incompatibles.
+
+## Ce qu'on peut conserver
+
+Une projection conforme conserve les angles et les formes locales. Une projection équivalente conserve les rapports de surface. Une projection équidistante conserve certaines distances. Aucune projection ne peut être à la fois conforme et équivalente, car la sphère n'est pas développable. On les classe aussi par surface de projection : cylindrique, conique ou azimutale.
+
+## Mercator et les autres
+
+La projection de Mercator est cylindrique et conforme : elle transforme les routes à cap constant en lignes droites, ce qui sert à la navigation maritime. Mais elle exagère les surfaces loin de l'équateur : le Groenland y paraît aussi grand que l'Afrique, alors que l'Afrique est bien plus vaste. Une variante, le Web Mercator, est utilisée par les grands services de cartes en ligne. Le choix dépend de l'usage : les cartes nationales emploient souvent la projection de Mercator transverse, les planisphères des compromis comme Winkel tripel ou Robinson.
+
+## À retenir
+
+- Le théorème remarquable de Gauss montre qu'on ne peut pas représenter la surface d'une sphère sur un plan sans déformation.
+- Aucune projection ne peut être à la fois conforme et équivalente, car la sphère n'est pas développable.
+- La projection de Mercator est conforme : les routes à cap constant y sont des lignes droites, utiles en navigation.
+- Mais elle exagère les surfaces loin de l'équateur : le Groenland y paraît aussi grand que l'Afrique, alors que l'Afrique est bien plus vaste.
+- On choisit selon l'usage : Mercator transverse pour les cartes nationales, des compromis comme Robinson pour les planisphères.
 
 ---
 type: article
@@ -19143,45 +19639,256 @@ Des crustacés comme des amphipodes, des mysides et des isopodes y atteignent pa
 
 ---
 type: article
-title: Les matériaux topologiques et les supraconducteurs de surface
-slug: les-materiaux-topologiques-et-les-supraconducteurs-de-surface
+title: Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?
+slug: un-materiau-peut-il-etre-isolant-a-l-interieur-et-conducteur-en-surface
 categoryPath: sciences-fondamentales/chimie/chimie-inorganique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les matériaux topologiques et les supraconducteurs de surface.
-tags: [chimie-inorganique, veille-2026-09]
-priority: 0.76
-essentiel: false
-status: planned
+  Un isolant topologique isole dans son volume, mais sa surface conduit, protégée par la
+  topologie. Les supraconducteurs topologiques pourraient abriter des états utiles à
+  l'informatique quantique.
+tags: [chimie-inorganique]
+sources:
+  - title: "Topological insulator"
+    url: "https://en.wikipedia.org/wiki/Topological_insulator"
+    publisher: "Wikipedia"
+  - title: "Isolant topologique"
+    url: "https://fr.wikipedia.org/wiki/Isolant_topologique"
+    publisher: "Wikipédia"
+  - title: "Topological superconductor"
+    url: "https://en.wikipedia.org/wiki/Topological_superconductor"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où un isolant topologique conduit-il l'électricité ?"
+    options:
+      - "Seulement à son cœur"
+      - "À sa surface"
+      - "Nulle part"
+    answer: 2
+    explanation: >
+      Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface
+      conduit l'électricité.
+  - question: "Qu'est-ce qui protège les états de surface ?"
+    options:
+      - "La topologie du matériau"
+      - "Un vernis"
+      - "Une couche d'air"
+    answer: 1
+    explanation: >
+      Les états de surface sont protégés contre les perturbations locales, comme certaines
+      impuretés.
+  - question: "Qu'est-ce qu'un mode zéro de Majorana ?"
+    options:
+      - "Une lampe de poche"
+      - "Une pile"
+      - "Un état de bord exotique d'un supraconducteur topologique"
+    answer: 3
+    explanation: >
+      Il peut porter des états de bord exotiques appelés modes zéro de Majorana.
+  - question: "Où en sont les preuves expérimentales pour les supraconducteurs topologiques ?"
+    options:
+      - "Elles sont complètes depuis toujours"
+      - "Elles n'ont jamais été cherchées"
+      - "Elles restent limitées, on parle de candidats"
+    answer: 3
+    explanation: >
+      Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un isolant topologique isole dans son volume, mais sa surface conduit, protégée par la topologie. Les supraconducteurs topologiques pourraient abriter des états utiles à l'informatique quantique.
+
+## Un isolant qui conduit en surface
+
+Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité. Il ne peut pas être déformé progressivement en un isolant ordinaire sans passer par une phase conductrice. Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés. À la surface, le spin des électrons est lié à leur direction de déplacement, ce qui supprime certains types de diffusion. Beaucoup de ces matériaux sont des composés du bismuth, comme Bi2Se3 et Bi2Te3. Leur classement repose sur des invariants topologiques, qui dépendent de symétries comme l'invariance par renversement du temps.
+
+## Des supraconducteurs topologiques
+
+Un supraconducteur topologique est un matériau de résistance électrique nulle, doté d'une topologie non triviale. Il peut porter des états de bord exotiques appelés modes zéro de Majorana. La chaîne de Kitaev en est un exemple simple à une dimension. Ces modes ouvrent la voie à un calcul quantique topologique, où des portes sont réalisées en tressant les modes, à l'abri de certaines sources de décohérence.
+
+## Où en est-on ?
+
+On en attend des applications en spintronique, en optoélectronique et en informatique quantique. Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
+
+## À retenir
+
+- Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité.
+- Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés.
+- À la surface, le spin des électrons est lié à leur direction, ce qui limite la diffusion.
+- Un supraconducteur topologique est un matériau de résistance électrique nulle, doté d'une topologie non triviale.
+- Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
 
 ---
 type: article
-title: Les mutations nuisibles des derniers mammouths
-slug: les-mutations-nuisibles-des-derniers-mammouths
+title: Que révèle le génome des derniers mammouths sur les dangers d'une toute petite population ?
+slug: que-revele-le-genome-des-derniers-mammouths-sur-les-dangers-d-une-toute-petite-population
 categoryPath: sciences-fondamentales/biologie/genetique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les mutations nuisibles des derniers mammouths.
-tags: [genetique, veille-2026-09]
-priority: 0.74
-essentiel: false
-status: planned
+  Les derniers mammouths de l'île Wrangel, isolés en petit nombre, ont accumulé des mutations
+  nuisibles dans leur génome. Les chercheurs parlent d'un effondrement génomique juste avant
+  leur disparition.
+tags: [genetique]
+sources:
+  - title: "Excess of genomic defects in a woolly mammoth on Wrangel island"
+    url: "https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1006601"
+    publisher: "PLOS Genetics"
+  - title: "Wrangel Island Mammoths Experienced 'Genomic Meltdown' Just Prior to Extinction, Says New Study"
+    url: "https://www.sci.news/paleontology/wrangel-island-mammoths-genomic-meltdown-04670.html"
+    publisher: "Sci.News"
+  - title: "Final mammoth populations suffered from genetic meltdown"
+    url: "https://eartharchives.org/articles/final-mammoth-populations-suffered-from-genetic-meltdown/index.html"
+    publisher: "Earth Archives"
+  - title: "Woolly mammoth"
+    url: "https://en.wikipedia.org/wiki/Woolly_mammoth"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où ont vécu les derniers mammouths laineux ?"
+    options:
+      - "Dans le désert du Sahara"
+      - "En Australie"
+      - "Sur l'île Wrangel"
+    answer: 3
+    explanation: >
+      Les derniers mammouths laineux ont vécu sur l'île Wrangel, bien après leurs cousins du
+      continent.
+  - question: "Qu'ont trouvé les chercheurs dans le génome de l'île ?"
+    options:
+      - "Un génome parfait"
+      - "Un excès de mutations nuisibles"
+      - "Aucun gène"
+    answer: 2
+    explanation: >
+      Le génome de l'île montre un excès de mutations nuisibles : suppressions d'ADN, gènes
+      tronqués et copies de gènes par rétrotranscription.
+  - question: "Pourquoi les mutations nuisibles s'accumulent-elles dans une petite population ?"
+    options:
+      - "La sélection naturelle les élimine mal"
+      - "Elles sont rares dans le monde"
+      - "Elles sont utiles"
+    answer: 1
+    explanation: >
+      Dans une petite population, la sélection naturelle élimine mal les mutations nuisibles,
+      qui se répandent par hasard.
+  - question: "Que signale l'étude pour les espèces menacées d'aujourd'hui ?"
+    options:
+      - "Qu'elles sont à l'abri"
+      - "Un risque de déclin génomique comparable"
+      - "Qu'elles peuvent s'isoler sans risque"
+    answer: 2
+    explanation: >
+      Les auteurs avertissent que protéger un petit groupe isolé ne suffit pas à éviter
+      l'effondrement génomique, ce qui concerne aussi des espèces menacées aujourd'hui.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les derniers mammouths de l'île Wrangel, isolés en petit nombre, ont accumulé des mutations nuisibles dans leur génome. Les chercheurs parlent d'un effondrement génomique juste avant leur disparition.
+
+## Une île, un petit groupe
+
+Les derniers mammouths laineux ont vécu sur l'île Wrangel, bien après leurs cousins du continent. La montée du niveau de la mer a séparé l'île du continent, et la population y est restée petite et isolée. Des chercheurs ont comparé le génome d'un mammouth du continent, très ancien, à celui d'un mammouth de l'île, beaucoup plus récent.
+
+## Des gènes abîmés
+
+Le génome de l'île montre un excès de mutations nuisibles : suppressions d'ADN, gènes tronqués et copies de gènes par rétrotranscription. Les chercheurs parlent d'un effondrement génomique, ou genomic meltdown, juste avant l'extinction. Dans une petite population, la sélection naturelle élimine mal les mutations nuisibles, qui se répandent par hasard. Les mammouths de l'île avaient perdu des récepteurs de l'odorat et des protéines urinaires, qui servent à choisir un partenaire et à établir la hiérarchie. Le gène FOXQ1 portait deux mutations qui le désactivaient, ce qui donnait probablement un pelage satiné.
+
+## Ce que cela enseigne
+
+L'extinction des mammouths est attribuée à plusieurs facteurs, comme le climat et la chasse, et pas à une cause unique. Les auteurs avertissent que protéger un petit groupe isolé ne suffit pas à éviter l'effondrement génomique, ce qui concerne aussi des espèces menacées aujourd'hui.
+
+## À retenir
+
+- Les derniers mammouths laineux ont vécu sur l'île Wrangel, bien après leurs cousins du continent.
+- Le génome de l'île montre un excès de mutations nuisibles : suppressions d'ADN, gènes tronqués et copies de gènes par rétrotranscription.
+- Les chercheurs parlent d'un effondrement génomique, ou genomic meltdown, juste avant l'extinction.
+- Dans une petite population, la sélection naturelle élimine mal les mutations nuisibles, qui se répandent par hasard.
+- Protéger un petit groupe isolé ne suffit pas à éviter l'effondrement génomique, y compris pour des espèces menacées aujourd'hui.
 
 ---
 type: article
-title: Les supraconducteurs à réseau kagome
-slug: les-supraconducteurs-a-reseau-kagome
+title: Pourquoi un motif de vannerie japonaise intrigue-t-il les physiciens des supraconducteurs ?
+slug: pourquoi-un-motif-de-vannerie-japonaise-intrigue-t-il-les-physiciens-des-supraconducteurs
 categoryPath: sciences-fondamentales/physique/electromagnetisme
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les supraconducteurs à réseau kagome.
-tags: [electromagnetisme, veille-2026-09]
-priority: 0.74
-essentiel: false
-status: planned
+  Le réseau kagome, des triangles qui se touchent par les sommets, crée frustration et bandes
+  plates. Certains métaux kagome, comme CsV3Sb5, sont supraconducteurs et ordonnés en ondes de
+  charge.
+tags: [electromagnetisme]
+sources:
+  - title: "Kagome lattice"
+    url: "https://en.wikipedia.org/wiki/Kagome_lattice"
+    publisher: "Wikipedia"
+  - title: "Kagome metal"
+    url: "https://en.wikipedia.org/wiki/Kagome_metal"
+    publisher: "Wikipedia"
+  - title: "Discovery of conjoined charge density waves in the kagome superconductor CsV3Sb5"
+    url: "https://www.osti.gov/pages/biblio/1894711"
+    publisher: "OSTI, Département de l'énergie des États-Unis"
+quiz:
+  - question: "D'où vient le mot kagome ?"
+    options:
+      - "D'une étoile"
+      - "Du motif d'un panier tressé japonais"
+      - "D'une rivière"
+    answer: 2
+    explanation: >
+      Kagome vient du japonais : kago, le panier, et me, l'œil ou le trou, d'après le motif de
+      la vannerie traditionnelle.
+  - question: "De quoi est fait le réseau kagome ?"
+    options:
+      - "De carrés alignés"
+      - "De triangles qui se touchent par les sommets"
+      - "De cercles séparés"
+    answer: 2
+    explanation: >
+      Le réseau est fait de triangles qui se touchent par leurs sommets, avec de grands trous
+      hexagonaux.
+  - question: "Qu'a de particulier le composé CsV3Sb5 ?"
+    options:
+      - "Il est supraconducteur et présente une onde de densité de charge"
+      - "Il est transparent"
+      - "Il se dissout dans l'eau"
+    answer: 1
+    explanation: >
+      Le composé CsV3Sb5 a un réseau kagome d'atomes de vanadium, et présente à la fois
+      supraconductivité et onde de densité de charge.
+  - question: "Qu'est-ce que la frustration géométrique ?"
+    options:
+      - "Un défaut de couleur"
+      - "Une panne d'électricité"
+      - "Des spins qui ne peuvent pas tous respecter leur couplage"
+    answer: 3
+    explanation: >
+      Cette géométrie crée de la frustration : trois spins couplés de façon antiferromagnétique
+      ne peuvent pas tous être opposés deux à deux.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le réseau kagome, des triangles qui se touchent par les sommets, crée frustration et bandes plates. Certains métaux kagome, comme CsV3Sb5, sont supraconducteurs et ordonnés en ondes de charge.
+
+## Un motif de vannerie
+
+Kagome vient du japonais : kago, le panier, et me, l'œil ou le trou, d'après le motif de la vannerie traditionnelle. Le réseau est fait de triangles qui se touchent par leurs sommets, avec de grands trous hexagonaux. Cette géométrie crée de la frustration : trois spins couplés de façon antiferromagnétique ne peuvent pas tous être opposés deux à deux. Elle produit aussi une bande électronique plate, où l'énergie des électrons ne dépend pas de leur impulsion, à cause d'interférences destructives. Le réseau est un candidat pour des états de liquide de spin quantique, avec des excitations fractionnées. Des minéraux comme la jarosite et l'herbertsmithite contiennent des arrangements kagome d'atomes.
+
+## Les métaux kagome
+
+Un métal kagome est un matériau quantique dont les atomes forment des couches de triangles qui se chevauchent, avec de grands trous hexagonaux. Cette structure donne des bandes électroniques plates avec des croisements de Dirac. La famille AV3Sb5, avec le potassium, le rubidium ou le césium, sert de matériau modèle. Le composé CsV3Sb5 a un réseau kagome d'atomes de vanadium, et présente à la fois supraconductivité et onde de densité de charge. Deux ondes de densité de charge y coexistent, et sous pression leurs températures de transition se séparent. Les phases qui brisent des symétries y dépassent le cadre minimal des bandes kagome : un rôle des électrons d'antimoine apparaît.
+
+## Pourquoi on s'y intéresse
+
+La recherche vise l'informatique quantique, les supraconducteurs à spin et l'électronique à faible consommation.
+
+## À retenir
+
+- Le réseau est fait de triangles qui se touchent par leurs sommets, avec de grands trous hexagonaux.
+- Cette géométrie crée de la frustration : trois spins couplés de façon antiferromagnétique ne peuvent pas tous être opposés deux à deux.
+- Elle produit aussi une bande électronique plate, où l'énergie ne dépend pas de l'impulsion.
+- Le composé CsV3Sb5 a un réseau kagome d'atomes de vanadium, et présente à la fois supraconductivité et onde de densité de charge.
+- La recherche vise l'informatique quantique, les supraconducteurs à spin et l'électronique à faible consommation.
