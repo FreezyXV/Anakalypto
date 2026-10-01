@@ -9712,7 +9712,7 @@ Des tests de détection de l'EPO existent, par analyse d'urine ou de sang. Pour 
 
 ---
 type: article
-title: Les champions d'endurance s'entraînent en montagne : pourquoi leur sang produit-il plus de globules rouges ?
+title: Les champions d'endurance s'entraînent en montagne, pourquoi leur sang produit-il plus de globules rouges ?
 slug: les-champions-d-endurance-s-entrainent-en-montagne-pourquoi-leur-sang-produit-il-plus-de-globules-rouges
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
 summary: >
@@ -10474,7 +10474,7 @@ Les trackers suivent aussi le sommeil, qui joue sur la récupération. Certains 
 
 ---
 type: article
-title: Des chaussures qui font courir plus vite : est-ce du dopage technologique ?
+title: Des chaussures qui font courir plus vite, est-ce du dopage technologique ?
 slug: des-chaussures-qui-font-courir-plus-vite-est-ce-du-dopage-technologique
 categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
 summary: >
