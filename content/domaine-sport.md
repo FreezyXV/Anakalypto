@@ -9536,138 +9536,772 @@ Aucun matériel n'est nécessaire, seulement son corps.
 
 ---
 type: article
-title: L'échauffement avant l'effort
-slug: l-echauffement-avant-l-effort
+title: À quoi sert vraiment l'échauffement, et vaut-il mieux s'étirer avant l'effort ?
+slug: a-quoi-sert-vraiment-l-echauffement-et-vaut-il-mieux-s-etirer-avant-l-effort
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'échauffement avant l'effort.
-tags: [blessures-et-prevention, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  L'échauffement monte en intensité pour préparer le corps. Il améliore la performance, surtout
+  pour les efforts explosifs. De longs étirements statiques avant l'effort peuvent faire perdre
+  de la force.
+tags: [blessures-et-prevention]
+sources:
+  - title: "Warming up"
+    url: "https://en.wikipedia.org/wiki/Warming_up"
+    publisher: "Wikipedia"
+  - title: "Échauffement (sport)"
+    url: "https://fr.wikipedia.org/wiki/%C3%89chauffement_(sport)"
+    publisher: "Wikipédia"
+  - title: "Stretching"
+    url: "https://en.wikipedia.org/wiki/Stretching"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait l'échauffement au corps ?"
+    options:
+      - "Il refroidit les muscles"
+      - "Il endort les nerfs"
+      - "Il élève la température et améliore la circulation vers les muscles"
+    answer: 3
+    explanation: >
+      Il élève la température du corps, améliore la circulation du sang vers les muscles et
+      accélère la contraction musculaire.
+  - question: "Pour quels mouvements le gain est-il le plus marqué ?"
+    options:
+      - "La marche lente"
+      - "Les efforts explosifs comme les sauts et les sprints"
+      - "Le sommeil"
+    answer: 2
+    explanation: >
+      La plupart des études montrent un gain de performance avec un échauffement, en particulier
+      pour les mouvements explosifs comme les sauts et les sprints.
+  - question: "Que peut faire un étirement statique long avant l'effort ?"
+    options:
+      - "Doubler la force"
+      - "Réduire temporairement la force"
+      - "Guérir toutes les blessures"
+    answer: 2
+    explanation: >
+      Un étirement statique de longue durée avant l'effort peut réduire temporairement la force
+      et la performance maximale.
+  - question: "Les preuves sur la prévention des blessures sont-elles unanimes ?"
+    options:
+      - "Oui, elles sont totales"
+      - "Non, elles sont contradictoires ou limitées"
+      - "Elles n'existent pas du tout"
+    answer: 2
+    explanation: >
+      Pour la prévention des blessures, les preuves restent contradictoires ou limitées à
+      certains sports.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'échauffement monte en intensité pour préparer le corps. Il améliore la performance, surtout pour les efforts explosifs. De longs étirements statiques avant l'effort peuvent faire perdre de la force.
+
+## Ce que fait l'échauffement
+
+L'échauffement consiste à s'exercer doucement avant un effort ou une performance, pour préparer le corps. Il comprend une montée progressive d'intensité, de la mobilité articulaire, des étirements et des mouvements propres à l'activité. Il élève la température du corps, améliore la circulation du sang vers les muscles et accélère la contraction musculaire. Il améliore aussi la transmission des signaux nerveux et réduit les frottements dans les articulations. La plupart des études montrent un gain de performance avec un échauffement, en particulier pour les mouvements explosifs comme les sauts et les sprints.
+
+## Blessures : des preuves partagées
+
+Pour la prévention des blessures, les preuves restent contradictoires ou limitées à certains sports. Les échauffements centrés sur la chaleur semblent plus protecteurs que ceux centrés sur les étirements. Des étirements dynamiques intégrés à l'échauffement ont réduit le risque de blessure chez des joueurs de volley, de football et de basket. Par temps froid, il faut allonger l'échauffement, et le matin plus que le soir. Sa durée dépend de l'activité prévue, de la météo et de l'heure de la journée.
+
+## Étirer ou bouger ?
+
+Un étirement statique de longue durée avant l'effort peut réduire temporairement la force et la performance maximale. Les étirements dynamiques, qui font bouger les articulations dans toute leur amplitude, apportent des gains à court terme en force, en vitesse et en saut. Tous les types d'étirements augmentent l'amplitude du mouvement, mais ils ne réduisent pas les courbatures.
+
+## À retenir
+
+- Il élève la température du corps, améliore la circulation du sang vers les muscles et accélère la contraction musculaire.
+- La plupart des études montrent un gain de performance avec un échauffement, en particulier pour les mouvements explosifs comme les sauts et les sprints.
+- Pour la prévention des blessures, les preuves restent contradictoires ou limitées à certains sports.
+- Un étirement statique de longue durée avant l'effort peut réduire temporairement la force et la performance maximale.
+- Les étirements dynamiques apportent des gains à court terme en force, en vitesse et en saut.
 
 ---
 type: article
-title: L'EPO et le dopage sanguin
-slug: l-epo-et-le-dopage-sanguin
+title: Comment l'EPO fait-elle gagner des courses, et comment la détecte-t-on ?
+slug: comment-l-epo-fait-elle-gagner-des-courses-et-comment-la-detecte-t-on
 categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'EPO et le dopage sanguin.
-tags: [dopage, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  L'EPO est une hormone qui stimule la fabrication de globules rouges, donc le transport
+  d'oxygène. Utilisée comme dopage en endurance, elle est traquée par des tests et le passeport
+  biologique.
+tags: [dopage]
+sources:
+  - title: "Erythropoietin"
+    url: "https://en.wikipedia.org/wiki/Erythropoietin"
+    publisher: "Wikipedia"
+  - title: "Érythropoïétine"
+    url: "https://fr.wikipedia.org/wiki/%C3%89rythropo%C3%AF%C3%A9tine"
+    publisher: "Wikipédia"
+  - title: "Blood doping"
+    url: "https://en.wikipedia.org/wiki/Blood_doping"
+    publisher: "Wikipedia"
+  - title: "Doping in sport"
+    url: "https://en.wikipedia.org/wiki/Doping_in_sport"
+    publisher: "Wikipedia"
+  - title: "Athlete biological passport"
+    url: "https://en.wikipedia.org/wiki/Athlete_biological_passport"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que stimule l'EPO ?"
+    options:
+      - "La production de globules rouges"
+      - "La croissance des cheveux"
+      - "Le sommeil"
+    answer: 1
+    explanation: >
+      L'EPO, ou érythropoïétine, est une hormone fabriquée surtout par les reins, qui stimule la
+      production de globules rouges dans la moelle osseuse.
+  - question: "Pourquoi des globules rouges en plus aident-ils les sportifs d'endurance ?"
+    options:
+      - "Ils rendent les muscles plus gros"
+      - "Ils transportent plus d'oxygène vers les muscles"
+      - "Ils protègent du froid"
+    answer: 2
+    explanation: >
+      Les globules rouges transportent l'oxygène des poumons vers les muscles : en avoir plus
+      peut améliorer la capacité aérobie.
+  - question: "Que fait le passeport biologique de l'athlète ?"
+    options:
+      - "Il autorise à voyager"
+      - "Il remplace le sport"
+      - "Il suit des marqueurs biologiques dans le temps"
+    answer: 3
+    explanation: >
+      Le passeport biologique de l'athlète enregistre ses marqueurs biologiques dans le temps,
+      pour détecter les effets du dopage plutôt que la substance elle-même.
+  - question: "Quel risque pour la santé est lié à l'épaississement du sang ?"
+    options:
+      - "Des accidents cardiaques, des AVC ou des embolies"
+      - "Des cheveux gris"
+      - "Un meilleur sommeil"
+    answer: 1
+    explanation: >
+      Il épaissit le sang, ce qui peut provoquer des accidents cardiaques, des AVC ou des
+      embolies, et le sang stocké peut être contaminé.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'EPO est une hormone qui stimule la fabrication de globules rouges, donc le transport d'oxygène. Utilisée comme dopage en endurance, elle est traquée par des tests et le passeport biologique.
+
+## L'hormone des globules rouges
+
+L'EPO, ou érythropoïétine, est une hormone fabriquée surtout par les reins, qui stimule la production de globules rouges dans la moelle osseuse. Le corps en fabrique davantage quand l'oxygène manque, par exemple en altitude ou après une perte de sang. Une EPO de synthèse sert à traiter des anémies, notamment liées à l'insuffisance rénale ou à certains cancers. Les globules rouges transportent l'oxygène des poumons vers les muscles : en avoir plus peut améliorer la capacité aérobie.
+
+## Le dopage sanguin
+
+Le dopage sanguin emploie l'EPO, des transfusions de sang, parfois son propre sang prélevé des semaines avant, ou des substituts d'oxygène. Il épaissit le sang, ce qui peut provoquer des accidents cardiaques, des AVC ou des embolies, et le sang stocké peut être contaminé. L'Agence mondiale antidopage fixe les règles internationales par le Code mondial antidopage. Une substance est interdite selon trois critères : le risque pour la santé, l'équité de la compétition et l'intégrité du sport. Le cyclisme est l'un des sports les plus touchés : l'équipe de Lance Armstrong, entre autres, a utilisé l'EPO, et l'Américain a perdu ses titres du Tour de France.
+
+## Les contrôles
+
+Des tests de détection de l'EPO existent, par analyse d'urine ou de sang. Pour les transfusions, la cytométrie en flux peut repérer des globules rouges venant d'un autre donneur ; pour son propre sang, on mesure une masse d'hémoglobine anormale. Le passeport biologique de l'athlète enregistre ses marqueurs biologiques dans le temps, pour détecter les effets du dopage plutôt que la substance elle-même. Son module sanguin suit notamment l'hémoglobine et les réticulocytes, et fixe une plage de référence individuelle.
+
+## À retenir
+
+- L'EPO, ou érythropoïétine, est une hormone fabriquée surtout par les reins, qui stimule la production de globules rouges dans la moelle osseuse.
+- Les globules rouges transportent l'oxygène des poumons vers les muscles : en avoir plus peut améliorer la capacité aérobie.
+- Il épaissit le sang, ce qui peut provoquer des accidents cardiaques, des AVC ou des embolies, et le sang stocké peut être contaminé.
+- Des tests de détection de l'EPO existent, par analyse d'urine ou de sang.
+- Le passeport biologique de l'athlète enregistre ses marqueurs biologiques dans le temps, pour détecter les effets du dopage plutôt que la substance elle-même.
 
 ---
 type: article
-title: L'entraînement en altitude et les globules rouges
-slug: l-entrainement-en-altitude-et-les-globules-rouges
+title: Les champions d'endurance s'entraînent en montagne : pourquoi leur sang produit-il plus de globules rouges ?
+slug: les-champions-d-endurance-s-entrainent-en-montagne-pourquoi-leur-sang-produit-il-plus-de-globules-rouges
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'entraînement en altitude et les globules rouges.
-tags: [entrainement, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  En altitude, l'air est plus pauvre en oxygène : le corps fabrique plus d'EPO et de globules
+  rouges. La méthode vivre haut, s'entraîner bas en tire parti, mais les gains sont débattus.
+tags: [entrainement]
+sources:
+  - title: "Altitude training"
+    url: "https://en.wikipedia.org/wiki/Altitude_training"
+    publisher: "Wikipedia"
+  - title: "Entraînement en altitude"
+    url: "https://fr.wikipedia.org/wiki/Entra%C3%AEnement_en_altitude"
+    publisher: "Wikipédia"
+  - title: "Erythropoietin"
+    url: "https://en.wikipedia.org/wiki/Erythropoietin"
+    publisher: "Wikipedia"
+  - title: "Érythropoïétine"
+    url: "https://fr.wikipedia.org/wiki/%C3%89rythropo%C3%AF%C3%A9tine"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi le corps fabrique-t-il plus d'EPO en altitude ?"
+    options:
+      - "Parce que l'oxygène y est moins disponible"
+      - "Parce qu'il fait plus chaud"
+      - "Parce que l'air est plus lourd"
+    answer: 1
+    explanation: >
+      Le corps réagit en fabriquant plus d'EPO, ce qui stimule la formation de globules rouges.
+  - question: "Que consiste à faire la méthode vivre haut, s'entraîner bas ?"
+    options:
+      - "Vivre sous terre"
+      - "Dormir en altitude et s'entraîner plus bas"
+      - "S'entraîner la nuit"
+    answer: 2
+    explanation: >
+      La méthode vivre haut, s'entraîner bas consiste à dormir en altitude mais à s'entraîner
+      plus bas, pour garder des séances intenses.
+  - question: "Les études sont-elles unanimes sur les gains ?"
+    options:
+      - "Oui, toujours positifs"
+      - "Non, les résultats sont variés"
+      - "Oui, toujours négatifs"
+    answer: 2
+    explanation: >
+      Les résultats des études sont variés, selon de nombreux facteurs.
+  - question: "Quel inconvénient peut avoir l'altitude pour l'entraînement ?"
+    options:
+      - "Les chaussures fondent"
+      - "L'intensité des séances peut baisser"
+      - "On ne peut plus respirer du tout"
+    answer: 2
+    explanation: >
+      Les critiques notent que la concentration de globules rouges revient vite à la normale, et
+      que l'intensité d'entraînement peut baisser en altitude.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En altitude, l'air est plus pauvre en oxygène : le corps fabrique plus d'EPO et de globules rouges. La méthode vivre haut, s'entraîner bas en tire parti, mais les gains sont débattus.
+
+## Un air plus pauvre en oxygène
+
+L'entraînement en altitude consiste, pour des athlètes d'endurance, à s'entraîner pendant plusieurs semaines à haute altitude. À cette altitude, la pression de l'air est plus basse et l'oxygène moins disponible. Le corps réagit en fabriquant plus d'EPO, ce qui stimule la formation de globules rouges. Les globules rouges et l'hémoglobine augmentent, ce qui améliore le transport de l'oxygène et la capacité aérobie. Après le séjour, le sang du sportif transporte plus d'oxygène vers les muscles, ce qui peut aider à de meilleures performances en compétition.
+
+## Des méthodes variées
+
+La méthode vivre haut, s'entraîner bas consiste à dormir en altitude mais à s'entraîner plus bas, pour garder des séances intenses. Elle sert surtout en course à pied, en cyclisme et en ski de fond, ainsi que pour les compétitions en montagne.
+
+## Des résultats discutés
+
+Les résultats des études sont variés, selon de nombreux facteurs. Les chercheurs ne s'accordent pas sur le mécanisme : certains citent l'augmentation des globules rouges, d'autres une utilisation plus efficace de l'oxygène par les muscles. Les critiques notent que la concentration de globules rouges revient vite à la normale, et que l'intensité d'entraînement peut baisser en altitude. Comme l'altitude fait monter l'EPO naturelle, ses effets sur le sang ressemblent à ceux d'un dopage à l'EPO, ce qui complique les contrôles.
+
+## À retenir
+
+- L'entraînement en altitude consiste, pour des athlètes d'endurance, à s'entraîner pendant plusieurs semaines à haute altitude.
+- Le corps réagit en fabriquant plus d'EPO, ce qui stimule la formation de globules rouges.
+- Les globules rouges et l'hémoglobine augmentent, ce qui améliore le transport de l'oxygène et la capacité aérobie.
+- La méthode vivre haut, s'entraîner bas consiste à dormir en altitude mais à s'entraîner plus bas, pour garder des séances intenses.
+- Certains citent plus de globules rouges, d'autres une utilisation plus efficace de l'oxygène par les muscles.
 
 ---
 type: article
-title: L'acide lactique et la fatigue, un mythe tenace
-slug: l-acide-lactique-et-la-fatigue-un-mythe-tenace
+title: L'acide lactique est-il vraiment responsable des courbatures ?
+slug: l-acide-lactique-est-il-vraiment-responsable-des-courbatures
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'acide lactique et la fatigue, un mythe tenace.
-tags: [energetique-musculaire, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Non : le lactate est un carburant que le corps recycle, et il disparaît bien avant les
+  courbatures. Celles-ci viennent surtout de micro-lésions musculaires après un effort
+  inhabituel.
+tags: [energetique-musculaire]
+sources:
+  - title: "Lactic acid"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid"
+    publisher: "Wikipedia"
+  - title: "Acide lactique"
+    url: "https://fr.wikipedia.org/wiki/Acide_lactique"
+    publisher: "Wikipédia"
+  - title: "Delayed onset muscle soreness"
+    url: "https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness"
+    publisher: "Wikipedia"
+  - title: "Stretching"
+    url: "https://en.wikipedia.org/wiki/Stretching"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que devient le lactate après l'effort ?"
+    options:
+      - "Il s'accumule pendant des jours"
+      - "Le corps l'utilise ou le recycle"
+      - "Il devient du sable"
+    answer: 2
+    explanation: >
+      Le lactate n'est pas un poison : le foie, les muscles, le cœur et le cerveau peuvent
+      l'utiliser comme source d'énergie.
+  - question: "Le lactate cause-t-il les courbatures ?"
+    options:
+      - "Non, il disparaît bien avant elles"
+      - "Oui, toujours"
+      - "Oui, mais seulement la nuit"
+    answer: 1
+    explanation: >
+      Les courbatures n'ont aucun lien de cause à effet avec l'accumulation de lactate dans le
+      muscle.
+  - question: "D'où viennent surtout les courbatures ?"
+    options:
+      - "De microscopiques lésions causées par des contractions où le muscle s'allonge"
+      - "De l'eau dans les chaussures"
+      - "De l'acidité de l'air"
+    answer: 1
+    explanation: >
+      Elles viennent de contractions où le muscle s'allonge sous tension, qui causent de
+      microscopiques lésions.
+  - question: "Les étirements diminuent-ils les courbatures ?"
+    options:
+      - "Oui, toujours"
+      - "Ils les doublent"
+      - "Aucune preuve ne le montre"
+    answer: 3
+    explanation: >
+      Aucune preuve ne montre que les étirements diminuent les courbatures.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Non : le lactate est un carburant que le corps recycle, et il disparaît bien avant les courbatures. Celles-ci viennent surtout de micro-lésions musculaires après un effort inhabituel.
+
+## D'où vient le lactate ?
+
+Lors d'un effort intense, les muscles demandent de l'énergie plus vite que l'oxygène n'arrive : une partie du sucre est transformée en lactate. Le lactate n'est pas un poison : le foie, les muscles, le cœur et le cerveau peuvent l'utiliser comme source d'énergie. Le corps le recycle, par exemple dans le foie, où le cycle de Cori le retransforme en glucose. Son transport hors du muscle aide à garder l'équilibre acide-base, et retarde la fatigue au lieu de la causer. La fatigue musculaire a des causes plus complexes : manque de phosphate, déséquilibres en potassium et perturbations d'ions.
+
+## Les courbatures, une autre histoire
+
+Les courbatures sont des douleurs et une raideur musculaires qui apparaissent après un effort intense ou inhabituel, surtout un à trois jours plus tard. Elles viennent de contractions où le muscle s'allonge sous tension, qui causent de microscopiques lésions. Les courbatures n'ont aucun lien de cause à effet avec l'accumulation de lactate dans le muscle. Le lactate est éliminé bien avant l'apparition des courbatures.
+
+## Ce qu'on peut en faire
+
+Une progression graduelle de l'intensité aide à les limiter. Aucune preuve ne montre que les étirements diminuent les courbatures. L'idée que le lactate cause les courbatures est une explication ancienne, aujourd'hui discréditée.
+
+## À retenir
+
+- Lors d'un effort intense, les muscles demandent de l'énergie plus vite que l'oxygène n'arrive : une partie du sucre est transformée en lactate.
+- Le lactate n'est pas un poison : le foie, les muscles, le cœur et le cerveau peuvent l'utiliser comme source d'énergie.
+- Les courbatures n'ont aucun lien de cause à effet avec l'accumulation de lactate dans le muscle.
+- Les courbatures sont des douleurs et une raideur musculaires qui apparaissent après un effort intense ou inhabituel, surtout un à trois jours plus tard.
+- Elles viennent de contractions où le muscle s'allonge sous tension, qui causent de microscopiques lésions.
 
 ---
 type: article
-title: La science du sport dans les équipes de haut niveau
-slug: la-science-du-sport-dans-les-equipes-de-haut-niveau
+title: Que font les scientifiques et les statisticiens dans une équipe de haut niveau ?
+slug: que-font-les-scientifiques-et-les-statisticiens-dans-une-equipe-de-haut-niveau
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la science du sport dans les équipes de haut niveau.
-tags: [sports-collectifs, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  La science du sport étudie comment le corps s'adapte à l'effort, avec la physiologie, la
+  psychologie et la biomécanique. L'analyse de données aide les équipes à évaluer les joueurs et
+  à décider.
+tags: [sports-collectifs]
+sources:
+  - title: "Sports science"
+    url: "https://en.wikipedia.org/wiki/Sports_science"
+    publisher: "Wikipedia"
+  - title: "Sciences du sport"
+    url: "https://fr.wikipedia.org/wiki/Sciences_du_sport"
+    publisher: "Wikipédia"
+  - title: "Sports analytics"
+    url: "https://en.wikipedia.org/wiki/Sports_analytics"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que étudie la science du sport ?"
+    options:
+      - "La météo des stades"
+      - "Comment le corps s'adapte à l'effort"
+      - "L'histoire des maillots"
+    answer: 2
+    explanation: >
+      La science du sport étudie comment le corps humain en bonne santé s'adapte à l'effort, à
+      court et à long terme.
+  - question: "Quelle difficulté touche la science du sport ?"
+    options:
+      - "Un excès de preuves parfaites"
+      - "Aucune difficulté"
+      - "Un manque de reproductibilité des études"
+    answer: 3
+    explanation: >
+      Le domaine fait face à des doutes sur la reproductibilité : on répète trop peu les études
+      et on publie peu les résultats nuls.
+  - question: "Qu'est-ce que la sabermétrie ?"
+    options:
+      - "Une recette de cuisine"
+      - "Un type de chaussure"
+      - "L'analyse statistique du baseball"
+    answer: 3
+    explanation: >
+      Au baseball, la sabermétrie utilise des indicateurs précis pour évaluer les joueurs et
+      choisir la stratégie.
+  - question: "Que fournit l'intelligence artificielle à certains sportifs ?"
+    options:
+      - "Une paire de jambes"
+      - "Un nouveau terrain"
+      - "Les points faibles des adversaires"
+    answer: 3
+    explanation: >
+      L'intelligence artificielle fournit déjà aux lanceurs les points faibles des batteurs
+      adverses et aide à ajuster la tactique en direct.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La science du sport étudie comment le corps s'adapte à l'effort, avec la physiologie, la psychologie et la biomécanique. L'analyse de données aide les équipes à évaluer les joueurs et à décider.
+
+## Une science de l'effort
+
+La science du sport étudie comment le corps humain en bonne santé s'adapte à l'effort, à court et à long terme. Elle regroupe la physiologie de l'exercice, la psychologie du sport, l'anatomie, la biomécanique, la biochimie et la kinésiologie. En France, les facultés de sciences et techniques des activités physiques et sportives ne forment plus seulement des professeurs d'éducation physique. Les diplômés deviennent par exemple entraîneurs, analystes de performance, nutritionnistes, préparateurs physiques ou médecins du sport.
+
+## Les limites du domaine
+
+Le domaine fait face à des doutes sur la reproductibilité : on répète trop peu les études et on publie peu les résultats nuls. Des statisticiens critiquent aussi une méthode statistique répandue dans le domaine, l'inférence fondée sur l'ampleur.
+
+## Les données au service des équipes
+
+L'analyse sportive utilise des statistiques historiques pour donner un avantage compétitif à une équipe ou à un athlète. Le film Moneyball a rendu cette approche célèbre, avec un directeur sportif qui s'appuyait sur les données malgré un petit budget. Au baseball, la sabermétrie utilise des indicateurs précis pour évaluer les joueurs et choisir la stratégie. D'autres sports ont leurs propres indicateurs, comme les buts attendus au football ou les tirs tentés au hockey. Au golf, des lasers et des caméras recueillent des données précises sur chaque coup. L'intelligence artificielle fournit déjà aux lanceurs les points faibles des batteurs adverses et aide à ajuster la tactique en direct. Des équipes ont gagné des titres en repérant des joueurs sous-évalués ou en ajustant leur placement défensif grâce aux données.
+
+## À retenir
+
+- La science du sport étudie comment le corps humain en bonne santé s'adapte à l'effort, à court et à long terme.
+- Elle regroupe la physiologie de l'exercice, la psychologie du sport, l'anatomie, la biomécanique, la biochimie et la kinésiologie.
+- Le domaine fait face à des doutes sur la reproductibilité : on répète trop peu les études et on publie peu les résultats nuls.
+- L'analyse sportive utilise des statistiques historiques pour donner un avantage compétitif à une équipe ou à un athlète.
+- L'intelligence artificielle fournit déjà aux lanceurs les points faibles des batteurs adverses et aide à ajuster la tactique en direct.
 
 ---
 type: article
-title: Les crampes musculaires et leurs causes débattues
-slug: les-crampes-musculaires-et-leurs-causes-debattues
+title: Pourquoi une crampe surgit-elle en plein effort, et que sait-on vraiment de ses causes ?
+slug: pourquoi-une-crampe-surgit-elle-en-plein-effort-et-que-sait-on-vraiment-de-ses-causes
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les crampes musculaires et leurs causes débattues.
-tags: [energetique-musculaire, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Une crampe est une contraction involontaire et douloureuse d'un muscle. L'explication par la
+  déshydratation a dominé, mais les recherches pointent plutôt un contrôle des nerfs perturbé
+  par la fatigue.
+tags: [energetique-musculaire]
+sources:
+  - title: "Cramp"
+    url: "https://en.wikipedia.org/wiki/Cramp"
+    publisher: "Wikipedia"
+  - title: "Crampe"
+    url: "https://fr.wikipedia.org/wiki/Crampe"
+    publisher: "Wikipédia"
+  - title: "Exercise Associated Muscle Cramps, a current perspective"
+    url: "https://scholars.direct/Articles/sports-medicine/aspm-1-002.php?jid=sports-medicine"
+    publisher: "Scholars Direct, Archives of Sports Medicine"
+quiz:
+  - question: "Qu'est-ce qu'une crampe ?"
+    options:
+      - "Une déchirure de la peau"
+      - "Un bruit articulaire"
+      - "Une contraction involontaire et douloureuse d'un muscle"
+    answer: 3
+    explanation: >
+      Une crampe est une contraction soudaine, involontaire et douloureuse d'un ou plusieurs
+      muscles.
+  - question: "Quelle était l'explication classique des crampes à l'effort ?"
+    options:
+      - "La perte de sel et la déshydratation"
+      - "Le manque de lumière"
+      - "Un trop-plein de repos"
+    answer: 1
+    explanation: >
+      L'explication classique accuse la perte de sel par la sueur et la déshydratation.
+  - question: "Quelle hypothèse a pris le relais ?"
+    options:
+      - "Une allergie au maillot"
+      - "Un contrôle neuromusculaire perturbé par la fatigue"
+      - "Le froid de la nuit"
+    answer: 2
+    explanation: >
+      L'hypothèse actuelle est celle d'un contrôle neuromusculaire perturbé : la fatigue dérègle
+      l'équilibre entre signaux qui excitent et signaux qui freinent le muscle.
+  - question: "Qu'est-ce qui soulage le plus souvent une crampe aiguë ?"
+    options:
+      - "Courir plus vite"
+      - "Boire un seul verre"
+      - "L'étirement passif du muscle"
+    answer: 3
+    explanation: >
+      L'étirement passif est le moyen le plus courant et le plus efficace de soulager une crampe
+      aiguë, car il augmente les signaux freinant les neurones moteurs.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une crampe est une contraction involontaire et douloureuse d'un muscle. L'explication par la déshydratation a dominé, mais les recherches pointent plutôt un contrôle des nerfs perturbé par la fatigue.
+
+## Une contraction involontaire
+
+Une crampe est une contraction soudaine, involontaire et douloureuse d'un ou plusieurs muscles. Elle dure en général de quelques secondes à quelques minutes, et disparaît souvent d'elle-même ou par étirement. Elle touche surtout les mollets, les cuisses et la voûte du pied, souvent au repos ou la nuit. Les crampes associées à l'exercice sont des spasmes musculaires douloureux qui surviennent pendant ou juste après l'effort.
+
+## Des causes débattues
+
+L'explication classique accuse la perte de sel par la sueur et la déshydratation. Les causes restent débattues : fatigue musculaire, déséquilibres en sels minéraux, déshydratation et fonctionnement des nerfs sont tour à tour cités. L'hypothèse actuelle est celle d'un contrôle neuromusculaire perturbé : la fatigue dérègle l'équilibre entre signaux qui excitent et signaux qui freinent le muscle. Une hyperexcitabilité des nerfs moteurs est, depuis les années 1980, une des théories les plus citées.
+
+## Facteurs de risque et soulagement
+
+Les facteurs de risque sont l'effort intense et prolongé, la fatigue musculaire, des crampes antérieures, un muscle en position raccourcie, l'âge et une mauvaise condition physique. L'étirement passif est le moyen le plus courant et le plus efficace de soulager une crampe aiguë, car il augmente les signaux freinant les neurones moteurs. D'autres causes existent : grossesse, certains médicaments, maladies métaboliques ou nerveuses. Un échauffement progressif avant l'effort figure parmi les mesures citées.
+
+## À retenir
+
+- Une crampe est une contraction soudaine, involontaire et douloureuse d'un ou plusieurs muscles.
+- L'explication classique accuse la perte de sel par la sueur et la déshydratation.
+- La fatigue dérègle l'équilibre entre les signaux qui excitent le muscle et ceux qui le freinent.
+- Les facteurs de risque : effort intense et prolongé, fatigue, crampes antérieures, muscle raccourci, âge et mauvaise condition.
+- L'étirement passif est le moyen le plus courant et efficace de soulager une crampe aiguë.
 
 ---
 type: article
-title: Le moment de l'ingestion des nutriments et la performance
-slug: le-moment-de-l-ingestion-des-nutriments-et-la-performance
+title: Faut-il manger tout de suite après l'entraînement pour mieux progresser ?
+slug: faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le moment de l'ingestion des nutriments et la performance.
-tags: [entrainement, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  Le moment de l'apport en glucides et protéines autour de l'effort peut aider la récupération,
+  surtout quand les séances sont proches. C'est un détail utile, mais pas une condition de la
+  performance.
+tags: [entrainement]
+sources:
+  - title: "Nutrient timing"
+    url: "https://en.wikipedia.org/wiki/Nutrient_timing"
+    publisher: "Wikipedia"
+  - title: "Sports nutrition"
+    url: "https://en.wikipedia.org/wiki/Sports_nutrition"
+    publisher: "Wikipedia"
+  - title: "Glycogen"
+    url: "https://en.wikipedia.org/wiki/Glycogen"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que le glycogène ?"
+    options:
+      - "Une réserve de glucose dans le foie et les muscles"
+      - "Un type de chaussure"
+      - "Un os"
+    answer: 1
+    explanation: >
+      Le glycogène, réserve de glucose dans le foie et les muscles, est la principale source
+      d'énergie des muscles à l'effort.
+  - question: "Quand le moment des apports compte-t-il davantage ?"
+    options:
+      - "Quand on dort"
+      - "Quand on est assis"
+      - "Quand les séances sont rapprochées"
+    answer: 3
+    explanation: >
+      Quand les séances d'entraînement sont rapprochées, le moment des apports compte davantage.
+  - question: "Le moment de l'ingestion est-il indispensable à une bonne performance ?"
+    options:
+      - "Oui, absolument"
+      - "Non, c'est un détail utile"
+      - "Il est interdit"
+    answer: 2
+    explanation: >
+      Selon la source, ce moment n'est pas indispensable à une bonne performance, mais c'est un
+      petit détail qui peut aider à gagner en force.
+  - question: "À quoi servent les protéines après l'effort ?"
+    options:
+      - "À éclairer la salle"
+      - "À fabriquer et réparer des protéines musculaires"
+      - "À faire du bruit"
+    answer: 2
+    explanation: >
+      Les protéines servent à fabriquer de nouvelles protéines musculaires et à réparer les
+      tissus abîmés.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le moment de l'apport en glucides et protéines autour de l'effort peut aider la récupération, surtout quand les séances sont proches. C'est un détail utile, mais pas une condition de la performance.
+
+## Une idée populaire
+
+Le chronométrage des nutriments consiste à consommer certains nutriments à des moments précis autour de l'exercice, pour améliorer le développement musculaire et la performance. On parle de fenêtre anabolique pour désigner une courte période après l'effort, pendant laquelle les sportifs consomment souvent des nutriments.
+
+## Ce que fait le corps après l'effort
+
+Le glycogène, réserve de glucose dans le foie et les muscles, est la principale source d'énergie des muscles à l'effort. Un effort prolongé épuise ces réserves, ce qui provoque une fatigue que l'on appelle le mur. Après l'effort, les sportifs prennent souvent des glucides pour reconstituer ces réserves. Les protéines servent à fabriquer de nouvelles protéines musculaires et à réparer les tissus abîmés. Quand les séances d'entraînement sont rapprochées, le moment des apports compte davantage. Les boissons de sport restituent aussi l'eau et les minéraux perdus ; les électrolytes aident au fonctionnement des nerfs et des muscles.
+
+## Un détail utile, pas un secret
+
+Selon la source, ce moment n'est pas indispensable à une bonne performance, mais c'est un petit détail qui peut aider à gagner en force. Parmi les bénéfices avancés, on cite moins d'inflammation musculaire et une récupération plus rapide. Associer glucides et caféine après l'effort pourrait accélérer la reconstitution du glycogène, mais l'effet reste mal connu. La page elle-même signale qu'elle manque de sources solides.
+
+## À retenir
+
+- Le chronométrage des nutriments consiste à consommer certains nutriments à des moments précis autour de l'exercice, pour améliorer le développement musculaire et la performance.
+- Le glycogène, réserve de glucose dans le foie et les muscles, est la principale source d'énergie des muscles à l'effort.
+- Après l'effort, les sportifs prennent souvent des glucides pour reconstituer ces réserves.
+- Quand les séances d'entraînement sont rapprochées, le moment des apports compte davantage.
+- Le moment n'est pas indispensable à une bonne performance, mais peut aider à gagner en force.
 
 ---
 type: article
-title: Les capteurs portés au poignet et l'activité physique
-slug: les-capteurs-portes-au-poignet-et-l-activite-physique
+title: Que mesure vraiment le capteur au dos d'une montre connectée, et peut-on s'y fier ?
+slug: que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier
 categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les capteurs portés au poignet et l'activité physique.
-tags: [activite-physique-et-sante, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  Un capteur optique éclaire la peau et suit les variations du sang pour estimer le pouls. Les
+  mouvements rapides le trompent. Les données soulèvent aussi des questions de vie privée.
+tags: [activite-physique-et-sante]
+sources:
+  - title: "Activity tracker"
+    url: "https://en.wikipedia.org/wiki/Activity_tracker"
+    publisher: "Wikipedia"
+  - title: "Photoplethysmogram"
+    url: "https://en.wikipedia.org/wiki/Photoplethysmogram"
+    publisher: "Wikipedia"
+  - title: "Heart rate variability"
+    url: "https://en.wikipedia.org/wiki/Heart_rate_variability"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait la photopléthysmographie ?"
+    options:
+      - "Elle mesure la température de l'air"
+      - "Elle détecte les variations de volume sanguin avec de la lumière"
+      - "Elle pèse les chaussures"
+    answer: 2
+    explanation: >
+      La photopléthysmographie est une méthode optique qui détecte les variations du volume
+      sanguin dans les tissus.
+  - question: "Qu'est-ce qui limite la précision pendant l'exercice ?"
+    options:
+      - "La couleur de la montre"
+      - "Les mouvements du poignet"
+      - "Le nom de la marque"
+    answer: 2
+    explanation: >
+      Les mouvements du poignet sont souvent un obstacle à une mesure précise pendant
+      l'exercice.
+  - question: "Quel appareil est plus fiable pour le pouls pendant des mouvements rapides ?"
+    options:
+      - "Un bracelet de cheville"
+      - "Une sangle de poitrine"
+      - "Un chapeau"
+    answer: 2
+    explanation: >
+      Pour la fréquence cardiaque, une sangle de poitrine est plus fiable qu'un capteur au
+      poignet pendant des mouvements rapides des bras.
+  - question: "Quelle inquiétude concerne les données de ces appareils ?"
+    options:
+      - "Leur poids"
+      - "La vie privée, avec des données transmises sans consentement clair"
+      - "Leur couleur"
+    answer: 2
+    explanation: >
+      Des applications transmettent des données personnelles sans consentement clair, et la
+      géolocalisation peut révéler des sites sensibles.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un capteur optique éclaire la peau et suit les variations du sang pour estimer le pouls. Les mouvements rapides le trompent. Les données soulèvent aussi des questions de vie privée.
+
+## Ce que mesure un tracker
+
+Un tracker d'activité est un appareil électronique qui mesure et enregistre les mouvements et les réactions physiques d'une personne. Il suit les pas, la distance, la fréquence cardiaque, les calories dépensées et la qualité du sommeil. Il utilise des accéléromètres et des altimètres, comme un podomètre plus avancé. Le bracelet est la forme la plus courante, mais il existe aussi des bagues et des écouteurs.
+
+## Comment on lit un pouls au poignet
+
+La photopléthysmographie est une méthode optique qui détecte les variations du volume sanguin dans les tissus. Une diode éclaire la peau, une photodiode mesure la lumière réfléchie, et chaque battement du cœur crée un pic. Elle est intégrée aux montres connectées, aux trackers et aux oxymètres de pouls. Les mouvements du poignet sont souvent un obstacle à une mesure précise pendant l'exercice. Pour la fréquence cardiaque, une sangle de poitrine est plus fiable qu'un capteur au poignet pendant des mouvements rapides des bras. La référence pour mesurer l'activité électrique du cœur reste l'électrocardiogramme.
+
+## Santé et vie privée
+
+Ces appareils peuvent aider à repérer un rythme cardiaque irrégulier et à suivre le sommeil ou le stress. Des applications transmettent des données personnelles sans consentement clair, et la géolocalisation peut révéler des sites sensibles. Les aspects de jeu peuvent motiver, mais risquent de banaliser les objectifs de santé.
+
+## À retenir
+
+- Un tracker d'activité est un appareil électronique qui mesure et enregistre les mouvements et les réactions physiques d'une personne.
+- Une diode éclaire la peau, une photodiode mesure la lumière réfléchie, et chaque battement du cœur crée un pic.
+- Les mouvements du poignet sont souvent un obstacle à une mesure précise pendant l'exercice.
+- Pour la fréquence cardiaque, une sangle de poitrine est plus fiable qu'un capteur au poignet pendant des mouvements rapides des bras.
+- Des applications transmettent des données personnelles sans consentement clair, et la géolocalisation peut révéler des sites sensibles.
 
 ---
 type: article
-title: Les records du monde et leurs limites
-slug: les-records-du-monde-et-leurs-limites
+title: Pourquoi les records du monde tombent-ils moins vite qu'avant ?
+slug: pourquoi-les-records-du-monde-tombent-ils-moins-vite-qu-avant
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les records du monde et leurs limites.
-tags: [sports-individuels, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  Les records progressent grâce aux talents, à l'entraînement, à la technologie et au contrôle
+  du dopage. Dans plusieurs épreuves, la progression a ralenti depuis les années 1990.
+tags: [sports-individuels]
+sources:
+  - title: "World record"
+    url: "https://en.wikipedia.org/wiki/World_record"
+    publisher: "Wikipedia"
+  - title: "Running world records and the limits of performance"
+    url: "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1372092/xml"
+    publisher: "Frontiers in Physiology"
+  - title: "What is the absolute limit for human athletes? Here's the science"
+    url: "https://theconversation.com/what-is-the-absolute-limit-for-human-athletes-heres-the-science-63749"
+    publisher: "The Conversation"
+quiz:
+  - question: "Qu'est-ce qu'un record du monde ?"
+    options:
+      - "Une règle de jeu"
+      - "La meilleure performance mondiale officiellement vérifiée"
+      - "Un trophée"
+    answer: 2
+    explanation: >
+      Un record du monde est la meilleure performance mondiale jamais enregistrée et
+      officiellement vérifiée dans une activité.
+  - question: "Que s'est-il passé dans les courses de vitesse depuis les années 1990 ?"
+    options:
+      - "Les records ont doublé chaque année"
+      - "La progression a nettement ralenti"
+      - "Elles ont disparu"
+    answer: 2
+    explanation: >
+      Dans le saut en longueur et les courses de vitesse, la progression a nettement ralenti
+      depuis le milieu des années 1990.
+  - question: "Que dit-on quand la courbe de progrès s'aplatit ?"
+    options:
+      - "Les records doublent"
+      - "Les athlètes disparaissent"
+      - "Les performances deviennent presque statiques"
+    answer: 3
+    explanation: >
+      Quand la courbe de progrès s'aplatit, les performances deviennent presque statiques, et
+      certains auteurs estiment que les humains approchent des limites biologiques.
+  - question: "De quoi dépendent les records ?"
+    options:
+      - "D'un seul facteur"
+      - "Uniquement de la chance"
+      - "De plusieurs facteurs : biologie, entraînement, équipement, nombre d'athlètes"
+    answer: 3
+    explanation: >
+      Les records dépendent de plusieurs facteurs à la fois : biologie, entraînement, équipement
+      et nombre d'athlètes.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les records progressent grâce aux talents, à l'entraînement, à la technologie et au contrôle du dopage. Dans plusieurs épreuves, la progression a ralenti depuis les années 1990.
+
+## Qu'est-ce qu'un record ?
+
+Un record du monde est la meilleure performance mondiale jamais enregistrée et officiellement vérifiée dans une activité. Une performance qui ne remplit pas les critères officiels, comme un parcours trop dénivelé, est appelée meilleure performance mondiale. Des organisations, comme le Guinness World Records, suivent et publient les records dans de nombreux domaines : athlétisme, natation, patinage de vitesse, cyclisme, aviron ou haltérophilie. Les records dépendent de plusieurs facteurs à la fois : biologie, entraînement, équipement et nombre d'athlètes.
+
+## Pourquoi la progression ralentit
+
+Dans le saut en longueur et les courses de vitesse, la progression a nettement ralenti depuis le milieu des années 1990. Un plus grand nombre d'athlètes augmente la probabilité de voir émerger des performances exceptionnelles. Quand la courbe de progrès s'aplatit, les performances deviennent presque statiques, et certains auteurs estiment que les humains approchent des limites biologiques.
+
+## Techniques et modèles
+
+L'équipement et la technologie comptent : les chaussures à plaque de carbone ont amélioré l'économie de course, et les lièvres lumineux aident à répartir l'allure. Des modèles mathématiques décrivent un siècle de records, avec un plafond que les performances approchent.
+
+## À retenir
+
+- Un record du monde est la meilleure performance mondiale jamais enregistrée et officiellement vérifiée dans une activité.
+- Dans le saut en longueur et les courses de vitesse, la progression a nettement ralenti depuis le milieu des années 1990.
+- Quand la courbe s'aplatit, les performances deviennent presque statiques : les humains approchent peut-être de limites biologiques.
+- Les chaussures à plaque de carbone ont amélioré l'économie de course, et les lièvres lumineux aident à répartir l'allure.
+- Les records dépendent de plusieurs facteurs à la fois : biologie, entraînement, équipement et nombre d'athlètes.
 
 ---
 type: article
@@ -9758,30 +10392,172 @@ Mexico se trouve à 2 240 mètres d'altitude.
 
 ---
 type: article
-title: La récupération après l'effort et les montres connectées
-slug: la-recuperation-apres-l-effort-et-les-montres-connectees
+title: Que mesure vraiment la variabilité cardiaque, ce chiffre qui promet de dire si vous êtes récupéré ?
+slug: que-mesure-vraiment-la-variabilite-cardiaque-ce-chiffre-qui-promet-de-dire-si-vous-etes-recupere
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la récupération après l'effort et les montres connectées.
-tags: [entrainement, veille-2026-09]
-priority: 0.79
-essentiel: false
-status: planned
+  La variabilité de la fréquence cardiaque reflète l'équilibre du système nerveux autonome. Les
+  montres l'estiment par un capteur optique, moins précis que l'électrocardiogramme.
+tags: [entrainement]
+sources:
+  - title: "Heart rate variability"
+    url: "https://en.wikipedia.org/wiki/Heart_rate_variability"
+    publisher: "Wikipedia"
+  - title: "Activity tracker"
+    url: "https://en.wikipedia.org/wiki/Activity_tracker"
+    publisher: "Wikipedia"
+  - title: "Photoplethysmogram"
+    url: "https://en.wikipedia.org/wiki/Photoplethysmogram"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que la variabilité de la fréquence cardiaque ?"
+    options:
+      - "La variation du temps entre deux battements"
+      - "Le nombre de pas par jour"
+      - "La taille du cœur"
+    answer: 1
+    explanation: >
+      La variabilité de la fréquence cardiaque est la variation du temps qui sépare deux
+      battements du cœur.
+  - question: "Quelle est la mesure de référence ?"
+    options:
+      - "Le podomètre"
+      - "L'électrocardiogramme"
+      - "La balance"
+    answer: 2
+    explanation: >
+      La mesure de référence est l'électrocardiogramme, qui reflète directement l'activité
+      électrique du cœur.
+  - question: "Qu'est-ce qui gêne la mesure optique ?"
+    options:
+      - "La couleur du ciel"
+      - "Le prix de la montre"
+      - "Les mouvements"
+    answer: 3
+    explanation: >
+      Les mouvements gênent souvent la mesure pendant l'exercice et dans la vie quotidienne.
+  - question: "Quel risque pose un score de récupération affiché ?"
+    options:
+      - "Rendre invisible"
+      - "Banaliser des objectifs de santé"
+      - "Éteindre le cœur"
+    answer: 2
+    explanation: >
+      Le score affiché peut motiver, mais le risque est de banaliser des objectifs de santé.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La variabilité de la fréquence cardiaque reflète l'équilibre du système nerveux autonome. Les montres l'estiment par un capteur optique, moins précis que l'électrocardiogramme.
+
+## Ce que mesure la variabilité cardiaque
+
+La variabilité de la fréquence cardiaque est la variation du temps qui sépare deux battements du cœur. Elle reflète l'activité des deux branches du système nerveux autonome : les composantes de haute fréquence sont liées au système parasympathique. Elle est aussi liée à la régulation des émotions et au stress : une variabilité plus faible est associée à plus d'anxiété. La mesure de référence est l'électrocardiogramme, qui reflète directement l'activité électrique du cœur. On peut aussi la mesurer par photopléthysmographie ou par la pression artérielle.
+
+## Ce que voit la montre
+
+Les montres s'appuient sur un capteur optique : une diode éclaire la peau, et chaque battement crée un pic de lumière absorbée. Les mouvements gênent souvent la mesure pendant l'exercice et dans la vie quotidienne. Pendant des mouvements rapides, une sangle de poitrine est plus fiable qu'un capteur de poignet. Le mécanisme précis qui détermine la forme du signal optique n'est pas encore entièrement compris.
+
+## De la mesure au score
+
+Les trackers suivent aussi le sommeil, qui joue sur la récupération. Certains appareils tentent de suivre le stress ou la santé mentale à partir de ces signaux. Le score affiché peut motiver, mais le risque est de banaliser des objectifs de santé. Ces données personnelles posent des questions de vie privée.
+
+## À retenir
+
+- La variabilité de la fréquence cardiaque est la variation du temps qui sépare deux battements du cœur.
+- Elle reflète l'activité des deux branches du système nerveux autonome : les composantes de haute fréquence sont liées au système parasympathique.
+- La mesure de référence est l'électrocardiogramme, qui reflète directement l'activité électrique du cœur.
+- Les mouvements gênent souvent la mesure pendant l'exercice et dans la vie quotidienne.
+- Le score affiché peut motiver, mais le risque est de banaliser des objectifs de santé.
 
 ---
 type: article
-title: Le dopage technologique et les chaussures de marathon
-slug: le-dopage-technologique-et-les-chaussures-de-marathon
+title: Des chaussures qui font courir plus vite : est-ce du dopage technologique ?
+slug: des-chaussures-qui-font-courir-plus-vite-est-ce-du-dopage-technologique
 categoryPath: sport-et-sciences-du-mouvement/sport-et-societe/dopage
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le dopage technologique et les chaussures de marathon.
-tags: [dopage, veille-2026-09]
-priority: 0.79
-essentiel: false
-status: planned
+  Les chaussures à plaque de carbone et mousse très réactive ont accompagné une vague de
+  records. World Athletics les encadre, mais le débat sur l'équité et le dopage technologique
+  reste vif.
+tags: [dopage]
+sources:
+  - title: "Super shoes"
+    url: "https://en.wikipedia.org/wiki/Super_shoes"
+    publisher: "Wikipedia"
+  - title: "World Athletics modifies rules governing competition shoes for elite athletes"
+    url: "https://worldathletics.org/news/press-releases/modified-rules-shoes"
+    publisher: "World Athletics"
+  - title: "World Athletics Rule Update: Permitted Sole Thickness"
+    url: "https://coachathletics.com.au/news/world-athletics-rule-update-permited-sole-thickness"
+    publisher: "Athletics Coach, Athletics Australia"
+  - title: "Running world records and the limits of performance"
+    url: "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1372092/xml"
+    publisher: "Frontiers in Physiology"
+  - title: "What is the absolute limit for human athletes? Here's the science"
+    url: "https://theconversation.com/what-is-the-absolute-limit-for-human-athletes-heres-the-science-63749"
+    publisher: "The Conversation"
+quiz:
+  - question: "Qu'a de particulier une super shoe ?"
+    options:
+      - "Une plaque de carbone et une mousse épaisse et réactive"
+      - "Une semelle en métal fondu"
+      - "Un moteur"
+    answer: 1
+    explanation: >
+      Les chaussures de type super shoes sont des chaussures de course légères, avec une plaque
+      de carbone sur toute la longueur et une épaisse mousse réactive.
+  - question: "Que limite World Athletics sur route ?"
+    options:
+      - "L'épaisseur de la semelle et le nombre de plaques"
+      - "La couleur des lacets"
+      - "La marque"
+    answer: 1
+    explanation: >
+      Pour préserver l'intégrité de la compétition, World Athletics limite l'épaisseur de la
+      semelle et le nombre de plaques.
+  - question: "Où la limite d'épaisseur de semelle est-elle plus basse ?"
+    options:
+      - "Sur piste"
+      - "Sur route"
+      - "Nulle part"
+    answer: 1
+    explanation: >
+      Sur piste, la limite d'épaisseur est plus basse que sur route.
+  - question: "Que désigne l'expression dopage technologique ?"
+    options:
+      - "Un équipement qui donne un avantage de performance"
+      - "Une injection"
+      - "Un régime"
+    answer: 1
+    explanation: >
+      L'expression dopage technologique désigne l'usage d'un équipement qui apporte un avantage,
+      et elle est au cœur du débat sur ces chaussures.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les chaussures à plaque de carbone et mousse très réactive ont accompagné une vague de records. World Athletics les encadre, mais le débat sur l'équité et le dopage technologique reste vif.
+
+## Une chaussure pas comme les autres
+
+Les chaussures de type super shoes sont des chaussures de course légères, avec une plaque de carbone sur toute la longueur et une épaisse mousse réactive. Depuis leur arrivée, les records en marathon ont beaucoup progressé, et beaucoup des temps les plus rapides ont été réalisés depuis. Elles améliorent l'économie de course, c'est-à-dire l'énergie dépensée pour courir à une allure donnée.
+
+## Des règles pour l'encadrer
+
+Pour préserver l'intégrité de la compétition, World Athletics limite l'épaisseur de la semelle et le nombre de plaques. L'instance cherche à équilibrer innovation et équité entre les athlètes, en limitant les progrès de la technologie. Sur route, l'épaisseur maximale de la semelle est de 40 millimètres. Sur piste, la limite d'épaisseur est plus basse que sur route. Une seule plaque rigide est autorisée par chaussure.
+
+## Un débat ouvert
+
+L'expression dopage technologique désigne l'usage d'un équipement qui apporte un avantage, et elle est au cœur du débat sur ces chaussures. Certains commentateurs proposent de distinguer, dans les livres de records, les temps d'avant et d'après ces chaussures. Le débat est d'autant plus vif que la marque de chaussures est souvent le principal sponsor de l'athlète. Certaines paires sont conçues pour une seule course, ce qui pose des questions d'environnement. Des experts s'opposent encore pour savoir si ces chaussures ont fait progresser la performance ou seulement déplacé l'avantage. Les chercheurs qui modélisent les records citent la technologie parmi les facteurs de progression.
+
+## À retenir
+
+- Les super shoes sont légères, avec une plaque de carbone sur toute la longueur et une épaisse mousse réactive.
+- Elles améliorent l'économie de course, c'est-à-dire l'énergie dépensée pour courir à une allure donnée.
+- Pour préserver l'intégrité de la compétition, World Athletics limite l'épaisseur de la semelle et le nombre de plaques.
+- Sur route, l'épaisseur maximale de la semelle est de 40 millimètres.
+- L'expression dopage technologique désigne l'usage d'un équipement qui apporte un avantage, et elle est au cœur du débat sur ces chaussures.
