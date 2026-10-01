@@ -9327,48 +9327,263 @@ Il faut savoir ce qu'est une règle « si… alors… » et un programme qui la 
 
 ---
 type: article
-title: Comment un réseau ajuste ses poids pendant l'apprentissage
-slug: comment-un-reseau-ajuste-ses-poids-pendant-l-apprentissage
+title: Comment un réseau de neurones corrige-t-il ses erreurs en ajustant ses poids ?
+slug: comment-un-reseau-de-neurones-corrige-t-il-ses-erreurs-en-ajustant-ses-poids
 categoryPath: intelligence-artificielle/apprentissage-automatique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment un réseau ajuste ses poids pendant l'apprentissage.
-tags: [apprentissage-automatique, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  Un réseau apprend en ajustant ses poids. La rétropropagation calcule la part d'erreur de
+  chaque poids, puis la descente de gradient les corrige un peu à la fois.
+tags: [apprentissage-automatique]
+sources:
+  - title: "Backpropagation"
+    url: "https://en.wikipedia.org/wiki/Backpropagation"
+    publisher: "Wikipedia"
+  - title: "Rétropropagation du gradient"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9tropropagation_du_gradient"
+    publisher: "Wikipédia"
+  - title: "Gradient descent"
+    url: "https://en.wikipedia.org/wiki/Gradient_descent"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que modifie un réseau de neurones quand il apprend ?"
+    options:
+      - "Ses poids"
+      - "Son écran"
+      - "Son nom"
+    answer: 1
+    explanation: >
+      Entraîner un réseau de neurones, c'est modifier ses poids pour réduire l'erreur de ses
+      prédictions.
+  - question: "Dans quel sens la rétropropagation fait-elle circuler l'erreur ?"
+    options:
+      - "De l'entrée vers la sortie"
+      - "Elle ne circule pas"
+      - "De la sortie vers l'entrée"
+    answer: 3
+    explanation: >
+      Dans la passe arrière, la rétropropagation fait remonter l'erreur de la sortie vers
+      l'entrée, pour calculer la part de chaque poids dans l'erreur.
+  - question: "Que se passe-t-il si le taux d'apprentissage est trop grand ?"
+    options:
+      - "On dépasse la cible et l'apprentissage diverge"
+      - "L'apprentissage devient parfait"
+      - "Le réseau s'éteint"
+    answer: 1
+    explanation: >
+      Le taux d'apprentissage règle la taille du pas : trop petit, l'apprentissage est lent ;
+      trop grand, il dépasse la cible et diverge.
+  - question: "Quel algorithme sert de base à l'entraînement de la plupart des réseaux profonds ?"
+    options:
+      - "La descente de gradient stochastique"
+      - "Le tri alphabétique"
+      - "La compression d'images"
+    answer: 1
+    explanation: >
+      La descente de gradient stochastique est l'algorithme de base pour entraîner la plupart
+      des réseaux profonds.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un réseau apprend en ajustant ses poids. La rétropropagation calcule la part d'erreur de chaque poids, puis la descente de gradient les corrige un peu à la fois.
+
+## Mesurer l'erreur
+
+Entraîner un réseau de neurones, c'est modifier ses poids pour réduire l'erreur de ses prédictions. Dans la passe avant, les données d'entrée traversent les couches du réseau jusqu'à produire une sortie. Une fonction de coût mesure l'écart entre la sortie du réseau et la réponse attendue.
+
+## Faire remonter l'erreur
+
+Dans la passe arrière, la rétropropagation fait remonter l'erreur de la sortie vers l'entrée, pour calculer la part de chaque poids dans l'erreur. Elle applique la règle de dérivation en chaîne, couche après couche, en partant de la dernière. Elle évite de refaire les mêmes calculs pour chaque poids, ce qui rend l'entraînement praticable. Les poids qui causent la plus grande erreur sont corrigés davantage que ceux qui comptent peu.
+
+## Corriger les poids
+
+La descente de gradient déplace ensuite chaque poids dans le sens opposé au gradient, pour faire baisser l'erreur. Le taux d'apprentissage règle la taille du pas : trop petit, l'apprentissage est lent ; trop grand, il dépasse la cible et diverge. La méthode peut s'arrêter dans un minimum local au lieu de trouver la meilleure solution possible. La descente de gradient stochastique est l'algorithme de base pour entraîner la plupart des réseaux profonds. On peut mettre à jour les poids exemple par exemple, ou après avoir accumulé l'erreur d'un lot d'exemples, plus efficace pour le calcul.
+
+## D'où vient la méthode ?
+
+Plusieurs chercheurs ont posé les bases de la méthode, mais le travail de Rumelhart, Hinton et Williams l'a fait adopter largement pour entraîner des réseaux à plusieurs couches.
+
+## À retenir
+
+- Entraîner un réseau de neurones, c'est modifier ses poids pour réduire l'erreur de ses prédictions.
+- La passe arrière fait remonter l'erreur de la sortie vers l'entrée, pour calculer la part de chaque poids.
+- La descente de gradient déplace ensuite chaque poids dans le sens opposé au gradient, pour faire baisser l'erreur.
+- Le taux d'apprentissage règle la taille du pas : trop petit, c'est lent ; trop grand, on dépasse la cible.
+- La descente de gradient stochastique est l'algorithme de base pour entraîner la plupart des réseaux profonds.
 
 ---
 type: article
-title: AlexNet et l'essor de l'apprentissage profond en 2012
-slug: alexnet-et-l-essor-de-l-apprentissage-profond-en-2012
+title: Comment AlexNet a-t-il lancé la révolution de l'apprentissage profond ?
+slug: comment-alexnet-a-t-il-lance-la-revolution-de-l-apprentissage-profond
 categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : alexNet et l'essor de l'apprentissage profond en 2012.
-tags: [apprentissage-profond, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  En 2012, le réseau AlexNet a gagné le concours ImageNet avec une avance énorme grâce à des
+  processeurs graphiques. Ce résultat a lancé l'ère de l'apprentissage profond.
+tags: [apprentissage-profond]
+sources:
+  - title: "AlexNet"
+    url: "https://en.wikipedia.org/wiki/AlexNet"
+    publisher: "Wikipedia"
+  - title: "AlexNet"
+    url: "https://fr.wikipedia.org/wiki/AlexNet"
+    publisher: "Wikipédia"
+  - title: "ImageNet"
+    url: "https://en.wikipedia.org/wiki/ImageNet"
+    publisher: "Wikipedia"
+  - title: "ILSVRC 2012 results"
+    url: "https://image-net.org/challenges/LSVRC/2012/results.html"
+    publisher: "ImageNet"
+quiz:
+  - question: "Quel concours AlexNet a-t-il remporté ?"
+    options:
+      - "Un concours d'échecs"
+      - "Le concours de reconnaissance d'images ImageNet"
+      - "Un concours de cuisine"
+    answer: 2
+    explanation: >
+      Chaque année, un concours appelé ILSVRC demandait à des équipes de reconnaître des objets
+      dans ces images.
+  - question: "Sur quel matériel AlexNet a-t-il été entraîné ?"
+    options:
+      - "Des machines à écrire"
+      - "Des calculatrices"
+      - "Des processeurs graphiques (GPU)"
+    answer: 3
+    explanation: >
+      Il a été entraîné sur des processeurs graphiques, ce qui a permis de paralléliser les
+      calculs d'un réseau très profond.
+  - question: "Qu'a montré le résultat d'AlexNet ?"
+    options:
+      - "Qu'il fallait supprimer les images"
+      - "Que les réseaux ne servent à rien"
+      - "L'apprentissage profond pouvait battre les méthodes classiques de vision"
+    answer: 3
+    explanation: >
+      Il a montré que l'apprentissage profond pouvait battre les méthodes classiques de vision
+      par ordinateur.
+  - question: "À quelle année ce résultat date-t-il ?"
+    options:
+      - "1950"
+      - "2030"
+      - "2012"
+    answer: 3
+    explanation: >
+      AlexNet a remporté le concours ImageNet en 2012.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 2012, le réseau AlexNet a gagné le concours ImageNet avec une avance énorme grâce à des processeurs graphiques. Ce résultat a lancé l'ère de l'apprentissage profond.
+
+## Une base d'images et un concours
+
+ImageNet est une immense base d'images annotées à la main, organisée selon des noms de la base WordNet. La chercheuse Fei-Fei Li a lancé ce projet, et les étiquettes ont été produites par une foule de travailleurs sur Internet. Chaque année, un concours appelé ILSVRC demandait à des équipes de reconnaître des objets dans ces images.
+
+## Le réseau
+
+AlexNet est un réseau de neurones convolutif conçu par Alex Krizhevsky, Ilya Sutskever et Geoffrey Hinton. Il enchaîne des couches de convolution, parfois suivies de regroupement, puis des couches entièrement connectées. Il utilise la fonction d'activation ReLU et une technique appelée dropout, qui limite le sur-apprentissage. Il compte environ 60 millions de paramètres. Il a été entraîné sur des processeurs graphiques, ce qui a permis de paralléliser les calculs d'un réseau très profond. La profondeur du modèle est essentielle pour obtenir de hautes performances.
+
+## Un résultat qui change tout
+
+AlexNet a remporté le concours ImageNet en 2012. Il s'est trompé sur environ 15,3 % des images, en comptant cinq réponses possibles par image. L'écart avec le deuxième était très net. Il a montré que l'apprentissage profond pouvait battre les méthodes classiques de vision par ordinateur. Son article est devenu l'un des plus cités de la vision par ordinateur et a lancé l'usage massif des GPU pour l'apprentissage profond.
+
+## À retenir
+
+- AlexNet a remporté le concours ImageNet en 2012.
+- Il s'est trompé sur environ 15,3 % des images, en comptant cinq réponses possibles par image.
+- Il a été entraîné sur des processeurs graphiques, ce qui a permis de paralléliser les calculs d'un réseau très profond.
+- Il a montré que l'apprentissage profond pouvait battre les méthodes classiques de vision par ordinateur.
+- Son article est l'un des plus cités de la vision par ordinateur et a lancé l'usage massif des GPU.
 
 ---
 type: article
-title: L'IA vocale et les assistants conversationnels
-slug: l-ia-vocale-et-les-assistants-conversationnels
+title: Comment un assistant vocal comprend-il ce que vous dites, et vous répond-il ?
+slug: comment-un-assistant-vocal-comprend-il-ce-que-vous-dites-et-vous-repond-il
 categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'IA vocale et les assistants conversationnels.
-tags: [ia-generative, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  Un assistant vocal attend un mot d'activation, transforme la parole en texte, comprend la
+  demande, puis répond avec une voix synthétique. Cela soulève des questions de vie privée.
+tags: [ia-generative]
+sources:
+  - title: "Virtual assistant"
+    url: "https://en.wikipedia.org/wiki/Virtual_assistant"
+    publisher: "Wikipedia"
+  - title: "Assistant personnel intelligent"
+    url: "https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent"
+    publisher: "Wikipédia"
+  - title: "Speech recognition"
+    url: "https://en.wikipedia.org/wiki/Speech_recognition"
+    publisher: "Wikipedia"
+  - title: "Speech synthesis"
+    url: "https://en.wikipedia.org/wiki/Speech_synthesis"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un assistant vocal avant d'écouter votre demande ?"
+    options:
+      - "Il lit votre courrier"
+      - "Il attend un mot d'activation"
+      - "Il éteint votre téléphone"
+    answer: 2
+    explanation: >
+      La plupart des assistants vocaux attendent un mot d'activation, comme « Alexa » ou « OK
+      Google », avant d'écouter.
+  - question: "Que fait la reconnaissance vocale ?"
+    options:
+      - "Elle transforme la parole en texte"
+      - "Elle fabrique de la musique"
+      - "Elle imprime des photos"
+    answer: 1
+    explanation: >
+      La reconnaissance vocale transforme la parole en texte.
+  - question: "À quoi sert la synthèse vocale ?"
+    options:
+      - "À recopier un livre"
+      - "À produire la voix de l'assistant"
+      - "À mesurer la température"
+    answer: 2
+    explanation: >
+      La synthèse vocale produit artificiellement de la parole humaine ; c'est ce qui donne sa
+      voix à l'assistant.
+  - question: "Pourquoi les enceintes connectées inquiètent-elles ?"
+    options:
+      - "Elles sont trop lourdes"
+      - "Elles consomment du sable"
+      - "Elles écoutent en permanence en attendant le mot d'activation"
+    answer: 3
+    explanation: >
+      Beaucoup de gens craignent pour leur vie privée avec les enceintes connectées, parce
+      qu'elles écoutent en permanence.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un assistant vocal attend un mot d'activation, transforme la parole en texte, comprend la demande, puis répond avec une voix synthétique. Cela soulève des questions de vie privée.
+
+## Qu'est-ce qu'un assistant vocal ?
+
+Un assistant virtuel est un logiciel qui exécute des tâches à partir de commandes ou de questions, parfois dites à voix haute. Siri, Alexa, Google Assistant, Copilot et Bixby sont des exemples d'assistants grand public. La plupart des assistants vocaux attendent un mot d'activation, comme « Alexa » ou « OK Google », avant d'écouter.
+
+## Entendre, comprendre, parler
+
+La reconnaissance vocale transforme la parole en texte. Les réseaux de neurones profonds ont fait nettement baisser les erreurs de reconnaissance vocale. Les accents, le bruit de fond et un vocabulaire étendu rendent la reconnaissance plus difficile. Le traitement du langage permet ensuite de relier la demande à une commande que le logiciel peut exécuter. La synthèse vocale produit artificiellement de la parole humaine ; c'est ce qui donne sa voix à l'assistant. Des modèles d'apprentissage profond peuvent générer directement le signal sonore d'une voix. Depuis l'arrivée de chatbots comme ChatGPT, les assistants sont devenus plus capables.
+
+## Les limites et les risques
+
+Il faut désormais très peu d'enregistrements pour cloner une voix, ce qui ouvre la porte à des usages abusifs. Beaucoup de gens craignent pour leur vie privée avec les enceintes connectées, parce qu'elles écoutent en permanence. Les politiques de confidentialité varient selon les fabricants : certains disent ne pas garder l'audio sans permission, mais peuvent garder les transcriptions. Ces systèmes gèrent mal les longues conversations et prennent les questions au pied de la lettre.
+
+## À retenir
+
+- La plupart des assistants vocaux attendent un mot d'activation, comme « Alexa » ou « OK Google », avant d'écouter.
+- La reconnaissance vocale transforme la parole en texte.
+- Le traitement du langage permet ensuite de relier la demande à une commande que le logiciel peut exécuter.
+- La synthèse vocale produit artificiellement de la parole humaine ; c'est ce qui donne sa voix à l'assistant.
+- Beaucoup de gens craignent pour leur vie privée avec les enceintes connectées, parce qu'elles écoutent en permanence.
 
 ---
 type: article
@@ -9478,18 +9693,87 @@ status: planned
 
 ---
 type: article
-title: L'IA physique et les robots capables de généraliser
-slug: l-ia-physique-et-les-robots-capables-de-generaliser
+title: Comment un robot peut-il apprendre à agir dans des situations qu'il n'a jamais vues ?
+slug: comment-un-robot-peut-il-apprendre-a-agir-dans-des-situations-qu-il-n-a-jamais-vues
 categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'IA physique et les robots capables de généraliser.
-tags: [travail-et-usages, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  L'IA physique relie perception, décision et action dans le monde réel. Les modèles vision-
+  langage-action transforment une image et une consigne écrite en gestes de robot.
+tags: [travail-et-usages]
+sources:
+  - title: "Physical AI"
+    url: "https://en.wikipedia.org/wiki/Physical_AI"
+    publisher: "Wikipedia"
+  - title: "Vision-language-action model"
+    url: "https://en.wikipedia.org/wiki/Vision-language-action_model"
+    publisher: "Wikipedia"
+  - title: "Robotique"
+    url: "https://fr.wikipedia.org/wiki/Robotique"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait un système d'IA physique ?"
+    options:
+      - "Il ne fait que dessiner"
+      - "Il remplace l'électricité"
+      - "Il perçoit, planifie et agit dans le monde réel"
+    answer: 3
+    explanation: >
+      L'IA physique désigne des systèmes d'IA qui perçoivent, raisonnent et agissent dans le
+      monde réel, à l'échelle humaine.
+  - question: "Pourquoi un robot classique s'adapte-t-il mal ?"
+    options:
+      - "Il est trop petit"
+      - "Il a peur du noir"
+      - "Il suit un programme sans avoir appris à gérer les situations nouvelles"
+    answer: 3
+    explanation: >
+      Un robot classique s'adapte mal à une situation nouvelle, car on ne lui a pas donné la
+      possibilité d'apprendre.
+  - question: "Que reçoit un modèle vision-langage-action ?"
+    options:
+      - "Seulement de l'électricité"
+      - "Une image et une consigne écrite"
+      - "Un colis"
+    answer: 2
+    explanation: >
+      Un modèle vision-langage-action reçoit une image et une consigne écrite, puis produit une
+      suite d'actions de robot.
+  - question: "Pourquoi la sécurité est-elle cruciale ?"
+    options:
+      - "Une panne peut causer des dégâts ou des blessures"
+      - "Parce que les robots n'ont pas de couleur"
+      - "Parce que les robots sont lents à gagner"
+    answer: 1
+    explanation: >
+      La sécurité exige une supervision et des mécanismes de secours, car une panne peut causer
+      des dégâts ou des blessures.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'IA physique relie perception, décision et action dans le monde réel. Les modèles vision-langage-action transforment une image et une consigne écrite en gestes de robot.
+
+## L'IA qui agit dans le monde réel
+
+L'IA physique désigne des systèmes d'IA qui perçoivent, raisonnent et agissent dans le monde réel, à l'échelle humaine. Ils fonctionnent en boucle : percevoir, planifier, puis agir avec des moteurs et des actionneurs. Ils utilisent des caméras, des lidars, des radars et des capteurs tactiles pour représenter leur environnement. On les trouve dans les voitures autonomes, les robots d'entrepôt, les robots humanoïdes et les robots agricoles.
+
+## Apprendre à s'adapter
+
+Un robot classique s'adapte mal à une situation nouvelle, car on ne lui a pas donné la possibilité d'apprendre. Des techniques d'apprentissage permettent à des robots d'améliorer leur comportement et de faire face à des situations imprévues. Un modèle vision-langage-action reçoit une image et une consigne écrite, puis produit une suite d'actions de robot. Il s'appuie sur un modèle de vision et de langage préentraîné, qui transforme images et texte en représentations communes. Un décodeur d'actions convertit ensuite ces représentations en commandes pour les articulations du robot. On l'entraîne avec des démonstrations de robots, de la téléopération par des humains ou de la simulation, associées à des consignes écrites. RT-2, de Google DeepMind, a lancé cette approche ; OpenVLA est un modèle ouvert ; pi0 produit des gestes continus.
+
+## Ce qui reste difficile
+
+Il reste des défis : capteurs incomplets, évitement des collisions, calcul en temps réel, énergie limitée et passage de la simulation au monde réel. La sécurité exige une supervision et des mécanismes de secours, car une panne peut causer des dégâts ou des blessures.
+
+## À retenir
+
+- L'IA physique désigne des systèmes d'IA qui perçoivent, raisonnent et agissent dans le monde réel, à l'échelle humaine.
+- Ils fonctionnent en boucle : percevoir, planifier, puis agir avec des moteurs et des actionneurs.
+- Un robot classique s'adapte mal à une situation nouvelle, car on ne lui a pas donné la possibilité d'apprendre.
+- Un modèle vision-langage-action reçoit une image et une consigne écrite, puis produit une suite d'actions de robot.
+- La sécurité exige une supervision et des mécanismes de secours, car une panne peut causer des dégâts ou des blessures.
 
 ---
 type: article
@@ -9523,33 +9807,185 @@ status: planned
 
 ---
 type: article
-title: Les modèles qui combinent vision et langage
-slug: les-modeles-qui-combinent-vision-et-langage
+title: Comment une IA peut-elle comprendre à la fois une image et une phrase ?
+slug: comment-une-ia-peut-elle-comprendre-a-la-fois-une-image-et-une-phrase
 categoryPath: intelligence-artificielle/modeles-de-langage/transformeurs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les modèles qui combinent vision et langage.
-tags: [transformeurs, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Un modèle vision-langage lit des images et du texte. Un encodeur transforme l'image en jetons,
+  que le modèle de langage traite comme des mots, pour décrire ou répondre à des questions.
+tags: [transformeurs]
+sources:
+  - title: "Vision-language model"
+    url: "https://en.wikipedia.org/wiki/Vision-language_model"
+    publisher: "Wikipedia"
+  - title: "Multimodal learning"
+    url: "https://en.wikipedia.org/wiki/Multimodal_learning"
+    publisher: "Wikipedia"
+  - title: "Vision-language-action model"
+    url: "https://en.wikipedia.org/wiki/Vision-language-action_model"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que peut faire un modèle de vision et de langage ?"
+    options:
+      - "Décrire une image ou répondre à une question sur elle"
+      - "Seulement imprimer"
+      - "Éteindre la lumière"
+    answer: 1
+    explanation: >
+      Il sert à décrire une image, à répondre à des questions sur une image ou à retrouver une
+      image à partir d'un texte.
+  - question: "Comment le modèle de langage reçoit-il une image ?"
+    options:
+      - "Sous forme de jetons d'image"
+      - "Par courrier"
+      - "En la mangeant"
+    answer: 1
+    explanation: >
+      Les caractéristiques de l'image sont converties en jetons d'image, mêlés aux jetons de
+      texte pendant l'entraînement.
+  - question: "Qu'apprend CLIP ?"
+    options:
+      - "Des représentations communes aux images et au texte"
+      - "Des recettes de cuisine"
+      - "La météo"
+    answer: 1
+    explanation: >
+      CLIP a marqué un tournant : il apprend des représentations communes aux images et au
+      texte.
+  - question: "Quelle difficulté pose la combinaison de plusieurs types de données ?"
+    options:
+      - "Relier les parties qui se correspondent et fusionner l'information"
+      - "Trouver assez d'encre"
+      - "Trouver du papier"
+    answer: 1
+    explanation: >
+      Deux difficultés : l'alignement, qui relie les parties des différents types de données, et
+      la fusion de leurs informations.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un modèle vision-langage lit des images et du texte. Un encodeur transforme l'image en jetons, que le modèle de langage traite comme des mots, pour décrire ou répondre à des questions.
+
+## Plusieurs types de données
+
+Un modèle de vision et de langage est un système d'IA qui peut interpréter et produire à la fois des images et du texte. Il fait partie de l'apprentissage multimodal, qui combine plusieurs types de données : texte, audio, images ou vidéo. Il sert à décrire une image, à répondre à des questions sur une image ou à retrouver une image à partir d'un texte.
+
+## Comment une image devient du texte pour le modèle
+
+Il combine un encodeur de vision, un modèle de langage et une couche de liaison entre les deux. Les caractéristiques de l'image sont converties en jetons d'image, mêlés aux jetons de texte pendant l'entraînement. CLIP a marqué un tournant : il apprend des représentations communes aux images et au texte. GPT-4V, Gemini et Claude 3 intègrent la vision ; LLaVA et d'autres sont des modèles ouverts.
+
+## Difficultés et prolongements
+
+Deux difficultés : l'alignement, qui relie les parties des différents types de données, et la fusion de leurs informations. Combiner des jeux de données différents peut aussi poser des risques pour la vie privée. Ces modèles servent de base à des modèles qui pilotent des robots à partir d'une image et d'une consigne.
+
+## À retenir
+
+- Un modèle de vision et de langage est un système d'IA qui peut interpréter et produire à la fois des images et du texte.
+- Il sert à décrire une image, à répondre à des questions sur une image ou à retrouver une image à partir d'un texte.
+- Il combine un encodeur de vision, un modèle de langage et une couche de liaison entre les deux.
+- Les caractéristiques de l'image sont converties en jetons d'image, mêlés aux jetons de texte pendant l'entraînement.
+- Deux difficultés : relier les parties des images et du texte, puis fusionner leurs informations.
 
 ---
 type: article
-title: Les usages encadrés de l'IA dans la justice
-slug: les-usages-encadres-de-l-ia-dans-la-justice
+title: Que peut faire l'IA dans un tribunal, et qu'est-ce qui est interdit ?
+slug: que-peut-faire-l-ia-dans-un-tribunal-et-qu-est-ce-qui-est-interdit
 categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les usages encadrés de l'IA dans la justice.
-tags: [travail-et-usages, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  La justice prédictive analyse des décisions passées pour estimer l'issue d'un litige. Elle est
+  encadrée : profilage des magistrats interdit en France, usages à haut risque surveillés en
+  Europe.
+tags: [travail-et-usages]
+sources:
+  - title: "Justice prédictive"
+    url: "https://fr.wikipedia.org/wiki/Justice_pr%C3%A9dictive"
+    publisher: "Wikipédia"
+  - title: "Article 33, loi n° 2019-222 du 23 mars 2019"
+    url: "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000038261761"
+    publisher: "Légifrance"
+  - title: "COMPAS (software)"
+    url: "https://en.wikipedia.org/wiki/COMPAS_(software)"
+    publisher: "Wikipedia"
+  - title: "Artificial Intelligence Act"
+    url: "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
+    publisher: "Wikipedia"
+  - title: "AI Act : cadre réglementaire pour l'intelligence artificielle"
+    url: "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    publisher: "Commission européenne"
+  - title: "Hallucination (artificial intelligence)"
+    url: "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait la justice prédictive ?"
+    options:
+      - "Elle remplace tous les juges"
+      - "Elle imprime les lois"
+      - "Elle analyse des décisions passées pour estimer l'issue d'un litige"
+    answer: 3
+    explanation: >
+      La justice prédictive désigne des outils qui analysent de nombreuses décisions de justice
+      pour estimer l'issue probable d'un litige.
+  - question: "Que ne peut-on pas faire avec l'identité des magistrats en France ?"
+    options:
+      - "Évaluer, comparer ou prédire leurs pratiques"
+      - "La lire dans un journal"
+      - "La citer dans un jugement"
+    answer: 1
+    explanation: >
+      En France, les données d'identité des magistrats ne peuvent pas être réutilisées pour
+      évaluer, comparer ou prédire leurs pratiques professionnelles.
+  - question: "Que reprochait-on au logiciel COMPAS ?"
+    options:
+      - "D'être trop bavard"
+      - "D'être trop lumineux"
+      - "Un biais selon l'origine ethnique et un algorithme secret"
+    answer: 3
+    explanation: >
+      Une enquête de ProPublica a conclu qu'il était biaisé selon l'origine ethnique, ce que son
+      éditeur a contesté.
+  - question: "Que doit-on faire, selon l'Europe, pour l'IA à haut risque ?"
+    options:
+      - "Supprimer tous les tribunaux"
+      - "La laisser sans contrôle"
+      - "Renforcer la surveillance et le contrôle humain"
+    answer: 3
+    explanation: >
+      Le règlement européen sur l'IA classe parmi les usages à haut risque ceux qui touchent la
+      justice et les forces de l'ordre.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La justice prédictive analyse des décisions passées pour estimer l'issue d'un litige. Elle est encadrée : profilage des magistrats interdit en France, usages à haut risque surveillés en Europe.
+
+## Ce que fait la justice prédictive
+
+La justice prédictive désigne des outils qui analysent de nombreuses décisions de justice pour estimer l'issue probable d'un litige. Ils s'appuient sur le traitement automatique du langage pour repérer les éléments clés des décisions, comme les dates et les montants. Leurs partisans espèrent réduire les délais et favoriser les règlements négociés. Leurs critiques craignent des décisions uniformisées, qui laisseraient moins de place à l'interprétation, et une dépendance excessive de magistrats surchargés.
+
+## Les règles en France
+
+En France, les données d'identité des magistrats ne peuvent pas être réutilisées pour évaluer, comparer ou prédire leurs pratiques professionnelles.
+
+## Un exemple américain : COMPAS
+
+Aux États-Unis, le logiciel COMPAS évalue la probabilité qu'un prévenu récidive ; il est utilisé dans plusieurs juridictions. Une enquête de ProPublica a conclu qu'il était biaisé selon l'origine ethnique, ce que son éditeur a contesté. Son algorithme relève du secret commercial, ce qui empêche un examen public et pose une question de droits de la défense. La Cour suprême du Wisconsin a autorisé les juges à tenir compte de ses scores, à condition d'un avertissement sur ses limites.
+
+## Les règles européennes
+
+Le règlement européen sur l'IA classe parmi les usages à haut risque ceux qui touchent la justice et les forces de l'ordre. Il interdit les systèmes qui évaluent le risque qu'une personne commette une infraction en se fondant uniquement sur son profilage. Des avocats ont été sanctionnés pour avoir cité de fausses décisions de justice inventées par une IA. Dans les domaines à enjeux élevés, une vérification humaine reste nécessaire.
+
+## À retenir
+
+- La justice prédictive désigne des outils qui analysent de nombreuses décisions de justice pour estimer l'issue probable d'un litige.
+- En France, les données d'identité des magistrats ne peuvent pas être réutilisées pour évaluer, comparer ou prédire leurs pratiques professionnelles.
+- Une enquête de ProPublica a conclu qu'il était biaisé selon l'origine ethnique, ce que son éditeur a contesté.
+- Le règlement européen sur l'IA classe parmi les usages à haut risque ceux qui touchent la justice et les forces de l'ordre.
+- Il interdit les systèmes qui évaluent le risque qu'une personne commette une infraction en se fondant uniquement sur son profilage.
 
 ---
 type: article
