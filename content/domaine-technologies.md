@@ -10754,33 +10754,170 @@ status: planned
 
 ---
 type: article
-title: La nanofabrication, construire à l'échelle du milliardième de mètre
-slug: la-nanofabrication-construire-a-l-echelle-du-milliardieme-de-metre
+title: Comment construit-on des structures à l'échelle du milliardième de mètre ?
+slug: comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre
 categoryPath: technologies-et-ingenierie/nanotechnologies/applications
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la nanofabrication, construire à l'échelle du milliardième de mètre.
-tags: [applications, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
+  La nanofabrication grave ou assemble des structures de la taille du nanomètre. La
+  photolithographie domine pour les puces ; l'ultraviolet extrême pousse la finesse, avec des
+  machines énormes.
+tags: [applications]
+sources:
+  - title: "Nanolithography"
+    url: "https://en.wikipedia.org/wiki/Nanolithography"
+    publisher: "Wikipedia"
+  - title: "Nanotechnologie"
+    url: "https://fr.wikipedia.org/wiki/Nanotechnologie"
+    publisher: "Wikipédia"
+  - title: "Extreme ultraviolet lithography"
+    url: "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien vaut un nanomètre ?"
+    options:
+      - "Un millième de mètre"
+      - "Un milliardième de mètre"
+      - "Un millionième de seconde"
+    answer: 2
+    explanation: >
+      Le nanomètre vaut un milliardième de mètre, de l'ordre de la distance entre deux atomes.
+  - question: "Que fait l'approche descendante ?"
+    options:
+      - "Elle assemble atome par atome"
+      - "Elle sculpte un matériau massif"
+      - "Elle laisse tomber des atomes"
+    answer: 2
+    explanation: >
+      L'approche descendante part d'un matériau massif et le sculpte, par exemple par
+      lithographie ; c'est la méthode soustractive.
+  - question: "Pourquoi utilise-t-on des miroirs en lithographie ultraviolette extrême ?"
+    options:
+      - "Le verre et l'air absorbent cette lumière"
+      - "Les miroirs sont moins chers que le verre"
+      - "Pour faire joli"
+    answer: 1
+    explanation: >
+      Le verre et l'air absorbent cette lumière, donc la machine utilise des miroirs au lieu de
+      lentilles et travaille sous vide.
+  - question: "Quelle entreprise vend aujourd'hui ces machines ?"
+    options:
+      - "Une seule, ASML"
+      - "Des centaines"
+      - "Aucune"
+    answer: 1
+    explanation: >
+      Une seule entreprise, ASML, vend aujourd'hui ces machines pour la production de puces ;
+      chacune pèse près de deux cents tonnes et coûte très cher.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La nanofabrication grave ou assemble des structures de la taille du nanomètre. La photolithographie domine pour les puces ; l'ultraviolet extrême pousse la finesse, avec des machines énormes.
+
+## Une échelle minuscule
+
+Le nanomètre vaut un milliardième de mètre, de l'ordre de la distance entre deux atomes. La nanolithographie regroupe des techniques pour graver, déposer ou imprimer des structures de taille nanométrique sur divers matériaux. L'approche descendante part d'un matériau massif et le sculpte, par exemple par lithographie ; c'est la méthode soustractive. L'approche ascendante construit à partir des atomes ou des molécules, par auto-assemblage.
+
+## Graver les puces
+
+La photolithographie est la technique la plus réussie commercialement, capable de motifs bien plus fins que le dixième de micromètre. On distingue quatre familles : la photolithographie, la lithographie à balayage comme celle par faisceau d'électrons, la lithographie douce et des techniques diverses comme la nanoimpression. Elle s'est développée pour répondre au besoin de l'industrie des semi-conducteurs d'augmenter le nombre de transistors par puce. Le microscope à effet tunnel et celui à force atomique ont permis de voir et de manipuler la matière à cette échelle.
+
+## Les ultraviolets extrêmes
+
+La lithographie par ultraviolets extrêmes utilise une lumière de très courte longueur d'onde pour tracer les motifs les plus fins des puces avancées. La lumière est produite en frappant de minuscules gouttes d'étain fondu avec un laser : l'étain devient un plasma qui émet les ultraviolets extrêmes. Le verre et l'air absorbent cette lumière, donc la machine utilise des miroirs au lieu de lentilles et travaille sous vide. Une seule entreprise, ASML, vend aujourd'hui ces machines pour la production de puces ; chacune pèse près de deux cents tonnes et coûte très cher. Ces machines consomment beaucoup d'électricité pour une puissance de lumière modeste. Les nanomatériaux peuvent causer stress oxydant et inflammation, et traversent plus facilement les barrières des cellules que de plus grosses particules.
+
+## À retenir
+
+- Le nanomètre vaut un milliardième de mètre, de l'ordre de la distance entre deux atomes.
+- L'approche descendante part d'un matériau massif et le sculpte, par exemple par lithographie ; c'est la méthode soustractive.
+- L'approche ascendante construit à partir des atomes ou des molécules, par auto-assemblage.
+- La lithographie par ultraviolets extrêmes utilise une lumière de très courte longueur d'onde pour tracer les motifs les plus fins des puces avancées.
+- Le verre et l'air absorbent cette lumière, donc la machine utilise des miroirs au lieu de lentilles et travaille sous vide.
 
 ---
 type: article
-title: Le béton bas carbone et les géopolymères
-slug: le-beton-bas-carbone-et-les-geopolymeres
+title: Peut-on fabriquer du béton sans ciment Portland pour émettre moins de CO2 ?
+slug: peut-on-fabriquer-du-beton-sans-ciment-portland-pour-emettre-moins-de-co2
 categoryPath: technologies-et-ingenierie/genie-civil/materiaux
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le béton bas carbone et les géopolymères.
-tags: [materiaux, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Le ciment émet beaucoup de CO2, en partie à cause de la cuisson du calcaire. Les géopolymères,
+  faits de cendres ou d'argiles activées, émettent moins, mais butent sur les normes.
+tags: [materiaux]
+sources:
+  - title: "Geopolymer"
+    url: "https://en.wikipedia.org/wiki/Geopolymer"
+    publisher: "Wikipedia"
+  - title: "Géopolymère"
+    url: "https://fr.wikipedia.org/wiki/G%C3%A9opolym%C3%A8re"
+    publisher: "Wikipédia"
+  - title: "Cement"
+    url: "https://en.wikipedia.org/wiki/Cement"
+    publisher: "Wikipedia"
+quiz:
+  - question: "D'où vient une grande partie du CO2 du ciment ?"
+    options:
+      - "Du transport des sacs"
+      - "De l'eau de gâchage"
+      - "De la cuisson du calcaire"
+    answer: 3
+    explanation: >
+      Une partie vient de la chimie : cuire le calcaire pour fabriquer la chaux libère du CO2.
+  - question: "Que remplace-t-on pour émettre moins de CO2 ?"
+    options:
+      - "Le sable par du verre"
+      - "L'eau par du sel"
+      - "Une partie du clinker par des cendres ou du laitier"
+    answer: 3
+    explanation: >
+      On réduit déjà les émissions en remplaçant une partie du clinker par des cendres volantes,
+      du laitier ou d'autres matériaux pouzzolaniques.
+  - question: "De quoi sont faits les géopolymères ?"
+    options:
+      - "De plastique fondu"
+      - "De bois compressé"
+      - "D'aluminosilicates activés par une solution alcaline"
+    answer: 3
+    explanation: >
+      Les géopolymères sont des matériaux minéraux fabriqués à partir d'aluminosilicates, comme
+      le métakaolin, les cendres volantes ou le laitier, activés par une solution alcaline.
+  - question: "Quelle difficulté freine les géopolymères ?"
+    options:
+      - "Leur couleur"
+      - "Leur prix en or"
+      - "Le manque de normes adaptées"
+    answer: 3
+    explanation: >
+      Les normes du ciment Portland ne s'appliquent pas à eux : il manque des spécifications
+      adaptées.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le ciment émet beaucoup de CO2, en partie à cause de la cuisson du calcaire. Les géopolymères, faits de cendres ou d'argiles activées, émettent moins, mais butent sur les normes.
+
+## Pourquoi le ciment pèse sur le climat
+
+La production de ciment est responsable d'une part notable des émissions mondiales de CO2. Une partie vient de la chimie : cuire le calcaire pour fabriquer la chaux libère du CO2. L'autre partie vient du combustible brûlé pour chauffer le four à très haute température.
+
+## Déjà possible aujourd'hui
+
+On réduit déjà les émissions en remplaçant une partie du clinker par des cendres volantes, du laitier ou d'autres matériaux pouzzolaniques. Les cimenteries européennes utilisent déjà une part importante de combustibles issus de déchets et de biomasse. La capture et le stockage du carbone émergent aussi, avec des projets en cours en Europe. Le béton réabsorbe une partie du CO2 de l'air au cours de sa vie.
+
+## Les géopolymères, un autre liant
+
+Les géopolymères sont des matériaux minéraux fabriqués à partir d'aluminosilicates, comme le métakaolin, les cendres volantes ou le laitier, activés par une solution alcaline. Ils durcissent à température ambiante ou modérée, en formant un réseau tridimensionnel. Les ciments géopolymères peuvent émettre moins de CO2 que le ciment Portland ordinaire, et ils valorisent des sous-produits industriels. On les utilise aussi pour des revêtements résistant au feu, des composites aéronautiques et l'enrobage de déchets radioactifs. Les normes du ciment Portland ne s'appliquent pas à eux : il manque des spécifications adaptées. Leurs activateurs alcalins sont corrosifs et demandent des précautions, et leur fabrication émet elle-même du CO2. Leurs propriétés varient selon l'origine des matières premières, et certaines formules exigent une cuisson à chaud.
+
+## À retenir
+
+- Une partie vient de la chimie : cuire le calcaire pour fabriquer la chaux libère du CO2.
+- On réduit déjà les émissions en remplaçant une partie du clinker par des cendres volantes, du laitier ou d'autres matériaux pouzzolaniques.
+- Les géopolymères sont des matériaux minéraux faits d'aluminosilicates, comme les cendres volantes, activés par une solution alcaline.
+- Les ciments géopolymères peuvent émettre moins de CO2 que le ciment Portland ordinaire, et ils valorisent des sous-produits industriels.
+- Les normes du ciment Portland ne s'appliquent pas à eux : il manque des spécifications adaptées.
 
 ---
 type: article
@@ -10799,48 +10936,271 @@ status: planned
 
 ---
 type: article
-title: Les exosquelettes et l'aide à la marche
-slug: les-exosquelettes-et-l-aide-a-la-marche
+title: Comment un exosquelette aide-t-il à marcher ou à porter une charge ?
+slug: comment-un-exosquelette-aide-t-il-a-marcher-ou-a-porter-une-charge
 categoryPath: technologies-et-ingenierie/robotique/actionneurs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les exosquelettes et l'aide à la marche.
-tags: [actionneurs, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  Un exosquelette est une structure portée sur le corps pour soutenir ou amplifier le mouvement.
+  Motorisé ou passif, il sert à la rééducation, à la marche et aux métiers physiques.
+tags: [actionneurs]
+sources:
+  - title: "Exoskeleton"
+    url: "https://en.wikipedia.org/wiki/Powered_exoskeleton"
+    publisher: "Wikipedia"
+  - title: "FDA approves Vanderbilt-designed Indego exoskeleton for clinical and personal use"
+    url: "https://www.nibib.nih.gov/news-events/newsroom/fda-approves-vanderbilt-designed-indego-exoskeleton-clinical-and-personal-use"
+    publisher: "NIBIB, Instituts nationaux de la santé (États-Unis)"
+  - title: "Can Robotics Solve Construction's Labor Shortage?"
+    url: "https://www.suretybondprofessionals.com/robotics-labor-shortages-construction/"
+    publisher: "Surety Bond Professionals"
+  - title: "Robots in Construction"
+    url: "https://www.aiplusinfo.com/blog/robots-in-construction/"
+    publisher: "Artificial Intelligence +"
+quiz:
+  - question: "Qu'est-ce qu'un exosquelette ?"
+    options:
+      - "Un squelette de dinosaure"
+      - "Un dispositif porté qui soutient ou amplifie le mouvement"
+      - "Un vêtement de pluie"
+    answer: 2
+    explanation: >
+      Un exosquelette est un dispositif porté sur le corps qui soutient, permet ou amplifie le
+      mouvement, la posture ou l'activité physique, par une interaction mécanique avec
+      l'utilisateur.
+  - question: "En quoi un exosquelette passif diffère-t-il d'un motorisé ?"
+    options:
+      - "Il est toujours plus puissant"
+      - "Il utilise des ressorts, sans moteur"
+      - "Il vole"
+    answer: 2
+    explanation: >
+      Un exosquelette passif repose sur des ressorts et des matériaux élastiques : il est plus
+      léger, mais moins capable.
+  - question: "Pour qui existent les exosquelettes médicaux ?"
+    options:
+      - "Seulement pour les enfants"
+      - "Par exemple après un AVC ou une lésion de la moelle épinière"
+      - "Pour les poissons"
+    answer: 2
+    explanation: >
+      Des exosquelettes médicaux aident des personnes après un accident vasculaire cérébral, une
+      lésion de la moelle épinière ou avec une paralysie cérébrale.
+  - question: "Quelle est une limite des exosquelettes motorisés ?"
+    options:
+      - "Ils sont invisibles"
+      - "Ils parlent trop fort"
+      - "Le poids et l'autonomie de la batterie"
+    answer: 3
+    explanation: >
+      Les obstacles de conception sont le confort, l'ajustement à des corps différents,
+      l'autonomie des batteries et la complexité de la commande.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un exosquelette est une structure portée sur le corps pour soutenir ou amplifier le mouvement. Motorisé ou passif, il sert à la rééducation, à la marche et aux métiers physiques.
+
+## Une structure portée sur le corps
+
+Un exosquelette est un dispositif porté sur le corps qui soutient, permet ou amplifie le mouvement, la posture ou l'activité physique, par une interaction mécanique avec l'utilisateur. Un exosquelette motorisé utilise des moteurs électriques ou des systèmes hydrauliques pour aider le mouvement. Un exosquelette passif repose sur des ressorts et des matériaux élastiques : il est plus léger, mais moins capable. Tous les exosquelettes ne sont donc pas robotiques.
+
+## Aider à marcher
+
+Des exosquelettes médicaux aident des personnes après un accident vasculaire cérébral, une lésion de la moelle épinière ou avec une paralysie cérébrale. Ils soutiennent l'équilibre, la marche, l'atteinte d'objets, la préhension ou la coordination. Ils servent soit temporairement pendant une récupération, soit durablement pour une aide continue. L'exosquelette Indego, conçu par des ingénieurs de l'université Vanderbilt, a été autorisé aux États-Unis pour un usage clinique et personnel.
+
+## Limites et usages professionnels
+
+Les obstacles de conception sont le confort, l'ajustement à des corps différents, l'autonomie des batteries et la complexité de la commande. Les versions motorisées sont plus lourdes et plus chères. Dans l'industrie et le bâtiment, des exosquelettes réduisent la fatigue et le risque de blessure. Plus de cent produits existent sur le marché, et leur usage devrait croître nettement dans les années à venir.
+
+## À retenir
+
+- Un exosquelette est un dispositif porté sur le corps qui soutient ou amplifie le mouvement, par interaction mécanique.
+- Un exosquelette motorisé utilise des moteurs électriques ou des systèmes hydrauliques pour aider le mouvement.
+- Un exosquelette passif repose sur des ressorts et des matériaux élastiques : il est plus léger, mais moins capable.
+- Des exosquelettes médicaux aident des personnes après un accident vasculaire cérébral, une lésion de la moelle épinière ou avec une paralysie cérébrale.
+- Les obstacles de conception sont le confort, l'ajustement à des corps différents, l'autonomie des batteries et la complexité de la commande.
 
 ---
 type: article
-title: L'optimisation topologique pour économiser la matière
-slug: l-optimisation-topologique-pour-economiser-la-matiere
+title: Comment un ordinateur décide-t-il où mettre la matière pour faire des pièces plus légères ?
+slug: comment-un-ordinateur-decide-t-il-ou-mettre-la-matiere-pour-faire-des-pieces-plus-legeres
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'optimisation topologique pour économiser la matière.
-tags: [structures, veille-2026-09]
-priority: 0.79
-essentiel: false
-status: planned
+  L'optimisation topologique répartit la matière dans un volume pour obtenir la pièce la plus
+  rigide à poids donné. Elle donne des formes organiques, de plus en plus fabricables grâce à
+  l'impression 3D.
+tags: [structures]
+sources:
+  - title: "Topology optimization"
+    url: "https://en.wikipedia.org/wiki/Topology_optimization"
+    publisher: "Wikipedia"
+  - title: "Optimisation topologique"
+    url: "https://fr.wikipedia.org/wiki/Optimisation_topologique"
+    publisher: "Wikipédia"
+  - title: "3D printing"
+    url: "https://en.wikipedia.org/wiki/3D_printing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait l'optimisation topologique ?"
+    options:
+      - "Elle répartit la matière dans un volume pour de meilleures performances"
+      - "Elle colorie les pièces"
+      - "Elle mesure les distances"
+    answer: 1
+    explanation: >
+      L'optimisation topologique est une méthode mathématique qui répartit la matière dans un
+      volume donné, pour des charges et des contraintes données, afin de maximiser les
+      performances.
+  - question: "Que cherche-t-on souvent à maximiser ?"
+    options:
+      - "Le bruit"
+      - "La couleur"
+      - "La rigidité pour une masse donnée"
+    answer: 3
+    explanation: >
+      On cherche par exemple la plus grande rigidité, ou la plus petite masse, pour un volume de
+      matière donné.
+  - question: "Pourquoi les formes obtenues sont-elles difficiles à fabriquer classiquement ?"
+    options:
+      - "Elles sont toutes carrées"
+      - "Elles sont organiques et complexes"
+      - "Elles n'ont pas de matière"
+    answer: 2
+    explanation: >
+      Les formes obtenues sont souvent organiques et complexes, difficiles à fabriquer de façon
+      classique.
+  - question: "Quelle technique les fabrique plus facilement ?"
+    options:
+      - "Le martelage à la main"
+      - "La découpe aux ciseaux"
+      - "La fabrication additive, ou impression 3D"
+    answer: 3
+    explanation: >
+      Les résultats peuvent être fabriqués directement par fabrication additive, qui dépose la
+      matière couche par couche, seulement là où il le faut.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'optimisation topologique répartit la matière dans un volume pour obtenir la pièce la plus rigide à poids donné. Elle donne des formes organiques, de plus en plus fabricables grâce à l'impression 3D.
+
+## Un calcul qui sculpte la matière
+
+L'optimisation topologique est une méthode mathématique qui répartit la matière dans un volume donné, pour des charges et des contraintes données, afin de maximiser les performances. Elle diffère de l'optimisation de forme, qui ne fait varier que des contours existants. On cherche par exemple la plus grande rigidité, ou la plus petite masse, pour un volume de matière donné. Le calcul s'appuie sur l'analyse par éléments finis pour évaluer chaque variante de la pièce. Chaque petit élément reçoit une densité entre zéro, aucune matière, et un, matière pleine ; la méthode SIMP pénalise les valeurs intermédiaires.
+
+## Des formes organiques
+
+Les formes obtenues sont souvent organiques et complexes, difficiles à fabriquer de façon classique. On l'utilise en aéronautique, en mécanique, en génie civil et même en biochimie. Elle optimise aussi la conductivité thermique et certains écoulements de fluide. Les logiciels permettent d'économiser de la matière tout en gardant ou en améliorant la solidité. Une étude sur une aile d'avion a annoncé une réduction de masse et des économies de carburant.
+
+## Un lien avec l'impression 3D
+
+Les résultats peuvent être fabriqués directement par fabrication additive, qui dépose la matière couche par couche, seulement là où il le faut. L'impression 3D permet des formes très complexes, creuses ou avec des treillis internes, avec moins de déchets. La recherche intègre des contraintes de fabrication, et des filtres corrigent la dépendance au maillage.
+
+## À retenir
+
+- C'est une méthode mathématique qui répartit la matière dans un volume, pour des charges et contraintes données.
+- On cherche par exemple la plus grande rigidité, ou la plus petite masse, pour un volume de matière donné.
+- Chaque élément reçoit une densité entre zéro et un ; la méthode SIMP pénalise les valeurs intermédiaires.
+- Les formes obtenues sont souvent organiques et complexes, difficiles à fabriquer de façon classique.
+- Les résultats peuvent être fabriqués directement par fabrication additive, qui dépose la matière couche par couche, seulement là où il le faut.
 
 ---
 type: article
-title: Le pont imprimé en 3D et la construction bas carbone
-slug: le-pont-imprime-en-3d-et-la-construction-bas-carbone
+title: Comment des robots impriment-ils des ponts, en béton ou en acier ?
+slug: comment-des-robots-impriment-ils-des-ponts-en-beton-ou-en-acier
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le pont imprimé en 3D et la construction bas carbone.
-tags: [structures, veille-2026-09]
-priority: 0.79
-essentiel: false
-status: planned
+  Des passerelles imprimées en béton ou en acier existent depuis 2016. Imprimer permet de placer
+  la matière là où il faut, donc d'utiliser moins de béton, et donc de ciment, très émetteur de
+  CO2.
+tags: [structures]
+sources:
+  - title: "Construction 3D printing"
+    url: "https://en.wikipedia.org/wiki/Construction_3D_printing"
+    publisher: "Wikipedia"
+  - title: "Cement"
+    url: "https://en.wikipedia.org/wiki/Cement"
+    publisher: "Wikipedia"
+  - title: "MX3D Bridge"
+    url: "https://mx3d.com/case/mx3d-bridge/"
+    publisher: "MX3D"
+  - title: "World's first 3D printed smart bridge placed in heart of Amsterdam"
+    url: "https://www.ams-institute.org/news/worlds-first-3d-printed-smart-bridge-placed-in-heart-of-amsterdam/"
+    publisher: "AMS Institute"
+  - title: "The Most Impressive 3D-Printed Bridge Projects"
+    url: "https://www.3dnatives.com/en/3d-printed-bridge-051120214/"
+    publisher: "3Dnatives"
+  - title: "The engineering behind Europe's first 3D-printed concrete bike bridge"
+    url: "https://interestingengineering.com/case-studies/europes-first-3d-printed-concrete-bike-bridge"
+    publisher: "Interesting Engineering"
+quiz:
+  - question: "Où est la première passerelle en béton imprimé en 3D ?"
+    options:
+      - "À Tokyo"
+      - "À Rio"
+      - "À Alcobendas, près de Madrid"
+    answer: 3
+    explanation: >
+      La première passerelle piétonne en béton imprimé en 3D, à Alcobendas, près de Madrid, a
+      une forme organique inspirée de la nature.
+  - question: "Pourquoi utiliser moins de béton réduit-il les émissions ?"
+    options:
+      - "Parce que le béton est vert"
+      - "Parce que le béton flotte"
+      - "Cela réduit la quantité de ciment, très émettrice de CO2"
+    answer: 3
+    explanation: >
+      Utiliser moins de béton, c'est donc utiliser moins de ciment, et réduire les émissions et
+      le coût sur la durée de vie.
+  - question: "Quel est le matériau du pont imprimé d'Amsterdam ?"
+    options:
+      - "Du bois"
+      - "Du papier"
+      - "De l'acier inoxydable"
+    answer: 3
+    explanation: >
+      À Amsterdam, un pont piéton en acier inoxydable a été imprimé par des robots par dépôt de
+      métal fondu, et mis en service au-dessus d'un canal.
+  - question: "À quoi servent les capteurs du pont d'Amsterdam ?"
+    options:
+      - "À alimenter un jumeau numérique pour suivre son état"
+      - "À jouer de la musique"
+      - "À éclairer les passants"
+    answer: 1
+    explanation: >
+      Des capteurs mesurent déformation, déplacement, vibrations et conditions de l'air, et
+      alimentent un jumeau numérique du pont.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des passerelles imprimées en béton ou en acier existent depuis 2016. Imprimer permet de placer la matière là où il faut, donc d'utiliser moins de béton, et donc de ciment, très émetteur de CO2.
+
+## Les premières passerelles
+
+La première passerelle piétonne en béton imprimé en 3D, à Alcobendas, près de Madrid, a une forme organique inspirée de la nature. À Gemert, aux Pays-Bas, une passerelle pour cyclistes a été imprimée en béton armé et précontraint, puis assemblée.
+
+## Moins de matière, moins de CO2
+
+Plusieurs projets annoncent des économies de matière importantes, car on dépose le béton seulement là où il est utile. La fabrication du ciment est responsable d'environ 8 % des émissions mondiales de CO2. Utiliser moins de béton, c'est donc utiliser moins de ciment, et réduire les émissions et le coût sur la durée de vie.
+
+## Un pont en acier, et les défis
+
+À Amsterdam, un pont piéton en acier inoxydable a été imprimé par des robots par dépôt de métal fondu, et mis en service au-dessus d'un canal. Il a été conçu par Joris Laarman Lab et dimensionné par le bureau d'ingénierie Arup. Des capteurs mesurent déformation, déplacement, vibrations et conditions de l'air, et alimentent un jumeau numérique du pont. L'armature, les règlements de construction et la résistance entre les couches imprimées restent des défis.
+
+## À retenir
+
+- La première passerelle piétonne en béton imprimé en 3D, à Alcobendas, près de Madrid, a une forme organique inspirée de la nature.
+- À Gemert, aux Pays-Bas, une passerelle pour cyclistes a été imprimée en béton armé et précontraint, puis assemblée.
+- La fabrication du ciment est responsable d'environ 8 % des émissions mondiales de CO2.
+- Utiliser moins de béton, c'est donc utiliser moins de ciment, et réduire les émissions et le coût sur la durée de vie.
+- Des capteurs mesurent déformation, déplacement, vibrations et conditions de l'air, et alimentent un jumeau numérique du pont.
 
 ---
 type: article
@@ -10859,78 +11219,422 @@ status: planned
 
 ---
 type: article
-title: Le béton imprimé en 3D et les bâtiments
-slug: le-beton-imprime-en-3d-et-les-batiments
+title: Peut-on vraiment construire une maison en l'imprimant en béton ?
+slug: peut-on-vraiment-construire-une-maison-en-l-imprimant-en-beton
 categoryPath: technologies-et-ingenierie/genie-civil/materiaux
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le béton imprimé en 3D et les bâtiments.
-tags: [materiaux, veille-2026-09]
-priority: 0.78
-essentiel: false
-status: planned
+  Des maisons et des bureaux ont été imprimés couche par couche en béton ou en argile. La
+  méthode promet rapidité et moins de déchets, mais l'armature et les normes restent des défis.
+tags: [materiaux]
+sources:
+  - title: "Construction 3D printing"
+    url: "https://en.wikipedia.org/wiki/Construction_3D_printing"
+    publisher: "Wikipedia"
+  - title: "Impression 3D dans la construction"
+    url: "https://fr.wikipedia.org/wiki/Impression_3D_dans_la_construction"
+    publisher: "Wikipédia"
+  - title: "3D printing"
+    url: "https://en.wikipedia.org/wiki/3D_printing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment imprime-t-on en général un mur en béton ?"
+    options:
+      - "En déposant le béton couche par couche"
+      - "En le versant d'un seul bloc"
+      - "En le découpant dans un rocher"
+    answer: 1
+    explanation: >
+      L'impression 3D dans la construction utilise l'impression comme méthode principale pour
+      fabriquer des bâtiments ou des parties de bâtiments.
+  - question: "Quel avantage met-on en avant ?"
+    options:
+      - "Des délais plus courts et moins de déchets"
+      - "Des murs invisibles"
+      - "Des murs flottants"
+    answer: 1
+    explanation: >
+      Les avantages cités sont des délais plus courts, un coût de main-d'œuvre réduit, des
+      formes plus complexes et précises, et moins de déchets.
+  - question: "Quelle difficulté reste à résoudre ?"
+    options:
+      - "L'intégration de l'armature et les règlements de construction"
+      - "Le manque de gravité"
+      - "Le manque de couleurs"
+    answer: 1
+    explanation: >
+      L'intégration de l'armature dans les murs imprimés est un défi.
+  - question: "Qu'imprime la société XTreeE au large du Cap d'Agde ?"
+    options:
+      - "Des bateaux"
+      - "Des maisons flottantes"
+      - "Des récifs artificiels en béton"
+    answer: 3
+    explanation: >
+      La société française XTreeE imprime aussi des récifs artificiels en béton au large du Cap
+      d'Agde.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des maisons et des bureaux ont été imprimés couche par couche en béton ou en argile. La méthode promet rapidité et moins de déchets, mais l'armature et les normes restent des défis.
+
+## Imprimer des murs
+
+L'impression 3D dans la construction utilise l'impression comme méthode principale pour fabriquer des bâtiments ou des parties de bâtiments. Les principales techniques sont l'extrusion de béton, la liaison de poudre ou de sable par un liant, et le dépôt de métal par soudage à l'arc. Les avantages cités sont des délais plus courts, un coût de main-d'œuvre réduit, des formes plus complexes et précises, et moins de déchets.
+
+## Des réalisations
+
+Un bureau de plusieurs centaines de mètres carrés, présenté comme le premier bâtiment de bureaux imprimé en 3D, a été construit à Dubaï. La maison Tecla, en mélange d'argile, a été imprimée en quelques centaines d'heures. Au Texas, un quartier de maisons imprimées en 3D est présenté comme le plus grand des États-Unis. Une entreprise danoise a réalisé à Copenhague le premier bâtiment imprimé en 3D d'Europe. Une jeune pousse russe a construit en un jour environ une structure résidentielle près de Moscou. La société française XTreeE imprime aussi des récifs artificiels en béton au large du Cap d'Agde.
+
+## Des défis à relever
+
+Les démonstrations de rapidité sont impressionnantes, mais certaines annonces d'entreprises restent contestées. L'intégration de l'armature dans les murs imprimés est un défi. Il faut aussi respecter les règlements de construction, garantir la régularité du matériau et la résistance entre les couches. Reste à prouver que la méthode est rentable par rapport à la construction classique.
+
+## À retenir
+
+- L'impression 3D dans la construction utilise l'impression comme méthode principale pour fabriquer des bâtiments ou des parties de bâtiments.
+- Techniques : extrusion de béton, liaison de sable par un liant, dépôt de métal par soudage à l'arc.
+- Les avantages cités sont des délais plus courts, un coût de main-d'œuvre réduit, des formes plus complexes et précises, et moins de déchets.
+- L'intégration de l'armature dans les murs imprimés est un défi.
+- Il faut aussi respecter les règlements de construction, garantir la régularité du matériau et la résistance entre les couches.
 
 ---
 type: article
-title: Les composites auto-cicatrisants
-slug: les-composites-auto-cicatrisants
+title: Comment un matériau peut-il se réparer tout seul quand il se fissure ?
+slug: comment-un-materiau-peut-il-se-reparer-tout-seul-quand-il-se-fissure
 categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les composites auto-cicatrisants.
-tags: [choix-des-materiaux, veille-2026-09]
-priority: 0.78
-essentiel: false
-status: planned
+  Un matériau autocicatrisant répare lui-même ses dommages, avec des capsules, des canaux comme
+  des vaisseaux ou des liaisons réversibles. Le coût limite encore son usage.
+tags: [choix-des-materiaux]
+sources:
+  - title: "Self-healing material"
+    url: "https://en.wikipedia.org/wiki/Self-healing_material"
+    publisher: "Wikipedia"
+  - title: "Matériau auto-cicatrisant"
+    url: "https://fr.wikipedia.org/wiki/Mat%C3%A9riau_auto-cicatrisant"
+    publisher: "Wikipédia"
+  - title: "Self-healing concrete"
+    url: "https://en.wikipedia.org/wiki/Self-healing_concrete"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un matériau autocicatrisant ?"
+    options:
+      - "Il change de couleur"
+      - "Il devient liquide"
+      - "Il répare lui-même ses dommages"
+    answer: 3
+    explanation: >
+      Un matériau autocicatrisant répare automatiquement ses dommages, sans diagnostic extérieur
+      ni intervention humaine.
+  - question: "Qu'arrive-t-il aux microcapsules quand une fissure se forme ?"
+    options:
+      - "Elles se brisent et libèrent l'agent réparateur"
+      - "Elles s'envolent"
+      - "Elles grossissent"
+    answer: 1
+    explanation: >
+      Quand une fissure se forme, elle brise les microcapsules, qui libèrent leur contenu pour
+      combler la fissure.
+  - question: "Qu'est-ce qu'un réseau vasculaire ?"
+    options:
+      - "Un réseau de câbles électriques"
+      - "Un réseau d'antennes"
+      - "Un réseau de canaux creux qui apporte l'agent réparateur"
+    answer: 3
+    explanation: >
+      Les réseaux vasculaires, des canaux creux inspirés des vaisseaux sanguins, apportent
+      l'agent réparateur aux endroits abîmés.
+  - question: "Pourquoi les systèmes à capsules sont-ils limités ?"
+    options:
+      - "Ils sont trop lourds pour voler"
+      - "Ils ne fonctionnent en général qu'une fois"
+      - "Ils sont invisibles"
+    answer: 2
+    explanation: >
+      Les systèmes à capsules ne fonctionnent en général qu'une fois, car les capsules sont
+      vidées ; les canaux permettent de recharger, mais compliquent la structure.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un matériau autocicatrisant répare lui-même ses dommages, avec des capsules, des canaux comme des vaisseaux ou des liaisons réversibles. Le coût limite encore son usage.
+
+## Réparer sans intervenir
+
+Un matériau autocicatrisant répare automatiquement ses dommages, sans diagnostic extérieur ni intervention humaine. Dans les systèmes extrinsèques, un agent réparateur est stocké à part, dans des microcapsules ou des réseaux de canaux. Quand une fissure se forme, elle brise les microcapsules, qui libèrent leur contenu pour combler la fissure. Les réseaux vasculaires, des canaux creux inspirés des vaisseaux sanguins, apportent l'agent réparateur aux endroits abîmés.
+
+## Les liaisons réversibles
+
+Dans les systèmes intrinsèques, ce sont les propriétés du matériau lui-même qui le réparent, par des liaisons réversibles. Ces liaisons peuvent être supramoléculaires, de type Diels-Alder ou covalentes dynamiques, et se reforment sous l'effet de la chaleur ou de la lumière. On en trouve dans les polymères, les composites renforcés de fibres, les revêtements, les céramiques, les métaux et les matériaux cimentaires. Le béton romain, à base de chaux et de cendres volcaniques, s'est lui aussi réparé pendant des siècles.
+
+## Des limites
+
+La récupération de résistance varie beaucoup d'un système à l'autre ; la plupart des systèmes retrouvent peu de leur résistance. Les systèmes à capsules ne fonctionnent en général qu'une fois, car les capsules sont vidées ; les canaux permettent de recharger, mais compliquent la structure. Le coût, notamment de catalyseurs à base de ruthénium, freine l'adoption à grande échelle. La complexité et le besoin de plusieurs cycles de réparation freinent aussi l'usage commercial. Le même principe vaut pour le béton, où des capsules ou des bactéries réparent les fissures.
+
+## À retenir
+
+- Un matériau autocicatrisant répare automatiquement ses dommages, sans diagnostic extérieur ni intervention humaine.
+- Dans les systèmes extrinsèques, un agent réparateur est stocké à part, dans des microcapsules ou des réseaux de canaux.
+- Quand une fissure se forme, elle brise les microcapsules, qui libèrent leur contenu pour combler la fissure.
+- Dans les systèmes intrinsèques, ce sont les propriétés du matériau lui-même qui le réparent, par des liaisons réversibles.
+- Les capsules ne servent qu'une fois ; les canaux se rechargent, mais compliquent la structure.
 
 ---
 type: article
-title: Les robots de construction
-slug: les-robots-de-construction
+title: Que peuvent faire les robots sur un chantier, et pourquoi n'y remplacent-ils pas les ouvriers ?
+slug: que-peuvent-faire-les-robots-sur-un-chantier-et-pourquoi-n-y-remplacent-ils-pas-les-ouvriers
 categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les robots de construction.
-tags: [robots-mobiles, veille-2026-09]
-priority: 0.78
-essentiel: false
-status: planned
+  Des robots posent des briques, lient des armatures, tracent des plans ou surveillent le
+  chantier. Ils répondent aux pénuries de main-d'œuvre, mais le coût et l'imprévu les limitent.
+tags: [robots-mobiles]
+sources:
+  - title: "Robotics in Construction: Changing the Industry"
+    url: "https://www.clarisdesignbuild.com/how-robots-are-changing-the-construction-industry/"
+    publisher: "Claris Design Build"
+  - title: "Robots in Construction"
+    url: "https://www.aiplusinfo.com/blog/robots-in-construction/"
+    publisher: "Artificial Intelligence +"
+  - title: "Can Robotics Solve Construction's Labor Shortage?"
+    url: "https://www.suretybondprofessionals.com/robotics-labor-shortages-construction/"
+    publisher: "Surety Bond Professionals"
+quiz:
+  - question: "Que font les robots maçons ?"
+    options:
+      - "Ils peignent les murs en rouge"
+      - "Ils posent des briques de façon autonome"
+      - "Ils soufflent le vent"
+    answer: 2
+    explanation: >
+      Des robots maçons posent des briques de façon autonome, avec une grande précision et sans
+      fatigue.
+  - question: "Pourquoi les chantiers adoptent-ils des robots ?"
+    options:
+      - "Pour dormir plus"
+      - "Pour décorer"
+      - "Pénurie de main-d'œuvre, sécurité et productivité"
+    answer: 3
+    explanation: >
+      Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et
+      la réduction des délais.
+  - question: "Que laissent les robots aux ouvriers ?"
+    options:
+      - "La supervision et les décisions qualifiées"
+      - "Rien du tout"
+      - "Seulement le café"
+    answer: 1
+    explanation: >
+      Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se
+      concentrent sur la supervision et les décisions qualifiées.
+  - question: "Les robots sont-ils censés remplacer les ouvriers ?"
+    options:
+      - "Non, ils les soutiennent et exigent une supervision"
+      - "Oui, entièrement"
+      - "Ils décident de tout"
+    answer: 1
+    explanation: >
+      Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision
+      humaine.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des robots posent des briques, lient des armatures, tracent des plans ou surveillent le chantier. Ils répondent aux pénuries de main-d'œuvre, mais le coût et l'imprévu les limitent.
+
+## Poser, lier, tracer
+
+Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue. Des robots lient les armatures en continu, avec un seul ouvrier qui supervise. Des robots de traçage impriment directement les plans sur la dalle du chantier.
+
+## Creuser, démolir, surveiller
+
+Des engins lourds autonomes, comme des excavatrices, déplacent les matériaux. Des robots de démolition télécommandés traitent les tâches dangereuses. Des drones et des robots mobiles équipés de caméras et de lidars surveillent l'avancement.
+
+## Pourquoi, et jusqu'où
+
+Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais. Beaucoup d'ouvriers qualifiés approchent de la retraite, et des postes restent vacants. Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées. Le coût d'achat est un frein, surtout pour les petites entreprises, et il faut intégrer les robots aux méthodes de travail. Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine. Des exosquelettes réduisent la fatigue et le risque de blessure.
+
+## À retenir
+
+- Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue.
+- Des robots lient les armatures en continu, avec un seul ouvrier qui supervise.
+- Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais.
+- Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées.
+- Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine.
 
 ---
 type: article
-title: Les structures gonflables et déployables
-slug: les-structures-gonflables-et-deployables
+title: Comment une structure peut-elle tenir dans un sac, puis se déployer ou se gonfler ?
+slug: comment-une-structure-peut-elle-tenir-dans-un-sac-puis-se-deployer-ou-se-gonfler
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les structures gonflables et déployables.
-tags: [structures, veille-2026-09]
-priority: 0.78
-essentiel: false
-status: planned
+  Les structures gonflables tiennent par la pression de l'air et se replient très petit. Les
+  structures déployables passent d'un état compact à un grand volume, du parapluie aux mâts de
+  satellites.
+tags: [structures]
+sources:
+  - title: "Inflatable"
+    url: "https://en.wikipedia.org/wiki/Inflatable_structure"
+    publisher: "Wikipedia"
+  - title: "Air-supported structure"
+    url: "https://en.wikipedia.org/wiki/Air-supported_structure"
+    publisher: "Wikipedia"
+  - title: "Deployable structure"
+    url: "https://en.wikipedia.org/wiki/Deployable_structure"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui fait tenir une structure à air soutenu ?"
+    options:
+      - "Des briques cachées"
+      - "De l'air sous pression à l'intérieur d'une enveloppe souple"
+      - "Un champ magnétique"
+    answer: 2
+    explanation: >
+      Une structure à air soutenu tient grâce à de l'air sous pression à l'intérieur d'une
+      enveloppe souple, avec un accès par des sas.
+  - question: "Quel est le grand avantage d'un gonflable ?"
+    options:
+      - "Il est toujours très lourd"
+      - "Il se range tout petit une fois dégonflé"
+      - "Il ne craint pas le vent"
+    answer: 2
+    explanation: >
+      Son principal avantage est la compacité : il se range tout petit une fois dégonflé et se
+      déploie vite.
+  - question: "Qu'est-ce qu'une structure déployable ?"
+    options:
+      - "Une structure qui change de forme pour modifier fortement sa taille"
+      - "Une structure qui ne bouge jamais"
+      - "Une structure sous l'eau"
+    answer: 1
+    explanation: >
+      Une structure déployable peut changer de forme de façon à modifier fortement sa taille.
+  - question: "Où utilise-t-on des structures déployables dans l'espace ?"
+    options:
+      - "Pour les cuisines"
+      - "Pour les panneaux solaires et les mâts de satellites"
+      - "Pour les tapis volants"
+    answer: 2
+    explanation: >
+      Dans l'espace, elles servent pour les panneaux solaires et les voiles solaires, comme le
+      mât déployable du télescope NuSTAR.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les structures gonflables tiennent par la pression de l'air et se replient très petit. Les structures déployables passent d'un état compact à un grand volume, du parapluie aux mâts de satellites.
+
+## Tenir grâce à l'air
+
+Un objet gonflable est un objet que l'on gonfle avec un gaz, en général de l'air, pour qu'il garde sa taille et sa forme. Son principal avantage est la compacité : il se range tout petit une fois dégonflé et se déploie vite. Les gonflables à haute pression ont des éléments robustes, comme des piliers et des arches, gonflés fort pour soutenir une membrane passive ; l'intérieur reste à la pression normale. Les gonflables à basse pression sont des espaces légèrement pressurisés, entièrement tenus par la pression interne. Une structure à air soutenu tient grâce à de l'air sous pression à l'intérieur d'une enveloppe souple, avec un accès par des sas. Elle prend le plus souvent la forme d'un hémisphère, d'un ovale ou d'un demi-cylindre.
+
+## Usages et limites
+
+On les emploie pour des installations sportives, des entrepôts, des abris temporaires et des radômes. Sous une forte charge, elles se déforment progressivement au lieu de s'effondrer d'un coup, ce qui donne des signes avant-coureurs. Elles sont sensibles au vent, craignent les perforations et exigent une pression continue. Elles consomment de l'énergie pour la pressurisation, la climatisation et l'éclairage.
+
+## Se déplier
+
+Une structure déployable peut changer de forme de façon à modifier fortement sa taille. Un parapluie en est un exemple, tout comme les structures à tenségrité, bistables, inspirées de l'origami ou à ciseaux. Dans l'espace, elles servent pour les panneaux solaires et les voiles solaires, comme le mât déployable du télescope NuSTAR. On distingue les structures articulées à éléments rigides, l'assemblage en orbite et les structures à grande déformation de matériaux souples.
+
+## À retenir
+
+- Un objet gonflable est un objet que l'on gonfle avec un gaz, en général de l'air, pour qu'il garde sa taille et sa forme.
+- Son principal avantage est la compacité : il se range tout petit une fois dégonflé et se déploie vite.
+- Une structure à air soutenu tient grâce à de l'air sous pression à l'intérieur d'une enveloppe souple, avec un accès par des sas.
+- Elles sont sensibles au vent, craignent les perforations et exigent une pression continue.
+- Une structure déployable peut changer de forme de façon à modifier fortement sa taille.
 
 ---
 type: article
-title: Le béton autocicatrisant
-slug: le-beton-autocicatrisant
+title: Comment des bactéries, des capsules ou la chaux romaine réparent-elles les fissures du béton ?
+slug: comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton
 categoryPath: technologies-et-ingenierie/genie-civil/materiaux
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le béton autocicatrisant.
-tags: [materiaux, veille-2026-09]
-priority: 0.77
-essentiel: false
-status: planned
+  Un béton autocicatrisant répare seul ses fissures, par la prise du ciment, des additifs, des
+  capsules ou des bactéries qui produisent du carbonate de calcium. Le béton romain en offrait
+  un exemple.
+tags: [materiaux]
+sources:
+  - title: "Self-healing concrete"
+    url: "https://en.wikipedia.org/wiki/Self-healing_concrete"
+    publisher: "Wikipedia"
+  - title: "Roman concrete"
+    url: "https://en.wikipedia.org/wiki/Roman_concrete"
+    publisher: "Wikipedia"
+  - title: "Self-healing material"
+    url: "https://en.wikipedia.org/wiki/Self-healing_material"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un béton autocicatrisant ?"
+    options:
+      - "Il répare lui-même ses fissures"
+      - "Il change de couleur"
+      - "Il devient liquide"
+    answer: 1
+    explanation: >
+      Un béton autocicatrisant est un béton capable de réparer lui-même ses fissures, en
+      retrouvant en partie ou en totalité ses propriétés mécaniques.
+  - question: "De quoi a besoin la cicatrisation naturelle d'un béton ?"
+    options:
+      - "D'un fort vent"
+      - "De la présence d'eau"
+      - "De neige"
+    answer: 2
+    explanation: >
+      Cette réparation naturelle ne traite que de fines fissures et demande la présence d'eau.
+  - question: "Que font les bactéries d'un béton bactérien ?"
+    options:
+      - "Elles mangent le béton"
+      - "Elles brillent la nuit"
+      - "Elles précipitent du carbonate de calcium qui comble la fissure"
+    answer: 3
+    explanation: >
+      Dans le béton bactérien, des bactéries précipitent du carbonate de calcium qui comble la
+      fissure, et agissent plus vite en milieu alternativement humide et sec.
+  - question: "Quel exemple ancien de béton autocicatrisant cite-t-on ?"
+    options:
+      - "Le béton moderne en acier"
+      - "Le béton en verre"
+      - "Le béton romain à la chaux et aux cendres volcaniques"
+    answer: 3
+    explanation: >
+      Le béton romain, à base de chaux et de cendres volcaniques, s'est déjà réparé de lui-même
+      pendant des siècles.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un béton autocicatrisant répare seul ses fissures, par la prise du ciment, des additifs, des capsules ou des bactéries qui produisent du carbonate de calcium. Le béton romain en offrait un exemple.
+
+## Réparer ses fissures
+
+Un béton autocicatrisant est un béton capable de réparer lui-même ses fissures, en retrouvant en partie ou en totalité ses propriétés mécaniques. La cicatrisation autogène répare naturellement les très fines fissures, par la poursuite de l'hydratation du ciment ou la carbonatation de la chaux. Cette réparation naturelle ne traite que de fines fissures et demande la présence d'eau. On peut la stimuler avec des additions minérales comme les cendres volantes ou le laitier, des adjuvants cristallins ou des polymères superabsorbants.
+
+## Capsules et bactéries
+
+La microencapsulation place de minuscules capsules dans le béton : elles se rompent avec la fissure et libèrent un agent réparateur. La macroencapsulation emploie de plus gros réservoirs à base de fibres, remplis de produit de réparation. Dans le béton bactérien, des bactéries précipitent du carbonate de calcium qui comble la fissure, et agissent plus vite en milieu alternativement humide et sec.
+
+## Le modèle romain
+
+Le béton romain, à base de chaux et de cendres volcaniques, s'est déjà réparé de lui-même pendant des siècles. Des recherches montrent que des grumeaux de chaux réagissent avec l'eau qui s'infiltre dans les fissures et forment de nouveaux cristaux de carbonate. Dans l'eau de mer, le béton romain forme des cristaux qui le rendent très durable, alors que le béton moderne se détériore en quelques décennies. Le dôme du Panthéon est le plus grand et le plus ancien dôme en béton non armé. On explore des formules inspirées de la méthode romaine avec des cendres volantes de charbon. Le marché du béton autocicatrisant devrait croître fortement.
+
+## À retenir
+
+- Un béton autocicatrisant est un béton capable de réparer lui-même ses fissures, en retrouvant en partie ou en totalité ses propriétés mécaniques.
+- La cicatrisation autogène répare naturellement les très fines fissures, par la poursuite de l'hydratation du ciment ou la carbonatation de la chaux.
+- La microencapsulation place de minuscules capsules dans le béton : elles se rompent avec la fissure et libèrent un agent réparateur.
+- Dans le béton bactérien, des bactéries précipitent du carbonate de calcium qui comble la fissure.
+- Le béton romain, à base de chaux et de cendres volcaniques, s'est déjà réparé de lui-même pendant des siècles.
 
 ---
 type: article
