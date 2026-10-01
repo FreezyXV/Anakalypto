@@ -9795,150 +9795,836 @@ status: planned
 
 ---
 type: article
-title: Les frontières du monde, tracés et contestations
-slug: les-frontieres-du-monde-traces-et-contestations
+title: Comment trace-t-on une frontière, et pourquoi certaines sont-elles contestées ?
+slug: comment-trace-t-on-une-frontiere-et-pourquoi-certaines-sont-elles-contestees
 categoryPath: geographie-et-territoires/geopolitique/frontieres
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les frontières du monde, tracés et contestations.
-tags: [frontieres, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Une frontière peut suivre un fleuve, une montagne ou une ligne droite. Beaucoup ont été
+  tracées par des puissances coloniales sans consulter les peuples, ce qui nourrit des litiges.
+tags: [frontieres]
+sources:
+  - title: "Frontière"
+    url: "https://fr.wikipedia.org/wiki/Fronti%C3%A8re"
+    publisher: "Wikipédia"
+  - title: "Border"
+    url: "https://en.wikipedia.org/wiki/Border"
+    publisher: "Wikipedia"
+  - title: "Berlin Conference"
+    url: "https://en.wikipedia.org/wiki/Berlin_Conference"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que le thalweg ?"
+    options:
+      - "Un type de montagne"
+      - "Une ville frontière"
+      - "La ligne la plus profonde du lit d'un fleuve"
+    answer: 3
+    explanation: >
+      Quand une frontière suit un fleuve, c'est souvent le thalweg, la ligne la plus profonde du
+      lit, qui la marque.
+  - question: "Qu'est-ce qu'une frontière géométrique ?"
+    options:
+      - "Une frontière en forme de cercle seulement"
+      - "Une frontière dessinée par des enfants"
+      - "Une ligne droite qui suit un méridien ou un parallèle"
+    answer: 3
+    explanation: >
+      D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des
+      parallèles, surtout au Sahara et en Amérique du Nord.
+  - question: "Qui a tracé beaucoup de frontières africaines ?"
+    options:
+      - "Les Nations unies en 1900"
+      - "Des puissances coloniales européennes"
+      - "Les peuples africains seuls"
+    answer: 2
+    explanation: >
+      Beaucoup de frontières ont été tracées pendant la colonisation par des puissances
+      européennes, sans consulter les populations.
+  - question: "Pourquoi naissent des litiges frontaliers ?"
+    options:
+      - "Les cartes sont trop colorées"
+      - "Les fleuves sont trop longs"
+      - "Les États voient la frontière avec des intérêts incompatibles"
+    answer: 3
+    explanation: >
+      Un litige naît quand deux États voient la frontière avec des intérêts ou une identité
+      incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une frontière peut suivre un fleuve, une montagne ou une ligne droite. Beaucoup ont été tracées par des puissances coloniales sans consulter les peuples, ce qui nourrit des litiges.
+
+## Ce qu'est une frontière
+
+Une frontière sépare deux territoires, en particulier deux États souverains ; ce peut être une ligne imaginaire ou un espace plus épais. L'idée d'une frontière précise est liée au développement de l'État moderne. Le tracé résulte des rapports de force, de la volonté des peuples ou de la géographie, qui offre des défenses naturelles.
+
+## Suivre la nature ou tirer une ligne
+
+Certaines frontières suivent la nature : fleuves, montagnes, mers, lacs. Quand une frontière suit un fleuve, c'est souvent le thalweg, la ligne la plus profonde du lit, qui la marque. D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des parallèles, surtout au Sahara et en Amérique du Nord. La frontière entre le Canada et les États-Unis suit le 49e parallèle sur une grande longueur. En mer, un État a une souveraineté complète sur ses eaux territoriales, puis des droits économiques dans sa zone économique exclusive.
+
+## L'héritage colonial
+
+Beaucoup de frontières ont été tracées pendant la colonisation par des puissances européennes, sans consulter les populations. La conférence de Berlin a réuni des puissances européennes, sans aucun pays africain invité. Elle a posé le principe de l'occupation effective pour reconnaître les prétentions coloniales. Les partages ignoraient souvent les frontières ethniques, linguistiques et culturelles.
+
+## Pourquoi des litiges ?
+
+Un litige naît quand deux États voient la frontière avec des intérêts ou une identité incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
+
+## À retenir
+
+- Une frontière sépare deux territoires, en particulier deux États souverains ; ce peut être une ligne imaginaire ou un espace plus épais.
+- Certaines frontières suivent la nature : fleuves, montagnes, mers, lacs.
+- D'autres frontières sont géométriques : des lignes droites suivant des méridiens ou des parallèles, surtout au Sahara et en Amérique du Nord.
+- Beaucoup de frontières ont été tracées pendant la colonisation par des puissances européennes, sans consulter les populations.
+- Un litige naît quand deux États voient la frontière avec des intérêts ou une identité incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
 
 ---
 type: article
-title: Les lignes de partage des eaux et les bassins versants
-slug: les-lignes-de-partage-des-eaux-et-les-bassins-versants
+title: Où va la pluie qui tombe de chaque côté d'une crête ?
+slug: ou-va-la-pluie-qui-tombe-de-chaque-cote-d-une-crete
 categoryPath: geographie-et-territoires/geographie-physique/hydrographie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les lignes de partage des eaux et les bassins versants.
-tags: [hydrographie, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Un bassin versant est le territoire dont toutes les eaux rejoignent un même cours d'eau ou une
+  même mer. La ligne de partage des eaux, souvent une crête, sépare deux bassins voisins.
+tags: [hydrographie]
+sources:
+  - title: "Bassin versant"
+    url: "https://fr.wikipedia.org/wiki/Bassin_versant"
+    publisher: "Wikipédia"
+  - title: "Drainage divide"
+    url: "https://en.wikipedia.org/wiki/Drainage_divide"
+    publisher: "Wikipedia"
+  - title: "Drainage basin"
+    url: "https://en.wikipedia.org/wiki/Drainage_basin"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'un bassin versant ?"
+    options:
+      - "Un bassin de piscine"
+      - "Un territoire dont toutes les eaux convergent vers un même cours d'eau ou une même mer"
+      - "Un lac artificiel"
+    answer: 2
+    explanation: >
+      Un bassin versant est un territoire dont toutes les eaux de ruissellement convergent vers
+      un même cours d'eau ou une même mer.
+  - question: "Que suit souvent la ligne de partage des eaux en montagne ?"
+    options:
+      - "Les vallées"
+      - "Les crêtes"
+      - "Les autoroutes"
+    answer: 2
+    explanation: >
+      La ligne de partage des eaux est la limite entre deux bassins voisins : en montagne, elle
+      suit les crêtes.
+  - question: "Quel est le plus grand bassin du monde ?"
+    options:
+      - "Celui de la Seine"
+      - "Celui du Rhône"
+      - "Celui de l'Amazone"
+    answer: 3
+    explanation: >
+      Le plus grand bassin du monde est celui de l'Amazone.
+  - question: "Pourquoi gère-t-on l'eau par bassin ?"
+    options:
+      - "Pour changer la couleur des rivières"
+      - "Pour supprimer les montagnes"
+      - "Ce qui se passe en amont touche l'aval"
+    answer: 3
+    explanation: >
+      L'eau, les sédiments et les polluants circulent à l'intérieur d'un bassin : ce qui se
+      passe en amont touche l'aval.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un bassin versant est le territoire dont toutes les eaux rejoignent un même cours d'eau ou une même mer. La ligne de partage des eaux, souvent une crête, sépare deux bassins voisins.
+
+## Un territoire, un exutoire
+
+Un bassin versant est un territoire dont toutes les eaux de ruissellement convergent vers un même cours d'eau ou une même mer. Les bassins s'emboîtent : de petits bassins se jettent dans de plus grands, aux confluences. Le plus grand bassin du monde est celui de l'Amazone. En France métropolitaine, les grands bassins correspondent aux fleuves Seine, Loire, Garonne, Rhône et Rhin-Meuse, avec l'Artois-Picardie.
+
+## La ligne de partage des eaux
+
+La ligne de partage des eaux est la limite entre deux bassins voisins : en montagne, elle suit les crêtes. Une goutte de pluie qui tombe d'un côté de la ligne rejoint un cours d'eau, et de l'autre côté un autre. Une ligne de partage continentale sépare les eaux qui vont vers des océans différents, comme la ligne de partage des Amériques. En terrain plat, la ligne de partage peut être difficile à repérer. Il existe des lignes majeures, qui séparent des eaux qui ne se rejoindront jamais, et des lignes mineures, qui séparent des eaux qui finissent par se retrouver à une confluence.
+
+## Pourquoi c'est utile
+
+L'eau est gérée par bassin : les agences de l'eau ont été créées pour cela. L'eau, les sédiments et les polluants circulent à l'intérieur d'un bassin : ce qui se passe en amont touche l'aval. Les lignes de partage ont parfois servi de frontières, et l'on a creusé des canaux ou des portages pour franchir ces barrières naturelles.
+
+## À retenir
+
+- Un bassin versant est un territoire dont toutes les eaux de ruissellement convergent vers un même cours d'eau ou une même mer.
+- La ligne de partage des eaux est la limite entre deux bassins voisins : en montagne, elle suit les crêtes.
+- Une goutte de pluie qui tombe d'un côté de la ligne rejoint un cours d'eau, et de l'autre côté un autre.
+- Une ligne de partage continentale sépare les eaux qui vont vers des océans différents, comme la ligne de partage des Amériques.
+- L'eau est gérée par bassin : les agences de l'eau ont été créées pour cela.
 
 ---
 type: article
-title: La taille réelle des pays sur une carte
-slug: la-taille-reelle-des-pays-sur-une-carte
+title: Pourquoi le Groenland paraît-il aussi grand que l'Afrique sur une carte ?
+slug: pourquoi-le-groenland-parait-il-aussi-grand-que-l-afrique-sur-une-carte
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la taille réelle des pays sur une carte.
-tags: [reliefs, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  La projection de Mercator conserve les angles, très utile aux marins, mais elle agrandit les
+  terres lointaines de l'équateur. Aucune projection ne peut tout conserver : on choisit selon
+  l'usage.
+tags: [reliefs]
+sources:
+  - title: "Projection de Mercator"
+    url: "https://fr.wikipedia.org/wiki/Projection_de_Mercator"
+    publisher: "Wikipédia"
+  - title: "Mercator projection"
+    url: "https://en.wikipedia.org/wiki/Mercator_projection"
+    publisher: "Wikipedia"
+  - title: "Map projection"
+    url: "https://en.wikipedia.org/wiki/Map_projection"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pour quel usage la projection de Mercator est-elle conçue ?"
+    options:
+      - "La météo"
+      - "La navigation maritime"
+      - "La randonnée"
+    answer: 2
+    explanation: >
+      La projection de Mercator, créée par le cartographe flamand Gérard Mercator, est conçue
+      pour la navigation maritime.
+  - question: "Que conserve la projection de Mercator ?"
+    options:
+      - "Les surfaces"
+      - "Les angles"
+      - "Les distances partout"
+    answer: 2
+    explanation: >
+      Elle conserve les angles : une route à cap constant y apparaît comme une ligne droite,
+      très utile avec une boussole.
+  - question: "Quelle région paraît beaucoup plus grande qu'en réalité ?"
+    options:
+      - "Celles qui sont à l'équateur"
+      - "Aucune"
+      - "Celles qui sont loin de l'équateur"
+    answer: 3
+    explanation: >
+      Mais elle déforme les surfaces : l'agrandissement augmente quand on s'éloigne de
+      l'équateur.
+  - question: "Existe-t-il une projection qui conserve à la fois les angles et les surfaces ?"
+    options:
+      - "Oui, la plus récente"
+      - "Oui, avec un ordinateur"
+      - "Non, c'est impossible"
+    answer: 3
+    explanation: >
+      Aucune projection ne peut conserver à la fois les angles et les surfaces : on ne peut pas
+      aplatir une sphère sans la déformer.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La projection de Mercator conserve les angles, très utile aux marins, mais elle agrandit les terres lointaines de l'équateur. Aucune projection ne peut tout conserver : on choisit selon l'usage.
+
+## Une carte pour les marins
+
+La projection de Mercator, créée par le cartographe flamand Gérard Mercator, est conçue pour la navigation maritime. Elle conserve les angles : une route à cap constant y apparaît comme une ligne droite, très utile avec une boussole. Mercator reste le standard des cartes marines et des cartes en ligne, alors que les atlas scolaires ont adopté d'autres projections.
+
+## Des tailles trompeuses
+
+Mais elle déforme les surfaces : l'agrandissement augmente quand on s'éloigne de l'équateur. Sur ces cartes, le Groenland paraît aussi grand que l'Afrique, alors que l'Afrique est bien plus étendue. L'Alaska paraît presque aussi grand que l'Australie, alors qu'il en est bien plus petit. Les critiques jugent Mercator mal adaptée aux planisphères d'école, car elle grossit les pays du Nord.
+
+## Aucune carte parfaite
+
+Aucune projection ne peut conserver à la fois les angles et les surfaces : on ne peut pas aplatir une sphère sans la déformer. Le mathématicien Carl Friedrich Gauss a démontré qu'on ne peut pas représenter une sphère sur un plan sans déformation. Une carte peut déformer les surfaces, les formes, les distances ou les directions. Les projections qui conservent les surfaces montrent les bonnes tailles relatives, mais déforment les formes. Les ellipses de Tissot servent à visualiser où et à quel point une projection déforme. Parmi les alternatives à Mercator : Gall-Peters, Robinson, Winkel tripel, ou des projections qui conservent les surfaces.
+
+## À retenir
+
+- La projection de Mercator, créée par le cartographe flamand Gérard Mercator, est conçue pour la navigation maritime.
+- Elle conserve les angles : une route à cap constant y est une ligne droite, très utile avec une boussole.
+- Mais elle déforme les surfaces : l'agrandissement augmente quand on s'éloigne de l'équateur.
+- Sur ces cartes, le Groenland paraît aussi grand que l'Afrique, alors que l'Afrique est bien plus étendue.
+- Aucune projection ne conserve à la fois les angles et les surfaces : on ne peut pas aplatir une sphère sans la déformer.
 
 ---
 type: article
-title: Les déserts du monde et leurs superficies
-slug: les-deserts-du-monde-et-leurs-superficies
+title: Quel est le plus grand désert du monde, et est-ce vraiment le Sahara ?
+slug: quel-est-le-plus-grand-desert-du-monde-et-est-ce-vraiment-le-sahara
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les déserts du monde et leurs superficies.
-tags: [reliefs, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Un désert est une région où il pleut très peu. Les plus grands déserts du monde sont polaires
+  : l'Antarctique et l'Arctique. Le Sahara est le plus grand désert chaud.
+tags: [reliefs]
+sources:
+  - title: "Désert"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9sert"
+    publisher: "Wikipédia"
+  - title: "List of deserts by area"
+    url: "https://en.wikipedia.org/wiki/List_of_deserts_by_area"
+    publisher: "Wikipedia"
+  - title: "Sahara"
+    url: "https://en.wikipedia.org/wiki/Sahara"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui définit un désert ?"
+    options:
+      - "Il y fait toujours chaud"
+      - "Il est couvert de sable"
+      - "Il y pleut très peu"
+    answer: 3
+    explanation: >
+      Un désert est une région où les précipitations sont très rares et où l'évaporation dépasse
+      la pluie.
+  - question: "Quel type de désert est le plus étendu ?"
+    options:
+      - "Les déserts côtiers"
+      - "Les déserts polaires"
+      - "Les déserts de sable"
+    answer: 2
+    explanation: >
+      Les plus grands déserts du monde sont polaires : l'Antarctique, puis l'Arctique, devant le
+      Sahara.
+  - question: "Quel est le plus grand désert chaud du monde ?"
+    options:
+      - "Le Sahara"
+      - "Le Gobi"
+      - "Le Kalahari"
+    answer: 1
+    explanation: >
+      Le Sahara est le plus grand désert chaud du monde, et il couvre près d'un tiers de
+      l'Afrique.
+  - question: "Les déserts sont-ils faits uniquement de dunes de sable ?"
+    options:
+      - "Non, il y a aussi des plateaux rocheux et des graviers"
+      - "Oui, uniquement de dunes"
+      - "Oui, uniquement de glace"
+    answer: 1
+    explanation: >
+      Les dunes de sable ne couvrent qu'une partie des déserts : on y trouve aussi des plateaux
+      rocheux, des plaines de graviers et des lits asséchés.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un désert est une région où il pleut très peu. Les plus grands déserts du monde sont polaires : l'Antarctique et l'Arctique. Le Sahara est le plus grand désert chaud.
+
+## Qu'est-ce qu'un désert ?
+
+Un désert est une région où les précipitations sont très rares et où l'évaporation dépasse la pluie. On distingue des déserts chauds, froids, polaires et côtiers. Les zones arides et semi-arides couvrent environ un tiers des terres émergées. Les dunes de sable ne couvrent qu'une partie des déserts : on y trouve aussi des plateaux rocheux, des plaines de graviers et des lits asséchés.
+
+## Le classement des déserts
+
+Les plus grands déserts du monde sont polaires : l'Antarctique, puis l'Arctique, devant le Sahara. Le classement des déserts par superficie met en tête l'Antarctique, l'Arctique et le Sahara, suivis du désert d'Arabie, du désert australien et du Gobi. Le Sahara est le plus grand désert chaud du monde, et il couvre près d'un tiers de l'Afrique. Il s'étend sur de nombreux pays : l'Algérie, le Tchad, l'Égypte, la Libye, le Mali, la Mauritanie, le Niger, le Soudan, et une partie du Maroc et de la Tunisie.
+
+## Vivre dans un désert
+
+Des plantes et des animaux s'y sont adaptés pour économiser l'eau et réguler leur température : plantes grasses, chameaux, reptiles, animaux nocturnes. Des peuples vivent dans les déserts : nomades, éleveurs et agriculteurs des oasis. Dans le Sahara, le sable est brûlant le jour, et les écarts de température entre le jour et la nuit sont importants. Le Sahara a alterné entre désert et savane au fil de cycles liés aux variations de l'orbite de la Terre.
+
+## À retenir
+
+- Un désert est une région où les précipitations sont très rares et où l'évaporation dépasse la pluie.
+- Les plus grands déserts du monde sont polaires : l'Antarctique, puis l'Arctique, devant le Sahara.
+- Le Sahara est le plus grand désert chaud du monde, et il couvre près d'un tiers de l'Afrique.
+- Les dunes ne couvrent qu'une partie des déserts : on y trouve aussi des plateaux rocheux et des plaines de graviers.
+- Des plantes et des animaux s'y sont adaptés pour économiser l'eau et réguler leur température : plantes grasses, chameaux, reptiles, animaux nocturnes.
 
 ---
 type: article
-title: Les fuseaux horaires, pourquoi 24 tranches
-slug: les-fuseaux-horaires-pourquoi-24-tranches
+title: Pourquoi la Terre est-elle découpée en 24 fuseaux horaires ?
+slug: pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les fuseaux horaires, pourquoi 24 tranches.
-tags: [climatologie, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  La Terre tourne sur elle-même en 24 heures, donc on la découpe en 24 tranches de longitude. Le
+  méridien de Greenwich sert de référence, mais les limites suivent souvent les frontières des
+  pays.
+tags: [climatologie]
+sources:
+  - title: "Fuseau horaire"
+    url: "https://fr.wikipedia.org/wiki/Fuseau_horaire"
+    publisher: "Wikipédia"
+  - title: "Time zone"
+    url: "https://en.wikipedia.org/wiki/Time_zone"
+    publisher: "Wikipedia"
+  - title: "International Meridian Conference"
+    url: "https://en.wikipedia.org/wiki/International_Meridian_Conference"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi y a-t-il 24 fuseaux horaires ?"
+    options:
+      - "La Terre tourne sur elle-même en 24 heures"
+      - "Il y a 24 pays"
+      - "Le Soleil a 24 rayons"
+    answer: 1
+    explanation: >
+      En une journée, la Terre fait un tour complet sur elle-même : on la découpe donc en 24
+      tranches de longitude, une par heure.
+  - question: "Quel méridien sert de référence ?"
+    options:
+      - "Celui de Pékin"
+      - "Celui de Rio"
+      - "Celui de Greenwich"
+    answer: 3
+    explanation: >
+      Le méridien de Greenwich sert de référence, et les fuseaux se définissent par leur
+      décalage avec le temps universel coordonné, l'UTC.
+  - question: "Que fait la Chine ?"
+    options:
+      - "Elle n'a pas d'heure"
+      - "Elle utilise un seul fuseau horaire pour tout son territoire"
+      - "Elle utilise 24 fuseaux"
+    answer: 2
+    explanation: >
+      La Chine utilise un seul fuseau horaire pour tout son territoire, alors qu'il en couvre
+      théoriquement plusieurs.
+  - question: "Quel pays utilise un décalage de 30 minutes ?"
+    options:
+      - "La Norvège"
+      - "L'Inde"
+      - "Le Brésil"
+    answer: 2
+    explanation: >
+      Certains pays utilisent des décalages de 30 ou 45 minutes, comme l'Inde et le Népal.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La Terre tourne sur elle-même en 24 heures, donc on la découpe en 24 tranches de longitude. Le méridien de Greenwich sert de référence, mais les limites suivent souvent les frontières des pays.
+
+## Un tour de Terre, 24 tranches
+
+En une journée, la Terre fait un tour complet sur elle-même : on la découpe donc en 24 tranches de longitude, une par heure. Le méridien de Greenwich sert de référence, et les fuseaux se définissent par leur décalage avec le temps universel coordonné, l'UTC. Les limites des fuseaux suivent souvent les frontières des pays plutôt que les méridiens exacts.
+
+## Comment on a choisi Greenwich
+
+Une conférence internationale à Washington a choisi Greenwich comme méridien d'origine ; elle n'a pas imposé les fuseaux horaires, que chaque pays a adoptés librement. La France s'est abstenue lors du vote et a gardé l'heure de Paris pendant plusieurs décennies. Les chemins de fer, qui avaient besoin d'horaires communs, ont poussé à unifier l'heure.
+
+## Des exceptions
+
+Certains pays utilisent des décalages de 30 ou 45 minutes, comme l'Inde et le Népal. La Chine utilise un seul fuseau horaire pour tout son territoire, alors qu'il en couvre théoriquement plusieurs. La France métropolitaine suit l'heure UTC+1, et UTC+2 en été ; avec ses territoires d'outre-mer, elle couvre de nombreux fuseaux horaires. La ligne de changement de date marque l'endroit où l'on change de jour calendaire. Dans beaucoup de pays, on avance l'horloge d'une heure au printemps et en été.
+
+## À retenir
+
+- La Terre fait un tour en 24 heures : on la découpe en 24 tranches de longitude, une par heure.
+- Le méridien de Greenwich sert de référence, et les fuseaux se définissent par leur décalage avec le temps universel coordonné, l'UTC.
+- Une conférence à Washington a choisi Greenwich comme méridien d'origine, sans imposer les fuseaux horaires.
+- Les limites des fuseaux suivent souvent les frontières des pays plutôt que les méridiens exacts.
+- Certains pays utilisent des décalages de 30 ou 45 minutes, comme l'Inde et le Népal.
 
 ---
 type: article
-title: Les migrations internes en France
-slug: les-migrations-internes-en-france
+title: Quelles régions de France attirent le plus de nouveaux habitants ?
+slug: quelles-regions-de-france-attirent-le-plus-de-nouveaux-habitants
 categoryPath: geographie-et-territoires/geographie-humaine/migrations
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les migrations internes en France.
-tags: [migrations, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Les Français déménagent moins qu'avant. L'Ouest et le Sud-Ouest attirent, l'Île-de-France et
+  les centres denses perdent des habitants au profit des zones périurbaines.
+tags: [migrations]
+sources:
+  - title: "Moins de déménagements en dix ans, mais l'Ouest et le périurbain toujours attractifs"
+    url: "https://www.insee.fr/fr/statistiques/8648157"
+    publisher: "Insee Première"
+  - title: "Entre 2015 et 2021, la croissance démographique est deux fois plus élevée dans l'espace urbain que dans le rural"
+    url: "https://www.insee.fr/fr/statistiques/7726965"
+    publisher: "Insee Focus"
+  - title: "Du nord au sud, les mouvements naturels et migratoires opposent les départements"
+    url: "https://www.insee.fr/fr/statistiques/3288449"
+    publisher: "Insee Focus"
+quiz:
+  - question: "Les Français déménagent-ils plus ou moins qu'il y a dix ans ?"
+    options:
+      - "Moins"
+      - "Beaucoup plus"
+      - "Exactement autant"
+    answer: 1
+    explanation: >
+      Les Français déménagent moins qu'il y a dix ans.
+  - question: "Quelles régions attirent des habitants venus d'autres régions ?"
+    options:
+      - "Le Grand Est seulement"
+      - "La Bretagne, l'Occitanie et la Nouvelle-Aquitaine"
+      - "L'Île-de-France seulement"
+    answer: 2
+    explanation: >
+      L'Ouest et le Sud-Ouest attirent : la Bretagne, l'Occitanie et la Nouvelle-Aquitaine
+      gagnent des habitants grâce aux arrivées en provenance d'autres régions.
+  - question: "Que gagnent les espaces périurbains ?"
+    options:
+      - "Des volcans"
+      - "Des habitants grâce aux déménagements"
+      - "Des ports"
+    answer: 2
+    explanation: >
+      Les espaces périurbains gagnent des habitants grâce aux déménagements.
+  - question: "Que signifie solde migratoire ?"
+    options:
+      - "Les arrivées moins les départs"
+      - "Les naissances moins les décès"
+      - "Le nombre de maisons"
+    answer: 1
+    explanation: >
+      La croissance d'un territoire repose sur deux soldes : le solde naturel, naissances moins
+      décès, et le solde migratoire, arrivées moins départs.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les Français déménagent moins qu'avant. L'Ouest et le Sud-Ouest attirent, l'Île-de-France et les centres denses perdent des habitants au profit des zones périurbaines.
+
+## Moins de déménagements
+
+Les Français déménagent moins qu'il y a dix ans. Les jeunes adultes sont les plus mobiles, notamment pour leurs études. Le vieillissement de la population explique une partie de la baisse des déménagements.
+
+## Où l'on va, où l'on part
+
+L'Ouest et le Sud-Ouest attirent : la Bretagne, l'Occitanie et la Nouvelle-Aquitaine gagnent des habitants grâce aux arrivées en provenance d'autres régions. L'Île-de-France perd des habitants dans ses échanges avec les autres régions, et cela dure. Les centres urbains denses perdent des habitants au profit des zones qui les entourent. Les espaces périurbains gagnent des habitants grâce aux déménagements.
+
+## La carte de la croissance
+
+La croissance d'un territoire repose sur deux soldes : le solde naturel, naissances moins décès, et le solde migratoire, arrivées moins départs. Le solde naturel a faibli, et la croissance démographique du pays a ralenti. La population a augmenté plus vite dans l'espace urbain que dans le rural. Les mouvements naturels et migratoires opposent les départements du nord et du sud : le Sud et l'Ouest attirent, le nord-est perd des habitants. De nombreux départements du nord-est, du centre et du Massif central perdent des habitants. La croissance est la plus forte autour de Paris, sur la façade atlantique, dans le Sud et dans la vallée du Rhône.
+
+## À retenir
+
+- Les Français déménagent moins qu'il y a dix ans.
+- L'Ouest et le Sud-Ouest attirent : Bretagne, Occitanie et Nouvelle-Aquitaine gagnent des habitants grâce aux arrivées d'autres régions.
+- L'Île-de-France perd des habitants dans ses échanges avec les autres régions, et cela dure.
+- Les espaces périurbains gagnent des habitants grâce aux déménagements.
+- Le Sud et l'Ouest attirent des habitants, le nord-est en perd.
 
 ---
 type: article
-title: Les territoires d'outre-mer français, un espace dispersé
-slug: les-territoires-d-outre-mer-francais-un-espace-disperse
+title: Pourquoi les outre-mer donnent-ils à la France un territoire si dispersé ?
+slug: pourquoi-les-outre-mer-donnent-ils-a-la-france-un-territoire-si-disperse
 categoryPath: geographie-et-territoires/geographie-physique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les territoires d'outre-mer français, un espace dispersé.
-tags: [geographie-physique, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs
+  zones maritimes sont immenses : la France a la deuxième plus grande zone économique exclusive
+  du monde.
+tags: [geographie-physique]
+sources:
+  - title: "Outre-mer français"
+    url: "https://fr.wikipedia.org/wiki/Outre-mer_fran%C3%A7ais"
+    publisher: "Wikipédia"
+  - title: "Zone économique exclusive"
+    url: "https://fr.wikipedia.org/wiki/Zone_%C3%A9conomique_exclusive"
+    publisher: "Wikipédia"
+  - title: "Les zones économiques exclusives ultramarines : le moment de vérité"
+    url: "https://www.senat.fr/rap/r13-430/r13-43012.html"
+    publisher: "Sénat"
+quiz:
+  - question: "Dans combien d'océans environ s'étendent les outre-mer ? Lesquels ?"
+    options:
+      - "Seulement l'Atlantique"
+      - "Atlantique, Pacifique, Indien et Antarctique"
+      - "Seulement la Méditerranée"
+    answer: 2
+    explanation: >
+      Les outre-mer français sont des territoires répartis sur plusieurs océans : Atlantique,
+      Pacifique, Indien et Antarctique.
+  - question: "Qu'est-ce qu'une zone économique exclusive ?"
+    options:
+      - "Une zone maritime où l'État a des droits sur les ressources"
+      - "Un parc d'attractions"
+      - "Un port de pêche"
+    answer: 1
+    explanation: >
+      Une zone économique exclusive, ou ZEE, s'étend loin au large des côtes ; l'État y a des
+      droits sur les ressources de la mer et du sous-sol.
+  - question: "Quel rang occupe la France pour sa ZEE ?"
+    options:
+      - "Dernière"
+      - "Deuxième du monde, derrière les États-Unis"
+      - "Première du monde"
+    answer: 2
+    explanation: >
+      La France a la deuxième plus grande ZEE du monde, derrière les États-Unis.
+  - question: "Où se situe presque toute la ZEE française ?"
+    options:
+      - "Dans la Manche"
+      - "Outre-mer"
+      - "En Bretagne"
+    answer: 2
+    explanation: >
+      La quasi-totalité de la ZEE française se situe outre-mer.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les outre-mer français s'étendent sur plusieurs océans. Leurs terres sont petites, mais leurs zones maritimes sont immenses : la France a la deuxième plus grande zone économique exclusive du monde.
+
+## Un espace éclaté
+
+Les outre-mer français sont des territoires répartis sur plusieurs océans : Atlantique, Pacifique, Indien et Antarctique. Parmi eux figurent la Guadeloupe, la Martinique, la Guyane, La Réunion, Mayotte, la Polynésie française et la Nouvelle-Calédonie. Ils n'ont pas tous le même statut : départements et régions d'outre-mer, collectivités d'outre-mer, et des cas particuliers comme la Nouvelle-Calédonie. La plupart sont des îles ou des archipels sous climat tropical ou équatorial, exposés à des risques naturels.
+
+## Peu de terres, beaucoup de mer
+
+Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes. Une zone économique exclusive, ou ZEE, s'étend loin au large des côtes ; l'État y a des droits sur les ressources de la mer et du sous-sol. Ce régime vient de la convention des Nations unies sur le droit de la mer, signée à Montego Bay.
+
+## La deuxième ZEE du monde
+
+La France a la deuxième plus grande ZEE du monde, derrière les États-Unis. La quasi-totalité de la ZEE française se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
+
+## À retenir
+
+- Les outre-mer français sont des territoires répartis sur plusieurs océans : Atlantique, Pacifique, Indien et Antarctique.
+- Ils n'ont pas tous le même statut : départements et régions d'outre-mer, collectivités d'outre-mer, et des cas particuliers comme la Nouvelle-Calédonie.
+- Leur surface de terres émergées est petite, mais ils s'étendent sur de très vastes zones maritimes.
+- Une zone économique exclusive, ou ZEE, s'étend au large des côtes ; l'État y a des droits sur les ressources.
+- La France a la deuxième plus grande ZEE du monde, derrière les États-Unis.
 
 ---
 type: article
-title: La maritimisation de l'économie mondiale et les flux
-slug: la-maritimisation-de-l-economie-mondiale-et-les-flux
+title: Comment un conteneur traverse-t-il le monde par la mer ?
+slug: comment-un-conteneur-traverse-t-il-le-monde-par-la-mer
 categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la maritimisation de l'économie mondiale et les flux.
-tags: [routes-et-detroits, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Le
+  conteneur standardisé, de grands ports et quelques passages obligés organisent ces flux.
+tags: [routes-et-detroits]
+sources:
+  - title: "Transport maritime"
+    url: "https://fr.wikipedia.org/wiki/Transport_maritime"
+    publisher: "Wikipédia"
+  - title: "Maritime transport"
+    url: "https://en.wikipedia.org/wiki/Maritime_transport"
+    publisher: "Wikipedia"
+  - title: "Containerization"
+    url: "https://en.wikipedia.org/wiki/Containerization"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle voie transporte la plus grande part du commerce mondial en volume ?"
+    options:
+      - "Les airs"
+      - "Les chemins de fer"
+      - "La mer"
+    answer: 3
+    explanation: >
+      La grande majorité du commerce mondial de marchandises, en volume, passe par la mer.
+  - question: "Qu'est-ce qui a révolutionné le transport maritime ?"
+    options:
+      - "Le conteneur standardisé"
+      - "La voile"
+      - "Le téléphone"
+    answer: 1
+    explanation: >
+      Le conteneur, une boîte standardisée, a révolutionné le transport maritime.
+  - question: "Citez un passage obligé du commerce maritime."
+    options:
+      - "Le lac Léman"
+      - "Le canal de Suez"
+      - "La Seine"
+    answer: 2
+    explanation: >
+      Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le
+      détroit de Malacca.
+  - question: "Que signifie EVP ?"
+    options:
+      - "Équivalent vingt pieds, une unité de mesure des conteneurs"
+      - "Entrée vers le port"
+      - "Ensemble de voiles"
+    answer: 1
+    explanation: >
+      Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP,
+      équivalents vingt pieds.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Le conteneur standardisé, de grands ports et quelques passages obligés organisent ces flux.
+
+## La mer, première voie du commerce
+
+La grande majorité du commerce mondial de marchandises, en volume, passe par la mer. Des dizaines de milliers de navires marchands forment la flotte mondiale. Cette flotte comprend surtout des vraquiers, des porte-conteneurs et des cargos de marchandises générales. Les grands ports, comme Shanghai et Singapour, concentrent les flux. Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le détroit de Malacca.
+
+## Le conteneur, une révolution
+
+Le conteneur, une boîte standardisée, a révolutionné le transport maritime. Le transporteur américain Malcom McLean a lancé le conteneur moderne avec l'ingénieur Keith Tantlinger. Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP, équivalents vingt pieds. La conteneurisation a fortement réduit le coût de manutention et soutenu la mondialisation des échanges. Elle a fait décliner certains ports et fait émerger d'autres, comme Rotterdam et Felixstowe.
+
+## Un coût environnemental
+
+Le transport maritime représente une part notable des émissions de gaz à effet de serre et pollue l'air des zones côtières. La teneur maximale en soufre des carburants marins a été fortement réduite pour limiter cette pollution.
+
+## À retenir
+
+- La grande majorité du commerce mondial de marchandises, en volume, passe par la mer.
+- Le conteneur, une boîte standardisée, a révolutionné le transport maritime.
+- Des normes ISO fixent les tailles et les repères des conteneurs, mesurés en EVP, équivalents vingt pieds.
+- Les grands ports, comme Shanghai et Singapour, concentrent les flux.
+- Les flux passent par des points de passage obligés : les canaux de Suez et de Panama et le détroit de Malacca.
 
 ---
 type: article
-title: La dynamique démographique des départements français
-slug: la-dynamique-demographique-des-departements-francais
+title: Pourquoi certains départements français gagnent-ils des habitants et d'autres en perdent-ils ?
+slug: pourquoi-certains-departements-francais-gagnent-ils-des-habitants-et-d-autres-en-perdent-ils
 categoryPath: geographie-et-territoires/geographie-humaine/demographie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la dynamique démographique des départements français.
-tags: [demographie, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  La croissance d'un département dépend de son solde naturel et de son solde migratoire. Le Sud,
+  l'Ouest et les métropoles gagnent des habitants, une diagonale du nord-est au Massif central
+  en perd.
+tags: [demographie]
+sources:
+  - title: "Entre 2015 et 2021, la croissance démographique est deux fois plus élevée dans l'espace urbain que dans le rural"
+    url: "https://www.insee.fr/fr/statistiques/7726965"
+    publisher: "Insee Focus"
+  - title: "Du nord au sud, les mouvements naturels et migratoires opposent les départements"
+    url: "https://www.insee.fr/fr/statistiques/3288449"
+    publisher: "Insee Focus"
+  - title: "Démographie de la France"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_France"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qu'est-ce que le solde naturel ?"
+    options:
+      - "Les naissances moins les décès"
+      - "Les arrivées moins les départs"
+      - "Le nombre de maisons"
+    answer: 1
+    explanation: >
+      La croissance d'un territoire dépend de son solde naturel, naissances moins décès, et de
+      son solde migratoire, arrivées moins départs.
+  - question: "Qui attire des habitants ?"
+    options:
+      - "Le nord-est seulement"
+      - "Le Sud et l'Ouest"
+      - "Le Massif central seulement"
+    answer: 2
+    explanation: >
+      Le Sud et l'Ouest attirent des habitants, alors que le nord-est en perd.
+  - question: "Pourquoi certains départements ont-ils plus de décès que de naissances ?"
+    options:
+      - "Il n'y a pas d'hôpitaux"
+      - "Leur population est plus âgée"
+      - "Le climat est trop froid"
+    answer: 2
+    explanation: >
+      À l'inverse, des départements du centre et du sud-ouest ont plus de décès que de
+      naissances, car leur population est plus âgée.
+  - question: "Que fait la population dans l'espace urbain par rapport au rural ?"
+    options:
+      - "Elle augmente plus vite"
+      - "Elle baisse plus vite"
+      - "Elle ne change pas"
+    answer: 1
+    explanation: >
+      La population augmente plus vite dans l'espace urbain que dans le rural.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La croissance d'un département dépend de son solde naturel et de son solde migratoire. Le Sud, l'Ouest et les métropoles gagnent des habitants, une diagonale du nord-est au Massif central en perd.
+
+## Deux soldes
+
+La population française progresse de plus en plus lentement. La croissance d'un territoire dépend de son solde naturel, naissances moins décès, et de son solde migratoire, arrivées moins départs. Le solde naturel a fortement baissé : les arrivées d'autres régions ou de l'étranger pèsent désormais davantage dans la croissance. La baisse du nombre de naissances et de la fécondité accentue le recul du solde naturel.
+
+## Jeunes et âgés
+
+Les départements à population jeune, comme ceux de l'Île-de-France, des outre-mer et des principales métropoles, ont un solde naturel positif. À l'inverse, des départements du centre et du sud-ouest ont plus de décès que de naissances, car leur population est plus âgée. La population vieillit : la part des personnes de 65 ans et plus augmente.
+
+## Une carte contrastée
+
+Le Sud et l'Ouest attirent des habitants, alors que le nord-est en perd. Une diagonale qui va des Ardennes au Massif central connaît stagnation ou perte d'habitants. Les écarts entre départements se creusent : de moins en moins de départements croissent aussi vite que la moyenne nationale. La population augmente plus vite dans l'espace urbain que dans le rural. De nombreux départements perdent des habitants, surtout dans le nord-est, le centre et le Massif central.
+
+## À retenir
+
+- La croissance d'un territoire dépend de son solde naturel, naissances moins décès, et de son solde migratoire, arrivées moins départs.
+- Le solde naturel a fortement baissé : les arrivées d'autres régions ou de l'étranger pèsent désormais davantage dans la croissance.
+- Les départements à population jeune, comme ceux de l'Île-de-France, des outre-mer et des principales métropoles, ont un solde naturel positif.
+- Le Sud et l'Ouest attirent des habitants, alors que le nord-est en perd.
+- Une diagonale qui va des Ardennes au Massif central connaît stagnation ou perte d'habitants.
 
 ---
 type: article
-title: Les littoraux français, une population dense sur un petit territoire
-slug: les-littoraux-francais-une-population-dense-sur-un-petit-territoire
+title: Pourquoi tant de monde vit-il sur un si petit bout de côte en France ?
+slug: pourquoi-tant-de-monde-vit-il-sur-un-si-petit-bout-de-cote-en-france
 categoryPath: geographie-et-territoires/geographie-humaine
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les littoraux français, une population dense sur un petit territoire.
-tags: [geographie-humaine, veille-2026-09]
-priority: 0.81
-essentiel: false
-status: planned
+  Les communes littorales couvrent une petite part du territoire mais sont bien plus denses que
+  la moyenne. Elles subissent urbanisation, érosion et tourisme, et la loi Littoral les encadre.
+tags: [geographie-humaine]
+sources:
+  - title: "Environnement littoral et marin en métropole, synthèse des connaissances"
+    url: "https://www.statistiques.developpement-durable.gouv.fr/environnement-littoral-et-marin-en-metropole-synthese-des-connaissances-en-2021"
+    publisher: "Service des données et études statistiques, ministère de la Transition écologique"
+  - title: "Littoral"
+    url: "https://fr.wikipedia.org/wiki/Littoral"
+    publisher: "Wikipédia"
+  - title: "Loi littoral"
+    url: "https://fr.wikipedia.org/wiki/Loi_littoral"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle part du territoire métropolitain les communes littorales couvrent-elles ?"
+    options:
+      - "Environ 4 %"
+      - "Environ 50 %"
+      - "Environ 90 %"
+    answer: 1
+    explanation: >
+      Les communes littorales de métropole couvrent environ 4 % du territoire.
+  - question: "Que subissent les littoraux ?"
+    options:
+      - "Des glaciers"
+      - "Des volcans"
+      - "L'érosion et l'urbanisation"
+    answer: 3
+    explanation: >
+      Les littoraux subissent l'érosion, la submersion marine, l'urbanisation, la pollution, la
+      pression touristique, la perte de biodiversité et l'entrée d'eau salée.
+  - question: "Que précise la loi Littoral hors des espaces urbanisés ?"
+    options:
+      - "Il faut tout bétonner"
+      - "Les plages sont privées"
+      - "Il est interdit de construire dans la bande des cent mètres"
+    answer: 3
+    explanation: >
+      Hors des espaces déjà urbanisés, il est interdit de construire dans la bande des cent
+      mètres à partir du rivage ; les plans locaux peuvent étendre cette distance.
+  - question: "Que garantit aussi la loi Littoral ?"
+    options:
+      - "Un parking gratuit"
+      - "Le libre accès au rivage par les sentiers littoraux"
+      - "Un toit pour chaque touriste"
+    answer: 2
+    explanation: >
+      Elle garantit le libre accès au rivage par les sentiers littoraux.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les communes littorales couvrent une petite part du territoire mais sont bien plus denses que la moyenne. Elles subissent urbanisation, érosion et tourisme, et la loi Littoral les encadre.
+
+## Petit territoire, forte densité
+
+Les communes littorales de métropole couvrent environ 4 % du territoire. Leur densité de population est environ deux fois et demie plus élevée que la moyenne métropolitaine. Depuis la fin des années 2000, la croissance de la population se déplace vers l'intérieur des terres, car l'immobilier en bord de mer est très cher. Dans le monde, une part croissante de la population vit près de la mer.
+
+## Des pressions fortes
+
+Dans les premiers mètres depuis le rivage, une grande part du sol est artificialisée, bien plus que la moyenne nationale. L'érosion grignote la côte, en particulier en Charente-Maritime, en Gironde et dans les Bouches-du-Rhône. Le tourisme littoral fournit plus d'emplois que les autres activités maritimes réunies. Les littoraux subissent l'érosion, la submersion marine, l'urbanisation, la pollution, la pression touristique, la perte de biodiversité et l'entrée d'eau salée.
+
+## La loi Littoral
+
+Une loi spécifique, la loi Littoral, encadre l'urbanisation des côtes et protège les espaces naturels. Hors des espaces déjà urbanisés, il est interdit de construire dans la bande des cent mètres à partir du rivage ; les plans locaux peuvent étendre cette distance. La loi impose des coupures d'urbanisation : des zones naturelles ou agricoles qui évitent une urbanisation continue. Elle garantit le libre accès au rivage par les sentiers littoraux. Elle s'applique aux communes qui bordent les océans, les mers, les lagunes salées et les grands lacs, ainsi qu'aux estuaires.
+
+## À retenir
+
+- Les communes littorales de métropole couvrent environ 4 % du territoire.
+- Leur densité de population est environ deux fois et demie plus élevée que la moyenne métropolitaine.
+- L'érosion grignote la côte, en particulier en Charente-Maritime, en Gironde et dans les Bouches-du-Rhône.
+- Une loi spécifique, la loi Littoral, encadre l'urbanisation des côtes et protège les espaces naturels.
+- Hors des espaces urbanisés, il est interdit de construire dans la bande des cent mètres à partir du rivage.
