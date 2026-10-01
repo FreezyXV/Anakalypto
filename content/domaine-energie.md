@@ -12632,18 +12632,87 @@ Selon la limite de Betz, une éolienne ne peut extraire au mieux qu'environ 59,3
 
 ---
 type: article
-title: La fission expliquée, de l'atome à la turbine
-slug: la-fission-expliquee-de-l-atome-a-la-turbine
+title: Comment un atome qui se casse peut-il allumer une ampoule ?
+slug: comment-un-atome-qui-se-casse-peut-il-allumer-une-ampoule
 categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fission expliquée, de l'atome à la turbine.
-tags: [nucleaire, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  Quand un neutron casse un noyau d'uranium, il libère de la chaleur et d'autres neutrons. Dans
+  une centrale, cette chaleur fabrique de la vapeur qui fait tourner une turbine.
+tags: [nucleaire]
+sources:
+  - title: "Fission nucléaire"
+    url: "https://fr.wikipedia.org/wiki/Fission_nucl%C3%A9aire"
+    publisher: "Wikipédia"
+  - title: "Nuclear fission"
+    url: "https://en.wikipedia.org/wiki/Nuclear_fission"
+    publisher: "Wikipedia"
+  - title: "Nuclear 101: How Does a Nuclear Reactor Work?"
+    url: "https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work"
+    publisher: "Département de l'Énergie des États-Unis"
+quiz:
+  - question: "Que se passe-t-il quand un neutron touche un noyau d'uranium 235 ?"
+    options:
+      - "Le noyau devient de l'eau"
+      - "Rien du tout"
+      - "Le noyau éclate en libérant de l'énergie et d'autres neutrons"
+    answer: 3
+    explanation: >
+      Un neutron qui touche un noyau d'uranium 235 le fait éclater en libérant de l'énergie et
+      d'autres neutrons.
+  - question: "Qu'est-ce qu'une réaction en chaîne ?"
+    options:
+      - "Une chaîne de vélo"
+      - "Les neutrons libérés cassent d'autres noyaux, et cela continue"
+      - "Une série de coupures de courant"
+    answer: 2
+    explanation: >
+      Ces neutrons peuvent casser d'autres noyaux : c'est une réaction en chaîne, qui peut
+      s'entretenir toute seule.
+  - question: "Que fait la chaleur de la fission dans une centrale ?"
+    options:
+      - "Elle transforme l'eau en vapeur, qui fait tourner une turbine"
+      - "Elle éclaire directement les maisons"
+      - "Elle fait fondre la turbine"
+    answer: 1
+    explanation: >
+      Dans une centrale, la chaleur de la fission transforme de l'eau en vapeur, qui fait
+      tourner une turbine reliée à un alternateur.
+  - question: "À quoi servent les barres de contrôle ?"
+    options:
+      - "À décorer le réacteur"
+      - "À absorber des neutrons pour ralentir ou accélérer la réaction"
+      - "À transporter l'uranium"
+    answer: 2
+    explanation: >
+      Des barres de contrôle, qui absorbent les neutrons, s'enfoncent dans le cœur pour ralentir
+      la réaction ou se retirent pour l'accélérer.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand un neutron casse un noyau d'uranium, il libère de la chaleur et d'autres neutrons. Dans une centrale, cette chaleur fabrique de la vapeur qui fait tourner une turbine.
+
+## Casser un noyau
+
+La fission est la cassure d'un noyau atomique lourd en deux noyaux plus légers, ou en quelques-uns. Un neutron qui touche un noyau d'uranium 235 le fait éclater en libérant de l'énergie et d'autres neutrons. Ces neutrons peuvent casser d'autres noyaux : c'est une réaction en chaîne, qui peut s'entretenir toute seule. Chaque fission libère une énergie considérable, surtout sous forme de mouvement des fragments du noyau.
+
+## Une découverte du XXe siècle
+
+Les chimistes Otto Hahn et Fritz Strassmann ont mis en évidence la fission ; Lise Meitner et Otto Frisch en ont donné l'explication théorique. La première réaction en chaîne contrôlée a eu lieu dans la pile Chicago Pile-1.
+
+## De l'atome à la turbine
+
+Dans une centrale, la chaleur de la fission transforme de l'eau en vapeur, qui fait tourner une turbine reliée à un alternateur. Le combustible est de l'uranium sous forme de petites pastilles de céramique empilées dans des tubes métalliques scellés, les crayons de combustible. L'eau refroidit le réacteur et sert aussi de modérateur : elle ralentit les neutrons, ce qui entretient la réaction en chaîne. Des barres de contrôle, qui absorbent les neutrons, s'enfoncent dans le cœur pour ralentir la réaction ou se retirent pour l'accélérer. Dans un réacteur à eau pressurisée, l'eau du cœur reste sous haute pression pour ne pas bouillir et chauffe un second circuit qui produit la vapeur ; dans un réacteur à eau bouillante, l'eau bout directement dans la cuve.
+
+## À retenir
+
+- La fission est la cassure d'un noyau atomique lourd en deux noyaux plus légers, ou en quelques-uns.
+- Un neutron qui touche un noyau d'uranium 235 le fait éclater en libérant de l'énergie et d'autres neutrons.
+- Ces neutrons peuvent casser d'autres noyaux : c'est une réaction en chaîne, qui peut s'entretenir toute seule.
+- Dans une centrale, la chaleur de la fission transforme de l'eau en vapeur, qui fait tourner une turbine reliée à un alternateur.
+- Des barres de contrôle, qui absorbent les neutrons, s'enfoncent dans le cœur pour ralentir la réaction ou se retirent pour l'accélérer.
 
 ---
 type: article
@@ -12662,18 +12731,86 @@ status: planned
 
 ---
 type: article
-title: La production d'électricité en France par filière
-slug: la-production-d-electricite-en-france-par-filiere
+title: D'où vient l'électricité que l'on consomme en France ?
+slug: d-ou-vient-l-electricite-que-l-on-consomme-en-france
 categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la production d'électricité en France par filière.
-tags: [usages-et-consommation, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  En France, l'électricité vient surtout du nucléaire, puis de l'hydraulique, de l'éolien et du
+  solaire. Plus de 95 % de l'électricité produite est décarbonée, et le pays en exporte
+  beaucoup.
+tags: [usages-et-consommation]
+sources:
+  - title: "Électricité en France"
+    url: "https://fr.wikipedia.org/wiki/%C3%89lectricit%C3%A9_en_France"
+    publisher: "Wikipédia"
+  - title: "Electricity sector in France"
+    url: "https://en.wikipedia.org/wiki/Electricity_sector_in_France"
+    publisher: "Wikipedia"
+  - title: "Bilan électrique 2025, principaux résultats"
+    url: "https://analysesetdonnees.rte-france.com/en/annual-review-2025/keyfindings"
+    publisher: "RTE, gestionnaire du réseau de transport d'électricité"
+quiz:
+  - question: "Quelle filière fournit la plus grande part de l'électricité en France ?"
+    options:
+      - "Le charbon"
+      - "Le solaire"
+      - "Le nucléaire"
+    answer: 3
+    explanation: >
+      Le nucléaire a fourni 373,0 TWh, de loin la plus grande part.
+  - question: "Quelle part de l'électricité produite en France est décarbonée ?"
+    options:
+      - "Environ 10 %"
+      - "Aucune"
+      - "Plus de 95 %"
+    answer: 3
+    explanation: >
+      Plus de 95 % de l'électricité produite est décarbonée : elle vient du nucléaire et des
+      énergies renouvelables.
+  - question: "Quel pays est le premier exportateur net d'électricité au monde ?"
+    options:
+      - "L'Islande"
+      - "Le Chili"
+      - "La France"
+    answer: 3
+    explanation: >
+      La France est le premier exportateur net d'électricité au monde.
+  - question: "Qu'est-ce qui a poussé la France vers le nucléaire ?"
+    options:
+      - "Un choc pétrolier"
+      - "La découverte du charbon"
+      - "Une loi sur les vélos"
+    answer: 1
+    explanation: >
+      Cet engagement dans le nucléaire date d'un choc pétrolier, qui a poussé la France à
+      réduire sa dépendance au pétrole.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En France, l'électricité vient surtout du nucléaire, puis de l'hydraulique, de l'éolien et du solaire. Plus de 95 % de l'électricité produite est décarbonée, et le pays en exporte beaucoup.
+
+## Un mix dominé par le nucléaire
+
+En 2025, la France métropolitaine a produit 547,5 TWh d'électricité. Le nucléaire a fourni 373,0 TWh, de loin la plus grande part. La production d'électricité française repose depuis longtemps sur le nucléaire, complété par l'hydraulique, le gaz, l'éolien et le solaire. L'hydraulique a produit 62,4 TWh. L'éolien se place derrière le nucléaire et l'hydraulique, et devant le solaire. Le solaire a produit 32,9 TWh, en forte hausse. Les centrales à gaz, au fioul et au charbon n'ont fourni qu'une petite part de la production.
+
+## Une électricité très peu carbonée
+
+Plus de 95 % de l'électricité produite est décarbonée : elle vient du nucléaire et des énergies renouvelables. Grâce à ce mix, l'électricité française est très peu carbonée, avec une très faible intensité en gaz à effet de serre. Cet engagement dans le nucléaire date d'un choc pétrolier, qui a poussé la France à réduire sa dépendance au pétrole.
+
+## Un grand exportateur
+
+La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record. La France est le premier exportateur net d'électricité au monde.
+
+## À retenir
+
+- Le nucléaire a fourni 373,0 TWh, de loin la plus grande part.
+- L'hydraulique a produit 62,4 TWh.
+- Le solaire a produit 32,9 TWh, en forte hausse.
+- Plus de 95 % de l'électricité produite en France est décarbonée, issue du nucléaire et des renouvelables.
+- La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record.
 
 ---
 type: article
@@ -12707,48 +12844,271 @@ status: planned
 
 ---
 type: article
-title: Les réseaux intelligents et la flexibilité de la demande
-slug: les-reseaux-intelligents-et-la-flexibilite-de-la-demande
+title: Comment un réseau électrique intelligent adapte-t-il la consommation à la production ?
+slug: comment-un-reseau-electrique-intelligent-adapte-t-il-la-consommation-a-la-production
 categoryPath: energie/reseaux-et-stockage/reseaux-electriques
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les réseaux intelligents et la flexibilité de la demande.
-tags: [reseaux-electriques, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  Un réseau intelligent utilise des mesures et des communications numériques pour équilibrer
+  production et consommation. La flexibilité de la demande déplace des usages vers les moments
+  d'abondance.
+tags: [reseaux-electriques]
+sources:
+  - title: "Réseau électrique intelligent"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9seau_%C3%A9lectrique_intelligent"
+    publisher: "Wikipédia"
+  - title: "Demand response"
+    url: "https://en.wikipedia.org/wiki/Demand_response"
+    publisher: "Wikipedia"
+  - title: "Grid Modernization and the Smart Grid"
+    url: "https://www.energy.gov/oe/grid-modernization-and-smart-grid"
+    publisher: "Département de l'Énergie des États-Unis"
+quiz:
+  - question: "Que fait un réseau électrique intelligent ?"
+    options:
+      - "Il optimise en temps réel les flux entre producteurs et consommateurs"
+      - "Il fabrique de l'électricité avec des nuages"
+      - "Il supprime les câbles"
+    answer: 1
+    explanation: >
+      Un réseau électrique intelligent est un réseau de distribution d'électricité qui utilise
+      les technologies de l'information pour optimiser, en temps réel, les flux entre
+      producteurs et consommateurs.
+  - question: "Que permet un compteur communicant comme Linky ?"
+    options:
+      - "De produire de l'électricité"
+      - "Une facturation à l'heure et le décalage de certains usages"
+      - "De téléphoner"
+    answer: 2
+    explanation: >
+      Les compteurs communicants, comme Linky en France, permettent une facturation à l'heure et
+      incitent à déplacer certains usages vers les périodes moins chères.
+  - question: "Qu'est-ce que la flexibilité de la demande ?"
+    options:
+      - "Acheter un plus gros compteur"
+      - "Décaler ou réduire sa consommation en réponse à un prix ou un signal"
+      - "Couper toute l'électricité"
+    answer: 2
+    explanation: >
+      La flexibilité de la demande, ou effacement, consiste à décaler ou réduire sa consommation
+      d'électricité en réponse à un prix ou à un signal, pour mieux faire coïncider consommation
+      et production.
+  - question: "Pourquoi faut-il équilibrer production et consommation à chaque instant ?"
+    options:
+      - "L'électricité se stocke difficilement"
+      - "Les câbles sont trop courts"
+      - "Les compteurs sont trop petits"
+    answer: 1
+    explanation: >
+      L'électricité se stocke difficilement : il faut équilibrer à chaque instant production et
+      consommation, et les capacités sont dimensionnées pour des pointes de demande qui
+      n'arrivent que peu d'heures par an.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un réseau intelligent utilise des mesures et des communications numériques pour équilibrer production et consommation. La flexibilité de la demande déplace des usages vers les moments d'abondance.
+
+## Un réseau qui communique
+
+Un réseau électrique intelligent est un réseau de distribution d'électricité qui utilise les technologies de l'information pour optimiser, en temps réel, les flux entre producteurs et consommateurs. Il ajuste production et consommation pour garder le réseau stable, réduit les pertes, intègre les énergies renouvelables intermittentes et diminue le besoin de capacité de pointe. Il repose sur une communication dans les deux sens, des systèmes de commande et du traitement informatique. Des capteurs mesurent la stabilité du réseau, des relais automatiques détectent les pannes et réacheminent le courant, et des batteries stockent l'électricité en trop. Les compteurs communicants, comme Linky en France, permettent une facturation à l'heure et incitent à déplacer certains usages vers les périodes moins chères.
+
+## La flexibilité de la demande
+
+La flexibilité de la demande, ou effacement, consiste à décaler ou réduire sa consommation d'électricité en réponse à un prix ou à un signal, pour mieux faire coïncider consommation et production. L'électricité se stocke difficilement : il faut équilibrer à chaque instant production et consommation, et les capacités sont dimensionnées pour des pointes de demande qui n'arrivent que peu d'heures par an. Les fournisseurs envoient des signaux par des tarifs variables selon l'heure, des compteurs intelligents ou des programmes d'incitation. Chez les particuliers, chauffe-eau, thermostats intelligents et climatisation peuvent être décalés pendant les pointes ; dans l'industrie, de grands consommateurs comme les fonderies d'aluminium peuvent réduire fortement leur consommation.
+
+## Bénéfices et précautions
+
+Les bénéfices annoncés : moins de coupures, moins d'impact des tempêtes, un retour plus rapide du courant, plus d'énergies renouvelables et des coûts d'exploitation plus bas. Les données de consommation posent des questions de vie privée : les régulateurs européens recommandent de les anonymiser et de protéger la vie privée dès la conception. Un réseau intelligent ne remplace pas la sobriété : il aide à intégrer les renouvelables, mais ne dispense pas de réduire la consommation.
+
+## À retenir
+
+- Un réseau intelligent utilise les technologies de l'information pour optimiser en temps réel les flux entre producteurs et consommateurs.
+- Les compteurs communicants, comme Linky en France, permettent une facturation à l'heure et incitent à déplacer certains usages vers les périodes moins chères.
+- La flexibilité de la demande consiste à décaler ou réduire sa consommation en réponse à un prix ou à un signal.
+- L'électricité se stocke mal : il faut équilibrer à chaque instant production et consommation, et les pointes sont rares.
+- Les données de consommation posent des questions de vie privée : les régulateurs recommandent de les anonymiser.
 
 ---
 type: article
-title: L'agrivoltaïsme, produire de l'électricité et des cultures
-slug: l-agrivoltaisme-produire-de-l-electricite-et-des-cultures
+title: Peut-on produire de l'électricité et des cultures sur le même champ ?
+slug: peut-on-produire-de-l-electricite-et-des-cultures-sur-le-meme-champ
 categoryPath: energie/energies-renouvelables/solaire
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'agrivoltaïsme, produire de l'électricité et des cultures.
-tags: [solaire, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  L'agrivoltaïsme associe des panneaux solaires et une production agricole sur la même parcelle.
+  En France, la production agricole doit y rester la priorité.
+tags: [solaire]
+sources:
+  - title: "Agrivoltaïsme"
+    url: "https://fr.wikipedia.org/wiki/Agrivolta%C3%AFsme"
+    publisher: "Wikipédia"
+  - title: "Agrivoltaics"
+    url: "https://en.wikipedia.org/wiki/Agrivoltaics"
+    publisher: "Wikipedia"
+  - title: "Article 54 de la loi n° 2023-175 du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables"
+    url: "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000047294305"
+    publisher: "Légifrance"
+  - title: "Loi relative à l'accélération des énergies renouvelables : un cadre pour les installations photovoltaïques"
+    url: "https://agriculture.gouv.fr/loi-relative-lacceleration-des-energies-renouvelables-un-cadre-pour-les-installations"
+    publisher: "Ministère de l'Agriculture"
+quiz:
+  - question: "Que produit-on dans l'agrivoltaïsme ?"
+    options:
+      - "Seulement des panneaux"
+      - "Seulement du blé"
+      - "De l'électricité et des produits agricoles sur la même parcelle"
+    answer: 3
+    explanation: >
+      L'agrivoltaïsme consiste à produire de l'électricité avec des panneaux solaires et à
+      pratiquer l'agriculture sur la même parcelle.
+  - question: "Quel avantage peut avoir l'ombre des panneaux ?"
+    options:
+      - "Faire pousser des panneaux"
+      - "Éteindre le soleil"
+      - "Protéger certaines cultures de la chaleur"
+    answer: 3
+    explanation: >
+      L'ombre des panneaux peut protéger les cultures de la chaleur et réduire l'évaporation de
+      l'eau ; dans certains cas en France, elle a favorisé la pousse de l'herbe pour de petits
+      herbivores.
+  - question: "Quelle culture aime plutôt l'ombre ?"
+    options:
+      - "La laitue"
+      - "Le blé"
+      - "Le riz"
+    answer: 1
+    explanation: >
+      Les cultures qui aiment l'ombre, comme la laitue, l'épinard ou le basilic, s'en sortent
+      bien ; le blé et le riz, qui ont besoin de plus de soleil, peuvent voir leur rendement
+      baisser.
+  - question: "Que précise la loi française pour un projet agrivoltaïque ?"
+    options:
+      - "La production agricole doit rester la priorité"
+      - "Il ne faut plus cultiver"
+      - "Les panneaux doivent couvrir tout le champ"
+    answer: 1
+    explanation: >
+      En France, la loi du 10 mars 2023 sur l'accélération des énergies renouvelables définit
+      une installation agrivoltaïque : ses modules, situés sur une parcelle agricole,
+      contribuent durablement à l'installation, au maintien ou au développement d'une production
+      agricole.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'agrivoltaïsme associe des panneaux solaires et une production agricole sur la même parcelle. En France, la production agricole doit y rester la priorité.
+
+## Deux productions, une parcelle
+
+L'agrivoltaïsme consiste à produire de l'électricité avec des panneaux solaires et à pratiquer l'agriculture sur la même parcelle. Les panneaux sont installés au-dessus des cultures ou des pâtures, en un système étagé, ou sur des zones accessibles aux animaux. Il répond à la concurrence entre production d'énergie et production alimentaire pour l'usage des terres.
+
+## Ce que l'ombre change
+
+L'ombre des panneaux peut protéger les cultures de la chaleur et réduire l'évaporation de l'eau ; dans certains cas en France, elle a favorisé la pousse de l'herbe pour de petits herbivores. Des recherches ont mesuré des économies d'eau pour certaines cultures cultivées sous des panneaux. Les cultures qui aiment l'ombre, comme la laitue, l'épinard ou le basilic, s'en sortent bien ; le blé et le riz, qui ont besoin de plus de soleil, peuvent voir leur rendement baisser. Des essais ont eu lieu sur des vignes, des rizières, des légumes, des arbres fruitiers, des fruits rouges et même des champignons. Des études estiment que l'usage combiné d'une même terre peut améliorer l'efficacité d'utilisation des sols.
+
+## Des règles en France
+
+En France, la loi du 10 mars 2023 sur l'accélération des énergies renouvelables définit une installation agrivoltaïque : ses modules, situés sur une parcelle agricole, contribuent durablement à l'installation, au maintien ou au développement d'une production agricole. L'installation doit rendre au moins un service à la parcelle : améliorer son potentiel agronomique, l'adapter au changement climatique, la protéger contre les aléas ou améliorer le bien-être animal. La production agricole doit rester l'activité principale de la parcelle, et l'installation doit être réversible. Un décret limite la densité de panneaux et impose de suivre le rendement agricole. L'idée a été formulée par les chercheurs Goetzberger et Zastrow, et le Japon a été l'un des premiers pays à installer de nombreux systèmes.
+
+## Les défis
+
+Des coûts d'installation et d'entretien plus élevés freinent le développement dans beaucoup de régions, et il faut trouver l'équilibre entre récolte et production d'électricité.
+
+## À retenir
+
+- L'agrivoltaïsme consiste à produire de l'électricité avec des panneaux solaires et à pratiquer l'agriculture sur la même parcelle.
+- Il répond à la concurrence entre production d'énergie et production alimentaire pour l'usage des terres.
+- L'ombre des panneaux peut protéger les cultures de la chaleur et réduire l'évaporation de l'eau.
+- Les cultures qui aiment l'ombre, comme la laitue, s'en sortent bien ; le blé et le riz, qui veulent plus de soleil, moins bien.
+- La production agricole doit rester l'activité principale de la parcelle, et l'installation doit être réversible.
 
 ---
 type: article
-title: Le stockage d'énergie par air comprimé
-slug: le-stockage-d-energie-par-air-comprime
+title: Comment stocker de l'électricité dans de l'air comprimé ?
+slug: comment-stocker-de-l-electricite-dans-de-l-air-comprime
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le stockage d'énergie par air comprimé.
-tags: [batteries, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Le stockage par air comprimé utilise l'électricité en excès pour comprimer de l'air dans des
+  cavités souterraines, puis le détend pour faire tourner une turbine.
+tags: [batteries]
+sources:
+  - title: "Stockage d'énergie par air comprimé"
+    url: "https://fr.wikipedia.org/wiki/Stockage_d%27%C3%A9nergie_par_air_comprim%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Compressed-air energy storage"
+    url: "https://en.wikipedia.org/wiki/Compressed-air_energy_storage"
+    publisher: "Wikipedia"
+  - title: "Grid energy storage"
+    url: "https://en.wikipedia.org/wiki/Grid_energy_storage"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait-on avec l'électricité en excès dans ce système ?"
+    options:
+      - "On la jette"
+      - "On comprime de l'air dans une cavité souterraine"
+      - "On la transforme en eau"
+    answer: 2
+    explanation: >
+      Le stockage par air comprimé utilise l'électricité en excès pour comprimer de l'air dans
+      des cavités souterraines ; quand la demande augmente, l'air libéré fait tourner une
+      turbine qui produit de l'électricité.
+  - question: "Pourquoi la chaleur pose-t-elle un problème ?"
+    options:
+      - "L'air devient solide"
+      - "La turbine fond toujours"
+      - "Comprimer l'air l'échauffe, ce qui fait perdre de l'énergie"
+    answer: 3
+    explanation: >
+      Comprimer l'air l'échauffe, ce qui fait perdre de l'énergie et peut abîmer l'installation
+      : la gestion de la chaleur est le principal défi technique.
+  - question: "Que fait un système adiabatique de la chaleur de compression ?"
+    options:
+      - "Il la dissipe dans l'air"
+      - "Il la transforme en glace"
+      - "Il la garde pour la réutiliser à la détente"
+    answer: 3
+    explanation: >
+      Dans les systèmes adiabatiques, on garde la chaleur de compression pour la réutiliser à la
+      détente, ce qui améliore le rendement.
+  - question: "Quel lieu de stockage est préféré ?"
+    options:
+      - "Les ballons de baudruche"
+      - "Les piscines"
+      - "Les cavernes de sel souterraines"
+    answer: 3
+    explanation: >
+      Les cavités de sel souterraines sont le lieu de stockage préféré, car l'air comprimé
+      contient peu d'énergie par volume et demande de très grands volumes.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le stockage par air comprimé utilise l'électricité en excès pour comprimer de l'air dans des cavités souterraines, puis le détend pour faire tourner une turbine.
+
+## Stocker l'énergie dans l'air
+
+Le stockage par air comprimé utilise l'électricité en excès pour comprimer de l'air dans des cavités souterraines ; quand la demande augmente, l'air libéré fait tourner une turbine qui produit de l'électricité. Ce stockage sert à faire coïncider production et consommation, d'autant plus que le solaire et l'éolien varient fortement. L'air comprimé n'est qu'une des techniques de stockage du réseau, avec les stations de pompage, les batteries, les batteries à flux, la chaleur et l'hydrogène.
+
+## Le problème de la chaleur
+
+Comprimer l'air l'échauffe, ce qui fait perdre de l'énergie et peut abîmer l'installation : la gestion de la chaleur est le principal défi technique. Dans les systèmes classiques, la chaleur de compression est dissipée dans l'atmosphère, puis il faut brûler du gaz naturel pour réchauffer l'air avant la turbine. Dans les systèmes adiabatiques, on garde la chaleur de compression pour la réutiliser à la détente, ce qui améliore le rendement. Le rendement des systèmes avancés est meilleur que celui des systèmes classiques.
+
+## Où et comment ?
+
+Les cavités de sel souterraines sont le lieu de stockage préféré, car l'air comprimé contient peu d'énergie par volume et demande de très grands volumes. Le procédé dépend de sites géologiques adaptés, comme des cavernes de sel. Les centrales de Huntorf, en Allemagne, et de McIntosh, aux États-Unis, fonctionnent depuis plusieurs décennies. Plusieurs projets récents en Chine comptent parmi les plus grands du monde.
+
+## À retenir
+
+- L'électricité en excès comprime de l'air dans des cavités ; quand la demande monte, l'air libéré fait tourner une turbine.
+- Comprimer l'air l'échauffe, ce qui fait perdre de l'énergie et peut abîmer l'installation : la gestion de la chaleur est le principal défi technique.
+- Dans les systèmes classiques, la chaleur de compression est dissipée dans l'atmosphère, puis il faut brûler du gaz naturel pour réchauffer l'air avant la turbine.
+- Dans les systèmes adiabatiques, on garde la chaleur de compression pour la réutiliser à la détente, ce qui améliore le rendement.
+- Le procédé dépend de sites géologiques adaptés, comme des cavernes de sel.
 
 ---
 type: article
@@ -12767,30 +13127,177 @@ status: planned
 
 ---
 type: article
-title: Les méga-batteries qui stabilisent le réseau électrique
-slug: les-mega-batteries-qui-stabilisent-le-reseau-electrique
+title: Comment une méga-batterie aide-t-elle à stabiliser le réseau électrique ?
+slug: comment-une-mega-batterie-aide-t-elle-a-stabiliser-le-reseau-electrique
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les méga-batteries qui stabilisent le réseau électrique.
-tags: [batteries, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Un système de stockage par batteries réagit en une fraction de seconde. Il régule la fréquence
+  du réseau, écrête les pointes et lisse la production solaire et éolienne.
+tags: [batteries]
+sources:
+  - title: "Battery energy storage system"
+    url: "https://en.wikipedia.org/wiki/Battery_energy_storage_system"
+    publisher: "Wikipedia"
+  - title: "Hornsdale Power Reserve"
+    url: "https://en.wikipedia.org/wiki/Hornsdale_Power_Reserve"
+    publisher: "Wikipedia"
+  - title: "Moss Landing Power Plant"
+    url: "https://en.wikipedia.org/wiki/Moss_Landing_Power_Plant"
+    publisher: "Wikipedia"
+  - title: "Grid energy storage"
+    url: "https://en.wikipedia.org/wiki/Grid_energy_storage"
+    publisher: "Wikipedia"
+quiz:
+  - question: "En combien de temps une méga-batterie peut-elle passer à pleine puissance ?"
+    options:
+      - "En trois jours"
+      - "En un an"
+      - "En moins d'une seconde"
+    answer: 3
+    explanation: >
+      Il réagit très vite : il peut passer de l'attente à la pleine puissance en moins d'une
+      seconde, plus vite que n'importe quelle autre source pilotable.
+  - question: "Que régule-t-elle sur le réseau ?"
+    options:
+      - "La couleur des câbles"
+      - "Le prix des pylônes"
+      - "La fréquence"
+    answer: 3
+    explanation: >
+      Il aide à réguler la fréquence du réseau, en contrecarrant des oscillations qui pourraient
+      provoquer des pannes.
+  - question: "Quelle batterie australienne est surnommée la grande batterie de Tesla ?"
+    options:
+      - "Hornsdale Power Reserve"
+      - "Moss Landing"
+      - "Hywind"
+    answer: 1
+    explanation: >
+      Hornsdale Power Reserve, en Australie-Méridionale, surnommée la grande batterie de Tesla,
+      est l'une des premières méga-batteries du réseau.
+  - question: "Que fait-elle des pointes de demande ?"
+    options:
+      - "Elle les écrête"
+      - "Elle les double"
+      - "Elle les ignore"
+    answer: 1
+    explanation: >
+      Il écrête les pointes de demande, qui durent quelques heures, et lisse la production
+      variable du solaire et de l'éolien.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un système de stockage par batteries réagit en une fraction de seconde. Il régule la fréquence du réseau, écrête les pointes et lisse la production solaire et éolienne.
+
+## Une réaction éclair
+
+Un système de stockage par batteries stocke de l'électricité dans des batteries rechargeables raccordées au réseau. Il réagit très vite : il peut passer de l'attente à la pleine puissance en moins d'une seconde, plus vite que n'importe quelle autre source pilotable. Il aide à réguler la fréquence du réseau, en contrecarrant des oscillations qui pourraient provoquer des pannes. Il écrête les pointes de demande, qui durent quelques heures, et lisse la production variable du solaire et de l'éolien. Les batteries lithium-ion conviennent bien au stockage de courte durée, de quelques heures.
+
+## Des technologies en évolution
+
+Les batteries lithium-ion sont devenues la norme ; la chimie lithium-fer-phosphate progresse grâce à sa sécurité et à sa longue durée de vie, et le sodium-ion émerge comme alternative moins chère. Le déploiement a fortement augmenté et les coûts des batteries baissent rapidement.
+
+## Hornsdale, la pionnière
+
+Hornsdale Power Reserve, en Australie-Méridionale, surnommée la grande batterie de Tesla, est l'une des premières méga-batteries du réseau. Elle a été envisagée après des tempêtes qui avaient endommagé le réseau et provoqué des pannes. Elle assure du contrôle de fréquence et de la stabilité du réseau, et une autre partie de sa capacité sert à stocker de l'énergie quand elle est bon marché pour la revendre plus cher. Quelques mois après son démarrage, elle assurait déjà plus de la moitié des services de régulation de fréquence en Australie-Méridionale, et aurait fait baisser le coût de ces services.
+
+## En Californie, et les limites
+
+En Californie, Moss Landing est un autre grand site de stockage par batteries, qui stocke l'électricité solaire de la journée pour l'utiliser le soir. Un incendie a détruit une grande partie d'une section du site de Moss Landing, dont les batteries utilisaient une chimie au nickel-manganèse-cobalt.
+
+## À retenir
+
+- Il passe de l'attente à la pleine puissance en moins d'une seconde, plus vite que toute autre source pilotable.
+- Il aide à réguler la fréquence du réseau, en contrecarrant des oscillations qui pourraient provoquer des pannes.
+- Il écrête les pointes de demande, qui durent quelques heures, et lisse la production variable du solaire et de l'éolien.
+- Hornsdale Power Reserve, en Australie-Méridionale, surnommée la grande batterie de Tesla, est l'une des premières méga-batteries du réseau.
+- Quelques mois après son démarrage, elle assurait déjà plus de la moitié des services de régulation de fréquence de la région.
 
 ---
 type: article
-title: Les batteries à flux redox
-slug: les-batteries-a-flux-redox
+title: Comment une batterie peut-elle stocker de l'énergie dans des réservoirs de liquide ?
+slug: comment-une-batterie-peut-elle-stocker-de-l-energie-dans-des-reservoirs-de-liquide
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les batteries à flux redox.
-tags: [batteries, veille-2026-09]
-priority: 0.8
-essentiel: false
-status: planned
+  Une batterie à flux stocke l'énergie dans deux liquides conservés dans des réservoirs. Plus
+  les réservoirs sont grands, plus elle stocke : puissance et énergie se règlent séparément.
+tags: [batteries]
+sources:
+  - title: "Batterie à flux"
+    url: "https://fr.wikipedia.org/wiki/Batterie_%C3%A0_flux"
+    publisher: "Wikipédia"
+  - title: "Flow battery"
+    url: "https://en.wikipedia.org/wiki/Flow_battery"
+    publisher: "Wikipedia"
+  - title: "Vanadium redox battery"
+    url: "https://en.wikipedia.org/wiki/Vanadium_redox_battery"
+    publisher: "Wikipedia"
+  - title: "Grid energy storage"
+    url: "https://en.wikipedia.org/wiki/Grid_energy_storage"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où l'énergie est-elle stockée dans une batterie à flux ?"
+    options:
+      - "Dans des liquides conservés dans des réservoirs"
+      - "Dans des électrodes en plomb"
+      - "Dans l'air"
+    answer: 1
+    explanation: >
+      Une batterie à flux stocke l'énergie dans deux liquides, les électrolytes, conservés dans
+      des réservoirs séparés et pompés à travers une cellule électrochimique.
+  - question: "Comment stocke-t-on plus d'énergie dans une batterie à flux ?"
+    options:
+      - "En rallongeant les câbles"
+      - "En changeant de couleur"
+      - "En agrandissant les réservoirs"
+    answer: 3
+    explanation: >
+      Puissance et énergie sont indépendantes : la puissance dépend de la taille de la cellule,
+      l'énergie du volume des réservoirs ; pour stocker plus, on agrandit les réservoirs.
+  - question: "Quel élément est le plus utilisé dans les batteries à flux ?"
+    options:
+      - "L'or"
+      - "Le mercure"
+      - "Le vanadium"
+    answer: 3
+    explanation: >
+      Les batteries au vanadium sont les plus courantes et les plus avancées commercialement.
+  - question: "Quel est l'un de leurs défauts ?"
+    options:
+      - "Elles s'enflamment très facilement"
+      - "Une énergie faible par volume"
+      - "Elles ne durent qu'un cycle"
+    answer: 2
+    explanation: >
+      Leur énergie par volume est faible, et les pompes consomment de l'électricité, ce qui
+      réduit le rendement.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une batterie à flux stocke l'énergie dans deux liquides conservés dans des réservoirs. Plus les réservoirs sont grands, plus elle stocke : puissance et énergie se règlent séparément.
+
+## Deux liquides, deux réservoirs
+
+Une batterie à flux stocke l'énergie dans deux liquides, les électrolytes, conservés dans des réservoirs séparés et pompés à travers une cellule électrochimique. Puissance et énergie sont indépendantes : la puissance dépend de la taille de la cellule, l'énergie du volume des réservoirs ; pour stocker plus, on agrandit les réservoirs. Les batteries au vanadium sont les plus courantes et les plus avancées commercialement. Le vanadium peut exister dans la solution sous quatre états d'oxydation, ce qui permet d'utiliser le même élément des deux côtés, séparés par une membrane. Il existe d'autres types : zinc-brome, fer-chrome, et des batteries organiques, qui n'existent pas encore à grande échelle.
+
+## Des atouts
+
+Elles supportent un très grand nombre de cycles, car aucune transformation d'électrodes solides ne les abîme comme dans une batterie lithium-ion. Les électrolytes ne sont pas inflammables et sont stockés séparément de l'empilement qui produit le courant. On peut aussi la recharger instantanément en remplaçant l'électrolyte par du neuf.
+
+## Des limites et un usage
+
+Leur énergie par volume est faible, et les pompes consomment de l'électricité, ce qui réduit le rendement. Elles coûtent cher à l'achat, mais leur coût sur toute la durée de vie peut être compétitif pour du stockage de longue durée. Elles conviennent au stockage du réseau sur plusieurs heures, notamment pour intégrer les énergies renouvelables. La Chine exploite le plus grand système en service.
+
+## À retenir
+
+- Une batterie à flux stocke l'énergie dans deux électrolytes liquides, conservés dans des réservoirs et pompés à travers une cellule.
+- La puissance dépend de la cellule et l'énergie du volume des réservoirs : pour stocker plus, on agrandit les réservoirs.
+- Les batteries au vanadium sont les plus courantes et les plus avancées commercialement.
+- Elles supportent un très grand nombre de cycles, car aucune transformation d'électrodes solides ne les abîme comme dans une batterie lithium-ion.
+- Leur énergie par volume est faible, et les pompes consomment de l'électricité, ce qui réduit le rendement.
