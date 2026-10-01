@@ -11991,18 +11991,18 @@ geographie;geographie-et-territoires/geographie-physique;Pourquoi les outre-mer 
 geographie;geographie-et-territoires/geopolitique/routes-et-detroits;Comment un conteneur traverse-t-il le monde par la mer ?;comment-un-conteneur-traverse-t-il-le-monde-par-la-mer;0.83;non;published
 geographie;geographie-et-territoires/geographie-humaine/demographie;Pourquoi certains départements français gagnent-ils des habitants et d'autres en perdent-ils ?;pourquoi-certains-departements-francais-gagnent-ils-des-habitants-et-d-autres-en-perdent-ils;0.82;non;published
 geographie;geographie-et-territoires/geographie-humaine;Pourquoi tant de monde vit-il sur un si petit bout de côte en France ?;pourquoi-tant-de-monde-vit-il-sur-un-si-petit-bout-de-cote-en-france;0.81;non;published
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication des panneaux solaires en silicium;la-fabrication-des-panneaux-solaires-en-silicium;0.87;non;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication des puces en silicium, du wafer au boîtier;la-fabrication-des-puces-en-silicium-du-wafer-au-boitier;0.87;non;planned
-industries;industries/industrie-manufacturiere/chaine-logistique;Le conteneur maritime, la boîte qui a changé le commerce;le-conteneur-maritime-la-boite-qui-a-change-le-commerce;0.87;non;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication du papier, du bois à la feuille;la-fabrication-du-papier-du-bois-a-la-feuille;0.86;non;planned
-industries;industries/industrie-manufacturiere/qualite-et-normalisation;La normalisation ISO, pourquoi des normes communes;la-normalisation-iso-pourquoi-des-normes-communes;0.83;non;planned
-industries;industries/industrie-manufacturiere/automatisation;La réindustrialisation et la robotique en France;la-reindustrialisation-et-la-robotique-en-france;0.83;non;planned
-industries;industries/industrie-lourde/siderurgie;Le haut-fourneau et le four électrique, deux filières d'acier;le-haut-fourneau-et-le-four-electrique-deux-filieres-d-acier;0.82;non;planned
-industries;industries/industrie-lourde/siderurgie;L'acier décarboné produit avec de l'hydrogène;l-acier-decarbone-produit-avec-de-l-hydrogene;0.81;non;planned
-industries;industries/materiaux-et-procedes/mise-en-forme;La fabrication additive et les pièces détachées locales;la-fabrication-additive-et-les-pieces-detachees-locales;0.81;non;planned
-industries;industries/materiaux-et-procedes/mise-en-forme;Le recyclage des aimants de terres rares;le-recyclage-des-aimants-de-terres-rares;0.81;non;planned
-industries;industries/industrie-manufacturiere/chaine-logistique;Les gigafactories de batteries en Europe;les-gigafactories-de-batteries-en-europe;0.79;non;planned
-industries;industries/industrie-manufacturiere/chaine-logistique;Les micro-usines et les fab labs;les-micro-usines-et-les-fab-labs;0.79;non;planned
+industries;industries/industrie-lourde/chimie-industrielle;Comment fabrique-t-on un panneau solaire en silicium ?;comment-fabrique-t-on-un-panneau-solaire-en-silicium;0.87;non;published
+industries;industries/industrie-lourde/chimie-industrielle;Comment fabrique-t-on une puce électronique, de la tranche de silicium au boîtier ?;comment-fabrique-t-on-une-puce-electronique-de-la-tranche-de-silicium-au-boitier;0.87;non;published
+industries;industries/industrie-manufacturiere/chaine-logistique;Comment une simple boîte en acier a-t-elle changé la façon dont voyagent les objets ?;comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets;0.87;non;published
+industries;industries/industrie-lourde/chimie-industrielle;Comment le bois devient-il une feuille de papier ?;comment-le-bois-devient-il-une-feuille-de-papier;0.86;non;published
+industries;industries/industrie-manufacturiere/qualite-et-normalisation;Pourquoi le monde a-t-il besoin de normes communes comme celles de l'ISO ?;pourquoi-le-monde-a-t-il-besoin-de-normes-communes-comme-celles-de-l-iso;0.83;non;published
+industries;industries/industrie-manufacturiere/automatisation;Pourquoi la France cherche-t-elle à réindustrialiser, et quel rôle jouent les robots ?;pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots;0.83;non;published
+industries;industries/industrie-lourde/siderurgie;Comment fabrique-t-on de l'acier, avec un haut-fourneau ou un four électrique ?;comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique;0.82;non;published
+industries;industries/industrie-lourde/siderurgie;Peut-on fabriquer de l'acier sans émettre de CO2, grâce à l'hydrogène ?;peut-on-fabriquer-de-l-acier-sans-emettre-de-co2-grace-a-l-hydrogene;0.81;non;published
+industries;industries/materiaux-et-procedes/mise-en-forme;Comment une imprimante 3D peut-elle fabriquer une pièce détachée sur place ?;comment-une-imprimante-3d-peut-elle-fabriquer-une-piece-detachee-sur-place;0.81;non;published
+industries;industries/materiaux-et-procedes/mise-en-forme;Peut-on recycler les aimants des éoliennes et des voitures électriques ?;peut-on-recycler-les-aimants-des-eoliennes-et-des-voitures-electriques;0.81;non;published
+industries;industries/industrie-manufacturiere/chaine-logistique;Pourquoi l'Europe construit-elle des usines géantes de batteries, et réussissent-elles ?;pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles;0.79;non;published
+industries;industries/industrie-manufacturiere/chaine-logistique;Qu'est-ce qu'un fab lab, et que peut-on y fabriquer ?;qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer;0.79;non;published
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Comment les mots de passe sont protégés;comment-les-mots-de-passe-sont-proteges;0.91;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Le chiffrement RSA et les clés publique et privée;le-chiffrement-rsa-et-les-cles-publique-et-privee;0.91;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Comment voyagent les données sur Internet;comment-voyagent-les-donnees-sur-internet;0.9;non;planned

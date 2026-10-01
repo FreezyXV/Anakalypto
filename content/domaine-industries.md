@@ -10104,180 +10104,1012 @@ status: planned
 
 ---
 type: article
-title: La fabrication des panneaux solaires en silicium
-slug: la-fabrication-des-panneaux-solaires-en-silicium
+title: Comment fabrique-t-on un panneau solaire en silicium ?
+slug: comment-fabrique-t-on-un-panneau-solaire-en-silicium
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication des panneaux solaires en silicium.
-tags: [chimie-industrielle, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Un panneau solaire en silicium naît d'un silicium très purifié, coulé en lingots, découpé en
+  plaquettes, dopé, puis équipé de contacts métalliques et assemblé en modules.
+tags: [chimie-industrielle]
+sources:
+  - title: "Solar cell"
+    url: "https://en.wikipedia.org/wiki/Solar_cell"
+    publisher: "Wikipedia"
+  - title: "Cellule photovoltaïque"
+    url: "https://fr.wikipedia.org/wiki/Cellule_photovolta%C3%AFque"
+    publisher: "Wikipédia"
+  - title: "Polysilicon"
+    url: "https://en.wikipedia.org/wiki/Polysilicon"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel matériau est utilisé dans presque toutes les cellules solaires commerciales ?"
+    options:
+      - "Le cuivre"
+      - "Le silicium cristallin"
+      - "Le verre pilé"
+    answer: 2
+    explanation: >
+      Presque toutes les cellules solaires commerciales sont en silicium cristallin.
+  - question: "Comment obtient-on un silicium très pur ?"
+    options:
+      - "En le lavant à l'eau"
+      - "En le chauffant au soleil"
+      - "Par le procédé Siemens, via le trichlorosilane"
+    answer: 3
+    explanation: >
+      Le silicium de départ, dit métallurgique, est raffiné par le procédé Siemens : il est
+      transformé en trichlorosilane puis décomposé à haute température, ce qui élimine les
+      impuretés.
+  - question: "Qu'est-ce qu'un wafer ?"
+    options:
+      - "Un panneau fini"
+      - "Une plaquette très fine de silicium"
+      - "Un câble"
+    answer: 2
+    explanation: >
+      Les lingots sont découpés en plaquettes très fines, appelées wafers.
+  - question: "À quoi sert le dopage ?"
+    options:
+      - "À colorer la cellule"
+      - "À créer la jonction P-N qui produit le courant"
+      - "À protéger du gel"
+    answer: 2
+    explanation: >
+      On dope les plaquettes avec du bore, du phosphore ou d'autres éléments pour créer la
+      jonction P-N, qui produit le courant.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un panneau solaire en silicium naît d'un silicium très purifié, coulé en lingots, découpé en plaquettes, dopé, puis équipé de contacts métalliques et assemblé en modules.
+
+## Un silicium très pur
+
+Presque toutes les cellules solaires commerciales sont en silicium cristallin. Le silicium destiné au photovoltaïque doit être purifié à un niveau très élevé. Le silicium de départ, dit métallurgique, est raffiné par le procédé Siemens : il est transformé en trichlorosilane puis décomposé à haute température, ce qui élimine les impuretés. Ce procédé consomme beaucoup d'énergie ; un autre procédé, en lit fluidisé, en consomme bien moins. La Chine produit la grande majorité du polysilicium mondial.
+
+## Des lingots aux plaquettes
+
+Le silicium est ensuite transformé en lingots : monocristallins, tirés par la méthode de Czochralski, ou multicristallins, coulés en blocs carrés. Les lingots sont découpés en plaquettes très fines, appelées wafers. Ces plaquettes sont devenues de plus en plus fines au fil du temps, pour économiser le silicium.
+
+## De la plaquette au panneau
+
+On dope les plaquettes avec du bore, du phosphore ou d'autres éléments pour créer la jonction P-N, qui produit le courant. Des contacts métalliques, de larges bandes et de fins doigts, sont imprimés sur la cellule pour recueillir le courant. Les cellules sont ensuite assemblées en modules, les panneaux que l'on installe.
+
+## À retenir
+
+- Presque toutes les cellules solaires commerciales sont en silicium cristallin.
+- Le silicium destiné au photovoltaïque doit être purifié à un niveau très élevé.
+- Le silicium métallurgique est raffiné par le procédé Siemens, qui le transforme en trichlorosilane puis le décompose à haute température.
+- Le silicium est ensuite transformé en lingots : monocristallins, tirés par la méthode de Czochralski, ou multicristallins, coulés en blocs carrés.
+- On dope les plaquettes avec du bore, du phosphore ou d'autres éléments pour créer la jonction P-N, qui produit le courant.
 
 ---
 type: article
-title: La fabrication des puces en silicium, du wafer au boîtier
-slug: la-fabrication-des-puces-en-silicium-du-wafer-au-boitier
+title: Comment fabrique-t-on une puce électronique, de la tranche de silicium au boîtier ?
+slug: comment-fabrique-t-on-une-puce-electronique-de-la-tranche-de-silicium-au-boitier
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication des puces en silicium, du wafer au boîtier.
-tags: [chimie-industrielle, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Une puce naît d'une tranche de silicium très pur, le wafer. Des dizaines d'étapes en salle
+  blanche, dont la photolithographie, dessinent les circuits avant la découpe et la mise en
+  boîtier.
+tags: [chimie-industrielle]
+sources:
+  - title: "Semiconductor device fabrication"
+    url: "https://en.wikipedia.org/wiki/Semiconductor_device_fabrication"
+    publisher: "Wikipedia"
+  - title: "Photolithography"
+    url: "https://en.wikipedia.org/wiki/Photolithography"
+    publisher: "Wikipedia"
+  - title: "Wafer (electronics)"
+    url: "https://en.wikipedia.org/wiki/Wafer_(electronics)"
+    publisher: "Wikipedia"
+  - title: "Integrated circuit packaging"
+    url: "https://en.wikipedia.org/wiki/Integrated_circuit_packaging"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'un wafer ?"
+    options:
+      - "Une puce finie"
+      - "Une tranche très fine de silicium très pur"
+      - "Un type de boîtier"
+    answer: 2
+    explanation: >
+      Une puce part d'un wafer, une tranche très fine de silicium très pur, découpée dans un
+      lingot monocristallin tiré par la méthode de Czochralski.
+  - question: "Où fabrique-t-on les puces ?"
+    options:
+      - "Dans un garage"
+      - "Dans une cave humide"
+      - "En salle blanche"
+    answer: 3
+    explanation: >
+      La fabrication se fait en salle blanche, avec une maîtrise extrême des poussières : les
+      opérateurs portent des combinaisons et l'air est filtré.
+  - question: "Que fait la photolithographie ?"
+    options:
+      - "Elle projette un motif sur une résine sensible à la lumière"
+      - "Elle refroidit le silicium"
+      - "Elle colle les boîtiers"
+    answer: 1
+    explanation: >
+      La photolithographie projette un motif, à travers un masque, sur une résine sensible à la
+      lumière déposée sur le wafer ; les zones exposées sont ensuite retirées par un
+      développeur.
+  - question: "À quoi sert le boîtier d'une puce ?"
+    options:
+      - "Décorer la puce"
+      - "Produire de l'électricité"
+      - "Protéger la puce, évacuer la chaleur et la relier au circuit"
+    answer: 3
+    explanation: >
+      Le boîtier protège la puce contre les chocs, la corrosion et l'humidité, évacue la chaleur
+      et relie la puce au circuit imprimé par des broches, des fils ou des billes.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une puce naît d'une tranche de silicium très pur, le wafer. Des dizaines d'étapes en salle blanche, dont la photolithographie, dessinent les circuits avant la découpe et la mise en boîtier.
+
+## Du lingot au wafer
+
+Une puce part d'un wafer, une tranche très fine de silicium très pur, découpée dans un lingot monocristallin tiré par la méthode de Czochralski. La fabrication se fait en salle blanche, avec une maîtrise extrême des poussières : les opérateurs portent des combinaisons et l'air est filtré.
+
+## Dessiner les circuits
+
+La photolithographie projette un motif, à travers un masque, sur une résine sensible à la lumière déposée sur le wafer ; les zones exposées sont ensuite retirées par un développeur. Le motif est ensuite transféré dans le matériau par gravure, dépôt de couches minces ou implantation d'ions. L'implantation d'ions sert à doper le silicium. La finesse du motif dépend de la longueur d'onde de la lumière : plus elle est courte, plus on peut graver fin. Les machines les plus récentes utilisent l'ultraviolet extrême, ou EUV, entré en production de masse. La photolithographie représente une part importante du coût de traitement d'un wafer. On répète de nombreuses étapes pour empiler les couches d'une puce, et la fabrication d'une puce avancée prend plusieurs semaines. Les noms en nanomètres des procédés de fabrication sont devenus surtout un argument commercial, sans lien direct avec la taille réelle des éléments.
+
+## Du wafer au boîtier
+
+Après la fabrication, on teste le wafer, on le découpe en puces individuelles et on monte chaque puce dans un boîtier. Le boîtier protège la puce contre les chocs, la corrosion et l'humidité, évacue la chaleur et relie la puce au circuit imprimé par des broches, des fils ou des billes.
+
+## À retenir
+
+- Une puce part d'un wafer, une tranche de silicium très pur, découpée dans un lingot monocristallin.
+- La fabrication se fait en salle blanche, avec une maîtrise extrême des poussières : les opérateurs portent des combinaisons et l'air est filtré.
+- La photolithographie projette un motif sur une résine sensible à la lumière déposée sur le wafer.
+- Les machines les plus récentes utilisent l'ultraviolet extrême, ou EUV, entré en production de masse.
+- Le boîtier protège la puce, évacue la chaleur et la relie au circuit imprimé.
 
 ---
 type: article
-title: Le conteneur maritime, la boîte qui a changé le commerce
-slug: le-conteneur-maritime-la-boite-qui-a-change-le-commerce
+title: Comment une simple boîte en acier a-t-elle changé la façon dont voyagent les objets ?
+slug: comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets
 categoryPath: industries/industrie-manufacturiere/chaine-logistique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le conteneur maritime, la boîte qui a changé le commerce.
-tags: [chaine-logistique, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Le conteneur est un grand caisson d'acier standardisé qui passe du bateau au train et au
+  camion sans qu'on décharge son contenu. Il a fait baisser les coûts de transport et soutenu la
+  mondialisation.
+tags: [chaine-logistique]
+sources:
+  - title: "Intermodal container"
+    url: "https://en.wikipedia.org/wiki/Intermodal_container"
+    publisher: "Wikipedia"
+  - title: "Containerization"
+    url: "https://en.wikipedia.org/wiki/Containerization"
+    publisher: "Wikipedia"
+  - title: "Maritime transport"
+    url: "https://en.wikipedia.org/wiki/Maritime_transport"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que peut-on faire avec un conteneur sans en décharger le contenu ?"
+    options:
+      - "Le transformer en maison"
+      - "Le peindre en vert"
+      - "Le faire passer du bateau au train et au camion"
+    answer: 3
+    explanation: >
+      Un conteneur est un grand caisson d'acier standardisé conçu pour transporter des
+      marchandises par bateau, par train et par camion sans les décharger.
+  - question: "Que signifie EVP ?"
+    options:
+      - "Embarquement vers le port"
+      - "Entrée de voie principale"
+      - "Équivalent vingt pieds"
+    answer: 3
+    explanation: >
+      On compte en EVP, équivalent vingt pieds : un conteneur de 20 pieds vaut un EVP, un de 40
+      pieds en vaut deux.
+  - question: "Qui a mis au point le conteneur moderne ?"
+    options:
+      - "Gustave Eiffel"
+      - "Malcom McLean avec Keith Tantlinger"
+      - "Christophe Colomb"
+    answer: 2
+    explanation: >
+      Le transporteur américain Malcom McLean a mis au point le conteneur moderne avec
+      l'ingénieur Keith Tantlinger.
+  - question: "Qu'a fait la conteneurisation des coûts de transport ?"
+    options:
+      - "Elle les a fortement réduits"
+      - "Elle les a doublés"
+      - "Elle les a supprimés"
+    answer: 1
+    explanation: >
+      La conteneurisation a fortement réduit les coûts de transport et soutenu le boom du
+      commerce international d'après-guerre.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le conteneur est un grand caisson d'acier standardisé qui passe du bateau au train et au camion sans qu'on décharge son contenu. Il a fait baisser les coûts de transport et soutenu la mondialisation.
+
+## Une boîte standard
+
+Un conteneur est un grand caisson d'acier standardisé conçu pour transporter des marchandises par bateau, par train et par camion sans les décharger. Deux tailles dominent : les conteneurs de 20 pieds, soit environ 6 mètres, et ceux de 40 pieds, soit environ 12 mètres. On compte en EVP, équivalent vingt pieds : un conteneur de 20 pieds vaut un EVP, un de 40 pieds en vaut deux. Chaque conteneur a huit pièces de coin avec des verrous tournants, qui servent à le lever, l'empiler et l'attacher. Des normes ISO fixent ses dimensions et ses marquages.
+
+## Une invention américaine
+
+Le transporteur américain Malcom McLean a mis au point le conteneur moderne avec l'ingénieur Keith Tantlinger. Le premier transport réussi s'est fait avec le navire Ideal X, de Newark à Houston.
+
+## Des effets mondiaux
+
+La conteneurisation a fortement réduit les coûts de transport et soutenu le boom du commerce international d'après-guerre. Elle est devenue un élément majeur de la mondialisation. Le conteneur transporte la grande majorité des marchandises qui ne sont pas du vrac. Elle a bouleversé les ports : certains ont décliné, et d'autres, comme Rotterdam et Felixstowe, sont devenus de grands hubs.
+
+## À retenir
+
+- Un conteneur est un caisson d'acier standardisé qui passe du bateau au train et au camion sans qu'on décharge son contenu.
+- Deux tailles dominent : les conteneurs de 20 pieds, soit environ 6 mètres, et ceux de 40 pieds, soit environ 12 mètres.
+- On compte en EVP, équivalent vingt pieds : un conteneur de 20 pieds vaut un EVP, un de 40 pieds en vaut deux.
+- Le transporteur américain Malcom McLean a mis au point le conteneur moderne avec l'ingénieur Keith Tantlinger.
+- La conteneurisation a fortement réduit les coûts de transport et soutenu le boom du commerce international d'après-guerre.
 
 ---
 type: article
-title: La fabrication du papier, du bois à la feuille
-slug: la-fabrication-du-papier-du-bois-a-la-feuille
+title: Comment le bois devient-il une feuille de papier ?
+slug: comment-le-bois-devient-il-une-feuille-de-papier
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication du papier, du bois à la feuille.
-tags: [chimie-industrielle, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Le papier est fait de fibres de cellulose mises en suspension dans l'eau. Le bois est réduit
+  en pâte, la suspension s'égoutte sur une toile, puis la feuille est pressée et séchée.
+tags: [chimie-industrielle]
+sources:
+  - title: "Papier"
+    url: "https://fr.wikipedia.org/wiki/Papier"
+    publisher: "Wikipédia"
+  - title: "Papermaking"
+    url: "https://en.wikipedia.org/wiki/Papermaking"
+    publisher: "Wikipedia"
+  - title: "Pulp (paper)"
+    url: "https://en.wikipedia.org/wiki/Pulp_(paper)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "De quoi est fait le papier ?"
+    options:
+      - "De plastique fondu"
+      - "De sable"
+      - "De fibres de cellulose en suspension dans l'eau"
+    answer: 3
+    explanation: >
+      Le papier est fait de fibres de cellulose, souvent tirées du bois, mises en suspension
+      dans l'eau.
+  - question: "Que fait le procédé kraft ?"
+    options:
+      - "Il sépare la cellulose de la lignine"
+      - "Il colore le papier"
+      - "Il fabrique de l'encre"
+    answer: 1
+    explanation: >
+      Le bois est réduit en pâte, par un procédé mécanique ou chimique ; le procédé kraft, très
+      répandu, sépare la cellulose de la lignine.
+  - question: "Que devient la suspension de fibres sur la machine ?"
+    options:
+      - "Elle gèle"
+      - "Elle s'égoutte sur une toile pour former la feuille"
+      - "Elle brûle"
+    answer: 2
+    explanation: >
+      La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensuite retirée
+      par pressage, aspiration, vide ou chauffage.
+  - question: "Qui est attribuée l'invention du papier ?"
+    options:
+      - "À Gutenberg"
+      - "À Léonard de Vinci"
+      - "À Cai Lun, en Chine"
+    answer: 3
+    explanation: >
+      On attribue l'invention du papier à Cai Lun, un fonctionnaire chinois de la dynastie Han,
+      qui utilisait de l'écorce de mûrier, de vieux filets, des chiffons et du chanvre.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le papier est fait de fibres de cellulose mises en suspension dans l'eau. Le bois est réduit en pâte, la suspension s'égoutte sur une toile, puis la feuille est pressée et séchée.
+
+## Des fibres de bois
+
+Le papier est fait de fibres de cellulose, souvent tirées du bois, mises en suspension dans l'eau. Le bois est réduit en pâte, par un procédé mécanique ou chimique ; le procédé kraft, très répandu, sépare la cellulose de la lignine. La pâte mécanique garde la lignine : ses fibres sont plus faibles, mais elle utilise mieux le bois. Le blanchiment moderne évite le chlore et emploie plutôt du dioxyde de chlore, de l'oxygène, de l'ozone ou de l'eau oxygénée.
+
+## De la pâte à la feuille
+
+La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensuite retirée par pressage, aspiration, vide ou chauffage. La feuille est séchée sur des cylindres chauffés, puis éventuellement lissée au calandrage. De très grandes machines produisent la feuille en continu, à grande vitesse. La machine à papier de type Fourdrinier produit un rouleau continu au lieu de feuilles séparées.
+
+## Une longue histoire
+
+On attribue l'invention du papier à Cai Lun, un fonctionnaire chinois de la dynastie Han, qui utilisait de l'écorce de mûrier, de vieux filets, des chiffons et du chanvre. Pendant près de deux mille ans, les chiffons ont été la principale source de fibres, avant l'arrivée de la pâte de bois. Les vieux papiers sont broyés dans l'eau, désencrés et purifiés par des lavages successifs. La fabrication du papier demande beaucoup d'eau et des produits chimiques, et le bois vient de forêts, ce qui soulève des questions environnementales.
+
+## À retenir
+
+- Le papier est fait de fibres de cellulose, souvent tirées du bois, mises en suspension dans l'eau.
+- Le bois est réduit en pâte, par un procédé mécanique ou chimique ; le procédé kraft sépare la cellulose de la lignine.
+- La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensuite retirée par pressage, aspiration, vide ou chauffage.
+- La feuille est séchée sur des cylindres chauffés, puis éventuellement lissée au calandrage.
+- Les vieux papiers sont broyés dans l'eau, désencrés et purifiés par des lavages successifs.
 
 ---
 type: article
-title: La normalisation ISO, pourquoi des normes communes
-slug: la-normalisation-iso-pourquoi-des-normes-communes
+title: Pourquoi le monde a-t-il besoin de normes communes comme celles de l'ISO ?
+slug: pourquoi-le-monde-a-t-il-besoin-de-normes-communes-comme-celles-de-l-iso
 categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la normalisation ISO, pourquoi des normes communes.
-tags: [qualite-et-normalisation, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  L'ISO réunit des organismes nationaux de normalisation et publie des normes internationales.
+  Elles assurent compatibilité, sécurité et qualité, et facilitent le commerce.
+tags: [qualite-et-normalisation]
+sources:
+  - title: "International Organization for Standardization"
+    url: "https://en.wikipedia.org/wiki/International_Organization_for_Standardization"
+    publisher: "Wikipedia"
+  - title: "Organisation internationale de normalisation"
+    url: "https://fr.wikipedia.org/wiki/Organisation_internationale_de_normalisation"
+    publisher: "Wikipédia"
+  - title: "Intermodal container"
+    url: "https://en.wikipedia.org/wiki/Intermodal_container"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que signifie le nom ISO ?"
+    options:
+      - "Il vient du grec isos, égal"
+      - "Il est un sigle de trois mots anglais"
+      - "Il vient du latin iter"
+    answer: 1
+    explanation: >
+      ISO n'est pas un sigle : le nom vient du grec isos, qui signifie égal, et il est identique
+      dans toutes les langues.
+  - question: "Où l'ISO est-elle basée ?"
+    options:
+      - "À Paris"
+      - "En Suisse, près de Genève"
+      - "À New York"
+    answer: 2
+    explanation: >
+      Elle est basée en Suisse, près de Genève.
+  - question: "À quoi servent les normes ISO ?"
+    options:
+      - "À fixer le prix des produits"
+      - "À interdire les importations"
+      - "À assurer compatibilité, sécurité et qualité, et faciliter les échanges"
+    answer: 3
+    explanation: >
+      Ces normes servent à assurer la compatibilité, la sécurité et la qualité, et à faciliter
+      les échanges commerciaux.
+  - question: "Quelle norme ISO fixe les formats de papier ?"
+    options:
+      - "ISO 9001"
+      - "ISO 14001"
+      - "ISO 216"
+    answer: 3
+    explanation: >
+      Parmi les normes connues : ISO 9001 pour la qualité, ISO 14001 pour l'environnement, ISO
+      216 pour les formats de papier et ISO 22000 pour la sécurité alimentaire.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'ISO réunit des organismes nationaux de normalisation et publie des normes internationales. Elles assurent compatibilité, sécurité et qualité, et facilitent le commerce.
+
+## Qu'est-ce que l'ISO ?
+
+L'ISO est une organisation internationale non gouvernementale qui réunit des organismes nationaux de normalisation, à raison d'un par pays. Elle est basée en Suisse, près de Genève. ISO n'est pas un sigle : le nom vient du grec isos, qui signifie égal, et il est identique dans toutes les langues. Elle compte de très nombreux pays membres, chacun représenté par un seul organisme national.
+
+## À quoi servent les normes ?
+
+Ces normes servent à assurer la compatibilité, la sécurité et la qualité, et à faciliter les échanges commerciaux. Elle a publié des dizaines de milliers de normes internationales. Parmi les normes connues : ISO 9001 pour la qualité, ISO 14001 pour l'environnement, ISO 216 pour les formats de papier et ISO 22000 pour la sécurité alimentaire. Des normes ISO fixent aussi les dimensions et les marquages des conteneurs maritimes.
+
+## Comment naît une norme ?
+
+Chaque norme suit un processus en plusieurs étapes : proposition, préparation, comités, enquête, approbation et publication. Des centaines de comités techniques travaillent à la rédaction des normes. Les langues officielles de l'ISO sont l'anglais, le français et le russe. L'ISO travaille avec la Commission électrotechnique internationale, la CEI, notamment pour les technologies de l'information.
+
+## À retenir
+
+- L'ISO est une organisation internationale non gouvernementale qui réunit des organismes nationaux de normalisation, à raison d'un par pays.
+- ISO n'est pas un sigle : le nom vient du grec isos, qui signifie égal, et il est identique dans toutes les langues.
+- Ces normes servent à assurer la compatibilité, la sécurité et la qualité, et à faciliter les échanges commerciaux.
+- Parmi les normes connues : ISO 9001 pour la qualité, ISO 14001 pour l'environnement, ISO 216 pour les formats de papier.
+- Chaque norme suit un processus en plusieurs étapes : proposition, préparation, comités, enquête, approbation et publication.
 
 ---
 type: article
-title: La réindustrialisation et la robotique en France
-slug: la-reindustrialisation-et-la-robotique-en-france
+title: Pourquoi la France cherche-t-elle à réindustrialiser, et quel rôle jouent les robots ?
+slug: pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots
 categoryPath: industries/industrie-manufacturiere/automatisation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la réindustrialisation et la robotique en France.
-tags: [automatisation, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  L'industrie a perdu du poids en France depuis les années 1970 et 1980. La robotisation
+  transforme les usines et les emplois, mais elle ne suffit pas à elle seule à inverser ce
+  recul.
+tags: [automatisation]
+sources:
+  - title: "Désindustrialisation"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9sindustrialisation"
+    publisher: "Wikipédia"
+  - title: "Robot industriel"
+    url: "https://fr.wikipedia.org/wiki/Robot_industriel"
+    publisher: "Wikipédia"
+  - title: "Industrial robot"
+    url: "https://en.wikipedia.org/wiki/Industrial_robot"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Depuis quand l'industrie perd-elle du poids en France ?"
+    options:
+      - "Depuis hier"
+      - "Depuis les années 1970 et 1980"
+      - "Depuis 1789"
+    answer: 2
+    explanation: >
+      L'industrie française a perdu du poids depuis les années 1970 et 1980, en emplois comme en
+      part de la richesse produite.
+  - question: "Qu'est-ce qu'un robot industriel ?"
+    options:
+      - "Un ordinateur de bureau"
+      - "Un camion"
+      - "Un système automatique reprogrammable, souvent un bras articulé"
+    answer: 3
+    explanation: >
+      Un robot industriel est un système commandé automatiquement, reprogrammable et polyvalent,
+      souvent un bras articulé à plusieurs axes.
+  - question: "Quel secteur est le premier client des robots industriels ?"
+    options:
+      - "La musique"
+      - "L'agriculture bio"
+      - "L'automobile"
+    answer: 3
+    explanation: >
+      L'automobile est le premier client des robots industriels, devant l'électronique.
+  - question: "Que fait la robotisation aux emplois ?"
+    options:
+      - "Elle ne change rien"
+      - "Elle supprime certaines tâches et en modifie beaucoup d'autres"
+      - "Elle crée seulement des emplois"
+    answer: 2
+    explanation: >
+      La robotisation transforme les emplois : elle supprime certaines tâches et en modifie
+      beaucoup d'autres.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'industrie a perdu du poids en France depuis les années 1970 et 1980. La robotisation transforme les usines et les emplois, mais elle ne suffit pas à elle seule à inverser ce recul.
+
+## Un recul de l'industrie
+
+L'industrie française a perdu du poids depuis les années 1970 et 1980, en emplois comme en part de la richesse produite. Le recul a été plus marqué qu'en Allemagne ou en Italie : l'industrie pèse moins dans l'économie française. Les causes sont multiples : l'externalisation de services par les entreprises industrielles, les gains de productivité qui changent la demande, et la concurrence étrangère. La crise de 2008 a durement frappé l'industrie française, dont la production a nettement baissé.
+
+## Ce qu'est un robot industriel
+
+Un robot industriel est un système commandé automatiquement, reprogrammable et polyvalent, souvent un bras articulé à plusieurs axes. Il soude, peint, assemble, déplace, emballe, palettise, contrôle et teste. Il existe plusieurs types de robots : articulés, cartésiens, cylindriques, Delta, polaires et SCARA. Le premier robot industriel, l'Unimate de George Devol, a été utilisé dans une usine de General Motors.
+
+## La robotisation dans le monde
+
+La Chine est le pays qui installe le plus de robots industriels. L'automobile est le premier client des robots industriels, devant l'électronique. Des millions de robots industriels sont en service dans le monde. La robotisation transforme les emplois : elle supprime certaines tâches et en modifie beaucoup d'autres.
+
+## À retenir
+
+- L'industrie française a perdu du poids depuis les années 1970 et 1980, en emplois comme en part de la richesse produite.
+- Les causes sont multiples : externalisation de services, gains de productivité qui changent la demande, et concurrence étrangère.
+- Un robot industriel est un système commandé automatiquement, reprogrammable et polyvalent, souvent un bras articulé à plusieurs axes.
+- Il soude, peint, assemble, déplace, emballe, palettise, contrôle et teste.
+- La robotisation transforme les emplois : elle supprime certaines tâches et en modifie beaucoup d'autres.
 
 ---
 type: article
-title: Le haut-fourneau et le four électrique, deux filières d'acier
-slug: le-haut-fourneau-et-le-four-electrique-deux-filieres-d-acier
+title: Comment fabrique-t-on de l'acier, avec un haut-fourneau ou un four électrique ?
+slug: comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique
 categoryPath: industries/industrie-lourde/siderurgie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le haut-fourneau et le four électrique, deux filières d'acier.
-tags: [siderurgie, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  Il existe deux grandes filières pour faire de l'acier : le haut-fourneau, qui transforme du
+  minerai de fer avec du coke, et le four électrique, qui fond surtout de la ferraille recyclée.
+tags: [siderurgie]
+sources:
+  - title: "Haut fourneau"
+    url: "https://fr.wikipedia.org/wiki/Haut_fourneau"
+    publisher: "Wikipédia"
+  - title: "Electric arc furnace"
+    url: "https://en.wikipedia.org/wiki/Electric_arc_furnace"
+    publisher: "Wikipedia"
+  - title: "Steelmaking"
+    url: "https://en.wikipedia.org/wiki/Steelmaking"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que charge-t-on dans un haut-fourneau ?"
+    options:
+      - "Du bois et du papier"
+      - "Du minerai de fer, du coke et des fondants"
+      - "De l'eau et du sable"
+    answer: 2
+    explanation: >
+      Dans un haut-fourneau, on charge par le haut du minerai de fer, du coke et des fondants,
+      et l'on souffle de l'air chaud par le bas.
+  - question: "Qu'est-ce qu'un four à arc électrique fond surtout ?"
+    options:
+      - "De la ferraille recyclée"
+      - "Du verre"
+      - "De la glace"
+    answer: 1
+    explanation: >
+      Un four à arc électrique fond de la ferraille, ou du fer de réduction directe, grâce à un
+      arc électrique entre des électrodes en graphite.
+  - question: "Quelle filière émet le plus de CO2 ?"
+    options:
+      - "Le four électrique avec électricité peu carbonée"
+      - "Le haut-fourneau"
+      - "Aucune"
+    answer: 2
+    explanation: >
+      Cette filière émet beaucoup de CO2, car le carbone du coke sert à retirer l'oxygène du
+      minerai.
+  - question: "Que consomme beaucoup le four électrique ?"
+    options:
+      - "De l'électricité"
+      - "Du charbon"
+      - "De l'eau de mer"
+    answer: 1
+    explanation: >
+      Le four électrique consomme beaucoup d'électricité : il lui faut une source fiable et
+      abondante.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Il existe deux grandes filières pour faire de l'acier : le haut-fourneau, qui transforme du minerai de fer avec du coke, et le four électrique, qui fond surtout de la ferraille recyclée.
+
+## La voie haut-fourneau
+
+Dans un haut-fourneau, on charge par le haut du minerai de fer, du coke et des fondants, et l'on souffle de l'air chaud par le bas. Le coke brûle et libère du monoxyde de carbone, qui retire l'oxygène du minerai : on obtient de la fonte liquide et du laitier. La fonte passe ensuite dans un convertisseur pour devenir de l'acier. Un haut-fourneau fonctionne en continu pendant des années, puis son garnissage intérieur doit être refait. Cette filière émet beaucoup de CO2, car le carbone du coke sert à retirer l'oxygène du minerai.
+
+## La voie four électrique
+
+Un four à arc électrique fond de la ferraille, ou du fer de réduction directe, grâce à un arc électrique entre des électrodes en graphite. Il permet de fabriquer de l'acier avec uniquement de la ferraille recyclée. Le four électrique consomme beaucoup d'électricité : il lui faut une source fiable et abondante. Les fours électriques vont de petites unités de fonderie à de très gros fours de plusieurs centaines de tonnes. Cette filière émet beaucoup moins de CO2 que la voie haut-fourneau, si l'électricité est peu carbonée.
+
+## Deux filières, deux empreintes
+
+Dans le monde, la voie haut-fourneau fournit la majorité de l'acier, et le four électrique environ un tiers. La sidérurgie est responsable d'une part importante des émissions mondiales de CO2.
+
+## À retenir
+
+- Dans un haut-fourneau, on charge minerai, coke et fondants par le haut, et l'on souffle de l'air chaud par le bas.
+- Le coke brûle et libère du monoxyde de carbone, qui retire l'oxygène du minerai : on obtient de la fonte liquide et du laitier.
+- Cette filière émet beaucoup de CO2, car le carbone du coke sert à retirer l'oxygène du minerai.
+- Un four à arc électrique fond de la ferraille grâce à un arc électrique entre des électrodes en graphite.
+- Cette filière émet beaucoup moins de CO2 que la voie haut-fourneau, si l'électricité est peu carbonée.
 
 ---
 type: article
-title: L'acier décarboné produit avec de l'hydrogène
-slug: l-acier-decarbone-produit-avec-de-l-hydrogene
+title: Peut-on fabriquer de l'acier sans émettre de CO2, grâce à l'hydrogène ?
+slug: peut-on-fabriquer-de-l-acier-sans-emettre-de-co2-grace-a-l-hydrogene
 categoryPath: industries/industrie-lourde/siderurgie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'acier décarboné produit avec de l'hydrogène.
-tags: [siderurgie, veille-2026-09]
-priority: 0.81
-essentiel: false
-status: planned
+  Au lieu du coke, l'hydrogène peut retirer l'oxygène du minerai de fer : le sous-produit est de
+  l'eau. Le fer est ensuite fondu dans un four électrique. Il faut beaucoup d'énergie
+  renouvelable.
+tags: [siderurgie]
+sources:
+  - title: "Green steel"
+    url: "https://en.wikipedia.org/wiki/Green_steel"
+    publisher: "Wikipedia"
+  - title: "Direct reduced iron"
+    url: "https://en.wikipedia.org/wiki/Direct_reduced_iron"
+    publisher: "Wikipedia"
+  - title: "Steelmaking"
+    url: "https://en.wikipedia.org/wiki/Steelmaking"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que remplace l'hydrogène dans cette filière ?"
+    options:
+      - "Le coke, qui retire l'oxygène du minerai"
+      - "Le minerai de fer"
+      - "Le four"
+    answer: 1
+    explanation: >
+      La voie la plus prometteuse remplace le coke par de l'hydrogène pour retirer l'oxygène du
+      minerai, puis fond le fer dans un four électrique.
+  - question: "Quel est le seul sous-produit de la réaction avec l'hydrogène ?"
+    options:
+      - "De l'eau"
+      - "Du CO2"
+      - "Du pétrole"
+    answer: 1
+    explanation: >
+      Avec l'hydrogène, le seul sous-produit de la réaction est de l'eau, et non du CO2.
+  - question: "Que faut-il pour que le procédé soit vraiment propre ?"
+    options:
+      - "Du charbon bon marché"
+      - "Du gaz naturel"
+      - "De l'hydrogène et de l'électricité produits avec des énergies renouvelables"
+    answer: 3
+    explanation: >
+      Pour que le procédé soit vraiment propre, l'hydrogène et l'électricité doivent être
+      produits avec des énergies renouvelables.
+  - question: "Quel inconvénient a l'hydrogène ?"
+    options:
+      - "Il rend l'acier friable"
+      - "Il augmente le coût de fabrication"
+      - "Il est interdit"
+    answer: 2
+    explanation: >
+      L'hydrogène augmente le coût de fabrication par rapport aux méthodes classiques.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au lieu du coke, l'hydrogène peut retirer l'oxygène du minerai de fer : le sous-produit est de l'eau. Le fer est ensuite fondu dans un four électrique. Il faut beaucoup d'énergie renouvelable.
+
+## Pourquoi décarboner l'acier ?
+
+L'acier vert est fabriqué avec très peu d'émissions de CO2, voire aucune, sans énergie fossile. La sidérurgie pèse lourd dans les émissions mondiales de CO2, d'où l'intérêt de la décarboner. Certaines entreprises disent produire de l'acier vert alors qu'elles ne font que réduire leurs émissions sans les supprimer.
+
+## Le principe de l'hydrogène
+
+Le fer de réduction directe, ou DRI, est du minerai de fer réduit à l'état solide, sous sa température de fusion, par un gaz réducteur. La voie la plus prometteuse remplace le coke par de l'hydrogène pour retirer l'oxygène du minerai, puis fond le fer dans un four électrique. Avec l'hydrogène, le seul sous-produit de la réaction est de l'eau, et non du CO2. Ce fer alimente des fours électriques et évite le haut-fourneau. Il rouille, et peut même s'enflammer, s'il n'est pas protégé : on le transforme donc rapidement en acier.
+
+## Un chemin encore long
+
+Pour que le procédé soit vraiment propre, l'hydrogène et l'électricité doivent être produits avec des énergies renouvelables. Cela demande une énorme capacité d'énergies renouvelables, ce qui freine le déploiement. L'hydrogène augmente le coût de fabrication par rapport aux méthodes classiques. ArcelorMittal, Voestalpine et Tata se sont engagés à utiliser de l'hydrogène vert pour produire du fer. Le projet suédois HYBRIT a mis en œuvre la réduction directe par hydrogène. Recycler de la ferraille évite aussi beaucoup d'émissions par rapport à la voie haut-fourneau.
+
+## À retenir
+
+- L'acier vert est fabriqué avec très peu d'émissions de CO2, voire aucune, sans énergie fossile.
+- La voie la plus prometteuse remplace le coke par de l'hydrogène, puis fond le fer dans un four électrique.
+- Avec l'hydrogène, le seul sous-produit de la réaction est de l'eau, et non du CO2.
+- Pour que le procédé soit vraiment propre, l'hydrogène et l'électricité doivent être produits avec des énergies renouvelables.
+- L'hydrogène augmente le coût de fabrication par rapport aux méthodes classiques.
 
 ---
 type: article
-title: La fabrication additive et les pièces détachées locales
-slug: la-fabrication-additive-et-les-pieces-detachees-locales
+title: Comment une imprimante 3D peut-elle fabriquer une pièce détachée sur place ?
+slug: comment-une-imprimante-3d-peut-elle-fabriquer-une-piece-detachee-sur-place
 categoryPath: industries/materiaux-et-procedes/mise-en-forme
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la fabrication additive et les pièces détachées locales.
-tags: [mise-en-forme, veille-2026-09]
-priority: 0.81
-essentiel: false
-status: planned
+  La fabrication additive, ou impression 3D, construit un objet couche par couche à partir d'un
+  modèle numérique. Elle permet des petites séries et des pièces à la demande, près des clients.
+tags: [mise-en-forme]
+sources:
+  - title: "Fabrication additive"
+    url: "https://fr.wikipedia.org/wiki/Fabrication_additive"
+    publisher: "Wikipédia"
+  - title: "3D printing"
+    url: "https://en.wikipedia.org/wiki/3D_printing"
+    publisher: "Wikipedia"
+  - title: "Distributed manufacturing"
+    url: "https://en.wikipedia.org/wiki/Distributed_manufacturing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment fonctionne la fabrication additive ?"
+    options:
+      - "On ajoute de la matière couche par couche"
+      - "On enlève de la matière avec un couteau"
+      - "On moule de l'eau"
+    answer: 1
+    explanation: >
+      La fabrication additive, ou impression 3D, construit un objet en ajoutant de la matière
+      couche par couche à partir d'un modèle numérique.
+  - question: "Quel est le procédé le plus courant ?"
+    options:
+      - "La soudure à l'arc"
+      - "La peinture au pistolet"
+      - "Le dépôt de fil fondu"
+    answer: 3
+    explanation: >
+      Le procédé le plus courant est le dépôt de fil fondu : un filament de plastique est déposé
+      couche après couche.
+  - question: "Quel avantage a l'impression de pièces sur place ?"
+    options:
+      - "Moins de transport et des délais plus courts"
+      - "Elle ne coûte jamais rien"
+      - "Elle supprime les usines"
+    answer: 1
+    explanation: >
+      Imprimer une pièce près de son lieu d'usage permet de réduire les coûts de transport et de
+      répondre plus vite aux besoins locaux.
+  - question: "Citez une limite de l'impression 3D."
+    options:
+      - "Elle ne sait faire que des cubes"
+      - "La vitesse et le coût"
+      - "Elle exige de la neige"
+    answer: 2
+    explanation: >
+      Ses limites sont la vitesse, le coût et les propriétés des matériaux ; les composants
+      électroniques sont difficiles à imprimer.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La fabrication additive, ou impression 3D, construit un objet couche par couche à partir d'un modèle numérique. Elle permet des petites séries et des pièces à la demande, près des clients.
+
+## Imprimer couche par couche
+
+La fabrication additive, ou impression 3D, construit un objet en ajoutant de la matière couche par couche à partir d'un modèle numérique. Elle s'oppose à la fabrication soustractive, qui enlève de la matière. Le procédé le plus courant est le dépôt de fil fondu : un filament de plastique est déposé couche après couche. La stéréolithographie durcit une résine liquide avec de la lumière ultraviolette. On imprime des plastiques, des métaux comme l'aluminium, l'acier et le titane, des céramiques, du verre et même du béton.
+
+## Des pièces à la demande, sur place
+
+Elle permet des formes complexes impossibles à fabriquer à la main, avec peu de déchets. Elle convient aux prototypes, aux petites séries et aux pièces à la demande. Imprimer une pièce près de son lieu d'usage permet de réduire les coûts de transport et de répondre plus vite aux besoins locaux. Pendant la crise du Covid-19, des réseaux de fabrication distribuée ont produit en impression 3D des visières, des respirateurs et des écouvillons. L'aéronautique, la médecine, la construction et la défense l'utilisent, et Airbus intègre de nombreuses pièces imprimées dans l'A350.
+
+## Des limites à connaître
+
+Trois ingénieurs français et l'Américain Chuck Hull ont déposé les premiers brevets, et l'expiration de brevets a favorisé la diffusion de la technique. Le prix des imprimantes d'entrée de gamme a beaucoup baissé. Ses limites sont la vitesse, le coût et les propriétés des matériaux ; les composants électroniques sont difficiles à imprimer. Pour la fabrication distribuée, il faut encore régler les questions de qualité, de réglementation et de coordination entre les sites de production.
+
+## À retenir
+
+- La fabrication additive, ou impression 3D, construit un objet en ajoutant de la matière couche par couche à partir d'un modèle numérique.
+- Elle s'oppose à la fabrication soustractive, qui enlève de la matière.
+- On imprime des plastiques, des métaux comme l'aluminium, l'acier et le titane, des céramiques, du verre et même du béton.
+- Elle convient aux prototypes, aux petites séries et aux pièces à la demande.
+- Imprimer une pièce près de son lieu d'usage permet de réduire les coûts de transport et de répondre plus vite aux besoins locaux.
 
 ---
 type: article
-title: Le recyclage des aimants de terres rares
-slug: le-recyclage-des-aimants-de-terres-rares
+title: Peut-on recycler les aimants des éoliennes et des voitures électriques ?
+slug: peut-on-recycler-les-aimants-des-eoliennes-et-des-voitures-electriques
 categoryPath: industries/materiaux-et-procedes/mise-en-forme
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le recyclage des aimants de terres rares.
-tags: [mise-en-forme, veille-2026-09]
-priority: 0.81
-essentiel: false
-status: planned
+  Très peu d'aimants à terres rares sont recyclés aujourd'hui. Des méthodes à base d'hydrogène
+  permettent pourtant d'en refaire, avec bien moins d'énergie qu'avec des terres rares neuves.
+tags: [mise-en-forme]
+sources:
+  - title: "Gearing up for high-performance magnet recycling in Europe"
+    url: "https://cordis.europa.eu/article/id/442156-gearing-up-for-high-performance-magnet-recycling-in-europe"
+    publisher: "CORDIS, Commission européenne"
+  - title: "New technology to boost rare earths' recycling"
+    url: "https://cordis.europa.eu/article/id/169549-new-technology-to-boost-rare-earths-recycling"
+    publisher: "CORDIS, Commission européenne"
+  - title: "Rare-earth element"
+    url: "https://en.wikipedia.org/wiki/Rare-earth_element"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que contiennent les aimants des éoliennes et des voitures électriques ?"
+    options:
+      - "De l'or pur"
+      - "Du verre"
+      - "Des terres rares comme le néodyme"
+    answer: 3
+    explanation: >
+      Les aimants au néodyme-fer-bore servent dans les éoliennes, les voitures électriques et
+      l'électronique.
+  - question: "Les aimants en fin de vie sont-ils beaucoup recyclés ?"
+    options:
+      - "Oui, presque tous"
+      - "Non, très peu"
+      - "Seulement en été"
+    answer: 2
+    explanation: >
+      Très peu d'aimants en fin de vie sont recyclés dans le monde.
+  - question: "Qu'est-ce qui complique le recyclage des terres rares ?"
+    options:
+      - "Elles sont trop lourdes"
+      - "Elles sont interdites"
+      - "Elles sont en petites quantités, dispersées et presque inséparables"
+    answer: 3
+    explanation: >
+      Le recyclage est difficile : chaque appareil ne contient que de petites quantités de
+      terres rares, dispersées, et les terres rares sont presque inséparables chimiquement.
+  - question: "Que fait l'hydrogène dans la méthode HPMS ?"
+    options:
+      - "Il colore l'aimant"
+      - "Il fait éclater l'aimant en poudre d'alliage"
+      - "Il refroidit l'aimant"
+    answer: 2
+    explanation: >
+      Une méthode utilise l'hydrogène : il fait éclater l'aimant en une poudre d'alliage, qu'on
+      peut tamiser, presser et fritter pour refaire des aimants.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Très peu d'aimants à terres rares sont recyclés aujourd'hui. Des méthodes à base d'hydrogène permettent pourtant d'en refaire, avec bien moins d'énergie qu'avec des terres rares neuves.
+
+## Pourquoi recycler ?
+
+L'Union européenne n'extrait qu'une petite part des terres rares dont elle a besoin pour fabriquer ses aimants. Les aimants au néodyme-fer-bore servent dans les éoliennes, les voitures électriques et l'électronique. La Chine fournit la très grande majorité des terres rares du monde. L'extraction des terres rares peut polluer l'environnement.
+
+## Pourquoi c'est difficile
+
+Très peu d'aimants en fin de vie sont recyclés dans le monde. Le recyclage est difficile : chaque appareil ne contient que de petites quantités de terres rares, dispersées, et les terres rares sont presque inséparables chimiquement.
+
+## Recycler avec de l'hydrogène
+
+Une méthode utilise l'hydrogène : il fait éclater l'aimant en une poudre d'alliage, qu'on peut tamiser, presser et fritter pour refaire des aimants. Cette méthode, appelée HPMS, a été mise au point à l'université de Birmingham. Fabriquer un aimant recyclé consomme bien moins d'énergie que produire un aimant à partir de terres rares neuves. Des aimants fabriqués avec de la poudre recyclée ont montré des propriétés magnétiques comparables à celles d'aimants neufs. Les aimants récupérés viennent de disques durs, de haut-parleurs, d'éoliennes, de moteurs électriques et de téléphones. Des projets européens, comme REMANENCE puis SUSMAGPRO, travaillent sur des filières de récupération. Le recyclage réduirait la dépendance de l'Europe aux importations.
+
+## À retenir
+
+- L'Union européenne n'extrait qu'une petite part des terres rares dont elle a besoin pour fabriquer ses aimants.
+- Très peu d'aimants en fin de vie sont recyclés dans le monde.
+- Le recyclage est difficile : les terres rares sont en petites quantités, dispersées, et presque inséparables chimiquement.
+- Une méthode utilise l'hydrogène : il fait éclater l'aimant en une poudre d'alliage, qu'on peut tamiser, presser et fritter pour refaire des aimants.
+- Fabriquer un aimant recyclé consomme bien moins d'énergie que produire un aimant à partir de terres rares neuves.
 
 ---
 type: article
-title: Les gigafactories de batteries en Europe
-slug: les-gigafactories-de-batteries-en-europe
+title: Pourquoi l'Europe construit-elle des usines géantes de batteries, et réussissent-elles ?
+slug: pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles
 categoryPath: industries/industrie-manufacturiere/chaine-logistique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les gigafactories de batteries en Europe.
-tags: [chaine-logistique, veille-2026-09]
-priority: 0.79
-essentiel: false
-status: planned
+  Les gigafactories sont de très grandes usines de batteries. L'Europe en construit pour réduire
+  sa dépendance à l'Asie, mais certains projets échouent, comme Northvolt.
+tags: [chaine-logistique]
+sources:
+  - title: "Gigafactory"
+    url: "https://en.wikipedia.org/wiki/Gigafactory"
+    publisher: "Wikipedia"
+  - title: "Gigafactory"
+    url: "https://fr.wikipedia.org/wiki/Gigafactory"
+    publisher: "Wikipédia"
+  - title: "Northvolt"
+    url: "https://en.wikipedia.org/wiki/Northvolt"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'une gigafactory ?"
+    options:
+      - "Une usine de ballons"
+      - "Une usine géante, surtout de batteries, mesurée en gigawattheures"
+      - "Une usine de bijoux"
+    answer: 2
+    explanation: >
+      Une gigafactory est une usine géante, surtout de batteries, dont la capacité se compte en
+      gigawattheures.
+  - question: "Quelle entreprise a lancé le mot gigafactory ?"
+    options:
+      - "Renault"
+      - "Airbus"
+      - "Tesla"
+    answer: 3
+    explanation: >
+      Le mot a été lancé par Tesla pour son usine du Nevada.
+  - question: "Pourquoi l'Europe construit-elle des gigafactories ?"
+    options:
+      - "Pour réduire sa dépendance aux batteries asiatiques"
+      - "Pour fabriquer des jouets"
+      - "Pour fermer ses usines"
+    answer: 1
+    explanation: >
+      Elles visent à réduire la dépendance de l'Europe aux batteries asiatiques et à répondre à
+      la demande de voitures électriques.
+  - question: "Que s'est-il passé pour Northvolt ?"
+    options:
+      - "Elle a fini en faillite"
+      - "Elle a quitté la Suède pour la Lune"
+      - "Elle a doublé sa production"
+    answer: 1
+    explanation: >
+      Northvolt, entreprise suédoise, devait devenir le champion européen de la batterie, mais
+      elle a fini en faillite.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les gigafactories sont de très grandes usines de batteries. L'Europe en construit pour réduire sa dépendance à l'Asie, mais certains projets échouent, comme Northvolt.
+
+## Qu'est-ce qu'une gigafactory ?
+
+Une gigafactory est une usine géante, surtout de batteries, dont la capacité se compte en gigawattheures. Le mot a été lancé par Tesla pour son usine du Nevada. D'autres constructeurs et industriels utilisent aussi ce mot pour leurs usines de batteries, de véhicules ou de panneaux solaires. Tesla exploite ou développe de grandes usines aux États-Unis, en Chine et en Allemagne.
+
+## Pourquoi en Europe ?
+
+En Europe, des gigafactories de batteries ont été lancées par ACC en France, Northvolt en Suède et CATL en Allemagne et en Hongrie. Elles visent à réduire la dépendance de l'Europe aux batteries asiatiques et à répondre à la demande de voitures électriques. Des aides publiques importantes soutiennent ces projets, par exemple celui de Verkor à Dunkerque. La capacité européenne devrait atteindre plusieurs centaines de gigawattheures d'ici la fin de la décennie.
+
+## Des difficultés
+
+Northvolt, entreprise suédoise, devait devenir le champion européen de la batterie, mais elle a fini en faillite. Selon une enquête de la télévision publique suédoise, seule une très petite quantité d'accumulateurs avait été vendue. Un ancien employé a affirmé que la direction avait caché des défauts de production et des problèmes financiers. BMW a annulé un important contrat à cause de retards de livraison. Plusieurs sources estiment qu'une grande part des gigafactories européennes risque des retards ou des annulations.
+
+## À retenir
+
+- Une gigafactory est une usine géante, surtout de batteries, dont la capacité se compte en gigawattheures.
+- Le mot a été lancé par Tesla pour son usine du Nevada.
+- En Europe, des gigafactories de batteries ont été lancées par ACC en France, Northvolt en Suède et CATL en Allemagne et en Hongrie.
+- Elles visent à réduire la dépendance de l'Europe aux batteries asiatiques et à répondre à la demande de voitures électriques.
+- Northvolt, entreprise suédoise, devait devenir le champion européen de la batterie, mais elle a fini en faillite.
 
 ---
 type: article
-title: Les micro-usines et les fab labs
-slug: les-micro-usines-et-les-fab-labs
+title: Qu'est-ce qu'un fab lab, et que peut-on y fabriquer ?
+slug: qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer
 categoryPath: industries/industrie-manufacturiere/chaine-logistique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les micro-usines et les fab labs.
-tags: [chaine-logistique, veille-2026-09]
-priority: 0.79
-essentiel: false
-status: planned
+  Un fab lab est un atelier ouvert de fabrication numérique, avec imprimantes 3D, découpeuses
+  laser et fraiseuses. Une micro-usine est une petite usine flexible qui produit localement.
+tags: [chaine-logistique]
+sources:
+  - title: "Fab lab"
+    url: "https://en.wikipedia.org/wiki/Fab_lab"
+    publisher: "Wikipedia"
+  - title: "Fab lab"
+    url: "https://fr.wikipedia.org/wiki/Fab_lab"
+    publisher: "Wikipédia"
+  - title: "Microfactory"
+    url: "https://en.wikipedia.org/wiki/Microfactory"
+    publisher: "Wikipedia"
+  - title: "3D printing"
+    url: "https://en.wikipedia.org/wiki/3D_printing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'un fab lab ?"
+    options:
+      - "Un laboratoire de cuisine"
+      - "Une usine de voitures"
+      - "Un atelier ouvert de fabrication numérique"
+    answer: 3
+    explanation: >
+      Un fab lab est un atelier de fabrication numérique ouvert, équipé de machines à commande
+      numérique : imprimantes 3D, découpeuses laser, fraiseuses.
+  - question: "Où est né le concept de fab lab ?"
+    options:
+      - "Au MIT, avec Neil Gershenfeld"
+      - "À Rome"
+      - "Dans une ferme"
+    answer: 1
+    explanation: >
+      Le concept est né au Centre pour les bits et les atomes du MIT, à Boston, autour du
+      physicien Neil Gershenfeld.
+  - question: "Quelle machine trouve-t-on dans un fab lab ?"
+    options:
+      - "Un four à pizza"
+      - "Un télescope"
+      - "Une imprimante 3D"
+    answer: 3
+    explanation: >
+      Un fab lab est un atelier de fabrication numérique ouvert, équipé de machines à commande
+      numérique : imprimantes 3D, découpeuses laser, fraiseuses.
+  - question: "Qu'est-ce qu'une micro-usine ?"
+    options:
+      - "Une petite usine flexible qui produit localement"
+      - "Une usine sous-marine"
+      - "Une usine à ballons"
+    answer: 1
+    explanation: >
+      Une micro-usine est une petite usine, économe en capital, destinée à l'assemblage local
+      d'un produit complexe ou à une production flexible en petites quantités.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un fab lab est un atelier ouvert de fabrication numérique, avec imprimantes 3D, découpeuses laser et fraiseuses. Une micro-usine est une petite usine flexible qui produit localement.
+
+## Un atelier ouvert à tous
+
+Un fab lab est un atelier de fabrication numérique ouvert, équipé de machines à commande numérique : imprimantes 3D, découpeuses laser, fraiseuses. Le concept est né au Centre pour les bits et les atomes du MIT, à Boston, autour du physicien Neil Gershenfeld. Il s'inspire d'un cours très populaire du MIT, How To Make (Almost) Anything. Le premier fab lab hors du MIT a été créé en Inde, à Vigyan Ashram.
+
+## Comment ça fonctionne
+
+Pour être reconnu, un fab lab doit être ouvert au public, respecter la charte des fab labs, avoir les outils requis et participer au réseau mondial. On trouve des fab labs sur tous les continents, sauf l'Antarctique. La France est l'un des pays qui comptent le plus de fab labs par habitant. On y prototype, on apprend et on fabrique des produits adaptés aux besoins locaux. Les fab labs reposent sur le partage libre des lieux, des machines, des compétences et des connaissances. Ils se rattachent à des initiatives comme Fab Academy pour l'enseignement et Fab City pour des villes durables. En pratique, une grande partie des utilisateurs de fab labs sont des professionnels.
+
+## Et les micro-usines ?
+
+Une micro-usine est une petite usine, économe en capital, destinée à l'assemblage local d'un produit complexe ou à une production flexible en petites quantités. Le concept de micro-usine est apparu au Japon. Une micro-usine économise de l'espace, de l'énergie, des matériaux, du temps et du capital de départ.
+
+## À retenir
+
+- Un fab lab est un atelier ouvert de fabrication numérique, avec imprimantes 3D, découpeuses laser et fraiseuses.
+- Le concept est né au Centre pour les bits et les atomes du MIT, à Boston, autour du physicien Neil Gershenfeld.
+- Un fab lab doit être ouvert au public, respecter la charte des fab labs et participer au réseau mondial.
+- On y prototype, on apprend et on fabrique des produits adaptés aux besoins locaux.
+- Une micro-usine est une petite usine, économe en capital, destinée à l'assemblage local d'un produit complexe ou à une production flexible en petites quantités.
