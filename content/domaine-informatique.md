@@ -11457,33 +11457,186 @@ status: planned
 
 ---
 type: article
-title: Comment les mots de passe sont protégés
-slug: comment-les-mots-de-passe-sont-proteges
+title: Comment un site protège-t-il votre mot de passe sans le connaître ?
+slug: comment-un-site-protege-t-il-votre-mot-de-passe-sans-le-connaitre
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment les mots de passe sont protégés.
-tags: [chiffrement, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  Un site sérieux garde l'empreinte de votre mot de passe, calculée avec un hachage lent et un
+  sel unique. Si la base fuit, retrouver le mot de passe reste très difficile.
+tags: [chiffrement]
+sources:
+  - title: "Fonction de hachage"
+    url: "https://fr.wikipedia.org/wiki/Fonction_de_hachage"
+    publisher: "Wikipédia"
+  - title: "Salt (cryptography)"
+    url: "https://en.wikipedia.org/wiki/Salt_(cryptography)"
+    publisher: "Wikipedia"
+  - title: "Password Storage Cheat Sheet"
+    url: "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html"
+    publisher: "OWASP"
+  - title: "Key stretching"
+    url: "https://en.wikipedia.org/wiki/Key_stretching"
+    publisher: "Wikipedia"
+  - title: "Argon2"
+    url: "https://en.wikipedia.org/wiki/Argon2"
+    publisher: "Wikipedia"
+  - title: "Pepper (cryptography)"
+    url: "https://en.wikipedia.org/wiki/Pepper_(cryptography)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Un site sérieux garde-t-il votre mot de passe en clair ?"
+    options:
+      - "Oui, dans un fichier texte"
+      - "Oui, sur votre téléphone"
+      - "Non, il garde seulement son empreinte avec un sel"
+    answer: 3
+    explanation: >
+      Un site sérieux ne garde pas votre mot de passe en clair ni chiffré de façon réversible :
+      il garde l'empreinte obtenue en le hachant avec un sel.
+  - question: "À quoi sert un sel ?"
+    options:
+      - "À rendre le mot de passe plus long"
+      - "À empêcher les attaques par tables précalculées"
+      - "À accélérer le calcul"
+    answer: 2
+    explanation: >
+      Il empêche les attaques par tables précalculées, dites tables arc-en-ciel.
+  - question: "Pourquoi utilise-t-on un algorithme lent pour les mots de passe ?"
+    options:
+      - "Pour économiser de l'électricité"
+      - "Pour ralentir ceux qui testent énormément de mots de passe"
+      - "Pour faire patienter l'utilisateur"
+    answer: 2
+    explanation: >
+      Il faut utiliser un algorithme volontairement lent, comme Argon2id, scrypt ou bcrypt, pour
+      ralentir ceux qui essaient énormément de mots de passe.
+  - question: "Qu'est-ce qu'une fonction à sens unique ?"
+    options:
+      - "Une fonction qui ne marche que dans un sens de lecture"
+      - "Une fonction très lente"
+      - "Facile à calculer, pratiquement impossible à inverser"
+    answer: 3
+    explanation: >
+      Une fonction de hachage cryptographique est à sens unique : facile à calculer, mais
+      pratiquement impossible à inverser.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un site sérieux garde l'empreinte de votre mot de passe, calculée avec un hachage lent et un sel unique. Si la base fuit, retrouver le mot de passe reste très difficile.
+
+## L'empreinte plutôt que le mot de passe
+
+Une fonction de hachage associe à une donnée de taille quelconque une empreinte de taille fixe. Une fonction de hachage cryptographique est à sens unique : facile à calculer, mais pratiquement impossible à inverser. Un site sérieux ne garde pas votre mot de passe en clair ni chiffré de façon réversible : il garde l'empreinte obtenue en le hachant avec un sel.
+
+## Le sel et le poivre
+
+Un sel est une donnée aléatoire ajoutée au mot de passe avant le hachage. Il empêche les attaques par tables précalculées, dites tables arc-en-ciel. Avec un sel unique pour chaque utilisateur, deux comptes qui ont le même mot de passe n'ont pas la même empreinte. Le sel n'a pas besoin d'être secret : le connaître n'aide pas l'attaquant. Un poivre est un secret ajouté au mot de passe avant le hachage ; contrairement au sel, il n'est pas stocké avec l'empreinte.
+
+## Lent, c'est mieux
+
+Il faut utiliser un algorithme volontairement lent, comme Argon2id, scrypt ou bcrypt, pour ralentir ceux qui essaient énormément de mots de passe. Les fonctions de hachage rapides ne conviennent pas pour stocker des mots de passe, car elles permettent à un attaquant d'essayer très vite. Ralentir chaque essai rend l'attaque par force brute bien plus chère : l'utilisateur ne calcule qu'une fois à la connexion, l'attaquant le fait à chaque essai. On règle le coût du calcul, par exemple le nombre d'itérations, et on l'augmente avec le temps, car la puissance des ordinateurs grandit. Argon2, vainqueur d'un concours public de hachage de mots de passe, est conçu pour utiliser beaucoup de mémoire, ce qui gêne les attaques sur du matériel spécialisé.
+
+## À retenir
+
+- Une fonction de hachage cryptographique est à sens unique : facile à calculer, mais pratiquement impossible à inverser.
+- Un site sérieux ne garde pas votre mot de passe : il garde l'empreinte obtenue en le hachant avec un sel.
+- Un sel est une donnée aléatoire ajoutée au mot de passe avant le hachage.
+- Avec un sel unique pour chaque utilisateur, deux comptes qui ont le même mot de passe n'ont pas la même empreinte.
+- Il faut utiliser un algorithme volontairement lent, comme Argon2id, scrypt ou bcrypt, pour ralentir ceux qui essaient énormément de mots de passe.
 
 ---
 type: article
-title: Le chiffrement RSA et les clés publique et privée
-slug: le-chiffrement-rsa-et-les-cles-publique-et-privee
+title: Comment RSA permet-il d'échanger un secret sans s'être vu avant ?
+slug: comment-rsa-permet-il-d-echanger-un-secret-sans-s-etre-vu-avant
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le chiffrement RSA et les clés publique et privée.
-tags: [chiffrement, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  Avec une clé publique, tout le monde peut chiffrer, mais seul le détenteur de la clé privée
+  peut déchiffrer. RSA repose sur la difficulté de factoriser de très grands nombres.
+tags: [chiffrement]
+sources:
+  - title: "Chiffrement RSA"
+    url: "https://fr.wikipedia.org/wiki/Chiffrement_RSA"
+    publisher: "Wikipédia"
+  - title: "RSA cryptosystem"
+    url: "https://en.wikipedia.org/wiki/RSA_cryptosystem"
+    publisher: "Wikipedia"
+  - title: "Public-key cryptography"
+    url: "https://en.wikipedia.org/wiki/Public-key_cryptography"
+    publisher: "Wikipedia"
+  - title: "Cryptographie asymétrique"
+    url: "https://fr.wikipedia.org/wiki/Cryptographie_asym%C3%A9trique"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle clé peut-on diffuser librement ?"
+    options:
+      - "La clé privée"
+      - "Aucune"
+      - "La clé publique"
+    answer: 3
+    explanation: >
+      La cryptographie à clé publique, ou asymétrique, utilise deux clés liées : une clé
+      publique, que l'on peut diffuser, et une clé privée, que l'on garde secrète.
+  - question: "Qui peut déchiffrer un message chiffré avec la clé publique ?"
+    options:
+      - "Seul le détenteur de la clé privée"
+      - "Tout le monde"
+      - "Personne"
+    answer: 1
+    explanation: >
+      Tout le monde peut chiffrer un message avec la clé publique, mais seul le détenteur de la
+      clé privée peut le déchiffrer.
+  - question: "Sur quelle difficulté repose RSA ?"
+    options:
+      - "Retrouver un mot de passe"
+      - "Factoriser le produit de deux très grands nombres premiers"
+      - "Deviner une date"
+    answer: 2
+    explanation: >
+      Sa sécurité repose sur la difficulté de factoriser le produit de deux très grands nombres
+      premiers.
+  - question: "Pourquoi utilise-t-on un chiffrement hybride ?"
+    options:
+      - "Les algorithmes asymétriques sont lents"
+      - "Pour décorer le message"
+      - "Parce que la clé publique est secrète"
+    answer: 1
+    explanation: >
+      Les algorithmes asymétriques sont plus lents que les symétriques : on s'en sert surtout
+      pour échanger une clé symétrique, qui chiffre ensuite les données.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avec une clé publique, tout le monde peut chiffrer, mais seul le détenteur de la clé privée peut déchiffrer. RSA repose sur la difficulté de factoriser de très grands nombres.
+
+## Deux clés liées
+
+La cryptographie à clé publique, ou asymétrique, utilise deux clés liées : une clé publique, que l'on peut diffuser, et une clé privée, que l'on garde secrète. Tout le monde peut chiffrer un message avec la clé publique, mais seul le détenteur de la clé privée peut le déchiffrer. Avec sa clé privée, on peut aussi signer un message ; chacun peut vérifier la signature avec la clé publique. Contrairement au chiffrement symétrique, les deux personnes n'ont pas à se transmettre d'abord un secret commun. Whitfield Diffie et Martin Hellman ont publié la première méthode pratique d'échange de clés, qui a lancé la cryptographie asymétrique moderne.
+
+## RSA, un système à clé publique
+
+RSA est un système à clé publique décrit par Rivest, Shamir et Adleman, du MIT. Un système équivalent avait été inventé en secret par Clifford Cocks, au GCHQ britannique, et n'a été révélé que bien plus tard. Sa sécurité repose sur la difficulté de factoriser le produit de deux très grands nombres premiers. Pour rester sûres, les clés RSA doivent être très longues : plus la clé est longue, plus la factorisation est difficile. Utilisé tel quel, RSA est vulnérable, car il est déterministe ; on lui ajoute un remplissage aléatoire, comme OAEP, qui empêche ces attaques. Le brevet de RSA a expiré, ce qui permet à tout le monde de l'utiliser librement.
+
+## Dans la pratique
+
+Les algorithmes asymétriques sont plus lents que les symétriques : on s'en sert surtout pour échanger une clé symétrique, qui chiffre ensuite les données. La cryptographie asymétrique protège aujourd'hui les transactions HTTPS, la messagerie et l'authentification par certificats.
+
+## Une menace à l'horizon
+
+Un ordinateur quantique assez puissant pourrait casser RSA grâce à l'algorithme de Shor.
+
+## À retenir
+
+- La cryptographie à clé publique utilise deux clés : une publique, qu'on diffuse, et une privée, qu'on garde secrète.
+- Tout le monde peut chiffrer un message avec la clé publique, mais seul le détenteur de la clé privée peut le déchiffrer.
+- Sa sécurité repose sur la difficulté de factoriser le produit de deux très grands nombres premiers.
+- Les algorithmes asymétriques sont lents : on s'en sert pour échanger une clé symétrique, qui chiffre ensuite les données.
+- Un ordinateur quantique assez puissant pourrait casser RSA grâce à l'algorithme de Shor.
 
 ---
 type: article
@@ -11517,18 +11670,88 @@ status: planned
 
 ---
 type: article
-title: Les mémoires SSD et les disques durs
-slug: les-memoires-ssd-et-les-disques-durs
+title: Quelle différence y a-t-il entre un SSD et un disque dur ?
+slug: quelle-difference-y-a-t-il-entre-un-ssd-et-un-disque-dur
 categoryPath: micro-informatique-et-informatique/materiel/memoire-et-stockage
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les mémoires SSD et les disques durs.
-tags: [memoire-et-stockage, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  Un disque dur stocke sur des plateaux magnétiques qui tournent. Un SSD stocke dans des puces
+  flash, sans pièce mobile : plus rapide et plus résistant, mais plus cher par gigaoctet.
+tags: [memoire-et-stockage]
+sources:
+  - title: "Solid-state drive"
+    url: "https://en.wikipedia.org/wiki/Solid-state_drive"
+    publisher: "Wikipedia"
+  - title: "Disque SSD"
+    url: "https://fr.wikipedia.org/wiki/Disque_SSD"
+    publisher: "Wikipédia"
+  - title: "Disque dur"
+    url: "https://fr.wikipedia.org/wiki/Disque_dur"
+    publisher: "Wikipédia"
+  - title: "Hard disk drive"
+    url: "https://en.wikipedia.org/wiki/Hard_disk_drive"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où un SSD stocke-t-il les données ?"
+    options:
+      - "Sur des plateaux qui tournent"
+      - "Dans des puces de mémoire flash"
+      - "Sur des bandes magnétiques"
+    answer: 2
+    explanation: >
+      Un SSD stocke les données dans des puces de mémoire flash NAND, sans aucune pièce mobile.
+  - question: "Lequel est le plus rapide ?"
+    options:
+      - "Le disque dur"
+      - "Ils sont identiques"
+      - "Le SSD"
+    answer: 3
+    explanation: >
+      Le SSD est bien plus rapide, avec un temps d'accès beaucoup plus court.
+  - question: "Pourquoi un disque dur est-il plus fragile ?"
+    options:
+      - "Il est en verre"
+      - "Il fonctionne à l'envers"
+      - "Il a des pièces mobiles dont les têtes peuvent toucher les plateaux"
+    answer: 3
+    explanation: >
+      Sans pièces mobiles, le SSD résiste mieux aux chocs et fonctionne en silence ; les disques
+      durs sont fragiles, car les têtes peuvent toucher les plateaux.
+  - question: "Quel est l'inconvénient d'un SSD ?"
+    options:
+      - "Il coûte plus cher par gigaoctet et s'use avec les écritures"
+      - "Il est trop lourd"
+      - "Il tourne trop vite"
+    answer: 1
+    explanation: >
+      Le SSD coûte plus cher par gigaoctet, alors que le disque dur reste moins cher pour de
+      très grandes capacités.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un disque dur stocke sur des plateaux magnétiques qui tournent. Un SSD stocke dans des puces flash, sans pièce mobile : plus rapide et plus résistant, mais plus cher par gigaoctet.
+
+## Deux façons de stocker
+
+Un disque dur stocke les données sur des plateaux magnétiques qui tournent, lus et écrits par des têtes qui flottent juste au-dessus. Un SSD stocke les données dans des puces de mémoire flash NAND, sans aucune pièce mobile. Les plateaux d'un disque dur tournent très vite, ce qui demande des pièces mécaniques précises. Le premier disque dur commercial a été conçu par IBM ; sa capacité était minuscule par rapport à celle d'aujourd'hui. Les capacités des disques durs ont énormément augmenté, et leur prix par octet a énormément baissé.
+
+## Ce que change le SSD
+
+Le SSD est bien plus rapide, avec un temps d'accès beaucoup plus court. Sans pièces mobiles, le SSD résiste mieux aux chocs et fonctionne en silence ; les disques durs sont fragiles, car les têtes peuvent toucher les plateaux. Le SSD consomme moins d'énergie.
+
+## Les limites et le prix
+
+Les cellules de mémoire flash supportent un nombre limité d'écritures : le SSD s'use. Le SSD coûte plus cher par gigaoctet, alors que le disque dur reste moins cher pour de très grandes capacités. Les SSD remplacent de plus en plus les disques durs, surtout pour les petites capacités.
+
+## À retenir
+
+- Un disque dur stocke les données sur des plateaux magnétiques qui tournent, lus et écrits par des têtes qui flottent juste au-dessus.
+- Un SSD stocke les données dans des puces de mémoire flash NAND, sans aucune pièce mobile.
+- Le SSD est bien plus rapide, avec un temps d'accès beaucoup plus court.
+- Sans pièces mobiles, le SSD résiste mieux aux chocs et est silencieux ; les disques durs sont plus fragiles.
+- Le SSD coûte plus cher par gigaoctet, alors que le disque dur reste moins cher pour de très grandes capacités.
 
 ---
 type: article
@@ -11562,18 +11785,85 @@ status: planned
 
 ---
 type: article
-title: Le pixel et la représentation des images
-slug: le-pixel-et-la-representation-des-images
+title: Qu'est-ce qu'un pixel, et comment une image est-elle faite de pixels ?
+slug: qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels
 categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le pixel et la représentation des images.
-tags: [representation-et-compression, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Une image numérique est une grille de pixels, chacun avec une couleur. Un pixel est un point
+  d'échantillonnage, codé avec des bits : plus il y en a, plus il y a de couleurs possibles.
+tags: [representation-et-compression]
+sources:
+  - title: "Pixel"
+    url: "https://fr.wikipedia.org/wiki/Pixel"
+    publisher: "Wikipédia"
+  - title: "Pixel"
+    url: "https://en.wikipedia.org/wiki/Pixel"
+    publisher: "Wikipedia"
+  - title: "Raster graphics"
+    url: "https://en.wikipedia.org/wiki/Raster_graphics"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que signifie pixel ?"
+    options:
+      - "Petit capteur d'image"
+      - "Programme d'images"
+      - "Picture element, le plus petit élément d'une image numérique"
+    answer: 3
+    explanation: >
+      Un pixel, de l'anglais picture element, est le plus petit élément d'une image numérique.
+  - question: "De quelles couleurs sont faits les sous-pixels d'un écran ?"
+    options:
+      - "Jaune, noir et blanc"
+      - "Rose, gris et marron"
+      - "Rouge, vert et bleu"
+    answer: 3
+    explanation: >
+      Sur un écran, un pixel est formé de trois sous-pixels : rouge, vert et bleu.
+  - question: "Que se passe-t-il quand on agrandit beaucoup une image matricielle ?"
+    options:
+      - "Les pixels deviennent visibles"
+      - "L'image devient vectorielle"
+      - "Les couleurs disparaissent"
+    answer: 1
+    explanation: >
+      Une image matricielle perd en qualité quand on l'agrandit : les pixels deviennent
+      visibles.
+  - question: "Une image vectorielle peut-elle être agrandie sans perte ?"
+    options:
+      - "Non, jamais"
+      - "Seulement en noir et blanc"
+      - "Oui, car elle est décrite par des formules"
+    answer: 3
+    explanation: >
+      Une image vectorielle, elle, est décrite par des formules mathématiques et peut être
+      agrandie sans perte.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une image numérique est une grille de pixels, chacun avec une couleur. Un pixel est un point d'échantillonnage, codé avec des bits : plus il y en a, plus il y a de couleurs possibles.
+
+## Un point d'une grille
+
+Un pixel, de l'anglais picture element, est le plus petit élément d'une image numérique. Une image matricielle est une grille rectangulaire de pixels, chacun avec une seule couleur. Un pixel est en fait un point d'échantillonnage, pas un petit carré physique. Sur un écran, un pixel est formé de trois sous-pixels : rouge, vert et bleu. Le mot pixel a été publié pour la première fois pour décrire des images de sondes spatiales.
+
+## Couleurs et définition
+
+La profondeur de couleur dit combien de bits décrivent chaque pixel : 1 bit pour le noir et blanc, 8 bits pour 256 couleurs, 24 bits pour environ 16,7 millions de couleurs. La définition d'une image est son nombre de pixels, largeur par hauteur ; un mégapixel vaut un million de pixels. Le nombre de pixels ne suffit pas à déterminer la qualité d'une image : la taille du capteur, l'objectif et le traitement comptent aussi.
+
+## Agrandir, vectoriser, compresser
+
+Une image matricielle perd en qualité quand on l'agrandit : les pixels deviennent visibles. Une image vectorielle, elle, est décrite par des formules mathématiques et peut être agrandie sans perte. On réduit la taille des fichiers par compression : sans perte, comme PNG, ou avec perte, comme JPEG. Sur le web, le pixel CSS est séparé des pixels physiques de l'écran, pour que l'affichage reste cohérent sur tous les appareils.
+
+## À retenir
+
+- Un pixel, de l'anglais picture element, est le plus petit élément d'une image numérique.
+- Une image matricielle est une grille rectangulaire de pixels, chacun avec une seule couleur.
+- Sur un écran, un pixel est formé de trois sous-pixels : rouge, vert et bleu.
+- La profondeur de couleur compte les bits par pixel : 24 bits donnent environ 16,7 millions de couleurs.
+- Une image matricielle perd en qualité quand on l'agrandit : les pixels deviennent visibles.
 
 ---
 type: article
@@ -11607,30 +11897,168 @@ status: planned
 
 ---
 type: article
-title: Les processeurs open source RISC-V
-slug: les-processeurs-open-source-risc-v
+title: Que change le fait qu'une architecture de processeur soit libre, comme RISC-V ?
+slug: que-change-le-fait-qu-une-architecture-de-processeur-soit-libre-comme-risc-v
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les processeurs open source RISC-V.
-tags: [processeurs, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  RISC-V est une architecture de jeu d'instructions ouverte et libre, créée à l'université de
+  Berkeley. Contrairement à x86 ou ARM, elle ne demande pas de licence payante et se décline en
+  extensions.
+tags: [processeurs]
+sources:
+  - title: "RISC-V"
+    url: "https://fr.wikipedia.org/wiki/RISC-V"
+    publisher: "Wikipédia"
+  - title: "RISC-V"
+    url: "https://en.wikipedia.org/wiki/RISC-V"
+    publisher: "Wikipedia"
+  - title: "Instruction set architecture"
+    url: "https://en.wikipedia.org/wiki/Instruction_set_architecture"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que définit une architecture de jeu d'instructions ?"
+    options:
+      - "La couleur du boîtier"
+      - "Les instructions qu'un processeur peut exécuter"
+      - "Le prix du processeur"
+    answer: 2
+    explanation: >
+      Une architecture de jeu d'instructions, ou ISA, définit les instructions qu'un processeur
+      peut exécuter : c'est l'interface entre le logiciel et le matériel.
+  - question: "Qu'est-ce qui distingue RISC-V d'ARM et x86 ?"
+    options:
+      - "Ses spécifications sont libres, sans licence payante"
+      - "Elle est secrète"
+      - "Elle est réservée aux jeux"
+    answer: 1
+    explanation: >
+      Contrairement à ARM et x86, ses spécifications sont publiées sous licences ouvertes : on
+      peut les utiliser sans licence payante.
+  - question: "Que signifie qu'elle est modulaire ?"
+    options:
+      - "Elle se démonte en briques"
+      - "Elle change de forme"
+      - "Un jeu de base plus des extensions"
+    answer: 3
+    explanation: >
+      Elle est modulaire : un jeu d'instructions de base, avec des extensions pour la
+      multiplication, les nombres à virgule, la vectorisation, etc.
+  - question: "Où l'utilise-t-on ?"
+    options:
+      - "Seulement dans des jouets en bois"
+      - "Dans des microcontrôleurs, des accélérateurs d'IA et même dans des satellites"
+      - "Nulle part"
+    answer: 2
+    explanation: >
+      On l'utilise surtout dans les microcontrôleurs, les systèmes embarqués, les accélérateurs
+      d'IA, des serveurs et même l'espace avec le processeur NOEL-V de l'ESA.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+RISC-V est une architecture de jeu d'instructions ouverte et libre, créée à l'université de Berkeley. Contrairement à x86 ou ARM, elle ne demande pas de licence payante et se décline en extensions.
+
+## Ce qu'est une architecture de processeur
+
+Une architecture de jeu d'instructions, ou ISA, définit les instructions qu'un processeur peut exécuter : c'est l'interface entre le logiciel et le matériel. Une ISA commune permet de faire tourner le même logiciel sur des processeurs différents. Les processeurs RISC mettent en œuvre efficacement les instructions les plus utilisées ; les CISC ont de nombreuses instructions spécialisées.
+
+## RISC-V, une architecture libre
+
+RISC-V est une architecture de jeu d'instructions ouverte et libre, créée à l'université de Berkeley. Contrairement à ARM et x86, ses spécifications sont publiées sous licences ouvertes : on peut les utiliser sans licence payante. Elle a été conçue pour éviter de traîner la compatibilité avec de très anciennes architectures. Elle est modulaire : un jeu d'instructions de base, avec des extensions pour la multiplication, les nombres à virgule, la vectorisation, etc.
+
+## Qui l'utilise ?
+
+Une organisation à but non lucratif de droit suisse, RISC-V International, maintient le standard. Elle réunit de nombreux acteurs, dont Google, Nvidia et Alibaba. On l'utilise surtout dans les microcontrôleurs, les systèmes embarqués, les accélérateurs d'IA, des serveurs et même l'espace avec le processeur NOEL-V de l'ESA. Elle représente aussi pour certains pays une alternative aux architectures contrôlées par les États-Unis ou le Royaume-Uni. L'Union européenne finance le développement de processeurs RISC-V pour les supercalculateurs et les centres de données.
+
+## À retenir
+
+- Une architecture de jeu d'instructions, ou ISA, définit les instructions qu'un processeur peut exécuter : c'est l'interface entre le logiciel et le matériel.
+- RISC-V est une architecture de jeu d'instructions ouverte et libre, créée à l'université de Berkeley.
+- Contrairement à ARM et x86, ses spécifications sont publiées sous licences ouvertes : on peut les utiliser sans licence payante.
+- Elle est modulaire : un jeu d'instructions de base, avec des extensions pour la multiplication, les nombres à virgule, la vectorisation, etc.
+- On l'utilise surtout dans les microcontrôleurs, les systèmes embarqués, les accélérateurs d'IA, des serveurs et même l'espace avec le processeur NOEL-V de l'ESA.
 
 ---
 type: article
-title: Les processeurs quantiques supraconducteurs
-slug: les-processeurs-quantiques-supraconducteurs
+title: Comment fonctionne un processeur quantique à qubits supraconducteurs ?
+slug: comment-fonctionne-un-processeur-quantique-a-qubits-supraconducteurs
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les processeurs quantiques supraconducteurs.
-tags: [processeurs, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Des circuits refroidis près du zéro absolu forment des qubits, pilotés par des impulsions
+  micro-ondes. Les erreurs et la décohérence restent le principal obstacle.
+tags: [processeurs]
+sources:
+  - title: "Superconducting quantum computing"
+    url: "https://en.wikipedia.org/wiki/Superconducting_quantum_computing"
+    publisher: "Wikipedia"
+  - title: "Ordinateur quantique"
+    url: "https://fr.wikipedia.org/wiki/Ordinateur_quantique"
+    publisher: "Wikipédia"
+  - title: "Qubit"
+    url: "https://en.wikipedia.org/wiki/Qubit"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'un qubit ?"
+    options:
+      - "Un bit quantique qui peut être en superposition de 0 et de 1"
+      - "Un bit en cuivre"
+      - "Un petit ordinateur"
+    answer: 1
+    explanation: >
+      Un qubit, ou bit quantique, peut être dans une superposition de 0 et de 1 ; quand on le
+      mesure, on obtient 0 ou 1.
+  - question: "Pourquoi refroidit-on les circuits supraconducteurs ?"
+    options:
+      - "Pour qu'ils deviennent supraconducteurs, près du zéro absolu"
+      - "Pour les rendre plus lourds"
+      - "Pour économiser l'eau"
+    answer: 1
+    explanation: >
+      Ces circuits sont refroidis dans des réfrigérateurs à dilution, à une température très
+      proche du zéro absolu.
+  - question: "Comment pilote-t-on ces qubits ?"
+    options:
+      - "Avec un clavier mécanique"
+      - "Avec des impulsions micro-ondes"
+      - "Avec de l'eau"
+    answer: 2
+    explanation: >
+      On les pilote avec des impulsions micro-ondes, qui font tourner l'état d'un qubit.
+  - question: "Quel obstacle freine les ordinateurs quantiques ?"
+    options:
+      - "La décohérence et les erreurs"
+      - "Le poids des câbles"
+      - "La couleur des puces"
+    answer: 1
+    explanation: >
+      Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les
+      opérations produisent des erreurs.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des circuits refroidis près du zéro absolu forment des qubits, pilotés par des impulsions micro-ondes. Les erreurs et la décohérence restent le principal obstacle.
+
+## Qu'est-ce qu'un qubit ?
+
+Un qubit, ou bit quantique, peut être dans une superposition de 0 et de 1 ; quand on le mesure, on obtient 0 ou 1. Plusieurs qubits peuvent être intriqués : leurs mesures sont alors corrélées de façon impossible en physique classique. Il existe plusieurs façons de réaliser des qubits : circuits supraconducteurs, ions piégés, photons, atomes neutres, spins dans le silicium.
+
+## Des circuits très froids
+
+Un qubit supraconducteur est un circuit électronique supraconducteur, avec des jonctions Josephson, fabriqué sur une puce. Ces circuits sont refroidis dans des réfrigérateurs à dilution, à une température très proche du zéro absolu. On les pilote avec des impulsions micro-ondes, qui font tourner l'état d'un qubit. Le transmon, un type de qubit supraconducteur, est devenu le plus utilisé, par exemple par IBM et Google. Leur fabrication reprend des techniques des puces électroniques, avec une lithographie par faisceau d'électrons.
+
+## Le problème des erreurs
+
+Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les opérations produisent des erreurs. Pour obtenir des calculs fiables, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques par qubit utile. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore, à qubits supraconducteurs. Les processeurs supraconducteurs ont déjà atteint un très grand nombre de qubits physiques, comme le Condor d'IBM.
+
+## À retenir
+
+- Un qubit, ou bit quantique, peut être dans une superposition de 0 et de 1 ; quand on le mesure, on obtient 0 ou 1.
+- Un qubit supraconducteur est un circuit électronique supraconducteur, avec des jonctions Josephson, fabriqué sur une puce.
+- Ces circuits sont refroidis dans des réfrigérateurs à dilution, à une température très proche du zéro absolu.
+- On les pilote avec des impulsions micro-ondes, qui font tourner l'état d'un qubit.
+- Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les opérations produisent des erreurs.
