@@ -9552,18 +9552,93 @@ status: planned
 
 ---
 type: article
-title: L'élévation du niveau de la mer et les littoraux
-slug: l-elevation-du-niveau-de-la-mer-et-les-littoraux
+title: Pourquoi le niveau de la mer monte-t-il, et que devient le littoral ?
+slug: pourquoi-le-niveau-de-la-mer-monte-t-il-et-que-devient-le-littoral
 categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : l'élévation du niveau de la mer et les littoraux.
-tags: [impacts-et-adaptation, veille-2026-09]
-priority: 0.92
-essentiel: false
-status: planned
+  Le niveau moyen des océans monte parce que les glaces fondent et que l'eau chaude se dilate.
+  Le rythme s'accélère et menace les côtes, où l'on s'adapte de plusieurs façons.
+tags: [impacts-et-adaptation]
+sources:
+  - title: "Élévation du niveau de la mer"
+    url: "https://fr.wikipedia.org/wiki/%C3%89l%C3%A9vation_du_niveau_de_la_mer"
+    publisher: "Wikipédia"
+  - title: "Sea level rise"
+    url: "https://en.wikipedia.org/wiki/Sea_level_rise"
+    publisher: "Wikipedia"
+  - title: "Climate Change: Global Sea Level"
+    url: "https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level"
+    publisher: "NOAA Climate.gov"
+quiz:
+  - question: "Quelles sont les deux causes principales de la montée de la mer ?"
+    options:
+      - "Les marées et la pluie"
+      - "Les bateaux et les ports"
+      - "La fonte des glaces et la dilatation de l'eau qui se réchauffe"
+    answer: 3
+    explanation: >
+      Il y a deux causes principales : la fonte des glaciers et des calottes polaires, qui
+      ajoute de l'eau aux océans, et la dilatation thermique, car une eau plus chaude occupe
+      plus de volume.
+  - question: "Que signifie la dilatation thermique ?"
+    options:
+      - "L'eau devient solide"
+      - "Une eau plus chaude occupe plus de volume"
+      - "L'eau change de couleur"
+    answer: 2
+    explanation: >
+      Il y a deux causes principales : la fonte des glaciers et des calottes polaires, qui
+      ajoute de l'eau aux océans, et la dilatation thermique, car une eau plus chaude occupe
+      plus de volume.
+  - question: "De quoi dépend la hausse d'ici 2100 ?"
+    options:
+      - "Du nombre de plages"
+      - "De la couleur du ciel"
+      - "Des émissions de gaz à effet de serre"
+    answer: 3
+    explanation: >
+      D'ici 2100, la hausse dépend des émissions de gaz à effet de serre : plus faible si on les
+      réduit, bien plus forte sinon.
+  - question: "Citez une façon de s'adapter à la montée de la mer."
+    options:
+      - "Boire l'eau de mer"
+      - "Construire des digues ou restaurer des dunes"
+      - "Fermer les fenêtres"
+    answer: 2
+    explanation: >
+      Pour s'adapter, on peut construire des digues, recharger les plages, restaurer des dunes
+      ou organiser le recul des habitations menacées.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le niveau moyen des océans monte parce que les glaces fondent et que l'eau chaude se dilate. Le rythme s'accélère et menace les côtes, où l'on s'adapte de plusieurs façons.
+
+## Pourquoi la mer monte
+
+Le niveau moyen de la mer monte depuis plus d'un siècle, et le rythme de la hausse s'accélère. Il y a deux causes principales : la fonte des glaciers et des calottes polaires, qui ajoute de l'eau aux océans, et la dilatation thermique, car une eau plus chaude occupe plus de volume. Le Groenland et l'Antarctique perdent de la glace de plus en plus vite. Un facteur plus petit s'y ajoute : le pompage des eaux souterraines, qui déplace de l'eau des terres vers l'océan.
+
+## Ce qui nous attend
+
+D'ici 2100, la hausse dépend des émissions de gaz à effet de serre : plus faible si on les réduit, bien plus forte sinon. Des dizaines de millions de personnes pourraient être exposées chaque année à des inondations côtières à mesure que la mer monte.
+
+## Des littoraux menacés
+
+Pour les littoraux, la montée de la mer signifie recul du trait de côte, submersion, entrée d'eau salée dans les nappes d'eau douce et destruction d'écosystèmes. Dans certaines régions, l'affaissement du sol aggrave l'effet de la montée des eaux.
+
+## S'adapter
+
+Pour s'adapter, on peut construire des digues, recharger les plages, restaurer des dunes ou organiser le recul des habitations menacées.
+
+## À retenir
+
+- Le niveau moyen de la mer monte depuis plus d'un siècle, et le rythme de la hausse s'accélère.
+- Deux causes principales : la fonte des glaces, qui ajoute de l'eau, et la dilatation de l'eau qui se réchauffe.
+- D'ici 2100, la hausse dépend des émissions de gaz à effet de serre : plus faible si on les réduit, bien plus forte sinon.
+- Elle provoque recul du trait de côte, submersion, entrée d'eau salée dans les nappes et destruction d'écosystèmes.
+- Pour s'adapter, on peut construire des digues, recharger les plages, restaurer des dunes ou organiser le recul des habitations menacées.
 
 ---
 type: article
@@ -9663,18 +9738,94 @@ La NOAA appelle seuil de blanchissement une température de la mer supérieure d
 
 ---
 type: article
-title: Les récifs coralliens et l'acidification des océans
-slug: les-recifs-coralliens-et-l-acidification-des-oceans
+title: Pourquoi l'acidification des océans menace-t-elle les récifs coralliens ?
+slug: pourquoi-l-acidification-des-oceans-menace-t-elle-les-recifs-coralliens
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les récifs coralliens et l'acidification des océans.
-tags: [forets-et-oceans, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  L'océan absorbe une partie du CO2 de l'air, ce qui rend l'eau plus acide et gêne les
+  organismes à coquille ou squelette, dont les coraux. Le blanchissement vient surtout de la
+  chaleur.
+tags: [forets-et-oceans]
+sources:
+  - title: "Acidification des océans"
+    url: "https://fr.wikipedia.org/wiki/Acidification_des_oc%C3%A9ans"
+    publisher: "Wikipédia"
+  - title: "Ocean acidification"
+    url: "https://en.wikipedia.org/wiki/Ocean_acidification"
+    publisher: "Wikipedia"
+  - title: "What is ocean acidification?"
+    url: "https://oceanservice.noaa.gov/facts/acidification.html"
+    publisher: "NOAA, National Ocean Service"
+  - title: "Coral bleaching"
+    url: "https://en.wikipedia.org/wiki/Coral_bleaching"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi le pH de l'océan baisse-t-il ?"
+    options:
+      - "Il pleut plus"
+      - "Le CO2 dissous forme de l'acide carbonique"
+      - "Il y a plus de sel"
+    answer: 2
+    explanation: >
+      L'océan absorbe une partie du CO2 de l'air ; le CO2 dissous forme de l'acide carbonique,
+      ce qui fait baisser le pH de l'eau : c'est l'acidification.
+  - question: "Quels organismes ont du mal à fabriquer leur squelette dans une eau plus acide ?"
+    options:
+      - "Les coraux, les mollusques et les ptéropodes"
+      - "Les baleines"
+      - "Les algues vertes seulement"
+    answer: 1
+    explanation: >
+      Les coraux, les mollusques, les ptéropodes, les oursins et d'autres organismes à squelette
+      calcaire ont de plus en plus de mal à construire leur coquille ou leur squelette.
+  - question: "Qu'est-ce qui provoque surtout le blanchissement des coraux ?"
+    options:
+      - "La hausse de la température de l'eau"
+      - "Le manque de sel"
+      - "La pluie"
+    answer: 1
+    explanation: >
+      Il est surtout provoqué par la hausse de la température de l'eau.
+  - question: "Qu'est-ce que le corail perd quand il blanchit ?"
+    options:
+      - "Ses dents"
+      - "Ses yeux"
+      - "Ses algues symbiotiques, les zooxanthelles"
+    answer: 3
+    explanation: >
+      Le blanchissement du corail est la perte des algues symbiotiques, les zooxanthelles, qui
+      lui donnaient sa couleur ; le corail devient blanc.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'océan absorbe une partie du CO2 de l'air, ce qui rend l'eau plus acide et gêne les organismes à coquille ou squelette, dont les coraux. Le blanchissement vient surtout de la chaleur.
+
+## Un océan plus acide
+
+L'océan absorbe une partie du CO2 de l'air ; le CO2 dissous forme de l'acide carbonique, ce qui fait baisser le pH de l'eau : c'est l'acidification. L'océan absorbe ainsi une part importante du CO2 émis par les activités humaines. Le pH de l'eau de surface a baissé, ce qui correspond à une hausse sensible de l'acidité depuis l'ère préindustrielle.
+
+## Moins de calcaire pour les coraux
+
+L'acidification réduit la quantité d'ions carbonate dans l'eau, les briques dont les coquilles et les squelettes ont besoin. Les coraux, les mollusques, les ptéropodes, les oursins et d'autres organismes à squelette calcaire ont de plus en plus de mal à construire leur coquille ou leur squelette. L'acidification perturbe aussi le comportement des poissons : les larves perdent une partie de leur odorat, ce qui gêne la détection des prédateurs.
+
+## Le blanchissement, une autre menace
+
+Le blanchissement du corail est la perte des algues symbiotiques, les zooxanthelles, qui lui donnaient sa couleur ; le corail devient blanc. Il est surtout provoqué par la hausse de la température de l'eau. Ces algues fournissent l'essentiel de l'énergie du corail : sans elles, il peut mourir de faim et devient plus vulnérable aux maladies. Après la mort du corail, des macroalgues peuvent coloniser son squelette et l'empêcher de revenir.
+
+## Deux menaces qui s'ajoutent
+
+L'acidification et le blanchissement sont deux menaces différentes, l'une venue du CO2 dissous, l'autre surtout de la chaleur, mais elles s'additionnent. De nombreuses personnes dépendent des récifs pour la pêche, le tourisme et la protection des côtes.
+
+## À retenir
+
+- L'océan absorbe du CO2, qui forme de l'acide carbonique et fait baisser le pH de l'eau : c'est l'acidification.
+- L'acidification réduit la quantité d'ions carbonate dans l'eau, les briques dont les coquilles et les squelettes ont besoin.
+- Coraux, mollusques et ptéropodes ont de plus en plus de mal à construire leur coquille ou leur squelette.
+- Il est surtout provoqué par la hausse de la température de l'eau.
+- Acidification et blanchissement sont deux menaces différentes, l'une venue du CO2, l'autre de la chaleur, qui s'additionnent.
 
 ---
 type: article
@@ -9693,33 +9844,173 @@ status: planned
 
 ---
 type: article
-title: Le lien entre crise climatique et crise de la biodiversité, rapport GIEC et IPBES
-slug: le-lien-entre-crise-climatique-et-crise-de-la-biodiversite-rapport-giec-et-ipbes
+title: Le climat et la biodiversité sont-ils deux crises séparées ou une seule ?
+slug: le-climat-et-la-biodiversite-sont-ils-deux-crises-separees-ou-une-seule
 categoryPath: environnement-et-climat/changement-climatique/scenarios
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le lien entre crise climatique et crise de la biodiversité, rapport GIEC et IPBES.
-tags: [scenarios, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Environ un million d'espèces sont menacées d'extinction, selon l'IPBES. Le changement
+  climatique est l'une des causes, et les deux crises sont liées : mieux vaut les traiter
+  ensemble.
+tags: [scenarios]
+sources:
+  - title: "IPBES"
+    url: "https://en.wikipedia.org/wiki/IPBES"
+    publisher: "Wikipedia"
+  - title: "Biodiversity loss"
+    url: "https://en.wikipedia.org/wiki/Biodiversity_loss"
+    publisher: "Wikipedia"
+  - title: "Nature's Dangerous Decline 'Unprecedented'; Species Extinction Rates 'Accelerating'"
+    url: "https://www.un.org/sustainabledevelopment/blog/2019/05/nature-decline-unprecedented-report/"
+    publisher: "Nations unies"
+quiz:
+  - question: "Combien d'espèces sont menacées d'extinction, selon l'évaluation mondiale de l'IPBES de 2019 ?"
+    options:
+      - "Environ un million"
+      - "Une dizaine"
+      - "Aucune"
+    answer: 1
+    explanation: >
+      Son évaluation mondiale de 2019 alerte sur environ un million d'espèces animales et
+      végétales menacées d'extinction.
+  - question: "Lequel de ces éléments est un facteur direct de perte de biodiversité ?"
+    options:
+      - "La couleur des feuilles"
+      - "La forme des nuages"
+      - "Le changement climatique"
+    answer: 3
+    explanation: >
+      L'évaluation classe cinq facteurs directs : les changements d'usage des terres et des
+      mers, l'exploitation directe des organismes, le changement climatique, la pollution et les
+      espèces exotiques envahissantes.
+  - question: "Quelle est la principale cause mondiale de perte de biodiversité ?"
+    options:
+      - "Les cloches des églises"
+      - "La destruction des habitats"
+      - "Les nuages"
+    answer: 2
+    explanation: >
+      La destruction des habitats est aujourd'hui la principale cause mondiale de perte de
+      biodiversité, devant le changement climatique.
+  - question: "Que recommande le rapport commun IPBES-GIEC ?"
+    options:
+      - "Ignorer la biodiversité"
+      - "Traiter seulement le climat"
+      - "Traiter climat et biodiversité ensemble"
+    answer: 3
+    explanation: >
+      Les traiter chacune de son côté risque de donner des solutions incomplètes : mieux vaut
+      des stratégies qui visent les deux à la fois.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Environ un million d'espèces sont menacées d'extinction, selon l'IPBES. Le changement climatique est l'une des causes, et les deux crises sont liées : mieux vaut les traiter ensemble.
+
+## Une crise du vivant
+
+L'IPBES est une organisation intergouvernementale indépendante qui relie la science et les décisions politiques sur la biodiversité et les services rendus par les écosystèmes. Son évaluation mondiale de 2019 alerte sur environ un million d'espèces animales et végétales menacées d'extinction. Le rythme actuel d'extinction est beaucoup plus élevé que le rythme naturel, et il s'accélère.
+
+## Les causes de la perte de biodiversité
+
+L'évaluation classe cinq facteurs directs : les changements d'usage des terres et des mers, l'exploitation directe des organismes, le changement climatique, la pollution et les espèces exotiques envahissantes. La destruction des habitats est aujourd'hui la principale cause mondiale de perte de biodiversité, devant le changement climatique. Les activités humaines ont fortement transformé la plupart des milieux terrestres et marins. L'agriculture industrielle et l'intensification des usages des terres comptent parmi les causes majeures de l'effondrement de la biodiversité.
+
+## Deux crises liées
+
+Le changement climatique est l'un de ces facteurs : la crise du climat et celle de la biodiversité sont liées. Un atelier commun entre l'IPBES et le GIEC, l'organisme des experts du climat, a montré que les deux crises sont profondément liées. Les traiter chacune de son côté risque de donner des solutions incomplètes : mieux vaut des stratégies qui visent les deux à la fois.
+
+## À retenir
+
+- L'IPBES est une organisation intergouvernementale indépendante qui relie la science et les décisions politiques sur la biodiversité et les services rendus par les écosystèmes.
+- Selon l'IPBES, environ un million d'espèces animales et végétales sont menacées d'extinction.
+- Cinq facteurs directs : usage des terres et des mers, exploitation, climat, pollution et espèces envahissantes.
+- Le changement climatique est l'un de ces facteurs : la crise du climat et celle de la biodiversité sont liées.
+- Les traiter chacune de son côté risque de donner des solutions incomplètes : mieux vaut des stratégies qui visent les deux à la fois.
 
 ---
 type: article
-title: Le méthane, un gaz à effet de serre puissant
-slug: le-methane-un-gaz-a-effet-de-serre-puissant
+title: Pourquoi le méthane est-il un gaz à effet de serre si puissant ?
+slug: pourquoi-le-methane-est-il-un-gaz-a-effet-de-serre-si-puissant
 categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le méthane, un gaz à effet de serre puissant.
-tags: [gaz-a-effet-de-serre, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Une molécule de méthane retient bien plus de chaleur qu'une molécule de CO2, mais le méthane
+  reste moins longtemps dans l'atmosphère. Il vient de sources naturelles et surtout humaines.
+tags: [gaz-a-effet-de-serre]
+sources:
+  - title: "Méthane"
+    url: "https://fr.wikipedia.org/wiki/M%C3%A9thane"
+    publisher: "Wikipédia"
+  - title: "Atmospheric methane"
+    url: "https://en.wikipedia.org/wiki/Atmospheric_methane"
+    publisher: "Wikipedia"
+  - title: "Importance of Methane"
+    url: "https://www.epa.gov/gmi/importance-methane"
+    publisher: "Agence américaine de protection de l'environnement (EPA)"
+quiz:
+  - question: "Combien de fois plus de chaleur une molécule de méthane retient-elle qu'une molécule de CO2 sur 100 ans ?"
+    options:
+      - "Environ 28 fois"
+      - "Exactement autant"
+      - "Environ 2 fois moins"
+    answer: 1
+    explanation: >
+      Sur 100 ans, une molécule de méthane retient environ 28 fois plus de chaleur qu'une
+      molécule de CO2.
+  - question: "Le méthane reste-t-il longtemps dans l'atmosphère ?"
+    options:
+      - "Oui, des milliers d'années"
+      - "Non, sa durée de vie est relativement courte"
+      - "Il disparaît en une minute"
+    answer: 2
+    explanation: >
+      Le méthane a une durée de vie relativement courte dans l'atmosphère, où il est détruit par
+      des radicaux hydroxyle.
+  - question: "Citez une source humaine de méthane."
+    options:
+      - "Les nuages"
+      - "La Lune"
+      - "L'élevage"
+    answer: 3
+    explanation: >
+      Les sources sont naturelles, comme les zones humides, et humaines : élevage, riziculture,
+      extraction et fuites de gaz et de pétrole, décharges.
+  - question: "Qu'est-ce qui s'est passé avec la concentration de méthane depuis l'ère préindustrielle ?"
+    options:
+      - "Elle a plus que doublé"
+      - "Elle a disparu"
+      - "Elle est restée identique"
+    answer: 1
+    explanation: >
+      Sa concentration dans l'atmosphère a plus que doublé depuis l'ère préindustrielle, surtout
+      à cause des activités humaines.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une molécule de méthane retient bien plus de chaleur qu'une molécule de CO2, mais le méthane reste moins longtemps dans l'atmosphère. Il vient de sources naturelles et surtout humaines.
+
+## Un gaz très efficace pour retenir la chaleur
+
+Le méthane est un gaz à effet de serre : après le CO2, c'est le gaz à effet de serre d'origine humaine le plus abondant. Sur 100 ans, une molécule de méthane retient environ 28 fois plus de chaleur qu'une molécule de CO2. Sur 20 ans, l'écart est bien plus grand encore, car le méthane agit fort avant d'être détruit. Le méthane contribue de façon importante au réchauffement actuel, bien qu'il soit beaucoup moins abondant que le CO2.
+
+## Peu de temps dans l'air
+
+Le méthane a une durée de vie relativement courte dans l'atmosphère, où il est détruit par des radicaux hydroxyle. Sa concentration dans l'atmosphère a plus que doublé depuis l'ère préindustrielle, surtout à cause des activités humaines.
+
+## D'où vient le méthane ?
+
+Les sources sont naturelles, comme les zones humides, et humaines : élevage, riziculture, extraction et fuites de gaz et de pétrole, décharges. Une grande partie des émissions actuelles vient d'activités humaines. Aux États-Unis, les plus grandes sources humaines sont les systèmes de pétrole et de gaz, l'élevage et les décharges. Réduire les fuites de gaz et les émissions des décharges et de l'agriculture est une façon d'agir vite, car le méthane disparaît assez vite de l'air.
+
+## À retenir
+
+- Le méthane est un gaz à effet de serre : après le CO2, c'est le gaz à effet de serre d'origine humaine le plus abondant.
+- Sur 100 ans, une molécule de méthane retient environ 28 fois plus de chaleur qu'une molécule de CO2.
+- Le méthane a une durée de vie relativement courte dans l'atmosphère, où il est détruit par des radicaux hydroxyle.
+- Sa concentration dans l'atmosphère a plus que doublé depuis l'ère préindustrielle, surtout à cause des activités humaines.
+- Les sources sont naturelles, comme les zones humides, et humaines : élevage, riziculture, extraction et fuites de gaz et de pétrole, décharges.
 
 ---
 type: article
@@ -9738,33 +10029,176 @@ status: planned
 
 ---
 type: article
-title: Les pollinisateurs sauvages et les cultures
-slug: les-pollinisateurs-sauvages-et-les-cultures
+title: Pourquoi les abeilles sauvages et autres pollinisateurs sont-ils précieux pour nos cultures ?
+slug: pourquoi-les-abeilles-sauvages-et-autres-pollinisateurs-sont-ils-precieux-pour-nos-cultures
 categoryPath: environnement-et-climat/biodiversite/ecosystemes
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les pollinisateurs sauvages et les cultures.
-tags: [ecosystemes, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  Les pollinisateurs sauvages, comme les abeilles sauvages, les bourdons et les papillons,
+  aident à la reproduction de nombreuses plantes et cultures. Leur déclin a plusieurs causes.
+tags: [ecosystemes]
+sources:
+  - title: "Pollinisateur"
+    url: "https://fr.wikipedia.org/wiki/Pollinisateur"
+    publisher: "Wikipédia"
+  - title: "Pollinator decline"
+    url: "https://en.wikipedia.org/wiki/Pollinator_decline"
+    publisher: "Wikipedia"
+  - title: "Pollinisation"
+    url: "https://fr.wikipedia.org/wiki/Pollinisation"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qu'est-ce que la pollinisation ?"
+    options:
+      - "La taille des arbres"
+      - "Le transport du pollen vers l'organe femelle de la fleur"
+      - "La récolte des fruits"
+    answer: 2
+    explanation: >
+      La pollinisation est le transport du pollen vers l'organe femelle d'une fleur, ce qui
+      permet la formation de graines et de fruits.
+  - question: "Quels insectes sont des pollinisateurs sauvages ?"
+    options:
+      - "Les moustiques seulement"
+      - "Les fourmis rouges seulement"
+      - "Les bourdons, les syrphes et les papillons"
+    answer: 3
+    explanation: >
+      Les pollinisateurs sauvages, comme les abeilles sauvages, les bourdons, les syrphes et les
+      papillons, jouent un rôle essentiel à côté des abeilles domestiques.
+  - question: "Quelles cultures sont pollinisées par le vent ?"
+    options:
+      - "Les pommes"
+      - "Le blé, le riz et le maïs"
+      - "Les amandes"
+    answer: 2
+    explanation: >
+      Une grande partie de la diversité des cultures dépend de la pollinisation par les
+      insectes, mais pas les grandes céréales comme le blé, le riz et le maïs, pollinisées par
+      le vent.
+  - question: "Citez une cause du déclin des pollinisateurs."
+    options:
+      - "Les chansons"
+      - "La lumière de la lune"
+      - "Les pesticides et la perte d'habitats"
+    answer: 3
+    explanation: >
+      Les causes du déclin sont les pesticides, notamment les néonicotinoïdes, la perte et la
+      fragmentation des habitats, les parasites et maladies et le changement climatique.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les pollinisateurs sauvages, comme les abeilles sauvages, les bourdons et les papillons, aident à la reproduction de nombreuses plantes et cultures. Leur déclin a plusieurs causes.
+
+## Transporter le pollen
+
+La pollinisation est le transport du pollen vers l'organe femelle d'une fleur, ce qui permet la formation de graines et de fruits. La grande majorité des plantes à fleurs sont pollinisées par des animaux, surtout des insectes. Les pollinisateurs sauvages, comme les abeilles sauvages, les bourdons, les syrphes et les papillons, jouent un rôle essentiel à côté des abeilles domestiques.
+
+## Des cultures qui en dépendent
+
+Une grande partie de la diversité des cultures dépend de la pollinisation par les insectes, mais pas les grandes céréales comme le blé, le riz et le maïs, pollinisées par le vent. Les grandes cultures sont souvent pollinisées par un petit nombre d'espèces d'abeilles sauvages, ce qui crée une dépendance dangereuse. Les besoins en pollinisation augmentent plus vite que le nombre de ruches, ce qui rend les pollinisateurs sauvages d'autant plus utiles. Les abeilles domestiques sont gérées par des apiculteurs, alors que les pollinisateurs sauvages vivent librement dans les milieux naturels.
+
+## Un déclin aux causes multiples
+
+Les causes du déclin sont les pesticides, notamment les néonicotinoïdes, la perte et la fragmentation des habitats, les parasites et maladies et le changement climatique. Les néonicotinoïdes provoquent des troubles neurologiques et immunitaires chez les abeilles. Un parasite, le varroa, affaiblit les abeilles. En Europe, de nombreuses espèces d'abeilles sauvages sont menacées. Malgré ce déclin, les rendements des cultures dépendantes des pollinisateurs ont continué de progresser au même rythme que les autres, selon des analyses citées.
+
+## À retenir
+
+- La pollinisation est le transport du pollen vers l'organe femelle d'une fleur, ce qui permet la formation de graines et de fruits.
+- La grande majorité des plantes à fleurs sont pollinisées par des animaux, surtout des insectes.
+- Les pollinisateurs sauvages, comme les abeilles sauvages, les bourdons, les syrphes et les papillons, jouent un rôle essentiel à côté des abeilles domestiques.
+- Beaucoup de cultures dépendent des insectes pollinisateurs, mais pas le blé, le riz et le maïs, pollinisés par le vent.
+- Le déclin vient des pesticides, de la perte d'habitats, des parasites et du changement climatique.
 
 ---
 type: article
-title: Les zones humides, éponges naturelles
-slug: les-zones-humides-eponges-naturelles
+title: Pourquoi dit-on que les zones humides sont des éponges naturelles ?
+slug: pourquoi-dit-on-que-les-zones-humides-sont-des-eponges-naturelles
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les zones humides, éponges naturelles.
-tags: [eau, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  Les zones humides, comme les marais et les tourbières, stockent l'eau pendant les crues et la
+  restituent en période sèche. Elles épurent l'eau, abritent une riche biodiversité et stockent
+  du carbone.
+tags: [eau]
+sources:
+  - title: "Zone humide"
+    url: "https://fr.wikipedia.org/wiki/Zone_humide"
+    publisher: "Wikipédia"
+  - title: "Wetland"
+    url: "https://en.wikipedia.org/wiki/Wetland"
+    publisher: "Wikipedia"
+  - title: "Ramsar Convention"
+    url: "https://en.wikipedia.org/wiki/Ramsar_Convention"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que font les zones humides pendant les crues ?"
+    options:
+      - "Elles stockent l'eau, puis la restituent en période sèche"
+      - "Elles bloquent la rivière"
+      - "Elles évaporent toute l'eau"
+    answer: 1
+    explanation: >
+      Les zones humides agissent comme des éponges : elles stockent l'eau pendant les crues et
+      la restituent peu à peu en période sèche.
+  - question: "Quel type de zone humide stocke beaucoup de carbone ?"
+    options:
+      - "Le désert"
+      - "La tourbière"
+      - "La falaise"
+    answer: 2
+    explanation: >
+      Elles stockent du carbone, surtout les tourbières.
+  - question: "Quel traité protège les zones humides d'importance internationale ?"
+    options:
+      - "La convention de Ramsar"
+      - "Le traité de l'Élysée"
+      - "La charte du vélo"
+    answer: 1
+    explanation: >
+      La convention de Ramsar, signée à Ramsar, en Iran, est le principal traité international
+      qui protège les zones humides d'importance internationale.
+  - question: "Qu'est-ce qui menace les zones humides ?"
+    options:
+      - "Le drainage, l'agriculture et la pollution"
+      - "Les chansons"
+      - "Les nuages"
+    answer: 1
+    explanation: >
+      La disparition vient de l'agriculture, du drainage, de l'extraction de pétrole et de gaz,
+      de la pollution et de l'aménagement des côtes.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les zones humides, comme les marais et les tourbières, stockent l'eau pendant les crues et la restituent en période sèche. Elles épurent l'eau, abritent une riche biodiversité et stockent du carbone.
+
+## Qu'est-ce qu'une zone humide ?
+
+Une zone humide est un espace de marais, de tourbières ou d'eaux, naturelles ou artificielles, temporaires ou permanentes, selon la définition de la convention de Ramsar. On distingue les marais, les marécages, les tourbières, les fens et les mangroves.
+
+## Des éponges et des filtres
+
+Les zones humides agissent comme des éponges : elles stockent l'eau pendant les crues et la restituent peu à peu en période sèche. Elles aident à recharger les nappes souterraines et à stabiliser les rives. Elles épurent l'eau par filtration naturelle et par dénitrification. Elles stockent du carbone, surtout les tourbières.
+
+## Un foyer de biodiversité
+
+Elles abritent une biodiversité exceptionnelle : oiseaux, amphibiens, poissons, plantes. En France, elles couvrent une petite part du territoire mais abritent une part importante des espèces remarquables, des oiseaux, des amphibiens et des poissons. Les services rendus, surtout l'épuration de l'eau et la prévention des inondations, ont une valeur économique élevée.
+
+## Un recul à freiner
+
+Les zones humides ont fortement reculé : une grande partie a disparu, plus vite que les forêts, selon les estimations. La disparition vient de l'agriculture, du drainage, de l'extraction de pétrole et de gaz, de la pollution et de l'aménagement des côtes. La convention de Ramsar, signée à Ramsar, en Iran, est le principal traité international qui protège les zones humides d'importance internationale.
+
+## À retenir
+
+- Une zone humide est un espace de marais, de tourbières ou d'eaux, naturelles ou artificielles, temporaires ou permanentes.
+- Les zones humides stockent l'eau pendant les crues et la restituent peu à peu en période sèche.
+- Elles épurent l'eau par filtration naturelle et par dénitrification.
+- Elles stockent du carbone, surtout les tourbières.
+- Elles abritent une biodiversité exceptionnelle : oiseaux, amphibiens, poissons, plantes.
 
 ---
 type: article
@@ -9783,18 +10217,92 @@ status: planned
 
 ---
 type: article
-title: Les espèces des grandes profondeurs océaniques
-slug: les-especes-des-grandes-profondeurs-oceaniques
+title: Comment survivent les animaux dans les profondeurs sombres de l'océan ?
+slug: comment-survivent-les-animaux-dans-les-profondeurs-sombres-de-l-ocean
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les espèces des grandes profondeurs océaniques.
-tags: [forets-et-oceans, veille-2026-09]
-priority: 0.86
-essentiel: false
-status: planned
+  Dans les grands fonds, il n'y a pas de lumière, la pression est énorme et l'eau est froide.
+  Les animaux s'y adaptent par la bioluminescence, un corps gélatineux et une nourriture venue
+  d'en haut.
+tags: [forets-et-oceans]
+sources:
+  - title: "Zone abyssale"
+    url: "https://fr.wikipedia.org/wiki/Zone_abyssale"
+    publisher: "Wikipédia"
+  - title: "Deep sea"
+    url: "https://en.wikipedia.org/wiki/Deep_sea"
+    publisher: "Wikipedia"
+  - title: "How deep is the ocean?"
+    url: "https://oceanservice.noaa.gov/facts/oceandepth.html"
+    publisher: "NOAA, National Ocean Service"
+quiz:
+  - question: "Quelle lumière trouve-t-on dans les grands fonds ?"
+    options:
+      - "Une lumière dorée"
+      - "Une lumière rouge permanente"
+      - "Presque aucune lumière du soleil"
+    answer: 3
+    explanation: >
+      Dans les grands fonds, il n'y a pas de lumière du soleil, la pression est très élevée et
+      l'eau reste froide.
+  - question: "Que mangent beaucoup d'animaux des grands fonds ?"
+    options:
+      - "De l'herbe"
+      - "Du sable"
+      - "La neige marine, des débris tombés de la surface"
+    answer: 3
+    explanation: >
+      La nourriture vient surtout de la neige marine, des débris organiques qui tombent de la
+      surface.
+  - question: "Qu'est-ce que la bioluminescence ?"
+    options:
+      - "Une algue verte"
+      - "Des animaux qui produisent leur propre lumière"
+      - "Un bruit sous-marin"
+    answer: 2
+    explanation: >
+      Beaucoup d'animaux produisent leur propre lumière, la bioluminescence, pour communiquer ou
+      se camoufler.
+  - question: "Comment des bactéries nourrissent-elles les écosystèmes des sources hydrothermales ?"
+    options:
+      - "Par photosynthèse avec le soleil"
+      - "En mangeant des poissons"
+      - "Par chimiosynthèse, en utilisant des composés chimiques"
+    answer: 3
+    explanation: >
+      Autour des sources hydrothermales, des bactéries tirent leur énergie de composés
+      chimiques, la chimiosynthèse, et nourrissent des écosystèmes qui se passent de lumière.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans les grands fonds, il n'y a pas de lumière, la pression est énorme et l'eau est froide. Les animaux s'y adaptent par la bioluminescence, un corps gélatineux et une nourriture venue d'en haut.
+
+## Un milieu extrême
+
+Dans les grands fonds, il n'y a pas de lumière du soleil, la pression est très élevée et l'eau reste froide. La température y est stable, de quelques degrés seulement, sans saisons. Le point le plus profond connu est le Challenger Deep, dans la fosse des Mariannes, à l'ouest de Guam. La grande majorité des abysses reste inexplorée.
+
+## Que mangent-ils ?
+
+La nourriture vient surtout de la neige marine, des débris organiques qui tombent de la surface. Les carcasses de baleines coulées et les sources hydrothermales créent des oasis de vie. Autour des sources hydrothermales, des bactéries tirent leur énergie de composés chimiques, la chimiosynthèse, et nourrissent des écosystèmes qui se passent de lumière.
+
+## Des adaptations étonnantes
+
+Beaucoup d'animaux produisent leur propre lumière, la bioluminescence, pour communiquer ou se camoufler. Selon les espèces, les yeux sont réduits ou au contraire très grands et tubulaires. Beaucoup d'animaux ont un corps gélatineux et un métabolisme très lent, ce qui économise l'énergie. Beaucoup d'espèces sont hermaphrodites, ce qui aide à se reproduire quand les individus sont rares. Parmi les exemples : la baudroie abyssale, le calmar vampire et les vers géants des sources hydrothermales.
+
+## Des écosystèmes fragiles
+
+Le chalutage, l'exploitation minière et l'acidification des océans menacent ces écosystèmes fragiles.
+
+## À retenir
+
+- Dans les grands fonds, il n'y a pas de lumière du soleil, la pression est très élevée et l'eau reste froide.
+- La nourriture vient surtout de la neige marine, des débris organiques qui tombent de la surface.
+- Autour des sources hydrothermales, des bactéries tirent leur énergie de composés chimiques et nourrissent des écosystèmes sans lumière.
+- Beaucoup d'animaux produisent leur propre lumière, la bioluminescence, pour communiquer ou se camoufler.
+- Beaucoup d'animaux ont un corps gélatineux et un métabolisme très lent, ce qui économise l'énergie.
 
 ---
 type: article
