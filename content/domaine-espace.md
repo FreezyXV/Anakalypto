@@ -11395,165 +11395,928 @@ Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la n
 
 ---
 type: article
-title: Comment une fusée atteint l'orbite
-slug: comment-une-fusee-atteint-l-orbite
+title: Comment une fusée fait-elle pour rester en orbite autour de la Terre ?
+slug: comment-une-fusee-fait-elle-pour-rester-en-orbite-autour-de-la-terre
 categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment une fusée atteint l'orbite.
-tags: [lanceurs-et-orbites, veille-2026-09]
-priority: 0.91
-essentiel: false
-status: planned
+  Pour rester en orbite, une fusée doit surtout prendre une grande vitesse sur le côté. Un
+  satellite tombe sans cesse vers la Terre, mais avance si vite qu'il la manque toujours.
+tags: [lanceurs-et-orbites]
+sources:
+  - title: "Orbital spaceflight"
+    url: "https://en.wikipedia.org/wiki/Orbital_spaceflight"
+    publisher: "Wikipedia"
+  - title: "What is an orbit?"
+    url: "https://spaceplace.nasa.gov/orbits/en/"
+    publisher: "NASA Space Place"
+  - title: "Orbite terrestre basse"
+    url: "https://fr.wikipedia.org/wiki/Orbite_terrestre_basse"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que doit surtout acquérir une fusée pour atteindre l'orbite ?"
+    options:
+      - "Une très grande vitesse horizontale"
+      - "Une très grande hauteur seulement"
+      - "Une très grande masse"
+    answer: 1
+    explanation: >
+      Pour atteindre l'orbite, une fusée doit surtout acquérir une très grande vitesse
+      horizontale, et pas seulement monter en altitude.
+  - question: "Pourquoi un satellite ne tombe-t-il jamais sur la Terre ?"
+    options:
+      - "La gravité est coupée là-haut"
+      - "Il avance assez vite sur le côté pour la manquer"
+      - "Il est attaché par un fil"
+    answer: 2
+    explanation: >
+      Un satellite en orbite tombe en permanence vers la Terre, mais comme il avance assez vite
+      sur le côté, il ne la touche jamais.
+  - question: "Combien de temps dure environ un tour en orbite basse ?"
+    options:
+      - "5 secondes"
+      - "3 jours"
+      - "90 minutes"
+    answer: 3
+    explanation: >
+      Un tour complet en orbite basse dure environ 90 minutes.
+  - question: "Pourquoi faut-il plusieurs étages ?"
+    options:
+      - "Pour atteindre la vitesse requise"
+      - "Pour décorer la fusée"
+      - "Pour mieux voir la Terre"
+    answer: 1
+    explanation: >
+      Plusieurs étages sont nécessaires pour atteindre la vitesse requise.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour rester en orbite, une fusée doit surtout prendre une grande vitesse sur le côté. Un satellite tombe sans cesse vers la Terre, mais avance si vite qu'il la manque toujours.
+
+## Aller vite sur le côté
+
+Pour atteindre l'orbite, une fusée doit surtout acquérir une très grande vitesse horizontale, et pas seulement monter en altitude. Un satellite en orbite tombe en permanence vers la Terre, mais comme il avance assez vite sur le côté, il ne la touche jamais. Si la vitesse est trop grande, l'objet s'échappe dans l'espace ; si elle est trop faible, la gravité le fait retomber.
+
+## Un décollage en deux temps
+
+Une fusée décolle presque à la verticale, puis incline progressivement sa trajectoire pour accélérer à l'horizontale pendant quelques minutes, jusqu'à la vitesse orbitale. Plusieurs étages sont nécessaires pour atteindre la vitesse requise. Il faut aussi monter assez haut pour que le frottement de l'air devienne très faible.
+
+## L'orbite basse
+
+L'orbite terrestre basse commence à la ligne de Kármán, à la limite de l'espace, et s'étend sur quelques milliers de kilomètres. Un tour complet en orbite basse dure environ 90 minutes. L'orbite basse accueille la Station spatiale internationale, des satellites d'observation et des constellations de télécommunications. La plupart des objets suivis en orbite basse sont des débris, pas des satellites en service.
+
+## À retenir
+
+- Pour atteindre l'orbite, une fusée doit surtout acquérir une très grande vitesse horizontale, et pas seulement monter en altitude.
+- Un satellite tombe sans cesse vers la Terre, mais il avance si vite sur le côté qu'il ne la touche jamais.
+- Une fusée décolle presque à la verticale, puis incline sa trajectoire et accélère à l'horizontale jusqu'à la vitesse orbitale.
+- Un tour complet en orbite basse dure environ 90 minutes.
+- L'orbite basse accueille la Station spatiale internationale, des satellites d'observation et des constellations de télécommunications.
 
 ---
 type: article
-title: La naissance des étoiles
-slug: la-naissance-des-etoiles
+title: Comment naît une étoile à partir d'un nuage de gaz ?
+slug: comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz
 categoryPath: espace-et-astronomie/astrophysique/etoiles
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la naissance des étoiles.
-tags: [etoiles, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  Les étoiles naissent dans de grands nuages de gaz et de poussière qui s'effondrent sous leur
+  propre poids. Quand le cœur devient assez chaud, l'hydrogène se met à fusionner et l'étoile
+  s'allume.
+tags: [etoiles]
+sources:
+  - title: "Formation stellaire"
+    url: "https://fr.wikipedia.org/wiki/Formation_stellaire"
+    publisher: "Wikipédia"
+  - title: "Star formation"
+    url: "https://en.wikipedia.org/wiki/Star_formation"
+    publisher: "Wikipedia"
+  - title: "Protostar"
+    url: "https://en.wikipedia.org/wiki/Protostar"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où naissent les étoiles ?"
+    options:
+      - "Dans les volcans"
+      - "Dans de grands nuages de gaz et de poussière"
+      - "Dans les océans"
+    answer: 2
+    explanation: >
+      Les étoiles se forment dans de grands nuages de gaz et de poussière, les nuages
+      moléculaires géants, sous l'effet de la gravité.
+  - question: "Qu'est-ce qu'une protoétoile ?"
+    options:
+      - "Une étoile qui va mourir"
+      - "Une planète"
+      - "Une étoile très jeune qui accumule encore de la matière"
+    answer: 3
+    explanation: >
+      Une protoétoile est une étoile très jeune qui accumule encore de la matière de son nuage
+      d'origine.
+  - question: "Pourquoi observe-t-on les protoétoiles surtout en infrarouge ?"
+    options:
+      - "Elles sont trop proches"
+      - "La poussière qui les entoure absorbe leur lumière visible"
+      - "Elles n'émettent aucune lumière"
+    answer: 2
+    explanation: >
+      Les protoétoiles sont enfouies dans la poussière, qui absorbe leur lumière visible : on
+      les observe surtout en infrarouge et en ondes millimétriques.
+  - question: "Qu'est-ce qui allume une étoile ?"
+    options:
+      - "Un éclair"
+      - "La fusion de l'hydrogène dans son cœur"
+      - "Un volcan"
+    answer: 2
+    explanation: >
+      Quand le cœur devient assez chaud, l'hydrogène commence à fusionner : la protoétoile
+      devient une étoile de la séquence principale.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les étoiles naissent dans de grands nuages de gaz et de poussière qui s'effondrent sous leur propre poids. Quand le cœur devient assez chaud, l'hydrogène se met à fusionner et l'étoile s'allume.
+
+## Un nuage qui s'effondre
+
+Les étoiles se forment dans de grands nuages de gaz et de poussière, les nuages moléculaires géants, sous l'effet de la gravité. Des régions denses du nuage s'effondrent sous leur propre poids, et de nombreuses étoiles se forment à peu près en même temps. Les étoiles naissent donc en groupe, dans des pouponnières d'étoiles comme la nébuleuse d'Orion.
+
+## La protoétoile
+
+Une protoétoile est une étoile très jeune qui accumule encore de la matière de son nuage d'origine. La matière tombe sur la protoétoile à travers un disque qui l'entoure, et des jets de matière sont éjectés. Les protoétoiles sont enfouies dans la poussière, qui absorbe leur lumière visible : on les observe surtout en infrarouge et en ondes millimétriques. Au stade T Tauri, la jeune étoile éjecte des jets de matière tout en accumulant encore de la matière. Avant l'allumage, une protoétoile ne produit pas sa lumière par fusion : son rayonnement vient de la matière qui s'écrase sur sa surface et sur son disque.
+
+## L'allumage
+
+Quand le cœur devient assez chaud, l'hydrogène commence à fusionner : la protoétoile devient une étoile de la séquence principale. Il faut une masse minimale pour allumer la fusion de l'hydrogène ; en dessous, l'objet devient une naine brune.
+
+## À retenir
+
+- Les étoiles se forment dans de grands nuages de gaz et de poussière, les nuages moléculaires géants, sous l'effet de la gravité.
+- Les étoiles naissent donc en groupe, dans des pouponnières d'étoiles comme la nébuleuse d'Orion.
+- Une protoétoile est une étoile très jeune qui accumule encore de la matière de son nuage d'origine.
+- Les protoétoiles sont enfouies dans la poussière, qui absorbe leur lumière visible : on les observe surtout en infrarouge et en ondes millimétriques.
+- Quand le cœur devient assez chaud, l'hydrogène commence à fusionner : la protoétoile devient une étoile de la séquence principale.
 
 ---
 type: article
-title: Les éclipses de Lune et de Soleil
-slug: les-eclipses-de-lune-et-de-soleil
+title: Pourquoi n'y a-t-il pas une éclipse à chaque nouvelle Lune ?
+slug: pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune
 categoryPath: espace-et-astronomie/systeme-solaire/lune
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les éclipses de Lune et de Soleil.
-tags: [lune, veille-2026-09]
-priority: 0.9
-essentiel: false
-status: planned
+  Une éclipse de Soleil a lieu quand la Lune passe devant le Soleil, une éclipse de Lune quand
+  la Terre cache le Soleil à la Lune. Il n'y en a pas tous les mois, car l'orbite de la Lune est
+  inclinée.
+tags: [lune]
+sources:
+  - title: "Éclipse"
+    url: "https://fr.wikipedia.org/wiki/%C3%89clipse"
+    publisher: "Wikipédia"
+  - title: "Solar eclipse"
+    url: "https://en.wikipedia.org/wiki/Solar_eclipse"
+    publisher: "Wikipedia"
+  - title: "Lunar eclipse"
+    url: "https://en.wikipedia.org/wiki/Lunar_eclipse"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il pendant une éclipse de Soleil ?"
+    options:
+      - "La Lune passe entre la Terre et le Soleil"
+      - "La Terre passe entre le Soleil et la Lune"
+      - "Le Soleil s'éteint"
+    answer: 1
+    explanation: >
+      Une éclipse de Soleil a lieu quand la Lune passe entre la Terre et le Soleil, à la
+      nouvelle Lune.
+  - question: "Pourquoi n'y a-t-il pas d'éclipse à chaque nouvelle Lune ?"
+    options:
+      - "L'orbite de la Lune est inclinée"
+      - "La Lune disparaît"
+      - "Le Soleil se cache"
+    answer: 1
+    explanation: >
+      Il n'y en a pas tous les mois, car l'orbite de la Lune est inclinée par rapport au plan de
+      l'orbite de la Terre : il faut que la Lune soit près d'un des points où les deux plans se
+      croisent.
+  - question: "Pourquoi la Lune devient-elle rouge pendant une éclipse totale ?"
+    options:
+      - "La lumière est déviée par l'atmosphère de la Terre"
+      - "Elle chauffe"
+      - "Elle s'approche du Soleil"
+    answer: 1
+    explanation: >
+      Pendant une éclipse totale de Lune, la Lune devient rougeâtre, car la lumière du Soleil
+      est déviée par l'atmosphère de la Terre avant d'atteindre la Lune.
+  - question: "Comment regarder une éclipse de Soleil sans risque ?"
+    options:
+      - "Avec des filtres solaires certifiés ou une projection indirecte"
+      - "Avec des lunettes de soleil ordinaires"
+      - "À l'œil nu"
+    answer: 1
+    explanation: >
+      Regarder le Soleil pendant une éclipse est aussi dangereux qu'en temps normal, sauf
+      pendant la brève totalité : il faut des filtres solaires certifiés ou une projection
+      indirecte.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une éclipse de Soleil a lieu quand la Lune passe devant le Soleil, une éclipse de Lune quand la Terre cache le Soleil à la Lune. Il n'y en a pas tous les mois, car l'orbite de la Lune est inclinée.
+
+## Deux alignements différents
+
+Une éclipse de Soleil a lieu quand la Lune passe entre la Terre et le Soleil, à la nouvelle Lune. Une éclipse de Lune a lieu quand la Terre passe entre le Soleil et la Lune, à la pleine Lune : la Lune traverse l'ombre de la Terre. Il n'y en a pas tous les mois, car l'orbite de la Lune est inclinée par rapport au plan de l'orbite de la Terre : il faut que la Lune soit près d'un des points où les deux plans se croisent. Les éclipses ne se produisent que pendant des périodes appelées saisons des éclipses, quand l'alignement est bon.
+
+## Totale, partielle ou annulaire
+
+Une éclipse de Soleil peut être totale, annulaire ou partielle. Dans une éclipse annulaire, la Lune paraît trop petite pour cacher entièrement le Soleil et laisse voir un anneau lumineux. En un lieu donné, la totalité d'une éclipse de Soleil ne dure que quelques minutes au maximum. Pendant une éclipse totale de Lune, la Lune devient rougeâtre, car la lumière du Soleil est déviée par l'atmosphère de la Terre avant d'atteindre la Lune.
+
+## Regarder sans danger
+
+Regarder le Soleil pendant une éclipse est aussi dangereux qu'en temps normal, sauf pendant la brève totalité : il faut des filtres solaires certifiés ou une projection indirecte. Une éclipse de Lune se regarde sans protection, et elle est visible de toute la face nocturne de la Terre. Une éclipse totale de Soleil se produit quelque part sur Terre assez souvent, mais très rarement au même endroit.
+
+## À retenir
+
+- Une éclipse de Soleil a lieu quand la Lune passe entre la Terre et le Soleil, à la nouvelle Lune.
+- Une éclipse de Lune a lieu quand la Terre passe entre le Soleil et la Lune pleine, qui traverse l'ombre de la Terre.
+- Il n'y en a pas tous les mois, car l'orbite de la Lune est inclinée par rapport à celle de la Terre.
+- Pendant une éclipse totale de Lune, elle devient rougeâtre : la lumière est déviée par l'atmosphère de la Terre.
+- Regarder le Soleil pendant une éclipse est dangereux : il faut des filtres solaires certifiés ou une projection indirecte.
 
 ---
 type: article
-title: Comment les astronautes vivent en apesanteur
-slug: comment-les-astronautes-vivent-en-apesanteur
+title: Pourquoi les astronautes flottent-ils dans la station spatiale ?
+slug: pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale
 categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : comment les astronautes vivent en apesanteur.
-tags: [vols-habites, veille-2026-09]
-priority: 0.89
-essentiel: false
-status: planned
+  En orbite, les astronautes ne sont pas hors de la gravité : ils sont en chute libre avec leur
+  vaisseau. L'apesanteur affaiblit les os et les muscles et déplace les liquides vers la tête.
+tags: [vols-habites]
+sources:
+  - title: "Apesanteur"
+    url: "https://fr.wikipedia.org/wiki/Apesanteur"
+    publisher: "Wikipédia"
+  - title: "Effect of spaceflight on the human body"
+    url: "https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body"
+    publisher: "Wikipedia"
+  - title: "Weightlessness"
+    url: "https://en.wikipedia.org/wiki/Weightlessness"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi les astronautes flottent-ils dans la station ?"
+    options:
+      - "Il n'y a plus de gravité"
+      - "Le vaisseau les aspire"
+      - "Ils sont en chute libre permanente avec leur vaisseau"
+    answer: 3
+    explanation: >
+      En orbite, les astronautes ne sont pas hors de la gravité : ils sont en chute libre
+      permanente avec leur vaisseau, d'où l'impression d'apesanteur.
+  - question: "Que deviennent les liquides du corps en apesanteur ?"
+    options:
+      - "Ils s'évaporent"
+      - "Ils deviennent solides"
+      - "Ils se déplacent vers la tête"
+    answer: 3
+    explanation: >
+      Sans pesanteur, les liquides du corps se déplacent vers la tête, ce qui donne un visage
+      gonflé.
+  - question: "Pourquoi les muscles s'affaiblissent-ils ?"
+    options:
+      - "Ils travaillent moins contre la gravité"
+      - "Ils fondent"
+      - "Ils changent de couleur"
+    answer: 1
+    explanation: >
+      Les os perdent de la densité, et les muscles s'affaiblissent car ils travaillent moins
+      contre la gravité.
+  - question: "Que font les astronautes pour limiter ces effets ?"
+    options:
+      - "De longues séances d'exercice chaque jour"
+      - "Ils dorment toute la journée"
+      - "Rien du tout"
+    answer: 1
+    explanation: >
+      Pour limiter ces effets, les astronautes de la station font de longues séances d'exercice
+      chaque jour, avec un tapis de course et des appareils de musculation.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En orbite, les astronautes ne sont pas hors de la gravité : ils sont en chute libre avec leur vaisseau. L'apesanteur affaiblit les os et les muscles et déplace les liquides vers la tête.
+
+## Pas de gravité ? Pas du tout
+
+En orbite, les astronautes ne sont pas hors de la gravité : ils sont en chute libre permanente avec leur vaisseau, d'où l'impression d'apesanteur. À l'altitude de la Station spatiale internationale, la gravité de la Terre reste presque aussi forte qu'à la surface. En apesanteur, les liquides se comportent autrement : l'eau forme des sphères et la flamme d'une bougie est ronde. On peut expérimenter l'apesanteur quelques secondes dans un avion qui suit une trajectoire parabolique.
+
+## Un corps qui s'adapte mal
+
+Sans pesanteur, les liquides du corps se déplacent vers la tête, ce qui donne un visage gonflé. Les os perdent de la densité, et les muscles s'affaiblissent car ils travaillent moins contre la gravité. Les astronautes peuvent gagner quelques centimètres de taille, car leur colonne vertébrale se détend. Une partie importante des astronautes a le mal de l'espace, avec nausées, vertiges et maux de tête. La vision peut aussi changer pendant les vols, parfois pour longtemps.
+
+## Rester en forme
+
+Pour limiter ces effets, les astronautes de la station font de longues séances d'exercice chaque jour, avec un tapis de course et des appareils de musculation. Au retour sur Terre, les astronautes récupèrent en général la densité osseuse perdue.
+
+## À retenir
+
+- En orbite, les astronautes sont en chute libre permanente avec leur vaisseau : d'où l'impression d'apesanteur.
+- À l'altitude de la Station spatiale internationale, la gravité de la Terre reste presque aussi forte qu'à la surface.
+- Sans pesanteur, les liquides du corps se déplacent vers la tête, ce qui donne un visage gonflé.
+- Les os perdent de la densité, et les muscles s'affaiblissent car ils travaillent moins contre la gravité.
+- Les astronautes de la station font de longues séances d'exercice chaque jour pour limiter ces effets.
 
 ---
 type: article
-title: Les exoplanètes de la zone habitable
-slug: les-exoplanetes-de-la-zone-habitable
+title: Que veut dire zone habitable pour une exoplanète ?
+slug: que-veut-dire-zone-habitable-pour-une-exoplanete
 categoryPath: espace-et-astronomie/systeme-solaire/planetes
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les exoplanètes de la zone habitable.
-tags: [planetes, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  La zone habitable est la région autour d'une étoile où l'eau pourrait être liquide à la
+  surface d'une planète. Y être ne garantit pas que la planète soit habitable.
+tags: [planetes]
+sources:
+  - title: "Zone habitable"
+    url: "https://fr.wikipedia.org/wiki/Zone_habitable"
+    publisher: "Wikipédia"
+  - title: "Circumstellar habitable zone"
+    url: "https://en.wikipedia.org/wiki/Circumstellar_habitable_zone"
+    publisher: "Wikipedia"
+  - title: "Habitable Zone"
+    url: "https://science.nasa.gov/exoplanets/habitable-zone/"
+    publisher: "NASA"
+quiz:
+  - question: "Qu'est-ce que la zone habitable ?"
+    options:
+      - "Une zone sans gravité"
+      - "La région la plus chaude d'une étoile"
+      - "La région où l'eau pourrait être liquide à la surface d'une planète"
+    answer: 3
+    explanation: >
+      La zone habitable est la région autour d'une étoile où l'eau pourrait exister à l'état
+      liquide à la surface d'une planète.
+  - question: "Pourquoi l'appelle-t-on zone Boucle d'or ?"
+    options:
+      - "Parce qu'elle est dorée"
+      - "Ni trop chaud, ni trop froid"
+      - "Parce qu'elle contient de l'or"
+    answer: 2
+    explanation: >
+      On l'appelle aussi la zone Boucle d'or : ni trop chaud, ni trop froid.
+  - question: "Autour d'une naine rouge, la zone habitable est..."
+    options:
+      - "Beaucoup plus étroite et proche de l'étoile"
+      - "Beaucoup plus large"
+      - "Inexistante dans tous les cas"
+    answer: 1
+    explanation: >
+      Autour d'une naine rouge, la zone habitable est beaucoup plus étroite et très proche de
+      l'étoile.
+  - question: "Une planète dans la zone habitable est-elle forcément habitable ?"
+    options:
+      - "Non, d'autres conditions comptent"
+      - "Oui, toujours"
+      - "Seulement si elle est rouge"
+    answer: 1
+    explanation: >
+      Être dans la zone habitable ne garantit pas que la planète soit habitable : l'atmosphère,
+      la surface et la protection magnétique comptent aussi.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La zone habitable est la région autour d'une étoile où l'eau pourrait être liquide à la surface d'une planète. Y être ne garantit pas que la planète soit habitable.
+
+## Une zone pour l'eau liquide
+
+La zone habitable est la région autour d'une étoile où l'eau pourrait exister à l'état liquide à la surface d'une planète. On l'appelle aussi la zone Boucle d'or : ni trop chaud, ni trop froid. Sa position dépend de la luminosité de l'étoile et de l'atmosphère de la planète. Plus l'étoile est brillante, plus sa zone habitable est éloignée. Au bord intérieur, la lumière de l'étoile, piégée par les gaz à effet de serre, ferait bouillir l'eau ; au bord extérieur, l'eau gèlerait.
+
+## Dans le Système solaire et ailleurs
+
+Dans le Système solaire, la zone habitable englobe la Terre et Mars, mais pas Vénus, selon les estimations. Parmi les exoplanètes candidates figurent Kepler-452b, TRAPPIST-1e et Proxima Centauri b. Le système TRAPPIST-1 compte plusieurs planètes rocheuses de la taille de la Terre autour d'une naine rouge. Autour d'une naine rouge, la zone habitable est beaucoup plus étroite et très proche de l'étoile.
+
+## Habitable ne veut pas dire habité
+
+Être dans la zone habitable ne garantit pas que la planète soit habitable : l'atmosphère, la surface et la protection magnétique comptent aussi. Les planètes proches d'une naine rouge reçoivent des rayons X et ultraviolets très intenses, qui pourraient stériliser une vie naissante. Le concept suppose que la vie ressemble à celle de la Terre, ce qui laisse de côté d'autres possibilités, comme des océans sous la glace d'Europe.
+
+## À retenir
+
+- La zone habitable est la région autour d'une étoile où l'eau pourrait exister à l'état liquide à la surface d'une planète.
+- On l'appelle aussi la zone Boucle d'or : ni trop chaud, ni trop froid.
+- Sa position dépend de la luminosité de l'étoile et de l'atmosphère de la planète.
+- Autour d'une naine rouge, la zone habitable est beaucoup plus étroite et très proche de l'étoile.
+- Être dans la zone habitable ne garantit pas que la planète soit habitable : l'atmosphère et la surface comptent aussi.
 
 ---
 type: article
-title: Les lentilles gravitationnelles et les amas de galaxies
-slug: les-lentilles-gravitationnelles-et-les-amas-de-galaxies
+title: Comment un amas de galaxies peut-il agir comme une loupe cosmique ?
+slug: comment-un-amas-de-galaxies-peut-il-agir-comme-une-loupe-cosmique
 categoryPath: espace-et-astronomie/astrophysique/cosmologie
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les lentilles gravitationnelles et les amas de galaxies.
-tags: [cosmologie, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+  La masse d'un amas de galaxies courbe la lumière des objets situés derrière lui, comme une
+  lentille. On observe des arcs et des images multiples, qui permettent de peser l'amas.
+tags: [cosmologie]
+sources:
+  - title: "Lentille gravitationnelle"
+    url: "https://fr.wikipedia.org/wiki/Lentille_gravitationnelle"
+    publisher: "Wikipédia"
+  - title: "Gravitational lens"
+    url: "https://en.wikipedia.org/wiki/Gravitational_lens"
+    publisher: "Wikipedia"
+  - title: "Galaxy cluster"
+    url: "https://en.wikipedia.org/wiki/Galaxy_cluster"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait une lentille gravitationnelle à la lumière ?"
+    options:
+      - "Elle l'éteint"
+      - "Elle la courbe"
+      - "Elle la colore en vert"
+    answer: 2
+    explanation: >
+      Une lentille gravitationnelle est un objet très massif, comme un amas de galaxies, qui
+      courbe la lumière des objets situés derrière lui.
+  - question: "Qu'est-ce qu'un anneau d'Einstein ?"
+    options:
+      - "Une bague d'astronaute"
+      - "Une image en anneau, quand l'alignement est parfait"
+      - "Un anneau de Saturne"
+    answer: 2
+    explanation: >
+      Cela produit des images multiples, des arcs lumineux et, si l'alignement est parfait, des
+      anneaux d'Einstein.
+  - question: "De quoi est surtout faite la masse d'un amas de galaxies ?"
+    options:
+      - "D'eau"
+      - "De matière noire"
+      - "De cailloux"
+    answer: 2
+    explanation: >
+      La grande majorité de la masse d'un amas est de la matière noire ; les galaxies n'en
+      représentent qu'une petite partie, et un gaz chaud émetteur de rayons X le reste.
+  - question: "À quoi servent les amas comme loupes cosmiques ?"
+    options:
+      - "À voir les étoiles de jour"
+      - "À voir des galaxies très lointaines"
+      - "À éclairer la nuit"
+    answer: 2
+    explanation: >
+      Les amas servent de loupes cosmiques : leur gravité grossit la lumière de galaxies très
+      lointaines, que l'on ne verrait pas autrement.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La masse d'un amas de galaxies courbe la lumière des objets situés derrière lui, comme une lentille. On observe des arcs et des images multiples, qui permettent de peser l'amas.
+
+## La lumière courbée
+
+Une lentille gravitationnelle est un objet très massif, comme un amas de galaxies, qui courbe la lumière des objets situés derrière lui. Selon la relativité générale d'Einstein, une masse courbe l'espace-temps, et la lumière suit ces courbures au lieu d'aller en ligne droite. Cela produit des images multiples, des arcs lumineux et, si l'alignement est parfait, des anneaux d'Einstein. On distingue la lentille forte, qui crée arcs et images multiples, la lentille faible, qui déforme légèrement beaucoup de galaxies et se détecte statistiquement, et la microlentille, un éclaircissement temporaire.
+
+## Les amas de galaxies
+
+Un amas de galaxies réunit de quelques centaines à plusieurs milliers de galaxies liées par la gravité. La grande majorité de la masse d'un amas est de la matière noire ; les galaxies n'en représentent qu'une petite partie, et un gaz chaud émetteur de rayons X le reste. Les amas servent de loupes cosmiques : leur gravité grossit la lumière de galaxies très lointaines, que l'on ne verrait pas autrement.
+
+## Ce qu'on en tire
+
+En mesurant la déformation des images, on reconstitue la masse de l'amas, y compris la matière noire. Les retards entre les images multiples d'un même objet permettent de déterminer des paramètres cosmologiques, comme la constante de Hubble. L'observation de la courbure de la lumière d'une étoile lors d'une éclipse de Soleil a confirmé la prédiction d'Einstein. La première lentille gravitationnelle découverte est un quasar double. La microlentille permet aussi de détecter des exoplanètes.
+
+## À retenir
+
+- Une lentille gravitationnelle est un objet très massif, comme un amas de galaxies, qui courbe la lumière des objets situés derrière lui.
+- Selon la relativité générale d'Einstein, une masse courbe l'espace-temps, et la lumière suit ces courbures au lieu d'aller en ligne droite.
+- Cela produit des images multiples, des arcs lumineux et, si l'alignement est parfait, des anneaux d'Einstein.
+- Les amas servent de loupes cosmiques : leur gravité grossit la lumière de galaxies très lointaines, que l'on ne verrait pas autrement.
+- En mesurant la déformation des images, on reconstitue la masse de l'amas, y compris la matière noire.
 
 ---
 type: article
-title: Le télescope Webb et l'atmosphère des exoplanètes
-slug: le-telescope-webb-et-l-atmosphere-des-exoplanetes
+title: Comment le télescope Webb lit-il la composition de l'air d'une planète lointaine ?
+slug: comment-le-telescope-webb-lit-il-la-composition-de-l-air-d-une-planete-lointaine
 categoryPath: espace-et-astronomie/observation-astronomique/telescopes
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télescope Webb et l'atmosphère des exoplanètes.
-tags: [telescopes, veille-2026-09]
-priority: 0.87
-essentiel: false
-status: planned
+  Le télescope Webb observe en infrarouge. Quand une planète passe devant son étoile, la lumière
+  traverse son atmosphère : le spectre révèle des molécules comme l'eau ou le dioxyde de
+  carbone.
+tags: [telescopes]
+sources:
+  - title: "James Webb Space Telescope"
+    url: "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
+    publisher: "Wikipedia"
+  - title: "Transit spectroscopy"
+    url: "https://en.wikipedia.org/wiki/Transit_spectroscopy"
+    publisher: "Wikipedia"
+  - title: "James Webb Space Telescope"
+    url: "https://science.nasa.gov/mission/webb/"
+    publisher: "NASA"
+quiz:
+  - question: "Dans quelle lumière observe surtout le télescope Webb ?"
+    options:
+      - "L'infrarouge"
+      - "Les rayons gamma"
+      - "Le vert uniquement"
+    answer: 1
+    explanation: >
+      Observer en infrarouge permet de voir des objets très lointains et très anciens.
+  - question: "Où se trouve le télescope Webb ?"
+    options:
+      - "Dans l'atmosphère"
+      - "Près du point de Lagrange L2, loin de la Terre"
+      - "Sur la Lune"
+    answer: 2
+    explanation: >
+      Il se trouve près du point de Lagrange L2, à environ 1,5 million de kilomètres de la
+      Terre, et non en orbite autour d'elle comme Hubble.
+  - question: "Que révèle le spectre de la lumière qui traverse l'atmosphère d'une planète ?"
+    options:
+      - "La couleur des nuages seulement"
+      - "Les molécules présentes, comme l'eau ou le CO2"
+      - "L'âge de l'étoile uniquement"
+    answer: 2
+    explanation: >
+      En analysant finement le spectre, on repère les molécules qui absorbent certaines couleurs
+      : eau, dioxyde de carbone, méthane.
+  - question: "Quel obstacle peut gêner la méthode ?"
+    options:
+      - "Le vent solaire seulement"
+      - "La Lune"
+      - "D'épais nuages dans l'atmosphère"
+    answer: 3
+    explanation: >
+      Des nuages épais peuvent masquer les signaux, et les petites planètes, qui bloquent moins
+      de lumière, donnent des signaux plus faibles.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le télescope Webb observe en infrarouge. Quand une planète passe devant son étoile, la lumière traverse son atmosphère : le spectre révèle des molécules comme l'eau ou le dioxyde de carbone.
+
+## Un télescope infrarouge
+
+Le télescope spatial James Webb est un observatoire infrarouge, fruit d'une collaboration entre la NASA, l'ESA et l'agence spatiale canadienne. Son grand miroir principal est formé de segments hexagonaux en béryllium recouverts d'or. Il a été lancé le 25 décembre 2021. Il se trouve près du point de Lagrange L2, à environ 1,5 million de kilomètres de la Terre, et non en orbite autour d'elle comme Hubble. Un pare-soleil de cinq couches le protège et le garde très froid, ce qui évite que sa propre chaleur gêne les mesures infrarouges. Observer en infrarouge permet de voir des objets très lointains et très anciens. Les premières images scientifiques de Webb ont été publiées après la fin de sa mise en service.
+
+## La méthode du transit
+
+Quand une planète passe devant son étoile, la lumière de l'étoile traverse la haute atmosphère de la planète. En analysant finement le spectre, on repère les molécules qui absorbent certaines couleurs : eau, dioxyde de carbone, méthane. Webb a ainsi permis d'étudier l'atmosphère de l'exoplanète WASP-39 b, où du dioxyde de carbone a été détecté. Des nuages épais peuvent masquer les signaux, et les petites planètes, qui bloquent moins de lumière, donnent des signaux plus faibles.
+
+## À retenir
+
+- Le télescope spatial James Webb est un observatoire infrarouge, fruit d'une collaboration entre la NASA, l'ESA et l'agence spatiale canadienne.
+- Il se trouve près du point L2, à environ 1,5 million de kilomètres de la Terre.
+- Un pare-soleil de cinq couches le protège et le garde très froid, ce qui évite que sa propre chaleur gêne les mesures infrarouges.
+- Quand une planète passe devant son étoile, la lumière de l'étoile traverse la haute atmosphère de la planète.
+- En analysant le spectre, on repère les molécules qui absorbent certaines couleurs : eau, dioxyde de carbone, méthane.
 
 ---
 type: article
-title: Le télescope spatial PLATO de l'ESA
-slug: le-telescope-spatial-plato-de-l-esa
+title: Comment PLATO va-t-il chercher des planètes comme la Terre ?
+slug: comment-plato-va-t-il-chercher-des-planetes-comme-la-terre
 categoryPath: espace-et-astronomie/observation-astronomique/telescopes
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télescope spatial PLATO de l'ESA.
-tags: [telescopes, veille-2026-09]
-priority: 0.84
-essentiel: false
-status: planned
+  PLATO est une mission de l'ESA qui cherchera des planètes rocheuses autour d'étoiles
+  semblables au Soleil, avec 26 caméras, par la méthode des transits.
+tags: [telescopes]
+sources:
+  - title: "Plato"
+    url: "https://www.esa.int/Science_Exploration/Space_Science/Plato"
+    publisher: "Agence spatiale européenne"
+  - title: "PLATO (télescope spatial)"
+    url: "https://fr.wikipedia.org/wiki/PLATO_(t%C3%A9lescope_spatial)"
+    publisher: "Wikipédia"
+  - title: "Methods of detecting exoplanets"
+    url: "https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que cherche surtout PLATO ?"
+    options:
+      - "Des comètes"
+      - "Des trous noirs"
+      - "Des planètes rocheuses dans la zone habitable d'étoiles semblables au Soleil"
+    answer: 3
+    explanation: >
+      Elle cherche surtout des planètes rocheuses dans la zone habitable d'étoiles semblables au
+      Soleil.
+  - question: "Combien de caméras PLATO emporte-t-il ?"
+    options:
+      - "26"
+      - "2"
+      - "260"
+    answer: 1
+    explanation: >
+      Elle emporte 26 caméras.
+  - question: "Que repère la méthode des transits ?"
+    options:
+      - "Un éclair radio"
+      - "Un changement de couleur de la Lune"
+      - "Une petite baisse de luminosité quand une planète passe devant son étoile"
+    answer: 3
+    explanation: >
+      Elle repère les petites baisses de luminosité d'une étoile quand une planète passe devant
+      elle : c'est la méthode des transits, qui donne la taille de la planète.
+  - question: "Quelle fusée doit lancer PLATO ?"
+    options:
+      - "Soyouz 2"
+      - "Apollo"
+      - "Ariane 6"
+    answer: 3
+    explanation: >
+      Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+PLATO est une mission de l'ESA qui cherchera des planètes rocheuses autour d'étoiles semblables au Soleil, avec 26 caméras, par la méthode des transits.
+
+## Une mission européenne pour trouver d'autres Terres
+
+PLATO, pour PLAnetary Transits and Oscillations of stars, est une mission de l'ESA conçue pour découvrir et caractériser des exoplanètes de la taille de la Terre. Elle cherche surtout des planètes rocheuses dans la zone habitable d'étoiles semblables au Soleil. Elle emporte 26 caméras. Elle doit observer un très grand nombre d'étoiles.
+
+## Deux techniques
+
+Elle repère les petites baisses de luminosité d'une étoile quand une planète passe devant elle : c'est la méthode des transits, qui donne la taille de la planète. Cette méthode ne fonctionne que si l'orbite de la planète est bien alignée avec notre ligne de visée, ce qui est rare pour une planète comme la Terre. Elle étudie aussi les oscillations des étoiles, l'astérosismologie, pour mesurer leur masse, leur âge et leur rayon. Elle doit aussi mesurer la taille des exoplanètes et chercher des exolunes et des anneaux.
+
+## Où et comment ?
+
+Elle sera placée au point de Lagrange L2, pour observer en continu avec une bonne stabilité thermique. Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane. Elle vise la découverte de milliers d'exoplanètes, dont beaucoup de taille terrestre.
+
+## À retenir
+
+- PLATO est une mission de l'ESA conçue pour découvrir et caractériser des exoplanètes de la taille de la Terre.
+- Elle cherche surtout des planètes rocheuses dans la zone habitable d'étoiles semblables au Soleil.
+- Elle emporte 26 caméras.
+- Elle repère la petite baisse de luminosité d'une étoile quand une planète passe devant elle : la méthode des transits.
+- Elle étudie aussi les oscillations des étoiles, l'astérosismologie, pour mesurer leur masse, leur âge et leur rayon.
 
 ---
 type: article
-title: La microlentille gravitationnelle et la détection d'exoplanètes
-slug: la-microlentille-gravitationnelle-et-la-detection-d-exoplanetes
+title: Comment une étoile peut-elle servir de loupe pour trouver des planètes ?
+slug: comment-une-etoile-peut-elle-servir-de-loupe-pour-trouver-des-planetes
 categoryPath: espace-et-astronomie/observation-astronomique/messagers-du-cosmos
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : la microlentille gravitationnelle et la détection d'exoplanètes.
-tags: [messagers-du-cosmos, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Quand une étoile passe devant une autre, sa gravité grossit brièvement la lumière de celle
+  d'arrière-plan. Une planète autour de l'étoile-lentille laisse une trace dans la courbe de
+  lumière.
+tags: [messagers-du-cosmos]
+sources:
+  - title: "Gravitational microlensing"
+    url: "https://en.wikipedia.org/wiki/Gravitational_microlensing"
+    publisher: "Wikipedia"
+  - title: "Microlentille gravitationnelle"
+    url: "https://fr.wikipedia.org/wiki/Microlentille_gravitationnelle"
+    publisher: "Wikipédia"
+  - title: "Nancy Grace Roman Space Telescope"
+    url: "https://science.nasa.gov/mission/roman-space-telescope/"
+    publisher: "NASA"
+  - title: "Nancy Grace Roman Space Telescope"
+    url: "https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait la gravité d'un objet massif sur la lumière d'une étoile d'arrière-plan ?"
+    options:
+      - "Elle la grossit temporairement"
+      - "Elle l'éteint pour toujours"
+      - "Elle la colore en bleu"
+    answer: 1
+    explanation: >
+      La microlentille gravitationnelle se produit quand la gravité d'un objet massif au premier
+      plan courbe la lumière d'une étoile d'arrière-plan et la grossit temporairement.
+  - question: "Que provoque une planète autour de l'étoile-lentille ?"
+    options:
+      - "Une petite irrégularité dans la courbe de lumière"
+      - "Une éclipse de Soleil"
+      - "Une aurore"
+    answer: 1
+    explanation: >
+      Si une planète tourne autour de l'étoile-lentille, elle provoque une petite irrégularité
+      supplémentaire dans la courbe, qui dure quelques heures ou quelques jours.
+  - question: "Quelles planètes cette méthode repère-t-elle bien ?"
+    options:
+      - "Seulement les très grosses planètes proches"
+      - "Seulement les planètes rouges"
+      - "Les planètes peu massives et éloignées de leur étoile"
+    answer: 3
+    explanation: >
+      Cette méthode détecte bien les planètes peu massives et celles très éloignées de leur
+      étoile, que d'autres méthodes repèrent mal.
+  - question: "Un événement de microlentille se répète-t-il ?"
+    options:
+      - "Oui, chaque jour"
+      - "Non, il est unique"
+      - "Oui, chaque année"
+    answer: 2
+    explanation: >
+      Chaque événement est unique : il ne se répète pas.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand une étoile passe devant une autre, sa gravité grossit brièvement la lumière de celle d'arrière-plan. Une planète autour de l'étoile-lentille laisse une trace dans la courbe de lumière.
+
+## Une loupe naturelle
+
+La microlentille gravitationnelle se produit quand la gravité d'un objet massif au premier plan courbe la lumière d'une étoile d'arrière-plan et la grossit temporairement. On l'observe par la courbe de lumière : la luminosité de l'étoile d'arrière-plan monte puis redescend. Chaque événement est unique : il ne se répète pas. Les alignements sont très rares, mais la technique a donné beaucoup de résultats depuis la première détection d'un objet isolé.
+
+## Trouver une planète
+
+Si une planète tourne autour de l'étoile-lentille, elle provoque une petite irrégularité supplémentaire dans la courbe, qui dure quelques heures ou quelques jours. On peut en déduire la masse de la planète et sa distance à son étoile. Cette méthode détecte bien les planètes peu massives et celles très éloignées de leur étoile, que d'autres méthodes repèrent mal. Elle permet de détecter des objets sombres ou sans lumière, comme des naines brunes, des exoplanètes et des trous noirs.
+
+## Résultats et suite
+
+Des études par microlentille ont montré que les systèmes planétaires sont courants dans notre galaxie. Le télescope spatial Roman de la NASA doit mener une grande enquête par microlentille pour trouver des exoplanètes.
+
+## À retenir
+
+- Dans une microlentille, la gravité d'un objet au premier plan grossit temporairement la lumière d'une étoile d'arrière-plan.
+- On l'observe par la courbe de lumière : la luminosité de l'étoile d'arrière-plan monte puis redescend.
+- Une planète autour de l'étoile-lentille provoque une petite irrégularité dans la courbe de lumière, de quelques heures à quelques jours.
+- Cette méthode détecte bien les planètes peu massives et celles très éloignées de leur étoile, que d'autres méthodes repèrent mal.
+- Le télescope spatial Roman de la NASA doit mener une grande enquête par microlentille pour trouver des exoplanètes.
 
 ---
 type: article
-title: Les Perséides et les Géminides, pluies d'étoiles filantes
-slug: les-perseides-et-les-geminides-pluies-d-etoiles-filantes
+title: Pourquoi voit-on des pluies d'étoiles filantes en août et en décembre ?
+slug: pourquoi-voit-on-des-pluies-d-etoiles-filantes-en-aout-et-en-decembre
 categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : les Perséides et les Géminides, pluies d'étoiles filantes.
-tags: [petits-corps, veille-2026-09]
-priority: 0.83
-essentiel: false
-status: planned
+  Une pluie d'étoiles filantes apparaît quand la Terre traverse des débris laissés par une
+  comète ou un astéroïde. Les Perséides viennent d'une comète en été, les Géminides d'un
+  astéroïde en décembre.
+tags: [petits-corps]
+sources:
+  - title: "Perséides"
+    url: "https://fr.wikipedia.org/wiki/Pers%C3%A9ides"
+    publisher: "Wikipédia"
+  - title: "Géminides"
+    url: "https://fr.wikipedia.org/wiki/G%C3%A9minides"
+    publisher: "Wikipédia"
+  - title: "Meteor shower"
+    url: "https://en.wikipedia.org/wiki/Meteor_shower"
+    publisher: "Wikipedia"
+  - title: "Perseids"
+    url: "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"
+    publisher: "NASA"
+quiz:
+  - question: "Qu'est-ce qu'une pluie d'étoiles filantes ?"
+    options:
+      - "Une pluie de météorites chaudes sur la ville"
+      - "Des étoiles qui tombent"
+      - "La Terre traverse des débris de comète ou d'astéroïde qui brûlent dans l'atmosphère"
+    answer: 3
+    explanation: >
+      Une pluie d'étoiles filantes se produit quand la Terre traverse la traînée de débris
+      laissée par une comète ou un astéroïde ; ces grains brûlent en entrant dans l'atmosphère.
+  - question: "D'où viennent les Perséides ?"
+    options:
+      - "De la comète Swift-Tuttle"
+      - "De la Lune"
+      - "De Mars"
+    answer: 1
+    explanation: >
+      Les Perséides sont visibles en été, avec un maximum vers la mi-août, et viennent de la
+      comète Swift-Tuttle.
+  - question: "D'où viennent les Géminides ?"
+    options:
+      - "D'une comète bleue"
+      - "Du Soleil"
+      - "De l'astéroïde Phaéton"
+    answer: 3
+    explanation: >
+      Les Géminides viennent d'un astéroïde, (3200) Phaéton, et non d'une comète.
+  - question: "Comment bien observer une pluie d'étoiles filantes ?"
+    options:
+      - "Sous un ciel noir, de préférence avant l'aube, sans instrument"
+      - "Avec un microscope"
+      - "Sous un lampadaire"
+    answer: 1
+    explanation: >
+      Pour les voir, il suffit d'un ciel noir, loin des lumières, de préférence avant l'aube,
+      sans aucun instrument.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une pluie d'étoiles filantes apparaît quand la Terre traverse des débris laissés par une comète ou un astéroïde. Les Perséides viennent d'une comète en été, les Géminides d'un astéroïde en décembre.
+
+## Une traînée de débris
+
+Une pluie d'étoiles filantes se produit quand la Terre traverse la traînée de débris laissée par une comète ou un astéroïde ; ces grains brûlent en entrant dans l'atmosphère. Les météores semblent tous partir d'un même point du ciel, le radiant, comme les rails d'une voie ferrée semblent converger à l'horizon ; la pluie prend le nom de la constellation du radiant. Chaque pluie revient à peu près aux mêmes dates, car l'orbite de la Terre croise les mêmes débris à la même époque de l'année.
+
+## Les Perséides en été
+
+Les Perséides sont visibles en été, avec un maximum vers la mi-août, et viennent de la comète Swift-Tuttle. La comète Swift-Tuttle met plus d'un siècle à faire un tour autour du Soleil. Les Perséides entrent dans l'atmosphère à environ 59 kilomètres par seconde. On les appelle aussi les larmes de saint Laurent, car elles tombent près de sa fête. Giovanni Schiaparelli a montré que les Perséides ont une orbite très proche de celle de la comète Swift-Tuttle.
+
+## Les Géminides en hiver
+
+Les Géminides sont visibles à la mi-décembre, avec un maximum vers le 13 ou 14 du mois ; leur radiant est dans la constellation des Gémeaux. Les Géminides viennent d'un astéroïde, (3200) Phaéton, et non d'une comète. Leurs météores sont plus lents que les Perséides, environ deux fois moins vite, et plutôt jaunâtres.
+
+## Comment les observer
+
+Le nombre de météores visibles varie d'une année à l'autre, de quelques dizaines à plus de cent par heure dans de bonnes conditions. Pour les voir, il suffit d'un ciel noir, loin des lumières, de préférence avant l'aube, sans aucun instrument.
+
+## À retenir
+
+- Une pluie d'étoiles filantes se produit quand la Terre traverse les débris d'une comète ou d'un astéroïde, qui brûlent dans l'atmosphère.
+- Les météores semblent tous partir d'un même point du ciel, le radiant, qui donne son nom à la pluie.
+- Les Perséides sont visibles en été, avec un maximum vers la mi-août, et viennent de la comète Swift-Tuttle.
+- Les Géminides viennent d'un astéroïde, (3200) Phaéton, et non d'une comète.
+- Pour les voir, il suffit d'un ciel noir, loin des lumières, de préférence avant l'aube, sans aucun instrument.
 
 ---
 type: article
-title: Le télescope spatial Nancy Grace Roman et la chasse aux exoplanètes
-slug: le-telescope-spatial-nancy-grace-roman-et-la-chasse-aux-exoplanetes
+title: À quoi sert le télescope spatial Roman pour chasser les exoplanètes ?
+slug: a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes
 categoryPath: espace-et-astronomie/observation-astronomique/telescopes
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le télescope spatial Nancy Grace Roman et la chasse aux exoplanètes.
-tags: [telescopes, veille-2026-09]
-priority: 0.82
-essentiel: false
-status: planned
+  Le télescope Roman de la NASA observe en infrarouge avec un champ de vision très large. Il
+  doit étudier l'énergie noire et chercher des exoplanètes par microlentille gravitationnelle.
+tags: [telescopes]
+sources:
+  - title: "Nancy Grace Roman Space Telescope"
+    url: "https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"
+    publisher: "Wikipedia"
+  - title: "Nancy Grace Roman Space Telescope"
+    url: "https://science.nasa.gov/mission/roman-space-telescope/"
+    publisher: "NASA"
+  - title: "Gravitational microlensing"
+    url: "https://en.wikipedia.org/wiki/Gravitational_microlensing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans quelle lumière observe surtout Roman ?"
+    options:
+      - "Dans les rayons X"
+      - "Dans l'infrarouge"
+      - "Dans l'ultraviolet seulement"
+    answer: 2
+    explanation: >
+      Le télescope spatial Nancy Grace Roman est un télescope infrarouge de la NASA, à grand
+      champ.
+  - question: "Comment le champ de vision de Roman se compare-t-il à celui de Hubble ?"
+    options:
+      - "Il est cent fois plus petit"
+      - "Il est au moins cent fois plus grand"
+      - "Il est identique"
+    answer: 2
+    explanation: >
+      Son champ de vision est au moins cent fois plus grand que celui des caméras de Hubble.
+  - question: "Comment Roman cherche-t-il des exoplanètes ?"
+    options:
+      - "Avec des ballons"
+      - "Par microlentille gravitationnelle"
+      - "En envoyant des sondes"
+    answer: 2
+    explanation: >
+      Sa technique pour chasser les exoplanètes est la microlentille gravitationnelle, qui
+      repère les planètes peu massives et éloignées de leur étoile.
+  - question: "D'après qui Roman est-il nommé ?"
+    options:
+      - "Un ancien président"
+      - "Un pilote d'avion"
+      - "Nancy Grace Roman, première astronome en chef de la NASA"
+    answer: 3
+    explanation: >
+      Il porte le nom de Nancy Grace Roman, première astronome en chef de la NASA, surnommée la
+      mère de Hubble.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le télescope Roman de la NASA observe en infrarouge avec un champ de vision très large. Il doit étudier l'énergie noire et chercher des exoplanètes par microlentille gravitationnelle.
+
+## Un télescope à grand champ
+
+Le télescope spatial Nancy Grace Roman est un télescope infrarouge de la NASA, à grand champ. Son champ de vision est au moins cent fois plus grand que celui des caméras de Hubble. Il porte deux instruments : une caméra à grand champ et un coronographe, qui masque la lumière d'une étoile pour voir directement ses exoplanètes. Il porte le nom de Nancy Grace Roman, première astronome en chef de la NASA, surnommée la mère de Hubble.
+
+## Les objectifs
+
+Il doit étudier l'énergie noire et l'accélération de l'expansion de l'univers, chercher des exoplanètes par microlentille et faire de grands relevés infrarouges. Sa technique pour chasser les exoplanètes est la microlentille gravitationnelle, qui repère les planètes peu massives et éloignées de leur étoile. Il doit dresser un recensement statistique des systèmes planétaires. Il pourrait observer la lumière d'un très grand nombre de galaxies au cours de sa mission.
+
+## Lancement et fonctionnement
+
+Il a été lancé le 30 août 2026 par une fusée Falcon Heavy. Il doit fonctionner longtemps depuis la région du point de Lagrange L2.
+
+## À retenir
+
+- Le télescope spatial Nancy Grace Roman est un télescope infrarouge de la NASA, à grand champ.
+- Son champ de vision est au moins cent fois plus grand que celui des caméras de Hubble.
+- Il porte une caméra à grand champ et un coronographe, qui masque la lumière d'une étoile pour voir ses exoplanètes.
+- Sa technique pour chasser les exoplanètes est la microlentille gravitationnelle, qui repère les planètes peu massives et éloignées de leur étoile.
+- Il porte le nom de Nancy Grace Roman, première astronome en chef de la NASA, surnommée la mère de Hubble.
