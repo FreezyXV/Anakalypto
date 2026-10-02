@@ -28,14 +28,14 @@ export default async function CategoriesPage() {
       <JsonLd data={breadcrumbJsonLd(crumbs)} />
       <Breadcrumb items={crumbs} />
 
-      <h1 className="mt-4 text-3xl leading-tight font-semibold">Toutes les catégories</h1>
+      <h1 className="display mt-4 text-4xl sm:text-5xl">Tous les domaines</h1>
       <p className="mt-3 max-w-reading leading-relaxed text-ink-muted">
         L&apos;arborescence compte trois niveaux : un domaine, ses sous-domaines et les spécialités
-        auxquelles les articles sont rattachés. Dépliez une branche pour en voir le détail ; le
-        nombre indique les articles publiés dans la branche.
+        auxquelles les leçons sont rattachées. Dépliez une branche pour en voir le détail ; le
+        nombre indique les leçons publiées dans la branche.
       </p>
 
-      <div className="mt-10 max-w-reading">
+      <div className="mt-8">
         <CategoryTree tree={tree} />
       </div>
     </>

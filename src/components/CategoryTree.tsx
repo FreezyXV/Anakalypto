@@ -5,6 +5,10 @@ import { useRef } from "react";
 
 import type { CategoryNode } from "@/lib/queries";
 import { frenchSpacing } from "@/lib/typography";
+import { themeFor } from "@/lib/visual";
+
+import { themeVars } from "./visual/Cover";
+import { Glyph } from "./visual/Glyph";
 
 /**
  * Arborescence depliable des categories.
@@ -26,8 +30,8 @@ export function CategoryTree({ tree }: { tree: readonly CategoryNode[] }) {
 
   return (
     <div ref={container}>
-      <div className="rule-bottom flex flex-wrap items-center gap-x-4 gap-y-2 pb-2">
-        <span className="label">{tree.length} domaines</span>
+      <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+        <span className="chip">{tree.length} domaines</span>
         <div className="ml-auto flex gap-2">
           <button type="button" onClick={() => setAll(true)} className="tree-control">
             Tout déplier
@@ -38,9 +42,13 @@ export function CategoryTree({ tree }: { tree: readonly CategoryNode[] }) {
         </div>
       </div>
 
-      <ul className="mt-2">
+      <ul className="mt-6 grid gap-5 lg:grid-cols-2">
         {tree.map((root) => (
-          <li key={root.path} className="rule-bottom">
+          <li
+            key={root.path}
+            className="sticker self-start overflow-hidden"
+            style={themeVars(root.path)}
+          >
             <Branch node={root} defaultOpen={false} />
           </li>
         ))}
@@ -51,14 +59,14 @@ export function CategoryTree({ tree }: { tree: readonly CategoryNode[] }) {
 
 /** Rend une branche, recursivement. Une feuille devient un simple lien. */
 function Branch({ node, defaultOpen }: { node: CategoryNode; defaultOpen: boolean }) {
-  const count = `${node.articleCount} article${node.articleCount > 1 ? "s" : ""}`;
+  const count = `${node.articleCount} leçon${node.articleCount > 1 ? "s" : ""}`;
 
   if (node.children.length === 0) {
     return (
       <div className="flex items-baseline gap-x-3 py-1.5">
         <Link
           href={`/${node.path}`}
-          className="text-[0.95rem] no-underline transition-colors duration-150 hover:text-accent"
+          className="text-[0.98rem] no-underline transition-colors duration-150 hover:text-accent hover:underline"
         >
           {frenchSpacing(node.name)}
         </Link>
@@ -69,20 +77,33 @@ function Branch({ node, defaultOpen }: { node: CategoryNode; defaultOpen: boolea
 
   return (
     <details open={defaultOpen} className="tree-branch">
-      <summary className="tree-summary">
-        <span className="tree-marker" aria-hidden="true" />
-        <span className={node.level === 0 ? "font-sans text-sm font-semibold" : "text-[0.95rem]"}>
+      <summary
+        className={`tree-summary ${node.level === 0 ? "bg-[var(--t)] px-4 py-3 text-[var(--t-on)]" : ""}`}
+      >
+        {node.level === 0 ? (
+          <span className="disc h-11 w-11 shrink-0 p-1.5">
+            <Glyph name={themeFor(node.path).glyph} />
+          </span>
+        ) : (
+          <span className="tree-marker" aria-hidden="true" />
+        )}
+        <span
+          className={
+            node.level === 0
+              ? "text-[1.15rem] leading-tight font-semibold"
+              : "text-[0.98rem] font-semibold"
+          }
+        >
           {frenchSpacing(node.name)}
         </span>
-        <span className="label ml-auto shrink-0">{count}</span>
+        <span className={`label ml-auto shrink-0 ${node.level === 0 ? "!text-[var(--t-on)]" : ""}`}>
+          {count}
+        </span>
       </summary>
 
-      <div className="border-l border-rule pb-2 pl-3 sm:pl-4">
+      <div className="border-l-2 border-dashed border-rule pb-2 pl-3 sm:pl-4 ml-4 mt-1">
         <p className="py-1.5">
-          <Link
-            href={`/${node.path}`}
-            className="label no-underline transition-colors duration-150 hover:text-ink"
-          >
+          <Link href={`/${node.path}`} className="chip">
             Voir la page {frenchSpacing(node.name)}
           </Link>
         </p>

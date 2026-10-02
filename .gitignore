@@ -36,3 +36,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .npm
+
+# images brutes a convertir (voir docs/ILLUSTRATIONS.md)
+/illustrations/a-traiter/*
+!/illustrations/a-traiter/.gitkeep
+/illustrations/consignes.csv

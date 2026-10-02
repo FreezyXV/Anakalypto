@@ -2,11 +2,15 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
-import { ArticleCard } from "@/components/ArticleCard";
-import { ArticleQuiz } from "@/components/ArticleQuiz";
+import { ArticleGrid } from "@/components/ArticleCard";
+import { ArticlePoster } from "@/components/ArticlePoster";
 import { Breadcrumb, type Crumb } from "@/components/Breadcrumb";
 import { JsonLd } from "@/components/JsonLd";
-import { Toc } from "@/components/Toc";
+import { Lesson } from "@/components/Lesson";
+import { LessonSummary } from "@/components/LessonSummary";
+import { Cover, themeVars } from "@/components/visual/Cover";
+import { Glyph } from "@/components/visual/Glyph";
+import { getIllustrations } from "@/lib/illustrations";
 import { renderMarkdown } from "@/lib/markdown";
 import {
   getAllArticlePaths,
@@ -25,6 +29,7 @@ import {
   SITE_NAME,
 } from "@/lib/seo";
 import { frenchSpacing } from "@/lib/typography";
+import { pickGlyph, readingMinutes, themeFor } from "@/lib/visual";
 
 export const revalidate = 3600;
 export const dynamicParams = true;
@@ -104,38 +109,55 @@ function crumbsFor(
 
 function CategoryView({ category }: { category: CategoryPage }) {
   const crumbs = crumbsFor(category.ancestors, { name: category.name, path: category.path });
+  const total = category.articles.length + category.descendantArticles.length;
+  const glyph = pickGlyph(category.name, category.path);
 
   return (
     <>
       <JsonLd data={breadcrumbJsonLd(crumbs)} />
       <Breadcrumb items={crumbs} />
 
-      <h1 className="mt-4 text-3xl leading-tight font-semibold">{frenchSpacing(category.name)}</h1>
-
-      {category.description && (
-        <p className="prose mt-5 leading-relaxed">{frenchSpacing(category.description)}</p>
-      )}
+      <header className="sticker mt-4 overflow-hidden" style={themeVars(category.path)}>
+        <div className="flex items-center gap-6 bg-[var(--t)] p-6 text-[var(--t-on)] sm:p-8">
+          <div className="min-w-0 flex-1">
+            <h1 className="display text-4xl sm:text-5xl">{frenchSpacing(category.name)}</h1>
+            {category.description && (
+              <p className="mt-3 max-w-reading text-lg leading-relaxed opacity-95">
+                {frenchSpacing(category.description)}
+              </p>
+            )}
+          </div>
+          <span className="disc hidden h-28 w-28 shrink-0 p-4 sm:grid">
+            <Glyph name={glyph} />
+          </span>
+        </div>
+      </header>
 
       {category.children.length > 0 && (
         <section aria-labelledby="titre-sous-categories" className="mt-12">
-          <h2
-            id="titre-sous-categories"
-            className="rule-bottom pb-2 font-sans text-sm font-semibold"
-          >
-            Sous-catégories
+          <h2 id="titre-sous-categories" className="display text-3xl sm:text-4xl">
+            Explorer par thème
           </h2>
-          <ul className="mt-5 grid gap-x-10 gap-y-4 sm:grid-cols-2">
+          <ul className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {category.children.map((child) => (
               <li key={child.path}>
                 <Link
                   href={`/${child.path}`}
-                  className="text-[1.05rem] leading-snug font-semibold no-underline transition-colors duration-150 hover:text-accent"
+                  className="sticker flex h-full items-center gap-4 p-4"
+                  style={themeVars(child.path)}
                 >
-                  {frenchSpacing(child.name)}
+                  <span className="disc h-14 w-14 shrink-0 p-2">
+                    <Glyph name={pickGlyph(child.name, child.path)} />
+                  </span>
+                  <span className="min-w-0">
+                    <span className="block text-[1.08rem] leading-snug font-semibold">
+                      {frenchSpacing(child.name)}
+                    </span>
+                    <span className="label mt-0.5 block">
+                      {child.articleCount} leçon{child.articleCount > 1 ? "s" : ""}
+                    </span>
+                  </span>
                 </Link>
-                <span className="label mt-0.5 block">
-                  {child.articleCount} article{child.articleCount > 1 ? "s" : ""}
-                </span>
               </li>
             ))}
           </ul>
@@ -143,41 +165,41 @@ function CategoryView({ category }: { category: CategoryPage }) {
       )}
 
       {category.articles.length > 0 && (
-        <section aria-labelledby="titre-articles" className="mt-12">
-          <h2 id="titre-articles" className="rule-bottom pb-2 font-sans text-sm font-semibold">
-            Articles de cette catégorie
+        <section aria-labelledby="titre-articles" className="mt-14">
+          <h2 id="titre-articles" className="display text-3xl sm:text-4xl">
+            Les leçons de ce thème
           </h2>
-          <div className="mt-2">
-            {category.articles.map((article) => (
-              <ArticleCard key={article.path} article={{ ...article, path: `/${article.path}` }} />
-            ))}
+          <div className="mt-6">
+            <ArticleGrid
+              articles={category.articles.map((article) => ({
+                ...article,
+                path: `/${article.path}`,
+              }))}
+            />
           </div>
         </section>
       )}
 
       {category.descendantArticles.length > 0 && (
-        <section aria-labelledby="titre-branche" className="mt-12">
-          <h2 id="titre-branche" className="rule-bottom pb-2 font-sans text-sm font-semibold">
-            Dans les sous-catégories
+        <section aria-labelledby="titre-branche" className="mt-14">
+          <h2 id="titre-branche" className="display text-3xl sm:text-4xl">
+            Dans les thèmes voisins
           </h2>
-          <div className="mt-2">
-            {category.descendantArticles.map((article) => (
-              <ArticleCard
-                key={article.path}
-                article={{
-                  ...article,
-                  path: `/${article.path}`,
-                  categoryPath: `/${article.categoryPath}`,
-                }}
-              />
-            ))}
+          <div className="mt-6">
+            <ArticleGrid
+              articles={category.descendantArticles.map((article) => ({
+                ...article,
+                path: `/${article.path}`,
+                categoryPath: `/${article.categoryPath}`,
+              }))}
+            />
           </div>
         </section>
       )}
 
-      {category.children.length === 0 && category.articles.length === 0 && (
+      {total === 0 && category.children.length === 0 && (
         <p className="mt-10 text-ink-muted">
-          Cette catégorie n&apos;a pas encore d&apos;article publié.
+          Cette catégorie n&apos;a pas encore de leçon publiée.
         </p>
       )}
     </>
@@ -185,15 +207,21 @@ function CategoryView({ category }: { category: CategoryPage }) {
 }
 
 async function ArticleView({ article }: { article: ArticlePage }) {
-  const { html, toc } = await renderMarkdown(article.content);
+  const { html, sections } = await renderMarkdown(article.content, {
+    categoryPath: article.category.path,
+  });
   const crumbs = crumbsFor(
     [...article.ancestors, { name: article.category.name, path: article.category.path }],
     { name: article.title, path: article.path },
   );
   const verified = formatDate(article.lastVerified);
+  const minutes = readingMinutes(article.content);
+  const images = getIllustrations(article.slug);
+  const theme = themeFor(article.path);
+  const root = article.ancestors[0] ?? { name: article.category.name, path: article.category.path };
 
   return (
-    <>
+    <div style={themeVars(article.path)}>
       <JsonLd data={breadcrumbJsonLd(crumbs)} />
       <JsonLd
         data={articleJsonLd({
@@ -210,110 +238,131 @@ async function ArticleView({ article }: { article: ArticlePage }) {
 
       <Breadcrumb items={crumbs} />
 
-      <article className="mt-4">
-        <header>
-          <h1 className="max-w-reading text-3xl leading-tight font-semibold sm:text-4xl">
-            {frenchSpacing(article.title)}
-          </h1>
-          <p className="mt-4 max-w-reading text-lg leading-relaxed text-ink-muted">
-            {frenchSpacing(article.summary)}
-          </p>
-          {verified && (
-            <p className="label mt-4">
-              Dernière vérification des sources le{" "}
-              <time dateTime={isoDate(article.lastVerified)}>{verified}</time>
+      <article className="mt-5">
+        <header className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,25rem)] lg:items-start lg:gap-12">
+          <div>
+            <p className="flex flex-wrap gap-2">
+              <Link
+                href={`/${root.path}`}
+                className="chip"
+                style={{ background: theme.color, color: theme.on }}
+              >
+                {frenchSpacing(root.name)}
+              </Link>
+              <span className="chip">{minutes} min de lecture</span>
+              {article.quiz.length > 0 && (
+                <span className="chip">Quiz de {article.quiz.length} questions</span>
+              )}
             </p>
-          )}
+
+            <h1 className="display mt-4 max-w-reading text-[2.4rem] sm:text-5xl lg:text-[3.4rem]">
+              {frenchSpacing(article.title)}
+            </h1>
+            <p className="mt-4 max-w-reading text-lg leading-relaxed text-ink-muted">
+              {frenchSpacing(article.summary)}
+            </p>
+
+            <p className="mt-6 flex flex-wrap gap-3">
+              <a href="#lecon" className="btn">
+                Commencer la leçon
+              </a>
+              {article.quiz.length > 0 && (
+                <a href="#quiz" className="btn btn--ghost">
+                  Aller au quiz
+                </a>
+              )}
+            </p>
+
+            {verified && (
+              <p className="label mt-5">
+                Sources vérifiées le{" "}
+                <time dateTime={isoDate(article.lastVerified)}>{verified}</time>
+              </p>
+            )}
+          </div>
+
+          <div>
+            {images.length > 0 ? (
+              <ArticlePoster images={images} title={article.title} />
+            ) : (
+              <div className="sticker overflow-hidden">
+                <Cover title={article.title} path={article.path} />
+              </div>
+            )}
+          </div>
         </header>
 
-        {/*
-          Le sommaire precede le corps dans le DOM: en dessous de `lg` le conteneur n'est
-          pas une grille, `order` ne s'y applique pas, et c'est l'ordre du document qui
-          place le sommaire replie avant le texte. Au-dela, la grille le renvoie en
-          seconde colonne.
-        */}
-        <div className="mt-10 lg:grid lg:grid-cols-[minmax(0,1fr)_15rem] lg:gap-x-12">
-          <aside className="lg:sticky lg:top-24 lg:order-2 lg:self-start">
-            <Toc entries={toc} />
-          </aside>
-
-          <div className="prose mt-8 lg:order-1 lg:mt-0">
-            {/*
-              Le corpus est redige par l'equipe editoriale et converti par notre propre
-              chaine Markdown: aucun HTML exterieur n'entre ici.
-            */}
-            <div dangerouslySetInnerHTML={{ __html: html }} />
-          </div>
+        <div className="mt-14">
+          <LessonSummary sections={sections} />
         </div>
 
-        <ArticleQuiz questions={article.quiz} />
-
-        {article.tags.length > 0 && (
-          <section aria-labelledby="titre-etiquettes" className="rule-top mt-14 pt-4">
-            <h2 id="titre-etiquettes" className="label">
-              Étiquettes
-            </h2>
-            <ul className="mt-2 flex flex-wrap gap-x-3 gap-y-1">
-              {article.tags.map((tag) => (
-                <li key={tag.slug} className="text-sm text-ink-muted">
-                  {tag.name}
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
+        <section id="lecon" aria-label="La leçon" className="mx-auto mt-14 max-w-3xl scroll-mt-28">
+          <Lesson html={html} quiz={article.quiz} path={article.path} />
+        </section>
 
         {article.related.length > 0 && (
-          <section aria-labelledby="titre-lies" className="mt-12">
-            <h2 id="titre-lies" className="rule-bottom pb-2 font-sans text-sm font-semibold">
-              Articles liés
+          <section aria-labelledby="titre-lies" className="mt-16">
+            <h2 id="titre-lies" className="display text-3xl sm:text-4xl">
+              Pour continuer
             </h2>
-            <ul className="mt-5 grid gap-x-10 gap-y-5 sm:grid-cols-2">
-              {article.related.map((related) => (
-                <li key={related.path}>
-                  <Link
-                    href={`/${related.path}`}
-                    className="leading-snug font-semibold no-underline transition-colors duration-150 hover:text-accent"
-                  >
-                    {related.title}
-                  </Link>
-                  <p className="mt-1 text-sm leading-relaxed text-ink-muted">{related.summary}</p>
-                </li>
-              ))}
-            </ul>
+            <div className="mt-6">
+              <ArticleGrid
+                articles={article.related.map((related) => ({
+                  title: related.title,
+                  summary: related.summary,
+                  path: `/${related.path}`,
+                }))}
+              />
+            </div>
           </section>
         )}
 
-        <section aria-labelledby="titre-sources" className="mt-12">
-          <h2 id="titre-sources" className="rule-bottom pb-2 font-sans text-sm font-semibold">
-            Sources
-          </h2>
-          <ol className="mt-5 space-y-3">
-            {article.sources.map((source) => (
-              <li key={source.url} className="max-w-reading text-[0.95rem] leading-relaxed">
-                <a
-                  href={source.url}
-                  rel="noopener noreferrer nofollow"
-                  target="_blank"
-                  className="text-accent"
-                >
-                  {source.title}
-                </a>
-                {(source.publisher ?? source.publishedDate) && (
-                  <span className="label ml-2">
-                    {[source.publisher, source.publishedDate].filter(Boolean).join(", ")}
-                  </span>
-                )}
-              </li>
-            ))}
-          </ol>
-          <p className="label mt-5 max-w-reading leading-relaxed">
-            {SITE_NAME} rédige ses articles de manière originale à partir des sources citées.
-            Signaler une erreur ou une source obsolète aide à maintenir cette page à jour.
-          </p>
+        <section aria-labelledby="titre-sources" className="mt-16">
+          <div
+            className="box"
+            style={{ "--box": "var(--pop-purple)", "--box-on": "#ffffff" } as React.CSSProperties}
+          >
+            <h2 id="titre-sources" className="box__head">
+              Sources vérifiées
+            </h2>
+            <div className="box__body">
+              <ol className="space-y-3">
+                {article.sources.map((source) => (
+                  <li key={source.url} className="max-w-reading leading-relaxed">
+                    <a
+                      href={source.url}
+                      rel="noopener noreferrer nofollow"
+                      target="_blank"
+                      className="font-semibold text-accent"
+                    >
+                      {source.title}
+                    </a>
+                    {(source.publisher ?? source.publishedDate) && (
+                      <span className="label ml-2">
+                        {[source.publisher, source.publishedDate].filter(Boolean).join(", ")}
+                      </span>
+                    )}
+                  </li>
+                ))}
+              </ol>
+              <p className="label mt-5 max-w-reading leading-relaxed">
+                {SITE_NAME} rédige ses leçons de manière originale à partir des sources citées.
+                Signaler une erreur ou une source obsolète aide à maintenir cette page à jour.
+              </p>
+              {article.tags.length > 0 && (
+                <ul className="mt-4 flex flex-wrap gap-2">
+                  {article.tags.map((tag) => (
+                    <li key={tag.slug} className="chip">
+                      {tag.name}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          </div>
         </section>
       </article>
-    </>
+    </div>
   );
 }
 

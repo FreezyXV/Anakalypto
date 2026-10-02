@@ -3,31 +3,36 @@
 /*
  * Anakalypto - systeme visuel
  *
- * Direction: la planche d'encyclopedie imprimee, en quasi monochrome. Papier neutre,
- * encre profonde, filets fins pour structurer. La couleur ne sert plus d'ornement: un
- * unique accent ardoise, a peine bleute, marque les liens, le focus et l'element courant,
- * et rien d'autre. Deux familles clairement distinctes: Spectral pour le texte lu,
- * Archivo pour l'appareil de navigation.
+ * Direction: le carnet illustre. Papier quadrille, contours d'encre epais, paves de couleur
+ * a bandeau, titres massifs en capitales condensees, schemas fleches et etiquettes. Chaque
+ * domaine a sa couleur franche; le theme sombre devient un theme neon.
+ *
+ * Deux familles, celles du site d'origine: Spectral pour le texte lu et les titres, Archivo
+ * pour l'appareil de navigation, les pastilles et les boutons.
  */
 
 :root {
   color-scheme: light;
 
-  --paper: #fbfaf8;
-  --surface: #f2f1ed;
-  --ink: #16191c;
-  --ink-muted: #5c6268;
-  --accent: #2f3d47;
-  --accent-strong: #161f27;
-  --rule: #ddd9d0;
-  --rule-strong: #bab5aa;
-  --highlight: #e7e5df;
+  --paper: #fbf9f1;
+  --paper-line: rgb(47 85 230 / 0.09);
+  --surface: #ffffff;
+  --surface-2: #f4f0e2;
+  --ink: #15142b;
+  --ink-muted: #565871;
+  --accent: #2f55e6;
+  --accent-strong: #1f3ab8;
+  --rule: #ddd8c7;
+  --line: #15142b;
+  --highlight: #fff0b8;
 
-  /*
-   * Piles typographiques. Elles sont declarees ici, et non uniquement dans @theme inline:
-   * `inline` remplace les valeurs directement dans les utilitaires Tailwind sans exposer
-   * de variable CSS, or les regles ecrites a la main ci-dessous en ont besoin.
-   */
+  --pop-red: #e8473f;
+  --pop-blue: #2f6bff;
+  --pop-green: #2fa35a;
+  --pop-purple: #8a4fd6;
+  --pop-orange: #f5922b;
+  --pop-yellow: #ffc83d;
+
   --font-stack-serif: var(--font-spectral), ui-serif, Georgia, "Times New Roman", serif;
   --font-stack-sans: var(--font-archivo), ui-sans-serif, system-ui, sans-serif;
 }
@@ -35,31 +40,33 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     color-scheme: dark;
-
-    --paper: #101316;
-    --surface: #191d21;
-    --ink: #e7e4dd;
-    --ink-muted: #9ba1a8;
-    --accent: #b9c6cf;
-    --accent-strong: #dee6ec;
-    --rule: #2b3137;
-    --rule-strong: #414951;
-    --highlight: #232a30;
+    --paper: #0b0b16;
+    --paper-line: rgb(120 140 255 / 0.1);
+    --surface: #15152b;
+    --surface-2: #1d1d3a;
+    --ink: #f4f3ff;
+    --ink-muted: #a9aacb;
+    --accent: #8fb4ff;
+    --accent-strong: #c2d4ff;
+    --rule: #2b2b55;
+    --line: #aab4ff;
+    --highlight: #3a3466;
   }
 }
 
 :root[data-theme="dark"] {
   color-scheme: dark;
-
-  --paper: #101316;
-  --surface: #191d21;
-  --ink: #e7e4dd;
-  --ink-muted: #9ba1a8;
-  --accent: #b9c6cf;
-  --accent-strong: #dee6ec;
-  --rule: #2b3137;
-  --rule-strong: #414951;
-  --highlight: #232a30;
+  --paper: #0b0b16;
+  --paper-line: rgb(120 140 255 / 0.1);
+  --surface: #15152b;
+  --surface-2: #1d1d3a;
+  --ink: #f4f3ff;
+  --ink-muted: #a9aacb;
+  --accent: #8fb4ff;
+  --accent-strong: #c2d4ff;
+  --rule: #2b2b55;
+  --line: #aab4ff;
+  --highlight: #3a3466;
 }
 
 @theme inline {
@@ -68,15 +75,15 @@
 
   --color-paper: var(--paper);
   --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
   --color-ink: var(--ink);
   --color-ink-muted: var(--ink-muted);
   --color-accent: var(--accent);
   --color-accent-strong: var(--accent-strong);
   --color-rule: var(--rule);
-  --color-rule-strong: var(--rule-strong);
+  --color-line: var(--line);
   --color-highlight: var(--highlight);
 
-  /* Mesure de ligne confortable: environ 70 caracteres. */
   --container-measure: 36rem;
   --container-reading: 44rem;
 }
@@ -92,33 +99,30 @@
 
   body {
     background-color: var(--paper);
+    /* Papier quadrille: deux familles de traits tres legers, comme un cahier. */
+    background-image:
+      linear-gradient(var(--paper-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--paper-line) 1px, transparent 1px);
+    background-size: 28px 28px;
     color: var(--ink);
     font-family: var(--font-stack-serif);
     font-size: 1.0625rem;
     line-height: 1.7;
     text-rendering: optimizeLegibility;
-    font-feature-settings: "kern" 1;
   }
 
-  /* Un anneau de focus visible et contraste, jamais supprime. */
   :focus-visible {
-    outline: 2px solid var(--accent);
-    outline-offset: 2px;
-    border-radius: 1px;
+    outline: 3px solid var(--accent);
+    outline-offset: 3px;
+    border-radius: 4px;
   }
 
-  /*
-   * Preflight remet `text-decoration: inherit` sur les ancres, ce qui supprime le
-   * soulignement par defaut: un lien au fil du texte ne se distinguerait plus que par sa
-   * couleur, ce qui echoue au critere WCAG 1.4.1. On retablit donc le soulignement, et les
-   * listes de navigation le retirent explicitement avec l'utilitaire `no-underline`.
-   */
   a {
     color: inherit;
     text-decoration-line: underline;
-    text-decoration-color: var(--rule-strong);
-    text-decoration-thickness: 1px;
-    text-underline-offset: 0.18em;
+    text-decoration-color: color-mix(in srgb, var(--ink) 35%, transparent);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.2em;
   }
 
   a:hover {
@@ -143,14 +147,20 @@
 }
 
 @layer components {
-  /*
-   * Appareil de navigation: petites capitales typographiques, jamais de capitales forcees.
-   */
+  /* ---- Typographie -------------------------------------------------------------------- */
+
+  .display {
+    font-family: var(--font-stack-serif);
+    font-weight: 600;
+    line-height: 1.05;
+    letter-spacing: -0.012em;
+  }
+
   .label {
     font-family: var(--font-stack-sans);
-    font-size: 0.75rem;
-    font-weight: 500;
-    letter-spacing: 0.04em;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
     color: var(--ink-muted);
   }
 
@@ -158,39 +168,316 @@
     font-family: var(--font-stack-serif);
     font-variant-caps: small-caps;
     letter-spacing: 0.06em;
-    font-weight: 600;
+    font-weight: 700;
+  }
+
+  /* ---- Pastilles, boutons, cartes ------------------------------------------------------ */
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: 2px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface);
+    padding: 0.18rem 0.7rem;
+    font-family: var(--font-stack-sans);
+    font-size: 0.8125rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  a.chip:hover {
+    background: var(--highlight);
+  }
+
+  /* Bouton "a presser": un contour d'encre et une ombre pleine, qui s'enfonce au clic. */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border: 2.5px solid var(--line);
+    border-radius: 14px;
+    background: var(--btn, var(--pop-yellow));
+    color: var(--btn-on, #1a1400);
+    padding: 0.6rem 1.15rem;
+    font-family: var(--font-stack-sans);
+    font-weight: 800;
+    font-size: 0.95rem;
+    line-height: 1.2;
+    box-shadow: 0 4px 0 var(--line);
+    cursor: pointer;
+    text-decoration: none;
+    transition:
+      transform 90ms ease,
+      box-shadow 90ms ease;
+  }
+
+  .btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 5px 0 var(--line);
+  }
+
+  .btn:active {
+    transform: translateY(3px);
+    box-shadow: 0 1px 0 var(--line);
+  }
+
+  .btn[disabled],
+  .btn[aria-disabled="true"] {
+    opacity: 0.45;
+    cursor: default;
+    transform: none;
+    box-shadow: 0 4px 0 var(--line);
+  }
+
+  .btn--ghost {
+    --btn: var(--surface);
+    --btn-on: var(--ink);
+  }
+
+  /* Carte a contour d'encre. */
+  .sticker {
+    border: 2.5px solid var(--line);
+    border-radius: 20px;
+    background: var(--surface);
+    box-shadow: 0 5px 0 var(--line);
+  }
+
+  a.sticker,
+  .sticker--lift {
+    transition:
+      transform 110ms ease,
+      box-shadow 110ms ease;
+    text-decoration: none;
+  }
+
+  a.sticker:hover,
+  .sticker--lift:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 0 var(--line);
   }
 
   /*
-   * Arborescence depliable des categories. Le triangle natif de `summary` est remplace par
-   * un chevron dessine en filet, seul ornement tolere par la direction quasi monochrome.
+   * Pave a bandeau colore: le motif des encadres de resume. La couleur du bandeau vient de
+   * --box (une couleur franche), le texte du bandeau de --box-on.
    */
+  .box {
+    border: 2.5px solid var(--line);
+    border-radius: 14px;
+    background: var(--surface);
+    box-shadow: 0 4px 0 var(--line);
+    overflow: hidden;
+  }
+
+  .box__head {
+    background: var(--box, var(--pop-blue));
+    color: var(--box-on, #fff);
+    border-bottom: 2.5px solid var(--line);
+    padding: 0.4rem 0.8rem;
+    font-family: var(--font-stack-sans);
+    font-weight: 800;
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+
+  .box__body {
+    padding: 0.65rem 0.85rem 0.8rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  /* Tuile de domaine: a-plat de couleur franche, pictogramme en pastille blanche. */
+  .tile {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border: 2.5px solid var(--line);
+    border-radius: 22px;
+    background: var(--t, var(--pop-blue));
+    color: var(--t-on, #fff);
+    box-shadow: 0 6px 0 var(--line);
+    text-decoration: none;
+    transition:
+      transform 110ms ease,
+      box-shadow 110ms ease;
+  }
+
+  .tile:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 0 var(--line);
+  }
+
+  /* Pastille ronde qui porte un pictogramme. */
+  .disc {
+    display: grid;
+    place-items: center;
+    border: 2.5px solid var(--line);
+    border-radius: 999px;
+    background: #fff;
+    box-shadow: 0 3px 0 var(--line);
+  }
+
+  .rule-top {
+    border-top: 2px dashed var(--rule);
+  }
+
+  .rule-bottom {
+    border-bottom: 2px dashed var(--rule);
+  }
+
+  /* ---- Pictogrammes: couleurs portees par des classes --------------------------------- */
+
+  .glyph {
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
+
+  .glyph .o {
+    stroke: #17144a;
+    stroke-width: 3.5;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  .glyph .ot {
+    stroke: #17144a;
+    stroke-width: 2.4;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  .glyph .ow {
+    stroke: #fff;
+    stroke-width: 4;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    fill: none;
+  }
+  .glyph .sk {
+    fill: none;
+    stroke: #17144a;
+    stroke-width: 9;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  .glyph .sa,
+  .glyph .sy,
+  .glyph .sw,
+  .glyph .sr {
+    fill: none;
+    stroke-width: 4.5;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  .glyph .sa {
+    stroke: var(--g-a);
+  }
+  .glyph .sy {
+    stroke: #ffc93c;
+  }
+  .glyph .sw {
+    stroke: #fff;
+  }
+  .glyph .sr {
+    stroke: #ff5a5a;
+  }
+  .glyph .gn {
+    fill: none;
+  }
+  .glyph .ga {
+    fill: var(--g-a);
+  }
+  .glyph .gl {
+    fill: var(--g-l);
+  }
+  .glyph .gd {
+    fill: var(--g-d);
+  }
+  .glyph .gy {
+    fill: #ffc93c;
+  }
+  .glyph .gw {
+    fill: #fff;
+  }
+  .glyph .gk {
+    fill: #17144a;
+  }
+  .glyph .gr {
+    fill: #ff5a5a;
+  }
+  .glyph .gor {
+    fill: #ff8a2b;
+  }
+  .glyph .gg {
+    fill: #35c46a;
+  }
+  .glyph .gb {
+    fill: #3e8bff;
+  }
+  .glyph .gbr {
+    fill: #9a6a3a;
+  }
+
+  /* ---- Couvertures ------------------------------------------------------------------- */
+
+  .cover {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .cover .cv-dot {
+    fill: #fff;
+    opacity: 0.35;
+  }
+
+  /* ---- Navigation -------------------------------------------------------------------- */
+
+  .navlink {
+    border: 2px solid transparent;
+    border-radius: 999px;
+    padding: 0.2rem 0.8rem;
+    font-family: var(--font-stack-sans);
+    font-weight: 700;
+    font-size: 0.92rem;
+    text-decoration: none;
+    color: var(--ink);
+  }
+
+  .navlink:hover,
+  .navlink[aria-current="page"] {
+    border-color: var(--line);
+    background: var(--highlight);
+  }
+
+  /* ---- Arborescence ------------------------------------------------------------------ */
+
   .tree-summary {
     display: flex;
-    align-items: baseline;
-    gap: 0.6rem;
-    padding: 0.45rem 0;
+    align-items: center;
+    gap: 0.7rem;
+    padding: 0.55rem 0;
     cursor: pointer;
     list-style: none;
+    font-weight: 700;
   }
 
   .tree-summary::-webkit-details-marker {
     display: none;
   }
 
-  .tree-summary:hover .tree-marker {
-    border-color: var(--ink);
-  }
-
   .tree-marker {
     flex: none;
-    width: 0.4rem;
-    height: 0.4rem;
-    border-right: 1px solid var(--rule-strong);
-    border-bottom: 1px solid var(--rule-strong);
+    width: 0.55rem;
+    height: 0.55rem;
+    border-right: 3px solid var(--line);
+    border-bottom: 3px solid var(--line);
     transform: rotate(-45deg);
     transition: transform 150ms ease;
-    align-self: center;
   }
 
   .tree-branch[open] > .tree-summary .tree-marker {
@@ -198,76 +485,47 @@
   }
 
   .tree-control {
-    font-family: var(--font-stack-sans);
-    font-size: 0.75rem;
-    font-weight: 500;
-    letter-spacing: 0.04em;
-    color: var(--ink-muted);
     cursor: pointer;
-    border: 1px solid var(--rule);
-    padding: 0.2rem 0.55rem;
-    transition:
-      color 150ms ease,
-      border-color 150ms ease;
+    border: 2px solid var(--line);
+    border-radius: 999px;
+    background: var(--surface);
+    padding: 0.2rem 0.8rem;
+    font-family: var(--font-stack-sans);
+    font-size: 0.8125rem;
+    font-weight: 700;
   }
 
   .tree-control:hover {
-    color: var(--ink);
-    border-color: var(--rule-strong);
+    background: var(--highlight);
   }
 
-  /* Filet horizontal: le dispositif structurant de la planche imprimee. */
-  .rule-top {
-    border-top: 1px solid var(--rule);
-  }
+  /* ---- Corps d'article --------------------------------------------------------------- */
 
-  .rule-bottom {
-    border-bottom: 1px solid var(--rule);
-  }
-
-  /*
-   * Corps d'article. Mise en forme ecrite a la main plutot qu'heritee d'un plugin:
-   * l'echelle typographique et les rythmes verticaux font partie de l'identite.
-   */
   .prose {
     max-width: var(--container-reading);
   }
 
   .prose > * + * {
-    margin-top: 1.1em;
+    margin-top: 1em;
   }
 
   .prose h2 {
-    font-size: 1.5rem;
-    line-height: 1.25;
     font-weight: 600;
-    margin-top: 2.6rem;
-    padding-top: 0.9rem;
-    border-top: 1px solid var(--rule);
+    font-size: 1.6rem;
+    line-height: 1.2;
+    margin-top: 2.2rem;
   }
 
   .prose h3 {
-    font-size: 1.175rem;
-    line-height: 1.35;
-    font-weight: 600;
-    margin-top: 1.9rem;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.3;
+    margin-top: 1.8rem;
   }
 
-  /*
-   * L'en-tete adhere au haut de la fenetre: une ancre doit s'arreter sous lui, sans quoi
-   * le titre vise passe dessous. L'en-tete compte deux rangees sur telephone, une seule a
-   * partir de `md`, d'ou les deux valeurs.
-   */
   .prose h2,
   .prose h3 {
-    scroll-margin-top: 9.5rem;
-  }
-
-  @media (min-width: 48rem) {
-    .prose h2,
-    .prose h3 {
-      scroll-margin-top: 5.5rem;
-    }
+    scroll-margin-top: 6rem;
   }
 
   .prose p {
@@ -286,19 +544,21 @@
 
   .prose ul > li {
     position: relative;
-    padding-left: 1.15rem;
-    margin-top: 0.45rem;
+    padding-left: 1.6rem;
+    margin-top: 0.5rem;
   }
 
-  /* Puce en filet: prolonge le vocabulaire des reglures plutot qu'un disque generique. */
   .prose ul > li::before {
     content: "";
     position: absolute;
     left: 0;
-    top: 0.85em;
-    width: 0.65rem;
-    height: 1px;
-    background-color: var(--rule-strong);
+    top: 0.45em;
+    width: 0.95rem;
+    height: 0.95rem;
+    border: 2.5px solid var(--line);
+    border-radius: 5px;
+    background: var(--pop-yellow);
+    transform: rotate(-6deg);
   }
 
   .prose ol {
@@ -306,23 +566,23 @@
   }
 
   .prose ol > li {
-    margin-top: 0.45rem;
-    padding-left: 0.25rem;
+    margin-top: 0.5rem;
+    padding-left: 0.3rem;
   }
 
   .prose ol > li::marker {
-    font-family: var(--font-stack-sans);
-    font-size: 0.8em;
-    color: var(--ink-muted);
+    font-weight: 900;
+    color: var(--accent);
   }
 
   .prose a {
     color: var(--accent);
+    font-weight: 700;
     text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
   }
 
   .prose blockquote {
-    border-left: 2px solid var(--rule-strong);
+    border-left: 5px solid var(--pop-yellow);
     padding-left: 1rem;
     color: var(--ink-muted);
   }
@@ -330,14 +590,15 @@
   .prose code {
     font-family: ui-monospace, "SF Mono", "Cascadia Mono", monospace;
     font-size: 0.875em;
-    background-color: var(--surface);
-    padding: 0.1em 0.3em;
-    border: 1px solid var(--rule);
+    background-color: var(--surface-2);
+    padding: 0.1em 0.35em;
+    border-radius: 6px;
   }
 
   .prose pre {
-    background-color: var(--surface);
-    border: 1px solid var(--rule);
+    background-color: var(--surface-2);
+    border: 2px solid var(--line);
+    border-radius: 12px;
     padding: 1rem;
     overflow-x: auto;
     font-size: 0.875rem;
@@ -346,7 +607,6 @@
 
   .prose pre code {
     background: none;
-    border: none;
     padding: 0;
   }
 
@@ -358,48 +618,230 @@
 
   .prose th,
   .prose td {
-    border: 1px solid var(--rule);
+    border: 2px solid var(--line);
     padding: 0.5rem 0.65rem;
     text-align: left;
   }
 
   .prose th {
     font-family: var(--font-stack-sans);
-    font-weight: 600;
-    background-color: var(--surface);
+    font-weight: 700;
+    background-color: var(--surface-2);
   }
 
-  /*
-   * Cadre d'illustration a venir. Meme balisage que le composant FigurePlaceholder afin
-   * que les emplacements marques dans le Markdown et ceux poses dans les pages partagent
-   * une seule mise en forme.
-   */
+  .prose .quiz-list {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .prose .quiz-list > li {
+    padding-left: 0;
+    margin-top: 1.5rem;
+  }
+
+  /* ---- Lecon: sections en cartes ------------------------------------------------------ */
+
+  .lesson-track {
+    counter-reset: step;
+  }
+
+  .lesson-card {
+    --card: var(--t, var(--pop-blue));
+    position: relative;
+    counter-increment: step;
+    border: 2.5px solid var(--line);
+    border-radius: 22px;
+    background: var(--surface);
+    box-shadow: 0 6px 0 var(--line);
+    padding: 1.25rem 1.25rem 1.4rem;
+  }
+
+  .lesson-card + .lesson-card {
+    margin-top: 1.6rem;
+  }
+
+  /* L'en-tete du site adhere au haut de la fenetre: une carte atteinte s'arrete sous lui. */
+  .lesson-card {
+    scroll-margin-top: 10.5rem;
+  }
+
+  @media (min-width: 48rem) {
+    .lesson-card {
+      scroll-margin-top: 5.5rem;
+    }
+  }
+
+  /* La piste reprend le style de texte de `.prose`, sans sa largeur maximale. */
+  .lesson-track.prose {
+    max-width: none;
+  }
+
+  .lesson-card > * + * {
+    margin-top: 0.9em;
+  }
+
+  .lesson-card > h2 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1.25;
+  }
+
+  .lesson-card > h2 {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    margin-top: 0;
+    padding-bottom: 0.7rem;
+    margin-bottom: 0.9rem;
+    border-bottom: 2px dashed var(--rule);
+  }
+
+  /* Numero d'etape: la lecon est bien une suite ordonnee. */
+  .lesson-card > h2::before {
+    content: counter(step);
+    flex: none;
+    display: grid;
+    place-items: center;
+    width: 2.2rem;
+    height: 2.2rem;
+    border: 2.5px solid var(--line);
+    border-radius: 999px;
+    background: var(--card);
+    color: var(--t-on, #fff);
+    font-family: var(--font-stack-sans);
+    font-weight: 800;
+    font-size: 1.05rem;
+    line-height: 1;
+    box-shadow: 0 2px 0 var(--line);
+  }
+
+  .lesson-card--recap {
+    background: color-mix(in srgb, var(--pop-yellow) 28%, var(--surface));
+  }
+
+  .lesson-card--recap > h2::before {
+    content: "";
+    background: var(--pop-yellow)
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7' fill='none' stroke='%2315142b' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
+      center / 70% no-repeat;
+  }
+
+  .lesson-card--intro {
+    background: color-mix(in srgb, var(--card) 14%, var(--surface));
+    font-size: 1.12rem;
+  }
+
+  /* Mode cartes: la piste devient un defilement horizontal, une carte par ecran. */
+  .lesson-track[data-mode="cards"] {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    padding: 0.25rem 0.25rem 1.2rem;
+    margin: 0 -0.25rem;
+  }
+
+  .lesson-track[data-mode="cards"]::-webkit-scrollbar {
+    display: none;
+  }
+
+  .lesson-track[data-mode="cards"] .lesson-card {
+    flex: 0 0 100%;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    margin-top: 0;
+    min-height: min(26rem, 60vh);
+    max-height: 78vh;
+    overflow-y: auto;
+  }
+
+  .lesson-track[data-mode="cards"] .lesson-card,
+  .lesson-track[data-mode="cards"] .lesson-card + .lesson-card,
+  .lesson-track[data-mode="cards"] > .lesson-card--quiz {
+    margin-top: 0;
+  }
+
+  /* Le quiz n'est pas un voisin direct des cartes du texte: son espacement se pose a part. */
+  .lesson-track > .lesson-card--quiz {
+    margin-top: 1.6rem;
+  }
+
+  /* Pictogramme au bout de l'en-tete de chaque carte. */
+  .lesson-card > h2 .lesson-glyph {
+    flex: none;
+    margin-left: auto;
+    width: 3.1rem;
+    height: 3.1rem;
+    border: 2.5px solid var(--line);
+    border-radius: 999px;
+    background: #fff;
+    padding: 0.3rem;
+    box-shadow: 0 3px 0 var(--line);
+  }
+
+  .lesson-card > h2 .lesson-title {
+    min-width: 0;
+  }
+
+  /* Cases a cocher de "A retenir": un pictogramme de coche a la place de la puce carree. */
+  .lesson-card--recap ul > li::before {
+    background: var(--pop-green)
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7' fill='none' stroke='%23fff' stroke-width='3.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
+      center / 85% no-repeat;
+    transform: rotate(0);
+  }
+
+  /* Emplacement d'illustration du corpus, rendu en note visuelle. */
   .figure-placeholder {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin: 1.6rem 0;
   }
 
   .figure-placeholder__frame {
-    aspect-ratio: 16 / 9;
-    border: 1px solid var(--rule-strong);
-    background-image: repeating-linear-gradient(
-      -45deg,
-      transparent,
-      transparent 9px,
-      var(--rule) 9px,
-      var(--rule) 10px
-    );
-    opacity: 0.55;
+    display: none;
   }
 
   .figure-placeholder__caption {
-    font-family: var(--font-stack-sans);
-    font-size: 0.8125rem;
+    border: 2.5px dashed var(--line);
+    border-radius: 16px;
+    background: color-mix(in srgb, var(--card, var(--pop-blue)) 12%, var(--surface));
+    padding: 0.8rem 1rem 0.8rem 3.2rem;
+    font-style: italic;
+    font-size: 1.02rem;
     line-height: 1.5;
-    color: var(--ink-muted);
-    margin-top: 0.6rem;
-    padding-top: 0.5rem;
-    border-top: 1px solid var(--rule);
+    position: relative;
+  }
+
+  .figure-placeholder__caption::before {
+    content: "";
+    position: absolute;
+    left: 0.85rem;
+    top: 0.75rem;
+    width: 1.7rem;
+    height: 1.7rem;
+    border: 2.5px solid var(--line);
+    border-radius: 8px;
+    background:
+      radial-gradient(circle at 30% 35%, var(--pop-yellow) 0 22%, transparent 24%),
+      linear-gradient(160deg, transparent 55%, var(--pop-green) 56%);
+    background-color: #fff;
+  }
+
+  /* ---- Schemas ----------------------------------------------------------------------- */
+
+  .diagram {
+    margin: 0;
+  }
+
+  .diagram svg {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .diagram text {
+    font-family: var(--font-stack-sans);
+    fill: #15142b;
   }
 
   /* Coloration syntaxique, alignee sur la palette du site. */
@@ -425,6 +867,6 @@
   .hljs-title,
   .hljs-name,
   .hljs-section {
-    font-weight: 600;
+    font-weight: 700;
   }
 }

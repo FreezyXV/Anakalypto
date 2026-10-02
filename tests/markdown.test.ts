@@ -79,4 +79,49 @@ describe("renderMarkdown", () => {
 
     expect(html).toContain("fn(a ? b : c)");
   });
+
+  it("regroupe chaque section de niveau 2 dans une carte de leçon", async () => {
+    const { html } = await renderMarkdown(
+      [
+        "## En bref",
+        "Texte court.",
+        "",
+        "## Une étape",
+        "Premier paragraphe.",
+        "",
+        "## À retenir",
+        "- Un point.",
+      ].join("\n"),
+    );
+
+    expect(html.match(/<section class="lesson-card/g)).toHaveLength(3);
+    expect(html).toContain("lesson-card lesson-card--intro");
+    expect(html).toContain("lesson-card lesson-card--recap");
+    // Le titre reste un h2 avec son identifiant: ancres et sommaire ne changent pas.
+    expect(html).toContain('id="une-étape"');
+    expect(html).toContain('<svg class="glyph"');
+  });
+
+  it("résume les sections d'étape, sans l'introduction ni le récapitulatif", async () => {
+    const { sections, toc } = await renderMarkdown(
+      [
+        "## En bref",
+        "Résumé.",
+        "",
+        "## Une eau qui flotte",
+        "La glace est moins dense que l'eau liquide. Elle flotte donc.",
+        "",
+        "## À retenir",
+        "- Un point.",
+      ].join("\n"),
+      { categoryPath: "sciences-fondamentales/physique/thermodynamique" },
+    );
+
+    expect(sections).toHaveLength(1);
+    expect(sections[0]?.title).toBe("Une eau qui flotte");
+    expect(sections[0]?.excerpt).toContain("La glace est moins dense");
+    expect(sections[0]?.id).toBe("une-eau-qui-flotte");
+    // Le texte du sommaire ne contient jamais le balisage du pictogramme.
+    expect(toc.every((entry) => !entry.text.includes("<svg"))).toBe(true);
+  });
 });

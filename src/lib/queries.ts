@@ -305,6 +305,26 @@ export async function getRecentArticles(limit = 8): Promise<ArticleSummary[]> {
   }));
 }
 
+/**
+ * Une lecon recente par domaine, pour la vitrine de l'accueil: les premieres illustrent des
+ * domaines differents plutot que de montrer dix lecons du meme sujet.
+ */
+export async function getShowcaseArticles(limit = 12): Promise<ArticleSummary[]> {
+  const recent = await getRecentArticles(160);
+  const seen = new Set<string>();
+  const picked: ArticleSummary[] = [];
+
+  for (const article of recent) {
+    const root = article.categoryPath.split("/")[0] ?? "";
+    if (seen.has(root)) continue;
+    seen.add(root);
+    picked.push(article);
+    if (picked.length >= limit) break;
+  }
+
+  return picked;
+}
+
 /** Tous les chemins de categorie, pour la generation statique et le sitemap. */
 export async function getAllCategoryPaths(): Promise<string[]> {
   const categories = await prisma.category.findMany({

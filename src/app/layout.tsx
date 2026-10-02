@@ -8,10 +8,10 @@ import { SITE_NAME, SITE_TAGLINE, siteUrl } from "@/lib/seo";
 
 import "./globals.css";
 
-// Spectral porte le texte lu: serif dessine pour l'ecran, adapte aux longues lectures.
+// Spectral porte le texte lu et les titres: serif dessine pour l'ecran, adapte aux longues lectures.
 const spectral = Spectral({
-  subsets: ["latin"],
-  weight: ["400", "500", "600"],
+  subsets: ["latin", "latin-ext"],
+  weight: ["400", "500", "600", "700"],
   style: ["normal", "italic"],
   variable: "--font-spectral",
   display: "swap",
@@ -19,8 +19,8 @@ const spectral = Spectral({
 
 // Archivo porte l'appareil de navigation, nettement distinct du texte courant.
 const archivo = Archivo({
-  subsets: ["latin"],
-  weight: ["400", "500", "600"],
+  subsets: ["latin", "latin-ext"],
+  weight: ["400", "500", "600", "700", "800"],
   variable: "--font-archivo",
   display: "swap",
 });
@@ -47,8 +47,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fbfaf7" },
-    { media: "(prefers-color-scheme: dark)", color: "#0e1418" },
+    { media: "(prefers-color-scheme: light)", color: "#fbf9f1" },
+    { media: "(prefers-color-scheme: dark)", color: "#0b0b16" },
   ],
 };
 
@@ -70,12 +70,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen">
         <a
           href="#contenu"
-          className="label sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:border focus:border-rule-strong focus:bg-surface focus:px-3 focus:py-2 focus:text-ink"
+          className="btn sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50"
         >
           Aller au contenu
         </a>
         <SiteHeader />
-        <main id="contenu" className="mx-auto max-w-5xl px-4 py-10 sm:px-6">
+        <main id="contenu" className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
           {children}
         </main>
         <SiteFooter />

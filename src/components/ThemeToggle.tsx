@@ -66,7 +66,7 @@ export function ThemeToggle() {
     <button
       type="button"
       onClick={cycle}
-      className="label cursor-pointer border border-rule px-2 py-1 transition-colors duration-150 hover:border-rule-strong hover:text-ink"
+      className="chip cursor-pointer"
       aria-label={`Thème : ${LABELS[theme].toLowerCase()}. Changer de thème.`}
     >
       {LABELS[theme]}

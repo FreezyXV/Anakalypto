@@ -1,11 +1,11 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 
+import { ArticleGrid } from "@/components/ArticleCard";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { SearchBox } from "@/components/SearchBox";
 import { searchArticles } from "@/lib/search";
 import { pageMetadata } from "@/lib/seo";
-import { frenchSpacing } from "@/lib/typography";
 
 // Les resultats dependent de la requete: la page est rendue a la demande.
 export const dynamic = "force-dynamic";
@@ -40,7 +40,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
         ]}
       />
 
-      <h1 className="mt-4 text-3xl leading-tight font-semibold">Recherche</h1>
+      <h1 className="display mt-4 text-4xl sm:text-5xl">Recherche</h1>
 
       <div className="mt-6 max-w-reading">
         <SearchBox size="large" defaultValue={query} autoFocus={query.length === 0} />
@@ -54,7 +54,7 @@ export default async function SearchPage({ searchParams }: PageProps) {
         </p>
       ) : (
         <section aria-labelledby="titre-resultats" className="mt-10">
-          <h2 id="titre-resultats" className="rule-bottom pb-2 font-sans text-sm font-semibold">
+          <h2 id="titre-resultats" className="display text-2xl sm:text-3xl">
             {results.length === 0
               ? "Aucun résultat"
               : `${results.length} résultat${results.length > 1 ? "s" : ""} pour ${query}`}
@@ -77,32 +77,17 @@ export default async function SearchPage({ searchParams }: PageProps) {
                   le titre, qui tolère les fautes de frappe.
                 </p>
               )}
-              <ol className="mt-2">
-                {results.map((result) => (
-                  <li key={result.slug} className="rule-top py-5">
-                    <h3 className="text-lg leading-snug font-semibold">
-                      <Link
-                        href={`/${result.categoryPath}/${result.slug}`}
-                        className="no-underline transition-colors duration-150 hover:text-accent"
-                      >
-                        {frenchSpacing(result.title)}
-                      </Link>
-                    </h3>
-                    <p className="mt-1.5 max-w-measure text-[0.95rem] leading-relaxed text-ink-muted">
-                      {frenchSpacing(result.summary)}
-                    </p>
-                    <p className="label mt-2 flex flex-wrap items-center gap-x-3">
-                      <Link
-                        href={`/${result.categoryPath}`}
-                        className="no-underline transition-colors duration-150 hover:text-ink"
-                      >
-                        {result.categoryName}
-                      </Link>
-                      {result.match === "approximatif" && <span>Rapprochement approximatif</span>}
-                    </p>
-                  </li>
-                ))}
-              </ol>
+              <div className="mt-6">
+                <ArticleGrid
+                  articles={results.map((result) => ({
+                    title: result.title,
+                    summary: result.summary,
+                    path: `/${result.categoryPath}/${result.slug}`,
+                    categoryName: result.categoryName,
+                    categoryPath: `/${result.categoryPath}`,
+                  }))}
+                />
+              </div>
             </>
           )}
         </section>

@@ -11,26 +11,23 @@ export function Breadcrumb({ items }: { items: readonly Crumb[] }) {
   if (items.length === 0) return null;
 
   return (
-    <nav aria-label="Fil d'Ariane" className="label">
-      <ol className="flex flex-wrap items-center gap-x-2 gap-y-1">
+    <nav aria-label="Fil d'Ariane" className="text-sm">
+      <ol className="flex flex-wrap items-center gap-x-1.5 gap-y-1.5">
         {items.map((item, index) => {
           const last = index === items.length - 1;
           return (
             <li key={item.path} className="flex items-center gap-x-2">
               {index > 0 && (
-                <span aria-hidden="true" className="text-rule-strong">
-                  /
+                <span aria-hidden="true" className="font-sans font-bold text-ink-muted">
+                  ›
                 </span>
               )}
               {last ? (
-                <span aria-current="page" className="text-ink">
+                <span aria-current="page" className="chip bg-highlight">
                   {frenchSpacing(item.name)}
                 </span>
               ) : (
-                <Link
-                  href={item.path}
-                  className="no-underline transition-colors duration-150 hover:text-ink"
-                >
+                <Link href={item.path} className="chip">
                   {frenchSpacing(item.name)}
                 </Link>
               )}

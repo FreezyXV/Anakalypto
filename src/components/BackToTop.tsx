@@ -31,7 +31,7 @@ export function BackToTop() {
     <button
       type="button"
       onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-      className="label fixed right-4 bottom-4 z-30 cursor-pointer border border-rule-strong bg-paper px-3 py-2 text-ink shadow-[0_4px_16px_-8px_rgba(0,0,0,0.4)] transition-colors duration-150 hover:bg-surface sm:right-6 sm:bottom-6"
+      className="btn btn--ghost fixed right-4 bottom-4 z-30 px-3 py-2 text-sm sm:right-6 sm:bottom-6"
     >
       <span aria-hidden="true" className="mr-1.5">
         &uarr;

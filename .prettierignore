@@ -5,3 +5,7 @@ coverage
 content
 .claude
 package-lock.json
+
+# genere par scripts/consignes-illustrations.ts
+illustrations/CONSIGNES.md
+illustrations/consignes.csv

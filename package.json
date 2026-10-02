@@ -8,9 +8,13 @@
     "node": ">=20.9.0"
   },
   "scripts": {
+    "prebuild": "node scripts/illustrations.mjs --manifeste",
     "build": "prisma generate && next build",
     "build:with-db": "prisma migrate deploy && tsx prisma/seed.ts && npm run build",
+    "predev": "node scripts/illustrations.mjs --manifeste",
     "dev": "next dev",
+    "illustrations": "node scripts/illustrations.mjs",
+    "illustrations:consignes": "tsx scripts/consignes-illustrations.ts",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "lint": "eslint",

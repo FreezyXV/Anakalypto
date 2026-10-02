@@ -165,7 +165,7 @@ export function SearchBox({
         <label htmlFor={id} className={large ? "label block" : "sr-only"}>
           Rechercher dans l&apos;encyclopédie
         </label>
-        <div className={`flex ${large ? "mt-2" : ""}`}>
+        <div className={`flex gap-2 ${large ? "mt-2" : ""}`}>
           <input
             ref={inputRef}
             id={id}
@@ -186,15 +186,13 @@ export function SearchBox({
             aria-controls={expanded ? listId : undefined}
             aria-activedescendant={activeId}
             aria-autocomplete="list"
-            className={`w-full min-w-0 border border-rule bg-surface px-3 text-ink transition-colors duration-150 placeholder:text-ink-muted hover:border-rule-strong ${
+            className={`w-full min-w-0 rounded-xl border-[2.5px] border-line bg-surface px-3.5 font-sans font-semibold text-ink placeholder:font-medium placeholder:text-ink-muted ${
               large ? "py-3 text-lg" : "py-2 text-sm"
             }`}
           />
           <button
             type="submit"
-            className={`shrink-0 cursor-pointer border border-l-0 border-rule bg-surface px-4 font-sans font-medium text-ink transition-colors duration-150 hover:border-rule-strong hover:bg-highlight ${
-              large ? "text-base" : "text-sm"
-            }`}
+            className={`btn shrink-0 ${large ? "px-5 text-base" : "px-3 py-2 text-sm"}`}
           >
             Chercher
           </button>
@@ -206,7 +204,7 @@ export function SearchBox({
           id={listId}
           role="listbox"
           aria-label="Suggestions"
-          className="absolute top-full right-0 left-0 z-40 mt-1 max-h-[60vh] overflow-y-auto border border-rule-strong bg-paper shadow-[0_6px_24px_-12px_rgba(0,0,0,0.35)]"
+          className="sticker absolute top-full right-0 left-0 z-40 mt-2 max-h-[60vh] overflow-y-auto rounded-2xl"
         >
           {suggestions.map((suggestion, index) => (
             <li
@@ -220,9 +218,11 @@ export function SearchBox({
                 href={suggestion.href}
                 onPointerEnter={() => setActive(index)}
                 onClick={close}
-                className="block border-b border-rule px-3 py-2 no-underline last:border-b-0"
+                className="block border-b-2 border-dashed border-rule px-3.5 py-2.5 no-underline last:border-b-0"
               >
-                <span className="block text-[0.95rem] leading-snug">{suggestion.title}</span>
+                <span className="block text-[0.95rem] leading-snug font-semibold">
+                  {suggestion.title}
+                </span>
                 <span className="label mt-0.5 block">
                   {suggestion.categoryName}
                   {suggestion.approximate && " - rapprochement approximatif"}
