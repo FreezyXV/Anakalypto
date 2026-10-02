@@ -2499,18 +2499,90 @@ légende et texte alternatif à fournir ultérieurement.]
 
 ---
 type: article
-title: Le neurone et la synapse
-slug: neurone-synapse
+title: Comment un neurone envoie-t-il un message à un autre neurone ?
+slug: comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone
 categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
 summary: >
-  Comment les cellules nerveuses transmettent l'information par des signaux électriques et chimiques.
+  Un neurone envoie un signal électrique le long de son axone. À la synapse, il libère des
+  messagers chimiques qui excitent ou freinent le neurone suivant.
 tags: [systeme-nerveux]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Neurone"
+    url: "https://fr.wikipedia.org/wiki/Neurone"
+    publisher: "Wikipédia"
+  - title: "Synapse"
+    url: "https://fr.wikipedia.org/wiki/Synapse"
+    publisher: "Wikipédia"
+  - title: "Chemical synapse"
+    url: "https://en.wikipedia.org/wiki/Chemical_synapse"
+    publisher: "Wikipedia"
+  - title: "Neurotransmitter"
+    url: "https://en.wikipedia.org/wiki/Neurotransmitter"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui fait libérer les neurotransmetteurs ?"
+    options:
+      - "Un coup de chaud"
+      - "L'arrivée du signal électrique et l'entrée de calcium"
+      - "La lumière"
+    answer: 2
+    explanation: >
+      Quand le signal électrique arrive au bout de l'axone, des canaux à calcium s'ouvrent, et
+      le calcium qui entre fait libérer les neurotransmetteurs dans la fente.
+  - question: "Où se fixent les neurotransmetteurs ?"
+    options:
+      - "Sur la gaine de myéline"
+      - "Sur des récepteurs de la cellule suivante"
+      - "Sur le corps cellulaire de l'émetteur"
+    answer: 2
+    explanation: >
+      Les neurotransmetteurs traversent la fente en diffusant, puis se fixent sur des récepteurs
+      de la cellule suivante.
+  - question: "Comment le message s'arrête-t-il ?"
+    options:
+      - "Le neurone explose"
+      - "Les neurotransmetteurs sont détruits ou recyclés"
+      - "La synapse se ferme à clé"
+    answer: 2
+    explanation: >
+      Le message s'arrête quand les neurotransmetteurs sont détruits par des enzymes ou repris
+      par le neurone émetteur pour être recyclés.
+  - question: "Sur quoi repose sans doute la mémoire ?"
+    options:
+      - "Sur le nombre de dendrites"
+      - "Sur des changements durables de la force des synapses"
+      - "Sur la longueur de l'axone"
+    answer: 2
+    explanation: >
+      L'apprentissage et la mémoire reposent sans doute sur des changements durables de la force
+      des synapses, appelés plasticité synaptique.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un neurone envoie un signal électrique le long de son axone. À la synapse, il libère des messagers chimiques qui excitent ou freinent le neurone suivant.
+
+## Le neurone, une cellule qui conduit
+
+Un neurone est une cellule excitable, unité de base du système nerveux, qui transmet des signaux appelés influx nerveux. Il comprend un corps cellulaire, des dendrites qui reçoivent les signaux et un axone qui conduit le signal électrique. Sur certains axones, la gaine de myéline accélère la conduction du signal.
+
+## Le saut de la synapse
+
+Une synapse est une zone de contact entre deux neurones, où le signal passe de l'un à l'autre. Elle comprend un élément présynaptique qui contient des vésicules remplies de neurotransmetteurs, une fente synaptique et un élément postsynaptique qui porte des récepteurs. Quand le signal électrique arrive au bout de l'axone, des canaux à calcium s'ouvrent, et le calcium qui entre fait libérer les neurotransmetteurs dans la fente. Les neurotransmetteurs traversent la fente en diffusant, puis se fixent sur des récepteurs de la cellule suivante. Selon les récepteurs de la cellule suivante, le message l'excite ou l'inhibe.
+
+## Arrêter, varier et apprendre
+
+Le message s'arrête quand les neurotransmetteurs sont détruits par des enzymes ou repris par le neurone émetteur pour être recyclés. Parmi les neurotransmetteurs figurent le glutamate, excitateur, le GABA, inhibiteur, la dopamine, la sérotonine et l'acétylcholine. L'apprentissage et la mémoire reposent sans doute sur des changements durables de la force des synapses, appelés plasticité synaptique. Un neurone a en moyenne des milliers de synapses avec d'autres neurones.
+
+## À retenir
+
+- Quand le signal arrive au bout de l'axone, le calcium entre et fait libérer les neurotransmetteurs dans la fente.
+- Les neurotransmetteurs traversent la fente en diffusant, puis se fixent sur des récepteurs de la cellule suivante.
+- Selon les récepteurs de la cellule suivante, le message l'excite ou l'inhibe.
+- Le message s'arrête quand les neurotransmetteurs sont détruits par des enzymes ou repris par le neurone émetteur pour être recyclés.
+- L'apprentissage et la mémoire reposent sans doute sur des changements durables de la force des synapses, appelés plasticité synaptique.
 
 ---
 
@@ -2533,18 +2605,85 @@ status: planned
 
 ---
 type: article
-title: La douleur
-slug: douleur
+title: À quoi sert la douleur ?
+slug: a-quoi-sert-la-douleur
 categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
 summary: >
-  Un signal d'alarme utile qui devient parfois une maladie en soi : les mécanismes de la douleur chronique.
+  La douleur est une alarme : des capteurs détectent le danger, un signal remonte vers le
+  cerveau, qui construit la sensation. Sans elle, on se blesse sans le savoir.
 tags: [systeme-nerveux]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Pain"
+    url: "https://medlineplus.gov/pain.html"
+    publisher: "MedlinePlus, Bibliothèque nationale de médecine des États-Unis"
+  - title: "Douleur"
+    url: "https://fr.wikipedia.org/wiki/Douleur"
+    publisher: "Wikipédia"
+  - title: "Pain"
+    url: "https://en.wikipedia.org/wiki/Pain"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quoi sert la douleur ?"
+    options:
+      - "À fatiguer les muscles"
+      - "À protéger le corps en signalant un danger"
+      - "À réchauffer la peau"
+    answer: 2
+    explanation: >
+      La douleur protège : elle déclenche un retrait réflexe, pousse à ménager une partie
+      blessée et crée des souvenirs qui aident à éviter un nouveau danger.
+  - question: "Quelles cellules détectent les stimuli nocifs ?"
+    options:
+      - "Les globules rouges"
+      - "Les alvéoles"
+      - "Les nocicepteurs"
+    answer: 3
+    explanation: >
+      Des terminaisons nerveuses spécialisées, les nocicepteurs, détectent les stimuli nocifs.
+  - question: "Qui construit la sensation de douleur ?"
+    options:
+      - "Le doigt blessé"
+      - "Le cerveau"
+      - "Le cœur"
+    answer: 2
+    explanation: >
+      La sensation de douleur est construite par le cerveau et varie selon le contexte et les
+      émotions.
+  - question: "À partir de quand parle-t-on de douleur chronique ?"
+    options:
+      - "Après plus de trois mois"
+      - "Après une heure"
+      - "Après deux jours"
+    answer: 1
+    explanation: >
+      La douleur chronique dure plus de trois mois.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La douleur est une alarme : des capteurs détectent le danger, un signal remonte vers le cerveau, qui construit la sensation. Sans elle, on se blesse sans le savoir.
+
+## Une alarme, pas un défaut
+
+Selon l'Association internationale pour l'étude de la douleur, la douleur est une expérience sensorielle et émotionnelle désagréable, liée à une lésion des tissus réelle ou possible. C'est un signal du système nerveux indiquant que quelque chose peut ne pas aller. La douleur protège : elle déclenche un retrait réflexe, pousse à ménager une partie blessée et crée des souvenirs qui aident à éviter un nouveau danger. Les personnes insensibles à la douleur de naissance se blessent sans le savoir, ce qui réduit leur espérance de vie : cela montre que la douleur est utile.
+
+## Du doigt au cerveau
+
+Des terminaisons nerveuses spécialisées, les nocicepteurs, détectent les stimuli nocifs. Les signaux voyagent par deux types de fibres nerveuses : les fibres A-delta, rapides, et les fibres C, plus lentes. L'information remonte de la périphérie du corps jusqu'à la moelle épinière, puis jusqu'au cortex cérébral. La sensation de douleur est construite par le cerveau et varie selon le contexte et les émotions. Le cerveau peut modifier l'intensité de la douleur par des voies nerveuses descendantes.
+
+## Aiguë, chronique et ses origines
+
+La douleur aiguë se déclare vite et disparaît en général quand la cause guérit. La douleur chronique dure plus de trois mois. Selon son origine, la douleur peut venir d'une lésion des tissus, d'une lésion d'un nerf, ou d'un traitement inhabituel de l'information par le système nerveux.
+
+## À retenir
+
+- C'est un signal du système nerveux indiquant que quelque chose peut ne pas aller.
+- Des terminaisons nerveuses spécialisées, les nocicepteurs, détectent les stimuli nocifs.
+- L'information remonte de la périphérie du corps jusqu'à la moelle épinière, puis jusqu'au cortex cérébral.
+- La sensation de douleur est construite par le cerveau et varie selon le contexte et les émotions.
+- La douleur déclenche un retrait réflexe, pousse à ménager une partie blessée et aide à éviter un nouveau danger.
 
 ---
 
@@ -2973,18 +3112,87 @@ les préviennent, légende et texte alternatif à fournir ultérieurement.]
 
 ---
 type: article
-title: Le foie, usine chimique du corps
-slug: foie-usine-chimique-corps
+title: Que fait le foie, l'usine chimique du corps ?
+slug: que-fait-le-foie-l-usine-chimique-du-corps
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
-  Plus de 500 fonctions : filtrer, stocker, fabriquer, détoxifier.
+  Le foie fabrique la bile, stocke le sucre, produit des protéines du sang et transforme les
+  substances toxiques. Il reçoit deux arrivées de sang et sait se régénérer.
 tags: [systeme-digestif]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Your Digestive System and How It Works"
+    url: "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+    publisher: "NIDDK, Instituts nationaux de la santé (États-Unis)"
+  - title: "Foie"
+    url: "https://fr.wikipedia.org/wiki/Foie"
+    publisher: "Wikipédia"
+  - title: "Liver"
+    url: "https://en.wikipedia.org/wiki/Liver"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien d'arrivées de sang le foie reçoit-il ?"
+    options:
+      - "Deux : l'artère hépatique et la veine porte"
+      - "Une seule, la veine cave"
+      - "Aucune, il se nourrit seul"
+    answer: 1
+    explanation: >
+      Il reçoit du sang par deux voies : l'artère hépatique apporte du sang riche en oxygène, et
+      la veine porte apporte le sang chargé de nutriments venant de la digestion.
+  - question: "À quoi sert la bile ?"
+    options:
+      - "À aider à digérer les graisses"
+      - "À fabriquer l'insuline"
+      - "À filtrer l'air"
+    answer: 1
+    explanation: >
+      Il fabrique la bile, un liquide qui aide à digérer les graisses ; la vésicule biliaire la
+      stocke jusqu'au repas.
+  - question: "Que fabrique le foie dans le sang ?"
+    options:
+      - "Les globules rouges adultes"
+      - "Le calcium des os"
+      - "La plupart des protéines du plasma"
+    answer: 3
+    explanation: >
+      Il fabrique la plupart des protéines du plasma sanguin, dont l'albumine et plusieurs
+      facteurs de coagulation.
+  - question: "Que peut faire un fragment de foie ?"
+    options:
+      - "Se transformer en rein"
+      - "Reconstituer un organe entier"
+      - "Se figer"
+    answer: 2
+    explanation: >
+      Il possède une capacité de régénération remarquable : un fragment de foie peut
+      reconstituer un organe entier.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le foie fabrique la bile, stocke le sucre, produit des protéines du sang et transforme les substances toxiques. Il reçoit deux arrivées de sang et sait se régénérer.
+
+## Un organe, deux arrivées de sang
+
+Le foie est le plus gros organe interne du corps humain. Il reçoit du sang par deux voies : l'artère hépatique apporte du sang riche en oxygène, et la veine porte apporte le sang chargé de nutriments venant de la digestion. Les nutriments absorbés par l'intestin passent par le foie, qui les stocke et les distribue.
+
+## Trois grands rôles
+
+Ses nombreuses fonctions se regroupent en trois rôles : purifier, synthétiser et stocker. Il fabrique la bile, un liquide qui aide à digérer les graisses ; la vésicule biliaire la stocke jusqu'au repas. Il stocke le glucose sous forme de glycogène et le libère quand le corps en a besoin. Il fabrique la plupart des protéines du plasma sanguin, dont l'albumine et plusieurs facteurs de coagulation. Il transforme et élimine de nombreuses substances toxiques et déchets. Il intervient aussi dans le métabolisme des graisses et des sucres.
+
+## Un champion de la réparation
+
+Il possède une capacité de régénération remarquable : un fragment de foie peut reconstituer un organe entier.
+
+## À retenir
+
+- Il reçoit deux arrivées de sang : l'artère hépatique, riche en oxygène, et la veine porte, chargée de nutriments.
+- Il fabrique la bile, un liquide qui aide à digérer les graisses ; la vésicule biliaire la stocke jusqu'au repas.
+- Il fabrique la plupart des protéines du plasma sanguin, dont l'albumine et plusieurs facteurs de coagulation.
+- Il transforme et élimine de nombreuses substances toxiques et déchets.
+- Il possède une capacité de régénération remarquable : un fragment de foie peut reconstituer un organe entier.
 
 ---
 
@@ -3356,18 +3564,85 @@ status: planned
 
 ---
 type: article
-title: L'horloge biologique
-slug: horloge-biologique
+title: Comment le corps sait-il l'heure sans regarder une montre ?
+slug: comment-le-corps-sait-il-l-heure-sans-regarder-une-montre
 categoryPath: corps-humain-et-sante/physiologie/sommeil
 summary: >
-  Le rythme de 24 heures qui règle sommeil, température et hormones.
+  Une horloge dans le cerveau règle le corps sur un cycle d'environ vingt-quatre heures. La
+  lumière, surtout bleue, la remet à l'heure chaque jour.
 tags: [sommeil]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Circadian rhythms and the SCN"
+    url: "https://nigms.nih.gov/image-gallery/6613"
+    publisher: "NIGMS, Instituts nationaux de la santé (États-Unis)"
+  - title: "The inner clock, blue light sets the human rhythm"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7065627/"
+    publisher: "PubMed Central, Bibliothèque nationale de médecine des États-Unis"
+  - title: "Rythme circadien"
+    url: "https://fr.wikipedia.org/wiki/Rythme_circadien"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Où se trouve l'horloge principale du corps ?"
+    options:
+      - "Dans le cœur"
+      - "Dans le foie"
+      - "Dans le noyau suprachiasmatique, au cœur du cerveau"
+    answer: 3
+    explanation: >
+      L'horloge principale du corps est le noyau suprachiasmatique, une zone de l'hypothalamus,
+      dans le cerveau.
+  - question: "Quelle lumière resynchronise le mieux l'horloge ?"
+    options:
+      - "La lumière bleue"
+      - "La lumière rouge"
+      - "La lumière verte"
+    answer: 1
+    explanation: >
+      La lumière bleue est le signal de synchronisation le plus puissant pour l'horloge.
+  - question: "Que produit la glande pinéale ?"
+    options:
+      - "L'insuline"
+      - "La mélatonine, qui favorise le sommeil"
+      - "La bile"
+    answer: 2
+    explanation: >
+      La glande pinéale produit la mélatonine, qui favorise le sommeil : la lumière bleue du
+      jour la freine, la baisse de lumière du soir la laisse monter.
+  - question: "L'horloge s'arrête-t-elle sans lumière ?"
+    options:
+      - "Non, elle continue de tourner"
+      - "Oui, tout de suite"
+      - "Oui, mais seulement la nuit"
+    answer: 1
+    explanation: >
+      Même sans variation de lumière, cette horloge continue de tourner : elle est interne.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une horloge dans le cerveau règle le corps sur un cycle d'environ vingt-quatre heures. La lumière, surtout bleue, la remet à l'heure chaque jour.
+
+## Une horloge dans le cerveau
+
+Un rythme circadien est un changement physique, mental ou comportemental qui suit un cycle d'environ vingt-quatre heures. L'horloge principale du corps est le noyau suprachiasmatique, une zone de l'hypothalamus, dans le cerveau. Elle règle le sommeil, la température du corps, la production d'hormones et d'autres fonctions. Même sans variation de lumière, cette horloge continue de tourner : elle est interne. Dans les cellules, des gènes dits horloge fabriquent des protéines selon un cycle d'environ vingt-quatre heures.
+
+## La lumière remet l'horloge à l'heure
+
+La période propre de l'horloge humaine est un peu plus longue que vingt-quatre heures ; la lumière la recale chaque jour. Des cellules spéciales de la rétine, qui contiennent de la mélanopsine, détectent la lumière et envoient l'information à l'horloge. La lumière bleue est le signal de synchronisation le plus puissant pour l'horloge. La glande pinéale produit la mélatonine, qui favorise le sommeil : la lumière bleue du jour la freine, la baisse de lumière du soir la laisse monter.
+
+## Des horloges partout
+
+Des horloges secondaires existent dans les organes, et l'horloge principale les synchronise. Trois chercheurs, Jeffrey Hall, Michael Rosbash et Michael Young, ont reçu un prix Nobel de physiologie ou médecine pour la découverte des mécanismes qui contrôlent ce rythme. Les nouveau-nés n'ont pas encore de rythme circadien établi ; la plupart le développent en quelques semaines.
+
+## À retenir
+
+- L'horloge principale du corps est le noyau suprachiasmatique, une zone de l'hypothalamus, dans le cerveau.
+- Des cellules de la rétine à mélanopsine détectent la lumière et informent l'horloge.
+- La lumière bleue est le signal de synchronisation le plus puissant pour l'horloge.
+- La mélatonine favorise le sommeil : la lumière du jour la freine, la baisse de lumière du soir la laisse monter.
+- Des horloges secondaires existent dans les organes, et l'horloge principale les synchronise.
 
 ---
 
@@ -3407,18 +3682,86 @@ status: planned
 
 ---
 type: article
-title: Le cancer, comment il apparaît
-slug: cancer-apparait
+title: Comment une cellule normale devient-elle une cellule cancéreuse ?
+slug: comment-une-cellule-normale-devient-elle-une-cellule-cancereuse
 categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
 summary: >
-  Des mutations qui s'accumulent et une cellule qui prolifère sans contrôle.
+  Un cancer naît quand des gènes qui contrôlent la division des cellules sont modifiés. Une
+  cellule qui ignore les freins se multiplie et peut se propager.
 tags: [maladies-chroniques]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "What Is Cancer?"
+    url: "https://www.cancer.gov/about-cancer/understanding/what-is-cancer"
+    publisher: "Institut national du cancer des États-Unis"
+  - title: "The Genetics of Cancer"
+    url: "https://www.cancer.gov/about-cancer/causes-prevention/genetics"
+    publisher: "Institut national du cancer des États-Unis"
+  - title: "Cancer"
+    url: "https://fr.wikipedia.org/wiki/Cancer"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle est l'origine du cancer ?"
+    options:
+      - "Un excès de sommeil"
+      - "Des changements dans les gènes qui contrôlent la croissance des cellules"
+      - "Une seule bactérie"
+    answer: 2
+    explanation: >
+      Le cancer est une maladie génétique : il est causé par des changements dans les gènes qui
+      contrôlent la façon dont les cellules grandissent et se divisent.
+  - question: "Un seul changement dans l'ADN suffit-il en général ?"
+    options:
+      - "Oui, toujours"
+      - "Aucun changement n'est nécessaire"
+      - "Non, il en faut plus d'un"
+    answer: 3
+    explanation: >
+      Il faut plus d'un changement dans l'ADN pour qu'une cellule saine devienne cancéreuse.
+  - question: "Comment appelle-t-on la propagation à un site éloigné ?"
+    options:
+      - "Une métastase"
+      - "Une mutation"
+      - "Une cicatrice"
+    answer: 1
+    explanation: >
+      Quand un cancer gagne un site éloigné, on parle de métastase ; les cellules gardent les
+      caractéristiques de la tumeur d'origine.
+  - question: "Comment apparaissent la plupart des cancers ?"
+    options:
+      - "Par héritage dans tous les cas"
+      - "Par contagion"
+      - "Par des erreurs qui s'accumulent au hasard avec le temps"
+    answer: 3
+    explanation: >
+      La grande majorité des cancers apparaissent par hasard, à cause d'erreurs qui s'accumulent
+      au fil des années.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un cancer naît quand des gènes qui contrôlent la division des cellules sont modifiés. Une cellule qui ignore les freins se multiplie et peut se propager.
+
+## Des cellules qui n'obéissent plus
+
+Le cancer est un ensemble de maladies dans lesquelles des cellules du corps se multiplient sans contrôle et peuvent se propager à d'autres parties du corps. Dans un corps sain, les cellules suivent un cycle ordonné de croissance et de remplacement, et meurent quand elles sont vieilles ou abîmées. Une cellule cancéreuse ignore les signaux qui lui disent de s'arrêter ou de mourir, envahit les tissus voisins, stimule la croissance de vaisseaux sanguins pour se nourrir et échappe au système immunitaire.
+
+## Des gènes qui changent
+
+Le cancer est une maladie génétique : il est causé par des changements dans les gènes qui contrôlent la façon dont les cellules grandissent et se divisent. Trois types de gènes sont surtout touchés : les proto-oncogènes, qui favorisent la croissance, les gènes suppresseurs de tumeur, qui la freinent, et les gènes de réparation de l'ADN. Ces changements viennent d'erreurs lors de la division cellulaire, de dégâts causés par l'environnement, comme les produits chimiques du tabac ou les ultraviolets, ou de mutations héritées. La grande majorité des cancers apparaissent par hasard, à cause d'erreurs qui s'accumulent au fil des années. Il faut plus d'un changement dans l'ADN pour qu'une cellule saine devienne cancéreuse.
+
+## Se propager, et un mot au pluriel
+
+Quand un cancer gagne un site éloigné, on parle de métastase ; les cellules gardent les caractéristiques de la tumeur d'origine. On parle de cancers au pluriel : ce sont de nombreuses maladies, qui dépendent des gènes, de l'environnement, de l'immunité et du milieu autour de la tumeur.
+
+## À retenir
+
+- Le cancer regroupe des maladies où des cellules se multiplient sans contrôle et peuvent se propager dans le corps.
+- Le cancer est une maladie génétique : des gènes qui contrôlent la croissance et la division des cellules sont modifiés.
+- Il faut plus d'un changement dans l'ADN pour qu'une cellule saine devienne cancéreuse.
+- Une cellule cancéreuse ignore les signaux d'arrêt, envahit les tissus voisins, se fait des vaisseaux sanguins et échappe à l'immunité.
+- Quand un cancer gagne un site éloigné, on parle de métastase ; les cellules gardent les caractéristiques de la tumeur d'origine.
 
 ---
 
@@ -4604,18 +4947,86 @@ status: planned
 
 ---
 type: article
-title: La coagulation sanguine, un mecanisme de protection
-slug: la-coagulation-sanguine-un-mecanisme-de-protection
+title: Comment le sang s'arrête-t-il de couler tout seul après une coupure ?
+slug: comment-le-sang-s-arrete-t-il-de-couler-tout-seul-apres-une-coupure
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
-  Comment le corps arrete naturellement un saignement en quelques minutes.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Après une coupure, les plaquettes forment un bouchon, puis une cascade de protéines tisse un
+  filet de fibrine qui scelle la plaie. Le caillot se dissout quand le vaisseau est réparé.
+tags: [systeme-cardiovasculaire]
+sources:
+  - title: "Blood clotting"
+    url: "https://medlineplus.gov/ency/anatomyvideos/000011.htm"
+    publisher: "MedlinePlus, Bibliothèque nationale de médecine des États-Unis"
+  - title: "Hémostase"
+    url: "https://fr.wikipedia.org/wiki/H%C3%A9mostase"
+    publisher: "Wikipédia"
+  - title: "Coagulation"
+    url: "https://en.wikipedia.org/wiki/Coagulation"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que font d'abord les plaquettes après une coupure ?"
+    options:
+      - "Elles se collent aux bords et forment un bouchon"
+      - "Elles dissolvent la peau"
+      - "Elles fabriquent des globules rouges"
+    answer: 1
+    explanation: >
+      D'abord, les plaquettes se collent aux bords de la coupure et libèrent des substances qui
+      en attirent d'autres : un bouchon se forme et arrête l'écoulement en surface.
+  - question: "En quoi la thrombine transforme-t-elle le fibrinogène ?"
+    options:
+      - "En hémoglobine"
+      - "En bile"
+      - "En fibrine"
+    answer: 3
+    explanation: >
+      La thrombine transforme le fibrinogène en fibrine, dont les filaments s'accrochent entre
+      eux et scellent la plaie de l'intérieur.
+  - question: "Que devient le caillot quand le vaisseau est réparé ?"
+    options:
+      - "Il reste toute la vie"
+      - "Il est dissous par fibrinolyse"
+      - "Il devient un os"
+    answer: 2
+    explanation: >
+      Quand le vaisseau est réparé, le caillot se dissout : c'est la fibrinolyse, où une enzyme,
+      la plasmine, détruit la fibrine.
+  - question: "Quel organe fabrique la plupart des facteurs de coagulation ?"
+    options:
+      - "L'estomac"
+      - "Le poumon"
+      - "Le foie"
+    answer: 3
+    explanation: >
+      Le foie fabrique la plupart des facteurs de coagulation.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Après une coupure, les plaquettes forment un bouchon, puis une cascade de protéines tisse un filet de fibrine qui scelle la plaie. Le caillot se dissout quand le vaisseau est réparé.
+
+## Un bouchon de plaquettes
+
+L'hémostase est l'ensemble des phénomènes du sang et des vaisseaux qui préviennent ou arrêtent un saignement. D'abord, les plaquettes se collent aux bords de la coupure et libèrent des substances qui en attirent d'autres : un bouchon se forme et arrête l'écoulement en surface.
+
+## Un filet de fibrine
+
+Ensuite, des facteurs de coagulation, des protéines du plasma, déclenchent une cascade de réactions. La thrombine transforme le fibrinogène en fibrine, dont les filaments s'accrochent entre eux et scellent la plaie de l'intérieur. Une enzyme, le facteur XIII, relie ces fibres entre elles et rend le caillot stable. Le calcium est aussi nécessaire pour que la cascade progresse.
+
+## Dissoudre et équilibrer
+
+Quand le vaisseau est réparé, le caillot se dissout : c'est la fibrinolyse, où une enzyme, la plasmine, détruit la fibrine. La vitamine K est nécessaire au bon fonctionnement de plusieurs facteurs de coagulation. Le foie fabrique la plupart des facteurs de coagulation. Un équilibre entre les facteurs qui favorisent la coagulation et ceux qui l'empêchent évite à la fois les hémorragies et les caillots indésirables.
+
+## À retenir
+
+- Les plaquettes se collent aux bords de la coupure et en attirent d'autres : un bouchon arrête l'écoulement.
+- La thrombine transforme le fibrinogène en fibrine, dont les filaments s'accrochent entre eux et scellent la plaie de l'intérieur.
+- Une enzyme, le facteur XIII, relie ces fibres entre elles et rend le caillot stable.
+- Quand le vaisseau est réparé, le caillot se dissout : c'est la fibrinolyse, où une enzyme, la plasmine, détruit la fibrine.
+- Un équilibre entre les facteurs qui favorisent la coagulation et ceux qui l'empêchent évite à la fois les hémorragies et les caillots indésirables.
 
 ---
 type: article
@@ -5489,18 +5900,86 @@ status: planned
 
 ---
 type: article
-title: Le reflexe, une reponse rapide sans passer par le cerveau
-slug: le-reflexe-une-reponse-rapide-sans-passer-par-le-cerveau
+title: Pourquoi la main se retire-t-elle toute seule d'une surface brûlante ?
+slug: pourquoi-la-main-se-retire-t-elle-toute-seule-d-une-surface-brulante
 categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
 summary: >
-  Comment certains gestes de protection echappent totalement a notre conscience.
-tags: [systeme-nerveux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un réflexe est un circuit nerveux court : le signal passe par la moelle épinière sans attendre
+  le cerveau, et un muscle réagit presque instantanément.
+tags: [systeme-nerveux]
+sources:
+  - title: "Reflex arc"
+    url: "https://en.wikipedia.org/wiki/Reflex_arc"
+    publisher: "Wikipedia"
+  - title: "Reflex"
+    url: "https://en.wikipedia.org/wiki/Reflex"
+    publisher: "Wikipedia"
+  - title: "Réflexe"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9flexe"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment s'appelle le trajet nerveux d'un réflexe ?"
+    options:
+      - "Le circuit court cérébral"
+      - "L'arc réflexe"
+      - "La chaîne de myéline"
+    answer: 2
+    explanation: >
+      Le trajet nerveux d'un réflexe s'appelle un arc réflexe.
+  - question: "Pourquoi un réflexe est-il rapide ?"
+    options:
+      - "Les nerfs vont plus vite en hiver"
+      - "Le signal n'a pas besoin de passer d'abord par le cerveau"
+      - "Le muscle décide seul"
+    answer: 2
+    explanation: >
+      Le réflexe est rapide parce que le signal n'a pas besoin de passer d'abord par le cerveau
+      : la moelle épinière active directement les neurones moteurs.
+  - question: "Quel exemple ne passe que par une seule synapse ?"
+    options:
+      - "Le réflexe rotulien"
+      - "La lecture"
+      - "Le calcul mental"
+    answer: 1
+    explanation: >
+      Dans le réflexe rotulien, un coup sur le tendon fait se contracter le muscle de la cuisse
+      ; une seule synapse relie le neurone sensitif au neurone moteur.
+  - question: "Que fait la moelle épinière dans un réflexe ?"
+    options:
+      - "Elle active directement les neurones moteurs"
+      - "Elle fabrique les anticorps"
+      - "Elle stocke le sucre"
+    answer: 1
+    explanation: >
+      Le réflexe est rapide parce que le signal n'a pas besoin de passer d'abord par le cerveau
+      : la moelle épinière active directement les neurones moteurs.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un réflexe est un circuit nerveux court : le signal passe par la moelle épinière sans attendre le cerveau, et un muscle réagit presque instantanément.
+
+## Un court-circuit nerveux
+
+Un réflexe est une réponse involontaire et presque instantanée à un stimulus. Le trajet nerveux d'un réflexe s'appelle un arc réflexe. Un récepteur sensoriel détecte le stimulus, un neurone sensitif porte le signal jusqu'à la moelle épinière, et un neurone moteur le renvoie vers un muscle, qui réagit. Le réflexe est rapide parce que le signal n'a pas besoin de passer d'abord par le cerveau : la moelle épinière active directement les neurones moteurs. Ces réponses automatiques se produisent sans pensée consciente, au moins au début. Le retrait devant une chaleur excessive peut se produire avant que la douleur ne soit ressentie.
+
+## Deux exemples
+
+Le réflexe de retrait est une réaction automatique à un stimulus douloureux, comme une brûlure. Dans le réflexe rotulien, un coup sur le tendon fait se contracter le muscle de la cuisse ; une seule synapse relie le neurone sensitif au neurone moteur. La pupille qui se resserre à la lumière est aussi un réflexe.
+
+## Simple, complexe, inné ou appris
+
+Dans les réflexes plus complexes, des neurones intermédiaires interviennent, par exemple pour bloquer le muscle opposé. Certains réflexes sont innés, d'autres s'acquièrent par l'apprentissage. Les réflexes sont affinés pour augmenter les chances de survie et de défense.
+
+## À retenir
+
+- Le trajet nerveux d'un réflexe s'appelle un arc réflexe.
+- Un neurone sensitif porte le signal à la moelle épinière ; un neurone moteur le renvoie vers un muscle, qui réagit.
+- Le réflexe est rapide : le signal n'a pas besoin de passer d'abord par le cerveau, la moelle épinière active les neurones moteurs.
+- Le réflexe de retrait est une réaction automatique à un stimulus douloureux, comme une brûlure.
+- Dans les réflexes plus complexes, des neurones intermédiaires interviennent, par exemple pour bloquer le muscle opposé.
 
 ---
 type: article
@@ -5879,18 +6358,90 @@ status: planned
 
 ---
 type: article
-title: Les poumons, structure et fonctionnement
-slug: les-poumons-structure-et-fonctionnement
+title: Comment les poumons font-ils passer l'oxygène de l'air dans le sang ?
+slug: comment-les-poumons-font-ils-passer-l-oxygene-de-l-air-dans-le-sang
 categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
 summary: >
-  Un organe complexe organise en millions de petites poches d'echange gazeux.
-tags: [systeme-respiratoire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'air descend dans des voies qui se ramifient jusqu'à des sacs minuscules, les alvéoles. Là,
+  l'oxygène passe dans le sang et le dioxyde de carbone en sort.
+tags: [systeme-respiratoire]
+sources:
+  - title: "How the Lungs Work"
+    url: "https://www.nhlbi.nih.gov/health/lungs/respiratory-system"
+    publisher: "NHLBI, Instituts nationaux de la santé (États-Unis)"
+  - title: "Gas exchange"
+    url: "https://medlineplus.gov/ency/anatomyvideos/000059.htm"
+    publisher: "MedlinePlus, Bibliothèque nationale de médecine des États-Unis"
+  - title: "Poumon"
+    url: "https://fr.wikipedia.org/wiki/Poumon"
+    publisher: "Wikipédia"
+  - title: "Lung"
+    url: "https://en.wikipedia.org/wiki/Lung"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment s'appellent les minuscules sacs où se fait l'échange gazeux ?"
+    options:
+      - "Les alvéoles"
+      - "Les bronches"
+      - "Les plèvres"
+    answer: 1
+    explanation: >
+      Les voies aériennes se ramifient à de nombreuses reprises, des bronches aux bronchioles,
+      et se terminent par de minuscules sacs, les alvéoles.
+  - question: "Que fait l'oxygène dans les alvéoles ?"
+    options:
+      - "Il passe du sang vers l'air"
+      - "Il reste dans l'air"
+      - "Il passe de l'air vers le sang"
+    answer: 3
+    explanation: >
+      À cet endroit, l'oxygène passe de l'air vers le sang, et le dioxyde de carbone passe du
+      sang vers l'air, par simple diffusion.
+  - question: "Que fait le diaphragme pour inspirer ?"
+    options:
+      - "Il se relâche"
+      - "Il se contracte, ce qui agrandit la cage thoracique"
+      - "Il pompe l'air avec les poumons"
+    answer: 2
+    explanation: >
+      Pour inspirer, le diaphragme et les muscles intercostaux se contractent : le volume de la
+      cage thoracique augmente et l'air entre.
+  - question: "L'expiration normale demande-t-elle un effort musculaire ?"
+    options:
+      - "Oui, toujours"
+      - "Seulement la nuit"
+      - "Non, elle est passive"
+    answer: 3
+    explanation: >
+      L'expiration normale est passive : les muscles se relâchent et le poumon reprend sa forme
+      grâce à son élasticité.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'air descend dans des voies qui se ramifient jusqu'à des sacs minuscules, les alvéoles. Là, l'oxygène passe dans le sang et le dioxyde de carbone en sort.
+
+## Un arbre qui finit en ballons
+
+L'air entre par le nez ou la bouche, où il est réchauffé et humidifié, puis descend par la trachée et les bronches jusqu'aux poumons. Les voies aériennes se ramifient à de nombreuses reprises, des bronches aux bronchioles, et se terminent par de minuscules sacs, les alvéoles. La paroi des alvéoles est très fine et collée aux capillaires, des vaisseaux sanguins minuscules. Le grand nombre d'alvéoles offre une surface d'échange immense.
+
+## L'échange
+
+Les poumons apportent de l'oxygène au corps et en retirent le dioxyde de carbone. À cet endroit, l'oxygène passe de l'air vers le sang, et le dioxyde de carbone passe du sang vers l'air, par simple diffusion. L'oxygène se fixe sur les globules rouges, qui le portent vers le cœur puis vers les organes.
+
+## Respirer sans y penser
+
+Pour inspirer, le diaphragme et les muscles intercostaux se contractent : le volume de la cage thoracique augmente et l'air entre. L'expiration normale est passive : les muscles se relâchent et le poumon reprend sa forme grâce à son élasticité. Une substance appelée surfactant aide les poumons à se gonfler et les empêche de s'affaisser. Une double membrane, la plèvre, enveloppe les poumons, et un liquide la lubrifie à chaque respiration.
+
+## À retenir
+
+- Les voies aériennes se ramifient à de nombreuses reprises, des bronches aux bronchioles, et se terminent par de minuscules sacs, les alvéoles.
+- La paroi des alvéoles est très fine et collée aux capillaires, des vaisseaux sanguins minuscules.
+- À cet endroit, l'oxygène passe de l'air vers le sang, et le dioxyde de carbone passe du sang vers l'air, par simple diffusion.
+- Pour inspirer, le diaphragme et les muscles intercostaux se contractent : le volume de la cage thoracique augmente et l'air entre.
+- L'expiration normale est passive : les muscles se relâchent et le poumon reprend sa forme grâce à son élasticité.
 
 ---
 type: article
@@ -9930,18 +10481,85 @@ status: planned
 
 ---
 type: article
-title: Le fonctionnement de l'estomac et la secretion des sucs gastriques
-slug: le-fonctionnement-de-l-estomac-et-la-secretion-des-sucs-gastriques
+title: Pourquoi l'estomac ne se digère-t-il pas lui-même ?
+slug: pourquoi-l-estomac-ne-se-digere-t-il-pas-lui-meme
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
-  Un organe musculaire qui melange et decompose chimiquement les aliments ingeres.
-tags: [systeme-digestif, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'estomac baigne les aliments dans un acide fort et des enzymes. Il ne se digère pas lui-même,
+  car sa paroi sécrète une couche de mucus qui la protège.
+tags: [systeme-digestif]
+sources:
+  - title: "Your Digestive System and How It Works"
+    url: "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works"
+    publisher: "NIDDK, Instituts nationaux de la santé (États-Unis)"
+  - title: "Estomac"
+    url: "https://fr.wikipedia.org/wiki/Estomac"
+    publisher: "Wikipédia"
+  - title: "Stomach"
+    url: "https://en.wikipedia.org/wiki/Stomach"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui protège la paroi de l'estomac de l'acide ?"
+    options:
+      - "Une peau de métal"
+      - "L'eau du repas"
+      - "Une couche de mucus et de bicarbonate"
+    answer: 3
+    explanation: >
+      Une couche de mucus et de bicarbonate, sécrétée par la paroi, la protège de l'acide.
+  - question: "Que fait la pepsine ?"
+    options:
+      - "Elle coupe les protéines en morceaux plus petits"
+      - "Elle fabrique la bile"
+      - "Elle absorbe l'eau"
+    answer: 1
+    explanation: >
+      Le suc gastrique contient de l'acide chlorhydrique et des enzymes comme la pepsine, qui
+      coupe les protéines en morceaux plus petits.
+  - question: "Comment s'appelle la pâte formée dans l'estomac ?"
+    options:
+      - "Le bol alimentaire sec"
+      - "Le chyme"
+      - "La bile"
+    answer: 2
+    explanation: >
+      Ses contractions brassent les aliments avec le suc gastrique, ce qui les transforme en une
+      pâte appelée chyme.
+  - question: "Où se fait l'essentiel de l'absorption des nutriments ?"
+    options:
+      - "Dans l'estomac"
+      - "Dans l'intestin grêle"
+      - "Dans la bouche"
+    answer: 2
+    explanation: >
+      L'essentiel de l'absorption des nutriments se fait plus loin, dans l'intestin grêle.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'estomac baigne les aliments dans un acide fort et des enzymes. Il ne se digère pas lui-même, car sa paroi sécrète une couche de mucus qui la protège.
+
+## Un sac musculaire
+
+L'estomac est un organe musculaire creux, situé entre l'œsophage et l'intestin grêle. Ses contractions brassent les aliments avec le suc gastrique, ce qui les transforme en une pâte appelée chyme. Deux sphincters contrôlent l'entrée et la sortie de l'estomac : celui de l'œsophage en haut et le pylore en bas. Le pylore laisse passer le chyme petit à petit dans l'intestin grêle.
+
+## Un bain d'acide, un bouclier de mucus
+
+Le suc gastrique contient de l'acide chlorhydrique et des enzymes comme la pepsine, qui coupe les protéines en morceaux plus petits. L'estomac est un milieu très acide. Une couche de mucus et de bicarbonate, sécrétée par la paroi, la protège de l'acide. Une bactérie, Helicobacter pylori, peut infecter la paroi de l'estomac et provoquer une gastrite ou un ulcère.
+
+## Et ensuite ?
+
+Des cellules de l'estomac fabriquent aussi le facteur intrinsèque, nécessaire à l'absorption de la vitamine B12 dans l'intestin grêle. L'essentiel de l'absorption des nutriments se fait plus loin, dans l'intestin grêle.
+
+## À retenir
+
+- Ses contractions brassent les aliments avec le suc gastrique, ce qui les transforme en une pâte appelée chyme.
+- Le suc gastrique contient de l'acide chlorhydrique et des enzymes comme la pepsine, qui coupe les protéines en morceaux plus petits.
+- Une couche de mucus et de bicarbonate, sécrétée par la paroi, la protège de l'acide.
+- Le pylore laisse passer le chyme petit à petit dans l'intestin grêle.
+- Des cellules de l'estomac fabriquent aussi le facteur intrinsèque, nécessaire à l'absorption de la vitamine B12 dans l'intestin grêle.
 
 ---
 type: article

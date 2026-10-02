@@ -282,9 +282,9 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le cholest�
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'AVC;avc;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le sang et ses composants;sang-composants;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les groupes sanguins;groupes-sanguins;2;non;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le neurone et la synapse;neurone-synapse;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Comment un neurone envoie-t-il un message à un autre neurone ?;comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone;2;non;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La maladie d'Alzheimer;maladie-alzheimer;2;non;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La douleur;douleur;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;À quoi sert la douleur ?;a-quoi-sert-la-douleur;2;non;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Les cinq sens, et les autres;cinq-sens-autres;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La maladie de Parkinson;maladie-parkinson;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;L'épilepsie;epilepsie;2;non;planned
@@ -294,7 +294,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Le tabac et les
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;La tuberculose;tuberculose;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Respirer en altitude;respirer-altitude;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;L'oxygène à l'hôpital;oxygene-hopital;2;non;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le foie, usine chimique du corps;foie-usine-chimique-corps;2;non;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Que fait le foie, l'usine chimique du corps ?;que-fait-le-foie-l-usine-chimique-du-corps;2;non;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les intolérances et allergies alimentaires;intolerances-allergies-alimentaires;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;L'ulcère et la bactérie Helicobacter;ulcere-bacterie-helicobacter;2;non;planned
 corps-humain;corps-humain-et-sante/physiologie/immunite;Les maladies auto-immunes;maladies-auto-immunes;2;non;planned
@@ -310,10 +310,10 @@ corps-humain;corps-humain-et-sante/physiologie/microbiote;Les fibres alimentaire
 corps-humain;corps-humain-et-sante/physiologie/sommeil;L'insomnie;insomnie;2;non;planned
 corps-humain;corps-humain-et-sante/physiologie/sommeil;Les rêves;reves;2;non;planned
 corps-humain;corps-humain-et-sante/physiologie/sommeil;L'apnée du sommeil;apnee-sommeil;2;non;planned
-corps-humain;corps-humain-et-sante/physiologie/sommeil;L'horloge biologique;horloge-biologique;2;non;planned
+corps-humain;corps-humain-et-sante/physiologie/sommeil;Comment le corps sait-il l'heure sans regarder une montre ?;comment-le-corps-sait-il-l-heure-sans-regarder-une-montre;2;non;published
 corps-humain;corps-humain-et-sante/physiologie/sommeil;Les écrans et le sommeil;ecrans-sommeil;2;non;planned
 corps-humain;corps-humain-et-sante/physiologie/sommeil;La sieste;sieste;2;non;planned
-corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;Le cancer, comment il apparaît;cancer-apparait;2;non;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;Comment une cellule normale devient-elle une cellule cancéreuse ?;comment-une-cellule-normale-devient-elle-une-cellule-cancereuse;2;non;published
 corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;L'insuffisance cardiaque;insuffisance-cardiaque;2;non;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;Les maladies rénales chroniques;maladies-renales-chroniques;2;non;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-chroniques;L'arthrose;arthrose;2;non;planned
@@ -2922,7 +2922,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le systeme 
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'oedeme, quand les fluides s'accumulent;l-oedeme-quand-les-fluides-s-accumulent;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le choc hemorragique, reconnaitre l'urgence;le-choc-hemorragique-reconnaitre-l-urgence;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le garrot, comment et quand l'utiliser;le-garrot-comment-et-quand-l-utiliser;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;La coagulation sanguine, un mecanisme de protection;la-coagulation-sanguine-un-mecanisme-de-protection;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Comment le sang s'arrête-t-il de couler tout seul après une coupure ?;comment-le-sang-s-arrete-t-il-de-couler-tout-seul-apres-une-coupure;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les anticoagulants et leur role therapeutique;les-anticoagulants-et-leur-role-therapeutique;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le rythme cardiaque au repos et a l'effort;le-rythme-cardiaque-au-repos-et-a-l-effort;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'activite physique et la sante du coeur;l-activite-physique-et-la-sante-du-coeur;2;oui;planned
@@ -2981,7 +2981,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le cerveau, les gran
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La moelle epiniere et la transmission de l'information;la-moelle-epiniere-et-la-transmission-de-l-information;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Les nerfs peripheriques et leur role;les-nerfs-peripheriques-et-leur-role;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le systeme nerveux autonome et ses deux branches;le-systeme-nerveux-autonome-et-ses-deux-branches;2;non;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le reflexe, une reponse rapide sans passer par le cerveau;le-reflexe-une-reponse-rapide-sans-passer-par-le-cerveau;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Pourquoi la main se retire-t-elle toute seule d'une surface brûlante ?;pourquoi-la-main-se-retire-t-elle-toute-seule-d-une-surface-brulante;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La commotion cerebrale, gravite et suivi;la-commotion-cerebrale-gravite-et-suivi;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Les traumatismes craniens et leur prise en charge;les-traumatismes-craniens-et-leur-prise-en-charge;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La sciatique, une douleur nerveuse frequente;la-sciatique-une-douleur-nerveuse-frequente;3;non;planned
@@ -3007,7 +3007,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le nerf sciatique et
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La regeneration nerveuse apres une lesion;la-regeneration-nerveuse-apres-une-lesion;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le developpement du systeme nerveux chez le foetus;le-developpement-du-systeme-nerveux-chez-le-foetus;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;La douleur chronique et sa prise en charge;la-douleur-chronique-et-sa-prise-en-charge;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Les poumons, structure et fonctionnement;les-poumons-structure-et-fonctionnement;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Comment les poumons font-ils passer l'oxygène de l'air dans le sang ?;comment-les-poumons-font-ils-passer-l-oxygene-de-l-air-dans-le-sang;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Le diaphragme, le muscle principal de la respiration;le-diaphragme-le-muscle-principal-de-la-respiration;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;La respiration abdominale et ses benefices;la-respiration-abdominale-et-ses-benefices;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-respiratoire;Les bronches et leur ramification;les-bronches-et-leur-ramification;2;non;planned
@@ -8619,7 +8619,7 @@ communication;communication-et-medias/telecommunications/satellites;La cooperati
 communication;communication-et-medias/telecommunications/satellites;Les satellites de telecommunication et leur usage pour la connectivite maritime commerciale;les-satellites-de-telecommunication-et-leur-usage-pour-la-connectivite-maritime-commerciale;3;non;planned
 communication;communication-et-medias/telecommunications/satellites;L'avenir des satellites de telecommunication face a la multiplication des constellations privees;l-avenir-des-satellites-de-telecommunication-face-a-la-multiplication-des-constellations-privees;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le role de la salive dans la premiere etape de la digestion;le-role-de-la-salive-dans-la-premiere-etape-de-la-digestion;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le fonctionnement de l'estomac et la secretion des sucs gastriques;le-fonctionnement-de-l-estomac-et-la-secretion-des-sucs-gastriques;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Pourquoi l'estomac ne se digère-t-il pas lui-même ?;pourquoi-l-estomac-ne-se-digere-t-il-pas-lui-meme;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le role du foie dans la digestion des graisses;le-role-du-foie-dans-la-digestion-des-graisses;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La vesicule biliaire et le stockage de la bile;la-vesicule-biliaire-et-le-stockage-de-la-bile;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le pancreas et la production d'enzymes digestives;le-pancreas-et-la-production-d-enzymes-digestives;2;oui;planned
