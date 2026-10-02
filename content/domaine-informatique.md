@@ -1509,18 +1509,86 @@ alternatif à fournir ultérieurement.]
 
 ---
 type: article
-title: Le transistor
-slug: transistor
+title: Comment un transistor, minuscule interrupteur, fait-il fonctionner un ordinateur ?
+slug: comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  L'interrupteur électronique inventé en 1947, brique de base de toute l'informatique.
+  Un transistor est un interrupteur sans pièce mobile : une petite tension sur la grille ouvre
+  ou ferme le passage d'un courant plus grand. En les associant par milliards, on fait des
+  processeurs.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Transistor"
+    url: "https://fr.wikipedia.org/wiki/Transistor"
+    publisher: "Wikipédia"
+  - title: "Transistor"
+    url: "https://en.wikipedia.org/wiki/Transistor"
+    publisher: "Wikipedia"
+  - title: "MOSFET"
+    url: "https://en.wikipedia.org/wiki/MOSFET"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait la tension sur la grille d'un MOSFET ?"
+    options:
+      - "Elle crée ou supprime un canal conducteur"
+      - "Elle chauffe le composant"
+      - "Elle émet de la lumière"
+    answer: 1
+    explanation: >
+      Dans un transistor MOSFET, la tension sur la grille crée ou supprime un canal conducteur
+      entre la source et le drain.
+  - question: "Que construit-on en associant des transistors ?"
+    options:
+      - "Des aimants"
+      - "Des portes logiques"
+      - "Des écrans tactiles uniquement"
+    answer: 2
+    explanation: >
+      En associant des transistors, on construit des portes logiques, qui sont la base du calcul
+      numérique.
+  - question: "Qu'ont remplacé les transistors ?"
+    options:
+      - "Les piles"
+      - "Les tubes à vide"
+      - "Les fils de cuivre"
+    answer: 2
+    explanation: >
+      Les transistors ont remplacé les tubes à vide, plus gros et moins efficaces.
+  - question: "Que contient un processeur moderne ?"
+    options:
+      - "Une dizaine de transistors"
+      - "Des milliards de transistors"
+      - "Aucun transistor"
+    answer: 2
+    explanation: >
+      Un processeur moderne contient des milliards de transistors.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un transistor est un interrupteur sans pièce mobile : une petite tension sur la grille ouvre ou ferme le passage d'un courant plus grand. En les associant par milliards, on fait des processeurs.
+
+## Trois bornes, un contrôle
+
+Un transistor est un composant à semi-conducteur, avec au moins trois bornes, qui sert à amplifier ou à commuter des signaux électriques. Un petit signal appliqué à une borne commande un courant plus grand entre deux autres bornes. Dans un transistor MOSFET, la tension sur la grille crée ou supprime un canal conducteur entre la source et le drain. Il peut ainsi servir d'interrupteur commandé, ouvert ou fermé, ou d'amplificateur. La grille est isolée par une fine couche d'oxyde : elle demande presque aucun courant pour commander le courant principal.
+
+## Des transistors à l'ordinateur
+
+En associant des transistors, on construit des portes logiques, qui sont la base du calcul numérique. La logique CMOS utilise des paires de transistors complémentaires, ce qui limite la consommation des circuits numériques. Un processeur moderne contient des milliards de transistors. Les fabricants ont réduit la longueur des canaux, de micromètres à quelques dizaines de nanomètres, en suivant la loi de Moore.
+
+## Une invention qui a tout changé
+
+Les transistors ont remplacé les tubes à vide, plus gros et moins efficaces. Les premiers transistors sont nés aux Bell Labs, et leurs inventeurs, Bardeen, Brattain et Shockley, ont reçu un prix Nobel de physique. Le MOSFET est le composant électronique le plus fabriqué de l'histoire.
+
+## À retenir
+
+- Un petit signal appliqué à une borne commande un courant plus grand entre deux autres bornes.
+- Dans un transistor MOSFET, la tension sur la grille crée ou supprime un canal conducteur entre la source et le drain.
+- Il peut ainsi servir d'interrupteur commandé, ouvert ou fermé, ou d'amplificateur.
+- En associant des transistors, on construit des portes logiques, qui sont la base du calcul numérique.
+- Un processeur moderne contient des milliards de transistors.
 
 ---
 
@@ -5719,18 +5787,88 @@ status: planned
 
 ---
 type: article
-title: L'ecran tactile, principe de fonctionnement
-slug: l-ecran-tactile-principe-de-fonctionnement
+title: Comment un écran tactile sent-il votre doigt ?
+slug: comment-un-ecran-tactile-sent-il-votre-doigt
 categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
 summary: >
-  Comment un ecran detecte precisement l'endroit ou on le touche.
+  Un écran capacitif contient une grille d'électrodes. Le corps humain conduit l'électricité :
+  un doigt perturbe le champ électrique à l'endroit touché, et l'appareil en déduit la position.
 tags: [peripheriques-et-ecrans]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "How do touch-sensitive screens work?"
+    url: "https://engineering.mit.edu/ask-an-engineer/how-do-touch-sensitive-screens-work"
+    publisher: "MIT, Ask an Engineer"
+  - title: "Écran tactile"
+    url: "https://fr.wikipedia.org/wiki/%C3%89cran_tactile"
+    publisher: "Wikipédia"
+  - title: "Touchscreen"
+    url: "https://en.wikipedia.org/wiki/Touchscreen"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que détecte un écran capacitif ?"
+    options:
+      - "Un doigt, car le corps conduit l'électricité"
+      - "Seulement la pression"
+      - "La chaleur de la main"
+    answer: 1
+    explanation: >
+      Le corps humain conduit l'électricité, et c'est ce que détectent les écrans capacitifs.
+  - question: "Comment fonctionne un écran résistif ?"
+    options:
+      - "Deux couches se touchent là où l'on appuie"
+      - "Il lit les empreintes"
+      - "Il mesure la lumière de la pièce"
+    answer: 1
+    explanation: >
+      Dans un écran résistif, deux couches transparentes se font face, séparées par un mince
+      espace ; en appuyant, on les met en contact à cet endroit, et l'appareil repère la
+      position.
+  - question: "Pourquoi un gant ordinaire ne marche-t-il pas sur un écran capacitif simple ?"
+    options:
+      - "Il est trop chaud"
+      - "Il est isolant"
+      - "Il est trop épais pour entrer dans la grille"
+    answer: 2
+    explanation: >
+      Un écran capacitif simple ne détecte pas un doigt à travers un matériau isolant comme un
+      gant ; les écrans capacitifs projetés détectent un doigt proche et permettent de toucher à
+      plusieurs doigts.
+  - question: "Par où le circuit se ferme-t-il ?"
+    options:
+      - "Par le corps, jusqu'à la masse de l'appareil"
+      - "Par le Wi-Fi"
+      - "Par la batterie seule"
+    answer: 1
+    explanation: >
+      Le circuit se ferme par le corps, par exemple quand on tient l'appareil de l'autre main,
+      jusqu'à la face arrière reliée à la masse.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un écran capacitif contient une grille d'électrodes. Le corps humain conduit l'électricité : un doigt perturbe le champ électrique à l'endroit touché, et l'appareil en déduit la position.
+
+## Deux familles d'écrans
+
+Il existe surtout deux familles d'écrans tactiles : les résistifs, sensibles à la pression, et les capacitifs, sensibles au doigt. Dans un écran résistif, deux couches transparentes se font face, séparées par un mince espace ; en appuyant, on les met en contact à cet endroit, et l'appareil repère la position.
+
+## Le doigt, un conducteur
+
+Le corps humain conduit l'électricité, et c'est ce que détectent les écrans capacitifs. La surface contient une grille d'électrodes, et l'appareil y envoie un très faible courant alternatif. Quand le doigt touche l'écran, il crée un lien capacitif : un courant induit passe dans le corps et complète le circuit. Le toucher déforme le champ électrostatique de l'écran, ce qui se mesure comme un changement de capacité. Le circuit se ferme par le corps, par exemple quand on tient l'appareil de l'autre main, jusqu'à la face arrière reliée à la masse. Le courant reste dans les niveaux naturels de conduction du corps, sans danger, et un microcontrôleur très rapide lit les mesures.
+
+## Gants et origines
+
+Un écran capacitif simple ne détecte pas un doigt à travers un matériau isolant comme un gant ; les écrans capacitifs projetés détectent un doigt proche et permettent de toucher à plusieurs doigts. Les premiers travaux publiés sur les écrans tactiles capacitifs sont ceux d'Eric Johnson, au Royal Radar Establishment.
+
+## À retenir
+
+- Dans un écran résistif, deux couches transparentes se touchent là où l'on appuie, et l'appareil repère la position.
+- Le corps humain conduit l'électricité, et c'est ce que détectent les écrans capacitifs.
+- Quand le doigt touche l'écran, il crée un lien capacitif : un courant induit passe dans le corps et complète le circuit.
+- Le circuit se ferme par le corps, par exemple quand on tient l'appareil de l'autre main, jusqu'à la face arrière reliée à la masse.
+- Un écran capacitif simple ne détecte pas un doigt à travers un gant ; les écrans projetés gèrent le toucher à plusieurs doigts.
 
 ---
 type: article
@@ -6664,18 +6802,87 @@ status: planned
 
 ---
 type: article
-title: La blockchain, principe technique fondamental
-slug: la-blockchain-principe-technique-fondamental
+title: Comment une chaîne de blocs rend-elle le passé presque impossible à modifier ?
+slug: comment-une-chaine-de-blocs-rend-elle-le-passe-presque-impossible-a-modifier
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
 summary: >
-  Un registre distribue et infalsifiable, base sur des mecanismes cryptographiques.
+  Chaque bloc contient l'empreinte du bloc précédent. Changer un vieux bloc change son empreinte
+  et casse tous les suivants. Un réseau d'ordinateurs doit en plus se mettre d'accord.
 tags: [chiffrement]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Chaîne de blocs"
+    url: "https://fr.wikipedia.org/wiki/Cha%C3%AEne_de_blocs"
+    publisher: "Wikipédia"
+  - title: "Blockchain"
+    url: "https://en.wikipedia.org/wiki/Blockchain"
+    publisher: "Wikipedia"
+  - title: "Cryptographic hash function"
+    url: "https://en.wikipedia.org/wiki/Cryptographic_hash_function"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que contient chaque bloc en plus des transactions ?"
+    options:
+      - "L'empreinte du bloc précédent"
+      - "Le mot de passe du réseau"
+      - "La photo de l'auteur"
+    answer: 1
+    explanation: >
+      Chaque bloc contient l'empreinte du bloc précédent, un horodatage et les données des
+      transactions.
+  - question: "Que se passe-t-il si l'on modifie un vieux bloc ?"
+    options:
+      - "Rien, le réseau ne voit rien"
+      - "Son empreinte change et les blocs suivants deviennent invalides"
+      - "Les blocs suivants se corrigent seuls"
+    answer: 2
+    explanation: >
+      Modifier un ancien bloc changerait son empreinte et rendrait invalides tous les blocs
+      suivants : il faudrait tout refaire et obtenir l'accord du réseau.
+  - question: "Qu'est-ce que le consensus ?"
+    options:
+      - "Un mot de passe commun"
+      - "Un contrat papier"
+      - "L'accord du réseau pour valider un nouveau bloc"
+    answer: 3
+    explanation: >
+      Les nœuds du réseau suivent un algorithme de consensus pour valider les nouveaux blocs,
+      comme la preuve de travail ou la preuve d'enjeu.
+  - question: "Quel mécanisme consomme beaucoup d'énergie ?"
+    options:
+      - "La preuve d'enjeu"
+      - "La preuve de travail"
+      - "Le hachage d'un seul mot"
+    answer: 2
+    explanation: >
+      La preuve de travail consomme beaucoup d'énergie, alors que la preuve d'enjeu en consomme
+      bien moins.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chaque bloc contient l'empreinte du bloc précédent. Changer un vieux bloc change son empreinte et casse tous les suivants. Un réseau d'ordinateurs doit en plus se mettre d'accord.
+
+## Une empreinte pour chaque bloc
+
+Une chaîne de blocs est une base de données distribuée, sans autorité centrale, qui enregistre des transactions regroupées en blocs liés par cryptographie. Une fonction de hachage transforme des données de n'importe quelle taille en une empreinte de taille fixe. Changer une seule lettre des données change complètement l'empreinte. Une empreinte se calcule facilement, mais il est pratiquement impossible de retrouver les données à partir d'elle.
+
+## Un passé verrouillé
+
+Chaque bloc contient l'empreinte du bloc précédent, un horodatage et les données des transactions. Modifier un ancien bloc changerait son empreinte et rendrait invalides tous les blocs suivants : il faudrait tout refaire et obtenir l'accord du réseau. Le registre est copié sur un réseau d'ordinateurs égaux entre eux, sans serveur central. Les nœuds du réseau suivent un algorithme de consensus pour valider les nouveaux blocs, comme la preuve de travail ou la preuve d'enjeu.
+
+## Énergie, usages et limites
+
+La preuve de travail consomme beaucoup d'énergie, alors que la preuve d'enjeu en consomme bien moins. La première chaîne de blocs décentralisée, conçue par Satoshi Nakamoto, a servi de base au Bitcoin. Les usages dépassent les cryptomonnaies : chaîne d'approvisionnement, droits musicaux, données de santé. L'impossibilité d'effacer une donnée pose des questions de protection des données, comme le droit à l'oubli du RGPD.
+
+## À retenir
+
+- Changer une seule lettre des données change complètement l'empreinte.
+- Modifier un ancien bloc changerait son empreinte et invaliderait tous les blocs suivants.
+- Les nœuds du réseau suivent un algorithme de consensus pour valider les nouveaux blocs, comme la preuve de travail ou la preuve d'enjeu.
+- La preuve de travail consomme beaucoup d'énergie, alors que la preuve d'enjeu en consomme bien moins.
+- L'impossibilité d'effacer une donnée pose des questions de protection des données, comme le droit à l'oubli du RGPD.
 
 ---
 type: article

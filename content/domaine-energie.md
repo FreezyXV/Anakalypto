@@ -3685,18 +3685,87 @@ ultérieurement.]
 
 ---
 type: article
-title: L'éclairage LED
-slug: eclairage-led
+title: Comment une LED fabrique-t-elle de la lumière sans chauffer de filament ?
+slug: comment-une-led-fabrique-t-elle-de-la-lumiere-sans-chauffer-de-filament
 categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
 summary: >
-  Dix fois moins d'énergie qu'une ampoule à incandescence : l'une des révolutions d'efficacité les plus rapides.
+  Dans une LED, des électrons retombent dans des trous d'un semi-conducteur et libèrent leur
+  énergie en photons. La couleur dépend du matériau. Peu d'énergie part en chaleur.
 tags: [efficacite-energetique]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Diode électroluminescente"
+    url: "https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente"
+    publisher: "Wikipédia"
+  - title: "Light-emitting diode"
+    url: "https://en.wikipedia.org/wiki/Light-emitting_diode"
+    publisher: "Wikipedia"
+  - title: "Incandescent light bulb"
+    url: "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment une LED produit-elle de la lumière ?"
+    options:
+      - "Un filament devient rouge"
+      - "Un gaz s'enflamme"
+      - "Des électrons se recombinent avec des trous et libèrent des photons"
+    answer: 3
+    explanation: >
+      Dans le semi-conducteur, des électrons se recombinent avec des trous d'électrons et
+      libèrent leur énergie sous forme de photons : c'est l'électroluminescence.
+  - question: "Qu'est-ce qui détermine la couleur d'une LED ?"
+    options:
+      - "La largeur de la bande interdite du semi-conducteur"
+      - "La taille de l'ampoule"
+      - "Le prix du boîtier"
+    answer: 1
+    explanation: >
+      La couleur de la lumière dépend de la largeur de la bande interdite du semi-conducteur,
+      donc du matériau utilisé.
+  - question: "Comment fait-on de la lumière blanche avec une LED ?"
+    options:
+      - "Une LED bleue recouverte d'un luminophore"
+      - "Une LED noire"
+      - "Un filament dans la LED"
+    answer: 1
+    explanation: >
+      Les LED blanches utilisent le plus souvent une LED bleue ou ultraviolette, recouverte d'un
+      luminophore qui convertit sa lumière en lumière blanche.
+  - question: "Où va l'essentiel de l'énergie d'une ampoule à incandescence ?"
+    options:
+      - "En chaleur"
+      - "En lumière visible"
+      - "Dans le verre"
+    answer: 1
+    explanation: >
+      Dans une ampoule à incandescence, la plus grande partie de l'énergie part en chaleur et
+      très peu devient de la lumière visible.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans une LED, des électrons retombent dans des trous d'un semi-conducteur et libèrent leur énergie en photons. La couleur dépend du matériau. Peu d'énergie part en chaleur.
+
+## Des électrons qui donnent de la lumière
+
+Une diode électroluminescente, ou LED, est un composant à semi-conducteur qui émet de la lumière quand un courant la traverse. Dans le semi-conducteur, des électrons se recombinent avec des trous d'électrons et libèrent leur énergie sous forme de photons : c'est l'électroluminescence. La LED contient une jonction entre un matériau riche en électrons et un matériau riche en trous. La couleur de la lumière dépend de la largeur de la bande interdite du semi-conducteur, donc du matériau utilisé. Les LED blanches utilisent le plus souvent une LED bleue ou ultraviolette, recouverte d'un luminophore qui convertit sa lumière en lumière blanche. Isamu Akasaki, Hiroshi Amano et Shuji Nakamura ont reçu le prix Nobel de physique pour l'invention des LED bleues, qui a permis un éclairage blanc économe.
+
+## L'ancienne ampoule
+
+Une ampoule à incandescence fait passer un courant dans un filament de tungstène, chauffé jusqu'à ce qu'il brille. Dans une ampoule à incandescence, la plus grande partie de l'énergie part en chaleur et très peu devient de la lumière visible. À cause de leur faible rendement, de nombreux États ont limité ou interdit les ampoules à incandescence.
+
+## Pourquoi la LED gagne
+
+Une LED convertit bien mieux l'électricité en lumière : consommation plus faible, moins de chaleur perdue et durée de vie plus longue. Une LED s'allume et s'éteint presque instantanément. Les LED sont aussi plus petites et plus robustes qu'une ampoule à filament.
+
+## À retenir
+
+- Dans le semi-conducteur, des électrons se recombinent avec des trous d'électrons et libèrent leur énergie sous forme de photons : c'est l'électroluminescence.
+- La couleur de la lumière dépend de la largeur de la bande interdite du semi-conducteur, donc du matériau utilisé.
+- Une LED blanche est le plus souvent une LED bleue recouverte d'un luminophore qui la convertit en lumière blanche.
+- Dans une ampoule à incandescence, la plus grande partie de l'énergie part en chaleur et très peu devient de la lumière visible.
+- Une LED convertit bien mieux l'électricité en lumière : consommation plus faible, moins de chaleur perdue et durée de vie plus longue.
 
 ---
 

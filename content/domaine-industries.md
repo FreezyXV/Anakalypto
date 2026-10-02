@@ -5439,18 +5439,88 @@ status: planned
 
 ---
 type: article
-title: Le code-barres, invention et fonctionnement
-slug: le-code-barres-invention-et-fonctionnement
+title: Comment une caisse lit-elle un code-barres ?
+slug: comment-une-caisse-lit-elle-un-code-barres
 categoryPath: industries/industrie-manufacturiere/chaine-logistique
 summary: >
-  Une technologie simple qui a transforme la gestion des stocks et des ventes.
-tags: [chaine-logistique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un code-barres est une suite de barres et d'espaces de largeurs variées. Un lecteur envoie de
+  la lumière : les barres noires l'absorbent, les espaces clairs la renvoient, et le motif donne
+  un numéro.
+tags: [chaine-logistique]
+sources:
+  - title: "Code-barres"
+    url: "https://fr.wikipedia.org/wiki/Code-barres"
+    publisher: "Wikipédia"
+  - title: "Barcode"
+    url: "https://en.wikipedia.org/wiki/Barcode"
+    publisher: "Wikipedia"
+  - title: "Universal Product Code"
+    url: "https://en.wikipedia.org/wiki/Universal_Product_Code"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que font les barres noires d'un code-barres ?"
+    options:
+      - "Elles la réfléchissent"
+      - "Elles absorbent la lumière"
+      - "Elles l'amplifient"
+    answer: 2
+    explanation: >
+      Un lecteur éclaire le code, avec un laser ou une caméra : les barres noires absorbent la
+      lumière et les espaces clairs la réfléchissent.
+  - question: "À quoi sert le chiffre de contrôle ?"
+    options:
+      - "À indiquer le prix"
+      - "À donner la date de fabrication"
+      - "À détecter des erreurs de lecture ou de saisie"
+    answer: 3
+    explanation: >
+      Le dernier chiffre est un chiffre de contrôle, qui permet de détecter les erreurs
+      courantes de lecture ou de saisie.
+  - question: "Qu'est-ce qu'un code QR ?"
+    options:
+      - "Un code à deux dimensions"
+      - "Un code à une seule barre"
+      - "Un code réservé aux livres"
+    answer: 1
+    explanation: >
+      Il existe des codes à une dimension, comme l'EAN-13 ou le Code 128, et des codes à deux
+      dimensions, comme le code QR ou le DataMatrix.
+  - question: "Qui a inspiré l'idée aux inventeurs ?"
+    options:
+      - "Le code Morse"
+      - "Le code Braille"
+      - "Le code de la route"
+    answer: 1
+    explanation: >
+      Le code-barres a été inventé par Norman Woodland et Bernard Silver, qui se sont inspirés
+      du code Morse.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un code-barres est une suite de barres et d'espaces de largeurs variées. Un lecteur envoie de la lumière : les barres noires l'absorbent, les espaces clairs la renvoient, et le motif donne un numéro.
+
+## Des traits qui parlent
+
+Un code-barres représente des données sous la forme de barres et d'espaces de largeurs variables, lisibles par une machine. Un lecteur éclaire le code, avec un laser ou une caméra : les barres noires absorbent la lumière et les espaces clairs la réfléchissent. Dans un code UPC, chaque chiffre est codé par deux barres et deux espaces de largeurs choisies. Le dernier chiffre est un chiffre de contrôle, qui permet de détecter les erreurs courantes de lecture ou de saisie. Le code est un numéro attribué de façon unique à chaque article commercial. L'EAN-13 est la version à treize chiffres du code UPC, qui en compte douze.
+
+## Des familles de codes
+
+L'organisation internationale GS1 attribue les numéros utilisés pour ces codes. Il existe des codes à une dimension, comme l'EAN-13 ou le Code 128, et des codes à deux dimensions, comme le code QR ou le DataMatrix. On les trouve dans les commerces, à la poste, sur les bagages d'avion et dans les hôpitaux. Un code-barres imprimé coûte très peu, bien moins qu'une puce RFID.
+
+## Une invention inspirée du Morse
+
+Le code-barres a été inventé par Norman Woodland et Bernard Silver, qui se sont inspirés du code Morse. Le premier article scanné en caisse était un paquet de chewing-gum, dans un supermarché de Troy, dans l'Ohio.
+
+## À retenir
+
+- Un lecteur éclaire le code, avec un laser ou une caméra : les barres noires absorbent la lumière et les espaces clairs la réfléchissent.
+- Dans un code UPC, chaque chiffre est codé par deux barres et deux espaces de largeurs choisies.
+- Le dernier chiffre est un chiffre de contrôle, qui permet de détecter les erreurs courantes de lecture ou de saisie.
+- Il existe des codes à une dimension, comme l'EAN-13, et des codes à deux dimensions, comme le code QR.
+- Le premier article scanné en caisse était un paquet de chewing-gum, dans un supermarché de Troy, dans l'Ohio.
 
 ---
 type: article

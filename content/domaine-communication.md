@@ -5047,18 +5047,88 @@ status: planned
 
 ---
 type: article
-title: Le moteur de recherche et son principe de fonctionnement
-slug: le-moteur-de-recherche-et-son-principe-de-fonctionnement
+title: Comment un moteur de recherche trouve-t-il une page parmi toutes celles du web ?
+slug: comment-un-moteur-de-recherche-trouve-t-il-une-page-parmi-toutes-celles-du-web
 categoryPath: communication-et-medias/medias-numeriques/web
 summary: >
-  Comment un algorithme trie des milliards de pages en une fraction de seconde.
+  Des robots explorent le web en suivant les liens, le contenu est rangé dans un index, et vos
+  mots-clés sont cherchés dans cet index. Les résultats sont ensuite classés, notamment grâce
+  aux liens.
 tags: [web]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Moteur de recherche"
+    url: "https://fr.wikipedia.org/wiki/Moteur_de_recherche"
+    publisher: "Wikipédia"
+  - title: "Search engine"
+    url: "https://en.wikipedia.org/wiki/Search_engine"
+    publisher: "Wikipedia"
+  - title: "PageRank"
+    url: "https://fr.wikipedia.org/wiki/PageRank"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait un crawler ?"
+    options:
+      - "Il écrit les pages web"
+      - "Il efface les pages mortes"
+      - "Il parcourt les sites en suivant les liens"
+    answer: 3
+    explanation: >
+      Des robots d'exploration, appelés crawlers, parcourent les sites en suivant les liens pour
+      découvrir les pages.
+  - question: "Où cherche le moteur quand vous tapez une requête ?"
+    options:
+      - "Directement sur tout le web en temps réel"
+      - "Dans votre ordinateur"
+      - "Dans son index"
+    answer: 3
+    explanation: >
+      Quand vous tapez une requête, le moteur ne parcourt pas le web en direct : il cherche dans
+      son index.
+  - question: "Qu'est-ce qui rend une page importante pour le PageRank ?"
+    options:
+      - "Sa couleur"
+      - "Les liens qui pointent vers elle, surtout depuis des pages importantes"
+      - "Son âge"
+    answer: 2
+    explanation: >
+      Une page gagne en importance quand elle reçoit des liens, surtout de pages elles-mêmes
+      importantes.
+  - question: "Quelle limite le PageRank présente-t-il ?"
+    options:
+      - "Une fausse information peut devenir importante par le nombre de liens"
+      - "Il ne lit que les images"
+      - "Il ignore les liens"
+    answer: 1
+    explanation: >
+      Le PageRank ne tient pas compte des raisons pour lesquelles une page est citée : une
+      fausse information peut gagner en importance par le seul nombre de liens.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des robots explorent le web en suivant les liens, le contenu est rangé dans un index, et vos mots-clés sont cherchés dans cet index. Les résultats sont ensuite classés, notamment grâce aux liens.
+
+## Explorer et indexer
+
+Un moteur de recherche fonctionne en trois temps : explorer le web, indexer le contenu, classer les résultats. Des robots d'exploration, appelés crawlers, parcourent les sites en suivant les liens pour découvrir les pages. Ils consultent le fichier robots.txt d'un site pour savoir quelles pages explorer. Le contenu est ensuite rangé dans un index, une sorte de dictionnaire inversé qui associe chaque mot aux pages qui le contiennent.
+
+## Chercher et classer
+
+Quand vous tapez une requête, le moteur ne parcourt pas le web en direct : il cherche dans son index. C'est pourquoi un résultat peut mener vers une page qui n'existe plus, si l'index n'a pas été mis à jour. Les résultats sont classés par pertinence supposée, selon des critères comme la fréquence des mots et l'analyse des liens. Les pages de résultats mélangent résultats naturels et annonces payantes, achetées par des annonceurs à partir de mots-clés.
+
+## L'importance d'une page
+
+Le PageRank, popularisé par Google, juge l'importance d'une page d'après le nombre et l'importance des pages qui pointent vers elle. Une page gagne en importance quand elle reçoit des liens, surtout de pages elles-mêmes importantes. Le modèle imagine un internaute qui suit des liens au hasard : plus il a de chances d'arriver sur une page, plus elle est importante. Le PageRank ne tient pas compte des raisons pour lesquelles une page est citée : une fausse information peut gagner en importance par le seul nombre de liens.
+
+## À retenir
+
+- Des robots d'exploration, appelés crawlers, parcourent les sites en suivant les liens pour découvrir les pages.
+- Le contenu est ensuite rangé dans un index, une sorte de dictionnaire inversé qui associe chaque mot aux pages qui le contiennent.
+- Quand vous tapez une requête, le moteur ne parcourt pas le web en direct : il cherche dans son index.
+- Le PageRank, popularisé par Google, juge l'importance d'une page d'après le nombre et l'importance des pages qui pointent vers elle.
+- Le PageRank ignore pourquoi une page est citée : une fausse information peut gagner en importance par le seul nombre de liens.
 
 ---
 type: article

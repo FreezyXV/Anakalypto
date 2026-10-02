@@ -2073,18 +2073,87 @@ status: planned
 
 ---
 type: article
-title: Le moteur électrique
-slug: moteur-electrique
+title: Comment un moteur électrique transforme-t-il le courant en mouvement ?
+slug: comment-un-moteur-electrique-transforme-t-il-le-courant-en-mouvement
 categoryPath: technologies-et-ingenierie/robotique/actionneurs
 summary: >
-  Comment un courant et un aimant produisent un mouvement de rotation.
+  Un courant dans un champ magnétique subit une force. En inversant le courant au bon moment, on
+  pousse le rotor sans cesse dans le même sens : l'électricité devient rotation.
 tags: [actionneurs]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Moteur électrique"
+    url: "https://fr.wikipedia.org/wiki/Moteur_%C3%A9lectrique"
+    publisher: "Wikipédia"
+  - title: "Electric motor"
+    url: "https://en.wikipedia.org/wiki/Electric_motor"
+    publisher: "Wikipedia"
+  - title: "Commutation"
+    url: "https://fab.cba.mit.edu/classes/865.21/topics/power_electronics/commutation/"
+    publisher: "MIT, cours Fab Academy"
+quiz:
+  - question: "Qu'est-ce qui fait tourner le rotor ?"
+    options:
+      - "Un moteur à essence caché"
+      - "L'interaction entre les champs magnétiques du stator et du rotor"
+      - "L'air chaud"
+    answer: 2
+    explanation: >
+      Les champs magnétiques du stator et du rotor interagissent et créent un couple qui fait
+      tourner le rotor.
+  - question: "Pourquoi faut-il inverser le courant à chaque demi-tour ?"
+    options:
+      - "Sinon le rotor s'arrête"
+      - "Pour économiser des balais"
+      - "Pour refroidir le stator"
+    answer: 1
+    explanation: >
+      Pour que le rotor continue de tourner, le courant doit s'inverser à chaque demi-tour ;
+      sinon le rotor s'arrête.
+  - question: "Quelle pièce remplace le collecteur dans un moteur sans balais ?"
+    options:
+      - "Un interrupteur électronique"
+      - "Un deuxième rotor"
+      - "Un ressort"
+    answer: 1
+    explanation: >
+      Dans un moteur sans balais, un interrupteur électronique, synchronisé avec la position du
+      rotor, remplace le collecteur.
+  - question: "Que peut produire un moteur entraîné mécaniquement ?"
+    options:
+      - "De l'électricité"
+      - "De l'essence"
+      - "De l'eau"
+    answer: 1
+    explanation: >
+      Un moteur est réversible : entraîné mécaniquement, il produit de l'électricité comme un
+      générateur, ce qui permet par exemple le freinage régénératif.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un courant dans un champ magnétique subit une force. En inversant le courant au bon moment, on pousse le rotor sans cesse dans le même sens : l'électricité devient rotation.
+
+## Une force sur un fil
+
+Un moteur électrique convertit de l'énergie électrique en énergie mécanique, le plus souvent en rotation. Il comprend un rotor, la partie mobile, et un stator, la partie fixe qui l'entoure et porte souvent des aimants. Un courant qui traverse un fil placé dans un champ magnétique subit une force, appelée force de Lorentz. Les champs magnétiques du stator et du rotor interagissent et créent un couple qui fait tourner le rotor.
+
+## Inverser le courant au bon moment
+
+Pour que le rotor continue de tourner, le courant doit s'inverser à chaque demi-tour ; sinon le rotor s'arrête. Dans un moteur à balais, un collecteur et des balais inversent mécaniquement le courant dans les bobines du rotor. Dans un moteur sans balais, un interrupteur électronique, synchronisé avec la position du rotor, remplace le collecteur. Les moteurs sans balais ont un meilleur rendement que les moteurs à balais.
+
+## Types et réversibilité
+
+Les moteurs à courant alternatif se répartissent en moteurs synchrones, dont la vitesse suit la fréquence du courant, et en moteurs asynchrones. Un moteur est réversible : entraîné mécaniquement, il produit de l'électricité comme un générateur, ce qui permet par exemple le freinage régénératif.
+
+## À retenir
+
+- Un courant qui traverse un fil placé dans un champ magnétique subit une force, appelée force de Lorentz.
+- Les champs magnétiques du stator et du rotor interagissent et créent un couple qui fait tourner le rotor.
+- Pour que le rotor continue de tourner, le courant doit s'inverser à chaque demi-tour ; sinon le rotor s'arrête.
+- Dans un moteur sans balais, un interrupteur électronique, synchronisé avec la position du rotor, remplace le collecteur.
+- Un moteur est réversible : entraîné mécaniquement, il produit de l'électricité, ce qui permet le freinage régénératif.
 
 ---
 
@@ -2322,18 +2391,86 @@ status: planned
 
 ---
 type: article
-title: Le radar
-slug: radar
+title: Comment un radar repère-t-il un avion ou un orage sans les voir ?
+slug: comment-un-radar-repere-t-il-un-avion-ou-un-orage-sans-les-voir
 categoryPath: technologies-et-ingenierie/robotique/perception
 summary: >
-  Détecter à distance grâce aux ondes radio : de la Seconde Guerre mondiale aux voitures modernes.
+  Un radar envoie de brèves impulsions d'ondes radio et écoute l'écho. Le temps aller-retour
+  donne la distance, le décalage de l'écho donne le mouvement.
 tags: [perception]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "NWS Radar, How Does the Radar Work?"
+    url: "https://www.weather.gov/bmx/radar_aboutnwsradar_howdoesitwork"
+    publisher: "Service météorologique national américain"
+  - title: "Radar"
+    url: "https://fr.wikipedia.org/wiki/Radar"
+    publisher: "Wikipédia"
+  - title: "Radar"
+    url: "https://en.wikipedia.org/wiki/Radar"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que mesure un radar pour trouver la distance ?"
+    options:
+      - "Le temps aller-retour de l'onde"
+      - "La couleur de l'écho"
+      - "Le bruit de la cible"
+    answer: 1
+    explanation: >
+      Le radar mesure le temps que met l'onde pour aller vers la cible et revenir ; comme elle
+      voyage à la vitesse de la lumière, ce temps donne la distance.
+  - question: "À quoi sert l'effet Doppler pour un radar ?"
+    options:
+      - "À savoir si la cible s'approche ou s'éloigne"
+      - "À changer la couleur de l'écran"
+      - "À refroidir l'antenne"
+    answer: 1
+    explanation: >
+      L'effet Doppler, un décalage de fréquence ou de phase de l'écho, révèle si la cible
+      s'approche ou s'éloigne.
+  - question: "Que renvoient les gouttes de pluie au radar ?"
+    options:
+      - "Une partie de l'énergie des ondes"
+      - "Rien du tout"
+      - "De la lumière visible"
+    answer: 1
+    explanation: >
+      Les objets, comme les gouttes de pluie ou les grêlons, renvoient une partie de l'énergie
+      vers le récepteur.
+  - question: "Que signifie un écho plus fort ?"
+    options:
+      - "Une cible plus lente"
+      - "Une antenne plus chaude"
+      - "Une précipitation plus intense"
+    answer: 3
+    explanation: >
+      Plus l'écho est fort, plus la précipitation est intense.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un radar envoie de brèves impulsions d'ondes radio et écoute l'écho. Le temps aller-retour donne la distance, le décalage de l'écho donne le mouvement.
+
+## Écouter l'écho
+
+Un radar est un système qui utilise des ondes radio pour détecter des objets et déterminer leur position et leur vitesse ; le mot vient de « radio detection and ranging ». L'antenne tourne en continu et émet de très brèves impulsions d'ondes radio, séparées par des périodes d'écoute. Les objets, comme les gouttes de pluie ou les grêlons, renvoient une partie de l'énergie vers le récepteur. Le radar mesure le temps que met l'onde pour aller vers la cible et revenir ; comme elle voyage à la vitesse de la lumière, ce temps donne la distance. Plus l'écho est fort, plus la précipitation est intense.
+
+## Mesurer le mouvement
+
+L'effet Doppler, un décalage de fréquence ou de phase de l'écho, révèle si la cible s'approche ou s'éloigne. L'antenne se penche à des angles de plus en plus élevés pendant qu'elle tourne, ce qui donne une vue en trois dimensions de l'atmosphère. Les radars à antenne active orientent le faisceau électroniquement, sans pièce mécanique en mouvement.
+
+## Usages et histoire
+
+On s'en sert pour le contrôle aérien, la météo, la navigation maritime et le contrôle de la vitesse sur la route. Heinrich Hertz avait montré, au XIXe siècle, que les ondes radio se réfléchissent sur des objets. Le magnétron à cavité a permis de fabriquer des radars compacts, avec une meilleure résolution. Le radar s'est surtout développé avant et pendant la Seconde Guerre mondiale, avec la chaîne britannique Chain Home.
+
+## À retenir
+
+- L'antenne tourne en continu et émet de très brèves impulsions d'ondes radio, séparées par des périodes d'écoute.
+- Le radar mesure le temps aller-retour de l'onde ; à la vitesse de la lumière, ce temps donne la distance.
+- Plus l'écho est fort, plus la précipitation est intense.
+- L'effet Doppler, un décalage de fréquence ou de phase de l'écho, révèle si la cible s'approche ou s'éloigne.
+- On s'en sert pour le contrôle aérien, la météo, la navigation maritime et le contrôle de la vitesse sur la route.
 
 ---
 

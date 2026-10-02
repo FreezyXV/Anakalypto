@@ -419,7 +419,7 @@ energie;energie/reseaux-et-stockage/hydrogene;La pile à combustible;pile-combus
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogène dans l'industrie;hydrogene-industrie;2;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;Stocker et transporter l'hydrogène;stocker-transporter-hydrogene;2;non;planned
 energie;energie/efficacite-et-sobriete/efficacite-energetique;Comment une pompe à chaleur chauffe-t-elle avec l'air froid du dehors ?;comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors;2;non;published
-energie;energie/efficacite-et-sobriete/efficacite-energetique;L'éclairage LED;eclairage-led;2;non;planned
+energie;energie/efficacite-et-sobriete/efficacite-energetique;Comment une LED fabrique-t-elle de la lumière sans chauffer de filament ?;comment-une-led-fabrique-t-elle-de-la-lumiere-sans-chauffer-de-filament;2;non;published
 energie;energie/efficacite-et-sobriete/efficacite-energetique;Le rendement d'un moteur;rendement-moteur;2;non;planned
 energie;energie/efficacite-et-sobriete/usages-et-consommation;La précarité énergétique;precarite-energetique;2;non;planned
 energie;energie/efficacite-et-sobriete/usages-et-consommation;La consommation d'énergie des transports;consommation-energie-transports;2;non;planned
@@ -602,7 +602,7 @@ industries;industries/materiaux-et-procedes/composites-et-polymeres;La fibre de 
 industries;industries/materiaux-et-procedes/composites-et-polymeres;Les bioplastiques;bioplastiques;2;non;planned
 industries;industries/materiaux-et-procedes/composites-et-polymeres;Le nylon et les fibres synthétiques;nylon-fibres-synthetiques;2;non;planned
 industries;industries/materiaux-et-procedes/composites-et-polymeres;Les thermoplastiques et thermodurcissables;thermoplastiques-thermodurcissables;2;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;Le transistor;transistor;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Comment un transistor, minuscule interrupteur, fait-il fonctionner un ordinateur ?;comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur;2;non;published
 informatique;micro-informatique-et-informatique/materiel/processeurs;La loi de Moore;loi-moore;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Les cartes graphiques;cartes-graphiques;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Comment on fabrique une puce;fabrique-puce;2;non;planned
@@ -911,7 +911,7 @@ technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Creuser un tun
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les barrages, comment ils résistent;barrages-ils-resistent;2;non;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Le viaduc de Millau;viaduc-millau;2;non;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les écluses;ecluses;2;non;planned
-technologies;technologies-et-ingenierie/robotique/actionneurs;Le moteur électrique;moteur-electrique;2;non;planned
+technologies;technologies-et-ingenierie/robotique/actionneurs;Comment un moteur électrique transforme-t-il le courant en mouvement ?;comment-un-moteur-electrique-transforme-t-il-le-courant-en-mouvement;2;non;published
 technologies;technologies-et-ingenierie/robotique/actionneurs;L'hydraulique et la pneumatique;hydraulique-pneumatique;2;non;planned
 technologies;technologies-et-ingenierie/robotique/actionneurs;Les moteurs pas à pas et servomoteurs;moteurs-servomoteurs;2;non;planned
 technologies;technologies-et-ingenierie/robotique/actionneurs;Les muscles artificiels;muscles-artificiels;2;non;planned
@@ -920,7 +920,7 @@ technologies;technologies-et-ingenierie/robotique/perception;Le lidar;lidar;2;no
 technologies;technologies-et-ingenierie/robotique/perception;La vision par ordinateur;vision-ordinateur;2;non;planned
 technologies;technologies-et-ingenierie/robotique/perception;Les capteurs de force et de toucher;capteurs-force-toucher;2;non;planned
 technologies;technologies-et-ingenierie/robotique/perception;La centrale inertielle;centrale-inertielle;2;non;planned
-technologies;technologies-et-ingenierie/robotique/perception;Le radar;radar;2;non;planned
+technologies;technologies-et-ingenierie/robotique/perception;Comment un radar repère-t-il un avion ou un orage sans les voir ?;comment-un-radar-repere-t-il-un-avion-ou-un-orage-sans-les-voir;2;non;published
 technologies;technologies-et-ingenierie/robotique/perception;Fusionner les capteurs;fusionner-capteurs;2;non;planned
 technologies;technologies-et-ingenierie/robotique/robots-mobiles;La voiture autonome;voiture-autonome;2;non;planned
 technologies;technologies-et-ingenierie/robotique/robots-mobiles;Les drones;drones;2;non;planned
@@ -2819,7 +2819,7 @@ communication;communication-et-medias/medias-numeriques/reseaux-sociaux;La duree
 communication;communication-et-medias/medias-numeriques/web;Le premier site internet de l'histoire;le-premier-site-internet-de-l-histoire;3;non;planned
 communication;communication-et-medias/medias-numeriques/web;Le langage HTML, structurer une page web;le-langage-html-structurer-une-page-web;2;oui;planned
 communication;communication-et-medias/medias-numeriques/web;Le navigateur web et son evolution technique;le-navigateur-web-et-son-evolution-technique;3;non;planned
-communication;communication-et-medias/medias-numeriques/web;Le moteur de recherche et son principe de fonctionnement;le-moteur-de-recherche-et-son-principe-de-fonctionnement;2;non;planned
+communication;communication-et-medias/medias-numeriques/web;Comment un moteur de recherche trouve-t-il une page parmi toutes celles du web ?;comment-un-moteur-de-recherche-trouve-t-il-une-page-parmi-toutes-celles-du-web;2;non;published
 communication;communication-et-medias/medias-numeriques/web;Le referencement naturel et son influence sur le web;le-referencement-naturel-et-son-influence-sur-le-web;3;non;planned
 communication;communication-et-medias/medias-numeriques/web;Le web 2.0 et l'arrivee du contenu genere par les utilisateurs;le-web-2-0-et-l-arrivee-du-contenu-genere-par-les-utilisateurs;3;non;planned
 communication;communication-et-medias/medias-numeriques/web;Le blog, un format pionnier du web personnel;le-blog-un-format-pionnier-du-web-personnel;3;non;planned
@@ -4952,7 +4952,7 @@ industries;industries/industrie-manufacturiere/chaine-logistique;Le juste-a-temp
 industries;industries/industrie-manufacturiere/chaine-logistique;La resilience des chaines d'approvisionnement;la-resilience-des-chaines-d-approvisionnement;2;oui;planned
 industries;industries/industrie-manufacturiere/chaine-logistique;La penurie mondiale de semi-conducteurs;la-penurie-mondiale-de-semi-conducteurs;2;non;planned
 industries;industries/industrie-manufacturiere/chaine-logistique;Le blocage du canal de Suez en 2021;le-blocage-du-canal-de-suez-en-2021;2;non;planned
-industries;industries/industrie-manufacturiere/chaine-logistique;Le code-barres, invention et fonctionnement;le-code-barres-invention-et-fonctionnement;2;oui;planned
+industries;industries/industrie-manufacturiere/chaine-logistique;Comment une caisse lit-elle un code-barres ?;comment-une-caisse-lit-elle-un-code-barres;2;oui;published
 industries;industries/industrie-manufacturiere/chaine-logistique;La tracabilite des produits dans la chaine logistique;la-tracabilite-des-produits-dans-la-chaine-logistique;2;oui;planned
 industries;industries/industrie-manufacturiere/chaine-logistique;Le dernier kilometre, le maillon le plus couteux;le-dernier-kilometre-le-maillon-le-plus-couteux;2;non;planned
 industries;industries/industrie-manufacturiere/chaine-logistique;Le stockage et la conservation des marchandises perissables;le-stockage-et-la-conservation-des-marchandises-perissables;2;oui;planned
@@ -5249,7 +5249,7 @@ informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
 informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;Le taux de rafraichissement d'un ecran;le-taux-de-rafraichissement-d-un-ecran;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;Le clavier AZERTY contre QWERTY, une histoire de disposition;le-clavier-azerty-contre-qwerty-une-histoire-de-disposition;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;L'invention du clavier mecanique;l-invention-du-clavier-mecanique;3;non;planned
-informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;L'ecran tactile, principe de fonctionnement;l-ecran-tactile-principe-de-fonctionnement;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;Comment un écran tactile sent-il votre doigt ?;comment-un-ecran-tactile-sent-il-votre-doigt;2;non;published
 informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;La souris informatique, une invention pionniere;la-souris-informatique-une-invention-pionniere;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;L'interface graphique, une revolution de l'informatique personnelle;l-interface-graphique-une-revolution-de-l-informatique-personnelle;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/peripheriques-et-ecrans;Le port USB, un standard qui a simplifie la connectique;le-port-usb-un-standard-qui-a-simplifie-la-connectique;2;oui;planned
@@ -5312,7 +5312,7 @@ informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;La signature numerique, garantir l'authenticite d'un document;la-signature-numerique-garantir-l-authenticite-d-un-document;2;oui;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Les certificats numeriques et la confiance en ligne;les-certificats-numeriques-et-la-confiance-en-ligne;2;oui;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Le protocole HTTPS et le cadenas du navigateur;le-protocole-https-et-le-cadenas-du-navigateur;2;oui;planned
-informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;La blockchain, principe technique fondamental;la-blockchain-principe-technique-fondamental;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Comment une chaîne de blocs rend-elle le passé presque impossible à modifier ?;comment-une-chaine-de-blocs-rend-elle-le-passe-presque-impossible-a-modifier;2;non;published
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Les fonctions de hachage cryptographique;les-fonctions-de-hachage-cryptographique;3;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;Le chiffrement de bout en bout dans la messagerie;le-chiffrement-de-bout-en-bout-dans-la-messagerie;2;oui;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/chiffrement;L'ordinateur quantique et la menace pour la cryptographie actuelle;l-ordinateur-quantique-et-la-menace-pour-la-cryptographie-actuelle;3;non;planned
