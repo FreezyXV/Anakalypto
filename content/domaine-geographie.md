@@ -10628,3 +10628,88 @@ Une loi spécifique, la loi Littoral, encadre l'urbanisation des côtes et prot�
 - L'érosion grignote la côte, en particulier en Charente-Maritime, en Gironde et dans les Bouches-du-Rhône.
 - Une loi spécifique, la loi Littoral, encadre l'urbanisation des côtes et protège les espaces naturels.
 - Hors des espaces urbanisés, il est interdit de construire dans la bande des cent mètres à partir du rivage.
+
+---
+type: article
+title: Comment naît un éclair pendant un orage ?
+slug: comment-nait-un-eclair-pendant-un-orage
+categoryPath: geographie-et-territoires/geographie-physique/climatologie
+summary: >
+  Dans un nuage d'orage, des cristaux de glace qui se cognent se chargent d'électricité. Quand
+  la tension devient trop forte, l'air laisse passer une décharge : l'éclair, suivi du tonnerre.
+tags: [climatologie]
+sources:
+  - title: "Lightning"
+    url: "https://www.weather.gov/fgz/Lightning"
+    publisher: "Service météorologique national américain"
+  - title: "Foudre"
+    url: "https://fr.wikipedia.org/wiki/Foudre"
+    publisher: "Wikipédia"
+  - title: "Lightning"
+    url: "https://en.wikipedia.org/wiki/Lightning"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui charge un nuage d'orage en électricité ?"
+    options:
+      - "Des cristaux de glace qui se cognent"
+      - "Le vent du désert"
+      - "Les avions"
+    answer: 1
+    explanation: >
+      Dans un nuage d'orage, des particules de glace de tailles différentes se cognent sans
+      cesse, portées par des courants d'air qui montent et descendent, et prennent des charges
+      électriques.
+  - question: "D'où vient le tonnerre ?"
+    options:
+      - "De deux nuages qui se heurtent"
+      - "De l'air brusquement chauffé qui se dilate"
+      - "Du sol qui tremble"
+    answer: 2
+    explanation: >
+      Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, comme une
+      onde de choc.
+  - question: "Pourquoi voit-on l'éclair avant d'entendre le tonnerre ?"
+    options:
+      - "L'éclair se produit d'abord, le son plus tard par hasard"
+      - "La lumière va bien plus vite que le son"
+      - "Le tonnerre est plus loin que l'éclair"
+    answer: 2
+    explanation: >
+      La lumière va bien plus vite que le son : on voit donc l'éclair avant d'entendre le
+      tonnerre.
+  - question: "Comment s'appelle le canal chargé qui descend du nuage ?"
+    options:
+      - "Le traceur par bonds"
+      - "Le paratonnerre"
+      - "La goutte de pluie"
+    answer: 1
+    explanation: >
+      Un canal chargé, appelé traceur par bonds, descend du nuage vers le sol ; à son approche,
+      des filets de charges positives montent à sa rencontre.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Dans un nuage d'orage, des cristaux de glace qui se cognent se chargent d'électricité. Quand la tension devient trop forte, l'air laisse passer une décharge : l'éclair, suivi du tonnerre.
+
+## Un nuage qui se charge
+
+La foudre est une décharge électrique de grande intensité qui se produit dans l'atmosphère, entre des zones chargées d'un nuage, entre nuages ou entre un nuage et le sol. Dans un nuage d'orage, des particules de glace de tailles différentes se cognent sans cesse, portées par des courants d'air qui montent et descendent, et prennent des charges électriques. Les charges se séparent : le haut du nuage, gelé, devient positif, et une grande zone négative se forme dans la partie basse. Le sol en dessous prend la charge opposée : la tension doit devenir énorme avant que l'air, normalement isolant, ne cède.
+
+## La décharge
+
+Un canal chargé, appelé traceur par bonds, descend du nuage vers le sol ; à son approche, des filets de charges positives montent à sa rencontre. Quand ils se rejoignent, un canal conducteur est tracé et une décharge très lumineuse, l'arc en retour, parcourt le canal. L'air du canal est chauffé à une température plus élevée que celle de la surface du Soleil.
+
+## Le tonnerre
+
+Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, comme une onde de choc. La lumière va bien plus vite que le son : on voit donc l'éclair avant d'entendre le tonnerre.
+
+## À retenir
+
+- Dans un nuage d'orage, des particules de glace se cognent et prennent des charges électriques.
+- Les charges se séparent : le haut du nuage, gelé, devient positif, et une grande zone négative se forme dans la partie basse.
+- Quand ils se rejoignent, un canal conducteur est tracé et une décharge très lumineuse, l'arc en retour, parcourt le canal.
+- Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, comme une onde de choc.
+- La lumière va bien plus vite que le son : on voit donc l'éclair avant d'entendre le tonnerre.

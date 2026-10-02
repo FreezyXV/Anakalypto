@@ -6443,18 +6443,89 @@ status: planned
 
 ---
 type: article
-title: Le role de la Lune dans les marees
-slug: le-role-de-la-lune-dans-les-marees
+title: Pourquoi la mer monte-t-elle et descend-elle deux fois par jour ?
+slug: pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour
 categoryPath: espace-et-astronomie/systeme-solaire/lune
 summary: >
-  Comment l'attraction lunaire soulève litteralement les oceans terrestres.
-tags: [lune, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'attraction de la Lune, aidée par celle du Soleil, déforme l'eau des océans en deux bosses.
+  La Terre tourne à travers elles : on voit la mer monter et descendre.
+tags: [lune]
+sources:
+  - title: "Tides"
+    url: "https://science.nasa.gov/moon/tides/"
+    publisher: "NASA Science"
+  - title: "What are spring and neap tides?"
+    url: "https://oceanservice.noaa.gov/facts/springtide.html"
+    publisher: "NOAA, Service national de l'océan"
+  - title: "Marée"
+    url: "https://fr.wikipedia.org/wiki/Mar%C3%A9e"
+    publisher: "Wikipédia"
+  - title: "Tide"
+    url: "https://en.wikipedia.org/wiki/Tide"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la cause principale des marées ?"
+    options:
+      - "L'attraction de la Lune"
+      - "Les vents"
+      - "Les courants de rivière"
+    answer: 1
+    explanation: >
+      L'attraction de la Lune est la cause principale des marées.
+  - question: "Combien de marées hautes la plupart des côtes connaissent-elles par jour ?"
+    options:
+      - "Deux"
+      - "Une"
+      - "Quatre"
+    answer: 1
+    explanation: >
+      En tournant, la Terre fait passer les côtes à travers ces deux renflements : la plupart
+      des rivages connaissent donc deux marées hautes et deux marées basses par jour.
+  - question: "Quand les marées de vive-eau ont-elles lieu ?"
+    options:
+      - "Aux quartiers de Lune"
+      - "À la pleine et à la nouvelle Lune"
+      - "Seulement au printemps"
+    answer: 2
+    explanation: >
+      Quand la Terre, la Lune et le Soleil sont alignés, à la pleine et à la nouvelle Lune,
+      leurs forces s'ajoutent : ce sont les marées de vive-eau, très marquées.
+  - question: "Pourquoi la Méditerranée a-t-elle de très faibles marées ?"
+    options:
+      - "La Lune ne l'attire pas"
+      - "Son eau est trop salée"
+      - "C'est une mer presque fermée"
+    answer: 3
+    explanation: >
+      L'amplitude varie selon la forme des côtes : les baies en entonnoir amplifient la marée,
+      alors que les mers fermées comme la Méditerranée en ont très peu.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'attraction de la Lune, aidée par celle du Soleil, déforme l'eau des océans en deux bosses. La Terre tourne à travers elles : on voit la mer monter et descendre.
+
+## Deux bosses d'eau
+
+L'attraction de la Lune est la cause principale des marées. L'eau forme un renflement du côté tourné vers la Lune et un autre du côté opposé. En tournant, la Terre fait passer les côtes à travers ces deux renflements : la plupart des rivages connaissent donc deux marées hautes et deux marées basses par jour. Entre deux marées hautes, il s'écoule un peu plus de douze heures.
+
+## Le Soleil donne un coup de main
+
+Le Soleil agit aussi, mais il est bien plus loin : sa force de marée est plus faible que celle de la Lune. Quand la Terre, la Lune et le Soleil sont alignés, à la pleine et à la nouvelle Lune, leurs forces s'ajoutent : ce sont les marées de vive-eau, très marquées. Quand le Soleil et la Lune forment un angle droit, vers les quartiers de Lune, leurs effets se compensent en partie : ce sont les marées de morte-eau, plus modérées. En anglais, la marée de vive-eau se dit « spring tide » : le mot vient de l'idée que la marée « jaillit » et n'a rien à voir avec la saison du printemps.
+
+## Pourquoi la marée varie d'un lieu à l'autre
+
+L'amplitude varie selon la forme des côtes : les baies en entonnoir amplifient la marée, alors que les mers fermées comme la Méditerranée en ont très peu.
+
+## À retenir
+
+- L'attraction de la Lune est la cause principale des marées.
+- L'eau forme un renflement du côté tourné vers la Lune et un autre du côté opposé.
+- La Terre tourne à travers deux renflements d'eau : la plupart des côtes ont deux marées hautes par jour.
+- Quand la Terre, la Lune et le Soleil sont alignés, leurs forces s'ajoutent : ce sont les marées de vive-eau.
+- Les baies en entonnoir amplifient la marée ; les mers fermées comme la Méditerranée en ont très peu.
 
 ---
 type: article
@@ -12320,3 +12391,87 @@ Il a été lancé le 30 août 2026 par une fusée Falcon Heavy. Il doit fonction
 - Il porte une caméra à grand champ et un coronographe, qui masque la lumière d'une étoile pour voir ses exoplanètes.
 - Sa technique pour chasser les exoplanètes est la microlentille gravitationnelle, qui repère les planètes peu massives et éloignées de leur étoile.
 - Il porte le nom de Nancy Grace Roman, première astronome en chef de la NASA, surnommée la mère de Hubble.
+
+---
+type: article
+title: Pourquoi y a-t-il des saisons sur Terre ?
+slug: pourquoi-y-a-t-il-des-saisons-sur-terre
+categoryPath: espace-et-astronomie/systeme-solaire/planetes
+summary: >
+  Les saisons viennent de l'inclinaison de l'axe de la Terre, pas de sa distance au Soleil.
+  Selon la saison, un hémisphère reçoit des rayons plus directs et des jours plus longs.
+tags: [planetes]
+sources:
+  - title: "What Causes the Seasons?"
+    url: "https://spaceplace.nasa.gov/seasons/en/"
+    publisher: "NASA Space Place"
+  - title: "Saison"
+    url: "https://fr.wikipedia.org/wiki/Saison"
+    publisher: "Wikipédia"
+  - title: "Season"
+    url: "https://en.wikipedia.org/wiki/Season"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui cause les saisons ?"
+    options:
+      - "La distance au Soleil"
+      - "Les taches solaires"
+      - "L'inclinaison de l'axe de la Terre"
+    answer: 3
+    explanation: >
+      Les saisons viennent de l'inclinaison de l'axe de rotation de la Terre, et non de sa
+      distance au Soleil.
+  - question: "Quand la Terre est-elle au plus près du Soleil ?"
+    options:
+      - "En juillet"
+      - "Au printemps"
+      - "En janvier"
+    answer: 3
+    explanation: >
+      La Terre est au plus près du Soleil en janvier, en plein hiver dans l'hémisphère nord : la
+      distance ne peut donc pas expliquer les saisons.
+  - question: "Que se passe-t-il au sud quand c'est l'été au nord ?"
+    options:
+      - "C'est aussi l'été"
+      - "Il n'y a pas de saison"
+      - "C'est l'hiver"
+    answer: 3
+    explanation: >
+      Les deux hémisphères vivent des saisons opposées : quand c'est l'été au nord, c'est
+      l'hiver au sud.
+  - question: "Pourquoi les températures extrêmes arrivent-elles après les solstices ?"
+    options:
+      - "Le Soleil change de taille"
+      - "Les jours rallongent d'un coup"
+      - "Les océans stockent et libèrent la chaleur lentement"
+    answer: 3
+    explanation: >
+      Les températures extrêmes arrivent après les solstices, parce que les océans absorbent et
+      libèrent la chaleur lentement.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Les saisons viennent de l'inclinaison de l'axe de la Terre, pas de sa distance au Soleil. Selon la saison, un hémisphère reçoit des rayons plus directs et des jours plus longs.
+
+## Un axe penché
+
+Les saisons viennent de l'inclinaison de l'axe de rotation de la Terre, et non de sa distance au Soleil. Quand un hémisphère penche vers le Soleil, ses rayons arrivent plus directement et ses jours sont plus longs : c'est l'été. Les deux hémisphères vivent des saisons opposées : quand c'est l'été au nord, c'est l'hiver au sud.
+
+## Le faux coupable : la distance
+
+La Terre est au plus près du Soleil en janvier, en plein hiver dans l'hémisphère nord : la distance ne peut donc pas expliquer les saisons. L'écart de distance au Soleil au cours de l'année est faible comparé à la distance totale : il pèse très peu sur la météo.
+
+## Solstices, équinoxes et retard
+
+Au solstice d'été, le jour est le plus long ; au solstice d'hiver, il est le plus court. Aux équinoxes, le jour et la nuit durent autant. Les températures extrêmes arrivent après les solstices, parce que les océans absorbent et libèrent la chaleur lentement. Près de l'équateur, le Soleil reste presque à la verticale toute l'année : les saisons se marquent surtout par des périodes sèches et humides. Selon une hypothèse, cette inclinaison viendrait d'un choc, il y a des milliards d'années, avec un objet nommé Théia, qui aurait aussi formé la Lune.
+
+## À retenir
+
+- Les saisons viennent de l'inclinaison de l'axe de rotation de la Terre, et non de sa distance au Soleil.
+- Quand un hémisphère penche vers le Soleil, ses rayons arrivent plus directement et ses jours sont plus longs : c'est l'été.
+- Les deux hémisphères vivent des saisons opposées : quand c'est l'été au nord, c'est l'hiver au sud.
+- La Terre est au plus près du Soleil en janvier, en plein hiver au nord : la distance n'explique pas les saisons.
+- Les températures extrêmes arrivent après les solstices, parce que les océans absorbent et libèrent la chaleur lentement.

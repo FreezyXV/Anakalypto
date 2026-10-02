@@ -19892,3 +19892,518 @@ La recherche vise l'informatique quantique, les supraconducteurs à spin et l'é
 - Elle produit aussi une bande électronique plate, où l'énergie ne dépend pas de l'impulsion.
 - Le composé CsV3Sb5 a un réseau kagome d'atomes de vanadium, et présente à la fois supraconductivité et onde de densité de charge.
 - La recherche vise l'informatique quantique, les supraconducteurs à spin et l'électronique à faible consommation.
+
+---
+type: article
+title: Un réfrigérateur fabrique-t-il vraiment du froid ?
+slug: un-refrigerateur-fabrique-t-il-vraiment-du-froid
+categoryPath: sciences-fondamentales/physique/thermodynamique
+summary: >
+  Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur,
+  grâce à un fluide qui se vaporise puis se liquéfie, en boucle.
+tags: [thermodynamique]
+sources:
+  - title: "How A Compression Refrigeration System Works"
+    url: "https://web.mit.edu/2.972/www/reports/compression_refrigeration_system/compression_refrigeration_system.html"
+    publisher: "MIT, cours 2.972"
+  - title: "Pump Up Your Savings with Heat Pumps"
+    url: "https://www.energy.gov/articles/pump-your-savings-heat-pumps"
+    publisher: "Département de l'Énergie des États-Unis"
+  - title: "Réfrigérateur"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur"
+    publisher: "Wikipédia"
+  - title: "Vapor-compression refrigeration"
+    url: "https://en.wikipedia.org/wiki/Vapor-compression_refrigeration"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un réfrigérateur de la chaleur de l'intérieur ?"
+    options:
+      - "Il la détruit"
+      - "Il la déplace vers l'extérieur"
+      - "Il la transforme en glace"
+    answer: 2
+    explanation: >
+      Un réfrigérateur ne crée pas de froid : il déplace la chaleur d'un espace froid vers un
+      espace plus chaud, en consommant de l'électricité.
+  - question: "Où le fluide frigorigène absorbe-t-il la chaleur de l'intérieur ?"
+    options:
+      - "Dans le compresseur"
+      - "Dans l'évaporateur"
+      - "Dans le thermostat"
+    answer: 2
+    explanation: >
+      Dans l'évaporateur, le fluide frigorigène absorbe la chaleur de l'intérieur et se vaporise
+      : c'est cette partie qui refroidit vraiment.
+  - question: "Pourquoi le condenseur est-il chaud au toucher ?"
+    options:
+      - "Il contient une résistance électrique"
+      - "Il touche le congélateur"
+      - "Le gaz y cède sa chaleur en redevenant liquide"
+    answer: 3
+    explanation: >
+      Dans le condenseur, le gaz se refroidit et redevient liquide en cédant sa chaleur : c'est
+      pourquoi le condenseur est chaud au toucher.
+  - question: "Quel autre appareil utilise le même cycle ?"
+    options:
+      - "Le climatiseur"
+      - "Le grille-pain"
+      - "L'aspirateur"
+    answer: 1
+    explanation: >
+      Le même cycle fait fonctionner les climatiseurs, les chambres froides et les pompes à
+      chaleur.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur, grâce à un fluide qui se vaporise puis se liquéfie, en boucle.
+
+## Déplacer la chaleur, pas fabriquer du froid
+
+Un réfrigérateur ne crée pas de froid : il déplace la chaleur d'un espace froid vers un espace plus chaud, en consommant de l'électricité. Il fonctionne en boucle, selon un cycle à quatre étapes : compression, condensation, détente et évaporation d'un fluide frigorigène. Un thermostat commande le fonctionnement de l'appareil pour garder la température voulue.
+
+## Les quatre étapes du fluide
+
+Le compresseur, entraîné par un moteur, aspire le gaz et augmente sa pression et sa température. Dans le condenseur, le gaz se refroidit et redevient liquide en cédant sa chaleur : c'est pourquoi le condenseur est chaud au toucher. Au détendeur, la pression chute brusquement, ce qui prépare le fluide à absorber de la chaleur. Dans l'évaporateur, le fluide frigorigène absorbe la chaleur de l'intérieur et se vaporise : c'est cette partie qui refroidit vraiment.
+
+## Un cycle qu'on retrouve partout
+
+Le même cycle fait fonctionner les climatiseurs, les chambres froides et les pompes à chaleur. Les fluides évoluent : on s'éloigne des composés chlorés à cause de la couche d'ozone, au profit de fluides comme le dioxyde de carbone.
+
+## À retenir
+
+- Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur.
+- Dans l'évaporateur, le fluide absorbe la chaleur de l'intérieur en se vaporisant : c'est lui qui refroidit.
+- Dans le condenseur, le gaz se refroidit et redevient liquide en cédant sa chaleur : c'est pourquoi le condenseur est chaud au toucher.
+- Le même cycle sert aux climatiseurs, aux chambres froides et aux pompes à chaleur.
+
+---
+type: article
+title: Pourquoi un bateau en acier flotte-t-il ?
+slug: pourquoi-un-bateau-en-acier-flotte-t-il
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Un bateau flotte quand l'eau qu'il déplace pèse autant que lui. Sa coque creuse enferme de
+  l'air, donc sa masse moyenne par volume reste plus faible que celle de l'eau.
+tags: [mecanique]
+sources:
+  - title: "Build a boat"
+    url: "https://www.noaa.gov/office-education/outreach-communication/hands-on-science-activities/build-a-boat"
+    publisher: "NOAA, Administration océanique et atmosphérique américaine"
+  - title: "Buoyancy"
+    url: "https://en.wikipedia.org/wiki/Buoyancy"
+    publisher: "Wikipedia"
+  - title: "Poussée d'Archimède"
+    url: "https://fr.wikipedia.org/wiki/Pouss%C3%A9e_d%27Archim%C3%A8de"
+    publisher: "Wikipédia"
+quiz:
+  - question: "À quoi est égale la poussée d'Archimède ?"
+    options:
+      - "Au poids de l'objet"
+      - "À la profondeur"
+      - "Au poids du fluide déplacé"
+    answer: 3
+    explanation: >
+      La poussée d'Archimède est une force verticale, dirigée vers le haut, égale au poids du
+      volume de fluide que l'objet déplace.
+  - question: "Pourquoi un navire en acier flotte-t-il ?"
+    options:
+      - "L'acier est plus léger que l'eau"
+      - "L'eau salée le porte magiquement"
+      - "Sa coque enferme de l'air, donc il est moins dense que l'eau en moyenne"
+    answer: 3
+    explanation: >
+      L'acier est plus dense que l'eau, mais la coque enferme de l'air : la masse volumique
+      moyenne du navire est inférieure à celle de l'eau.
+  - question: "Comment un sous-marin monte-t-il ou descend-il ?"
+    options:
+      - "En vidant ou remplissant ses ballasts"
+      - "En tournant son hélice à l'envers"
+      - "En changeant de coque"
+    answer: 1
+    explanation: >
+      Un sous-marin règle sa flottabilité en remplissant ou en vidant des ballasts d'eau de mer.
+  - question: "Qu'est-ce qui rend un navire plus stable ?"
+    options:
+      - "Un centre de gravité haut"
+      - "Un centre de gravité bas"
+      - "Une coque plus petite"
+    answer: 2
+    explanation: >
+      La stabilité d'un navire dépend de la position de son centre de gravité par rapport à son
+      centre de poussée : plus le centre de gravité est bas, plus il est stable.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Un bateau flotte quand l'eau qu'il déplace pèse autant que lui. Sa coque creuse enferme de l'air, donc sa masse moyenne par volume reste plus faible que celle de l'eau.
+
+## Une eau qui pousse vers le haut
+
+La pression de l'eau augmente avec la profondeur : l'eau pousse donc plus fort sous un objet que sur son dessus. La poussée d'Archimède est une force verticale, dirigée vers le haut, égale au poids du volume de fluide que l'objet déplace. Un objet flotte si la poussée est au moins égale à son poids, c'est-à-dire si sa masse volumique moyenne est inférieure à celle de l'eau.
+
+## Le tour de passe-passe de la coque
+
+L'acier est plus dense que l'eau, mais la coque enferme de l'air : la masse volumique moyenne du navire est inférieure à celle de l'eau. Une forme large ou creuse déplace plus d'eau qu'une forme compacte, donc elle reçoit une poussée plus forte. Un objet de même masse volumique que le fluide reste en suspension, sans monter ni descendre.
+
+## Sous-marins, ballons et stabilité
+
+Un sous-marin règle sa flottabilité en remplissant ou en vidant des ballasts d'eau de mer. La stabilité d'un navire dépend de la position de son centre de gravité par rapport à son centre de poussée : plus le centre de gravité est bas, plus il est stable. Le même principe fait monter une montgolfière : l'air chaud la rend plus légère que l'air qui l'entoure. Selon la tradition, Archimède aurait utilisé ce principe pour vérifier si la couronne du roi Hiéron II cachait de l'argent.
+
+## À retenir
+
+- La poussée d'Archimède est une force verticale, dirigée vers le haut, égale au poids du volume de fluide que l'objet déplace.
+- Un objet flotte si la poussée égale au moins son poids, donc si sa masse volumique moyenne est inférieure à celle de l'eau.
+- L'acier est plus dense que l'eau, mais la coque enferme de l'air : la masse volumique moyenne du navire est inférieure à celle de l'eau.
+- Un sous-marin règle sa flottabilité en remplissant ou en vidant des ballasts d'eau de mer.
+- Plus le centre de gravité d'un navire est bas, plus il est stable.
+
+---
+type: article
+title: Comment se forme un arc-en-ciel ?
+slug: comment-se-forme-un-arc-en-ciel
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un arc-en-ciel naît quand la lumière du Soleil entre dans des gouttes de pluie, se réfléchit
+  au fond, puis ressort : elle se sépare en couleurs. Chacun voit son propre arc.
+tags: [electromagnetisme]
+sources:
+  - title: "Rainbow Simulator"
+    url: "https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/rainbow-simulator"
+    publisher: "NOAA NESDIS"
+  - title: "Arc-en-ciel"
+    url: "https://fr.wikipedia.org/wiki/Arc-en-ciel"
+    publisher: "Wikipédia"
+  - title: "Rainbow"
+    url: "https://en.wikipedia.org/wiki/Rainbow"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où doit se trouver le Soleil pour voir un arc-en-ciel ?"
+    options:
+      - "Dans votre dos"
+      - "Devant vous"
+      - "Juste au-dessus de vous"
+    answer: 1
+    explanation: >
+      Le Soleil doit se trouver dans le dos de l'observateur : l'arc est centré sur la direction
+      exactement opposée au Soleil.
+  - question: "Quelle couleur est à l'extérieur de l'arc principal ?"
+    options:
+      - "Le violet"
+      - "Le rouge"
+      - "Le vert"
+    answer: 2
+    explanation: >
+      Dans l'arc principal, le rouge est à l'extérieur et le violet à l'intérieur.
+  - question: "Qu'est-ce qui sépare la lumière en couleurs ?"
+    options:
+      - "Les gouttes sont colorées"
+      - "Chaque couleur dévie d'un angle un peu différent"
+      - "Les nuages filtrent la lumière"
+    answer: 2
+    explanation: >
+      Chaque couleur dévie d'un angle un peu différent : la lumière blanche se sépare comme dans
+      un prisme.
+  - question: "Deux personnes côte à côte voient-elles le même arc ?"
+    options:
+      - "Oui, exactement le même"
+      - "Seulement si elles sont de la même taille"
+      - "Non, chacune voit le sien"
+    answer: 3
+    explanation: >
+      Un arc-en-ciel n'existe pas à un endroit précis : chaque observateur voit son propre arc,
+      selon sa position par rapport au Soleil et aux gouttes.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Un arc-en-ciel naît quand la lumière du Soleil entre dans des gouttes de pluie, se réfléchit au fond, puis ressort : elle se sépare en couleurs. Chacun voit son propre arc.
+
+## Une goutte, un prisme
+
+Un arc-en-ciel est un phénomène optique causé par la réfraction, la réflexion interne et la dispersion de la lumière dans des gouttes d'eau. En entrant dans la goutte, la lumière dévie un peu, car elle va plus lentement dans l'eau que dans l'air. La lumière rebondit ensuite sur le fond de la goutte et repart vers l'extérieur, où elle dévie une seconde fois. Chaque couleur dévie d'un angle un peu différent : la lumière blanche se sépare comme dans un prisme.
+
+## Où regarder, et dans quel ordre
+
+Dans l'arc principal, le rouge est à l'extérieur et le violet à l'intérieur. Le Soleil doit se trouver dans le dos de l'observateur : l'arc est centré sur la direction exactement opposée au Soleil. L'arc secondaire, plus pâle, apparaît au-dessus du premier avec deux réflexions dans les gouttes, et ses couleurs sont inversées. La zone entre les deux arcs paraît plus sombre, car peu de rayons y sont envoyés.
+
+## Un arc rien qu'à vous
+
+Un arc-en-ciel n'existe pas à un endroit précis : chaque observateur voit son propre arc, selon sa position par rapport au Soleil et aux gouttes.
+
+## À retenir
+
+- En entrant dans la goutte, la lumière dévie un peu, car elle va plus lentement dans l'eau que dans l'air.
+- Chaque couleur dévie d'un angle un peu différent : la lumière blanche se sépare comme dans un prisme.
+- Dans l'arc principal, le rouge est à l'extérieur et le violet à l'intérieur.
+- Le Soleil doit se trouver dans le dos de l'observateur : l'arc est centré sur la direction exactement opposée au Soleil.
+- Un arc-en-ciel n'existe pas à un endroit précis : chaque observateur voit le sien.
+
+---
+type: article
+title: Pourquoi le ciel est-il bleu et le soleil couchant rouge ?
+slug: pourquoi-le-ciel-est-il-bleu-et-le-soleil-couchant-rouge
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  L'air diffuse la lumière du Soleil dans toutes les directions, et le bleu bien plus que le
+  rouge. Au coucher du soleil, la lumière traverse plus d'air : le bleu s'est perdu, le rouge
+  reste.
+tags: [electromagnetisme]
+sources:
+  - title: "Why Is the Sky Blue?"
+    url: "https://spaceplace.nasa.gov/blue-sky/en/"
+    publisher: "NASA Space Place"
+  - title: "The Appearance of the Sky"
+    url: "https://scied.ucar.edu/learning-zone/atmosphere/appearance-sky"
+    publisher: "UCAR, Centre américain de recherche atmosphérique"
+  - title: "Diffusion Rayleigh"
+    url: "https://fr.wikipedia.org/wiki/Diffusion_Rayleigh"
+    publisher: "Wikipédia"
+  - title: "Diffuse sky radiation"
+    url: "https://en.wikipedia.org/wiki/Diffuse_sky_radiation"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle couleur est la plus diffusée par l'air ?"
+    options:
+      - "Le rouge"
+      - "Le jaune"
+      - "Le bleu"
+    answer: 3
+    explanation: >
+      La lumière bleue est plus diffusée que les autres couleurs, parce qu'elle voyage en ondes
+      plus courtes.
+  - question: "Pourquoi le soleil couchant paraît-il rouge ?"
+    options:
+      - "Il refroidit en fin de journée"
+      - "Les nuages le teintent toujours"
+      - "Sa lumière traverse beaucoup plus d'air"
+    answer: 3
+    explanation: >
+      Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphère qu'à
+      midi.
+  - question: "Comment s'appelle la diffusion de la lumière par des particules très petites ?"
+    options:
+      - "L'effet Doppler"
+      - "La réfraction de Newton"
+      - "La diffusion de Rayleigh"
+    answer: 3
+    explanation: >
+      Cette diffusion par des particules bien plus petites que la longueur d'onde s'appelle la
+      diffusion de Rayleigh, du nom du physicien britannique qui l'a décrite.
+  - question: "De quelle couleur est le ciel de Mars en plein jour ?"
+    options:
+      - "Bleu vif"
+      - "Vert"
+      - "Orangé"
+    answer: 3
+    explanation: >
+      La couleur du ciel dépend de la composition de l'atmosphère : sur Mars, le ciel de jour
+      paraît orangé et devient bleu-gris autour du Soleil au crépuscule.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+L'air diffuse la lumière du Soleil dans toutes les directions, et le bleu bien plus que le rouge. Au coucher du soleil, la lumière traverse plus d'air : le bleu s'est perdu, le rouge reste.
+
+## Le ciel, une lumière éparpillée
+
+La lumière du Soleil est diffusée dans toutes les directions par les gaz et les particules de l'air. La lumière bleue est plus diffusée que les autres couleurs, parce qu'elle voyage en ondes plus courtes. Cette diffusion par des particules bien plus petites que la longueur d'onde s'appelle la diffusion de Rayleigh, du nom du physicien britannique qui l'a décrite. On voit donc du bleu en regardant loin du Soleil : c'est la lumière diffusée vers nos yeux par les molécules d'azote et d'oxygène.
+
+## Le soir, un long trajet
+
+Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphère qu'à midi. Sur ce long trajet, le bleu est presque entièrement diffusé hors du rayon : il reste le jaune, l'orange et le rouge, qui arrivent jusqu'à nos yeux. Des couchers de soleil très rouges s'observent souvent près d'incendies de forêt ou après des éruptions volcaniques.
+
+## Et ailleurs ?
+
+La couleur du ciel dépend de la composition de l'atmosphère : sur Mars, le ciel de jour paraît orangé et devient bleu-gris autour du Soleil au crépuscule.
+
+## À retenir
+
+- La lumière du Soleil est diffusée dans toutes les directions par les gaz et les particules de l'air.
+- La lumière bleue est plus diffusée que les autres couleurs, parce qu'elle voyage en ondes plus courtes.
+- On voit donc du bleu en regardant loin du Soleil : c'est la lumière diffusée vers nos yeux par les molécules d'azote et d'oxygène.
+- Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphère qu'à midi.
+- Sur un long trajet, le bleu est diffusé hors du rayon : il reste l'orange et le rouge.
+
+---
+type: article
+title: Quelles sont les trois lois de Newton qui régissent tout mouvement ?
+slug: quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement
+categoryPath: sciences-fondamentales/physique/mecanique
+summary: >
+  Trois règles suffisent pour décrire le mouvement des objets de tous les jours : l'inertie, la
+  force qui accélère, et l'action qui provoque toujours une réaction.
+tags: [mecanique]
+sources:
+  - title: "Newton's Laws of Motion"
+    url: "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+    publisher: "NASA Glenn Research Center"
+  - title: "Lois du mouvement de Newton"
+    url: "https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton"
+    publisher: "Wikipédia"
+  - title: "Newton's laws of motion"
+    url: "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que dit la première loi de Newton ?"
+    options:
+      - "Sans force non équilibrée, un objet garde son mouvement"
+      - "Tout objet finit par s'arrêter seul"
+      - "Les objets lourds tombent plus vite"
+    answer: 1
+    explanation: >
+      Première loi : un objet au repos reste au repos, et un objet en mouvement garde sa vitesse
+      en ligne droite, sauf si une force non équilibrée agit sur lui.
+  - question: "Que vaut la force selon la deuxième loi ?"
+    options:
+      - "La masse multipliée par l'accélération"
+      - "La masse divisée par la vitesse"
+      - "La vitesse multipliée par le temps"
+    answer: 1
+    explanation: >
+      Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce
+      qu'on écrit F = m × a.
+  - question: "Sur quoi s'appliquent l'action et la réaction ?"
+    options:
+      - "Sur deux objets différents"
+      - "Sur le même objet"
+      - "Seulement sur les objets immobiles"
+    answer: 1
+    explanation: >
+      L'action et la réaction s'appliquent à des objets différents, jamais au même.
+  - question: "Quand les lois de Newton cessent-elles d'être valables ?"
+    options:
+      - "Dès qu'il pleut"
+      - "Près de la vitesse de la lumière ou à l'échelle des atomes"
+      - "Au-dessus de mille mètres d'altitude"
+    answer: 2
+    explanation: >
+      Ces lois décrivent très bien les objets de la vie courante, mais elles cessent d'être
+      valables près de la vitesse de la lumière et à l'échelle des atomes.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Trois règles suffisent pour décrire le mouvement des objets de tous les jours : l'inertie, la force qui accélère, et l'action qui provoque toujours une réaction.
+
+## Loi 1, l'inertie
+
+Première loi : un objet au repos reste au repos, et un objet en mouvement garde sa vitesse en ligne droite, sauf si une force non équilibrée agit sur lui. Cette tendance d'un objet à résister aux changements de son mouvement s'appelle l'inertie.
+
+## Loi 2, la force qui accélère
+
+Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce qu'on écrit F = m × a. La même force donne donc une accélération plus petite à un objet plus massif.
+
+## Loi 3, action et réaction
+
+Troisième loi : quand un objet exerce une force sur un autre, le second exerce sur le premier une force égale et opposée. L'action et la réaction s'appliquent à des objets différents, jamais au même. Dans un moteur à réaction, les gaz sont éjectés vers l'arrière et la poussée pousse l'avion vers l'avant ; une aile dévie l'air vers le bas et l'air pousse l'aile vers le haut.
+
+## Jusqu'où ça marche
+
+Ces lois décrivent très bien les objets de la vie courante, mais elles cessent d'être valables près de la vitesse de la lumière et à l'échelle des atomes.
+
+## À retenir
+
+- Première loi : sans force qui s'y oppose, un objet garde son repos ou sa vitesse en ligne droite.
+- Deuxième loi : l'accélération d'un objet dépend de sa masse et de la force appliquée, ce qu'on écrit F = m × a.
+- La même force donne donc une accélération plus petite à un objet plus massif.
+- Troisième loi : quand un objet exerce une force sur un autre, le second exerce sur le premier une force égale et opposée.
+- Ces lois valent pour la vie courante, mais pas près de la vitesse de la lumière ni à l'échelle des atomes.
+
+---
+type: article
+title: Comment un four à micro-ondes chauffe-t-il les aliments ?
+slug: comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments
+categoryPath: sciences-fondamentales/physique/electromagnetisme
+summary: >
+  Un four à micro-ondes envoie des ondes que l'eau des aliments absorbe : ses molécules
+  s'agitent et chauffent. Il chauffe donc mieux ce qui est humide que ce qui est sec.
+tags: [electromagnetisme]
+sources:
+  - title: "Microwave Ovens"
+    url: "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens"
+    publisher: "Agence américaine des produits alimentaires et médicamenteux"
+  - title: "Microwave Chemistry, Chem Matters"
+    url: "https://casn.berkeley.edu/wp-content/uploads/resource_files/Microwaveinfromation.doc"
+    publisher: "Université de Californie à Berkeley"
+  - title: "Four à micro-ondes"
+    url: "https://fr.wikipedia.org/wiki/Four_%C3%A0_micro-ondes"
+    publisher: "Wikipédia"
+  - title: "Microwave oven"
+    url: "https://en.wikipedia.org/wiki/Microwave_oven"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle molécule des aliments absorbe surtout les micro-ondes ?"
+    options:
+      - "Le fer"
+      - "L'eau"
+      - "Le sel de table"
+    answer: 2
+    explanation: >
+      Les molécules d'eau sont polaires : un bout est un peu positif, l'autre un peu négatif.
+      Elles tournent pour s'aligner sur le champ électrique qui change sans cesse.
+  - question: "Pourquoi la porte est-elle munie d'une grille percée de petits trous ?"
+    options:
+      - "Pour ventiler l'enceinte"
+      - "Les micro-ondes ne passent pas mais la lumière si"
+      - "Pour décorer"
+    answer: 2
+    explanation: >
+      L'enceinte métallique agit comme une cage de Faraday : les trous de la grille de la porte
+      sont bien plus petits que la longueur d'onde, donc les micro-ondes ne passent pas, alors
+      que la lumière visible passe.
+  - question: "Pourquoi un plateau tournant est-il utile ?"
+    options:
+      - "Les ondes se répartissent mal dans l'enceinte"
+      - "Il rend le four silencieux"
+      - "Il refroidit l'aliment"
+    answer: 1
+    explanation: >
+      Les micro-ondes se répartissent mal dans l'enceinte, avec des zones trop chaudes et
+      d'autres trop froides ; un plateau tournant ou un brasseur d'ondes corrige ce défaut.
+  - question: "L'aliment devient-il radioactif ?"
+    options:
+      - "Non, l'énergie se change simplement en chaleur"
+      - "Oui, un peu"
+      - "Oui, s'il est gras"
+    answer: 1
+    explanation: >
+      L'énergie des micro-ondes se change en chaleur dans l'aliment, qui ne devient pas
+      radioactif.
+lastVerified: 2026-09-30
+status: published
+---
+
+## En bref
+
+Un four à micro-ondes envoie des ondes que l'eau des aliments absorbe : ses molécules s'agitent et chauffent. Il chauffe donc mieux ce qui est humide que ce qui est sec.
+
+## Des ondes qui secouent l'eau
+
+Les micro-ondes sont une forme de rayonnement électromagnétique, proche des ondes radio. Un composant appelé magnétron produit les micro-ondes, qui arrivent dans l'enceinte par un guide d'ondes. Un four à micro-ondes domestique émet à 2,45 gigahertz. Cette fréquence est proche de celle qui fait osciller le plus efficacement les molécules d'eau : plus basse, l'onde traverserait l'aliment sans le chauffer. Les molécules d'eau sont polaires : un bout est un peu positif, l'autre un peu négatif. Elles tournent pour s'aligner sur le champ électrique qui change sans cesse. Ce mouvement des molécules produit de la chaleur ; on parle de chauffage diélectrique.
+
+## Pourquoi certains aliments chauffent mieux
+
+L'eau, les graisses et les sucres absorbent les micro-ondes ; les aliments riches en eau, comme les légumes frais, cuisent donc plus vite. Les aliments secs ou gelés chauffent moins bien que les aliments humides. Les micro-ondes se répartissent mal dans l'enceinte, avec des zones trop chaudes et d'autres trop froides ; un plateau tournant ou un brasseur d'ondes corrige ce défaut.
+
+## Garder les ondes dans la boîte
+
+L'enceinte métallique agit comme une cage de Faraday : les trous de la grille de la porte sont bien plus petits que la longueur d'onde, donc les micro-ondes ne passent pas, alors que la lumière visible passe. Aux États-Unis, la réglementation impose deux systèmes de verrouillage indépendants qui coupent les micro-ondes dès que la porte s'ouvre. L'énergie des micro-ondes se change en chaleur dans l'aliment, qui ne devient pas radioactif. L'effet a été découvert par hasard par Percy Spencer, ingénieur chez Raytheon : près d'un radar en marche, une barre chocolatée a fondu dans sa poche.
+
+## À retenir
+
+- Les molécules d'eau, polaires, tournent pour s'aligner sur un champ électrique qui change sans cesse.
+- L'eau, les graisses et les sucres absorbent les micro-ondes ; les aliments riches en eau, comme les légumes frais, cuisent donc plus vite.
+- Les ondes se répartissent mal, avec des zones trop chaudes ou trop froides ; un plateau tournant corrige ce défaut.
+- Les trous de la grille de la porte sont bien plus petits que la longueur d'onde : la lumière passe, pas les micro-ondes.
+- Percy Spencer, ingénieur chez Raytheon, a découvert l'effet par hasard quand une barre chocolatée a fondu près d'un radar.

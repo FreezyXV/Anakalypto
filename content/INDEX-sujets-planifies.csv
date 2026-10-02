@@ -418,7 +418,7 @@ energie;energie/reseaux-et-stockage/hydrogene;Hydrogène gris, bleu et vert;hydr
 energie;energie/reseaux-et-stockage/hydrogene;La pile à combustible;pile-combustible;2;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogène dans l'industrie;hydrogene-industrie;2;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;Stocker et transporter l'hydrogène;stocker-transporter-hydrogene;2;non;planned
-energie;energie/efficacite-et-sobriete/efficacite-energetique;La pompe à chaleur;pompe-chaleur;2;non;planned
+energie;energie/efficacite-et-sobriete/efficacite-energetique;Comment une pompe à chaleur chauffe-t-elle avec l'air froid du dehors ?;comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors;2;non;published
 energie;energie/efficacite-et-sobriete/efficacite-energetique;L'éclairage LED;eclairage-led;2;non;planned
 energie;energie/efficacite-et-sobriete/efficacite-energetique;Le rendement d'un moteur;rendement-moteur;2;non;planned
 energie;energie/efficacite-et-sobriete/usages-et-consommation;La précarité énergétique;precarite-energetique;2;non;planned
@@ -4454,7 +4454,7 @@ espace;espace-et-astronomie/systeme-solaire/lune;Le calendrier lunaire et son us
 espace;espace-et-astronomie/systeme-solaire/lune;Les eclipses lunaires, mecanisme precis;les-eclipses-lunaires-mecanisme-precis;2;oui;planned
 espace;espace-et-astronomie/systeme-solaire/lune;Les eclipses solaires, une coincidence cosmique rare;les-eclipses-solaires-une-coincidence-cosmique-rare;2;oui;planned
 espace;espace-et-astronomie/systeme-solaire/lune;L'eloignement progressif de la Lune;l-eloignement-progressif-de-la-lune;3;non;planned
-espace;espace-et-astronomie/systeme-solaire/lune;Le role de la Lune dans les marees;le-role-de-la-lune-dans-les-marees;2;oui;planned
+espace;espace-et-astronomie/systeme-solaire/lune;Pourquoi la mer monte-t-elle et descend-elle deux fois par jour ?;pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour;2;oui;published
 espace;espace-et-astronomie/systeme-solaire/lune;L'influence de la Lune sur la stabilite de l'axe terrestre;l-influence-de-la-lune-sur-la-stabilite-de-l-axe-terrestre;2;non;planned
 espace;espace-et-astronomie/systeme-solaire/lune;L'eau lunaire, une decouverte qui change tout;l-eau-lunaire-une-decouverte-qui-change-tout;2;non;planned
 espace;espace-et-astronomie/systeme-solaire/lune;Les poles lunaires et leurs cratères en ombre permanente;les-poles-lunaires-et-leurs-crateres-en-ombre-permanente;3;non;planned
@@ -12088,3 +12088,11 @@ technologies;technologies-et-ingenierie/robotique/robots-mobiles;Que peuvent fai
 technologies;technologies-et-ingenierie/genie-civil/structures;Comment une structure peut-elle tenir dans un sac, puis se déployer ou se gonfler ?;comment-une-structure-peut-elle-tenir-dans-un-sac-puis-se-deployer-ou-se-gonfler;0.78;non;published
 technologies;technologies-et-ingenierie/genie-civil/materiaux;Comment des bactéries, des capsules ou la chaux romaine réparent-elles les fissures du béton ?;comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton;0.77;non;published
 technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;Les alliages à mémoire de forme;les-alliages-a-memoire-de-forme;;non;published
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Un réfrigérateur fabrique-t-il vraiment du froid ?;un-refrigerateur-fabrique-t-il-vraiment-du-froid;2;non;published
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;Pourquoi un bateau en acier flotte-t-il ?;pourquoi-un-bateau-en-acier-flotte-t-il;2;non;published
+espace;espace-et-astronomie/systeme-solaire/planetes;Pourquoi y a-t-il des saisons sur Terre ?;pourquoi-y-a-t-il-des-saisons-sur-terre;2;non;published
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Comment se forme un arc-en-ciel ?;comment-se-forme-un-arc-en-ciel;2;non;published
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Pourquoi le ciel est-il bleu et le soleil couchant rouge ?;pourquoi-le-ciel-est-il-bleu-et-le-soleil-couchant-rouge;2;non;published
+geographie;geographie-et-territoires/geographie-physique/climatologie;Comment naît un éclair pendant un orage ?;comment-nait-un-eclair-pendant-un-orage;2;non;published
+sciences-fondamentales;sciences-fondamentales/physique/mecanique;Quelles sont les trois lois de Newton qui régissent tout mouvement ?;quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement;2;non;published
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Comment un four à micro-ondes chauffe-t-il les aliments ?;comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments;2;non;published

@@ -3500,18 +3500,94 @@ status: planned
 
 ---
 type: article
-title: La pompe à chaleur
-slug: pompe-chaleur
+title: Comment une pompe à chaleur chauffe-t-elle avec l'air froid du dehors ?
+slug: comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors
 categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
 summary: >
-  Comment un appareil peut fournir trois fois plus de chaleur qu'il ne consomme d'électricité.
+  Une pompe à chaleur ne fabrique pas la chaleur, elle la déplace du dehors vers le dedans. Elle
+  consomme donc nettement moins d'électricité qu'un radiateur électrique.
 tags: [efficacite-energetique]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Pump Up Your Savings with Heat Pumps"
+    url: "https://www.energy.gov/articles/pump-your-savings-heat-pumps"
+    publisher: "Département de l'Énergie des États-Unis"
+  - title: "How a heat pump works"
+    url: "https://www.iea.org/reports/the-future-of-heat-pumps/how-a-heat-pump-works"
+    publisher: "Agence internationale de l'énergie"
+  - title: "Pompe à chaleur"
+    url: "https://fr.wikipedia.org/wiki/Pompe_%C3%A0_chaleur"
+    publisher: "Wikipédia"
+  - title: "Vapor-compression refrigeration"
+    url: "https://en.wikipedia.org/wiki/Vapor-compression_refrigeration"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait une pompe à chaleur de la chaleur ?"
+    options:
+      - "Elle la fabrique en brûlant du gaz"
+      - "Elle la déplace d'un espace froid vers un espace chaud"
+      - "Elle la détruit"
+    answer: 2
+    explanation: >
+      Une pompe à chaleur ne produit pas la chaleur : elle la transfère d'un espace froid vers
+      un espace plus chaud, comme le fait un réfrigérateur.
+  - question: "Que mesure le coefficient de performance ?"
+    options:
+      - "La puissance du moteur"
+      - "Le rapport entre chaleur fournie et énergie consommée"
+      - "Le bruit de l'appareil"
+    answer: 2
+    explanation: >
+      Le coefficient de performance mesure le rapport entre la chaleur fournie et l'énergie
+      consommée.
+  - question: "Où peut-elle puiser de la chaleur ?"
+    options:
+      - "Uniquement dans le soleil"
+      - "Dans l'air, le sol ou l'eau"
+      - "Uniquement dans le gaz"
+    answer: 2
+    explanation: >
+      La chaleur peut être prise dans l'air extérieur, dans le sol, dans l'eau proche ou dans la
+      chaleur perdue d'une usine.
+  - question: "Comment une pompe réversible passe-t-elle du chaud au froid ?"
+    options:
+      - "En changeant de moteur"
+      - "En inversant le sens du fluide"
+      - "En ajoutant une résistance"
+    answer: 2
+    explanation: >
+      Une pompe réversible chauffe en hiver et rafraîchit en été en inversant le sens de
+      circulation du fluide grâce à une vanne à quatre voies.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une pompe à chaleur ne fabrique pas la chaleur, elle la déplace du dehors vers le dedans. Elle consomme donc nettement moins d'électricité qu'un radiateur électrique.
+
+## Déplacer la chaleur
+
+Une pompe à chaleur ne produit pas la chaleur : elle la transfère d'un espace froid vers un espace plus chaud, comme le fait un réfrigérateur. La chaleur peut être prise dans l'air extérieur, dans le sol, dans l'eau proche ou dans la chaleur perdue d'une usine.
+
+## Le voyage du fluide
+
+Un fluide frigorigène parcourt quatre étapes : compression, condensation, détente et évaporation. Dans l'évaporateur, le fluide froid absorbe la chaleur de l'extérieur et se vaporise complètement. Une fois comprimé, le gaz chaud cède sa chaleur à la maison dans un échangeur et redevient liquide.
+
+## Pourquoi elle consomme peu
+
+Le coefficient de performance mesure le rapport entre la chaleur fournie et l'énergie consommée. Pour une pompe domestique typique, la chaleur fournie vaut plusieurs fois l'énergie électrique consommée, car l'essentiel de la chaleur est déplacé et non produit. Parce qu'elle déplace la chaleur au lieu de la produire, une pompe à chaleur consomme nettement moins d'électricité qu'un chauffage électrique classique.
+
+## Chauffer ou rafraîchir
+
+Une pompe réversible chauffe en hiver et rafraîchit en été en inversant le sens de circulation du fluide grâce à une vanne à quatre voies. Il existe des pompes air-air, air-eau et géothermiques, ces dernières puisant la chaleur du sol par des forages horizontaux ou verticaux.
+
+## À retenir
+
+- Une pompe à chaleur ne produit pas la chaleur : elle la déplace d'un espace froid vers un espace plus chaud.
+- Dans l'évaporateur, le fluide froid absorbe la chaleur de l'extérieur et se vaporise complètement.
+- Une fois comprimé, le gaz chaud cède sa chaleur à la maison dans un échangeur et redevient liquide.
+- La chaleur fournie vaut plusieurs fois l'électricité consommée, car l'essentiel de la chaleur est déplacé et non produit.
+- Une pompe réversible chauffe en hiver et rafraîchit en été, en inversant le sens du fluide.
 
 ---
 
