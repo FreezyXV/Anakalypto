@@ -4223,18 +4223,87 @@ status: planned
 
 ---
 type: article
-title: Les systemes de navigation par satellite, GPS et Galileo
-slug: les-systemes-de-navigation-par-satellite-gps-et-galileo
+title: Comment le GPS sait-il exactement où vous êtes ?
+slug: comment-le-gps-sait-il-exactement-ou-vous-etes
 categoryPath: espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites
 summary: >
-  Comment une constellation de satellites permet de connaitre sa position sur Terre.
-tags: [lanceurs-et-orbites, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Des satellites émettent l'heure avec des horloges atomiques. Votre récepteur mesure le temps
+  de voyage des signaux, en déduit des distances, et trouve sa position là où elles se croisent.
+tags: [lanceurs-et-orbites]
+sources:
+  - title: "Trilateration"
+    url: "https://www.gps.gov/trilateration"
+    publisher: "GPS.gov, gouvernement des États-Unis"
+  - title: "Global Positioning System"
+    url: "https://fr.wikipedia.org/wiki/Global_Positioning_System"
+    publisher: "Wikipédia"
+  - title: "Global Positioning System"
+    url: "https://en.wikipedia.org/wiki/Global_Positioning_System"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que mesure le récepteur GPS pour trouver la distance à un satellite ?"
+    options:
+      - "Le temps de voyage du signal"
+      - "La couleur du signal"
+      - "Le bruit du satellite"
+    answer: 1
+    explanation: >
+      Le récepteur mesure le temps mis par le signal pour arriver et le multiplie par la vitesse
+      de la lumière : cela donne la distance au satellite.
+  - question: "Pourquoi faut-il un quatrième satellite ?"
+    options:
+      - "Pour éclairer la carte"
+      - "Pour corriger l'horloge du récepteur"
+      - "Pour doubler la puissance"
+    answer: 2
+    explanation: >
+      En théorie, trois distances suffisent à fixer une position ; en pratique, un quatrième
+      satellite sert à corriger l'horloge du récepteur.
+  - question: "Que corrige le système à cause de la relativité ?"
+    options:
+      - "La vitesse du récepteur"
+      - "L'avance des horloges des satellites"
+      - "Le poids du satellite"
+    answer: 2
+    explanation: >
+      À cause de la relativité, les horloges des satellites avancent un peu plus vite que celles
+      du sol ; le système corrige cet écart.
+  - question: "Où se trouve la position du récepteur ?"
+    options:
+      - "Au centre de la Terre"
+      - "Sous le satellite le plus proche"
+      - "Là où les sphères se croisent"
+    answer: 3
+    explanation: >
+      Chaque distance place le récepteur quelque part sur une sphère centrée sur le satellite ;
+      la position se trouve là où les sphères se croisent.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des satellites émettent l'heure avec des horloges atomiques. Votre récepteur mesure le temps de voyage des signaux, en déduit des distances, et trouve sa position là où elles se croisent.
+
+## Mesurer des distances avec le temps
+
+Le GPS est un système de géolocalisation par satellites, lancé par le département américain de la Défense. Chaque satellite embarque des horloges atomiques très stables et émet en continu des signaux radio, avec l'heure d'émission. Le récepteur mesure le temps mis par le signal pour arriver et le multiplie par la vitesse de la lumière : cela donne la distance au satellite. Chaque distance place le récepteur quelque part sur une sphère centrée sur le satellite ; la position se trouve là où les sphères se croisent.
+
+## Pourquoi quatre satellites
+
+En théorie, trois distances suffisent à fixer une position ; en pratique, un quatrième satellite sert à corriger l'horloge du récepteur. Le récepteur calcule en même temps l'écart entre sa propre horloge et celle des satellites. À cause de la relativité, les horloges des satellites avancent un peu plus vite que celles du sol ; le système corrige cet écart. L'atmosphère retarde les signaux, et ils peuvent rebondir sur des obstacles, ce qui ajoute des erreurs que le système doit corriger.
+
+## Quelle précision
+
+Un récepteur grand public se situe en général à quelques mètres près ; les récepteurs les plus évolués descendent à quelques centimètres. Pendant longtemps, le signal civil a été volontairement dégradé ; l'accès sans restriction a ensuite été autorisé.
+
+## À retenir
+
+- Chaque satellite embarque des horloges atomiques très stables et émet en continu des signaux radio, avec l'heure d'émission.
+- Le récepteur multiplie le temps de voyage du signal par la vitesse de la lumière : cela donne la distance au satellite.
+- Chaque distance place le récepteur quelque part sur une sphère centrée sur le satellite ; la position se trouve là où les sphères se croisent.
+- En théorie, trois distances suffisent à fixer une position ; en pratique, un quatrième satellite sert à corriger l'horloge du récepteur.
+- À cause de la relativité, les horloges des satellites avancent un peu plus vite que celles du sol ; le système corrige cet écart.
 
 ---
 type: article

@@ -2303,18 +2303,85 @@ status: planned
 
 ---
 type: article
-title: Les câbles sous-marins
-slug: cables-sous-marins
+title: Comment Internet traverse-t-il les océans ?
+slug: comment-internet-traverse-t-il-les-oceans
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
 summary: >
-  Plus de 95 % des données intercontinentales passent par des câbles au fond des océans.
+  Presque tout le trafic entre continents passe par des câbles à fibres optiques posés au fond
+  de la mer, pas par des satellites. La lumière y transporte les données.
 tags: [internet]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Submarine Cables"
+    url: "https://www.noaa.gov/submarine-cables"
+    publisher: "NOAA, Administration océanique et atmosphérique américaine"
+  - title: "Câble sous-marin"
+    url: "https://fr.wikipedia.org/wiki/C%C3%A2ble_sous-marin"
+    publisher: "Wikipédia"
+  - title: "Submarine communications cable"
+    url: "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Par où passe presque tout le trafic Internet entre continents ?"
+    options:
+      - "Par des satellites"
+      - "Par des ballons"
+      - "Par des câbles sous-marins"
+    answer: 3
+    explanation: >
+      La quasi-totalité du trafic de données entre continents passe par des câbles sous-marins,
+      et non par des satellites.
+  - question: "Comment la lumière reste-t-elle dans la fibre ?"
+    options:
+      - "Grâce à un tuyau d'eau"
+      - "Grâce à un aimant"
+      - "Par réflexion totale interne"
+    answer: 3
+    explanation: >
+      Dans une fibre optique, la lumière est guidée par réflexion totale interne ; l'information
+      est codée en impulsions lumineuses.
+  - question: "Quelles sont les causes principales de pannes ?"
+    options:
+      - "Les requins"
+      - "La pluie"
+      - "Les chaluts, les ancres et les séismes"
+    answer: 3
+    explanation: >
+      Les pannes viennent surtout des chaluts de pêche, des ancres de navires et des séismes.
+  - question: "En quelle année TAT-8 est-il entré en service ?"
+    options:
+      - "1988"
+      - "1858"
+      - "2008"
+    answer: 1
+    explanation: >
+      Le premier câble transatlantique à fibre optique, TAT-8, est entré en service en 1988.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Presque tout le trafic entre continents passe par des câbles à fibres optiques posés au fond de la mer, pas par des satellites. La lumière y transporte les données.
+
+## Un tuyau de lumière sous la mer
+
+La quasi-totalité du trafic de données entre continents passe par des câbles sous-marins, et non par des satellites. Dans une fibre optique, la lumière est guidée par réflexion totale interne ; l'information est codée en impulsions lumineuses. Des répéteurs, qui amplifient le signal, jalonnent le câble ; ils sont alimentés en électricité par le câble lui-même. Les câbles à fibre optique ont rapidement dépassé les satellites en volume de données, en vitesse et en coût.
+
+## Poser et protéger
+
+Des navires câbliers spécialisés déroulent le câble sur le fond de la mer. Près des côtes, le câble est généralement enterré pour le protéger, notamment de la pêche. Les pannes viennent surtout des chaluts de pêche, des ancres de navires et des séismes.
+
+## Du cuivre à la fibre
+
+Un premier câble télégraphique transatlantique en cuivre n'a fonctionné qu'environ un mois ; un câble durable a suivi quelques années plus tard. Le premier câble transatlantique à fibre optique, TAT-8, est entré en service en 1988. Des câbles sous-marins servent aussi à transporter l'électricité, notamment pour des installations d'énergie renouvelable en mer.
+
+## À retenir
+
+- La quasi-totalité du trafic de données entre continents passe par des câbles sous-marins, et non par des satellites.
+- Dans une fibre optique, la lumière est guidée par réflexion totale interne ; l'information est codée en impulsions lumineuses.
+- Des répéteurs, qui amplifient le signal, jalonnent le câble ; ils sont alimentés en électricité par le câble lui-même.
+- Près des côtes, le câble est généralement enterré pour le protéger, notamment de la pêche.
+- Les pannes viennent surtout des chaluts de pêche, des ancres de navires et des séismes.
 
 ---
 

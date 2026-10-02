@@ -6725,18 +6725,88 @@ status: planned
 
 ---
 type: article
-title: Le barrage hydroelectrique, principe de fonctionnement
-slug: le-barrage-hydroelectrique-principe-de-fonctionnement
+title: Comment un barrage transforme-t-il l'eau d'une rivière en électricité ?
+slug: comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite
 categoryPath: energie/energies-renouvelables/hydraulique
 summary: >
-  Comment un mur retient l'eau pour produire de l'electricite a la demande.
-tags: [hydraulique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un barrage retient l'eau en hauteur. En tombant dans une conduite, elle fait tourner une
+  turbine reliée à un générateur, qui produit l'électricité. Plus la chute est haute, plus c'est
+  puissant.
+tags: [hydraulique]
+sources:
+  - title: "Hydroelectric Power: How it Works"
+    url: "https://www.usgs.gov/water-science-school/science/hydroelectric-power-how-it-works"
+    publisher: "USGS, Service géologique des États-Unis"
+  - title: "Centrale hydroélectrique"
+    url: "https://fr.wikipedia.org/wiki/Centrale_hydro%C3%A9lectrique"
+    publisher: "Wikipédia"
+  - title: "Hydroelectricity"
+    url: "https://en.wikipedia.org/wiki/Hydroelectricity"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui fait tourner la turbine d'un barrage ?"
+    options:
+      - "Le vent"
+      - "Un moteur à essence"
+      - "L'eau qui tombe dans la conduite"
+    answer: 3
+    explanation: >
+      Au bout de la conduite, l'eau en mouvement fait tourner une turbine, qui ressemble à une
+      hélice.
+  - question: "De quoi dépend la puissance d'une centrale hydroélectrique ?"
+    options:
+      - "Du volume d'eau et de la hauteur de chute"
+      - "De la couleur de l'eau"
+      - "De la longueur de la rivière"
+    answer: 1
+    explanation: >
+      La puissance dépend du volume d'eau et de la différence de hauteur entre le réservoir et
+      la sortie, appelée hauteur de chute.
+  - question: "À quoi sert le pompage-turbinage ?"
+    options:
+      - "À nettoyer le réservoir"
+      - "À refroidir la turbine"
+      - "À stocker de l'énergie en remontant l'eau"
+    answer: 3
+    explanation: >
+      Les stations de pompage-turbinage servent de batterie : quand la demande est faible, on
+      remonte l'eau dans le réservoir haut, puis on la relâche quand la demande est forte.
+  - question: "Quel impact ont les grands réservoirs ?"
+    options:
+      - "Ils réchauffent le climat de la ville"
+      - "Ils font monter la mer"
+      - "Ils noient des terres et peuvent déplacer des populations"
+    answer: 3
+    explanation: >
+      Les grands réservoirs noient de vastes terres, peuvent déplacer des populations et
+      morceler les rivières.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un barrage retient l'eau en hauteur. En tombant dans une conduite, elle fait tourner une turbine reliée à un générateur, qui produit l'électricité. Plus la chute est haute, plus c'est puissant.
+
+## De l'eau en hauteur à l'électricité
+
+Un barrage retient l'eau d'une rivière dans un réservoir ; cette eau en hauteur contient de l'énergie potentielle. L'eau entre par une prise située près du bas du barrage, puis tombe par gravité dans une grosse conduite appelée conduite forcée. Au bout de la conduite, l'eau en mouvement fait tourner une turbine, qui ressemble à une hélice. La turbine entraîne un générateur : quand des aimants tournent près de conducteurs, un courant électrique apparaît. L'eau ressort par un canal de fuite et rejoint la rivière en aval.
+
+## Pourquoi la hauteur compte
+
+La puissance dépend du volume d'eau et de la différence de hauteur entre le réservoir et la sortie, appelée hauteur de chute. On choisit la turbine selon la hauteur de chute : Pelton pour les très hautes chutes, Francis pour les chutes moyennes à hautes, Kaplan pour les basses chutes à fort débit. Il existe des centrales au fil de l'eau, qui stockent peu, et des centrales à réservoir, qui gardent l'eau pour la saison.
+
+## Une batterie et un prix à payer
+
+Les stations de pompage-turbinage servent de batterie : quand la demande est faible, on remonte l'eau dans le réservoir haut, puis on la relâche quand la demande est forte. L'hydroélectricité est la première source d'électricité renouvelable au monde. Les grands réservoirs noient de vastes terres, peuvent déplacer des populations et morceler les rivières.
+
+## À retenir
+
+- Un barrage retient l'eau d'une rivière dans un réservoir ; cette eau en hauteur contient de l'énergie potentielle.
+- Au bout de la conduite, l'eau en mouvement fait tourner une turbine, qui ressemble à une hélice.
+- La turbine entraîne un générateur : quand des aimants tournent près de conducteurs, un courant électrique apparaît.
+- La puissance dépend du volume d'eau et de la différence de hauteur entre le réservoir et la sortie, appelée hauteur de chute.
+- Les stations de pompage-turbinage remontent l'eau quand la demande est faible et la relâchent quand elle est forte.
 
 ---
 type: article
@@ -8150,18 +8220,86 @@ status: planned
 
 ---
 type: article
-title: La pile a combustible, transformer l'hydrogene en electricite
-slug: la-pile-a-combustible-transformer-l-hydrogene-en-electricite
+title: Comment une pile à hydrogène produit-elle de l'électricité sans rien brûler ?
+slug: comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler
 categoryPath: energie/reseaux-et-stockage/hydrogene
 summary: >
-  Le processus inverse de l'electrolyse, qui produit electricite et eau.
-tags: [hydrogene, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans une pile à combustible, l'hydrogène est coupé en protons et en électrons. Les électrons
+  passent par un circuit extérieur : c'est le courant. Avec l'oxygène, il ne reste que de l'eau.
+tags: [hydrogene]
+sources:
+  - title: "Fuel Cell Animation (Text Version)"
+    url: "https://www.energy.gov/cmei/fuels/fuel-cell-animation-text-version"
+    publisher: "Département de l'Énergie des États-Unis"
+  - title: "Pile à combustible"
+    url: "https://fr.wikipedia.org/wiki/Pile_%C3%A0_combustible"
+    publisher: "Wikipédia"
+  - title: "Fuel cell"
+    url: "https://en.wikipedia.org/wiki/Fuel_cell"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait la membrane d'une pile à hydrogène ?"
+    options:
+      - "Elle stocke l'hydrogène"
+      - "Elle filtre l'eau"
+      - "Elle laisse passer les protons mais pas les électrons"
+    answer: 3
+    explanation: >
+      La membrane laisse passer les protons, mais bloque les électrons.
+  - question: "D'où vient le courant électrique ?"
+    options:
+      - "D'une flamme"
+      - "Du flux des électrons dans le circuit extérieur"
+      - "Du poids de l'hydrogène"
+    answer: 2
+    explanation: >
+      Bloqués, les électrons passent par un circuit extérieur : leur flux est le courant
+      électrique que l'on utilise.
+  - question: "Que rejette une pile alimentée en hydrogène pur ?"
+    options:
+      - "Du dioxyde de carbone"
+      - "De la chaleur et de l'eau"
+      - "De la fumée noire"
+    answer: 2
+    explanation: >
+      Avec de l'hydrogène pur, la pile n'émet que de la chaleur et de l'eau, sans polluant de
+      l'air ni gaz à effet de serre.
+  - question: "Quelle différence avec une batterie ?"
+    options:
+      - "Elle produit du courant tant qu'on l'alimente en combustible"
+      - "Elle ne produit rien"
+      - "Elle fonctionne sans oxygène"
+    answer: 1
+    explanation: >
+      Contrairement à une batterie, qui stocke son énergie, une pile à combustible produit du
+      courant tant qu'on lui fournit du combustible et de l'oxygène.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans une pile à combustible, l'hydrogène est coupé en protons et en électrons. Les électrons passent par un circuit extérieur : c'est le courant. Avec l'oxygène, il ne reste que de l'eau.
+
+## Une réaction, pas une flamme
+
+Une pile à combustible est un générateur électrochimique qui transforme directement l'énergie chimique d'un combustible, souvent l'hydrogène, et d'un comburant, l'oxygène, en électricité. À l'anode, un catalyseur sépare l'hydrogène en protons, chargés positivement, et en électrons, chargés négativement. La membrane laisse passer les protons, mais bloque les électrons. Bloqués, les électrons passent par un circuit extérieur : leur flux est le courant électrique que l'on utilise. À la cathode, les protons, les électrons et l'oxygène se combinent pour former de l'eau et de la chaleur.
+
+## Propre, mais pas une batterie
+
+Avec de l'hydrogène pur, la pile n'émet que de la chaleur et de l'eau, sans polluant de l'air ni gaz à effet de serre. Contrairement à une batterie, qui stocke son énergie, une pile à combustible produit du courant tant qu'on lui fournit du combustible et de l'oxygène. Une cellule seule fournit une tension faible : on empile donc de nombreuses cellules pour obtenir assez d'électricité. Leur rendement peut dépasser celui d'un moteur à combustion interne, et il augmente encore si l'on récupère la chaleur perdue.
+
+## Des fusées à la route
+
+La NASA a utilisé des piles à combustible alcalines pour alimenter des engins spatiaux, dont les missions Apollo. Les premières piles de laboratoire ont été réalisées par William Grove au XIXe siècle.
+
+## À retenir
+
+- La membrane laisse passer les protons, mais bloque les électrons.
+- Bloqués, les électrons passent par un circuit extérieur : leur flux est le courant électrique que l'on utilise.
+- Avec de l'hydrogène pur, la pile n'émet que de la chaleur et de l'eau, sans polluant de l'air ni gaz à effet de serre.
+- Contrairement à une batterie, elle produit du courant tant qu'on lui fournit du combustible et de l'oxygène.
+- La NASA a utilisé des piles à combustible alcalines pour alimenter des engins spatiaux, dont les missions Apollo.
 
 ---
 type: article
@@ -8345,18 +8483,88 @@ status: planned
 
 ---
 type: article
-title: Le principe de base d'un reseau electrique
-slug: le-principe-de-base-d-un-reseau-electrique
+title: Comment l'électricité voyage-t-elle de la centrale jusqu'à votre prise ?
+slug: comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise
 categoryPath: energie/reseaux-et-stockage/reseaux-electriques
 summary: >
-  Comment l'electricite est produite, transportee puis distribuee jusqu'a chaque foyer.
-tags: [reseaux-electriques, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'électricité monte en haute tension pour voyager loin avec peu de pertes, puis redescend par
+  étapes jusqu'à la prise. Le réseau doit équilibrer production et consommation à chaque
+  instant.
+tags: [reseaux-electriques]
+sources:
+  - title: "Delivery to consumers"
+    url: "https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php"
+    publisher: "Agence américaine d'information sur l'énergie"
+  - title: "Réseau électrique"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9seau_%C3%A9lectrique"
+    publisher: "Wikipédia"
+  - title: "Electrical grid"
+    url: "https://en.wikipedia.org/wiki/Electrical_grid"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi élève-t-on la tension pour transporter l'électricité ?"
+    options:
+      - "Pour réduire les pertes sur de longues distances"
+      - "Pour la rendre plus colorée"
+      - "Pour économiser du cuivre dans les maisons"
+    answer: 1
+    explanation: >
+      Les pertes par effet Joule baissent quand la tension monte : pour la même puissance, une
+      tension plus haute demande un courant plus faible.
+  - question: "Que font les transformateurs des postes ?"
+    options:
+      - "Ils abaissent ou élèvent la tension"
+      - "Ils stockent l'électricité"
+      - "Ils produisent du courant"
+    answer: 1
+    explanation: >
+      Dans les postes, des transformateurs abaissent la tension à chaque étape : lignes de
+      transport, lignes de distribution, puis tension des prises.
+  - question: "Que doit faire le réseau à chaque instant ?"
+    options:
+      - "Fermer les lignes la nuit"
+      - "Stocker l'électricité dans les câbles"
+      - "Équilibrer production et consommation"
+    answer: 3
+    explanation: >
+      La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité
+      est consommée au moment où elle est produite.
+  - question: "À quoi sert la maille du réseau de transport ?"
+    options:
+      - "À offrir des chemins de secours"
+      - "À faire joli sur les cartes"
+      - "À réduire la fréquence"
+    answer: 1
+    explanation: >
+      Le réseau de transport est maillé, avec des chemins de secours : selon la règle N-1, la
+      perte d'un seul élément ne doit pas couper le courant.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'électricité monte en haute tension pour voyager loin avec peu de pertes, puis redescend par étapes jusqu'à la prise. Le réseau doit équilibrer production et consommation à chaque instant.
+
+## Monter en tension pour voyager loin
+
+Un réseau électrique est un ensemble d'infrastructures qui transporte l'électricité des centres de production jusqu'aux consommateurs. À la sortie de la centrale, des transformateurs élèvent la tension pour envoyer l'électricité sur de longues distances. Une tension élevée rend le transport sur de longues distances plus efficace et moins coûteux. Les pertes par effet Joule baissent quand la tension monte : pour la même puissance, une tension plus haute demande un courant plus faible.
+
+## Redescendre jusqu'à la prise
+
+Dans les postes, des transformateurs abaissent la tension à chaque étape : lignes de transport, lignes de distribution, puis tension des prises. Les lignes de distribution portent une tension plus basse, plus sûre à utiliser dans les maisons et les entreprises. Le réseau de transport est maillé, avec des chemins de secours : selon la règle N-1, la perte d'un seul élément ne doit pas couper le courant.
+
+## Un équilibre à tenir à chaque seconde
+
+La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité est consommée au moment où elle est produite. Tous les générateurs tournent à la même fréquence, différente en Europe et en Amérique du Nord, et un écart de fréquence sert de signal pour ajuster la production. Relier de grandes régions permet de mutualiser la production, de baisser les coûts et de s'entraider.
+
+## À retenir
+
+- À la sortie de la centrale, des transformateurs élèvent la tension pour envoyer l'électricité sur de longues distances.
+- Les pertes par effet Joule baissent quand la tension monte : pour la même puissance, une tension plus haute demande un courant plus faible.
+- Dans les postes, des transformateurs abaissent la tension à chaque étape : lignes de transport, lignes de distribution, puis tension des prises.
+- La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité est consommée au moment où elle est produite.
+- Relier de grandes régions permet de mutualiser la production, de baisser les coûts et de s'entraider.
 
 ---
 type: article

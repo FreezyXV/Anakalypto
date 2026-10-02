@@ -4447,18 +4447,90 @@ status: planned
 
 ---
 type: article
-title: Les ecluses, franchir une difference de niveau sur l'eau
-slug: les-ecluses-franchir-une-difference-de-niveau-sur-l-eau
+title: Comment une écluse fait-elle monter un bateau sans aucune pompe ?
+slug: comment-une-ecluse-fait-elle-monter-un-bateau-sans-aucune-pompe
 categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
 summary: >
-  Un dispositif ingenieux qui permet aux bateaux de changer d'altitude sans effort.
-tags: [ouvrages-dart, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une écluse est un sas rempli ou vidé par gravité : le bateau entre, l'eau monte ou descend
+  jusqu'au niveau voulu, puis la porte s'ouvre. Aucune pompe n'est nécessaire.
+tags: [ouvrages-dart]
+sources:
+  - title: "How a Lock Works"
+    url: "https://www.nps.gov/choh/learn/kidsyouth/how-a-lock-works.htm"
+    publisher: "Service des parcs nationaux des États-Unis"
+  - title: "Design of the Locks"
+    url: "https://pancanal.com/en/design-of-the-locks/"
+    publisher: "Autorité du canal de Panama"
+  - title: "Panama Canal"
+    url: "https://en.wikipedia.org/wiki/Panama_Canal"
+    publisher: "Wikipedia"
+  - title: "Écluse"
+    url: "https://fr.wikipedia.org/wiki/%C3%89cluse"
+    publisher: "Wikipédia"
+  - title: "Lock (water transport)"
+    url: "https://en.wikipedia.org/wiki/Lock_(water_transport)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui fait monter l'eau dans le sas d'une écluse ?"
+    options:
+      - "Une grosse pompe"
+      - "Le vent"
+      - "La gravité, sans pompe"
+    answer: 3
+    explanation: >
+      L'eau entre et sort par gravité, sans aucune pompe.
+  - question: "Quand les portes d'une écluse s'ouvrent-elles ?"
+    options:
+      - "Quand les niveaux d'eau sont égaux"
+      - "Quand le bateau klaxonne"
+      - "À heure fixe"
+    answer: 1
+    explanation: >
+      Les portes ne s'ouvrent que lorsque les niveaux d'eau de chaque côté sont égaux.
+  - question: "Que forment les deux demi-portes d'une porte busquée ?"
+    options:
+      - "Un cercle"
+      - "Un V"
+      - "Une croix"
+    answer: 2
+    explanation: >
+      Les portes busquées sont formées de deux demi-portes qui se rejoignent en formant un V.
+  - question: "Où les écluses du canal de Panama soulèvent-elles les navires ?"
+    options:
+      - "Jusqu'à la mer des Caraïbes"
+      - "Jusqu'au Pacifique Nord"
+      - "Jusqu'au lac Gatún"
+    answer: 3
+    explanation: >
+      Au canal de Panama, les écluses soulèvent les navires jusqu'au lac Gatún, puis les
+      redescendent jusqu'au niveau de la mer de l'autre côté.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une écluse est un sas rempli ou vidé par gravité : le bateau entre, l'eau monte ou descend jusqu'au niveau voulu, puis la porte s'ouvre. Aucune pompe n'est nécessaire.
+
+## Un ascenseur pour bateaux
+
+Une écluse est un ouvrage qui permet à un bateau de franchir une différence de niveau sur une rivière ou un canal ; on la compare à un ascenseur pour bateaux. Elle comprend un sas étanche, des portes à chaque extrémité et des vannes qui laissent entrer et sortir l'eau. L'eau entre et sort par gravité, sans aucune pompe.
+
+## Monter et descendre
+
+Pour monter, le bateau entre dans le sas et les portes se referment ; on laisse entrer l'eau d'amont jusqu'à égaler son niveau, puis les portes d'amont s'ouvrent. Pour descendre, on fait l'inverse : le sas se vide vers l'aval jusqu'au niveau d'aval, puis les portes d'aval s'ouvrent. Les portes ne s'ouvrent que lorsque les niveaux d'eau de chaque côté sont égaux. Les portes busquées sont formées de deux demi-portes qui se rejoignent en formant un V.
+
+## Panama, l'eau et l'histoire
+
+Au canal de Panama, les écluses soulèvent les navires jusqu'au lac Gatún, puis les redescendent jusqu'au niveau de la mer de l'autre côté. Chaque passage consomme beaucoup d'eau : des bassins d'épargne en réutilisent une partie. Les premières écluses à sas sont nées en Chine, sous la dynastie Song, avant d'apparaître en Europe quelques siècles plus tard.
+
+## À retenir
+
+- Une écluse est un ascenseur pour bateaux, qui franchit une différence de niveau sur un canal ou une rivière.
+- L'eau entre et sort par gravité, sans aucune pompe.
+- Pour monter, le bateau entre dans le sas, on laisse entrer l'eau d'amont, puis les portes d'amont s'ouvrent.
+- Les portes ne s'ouvrent que lorsque les niveaux d'eau de chaque côté sont égaux.
+- Au canal de Panama, les écluses soulèvent les navires jusqu'au lac Gatún, puis les redescendent jusqu'au niveau de la mer de l'autre côté.
 
 ---
 type: article

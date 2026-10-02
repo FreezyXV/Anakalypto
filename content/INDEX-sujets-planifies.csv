@@ -428,7 +428,7 @@ energie;energie/efficacite-et-sobriete/usages-et-consommation;La facture d'élec
 energie;energie/efficacite-et-sobriete/usages-et-consommation;La consommation énergétique du numérique;consommation-energetique-numerique;2;non;planned
 environnement;environnement-et-climat/pollution-et-ressources/eau;Les nappes phréatiques;nappes-phreatiques;2;non;planned
 environnement;environnement-et-climat/pollution-et-ressources/eau;L'eau virtuelle;eau-virtuelle;2;non;planned
-environnement;environnement-et-climat/pollution-et-ressources/eau;Le dessalement de l'eau de mer;dessalement-eau-mer;2;non;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Comment transforme-t-on l'eau de mer en eau douce ?;comment-transforme-t-on-l-eau-de-mer-en-eau-douce;2;non;published
 environnement;environnement-et-climat/pollution-et-ressources/eau;Les pollutions de l'eau;pollutions-eau;2;non;planned
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le compostage;compostage;2;non;planned
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le recyclage du verre et de l'aluminium;recyclage-verre-aluminium;2;non;planned
@@ -636,7 +636,7 @@ informatique;micro-informatique-et-informatique/logiciel/algorithmes;Les algorit
 informatique;micro-informatique-et-informatique/logiciel/algorithmes;La machine de Turing;machine-turing;2;non;planned
 informatique;micro-informatique-et-informatique/logiciel/algorithmes;P contre NP;p-contre-np;2;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le Web et Tim Berners-Lee;web-tim-berners-lee;2;non;planned
-informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Les câbles sous-marins;cables-sous-marins;2;non;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Comment Internet traverse-t-il les océans ?;comment-internet-traverse-t-il-les-oceans;2;non;published
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le DNS, l'annuaire d'internet;dns-annuaire-internet;2;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;La neutralité du net;neutralite-net;2;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le Wi-Fi et la 5G;wi-fi-5g;2;non;planned
@@ -739,7 +739,7 @@ sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Le spec
 sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;L'effet photoélectrique;effet-photoelectrique;2;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Le principe d'incertitude;principe-incertitude;2;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;L'intrication quantique;intrication-quantique;2;non;planned
-sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Le laser;laser;2;non;planned
+sciences-fondamentales;sciences-fondamentales/physique/physique-quantique;Pourquoi la lumière d'un laser est-elle si différente de celle d'une lampe ?;pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe;2;non;published
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;L'entropie;entropie;2;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le moteur thermique et le cycle de Carnot;moteur-thermique-cycle-carnot;2;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le zéro absolu;zero-absolu;2;non;planned
@@ -3798,7 +3798,7 @@ energie;energie/energies-renouvelables/eolien;La production eolienne nocturne et
 energie;energie/energies-renouvelables/eolien;L'histoire des premieres eoliennes productrices d'electricite;l-histoire-des-premieres-eoliennes-productrices-d-electricite;3;non;planned
 energie;energie/energies-renouvelables/hydraulique;Le principe physique de l'energie hydraulique;le-principe-physique-de-l-energie-hydraulique;2;oui;planned
 energie;energie/energies-renouvelables/hydraulique;La construction d'une roue a eau traditionnelle;la-construction-d-une-roue-a-eau-traditionnelle;2;oui;planned
-energie;energie/energies-renouvelables/hydraulique;Le barrage hydroelectrique, principe de fonctionnement;le-barrage-hydroelectrique-principe-de-fonctionnement;2;oui;planned
+energie;energie/energies-renouvelables/hydraulique;Comment un barrage transforme-t-il l'eau d'une rivière en électricité ?;comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite;2;oui;published
 energie;energie/energies-renouvelables/hydraulique;Les grands types de barrages et leurs usages;les-grands-types-de-barrages-et-leurs-usages;3;non;planned
 energie;energie/energies-renouvelables/hydraulique;La microcentrale hydroelectrique de riviere;la-microcentrale-hydroelectrique-de-riviere;2;oui;planned
 energie;energie/energies-renouvelables/hydraulique;Les stations de transfert d'energie par pompage (STEP);les-stations-de-transfert-d-energie-par-pompage-step;2;oui;planned
@@ -3893,7 +3893,7 @@ energie;energie/reseaux-et-stockage/hydrogene;L'hydrogene bleu, une etape interm
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogene vert, produit par energie renouvelable;l-hydrogene-vert-produit-par-energie-renouvelable;2;oui;planned
 energie;energie/reseaux-et-stockage/hydrogene;Le stockage de l'hydrogene sous pression;le-stockage-de-l-hydrogene-sous-pression;2;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;Le stockage de l'hydrogene sous forme liquide;le-stockage-de-l-hydrogene-sous-forme-liquide;3;non;planned
-energie;energie/reseaux-et-stockage/hydrogene;La pile a combustible, transformer l'hydrogene en electricite;la-pile-a-combustible-transformer-l-hydrogene-en-electricite;2;oui;planned
+energie;energie/reseaux-et-stockage/hydrogene;Comment une pile à hydrogène produit-elle de l'électricité sans rien brûler ?;comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler;2;oui;published
 energie;energie/reseaux-et-stockage/hydrogene;Le transport de l'hydrogene par pipeline;le-transport-de-l-hydrogene-par-pipeline;3;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogene dans l'industrie chimique;l-hydrogene-dans-l-industrie-chimique;2;oui;planned
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogene comme reducteur dans la siderurgie;l-hydrogene-comme-reducteur-dans-la-siderurgie;2;oui;planned
@@ -3906,7 +3906,7 @@ energie;energie/reseaux-et-stockage/hydrogene;L'electrolyseur, principe et techn
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogene dans le raffinage du petrole;l-hydrogene-dans-le-raffinage-du-petrole;3;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;Le potentiel de l'hydrogene pour le stockage saisonnier d'energie;le-potentiel-de-l-hydrogene-pour-le-stockage-saisonnier-d-energie;2;oui;planned
 energie;energie/reseaux-et-stockage/hydrogene;L'ammoniac comme vecteur de transport de l'hydrogene;l-ammoniac-comme-vecteur-de-transport-de-l-hydrogene;3;non;planned
-energie;energie/reseaux-et-stockage/reseaux-electriques;Le principe de base d'un reseau electrique;le-principe-de-base-d-un-reseau-electrique;2;oui;planned
+energie;energie/reseaux-et-stockage/reseaux-electriques;Comment l'électricité voyage-t-elle de la centrale jusqu'à votre prise ?;comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise;2;oui;published
 energie;energie/reseaux-et-stockage/reseaux-electriques;Produire de l'electricite avec un aimant, principe fondamental;produire-de-l-electricite-avec-un-aimant-principe-fondamental;2;oui;planned
 energie;energie/reseaux-et-stockage/reseaux-electriques;La guerre des courants entre Edison et Tesla;la-guerre-des-courants-entre-edison-et-tesla;3;non;planned
 energie;energie/reseaux-et-stockage/reseaux-electriques;Le transformateur electrique, principe et role;le-transformateur-electrique-principe-et-role;2;oui;planned
@@ -4150,7 +4150,7 @@ environnement;environnement-et-climat/pollution-et-ressources/eau;La pollution d
 environnement;environnement-et-climat/pollution-et-ressources/eau;La pollution industrielle des cours d'eau;la-pollution-industrielle-des-cours-d-eau;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/eau;Les microplastiques dans l'eau douce;les-microplastiques-dans-l-eau-douce;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/eau;Le traitement des eaux usees, etapes principales;le-traitement-des-eaux-usees-etapes-principales;2;oui;planned
-environnement;environnement-et-climat/pollution-et-ressources/eau;Les stations d'epuration, fonctionnement general;les-stations-d-epuration-fonctionnement-general;2;oui;planned
+environnement;environnement-et-climat/pollution-et-ressources/eau;Que devient l'eau de l'évier et des toilettes dans une station d'épuration ?;que-devient-l-eau-de-l-evier-et-des-toilettes-dans-une-station-d-epuration;2;oui;published
 environnement;environnement-et-climat/pollution-et-ressources/eau;La reutilisation des eaux usees traitees;la-reutilisation-des-eaux-usees-traitees;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/eau;La recuperation de l'eau de pluie a l'echelle domestique;la-recuperation-de-l-eau-de-pluie-a-l-echelle-domestique;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/eau;Les nappes phreatiques, formation et vulnerabilite;les-nappes-phreatiques-formation-et-vulnerabilite;2;oui;planned
@@ -4306,7 +4306,7 @@ espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;L'orbite ge
 espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Les debris spatiaux, un probleme croissant;les-debris-spatiaux-un-probleme-croissant;2;non;planned
 espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Le syndrome de Kessler, un scenario redoute;le-syndrome-de-kessler-un-scenario-redoute;3;non;planned
 espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Le nettoyage actif des debris spatiaux;le-nettoyage-actif-des-debris-spatiaux;3;non;planned
-espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Les systemes de navigation par satellite, GPS et Galileo;les-systemes-de-navigation-par-satellite-gps-et-galileo;2;oui;planned
+espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Comment le GPS sait-il exactement où vous êtes ?;comment-le-gps-sait-il-exactement-ou-vous-etes;2;oui;published
 espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Le fonctionnement precis du GPS;le-fonctionnement-precis-du-gps;2;oui;planned
 espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Kourou, une base de lancement strategiquement choisie;kourou-une-base-de-lancement-strategiquement-choisie;3;non;planned
 espace;espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites;Baikonur, le berceau historique de l'astronautique;baikonur-le-berceau-historique-de-l-astronautique;3;non;planned
@@ -7113,7 +7113,7 @@ technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Construire une
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les fondations d'une route et leur role;les-fondations-d-une-route-et-leur-role;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les aqueducs romains, une prouesse hydraulique ancienne;les-aqueducs-romains-une-prouesse-hydraulique-ancienne;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les canaux navigables et leur construction;les-canaux-navigables-et-leur-construction;2;oui;planned
-technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les ecluses, franchir une difference de niveau sur l'eau;les-ecluses-franchir-une-difference-de-niveau-sur-l-eau;2;oui;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Comment une écluse fait-elle monter un bateau sans aucune pompe ?;comment-une-ecluse-fait-elle-monter-un-bateau-sans-aucune-pompe;2;oui;published
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les digues et leur role de protection;les-digues-et-leur-role-de-protection;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les ports et leur infrastructure technique;les-ports-et-leur-infrastructure-technique;3;non;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les phares, construction et role historique;les-phares-construction-et-role-historique;2;oui;planned

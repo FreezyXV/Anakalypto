@@ -2419,18 +2419,87 @@ status: planned
 
 ---
 type: article
-title: Le dessalement de l'eau de mer
-slug: dessalement-eau-mer
+title: Comment transforme-t-on l'eau de mer en eau douce ?
+slug: comment-transforme-t-on-l-eau-de-mer-en-eau-douce
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
-  Transformer l'eau salée en eau douce : techniques, coût énergétique et rejets.
+  On peut chauffer l'eau de mer pour récupérer la vapeur, ou la pousser sous pression à travers
+  une membrane qui retient le sel. Les deux méthodes coûtent de l'énergie et laissent une
+  saumure.
 tags: [eau]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Desalination"
+    url: "https://www.usgs.gov/water-science-school/science/desalination"
+    publisher: "USGS, Service géologique des États-Unis"
+  - title: "Dessalement de l'eau de mer"
+    url: "https://fr.wikipedia.org/wiki/Dessalement_de_l%27eau_de_mer"
+    publisher: "Wikipédia"
+  - title: "Desalination"
+    url: "https://en.wikipedia.org/wiki/Desalination"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que retient la membrane de l'osmose inverse ?"
+    options:
+      - "L'eau"
+      - "Le sel"
+      - "L'air"
+    answer: 2
+    explanation: >
+      Dans l'osmose inverse, on force l'eau salée à travers une membrane semi-perméable : les
+      molécules d'eau passent, le sel reste de l'autre côté.
+  - question: "Quelle méthode est la plus ancienne ?"
+    options:
+      - "L'osmose inverse"
+      - "La filtration par sable"
+      - "La distillation"
+    answer: 3
+    explanation: >
+      La distillation est la méthode la plus ancienne : on chauffe l'eau de mer pour produire de
+      la vapeur, qui se condense en eau douce.
+  - question: "Pourquoi l'eau dessalée coûte-t-elle cher ?"
+    options:
+      - "Le sel est très rare"
+      - "Il faut transporter la mer"
+      - "Séparer le sel demande beaucoup d'énergie"
+    answer: 3
+    explanation: >
+      Le sel se dissout très facilement dans l'eau, et le séparer demande beaucoup d'énergie.
+  - question: "Quel problème pose la saumure ?"
+    options:
+      - "Elle peut nuire aux écosystèmes marins"
+      - "Elle assèche les rivières"
+      - "Elle empêche de boire l'eau douce"
+    answer: 1
+    explanation: >
+      Plus dense, cette saumure peut couler au fond de la mer et nuire aux écosystèmes ; les
+      prises d'eau peuvent aussi piéger des poissons.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+On peut chauffer l'eau de mer pour récupérer la vapeur, ou la pousser sous pression à travers une membrane qui retient le sel. Les deux méthodes coûtent de l'énergie et laissent une saumure.
+
+## Deux façons d'enlever le sel
+
+Le dessalement transforme de l'eau salée en eau douce. La distillation est la méthode la plus ancienne : on chauffe l'eau de mer pour produire de la vapeur, qui se condense en eau douce. Dans l'osmose inverse, on force l'eau salée à travers une membrane semi-perméable : les molécules d'eau passent, le sel reste de l'autre côté. Il faut une forte pression, supérieure à la pression osmotique, pour pousser l'eau à travers la membrane.
+
+## Pourquoi c'est cher
+
+L'osmose inverse est aujourd'hui la technique dominante, car elle consomme moins d'énergie que la distillation. Le sel se dissout très facilement dans l'eau, et le séparer demande beaucoup d'énergie. L'énergie nécessaire rend l'eau dessalée plus chère que l'eau des sources habituelles.
+
+## Le revers de la médaille
+
+Les usines rejettent une eau très salée, la saumure, en quantité supérieure à celle de l'eau douce produite. Plus dense, cette saumure peut couler au fond de la mer et nuire aux écosystèmes ; les prises d'eau peuvent aussi piéger des poissons. Le Moyen-Orient concentre la plus grande part de la capacité mondiale de dessalement.
+
+## À retenir
+
+- La distillation est la méthode la plus ancienne : on chauffe l'eau de mer pour produire de la vapeur, qui se condense en eau douce.
+- Dans l'osmose inverse, on force l'eau salée à travers une membrane semi-perméable : les molécules d'eau passent, le sel reste de l'autre côté.
+- L'osmose inverse est aujourd'hui la technique dominante, car elle consomme moins d'énergie que la distillation.
+- L'énergie nécessaire rend l'eau dessalée plus chère que l'eau des sources habituelles.
+- Les usines rejettent une eau très salée, la saumure, en quantité supérieure à celle de l'eau douce produite.
 
 ---
 
@@ -5877,18 +5946,87 @@ status: planned
 
 ---
 type: article
-title: Les stations d'epuration, fonctionnement general
-slug: les-stations-d-epuration-fonctionnement-general
+title: Que devient l'eau de l'évier et des toilettes dans une station d'épuration ?
+slug: que-devient-l-eau-de-l-evier-et-des-toilettes-dans-une-station-d-epuration
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
-  Des installations essentielles mais souvent invisibles du grand public.
-tags: [eau, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une station d'épuration retire les gros déchets, laisse les boues se déposer, puis confie la
+  pollution dissoute à des bactéries. L'eau est ensuite rendue propre à la rivière.
+tags: [eau]
+sources:
+  - title: "Wastewater Treatment Water Use"
+    url: "https://www.usgs.gov/water-science-school/science/wastewater-treatment-water-use"
+    publisher: "USGS, Service géologique des États-Unis"
+  - title: "Station d'épuration"
+    url: "https://fr.wikipedia.org/wiki/Station_d%27%C3%A9puration"
+    publisher: "Wikipédia"
+  - title: "Sewage treatment"
+    url: "https://en.wikipedia.org/wiki/Sewage_treatment"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui élimine la pollution dissoute dans une station d'épuration ?"
+    options:
+      - "Des bactéries"
+      - "Des filtres en papier"
+      - "Des aimants"
+    answer: 1
+    explanation: >
+      Le traitement biologique confie la pollution dissoute à des bactéries qui la consomment ;
+      on les alimente en oxygène en brassant l'eau ou en soufflant de l'air.
+  - question: "Que se passe-t-il dans les bassins de décantation ?"
+    options:
+      - "Les matières lourdes se déposent en boues"
+      - "L'eau est chauffée"
+      - "L'eau est salée"
+    answer: 1
+    explanation: >
+      Dans le traitement primaire, l'eau repose dans de grands bassins : les matières lourdes se
+      déposent en boues et les graisses flottantes sont écrémées.
+  - question: "Pourquoi retire-t-on l'azote et le phosphore ?"
+    options:
+      - "Ils colorent l'eau en bleu"
+      - "Ils rouillent les tuyaux"
+      - "Ils provoquent une prolifération d'algues"
+    answer: 3
+    explanation: >
+      Un traitement supplémentaire peut retirer l'azote et le phosphore, qui provoqueraient
+      sinon une prolifération d'algues appelée eutrophisation.
+  - question: "Que ne détruisent pas la plupart des stations classiques ?"
+    options:
+      - "Les micropolluants"
+      - "Les gros déchets"
+      - "Le sable"
+    answer: 1
+    explanation: >
+      Les stations classiques ne détruisent pas la plupart des micropolluants, comme les résidus
+      de médicaments.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une station d'épuration retire les gros déchets, laisse les boues se déposer, puis confie la pollution dissoute à des bactéries. L'eau est ensuite rendue propre à la rivière.
+
+## Pourquoi nettoyer l'eau
+
+Les eaux usées sont de l'eau déjà utilisée : elles contiennent des déchets humains, des restes alimentaires, des huiles, des savons et des produits chimiques. On les traite pour protéger la pêche, la faune, les loisirs nautiques et la santé, car une eau non traitée peut transporter des maladies.
+
+## Filtrer, décanter, digérer
+
+Le prétraitement retire les gros déchets par dégrillage, puis le sable et les huiles. Dans le traitement primaire, l'eau repose dans de grands bassins : les matières lourdes se déposent en boues et les graisses flottantes sont écrémées. Le traitement biologique confie la pollution dissoute à des bactéries qui la consomment ; on les alimente en oxygène en brassant l'eau ou en soufflant de l'air. Ensuite, une clarification sépare l'eau claire des bactéries, qui se déposent.
+
+## Finitions et limites
+
+Les boues récupérées sont stabilisées, souvent par une digestion sans oxygène qui produit du méthane, dont l'énergie est récupérée. En dernier, on peut désinfecter l'eau avec du chlore, de l'ozone ou de la lumière ultraviolette avant de la rejeter. Un traitement supplémentaire peut retirer l'azote et le phosphore, qui provoqueraient sinon une prolifération d'algues appelée eutrophisation. Les stations classiques ne détruisent pas la plupart des micropolluants, comme les résidus de médicaments.
+
+## À retenir
+
+- Le prétraitement retire les gros déchets par dégrillage, puis le sable et les huiles.
+- Dans le traitement primaire, l'eau repose dans de grands bassins : les matières lourdes se déposent en boues et les graisses flottantes sont écrémées.
+- Des bactéries consomment la pollution dissoute ; on les alimente en oxygène en brassant l'eau ou en soufflant de l'air.
+- En dernier, on peut désinfecter l'eau avec du chlore, de l'ozone ou de la lumière ultraviolette avant de la rejeter.
+- Les stations classiques ne détruisent pas la plupart des micropolluants, comme les résidus de médicaments.
 
 ---
 type: article

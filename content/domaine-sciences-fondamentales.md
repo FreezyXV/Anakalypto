@@ -3255,18 +3255,86 @@ status: planned
 
 ---
 type: article
-title: Le laser
-slug: laser
+title: Pourquoi la lumière d'un laser est-elle si différente de celle d'une lampe ?
+slug: pourquoi-la-lumiere-d-un-laser-est-elle-si-differente-de-celle-d-une-lampe
 categoryPath: sciences-fondamentales/physique/physique-quantique
 summary: >
-  Une lumière d'une seule couleur, cohérente et intense : une application directe de la physique quantique.
+  Dans un laser, un photon pousse un atome excité à en libérer un identique. Entre deux miroirs,
+  cette cascade donne une lumière d'une seule couleur, en phase et très directionnelle.
 tags: [physique-quantique]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Introduction to Laser Technology"
+    url: "https://sites.astro.caltech.edu/~lah/ay105/pdf/Laser-Guide.pdf"
+    publisher: "Caltech, guide technique CVI Melles Griot"
+  - title: "Laser"
+    url: "https://fr.wikipedia.org/wiki/Laser"
+    publisher: "Wikipédia"
+  - title: "Laser"
+    url: "https://en.wikipedia.org/wiki/Laser"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que signifie le « s » de laser ?"
+    options:
+      - "Solar, le soleil"
+      - "Stimulated, l'émission stimulée"
+      - "Speed, la vitesse"
+    answer: 2
+    explanation: >
+      Un laser produit de la lumière par amplification grâce à l'émission stimulée ; le mot est
+      l'acronyme de « light amplification by stimulated emission of radiation ».
+  - question: "À quoi servent les miroirs d'un laser ?"
+    options:
+      - "À faire joli"
+      - "À renvoyer la lumière dans le milieu pour l'amplifier"
+      - "À refroidir le faisceau"
+    answer: 2
+    explanation: >
+      Les miroirs renvoient la lumière dans le milieu, qui l'amplifie à chaque passage ; l'un
+      d'eux, partiellement transparent, laisse sortir le faisceau.
+  - question: "Qu'est-ce qu'une lumière cohérente ?"
+    options:
+      - "Une lumière très forte"
+      - "Une lumière dont les ondes restent en phase"
+      - "Une lumière blanche"
+    answer: 2
+    explanation: >
+      La lumière laser est cohérente : ses ondes restent en phase.
+  - question: "Qui a fait fonctionner le premier laser ?"
+    options:
+      - "Albert Einstein, avec un miroir"
+      - "Isaac Newton, avec un prisme"
+      - "Theodore Maiman, avec un rubis"
+    answer: 3
+    explanation: >
+      Einstein a prévu l'émission stimulée avant que Theodore Maiman ne fasse fonctionner le
+      premier laser, avec un cristal de rubis.
+lastVerified: 2026-09-30
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un laser, un photon pousse un atome excité à en libérer un identique. Entre deux miroirs, cette cascade donne une lumière d'une seule couleur, en phase et très directionnelle.
+
+## Un photon en fabrique un autre
+
+Un laser produit de la lumière par amplification grâce à l'émission stimulée ; le mot est l'acronyme de « light amplification by stimulated emission of radiation ». Dans l'émission stimulée, un photon incitant un atome excité à libérer de l'énergie fait émettre un photon identique au premier. Un laser réunit trois éléments : un milieu amplificateur, une source d'énergie qui l'excite, et une cavité optique, souvent faite de deux miroirs. Le pompage apporte l'énergie, par voie électrique, lumineuse ou chimique, pour que plus d'atomes soient excités qu'au repos : c'est l'inversion de population.
+
+## Des miroirs pour amplifier
+
+Les miroirs renvoient la lumière dans le milieu, qui l'amplifie à chaque passage ; l'un d'eux, partiellement transparent, laisse sortir le faisceau. La lumière laser est cohérente : ses ondes restent en phase. Elle est monochromatique, d'une seule couleur pure, et son faisceau reste étroit sur de grandes distances. À l'inverse, la lumière d'une lampe ordinaire n'est pas cohérente.
+
+## Du rubis au code-barres
+
+Einstein a prévu l'émission stimulée avant que Theodore Maiman ne fasse fonctionner le premier laser, avec un cristal de rubis. On trouve des lasers dans les lecteurs de codes-barres et de disques, les communications par fibre optique, la chirurgie, et la découpe ou le soudage de matériaux.
+
+## À retenir
+
+- Dans l'émission stimulée, un photon incitant un atome excité à libérer de l'énergie fait émettre un photon identique au premier.
+- Un laser réunit trois éléments : un milieu amplificateur, une source d'énergie qui l'excite, et une cavité optique, souvent faite de deux miroirs.
+- Les miroirs renvoient la lumière dans le milieu, qui l'amplifie ; un miroir partiellement transparent laisse sortir le faisceau.
+- La lumière laser est cohérente : ses ondes restent en phase.
+- Les lasers servent aux lecteurs de codes-barres et de disques, aux fibres optiques, à la chirurgie et à la découpe de matériaux.
 
 ---
 
