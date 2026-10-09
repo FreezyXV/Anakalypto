@@ -240,7 +240,7 @@ arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Michel-Ange et la chapel
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La sculpture en bronze;sculpture-bronze;2;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;L'art contemporain;art-contemporain;2;non;planned
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le cinéma muet;cinema-muet;2;non;planned
-arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le passage au parlant;passage-parlant;2;non;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;Comment le cinéma a-t-il appris à parler ?;comment-le-cinema-a-t-il-appris-a-parler;2;non;published
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;La Nouvelle Vague;nouvelle-vague;2;non;planned
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;Les effets spéciaux;effets-speciaux;2;non;planned
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;La photographie numérique;photographie-numerique;2;non;planned
@@ -2017,7 +2017,7 @@ arts;arts-et-culture/arts-du-spectacle/musique;Le synthetiseur, creer des sons a
 arts;arts-et-culture/arts-du-spectacle/musique;L'opera chinois traditionnel;l-opera-chinois-traditionnel;3;non;planned
 arts;arts-et-culture/arts-du-spectacle/musique;Le fado portugais et la saudade;le-fado-portugais-et-la-saudade;3;non;planned
 arts;arts-et-culture/arts-du-spectacle/musique;Le flamenco et ses racines andalouses;le-flamenco-et-ses-racines-andalouses;3;non;planned
-arts;arts-et-culture/arts-du-spectacle/musique;La notation musicale, ecrire le son;la-notation-musicale-ecrire-le-son;2;oui;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Comment écrit-on de la musique sur une partition ?;comment-ecrit-on-de-la-musique-sur-une-partition;2;oui;published
 arts;arts-et-culture/arts-du-spectacle/musique;Le tempo bien tempere et l'accordage moderne;le-tempo-bien-tempere-et-l-accordage-moderne;3;non;planned
 arts;arts-et-culture/arts-du-spectacle/musique;La musique concrete et l'usage de sons du quotidien;la-musique-concrete-et-l-usage-de-sons-du-quotidien;3;non;planned
 arts;arts-et-culture/arts-du-spectacle/musique;Le disque vinyle, une technologie toujours vivante;le-disque-vinyle-une-technologie-toujours-vivante;3;non;planned
@@ -2029,7 +2029,7 @@ arts;arts-et-culture/arts-du-spectacle/musique;La musique et la memoire, pourquo
 arts;arts-et-culture/arts-du-spectacle/musique;L'accordage d'un instrument sans materiel electronique;l-accordage-d-un-instrument-sans-materiel-electronique;2;oui;planned
 arts;arts-et-culture/arts-du-spectacle/musique;La fabrication artisanale d'un instrument a cordes simple;la-fabrication-artisanale-d-un-instrument-a-cordes-simple;2;oui;planned
 arts;arts-et-culture/arts-du-spectacle/musique;Le tambour, l'un des plus anciens instruments du monde;le-tambour-l-un-des-plus-anciens-instruments-du-monde;2;oui;planned
-arts;arts-et-culture/arts-du-spectacle/musique;La flute, un instrument present depuis la prehistoire;la-flute-un-instrument-present-depuis-la-prehistoire;2;oui;planned
+arts;arts-et-culture/arts-du-spectacle/musique;Comment une flûte transforme-t-elle un souffle en musique ?;comment-une-flute-transforme-t-elle-un-souffle-en-musique;2;oui;published
 arts;arts-et-culture/arts-du-spectacle/musique;Les instruments a vent et le principe de la colonne d'air;les-instruments-a-vent-et-le-principe-de-la-colonne-d-air;3;non;planned
 arts;arts-et-culture/arts-du-spectacle/musique;La chorale et le chant polyphonique;la-chorale-et-le-chant-polyphonique;3;non;planned
 arts;arts-et-culture/arts-du-spectacle/musique;Le yodel et les techniques vocales traditionnelles;le-yodel-et-les-techniques-vocales-traditionnelles;3;non;planned
@@ -2109,7 +2109,7 @@ arts;arts-et-culture/arts-du-spectacle/theatre-et-danse;La scenographie, concevo
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La typographie serif contre sans-serif;la-typographie-serif-contre-sans-serif;3;non;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le design d'interface et l'ergonomie visuelle;le-design-d-interface-et-l-ergonomie-visuelle;3;non;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;L'histoire de l'affiche publicitaire;l-histoire-de-l-affiche-publicitaire;3;non;planned
-arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le pictogramme, communiquer sans langue;le-pictogramme-communiquer-sans-langue;2;oui;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Comment un pictogramme se comprend-il sans un seul mot ?;comment-un-pictogramme-se-comprend-il-sans-un-seul-mot;2;oui;published
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La couleur en design, psychologie et usages;la-couleur-en-design-psychologie-et-usages;3;non;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le design d'emballage et son role commercial;le-design-d-emballage-et-son-role-commercial;3;non;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;L'art nouveau et ses courbes organiques;l-art-nouveau-et-ses-courbes-organiques;3;non;planned
@@ -2118,7 +2118,7 @@ arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le design scandinave
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La bande dessinee franco-belge et ses pionniers;la-bande-dessinee-franco-belge-et-ses-pionniers;3;non;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le manga et son esthetique particuliere;le-manga-et-son-esthetique-particuliere;3;non;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le comic americain et les super-heros;le-comic-americain-et-les-super-heros;3;non;planned
-arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La gravure, ancetre de l'impression graphique;la-gravure-ancetre-de-l-impression-graphique;2;oui;planned
+arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Comment une gravure permet-elle d'imprimer la même image des dizaines de fois ?;comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois;2;oui;published
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;La linogravure, une technique accessible;la-linogravure-une-technique-accessible;3;oui;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;Le pochoir, une technique de reproduction rapide;le-pochoir-une-technique-de-reproduction-rapide;2;oui;planned
 arts;arts-et-culture/arts-visuels/arts-graphiques-et-design;L'enluminure medievale;l-enluminure-medievale;3;non;planned
@@ -2154,20 +2154,20 @@ arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Rodin et le renouveau de
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La sculpture sur bois a travers les cultures;la-sculpture-sur-bois-a-travers-les-cultures;3;oui;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La ceramique comme art et artisanat;la-ceramique-comme-art-et-artisanat;2;oui;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La poterie au tour, une technique millenaire;la-poterie-au-tour-une-technique-millenaire;2;oui;planned
-arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La cuisson de la ceramique et les fours traditionnels;la-cuisson-de-la-ceramique-et-les-fours-traditionnels;2;oui;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Comment l'argile devient-elle dure comme de la pierre dans un four ?;comment-l-argile-devient-elle-dure-comme-de-la-pierre-dans-un-four;2;oui;published
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;L'art rupestre prehistorique;l-art-rupestre-prehistorique;2;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La grotte de Lascaux et ses peintures prehistoriques;la-grotte-de-lascaux-et-ses-peintures-prehistoriques;3;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;L'art aborigene australien;l-art-aborigene-australien;3;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La mosaique, assembler pour representer;la-mosaique-assembler-pour-representer;3;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Le vitrail medieval et la lumiere sacree;le-vitrail-medieval-et-la-lumiere-sacree;3;non;planned
-arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La technique de la fresque a la chaux;la-technique-de-la-fresque-a-la-chaux;3;oui;planned
+arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Comment une fresque reste-t-elle accrochée au mur pendant des siècles ?;comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles;3;oui;published
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;L'art abstrait et le rejet de la representation;l-art-abstrait-et-le-rejet-de-la-representation;3;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;Kandinsky et les origines de l'art abstrait;kandinsky-et-les-origines-de-l-art-abstrait;3;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La restauration des oeuvres d'art anciennes;la-restauration-des-oeuvres-d-art-anciennes;3;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;L'authentification des oeuvres d'art et les faux celebres;l-authentification-des-oeuvres-d-art-et-les-faux-celebres;3;non;planned
 arts;arts-et-culture/arts-visuels/peinture-et-sculpture;La sculpture contemporaine et les nouveaux materiaux;la-sculpture-contemporaine-et-les-nouveaux-materiaux;3;non;planned
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le daguerreotype, la premiere photographie commerciale;le-daguerreotype-la-premiere-photographie-commerciale;3;non;planned
-arts;arts-et-culture/arts-visuels/photographie-et-cinema;La chambre noire, principe optique de base;la-chambre-noire-principe-optique-de-base;2;oui;planned
+arts;arts-et-culture/arts-visuels/photographie-et-cinema;Comment une boîte percée d'un petit trou fabrique-t-elle une image ?;comment-une-boite-percee-d-un-petit-trou-fabrique-t-elle-une-image;2;oui;published
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le film argentique et la chimie de la photographie;le-film-argentique-et-la-chimie-de-la-photographie;3;non;planned
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;Le developpement photographique en laboratoire;le-developpement-photographique-en-laboratoire;3;oui;planned
 arts;arts-et-culture/arts-visuels/photographie-et-cinema;L'invention de l'appareil photo compact;l-invention-de-l-appareil-photo-compact;3;non;planned
@@ -2226,7 +2226,7 @@ arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;Le roman graphiq
 arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;La litterature autobiographique et ses limites;la-litterature-autobiographique-et-ses-limites;3;non;planned
 arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;Le roman choral, plusieurs voix pour une meme histoire;le-roman-choral-plusieurs-voix-pour-une-meme-histoire;3;non;planned
 arts;arts-et-culture/litterature-et-ecriture/genres-litteraires;La litterature de l'exil et du deracinement;la-litterature-de-l-exil-et-du-deracinement;3;non;planned
-arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Le papyrus, avant le papier;le-papyrus-avant-le-papier;2;oui;planned
+arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Comment les Égyptiens fabriquaient-ils des feuilles avec une plante ?;comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante;2;oui;published
 arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Le parchemin, ecrire sur de la peau traitee;le-parchemin-ecrire-sur-de-la-peau-traitee;2;oui;planned
 arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Les tablettes d'argile, les premiers supports d'ecriture;les-tablettes-d-argile-les-premiers-supports-d-ecriture;2;oui;planned
 arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;L'invention des caracteres mobiles avant Gutenberg;l-invention-des-caracteres-mobiles-avant-gutenberg;3;oui;planned
@@ -2259,7 +2259,7 @@ arts;arts-et-culture/litterature-et-ecriture/histoire-du-livre;Le codex, l'inven
 arts;arts-et-culture/patrimoine/architecture;Les temples grecs et leurs proportions mathematiques;les-temples-grecs-et-leurs-proportions-mathematiques;3;non;planned
 arts;arts-et-culture/patrimoine/architecture;Le Colisee de Rome et ses techniques de construction;le-colisee-de-rome-et-ses-techniques-de-construction;3;non;planned
 arts;arts-et-culture/patrimoine/architecture;Le beton romain, un materiau redecouvert;le-beton-romain-un-materiau-redecouvert;2;oui;planned
-arts;arts-et-culture/patrimoine/architecture;L'arc en plein cintre et son role structurel;l-arc-en-plein-cintre-et-son-role-structurel;2;oui;planned
+arts;arts-et-culture/patrimoine/architecture;Comment un arc en pierre tient-il debout grâce à son propre poids ?;comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids;2;oui;published
 arts;arts-et-culture/patrimoine/architecture;La voute en berceau et ses usages historiques;la-voute-en-berceau-et-ses-usages-historiques;3;oui;planned
 arts;arts-et-culture/patrimoine/architecture;La cathedrale gothique, une prouesse d'ingenierie;la-cathedrale-gothique-une-prouesse-d-ingenierie;3;non;planned
 arts;arts-et-culture/patrimoine/architecture;Notre-Dame de Paris avant l'incendie de 2019;notre-dame-de-paris-avant-l-incendie-de-2019;3;non;planned

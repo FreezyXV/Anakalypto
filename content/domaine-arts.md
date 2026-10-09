@@ -2712,18 +2712,92 @@ status: planned
 
 ---
 type: article
-title: Le passage au parlant
-slug: passage-parlant
+title: Comment le cinéma a-t-il appris à parler ?
+slug: comment-le-cinema-a-t-il-appris-a-parler
 categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
 summary: >
-  En 1927, Le Chanteur de jazz : une révolution pour les acteurs et les studios.
+  Au début, les films étaient muets : un pianiste jouait dans la salle et les dialogues
+  s'affichaient sur des cartons. À la fin des années 1920, on a appris à enregistrer le son et
+  à le synchroniser avec l'image. Le parlant a remplacé le muet en quelques années.
 tags: [photographie-et-cinema]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "The Jazz Singer"
+    url: "https://en.wikipedia.org/wiki/The_Jazz_Singer"
+    publisher: "Wikipedia"
+  - title: "Cinéma sonore"
+    url: "https://fr.wikipedia.org/wiki/Cin%C3%A9ma_sonore"
+    publisher: "Wikipédia"
+  - title: "Sound film"
+    url: "https://en.wikipedia.org/wiki/Sound_film"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel film de 1927 est considéré comme le premier long métrage parlant ?"
+    options:
+      - "Le Chanteur de jazz"
+      - "Le Voyage dans la Lune"
+      - "Blanche-Neige"
+    answer: 1
+    explanation: >
+      Le Chanteur de jazz, sorti en octobre 1927, est le premier long métrage avec des
+      scènes chantées et parlées synchronisées.
+  - question: "Où était enregistré le son dans le système Vitaphone ?"
+    options:
+      - "Sur un disque joué en même temps que le film"
+      - "Dans le projecteur"
+      - "Sur des cartons"
+    answer: 1
+    explanation: >
+      Le Vitaphone enregistrait le son sur un disque, lancé en même temps que la
+      projection.
+  - question: "Comment fonctionne le son optique ?"
+    options:
+      - "Un acteur parle derrière l'écran"
+      - "Une piste dessinée sur la pellicule est lue par une cellule sensible à la lumière"
+      - "Un aimant fait vibrer l'écran"
+    answer: 2
+    explanation: >
+      Le son est inscrit sous forme d'une piste sur la pellicule elle-même. Une cellule
+      sensible à la lumière la lit pendant la projection.
+  - question: "Combien d'images par seconde le cinéma parlant a-t-il fixé ?"
+    options:
+      - "8"
+      - "16"
+      - "24"
+    answer: 3
+    explanation: >
+      Pour que le son reste juste, la vitesse a été fixée à 24 images par seconde, plus
+      vite que la plupart des films muets.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au début, les films étaient muets : un pianiste jouait dans la salle et les dialogues s'affichaient sur des cartons. À la fin des années 1920, on a appris à enregistrer le son et à le synchroniser avec l'image. Le parlant a remplacé le muet en quelques années.
+
+## Le temps du muet
+
+Pendant plus de trente ans, les films n'avaient pas de son enregistré. Les dialogues apparaissaient sur des cartons écrits, les intertitres. Dans la salle, un pianiste ou un petit orchestre jouait la musique en direct. Les acteurs exprimaient tout avec leurs gestes et leur visage.
+
+## Le son sur un disque
+
+Le problème était de faire coïncider le son et l'image. Le studio américain Warner Bros. a misé sur un système appelé Vitaphone. Le son était enregistré sur un disque, lancé en même temps que la projection. Le 6 octobre 1927 sort Le Chanteur de jazz. Il ne contient qu'environ deux minutes de paroles synchronisées ; le reste utilise encore des intertitres. Mais le public entend l'acteur Al Jolson parler et chanter en bougeant les lèvres au bon moment. C'est un énorme succès, le plus grand de Warner à cette époque.
+
+## Le son sur la pellicule
+
+Un disque peut se décaler ou se rayer. D'autres inventeurs ont donc inscrit le son directement sur la pellicule. Une étroite bande, la piste sonore, court le long des images. Elle est plus ou moins claire selon le son enregistré. Dans le projecteur, une lumière la traverse et une cellule sensible à la lumière la transforme en signal électrique, puis en son. C'est le son optique. Le studio Fox lance son système en 1927, RCA le sien en 1928. Le son sur pellicule finit par s'imposer.
+
+## Un monde qui change
+
+Pour que les voix ne sonnent pas faux, la vitesse de projection a été fixée à 24 images par seconde. Les films muets défilaient plus lentement, souvent à 16 à 18 images par seconde. Le parlant a coûté cher : certains petits studios ont disparu. Des vedettes du muet dont la voix ne plaisait pas ont perdu leur place. Aux États-Unis, environ 22 000 musiciens de cinéma ont perdu leur emploi entre 1926 et 1928.
+
+## À retenir
+
+- Les films muets utilisaient des intertitres et de la musique jouée en direct dans la salle.
+- Le Chanteur de jazz, sorti le 6 octobre 1927, est le premier long métrage parlant.
+- Le Vitaphone enregistrait le son sur un disque, joué en même temps que le film.
+- Le son optique, inscrit sur la pellicule, est lu par une cellule sensible à la lumière.
+- Le parlant a fixé la vitesse du cinéma à 24 images par seconde.
 
 ---
 
@@ -4119,18 +4193,90 @@ status: planned
 
 ---
 type: article
-title: La notation musicale, ecrire le son
-slug: la-notation-musicale-ecrire-le-son
+title: Comment écrit-on de la musique sur une partition ?
+slug: comment-ecrit-on-de-la-musique-sur-une-partition
 categoryPath: arts-et-culture/arts-du-spectacle/musique
 summary: >
-  Comment un systeme de symboles permet de transmettre une musique dans le temps.
-tags: [musique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une partition range les notes sur une portée de cinq lignes. La hauteur d'une note dépend de
+  sa place sur la portée, sa durée dépend de sa forme. Les noms do, ré, mi viennent d'un moine
+  italien du XIe siècle.
+tags: [musique]
+sources:
+  - title: "Notation musicale"
+    url: "https://fr.wikipedia.org/wiki/Notation_musicale"
+    publisher: "Wikipédia"
+  - title: "Guido d'Arezzo"
+    url: "https://fr.wikipedia.org/wiki/Guido_d%27Arezzo"
+    publisher: "Wikipédia"
+  - title: "Musical notation"
+    url: "https://en.wikipedia.org/wiki/Musical_notation"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de lignes compte une portée ?"
+    options:
+      - "Trois"
+      - "Quatre"
+      - "Cinq"
+    answer: 3
+    explanation: >
+      La portée moderne compte cinq lignes. Les notes se placent sur les lignes ou dans
+      les interlignes.
+  - question: "Qu'indique la place d'une note sur la portée ?"
+    options:
+      - "Sa hauteur, grave ou aiguë"
+      - "Son volume"
+      - "L'instrument qui la joue"
+    answer: 1
+    explanation: >
+      Plus la note est placée haut sur la portée, plus elle est aiguë.
+  - question: "D'où viennent les noms ut, ré, mi, fa, sol, la ?"
+    options:
+      - "D'une chanson pour enfants anglaise"
+      - "Des premières syllabes d'un chant latin"
+      - "De noms de villes italiennes"
+    answer: 2
+    explanation: >
+      Guido d'Arezzo a pris les premières syllabes des vers d'un hymne latin à saint
+      Jean-Baptiste.
+  - question: "Quelle note a changé de nom pour être plus facile à chanter ?"
+    options:
+      - "Ut, devenu do"
+      - "La, devenu si"
+      - "Mi, devenu fa"
+    answer: 1
+    explanation: >
+      La syllabe « ut » a été remplacée par « do », plus facile à chanter.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une partition range les notes sur une portée de cinq lignes. La hauteur d'une note dépend de sa place sur la portée, sa durée dépend de sa forme. Les noms do, ré, mi viennent d'un moine italien du XIe siècle.
+
+## Écrire un son
+
+La musique disparaît dès qu'elle est jouée. Pour la garder et la transmettre, on l'écrit sur une partition. Il faut noter deux choses pour chaque note : sa hauteur, grave ou aiguë, et sa durée, courte ou longue. La plus ancienne notation musicale connue se trouve sur des tablettes d'argile de Mésopotamie, vers 1400 avant notre ère.
+
+## La portée et la clé
+
+On écrit les notes sur une portée, un ensemble de cinq lignes parallèles. Chaque note est un petit rond placé sur une ligne ou dans l'espace entre deux lignes. Plus il est haut, plus la note est aiguë. Au début de la portée, une clé, comme la clé de sol ou la clé de fa, indique quelle note correspond à quelle ligne.
+
+## La forme donne la durée
+
+La forme de la note dit combien de temps elle dure. Une ronde est un rond vide. Une blanche est un rond vide avec une tige ; elle dure moitié moins qu'une ronde. Une noire est un rond plein avec une tige ; elle dure moitié moins qu'une blanche. Avec un crochet en plus, on obtient une croche, encore deux fois plus courte. Des barres verticales découpent la musique en mesures, pour aider à garder le rythme.
+
+## Do, ré, mi, fa, sol, la
+
+Les noms des notes viennent d'un moine italien, Guido d'Arezzo, qui a vécu vers 992-1050. Pour aider les chanteurs à retenir les sons, il a utilisé un hymne latin à saint Jean-Baptiste, « Ut queant laxis ». Chaque vers commence une note plus haut que le précédent. Il a gardé la première syllabe de chaque vers : ut, ré, mi, fa, sol, la. Plus tard, « ut » est devenu « do », plus facile à chanter. Dans les pays de langue anglaise ou allemande, on désigne plutôt les notes par des lettres, de A à G.
+
+## À retenir
+
+- Une partition note la hauteur et la durée de chaque son.
+- La portée compte cinq lignes ; plus une note est placée haut, plus elle est aiguë.
+- La forme d'une note donne sa durée : une ronde vaut deux blanches, une blanche vaut deux noires.
+- Guido d'Arezzo a tiré les noms ut, ré, mi, fa, sol, la d'un hymne latin.
+- La syllabe « ut » est devenue « do », plus facile à chanter.
 
 ---
 type: article
@@ -4299,18 +4445,91 @@ status: planned
 
 ---
 type: article
-title: La flute, un instrument present depuis la prehistoire
-slug: la-flute-un-instrument-present-depuis-la-prehistoire
+title: Comment une flûte transforme-t-elle un souffle en musique ?
+slug: comment-une-flute-transforme-t-elle-un-souffle-en-musique
 categoryPath: arts-et-culture/arts-du-spectacle/musique
 summary: >
-  Des flutes vieilles de dizaines de milliers d'annees retrouvees par les archeologues.
-tags: [musique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans une flûte, le souffle se brise sur une arête et se met à osciller. Cette oscillation
+  fait vibrer l'air enfermé dans le tube. En bouchant ou en ouvrant les trous, on change la
+  longueur de la colonne d'air, donc la note.
+tags: [musique]
+sources:
+  - title: "Flûte"
+    url: "https://fr.wikipedia.org/wiki/Fl%C3%BBte"
+    publisher: "Wikipédia"
+  - title: "Flute"
+    url: "https://en.wikipedia.org/wiki/Flute"
+    publisher: "Wikipedia"
+  - title: "Hohle Fels"
+    url: "https://en.wikipedia.org/wiki/Hohle_Fels"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur quoi le souffle se brise-t-il dans une flûte ?"
+    options:
+      - "Sur une anche en roseau"
+      - "Sur une arête appelée biseau"
+      - "Sur les lèvres seulement"
+    answer: 2
+    explanation: >
+      Le jet d'air se brise sur une arête, le biseau, et se met à osciller de part et
+      d'autre.
+  - question: "Que se passe-t-il quand on bouche tous les trous d'une flûte ?"
+    options:
+      - "La colonne d'air est plus longue et la note plus grave"
+      - "La flûte ne joue plus"
+      - "La note devient plus aiguë"
+    answer: 1
+    explanation: >
+      Tous les trous bouchés, la colonne d'air qui vibre est la plus longue possible : la
+      note est la plus grave.
+  - question: "À quelle famille d'instruments appartient la flûte traversière, même en métal ?"
+    options:
+      - "Les cuivres"
+      - "Les percussions"
+      - "Les bois"
+    answer: 3
+    explanation: >
+      La flûte appartient à la famille des bois, même quand elle est en métal.
+  - question: "En quoi est taillée l'une des plus anciennes flûtes connues, trouvée à Hohle Fels ?"
+    options:
+      - "En os de vautour"
+      - "En bambou"
+      - "En plastique"
+    answer: 1
+    explanation: >
+      La flûte de Hohle Fels, en Allemagne, est taillée dans un os de vautour. Elle a
+      environ 35 000 ans.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans une flûte, le souffle se brise sur une arête et se met à osciller. Cette oscillation fait vibrer l'air enfermé dans le tube. En bouchant ou en ouvrant les trous, on change la longueur de la colonne d'air, donc la note.
+
+## Un souffle qui se brise
+
+Une flûte n'a pas de corde ni d'anche. Tout se joue avec l'air. Le musicien envoie un mince jet d'air contre une arête fine, appelée biseau. Le jet ne peut pas rester sagement d'un côté : il passe tantôt au-dessus de l'arête, tantôt en dessous, très vite. Ces allers-retours font vibrer l'air enfermé dans le tube de la flûte. Cette vibration se propage jusqu'à nos oreilles : c'est le son.
+
+## Des trous pour changer de note
+
+L'air qui vibre dans le tube s'appelle la colonne d'air. Plus elle est longue, plus la note est grave. Plus elle est courte, plus la note est aiguë. Les trous de la flûte servent à changer cette longueur. Quand tous les trous sont bouchés, la colonne d'air va jusqu'au bout du tube : la note est la plus grave. Quand on ouvre un trou, l'air s'échappe à cet endroit et la colonne raccourcit : la note monte. Souffler plus fort permet aussi de sauter vers des notes plus aiguës.
+
+## Une grande famille
+
+Dans la flûte à bec, un petit conduit dirige le souffle vers le biseau. Dans la flûte traversière, tenue de côté, ce sont les lèvres du musicien qui guident le jet. La flûte de Pan réunit plusieurs tubes de longueurs différentes, un par note. Toutes ces flûtes font partie de la famille des bois, même quand elles sont en métal, en os ou en terre cuite.
+
+## Le plus vieil instrument connu
+
+Des fragments de flûte ont été trouvés dans la grotte de Hohle Fels, en Allemagne. Ils ont environ 35 000 ans et sont taillés dans un os de vautour. Ce sont parmi les plus anciens instruments de musique connus. Au XIXe siècle, Theobald Boehm a perfectionné le système de clés de la flûte traversière moderne.
+
+## À retenir
+
+- Dans une flûte, le souffle se brise sur une arête, le biseau, et se met à osciller.
+- Cette oscillation fait vibrer la colonne d'air enfermée dans le tube.
+- Une colonne d'air longue donne une note grave, une colonne courte une note aiguë.
+- Ouvrir ou boucher les trous change la longueur de la colonne d'air, donc la note.
+- La flûte de Hohle Fels, en os de vautour, a environ 35 000 ans.
 
 ---
 type: article
@@ -5499,18 +5718,94 @@ status: planned
 
 ---
 type: article
-title: Le pictogramme, communiquer sans langue
-slug: le-pictogramme-communiquer-sans-langue
+title: Comment un pictogramme se comprend-il sans un seul mot ?
+slug: comment-un-pictogramme-se-comprend-il-sans-un-seul-mot
 categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
 summary: >
-  Un langage visuel universel utilise dans les aeroports, panneaux et notices.
-tags: [arts-graphiques-et-design, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un pictogramme est un petit dessin simplifié qui ressemble à ce qu'il veut dire. Comme il ne
+  dépend d'aucune langue, des voyageurs du monde entier peuvent le comprendre. Pour cela, il
+  doit être simple et respecter des règles communes.
+tags: [arts-graphiques-et-design]
+sources:
+  - title: "Pictogram"
+    url: "https://en.wikipedia.org/wiki/Pictogram"
+    publisher: "Wikipedia"
+  - title: "Pictogramme"
+    url: "https://fr.wikipedia.org/wiki/Pictogramme"
+    publisher: "Wikipédia"
+  - title: "ISO 7001"
+    url: "https://en.wikipedia.org/wiki/ISO_7001"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui rend un pictogramme compréhensible sans mots ?"
+    options:
+      - "Il ressemble à l'objet ou à l'action qu'il désigne"
+      - "Il est toujours écrit en anglais"
+      - "Il est très coloré"
+    answer: 1
+    explanation: >
+      Un pictogramme transmet son sens par sa ressemblance avec un objet réel : une
+      silhouette, une flèche, un outil.
+  - question: "Depuis quels Jeux olympiques utilise-t-on beaucoup de pictogrammes pour les sports ?"
+    options:
+      - "Paris 1900"
+      - "Tokyo 1964"
+      - "Sydney 2000"
+    answer: 2
+    explanation: >
+      Les Jeux de Tokyo, en 1964, ont lancé l'usage des pictogrammes de sports, dessinés
+      par l'équipe de Masaru Katsumi.
+  - question: "Quelle norme internationale fixe des pictogrammes d'information pour le public ?"
+    options:
+      - "La norme MP3"
+      - "La norme A4"
+      - "La norme ISO 7001"
+    answer: 3
+    explanation: >
+      La norme ISO 7001 rassemble des symboles d'information publique, comme ceux des
+      toilettes ou des escaliers.
+  - question: "Quelle est la différence entre un pictogramme et un idéogramme ?"
+    options:
+      - "Il n'y en a aucune"
+      - "Le pictogramme montre un objet, l'idéogramme exprime une idée plus abstraite"
+      - "L'idéogramme est toujours en couleur"
+    answer: 2
+    explanation: >
+      Le pictogramme représente un objet visible. L'idéogramme exprime une idée de façon
+      plus abstraite.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un pictogramme est un petit dessin simplifié qui ressemble à ce qu'il veut dire. Comme il ne dépend d'aucune langue, des voyageurs du monde entier peuvent le comprendre. Pour cela, il doit être simple et respecter des règles communes.
+
+## Un dessin qui ressemble à ce qu'il dit
+
+Un pictogramme est un petit dessin simplifié qui sert de signe. Une silhouette qui court vers une porte, une tasse fumante, un fauteuil roulant : on comprend tout de suite. Son sens vient de sa ressemblance avec un objet ou une action réels. Il ne faut donc pas savoir lire, ni parler la langue du pays. C'est pour cela qu'on en trouve partout où passent des gens venus du monde entier : gares, aéroports, hôpitaux, stades.
+
+Le pictogramme est différent de l'idéogramme. Le premier montre un objet visible. Le second exprime une idée de façon plus abstraite.
+
+## Simple avant tout
+
+Un bon pictogramme doit se reconnaître en un coup d'œil, de loin, et même en tout petit. Les dessinateurs retirent donc tous les détails inutiles. Ils gardent une silhouette, des formes nettes, peu de couleurs. Le même style est utilisé pour toute une série, afin que les signes se ressemblent et se lisent facilement.
+
+## Des règles partagées
+
+Pour qu'un pictogramme soit compris partout, il faut que tout le monde utilise le même. La norme internationale ISO 7001 rassemble ainsi des symboles d'information pour le public. D'autres séries sont aussi normalisées : les symboles de danger sur les produits chimiques, les panneaux routiers, ou les étiquettes d'entretien des vêtements.
+
+## Les pictogrammes olympiques
+
+Les Jeux olympiques accueillent des sportifs et des spectateurs de nombreux pays. Depuis les Jeux de Tokyo en 1964, dessinés par l'équipe de Masaru Katsumi, chaque sport y a son pictogramme. Ceux des Jeux de Munich, en 1972, ont eu une très grande influence sur le dessin des pictogrammes. Depuis, chaque édition des Jeux crée sa propre série.
+
+## À retenir
+
+- Un pictogramme est un dessin simplifié dont le sens vient de sa ressemblance avec un objet réel.
+- Il se comprend sans savoir lire ni parler la langue du pays.
+- Il doit être simple : une silhouette, des formes nettes, peu de détails.
+- La norme ISO 7001 rassemble des pictogrammes d'information pour le public.
+- Les pictogrammes de sports sont utilisés aux Jeux olympiques depuis Tokyo 1964.
 
 ---
 type: article
@@ -5634,18 +5929,91 @@ status: planned
 
 ---
 type: article
-title: La gravure, ancetre de l'impression graphique
-slug: la-gravure-ancetre-de-l-impression-graphique
+title: Comment une gravure permet-elle d'imprimer la même image des dizaines de fois ?
+slug: comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois
 categoryPath: arts-et-culture/arts-visuels/arts-graphiques-et-design
 summary: >
-  Une technique ancienne qui a precede l'imprimerie moderne pour reproduire des images.
-tags: [arts-graphiques-et-design, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le graveur creuse un dessin dans une plaque de bois ou de métal. On encre la plaque, on la
+  presse sur du papier, et l'image s'imprime. On peut recommencer autant de fois que la plaque
+  le supporte.
+tags: [arts-graphiques-et-design]
+sources:
+  - title: "Gravure"
+    url: "https://fr.wikipedia.org/wiki/Gravure"
+    publisher: "Wikipédia"
+  - title: "Printmaking"
+    url: "https://en.wikipedia.org/wiki/Printmaking"
+    publisher: "Wikipedia"
+  - title: "Estampe"
+    url: "https://fr.wikipedia.org/wiki/Estampe"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment appelle-t-on l'image imprimée à partir d'une gravure ?"
+    options:
+      - "Une fresque"
+      - "Une estampe"
+      - "Une mosaïque"
+    answer: 2
+    explanation: >
+      L'image obtenue en pressant la plaque encrée sur du papier s'appelle une estampe.
+  - question: "Dans une gravure sur bois, quelles parties reçoivent l'encre ?"
+    options:
+      - "Les creux"
+      - "Aucune"
+      - "Les parties laissées en relief"
+    answer: 3
+    explanation: >
+      Dans la gravure en relief, on creuse tout autour du dessin. Seules les parties
+      restées en relief se chargent d'encre.
+  - question: "Dans la taille-douce, où se loge l'encre ?"
+    options:
+      - "Dans les traits creusés"
+      - "Sur le dos de la plaque"
+      - "Sur le papier avant l'impression"
+    answer: 1
+    explanation: >
+      En taille-douce, on essuie la surface de la plaque : l'encre reste dans les traits
+      creusés, puis la presse la fait passer sur le papier.
+  - question: "Pourquoi l'image imprimée est-elle inversée par rapport à la plaque ?"
+    options:
+      - "Parce que le papier est retourné comme dans un miroir"
+      - "Parce que l'encre change de place en séchant"
+      - "Parce que la presse tourne la plaque"
+    answer: 1
+    explanation: >
+      Le papier est posé face contre la plaque : la gauche et la droite sont échangées,
+      comme dans un miroir.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le graveur creuse un dessin dans une plaque de bois ou de métal. On encre la plaque, on la presse sur du papier, et l'image s'imprime. On peut recommencer autant de fois que la plaque le supporte.
+
+## Une plaque, de l'encre, une presse
+
+Graver, c'est creuser un dessin dans une matière dure et plate : une planche de bois, une plaque de cuivre ou de linoléum. Cette plaque s'appelle la matrice. On l'encre, on pose une feuille de papier dessus et on presse fort. L'image passe sur le papier : c'est une estampe. On peut ensuite encrer à nouveau la plaque et imprimer une autre feuille, encore et encore. L'image imprimée est inversée, comme dans un miroir, car le papier est posé face contre la plaque.
+
+## La gravure en relief
+
+Dans la gravure sur bois, on creuse tout ce qui doit rester blanc. Le dessin reste en relief, comme un tampon. Quand on passe un rouleau d'encre, seules les parties en relief se chargent. La gravure sur linoléum fonctionne de la même façon.
+
+## La gravure en creux
+
+Dans la taille-douce, c'est l'inverse. Le graveur creuse les traits du dessin dans une plaque de métal, avec un outil pointu appelé burin. Il peut aussi utiliser un acide qui ronge le métal à certains endroits : c'est l'eau-forte. On étale l'encre, puis on essuie la surface. L'encre ne reste que dans les creux. Une presse très puissante appuie le papier humide contre la plaque, et il va chercher l'encre au fond des traits.
+
+## Des images pour beaucoup de monde
+
+La gravure sur bois existait en Chine dès le VIIe siècle. En Europe, elle apparaît vers 1400, et la gravure sur cuivre vers 1430. Grâce à elle, une même image pouvait être vendue à de nombreux exemplaires, bien moins cher qu'une peinture. Des artistes comme Albrecht Dürer ou Rembrandt sont devenus célèbres grâce à leurs gravures. Au XIXe siècle, la photographie lui fait concurrence.
+
+## À retenir
+
+- Une gravure est une plaque creusée qu'on encre puis presse sur du papier pour faire une estampe.
+- L'image imprimée est inversée, comme dans un miroir.
+- En relief, comme sur bois, l'encre se dépose sur les parties non creusées.
+- En taille-douce, l'encre se loge dans les traits creusés au burin ou à l'acide.
+- La gravure apparaît en Europe vers 1400 et permet de diffuser une image à de nombreux exemplaires.
 
 ---
 type: article
@@ -6174,18 +6542,97 @@ status: planned
 
 ---
 type: article
-title: La cuisson de la ceramique et les fours traditionnels
-slug: la-cuisson-de-la-ceramique-et-les-fours-traditionnels
+title: Comment l'argile devient-elle dure comme de la pierre dans un four ?
+slug: comment-l-argile-devient-elle-dure-comme-de-la-pierre-dans-un-four
 categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
 summary: >
-  Comment la temperature de cuisson transforme radicalement l'argile.
-tags: [peinture-et-sculpture, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'argile mouillée se modèle facilement. Une fois sèche, elle reste fragile et fond dans
+  l'eau. La cuisson, à plusieurs centaines de degrés, la transforme pour toujours en
+  céramique, dure et solide.
+tags: [peinture-et-sculpture]
+sources:
+  - title: "Céramique"
+    url: "https://fr.wikipedia.org/wiki/C%C3%A9ramique"
+    publisher: "Wikipédia"
+  - title: "Pottery"
+    url: "https://en.wikipedia.org/wiki/Pottery"
+    publisher: "Wikipedia"
+  - title: "Ceramic"
+    url: "https://en.wikipedia.org/wiki/Ceramic"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que devient une poterie d'argile sèche mais non cuite si on la plonge dans l'eau ?"
+    options:
+      - "Elle se ramollit et peut se défaire"
+      - "Elle devient plus dure"
+      - "Elle change de couleur seulement"
+    answer: 1
+    explanation: >
+      Tant qu'elle n'est pas cuite, l'argile peut reprendre l'eau et redevenir molle.
+  - question: "Vers quelle température cuit-on une terre cuite ?"
+    options:
+      - "100 °C"
+      - "850 à 1 000 °C"
+      - "5 000 °C"
+    answer: 2
+    explanation: >
+      Une terre cuite cuit entre 850 et 1 000 °C environ. Le grès et la porcelaine
+      demandent plus de chaleur.
+  - question: "Pourquoi une porcelaine est-elle moins poreuse qu'une terre cuite ?"
+    options:
+      - "Elle est peinte en blanc"
+      - "Elle est plus épaisse"
+      - "Elle a été cuite plus chaud et s'est vitrifiée"
+    answer: 3
+    explanation: >
+      Cuite à plus haute température, la porcelaine se vitrifie : sa matière devient en
+      partie comme du verre et l'eau ne la traverse plus.
+  - question: "Où a-t-on trouvé les plus anciens morceaux de poterie connus ?"
+    options:
+      - "En Chine"
+      - "En Australie"
+      - "Au Groenland"
+    answer: 1
+    explanation: >
+      Les plus anciens tessons de poterie connus ont été trouvés en Chine. Ils datent
+      d'environ 20 000 ans avant notre ère.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'argile mouillée se modèle facilement. Une fois sèche, elle reste fragile et fond dans l'eau. La cuisson, à plusieurs centaines de degrés, la transforme pour toujours en céramique, dure et solide.
+
+## Une terre qui se modèle
+
+L'argile est une terre faite de grains minuscules. Mélangée à de l'eau, elle devient souple : on peut la modeler à la main ou la tourner sur un tour de potier. Ensuite, on la laisse sécher. L'eau s'évapore et l'objet durcit un peu. Mais il reste fragile. Plongé dans l'eau, il se ramollirait et pourrait se défaire.
+
+## Le feu change la matière
+
+Dans le four, l'argile chauffe à plusieurs centaines de degrés. D'abord, l'eau qui restait cachée dans ses grains s'en va. Puis, à plus haute température, les grains se soudent entre eux. La terre devient de la céramique : une matière dure, qui ne craint plus l'eau. Ce changement est définitif. Une poterie cuite ne redevient jamais de l'argile molle.
+
+## Plus c'est chaud, plus c'est serré
+
+Chaque famille de céramique a sa température de cuisson :
+
+- la terre cuite, comme les pots de fleurs, cuit entre 850 et 1 000 °C environ ;
+- le grès cuit vers 1 280 °C ;
+- la porcelaine cuit entre 1 250 et 1 400 °C.
+
+La terre cuite reste poreuse : elle garde de minuscules trous où l'eau peut passer. Le grès et la porcelaine, cuits plus chaud, se vitrifient. Une partie de leur matière fond et devient comme du verre, qui bouche les trous. Pour rendre une terre cuite étanche, on la recouvre d'émail, une couche de verre qui fond pendant la cuisson.
+
+## Le plus vieil art du feu
+
+La céramique est née avant le travail des métaux et du verre. Les plus anciens morceaux de poterie connus ont été trouvés en Chine : ils ont environ 20 000 ans avant notre ère. Aujourd'hui, la céramique sert aussi bien pour la vaisselle et les lavabos que pour les briques, les tuiles ou des pièces d'industrie.
+
+## À retenir
+
+- L'argile mouillée se modèle ; sèche mais non cuite, elle reste fragile et craint l'eau.
+- La cuisson soude les grains d'argile et transforme la terre en céramique, pour toujours.
+- Une terre cuite cuit vers 850 à 1 000 °C, une porcelaine entre 1 250 et 1 400 °C.
+- Le grès et la porcelaine se vitrifient et deviennent étanches ; la terre cuite reste poreuse.
+- Les plus anciennes poteries connues, trouvées en Chine, ont environ 20 000 ans avant notre ère.
 
 ---
 type: article
@@ -6264,18 +6711,89 @@ status: planned
 
 ---
 type: article
-title: La technique de la fresque a la chaux
-slug: la-technique-de-la-fresque-a-la-chaux
+title: Comment une fresque reste-t-elle accrochée au mur pendant des siècles ?
+slug: comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles
 categoryPath: arts-et-culture/arts-visuels/peinture-et-sculpture
 summary: >
-  Une methode ancienne qui melange peinture et chimie du platre.
-tags: [peinture-et-sculpture, essentiel-reconstruction]
-priority: 3
-essentiel: true
-status: planned
+  Le peintre pose ses couleurs sur un enduit de chaux encore frais. En séchant, la chaux
+  réagit avec le gaz carbonique de l'air et forme une fine pierre qui emprisonne les pigments.
+  La peinture fait alors partie du mur.
+tags: [peinture-et-sculpture]
+sources:
+  - title: "Fresque"
+    url: "https://fr.wikipedia.org/wiki/Fresque"
+    publisher: "Wikipédia"
+  - title: "Fresco"
+    url: "https://en.wikipedia.org/wiki/Fresco"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que veut dire « a fresco » en italien ?"
+    options:
+      - "Dans le frais"
+      - "Avec de l'huile"
+      - "Sur du bois"
+    answer: 1
+    explanation: >
+      Le mot fresque vient de l'italien « a fresco », « dans le frais » : on peint sur un
+      enduit encore humide.
+  - question: "Que forme la chaux en séchant au contact de l'air ?"
+    options:
+      - "Du sable mouillé"
+      - "Du carbonate de calcium, une sorte de pierre"
+      - "De la colle à papier"
+    answer: 2
+    explanation: >
+      La chaux réagit avec le dioxyde de carbone de l'air et forme du carbonate de
+      calcium, qui enferme les pigments.
+  - question: "Qu'est-ce qu'une « giornata » ?"
+    options:
+      - "Un pinceau très fin"
+      - "Un pigment bleu"
+      - "La partie de mur peinte en une journée"
+    answer: 3
+    explanation: >
+      Le peintre n'enduit que la surface qu'il peut peindre avant que l'enduit sèche : la
+      « giornata », la journée de travail.
+  - question: "Qui a peint le plafond de la chapelle Sixtine, de 1508 à 1512 ?"
+    options:
+      - "Léonard de Vinci"
+      - "Michel-Ange"
+      - "Picasso"
+    answer: 2
+    explanation: >
+      Michel-Ange a peint à fresque le plafond de la chapelle Sixtine, à Rome, entre 1508
+      et 1512.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le peintre pose ses couleurs sur un enduit de chaux encore frais. En séchant, la chaux réagit avec le gaz carbonique de l'air et forme une fine pierre qui emprisonne les pigments. La peinture fait alors partie du mur.
+
+## Peindre dans le frais
+
+Le mot fresque vient de l'italien « a fresco », qui veut dire « dans le frais ». Le peintre applique d'abord sur le mur plusieurs couches d'enduit à base de chaux. La dernière, très fine, s'appelle l'intonaco. Tant qu'elle est encore humide, il y pose ses couleurs : des pigments simplement mélangés à de l'eau, sans colle.
+
+## La chaux se change en pierre
+
+En séchant, la chaux de l'enduit réagit avec le dioxyde de carbone de l'air. Elle se transforme peu à peu en carbonate de calcium, la matière du calcaire. De minuscules cristaux se forment et emprisonnent les grains de pigment. La couleur n'est donc pas posée sur le mur comme une peinture ordinaire : elle fait partie de sa surface. C'est pour cela que certaines fresques ont traversé les siècles.
+
+## Une course contre la montre
+
+L'enduit sèche en quelques heures. Le peintre n'en étale donc chaque jour que la surface qu'il peut peindre à temps, souvent de 1 à 4 mètres carrés. Cette portion s'appelle une « giornata », la journée de travail. Une erreur est presque impossible à corriger une fois l'enduit sec. Les couleurs aussi sont limitées : seuls certains pigments supportent la chaux sans s'abîmer. Les retouches faites après coup, sur l'enduit sec, s'appellent des peintures « a secco ». Elles tiennent beaucoup moins bien.
+
+## Des chefs-d'œuvre sur les murs
+
+Des fresques ont été peintes en Crète vers 1700 avant notre ère. Les Grecs et les Romains en ont décoré leurs maisons. À la Renaissance, en Italie, la technique atteint un sommet. Giotto couvre de fresques une chapelle de Padoue. Michel-Ange peint le plafond de la chapelle Sixtine, à Rome, de 1508 à 1512. Après le XVIe siècle, la peinture à l'huile prend peu à peu la place de la fresque.
+
+## À retenir
+
+- Une fresque est peinte avec des pigments et de l'eau sur un enduit de chaux encore frais.
+- En séchant, la chaux réagit avec le gaz carbonique de l'air et devient du carbonate de calcium.
+- Les cristaux formés emprisonnent les pigments : la couleur fait partie du mur.
+- Le peintre travaille par « giornata », la surface qu'il peut peindre avant que l'enduit sèche.
+- Michel-Ange a peint à fresque le plafond de la chapelle Sixtine de 1508 à 1512.
 
 ---
 type: article
@@ -6369,18 +6887,89 @@ status: planned
 
 ---
 type: article
-title: La chambre noire, principe optique de base
-slug: la-chambre-noire-principe-optique-de-base
+title: Comment une boîte percée d'un petit trou fabrique-t-elle une image ?
+slug: comment-une-boite-percee-d-un-petit-trou-fabrique-t-elle-une-image
 categoryPath: arts-et-culture/arts-visuels/photographie-et-cinema
 summary: >
-  Le phenomene physique simple a l'origine de toute photographie.
-tags: [photographie-et-cinema, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans une boîte fermée, un petit trou laisse entrer la lumière. Les rayons vont en ligne
+  droite et se croisent dans le trou : ils dessinent sur la paroi du fond une image du dehors,
+  à l'envers. C'est la chambre noire, ancêtre de l'appareil photo.
+tags: [photographie-et-cinema]
+sources:
+  - title: "Sténopé"
+    url: "https://fr.wikipedia.org/wiki/St%C3%A9nop%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Camera obscura"
+    url: "https://en.wikipedia.org/wiki/Camera_obscura"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans quel sens apparaît l'image au fond de la chambre noire ?"
+    options:
+      - "À l'endroit"
+      - "À l'envers"
+      - "En noir et blanc seulement"
+    answer: 2
+    explanation: >
+      Les rayons passent tous par le trou et s'y croisent : ce qui est en haut dehors
+      arrive en bas sur la paroi.
+  - question: "Pourquoi les rayons se croisent-ils dans le trou ?"
+    options:
+      - "Parce que la lumière va en ligne droite"
+      - "Parce que le trou est aimanté"
+      - "Parce que la boîte tourne"
+    answer: 1
+    explanation: >
+      La lumière se déplace en ligne droite. Un rayon venu du haut ne peut atteindre que
+      le bas du fond, et inversement.
+  - question: "Que se passe-t-il si on agrandit beaucoup le trou ?"
+    options:
+      - "L'image devient plus nette"
+      - "L'image disparaît d'un coup"
+      - "L'image devient plus lumineuse mais plus floue"
+    answer: 3
+    explanation: >
+      Un trou plus grand laisse passer plus de lumière, mais chaque point du dehors forme
+      alors une tache plus large.
+  - question: "Que voit-on parfois sous un arbre pendant une éclipse partielle de Soleil ?"
+    options:
+      - "Des petits croissants de lumière"
+      - "Des étoiles en plein jour"
+      - "Des ombres carrées"
+    answer: 1
+    explanation: >
+      Les trous entre les feuilles agissent comme des sténopés et projettent de petites
+      images du Soleil en croissant.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans une boîte fermée, un petit trou laisse entrer la lumière. Les rayons vont en ligne droite et se croisent dans le trou : ils dessinent sur la paroi du fond une image du dehors, à l'envers. C'est la chambre noire, ancêtre de l'appareil photo.
+
+## Une boîte, un trou, une image
+
+Prenez une boîte fermée, bien noire à l'intérieur. Percez un tout petit trou dans une paroi. Sur la paroi d'en face apparaît une image de ce qui se trouve dehors : un arbre, une maison, une personne. Elle est pâle, mais elle a des couleurs et elle bouge. Ce dispositif s'appelle une chambre noire, ou sténopé. Il n'a besoin d'aucune lentille.
+
+## Pourquoi l'image est à l'envers
+
+La lumière se déplace en ligne droite. Chaque point de l'arbre envoie des rayons dans toutes les directions, mais un seul mince faisceau passe par le petit trou. Un rayon venu du haut de l'arbre traverse le trou en descendant et touche le bas du fond. Un rayon venu du bas monte et touche le haut. Les rayons se croisent dans le trou : l'image est donc renversée, et aussi inversée de gauche à droite.
+
+## Un trou ni trop petit ni trop grand
+
+Si le trou est grand, il laisse entrer beaucoup de lumière, mais chaque point du dehors forme une tache large : l'image est floue. Si le trou est minuscule, l'image est plus nette, mais très sombre. En 1857, le physicien Joseph Petzval a calculé le diamètre de trou idéal. Comme l'image est faible, une photo prise au sténopé demande un temps de pose de quelques secondes à plusieurs heures.
+
+## Une idée très ancienne
+
+Le premier texte connu sur ce phénomène a été écrit en Chine vers 500 avant notre ère, par le penseur Mozi. Vers l'an 1000, le savant arabe Ibn al-Haytham a étudié la chambre noire en détail. Plus tard, on a remplacé le trou par une lentille pour obtenir une image plus lumineuse, puis on a posé au fond un matériau sensible à la lumière : l'appareil photo était né. La nature fabrique aussi des sténopés. Pendant une éclipse partielle, les trous entre les feuilles d'un arbre projettent au sol de petits croissants de Soleil.
+
+## À retenir
+
+- Une chambre noire est une boîte fermée percée d'un petit trou, sans lentille.
+- La lumière va en ligne droite : les rayons se croisent dans le trou et l'image est à l'envers.
+- Un grand trou donne une image lumineuse mais floue ; un petit trou, une image nette mais sombre.
+- Le premier texte connu sur ce phénomène date d'environ 500 avant notre ère, en Chine.
+- En ajoutant une lentille et un support sensible à la lumière, on obtient un appareil photo.
 
 ---
 type: article
@@ -7254,18 +7843,94 @@ status: planned
 
 ---
 type: article
-title: Le papyrus, avant le papier
-slug: le-papyrus-avant-le-papier
+title: Comment les Égyptiens fabriquaient-ils des feuilles avec une plante ?
+slug: comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante
 categoryPath: arts-et-culture/litterature-et-ecriture/histoire-du-livre
 summary: >
-  Un support ancien fabrique a partir d'une plante du Nil.
-tags: [histoire-du-livre, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le papyrus est une grande plante des bords du Nil. Les Égyptiens coupaient sa tige en fines
+  lamelles, les posaient en deux couches croisées, puis les pressaient et les séchaient. Ils
+  obtenaient une feuille souple pour écrire et peindre.
+tags: [histoire-du-livre]
+sources:
+  - title: "Papyrus (papier)"
+    url: "https://fr.wikipedia.org/wiki/Papyrus_(papier)"
+    publisher: "Wikipédia"
+  - title: "Papyrus"
+    url: "https://en.wikipedia.org/wiki/Papyrus"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle partie de la plante utilisait-on pour fabriquer le papyrus ?"
+    options:
+      - "Les fleurs"
+      - "La moelle de la tige"
+      - "Les racines"
+    answer: 2
+    explanation: >
+      On découpait en lamelles la moelle, la partie tendre à l'intérieur de la tige.
+  - question: "Comment les lamelles étaient-elles disposées ?"
+    options:
+      - "En deux couches croisées"
+      - "En une seule rangée"
+      - "En tas, sans ordre"
+    answer: 1
+    explanation: >
+      Une couche de lamelles verticales était recouverte d'une couche horizontale, puis le
+      tout était pressé.
+  - question: "Comment faisait-on de longs rouleaux ?"
+    options:
+      - "En tissant les feuilles"
+      - "En les cousant avec du fil"
+      - "En collant les feuilles bout à bout"
+    answer: 3
+    explanation: >
+      Les feuilles étaient collées les unes aux autres avec une colle de farine et d'eau,
+      pour former des rouleaux de plusieurs mètres.
+  - question: "Quel support a peu à peu remplacé le papyrus en Europe au Moyen Âge ?"
+    options:
+      - "Le parchemin"
+      - "Le plastique"
+      - "L'ardoise"
+    answer: 1
+    explanation: >
+      Le parchemin, plus solide et plus facile à se procurer en Europe, a pris la place du
+      papyrus.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le papyrus est une grande plante des bords du Nil. Les Égyptiens coupaient sa tige en fines lamelles, les posaient en deux couches croisées, puis les pressaient et les séchaient. Ils obtenaient une feuille souple pour écrire et peindre.
+
+## Une plante du Nil
+
+Le papyrus, Cyperus papyrus de son nom savant, est une grande plante qui pousse les pieds dans l'eau, en Afrique. En Égypte, elle couvrait les bords du Nil. Sa tige contient une moelle blanche et tendre. C'est avec elle que les Égyptiens ont inventé un support pour écrire, il y a environ 5 000 ans.
+
+## De la tige à la feuille
+
+1. On coupe la moelle de la tige en longues lamelles fines.
+2. On pose une couche de lamelles côte à côte, dans le sens vertical.
+3. On pose par-dessus une seconde couche, dans le sens horizontal.
+4. On presse le tout pour chasser l'eau, puis on le fait sécher avec soin.
+5. On polit légèrement la surface, sans la rendre trop lisse, pour que l'encre accroche.
+
+On obtient une feuille rectangulaire, souple et claire. Pour faire un livre, on colle les feuilles bout à bout avec une colle de farine et d'eau. On forme ainsi un rouleau qui peut mesurer plusieurs mètres.
+
+## Plus de 4 000 ans d'écriture
+
+Le plus ancien papyrus connu date d'environ 2900 avant notre ère. Il a été trouvé à Saqqarah, en Égypte. Pendant plus de 4 000 ans, le papyrus a servi aux Égyptiens, puis aux Grecs, aux Romains, aux Byzantins et aux Arabes, tout autour de la Méditerranée.
+
+## La fin du papyrus
+
+Au Moyen Âge, il devient plus difficile d'en faire venir d'Égypte jusqu'en Europe. Le parchemin, fait de peau d'animal et plus solide, prend sa place. En France, il le remplace vers 670. Le papier, inventé en Chine, s'impose ensuite en Europe à partir du XIIe siècle. Le mot « papier » vient d'ailleurs du mot « papyrus ».
+
+## À retenir
+
+- Le papyrus est une plante des bords du Nil dont on utilisait la moelle de la tige.
+- Les lamelles étaient posées en deux couches croisées, pressées, séchées puis polies.
+- Les feuilles collées bout à bout formaient des rouleaux de plusieurs mètres.
+- Le plus ancien papyrus connu date d'environ 2900 avant notre ère.
+- Le parchemin puis le papier l'ont remplacé ; le mot « papier » vient de « papyrus ».
 
 ---
 type: article
@@ -7749,18 +8414,92 @@ status: planned
 
 ---
 type: article
-title: L'arc en plein cintre et son role structurel
-slug: l-arc-en-plein-cintre-et-son-role-structurel
+title: Comment un arc en pierre tient-il debout grâce à son propre poids ?
+slug: comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids
 categoryPath: arts-et-culture/patrimoine/architecture
 summary: >
-  Une invention architecturale qui a permis de couvrir de plus grands espaces.
-tags: [architecture, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un arc en plein cintre est un demi-cercle de pierres taillées en coin. Chaque pierre pousse
+  sur ses voisines, et le poids descend le long de l'arc jusqu'aux piliers. Les pierres sont
+  serrées les unes contre les autres au lieu de tomber.
+tags: [architecture]
+sources:
+  - title: "Arc en plein cintre"
+    url: "https://fr.wikipedia.org/wiki/Arc_en_plein_cintre"
+    publisher: "Wikipédia"
+  - title: "Arch"
+    url: "https://en.wikipedia.org/wiki/Arch"
+    publisher: "Wikipedia"
+  - title: "Voussoir"
+    url: "https://en.wikipedia.org/wiki/Voussoir"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle forme a un arc en plein cintre ?"
+    options:
+      - "Un triangle"
+      - "Un demi-cercle"
+      - "Un carré"
+    answer: 2
+    explanation: >
+      Un arc en plein cintre forme un demi-cercle parfait, sans pointe.
+  - question: "Comment s'appellent les pierres taillées en coin qui forment l'arc ?"
+    options:
+      - "Les voussoirs"
+      - "Les briques plates"
+      - "Les galets"
+    answer: 1
+    explanation: >
+      Les pierres de l'arc s'appellent des voussoirs. Leur forme en coin les empêche de
+      glisser vers le bas.
+  - question: "À quoi sert le cintre en bois pendant la construction ?"
+    options:
+      - "À décorer l'arc"
+      - "À le peindre"
+      - "À soutenir les pierres tant que l'arc n'est pas fermé"
+    answer: 3
+    explanation: >
+      Le cintre est un gabarit en bois qui porte les pierres pendant la pose. On le retire
+      quand la dernière pierre est en place.
+  - question: "Quelle construction romaine célèbre utilise des arcs en plein cintre ?"
+    options:
+      - "La tour Eiffel"
+      - "Le pont du Gard"
+      - "Le Burj Khalifa"
+    answer: 2
+    explanation: >
+      Le pont du Gard, un aqueduc romain, aligne plusieurs étages d'arcs en plein cintre.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un arc en plein cintre est un demi-cercle de pierres taillées en coin. Chaque pierre pousse sur ses voisines, et le poids descend le long de l'arc jusqu'aux piliers. Les pierres sont serrées les unes contre les autres au lieu de tomber.
+
+## Un demi-cercle de pierres
+
+Un arc en plein cintre forme un demi-cercle parfait. Il est fait de pierres taillées en forme de coin, appelées voussoirs. Elles sont plus larges en haut qu'en bas. La pierre placée tout en haut, au centre, s'appelle la clé. L'arc repose de chaque côté sur un support vertical, le piédroit.
+
+## Le poids qui serre au lieu de faire tomber
+
+Une pierre posée en l'air tombe. Mais dans un arc, chaque voussoir est coincé entre ses deux voisins. Son poids le pousse vers le bas, et sa forme en coin l'empêche de passer entre les autres. Il appuie donc sur eux. De pierre en pierre, le poids descend le long de la courbe jusqu'aux piédroits. Toutes les pierres sont comprimées, c'est-à-dire serrées les unes contre les autres. Or la pierre résiste très bien à la compression.
+
+L'arc ne pousse pas seulement vers le bas. Il pousse aussi vers l'extérieur, sur les côtés. Les supports doivent donc être assez épais et lourds pour ne pas s'écarter.
+
+## Un échafaudage en bois
+
+Tant que la clé n'est pas posée, l'arc ne tient pas. Les bâtisseurs construisent d'abord un gabarit en bois en forme de demi-cercle : le cintre. Ils posent les voussoirs dessus, des deux côtés à la fois, puis placent la clé au sommet. L'arc se tient alors tout seul, et le cintre peut être retiré.
+
+## Des Romains aux églises romanes
+
+Les Romains ont beaucoup utilisé l'arc en plein cintre, dans leurs bâtiments comme dans leurs aqueducs. Le pont du Gard en aligne plusieurs étages. Au Moyen Âge, il devient l'élément principal de l'architecture romane. À la Renaissance, les architectes le reprennent comme un modèle venu de l'Antiquité.
+
+## À retenir
+
+- Un arc en plein cintre est un demi-cercle de pierres taillées en coin, les voussoirs.
+- Le poids de chaque pierre la serre contre ses voisines au lieu de la faire tomber.
+- Le poids descend le long de l'arc jusqu'aux supports, qui doivent aussi résister à une poussée vers l'extérieur.
+- Pendant la construction, un cintre en bois porte les pierres jusqu'à la pose de la clé.
+- Les Romains l'ont beaucoup utilisé, par exemple au pont du Gard.
 
 ---
 type: article
