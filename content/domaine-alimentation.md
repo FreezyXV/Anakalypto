@@ -14462,18 +14462,92 @@ status: planned
 
 ---
 type: article
-title: La conservation du miel, un aliment naturellement imperissable
-slug: la-conservation-du-miel-un-aliment-naturellement-imperissable
+title: Comment le miel peut-il se conserver presque sans fin ?
+slug: comment-le-miel-peut-il-se-conserver-presque-sans-fin
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Pourquoi le miel peut se conserver des annees sans aucun traitement particulier.
-tags: [conservation, essentiel-reconstruction]
-priority: 3
-essentiel: true
-status: planned
+  Le miel contient très peu d'eau et énormément de sucre : les microbes ne peuvent pas s'y
+  multiplier. Il est aussi acide et produit un peu d'eau oxygénée, qui freine les bactéries.
+tags: [conservation]
+sources:
+  - title: "Honey"
+    url: "https://en.wikipedia.org/wiki/Honey"
+    publisher: "Wikipedia"
+  - title: "Miel"
+    url: "https://fr.wikipedia.org/wiki/Miel"
+    publisher: "Wikipédia"
+  - title: "Glucose oxidase"
+    url: "https://en.wikipedia.org/wiki/Glucose_oxidase"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle part d'eau contient un miel fini ?"
+    options:
+      - "Environ 80 %"
+      - "Entre 15,5 et 18 %"
+      - "Pas une goutte"
+    answer: 2
+    explanation: >
+      Les abeilles font évaporer l'eau du nectar. Le miel fini ne contient plus que 15,5 à
+      18 % d'eau.
+  - question: "Pourquoi les microbes ne peuvent-ils pas se multiplier dans le miel ?"
+    options:
+      - "Il est trop froid"
+      - "Il contient de l'alcool"
+      - "Le sucre leur prend l'eau dont ils ont besoin"
+    answer: 3
+    explanation: >
+      Le miel est si sucré que les microbes n'y trouvent pas assez d'eau libre pour vivre
+      et se reproduire.
+  - question: "Avec quoi les abeilles ferment-elles les alvéoles de miel fini ?"
+    options:
+      - "De la cire"
+      - "De la terre"
+      - "Des pétales"
+    answer: 1
+    explanation: >
+      Quand le miel est prêt, les abeilles bouchent les alvéoles avec de la cire.
+  - question: "Pourquoi ne donne-t-on pas de miel à un bébé de moins d'un an ?"
+    options:
+      - "Il est trop dur à avaler"
+      - "Il peut contenir des spores de la bactérie du botulisme"
+      - "Il fait pousser les dents trop vite"
+    answer: 2
+    explanation: >
+      Le miel peut contenir des spores de la bactérie du botulisme, dangereuses pour les
+      bébés de moins d'un an.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le miel contient très peu d'eau et énormément de sucre : les microbes ne peuvent pas s'y multiplier. Il est aussi acide et produit un peu d'eau oxygénée, qui freine les bactéries.
+
+## Les abeilles le sèchent
+
+Les abeilles récoltent le nectar des fleurs, un liquide sucré plein d'eau. Des enzymes de leur salive découpent les gros sucres en sucres plus simples. Dans la chaleur de la ruche, elles font évaporer une partie de l'eau. Quand le miel est prêt, elles ferment les alvéoles avec un bouchon de cire. Le miel fini ne contient plus que 15,5 à 18 % d'eau.
+
+## Trop de sucre pour les microbes
+
+Le miel contient tant de sucre que l'eau ne pourrait normalement pas tout dissoudre à température ambiante. On dit qu'il est sursaturé. Or les microbes ont besoin d'eau pour vivre et se multiplier. Dans le miel, le sucre retient cette eau, et ils ne peuvent pas se reproduire. Tant que sa teneur en eau ne dépasse pas beaucoup 18 %, le miel se garde sans limite de durée.
+
+## Deux défenses de plus
+
+Le miel est acide : son pH moyen est de 3,9. Une enzyme apportée par les abeilles, la glucose oxydase, fabrique de l'acide gluconique et un peu d'eau oxygénée. Ces deux substances freinent la croissance des bactéries.
+
+## Les bons gestes
+
+Le miel attire l'humidité de l'air : il faut bien refermer le pot. S'il durcit et devient granuleux, il a cristallisé, mais il n'est pas abîmé. On ne donne pas de miel aux bébés de moins d'un an : il peut contenir des spores de la bactérie du botulisme.
+
+On raconte souvent qu'on a mangé du miel retrouvé dans des tombes égyptiennes. C'est une légende : aucun miel mangeable n'y a été découvert, seulement des traces chimiques.
+
+## À retenir
+
+- Les abeilles font évaporer l'eau du nectar : le miel fini contient 15,5 à 18 % d'eau.
+- Le sucre du miel retient l'eau, et les microbes ne peuvent pas s'y multiplier.
+- Le miel est acide et produit un peu d'eau oxygénée grâce à une enzyme des abeilles.
+- Un miel cristallisé n'est pas abîmé.
+- On ne donne pas de miel aux bébés de moins d'un an.
 
 ---
 type: article
@@ -14747,18 +14821,95 @@ status: planned
 
 ---
 type: article
-title: La fermentation dans la production du pain au levain
-slug: la-fermentation-dans-la-production-du-pain-au-levain
+title: Comment le levain fait-il gonfler la pâte à pain ?
+slug: comment-le-levain-fait-il-gonfler-la-pate-a-pain
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Un processus lent qui developpe a la fois texture, gout et conservation.
-tags: [fermentation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le levain est un mélange de farine et d'eau où vivent des levures sauvages et des bactéries.
+  Les levures rejettent un gaz qui fait gonfler la pâte. Les bactéries donnent au pain son
+  petit goût acide.
+tags: [fermentation]
+sources:
+  - title: "Levain"
+    url: "https://fr.wikipedia.org/wiki/Levain"
+    publisher: "Wikipédia"
+  - title: "Sourdough"
+    url: "https://en.wikipedia.org/wiki/Sourdough"
+    publisher: "Wikipedia"
+  - title: "Pain"
+    url: "https://fr.wikipedia.org/wiki/Pain"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel gaz rejeté par les levures fait gonfler la pâte ?"
+    options:
+      - "De l'oxygène"
+      - "Du dioxyde de carbone"
+      - "De l'hélium"
+    answer: 2
+    explanation: >
+      En mangeant les sucres de la farine, les levures rejettent du dioxyde de carbone.
+      Ses bulles restent prisonnières de la pâte, qui gonfle.
+  - question: "Qui donne au pain au levain son goût un peu acide ?"
+    options:
+      - "Les bactéries lactiques"
+      - "Le sel"
+      - "La chaleur du four"
+    answer: 1
+    explanation: >
+      Les bactéries lactiques du levain produisent de l'acide lactique et de l'acide
+      acétique, qui donnent ce goût aigre.
+  - question: "Que devient l'alcool produit par les levures ?"
+    options:
+      - "Il reste dans la mie"
+      - "Il se change en farine"
+      - "Il s'évapore pendant la cuisson"
+    answer: 3
+    explanation: >
+      Les levures produisent un peu d'alcool, mais il s'évapore dans le four.
+  - question: "Que faut-il faire pour garder un levain vivant ?"
+    options:
+      - "Le nourrir souvent avec de la farine et de l'eau"
+      - "Le cuire au four"
+      - "Le laisser sécher au soleil"
+    answer: 1
+    explanation: >
+      Le levain est vivant. Il faut le « rafraîchir » régulièrement avec de la farine et
+      de l'eau fraîches.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le levain est un mélange de farine et d'eau où vivent des levures sauvages et des bactéries. Les levures rejettent un gaz qui fait gonfler la pâte. Les bactéries donnent au pain son petit goût acide.
+
+## Un petit zoo dans un bocal
+
+Le levain est un mélange de farine et d'eau dans lequel vivent des êtres microscopiques : des levures sauvages et des bactéries lactiques. Les scientifiques y ont compté plus de 50 espèces de lactobacilles et une vingtaine d'espèces de levures. Pour rester vivant, le levain doit être nourri régulièrement avec de la farine et de l'eau fraîches. Les boulangers disent qu'ils le « rafraîchissent ».
+
+## Des bulles et de l'acide
+
+Quand on mélange le levain à la pâte, ses habitants se nourrissent des sucres de la farine : c'est la fermentation. Les levures rejettent du dioxyde de carbone, un gaz, et un peu d'alcool. Les bactéries produisent de l'acide lactique et de l'acide acétique.
+
+Les deux équipes s'entraident. Les bactéries découpent des morceaux d'amidon que les levures ne savent pas manger. Les levures se nourrissent ensuite des sucres libérés, surtout du maltose.
+
+Dans une pâte de blé, le gluten forme un réseau élastique. Les bulles de gaz y restent prisonnières, et la pâte gonfle lentement, en plusieurs heures.
+
+## Dans le four
+
+La cuisson tue les levures et les bactéries. L'alcool s'évapore. Les bulles chauffées grossissent encore et laissent des trous dans la mie. L'acidité donne au pain au levain son goût un peu aigre. Elle l'aide aussi à rester frais plus longtemps que beaucoup d'autres pains.
+
+## Une très vieille recette
+
+Les premières images de levain datent de l'Ancien Empire égyptien. L'un des plus vieux pains au levain connus date d'environ 3700 avant notre ère : il a été retrouvé en Suisse. Aujourd'hui, beaucoup de pains sont faits avec de la levure de boulanger, une seule espèce de levure qui agit plus vite que le levain.
+
+## À retenir
+
+- Le levain est un mélange de farine et d'eau où vivent des levures sauvages et des bactéries lactiques.
+- Les levures rejettent du dioxyde de carbone, dont les bulles font gonfler la pâte.
+- Les bactéries produisent des acides qui donnent au pain son goût un peu aigre et l'aident à se conserver.
+- La cuisson tue les microbes et fait évaporer l'alcool.
+- Le pain au levain existe depuis l'Égypte ancienne.
 
 ---
 type: article

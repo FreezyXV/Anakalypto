@@ -5646,18 +5646,91 @@ status: planned
 
 ---
 type: article
-title: Le recyclage du verre, un materiau recyclable a l'infini
-slug: le-recyclage-du-verre-un-materiau-recyclable-a-l-infini
+title: Comment une bouteille en verre usagée redevient-elle une bouteille neuve ?
+slug: comment-une-bouteille-en-verre-usagee-redevient-elle-une-bouteille-neuve
 categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
 summary: >
-  Une matiere qui peut etre reutilisee indefiniment sans perte de qualite.
-tags: [dechets-et-recyclage, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les bouteilles déposées dans le conteneur sont triées, nettoyées des intrus puis broyées en
+  calcin. Ce calcin fond dans un four et devient une nouvelle bouteille. Le verre peut refaire
+  ce voyage sans limite.
+tags: [dechets-et-recyclage]
+sources:
+  - title: "Glass recycling"
+    url: "https://en.wikipedia.org/wiki/Glass_recycling"
+    publisher: "Wikipedia"
+  - title: "Verre"
+    url: "https://fr.wikipedia.org/wiki/Verre"
+    publisher: "Wikipédia"
+  - title: "Le recyclage du verre, explications et consignes de tri"
+    url: "https://climate.selectra.com/fr/recyclage/verre"
+    publisher: "Selectra"
+quiz:
+  - question: "Comment appelle-t-on le verre broyé prêt à être refondu ?"
+    options:
+      - "Le calcin"
+      - "Le kaolin"
+      - "Le ciment"
+    answer: 1
+    explanation: >
+      Le verre trié est broyé en petits morceaux appelés calcin, qu'on refond pour faire
+      du verre neuf.
+  - question: "Quel objet ne doit pas aller dans le conteneur à verre ?"
+    options:
+      - "Un pot de confiture"
+      - "Une assiette en porcelaine"
+      - "Une bouteille de jus"
+    answer: 2
+    explanation: >
+      La porcelaine et la céramique ne se comportent pas comme le verre d'emballage dans
+      le four. Il faut les retirer.
+  - question: "Combien de fois peut-on recycler une bouteille en verre ?"
+    options:
+      - "Une seule fois"
+      - "Trois fois"
+      - "Sans limite"
+    answer: 3
+    explanation: >
+      Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leur qualité.
+  - question: "Que permet d'économiser l'ajout de calcin dans le four ?"
+    options:
+      - "De l'énergie et des matières premières"
+      - "De l'eau de mer"
+      - "Rien du tout"
+    answer: 1
+    explanation: >
+      Le calcin demande moins d'énergie à fondre que le sable, et il évite d'extraire de
+      nouvelles matières premières.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les bouteilles déposées dans le conteneur sont triées, nettoyées des intrus puis broyées en calcin. Ce calcin fond dans un four et devient une nouvelle bouteille. Le verre peut refaire ce voyage sans limite.
+
+## Du conteneur à l'usine
+
+Les bouteilles et les pots déposés dans le conteneur sont collectés puis apportés dans un centre de traitement. On les trie par couleur. On retire aussi les intrus : bouchons en métal, morceaux de céramique, de porcelaine ou de verre qui résiste à la chaleur, comme celui des plats à four. Ces matériaux ne fondent pas comme le verre d'emballage et changent la façon dont le verre fondu s'écoule dans le four.
+
+## Le calcin
+
+Le verre trié est broyé en petits morceaux : le calcin. À l'usine, on le mélange aux matières premières du verre, le sable, le carbonate de sodium et le calcaire. Le tout fond dans un four vers 1 500 °C. Le verre liquide est ensuite moulé et soufflé pour former de nouvelles bouteilles.
+
+## Pourquoi c'est utile
+
+Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leur qualité. Le verre garde même sa couleur d'un recyclage à l'autre. Le calcin fond plus facilement que les matières premières. Chaque fois qu'on ajoute 10 % de calcin, le four consomme 2 à 3 % d'énergie en moins. Une tonne de verre recyclé évite aussi le rejet de 315 kilogrammes de dioxyde de carbone pendant la fabrication. Et chaque bouteille refondue, c'est du sable en moins à extraire.
+
+## Et en France ?
+
+En 2024, la France a recyclé 87 % de ses emballages en verre. Il existe une solution encore plus économe : laver la bouteille et la remplir de nouveau, sans la refondre. C'est le principe de la consigne pour réemploi.
+
+## À retenir
+
+- Le verre trié est broyé en calcin, puis refondu dans un four vers 1 500 °C.
+- Céramique, porcelaine et verre de plat à four ne vont pas dans le conteneur à verre.
+- Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leur qualité.
+- Ajouter 10 % de calcin fait économiser 2 à 3 % d'énergie au four.
+- En 2024, la France a recyclé 87 % de ses emballages en verre.
 
 ---
 type: article

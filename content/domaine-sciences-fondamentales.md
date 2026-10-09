@@ -5391,18 +5391,91 @@ status: planned
 
 ---
 type: article
-title: La photosynthese, etapes principales
-slug: la-photosynthese-etapes-principales
+title: Comment une feuille fabrique-t-elle du sucre avec de la lumière ?
+slug: comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere
 categoryPath: sciences-fondamentales/biologie/cellule
 summary: >
-  Comment les plantes transforment la lumiere, l'eau et le CO2 en matiere organique.
-tags: [cellule, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans les feuilles, la chlorophylle capte la lumière. Son énergie sert d'abord à casser de
+  l'eau, ce qui libère l'oxygène. Elle sert ensuite à transformer le dioxyde de carbone de
+  l'air en sucre.
+tags: [cellule]
+sources:
+  - title: "Photosynthèse"
+    url: "https://fr.wikipedia.org/wiki/Photosynth%C3%A8se"
+    publisher: "Wikipédia"
+  - title: "Photosynthesis"
+    url: "https://en.wikipedia.org/wiki/Photosynthesis"
+    publisher: "Wikipedia"
+  - title: "Cycle de Calvin"
+    url: "https://fr.wikipedia.org/wiki/Cycle_de_Calvin"
+    publisher: "Wikipédia"
+quiz:
+  - question: "D'où vient l'oxygène libéré par la photosynthèse ?"
+    options:
+      - "Du dioxyde de carbone"
+      - "De l'eau"
+      - "Du sol"
+    answer: 2
+    explanation: >
+      L'énergie de la lumière casse des molécules d'eau. C'est cette eau qui fournit
+      l'oxygène.
+  - question: "Pourquoi les feuilles sont-elles vertes ?"
+    options:
+      - "La chlorophylle absorbe le bleu et le rouge et renvoie le vert"
+      - "Elles sont pleines d'eau verte"
+      - "Elles absorbent tout le vert"
+    answer: 1
+    explanation: >
+      La chlorophylle absorbe surtout le bleu et le rouge. Elle renvoie le vert, que nos
+      yeux voient.
+  - question: "Où a lieu le cycle de Calvin, qui fabrique le sucre ?"
+    options:
+      - "Dans les racines"
+      - "Dans les fleurs"
+      - "Dans le stroma des chloroplastes"
+    answer: 3
+    explanation: >
+      Le cycle de Calvin se déroule dans le stroma, le liquide qui remplit les
+      chloroplastes.
+  - question: "Sous quelle forme la plante met-elle ses sucres en réserve ?"
+    options:
+      - "En sel"
+      - "En amidon"
+      - "En cire"
+    answer: 2
+    explanation: >
+      La plante transforme une partie de ses sucres en amidon, qu'elle garde en réserve.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans les feuilles, la chlorophylle capte la lumière. Son énergie sert d'abord à casser de l'eau, ce qui libère l'oxygène. Elle sert ensuite à transformer le dioxyde de carbone de l'air en sucre.
+
+## Les ingrédients
+
+Pour fabriquer son sucre, une plante a besoin de trois choses. La lumière du soleil. L'eau, puisée par les racines. Et le dioxyde de carbone de l'air, qui entre dans la feuille par de minuscules ouvertures, les stomates. En résumé, six molécules de dioxyde de carbone et six molécules d'eau donnent une molécule de glucose, un sucre, et six molécules d'oxygène.
+
+## La chlorophylle capte la lumière
+
+La photosynthèse se passe dans les chloroplastes, de petits compartiments des cellules des feuilles. Ils contiennent un pigment, la chlorophylle. Elle absorbe surtout la lumière bleue et la lumière rouge. Elle renvoie le vert : c'est pour cela que les feuilles nous paraissent vertes.
+
+## Étape 1, la lumière casse l'eau
+
+Dans les chloroplastes se trouvent des petits sacs aplatis, les thylakoïdes. L'énergie de la lumière y casse des molécules d'eau. Cette cassure libère de l'oxygène : l'oxygène que les plantes rejettent vient donc de l'eau, pas du dioxyde de carbone. L'énergie captée est aussi rangée dans deux molécules, l'ATP et le NADPH. Elles servent de piles chargées pour l'étape suivante.
+
+## Étape 2, le sucre est assemblé
+
+Dans le stroma, le liquide qui remplit le chloroplaste, une série de réactions utilise ces piles. C'est le cycle de Calvin. Il accroche le dioxyde de carbone de l'air à d'autres molécules pour construire des sucres. Une enzyme, la RuBisCO, réalise la toute première étape. La plante utilise ces sucres pour grandir et vivre. Elle en garde une partie en réserve sous forme d'amidon.
+
+## À retenir
+
+- La photosynthèse transforme la lumière, l'eau et le dioxyde de carbone en sucre et en oxygène.
+- La chlorophylle absorbe le bleu et le rouge et renvoie le vert.
+- L'oxygène libéré vient de l'eau, cassée grâce à l'énergie de la lumière.
+- Le cycle de Calvin, dans le stroma, assemble les sucres à partir du dioxyde de carbone.
+- La plante garde une partie de ses sucres en réserve sous forme d'amidon.
 
 ---
 type: article

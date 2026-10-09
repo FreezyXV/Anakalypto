@@ -4130,18 +4130,96 @@ status: planned
 
 ---
 type: article
-title: La formation des cyclones tropicaux
-slug: la-formation-des-cyclones-tropicaux
+title: Comment un cyclone tropical naît-il au-dessus d'une mer chaude ?
+slug: comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
-  Les conditions precises necessaires a la naissance de ces tempetes puissantes.
-tags: [climatologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un cyclone se forme quand la mer dépasse 26,5 °C. L'eau qui s'évapore puis se change en
+  nuages libère de la chaleur, qui nourrit la tempête. La rotation de la Terre la fait tourner
+  autour d'un œil calme.
+tags: [climatologie]
+sources:
+  - title: "Cyclone tropical"
+    url: "https://fr.wikipedia.org/wiki/Cyclone_tropical"
+    publisher: "Wikipédia"
+  - title: "Tropical cyclone"
+    url: "https://en.wikipedia.org/wiki/Tropical_cyclone"
+    publisher: "Wikipedia"
+  - title: "Force de Coriolis"
+    url: "https://fr.wikipedia.org/wiki/Force_de_Coriolis"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle température doit dépasser la mer pour qu'un cyclone se forme ?"
+    options:
+      - "10 °C"
+      - "26,5 °C"
+      - "50 °C"
+    answer: 2
+    explanation: >
+      La mer doit dépasser 26,5 °C jusqu'à une profondeur d'au moins 60 mètres.
+  - question: "D'où vient l'énergie d'un cyclone ?"
+    options:
+      - "Des volcans sous-marins"
+      - "Du vent du pôle"
+      - "De la chaleur libérée quand la vapeur d'eau se change en gouttes"
+    answer: 3
+    explanation: >
+      En se condensant dans les nuages, la vapeur d'eau libère de la chaleur : c'est le
+      carburant du cyclone.
+  - question: "Comment est l'œil d'un cyclone ?"
+    options:
+      - "Une zone calme au centre"
+      - "La zone la plus violente"
+      - "Un trou dans la mer"
+    answer: 1
+    explanation: >
+      L'œil est une zone calme au centre. Les vents les plus violents soufflent tout
+      autour, dans le mur de l'œil.
+  - question: "Pourquoi un cyclone faiblit-il en arrivant sur terre ?"
+    options:
+      - "Les montagnes l'aspirent"
+      - "Il n'a plus de mer chaude pour le nourrir"
+      - "Il gèle"
+    answer: 2
+    explanation: >
+      Sur terre ou sur une mer froide, le cyclone perd sa source de vapeur chaude et
+      faiblit vite.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un cyclone se forme quand la mer dépasse 26,5 °C. L'eau qui s'évapore puis se change en nuages libère de la chaleur, qui nourrit la tempête. La rotation de la Terre la fait tourner autour d'un œil calme.
+
+## Les ingrédients
+
+Un cyclone tropical a besoin de plusieurs conditions en même temps :
+
+- une mer à plus de 26,5 °C, jusqu'à au moins 60 mètres de profondeur ;
+- de l'air humide en altitude ;
+- un vent qui change peu de force et de direction avec l'altitude ;
+- une distance suffisante de l'équateur, car un cyclone se forme rarement à moins de 10 degrés de latitude.
+
+## Un moteur à vapeur d'eau
+
+L'eau chaude de la mer s'évapore. L'air humide monte, se refroidit, et la vapeur se change en gouttes : d'énormes nuages d'orage se forment. En se condensant, la vapeur libère de la chaleur. Cette chaleur réchauffe le cœur de la tempête de 15 à 20 °C de plus que l'air autour. L'air chaud monte encore plus vite et aspire l'air de la surface. Tant que la mer reste chaude, la machine continue.
+
+## L'œil et le mur
+
+La rotation de la Terre fait tourner l'air qui converge vers le centre : c'est l'effet de la force de Coriolis. Près de l'équateur, cette force est presque nulle, d'où l'absence de cyclones. Au centre se trouve l'œil, large de 8 à 200 kilomètres. Il est calme, car l'air y descend. Tout autour, le mur de l'œil concentre les vents et les pluies les plus violents.
+
+## Ouragan, typhon ou cyclone
+
+On parle de cyclone tropical quand les vents dépassent environ 118 km/h. Le nom change selon l'océan : ouragan dans l'Atlantique nord et le nord-est du Pacifique, typhon dans le nord-ouest du Pacifique, cyclone ailleurs. Dans l'Atlantique nord, l'échelle de Saffir-Simpson les classe de 1 à 5. Sur terre ou au-dessus d'une mer plus froide, le cyclone perd son carburant et faiblit vite.
+
+## À retenir
+
+- Un cyclone naît au-dessus d'une mer à plus de 26,5 °C, loin de l'équateur.
+- Son énergie vient de la chaleur libérée quand la vapeur d'eau se condense en nuages.
+- La force de Coriolis, liée à la rotation de la Terre, le fait tourner.
+- L'œil est calme ; les vents les plus forts soufflent dans le mur de l'œil.
+- On parle de cyclone quand les vents dépassent environ 118 km/h.
 
 ---
 type: article

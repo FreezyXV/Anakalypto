@@ -6110,18 +6110,95 @@ status: planned
 
 ---
 type: article
-title: Les antibiotiques, mode d'action general
-slug: les-antibiotiques-mode-d-action-general
+title: Comment un antibiotique tue-t-il les bactéries sans abîmer nos cellules ?
+slug: comment-un-antibiotique-tue-t-il-les-bacteries-sans-abimer-nos-cellules
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Comment ces medicaments ciblent specifiquement les bacteries sans toucher les cellules humaines.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un antibiotique vise une pièce que les bactéries possèdent et que nos cellules n'ont pas,
+  comme leur paroi ou leurs ribosomes particuliers. Il ne sert à rien contre les virus.
+tags: [pharmacologie]
+sources:
+  - title: "Antibiotique"
+    url: "https://fr.wikipedia.org/wiki/Antibiotique"
+    publisher: "Wikipédia"
+  - title: "Antibiotic"
+    url: "https://en.wikipedia.org/wiki/Antibiotic"
+    publisher: "Wikipedia"
+  - title: "Pénicilline"
+    url: "https://fr.wikipedia.org/wiki/P%C3%A9nicilline"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle partie de la bactérie les pénicillines attaquent-elles ?"
+    options:
+      - "Sa paroi"
+      - "Son noyau"
+      - "Ses poumons"
+    answer: 1
+    explanation: >
+      Les pénicillines bloquent la fabrication du peptidoglycane, qui forme la paroi des
+      bactéries.
+  - question: "Que peut-on dire des ribosomes des bactéries ?"
+    options:
+      - "Ils sont identiques aux nôtres"
+      - "Ils sont différents des nôtres"
+      - "Les bactéries n'en ont pas"
+    answer: 2
+    explanation: >
+      Les ribosomes des bactéries sont différents de ceux de nos cellules. Certains
+      antibiotiques bloquent seulement les leurs.
+  - question: "Pourquoi un antibiotique ne soigne-t-il pas la grippe ?"
+    options:
+      - "La grippe est trop forte"
+      - "Il fait trop froid en hiver"
+      - "La grippe est causée par un virus"
+    answer: 3
+    explanation: >
+      Les virus n'ont ni paroi ni ribosomes à eux : les antibiotiques n'ont pas de cible
+      chez eux.
+  - question: "Qui a découvert la pénicilline en 1928 ?"
+    options:
+      - "Louis Pasteur"
+      - "Alexander Fleming"
+      - "Marie Curie"
+    answer: 2
+    explanation: >
+      Alexander Fleming a découvert la pénicilline en 1928. Sa production en masse a
+      commencé dans les années 1940.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un antibiotique vise une pièce que les bactéries possèdent et que nos cellules n'ont pas, comme leur paroi ou leurs ribosomes particuliers. Il ne sert à rien contre les virus.
+
+## Viser ce qui est différent
+
+Une bactérie est une cellule, mais elle ne ressemble pas aux cellules de notre corps. Un antibiotique vise justement une pièce que la bactérie possède et que nos cellules n'ont pas. Aux doses utilisées pour soigner, il touche donc les bactéries sans abîmer nos cellules. Les médecins parlent de toxicité sélective.
+
+## Trois cibles principales
+
+- **La paroi.** Les bactéries sont entourées d'une paroi rigide, faite de peptidoglycane. Nos cellules n'en ont pas. Les pénicillines bloquent la fabrication de cette paroi : la bactérie, fragilisée, finit par éclater.
+- **Les ribosomes.** Ce sont les machines qui fabriquent les protéines. Ceux des bactéries sont plus petits et différents des nôtres. Les tétracyclines ou les macrolides bloquent seulement les ribosomes des bactéries.
+- **L'ADN.** Les quinolones bloquent une enzyme dont la bactérie a besoin pour copier son ADN. Nos cellules n'utilisent pas cette enzyme.
+
+## Tuer ou freiner
+
+Certains antibiotiques tuent les bactéries : ils sont bactéricides. D'autres les empêchent seulement de se multiplier : ils sont bactériostatiques. Dans ce cas, les défenses du corps se chargent d'éliminer les bactéries restantes.
+
+## Pas contre les virus
+
+Les virus n'ont ni paroi ni ribosomes à eux. Les antibiotiques n'ont donc rien à viser chez eux : ils ne soignent ni le rhume ni la grippe.
+
+Alexander Fleming a découvert la pénicilline en 1928. Sa production en masse a commencé dans les années 1940. Mais plus on utilise d'antibiotiques, plus les bactéries capables de leur résister prennent le dessus. C'est pourquoi on ne les prend que sur ordonnance, quand ils sont vraiment utiles.
+
+## À retenir
+
+- Un antibiotique vise une pièce que les bactéries possèdent et que nos cellules n'ont pas.
+- Les pénicillines bloquent la fabrication de la paroi des bactéries.
+- D'autres antibiotiques bloquent les ribosomes ou la copie de l'ADN des bactéries.
+- Les antibiotiques ne soignent pas les maladies causées par des virus, comme la grippe.
+- Mal utilisés, ils favorisent les bactéries résistantes.
 
 ---
 type: article

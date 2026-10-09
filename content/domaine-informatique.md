@@ -7711,18 +7711,89 @@ status: planned
 
 ---
 type: article
-title: Le Wi-Fi, principe technique de base
-slug: le-wi-fi-principe-technique-de-base
+title: Comment le Wi-Fi fait-il voyager des données à travers l'air ?
+slug: comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
 summary: >
-  Comment des ondes radio permettent une connexion sans fil a courte distance.
-tags: [internet, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le Wi-Fi utilise des ondes radio, comme une radio, mais à des fréquences plus élevées. La
+  box transforme les données en ondes. L'appareil les capte et retrouve les 0 et les 1.
+tags: [internet]
+sources:
+  - title: "Wi-Fi"
+    url: "https://fr.wikipedia.org/wiki/Wi-Fi"
+    publisher: "Wikipédia"
+  - title: "Wi-Fi"
+    url: "https://en.wikipedia.org/wiki/Wi-Fi"
+    publisher: "Wikipedia"
+  - title: "IEEE 802.11"
+    url: "https://en.wikipedia.org/wiki/IEEE_802.11"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui transporte les données du Wi-Fi ?"
+    options:
+      - "Des ondes radio"
+      - "Des fils invisibles"
+      - "Des ondes sonores"
+    answer: 1
+    explanation: >
+      Le Wi-Fi transmet les données par des ondes radio, dans des bandes autour de 2,4, 5
+      et 6 gigahertz.
+  - question: "Quelle norme définit le Wi-Fi ?"
+    options:
+      - "La norme MP3"
+      - "La norme IEEE 802.11"
+      - "La norme USB"
+    answer: 2
+    explanation: >
+      Le Wi-Fi repose sur la norme IEEE 802.11, publiée pour la première fois en 1997.
+  - question: "Quelle est la portée habituelle du Wi-Fi à l'intérieur, sans obstacle ?"
+    options:
+      - "2 à 5 centimètres"
+      - "200 kilomètres"
+      - "20 à 50 mètres"
+    answer: 3
+    explanation: >
+      À l'intérieur, le Wi-Fi porte en général à 20 à 50 mètres quand rien ne le gêne.
+  - question: "Quel appareil peut gêner le Wi-Fi ?"
+    options:
+      - "Un four à micro-ondes"
+      - "Un livre"
+      - "Une chaise"
+    answer: 1
+    explanation: >
+      Le four à micro-ondes, le Bluetooth ou certains téléphones sans fil utilisent les
+      mêmes bandes et peuvent brouiller le Wi-Fi.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le Wi-Fi utilise des ondes radio, comme une radio, mais à des fréquences plus élevées. La box transforme les données en ondes. L'appareil les capte et retrouve les 0 et les 1.
+
+## Des ondes radio invisibles
+
+Le Wi-Fi est un ensemble de règles pour communiquer sans fil. Ces règles forment la norme IEEE 802.11, publiée pour la première fois en 1997. Le Wi-Fi utilise des ondes radio, comme la radio ou le téléphone portable. Elles se situent dans des bandes autour de 2,4 gigahertz, 5 gigahertz et, pour les versions récentes, 6 gigahertz. Une onde à 2,4 gigahertz oscille 2,4 milliards de fois par seconde.
+
+## La box au centre
+
+La box, ou point d'accès, est reliée à Internet par un câble ou une fibre. Elle transforme les données en ondes radio. Pour y ranger des 0 et des 1, l'émetteur fait varier l'onde de façon très précise. L'antenne de l'ordinateur ou du téléphone capte l'onde, et sa puce retrouve les chiffres. Le trajet se fait dans les deux sens : l'appareil répond à la box de la même façon. Un mot de passe et un chiffrement protègent la connexion des curieux.
+
+## Portée et obstacles
+
+À l'intérieur, le Wi-Fi porte en général à 20 à 50 mètres sans obstacle. Les murs et les planchers affaiblissent le signal. D'autres appareils utilisent les mêmes bandes : le four à micro-ondes, le Bluetooth ou certains téléphones sans fil. Ils peuvent brouiller le Wi-Fi. Avec des antennes spéciales, un record de 382 kilomètres a pourtant été atteint en extérieur en 2011.
+
+## De plus en plus rapide
+
+La version 802.11b de 1999 promettait 11 mégabits par seconde. La version 802.11g de 2003 montait à 54 mégabits par seconde. Le Wi-Fi 6 peut atteindre en théorie plusieurs gigabits par seconde. Depuis 1999, une association, la Wi-Fi Alliance, vérifie que les appareils respectent bien la norme.
+
+## À retenir
+
+- Le Wi-Fi transporte les données par des ondes radio, autour de 2,4, 5 et 6 gigahertz.
+- Il repose sur la norme IEEE 802.11, publiée en 1997.
+- La box transforme les données en ondes, et l'appareil retrouve les 0 et les 1.
+- À l'intérieur, la portée habituelle est de 20 à 50 mètres sans obstacle.
+- Les murs et d'autres appareils, comme le four à micro-ondes, peuvent affaiblir ou brouiller le signal.
 
 ---
 type: article

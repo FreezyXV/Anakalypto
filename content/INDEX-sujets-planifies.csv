@@ -1327,7 +1327,7 @@ aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Les instruments
 aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;L'ecran de vol primaire (PFD) des avions modernes;l-ecran-de-vol-primaire-pfd-des-avions-modernes;2;non;planned
 aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;L'ecran multifonction de navigation (MFD);l-ecran-multifonction-de-navigation-mfd;3;non;planned
 aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Le systeme de gestion de vol (FMS);le-systeme-de-gestion-de-vol-fms;2;non;planned
-aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Le pilote automatique, ce qu'il fait vraiment;le-pilote-automatique-ce-qu-il-fait-vraiment;2;non;planned
+aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Comment le pilote automatique tient-il un avion sur sa route ?;comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route;2;non;published
 aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Les modes de couplage du pilote automatique;les-modes-de-couplage-du-pilote-automatique;3;non;planned
 aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;L'atterrissage automatique par tres faible visibilite;l-atterrissage-automatique-par-tres-faible-visibilite;2;non;planned
 aeronautique;aeronautique/navigation-aerienne/instruments-de-vol;Le transpondeur et son role dans l'identification radar;le-transpondeur-et-son-role-dans-l-identification-radar;2;non;planned
@@ -1928,7 +1928,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Les emballages sous vide domestiques;les-emballages-sous-vide-domestiques;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation des herbes aromatiques;la-conservation-des-herbes-aromatiques;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Le beurre clarifie et sa longue conservation;le-beurre-clarifie-et-sa-longue-conservation;3;oui;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation du miel, un aliment naturellement imperissable;la-conservation-du-miel-un-aliment-naturellement-imperissable;3;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Comment le miel peut-il se conserver presque sans fin ?;comment-le-miel-peut-il-se-conserver-presque-sans-fin;3;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Les technologies emergentes de conservation par haute pression;les-technologies-emergentes-de-conservation-par-haute-pression;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation des viandes par sechage en altitude;la-conservation-des-viandes-par-sechage-en-altitude;3;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;L'impact de la conservation sur la valeur nutritionnelle des aliments;l-impact-de-la-conservation-sur-la-valeur-nutritionnelle-des-aliments;2;oui;planned
@@ -1947,7 +1947,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Les bacteries lactiques utilisees dans l'industrie alimentaire;les-bacteries-lactiques-utilisees-dans-l-industrie-alimentaire;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation du the pour produire le the noir;la-fermentation-du-the-pour-produire-le-the-noir;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fabrication traditionnelle du yaourt;la-fabrication-traditionnelle-du-yaourt;2;oui;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation dans la production du pain au levain;la-fermentation-dans-la-production-du-pain-au-levain;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Comment le levain fait-il gonfler la pâte à pain ?;comment-le-levain-fait-il-gonfler-la-pate-a-pain;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation des olives avant consommation;la-fermentation-des-olives-avant-consommation;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La conservation des legumes par lactofermentation;la-conservation-des-legumes-par-lactofermentation;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation du poisson dans certaines traditions culinaires;la-fermentation-du-poisson-dans-certaines-traditions-culinaires;3;non;planned
@@ -2496,7 +2496,7 @@ automobile;automobile/motorisations/motorisations-hybrides;L'hybridation des veh
 automobile;automobile/motorisations/motorisations-hybrides;Le recyclage des batteries des vehicules hybrides;le-recyclage-des-batteries-des-vehicules-hybrides;3;non;planned
 automobile;automobile/motorisations/motorisations-hybrides;La consommation reelle des hybrides selon le type de trajet;la-consommation-reelle-des-hybrides-selon-le-type-de-trajet;3;non;planned
 automobile;automobile/motorisations/motorisations-hybrides;L'avenir des motorisations hybrides face a l'electrification totale;l-avenir-des-motorisations-hybrides-face-a-l-electrification-totale;3;non;planned
-automobile;automobile/motorisations/thermique;Le cycle a quatre temps expliqué en detail;le-cycle-a-quatre-temps-explique-en-detail;2;oui;planned
+automobile;automobile/motorisations/thermique;Comment un moteur à quatre temps transforme-t-il l'essence en mouvement ?;comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement;2;oui;published
 automobile;automobile/motorisations/thermique;Le taux de compression d'un moteur essence;le-taux-de-compression-d-un-moteur-essence;3;non;planned
 automobile;automobile/motorisations/thermique;Le cliquetis moteur et ses causes;le-cliquetis-moteur-et-ses-causes;3;non;planned
 automobile;automobile/motorisations/thermique;Le systeme d'allumage electronique moderne;le-systeme-d-allumage-electronique-moderne;3;non;planned
@@ -2837,7 +2837,7 @@ communication;communication-et-medias/medias-numeriques/web;Le web archivage et 
 communication;communication-et-medias/medias-numeriques/web;Le format PDF et sa place dans le partage de documents;le-format-pdf-et-sa-place-dans-le-partage-de-documents;3;non;planned
 communication;communication-et-medias/medias-numeriques/web;Les CMS et la democratisation de la creation de sites web;les-cms-et-la-democratisation-de-la-creation-de-sites-web;3;non;planned
 communication;communication-et-medias/telecommunications/fibre-et-reseaux-fixes;Le cable telephonique en cuivre, une technologie centenaire;le-cable-telephonique-en-cuivre-une-technologie-centenaire;3;non;planned
-communication;communication-et-medias/telecommunications/fibre-et-reseaux-fixes;Le principe physique de la fibre optique;le-principe-physique-de-la-fibre-optique;2;oui;planned
+communication;communication-et-medias/telecommunications/fibre-et-reseaux-fixes;Comment la lumière reste-t-elle prisonnière d'une fibre optique ?;comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique;2;oui;published
 communication;communication-et-medias/telecommunications/fibre-et-reseaux-fixes;Le deploiement de la fibre optique dans les territoires ruraux;le-deploiement-de-la-fibre-optique-dans-les-territoires-ruraux;3;non;planned
 communication;communication-et-medias/telecommunications/fibre-et-reseaux-fixes;Le raccordement final chez l'abonne, un point critique;le-raccordement-final-chez-l-abonne-un-point-critique;3;non;planned
 communication;communication-et-medias/telecommunications/fibre-et-reseaux-fixes;L'ADSL, une technologie de transition vers le tres haut debit;l-adsl-une-technologie-de-transition-vers-le-tres-haut-debit;3;non;planned
@@ -4130,7 +4130,7 @@ environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recycla
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Reparer plutot que jeter, l'essor de la reparation;reparer-plutot-que-jeter-l-essor-de-la-reparation;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le reemploi des objets avant leur recyclage;le-reemploi-des-objets-avant-leur-recyclage;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Les dechets dangereux et leur traitement specifique;les-dechets-dangereux-et-leur-traitement-specifique;2;oui;planned
-environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Le recyclage du verre, un materiau recyclable a l'infini;le-recyclage-du-verre-un-materiau-recyclable-a-l-infini;2;oui;planned
+environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Comment une bouteille en verre usagée redevient-elle une bouteille neuve ?;comment-une-bouteille-en-verre-usagee-redevient-elle-une-bouteille-neuve;2;oui;published
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;La consigne pour reemploi des bouteilles;la-consigne-pour-reemploi-des-bouteilles;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;Les dechets textiles et leur recyclage encore limite;les-dechets-textiles-et-leur-recyclage-encore-limite;2;non;planned
 environnement;environnement-et-climat/pollution-et-ressources/dechets-et-recyclage;La collecte selective dans les zones rurales;la-collecte-selective-dans-les-zones-rurales;3;non;planned
@@ -4627,7 +4627,7 @@ geographie;geographie-et-territoires/geographie-physique/climatologie;Le climat 
 geographie;geographie-et-territoires/geographie-physique/climatologie;Le climat mediterraneen, caracteristiques principales;le-climat-mediterraneen-caracteristiques-principales;2;non;planned
 geographie;geographie-et-territoires/geographie-physique/climatologie;Le climat desertique et ses adaptations;le-climat-desertique-et-ses-adaptations;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/climatologie;Le climat de mousson et son importance agricole;le-climat-de-mousson-et-son-importance-agricole;2;oui;planned
-geographie;geographie-et-territoires/geographie-physique/climatologie;La formation des cyclones tropicaux;la-formation-des-cyclones-tropicaux;2;oui;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Comment un cyclone tropical naît-il au-dessus d'une mer chaude ?;comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude;2;oui;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Se proteger d'un cyclone, gestes essentiels;se-proteger-d-un-cyclone-gestes-essentiels;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/climatologie;Les microclimats, quand la geographie locale change tout;les-microclimats-quand-la-geographie-locale-change-tout;2;non;planned
 geographie;geographie-et-territoires/geographie-physique/climatologie;Prevoir le temps sans instrument, methodes traditionnelles;prevoir-le-temps-sans-instrument-methodes-traditionnelles;2;oui;planned
@@ -5368,7 +5368,7 @@ informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;L'a
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le routage, comment un message trouve son chemin sur internet;le-routage-comment-un-message-trouve-son-chemin-sur-internet;2;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Les cables sous-marins, l'infrastructure physique d'internet;les-cables-sous-marins-l-infrastructure-physique-d-internet;2;oui;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;La neutralite du net, un principe fondateur menace;la-neutralite-du-net-un-principe-fondateur-menace;2;non;planned
-informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le Wi-Fi, principe technique de base;le-wi-fi-principe-technique-de-base;2;oui;planned
+informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Comment le Wi-Fi fait-il voyager des données à travers l'air ?;comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air;2;oui;published
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;La 5G et l'evolution des reseaux mobiles;la-5g-et-l-evolution-des-reseaux-mobiles;3;non;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le protocole HTTP, la base des echanges web;le-protocole-http-la-base-des-echanges-web;2;oui;planned
 informatique;micro-informatique-et-informatique/reseaux-et-securite/internet;Le peering entre fournisseurs d'acces internet;le-peering-entre-fournisseurs-d-acces-internet;3;non;planned
@@ -5878,7 +5878,7 @@ sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les effe
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les interactions medicamenteuses, un risque a connaitre;les-interactions-medicamenteuses-un-risque-a-connaitre;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les anesthesiques, une revolution pour la chirurgie;les-anesthesiques-une-revolution-pour-la-chirurgie;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;L'histoire des premieres anesthesies chirurgicales;l-histoire-des-premieres-anesthesies-chirurgicales;2;non;planned
-sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les antibiotiques, mode d'action general;les-antibiotiques-mode-d-action-general;2;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Comment un antibiotique tue-t-il les bactéries sans abîmer nos cellules ?;comment-un-antibiotique-tue-t-il-les-bacteries-sans-abimer-nos-cellules;2;oui;published
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;La resistance bacterienne aux antibiotiques;la-resistance-bacterienne-aux-antibiotiques;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Le bon usage des antibiotiques au quotidien;le-bon-usage-des-antibiotiques-au-quotidien;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les plantes medicinales, ce que la science confirme reellement;les-plantes-medicinales-ce-que-la-science-confirme-reellement;2;oui;planned
@@ -5918,7 +5918,7 @@ sciences-fondamentales;sciences-fondamentales/biologie/cellule;La difference ent
 sciences-fondamentales;sciences-fondamentales/biologie/cellule;Le cytosquelette, la charpente interne de la cellule;le-cytosquelette-la-charpente-interne-de-la-cellule;3;non;planned
 sciences-fondamentales;sciences-fondamentales/biologie/cellule;La mort cellulaire programmee (apoptose);la-mort-cellulaire-programmee-apoptose;2;non;planned
 sciences-fondamentales;sciences-fondamentales/biologie/cellule;Le microscope electronique et l'observation des cellules;le-microscope-electronique-et-l-observation-des-cellules;3;non;planned
-sciences-fondamentales;sciences-fondamentales/biologie/cellule;La photosynthese, etapes principales;la-photosynthese-etapes-principales;2;oui;planned
+sciences-fondamentales;sciences-fondamentales/biologie/cellule;Comment une feuille fabrique-t-elle du sucre avec de la lumière ?;comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere;2;oui;published
 sciences-fondamentales;sciences-fondamentales/biologie/cellule;La difference entre photosynthese et respiration cellulaire;la-difference-entre-photosynthese-et-respiration-cellulaire;2;non;planned
 sciences-fondamentales;sciences-fondamentales/biologie/cellule;Les virus, entre le vivant et l'inerte;les-virus-entre-le-vivant-et-l-inerte;2;non;planned
 sciences-fondamentales;sciences-fondamentales/biologie/cellule;La taille des cellules et ses limites physiques;la-taille-des-cellules-et-ses-limites-physiques;3;non;planned

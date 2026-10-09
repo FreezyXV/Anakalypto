@@ -5387,18 +5387,91 @@ status: planned
 
 ---
 type: article
-title: Le principe physique de la fibre optique
-slug: le-principe-physique-de-la-fibre-optique
+title: Comment la lumière reste-t-elle prisonnière d'une fibre optique ?
+slug: comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique
 categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
 summary: >
-  Comment la lumiere transporte l'information a une vitesse extremement rapide.
-tags: [fibre-et-reseaux-fixes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une fibre optique est un fil de verre de l'épaisseur d'un cheveu. Son cœur est entouré d'une
+  gaine qui renvoie la lumière vers l'intérieur à chaque rebond. Des éclairs de laser y
+  transportent des données sur des dizaines de kilomètres.
+tags: [fibre-et-reseaux-fixes]
+sources:
+  - title: "Fibre optique"
+    url: "https://fr.wikipedia.org/wiki/Fibre_optique"
+    publisher: "Wikipédia"
+  - title: "Optical fiber"
+    url: "https://en.wikipedia.org/wiki/Optical_fiber"
+    publisher: "Wikipedia"
+  - title: "Réflexion totale"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9flexion_totale"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel phénomène garde la lumière dans le cœur de la fibre ?"
+    options:
+      - "La réflexion totale interne"
+      - "La gravité"
+      - "L'aimantation"
+    answer: 1
+    explanation: >
+      Quand la lumière arrive sur la gaine en rasant la paroi, elle est entièrement
+      renvoyée vers le cœur : c'est la réflexion totale interne.
+  - question: "Quel diamètre mesure la gaine d'une fibre standard ?"
+    options:
+      - "12,5 centimètres"
+      - "125 micromètres"
+      - "1 mètre"
+    answer: 2
+    explanation: >
+      La gaine d'une fibre standard mesure 125 micromètres, soit 0,125 millimètre.
+  - question: "Quelle lumière utilise-t-on pour les longues distances ?"
+    options:
+      - "La lumière du soleil"
+      - "Une lumière ultraviolette"
+      - "De l'infrarouge envoyé par un laser"
+    answer: 3
+    explanation: >
+      Les lasers émettent de l'infrarouge, souvent à 1 310 ou 1 550 nanomètres, une
+      lumière invisible pour nos yeux.
+  - question: "Quelle entreprise a produit en 1970 la première fibre utilisable ?"
+    options:
+      - "Corning"
+      - "Renault"
+      - "Nintendo"
+    answer: 1
+    explanation: >
+      En 1970, Corning a produit la première fibre assez transparente pour transporter des
+      signaux.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une fibre optique est un fil de verre de l'épaisseur d'un cheveu. Son cœur est entouré d'une gaine qui renvoie la lumière vers l'intérieur à chaque rebond. Des éclairs de laser y transportent des données sur des dizaines de kilomètres.
+
+## Un fil de verre en deux couches
+
+Une fibre optique est un fil de verre très pur. Au centre se trouve le cœur, entouré d'une gaine. La gaine mesure 125 micromètres de diamètre, soit 0,125 millimètre. Le cœur est encore plus fin : 9 micromètres pour les fibres des longues distances, 50 ou 62,5 micromètres pour d'autres. Le verre du cœur et celui de la gaine sont presque pareils. Leur indice de réfraction, qui mesure à quel point ils freinent la lumière, diffère de quelques millièmes seulement.
+
+## La lumière rebondit sans s'échapper
+
+Quand la lumière passe d'un matériau à un autre, elle peut être déviée. Mais si elle arrive sur la gaine en rasant la paroi, elle ne sort pas : elle est entièrement renvoyée vers le cœur. C'est la réflexion totale interne. La lumière avance ainsi par rebonds successifs, même si la fibre fait une courbe douce. Dans les années 1840, Daniel Colladon et Jacques Babinet ont montré ce phénomène avec un jet d'eau qui guidait la lumière.
+
+## Des données en éclairs
+
+Un laser envoie dans la fibre une lumière infrarouge, invisible pour nos yeux, souvent à 1 310 ou 1 550 nanomètres. On code les données en faisant varier l'intensité de cette lumière. À l'autre bout, une photodiode transforme la lumière en signal électrique. Le verre est si transparent qu'à 1 550 nanomètres, le signal perd seulement 0,2 décibel par kilomètre. Il faut environ 15 kilomètres pour qu'il perde la moitié de sa puissance.
+
+## Une invention récente
+
+En 1970, l'entreprise Corning a produit la première fibre utilisable. La première liaison téléphonique par fibre a été ouverte à Chicago en 1977, et la première en France à Paris en 1980. Aujourd'hui, des câbles de fibres traversent les océans et relient les maisons à Internet.
+
+## À retenir
+
+- Une fibre optique a un cœur de verre entouré d'une gaine de 125 micromètres.
+- La réflexion totale interne renvoie la lumière vers le cœur à chaque rebond.
+- Un laser envoie de l'infrarouge, dont on fait varier l'intensité pour coder les données.
+- Le signal perd seulement 0,2 décibel par kilomètre à 1 550 nanomètres.
+- La première fibre utilisable a été produite en 1970.
 
 ---
 type: article

@@ -7270,18 +7270,96 @@ status: planned
 
 ---
 type: article
-title: Le cycle a quatre temps expliqué en detail
-slug: le-cycle-a-quatre-temps-explique-en-detail
+title: Comment un moteur à quatre temps transforme-t-il l'essence en mouvement ?
+slug: comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Admission, compression, combustion, echappement : les quatre etapes d'un moteur thermique.
-tags: [thermique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans chaque cylindre, un piston répète quatre gestes. Il aspire de l'air et de l'essence,
+  les comprime, une étincelle les enflamme, puis il chasse les gaz brûlés. Le vilebrequin
+  change ce va-et-vient en rotation.
+tags: [thermique]
+sources:
+  - title: "Moteur à quatre temps"
+    url: "https://fr.wikipedia.org/wiki/Moteur_%C3%A0_quatre_temps"
+    publisher: "Wikipédia"
+  - title: "Four-stroke engine"
+    url: "https://en.wikipedia.org/wiki/Four-stroke_engine"
+    publisher: "Wikipedia"
+  - title: "Moteur Diesel"
+    url: "https://fr.wikipedia.org/wiki/Moteur_Diesel"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Dans quel ordre se suivent les quatre temps ?"
+    options:
+      - "Compression, admission, échappement, combustion"
+      - "Admission, compression, combustion-détente, échappement"
+      - "Échappement, combustion, admission, compression"
+    answer: 2
+    explanation: >
+      Le piston aspire le mélange (admission), le serre (compression), est poussé par les
+      gaz qui brûlent (combustion-détente), puis chasse les gaz (échappement).
+  - question: "Quel temps pousse le piston et fournit la force du moteur ?"
+    options:
+      - "L'admission"
+      - "L'échappement"
+      - "La combustion-détente"
+    answer: 3
+    explanation: >
+      Pendant la combustion-détente, les gaz chauds poussent le piston vers le bas. C'est
+      le seul temps qui fournit de la force.
+  - question: "Combien de tours fait le vilebrequin pendant un cycle complet ?"
+    options:
+      - "Deux tours"
+      - "Un demi-tour"
+      - "Dix tours"
+    answer: 1
+    explanation: >
+      Un cycle à quatre temps demande deux tours complets de vilebrequin.
+  - question: "Comment le carburant s'enflamme-t-il dans un moteur diesel ?"
+    options:
+      - "Avec une bougie"
+      - "Grâce à l'air très comprimé, devenu très chaud"
+      - "Avec une flamme allumée en permanence"
+    answer: 2
+    explanation: >
+      Un diesel n'a pas de bougie : l'air y est si comprimé qu'il devient assez chaud pour
+      enflammer le gazole injecté.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans chaque cylindre, un piston répète quatre gestes. Il aspire de l'air et de l'essence, les comprime, une étincelle les enflamme, puis il chasse les gaz brûlés. Le vilebrequin change ce va-et-vient en rotation.
+
+## Un piston dans un cylindre
+
+Un moteur de voiture contient plusieurs cylindres. Dans chacun glisse un piston. Le piston est relié par une bielle à un axe coudé, le vilebrequin. Comme les jambes d'un cycliste sur le pédalier, la bielle transforme le va-et-vient du piston en rotation. Des soupapes s'ouvrent et se ferment pour laisser entrer l'air et sortir les gaz.
+
+## Les quatre temps
+
+1. **Admission.** Le piston descend. La soupape d'admission s'ouvre et le cylindre aspire un mélange d'air et d'essence.
+2. **Compression.** Les soupapes se ferment. Le piston remonte et serre le mélange dans un petit espace.
+3. **Combustion et détente.** La bougie fait jaillir une étincelle. Le mélange brûle d'un coup, et les gaz chauds poussent le piston vers le bas. C'est le seul temps qui fournit de la force.
+4. **Échappement.** La soupape d'échappement s'ouvre. Le piston remonte et chasse les gaz brûlés vers le pot d'échappement.
+
+Un cycle complet demande deux tours de vilebrequin. Les cylindres travaillent à tour de rôle, ce qui rend la rotation plus régulière.
+
+## Et le diesel ?
+
+Un moteur diesel suit les mêmes quatre temps, mais il n'a pas de bougie. L'air y est tellement comprimé qu'il devient très chaud. Le gazole s'enflamme tout seul dès qu'on l'injecte : c'est l'auto-allumage.
+
+## Une invention du XIXe siècle
+
+L'ingénieur français Alphonse Beau de Rochas a décrit le cycle à quatre temps en 1862. L'Allemand Nikolaus Otto a construit un moteur qui fonctionnait sur ce principe en 1876. Au début du XXIe siècle, ce moteur reste le plus utilisé dans les véhicules terrestres.
+
+## À retenir
+
+- Les quatre temps sont l'admission, la compression, la combustion-détente et l'échappement.
+- Seule la combustion-détente pousse le piston et fournit de la force.
+- La bielle et le vilebrequin transforment le va-et-vient du piston en rotation.
+- Un cycle complet demande deux tours de vilebrequin.
+- Un moteur diesel n'a pas de bougie : l'air comprimé, très chaud, enflamme le gazole.
 
 ---
 type: article

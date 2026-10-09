@@ -8470,18 +8470,91 @@ status: planned
 
 ---
 type: article
-title: Le pilote automatique, ce qu'il fait vraiment
-slug: le-pilote-automatique-ce-qu-il-fait-vraiment
+title: Comment le pilote automatique tient-il un avion sur sa route ?
+slug: comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route
 categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
 summary: >
-  Un systeme qui suit des instructions precises, sans jamais decider seul de la strategie.
+  Le pilote automatique compare sans cesse la position de l'avion avec ce que les pilotes ont
+  demandé. Un calculateur corrige l'écart en faisant bouger les gouvernes. Les pilotes restent
+  là pour surveiller et décider.
 tags: [instruments-de-vol]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Pilote automatique"
+    url: "https://fr.wikipedia.org/wiki/Pilote_automatique"
+    publisher: "Wikipédia"
+  - title: "Autopilot"
+    url: "https://en.wikipedia.org/wiki/Autopilot"
+    publisher: "Wikipedia"
+  - title: "Lawrence Sperry"
+    url: "https://en.wikipedia.org/wiki/Lawrence_Sperry"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que font les servomoteurs du pilote automatique ?"
+    options:
+      - "Ils bougent les gouvernes de l'avion"
+      - "Ils servent les repas"
+      - "Ils allument les lumières de la cabine"
+    answer: 1
+    explanation: >
+      Les servomoteurs reçoivent les ordres du calculateur et font bouger les gouvernes,
+      qui orientent l'avion.
+  - question: "Que règle l'automanette ?"
+    options:
+      - "La radio"
+      - "La poussée des moteurs, donc la vitesse"
+      - "L'ouverture des portes"
+    answer: 2
+    explanation: >
+      L'automanette règle la poussée des moteurs pour tenir la vitesse demandée.
+  - question: "Qui a présenté un pilote automatique à Paris en 1914 ?"
+    options:
+      - "Louis Blériot"
+      - "Neil Armstrong"
+      - "Lawrence Sperry"
+    answer: 3
+    explanation: >
+      L'Américain Lawrence Sperry a mis au point l'un des premiers pilotes automatiques et
+      l'a présenté à Paris en 1914.
+  - question: "Que font les pilotes quand le pilote automatique est engagé ?"
+    options:
+      - "Ils surveillent et peuvent reprendre la main"
+      - "Ils quittent le cockpit"
+      - "Rien, l'avion décide seul"
+    answer: 1
+    explanation: >
+      Le pilote automatique ne remplace pas les pilotes. Ils programment, surveillent la
+      trajectoire et reprennent la main si besoin.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le pilote automatique compare sans cesse la position de l'avion avec ce que les pilotes ont demandé. Un calculateur corrige l'écart en faisant bouger les gouvernes. Les pilotes restent là pour surveiller et décider.
+
+## Mesurer, comparer, corriger
+
+Le pilote automatique a trois parties. Des capteurs mesurent l'état de l'avion : son altitude, sa direction, sa vitesse, son inclinaison. Un calculateur compare ces mesures avec les valeurs choisies par les pilotes. S'il y a un écart, il envoie un ordre à des servomoteurs. Ceux-ci font bouger les gouvernes, les parties mobiles des ailes et de la queue qui orientent l'avion. Puis tout recommence : mesurer, comparer, corriger, sans jamais s'arrêter.
+
+## Ce qu'il sait faire
+
+Il peut maintenir une altitude et une direction, appelée cap. Il amortit aussi le lacet, ce balancement du nez de l'avion de gauche à droite. L'automanette, qui l'accompagne, règle la poussée des moteurs pour tenir la vitesse. Relié à l'ordinateur de gestion du vol, il suit toute la route programmée avant le départ. Sur certains avions et certains aéroports équipés d'un système de guidage au sol, il peut même faire atterrir l'avion sans visibilité.
+
+## Ce qu'il ne fait pas
+
+Le pilote automatique ne remplace pas les pilotes. Il exécute ce qu'on lui demande, mais ne choisit pas où aller. Les pilotes programment la route, surveillent la trajectoire, la météo et les systèmes. Ils peuvent reprendre la main à tout moment.
+
+## Un siècle d'histoire
+
+L'Américain Lawrence Sperry a mis au point l'un des premiers pilotes automatiques vers 1912. Il l'a présenté à Paris en 1914, lors d'un concours sur la sécurité des avions. En 1947, un avion Douglas C-54 a traversé l'Atlantique entièrement sous pilote automatique, décollage et atterrissage compris. En décembre 2019, Airbus a réalisé le premier décollage entièrement automatique d'un avion de ligne.
+
+## À retenir
+
+- Le pilote automatique mesure, compare avec les consignes et corrige sans arrêt.
+- Les servomoteurs font bouger les gouvernes qui orientent l'avion.
+- L'automanette règle la poussée des moteurs pour tenir la vitesse.
+- Les pilotes programment la route, surveillent et peuvent reprendre la main à tout moment.
+- Lawrence Sperry a présenté l'un des premiers pilotes automatiques à Paris en 1914.
 
 ---
 type: article
