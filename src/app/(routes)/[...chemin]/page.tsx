@@ -11,6 +11,7 @@ import { LessonSummary } from "@/components/LessonSummary";
 import { Cover, themeVars } from "@/components/visual/Cover";
 import { Glyph } from "@/components/visual/Glyph";
 import { getIllustrations } from "@/lib/illustrations";
+import { getDiscoveryLessons } from "@/lib/discovery/load";
 import { renderMarkdown } from "@/lib/markdown";
 import {
   getAllArticlePaths,
@@ -219,6 +220,9 @@ async function ArticleView({ article }: { article: ArticlePage }) {
   const images = getIllustrations(article.slug);
   const theme = themeFor(article.path);
   const root = article.ancestors[0] ?? { name: article.category.name, path: article.category.path };
+  const discovery = (await getDiscoveryLessons()).find(
+    (lesson) => lesson.expandedPath === `/${article.path}`,
+  );
 
   return (
     <div style={themeVars(article.path)}>
@@ -263,8 +267,13 @@ async function ArticleView({ article }: { article: ArticlePage }) {
             </p>
 
             <p className="mt-6 flex flex-wrap gap-3">
+              {discovery && (
+                <Link href={`/decouvrir/${discovery.slug}`} className="btn">
+                  Découvrir en jouant · {discovery.minutes} min
+                </Link>
+              )}
               <a href="#lecon" className="btn">
-                Commencer la leçon
+                {discovery ? "Lire la version approfondie" : "Commencer la leçon"}
               </a>
               {article.quiz.length > 0 && (
                 <a href="#quiz" className="btn btn--ghost">

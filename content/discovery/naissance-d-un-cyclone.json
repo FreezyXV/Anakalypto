@@ -1,0 +1,143 @@
+{
+  "slug": "naissance-d-un-cyclone",
+  "version": 3,
+  "status": "published",
+  "title": "Pourquoi un cyclone a-t-il besoin d'une mer chaude ?",
+  "summary": "Réchauffe la mer et observe comment la vapeur d'eau alimente une tempête qui se met à tourner.",
+  "domain": "Géographie et territoires",
+  "domainPath": "geographie-et-territoires",
+  "minutes": 3,
+  "expandedPath": "/geographie-et-territoires/geographie-physique/climatologie/comment-un-cyclone-tropical-nait-il-au-dessus-d-une-mer-chaude",
+  "objective": "Comprendre qu'un cyclone tire son énergie de la chaleur libérée quand la vapeur d'une mer chaude se change en nuages.",
+  "sources": [
+    {
+      "title": "Hurricanes",
+      "url": "https://www.noaa.gov/education/resource-collections/weather-atmosphere/hurricanes",
+      "publisher": "NOAA",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Tropical Cyclone FAQ",
+      "url": "https://www.aoml.noaa.gov/hrd-faq/",
+      "publisher": "NOAA Atlantic Oceanographic and Meteorological Laboratory",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Au-dessus de l'océan",
+      "text": "Un cyclone tropical est une immense tempête qui tourne. Il naît au-dessus d’une mer chaude. Quel rôle joue l’eau ?",
+      "visual": {
+        "kind": "cyclone",
+        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Réchauffe la mer",
+      "text": "Une mer chaude, autour de 27 °C ou plus, favorise un cyclone. Elle ne suffit pas : l’humidité et des vents qui changent peu avec l’altitude comptent aussi. Compare la mer froide et la mer chaude.",
+      "visual": {
+        "kind": "cyclone",
+        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Température de la mer",
+        "onLabel": "Mer chaude",
+        "offLabel": "Mer froide",
+        "onFeedback": "La mer chaude s'évapore beaucoup. En formant des nuages, la vapeur libère de la chaleur qui fait monter l'air : la tempête grandit.",
+        "offFeedback": "Même froide, la mer s’évapore. Mais elle fournit moins de chaleur et d’humidité : dans ce schéma, elle n’alimente pas assez la tempête."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Le carburant du cyclone",
+      "text": "Observe les nuages au-dessus de la mer chaude : la vapeur y devient des gouttes.",
+      "visual": {
+        "kind": "cyclone",
+        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "D'où vient surtout l'énergie qui nourrit le cyclone ?",
+        "options": [
+          {
+            "id": "chaleur",
+            "label": "De la chaleur libérée quand la vapeur d'eau se change en gouttes",
+            "feedback": "Exact. Cette chaleur réchauffe l'air au cœur de la tempête, qui monte et aspire l'air humide de la surface."
+          },
+          {
+            "id": "rotation",
+            "label": "De la rotation de la Terre",
+            "feedback": "La rotation de la Terre fait tourner la tempête, mais elle ne lui donne pas son énergie. Celle-ci vient de la vapeur d'eau."
+          },
+          {
+            "id": "vent",
+            "label": "Du vent froid venu des pôles",
+            "feedback": "Non. L'air froid et sec affaiblit plutôt un cyclone. Son énergie vient de la vapeur d'une mer chaude."
+          }
+        ],
+        "correctOptionId": "chaleur",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Pourquoi elle tourne",
+      "text": "L’air converge vers le centre. La rotation de la Terre le fait tourner : dans l’hémisphère nord, en sens inverse des aiguilles d’une montre. Un cyclone naît rarement tout près de l’équateur.",
+      "visual": {
+        "kind": "cyclone",
+        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Arrivée sur la côte",
+      "text": "Le cyclone quitte la mer et avance au-dessus des terres.",
+      "visual": {
+        "kind": "cyclone",
+        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "active": false,
+        "scene": "land"
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pourquoi un cyclone faiblit-il en arrivant sur terre ?",
+        "options": [
+          {
+            "id": "coupe",
+            "label": "Il est coupé de l'air chaud et humide venu de la mer",
+            "feedback": "Oui. Loin de la mer chaude, il reçoit beaucoup moins d’air chaud et humide, et le frottement du sol le freine aussi."
+          },
+          {
+            "id": "terre",
+            "label": "La Terre arrête de tourner sous lui",
+            "feedback": "La Terre continue de tourner. Le cyclone faiblit parce qu'il perd sa source de vapeur chaude."
+          },
+          {
+            "id": "chaud",
+            "label": "Il fait trop chaud sur les continents",
+            "feedback": "Ce n'est pas la chaleur qui l'arrête, c'est le manque d'humidité venue de la mer."
+          }
+        ],
+        "correctOptionId": "coupe",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Une mer chaude fournit la vapeur. En formant des nuages, cette vapeur libère la chaleur qui nourrit le cyclone. La rotation de la Terre le fait tourner. Loin de la mer, il s'affaiblit.",
+      "visual": {
+        "kind": "cyclone",
+        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "active": true
+      }
+    }
+  ]
+}

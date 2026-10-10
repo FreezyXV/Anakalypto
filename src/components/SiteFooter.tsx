@@ -33,6 +33,9 @@ export function SiteFooter() {
             className="space-y-2 font-sans text-sm font-bold"
           >
             <p>
+              <Link href="/decouvrir">Découvrir en jouant</Link>
+            </p>
+            <p>
               <Link href="/categories">Tous les domaines</Link>
             </p>
             <p>

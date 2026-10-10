@@ -1,0 +1,146 @@
+{
+  "slug": "de-la-pate-a-la-feuille",
+  "version": 2,
+  "status": "published",
+  "title": "Comment une pâte pleine d'eau devient-elle une feuille de papier ?",
+  "summary": "Retire peu à peu l'eau de la pâte et observe la feuille se former sur la machine.",
+  "domain": "Industries",
+  "domainPath": "industries",
+  "minutes": 3,
+  "expandedPath": "/industries/industrie-lourde/chimie-industrielle/comment-le-bois-devient-il-une-feuille-de-papier",
+  "objective": "Comprendre qu'une feuille se forme quand on retire l'eau d'une suspension de fibres de cellulose, par égouttage, pressage puis séchage.",
+  "sources": [
+    {
+      "title": "Paper processes — Paper machine",
+      "url": "https://techniques-ingenieur.fr/en/resources/article/ti452/paper-processes-j6902/v1",
+      "publisher": "Techniques de l'Ingénieur",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Papermaking process in a nutshell, page 4",
+      "url": "https://www.valmet.com/globalassets/investors/reports--presentations/roadshows--other-presentations/2018/jyvaskyla-site-visit-presentation-2018-.pdf",
+      "publisher": "Valmet",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Une soupe de fibres",
+      "text": "Au début de la machine à papier, la pâte ressemble à une soupe : beaucoup d'eau et de fines fibres de cellulose, tirées surtout du bois.",
+      "visual": {
+        "kind": "paper",
+        "caption": "Machine papetière schématisée : des fibres dans l’eau à la feuille.",
+        "active": false,
+        "frame": 0
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Retire l'eau",
+      "text": "Déplace le curseur pour retirer de plus en plus d'eau.",
+      "visual": {
+        "kind": "paper",
+        "caption": "Machine papetière schématisée : des fibres dans l’eau à la feuille.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Eau retirée",
+        "minLabel": "Pâte très mouillée",
+        "maxLabel": "Feuille presque sèche",
+        "feedback": "L'eau part d'abord en s'égouttant sur une toile, puis par pressage, enfin par chauffage. Les fibres se rapprochent et se lient."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Où naît la feuille ?",
+      "text": "Observe la toile : l’eau passe à travers, mais les fibres restent.",
+      "visual": {
+        "kind": "paper",
+        "caption": "Machine papetière schématisée : des fibres dans l’eau à la feuille.",
+        "active": true,
+        "frame": 1
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Sur une machine à papier, comment la feuille commence-t-elle à se former ?",
+        "options": [
+          {
+            "id": "toile",
+            "label": "La pâte s'égoutte sur une toile et les fibres forment un tapis",
+            "feedback": "Exact. L'eau s'écoule à travers la toile, d'abord par gravité puis par aspiration, et les fibres restent."
+          },
+          {
+            "id": "colle",
+            "label": "On colle des copeaux de bois les uns aux autres",
+            "feedback": "Non. On utilise des fibres très fines en suspension dans l'eau, pas des copeaux collés."
+          },
+          {
+            "id": "fondre",
+            "label": "On fait fondre le bois comme du plastique",
+            "feedback": "Le bois ne fond pas. On sépare ses fibres, puis on les dépose dans l'eau sur une toile."
+          }
+        ],
+        "correctOptionId": "toile",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Presque sec",
+      "text": "Les presses essorent la feuille, puis des cylindres chauffés font évaporer l'eau qui reste. À la sortie, la feuille ne contient plus que 4 à 9 % d'eau et part en bobine.",
+      "visual": {
+        "kind": "paper",
+        "caption": "Machine papetière schématisée : des fibres dans l’eau à la feuille.",
+        "active": true,
+        "frame": 4
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Une seconde vie",
+      "text": "On peut fabriquer du papier neuf avec de vieux journaux.",
+      "visual": {
+        "kind": "paper",
+        "caption": "Machine papetière schématisée : des fibres dans l’eau à la feuille.",
+        "active": true,
+        "frame": 0
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pourquoi les vieux journaux peuvent-ils redevenir du papier ?",
+        "options": [
+          {
+            "id": "fibres",
+            "label": "Leurs fibres peuvent être remises dans l'eau, après avoir retiré l'encre",
+            "feedback": "Oui. On les broie dans l'eau, on les désencre, puis la pâte refait le même trajet sur la machine."
+          },
+          {
+            "id": "encre",
+            "label": "L'encre se transforme en papier",
+            "feedback": "Non. L'encre est justement retirée. Ce sont les fibres de cellulose qui servent à nouveau."
+          },
+          {
+            "id": "pousse",
+            "label": "Le papier repousse comme une plante",
+            "feedback": "Le papier n'est pas vivant. On réutilise ses fibres en les remettant dans l'eau."
+          }
+        ],
+        "correctOptionId": "fibres",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Une feuille de papier est un tapis de fibres de cellulose. Elle se forme en retirant l'eau de la pâte : égouttage sur une toile, pressage, puis séchage.",
+      "visual": {
+        "kind": "paper",
+        "caption": "Machine papetière schématisée : des fibres dans l’eau à la feuille.",
+        "active": true,
+        "frame": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "le-pain-qui-gonfle",
+  "version": 3,
+  "status": "published",
+  "title": "Qu'est-ce qui fait gonfler la pâte à pain ?",
+  "summary": "Ajoute du levain à de la farine et de l'eau, puis suis le travail invisible des levures et des bactéries.",
+  "domain": "Alimentation et nutrition",
+  "domainPath": "alimentation-et-nutrition",
+  "minutes": 3,
+  "expandedPath": "/alimentation-et-nutrition/technologies-alimentaires/fermentation/comment-le-levain-fait-il-gonfler-la-pate-a-pain",
+  "objective": "Comprendre que les levures du levain rejettent un gaz qui fait gonfler la pâte, tandis que les bactéries l'acidifient.",
+  "sources": [
+    {
+      "title": "Le monde des pains au levain",
+      "url": "https://www.espace-sciences.org/sciences-ouest/338/dossier/le-monde-des-pains-au-levain",
+      "publisher": "Espace des sciences — Sciences Ouest",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Domestication de la levure pour faire du pain",
+      "url": "https://www.inrae.fr/actualites/domestication-levure-faire-du-pain",
+      "publisher": "INRAE",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Une pâte toute plate",
+      "text": "Mélange de la farine et de l’eau : au départ, la pâte reste plate. Pourtant, le pain du boulanger est plein de trous. Il faut une fermentation active pour la faire lever.",
+      "visual": {
+        "kind": "bread",
+        "caption": "Microbes agrandis symboliquement : surtout du gaz et surtout des acides.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Ajoute le levain",
+      "text": "Le levain est un mélange de farine et d'eau où vivent des levures et des bactéries. Ajoute-le à la pâte.",
+      "visual": {
+        "kind": "bread",
+        "caption": "Microbes agrandis symboliquement : surtout du gaz et surtout des acides.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Ajouter le levain",
+        "onLabel": "Avec levain",
+        "offLabel": "Sans levain",
+        "onFeedback": "Les levures et les bactéries se nourrissent des sucres de la farine. Elles produisent un gaz et des acides, et la pâte gonfle lentement.",
+        "offFeedback": "Sans levain ajouté, ce dessin montre la pâte avant la pousse. Elle n’est pas stérile : le levain apporte une communauté de microbes déjà active pour la faire lever."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Qui fait les bulles ?",
+      "text": "Les levures et les bactéries n’ont pas le même rôle. Observe les bulles et le grossissement.",
+      "visual": {
+        "kind": "bread",
+        "caption": "Microbes agrandis symboliquement : surtout du gaz et surtout des acides.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Qu'est-ce qui fait gonfler la pâte ?",
+        "options": [
+          {
+            "id": "co2",
+            "label": "Le dioxyde de carbone rejeté par les levures",
+            "feedback": "Exact. Les levures transforment les sucres en alcool en dégageant du CO₂. Ses bulles restent prises dans la pâte."
+          },
+          {
+            "id": "acide",
+            "label": "Les acides fabriqués par les bactéries",
+            "feedback": "Les acides donnent le goût, mais ce sont les bulles de gaz des levures qui font gonfler la pâte."
+          },
+          {
+            "id": "eau",
+            "label": "L'eau qui s'évapore pendant le pétrissage",
+            "feedback": "Non. La pâte gonfle avant la cuisson, grâce au gaz produit par les levures."
+          }
+        ],
+        "correctOptionId": "co2",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Deux équipes",
+      "text": "Dans un levain, les bactéries sont dix à cent fois plus nombreuses que les levures. Les levures font surtout le gaz, les bactéries surtout les acides. À la cuisson, l'alcool s'évapore.",
+      "visual": {
+        "kind": "bread",
+        "caption": "Microbes agrandis symboliquement : surtout du gaz et surtout des acides.",
+        "active": true,
+        "scene": "microbes"
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Le goût du pain",
+      "text": "Le pain au levain a souvent un petit goût un peu aigre.",
+      "visual": {
+        "kind": "bread",
+        "caption": "Microbes agrandis symboliquement : surtout du gaz et surtout des acides.",
+        "active": true,
+        "scene": "microbes"
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "D'où vient le petit goût acide du pain au levain ?",
+        "options": [
+          {
+            "id": "bacteries",
+            "label": "Des acides produits par les bactéries du levain",
+            "feedback": "Oui. Les bactéries font des fermentations lactique et acétique, qui acidifient la pâte."
+          },
+          {
+            "id": "alcool",
+            "label": "De l'alcool resté dans le pain",
+            "feedback": "L'alcool produit par les levures s'évapore pendant la cuisson. Le goût vient des acides des bactéries."
+          },
+          {
+            "id": "farine",
+            "label": "De la farine, qui est acide au départ",
+            "feedback": "Une pâte faite sans levain n'a pas ce goût. Ce sont les bactéries du levain qui produisent les acides."
+          }
+        ],
+        "correctOptionId": "bacteries",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Dans le levain, les levures rejettent du gaz carbonique qui fait gonfler la pâte. Les bactéries produisent des acides qui donnent le goût. La cuisson tue ces microbes.",
+      "visual": {
+        "kind": "bread",
+        "caption": "Microbes agrandis symboliquement : surtout du gaz et surtout des acides.",
+        "active": true
+      }
+    }
+  ]
+}

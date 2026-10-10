@@ -1,0 +1,147 @@
+{
+  "slug": "la-couleur-dans-le-mur",
+  "version": 2,
+  "status": "published",
+  "title": "Pourquoi la couleur d'une fresque fait-elle partie du mur ?",
+  "summary": "Peins sur un enduit frais, laisse sécher, et découvre comment la chaux enferme les couleurs.",
+  "domain": "Arts et culture",
+  "domainPath": "arts-et-culture",
+  "minutes": 3,
+  "expandedPath": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles",
+  "objective": "Comprendre qu'en séchant, l'enduit de chaux réagit avec le dioxyde de carbone de l'air et emprisonne les pigments.",
+  "sources": [
+    {
+      "title": "Fresco — Art Term",
+      "url": "https://www.tate.org.uk/art/art-terms/f/fresco",
+      "publisher": "Tate",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Building with Lime — Briefing Paper",
+      "url": "https://asbp.org.uk/wp-content/uploads/2026/07/ASBP-Lime-Group-Briefing-Paper-Building-with-Lime.pdf",
+      "publisher": "ASBP Lime Group",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Un mur encore humide",
+      "text": "Le peintre étale sur le mur un enduit à base de chaux. Tant qu'il est humide, il y pose ses couleurs : des pigments mélangés à de l'eau, sans colle.",
+      "visual": {
+        "kind": "fresco",
+        "caption": "Coupe agrandie : la réaction de la chaux avec le CO₂ fixe les pigments.",
+        "active": false,
+        "frame": 0
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Observe la prise de la chaux",
+      "text": "Déplace le curseur pour voir comment l’enduit fixe les pigments.",
+      "visual": {
+        "kind": "fresco",
+        "caption": "Coupe agrandie : la réaction de la chaux avec le CO₂ fixe les pigments.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Prise de l’enduit",
+        "minLabel": "Enduit frais",
+        "maxLabel": "Couleur fixée",
+        "feedback": "La chaux réagit lentement avec le dioxyde de carbone de l’air et devient du carbonate de calcium. Les pigments sont pris dedans. Durcir par cette réaction et perdre de l’eau ne sont pas la même chose."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Sans colle",
+      "text": "Une peinture ordinaire a besoin d'une colle, un liant. Pas la fresque.",
+      "visual": {
+        "kind": "fresco",
+        "caption": "Coupe agrandie : la réaction de la chaux avec le CO₂ fixe les pigments.",
+        "active": true,
+        "frame": 3
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pourquoi la couleur d'une fresque tient-elle sans colle ?",
+        "options": [
+          {
+            "id": "chaux",
+            "label": "La chaux devient du carbonate de calcium qui enferme les pigments",
+            "feedback": "Exact. En réagissant avec le CO₂ de l'air, la chaux forme de petits cristaux qui emprisonnent les grains de couleur."
+          },
+          {
+            "id": "pigment",
+            "label": "Les pigments contiennent leur propre colle",
+            "feedback": "Non. Dans une fresque, les pigments sont mélangés à de l'eau seulement. C'est la chaux qui les fixe."
+          },
+          {
+            "id": "soleil",
+            "label": "Le soleil cuit la peinture",
+            "feedback": "Ce n'est pas une cuisson. C'est une réaction chimique entre la chaux et le dioxyde de carbone de l'air."
+          }
+        ],
+        "correctOptionId": "chaux",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Une course contre la montre",
+      "text": "Le peintre prépare chaque jour seulement la surface qu’il peut peindre pendant que l’enduit est encore frais : c’est la « giornata », la journée de travail.",
+      "visual": {
+        "kind": "fresco",
+        "caption": "Coupe agrandie : la réaction de la chaux avec le CO₂ fixe les pigments.",
+        "active": true,
+        "frame": 4
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Une retouche le lendemain",
+      "text": "Le lendemain, le peintre veut retoucher un visage, sur l'enduit déjà sec.",
+      "visual": {
+        "kind": "fresco",
+        "caption": "Coupe agrandie : la réaction de la chaux avec le CO₂ fixe les pigments.",
+        "active": true,
+        "frame": 4,
+        "scene": "retouch"
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Un peintre retouche une fresque le lendemain, sur l'enduit déjà sec. Que risque cette retouche ?",
+        "options": [
+          {
+            "id": "fragile",
+            "label": "Elle ne sera pas prise dans la chaux et tiendra moins bien",
+            "feedback": "Oui. Une peinture posée sur l'enduit sec, dite « a secco », reste en surface et s'écaille plus facilement."
+          },
+          {
+            "id": "pareil",
+            "label": "Rien : elle tiendra exactement comme le reste",
+            "feedback": "Sur l’enduit déjà durci, les nouveaux pigments ne sont pas incorporés de la même manière que sur l’enduit frais."
+          },
+          {
+            "id": "frais",
+            "label": "L'enduit redevient frais quand on le mouille",
+            "feedback": "Mouiller la surface ne change pas le carbonate de calcium déjà formé."
+          }
+        ],
+        "correctOptionId": "fragile",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Dans une fresque, on peint avec de l’eau et des pigments sur un enduit de chaux frais. En durcissant lentement, la chaux réagit avec le CO₂ de l’air et forme du carbonate de calcium qui fixe la couleur.",
+      "visual": {
+        "kind": "fresco",
+        "caption": "Coupe agrandie : la réaction de la chaux avec le CO₂ fixe les pigments.",
+        "active": true,
+        "frame": 4
+      }
+    }
+  ]
+}

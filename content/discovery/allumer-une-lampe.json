@@ -1,0 +1,116 @@
+{
+  "slug": "allumer-une-lampe",
+  "version": 1,
+  "status": "published",
+  "title": "Pourquoi la lampe reste éteinte ?",
+  "summary": "Ouvre et ferme un circuit pour comprendre le rôle de l’interrupteur.",
+  "domain": "Sciences fondamentales",
+  "domainPath": "sciences-fondamentales",
+  "minutes": 2,
+  "expandedPath": "/sciences-fondamentales/physique/electromagnetisme/tension-courant-resistance",
+  "objective": "Reconnaître qu’un circuit fermé permet au courant de circuler.",
+  "sources": [
+    {
+      "title": "9.1 Electrical Current",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/9-1-electrical-current",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Un trajet interrompu",
+      "text": "La pile, les fils et la lampe sont présents. Pourtant, l’interrupteur ouvert coupe le trajet : le courant ne circule pas dans ce circuit.",
+      "visual": {
+        "kind": "circuit",
+        "caption": "L’interrupteur ouvert interrompt le circuit ; la lampe est éteinte.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Ferme le circuit",
+      "text": "Actionne l’interrupteur. La lampe s’allume lorsque le trajet forme une boucle complète.",
+      "visual": {
+        "kind": "circuit",
+        "caption": "Les flèches indiquent le sens conventionnel du courant dans le circuit fermé.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Fermer l’interrupteur",
+        "onLabel": "Circuit fermé",
+        "offLabel": "Circuit ouvert",
+        "onFeedback": "La boucle est complète. Le courant circule et la lampe s’allume.",
+        "offFeedback": "Le trajet est interrompu. La lampe reste éteinte."
+      }
+    },
+    {
+      "id": "predire",
+      "title": "Une coupure suffit",
+      "text": "Imagine maintenant qu’un fil est débranché ailleurs dans cette boucle.",
+      "visual": {
+        "kind": "circuit",
+        "caption": "Une pile et une lampe reliées par une boucle fermée.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Si un fil est débranché, que fait la lampe ?",
+        "options": [
+          {
+            "id": "eteinte",
+            "label": "Elle s’éteint.",
+            "feedback": "Oui. Une seule coupure suffit à ouvrir ce circuit."
+          },
+          {
+            "id": "allumee",
+            "label": "Elle reste allumée grâce à la pile.",
+            "feedback": "La pile est toujours là, mais le trajet est coupé. Le courant ne peut plus circuler dans la boucle."
+          }
+        ],
+        "correctOptionId": "eteinte",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "L’interrupteur contrôle le trajet",
+      "text": "L’interrupteur relie ou sépare deux contacts. Il ouvre ou ferme le circuit. Il ne fabrique pas d’électricité.",
+      "visual": {
+        "kind": "circuit",
+        "caption": "L’interrupteur fermé relie les deux contacts en haut du schéma.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi",
+      "title": "Trouve la condition",
+      "text": "La pile fournit l’énergie. Quelle autre condition faut-il pour allumer cette lampe ?",
+      "visual": {
+        "kind": "circuit",
+        "caption": "La pile, la lampe et les fils forment une boucle complète.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Quel montage permet au courant de circuler ?",
+        "options": [
+          {
+            "id": "boucle",
+            "label": "Un trajet fermé entre les deux bornes de la pile.",
+            "feedback": "Exact. La boucle complète permet au courant de circuler."
+          },
+          {
+            "id": "unfil",
+            "label": "Un seul fil entre la pile et la lampe.",
+            "feedback": "Un seul fil ne forme pas une boucle complète. Il faut aussi un trajet de retour."
+          }
+        ],
+        "correctOptionId": "boucle",
+        "checkpoint": true
+      }
+    }
+  ]
+}

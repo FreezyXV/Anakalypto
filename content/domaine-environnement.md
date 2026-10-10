@@ -6297,6 +6297,21 @@ sources:
   - title: "Le recyclage du verre, explications et consignes de tri"
     url: "https://climate.selectra.com/fr/recyclage/verre"
     publisher: "Selectra"
+  - title: "Close the Glass Loop"
+    url: "https://closetheglassloop.eu/"
+    publisher: "Close the Glass Loop — FEVE"
+  - title: "Recycling of post-consumer glass: energy savings, CO2 emission reduction, effects on glass quality and glass melting"
+    url: "https://repository.tno.nl/islandora/object/uuid:e2aab36a-2fa0-4cff-b085-f34d992aed79"
+    publisher: "TNO — R. Beerkens, G. Kers, E. van Santen (2011)"
+  - title: "Chiffres du recyclage en France : emballages et papiers"
+    url: "https://www.citeo.com/le-mag/les-chiffres-du-recyclage-en-france/"
+    publisher: "Citeo"
+  - title: "Could new EU packaging proposals speed up a real circular economy for packaging?"
+    url: "https://feve.org/could-new-eu-packaging-proposals-speed-up-a-real-circular-economy-for-packaging/"
+    publisher: "FEVE"
+  - title: "Les chiffres clés du recyclage"
+    url: "https://citoyens.citeo.com/le-mag/infographie-chiffres-recyclages/"
+    publisher: "Citeo"
 quiz:
   - question: "Comment appelle-t-on le verre broyé prêt à être refondu ?"
     options:
@@ -6347,23 +6362,23 @@ Les bouteilles et les pots déposés dans le conteneur sont collectés puis appo
 
 ## Le calcin
 
-Le verre trié est broyé en petits morceaux : le calcin. À l'usine, on le mélange aux matières premières du verre, le sable, le carbonate de sodium et le calcaire. Le tout fond dans un four vers 1 500 °C. Le verre liquide est ensuite moulé et soufflé pour former de nouvelles bouteilles.
+Le verre trié est broyé en petits morceaux : le calcin. À l'usine, on le mélange aux matières premières du verre, le sable, le carbonate de sodium et le calcaire. Le tout fond dans un four à très haute température. Le verre liquide est ensuite moulé et soufflé pour former de nouvelles bouteilles.
 
 ## Pourquoi c'est utile
 
-Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leur qualité. Le verre garde même sa couleur d'un recyclage à l'autre. Le calcin fond plus facilement que les matières premières. Chaque fois qu'on ajoute 10 % de calcin, le four consomme 2 à 3 % d'énergie en moins. Une tonne de verre recyclé évite aussi le rejet de 315 kilogrammes de dioxyde de carbone pendant la fabrication. Et chaque bouteille refondue, c'est du sable en moins à extraire.
+Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leurs propriétés. Le calcin fond plus facilement que les matières premières. Dans une étude publiée en 2011, faire passer la part de calcin de 65 à 75 % a réduit d'environ 4 % l'énergie consommée par un four. Et chaque bouteille refondue, c'est du sable en moins à extraire.
 
 ## Et en France ?
 
-En 2024, la France a recyclé 87 % de ses emballages en verre. Il existe une solution encore plus économe : laver la bouteille et la remplir de nouveau, sans la refondre. C'est le principe de la consigne pour réemploi.
+Selon Citeo, l'organisme chargé du recyclage des emballages ménagers, 88 % des emballages ménagers en verre sont recyclés en France. Ce chiffre est présenté comme une « estimation décembre 2025 » ; les pages consultées ne précisent ni l'année exacte des données ni le mode de calcul. À l'échelle de l'Union européenne, 82,2 % des emballages en verre ont été collectés pour être recyclés en 2024, selon la filière européenne du verre : ce n'est pas le même indicateur. L'objectif européen est d'atteindre 90 % de collecte en 2030. Il existe une solution encore plus économe : laver la bouteille et la remplir de nouveau, sans la refondre. C'est le principe de la consigne pour réemploi.
 
 ## À retenir
 
-- Le verre trié est broyé en calcin, puis refondu dans un four vers 1 500 °C.
+- Le verre trié est broyé en calcin, puis refondu dans un four à très haute température.
 - Céramique, porcelaine et verre de plat à four ne vont pas dans le conteneur à verre.
 - Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leur qualité.
-- Ajouter 10 % de calcin fait économiser 2 à 3 % d'énergie au four.
-- En 2024, la France a recyclé 87 % de ses emballages en verre.
+- Plus il y a de calcin dans le four, moins il faut d'énergie pour fondre le verre.
+- En 2024, 82,2 % des emballages en verre de l'Union européenne ont été collectés pour être recyclés.
 
 ---
 type: article

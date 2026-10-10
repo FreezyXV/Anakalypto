@@ -1,0 +1,122 @@
+{
+  "slug": "savon-et-graisse",
+  "version": 1,
+  "status": "published",
+  "title": "Pourquoi le savon enlève la graisse ?",
+  "summary": "Observe une goutte de graisse et découvre le rôle des deux bouts d’une molécule de savon.",
+  "domain": "Sciences fondamentales",
+  "domainPath": "sciences-fondamentales",
+  "minutes": 3,
+  "expandedPath": "/sciences-fondamentales/chimie/chimie-organique/comment-fabrique-t-on-du-savon-avec-de-l-huile",
+  "objective": "Comprendre comment le savon aide l’eau à emporter la graisse.",
+  "sources": [
+    {
+      "title": "The Wonders of Water — Surfactants",
+      "url": "https://www.acs.org/content/dam/acsorg/education/outreach/celebrating-chemistry/2014-cced-celebrating-chemistry-english.pdf",
+      "publisher": "American Chemical Society",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "27.2 Soap",
+      "url": "https://openstax.org/books/organic-chemistry/pages/27-2-soap",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Une goutte qui résiste",
+      "text": "La graisse se mélange mal à l’eau. Pour mieux l’emporter, on peut ajouter du savon. Voyons ce qui se passe à toute petite échelle.",
+      "visual": {
+        "kind": "soap",
+        "caption": "Une goutte de graisse dans l’eau, avant l’ajout du savon.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Ajoute du savon",
+      "text": "Le savon a deux parties : une tête qui se mélange bien avec l’eau, et une queue qui s’associe à la graisse.",
+      "visual": {
+        "kind": "soap",
+        "caption": "Les têtes bleues restent vers l’eau ; les queues orange pointent vers la graisse.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Ajouter du savon",
+        "onLabel": "Avec savon",
+        "offLabel": "Sans savon",
+        "onFeedback": "Des molécules entourent la graisse : têtes vers l’eau, queues vers la graisse.",
+        "offFeedback": "Sans savon, la graisse reste séparée de l’eau."
+      }
+    },
+    {
+      "id": "predire",
+      "title": "Dans quel sens ?",
+      "text": "Imagine les molécules autour d’une goutte. Choisis la partie qui se place vers l’eau.",
+      "visual": {
+        "kind": "soap",
+        "caption": "Schéma agrandi d’une goutte entourée de molécules de savon.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Quelle partie se tourne vers l’eau ?",
+        "options": [
+          {
+            "id": "tete",
+            "label": "La tête",
+            "feedback": "Oui. La tête se mélange bien avec l’eau."
+          },
+          {
+            "id": "queue",
+            "label": "La queue",
+            "feedback": "La queue s’associe à la graisse. La tête reste du côté de l’eau."
+          }
+        ],
+        "correctOptionId": "tete",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "La graisse est entourée",
+      "text": "Ces petits groupes s’appellent des micelles. Ils permettent de disperser la graisse dans l’eau, puis de l’emporter au rinçage.",
+      "visual": {
+        "kind": "soap",
+        "caption": "La graisse au centre est entourée : les têtes sont à l’extérieur.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi",
+      "title": "Et si on rince ?",
+      "text": "Tu peux maintenant expliquer ce que fait le savon.",
+      "visual": {
+        "kind": "soap",
+        "caption": "Une micelle reste dispersée dans l’eau et peut être emportée au rinçage.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pourquoi le rinçage aide-t-il à enlever la graisse ?",
+        "options": [
+          {
+            "id": "disperser",
+            "label": "La graisse entourée de savon peut être emportée avec l’eau.",
+            "feedback": "Exact. Le savon aide à disperser la graisse dans l’eau."
+          },
+          {
+            "id": "disparaitre",
+            "label": "Le savon fait disparaître la matière grasse.",
+            "feedback": "La graisse existe toujours. Elle est dispersée et emportée avec l’eau."
+          }
+        ],
+        "correctOptionId": "disperser",
+        "checkpoint": true
+      }
+    }
+  ]
+}

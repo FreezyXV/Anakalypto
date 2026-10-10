@@ -8212,6 +8212,18 @@ sources:
   - title: "IEEE 802.11"
     url: "https://en.wikipedia.org/wiki/IEEE_802.11"
     publisher: "Wikipedia"
+  - title: "Décision n° 2022-1960 sur les bandes 5150-5350 MHz et 5470-5725 MHz"
+    url: "https://www.arcep.fr/uploads/tx_gsavis/22-1960.pdf"
+    publisher: "Arcep"
+  - title: "IEEE 802.11-1997 — Wireless LAN MAC and PHY specifications"
+    url: "https://store.sfs.fi/en/ieee-80211-1997"
+    publisher: "SFS (catalogue de normes)"
+  - title: "20 years of wireless with the Wi-Fi Alliance"
+    url: "https://blogs.cisco.com/networking/20-years-of-wireless-with-the-wi-fi-alliance"
+    publisher: "Cisco"
+  - title: "Microwave oven interference measurements at 2.4 GHz"
+    url: "https://catalog.data.gov/dataset/microwave-oven-interference-measurements-at-2-4-ghz"
+    publisher: "NIST (via data.gov)"
 quiz:
   - question: "Qu'est-ce qui transporte les données du Wi-Fi ?"
     options:
@@ -8230,14 +8242,15 @@ quiz:
     answer: 2
     explanation: >
       Le Wi-Fi repose sur la norme IEEE 802.11, publiée pour la première fois en 1997.
-  - question: "Quelle est la portée habituelle du Wi-Fi à l'intérieur, sans obstacle ?"
+  - question: "Que se passe-t-il quand on s'éloigne de la box Wi-Fi ?"
     options:
-      - "2 à 5 centimètres"
-      - "200 kilomètres"
-      - "20 à 50 mètres"
+      - "Le signal devient plus fort"
+      - "La box change de fréquence toute seule"
+      - "Le signal faiblit"
     answer: 3
     explanation: >
-      À l'intérieur, le Wi-Fi porte en général à 20 à 50 mètres quand rien ne le gêne.
+      Plus on s'éloigne de la box, plus le signal faiblit. Les murs et les planchers
+      l'affaiblissent encore.
   - question: "Quel appareil peut gêner le Wi-Fi ?"
     options:
       - "Un four à micro-ondes"
@@ -8265,18 +8278,18 @@ La box, ou point d'accès, est reliée à Internet par un câble ou une fibre. E
 
 ## Portée et obstacles
 
-À l'intérieur, le Wi-Fi porte en général à 20 à 50 mètres sans obstacle. Les murs et les planchers affaiblissent le signal. D'autres appareils utilisent les mêmes bandes : le four à micro-ondes, le Bluetooth ou certains téléphones sans fil. Ils peuvent brouiller le Wi-Fi. Avec des antennes spéciales, un record de 382 kilomètres a pourtant été atteint en extérieur en 2011.
+Plus on s'éloigne de la box, plus le signal faiblit. Les murs et les planchers l'affaiblissent aussi. D'autres appareils utilisent la bande des 2,4 gigahertz, comme le Bluetooth. Le four à micro-ondes émet aussi dans cette bande et peut perturber les communications sans fil autour de lui.
 
 ## De plus en plus rapide
 
-La version 802.11b de 1999 promettait 11 mégabits par seconde. La version 802.11g de 2003 montait à 54 mégabits par seconde. Le Wi-Fi 6 peut atteindre en théorie plusieurs gigabits par seconde. Depuis 1999, une association, la Wi-Fi Alliance, vérifie que les appareils respectent bien la norme.
+En 1999, la version 802.11b de la norme est approuvée. En 2000, les premiers appareils certifiés échangent jusqu'à 11 mégabits par seconde. Une association créée en 1999, devenue la Wi-Fi Alliance, vérifie que des appareils de marques différentes fonctionnent bien ensemble.
 
 ## À retenir
 
 - Le Wi-Fi transporte les données par des ondes radio, autour de 2,4, 5 et 6 gigahertz.
 - Il repose sur la norme IEEE 802.11, publiée en 1997.
 - La box transforme les données en ondes, et l'appareil retrouve les 0 et les 1.
-- À l'intérieur, la portée habituelle est de 20 à 50 mètres sans obstacle.
+- Plus on s'éloigne de la box, plus le signal faiblit.
 - Les murs et d'autres appareils, comme le four à micro-ondes, peuvent affaiblir ou brouiller le signal.
 
 ---

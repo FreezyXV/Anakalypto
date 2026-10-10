@@ -1,5 +1,6 @@
 import type { CSSProperties } from "react";
 import Link from "next/link";
+import { SiteHeaderFrame } from "./discovery/SiteHeaderFrame";
 
 import { SearchBox } from "./SearchBox";
 import { ThemeToggle } from "./ThemeToggle";
@@ -11,6 +12,7 @@ import { Glyph } from "./visual/Glyph";
  * ce qui remplit la console du navigateur d'abandons sans consequence mais trompeurs.
  */
 const NAV = [
+  { href: "/decouvrir", label: "Découvrir", prefetch: true },
   { href: "/categories", label: "Domaines", prefetch: true },
   { href: "/recherche", label: "Recherche", prefetch: false },
   { href: "/a-propos", label: "À propos", prefetch: true },
@@ -43,15 +45,15 @@ function Brand() {
  *
  * Sur petit ecran, deux rangees: la marque et la bascule de theme, puis le champ de
  * recherche sur toute la largeur, a portee du pouce. A partir de `md`, tout tient sur une
- * seule rangee et la navigation vient s'intercaler. Le champ n'est jamais masque: c'est le
- * principal moyen d'entrer dans une encyclopedie de plusieurs centaines de lecons.
+ * seule rangee et la navigation vient s'intercaler. Le parcours Decouvrir garde un en-tete
+ * compact pour laisser la place au schema et aux commandes sur telephone.
  *
  * L'en-tete adhere au haut de la fenetre pour que la recherche reste disponible au milieu
  * d'une lecon longue.
  */
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-40 border-b-[2.5px] border-line bg-paper/95 backdrop-blur-sm">
+    <SiteHeaderFrame>
       <div className="mx-auto max-w-6xl px-4 py-3 sm:px-6">
         <div className="flex items-center gap-x-5">
           <Brand />
@@ -68,7 +70,7 @@ export function SiteHeader() {
           </nav>
 
           <div className="ml-auto flex items-center gap-3">
-            <div className="hidden w-72 md:block">
+            <div className="header-search hidden w-72 xl:block">
               <SearchBox shortcut />
             </div>
             <ThemeToggle />
@@ -76,11 +78,11 @@ export function SiteHeader() {
         </div>
 
         {/* Petit ecran: le champ prend la largeur, la navigation passe sous la marque. */}
-        <div className="mt-3 md:hidden">
+        <div className="header-mobile mt-3 md:hidden">
           <SearchBox />
           <nav
             aria-label="Navigation principale"
-            className="mt-3 flex items-center justify-between gap-2"
+            className="mt-3 flex flex-wrap items-center justify-between gap-1 text-sm"
           >
             {NAV.map((item) => (
               <Link key={item.href} href={item.href} prefetch={item.prefetch} className="navlink">
@@ -90,6 +92,6 @@ export function SiteHeader() {
           </nav>
         </div>
       </div>
-    </header>
+    </SiteHeaderFrame>
   );
 }

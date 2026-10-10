@@ -8990,6 +8990,15 @@ sources:
   - title: "Lawrence Sperry"
     url: "https://en.wikipedia.org/wiki/Lawrence_Sperry"
     publisher: "Wikipedia"
+  - title: "Advanced Avionics Handbook, chapitre 4, Automated Flight Control"
+    url: "https://www.faasafety.gov/files/events/EA/EA03/2019/EA0392003/aah_ch04.pdf"
+    publisher: "Federal Aviation Administration"
+  - title: "Gyro Stabilizer, Sperry, Paris Competition Winner, 1914"
+    url: "https://airandspace.si.edu/collection-objects/gyro-stabilizer-sperry-paris-competition-winner-1914/nasm_A19630399000"
+    publisher: "Smithsonian National Air and Space Museum"
+  - title: "Airbus demonstrates first fully automatic vision-based take-off"
+    url: "https://www.airbus.com/en/newsroom/press-releases/2020-01-airbus-demonstrates-first-fully-automatic-vision-based-take-off"
+    publisher: "Airbus"
 quiz:
   - question: "Que font les servomoteurs du pilote automatique ?"
     options:
@@ -9007,16 +9016,18 @@ quiz:
       - "L'ouverture des portes"
     answer: 2
     explanation: >
-      L'automanette règle la poussée des moteurs pour tenir la vitesse demandée.
-  - question: "Qui a présenté un pilote automatique à Paris en 1914 ?"
+      Sur les avions qui en ont une, l'automanette règle la poussée des moteurs pour tenir la
+      vitesse demandée.
+  - question: "Que fait le calculateur du pilote automatique ?"
     options:
-      - "Louis Blériot"
-      - "Neil Armstrong"
-      - "Lawrence Sperry"
-    answer: 3
+      - "Il choisit tout seul la destination du vol"
+      - "Il compare l'état mesuré de l'avion avec la consigne"
+      - "Il remplace les pilotes pendant tout le vol"
+    answer: 2
     explanation: >
-      L'Américain Lawrence Sperry a mis au point l'un des premiers pilotes automatiques et
-      l'a présenté à Paris en 1914.
+      Le calculateur compare les mesures des capteurs avec la consigne des pilotes, puis
+      commande la correction. La destination et la surveillance restent l'affaire des
+      pilotes.
   - question: "Que font les pilotes quand le pilote automatique est engagé ?"
     options:
       - "Ils surveillent et peuvent reprendre la main"
@@ -9040,7 +9051,7 @@ Le pilote automatique a trois parties. Des capteurs mesurent l'état de l'avion 
 
 ## Ce qu'il sait faire
 
-Il peut maintenir une altitude et une direction, appelée cap. Il amortit aussi le lacet, ce balancement du nez de l'avion de gauche à droite. L'automanette, qui l'accompagne, règle la poussée des moteurs pour tenir la vitesse. Relié à l'ordinateur de gestion du vol, il suit toute la route programmée avant le départ. Sur certains avions et certains aéroports équipés d'un système de guidage au sol, il peut même faire atterrir l'avion sans visibilité.
+Il peut maintenir une altitude et une direction, appelée cap. Il amortit aussi le lacet, ce balancement du nez de l'avion de gauche à droite. Sur les avions qui en sont équipés, l'automanette règle aussi la poussée des moteurs pour tenir la vitesse. Sinon, ce sont les pilotes qui règlent la puissance. Relié à l'ordinateur de gestion du vol, il suit toute la route programmée avant le départ. Sur certains avions et certains aéroports équipés d'un système de guidage au sol, il peut même faire atterrir l'avion sans visibilité.
 
 ## Ce qu'il ne fait pas
 
@@ -9048,15 +9059,15 @@ Le pilote automatique ne remplace pas les pilotes. Il exécute ce qu'on lui dema
 
 ## Un siècle d'histoire
 
-L'Américain Lawrence Sperry a mis au point l'un des premiers pilotes automatiques vers 1912. Il l'a présenté à Paris en 1914, lors d'un concours sur la sécurité des avions. En 1947, un avion Douglas C-54 a traversé l'Atlantique entièrement sous pilote automatique, décollage et atterrissage compris. En décembre 2019, Airbus a réalisé le premier décollage entièrement automatique d'un avion de ligne.
+En 1914, à Paris, un stabilisateur à gyroscopes fabriqué par la société américaine Sperry a remporté un concours sur la sécurité des avions. En décembre 2019, à Toulouse, Airbus a réalisé avec un avion d'essai le premier décollage entièrement automatique guidé par caméra.
 
 ## À retenir
 
 - Le pilote automatique mesure, compare avec les consignes et corrige sans arrêt.
 - Les servomoteurs font bouger les gouvernes qui orientent l'avion.
-- L'automanette règle la poussée des moteurs pour tenir la vitesse.
+- Sur certains avions, l'automanette règle aussi la poussée des moteurs pour tenir la vitesse.
 - Les pilotes programment la route, surveillent et peuvent reprendre la main à tout moment.
-- Lawrence Sperry a présenté l'un des premiers pilotes automatiques à Paris en 1914.
+- En 1914, un stabilisateur à gyroscopes Sperry a gagné à Paris un concours sur la sécurité des avions.
 
 ---
 type: article

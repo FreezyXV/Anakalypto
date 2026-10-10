@@ -1,0 +1,143 @@
+{
+  "slug": "les-donnees-dans-l-air",
+  "version": 3,
+  "status": "published",
+  "title": "Comment le Wi-Fi traverse-t-il l'air jusqu'à ton téléphone ?",
+  "summary": "Allume le Wi-Fi de la box et suis les données, des 0 et des 1 jusqu'à ton écran.",
+  "domain": "Micro-informatique et informatique",
+  "domainPath": "micro-informatique-et-informatique",
+  "minutes": 3,
+  "expandedPath": "/micro-informatique-et-informatique/reseaux-et-securite/internet/comment-le-wi-fi-fait-il-voyager-des-donnees-a-travers-l-air",
+  "objective": "Comprendre que le Wi-Fi transporte les données dans des ondes radio, émises par la box et captées par l'antenne de l'appareil.",
+  "sources": [
+    {
+      "title": "Décision n° 2022-1960 sur les bandes 5150-5350 MHz et 5470-5725 MHz",
+      "url": "https://www.arcep.fr/uploads/tx_gsavis/22-1960.pdf",
+      "publisher": "Arcep",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "What Is Wi-Fi?",
+      "url": "https://www.cisco.com/c/en/us/products/wireless/what-is-wifi.html",
+      "publisher": "Cisco",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Pas de fil",
+      "text": "La box est reliée à Internet par un câble ou une fibre. Ton téléphone, lui, n'est branché à rien. Comment les données passent-elles ?",
+      "visual": {
+        "kind": "wifi",
+        "caption": "Box et téléphone : les ondes radio transportent des données.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Allume le Wi-Fi",
+      "text": "La box possède un émetteur radio. Allume-le.",
+      "visual": {
+        "kind": "wifi",
+        "caption": "Box et téléphone : les ondes radio transportent des données.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Activer le Wi-Fi de la box",
+        "onLabel": "Wi-Fi allumé",
+        "offLabel": "Wi-Fi éteint",
+        "onFeedback": "La box range les données dans une onde radio. L'antenne du téléphone la capte et retrouve les 0 et les 1.",
+        "offFeedback": "Sans émetteur radio allumé, rien ne part de la box : le téléphone ne reçoit aucune donnée."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Le messager invisible",
+      "text": "Observe les arcs entre la box et le téléphone : ils représentent le signal transmis.",
+      "visual": {
+        "kind": "wifi",
+        "caption": "Box et téléphone : les ondes radio transportent des données.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Qu'est-ce qui transporte les données entre la box et le téléphone ?",
+        "options": [
+          {
+            "id": "radio",
+            "label": "Des ondes radio",
+            "feedback": "Exact. Le Wi-Fi transmet les données grâce à des ondes radio."
+          },
+          {
+            "id": "son",
+            "label": "Des sons trop aigus pour nos oreilles",
+            "feedback": "Non, ce ne sont pas des sons. Le Wi-Fi utilise des ondes radio, qui n'ont pas besoin d'air pour exister."
+          },
+          {
+            "id": "lumiere",
+            "label": "De la lumière visible",
+            "feedback": "Le Wi-Fi ne se voit pas : il utilise des ondes radio, pas de la lumière visible."
+          }
+        ],
+        "correctOptionId": "radio",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Des chiffres dans l'onde",
+      "text": "Pour transporter des 0 et des 1, l'émetteur fait varier l'onde radio de façon très précise. Le téléphone lit ces variations et répond à la box de la même façon.",
+      "visual": {
+        "kind": "wifi",
+        "caption": "Box et téléphone : les ondes radio transportent des données.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Dans la chambre du fond",
+      "text": "Ton téléphone capte mal le Wi-Fi dans une pièce éloignée, derrière plusieurs murs.",
+      "visual": {
+        "kind": "wifi",
+        "caption": "Box et téléphone : les ondes radio transportent des données.",
+        "active": true,
+        "scene": "walls"
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Dans une pièce éloignée de la box, derrière plusieurs murs, pourquoi le Wi-Fi capte-t-il moins bien ?",
+        "options": [
+          {
+            "id": "distance",
+            "label": "La distance, les murs et les planchers affaiblissent les ondes radio",
+            "feedback": "Oui. Plus on s'éloigne de la box, plus le signal faiblit, et les murs l'affaiblissent encore."
+          },
+          {
+            "id": "effacer",
+            "label": "Les murs effacent une partie des données",
+            "feedback": "Les murs n'effacent pas les données. Ils affaiblissent l'onde, qui devient plus difficile à capter."
+          },
+          {
+            "id": "box",
+            "label": "La box envoie moins de données dans cette pièce",
+            "feedback": "Ce n’est pas une réduction volontaire des données pour cette pièce : la distance et les murs affaiblissent le signal reçu."
+          }
+        ],
+        "correctOptionId": "distance",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Le Wi-Fi transporte les données dans des ondes radio. La box les émet, l'antenne de l'appareil les capte et retrouve les 0 et les 1. Distance et murs affaiblissent le signal.",
+      "visual": {
+        "kind": "wifi",
+        "caption": "Box et téléphone : les ondes radio transportent des données.",
+        "active": true
+      }
+    }
+  ]
+}

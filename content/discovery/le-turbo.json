@@ -1,0 +1,115 @@
+{
+  "slug": "le-turbo",
+  "version": 1,
+  "status": "published",
+  "title": "D’où vient la force du turbo ?",
+  "summary": "Fais varier un flux de gaz et observe les deux roues reliées du turbocompresseur.",
+  "domain": "Automobile",
+  "domainPath": "automobile",
+  "minutes": 3,
+  "expandedPath": "/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant",
+  "objective": "Relier les gaz d’échappement à la compression de l’air qui entre dans le moteur.",
+  "sources": [
+    {
+      "title": "How a turbo works — Basic",
+      "url": "https://www.garrettmotion.com/knowledge-center-category/oem/basic/",
+      "publisher": "Garrett Motion",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Deux roues, un axe",
+      "text": "Le turbo contient une turbine et un compresseur. Ils sont reliés par un axe : quand la turbine tourne, elle entraîne le compresseur.",
+      "visual": {
+        "kind": "turbo",
+        "caption": "La turbine et le compresseur sont reliés par l’axe central.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Fais varier le flux",
+      "text": "Les gaz qui sortent du moteur entraînent la turbine. Fais varier le flux pour observer le mécanisme.",
+      "visual": {
+        "kind": "turbo",
+        "caption": "À gauche : gaz d’échappement. À droite : air envoyé vers le moteur.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Flux de gaz d’échappement",
+        "minLabel": "Faible",
+        "maxLabel": "Important",
+        "feedback": "Dans ce modèle simplifié, davantage de gaz entraîne plus vite les deux roues."
+      }
+    },
+    {
+      "id": "predire",
+      "title": "Trouve la source",
+      "text": "Quel flux fournit l’énergie qui entraîne la turbine ?",
+      "visual": {
+        "kind": "turbo",
+        "caption": "Les gaz d’échappement traversent la turbine.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Qu’est-ce qui entraîne la turbine ?",
+        "options": [
+          {
+            "id": "gaz",
+            "label": "Les gaz d’échappement",
+            "feedback": "Oui. Le turbo utilise une partie de l’énergie des gaz d’échappement."
+          },
+          {
+            "id": "air",
+            "label": "L’air qui entre dans le moteur",
+            "feedback": "L’air entrant est comprimé par l’autre roue. Les gaz d’échappement entraînent la turbine."
+          }
+        ],
+        "correctOptionId": "gaz",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Le moteur reçoit plus d’air",
+      "text": "Le compresseur pousse de l’air dans le moteur. Avec davantage d’oxygène, le moteur peut brûler davantage de carburant.",
+      "visual": {
+        "kind": "turbo",
+        "caption": "Deux circuits distincts : les gaz d’échappement et l’air d’admission.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi",
+      "title": "Si on retire l’axe…",
+      "text": "Les deux roues n’échangent pas leur gaz : elles se transmettent un mouvement.",
+      "visual": {
+        "kind": "turbo",
+        "caption": "L’axe transmet la rotation de la turbine au compresseur.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Sans l’axe, que perdrait le compresseur ?",
+        "options": [
+          {
+            "id": "mouvement",
+            "label": "Le mouvement transmis par la turbine",
+            "feedback": "Exact. L’axe relie mécaniquement les deux roues."
+          },
+          {
+            "id": "melange",
+            "label": "Le mélange des gaz d’échappement et de l’air",
+            "feedback": "Les deux flux restent séparés. L’axe transmet un mouvement."
+          }
+        ],
+        "correctOptionId": "mouvement",
+        "checkpoint": true
+      }
+    }
+  ]
+}

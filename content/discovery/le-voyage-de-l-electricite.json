@@ -1,0 +1,159 @@
+{
+  "slug": "le-voyage-de-l-electricite",
+  "version": 2,
+  "status": "published",
+  "title": "Comment l'électricité arrive-t-elle jusqu'à ta prise ?",
+  "summary": "Fais voyager l'électricité de la centrale à la maison et découvre pourquoi sa tension change en route.",
+  "domain": "Énergie",
+  "domainPath": "energie",
+  "minutes": 3,
+  "expandedPath": "/energie/reseaux-et-stockage/reseaux-electriques/comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise",
+  "objective": "Comprendre que la tension est élevée pour le transport sur de longues distances, puis abaissée par étapes avant d'arriver à la prise.",
+  "sources": [
+    {
+      "title": "Delivery to consumers",
+      "url": "https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php",
+      "publisher": "U.S. Energy Information Administration",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Le réseau haute et très haute tension en France et ses impacts",
+      "url": "https://www.senat.fr/rap/r08-307/r08-3071.html",
+      "publisher": "Sénat",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Enedis, gestionnaire du réseau de distribution d'électricité en France",
+      "url": "https://www.connaissancedesenergies.org/fiche-pedagogique/enedis-gestionnaire-du-reseau-de-distribution-delectricite-en-france",
+      "publisher": "Connaissance des Énergies",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Model of Conduction in Metals",
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/9-2-model-of-conduction-in-metals",
+      "publisher": "OpenStax",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Loin de chez toi",
+      "text": "Les centrales sont souvent loin des maisons. L’énergie électrique est acheminée par un réseau de lignes et de postes jusqu’à ta prise.",
+      "visual": {
+        "kind": "grid",
+        "caption": "Réseau français simplifié : les transformateurs changent la tension.",
+        "active": false,
+        "frame": 0
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Suis le réseau",
+      "text": "Déplace le curseur pour découvrir les étapes du réseau électrique.",
+      "visual": {
+        "kind": "grid",
+        "caption": "Réseau français simplifié : les transformateurs changent la tension.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Étape du réseau",
+        "minLabel": "Départ de la centrale",
+        "maxLabel": "Arrivée à la prise",
+        "feedback": "Des transformateurs changent la tension : très haute pour le transport, puis plus basse avant la maison. Le curseur suit les étapes du réseau, pas le trajet d’un même électron."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Pourquoi si haut ?",
+      "text": "En France, les grandes lignes fonctionnent jusqu'à 400 000 volts. Ta prise, elle, est à 230 volts.",
+      "visual": {
+        "kind": "grid",
+        "caption": "Réseau français simplifié : les transformateurs changent la tension.",
+        "active": true,
+        "frame": 2
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pourquoi élève-t-on la tension pour le grand voyage ?",
+        "options": [
+          {
+            "id": "pertes",
+            "label": "Le transport sur de longues distances devient plus efficace",
+            "feedback": "Exact. Pour la même puissance, une tension plus haute demande un courant plus faible, et les fils chauffent moins."
+          },
+          {
+            "id": "vitesse",
+            "label": "L'électricité va plus vite",
+            "feedback": "Ce n'est pas une question de vitesse. Une haute tension réduit les pertes pendant le long trajet."
+          },
+          {
+            "id": "danger",
+            "label": "Pour que les lignes soient moins dangereuses",
+            "feedback": "Au contraire, la haute tension est très dangereuse. On l'utilise parce qu'elle réduit les pertes."
+          }
+        ],
+        "correctOptionId": "pertes",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Redescendre par étapes",
+      "text": "Dans les postes, des transformateurs abaissent la tension. Le réseau de distribution passe autour de 20 000 volts, puis à 230 ou 400 volts pour les maisons et les commerces.",
+      "visual": {
+        "kind": "grid",
+        "caption": "Réseau français simplifié : les transformateurs changent la tension.",
+        "active": true,
+        "frame": 4
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Un réseau en équilibre",
+      "text": "L'électricité est consommée au moment où elle est produite. Le soir, beaucoup de gens allument en même temps.",
+      "visual": {
+        "kind": "grid",
+        "caption": "Réseau français simplifié : les transformateurs changent la tension.",
+        "active": true,
+        "frame": 4,
+        "scene": "balance"
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Que doit faire le réseau quand la consommation augmente d'un coup ?",
+        "options": [
+          {
+            "id": "ajuster",
+            "label": "Augmenter la production pour rester en équilibre",
+            "feedback": "Oui. Production et consommation doivent s'équilibrer à chaque instant. Un écart de fréquence sert de signal."
+          },
+          {
+            "id": "stocker",
+            "label": "Puiser l'électricité stockée dans les câbles",
+            "feedback": "Les câbles ne stockent pas l'électricité. Il faut produire davantage au même moment."
+          },
+          {
+            "id": "rien",
+            "label": "Rien : le réseau a toujours de l'électricité en trop",
+            "feedback": "Non, l'équilibre doit être tenu à chaque instant, sinon le réseau risque la panne."
+          }
+        ],
+        "correctOptionId": "ajuster",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "L'électricité monte en très haute tension pour voyager loin avec moins de pertes. Des transformateurs l'abaissent ensuite par étapes, jusqu'aux 230 volts de la prise.",
+      "visual": {
+        "kind": "grid",
+        "caption": "Réseau français simplifié : les transformateurs changent la tension.",
+        "active": true,
+        "frame": 4
+      }
+    }
+  ]
+}

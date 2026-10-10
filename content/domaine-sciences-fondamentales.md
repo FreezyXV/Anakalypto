@@ -3016,16 +3016,26 @@ sources:
     url: "https://www.britannica.com/science/Ohms-law"
     publisher: "Encyclopaedia Britannica"
     date: "2025"
+  - title: "20.2 Ohm's Law: Resistance and Simple Circuits"
+    url: "https://openstax.org/books/college-physics-2e/pages/20-2-ohms-law-resistance-and-simple-circuits"
+    publisher: "OpenStax — Rice University"
+  - title: "9.1 Electrical Current"
+    url: "https://openstax.org/books/university-physics-volume-2/pages/9-1-electrical-current"
+    publisher: "OpenStax — Rice University"
+  - title: "Ohm, Georg Simon"
+    url: "https://www.deutsche-biographie.de/pnd118736116.html"
+    publisher: "Neue Deutsche Biographie — Deutsche Biographie"
 quiz:
   - question: "Que représente la tension dans un circuit électrique ?"
     options:
       - "La quantité de charge qui circule chaque seconde"
-      - "La différence de charge électrique entre deux points, qui pousse le courant à circuler"
+      - "La différence de potentiel électrique entre deux points, qui met les charges en mouvement"
       - "La capacité d'un matériau à laisser passer le courant"
     answer: 2
     explanation: >
-      La tension, mesurée en volts, représente la différence de charge électrique entre deux
-      points d'un circuit, une force qui pousse les charges électriques à se déplacer.
+      La tension, mesurée en volts, est une différence de potentiel électrique entre deux points
+      d'un circuit. Une pile maintient une tension entre ses bornes, ce qui met les charges en
+      mouvement dans un circuit fermé.
   - question: "Selon la loi d'Ohm, que se passe-t-il si l'on augmente la résistance d'un
       circuit sans changer la tension ?"
     options:
@@ -3047,11 +3057,11 @@ Trois grandeurs suffisent à comprendre le fonctionnement de base de n'importe q
 électrique : la tension, le courant et la résistance. Une relation simple, découverte en 1827,
 relie ces trois notions entre elles.
 
-## La tension, la force qui pousse le courant
+## La tension, ce qui met les charges en mouvement
 
-La tension, mesurée en volts, représente une différence de charge électrique entre deux points
-d'un circuit. Cette différence agit comme une force qui pousse les charges électriques à se
-déplacer d'un point vers l'autre.
+La tension, mesurée en volts, est une différence de potentiel électrique entre deux points d'un
+circuit. Une pile, par exemple, maintient une tension entre ses deux bornes. Reliée à un circuit,
+cette tension crée un champ électrique dans les fils et met les charges électriques en mouvement.
 
 ## Le courant, le débit des charges électriques
 
@@ -3071,6 +3081,13 @@ Le physicien allemand Georg Simon Ohm a établi en 1827 que le courant est direc
 proportionnel à la tension et inversement proportionnel à la résistance. Connaître deux de ces
 trois valeurs permet toujours de calculer la troisième.
 
+## Un chemin fermé
+
+Pour que le courant circule, il faut un chemin fermé : un fil part d'une borne de la pile,
+traverse l'appareil, par exemple une lampe, et revient à l'autre borne. Si un interrupteur ouvre
+ce chemin à un seul endroit, le courant s'arrête dans tout le circuit et la lampe s'éteint. Par
+convention, on dessine le courant allant de la borne + vers la borne −, à l'extérieur de la pile.
+
 ## Une image utile pour comprendre
 
 Comparer un circuit électrique à un système de tuyaux d'eau aide à visualiser ces notions : la
@@ -3079,13 +3096,13 @@ résistance correspond à l'étroitesse du tuyau qui freine ce débit.
 
 ## À retenir
 
-- La tension, mesurée en volts, est la force qui pousse les charges électriques à circuler.
+- La tension, mesurée en volts, est une différence de potentiel qui met les charges électriques en mouvement.
 - Le courant, mesuré en ampères, est la quantité de charge qui circule chaque seconde.
 - La résistance, mesurée en ohms, freine plus ou moins le passage du courant selon le matériau.
 - La loi d'Ohm relie ces trois grandeurs : le courant est proportionnel à la tension et inverse
   à la résistance.
-- L'analogie d'un circuit d'eau, avec pression, débit et étroitesse du tuyau, aide à visualiser
-  ces notions.
+- Le courant ne circule que dans un chemin fermé : un interrupteur ouvert l'arrête dans tout le
+  circuit.
 
 [Emplacement image : circuit électrique simple avec une pile, un fil et une ampoule, annoté avec
 tension, courant et résistance, légende et texte alternatif à fournir ultérieurement.]
@@ -5409,6 +5426,18 @@ sources:
   - title: "Cycle de Calvin"
     url: "https://fr.wikipedia.org/wiki/Cycle_de_Calvin"
     publisher: "Wikipédia"
+  - title: "5.2 The Light-Dependent Reactions of Photosynthesis"
+    url: "https://openstax.org/books/concepts-biology/pages/5-2-the-light-dependent-reactions-of-photosynthesis"
+    publisher: "OpenStax — Rice University"
+  - title: "5.3 The Calvin Cycle"
+    url: "https://openstax.org/books/concepts-biology/pages/5-3-the-calvin-cycle"
+    publisher: "OpenStax — Rice University"
+  - title: "5.1 Overview of Photosynthesis"
+    url: "https://openstax.org/books/concepts-biology/pages/5-1-overview-of-photosynthesis"
+    publisher: "OpenStax — Rice University"
+  - title: "3.2 Carbohydrates"
+    url: "https://openstax.org/books/biology-2e/pages/3-2-carbohydrates"
+    publisher: "OpenStax — Rice University"
 quiz:
   - question: "D'où vient l'oxygène libéré par la photosynthèse ?"
     options:
@@ -7732,6 +7761,12 @@ sources:
   - title: "Savon"
     url: "https://fr.wikipedia.org/wiki/Savon"
     publisher: "Wikipédia"
+  - title: "27.2 Soap"
+    url: "https://openstax.org/books/organic-chemistry/pages/27-2-soap"
+    publisher: "OpenStax — Rice University"
+  - title: "Recherches chimiques sur les corps gras d'origine animale (1823), notice"
+    url: "https://wellcomecollection.org/works/u93ydsgv"
+    publisher: "Wellcome Collection"
 quiz:
   - question: "Avec quoi mélange-t-on l'huile pour fabriquer du savon ?"
     options:
@@ -7759,15 +7794,16 @@ quiz:
     explanation: >
       La queue de la molécule de savon aime la graisse et s'y accroche. La tête, elle,
       reste tournée vers l'eau.
-  - question: "Quel peuple savait déjà fabriquer une sorte de savon il y a environ 4 500 ans ?"
+  - question: "Que forment les molécules de savon autour d'une goutte de graisse ?"
     options:
-      - "Les Vikings"
-      - "Les Sumériens"
-      - "Les Aztèques"
+      - "Des cristaux qui font disparaître la graisse"
+      - "De petits groupes, les micelles, têtes tournées vers l'eau"
+      - "Des bulles de gaz qui brûlent la graisse"
     answer: 2
     explanation: >
-      Des tablettes d'argile sumériennes datées d'environ 2 500 ans avant notre ère
-      décrivent une recette de graisses et de cendres.
+      Les queues entourent la graisse et les têtes restent du côté de l'eau. Ces groupes,
+      les micelles, restent dispersés dans l'eau : la graisse est emportée au rinçage, pas
+      détruite.
 lastVerified: 2026-10-09
 status: published
 ---
@@ -7782,13 +7818,13 @@ Pour fabriquer du savon, il faut deux ingrédients. Le premier est un corps gras
 
 Quand on les mélange, une réaction chimique se produit : la saponification. Les graisses sont faites de molécules appelées triglycérides. Chacune réunit un morceau de glycérol et trois acides gras. La base casse ces molécules. On obtient du savon, d'un côté, et du glycérol, aussi appelé glycérine, de l'autre.
 
-Le chimiste français Michel-Eugène Chevreul a expliqué cette réaction en 1823. Avec la soude, on obtient des savons durs. Avec la potasse, on obtient des savons mous ou liquides.
+Le chimiste français Michel-Eugène Chevreul a publié en 1823 ses recherches sur les corps gras, qui expliquent cette réaction. Avec la soude, on obtient des savons durs. Avec la potasse, on obtient des savons mous ou liquides.
 
 ## À chaud ou à froid
 
-Dans l'industrie, on chauffe souvent le mélange entre 80 et 100 °C, parfois pendant plusieurs jours, dans de grands chaudrons. La chaleur accélère la réaction. On rince ensuite la pâte pour enlever la soude en trop. Le savon de Marseille et le savon d'Alep sont fabriqués ainsi.
+Dans la méthode traditionnelle, on chauffe le mélange dans de grands chaudrons : la chaleur accélère la réaction. On rince ensuite la pâte pour enlever la soude en trop.
 
-On peut aussi fabriquer du savon à froid, vers 40 à 50 °C. Il faut alors mesurer très exactement la quantité de soude.
+On peut aussi fabriquer du savon sans chauffage prolongé : c'est la saponification à froid. Il faut alors mesurer très exactement la quantité de soude.
 
 ## Comment le savon lave
 
@@ -7798,15 +7834,15 @@ Quand on se lave les mains, les queues des molécules de savon s'accrochent aux 
 
 ## Une recette très ancienne
 
-Les Sumériens, en Mésopotamie, connaissaient déjà la saponification. Des tablettes d'argile datées d'environ 2 500 ans avant notre ère décrivent une recette faite de graisses et de cendres bouillies. Les cendres de bois contiennent en effet de la potasse. Les Sumériens s'en servaient pour nettoyer la laine.
+Le savon est une invention très ancienne. Vers 2800 avant notre ère, à Babylone, en Mésopotamie, on faisait déjà bouillir des graisses avec des cendres pour obtenir une matière proche du savon. Les cendres de bois contiennent en effet de la potasse, une base. En Égypte, des papyrus médicaux datés d'environ 1550 avant notre ère décrivent un savon fait de graisses animales, d'huiles végétales et de sels alcalins.
 
 ## À retenir
 
 - Le savon se fabrique en mélangeant un corps gras avec une base forte, comme la soude ou la potasse.
 - Cette réaction s'appelle la saponification et produit aussi du glycérol.
-- Michel-Eugène Chevreul a expliqué la saponification en 1823.
+- Michel-Eugène Chevreul a publié en 1823 ses recherches sur les corps gras, qui expliquent la saponification.
 - Une molécule de savon a une queue qui aime la graisse et une tête qui aime l'eau.
-- Les Sumériens fabriquaient déjà une sorte de savon avec des graisses et des cendres il y a environ 4 500 ans.
+- Les molécules de savon entourent la graisse en micelles, qui restent dispersées dans l'eau et partent au rinçage.
 
 ---
 type: article

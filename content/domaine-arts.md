@@ -6726,6 +6726,18 @@ sources:
   - title: "Fresco"
     url: "https://en.wikipedia.org/wiki/Fresco"
     publisher: "Wikipedia"
+  - title: "Fresco — Art Term"
+    url: "https://www.tate.org.uk/art/art-terms/f/fresco"
+    publisher: "Tate"
+  - title: "Volta della Cappella Sistina"
+    url: "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta.html"
+    publisher: "Musei Vaticani"
+  - title: "Scrovegni Chapel"
+    url: "https://italia.it/en/veneto/padova/scrovegni-chapel"
+    publisher: "Italia.it — Agence nationale italienne du tourisme"
+  - title: "Building with Lime — Briefing Paper"
+    url: "https://asbp.org.uk/wp-content/uploads/2026/07/ASBP-Lime-Group-Briefing-Paper-Building-with-Lime.pdf"
+    publisher: "ASBP Lime Group"
 quiz:
   - question: "Que veut dire « a fresco » en italien ?"
     options:
@@ -6754,15 +6766,15 @@ quiz:
     explanation: >
       Le peintre n'enduit que la surface qu'il peut peindre avant que l'enduit sèche : la
       « giornata », la journée de travail.
-  - question: "Qui a peint le plafond de la chapelle Sixtine, de 1508 à 1512 ?"
+  - question: "Que devient une retouche peinte sur l'enduit déjà sec ?"
     options:
-      - "Léonard de Vinci"
-      - "Michel-Ange"
-      - "Picasso"
+      - "Elle est fixée par la chaux comme le reste"
+      - "Elle reste en surface et tient moins bien"
+      - "Elle rend l'enduit de nouveau frais"
     answer: 2
     explanation: >
-      Michel-Ange a peint à fresque le plafond de la chapelle Sixtine, à Rome, entre 1508
-      et 1512.
+      Sur l'enduit sec, la chaux a déjà réagi : elle n'emprisonne plus les nouveaux
+      pigments. Ces retouches « a secco » s'écaillent plus facilement.
 lastVerified: 2026-10-09
 status: published
 ---
@@ -6781,11 +6793,11 @@ En séchant, la chaux de l'enduit réagit avec le dioxyde de carbone de l'air. E
 
 ## Une course contre la montre
 
-L'enduit sèche en quelques heures. Le peintre n'en étale donc chaque jour que la surface qu'il peut peindre à temps, souvent de 1 à 4 mètres carrés. Cette portion s'appelle une « giornata », la journée de travail. Une erreur est presque impossible à corriger une fois l'enduit sec. Les couleurs aussi sont limitées : seuls certains pigments supportent la chaux sans s'abîmer. Les retouches faites après coup, sur l'enduit sec, s'appellent des peintures « a secco ». Elles tiennent beaucoup moins bien.
+L'enduit sèche en quelques heures. Le peintre n'en étale donc chaque jour que la surface qu'il peut peindre à temps. Cette portion s'appelle une « giornata », la journée de travail. Une erreur est presque impossible à corriger une fois l'enduit sec. Les couleurs aussi sont limitées : seuls certains pigments supportent la chaux sans s'abîmer. Les retouches faites après coup, sur l'enduit sec, s'appellent des peintures « a secco ». Elles tiennent beaucoup moins bien.
 
 ## Des chefs-d'œuvre sur les murs
 
-Des fresques ont été peintes en Crète vers 1700 avant notre ère. Les Grecs et les Romains en ont décoré leurs maisons. À la Renaissance, en Italie, la technique atteint un sommet. Giotto couvre de fresques une chapelle de Padoue. Michel-Ange peint le plafond de la chapelle Sixtine, à Rome, de 1508 à 1512. Après le XVIe siècle, la peinture à l'huile prend peu à peu la place de la fresque.
+En Italie, entre 1303 et 1305, Giotto couvre de fresques la chapelle des Scrovegni, à Padoue. Entre 1508 et 1512, Michel-Ange peint à fresque le plafond de la chapelle Sixtine, à Rome, à la demande du pape Jules II.
 
 ## À retenir
 

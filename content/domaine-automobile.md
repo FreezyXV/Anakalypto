@@ -7457,6 +7457,18 @@ sources:
   - title: "Moteur Diesel"
     url: "https://fr.wikipedia.org/wiki/Moteur_Diesel"
     publisher: "Wikipédia"
+  - title: "Four Stroke Internal Combustion Engine"
+    url: "https://www.grc.nasa.gov/www/k-12/airplane/engopt.html"
+    publisher: "NASA Glenn Research Center"
+  - title: "On Beau de Rochas' Engines — Part 1: Transcription from his 1862 handwritten mémoire"
+    url: "https://engrxiv.org/preprint/view/3003/version/4265"
+    publisher: "engrXiv — C. Naaktgeboren"
+  - title: "Nicolaus August Otto — Hall of Fame"
+    url: "https://www.aem.org/about/hall-of-fame/nicolaus-august-otto"
+    publisher: "Association of Equipment Manufacturers"
+  - title: "Glow plugs — Much more than just a starting aid"
+    url: "https://www.boschaftermarket.com/xrm/media/images/parts/glow_plugs_3/pdf_33/en_4/bosch_brochure_glow_plugs.pdf"
+    publisher: "Bosch"
 quiz:
   - question: "Dans quel ordre se suivent les quatre temps ?"
     options:
@@ -7486,13 +7498,14 @@ quiz:
       Un cycle à quatre temps demande deux tours complets de vilebrequin.
   - question: "Comment le carburant s'enflamme-t-il dans un moteur diesel ?"
     options:
-      - "Avec une bougie"
+      - "Avec l'étincelle d'une bougie d'allumage"
       - "Grâce à l'air très comprimé, devenu très chaud"
       - "Avec une flamme allumée en permanence"
     answer: 2
     explanation: >
-      Un diesel n'a pas de bougie : l'air y est si comprimé qu'il devient assez chaud pour
-      enflammer le gazole injecté.
+      Un diesel n'a pas de bougie d'allumage : l'air y est si comprimé qu'il devient assez
+      chaud pour enflammer le gazole injecté. Les bougies de préchauffage aident seulement
+      au démarrage à froid, sans étincelle.
 lastVerified: 2026-10-09
 status: published
 ---
@@ -7516,11 +7529,11 @@ Un cycle complet demande deux tours de vilebrequin. Les cylindres travaillent à
 
 ## Et le diesel ?
 
-Un moteur diesel suit les mêmes quatre temps, mais il n'a pas de bougie. L'air y est tellement comprimé qu'il devient très chaud. Le gazole s'enflamme tout seul dès qu'on l'injecte : c'est l'auto-allumage.
+Un moteur diesel suit les mêmes quatre temps, mais il n'a pas de bougie d'allumage qui fait une étincelle. L'air y est tellement comprimé qu'il devient très chaud. Le gazole s'enflamme tout seul dès qu'on l'injecte : c'est l'auto-allumage. Quand le moteur est froid, des bougies de préchauffage chauffent la chambre de combustion pour aider au démarrage. Elles chauffent, mais elles ne font pas d'étincelle.
 
 ## Une invention du XIXe siècle
 
-L'ingénieur français Alphonse Beau de Rochas a décrit le cycle à quatre temps en 1862. L'Allemand Nikolaus Otto a construit un moteur qui fonctionnait sur ce principe en 1876. Au début du XXIe siècle, ce moteur reste le plus utilisé dans les véhicules terrestres.
+L'ingénieur français Alphonse Beau de Rochas a décrit le cycle à quatre temps en 1862. L'Allemand Nikolaus Otto a construit en 1876 un moteur à quatre temps qui fonctionnait.
 
 ## À retenir
 
@@ -7528,7 +7541,7 @@ L'ingénieur français Alphonse Beau de Rochas a décrit le cycle à quatre temp
 - Seule la combustion-détente pousse le piston et fournit de la force.
 - La bielle et le vilebrequin transforment le va-et-vient du piston en rotation.
 - Un cycle complet demande deux tours de vilebrequin.
-- Un moteur diesel n'a pas de bougie : l'air comprimé, très chaud, enflamme le gazole.
+- Un moteur diesel n'a pas de bougie d'allumage : l'air comprimé, très chaud, enflamme le gazole.
 
 ---
 type: article
@@ -15887,6 +15900,15 @@ sources:
   - title: "Turbocharger"
     url: "https://en.wikipedia.org/wiki/Turbocharger"
     publisher: "Wikipedia"
+  - title: "How a turbo works — Basic"
+    url: "https://www.garrettmotion.com/knowledge-center-category/oem/basic/"
+    publisher: "Garrett Motion"
+  - title: "100 Years of Industrial Turbocharging"
+    url: "https://accelleron.com/charge-magazine/100-years-of-industrial-turbocharging"
+    publisher: "Accelleron"
+  - title: "Turbos for the Turnpike: The Turbocharged Oldsmobile F-85 Jetfire"
+    url: "https://ateupwithmotor.com/model-histories/sports-cars-muscle-cars/oldsmobile-f-85-jetfire/view-all/"
+    publisher: "Ate Up With Motor"
 quiz:
   - question: "Qu'est-ce qui fait tourner la turbine d'un turbocompresseur ?"
     options:
@@ -15896,7 +15918,7 @@ quiz:
     answer: 2
     explanation: >
       La turbine est placée dans le flux des gaz d'échappement. Ces gaz chauds et rapides
-      la font tourner sans prendre de force au moteur.
+      la font tourner. Le turbo récupère ainsi une partie de leur énergie.
   - question: "Pourquoi refroidit-on l'air avant qu'il entre dans le moteur ?"
     options:
       - "Un air froid contient plus d'oxygène pour le même volume"
@@ -15915,15 +15937,15 @@ quiz:
     explanation: >
       La turbine a besoin d'un instant pour prendre de la vitesse. Ce délai s'appelle le
       temps de réponse, ou lag en anglais.
-  - question: "En quelle année l'ingénieur suisse Alfred Büchi a-t-il obtenu son brevet sur le turbocompresseur ?"
+  - question: "À quoi sert la vanne de décharge d'un turbo ?"
     options:
-      - "1962"
-      - "1905"
-      - "1989"
+      - "À ajouter du carburant quand on accélère"
+      - "À laisser une partie des gaz contourner la turbine pour limiter la pression"
+      - "À refroidir l'huile du moteur"
     answer: 2
     explanation: >
-      Alfred Büchi a obtenu son brevet en novembre 1905. Les premières voitures de série à
-      turbo sont arrivées en 1962.
+      Une pression trop forte pourrait abîmer le moteur. La vanne de décharge laisse une
+      partie des gaz d'échappement passer à côté de la turbine.
 lastVerified: 2026-10-09
 status: published
 ---
@@ -15940,9 +15962,9 @@ Le turbocompresseur, souvent appelé « turbo », règle ce problème. Il pousse
 
 ## Deux roues sur le même axe
 
-Le turbo contient deux roues à ailettes reliées par un même axe. La première, la turbine, est placée dans le tuyau d'échappement. Les gaz chauds qui sortent du moteur la font tourner très vite, jusqu'à 250 000 tours par minute pour certains modèles.
+Le turbo contient deux roues à ailettes reliées par un même axe. La première, la turbine, est placée dans le tuyau d'échappement. Les gaz chauds qui sortent du moteur la font tourner très vite.
 
-La deuxième roue, le compresseur, est placée dans le conduit qui amène l'air au moteur. Elle tourne avec la turbine. Elle aspire l'air extérieur, le comprime et l'envoie dans les cylindres. Le turbo récupère ainsi l'énergie des gaz d'échappement, qui serait sinon perdue.
+La deuxième roue, le compresseur, est placée dans le conduit qui amène l'air au moteur. Elle tourne avec la turbine. Elle aspire l'air extérieur, le comprime et l'envoie dans les cylindres. Le turbo récupère ainsi une partie de l'énergie des gaz d'échappement, qui serait sinon perdue. Ce n'est pas tout à fait gratuit : la turbine gêne un peu la sortie des gaz et fait monter la pression à l'échappement.
 
 Comprimer l'air le chauffe. Or un air chaud contient moins d'oxygène qu'un air froid pour le même volume. Beaucoup de moteurs ont donc un échangeur, appelé intercooler, qui refroidit l'air avant son entrée dans le moteur.
 
@@ -15952,11 +15974,11 @@ Le turbo ne réagit pas tout de suite. Quand le conducteur accélère d'un coup,
 
 Une pression trop forte pourrait abîmer le moteur. Une soupape, appelée vanne de décharge, laisse alors une partie des gaz passer à côté de la turbine.
 
-## D'abord pour les avions
+## Un brevet de 1905
 
-L'ingénieur suisse Alfred Büchi a obtenu un brevet sur le turbocompresseur en novembre 1905. Les premiers turbos ont surtout servi aux avions. En altitude, l'air contient moins d'oxygène, et le turbo aidait les moteurs à garder leur puissance. Les premières voitures de série équipées d'un turbo sont sorties en 1962 aux États-Unis.
+En 1905, l'ingénieur suisse Alfred Büchi a déposé en Allemagne un brevet qui décrit déjà le principe du turbo : une turbine poussée par les gaz d'échappement et un compresseur placés sur le même axe. Les premières voitures de série équipées d'un turbo ont été mises en vente aux États-Unis en avril 1962.
 
-Aujourd'hui, le turbo permet de construire des moteurs plus petits mais aussi puissants que de gros moteurs. Les constructeurs appellent cette méthode le « downsizing ». Elle sert à réduire la consommation de carburant et la pollution.
+Aujourd'hui, grâce au turbo, un moteur de petite taille peut fournir plus de puissance qu'un moteur de même taille sans turbo.
 
 ## À retenir
 
@@ -15964,7 +15986,7 @@ Aujourd'hui, le turbo permet de construire des moteurs plus petits mais aussi pu
 - Sa turbine est entraînée par les gaz d'échappement et fait tourner un compresseur placé sur le même axe.
 - Un échangeur, l'intercooler, refroidit l'air comprimé, car un air froid contient plus d'oxygène.
 - Le turbo a un petit temps de réponse, appelé lag, quand on accélère d'un coup.
-- Alfred Büchi a breveté le turbo en 1905, et les premières voitures turbo de série datent de 1962.
+- Alfred Büchi a déposé en 1905 un brevet sur le principe du turbo ; les premières voitures turbo de série datent de 1962.
 
 ---
 type: article

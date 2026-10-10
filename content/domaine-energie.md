@@ -9279,6 +9279,18 @@ sources:
   - title: "Electrical grid"
     url: "https://en.wikipedia.org/wiki/Electrical_grid"
     publisher: "Wikipedia"
+  - title: "Le réseau haute et très haute tension en France et ses impacts"
+    url: "https://www.senat.fr/rap/r08-307/r08-3071.html"
+    publisher: "Sénat"
+  - title: "Enedis, gestionnaire du réseau de distribution d'électricité en France"
+    url: "https://www.connaissancedesenergies.org/fiche-pedagogique/enedis-gestionnaire-du-reseau-de-distribution-delectricite-en-france"
+    publisher: "Connaissance des Énergies"
+  - title: "Dossier du débat public THT Cotentin-Maine, chapitre 3"
+    url: "https://cpdp.debatpublic.fr/cpdp-tht-cotentin-maine/docs/pdf/dossier-mo/chapitre-3.pdf"
+    publisher: "RTE — Commission particulière du débat public"
+  - title: "Rapport de gestion 2024"
+    url: "https://assets.rte-france.com/prod/public/2025-03/2025-03-31-rapport-de-gestion-2024.PDF"
+    publisher: "RTE"
 quiz:
   - question: "Pourquoi élève-t-on la tension pour transporter l'électricité ?"
     options:
@@ -9332,9 +9344,11 @@ Un réseau électrique est un ensemble d'infrastructures qui transporte l'élect
 
 Dans les postes, des transformateurs abaissent la tension à chaque étape : lignes de transport, lignes de distribution, puis tension des prises. Les lignes de distribution portent une tension plus basse, plus sûre à utiliser dans les maisons et les entreprises. Le réseau de transport est maillé, avec des chemins de secours : selon la règle N-1, la perte d'un seul élément ne doit pas couper le courant.
 
+En France, le réseau de transport, géré par RTE, fonctionne entre 63 000 et 400 000 volts. Selon son rapport de gestion 2024, RTE exploite environ 106 000 kilomètres de lignes aériennes et souterraines. Le réseau de distribution, géré surtout par Enedis, prend le relais : d'abord entre 15 000 et 30 000 volts, puis 230 ou 400 volts pour les maisons et les commerces.
+
 ## Un équilibre à tenir à chaque seconde
 
-La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité est consommée au moment où elle est produite. Tous les générateurs tournent à la même fréquence, différente en Europe et en Amérique du Nord, et un écart de fréquence sert de signal pour ajuster la production. Relier de grandes régions permet de mutualiser la production, de baisser les coûts et de s'entraider.
+La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité est consommée au moment où elle est produite. Sur un même grand réseau, tous les alternateurs produisent un courant à la même fréquence, différente en Europe et en Amérique du Nord, et un écart de fréquence sert de signal pour ajuster la production. Relier de grandes régions permet de mutualiser la production, de baisser les coûts et de s'entraider.
 
 ## À retenir
 

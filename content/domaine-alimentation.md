@@ -15481,6 +15481,18 @@ sources:
   - title: "Pain"
     url: "https://fr.wikipedia.org/wiki/Pain"
     publisher: "Wikipédia"
+  - title: "Le monde des pains au levain"
+    url: "https://www.espace-sciences.org/sciences-ouest/338/dossier/le-monde-des-pains-au-levain"
+    publisher: "Espace des sciences — Sciences Ouest"
+  - title: "Thank gluten's complex chemistry for your light, fluffy baked goods"
+    url: "https://theconversation.com/thank-glutens-complex-chemistry-for-your-light-fluffy-baked-goods-216869"
+    publisher: "The Conversation — K. Nolin, University of Richmond"
+  - title: "Twann, Bahnhof (CH-BE-07)"
+    url: "https://vitrine.palafittes.org/fundstelle-en.html?sid=128"
+    publisher: "Palafittes — Sites palafittiques préhistoriques autour des Alpes"
+  - title: "Domestication de la levure pour faire du pain"
+    url: "https://www.inrae.fr/actualites/domestication-levure-faire-du-pain"
+    publisher: "INRAE"
 quiz:
   - question: "Quel gaz rejeté par les levures fait gonfler la pâte ?"
     options:
@@ -15527,7 +15539,7 @@ Le levain est un mélange de farine et d'eau où vivent des levures sauvages et 
 
 ## Un petit zoo dans un bocal
 
-Le levain est un mélange de farine et d'eau dans lequel vivent des êtres microscopiques : des levures sauvages et des bactéries lactiques. Les scientifiques y ont compté plus de 50 espèces de lactobacilles et une vingtaine d'espèces de levures. Pour rester vivant, le levain doit être nourri régulièrement avec de la farine et de l'eau fraîches. Les boulangers disent qu'ils le « rafraîchissent ».
+Le levain est un mélange de farine et d'eau dans lequel vivent des êtres microscopiques : des levures sauvages et des bactéries lactiques. Les bactéries y sont dix à cent fois plus nombreuses que les levures. L'une d'elles, Lactobacillus sanfranciscensis, se trouve dans la majorité des levains français. Pour rester vivant, le levain doit être nourri régulièrement avec de la farine et de l'eau fraîches. Les boulangers disent qu'ils le « rafraîchissent ».
 
 ## Des bulles et de l'acide
 
@@ -15543,7 +15555,7 @@ La cuisson tue les levures et les bactéries. L'alcool s'évapore. Les bulles ch
 
 ## Une très vieille recette
 
-Les premières images de levain datent de l'Ancien Empire égyptien. L'un des plus vieux pains au levain connus date d'environ 3700 avant notre ère : il a été retrouvé en Suisse. Aujourd'hui, beaucoup de pains sont faits avec de la levure de boulanger, une seule espèce de levure qui agit plus vite que le levain.
+Le plus ancien pain au levain conservé en Europe a été retrouvé à Twann, en Suisse, dans un ancien village construit au bord d'un lac. Il date de 3560 à 3530 avant notre ère. Aujourd'hui, beaucoup de pains sont faits avec de la levure de boulanger, qui ne contient qu'une seule espèce de levure.
 
 ## À retenir
 
@@ -15551,7 +15563,7 @@ Les premières images de levain datent de l'Ancien Empire égyptien. L'un des pl
 - Les levures rejettent du dioxyde de carbone, dont les bulles font gonfler la pâte.
 - Les bactéries produisent des acides qui donnent au pain son goût un peu aigre et l'aident à se conserver.
 - La cuisson tue les microbes et fait évaporer l'alcool.
-- Le pain au levain existe depuis l'Égypte ancienne.
+- Le plus ancien pain au levain conservé en Europe, trouvé en Suisse, a plus de 5 500 ans.
 
 ---
 type: article

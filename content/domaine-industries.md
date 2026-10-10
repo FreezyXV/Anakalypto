@@ -11193,6 +11193,15 @@ sources:
   - title: "Pulp (paper)"
     url: "https://en.wikipedia.org/wiki/Pulp_(paper)"
     publisher: "Wikipedia"
+  - title: "Paper processes — Paper machine"
+    url: "https://techniques-ingenieur.fr/en/resources/article/ti452/paper-processes-j6902/v1"
+    publisher: "Techniques de l'Ingénieur"
+  - title: "AP-42, chapitre 10.2, Chemical Wood Pulping"
+    url: "https://www.epa.gov/sites/default/files/2020-10/documents/c10s02.pdf"
+    publisher: "U.S. Environmental Protection Agency"
+  - title: "US Patent 7,537,674, Closed floatation de-inking module for recycled paper"
+    url: "https://patents.google.com/patent/US7537674B1/en"
+    publisher: "United States Patent Office (via Google Patents)"
 quiz:
   - question: "De quoi est fait le papier ?"
     options:
@@ -11221,15 +11230,15 @@ quiz:
     explanation: >
       La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensuite retirée
       par pressage, aspiration, vide ou chauffage.
-  - question: "Qui est attribuée l'invention du papier ?"
+  - question: "Comment recycle-t-on de vieux papiers ?"
     options:
-      - "À Gutenberg"
-      - "À Léonard de Vinci"
-      - "À Cai Lun, en Chine"
-    answer: 3
+      - "On les fait fondre comme du plastique"
+      - "On les remet en pâte dans l'eau et on retire l'encre"
+      - "On les colle les uns sur les autres"
+    answer: 2
     explanation: >
-      On attribue l'invention du papier à Cai Lun, un fonctionnaire chinois de la dynastie Han,
-      qui utilisait de l'écorce de mûrier, de vieux filets, des chiffons et du chanvre.
+      Les vieux papiers sont remis en pâte dans de l'eau, puis désencrés. Leurs fibres de
+      cellulose servent à fabriquer une nouvelle feuille.
 lastVerified: 2026-09-30
 status: published
 ---
@@ -11240,15 +11249,15 @@ Le papier est fait de fibres de cellulose mises en suspension dans l'eau. Le boi
 
 ## Des fibres de bois
 
-Le papier est fait de fibres de cellulose, souvent tirées du bois, mises en suspension dans l'eau. Le bois est réduit en pâte, par un procédé mécanique ou chimique ; le procédé kraft, très répandu, sépare la cellulose de la lignine. La pâte mécanique garde la lignine : ses fibres sont plus faibles, mais elle utilise mieux le bois. Le blanchiment moderne évite le chlore et emploie plutôt du dioxyde de chlore, de l'oxygène, de l'ozone ou de l'eau oxygénée.
+Le papier est fait de fibres de cellulose, souvent tirées du bois, mises en suspension dans l'eau. Le bois est réduit en pâte, par un procédé mécanique ou chimique ; le procédé kraft, très répandu, sépare la cellulose de la lignine. La pâte mécanique garde la lignine : ses fibres sont plus faibles, mais elle utilise mieux le bois.
 
 ## De la pâte à la feuille
 
-La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensuite retirée par pressage, aspiration, vide ou chauffage. La feuille est séchée sur des cylindres chauffés, puis éventuellement lissée au calandrage. De très grandes machines produisent la feuille en continu, à grande vitesse. La machine à papier de type Fourdrinier produit un rouleau continu au lieu de feuilles séparées.
+La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensuite retirée par pressage, aspiration, vide ou chauffage. La feuille est séchée sur des cylindres chauffés, puis éventuellement lissée au calandrage. À la sortie de la machine, elle ne contient plus que 4 à 9 % d'eau et elle est enroulée en bobines. De très grandes machines produisent la feuille en continu, à grande vitesse. La machine à papier de type Fourdrinier produit un rouleau continu au lieu de feuilles séparées.
 
-## Une longue histoire
+## Une seconde vie pour les fibres
 
-On attribue l'invention du papier à Cai Lun, un fonctionnaire chinois de la dynastie Han, qui utilisait de l'écorce de mûrier, de vieux filets, des chiffons et du chanvre. Pendant près de deux mille ans, les chiffons ont été la principale source de fibres, avant l'arrivée de la pâte de bois. Les vieux papiers sont broyés dans l'eau, désencrés et purifiés par des lavages successifs. La fabrication du papier demande beaucoup d'eau et des produits chimiques, et le bois vient de forêts, ce qui soulève des questions environnementales.
+Les vieux papiers peuvent redevenir du papier. On les remet en pâte dans de l'eau, puis on détache l'encre des fibres : c'est le désencrage. La pâte obtenue refait ensuite le même trajet sur la machine. La fabrication du papier demande beaucoup d'eau et des produits chimiques, et le bois vient de forêts, ce qui soulève des questions environnementales.
 
 ## À retenir
 
@@ -11256,7 +11265,7 @@ On attribue l'invention du papier à Cai Lun, un fonctionnaire chinois de la dyn
 - Le bois est réduit en pâte, par un procédé mécanique ou chimique ; le procédé kraft sépare la cellulose de la lignine.
 - La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensuite retirée par pressage, aspiration, vide ou chauffage.
 - La feuille est séchée sur des cylindres chauffés, puis éventuellement lissée au calandrage.
-- Les vieux papiers sont broyés dans l'eau, désencrés et purifiés par des lavages successifs.
+- Pour recycler les vieux papiers, on les remet en pâte dans l'eau, puis on retire l'encre.
 
 ---
 type: article

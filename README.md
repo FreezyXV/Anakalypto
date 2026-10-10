@@ -9,10 +9,25 @@ droit et institutions, géographie, arts et culture, communication et médias, s
 au public curieux à partir de dix ans. Chaque article est rédigé de manière originale,
 cite ses sources et indique la date de leur dernière vérification.
 
-État actuel du corpus : 297 catégories sur trois niveaux, 274 articles publiés, 548 sources
-citées et 548 questions de quiz. Les articles visent un lectorat à partir de dix ans : chacun
-s'ouvre sur une section `## En bref`, se ferme sur `## À retenir`, et se termine par un quiz de
-deux questions.
+État du corpus au 10 octobre 2026 : 299 catégories sur trois niveaux, 896 articles publiés dans
+les dix-neuf domaines, 2 212 sources citées et 2 646 questions de quiz. S'y ajoutent 11 619 sujets
+planifiés, présents dans les fichiers mais non publiés. Les articles visent un lectorat à partir de
+dix ans : chacun s'ouvre sur une section `## En bref`, se ferme sur `## À retenir`, et se termine
+par un quiz de deux à quatre questions.
+
+Un second format, **Découvrir**, propose des expériences courtes : quelques étapes, une
+manipulation et deux défis de compréhension, avec un lien vers l'article complet. Quinze
+découvertes sont écrites dans `content/discovery/` (trois pilotes et douze scénarios), toutes au
+statut `published` et liées à un article publié. Ce format est disponible en développement local
+sur `/decouvrir` ; il n'est pas encore déployé en production. Le contrat de données est décrit
+dans `docs/collaboration/DISCOVERY_CONTRACT.md`, l'audit éditorial associé dans
+`docs/EDITORIAL_REVIEW.md`.
+
+Le moteur visuel propose aussi des chaînes bouclées, des points d’arrêt explicites et un piston
+animé par curseur pour les quatre temps. L’intégration de la livraison Claude et les limites du
+rendu sont documentées dans `docs/collaboration/INTEGRATION_CLAUDE.md`.
+Les quinze découvertes disposent désormais chacune d’un schéma propre au sujet ; onze composants
+supplémentaires et leurs scènes de transfert sont décrits dans `docs/collaboration/VISUAL_DELIVERY.md`.
 
 ## Sommaire
 
@@ -329,11 +344,13 @@ retenu, 0,45, a été mesuré sur le corpus ; les rapprochements fortuits y plaf
 
 ## Déploiement sur Vercel et Neon
 
-> **État au 23 septembre 2026.** Le site est en production sur
+> **État au 10 octobre 2026.** Le site est en production sur
 > **https://anakalypto.vercel.app**, servi depuis la branche `main` du dépôt
 > `FreezyXV/Anakalypto`, avec déploiement automatique à chaque `push`. La base Neon du projet
-> `bitter-recipe-44728859`, branche `production`, est migrée et peuplée : 297 catégories,
-> 274 articles, 983 étiquettes, 548 sources, 548 questions de quiz, 532 liens. La procédure ci-dessous reste la
+> `bitter-recipe-44728859`, branche `production`, a été importée le 10 octobre 2026 : 299
+> catégories, 12 515 articles dont 896 publiés, 1 396 étiquettes, 2 192 sources, 2 646 questions
+> de quiz, 795 liens. Les corrections éditoriales du 10 octobre et le format Découvrir ne sont pas
+> encore importés ni déployés. La procédure ci-dessous reste la
 > référence pour reproduire ce déploiement, sur un autre environnement ou après une rotation
 > d'identifiants. Le déroulé effectif est consigné dans `OPERATIONS_LOG.md`.
 

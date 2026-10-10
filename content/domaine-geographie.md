@@ -4396,15 +4396,25 @@ sources:
   - title: "Force de Coriolis"
     url: "https://fr.wikipedia.org/wiki/Force_de_Coriolis"
     publisher: "Wikipédia"
+  - title: "Hurricanes"
+    url: "https://www.noaa.gov/education/resource-collections/weather-atmosphere/hurricanes"
+    publisher: "NOAA"
+  - title: "Tropical Cyclone FAQ"
+    url: "https://www.aoml.noaa.gov/hrd-faq/"
+    publisher: "NOAA Atlantic Oceanographic and Meteorological Laboratory"
+  - title: "Saffir-Simpson Hurricane Wind Scale"
+    url: "https://www.nhc.noaa.gov/aboutsshws.php"
+    publisher: "NOAA National Hurricane Center"
 quiz:
-  - question: "Quelle température doit dépasser la mer pour qu'un cyclone se forme ?"
+  - question: "Pourquoi un cyclone ne se forme-t-il presque jamais sur l'équateur ?"
     options:
-      - "10 °C"
-      - "26,5 °C"
-      - "50 °C"
+      - "La mer y est trop froide"
+      - "La force liée à la rotation de la Terre y est presque nulle"
+      - "Il n'y a jamais de nuages à l'équateur"
     answer: 2
     explanation: >
-      La mer doit dépasser 26,5 °C jusqu'à une profondeur d'au moins 60 mètres.
+      La rotation de la Terre fait tourner l'air qui converge vers la tempête. Sur
+      l'équateur, cet effet est presque nul ; la mer, elle, y est souvent chaude.
   - question: "D'où vient l'énergie d'un cyclone ?"
     options:
       - "Des volcans sous-marins"
@@ -4430,8 +4440,8 @@ quiz:
       - "Il gèle"
     answer: 2
     explanation: >
-      Sur terre ou sur une mer froide, le cyclone perd sa source de vapeur chaude et
-      faiblit vite.
+      Sur terre ou sur une mer froide, le cyclone est coupé de l'air chaud et humide qui
+      le nourrit, et il s'affaiblit peu à peu.
 lastVerified: 2026-10-09
 status: published
 ---
@@ -4444,14 +4454,14 @@ Un cyclone se forme quand la mer dépasse 26,5 °C. L'eau qui s'évapore puis se
 
 Un cyclone tropical a besoin de plusieurs conditions en même temps :
 
-- une mer à plus de 26,5 °C, jusqu'à au moins 60 mètres de profondeur ;
+- une mer chaude, à plus de 26,5 °C environ en surface, et chaude sur une cinquantaine de mètres de profondeur ;
 - de l'air humide en altitude ;
 - un vent qui change peu de force et de direction avec l'altitude ;
-- une distance suffisante de l'équateur, car un cyclone se forme rarement à moins de 10 degrés de latitude.
+- une distance suffisante de l'équateur, en général plusieurs centaines de kilomètres, car la force qui fait tourner la tempête y est presque nulle.
 
 ## Un moteur à vapeur d'eau
 
-L'eau chaude de la mer s'évapore. L'air humide monte, se refroidit, et la vapeur se change en gouttes : d'énormes nuages d'orage se forment. En se condensant, la vapeur libère de la chaleur. Cette chaleur réchauffe le cœur de la tempête de 15 à 20 °C de plus que l'air autour. L'air chaud monte encore plus vite et aspire l'air de la surface. Tant que la mer reste chaude, la machine continue.
+L'eau chaude de la mer s'évapore. L'air humide monte, se refroidit, et la vapeur se change en gouttes : d'énormes nuages d'orage se forment. En se condensant, la vapeur libère de la chaleur. Cette chaleur réchauffe le cœur de la tempête. L'air chaud monte encore plus vite et aspire l'air de la surface. Tant que la mer reste chaude, la machine continue.
 
 ## L'œil et le mur
 
@@ -4459,7 +4469,7 @@ La rotation de la Terre fait tourner l'air qui converge vers le centre : c'est l
 
 ## Ouragan, typhon ou cyclone
 
-On parle de cyclone tropical quand les vents dépassent environ 118 km/h. Le nom change selon l'océan : ouragan dans l'Atlantique nord et le nord-est du Pacifique, typhon dans le nord-ouest du Pacifique, cyclone ailleurs. Dans l'Atlantique nord, l'échelle de Saffir-Simpson les classe de 1 à 5. Sur terre ou au-dessus d'une mer plus froide, le cyclone perd son carburant et faiblit vite.
+On parle de cyclone tropical quand les vents dépassent environ 118 km/h. Le nom change selon l'océan : ouragan dans l'Atlantique nord et le nord-est du Pacifique, typhon dans le nord-ouest du Pacifique, cyclone ailleurs. Pour les ouragans de l'Atlantique et du nord-est du Pacifique, l'échelle de Saffir-Simpson les classe de 1 à 5, d'après la vitesse maximale du vent. Sur terre ou au-dessus d'une mer plus froide, le cyclone est coupé de l'air chaud et humide qui le nourrit : il s'affaiblit peu à peu.
 
 ## À retenir
 

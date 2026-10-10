@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+header[data-discovery="true"] .header-search,
+header[data-discovery="true"] .header-mobile {
+  display: none;
+}
+
 /*
  * Anakalypto - systeme visuel
  *

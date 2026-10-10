@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
-import { Archivo, Spectral } from "next/font/google";
+import { Spectral } from "next/font/google";
+import localFont from "next/font/local";
 
 import { BackToTop } from "@/components/BackToTop";
 import { SiteFooter } from "@/components/SiteFooter";
@@ -18,9 +19,10 @@ const spectral = Spectral({
 });
 
 // Archivo porte l'appareil de navigation, nettement distinct du texte courant.
-const archivo = Archivo({
-  subsets: ["latin", "latin-ext"],
-  weight: ["400", "500", "600", "700", "800"],
+// Archivo's upstream CSS contains query-based font URLs that the current loader rejects.
+const archivo = localFont({
+  src: "./fonts/Archivo.ttf",
+  weight: "100 900",
   variable: "--font-archivo",
   display: "swap",
 });

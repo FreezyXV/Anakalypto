@@ -1,0 +1,163 @@
+{
+  "slug": "les-quatre-temps",
+  "version": 3,
+  "status": "published",
+  "title": "Pourquoi un moteur a-t-il besoin de quatre temps ?",
+  "summary": "Fais avancer un piston temps par temps et repère le seul moment où il est poussé.",
+  "domain": "Automobile",
+  "domainPath": "automobile",
+  "minutes": 3,
+  "expandedPath": "/automobile/motorisations/thermique/comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement",
+  "objective": "Comprendre que seul le temps de combustion-détente pousse le piston ; les trois autres préparent ou vident le cylindre.",
+  "sources": [
+    {
+      "title": "Four Stroke Internal Combustion Engine",
+      "url": "https://www.grc.nasa.gov/www/k-12/airplane/engopt.html",
+      "publisher": "NASA Glenn Research Center",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Bosch glow plugs — Much more than just a starting aid",
+      "url": "https://www.boschaftermarket.com/xrm/media/images/parts/glow_plugs_3/pdf_33/en_4/bosch_brochure_glow_plugs.pdf",
+      "publisher": "Bosch Mobility Aftermarket",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Un piston dans un cylindre",
+      "text": "Dans chaque cylindre, un piston monte et descend. Il est relié au vilebrequin, qui transforme ce va-et-vient en rotation. Un cycle complet demande deux tours.",
+      "visual": {
+        "kind": "piston",
+        "caption": "Moteur à essence schématisé : deux soupapes, une bougie, un piston et un vilebrequin. Les ouvertures sont idéalisées.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Fais tourner le cycle",
+      "text": "Déplace le curseur pour avancer dans le cycle.",
+      "visual": {
+        "kind": "piston",
+        "caption": "Moteur à essence simplifié : deux tours pour un cycle complet.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Avancement du cycle",
+        "minLabel": "Début du cycle",
+        "maxLabel": "Fin du cycle",
+        "feedback": "Le piston descend à l’admission et à la détente, puis monte à la compression et à l’échappement. Seule la détente fournit le travail moteur."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Le seul temps moteur",
+      "text": "Un seul des quatre temps fournit le travail moteur : les gaz chauds poussent alors le piston.",
+      "visual": {
+        "kind": "piston",
+        "caption": "Moteur à essence schématisé : deux soupapes, une bougie, un piston et un vilebrequin. Les ouvertures sont idéalisées.",
+        "active": false,
+        "phase": 2
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Dans un moteur à quatre temps, quel temps fournit la force ?",
+        "options": [
+          {
+            "id": "combustion",
+            "label": "La combustion-détente",
+            "feedback": "Exact. Les gaz chauds poussent le piston vers le bas : c'est le seul temps qui fournit du travail."
+          },
+          {
+            "id": "compression",
+            "label": "La compression",
+            "feedback": "Pendant la compression, le piston serre le mélange : il reçoit de l'énergie au lieu d'en fournir."
+          },
+          {
+            "id": "admission",
+            "label": "L'admission",
+            "feedback": "Pendant l'admission, le piston aspire le mélange. La force vient plus tard, à la combustion."
+          }
+        ],
+        "correctOptionId": "combustion",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Pourquoi les autres temps ?",
+      "text": "L'admission remplit le cylindre, la compression prépare une combustion efficace, l'échappement vide les gaz brûlés. Sans eux, le temps moteur ne pourrait pas recommencer.",
+      "visual": {
+        "kind": "flow",
+        "caption": "Les quatre temps forment un cycle.",
+        "labels": [
+          "Admission",
+          "Compression",
+          "Combustion-détente",
+          "Échappement"
+        ],
+        "active": true,
+        "loop": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Et sans bougie ?",
+      "text": "Un moteur diesel n’utilise pas de bougie d’allumage. Il peut avoir des bougies de préchauffage, utiles au démarrage à froid.",
+      "visual": {
+        "kind": "flow",
+        "caption": "Le diesel suit les mêmes quatre temps.",
+        "labels": [
+          "Admission",
+          "Compression",
+          "Combustion-détente",
+          "Échappement"
+        ],
+        "active": true,
+        "loop": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Comment le gazole s'enflamme-t-il dans un moteur diesel ?",
+        "options": [
+          {
+            "id": "chaleur",
+            "label": "L'air très comprimé est assez chaud pour l'enflammer",
+            "feedback": "Oui. C'est l'auto-allumage : l'air est tellement comprimé qu'il devient très chaud."
+          },
+          {
+            "id": "flamme",
+            "label": "Une petite flamme reste allumée en permanence",
+            "feedback": "Non. Il n'y a pas de flamme permanente : c'est la chaleur de l'air comprimé qui enflamme le gazole."
+          },
+          {
+            "id": "pile",
+            "label": "Une bougie d’allumage crée une étincelle à chaque cycle",
+            "feedback": "Une bougie d’allumage crée une étincelle. Les bougies de préchauffage du diesel chauffent sans en produire."
+          }
+        ],
+        "correctOptionId": "chaleur",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Admission, compression, combustion-détente, échappement : seul le troisième temps pousse le piston. Les autres préparent ou vident le cylindre.",
+      "visual": {
+        "kind": "flow",
+        "caption": "Le cycle complet des quatre temps.",
+        "labels": [
+          "Admission",
+          "Compression",
+          "Combustion-détente",
+          "Échappement"
+        ],
+        "active": true,
+        "loop": true
+      }
+    }
+  ]
+}

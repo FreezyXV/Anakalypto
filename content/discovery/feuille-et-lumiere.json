@@ -1,0 +1,137 @@
+{
+  "slug": "feuille-et-lumiere",
+  "version": 3,
+  "status": "published",
+  "title": "Comment une feuille fabrique-t-elle du sucre avec la lumière ?",
+  "summary": "Éclaire une feuille et suis la chaîne qui transforme l'eau et le dioxyde de carbone en sucre.",
+  "domain": "Sciences fondamentales",
+  "domainPath": "sciences-fondamentales",
+  "minutes": 3,
+  "expandedPath": "/sciences-fondamentales/biologie/cellule/comment-une-feuille-fabrique-t-elle-du-sucre-avec-de-la-lumiere",
+  "objective": "Comprendre que la lumière fournit l'énergie qui casse l'eau, libère l'oxygène et permet de fabriquer du sucre.",
+  "sources": [
+    {
+      "title": "5.2 The Light-Dependent Reactions of Photosynthesis",
+      "url": "https://openstax.org/books/concepts-biology/pages/5-2-the-light-dependent-reactions-of-photosynthesis",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "5.3 The Calvin Cycle",
+      "url": "https://openstax.org/books/concepts-biology/pages/5-3-the-calvin-cycle",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Une feuille, de l'eau et de l'air",
+      "text": "Une feuille contient de l'eau, venue des racines, et du dioxyde de carbone, venu de l'air. Avec ces deux ingrédients, elle peut fabriquer du sucre. Mais il lui manque encore quelque chose.",
+      "visual": {
+        "kind": "photosynthesis",
+        "caption": "Deux trajets distincts dans une feuille : eau vers O₂, carbone du CO₂ vers sucre.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Allume la lumière",
+      "text": "La chlorophylle, le pigment vert des feuilles, capte la lumière. Essaie avec et sans lumière.",
+      "visual": {
+        "kind": "photosynthesis",
+        "caption": "Deux trajets distincts dans une feuille : eau vers O₂, carbone du CO₂ vers sucre.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Éclairer la feuille",
+        "onLabel": "Feuille éclairée",
+        "offLabel": "Feuille dans le noir",
+        "onFeedback": "La chlorophylle capte la lumière. Son énergie casse l'eau et la chaîne avance jusqu'au sucre.",
+        "offFeedback": "Dans le noir, les réactions utilisant la lumière s’arrêtent. La fabrication de sucre ne peut pas durer une fois les réserves d’énergie épuisées."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "D'où vient l'oxygène ?",
+      "text": "Une plante éclairée rejette de l’oxygène. Observe le trajet de l’eau dans le dessin.",
+      "visual": {
+        "kind": "photosynthesis",
+        "caption": "Deux trajets distincts dans une feuille : eau vers O₂, carbone du CO₂ vers sucre.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "D'où vient l'oxygène que rejette la plante ?",
+        "options": [
+          {
+            "id": "eau",
+            "label": "De l'eau, cassée grâce à l'énergie de la lumière",
+            "feedback": "Exact. L'énergie de la lumière casse des molécules d'eau, ce qui libère l'oxygène."
+          },
+          {
+            "id": "co2",
+            "label": "Du dioxyde de carbone absorbé par la feuille",
+            "feedback": "C'est une idée fréquente, mais non : le carbone du CO₂ sert à fabriquer le sucre. L'oxygène libéré vient de l'eau."
+          }
+        ],
+        "correctOptionId": "eau",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Des piles chargées",
+      "text": "L'énergie de la lumière est rangée dans deux molécules, l'ATP et le NADPH. Elles servent ensuite à accrocher le carbone de l'air pour assembler du sucre : c'est le cycle de Calvin.",
+      "visual": {
+        "kind": "photosynthesis",
+        "caption": "Deux trajets distincts dans une feuille : eau vers O₂, carbone du CO₂ vers sucre.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Et dans un placard ?",
+      "text": "Imagine une plante enfermée plusieurs jours dans un placard sans lumière.",
+      "visual": {
+        "kind": "photosynthesis",
+        "caption": "Deux trajets distincts dans une feuille : eau vers O₂, carbone du CO₂ vers sucre.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Une plante reste plusieurs jours dans un placard noir. Que devient sa fabrication de sucre ?",
+        "options": [
+          {
+            "id": "arret",
+            "label": "Elle s'arrête, car il n'y a plus d'énergie lumineuse",
+            "feedback": "Oui. Sans lumière, la chlorophylle ne fournit plus d'énergie, et la plante ne fabrique plus de sucre."
+          },
+          {
+            "id": "normal",
+            "label": "Elle continue : l'eau et l'air suffisent",
+            "feedback": "L'eau et le CO₂ sont les matières premières, mais sans lumière il manque l'énergie pour les transformer."
+          },
+          {
+            "id": "plus",
+            "label": "Elle va plus vite, car la plante se repose",
+            "feedback": "Non : la fabrication de sucre dépend de la lumière. Dans le noir, elle s'arrête."
+          }
+        ],
+        "correctOptionId": "arret",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "La lumière fournit l'énergie. Elle casse l'eau, ce qui libère l'oxygène, puis l'énergie stockée sert à fabriquer du sucre avec le carbone de l'air.",
+      "visual": {
+        "kind": "photosynthesis",
+        "caption": "Deux trajets distincts dans une feuille : eau vers O₂, carbone du CO₂ vers sucre.",
+        "active": true
+      }
+    }
+  ]
+}

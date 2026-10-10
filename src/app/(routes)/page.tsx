@@ -18,8 +18,8 @@ const STEPS = [
   {
     head: "--pop-blue",
     on: "#ffffff",
-    title: "1. Lis en cartes",
-    text: "Chaque leçon se découpe en petites étapes illustrées, à faire défiler comme sur un téléphone.",
+    title: "1. Essaie",
+    text: "Commence par une découverte courte : manipule un schéma et observe ce qui change.",
   },
   {
     head: "--pop-orange",
@@ -30,8 +30,8 @@ const STEPS = [
   {
     head: "--pop-green",
     on: "#ffffff",
-    title: "3. Vérifie",
-    text: "Chaque leçon cite ses sources et la date à laquelle elles ont été vérifiées.",
+    title: "3. Approfondis",
+    text: "Retrouve les explications détaillées et les sources dans la version approfondie.",
   },
 ] as const;
 
@@ -68,9 +68,17 @@ export default async function HomePage() {
             Comprends comment marchent les choses
           </h1>
           <p className="mt-5 max-w-reading text-lg leading-relaxed text-ink-muted">
-            Des leçons illustrées sur {categories.length} domaines, du corps humain à
-            l&apos;intelligence artificielle. Chaque leçon se lit en cartes, se termine par un quiz
-            et cite ses sources.
+            Essaie nos premières expériences interactives, puis approfondis avec des articles
+            sourcés sur {categories.length} domaines, du corps humain à l&apos;intelligence
+            artificielle.
+          </p>
+          <p className="mt-6 flex flex-wrap gap-3">
+            <Link href="/decouvrir" className="btn">
+              Découvrir en jouant
+            </Link>
+            <Link href="/categories" className="btn btn--ghost">
+              Approfondir un sujet
+            </Link>
           </p>
 
           {/*

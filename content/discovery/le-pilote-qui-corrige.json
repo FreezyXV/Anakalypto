@@ -1,0 +1,137 @@
+{
+  "slug": "le-pilote-qui-corrige",
+  "version": 3,
+  "status": "published",
+  "title": "Comment le pilote automatique garde-t-il l'avion sur sa route ?",
+  "summary": "Engage le pilote automatique et suis la boucle qui mesure, compare et corrige sans s'arrêter.",
+  "domain": "Aéronautique",
+  "domainPath": "aeronautique",
+  "minutes": 3,
+  "expandedPath": "/aeronautique/navigation-aerienne/instruments-de-vol/comment-le-pilote-automatique-tient-il-un-avion-sur-sa-route",
+  "objective": "Comprendre que le pilote automatique compare sans cesse l'état mesuré de l'avion à la consigne des pilotes, puis corrige avec les gouvernes.",
+  "sources": [
+    {
+      "title": "Advanced Avionics Handbook, chapitre 4, Automated Flight Control",
+      "url": "https://www.faasafety.gov/files/events/EA/EA03/2019/EA0392003/aah_ch04.pdf",
+      "publisher": "Federal Aviation Administration",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Une consigne",
+      "text": "Les pilotes choisissent une consigne, comme une altitude ou un cap. Il faut ensuite la tenir pendant des heures, malgré le vent.",
+      "visual": {
+        "kind": "autopilot",
+        "caption": "Commandes et mesures en boucle : un schéma simplifié.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Engage le pilote automatique",
+      "text": "Le pilote automatique reçoit la consigne et surveille l'avion. Engage-le.",
+      "visual": {
+        "kind": "autopilot",
+        "caption": "Commandes et mesures en boucle : un schéma simplifié.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Engager le pilote automatique",
+        "onLabel": "Engagé",
+        "offLabel": "Désengagé",
+        "onFeedback": "Les capteurs mesurent l'état de l'avion, le calculateur calcule l'écart, et des servomoteurs bougent les gouvernes.",
+        "offFeedback": "Les capteurs restent disponibles, mais le pilote automatique ne commande pas les gouvernes. Les pilotes tiennent les commandes à la main."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Le cerveau",
+      "text": "Observe le calculateur entre les capteurs et les servomoteurs.",
+      "visual": {
+        "kind": "autopilot",
+        "caption": "Commandes et mesures en boucle : un schéma simplifié.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Que fait le calculateur du pilote automatique ?",
+        "options": [
+          {
+            "id": "compare",
+            "label": "Il compare l'état mesuré de l'avion à la consigne",
+            "feedback": "Exact. Il calcule l'écart et décide de la correction à appliquer."
+          },
+          {
+            "id": "choisit",
+            "label": "Il choisit tout seul la destination du vol",
+            "feedback": "Non. La destination et la route sont programmées par les pilotes. Le calculateur suit leurs consignes."
+          },
+          {
+            "id": "mesure",
+            "label": "Il mesure lui-même l'altitude",
+            "feedback": "La mesure vient des capteurs. Le calculateur utilise ces mesures pour les comparer à la consigne."
+          }
+        ],
+        "correctOptionId": "compare",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Les muscles",
+      "text": "Les servomoteurs sont les muscles du système : ils transforment les ordres électriques en mouvements des gouvernes. Puis la boucle recommence, encore et encore.",
+      "visual": {
+        "kind": "autopilot",
+        "caption": "Commandes et mesures en boucle : un schéma simplifié.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Un coup de vent",
+      "text": "En croisière, une rafale fait pencher l'avion d'un côté.",
+      "visual": {
+        "kind": "autopilot",
+        "caption": "Commandes et mesures en boucle : un schéma simplifié.",
+        "active": true,
+        "scene": "gust"
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "En croisière, une rafale fait pencher l'avion. Que fait le pilote automatique ?",
+        "options": [
+          {
+            "id": "corrige",
+            "label": "Il mesure l'écart et commande les gouvernes pour revenir",
+            "feedback": "Oui. Les capteurs sentent l'inclinaison, le calculateur voit l'écart et les servomoteurs corrigent."
+          },
+          {
+            "id": "attend",
+            "label": "Il attend que les pilotes lui signalent le problème",
+            "feedback": "Il n'a pas besoin d'être prévenu : ses capteurs mesurent l'écart en permanence."
+          },
+          {
+            "id": "coupe",
+            "label": "Il coupe les moteurs par sécurité",
+            "feedback": "Non. Il corrige avec les gouvernes. Les pilotes surveillent et peuvent reprendre la main."
+          }
+        ],
+        "correctOptionId": "corrige",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Le pilote automatique mesure, compare et corrige en boucle. Les pilotes choisissent les consignes, surveillent, et peuvent reprendre la main à tout moment.",
+      "visual": {
+        "kind": "autopilot",
+        "caption": "Commandes et mesures en boucle : un schéma simplifié.",
+        "active": true
+      }
+    }
+  ]
+}

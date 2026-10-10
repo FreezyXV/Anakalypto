@@ -4028,6 +4028,18 @@ sources:
   - title: "Pedogenesis"
     url: "https://en.wikipedia.org/wiki/Pedogenesis"
     publisher: "Wikipedia"
+  - title: "Soils portal — Definitions"
+    url: "https://www.fao.org/soils-portal/about/all-definitions/en/"
+    publisher: "FAO"
+  - title: "FAO warns 90 per cent of Earth's topsoil at risk by 2050"
+    url: "https://news.un.org/en/story/2022/07/1123462"
+    publisher: "ONU Info"
+  - title: "Physical Geology (S. Earle), 5.2 Chemical Weathering"
+    url: "https://geo.libretexts.org/Bookshelves/Geology/Physical_Geology_(Earle)/05%3A_Weathering_and_Soil/5.02%3A_Chemical_Weathering"
+    publisher: "LibreTexts"
+  - title: "Vasily Dokuchaev (the 175th anniversary)"
+    url: "https://www.fao.org/fileadmin/user_upload/GSP/RSP/Eurasian/Dokuchaev.pdf"
+    publisher: "Musée central du sol V. V. Dokoutchaïev, publié par la FAO"
 quiz:
   - question: "Comment s'appelle la roche de départ d'un sol ?"
     options:
@@ -4055,15 +4067,15 @@ quiz:
     explanation: >
       Des films de microbes, puis des lichens et des mousses, s'accrochent à la roche et
       préparent le terrain.
-  - question: "Combien de temps faut-il, selon une estimation, pour former 30 centimètres de sol ?"
+  - question: "Pourquoi faut-il protéger un sol fertile de l'érosion ?"
     options:
-      - "Environ 8 000 à 18 000 ans"
-      - "Environ 3 semaines"
-      - "Environ 10 ans"
-    answer: 1
+      - "Il se reforme en une seule saison"
+      - "Il faut environ mille ans pour en recréer quelques centimètres"
+      - "Il ne sert pas aux plantes"
+    answer: 2
     explanation: >
-      Selon une estimation, le sol se forme à moins d'un dixième de millimètre par an. 30
-      centimètres demandent alors de 8 000 à 18 000 ans environ.
+      Selon la FAO, il faut environ mille ans pour créer quelques centimètres de sol
+      fertile. Un sol emporté ne revient pas à l'échelle d'une vie humaine.
 lastVerified: 2026-10-09
 status: published
 ---
@@ -4094,9 +4106,9 @@ Les débris de plantes et d'animaux se décomposent et donnent l'humus, la mati�
 
 ## Cinq ingrédients et beaucoup de temps
 
-Au 19e siècle, le savant russe Vassili Dokoutchaïev a décrit cinq facteurs qui forment un sol : la roche-mère, le climat, le relief, les êtres vivants et le temps.
+Au XIXe siècle, le savant russe Vassili Dokoutchaïev (1846-1903) a formulé la loi des facteurs qui forment un sol : la roche-mère, le climat, le relief, les êtres vivants et le temps.
 
-Le temps est le plus surprenant. Selon une estimation, un sol se forme à un rythme de 0,017 à 0,036 millimètre par an. À ce rythme, 30 centimètres de sol demandent environ 8 000 à 18 000 ans. Le sol est donc une ressource qui se renouvelle très lentement.
+Le temps est le plus surprenant. L'Organisation des Nations unies pour l'alimentation et l'agriculture, la FAO, estime qu'il faut environ mille ans pour créer seulement quelques centimètres de sol fertile. Le sol est donc une ressource qui se renouvelle très lentement.
 
 ## À retenir
 
@@ -4104,7 +4116,7 @@ Le temps est le plus surprenant. Selon une estimation, un sol se forme à un ryt
 - Le gel, la chaleur et l'eau cassent la roche ; l'eau et des acides faibles transforment ses minéraux.
 - Microbes, lichens, mousses, racines et vers de terre participent à la formation du sol.
 - Les débris de plantes et d'animaux forment l'humus, et le sol s'organise en couches appelées horizons.
-- La formation d'un sol est très lente : environ 8 000 à 18 000 ans pour 30 centimètres, selon une estimation.
+- La formation d'un sol est très lente : environ mille ans pour quelques centimètres de sol fertile, selon la FAO.
 
 ---
 type: article

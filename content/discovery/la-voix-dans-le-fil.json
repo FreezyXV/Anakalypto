@@ -1,0 +1,136 @@
+{
+  "slug": "la-voix-dans-le-fil",
+  "version": 3,
+  "status": "published",
+  "title": "Comment ta voix voyageait-elle dans un fil de téléphone ?",
+  "summary": "Parle dans le micro d'un téléphone ancien et suis la voix changée en courant, puis redevenue son.",
+  "domain": "Communication et médias",
+  "domainPath": "communication-et-medias",
+  "minutes": 3,
+  "expandedPath": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-le-telephone-fixe-transportait-il-la-voix-par-un-fil",
+  "objective": "Comprendre que le téléphone transforme les vibrations de la voix en un courant qui varie comme elles, puis recrée le son à l'arrivée.",
+  "sources": [
+    {
+      "title": "US Patent 174,465, Improvement in Telegraphy (A. G. Bell, 1876)",
+      "url": "https://patents.google.com/patent/US174465A/en",
+      "publisher": "United States Patent Office (via Google Patents)",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Deux maisons, un fil",
+      "text": "Deux téléphones fixes sont reliés par un fil électrique. Le son ne peut pas voyager tel quel dans ce fil. Il faut le transformer.",
+      "visual": {
+        "kind": "telephone",
+        "caption": "Téléphone analogique : son, membrane, courant variable et écouteur.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Parle dans le micro",
+      "text": "Quand on parle, la voix fait vibrer l'air. Essaie de parler devant le micro.",
+      "visual": {
+        "kind": "telephone",
+        "caption": "Téléphone analogique : son, membrane, courant variable et écouteur.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Parler dans le micro",
+        "onLabel": "Je parle",
+        "offLabel": "Silence",
+        "onFeedback": "La voix fait vibrer une membrane. Ses mouvements font varier un courant électrique, qui part dans le fil jusqu'à l'écouteur.",
+        "offFeedback": "Sans voix, la membrane reste immobile : le courant ne varie pas et l'écouteur reste muet."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Dans le fil",
+      "text": "Compare les courbes : dans le fil, le signal est électrique, pas sonore.",
+      "visual": {
+        "kind": "telephone",
+        "caption": "Téléphone analogique : son, membrane, courant variable et écouteur.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Qu'est-ce qui voyage dans le fil du téléphone ?",
+        "options": [
+          {
+            "id": "courant",
+            "label": "Un courant électrique qui varie comme la voix",
+            "feedback": "Exact. En 1876, Bell décrit des variations du courant semblables aux vibrations de l'air produites par la voix."
+          },
+          {
+            "id": "son",
+            "label": "Le son lui-même, comme dans un tuyau",
+            "feedback": "Non. Le son ne voyage pas dans le fil. Il est d'abord transformé en courant électrique."
+          },
+          {
+            "id": "lettres",
+            "label": "Des lettres codées, comme un télégramme",
+            "feedback": "Le télégraphe envoyait des codes. Le téléphone transmet un courant qui suit les vibrations de la voix."
+          }
+        ],
+        "correctOptionId": "courant",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Le chemin inverse",
+      "text": "À l'arrivée, le courant traverse un électroaimant. Ses variations font vibrer une autre membrane, qui fait vibrer l'air : on entend la voix.",
+      "visual": {
+        "kind": "telephone",
+        "caption": "Téléphone analogique : son, membrane, courant variable et écouteur.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Le rôle de l'écouteur",
+      "text": "Ton correspondant colle l'écouteur à son oreille.",
+      "visual": {
+        "kind": "telephone",
+        "caption": "Téléphone analogique : son, membrane, courant variable et écouteur.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Que fait l'écouteur d'un téléphone fixe ?",
+        "options": [
+          {
+            "id": "vibrer",
+            "label": "Il change les variations du courant en vibrations de l'air",
+            "feedback": "Oui. C'est le travail inverse du micro : le courant fait vibrer une membrane, qui recrée le son."
+          },
+          {
+            "id": "amplifie",
+            "label": "Il amplifie le son arrivé par le fil",
+            "feedback": "Aucun son n'arrive par le fil, seulement un courant. L'écouteur le retransforme en son."
+          },
+          {
+            "id": "produit",
+            "label": "Il produit le courant électrique de l'appel",
+            "feedback": "Le courant vient de l'autre côté de la ligne. L'écouteur le transforme en son."
+          }
+        ],
+        "correctOptionId": "vibrer",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Le micro change les vibrations de la voix en un courant qui varie comme elles. Ce courant voyage dans le fil. L'écouteur le retransforme en vibrations de l'air.",
+      "visual": {
+        "kind": "telephone",
+        "caption": "Téléphone analogique : son, membrane, courant variable et écouteur.",
+        "active": true
+      }
+    }
+  ]
+}

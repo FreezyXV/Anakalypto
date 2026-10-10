@@ -1,0 +1,147 @@
+{
+  "slug": "naissance-d-un-sol",
+  "version": 2,
+  "status": "published",
+  "title": "Comment une roche devient-elle un sol ?",
+  "summary": "Fais passer le temps sur une roche nue et observe la naissance très lente d'un sol.",
+  "domain": "Sciences du vivant appliquées",
+  "domainPath": "sciences-du-vivant-appliquees",
+  "minutes": 3,
+  "expandedPath": "/sciences-du-vivant-appliquees/agronomie/sols-et-fertilite/comment-une-roche-se-transforme-t-elle-peu-a-peu-en-sol",
+  "objective": "Comprendre qu'un sol naît de l'altération lente d'une roche, avec l'aide du climat et des êtres vivants, sur des milliers d'années.",
+  "sources": [
+    {
+      "title": "Soils portal — Definitions",
+      "url": "https://www.fao.org/soils-portal/about/all-definitions/en/",
+      "publisher": "FAO",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "FAO warns 90 per cent of Earth's topsoil at risk by 2050",
+      "url": "https://news.un.org/en/story/2022/07/1123462",
+      "publisher": "ONU Info",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Une roche nue",
+      "text": "Imagine une roche nue, sans terre au-dessus. Un jour, des plantes pourront y pousser. Mais il faudra d'abord qu'un sol se forme.",
+      "visual": {
+        "kind": "soil",
+        "caption": "Coupe du sol : des étapes qui se chevauchent, sur un temps très long.",
+        "active": false,
+        "frame": 0
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Fais passer le temps",
+      "text": "Déplace le curseur pour faire passer les années, puis les siècles.",
+      "visual": {
+        "kind": "soil",
+        "caption": "Coupe du sol : des étapes qui se chevauchent, sur un temps très long.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Formation du sol",
+        "minLabel": "Roche nue",
+        "maxLabel": "Sol en couches",
+        "feedback": "Le gel et l'eau fendent la roche, ses minéraux s'altèrent, puis les êtres vivants apportent l'humus. Dans la réalité, ces étapes se chevauchent."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Les ouvriers du sol",
+      "text": "Observe l’humus sombre et les êtres vivants au-dessus des minéraux.",
+      "visual": {
+        "kind": "soil",
+        "caption": "Coupe du sol : des étapes qui se chevauchent, sur un temps très long.",
+        "active": true,
+        "frame": 3
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Que font les êtres vivants dans la formation du sol ?",
+        "options": [
+          {
+            "id": "vivants",
+            "label": "Ils attaquent les minéraux et apportent l'humus",
+            "feedback": "Exact. Racines, champignons et bactéries attaquent la roche, et leurs débris forment l'humus, sombre et riche."
+          },
+          {
+            "id": "rien",
+            "label": "Rien : seule la pluie fabrique le sol",
+            "feedback": "La pluie compte, mais les êtres vivants aussi : ils attaquent les minéraux et apportent la matière organique."
+          },
+          {
+            "id": "sable",
+            "label": "Ils apportent du sable venu d'ailleurs",
+            "feedback": "Ils ne transportent pas de sable. Ils transforment la roche sur place et fournissent l'humus."
+          }
+        ],
+        "correctOptionId": "vivants",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Cinq ingrédients",
+      "text": "Un sol dépend de la roche-mère, du climat, du relief, des êtres vivants et du temps. Avec les siècles, il s'organise en couches superposées, appelées horizons.",
+      "visual": {
+        "kind": "soil",
+        "caption": "Coupe du sol : des étapes qui se chevauchent, sur un temps très long.",
+        "active": true,
+        "frame": 4
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Une ressource fragile",
+      "text": "Une pluie violente emporte quelques centimètres de terre d'un champ nu.",
+      "visual": {
+        "kind": "soil",
+        "caption": "Coupe du sol : des étapes qui se chevauchent, sur un temps très long.",
+        "active": true,
+        "frame": 4,
+        "scene": "erosion"
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Une pluie violente emporte quelques centimètres de terre d'un champ nu. Pourquoi est-ce grave ?",
+        "options": [
+          {
+            "id": "lent",
+            "label": "Il faut environ mille ans pour reformer quelques centimètres de sol",
+            "feedback": "Oui. Selon la FAO, quelques centimètres de sol demandent environ mille ans. Le sol se renouvelle très lentement."
+          },
+          {
+            "id": "printemps",
+            "label": "Le sol repousse chaque printemps",
+            "feedback": "Non. Le sol ne repousse pas en une saison. Il se forme sur des milliers d'années."
+          },
+          {
+            "id": "volcan",
+            "label": "Seuls les volcans peuvent refaire du sol",
+            "feedback": "Toutes sortes de roches peuvent participer à la formation d’un sol. Cette formation est très lente."
+          }
+        ],
+        "correctOptionId": "lent",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Un sol naît d'une roche qui se fissure et s'altère, puis s'enrichit de l'humus des êtres vivants. Il faut environ mille ans pour quelques centimètres : c'est une ressource à protéger.",
+      "visual": {
+        "kind": "soil",
+        "caption": "Coupe du sol : des étapes qui se chevauchent, sur un temps très long.",
+        "active": true,
+        "frame": 4
+      }
+    }
+  ]
+}

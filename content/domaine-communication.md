@@ -10960,6 +10960,24 @@ sources:
   - title: "Alexander Graham Bell"
     url: "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
     publisher: "Wikipedia"
+  - title: "US Patent 174,465, Improvement in Telegraphy"
+    url: "https://patents.google.com/patent/US174465A/en"
+    publisher: "United States Patent Office (via Google Patents)"
+  - title: "US Patent 447,918, Automatic telephone-exchange (A. B. Strowger, 1891)"
+    url: "https://patents.google.com/patent/US447918A/en"
+    publisher: "United States Patent Office (via Google Patents)"
+  - title: "Almon Brown Strowger (1839-1902)"
+    url: "https://www.patstec.fr/MEDIAS/018-018-000000731/3095.pdf"
+    publisher: "PATSTEC — Mission nationale de sauvegarde du patrimoine scientifique et technique contemporain"
+  - title: "Rétrospective : le rotary à Paris depuis 1928"
+    url: "https://www.histelfrance.fr/storage/2025/07/1984.07.06RetrospectiveRotaryParisDepuis1928.pdf"
+    publisher: "Histel — Histoire des télécommunications"
+  - title: "La numérotation à dix chiffres"
+    url: "https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/la-possibilite-de-numeroter-a-huit-chiffres-a-linterieur-des-zones-sera-definitivement-supprimee-av.html"
+    publisher: "Arcep"
+  - title: "H.Res. 269, 107th Congress (Antonio Meucci)"
+    url: "https://www.govinfo.gov/content/pkg/BILLS-107hres269eh/html/BILLS-107hres269eh.htm"
+    publisher: "U.S. Government Publishing Office"
 quiz:
   - question: "Que fait le microphone d'un téléphone ?"
     options:
@@ -10968,8 +10986,8 @@ quiz:
       - "Il compose le numéro"
     answer: 1
     explanation: >
-      Le microphone capte les vibrations de la voix et les change en impulsions
-      électriques qui partent dans le fil.
+      Le microphone capte les vibrations de la voix et les change en un courant électrique
+      qui varie comme elles, puis part dans le fil.
   - question: "Qui reliait les appels avant les centraux automatiques ?"
     options:
       - "Des facteurs"
@@ -10979,24 +10997,25 @@ quiz:
     explanation: >
       Une opératrice répondait à l'abonné, demandait le numéro voulu, puis branchait la
       ligne à la main.
-  - question: "Pourquoi Almon Strowger a-t-il inventé le central automatique ?"
+  - question: "Qu'est-ce qui voyage dans le fil d'un téléphone fixe pendant qu'on parle ?"
     options:
-      - "Il voulait téléphoner la nuit"
-      - "Il soupçonnait les opératrices de favoriser son concurrent"
-      - "Il était sourd"
-    answer: 2
-    explanation: >
-      Cet entrepreneur de pompes funèbres pensait que les opératrices envoyaient ses
-      clients chez un concurrent.
-  - question: "Jusqu'au milieu des années 1970, combien de Français avaient le téléphone chez eux ?"
-    options:
-      - "Un sur deux"
-      - "Tous"
-      - "Un sur sept"
+      - "Le son lui-même, comme dans un tuyau"
+      - "Des lettres codées, comme un télégramme"
+      - "Un courant électrique qui varie comme la voix"
     answer: 3
     explanation: >
-      Jusqu'au milieu des années 1970, un Français sur sept seulement avait le téléphone à
-      la maison.
+      Le son ne voyage pas dans le fil. Le microphone le transforme en un courant qui
+      varie comme les vibrations de la voix ; l'écouteur refait ensuite un son.
+  - question: "Que change un central automatique par rapport à un central manuel ?"
+    options:
+      - "L'abonné compose le numéro et une machine établit la liaison"
+      - "La voix voyage sans fil"
+      - "Les appels deviennent gratuits"
+    answer: 1
+    explanation: >
+      Dans un central manuel, une opératrice branchait les lignes à la main. Avec un
+      central automatique, l'abonné compose le numéro et une machine relie les deux
+      lignes.
 lastVerified: 2026-10-09
 status: published
 ---
@@ -11007,37 +11026,35 @@ Le téléphone transforme les vibrations de la voix en courant électrique, qui 
 
 ## La voix devient électricité
 
-Quand on parle, la voix fait vibrer l'air. Un téléphone fixe capte ces vibrations avec un microphone, placé devant la bouche. Le microphone les transforme en impulsions électriques. Ces impulsions voyagent dans des fils jusqu'au téléphone de la personne appelée.
+Quand on parle, la voix fait vibrer l'air. Un téléphone fixe capte ces vibrations avec un microphone, placé devant la bouche. Le microphone les transforme en un courant électrique qui varie exactement comme les vibrations de la voix. Ce courant voyage dans des fils jusqu'au téléphone de la personne appelée.
 
-Là, l'écouteur fait le travail inverse. Il transforme les impulsions électriques en vibrations de l'air, qui reproduisent la voix. La conversation se fait en direct, car le courant électrique va très vite.
+Là, l'écouteur fait le travail inverse. Il transforme les variations du courant en vibrations de l'air, qui reproduisent la voix. La conversation se fait en direct, car le courant électrique va très vite.
 
 Un téléphone fixe comprend aussi une sonnerie, qui signale un appel, et un cadran ou un clavier pour composer le numéro. Le combiné, qui réunit micro et écouteur dans une seule pièce, est arrivé plus tard. Au début, on parlait devant le boîtier et on tenait un écouteur à l'oreille.
 
 ## Une invention disputée
 
-Le 14 février 1876, l'Américain Elisha Gray et l'Écossais Alexander Graham Bell déposent chacun une demande de brevet aux États-Unis, à quelques heures d'écart. Bell obtient son brevet le 7 mars 1876 et passe pour l'inventeur officiel. Avant eux, l'Italo-Américain Antonio Meucci avait fabriqué plusieurs appareils. En 2002, le Congrès américain a reconnu son rôle.
+Le 14 février 1876, l'Américain Elisha Gray et l'Écossais Alexander Graham Bell déposent chacun une demande de brevet aux États-Unis, à quelques heures d'écart. Bell obtient son brevet le 7 mars 1876 et passe pour l'inventeur officiel. Avant eux, l'Italo-Américain Antonio Meucci avait fabriqué plusieurs appareils. En 2002, la Chambre des représentants des États-Unis a adopté une résolution qui reconnaît son travail sur l'invention du téléphone.
 
-Le téléphone est exploité aux États-Unis dès 1877 et en France dès 1879. En 1912, on compte 12 millions de téléphones dans le monde, dont 8 millions aux États-Unis.
+Le téléphone arrive à Paris en septembre 1879.
 
 ## Allô, mademoiselle ?
 
 Au début, il n'y avait pas de numérotation automatique. Quand un abonné décrochait, un signal prévenait le central téléphonique. Une opératrice répondait et demandait avec qui il voulait parler. Elle branchait alors sa ligne sur celle du correspondant. En France, on les appelait les « demoiselles du téléphone ».
 
-Vers 1891, l'Américain Almon Strowger invente le central automatique. Cet entrepreneur de pompes funèbres pensait que les opératrices envoyaient ses clients chez un concurrent. Avec son système, l'abonné compose lui-même le numéro, et une machine établit la liaison. En France, le premier central automatique ouvre à Nice en 1913. Paris suit le 22 septembre 1928.
+En 1891, l'Américain Almon Strowger obtient un brevet pour un central téléphonique automatique. Selon une histoire souvent racontée, cet entrepreneur de pompes funèbres soupçonnait une opératrice d'envoyer ses clients chez un concurrent. Avec son système, l'abonné compose lui-même le numéro, et une machine établit la liaison. En France, le premier central automatique ouvre à Nice le 19 octobre 1913. À Paris, le premier est inauguré le 22 septembre 1928.
 
-## Un objet longtemps rare en France
+## Un réseau qui grandit lentement
 
-Le téléphone est arrivé tôt en France, mais il y est resté rare et cher. En 1912, il y avait un abonné pour 183 habitants, contre un pour 12 aux États-Unis. Beaucoup de gens utilisaient les cabines téléphoniques. La première a été installée à Paris en 1881.
-
-Jusqu'au milieu des années 1970, un Français sur sept seulement avait le téléphone chez lui. À partir de 1974, le pays s'équipe massivement. Le 18 octobre 1996, les numéros français passent à dix chiffres. Avec l'essor du téléphone mobile, dans les années 1990 et 2000, les cabines disparaissent peu à peu.
+À Paris, le téléphone se répand peu à peu : environ 300 abonnés en 1880, 45 000 au 1er janvier 1910, puis 150 000 vers 1928. Le 18 octobre 1996, les numéros de téléphone français passent de huit à dix chiffres.
 
 ## À retenir
 
-- Le microphone du téléphone transforme la voix en impulsions électriques, et l'écouteur les retransforme en son.
+- Le microphone du téléphone transforme la voix en un courant qui varie comme elle, et l'écouteur le retransforme en son.
 - Bell a obtenu le brevet du téléphone le 7 mars 1876, mais Elisha Gray et Antonio Meucci ont aussi joué un rôle.
 - Au début, des opératrices reliaient chaque appel à la main dans les centraux.
-- Almon Strowger a inventé le central automatique vers 1891 ; Nice a eu le premier central automatique français en 1913.
-- Jusqu'au milieu des années 1970, un Français sur sept seulement avait le téléphone chez lui.
+- Almon Strowger a breveté un central automatique en 1891 ; le premier central automatique français a ouvert à Nice en 1913.
+- À Paris, le nombre d'abonnés passe d'environ 300 en 1880 à 150 000 vers 1928.
 
 ---
 type: article

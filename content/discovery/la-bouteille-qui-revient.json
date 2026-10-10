@@ -1,0 +1,148 @@
+{
+  "slug": "la-bouteille-qui-revient",
+  "version": 3,
+  "status": "published",
+  "title": "Comment une vieille bouteille redevient-elle une bouteille neuve ?",
+  "summary": "Suis une bouteille du conteneur jusqu'au four, et découvre pourquoi le tri compte autant.",
+  "domain": "Environnement et climat",
+  "domainPath": "environnement-et-climat",
+  "minutes": 3,
+  "expandedPath": "/environnement-et-climat/pollution-et-ressources/dechets-et-recyclage/comment-une-bouteille-en-verre-usagee-redevient-elle-une-bouteille-neuve",
+  "objective": "Comprendre que le verre d'emballage se refond en verre neuf, à condition d'être débarrassé des matériaux qui ne fondent pas comme lui.",
+  "sources": [
+    {
+      "title": "Recycling of post-consumer glass: energy savings, CO2 emission reduction, effects on glass quality and glass melting",
+      "url": "https://repository.tno.nl/islandora/object/uuid:e2aab36a-2fa0-4cff-b085-f34d992aed79",
+      "publisher": "TNO — R. Beerkens, G. Kers, E. van Santen (2011)",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Close the Glass Loop",
+      "url": "https://closetheglassloop.eu/",
+      "publisher": "Close the Glass Loop — FEVE",
+      "checkedAt": "2026-10-10"
+    },
+    {
+      "title": "Could new EU packaging proposals speed up a real circular economy for packaging?",
+      "url": "https://feve.org/could-new-eu-packaging-proposals-speed-up-a-real-circular-economy-for-packaging/",
+      "publisher": "FEVE",
+      "checkedAt": "2026-10-10"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Dans le conteneur",
+      "text": "Des bouteilles et des pots arrivent au centre de tri. Mais parmi eux se cachent parfois des intrus : une assiette, une tasse, un plat qui va au four.",
+      "visual": {
+        "kind": "glass",
+        "caption": "Verre d’emballage : collecte, tri, calcin, four et moulage.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Retire les intrus",
+      "text": "La céramique, la porcelaine et le verre des plats à four ne fondent pas comme le verre d'emballage. Essaie avec et sans tri.",
+      "visual": {
+        "kind": "glass",
+        "caption": "Verre d’emballage : collecte, tri, calcin, four et moulage.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Retirer les intrus du lot",
+        "onLabel": "Lot trié",
+        "offLabel": "Lot avec intrus",
+        "onFeedback": "Le verre trié est broyé en petits morceaux, le calcin, puis fondu pour mouler de nouvelles bouteilles.",
+        "offFeedback": "Avec des intrus, le lot ne peut pas partir tel quel : ils créeraient des défauts dans le verre et gêneraient la fusion."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Le bon conteneur",
+      "text": "Tu viens de voir pourquoi le tri est indispensable.",
+      "visual": {
+        "kind": "glass",
+        "caption": "Verre d’emballage : collecte, tri, calcin, four et moulage.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Quel objet ne doit pas aller dans le conteneur à verre ?",
+        "options": [
+          {
+            "id": "assiette",
+            "label": "Une assiette cassée en porcelaine",
+            "feedback": "Exact. La porcelaine ne fond pas comme le verre d'emballage : elle laisserait des défauts dans les bouteilles neuves."
+          },
+          {
+            "id": "pot",
+            "label": "Un pot de confiture vide",
+            "feedback": "Un pot en verre se recycle très bien. C'est la porcelaine qui pose problème."
+          },
+          {
+            "id": "bouteille",
+            "label": "Une bouteille de jus en verre",
+            "feedback": "Une bouteille en verre va bien dans le conteneur. C'est la porcelaine qui doit être retirée."
+          }
+        ],
+        "correctOptionId": "assiette",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Le calcin, un raccourci",
+      "text": "Le calcin fond plus facilement que le mélange de sable et de minéraux utilisé pour faire du verre neuf. Plus on en met, moins le four consomme d'énergie.",
+      "visual": {
+        "kind": "glass",
+        "caption": "Verre d’emballage : collecte, tri, calcin, four et moulage.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Pourquoi c'est utile",
+      "text": "Une usine augmente la part de verre recyclé dans son four.",
+      "visual": {
+        "kind": "glass",
+        "caption": "Verre d’emballage : collecte, tri, calcin, four et moulage.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Que gagne une verrerie en mettant plus de verre recyclé broyé, le calcin, dans son four ?",
+        "options": [
+          {
+            "id": "energie",
+            "label": "Le four consomme moins d'énergie",
+            "feedback": "Oui. Une étude de 2011 mesure environ 4 % d'énergie en moins quand on passe de 65 à 75 % de calcin."
+          },
+          {
+            "id": "chaleur",
+            "label": "Le calcin chauffe le four tout seul",
+            "feedback": "Le calcin ne produit pas de chaleur. Il fond simplement plus facilement que les matières premières."
+          },
+          {
+            "id": "rien",
+            "label": "Rien, mais cela vide les conteneurs",
+            "feedback": "Ce n'est pas seulement du rangement : fondre du calcin demande moins d'énergie que fondre du sable."
+          }
+        ],
+        "correctOptionId": "energie",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "À retenir",
+      "text": "Le verre d'emballage se refond en verre neuf, encore et encore. Il faut d'abord retirer les intrus. Le calcin fait aussi économiser de l'énergie au four.",
+      "visual": {
+        "kind": "glass",
+        "caption": "Verre d’emballage : collecte, tri, calcin, four et moulage.",
+        "active": true
+      }
+    }
+  ]
+}
