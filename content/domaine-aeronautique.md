@@ -3190,18 +3190,103 @@ status: planned
 
 ---
 type: article
-title: La soufflerie, simuler le vol au sol
-slug: la-soufflerie-simuler-le-vol-au-sol
+title: Comment une soufflerie permet-elle de tester un avion sans le faire voler ?
+slug: comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler
 categoryPath: aeronautique/aerodynamique/ecoulements
 summary: >
-  Comment on recree artificiellement l'ecoulement de l'air autour d'une maquette d'avion.
+  Dans une soufflerie, la maquette d'un avion reste immobile et c'est l'air qui se déplace
+  autour d'elle. Des balances mesurent les forces qui s'exercent sur la maquette. Les
+  ingénieurs testent ainsi un avion bien avant son premier vol.
 tags: [ecoulements]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Soufflerie"
+    url: "https://fr.wikipedia.org/wiki/Soufflerie"
+    publisher: "Wikipédia"
+  - title: "Wind tunnel"
+    url: "https://en.wikipedia.org/wiki/Wind_tunnel"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans une soufflerie, qu'est-ce qui bouge ?"
+    options:
+      - "L'air, autour d'une maquette immobile"
+      - "La maquette, dans un air immobile"
+      - "Rien du tout"
+    answer: 1
+    explanation: >
+      La maquette reste fixe et un courant d'air contrôlé passe autour d'elle. L'effet est
+      le même que si l'avion volait.
+  - question: "Avec quoi rend-on visible le trajet de l'air autour d'une maquette ?"
+    options:
+      - "Avec de la peinture fraîche"
+      - "Avec de la fumée, des brins de laine ou de l'huile"
+      - "Avec des aimants"
+    answer: 2
+    explanation: >
+      La fumée, les petits brins de laine collés sur la maquette ou un film d'huile
+      montrent par où passe l'air.
+  - question: "Où se trouve la grande soufflerie S1MA de l'ONERA ?"
+    options:
+      - "À Toulouse"
+      - "À Paris"
+      - "À Modane, en Savoie"
+    answer: 3
+    explanation: >
+      La soufflerie S1MA de Modane est l'une des plus grandes du monde, avec une veine
+      d'essai de 8 mètres de diamètre.
+  - question: "Qui a construit en 1901 sa propre petite soufflerie pour préparer ses vols ?"
+    options:
+      - "Les frères Wright"
+      - "Louis Blériot"
+      - "Gustave Eiffel"
+    answer: 1
+    explanation: >
+      Les frères Wright ont testé des formes d'ailes dans leur petite soufflerie en 1901,
+      avant leur premier vol motorisé.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans une soufflerie, la maquette d'un avion reste immobile et c'est l'air qui se déplace autour d'elle. Des balances mesurent les forces qui s'exercent sur la maquette. Les ingénieurs testent ainsi un avion bien avant son premier vol.
+
+## Faire bouger l'air plutôt que l'avion
+
+Un avion en vol traverse l'air. Pour l'étudier au sol, les ingénieurs font l'inverse : ils fixent une maquette et font souffler l'air autour d'elle. Pour l'aile, cela revient au même. C'est le principe de la soufflerie.
+
+Une soufflerie est un long tunnel. De puissants ventilateurs y créent un courant d'air régulier, dont on règle la vitesse. La maquette est placée dans la partie où l'on fait les mesures, appelée la veine d'essai.
+
+Cette méthode permet des mesures impossibles à faire en vol réel. Elle coûte aussi moins cher et ne fait courir aucun risque à un pilote.
+
+## Ce que l'on mesure
+
+La maquette est fixée sur une balance très précise. Celle-ci mesure les forces exercées par l'air. La portance est la force qui pousse l'aile vers le haut. La traînée est la force qui freine l'avion.
+
+Des capteurs mesurent aussi la pression de l'air en de nombreux points de la maquette. On change l'angle de la maquette pour voir comment l'avion se comporterait en montée, en descente ou en virage.
+
+Pour voir le trajet de l'air, on utilise de la fumée, de petits brins de laine collés sur la maquette ou un film d'huile. Ils montrent où l'air glisse bien et où il forme des tourbillons.
+
+## Une longue histoire
+
+En 1871, en Angleterre, Frank Wenham et John Browning construisent la première vraie soufflerie. En 1901, les frères Wright fabriquent leur propre petite soufflerie pour tester des formes d'ailes, avant leur premier vol motorisé.
+
+En 1909, Gustave Eiffel construit une soufflerie à Paris. Il la déplace en 1912 dans le quartier d'Auteuil, où elle fonctionne encore.
+
+En France, l'ONERA possède à Modane, en Savoie, la soufflerie S1MA. C'est l'une des plus grandes du monde. Son circuit d'air mesure plus de 120 mètres et sa veine d'essai 8 mètres de diamètre.
+
+## Pas seulement pour les avions
+
+Les souffleries servent aussi à tester des voitures, des bâtiments et des ponts. Certaines, verticales, permettent même de flotter dans l'air comme en chute libre, pour s'entraîner ou s'amuser.
+
+Aujourd'hui, les ordinateurs simulent aussi l'écoulement de l'air. Mais ils n'ont pas remplacé les souffleries : pour avoir confiance dans une simulation, il faut comparer ses résultats à de vraies mesures.
+
+## À retenir
+
+- Dans une soufflerie, la maquette reste immobile et l'air se déplace autour d'elle.
+- Une balance mesure la portance, qui soulève l'aile, et la traînée, qui freine l'avion.
+- La fumée, des brins de laine ou de l'huile rendent visible le trajet de l'air.
+- La première vraie soufflerie a été construite en Angleterre en 1871.
+- Les simulations sur ordinateur doivent toujours être vérifiées par de vraies mesures en soufflerie.
 
 ---
 type: article
@@ -3820,18 +3905,99 @@ status: planned
 
 ---
 type: article
-title: Les dispositifs hypersustentateurs, panorama complet
-slug: les-dispositifs-hypersustentateurs-panorama-complet
+title: Pourquoi les ailes d'un avion changent-elles de forme au décollage et à l'atterrissage ?
+slug: pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage
 categoryPath: aeronautique/aerodynamique/portance
 summary: >
-  Volets, becs, generateurs de tourbillons : tout ce qui aide une aile a voler lentement.
+  Au décollage et à l'atterrissage, un avion vole lentement et ses ailes portent moins. Il
+  sort alors des volets à l'arrière des ailes et des becs à l'avant. Ces pièces rendent l'aile
+  plus grande et plus bombée, ce qui augmente la portance.
 tags: [portance]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Hypersustentation"
+    url: "https://fr.wikipedia.org/wiki/Hypersustentation"
+    publisher: "Wikipédia"
+  - title: "Flap (aeronautics)"
+    url: "https://en.wikipedia.org/wiki/Flap_(aeronautics)"
+    publisher: "Wikipedia"
+  - title: "Leading-edge slat"
+    url: "https://en.wikipedia.org/wiki/Leading-edge_slat"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quoi servent les volets et les becs d'une aile ?"
+    options:
+      - "À aller plus vite en croisière"
+      - "À porter l'avion quand il vole lentement"
+      - "À réchauffer l'aile"
+    answer: 2
+    explanation: >
+      Ils augmentent la portance à basse vitesse. L'avion peut ainsi décoller et atterrir
+      plus lentement, sur une piste plus courte.
+  - question: "Où se trouvent les becs ?"
+    options:
+      - "Au bord avant de l'aile"
+      - "Sur la queue de l'avion"
+      - "Sous le fuselage"
+    answer: 1
+    explanation: >
+      Les becs glissent vers l'avant, au bord d'attaque de l'aile. Les volets, eux,
+      sortent à l'arrière.
+  - question: "Pourquoi ne garde-t-on pas les volets sortis pendant tout le vol ?"
+    options:
+      - "Ils font trop de bruit"
+      - "Ils pèsent trop lourd"
+      - "Ils augmentent beaucoup la traînée"
+    answer: 3
+    explanation: >
+      Les volets freinent l'avion. On ne les sort que pour le décollage et l'atterrissage.
+  - question: "Qui a inventé le volet qui glisse vers l'arrière avant de s'abaisser ?"
+    options:
+      - "Les frères Wright"
+      - "Harlan Fowler, en 1924"
+      - "Louis Blériot"
+    answer: 2
+    explanation: >
+      Le volet Fowler a été inventé en 1924. Il est encore très utilisé sur les avions
+      modernes.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au décollage et à l'atterrissage, un avion vole lentement et ses ailes portent moins. Il sort alors des volets à l'arrière des ailes et des becs à l'avant. Ces pièces rendent l'aile plus grande et plus bombée, ce qui augmente la portance.
+
+## Une aile faite pour aller vite
+
+L'aile d'un avion de ligne est dessinée pour la croisière, quand l'avion vole vite et haut. À grande vitesse, l'air qui passe autour de l'aile produit beaucoup de portance, la force qui soulève l'avion.
+
+Au décollage et à l'atterrissage, l'avion vole bien plus lentement. Une aile de croisière porterait alors trop peu. Il faudrait aller plus vite et avoir une piste beaucoup plus longue. La solution : changer la forme de l'aile pendant ces moments-là. Les pièces qui le permettent s'appellent des dispositifs hypersustentateurs.
+
+## Les volets, à l'arrière
+
+Les volets sortent du bord arrière de l'aile. Ils rendent l'aile plus bombée et souvent plus grande. Les deux augmentent la portance.
+
+Le volet le plus répandu a été inventé par l'ingénieur Harlan Fowler en 1924. Il glisse d'abord vers l'arrière, ce qui agrandit l'aile, puis il s'abaisse. Beaucoup de volets sont « à fente » : ils laissent un petit passage entre l'aile et le volet. L'air qui s'y glisse reste collé au volet au lieu de décrocher. Le Boeing 747 a des volets à trois fentes.
+
+## Les becs, à l'avant
+
+Les becs glissent vers l'avant du bord d'attaque, c'est-à-dire le bord avant de l'aile. Ils ouvrent un passage par lequel l'air du dessous passe au-dessus de l'aile. L'avion peut alors lever le nez plus haut sans décrocher. Le décrochage, c'est le moment où l'aile cesse brusquement de porter.
+
+Les becs ont été inventés en 1918 par l'Allemand Gustav Lachmann. La société britannique Handley Page les a mis au point de son côté et brevetés en 1919. Grâce à des fentes fixes à l'avant des ailes, le petit avion allemand Fieseler Storch pouvait décoller sur moins de 50 mètres.
+
+## Le prix à payer
+
+Volets et becs ont un défaut : ils augmentent beaucoup la traînée, la force qui freine l'avion. C'est pourquoi on les rentre dès que l'avion a pris de la vitesse.
+
+Au décollage, les pilotes ne sortent les volets qu'en partie. À l'atterrissage, ils les sortent en entier. La traînée devient alors utile : elle permet une descente plus raide et plus lente, et l'avion s'arrête sur une distance plus courte.
+
+## À retenir
+
+- Les ailes d'un avion de ligne sont dessinées pour voler vite, pas lentement.
+- Au décollage et à l'atterrissage, les volets et les becs augmentent la portance.
+- Les volets sortent à l'arrière de l'aile, les becs à l'avant.
+- Ils rendent l'aile plus grande et plus bombée, mais ils freinent aussi l'avion.
+- Les volets sont sortis en partie au décollage et en entier à l'atterrissage.
 
 ---
 type: article
@@ -4060,18 +4226,96 @@ status: planned
 
 ---
 type: article
-title: Le vol plane apres panne totale des moteurs
-slug: le-vol-plane-apres-panne-totale-des-moteurs
+title: Comment un avion de ligne peut-il planer quand ses moteurs s'arrêtent ?
+slug: comment-un-avion-de-ligne-peut-il-planer-quand-ses-moteurs-s-arretent
 categoryPath: aeronautique/aerodynamique/portance
 summary: >
-  Comment un avion de ligne peut parcourir des dizaines de kilometres sans moteur.
-tags: [portance, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un avion sans moteur ne tombe pas comme une pierre : ses ailes continuent de le porter et il
+  descend en planant. Un gros avion de ligne avance d'environ 17 à 20 mètres pour chaque mètre
+  de hauteur perdu. Des pilotes ont ainsi sauvé tous leurs passagers après une panne totale.
+tags: [portance]
+sources:
+  - title: "Lift-to-drag ratio"
+    url: "https://en.wikipedia.org/wiki/Lift-to-drag_ratio"
+    publisher: "Wikipedia"
+  - title: "Gimli Glider"
+    url: "https://en.wikipedia.org/wiki/Gimli_Glider"
+    publisher: "Wikipedia"
+  - title: "Vol US Airways 1549"
+    url: "https://fr.wikipedia.org/wiki/Vol_US_Airways_1549"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que veut dire une finesse de 20 ?"
+    options:
+      - "L'avion vole à 20 km/h"
+      - "L'avion avance de 20 mètres pour chaque mètre de hauteur perdu"
+      - "L'avion peut planer 20 minutes"
+    answer: 2
+    explanation: >
+      La finesse compare la distance parcourue et la hauteur perdue. Avec une finesse de
+      20, on avance de 20 mètres en descendant d'un mètre.
+  - question: "Pourquoi le Boeing 767 du vol Air Canada 143 est-il tombé en panne de carburant en 1983 ?"
+    options:
+      - "À cause d'une erreur de conversion d'unités"
+      - "À cause d'une fuite"
+      - "Parce que le carburant avait gelé"
+    answer: 1
+    explanation: >
+      On a confondu kilogrammes et livres : l'avion a reçu à peu près la moitié du
+      carburant nécessaire.
+  - question: "Où l'Airbus A320 du vol US Airways 1549 s'est-il posé en 2009 ?"
+    options:
+      - "Sur une autoroute"
+      - "Dans un champ de maïs"
+      - "Sur le fleuve Hudson, à New York"
+    answer: 3
+    explanation: >
+      Après avoir perdu ses deux moteurs à cause d'oies sauvages, l'avion s'est posé sur
+      l'Hudson. Les 155 personnes à bord ont survécu.
+  - question: "Quel appareil a fourni de l'énergie au Boeing 767 privé de ses moteurs ?"
+    options:
+      - "Des panneaux solaires"
+      - "Une petite éolienne de secours"
+      - "Une batterie de voiture"
+    answer: 2
+    explanation: >
+      Une petite éolienne, sortie sous l'avion, a fait tourner une pompe pour alimenter
+      les commandes de vol.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un avion sans moteur ne tombe pas comme une pierre : ses ailes continuent de le porter et il descend en planant. Un gros avion de ligne avance d'environ 17 à 20 mètres pour chaque mètre de hauteur perdu. Des pilotes ont ainsi sauvé tous leurs passagers après une panne totale.
+
+## Une aile porte même sans moteur
+
+Les moteurs font avancer l'avion. Mais ce sont les ailes qui le portent. Si les moteurs s'arrêtent, l'avion peut continuer à avancer en descendant doucement, comme un planeur. La pesanteur remplace alors la poussée des moteurs.
+
+Pour savoir jusqu'où un avion peut planer, on utilise la finesse. C'est le nombre de mètres parcourus pour chaque mètre de hauteur perdu, en air calme. Un Boeing 747 en croisière a une finesse d'environ 17,7. Un Airbus A380 atteint environ 20. Avec une finesse de 20, un avion qui vole à 10 kilomètres d'altitude peut en théorie parcourir environ 200 kilomètres avant de toucher le sol. Les meilleurs planeurs approchent 60.
+
+## Le planeur de Gimli
+
+Le 23 juillet 1983, un Boeing 767 d'Air Canada vole à 12 500 mètres d'altitude quand ses deux moteurs s'arrêtent. Le réservoir est vide. Le Canada venait d'adopter le système métrique, et une erreur de conversion entre kilogrammes et livres avait fait charger à peu près la moitié du carburant nécessaire.
+
+Une petite éolienne de secours sort alors sous l'avion. Le vent la fait tourner et elle alimente une pompe pour les commandes de vol. Le commandant, Robert Pearson, est aussi un pilote de planeur expérimenté. Il plane pendant 17 minutes vers une ancienne base militaire, à Gimli.
+
+Arrivé trop haut, il fait une glissade : il croise les commandes pour que l'avion avance un peu de travers. L'avion perd ainsi de l'altitude sans prendre trop de vitesse. À l'atterrissage, la roue avant se replie et frotte le sol. Les 69 personnes à bord survivent.
+
+## Le miracle de l'Hudson
+
+Le 15 janvier 2009, un Airbus A320 décolle de New York. Environ deux minutes plus tard, il percute des oies sauvages à environ 860 mètres d'altitude. Les deux moteurs s'arrêtent.
+
+L'équipage démarre aussitôt un petit générateur de secours pour garder du courant électrique. Le commandant, Chesley Sullenberger, juge qu'il ne peut pas rejoindre un aéroport. Il pose l'avion sur le fleuve Hudson. Les 155 personnes à bord survivent. Les enquêteurs ont conclu que ce choix offrait les meilleures chances de survie.
+
+## À retenir
+
+- Sans moteur, un avion ne tombe pas : ses ailes le portent et il descend en planant.
+- La finesse indique combien de mètres l'avion parcourt pour chaque mètre de hauteur perdu.
+- Un gros avion de ligne a une finesse d'environ 17 à 20.
+- En 1983, un Boeing 767 en panne de carburant a plané 17 minutes jusqu'à Gimli, au Canada.
+- En 2009, un Airbus A320 privé de ses deux moteurs s'est posé sur l'Hudson sans faire de victime.
 
 ---
 type: article
@@ -4870,18 +5114,102 @@ status: planned
 
 ---
 type: article
-title: La trainee liee au givre sur les surfaces portantes
-slug: la-trainee-liee-au-givre-sur-les-surfaces-portantes
+title: Pourquoi le givre est-il dangereux pour les ailes d'un avion ?
+slug: pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion
 categoryPath: aeronautique/aerodynamique/trainee
 summary: >
-  Meme une fine couche de givre peut degrader fortement l'aerodynamique d'une aile.
+  Dans les nuages froids, de minuscules gouttes d'eau restent liquides sous 0 °C. Elles gèlent
+  dès qu'elles touchent l'avion. La glace déforme les ailes : elles portent moins et freinent
+  davantage. Les avions sont donc dégivrés au sol et protégés en vol.
 tags: [trainee]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Givrage"
+    url: "https://fr.wikipedia.org/wiki/Givrage"
+    publisher: "Wikipédia"
+  - title: "Icing conditions"
+    url: "https://en.wikipedia.org/wiki/Icing_conditions"
+    publisher: "Wikipedia"
+  - title: "Air Florida Flight 90"
+    url: "https://en.wikipedia.org/wiki/Air_Florida_Flight_90"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'une goutte d'eau surfondue ?"
+    options:
+      - "Une goutte d'eau très chaude"
+      - "Une goutte restée liquide sous 0 °C"
+      - "Une goutte d'eau salée"
+    answer: 2
+    explanation: >
+      Dans les nuages, l'eau peut rester liquide bien en dessous de 0 °C. Elle gèle d'un
+      coup au contact de l'avion.
+  - question: "Que fait la glace sur une aile ?"
+    options:
+      - "Elle diminue la portance et augmente la traînée"
+      - "Elle rend l'aile plus légère"
+      - "Elle fait voler l'avion plus vite"
+    answer: 1
+    explanation: >
+      La glace déforme l'aile. Celle-ci porte moins, freine plus et décroche à une vitesse
+      plus élevée.
+  - question: "À quoi servent les boudins en caoutchouc sur le bord avant de certaines ailes ?"
+    options:
+      - "À amortir les oiseaux"
+      - "À stocker du carburant"
+      - "À se gonfler pour casser la glace"
+    answer: 3
+    explanation: >
+      Ces boudins se gonflent d'air. En se déformant, ils font craquer la glace, qui
+      s'envole.
+  - question: "Combien de temps s'est-il écoulé entre le dégivrage et le décollage du vol Air Florida 90 en 1982 ?"
+    options:
+      - "2 minutes"
+      - "49 minutes"
+      - "5 heures"
+    answer: 2
+    explanation: >
+      Pendant ces 49 minutes, de la neige et de la glace se sont de nouveau déposées sur
+      l'avion.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans les nuages froids, de minuscules gouttes d'eau restent liquides sous 0 °C. Elles gèlent dès qu'elles touchent l'avion. La glace déforme les ailes : elles portent moins et freinent davantage. Les avions sont donc dégivrés au sol et protégés en vol.
+
+## De l'eau liquide sous zéro degré
+
+Dans certains nuages, l'eau reste liquide bien en dessous de 0 °C. On dit qu'elle est surfondue. Elle peut rester liquide jusqu'à environ −39 °C. Mais dès qu'une de ces gouttes touche un objet, elle gèle d'un coup.
+
+Un avion qui traverse un tel nuage se couvre donc de glace, surtout sur le bord avant des ailes. La moitié des cas de givrage signalés ont lieu entre −8 °C et −12 °C.
+
+Il existe plusieurs sortes de glace. La glace claire est lisse et transparente. Le givre blanc est rugueux et opaque : les gouttes gèlent dès l'impact en emprisonnant de l'air.
+
+## Une aile déformée
+
+Une aile a une forme très précise. C'est elle qui permet à l'air de bien glisser et de produire de la portance, la force qui soulève l'avion. Même une fine couche de glace abîme cette forme.
+
+L'aile porte alors moins. Elle produit aussi plus de traînée, la force qui freine l'avion. Surtout, elle décroche plus tôt. Le décrochage est le moment où l'aile cesse brusquement de porter. Avec de la glace, il arrive à une vitesse plus élevée qu'avec une aile propre. La glace gêne aussi le pilote pour incliner l'avion. Sur les moteurs à pistons, elle peut même boucher le carburateur.
+
+## Protéger l'avion
+
+Avant le décollage, on enlève la neige et la glace : à la brosse, puis avec un liquide de dégivrage pulvérisé sur l'avion. Un second liquide peut ensuite protéger l'avion pendant un moment contre une nouvelle couche.
+
+En vol, plusieurs systèmes existent. Sur les gros avions, de l'air très chaud pris dans les moteurs circule dans le bord avant des ailes. Sur d'autres, des boudins en caoutchouc se gonflent pour faire craquer la glace. Certaines pièces sont chauffées à l'électricité. D'autres avions laissent suinter un liquide antigel sur leurs ailes.
+
+## Une leçon tragique
+
+Le 13 janvier 1982, à Washington, un Boeing 737 d'Air Florida attend 49 minutes entre son dégivrage et son décollage. Il neige fort. De la neige et de la glace se redéposent sur les ailes. L'équipage n'a pas allumé le système qui empêche les moteurs de givrer.
+
+Trente secondes après le décollage, l'avion n'arrive pas à monter. Il heurte un pont et tombe dans le fleuve Potomac. L'accident fait 78 morts. Il a conduit à revoir la formation des équipages et les règles de dégivrage.
+
+## À retenir
+
+- Dans les nuages, l'eau peut rester liquide sous 0 °C et geler d'un coup au contact de l'avion.
+- La glace déforme l'aile : elle porte moins, freine plus et décroche à une vitesse plus élevée.
+- Au sol, on dégivre les avions à la brosse et avec un liquide spécial.
+- En vol, de l'air chaud, des boudins gonflables ou des résistances électriques enlèvent la glace.
+- En 1982, l'accident d'Air Florida à Washington a été causé en partie par la glace.
 
 ---
 type: article
@@ -6985,18 +7313,104 @@ status: planned
 
 ---
 type: article
-title: Les systemes anticollision embarques (TCAS)
-slug: les-systemes-anticollision-embarques-tcas
+title: Comment deux avions évitent-ils de se rentrer dedans en plein ciel ?
+slug: comment-deux-avions-evitent-ils-de-se-rentrer-dedans-en-plein-ciel
 categoryPath: aeronautique/aviation-civile/securite
 summary: >
-  Un dispositif qui alerte automatiquement deux avions en route de collision.
-tags: [securite, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les avions de ligne embarquent un système anticollision appelé TCAS. Il interroge par radio
+  les avions voisins pour connaître leur distance et leur altitude. En cas de danger, il
+  ordonne à un pilote de monter et à l'autre de descendre.
+tags: [securite]
+sources:
+  - title: "Traffic Collision Avoidance System"
+    url: "https://fr.wikipedia.org/wiki/Traffic_Collision_Avoidance_System"
+    publisher: "Wikipédia"
+  - title: "Traffic collision avoidance system"
+    url: "https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system"
+    publisher: "Wikipedia"
+  - title: "Collision aérienne d'Überlingen"
+    url: "https://fr.wikipedia.org/wiki/Collision_a%C3%A9rienne_d%27%C3%9Cberlingen"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment le TCAS connaît-il la position des autres avions ?"
+    options:
+      - "Il les filme avec une caméra"
+      - "Il interroge leur transpondeur par radio"
+      - "Le pilote les lui indique"
+    answer: 2
+    explanation: >
+      Le TCAS envoie une question radio à laquelle répond le transpondeur des avions
+      voisins. Il en déduit leur distance et leur altitude.
+  - question: "Que dit le TCAS quand un avion s'approche, sans danger immédiat ?"
+    options:
+      - "« Traffic, traffic »"
+      - "« Climb, climb »"
+      - "« Bonne nuit »"
+    answer: 1
+    explanation: >
+      C'est la première alerte. Elle prévient l'équipage environ 40 secondes avant le
+      point le plus proche.
+  - question: "Que doit faire un pilote si le TCAS lui ordonne de monter alors que le contrôleur lui dit de descendre ?"
+    options:
+      - "Obéir au contrôleur"
+      - "Ne rien faire"
+      - "Obéir au TCAS"
+    answer: 3
+    explanation: >
+      Depuis la catastrophe d'Überlingen en 2002, l'ordre du TCAS passe avant celui du
+      contrôleur aérien.
+  - question: "Quels avions doivent obligatoirement avoir un TCAS ?"
+    options:
+      - "Ceux de plus de 5 700 kg ou de plus de 19 passagers"
+      - "Seulement les avions militaires"
+      - "Seulement les hélicoptères"
+    answer: 1
+    explanation: >
+      L'Organisation de l'aviation civile internationale l'impose aux avions de plus de 5
+      700 kg ou autorisés à transporter plus de 19 passagers.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les avions de ligne embarquent un système anticollision appelé TCAS. Il interroge par radio les avions voisins pour connaître leur distance et leur altitude. En cas de danger, il ordonne à un pilote de monter et à l'autre de descendre.
+
+## Une question radio aux voisins
+
+Les contrôleurs aériens veillent à ce que les avions restent bien séparés. Mais une erreur reste possible. C'est pourquoi les avions de ligne embarquent un second garde-fou : le TCAS. Ce sigle anglais signifie « système d'alerte de trafic et d'évitement de collision ».
+
+Chaque avion porte un transpondeur. C'est une radio qui répond automatiquement quand on l'interroge. Le TCAS envoie sans cesse des questions sur la fréquence de 1 030 mégahertz. Les avions voisins répondent sur 1 090 mégahertz.
+
+Le temps que met la réponse à revenir donne la distance. La réponse indique aussi l'altitude de l'autre avion. Une antenne spéciale donne sa direction. Le TCAS calcule alors où chaque avion sera dans les secondes qui viennent.
+
+## Deux niveaux d'alerte
+
+Quand un avion s'approche et risque de devenir gênant, le TCAS lance une première alerte. Une voix dit « Traffic, traffic ». Elle arrive environ 40 secondes avant le moment où les avions seraient au plus près.
+
+Si le danger se confirme, environ 25 secondes avant, le TCAS donne un ordre précis. Par exemple « Climb, climb », c'est-à-dire « montez », ou « Descend, descend », « descendez ». Le pilote doit obéir aussitôt.
+
+## Un qui monte, l'autre qui descend
+
+Les TCAS des deux avions se parlent. Ils se mettent d'accord pour donner des ordres opposés. Si l'un doit monter, l'autre reçoit l'ordre de descendre. Ainsi, les deux avions s'écartent au lieu de faire la même manœuvre.
+
+L'Organisation de l'aviation civile internationale impose le TCAS aux avions de plus de 5 700 kilogrammes ou autorisés à transporter plus de 19 passagers.
+
+## La leçon d'Überlingen
+
+Le 1er juillet 2002, au-dessus du sud de l'Allemagne, un avion de ligne russe et un avion cargo se rapprochent dangereusement. Le TCAS dit au pilote du cargo de descendre et au pilote russe de monter.
+
+Mais un contrôleur aérien demande au pilote russe de descendre. Celui-ci obéit au contrôleur, tandis que le cargo suit son TCAS. Les deux avions descendent et se percutent. Les 71 personnes à bord meurent, dont 46 enfants.
+
+Depuis, la règle est claire : quand le TCAS donne un ordre, il passe avant celui du contrôleur aérien.
+
+## À retenir
+
+- Le TCAS est un système anticollision embarqué sur les avions de ligne.
+- Il interroge par radio le transpondeur des avions voisins pour connaître leur distance et leur altitude.
+- Il prévient d'abord par « Traffic, traffic », puis ordonne de monter ou de descendre.
+- Les TCAS des deux avions se coordonnent : l'un fait monter, l'autre fait descendre.
+- Depuis la collision d'Überlingen en 2002, l'ordre du TCAS passe avant celui du contrôleur.
 
 ---
 type: article
@@ -7780,18 +8194,106 @@ status: planned
 
 ---
 type: article
-title: La surveillance dependante automatique (ADS-B)
-slug: la-surveillance-dependante-automatique-ads-b
+title: Comment peut-on suivre sur Internet les avions en plein vol ?
+slug: comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol
 categoryPath: aeronautique/navigation-aerienne/controle-du-trafic-aerien
 summary: >
-  Une technologie qui a progressivement complete, puis parfois remplace, le radar classique.
+  La plupart des avions calculent leur position grâce aux satellites et la diffusent par radio
+  une fois par seconde. C'est le système ADS-B. Ces messages ne sont pas codés : des milliers
+  de passionnés les captent et les envoient à des sites comme Flightradar24.
 tags: [controle-du-trafic-aerien]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Automatic dependent surveillance-broadcast"
+    url: "https://fr.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast"
+    publisher: "Wikipédia"
+  - title: "Automatic Dependent Surveillance–Broadcast"
+    url: "https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast"
+    publisher: "Wikipedia"
+  - title: "Flightradar24"
+    url: "https://en.wikipedia.org/wiki/Flightradar24"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle fréquence un avion équipé de l'ADS-B diffuse-t-il sa position ?"
+    options:
+      - "Une fois par heure"
+      - "Une fois par jour"
+      - "Une fois par seconde"
+    answer: 3
+    explanation: >
+      L'ADS-B envoie la position, l'altitude et la vitesse de l'avion une fois par
+      seconde.
+  - question: "Comment l'avion connaît-il sa propre position ?"
+    options:
+      - "Grâce aux satellites de navigation, comme le GPS"
+      - "Grâce à une boussole seule"
+      - "En demandant aux passagers"
+    answer: 1
+    explanation: >
+      L'avion calcule sa position avec les satellites de navigation, puis il la diffuse
+      par radio.
+  - question: "Pourquoi n'importe qui peut-il capter les messages ADS-B ?"
+    options:
+      - "Ils sont affichés sur les ailes"
+      - "Ils ne sont pas codés"
+      - "Ils passent à la télévision"
+    answer: 2
+    explanation: >
+      Les messages ADS-B ne sont pas chiffrés. Un petit récepteur bon marché suffit pour
+      les lire.
+  - question: "Combien de récepteurs le réseau de Flightradar24 comptait-il en 2023 ?"
+    options:
+      - "Plus de 40 000"
+      - "Une dizaine"
+      - "Exactement 100"
+    answer: 1
+    explanation: >
+      En 2023, Flightradar24 avait le plus grand réseau ADS-B du monde, avec plus de 40
+      000 récepteurs.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La plupart des avions calculent leur position grâce aux satellites et la diffusent par radio une fois par seconde. C'est le système ADS-B. Ces messages ne sont pas codés : des milliers de passionnés les captent et les envoient à des sites comme Flightradar24.
+
+## L'avion annonce lui-même où il est
+
+Pendant longtemps, les contrôleurs aériens ont suivi les avions surtout grâce aux radars. Un radar envoie une onde et attend qu'elle rebondisse sur l'avion. Il ne peut mettre à jour la position qu'à chaque tour de son antenne, toutes les quelques secondes.
+
+L'ADS-B fonctionne autrement. Ce sigle anglais signifie « surveillance dépendante automatique en diffusion ». L'avion calcule lui-même sa position grâce aux satellites de navigation, comme le GPS. Puis il la diffuse par radio, sans qu'on le lui demande.
+
+On dit que cette surveillance est « dépendante » parce qu'elle dépend des appareils installés dans l'avion.
+
+## Un message chaque seconde
+
+Une fois par seconde, l'avion envoie un message. Il contient son identité, sa position, son altitude et sa vitesse. Le plus souvent, ce message part sur la fréquence de 1 090 mégahertz.
+
+Les stations au sol captent ces messages et les transmettent aux contrôleurs. Les autres avions équipés peuvent aussi les recevoir. Les pilotes voient alors le trafic autour d'eux.
+
+Aux États-Unis, l'ADS-B est obligatoire depuis le 1er janvier 2020 dans une grande partie de l'espace aérien. En Europe, il l'est pour certains avions depuis 2017.
+
+## Des récepteurs jusque dans l'espace
+
+Au-dessus des océans, il n'y a pas de stations au sol. Depuis 2019, des récepteurs ADS-B installés sur des satellites Iridium captent aussi les messages des avions. On peut ainsi suivre les vols même au milieu de l'Atlantique.
+
+## Des passionnés au service de tous
+
+Les messages ADS-B ne sont pas codés. Avec un petit récepteur bon marché et un logiciel gratuit, n'importe qui peut les lire. On voit alors la vitesse, la direction, l'altitude et le nom des vols qui passent.
+
+Le site suédois Flightradar24 a été créé en 2006 par deux passionnés d'aviation. Il rassemble les signaux captés par des récepteurs installés par des bénévoles. En 2023, son réseau en comptait plus de 40 000. Il suit plus de 200 000 vols par jour.
+
+Pour les avions qui n'ont pas l'ADS-B, le site compare l'heure d'arrivée d'un même signal sur plusieurs récepteurs. Il en déduit la position de l'avion. Cette méthode s'appelle la multilatération.
+
+Cette ouverture a un revers : comme les messages ne sont pas codés, tout le monde peut suivre le trafic aérien, ce qui pose des questions de sécurité.
+
+## À retenir
+
+- Avec l'ADS-B, l'avion calcule sa position grâce aux satellites et la diffuse lui-même par radio.
+- Il envoie son identité, sa position, son altitude et sa vitesse une fois par seconde.
+- Depuis 2019, des satellites captent aussi ces messages au-dessus des océans.
+- Les messages ne sont pas codés : un petit récepteur suffit pour les lire.
+- Flightradar24 rassemble les signaux de plus de 40 000 récepteurs, souvent installés par des bénévoles.
 
 ---
 type: article
@@ -8798,18 +9300,100 @@ status: planned
 
 ---
 type: article
-title: La navigation a l'estime sans instrument electronique
-slug: la-navigation-a-l-estime-sans-instrument-electronique
+title: Comment un pilote peut-il trouver sa route sans GPS ?
+slug: comment-un-pilote-peut-il-trouver-sa-route-sans-gps
 categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
 summary: >
-  Une methode ancienne, encore enseignee, fondee sur le cap, la vitesse et le temps.
-tags: [instruments-de-vol, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Sans GPS, un pilote peut calculer sa position à partir de son point de départ, de sa
+  direction, de sa vitesse et du temps écoulé. C'est la navigation à l'estime. Il doit aussi
+  tenir compte du vent, qui pousse l'avion de côté.
+tags: [instruments-de-vol]
+sources:
+  - title: "Navigation à l'estime"
+    url: "https://fr.wikipedia.org/wiki/Navigation_%C3%A0_l%27estime"
+    publisher: "Wikipédia"
+  - title: "Dead reckoning"
+    url: "https://en.wikipedia.org/wiki/Dead_reckoning"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle formule est à la base de la navigation à l'estime ?"
+    options:
+      - "Distance = vitesse × temps"
+      - "Distance = vitesse + temps"
+      - "Distance = temps ÷ altitude"
+    answer: 1
+    explanation: >
+      En multipliant la vitesse par le temps de vol, on obtient la distance parcourue.
+  - question: "Quel aviateur a traversé l'Atlantique en 1927 en naviguant à l'estime ?"
+    options:
+      - "Neil Armstrong"
+      - "Charles Lindbergh"
+      - "Louis Blériot"
+    answer: 2
+    explanation: >
+      Charles Lindbergh a volé des États-Unis à Paris avec des instruments très simples,
+      en naviguant à l'estime.
+  - question: "Pourquoi les erreurs de l'estime grandissent-elles avec le temps ?"
+    options:
+      - "Parce que la montre ralentit"
+      - "Parce que l'avion devient plus lourd"
+      - "Parce que chaque position est calculée à partir de la précédente"
+    answer: 3
+    explanation: >
+      Chaque petite erreur s'ajoute aux précédentes. C'est pourquoi le pilote vérifie sa
+      position avec des repères au sol.
+  - question: "Comment s'appelle le calcul qui tient compte de l'effet du vent ?"
+    options:
+      - "Le triangle des vents"
+      - "Le carré magique"
+      - "La boussole tournante"
+    answer: 1
+    explanation: >
+      Le triangle des vents combine la vitesse de l'avion et celle du vent pour trouver le
+      cap à suivre.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sans GPS, un pilote peut calculer sa position à partir de son point de départ, de sa direction, de sa vitesse et du temps écoulé. C'est la navigation à l'estime. Il doit aussi tenir compte du vent, qui pousse l'avion de côté.
+
+## Une règle de calcul simple
+
+La navigation à l'estime consiste à calculer où l'on est à partir de l'endroit d'où l'on est parti. Le pilote connaît sa direction, sa vitesse et le temps passé depuis le départ.
+
+Le calcul repose sur une formule simple : distance = vitesse × temps. Un avion qui vole à 250 nœuds pendant 2 heures parcourt 500 milles nautiques dans l'air. Le nœud est une vitesse d'un mille nautique par heure. Un mille nautique vaut 1 852 mètres.
+
+Avec une boussole, une montre et une carte, le pilote peut ainsi suivre sa progression. Il trace sur sa carte la route prévue et note les heures de passage attendues.
+
+## Le piège du vent
+
+L'avion ne vole pas dans un air immobile. Le vent le pousse de côté ou le freine. Si le pilote garde le nez de l'avion pointé droit vers sa destination, il risque d'arriver à côté.
+
+Il doit donc corriger. Pour cela, il utilise le triangle des vents. Ce calcul combine la vitesse de l'avion dans l'air avec la vitesse et la direction du vent. Il donne le cap à suivre, c'est-à-dire la direction vers laquelle pointer le nez. Il donne aussi la vitesse réelle par rapport au sol.
+
+Les pilotes font ces calculs avec des tables, des formules ou une petite règle circulaire appelée calculateur de vol.
+
+## Des erreurs qui s'additionnent
+
+La navigation à l'estime a un gros défaut. Chaque nouvelle position est calculée à partir de la précédente. Une petite erreur de vitesse ou de cap s'ajoute donc à toutes les autres. Plus le voyage est long, plus l'écart grandit.
+
+En mer, on compte qu'après un long trajet la position peut être fausse de 2 à 3 % de la distance parcourue. Pour corriger, le pilote vérifie régulièrement sa position avec des repères au sol : une rivière, une ville, une route.
+
+## Des exploits historiques
+
+En 1919, les Britanniques John Alcock et Arthur Brown traversent l'Atlantique en avion en naviguant à l'estime. En 1927, Charles Lindbergh relie les États-Unis à Paris avec des instruments très simples. Lui aussi navigue à l'estime.
+
+Aujourd'hui, le GPS a pris le relais. Pourtant, la navigation à l'estime reste obligatoire dans la formation de tous les pilotes. Elle sert de méthode de secours si les instruments tombent en panne. Les centrales inertielles, des appareils de navigation automatiques, appliquent d'ailleurs le même principe de façon automatique.
+
+## À retenir
+
+- La navigation à l'estime calcule la position à partir du départ, de la direction, de la vitesse et du temps.
+- Elle repose sur la formule distance = vitesse × temps.
+- Le pilote doit corriger l'effet du vent grâce au triangle des vents.
+- Les erreurs s'additionnent : il faut vérifier sa position avec des repères au sol.
+- Lindbergh a traversé l'Atlantique en 1927 en naviguant à l'estime.
 
 ---
 type: article
@@ -10793,18 +11377,98 @@ status: planned
 
 ---
 type: article
-title: L'inverseur de poussee au freinage
-slug: l-inverseur-de-poussee-au-freinage
+title: Comment un avion de ligne freine-t-il après l'atterrissage ?
+slug: comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage
 categoryPath: aeronautique/propulsion/turboreacteurs
 summary: >
-  Comment un reacteur peut rediriger sa poussee vers l'avant pour ralentir l'avion au sol.
+  Après le toucher des roues, un avion freine avec les freins de ses roues, mais aussi avec
+  ses moteurs. Des inverseurs de poussée renvoient une partie de l'air des réacteurs vers
+  l'avant. Cela aide beaucoup sur une piste mouillée ou glissante.
 tags: [turboreacteurs]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Inverseur de poussée"
+    url: "https://fr.wikipedia.org/wiki/Inverseur_de_pouss%C3%A9e"
+    publisher: "Wikipédia"
+  - title: "Thrust reversal"
+    url: "https://en.wikipedia.org/wiki/Thrust_reversal"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un inverseur de poussée ?"
+    options:
+      - "Il renvoie l'air du moteur vers l'avant"
+      - "Il arrête l'hélice"
+      - "Il sort les roues"
+    answer: 1
+    explanation: >
+      En renvoyant une partie de l'air du moteur vers l'avant, l'inverseur freine l'avion
+      au lieu de le pousser.
+  - question: "Quand les pilotes peuvent-ils utiliser les inverseurs ?"
+    options:
+      - "Pendant la croisière"
+      - "Juste avant le décollage"
+      - "Après que les roues ont touché la piste"
+    answer: 3
+    explanation: >
+      Les inverseurs ne servent qu'au sol. Leur ouverture en vol est très dangereuse.
+  - question: "Pourquoi les referme-t-on vers 60 nœuds, environ 110 km/h ?"
+    options:
+      - "Pour économiser du carburant"
+      - "Pour éviter que le moteur n'aspire des débris de la piste"
+      - "Pour que les passagers puissent se lever"
+    answer: 2
+    explanation: >
+      À basse vitesse, l'air renvoyé vers l'avant pourrait soulever des cailloux que le
+      moteur aspirerait.
+  - question: "Que doit prouver un avion pour être certifié ?"
+    options:
+      - "Il doit pouvoir s'arrêter sans ses inverseurs"
+      - "Il doit avoir quatre inverseurs"
+      - "Il doit freiner seulement avec ses inverseurs"
+    answer: 1
+    explanation: >
+      Les inverseurs sont une sécurité en plus. Un avion doit prouver qu'il peut atterrir
+      sans eux.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Après le toucher des roues, un avion freine avec les freins de ses roues, mais aussi avec ses moteurs. Des inverseurs de poussée renvoient une partie de l'air des réacteurs vers l'avant. Cela aide beaucoup sur une piste mouillée ou glissante.
+
+## Un gros problème de freinage
+
+Un avion de ligne touche la piste à grande vitesse. Il pèse plusieurs dizaines de tonnes. Pour l'arrêter, il utilise d'abord les freins de ses roues. Mais sur une piste mouillée, enneigée ou verglacée, les pneus adhèrent mal. Les freins sont alors moins efficaces.
+
+Les moteurs peuvent aider. Pendant le vol, ils poussent l'avion vers l'avant. Après l'atterrissage, on peut retourner une partie de cette poussée vers l'avant. On utilise pour cela un inverseur de poussée.
+
+## Comment ça marche
+
+Sur un avion à hélices, c'est simple : on change l'angle des pales de l'hélice. Elle souffle alors l'air vers l'avant au lieu de le souffler vers l'arrière.
+
+Sur un avion à réaction, des pièces mobiles s'ouvrent sur le moteur. Elles détournent l'air et le renvoient en avant, en biais, à environ 45 degrés. Il existe plusieurs modèles. Certains ferment l'arrière du moteur avec deux grandes portes, comme une coquille. Sur les gros réacteurs modernes, une partie du capot recule et découvre des grilles. Seul l'air froid poussé par la grande soufflante est renvoyé vers l'avant. C'est d'ailleurs lui qui fournit la plus grande partie de la poussée.
+
+## Des règles strictes
+
+Les inverseurs ne s'ouvrent qu'une fois les roues posées sur la piste. Ils sont interdits en vol, car ils pourraient faire perdre le contrôle de l'avion.
+
+En 1991, l'inverseur d'un moteur d'un avion de Lauda Air s'est ouvert tout seul en plein vol. Les 223 personnes à bord ont été tuées.
+
+On referme aussi les inverseurs quand l'avion a ralenti à environ 60 nœuds, soit à peu près 110 km/h. Plus lentement, l'air renvoyé vers l'avant pourrait soulever des cailloux et des débris que le moteur aspirerait.
+
+## Un plus, pas une obligation
+
+Les inverseurs réduisent la distance de freinage et usent moins les freins. Ils sont aussi utiles quand un pilote doit interrompre un décollage. En revanche, ils sont très bruyants. Certains aéroports limitent donc leur usage.
+
+Pour être certifié, un avion doit prouver qu'il peut s'arrêter sans ses inverseurs. Ceux-ci sont une sécurité en plus, pas une pièce indispensable.
+
+## À retenir
+
+- Après l'atterrissage, l'avion freine surtout avec les freins de ses roues.
+- Les inverseurs de poussée renvoient une partie de l'air des moteurs vers l'avant pour aider à freiner.
+- Ils sont très utiles sur une piste mouillée, enneigée ou verglacée.
+- Ils ne s'ouvrent qu'au sol et se referment vers 60 nœuds pour éviter d'aspirer des débris.
+- Un avion doit pouvoir s'arrêter sans ses inverseurs pour être certifié.
 
 ---
 type: article
@@ -11678,18 +12342,103 @@ status: planned
 
 ---
 type: article
-title: La magnetos double et la redondance de l'allumage aeronautique
-slug: la-magnetos-double-et-la-redondance-de-l-allumage-aeronautique
+title: Pourquoi le moteur d'un petit avion a-t-il deux allumages ?
+slug: pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages
 categoryPath: aeronautique/propulsion/moteurs-a-piston
 summary: >
-  Pourquoi chaque moteur d'avion leger dispose de deux systemes d'allumage independants.
-tags: [moteurs-a-piston, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans un moteur à pistons, une étincelle enflamme l'essence et l'air. Sur les petits avions,
+  ces étincelles viennent de deux magnétos, de petites génératrices qui fonctionnent sans
+  batterie. Si l'une tombe en panne, l'autre fait tourner le moteur.
+tags: [moteurs-a-piston]
+sources:
+  - title: "Ignition magneto"
+    url: "https://en.wikipedia.org/wiki/Ignition_magneto"
+    publisher: "Wikipedia"
+  - title: "Magnéto d'allumage"
+    url: "https://fr.wikipedia.org/wiki/Magn%C3%A9to_d%27allumage"
+    publisher: "Wikipédia"
+quiz:
+  - question: "De quoi une magnéto a-t-elle besoin pour produire du courant ?"
+    options:
+      - "D'une batterie"
+      - "De la rotation du moteur"
+      - "De la lumière du Soleil"
+    answer: 2
+    explanation: >
+      La magnéto est une petite génératrice : la rotation du moteur fait tourner un aimant
+      ou une bobine, ce qui produit le courant.
+  - question: "Quelle tension faut-il pour faire jaillir une étincelle à la bougie ?"
+    options:
+      - "Environ 20 000 volts"
+      - "Environ 2 volts"
+      - "Environ 220 volts"
+    answer: 1
+    explanation: >
+      Un transformateur élève la tension jusqu'à environ 20 000 volts, ce qui fait jaillir
+      l'étincelle.
+  - question: "Pourquoi un moteur d'avion a-t-il deux magnétos ?"
+    options:
+      - "Pour aller deux fois plus vite"
+      - "Pour faire moins de bruit"
+      - "Pour que le moteur continue à tourner si l'une tombe en panne"
+    answer: 3
+    explanation: >
+      Les deux allumages sont indépendants. Si l'un lâche, l'autre suffit à faire tourner
+      le moteur.
+  - question: "Que vérifie le pilote avant le vol en coupant une magnéto à la fois ?"
+    options:
+      - "La baisse du régime du moteur"
+      - "La couleur de la fumée"
+      - "La pression des pneus"
+    answer: 1
+    explanation: >
+      Le pilote fait tourner le moteur sur une seule magnéto puis sur l'autre. Le régime
+      doit baisser un peu, mais pas trop.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un moteur à pistons, une étincelle enflamme l'essence et l'air. Sur les petits avions, ces étincelles viennent de deux magnétos, de petites génératrices qui fonctionnent sans batterie. Si l'une tombe en panne, l'autre fait tourner le moteur.
+
+## Une étincelle pour faire tourner le moteur
+
+La plupart des petits avions ont un moteur à pistons, assez proche de celui d'une voiture. Dans chaque cylindre, un mélange d'air et d'essence est comprimé. Une étincelle l'enflamme. Le gaz brûlant pousse le piston, qui fait tourner l'hélice.
+
+L'étincelle jaillit entre les deux pointes d'une bougie. Pour cela, il faut une très forte tension, d'environ 20 000 volts.
+
+## La magnéto, une génératrice sans batterie
+
+Sur les petits avions, ce courant vient le plus souvent d'une magnéto. C'est une petite génératrice d'électricité entraînée par le moteur. En tournant, un aimant et une bobine produisent du courant, comme une dynamo de vélo.
+
+Ce courant est faible. Un transformateur l'élève alors à plusieurs dizaines de milliers de volts. Sa seconde bobine a environ 100 fois plus de tours de fil que la première.
+
+L'avantage est énorme : la magnéto ne dépend d'aucune batterie. Tant que le moteur tourne, elle produit ses propres étincelles. Même si tout le circuit électrique de l'avion tombe en panne, le moteur continue de fonctionner.
+
+## Deux de tout
+
+Sur un avion, une panne de moteur est bien plus grave que sur une route. On ne peut pas se garer sur le bas-côté. Les ingénieurs ont donc doublé l'allumage.
+
+Le moteur a deux magnétos indépendantes. Chacune a ses propres fils et sa propre bougie dans chaque cylindre. Chaque cylindre a donc deux bougies. Si une magnéto ou une bougie tombe en panne, l'autre continue d'enflammer le mélange. Les deux étincelles ensemble améliorent aussi la combustion.
+
+## La vérification avant le vol
+
+Avant chaque décollage, le pilote fait un test. Moteur en marche, il le fait tourner sur une seule magnéto, puis sur l'autre. Le régime du moteur doit baisser un peu, mais pas trop. Une forte baisse signale un problème.
+
+Il faut aussi se méfier au sol. Si un fil de coupure est débranché, une magnéto reste « chaude ». Tourner l'hélice à la main pourrait alors faire démarrer le moteur, ce qui est très dangereux.
+
+## Une vieille invention toujours utile
+
+Les premières magnétos à haute tension ont été mises au point à la fin des années 1890, par l'Anglais Frederick Simms et l'équipe de l'Allemand Robert Bosch. Les voitures les ont abandonnées pour des allumages à batterie, puis électroniques. Les moteurs à pistons d'avion les utilisent encore, pour leur fiabilité.
+
+## À retenir
+
+- Dans un moteur à pistons, une étincelle enflamme le mélange d'air et d'essence.
+- La magnéto est une petite génératrice entraînée par le moteur, qui fonctionne sans batterie.
+- Un moteur d'avion a deux magnétos indépendantes et deux bougies par cylindre.
+- Si un allumage tombe en panne, l'autre suffit à faire tourner le moteur.
+- Avant chaque vol, le pilote teste les magnétos une par une.
 
 ---
 type: article
@@ -12563,18 +13312,98 @@ status: planned
 
 ---
 type: article
-title: Les turbopropulseurs et leur usage dans les avions amphibies de lutte anti-incendie
-slug: les-turbopropulseurs-et-leur-usage-dans-les-avions-amphibies-de-lutte-anti-incendie
+title: Comment un avion bombardier d'eau remplit-il ses réservoirs sans s'arrêter ?
+slug: comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter
 categoryPath: aeronautique/propulsion/turbopropulseurs
 summary: >
-  Une motorisation appreciee pour sa fiabilite lors de missions exigeantes et repetees.
-tags: [turbopropulseurs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le Canadair CL-415 frôle la surface d'un lac ou de la mer et ouvre deux petites écopes sous
+  sa coque. En une douzaine de secondes, il avale plus de 6 000 litres d'eau, puis redécolle.
+  Ses deux turbopropulseurs lui donnent la puissance nécessaire.
+tags: [turbopropulseurs]
+sources:
+  - title: "Canadair CL-415"
+    url: "https://fr.wikipedia.org/wiki/Canadair_CL-415"
+    publisher: "Wikipédia"
+  - title: "Canadair CL-415"
+    url: "https://en.wikipedia.org/wiki/Canadair_CL-415"
+    publisher: "Wikipedia"
+  - title: "Turbopropulseur"
+    url: "https://fr.wikipedia.org/wiki/Turbopropulseur"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien d'eau un Canadair CL-415 peut-il écoper ?"
+    options:
+      - "Environ 600 litres"
+      - "Environ 6 137 litres"
+      - "Environ 60 000 litres"
+    answer: 2
+    explanation: >
+      Le CL-415 remplit deux réservoirs pour un total de 6 137 litres d'eau.
+  - question: "Combien de temps dure l'écopage ?"
+    options:
+      - "Une douzaine de secondes"
+      - "Une demi-heure"
+      - "Deux heures"
+    answer: 1
+    explanation: >
+      En glissant sur l'eau, l'avion remplit ses réservoirs en 9 à 12 secondes environ.
+  - question: "Quelle part de la poussée d'un turbopropulseur vient de l'hélice ?"
+    options:
+      - "Environ 10 %"
+      - "La moitié"
+      - "Environ 90 %"
+    answer: 3
+    explanation: >
+      L'hélice fournit environ 90 % de la poussée. Les gaz d'échappement en donnent moins
+      de 10 %.
+  - question: "Quel moteur équipait l'ancien modèle, le CL-215 ?"
+    options:
+      - "Des moteurs à pistons"
+      - "Des moteurs électriques"
+      - "Des réacteurs"
+    answer: 1
+    explanation: >
+      Le CL-215 avait des moteurs à pistons. Le CL-415 les a remplacés par des
+      turbopropulseurs plus puissants.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le Canadair CL-415 frôle la surface d'un lac ou de la mer et ouvre deux petites écopes sous sa coque. En une douzaine de secondes, il avale plus de 6 000 litres d'eau, puis redécolle. Ses deux turbopropulseurs lui donnent la puissance nécessaire.
+
+## Un avion qui se pose sur l'eau
+
+Le Canadair CL-415 est un avion amphibie : il peut se poser sur une piste ou sur l'eau. Il sert surtout à lutter contre les feux de forêt. On l'appelle un bombardier d'eau.
+
+Il a fait son premier vol le 6 décembre 1993. Jusqu'en 2015, 95 exemplaires ont été construits. La Sécurité civile française en possède la plus grande flotte civile. Elle en a d'abord commandé 12, livrés entre 1995 et 1997.
+
+## L'écopage, sans jamais s'arrêter
+
+Pour faire le plein, le Canadair n'a pas besoin de rentrer à l'aéroport. Il descend vers un lac ou la mer, puis glisse sur l'eau à grande vitesse. Il ouvre alors deux petites écopes sous sa coque. La vitesse de l'avion pousse l'eau dans ses réservoirs.
+
+En 9 à 12 secondes environ, il remplit ses deux réservoirs. Il emporte ainsi 6 137 litres d'eau. Pendant ce temps, il parcourt environ 400 mètres sur l'eau. Puis il remet les gaz et redécolle, sans s'être arrêté.
+
+Il lui faut environ 1 340 mètres de trajet dégagé pour descendre, écoper et remonter. On peut aussi mélanger à l'eau un produit moussant qui la rend plus efficace contre le feu. Le CL-415 peut larguer son eau près de 7 fois par heure de vol.
+
+## Des turbopropulseurs puissants
+
+Le CL-415 est équipé de deux turbopropulseurs. Un turbopropulseur est une turbine à gaz, comme celle d'un réacteur, qui fait tourner une hélice. La turbine tourne très vite, environ 15 000 tours par minute. Une boîte de vitesses, le réducteur, ralentit la rotation pour l'hélice. Sinon, le bout des pales irait plus vite que le son.
+
+L'hélice fournit environ 90 % de la poussée. Les gaz qui sortent du moteur en donnent moins de 10 %. Chaque moteur du CL-415 développe environ 1 780 kilowatts, soit à peu près 2 400 chevaux.
+
+Les turbopropulseurs consomment moins qu'un réacteur aux vitesses moyennes, entre 300 et 800 km/h.
+
+L'ancien modèle, le CL-215, avait des moteurs à pistons. Les turbopropulseurs du CL-415 lui permettent d'emporter plus. Son successeur, le DHC-515, pourra écoper 7 000 litres. Ses premières livraisons sont prévues en 2028.
+
+## À retenir
+
+- Le Canadair CL-415 est un avion amphibie qui lutte contre les feux de forêt.
+- Il remplit ses réservoirs en glissant sur l'eau, en 9 à 12 secondes environ.
+- Il emporte 6 137 litres d'eau à chaque écopage.
+- Ses deux turbopropulseurs sont des turbines à gaz qui font tourner des hélices.
+- Dans un turbopropulseur, l'hélice fournit environ 90 % de la poussée.
 
 ---
 type: article

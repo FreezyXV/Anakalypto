@@ -3966,18 +3966,91 @@ status: planned
 
 ---
 type: article
-title: Le procede Haber-Bosch et la fabrication d'engrais
-slug: le-procede-haber-bosch-et-la-fabrication-d-engrais
+title: Comment fabrique-t-on des engrais avec l'azote de l'air ?
+slug: comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Une invention qui a permis de nourrir des milliards d'humains supplementaires.
-tags: [chimie-industrielle, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les plantes ont besoin d'azote, mais elles ne savent pas prendre celui de l'air. Depuis
+  1913, le procédé Haber-Bosch combine cet azote avec de l'hydrogène pour fabriquer de
+  l'ammoniac. Cet ammoniac sert surtout à fabriquer des engrais.
+tags: [chimie-industrielle]
+sources:
+  - title: "Procédé Haber-Bosch"
+    url: "https://fr.wikipedia.org/wiki/Proc%C3%A9d%C3%A9_Haber-Bosch"
+    publisher: "Wikipédia"
+  - title: "Haber process"
+    url: "https://en.wikipedia.org/wiki/Haber_process"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fabrique le procédé Haber-Bosch ?"
+    options:
+      - "Du pétrole"
+      - "De l'ammoniac"
+      - "Du sucre"
+    answer: 2
+    explanation: >
+      Le procédé combine de l'azote et de l'hydrogène pour former de l'ammoniac, qui sert
+      surtout à fabriquer des engrais.
+  - question: "D'où vient l'azote utilisé par le procédé ?"
+    options:
+      - "De l'air"
+      - "Du sable"
+      - "Du charbon"
+    answer: 1
+    explanation: >
+      L'azote est tiré de l'air. L'hydrogène, lui, est le plus souvent obtenu à partir de
+      gaz naturel.
+  - question: "À quoi sert le catalyseur à base de fer ?"
+    options:
+      - "À colorer l'engrais"
+      - "À refroidir les gaz"
+      - "À accélérer la réaction sans être consommé"
+    answer: 3
+    explanation: >
+      Un catalyseur accélère une réaction chimique sans disparaître. Ici, il aide à casser
+      la liaison très solide de l'azote.
+  - question: "Quelle part de l'azote du corps humain vient de ce procédé, à travers les aliments ?"
+    options:
+      - "Presque rien"
+      - "Près de la moitié"
+      - "La totalité"
+    answer: 2
+    explanation: >
+      Près de la moitié de l'azote présent dans nos tissus provient d'engrais fabriqués
+      par le procédé Haber-Bosch.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les plantes ont besoin d'azote, mais elles ne savent pas prendre celui de l'air. Depuis 1913, le procédé Haber-Bosch combine cet azote avec de l'hydrogène pour fabriquer de l'ammoniac. Cet ammoniac sert surtout à fabriquer des engrais.
+
+## Un gaz partout, mais difficile à attraper
+
+Les plantes ont besoin d'azote pour pousser. Il y en a énormément dans l'air, sous forme de gaz. Mais les plantes ne savent pas l'utiliser directement. Dans ce gaz, deux atomes d'azote sont attachés par une triple liaison, un lien chimique très solide. Il faut beaucoup d'énergie pour la casser. Les engrais azotés apportent aux cultures un azote que les plantes peuvent absorber par leurs racines.
+
+## La recette de l'ammoniac
+
+Le procédé Haber-Bosch fabrique de l'ammoniac, un composé d'azote et d'hydrogène. On mélange de l'azote tiré de l'air avec de l'hydrogène, le plus souvent obtenu à partir de gaz naturel. Il faut trois molécules d'hydrogène pour une molécule d'azote. Le mélange est chauffé entre 300 et 550 °C. Il est aussi très fortement comprimé, à environ 150 à 250 fois la pression de l'air. Il passe enfin sur un catalyseur à base de fer. Un catalyseur est une substance qui accélère une réaction sans être consommée.
+
+À chaque passage, seuls 15 % environ des gaz se transforment en ammoniac. On fait donc repasser le reste, encore et encore, jusqu'à transformer environ 98 % du mélange. L'ammoniac sert ensuite à fabriquer des engrais comme l'urée ou le nitrate d'ammonium.
+
+## Deux chimistes et une usine
+
+Le chimiste allemand Fritz Haber a mis au point la réaction en laboratoire en 1909. L'entreprise BASF l'a rendue industrielle grâce à l'ingénieur Carl Bosch. En 1913, son usine d'Oppau produisait 30 tonnes d'ammoniac par jour. Haber a reçu le prix Nobel de chimie en 1918, Bosch en 1931. Pendant la Première Guerre mondiale, l'Allemagne a aussi utilisé cet ammoniac pour fabriquer des explosifs.
+
+## Nourrir le monde, à un prix
+
+En 2019, le monde a produit environ 170 millions de tonnes d'ammoniac. Près de la moitié de l'azote présent dans le corps humain vient de ce procédé, à travers les aliments que nous mangeons. Mais il consomme 3 à 5 % du gaz naturel produit sur Terre. Il est responsable d'environ 2 % des émissions mondiales de dioxyde de carbone, un gaz qui réchauffe le climat.
+
+## À retenir
+
+- Les plantes ont besoin d'azote mais ne savent pas utiliser celui de l'air.
+- Le procédé Haber-Bosch combine l'azote de l'air et de l'hydrogène pour faire de l'ammoniac.
+- La réaction demande une forte chaleur, une très forte pression et un catalyseur en fer.
+- Fritz Haber a inventé la réaction en 1909, et la première usine a démarré en 1913.
+- Près de la moitié de l'azote de notre corps vient de ce procédé, qui consomme 3 à 5 % du gaz naturel mondial.
 
 ---
 type: article
@@ -4569,18 +4642,92 @@ status: planned
 
 ---
 type: article
-title: La difference entre fonte, fer et acier
-slug: la-difference-entre-fonte-fer-et-acier
+title: Pourquoi la fonte, le fer et l'acier ne se comportent-ils pas de la même façon ?
+slug: pourquoi-la-fonte-le-fer-et-l-acier-ne-se-comportent-ils-pas-de-la-meme-facon
 categoryPath: industries/industrie-lourde/siderurgie
 summary: >
-  Trois materiaux proches mais aux proprietes tres differentes selon leur teneur en carbone.
-tags: [siderurgie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La fonte, le fer forgé et l'acier sont faits surtout de fer. Ce qui les distingue, c'est la
+  quantité de carbone qu'ils contiennent. Cette petite différence rend la fonte facile à
+  mouler mais cassante, et l'acier à la fois dur et souple.
+tags: [siderurgie]
+sources:
+  - title: "Fonte (métallurgie)"
+    url: "https://fr.wikipedia.org/wiki/Fonte_(m%C3%A9tallurgie)"
+    publisher: "Wikipédia"
+  - title: "Fer puddlé"
+    url: "https://fr.wikipedia.org/wiki/Fer_puddl%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Steel"
+    url: "https://en.wikipedia.org/wiki/Steel"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel élément, mélangé au fer, fait la différence entre la fonte, le fer forgé et l'acier ?"
+    options:
+      - "Le cuivre"
+      - "Le carbone"
+      - "L'or"
+    answer: 2
+    explanation: >
+      Le fer forgé contient moins de 0,1 % de carbone, l'acier jusqu'à environ 2 %, la
+      fonte plus de 2 %.
+  - question: "Pourquoi utilise-t-on la fonte pour fabriquer des plaques d'égout et des radiateurs ?"
+    options:
+      - "Elle est plus légère que le plastique"
+      - "Elle ne contient pas de fer"
+      - "Elle fond à plus basse température et se moule facilement"
+    answer: 3
+    explanation: >
+      La fonte fond entre 1 135 et 1 350 °C, moins chaud que l'acier. Elle coule bien dans
+      les moules.
+  - question: "En quel métal la tour Eiffel est-elle construite ?"
+    options:
+      - "En fer puddlé"
+      - "En fonte"
+      - "En aluminium"
+    answer: 1
+    explanation: >
+      La tour Eiffel, achevée en 1889, est construite en fer puddlé, un fer pauvre en
+      carbone qui résiste bien aux chocs.
+  - question: "Que faut-il ajouter à l'acier pour le rendre inoxydable ?"
+    options:
+      - "Du sel"
+      - "Du chrome"
+      - "Beaucoup de carbone"
+    answer: 2
+    explanation: >
+      Avec plus de 10 % de chrome, l'acier se couvre d'une fine couche protectrice et
+      rouille beaucoup moins.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La fonte, le fer forgé et l'acier sont faits surtout de fer. Ce qui les distingue, c'est la quantité de carbone qu'ils contiennent. Cette petite différence rend la fonte facile à mouler mais cassante, et l'acier à la fois dur et souple.
+
+## Une affaire de carbone
+
+La fonte, le fer forgé et l'acier sont tous faits surtout de fer. Ce qui les distingue, c'est la quantité de carbone mélangée au métal. Un mélange d'un métal avec un autre élément s'appelle un alliage. Le fer forgé contient moins de 0,1 % de carbone. L'acier en contient jusqu'à environ 2 %. La fonte en contient plus de 2 %. Ces petits écarts changent complètement le comportement du métal.
+
+## La fonte, facile à mouler mais cassante
+
+La fonte fond entre 1 135 et 1 350 °C. C'est une température plus basse que celle de l'acier. La fonte coule donc facilement dans un moule et en prend toutes les formes. On en fait des plaques d'égout, des radiateurs, des blocs moteurs et des bancs publics. Elle résiste bien à la rouille. Mais la fonte est fragile : un choc violent peut la casser au lieu de la tordre. En Angleterre, l'Iron Bridge, construit entre 1777 et 1779, est un pont entièrement en fonte.
+
+## Le fer forgé, souple et résistant aux chocs
+
+Pour obtenir un fer pauvre en carbone, on a longtemps affiné la fonte. Affiner, c'est retirer une grande partie de son carbone. Le puddlage, breveté par l'Anglais Henry Cort en 1784, faisait ce travail dans un four. Le fer puddlé obtenu résiste bien aux chocs et se plie sans casser. En revanche, il rouille facilement. La tour Eiffel, achevée en 1889, est construite en fer puddlé. Entre 1850 et 1910, ce fer a peu à peu été remplacé par l'acier, que de nouveaux fours savaient produire en grande quantité.
+
+## L'acier, entre les deux
+
+L'acier se situe entre la fonte et le fer forgé. Ses atomes de carbone se glissent entre les atomes de fer. Quand on tire ou qu'on appuie sur le métal, ils gênent les mouvements à l'intérieur. L'acier devient ainsi plus dur et plus solide que le fer pur, tout en restant capable de se plier. En ajoutant d'autres éléments, on change encore ses qualités. Avec plus de 10 % de chrome, il devient inoxydable et rouille beaucoup moins. Aujourd'hui, le monde produit plus de 1,6 milliard de tonnes d'acier par an. En 2023, la Chine en a fabriqué 54 %.
+
+## À retenir
+
+- La fonte, le fer forgé et l'acier se distinguent par leur teneur en carbone.
+- La fonte contient plus de 2 % de carbone : elle se moule bien mais elle est cassante.
+- Le fer forgé contient moins de 0,1 % de carbone : il résiste aux chocs mais rouille vite.
+- L'acier, avec jusqu'à environ 2 % de carbone, est à la fois dur et souple.
+- La tour Eiffel, achevée en 1889, est construite en fer puddlé.
 
 ---
 type: article
@@ -5569,18 +5716,93 @@ status: planned
 
 ---
 type: article
-title: La chaine du froid dans le transport de marchandises
-slug: la-chaine-du-froid-dans-le-transport-de-marchandises
+title: Comment la chaîne du froid garde-t-elle les aliments frais pendant leur voyage ?
+slug: comment-la-chaine-du-froid-garde-t-elle-les-aliments-frais-pendant-leur-voyage
 categoryPath: industries/industrie-manufacturiere/chaine-logistique
 summary: >
-  Comment on maintient une temperature constante sur de longues distances.
-tags: [chaine-logistique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La chaîne du froid maintient les aliments et certains médicaments à basse température, de la
+  production jusqu'au consommateur. Chaque étape a sa température : de 0 à 2 °C pour le
+  poisson frais, −18 °C pour les surgelés. Si la chaîne se rompt, des bactéries dangereuses
+  peuvent se multiplier.
+tags: [chaine-logistique]
+sources:
+  - title: "Chaîne du froid"
+    url: "https://fr.wikipedia.org/wiki/Cha%C3%AEne_du_froid"
+    publisher: "Wikipédia"
+  - title: "Cold chain"
+    url: "https://en.wikipedia.org/wiki/Cold_chain"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle température doit-on garder les produits surgelés ?"
+    options:
+      - "4 °C"
+      - "0 °C"
+      - "−18 °C"
+    answer: 3
+    explanation: >
+      Les produits surgelés doivent rester à −18 °C tout au long de leur voyage.
+  - question: "Pourquoi une rupture de la chaîne du froid est-elle dangereuse ?"
+    options:
+      - "Des bactéries comme la listeria peuvent se multiplier"
+      - "Les aliments deviennent radioactifs"
+      - "Les aliments perdent leur couleur seulement"
+    answer: 1
+    explanation: >
+      Quand un aliment se réchauffe, puis est recongelé, des bactéries dangereuses peuvent
+      se développer.
+  - question: "Qui a breveté en 1940 un appareil de refroidissement pour les camions ?"
+    options:
+      - "Thomas Edison"
+      - "Frederick McKinley Jones"
+      - "Louis Pasteur"
+    answer: 2
+    explanation: >
+      L'inventeur américain Frederick McKinley Jones a breveté en 1940 un groupe
+      frigorifique portable pour camions.
+  - question: "Comment surveille-t-on aujourd'hui la température pendant le transport ?"
+    options:
+      - "En goûtant les aliments à l'arrivée"
+      - "Avec des enregistreurs connectés"
+      - "On ne la surveille jamais"
+    answer: 2
+    explanation: >
+      Des enregistreurs mesurent la température en continu et peuvent transmettre les
+      données à distance.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La chaîne du froid maintient les aliments et certains médicaments à basse température, de la production jusqu'au consommateur. Chaque étape a sa température : de 0 à 2 °C pour le poisson frais, −18 °C pour les surgelés. Si la chaîne se rompt, des bactéries dangereuses peuvent se multiplier.
+
+## Une chaîne sans maillon faible
+
+Un yaourt, un poisson ou un vaccin font souvent un long voyage avant d'arriver chez nous. Pendant tout ce trajet, ils doivent rester au froid. La chaîne du froid, c'est l'ensemble des étapes qui gardent ces produits à basse température : le stockage, le transport, la manutention, la vente et même le rangement à la maison. Le froid ralentit la multiplication des microbes. Un seul maillon trop chaud suffit pour abîmer le produit.
+
+## Chaque produit sa température
+
+Toutes les marchandises n'ont pas les mêmes besoins. Le poisson frais doit rester entre 0 et 2 °C. La plupart des aliments frais se conservent entre 2 et 8 °C. Les surgelés doivent rester à −18 °C. Beaucoup de médicaments voyagent entre 2 et 8 °C. Certains vaccins ont besoin de bien plus froid. Le vaccin de Pfizer-BioNTech contre le Covid-19 devait être gardé à −70 °C.
+
+## Quand la chaîne se rompt
+
+Si un aliment se réchauffe, puis est recongelé, des bactéries dangereuses peuvent s'y multiplier. C'est le cas des salmonelles ou de la listeria. Elles provoquent des intoxications alimentaires, avec de la diarrhée et de la fièvre, et parfois pire. Pour les médicaments, un écart de température peut les rendre moins efficaces.
+
+## Camions frigorifiques et capteurs connectés
+
+Au XIXe siècle, on transportait déjà des marchandises dans des glacières montées sur roues. L'expression « chaîne du froid » a été utilisée pour la première fois en 1908. En 1940, l'inventeur américain Frederick McKinley Jones a breveté un groupe frigorifique portable pour les camions. Ce type d'appareil a permis de transporter des produits frais sur de longues distances.
+
+Aujourd'hui, des enregistreurs mesurent la température en continu pendant le voyage. Certains sont connectés et envoient leurs mesures à distance. Associés au GPS, ils permettent de savoir où se trouve un camion et à quelle température est sa cargaison. En cas de problème, on peut réagir avant que la marchandise soit perdue.
+
+Ce froid a un coût. La réfrigération absorbe environ 8 % de l'énergie consommée dans le monde. Les fluides qui produisent le froid peuvent aussi fuir et réchauffer le climat.
+
+## À retenir
+
+- La chaîne du froid garde les produits au froid, de la production jusqu'à la maison.
+- Le poisson frais reste entre 0 et 2 °C, les surgelés à −18 °C.
+- Une rupture de la chaîne peut laisser se multiplier des bactéries comme la listeria.
+- En 1940, Frederick McKinley Jones a breveté un groupe frigorifique pour camions.
+- Des enregistreurs connectés surveillent aujourd'hui la température pendant tout le voyage.
 
 ---
 type: article
@@ -5854,33 +6076,179 @@ status: planned
 
 ---
 type: article
-title: L'histoire du systeme metrique
-slug: l-histoire-du-systeme-metrique
+title: Pourquoi la France a-t-elle inventé le mètre ?
+slug: pourquoi-la-france-a-t-elle-invente-le-metre
 categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
 summary: >
-  Comment une reforme revolutionnaire a impose un systeme de mesure universel.
-tags: [qualite-et-normalisation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En 1789, la France utilisait environ 800 unités de mesure différentes. Pour simplifier le
+  commerce et la science, les révolutionnaires ont créé le mètre, défini à partir de la taille
+  de la Terre. Ce système métrique est devenu international en 1875.
+tags: [qualite-et-normalisation]
+sources:
+  - title: "Histoire du système métrique"
+    url: "https://fr.wikipedia.org/wiki/Histoire_du_syst%C3%A8me_m%C3%A9trique"
+    publisher: "Wikipédia"
+  - title: "Mètre"
+    url: "https://fr.wikipedia.org/wiki/M%C3%A8tre"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien d'unités de mesure différentes existaient en France vers 1789 ?"
+    options:
+      - "Une dizaine"
+      - "Environ 800"
+      - "Plus d'un million"
+    answer: 2
+    explanation: >
+      Il en existait environ 800. Une livre, par exemple, ne pesait pas la même chose à
+      Paris et à Lyon.
+  - question: "Comment le mètre a-t-il été défini en 1793 ?"
+    options:
+      - "Comme la longueur du pied du roi"
+      - "Comme la taille moyenne d'un homme"
+      - "Comme le dix-millionième du quart du méridien terrestre"
+    answer: 3
+    explanation: >
+      Le mètre devait être la dix-millionième partie de la distance entre le pôle Nord et
+      l'équateur.
+  - question: "Entre quelles villes Delambre et Méchain ont-ils mesuré la Terre ?"
+    options:
+      - "Dunkerque et Barcelone"
+      - "Paris et Rome"
+      - "Lyon et Marseille"
+    answer: 1
+    explanation: >
+      De 1792 à 1798, ils ont mesuré un arc de méridien entre Dunkerque et Barcelone.
+  - question: "Comment le mètre est-il défini depuis 1983 ?"
+    options:
+      - "Par une barre de métal"
+      - "Par la distance parcourue par la lumière en un temps très court"
+      - "Par la longueur d'un pendule"
+    answer: 2
+    explanation: >
+      C'est la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1789, la France utilisait environ 800 unités de mesure différentes. Pour simplifier le commerce et la science, les révolutionnaires ont créé le mètre, défini à partir de la taille de la Terre. Ce système métrique est devenu international en 1875.
+
+## Le casse-tête des mesures
+
+Avant la Révolution, chaque région de France avait ses propres mesures. En 1789, on en comptait environ 800. Le même nom ne voulait pas dire la même chose partout. Une livre pesait 489,5 grammes à Paris, mais seulement 414,8 grammes à Lyon. Commercer d'une ville à l'autre devenait compliqué, et les savants avaient du mal à comparer leurs résultats.
+
+## Une mesure tirée de la Terre
+
+Le 9 mars 1790, Talleyrand propose à l'Assemblée nationale un système fondé sur la nature, le même pour tous. Le 1er août 1793, la Convention adopte le nouveau système. Le mètre est défini comme la dix-millionième partie du quart du méridien terrestre. Un méridien est une ligne imaginaire qui relie les deux pôles. Le quart du méridien va donc du pôle Nord jusqu'à l'équateur.
+
+Il fallait encore mesurer cette distance. De 1792 à 1798, les astronomes Jean-Baptiste Delambre et Pierre Méchain mesurent un morceau de méridien entre Dunkerque et Barcelone. Ils travaillent en pleine période révolutionnaire, dans des conditions difficiles. À partir de leurs mesures, on calcule la longueur du mètre.
+
+## Des étalons en platine
+
+En juin 1799, deux objets en platine deviennent les références officielles. L'un a la longueur d'un mètre, l'autre la masse d'un kilogramme. On les appelle des étalons. Ils sont toujours conservés aux Archives nationales. Pourtant, les gens gardent longtemps leurs vieilles habitudes. Le système métrique ne devient obligatoire en France que le 1er janvier 1840.
+
+## Une mesure pour le monde entier
+
+Le 20 mai 1875, plusieurs pays signent la Convention du mètre. Elle crée le Bureau international des poids et mesures, chargé de garder les références communes. En 1889, un nouveau mètre étalon est fabriqué, avec 90 % de platine et 10 % d'iridium. Puis les scientifiques cherchent une définition encore plus précise. Depuis 1983, le mètre est la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde.
+
+## À retenir
+
+- Vers 1789, la France utilisait environ 800 unités de mesure différentes.
+- En 1793, le mètre est défini comme le dix-millionième de la distance du pôle Nord à l'équateur.
+- Delambre et Méchain ont mesuré le méridien entre Dunkerque et Barcelone de 1792 à 1798.
+- Le système métrique est devenu obligatoire en France le 1er janvier 1840.
+- Depuis 1983, le mètre est défini grâce à la vitesse de la lumière.
 
 ---
 type: article
-title: Les pieces interchangeables, une revolution industrielle
-slug: les-pieces-interchangeables-une-revolution-industrielle
+title: Pourquoi les pièces interchangeables ont-elles changé la fabrication des objets ?
+slug: pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets
 categoryPath: industries/industrie-manufacturiere/qualite-et-normalisation
 summary: >
-  Comment cette idee simple a rendu possible la production et la reparation en masse.
-tags: [qualite-et-normalisation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une pièce interchangeable peut en remplacer une autre identique sans aucun ajustement. Avant
+  elles, chaque objet était fabriqué et réparé à la main, pièce par pièce. Leur généralisation
+  au XIXe siècle a ouvert la voie à la production en série.
+tags: [qualite-et-normalisation]
+sources:
+  - title: "Pièces interchangeables"
+    url: "https://fr.wikipedia.org/wiki/Pi%C3%A8ces_interchangeables"
+    publisher: "Wikipédia"
+  - title: "Interchangeable parts"
+    url: "https://en.wikipedia.org/wiki/Interchangeable_parts"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'une pièce interchangeable ?"
+    options:
+      - "Une pièce qui change de couleur"
+      - "Une pièce qui peut remplacer une autre identique sans ajustement"
+      - "Une pièce fabriquée à la main sur mesure"
+    answer: 2
+    explanation: >
+      Une pièce interchangeable s'installe à la place d'une autre identique, sans qu'il
+      faille la limer ou la retoucher.
+  - question: "Que montra l'armurier Honoré Blanc à la fin du XVIIIe siècle ?"
+    options:
+      - "Qu'on pouvait monter des mécanismes de fusil pris au hasard dans un tas"
+      - "Qu'un fusil pouvait tirer sous l'eau"
+      - "Qu'on pouvait fabriquer un fusil en bois"
+    answer: 1
+    explanation: >
+      Il prouva que des mécanismes de fusil choisis au hasard pouvaient s'adapter à
+      n'importe quelle arme.
+  - question: "Combien de mousquets Eli Whitney s'était-il engagé à fabriquer en 1798 ?"
+    options:
+      - "120"
+      - "1 200"
+      - "12 000"
+    answer: 3
+    explanation: >
+      Son contrat portait sur 12 000 mousquets, mais les historiens doutent qu'il ait
+      vraiment réussi à rendre leurs pièces interchangeables.
+  - question: "Quel outil permet de vérifier qu'une pièce a la bonne dimension ?"
+    options:
+      - "Une loupe"
+      - "Une jauge"
+      - "Un aimant"
+    answer: 2
+    explanation: >
+      Les jauges servent à contrôler les dimensions. Elles ont été indispensables pour
+      fabriquer des pièces identiques.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une pièce interchangeable peut en remplacer une autre identique sans aucun ajustement. Avant elles, chaque objet était fabriqué et réparé à la main, pièce par pièce. Leur généralisation au XIXe siècle a ouvert la voie à la production en série.
+
+## Avant, chaque objet était unique
+
+Pendant longtemps, un artisan fabriquait un objet en entier. Il ajustait chaque pièce à la main pour qu'elle s'emboîte avec les autres. Deux fusils du même modèle n'avaient donc jamais exactement les mêmes pièces. Si une pièce cassait, il fallait envoyer l'arme chez un armurier. Il fabriquait une nouvelle pièce sur mesure, ou bien l'arme était jetée.
+
+Une pièce interchangeable change tout. Elle est identique à toutes les autres du même modèle. Elle peut donc en remplacer une sans qu'il faille la limer ou la retoucher.
+
+## L'idée naît dans les armées
+
+En France, le général Gribeauval cherche dès 1765 à standardiser les canons et les armes de l'armée. Un armurier qu'il soutient, Honoré Blanc, réalise une démonstration étonnante à la fin du XVIIIe siècle. Il monte sur des fusils des mécanismes choisis au hasard dans un tas de pièces. Tous fonctionnent. Thomas Jefferson, alors ambassadeur des États-Unis en France, assiste à la démonstration. Il fait ensuite connaître l'idée dans son pays.
+
+En 1798, l'Américain Eli Whitney obtient un contrat pour fabriquer 12 000 mousquets de cette façon. Les historiens doutent aujourd'hui qu'il y soit vraiment parvenu. Ses fusils restaient coûteux et faits à la main par des ouvriers qualifiés.
+
+## Des machines pour faire des pièces identiques
+
+Le vrai succès vient avec de nouvelles machines-outils. En 1806, l'horloger Eli Terry fabrique 4 000 mécanismes d'horloge en bois grâce à des fraiseuses et des gabarits. Un gabarit est un guide qui place l'outil toujours au même endroit. Avant 1832, Simeon North et John Hall produisent des armes à pièces métalliques interchangeables. Des jauges permettent de vérifier que chaque pièce a la bonne dimension.
+
+## De l'usine à la chaîne de montage
+
+Cette façon de produire s'est appelée le « système américain de fabrication ». Elle s'est étendue aux machines à coudre, aux moissonneuses, aux bicyclettes, puis aux automobiles. Au XXe siècle, les pièces interchangeables ont rendu possibles les chaînes de montage. Chaque ouvrier y pose la même pièce sur chaque objet qui passe, sans rien ajuster. Elles ont aussi simplifié les réparations : il suffit de commander une pièce neuve.
+
+## À retenir
+
+- Une pièce interchangeable remplace une pièce identique sans aucun ajustement.
+- Avant, chaque pièce était ajustée à la main et les réparations demandaient un artisan.
+- Honoré Blanc a montré en France que des mécanismes de fusil pris au hasard pouvaient s'adapter.
+- Des machines-outils, des gabarits et des jauges ont permis de produire des pièces identiques.
+- Les pièces interchangeables ont rendu possibles les chaînes de montage du XXe siècle.
 
 ---
 type: article
@@ -6334,18 +6702,90 @@ status: planned
 
 ---
 type: article
-title: La vulcanisation, une decouverte qui a change le caoutchouc
-slug: la-vulcanisation-une-decouverte-qui-a-change-le-caoutchouc
+title: Comment le soufre a-t-il rendu le caoutchouc solide et élastique ?
+slug: comment-le-soufre-a-t-il-rendu-le-caoutchouc-solide-et-elastique
 categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
 summary: >
-  Comment un simple ajout de soufre a rendu ce materiau bien plus durable.
-tags: [composites-et-polymeres, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le caoutchouc naturel devient collant quand il fait chaud et cassant quand il fait froid. En
+  1839, Charles Goodyear découvre qu'en le chauffant avec du soufre, il devient élastique et
+  durable. Cette vulcanisation a rendu possibles les pneus et les semelles en caoutchouc.
+tags: [composites-et-polymeres]
+sources:
+  - title: "Vulcanisation"
+    url: "https://fr.wikipedia.org/wiki/Vulcanisation"
+    publisher: "Wikipédia"
+  - title: "Vulcanization"
+    url: "https://en.wikipedia.org/wiki/Vulcanization"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel était le défaut du caoutchouc naturel avant la vulcanisation ?"
+    options:
+      - "Il était trop lourd"
+      - "Il collait en été et cassait en hiver"
+      - "Il brillait dans le noir"
+    answer: 2
+    explanation: >
+      Ses longues molécules étaient mal retenues entre elles. Le caoutchouc ramollissait à
+      la chaleur et durcissait au froid.
+  - question: "Que crée le soufre entre les chaînes du caoutchouc ?"
+    options:
+      - "Des ponts qui les relient"
+      - "Des bulles d'air"
+      - "Des trous"
+    answer: 1
+    explanation: >
+      Des chaînes d'atomes de soufre relient les longues molécules entre elles, comme des
+      petits ponts.
+  - question: "Que se passe-t-il si on met beaucoup trop de soufre ?"
+    options:
+      - "Le caoutchouc devient liquide"
+      - "Le caoutchouc devient transparent"
+      - "On obtient l'ébonite, une matière très dure"
+    answer: 3
+    explanation: >
+      Trop de soufre donne l'ébonite, une matière très dure et sans élasticité.
+  - question: "Qui a breveté le procédé en Angleterre, avant Goodyear ?"
+    options:
+      - "Isaac Newton"
+      - "Thomas Hancock"
+      - "Charles Darwin"
+    answer: 2
+    explanation: >
+      Le Britannique Thomas Hancock a déposé son brevet en Angleterre avant le brevet
+      américain de Goodyear, en 1844.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le caoutchouc naturel devient collant quand il fait chaud et cassant quand il fait froid. En 1839, Charles Goodyear découvre qu'en le chauffant avec du soufre, il devient élastique et durable. Cette vulcanisation a rendu possibles les pneus et les semelles en caoutchouc.
+
+## Un matériau capricieux
+
+Le caoutchouc naturel est fait de très longues molécules, comme des fils emmêlés. Ces chaînes ne sont retenues entre elles que par des forces faibles. Quand il fait chaud, elles glissent les unes sur les autres et le caoutchouc devient mou et collant. Quand il fait froid, il durcit et devient cassant. Au début du XIXe siècle, les objets en caoutchouc s'abîmaient donc vite.
+
+## Une découverte par accident
+
+Dans les années 1830, l'inventeur américain Charles Goodyear cherche à améliorer le caoutchouc. En 1839, il fait tomber par accident un mélange de caoutchouc et de soufre sur une surface brûlante. Au lieu de fondre, le mélange durcit tout en restant souple. Goodyear dépose un brevet aux États-Unis en 1844. Mais le Britannique Thomas Hancock, qui a étudié de près le procédé, l'avait déjà breveté en Angleterre un peu avant lui. Bien plus tôt, les peuples d'Amérique centrale traitaient déjà le caoutchouc avec des jus de plantes riches en soufre.
+
+## Des ponts de soufre
+
+On appelle ce procédé la vulcanisation, d'après Vulcain, le dieu romain du feu et des forges. On chauffe le caoutchouc avec du soufre. Des chaînes d'atomes de soufre se forment alors entre les longues molécules et les relient entre elles, comme des petits ponts. Ces liens sont solides et permanents. Le caoutchouc peut s'étirer, puis il reprend sa forme au lieu de rester déformé. Il supporte aussi beaucoup mieux la chaleur et le froid.
+
+La longueur des ponts compte. Des ponts courts résistent mieux à la chaleur. Des ponts plus longs donnent plus de souplesse. La quantité de soufre compte aussi. Trop peu, et le caoutchouc reste mou. Beaucoup trop, et on obtient l'ébonite, une matière très dure qui n'est plus élastique.
+
+## Partout autour de nous
+
+Grâce à la vulcanisation, le caoutchouc est devenu un matériau très utile. On en fait des pneus, des semelles de chaussures, des tuyaux, des gommes, des jouets, des palets de hockey et des tapis roulants. Le traitement allonge beaucoup la durée de vie de ces objets.
+
+## À retenir
+
+- Le caoutchouc naturel colle à la chaleur et devient cassant au froid.
+- Charles Goodyear a découvert la vulcanisation par accident en 1839.
+- La vulcanisation consiste à chauffer le caoutchouc avec du soufre.
+- Le soufre forme des ponts entre les longues molécules, ce qui rend le caoutchouc élastique et durable.
+- Trop de soufre donne l'ébonite, une matière très dure.
 
 ---
 type: article
@@ -6394,18 +6834,94 @@ status: planned
 
 ---
 type: article
-title: Les thermoplastiques contre les thermodurcissables
-slug: les-thermoplastiques-contre-les-thermodurcissables
+title: Pourquoi certains plastiques fondent-ils à la chaleur et d'autres non ?
+slug: pourquoi-certains-plastiques-fondent-ils-a-la-chaleur-et-d-autres-non
 categoryPath: industries/materiaux-et-procedes/composites-et-polymeres
 summary: >
-  Deux grandes familles de plastiques qui reagissent tres differemment a la chaleur.
-tags: [composites-et-polymeres, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Il existe deux grandes familles de plastiques. Les thermoplastiques ramollissent quand on
+  les chauffe et durcissent en refroidissant, encore et encore. Les thermodurcissables
+  durcissent une fois pour toutes : la chaleur ne peut plus les remettre en forme.
+tags: [composites-et-polymeres]
+sources:
+  - title: "Thermoplastique"
+    url: "https://fr.wikipedia.org/wiki/Thermoplastique"
+    publisher: "Wikipédia"
+  - title: "Thermodurcissable"
+    url: "https://fr.wikipedia.org/wiki/Thermodurcissable"
+    publisher: "Wikipédia"
+  - title: "Bakélite"
+    url: "https://fr.wikipedia.org/wiki/Bak%C3%A9lite"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait un thermoplastique quand on le chauffe ?"
+    options:
+      - "Il ramollit, puis redurcit en refroidissant"
+      - "Il devient plus dur pour toujours"
+      - "Il se transforme en métal"
+    answer: 1
+    explanation: >
+      Un thermoplastique ramollit à la chaleur et redevient dur en refroidissant. On peut
+      recommencer de nombreuses fois.
+  - question: "Pourquoi un thermodurcissable ne peut-il plus fondre ?"
+    options:
+      - "Il contient de l'eau"
+      - "Il est trop léger"
+      - "Ses chaînes sont reliées en un réseau en trois dimensions"
+    answer: 3
+    explanation: >
+      La réaction a soudé les chaînes entre elles par des liens solides. Elles ne peuvent
+      plus glisser les unes sur les autres.
+  - question: "Lequel de ces plastiques est un thermoplastique ?"
+    options:
+      - "La bakélite"
+      - "Le PET des bouteilles"
+      - "La résine époxy"
+    answer: 2
+    explanation: >
+      Le PET, comme le polyéthylène ou le PVC, est un thermoplastique.
+  - question: "Quel est le premier plastique entièrement synthétique ?"
+    options:
+      - "La bakélite"
+      - "Le polystyrène"
+      - "Le caoutchouc"
+    answer: 1
+    explanation: >
+      La bakélite, un thermodurcissable, a été brevetée par Leo Baekeland en 1909.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Il existe deux grandes familles de plastiques. Les thermoplastiques ramollissent quand on les chauffe et durcissent en refroidissant, encore et encore. Les thermodurcissables durcissent une fois pour toutes : la chaleur ne peut plus les remettre en forme.
+
+## Des chaînes de molécules
+
+Tous les plastiques sont faits de très longues molécules, appelées polymères. On peut les imaginer comme des chaînes formées de milliers de maillons. Ce qui sépare les deux grandes familles de plastiques, c'est la manière dont ces chaînes tiennent entre elles.
+
+## Les thermoplastiques, comme de la cire
+
+Dans un thermoplastique, les chaînes ne sont pas attachées les unes aux autres par des liens solides. Seules de faibles attractions les retiennent. Quand on chauffe, l'agitation de la chaleur défait ces attractions. Les chaînes glissent, et le plastique ramollit. Parfois, il fond franchement. En refroidissant, il redevient dur. On peut recommencer de nombreuses fois, car les chaînes elles-mêmes ne sont pas abîmées.
+
+Le polyéthylène des sacs, le PVC des tuyaux, le polypropylène, le polystyrène et le PET des bouteilles sont des thermoplastiques. Comme on peut les refondre, ils se recyclent plus facilement. Ce sont aussi les plus utilisés. En Europe de l'Ouest, on en consomme environ quatre fois plus que de thermodurcissables.
+
+## Les thermodurcissables, comme un gâteau cuit
+
+Un thermodurcissable se fabrique souvent en mélangeant deux produits, par exemple une résine et un durcisseur. Avec la chaleur, ils réagissent. Des liens solides se forment entre les chaînes et les soudent en un réseau en trois dimensions. Cette transformation s'appelle la réticulation. Elle est irréversible, comme un gâteau qui ne redevient jamais pâte.
+
+Une fois durci, le matériau ne fond plus et ne se dissout plus. Il résiste souvent mieux à la chaleur, aux produits chimiques et aux chocs qu'un thermoplastique. Les colles époxy, les résines polyester des objets en fibre de verre et les plans de travail en mélamine sont des thermodurcissables. Leur défaut, c'est qu'on ne peut pas les refondre pour les recycler. On peut seulement les broyer pour renforcer d'autres matériaux.
+
+## La bakélite, le premier plastique synthétique
+
+Le chimiste belge Leo Baekeland a mis au point la bakélite entre 1907 et 1909. Il obtient son brevet le 7 décembre 1909. C'est le premier plastique entièrement synthétique, et c'est un thermodurcissable. Elle isole bien de l'électricité et résiste à la chaleur. Entre 1920 et 1950, elle a servi à fabriquer des téléphones, des postes de radio, des prises électriques et des interrupteurs.
+
+## À retenir
+
+- Les plastiques sont faits de longues chaînes de molécules appelées polymères.
+- Les thermoplastiques ramollissent à la chaleur et redurcissent en refroidissant, encore et encore.
+- Les thermodurcissables durcissent pour toujours, car leurs chaînes sont soudées en réseau.
+- Les thermoplastiques se recyclent plus facilement que les thermodurcissables.
+- La bakélite, brevetée en 1909, est le premier plastique entièrement synthétique.
 
 ---
 type: article
@@ -6799,18 +7315,95 @@ status: planned
 
 ---
 type: article
-title: Le tour et le fraisage, deux techniques d'usinage de base
-slug: le-tour-et-le-fraisage-deux-techniques-d-usinage-de-base
+title: Comment un tour et une fraiseuse taillent-ils une pièce dans un bloc de métal ?
+slug: comment-un-tour-et-une-fraiseuse-taillent-ils-une-piece-dans-un-bloc-de-metal
 categoryPath: industries/materiaux-et-procedes/mise-en-forme
 summary: >
-  Des methodes fondamentales presentes dans presque tout atelier mecanique.
-tags: [mise-en-forme, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Usiner, c'est enlever de la matière pour donner sa forme à une pièce. Sur un tour, c'est la
+  pièce qui tourne et l'outil qui avance. Sur une fraiseuse, c'est l'outil qui tourne et la
+  pièce qui se déplace.
+tags: [mise-en-forme]
+sources:
+  - title: "Lathe"
+    url: "https://en.wikipedia.org/wiki/Lathe"
+    publisher: "Wikipedia"
+  - title: "Fraisage"
+    url: "https://fr.wikipedia.org/wiki/Fraisage"
+    publisher: "Wikipédia"
+  - title: "Milling (machining)"
+    url: "https://en.wikipedia.org/wiki/Milling_(machining)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur un tour, qu'est-ce qui tourne ?"
+    options:
+      - "L'outil"
+      - "La pièce"
+      - "La table"
+    answer: 2
+    explanation: >
+      Sur un tour, la pièce tourne sur elle-même et l'outil de coupe avance pour enlever
+      de la matière.
+  - question: "Quel objet fabrique-t-on plutôt sur un tour ?"
+    options:
+      - "Une vis"
+      - "Une boîte carrée"
+      - "Une feuille de papier"
+    answer: 1
+    explanation: >
+      Le tour fabrique des objets ronds autour d'un axe, comme des vis, des chandeliers ou
+      des battes de baseball.
+  - question: "Comment s'appellent les petits morceaux de métal arrachés pendant l'usinage ?"
+    options:
+      - "Des miettes"
+      - "Des étincelles"
+      - "Des copeaux"
+    answer: 3
+    explanation: >
+      L'outil enlève la matière sous forme de copeaux.
+  - question: "Que permet une fraiseuse à cinq axes ?"
+    options:
+      - "Couper du bois uniquement"
+      - "Usiner des formes très complexes"
+      - "Fondre le métal"
+    answer: 2
+    explanation: >
+      En plus des trois directions de base, elle fait pivoter la pièce ou l'outil pour
+      atteindre presque toutes les faces.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Usiner, c'est enlever de la matière pour donner sa forme à une pièce. Sur un tour, c'est la pièce qui tourne et l'outil qui avance. Sur une fraiseuse, c'est l'outil qui tourne et la pièce qui se déplace.
+
+## Enlever de la matière
+
+Pour fabriquer certaines pièces, on part d'un bloc de métal plus gros que la pièce finale. On retire ensuite la matière en trop, petit à petit, jusqu'à obtenir la bonne forme. C'est l'usinage. L'outil de coupe arrache la matière sous forme de petits rubans ou morceaux appelés copeaux. Les deux machines d'usinage les plus courantes sont le tour et la fraiseuse.
+
+## Le tour fait tourner la pièce
+
+Sur un tour, la pièce est serrée et tourne rapidement sur elle-même. L'outil, lui, ne tourne pas. Il avance le long de la pièce et s'enfonce un peu dans la matière. Comme la pièce tourne, l'outil creuse un cercle parfait à chaque tour. Le tour fabrique donc des objets ronds autour d'un axe : des vis, des canons de fusil, des chandeliers, des battes de baseball ou des vilebrequins de moteur.
+
+Le tour est une machine très ancienne. La plus ancienne image connue se trouve dans la tombe de Pétosiris, en Égypte, et date du IVe siècle avant notre ère. Plus tard, un progrès important a été le chariot porte-outil. Il guide l'outil en ligne droite, au lieu de le tenir à la main. Grâce à lui, on obtient des cylindres et des cônes très précis.
+
+## La fraiseuse fait tourner l'outil
+
+La fraiseuse fonctionne à l'inverse. L'outil, appelé fraise, tourne très vite. Il porte plusieurs dents coupantes. La pièce est fixée sur une table qui se déplace pour l'amener contre la fraise. La fraiseuse sait faire des surfaces planes, des rainures, des creux appelés poches, ou les dents d'un engrenage. Elle convient bien aux pièces en forme de bloc.
+
+La vitesse de coupe dépend des matériaux. Elle va d'environ 15 mètres par minute pour un acier très dur jusqu'à 800 mètres par minute pour l'aluminium avec un outil très résistant. La première vraie fraiseuse est apparue entre 1814 et 1818 aux États-Unis.
+
+## Des machines pilotées par ordinateur
+
+Aujourd'hui, beaucoup de tours et de fraiseuses sont à commande numérique. Un ordinateur pilote chaque mouvement à partir d'un programme. Une fraiseuse à trois axes déplace l'outil de gauche à droite, d'avant en arrière et de haut en bas. Une fraiseuse à cinq axes peut en plus faire pivoter la pièce ou l'outil. Elle peut ainsi usiner des formes très complexes.
+
+## À retenir
+
+- Usiner, c'est enlever de la matière sous forme de copeaux pour former une pièce.
+- Sur un tour, la pièce tourne et l'outil avance : on obtient des formes rondes.
+- Sur une fraiseuse, l'outil à plusieurs dents tourne et la pièce se déplace.
+- La plus ancienne image d'un tour date du IVe siècle avant notre ère, en Égypte.
+- Les machines à commande numérique sont pilotées par un ordinateur.
 
 ---
 type: article
@@ -8524,18 +9117,94 @@ status: planned
 
 ---
 type: article
-title: L'automatisation du controle qualite par vision industrielle
-slug: l-automatisation-du-controle-qualite-par-vision-industrielle
+title: Comment une caméra repère-t-elle une pièce défectueuse sur une chaîne de production ?
+slug: comment-une-camera-repere-t-elle-une-piece-defectueuse-sur-une-chaine-de-production
 categoryPath: industries/industrie-manufacturiere/automatisation
 summary: >
-  Des cameras et des logiciels qui detectent automatiquement les defauts sur une chaine de production.
-tags: [automatisation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La vision industrielle utilise des caméras, un éclairage adapté et un ordinateur pour
+  inspecter les objets fabriqués. Le logiciel analyse chaque image et décide si la pièce est
+  bonne ou à rejeter. Il travaille vite, sans fatigue, et toujours avec les mêmes critères.
+tags: [automatisation]
+sources:
+  - title: "Vision industrielle"
+    url: "https://fr.wikipedia.org/wiki/Vision_industrielle"
+    publisher: "Wikipédia"
+  - title: "Machine vision"
+    url: "https://en.wikipedia.org/wiki/Machine_vision"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi l'éclairage est-il si important en vision industrielle ?"
+    options:
+      - "Il réchauffe les pièces"
+      - "Il fait ressortir les détails à contrôler"
+      - "Il remplace la caméra"
+    answer: 2
+    explanation: >
+      Un éclairage bien choisi rend visibles les rayures, les trous ou les contours que le
+      logiciel doit repérer.
+  - question: "Que fait le système quand une pièce ne correspond pas aux critères ?"
+    options:
+      - "Il la rejette"
+      - "Il la peint"
+      - "Il arrête l'usine pour toujours"
+    answer: 1
+    explanation: >
+      Le résultat est souvent une décision simple : la pièce est acceptée ou rejetée.
+  - question: "Quel avantage la machine a-t-elle sur un contrôleur humain ?"
+    options:
+      - "Elle voit à travers tous les objets"
+      - "Elle n'a besoin d'aucune électricité"
+      - "Elle ne se fatigue pas et garde les mêmes critères"
+    answer: 3
+    explanation: >
+      La machine applique toujours les mêmes règles, à grande cadence, sans baisse
+      d'attention.
+  - question: "Que permet l'apprentissage profond, utilisé depuis 2019 environ ?"
+    options:
+      - "Repérer des défauts difficiles à décrire par des règles simples"
+      - "Fabriquer les pièces plus vite"
+      - "Supprimer les caméras"
+    answer: 1
+    explanation: >
+      Le logiciel apprend à partir de nombreuses images d'exemples, ce qui permet de
+      contrôler des défauts plus subtils.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La vision industrielle utilise des caméras, un éclairage adapté et un ordinateur pour inspecter les objets fabriqués. Le logiciel analyse chaque image et décide si la pièce est bonne ou à rejeter. Il travaille vite, sans fatigue, et toujours avec les mêmes critères.
+
+## Une photo pour chaque pièce
+
+Sur une chaîne de production, des milliers d'objets défilent chaque heure. Les vérifier un par un à l'œil serait lent et fatigant. La vision industrielle confie ce travail à une machine. Elle réunit une caméra, un éclairage, un ordinateur et un logiciel d'analyse d'images.
+
+Un capteur détecte l'arrivée de chaque pièce. Il déclenche la prise de vue au bon moment. L'éclairage joue un rôle essentiel. Il est choisi pour faire ressortir ce qu'on veut contrôler, comme une rayure, un trou ou un contour. Il peut être continu ou fonctionner par éclairs très brefs, comme un stroboscope.
+
+## Ce que l'ordinateur regarde
+
+Le logiciel transforme d'abord l'image pour la rendre plus facile à lire. Il peut par exemple séparer les zones claires et les zones sombres. Il découpe ensuite l'image en morceaux et mesure des caractéristiques : une taille, une forme, une position, une couleur. Il compare enfin ces mesures avec ce qui est attendu.
+
+Ce contrôle sert à plusieurs choses. Le système vérifie qu'une pièce est bien présente. Il mesure ses dimensions. Il cherche des défauts. Il lit aussi des codes-barres ou des inscriptions. À la fin, il prend souvent une décision simple : la pièce est bonne ou elle est rejetée. Les mêmes images peuvent guider un robot qui doit attraper un objet.
+
+## Voir en relief, en chaleur ou à travers
+
+La vision la plus courante est en deux dimensions, avec des caméras en noir et blanc ou en couleur. La vision en trois dimensions mesure le relief, par exemple grâce à un trait de laser projeté sur l'objet. Les caméras thermiques repèrent des différences de température qui trahissent des défauts cachés. Les rayons X permettent de regarder à l'intérieur d'une pièce sans l'abîmer.
+
+## Plus fiable, mais pas magique
+
+La machine ne se fatigue pas. Elle garde toujours les mêmes critères, même à très grande cadence. Depuis 2019 environ, l'apprentissage profond a beaucoup élargi ses possibilités. Le logiciel apprend à partir d'un grand nombre d'images d'exemples. Il peut alors repérer des défauts difficiles à décrire par des règles simples.
+
+Le système reste sensible à ce qui se passe avant lui sur la chaîne. Si le nombre de pièces rejetées augmente soudain, c'est souvent le signe qu'une machine en amont se dérègle.
+
+## À retenir
+
+- La vision industrielle associe caméra, éclairage, ordinateur et logiciel d'analyse d'images.
+- L'éclairage est choisi pour faire ressortir les détails à contrôler.
+- Le système vérifie la présence, les dimensions et les défauts des pièces, et lit des codes.
+- Il décide souvent simplement si une pièce est bonne ou rejetée, sans se fatiguer.
+- Depuis 2019 environ, l'apprentissage profond permet de repérer des défauts plus subtils.
 
 ---
 type: article
@@ -8554,18 +9223,94 @@ status: planned
 
 ---
 type: article
-title: L'automatisation de la manutention par des vehicules guides automatiquement
-slug: l-automatisation-de-la-manutention-par-des-vehicules-guides-automatiquement
+title: Comment des chariots sans conducteur trouvent-ils leur chemin dans une usine ?
+slug: comment-des-chariots-sans-conducteur-trouvent-ils-leur-chemin-dans-une-usine
 categoryPath: industries/industrie-manufacturiere/automatisation
 summary: >
-  Des chariots autonomes qui deplacent les materiaux sans intervention humaine directe.
-tags: [automatisation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les véhicules à guidage automatique transportent des charges sans personne à bord. Ils
+  suivent un fil caché dans le sol, une ligne peinte, des réflecteurs ou une carte des lieux.
+  Des capteurs les arrêtent quand un obstacle apparaît.
+tags: [automatisation]
+sources:
+  - title: "Véhicule à guidage automatique"
+    url: "https://fr.wikipedia.org/wiki/V%C3%A9hicule_%C3%A0_guidage_automatique"
+    publisher: "Wikipédia"
+  - title: "Automated guided vehicle"
+    url: "https://en.wikipedia.org/wiki/Automated_guided_vehicle"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que suivait le premier véhicule de ce type, dans les années 1950 ?"
+    options:
+      - "Un rail"
+      - "Un fil placé dans le sol"
+      - "Un satellite"
+    answer: 2
+    explanation: >
+      Le premier modèle, vendu par Barrett Electronics, était un tracteur qui suivait un
+      fil dans le sol au lieu d'un rail.
+  - question: "Comment fonctionne le guidage laser ?"
+    options:
+      - "Le véhicule repère des réflecteurs et calcule sa position"
+      - "Le laser trace une ligne sur le sol"
+      - "Le laser pousse le véhicule"
+    answer: 1
+    explanation: >
+      Un laser tournant vise des réflecteurs fixés dans le bâtiment. En comparant les
+      angles, le véhicule calcule où il se trouve.
+  - question: "Quelle est la précision annoncée du guidage laser ?"
+    options:
+      - "Environ un mètre"
+      - "Environ dix centimètres"
+      - "Environ un demi-centimètre"
+    answer: 3
+    explanation: >
+      Le guidage laser par réflecteurs atteint une précision d'environ un demi-centimètre.
+  - question: "Que se passe-t-il quand un obstacle apparaît devant le véhicule ?"
+    options:
+      - "Il accélère pour passer"
+      - "Ses capteurs le détectent et il s'arrête ou ralentit"
+      - "Il klaxonne sans s'arrêter"
+    answer: 2
+    explanation: >
+      Des capteurs à ultrasons ou optiques surveillent l'avant du véhicule pour éviter les
+      collisions.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les véhicules à guidage automatique transportent des charges sans personne à bord. Ils suivent un fil caché dans le sol, une ligne peinte, des réflecteurs ou une carte des lieux. Des capteurs les arrêtent quand un obstacle apparaît.
+
+## Un robot qui roule
+
+Un véhicule à guidage automatique, ou AGV, est un robot qui transporte des charges sans conducteur. Il déplace des palettes, des pièces ou des caisses d'un poste à un autre. Le premier modèle a été commercialisé dans les années 1950 par l'entreprise américaine Barrett Electronics. C'était un simple tracteur qui suivait un fil posé dans le sol, au lieu de rouler sur un rail.
+
+## Quatre façons de trouver sa route
+
+Le filoguidage est la méthode la plus ancienne. Un fil électrique est enterré dans le sol et crée un champ magnétique. Le véhicule capte ce champ et le suit. C'est fiable, mais il faut creuser le sol pour poser le fil.
+
+Le guidage optique est plus simple à installer. Le véhicule suit une ligne peinte ou collée au sol grâce à une caméra ou à des capteurs.
+
+Le guidage laser utilise un laser tournant placé sur le véhicule. Il vise des réflecteurs fixés sur les murs et les poteaux. En comparant les angles, le véhicule calcule sa position par triangulation. Sa précision atteint environ un demi-centimètre.
+
+Le géoguidage n'a besoin d'aucune installation. Le véhicule observe les murs, les machines et les étagères. Il les compare avec une carte des lieux enregistrée dans sa mémoire.
+
+## Rouler sans danger
+
+Un AGV partage souvent son espace avec des personnes. Des capteurs à ultrasons ou optiques surveillent l'avant du véhicule. S'ils détectent un obstacle, le véhicule ralentit ou s'arrête. Pour éviter que deux véhicules se croisent au même endroit, le site peut être découpé en zones. Une seule machine à la fois a le droit d'entrer dans chaque zone. En Europe, ces robots doivent respecter des règles précises, dont la norme ISO 3691-4 publiée en 2020.
+
+## Toujours en mouvement
+
+Les AGV roulent sur batterie. Certains vont se recharger seuls pendant les pauses. D'autres changent automatiquement de batterie pour travailler sans arrêt. On les trouve dans les usines, les entrepôts, les hôpitaux, où ils transportent le linge et les médicaments, et dans les ports, où ils déplacent des conteneurs.
+
+## À retenir
+
+- Un AGV est un robot qui transporte des charges sans conducteur.
+- Le premier modèle, dans les années 1950, suivait un fil placé dans le sol.
+- Il peut suivre un fil, une ligne au sol, des réflecteurs visés par un laser, ou une carte des lieux.
+- Le guidage laser atteint une précision d'environ un demi-centimètre.
+- Des capteurs arrêtent le véhicule quand un obstacle apparaît.
 
 ---
 type: article

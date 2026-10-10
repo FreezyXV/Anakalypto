@@ -3323,18 +3323,103 @@ status: planned
 
 ---
 type: article
-title: Les tempetes geomagnetiques et leurs consequences
-slug: les-tempetes-geomagnetiques-et-leurs-consequences
+title: Comment une tempête solaire peut-elle allumer des aurores et couper le courant ?
+slug: comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant
 categoryPath: espace-et-astronomie/astrophysique/etoiles
 summary: >
-  Comment le vent solaire peut affecter les reseaux electriques et les satellites.
-tags: [etoiles, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le Soleil projette parfois d'énormes nuages de particules électrisées. Quand ils frappent le
+  champ magnétique de la Terre, ils provoquent une tempête géomagnétique. Elle allume des
+  aurores et peut perturber les réseaux électriques et les satellites.
+tags: [etoiles]
+sources:
+  - title: "Orage magnétique"
+    url: "https://fr.wikipedia.org/wiki/Orage_magn%C3%A9tique"
+    publisher: "Wikipédia"
+  - title: "Geomagnetic storm"
+    url: "https://en.wikipedia.org/wiki/Geomagnetic_storm"
+    publisher: "Wikipedia"
+  - title: "Aurore polaire"
+    url: "https://fr.wikipedia.org/wiki/Aurore_polaire"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qu'est-ce qui déclenche le plus souvent une forte tempête géomagnétique ?"
+    options:
+      - "Un nuage de particules éjecté par le Soleil"
+      - "Une éclipse de Lune"
+      - "Un orage avec des éclairs"
+    answer: 1
+    explanation: >
+      Les éjections de masse coronale, d'énormes nuages de particules lancés par le
+      Soleil, sont la principale cause.
+  - question: "Quel gaz donne surtout la couleur verte des aurores ?"
+    options:
+      - "L'hélium"
+      - "L'azote"
+      - "L'oxygène"
+    answer: 3
+    explanation: >
+      Le vert et le rouge viennent surtout de l'oxygène. L'azote donne plutôt du bleu et
+      du violet.
+  - question: "Que s'est-il passé au Québec en mars 1989 ?"
+    options:
+      - "Une pluie de météorites"
+      - "Six millions de personnes ont été privées d'électricité pendant neuf heures"
+      - "Un tremblement de terre"
+    answer: 2
+    explanation: >
+      La tempête géomagnétique de mars 1989 a fait tomber le réseau d'Hydro-Québec.
+  - question: "Quel réseau la tempête de 1859, appelée événement de Carrington, a-t-elle endommagé ?"
+    options:
+      - "Le télégraphe"
+      - "Internet"
+      - "La télévision"
+    answer: 1
+    explanation: >
+      En 1859, des lignes de télégraphe ont été mises hors service, certaines ont même
+      pris feu.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le Soleil projette parfois d'énormes nuages de particules électrisées. Quand ils frappent le champ magnétique de la Terre, ils provoquent une tempête géomagnétique. Elle allume des aurores et peut perturber les réseaux électriques et les satellites.
+
+## Un nuage lancé par le Soleil
+
+Le Soleil envoie sans cesse dans l'espace un flot de particules électrisées : le vent solaire. Parfois, il projette aussi un énorme nuage de ces particules. Les scientifiques parlent d'éjection de masse coronale.
+
+Ce nuage traverse l'espace. Il met en général deux à quatre jours pour atteindre la Terre. En 1859, le nuage le plus rapide connu n'a mis qu'environ 18 heures.
+
+## Le bouclier magnétique secoué
+
+La Terre est entourée d'un champ magnétique, comme un aimant géant. Il forme autour d'elle un bouclier invisible, la magnétosphère, qui dévie la plupart des particules.
+
+Quand un nuage solaire frappe ce bouclier, il le comprime et le secoue. C'est une tempête géomagnétique, aussi appelée orage magnétique. De forts courants électriques apparaissent alors dans la haute atmosphère.
+
+## Des aurores jusque loin des pôles
+
+Le champ magnétique guide une partie des particules vers les régions polaires. Entre 80 et 1 000 kilomètres d'altitude, elles heurtent les gaz de l'air. Ces gaz se mettent à briller : ce sont les aurores polaires. On parle d'aurore boréale au nord et d'aurore australe au sud.
+
+Les couleurs dépendent du gaz touché. L'oxygène donne du vert et du rouge. L'azote donne du bleu, du rouge et du violet.
+
+Pendant une forte tempête, les aurores descendent bien plus au sud. En 1859, on en a vu jusqu'à Cuba et en Italie. En 1989, elles sont apparues au Texas et en Floride.
+
+## Des dégâts sur Terre et dans l'espace
+
+Les tempêtes créent aussi des courants électriques dans le sol et dans les longues lignes électriques. En mars 1989, une tempête a fait tomber le réseau électrique du Québec. Six millions de personnes ont été privées de courant pendant neuf heures.
+
+En 1859, lors de la plus forte tempête connue, appelée événement de Carrington, des lignes de télégraphe sont tombées en panne. Certaines ont pris feu et des opérateurs ont reçu des décharges électriques.
+
+Aujourd'hui, les tempêtes peuvent aussi abîmer les satellites et brouiller les signaux du GPS. Les scientifiques les classent sur une échelle de G1, la plus faible, à G5, la plus forte.
+
+## À retenir
+
+- Une tempête géomagnétique est causée surtout par un nuage de particules éjecté par le Soleil.
+- Ce nuage atteint la Terre en quelques jours et secoue son bouclier magnétique.
+- Les particules font briller les gaz de l'air : l'oxygène en vert et rouge, l'azote en bleu et violet.
+- En mars 1989, une tempête a privé six millions de Québécois d'électricité pendant neuf heures.
+- Les tempêtes peuvent aussi endommager les satellites et perturber le GPS.
 
 ---
 type: article
@@ -5147,18 +5232,103 @@ status: planned
 
 ---
 type: article
-title: Le recyclage de l'eau et de l'air a bord de la Station spatiale
-slug: le-recyclage-de-l-eau-et-de-l-air-a-bord-de-la-station-spatiale
+title: Comment les astronautes ont-ils toujours de l'eau et de l'air dans la station spatiale ?
+slug: comment-les-astronautes-ont-ils-toujours-de-l-eau-et-de-l-air-dans-la-station-spatiale
 categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
 summary: >
-  Des systemes essentiels qui permettent une autonomie prolongee loin de la Terre.
-tags: [vols-habites, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans la Station spatiale internationale, l'eau est recyclée : l'urine, la sueur et
+  l'humidité de l'haleine redeviennent de l'eau potable. L'oxygène est fabriqué en coupant des
+  molécules d'eau. Depuis 2023, la station récupère 98 % de son eau.
+tags: [vols-habites]
+sources:
+  - title: "ISS ECLSS"
+    url: "https://en.wikipedia.org/wiki/ISS_ECLSS"
+    publisher: "Wikipedia"
+  - title: "NASA Achieves Water Recovery Milestone on International Space Station"
+    url: "https://www.nasa.gov/missions/station/iss-research/nasa-achieves-water-recovery-milestone-on-international-space-station/"
+    publisher: "NASA"
+quiz:
+  - question: "Quelle part de l'eau la Station spatiale arrive-t-elle à récupérer depuis 2023 ?"
+    options:
+      - "98 %"
+      - "50 %"
+      - "10 %"
+    answer: 1
+    explanation: >
+      Grâce à un nouvel appareil qui traite les restes d'urine, la station récupère 98 %
+      de son eau.
+  - question: "Comment fabrique-t-on de l'oxygène à bord de la station ?"
+    options:
+      - "En faisant pousser des arbres"
+      - "En coupant des molécules d'eau avec de l'électricité"
+      - "En le pompant depuis la Terre par un tuyau"
+    answer: 2
+    explanation: >
+      L'électrolyse sépare l'eau en oxygène, qui est envoyé dans la cabine, et en
+      hydrogène.
+  - question: "Pourquoi faut-il une centrifugeuse pour traiter l'urine dans l'espace ?"
+    options:
+      - "Pour la réchauffer"
+      - "Pour lui donner du goût"
+      - "Parce que sans pesanteur les liquides ne se séparent pas tout seuls"
+    answer: 3
+    explanation: >
+      En apesanteur, rien ne tombe. La centrifugeuse fait tourner le liquide pour
+      remplacer la pesanteur.
+  - question: "Combien d'eau un astronaute utilise-t-il environ par jour ?"
+    options:
+      - "Environ 4 litres"
+      - "Environ 100 litres"
+      - "Environ 1 litre par semaine"
+    answer: 1
+    explanation: >
+      Chaque astronaute a besoin d'environ un gallon, soit à peu près 4 litres d'eau par
+      jour, pour boire, cuisiner et se laver.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans la Station spatiale internationale, l'eau est recyclée : l'urine, la sueur et l'humidité de l'haleine redeviennent de l'eau potable. L'oxygène est fabriqué en coupant des molécules d'eau. Depuis 2023, la station récupère 98 % de son eau.
+
+## Pas de robinet dans l'espace
+
+La Station spatiale internationale tourne autour de la Terre, dans le vide. Il n'y a ni rivière ni air autour d'elle. Tout ce qui manque doit être apporté par des vaisseaux depuis la Terre. Les ingénieurs ont donc conçu un système qui recycle presque tout.
+
+Chaque astronaute a besoin d'environ 4 litres d'eau par jour pour boire, préparer les repas et se laver.
+
+## L'urine devient de l'eau potable
+
+L'eau vient de plusieurs sources. L'urine des astronautes est collectée. L'humidité de leur haleine et de leur sueur est aussi récupérée dans l'air par des déshumidificateurs.
+
+L'urine passe d'abord dans une machine qui la fait bouillir à basse pression, puis récupère la vapeur. Dans l'espace, rien ne tombe : les liquides ne se séparent pas tout seuls. Une centrifugeuse fait donc tourner le liquide très vite pour remplacer la pesanteur.
+
+Toute l'eau récupérée passe ensuite dans des filtres et dans un réacteur chauffé qui détruit les impuretés. On y ajoute de l'iode pour tuer les microbes. Selon la NASA, cette eau est plus propre que l'eau du robinet de beaucoup de villes sur Terre.
+
+En 2023, un nouvel appareil a été ajouté. Il extrait l'eau qui restait dans les déchets d'urine concentrés. Grâce à lui, la station récupère 98 % de son eau.
+
+## Fabriquer de l'oxygène avec de l'eau
+
+Pour respirer, les astronautes ont besoin d'oxygène. La station le fabrique à partir d'eau recyclée. Une machine fait passer du courant électrique dans l'eau : c'est l'électrolyse. Elle coupe chaque molécule d'eau en oxygène et en hydrogène.
+
+L'oxygène est envoyé dans la cabine. Dans le système russe, l'hydrogène est rejeté dans l'espace.
+
+## Retirer le dioxyde de carbone
+
+En respirant, les astronautes rejettent du dioxyde de carbone. En trop grande quantité, ce gaz est dangereux. Des appareils russes et américains le retirent de l'air en permanence.
+
+Un autre appareil, le réacteur de Sabatier, réutilise une partie de ce dioxyde de carbone. Il le fait réagir avec de l'hydrogène pour produire de l'eau et du méthane. Cela évite d'envoyer environ 400 litres d'eau par an depuis la Terre.
+
+Ce recyclage sera indispensable pour les futurs voyages vers la Lune ou Mars, trop loin pour être ravitaillés souvent.
+
+## À retenir
+
+- Dans la Station spatiale, l'urine, la sueur et l'humidité de l'haleine sont recyclées en eau potable.
+- Depuis 2023, la station récupère 98 % de son eau.
+- L'oxygène est fabriqué en coupant des molécules d'eau avec de l'électricité.
+- Le dioxyde de carbone rejeté par les astronautes est retiré de l'air en permanence.
+- Ce recyclage sera indispensable pour aller vers la Lune ou Mars.
 
 ---
 type: article
@@ -5207,18 +5377,99 @@ status: planned
 
 ---
 type: article
-title: Le retour sur Terre apres un long sejour dans l'espace
-slug: le-retour-sur-terre-apres-un-long-sejour-dans-l-espace
+title: Pourquoi les astronautes ont-ils du mal à marcher en revenant sur Terre ?
+slug: pourquoi-les-astronautes-ont-ils-du-mal-a-marcher-en-revenant-sur-terre
 categoryPath: espace-et-astronomie/exploration-spatiale/vols-habites
 summary: >
-  Une periode de readaptation physique souvent difficile pour le corps humain.
-tags: [vols-habites, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En apesanteur, les os et les muscles travaillent beaucoup moins et s'affaiblissent. Le sang
+  et l'équilibre s'habituent aussi à l'absence de pesanteur. Au retour, le corps doit tout
+  réapprendre : les astronautes ont la tête qui tourne et marchent difficilement.
+tags: [vols-habites]
+sources:
+  - title: "Effect of spaceflight on the human body"
+    url: "https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body"
+    publisher: "Wikipedia"
+  - title: "The Human Body in Space"
+    url: "https://www.nasa.gov/humans-in-space/the-human-body-in-space/"
+    publisher: "NASA"
+quiz:
+  - question: "Quelle part de leur densité osseuse les astronautes perdent-ils environ chaque mois dans l'espace ?"
+    options:
+      - "Environ 50 %"
+      - "1 à 1,5 %"
+      - "Rien du tout"
+    answer: 2
+    explanation: >
+      Selon la NASA, les astronautes perdent 1 à 1,5 % de la densité minérale de leurs os
+      par mois en apesanteur.
+  - question: "Combien de temps les astronautes de la Station spatiale font-ils du sport chaque jour ?"
+    options:
+      - "Au moins 2 heures"
+      - "10 minutes"
+      - "Jamais"
+    answer: 1
+    explanation: >
+      Ils s'entraînent au moins deux heures par jour sur un tapis de course, un vélo et
+      des machines de musculation.
+  - question: "Pourquoi les astronautes ont-ils la tête qui tourne quand ils se lèvent au retour ?"
+    options:
+      - "Ils ont trop mangé"
+      - "Leur casque est trop lourd"
+      - "Leur volume de sang a diminué et leur tension chute"
+    answer: 3
+    explanation: >
+      Dans l'espace, le volume de sang diminue. Debout sur Terre, la tension baisse et la
+      tête peut tourner.
+  - question: "Combien de centimètres un astronaute peut-il gagner en apesanteur ?"
+    options:
+      - "Environ 20 cm"
+      - "Environ 2,5 cm"
+      - "Aucun"
+    answer: 2
+    explanation: >
+      Sans pesanteur, la colonne vertébrale s'allonge : la taille augmente d'environ 2,5
+      cm. Elle redescend au retour.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En apesanteur, les os et les muscles travaillent beaucoup moins et s'affaiblissent. Le sang et l'équilibre s'habituent aussi à l'absence de pesanteur. Au retour, le corps doit tout réapprendre : les astronautes ont la tête qui tourne et marchent difficilement.
+
+## Un corps qui n'a plus besoin de porter son poids
+
+Sur Terre, nos os et nos muscles travaillent sans arrêt. Ils nous tiennent debout contre la pesanteur. Dans la Station spatiale, tout flotte. Le corps n'a plus besoin de porter son poids, et il s'adapte.
+
+Les os perdent du calcium. Selon la NASA, ils perdent 1 à 1,5 % de leur densité minérale chaque mois. Les pertes touchent surtout le bas du dos, les hanches et les cuisses. Après une mission de trois ou quatre mois, il faut deux à trois ans pour que les os se reconstruisent.
+
+Les muscles fondent aussi très vite s'ils ne travaillent pas. Sans exercice, un astronaute peut perdre jusqu'à 20 % de sa masse musculaire en 5 à 11 jours. C'est pourquoi les astronautes font au moins deux heures de sport par jour.
+
+## Le sang monte à la tête
+
+En apesanteur, les liquides du corps remontent vers la tête. Le visage gonfle. Les astronautes peuvent perdre jusqu'à 22 % de leur volume de sang.
+
+Au retour, la pesanteur tire de nouveau le sang vers les jambes. Il en manque alors pour le cerveau quand l'astronaute se lève. La tension baisse, la tête tourne, et il peut même s'évanouir. Les médecins appellent cela l'intolérance orthostatique.
+
+## L'équilibre déréglé
+
+Dans l'oreille interne, un petit organe nous indique où sont le haut et le bas. C'est le système vestibulaire. Dans l'espace, il ne reçoit plus les bons signaux.
+
+En revenant, l'astronaute doit tout réapprendre. Il a du mal à garder l'équilibre, à coordonner ses yeux et ses mains, et à marcher droit. Certains ont aussi le mal de l'espace pendant ce changement.
+
+## Grandir de quelques centimètres
+
+Sans pesanteur, la colonne vertébrale n'est plus tassée. En un mois, un astronaute grandit d'environ 2,5 centimètres. Il retrouve sa taille habituelle après son retour sur Terre.
+
+La vue peut aussi changer. Environ la moitié des astronautes de longues missions disent avoir eu des problèmes de vision de près ou de loin. Ces effets sont étudiés de près pour préparer les futurs voyages vers Mars.
+
+## À retenir
+
+- En apesanteur, les os perdent 1 à 1,5 % de leur densité chaque mois.
+- Sans exercice, les muscles fondent très vite : les astronautes font au moins deux heures de sport par jour.
+- Les astronautes perdent du volume de sang, ce qui leur fait tourner la tête quand ils se lèvent au retour.
+- L'organe de l'équilibre, dans l'oreille interne, doit se réhabituer à la pesanteur.
+- En apesanteur, la colonne vertébrale s'allonge et l'astronaute grandit d'environ 2,5 cm.
 
 ---
 type: article
@@ -6107,18 +6358,103 @@ status: planned
 
 ---
 type: article
-title: La pollution lumineuse et son impact sur l'observation
-slug: la-pollution-lumineuse-et-son-impact-sur-l-observation
+title: Pourquoi voit-on beaucoup moins d'étoiles en ville qu'à la campagne ?
+slug: pourquoi-voit-on-beaucoup-moins-d-etoiles-en-ville-qu-a-la-campagne
 categoryPath: espace-et-astronomie/observation-astronomique/telescopes
 summary: >
-  Comment l'eclairage urbain rend de plus en plus difficile l'observation du ciel nocturne.
-tags: [telescopes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La nuit, les lumières des villes éclairent aussi le ciel. Cette lumière se disperse dans
+  l'air et forme un halo qui cache les étoiles les plus faibles. On appelle cela la pollution
+  lumineuse.
+tags: [telescopes]
+sources:
+  - title: "Pollution lumineuse"
+    url: "https://fr.wikipedia.org/wiki/Pollution_lumineuse"
+    publisher: "Wikipédia"
+  - title: "Light pollution"
+    url: "https://en.wikipedia.org/wiki/Light_pollution"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi le ciel des villes est-il clair la nuit ?"
+    options:
+      - "La lumière artificielle se disperse dans l'air"
+      - "La Lune y brille plus fort"
+      - "Les étoiles y sont plus nombreuses"
+    answer: 1
+    explanation: >
+      La lumière des lampadaires et des bâtiments rebondit sur les particules de l'air et
+      forme un halo.
+  - question: "Quelle part des Européens ne peut plus voir la Voie lactée depuis chez soi ?"
+    options:
+      - "Environ 5 %"
+      - "Environ 60 %"
+      - "Personne"
+    answer: 2
+    explanation: >
+      Selon une étude de 2016, 60 % des Européens et près de 80 % des Nord-Américains ne
+      peuvent plus voir la Voie lactée.
+  - question: "Quel animal peut être perdu par les lumières de la côte à sa naissance ?"
+    options:
+      - "Le chat"
+      - "Le lapin"
+      - "La tortue marine"
+    answer: 3
+    explanation: >
+      Les bébés tortues marines se dirigent vers la lueur la plus forte. Les lumières de
+      la côte les éloignent de la mer.
+  - question: "Quelle solution réduit la pollution lumineuse ?"
+    options:
+      - "Pointer les lampes vers le ciel"
+      - "Diriger la lumière vers le sol et éteindre quand c'est inutile"
+      - "Ajouter plus de lampadaires"
+    answer: 2
+    explanation: >
+      Des lampes qui n'éclairent pas vers le haut et l'extinction des lumières inutiles
+      réduisent le halo.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La nuit, les lumières des villes éclairent aussi le ciel. Cette lumière se disperse dans l'air et forme un halo qui cache les étoiles les plus faibles. On appelle cela la pollution lumineuse.
+
+## Un halo au-dessus des villes
+
+La nuit, les villes sont éclairées par des lampadaires, des vitrines et des bâtiments. Une partie de cette lumière part vers le ciel. Elle rebondit sur les minuscules particules de l'air et se disperse. Il se forme alors un halo lumineux au-dessus de la ville.
+
+Ce halo rend le fond du ciel plus clair. Les étoiles les plus faibles ne se distinguent plus de ce fond. On n'aperçoit plus que les plus brillantes. Ce phénomène s'appelle la pollution lumineuse.
+
+## La Voie lactée disparue
+
+Sous un ciel vraiment noir, la Voie lactée est une large bande blanchâtre qui traverse le ciel. Elle peut être assez lumineuse pour faire une ombre. En ville, elle est invisible.
+
+Selon un atlas mondial publié en 2016, environ 83 % de l'humanité vit sous un ciel pollué par la lumière. C'est le cas de plus de 99 % des Européens et des Américains. Un tiers de l'humanité ne voit plus la Voie lactée. C'est aussi le cas de 60 % des Européens et de près de 80 % des Nord-Américains.
+
+Le problème grandit. Selon des mesures par satellite, la pollution lumineuse a augmenté d'au moins 49 % dans le monde entre 1992 et 2017.
+
+## Un souci pour les astronomes
+
+Les astronomes ont besoin d'un ciel très sombre. Le halo réduit le contraste entre les astres et le ciel. Les galaxies et les nébuleuses, qui sont pâles et étendues, deviennent presque invisibles au-dessus des grandes villes.
+
+C'est l'une des raisons pour lesquelles les grands télescopes sont construits dans des endroits isolés, loin des villes. En France, le ciel autour de l'observatoire du Pic du Midi, dans les Pyrénées, est protégé comme réserve de ciel étoilé.
+
+## Des animaux perdus
+
+La lumière la nuit gêne aussi les animaux. Les oiseaux migrateurs voyagent souvent de nuit et s'orientent en partie grâce aux étoiles. Les lumières des tours peuvent les attirer et les désorienter.
+
+Les bébés tortues marines naissent sur la plage et se dirigent vers la lueur la plus forte, qui est normalement la mer. Les lumières de la côte les égarent. Les lampes attirent et piègent aussi beaucoup d'insectes.
+
+## Des solutions simples
+
+On peut diriger la lumière vers le sol plutôt que vers le ciel. On peut aussi éteindre les lumières inutiles et choisir des éclairages moins forts. En France, un texte de 2018 limite l'éclairage nocturne des bâtiments.
+
+## À retenir
+
+- La lumière artificielle se disperse dans l'air et forme un halo qui cache les étoiles faibles.
+- Selon une étude de 2016, un tiers de l'humanité ne voit plus la Voie lactée.
+- 60 % des Européens ne peuvent plus voir la Voie lactée depuis chez eux.
+- La pollution lumineuse gêne les astronomes et désoriente des animaux comme les oiseaux et les tortues marines.
+- Diriger la lumière vers le sol et éteindre l'inutile réduit la pollution lumineuse.
 
 ---
 type: article
@@ -6437,18 +6773,103 @@ status: planned
 
 ---
 type: article
-title: Les phases de la Lune expliquees simplement
-slug: les-phases-de-la-lune-expliquees-simplement
+title: Pourquoi la Lune change-t-elle de forme au fil du mois ?
+slug: pourquoi-la-lune-change-t-elle-de-forme-au-fil-du-mois
 categoryPath: espace-et-astronomie/systeme-solaire/lune
 summary: >
-  Un phenomene quotidien dont le mecanisme est souvent mal compris.
-tags: [lune, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La Lune ne produit pas de lumière : une moitié est toujours éclairée par le Soleil. En
+  tournant autour de la Terre, elle nous montre une part plus ou moins grande de cette moitié
+  éclairée. Le cycle complet dure environ 29,5 jours.
+tags: [lune]
+sources:
+  - title: "Phase de la Lune"
+    url: "https://fr.wikipedia.org/wiki/Phase_de_la_Lune"
+    publisher: "Wikipédia"
+  - title: "Lunar phase"
+    url: "https://en.wikipedia.org/wiki/Lunar_phase"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de temps dure un cycle complet des phases de la Lune ?"
+    options:
+      - "Environ 7 jours"
+      - "Environ 365 jours"
+      - "Environ 29,5 jours"
+    answer: 3
+    explanation: >
+      Une lunaison dure en moyenne 29 jours, 12 heures et 44 minutes, soit environ 29,5
+      jours.
+  - question: "Qu'est-ce qui cause les phases de la Lune ?"
+    options:
+      - "L'ombre de la Terre posée sur la Lune"
+      - "La part de la moitié éclairée que l'on voit depuis la Terre"
+      - "Des nuages qui cachent la Lune"
+    answer: 2
+    explanation: >
+      La moitié tournée vers le Soleil est toujours éclairée. Selon la position de la
+      Lune, nous en voyons une part plus ou moins grande.
+  - question: "À quel moment se lève la pleine Lune ?"
+    options:
+      - "Au coucher du Soleil"
+      - "À midi"
+      - "Au lever du Soleil"
+    answer: 1
+    explanation: >
+      La pleine Lune est à l'opposé du Soleil. Elle se lève quand il se couche et reste
+      visible toute la nuit.
+  - question: "D'où vient la « lumière cendrée » qui éclaire faiblement la partie sombre de la Lune ?"
+    options:
+      - "De volcans lunaires"
+      - "De la lumière du Soleil renvoyée par la Terre"
+      - "Des étoiles voisines"
+    answer: 2
+    explanation: >
+      La Terre renvoie une partie de la lumière du Soleil vers la Lune. C'est elle qui
+      éclaire doucement la partie sombre du croissant.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La Lune ne produit pas de lumière : une moitié est toujours éclairée par le Soleil. En tournant autour de la Terre, elle nous montre une part plus ou moins grande de cette moitié éclairée. Le cycle complet dure environ 29,5 jours.
+
+## Une boule éclairée d'un seul côté
+
+La Lune ne fabrique pas de lumière. Elle brille parce que le Soleil l'éclaire. Comme une balle sous une lampe, elle a toujours une moitié éclairée et une moitié dans le noir.
+
+La Lune tourne autour de la Terre. Selon l'endroit où elle se trouve, nous voyons une part plus ou moins grande de sa moitié éclairée. C'est ce qu'on appelle les phases.
+
+Une idée fausse est très répandue : les phases ne viennent pas de l'ombre de la Terre. Cette ombre ne touche la Lune que pendant une éclipse de Lune.
+
+## Les huit phases dans l'ordre
+
+Le cycle commence par la nouvelle Lune. La Lune est alors du même côté que le Soleil. Elle nous montre sa face sombre et elle se lève et se couche avec le Soleil : on ne la voit pas.
+
+Ensuite viennent le premier croissant, puis le premier quartier, où l'on voit une moitié de disque. La Lune devient ensuite gibbeuse, c'est-à-dire plus qu'à moitié pleine.
+
+À la pleine Lune, elle est à l'opposé du Soleil. Toute sa face visible est éclairée. Elle se lève au coucher du Soleil et brille toute la nuit.
+
+Puis la partie éclairée diminue : Lune gibbeuse, dernier quartier, dernier croissant. Et le cycle recommence.
+
+## Combien de temps dure le cycle
+
+Un cycle complet s'appelle une lunaison. Il dure en moyenne 29 jours, 12 heures et 44 minutes, soit environ 29,5 jours.
+
+Pourtant, la Lune fait le tour de la Terre en 27,3 jours seulement. La différence vient du fait que la Terre avance aussi autour du Soleil pendant ce temps. La Lune doit tourner encore un peu pour retrouver la même position par rapport au Soleil.
+
+## La lumière cendrée
+
+Quand la Lune est un fin croissant, on peut voir faiblement le reste de son disque. C'est la lumière cendrée. Elle vient de la Terre : notre planète renvoie une partie de la lumière du Soleil vers la Lune.
+
+La Lune montre toujours la même face à la Terre. C'est pourquoi on voit, d'un mois à l'autre, à peu près les mêmes taches sombres à chaque phase.
+
+## À retenir
+
+- La Lune ne produit pas de lumière : elle est éclairée par le Soleil.
+- Les phases dépendent de la part de sa moitié éclairée que l'on voit depuis la Terre.
+- Les phases ne sont pas causées par l'ombre de la Terre.
+- Un cycle complet, la lunaison, dure environ 29,5 jours.
+- La pleine Lune se lève au coucher du Soleil et brille toute la nuit.
 
 ---
 type: article
@@ -7768,18 +8189,99 @@ status: planned
 
 ---
 type: article
-title: L'expansion de l'univers et sa decouverte historique
-slug: l-expansion-de-l-univers-et-sa-decouverte-historique
+title: Comment sait-on que l'Univers grandit ?
+slug: comment-sait-on-que-l-univers-grandit
 categoryPath: espace-et-astronomie/astrophysique/cosmologie
 summary: >
-  Un phenomene mesure pour la premiere fois au debut du vingtieme siecle, qui a transforme la cosmologie.
-tags: [cosmologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La lumière des galaxies lointaines arrive étirée vers le rouge. Plus une galaxie est loin,
+  plus elle s'éloigne vite. Les astronomes en ont conclu dans les années 1920 que l'espace
+  lui-même grandit.
+tags: [cosmologie]
+sources:
+  - title: "Expansion de l'Univers"
+    url: "https://fr.wikipedia.org/wiki/Expansion_de_l%27Univers"
+    publisher: "Wikipédia"
+  - title: "Hubble's law"
+    url: "https://en.wikipedia.org/wiki/Hubble%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que montre la lumière des galaxies lointaines ?"
+    options:
+      - "Elle est décalée vers le bleu"
+      - "Elle est décalée vers le rouge"
+      - "Elle ne change jamais"
+    answer: 2
+    explanation: >
+      La lumière des galaxies qui s'éloignent est étirée vers le rouge. C'est le décalage
+      vers le rouge.
+  - question: "Qui a publié en 1929 la relation entre la distance et la vitesse des galaxies ?"
+    options:
+      - "Galilée"
+      - "Isaac Newton"
+      - "Edwin Hubble"
+    answer: 3
+    explanation: >
+      Edwin Hubble a publié cette relation en 1929. Georges Lemaître l'avait déjà prévue
+      en 1927.
+  - question: "Selon la loi de Hubble-Lemaître, comment s'éloigne une galaxie deux fois plus lointaine ?"
+    options:
+      - "Deux fois plus vite"
+      - "Deux fois moins vite"
+      - "À la même vitesse"
+    answer: 1
+    explanation: >
+      La vitesse d'éloignement est proportionnelle à la distance : deux fois plus loin,
+      deux fois plus vite.
+  - question: "Qu'ont découvert deux équipes de chercheurs en 1998 ?"
+    options:
+      - "Que l'Univers rétrécit"
+      - "Que l'expansion de l'Univers accélère"
+      - "Que les galaxies ne bougent pas"
+    answer: 2
+    explanation: >
+      En 1998, deux équipes ont découvert que l'expansion accélère. On attribue cela à une
+      énergie mystérieuse, l'énergie sombre.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La lumière des galaxies lointaines arrive étirée vers le rouge. Plus une galaxie est loin, plus elle s'éloigne vite. Les astronomes en ont conclu dans les années 1920 que l'espace lui-même grandit.
+
+## Une lumière étirée
+
+Quand une galaxie s'éloigne de nous, sa lumière arrive un peu étirée. Les couleurs se décalent vers le rouge. Les astronomes appellent cela le décalage vers le rouge. En le mesurant, ils peuvent calculer à quelle vitesse une galaxie s'éloigne.
+
+Dès 1912, l'astronome américain Vesto Slipher mesure ce décalage pour des « nébuleuses » en spirale. On ne savait pas encore que c'étaient des galaxies. Il remarque que la plupart s'éloignent de nous.
+
+## Plus c'est loin, plus ça file vite
+
+En 1927, le prêtre et astronome belge Georges Lemaître prévoit, par le calcul, que les galaxies doivent s'éloigner d'autant plus vite qu'elles sont loin. En 1929, l'Américain Edwin Hubble publie des mesures qui le montrent.
+
+Cette règle s'appelle aujourd'hui la loi de Hubble-Lemaître. Une galaxie deux fois plus lointaine s'éloigne deux fois plus vite. Aujourd'hui, les mesures donnent environ 67 à 73 kilomètres par seconde pour chaque mégaparsec de distance. Un mégaparsec vaut environ 3,26 millions d'années-lumière. En 1929, Hubble avait trouvé une valeur bien plus forte, d'environ 500.
+
+Les scientifiques n'arrivent pas encore à se mettre d'accord sur la valeur exacte. Selon la méthode, ils trouvent plutôt 67 ou plutôt 73.
+
+## C'est l'espace qui gonfle
+
+Les galaxies ne foncent pas à travers un espace immobile. C'est l'espace entre elles qui grandit. On peut l'imaginer avec un gâteau aux raisins qui gonfle au four. Chaque raisin voit les autres s'éloigner, et les plus lointains s'éloignent plus vite.
+
+Les objets eux-mêmes ne grossissent pas. Les atomes, les étoiles et les galaxies gardent leur taille. Seul l'espace entre les amas de galaxies très éloignés augmente.
+
+Avant ces découvertes, Albert Einstein pensait que l'Univers était immobile. Il a ensuite abandonné cette idée.
+
+## Une expansion qui accélère
+
+En 1998, deux équipes de chercheurs ont fait une découverte inattendue : l'expansion accélère. Pour l'expliquer, les scientifiques parlent d'une « énergie sombre », dont on ignore encore la nature. Des mesures publiées en 2024 et 2025 suggèrent que cette accélération pourrait varier dans le temps.
+
+## À retenir
+
+- La lumière des galaxies lointaines est décalée vers le rouge, signe qu'elles s'éloignent.
+- Plus une galaxie est lointaine, plus elle s'éloigne vite : c'est la loi de Hubble-Lemaître.
+- Lemaître a prévu cette loi en 1927 et Hubble a publié ses mesures en 1929.
+- Ce n'est pas que les galaxies se déplacent : c'est l'espace entre elles qui grandit.
+- Depuis 1998, on sait que l'expansion de l'Univers accélère.
 
 ---
 type: article
@@ -9193,18 +9695,105 @@ status: planned
 
 ---
 type: article
-title: Les sondes ayant quitte le systeme solaire et leur voyage vers l'espace interstellaire
-slug: les-sondes-ayant-quitte-le-systeme-solaire-et-leur-voyage-vers-l-espace-interstellaire
+title: Comment les sondes Voyager ont-elles atteint l'espace entre les étoiles ?
+slug: comment-les-sondes-voyager-ont-elles-atteint-l-espace-entre-les-etoiles
 categoryPath: espace-et-astronomie/exploration-spatiale/sondes
 summary: >
-  Des engins pionniers qui continuent leur voyage bien au-dela de leur mission initiale.
-tags: [sondes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les deux sondes Voyager ont été lancées en 1977 pour visiter les planètes géantes. Elles ont
+  continué leur route et ont franchi la limite de la bulle créée par le vent du Soleil,
+  Voyager 1 en 2012 et Voyager 2 en 2018. Elles voyagent encore aujourd'hui.
+tags: [sondes]
+sources:
+  - title: "Voyager 1"
+    url: "https://science.nasa.gov/mission/voyager/voyager-1/"
+    publisher: "NASA"
+  - title: "Voyager 2"
+    url: "https://science.nasa.gov/mission/voyager/voyager-2/"
+    publisher: "NASA"
+  - title: "Héliosphère"
+    url: "https://fr.wikipedia.org/wiki/H%C3%A9liosph%C3%A8re"
+    publisher: "Wikipédia"
+quiz:
+  - question: "En quelle année les sondes Voyager ont-elles été lancées ?"
+    options:
+      - "1969"
+      - "1977"
+      - "1999"
+    answer: 2
+    explanation: >
+      Voyager 2 a décollé le 20 août 1977 et Voyager 1 le 5 septembre 1977.
+  - question: "Quelle sonde est la seule à avoir visité Uranus et Neptune ?"
+    options:
+      - "Voyager 1"
+      - "Apollo 11"
+      - "Voyager 2"
+    answer: 3
+    explanation: >
+      Voyager 2 a survolé Uranus en 1986 et Neptune en 1989. Aucune autre sonde n'y est
+      allée.
+  - question: "Qu'est-ce que l'héliopause ?"
+    options:
+      - "La limite de la bulle créée par le vent solaire"
+      - "Un cratère sur la Lune"
+      - "Le moteur de la sonde"
+    answer: 1
+    explanation: >
+      L'héliopause est la frontière où le vent du Soleil ne repousse plus le gaz qui
+      circule entre les étoiles.
+  - question: "Que transportent les sondes Voyager pour d'éventuels extraterrestres ?"
+    options:
+      - "Une carte au trésor"
+      - "Un disque doré avec des sons, des images et de la musique"
+      - "Un drapeau géant"
+    answer: 2
+    explanation: >
+      Chaque sonde emporte un disque de cuivre doré avec des salutations en 55 langues, 90
+      minutes de musique et 115 images.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les deux sondes Voyager ont été lancées en 1977 pour visiter les planètes géantes. Elles ont continué leur route et ont franchi la limite de la bulle créée par le vent du Soleil, Voyager 1 en 2012 et Voyager 2 en 2018. Elles voyagent encore aujourd'hui.
+
+## Deux sondes pour les planètes géantes
+
+En 1977, la NASA lance deux sondes : Voyager 2 le 20 août, puis Voyager 1 le 5 septembre. Voyager 1 suit une route plus rapide et dépasse vite sa jumelle.
+
+Voyager 1 survole Jupiter en mars 1979, puis Saturne en novembre 1980. Voyager 2 visite Jupiter en 1979, Saturne en 1981, puis Uranus en 1986 et Neptune en 1989. C'est encore la seule sonde à avoir approché ces deux dernières planètes.
+
+Après ces rencontres, les sondes ne s'arrêtent pas. Rien ne les freine dans le vide : elles continuent de s'éloigner du Soleil.
+
+## Une bulle autour du Soleil
+
+Le Soleil souffle sans arrêt un vent de particules, le vent solaire. Il file à environ 400 kilomètres par seconde. Ce vent crée autour du Soleil et des planètes une immense bulle : l'héliosphère.
+
+Loin du Soleil, le vent solaire ralentit brusquement. Plus loin encore, il ne parvient plus à repousser le gaz qui circule entre les étoiles. Cette frontière s'appelle l'héliopause. Au-delà commence l'espace interstellaire, c'est-à-dire l'espace entre les étoiles.
+
+## Le grand passage
+
+En août 2012, Voyager 1 franchit l'héliopause. C'est le premier objet fabriqué par l'humain à entrer dans l'espace interstellaire. Voyager 2 la suit le 25 novembre 2018.
+
+Les deux sondes baignent désormais dans le gaz venu d'autres étoiles, et leurs instruments le mesurent.
+
+En août 2024, Voyager 1 était à 164,7 fois la distance entre la Terre et le Soleil. C'est l'objet humain le plus lointain. Elle file à 17 kilomètres par seconde par rapport au Soleil. Voyager 2 avance à 15,4 kilomètres par seconde. À cette vitesse, il lui faut plus de 19 000 ans pour parcourir une seule année-lumière.
+
+## De l'énergie et un message
+
+Les sondes Voyager n'ont pas de panneaux solaires. Elles tirent leur électricité de générateurs qui transforment en courant la chaleur d'une matière radioactive.
+
+Chaque sonde emporte aussi un disque de cuivre doré de 30 centimètres. Il contient des salutations en 55 langues, 90 minutes de musique et 115 images de la Terre. C'est un message pour d'éventuels habitants d'autres mondes.
+
+En 1990, Voyager 1 s'est retournée pour photographier les planètes. Sur une image, la Terre n'est qu'un minuscule point bleu pâle.
+
+## À retenir
+
+- Les sondes Voyager 1 et 2 ont été lancées en 1977 pour visiter les planètes géantes.
+- Voyager 2 est la seule sonde à avoir visité Uranus et Neptune.
+- Le vent solaire crée une bulle, l'héliosphère, dont la limite s'appelle l'héliopause.
+- Voyager 1 est entrée dans l'espace interstellaire en 2012, Voyager 2 en 2018.
+- Chaque sonde emporte un disque doré avec des sons, de la musique et des images de la Terre.
 
 ---
 type: article
@@ -10783,18 +11372,104 @@ status: planned
 
 ---
 type: article
-title: Le role de la queue des cometes et son orientation particuliere
-slug: le-role-de-la-queue-des-cometes-et-son-orientation-particuliere
+title: Pourquoi la queue d'une comète pointe-t-elle toujours à l'opposé du Soleil ?
+slug: pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil
 categoryPath: espace-et-astronomie/systeme-solaire/petits-corps
 summary: >
-  Un phenomene visuel spectaculaire cause par la pression du vent solaire sur la matiere liberee.
-tags: [petits-corps, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une comète est une boule de glace et de poussière. Près du Soleil, elle se réchauffe et
+  libère du gaz et de la poussière. La lumière et le vent solaire poussent cette matière loin
+  du Soleil, ce qui forme les queues.
+tags: [petits-corps]
+sources:
+  - title: "Comète"
+    url: "https://fr.wikipedia.org/wiki/Com%C3%A8te"
+    publisher: "Wikipédia"
+  - title: "Comet tail"
+    url: "https://en.wikipedia.org/wiki/Comet_tail"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans quelle direction pointe la queue d'une comète ?"
+    options:
+      - "Toujours vers le Soleil"
+      - "Toujours à l'opposé du Soleil"
+      - "Toujours vers la Terre"
+    answer: 2
+    explanation: >
+      La lumière et le vent solaire repoussent la matière de la comète. Sa queue pointe
+      donc à l'opposé du Soleil.
+  - question: "Quelle est la couleur de la queue de gaz, dite ionique ?"
+    options:
+      - "Bleue"
+      - "Verte"
+      - "Orange"
+    answer: 1
+    explanation: >
+      La queue ionique est bleutée et bien droite. Elle suit la direction du vent solaire.
+  - question: "À partir de quelle distance du Soleil la glace d'eau d'une comète commence-t-elle à se changer en gaz ?"
+    options:
+      - "Au niveau de Neptune"
+      - "Seulement en touchant le Soleil"
+      - "Vers 3 fois la distance Terre-Soleil"
+    answer: 3
+    explanation: >
+      La glace d'eau commence à se sublimer vers 3 unités astronomiques du Soleil, au
+      niveau de la ceinture d'astéroïdes.
+  - question: "Quand la comète de Halley doit-elle revenir près du Soleil ?"
+    options:
+      - "En 2030"
+      - "En 2061"
+      - "En 2200"
+    answer: 2
+    explanation: >
+      La comète de Halley revient environ tous les 76 ans. Son dernier passage date de
+      1986, le prochain est attendu en 2061.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une comète est une boule de glace et de poussière. Près du Soleil, elle se réchauffe et libère du gaz et de la poussière. La lumière et le vent solaire poussent cette matière loin du Soleil, ce qui forme les queues.
+
+## Une boule de neige sale
+
+Le cœur d'une comète s'appelle le noyau. C'est un mélange de glace et de poussières. La glace est surtout de l'eau, mais aussi du dioxyde de carbone, du monoxyde de carbone et du méthane. Le noyau mesure de quelques centaines de mètres à plusieurs dizaines de kilomètres. Il est très poreux et léger : moins de la moitié de la densité de l'eau.
+
+Loin du Soleil, la comète reste gelée et n'a pas de queue.
+
+## Le réveil près du Soleil
+
+Quand la comète s'approche du Soleil, elle se réchauffe. Vers 3 fois la distance Terre-Soleil, la glace d'eau commence à se sublimer : elle passe directement de l'état solide à l'état gazeux. Le gaz s'échappe et emporte des poussières.
+
+Autour du noyau se forme alors un grand nuage, la chevelure. Il mesure souvent entre 50 000 et 250 000 kilomètres de diamètre.
+
+## Deux queues poussées par le Soleil
+
+La plupart des comètes actives ont deux queues.
+
+La queue de poussière est blanchâtre et courbée. Elle est poussée par la lumière du Soleil elle-même. La lumière exerce une petite poussée sur les grains très fins : c'est la pression de radiation.
+
+La queue de gaz, appelée queue ionique, est bleutée et bien droite. Elle est faite de gaz électriquement chargé. Le vent solaire, un flot de particules qui s'échappe du Soleil, l'entraîne dans sa direction.
+
+Les deux poussées viennent du Soleil. C'est pourquoi les queues pointent toujours à l'opposé de lui. Elles mesurent souvent 30 à 80 millions de kilomètres.
+
+## Une queue qui passe devant
+
+La queue ne suit donc pas toujours la comète comme la traîne d'une robe. Quand la comète s'éloigne du Soleil, sa queue passe devant elle.
+
+## D'où viennent les comètes
+
+Beaucoup de comètes viennent du nuage d'Oort, une région lointaine aux confins du Système solaire. D'autres, qui reviennent souvent, viennent de la ceinture de Kuiper, au-delà de Neptune.
+
+La comète de Halley revient environ tous les 76 ans. Son dernier passage date de 1986. Le prochain est attendu en 2061.
+
+## À retenir
+
+- Le noyau d'une comète est un mélange de glace et de poussières.
+- Près du Soleil, la glace se change en gaz et forme une chevelure autour du noyau.
+- La queue de poussière est poussée par la lumière, la queue de gaz par le vent solaire.
+- Les queues pointent toujours à l'opposé du Soleil et peuvent mesurer des dizaines de millions de kilomètres.
+- La comète de Halley revient environ tous les 76 ans ; prochain passage en 2061.
 
 ---
 type: article
@@ -11098,18 +11773,100 @@ status: planned
 
 ---
 type: article
-title: Venus et son atmosphere extremement dense et toxique
-slug: venus-et-son-atmosphere-extremement-dense-et-toxique
+title: Pourquoi Vénus est-elle la planète la plus chaude du Système solaire ?
+slug: pourquoi-venus-est-elle-la-planete-la-plus-chaude-du-systeme-solaire
 categoryPath: espace-et-astronomie/systeme-solaire/planetes
 summary: >
-  Une planete dont les conditions de surface sont parmi les plus hostiles du systeme solaire.
-tags: [planetes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Vénus est entourée d'une atmosphère très épaisse, faite presque uniquement de dioxyde de
+  carbone. Ce gaz retient la chaleur du Soleil comme une couverture. Au sol, il fait environ
+  460 °C, plus que sur Mercure.
+tags: [planetes]
+sources:
+  - title: "Vénus (planète)"
+    url: "https://fr.wikipedia.org/wiki/V%C3%A9nus_(plan%C3%A8te)"
+    publisher: "Wikipédia"
+  - title: "Atmosphere of Venus"
+    url: "https://en.wikipedia.org/wiki/Atmosphere_of_Venus"
+    publisher: "Wikipedia"
+quiz:
+  - question: "De quel gaz l'atmosphère de Vénus est-elle surtout composée ?"
+    options:
+      - "D'oxygène"
+      - "De dioxyde de carbone"
+      - "D'hélium"
+    answer: 2
+    explanation: >
+      L'atmosphère de Vénus contient 96,5 % de dioxyde de carbone et 3,5 % d'azote.
+  - question: "Pourquoi Vénus est-elle plus chaude que Mercure ?"
+    options:
+      - "Son atmosphère retient la chaleur par un effet de serre très fort"
+      - "Elle est plus proche du Soleil"
+      - "Elle a des volcans en éruption partout"
+    answer: 1
+    explanation: >
+      Mercure est plus proche du Soleil, mais l'épaisse atmosphère de Vénus piège la
+      chaleur.
+  - question: "À quoi ressemble la pression au sol de Vénus ?"
+    options:
+      - "À celle du sommet d'une montagne"
+      - "À celle d'une salle de classe"
+      - "À celle qu'on subirait à 900 mètres sous la mer"
+    answer: 3
+    explanation: >
+      La pression au sol de Vénus est environ 92 fois celle de la Terre, comme à 900
+      mètres sous l'eau.
+  - question: "De quoi sont faits les nuages de Vénus ?"
+    options:
+      - "De vapeur d'eau pure"
+      - "D'acide sulfurique"
+      - "De poussière de fer"
+    answer: 2
+    explanation: >
+      Des nuages d'acide sulfurique couvrent toute la planète. Ils renvoient environ 75 %
+      de la lumière du Soleil.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Vénus est entourée d'une atmosphère très épaisse, faite presque uniquement de dioxyde de carbone. Ce gaz retient la chaleur du Soleil comme une couverture. Au sol, il fait environ 460 °C, plus que sur Mercure.
+
+## Plus chaude que Mercure
+
+Mercure est la planète la plus proche du Soleil. Pourtant, la plus chaude est Vénus, la deuxième. La température moyenne au sol de Vénus atteint environ 460 °C. C'est plus que la chaleur nécessaire pour faire fondre du plomb, qui fond à 327 °C.
+
+Vénus ne reçoit pourtant que le quart de l'énergie solaire que reçoit Mercure sur une même surface. Le secret de sa chaleur se trouve dans son atmosphère.
+
+## Une couverture de dioxyde de carbone
+
+L'atmosphère de Vénus est composée à 96,5 % de dioxyde de carbone et à 3,5 % d'azote. Le dioxyde de carbone est un gaz à effet de serre : il laisse entrer la chaleur du Soleil mais l'empêche de repartir vers l'espace.
+
+Sur Vénus, cet effet de serre est énorme. La chaleur reste piégée près du sol, de jour comme de nuit. C'est pourquoi la planète est un four, même si elle est plus loin du Soleil que Mercure.
+
+Cette atmosphère est aussi très lourde. Au sol, la pression est environ 92 fois plus forte que sur Terre. C'est la pression qu'un plongeur subirait à 900 mètres sous la mer.
+
+## Des nuages d'acide
+
+Vénus est entièrement couverte de nuages d'acide sulfurique, un acide très corrosif. Ils flottent entre 45 et 70 kilomètres d'altitude. Ces nuages renvoient environ 75 % de la lumière du Soleil vers l'espace.
+
+En haut des nuages, les vents soufflent à environ 360 km/h. Ils font le tour de la planète en 4 jours seulement. Au sol, en revanche, le vent est très faible.
+
+## Une sœur bien étrange
+
+Vénus a presque la taille de la Terre : son diamètre vaut 95 % de celui de notre planète. On l'appelle parfois la « planète sœur » de la Terre.
+
+Mais elle tourne très lentement sur elle-même, en 243 jours terrestres, et dans le sens inverse des autres planètes. Sur Vénus, le Soleil se lève à l'ouest.
+
+En 1970, la sonde soviétique Venera 7 a été la première à se poser en douceur sur une autre planète.
+
+## À retenir
+
+- Vénus est la planète la plus chaude du Système solaire, avec environ 460 °C au sol.
+- Son atmosphère contient 96,5 % de dioxyde de carbone, un gaz qui piège la chaleur.
+- La pression au sol est environ 92 fois celle de la Terre.
+- Des nuages d'acide sulfurique couvrent toute la planète.
+- Vénus tourne sur elle-même en 243 jours, dans le sens inverse des autres planètes.
 
 ---
 type: article
@@ -11143,18 +11900,99 @@ status: planned
 
 ---
 type: article
-title: Saturne et son systeme d'anneaux spectaculaire
-slug: saturne-et-son-systeme-d-anneaux-spectaculaire
+title: Pourquoi Saturne est-elle entourée d'anneaux ?
+slug: pourquoi-saturne-est-elle-entouree-d-anneaux
 categoryPath: espace-et-astronomie/systeme-solaire/planetes
 summary: >
-  Une planete emblematique reconnaissable entre toutes grace a cette structure remarquable.
-tags: [planetes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les anneaux de Saturne sont faits de milliards de morceaux de glace qui tournent autour de
+  la planète. Ils sont immenses mais très fins. Les scientifiques débattent encore de leur âge
+  et de leur origine.
+tags: [planetes]
+sources:
+  - title: "Anneaux de Saturne"
+    url: "https://fr.wikipedia.org/wiki/Anneaux_de_Saturne"
+    publisher: "Wikipédia"
+  - title: "Saturn Facts"
+    url: "https://science.nasa.gov/saturn/facts/"
+    publisher: "NASA"
+quiz:
+  - question: "De quoi sont surtout faits les anneaux de Saturne ?"
+    options:
+      - "De gaz chaud"
+      - "De métal fondu"
+      - "De glace d'eau"
+    answer: 3
+    explanation: >
+      Les anneaux sont composés de 95 à 99 % de glace d'eau, avec un peu de poussière et
+      de roche.
+  - question: "Quelle est l'épaisseur typique des anneaux principaux ?"
+    options:
+      - "Environ 10 mètres"
+      - "Environ 1 000 kilomètres"
+      - "Environ 1 centimètre"
+    answer: 1
+    explanation: >
+      Les anneaux principaux sont très fins : environ 10 mètres d'épaisseur en moyenne,
+      pour des dizaines de milliers de kilomètres de large.
+  - question: "Comment s'appelle le grand vide entre les anneaux A et B ?"
+    options:
+      - "La faille de Galilée"
+      - "La division de Cassini"
+      - "Le trou de Huygens"
+    answer: 2
+    explanation: >
+      La division de Cassini sépare les anneaux A et B. Elle mesure environ 4 700
+      kilomètres de large.
+  - question: "Qui a compris le premier que Saturne était entourée d'un anneau ?"
+    options:
+      - "Isaac Newton"
+      - "Christiaan Huygens"
+      - "Albert Einstein"
+    answer: 2
+    explanation: >
+      Galilée avait vu quelque chose d'étrange en 1610 sans comprendre. Huygens a décrit
+      l'anneau en 1659.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les anneaux de Saturne sont faits de milliards de morceaux de glace qui tournent autour de la planète. Ils sont immenses mais très fins. Les scientifiques débattent encore de leur âge et de leur origine.
+
+## Des milliards de glaçons en orbite
+
+Les anneaux de Saturne ne sont pas des disques solides. Ils sont formés de milliards de morceaux de glace et de roche qui tournent autour de la planète. Chaque morceau suit son orbite, comme une minuscule lune.
+
+Ces morceaux sont faits de 95 à 99 % de glace d'eau. Leur taille va du grain de poussière jusqu'au bloc grand comme une maison. Quelques-uns sont encore plus gros. La glace renvoie très bien la lumière du Soleil. C'est pour cela que les anneaux brillent autant.
+
+## Immenses mais très fins
+
+Les anneaux principaux s'étendent sur des dizaines de milliers de kilomètres autour de Saturne. Pourtant, leur épaisseur moyenne n'est que d'environ 10 mètres.
+
+On les désigne par des lettres, de A à G, dans l'ordre de leur découverte. Les trois anneaux principaux sont A, B et C. Entre A et B se trouve un grand vide : la division de Cassini. Il mesure environ 4 700 kilomètres de large.
+
+## Une longue découverte
+
+En 1610, Galilée observe Saturne avec sa lunette. Il voit des formes bizarres de chaque côté de la planète, mais ne comprend pas ce que c'est. En 1659, l'astronome néerlandais Christiaan Huygens explique qu'il s'agit d'un anneau mince et plat qui entoure Saturne.
+
+Plus tard, la sonde Cassini a étudié les anneaux de près pendant des années.
+
+## D'où viennent-ils ?
+
+Les scientifiques ne sont pas encore d'accord. Une idée est qu'une lune se serait trop approchée de Saturne. La gravité de la planète l'aurait alors brisée en morceaux. Une autre idée est que les anneaux sont des restes de la matière qui a formé Saturne.
+
+Leur âge fait aussi débat. Certaines études leur donnent seulement 100 à 400 millions d'années. D'autres, publiées en 2024, remettent en cause ce résultat.
+
+Les anneaux ne sont pas éternels. Des morceaux de glace tombent peu à peu dans l'atmosphère de Saturne. Selon une estimation, ils pourraient disparaître dans environ 300 millions d'années.
+
+## À retenir
+
+- Les anneaux de Saturne sont faits de milliards de morceaux de glace et de roche en orbite.
+- Ils contiennent 95 à 99 % de glace d'eau, ce qui les rend très brillants.
+- Les anneaux principaux sont immenses mais ne font qu'environ 10 mètres d'épaisseur.
+- Galilée les a aperçus en 1610 ; Huygens a compris en 1659 qu'il s'agissait d'un anneau.
+- Leur âge et leur origine font encore débat chez les scientifiques.
 
 ---
 type: article

@@ -5470,18 +5470,100 @@ status: planned
 
 ---
 type: article
-title: La chaine de montage et son invention par Ford
-slug: la-chaine-de-montage-et-son-invention-par-ford
+title: Comment la chaîne de montage de Ford a-t-elle changé la fabrication des voitures ?
+slug: comment-la-chaine-de-montage-de-ford-a-t-elle-change-la-fabrication-des-voitures
 categoryPath: automobile/industrie-automobile/production
 summary: >
-  Comment cette methode a rendu la voiture accessible au plus grand nombre.
-tags: [production, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En 1913, Ford installe une chaîne de montage mobile dans son usine de Highland Park, aux
+  États-Unis. La voiture avance devant des ouvriers qui font chacun une seule tâche. Le temps
+  pour assembler une Ford T passe de 12 heures et demie à 93 minutes.
+tags: [production]
+sources:
+  - title: "Ford T"
+    url: "https://fr.wikipedia.org/wiki/Ford_T"
+    publisher: "Wikipédia"
+  - title: "Assembly line"
+    url: "https://en.wikipedia.org/wiki/Assembly_line"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle idée a inspiré la chaîne de montage de Ford ?"
+    options:
+      - "Les abattoirs de Chicago, où la viande avançait devant les ouvriers"
+      - "Les ateliers d'horlogerie suisses"
+      - "Les moulins à vent"
+    answer: 1
+    explanation: >
+      William Klann avait vu dans un abattoir de Chicago les carcasses avancer sur un
+      convoyeur devant des ouvriers fixes.
+  - question: "Combien de temps fallait-il pour assembler une Ford T avec la chaîne mobile ?"
+    options:
+      - "3 jours"
+      - "93 minutes"
+      - "12 heures et demie"
+    answer: 2
+    explanation: >
+      Grâce à la chaîne mobile, le temps d'assemblage est passé de 12 heures et demie à 93
+      minutes.
+  - question: "Comment le prix de la Ford T a-t-il évolué ?"
+    options:
+      - "Il a doublé"
+      - "Il est resté le même"
+      - "Il a baissé, de 850 à 290 dollars"
+    answer: 3
+    explanation: >
+      La Ford T coûtait 850 dollars à sa sortie. À la fin des années 1920, elle ne coûtait
+      plus que 290 dollars.
+  - question: "Combien de Ford T ont été fabriquées en tout ?"
+    options:
+      - "Environ 15 millions"
+      - "Environ 1 000"
+      - "Environ 100 000"
+    answer: 1
+    explanation: >
+      Plus de 15 millions de Ford T ont été produites entre 1908 et 1927.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1913, Ford installe une chaîne de montage mobile dans son usine de Highland Park, aux États-Unis. La voiture avance devant des ouvriers qui font chacun une seule tâche. Le temps pour assembler une Ford T passe de 12 heures et demie à 93 minutes.
+
+## Avant la chaîne
+
+Au début du 20e siècle, les voitures étaient fabriquées presque à la main. Des ouvriers se déplaçaient autour de chaque voiture pour l'assembler. C'était lent et cher. Peu de familles pouvaient en acheter une.
+
+En 1908, l'Américain Henry Ford lance la Ford T. Il veut une voiture simple que beaucoup de gens puissent s'offrir. Mais son usine n'arrive pas à suivre la demande. En 1910, il déménage la production dans une nouvelle usine, à Highland Park, près de Détroit.
+
+## L'idée venue des abattoirs
+
+Un employé de Ford, William Klann, visite un abattoir de Chicago. Là, les carcasses d'animaux avancent sur un convoyeur. Chaque ouvrier reste à sa place et découpe toujours le même morceau. Klann pense qu'on peut faire la même chose, mais à l'envers : assembler au lieu de découper.
+
+L'équipe de Ford essaie, se trompe et recommence. Le 7 octobre 1913, la chaîne de montage mobile démarre à Highland Park.
+
+## Chacun sa tâche
+
+Sur la chaîne, ce ne sont plus les ouvriers qui se déplacent. C'est la voiture qui avance devant eux, tirée par un convoyeur. Le travail est découpé en 45 étapes. Chaque ouvrier fait toujours le même geste au même endroit : poser une roue, serrer un boulon, fixer une pièce.
+
+Toutes les pièces sont identiques d'une voiture à l'autre. On les appelle des pièces interchangeables. N'importe quelle pièce s'adapte donc sur n'importe quelle voiture.
+
+Le résultat est spectaculaire. Le temps d'assemblage d'une Ford T passe de 12 heures et demie à 93 minutes. Une voiture sort de la chaîne toutes les trois minutes.
+
+## Des voitures pour tous
+
+Plus l'usine produit vite, moins chaque voiture coûte cher. La Ford T valait 850 dollars à sa sortie. À la fin des années 1920, son prix est tombé à 290 dollars. Ford a aussi augmenté les salaires, de 1,50 à 5 dollars par jour pour les ouvriers ayant trois ans d'ancienneté.
+
+Le travail à la chaîne avait un défaut : des gestes répétés toute la journée, à un rythme imposé. Beaucoup d'ouvriers démissionnaient.
+
+Plus de 15 millions de Ford T ont été fabriquées jusqu'en 1927. La chaîne de montage s'est ensuite répandue dans le monde entier et dans d'autres industries.
+
+## À retenir
+
+- La chaîne de montage mobile de Ford a démarré le 7 octobre 1913 dans l'usine de Highland Park.
+- L'idée venait des abattoirs de Chicago, où la viande avançait devant des ouvriers immobiles.
+- Sur la chaîne, la voiture avance et chaque ouvrier répète la même tâche, avec des pièces interchangeables.
+- Le temps d'assemblage d'une Ford T est passé de 12 heures et demie à 93 minutes.
+- Le prix de la Ford T est tombé de 850 à 290 dollars, et plus de 15 millions ont été fabriquées.
 
 ---
 type: article
@@ -6430,18 +6512,105 @@ status: planned
 
 ---
 type: article
-title: Le biodiesel issu d'huiles usagees
-slug: le-biodiesel-issu-d-huiles-usagees
+title: Comment transforme-t-on de l'huile de friture usagée en carburant ?
+slug: comment-transforme-t-on-de-l-huile-de-friture-usagee-en-carburant
 categoryPath: automobile/motorisations/carburants-alternatifs
 summary: >
-  Une valorisation directe de dechets alimentaires en carburant automobile.
-tags: [carburants-alternatifs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'huile de cuisson usagée des restaurants peut devenir un carburant pour moteurs diesel, le
+  biodiesel. On la nettoie, puis on la fait réagir avec un alcool pour retirer la glycérine.
+  Le carburant obtenu est souvent mélangé au gazole ordinaire.
+tags: [carburants-alternatifs]
+sources:
+  - title: "Biogazole"
+    url: "https://fr.wikipedia.org/wiki/Biogazole"
+    publisher: "Wikipédia"
+  - title: "Yellow grease"
+    url: "https://en.wikipedia.org/wiki/Yellow_grease"
+    publisher: "Wikipedia"
+  - title: "Vegetable oil fuel"
+    url: "https://en.wikipedia.org/wiki/Vegetable_oil_fuel"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi ne met-on pas directement l'huile de friture dans un moteur diesel ordinaire ?"
+    options:
+      - "Elle est trop épaisse et contient de la glycérine"
+      - "Elle est trop chère"
+      - "Elle est interdite dans les restaurants"
+    answer: 1
+    explanation: >
+      L'huile est plus épaisse que le gazole et contient de la glycérine, qui peut
+      produire une substance toxique en brûlant.
+  - question: "Comment s'appelle la réaction chimique qui transforme l'huile en biodiesel ?"
+    options:
+      - "La photosynthèse"
+      - "La transestérification"
+      - "La fermentation"
+    answer: 2
+    explanation: >
+      La transestérification fait réagir l'huile avec un alcool, souvent du méthanol. Elle
+      sépare la glycérine du carburant.
+  - question: "Que signifie l'étiquette B7 sur un carburant ?"
+    options:
+      - "Qu'il contient 7 % de biocarburant"
+      - "Qu'il a été fabriqué en 2007"
+      - "Qu'il est fait pour 7 cylindres"
+    answer: 1
+    explanation: >
+      Le chiffre indique le pourcentage de biocarburant mélangé au gazole. B100 signifie
+      100 % de biocarburant.
+  - question: "Que devient la glycérine retirée de l'huile ?"
+    options:
+      - "Elle est jetée dans la mer"
+      - "Elle devient de l'essence"
+      - "Elle est réutilisée dans l'industrie chimique ou alimentaire"
+    answer: 3
+    explanation: >
+      La glycérine représente environ 10 % de la masse produite. Elle peut servir dans
+      l'industrie chimique ou alimentaire.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'huile de cuisson usagée des restaurants peut devenir un carburant pour moteurs diesel, le biodiesel. On la nettoie, puis on la fait réagir avec un alcool pour retirer la glycérine. Le carburant obtenu est souvent mélangé au gazole ordinaire.
+
+## Une huile qui a déjà servi
+
+Les restaurants et les cantines utilisent beaucoup d'huile pour la friture. Une fois usée, cette huile devient un déchet. Des entreprises la collectent avec des camions. On peut la transformer en carburant pour les moteurs diesel : le biodiesel, aussi appelé biogazole.
+
+Rudolf Diesel, l'inventeur du moteur diesel, avait déjà pensé aux huiles végétales. En 1912, il expliquait que ces huiles pourraient un jour devenir aussi importantes que le pétrole.
+
+## Pourquoi il faut transformer l'huile
+
+En théorie, un moteur diesel peut brûler presque n'importe quelle huile. Mais l'huile pose deux problèmes.
+
+- Elle est plus épaisse que le gazole. Elle se pulvérise mal dans le moteur, brûle mal et laisse des dépôts de suie. Par temps froid, elle peut même devenir pâteuse.
+- Elle contient de la glycérine. En brûlant, la glycérine peut produire une substance toxique, l'acroléine.
+
+Il faut donc transformer l'huile avant de l'utiliser dans une voiture ordinaire.
+
+## Les étapes de fabrication
+
+D'abord, on nettoie l'huile usagée. On retire l'eau, les miettes et les autres impuretés. On obtient une huile raffinée.
+
+Ensuite, on fait réagir cette huile avec un alcool, le plus souvent du méthanol. On chauffe le mélange vers 50 °C et on ajoute un produit qui accélère la réaction. Cette réaction chimique s'appelle la transestérification. Elle coupe les grosses molécules d'huile en molécules plus petites, qui brûlent bien dans un moteur.
+
+À la fin, on obtient deux produits qui se séparent. Le premier est le biodiesel. Le second est la glycérine, environ 10 % de la masse. Elle est réutilisée dans l'industrie chimique ou alimentaire. Une autre méthode, l'hydrogénation, utilise de l'hydrogène au lieu de l'alcool et ne produit pas de glycérine.
+
+## Dans le réservoir
+
+Le biodiesel peut être utilisé pur. On l'appelle alors B100. Le plus souvent, il est mélangé au gazole ordinaire. Le chiffre après la lettre B indique la part de biocarburant : B7 contient 7 % de biodiesel, B30 en contient 30 %.
+
+Utiliser des huiles usagées a un avantage. Le carburant vient d'un déchet, et non de plantes cultivées exprès, comme le colza ou le palmier à huile. Mais la quantité d'huile usagée disponible reste limitée. Elle sert aussi à fabriquer du savon, des cosmétiques ou de la nourriture pour animaux.
+
+## À retenir
+
+- L'huile de friture usagée peut être transformée en biodiesel, un carburant pour moteurs diesel.
+- L'huile brute est trop épaisse et contient de la glycérine, qu'il faut retirer.
+- La transestérification fait réagir l'huile avec un alcool, souvent du méthanol, vers 50 °C.
+- On obtient du biodiesel et de la glycérine, environ 10 % de la masse, réutilisée par l'industrie.
+- Le biodiesel est souvent mélangé au gazole : B7 contient 7 % de biocarburant.
 
 ---
 type: article
@@ -7468,18 +7637,102 @@ status: planned
 
 ---
 type: article
-title: Le moteur diesel, principe de l'auto-inflammation
-slug: le-moteur-diesel-principe-de-l-auto-inflammation
+title: Comment un moteur diesel s'allume-t-il sans bougie d'allumage ?
+slug: comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Contrairement a l'essence, ce moteur n'a pas besoin de bougie pour s'allumer.
+  Dans un moteur diesel, le piston écrase l'air si fort que cet air devient brûlant. Quand on
+  injecte le gazole dans cet air chaud, il s'enflamme tout seul. Ce phénomène s'appelle
+  l'auto-inflammation.
 tags: [thermique]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Moteur Diesel"
+    url: "https://fr.wikipedia.org/wiki/Moteur_Diesel"
+    publisher: "Wikipédia"
+  - title: "Diesel engine"
+    url: "https://en.wikipedia.org/wiki/Diesel_engine"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui allume le gazole dans un moteur diesel ?"
+    options:
+      - "Une étincelle de bougie"
+      - "La chaleur de l'air très comprimé"
+      - "Une flamme de briquet"
+    answer: 2
+    explanation: >
+      Le piston comprime l'air si fort qu'il devient brûlant. Le gazole injecté s'enflamme
+      tout seul à son contact.
+  - question: "Que comprime le piston pendant le deuxième temps d'un moteur diesel ?"
+    options:
+      - "De l'air seul"
+      - "Un mélange d'air et d'essence"
+      - "De l'eau"
+    answer: 1
+    explanation: >
+      Le moteur diesel aspire et comprime uniquement de l'air. Le gazole n'est injecté
+      qu'à la fin de la compression.
+  - question: "À quoi sert la bougie de préchauffage d'un moteur diesel ?"
+    options:
+      - "À allumer chaque explosion"
+      - "À éclairer le moteur"
+      - "À aider le démarrage quand le moteur est froid"
+    answer: 3
+    explanation: >
+      Moteur froid, l'air comprimé ne chauffe pas assez. La bougie de préchauffage crée un
+      point chaud qui aide le démarrage.
+  - question: "Qui a donné son nom au moteur diesel ?"
+    options:
+      - "Henry Ford"
+      - "L'ingénieur allemand Rudolf Diesel"
+      - "Nikolaus Otto"
+    answer: 2
+    explanation: >
+      Rudolf Diesel a mis au point ce moteur entre 1893 et 1897, à Augsbourg, en
+      Allemagne.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un moteur diesel, le piston écrase l'air si fort que cet air devient brûlant. Quand on injecte le gazole dans cet air chaud, il s'enflamme tout seul. Ce phénomène s'appelle l'auto-inflammation.
+
+## Écraser l'air pour le chauffer
+
+Quand on gonfle un pneu de vélo avec une pompe, le bas de la pompe devient chaud. C'est parce que comprimer un gaz le réchauffe. Le moteur diesel utilise ce phénomène pour enflammer son carburant, le gazole.
+
+Dans un moteur à essence, une bougie produit une étincelle pour allumer le mélange. Le moteur diesel n'en a pas besoin. On l'appelle aussi moteur à allumage par compression.
+
+## Les quatre temps du diesel
+
+Comme le moteur à essence, le moteur diesel fonctionne en quatre temps.
+
+1. Admission. Le piston descend et aspire de l'air seul dans le cylindre.
+2. Compression. Le piston remonte et écrase cet air. Dans une voiture, l'air est réduit environ 14 à 25 fois. Il atteint alors plusieurs centaines de degrés.
+3. Combustion. Juste avant que le piston arrive en haut, un injecteur pulvérise le gazole en fines gouttelettes. Au contact de l'air brûlant, le gazole s'enflamme presque aussitôt. C'est l'auto-inflammation. Les gaz chauds repoussent le piston vers le bas.
+4. Échappement. Le piston remonte et chasse les gaz brûlés.
+
+Le mouvement des pistons fait tourner un axe, le vilebrequin, qui entraîne les roues.
+
+## Le problème du démarrage à froid
+
+Quand le moteur est froid, l'air comprimé ne chauffe pas toujours assez. Les moteurs diesel ont donc des bougies de préchauffage. Ce sont de petites tiges de métal qui chauffent et créent un point chaud dans le cylindre. Elles aident seulement au démarrage. Elles ne produisent pas d'étincelle.
+
+Le moteur diesel doit aussi être plus solide qu'un moteur à essence. Les pressions dans ses cylindres sont très élevées. Il est donc plus lourd.
+
+## L'invention de Rudolf Diesel
+
+Le moteur porte le nom de l'ingénieur allemand Rudolf Diesel. Il l'a mis au point entre 1893 et 1897 dans une usine d'Augsbourg, en Allemagne. Son moteur de 1897 était énorme et tournait lentement. Il a d'abord équipé des usines, des bateaux et des sous-marins.
+
+La première voiture de série à moteur diesel est la Citroën Rosalie de 1933. Le diesel consomme moins de carburant qu'un moteur à essence. Mais il rejette des particules de suie et des oxydes d'azote, qui polluent l'air. En France, la part des voitures neuves diesel est passée de 77 % en 2008 à 17,3 % en 2022.
+
+## À retenir
+
+- Un moteur diesel n'a pas de bougie d'allumage : le gazole s'enflamme tout seul dans l'air très comprimé.
+- Le piston comprime l'air seul, qui devient brûlant, puis un injecteur pulvérise le gazole.
+- Les bougies de préchauffage aident seulement à démarrer quand le moteur est froid.
+- Rudolf Diesel a mis au point son moteur entre 1893 et 1897 en Allemagne.
+- En France, les voitures neuves diesel sont passées de 77 % des ventes en 2008 à 17,3 % en 2022.
 
 ---
 type: article
@@ -8008,18 +8261,108 @@ status: planned
 
 ---
 type: article
-title: Le controle de stabilite electronique (ESP)
-slug: le-controle-de-stabilite-electronique-esp
+title: Comment l'ESP empêche-t-il une voiture de partir en tête-à-queue ?
+slug: comment-l-esp-empeche-t-il-une-voiture-de-partir-en-tete-a-queue
 categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
 summary: >
-  Un systeme qui corrige automatiquement une perte d'adherence en virage.
-tags: [aides-a-la-conduite, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'ESP compare sans arrêt la direction voulue par le conducteur et la direction réelle de la
+  voiture. S'il voit que la voiture dérape, il freine une seule roue pour la remettre dans le
+  bon axe. Il est obligatoire sur toutes les voitures neuves de l'Union européenne depuis
+  2014.
+tags: [aides-a-la-conduite]
+sources:
+  - title: "Correcteur électronique de trajectoire"
+    url: "https://fr.wikipedia.org/wiki/Correcteur_%C3%A9lectronique_de_trajectoire"
+    publisher: "Wikipédia"
+  - title: "Electronic stability control"
+    url: "https://en.wikipedia.org/wiki/Electronic_stability_control"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait l'ESP quand la voiture commence à déraper ?"
+    options:
+      - "Il freine une ou plusieurs roues séparément"
+      - "Il klaxonne"
+      - "Il tourne le volant à la place du conducteur"
+    answer: 1
+    explanation: >
+      L'ESP freine une roue précise, ou plusieurs, pour faire pivoter la voiture dans le
+      bon sens.
+  - question: "Quel capteur indique à l'ESP où le conducteur veut aller ?"
+    options:
+      - "Le capteur de pluie"
+      - "Le capteur d'angle du volant"
+      - "Le capteur de niveau d'essence"
+    answer: 2
+    explanation: >
+      Le capteur d'angle du volant montre la direction voulue. Les autres capteurs
+      mesurent ce que fait vraiment la voiture.
+  - question: "Quelle roue l'ESP freine-t-il quand l'arrière de la voiture glisse vers l'extérieur ?"
+    options:
+      - "La roue arrière intérieure"
+      - "Aucune roue"
+      - "La roue avant extérieure"
+    answer: 3
+    explanation: >
+      Quand l'arrière glisse, c'est le survirage. L'ESP freine la roue avant extérieure
+      pour éviter le tête-à-queue.
+  - question: "Depuis quand l'ESP est-il obligatoire sur toutes les voitures neuves immatriculées dans l'Union européenne ?"
+    options:
+      - "Depuis novembre 2014"
+      - "Depuis 1995"
+      - "Depuis 1970"
+    answer: 1
+    explanation: >
+      L'Union européenne l'impose sur tous les nouveaux modèles depuis novembre 2011, et
+      sur toutes les voitures neuves depuis novembre 2014.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'ESP compare sans arrêt la direction voulue par le conducteur et la direction réelle de la voiture. S'il voit que la voiture dérape, il freine une seule roue pour la remettre dans le bon axe. Il est obligatoire sur toutes les voitures neuves de l'Union européenne depuis 2014.
+
+## Quand la voiture n'obéit plus au volant
+
+Dans un virage pris trop vite, ou sur une route mouillée, une voiture peut glisser. Elle ne va plus là où le conducteur tourne le volant. Deux cas existent.
+
+- Le sous-virage. Les roues avant glissent. La voiture a tendance à continuer tout droit au lieu de suivre le virage.
+- Le survirage. Les roues arrière glissent. L'arrière part vers l'extérieur et la voiture risque le tête-à-queue.
+
+L'ESP, ou correcteur électronique de trajectoire, sert à éviter ces pertes de contrôle.
+
+## Des capteurs qui surveillent tout
+
+L'ESP utilise plusieurs capteurs.
+
+- Un capteur d'angle du volant indique où le conducteur veut aller.
+- Des capteurs mesurent la vitesse de chaque roue.
+- Un capteur de lacet mesure si la voiture tourne sur elle-même, comme une toupie.
+- Un capteur mesure la force qui pousse la voiture sur le côté.
+
+Un petit ordinateur compare ces informations plusieurs fois par seconde. Il vérifie si la trajectoire réelle correspond à celle que veut le conducteur.
+
+## Freiner une seule roue
+
+Si la voiture dérape, l'ESP agit sur les freins d'une roue précise. Freiner une seule roue fait pivoter la voiture, un peu comme une rame qui freine d'un côté fait tourner un canoë.
+
+En cas de survirage, l'ESP freine la roue avant extérieure au virage. En cas de sous-virage, il freine la roue arrière intérieure. Il peut aussi réduire la puissance du moteur si le conducteur accélère encore.
+
+L'ESP utilise les mêmes pièces que l'ABS, qui empêche les roues de se bloquer au freinage. Il ne permet pas de rouler plus vite dans les virages. Il aide seulement à garder le contrôle.
+
+## Une invention qui sauve des vies
+
+L'équipementier allemand Bosch a développé l'ESP avec Mercedes-Benz. Il est apparu sur une voiture de série en 1995. En 1997, une petite Mercedes Classe A s'est renversée lors d'un test d'évitement en Suède. Mercedes a alors installé l'ESP de série sur ce modèle, et le système s'est répandu.
+
+Une étude américaine de 2006 estime que l'ESP réduit de 43 % le risque d'accident mortel. L'Union européenne l'impose sur toutes les voitures neuves immatriculées depuis le 1er novembre 2014.
+
+## À retenir
+
+- L'ESP compare la direction voulue par le conducteur et la direction réelle de la voiture.
+- Il utilise des capteurs d'angle du volant, de vitesse des roues et de rotation de la voiture.
+- Pour corriger un dérapage, il freine une seule roue, ce qui fait pivoter la voiture dans le bon sens.
+- L'ESP est apparu en 1995, développé par Bosch et Mercedes-Benz.
+- Il est obligatoire sur toutes les voitures neuves de l'Union européenne depuis novembre 2014.
 
 ---
 type: article
@@ -8398,18 +8741,99 @@ status: planned
 
 ---
 type: article
-title: Les zones de deformation programmee
-slug: les-zones-de-deformation-programmee
+title: Pourquoi l'avant d'une voiture est-il fait pour s'écraser ?
+slug: pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser
 categoryPath: automobile/securite-et-conduite/securite-passive
 summary: >
-  Comment une carrosserie concue pour se plier absorbe l'energie d'un choc.
-tags: [securite-passive, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'avant et l'arrière d'une voiture sont conçus pour se plier lors d'un choc. En s'écrasant,
+  ils absorbent une partie de l'énergie et ralentissent les passagers moins brutalement.
+  L'habitacle, lui, reste rigide pour protéger les occupants.
+tags: [securite-passive]
+sources:
+  - title: "Zone de déformation"
+    url: "https://fr.wikipedia.org/wiki/Zone_de_d%C3%A9formation"
+    publisher: "Wikipédia"
+  - title: "Crumple zone"
+    url: "https://en.wikipedia.org/wiki/Crumple_zone"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi est-il utile que l'avant de la voiture s'écrase lors d'un choc ?"
+    options:
+      - "Pour que la réparation coûte moins cher"
+      - "Pour allonger le temps de freinage des passagers"
+      - "Pour rendre la voiture plus légère"
+    answer: 2
+    explanation: >
+      En se pliant, l'avant fait durer le choc un peu plus longtemps. Les passagers sont
+      donc ralentis moins brutalement.
+  - question: "Comment appelle-t-on l'habitacle rigide qui doit rester intact ?"
+    options:
+      - "La cellule de survie"
+      - "La zone de froissement"
+      - "Le pare-chocs"
+    answer: 1
+    explanation: >
+      L'habitacle est conçu comme une cellule de survie. Il ne doit presque pas se
+      déformer pour protéger les occupants.
+  - question: "Qui a inventé et breveté le principe des zones de déformation ?"
+    options:
+      - "Nils Bohlin"
+      - "Henry Ford"
+      - "Béla Barényi"
+    answer: 3
+    explanation: >
+      L'ingénieur autrichien Béla Barényi a inventé ce principe en 1937 et l'a breveté
+      chez Mercedes-Benz en 1952.
+  - question: "Quelle partie de la voiture reçoit le plus souvent le choc, d'après une étude britannique ?"
+    options:
+      - "L'avant"
+      - "Le toit"
+      - "Le côté gauche"
+    answer: 1
+    explanation: >
+      Dans cette étude, 65 % des chocs touchaient l'avant de la voiture, contre 25 %
+      l'arrière.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'avant et l'arrière d'une voiture sont conçus pour se plier lors d'un choc. En s'écrasant, ils absorbent une partie de l'énergie et ralentissent les passagers moins brutalement. L'habitacle, lui, reste rigide pour protéger les occupants.
+
+## Une idée qui surprend
+
+On pourrait croire qu'une voiture solide est une voiture qui ne se déforme jamais. C'est faux. Une voiture moderne est conçue pour que son avant et son arrière s'écrasent lors d'un choc. Ces parties s'appellent les zones de déformation programmée. On dit aussi zones de froissement.
+
+## Freiner les passagers en douceur
+
+Quand une voiture roule, les passagers avancent avec elle. Si elle s'arrête d'un coup contre un mur, leur corps continue d'avancer. C'est l'inertie.
+
+Si la voiture était entièrement rigide, elle s'arrêterait presque instantanément. Les passagers subiraient alors une force énorme. En se pliant, l'avant de la voiture fait durer le choc un tout petit peu plus longtemps. Or plus un arrêt dure longtemps, plus la force subie par le corps est faible. C'est comme sauter sur un tapis épais au lieu du carrelage.
+
+La déformation absorbe aussi une partie de l'énergie du choc. Cette énergie sert à tordre le métal au lieu de frapper les passagers.
+
+## Mou dehors, dur dedans
+
+Les zones qui doivent s'écraser sont faites dans un acier moins résistant. Certaines poutres ont des nervures qui les aident à se replier comme un accordéon.
+
+Au centre, l'habitacle est construit tout autrement. Il est fait d'aciers très résistants et de nombreux renforts. On l'appelle la cellule de survie. Il ne doit presque pas se déformer, pour que rien n'écrase les passagers.
+
+La ceinture de sécurité et l'airbag complètent ce système. Ils retiennent les passagers et allongent encore un peu leur temps de freinage.
+
+## Une invention des années 1930
+
+L'ingénieur autrichien Béla Barényi a inventé ce principe en 1937. Il l'a breveté sous une forme plus complète en 1952, chez Mercedes-Benz. Il a divisé la voiture en trois parties : une zone déformable à l'avant, une à l'arrière, et un habitacle rigide au milieu. La première carrosserie construite selon ce brevet est celle de la Mercedes W111, en 1959.
+
+Une étude britannique sur les dégâts des voitures accidentées a compté 65 % de chocs à l'avant et 25 % à l'arrière. C'est pourquoi les principales zones de déformation se trouvent à ces deux endroits. Volvo a ajouté une protection contre les chocs latéraux au début des années 1990.
+
+## À retenir
+
+- L'avant et l'arrière d'une voiture sont conçus pour s'écraser et absorber l'énergie d'un choc.
+- En se pliant, ils font durer le choc plus longtemps, donc les passagers sont ralentis moins brutalement.
+- L'habitacle, appelé cellule de survie, est très rigide pour ne pas écraser les occupants.
+- Béla Barényi a inventé ce principe en 1937 et l'a breveté chez Mercedes-Benz en 1952.
+- Selon une étude britannique, 65 % des chocs touchent l'avant de la voiture.
 
 ---
 type: article
@@ -8428,18 +8852,102 @@ status: planned
 
 ---
 type: article
-title: La ceinture de securite et son histoire
-slug: la-ceinture-de-securite-et-son-histoire
+title: Comment une ceinture de sécurité se bloque-t-elle d'un coup ?
+slug: comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup
 categoryPath: automobile/securite-et-conduite/securite-passive
 summary: >
-  Une invention simple qui a sauve plus de vies que toute autre technologie automobile.
-tags: [securite-passive, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La ceinture se déroule doucement quand on la tire lentement. En cas de choc ou de freinage
+  brutal, un mécanisme à inertie bloque l'enrouleur en une fraction de seconde. La ceinture
+  trois points moderne a été inventée par Nils Bohlin pour Volvo en 1959.
+tags: [securite-passive]
+sources:
+  - title: "Ceinture de sécurité"
+    url: "https://fr.wikipedia.org/wiki/Ceinture_de_s%C3%A9curit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Seat belt"
+    url: "https://en.wikipedia.org/wiki/Seat_belt"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il si on tire très vite sur une ceinture de sécurité ?"
+    options:
+      - "Elle se casse"
+      - "Elle se bloque"
+      - "Elle se détache"
+    answer: 2
+    explanation: >
+      Un mécanisme à inertie détecte le déroulement trop rapide. Un cliquet bloque alors
+      l'enrouleur.
+  - question: "Qui a mis au point la ceinture trois points moderne ?"
+    options:
+      - "Nils Bohlin, pour Volvo"
+      - "Henry Ford"
+      - "Rudolf Diesel"
+    answer: 1
+    explanation: >
+      L'ingénieur suédois Nils Bohlin a breveté la ceinture trois points pour Volvo en
+      1959.
+  - question: "Qu'a fait Volvo de son brevet sur la ceinture trois points ?"
+    options:
+      - "Il l'a vendu très cher"
+      - "Il l'a gardé secret"
+      - "Il l'a laissé libre pour tous les constructeurs"
+    answer: 3
+    explanation: >
+      Volvo a laissé son brevet libre de droits pour que tous les constructeurs puissent
+      installer cette ceinture.
+  - question: "Depuis quand le port de la ceinture est-il obligatoire à l'arrière en France ?"
+    options:
+      - "Depuis 1959"
+      - "Depuis 1973"
+      - "Depuis 1990"
+    answer: 3
+    explanation: >
+      En France, la ceinture est devenue obligatoire hors agglomération en 1973, en ville
+      en 1979 et à l'arrière en 1990.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La ceinture se déroule doucement quand on la tire lentement. En cas de choc ou de freinage brutal, un mécanisme à inertie bloque l'enrouleur en une fraction de seconde. La ceinture trois points moderne a été inventée par Nils Bohlin pour Volvo en 1959.
+
+## Pourquoi s'attacher
+
+Quand une voiture s'arrête brutalement, le corps des passagers continue d'avancer. C'est l'inertie. Sans ceinture, ils peuvent heurter le volant, le pare-brise ou les sièges avant. Ils peuvent même être éjectés.
+
+La ceinture retient le corps sur les parties les plus solides du squelette : le bassin, la poitrine et l'épaule. D'après l'Organisation mondiale de la santé, elle réduit le risque de mourir dans un accident de 40 à 65 % pour les passagers avant.
+
+## Le secret de l'enrouleur
+
+La ceinture est enroulée dans un petit boîtier, souvent caché sous le siège ou dans la carrosserie. Un ressort léger la tire pour qu'elle reste plaquée contre le corps. On peut la dérouler lentement pour bouger ou l'attacher.
+
+Le boîtier contient aussi un système à inertie et un cliquet, une petite pièce qui s'accroche dans des dents. Deux choses peuvent bloquer l'enrouleur.
+
+- Si la sangle se déroule trop vite, un mécanisme sensible à la vitesse l'arrête.
+- Si la voiture ralentit très fort ou se renverse, une petite masse en forme de pendule bascule.
+
+Dans les deux cas, le cliquet s'enclenche dans une roue crantée. La ceinture ne peut plus se dérouler.
+
+Beaucoup de voitures ont aussi un prétensionneur. Lors d'un choc, une petite charge de gaz tend la ceinture presque instantanément pour supprimer le jeu. Mercedes-Benz l'a introduit en 1981.
+
+## Une invention offerte à tous
+
+Les premières ceintures étaient de simples sangles autour du ventre. En 1959, l'ingénieur suédois Nils Bohlin a breveté pour Volvo la ceinture trois points. Elle combine une sangle sur le bassin et une sangle en diagonale sur la poitrine. Volvo l'a installée de série la même année. L'entreprise a laissé son brevet libre, pour que tous les constructeurs puissent l'utiliser gratuitement.
+
+En 1975, l'ingénieur René Pouget a breveté pour PSA une ceinture à enrouleur à cliquet. Avant, il fallait régler la ceinture à la main.
+
+## Une obligation progressive en France
+
+En France, le port de la ceinture est devenu obligatoire hors agglomération en juillet 1973. La règle a été étendue aux villes en 1979. Depuis janvier 1990, les passagers arrière doivent aussi s'attacher.
+
+## À retenir
+
+- La ceinture retient le corps sur le bassin, la poitrine et l'épaule lors d'un arrêt brutal.
+- Un mécanisme à inertie bloque l'enrouleur si la sangle se déroule trop vite ou si la voiture freine fort.
+- Nils Bohlin a inventé la ceinture trois points pour Volvo en 1959, et Volvo a laissé son brevet libre.
+- Un prétensionneur tend la ceinture en une fraction de seconde lors d'un choc.
+- En France, la ceinture est obligatoire hors agglomération depuis 1973, en ville depuis 1979 et à l'arrière depuis 1990.
 
 ---
 type: article
@@ -11488,18 +11996,106 @@ status: planned
 
 ---
 type: article
-title: L'hybridation legere (mild hybrid) et son principe simplifie
-slug: l-hybridation-legere-mild-hybrid-et-son-principe-simplifie
+title: Comment une voiture hybride légère aide-t-elle son moteur à essence ?
+slug: comment-une-voiture-hybride-legere-aide-t-elle-son-moteur-a-essence
 categoryPath: automobile/motorisations/motorisations-hybrides
 summary: >
-  Une assistance electrique limitee qui reduit la consommation sans transformer le moteur.
-tags: [motorisations-hybrides, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une voiture hybride légère possède un petit moteur électrique et une petite batterie,
+  souvent de 48 volts. Ils aident le moteur à essence ou diesel à démarrer et à accélérer,
+  mais ne peuvent pas faire rouler la voiture seuls. Le gain de carburant est modeste, de 2 à
+  8 % environ.
+tags: [motorisations-hybrides]
+sources:
+  - title: "Hybridation légère"
+    url: "https://fr.wikipedia.org/wiki/Hybridation_l%C3%A9g%C3%A8re"
+    publisher: "Wikipédia"
+  - title: "Mild hybrid"
+    url: "https://en.wikipedia.org/wiki/Mild_hybrid"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Une voiture hybride légère peut-elle rouler uniquement à l'électricité ?"
+    options:
+      - "Oui, sur 100 km"
+      - "Non, son moteur électrique aide seulement le moteur thermique"
+      - "Oui, mais seulement sur l'autoroute"
+    answer: 2
+    explanation: >
+      Son moteur électrique est trop petit. Il assiste le moteur thermique mais ne peut
+      pas faire rouler la voiture seul.
+  - question: "Quel est le rôle de l'alterno-démarreur ?"
+    options:
+      - "Il démarre le moteur et produit de l'électricité"
+      - "Il gonfle les pneus"
+      - "Il refroidit la batterie"
+    answer: 1
+    explanation: >
+      Cette machine électrique remplace à la fois le démarreur et l'alternateur. Elle peut
+      tourner comme moteur ou comme générateur.
+  - question: "Quelle est la tension typique de la batterie d'une hybride légère moderne ?"
+    options:
+      - "400 volts"
+      - "1,5 volt"
+      - "48 volts"
+    answer: 3
+    explanation: >
+      Les hybrides légères modernes utilisent souvent une batterie lithium-ion de 48
+      volts.
+  - question: "Où l'hybridation légère fait-elle économiser le plus de carburant ?"
+    options:
+      - "Sur un long trajet d'autoroute"
+      - "En ville, avec beaucoup d'arrêts et de redémarrages"
+      - "En montagne, en descente seulement"
+    answer: 2
+    explanation: >
+      Le gain est le plus net en ville, où la voiture s'arrête et redémarre souvent.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une voiture hybride légère possède un petit moteur électrique et une petite batterie, souvent de 48 volts. Ils aident le moteur à essence ou diesel à démarrer et à accélérer, mais ne peuvent pas faire rouler la voiture seuls. Le gain de carburant est modeste, de 2 à 8 % environ.
+
+## Un petit coup de main électrique
+
+Une voiture hybride légère, ou « mild hybrid » en anglais, a deux sources d'énergie. La principale est un moteur à essence ou diesel. La seconde est un petit moteur électrique relié à une petite batterie.
+
+Contrairement à une hybride classique, ce moteur électrique est trop faible pour faire rouler la voiture seul. Il sert d'assistant. On parle aussi d'hybride à assistance électrique.
+
+## Une seule machine pour deux rôles
+
+Dans une voiture ordinaire, deux machines électriques sont reliées au moteur. Le démarreur le lance au démarrage. L'alternateur produit l'électricité qui recharge la batterie.
+
+L'hybride légère les remplace par une seule machine, appelée alterno-démarreur. Elle est souvent reliée au moteur par une courroie. Elle peut tourner dans les deux sens de fonctionnement.
+
+- Comme moteur, elle démarre le moteur thermique et l'aide à accélérer.
+- Comme générateur, elle produit de l'électricité et recharge la batterie.
+
+La batterie est en général une batterie lithium-ion de 48 volts. Elle est bien plus petite et légère que celle d'une voiture électrique.
+
+## Couper le moteur dès que possible
+
+L'hybride légère économise du carburant de trois façons.
+
+- Quand la voiture freine ou ralentit, l'alterno-démarreur récupère une partie de l'énergie du mouvement pour recharger la batterie. Sans lui, cette énergie partirait en chaleur dans les freins.
+- Quand la voiture s'arrête à un feu, ou roule en roue libre, le moteur thermique se coupe. Il redémarre en douceur dès qu'on en a besoin. Pendant ce temps, la batterie continue d'alimenter la climatisation et les autres appareils.
+- Quand la voiture démarre ou accélère, le moteur électrique donne un petit coup de pouce. Le moteur thermique force moins.
+
+Ces trois gestes servent surtout en ville, où l'on s'arrête et redémarre sans cesse.
+
+## Un gain modeste
+
+L'hybridation légère coûte moins cher qu'un système hybride complet. Elle prend peu de place dans la voiture. Mais le gain reste limité. Selon les modèles, elle réduit la consommation de carburant d'environ 2 à 8 %.
+
+Certains journalistes critiquent le mot « hybride » pour ces voitures. Elles ne roulent jamais à l'électricité seule. Leur baisse de pollution est faible, et la présenter comme un grand progrès pour l'environnement peut tromper les acheteurs.
+
+## À retenir
+
+- Une hybride légère a un petit moteur électrique qui aide le moteur thermique sans jamais faire rouler la voiture seul.
+- Une seule machine, l'alterno-démarreur, démarre le moteur et produit de l'électricité.
+- Sa batterie est souvent une batterie lithium-ion de 48 volts.
+- Elle récupère de l'énergie au freinage et coupe le moteur à l'arrêt.
+- Elle réduit la consommation d'environ 2 à 8 %, surtout en ville.
 
 ---
 type: article
@@ -12463,18 +13059,103 @@ status: planned
 
 ---
 type: article
-title: Le freinage d'urgence automatique et ses capteurs associes
-slug: le-freinage-d-urgence-automatique-et-ses-capteurs-associes
+title: Comment une voiture peut-elle freiner toute seule devant un obstacle ?
+slug: comment-une-voiture-peut-elle-freiner-toute-seule-devant-un-obstacle
 categoryPath: automobile/securite-et-conduite/aides-a-la-conduite
 summary: >
-  Un systeme capable de declencher un freinage avant meme la reaction du conducteur.
-tags: [aides-a-la-conduite, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le freinage d'urgence automatique surveille la route avec un radar et une caméra. S'il
+  détecte un choc proche, il prévient d'abord le conducteur. Si personne ne réagit, il freine
+  lui-même pour éviter l'accident ou réduire sa violence.
+tags: [aides-a-la-conduite]
+sources:
+  - title: "Freinage automatique d'urgence"
+    url: "https://fr.wikipedia.org/wiki/Freinage_automatique_d%27urgence"
+    publisher: "Wikipédia"
+  - title: "Collision avoidance system"
+    url: "https://en.wikipedia.org/wiki/Collision_avoidance_system"
+    publisher: "Wikipedia"
+  - title: "Assistance au freinage d'urgence"
+    url: "https://fr.wikipedia.org/wiki/Assistance_au_freinage_d%27urgence"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel capteur, qui fonctionne par tous les temps, utilise souvent le freinage d'urgence automatique ?"
+    options:
+      - "Un thermomètre"
+      - "Un radar"
+      - "Un micro"
+    answer: 2
+    explanation: >
+      Le radar envoie des ondes et mesure leur écho. Il fonctionne même sous la pluie ou
+      dans le brouillard.
+  - question: "Que fait le système avant de freiner tout seul ?"
+    options:
+      - "Il éteint le moteur"
+      - "Il ouvre les fenêtres"
+      - "Il avertit le conducteur par un signal"
+    answer: 3
+    explanation: >
+      Le système prévient d'abord le conducteur par un son ou un voyant. Il ne freine seul
+      que si personne ne réagit.
+  - question: "Quel constructeur a lancé en 2003 le premier freinage automatique d'urgence à radar ?"
+    options:
+      - "Honda"
+      - "Ford"
+      - "Citroën"
+    answer: 1
+    explanation: >
+      Honda a lancé ce système en 2003 sur son modèle Inspire.
+  - question: "Depuis quand toutes les voitures neuves vendues dans l'Union européenne doivent-elles en être équipées ?"
+    options:
+      - "Depuis 1990"
+      - "Depuis juillet 2024"
+      - "Depuis 2040"
+    answer: 2
+    explanation: >
+      Le règlement européen 2019/2144 l'impose aux nouveaux modèles depuis juillet 2022 et
+      à toutes les voitures neuves depuis juillet 2024.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le freinage d'urgence automatique surveille la route avec un radar et une caméra. S'il détecte un choc proche, il prévient d'abord le conducteur. Si personne ne réagit, il freine lui-même pour éviter l'accident ou réduire sa violence.
+
+## Un copilote qui regarde devant
+
+Un conducteur distrait peut ne pas voir qu'une voiture freine devant lui. Le freinage d'urgence automatique est fait pour ces situations. Il détecte un choc proche avec un véhicule, un piéton ou un autre obstacle. Il freine alors la voiture tout seul. On l'appelle aussi AEB, de l'anglais « automatic emergency braking ».
+
+## Des yeux électroniques
+
+Le système utilise des capteurs placés à l'avant de la voiture.
+
+- Le radar, souvent caché derrière la calandre, envoie des ondes radio. Il mesure leur écho pour connaître la distance et la vitesse des objets. Il fonctionne par tous les temps.
+- La caméra, souvent placée en haut du pare-brise, reconnaît les formes, comme une voiture ou un piéton.
+- Certains modèles utilisent aussi un lidar, un capteur qui mesure les distances avec de la lumière laser.
+
+Un ordinateur calcule en permanence le temps qui reste avant un choc si rien ne change.
+
+## Prévenir puis freiner
+
+Le système agit par étapes. D'abord, il avertit le conducteur par un son ou un voyant. Certaines voitures tendent aussi un peu la ceinture de sécurité pour attirer l'attention. Si le conducteur ne réagit pas, le système commence à freiner. Si le choc devient presque inévitable, il freine à fond.
+
+Il ne faut pas le confondre avec l'assistance au freinage d'urgence. Celle-ci aide seulement le conducteur qui appuie sur la pédale, en augmentant la force de freinage. Le freinage d'urgence automatique, lui, peut freiner sans que personne ne touche la pédale.
+
+Ces systèmes ont des limites. Le freinage seul permet surtout d'éviter un choc à vitesse modérée. Les règles de l'ONU prévoient un fonctionnement jusqu'à 60 km/h. Le conducteur doit toujours rester attentif.
+
+## De l'option à l'obligation
+
+Honda a lancé en 2003 le premier système de freinage autonome d'urgence à radar, sur son modèle Inspire. Volvo l'a monté de série sur son XC60 en 2008.
+
+Dans l'Union européenne, le règlement 2019/2144 l'a rendu obligatoire en deux étapes. Il l'est depuis le 6 juillet 2022 pour les nouveaux modèles. Il l'est depuis le 7 juillet 2024 pour toutes les voitures neuves. Le Japon l'impose depuis 2020.
+
+## À retenir
+
+- Le freinage d'urgence automatique freine tout seul quand il détecte un choc proche.
+- Il utilise un radar, une caméra et parfois un lidar pour surveiller la route devant la voiture.
+- Il avertit d'abord le conducteur, puis freine si celui-ci ne réagit pas.
+- Honda a lancé le premier système de ce type en 2003.
+- Il est obligatoire sur toutes les voitures neuves de l'Union européenne depuis juillet 2024.
 
 ---
 type: article
@@ -14053,18 +14734,106 @@ status: planned
 
 ---
 type: article
-title: Le remplacement des plaquettes et disques de frein
-slug: le-remplacement-des-plaquettes-et-disques-de-frein
+title: Comment les freins à disque arrêtent-ils une voiture ?
+slug: comment-les-freins-a-disque-arretent-ils-une-voiture
 categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
 summary: >
-  Une piece d'usure critique dont le controle regulier conditionne directement la securite.
-tags: [entretien-et-cycle-de-vie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un frein à disque serre un disque de métal qui tourne avec la roue entre deux plaquettes. Le
+  frottement transforme l'énergie du mouvement en chaleur, et la voiture ralentit. Les
+  plaquettes s'usent à chaque freinage et doivent être changées régulièrement.
+tags: [entretien-et-cycle-de-vie]
+sources:
+  - title: "Frein à disque"
+    url: "https://fr.wikipedia.org/wiki/Frein_%C3%A0_disque"
+    publisher: "Wikipédia"
+  - title: "Plaquette de frein"
+    url: "https://fr.wikipedia.org/wiki/Plaquette_de_frein"
+    publisher: "Wikipédia"
+  - title: "Brake pad"
+    url: "https://en.wikipedia.org/wiki/Brake_pad"
+    publisher: "Wikipedia"
+quiz:
+  - question: "En quoi le frottement des plaquettes transforme-t-il l'énergie du mouvement ?"
+    options:
+      - "En lumière"
+      - "En électricité"
+      - "En chaleur"
+    answer: 3
+    explanation: >
+      Le frottement des plaquettes sur le disque transforme l'énergie du mouvement en
+      chaleur, qui part dans l'air.
+  - question: "Qu'est-ce qui pousse les plaquettes contre le disque dans une voiture ?"
+    options:
+      - "Un ressort tendu à la main"
+      - "Un piston poussé par un liquide sous pression"
+      - "Un aimant"
+    answer: 2
+    explanation: >
+      La pédale envoie un liquide sous pression vers l'étrier. Ce liquide pousse un piston
+      qui serre les plaquettes.
+  - question: "Quelle voiture a été la première à avoir des freins à disque à l'avant de série ?"
+    options:
+      - "La Citroën DS, en 1955"
+      - "La Ford T, en 1908"
+      - "La Renault Twingo, en 2014"
+    answer: 1
+    explanation: >
+      La Citroën DS de 1955 a été la première voiture à avoir des freins à disque avant de
+      série.
+  - question: "Pourquoi certaines plaquettes font-elles un bruit aigu quand elles sont usées ?"
+    options:
+      - "Parce que le disque est trop froid"
+      - "Parce qu'une languette de métal touche le disque"
+      - "Parce que la roue est dégonflée"
+    answer: 2
+    explanation: >
+      Certaines plaquettes ont une petite languette de métal. Quand la plaquette est usée,
+      la languette frotte le disque et produit un sifflement.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un frein à disque serre un disque de métal qui tourne avec la roue entre deux plaquettes. Le frottement transforme l'énergie du mouvement en chaleur, et la voiture ralentit. Les plaquettes s'usent à chaque freinage et doivent être changées régulièrement.
+
+## Pincer pour ralentir
+
+Pour arrêter un vélo, on serre la jante de la roue entre deux patins en caoutchouc. Le frein à disque d'une voiture fonctionne sur le même principe.
+
+Un disque de métal est fixé à la roue et tourne avec elle. De chaque côté du disque se trouve une plaquette, un bloc fait d'un matériau qui frotte bien. Les plaquettes sont tenues par une pièce en forme de pince, l'étrier, fixée à la voiture.
+
+## De la pédale à la roue
+
+Quand le conducteur appuie sur la pédale de frein, il pousse un liquide spécial, le liquide de frein, dans des tuyaux. Ce liquide sous pression arrive dans l'étrier. Il pousse un ou plusieurs pistons, qui serrent les plaquettes contre le disque.
+
+Le frottement freine le disque, donc la roue. Il transforme l'énergie du mouvement de la voiture en chaleur. Le disque peut devenir très chaud. Certains disques ont des trous ou des rainures pour mieux évacuer cette chaleur dans l'air.
+
+Les disques sont le plus souvent en fonte, un métal peu cher et efficace. Les voitures de course utilisent parfois du carbone ou de la céramique, plus légers mais beaucoup plus chers.
+
+## Des pièces qui s'usent
+
+À chaque freinage, les plaquettes perdent un peu de matière. Elles sont faites dans un matériau plus tendre que le disque. Ainsi, ce sont surtout elles qui s'usent, et elles sont faciles à remplacer. Le disque s'use aussi, mais plus lentement.
+
+Les plaquettes ont souvent un témoin d'usure.
+
+- Une petite rainure au centre disparaît quand la plaquette est usée.
+- Sur certaines plaquettes, une languette de métal touche le disque et fait un bruit aigu.
+- Sur d'autres, un contact électrique allume un voyant sur le tableau de bord.
+
+L'usure des freins rejette aussi de fines poussières dans l'air. Ces particules polluent, même dans une voiture électrique.
+
+## Une longue histoire
+
+L'ingénieur anglais Frederick Lanchester a breveté un frein à disque pour automobile en 1902. Ses plaquettes en cuivre s'usaient trop vite sur les routes poussiéreuses de l'époque. Jaguar a perfectionné le frein à disque dans les années 1950, pour la course. La Citroën DS a été en 1955 la première voiture de série avec des freins à disque à l'avant. Aujourd'hui, toutes les voitures en ont à l'avant. Certaines petites voitures gardent des freins à tambour à l'arrière.
+
+## À retenir
+
+- Un frein à disque serre un disque qui tourne avec la roue entre deux plaquettes.
+- La pédale pousse un liquide sous pression qui actionne les pistons de l'étrier.
+- Le frottement transforme l'énergie du mouvement en chaleur.
+- Les plaquettes, plus tendres que le disque, s'usent en premier et ont souvent un témoin d'usure.
+- La Citroën DS a été en 1955 la première voiture de série avec des freins à disque à l'avant.
 
 ---
 type: article
@@ -15103,18 +15872,99 @@ status: planned
 
 ---
 type: article
-title: Le turbocompresseur, comment il augmente la puissance d'un moteur
-slug: le-turbocompresseur-comment-il-augmente-la-puissance-d-un-moteur
+title: Comment un turbocompresseur rend-il un moteur plus puissant ?
+slug: comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : le turbocompresseur, comment il augmente la puissance d'un moteur.
+  Un turbocompresseur utilise les gaz d'échappement pour faire tourner une petite roue à
+  ailettes. Cette roue en entraîne une autre qui pousse plus d'air dans le moteur. Avec plus
+  d'air, le moteur peut brûler plus de carburant et devenir plus puissant.
 tags: [thermique, veille-2026-09]
-priority: 0.88
-essentiel: false
-status: planned
+sources:
+  - title: "Turbocompresseur"
+    url: "https://fr.wikipedia.org/wiki/Turbocompresseur"
+    publisher: "Wikipédia"
+  - title: "Turbocharger"
+    url: "https://en.wikipedia.org/wiki/Turbocharger"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui fait tourner la turbine d'un turbocompresseur ?"
+    options:
+      - "Une courroie reliée aux roues"
+      - "Les gaz d'échappement du moteur"
+      - "Une petite batterie"
+    answer: 2
+    explanation: >
+      La turbine est placée dans le flux des gaz d'échappement. Ces gaz chauds et rapides
+      la font tourner sans prendre de force au moteur.
+  - question: "Pourquoi refroidit-on l'air avant qu'il entre dans le moteur ?"
+    options:
+      - "Un air froid contient plus d'oxygène pour le même volume"
+      - "Pour éviter que le conducteur ait chaud"
+      - "Pour économiser l'huile"
+    answer: 1
+    explanation: >
+      La compression chauffe l'air. Un air chaud est moins dense, donc il contient moins
+      d'oxygène. L'échangeur, appelé intercooler, le refroidit.
+  - question: "Comment appelle-t-on le petit retard du turbo quand on accélère d'un coup ?"
+    options:
+      - "Le cliquetis"
+      - "Le freinage moteur"
+      - "Le temps de réponse, ou lag"
+    answer: 3
+    explanation: >
+      La turbine a besoin d'un instant pour prendre de la vitesse. Ce délai s'appelle le
+      temps de réponse, ou lag en anglais.
+  - question: "En quelle année l'ingénieur suisse Alfred Büchi a-t-il obtenu son brevet sur le turbocompresseur ?"
+    options:
+      - "1962"
+      - "1905"
+      - "1989"
+    answer: 2
+    explanation: >
+      Alfred Büchi a obtenu son brevet en novembre 1905. Les premières voitures de série à
+      turbo sont arrivées en 1962.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un turbocompresseur utilise les gaz d'échappement pour faire tourner une petite roue à ailettes. Cette roue en entraîne une autre qui pousse plus d'air dans le moteur. Avec plus d'air, le moteur peut brûler plus de carburant et devenir plus puissant.
+
+## Un moteur qui a besoin d'air
+
+Un moteur de voiture brûle un mélange d'air et de carburant dans ses cylindres. Pour brûler du carburant, il faut de l'oxygène, qui vient de l'air. Normalement, le moteur aspire l'air tout seul quand ses pistons descendent. Il ne peut donc pas en avaler plus que le volume de ses cylindres.
+
+Le turbocompresseur, souvent appelé « turbo », règle ce problème. Il pousse de l'air sous pression dans les cylindres. Avec plus d'air, le moteur peut brûler plus de carburant à chaque tour. Il devient plus puissant sans être plus gros.
+
+## Deux roues sur le même axe
+
+Le turbo contient deux roues à ailettes reliées par un même axe. La première, la turbine, est placée dans le tuyau d'échappement. Les gaz chauds qui sortent du moteur la font tourner très vite, jusqu'à 250 000 tours par minute pour certains modèles.
+
+La deuxième roue, le compresseur, est placée dans le conduit qui amène l'air au moteur. Elle tourne avec la turbine. Elle aspire l'air extérieur, le comprime et l'envoie dans les cylindres. Le turbo récupère ainsi l'énergie des gaz d'échappement, qui serait sinon perdue.
+
+Comprimer l'air le chauffe. Or un air chaud contient moins d'oxygène qu'un air froid pour le même volume. Beaucoup de moteurs ont donc un échangeur, appelé intercooler, qui refroidit l'air avant son entrée dans le moteur.
+
+## Des limites à surveiller
+
+Le turbo ne réagit pas tout de suite. Quand le conducteur accélère d'un coup, la turbine met un instant à prendre de la vitesse. Ce délai s'appelle le temps de réponse, ou « lag » en anglais. À bas régime, les gaz ne sont pas assez nombreux pour faire tourner la turbine.
+
+Une pression trop forte pourrait abîmer le moteur. Une soupape, appelée vanne de décharge, laisse alors une partie des gaz passer à côté de la turbine.
+
+## D'abord pour les avions
+
+L'ingénieur suisse Alfred Büchi a obtenu un brevet sur le turbocompresseur en novembre 1905. Les premiers turbos ont surtout servi aux avions. En altitude, l'air contient moins d'oxygène, et le turbo aidait les moteurs à garder leur puissance. Les premières voitures de série équipées d'un turbo sont sorties en 1962 aux États-Unis.
+
+Aujourd'hui, le turbo permet de construire des moteurs plus petits mais aussi puissants que de gros moteurs. Les constructeurs appellent cette méthode le « downsizing ». Elle sert à réduire la consommation de carburant et la pollution.
+
+## À retenir
+
+- Un turbocompresseur pousse de l'air sous pression dans les cylindres pour que le moteur brûle plus de carburant.
+- Sa turbine est entraînée par les gaz d'échappement et fait tourner un compresseur placé sur le même axe.
+- Un échangeur, l'intercooler, refroidit l'air comprimé, car un air froid contient plus d'oxygène.
+- Le turbo a un petit temps de réponse, appelé lag, quand on accélère d'un coup.
+- Alfred Büchi a breveté le turbo en 1905, et les premières voitures turbo de série datent de 1962.
 
 ---
 type: article

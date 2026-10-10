@@ -2855,18 +2855,101 @@ status: planned
 
 ---
 type: article
-title: Le paillage, proteger et nourrir le sol
-slug: le-paillage-proteger-et-nourrir-le-sol
+title: Comment une couche de paille protège-t-elle le sol d'un potager ?
+slug: comment-une-couche-de-paille-protege-t-elle-le-sol-d-un-potager
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
-  Une technique simple qui limite l'evaporation et enrichit progressivement la terre.
-tags: [agriculture-durable, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le paillage consiste à couvrir le sol d'une couche de paille, de feuilles mortes ou d'autres
+  matériaux. Cette couverture garde l'humidité, empêche les mauvaises herbes de pousser et
+  protège la terre de la pluie et du soleil. En se décomposant, elle nourrit aussi la vie du
+  sol.
+tags: [agriculture-durable]
+sources:
+  - title: "Paillage"
+    url: "https://fr.wikipedia.org/wiki/Paillage"
+    publisher: "Wikipédia"
+  - title: "Mulch"
+    url: "https://en.wikipedia.org/wiki/Mulch"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi un sol paillé garde-t-il mieux son eau ?"
+    options:
+      - "La paille fabrique de l'eau"
+      - "La couche freine l'évaporation de l'eau du sol"
+      - "La paille attire la pluie"
+    answer: 2
+    explanation: >
+      Le paillis fait barrière entre le sol et l'air. L'eau du sol s'évapore moins vite.
+  - question: "Comment le paillis empêche-t-il les mauvaises herbes de pousser ?"
+    options:
+      - "Il prive leurs graines de la lumière dont elles ont besoin pour germer"
+      - "Il les empoisonne"
+      - "Il les fait geler"
+    answer: 1
+    explanation: >
+      Sous une couche épaisse, la lumière n'arrive plus. Beaucoup de graines de mauvaises
+      herbes ne germent pas.
+  - question: "Que devient un paillis de paille ou de feuilles avec le temps ?"
+    options:
+      - "Il se change en plastique"
+      - "Il durcit comme du béton"
+      - "Il se décompose et enrichit le sol"
+    answer: 3
+    explanation: >
+      Les paillis organiques se décomposent lentement. Ils apportent de la matière qui
+      nourrit le sol et ses habitants.
+  - question: "Quel inconvénient peut avoir un paillis de bois très riche en carbone ?"
+    options:
+      - "Il réduit pendant un temps l'azote disponible pour les plantes"
+      - "Il fait fondre la neige"
+      - "Il attire les poissons"
+    answer: 1
+    explanation: >
+      Certains bois se décomposent en consommant de l'azote. Les plantes en ont alors
+      moins à leur disposition pendant un temps.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le paillage consiste à couvrir le sol d'une couche de paille, de feuilles mortes ou d'autres matériaux. Cette couverture garde l'humidité, empêche les mauvaises herbes de pousser et protège la terre de la pluie et du soleil. En se décomposant, elle nourrit aussi la vie du sol.
+
+## Une couverture pour la terre
+
+Pailler, c'est poser une couche de matériau protecteur sur le sol, autour des plantes. Les jardiniers utilisent souvent de la paille. Mais on peut aussi employer des feuilles mortes, des copeaux de bois, des écorces, de l'herbe tondue, du compost ou du papier déchiqueté. Ce sont des paillis organiques : ils viennent d'êtres vivants et se décomposent avec le temps.
+
+Il existe aussi des paillis synthétiques, comme des films en plastique, parfois biodégradables. Dans les régions sèches, on utilise depuis longtemps des graviers. Et des plantes basses, semées exprès, peuvent servir de paillis vivant.
+
+## Garder l'eau et la fraîcheur
+
+Un sol nu, sous le soleil et le vent, perd vite son eau. Le paillis fait barrière entre le sol et l'air. L'eau s'évapore moins, et la terre reste humide plus longtemps. On arrose donc moins.
+
+La couverture adoucit aussi les écarts de température. Elle protège le sol de la chaleur forte. Au début de la saison, elle aide à garder la chaleur dans la terre.
+
+## Bloquer les mauvaises herbes
+
+Beaucoup de graines de mauvaises herbes ont besoin de lumière pour germer. Sous une couche assez épaisse de paillis, la lumière n'arrive plus. Ces graines ne poussent pas, et le jardinier désherbe moins.
+
+Pour bien fonctionner, un paillis organique doit être épais. On conseille au moins 5 centimètres, et souvent 10 à 15 centimètres.
+
+## Protéger et nourrir le sol
+
+La pluie qui tombe sur un sol nu peut emporter la terre, surtout dans une pente. C'est l'érosion. Le paillis amortit les gouttes et retient la terre.
+
+En se décomposant lentement, un paillis organique apporte de la matière au sol. Il améliore sa structure et le rend plus fertile. Il offre aussi un milieu favorable aux petits êtres vivants du sol, comme les micro-organismes.
+
+## Quelques précautions
+
+Une couche trop épaisse ou mal choisie peut pourrir au lieu de se décomposer doucement. Elle bloque alors l'eau et l'air. Certains bois très riches en carbone consomment de l'azote en se décomposant : les plantes en ont moins pendant un temps. L'écorce de pin peut rendre certains sols un peu plus acides. Et de l'herbe fraîchement tondue, posée en tas, peut chauffer et abîmer les plantes.
+
+## À retenir
+
+- Pailler, c'est couvrir le sol d'une couche de paille, de feuilles, de bois ou d'autres matériaux.
+- Le paillis freine l'évaporation : le sol reste humide plus longtemps.
+- Privées de lumière, beaucoup de graines de mauvaises herbes ne germent pas.
+- Le paillis protège le sol de l'érosion et, en se décomposant, l'enrichit.
+- Un paillis mal choisi ou trop épais peut pourrir ou priver un temps les plantes d'azote.
 
 ---
 type: article
@@ -3290,18 +3373,97 @@ status: planned
 
 ---
 type: article
-title: La domestication du mais en Amerique centrale
-slug: la-domestication-du-mais-en-amerique-centrale
+title: Comment une herbe sauvage du Mexique est-elle devenue le maïs ?
+slug: comment-une-herbe-sauvage-du-mexique-est-elle-devenue-le-mais
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Comment une plante sauvage a ete transformee en l'une des cereales les plus cultivees au monde.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le maïs descend d'une herbe sauvage du Mexique, la téosinte. Il y a environ 9 000 ans, des
+  paysans ont choisi et semé les plantes qui leur convenaient le mieux. Génération après
+  génération, la téosinte aux quelques grains durs est devenue le maïs aux gros épis.
+tags: [selection-vegetale]
+sources:
+  - title: "Maïs"
+    url: "https://fr.wikipedia.org/wiki/Ma%C3%AFs"
+    publisher: "Wikipédia"
+  - title: "Zea (plant)"
+    url: "https://en.wikipedia.org/wiki/Zea_(plant)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel est l'ancêtre sauvage du maïs ?"
+    options:
+      - "Le blé"
+      - "La téosinte"
+      - "Le riz"
+    answer: 2
+    explanation: >
+      Les études génétiques montrent que le maïs vient de la téosinte, et plus précisément
+      d'une sous-espèce des basses terres du Mexique.
+  - question: "Où et quand la domestication du maïs a-t-elle commencé ?"
+    options:
+      - "En Europe, il y a 500 ans"
+      - "En Chine, il y a 2 000 ans"
+      - "Au Mexique, il y a environ 9 000 ans"
+    answer: 3
+    explanation: >
+      Elle a commencé il y a environ neuf millénaires dans le bassin du río Balsas, au
+      sud-ouest du Mexique.
+  - question: "Comment sont protégés les grains de la téosinte sauvage ?"
+    options:
+      - "Par une enveloppe très dure"
+      - "Par des épines"
+      - "Par une couche de cire sucrée"
+    answer: 1
+    explanation: >
+      Chaque grain de téosinte est enfermé dans une enveloppe très dure, qui le protège
+      même dans l'estomac des animaux.
+  - question: "Quelle place le maïs occupe-t-il aujourd'hui parmi les céréales cultivées ?"
+    options:
+      - "La dernière"
+      - "La première, devant le riz et le blé"
+      - "Il n'est plus cultivé"
+    answer: 2
+    explanation: >
+      Le maïs est aujourd'hui la céréale la plus cultivée au monde, devant le riz et le
+      blé.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le maïs descend d'une herbe sauvage du Mexique, la téosinte. Il y a environ 9 000 ans, des paysans ont choisi et semé les plantes qui leur convenaient le mieux. Génération après génération, la téosinte aux quelques grains durs est devenue le maïs aux gros épis.
+
+## Une plante qui n'existe pas à l'état sauvage
+
+On ne trouve nulle part de maïs sauvage. Pendant longtemps, les savants se sont demandé d'où il venait. Certains pensaient qu'un maïs sauvage avait disparu. D'autres, comme le généticien américain George Beadle, pensaient qu'il descendait d'une herbe du Mexique, la téosinte.
+
+Aujourd'hui, de très nombreuses preuves génétiques donnent raison à la seconde idée. Le maïs vient d'une sous-espèce de téosinte des basses terres du Mexique.
+
+## La téosinte, une herbe bien différente
+
+À première vue, la téosinte ne ressemble pas beaucoup au maïs. C'est une plante buissonnante, avec de nombreuses branches. Ses épis sont minuscules : ils ne portent que 5 à 10 grains environ. Chaque grain est enfermé dans une enveloppe très dure. Cette coque le protège même quand un animal le mange : la graine ressort intacte dans ses excréments et peut germer ailleurs. À maturité, l'épi se défait en morceaux qui tombent au sol.
+
+## Des paysans qui choisissent
+
+Il y a environ 9 000 ans, dans le bassin du río Balsas, au sud-ouest du Mexique, des humains ont commencé à cultiver la téosinte. À chaque récolte, ils gardaient pour les semer les graines des plantes qui leur plaisaient le plus. C'est la sélection.
+
+De petites différences ont été retenues et cumulées. Les chercheurs ont découvert que les grandes différences entre maïs et téosinte dépendent d'un nombre étonnamment faible de gènes, situés dans une dizaine de petites zones de l'ADN. L'un d'eux, appelé tb1, règle la forme de la plante : le maïs a peu de tiges et de gros épis, la téosinte beaucoup de branches.
+
+Au fil des générations, la plante s'est transformée jusqu'au maïs aux gros épis que nous connaissons.
+
+## Un voyage autour du monde
+
+Le maïs s'est ensuite répandu dans toute l'Amérique. Les plus anciens grains considérés comme du maïs, trouvés au sud du Mexique, ont environ 7 000 ans. Une étude de 2023 a montré qu'une autre téosinte, venue des hautes terres, s'est croisée plus tard avec le maïs : elle a apporté 15 à 25 % de ses gènes.
+
+Il était l'aliment de base de nombreux peuples d'Amérique avant l'arrivée de Christophe Colomb. Introduit en Europe au 16e siècle, il est aujourd'hui la céréale la plus cultivée au monde, devant le riz et le blé.
+
+## À retenir
+
+- Le maïs descend de la téosinte, une herbe sauvage du Mexique.
+- Sa domestication a commencé il y a environ 9 000 ans dans le bassin du río Balsas.
+- La téosinte a de petits épis de 5 à 10 grains, chacun enfermé dans une coque très dure.
+- En semant les graines des plantes préférées, les paysans ont transformé la plante ; quelques gènes, comme tb1, expliquent les grandes différences.
+- Le maïs est aujourd'hui la céréale la plus cultivée au monde.
 
 ---
 type: article
@@ -3365,18 +3527,98 @@ status: planned
 
 ---
 type: article
-title: Les banques de semences mondiales
-slug: les-banques-de-semences-mondiales
+title: Pourquoi garde-t-on des millions de graines dans une montagne glacée près du pôle Nord ?
+slug: pourquoi-garde-t-on-des-millions-de-graines-dans-une-montagne-glacee-pres-du-pole-nord
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Des reserves protegees qui preservent la diversite genetique des plantes cultivees.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Sur une île norvégienne de l'Arctique, une chambre forte creusée dans la montagne conserve
+  des graines venues du monde entier. Elle sert de copie de secours si une banque de graines
+  est détruite par une guerre, un incendie ou une inondation. Le froid de la montagne aide à
+  garder les graines vivantes très longtemps.
+tags: [selection-vegetale]
+sources:
+  - title: "Réserve mondiale de semences du Svalbard"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9serve_mondiale_de_semences_du_Svalbard"
+    publisher: "Wikipédia"
+  - title: "Svalbard Global Seed Vault"
+    url: "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle température les graines sont-elles conservées au Svalbard ?"
+    options:
+      - "À 20 °C"
+      - "À −18 °C"
+      - "À 0 °C"
+    answer: 2
+    explanation: >
+      Les salles sont maintenues à −18 °C, la norme internationale pour conserver les
+      graines.
+  - question: "À qui appartiennent les graines déposées dans la réserve ?"
+    options:
+      - "À la Norvège"
+      - "À l'ONU"
+      - "Aux banques de graines qui les ont déposées"
+    answer: 3
+    explanation: >
+      La réserve fonctionne comme un coffre à la banque : la Norvège possède le bâtiment,
+      les déposants restent propriétaires de leurs graines.
+  - question: "Qui a fait le premier retrait de graines, en 2015 ?"
+    options:
+      - "Un centre de recherche agricole installé en Syrie, à cause de la guerre"
+      - "Un astronaute"
+      - "Un supermarché"
+    answer: 1
+    explanation: >
+      La guerre en Syrie empêchait le centre ICARDA d'utiliser sa banque de graines. Il a
+      récupéré ses copies au Svalbard pour les replanter.
+  - question: "Pourquoi ce lieu a-t-il été choisi ?"
+    options:
+      - "Il fait chaud toute l'année"
+      - "Le sol y reste gelé et il n'y a pas de tremblements de terre"
+      - "Il est au bord de l'équateur"
+    answer: 2
+    explanation: >
+      Le pergélisol, un sol gelé en permanence, et l'absence d'activité sismique en font
+      un lieu sûr. Il est aussi assez haut pour rester au sec.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sur une île norvégienne de l'Arctique, une chambre forte creusée dans la montagne conserve des graines venues du monde entier. Elle sert de copie de secours si une banque de graines est détruite par une guerre, un incendie ou une inondation. Le froid de la montagne aide à garder les graines vivantes très longtemps.
+
+## Un coffre-fort pour les graines
+
+Les graines des plantes cultivées sont précieuses. Chaque variété de blé, de riz ou de pomme de terre porte des caractères utiles : résister à une maladie, à la sécheresse ou au froid. Si une variété disparaît, ses caractères disparaissent avec elle.
+
+Pour les garder, les pays ont créé des banques de graines. Il en existe environ 1 400 collections dans le monde. Mais certaines se trouvent dans des régions instables ou menacées. Des banques ont été détruites par des guerres, des inondations ou des incendies.
+
+C'est pourquoi la Réserve mondiale de semences du Svalbard a été construite. Elle ne remplace pas ces banques. Elle garde une copie de secours de leurs graines.
+
+## Creusée dans la montagne arctique
+
+La réserve se trouve sur l'île du Spitzberg, en Norvège, à environ 1 120 kilomètres du pôle Nord. Elle a été creusée à 120 mètres de profondeur dans une montagne de grès. Elle a été inaugurée le 26 février 2008. Ce jour-là, les premières graines venaient du Nigeria : 7 000 variétés de niébé, de maïs, de soja et d'autres plantes.
+
+Un tunnel de 100 mètres mène à trois salles. Les graines y sont rangées dans des sachets scellés, environ 500 graines par sachet. Les salles sont refroidies à −18 °C. Ce froid et le manque d'oxygène ralentissent le vieillissement des graines.
+
+Le lieu a été bien choisi. Le sol y est gelé en permanence : c'est le pergélisol. Il n'y a pas de tremblements de terre. La réserve est à 130 mètres au-dessus de la mer : elle resterait au sec même si les glaces fondaient. Si les machines de froid tombaient en panne, il faudrait plusieurs semaines pour que la température monte à −3 °C, celle de la roche autour.
+
+## Un coffre à la banque
+
+La réserve fonctionne comme un coffre dans une banque. La Norvège possède le bâtiment. Chaque banque de graines qui dépose ses sachets en reste propriétaire. Elle seule peut les reprendre. Le dépôt est gratuit. La réserve peut contenir 4,5 millions d'échantillons de graines. En 2018, elle avait reçu plus d'un million d'échantillons.
+
+## Le premier retrait
+
+En 2015, la guerre en Syrie empêchait un centre de recherche agricole, l'ICARDA, d'utiliser sa banque de graines. Le centre a récupéré une partie de ses copies au Svalbard. Les graines ont été semées au Liban et au Maroc pour en produire de nouvelles. Une partie a ensuite été renvoyée au Svalbard. La copie de secours avait servi.
+
+## À retenir
+
+- La Réserve mondiale de semences du Svalbard garde des copies de secours des graines des banques du monde entier.
+- Elle est creusée dans une montagne de l'île du Spitzberg, en Norvège, et a été inaugurée en 2008.
+- Les graines sont conservées à −18 °C ; le sol gelé autour aide à garder le froid.
+- Les banques qui déposent leurs graines en restent propriétaires, comme dans un coffre à la banque.
+- En 2015, un centre de recherche touché par la guerre en Syrie a été le premier à reprendre ses graines.
 
 ---
 type: article
@@ -3770,18 +4012,99 @@ status: planned
 
 ---
 type: article
-title: La formation naturelle d'un sol
-slug: la-formation-naturelle-d-un-sol
+title: Comment une roche se transforme-t-elle peu à peu en sol ?
+slug: comment-une-roche-se-transforme-t-elle-peu-a-peu-en-sol
 categoryPath: sciences-du-vivant-appliquees/agronomie/sols-et-fertilite
 summary: >
-  Un processus tres lent qui explique pourquoi une terre fertile est une ressource precieuse.
-tags: [sols-et-fertilite, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un sol naît d'une roche qui se casse et s'altère sous l'effet du gel, de l'eau et des êtres
+  vivants. Peu à peu, des débris de plantes et d'animaux s'y mélangent et forment l'humus. Ce
+  travail est très lent : il faut souvent des milliers d'années pour former quelques dizaines
+  de centimètres de sol.
+tags: [sols-et-fertilite]
+sources:
+  - title: "Pédogenèse (géologie)"
+    url: "https://fr.wikipedia.org/wiki/P%C3%A9dogen%C3%A8se_(g%C3%A9ologie)"
+    publisher: "Wikipédia"
+  - title: "Pedogenesis"
+    url: "https://en.wikipedia.org/wiki/Pedogenesis"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment s'appelle la roche de départ d'un sol ?"
+    options:
+      - "La roche-mère"
+      - "La roche-fille"
+      - "La roche volcanique"
+    answer: 1
+    explanation: >
+      La roche-mère est la roche d'origine. Le sol hérite d'une partie de ses caractères.
+  - question: "Comment le gel casse-t-il les roches ?"
+    options:
+      - "Il les fait fondre"
+      - "L'eau gèle dans les fissures et les fait éclater"
+      - "Il les rend magnétiques"
+    answer: 2
+    explanation: >
+      En gelant, l'eau prend plus de place. Dans une fissure, elle force sur la roche et
+      la fait éclater.
+  - question: "Quels êtres vivants s'installent parmi les premiers sur une roche nue ?"
+    options:
+      - "Les chênes"
+      - "Les vers de terre"
+      - "Les lichens et les mousses"
+    answer: 3
+    explanation: >
+      Des films de microbes, puis des lichens et des mousses, s'accrochent à la roche et
+      préparent le terrain.
+  - question: "Combien de temps faut-il, selon une estimation, pour former 30 centimètres de sol ?"
+    options:
+      - "Environ 8 000 à 18 000 ans"
+      - "Environ 3 semaines"
+      - "Environ 10 ans"
+    answer: 1
+    explanation: >
+      Selon une estimation, le sol se forme à moins d'un dixième de millimètre par an. 30
+      centimètres demandent alors de 8 000 à 18 000 ans environ.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un sol naît d'une roche qui se casse et s'altère sous l'effet du gel, de l'eau et des êtres vivants. Peu à peu, des débris de plantes et d'animaux s'y mélangent et forment l'humus. Ce travail est très lent : il faut souvent des milliers d'années pour former quelques dizaines de centimètres de sol.
+
+## Au départ, une roche
+
+Tout sol commence par une roche, appelée roche-mère. Le sol garde longtemps une partie de ses caractères. Par exemple, sur une roche calcaire, le sol est d'abord calcaire. Sur une roche acide, il est d'abord acide.
+
+Pour devenir du sol, cette roche doit être cassée en morceaux de plus en plus petits, puis transformée. C'est ce qu'on appelle l'altération.
+
+## Casser et dissoudre
+
+L'altération physique casse la roche sans changer sa matière. Le jour, la roche chauffe et se dilate un peu ; la nuit, elle refroidit et se contracte. À force, elle se fend. L'eau qui gèle dans les fissures prend plus de place et fait éclater la pierre. L'alternance de pluie et de sécheresse use aussi les grains.
+
+L'altération chimique, elle, change la matière de la roche. L'eau et de faibles acides réagissent avec certains minéraux. Par exemple, le feldspath, un minéral courant, se transforme en argile au contact de l'eau. Ces réactions vont plus vite quand il fait chaud.
+
+## Le travail des êtres vivants
+
+La vie arrive très tôt. D'abord, une fine couche de microbes se forme à la surface de la roche. Puis des lichens et des mousses s'y accrochent. Ils retiennent un peu de poussière et d'eau. Ils préparent ainsi la place pour d'autres plantes.
+
+Les racines s'enfoncent dans les fissures. Des champignons associés aux racines tirent des éléments nutritifs de la roche. Les bactéries et les champignons rejettent des acides qui attaquent les minéraux. La respiration des êtres vivants du sol libère du dioxyde de carbone, qui forme aussi des acides faibles. Les vers de terre mélangent tout.
+
+Les débris de plantes et d'animaux se décomposent et donnent l'humus, la matière sombre et riche du sol. Avec le temps, le sol s'organise en couches superposées, appelées horizons.
+
+## Cinq ingrédients et beaucoup de temps
+
+Au 19e siècle, le savant russe Vassili Dokoutchaïev a décrit cinq facteurs qui forment un sol : la roche-mère, le climat, le relief, les êtres vivants et le temps.
+
+Le temps est le plus surprenant. Selon une estimation, un sol se forme à un rythme de 0,017 à 0,036 millimètre par an. À ce rythme, 30 centimètres de sol demandent environ 8 000 à 18 000 ans. Le sol est donc une ressource qui se renouvelle très lentement.
+
+## À retenir
+
+- Un sol naît d'une roche de départ, la roche-mère.
+- Le gel, la chaleur et l'eau cassent la roche ; l'eau et des acides faibles transforment ses minéraux.
+- Microbes, lichens, mousses, racines et vers de terre participent à la formation du sol.
+- Les débris de plantes et d'animaux forment l'humus, et le sol s'organise en couches appelées horizons.
+- La formation d'un sol est très lente : environ 8 000 à 18 000 ans pour 30 centimètres, selon une estimation.
 
 ---
 type: article
@@ -4220,18 +4543,100 @@ status: planned
 
 ---
 type: article
-title: La production d'insuline par bacteries modifiees
-slug: la-production-d-insuline-par-bacteries-modifiees
+title: Comment des bactéries fabriquent-elles l'insuline des diabétiques ?
+slug: comment-des-bacteries-fabriquent-elles-l-insuline-des-diabetiques
 categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
 summary: >
-  Une avancee majeure qui a rendu ce traitement bien plus accessible et fiable.
-tags: [biologie-de-synthese, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'insuline est une hormone qui fait baisser le sucre dans le sang. Pendant des dizaines
+  d'années, on l'a tirée du pancréas de porcs et de bœufs. Depuis 1982, on fait fabriquer de
+  l'insuline humaine à des bactéries ou à des levures dans lesquelles on a placé le gène
+  humain de l'insuline.
+tags: [biologie-de-synthese]
+sources:
+  - title: "Insuline"
+    url: "https://fr.wikipedia.org/wiki/Insuline"
+    publisher: "Wikipédia"
+  - title: "Insulin (medication)"
+    url: "https://en.wikipedia.org/wiki/Insulin_(medication)"
+    publisher: "Wikipedia"
+  - title: "Recombinant DNA"
+    url: "https://en.wikipedia.org/wiki/Recombinant_DNA"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel organe fabrique l'insuline dans le corps ?"
+    options:
+      - "Le cœur"
+      - "Le pancréas"
+      - "Les poumons"
+    answer: 2
+    explanation: >
+      L'insuline est fabriquée par des cellules du pancréas regroupées en petits îlots,
+      les îlots de Langerhans.
+  - question: "D'où venait l'insuline des premiers traitements ?"
+    options:
+      - "Du pancréas de bœufs et de porcs"
+      - "De plantes tropicales"
+      - "De l'eau de mer"
+    answer: 1
+    explanation: >
+      Les premières insulines étaient extraites du pancréas de bœufs et de porcs.
+  - question: "Quelle bactérie a servi à fabriquer la première insuline humaine par génie génétique ?"
+    options:
+      - "La bactérie du tétanos"
+      - "Une bactérie de la mer qui brille"
+      - "Escherichia coli"
+    answer: 3
+    explanation: >
+      En 1978, l'entreprise Genentech a fait produire de l'insuline humaine à la bactérie
+      Escherichia coli.
+  - question: "Qu'est-ce qu'un plasmide ?"
+    options:
+      - "Un petit morceau d'ADN qui se copie dans la cellule et sert à transporter un gène"
+      - "Une sorte de seringue"
+      - "Un globule blanc"
+    answer: 1
+    explanation: >
+      Les chercheurs utilisent souvent un plasmide pour transporter le gène humain dans la
+      bactérie.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'insuline est une hormone qui fait baisser le sucre dans le sang. Pendant des dizaines d'années, on l'a tirée du pancréas de porcs et de bœufs. Depuis 1982, on fait fabriquer de l'insuline humaine à des bactéries ou à des levures dans lesquelles on a placé le gène humain de l'insuline.
+
+## Une hormone vitale
+
+L'insuline est une hormone, un messager chimique du corps. Elle est fabriquée par des cellules du pancréas regroupées en petits îlots, les îlots de Langerhans. Après un repas, elle aide le foie, les muscles et les graisses à stocker le sucre du sang, le glucose. Ainsi, le taux de sucre dans le sang baisse.
+
+Dans le diabète de type 1, le corps ne fabrique plus d'insuline. Sans traitement, cette maladie est mortelle en quelques mois. Les malades doivent s'injecter de l'insuline plusieurs fois par jour.
+
+## Les premières insulines venaient des animaux
+
+Le 11 janvier 1922, à Toronto, au Canada, Leonard Thompson, un garçon de 14 ans, a reçu la première injection d'insuline. Il était sur le point de mourir du diabète. Après une préparation plus pure, quelques jours plus tard, son taux de sucre a nettement baissé. Les inventeurs ont vendu leur brevet pour un dollar symbolique à l'université de Toronto, pour que le médicament profite au plus grand nombre.
+
+Pendant des dizaines d'années, l'insuline a été extraite du pancréas de bœufs et de porcs. Elle était un peu différente de l'insuline humaine.
+
+## Un gène humain dans une bactérie
+
+L'insuline est une petite protéine. Elle est formée de deux chaînes, l'une de 21 et l'autre de 30 acides aminés, les briques des protéines. Comme toute protéine, elle est fabriquée par les cellules en suivant une recette écrite dans un gène.
+
+Le génie génétique permet de déplacer cette recette. Les chercheurs placent le gène humain de l'insuline dans un plasmide, un petit morceau d'ADN qui se copie tout seul dans une cellule. Ils font entrer ce plasmide dans une bactérie, souvent Escherichia coli, ou dans une levure. La bactérie lit le gène comme s'il était à elle et fabrique de l'insuline humaine. Les bactéries se multiplient très vite dans de grandes cuves. On récupère ensuite l'insuline, on la purifie et on la met en flacons.
+
+## Un médicament pionnier
+
+En 1978, l'entreprise américaine Genentech a réussi à faire produire de l'insuline humaine à Escherichia coli. Ce procédé a été autorisé en 1982 et vendu par l'entreprise Eli Lilly sous le nom de Humulin. C'était le premier médicament fabriqué grâce au génie génétique moderne. Une autre entreprise, Novo Nordisk, a ensuite mis au point une méthode avec des levures.
+
+Aujourd'hui, la plupart des insulines utilisées sont produites de cette façon. Elles ont presque complètement remplacé les insulines de porc et de bœuf.
+
+## À retenir
+
+- L'insuline est une hormone fabriquée par le pancréas qui fait baisser le sucre dans le sang.
+- La première injection d'insuline à un malade a eu lieu en 1922, à Toronto.
+- Les premières insulines venaient du pancréas de bœufs et de porcs.
+- On place le gène humain de l'insuline dans une bactérie ou une levure, qui fabrique alors de l'insuline humaine.
+- Autorisée en 1982, l'insuline humaine produite par des bactéries a été le premier médicament issu du génie génétique moderne.
 
 ---
 type: article
@@ -4310,18 +4715,99 @@ status: planned
 
 ---
 type: article
-title: Les enzymes industrielles produites par des micro-organismes
-slug: les-enzymes-industrielles-produites-par-des-micro-organismes
+title: Comment des enzymes produites par des microbes aident-elles la lessive à laver à froid ?
+slug: comment-des-enzymes-produites-par-des-microbes-aident-elles-la-lessive-a-laver-a-froid
 categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
 summary: >
-  Des molecules essentielles a de nombreux procedes, aujourd'hui produites biologiquement.
-tags: [biologie-de-synthese, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les enzymes sont des protéines qui accélèrent des réactions chimiques. Certaines découpent
+  les taches de sang, d'amidon ou de graisse en petits morceaux que l'eau emporte. Elles sont
+  produites en grande quantité par des bactéries et des champignons, puis ajoutées aux
+  lessives.
+tags: [biologie-de-synthese]
+sources:
+  - title: "Enzyme"
+    url: "https://fr.wikipedia.org/wiki/Enzyme"
+    publisher: "Wikipédia"
+  - title: "Detergent enzymes"
+    url: "https://en.wikipedia.org/wiki/Detergent_enzymes"
+    publisher: "Wikipedia"
+  - title: "Industrial enzymes"
+    url: "https://en.wikipedia.org/wiki/Industrial_enzymes"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'une enzyme ?"
+    options:
+      - "Une protéine qui accélère une réaction chimique"
+      - "Un savon très parfumé"
+      - "Une sorte de virus"
+    answer: 1
+    explanation: >
+      Une enzyme est une protéine qui accélère une réaction chimique sans être modifiée.
+  - question: "Quel type d'enzyme découpe les taches de sang ou d'œuf ?"
+    options:
+      - "Les amylases"
+      - "Les protéases"
+      - "Les lipases"
+    answer: 2
+    explanation: >
+      Le sang et l'œuf contiennent beaucoup de protéines. Les protéases les découpent.
+  - question: "Qui fabrique la plupart des enzymes des lessives ?"
+    options:
+      - "Des vaches"
+      - "Des usines chimiques sans êtres vivants"
+      - "Des bactéries et des champignons"
+    answer: 3
+    explanation: >
+      Les enzymes de lessive sont surtout produites par des bactéries, comme Bacillus
+      subtilis, et par des champignons.
+  - question: "Pourquoi les enzymes permettent-elles d'économiser de l'énergie ?"
+    options:
+      - "Elles chauffent l'eau toutes seules"
+      - "Elles fonctionnent bien dans l'eau froide, donc on chauffe moins l'eau"
+      - "Elles font tourner le tambour"
+    answer: 2
+    explanation: >
+      Chauffer l'eau consomme beaucoup d'énergie. Les enzymes efficaces à basse
+      température permettent de laver à froid.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les enzymes sont des protéines qui accélèrent des réactions chimiques. Certaines découpent les taches de sang, d'amidon ou de graisse en petits morceaux que l'eau emporte. Elles sont produites en grande quantité par des bactéries et des champignons, puis ajoutées aux lessives.
+
+## De petites machines qui découpent
+
+Une enzyme est une protéine qui accélère une réaction chimique. Grâce à elle, certaines réactions se font des millions de fois plus vite. L'enzyme n'est pas abîmée par la réaction : elle peut recommencer encore et encore.
+
+Chaque enzyme a une petite poche, son site actif. Seules certaines molécules ont la bonne forme pour s'y loger. C'est pourquoi chaque enzyme ne fait qu'un travail précis. Tous les êtres vivants fabriquent des enzymes, par exemple pour digérer leur nourriture.
+
+## Une enzyme pour chaque tache
+
+Une tache est faite de molécules collées au tissu. Les enzymes de lessive les coupent en petits morceaux que l'eau peut emporter. On en trouve six grandes familles dans les lessives. Les protéases découpent les protéines, présentes dans le sang ou l'œuf. Les amylases découpent l'amidon. Les lipases s'attaquent aux graisses. Les cellulases découpent la cellulose, par exemple dans une purée de légumes. Les pectate lyases et les mannanases s'occupent d'autres molécules venues des plantes.
+
+## Fabriquées par des microbes
+
+Au début du 20e siècle, le chimiste allemand Otto Röhm a eu l'idée d'ajouter une enzyme à la lessive. Il utilisait la trypsine, une enzyme tirée d'organes d'animaux abattus. Mais elle supportait mal les autres produits de la lessive.
+
+En 1959, on a commencé à faire produire ces enzymes par des microbes. Aujourd'hui, la plupart viennent de bactéries et de champignons. Une bactérie souvent utilisée, Bacillus subtilis, produit une protéase appelée subtilisine. Les lessives sont la plus grande utilisation des enzymes dans l'industrie.
+
+## Laver à froid
+
+Ces enzymes doivent travailler dans des conditions difficiles : de 0 à 60 °C, dans une eau plus ou moins acide, au milieu des savons. Beaucoup fonctionnent bien dans l'eau froide.
+
+C'est un grand avantage. D'habitude, on chauffe l'eau pour mieux dissoudre les taches, et chauffer l'eau consomme beaucoup d'énergie. Avec les enzymes, on peut laver à basse température. Cela protège aussi les tissus délicats, comme la laine et la soie, et les jeans foncés qui déteignent à chaud. Les enzymes permettent aussi de mettre moins de certains produits chimiques polluants dans les lessives.
+
+Les enzymes provoquent-elles des allergies de peau ? Un grand test sur 15 765 volontaires a montré que les réactions sont très rares : 0,23 % des personnes.
+
+## À retenir
+
+- Une enzyme est une protéine qui accélère une réaction chimique sans être abîmée.
+- Chaque enzyme de lessive découpe un type de tache : protéines, amidon, graisses ou autres molécules.
+- La plupart de ces enzymes sont produites par des bactéries et des champignons, comme Bacillus subtilis.
+- Les lessives sont la plus grande utilisation des enzymes dans l'industrie.
+- Grâce aux enzymes, on peut laver à basse température et économiser l'énergie qui sert à chauffer l'eau.
 
 ---
 type: article
@@ -5135,18 +5621,100 @@ status: planned
 
 ---
 type: article
-title: L'echographie, une technique sans rayonnement
-slug: l-echographie-une-technique-sans-rayonnement
+title: Comment l'échographie voit-elle un bébé dans le ventre grâce au son ?
+slug: comment-l-echographie-voit-elle-un-bebe-dans-le-ventre-grace-au-son
 categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
 summary: >
-  Comment des ultrasons permettent de visualiser l'interieur du corps en toute securite.
-tags: [imagerie-medicale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'échographie envoie dans le corps des sons trop aigus pour nos oreilles, les ultrasons. Ils
+  rebondissent sur les organes et reviennent sous forme d'échos. Un ordinateur mesure le temps
+  de retour de chaque écho et dessine une image, sans aucun rayonnement dangereux.
+tags: [imagerie-medicale]
+sources:
+  - title: "Échographie"
+    url: "https://fr.wikipedia.org/wiki/%C3%89chographie"
+    publisher: "Wikipédia"
+  - title: "Ultrason"
+    url: "https://fr.wikipedia.org/wiki/Ultrason"
+    publisher: "Wikipédia"
+  - title: "Medical ultrasound"
+    url: "https://en.wikipedia.org/wiki/Medical_ultrasound"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que sont les ultrasons ?"
+    options:
+      - "Des rayons X très faibles"
+      - "Des sons trop aigus pour être entendus par l'oreille humaine"
+      - "Des ondes radio"
+    answer: 2
+    explanation: >
+      Les ultrasons ont une fréquence de plus de 20 000 vibrations par seconde. L'oreille
+      humaine ne les entend pas.
+  - question: "Pourquoi met-on du gel sur la peau avant l'examen ?"
+    options:
+      - "Pour chasser l'air, qui bloque les ultrasons"
+      - "Pour réchauffer le ventre"
+      - "Pour colorer l'image"
+    answer: 1
+    explanation: >
+      L'air renvoie presque tous les ultrasons. Le gel remplace la fine couche d'air entre
+      la sonde et la peau.
+  - question: "Comment apparaît un os sur l'image ?"
+    options:
+      - "Invisible"
+      - "Noir"
+      - "Blanc, avec une ombre derrière"
+    answer: 3
+    explanation: >
+      L'os renvoie très bien les échos : il apparaît blanc. Les ultrasons ne passent pas
+      derrière, ce qui laisse une ombre.
+  - question: "Quel médecin a publié en 1958 les premières images d'un fœtus en deux dimensions ?"
+    options:
+      - "Ian Donald"
+      - "René Laennec"
+      - "Wilhelm Röntgen"
+    answer: 1
+    explanation: >
+      L'obstétricien écossais Ian Donald a adapté un appareil industriel et publié ces
+      images en 1958.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'échographie envoie dans le corps des sons trop aigus pour nos oreilles, les ultrasons. Ils rebondissent sur les organes et reviennent sous forme d'échos. Un ordinateur mesure le temps de retour de chaque écho et dessine une image, sans aucun rayonnement dangereux.
+
+## Des sons qu'on n'entend pas
+
+L'oreille humaine entend les sons dont la fréquence va de 20 à 20 000 vibrations par seconde. Au-delà, le son est trop aigu pour nous : ce sont les ultrasons. Les chauves-souris et les dauphins s'en servent pour percevoir ce qui les entoure.
+
+L'échographie utilise des ultrasons de 1 à 18 millions de vibrations par seconde. Elle n'emploie aucun rayonnement comme les rayons X. C'est pour cela qu'on peut l'utiliser pendant la grossesse.
+
+## L'écho, comme un sonar
+
+L'échographie fonctionne comme le sonar d'un bateau. La sonde contient une céramique spéciale, dite piézoélectrique. Quand on lui envoie de petites impulsions électriques, elle vibre et produit des ultrasons. La même céramique capte ensuite les échos qui reviennent.
+
+Quand les ultrasons rencontrent la limite entre deux tissus, une partie rebondit. Plus l'obstacle est profond, plus l'écho met de temps à revenir. L'appareil considère que le son voyage dans le corps à environ 1 540 mètres par seconde. Avec le temps de retour, il calcule la profondeur de chaque obstacle. Une sonde moderne contient des centaines de petits émetteurs alignés. Ensemble, ils permettent de dessiner une image en coupe, en temps réel.
+
+## Du noir au blanc
+
+L'image est en niveaux de gris. Un liquide clair, comme celui qui entoure le bébé, laisse passer les ultrasons sans écho : il apparaît noir. Les tissus mous renvoient plus ou moins d'échos : ils apparaissent en gris. L'os renvoie fortement les échos : il apparaît blanc, avec une ombre derrière lui, car les ultrasons ne le traversent pas.
+
+L'air est un grand obstacle. Il renvoie presque tous les ultrasons. C'est pourquoi on étale un gel sur la peau : il remplace la fine couche d'air entre la sonde et le corps. Pour la même raison, l'échographie voit mal à travers les poumons ou l'intestin rempli de gaz.
+
+## Des bateaux aux bébés
+
+L'idée vient du sonar, développé pour repérer les sous-marins et cartographier les fonds marins. Dans les années 1950, des médecins l'ont adaptée au corps humain. À Glasgow, en Écosse, l'obstétricien Ian Donald a modifié un appareil conçu pour détecter des défauts dans les coques de bateaux. En 1958, il a publié les premières images en deux dimensions d'un fœtus. Le suivi de la grossesse par échographie s'est répandu à partir des années 1970.
+
+Les appareils modernes utilisent aussi l'effet Doppler : ils mesurent la vitesse du sang qui circule, par exemple dans le cœur du bébé.
+
+## À retenir
+
+- Les ultrasons sont des sons trop aigus pour l'oreille humaine, au-delà de 20 000 vibrations par seconde.
+- La sonde envoie des ultrasons et capte leurs échos ; le temps de retour indique la profondeur de chaque obstacle.
+- Les liquides apparaissent noirs, les tissus mous gris et les os blancs.
+- On met du gel sur la peau, car l'air bloque presque tous les ultrasons.
+- L'échographie n'utilise aucun rayonnement comme les rayons X ; Ian Donald a publié les premières images d'un fœtus en 1958.
 
 ---
 type: article
@@ -5210,18 +5778,97 @@ status: planned
 
 ---
 type: article
-title: L'histoire de l'invention du stethoscope
-slug: l-histoire-de-l-invention-du-stethoscope
+title: Comment un rouleau de papier a-t-il donné naissance au stéthoscope ?
+slug: comment-un-rouleau-de-papier-a-t-il-donne-naissance-au-stethoscope
 categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
 summary: >
-  Un instrument simple qui a transforme l'examen clinique du patient.
-tags: [imagerie-medicale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En 1816, le médecin français René Laennec devait écouter le cœur d'une patiente. Il a roulé
+  une feuille de papier en tube et l'a posée sur sa poitrine : il entendait mieux qu'avec
+  l'oreille collée au corps. Il venait d'inventer le stéthoscope.
+tags: [imagerie-medicale]
+sources:
+  - title: "Stéthoscope"
+    url: "https://fr.wikipedia.org/wiki/St%C3%A9thoscope"
+    publisher: "Wikipédia"
+  - title: "René Laennec"
+    url: "https://fr.wikipedia.org/wiki/Ren%C3%A9-Th%C3%A9ophile-Hyacinthe_Laennec"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Avec quoi Laennec a-t-il fabriqué son premier stéthoscope ?"
+    options:
+      - "Une feuille de papier roulée en tube"
+      - "Un tuyau d'arrosage"
+      - "Une corne de vache"
+    answer: 1
+    explanation: >
+      Il a roulé du papier en cylindre et posé une extrémité contre la poitrine de la
+      patiente.
+  - question: "Quel jeu d'enfants lui aurait donné l'idée ?"
+    options:
+      - "Un jeu de billes"
+      - "Des enfants qui écoutaient des grattements à travers une longue poutre"
+      - "Une partie de cache-cache"
+    answer: 2
+    explanation: >
+      Un enfant grattait le bout d'une poutre avec une épingle ; à l'autre bout, les
+      autres entendaient le bruit, l'oreille collée au bois.
+  - question: "Que veut dire le mot « stéthoscope » ?"
+    options:
+      - "Écouter la tête"
+      - "Mesurer le sang"
+      - "Observer la poitrine"
+    answer: 3
+    explanation: >
+      Le mot vient du grec stêthos, la poitrine, et skopein, observer.
+  - question: "En quelle année Laennec a-t-il publié son grand livre sur l'auscultation ?"
+    options:
+      - "En 1819"
+      - "En 1950"
+      - "En 1700"
+    answer: 1
+    explanation: >
+      Son Traité de l'auscultation médiate a paru en 1819.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1816, le médecin français René Laennec devait écouter le cœur d'une patiente. Il a roulé une feuille de papier en tube et l'a posée sur sa poitrine : il entendait mieux qu'avec l'oreille collée au corps. Il venait d'inventer le stéthoscope.
+
+## Écouter le corps
+
+Le corps fait du bruit. Le cœur bat avec un double son. L'air siffle ou crépite dans les poumons. Écouter ces bruits s'appelle l'auscultation. Avant 1816, les médecins collaient directement leur oreille contre la poitrine du malade. On appelait cela l'auscultation immédiate. Ce n'était ni pratique ni toujours possible.
+
+## Une idée venue d'un jeu
+
+René Laennec était un médecin français, né à Quimper en 1781. En 1816, il travaillait à l'hôpital Necker, à Paris. Il s'intéressait surtout aux maladies des poumons.
+
+On raconte qu'il a vu des enfants jouer avec une longue poutre. L'un grattait une extrémité avec une épingle. À l'autre bout, les autres collaient leur oreille au bois et entendaient le bruit très nettement. Le bois transmettait le son.
+
+Peu après, Laennec devait examiner une jeune patiente malade du cœur. Elle était forte, et sa poitrine étouffait les bruits du cœur. Il a demandé une feuille de papier, l'a roulée en cylindre, et a posé une extrémité contre la poitrine et l'autre contre son oreille. Il a entendu le cœur et la respiration avec netteté. Le stéthoscope était né.
+
+## Un nom et un livre
+
+Laennec a ensuite fabriqué plusieurs modèles en bois. Il a nommé son instrument « stéthoscope », du grec stêthos, la poitrine, et skopein, observer. Il a appelé sa méthode l'auscultation médiate, c'est-à-dire par l'intermédiaire d'un instrument.
+
+En 1819, il a publié un grand traité sur cette méthode. Il y décrit et classe les bruits des poumons malades, comme les râles. Certains de ces noms sont toujours utilisés par les médecins. Il a aussi beaucoup étudié la tuberculose, la maladie dont il est mort en 1826, à 45 ans.
+
+Tous les médecins n'ont pas adopté tout de suite son invention. En 1885 encore, un professeur déclarait préférer ses oreilles au stéthoscope.
+
+## Du tube de bois au stéthoscope moderne
+
+L'instrument a beaucoup évolué. Vers 1850, sont apparus des modèles avec un embout pour chaque oreille. En 1961, le médecin américain David Littmann a créé le stéthoscope à double pavillon que l'on utilise encore.
+
+Aujourd'hui, le stéthoscope a une membrane posée sur la peau. Elle vibre avec les sons du corps. Des tubes souples conduisent ces vibrations jusqu'aux oreilles du médecin. Il sert à écouter le cœur, la respiration, les bruits du ventre, et aussi à prendre la tension. Le premier stéthoscope de Laennec est conservé à Nantes.
+
+## À retenir
+
+- Avant 1816, les médecins écoutaient le corps en collant l'oreille contre la poitrine.
+- En 1816, René Laennec a roulé une feuille de papier pour écouter le cœur d'une patiente : c'est le premier stéthoscope.
+- Le mot « stéthoscope » vient du grec et veut dire « observer la poitrine ».
+- En 1819, Laennec a publié un traité qui décrit et classe les bruits des poumons.
+- Le stéthoscope moderne a une membrane et deux embouts ; il sert toujours à écouter le cœur et les poumons.
 
 ---
 type: article
@@ -5525,18 +6172,96 @@ status: planned
 
 ---
 type: article
-title: L'effet placebo, un phenomene reel et mesurable
-slug: l-effet-placebo-un-phenomene-reel-et-mesurable
+title: Pourquoi un faux médicament peut-il parfois soulager ?
+slug: pourquoi-un-faux-medicament-peut-il-parfois-soulager
 categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
 summary: >
-  Comment une substance inactive peut neanmoins produire un effet mesurable.
-tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un placebo ressemble à un vrai médicament, mais il ne contient aucune substance active.
+  Pourtant, des malades se sentent parfois mieux après l'avoir pris, surtout contre la douleur
+  et les nausées. Les attentes du patient et le cerveau jouent un rôle, mais une partie de
+  l'amélioration vient aussi de la guérison naturelle.
+tags: [medecine-fondee-sur-les-preuves]
+sources:
+  - title: "Effet placebo"
+    url: "https://fr.wikipedia.org/wiki/Effet_placebo"
+    publisher: "Wikipédia"
+  - title: "Placebo"
+    url: "https://en.wikipedia.org/wiki/Placebo"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que veut dire le mot latin « placebo » ?"
+    options:
+      - "Je guérirai"
+      - "Je plairai"
+      - "Je dormirai"
+    answer: 2
+    explanation: >
+      Placebo vient du latin et veut dire « je plairai ».
+  - question: "Contre quels troubles l'effet placebo est-il le plus souvent observé ?"
+    options:
+      - "Les fractures"
+      - "La douleur et les nausées"
+      - "Les caries"
+    answer: 2
+    explanation: >
+      Une grande revue d'études de 2010 a trouvé des effets surtout sur la douleur et les
+      nausées ressenties par les patients.
+  - question: "Comment s'appelle l'effet inverse, quand un faux traitement fait se sentir plus mal ?"
+    options:
+      - "L'effet nocebo"
+      - "L'effet miroir"
+      - "L'effet boomerang"
+    answer: 1
+    explanation: >
+      Nocebo veut dire « je nuirai » en latin. Ce terme a été introduit en 1961.
+  - question: "Pourquoi utilise-t-on des placebos dans les essais de médicaments ?"
+    options:
+      - "Pour économiser de l'argent"
+      - "Pour rendre les patients malades"
+      - "Pour vérifier qu'un médicament fait mieux qu'un faux traitement"
+    answer: 3
+    explanation: >
+      Un médicament est jugé efficace s'il fait mieux qu'un placebo, ou mieux que le
+      traitement de référence.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un placebo ressemble à un vrai médicament, mais il ne contient aucune substance active. Pourtant, des malades se sentent parfois mieux après l'avoir pris, surtout contre la douleur et les nausées. Les attentes du patient et le cerveau jouent un rôle, mais une partie de l'amélioration vient aussi de la guérison naturelle.
+
+## Un faux médicament
+
+Un placebo est un traitement qui ressemble à un vrai, mais n'a aucune action propre sur la maladie. Ce peut être un comprimé de sucre ou d'amidon, ou une injection d'eau salée. Le mot vient du latin et veut dire « je plairai ».
+
+Pourtant, des personnes qui prennent un placebo disent parfois se sentir mieux. C'est l'effet placebo. On l'a observé pour la douleur, les nausées, l'asthme ou certaines peurs.
+
+## Ce que fait le cerveau
+
+L'effet placebo dépend beaucoup de ce que le patient attend. La forme du traitement compte : selon des études, prendre plus de comprimés renforce l'effet, une gélule agit plus qu'un comprimé, et une injection plus qu'une gélule. La relation avec le médecin et le contexte du soin jouent aussi.
+
+L'effet n'est pas seulement « dans la tête ». Depuis 1978, on sait que la baisse de la douleur après un placebo passe par des substances que le cerveau fabrique lui-même, proches de la morphine. Le cerveau freine alors les messages de douleur.
+
+L'effet inverse existe aussi. Si une personne s'attend à des effets désagréables, un faux traitement peut la faire se sentir plus mal. C'est l'effet nocebo, du latin « je nuirai ». Ce nom a été proposé en 1961.
+
+## Un effet plus petit qu'on le croyait
+
+En 1955, une étude célèbre affirmait que l'effet placebo était très puissant. Mais en 1997, des chercheurs ont réexaminé ses données. Ils ont montré qu'elle oubliait un piège : beaucoup de malades vont mieux avec le temps, sans rien faire.
+
+En 2010, une grande revue a comparé placebo et absence de traitement dans 202 essais. Elle n'a pas trouvé d'effet important en général. Elle a observé des effets surtout sur la douleur et les nausées, telles que les patients les décrivent. Une partie de l'amélioration vient donc de la guérison naturelle, ou de la manière dont les patients racontent ce qu'ils ressentent.
+
+## Un outil pour tester les médicaments
+
+Le placebo est surtout très utile à la recherche. Pour savoir si un nouveau médicament marche, on compare deux groupes. L'un reçoit le médicament, l'autre un placebo qui lui ressemble. Si le groupe traité va nettement mieux, l'effet vient bien du médicament, et pas seulement de l'attente ou du temps qui passe.
+
+## À retenir
+
+- Un placebo ressemble à un médicament, mais n'a aucune action propre sur la maladie.
+- L'effet placebo s'observe surtout sur la douleur et les nausées ressenties.
+- Contre la douleur, il passe par des substances fabriquées par le cerveau lui-même.
+- L'effet nocebo est l'inverse : un faux traitement fait se sentir plus mal.
+- Les essais comparent un médicament à un placebo pour prouver qu'il agit vraiment.
 
 ---
 type: article
@@ -5960,18 +6685,100 @@ status: planned
 
 ---
 type: article
-title: L'aspirine, de l'ecorce de saule au medicament moderne
-slug: l-aspirine-de-l-ecorce-de-saule-au-medicament-moderne
+title: Comment l'écorce du saule a-t-elle donné l'aspirine ?
+slug: comment-l-ecorce-du-saule-a-t-elle-donne-l-aspirine
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Un exemple emblematique de molecule naturelle purifiee puis synthetisee.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Depuis l'Antiquité, on soigne la fièvre et la douleur avec de l'écorce de saule. Au 19e
+  siècle, des chimistes en ont extrait la substance active puis l'ont modifiée pour la rendre
+  moins irritante. En 1899, l'entreprise Bayer a commercialisé ce nouveau médicament sous le
+  nom d'Aspirin.
+tags: [pharmacologie]
+sources:
+  - title: "Acide acétylsalicylique"
+    url: "https://fr.wikipedia.org/wiki/Acide_ac%C3%A9tylsalicylique"
+    publisher: "Wikipédia"
+  - title: "Aspirin"
+    url: "https://en.wikipedia.org/wiki/Aspirin"
+    publisher: "Wikipedia"
+quiz:
+  - question: "D'où vient le nom « salicylique » ?"
+    options:
+      - "Du mot latin salix, qui veut dire saule"
+      - "Du mot « salive »"
+      - "Du nom d'un chimiste"
+    answer: 1
+    explanation: >
+      L'acide salicylique doit son nom au saule, salix en latin, dont l'écorce contient la
+      substance de départ.
+  - question: "Quelle entreprise a commercialisé l'aspirine en 1899 ?"
+    options:
+      - "Pasteur"
+      - "Bayer"
+      - "Michelin"
+    answer: 2
+    explanation: >
+      La société allemande Bayer a enregistré la marque Aspirin en 1899 et l'a vendue dans
+      le monde entier.
+  - question: "Comment agit l'aspirine dans le corps ?"
+    options:
+      - "Elle tue les bactéries"
+      - "Elle remplace le sang"
+      - "Elle bloque une enzyme qui fabrique des messagers de la douleur et de la fièvre"
+    answer: 3
+    explanation: >
+      L'aspirine bloque l'enzyme COX. Le corps fabrique alors moins de prostaglandines,
+      qui transmettent la douleur et règlent la fièvre.
+  - question: "Pourquoi ne donne-t-on pas d'aspirine à un enfant qui a une infection virale ?"
+    options:
+      - "À cause du risque de syndrome de Reye, une maladie grave"
+      - "Parce qu'elle a mauvais goût"
+      - "Parce qu'elle fait grandir trop vite"
+    answer: 1
+    explanation: >
+      Chez l'enfant et l'adolescent, l'aspirine prise pendant une infection virale peut
+      provoquer le syndrome de Reye, rare mais grave.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Depuis l'Antiquité, on soigne la fièvre et la douleur avec de l'écorce de saule. Au 19e siècle, des chimistes en ont extrait la substance active puis l'ont modifiée pour la rendre moins irritante. En 1899, l'entreprise Bayer a commercialisé ce nouveau médicament sous le nom d'Aspirin.
+
+## Un remède très ancien
+
+Le saule est un arbre qui pousse souvent au bord de l'eau. Son écorce sert de remède depuis des millénaires. Des tablettes d'argile de l'ancienne Sumer mentionnent des remèdes à base de saule. Un papyrus égyptien d'environ 1550 avant notre ère, le papyrus Ebers, cite des préparations de feuilles de saule. Vers 400 avant notre ère, le médecin grec Hippocrate conseillait l'écorce de saule contre la douleur et la fièvre.
+
+## Des chimistes à la recherche de la substance active
+
+Au 19e siècle, les chimistes ont voulu isoler la substance qui agit. En 1828, l'Allemand Johann Andreas Buchner l'a extraite de l'écorce de saule. En 1829, le pharmacien français Pierre-Joseph Leroux en a obtenu des cristaux, qu'il a appelés salicyline, d'après salix, le nom latin du saule.
+
+Dans le corps, cette substance devient de l'acide salicylique. En 1839, on a aussi extrait de l'acide salicylique d'une autre plante, la reine-des-prés. L'acide salicylique soulageait bien, mais il irritait beaucoup l'estomac.
+
+## Une petite modification chimique
+
+En 1853, le chimiste français Charles Frédéric Gerhardt a fabriqué pour la première fois de l'acide acétylsalicylique. C'est de l'acide salicylique auquel on a accroché un petit groupe d'atomes, appelé acétyle.
+
+En 1897, les chercheurs de l'entreprise allemande Bayer ont étudié cette molécule comme remplaçant moins irritant. En 1899, Bayer l'a vendue dans le monde entier sous le nom d'Aspirin. Le « a » vient d'acétyle, et « spir » du nom allemand de la reine-des-prés.
+
+## Comment elle agit
+
+Pendant longtemps, on ne savait pas comment l'aspirine agissait. En 1971, le pharmacologue britannique John Vane l'a découvert. L'aspirine bloque une enzyme, la COX. Sans elle, le corps fabrique moins de prostaglandines. Ces messagers transmettent la douleur au cerveau, règlent le thermostat de la fièvre et participent à l'inflammation. Vane a reçu le prix Nobel de médecine en 1982.
+
+L'aspirine empêche aussi les plaquettes du sang de s'agglutiner. À petite dose, elle sert donc à prévenir certains caillots, après une crise cardiaque par exemple.
+
+## Un médicament à utiliser avec prudence
+
+On consomme environ 40 000 tonnes d'aspirine chaque année dans le monde. Elle figure sur la liste des médicaments essentiels de l'Organisation mondiale de la santé. Mais elle peut abîmer l'estomac et faire saigner. Et on ne la donne pas aux enfants qui ont une infection virale, à cause d'une maladie rare mais grave, le syndrome de Reye.
+
+## À retenir
+
+- L'écorce de saule soulage la douleur et la fièvre depuis l'Antiquité.
+- Au 19e siècle, les chimistes ont isolé sa substance active, qui devient de l'acide salicylique dans le corps.
+- L'acide acétylsalicylique, moins irritant, a été fabriqué en 1853 et vendu par Bayer sous le nom d'Aspirin en 1899.
+- L'aspirine bloque l'enzyme COX : le corps fabrique moins de messagers de la douleur, de la fièvre et de l'inflammation.
+- Elle peut irriter l'estomac et ne se donne pas aux enfants qui ont une infection virale.
 
 ---
 type: article

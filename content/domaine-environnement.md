@@ -2886,18 +2886,96 @@ status: planned
 
 ---
 type: article
-title: Les mangroves, un ecosysteme protecteur des cotes
-slug: les-mangroves-un-ecosysteme-protecteur-des-cotes
+title: Comment les mangroves protègent-elles les côtes des vagues ?
+slug: comment-les-mangroves-protegent-elles-les-cotes-des-vagues
 categoryPath: environnement-et-climat/biodiversite/ecosystemes
 summary: >
-  Une foret amphibie qui protege le littoral et abrite une biodiversite unique.
-tags: [ecosystemes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une mangrove est une forêt qui pousse dans l'eau salée, au bord des mers chaudes. Ses
+  arbres, les palétuviers, ont des racines en échasses qui cassent la force des vagues et
+  retiennent la vase. Elles abritent de nombreux poissons et crabes, et stockent du carbone.
+tags: [ecosystemes]
+sources:
+  - title: "Mangrove"
+    url: "https://fr.wikipedia.org/wiki/Mangrove"
+    publisher: "Wikipédia"
+  - title: "Mangrove"
+    url: "https://en.wikipedia.org/wiki/Mangrove"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment s'appellent les arbres typiques de la mangrove ?"
+    options:
+      - "Les palétuviers"
+      - "Les sapins"
+      - "Les baobabs"
+    answer: 1
+    explanation: >
+      Les palétuviers sont les arbres de la mangrove. Ils supportent l'eau salée.
+  - question: "À quoi servent les pneumatophores du palétuvier noir ?"
+    options:
+      - "À attraper des poissons"
+      - "À respirer, comme des pailles qui sortent de la vase"
+      - "À stocker du sel"
+    answer: 2
+    explanation: >
+      La vase manque d'oxygène. Les pneumatophores sortent du sol comme des pailles pour
+      prendre l'air.
+  - question: "Comment les mangroves protègent-elles les côtes ?"
+    options:
+      - "Elles font baisser la marée"
+      - "Elles attirent les nuages"
+      - "Leurs racines freinent les vagues et retiennent la vase"
+    answer: 3
+    explanation: >
+      L'enchevêtrement de racines ralentit l'eau, freine l'érosion et protège des tempêtes
+      et des tsunamis.
+  - question: "Quel pays possède la plus grande surface de mangroves au monde ?"
+    options:
+      - "La France"
+      - "L'Indonésie"
+      - "Le Canada"
+    answer: 2
+    explanation: >
+      L'Indonésie compte 3,4 millions d'hectares de mangroves, devant le Brésil et
+      l'Australie.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une mangrove est une forêt qui pousse dans l'eau salée, au bord des mers chaudes. Ses arbres, les palétuviers, ont des racines en échasses qui cassent la force des vagues et retiennent la vase. Elles abritent de nombreux poissons et crabes, et stockent du carbone.
+
+## Une forêt les pieds dans la mer
+
+La mangrove est une forêt qui pousse au bord des mers tropicales, là où la marée monte et descend. Ses arbres s'appellent les palétuviers. À chaque marée haute, la mer les inonde. En Guyane, certains palétuviers dépassent 30 mètres de haut.
+
+En 2010, les mangroves couvraient environ 137 600 kilomètres carrés, dans 118 pays et territoires. L'Indonésie en possède le plus, avec 3,4 millions d'hectares, devant le Brésil et l'Australie.
+
+## Des arbres qui supportent le sel
+
+L'eau de mer tue la plupart des plantes. Les palétuviers ont trouvé des parades. Le palétuvier rouge a des racines qui filtrent le sel : elles en retiennent 90 à 97 %. Le palétuvier blanc, lui, rejette le sel par de petites glandes sur ses feuilles, qui se couvrent de cristaux blancs.
+
+La vase de la mangrove contient très peu d'oxygène. Le palétuvier rouge se dresse au-dessus de l'eau sur des racines en échasses. Le palétuvier noir fait pousser des racines qui sortent de la vase vers le haut, comme des pailles : les pneumatophores. Elles lui permettent de respirer.
+
+## Un mur de racines contre les vagues
+
+L'enchevêtrement des racines forme une barrière naturelle. Quand une vague arrive, elle doit passer entre des milliers de racines. Elle perd une grande partie de sa force. Le courant ralenti dépose la vase au lieu de l'emporter. La côte s'use donc moins vite.
+
+Les mangroves protègent ainsi les terres de l'érosion, des fortes vagues des cyclones et même des tsunamis. Elles aident aussi la nature à se remettre plus vite après ces catastrophes.
+
+## Une nurserie et un réservoir de carbone
+
+Les racines immergées servent d'abri à de nombreux poissons, crabes, mollusques et crevettes. On y trouve aussi le périophtalme, un poisson qui sort de l'eau et se déplace sur la vase avec ses nageoires. Les mangroves fournissent de la nourriture aux populations côtières. Elles stockent aussi beaucoup de carbone dans leur bois et dans leur vase.
+
+Pourtant, elles reculent. Entre 1999 et 2019, le monde a perdu environ 3 700 kilomètres carrés de mangroves. Ce recul est dû surtout aux activités humaines.
+
+## À retenir
+
+- La mangrove est une forêt de palétuviers qui pousse dans l'eau salée des côtes tropicales.
+- Les palétuviers filtrent ou rejettent le sel et respirent grâce à des racines spéciales.
+- Leurs racines freinent les vagues, retiennent la vase et protègent les côtes de l'érosion.
+- Les mangroves abritent de nombreux poissons et crabes et stockent du carbone.
+- Entre 1999 et 2019, le monde a perdu environ 3 700 km² de mangroves.
 
 ---
 type: article
@@ -3066,18 +3144,97 @@ status: planned
 
 ---
 type: article
-title: Le role des vers de terre dans la fertilite des sols
-slug: le-role-des-vers-de-terre-dans-la-fertilite-des-sols
+title: Comment les vers de terre rendent-ils le sol fertile ?
+slug: comment-les-vers-de-terre-rendent-ils-le-sol-fertile
 categoryPath: environnement-et-climat/biodiversite/ecosystemes
 summary: >
-  Un travail discret mais essentiel a la sante des ecosystemes terrestres.
-tags: [ecosystemes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les vers de terre avalent de la terre et des débris de plantes, puis rejettent une terre
+  plus riche. Leurs galeries aèrent le sol et laissent entrer l'eau. Ils forment le groupe
+  d'animaux le plus lourd du sol.
+tags: [ecosystemes]
+sources:
+  - title: "Lumbricina"
+    url: "https://fr.wikipedia.org/wiki/Lumbricina"
+    publisher: "Wikipédia"
+  - title: "Earthworm"
+    url: "https://en.wikipedia.org/wiki/Earthworm"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment appelle-t-on les petits tas de terre que les vers rejettent à la surface ?"
+    options:
+      - "Des galets"
+      - "Des turricules"
+      - "Des racines"
+    answer: 2
+    explanation: >
+      Les turricules sont les déjections des vers de terre. Le mot veut dire « petites
+      tours ».
+  - question: "Que font les vers anéciques la nuit ?"
+    options:
+      - "Ils dorment au fond de la mer"
+      - "Ils remontent tirer des feuilles mortes dans leur terrier"
+      - "Ils grimpent aux arbres"
+    answer: 2
+    explanation: >
+      Les vers anéciques creusent des terriers verticaux. La nuit, ils remontent chercher
+      des feuilles mortes.
+  - question: "Comment les vers de terre respirent-ils ?"
+    options:
+      - "Avec des poumons"
+      - "Avec des branchies"
+      - "Par la peau"
+    answer: 3
+    explanation: >
+      Les vers de terre n'ont pas de poumons. Ils respirent à travers leur peau, qui doit
+      rester humide.
+  - question: "Quel savant a écrit dès 1881 que les vers de terre avaient joué un rôle immense dans l'histoire du monde ?"
+    options:
+      - "Charles Darwin"
+      - "Louis Pasteur"
+      - "Isaac Newton"
+    answer: 1
+    explanation: >
+      Charles Darwin a étudié les vers de terre pendant des années et leur a consacré un
+      livre en 1881.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les vers de terre avalent de la terre et des débris de plantes, puis rejettent une terre plus riche. Leurs galeries aèrent le sol et laissent entrer l'eau. Ils forment le groupe d'animaux le plus lourd du sol.
+
+## Des milliers d'espèces sous nos pieds
+
+On connaît plus de 7 000 espèces de vers de terre dans le monde. En France métropolitaine, il en existe plus d'une centaine. Dans un même sol, 4 à 15 espèces vivent ensemble. Un ver de terre n'a pas de poumons. Il respire par la peau, qui doit rester humide. Son corps est fait d'anneaux, avec de petites soies qui l'aident à avancer.
+
+Dans une prairie, on trouve en général de 50 à 400 vers par mètre carré. Ils pèsent 1 à 3 tonnes par hectare. En Europe, c'est la plus grande masse d'animaux du sol, l'équivalent de six ou sept vaches par hectare.
+
+## Trois façons de vivre
+
+Les vers épigés vivent en surface, dans les feuilles mortes et le compost. Les vers endogés vivent dans la terre et creusent des galeries horizontales en mangeant la terre. Les vers anéciques, souvent grands, creusent des terriers verticaux jusqu'à un ou deux mètres de profondeur. La nuit, ils remontent attraper des feuilles mortes et les tirent dans leur terrier.
+
+## Une usine à engrais
+
+Les vers avalent de la terre et des débris de plantes. Dans leur tube digestif, ils mélangent la matière morte et les minéraux. Ils rejettent ensuite des déjections appelées turricules, ce qui veut dire « petites tours ». Ces turricules peuvent contenir 40 % d'humus de plus que la terre autour. L'humus est la matière sombre qui nourrit les plantes.
+
+Selon les sols, les vers rejettent entre 40 et 600 tonnes de turricules par hectare et par an. Dans un champ, toute la terre retournée par une charrue passe au moins une fois dans leur tube digestif en moins de cinq ans.
+
+## Des galeries qui aèrent et drainent
+
+En creusant, les vers mélangent le sol et y font entrer l'air. Leurs galeries verticales laissent l'eau s'infiltrer. Après de fortes pluies, un sol qui contient des vers reste moins longtemps gorgé d'eau.
+
+Les vers sont pourtant fragiles. Le labour et les pesticides réduisent leur nombre. Dans certains champs, on est passé de 2 tonnes de vers par hectare en 1950 à 200 kilos ou moins au début du XXIe siècle.
+
+En 1881, le naturaliste anglais Charles Darwin écrivait déjà que peu d'animaux avaient joué un rôle aussi important dans l'histoire du monde.
+
+## À retenir
+
+- On connaît plus de 7 000 espèces de vers de terre, dont plus d'une centaine en France.
+- Les vers de terre sont la plus grande masse d'animaux du sol : 1 à 3 tonnes par hectare de prairie.
+- Ils mélangent terre et débris de plantes et rejettent des turricules riches en humus.
+- Leurs galeries aèrent le sol et laissent l'eau s'infiltrer.
+- Le labour et les pesticides font fortement diminuer leur nombre.
 
 ---
 type: article
@@ -3726,18 +3883,97 @@ status: planned
 
 ---
 type: article
-title: La lutte contre les feux de foret
-slug: la-lutte-contre-les-feux-de-foret
+title: Comment lutte-t-on contre un feu de forêt ?
+slug: comment-lutte-t-on-contre-un-feu-de-foret
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Des methodes de prevention et d'intervention adaptees a differents types de terrain.
-tags: [forets-et-oceans, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un feu a besoin de combustible, d'oxygène et de chaleur. Les pompiers cherchent à lui
+  retirer au moins un de ces trois éléments. Ils encerclent le feu par les côtés, l'arrosent
+  depuis le sol et depuis des avions, et coupent la végétation sur son chemin.
+tags: [forets-et-oceans]
+sources:
+  - title: "Feu de forêt"
+    url: "https://fr.wikipedia.org/wiki/Feu_de_for%C3%AAt"
+    publisher: "Wikipédia"
+  - title: "Triangle du feu"
+    url: "https://fr.wikipedia.org/wiki/Triangle_du_feu"
+    publisher: "Wikipédia"
+  - title: "Canadair CL-415"
+    url: "https://fr.wikipedia.org/wiki/Canadair_CL-415"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quels sont les trois éléments du triangle du feu ?"
+    options:
+      - "Le vent, la pluie et le soleil"
+      - "Un combustible, de l'oxygène et de la chaleur"
+      - "Le bois, l'eau et le sable"
+    answer: 2
+    explanation: >
+      Sans combustible, sans oxygène ou sans énergie pour l'allumer, le feu s'arrête.
+  - question: "En combien de temps un Canadair CL-415 remplit-il ses réservoirs sur un lac ?"
+    options:
+      - "9 à 12 secondes"
+      - "Une heure"
+      - "Une journée"
+    answer: 1
+    explanation: >
+      En rasant l'eau, il ouvre des écopes sous son ventre et remplit ses réservoirs en 9
+      à 12 secondes.
+  - question: "À quoi sert le produit rouge largué par certains avions ?"
+    options:
+      - "À indiquer où atterrir"
+      - "À éteindre les braises en dessous"
+      - "À ralentir le feu sur la végétation qui n'a pas encore brûlé"
+    answer: 3
+    explanation: >
+      Ce retardant couvre la végétation devant le feu. La combustion dégage moins
+      d'énergie et avance moins vite.
+  - question: "Sur quelle distance faut-il débroussailler autour des maisons en France ?"
+    options:
+      - "5 mètres"
+      - "50 mètres"
+      - "5 kilomètres"
+    answer: 2
+    explanation: >
+      En France, débroussailler est obligatoire sur 50 mètres autour des maisons dans les
+      zones à risque.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un feu a besoin de combustible, d'oxygène et de chaleur. Les pompiers cherchent à lui retirer au moins un de ces trois éléments. Ils encerclent le feu par les côtés, l'arrosent depuis le sol et depuis des avions, et coupent la végétation sur son chemin.
+
+## Le triangle du feu
+
+Pour brûler, un feu a besoin de trois choses : un combustible, comme le bois ou les herbes sèches ; de l'oxygène, dans l'air ; et une source de chaleur pour démarrer. On l'appelle le triangle du feu. Si on retire un seul de ces éléments, le feu s'arrête.
+
+Pendant une longue sécheresse, les plantes manquent d'eau. Elles deviennent très sèches et donc très inflammables. Le feu avance alors par les broussailles au sol, par la cime des arbres, ou par des débris enflammés emportés par le vent. Ces débris peuvent sauter par-dessus une route et allumer un nouveau feu plus loin.
+
+## Attaquer par les côtés
+
+On ne peut pas éteindre un grand feu de forêt d'un seul coup avec de l'eau. Les pompiers attaquent plutôt les flancs gauche et droit du feu. Ils resserrent ainsi sa tête et canalisent sa progression.
+
+Dans les airs, des avions et des hélicoptères bombardiers d'eau les aident. Le Canadair CL-415 transporte 6 137 litres d'eau. Pour se remplir, il rase la surface d'un lac ou de la mer et ouvre de petites écopes sous son ventre. Il lui faut 9 à 12 secondes. En France, on le surnomme le « Pélican ».
+
+Les avions larguent parfois un produit rouge, le retardant, sur la végétation devant le feu. Il rend la combustion moins forte, donc le feu avance moins vite. On ajoute aussi à l'eau un produit qui agit comme du savon : l'eau mouille mieux les feuilles.
+
+## Priver le feu de combustible
+
+Une autre stratégie consiste à retirer le combustible sur le chemin des flammes. On creuse en urgence des bandes sans végétation au bulldozer. Dans certains pays, comme les États-Unis, on allume un contre-feu : on brûle volontairement une zone devant le feu. Quand il arrive, il n'a plus rien à brûler. Cette méthode est risquée, car le contre-feu peut échapper au contrôle.
+
+## Prévenir avant que ça brûle
+
+La plupart des départs de feu sont d'origine humaine : mégots jetés, accidents, brûlage de déchets, actes volontaires. En France, il est interdit en été de faire du feu en forêt et à moins de 200 mètres des bois dans les zones à risque. Débroussailler est obligatoire sur 50 mètres autour des maisons. Des tours de guet, des patrouilles et Météo-France surveillent les jours de temps sec et venteux, quand le risque est le plus fort.
+
+## À retenir
+
+- Un feu a besoin d'un combustible, d'oxygène et de chaleur : c'est le triangle du feu.
+- Les pompiers attaquent les côtés du feu pour resserrer sa tête et le canaliser.
+- Le Canadair CL-415 emporte 6 137 litres d'eau et remplit ses réservoirs en 9 à 12 secondes.
+- Le retardant rouge et les bandes sans végétation privent le feu de combustible.
+- La plupart des feux sont d'origine humaine ; en France, il faut débroussailler 50 m autour des maisons.
 
 ---
 type: article
@@ -4311,18 +4547,103 @@ status: planned
 
 ---
 type: article
-title: Le trou dans la couche d'ozone, un probleme distinct du climat
-slug: le-trou-dans-la-couche-d-ozone-un-probleme-distinct-du-climat
+title: Pourquoi un trou s'est-il formé dans la couche d'ozone ?
+slug: pourquoi-un-trou-s-est-il-forme-dans-la-couche-d-ozone
 categoryPath: environnement-et-climat/changement-climatique/gaz-a-effet-de-serre
 summary: >
-  Une confusion frequente entre deux phenomenes atmospheriques differents.
-tags: [gaz-a-effet-de-serre, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La couche d'ozone, très haut dans le ciel, nous protège des rayons ultraviolets du Soleil.
+  Des gaz fabriqués par les humains, les CFC, l'ont abîmée, surtout au-dessus de
+  l'Antarctique. Depuis le protocole de Montréal de 1987, ces gaz sont interdits et la couche
+  se répare lentement.
+tags: [gaz-a-effet-de-serre]
+sources:
+  - title: "Destruction de la couche d'ozone"
+    url: "https://fr.wikipedia.org/wiki/Destruction_de_la_couche_d%27ozone"
+    publisher: "Wikipédia"
+  - title: "Ozone depletion"
+    url: "https://en.wikipedia.org/wiki/Ozone_depletion"
+    publisher: "Wikipedia"
+  - title: "Protocole de Montréal"
+    url: "https://fr.wikipedia.org/wiki/Protocole_de_Montr%C3%A9al"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Contre quoi la couche d'ozone nous protège-t-elle ?"
+    options:
+      - "Contre les météorites"
+      - "Contre une partie des rayons ultraviolets du Soleil"
+      - "Contre le froid de l'espace"
+    answer: 2
+    explanation: >
+      La couche d'ozone arrête une partie des rayons ultraviolets dangereux, qui peuvent
+      provoquer des cancers de la peau.
+  - question: "Combien de molécules d'ozone un seul atome de chlore peut-il détruire en moyenne ?"
+    options:
+      - "Environ 100 000"
+      - "Une seule"
+      - "Environ 10"
+    answer: 1
+    explanation: >
+      L'atome de chlore n'est pas détruit par la réaction. Il recommence encore et encore,
+      environ 100 000 fois.
+  - question: "En quelle année le trou au-dessus de l'Antarctique a-t-il été annoncé ?"
+    options:
+      - "1945"
+      - "2010"
+      - "1985"
+    answer: 3
+    explanation: >
+      Des scientifiques britanniques ont publié leur découverte en mai 1985 dans la revue
+      Nature.
+  - question: "Quand la couche d'ozone devrait-elle retrouver son état de 1980 au-dessus de l'Antarctique ?"
+    options:
+      - "Elle est déjà réparée depuis 1990"
+      - "Vers 2066"
+      - "Jamais"
+    answer: 2
+    explanation: >
+      Selon une évaluation des Nations unies de 2023, l'Antarctique devrait retrouver son
+      niveau de 1980 vers 2066.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La couche d'ozone, très haut dans le ciel, nous protège des rayons ultraviolets du Soleil. Des gaz fabriqués par les humains, les CFC, l'ont abîmée, surtout au-dessus de l'Antarctique. Depuis le protocole de Montréal de 1987, ces gaz sont interdits et la couche se répare lentement.
+
+## Un bouclier invisible
+
+Très haut dans le ciel, dans la stratosphère, l'air contient un gaz appelé ozone. Une molécule d'ozone est faite de trois atomes d'oxygène. Cette couche arrête une partie des rayons ultraviolets du Soleil, ou UV. Ces rayons invisibles peuvent abîmer la peau et provoquer des cancers.
+
+## Les CFC, des gaz trop solides
+
+Au XXe siècle, l'industrie a fabriqué des gaz appelés CFC. On les utilisait dans les réfrigérateurs, les bombes aérosols et certaines mousses. Ils semblaient sans danger, car ils réagissent très peu.
+
+Justement, comme ils sont très stables, les CFC ne se détruisent pas près du sol. Ils montent lentement jusqu'à la couche d'ozone. Là-haut, au-dessus de 25 kilomètres, les UV les cassent et libèrent des atomes de chlore. Un atome de chlore arrache un atome d'oxygène à une molécule d'ozone et la détruit. Puis il se libère et recommence. En moyenne, un seul atome de chlore détruit environ 100 000 molécules d'ozone.
+
+En 1974, les chimistes Mario Molina et Frank Sherwood Rowland ont prévu ce danger. Ils ont reçu le prix Nobel de chimie en 1995, avec Paul Crutzen.
+
+## Pourquoi au-dessus de l'Antarctique ?
+
+En mai 1985, des scientifiques britanniques, Farman, Gardiner et Shanklin, publient une découverte inquiétante. Au printemps de l'Antarctique, l'ozone baisse énormément. On parle de trou dans la couche d'ozone. La baisse peut atteindre 70 %.
+
+L'hiver, il fait extrêmement froid au-dessus du pôle Sud. Des nuages se forment très haut dans le ciel. Sur ces nuages, des réactions chimiques préparent le chlore. Quand le Soleil revient au printemps, le chlore détruit l'ozone très vite. En septembre 2023, le trou mesurait 26 millions de kilomètres carrés, l'un des plus grands jamais observés.
+
+## Un accord qui a marché
+
+Le 16 septembre 1987, 24 pays et la Communauté européenne signent le protocole de Montréal. Ce traité interdit peu à peu les CFC et les autres gaz qui détruisent l'ozone. C'est le premier traité des Nations unies ratifié par tous les pays du monde.
+
+La quantité d'ozone s'est stabilisée vers le milieu des années 1990. Selon une évaluation des Nations unies de 2023, la couche devrait retrouver son état de 1980 vers 2040 pour la plus grande partie du monde, vers 2045 au-dessus de l'Arctique et vers 2066 au-dessus de l'Antarctique.
+
+Attention : le trou dans la couche d'ozone n'est pas la cause du réchauffement climatique. Ce sont deux problèmes différents.
+
+## À retenir
+
+- La couche d'ozone arrête une partie des rayons ultraviolets du Soleil.
+- Les CFC libèrent du chlore en haute altitude ; un atome de chlore détruit environ 100 000 molécules d'ozone.
+- Le trou au-dessus de l'Antarctique a été annoncé en 1985 et se creuse surtout au printemps austral.
+- Le protocole de Montréal, signé en 1987, a interdit les CFC ; tous les pays du monde l'ont ratifié.
+- La couche d'ozone devrait retrouver son état de 1980 vers 2066 au-dessus de l'Antarctique.
 
 ---
 type: article
@@ -4626,18 +4947,99 @@ status: planned
 
 ---
 type: article
-title: La vegetalisation urbaine comme strategie d'adaptation
-slug: la-vegetalisation-urbaine-comme-strategie-d-adaptation
+title: Comment les arbres rafraîchissent-ils une ville en été ?
+slug: comment-les-arbres-rafraichissent-ils-une-ville-en-ete
 categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
 summary: >
-  Comment planter des arbres en ville reduit concretement la temperature ressentie.
-tags: [impacts-et-adaptation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En été, une ville est souvent plus chaude que la campagne : c'est l'îlot de chaleur urbain.
+  Les arbres la rafraîchissent de deux façons. Ils font de l'ombre et ils rejettent de l'eau
+  par leurs feuilles, ce qui refroidit l'air.
+tags: [impacts-et-adaptation]
+sources:
+  - title: "Îlot de chaleur urbain"
+    url: "https://fr.wikipedia.org/wiki/%C3%8Elot_de_chaleur_urbain"
+    publisher: "Wikipédia"
+  - title: "Urban heat island"
+    url: "https://en.wikipedia.org/wiki/Urban_heat_island"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment appelle-t-on le fait qu'une ville soit plus chaude que la campagne autour ?"
+    options:
+      - "Un îlot de chaleur urbain"
+      - "Une vague de froid"
+      - "Un effet papillon"
+    answer: 1
+    explanation: >
+      L'îlot de chaleur urbain désigne la chaleur plus forte d'une ville par rapport à la
+      campagne voisine.
+  - question: "Par quel moyen principal les arbres rafraîchissent-ils l'air ?"
+    options:
+      - "En aspirant le vent"
+      - "En rejetant de l'eau par leurs feuilles, qui s'évapore"
+      - "En renvoyant le froid du sol"
+    answer: 2
+    explanation: >
+      Les arbres puisent l'eau du sol et la rejettent par leurs feuilles. En s'évaporant,
+      cette eau prend de la chaleur à l'air.
+  - question: "Pourquoi le goudron et le béton réchauffent-ils la ville ?"
+    options:
+      - "Parce qu'ils produisent de l'électricité"
+      - "Parce qu'ils attirent les nuages"
+      - "Parce qu'ils absorbent la chaleur du Soleil et la rendent la nuit"
+    answer: 3
+    explanation: >
+      Les surfaces sombres absorbent beaucoup d'énergie le jour, puis la rendent lentement
+      la nuit.
+  - question: "Quand la différence de température entre ville et campagne est-elle souvent la plus forte ?"
+    options:
+      - "La nuit"
+      - "À midi pile"
+      - "Elle ne change jamais"
+    answer: 1
+    explanation: >
+      La nuit, les matériaux de la ville rendent la chaleur stockée. La campagne, elle, se
+      refroidit plus vite.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En été, une ville est souvent plus chaude que la campagne : c'est l'îlot de chaleur urbain. Les arbres la rafraîchissent de deux façons. Ils font de l'ombre et ils rejettent de l'eau par leurs feuilles, ce qui refroidit l'air.
+
+## Une bulle de chaleur sur la ville
+
+En été, il fait souvent plus chaud en ville qu'à la campagne. On appelle cela l'îlot de chaleur urbain. Ce phénomène a été décrit dès 1818-1820 par l'Anglais Luke Howard, à Londres. Il avait mesuré, la nuit, 3,7 °C de plus en ville qu'à la campagne.
+
+Aux États-Unis, les villes sont en général plus chaudes que leurs environs de 0,5 à 3,9 °C le jour, et de 1,1 à 2,8 °C la nuit.
+
+## Pourquoi la ville chauffe
+
+Le goudron, le béton et les toits sombres absorbent beaucoup d'énergie solaire. Ils se comportent comme des capteurs. Le jour, ils stockent la chaleur. La nuit, ils la rendent lentement à l'air. La ville a donc du mal à se rafraîchir.
+
+Les bâtiments freinent aussi le vent, qui pourrait emporter la chaleur. Les voitures, les climatiseurs et les usines rejettent de l'air chaud. Enfin, il y a peu de plantes en ville. Or les plantes sont de très bons climatiseurs naturels.
+
+## Les deux astuces des arbres
+
+Un arbre rafraîchit de deux façons. D'abord, il fait de l'ombre. Le sol et les murs à l'ombre chauffent beaucoup moins au soleil.
+
+Ensuite, l'arbre transpire. Ses racines puisent l'eau du sol et ses feuilles la rejettent dans l'air sous forme de vapeur. C'est l'évapotranspiration. Pour s'évaporer, l'eau prend de la chaleur à l'air autour, comme la sueur qui rafraîchit notre peau. C'est cet effet qui rafraîchit le plus. Il ne marche que si l'arbre a assez d'eau.
+
+## Végétaliser pour mieux vivre
+
+Les villes plantent donc des arbres, créent des parcs, des toits et des murs couverts de plantes. Elles utilisent aussi des surfaces claires, qui renvoient la lumière.
+
+À Paris, des calculs de Météo-France montrent l'intérêt de ces actions. Végétaliser les sols nus et couvrir d'arbres la moitié des rues de plus de 15 mètres de large ferait baisser la température de la journée de 3 à 5 °C, tant que les plantes ne manquent pas d'eau. Un jardin de pluie de 100 m², qui recueille l'eau des toits et des trottoirs, abaisse d'environ un degré la température sur cent mètres autour.
+
+C'est important pour la santé. En 2003, une canicule a causé environ 15 000 morts de plus que d'habitude en France.
+
+## À retenir
+
+- Une ville est souvent plus chaude que la campagne : c'est l'îlot de chaleur urbain.
+- Le goudron et le béton stockent la chaleur le jour et la rendent la nuit.
+- Les arbres rafraîchissent par leur ombre et surtout en rejetant de l'eau par leurs feuilles.
+- À Paris, beaucoup plus d'arbres pourraient faire baisser la température de 3 à 5 °C en journée.
+- La canicule de 2003 a causé environ 15 000 morts de plus que d'habitude en France.
 
 ---
 type: article
@@ -5091,18 +5493,95 @@ status: planned
 
 ---
 type: article
-title: La difference entre meteo et climat
-slug: la-difference-entre-meteo-et-climat
+title: Pourquoi la météo et le climat ne sont-ils pas la même chose ?
+slug: pourquoi-la-meteo-et-le-climat-ne-sont-ils-pas-la-meme-chose
 categoryPath: environnement-et-climat/changement-climatique/scenarios
 summary: >
-  Une confusion frequente entre deux echelles de temps totalement differentes.
-tags: [scenarios, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La météo, c'est le temps qu'il fait aujourd'hui ou dans les prochains jours. Le climat,
+  c'est le temps moyen d'une région, calculé sur au moins 30 ans. Une journée froide ne dit
+  donc rien, seule, sur l'évolution du climat.
+tags: [scenarios]
+sources:
+  - title: "Climat"
+    url: "https://fr.wikipedia.org/wiki/Climat"
+    publisher: "Wikipédia"
+  - title: "Normale climatique"
+    url: "https://fr.wikipedia.org/wiki/Normale_climatique"
+    publisher: "Wikipédia"
+  - title: "Prévision météorologique"
+    url: "https://fr.wikipedia.org/wiki/Pr%C3%A9vision_m%C3%A9t%C3%A9orologique"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Sur combien d'années calcule-t-on en général le climat d'un lieu ?"
+    options:
+      - "1 an"
+      - "30 ans"
+      - "1 000 ans"
+    answer: 2
+    explanation: >
+      Par convention, les météorologues calculent le climat sur une période de 30 ans.
+  - question: "Jusqu'à combien de jours les modèles météo calculent-ils l'évolution de l'atmosphère ?"
+    options:
+      - "Jusqu'à environ 10 jours"
+      - "Jusqu'à 10 ans"
+      - "Seulement pour une heure"
+    answer: 1
+    explanation: >
+      Les programmes de prévision calculent l'évolution de l'atmosphère pour des périodes
+      allant jusqu'à 10 jours.
+  - question: "Pourquoi une prévision météo devient-elle moins sûre à long terme ?"
+    options:
+      - "Parce que les ordinateurs se fatiguent"
+      - "Parce que le Soleil change de couleur"
+      - "Parce que de petites erreurs au départ grossissent avec le temps"
+    answer: 3
+    explanation: >
+      L'atmosphère est un système chaotique. Une toute petite différence au départ peut
+      donner un résultat très différent plusieurs jours après.
+  - question: "Quelle période sert de référence pour les normales climatiques actuelles de Météo-France ?"
+    options:
+      - "1800-1830"
+      - "1991-2020"
+      - "2020-2050"
+    answer: 2
+    explanation: >
+      En 2021, Météo-France a produit de nouvelles normales calculées sur la période
+      1991-2020.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La météo, c'est le temps qu'il fait aujourd'hui ou dans les prochains jours. Le climat, c'est le temps moyen d'une région, calculé sur au moins 30 ans. Une journée froide ne dit donc rien, seule, sur l'évolution du climat.
+
+## La météo, le temps de tous les jours
+
+La météo décrit le temps qu'il fait à un endroit et à un moment précis. Il pleut ce matin, il fera 25 °C demain après-midi, le vent soufflera fort ce soir. La météorologie étudie l'atmosphère à court terme, sur des heures ou des jours.
+
+Pour prévoir la météo, on mesure la pression, la température, l'humidité, le vent et les nuages, au sol et en altitude. De puissants ordinateurs calculent ensuite comment l'atmosphère va évoluer, pour des périodes allant jusqu'à 10 jours.
+
+## Pourquoi on ne peut pas prévoir le temps des mois à l'avance
+
+L'atmosphère est un système chaotique. Une toute petite différence au départ peut grossir et changer complètement le résultat quelques jours plus tard. Les mesures ne sont jamais parfaites, donc les prévisions deviennent moins sûres avec le temps. Elles s'améliorent pourtant : en 2016, les prévisions à cinq jours étaient aussi fiables que les prévisions à trois jours vingt ans plus tôt.
+
+## Le climat, le temps moyen sur 30 ans
+
+Le climat décrit le temps habituel d'une région. Pour le calculer, on rassemble les mesures de température, de pluie ou de vent pendant une longue période. Par convention, cette période dure 30 ans. On calcule les moyennes, mais aussi les records et les écarts d'une année à l'autre.
+
+Ces moyennes s'appellent des normales climatiques. On utilise 30 ans depuis 1935, avec la période 1901-1930. Trente ans, c'est assez long pour effacer les années exceptionnelles, et assez court pour voir les tendances. En France, Météo-France a calculé en 2021 les normales de la période 1991-2020.
+
+## Pourquoi c'est important de ne pas confondre
+
+Une journée glaciale en hiver ne prouve pas que le climat se refroidit. Une journée très chaude ne prouve pas non plus, seule, qu'il se réchauffe. Pour parler du climat, il faut comparer des moyennes sur des dizaines d'années. C'est en comparant ces longues séries de mesures que les scientifiques ont montré que le climat de la Terre se réchauffe.
+
+## À retenir
+
+- La météo décrit le temps qu'il fait sur quelques heures ou quelques jours.
+- Le climat est le temps moyen d'une région, calculé par convention sur 30 ans.
+- L'atmosphère est chaotique : les prévisions météo deviennent moins sûres au-delà de quelques jours.
+- Les normales climatiques actuelles de Météo-France portent sur la période 1991-2020.
+- Une seule journée froide ou chaude ne suffit pas à dire comment le climat évolue.
 
 ---
 type: article
@@ -5436,18 +5915,94 @@ status: planned
 
 ---
 type: article
-title: Le recyclage du papier et du carton
-slug: le-recyclage-du-papier-et-du-carton
+title: Comment un vieux journal redevient-il du papier neuf ?
+slug: comment-un-vieux-journal-redevient-il-du-papier-neuf
 categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
 summary: >
-  Un processus relativement simple qui permet une reutilisation efficace de la matiere.
-tags: [dechets-et-recyclage, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le papier est fait de fibres végétales. Pour le recycler, on le mélange à de l'eau pour
+  obtenir une bouillie, on enlève l'encre avec des bulles d'air, puis on refait des feuilles.
+  Les fibres raccourcissent à chaque fois et ne supportent que 4 à 6 recyclages.
+tags: [dechets-et-recyclage]
+sources:
+  - title: "Paper recycling"
+    url: "https://en.wikipedia.org/wiki/Paper_recycling"
+    publisher: "Wikipedia"
+  - title: "Deinking"
+    url: "https://en.wikipedia.org/wiki/Deinking"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment appelle-t-on l'étape où l'on retire l'encre du vieux papier ?"
+    options:
+      - "Le désencrage"
+      - "Le pressage"
+      - "Le séchage"
+    answer: 1
+    explanation: >
+      Le désencrage enlève l'encre des fibres pour obtenir une pâte propre.
+  - question: "Que font les bulles d'air dans la cuve de désencrage ?"
+    options:
+      - "Elles font sécher la pâte"
+      - "Elles emportent l'encre à la surface"
+      - "Elles colorent le papier"
+    answer: 2
+    explanation: >
+      L'encre s'accroche aux bulles, qui remontent et forment une mousse que l'on retire.
+  - question: "Combien de fois environ une fibre de papier peut-elle être recyclée ?"
+    options:
+      - "Une seule fois"
+      - "À l'infini"
+      - "4 à 6 fois"
+    answer: 3
+    explanation: >
+      À chaque recyclage, les fibres raccourcissent. Après 4 à 6 cycles, elles deviennent
+      trop courtes.
+  - question: "Quelle part du papier était recyclée en Europe en 2023 ?"
+    options:
+      - "Environ 79 %"
+      - "Environ 10 %"
+      - "100 %"
+    answer: 1
+    explanation: >
+      En 2023, le taux de recyclage du papier en Europe a atteint 79,3 %.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le papier est fait de fibres végétales. Pour le recycler, on le mélange à de l'eau pour obtenir une bouillie, on enlève l'encre avec des bulles d'air, puis on refait des feuilles. Les fibres raccourcissent à chaque fois et ne supportent que 4 à 6 recyclages.
+
+## Une feuille faite de fibres
+
+Une feuille de papier est un enchevêtrement de minuscules fibres végétales, surtout de la cellulose. Ces fibres viennent en général du bois. Comme elles ne sont pas détruites quand on utilise le papier, on peut les récupérer pour fabriquer de nouvelles feuilles.
+
+## De la bouillie au papier propre
+
+À l'usine, on mélange les vieux papiers avec de l'eau et des produits chimiques. On les découpe et on les chauffe. Les feuilles se défont en fibres. On obtient une sorte de bouillie appelée pâte à papier.
+
+On retire d'abord les agrafes, les morceaux de plastique et la colle. Puis vient le désencrage : on enlève l'encre. L'encre pèse jusqu'à environ 2 % du poids des vieux papiers. En Europe, la méthode la plus courante est la flottation. On chauffe la pâte entre 45 et 55 °C et on y souffle de l'air. Un produit proche du savon fait coller l'encre aux bulles. Les bulles remontent et forment une mousse grise que l'on retire.
+
+La pâte propre est ensuite parfois blanchie, puis étalée en couche fine, pressée et séchée. On obtient du papier neuf, du carton, du papier toilette ou des boîtes à œufs.
+
+## Pas à l'infini
+
+À chaque recyclage, les fibres s'abîment et raccourcissent. Après 4 à 6 recyclages, elles sont trop courtes et trop faibles pour faire du papier. Les usines ajoutent donc des fibres neuves, venues du bois, à la pâte recyclée.
+
+La méthode pour retirer l'encre a été inventée en 1774 par l'Allemand Justus Claproth. La flottation est utilisée pour le papier depuis les années 1950.
+
+## Pourquoi recycler le papier ?
+
+Recycler le papier demande moins d'énergie que d'en fabriquer à partir du bois. Les estimations varient beaucoup selon les sources, de 40 % à 70 % d'économie. Aux États-Unis, l'agence de l'environnement a calculé que le papier recyclé pollue l'eau 35 % de moins et l'air 74 % de moins que le papier neuf. Le carbone contenu dans les fibres reste aussi stocké plus longtemps au lieu de partir dans l'air.
+
+L'Europe recycle beaucoup. En 2023, son taux de recyclage du papier a atteint 79,3 %. Pour que cela marche, il faut trier : un papier sale ou mouillé, comme un mouchoir usagé, ne se recycle pas.
+
+## À retenir
+
+- Le papier est fait de fibres végétales que l'on peut récupérer pour faire de nouvelles feuilles.
+- Les vieux papiers sont mélangés à de l'eau pour former une pâte à papier.
+- Le désencrage par flottation retire l'encre grâce à des bulles d'air.
+- Les fibres raccourcissent à chaque cycle et ne supportent que 4 à 6 recyclages.
+- En 2023, l'Europe a recyclé 79,3 % de son papier.
 
 ---
 type: article
@@ -5496,18 +6051,96 @@ status: planned
 
 ---
 type: article
-title: Le compostage domestique, methode et benefices
-slug: le-compostage-domestique-methode-et-benefices
+title: Comment des épluchures se transforment-elles en compost ?
+slug: comment-des-epluchures-se-transforment-elles-en-compost
 categoryPath: environnement-et-climat/pollution-et-ressources/dechets-et-recyclage
 summary: >
-  Une technique accessible qui transforme des dechets organiques en ressource utile.
-tags: [dechets-et-recyclage, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans un composteur, des milliards de bactéries, des champignons et des petits animaux
+  mangent les restes de cuisine et de jardin. En quelques mois, ils les changent en compost,
+  une terre sombre et riche. Ce compost nourrit les plantes et allège nos poubelles.
+tags: [dechets-et-recyclage]
+sources:
+  - title: "Compostage (biologie)"
+    url: "https://fr.wikipedia.org/wiki/Compostage_(biologie)"
+    publisher: "Wikipédia"
+  - title: "Compost"
+    url: "https://en.wikipedia.org/wiki/Compost"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de bactéries compte-t-on dans une poignée de compost ?"
+    options:
+      - "Une centaine"
+      - "5 à 7 milliards"
+      - "Aucune"
+    answer: 2
+    explanation: >
+      Une seule poignée de compost contient 5 à 7 milliards de bactéries. Ce sont elles
+      qui commencent le travail.
+  - question: "Pourquoi le cœur d'un tas de compost devient-il chaud ?"
+    options:
+      - "Parce que les micro-organismes respirent et dégagent de la chaleur"
+      - "Parce qu'on y met des cailloux chauds"
+      - "Parce que le soleil le chauffe la nuit"
+    answer: 1
+    explanation: >
+      En mangeant les déchets, les micro-organismes dégagent de la chaleur. Le cœur du tas
+      peut atteindre 60 à 70 °C.
+  - question: "Pourquoi faut-il mélanger des matières sèches et des matières humides ?"
+    options:
+      - "Pour que le compost soit plus lourd"
+      - "Pour attirer les rongeurs"
+      - "Pour équilibrer le carbone et l'azote"
+    answer: 3
+    explanation: >
+      Les matières brunes apportent du carbone, les épluchures apportent de l'azote. Le
+      mélange évite aussi les mauvaises odeurs.
+  - question: "Comment reconnaît-on un compost mûr ?"
+    options:
+      - "Il sent l'œuf pourri"
+      - "Il ressemble à du terreau sombre qui sent le sous-bois"
+      - "On y voit encore les épluchures"
+    answer: 2
+    explanation: >
+      Un compost mûr est sombre et léger. On n'y reconnaît plus les déchets de départ.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un composteur, des milliards de bactéries, des champignons et des petits animaux mangent les restes de cuisine et de jardin. En quelques mois, ils les changent en compost, une terre sombre et riche. Ce compost nourrit les plantes et allège nos poubelles.
+
+## Un festin pour les êtres vivants
+
+Le compostage est une transformation naturelle. Des bactéries, des champignons et des petits animaux du sol mangent les restes de cuisine et de jardin. Ils ont besoin d'oxygène et d'humidité pour travailler. Une seule poignée de compost contient 5 à 7 milliards de bactéries. Les champignons s'attaquent aux matières plus dures que les bactéries ne savent pas manger.
+
+## Le bon mélange
+
+Un bon compost mélange deux sortes de déchets. Les matières vertes et humides, comme les épluchures ou l'herbe tondue, sont riches en azote. Les matières brunes et sèches, comme les feuilles mortes ou les petites branches broyées, sont riches en carbone. Le mélange idéal contient environ 25 fois plus de carbone que d'azote.
+
+Trop de matières vertes tassées empêchent l'air de passer. Le compost se met alors à sentir mauvais. Il faut donc alterner les couches et remuer de temps en temps. Pour vérifier l'humidité, on serre une poignée : si de l'eau coule, c'est trop humide ; si elle s'effrite toute sèche, c'est trop sec.
+
+Certains déchets sont à éviter dans un composteur de jardin, comme la viande, le poisson et les produits laitiers. Ils peuvent attirer des rats.
+
+## Un tas qui chauffe
+
+En mangeant, les micro-organismes respirent et dégagent de la chaleur. Le tas monte d'abord à 40 ou 45 °C. Puis d'autres micro-organismes, qui aiment la chaleur, prennent le relais. Le cœur du tas peut atteindre 60 à 70 °C.
+
+Ensuite vient la maturation. La température redescend lentement. Les vers de compost et d'autres petits animaux finissent le travail. Les restes se changent en humus, la matière sombre et riche qui rend la terre fertile. Il faut en général plusieurs mois.
+
+## À quoi sert le compost ?
+
+Un compost mûr ressemble à du terreau. Il est sombre et léger, et sent le sous-bois. On l'étale au jardin ou dans les pots. Il garde l'eau et nourrit les plantes. Attention : un compost pas encore mûr peut « brûler » les jeunes plantes.
+
+Composter évite aussi de jeter ces déchets. Dans les décharges, les restes de nourriture et de jardin forment environ 20 % des déchets. Privés d'air, ils pourrissent lentement et dégagent du méthane, un puissant gaz à effet de serre.
+
+## À retenir
+
+- Le compost est fabriqué par des bactéries, des champignons et des petits animaux qui mangent nos déchets.
+- Il faut mélanger des déchets verts riches en azote et des déchets bruns riches en carbone.
+- Le cœur du tas chauffe jusqu'à 60 à 70 °C, puis refroidit pendant la maturation.
+- Un compost mûr ressemble à du terreau sombre et nourrit les plantes.
+- Composter évite que ces déchets pourrissent en décharge en dégageant du méthane.
 
 ---
 type: article
@@ -5944,18 +6577,98 @@ status: planned
 
 ---
 type: article
-title: La pollution de l'eau par les nitrates agricoles
-slug: la-pollution-de-l-eau-par-les-nitrates-agricoles
+title: Pourquoi des algues vertes envahissent-elles certaines plages de Bretagne ?
+slug: pourquoi-des-algues-vertes-envahissent-elles-certaines-plages-de-bretagne
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
-  Comment l'usage intensif d'engrais degrade progressivement les ressources en eau.
-tags: [eau, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les algues vertes se nourrissent de nitrates, une forme d'azote. Une grande partie vient des
+  engrais et des élevages, et la pluie les entraîne jusqu'à la mer. Dans certaines baies, les
+  algues poussent alors en masse, s'échouent et pourrissent en dégageant un gaz dangereux.
+tags: [eau]
+sources:
+  - title: "Marée verte"
+    url: "https://fr.wikipedia.org/wiki/Mar%C3%A9e_verte"
+    publisher: "Wikipédia"
+  - title: "Eutrophisation"
+    url: "https://fr.wikipedia.org/wiki/Eutrophisation"
+    publisher: "Wikipédia"
+  - title: "Directive Nitrates"
+    url: "https://fr.wikipedia.org/wiki/Directive_Nitrates"
+    publisher: "Wikipédia"
+quiz:
+  - question: "De quoi les algues vertes se nourrissent-elles surtout pour proliférer ?"
+    options:
+      - "De sel"
+      - "De nitrates"
+      - "De sable"
+    answer: 2
+    explanation: >
+      Les ulves stockent très bien les nitrates. Quand il y en a beaucoup dans l'eau,
+      elles poussent très vite.
+  - question: "D'où vient principalement l'excès de nitrates en Bretagne ?"
+    options:
+      - "De l'agriculture, surtout des élevages et des engrais"
+      - "Des volcans"
+      - "Des bateaux de pêche"
+    answer: 1
+    explanation: >
+      La fertilisation des champs, notamment avec le lisier des élevages, est la première
+      cause du phénomène en Bretagne.
+  - question: "Pourquoi les algues échouées sont-elles dangereuses ?"
+    options:
+      - "Elles piquent comme des méduses"
+      - "Elles attirent les requins"
+      - "En pourrissant, elles dégagent un gaz toxique, l'hydrogène sulfuré"
+    answer: 3
+    explanation: >
+      À forte concentration, l'hydrogène sulfuré peut tuer. Des personnes et des animaux
+      en sont morts.
+  - question: "Quelle concentration de nitrates l'Europe fixe-t-elle comme limite pour l'eau destinée à être bue ?"
+    options:
+      - "5 000 mg par litre"
+      - "50 mg par litre"
+      - "Il n'y a aucune limite"
+    answer: 2
+    explanation: >
+      La directive Nitrates de 1991 retient la limite de 50 mg de nitrates par litre pour
+      les eaux destinées à l'eau potable.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les algues vertes se nourrissent de nitrates, une forme d'azote. Une grande partie vient des engrais et des élevages, et la pluie les entraîne jusqu'à la mer. Dans certaines baies, les algues poussent alors en masse, s'échouent et pourrissent en dégageant un gaz dangereux.
+
+## Des algues qui aiment l'azote
+
+Les algues des marées vertes sont surtout des ulves. Comme toutes les plantes, elles ont besoin d'azote et de phosphore pour grandir. Les ulves ont un talent particulier : elles stockent très bien les nitrates, une forme d'azote dissoute dans l'eau. Quand l'eau en contient beaucoup, elles poussent très vite.
+
+## Du champ jusqu'à la plage
+
+En Bretagne, une grande partie de ces nitrates vient de l'agriculture. Les agriculteurs nourrissent leurs champs avec des engrais et avec le lisier des élevages, un mélange d'excréments et d'eau. Les plantes n'utilisent pas tout. Au printemps, la pluie lessive le sol : elle emporte le surplus de nitrates vers les ruisseaux, puis les rivières, puis la mer. Les stations d'épuration et les détergents apportent aussi de l'azote et du phosphore.
+
+Toutes les côtes ne sont pas touchées. Les algues s'accumulent dans des baies au fond clair, en pente très douce, où les courants sont faibles. La lumière y arrive bien et les algues ne sont pas emportées au large. Le phénomène est apparu en Bretagne dans les années 1960. De 1997 à 2008, une cinquantaine de baies et d'anses ont été régulièrement touchées.
+
+## Quand les algues pourrissent
+
+Les algues s'échouent sur le sable en tas épais. En pourrissant, elles sentent très mauvais et rejettent un gaz toxique, l'hydrogène sulfuré. À forte concentration, il peut tuer. Un joggeur est mort en 1989 à Saint-Michel-en-Grève, un autre en 2016 près d'Hillion. En 2009, un employé qui transportait des algues est aussi mort intoxiqué.
+
+Dans l'eau aussi, trop de nutriments posent problème. C'est l'eutrophisation. Les algues prolifèrent, cachent la lumière, puis meurent. En se décomposant, elles consomment l'oxygène de l'eau. Les poissons et les autres animaux peuvent alors mourir asphyxiés.
+
+## Comment lutter
+
+La seule vraie solution est de réduire les nitrates à la source. En Europe, la directive Nitrates a été adoptée le 12 décembre 1991. Elle désigne des « zones vulnérables », où l'eau contient plus de 50 milligrammes de nitrates par litre ou risque d'en contenir plus. Dans ces zones, les agriculteurs ne doivent pas épandre plus de 170 kilos d'azote d'origine animale par hectare et par an. Ils doivent aussi garder de l'herbe le long des cours d'eau et couvrir les sols en hiver.
+
+En 2010, la France a lancé un plan contre les algues vertes doté de 134 millions d'euros sur cinq ans. En attendant, les communes ramassent les algues sur les plages, ce qui coûte cher.
+
+## À retenir
+
+- Les marées vertes sont surtout formées d'ulves, des algues qui stockent très bien les nitrates.
+- En Bretagne, l'excès de nitrates vient surtout des engrais et du lisier des élevages, entraînés par la pluie.
+- Les algues s'accumulent dans des baies peu profondes, claires et protégées des courants.
+- En pourrissant, elles dégagent de l'hydrogène sulfuré, un gaz qui peut tuer.
+- La directive Nitrates de 1991 limite l'azote épandu dans les zones où l'eau dépasse 50 mg de nitrates par litre.
 
 ---
 type: article
@@ -6133,18 +6846,94 @@ status: planned
 
 ---
 type: article
-title: Les nappes phreatiques, formation et vulnerabilite
-slug: les-nappes-phreatiques-formation-et-vulnerabilite
+title: Comment se forme une nappe d'eau sous nos pieds ?
+slug: comment-se-forme-une-nappe-d-eau-sous-nos-pieds
 categoryPath: environnement-et-climat/pollution-et-ressources/eau
 summary: >
-  Comment l'eau souterraine se forme, et pourquoi elle reste fragile face aux pollutions.
-tags: [eau, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une nappe phréatique est de l'eau de pluie qui s'est infiltrée dans le sol. Elle remplit les
+  petits trous et les fissures des roches, comme dans une éponge. Les puits et les sources y
+  puisent de l'eau, mais elle peut être polluée ou vidée trop vite.
+tags: [eau]
+sources:
+  - title: "Nappe phréatique"
+    url: "https://fr.wikipedia.org/wiki/Nappe_phr%C3%A9atique"
+    publisher: "Wikipédia"
+  - title: "Aquifère"
+    url: "https://fr.wikipedia.org/wiki/Aquif%C3%A8re"
+    publisher: "Wikipédia"
+  - title: "Groundwater"
+    url: "https://en.wikipedia.org/wiki/Groundwater"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où se trouve l'eau d'une nappe phréatique ?"
+    options:
+      - "Dans un grand lac souterrain vide de roche"
+      - "Dans les petits trous et les fissures des roches"
+      - "Dans les nuages"
+    answer: 2
+    explanation: >
+      L'eau remplit les espaces entre les grains de sable ou les fissures des roches,
+      comme dans une éponge.
+  - question: "Comment appelle-t-on une roche qui contient une nappe d'eau souterraine ?"
+    options:
+      - "Un aquifère"
+      - "Un glacier"
+      - "Un volcan"
+    answer: 1
+    explanation: >
+      Un aquifère est une roche poreuse ou fissurée qui contient de l'eau et la laisse
+      circuler.
+  - question: "Que se passe-t-il si l'on pompe une nappe plus vite qu'elle ne se recharge ?"
+    options:
+      - "Elle déborde"
+      - "Elle devient salée tout de suite"
+      - "Son niveau baisse"
+    answer: 3
+    explanation: >
+      Si on prélève plus d'eau que la pluie n'en apporte, le niveau de la nappe descend.
+  - question: "Quel âge peut avoir l'eau de certaines nappes très profondes ?"
+    options:
+      - "Une semaine"
+      - "Plus d'un million d'années"
+      - "Exactement cent ans"
+    answer: 2
+    explanation: >
+      En Australie, l'eau du Grand Bassin artésien peut avoir plus d'un million d'années.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une nappe phréatique est de l'eau de pluie qui s'est infiltrée dans le sol. Elle remplit les petits trous et les fissures des roches, comme dans une éponge. Les puits et les sources y puisent de l'eau, mais elle peut être polluée ou vidée trop vite.
+
+## La pluie qui s'enfonce
+
+Quand il pleut, une partie de l'eau ruisselle vers les rivières. Une autre partie s'évapore. Le reste s'infiltre dans le sol et descend lentement. Plus bas, l'eau finit par remplir tous les petits espaces entre les grains de sable, les graviers ou les fissures des roches. Cette zone gorgée d'eau forme une nappe phréatique.
+
+Une nappe n'est donc pas un lac souterrain. Elle ressemble plutôt à une éponge mouillée. La roche qui contient la nappe s'appelle un aquifère. Pour être un bon aquifère, une roche doit avoir des trous ou des fissures, et laisser l'eau circuler. Le sable, le gravier, la craie ou le grès en sont de bons exemples.
+
+## Nappes libres et nappes captives
+
+Une nappe libre n'est pas couverte par une couche imperméable. Son niveau monte quand il pleut beaucoup et baisse pendant les sécheresses. Une nappe captive est coincée entre deux couches imperméables, souvent d'argile. L'eau y est sous pression. Quand on creuse un puits, l'eau monte toute seule, et parfois elle jaillit du sol.
+
+Certaines nappes réagissent vite à la pluie. D'autres, dans la craie ou le grès, mettent plusieurs années à se remplir ou à se vider. L'eau des nappes très profondes peut être très vieille. En Australie, celle du Grand Bassin artésien a parfois plus d'un million d'années. Elle y avance d'environ un mètre par an.
+
+## Une réserve précieuse
+
+L'eau souterraine représente environ 30 % de l'eau douce disponible sur Terre. Si l'on ne compte que l'eau douce liquide, c'est environ 99 %. Les nappes alimentent des puits et des sources. Dans le monde, elles fournissent une grande partie de l'eau potable et de l'eau qui sert à arroser les cultures.
+
+## Une réserve fragile
+
+Une nappe peut se vider. Si l'on pompe plus d'eau que la pluie n'en apporte, son niveau baisse. Une nappe peut aussi être polluée. L'eau qui s'infiltre emporte avec elle ce qui se trouve à la surface : engrais, pesticides, produits industriels. Protéger les sols, c'est donc aussi protéger l'eau que nous boirons demain.
+
+## À retenir
+
+- Une nappe phréatique est formée par l'eau de pluie infiltrée dans les trous et fissures des roches.
+- La roche qui contient la nappe s'appelle un aquifère : sable, gravier, craie ou grès par exemple.
+- Une nappe captive est coincée entre deux couches imperméables et son eau est sous pression.
+- L'eau souterraine représente environ 99 % de l'eau douce liquide de la planète.
+- Une nappe peut être vidée par un pompage trop fort ou polluée par ce qui s'infiltre depuis la surface.
 
 ---
 type: article

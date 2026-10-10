@@ -4079,18 +4079,97 @@ status: planned
 
 ---
 type: article
-title: Le double vitrage et la reduction des pertes thermiques
-slug: le-double-vitrage-et-la-reduction-des-pertes-thermiques
+title: Comment un double vitrage garde-t-il la chaleur dans la maison ?
+slug: comment-un-double-vitrage-garde-t-il-la-chaleur-dans-la-maison
 categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
 summary: >
-  Un principe simple qui reduit fortement les deperditions de chaleur par les fenetres.
-tags: [efficacite-energetique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un double vitrage est fait de deux vitres séparées par une fine couche d'air ou de gaz. Ce
+  gaz immobile laisse mal passer la chaleur, qui reste donc dans la maison. Il réduit aussi le
+  bruit et la buée.
+tags: [efficacite-energetique]
+sources:
+  - title: "Double vitrage"
+    url: "https://fr.wikipedia.org/wiki/Double_vitrage"
+    publisher: "Wikipédia"
+  - title: "Insulated glazing"
+    url: "https://en.wikipedia.org/wiki/Insulated_glazing"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'y a-t-il entre les deux vitres d'un double vitrage ?"
+    options:
+      - "De l'eau"
+      - "Une couche d'air ou de gaz"
+      - "Du coton"
+    answer: 2
+    explanation: >
+      Une lame d'air ou d'un gaz comme l'argon sépare les deux vitres. Ce gaz immobile
+      freine la chaleur.
+  - question: "Que signifie l'inscription 4/16/4 sur un double vitrage ?"
+    options:
+      - "Vitre de 4 mm, espace de 16 mm, vitre de 4 mm"
+      - "4 fenêtres, 16 vitres, 4 portes"
+      - "Le prix en euros"
+    answer: 1
+    explanation: >
+      Les chiffres donnent les épaisseurs en millimètres : vitre extérieure, lame de gaz,
+      vitre intérieure.
+  - question: "Pour le coefficient U d'une fenêtre, quelle valeur isole le mieux ?"
+    options:
+      - "La plus grande"
+      - "Elle n'a pas d'importance"
+      - "La plus petite"
+    answer: 3
+    explanation: >
+      Le coefficient U mesure la chaleur qui traverse la vitre. Plus il est petit, mieux
+      la fenêtre isole.
+  - question: "Quelle part de la chaleur d'un logement s'échappe par les fenêtres ?"
+    options:
+      - "10 à 15 %"
+      - "Plus de 90 %"
+      - "Aucune"
+    answer: 1
+    explanation: >
+      Seulement 10 à 15 % de la chaleur part par les fenêtres. Les murs, le toit et les
+      fuites d'air comptent beaucoup aussi.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un double vitrage est fait de deux vitres séparées par une fine couche d'air ou de gaz. Ce gaz immobile laisse mal passer la chaleur, qui reste donc dans la maison. Il réduit aussi le bruit et la buée.
+
+## Deux vitres et un coussin de gaz
+
+Un double vitrage est fait de deux vitres posées l'une derrière l'autre. Entre elles, il y a une fine couche d'air ou de gaz, enfermée de façon étanche. Un petit cadre, l'intercalaire, tient les vitres écartées. Il contient souvent un produit qui absorbe l'humidité, pour éviter la buée à l'intérieur.
+
+On décrit un double vitrage avec trois chiffres, par exemple 4/16/4. Cela veut dire : une vitre de 4 millimètres, un espace de 16 millimètres, puis une autre vitre de 4 millimètres.
+
+## Pourquoi le gaz immobile isole
+
+Le verre laisse passer la chaleur assez facilement. Un gaz, au contraire, conduit mal la chaleur, à condition de rester immobile. Si l'espace entre les vitres est trop large, le gaz se met à tourner en petits courants et transporte la chaleur. Les meilleurs résultats sont obtenus avec un espace d'environ 16 à 19 millimètres.
+
+Pour isoler encore mieux, on remplace l'air par un gaz plus lourd, comme l'argon ou le krypton. Ces gaz conduisent encore moins la chaleur que l'air.
+
+Beaucoup de doubles vitrages ont aussi une couche de métal très fine sur une face. Elle est invisible à l'œil. Elle laisse passer la lumière, mais renvoie vers la pièce les rayons infrarouges, c'est-à-dire la chaleur. On parle de vitrage à isolation renforcée.
+
+## Comment comparer les fenêtres
+
+On mesure l'isolation d'un vitrage avec le coefficient U. Il indique combien de chaleur traverse un mètre carré de vitre quand il fait un degré de plus d'un côté que de l'autre. Plus ce nombre est petit, mieux la vitre isole. Un double vitrage ordinaire a un U d'environ 2,9. Un double vitrage performant descend vers 1,0, et un triple vitrage vers 0,7.
+
+## Une invention ancienne
+
+Le savant français Joseph Fourier a décrit le principe en 1822. Aux États-Unis, Thomas Stetson a déposé un brevet en 1865. La fabrication en usine a commencé vers 1930, et le double vitrage s'est répandu après les crises du pétrole des années 1970.
+
+Attention : seulement 10 à 15 % de la chaleur d'un logement part par les fenêtres. Le double vitrage aide, mais isoler les murs et le toit compte aussi. Il apporte d'autres avantages : moins de bruit et moins de buée sur les vitres.
+
+## À retenir
+
+- Un double vitrage est fait de deux vitres séparées par une couche d'air ou de gaz immobile.
+- Le gaz immobile conduit mal la chaleur ; l'argon et le krypton isolent encore mieux que l'air.
+- Une couche de métal invisible renvoie la chaleur vers l'intérieur de la pièce.
+- Plus le coefficient U d'une fenêtre est petit, mieux elle isole.
+- Seulement 10 à 15 % de la chaleur d'un logement s'échappe par les fenêtres.
 
 ---
 type: article
@@ -4109,18 +4188,100 @@ status: planned
 
 ---
 type: article
-title: L'inertie thermique des batiments en pierre et en terre
-slug: l-inertie-thermique-des-batiments-en-pierre-et-en-terre
+title: Pourquoi une maison aux murs épais de pierre ou de terre reste-t-elle fraîche en été ?
+slug: pourquoi-une-maison-aux-murs-epais-de-pierre-ou-de-terre-reste-t-elle-fraiche-en-ete
 categoryPath: energie/efficacite-et-sobriete/efficacite-energetique
 summary: >
-  Comment certains materiaux lourds stabilisent naturellement la temperature interieure.
-tags: [efficacite-energetique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les murs épais en pierre ou en terre stockent beaucoup de chaleur et la rendent lentement.
+  Le jour, ils absorbent la chaleur au lieu de la laisser entrer. La nuit, on aère pour les
+  refroidir : c'est l'inertie thermique.
+tags: [efficacite-energetique]
+sources:
+  - title: "Inertie thermique"
+    url: "https://fr.wikipedia.org/wiki/Inertie_thermique"
+    publisher: "Wikipédia"
+  - title: "Thermal mass"
+    url: "https://en.wikipedia.org/wiki/Thermal_mass"
+    publisher: "Wikipedia"
+  - title: "Pisé"
+    url: "https://fr.wikipedia.org/wiki/Pis%C3%A9"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait un mur à forte inertie thermique pendant une journée chaude ?"
+    options:
+      - "Il fabrique du froid"
+      - "Il absorbe la chaleur et la rend plus tard"
+      - "Il laisse entrer toute la chaleur d'un coup"
+    answer: 2
+    explanation: >
+      Le mur stocke la chaleur dans sa masse. Elle n'arrive dans la maison que des heures
+      plus tard, souvent la nuit.
+  - question: "Quel geste aide une maison à forte inertie à rester fraîche ?"
+    options:
+      - "Ouvrir les fenêtres la nuit"
+      - "Fermer tout la nuit"
+      - "Allumer le chauffage le soir"
+    answer: 1
+    explanation: >
+      La nuit, l'air frais refroidit les murs. Ils peuvent alors absorber à nouveau la
+      chaleur le lendemain.
+  - question: "Dans quel climat l'inertie thermique est-elle la plus utile ?"
+    options:
+      - "Là où la température ne change jamais"
+      - "Sous l'eau"
+      - "Là où les jours sont chauds et les nuits fraîches"
+    answer: 3
+    explanation: >
+      L'inertie est très utile quand la température varie beaucoup entre le jour et la
+      nuit, comme dans les déserts.
+  - question: "Qu'est-ce que le pisé ?"
+    options:
+      - "De la terre crue tassée dans un coffrage"
+      - "Une pierre volcanique"
+      - "Un isolant en plastique"
+    answer: 1
+    explanation: >
+      Le pisé est fait de terre compressée entre des planches. Ses murs mesurent souvent
+      environ 60 cm d'épaisseur.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les murs épais en pierre ou en terre stockent beaucoup de chaleur et la rendent lentement. Le jour, ils absorbent la chaleur au lieu de la laisser entrer. La nuit, on aère pour les refroidir : c'est l'inertie thermique.
+
+## Des murs qui font éponge à chaleur
+
+Certains matériaux peuvent stocker beaucoup de chaleur. C'est le cas de la pierre, de la brique, de la terre crue et du béton. Quand le soleil chauffe un mur épais, la chaleur ne le traverse pas tout de suite. Elle s'accumule d'abord dans la masse du mur. On appelle cela l'inertie thermique : la résistance d'un matériau à changer de température.
+
+Un mur à forte inertie a deux effets. Il amortit les pics de chaleur ou de froid. Et il les retarde de plusieurs heures. La chaleur de l'après-midi n'atteint l'intérieur que bien plus tard, souvent la nuit.
+
+## Le rôle de la nuit
+
+Le soir, la chaleur stockée ressort lentement des murs. Pour qu'une maison reste fraîche, il faut donc la vider de cette chaleur. On ouvre les fenêtres la nuit, quand l'air dehors est frais. Les murs se refroidissent. Le lendemain, ils peuvent de nouveau absorber la chaleur. C'est la ventilation nocturne.
+
+En hiver, le même principe aide aussi. Les murs gardent la chaleur du jour ou du chauffage et la rendent doucement.
+
+## Le pisé, une maison en terre
+
+Le pisé est une technique de construction en terre crue. On tasse de la terre humide entre deux planches, appelées banches. En France, on trouve beaucoup de maisons en pisé dans la région Rhône-Alpes, notamment en Isère et dans le Dauphiné. Beaucoup datent du XVIIIe au XXe siècle.
+
+Les murs en pisé mesurent souvent environ 60 centimètres d'épaisseur. Ils isolent moyennement, mais ils stockent beaucoup de chaleur. Le jour, ils l'absorbent. La nuit, ils la rendent. La terre absorbe aussi l'humidité de l'air quand il y en a trop, puis la rend quand l'air devient sec.
+
+## Là où ça marche le mieux
+
+L'inertie thermique est très utile là où il fait chaud le jour et frais la nuit, comme dans les déserts. Les maisons en adobe des Pueblos, dans le sud-ouest des États-Unis, ont des murs épais en terre. Elles restent agréables sans climatisation.
+
+Elle est moins utile dans une pièce occupée seulement de temps en temps. Les murs lourds mettent du temps à se réchauffer, et le chauffage doit d'abord les chauffer eux.
+
+## À retenir
+
+- L'inertie thermique est la capacité d'un matériau à stocker la chaleur et à la rendre lentement.
+- La pierre, la brique, la terre crue et le béton ont une forte inertie.
+- Un mur épais retarde de plusieurs heures l'arrivée de la chaleur dans la maison.
+- Pour profiter de l'inertie en été, il faut aérer la nuit quand l'air est frais.
+- Les murs en pisé, en terre tassée, mesurent souvent environ 60 cm d'épaisseur.
 
 ---
 type: article
@@ -4574,18 +4735,100 @@ status: planned
 
 ---
 type: article
-title: La consommation d'energie en veille des appareils electroniques
-slug: la-consommation-d-energie-en-veille-des-appareils-electroniques
+title: Pourquoi un appareil en veille consomme-t-il encore de l'électricité ?
+slug: pourquoi-un-appareil-en-veille-consomme-t-il-encore-de-l-electricite
 categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
 summary: >
-  Un gaspillage discret mais reel, present dans presque tous les foyers.
-tags: [usages-et-consommation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un appareil en veille paraît éteint, mais certaines de ses pièces restent allumées. Il
+  attend le signal de la télécommande, fait tourner une horloge ou reste connecté au réseau.
+  Depuis 2013, la plupart des appareils vendus en Europe ne doivent pas dépasser 0,5 watt en
+  veille.
+tags: [usages-et-consommation]
+sources:
+  - title: "Standby power"
+    url: "https://en.wikipedia.org/wiki/Standby_power"
+    publisher: "Wikipedia"
+  - title: "Faut-il vraiment débrancher ses appareils en veille ?"
+    url: "https://www.linfodurable.fr/conso/faut-il-vraiment-debrancher-ses-appareils-en-veille-51057"
+    publisher: "L'Info Durable"
+quiz:
+  - question: "Pourquoi une télévision en veille consomme-t-elle un peu d'électricité ?"
+    options:
+      - "Elle doit rester prête à recevoir le signal de la télécommande"
+      - "Elle continue d'afficher l'image"
+      - "Elle recharge ses haut-parleurs"
+    answer: 1
+    explanation: >
+      Le récepteur de la télécommande reste allumé pour que l'on puisse rallumer la télé à
+      distance.
+  - question: "Quelle limite l'Europe impose-t-elle depuis 2013 à la plupart des appareils en veille ?"
+    options:
+      - "50 watts"
+      - "0,5 watt"
+      - "10 watts"
+    answer: 2
+    explanation: >
+      Depuis janvier 2013, la plupart des appareils ne doivent pas dépasser 0,5 watt en
+      veille.
+  - question: "Lequel de ces appareils vaut-il mieux ne pas débrancher ?"
+    options:
+      - "L'imprimante"
+      - "Le chargeur de téléphone"
+      - "Le réfrigérateur"
+    answer: 3
+    explanation: >
+      Le réfrigérateur doit rester branché pour garder les aliments au froid.
+  - question: "Quel objet simple permet de couper plusieurs veilles d'un coup ?"
+    options:
+      - "Une multiprise à interrupteur"
+      - "Une ampoule LED"
+      - "Un thermomètre"
+    answer: 1
+    explanation: >
+      Avec une multiprise à interrupteur, on coupe le courant de plusieurs appareils en un
+      seul geste.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un appareil en veille paraît éteint, mais certaines de ses pièces restent allumées. Il attend le signal de la télécommande, fait tourner une horloge ou reste connecté au réseau. Depuis 2013, la plupart des appareils vendus en Europe ne doivent pas dépasser 0,5 watt en veille.
+
+## Éteint, mais pas tout à fait
+
+Quand on éteint une télévision avec la télécommande, l'écran devient noir. Pourtant, l'appareil n'est pas vraiment éteint. Il est en veille. Une partie de ses circuits reste sous tension, car elle doit continuer à travailler.
+
+## Ce qui reste allumé
+
+Plusieurs pièces consomment pendant la veille :
+
+- le bloc d'alimentation, qui transforme le courant de la prise pour l'appareil ;
+- le récepteur de la télécommande, qui guette le signal pour rallumer l'appareil ;
+- l'horloge ou le petit écran qui affiche l'heure, comme sur un four ou un micro-ondes ;
+- la connexion au réseau, pour recevoir des mises à jour ou être allumé à distance.
+
+Même certains appareils éteints avec leur bouton consomment encore, si une partie de leurs circuits reste branchée à la prise.
+
+## Moins qu'avant
+
+Autrefois, un appareil pouvait consommer 10 à 15 watts en veille. Dans plusieurs pays, avant les règles actuelles, les veilles représentaient 3 à 10 % de l'électricité des logements.
+
+En 1999, l'Agence internationale de l'énergie a lancé l'initiative « un watt ». Son but : qu'en 2010, tous les nouveaux appareils vendus dans le monde consomment au maximum un watt en veille. L'Europe a fixé des limites. Depuis janvier 2010, la plupart des appareils ne doivent pas dépasser 1 watt en veille. Depuis janvier 2013, la limite est de 0,5 watt. Les appareils connectés à Internet, comme les box, ont des règles à part et consomment souvent plus.
+
+## Que faire chez soi ?
+
+Une veille de 0,5 watt consomme peu. Mais une maison contient beaucoup d'appareils, et leurs veilles s'additionnent jour et nuit. Selon l'ADEME, l'agence française de la transition écologique, les consommations cachées peuvent atteindre 15 % de la facture d'électricité d'un foyer.
+
+On peut débrancher les petits appareils qui ne servent pas souvent : machine à café, bouilloire, imprimante, enceintes, chargeurs. Une multiprise à interrupteur permet de couper plusieurs appareils d'un seul geste. En revanche, il vaut mieux laisser branchés le réfrigérateur et le four. Le lave-linge et le lave-vaisselle peuvent aussi rester branchés, car certains surveillent les fuites d'eau.
+
+## À retenir
+
+- Un appareil en veille garde des circuits allumés : alimentation, récepteur de télécommande, horloge, réseau.
+- Autrefois, un appareil pouvait consommer 10 à 15 watts en veille.
+- En Europe, la plupart des appareils sont limités à 1 watt en veille depuis 2010, puis à 0,5 watt depuis 2013.
+- Les veilles de tous les appareils d'une maison s'additionnent jour et nuit.
+- Une multiprise à interrupteur coupe plusieurs veilles d'un seul geste.
 
 ---
 type: article
@@ -4994,18 +5237,92 @@ status: planned
 
 ---
 type: article
-title: Le charbon de bois, fabrication traditionnelle
-slug: le-charbon-de-bois-fabrication-traditionnelle
+title: Comment transforme-t-on du bois en charbon de bois ?
+slug: comment-transforme-t-on-du-bois-en-charbon-de-bois
 categoryPath: energie/energies-fossiles-et-nucleaire/charbon
 summary: >
-  Une methode ancienne qui transforme le bois en un combustible plus dense en energie.
-tags: [charbon, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pour faire du charbon de bois, on chauffe du bois presque sans air. L'eau et les gaz s'en
+  vont, il reste surtout du carbone. Le charbon obtenu brûle plus chaud que le bois et fait
+  moins de fumée.
+tags: [charbon]
+sources:
+  - title: "Charbon de bois"
+    url: "https://fr.wikipedia.org/wiki/Charbon_de_bois"
+    publisher: "Wikipédia"
+  - title: "Charcoal"
+    url: "https://en.wikipedia.org/wiki/Charcoal"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment appelle-t-on le fait de chauffer du bois sans oxygène pour faire du charbon ?"
+    options:
+      - "La fermentation"
+      - "La pyrolyse"
+      - "La photosynthèse"
+    answer: 2
+    explanation: >
+      La pyrolyse décompose le bois par la chaleur, sans le laisser brûler complètement.
+  - question: "Avec quoi les charbonniers recouvraient-ils leur meule de bois ?"
+    options:
+      - "De la terre"
+      - "Du sable mouillé de mer"
+      - "Des tuiles en métal"
+    answer: 1
+    explanation: >
+      La couche de terre empêchait l'air d'entrer. Le bois chauffait sans se transformer
+      en cendres.
+  - question: "Combien de temps pouvait durer la cuisson d'une meule ?"
+    options:
+      - "Une heure"
+      - "Deux jours"
+      - "De 15 à 21 jours"
+    answer: 3
+    explanation: >
+      Selon le bois, la meule cuisait de 15 à 21 jours, sous la surveillance constante du
+      charbonnier.
+  - question: "Pourquoi le charbon de bois a-t-il été si important pendant des siècles ?"
+    options:
+      - "Il servait à fabriquer le fer"
+      - "Il servait à faire du papier"
+      - "Il servait à conserver la viande"
+    answer: 1
+    explanation: >
+      Le charbon de bois brûle très chaud. Il permettait d'obtenir du fer dans les
+      fourneaux, jusqu'à ce que le coke le remplace.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour faire du charbon de bois, on chauffe du bois presque sans air. L'eau et les gaz s'en vont, il reste surtout du carbone. Le charbon obtenu brûle plus chaud que le bois et fait moins de fumée.
+
+## Chauffer sans brûler
+
+Si on met une bûche dans un feu bien aéré, elle brûle et devient de la cendre. Pour faire du charbon de bois, il faut au contraire chauffer le bois presque sans air. On appelle cela la pyrolyse : la décomposition d'une matière par la chaleur, sans oxygène.
+
+Vers 220 °C, le bois devient brun. Vers 280 °C, il devient brun-noir. Autrefois, la carbonisation se faisait lentement, autour de 350 à 400 °C. L'eau du bois s'évapore. Des gaz et des liquides goudronneux s'échappent. Il reste un solide noir, léger et cassant, fait surtout de carbone et d'un peu de minéraux.
+
+## La meule des charbonniers
+
+En forêt, les charbonniers construisaient une meule. Ils empilaient des bûches en un grand tas rond de 5 à 6 mètres de diamètre, autour d'une cheminée centrale. Ils recouvraient le tout d'une couche de terre ou d'argile. On allumait le feu par la cheminée. Une petite partie du bois brûlait et produisait la chaleur qui transformait le reste. La terre empêchait l'air d'entrer, donc le bois ne partait pas en cendres.
+
+La cuisson durait de 15 à 21 jours selon le bois. Le charbonnier surveillait la meule jour et nuit. Il obtenait un charbon qui pesait environ un quart du bois de départ.
+
+## Pourquoi c'est un bon combustible
+
+Le charbon de bois brûle à plus de 1 100 °C, plus chaud que le bois. Comme il est presque fait de carbone pur, il produit beaucoup moins de fumée. Depuis au moins 2000 ans avant notre ère, il sert à fabriquer le fer et l'acier. Jusqu'au XIXe siècle, il chauffait les fourneaux où l'on tirait le fer du minerai. Le coke, fait à partir du charbon de terre, l'a ensuite remplacé. Le charbon de bois entrait aussi dans la poudre noire.
+
+## Aujourd'hui
+
+En Europe, on l'utilise surtout pour les barbecues. Dans beaucoup de pays pauvres, il sert encore à cuisiner chaque jour. Une grande ville peut en consommer des milliers de tonnes par jour. Sa fabrication, souvent illégale, détruit alors de grandes surfaces de forêt, surtout en Afrique et en Amérique du Sud.
+
+## À retenir
+
+- Le charbon de bois s'obtient en chauffant du bois presque sans air : c'est la pyrolyse.
+- L'eau et les gaz s'échappent, il reste surtout du carbone.
+- Les charbonniers cuisaient le bois dans une meule couverte de terre pendant 15 à 21 jours.
+- Le charbon de bois brûle à plus de 1 100 °C et fait peu de fumée.
+- Il a servi à fabriquer le fer pendant des siècles ; sa production détruit encore des forêts.
 
 ---
 type: article
@@ -5459,18 +5776,103 @@ status: planned
 
 ---
 type: article
-title: Les derives du petrole dans la vie quotidienne
-slug: les-derives-du-petrole-dans-la-vie-quotidienne
+title: Pourquoi trouve-t-on du pétrole dans nos sacs, nos vêtements et nos médicaments ?
+slug: pourquoi-trouve-t-on-du-petrole-dans-nos-sacs-nos-vetements-et-nos-medicaments
 categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
 summary: >
-  Une ressource omnipresente bien au-dela du seul carburant automobile.
-tags: [hydrocarbures, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une partie du pétrole ne sert pas à faire rouler les voitures. La pétrochimie le transforme
+  en petites molécules, puis les assemble en plastiques, en fibres et en milliers de produits.
+  En 2017, elle utilisait 14 % du pétrole consommé dans le monde.
+tags: [hydrocarbures]
+sources:
+  - title: "Pétrochimie"
+    url: "https://fr.wikipedia.org/wiki/P%C3%A9trochimie"
+    publisher: "Wikipédia"
+  - title: "Petrochemical"
+    url: "https://en.wikipedia.org/wiki/Petrochemical"
+    publisher: "Wikipedia"
+  - title: "Polyéthylène"
+    url: "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle part du pétrole mondial la pétrochimie utilisait-elle en 2017 ?"
+    options:
+      - "1 %"
+      - "14 %"
+      - "90 %"
+    answer: 2
+    explanation: >
+      En 2017, la pétrochimie consommait 13 millions de barils par jour, soit 14 % du
+      pétrole consommé dans le monde.
+  - question: "Que fait le vapocraquage ?"
+    options:
+      - "Il casse de grosses molécules en plus petites"
+      - "Il gèle le pétrole"
+      - "Il transforme le pétrole en eau"
+    answer: 1
+    explanation: >
+      On chauffe le pétrole vers 800 °C avec de la vapeur, moins d'une seconde. Les
+      grosses molécules se cassent en petites.
+  - question: "Quel est le plastique le plus utilisé au monde ?"
+    options:
+      - "Le verre"
+      - "Le nylon"
+      - "Le polyéthylène"
+    answer: 3
+    explanation: >
+      Le polyéthylène représente environ un tiers des plastiques produits en 2018. On le
+      trouve dans les sacs et les films.
+  - question: "Lequel de ces objets peut être fabriqué grâce au pétrole ?"
+    options:
+      - "Un pull en laine de mouton"
+      - "Un tee-shirt en polyester"
+      - "Une table en chêne"
+    answer: 2
+    explanation: >
+      Le polyester est une fibre synthétique. Elle est fabriquée à partir de molécules
+      tirées du pétrole.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une partie du pétrole ne sert pas à faire rouler les voitures. La pétrochimie le transforme en petites molécules, puis les assemble en plastiques, en fibres et en milliers de produits. En 2017, elle utilisait 14 % du pétrole consommé dans le monde.
+
+## Du carburant, mais pas seulement
+
+Le pétrole est surtout connu comme carburant. Pourtant, une partie sert à fabriquer des objets. C'est le travail de la pétrochimie : la chimie qui transforme le pétrole et le gaz naturel en nouvelles substances. En 2017, elle utilisait 13 millions de barils de pétrole par jour, soit 14 % du pétrole consommé dans le monde.
+
+## Casser puis assembler
+
+Le pétrole est un mélange de grosses molécules. Une molécule est un petit assemblage d'atomes. Pour fabriquer des objets, on commence par casser ces grosses molécules. Dans le vapocraquage, on chauffe une partie du pétrole vers 800 °C avec de la vapeur d'eau, pendant moins d'une seconde. Les grosses molécules se cassent en petites.
+
+On obtient des briques de base. Les plus importantes sont l'éthylène et le propylène, et d'autres comme le benzène. En 2019, le monde a produit 190 millions de tonnes d'éthylène et 120 millions de tonnes de propylène.
+
+Ensuite, on assemble ces petites briques en très longues chaînes, comme des perles sur un collier. C'est la polymérisation. Avec l'éthylène, on fabrique le polyéthylène. Ce plastique a été inventé en 1933 par deux ingénieurs anglais. En 2018, on en produisait 100 millions de tonnes, environ un tiers de tous les plastiques. C'est le plastique le plus utilisé au monde.
+
+## Partout dans la maison
+
+Les dérivés du pétrole sont partout :
+
+- les sacs, les films alimentaires, les bouteilles de shampoing ;
+- les vêtements en fibres synthétiques, comme le polyester et le nylon ;
+- les pneus en caoutchouc synthétique ;
+- les détergents, les colles, les peintures et les solvants ;
+- certains médicaments et produits de beauté ;
+- des engrais et des pesticides.
+
+## Une dépendance qui grandit
+
+Selon l'Agence internationale de l'énergie, la pétrochimie pourrait représenter près de la moitié de la hausse de la demande de pétrole d'ici 2050. La raison principale est l'augmentation de la consommation de plastique dans les pays émergents. Certaines briques de base peuvent aussi être fabriquées à partir de plantes, comme le maïs ou la canne à sucre.
+
+## À retenir
+
+- La pétrochimie transforme le pétrole et le gaz naturel en milliers de produits.
+- En 2017, elle utilisait 14 % du pétrole consommé dans le monde.
+- Le vapocraquage casse les grosses molécules du pétrole vers 800 °C.
+- La polymérisation assemble de petites molécules en longues chaînes : ce sont les plastiques.
+- Le polyéthylène, inventé en 1933, est le plastique le plus utilisé au monde.
 
 ---
 type: article
@@ -6104,18 +6506,97 @@ status: planned
 
 ---
 type: article
-title: La radioactivite naturelle, une realite omnipresente
-slug: la-radioactivite-naturelle-une-realite-omnipresente
+title: Pourquoi y a-t-il de la radioactivité naturelle tout autour de nous ?
+slug: pourquoi-y-a-t-il-de-la-radioactivite-naturelle-tout-autour-de-nous
 categoryPath: energie/energies-fossiles-et-nucleaire/nucleaire
 summary: >
-  Un phenomene present dans notre environnement quotidien, souvent meconnu.
-tags: [nucleaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La radioactivité n'est pas seulement fabriquée par les humains. Elle vient aussi des roches,
+  d'un gaz appelé radon, de l'espace et même de notre corps. En moyenne, un être humain reçoit
+  environ 2,4 millisieverts par an de radioactivité naturelle.
+tags: [nucleaire]
+sources:
+  - title: "Radioactivité naturelle"
+    url: "https://fr.wikipedia.org/wiki/Radioactivit%C3%A9_naturelle"
+    publisher: "Wikipédia"
+  - title: "Background radiation"
+    url: "https://en.wikipedia.org/wiki/Background_radiation"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la plus grande source de radioactivité naturelle pour l'être humain ?"
+    options:
+      - "Les téléphones portables"
+      - "Le radon, un gaz qui sort du sol"
+      - "La lumière de la Lune"
+    answer: 2
+    explanation: >
+      Le radon vient de l'uranium des roches. Il s'accumule dans les maisons et représente
+      la plus grosse part de la dose naturelle.
+  - question: "Pourquoi reçoit-on plus de rayons cosmiques en montagne ?"
+    options:
+      - "Parce qu'il y a moins d'air au-dessus de nous pour nous protéger"
+      - "Parce qu'il fait plus froid"
+      - "Parce que les roches y sont plus jeunes"
+    answer: 1
+    explanation: >
+      L'air arrête une partie des particules venues de l'espace. En altitude, il y a moins
+      d'air au-dessus de nous.
+  - question: "Qui a découvert la radioactivité en 1896 ?"
+    options:
+      - "Albert Einstein"
+      - "Marie Curie"
+      - "Henri Becquerel"
+    answer: 3
+    explanation: >
+      Henri Becquerel a découvert la radioactivité en 1896 en étudiant l'uranium.
+  - question: "Quel élément radioactif notre corps contient-il naturellement ?"
+    options:
+      - "Du potassium 40"
+      - "Du plutonium"
+      - "De l'uranium enrichi"
+    answer: 1
+    explanation: >
+      Notre corps contient du potassium 40 et du carbone 14, apportés par la nourriture.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La radioactivité n'est pas seulement fabriquée par les humains. Elle vient aussi des roches, d'un gaz appelé radon, de l'espace et même de notre corps. En moyenne, un être humain reçoit environ 2,4 millisieverts par an de radioactivité naturelle.
+
+## Des atomes qui se transforment
+
+Certains atomes sont instables. Un jour, ils se transforment et lancent un rayonnement invisible. C'est la radioactivité. Le physicien français Henri Becquerel l'a découverte en 1896, en étudiant l'uranium. Ce phénomène existe depuis la formation de la Terre. La plus grande partie des rayonnements que nous recevons est naturelle.
+
+## D'où vient-elle ?
+
+Elle a quatre grandes sources.
+
+Le sol et les roches. Le granite et d'autres roches contiennent de l'uranium, du thorium et du potassium 40. En France, la Bretagne et le Massif central, riches en granite, sont plus radioactifs que d'autres régions.
+
+Le radon. Ce gaz invisible et sans odeur naît de l'uranium des roches. Il sort du sol et peut s'accumuler dans les maisons mal aérées. C'est la plus grande source de radioactivité naturelle pour l'être humain.
+
+L'espace. Des particules venues de l'espace, les rayons cosmiques, frappent l'atmosphère en permanence. L'air nous protège en partie. En altitude, il y en a moins au-dessus de nous. À Denver, aux États-Unis, à 1 650 mètres d'altitude, on reçoit environ deux fois plus de rayons cosmiques qu'au bord de la mer.
+
+Notre propre corps. Nous mangeons des aliments qui contiennent un peu de potassium 40 et de carbone 14. Dans le corps d'un adulte, environ 4 000 atomes de potassium 40 se transforment chaque seconde.
+
+## Combien en reçoit-on ?
+
+On mesure l'effet des rayonnements sur le corps en millisieverts (mSv). Selon un rapport des Nations unies publié en 2008, un être humain reçoit en moyenne environ 2,4 mSv par an de radioactivité naturelle. Plus de la moitié vient du radon (1,26 mSv). Le sol en apporte 0,48, les rayons cosmiques 0,39 et la nourriture 0,29.
+
+## Des régions très exposées
+
+Dans certains endroits, la dose est bien plus forte. À Ramsar, en Iran, ou au Kerala, en Inde, des roches et des sables très radioactifs donnent des doses bien supérieures à la moyenne. Dans une maison de Ramsar, on a mesuré une dose plus de 80 fois supérieure à la moyenne mondiale.
+
+Pour réduire le radon chez soi, le geste le plus simple est d'aérer régulièrement son logement.
+
+## À retenir
+
+- La radioactivité naturelle vient des roches, du radon, de l'espace et de notre corps.
+- Le radon, un gaz qui sort du sol, est la plus grande source de radioactivité naturelle.
+- Un être humain reçoit en moyenne environ 2,4 millisieverts par an de radioactivité naturelle.
+- En altitude, on reçoit plus de rayons cosmiques car il y a moins d'air pour nous protéger.
+- Henri Becquerel a découvert la radioactivité en 1896.
 
 ---
 type: article
@@ -6329,18 +6810,94 @@ status: planned
 
 ---
 type: article
-title: L'histoire du moulin a vent avant l'electricite
-slug: l-histoire-du-moulin-a-vent-avant-l-electricite
+title: Comment un moulin à vent transformait-il le vent en farine ?
+slug: comment-un-moulin-a-vent-transformait-il-le-vent-en-farine
 categoryPath: energie/energies-renouvelables/eolien
 summary: >
-  Des siecles d'usage mecanique du vent avant sa transformation en electricite moderne.
-tags: [eolien, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un moulin à vent utilise la force du vent pour faire tourner ses ailes. Des engrenages en
+  bois transmettent ce mouvement à une lourde meule de pierre qui écrase le grain. Les moulins
+  ont aussi pompé l'eau, pressé des olives et scié du bois.
+tags: [eolien]
+sources:
+  - title: "Moulin à vent"
+    url: "https://fr.wikipedia.org/wiki/Moulin_%C3%A0_vent"
+    publisher: "Wikipédia"
+  - title: "Windmill"
+    url: "https://en.wikipedia.org/wiki/Windmill"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où sont apparus les premiers moulins à vent connus, au VIIe siècle ?"
+    options:
+      - "En Perse"
+      - "Au Danemark"
+      - "Au Mexique"
+    answer: 1
+    explanation: >
+      Les premiers moulins à vent ont servi en Perse dès le VIIe siècle, notamment pour
+      l'irrigation.
+  - question: "À quoi servait le rouet dans un moulin à vent ?"
+    options:
+      - "À vendre la farine"
+      - "À transmettre le mouvement des ailes vers la meule"
+      - "À mesurer la vitesse du vent"
+    answer: 2
+    explanation: >
+      Le rouet est une grande roue dentée fixée à l'arbre des ailes. Il entraîne la
+      lanterne, qui fait tourner la meule.
+  - question: "Comment le meunier réglait-il la vitesse des ailes selon la force du vent ?"
+    options:
+      - "Il changeait la quantité de toile tendue sur les ailes"
+      - "Il arrosait les ailes"
+      - "Il ajoutait des pierres sur le toit"
+    answer: 1
+    explanation: >
+      Par vent fort, il mettait moins de toile pour donner moins de prise au vent.
+  - question: "Dans quel pays les moulins servaient-ils beaucoup à assécher des terres appelées polders ?"
+    options:
+      - "L'Italie"
+      - "La Grèce"
+      - "Les Pays-Bas"
+    answer: 3
+    explanation: >
+      Aux Pays-Bas, les moulins pompaient l'eau pour assécher les polders. Ceux de
+      Kinderdijk sont classés par l'UNESCO.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un moulin à vent utilise la force du vent pour faire tourner ses ailes. Des engrenages en bois transmettent ce mouvement à une lourde meule de pierre qui écrase le grain. Les moulins ont aussi pompé l'eau, pressé des olives et scié du bois.
+
+## Une très vieille machine
+
+Le moulin à vent est utilisé en Perse dès le VIIe siècle, pour l'irrigation. Ces premiers moulins avaient des ailes qui tournaient autour d'un axe vertical, comme un tourniquet. En Europe, le moulin à vent se répand vers le XIIe siècle. En France, le plus ancien moulin à vent connu est cité en 1170, dans une charte de la ville d'Arles.
+
+## Des ailes face au vent
+
+Un moulin a le plus souvent quatre ailes. Chacune est une grille en bois sur laquelle le meunier tend une toile de lin, de coton ou de chanvre. Le vent pousse sur la toile et fait tourner les ailes. Par vent faible, le meunier déroule toute la toile. Par vent fort, il en met moins, pour que les ailes ne tournent pas trop vite.
+
+Les ailes doivent être face au vent. Dans le moulin sur pivot, tout le corps du moulin, construit en bois, tourne sur un gros poteau. Dans le moulin-tour, seul le toit tourne, avec les ailes. Le meunier le tournait grâce à une longue perche, la queue du moulin, parfois tirée par un âne. Plus tard, des moulins ont reçu une petite hélice à l'arrière, qui tournait toute seule le toit face au vent.
+
+## Des ailes jusqu'à la meule
+
+Les ailes font tourner un gros arbre presque horizontal. Sur cet arbre est fixée une grande roue en bois munie de dents : le rouet. Le rouet entraîne une autre roue, la lanterne, fixée sur un axe vertical. Cet axe fait tourner la meule, une lourde pierre ronde. Le grain glisse entre deux meules et il est écrasé en farine.
+
+Pour arrêter les ailes, un frein serre le rouet. C'est une bande de métal garnie de bois, tenue serrée par un contrepoids.
+
+## Bien plus que de la farine
+
+Les moulins à vent ont servi à moudre le grain, à presser les olives pour l'huile, à scier du bois et à pomper l'eau. Aux Pays-Bas, ils ont asséché des terres gagnées sur la mer, les polders. Les moulins de Kinderdijk sont inscrits au patrimoine mondial de l'UNESCO.
+
+Au XXe siècle, l'électricité arrive dans les campagnes et de grandes usines à farine apparaissent. Les moulins à vent déclinent très vite. Leurs héritières sont les éoliennes, qui transforment le vent en électricité.
+
+## À retenir
+
+- Les premiers moulins à vent connus ont servi en Perse dès le VIIe siècle.
+- En Europe, ils se répandent au XIIe siècle ; en France, le plus ancien est cité en 1170 à Arles.
+- Les ailes en toile font tourner un arbre, puis le rouet et la lanterne transmettent le mouvement à la meule.
+- Le meunier tournait les ailes face au vent et réglait la quantité de toile selon la force du vent.
+- Les moulins ont aussi pompé l'eau, pressé des olives et scié du bois, avant de disparaître au XXe siècle.
 
 ---
 type: article
@@ -7494,18 +8051,95 @@ status: planned
 
 ---
 type: article
-title: La cuisiniere solaire, une technologie simple et efficace
-slug: la-cuisiniere-solaire-une-technologie-simple-et-efficace
+title: Comment un four solaire peut-il cuire des aliments sans feu ?
+slug: comment-un-four-solaire-peut-il-cuire-des-aliments-sans-feu
 categoryPath: energie/energies-renouvelables/solaire
 summary: >
-  Un dispositif accessible qui permet de cuisiner sans combustible ni electricite.
-tags: [solaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un cuiseur solaire attrape la lumière du Soleil et la change en chaleur. Des miroirs
+  concentrent les rayons, une marmite noire les absorbe et une vitre garde la chaleur
+  prisonnière. Il cuit sans bois ni gaz, mais seulement quand le Soleil brille.
+tags: [solaire]
+sources:
+  - title: "Cuiseur solaire"
+    url: "https://fr.wikipedia.org/wiki/Cuiseur_solaire"
+    publisher: "Wikipédia"
+  - title: "Solar cooker"
+    url: "https://en.wikipedia.org/wiki/Solar_cooker"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi la marmite d'un cuiseur solaire est-elle souvent noire ?"
+    options:
+      - "Pour cacher les traces de brûlé"
+      - "Parce qu'une surface sombre absorbe mieux la lumière"
+      - "Pour empêcher l'eau de bouillir"
+    answer: 2
+    explanation: >
+      Une surface sombre absorbe la lumière et la transforme en chaleur. Une marmite
+      claire en renverrait une partie.
+  - question: "Quel modèle de cuiseur solaire peut dépasser 290 °C ?"
+    options:
+      - "Le cuiseur parabolique"
+      - "Le cuiseur boîte"
+      - "Le cuiseur à panneaux"
+    answer: 1
+    explanation: >
+      Le cuiseur parabolique concentre tous les rayons en un seul point. Il chauffe assez
+      pour griller de la viande.
+  - question: "Qui a décrit le premier cuiseur solaire de façon scientifique, en 1767 ?"
+    options:
+      - "Alessandro Volta"
+      - "Isaac Newton"
+      - "Horace-Bénédict de Saussure"
+    answer: 3
+    explanation: >
+      Le savant suisse Horace-Bénédict de Saussure a décrit une boîte vitrée qui chauffait
+      au Soleil en 1767.
+  - question: "Quel est le principal défaut d'un cuiseur solaire ?"
+    options:
+      - "Il produit beaucoup de fumée"
+      - "Il ne marche bien que par temps ensoleillé"
+      - "Il consomme beaucoup de bois"
+    answer: 2
+    explanation: >
+      Sans Soleil, pas de chaleur. Il faut aussi le tourner plusieurs fois par jour pour
+      suivre le Soleil.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un cuiseur solaire attrape la lumière du Soleil et la change en chaleur. Des miroirs concentrent les rayons, une marmite noire les absorbe et une vitre garde la chaleur prisonnière. Il cuit sans bois ni gaz, mais seulement quand le Soleil brille.
+
+## Trois astuces pour piéger la chaleur
+
+Un cuiseur solaire utilise trois astuces. D'abord, des surfaces brillantes, comme des miroirs ou du papier d'aluminium, renvoient les rayons du Soleil vers la marmite. Ensuite, la marmite est sombre. Une surface noire absorbe la lumière et la change en chaleur. Enfin, un couvercle en verre ou en plastique transparent laisse entrer la lumière mais retient la chaleur, comme dans une serre.
+
+## Trois grandes familles
+
+Le cuiseur boîte ressemble à une caisse isolée avec une vitre sur le dessus. L'intérieur est noir et les parois renvoient la lumière. Il dépasse 100 °C et cuit lentement, comme un four doux.
+
+Le cuiseur à panneaux est le moins cher. Des panneaux réfléchissants dirigent la lumière vers une marmite enfermée dans un sac en plastique transparent. Il lui faut parfois quatre heures pour cuire du riz pour quatre personnes.
+
+Le cuiseur parabolique a la forme d'une grande antenne creuse. Il concentre tous les rayons sur un seul point, où l'on pose la marmite. Il peut dépasser 290 °C et griller un steak en quelques minutes. Mais il faut le tourner souvent pour suivre le Soleil.
+
+## Une vieille idée
+
+En 1767, le savant suisse Horace-Bénédict de Saussure a fait la première description scientifique d'un cuiseur solaire. Dans les années 1870, la Légion étrangère française s'en servait déjà pour cuisiner.
+
+## Des avantages et des limites
+
+Le cuiseur solaire ne brûle ni bois, ni charbon, ni gaz. Dans les pays où l'on cuisine au feu de bois, il aide à protéger les forêts. Il évite aussi de respirer la fumée dans la maison.
+
+Il a pourtant des défauts. Par temps nuageux, il chauffe peu. Il cuit plus lentement qu'une cuisinière. Le vent le refroidit. Et la lumière concentrée par un cuiseur parabolique peut brûler la peau ou les yeux : il faut s'en approcher avec prudence.
+
+## À retenir
+
+- Un cuiseur solaire change la lumière du Soleil en chaleur pour cuire les aliments.
+- Il concentre les rayons avec des miroirs, les absorbe avec une marmite noire et garde la chaleur sous une vitre.
+- Le cuiseur boîte dépasse 100 °C, le cuiseur parabolique peut dépasser 290 °C.
+- Horace-Bénédict de Saussure l'a décrit pour la première fois en 1767.
+- Il ne brûle aucun combustible, mais il ne fonctionne bien que par temps ensoleillé.
 
 ---
 type: article
@@ -7749,18 +8383,93 @@ status: planned
 
 ---
 type: article
-title: La pile de Volta, la premiere source d'electricite continue
-slug: la-pile-de-volta-la-premiere-source-d-electricite-continue
+title: Comment Volta a-t-il inventé la première pile électrique ?
+slug: comment-volta-a-t-il-invente-la-premiere-pile-electrique
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
-  Une invention fondatrice qui a rendu possible toute l'electricite portable moderne.
-tags: [batteries, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En 1800, l'Italien Alessandro Volta empile des disques de zinc et de cuivre séparés par du
+  tissu trempé dans de l'eau salée. Cette pile produit pour la première fois un courant
+  électrique continu. Le volt, l'unité de tension électrique, porte son nom.
+tags: [batteries]
+sources:
+  - title: "Pile voltaïque"
+    url: "https://fr.wikipedia.org/wiki/Pile_volta%C3%AFque"
+    publisher: "Wikipédia"
+  - title: "Voltaic pile"
+    url: "https://en.wikipedia.org/wiki/Voltaic_pile"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi l'invention de Volta s'appelle-t-elle une « pile » ?"
+    options:
+      - "Parce qu'elle fonctionne à piles"
+      - "Parce qu'elle est faite de disques empilés"
+      - "Parce qu'elle a la forme d'un pilier de pont"
+    answer: 2
+    explanation: >
+      Volta empilait des disques de métal et de tissu les uns sur les autres. Le mot pile
+      vient de cet empilement.
+  - question: "Selon Galvani, d'où venait l'électricité qui faisait bouger les pattes de grenouille ?"
+    options:
+      - "De l'animal lui-même"
+      - "De la foudre"
+      - "Des aimants"
+    answer: 1
+    explanation: >
+      Galvani parlait d'« électricité animale ». Volta a montré que l'électricité venait
+      en fait des deux métaux.
+  - question: "Que se passe-t-il quand on ajoute des étages à une pile de Volta ?"
+    options:
+      - "Elle s'arrête"
+      - "Elle devient plus froide"
+      - "Sa tension augmente"
+    answer: 3
+    explanation: >
+      Les tensions de chaque étage s'additionnent. Plus il y a d'étages, plus la tension
+      est grande.
+  - question: "Quelle unité porte le nom de Volta ?"
+    options:
+      - "Le watt"
+      - "Le volt"
+      - "L'ampère"
+    answer: 2
+    explanation: >
+      Le volt est l'unité de la tension électrique, nommée en l'honneur d'Alessandro
+      Volta.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1800, l'Italien Alessandro Volta empile des disques de zinc et de cuivre séparés par du tissu trempé dans de l'eau salée. Cette pile produit pour la première fois un courant électrique continu. Le volt, l'unité de tension électrique, porte son nom.
+
+## Une dispute à propos de grenouilles
+
+Dans les années 1780, le savant italien Luigi Galvani fait une découverte étrange. Quand il touche une patte de grenouille morte avec deux métaux différents, la patte se contracte. Galvani pense que l'électricité vient de l'animal. Il parle d'« électricité animale ».
+
+Son collègue Alessandro Volta n'est pas d'accord. Pour lui, l'électricité vient des deux métaux différents. En 1794, il montre que deux métaux et un tissu trempé dans de l'eau salée produisent un courant, sans aucune grenouille.
+
+## Un empilement de disques
+
+Volta empile ensuite de nombreux étages. Chaque étage contient un disque de zinc, un disque de cuivre ou d'argent, et un morceau de tissu ou de carton imbibé d'eau salée. L'eau salée est l'électrolyte : un liquide qui laisse circuler les charges électriques. Le mot « pile » vient de cet empilement.
+
+Le 20 mars 1800, Volta décrit son invention dans une lettre à la Royal Society, la grande académie des sciences de Londres. La même année, elle lui remet la médaille Copley.
+
+## Ce qui se passe dans la pile
+
+Dans chaque étage, le zinc s'use peu à peu en perdant des électrons. Ces petites particules chargées voyagent à travers un fil vers le cuivre. Ce déplacement d'électrons, c'est le courant électrique. Chaque étage donne une petite tension. En empilant les étages, les tensions s'additionnent. La pile de Volta est la première source d'électricité qui fournit un courant continu, au lieu d'une simple étincelle.
+
+## Une invention qui change la science
+
+Quelques mois plus tard, en 1800, les Anglais Nicholson et Carlisle utilisent la pile pour séparer l'eau en deux gaz. Le chimiste Humphry Davy s'en sert ensuite pour découvrir sept éléments chimiques. En 1801, Volta présente sa pile à Napoléon Bonaparte, à Paris. Aujourd'hui, l'unité de la tension électrique, le volt, porte son nom.
+
+## À retenir
+
+- Alessandro Volta a décrit sa pile le 20 mars 1800 dans une lettre à la Royal Society.
+- La pile est un empilement de disques de zinc et de cuivre séparés par du tissu imbibé d'eau salée.
+- Le courant vient des électrons qui passent du zinc vers le cuivre à travers un fil.
+- Plus on empile d'étages, plus la tension de la pile est grande.
+- C'est la première source de courant électrique continu ; le volt porte le nom de son inventeur.
 
 ---
 type: article
@@ -8742,18 +9451,94 @@ status: planned
 
 ---
 type: article
-title: Le black-out, causes et prevention
-slug: le-black-out-causes-et-prevention
+title: Pourquoi un pays entier peut-il se retrouver d'un coup sans électricité ?
+slug: pourquoi-un-pays-entier-peut-il-se-retrouver-d-un-coup-sans-electricite
 categoryPath: energie/reseaux-et-stockage/reseaux-electriques
 summary: >
-  Comment une simple defaillance locale peut se propager a tout un reseau.
-tags: [reseaux-electriques, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un black-out est une panne d'électricité qui touche une très grande région. Il arrive quand
+  le réseau perd son équilibre et que les coupures s'enchaînent comme des dominos. Pour
+  l'éviter, on coupe volontairement certains clients avant que tout s'effondre.
+tags: [reseaux-electriques]
+sources:
+  - title: "Panne de courant"
+    url: "https://fr.wikipedia.org/wiki/Panne_de_courant"
+    publisher: "Wikipédia"
+  - title: "Délestage électrique"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9lestage_%C3%A9lectrique"
+    publisher: "Wikipédia"
+  - title: "2025 Iberian Peninsula blackout"
+    url: "https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment appelle-t-on une coupure volontaire de certains clients pour sauver le réseau ?"
+    options:
+      - "Un court-circuit"
+      - "Un délestage"
+      - "Une surtension"
+    answer: 2
+    explanation: >
+      Le délestage consiste à couper l'électricité de certains clients pour éviter que
+      tout le réseau s'effondre.
+  - question: "Quel pays a connu en 2012 le plus grand black-out de l'histoire par le nombre de personnes touchées ?"
+    options:
+      - "L'Inde"
+      - "La France"
+      - "Le Canada"
+    answer: 1
+    explanation: >
+      En 2012, une immense panne a frappé l'Inde. C'est le black-out qui a touché le plus
+      de personnes.
+  - question: "Qu'a permis la centrale hydroélectrique d'Aldeadávila en avril 2025 ?"
+    options:
+      - "De vider un barrage"
+      - "De vendre de l'électricité au Maroc"
+      - "De redémarrer le réseau espagnol"
+    answer: 3
+    explanation: >
+      Cette centrale a pu démarrer seule. Elle a ensuite aidé les autres centrales à se
+      rallumer une par une.
+  - question: "Que se passe-t-il quand la production d'électricité ne suit plus la consommation ?"
+    options:
+      - "La fréquence du réseau baisse"
+      - "Les lampes brillent plus fort"
+      - "Les câbles se refroidissent"
+    answer: 1
+    explanation: >
+      Quand il manque de la production, la fréquence chute. Si elle descend trop bas, des
+      centrales se déconnectent.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un black-out est une panne d'électricité qui touche une très grande région. Il arrive quand le réseau perd son équilibre et que les coupures s'enchaînent comme des dominos. Pour l'éviter, on coupe volontairement certains clients avant que tout s'effondre.
+
+## Un équilibre de chaque seconde
+
+Sur un réseau électrique, la production doit égaler la consommation à chaque instant. Le courant alterne très vite. Le nombre d'allers-retours par seconde s'appelle la fréquence. En Europe, elle doit rester très proche de 50 hertz. Quand il manque de la production, la fréquence baisse. Quand elle descend trop, les centrales se protègent en se déconnectant. Il manque alors encore plus de production.
+
+## L'effet domino
+
+Un black-out commence souvent par un petit incident. Une tempête, un court-circuit ou une ligne trop chargée fait sauter une ligne. Le courant passe alors par les autres lignes, qui deviennent surchargées à leur tour et se coupent. On parle de cascade. Les spécialistes décrivent quatre grands phénomènes : la cascade de surcharges, la chute de la fréquence, la chute de la tension, et des centrales qui ne tournent plus au même rythme.
+
+En 2012, une panne de ce genre a frappé l'Inde. C'est le plus grand black-out de l'histoire par le nombre de personnes touchées.
+
+## La panne espagnole de 2025
+
+Le 28 avril 2025, à 12 h 33, l'Espagne et le Portugal ont perdu presque toute leur électricité. La tension a monté brutalement. Des centrales se sont déconnectées en cascade, et la fréquence est tombée sous 48 hertz en trois secondes. Les feux de circulation se sont éteints, les métros ont été évacués et les hôpitaux ont allumé leurs groupes électrogènes. Pour redémarrer, la centrale hydroélectrique d'Aldeadávila a démarré seule, puis a aidé les autres. La France et le Maroc ont envoyé de l'électricité par les lignes qui relient les pays. Le Portugal a retrouvé le courant en 11 heures environ, l'Espagne en 23 heures.
+
+## Couper un peu pour ne pas tout perdre
+
+Pour éviter l'effondrement, on pratique le délestage : on coupe volontairement l'électricité de certains clients. En Europe, des coupures automatiques se déclenchent quand la fréquence descend entre 49 et 47,5 hertz. Le 4 novembre 2006, ce délestage automatique a sans doute évité une panne de tout le réseau européen. Les gestionnaires gardent aussi des centrales en réserve, relient leurs réseaux à ceux des pays voisins et enterrent certaines lignes.
+
+## À retenir
+
+- Sur un réseau électrique, la production doit égaler la consommation à chaque seconde.
+- Un black-out commence souvent par un petit incident qui provoque des coupures en cascade.
+- En 2012, l'Inde a connu le plus grand black-out de l'histoire par le nombre de personnes touchées.
+- Le 28 avril 2025, l'Espagne et le Portugal ont perdu leur électricité pendant plusieurs heures.
+- Le délestage coupe volontairement certains clients pour éviter que tout le réseau s'effondre.
 
 ---
 type: article

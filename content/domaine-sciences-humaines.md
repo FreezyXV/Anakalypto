@@ -5368,18 +5368,100 @@ status: planned
 
 ---
 type: article
-title: La datation au carbone 14, principe scientifique
-slug: la-datation-au-carbone-14-principe-scientifique
+title: Comment le carbone 14 permet-il de dater un os ou un morceau de bois ?
+slug: comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois
 categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
 summary: >
-  Une methode qui exploite la desintegration radioactive pour estimer un age.
-tags: [methode-historique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Tous les êtres vivants contiennent un peu de carbone 14, un carbone radioactif. Après la
+  mort, il disparaît lentement : la moitié s'en va en 5 730 ans environ. En mesurant ce qu'il
+  en reste, on calcule l'âge d'un os, d'un bois ou d'un tissu, jusqu'à environ 50 000 ans.
+tags: [methode-historique]
+sources:
+  - title: "Datation au carbone 14"
+    url: "https://fr.wikipedia.org/wiki/Datation_au_carbone_14"
+    publisher: "Wikipédia"
+  - title: "Radiocarbon dating"
+    url: "https://en.wikipedia.org/wiki/Radiocarbon_dating"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où se forme le carbone 14 ?"
+    options:
+      - "Au centre de la Terre"
+      - "Dans la haute atmosphère, sous l'effet des rayons cosmiques"
+      - "Dans les volcans"
+    answer: 2
+    explanation: >
+      Les rayons cosmiques produisent des neutrons qui transforment l'azote de l'air en
+      carbone 14.
+  - question: "Au bout de combien de temps la moitié du carbone 14 a-t-elle disparu ?"
+    options:
+      - "Environ 5 730 ans"
+      - "Un an"
+      - "Un million d'années"
+    answer: 1
+    explanation: >
+      La demi-vie du carbone 14 est d'environ 5 730 ans.
+  - question: "Que peut-on dater avec le carbone 14 ?"
+    options:
+      - "Une pierre"
+      - "Un objet en métal"
+      - "Un os ou un morceau de bois"
+    answer: 3
+    explanation: >
+      La méthode ne marche que pour la matière qui a été vivante. Elle ne s'applique pas
+      aux minéraux.
+  - question: "Qui a réalisé la première datation au carbone 14, en 1949 ?"
+    options:
+      - "Marie Curie"
+      - "Willard Libby"
+      - "Albert Einstein"
+    answer: 2
+    explanation: >
+      Le chimiste américain Willard Libby a daté en 1949 du bois de tombes égyptiennes. Il
+      a reçu le prix Nobel de chimie en 1960.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Tous les êtres vivants contiennent un peu de carbone 14, un carbone radioactif. Après la mort, il disparaît lentement : la moitié s'en va en 5 730 ans environ. En mesurant ce qu'il en reste, on calcule l'âge d'un os, d'un bois ou d'un tissu, jusqu'à environ 50 000 ans.
+
+## Un carbone pas comme les autres
+
+Le carbone est présent dans tous les êtres vivants. La plupart des atomes de carbone sont stables. Mais une infime partie est du carbone 14, un carbone radioactif. Radioactif veut dire que ses atomes se transforment lentement en un autre élément.
+
+Le carbone 14 se forme sans cesse dans la haute atmosphère, surtout entre 15 et 18 km d'altitude. Des rayons venus de l'espace, les rayons cosmiques, produisent des neutrons. Ces neutrons heurtent l'azote de l'air et le changent en carbone 14.
+
+## Du ciel jusqu'aux os
+
+Ce carbone 14 se mélange au gaz carbonique de l'air. Les plantes l'absorbent par la photosynthèse. Les animaux le reçoivent en mangeant les plantes. Tant qu'un être est vivant, il garde donc à peu près la même proportion de carbone 14 que l'air.
+
+À la mort, tout change. L'organisme ne reçoit plus de nouveau carbone 14. Celui qu'il contient se transforme peu à peu. Tous les 5 730 ans environ, la quantité restante est divisée par deux. On appelle cette durée la demi-vie.
+
+## Mesurer ce qui reste
+
+Pour dater un os ou un bois, les scientifiques mesurent la part de carbone 14 qui reste. Moins il en reste, plus la mort est ancienne. Aujourd'hui, un appareil appelé spectromètre de masse compte directement les atomes. Il suffit de moins d'un milligramme de carbone, et la mesure prend moins d'une heure.
+
+Les résultats sont donnés en années « avant le présent ». Par convention, le présent est fixé à l'année 1950.
+
+Le chimiste américain Willard Libby a réalisé la première datation en 1949. Il a daté du bois venu de tombes égyptiennes, vieux d'environ 4 600 ans. Il a reçu le prix Nobel de chimie en 1960.
+
+## Les limites de la méthode
+
+La méthode ne fonctionne que pour ce qui a été vivant : os, bois, charbon, tissu. Elle ne peut pas dater une pierre ou un métal. Elle donne la date de la mort de la plante ou de l'animal, pas celle de la fabrication de l'objet.
+
+Après environ 50 000 ans, il reste trop peu de carbone 14 pour le mesurer correctement.
+
+Enfin, la quantité de carbone 14 dans l'air n'a pas toujours été la même. Les scientifiques corrigent donc leurs résultats avec des courbes d'étalonnage. Ces courbes sont construites en comparant avec d'autres méthodes, comme le comptage des cernes des arbres.
+
+## À retenir
+
+- Le carbone 14 se forme dans la haute atmosphère, sous l'effet des rayons cosmiques.
+- Les êtres vivants en absorbent ; après leur mort, il disparaît peu à peu.
+- La moitié du carbone 14 disparaît tous les 5 730 ans environ.
+- La méthode date seulement la matière qui a été vivante, jusqu'à environ 50 000 ans.
+- Willard Libby a réalisé la première datation en 1949 et reçu le prix Nobel de chimie en 1960.
 
 ---
 type: article
@@ -5578,18 +5660,100 @@ status: planned
 
 ---
 type: article
-title: La dendrochronologie, dater grace aux arbres
-slug: la-dendrochronologie-dater-grace-aux-arbres
+title: Comment les cernes des arbres permettent-ils de dater le passé ?
+slug: comment-les-cernes-des-arbres-permettent-ils-de-dater-le-passe
 categoryPath: sciences-humaines-et-sociales/histoire/methode-historique
 summary: >
-  Une methode qui exploite les cernes de croissance pour dater precisement du bois ancien.
-tags: [methode-historique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Chaque année, un arbre fabrique un nouvel anneau de bois, appelé cerne. Sa largeur dépend du
+  temps qu'il a fait. En comparant les cernes d'un vieux morceau de bois à ceux d'arbres déjà
+  datés, on peut savoir à l'année près quand l'arbre a été coupé.
+tags: [methode-historique]
+sources:
+  - title: "Dendrochronologie"
+    url: "https://fr.wikipedia.org/wiki/Dendrochronologie"
+    publisher: "Wikipédia"
+  - title: "Dendrochronology"
+    url: "https://en.wikipedia.org/wiki/Dendrochronology"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de cernes un arbre fabrique-t-il en général chaque année ?"
+    options:
+      - "Un"
+      - "Dix"
+      - "Aucun"
+    answer: 1
+    explanation: >
+      Sous nos climats, chaque cerne correspond en principe à une année de croissance.
+  - question: "Pourquoi le bois de printemps est-il plus clair ?"
+    options:
+      - "Parce qu'il est peint par l'écorce"
+      - "Parce que ses vaisseaux qui transportent la sève sont plus larges"
+      - "Parce qu'il contient de la neige"
+    answer: 2
+    explanation: >
+      Au printemps, l'arbre pousse vite et fabrique de larges vaisseaux pour la sève. Ce
+      bois est moins dense et plus clair.
+  - question: "Jusqu'à quand remonte la chronologie de chênes et de pins d'Europe centrale ?"
+    options:
+      - "100 ans"
+      - "1 000 ans"
+      - "Plus de 12 000 ans"
+    answer: 3
+    explanation: >
+      En reliant des milliers de morceaux de bois, les chercheurs ont construit une
+      chronologie de 12 460 ans.
+  - question: "Qui a fondé le laboratoire de recherche sur les cernes d'arbres de l'université de l'Arizona ?"
+    options:
+      - "Andrew Ellicott Douglass"
+      - "Willard Libby"
+      - "Léonard de Vinci"
+    answer: 1
+    explanation: >
+      L'astronome Andrew Ellicott Douglass a fondé ce laboratoire et a donné son nom à la
+      dendrochronologie en 1928.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chaque année, un arbre fabrique un nouvel anneau de bois, appelé cerne. Sa largeur dépend du temps qu'il a fait. En comparant les cernes d'un vieux morceau de bois à ceux d'arbres déjà datés, on peut savoir à l'année près quand l'arbre a été coupé.
+
+## Un anneau par an
+
+Quand on regarde une souche d'arbre coupée, on voit des cercles. Ce sont les cernes, ou anneaux de croissance. Sous nos climats, l'arbre fabrique du bois du début du printemps à la fin de l'été. Chaque année, un nouvel anneau s'ajoute sous l'écorce.
+
+Au printemps, l'arbre pousse vite. Il fabrique des vaisseaux larges pour transporter la sève. Ce bois est plus clair. En été, la croissance ralentit et le bois devient plus sombre et plus dense. Un cerne complet correspond donc à une année.
+
+Le peintre et savant Léonard de Vinci avait déjà remarqué que les arbres forment un anneau par an. Il avait aussi vu que leur épaisseur dépend des conditions de croissance.
+
+## Un code-barres du climat
+
+Une bonne année, avec de la pluie et de la chaleur, donne un cerne large. Une année sèche ou très froide donne un cerne fin. Les arbres d'une même région vivent le même temps. Ils dessinent donc la même suite de cernes larges et fins, comme un code-barres.
+
+C'est la base de la dendrochronologie, la datation par les arbres. Le mot vient du grec : « dendron » veut dire arbre et « chronos » veut dire temps. Il a été inventé en 1928 par l'astronome américain Andrew Ellicott Douglass. Il a fondé le laboratoire de recherche sur les cernes d'arbres de l'université de l'Arizona.
+
+## Relier les morceaux de bois
+
+Les chercheurs comparent les cernes d'arbres vivants, puis de poutres anciennes, puis de bois encore plus vieux. Quand deux morceaux ont vécu en partie à la même époque, leurs codes-barres se recouvrent. On peut alors les mettre bout à bout.
+
+En Europe centrale, une chronologie de chênes et de pins remonte ainsi à 12 460 ans. Pour dater une poutre, il suffit de retrouver où son code-barres se place sur cette longue série. On obtient l'année précise où l'arbre a poussé, et parfois celle où il a été abattu.
+
+## Ce qu'on peut dater
+
+La méthode sert à dater des charpentes de châteaux et d'églises, des maisons en bois ou des villages préhistoriques. On prélève un petit cylindre de bois de cinq millimètres de diamètre dans une poutre.
+
+Elle a ses pièges. Une année difficile, un arbre peut ne pas former de cerne, ou en former deux. C'est pourquoi on compare toujours de nombreux arbres.
+
+Les cernes servent aussi à corriger la datation au carbone 14. Ils racontent enfin le climat du passé : sécheresses, hivers rudes ou éruptions de volcans.
+
+## À retenir
+
+- Sous nos climats, un arbre fabrique en principe un cerne de bois par an.
+- La largeur des cernes dépend du temps qu'il a fait chaque année.
+- Les arbres d'une même région forment la même suite de cernes, comme un code-barres.
+- En reliant des bois d'âges différents, on a construit en Europe centrale une chronologie de 12 460 ans.
+- La dendrochronologie date le bois à l'année près et aide à corriger le carbone 14.
 
 ---
 type: article
@@ -5773,18 +5937,103 @@ status: planned
 
 ---
 type: article
-title: Allumer un feu sans allumettes, methodes prehistoriques
-slug: allumer-un-feu-sans-allumettes-methodes-prehistoriques
+title: Comment les humains de la préhistoire allumaient-ils un feu ?
+slug: comment-les-humains-de-la-prehistoire-allumaient-ils-un-feu
 categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
 summary: >
-  Des techniques simples, redecouvertes aujourd'hui, pour produire du feu avec des moyens rudimentaires.
-tags: [prehistoire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Sans allumettes ni briquet, les humains de la préhistoire avaient deux méthodes. Ils
+  frottaient deux morceaux de bois très vite, ou ils frappaient une pierre contre un minerai
+  de fer pour faire jaillir des étincelles. Les plus anciennes traces d'allume-feu ont environ
+  400 000 ans.
+tags: [prehistoire]
+sources:
+  - title: "Domestication du feu"
+    url: "https://fr.wikipedia.org/wiki/Domestication_du_feu"
+    publisher: "Wikipédia"
+  - title: "Fire making"
+    url: "https://en.wikipedia.org/wiki/Fire_making"
+    publisher: "Wikipedia"
+  - title: "Ötzi"
+    url: "https://fr.wikipedia.org/wiki/%C3%96tzi"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que se passe-t-il quand on frappe deux silex l'un contre l'autre ?"
+    options:
+      - "On obtient une flamme"
+      - "L'étincelle reste froide et n'allume rien"
+      - "Les pierres fondent"
+    answer: 2
+    explanation: >
+      Deux silex font une étincelle lumineuse, mais elle reste « froide » : elle ne peut
+      pas allumer un feu.
+  - question: "Quelle pierre donne des étincelles chaudes quand on la frappe avec un silex ?"
+    options:
+      - "La pyrite, un minerai de fer"
+      - "Le calcaire"
+      - "Le sable"
+    answer: 1
+    explanation: >
+      La pyrite et la marcassite sont des minerais de fer. Leurs minuscules éclats brûlent
+      au contact de l'air.
+  - question: "À quoi sert l'amadou ?"
+    options:
+      - "À tailler des outils"
+      - "À conserver la viande"
+      - "À recevoir l'étincelle pour démarrer le feu"
+    answer: 3
+    explanation: >
+      L'amadou est une matière spongieuse tirée d'un champignon. Elle s'enflamme
+      facilement et sert d'allume-feu.
+  - question: "Où a-t-on trouvé l'un des plus anciens allume-feux, un morceau de pyrite ?"
+    options:
+      - "À Barnham, en Angleterre"
+      - "À Paris"
+      - "Au pôle Nord"
+    answer: 1
+    explanation: >
+      À Barnham, en Angleterre, un morceau de pyrite a été trouvé près de foyers datés
+      d'environ 400 000 ans.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sans allumettes ni briquet, les humains de la préhistoire avaient deux méthodes. Ils frottaient deux morceaux de bois très vite, ou ils frappaient une pierre contre un minerai de fer pour faire jaillir des étincelles. Les plus anciennes traces d'allume-feu ont environ 400 000 ans.
+
+## Garder le feu ou le fabriquer ?
+
+Les premiers humains ont d'abord rencontré le feu dans la nature. La foudre ou les volcans allument parfois des incendies. On a retrouvé des os brûlés et des cendres d'environ un million d'années en Afrique du Sud, dans la grotte de Wonderwerk. Mais rien ne dit que ces humains savaient allumer un feu eux-mêmes. Ils pouvaient seulement garder des braises venues d'un incendie.
+
+Pour fabriquer du feu, il faut chauffer une matière qui s'enflamme très facilement. On l'appelle l'allume-feu. Les humains de la préhistoire avaient deux grandes techniques.
+
+## Frotter du bois contre du bois
+
+La première technique est la friction. On frotte très vite deux morceaux de bois l'un contre l'autre. Le frottement produit de la chaleur et une fine poussière noire. Cette poussière finit par former une petite braise.
+
+La méthode la plus répandue consiste à faire tourner un bâton droit entre ses mains. Sa pointe tourne dans une encoche creusée dans une planchette de bois tendre. Avec un arc, on fait tourner le bâton plus longtemps et plus facilement. On peut aussi frotter un bâton dans une rainure, comme une charrue, ou scier un bois avec un autre.
+
+## Frapper une pierre
+
+La seconde technique est la percussion. On frappe une pierre dure contre une autre pour produire des étincelles.
+
+Attention, deux silex ne suffisent pas. Leur étincelle reste « froide » et n'allume rien. Il faut frapper un silex contre un minerai de fer, comme la pyrite ou la marcassite. De minuscules éclats de métal se détachent et chauffent au contact de l'oxygène de l'air.
+
+L'étincelle tombe sur un allume-feu. On utilisait par exemple l'amadou, une matière spongieuse tirée d'un champignon. Puis on souffle doucement et on ajoute des brindilles, puis du bois plus gros.
+
+## Des traces très anciennes
+
+Les plus anciens allume-feux connus ont été trouvés en Europe. À Barnham, en Angleterre, un morceau de pyrite était posé près de foyers datés d'environ 400 000 ans. À Menez Dregan, dans le Finistère, un nodule de fer frappé par un silex a le même âge.
+
+Ötzi, un homme mort dans les Alpes vers 3300 avant notre ère, transportait encore de l'amadou. Son corps a été découvert dans la glace le 19 septembre 1991. Jusqu'à la fin du XIXe siècle, beaucoup de voyageurs utilisaient encore une boîte avec un silex, un briquet en acier et de l'amadou.
+
+## À retenir
+
+- Pour allumer un feu, il faut chauffer un allume-feu, une matière qui s'enflamme très facilement.
+- La friction consiste à frotter très vite deux morceaux de bois pour obtenir une braise.
+- La percussion d'un silex contre un minerai de fer, comme la pyrite, produit des étincelles chaudes.
+- Deux silex frappés ensemble ne donnent qu'une étincelle froide.
+- Les plus anciens allume-feux connus, en Angleterre et en Bretagne, ont environ 400 000 ans.
 
 ---
 type: article
@@ -5833,18 +6082,98 @@ status: planned
 
 ---
 type: article
-title: Le propulseur, une invention prehistorique ingenieuse
-slug: le-propulseur-une-invention-prehistorique-ingenieuse
+title: Comment le propulseur permettait-il de lancer une sagaie plus vite ?
+slug: comment-le-propulseur-permettait-il-de-lancer-une-sagaie-plus-vite
 categoryPath: sciences-humaines-et-sociales/histoire/prehistoire
 summary: >
-  Un dispositif simple qui demultiplie considerablement la force de lancer d'une sagaie.
-tags: [prehistoire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le propulseur est un bâton muni d'un crochet, dans lequel on cale l'arrière d'une sagaie. Il
+  allonge le bras du chasseur, comme un levier, et lance l'arme beaucoup plus vite. En Europe,
+  il était utilisé il y a 23 000 à 15 000 ans.
+tags: [prehistoire]
+sources:
+  - title: "Propulseur"
+    url: "https://fr.wikipedia.org/wiki/Propulseur"
+    publisher: "Wikipédia"
+  - title: "Spear-thrower"
+    url: "https://en.wikipedia.org/wiki/Spear-thrower"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment le propulseur aide-t-il à lancer plus vite ?"
+    options:
+      - "Il allonge le bras comme un levier"
+      - "Il contient un ressort"
+      - "Il chauffe la sagaie"
+    answer: 1
+    explanation: >
+      Le propulseur prolonge le bras. Le lanceur pousse la sagaie plus longtemps et lui
+      donne plus de vitesse.
+  - question: "Quelle vitesse ont atteint des copies de propulseurs anciens lors d'essais ?"
+    options:
+      - "5 à 10 km/h"
+      - "72 à 108 km/h"
+      - "1 000 km/h"
+    answer: 2
+    explanation: >
+      Des essais avec des copies de propulseurs anciens ont mesuré des vitesses de 72 à
+      108 km/h.
+  - question: "Comment les Aztèques appelaient-ils le propulseur ?"
+    options:
+      - "Woomera"
+      - "Boomerang"
+      - "Atlatl"
+    answer: 3
+    explanation: >
+      En nahuatl, la langue des Aztèques, le propulseur s'appelle atlatl.
+  - question: "Dans quelle région de France trouve-t-on surtout les propulseurs préhistoriques ?"
+    options:
+      - "En Périgord et dans les Pyrénées"
+      - "En Alsace"
+      - "En Corse"
+    answer: 1
+    explanation: >
+      Les propulseurs du Paléolithique supérieur ont été trouvés surtout dans le Périgord
+      et les Pyrénées.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le propulseur est un bâton muni d'un crochet, dans lequel on cale l'arrière d'une sagaie. Il allonge le bras du chasseur, comme un levier, et lance l'arme beaucoup plus vite. En Europe, il était utilisé il y a 23 000 à 15 000 ans.
+
+## Un bâton à crochet
+
+Un propulseur est un bâton d'une cinquantaine de centimètres. À un bout, il porte un crochet. Le chasseur tient le propulseur par l'autre bout. Il pose dessus une sagaie, une sorte de lance légère, et cale son extrémité arrière contre le crochet.
+
+Les sagaies lancées au propulseur sont bien plus longues que lui. Elles mesurent souvent entre 1,2 et 2,7 mètres.
+
+## Le principe du levier
+
+Pour lancer, le chasseur fait un grand mouvement du bras et du poignet. Le propulseur suit le mouvement et prolonge le bras. Tout se passe comme si le bras devenait plus long.
+
+Un bras plus long agit comme un levier. Le lanceur pousse la sagaie sur une plus grande distance. Il lui donne donc plus d'énergie et plus de vitesse. Des essais avec des copies de propulseurs anciens ont mesuré des vitesses de 72 à 108 km/h.
+
+Une sagaie lancée ainsi peut voler à plus de cent mètres. Mais elle est surtout précise à moins de vingt mètres. Grâce à cette force, les chasseurs pouvaient percer la peau épaisse des grands animaux de l'époque glaciaire.
+
+## Une invention de la préhistoire
+
+Les lances en bois sont bien plus anciennes : certaines ont au moins 400 000 ans. Le propulseur est arrivé plus tard. Homo sapiens l'utilise sans doute depuis le Paléolithique supérieur, il y a environ 30 000 ans.
+
+En Europe, il est attesté de 23 000 à 15 000 ans avant notre ère, surtout dans le Périgord et les Pyrénées. Beaucoup de propulseurs étaient taillés dans du bois de renne ou de l'ivoire de mammouth. Certains sont de véritables œuvres d'art. Celui du Mas-d'Azil, en Ariège, montre un jeune animal sculpté, avec deux oiseaux.
+
+## Partout dans le monde
+
+En Europe, vers la fin du Paléolithique, l'arc est venu s'ajouter au propulseur. Ailleurs, le propulseur est resté utilisé très longtemps. Les Aborigènes d'Australie l'appellent woomera. Les Aztèques l'appelaient atlatl. Les Inuits de l'Arctique et les Kanaks de Nouvelle-Calédonie s'en servaient aussi.
+
+Dans la grande cité de Teotihuacan, au Mexique, un souverain portait même le nom de « Hibou lanceur de javelots ». Aujourd'hui, certains pratiquent encore le tir au propulseur comme un sport.
+
+## À retenir
+
+- Le propulseur est un bâton à crochet qui sert à lancer une sagaie.
+- Il prolonge le bras comme un levier et donne plus de vitesse à l'arme.
+- Des copies de propulseurs anciens ont lancé des sagaies à 72 à 108 km/h.
+- En Europe, il était utilisé de 23 000 à 15 000 ans avant notre ère, surtout en Périgord et dans les Pyrénées.
+- Des peuples du monde entier l'ont utilisé, comme les Aborigènes d'Australie et les Aztèques.
 
 ---
 type: article
@@ -6358,18 +6687,104 @@ status: planned
 
 ---
 type: article
-title: Le biais du survivant dans l'analyse des reussites
-slug: le-biais-du-survivant-dans-l-analyse-des-reussites
+title: Pourquoi ne regarder que les réussites nous trompe-t-il ?
+slug: pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il
 categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
 summary: >
-  Pourquoi on tire des lecons erronees en n'observant que les cas de succes.
-tags: [biais-cognitifs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  On voit souvent les gagnants, beaucoup moins ceux qui ont échoué. Si l'on ne regarde que les
+  cas qui ont « survécu », on tire de mauvaises conclusions. C'est le biais du survivant, une
+  erreur de raisonnement très courante.
+tags: [biais-cognitifs]
+sources:
+  - title: "Biais des survivants"
+    url: "https://fr.wikipedia.org/wiki/Biais_des_survivants"
+    publisher: "Wikipédia"
+  - title: "Survivorship bias"
+    url: "https://en.wikipedia.org/wiki/Survivorship_bias"
+    publisher: "Wikipedia"
+  - title: "Abraham Wald"
+    url: "https://fr.wikipedia.org/wiki/Abraham_Wald"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Où le statisticien Abraham Wald a-t-il conseillé de renforcer les avions ?"
+    options:
+      - "Là où les avions revenus avaient le plus de trous"
+      - "Là où les avions revenus avaient le moins de dégâts"
+      - "Nulle part"
+    answer: 2
+    explanation: >
+      Les avions touchés à ces endroits ne revenaient pas. C'étaient donc les zones les
+      plus dangereuses.
+  - question: "Quel philosophe grec a remarqué qu'on ne voyait pas les portraits des noyés ?"
+    options:
+      - "Diagoras de Mélos"
+      - "Platon"
+      - "Aristote"
+    answer: 1
+    explanation: >
+      Diagoras de Mélos a fait remarquer que ceux qui avaient prié et s'étaient noyés
+      n'avaient pas laissé d'offrande.
+  - question: "Pourquoi croit-on parfois que la musique d'autrefois était meilleure ?"
+    options:
+      - "Parce que les instruments étaient plus chers"
+      - "Parce qu'on l'écoutait plus fort"
+      - "Parce que seule la meilleure a été conservée et jouée"
+    answer: 3
+    explanation: >
+      On a oublié la musique médiocre du passé, alors qu'on entend toute la musique
+      actuelle, bonne ou mauvaise.
+  - question: "Pendant quelle guerre Abraham Wald a-t-il étudié les avions ?"
+    options:
+      - "La Seconde Guerre mondiale"
+      - "La guerre de Cent Ans"
+      - "La guerre de Troie"
+    answer: 1
+    explanation: >
+      Wald travaillait pendant la Seconde Guerre mondiale dans un groupe de recherche de
+      l'université Columbia.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+On voit souvent les gagnants, beaucoup moins ceux qui ont échoué. Si l'on ne regarde que les cas qui ont « survécu », on tire de mauvaises conclusions. C'est le biais du survivant, une erreur de raisonnement très courante.
+
+## Les avions troués
+
+Pendant la Seconde Guerre mondiale, l'armée américaine veut protéger ses bombardiers.
+
+On examine donc les avions revenus de mission. Certains endroits sont criblés de trous de balles. L'idée qui vient d'abord est de renforcer ces endroits.
+
+Le statisticien Abraham Wald, qui travaille dans un groupe de recherche de l'université Columbia, voit le piège. Ces avions sont revenus. Les trous montrent donc les endroits où un avion peut être touché sans tomber. Les avions touchés ailleurs, eux, ne sont jamais rentrés. Wald conseille alors de blinder les zones où les avions revenus ont le moins de dégâts.
+
+## Une erreur de sélection
+
+Cette erreur s'appelle le biais du survivant. Un biais est une erreur de raisonnement qui se répète. Ici, on tire des conclusions en regardant seulement les cas qui ont « survécu ». On oublie tous ceux qui ont disparu et qu'on ne voit plus.
+
+L'idée est très ancienne. Au Ve siècle avant notre ère, on montre au philosophe grec Diagoras de Mélos des offrandes de marins sauvés d'un naufrage. Ils disent avoir été sauvés grâce à leurs prières. Diagoras répond que beaucoup d'autres ont prié et se sont noyés. Mais eux n'ont laissé aucune offrande.
+
+## Dans la vie de tous les jours
+
+On entend souvent que « les objets étaient mieux fabriqués avant ». C'est en partie le biais du survivant. On voit les vieux objets solides qui ont traversé le temps. Les objets fragiles de la même époque sont partis à la poubelle depuis longtemps.
+
+C'est pareil pour la musique. On ne joue plus aujourd'hui que la meilleure musique du passé. On entend en revanche toute la musique actuelle, bonne ou mauvaise. Celle d'autrefois paraît donc meilleure.
+
+Les célébrités donnent aussi une fausse image. On voit les artistes qui ont réussi. On ne voit pas tous ceux, bien plus nombreux, qui sont restés inconnus.
+
+## Même les chats
+
+En 1987, une étude sur des chats tombés d'immeubles a surpris. Les chats tombés de moins de six étages avaient des blessures plus graves que ceux tombés de plus haut. Une explication possible tient au biais du survivant : l'étude ne comptait que les chats qui avaient survécu à leur chute.
+
+Pour éviter ce biais, il faut toujours se demander : qui manque dans ce que je regarde ?
+
+## À retenir
+
+- Le biais du survivant consiste à tirer des conclusions en ne regardant que les cas qui ont réussi ou survécu.
+- Pendant la Seconde Guerre mondiale, Abraham Wald a conseillé de blinder les zones non touchées des avions revenus.
+- Au Ve siècle avant notre ère, Diagoras de Mélos avait déjà repéré cette erreur.
+- L'idée que les objets étaient mieux fabriqués avant vient en partie de ce biais.
+- Pour l'éviter, il faut se demander quels cas manquent à ce que l'on observe.
 
 ---
 type: article
@@ -6748,18 +7163,102 @@ status: planned
 
 ---
 type: article
-title: Le multitache, une illusion cognitive
-slug: le-multitache-une-illusion-cognitive
+title: Pourquoi ne peut-on pas bien faire deux choses à la fois ?
+slug: pourquoi-ne-peut-on-pas-bien-faire-deux-choses-a-la-fois
 categoryPath: sciences-humaines-et-sociales/psychologie/cognition
 summary: >
-  Ce que les etudes revelent sur notre incapacite reelle a faire plusieurs choses a la fois.
-tags: [cognition, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Faire plusieurs tâches en même temps donne l'impression de gagner du temps. En réalité, le
+  cerveau passe sans cesse d'une tâche à l'autre, et chaque changement lui coûte un peu de
+  temps et d'attention. Résultat, on fait plus d'erreurs et on met souvent plus longtemps.
+tags: [cognition]
+sources:
+  - title: "Human multitasking"
+    url: "https://en.wikipedia.org/wiki/Human_multitasking"
+    publisher: "Wikipedia"
+  - title: "Task switching (psychology)"
+    url: "https://en.wikipedia.org/wiki/Task_switching_(psychology)"
+    publisher: "Wikipedia"
+  - title: "Multitasking"
+    url: "https://fr.wikipedia.org/wiki/Multitasking"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que fait vraiment le cerveau quand on croit faire deux choses à la fois ?"
+    options:
+      - "Il s'arrête complètement"
+      - "Il passe sans cesse d'une tâche à l'autre"
+      - "Il travaille deux fois plus vite"
+    answer: 2
+    explanation: >
+      Pour les tâches qui demandent de l'attention, le cerveau alterne. Chaque changement
+      a un coût.
+  - question: "Selon le psychologue David Meyer, combien de temps peut prendre un travail fait en jonglant entre plusieurs tâches ?"
+    options:
+      - "La moitié du temps"
+      - "Le même temps"
+      - "Souvent le double, ou plus"
+    answer: 3
+    explanation: >
+      D'après David Meyer, les erreurs augmentent et le travail prend souvent deux fois
+      plus de temps.
+  - question: "Combien de fois plus de risque d'accident a-t-on en téléphonant au volant, selon une étude ?"
+    options:
+      - "Quatre fois plus"
+      - "Aucun risque en plus"
+      - "Deux fois moins"
+    answer: 1
+    explanation: >
+      Une étude a trouvé qu'un accident est quatre fois plus probable en téléphonant au
+      volant.
+  - question: "Comment appelle-t-on les rares personnes très douées pour faire plusieurs tâches à la fois ?"
+    options:
+      - "Des « supertaskers »"
+      - "Des jongleurs"
+      - "Des somnambules"
+    answer: 1
+    explanation: >
+      Une étude de 2010 a repéré un petit pourcentage de personnes bien meilleures que les
+      autres, appelées « supertaskers ».
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Faire plusieurs tâches en même temps donne l'impression de gagner du temps. En réalité, le cerveau passe sans cesse d'une tâche à l'autre, et chaque changement lui coûte un peu de temps et d'attention. Résultat, on fait plus d'erreurs et on met souvent plus longtemps.
+
+## Une idée venue des ordinateurs
+
+Le mot « multitâche » vient de l'informatique. Il désigne un ordinateur capable de faire tourner plusieurs programmes en même temps. On l'a ensuite appliqué aux humains : écouter de la musique en faisant ses devoirs, envoyer un message en regardant une vidéo.
+
+Le multitâche donne l'impression d'être efficace. Les psychologues ont pourtant montré que le cerveau ne fonctionne pas comme un ordinateur.
+
+## Un goulot d'étranglement
+
+Notre attention est limitée. Quand deux tâches demandent de réfléchir, le cerveau ne peut pas traiter certaines étapes des deux en même temps. Les chercheurs parlent d'un goulot d'étranglement : comme une bouteille au col étroit, il ne laisse passer qu'une chose à la fois.
+
+Le psychologue René Marois, de l'université Vanderbilt, a observé ce blocage au moment de choisir une réponse. Le cerveau doit décider quelle tâche passe en premier, et cela prend du temps.
+
+## Le coût du changement
+
+En réalité, le cerveau passe sans cesse d'une tâche à l'autre. Les psychologues étudient ce passage depuis 1927. Ils ont mesuré qu'après un changement de tâche, on répond plus lentement et on se trompe plus souvent. On appelle cela le coût du changement de tâche.
+
+Il faut à chaque fois se rappeler où on en était et quelle est l'étape suivante. Pour le psychologue David Meyer, de l'université du Michigan, quand on jongle entre plusieurs tâches, les erreurs augmentent beaucoup. Le travail prend souvent deux fois plus de temps, ou plus, que si on faisait les tâches l'une après l'autre.
+
+## Au volant, c'est dangereux
+
+Téléphoner en conduisant est un exemple connu. Une étude a trouvé qu'un accident est alors quatre fois plus probable. D'autres chercheurs ont mesuré que les conducteurs qui téléphonent réagissent plus lentement aux feux de freinage de la voiture de devant.
+
+## Quelques exceptions
+
+En 2010, une étude a repéré un petit pourcentage de personnes beaucoup plus douées que les autres pour faire plusieurs choses à la fois. On les appelle les « supertaskers ». Dans un test de 2015 sur simulateur de conduite, la plupart des participants réussissaient beaucoup moins bien quand ils devaient en plus retenir des mots et faire des calculs. Pour presque tout le monde, faire une chose à la fois reste plus efficace.
+
+## À retenir
+
+- Le cerveau ne peut pas traiter en même temps deux tâches qui demandent de l'attention.
+- En réalité, il passe d'une tâche à l'autre, et chaque changement coûte du temps.
+- Après un changement de tâche, on répond plus lentement et on se trompe plus souvent.
+- Téléphoner au volant rend un accident environ quatre fois plus probable, selon une étude.
+- Seul un petit pourcentage de personnes, les « supertaskers », fait vraiment bien plusieurs choses à la fois.
 
 ---
 type: article
@@ -6898,18 +7397,100 @@ status: planned
 
 ---
 type: article
-title: L'effet de repetition espacee dans l'apprentissage
-slug: l-effet-de-repetition-espacee-dans-l-apprentissage
+title: Pourquoi réviser en plusieurs fois aide-t-il à mieux retenir ?
+slug: pourquoi-reviser-en-plusieurs-fois-aide-t-il-a-mieux-retenir
 categoryPath: sciences-humaines-et-sociales/psychologie/cognition
 summary: >
-  Une methode simple et puissante pour memoriser durablement une information.
-tags: [cognition, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Nous oublions vite ce que nous venons d'apprendre. Mais chaque fois qu'on revoit une notion,
+  on l'oublie moins vite. En révisant à des intervalles de plus en plus longs, on retient
+  mieux avec moins d'efforts : c'est la répétition espacée.
+tags: [cognition]
+sources:
+  - title: "Répétition espacée"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9p%C3%A9tition_espac%C3%A9e"
+    publisher: "Wikipédia"
+  - title: "Courbe de l'oubli"
+    url: "https://fr.wikipedia.org/wiki/Courbe_de_l%27oubli"
+    publisher: "Wikipédia"
+  - title: "Leitner system"
+    url: "https://en.wikipedia.org/wiki/Leitner_system"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui a tracé la première « courbe de l'oubli » ?"
+    options:
+      - "Hermann Ebbinghaus"
+      - "Jean Piaget"
+      - "Sigmund Freud"
+    answer: 1
+    explanation: >
+      Le psychologue allemand Hermann Ebbinghaus a publié ses expériences sur la mémoire
+      en 1885.
+  - question: "Qu'apprenait Ebbinghaus pour tester sa mémoire ?"
+    options:
+      - "Des poèmes"
+      - "Des syllabes sans signification, comme ZOF"
+      - "Des numéros de téléphone"
+    answer: 2
+    explanation: >
+      Il apprenait des syllabes sans signification, puis testait ce qu'il en restait après
+      différentes durées.
+  - question: "Dans la méthode de Leitner, où va une carte à laquelle on a mal répondu ?"
+    options:
+      - "À la poubelle"
+      - "Dans la dernière boîte"
+      - "Dans la première boîte"
+    answer: 3
+    explanation: >
+      Une carte ratée revient dans la première boîte, qu'on révise le plus souvent.
+  - question: "Comment évoluent les intervalles entre les révisions dans la répétition espacée ?"
+    options:
+      - "Ils s'allongent"
+      - "Ils raccourcissent"
+      - "Ils restent toujours d'une minute"
+    answer: 1
+    explanation: >
+      Plus on maîtrise une notion, plus on peut attendre longtemps avant de la revoir.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Nous oublions vite ce que nous venons d'apprendre. Mais chaque fois qu'on revoit une notion, on l'oublie moins vite. En révisant à des intervalles de plus en plus longs, on retient mieux avec moins d'efforts : c'est la répétition espacée.
+
+## Nous oublions vite
+
+La mémoire humaine n'est pas parfaite. Ce que l'on vient d'apprendre s'efface vite si l'on n'y repense pas. Mais l'oubli est rarement total. Et quand on réapprend quelque chose, on l'oublie ensuite moins vite.
+
+## La courbe de l'oubli
+
+Le psychologue allemand Hermann Ebbinghaus a étudié ce phénomène sur lui-même. Il apprenait des syllabes sans signification, comme « ZOF » ou « IFD ». Puis il testait ce qu'il en restait après différentes durées.
+
+En 1885, il publie ses résultats dans un livre sur la mémoire. Il trace une courbe qui montre comment les souvenirs se perdent avec le temps : la courbe de l'oubli. Elle descend très vite au début, puis plus lentement.
+
+Ebbinghaus remarque aussi que chaque répétition rend le souvenir plus solide. Après chaque révision, on peut attendre plus longtemps avant la suivante.
+
+## Réviser au bon moment
+
+C'est le principe de la répétition espacée. On revoit une notion juste avant de l'oublier. La première révision vient vite, la suivante un peu plus tard, puis encore plus tard. Les intervalles s'allongent. Au bout du compte, on a besoin de réviser de moins en moins souvent.
+
+En 1932, le psychologue C. A. Mace propose déjà d'espacer les révisions : un jour, puis deux jours, puis quatre, puis huit. En 1939, H. F. Spitzer teste la méthode sur plus de 3 600 élèves de l'Iowa, aux États-Unis. Elle les aide à retenir des faits scientifiques.
+
+## Des boîtes et des applications
+
+En 1972, le journaliste scientifique allemand Sebastian Leitner propose une méthode simple avec des cartes. Une question est écrite d'un côté, la réponse de l'autre. Les cartes sont rangées dans plusieurs boîtes. La première boîte est révisée souvent, les suivantes de plus en plus rarement.
+
+Si on répond juste, la carte passe dans la boîte suivante. Si on se trompe, elle revient dans la première boîte. Ainsi, on passe plus de temps sur ce qu'on connaît mal.
+
+Aujourd'hui, des logiciels comme Anki ou des applications pour apprendre les langues appliquent ce principe. Ils calculent pour chaque carte le meilleur moment pour la revoir. La méthode marche bien pour le vocabulaire, mais aussi pour les mathématiques.
+
+## À retenir
+
+- Nous oublions vite ce que nous apprenons, mais chaque révision rend le souvenir plus solide.
+- En 1885, Hermann Ebbinghaus a tracé la courbe de l'oubli.
+- La répétition espacée consiste à réviser à des intervalles de plus en plus longs.
+- En 1972, Sebastian Leitner a inventé une méthode de révision avec des cartes rangées dans des boîtes.
+- Des logiciels comme Anki calculent le meilleur moment pour revoir chaque notion.
 
 ---
 type: article
@@ -7123,18 +7704,103 @@ status: planned
 
 ---
 type: article
-title: Le reflexe archaique chez le nouveau-ne
-slug: le-reflexe-archaique-chez-le-nouveau-ne
+title: Pourquoi un nouveau-né serre-t-il fort le doigt qu'on lui tend ?
+slug: pourquoi-un-nouveau-ne-serre-t-il-fort-le-doigt-qu-on-lui-tend
 categoryPath: sciences-humaines-et-sociales/psychologie/developpement
 summary: >
-  Des comportements automatiques presents des la naissance, qui disparaissent progressivement.
-tags: [developpement, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un nouveau-né fait des gestes automatiques sans le vouloir : il serre ce qu'on met dans sa
+  main, tète, sursaute. Ce sont les réflexes archaïques. Ils l'aident à survivre et
+  disparaissent en quelques mois, quand son cerveau mûrit.
+tags: [developpement]
+sources:
+  - title: "Réflexe archaïque"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9flexe_archa%C3%AFque"
+    publisher: "Wikipédia"
+  - title: "Primitive reflexes"
+    url: "https://en.wikipedia.org/wiki/Primitive_reflexes"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un nouveau-né quand on lui touche la paume de la main ?"
+    options:
+      - "Il ouvre la main"
+      - "Il serre fort les doigts"
+      - "Il s'endort"
+    answer: 2
+    explanation: >
+      C'est le réflexe de préhension. Sa prise est si forte qu'on peut presque le
+      soulever.
+  - question: "Quel réflexe fait écarter brusquement les bras au bébé quand il est surpris ?"
+    options:
+      - "Le réflexe de Moro"
+      - "Le réflexe de nage"
+      - "Le réflexe de succion"
+    answer: 1
+    explanation: >
+      Face à un bruit ou un mouvement soudain, le bébé écarte bras et jambes puis les
+      ramène, comme pour s'agripper.
+  - question: "Quelle partie du cerveau contrôle les réflexes archaïques à la naissance ?"
+    options:
+      - "Le lobe frontal"
+      - "L'oreille"
+      - "Le tronc cérébral"
+    answer: 3
+    explanation: >
+      À la naissance, le cortex n'est pas encore mûr. Ces réflexes sont surtout contrôlés
+      par le tronc cérébral.
+  - question: "Vers quel âge le réflexe de préhension disparaît-il ?"
+    options:
+      - "Vers 10 ans"
+      - "Vers 5 ou 6 mois"
+      - "Au bout d'une heure"
+    answer: 2
+    explanation: >
+      Le réflexe de préhension dure jusqu'à 5 ou 6 mois. L'enfant peut alors attraper les
+      objets volontairement.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un nouveau-né fait des gestes automatiques sans le vouloir : il serre ce qu'on met dans sa main, tète, sursaute. Ce sont les réflexes archaïques. Ils l'aident à survivre et disparaissent en quelques mois, quand son cerveau mûrit.
+
+## Des gestes automatiques
+
+Tendez un doigt à un nouveau-né. Il le serre aussitôt, et très fort. Il ne l'a pas décidé : c'est un réflexe. Un réflexe est un mouvement automatique et involontaire, déclenché par un contact, un bruit ou un mouvement.
+
+Les réflexes propres aux nouveau-nés s'appellent les réflexes archaïques, ou primitifs. Le médecin ou la sage-femme les vérifie lors du premier examen du bébé. Leur présence montre que son système nerveux se développe bien.
+
+## Les principaux réflexes
+
+Le réflexe de préhension fait fermer la main ou les orteils quand on touche la paume ou la plante du pied. La prise est si forte qu'il est possible de soulever l'enfant.
+
+Le réflexe de succion fait téter le bébé quand on touche le coin de ses lèvres. Il lui permet de se nourrir et l'aide aussi à se calmer.
+
+Le réflexe des points cardinaux fait tourner la tête vers la joue qu'on caresse, bouche ouverte. Il aide le bébé à trouver le sein.
+
+Le réflexe de Moro apparaît quand le bébé est surpris par un bruit, une lumière ou un mouvement brusque. Il écarte bras et jambes, puis les ramène comme pour s'agripper. Il porte le nom du pédiatre Ernst Moro, qui l'a décrit.
+
+Le réflexe de marche automatique fait « marcher » le bébé quelques pas quand on le tient debout et que ses pieds touchent une surface.
+
+Le réflexe de nage lui fait remuer bras et jambes s'il a le visage dans l'eau. Il ne l'empêche pas d'avaler de l'eau : un bébé ne sait pas nager.
+
+## Pourquoi ils disparaissent
+
+À la naissance, le cerveau n'est pas fini. Les réflexes archaïques sont surtout contrôlés par le tronc cérébral, à la base du cerveau. Peu à peu, le cortex mûrit. Il prend le contrôle des mouvements, qui deviennent volontaires.
+
+Les réflexes disparaissent alors, chacun à son rythme. Le réflexe de marche s'efface vers 2 mois. Le réflexe des points cardinaux disparaît vers 4 mois. Le réflexe de Moro s'efface vers 3 ou 4 mois, parfois 6. Le réflexe de préhension dure jusqu'à 5 ou 6 mois. Sa disparition permet à l'enfant d'attraper les objets quand il le veut.
+
+Certains réflexes restent toute la vie : le bâillement, l'éternuement, la toux ou le clignement des yeux.
+
+Si un réflexe archaïque persiste trop longtemps, ou s'il manque d'un côté du corps, le médecin cherche s'il y a un problème du système nerveux.
+
+## À retenir
+
+- Les réflexes archaïques sont des gestes automatiques et involontaires des nouveau-nés.
+- Le réflexe de préhension fait serrer très fort ce qu'on met dans la main du bébé.
+- Le réflexe de succion et celui des points cardinaux aident le bébé à se nourrir.
+- Ces réflexes sont contrôlés par le tronc cérébral et disparaissent quand le cortex mûrit.
+- La plupart s'effacent avant 6 mois ; le médecin les vérifie dès la naissance.
 
 ---
 type: article
@@ -7603,18 +8269,103 @@ status: planned
 
 ---
 type: article
-title: L'alphabetisation mondiale, progres et defis
-slug: l-alphabetisation-mondiale-progres-et-defis
+title: Comment le monde a-t-il appris à lire et à écrire ?
+slug: comment-le-monde-a-t-il-appris-a-lire-et-a-ecrire
 categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
 summary: >
-  Une avancee majeure de l'humanite, encore incomplete dans plusieurs regions du monde.
-tags: [education-et-mobilite, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En 1820, seulement 12 % des habitants de la planète savaient lire et écrire. En 2020, ils
+  étaient environ 87 %. Pourtant, des centaines de millions d'adultes ne savent toujours pas
+  lire, et les deux tiers sont des femmes.
+tags: [education-et-mobilite]
+sources:
+  - title: "Literacy"
+    url: "https://en.wikipedia.org/wiki/Literacy"
+    publisher: "Wikipedia"
+  - title: "Literacy"
+    url: "https://ourworldindata.org/literacy"
+    publisher: "Our World in Data"
+  - title: "Alphabétisation"
+    url: "https://fr.wikipedia.org/wiki/Alphab%C3%A9tisation"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle part de la population mondiale savait lire et écrire vers 1820 ?"
+    options:
+      - "Environ 12 %"
+      - "Environ 50 %"
+      - "Environ 90 %"
+    answer: 1
+    explanation: >
+      En 1820, la meilleure estimation est que 12 % des habitants de la planète savaient
+      lire et écrire.
+  - question: "Pourquoi le nombre d'adultes analphabètes a-t-il augmenté entre 1950 et 1990 ?"
+    options:
+      - "Parce que les écoles ont fermé"
+      - "Parce que la population a grandi très vite"
+      - "Parce qu'on a oublié comment lire"
+    answer: 2
+    explanation: >
+      La part d'analphabètes baissait, mais la population augmentait si vite que leur
+      nombre a grimpé jusqu'à 878 millions.
+  - question: "Quelle part des adultes analphabètes sont des femmes, selon les données de 2015 ?"
+    options:
+      - "Un dixième"
+      - "La moitié"
+      - "Environ deux tiers"
+    answer: 3
+    explanation: >
+      Selon l'Institut de statistique de l'UNESCO, 63 % des adultes analphabètes sont des
+      femmes.
+  - question: "Quel jour célèbre-t-on la Journée internationale de l'alphabétisation ?"
+    options:
+      - "Le 8 septembre"
+      - "Le 1er janvier"
+      - "Le 25 décembre"
+    answer: 1
+    explanation: >
+      L'UNESCO l'a créée en 1966. Elle est célébrée chaque 8 septembre depuis 1967.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1820, seulement 12 % des habitants de la planète savaient lire et écrire. En 2020, ils étaient environ 87 %. Pourtant, des centaines de millions d'adultes ne savent toujours pas lire, et les deux tiers sont des femmes.
+
+## Un privilège devenu presque général
+
+Être alphabétisé, c'est savoir lire et écrire. Il y a deux siècles, c'était le privilège d'une petite élite. Vers 1820, la meilleure estimation est que 12 % des habitants de la planète savaient lire et écrire.
+
+Les choses avaient commencé à changer en Europe du Nord-Ouest entre 1600 et 1800. Au XIXe siècle, la part de personnes alphabétisées dans le monde a plus que doublé. Le XXe siècle a ensuite connu des progrès très rapides, grâce au développement de l'école.
+
+## Les chiffres d'une conquête
+
+Selon l'UNESCO, l'organisation des Nations unies pour l'éducation, la part des adultes qui savent lire est passée de 55,7 % en 1950 à 86,2 % en 2015. Cela fait un gain d'environ 5 points tous les dix ans. En 2020, l'Institut de statistique de l'UNESCO l'estimait à 86,68 %.
+
+Aujourd'hui, la situation s'est presque inversée par rapport à 1820. Environ une personne sur dix seulement ne sait pas lire.
+
+## Plus de lecteurs, mais aussi plus d'analphabètes
+
+Il y a pourtant un paradoxe. La part des analphabètes a baissé, mais la population mondiale a grandi très vite. Leur nombre a donc augmenté : 700 millions d'adultes en 1950, puis 878 millions en 1990. Il est ensuite redescendu à 745 millions en 2015. C'est encore plus qu'en 1950.
+
+## Des inégalités qui restent
+
+Les filles ont longtemps été moins envoyées à l'école que les garçons. Selon les données de 2015, environ deux tiers des adultes analphabètes, 63 %, sont des femmes. L'écart s'est réduit entre 1970 et 2000, puis il a peu bougé depuis 2013 environ.
+
+Les différences entre régions restent fortes. En Afrique subsaharienne, 52 % des femmes adultes et 68 % des hommes savent lire. En Asie du Sud, ce sont 58 % des femmes et 77 % des hommes.
+
+## Des campagnes pour apprendre à lire
+
+Certains pays ont mené de grandes campagnes. À Cuba, en une seule année, plus de 700 000 habitants sur 7,5 millions ont appris à lire. Plus de 10 000 salles de classe ont été ouvertes en un seul jour.
+
+L'UNESCO a fait de l'alphabétisation l'une de ses missions. Elle estime que savoir lire aide à trouver un travail, à mieux se soigner et à mieux se nourrir. En 1966, elle a créé la Journée internationale de l'alphabétisation. Elle est célébrée chaque 8 septembre depuis 1967.
+
+## À retenir
+
+- Vers 1820, seulement 12 % des habitants de la planète savaient lire et écrire.
+- La part des adultes alphabétisés est passée de 55,7 % en 1950 à 86,2 % en 2015.
+- À cause de la croissance de la population, il restait 745 millions d'adultes analphabètes en 2015.
+- Environ deux tiers des adultes analphabètes sont des femmes.
+- La Journée internationale de l'alphabétisation a lieu chaque 8 septembre.
 
 ---
 type: article
@@ -9208,18 +9959,104 @@ status: planned
 
 ---
 type: article
-title: Les externalites et leur impact sur des tiers non directement impliques dans un echange
-slug: les-externalites-et-leur-impact-sur-des-tiers-non-directement-impliques-dans-un-echange
+title: Pourquoi la pollution d'une usine coûte-t-elle aussi à ses voisins ?
+slug: pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins
 categoryPath: sciences-humaines-et-sociales/economie/microeconomie
 summary: >
-  Des consequences, positives ou negatives, qui affectent des personnes exterieures a une transaction.
-tags: [microeconomie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand une activité a des effets sur des personnes qui ne sont pas concernées par l'échange,
+  les économistes parlent d'externalité. Une usine qui pollue impose un coût à ses voisins
+  sans les payer. Un apiculteur dont les abeilles pollinisent les arbres d'un voisin lui rend
+  service sans être payé.
+tags: [microeconomie]
+sources:
+  - title: "Externalité"
+    url: "https://fr.wikipedia.org/wiki/Externalit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Pigouvian tax"
+    url: "https://en.wikipedia.org/wiki/Pigouvian_tax"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment appelle-t-on l'effet d'une activité sur des personnes qui ne participent pas à l'échange ?"
+    options:
+      - "Une externalité"
+      - "Un impôt"
+      - "Un bénéfice"
+    answer: 1
+    explanation: >
+      Une externalité touche des tiers, des personnes extérieures à l'échange, sans qu'ils
+      paient ni soient payés.
+  - question: "Lequel de ces exemples est une externalité négative ?"
+    options:
+      - "Un voisin qui plante des fleurs"
+      - "Le bruit des avions pour les habitants d'en dessous"
+      - "Un vaccin qui protège aussi les autres"
+    answer: 2
+    explanation: >
+      Les habitants sous un couloir aérien subissent du bruit sans être dédommagés : c'est
+      une externalité négative.
+  - question: "Quel économiste a proposé de taxer les pollueurs ?"
+    options:
+      - "Adam Smith"
+      - "Karl Marx"
+      - "Arthur Cecil Pigou"
+    answer: 3
+    explanation: >
+      Dans un livre de 1920, l'économiste britannique Arthur Cecil Pigou a proposé cette
+      taxe, appelée taxe pigouvienne.
+  - question: "Que permet un marché des droits à polluer ?"
+    options:
+      - "Polluer sans limite"
+      - "Fixer une quantité maximale de pollution que les entreprises s'échangent"
+      - "Supprimer toutes les usines"
+    answer: 2
+    explanation: >
+      L'État fixe un plafond de pollution, puis distribue ou vend des droits que les
+      entreprises peuvent revendre.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand une activité a des effets sur des personnes qui ne sont pas concernées par l'échange, les économistes parlent d'externalité. Une usine qui pollue impose un coût à ses voisins sans les payer. Un apiculteur dont les abeilles pollinisent les arbres d'un voisin lui rend service sans être payé.
+
+## Des effets sur les autres
+
+Quand on achète un objet, l'échange concerne deux personnes : le vendeur et l'acheteur. Mais il arrive qu'une activité touche aussi d'autres personnes. Elles n'ont rien décidé, rien payé et ne reçoivent rien. Les économistes appellent cela une externalité.
+
+## Quand ça coûte aux autres
+
+Une externalité est négative quand elle nuit à quelqu'un sans compensation. Les exemples sont nombreux : fumées, bruit, lumière la nuit, embouteillages, changement climatique ou disparition d'espèces.
+
+Au début du XXe siècle, des mines de cuivre s'installent à Ducktown, aux États-Unis. Leur technique provoque des pluies acides. Les terres des agriculteurs voisins deviennent stériles. Mais les mines créent aussi des emplois dans la région.
+
+Les habitants qui vivent sous le passage des avions subissent aussi une externalité négative : le bruit.
+
+## Quand ça rend service
+
+Une externalité est positive quand une activité rend service à d'autres sans être payée. L'économiste James Meade a donné en 1952 un exemple célèbre. Un apiculteur installe ses ruches près d'un verger. Ses abeilles pollinisent les arbres fruitiers, ce qui aide l'arboriculteur. Et les fleurs du verger donnent un meilleur miel à l'apiculteur. Aucun des deux ne paie l'autre.
+
+Un vaccin contre la grippe protège celui qui le reçoit, mais aussi les gens qu'il aurait pu contaminer.
+
+## Pourquoi c'est un problème
+
+Le pollueur ne paie pas tout le coût de son activité. Il produit donc plus qu'il ne le ferait s'il devait payer les dégâts. À l'inverse, une activité utile aux autres peut être abandonnée, parce qu'elle ne rapporte pas assez à celui qui la fait.
+
+## Les solutions
+
+En 1920, l'économiste britannique Arthur Cecil Pigou a publié « The Economics of Welfare ». Il y propose de taxer le pollueur du montant des dégâts qu'il cause. On appelle cela une taxe pigouvienne. Le principe pollueur-payeur suit la même idée. Pour une externalité positive, l'État peut au contraire donner une subvention, comme pour les vaccins ou la recherche.
+
+L'État peut aussi fixer une quantité maximale de pollution. Il distribue ou vend des « droits à polluer ». Une entreprise qui pollue moins que prévu peut revendre ses droits à une autre.
+
+En 1960, l'économiste Ronald Coase a montré qu'une autre voie existe parfois. Le pollueur et ses victimes peuvent négocier un accord entre eux. Mais cela ne marche que dans des conditions assez rares.
+
+## À retenir
+
+- Une externalité est un effet d'une activité sur des personnes extérieures à l'échange.
+- Une externalité négative, comme la pollution, impose un coût aux autres sans les dédommager.
+- Une externalité positive, comme les abeilles qui pollinisent un verger voisin, rend service sans être payée.
+- En 1920, Arthur Cecil Pigou a proposé de taxer les pollueurs du montant des dégâts.
+- L'État peut aussi plafonner la pollution grâce à des droits à polluer échangeables.
 
 ---
 type: article

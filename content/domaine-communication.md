@@ -2197,18 +2197,105 @@ status: planned
 
 ---
 type: article
-title: Le journal a un centime et la presse populaire
-slug: le-journal-a-un-centime-et-la-presse-populaire
+title: Comment les journaux à petit prix ont-ils rendu la presse populaire ?
+slug: comment-les-journaux-a-petit-prix-ont-ils-rendu-la-presse-populaire
 categoryPath: communication-et-medias/histoire-des-medias/presse-ecrite
 summary: >
-  Comment un prix tres bas a ouvert la lecture de journaux au plus grand nombre.
+  Au début du 19e siècle, les journaux coûtaient cher et se vendaient surtout par abonnement.
+  Des patrons de presse ont alors baissé les prix, en comptant sur la publicité et sur de
+  nouvelles machines à imprimer. Vendus dans la rue, avec des faits divers et des feuilletons,
+  ces journaux ont atteint des millions de lecteurs.
 tags: [presse-ecrite]
-priority: 3
-essentiel: false
-status: planned
+sources:
+  - title: "Penny press"
+    url: "https://en.wikipedia.org/wiki/Penny_press"
+    publisher: "Wikipedia"
+  - title: "Le Petit Journal (quotidien)"
+    url: "https://fr.wikipedia.org/wiki/Le_Petit_Journal_(quotidien)"
+    publisher: "Wikipédia"
+  - title: "La Presse (France)"
+    url: "https://fr.wikipedia.org/wiki/La_Presse_(France)"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien coûtait Le Petit Journal à son lancement en 1863 ?"
+    options:
+      - "5 centimes"
+      - "15 centimes"
+      - "1 franc"
+    answer: 1
+    explanation: >
+      Le Petit Journal coûtait 5 centimes, contre 15 centimes pour les journaux
+      ordinaires.
+  - question: "Comment Émile de Girardin compensait-il la baisse du prix de son journal La Presse ?"
+    options:
+      - "En réduisant le nombre de pages à une seule"
+      - "Grâce à l'argent des annonceurs"
+      - "En supprimant les journalistes"
+    answer: 2
+    explanation: >
+      Girardin a divisé l'abonnement par deux et ouvert les colonnes du journal à la
+      publicité, qui rapportait de l'argent.
+  - question: "Quelle machine a permis d'imprimer Le Petit Journal plus vite et moins cher ?"
+    options:
+      - "La machine à écrire"
+      - "Le télégraphe"
+      - "La presse rotative"
+    answer: 3
+    explanation: >
+      La presse rotative, mise au point par Hippolyte Marinoni pour Le Petit Journal,
+      imprimait beaucoup plus vite.
+  - question: "Combien d'exemplaires Le Petit Journal tirait-il en 1890 ?"
+    options:
+      - "Environ 1 000"
+      - "Un million"
+      - "Cent millions"
+    answer: 2
+    explanation: >
+      En 1890, Le Petit Journal tirait à un million d'exemplaires. Vers 1895, il était le
+      journal le plus tiré au monde.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au début du 19e siècle, les journaux coûtaient cher et se vendaient surtout par abonnement. Des patrons de presse ont alors baissé les prix, en comptant sur la publicité et sur de nouvelles machines à imprimer. Vendus dans la rue, avec des faits divers et des feuilletons, ces journaux ont atteint des millions de lecteurs.
+
+## Des journaux réservés à quelques-uns
+
+Au début du 19e siècle, lire un journal coûtait cher. En France, il fallait le plus souvent payer un abonnement à l'année. Aux États-Unis, la plupart des journaux coûtaient six cents le numéro. Ils parlaient surtout de politique et d'affaires, pour un public aisé.
+
+Dans les années 1830, quelques patrons de presse ont une idée : vendre beaucoup moins cher, à beaucoup plus de lecteurs.
+
+## La publicité paie une partie du journal
+
+Le 1er juillet 1836, Émile de Girardin lance à Paris le quotidien La Presse. Il divise le prix de l'abonnement par deux, de 80 à 40 francs par an. Pour compenser, il ouvre largement son journal aux annonces publicitaires. Plus le journal a de lecteurs, plus les annonceurs paient cher pour y figurer.
+
+Girardin attire aussi les lecteurs avec le roman-feuilleton : un roman publié en morceaux, jour après jour. Pour connaître la suite, il faut acheter le numéro suivant. En 1836, La Presse publie ainsi un roman de Balzac.
+
+Au même moment, à New York, Benjamin Day lance en 1833 The Sun, vendu un cent au lieu de six. De jeunes vendeurs le crient dans les rues. Ces journaux à un cent sont appelés la « penny press ».
+
+## Imprimer plus vite, vendre partout
+
+Le 1er février 1863, Moïse Polydore Millaud lance à Paris Le Petit Journal. Il coûte 5 centimes, contre 15 pour les journaux ordinaires. Il se vend au numéro, sans abonnement, par des crieurs à la sortie des usines et des ateliers. Son format est plus petit que celui de ses concurrents, d'où son nom.
+
+Ce prix est possible grâce à une nouvelle machine, la presse rotative. Au lieu d'imprimer feuille par feuille, elle imprime en continu sur des cylindres qui tournent. L'ingénieur Hippolyte Marinoni en met au point pour Le Petit Journal à partir de 1867.
+
+## Des millions de lecteurs
+
+Le Petit Journal propose des nouvelles, mais aussi des faits divers, des feuilletons et des chroniques. En 1869, il raconte en détail une affaire criminelle qui passionne le pays. Son tirage passe de 200 000 à 500 000 exemplaires.
+
+Dès octobre 1863, il tire déjà à 83 000 exemplaires, plus que les grands journaux sérieux. En 1890, il atteint un million d'exemplaires. Vers 1895, il devient le journal le plus tiré au monde.
+
+Cette presse populaire a fait entrer le journal dans la vie de tous les jours. Mais des historiens lui reprochent d'avoir misé sur les faits divers spectaculaires pour vendre.
+
+## À retenir
+
+- Au début du 19e siècle, les journaux étaient chers et vendus surtout par abonnement à un public aisé.
+- En 1836, Émile de Girardin divise le prix de La Presse par deux et le compense par la publicité.
+- En 1833, The Sun de Benjamin Day est vendu un cent à New York, au lieu de six.
+- Le Petit Journal, lancé en 1863, coûte 5 centimes et s'imprime sur des presses rotatives.
+- Le Petit Journal atteint un million d'exemplaires en 1890 et devient vers 1895 le journal le plus tiré au monde.
 
 ---
 type: article
@@ -2902,33 +2989,202 @@ status: planned
 
 ---
 type: article
-title: La radio a ondes courtes et la diffusion internationale
-slug: la-radio-a-ondes-courtes-et-la-diffusion-internationale
+title: Pourquoi les ondes courtes peuvent-elles porter la radio à l'autre bout du monde ?
+slug: pourquoi-les-ondes-courtes-peuvent-elles-porter-la-radio-a-l-autre-bout-du-monde
 categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
 summary: >
-  Une technologie qui a longtemps permis d'ecouter des stations tres eloignees.
-tags: [radio-et-television, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les ondes courtes rebondissent sur une couche de l'atmosphère chargée d'électricité,
+  l'ionosphère. En rebondissant entre le ciel et le sol, elles dépassent l'horizon et
+  parcourent des milliers de kilomètres. Pendant des décennies, elles ont permis d'écouter des
+  radios étrangères.
+tags: [radio-et-television]
+sources:
+  - title: "Haute fréquence"
+    url: "https://fr.wikipedia.org/wiki/Haute_fr%C3%A9quence"
+    publisher: "Wikipédia"
+  - title: "Shortwave radio"
+    url: "https://en.wikipedia.org/wiki/Shortwave_radio"
+    publisher: "Wikipedia"
+  - title: "Ionosphère"
+    url: "https://fr.wikipedia.org/wiki/Ionosph%C3%A8re"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Sur quelle couche de l'atmosphère les ondes courtes rebondissent-elles ?"
+    options:
+      - "L'ionosphère"
+      - "La couche d'ozone"
+      - "Les nuages"
+    answer: 1
+    explanation: >
+      L'ionosphère contient des particules chargées d'électricité. Elle renvoie les ondes
+      courtes vers le sol.
+  - question: "Qu'est-ce qui crée l'ionosphère ?"
+    options:
+      - "La pollution des villes"
+      - "Le rayonnement ultraviolet du Soleil"
+      - "Les orages"
+    answer: 2
+    explanation: >
+      Les rayons ultraviolets du Soleil arrachent des électrons aux molécules de l'air.
+      Cela crée une couche chargée d'électricité.
+  - question: "Qui a réalisé en 1923 la première liaison radio dans les deux sens au-dessus de l'Atlantique ?"
+    options:
+      - "Des radioamateurs"
+      - "La BBC"
+      - "Des astronautes"
+    answer: 1
+    explanation: >
+      Le 27 novembre 1923, le radioamateur Léon Deloy, à Nice, a communiqué avec des
+      radioamateurs américains.
+  - question: "Quand la BBC a-t-elle lancé son service en ondes courtes vers l'étranger ?"
+    options:
+      - "En 1990"
+      - "En 1880"
+      - "Le 19 décembre 1932"
+    answer: 3
+    explanation: >
+      Le service de l'Empire de la BBC a commencé le 19 décembre 1932. Il est devenu le
+      BBC World Service.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les ondes courtes rebondissent sur une couche de l'atmosphère chargée d'électricité, l'ionosphère. En rebondissant entre le ciel et le sol, elles dépassent l'horizon et parcourent des milliers de kilomètres. Pendant des décennies, elles ont permis d'écouter des radios étrangères.
+
+## Des ondes qui ne vont pas tout droit
+
+Les ondes radio voyagent en ligne droite, comme la lumière. Or la Terre est ronde. Une onde qui part tout droit finit par passer au-dessus de l'horizon et se perdre dans l'espace. Pour beaucoup d'ondes radio, la portée reste donc limitée à quelques dizaines de kilomètres.
+
+Les ondes courtes font exception. Leur fréquence va de 3 à 30 mégahertz. Leur longueur d'onde, la distance entre deux bosses de l'onde, mesure de 10 à 100 mètres.
+
+## Un miroir dans le ciel
+
+Entre 60 et 1 000 kilomètres d'altitude se trouve l'ionosphère. Dans cette couche, les rayons ultraviolets du Soleil arrachent des électrons aux molécules de l'air. L'air y devient chargé d'électricité.
+
+Quand une onde courte est envoyée en biais vers le ciel, l'ionosphère la renvoie vers le sol, loin de l'émetteur. Le sol peut à son tour la renvoyer vers le ciel. L'onde fait ainsi plusieurs bonds et peut atteindre l'autre côté de la planète.
+
+Ce miroir change avec l'heure. Le jour, les fréquences au-dessus de 12 mégahertz environ portent plus loin. La nuit, ce sont plutôt les fréquences plus basses. Les radios émettent donc chaque programme sur plusieurs fréquences. Il existe aussi des zones de silence, où l'onde passe au-dessus sans être reçue.
+
+## Une découverte des radioamateurs
+
+Avant les années 1920, les spécialistes pensaient que les ondes courtes ne servaient à rien pour les longues distances. On les a laissées aux radioamateurs. Ce sont eux qui ont prouvé le contraire. Le 27 novembre 1923, le Français Léon Deloy, à Nice, réalise avec des radioamateurs américains la première liaison radio dans les deux sens au-dessus de l'Atlantique.
+
+En 1924, l'Italien Guglielmo Marconi teste à son tour les ondes courtes et les reçoit même en plein jour. En 1925, le physicien anglais Edward Appleton démontre l'existence de l'ionosphère.
+
+## Des voix venues de loin
+
+Les grandes radios internationales se lancent. Le 19 décembre 1932, la BBC britannique ouvre un service en ondes courtes destiné aux pays lointains de l'Empire britannique. Il deviendra le BBC World Service. Pendant des décennies, les ondes courtes relient les expatriés à leur pays, et servent aux navires, aux avions et aux militaires.
+
+Depuis les années 2000, Internet et les satellites les ont souvent remplacées. Mais elles restent utiles pour les liaisons de secours, en mer ou après une catastrophe, car elles ne dépendent d'aucun câble ni relais.
+
+## À retenir
+
+- Les ondes courtes ont une fréquence de 3 à 30 mégahertz et une longueur d'onde de 10 à 100 mètres.
+- Elles rebondissent sur l'ionosphère, une couche de l'air chargée d'électricité située entre 60 et 1 000 km d'altitude.
+- En faisant plusieurs bonds entre le ciel et le sol, elles peuvent faire le tour de la Terre.
+- Les radioamateurs ont réalisé en 1923 la première liaison transatlantique dans les deux sens en ondes courtes.
+- La BBC a lancé son service international en ondes courtes le 19 décembre 1932.
 
 ---
 type: article
-title: La construction et l'utilisation d'un poste radio a cristal
-slug: la-construction-et-l-utilisation-d-un-poste-radio-a-cristal
+title: Comment un poste à galène capte-t-il la radio sans pile ni prise ?
+slug: comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise
 categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
 summary: >
-  Un recepteur tres simple, sans piles, base uniquement sur l'energie de l'onde captee.
-tags: [radio-et-television, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un poste à galène est le récepteur radio le plus simple. Il utilise seulement l'énergie des
+  ondes radio captées par son antenne. Un petit cristal transforme ces ondes en un courant que
+  l'écouteur change en son.
+tags: [radio-et-television]
+sources:
+  - title: "Récepteur à cristal"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9cepteur_%C3%A0_cristal"
+    publisher: "Wikipédia"
+  - title: "Crystal radio"
+    url: "https://en.wikipedia.org/wiki/Crystal_radio"
+    publisher: "Wikipedia"
+quiz:
+  - question: "D'où vient l'énergie qui fait fonctionner un poste à galène ?"
+    options:
+      - "D'une pile cachée"
+      - "Des ondes radio captées par l'antenne"
+      - "D'une manivelle"
+    answer: 2
+    explanation: >
+      Le poste à galène n'a aucune alimentation. Toute son énergie vient des ondes
+      envoyées par l'émetteur et captées par l'antenne.
+  - question: "Qu'est-ce que la galène ?"
+    options:
+      - "Un cristal de sulfure de plomb"
+      - "Une sorte de pile"
+      - "Un fil de cuivre"
+    answer: 1
+    explanation: >
+      La galène est un cristal minéral fait de sulfure de plomb. Elle laisse passer le
+      courant dans un seul sens.
+  - question: "Pourquoi utilise-t-on un écouteur et pas un haut-parleur ?"
+    options:
+      - "Parce que le son est trop fort"
+      - "Parce que les haut-parleurs n'existaient pas"
+      - "Parce que le courant produit est très faible"
+    answer: 3
+    explanation: >
+      Le courant est trop faible pour faire marcher un haut-parleur. Il faut un écouteur
+      très sensible.
+  - question: "Vers quelle année les postes à galène ont-ils été remplacés par des postes à lampes ?"
+    options:
+      - "Vers 1920"
+      - "Vers 1850"
+      - "Vers 1990"
+    answer: 1
+    explanation: >
+      Vers 1920, les postes à lampes, capables d'amplifier le son, ont remplacé les postes
+      à galène.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un poste à galène est le récepteur radio le plus simple. Il utilise seulement l'énergie des ondes radio captées par son antenne. Un petit cristal transforme ces ondes en un courant que l'écouteur change en son.
+
+## Une radio qui ne consomme rien
+
+La plupart des radios ont besoin de piles ou d'une prise électrique. Le poste à galène, lui, n'en a pas besoin. Toute son énergie vient des ondes radio envoyées par l'émetteur de la station. On l'appelle aussi récepteur à cristal.
+
+Il fonctionne avec la radio en modulation d'amplitude, notée AM. Dans ce type d'émission, la force de l'onde varie au rythme du son.
+
+## Quatre pièces suffisent
+
+Un poste à galène peut se construire avec peu de matériel.
+
+1. L'antenne. C'est un long fil, tendu le plus haut possible. Les ondes radio y créent un très faible courant électrique.
+2. Le circuit d'accord. Il est formé d'une bobine de fil et d'un condensateur. En le réglant, on choisit une seule station parmi toutes celles que capte l'antenne.
+3. Le détecteur. C'est le cristal qui donne son nom au poste. Il transforme le signal radio en un courant qui suit les variations du son.
+4. L'écouteur. Il change ce courant en son.
+
+## Le rôle du cristal
+
+La galène est un cristal minéral fait de sulfure de plomb. Un fil métallique très fin, appelé « moustache de chat », touche un point de sa surface. Ce contact laisse passer le courant dans un seul sens. C'est grâce à cela que le son caché dans l'onde radio peut être extrait. Aujourd'hui, on remplace le cristal par une diode, un petit composant électronique qui fait le même travail.
+
+Le son obtenu est très faible. Il faut un écouteur très sensible, car le courant ne suffit pas pour un haut-parleur. La portée est limitée : environ 40 kilomètres pour une station de radio AM.
+
+## Une longue histoire
+
+En 1901, le savant indien Jagadish Chandra Bose dépose un brevet pour un détecteur d'ondes utilisant un cristal de galène. En 1906, l'Américain Greenleaf Whittier Pickard brevette un détecteur à cristal avec sa fine moustache de métal.
+
+Les postes à galène équipaient les navires et les premiers avions. Pendant la Première Guerre mondiale, ils étaient très répandus dans les tranchées. Avec les débuts de la radiodiffusion, des millions de gens en ont acheté ou fabriqué un.
+
+Vers 1920, les postes à lampes, qui amplifient le son, les ont remplacés. Mais des passionnés et des scouts continuent d'en construire pour comprendre comment marche la radio.
+
+## À retenir
+
+- Un poste à galène fonctionne sans pile ni prise, avec la seule énergie des ondes radio.
+- Il comprend une antenne, un circuit d'accord pour choisir la station, un détecteur à cristal et un écouteur.
+- La galène, un cristal de sulfure de plomb, ne laisse passer le courant que dans un sens.
+- Le son est faible : il faut un écouteur sensible et la portée est limitée.
+- Les postes à galène ont été remplacés vers 1920 par des postes à lampes qui amplifient le son.
 
 ---
 type: article
@@ -5017,18 +5273,102 @@ status: planned
 
 ---
 type: article
-title: Le langage HTML, structurer une page web
-slug: le-langage-html-structurer-une-page-web
+title: Comment le langage HTML construit-il une page web ?
+slug: comment-le-langage-html-construit-il-une-page-web
 categoryPath: communication-et-medias/medias-numeriques/web
 summary: >
-  Le code de base qui permet de construire n'importe quelle page internet.
-tags: [web, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le HTML est le langage qui sert à écrire les pages web. Il entoure chaque morceau de texte
+  de balises qui indiquent au navigateur ce que c'est : un titre, un paragraphe, une image ou
+  un lien. Il a été inventé par Tim Berners-Lee au CERN, à la fin de 1990.
+tags: [web]
+sources:
+  - title: "Hypertext Markup Language"
+    url: "https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"
+    publisher: "Wikipédia"
+  - title: "HTML"
+    url: "https://en.wikipedia.org/wiki/HTML"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment s'écrivent les balises HTML ?"
+    options:
+      - "Entre chevrons, les signes inférieur et supérieur"
+      - "Entre parenthèses"
+      - "En lettres majuscules seulement"
+    answer: 1
+    explanation: >
+      Les balises s'écrivent entre chevrons. Le navigateur ne les affiche pas : il s'en
+      sert pour comprendre la page.
+  - question: "À quoi sert le CSS, utilisé avec le HTML ?"
+    options:
+      - "À envoyer des courriels"
+      - "À décider de l'apparence de la page"
+      - "À compter les visiteurs"
+    answer: 2
+    explanation: >
+      Le HTML décrit le contenu de la page. Le CSS décide de son apparence : couleurs,
+      polices, mise en page.
+  - question: "Qui a inventé le HTML ?"
+    options:
+      - "Gutenberg"
+      - "Lou Montulli"
+      - "Tim Berners-Lee"
+    answer: 3
+    explanation: >
+      Tim Berners-Lee a défini le HTML à la fin de 1990, au CERN, près de Genève.
+  - question: "Combien d'éléments comptait la première description publique du HTML ?"
+    options:
+      - "18"
+      - "2"
+      - "5 000"
+    answer: 1
+    explanation: >
+      Le document « HTML Tags », cité en 1991, décrivait 18 éléments seulement.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le HTML est le langage qui sert à écrire les pages web. Il entoure chaque morceau de texte de balises qui indiquent au navigateur ce que c'est : un titre, un paragraphe, une image ou un lien. Il a été inventé par Tim Berners-Lee au CERN, à la fin de 1990.
+
+## Un texte avec des étiquettes
+
+Une page web est d'abord un fichier de texte. Ce texte est écrit dans un langage spécial : le HTML, pour « HyperText Markup Language ». Ce n'est pas un langage de programmation qui fait des calculs. C'est un langage de balisage : il sert à étiqueter chaque morceau de texte.
+
+Ces étiquettes s'appellent des balises. Elles s'écrivent entre chevrons, les signes « inférieur à » et « supérieur à ». Par exemple, la balise `<p>` annonce le début d'un paragraphe et `</p>` en marque la fin. La barre oblique signale la balise de fermeture.
+
+## Le navigateur lit les balises
+
+Quand on ouvre une page, le navigateur reçoit ce fichier. Il n'affiche pas les balises. Il s'en sert pour comprendre comment présenter le contenu.
+
+Chaque balise a un rôle.
+
+- `<h1>` annonce un grand titre.
+- `<p>` entoure un paragraphe.
+- `<img>` place une image dans la page.
+- `<a>` crée un lien vers une autre page.
+
+Les liens sont la grande idée du web. On les appelle des hyperliens. Un simple clic mène vers une autre page, parfois sur un ordinateur à l'autre bout du monde.
+
+Les balises s'emboîtent les unes dans les autres, comme des boîtes. Une liste contient des éléments, un paragraphe peut contenir un lien. La page forme ainsi une sorte d'arbre.
+
+## Trois langages qui travaillent ensemble
+
+Le HTML décrit le contenu et sa structure : ce qui est un titre, ce qui est un paragraphe. Il travaille souvent avec deux autres langages. Le CSS, ou feuilles de style, décide de l'apparence : couleurs, tailles de texte, mise en page. Le JavaScript rend la page interactive, par exemple pour afficher un menu quand on clique.
+
+## Né au CERN
+
+Le physicien britannique Tim Berners-Lee travaillait au CERN, un grand laboratoire de recherche près de Genève. Il voulait aider les chercheurs à partager leurs documents. À la fin de 1990, il définit le HTML et écrit le premier navigateur et le premier serveur web. Le HTML est l'une des trois inventions fondatrices du web, avec le protocole HTTP, qui transporte les pages, et les adresses web, appelées URL.
+
+En 1991, le premier document public sur le HTML décrit seulement 18 éléments. Le langage s'enrichit ensuite avec les tableaux, les formulaires et les styles. La version HTML5 est devenue une norme officielle le 28 octobre 2014. Depuis 2019, le HTML est un « standard vivant », mis à jour en continu.
+
+## À retenir
+
+- Le HTML est le langage de balisage qui sert à écrire les pages web.
+- Les balises, écrites entre chevrons, indiquent au navigateur ce qu'est chaque élément : titre, paragraphe, image ou lien.
+- Le HTML décrit le contenu, le CSS gère l'apparence et le JavaScript l'interactivité.
+- Tim Berners-Lee a inventé le HTML au CERN à la fin de 1990, avec le protocole HTTP et les adresses URL.
+- La version HTML5 est devenue une norme officielle le 28 octobre 2014.
 
 ---
 type: article
@@ -5775,18 +6115,100 @@ status: planned
 
 ---
 type: article
-title: Le SMS, un format ne d'une contrainte technique
-slug: le-sms-un-format-ne-d-une-contrainte-technique
+title: Pourquoi un SMS est-il limité à 160 caractères ?
+slug: pourquoi-un-sms-est-il-limite-a-160-caracteres
 categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
 summary: >
-  Comment une limite de 160 caracteres a change durablement la communication.
+  Le SMS a été conçu pour voyager dans de petits canaux que le réseau mobile utilise déjà pour
+  gérer les appels. Ces canaux ne laissent passer que 140 octets, soit 160 lettres simples. Le
+  premier SMS a été envoyé le 3 décembre 1992.
 tags: [reseaux-mobiles]
-priority: 3
-essentiel: false
-status: planned
+sources:
+  - title: "Short Message Service"
+    url: "https://fr.wikipedia.org/wiki/Short_Message_Service"
+    publisher: "Wikipédia"
+  - title: "SMS"
+    url: "https://en.wikipedia.org/wiki/SMS"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Par où passent les SMS dans le réseau mobile ?"
+    options:
+      - "Par des canaux qui servent à gérer les appels"
+      - "Par la radio FM"
+      - "Par le courrier postal"
+    answer: 1
+    explanation: >
+      Les SMS empruntent les canaux de signalisation, qui servent à gérer les appels,
+      quand ils sont libres.
+  - question: "Combien d'octets peut contenir un SMS ?"
+    options:
+      - "16"
+      - "140"
+      - "1 000 000"
+    answer: 2
+    explanation: >
+      Un SMS contient 140 octets, soit 1 120 bits. Avec 7 bits par lettre, cela fait 160
+      caractères.
+  - question: "Quel était le texte du premier SMS, envoyé en 1992 ?"
+    options:
+      - "« Bonjour le monde »"
+      - "« Allô, tu m'entends ? »"
+      - "« Merry Christmas », c'est-à-dire « Joyeux Noël »"
+    answer: 3
+    explanation: >
+      Le 3 décembre 1992, l'ingénieur Neil Papworth a envoyé « Merry Christmas » depuis un
+      ordinateur.
+  - question: "Combien de caractères tient un SMS qui utilise des caractères absents de l'alphabet de base ?"
+    options:
+      - "70"
+      - "160"
+      - "500"
+    answer: 1
+    explanation: >
+      Ces caractères demandent 16 bits chacun. Le SMS n'en contient alors que 70.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le SMS a été conçu pour voyager dans de petits canaux que le réseau mobile utilise déjà pour gérer les appels. Ces canaux ne laissent passer que 140 octets, soit 160 lettres simples. Le premier SMS a été envoyé le 3 décembre 1992.
+
+## Une place gratuite dans le réseau
+
+Le SMS, pour « Short Message Service », est né dans les années 1980, pendant la création de la norme GSM, la norme de téléphonie mobile européenne. En 1984, l'Allemand Friedhelm Hillebrand et le Français Bernard Ghillebaert ont une idée astucieuse.
+
+Un réseau mobile ne transporte pas seulement les voix. Il envoie aussi de petits messages techniques pour gérer les appels : faire sonner un téléphone, établir la communication, la terminer. Ces messages passent par des canaux appelés canaux de signalisation. Souvent, ces canaux sont vides. Les deux ingénieurs proposent d'y glisser de courts messages écrits. Ainsi, le SMS utilise une place libre et coûte très peu au réseau.
+
+## Le calcul des 160 caractères
+
+Ces canaux ont une taille fixe. Un message ne peut y occuper que 140 octets. Un octet compte 8 bits, et un bit est un 0 ou un 1. Un SMS contient donc 1 120 bits.
+
+Pour les lettres simples, chaque caractère est codé avec 7 bits. Or 1 120 divisé par 7 donne 160. Voilà d'où vient la limite de 160 caractères.
+
+Friedhelm Hillebrand a vérifié que ce nombre suffisait. Il a observé la longueur des cartes postales et des télégrammes. La plupart des messages courts tenaient en moins de 160 caractères.
+
+Certains caractères, comme ceux d'autres alphabets, ne tiennent pas dans 7 bits. Ils en demandent 16. Un SMS qui en contient ne compte plus que 70 caractères. Un message trop long est découpé en plusieurs SMS, que le téléphone recolle à l'arrivée.
+
+## Joyeux Noël
+
+Le 3 décembre 1992, au Royaume-Uni, l'ingénieur Neil Papworth envoie le premier SMS sur le réseau Vodafone. Les téléphones n'ont pas encore de clavier adapté. Il l'écrit donc sur un ordinateur. Le message dit « Merry Christmas », c'est-à-dire « Joyeux Noël ».
+
+En 1993, l'opérateur finlandais Radiolinja propose le premier service de SMS entre particuliers. Le Nokia 2010, sorti en janvier 1994, est le premier téléphone qui permet d'écrire facilement des messages.
+
+## Un succès inattendu
+
+Beaucoup d'opérateurs pensaient que les gens préféreraient appeler. Mais le SMS coûtait bien moins cher qu'un appel. En 2010 et 2011, environ 200 000 SMS étaient envoyés chaque seconde dans le monde. Pour tenir dans 160 caractères, les utilisateurs ont inventé un langage abrégé, le « langage SMS ».
+
+En France, chaque personne envoyait en moyenne 219 SMS par mois. Ce nombre a été divisé par deux en 2016. Les applications de messagerie par Internet, sans limite de caractères, ont pris le relais.
+
+## À retenir
+
+- Le SMS passe par les canaux de signalisation du réseau mobile, qui servent à gérer les appels.
+- Ces canaux ne laissent passer que 140 octets, soit 1 120 bits.
+- Avec 7 bits par lettre, 1 120 bits donnent 160 caractères ; avec certains caractères spéciaux, on tombe à 70.
+- Le premier SMS, « Merry Christmas », a été envoyé le 3 décembre 1992 au Royaume-Uni.
+- Vers 2010, environ 200 000 SMS étaient envoyés chaque seconde dans le monde.
 
 ---
 type: article
@@ -6180,18 +6602,100 @@ status: planned
 
 ---
 type: article
-title: La telephonie satellite pour les zones isolees
-slug: la-telephonie-satellite-pour-les-zones-isolees
+title: Comment un téléphone satellite fonctionne-t-il loin de toute antenne relais ?
+slug: comment-un-telephone-satellite-fonctionne-t-il-loin-de-toute-antenne-relais
 categoryPath: communication-et-medias/telecommunications/satellites
 summary: >
-  Une solution de connexion la ou aucune autre infrastructure n'est disponible.
-tags: [satellites, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un téléphone satellite envoie son signal directement vers un satellite, au lieu d'une
+  antenne relais au sol. Le satellite le transmet à une station terrestre, qui le fait entrer
+  dans le réseau téléphonique. Il fonctionne en plein désert ou au milieu de l'océan, à
+  condition de voir le ciel.
+tags: [satellites]
+sources:
+  - title: "Téléphonie par satellite"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phonie_par_satellite"
+    publisher: "Wikipédia"
+  - title: "Satellite phone"
+    url: "https://en.wikipedia.org/wiki/Satellite_phone"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que remplacent les satellites dans la téléphonie par satellite ?"
+    options:
+      - "Les écouteurs"
+      - "Les antennes relais au sol"
+      - "Les batteries"
+    answer: 2
+    explanation: >
+      Les satellites jouent le rôle des antennes relais terrestres. Ils couvrent aussi les
+      déserts et les océans.
+  - question: "Combien de satellites compte le réseau Iridium ?"
+    options:
+      - "3"
+      - "66"
+      - "10 000"
+    answer: 2
+    explanation: >
+      Iridium utilise 66 satellites en service, qui passent près des pôles et se
+      transmettent les appels entre eux.
+  - question: "Pourquoi un téléphone satellite marche-t-il mal à l'intérieur d'une maison ?"
+    options:
+      - "Il a besoin de voir le ciel pour capter le satellite"
+      - "Il a peur du noir"
+      - "Les murs le déchargent"
+    answer: 1
+    explanation: >
+      Le téléphone doit avoir une ligne directe vers le satellite. À l'intérieur, la
+      réception est limitée.
+  - question: "Combien de satellites géostationnaires suffisent pour couvrir presque toute la planète ?"
+    options:
+      - "Cent"
+      - "Un seul"
+      - "Trois"
+    answer: 3
+    explanation: >
+      Un satellite géostationnaire voit près de la moitié de la Terre. Trois suffisent
+      pour un réseau mondial, sauf près des pôles.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un téléphone satellite envoie son signal directement vers un satellite, au lieu d'une antenne relais au sol. Le satellite le transmet à une station terrestre, qui le fait entrer dans le réseau téléphonique. Il fonctionne en plein désert ou au milieu de l'océan, à condition de voir le ciel.
+
+## Quand il n'y a plus d'antenne
+
+Un téléphone portable ordinaire a besoin d'antennes relais au sol. Or il n'y en a pas au milieu de l'océan, dans le désert ou en haute montagne. Construire des antennes n'y serait pas rentable, car trop peu de gens y vivent.
+
+Le téléphone satellite résout ce problème. Il communique directement avec des satellites qui tournent autour de la Terre. Ces satellites jouent le rôle des antennes relais.
+
+## Le trajet d'un appel
+
+Quand on appelle, le téléphone envoie son signal vers un satellite. Le satellite le renvoie vers une station passerelle, une installation au sol avec de grandes antennes paraboliques. Cette station fait entrer l'appel dans le réseau téléphonique ordinaire. La communication peut alors joindre un téléphone fixe ou un portable classique.
+
+Le téléphone doit « voir » le satellite. Il faut donc être dehors, avec une vue dégagée sur le ciel. À l'intérieur d'un bâtiment, la réception est limitée.
+
+Les téléphones satellites sont plus lourds que les portables ordinaires, à partir de 250 grammes. Ils ont une antenne externe, car le satellite est loin : de 700 à 36 000 kilomètres.
+
+## Deux façons de couvrir la Terre
+
+Certains réseaux utilisent des satellites en orbite basse, entre 500 et 1 200 kilomètres d'altitude. Ils traversent le ciel en quelques minutes. Il en faut donc plusieurs dizaines pour qu'il y en ait toujours un au-dessus de l'utilisateur. Le réseau Iridium utilise 66 satellites. Ils se passent les appels de l'un à l'autre, jusqu'à celui qui survole une station passerelle.
+
+D'autres réseaux utilisent des satellites géostationnaires, à 36 000 kilomètres. Ils semblent immobiles dans le ciel. Chacun voit près de la moitié de la planète. Trois satellites suffisent pour couvrir presque toute la Terre, sauf les régions polaires. Mais le trajet est plus long, ce qui ajoute un petit retard dans la conversation.
+
+## Une technologie de secours
+
+L'entreprise américaine Motorola a imaginé le réseau Iridium à partir de 1987. Mais ces réseaux ont coûté plusieurs milliards de dollars. Pendant ce temps, les réseaux mobiles au sol se sont étendus très vite. En 1999, quelques mois après son ouverture, Iridium a fait faillite. L'entreprise a ensuite redémarré.
+
+Aujourd'hui, les téléphones satellites servent surtout aux marins, aux explorateurs et aux secours. Ils ont permis de communiquer après de grands tremblements de terre et des ouragans, quand les antennes au sol étaient détruites ou privées d'électricité. Depuis peu, certains smartphones ordinaires peuvent aussi se connecter directement à des satellites.
+
+## À retenir
+
+- Un téléphone satellite communique avec des satellites au lieu d'antennes relais au sol.
+- Le satellite transmet l'appel à une station passerelle, qui le fait entrer dans le réseau téléphonique ordinaire.
+- Il faut une vue dégagée sur le ciel : à l'intérieur, la réception est limitée.
+- Le réseau Iridium utilise 66 satellites en orbite basse, tandis que trois satellites géostationnaires couvrent presque toute la Terre.
+- Les téléphones satellites servent aux marins, aux explorateurs et aux secours après les catastrophes.
 
 ---
 type: article
@@ -9870,18 +10374,106 @@ status: planned
 
 ---
 type: article
-title: Les cookies et le suivi de navigation sur les sites web
-slug: les-cookies-et-le-suivi-de-navigation-sur-les-sites-web
+title: Comment un site web se souvient-il de vous grâce aux cookies ?
+slug: comment-un-site-web-se-souvient-il-de-vous-grace-aux-cookies
 categoryPath: communication-et-medias/medias-numeriques/web
 summary: >
-  Une technologie courante qui souleve des questions importantes de protection de la vie privee.
-tags: [web, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un cookie est une petite donnée qu'un site web dépose dans votre navigateur. Le navigateur
+  la renvoie au site à chaque nouvelle page, ce qui permet au site de vous reconnaître. Les
+  cookies servent au panier d'achat et à rester connecté, mais aussi à suivre les internautes
+  pour la publicité.
+tags: [web]
+sources:
+  - title: "Cookie (informatique)"
+    url: "https://fr.wikipedia.org/wiki/Cookie_(informatique)"
+    publisher: "Wikipédia"
+  - title: "Cookies et traceurs, que dit la loi"
+    url: "https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies/que-dit-la-loi"
+    publisher: "CNIL"
+quiz:
+  - question: "Où un cookie est-il enregistré ?"
+    options:
+      - "Dans le navigateur, sur votre appareil"
+      - "Dans un satellite"
+      - "Dans la box Internet du voisin"
+    answer: 1
+    explanation: >
+      Le site envoie le cookie, et le navigateur l'enregistre sur votre ordinateur ou
+      votre téléphone.
+  - question: "Qui a eu l'idée d'utiliser les cookies sur le web, en 1994 ?"
+    options:
+      - "Tim Berners-Lee"
+      - "Lou Montulli, chez Netscape"
+      - "Johannes Gutenberg"
+    answer: 2
+    explanation: >
+      Lou Montulli, ingénieur chez Netscape, a eu cette idée en juin 1994.
+  - question: "Qu'est-ce qu'un cookie tiers ?"
+    options:
+      - "Un cookie qui dure trois jours"
+      - "Un cookie que l'on mange au goûter"
+      - "Un cookie déposé par un autre site que celui que l'on visite"
+    answer: 3
+    explanation: >
+      Un cookie tiers vient d'un autre domaine, souvent une publicité intégrée à la page.
+      Il peut suivre l'internaute de site en site.
+  - question: "Selon la CNIL, comment doit-on pouvoir retirer son accord aux cookies ?"
+    options:
+      - "Aussi simplement qu'on l'a donné"
+      - "Par lettre recommandée"
+      - "Ce n'est pas possible"
+    answer: 1
+    explanation: >
+      Le consentement doit pouvoir être retiré à tout moment, avec la même simplicité que
+      lorsqu'on l'a accordé.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un cookie est une petite donnée qu'un site web dépose dans votre navigateur. Le navigateur la renvoie au site à chaque nouvelle page, ce qui permet au site de vous reconnaître. Les cookies servent au panier d'achat et à rester connecté, mais aussi à suivre les internautes pour la publicité.
+
+## Un web sans mémoire
+
+Quand votre navigateur demande une page à un site, le site la lui envoie. Puis il oublie tout. À la page suivante, il ne sait pas que c'est encore vous. C'est gênant pour un magasin en ligne : comment se souvenir de ce qu'il y a dans votre panier ?
+
+La solution s'appelle le cookie, un mot anglais qui veut dire « biscuit ». En français, on dit aussi témoin de connexion.
+
+## Comment ça marche
+
+Un cookie est une petite quantité de données, enregistrée sous forme de texte. Lors de votre première visite, le site l'envoie à votre navigateur. Le navigateur l'enregistre sur votre ordinateur ou votre téléphone.
+
+Ensuite, à chaque nouvelle page demandée à ce site, le navigateur renvoie le cookie. Le site lit alors l'information et vous reconnaît. Un cookie peut durer quelques minutes ou plusieurs années.
+
+Souvent, le cookie contient seulement un numéro unique, appelé identifiant de session. Les informations, comme le contenu du panier, restent sur l'ordinateur du site, rangées sous ce numéro.
+
+## À quoi servent les cookies ?
+
+- Garder le contenu d'un panier d'achat pendant la visite.
+- Rester connecté à son compte en passant d'une page à l'autre.
+- Retenir des préférences, comme la langue ou l'affichage.
+- Compter les visites et connaître les pages les plus lues.
+
+## Les cookies qui vous suivent
+
+Une page web contient souvent des éléments venus d'autres sites, comme des publicités. Ces éléments peuvent déposer leurs propres cookies, appelés cookies tiers. Une même entreprise de publicité présente sur des milliers de sites peut ainsi reconnaître un internaute partout où il va. Elle peut en tirer un profil de ses goûts pour choisir les publicités à lui montrer.
+
+Certains navigateurs, comme Firefox ou Safari, bloquent par défaut beaucoup de cookies tiers. On peut aussi les gérer dans les réglages de son navigateur.
+
+## Ce que dit la loi
+
+L'ingénieur Lou Montulli, de l'entreprise Netscape, a eu l'idée des cookies pour le web en juin 1994. Ils servaient d'abord à savoir si un visiteur était déjà venu sur le site.
+
+En Europe, une directive de 2002, modifiée en 2009, impose de demander l'accord de l'internaute avant de déposer la plupart des cookies. Seuls ceux strictement nécessaires au service demandé, comme le panier, en sont dispensés. C'est pourquoi tant de sites affichent un bandeau à l'arrivée. En France, la CNIL rappelle que cet accord doit être libre et éclairé, et qu'on doit pouvoir le retirer aussi simplement qu'on l'a donné.
+
+## À retenir
+
+- Un cookie est une petite donnée qu'un site dépose dans le navigateur, qui la renvoie à chaque nouvelle page.
+- Il permet au site de vous reconnaître, par exemple pour garder un panier ou rester connecté.
+- Les cookies tiers, déposés par d'autres sites comme des publicités, peuvent suivre un internaute de site en site.
+- Lou Montulli, chez Netscape, a eu l'idée des cookies pour le web en 1994.
+- En Europe, la plupart des cookies exigent l'accord de l'internaute, qui doit pouvoir le retirer aussi simplement qu'il l'a donné.
 
 ---
 type: article
@@ -10350,18 +10942,102 @@ status: planned
 
 ---
 type: article
-title: L'histoire du telephone fixe et son role social avant l'ere mobile
-slug: l-histoire-du-telephone-fixe-et-son-role-social-avant-l-ere-mobile
+title: Comment le téléphone fixe transportait-il la voix par un fil ?
+slug: comment-le-telephone-fixe-transportait-il-la-voix-par-un-fil
 categoryPath: communication-et-medias/telecommunications/fibre-et-reseaux-fixes
 summary: >
-  Un objet autrefois central dans la communication familiale et professionnelle quotidienne.
+  Le téléphone transforme les vibrations de la voix en courant électrique, qui voyage dans un
+  fil jusqu'à un autre appareil. Là, le courant redevient un son. Longtemps, des opératrices
+  reliaient les appels à la main, avant l'arrivée des centraux automatiques.
 tags: [fibre-et-reseaux-fixes]
-priority: 3
-essentiel: false
-status: planned
+sources:
+  - title: "Téléphone"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phone"
+    publisher: "Wikipédia"
+  - title: "Histoire du téléphone en France"
+    url: "https://fr.wikipedia.org/wiki/Histoire_du_t%C3%A9l%C3%A9phone_en_France"
+    publisher: "Wikipédia"
+  - title: "Alexander Graham Bell"
+    url: "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait le microphone d'un téléphone ?"
+    options:
+      - "Il transforme les vibrations de la voix en courant électrique"
+      - "Il amplifie la lumière"
+      - "Il compose le numéro"
+    answer: 1
+    explanation: >
+      Le microphone capte les vibrations de la voix et les change en impulsions
+      électriques qui partent dans le fil.
+  - question: "Qui reliait les appels avant les centraux automatiques ?"
+    options:
+      - "Des facteurs"
+      - "Des robots"
+      - "Des opératrices"
+    answer: 3
+    explanation: >
+      Une opératrice répondait à l'abonné, demandait le numéro voulu, puis branchait la
+      ligne à la main.
+  - question: "Pourquoi Almon Strowger a-t-il inventé le central automatique ?"
+    options:
+      - "Il voulait téléphoner la nuit"
+      - "Il soupçonnait les opératrices de favoriser son concurrent"
+      - "Il était sourd"
+    answer: 2
+    explanation: >
+      Cet entrepreneur de pompes funèbres pensait que les opératrices envoyaient ses
+      clients chez un concurrent.
+  - question: "Jusqu'au milieu des années 1970, combien de Français avaient le téléphone chez eux ?"
+    options:
+      - "Un sur deux"
+      - "Tous"
+      - "Un sur sept"
+    answer: 3
+    explanation: >
+      Jusqu'au milieu des années 1970, un Français sur sept seulement avait le téléphone à
+      la maison.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le téléphone transforme les vibrations de la voix en courant électrique, qui voyage dans un fil jusqu'à un autre appareil. Là, le courant redevient un son. Longtemps, des opératrices reliaient les appels à la main, avant l'arrivée des centraux automatiques.
+
+## La voix devient électricité
+
+Quand on parle, la voix fait vibrer l'air. Un téléphone fixe capte ces vibrations avec un microphone, placé devant la bouche. Le microphone les transforme en impulsions électriques. Ces impulsions voyagent dans des fils jusqu'au téléphone de la personne appelée.
+
+Là, l'écouteur fait le travail inverse. Il transforme les impulsions électriques en vibrations de l'air, qui reproduisent la voix. La conversation se fait en direct, car le courant électrique va très vite.
+
+Un téléphone fixe comprend aussi une sonnerie, qui signale un appel, et un cadran ou un clavier pour composer le numéro. Le combiné, qui réunit micro et écouteur dans une seule pièce, est arrivé plus tard. Au début, on parlait devant le boîtier et on tenait un écouteur à l'oreille.
+
+## Une invention disputée
+
+Le 14 février 1876, l'Américain Elisha Gray et l'Écossais Alexander Graham Bell déposent chacun une demande de brevet aux États-Unis, à quelques heures d'écart. Bell obtient son brevet le 7 mars 1876 et passe pour l'inventeur officiel. Avant eux, l'Italo-Américain Antonio Meucci avait fabriqué plusieurs appareils. En 2002, le Congrès américain a reconnu son rôle.
+
+Le téléphone est exploité aux États-Unis dès 1877 et en France dès 1879. En 1912, on compte 12 millions de téléphones dans le monde, dont 8 millions aux États-Unis.
+
+## Allô, mademoiselle ?
+
+Au début, il n'y avait pas de numérotation automatique. Quand un abonné décrochait, un signal prévenait le central téléphonique. Une opératrice répondait et demandait avec qui il voulait parler. Elle branchait alors sa ligne sur celle du correspondant. En France, on les appelait les « demoiselles du téléphone ».
+
+Vers 1891, l'Américain Almon Strowger invente le central automatique. Cet entrepreneur de pompes funèbres pensait que les opératrices envoyaient ses clients chez un concurrent. Avec son système, l'abonné compose lui-même le numéro, et une machine établit la liaison. En France, le premier central automatique ouvre à Nice en 1913. Paris suit le 22 septembre 1928.
+
+## Un objet longtemps rare en France
+
+Le téléphone est arrivé tôt en France, mais il y est resté rare et cher. En 1912, il y avait un abonné pour 183 habitants, contre un pour 12 aux États-Unis. Beaucoup de gens utilisaient les cabines téléphoniques. La première a été installée à Paris en 1881.
+
+Jusqu'au milieu des années 1970, un Français sur sept seulement avait le téléphone chez lui. À partir de 1974, le pays s'équipe massivement. Le 18 octobre 1996, les numéros français passent à dix chiffres. Avec l'essor du téléphone mobile, dans les années 1990 et 2000, les cabines disparaissent peu à peu.
+
+## À retenir
+
+- Le microphone du téléphone transforme la voix en impulsions électriques, et l'écouteur les retransforme en son.
+- Bell a obtenu le brevet du téléphone le 7 mars 1876, mais Elisha Gray et Antonio Meucci ont aussi joué un rôle.
+- Au début, des opératrices reliaient chaque appel à la main dans les centraux.
+- Almon Strowger a inventé le central automatique vers 1891 ; Nice a eu le premier central automatique français en 1913.
+- Jusqu'au milieu des années 1970, un Français sur sept seulement avait le téléphone chez lui.
 
 ---
 type: article
@@ -10770,18 +11446,99 @@ status: planned
 
 ---
 type: article
-title: Le fonctionnement des antennes relais dans la couverture mobile d'un territoire
-slug: le-fonctionnement-des-antennes-relais-dans-la-couverture-mobile-d-un-territoire
+title: Comment les antennes relais permettent-elles de téléphoner en se déplaçant ?
+slug: comment-les-antennes-relais-permettent-elles-de-telephoner-en-se-deplacant
 categoryPath: communication-et-medias/telecommunications/reseaux-mobiles
 summary: >
-  Des infrastructures essentielles qui transmettent le signal entre les telephones et le reseau.
-tags: [reseaux-mobiles, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le territoire est découpé en zones appelées cellules, chacune couverte par une antenne
+  relais. Le téléphone échange des ondes radio avec l'antenne la plus proche, qui relie
+  l'appel au reste du réseau. Quand on se déplace, l'appel passe d'une antenne à l'autre sans
+  coupure.
+tags: [reseaux-mobiles]
+sources:
+  - title: "Antenne-relais de téléphonie mobile"
+    url: "https://fr.wikipedia.org/wiki/Antenne-relais_de_t%C3%A9l%C3%A9phonie_mobile"
+    publisher: "Wikipédia"
+  - title: "Cellular network"
+    url: "https://en.wikipedia.org/wiki/Cellular_network"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment appelle-t-on la zone couverte par une antenne relais ?"
+    options:
+      - "Une cellule"
+      - "Une bulle"
+      - "Un secteur postal"
+    answer: 1
+    explanation: >
+      Chaque antenne couvre une portion de territoire appelée cellule. C'est pourquoi on
+      parle de téléphonie cellulaire.
+  - question: "Pourquoi deux cellules voisines utilisent-elles des fréquences différentes ?"
+    options:
+      - "Pour économiser l'électricité"
+      - "Pour éviter que leurs signaux se brouillent"
+      - "Pour que les téléphones chargent plus vite"
+    answer: 2
+    explanation: >
+      Si deux cellules voisines utilisaient la même fréquence, leurs signaux se
+      gêneraient. Une fréquence est réutilisée plus loin.
+  - question: "Quelle est la taille approximative d'une cellule à Paris ?"
+    options:
+      - "Environ 50 km"
+      - "Environ 1 mètre"
+      - "Environ 500 mètres"
+    answer: 3
+    explanation: >
+      En ville, beaucoup de gens téléphonent au même endroit. Les cellules sont donc
+      petites : environ 500 m à Paris.
+  - question: "En quelle année les premières antennes du premier réseau mobile français, Radiocom 2000, ont-elles été installées ?"
+    options:
+      - "1885"
+      - "1985"
+      - "2015"
+    answer: 2
+    explanation: >
+      Les premières antennes du réseau Radiocom 2000 ont été installées en 1985.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le territoire est découpé en zones appelées cellules, chacune couverte par une antenne relais. Le téléphone échange des ondes radio avec l'antenne la plus proche, qui relie l'appel au reste du réseau. Quand on se déplace, l'appel passe d'une antenne à l'autre sans coupure.
+
+## Un pays découpé en cellules
+
+Un téléphone portable communique par ondes radio. Mais il n'envoie pas son signal directement au téléphone de la personne appelée. Il parle à une antenne relais proche, appelée aussi station de base.
+
+Chaque antenne couvre une portion de territoire, appelée cellule. Mises côte à côte, les cellules couvrent tout un pays, un peu comme les alvéoles d'une ruche. C'est pour cela qu'on parle de téléphonie cellulaire.
+
+## Du téléphone au réseau
+
+Le téléphone transforme la voix en ondes radio. L'antenne relais capte ces ondes et les transforme en signal électrique. Ce signal part ensuite par des câbles, de la fibre optique ou des faisceaux radio vers le cœur du réseau de l'opérateur. Le réseau achemine ensuite l'appel jusqu'au correspondant.
+
+Une antenne relais comprend des panneaux émetteurs, une armoire technique et une alimentation électrique. Chaque panneau arrose une portion de l'espace d'environ 120 degrés. Les grandes antennes sont fixées sur des pylônes, des bâtiments ou des toits, entre 12 et 50 mètres de hauteur.
+
+## Partager les fréquences
+
+Les fréquences radio sont en nombre limité. Deux cellules voisines utilisent des fréquences différentes, pour que leurs signaux ne se brouillent pas. Une même fréquence peut être réutilisée dans une cellule plus éloignée. Ce partage permet à des millions de personnes de téléphoner en même temps.
+
+La taille des cellules dépend du nombre d'habitants. À la campagne, une antenne couvre de 5 à 30 kilomètres. En ville, où beaucoup de gens téléphonent au même endroit, les cellules sont petites : environ 500 mètres à Paris, de 1 à 2 kilomètres dans une ville comme Poitiers. Il existe aussi de toutes petites antennes pour une gare ou un centre commercial.
+
+## Changer d'antenne sans couper
+
+Dans une voiture ou un train, on traverse plusieurs cellules pendant un appel. Le réseau fait alors passer la communication d'une antenne à la suivante. Ce relais, appelé transfert ou « handover » en anglais, se fait sans coupure.
+
+## Une idée de 1947
+
+L'idée d'un réseau téléphonique en cellules a été proposée le 11 décembre 1947 par Douglas Ring, un ingénieur du laboratoire américain Bell Labs. En France, les premières antennes du premier réseau mobile, Radiocom 2000, ont été installées en 1985. En 2006, l'Organisation mondiale de la santé comptait 1,4 million de stations de base dans le monde. En France, un décret de 2002 limite l'exposition du public aux ondes émises par ces antennes.
+
+## À retenir
+
+- Le territoire est découpé en cellules, chacune couverte par une antenne relais, ou station de base.
+- L'antenne transforme les ondes radio du téléphone en signal électrique envoyé vers le réseau de l'opérateur.
+- Deux cellules voisines utilisent des fréquences différentes pour ne pas se brouiller.
+- Une cellule mesure de 5 à 30 km à la campagne, mais environ 500 m à Paris.
+- Quand on se déplace, l'appel passe d'une antenne à l'autre sans coupure : c'est le transfert, ou handover.
 
 ---
 type: article
@@ -11325,18 +12082,97 @@ status: planned
 
 ---
 type: article
-title: Le principe de fonctionnement d'un satellite de telecommunication
-slug: le-principe-de-fonctionnement-d-un-satellite-de-telecommunication
+title: Comment un satellite de télécommunication relaie-t-il la télévision d'un continent à l'autre ?
+slug: comment-un-satellite-de-telecommunication-relaie-t-il-la-television-d-un-continent-a-l-autre
 categoryPath: communication-et-medias/telecommunications/satellites
 summary: >
-  Un relais en orbite qui permet de transmettre des signaux sur de tres longues distances.
-tags: [satellites, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un satellite de télécommunication reçoit un signal envoyé depuis le sol, l'amplifie et le
+  renvoie vers d'autres régions de la Terre. Beaucoup tournent à près de 36 000 km au-dessus
+  de l'équateur, à la même vitesse que la Terre. Vus du sol, ils semblent immobiles.
+tags: [satellites]
+sources:
+  - title: "Satellite de télécommunications"
+    url: "https://fr.wikipedia.org/wiki/Satellite_de_t%C3%A9l%C3%A9communications"
+    publisher: "Wikipédia"
+  - title: "Communications satellite"
+    url: "https://en.wikipedia.org/wiki/Communications_satellite"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi un satellite géostationnaire semble-t-il immobile dans le ciel ?"
+    options:
+      - "Parce qu'il est accroché à une fusée"
+      - "Parce qu'il tourne à la même vitesse que la Terre"
+      - "Parce qu'il ne bouge pas du tout"
+    answer: 2
+    explanation: >
+      Il fait le tour de la Terre en 23 h 56 min, comme la Terre sur elle-même. Il reste
+      donc au-dessus du même point.
+  - question: "Qui a décrit le premier, en 1945, l'idée d'un satellite de télécommunication géostationnaire ?"
+    options:
+      - "Arthur C. Clarke"
+      - "Henry Ford"
+      - "Tim Berners-Lee"
+    answer: 1
+    explanation: >
+      L'écrivain britannique Arthur C. Clarke a publié cette idée en octobre 1945 dans la
+      revue Wireless World.
+  - question: "Que fait le répéteur d'un satellite ?"
+    options:
+      - "Il prend des photos de la Terre"
+      - "Il fabrique de l'électricité"
+      - "Il reçoit un signal, l'amplifie et le renvoie"
+    answer: 3
+    explanation: >
+      Le répéteur, ou transpondeur, reçoit le signal venu du sol, le renforce et le
+      renvoie vers la Terre sur une autre fréquence.
+  - question: "Quel est le premier satellite de télécommunication commercial, lancé en 1965 ?"
+    options:
+      - "Intelsat I, surnommé Early Bird"
+      - "Spoutnik 1"
+      - "Galileo"
+    answer: 1
+    explanation: >
+      Intelsat I, surnommé Early Bird, a été lancé en avril 1965 et placé au-dessus de
+      l'océan Atlantique.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un satellite de télécommunication reçoit un signal envoyé depuis le sol, l'amplifie et le renvoie vers d'autres régions de la Terre. Beaucoup tournent à près de 36 000 km au-dessus de l'équateur, à la même vitesse que la Terre. Vus du sol, ils semblent immobiles.
+
+## Un relais dans le ciel
+
+Pour envoyer une émission de télévision de l'Europe vers l'Amérique, il faut traverser l'océan. Les ondes radio vont en ligne droite et la Terre est ronde : elles ne peuvent pas suivre sa courbe. Un satellite placé très haut résout ce problème. Il voit à la fois les deux côtés de l'océan.
+
+## Recevoir, amplifier, renvoyer
+
+Une grande antenne au sol, appelée station terrienne, envoie un signal vers le satellite. Le satellite le capte avec ses antennes. Un appareil appelé répéteur, ou transpondeur, renforce ce signal affaibli par le voyage. Puis le satellite le renvoie vers la Terre, sur une autre fréquence. Le premier satellite commercial recevait par exemple sur 6 gigahertz et renvoyait sur 4 gigahertz.
+
+Le signal redescend sur une zone très large. Des milliers d'antennes paraboliques peuvent le recevoir en même temps. Aujourd'hui, la diffusion de chaînes de télévision est la principale activité de ces satellites.
+
+## Immobile en apparence
+
+Beaucoup de ces satellites sont placés sur l'orbite géostationnaire, à environ 35 786 kilomètres au-dessus de l'équateur. À cette altitude, un satellite fait le tour de la Terre en 23 heures et 56 minutes. C'est le temps que met la Terre pour tourner sur elle-même. Vu du sol, le satellite semble donc toujours au même endroit.
+
+C'est très pratique. Les antennes paraboliques peuvent rester fixes, sans suivre le satellite. Un seul satellite géostationnaire couvre environ 40 % de la surface du globe.
+
+Il y a un inconvénient. Le trajet aller-retour vers le satellite crée un petit retard d'environ 0,24 seconde. Des satellites plus proches, en orbite basse entre 160 et 2 000 kilomètres, ont moins de retard. Mais ils tournent vite et disparaissent sous l'horizon. Il en faut donc beaucoup pour couvrir la Terre en permanence.
+
+## De l'idée à la réalité
+
+En octobre 1945, l'écrivain britannique Arthur C. Clarke décrit dans une revue l'idée de satellites géostationnaires servant de relais radio. Le 10 juillet 1962, le satellite américain Telstar est lancé. Des stations au sol sont construites pour lui, à Andover aux États-Unis et à Pleumeur-Bodou, en Bretagne. Mais il n'est visible que quelques minutes à chaque passage.
+
+En 1964, un satellite géostationnaire Syncom retransmet les Jeux olympiques de Tokyo. En avril 1965, Intelsat I, surnommé Early Bird, devient le premier satellite de télécommunication commercial. En 1969, les satellites Intelsat permettent à 500 millions de téléspectateurs de suivre en direct les premiers pas sur la Lune.
+
+## À retenir
+
+- Un satellite de télécommunication reçoit un signal du sol, l'amplifie avec un répéteur et le renvoie vers la Terre.
+- Sur l'orbite géostationnaire, à environ 35 786 km, un satellite tourne à la même vitesse que la Terre et paraît immobile.
+- Les antennes paraboliques peuvent donc rester fixes, et un satellite couvre environ 40 % du globe.
+- Arthur C. Clarke a décrit l'idée en 1945, et Telstar a relayé la télévision au-dessus de l'Atlantique en 1962.
+- Intelsat I, ou Early Bird, a été en 1965 le premier satellite de télécommunication commercial.
 
 ---
 type: article

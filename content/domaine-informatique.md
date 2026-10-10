@@ -3462,18 +3462,94 @@ status: planned
 
 ---
 type: article
-title: Le systeme binaire, base de toute l'informatique
-slug: le-systeme-binaire-base-de-toute-l-informatique
+title: Comment un ordinateur peut-il tout écrire avec seulement des 0 et des 1 ?
+slug: comment-un-ordinateur-peut-il-tout-ecrire-avec-seulement-des-0-et-des-1
 categoryPath: micro-informatique-et-informatique/donnees/representation-et-compression
 summary: >
-  Comment deux simples chiffres suffisent a representer n'importe quelle information.
-tags: [representation-et-compression, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le système binaire compte avec seulement deux chiffres, 0 et 1. Dans un ordinateur, ils
+  correspondent à deux états électriques : pas de courant ou du courant. En combinant beaucoup
+  de 0 et de 1, on peut représenter des nombres, des lettres, des images et des sons.
+tags: [representation-et-compression]
+sources:
+  - title: "Système binaire"
+    url: "https://fr.wikipedia.org/wiki/Syst%C3%A8me_binaire"
+    publisher: "Wikipédia"
+  - title: "American Standard Code for Information Interchange"
+    url: "https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien vaut le nombre binaire 1101 en écriture décimale ?"
+    options:
+      - "1 101"
+      - "4"
+      - "13"
+    answer: 3
+    explanation: >
+      1101 en binaire vaut 8 + 4 + 0 + 1, soit 13.
+  - question: "Combien de valeurs différentes un octet peut-il représenter ?"
+    options:
+      - "256"
+      - "8"
+      - "1 000"
+    answer: 1
+    explanation: >
+      Un octet contient 8 bits. Il peut prendre 256 valeurs différentes, de 0 à 255.
+  - question: "Dans le code ASCII, quel nombre représente la lettre A majuscule ?"
+    options:
+      - "1"
+      - "65"
+      - "100"
+    answer: 2
+    explanation: >
+      En ASCII, le A majuscule porte le numéro 65, qui s'écrit 1000001 en binaire.
+  - question: "Pourquoi les ordinateurs utilisent-ils le binaire ?"
+    options:
+      - "Parce que c'est plus joli"
+      - "Parce que leurs circuits distinguent facilement deux états électriques"
+      - "Parce que les claviers n'ont que deux touches"
+    answer: 2
+    explanation: >
+      Les composants électroniques fonctionnent comme des interrupteurs. Deux états,
+      courant ou pas de courant, se distinguent facilement et rapidement.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le système binaire compte avec seulement deux chiffres, 0 et 1. Dans un ordinateur, ils correspondent à deux états électriques : pas de courant ou du courant. En combinant beaucoup de 0 et de 1, on peut représenter des nombres, des lettres, des images et des sons.
+
+## Compter avec deux chiffres
+
+Nous comptons en base 10, avec dix chiffres, de 0 à 9. Quand on dépasse 9, on ajoute une colonne : 10. Chaque colonne vaut dix fois plus que celle de droite : les unités, les dizaines, les centaines.
+
+Le système binaire fonctionne de la même façon, mais en base 2. Il n'a que deux chiffres : 0 et 1. Chaque colonne vaut deux fois plus que celle de droite : 1, 2, 4, 8, 16, et ainsi de suite.
+
+Prenons le nombre binaire 1101. En partant de la droite, il contient 1 fois 1, 0 fois 2, 1 fois 4 et 1 fois 8. Le total fait 8 + 4 + 1, soit 13.
+
+## Des bits et des octets
+
+Un chiffre binaire s'appelle un bit, de l'anglais « binary digit ». Un bit ne peut valoir que 0 ou 1. On regroupe souvent les bits par huit. Ce groupe de 8 bits s'appelle un octet. Un octet peut prendre 256 valeurs différentes, de 0 à 255.
+
+## Pourquoi l'ordinateur aime le binaire
+
+Un ordinateur est fait de composants électroniques qui fonctionnent comme des interrupteurs. Le 0 correspond à l'absence de tension électrique, le 1 à sa présence. Distinguer seulement deux états est simple et fiable, même si la tension n'est pas parfaitement exacte. C'est ce qui permet aux processeurs de faire des milliards d'opérations par seconde.
+
+## Tout devient nombre
+
+Pour écrire du texte, on donne un numéro à chaque caractère. Le code ASCII, publié en 1963, définit 128 caractères : les lettres, les chiffres, la ponctuation. Le A majuscule y porte le numéro 65, qui s'écrit 1000001 en binaire. Une image, elle, est une grille de pixels dont chaque couleur est notée par des nombres. Un son est une suite de nombres qui décrivent la vibration de l'air.
+
+## Une vieille idée
+
+Des formes proches du binaire apparaissent très tôt, par exemple dans les hexagrammes du Yi Jing, un livre chinois très ancien. En 1703, le savant allemand Gottfried Wilhelm Leibniz a publié une étude du calcul binaire. En 1847, le mathématicien anglais George Boole a inventé une algèbre qui n'accepte que deux valeurs, 0 et 1. Ces idées sont devenues la base des ordinateurs du 20e siècle.
+
+## À retenir
+
+- Le système binaire compte en base 2, avec seulement les chiffres 0 et 1.
+- Un bit vaut 0 ou 1 ; un octet regroupe 8 bits et peut prendre 256 valeurs.
+- Dans un ordinateur, 0 et 1 correspondent à l'absence ou à la présence de tension électrique.
+- Le texte, les images et les sons sont transformés en nombres, puis en binaire ; en ASCII, le A vaut 65.
+- Leibniz a étudié le calcul binaire en 1703, et Boole a créé une algèbre à deux valeurs en 1847.
 
 ---
 type: article
@@ -4407,18 +4483,106 @@ status: planned
 
 ---
 type: article
-title: Les boucles et les conditions, structures de base d'un programme
-slug: les-boucles-et-les-conditions-structures-de-base-d-un-programme
+title: Comment un programme décide-t-il quoi faire grâce aux conditions et aux boucles ?
+slug: comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles
 categoryPath: micro-informatique-et-informatique/logiciel/programmation
 summary: >
-  Deux mecanismes essentiels qui permettent a un programme de repeter ou de choisir.
-tags: [programmation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un programme exécute ses instructions dans l'ordre, mais il peut aussi faire des choix et
+  répéter des actions. Une condition lui fait suivre un chemin ou un autre selon une
+  situation. Une boucle lui fait répéter des instructions plusieurs fois.
+tags: [programmation]
+sources:
+  - title: "Structure de contrôle"
+    url: "https://fr.wikipedia.org/wiki/Structure_de_contr%C3%B4le"
+    publisher: "Wikipédia"
+  - title: "Structured program theorem"
+    url: "https://en.wikipedia.org/wiki/Structured_program_theorem"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quoi sert une condition « si... alors... sinon » ?"
+    options:
+      - "À répéter une action sans fin"
+      - "À choisir entre deux suites d'instructions"
+      - "À éteindre l'ordinateur"
+    answer: 2
+    explanation: >
+      Le programme teste une condition. Si elle est vraie, il fait une chose. Sinon, il en
+      fait une autre.
+  - question: "Qu'est-ce qu'une boucle infinie ?"
+    options:
+      - "Une boucle dont la condition d'arrêt n'est jamais atteinte"
+      - "Une boucle très courte"
+      - "Un câble enroulé"
+    answer: 1
+    explanation: >
+      Si la condition de sortie ne devient jamais vraie, la boucle tourne sans fin. C'est
+      une erreur fréquente.
+  - question: "Selon le théorème de Böhm et Jacopini de 1966, quelles structures suffisent pour écrire tout programme calculable ?"
+    options:
+      - "Seulement des boucles"
+      - "Des images et des sons"
+      - "La suite, le choix et la répétition"
+    answer: 3
+    explanation: >
+      Böhm et Jacopini ont montré que la suite d'instructions, le choix et la répétition
+      suffisent.
+  - question: "Quand utilise-t-on plutôt une boucle « pour » ?"
+    options:
+      - "Quand on ne sait pas combien de fois répéter"
+      - "Quand on connaît à l'avance le nombre de répétitions"
+      - "Quand on veut arrêter le programme"
+    answer: 2
+    explanation: >
+      La boucle « pour » utilise un compteur. Elle sert quand le nombre de répétitions est
+      connu à l'avance.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un programme exécute ses instructions dans l'ordre, mais il peut aussi faire des choix et répéter des actions. Une condition lui fait suivre un chemin ou un autre selon une situation. Une boucle lui fait répéter des instructions plusieurs fois.
+
+## Des instructions dans l'ordre
+
+Un programme est une liste d'instructions. L'ordinateur les exécute une par une, de haut en bas, comme on suit une recette. Mais une recette toute droite ne suffit pas toujours. Il faut parfois choisir, ou recommencer plusieurs fois la même chose.
+
+Pour cela, les langages de programmation ont des structures de contrôle. Ce sont des instructions spéciales qui changent le chemin suivi par le programme.
+
+## La condition, pour choisir
+
+La condition s'écrit souvent « si... alors... sinon ». Le programme teste une affirmation qui peut être vraie ou fausse. Selon la réponse, il exécute un bloc d'instructions ou un autre.
+
+Voici un exemple dans un jeu :
+
+- si la vie du personnage est égale à 0, alors afficher « Perdu » ;
+- sinon, continuer la partie.
+
+Le test peut comparer des nombres, vérifier un mot de passe ou regarder si une touche est appuyée.
+
+## La boucle, pour répéter
+
+Une boucle répète des instructions. Il en existe deux grandes sortes.
+
+La boucle « tant que » répète tant qu'une condition reste vraie. Par exemple : tant que le joueur n'a pas trouvé le bon nombre, lui demander de deviner encore. On ne sait pas à l'avance combien de tours il faudra.
+
+La boucle « pour » utilise un compteur. Elle répète un nombre de fois connu à l'avance. Par exemple : pour chaque élève de 1 à 25, afficher sa note.
+
+Une boucle doit pouvoir s'arrêter. Si la condition de sortie n'est jamais atteinte, le programme tourne sans fin. On parle de boucle infinie. C'est une erreur courante, même chez les programmeurs expérimentés.
+
+## Trois briques suffisent
+
+En 1966, Corrado Böhm et Giuseppe Jacopini ont démontré un résultat important. Tout calcul qu'un ordinateur peut faire peut s'écrire avec seulement trois structures : la suite d'instructions, le choix par une condition et la répétition par une boucle.
+
+Ce résultat a soutenu une idée défendue en 1968 par Edsger Dijkstra. Il critiquait l'instruction « goto », qui fait sauter le programme n'importe où et rend le code difficile à suivre. Il proposait d'utiliser plutôt ces structures bien rangées. Aujourd'hui, les conditions et les boucles se retrouvent dans presque tous les langages.
+
+## À retenir
+
+- Un programme exécute ses instructions dans l'ordre, sauf quand une structure de contrôle change ce chemin.
+- Une condition « si... alors... sinon » fait choisir entre deux suites d'instructions.
+- Une boucle « tant que » répète tant qu'une condition est vraie, une boucle « pour » répète un nombre de fois connu.
+- Une boucle dont la condition d'arrêt n'est jamais atteinte devient une boucle infinie.
+- En 1966, Böhm et Jacopini ont montré que la suite, le choix et la répétition suffisent pour écrire tout calcul.
 
 ---
 type: article
@@ -5007,18 +5171,95 @@ status: planned
 
 ---
 type: article
-title: Le boot et le demarrage d'un ordinateur
-slug: le-boot-et-le-demarrage-d-un-ordinateur
+title: Comment un ordinateur démarre-t-il quand on appuie sur le bouton ?
+slug: comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton
 categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
 summary: >
-  Une sequence precise d'etapes necessaires avant que le systeme ne soit utilisable.
-tags: [systemes-d-exploitation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand on allume un ordinateur, sa mémoire vive est vide. Un petit programme gravé dans la
+  carte mère, le BIOS ou l'UEFI, vérifie le matériel puis lance un chargeur d'amorçage. Ce
+  chargeur place le système d'exploitation en mémoire, qui prend ensuite le contrôle.
+tags: [systemes-d-exploitation]
+sources:
+  - title: "Booting"
+    url: "https://en.wikipedia.org/wiki/Booting"
+    publisher: "Wikipedia"
+  - title: "Booting process of Linux"
+    url: "https://en.wikipedia.org/wiki/Booting_process_of_Linux"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que contient la mémoire vive au moment où l'on allume l'ordinateur ?"
+    options:
+      - "Le système d'exploitation complet"
+      - "Aucun programme"
+      - "Tous les fichiers du disque"
+    answer: 2
+    explanation: >
+      Au démarrage, le processeur ne trouve aucun logiciel en mémoire vive. Il faut un
+      mécanisme pour charger le premier programme.
+  - question: "Que fait le test POST au démarrage ?"
+    options:
+      - "Il vérifie et prépare le matériel, comme la mémoire"
+      - "Il envoie un courrier"
+      - "Il installe des jeux"
+    answer: 1
+    explanation: >
+      Le POST, ou autotest à la mise sous tension, vérifie et initialise des éléments
+      comme la mémoire vive.
+  - question: "D'où vient le mot anglais « boot » ?"
+    options:
+      - "D'une marque d'ordinateur"
+      - "D'un bruit de moteur"
+      - "D'une expression sur les languettes de bottes"
+    answer: 3
+    explanation: >
+      « Boot » vient de « bootstrap », la languette d'une botte. L'expression parle de se
+      soulever soi-même en tirant sur ses languettes.
+  - question: "Quel programme charge le noyau du système d'exploitation en mémoire ?"
+    options:
+      - "Le navigateur web"
+      - "Le chargeur d'amorçage"
+      - "L'antivirus"
+    answer: 2
+    explanation: >
+      Le chargeur d'amorçage, comme GRUB sous Linux, trouve le système d'exploitation sur
+      le disque et le place en mémoire vive.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on allume un ordinateur, sa mémoire vive est vide. Un petit programme gravé dans la carte mère, le BIOS ou l'UEFI, vérifie le matériel puis lance un chargeur d'amorçage. Ce chargeur place le système d'exploitation en mémoire, qui prend ensuite le contrôle.
+
+## Un problème de départ
+
+Un ordinateur a besoin d'un programme pour charger des programmes. Mais au moment où l'on appuie sur le bouton, sa mémoire vive est vide. Le processeur n'y trouve aucun logiciel. Il faut donc un mécanisme pour lancer le tout premier programme.
+
+En anglais, ce démarrage s'appelle « boot ». Le mot vient de « bootstrap », la languette à l'arrière d'une botte. Une vieille expression parle de se soulever soi-même en tirant sur ses propres languettes. C'est un peu ce que fait l'ordinateur : il se lance tout seul, étape par étape. Le mot « boot » a été noté pour la première fois en 1975.
+
+## Étape 1, le micrologiciel
+
+Le premier programme est gravé dans une puce de la carte mère. Il ne s'efface pas quand on coupe le courant. On l'appelle micrologiciel. Sur les PC, c'était longtemps le BIOS. Les ordinateurs récents utilisent l'UEFI, son successeur.
+
+Dès la mise sous tension, le processeur exécute ce programme. Celui-ci lance d'abord un autotest appelé POST. Il vérifie et prépare le matériel indispensable, comme la mémoire vive. Ensuite, il cherche un appareil de démarrage : disque dur, SSD ou clé USB, dans un ordre réglé à l'avance.
+
+## Étape 2, le chargeur d'amorçage
+
+Sur cet appareil, le micrologiciel trouve un petit programme : le chargeur d'amorçage. Sous Linux, le plus courant s'appelle GRUB. Son travail est de trouver le système d'exploitation sur le disque. Il charge en mémoire vive la partie centrale du système, le noyau, puis lui passe la main.
+
+## Étape 3, le système d'exploitation
+
+Le noyau prend alors le contrôle de la machine. Il gère la mémoire, partage le temps du processeur entre les programmes et dialogue avec les appareils. Puis il lance un premier programme, qui démarre à son tour tous les autres. Sous Linux, c'est souvent systemd. Il vérifie et rend accessibles les disques, puis lance les services, comme le réseau ou l'écran de connexion.
+
+Quand l'écran d'accueil apparaît, l'ordinateur a franchi toutes ces étapes. Chacune a préparé la suivante, comme une course de relais.
+
+## À retenir
+
+- Au moment où l'on allume l'ordinateur, sa mémoire vive ne contient aucun programme.
+- Le micrologiciel de la carte mère, BIOS ou UEFI, vérifie d'abord le matériel avec le test POST.
+- Il cherche ensuite un appareil de démarrage et lance le chargeur d'amorçage.
+- Le chargeur d'amorçage place le noyau du système d'exploitation en mémoire vive.
+- Le noyau prend le contrôle et lance les autres programmes, jusqu'à l'écran d'accueil.
 
 ---
 type: article
@@ -5917,18 +6158,99 @@ status: planned
 
 ---
 type: article
-title: L'imprimante, technologies principales
-slug: l-imprimante-technologies-principales
+title: Comment une imprimante dépose-t-elle l'encre exactement au bon endroit ?
+slug: comment-une-imprimante-depose-t-elle-l-encre-exactement-au-bon-endroit
 categoryPath: micro-informatique-et-informatique/materiel/peripheriques-et-ecrans
 summary: >
-  Jet d'encre, laser : deux methodes tres differentes pour transferer une image sur papier.
-tags: [peripheriques-et-ecrans, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les deux grandes familles d'imprimantes sont l'imprimante à jet d'encre et l'imprimante
+  laser. La première projette de minuscules gouttes d'encre par des centaines de buses. La
+  seconde dessine l'image avec un laser sur un tambour, puis colle une poudre sur le papier en
+  la chauffant.
+tags: [peripheriques-et-ecrans]
+sources:
+  - title: "Imprimante à jet d'encre"
+    url: "https://fr.wikipedia.org/wiki/Imprimante_%C3%A0_jet_d%27encre"
+    publisher: "Wikipédia"
+  - title: "Imprimante laser"
+    url: "https://fr.wikipedia.org/wiki/Imprimante_laser"
+    publisher: "Wikipédia"
+  - title: "Quadrichromie"
+    url: "https://fr.wikipedia.org/wiki/Quadrichromie"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Dans une imprimante à jet d'encre thermique, comment la goutte est-elle éjectée ?"
+    options:
+      - "Par un petit marteau"
+      - "Par une bulle de vapeur créée en chauffant l'encre"
+      - "Par un aimant"
+    answer: 2
+    explanation: >
+      L'encre est chauffée localement à environ 350 °C. Une bulle de vapeur se forme et
+      pousse une goutte hors de la buse.
+  - question: "Qu'est-ce que le toner d'une imprimante laser ?"
+    options:
+      - "Une encre liquide"
+      - "Un rouleau de papier"
+      - "Une poudre de plastique très fine"
+    answer: 3
+    explanation: >
+      Le toner est fait de particules très fines de plastique noir ou coloré, qui fondent
+      sur le papier.
+  - question: "Quelles sont les quatre encres d'une imprimante couleur ?"
+    options:
+      - "Cyan, magenta, jaune et noir"
+      - "Rouge, vert, bleu et blanc"
+      - "Orange, violet, vert et gris"
+    answer: 1
+    explanation: >
+      Les imprimantes utilisent le cyan, le magenta, le jaune et le noir. En mélangeant
+      ces encres, elles reproduisent de nombreuses couleurs.
+  - question: "Quelle imprimante laser de 1984 a été la première destinée au grand public ?"
+    options:
+      - "L'IBM 3800"
+      - "La LaserJet de Hewlett-Packard"
+      - "La PlayStation"
+    answer: 2
+    explanation: >
+      La LaserJet de Hewlett-Packard, sortie en 1984, a été la première imprimante laser
+      grand public pour ordinateurs personnels.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les deux grandes familles d'imprimantes sont l'imprimante à jet d'encre et l'imprimante laser. La première projette de minuscules gouttes d'encre par des centaines de buses. La seconde dessine l'image avec un laser sur un tambour, puis colle une poudre sur le papier en la chauffant.
+
+## Une image faite de points
+
+Une imprimante ne trace pas des lettres d'un seul coup. Elle couvre la feuille de minuscules points, placés avec une grande précision. Vus de loin, ces points forment du texte et des images.
+
+Pour la couleur, les imprimantes utilisent quatre encres : cyan, magenta, jaune et noir. En théorie, mélanger les trois premières donne du noir. En pratique, le résultat est imparfait. Une encre noire séparée donne un texte plus net, avec une seule goutte au lieu de trois.
+
+## Le jet d'encre, des gouttes minuscules
+
+Dans une imprimante à jet d'encre, une tête d'impression passe au-dessus de la feuille. Elle peut avoir jusqu'à 1 000 buses, de tout petits trous. Chaque goutte mesure quelques picolitres, c'est-à-dire quelques millièmes de milliardième de litre.
+
+Il existe deux façons d'éjecter une goutte. Dans la méthode thermique, utilisée par Canon, on chauffe l'encre localement à environ 350 °C. Une bulle de vapeur se forme et chasse une goutte. Dans la méthode piézoélectrique, utilisée par Epson, un cristal se déforme quand il reçoit un signal électrique. Il pousse la paroi de la buse, et la goutte est expulsée. Les gouttes peuvent filer à environ 30 mètres par seconde.
+
+La première imprimante à jet d'encre commerciale, l'IBM 4640, date de 1976.
+
+## Le laser, de l'électricité et de la chaleur
+
+L'imprimante laser fonctionne autrement. Elle contient un tambour, un cylindre couvert d'une couche sensible à la lumière. On le charge d'électricité de façon égale. Un rayon laser balaie ensuite le tambour et modifie la charge aux endroits qui doivent recevoir de l'encre. L'image est alors dessinée sur le tambour, mais elle est invisible.
+
+L'encre est une poudre appelée toner, faite de particules très fines de plastique. Grâce aux charges électriques, le toner se colle seulement aux bons endroits du tambour. Le tambour roule ensuite sur la feuille, qui attire le toner. Enfin, la feuille passe entre deux rouleaux chauffés à au moins 180 °C. Le plastique fond et se fixe au papier. C'est pourquoi une feuille sort chaude d'une imprimante laser.
+
+Gary Starkweather, chez Xerox, a construit le premier prototype en 1971. La première imprimante laser commerciale, l'IBM 3800, est sortie en 1976. En 1984, la LaserJet de Hewlett-Packard a été la première destinée au grand public.
+
+## À retenir
+
+- Une imprimante forme les textes et les images avec de minuscules points.
+- Une imprimante couleur utilise quatre encres : cyan, magenta, jaune et noir.
+- Le jet d'encre projette des gouttes de quelques picolitres, grâce à une bulle de vapeur ou à un cristal qui se déforme.
+- L'imprimante laser dessine l'image en charges électriques sur un tambour, puis y colle une poudre, le toner.
+- Le toner est fixé au papier par des rouleaux chauffés à au moins 180 °C.
 
 ---
 type: article
@@ -6697,18 +7019,99 @@ status: planned
 
 ---
 type: article
-title: Le chiffre de Vigenere, une amelioration historique du chiffre de Cesar
-slug: le-chiffre-de-vigenere-une-amelioration-historique-du-chiffre-de-cesar
+title: Comment le chiffre de Vigenère cachait-il un message mieux que celui de César ?
+slug: comment-le-chiffre-de-vigenere-cachait-il-un-message-mieux-que-celui-de-cesar
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/chiffrement
 summary: >
-  Une methode ancienne plus robuste, longtemps consideree comme incassable.
-tags: [chiffrement, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le chiffre de César décale toutes les lettres d'un message du même nombre de rangs. Le
+  chiffre de Vigenère utilise un mot-clé : chaque lettre est décalée d'un nombre différent. Il
+  a été surnommé « le chiffre indéchiffrable », jusqu'à ce qu'une méthode pour le casser soit
+  publiée en 1863.
+tags: [chiffrement]
+sources:
+  - title: "Chiffre de Vigenère"
+    url: "https://fr.wikipedia.org/wiki/Chiffre_de_Vigen%C3%A8re"
+    publisher: "Wikipédia"
+  - title: "Vigenère cipher"
+    url: "https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher"
+    publisher: "Wikipedia"
+  - title: "Chiffrement par décalage"
+    url: "https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage"
+    publisher: "Wikipédia"
+quiz:
+  - question: "De combien de rangs Jules César décalait-il les lettres ?"
+    options:
+      - "De 1"
+      - "De 3"
+      - "De 10"
+    answer: 2
+    explanation: >
+      César utilisait un décalage de 3 : le A devient D, le B devient E, et ainsi de
+      suite.
+  - question: "Pourquoi le chiffre de César est-il facile à casser ?"
+    options:
+      - "Il n'a que 26 clés possibles"
+      - "Il utilise des chiffres au lieu de lettres"
+      - "Il est écrit à l'envers"
+    answer: 1
+    explanation: >
+      Avec seulement 26 décalages possibles, on peut tous les essayer. L'analyse des
+      fréquences des lettres le casse aussi.
+  - question: "Qui a réellement inventé le chiffre dit « de Vigenère » ?"
+    options:
+      - "Jules César"
+      - "Charles Babbage"
+      - "Giovan Battista Bellaso, en 1553"
+    answer: 3
+    explanation: >
+      Bellaso a décrit cette méthode en 1553. Le nom de Vigenère lui a été attribué par
+      erreur au 19e siècle.
+  - question: "Quelle faiblesse Friedrich Kasiski a-t-il exploitée en 1863 ?"
+    options:
+      - "Les répétitions dans le message chiffré, qui révèlent la longueur de la clé"
+      - "L'encre utilisée par les espions"
+      - "Le bruit des machines à écrire"
+    answer: 1
+    explanation: >
+      Des morceaux répétés du texte, chiffrés avec les mêmes lettres de la clé, donnent
+      des répétitions. Leur écart révèle la longueur de la clé.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le chiffre de César décale toutes les lettres d'un message du même nombre de rangs. Le chiffre de Vigenère utilise un mot-clé : chaque lettre est décalée d'un nombre différent. Il a été surnommé « le chiffre indéchiffrable », jusqu'à ce qu'une méthode pour le casser soit publiée en 1863.
+
+## Le chiffre de César
+
+Pour cacher ses messages, Jules César décalait chaque lettre de 3 rangs dans l'alphabet. Le A devenait D, le B devenait E, et ainsi de suite. Arrivé à la fin de l'alphabet, on repart au début.
+
+Cette méthode a deux grosses faiblesses. D'abord, il n'existe que 26 décalages possibles, en comptant le décalage nul. On peut tous les essayer. Ensuite, une même lettre est toujours remplacée par la même lettre. Or, dans une langue, certaines lettres reviennent plus souvent que d'autres, comme le E en français. Au 9e siècle, des savants du monde arabe ont mis au point l'analyse des fréquences, qui compte les lettres du message chiffré pour retrouver le décalage.
+
+## Une clé qui change à chaque lettre
+
+En 1553, Giovan Battista Bellaso a décrit une méthode plus solide. Elle utilise un mot-clé. Chaque lettre de la clé indique un décalage : A pour 0, B pour 1, C pour 2, et ainsi de suite. On écrit la clé sous le message, en la répétant autant que nécessaire. Chaque lettre du message est décalée selon la lettre de la clé placée en dessous.
+
+Prenons le message ATTACKATDAWN et la clé LEMON. Le L correspond à un décalage de 11 : le premier A devient L. Le E correspond à un décalage de 4 : le premier T devient X. Au final, le message chiffré est LXFOPVEFRNHR.
+
+La même lettre du message peut donc devenir des lettres différentes. Dans l'exemple, les quatre A deviennent L, O, E et N. L'analyse des fréquences ne marche plus directement.
+
+Au 19e siècle, cette méthode a été attribuée par erreur au diplomate français Blaise de Vigenère, qui avait publié un Traité des chiffres en 1586. Le nom est resté.
+
+## Le chiffre indéchiffrable cassé
+
+On l'a surnommé « le chiffre indéchiffrable ». Pourtant, il a une faiblesse : la clé se répète. Si un même morceau du message tombe deux fois sous les mêmes lettres de la clé, il donne deux fois le même morceau chiffré. L'écart entre ces répétitions révèle la longueur de la clé. On découpe ensuite le message en plusieurs petits chiffres de César, faciles à casser.
+
+Le savant Charles Babbage a cassé une variante de ce chiffre dès 1854, sans rien publier. En 1863, Friedrich Kasiski a publié la première méthode générale. Depuis, le chiffre de Vigenère n'offre plus aucune sécurité.
+
+## À retenir
+
+- Le chiffre de César décale toutes les lettres du même nombre de rangs ; César utilisait un décalage de 3.
+- Il n'a que 26 clés possibles et se casse facilement par l'analyse des fréquences des lettres.
+- Le chiffre de Vigenère utilise un mot-clé : chaque lettre du message est décalée d'un nombre différent.
+- Il a été décrit par Bellaso en 1553 et attribué plus tard par erreur à Blaise de Vigenère.
+- En 1863, Friedrich Kasiski a publié une méthode pour le casser, en repérant les répétitions dues à la clé.
 
 ---
 type: article
@@ -7201,18 +7604,99 @@ status: planned
 
 ---
 type: article
-title: Le fonctionnement d'un antivirus
-slug: le-fonctionnement-d-un-antivirus
+title: Comment un antivirus repère-t-il un programme malveillant ?
+slug: comment-un-antivirus-repere-t-il-un-programme-malveillant
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/cybersecurite
 summary: >
-  Comment ce logiciel detecte, ou tente de detecter, des programmes malveillants.
-tags: [cybersecurite, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un antivirus compare les fichiers à une liste d'empreintes de logiciels malveillants connus.
+  Il surveille aussi le comportement des programmes et peut les tester dans un espace isolé.
+  Aucun antivirus ne peut tout détecter, surtout les menaces toutes nouvelles.
+tags: [cybersecurite]
+sources:
+  - title: "Logiciel antivirus"
+    url: "https://fr.wikipedia.org/wiki/Logiciel_antivirus"
+    publisher: "Wikipédia"
+  - title: "Antivirus software"
+    url: "https://en.wikipedia.org/wiki/Antivirus_software"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'une signature pour un antivirus ?"
+    options:
+      - "Le nom de l'auteur du virus"
+      - "Une empreinte qui permet de reconnaître un logiciel malveillant connu"
+      - "Le mot de passe de l'ordinateur"
+    answer: 2
+    explanation: >
+      Après avoir analysé un logiciel malveillant, les spécialistes en tirent une
+      empreinte qu'ils ajoutent à une base de signatures.
+  - question: "Que fait un antivirus d'un fichier mis en quarantaine ?"
+    options:
+      - "Il l'isole pour l'empêcher d'agir"
+      - "Il l'envoie à tous vos contacts"
+      - "Il l'ouvre immédiatement"
+    answer: 1
+    explanation: >
+      La quarantaine isole le fichier. Il ne peut plus se propager, mais on peut encore
+      essayer de le réparer plus tard.
+  - question: "Qu'est-ce qu'un faux positif ?"
+    options:
+      - "Un virus très dangereux"
+      - "Une mise à jour ratée"
+      - "Un fichier sain pris à tort pour un logiciel malveillant"
+    answer: 3
+    explanation: >
+      Un faux positif est une fausse alerte. En 2022, Microsoft Defender a ainsi signalé à
+      tort des navigateurs web.
+  - question: "Qu'a démontré Fred Cohen en 1987 ?"
+    options:
+      - "Qu'aucun algorithme ne peut détecter parfaitement tous les virus possibles"
+      - "Que les virus ne peuvent pas exister"
+      - "Que les antivirus sont inutiles"
+    answer: 1
+    explanation: >
+      Fred Cohen a montré qu'aucun algorithme ne peut détecter à coup sûr tous les virus
+      possibles.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un antivirus compare les fichiers à une liste d'empreintes de logiciels malveillants connus. Il surveille aussi le comportement des programmes et peut les tester dans un espace isolé. Aucun antivirus ne peut tout détecter, surtout les menaces toutes nouvelles.
+
+## Un gardien pour l'ordinateur
+
+Un antivirus est un logiciel qui cherche à repérer, bloquer et supprimer les logiciels malveillants. Ce sont des programmes conçus pour nuire : virus, logiciels espions, rançongiciels. Les antivirus modernes examinent les fichiers quand ils sont créés, ouverts ou lus.
+
+## Les empreintes des malfaiteurs
+
+La méthode la plus ancienne repose sur les signatures. Quand des spécialistes découvrent un nouveau logiciel malveillant, ils l'analysent. Ils en tirent une empreinte, une sorte de portrait-robot qui permet de le reconnaître. Cette empreinte est ajoutée à une base de signatures.
+
+L'antivirus compare chaque fichier à cette base. S'il trouve une correspondance, il peut supprimer le fichier, essayer de le réparer ou le placer en quarantaine. La quarantaine isole le fichier : il ne peut plus agir ni se propager.
+
+Cette méthode a une faiblesse : elle ne reconnaît que ce qui est déjà connu. Or, en 2012 et 2013, des entreprises de sécurité comptaient de 300 000 à plus de 500 000 nouveaux échantillons de logiciels malveillants par jour. La base doit donc être mise à jour sans cesse. Aujourd'hui, beaucoup d'antivirus consultent directement une base en ligne.
+
+## Surveiller les comportements
+
+Pour attraper les nouveaux venus, les antivirus utilisent d'autres méthodes. L'analyse heuristique étudie le code d'un programme inconnu pour y chercher des morceaux suspects. Une même signature générale peut ainsi repérer plusieurs variantes d'un virus.
+
+La surveillance du comportement observe ce que font les programmes. Un programme qui essaie de modifier des fichiers du système déclenche une alerte.
+
+Enfin, l'antivirus peut lancer un programme douteux dans un bac à sable. C'est un faux ordinateur, simulé et isolé. L'antivirus regarde ce que fait le programme, sans risque pour la vraie machine.
+
+## Pas de protection parfaite
+
+En 1987, l'informaticien Fred Cohen a démontré qu'aucun algorithme ne peut détecter à coup sûr tous les virus possibles. La même année, Bernd Fix a été l'un des premiers à neutraliser un virus informatique réel.
+
+Les antivirus se trompent aussi dans l'autre sens. Un faux positif est une fausse alerte : un fichier sain est pris pour une menace. En 2022, Microsoft Defender a signalé à tort tous les navigateurs web basés sur Chromium. L'antivirus est donc une protection utile, mais il faut aussi faire les mises à jour et se méfier des pièces jointes inconnues.
+
+## À retenir
+
+- Un antivirus cherche à repérer, bloquer et supprimer les logiciels malveillants.
+- Il compare les fichiers à une base de signatures, des empreintes de logiciels malveillants connus.
+- Pour les menaces nouvelles, il étudie le code, surveille les comportements et teste les programmes dans un bac à sable.
+- Un fichier suspect peut être mis en quarantaine, c'est-à-dire isolé.
+- Aucun antivirus ne peut tout détecter, comme l'a démontré Fred Cohen en 1987.
 
 ---
 type: article
@@ -8022,18 +8506,101 @@ status: planned
 
 ---
 type: article
-title: La connexion satellite pour les zones sans infrastructure terrestre
-slug: la-connexion-satellite-pour-les-zones-sans-infrastructure-terrestre
+title: Comment Internet arrive-t-il par satellite dans les endroits isolés ?
+slug: comment-internet-arrive-t-il-par-satellite-dans-les-endroits-isoles
 categoryPath: micro-informatique-et-informatique/reseaux-et-securite/internet
 summary: >
-  Une solution recente pour un acces internet dans les regions les plus isolees.
-tags: [internet, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une antenne posée sur la maison échange des ondes radio avec un satellite. Le satellite les
+  relaie vers une station au sol reliée à Internet. Les satellites géostationnaires sont très
+  loin, ce qui ralentit les échanges ; les satellites en orbite basse, comme ceux de Starlink,
+  sont bien plus proches.
+tags: [internet]
+sources:
+  - title: "Satellite Internet access"
+    url: "https://en.wikipedia.org/wiki/Satellite_Internet_access"
+    publisher: "Wikipedia"
+  - title: "Starlink"
+    url: "https://fr.wikipedia.org/wiki/Starlink"
+    publisher: "Wikipédia"
+  - title: "Orbite géostationnaire"
+    url: "https://fr.wikipedia.org/wiki/Orbite_g%C3%A9ostationnaire"
+    publisher: "Wikipédia"
+quiz:
+  - question: "À quelle altitude se trouve un satellite géostationnaire ?"
+    options:
+      - "35 786 km"
+      - "550 km"
+      - "10 km"
+    answer: 1
+    explanation: >
+      L'orbite géostationnaire est à 35 786 km au-dessus de l'équateur. Le satellite y
+      semble immobile dans le ciel.
+  - question: "Pourquoi l'antenne d'un satellite géostationnaire peut-elle rester fixe ?"
+    options:
+      - "Parce que le satellite tourne aussi vite que la Terre et semble immobile"
+      - "Parce que le signal fait le tour de la Terre"
+      - "Parce que l'antenne est aimantée"
+    answer: 1
+    explanation: >
+      Le satellite fait un tour en même temps que la Terre tourne sur elle-même. Vu du
+      sol, il reste au même endroit.
+  - question: "À quelle altitude volent la plupart des satellites Starlink ?"
+    options:
+      - "Environ 35 000 km"
+      - "Environ 5 km"
+      - "Environ 550 km"
+    answer: 3
+    explanation: >
+      Les satellites Starlink sont en orbite basse, vers 540 à 570 km d'altitude. Le
+      signal fait un trajet bien plus court.
+  - question: "Qu'est-ce qui peut gêner le signal d'un satellite ?"
+    options:
+      - "La pluie"
+      - "Le bruit de la rue"
+      - "La lumière d'une lampe"
+    answer: 1
+    explanation: >
+      L'humidité et la pluie perturbent les ondes, surtout sur les fréquences les plus
+      hautes.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une antenne posée sur la maison échange des ondes radio avec un satellite. Le satellite les relaie vers une station au sol reliée à Internet. Les satellites géostationnaires sont très loin, ce qui ralentit les échanges ; les satellites en orbite basse, comme ceux de Starlink, sont bien plus proches.
+
+## Quand il n'y a pas de câble
+
+Dans les villes, Internet arrive par des câbles en cuivre ou en fibre optique. Dans une ferme isolée, en montagne, sur une île ou sur un bateau, tirer un câble coûte trop cher ou est impossible. Une solution consiste à passer par l'espace.
+
+## Le chemin du signal
+
+Chez l'utilisateur, une petite antenne en forme d'assiette, souvent de 60 à 90 centimètres, est reliée à un modem. Elle envoie des ondes radio vers un satellite. Le satellite les renvoie vers une grande station au sol, reliée au réseau Internet. Les réponses font le chemin inverse.
+
+## Les satellites géostationnaires, très loin
+
+Pendant longtemps, on a utilisé des satellites géostationnaires. Ils tournent autour de la Terre à 35 786 km d'altitude, au-dessus de l'équateur. À cette distance, ils font un tour en même temps que la Terre tourne sur elle-même. Vus du sol, ils semblent donc immobiles. L'antenne peut rester fixe, pointée vers le même point du ciel.
+
+Le problème, c'est la distance. Un signal radio met environ 120 millisecondes pour monter jusqu'au satellite, puis autant pour redescendre. Pour une question et sa réponse, le trajet se fait plusieurs fois. Ce délai, appelé latence, gêne les appels vidéo et les jeux en ligne.
+
+## Les constellations en orbite basse
+
+Une autre méthode utilise des milliers de satellites beaucoup plus proches. Starlink, de l'entreprise SpaceX, en est l'exemple le plus connu. Ses premiers satellites opérationnels ont été lancés le 24 mai 2019. Ils volent surtout entre 540 et 570 km d'altitude. Le 19 décembre 2025, plus de 9 300 satellites Starlink étaient en orbite. En juin 2026, l'entreprise annonçait plus de 12 millions de clients.
+
+Comme ces satellites sont proches, le signal fait un trajet bien plus court. La latence moyenne descend autour de quelques dizaines de millisecondes. Mais un satellite bas passe vite dans le ciel. Il faut donc beaucoup de satellites pour qu'il y en ait toujours un au-dessus de l'antenne.
+
+## Les limites
+
+La pluie et l'humidité perturbent les ondes, surtout sur les fréquences les plus hautes. Les grandes constellations posent aussi des problèmes. Les astronomes s'inquiètent de la pollution lumineuse qu'elles créent. Et plus il y a de satellites, plus le risque de collisions et de débris dans l'espace augmente.
+
+## À retenir
+
+- Internet par satellite relie une antenne chez l'utilisateur, un satellite et une station au sol branchée à Internet.
+- Un satellite géostationnaire tourne à 35 786 km d'altitude et semble immobile dans le ciel.
+- Cette grande distance crée un délai, la latence, qui gêne les appels vidéo et les jeux.
+- Les satellites Starlink volent vers 550 km d'altitude ; plus de 9 300 étaient en orbite fin 2025.
+- La pluie gêne le signal, et les grandes constellations inquiètent les astronomes et augmentent le risque de débris.
 
 ---
 type: article
@@ -8787,18 +9354,102 @@ status: planned
 
 ---
 type: article
-title: Les algorithmes de tri et leurs differentes strategies pour organiser des donnees
-slug: les-algorithmes-de-tri-et-leurs-differentes-strategies-pour-organiser-des-donnees
+title: Comment un ordinateur range-t-il une liste dans l'ordre ?
+slug: comment-un-ordinateur-range-t-il-une-liste-dans-l-ordre
 categoryPath: micro-informatique-et-informatique/logiciel/algorithmes
 summary: >
-  Des methodes variees qui permettent de ranger des elements dans un ordre precis.
-tags: [algorithmes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pour trier une liste, un ordinateur suit un algorithme de tri, une méthode précise.
+  Certaines méthodes simples, comme le tri par insertion, deviennent très lentes sur de
+  longues listes. D'autres, comme le tri fusion, coupent la liste en morceaux et vont beaucoup
+  plus vite.
+tags: [algorithmes]
+sources:
+  - title: "Algorithme de tri"
+    url: "https://fr.wikipedia.org/wiki/Algorithme_de_tri"
+    publisher: "Wikipédia"
+  - title: "Tri par insertion"
+    url: "https://fr.wikipedia.org/wiki/Tri_par_insertion"
+    publisher: "Wikipédia"
+  - title: "Tri fusion"
+    url: "https://fr.wikipedia.org/wiki/Tri_fusion"
+    publisher: "Wikipédia"
+quiz:
+  - question: "À quoi ressemble le tri par insertion ?"
+    options:
+      - "À la façon dont on range des cartes à jouer dans sa main"
+      - "À un tirage au sort"
+      - "À une course de relais"
+    answer: 1
+    explanation: >
+      On prend les éléments un par un et on place chacun à sa bonne place parmi ceux déjà
+      rangés, comme des cartes dans la main.
+  - question: "Quelle est l'opération principale du tri fusion ?"
+    options:
+      - "Mélanger la liste au hasard"
+      - "Supprimer les doublons"
+      - "Réunir deux listes triées en une seule"
+    answer: 3
+    explanation: >
+      Le tri fusion coupe la liste en deux, trie chaque moitié, puis fusionne les deux
+      moitiés triées.
+  - question: "Qui a inventé le tri fusion, et quand ?"
+    options:
+      - "Ada Lovelace, en 1843"
+      - "John von Neumann, en 1945"
+      - "Alan Turing, en 1990"
+    answer: 2
+    explanation: >
+      Le tri fusion a été mis au point par John von Neumann en 1945.
+  - question: "Sur quel genre de liste le tri par insertion est-il très efficace ?"
+    options:
+      - "Une liste immense et désordonnée"
+      - "Une liste de mots seulement"
+      - "Une petite liste ou une liste presque triée"
+    answer: 3
+    explanation: >
+      Le tri par insertion est l'un des plus efficaces sur de petites listes et sur des
+      listes presque triées.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour trier une liste, un ordinateur suit un algorithme de tri, une méthode précise. Certaines méthodes simples, comme le tri par insertion, deviennent très lentes sur de longues listes. D'autres, comme le tri fusion, coupent la liste en morceaux et vont beaucoup plus vite.
+
+## Pourquoi trier ?
+
+Ranger des noms par ordre alphabétique, classer des scores du plus grand au plus petit, afficher des photos par date : les ordinateurs trient tout le temps. Une liste triée est aussi beaucoup plus facile à fouiller.
+
+Pour trier, l'ordinateur suit un algorithme de tri. C'est une méthode précise qui range des objets selon un ordre choisi. Il en existe beaucoup. Elles donnent toutes le même résultat, mais pas à la même vitesse.
+
+## Le tri par insertion, comme des cartes
+
+Quand on reçoit des cartes à jouer, on les range souvent une par une dans sa main. On prend une nouvelle carte et on la glisse à sa place parmi celles déjà rangées. C'est le tri par insertion.
+
+Cette méthode est simple. Sur une petite liste, ou sur une liste presque triée, elle fait partie des plus rapides. Mais sur une longue liste en désordre, chaque nouvel élément doit être comparé à beaucoup d'autres. Quand la liste est 10 fois plus longue, le travail peut devenir environ 100 fois plus grand. Le tri par sélection et le tri à bulles ont le même défaut.
+
+## Le tri fusion, diviser pour régner
+
+En 1945, le mathématicien John von Neumann a mis au point le tri fusion. L'idée est de couper le problème en morceaux.
+
+On coupe la liste en deux moitiés. On coupe encore chaque moitié en deux, et ainsi de suite, jusqu'à obtenir des morceaux d'un seul élément. Un morceau d'un seul élément est déjà trié. Ensuite, on fusionne les morceaux deux par deux. Pour réunir deux listes triées, il suffit de regarder leurs premiers éléments et de prendre le plus petit, encore et encore.
+
+Pour une liste de 1 000 éléments en désordre, une méthode comme le tri par insertion fait de l'ordre d'un million de comparaisons. Le tri fusion en fait de l'ordre de 10 000.
+
+## Une limite de vitesse
+
+Le tri rapide est une autre méthode très utilisée. Il est en général aussi rapide que le tri fusion, mais il peut devenir lent dans certains cas.
+
+Les informaticiens ont démontré qu'il existe une limite. Un algorithme qui trie en comparant les éléments deux à deux ne peut pas, en moyenne, faire beaucoup mieux que le tri fusion. Certains programmes combinent plusieurs méthodes : par exemple le tri par insertion pour les petits morceaux, et une méthode rapide pour le reste.
+
+## À retenir
+
+- Un algorithme de tri est une méthode précise pour ranger des objets dans un ordre choisi.
+- Le tri par insertion range les éléments un par un, comme des cartes dans la main.
+- Les méthodes simples deviennent très lentes sur de longues listes en désordre.
+- Le tri fusion, inventé par John von Neumann en 1945, coupe la liste en morceaux puis les fusionne.
+- Un tri qui compare les éléments deux à deux ne peut pas, en moyenne, aller beaucoup plus vite que le tri fusion.
 
 ---
 type: article
@@ -10512,33 +11163,194 @@ status: planned
 
 ---
 type: article
-title: Le role de la dissipation thermique dans le fonctionnement fiable d'un processeur
-slug: le-role-de-la-dissipation-thermique-dans-le-fonctionnement-fiable-d-un-processeur
+title: Pourquoi un ordinateur a-t-il besoin d'un ventilateur ?
+slug: pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Une gestion necessaire de la chaleur generee par l'activite intense du composant.
-tags: [processeurs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En faisant passer du courant, le processeur et la carte graphique produisent beaucoup de
+  chaleur. Un radiateur en métal et un ventilateur évacuent cette chaleur. Si la puce devient
+  trop chaude, elle ralentit d'elle-même ou l'ordinateur s'éteint pour se protéger.
+tags: [processeurs]
+sources:
+  - title: "Computer cooling"
+    url: "https://en.wikipedia.org/wiki/Computer_cooling"
+    publisher: "Wikipedia"
+  - title: "Dissipateur thermique"
+    url: "https://fr.wikipedia.org/wiki/Dissipateur_thermique"
+    publisher: "Wikipédia"
+  - title: "Dynamic frequency scaling"
+    url: "https://en.wikipedia.org/wiki/Dynamic_frequency_scaling"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelles pièces produisent le plus de chaleur dans un ordinateur ?"
+    options:
+      - "Le clavier et la souris"
+      - "Le processeur et la carte graphique"
+      - "L'écran et les haut-parleurs"
+    answer: 2
+    explanation: >
+      Les circuits intégrés, comme le processeur et la puce graphique, sont les
+      principales sources de chaleur.
+  - question: "Pourquoi un dissipateur thermique a-t-il des ailettes ?"
+    options:
+      - "Pour augmenter la surface en contact avec l'air"
+      - "Pour décorer l'ordinateur"
+      - "Pour faire moins de bruit"
+    answer: 1
+    explanation: >
+      Les ailettes augmentent la surface du métal. Plus la surface est grande, plus la
+      chaleur passe facilement dans l'air.
+  - question: "Que fait un processeur moderne qui devient trop chaud ?"
+    options:
+      - "Il accélère"
+      - "Il change de couleur"
+      - "Il baisse sa vitesse ou s'arrête"
+    answer: 3
+    explanation: >
+      Tous les processeurs modernes réduisent leur fréquence ou leur tension, ou se
+      coupent, au-delà d'une température limite.
+  - question: "Pourquoi la poussière est-elle un problème pour un ordinateur ?"
+    options:
+      - "Elle rend l'écran flou"
+      - "Elle isole la chaleur et bloque l'air"
+      - "Elle vide la batterie"
+    answer: 2
+    explanation: >
+      La poussière agit comme un isolant et gêne le passage de l'air. Le refroidissement
+      devient moins efficace.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En faisant passer du courant, le processeur et la carte graphique produisent beaucoup de chaleur. Un radiateur en métal et un ventilateur évacuent cette chaleur. Si la puce devient trop chaude, elle ralentit d'elle-même ou l'ordinateur s'éteint pour se protéger.
+
+## Le courant chauffe
+
+Quand un courant électrique traverse un composant, une partie de l'énergie se transforme en chaleur. C'est l'effet Joule. Dans un ordinateur, les pièces qui chauffent le plus sont les circuits intégrés, surtout le processeur et la puce graphique. Ils font passer du courant dans un très grand nombre de minuscules composants.
+
+Cette chaleur doit partir. Sinon, la température monte. Une chaleur trop forte peut réduire beaucoup la durée de vie des composants, ou même les abîmer pour toujours.
+
+## Le radiateur et le ventilateur
+
+Sur le processeur, on fixe un dissipateur thermique. C'est un bloc de métal qui conduit bien la chaleur, souvent de l'aluminium ou du cuivre. Il est couvert d'ailettes, de fines lames de métal. Elles augmentent la surface en contact avec l'air, ce qui aide la chaleur à s'échapper.
+
+Entre la puce et le dissipateur, on met une fine couche de pâte thermique. Les deux surfaces semblent lisses, mais elles ont de minuscules creux. La pâte bouche ces creux et améliore le passage de la chaleur.
+
+Quand l'air ne circule pas assez tout seul, on ajoute un ventilateur. Il pousse de l'air frais à travers les ailettes et chasse l'air chaud. Les tailles courantes vont de 40 à 140 millimètres. Les ordinateurs très puissants utilisent parfois un refroidissement par liquide.
+
+Beaucoup de smartphones n'ont pas de ventilateur, car il n'y a pas de place. Ils se refroidissent seulement grâce à des pièces de métal qui répartissent la chaleur.
+
+## Quand ça chauffe trop
+
+Tous les processeurs modernes se protègent. Si leur température dépasse une limite, ils baissent leur fréquence, c'est-à-dire le nombre d'opérations qu'ils font par seconde. Ils peuvent aussi baisser leur tension électrique. Ils produisent alors moins de chaleur, mais l'ordinateur devient plus lent. Si cela ne suffit pas, l'ordinateur s'éteint d'un coup.
+
+## L'ennemi poussière
+
+Avec le temps, la poussière s'accumule dans les ailettes et le ventilateur. Elle agit comme une couverture : elle isole la chaleur et bloque le passage de l'air. Un ordinateur portable rempli de poussière peut se mettre à s'éteindre souvent à cause de la chaleur. Le nettoyer régulièrement l'aide à rester rapide et à durer plus longtemps.
+
+## À retenir
+
+- Le courant qui traverse le processeur et la puce graphique produit de la chaleur.
+- Un dissipateur en métal, couvert d'ailettes, transmet cette chaleur à l'air.
+- Le ventilateur pousse l'air à travers les ailettes pour évacuer la chaleur plus vite.
+- Un processeur trop chaud ralentit de lui-même ou l'ordinateur s'éteint pour se protéger.
+- La poussière isole et bloque l'air : il faut nettoyer l'ordinateur de temps en temps.
 
 ---
 type: article
-title: Les processeurs graphiques et leur specialisation dans le calcul parallele
-slug: les-processeurs-graphiques-et-leur-specialisation-dans-le-calcul-parallele
+title: Pourquoi une carte graphique calcule-t-elle si vite des millions de pixels ?
+slug: pourquoi-une-carte-graphique-calcule-t-elle-si-vite-des-millions-de-pixels
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Un type de processeur optimise pour realiser simultanement de tres nombreux calculs simples.
-tags: [processeurs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un processeur graphique, ou GPU, contient des centaines ou des milliers de petites unités de
+  calcul. Elles font toutes le même genre de calcul en même temps, ce qui est idéal pour les
+  pixels d'une image. Cette force sert aussi aujourd'hui à entraîner des intelligences
+  artificielles.
+tags: [processeurs]
+sources:
+  - title: "Processeur graphique"
+    url: "https://fr.wikipedia.org/wiki/Processeur_graphique"
+    publisher: "Wikipédia"
+  - title: "Graphics processing unit"
+    url: "https://en.wikipedia.org/wiki/Graphics_processing_unit"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que contient un processeur graphique moderne ?"
+    options:
+      - "Une seule unité de calcul très lente"
+      - "Des centaines ou des milliers d'unités de calcul"
+      - "Uniquement de la mémoire"
+    answer: 2
+    explanation: >
+      Un GPU moderne possède des centaines, voire des milliers d'unités de calcul qui
+      travaillent en même temps.
+  - question: "Combien de pixels compte un écran de 1 920 sur 1 080 ?"
+    options:
+      - "Environ 2 millions"
+      - "Environ 2 000"
+      - "Environ 2 milliards"
+    answer: 1
+    explanation: >
+      1 920 multiplié par 1 080 donne 2 073 600 pixels, soit environ 2 millions.
+  - question: "Quelle entreprise a présenté CUDA en 2007 ?"
+    options:
+      - "Sony"
+      - "Apple"
+      - "Nvidia"
+    answer: 3
+    explanation: >
+      Nvidia a présenté CUDA en 2007. Ce fut le premier moyen très utilisé pour programmer
+      un GPU pour d'autres calculs que l'image.
+  - question: "Pour quel usage, en dehors des jeux, utilise-t-on beaucoup les GPU ?"
+    options:
+      - "Pour imprimer des documents"
+      - "Pour entraîner des réseaux de neurones"
+      - "Pour refroidir l'ordinateur"
+    answer: 2
+    explanation: >
+      Depuis les années 2010, les GPU servent à des calculs faciles à découper en
+      morceaux, comme l'entraînement des réseaux de neurones.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un processeur graphique, ou GPU, contient des centaines ou des milliers de petites unités de calcul. Elles font toutes le même genre de calcul en même temps, ce qui est idéal pour les pixels d'une image. Cette force sert aussi aujourd'hui à entraîner des intelligences artificielles.
+
+## Une montagne de petits calculs
+
+Un écran de 1 920 sur 1 080 pixels contient environ 2 millions de pixels. Dans un jeu vidéo, l'ordinateur doit calculer la couleur de chacun d'eux, puis recommencer pour chaque nouvelle image. Chaque calcul est assez simple, mais il y en a énormément.
+
+Le processeur principal d'un ordinateur, le CPU, possède quelques cœurs très puissants. Ils savent tout faire, mais ils ne sont pas assez nombreux pour ce travail. C'est pourquoi les ordinateurs ont un processeur graphique, ou GPU. C'est un circuit spécialisé dans le calcul des images.
+
+## Mille ouvriers plutôt qu'un génie
+
+Un GPU moderne contient des centaines, voire des milliers d'unités de calcul. Chacune est plus simple qu'un cœur de CPU. Mais elles travaillent toutes en même temps, chacune sur un petit morceau de l'image. C'est ce qu'on appelle le calcul parallèle.
+
+Imagine qu'il faut colorier un grand mur de carreaux. Un peintre très habile irait vite, mais un carreau à la fois. Mille peintres débutants, chacun devant son carreau, finiraient bien avant lui. Le GPU, ce sont les mille peintres.
+
+Pour mesurer la puissance d'un GPU, on compte le nombre d'opérations qu'il fait par seconde. On l'exprime souvent en téraflops, c'est-à-dire en milliers de milliards d'opérations par seconde.
+
+## Un nom apparu dans les années 1990
+
+Les premiers processeurs graphiques des années 1990 savaient tracer des lignes et du texte sans l'aide du processeur principal. Sony a utilisé le sigle GPU en 1994 pour la puce de sa console PlayStation. En 1999, Nvidia l'a employé pour sa carte GeForce 256.
+
+## Bien plus que des jeux
+
+Beaucoup d'autres problèmes se découpent, eux aussi, en milliers de petits calculs identiques. En 2007, l'entreprise Nvidia a présenté CUDA, un outil qui permet de programmer un GPU pour autre chose que des images. Ce fut le premier outil de ce type à être très utilisé.
+
+Depuis les années 2010, les GPU servent à entraîner des réseaux de neurones, la technique au cœur de l'intelligence artificielle moderne. Ils servent aussi au minage de bitcoins. Pour ces tâches, un GPU peut être des centaines de fois plus rapide qu'un processeur classique.
+
+## À retenir
+
+- Un processeur graphique, ou GPU, est un circuit spécialisé dans le calcul des images.
+- Il contient des centaines ou des milliers d'unités de calcul qui travaillent en même temps.
+- Ce calcul parallèle convient aux images, faites de millions de pixels à calculer de la même façon.
+- En 2007, Nvidia a présenté CUDA pour programmer les GPU pour d'autres usages.
+- Depuis les années 2010, les GPU servent beaucoup à entraîner des intelligences artificielles.
 
 ---
 type: article

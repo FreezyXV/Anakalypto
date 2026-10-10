@@ -4572,18 +4572,94 @@ status: planned
 
 ---
 type: article
-title: Prendre son pouls et interpreter le rythme cardiaque
-slug: prendre-son-pouls-et-interpreter-le-rythme-cardiaque
+title: Pourquoi sent-on son cœur battre au poignet ?
+slug: pourquoi-sent-on-son-coeur-battre-au-poignet
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
-  Un geste simple qui donne des informations essentielles sur l'etat du coeur.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  À chaque battement, le cœur lance une vague de pression dans les artères. Au poignet, une
+  artère passe juste sous la peau, contre un os : on sent cette vague sous les doigts. C'est
+  le pouls.
+tags: [systeme-cardiovasculaire]
+sources:
+  - title: "Pouls"
+    url: "https://fr.wikipedia.org/wiki/Pouls"
+    publisher: "Wikipédia"
+  - title: "Pulse"
+    url: "https://en.wikipedia.org/wiki/Pulse"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que sent-on vraiment quand on prend son pouls ?"
+    options:
+      - "Le sang qui sort de la peau"
+      - "La vague de pression envoyée par le cœur dans une artère"
+      - "Un muscle du bras qui se contracte"
+    answer: 2
+    explanation: >
+      À chaque contraction, le cœur pousse le sang. L'artère se gonfle un peu au passage
+      de cette vague de pression.
+  - question: "Pourquoi ne faut-il pas prendre le pouls avec le pouce ?"
+    options:
+      - "Le pouce a son propre pouls, qu'on risque de confondre"
+      - "Le pouce est trop froid"
+      - "Le pouce ne sent rien"
+    answer: 1
+    explanation: >
+      Une artère passe dans le pouce. On risquerait de sentir son propre pouls au lieu de
+      celui de la personne.
+  - question: "Combien de battements par minute a un adulte au repos, en général ?"
+    options:
+      - "Entre 10 et 30"
+      - "Entre 150 et 200"
+      - "Entre 60 et 100"
+    answer: 3
+    explanation: >
+      Au repos, le cœur d'un adulte bat le plus souvent entre 60 et 100 fois par minute.
+  - question: "Comment compter son pouls sans attendre une minute entière ?"
+    options:
+      - "Compter 5 secondes et multiplier par 100"
+      - "Compter 15 secondes et multiplier par 4"
+      - "Compter 30 secondes et diviser par 2"
+    answer: 2
+    explanation: >
+      15 secondes multipliées par 4 donnent une minute. C'est une méthode rapide et assez
+      précise.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+À chaque battement, le cœur lance une vague de pression dans les artères. Au poignet, une artère passe juste sous la peau, contre un os : on sent cette vague sous les doigts. C'est le pouls.
+
+## Une vague dans les artères
+
+Le cœur est une pompe. Quand il se contracte, il pousse d'un coup du sang dans les artères, les tuyaux qui partent du cœur. Cette poussée crée une vague de pression qui court le long des artères. Au passage de la vague, la paroi de l'artère se gonfle un peu, puis revient. Ce petit gonflement, répété à chaque battement, s'appelle le pouls.
+
+On ne sent pas le pouls partout. Il faut une artère proche de la peau, posée sur quelque chose de dur. Au poignet, l'artère radiale passe juste sous la peau, du côté du pouce, contre un os. On peut aussi sentir le pouls sur le côté du cou, avec l'artère carotide, ou au pli de l'aine.
+
+## Comment le prendre
+
+On pose deux ou trois doigts, par exemple l'index et le majeur, sur l'artère. On appuie doucement contre l'os. On n'utilise pas le pouce. Une artère passe aussi dans le pouce : on risquerait de sentir son propre pouls au lieu de celui de la personne.
+
+On compte ensuite les battements pendant 60 secondes. Pour aller plus vite, on peut compter pendant 15 secondes, puis multiplier par 4. On obtient un nombre de battements par minute.
+
+## Ce que dit le chiffre
+
+Au repos, le cœur d'un adulte bat en général entre 60 et 100 fois par minute. Chez un enfant, entre 1 an et la puberté, le pouls se situe plutôt entre 70 et 140. Chez un nourrisson, il est encore plus rapide : entre 100 et 160.
+
+Le pouls change tout le temps. Il accélère pendant un effort, quand on a peur ou quand on a de la fièvre. Les sportifs bien entraînés ont souvent un pouls plus lent au repos. On peut aussi sentir si le rythme est régulier ou si des battements manquent.
+
+## Quand s'inquiéter
+
+Chez un adulte au repos, un pouls de moins de 40 ou de plus de 120 battements par minute, sans raison claire et avec un malaise, demande une aide médicale urgente. Un pouls inhabituel ne suffit pas à poser un diagnostic : seul un médecin peut dire ce qui se passe.
+
+## À retenir
+
+- Le pouls est la vague de pression que le cœur envoie dans les artères à chaque battement.
+- On le sent là où une artère passe sous la peau contre un os, par exemple au poignet ou au cou.
+- On le prend avec deux ou trois doigts, jamais avec le pouce, qui a son propre pouls.
+- Au repos, un adulte a en général entre 60 et 100 battements par minute ; un enfant en a davantage.
+- Le pouls accélère avec l'effort, la peur ou la fièvre.
 
 ---
 type: article
@@ -4632,18 +4708,96 @@ status: planned
 
 ---
 type: article
-title: Le defibrillateur automatise et son utilisation
-slug: le-defibrillateur-automatise-et-son-utilisation
+title: Comment un défibrillateur remet-il de l'ordre dans un cœur qui s'emballe ?
+slug: comment-un-defibrillateur-remet-il-de-l-ordre-dans-un-coeur-qui-s-emballe
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
-  Un appareil simple, concu pour etre utilise meme sans formation medicale.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Lors d'un arrêt cardiaque, le cœur peut se mettre à trembler au lieu de pomper. Un
+  défibrillateur analyse son activité électrique et, seulement si c'est utile, envoie un choc
+  qui remet tout à zéro. En France, tout le monde a le droit de s'en servir.
+tags: [systeme-cardiovasculaire]
+sources:
+  - title: "Défibrillateur automatisé externe"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9fibrillateur_automatis%C3%A9_externe"
+    publisher: "Wikipédia"
+  - title: "Automated external defibrillator"
+    url: "https://en.wikipedia.org/wiki/Automated_external_defibrillator"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il pendant une fibrillation ventriculaire ?"
+    options:
+      - "Le cœur bat très lentement mais bien"
+      - "L'activité électrique du cœur devient désordonnée et il tremble au lieu de pomper"
+      - "Le cœur grossit d'un coup"
+    answer: 2
+    explanation: >
+      Les signaux électriques partent dans tous les sens. Le cœur tremble et ne pousse
+      plus le sang.
+  - question: "Le défibrillateur envoie-t-il toujours un choc ?"
+    options:
+      - "Oui, dès qu'on colle les électrodes"
+      - "Non, il analyse le rythme et ne choque que si c'est utile"
+      - "Oui, mais seulement si on appuie trois fois"
+    answer: 2
+    explanation: >
+      L'appareil analyse d'abord l'activité électrique du cœur. Il ne délivre un choc que
+      pour certains rythmes.
+  - question: "Qui peut utiliser un défibrillateur automatisé en France ?"
+    options:
+      - "Seulement les médecins"
+      - "Seulement les pompiers"
+      - "Toute personne, même sans formation"
+    answer: 3
+    explanation: >
+      Depuis un décret de 2007, toute personne peut utiliser un défibrillateur automatisé
+      externe.
+  - question: "Que faut-il faire en même temps que le défibrillateur ?"
+    options:
+      - "Le massage cardiaque"
+      - "Donner à boire à la victime"
+      - "Mettre la victime debout"
+    answer: 1
+    explanation: >
+      Le massage cardiaque fait circuler un peu de sang et rend le choc plus efficace.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Lors d'un arrêt cardiaque, le cœur peut se mettre à trembler au lieu de pomper. Un défibrillateur analyse son activité électrique et, seulement si c'est utile, envoie un choc qui remet tout à zéro. En France, tout le monde a le droit de s'en servir.
+
+## Un cœur qui tremble
+
+Le cœur bat grâce à de petits signaux électriques. Ils partent d'un endroit précis, une sorte de chef d'orchestre naturel, et font contracter le muscle cardiaque dans le bon ordre.
+
+Parfois, ces signaux deviennent désordonnés. Le bas du cœur, les ventricules, se met alors à trembler au lieu de se contracter d'un seul coup. C'est la fibrillation ventriculaire. Le sang ne circule plus. La personne s'effondre et ne respire plus normalement : c'est un arrêt cardiaque.
+
+## Remettre les compteurs à zéro
+
+Le défibrillateur automatisé externe, ou DAE, est un appareil portable. On colle deux électrodes autocollantes sur la poitrine nue de la victime. Par ces électrodes, l'appareil écoute l'activité électrique du cœur et l'analyse lui-même.
+
+S'il reconnaît un rythme qui peut être corrigé, il envoie un choc électrique bref et puissant. Le choc touche tout le muscle cardiaque en même temps. Les signaux désordonnés s'arrêtent. Le chef d'orchestre naturel du cœur peut alors reprendre la main et relancer un rythme efficace.
+
+Le défibrillateur ne choque pas un cœur qui n'a plus aucune activité électrique, ce qu'on voit comme une ligne plate. Dans ce cas, le choc ne servirait à rien. Cela évite aussi qu'un choc soit donné à une personne qui n'en a pas besoin.
+
+## Une voix qui guide
+
+Le DAE parle. Il explique chaque étape : où coller les électrodes, quand ne plus toucher la victime, quand appuyer sur le bouton si besoin. Il est conçu pour des personnes qui ne l'ont jamais utilisé.
+
+En France, depuis un décret de 2007, toute personne, même non médecin, a le droit de s'en servir. Une loi de 2018 oblige certains lieux qui reçoivent du public à en être équipés. On le repère grâce à un logo : un cœur blanc traversé d'un éclair, sur fond vert.
+
+## Chaque minute compte
+
+Lors d'un arrêt cardiaque, les chances de survie baissent d'environ 10 % à chaque minute qui passe sans aide. Il faut donc agir vite : appeler les secours, commencer le massage cardiaque et faire chercher un défibrillateur. Le massage fait circuler un peu de sang et apporte de l'oxygène au cœur. Il rend le choc plus efficace. Les deux gestes vont ensemble.
+
+## À retenir
+
+- Lors d'une fibrillation ventriculaire, le cœur tremble au lieu de pomper le sang.
+- Le défibrillateur analyse l'activité électrique du cœur et ne choque que si c'est utile.
+- Le choc arrête les signaux désordonnés pour que le cœur reprenne un rythme normal.
+- En France, depuis 2007, tout le monde a le droit d'utiliser un défibrillateur automatisé.
+- Pendant un arrêt cardiaque, chaque minute compte : alerte, massage cardiaque et défibrillateur vont ensemble.
 
 ---
 type: article
@@ -6133,18 +6287,98 @@ status: planned
 
 ---
 type: article
-title: Le systeme nerveux et la regulation de la temperature corporelle
-slug: le-systeme-nerveux-et-la-regulation-de-la-temperature-corporelle
+title: Comment le corps garde-t-il une température proche de 37 °C ?
+slug: comment-le-corps-garde-t-il-une-temperature-proche-de-37-c
 categoryPath: corps-humain-et-sante/anatomie/systeme-nerveux
 summary: >
-  Comment le cerveau ajuste en permanence la temperature interne du corps.
-tags: [systeme-nerveux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une petite zone du cerveau, l'hypothalamus, joue le rôle de thermostat. Quand on a trop
+  chaud, le corps transpire et envoie du sang vers la peau. Quand on a froid, il frissonne et
+  garde la chaleur à l'intérieur.
+tags: [systeme-nerveux]
+sources:
+  - title: "Thermorégulation"
+    url: "https://fr.wikipedia.org/wiki/Thermor%C3%A9gulation"
+    publisher: "Wikipédia"
+  - title: "Human body temperature"
+    url: "https://en.wikipedia.org/wiki/Human_body_temperature"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle partie du cerveau joue le rôle de thermostat ?"
+    options:
+      - "Le cervelet"
+      - "L'hypothalamus"
+      - "Le bulbe olfactif"
+    answer: 2
+    explanation: >
+      L'hypothalamus reçoit les informations sur la température et commande les réactions
+      du corps.
+  - question: "Comment la transpiration refroidit-elle le corps ?"
+    options:
+      - "La sueur s'évapore et emporte de la chaleur"
+      - "La sueur bouche les pores"
+      - "La sueur fabrique de la glace"
+    answer: 1
+    explanation: >
+      En s'évaporant à la surface de la peau, la sueur emporte de la chaleur.
+  - question: "À quoi servent les frissons quand on a froid ?"
+    options:
+      - "À faire tomber la sueur"
+      - "À faire battre le cœur moins vite"
+      - "À produire de la chaleur avec les muscles"
+    answer: 3
+    explanation: >
+      Les frissons sont de petites contractions rapides des muscles. Ce travail produit de
+      la chaleur.
+  - question: "Que se passe-t-il quand on a de la fièvre ?"
+    options:
+      - "Le thermostat du corps est réglé plus haut"
+      - "Le thermostat est cassé pour toujours"
+      - "Le corps ne produit plus de chaleur"
+    answer: 1
+    explanation: >
+      Pendant la fièvre, la température visée par le corps est relevée. Le corps fait
+      alors tout pour atteindre ce nouveau réglage.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une petite zone du cerveau, l'hypothalamus, joue le rôle de thermostat. Quand on a trop chaud, le corps transpire et envoie du sang vers la peau. Quand on a froid, il frissonne et garde la chaleur à l'intérieur.
+
+## Un thermostat dans la tête
+
+La température à l'intérieur du corps reste proche de 37 °C. Chez un adulte en bonne santé, elle se situe le plus souvent entre 36,5 et 37,5 °C. Elle varie un peu au cours de la journée, d'environ 0,5 °C : elle est au plus bas vers 4 heures du matin et au plus haut en fin d'après-midi.
+
+C'est le système nerveux qui garde cet équilibre. Des capteurs dans la peau, les thermorécepteurs, sentent le chaud et le froid. Ils envoient l'information au cerveau. Une petite zone, l'hypothalamus, compare cette information à la température visée. Comme le thermostat d'une maison, il déclenche des réactions pour corriger l'écart.
+
+## Quand il fait trop chaud
+
+Le corps transpire. La sueur coule sur la peau puis s'évapore. En s'évaporant, elle emporte de la chaleur, et la peau se refroidit.
+
+En même temps, les petits vaisseaux sanguins proches de la peau s'élargissent. Plus de sang chaud passe près de la surface et perd sa chaleur vers l'air.
+
+## Quand il fait froid
+
+Les vaisseaux de la peau se resserrent. Le sang reste au chaud, à l'intérieur du corps. La peau devient pâle et froide, mais les organes sont protégés.
+
+Les muscles se mettent à frissonner. Ces petites contractions rapides produisent de la chaleur. Les poils se dressent aussi : c'est la chair de poule. Elle tente de piéger une couche d'air contre la peau, comme une couverture.
+
+Si la température du corps descend sous 35 °C, on parle d'hypothermie. C'est dangereux.
+
+## La fièvre et nos propres gestes
+
+Pendant une fièvre, le thermostat n'est pas en panne. Il est réglé plus haut que d'habitude. Le corps se croit alors trop froid : on frissonne et on a envie de se couvrir, même quand la température monte.
+
+L'être humain dispose aussi d'un moyen très efficace : son comportement. Mettre ou enlever un pull, chercher l'ombre ou un abri, bouger pour se réchauffer. Ces gestes simples complètent le travail du thermostat intérieur.
+
+## À retenir
+
+- La température à l'intérieur du corps reste proche de 37 °C et varie d'environ 0,5 °C dans la journée.
+- L'hypothalamus, une zone du cerveau, joue le rôle de thermostat.
+- Quand il fait chaud, on transpire et les vaisseaux de la peau s'élargissent pour perdre de la chaleur.
+- Quand il fait froid, les vaisseaux de la peau se resserrent et les muscles frissonnent pour produire de la chaleur.
+- Pendant la fièvre, le thermostat du corps est réglé plus haut que d'habitude.
 
 ---
 type: article
@@ -6565,18 +6799,99 @@ status: planned
 
 ---
 type: article
-title: Le rhume et la grippe, deux infections a ne pas confondre
-slug: le-rhume-et-la-grippe-deux-infections-a-ne-pas-confondre
+title: Comment faire la différence entre un rhume et une grippe ?
+slug: comment-faire-la-difference-entre-un-rhume-et-une-grippe
 categoryPath: corps-humain-et-sante/anatomie/systeme-respiratoire
 summary: >
-  Des maladies frequentes aux causes et aux consequences bien differentes.
-tags: [systeme-respiratoire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le rhume et la grippe sont deux infections dues à des virus différents. Le rhume bouche et
+  fait couler le nez, souvent sans fièvre. La grippe arrive d'un coup, avec une forte fièvre,
+  des courbatures et une grande fatigue.
+tags: [systeme-respiratoire]
+sources:
+  - title: "Rhinopharyngite"
+    url: "https://fr.wikipedia.org/wiki/Rhinopharyngite"
+    publisher: "Wikipédia"
+  - title: "Grippe"
+    url: "https://fr.wikipedia.org/wiki/Grippe"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel virus cause le plus souvent le rhume ?"
+    options:
+      - "Le virus de la grippe"
+      - "Le rhinovirus"
+      - "Le virus de la varicelle"
+    answer: 2
+    explanation: >
+      Le rhinovirus est responsable d'environ 40 % des rhumes. Il en existe plus de 100
+      types.
+  - question: "Quel signe fait plutôt penser à une grippe ?"
+    options:
+      - "Une fièvre forte qui arrive d'un coup, avec des courbatures"
+      - "Un nez qui coule sans fièvre"
+      - "Des éternuements seuls"
+    answer: 1
+    explanation: >
+      La grippe commence brutalement, avec une fièvre souvent supérieure à 38,5 °C, des
+      douleurs dans les muscles et une grande fatigue.
+  - question: "Pourquoi faut-il un nouveau vaccin contre la grippe chaque année ?"
+    options:
+      - "Parce que le vaccin s'abîme au frigo"
+      - "Parce qu'on oublie le vaccin d'une année sur l'autre"
+      - "Parce que le virus de la grippe change sans cesse"
+    answer: 3
+    explanation: >
+      Le virus de la grippe change un peu chaque année. Le vaccin est donc mis à jour.
+  - question: "Les antibiotiques soignent-ils le rhume ?"
+    options:
+      - "Oui, en deux jours"
+      - "Non, ils n'agissent pas sur les virus"
+      - "Oui, mais seulement chez les enfants"
+    answer: 2
+    explanation: >
+      Le rhume est dû à des virus. Les antibiotiques n'agissent que sur les bactéries.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le rhume et la grippe sont deux infections dues à des virus différents. Le rhume bouche et fait couler le nez, souvent sans fièvre. La grippe arrive d'un coup, avec une forte fièvre, des courbatures et une grande fatigue.
+
+## Deux familles de virus
+
+Le rhume et la grippe touchent le nez, la gorge et les voies respiratoires. Mais ils ne sont pas dus aux mêmes virus.
+
+Le rhume peut venir de nombreux virus. Le plus fréquent est le rhinovirus, responsable d'environ 40 % des rhumes. Il en existe plus de 100 types différents. D'autres rhumes viennent par exemple de certains coronavirus.
+
+La grippe est due aux virus influenza. On les classe en quatre types, A, B, C et D. Ces virus changent un peu chaque année.
+
+Les deux maladies se transmettent de la même façon : par les gouttelettes projetées quand on tousse ou éternue, surtout dans les pièces mal aérées.
+
+## Le rhume, gênant mais léger
+
+Le rhume commence par des éternuements, un nez bouché puis qui coule, un mal de gorge et parfois une toux sèche. Chez l'adulte, il n'y a en général pas de fièvre. Chez l'enfant, la fièvre reste le plus souvent sous 38,5 à 39 °C.
+
+Le rhume guérit en général en une semaine environ. Un adulte en attrape 2 à 3 par an. Un jeune enfant qui va à la crèche peut en avoir jusqu'à 12.
+
+Aucun médicament ne tue le virus du rhume. Les antibiotiques n'agissent que sur les bactéries, pas sur les virus. On soulage seulement les symptômes, par exemple en lavant le nez.
+
+## La grippe, brutale et épuisante
+
+La grippe arrive d'un coup, 1 à 2 jours après la contamination. La fièvre monte souvent au-dessus de 38,5 °C. S'y ajoutent des maux de tête, des douleurs dans les muscles, une grande fatigue, une toux sèche et un mal de gorge. Les signes durent en général 2 à 4 jours, mais la faiblesse peut durer plus longtemps.
+
+La grippe est plus dangereuse que le rhume. En France, elle touche entre 2 et 7 millions de personnes chaque hiver et cause environ 10 000 morts. L'épidémie a lieu entre octobre et la mi-avril. Dans le monde, l'Organisation mondiale de la santé estime qu'elle cause entre 290 000 et 650 000 décès par an. Les plus fragiles sont les jeunes enfants, les personnes âgées et les malades chroniques.
+
+## Un vaccin pour la grippe
+
+Il existe un vaccin contre la grippe, mais pas contre le rhume. Comme le virus de la grippe change sans cesse, le vaccin est mis à jour et refait chaque année. Il est surtout conseillé aux personnes fragiles.
+
+## À retenir
+
+- Le rhume et la grippe sont dus à des virus différents : le rhinovirus le plus souvent pour le rhume, les virus influenza pour la grippe.
+- Le rhume fait couler le nez, souvent sans fièvre chez l'adulte, et guérit en une semaine environ.
+- La grippe commence brutalement, avec une forte fièvre, des courbatures et une grande fatigue.
+- Les antibiotiques ne soignent ni le rhume ni la grippe, car ce sont des virus.
+- Le vaccin contre la grippe est refait chaque année, car le virus change sans cesse.
 
 ---
 type: article
@@ -7030,18 +7345,102 @@ status: planned
 
 ---
 type: article
-title: La dialyse, remplacer artificiellement les reins
-slug: la-dialyse-remplacer-artificiellement-les-reins
+title: Comment une machine peut-elle faire le travail des reins ?
+slug: comment-une-machine-peut-elle-faire-le-travail-des-reins
 categoryPath: corps-humain-et-sante/maladies/maladies-chroniques
 summary: >
-  Un traitement lourd mais vital pour les personnes en insuffisance renale severe.
-tags: [maladies-chroniques, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les reins nettoient le sang en retirant les déchets et l'eau en trop. Quand ils ne
+  fonctionnent plus, une machine de dialyse fait passer le sang dans un filtre spécial. Le
+  sang ressort propre et retourne dans le corps.
+tags: [maladies-chroniques]
+sources:
+  - title: "Hémodialyse"
+    url: "https://fr.wikipedia.org/wiki/H%C3%A9modialyse"
+    publisher: "Wikipédia"
+  - title: "Rein"
+    url: "https://fr.wikipedia.org/wiki/Rein"
+    publisher: "Wikipédia"
+  - title: "Hemodialysis"
+    url: "https://en.wikipedia.org/wiki/Hemodialysis"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de litres de sang les reins filtrent-ils environ chaque jour ?"
+    options:
+      - "Environ 17 litres"
+      - "Environ 1 700 litres"
+      - "Environ 170 000 litres"
+    answer: 2
+    explanation: >
+      Les reins filtrent environ 1 700 litres de sang par jour. Tout le sang du corps y
+      passe en quelques minutes.
+  - question: "Quel déchet le rein et la dialyse retirent-ils du sang ?"
+    options:
+      - "L'urée"
+      - "L'oxygène"
+      - "Les globules rouges"
+    answer: 1
+    explanation: >
+      L'urée est un déchet produit quand le corps utilise les protéines. Le rein, ou la
+      dialyse, l'élimine.
+  - question: "À quel rythme se fait le plus souvent une hémodialyse ?"
+    options:
+      - "Une heure par mois"
+      - "Toute la journée, chaque jour"
+      - "Trois séances d'environ quatre heures par semaine"
+    answer: 3
+    explanation: >
+      Les séances ont lieu en général trois fois par semaine, par exemple lundi, mercredi
+      et vendredi, pendant environ quatre heures.
+  - question: "Qui a construit le premier rein artificiel utilisable chez l'humain ?"
+    options:
+      - "Willem Kolff"
+      - "Louis Pasteur"
+      - "Marie Curie"
+    answer: 1
+    explanation: >
+      Le médecin néerlandais Willem Kolff a construit son premier appareil en 1943. Il a
+      sauvé une première patiente en 1945.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les reins nettoient le sang en retirant les déchets et l'eau en trop. Quand ils ne fonctionnent plus, une machine de dialyse fait passer le sang dans un filtre spécial. Le sang ressort propre et retourne dans le corps.
+
+## Ce que font les reins
+
+Nous avons deux reins, de chaque côté de la colonne vertébrale. Chacun mesure environ 12 centimètres et pèse environ 150 grammes. Ce sont des filtres très puissants. Chaque jour, ils filtrent environ 1 700 litres de sang. Tout le sang du corps, près de 6 litres, y passe en environ quatre minutes.
+
+Chaque rein contient environ un million de minuscules unités de filtrage, les néphrons. Ils retirent du sang des déchets comme l'urée, qui vient de l'utilisation des protéines. Ils règlent aussi la quantité d'eau et de sels dans le corps. Ils produisent d'abord environ 180 litres de liquide par jour, mais en récupèrent plus de 99 %. Il reste 1 à 2 litres d'urine.
+
+Quand les reins s'arrêtent, les déchets, le potassium et l'eau s'accumulent dans le corps. Sans traitement, c'est mortel.
+
+## Un filtre en dehors du corps
+
+L'hémodialyse remplace le travail des reins. Le sang sort du corps par un tuyau, à un débit de 200 à 400 millilitres par minute. Il passe dans un filtre appelé dialyseur. Ce filtre contient une membrane semi-perméable : une paroi percée de trous si petits que seules les petites molécules la traversent.
+
+De l'autre côté de la membrane coule un liquide propre, le dialysat. Les déchets passent du sang, où ils sont nombreux, vers le dialysat, où il n'y en a pas. C'est la diffusion. Le dialysat coule dans le sens inverse du sang, pour que cet échange reste le plus fort possible. La machine retire ainsi l'urée, le potassium en trop et l'eau accumulée. Elle peut aussi apporter des substances utiles, comme du calcium. Le sang nettoyé retourne ensuite dans le corps.
+
+Pour une séance de quatre heures, la machine prépare environ 120 litres de dialysat.
+
+## Trois fois par semaine
+
+Une machine ne travaille pas en continu comme un rein. Les séances ont donc lieu en général trois fois par semaine, par exemple le lundi, le mercredi et le vendredi, pendant environ quatre heures. Pour brancher facilement la machine, un chirurgien relie une artère et une veine du bras : c'est la fistule. Le traitement dure toute la vie, ou jusqu'à une greffe de rein.
+
+Il existe une autre méthode, la dialyse péritonéale. Elle utilise une membrane naturelle du ventre, le péritoine, comme filtre.
+
+## Une invention de la Seconde Guerre mondiale
+
+Le médecin néerlandais Willem Kolff a construit le premier dialyseur utilisable en 1943. En 1945, il a soigné une femme de 67 ans tombée dans le coma parce que ses reins ne marchaient plus. Après 11 heures de dialyse, elle s'est réveillée.
+
+## À retenir
+
+- Les reins filtrent environ 1 700 litres de sang par jour pour retirer les déchets et l'eau en trop.
+- La dialyse fait passer le sang dans un filtre muni d'une membrane qui ne laisse passer que les petites molécules.
+- Les déchets passent du sang vers un liquide propre, le dialysat, par diffusion.
+- L'hémodialyse se fait en général trois fois par semaine, pendant environ quatre heures.
+- Willem Kolff a construit le premier dialyseur en 1943 et sauvé une première patiente en 1945.
 
 ---
 type: article
@@ -7345,18 +7744,103 @@ status: planned
 
 ---
 type: article
-title: Le tetanos et la prevention par vaccination
-slug: le-tetanos-et-la-prevention-par-vaccination
+title: Comment une simple écharde peut-elle donner le tétanos ?
+slug: comment-une-simple-echarde-peut-elle-donner-le-tetanos
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
-  Une infection grave, causee par une bacterie tres repandue dans l'environnement.
-tags: [maladies-infectieuses, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le tétanos est dû à une bactérie dont les spores vivent dans la terre et la poussière. Elles
+  peuvent entrer par une toute petite blessure. La bactérie fabrique alors un poison qui
+  empêche les muscles de se relâcher. Seul le vaccin, avec ses rappels, protège.
+tags: [maladies-infectieuses]
+sources:
+  - title: "Tétanos"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9tanos"
+    publisher: "Wikipédia"
+  - title: "Tetanus"
+    url: "https://en.wikipedia.org/wiki/Tetanus"
+    publisher: "Wikipedia"
+  - title: "Gaston Ramon"
+    url: "https://fr.wikipedia.org/wiki/Gaston_Ramon"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Où vivent les spores de la bactérie du tétanos ?"
+    options:
+      - "Dans la terre, la poussière et le fumier"
+      - "Seulement dans les hôpitaux"
+      - "Dans l'eau du robinet"
+    answer: 1
+    explanation: >
+      Les spores de Clostridium tetani sont présentes un peu partout dans la terre, la
+      poussière et les excréments d'animaux.
+  - question: "Que fait le poison de la bactérie du tétanos ?"
+    options:
+      - "Il fait tomber les cheveux"
+      - "Il empêche les muscles de se relâcher"
+      - "Il colore la peau en bleu"
+    answer: 2
+    explanation: >
+      La toxine bloque les messages nerveux qui disent aux muscles de se relâcher. Les
+      muscles se contractent sans pouvoir s'arrêter.
+  - question: "Peut-on attraper le tétanos d'une autre personne ?"
+    options:
+      - "Oui, en lui serrant la main"
+      - "Oui, en partageant un verre"
+      - "Non, il ne se transmet pas entre personnes"
+    answer: 3
+    explanation: >
+      Le tétanos n'est pas contagieux. On l'attrape par une blessure souillée.
+  - question: "Avoir eu le tétanos protège-t-il ensuite ?"
+    options:
+      - "Oui, pour toute la vie"
+      - "Non, seule la vaccination protège"
+      - "Oui, pendant 50 ans"
+    answer: 2
+    explanation: >
+      La maladie ne laisse pas d'immunité. Il faut se faire vacciner, même après avoir eu
+      le tétanos.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le tétanos est dû à une bactérie dont les spores vivent dans la terre et la poussière. Elles peuvent entrer par une toute petite blessure. La bactérie fabrique alors un poison qui empêche les muscles de se relâcher. Seul le vaccin, avec ses rappels, protège.
+
+## Une bactérie qui attend dans la terre
+
+Le tétanos est dû à une bactérie, Clostridium tetani. Elle forme des spores : des formes de survie très résistantes. Ces spores se trouvent un peu partout dans la terre, la poussière et le fumier. Elles résistent à la chaleur, à la sécheresse et à de nombreux désinfectants. Elles peuvent survivre des années dans le sol.
+
+## L'entrée par une petite blessure
+
+Les spores entrent dans le corps par une plaie. Il n'est pas besoin d'une grande blessure : une écharde, une piqûre, une égratignure, une brûlure ou une morsure suffisent. La bactérie aime les endroits pauvres en oxygène. Une plaie profonde et étroite, comme une piqûre, lui convient donc très bien.
+
+Dans la plaie, les spores se réveillent et la bactérie se multiplie. Elle ne voyage pas dans tout le corps. C'est son poison qui le fait.
+
+## Un poison pour les nerfs
+
+La bactérie fabrique une toxine appelée tétanospasmine. C'est l'un des poisons les plus puissants connus : moins de 2,5 milliardièmes de gramme par kilo de poids peuvent tuer.
+
+Pour bouger, nos muscles reçoivent deux sortes de messages nerveux : « contracte-toi » et « relâche-toi ». La toxine bloque les messages qui disent aux muscles de se relâcher. Les muscles se contractent alors sans pouvoir s'arrêter.
+
+Les signes apparaissent entre 3 et 21 jours après la blessure, en moyenne vers 10 jours. Ce sont d'abord les muscles de la mâchoire qui se bloquent : la bouche ne s'ouvre plus. Puis des contractures douloureuses gagnent tout le corps. Même avec les soins modernes de réanimation, 20 à 30 % des malades meurent.
+
+Le tétanos n'est pas contagieux. Et le fait d'avoir eu la maladie ne protège pas contre une nouvelle infection.
+
+## Le vaccin, seule vraie protection
+
+En 1923, le Français Gaston Ramon a découvert qu'une toxine traitée par un peu de formol et de chaleur devient inoffensive tout en gardant le pouvoir de faire réagir les défenses du corps. On appelle cela une anatoxine. Il a d'abord appliqué cette méthode à la diphtérie, puis au tétanos, notamment avec Pierre Descombey.
+
+Le vaccin contre le tétanos est l'un des plus efficaces. Mais la protection diminue avec le temps. En France, après les vaccins de l'enfance, les adultes font un rappel à 25, 45 et 65 ans, puis tous les 10 ans.
+
+Grâce à la vaccination, le tétanos a beaucoup reculé. En 2015, il a encore causé environ 59 000 morts dans le monde, contre 356 000 en 1990.
+
+## À retenir
+
+- Le tétanos est dû à une bactérie dont les spores vivent dans la terre, la poussière et le fumier.
+- Les spores entrent par une blessure, même petite comme une écharde ou une piqûre.
+- La toxine de la bactérie empêche les muscles de se relâcher ; la mâchoire se bloque en premier.
+- Le tétanos n'est pas contagieux et la maladie ne protège pas contre une nouvelle infection.
+- Le vaccin protège, mais il faut des rappels : en France à 25, 45 et 65 ans, puis tous les 10 ans.
 
 ---
 type: article
@@ -7420,18 +7904,96 @@ status: planned
 
 ---
 type: article
-title: La varicelle et le virus qui reste dans le corps
-slug: la-varicelle-et-le-virus-qui-reste-dans-le-corps
+title: Pourquoi le virus de la varicelle reste-t-il caché dans le corps après la guérison ?
+slug: pourquoi-le-virus-de-la-varicelle-reste-t-il-cache-dans-le-corps-apres-la-guerison
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
-  Une maladie infantile courante liee a un virus qui ne disparait jamais totalement.
-tags: [maladies-infectieuses, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Après une varicelle, le virus ne disparaît pas. Il s'endort dans des groupes de cellules
+  nerveuses, près de la moelle épinière. Des années plus tard, si les défenses du corps
+  faiblissent, il peut se réveiller et provoquer un zona.
+tags: [maladies-infectieuses]
+sources:
+  - title: "Varicelle"
+    url: "https://fr.wikipedia.org/wiki/Varicelle"
+    publisher: "Wikipédia"
+  - title: "Zona"
+    url: "https://fr.wikipedia.org/wiki/Zona"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien de temps se passe-t-il en moyenne entre la contamination et les premiers boutons ?"
+    options:
+      - "Environ 14 jours"
+      - "Environ 2 heures"
+      - "Environ 1 an"
+    answer: 1
+    explanation: >
+      L'incubation dure en moyenne 14 jours environ, entre 10 et 21 jours.
+  - question: "Où le virus se cache-t-il après la varicelle ?"
+    options:
+      - "Dans les cheveux"
+      - "Dans des ganglions nerveux, près de la moelle épinière"
+      - "Dans l'estomac"
+    answer: 2
+    explanation: >
+      Le virus reste endormi dans des ganglions nerveux, des groupes de cellules nerveuses
+      près de la moelle épinière et des nerfs du crâne.
+  - question: "Quelle maladie le virus provoque-t-il quand il se réveille ?"
+    options:
+      - "La grippe"
+      - "La rougeole"
+      - "Le zona"
+    answer: 3
+    explanation: >
+      En se réveillant, le virus de la varicelle provoque le zona, une éruption
+      douloureuse le long d'un nerf.
+  - question: "Quel médicament ne faut-il pas donner contre la fièvre de la varicelle ?"
+    options:
+      - "Le paracétamol"
+      - "L'aspirine"
+      - "De l'eau"
+    answer: 2
+    explanation: >
+      L'aspirine est déconseillée pendant la varicelle à cause d'un risque de maladie
+      grave, le syndrome de Reye.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Après une varicelle, le virus ne disparaît pas. Il s'endort dans des groupes de cellules nerveuses, près de la moelle épinière. Des années plus tard, si les défenses du corps faiblissent, il peut se réveiller et provoquer un zona.
+
+## Une maladie très contagieuse
+
+La varicelle est due au virus varicelle-zona, de la famille des herpès. Il passe d'une personne à l'autre par l'air, dans les gouttelettes de salive. Il est très contagieux : une personne malade peut en contaminer 10 à 12 autres.
+
+Les premiers signes arrivent en moyenne 14 jours après la contamination. De petites taches rouges apparaissent. Elles deviennent vite des cloques remplies de liquide, comme des gouttes de rosée. En trois jours environ, elles sèchent et forment des croûtes. Elles grattent beaucoup. Une petite fièvre, autour de 38 °C, et de la fatigue les accompagnent.
+
+Contre la fièvre, on utilise le paracétamol. L'aspirine est interdite, car elle peut provoquer une maladie grave, le syndrome de Reye.
+
+## Le virus s'endort
+
+Après la guérison, on est en général protégé à vie contre une nouvelle varicelle. Pourtant, le virus n'a pas quitté le corps. Il s'est réfugié dans des ganglions nerveux : de petits amas de cellules nerveuses situés près de la moelle épinière et des nerfs du crâne. Ce sont des ganglions sensitifs, ceux qui transmettent les sensations de la peau.
+
+Là, le virus reste en sommeil. Il ne se multiplie plus et ne rend pas malade. Les défenses du corps le tiennent en respect, mais ne parviennent pas à l'éliminer.
+
+## Le réveil du zona
+
+Parfois, des années plus tard, les défenses faiblissent. Cela arrive avec l'âge, le stress, certains traitements contre le cancer ou des maladies qui affaiblissent l'immunité. Le virus se réveille alors. Il descend le long du nerf où il dormait jusqu'à la peau.
+
+C'est le zona. Des cloques apparaissent en bande, d'un seul côté du corps, en suivant le trajet d'un nerf. Le zona est souvent douloureux, et la douleur dure parfois longtemps. Environ une personne sur quatre aura un zona au cours de sa vie. Après 85 ans, le risque dépasse une chance sur deux.
+
+## Se protéger
+
+Il existe un vaccin contre la varicelle. Il existe aussi un vaccin contre le zona, autorisé en Europe depuis 2018. Dans les essais, il a été efficace à plus de 97 %. En France, il est remboursé pour les personnes de 65 ans et plus et pour celles dont les défenses sont affaiblies.
+
+## À retenir
+
+- La varicelle est due au virus varicelle-zona, très contagieux, qui se transmet par l'air.
+- Après la guérison, le virus reste endormi dans des ganglions nerveux, près de la moelle épinière.
+- Si les défenses faiblissent, le virus peut se réveiller et provoquer un zona, une éruption douloureuse le long d'un nerf.
+- Environ une personne sur quatre aura un zona au cours de sa vie.
+- Il ne faut pas donner d'aspirine pendant une varicelle ; des vaccins existent contre la varicelle et contre le zona.
 
 ---
 type: article
@@ -8426,18 +8988,94 @@ status: planned
 
 ---
 type: article
-title: Les anticorps, comment ils reconnaissent une menace
-slug: les-anticorps-comment-ils-reconnaissent-une-menace
+title: Comment un anticorps reconnaît-il un microbe ?
+slug: comment-un-anticorps-reconnait-il-un-microbe
 categoryPath: corps-humain-et-sante/physiologie/immunite
 summary: >
-  Des molecules capables de cibler avec une precision remarquable un agent specifique.
-tags: [immunite, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un anticorps est une protéine en forme de Y fabriquée par certains globules blancs. Le bout
+  de ses bras épouse la forme d'un petit morceau de microbe, comme une clé dans une serrure.
+  Une fois accroché, il bloque le microbe ou le signale aux cellules qui le détruiront.
+tags: [immunite]
+sources:
+  - title: "Anticorps"
+    url: "https://fr.wikipedia.org/wiki/Anticorps"
+    publisher: "Wikipédia"
+  - title: "Antibody"
+    url: "https://en.wikipedia.org/wiki/Antibody"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle forme a un anticorps ?"
+    options:
+      - "Une forme de Y"
+      - "Une forme de boule parfaite"
+      - "Une forme de spirale"
+    answer: 1
+    explanation: >
+      Un anticorps est formé de quatre chaînes de protéines assemblées en forme de Y.
+  - question: "Quelles cellules fabriquent les anticorps ?"
+    options:
+      - "Les globules rouges"
+      - "Les cellules de la peau"
+      - "Les lymphocytes B"
+    answer: 3
+    explanation: >
+      Les lymphocytes B, une sorte de globules blancs, fabriquent les anticorps. Leur
+      forme la plus active s'appelle le plasmocyte.
+  - question: "Comment s'appelle le petit morceau de microbe que reconnaît un anticorps ?"
+    options:
+      - "Un neurone"
+      - "Un épitope"
+      - "Un ribosome"
+    answer: 2
+    explanation: >
+      L'épitope est la petite partie de l'antigène sur laquelle le bout de l'anticorps
+      vient s'emboîter.
+  - question: "Quels anticorps de la mère traversent le placenta pour protéger le bébé ?"
+    options:
+      - "Les IgE"
+      - "Les IgA"
+      - "Les IgG"
+    answer: 3
+    explanation: >
+      Les IgG sont les seuls anticorps capables de traverser le placenta. Ils protègent le
+      bébé avant sa naissance.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un anticorps est une protéine en forme de Y fabriquée par certains globules blancs. Le bout de ses bras épouse la forme d'un petit morceau de microbe, comme une clé dans une serrure. Une fois accroché, il bloque le microbe ou le signale aux cellules qui le détruiront.
+
+## Une petite protéine en forme de Y
+
+Un anticorps est une protéine, c'est-à-dire une grosse molécule construite par le corps. Il est minuscule : environ 10 nanomètres, soit un million de fois moins qu'un centimètre. Il est formé de quatre chaînes : deux longues, dites lourdes, et deux courtes, dites légères. Ensemble, elles dessinent un Y.
+
+Les anticorps sont fabriqués par des globules blancs appelés lymphocytes B. Quand ils sont activés, certains deviennent des plasmocytes, de vraies usines qui libèrent des anticorps en très grand nombre dans le sang.
+
+## Une clé pour chaque serrure
+
+Ce qu'un anticorps reconnaît s'appelle un antigène : un morceau de virus, de bactérie ou de toxine. En fait, l'anticorps ne reconnaît qu'une toute petite partie de l'antigène, appelée épitope.
+
+Le bout de chaque bras du Y a une forme bien précise. Cette forme épouse exactement celle de l'épitope, comme une clé entre dans une serrure. Si les formes correspondent, l'anticorps s'accroche. Sinon, il passe son chemin.
+
+Pour faire face à tous les microbes possibles, le corps fabrique une diversité immense d'anticorps. Les chercheurs estiment qu'un être humain peut produire environ 10 milliards d'anticorps différents. Chacun reconnaît son propre épitope. Ce sont des mélanges de morceaux de gènes, différents dans chaque lymphocyte B, qui produisent cette variété.
+
+## Ce que fait l'anticorps une fois accroché
+
+L'anticorps ne tue pas le microbe tout seul. Il agit de plusieurs façons. Il peut neutraliser : en se collant sur un virus ou une toxine, il l'empêche d'agir. Il peut marquer : un microbe couvert d'anticorps est repéré et avalé plus facilement par des globules blancs « mangeurs », les phagocytes. Il peut aussi déclencher une cascade de protéines du sang, le complément, qui perce les microbes. Enfin, comme un anticorps a deux bras, il peut relier plusieurs microbes entre eux en petits paquets.
+
+## Cinq familles d'anticorps
+
+Il existe cinq grandes classes d'anticorps. Les IgM arrivent en premier lors d'une infection. Les IgG sont les plus nombreux dans le sang : 70 à 75 % des anticorps. Ce sont les seuls à traverser le placenta : la mère protège ainsi son bébé avant la naissance. Les IgA protègent les muqueuses, comme l'intérieur du nez ou de l'intestin, et se trouvent dans le lait maternel. Les IgE jouent un rôle dans les allergies. Les IgD servent de capteurs à la surface des lymphocytes B.
+
+## À retenir
+
+- Un anticorps est une protéine en forme de Y fabriquée par les lymphocytes B.
+- Le bout de ses bras s'emboîte sur un petit morceau de microbe, l'épitope, comme une clé dans une serrure.
+- Le corps peut produire environ 10 milliards d'anticorps différents.
+- Un anticorps accroché bloque le microbe ou le signale aux cellules qui le détruisent.
+- Il existe cinq classes d'anticorps ; les IgG de la mère traversent le placenta pour protéger le bébé.
 
 ---
 type: article
@@ -9806,18 +10444,96 @@ status: planned
 
 ---
 type: article
-title: Le depistage auditif du nouveau-ne
-slug: le-depistage-auditif-du-nouveau-ne
+title: Comment vérifie-t-on qu'un bébé entend bien dès sa naissance ?
+slug: comment-verifie-t-on-qu-un-bebe-entend-bien-des-sa-naissance
 categoryPath: corps-humain-et-sante/prevention-et-sante-publique/depistage
 summary: >
-  Un controle systematique realise des les premiers jours de vie.
-tags: [depistage, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Environ un bébé sur 1 000 naît avec une surdité. En France, depuis 2012, on propose à chaque
+  nouveau-né un test rapide et sans douleur avant la sortie de la maternité. Une petite sonde
+  envoie des sons dans l'oreille et écoute l'écho renvoyé par l'oreille interne.
+tags: [depistage]
+sources:
+  - title: "Épidémiologie et dépistage de la surdité de l'enfant"
+    url: "https://www.larevuedupraticien.fr/article/epidemiologie-et-depistage-de-la-surdite-de-lenfant"
+    publisher: "La Revue du Praticien"
+  - title: "Otoacoustic emission"
+    url: "https://en.wikipedia.org/wiki/Otoacoustic_emission"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de bébés naissent avec une surdité, environ ?"
+    options:
+      - "Un sur 10"
+      - "Un sur 1 000"
+      - "Un sur un million"
+    answer: 2
+    explanation: >
+      Environ un enfant sur 1 000 naît avec un trouble de l'audition.
+  - question: "Que capte le micro de la petite sonde placée dans l'oreille du bébé ?"
+    options:
+      - "Un faible écho produit par l'oreille interne"
+      - "Les battements du cœur"
+      - "La voix de la maman"
+    answer: 1
+    explanation: >
+      L'oreille interne en bonne santé renvoie un son très faible, une otoémission. Le
+      micro de la sonde l'enregistre.
+  - question: "Quelles cellules produisent cet écho dans l'oreille interne ?"
+    options:
+      - "Les cellules de la peau"
+      - "Les globules rouges"
+      - "Les cellules ciliées externes de la cochlée"
+    answer: 3
+    explanation: >
+      Les cellules ciliées externes de la cochlée amplifient les sons. Leur activité
+      produit l'écho mesuré par le test.
+  - question: "Que se passe-t-il si le premier test n'est pas clair ?"
+    options:
+      - "On annonce tout de suite que le bébé est sourd"
+      - "On refait un test dans les 15 jours"
+      - "On ne fait plus rien"
+    answer: 2
+    explanation: >
+      Un résultat douteux ne veut pas dire que le bébé est sourd. On refait un test dans
+      les 15 jours.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Environ un bébé sur 1 000 naît avec une surdité. En France, depuis 2012, on propose à chaque nouveau-né un test rapide et sans douleur avant la sortie de la maternité. Une petite sonde envoie des sons dans l'oreille et écoute l'écho renvoyé par l'oreille interne.
+
+## Pourquoi tester si tôt
+
+Environ un enfant sur 1 000 naît avec un trouble de l'audition. Un bébé qui entend mal ne le dit pas. Et ses parents ne s'en rendent pas toujours compte. Pourtant, entendre les voix pendant les premiers mois aide l'enfant à apprendre à communiquer.
+
+Plus la surdité est repérée tôt, plus vite on peut aider l'enfant. On peut lui proposer des appareils auditifs, un suivi avec un orthophoniste, et une communication orale, signée ou les deux.
+
+En France, un arrêté du 23 avril 2012 a rendu ce dépistage obligatoire à proposer pour chaque nouveau-né. Un protocole national a été publié le 3 novembre 2014. Le test a lieu avant la sortie de la maternité.
+
+## Une oreille qui renvoie un écho
+
+L'oreille interne contient la cochlée, un organe en forme d'escargot. À l'intérieur, des cellules ciliées captent les vibrations des sons. Certaines, les cellules ciliées externes, amplifient ces vibrations. En travaillant, elles produisent elles-mêmes un son très faible, qui ressort par le conduit de l'oreille. C'est une otoémission acoustique.
+
+Le physicien britannique David Kemp a montré l'existence de ces sons en 1978. Une oreille interne en bonne santé en produit. Si on n'en détecte pas, l'audition est peut-être atteinte.
+
+## Comment se passe le test
+
+On place une petite sonde au bord du conduit de l'oreille du bébé. Elle contient un minuscule haut-parleur et un micro. Le haut-parleur émet des sons brefs, par exemple des clics. Le micro écoute l'écho faible renvoyé par la cochlée. Le test est rapide et ne fait pas mal.
+
+Il existe une deuxième méthode. On colle de petites électrodes sur la tête du bébé. Après un son, elles mesurent l'activité électrique du nerf auditif et du cerveau. Cette méthode repère aussi des troubles situés après l'oreille interne.
+
+## Et après
+
+Le résultat est simple : le test est normal, ou il ne l'est pas. Un résultat douteux ne veut pas dire que le bébé est sourd. On refait alors un test dans les 15 jours. Si le doute persiste, des spécialistes font des examens plus complets. Quand une surdité est confirmée, le diagnostic est posé vers l'âge de 3 mois et demi.
+
+## À retenir
+
+- Environ un enfant sur 1 000 naît avec un trouble de l'audition.
+- En France, depuis 2012, un test d'audition est proposé à chaque nouveau-né avant la sortie de la maternité.
+- Une oreille interne en bonne santé renvoie un son très faible, une otoémission, produit par les cellules ciliées de la cochlée.
+- Le test utilise une petite sonde avec un haut-parleur et un micro ; il est rapide et sans douleur.
+- Un résultat douteux ne veut pas dire surdité : on refait le test dans les 15 jours.
 
 ---
 type: article
@@ -10211,18 +10927,103 @@ status: planned
 
 ---
 type: article
-title: La vaccination contre la variole et son eradication
-slug: la-vaccination-contre-la-variole-et-son-eradication
+title: Comment la variole a-t-elle disparu de la planète ?
+slug: comment-la-variole-a-t-elle-disparu-de-la-planete
 categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
 summary: >
-  Le seul exemple a ce jour d'une maladie humaine completement eliminee par vaccination.
-tags: [vaccination, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La variole était une maladie terrible qui a tué des centaines de millions de personnes au
+  20e siècle. Grâce au premier vaccin, inventé en 1796, puis à une grande campagne mondiale,
+  elle a été vaincue. En 1980, l'Organisation mondiale de la santé a déclaré qu'elle avait
+  disparu.
+tags: [vaccination]
+sources:
+  - title: "Variole"
+    url: "https://fr.wikipedia.org/wiki/Variole"
+    publisher: "Wikipédia"
+  - title: "Smallpox"
+    url: "https://en.wikipedia.org/wiki/Smallpox"
+    publisher: "Wikipedia"
+  - title: "Edward Jenner"
+    url: "https://fr.wikipedia.org/wiki/Edward_Jenner"
+    publisher: "Wikipédia"
+quiz:
+  - question: "D'où vient le mot « vaccin » ?"
+    options:
+      - "Du mot latin qui veut dire « vache »"
+      - "Du nom d'un médecin grec"
+      - "D'un mot qui veut dire « piqûre »"
+    answer: 1
+    explanation: >
+      Jenner utilisait la vaccine, une maladie des vaches. Le mot vient du latin vacca,
+      qui veut dire vache.
+  - question: "Quelle méthode a permis d'arrêter les derniers foyers de variole ?"
+    options:
+      - "Vacciner seulement les animaux"
+      - "Repérer chaque malade et vacciner les personnes autour de lui"
+      - "Fermer toutes les écoles du monde"
+    answer: 2
+    explanation: >
+      C'est la stratégie de surveillance et d'endiguement : on trouve chaque cas et on
+      vaccine son entourage, en anneau.
+  - question: "En quelle année l'OMS a-t-elle déclaré la variole éradiquée ?"
+    options:
+      - "En 1796"
+      - "En 1900"
+      - "En 1980"
+    answer: 3
+    explanation: >
+      L'Organisation mondiale de la santé a déclaré l'éradication de la variole le 8 mai
+      1980.
+  - question: "Pourquoi la variole pouvait-elle être éradiquée ?"
+    options:
+      - "Elle ne touchait que les humains et ses signes se voyaient bien"
+      - "Elle ne touchait que les enfants"
+      - "Elle guérissait toute seule en une heure"
+    answer: 1
+    explanation: >
+      Le virus ne vivait que chez l'humain, la maladie se voyait facilement et il n'y
+      avait pas de porteurs sans symptômes.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La variole était une maladie terrible qui a tué des centaines de millions de personnes au 20e siècle. Grâce au premier vaccin, inventé en 1796, puis à une grande campagne mondiale, elle a été vaincue. En 1980, l'Organisation mondiale de la santé a déclaré qu'elle avait disparu.
+
+## Une maladie redoutée
+
+La variole était causée par un virus, le virus variola. Elle provoquait de la fièvre et des boutons sur tout le corps. Dans sa forme la plus courante au 20e siècle, elle tuait environ 30 % des malades. Les survivants gardaient souvent des cicatrices sur le visage, et certains devenaient aveugles.
+
+Au 20e siècle, la variole a tué entre 250 et 500 millions de personnes selon les estimations. En 1967 encore, l'Organisation mondiale de la santé, l'OMS, comptait environ 15 millions de malades et 2 millions de morts dans l'année.
+
+## L'idée venue des vaches
+
+Avant le vaccin, on pratiquait la variolisation : on donnait volontairement une forme légère de la maladie pour protéger. C'était risqué.
+
+Le médecin anglais Edward Jenner a remarqué que les femmes qui trayaient les vaches attrapaient rarement la variole. Elles avaient souvent eu la vaccine, une maladie proche mais bien plus douce, transmise par les vaches. Le 14 mai 1796, Jenner a prélevé du liquide dans une cloque de vaccine sur la main d'une trayeuse. Il l'a introduit dans le bras d'un garçon de 8 ans, James Phipps. Le garçon a eu un peu de fièvre, puis il s'est révélé protégé contre la variole.
+
+C'était le premier vaccin contre une maladie contagieuse. Le mot « vaccin » vient d'ailleurs du latin vacca, qui veut dire vache.
+
+## La grande campagne mondiale
+
+Vacciner tout le monde sur la planète était impossible. En 1967, l'OMS a renforcé sa campagne avec une autre stratégie : la surveillance et l'endiguement. Des équipes cherchaient chaque malade. Puis elles vaccinaient toutes les personnes autour de lui, comme un anneau. Le virus ne trouvait plus personne à infecter et s'éteignait.
+
+Le dernier cas naturel a été un homme de Somalie, Ali Maow Maalin, en 1977. En 1978, un accident dans un laboratoire de Birmingham, au Royaume-Uni, a encore causé un cas. Le 8 mai 1980, l'OMS a déclaré que la variole avait disparu.
+
+## Pourquoi cela a marché
+
+La variole avait trois points faibles. Le virus ne vivait que chez l'humain : aucun animal ne pouvait le cacher. Les malades étaient faciles à repérer, grâce aux boutons. Et il n'existait pas de porteurs sains, qui transmettent le virus sans être malades.
+
+La variole est la seule maladie humaine éradiquée à ce jour. Des échantillons du virus sont encore gardés dans deux laboratoires, aux États-Unis et en Russie, sous un contrôle très strict.
+
+## À retenir
+
+- La variole était un virus qui tuait environ 30 % des malades dans sa forme courante.
+- En 1796, Edward Jenner a mis au point le premier vaccin à partir de la vaccine, une maladie des vaches.
+- À partir de 1967, l'OMS a repéré chaque malade et vacciné les personnes autour de lui.
+- Le dernier cas naturel date de 1977 et l'éradication a été déclarée le 8 mai 1980.
+- C'est la seule maladie humaine éradiquée, car le virus ne vivait que chez l'humain et se repérait facilement.
 
 ---
 type: article

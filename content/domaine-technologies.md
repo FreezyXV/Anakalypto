@@ -3129,18 +3129,95 @@ status: planned
 
 ---
 type: article
-title: La fatigue des materiaux, un risque insidieux
-slug: la-fatigue-des-materiaux-un-risque-insidieux
+title: Pourquoi une pièce de métal peut-elle casser à force d'être secouée ?
+slug: pourquoi-une-piece-de-metal-peut-elle-casser-a-force-d-etre-secouee
 categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
 summary: >
-  Comment des contraintes repetees, meme faibles, finissent par provoquer une rupture.
-tags: [choix-des-materiaux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une pièce peut casser sous une charge bien plus faible que celle qu'elle supporte
+  normalement, si cette charge revient des milliers de fois. C'est la fatigue des matériaux.
+  De minuscules fissures naissent, grandissent peu à peu, puis la pièce se rompt d'un coup.
+tags: [choix-des-materiaux]
+sources:
+  - title: "Fatigue (matériau)"
+    url: "https://fr.wikipedia.org/wiki/Fatigue_(mat%C3%A9riau)"
+    publisher: "Wikipédia"
+  - title: "Fatigue (material)"
+    url: "https://en.wikipedia.org/wiki/Fatigue_(material)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui provoque la fatigue d'un matériau ?"
+    options:
+      - "Un seul choc très violent"
+      - "Des efforts qui se répètent de très nombreuses fois"
+      - "La couleur de la peinture"
+    answer: 2
+    explanation: >
+      La fatigue vient d'efforts variables répétés, même bien plus faibles que ceux qui
+      casseraient la pièce d'un coup.
+  - question: "Une vis qui tient une tonne peut casser avec 100 kilos suspendus combien de fois ?"
+    options:
+      - "Une seule fois"
+      - "Dix fois"
+      - "Un million de fois"
+    answer: 3
+    explanation: >
+      C'est l'exemple donné : 100 kilos suspendus un million de fois de suite suffisent à
+      la rompre.
+  - question: "Quelle catastrophe de 1842 a été causée par la fatigue d'un essieu ?"
+    options:
+      - "L'accident ferroviaire de Meudon"
+      - "Le naufrage du Titanic"
+      - "L'incendie de Londres"
+    answer: 1
+    explanation: >
+      En mai 1842, l'essieu d'une locomotive s'est rompu près de Meudon, causant une grave
+      catastrophe.
+  - question: "Qu'a-t-on changé sur les avions après les accidents du Comet en 1954 ?"
+    options:
+      - "La couleur des sièges"
+      - "Les hublots carrés ont été remplacés par des hublots arrondis"
+      - "On a retiré les ailes"
+    answer: 2
+    explanation: >
+      Les coins pointus des ouvertures faisaient naître des fissures. Les hublots sont
+      devenus ovales.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une pièce peut casser sous une charge bien plus faible que celle qu'elle supporte normalement, si cette charge revient des milliers de fois. C'est la fatigue des matériaux. De minuscules fissures naissent, grandissent peu à peu, puis la pièce se rompt d'un coup.
+
+## Fragile à force de répétitions
+
+Une pièce de métal est conçue pour supporter une certaine charge. Pourtant, elle peut casser sous une charge bien plus faible, si cette charge revient encore et encore. C'est la fatigue des matériaux. Les vibrations, les rafales de vent ou les virages répétés en sont souvent la cause.
+
+Voici un exemple. Une vis de 6 millimètres de diamètre peut tenir un objet d'une tonne. Mais elle va casser si on y suspend un objet de 100 kilos un million de fois de suite.
+
+## Une fissure qui grandit en silence
+
+La rupture par fatigue se fait en trois étapes. D'abord, une fissure minuscule apparaît, souvent là où les efforts se concentrent : un coin pointu, un trou, une rayure. Ensuite, à chaque effort, la fissure avance un tout petit peu. Elle peut grandir pendant des mois sans qu'on la voie. Enfin, la partie encore intacte devient trop petite pour tenir. La pièce casse d'un coup, sans avoir prévenu.
+
+## Des catastrophes qui ont fait progresser la science
+
+Les premiers essais de fatigue connus ont été faits en 1829 par Wilhelm Albert sur des chaînes de puits de mine. En 1839, le Français Jean-Victor Poncelet emploie pour la première fois le mot « fatigue ». En mai 1842, un train revenant de Versailles déraille à Meudon : l'essieu de la locomotive s'est rompu par fatigue.
+
+À partir de 1852, l'Allemand August Wöhler étudie les essieux de trains qui cassent. Il soumet des pièces à des efforts répétés jusqu'à la rupture et compte le nombre de répétitions. Il trace ainsi une courbe qui porte son nom. Elle montre combien de répétitions une pièce peut supporter selon la force qu'elle reçoit.
+
+En 1954, deux avions de ligne Comet se brisent en plein vol à quelques mois d'intervalle. Les enquêteurs découvrent que les coins pointus près des hublots faisaient naître des fissures. Depuis, les hublots des avions sont arrondis.
+
+## Prévoir et surveiller
+
+Les ingénieurs ne peuvent pas tout calculer : la fatigue s'étudie surtout par des essais. Ils testent les pièces en les faisant travailler des millions de fois. Ils arrondissent les angles et soignent l'état de surface des pièces. Ils inspectent aussi régulièrement les avions, les trains et les ponts pour repérer les fissures avant qu'elles deviennent dangereuses.
+
+## À retenir
+
+- La fatigue fait casser une pièce sous des efforts faibles mais répétés de très nombreuses fois.
+- Une fissure minuscule naît, grandit peu à peu, puis la pièce casse d'un coup.
+- Les coins pointus et les rayures favorisent la naissance des fissures.
+- En 1842, la rupture d'un essieu par fatigue a provoqué la catastrophe ferroviaire de Meudon.
+- Après les accidents du Comet en 1954, les hublots des avions sont devenus arrondis.
 
 ---
 type: article
@@ -3174,18 +3251,92 @@ status: planned
 
 ---
 type: article
-title: Les aciers inoxydables, composition et usages
-slug: les-aciers-inoxydables-composition-et-usages
+title: Pourquoi l'acier inoxydable ne rouille-t-il pas ?
+slug: pourquoi-l-acier-inoxydable-ne-rouille-t-il-pas
 categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
 summary: >
-  Un alliage particulier concu specifiquement pour resister a la corrosion.
-tags: [choix-des-materiaux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'acier inoxydable contient plus de 10,5 % de chrome. Ce chrome forme à la surface une
+  couche invisible qui protège le métal. Si on la raye, elle se reforme toute seule au contact
+  de l'air.
+tags: [choix-des-materiaux]
+sources:
+  - title: "Acier inoxydable"
+    url: "https://fr.wikipedia.org/wiki/Acier_inoxydable"
+    publisher: "Wikipédia"
+  - title: "Stainless steel"
+    url: "https://en.wikipedia.org/wiki/Stainless_steel"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel élément faut-il ajouter à l'acier pour le rendre inoxydable ?"
+    options:
+      - "Du sel"
+      - "Du chrome"
+      - "Du sable"
+    answer: 2
+    explanation: >
+      Un acier inoxydable contient au moins 10,5 % de chrome.
+  - question: "Que se passe-t-il quand on raye un acier inoxydable ?"
+    options:
+      - "Il rouille aussitôt"
+      - "Il fond"
+      - "La couche protectrice se reforme au contact de l'air"
+    answer: 3
+    explanation: >
+      La couche d'oxyde de chrome se reconstitue toute seule grâce à l'oxygène de l'air.
+  - question: "Que signifie 18/10 sur des couverts en inox ?"
+    options:
+      - "18 % de chrome et 10 % de nickel"
+      - "18 couteaux et 10 fourchettes"
+      - "18 ans de garantie"
+    answer: 1
+    explanation: >
+      Ces chiffres donnent la part de chrome et de nickel dans l'alliage.
+  - question: "Qui a mis au point en 1913 un acier qu'il appela « sans rouille » ?"
+    options:
+      - "Gustave Eiffel"
+      - "Harry Brearley"
+      - "Alfred Nobel"
+    answer: 2
+    explanation: >
+      L'Anglais Harry Brearley, à Sheffield, a remarqué que ses échantillons polis ne
+      s'oxydaient pas.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'acier inoxydable contient plus de 10,5 % de chrome. Ce chrome forme à la surface une couche invisible qui protège le métal. Si on la raye, elle se reforme toute seule au contact de l'air.
+
+## Pourquoi le fer rouille
+
+Le fer, principal composant de l'acier, réagit avec l'oxygène et l'eau. C'est l'oxydation. Elle produit la rouille. Le problème, c'est que la rouille s'effrite ou se dissout dans l'eau. Elle laisse alors apparaître du métal neuf, qui rouille à son tour. Peu à peu, la pièce est rongée.
+
+## Le bouclier de chrome
+
+Pour éviter cela, on ajoute du chrome à l'acier. Selon la norme européenne, un acier est inoxydable s'il contient au moins 10,5 % de chrome et moins de 1,2 % de carbone. Le chrome réagit avec l'oxygène de l'air. Il forme à la surface une couche d'oxyde de chrome. Elle est si fine qu'elle est invisible. Contrairement à la rouille, cette couche est compacte et bien collée au métal. Elle forme une barrière entre l'acier et l'air ou l'eau.
+
+L'inox s'oxyde donc bien, mais son oxyde le protège au lieu de le ronger. Mieux encore, cette couche se répare toute seule. Si on la raye, le chrome mis à nu réagit avec l'oxygène et la reforme.
+
+## Chrome, nickel et compagnie
+
+On ajoute souvent d'autres éléments. Le nickel rend l'acier plus facile à déformer et améliore la couche protectrice. Sur des couverts, l'inscription 18/10 signifie 18 % de chrome et 10 % de nickel. Le molybdène et le titane aident l'acier à résister à d'autres températures.
+
+L'inox n'est pas invincible. Le sel, le chlore ou un mauvais choix d'alliage peuvent l'attaquer. Une surface bien lisse rouille moins qu'une surface rugueuse.
+
+## Une découverte en 1913
+
+En 1913, l'Anglais Harry Brearley travaille à Sheffield sur l'usure des canons d'armes à feu. Il remarque que ses échantillons polis pour être examinés ne s'oxydent pas. Il appelle son acier « rustless », « sans rouille ». Il sera rebaptisé « stainless », « sans tache ». À la même époque, d'autres chercheurs en Allemagne et aux États-Unis mettent au point des aciers semblables. En 1924, l'acier 18/8 voit le jour. C'est sans doute l'inox le plus utilisé.
+
+Aujourd'hui, on trouve l'inox partout : casseroles et couverts, instruments de chirurgie, bâtiments, bateaux, voitures et avions. Il est en plus entièrement recyclable.
+
+## À retenir
+
+- Un acier inoxydable contient au moins 10,5 % de chrome.
+- Le chrome forme une couche d'oxyde invisible qui protège le métal.
+- Cette couche se reforme toute seule si on la raye.
+- Le nickel rend l'inox plus facile à déformer : 18/10 signifie 18 % de chrome et 10 % de nickel.
+- Harry Brearley a mis au point un acier « sans rouille » en 1913 à Sheffield.
 
 ---
 type: article
@@ -3624,18 +3775,95 @@ status: planned
 
 ---
 type: article
-title: Les coefficients de securite en ingenierie
-slug: les-coefficients-de-securite-en-ingenierie
+title: Pourquoi construit-on les bâtiments et les machines plus solides que nécessaire ?
+slug: pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire
 categoryPath: technologies-et-ingenierie/conception-et-fiabilite/defaillances-et-retour-dexperience
 summary: >
-  Une marge deliberement ajoutee pour absorber les incertitudes et les erreurs de conception.
-tags: [defaillances-et-retour-dexperience, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les ingénieurs ne conçoivent pas un objet pour supporter tout juste la charge prévue. Ils
+  appliquent un coefficient de sécurité, qui le rend plusieurs fois plus résistant. Cette
+  marge protège contre les surcharges, les erreurs et les imprévus.
+tags: [defaillances-et-retour-dexperience]
+sources:
+  - title: "Coefficient de sécurité"
+    url: "https://fr.wikipedia.org/wiki/Coefficient_de_s%C3%A9curit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Factor of safety"
+    url: "https://en.wikipedia.org/wiki/Factor_of_safety"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que signifie un coefficient de sécurité de 2 ?"
+    options:
+      - "L'objet est deux fois plus résistant que nécessaire"
+      - "L'objet coûte deux fois plus cher"
+      - "L'objet dure deux ans"
+    answer: 1
+    explanation: >
+      Le coefficient indique combien de fois l'objet est plus solide que ce qu'exige la
+      charge prévue.
+  - question: "Quel coefficient utilise-t-on en France pour lever une charge avec des câbles métalliques ?"
+    options:
+      - "1"
+      - "2"
+      - "5"
+    answer: 3
+    explanation: >
+      Pour les câbles métalliques de levage, le coefficient est de 5. Il est de 7 pour les
+      sangles en tissu.
+  - question: "Pourquoi les avions ont-ils des coefficients de sécurité plutôt faibles ?"
+    options:
+      - "Parce qu'ils ne transportent personne"
+      - "Parce qu'un avion trop lourd ne pourrait pas décoller"
+      - "Parce que l'air les soutient toujours"
+    answer: 2
+    explanation: >
+      Chaque kilo compte. En échange, les pièces d'avion sont contrôlées et entretenues de
+      façon très stricte.
+  - question: "Quand choisit-on un coefficient de sécurité plus élevé ?"
+    options:
+      - "Quand l'environnement est mal connu ou le matériau fragile"
+      - "Quand l'objet est peint en rouge"
+      - "Quand on veut économiser du matériau"
+    answer: 1
+    explanation: >
+      Plus les conditions sont incertaines, ou plus le matériau casse sans prévenir, plus
+      la marge doit être grande.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les ingénieurs ne conçoivent pas un objet pour supporter tout juste la charge prévue. Ils appliquent un coefficient de sécurité, qui le rend plusieurs fois plus résistant. Cette marge protège contre les surcharges, les erreurs et les imprévus.
+
+## Prévoir l'imprévu
+
+Quand un ingénieur conçoit un pont, une grue ou un câble, il calcule d'abord la charge normale qu'il devra supporter. Mais ce n'est pas suffisant. Un utilisateur peut être imprudent. Une surcharge peut arriver par accident. Une pièce peut avoir un défaut. Un événement extérieur imprévu peut se produire. Pour tenir compte de tout cela, l'ingénieur utilise un coefficient de sécurité.
+
+## Un chiffre multiplicateur
+
+Le coefficient de sécurité indique combien de fois l'objet est plus résistant que nécessaire. On peut multiplier la charge prévue par ce coefficient avant de faire le calcul. On peut aussi diviser la résistance de l'objet par ce coefficient. Par exemple, avec un coefficient de 5, une pièce ne travaille qu'à 20 % de ce qu'elle peut supporter. Avec un coefficient de 2, elle travaille à 50 %.
+
+## Chaque domaine sa marge
+
+Les coefficients sont fixés par les règles de chaque métier, parfois inscrites dans des normes. Ils sont d'autant plus grands que les conditions sont mal connues. Les bâtiments utilisent souvent un coefficient de 2 pour chaque élément de leur structure. Les charges qu'ils portent sont bien connues, et ils ont souvent plusieurs éléments capables de prendre le relais. Les réservoirs sous pression utilisent 3,5 à 4, et les automobiles 3. Les matériaux fragiles, qui cassent sans se déformer avant, demandent des valeurs plus élevées que les métaux, qui plient avant de rompre.
+
+En France, un arrêté du 18 décembre 1992 fixe des règles pour lever des charges. Le coefficient est de 4 pour les chaînes, de 5 pour les câbles métalliques et de 7 pour les sangles en tissu.
+
+## Le cas des avions
+
+Les avions utilisent des coefficients plus faibles, souvent de 1,5. La raison est simple : chaque kilo compte. Un avion construit avec un coefficient de 5 serait sans doute trop lourd pour décoller. En échange, ses pièces sont contrôlées avec une grande rigueur et entretenues selon un calendrier strict.
+
+## Une marge qui ne répare rien
+
+Le coefficient de sécurité sert à la conception, avant la fabrication. Il ne permet pas d'accepter un objet défectueux. Si une pièce présente un défaut, on ne peut pas dire qu'elle reste sûre grâce à sa marge. Il faut la vérifier, la réparer ou la remplacer.
+
+## À retenir
+
+- Un coefficient de sécurité rend un objet plusieurs fois plus résistant que nécessaire.
+- Il protège contre les surcharges, les erreurs d'utilisation, les défauts et les imprévus.
+- Les bâtiments utilisent souvent un coefficient de 2, les automobiles 3.
+- En France, les câbles métalliques de levage ont un coefficient de 5.
+- Les avions ont des coefficients plus faibles, compensés par des contrôles très stricts.
 
 ---
 type: article
@@ -4059,18 +4287,94 @@ status: planned
 
 ---
 type: article
-title: Le beton arme, principe de renforcement
-slug: le-beton-arme-principe-de-renforcement
+title: Pourquoi met-on des barres d'acier dans le béton ?
+slug: pourquoi-met-on-des-barres-d-acier-dans-le-beton
 categoryPath: technologies-et-ingenierie/genie-civil/materiaux
 summary: >
-  Comment associer beton et acier compense les faiblesses respectives de chaque materiau.
-tags: [materiaux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le béton résiste très bien quand on l'écrase, mais il se fissure vite quand on l'étire. Des
+  barres d'acier placées à l'intérieur reprennent ces efforts d'étirement. Ce mélange, le
+  béton armé, est l'un des matériaux de construction les plus utilisés.
+tags: [materiaux]
+sources:
+  - title: "Béton armé"
+    url: "https://fr.wikipedia.org/wiki/B%C3%A9ton_arm%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Reinforced concrete"
+    url: "https://en.wikipedia.org/wiki/Reinforced_concrete"
+    publisher: "Wikipedia"
+  - title: "Joseph Monier"
+    url: "https://fr.wikipedia.org/wiki/Joseph_Monier"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel est le point faible du béton seul ?"
+    options:
+      - "Il résiste mal quand on l'écrase"
+      - "Il résiste mal quand on l'étire"
+      - "Il fond au soleil"
+    answer: 2
+    explanation: >
+      Le béton supporte très bien la compression, mais sa résistance à la traction n'est
+      que d'environ un dixième.
+  - question: "Pourquoi le béton et l'acier font-ils bon ménage ?"
+    options:
+      - "Ils se dilatent presque de la même façon avec la chaleur"
+      - "Ils ont la même couleur"
+      - "L'acier rend le béton plus léger"
+    answer: 1
+    explanation: >
+      Comme ils se dilatent et se rétractent presque autant, ils ne se décollent pas quand
+      la température change.
+  - question: "Quel métier exerçait Joseph Monier, qui a breveté des bacs en ciment armé en 1867 ?"
+    options:
+      - "Boulanger"
+      - "Forgeron"
+      - "Jardinier"
+    answer: 3
+    explanation: >
+      Joseph Monier était jardinier. Il cherchait à fabriquer des bacs à fleurs plus
+      solides et moins chers.
+  - question: "Que se passe-t-il quand les barres d'acier finissent par rouiller ?"
+    options:
+      - "Le béton devient plus solide"
+      - "La rouille gonfle et fait éclater le béton"
+      - "Rien du tout"
+    answer: 2
+    explanation: >
+      La rouille prend plus de place que l'acier. Elle pousse sur le béton qui l'entoure
+      et le fait fissurer.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le béton résiste très bien quand on l'écrase, mais il se fissure vite quand on l'étire. Des barres d'acier placées à l'intérieur reprennent ces efforts d'étirement. Ce mélange, le béton armé, est l'un des matériaux de construction les plus utilisés.
+
+## Écraser ou étirer
+
+Un matériau peut subir deux grands types d'efforts. La compression l'écrase. La traction l'étire. Le béton supporte très bien la compression. Mais sa résistance à la traction n'est que d'environ un dixième de sa résistance à la compression. Or, quand une poutre ou une dalle porte une charge, elle se courbe un peu. Une partie est alors comprimée, et une autre est étirée. Dans la partie étirée, le béton seul se fissurerait.
+
+## L'acier tient bon
+
+L'acier, lui, résiste aussi bien à la traction qu'à la compression. On place donc des barres d'acier, appelées armatures, dans les zones du béton qui sont étirées. Dans une dalle, par exemple, on les met en bas au milieu des portées et en haut au-dessus des appuis. Les premières barres étaient lisses. Aujourd'hui, elles portent des reliefs qui les accrochent mieux au béton.
+
+## Un duo qui s'entend bien
+
+Le béton et l'acier font une bonne équipe pour trois raisons. D'abord, ils se dilatent presque de la même façon quand la température change, donc ils ne se décollent pas. Ensuite, le ciment qui durcit épouse parfaitement la forme des barres, et les efforts passent de l'un à l'autre. Enfin, le béton est basique, le contraire d'acide. Dans ce milieu, l'acier rouille beaucoup moins.
+
+Cette protection ne dure pas toujours. Avec le temps, le dioxyde de carbone de l'air pénètre dans le béton et le rend moins basique. L'acier peut alors rouiller. La rouille prend plus de place que le métal : elle pousse sur le béton et le fait éclater. C'est pourquoi les barres doivent être recouvertes d'une épaisseur suffisante de béton.
+
+## Une barque et des pots de fleurs
+
+En 1848, le Français Joseph-Louis Lambot construit une barque en ciment armé. Il en expose une à l'Exposition universelle de Paris en 1855. Le jardinier Joseph Monier cherche, lui, à fabriquer des bacs à orangers plus solides et moins chers. En 1867, il dépose un brevet pour des caisses en ciment armé de fer. En France, les premières règles officielles de calcul du béton armé datent du 20 octobre 1906.
+
+## À retenir
+
+- Le béton résiste bien à l'écrasement mais environ dix fois moins à l'étirement.
+- Les barres d'acier sont placées dans les zones étirées du béton.
+- Le béton et l'acier se dilatent presque de la même façon avec la chaleur.
+- Si l'acier rouille, la rouille gonfle et fait éclater le béton.
+- Joseph Monier, un jardinier, a breveté des bacs en ciment armé en 1867.
 
 ---
 type: article
@@ -4509,18 +4813,92 @@ status: planned
 
 ---
 type: article
-title: Les barrages, comment ils resistent a la pression de l'eau
-slug: les-barrages-comment-ils-resistent-a-la-pression-de-l-eau
+title: Comment un barrage résiste-t-il à la poussée de l'eau ?
+slug: comment-un-barrage-resiste-t-il-a-la-poussee-de-l-eau
 categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
 summary: >
-  Des principes structurels precis qui permettent de contenir une masse d'eau considerable.
-tags: [ouvrages-dart, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'eau d'un lac de barrage pousse très fort sur le mur qui la retient. Un barrage-poids
+  résiste grâce à sa masse énorme. Un barrage-voûte, courbé comme un arc, renvoie la poussée
+  vers les flancs rocheux de la vallée.
+tags: [ouvrages-dart]
+sources:
+  - title: "Barrage"
+    url: "https://fr.wikipedia.org/wiki/Barrage"
+    publisher: "Wikipédia"
+  - title: "Barrage-poids"
+    url: "https://fr.wikipedia.org/wiki/Barrage-poids"
+    publisher: "Wikipédia"
+  - title: "Barrage-voûte"
+    url: "https://fr.wikipedia.org/wiki/Barrage-vo%C3%BBte"
+    publisher: "Wikipédia"
+quiz:
+  - question: "De quoi dépend surtout la poussée de l'eau sur un barrage ?"
+    options:
+      - "De la hauteur d'eau"
+      - "De la couleur de l'eau"
+      - "De la longueur du lac"
+    answer: 1
+    explanation: >
+      La poussée augmente avec le carré de la hauteur d'eau. Elle ne dépend pas du volume
+      d'eau stocké.
+  - question: "Comment un barrage-poids résiste-t-il à l'eau ?"
+    options:
+      - "Grâce à des câbles"
+      - "Grâce à son propre poids"
+      - "Grâce à des pompes"
+    answer: 2
+    explanation: >
+      Sa masse énorme suffit à s'opposer à la poussée de l'eau.
+  - question: "Où un barrage-voûte renvoie-t-il la poussée de l'eau ?"
+    options:
+      - "Vers le lac"
+      - "Vers le ciel"
+      - "Vers les flancs rocheux de la vallée"
+    answer: 3
+    explanation: >
+      Comme une voûte, il reporte les efforts sur ses appuis, les rives rocheuses de la
+      vallée.
+  - question: "Quel est le plus haut barrage-poids du monde ?"
+    options:
+      - "Le barrage de Malpasset"
+      - "Le barrage de la Grande-Dixence"
+      - "Le barrage Zola"
+    answer: 2
+    explanation: >
+      Le barrage de la Grande-Dixence, en Suisse, mesure 285 mètres de haut.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'eau d'un lac de barrage pousse très fort sur le mur qui la retient. Un barrage-poids résiste grâce à sa masse énorme. Un barrage-voûte, courbé comme un arc, renvoie la poussée vers les flancs rocheux de la vallée.
+
+## Une poussée qui grandit avec la profondeur
+
+L'eau retenue par un barrage pousse sur le mur. Plus on descend, plus cette poussée est forte. La force totale augmente avec le carré de la hauteur d'eau. Si la hauteur double, la poussée est multipliée par quatre. Elle ne dépend pas de la taille du lac : un lac long ou court pousse pareil, à hauteur égale. L'eau qui s'infiltre sous le barrage pousse aussi vers le haut, et il faut la drainer.
+
+## Le barrage-poids, une masse immobile
+
+Le barrage-poids résiste grâce à son propre poids. Il est très épais. Vu en coupe, il ressemble souvent à un triangle : large en bas, là où l'eau pousse le plus, et étroit en haut. Chaque morceau du barrage tient seul, sans s'appuyer sur ses voisins. Il lui faut un sol rocheux solide pour porter ce poids. En 2008, on comptait environ 3 200 barrages-poids dans le monde. Le plus haut est celui de la Grande-Dixence, en Suisse, avec 285 mètres.
+
+## Le barrage-voûte, un arc couché
+
+Le barrage-voûte est courbé, sa bosse tournée vers le lac. Il fonctionne comme une voûte de pierre. L'eau pousse sur l'arc, et l'arc renvoie cette poussée vers ses appuis, les flancs rocheux de la vallée. Il est donc beaucoup plus mince qu'un barrage-poids et demande moins de matériaux. Mais il ne convient qu'aux vallées étroites, aux parois très solides. Le premier connu, à Glanum en Provence, a été construit par les Romains au Ier siècle avant notre ère. En France, le barrage Zola a été inauguré en 1854.
+
+Il existe aussi des barrages en remblai, faits de terre ou de roches entassées. Ils résistent eux aussi par leur masse.
+
+## Surveiller sans relâche
+
+Un barrage bouge très peu, trop peu pour que l'œil le voie. Des instruments mesurent pourtant ses déformations et l'eau qui s'infiltre dans le sol. Le moment le plus risqué est le premier remplissage. Le 2 décembre 1959, au-dessus de Fréjus, le barrage-voûte de Malpasset s'est rompu pendant sa mise en eau. C'est l'un de ses appuis rocheux qui a cédé. La vague a fait des centaines de victimes. C'est le seul cas connu de rupture d'un barrage-voûte.
+
+## À retenir
+
+- La poussée de l'eau augmente avec le carré de la hauteur d'eau, pas avec la taille du lac.
+- Un barrage-poids résiste grâce à sa masse, avec une forme large en bas.
+- Un barrage-voûte, courbé comme un arc, renvoie la poussée vers les flancs de la vallée.
+- Le plus haut barrage-poids du monde, la Grande-Dixence en Suisse, mesure 285 mètres.
+- En 1959, la rupture du barrage de Malpasset a fait des centaines de victimes.
 
 ---
 type: article
@@ -5113,18 +5491,95 @@ status: planned
 
 ---
 type: article
-title: Construire pour resister aux seismes, principes de base
-slug: construire-pour-resister-aux-seismes-principes-de-base
+title: Comment construire des bâtiments qui résistent aux tremblements de terre ?
+slug: comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Des techniques qui permettent a un batiment de flechir plutot que de se briser.
-tags: [structures, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Aucun bâtiment n'est totalement à l'abri d'un séisme, mais on peut l'empêcher de
+  s'effondrer. Les ingénieurs le rendent assez solide et capable de se déformer sans rompre.
+  Pour les bâtiments importants, ils le posent sur des appuis souples ou ajoutent des
+  amortisseurs.
+tags: [structures]
+sources:
+  - title: "Construction parasismique"
+    url: "https://fr.wikipedia.org/wiki/Construction_parasismique"
+    publisher: "Wikipédia"
+  - title: "Seismic base isolation"
+    url: "https://en.wikipedia.org/wiki/Seismic_base_isolation"
+    publisher: "Wikipedia"
+  - title: "Taipei 101"
+    url: "https://en.wikipedia.org/wiki/Taipei_101"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel est le but principal d'une construction parasismique lors d'un très fort séisme ?"
+    options:
+      - "Éviter que le bâtiment s'effondre"
+      - "Empêcher le sol de trembler"
+      - "Ne subir aucune fissure"
+    answer: 1
+    explanation: >
+      Aucun bâtiment n'est indestructible. L'objectif est d'éviter l'effondrement pour
+      sauver des vies.
+  - question: "Comment fonctionne l'isolation à la base ?"
+    options:
+      - "On enterre le bâtiment"
+      - "On pose le bâtiment sur des appuis souples qui le séparent du sol qui tremble"
+      - "On remplit le bâtiment d'eau"
+    answer: 2
+    explanation: >
+      Des appuis en caoutchouc et acier, ou glissants, laissent le sol bouger sous le
+      bâtiment.
+  - question: "Que trouve-t-on entre le 88e et le 92e étage de la tour Taipei 101 ?"
+    options:
+      - "Une piscine"
+      - "Un jardin"
+      - "Une énorme boule d'acier de 660 tonnes"
+    answer: 3
+    explanation: >
+      Ce pendule en acier sert d'amortisseur et réduit les balancements de la tour.
+  - question: "Quel type de sol peut amplifier les secousses ?"
+    options:
+      - "Une roche très dure"
+      - "Des sédiments lâches"
+      - "Un sol gelé"
+    answer: 2
+    explanation: >
+      Les sédiments lâches peuvent amplifier localement les ondes sismiques.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Aucun bâtiment n'est totalement à l'abri d'un séisme, mais on peut l'empêcher de s'effondrer. Les ingénieurs le rendent assez solide et capable de se déformer sans rompre. Pour les bâtiments importants, ils le posent sur des appuis souples ou ajoutent des amortisseurs.
+
+## Pas indestructible, mais debout
+
+Aucun bâtiment ne peut résister à tous les séismes sans aucun dégât. La construction parasismique vise un objectif plus réaliste. Lors d'un séisme fréquent et modéré, le bâtiment doit rester utilisable. Lors d'un séisme rare et très fort, il peut être abîmé, mais il ne doit pas s'effondrer. C'est ainsi qu'on sauve des vies. Les règles de construction tiennent compte du plus fort séisme probable à cet endroit.
+
+## Des leçons venues du passé
+
+Pendant longtemps, les bâtisseurs ont simplement construit très solide et très rigide. Les murs de pierre des cités incas, comme le Machu Picchu, ont remarquablement résisté aux secousses. Après le grand séisme de 1755, Lisbonne a été reconstruite avec certains des premiers bâtiments antiséismiques d'Europe. Après le séisme de 1783 en Calabre, le royaume de Naples a créé la première réglementation parasismique européenne.
+
+## Solide et souple à la fois
+
+Aujourd'hui, la plupart des bâtiments parasismiques sont conçus pour être assez résistants et assez ductiles. Un matériau ductile peut se déformer beaucoup sans casser d'un coup. Le bâtiment absorbe ainsi l'énergie des secousses en acceptant quelques dégâts. Le terrain compte aussi. Des sédiments lâches peuvent amplifier les ondes sismiques. En Europe, ces règles sont réunies dans un texte appelé Eurocode 8.
+
+## Isoler le bâtiment du sol
+
+Pour les bâtiments très importants, on va plus loin. L'isolation à la base consiste à poser le bâtiment sur des appuis souples. Ils le séparent en partie du sol qui tremble. Un type d'appui très utilisé est fait de couches de caoutchouc et d'acier, avec un cœur en plomb. Le Néo-Zélandais Bill Robinson l'a inventé en 1974. Des amortisseurs à huile absorbent les mouvements. Les appuis en caoutchouc ramènent ensuite le bâtiment à sa place. L'hôtel de ville de San Francisco a été posé sur ce type de système.
+
+## Une boule géante contre les balancements
+
+Une autre technique utilise un amortisseur à masse accordée. C'est une très lourde masse qui oscille en sens inverse des mouvements du bâtiment. La tour Taipei 101, à Taïwan, se trouve à 200 mètres d'une grande faille. Entre son 88e et son 92e étage pend une boule d'acier de 660 tonnes. Elle réduit les balancements de la tour, surtout ceux causés par le vent.
+
+## À retenir
+
+- Un bâtiment parasismique doit surtout éviter de s'effondrer lors d'un très fort séisme.
+- Les bâtiments sont conçus pour être résistants et capables de se déformer sans rompre.
+- L'isolation à la base pose le bâtiment sur des appuis souples, en caoutchouc et acier.
+- Des sédiments lâches peuvent amplifier les secousses.
+- La tour Taipei 101 abrite une boule d'acier de 660 tonnes qui réduit ses balancements.
 
 ---
 type: article
@@ -7333,18 +7788,92 @@ status: planned
 
 ---
 type: article
-title: Les drones, principes de vol et stabilisation
-slug: les-drones-principes-de-vol-et-stabilisation
+title: Comment un drone à quatre hélices tient-il immobile dans les airs ?
+slug: comment-un-drone-a-quatre-helices-tient-il-immobile-dans-les-airs
 categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
 summary: >
-  Comment plusieurs helices coordonnees maintiennent un appareil stable en vol.
+  Un drone à quatre hélices en fait tourner deux dans un sens et deux dans l'autre, pour ne
+  pas tourner sur lui-même. Pour monter, avancer ou pivoter, il change la vitesse de chaque
+  hélice. De petits capteurs et un calculateur le corrigent sans arrêt.
 tags: [robots-mobiles]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Quadcopter"
+    url: "https://en.wikipedia.org/wiki/Quadcopter"
+    publisher: "Wikipedia"
+  - title: "Quadricoptère"
+    url: "https://fr.wikipedia.org/wiki/Quadricopt%C3%A8re"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi deux hélices tournent-elles dans un sens et deux dans l'autre ?"
+    options:
+      - "Pour faire moins de bruit"
+      - "Pour que le drone ne tourne pas sur lui-même"
+      - "Pour aller plus vite"
+    answer: 2
+    explanation: >
+      Chaque hélice pousse le drone à tourner dans le sens inverse. Avec deux hélices dans
+      chaque sens, ces effets s'annulent.
+  - question: "Que fait le drone pour monter tout droit ?"
+    options:
+      - "Il accélère ses quatre hélices de la même façon"
+      - "Il arrête deux hélices"
+      - "Il penche vers l'avant"
+    answer: 1
+    explanation: >
+      Pour monter, le drone augmente la poussée de ses quatre hélices en même temps.
+  - question: "Comment le drone fait-il pour pivoter sur place ?"
+    options:
+      - "Il plie ses bras"
+      - "Il utilise une hélice de queue"
+      - "Il fait tourner plus vite une paire d'hélices que l'autre"
+    answer: 3
+    explanation: >
+      En accélérant les hélices qui tournent dans un sens et en ralentissant les autres,
+      le drone pivote sur lui-même.
+  - question: "Quels capteurs aident le drone à rester stable ?"
+    options:
+      - "Des gyroscopes et des accéléromètres"
+      - "Un thermomètre"
+      - "Un micro"
+    answer: 1
+    explanation: >
+      Des gyroscopes et des accéléromètres mesurent les mouvements du drone, et le
+      calculateur de vol corrige aussitôt.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un drone à quatre hélices en fait tourner deux dans un sens et deux dans l'autre, pour ne pas tourner sur lui-même. Pour monter, avancer ou pivoter, il change la vitesse de chaque hélice. De petits capteurs et un calculateur le corrigent sans arrêt.
+
+## Quatre hélices, deux sens
+
+Quand une hélice tourne, elle pousse l'air vers le bas et le drone vers le haut. Mais elle a aussi un effet gênant : elle pousse le drone à tourner sur lui-même dans le sens inverse. Un hélicoptère corrige cela avec une petite hélice sur sa queue. Le drone à quatre hélices, appelé quadricoptère, fait autrement. Deux de ses hélices tournent dans le sens des aiguilles d'une montre, les deux autres dans le sens inverse. Leurs effets s'annulent, et le drone ne tourne pas.
+
+## Tout se joue sur la vitesse
+
+Les hélices d'un petit drone ont des pales fixes. Pour se déplacer, il change seulement la vitesse de chaque moteur :
+
+- **Monter ou descendre.** Les quatre hélices accélèrent ou ralentissent ensemble.
+- **Pencher pour avancer.** Les hélices de l'arrière tournent un peu plus vite que celles de l'avant. Le drone penche vers l'avant, et une partie de la poussée l'entraîne dans cette direction.
+- **Pivoter.** Une paire d'hélices tourne plus vite que l'autre. Leurs effets ne s'annulent plus, et le drone pivote sur place.
+
+## Un équilibre corrigé sans arrêt
+
+Un drone à quatre hélices est naturellement instable : un coup de vent suffit à le faire basculer. Il emporte donc une centrale de mesure, avec des gyroscopes et des accéléromètres, qui sentent le moindre mouvement. Un petit calculateur, le contrôleur de vol, compare ces mesures avec ce que veut le pilote. Il ajuste aussitôt la vitesse de chaque moteur. Ces corrections, impossibles à faire à la main, permettent au drone de rester immobile en l'air.
+
+## Une vieille idée devenue légère
+
+L'idée n'est pas nouvelle. En 1907, le gyroplane des frères Breguet et de Charles Richet, à quatre rotors, a décollé de 60 centimètres, tenu par quatre hommes. En 1924, l'ingénieur français Étienne Œhmichen a bouclé un circuit d'un kilomètre avec son appareil à quatre rotors. Mais ces machines étaient lourdes et difficiles à piloter. Entre 2005 et 2010, l'électronique a rendu les capteurs et les contrôleurs de vol petits et bon marché. Les petits drones à quatre hélices se sont alors répandus.
+
+## À retenir
+
+- Deux hélices tournent dans un sens et deux dans l'autre pour que le drone ne tourne pas sur lui-même.
+- Le drone se déplace en changeant la vitesse de chacune de ses hélices.
+- Pour avancer, il penche : les hélices arrière tournent plus vite que celles de l'avant.
+- Des gyroscopes, des accéléromètres et un contrôleur de vol corrigent son équilibre sans arrêt.
+- Les petits drones se sont répandus entre 2005 et 2010, grâce à une électronique légère et bon marché.
 
 ---
 type: article
@@ -9733,18 +10262,92 @@ status: planned
 
 ---
 type: article
-title: Le graphene et ses proprietes exceptionnelles de resistance et de conductivite
-slug: le-graphene-et-ses-proprietes-exceptionnelles-de-resistance-et-de-conductivite
+title: Pourquoi le graphène, épais d'un seul atome, est-il si solide ?
+slug: pourquoi-le-graphene-epais-d-un-seul-atome-est-il-si-solide
 categoryPath: technologies-et-ingenierie/nanotechnologies/nanomateriaux
 summary: >
-  Un materiau remarquable, extremement fin mais dote de proprietes physiques hors du commun.
-tags: [nanomateriaux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le graphène est une feuille de carbone épaisse d'un seul atome, en forme de nid d'abeilles.
+  C'est le matériau le plus résistant jamais mesuré. Il conduit aussi très bien l'électricité
+  et la chaleur, tout en laissant passer presque toute la lumière.
+tags: [nanomateriaux]
+sources:
+  - title: "Graphène"
+    url: "https://fr.wikipedia.org/wiki/Graph%C3%A8ne"
+    publisher: "Wikipédia"
+  - title: "Graphene"
+    url: "https://en.wikipedia.org/wiki/Graphene"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment les atomes de carbone sont-ils rangés dans le graphène ?"
+    options:
+      - "En hexagones, comme un nid d'abeilles"
+      - "En cubes empilés"
+      - "En boules séparées"
+    answer: 1
+    explanation: >
+      Chaque atome est lié à trois voisins. Ensemble, ils forment un réseau d'hexagones.
+  - question: "Comment Andre Geim et Konstantin Novoselov ont-ils isolé le graphène en 2004 ?"
+    options:
+      - "Avec un aimant géant"
+      - "Avec du ruban adhésif"
+      - "Avec un four très chaud"
+    answer: 2
+    explanation: >
+      Ils ont arraché des couches de plus en plus fines d'un morceau de graphite avec du
+      ruban adhésif.
+  - question: "Selon l'exemple donné lors du prix Nobel, que pourrait porter un hamac de graphène d'un mètre carré ?"
+    options:
+      - "Un éléphant"
+      - "Une voiture"
+      - "Un chat de 4 kilos"
+    answer: 3
+    explanation: >
+      Ce hamac porterait un chat de 4 kilos, tout en pesant à peu près autant qu'une
+      moustache du chat.
+  - question: "Quelle part de la lumière une feuille de graphène absorbe-t-elle ?"
+    options:
+      - "Environ 2,3 %"
+      - "Environ 50 %"
+      - "Toute la lumière"
+    answer: 1
+    explanation: >
+      Une seule feuille absorbe environ 2,3 % de la lumière. Elle est donc presque
+      transparente.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le graphène est une feuille de carbone épaisse d'un seul atome, en forme de nid d'abeilles. C'est le matériau le plus résistant jamais mesuré. Il conduit aussi très bien l'électricité et la chaleur, tout en laissant passer presque toute la lumière.
+
+## Une feuille d'un atome d'épaisseur
+
+Le graphène est fait uniquement d'atomes de carbone. Ils sont rangés à plat, sur une seule couche, en formant des hexagones. Le dessin ressemble à un nid d'abeilles. Chaque atome est accroché à trois voisins, à une distance d'environ 0,142 nanomètre. Un nanomètre est un milliardième de mètre. Quand des centaines de feuilles de graphène s'empilent, on obtient du graphite.
+
+## Isolé avec du ruban adhésif
+
+Le physicien Philip Wallace a décrit le graphène en théorie dès 1947. Mais personne ne savait l'isoler. En 2004, Andre Geim et Konstantin Novoselov, de l'université de Manchester, en Angleterre, y sont parvenus de façon étonnante. Ils ont collé du ruban adhésif sur un morceau de graphite, puis l'ont décollé, encore et encore. Les couches devenaient de plus en plus fines, jusqu'à n'avoir qu'un atome d'épaisseur. Ils ont reçu le prix Nobel de physique en 2010.
+
+## Plus résistant que tout
+
+Le graphène est le matériau le plus résistant jamais mesuré. Sa force vient des liaisons très solides entre ses atomes de carbone, toutes bien rangées dans le même plan. Pour faire comprendre cette résistance, l'annonce du prix Nobel a pris un exemple. Un hamac de graphène d'un mètre carré pourrait porter un chat de 4 kilos. Pourtant, ce hamac pèserait à peu près autant qu'une seule moustache du chat.
+
+## Électricité, chaleur et lumière
+
+Le graphène a d'autres qualités rares. Ses électrons s'y déplacent très facilement, ce qui en fait un excellent conducteur d'électricité. Il conduit aussi très bien la chaleur. Une feuille unique n'absorbe qu'environ 2,3 % de la lumière : elle est presque transparente. Il est en plus souple et ne laisse pas passer les molécules. Les chercheurs imaginent donc de l'utiliser pour des électrodes transparentes ou des batteries.
+
+## Encore difficile à fabriquer
+
+Produire un peu de graphène avec du ruban adhésif est facile. En fabriquer beaucoup, de bonne qualité et pas trop cher, reste difficile. Le marché mondial du graphène valait 9 millions de dollars en 2012. Il était estimé à 380 millions de dollars en 2022.
+
+## À retenir
+
+- Le graphène est une feuille de carbone épaisse d'un seul atome, en forme de nid d'abeilles.
+- Il a été isolé en 2004 avec du ruban adhésif, ce qui a valu le prix Nobel de physique 2010.
+- C'est le matériau le plus résistant jamais mesuré.
+- Il conduit très bien l'électricité et la chaleur, et il est presque transparent.
+- Le fabriquer en grande quantité et à bon prix reste difficile.
 
 ---
 type: article
@@ -10078,18 +10681,96 @@ status: planned
 
 ---
 type: article
-title: Le role des verins hydrauliques dans les robots necessitant une force importante
-slug: le-role-des-verins-hydrauliques-dans-les-robots-necessitant-une-force-importante
+title: Comment un vérin hydraulique donne-t-il une force énorme à une machine ?
+slug: comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine
 categoryPath: technologies-et-ingenierie/robotique/actionneurs
 summary: >
-  Un type d'actionneur puissant qui utilise la pression d'un liquide pour generer du mouvement.
-tags: [actionneurs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un vérin hydraulique est un tube dans lequel de l'huile sous pression pousse un piston.
+  Grâce au principe de Pascal, une petite force peut devenir une très grande force. Les
+  machines et les robots qui doivent soulever ou pousser très fort l'utilisent souvent.
+tags: [actionneurs]
+sources:
+  - title: "Vérin"
+    url: "https://fr.wikipedia.org/wiki/V%C3%A9rin"
+    publisher: "Wikipédia"
+  - title: "Presse hydraulique"
+    url: "https://fr.wikipedia.org/wiki/Presse_hydraulique"
+    publisher: "Wikipédia"
+  - title: "Atlas (robot)"
+    url: "https://en.wikipedia.org/wiki/Atlas_(robot)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel liquide pousse le piston d'un vérin hydraulique ?"
+    options:
+      - "De l'eau salée"
+      - "De l'huile sous pression"
+      - "Du jus de fruit"
+    answer: 2
+    explanation: >
+      Le vérin hydraulique utilise de l'huile sous pression, jusqu'à 350 bars dans un
+      usage courant.
+  - question: "Si un grand piston a une surface dix fois plus grande que le petit, que devient une force de 100 newtons ?"
+    options:
+      - "10 newtons"
+      - "100 newtons"
+      - "1 000 newtons"
+    answer: 3
+    explanation: >
+      La force est multipliée par dix, mais le grand piston se déplace dix fois moins
+      loin.
+  - question: "Quelle invention de Joseph Bramah a rendu la presse hydraulique utilisable ?"
+    options:
+      - "Un joint étanche"
+      - "Un moteur électrique"
+      - "Une roue dentée"
+    answer: 1
+    explanation: >
+      Le principe était connu, mais le liquide fuyait. Bramah a breveté en 1795 un joint
+      en cuir qui tenait la pression.
+  - question: "Qu'est devenu le robot humanoïde hydraulique Atlas en avril 2024 ?"
+    options:
+      - "Il a été envoyé sur Mars"
+      - "Il a été retiré et remplacé par une version électrique"
+      - "Il a été transformé en voiture"
+    answer: 2
+    explanation: >
+      Boston Dynamics a mis à la retraite la version hydraulique d'Atlas et présenté le
+      lendemain une version entièrement électrique.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un vérin hydraulique est un tube dans lequel de l'huile sous pression pousse un piston. Grâce au principe de Pascal, une petite force peut devenir une très grande force. Les machines et les robots qui doivent soulever ou pousser très fort l'utilisent souvent.
+
+## Un piston dans un tube
+
+Un vérin est une machine qui produit un mouvement en ligne droite. Il est fait d'un tube, appelé cylindre. À l'intérieur, une pièce mobile, le piston, sépare le tube en deux chambres. Une tige rigide fixée au piston sort du tube. Quand on fait entrer un fluide sous pression dans une chambre, le piston avance et la tige pousse. Quand on remplit l'autre chambre, elle recule. Des joints empêchent le fluide de passer d'une chambre à l'autre.
+
+Un vérin pneumatique fonctionne avec de l'air comprimé, entre 2 et 10 bars. Un vérin hydraulique utilise de l'huile, jusqu'à 350 bars dans un usage courant. Le bar est une unité de pression. La pression de l'air autour de nous vaut environ 1 bar.
+
+## Multiplier la force
+
+Le secret du vérin hydraulique est le principe de Pascal. Dans un liquide enfermé, une pression appliquée à un endroit se transmet partout. Imaginons deux pistons reliés par de l'huile. Le grand a une surface dix fois plus grande que le petit. Si on pousse le petit avec une force de 100 newtons, le grand pousse avec 1 000 newtons. Mais rien n'est gratuit. Pour que le grand piston avance de 10 millimètres, le petit doit avancer de 100 millimètres.
+
+Ce principe était décrit par Blaise Pascal, mais les machines fuyaient. L'ingénieur britannique Joseph Bramah a mis au point un joint en cuir qui tenait la pression. Il l'a breveté en 1795. Sa presse hydraulique a vite servi à soulever et à forger.
+
+## Fort et précis
+
+Le vérin hydraulique coûte plus cher qu'un vérin à air. On le choisit quand il faut de grandes forces et des vitesses précises, faciles à régler. Pour une forte puissance, un vérin revient souvent moins cher qu'un moteur avec des engrenages. On le trouve donc beaucoup dans les engins du génie civil.
+
+## Dans les robots
+
+Certains robots ont besoin de beaucoup de force dans un corps compact. Le robot humanoïde Atlas, de l'entreprise américaine Boston Dynamics, a été présenté le 11 juillet 2013. Il bougeait grâce à des vérins hydrauliques. En 2016, une nouvelle version mesurait 1,50 mètre pour 80 kilogrammes. Plus tard, elle savait même faire des saltos arrière et des parcours d'obstacles. En avril 2024, Atlas hydraulique a été mis à la retraite. Il a été remplacé par une version entièrement électrique.
+
+## À retenir
+
+- Un vérin est un tube dans lequel un fluide sous pression pousse un piston.
+- Un vérin hydraulique fonctionne avec de l'huile, jusqu'à 350 bars dans un usage courant.
+- Grâce au principe de Pascal, un grand piston multiplie la force, mais se déplace moins.
+- Joseph Bramah a breveté en 1795 le joint qui a rendu la presse hydraulique utilisable.
+- Le robot Atlas a bougé grâce à des vérins hydrauliques de 2013 à 2024.
 
 ---
 type: article
@@ -10393,18 +11074,93 @@ status: planned
 
 ---
 type: article
-title: Le role du lidar dans la cartographie precise de l'environnement d'un robot
-slug: le-role-du-lidar-dans-la-cartographie-precise-de-l-environnement-d-un-robot
+title: Comment un lidar permet-il à un robot de dessiner une carte de ce qui l'entoure ?
+slug: comment-un-lidar-permet-il-a-un-robot-de-dessiner-une-carte-de-ce-qui-l-entoure
 categoryPath: technologies-et-ingenierie/robotique/perception
 summary: >
-  Une technologie de mesure par laser qui cree une representation detaillee des alentours du robot.
-tags: [perception, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un lidar envoie des impulsions de lumière laser et chronomètre leur retour. Il en déduit la
+  distance de chaque objet. En balayant tout autour de lui, il construit une image en trois
+  dimensions qui aide un robot à se repérer et à éviter les obstacles.
+tags: [perception]
+sources:
+  - title: "Lidar"
+    url: "https://fr.wikipedia.org/wiki/Lidar"
+    publisher: "Wikipédia"
+  - title: "Lidar"
+    url: "https://en.wikipedia.org/wiki/Lidar"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'un lidar envoie pour mesurer une distance ?"
+    options:
+      - "Des ondes sonores"
+      - "Des impulsions de lumière laser"
+      - "Des ondes radio"
+    answer: 2
+    explanation: >
+      Le lidar utilise la lumière d'un laser. Le sonar utilise le son, et le radar des
+      ondes radio.
+  - question: "Comment le lidar calcule-t-il la distance d'un objet ?"
+    options:
+      - "En mesurant le temps que met la lumière pour revenir"
+      - "En pesant l'objet"
+      - "En comptant ses couleurs"
+    answer: 1
+    explanation: >
+      Il mesure le temps de vol de l'impulsion. Comme on connaît la vitesse de la lumière,
+      on en déduit la distance.
+  - question: "Comment s'appelle l'ensemble des points mesurés par un lidar ?"
+    options:
+      - "Une pluie de lumière"
+      - "Un champ magnétique"
+      - "Un nuage de points"
+    answer: 3
+    explanation: >
+      Chaque mesure donne un point dans l'espace. Ensemble, ils forment un nuage de points
+      en trois dimensions.
+  - question: "En quelle année des astronautes ont-ils utilisé un altimètre laser pour cartographier la Lune ?"
+    options:
+      - "1961"
+      - "1971"
+      - "2005"
+    answer: 2
+    explanation: >
+      Lors de la mission Apollo 15, en 1971, un altimètre laser a servi à cartographier la
+      surface de la Lune.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un lidar envoie des impulsions de lumière laser et chronomètre leur retour. Il en déduit la distance de chaque objet. En balayant tout autour de lui, il construit une image en trois dimensions qui aide un robot à se repérer et à éviter les obstacles.
+
+## Chronométrer la lumière
+
+Le mot lidar vient de l'anglais « light detection and ranging », soit « détection et mesure de distance par la lumière ». Un lidar envoie une impulsion très courte de lumière laser. La lumière frappe un objet et une partie revient vers l'appareil. Le lidar mesure le temps écoulé entre le départ et le retour : c'est le temps de vol. La lumière va à environ 300 000 kilomètres par seconde. En connaissant cette vitesse et le temps de vol, l'appareil calcule la distance de l'objet.
+
+Le principe ressemble à celui du sonar, qui utilise le son, et du radar, qui utilise des ondes radio. Le lidar, lui, utilise de la lumière visible, infrarouge ou ultraviolette.
+
+## Un nuage de points
+
+Un lidar peut viser dans une seule direction. Mais pour un robot, il balaie souvent tout autour de lui. Il répète la mesure dans de très nombreuses directions. Chaque mesure donne un point placé dans l'espace. L'ensemble forme un nuage de points, une image en trois dimensions des murs, des objets et des personnes.
+
+## Se repérer et éviter les obstacles
+
+Un robot utilise ce nuage de points de deux façons. D'abord, il repère les obstacles et leur distance, pour ne pas les heurter. Ensuite, il construit une carte des lieux tout en calculant sa propre position sur cette carte. Les spécialistes appellent cette technique la localisation et cartographie simultanées. Le lidar fonctionne aussi dans l'obscurité complète, car il apporte sa propre lumière.
+
+Les voitures autonomes s'en servent. En 2005, la voiture sans conducteur Stanley a gagné le DARPA Grand Challenge, une course organisée par une agence de la défense américaine. Elle portait cinq lidars. Le petit hélicoptère Ingenuity s'est aussi aidé d'un lidar pendant ses vols sur Mars.
+
+## De la Lune aux forêts
+
+Le premier système proche du lidar a été présenté en 1961 par l'entreprise américaine Hughes Aircraft, peu après l'invention du laser. Il servait à suivre des satellites. En 1971, pendant la mission Apollo 15, des astronautes ont utilisé un altimètre laser pour cartographier la surface de la Lune. Aujourd'hui, des lidars installés sur des avions dessinent des cartes très précises du relief. Ils peuvent même retrouver la forme du sol caché sous les arbres.
+
+## À retenir
+
+- Un lidar envoie des impulsions de lumière laser et mesure le temps de leur retour.
+- Grâce à la vitesse de la lumière, il en déduit la distance de chaque objet.
+- En balayant autour de lui, il crée un nuage de points en trois dimensions.
+- Un robot s'en sert pour éviter les obstacles et dessiner une carte tout en s'y repérant.
+- Le premier système proche du lidar date de 1961, peu après l'invention du laser.
 
 ---
 type: article

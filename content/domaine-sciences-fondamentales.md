@@ -6289,18 +6289,100 @@ status: planned
 
 ---
 type: article
-title: L'evolution des antibiotiques, une course permanente
-slug: l-evolution-des-antibiotiques-une-course-permanente
+title: Comment les bactéries deviennent-elles résistantes aux antibiotiques ?
+slug: comment-les-bacteries-deviennent-elles-resistantes-aux-antibiotiques
 categoryPath: sciences-fondamentales/biologie/evolution
 summary: >
-  Comment les bacteries evoluent en temps reel face a nos traitements medicaux.
-tags: [evolution, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand on utilise un antibiotique, il tue les bactéries sensibles, mais quelques-unes
+  survivent grâce à une mutation. Elles se multiplient et transmettent leur résistance. C'est
+  la sélection naturelle en accéléré. Trop d'antibiotiques, chez l'humain comme en élevage,
+  accélère cette course.
+tags: [evolution]
+sources:
+  - title: "Résistance aux antibiotiques"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9sistance_aux_antibiotiques"
+    publisher: "Wikipédia"
+  - title: "Antimicrobial resistance"
+    url: "https://en.wikipedia.org/wiki/Antimicrobial_resistance"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel mécanisme de l'évolution explique la résistance aux antibiotiques ?"
+    options:
+      - "La sélection naturelle"
+      - "La photosynthèse"
+      - "La gravitation"
+    answer: 1
+    explanation: >
+      L'antibiotique élimine les bactéries sensibles. Celles qui portent une mutation
+      utile survivent et se multiplient : c'est la sélection naturelle.
+  - question: "Comment des bactéries peuvent-elles s'échanger des gènes de résistance ?"
+    options:
+      - "En mangeant des légumes"
+      - "Par des transferts de gènes entre bactéries voisines"
+      - "Grâce à la lumière du soleil"
+    answer: 2
+    explanation: >
+      Des bactéries proches peuvent se transmettre des gènes, par exemple portés par des
+      petits anneaux d'ADN appelés plasmides.
+  - question: "Qui a averti dès 1945 que l'abus de pénicilline rendrait les microbes résistants ?"
+    options:
+      - "Charles Darwin"
+      - "Louis Pasteur"
+      - "Alexander Fleming"
+    answer: 3
+    explanation: >
+      Alexander Fleming, qui avait découvert la pénicilline, a prévenu dès 1945 du danger
+      d'en abuser.
+  - question: "Combien de décès dans le monde ont été directement dus à l'antibiorésistance en 2019, selon une étude publiée en 2022 ?"
+    options:
+      - "Environ 1 000"
+      - "Environ 1,27 million"
+      - "Environ 100 millions"
+    answer: 2
+    explanation: >
+      Une étude publiée en 2022 a compté 1,27 million de décès directement dus à
+      l'antibiorésistance en 2019.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on utilise un antibiotique, il tue les bactéries sensibles, mais quelques-unes survivent grâce à une mutation. Elles se multiplient et transmettent leur résistance. C'est la sélection naturelle en accéléré. Trop d'antibiotiques, chez l'humain comme en élevage, accélère cette course.
+
+## Des médicaments contre les bactéries
+
+Les antibiotiques sont des médicaments qui tuent les bactéries ou les empêchent de se multiplier. Beaucoup viennent de champignons ou de bactéries, qui les fabriquent pour se défendre contre leurs concurrents. La pénicilline, par exemple, a été découverte par Alexander Fleming. Les antibiotiques n'agissent pas sur les virus, comme celui du rhume.
+
+Mais les bactéries s'adaptent. Certaines deviennent capables de survivre à un antibiotique : on dit qu'elles sont résistantes.
+
+## La sélection naturelle en accéléré
+
+Les bactéries se reproduisent très vite. À chaque division, leur ADN peut changer un peu, par hasard : c'est une mutation. La plupart des mutations ne servent à rien. Parfois, l'une d'elles permet à une bactérie de résister à un antibiotique.
+
+Quand un malade prend cet antibiotique, les bactéries sensibles meurent. Les rares bactéries résistantes survivent. Elles n'ont plus de concurrentes et se multiplient. Elles transmettent leur résistance à leurs descendantes. Bientôt, toute la population est résistante. C'est la sélection naturelle, le mécanisme décrit par Charles Darwin. Chez les bactéries, elle agit très vite, car elles se reproduisent très vite.
+
+## Les bactéries partagent leurs armes
+
+Les bactéries ont une autre astuce. Elles peuvent s'échanger des gènes avec leurs voisines, même d'une autre espèce. Ces gènes voyagent souvent dans de petits anneaux d'ADN appelés plasmides. Une seule bactérie résistante peut ainsi armer d'autres bactéries.
+
+Les résistances agissent de plusieurs façons. Certaines bactéries fabriquent une enzyme qui détruit l'antibiotique. D'autres modifient la pièce que l'antibiotique devait attaquer, et il ne peut plus s'y fixer.
+
+## Une course sans fin
+
+Dès 1945, Alexander Fleming avait prévenu que l'abus de pénicilline rendrait les microbes résistants. Des résistances ont été observées dès les années 1940. En général, elles apparaissent une dizaine d'années après l'arrivée d'un nouvel antibiotique.
+
+Plus on utilise d'antibiotiques, plus on favorise les bactéries résistantes. L'élevage est le premier utilisateur d'antibiotiques dans le monde : environ 70 % en tonnage. Les antibiotiques pris sans raison, par exemple contre un virus, aggravent aussi le problème.
+
+Les conséquences sont graves. Une étude publiée en 2022 a compté 1,27 million de décès dans le monde directement dus à l'antibiorésistance en 2019. Pour ralentir cette course, les médecins demandent de ne prendre des antibiotiques que lorsqu'ils sont nécessaires, et de mieux prévenir les infections.
+
+## À retenir
+
+- Une bactérie résistante survit à un antibiotique qui tue ses voisines sensibles.
+- Les résistances naissent de mutations au hasard, puis sont favorisées par la sélection naturelle.
+- Les bactéries peuvent aussi s'échanger des gènes de résistance, par exemple grâce aux plasmides.
+- Trop d'antibiotiques, chez l'humain comme en élevage, accélère l'apparition des résistances.
+- En 2019, l'antibiorésistance a directement causé 1,27 million de décès dans le monde.
 
 ---
 type: article
@@ -6769,18 +6851,103 @@ status: planned
 
 ---
 type: article
-title: La genetique des groupes sanguins
-slug: la-genetique-des-groupes-sanguins
+title: Pourquoi n'avons-nous pas tous le même groupe sanguin ?
+slug: pourquoi-n-avons-nous-pas-tous-le-meme-groupe-sanguin
 categoryPath: sciences-fondamentales/biologie/genetique
 summary: >
-  Comment un simple heritage genetique determine une caracteristique medicale essentielle.
-tags: [genetique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Nos globules rouges portent ou non de petites marques, appelées antigènes A et B. Selon ces
+  marques, on est du groupe A, B, AB ou O. Ce groupe est fixé par un gène reçu de nos deux
+  parents, et il faut le connaître avant toute transfusion.
+tags: [genetique]
+sources:
+  - title: "Système ABO"
+    url: "https://fr.wikipedia.org/wiki/Syst%C3%A8me_ABO"
+    publisher: "Wikipédia"
+  - title: "Groupe sanguin"
+    url: "https://fr.wikipedia.org/wiki/Groupe_sanguin"
+    publisher: "Wikipédia"
+  - title: "ABO blood group system"
+    url: "https://en.wikipedia.org/wiki/ABO_blood_group_system"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui a découvert les groupes sanguins A, B et O ?"
+    options:
+      - "Louis Pasteur"
+      - "Marie Curie"
+      - "Karl Landsteiner"
+    answer: 3
+    explanation: >
+      Le médecin autrichien Karl Landsteiner les a découverts en 1900 et 1901. Il a reçu
+      le prix Nobel en 1930.
+  - question: "Quels antigènes portent les globules rouges d'une personne du groupe O ?"
+    options:
+      - "Aucun antigène A ni B"
+      - "Les antigènes A et B"
+      - "Seulement l'antigène A"
+    answer: 1
+    explanation: >
+      Les globules rouges du groupe O ne portent ni l'antigène A ni l'antigène B.
+  - question: "Deux parents des groupes A et B peuvent-ils avoir un enfant du groupe O ?"
+    options:
+      - "Non, jamais"
+      - "Oui, si chacun porte aussi la version O du gène"
+      - "Seulement si l'enfant est un garçon"
+    answer: 2
+    explanation: >
+      Un parent A peut avoir les versions A et O, un parent B les versions B et O. Si
+      chacun transmet O, l'enfant est du groupe O.
+  - question: "D'où vient le nom du système Rhésus ?"
+    options:
+      - "D'un singe, le macaque rhésus"
+      - "D'une ville d'Allemagne"
+      - "D'un médicament"
+    answer: 1
+    explanation: >
+      Le système Rhésus porte le nom d'une espèce de macaque qui a permis de le découvrir,
+      en 1940.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Nos globules rouges portent ou non de petites marques, appelées antigènes A et B. Selon ces marques, on est du groupe A, B, AB ou O. Ce groupe est fixé par un gène reçu de nos deux parents, et il faut le connaître avant toute transfusion.
+
+## Des marques sur les globules rouges
+
+Le sang contient des globules rouges. À leur surface, certaines personnes portent de petites marques chimiques, faites de sucres : les antigènes A et B. On parle de groupes sanguins.
+
+Les globules rouges du groupe A portent l'antigène A. Ceux du groupe B portent l'antigène B. Ceux du groupe AB portent les deux. Ceux du groupe O n'en portent aucun.
+
+Le sang contient aussi des anticorps, des défenses qui reconnaissent ce qui est étranger. Une personne du groupe A a des anticorps contre l'antigène B. Une personne du groupe B a des anticorps contre l'antigène A. Une personne du groupe O a les deux sortes d'anticorps.
+
+## Une découverte qui sauve des vies
+
+Autrefois, les transfusions sanguines réussissaient parfois et tournaient mal d'autres fois. En 1900, le médecin autrichien Karl Landsteiner mélange le sang de plusieurs collègues. Il remarque que les globules rouges forment parfois des paquets. En 1901, il décrit les groupes A, B et O. Ses élèves découvrent le groupe AB en 1902. Landsteiner reçoit le prix Nobel en 1930.
+
+Si l'on donne du sang A à une personne du groupe B, ses anticorps attaquent les globules reçus. C'est un accident grave. Les personnes du groupe O peuvent donner leurs globules rouges à tous les groupes : on les appelle donneurs universels. Les personnes du groupe AB peuvent en recevoir de tous les groupes : ce sont les receveurs universels.
+
+En 1940, Landsteiner et Wiener découvrent un autre système, le Rhésus. On est alors Rhésus positif ou négatif. Son nom vient du macaque rhésus, un singe qui a servi à le découvrir. Avec ces deux systèmes, on compte 8 groupes de base, de O+ à AB-.
+
+## Un gène reçu de nos parents
+
+Le groupe ABO dépend d'un seul gène, placé sur le chromosome 9. Ce gène existe en trois versions : A, B et O. Chaque enfant reçoit une version de son père et une de sa mère.
+
+Les versions A et B l'emportent sur la version O. Une personne qui a A et O est donc du groupe A. Pour être du groupe O, il faut avoir reçu O des deux parents. A et B, eux, s'expriment ensemble : une personne qui a A et B est du groupe AB.
+
+Ainsi, deux parents des groupes A et B peuvent avoir un enfant de n'importe quel groupe, même O, si chacun porte une version O cachée.
+
+## Des groupes différents selon les régions
+
+Les groupes ne sont pas répartis de la même façon partout. En France, le groupe le plus fréquent est A positif, avec environ 38 % des habitants. Chez les Inuits, 86 % des personnes sont du groupe O. En 2025, on connaît 48 systèmes de groupes sanguins, mais ABO et Rhésus restent les plus importants pour les transfusions.
+
+## À retenir
+
+- Les groupes A, B, AB et O dépendent des antigènes présents sur les globules rouges.
+- Karl Landsteiner a découvert les groupes A, B et O en 1900 et 1901.
+- Le groupe O est donneur universel de globules rouges, le groupe AB receveur universel.
+- Le groupe ABO dépend d'un gène reçu des deux parents, avec trois versions : A, B et O.
+- Le système Rhésus, découvert en 1940, complète le groupe : on obtient 8 groupes de base.
 
 ---
 type: article
@@ -7549,18 +7716,97 @@ status: planned
 
 ---
 type: article
-title: La saponification, la chimie derriere le savon
-slug: la-saponification-la-chimie-derriere-le-savon
+title: Comment fabrique-t-on du savon avec de l'huile ?
+slug: comment-fabrique-t-on-du-savon-avec-de-l-huile
 categoryPath: sciences-fondamentales/chimie/chimie-organique
 summary: >
-  Une reaction chimique ancienne qui transforme une graisse en un produit nettoyant.
-tags: [chimie-organique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  On fabrique du savon en mélangeant une huile ou une graisse avec une base forte, comme la
+  soude. Cette réaction chimique s'appelle la saponification. Les molécules de savon obtenues
+  aiment l'eau par un bout et la graisse par l'autre : c'est pour cela qu'elles décollent la
+  saleté.
+tags: [chimie-organique]
+sources:
+  - title: "Saponification"
+    url: "https://fr.wikipedia.org/wiki/Saponification"
+    publisher: "Wikipédia"
+  - title: "Savon"
+    url: "https://fr.wikipedia.org/wiki/Savon"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Avec quoi mélange-t-on l'huile pour fabriquer du savon ?"
+    options:
+      - "Avec du sucre"
+      - "Avec une base forte, comme la soude"
+      - "Avec du sable"
+    answer: 2
+    explanation: >
+      La saponification mélange un corps gras avec une base forte : la soude ou la
+      potasse.
+  - question: "Quel produit obtient-on en plus du savon pendant la saponification ?"
+    options:
+      - "Du glycérol"
+      - "Du sel de table"
+      - "De l'essence"
+    answer: 1
+    explanation: >
+      La réaction transforme les graisses en savon et en glycérol, aussi appelé glycérine.
+  - question: "Comment la queue d'une molécule de savon se comporte-t-elle ?"
+    options:
+      - "Elle fuit la graisse"
+      - "Elle se dissout dans l'eau"
+      - "Elle s'accroche à la graisse"
+    answer: 3
+    explanation: >
+      La queue de la molécule de savon aime la graisse et s'y accroche. La tête, elle,
+      reste tournée vers l'eau.
+  - question: "Quel peuple savait déjà fabriquer une sorte de savon il y a environ 4 500 ans ?"
+    options:
+      - "Les Vikings"
+      - "Les Sumériens"
+      - "Les Aztèques"
+    answer: 2
+    explanation: >
+      Des tablettes d'argile sumériennes datées d'environ 2 500 ans avant notre ère
+      décrivent une recette de graisses et de cendres.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+On fabrique du savon en mélangeant une huile ou une graisse avec une base forte, comme la soude. Cette réaction chimique s'appelle la saponification. Les molécules de savon obtenues aiment l'eau par un bout et la graisse par l'autre : c'est pour cela qu'elles décollent la saleté.
+
+## De la graisse et une base
+
+Pour fabriquer du savon, il faut deux ingrédients. Le premier est un corps gras : une huile végétale, comme l'huile d'olive, ou une graisse animale. Le second est une base forte, un produit chimique très corrosif. On utilise la soude ou la potasse.
+
+Quand on les mélange, une réaction chimique se produit : la saponification. Les graisses sont faites de molécules appelées triglycérides. Chacune réunit un morceau de glycérol et trois acides gras. La base casse ces molécules. On obtient du savon, d'un côté, et du glycérol, aussi appelé glycérine, de l'autre.
+
+Le chimiste français Michel-Eugène Chevreul a expliqué cette réaction en 1823. Avec la soude, on obtient des savons durs. Avec la potasse, on obtient des savons mous ou liquides.
+
+## À chaud ou à froid
+
+Dans l'industrie, on chauffe souvent le mélange entre 80 et 100 °C, parfois pendant plusieurs jours, dans de grands chaudrons. La chaleur accélère la réaction. On rince ensuite la pâte pour enlever la soude en trop. Le savon de Marseille et le savon d'Alep sont fabriqués ainsi.
+
+On peut aussi fabriquer du savon à froid, vers 40 à 50 °C. Il faut alors mesurer très exactement la quantité de soude.
+
+## Comment le savon lave
+
+Une molécule de savon a deux bouts différents. Sa longue queue aime la graisse et fuit l'eau. Sa tête, au contraire, aime l'eau.
+
+Quand on se lave les mains, les queues des molécules de savon s'accrochent aux taches de graisse. Les têtes restent tournées vers l'eau. Les molécules entourent la saleté et forment de petites boules, appelées micelles. Ces boules restent dispersées dans l'eau. En rinçant, on emporte la graisse avec elles. Le savon aide aussi l'eau à mieux mouiller les surfaces, et il fait de la mousse.
+
+## Une recette très ancienne
+
+Les Sumériens, en Mésopotamie, connaissaient déjà la saponification. Des tablettes d'argile datées d'environ 2 500 ans avant notre ère décrivent une recette faite de graisses et de cendres bouillies. Les cendres de bois contiennent en effet de la potasse. Les Sumériens s'en servaient pour nettoyer la laine.
+
+## À retenir
+
+- Le savon se fabrique en mélangeant un corps gras avec une base forte, comme la soude ou la potasse.
+- Cette réaction s'appelle la saponification et produit aussi du glycérol.
+- Michel-Eugène Chevreul a expliqué la saponification en 1823.
+- Une molécule de savon a une queue qui aime la graisse et une tête qui aime l'eau.
+- Les Sumériens fabriquaient déjà une sorte de savon avec des graisses et des cendres il y a environ 4 500 ans.
 
 ---
 type: article
@@ -8014,18 +8260,103 @@ status: planned
 
 ---
 type: article
-title: La solubilite, dissoudre une substance dans une autre
-slug: la-solubilite-dissoudre-une-substance-dans-une-autre
+title: Pourquoi le sel disparaît-il dans l'eau alors que l'huile reste à part ?
+slug: pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part
 categoryPath: sciences-fondamentales/chimie/chimie-physique
 summary: >
-  Un phenomene chimique quotidien dont les regles sont bien comprises.
-tags: [chimie-physique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le sel ne disparaît pas : il se dissout, c'est-à-dire qu'il se sépare en particules si
+  petites qu'on ne les voit plus. L'eau dissout bien les substances qui lui ressemblent, comme
+  le sel ou le sucre, mais pas l'huile. Et il existe une limite : au-delà, l'eau ne peut plus
+  rien dissoudre.
+tags: [chimie-physique]
+sources:
+  - title: "Solubilité"
+    url: "https://fr.wikipedia.org/wiki/Solubilit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Solubility"
+    url: "https://en.wikipedia.org/wiki/Solubility"
+    publisher: "Wikipedia"
+  - title: "Chlorure de sodium"
+    url: "https://fr.wikipedia.org/wiki/Chlorure_de_sodium"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Dans de l'eau salée, comment appelle-t-on le sel ?"
+    options:
+      - "Le solvant"
+      - "Le soluté"
+      - "Le précipité"
+    answer: 2
+    explanation: >
+      La substance qui se dissout est le soluté. Celle qui la dissout, ici l'eau, est le
+      solvant.
+  - question: "Combien de sel peut-on dissoudre au maximum dans 100 grammes d'eau à 20 °C ?"
+    options:
+      - "Environ 36 grammes"
+      - "Environ 3 grammes"
+      - "Autant qu'on veut"
+    answer: 1
+    explanation: >
+      À 20 °C, 100 grammes d'eau peuvent dissoudre environ 36 grammes de sel. Au-delà, la
+      solution est saturée.
+  - question: "Que se passe-t-il pour la plupart des gaz dissous quand l'eau se réchauffe ?"
+    options:
+      - "Ils se dissolvent mieux"
+      - "Ils deviennent solides"
+      - "Ils se dissolvent moins bien"
+    answer: 3
+    explanation: >
+      Les gaz se dissolvent en général moins bien dans l'eau chaude. C'est pourquoi
+      l'océan qui se réchauffe libère du dioxyde de carbone.
+  - question: "Que dit la règle des chimistes « le semblable dissout le semblable » ?"
+    options:
+      - "Un liquide dissout mieux les substances qui lui ressemblent"
+      - "Tout se dissout dans tout"
+      - "Seuls les métaux se dissolvent"
+    answer: 1
+    explanation: >
+      Une substance se dissout mieux dans un solvant de structure proche. L'eau dissout le
+      sel, mais pas l'huile.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le sel ne disparaît pas : il se dissout, c'est-à-dire qu'il se sépare en particules si petites qu'on ne les voit plus. L'eau dissout bien les substances qui lui ressemblent, comme le sel ou le sucre, mais pas l'huile. Et il existe une limite : au-delà, l'eau ne peut plus rien dissoudre.
+
+## Disparaître sans disparaître
+
+Verse une cuillère de sel dans un verre d'eau et remue. Au bout d'un moment, le sel n'est plus visible. Pourtant, il est toujours là : goûte l'eau, elle est salée. Le sel s'est dissous.
+
+Les chimistes donnent un nom à chaque rôle. La substance qui se dissout, ici le sel, est le soluté. Celle qui la dissout, ici l'eau, est le solvant. Le mélange obtenu s'appelle une solution. Il est homogène : on ne distingue plus les deux ingrédients.
+
+## Ce qui se passe en tout petit
+
+Le sel de cuisine est fait de particules électriques, appelées ions, rangées en cristaux. Il y en a deux sortes : le sodium et le chlorure. La molécule d'eau a un côté un peu positif et un côté un peu négatif. Elle attire les ions, les arrache au cristal et les entoure. Les ions se dispersent alors dans toute l'eau.
+
+## Le semblable dissout le semblable
+
+Les chimistes ont une règle simple : « le semblable dissout le semblable ». Une substance se dissout bien dans un solvant qui lui ressemble. L'eau, dont les molécules ont deux côtés chargés, dissout bien le sel et le sucre. Elle ne dissout pas l'huile, dont les molécules ne sont pas chargées. L'huile se mélange en revanche avec d'autres corps gras.
+
+## Il y a une limite
+
+On ne peut pas dissoudre autant de sel qu'on veut. À 20 °C, 100 grammes d'eau peuvent dissoudre environ 36 grammes de sel. Si on en ajoute plus, il reste au fond du verre. On dit que la solution est saturée. Cette quantité maximale s'appelle la solubilité.
+
+La solubilité dépend de la température. Pour le sel, elle change peu : de 35,7 grammes à 0 °C à 39,8 grammes à 100 °C. Pour la plupart des solides, elle augmente quand l'eau est plus chaude. Pour les gaz, c'est souvent l'inverse : ils se dissolvent moins bien dans l'eau chaude. Ainsi, quand les océans se réchauffent, ils relâchent du dioxyde de carbone dans l'air.
+
+La vitesse compte aussi. Un solide en grains fins se dissout plus vite qu'un gros morceau, car l'eau touche une plus grande surface.
+
+## Une eau froide et salée
+
+Dissoudre du sel prend un peu de chaleur à ce qui l'entoure. Quand on répand du sel sur la neige, il se dissout dans la glace qui fond et forme de l'eau salée. Cette eau salée ne gèle qu'en dessous de 0 °C. Avec 23 % de sel, elle reste liquide jusqu'à -21 °C. C'est pourquoi on sale les routes en hiver.
+
+## À retenir
+
+- Une substance qui se dissout, le soluté, se disperse en particules invisibles dans le solvant.
+- L'eau dissout bien le sel et le sucre, mais pas l'huile : le semblable dissout le semblable.
+- À 20 °C, 100 grammes d'eau peuvent dissoudre environ 36 grammes de sel, au-delà la solution est saturée.
+- La plupart des solides se dissolvent mieux à chaud, mais les gaz se dissolvent moins bien.
+- L'eau salée gèle en dessous de 0 °C, ce qui explique le salage des routes.
 
 ---
 type: article
@@ -9274,18 +9605,99 @@ status: planned
 
 ---
 type: article
-title: Le nombre pi, une constante universelle
-slug: le-nombre-pi-une-constante-universelle
+title: Pourquoi le nombre pi se cache-t-il dans tous les cercles ?
+slug: pourquoi-le-nombre-pi-se-cache-t-il-dans-tous-les-cercles
 categoryPath: sciences-fondamentales/mathematiques/geometrie
 summary: >
-  Un nombre present dans toute geometrie circulaire, connu depuis des millenaires.
-tags: [geometrie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pour n'importe quel cercle, le tour divisé par le diamètre donne toujours le même nombre,
+  environ 3,14. Ce nombre s'appelle pi et s'écrit π. Ses chiffres après la virgule ne
+  s'arrêtent jamais et ne se répètent jamais.
+tags: [geometrie]
+sources:
+  - title: "Pi"
+    url: "https://fr.wikipedia.org/wiki/Pi"
+    publisher: "Wikipédia"
+  - title: "Pi"
+    url: "https://en.wikipedia.org/wiki/Pi"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que vaut pi pour n'importe quel cercle ?"
+    options:
+      - "Le diamètre divisé par le tour"
+      - "Le tour divisé par le diamètre"
+      - "Le rayon multiplié par deux"
+    answer: 2
+    explanation: >
+      Pi est le rapport entre la circonférence, c'est-à-dire le tour du cercle, et son
+      diamètre. Il est le même pour tous les cercles.
+  - question: "Pourquoi ne peut-on pas écrire pi exactement comme une fraction ?"
+    options:
+      - "Parce que c'est un nombre irrationnel"
+      - "Parce qu'il est négatif"
+      - "Parce qu'il est trop petit"
+    answer: 1
+    explanation: >
+      Pi est irrationnel : ce n'est le quotient d'aucun couple de nombres entiers. Ses
+      décimales ne finissent jamais et ne se répètent pas.
+  - question: "Avec quel polygone Archimède a-t-il encadré pi, vers 250 avant notre ère ?"
+    options:
+      - "Un triangle"
+      - "Un carré"
+      - "Un polygone à 96 côtés"
+    answer: 3
+    explanation: >
+      Archimède est parti d'hexagones, puis a doublé le nombre de côtés jusqu'à 96. Il a
+      montré que pi est compris entre 223/71 et 22/7.
+  - question: "Qui a utilisé le premier la lettre grecque π pour ce nombre, en 1706 ?"
+    options:
+      - "William Jones"
+      - "Isaac Newton"
+      - "Pythagore"
+    answer: 1
+    explanation: >
+      Le mathématicien gallois William Jones l'a utilisée en 1706. Leonhard Euler l'a
+      ensuite rendue populaire.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour n'importe quel cercle, le tour divisé par le diamètre donne toujours le même nombre, environ 3,14. Ce nombre s'appelle pi et s'écrit π. Ses chiffres après la virgule ne s'arrêtent jamais et ne se répètent jamais.
+
+## Le même nombre pour tous les cercles
+
+Prends une ficelle et fais le tour d'une assiette. Mesure cette longueur, puis mesure le diamètre de l'assiette, c'est-à-dire la distance d'un bord à l'autre en passant par le centre. Divise le tour par le diamètre. Tu trouveras un peu plus de 3.
+
+Fais la même chose avec une pièce de monnaie ou une roue de vélo : le résultat est toujours le même. Tous les cercles ont la même forme, seule leur taille change. Si le diamètre est deux fois plus grand, le tour est aussi deux fois plus grand. Le rapport entre les deux reste donc constant. Ce nombre s'appelle pi et s'écrit avec la lettre grecque π.
+
+Il commence ainsi : 3,141592653589793. On l'arrondit souvent à 3,14.
+
+## Un nombre sans fin
+
+Pi a une particularité étonnante. Ses chiffres après la virgule ne s'arrêtent jamais, et ils ne forment jamais un motif qui se répète. On dit que pi est irrationnel : on ne peut pas l'écrire exactement comme une fraction de deux nombres entiers. La fraction 22/7 en est seulement une approximation. Le Suisse Johann Heinrich Lambert l'a démontré en 1768.
+
+Pi sert partout. Avec lui, on calcule le tour d'un cercle, qui vaut pi multiplié par le diamètre, et l'aire d'un disque, qui vaut pi multiplié par le rayon au carré. On le retrouve dans beaucoup de formules de physique et d'ingénierie.
+
+## Une chasse aux décimales
+
+Les Babyloniens et les Égyptiens connaissaient déjà une valeur approchée de pi, à moins de 1 % près. Une tablette d'argile babylonienne, datée d'entre 1900 et 1600 avant notre ère, utilise la valeur 25/8, soit 3,125.
+
+Vers 250 avant notre ère, le Grec Archimède invente une méthode astucieuse. Il dessine un hexagone à l'intérieur d'un cercle et un autre à l'extérieur. Puis il double le nombre de côtés, encore et encore, jusqu'à 96 côtés. Les polygones collent de plus en plus au cercle. Il montre ainsi que pi est compris entre 223/71 et 22/7. Pour cette raison, pi est parfois appelé la constante d'Archimède.
+
+La lettre π n'a été choisie qu'en 1706, par le Gallois William Jones. C'est la première lettre du mot grec qui veut dire « périphérie ». Le grand mathématicien Leonhard Euler l'a ensuite rendue populaire.
+
+## Des milliers de milliards de chiffres
+
+En 1844, Zacharias Dase calcule de tête 200 décimales de pi. Avec les ordinateurs, les records ont explosé. En 1973, on atteint un million de décimales. En 2025, on en connaît environ 314 000 milliards. Pourtant, quelques centaines de décimales suffisent pour tous les calculs scientifiques pratiques.
+
+## À retenir
+
+- Pi est le tour d'un cercle divisé par son diamètre : il est le même pour tous les cercles.
+- Pi vaut environ 3,14, et ses décimales ne s'arrêtent jamais ni ne se répètent.
+- Pi est irrationnel : on ne peut pas l'écrire exactement comme une fraction.
+- Vers 250 avant notre ère, Archimède a encadré pi avec des polygones jusqu'à 96 côtés.
+- La lettre π a été choisie en 1706 par William Jones, puis popularisée par Euler.
 
 ---
 type: article
@@ -9454,18 +9866,99 @@ status: planned
 
 ---
 type: article
-title: Eratosthene et le calcul de la circonference terrestre
-slug: eratosthene-et-le-calcul-de-la-circonference-terrestre
+title: Comment Ératosthène a-t-il mesuré la Terre avec une ombre ?
+slug: comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre
 categoryPath: sciences-fondamentales/mathematiques/geometrie
 summary: >
-  Une mesure remarquablement precise realisee avec des moyens tres rudimentaires.
-tags: [geometrie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Il y a plus de 2 200 ans, le savant grec Ératosthène a calculé le tour de la Terre sans
+  quitter l'Égypte. Il a comparé l'ombre du Soleil à midi dans deux villes. Avec un simple
+  calcul d'angle, il a trouvé un résultat proche de la vraie valeur, environ 40 000
+  kilomètres.
+tags: [geometrie]
+sources:
+  - title: "Ératosthène"
+    url: "https://fr.wikipedia.org/wiki/%C3%89ratosth%C3%A8ne"
+    publisher: "Wikipédia"
+  - title: "Eratosthenes"
+    url: "https://en.wikipedia.org/wiki/Eratosthenes"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passait-il à Syène, à midi, le jour du solstice d'été ?"
+    options:
+      - "Il faisait nuit"
+      - "Le Soleil éclairait le fond d'un puits, sans ombre"
+      - "Il neigeait"
+    answer: 2
+    explanation: >
+      Ce jour-là, à midi, le Soleil était juste au-dessus de Syène. Ses rayons tombaient
+      tout droit au fond d'un puits.
+  - question: "Quel angle Ératosthène a-t-il mesuré à Alexandrie ?"
+    options:
+      - "Environ 90 degrés"
+      - "Environ 45 degrés"
+      - "Environ 7,2 degrés"
+    answer: 3
+    explanation: >
+      L'ombre d'Alexandrie montrait un angle d'environ 7,2 degrés, soit un cinquantième de
+      tour complet.
+  - question: "Quelle distance séparait Syène d'Alexandrie, selon Ératosthène ?"
+    options:
+      - "5 000 stades"
+      - "50 stades"
+      - "500 000 stades"
+    answer: 1
+    explanation: >
+      Ératosthène a retenu une distance de 5 000 stades. Il l'a multipliée par 50 pour
+      trouver 250 000 stades.
+  - question: "Quelle bibliothèque célèbre Ératosthène dirigeait-il ?"
+    options:
+      - "La bibliothèque de Rome"
+      - "La bibliothèque d'Alexandrie"
+      - "La bibliothèque d'Athènes"
+    answer: 2
+    explanation: >
+      Le roi d'Égypte Ptolémée III l'a nommé à la tête de la bibliothèque d'Alexandrie.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Il y a plus de 2 200 ans, le savant grec Ératosthène a calculé le tour de la Terre sans quitter l'Égypte. Il a comparé l'ombre du Soleil à midi dans deux villes. Avec un simple calcul d'angle, il a trouvé un résultat proche de la vraie valeur, environ 40 000 kilomètres.
+
+## Un savant à Alexandrie
+
+Ératosthène est né vers 276 avant notre ère à Cyrène, dans l'actuelle Libye. Il était astronome, géographe et mathématicien. Le roi d'Égypte Ptolémée III l'a nommé directeur de la célèbre bibliothèque d'Alexandrie. Comme beaucoup de savants grecs de son époque, il savait que la Terre est ronde. Il a voulu mesurer sa taille.
+
+## Un puits sans ombre
+
+Ératosthène connaissait un fait étonnant. À Syène, l'actuelle Assouan, au sud de l'Égypte, le jour du solstice d'été, à midi, le Soleil est juste au-dessus de la tête. Ses rayons tombent tout droit au fond d'un puits. Les bâtons plantés bien verticalement n'ont pas d'ombre.
+
+Le même jour, à la même heure, à Alexandrie, plus au nord, un bâton vertical fait une petite ombre. Le Soleil n'y est donc pas tout à fait au-dessus de la tête.
+
+## Un calcul d'angle
+
+Ératosthène considère que les rayons du Soleil arrivent tous parallèles sur la Terre. Si les bâtons ne font pas la même ombre, c'est donc parce que le sol est courbé entre les deux villes.
+
+En comparant la longueur de l'ombre à la hauteur du bâton, il trouve un angle d'environ 7,2 degrés. C'est un cinquantième d'un tour complet, qui fait 360 degrés. Par la géométrie, cet angle est aussi celui qui sépare les deux villes, vu depuis le centre de la Terre. La distance entre Syène et Alexandrie représente donc un cinquantième du tour de la Terre.
+
+## 250 000 stades
+
+Ératosthène estime cette distance à 5 000 stades, une unité de longueur de l'époque. Il multiplie par 50 et obtient 250 000 stades pour le tour de la Terre.
+
+On ne connaît pas exactement la longueur du stade qu'il utilisait. Selon la valeur choisie, son résultat se situe entre environ 39 400 et 40 300 kilomètres. Aujourd'hui, on mesure 40 075 kilomètres autour de l'équateur. C'est remarquablement proche.
+
+Ératosthène avait pourtant fait deux petites erreurs. Syène n'est pas exactement sur la ligne où le Soleil passe à la verticale, et elle n'est pas tout à fait au sud d'Alexandrie. Ces deux erreurs se sont en partie compensées.
+
+Il a laissé d'autres travaux. Il a inventé le crible d'Ératosthène, une méthode pour trouver les nombres premiers. Il est aussi considéré comme l'un des pères de la géographie.
+
+## À retenir
+
+- Ératosthène, directeur de la bibliothèque d'Alexandrie, a mesuré le tour de la Terre il y a plus de 2 200 ans.
+- À Syène, le jour du solstice d'été à midi, le Soleil éclairait le fond d'un puits, sans ombre.
+- Au même moment, l'ombre d'un bâton à Alexandrie formait un angle d'environ 7,2 degrés, un cinquantième de tour.
+- Il a multiplié la distance entre les deux villes, 5 000 stades, par 50 et obtenu 250 000 stades.
+- Son résultat est proche de la vraie valeur, environ 40 000 kilomètres.
 
 ---
 type: article
@@ -10219,18 +10712,102 @@ status: planned
 
 ---
 type: article
-title: Le generateur electrique, principe inverse du moteur
-slug: le-generateur-electrique-principe-inverse-du-moteur
+title: Comment une dynamo de vélo fabrique-t-elle de l'électricité ?
+slug: comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite
 categoryPath: sciences-fondamentales/physique/electromagnetisme
 summary: >
-  Comment le mouvement mecanique se transforme, a l'inverse, en courant electrique.
-tags: [electromagnetisme, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand un aimant bouge près d'une bobine de fil, un courant électrique apparaît dans le fil :
+  c'est l'induction. Une dynamo de vélo fait tourner un aimant grâce à la roue. Les centrales
+  électriques utilisent le même principe, en beaucoup plus grand.
+tags: [electromagnetisme]
+sources:
+  - title: "Dynamo"
+    url: "https://fr.wikipedia.org/wiki/Dynamo"
+    publisher: "Wikipédia"
+  - title: "Electric generator"
+    url: "https://en.wikipedia.org/wiki/Electric_generator"
+    publisher: "Wikipedia"
+  - title: "Bottle dynamo"
+    url: "https://en.wikipedia.org/wiki/Bottle_dynamo"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment s'appelle le phénomène qui crée un courant quand un aimant bouge près d'une bobine ?"
+    options:
+      - "La gravitation"
+      - "L'induction électromagnétique"
+      - "La photosynthèse"
+    answer: 2
+    explanation: >
+      L'induction électromagnétique a été découverte par Michael Faraday. Un champ
+      magnétique qui varie crée un courant dans un fil.
+  - question: "Qui a construit le premier générateur électromagnétique, en 1831 ?"
+    options:
+      - "Michael Faraday"
+      - "Thomas Edison"
+      - "Albert Einstein"
+    answer: 1
+    explanation: >
+      En 1831, Faraday a fait tourner un disque de cuivre entre les pôles d'un aimant en
+      fer à cheval : c'est le disque de Faraday.
+  - question: "Pourquoi pédale-t-on un peu plus fort quand la dynamo est en marche ?"
+    options:
+      - "Parce que la lampe est lourde"
+      - "Parce que le pneu se dégonfle"
+      - "Parce qu'il faut fournir l'énergie transformée en électricité"
+    answer: 3
+    explanation: >
+      L'électricité ne vient pas de rien. Le cycliste fournit l'énergie de mouvement que
+      la dynamo transforme en courant.
+  - question: "Quel courant produit en réalité la « dynamo » d'un vélo classique ?"
+    options:
+      - "Un courant alternatif"
+      - "Aucun courant"
+      - "Un courant continu"
+    answer: 1
+    explanation: >
+      La « dynamo » de vélo est en fait un petit alternateur. Elle produit un courant
+      alternatif, qui change de sens sans arrêt.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand un aimant bouge près d'une bobine de fil, un courant électrique apparaît dans le fil : c'est l'induction. Une dynamo de vélo fait tourner un aimant grâce à la roue. Les centrales électriques utilisent le même principe, en beaucoup plus grand.
+
+## Un aimant qui bouge crée un courant
+
+En 1831, l'Anglais Michael Faraday fait tourner un disque de cuivre entre les deux pôles d'un aimant en fer à cheval. Un petit courant électrique apparaît. C'est le premier générateur électromagnétique.
+
+Faraday a découvert l'induction électromagnétique. Quand le champ magnétique qui traverse une bobine de fil change, une tension électrique apparaît dans le fil. Si le circuit est fermé, un courant circule. Il suffit pour cela de faire bouger un aimant près de la bobine, ou de faire tourner la bobine près de l'aimant. Plus la bobine a de tours de fil, plus la tension est forte.
+
+## Le contraire d'un moteur
+
+Un moteur électrique transforme l'électricité en mouvement. Un générateur fait l'inverse : il transforme le mouvement en électricité. C'est souvent la même machine qui fonctionne dans un sens ou dans l'autre.
+
+Quand une bobine tourne dans un champ magnétique, le courant change de sens à chaque demi-tour. C'est un courant alternatif. Une vraie dynamo possède un collecteur qui redresse ce courant pour donner un courant continu, qui va toujours dans le même sens. Une machine qui garde le courant alternatif s'appelle un alternateur.
+
+## Sur le vélo
+
+La « dynamo » d'un vélo classique ressemble à une petite bouteille. Une molette frotte contre le flanc du pneu. Quand la roue tourne, elle fait tourner la molette, et avec elle un aimant placé près d'une bobine. Un courant apparaît et allume les phares.
+
+En réalité, cet appareil n'est pas une vraie dynamo. Il produit un courant alternatif : c'est un petit alternateur. D'autres vélos ont un générateur caché dans le moyeu de la roue.
+
+Quand la dynamo est en marche, il faut pédaler un peu plus fort. L'électricité ne sort pas de nulle part : c'est l'énergie des jambes du cycliste qui est transformée en courant.
+
+## Dans les centrales
+
+Presque toute l'électricité du monde est produite de cette façon. Dans une centrale, on fait tourner un alternateur géant avec de la vapeur, du gaz, de l'eau ou du vent. Dans une centrale nucléaire, un seul alternateur peut fournir jusqu'à 1 800 mégawatts. Pour un réseau électrique à 50 hertz comme en France, il tourne souvent à 3 000 tours par minute.
+
+Le même principe sert aussi dans les lampes de poche et les radios à manivelle : on tourne, et l'appareil se recharge.
+
+## À retenir
+
+- Quand un aimant bouge près d'une bobine de fil, un courant électrique apparaît : c'est l'induction.
+- Michael Faraday a construit le premier générateur électromagnétique en 1831.
+- Un générateur fait l'inverse d'un moteur : il transforme le mouvement en électricité.
+- La « dynamo » de vélo est en fait un petit alternateur entraîné par la roue.
+- Les centrales produisent presque toute l'électricité avec d'énormes alternateurs.
 
 ---
 type: article
@@ -10639,18 +11216,102 @@ status: planned
 
 ---
 type: article
-title: Le poids et la masse, une distinction essentielle
-slug: le-poids-et-la-masse-une-distinction-essentielle
+title: Pourquoi pèserait-on six fois moins sur la Lune sans perdre un gramme ?
+slug: pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme
 categoryPath: sciences-fondamentales/physique/mecanique
 summary: >
-  Deux notions souvent confondues mais physiquement tres differentes.
-tags: [mecanique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La masse est la quantité de matière d'un objet : elle ne change pas, où qu'il soit. Le poids
+  est la force avec laquelle une planète ou la Lune attire cet objet. Sur la Lune,
+  l'attraction est environ six fois plus faible : le poids diminue, la masse reste la même.
+tags: [mecanique]
+sources:
+  - title: "Poids"
+    url: "https://fr.wikipedia.org/wiki/Poids"
+    publisher: "Wikipédia"
+  - title: "Masse"
+    url: "https://fr.wikipedia.org/wiki/Masse"
+    publisher: "Wikipédia"
+  - title: "Weight"
+    url: "https://en.wikipedia.org/wiki/Weight"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans quelle unité mesure-t-on un poids ?"
+    options:
+      - "En kilogrammes"
+      - "En newtons"
+      - "En litres"
+    answer: 2
+    explanation: >
+      Le poids est une force. Il se mesure en newtons. La masse, elle, se mesure en
+      kilogrammes.
+  - question: "Que devient la masse d'un astronaute sur la Lune ?"
+    options:
+      - "Elle reste la même"
+      - "Elle est divisée par six"
+      - "Elle double"
+    answer: 1
+    explanation: >
+      La masse ne dépend pas de l'endroit. Seul le poids change : il est environ six fois
+      plus faible sur la Lune.
+  - question: "Quel est le poids d'un objet de 1 kilogramme sur Terre ?"
+    options:
+      - "Environ 1 newton"
+      - "Environ 100 newtons"
+      - "Environ 10 newtons"
+    answer: 3
+    explanation: >
+      Sur Terre, un objet de 1 kg a un poids d'environ 9,8 newtons, soit à peu près 10
+      newtons.
+  - question: "Pourquoi une boule de pétanque est-elle plus dure à mettre en mouvement qu'une balle de tennis ?"
+    options:
+      - "Parce qu'elle est ronde"
+      - "Parce que sa masse est plus grande"
+      - "Parce qu'elle est froide"
+    answer: 2
+    explanation: >
+      Plus la masse est grande, plus l'objet résiste quand on veut changer sa vitesse.
+      C'est l'inertie.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La masse est la quantité de matière d'un objet : elle ne change pas, où qu'il soit. Le poids est la force avec laquelle une planète ou la Lune attire cet objet. Sur la Lune, l'attraction est environ six fois plus faible : le poids diminue, la masse reste la même.
+
+## Deux mots qu'on mélange
+
+Dans la vie de tous les jours, on dit « je pèse 30 kilos ». Pour un physicien, cette phrase mélange deux choses différentes : la masse et le poids.
+
+La masse mesure la quantité de matière d'un objet. Elle s'exprime en kilogrammes. Elle ne dépend pas de l'endroit où l'on se trouve : sur Terre, sur la Lune ou dans l'espace, un objet de 1 kilogramme reste un objet de 1 kilogramme.
+
+Le poids est une force. C'est l'attraction que la Terre exerce sur un objet, vers le bas. Il s'exprime en newtons, du nom du savant Isaac Newton.
+
+## Le lien entre les deux
+
+Le poids dépend de la masse et de la pesanteur, c'est-à-dire de la force avec laquelle la planète attire les objets. Sur Terre, un objet de 1 kilogramme a un poids d'environ 9,8 newtons. Un objet deux fois plus lourd en masse a un poids deux fois plus grand.
+
+La pesanteur n'est pas tout à fait la même partout sur Terre. Elle est un peu plus forte aux pôles qu'à l'équateur, et elle diminue quand on monte en altitude. La différence reste faible : environ 0,5 %.
+
+## Six fois plus léger sur la Lune
+
+La Lune est beaucoup plus petite que la Terre. Elle attire les objets environ six fois moins fort. Un astronaute garde donc la même masse, mais son poids est six fois plus faible. C'est pour cela que les astronautes, sur la Lune, avaient une démarche flottante.
+
+Pourtant, il n'est pas plus facile de les arrêter quand ils sont lancés. La masse fait aussi résister un objet quand on veut changer sa vitesse : c'est l'inertie. Souffle avec une paille sur une balle de tennis de 57 grammes, puis sur une boule de pétanque de 800 grammes. La force est la même, mais la boule bouge à peine, car sa masse est bien plus grande.
+
+## Balance ou pèse-personne ?
+
+Une balance à deux plateaux compare la masse d'un objet à des masses connues. Comme les deux côtés sont attirés de la même façon, elle donne le même résultat sur la Terre et sur la Lune.
+
+Un pèse-personne, lui, mesure en réalité une force, grâce à un ressort ou à un capteur. Il est réglé pour la pesanteur terrestre et affiche des kilogrammes. Sur la Lune, il afficherait un nombre environ six fois plus petit, alors que ta masse n'aurait pas changé.
+
+## À retenir
+
+- La masse est la quantité de matière d'un objet, mesurée en kilogrammes.
+- Le poids est la force d'attraction de la planète sur l'objet, mesurée en newtons.
+- Sur Terre, un objet de 1 kilogramme a un poids d'environ 9,8 newtons.
+- Sur la Lune, le poids est environ six fois plus faible, mais la masse ne change pas.
+- La masse fait aussi résister un objet quand on veut changer sa vitesse : c'est l'inertie.
 
 ---
 type: article
@@ -12439,18 +13100,98 @@ status: planned
 
 ---
 type: article
-title: Les marees, mecanisme detaille
-slug: les-marees-mecanisme-detaille
+title: Comment la Lune fait-elle monter et descendre la mer ?
+slug: comment-la-lune-fait-elle-monter-et-descendre-la-mer
 categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
 summary: >
-  Comment l'attraction combinee de la Lune et du Soleil souleve regulierement les oceans.
-tags: [oceanographie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La Lune attire l'eau des océans, plus fort du côté de la Terre qui lui fait face. L'océan
+  forme alors deux bosses, et la Terre tourne dessous. Sur beaucoup de côtes, la mer monte et
+  descend ainsi deux fois par jour, environ toutes les 12 heures 25 minutes.
+tags: [oceanographie]
+sources:
+  - title: "Marée"
+    url: "https://fr.wikipedia.org/wiki/Mar%C3%A9e"
+    publisher: "Wikipédia"
+  - title: "Tide"
+    url: "https://en.wikipedia.org/wiki/Tide"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quels sont les deux astres qui causent les marées sur Terre ?"
+    options:
+      - "La Lune et le Soleil"
+      - "Mars et Vénus"
+      - "Jupiter et la Lune"
+    answer: 1
+    explanation: >
+      Seuls la Lune et le Soleil ont une influence notable. La Lune parce qu'elle est
+      proche, le Soleil parce qu'il est très massif.
+  - question: "Combien de temps dure environ un cycle complet de marée haute et basse sur nos côtes ?"
+    options:
+      - "24 heures"
+      - "6 heures"
+      - "12 heures 25 minutes"
+    answer: 3
+    explanation: >
+      Le cycle dure environ 12 heures 25 minutes, soit la moitié d'un jour lunaire.
+  - question: "Quand les grandes marées, dites de vives-eaux, se produisent-elles ?"
+    options:
+      - "Au premier quartier de Lune"
+      - "À la pleine lune et à la nouvelle lune"
+      - "Uniquement en hiver"
+    answer: 2
+    explanation: >
+      À la pleine lune et à la nouvelle lune, la Terre, la Lune et le Soleil sont alignés.
+      Leurs effets s'additionnent.
+  - question: "Pourquoi la Méditerranée a-t-elle très peu de marées ?"
+    options:
+      - "Parce qu'elle est trop salée"
+      - "Parce que le détroit de Gibraltar est étroit"
+      - "Parce qu'elle est trop chaude"
+    answer: 2
+    explanation: >
+      L'étroitesse du détroit de Gibraltar empêche la mer de se remplir et de se vider
+      beaucoup à chaque marée.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La Lune attire l'eau des océans, plus fort du côté de la Terre qui lui fait face. L'océan forme alors deux bosses, et la Terre tourne dessous. Sur beaucoup de côtes, la mer monte et descend ainsi deux fois par jour, environ toutes les 12 heures 25 minutes.
+
+## La mer qui respire
+
+Au bord de l'océan, la mer monte, puis se retire, puis remonte. On appelle ce mouvement la marée. Le moment où l'eau est la plus haute s'appelle la pleine mer, ou marée haute. Le moment où elle est la plus basse s'appelle la basse mer, ou marée basse. Sur les côtes françaises de l'Atlantique et de la Manche, un cycle complet dure environ 12 heures 25 minutes. Il y a donc deux marées hautes par jour.
+
+## La Lune tire sur l'océan
+
+Tous les objets s'attirent : c'est la gravitation. La Lune attire donc l'eau des océans. Mais elle n'attire pas tous les points de la Terre avec la même force. Le côté qui fait face à la Lune est plus proche : il est attiré plus fort. Le côté opposé est plus loin : il est attiré moins fort.
+
+Cette différence étire l'océan. Il forme deux bourrelets d'eau, deux bosses : une du côté de la Lune, une autre du côté opposé. La Terre tourne sur elle-même sous ces deux bosses. Chaque côte passe donc deux fois par jour sous une bosse, et c'est la marée haute.
+
+Pourquoi 12 heures 25 minutes et pas 12 heures ? Parce que pendant que la Terre tourne, la Lune avance aussi sur son orbite. Il faut un peu plus d'une journée pour qu'elle repasse au-dessus du même endroit.
+
+## Le Soleil s'en mêle
+
+Le Soleil attire aussi l'eau des océans. Il est beaucoup plus loin que la Lune, mais énormément plus massif. Son effet est environ la moitié de celui de la Lune.
+
+À la pleine lune et à la nouvelle lune, la Terre, la Lune et le Soleil sont alignés. Leurs effets s'additionnent : ce sont les grandes marées, appelées vives-eaux. Au premier et au dernier quartier, la Lune et le Soleil tirent dans des directions différentes. Les marées sont alors faibles : ce sont les mortes-eaux. Les plus fortes marées de l'année ont lieu près des équinoxes, au printemps et à l'automne.
+
+## Des marées très différentes selon les lieux
+
+La forme des côtes change beaucoup la hauteur des marées. Dans une baie en forme d'entonnoir, l'eau s'accumule et monte très haut. Dans la baie du Mont-Saint-Michel, la différence entre marée haute et marée basse peut atteindre 15 mètres. Dans la baie de Fundy, au Canada, on a mesuré 16 mètres en 1998.
+
+À l'inverse, la Méditerranée a très peu de marée. Le détroit de Gibraltar, qui la relie à l'océan, est trop étroit pour qu'elle se remplisse et se vide beaucoup.
+
+Les marées ne touchent pas que la mer. La croûte terrestre elle-même se soulève un peu au passage de la Lune, d'environ 40 centimètres, sans qu'on le sente.
+
+## À retenir
+
+- Les marées sont causées surtout par l'attraction de la Lune, et en partie par celle du Soleil.
+- L'attraction de la Lune étire l'océan en deux bosses, sous lesquelles la Terre tourne.
+- Sur nos côtes, un cycle de marée dure environ 12 heures 25 minutes.
+- Les grandes marées ont lieu à la pleine lune et à la nouvelle lune, quand les trois astres sont alignés.
+- La forme des côtes change la hauteur des marées : jusqu'à 15 mètres au Mont-Saint-Michel.
 
 ---
 type: article
@@ -12904,18 +13645,104 @@ status: planned
 
 ---
 type: article
-title: Les sources chaudes et leur origine geologique
-slug: les-sources-chaudes-et-leur-origine-geologique
+title: Pourquoi certaines sources sortent-elles du sol déjà chaudes ?
+slug: pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes
 categoryPath: sciences-fondamentales/sciences-de-la-terre/volcans-et-seismes
 summary: >
-  Une manifestation plus douce de la chaleur interne de la Terre.
-tags: [volcans-et-seismes, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'eau de pluie s'enfonce dans le sol, parfois très profondément. Plus on descend, plus les
+  roches sont chaudes : l'eau se réchauffe, puis remonte par des fissures. Près des volcans,
+  elle peut même être chauffée par le magma et jaillir en geyser.
+tags: [volcans-et-seismes]
+sources:
+  - title: "Source chaude"
+    url: "https://fr.wikipedia.org/wiki/Source_chaude"
+    publisher: "Wikipédia"
+  - title: "Hot spring"
+    url: "https://en.wikipedia.org/wiki/Hot_spring"
+    publisher: "Wikipedia"
+  - title: "Gradient géothermique"
+    url: "https://fr.wikipedia.org/wiki/Gradient_g%C3%A9othermique"
+    publisher: "Wikipédia"
+quiz:
+  - question: "De combien la température du sous-sol augmente-t-elle en moyenne en Europe, près de la surface ?"
+    options:
+      - "D'environ 3 °C tous les 100 mètres"
+      - "D'environ 30 °C tous les mètres"
+      - "Elle ne change pas"
+    answer: 1
+    explanation: >
+      En Europe, le gradient géothermique est d'environ 30 °C par kilomètre, soit 3 °C
+      tous les 100 mètres.
+  - question: "Par où l'eau descend-elle et remonte-t-elle le plus facilement dans les roches ?"
+    options:
+      - "Par les racines des arbres"
+      - "Par les failles, où la roche est fracturée"
+      - "Par les grottes de glace"
+    answer: 2
+    explanation: >
+      Le long des failles, la roche brisée offre des passages faciles à l'eau, vers la
+      profondeur puis vers la surface.
+  - question: "Comment appelle-t-on une source chaude qui projette de l'eau et de la vapeur sous pression ?"
+    options:
+      - "Une fumerolle"
+      - "Une mare de boue"
+      - "Un geyser"
+    answer: 3
+    explanation: >
+      Un geyser projette par moments de l'eau bouillante et de la vapeur. S'il ne sort que
+      de la vapeur, on parle de fumerolle.
+  - question: "Pourquoi l'eau des sources chaudes contient-elle souvent beaucoup de minéraux ?"
+    options:
+      - "Parce que l'eau chaude dissout mieux les roches"
+      - "Parce qu'on y ajoute du sel"
+      - "Parce qu'elle vient de la mer"
+    answer: 1
+    explanation: >
+      L'eau chaude peut dissoudre plus de matières que l'eau froide. Elle remonte chargée
+      de calcium, parfois de lithium ou d'autres éléments.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'eau de pluie s'enfonce dans le sol, parfois très profondément. Plus on descend, plus les roches sont chaudes : l'eau se réchauffe, puis remonte par des fissures. Près des volcans, elle peut même être chauffée par le magma et jaillir en geyser.
+
+## Une eau chauffée par la Terre
+
+Une source chaude, ou source thermale, est une source dont l'eau sort du sol plus chaude que son environnement. Elle n'est pas chauffée par le soleil, mais par la chaleur de la Terre elle-même. On en trouve sur tous les continents, et même au fond des mers.
+
+## Plus on descend, plus il fait chaud
+
+Sous nos pieds, la température des roches augmente avec la profondeur. Les géologues appellent cela le gradient géothermique. En Europe, près de la surface, la température monte en moyenne d'environ 3 °C tous les 100 mètres, soit 30 °C par kilomètre.
+
+Cette chaleur vient de l'intérieur de la Terre. Environ la moitié est produite par la radioactivité naturelle de certains éléments contenus dans les roches, comme l'uranium, le thorium et le potassium. Une autre partie est un reste de la chaleur de la formation de la planète.
+
+## Le voyage de l'eau
+
+L'eau d'une source chaude est d'abord de la pluie ou de la neige. Elle s'infiltre dans le sol et descend lentement dans les roches. Elle passe surtout par les failles, des cassures de l'écorce terrestre où la roche brisée laisse des passages. Plus elle descend, plus elle se réchauffe au contact des roches chaudes.
+
+Aux États-Unis, à Warm Springs, en Géorgie, l'eau de pluie descend ainsi jusqu'à environ 910 mètres de profondeur avant de remonter tiède. Pour ressortir, l'eau chaude remonte vers la surface, souvent par d'autres fissures.
+
+## Près des volcans
+
+Dans les régions volcaniques, comme le parc de Yellowstone aux États-Unis, du magma, de la roche fondue, se trouve parfois à faible profondeur. L'eau est alors chauffée directement par lui. Elle peut sortir presque bouillante, vers 100 °C.
+
+Parfois, l'eau s'accumule dans une cavité sous terre et dépasse 100 °C sans bouillir, car le poids de l'eau au-dessus d'elle l'en empêche. Quand un peu d'eau s'échappe, la pression baisse d'un coup. Une partie de l'eau se transforme en vapeur et chasse tout vers le haut : c'est un geyser. Si seule de la vapeur sort du sol, on parle de fumerolle.
+
+## Une eau riche en minéraux
+
+L'eau chaude dissout mieux les roches que l'eau froide. Les sources chaudes sont donc souvent très chargées en minéraux, comme le calcium, et parfois en lithium. Autour de certaines sources, ces minéraux se déposent et forment de la roche, comme le travertin.
+
+Des microbes appelés thermophiles vivent dans ces eaux, entre 45 et 80 °C. Depuis des milliers d'années, les humains s'y baignent et s'y soignent. En France, à Chaudes-Aigues, dans le Cantal, la source du Par sort à 82 °C. Ces bains étaient déjà connus à l'époque romaine.
+
+## À retenir
+
+- Une source chaude est chauffée par la chaleur de la Terre, pas par le soleil.
+- En Europe, la température du sous-sol monte en moyenne de 3 °C tous les 100 mètres.
+- L'eau de pluie s'infiltre, souvent le long des failles, se réchauffe en profondeur puis remonte.
+- Près des volcans, le magma chauffe l'eau, qui peut jaillir en geyser.
+- L'eau chaude dissout beaucoup de minéraux, et des microbes thermophiles y vivent.
 
 ---
 type: article

@@ -2900,18 +2900,105 @@ status: planned
 
 ---
 type: article
-title: La pyramide des ages, lire la structure d'une population
-slug: la-pyramide-des-ages-lire-la-structure-d-une-population
+title: Comment lit-on une pyramide des âges ?
+slug: comment-lit-on-une-pyramide-des-ages
 categoryPath: geographie-et-territoires/geographie-humaine/demographie
 summary: >
-  Un outil visuel simple qui revele l'histoire demographique d'un pays.
-tags: [demographie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une pyramide des âges est un graphique qui montre combien de personnes ont chaque âge dans
+  un pays, avec les hommes d'un côté et les femmes de l'autre. Sa forme raconte l'histoire de
+  la population. Une base large signale beaucoup de naissances, un sommet large une population
+  qui vieillit.
+tags: [demographie]
+sources:
+  - title: "Pyramide des âges"
+    url: "https://fr.wikipedia.org/wiki/Pyramide_des_%C3%A2ges"
+    publisher: "Wikipédia"
+  - title: "Démographie, France, portrait social 2025"
+    url: "https://www.insee.fr/fr/statistiques/8612506"
+    publisher: "Insee"
+  - title: "Baby-boom"
+    url: "https://fr.wikipedia.org/wiki/Baby-boom"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Dans une pyramide des âges, où sont placés les âges ?"
+    options:
+      - "Sur l'axe vertical, du bas vers le haut"
+      - "En couleur dans une légende"
+      - "Sur l'axe horizontal"
+    answer: 1
+    explanation: >
+      Les âges sont rangés de bas en haut : les bébés en bas, les personnes les plus âgées
+      en haut.
+  - question: "Que montre une pyramide avec une base large et un sommet étroit ?"
+    options:
+      - "Une population âgée"
+      - "Une population qui ne change jamais"
+      - "Une population jeune avec beaucoup de naissances"
+    answer: 3
+    explanation: >
+      Une base large signifie que beaucoup d'enfants naissent. Le sommet étroit montre
+      qu'il y a peu de personnes âgées.
+  - question: "Pendant quelles années a eu lieu le baby-boom en France ?"
+    options:
+      - "De 1914 à 1918"
+      - "De 1946 à 1974"
+      - "De 2000 à 2020"
+    answer: 2
+    explanation: >
+      Selon l'Ined, le baby-boom français a duré de 1946 à 1974. Il forme une bosse sur la
+      pyramide.
+  - question: "Pourquoi y a-t-il plus de femmes que d'hommes aux âges élevés en France ?"
+    options:
+      - "Il naît beaucoup plus de filles"
+      - "Les hommes meurent plus tôt en moyenne"
+      - "Les femmes déménagent moins"
+    answer: 2
+    explanation: >
+      Il naît un peu plus de garçons, mais les hommes meurent plus tôt en moyenne. À
+      partir de 25 ans, les femmes deviennent plus nombreuses.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une pyramide des âges est un graphique qui montre combien de personnes ont chaque âge dans un pays, avec les hommes d'un côté et les femmes de l'autre. Sa forme raconte l'histoire de la population. Une base large signale beaucoup de naissances, un sommet large une population qui vieillit.
+
+## Un graphique en deux moitiés
+
+Une pyramide des âges est un graphique qui montre la structure d'une population selon l'âge et le sexe. Elle est formée de deux séries de barres placées dos à dos. À gauche, on représente les hommes. À droite, les femmes.
+
+Les âges sont rangés sur l'axe vertical. Les bébés sont en bas, les personnes les plus âgées en haut. La longueur de chaque barre indique combien de personnes ont cet âge. Plus la barre est longue, plus elles sont nombreuses.
+
+## Trois grandes formes
+
+La forme du graphique dépend de trois choses : les naissances, les décès et les migrations.
+
+Quand un pays a beaucoup de naissances, la base est large et le sommet étroit. Le graphique ressemble alors à une vraie pyramide. C'est le signe d'une population jeune.
+
+Quand les naissances baissent et que les gens vivent plus longtemps, la base se rétrécit. Le haut s'élargit. On parle de forme en champignon : la population vieillit. Entre les deux, une population stable donne une forme de cloche.
+
+## Lire l'histoire dans les creux et les bosses
+
+Une pyramide des âges est comme un album de famille d'un pays. Elle montre le passé, le présent et une partie de l'avenir.
+
+Une guerre ou une épidémie laisse un creux, car les décès augmentent et les naissances diminuent. À l'inverse, une période de nombreuses naissances fait une bosse. En France, le baby-boom a duré de 1946 à 1974, selon l'Institut national d'études démographiques. Ces générations forment une bosse qui monte d'année en année vers le haut du graphique.
+
+## L'exemple de la France
+
+Au 1er janvier 2025, la France comptait 68,6 millions d'habitants, selon l'Insee. En 2024, il y a eu 660 800 naissances et 643 200 décès. La différence, 17 600 personnes, est la plus faible depuis la fin de la Seconde Guerre mondiale.
+
+La base de la pyramide française se rétrécit. Début 2025, les moins de 20 ans représentaient 22,9 % de la population, et les 65 ans ou plus 21,8 %. Les deux groupes sont presque aussi nombreux.
+
+La pyramide montre aussi une différence entre les deux côtés. Les hommes sont plus nombreux que les femmes jusqu'à 25 ans. Ensuite, les femmes deviennent majoritaires, car les hommes meurent plus tôt en moyenne. Tout en haut, le côté droit est donc nettement plus large.
+
+## À retenir
+
+- Une pyramide des âges montre le nombre d'hommes et de femmes à chaque âge dans une population.
+- Une base large signale une population jeune, un sommet large une population qui vieillit.
+- Les creux rappellent les guerres ou les baisses de naissances, les bosses les périodes de nombreuses naissances.
+- En France, le baby-boom de 1946 à 1974 forme une bosse qui monte vers le haut du graphique.
+- Début 2025, la France comptait presque autant de personnes de 65 ans ou plus que de moins de 20 ans.
 
 ---
 type: article
@@ -3770,18 +3857,98 @@ status: planned
 
 ---
 type: article
-title: La gestion des dechets dans les grandes agglomerations
-slug: la-gestion-des-dechets-dans-les-grandes-agglomerations
+title: Comment une grande ville se débarrasse-t-elle de ses déchets ?
+slug: comment-une-grande-ville-se-debarrasse-t-elle-de-ses-dechets
 categoryPath: geographie-et-territoires/geographie-humaine/urbanisation
 summary: >
-  Un defi quotidien qui s'accroit avec la taille et la densite des villes.
-tags: [urbanisation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Chaque jour, une grande ville produit des montagnes de déchets. Ils sont collectés, triés,
+  puis recyclés, compostés, brûlés pour produire de l'énergie ou enfouis. Dans le monde, une
+  partie des déchets n'est toujours pas ramassée.
+tags: [urbanisation]
+sources:
+  - title: "Déchet ménager"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9chet_m%C3%A9nager"
+    publisher: "Wikipédia"
+  - title: "Eugène Poubelle"
+    url: "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Poubelle"
+    publisher: "Wikipédia"
+  - title: "What a Waste"
+    url: "https://www.worldbank.org/what-a-waste"
+    publisher: "Banque mondiale"
+quiz:
+  - question: "D'où vient le mot « poubelle » ?"
+    options:
+      - "Du nom d'un préfet de Paris"
+      - "D'une ville d'Italie"
+      - "D'un mot latin qui veut dire sale"
+    answer: 1
+    explanation: >
+      En 1883 et 1884, le préfet Eugène Poubelle a obligé les propriétaires parisiens à
+      fournir des récipients à déchets, qui ont pris son nom.
+  - question: "Quelle quantité de déchets ménagers le monde a-t-il produite en 2022, selon la Banque mondiale ?"
+    options:
+      - "2,56 millions de tonnes"
+      - "2,56 milliards de tonnes"
+      - "256 tonnes"
+    answer: 2
+    explanation: >
+      La Banque mondiale estime que 2,56 milliards de tonnes de déchets ménagers ont été
+      produites en 2022.
+  - question: "Que devient l'énergie des déchets brûlés dans un incinérateur moderne ?"
+    options:
+      - "Elle est perdue"
+      - "Elle fait fondre la neige des rues"
+      - "Elle est récupérée pour produire de la chaleur ou de l'électricité"
+    answer: 3
+    explanation: >
+      En France, l'incinération se fait avec récupération d'énergie : la chaleur des
+      déchets brûlés est réutilisée.
+  - question: "Dans quelle région du monde seulement 31 % des déchets sont-ils collectés ?"
+    options:
+      - "En Europe de l'Ouest"
+      - "En Afrique subsaharienne"
+      - "En Amérique du Nord"
+    answer: 2
+    explanation: >
+      En Afrique subsaharienne, le taux de collecte peut être aussi bas que 31 %. Beaucoup
+      de déchets finissent dans des décharges à ciel ouvert.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chaque jour, une grande ville produit des montagnes de déchets. Ils sont collectés, triés, puis recyclés, compostés, brûlés pour produire de l'énergie ou enfouis. Dans le monde, une partie des déchets n'est toujours pas ramassée.
+
+## Des montagnes de déchets
+
+Selon la Banque mondiale, l'humanité a produit 2,56 milliards de tonnes de déchets ménagers en 2022. Si rien ne change, ce chiffre pourrait atteindre 3,86 milliards de tonnes en 2050, soit 50 % de plus. En France, en 2017, chaque habitant jetait en moyenne 254 kilos d'ordures ménagères par an.
+
+Les grandes villes concentrent beaucoup d'habitants sur un petit espace. Leurs déchets doivent être enlevés vite, sinon ils attirent les rats, sentent mauvais et propagent des maladies.
+
+## L'invention de la poubelle
+
+À Paris, en 1883 et 1884, le préfet Eugène Poubelle a pris deux arrêtés. Ils obligeaient les propriétaires d'immeubles à fournir à leurs locataires des récipients munis d'un couvercle, de 40 à 120 litres. Il fallait déjà trier les déchets en trois catégories : les restes qui pourrissent, les papiers et chiffons, et enfin le verre, la vaisselle et les coquilles d'huîtres. Les Parisiens ont donné à ces récipients le nom du préfet.
+
+## Collecter et trier
+
+Aujourd'hui en France, il existe trois façons de collecter les déchets. Les camions passent devant les maisons pour vider les poubelles. Les habitants apportent eux-mêmes le verre, les vêtements ou les piles dans des points de collecte. Enfin, les objets encombrants, comme un vieux canapé, sont ramassés sur demande ou déposés en déchetterie.
+
+Le tri commence à la maison. Dans beaucoup de villes, les emballages recyclables vont dans une poubelle jaune, le verre dans un conteneur à part et le reste dans la poubelle des ordures ménagères. Les couleurs peuvent changer d'une commune à l'autre.
+
+## Quatre destinations
+
+Une fois collectés, les déchets suivent quatre chemins. Les matériaux comme le papier, le verre ou certains plastiques sont recyclés pour fabriquer de nouveaux objets. Les déchets de cuisine et de jardin peuvent être compostés ou transformés en gaz : c'est le traitement biologique. D'autres déchets sont brûlés dans des incinérateurs, et la chaleur produite est récupérée. Enfin, ce qui ne peut pas être traité est enfoui dans des centres de stockage.
+
+Dans beaucoup de pays pauvres, le ramassage reste un grand défi. En Afrique subsaharienne, le taux de collecte peut descendre à 31 %. En Asie du Sud, il est de 67 %. Une grande partie des déchets y finit dans des décharges à ciel ouvert.
+
+## À retenir
+
+- En 2022, le monde a produit 2,56 milliards de tonnes de déchets ménagers, selon la Banque mondiale.
+- Le mot « poubelle » vient du préfet Eugène Poubelle, qui a imposé des récipients à Paris en 1883 et 1884.
+- Les déchets sont collectés devant les maisons, dans des points d'apport ou en déchetterie.
+- Ils sont ensuite recyclés, compostés, brûlés avec récupération d'énergie ou enfouis.
+- Dans certaines régions du monde, moins d'un tiers des déchets est ramassé.
 
 ---
 type: article
@@ -4115,18 +4282,99 @@ status: planned
 
 ---
 type: article
-title: Le climat de mousson et son importance agricole
-slug: le-climat-de-mousson-et-son-importance-agricole
+title: Pourquoi la mousson apporte-t-elle des pluies torrentielles en Inde chaque été ?
+slug: pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
-  Un rythme de pluies saisonnier dont dependent des centaines de millions de personnes.
-tags: [climatologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La mousson est un vent qui change de sens selon la saison. En été, la terre indienne chauffe
+  plus vite que l'océan et attire un air chargé d'humidité, qui déverse des pluies énormes.
+  Plus de la moitié des terres agricoles de l'Inde dépendent de ces pluies.
+tags: [climatologie]
+sources:
+  - title: "Mousson"
+    url: "https://fr.wikipedia.org/wiki/Mousson"
+    publisher: "Wikipédia"
+  - title: "Monsoon of South Asia"
+    url: "https://en.wikipedia.org/wiki/Monsoon_of_South_Asia"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que veut dire le mot arabe mawsim, d'où vient « mousson » ?"
+    options:
+      - "Pluie"
+      - "Saison"
+      - "Montagne"
+    answer: 2
+    explanation: >
+      Mawsim désignait la saison favorable pour naviguer vers les Indes. Le mot est arrivé
+      en français en 1508, par le portugais.
+  - question: "Pourquoi la terre attire-t-elle l'air de l'océan en été ?"
+    options:
+      - "Elle chauffe plus vite que la mer"
+      - "Elle est plus froide que la mer"
+      - "Elle est couverte de neige"
+    answer: 1
+    explanation: >
+      La terre se réchauffe plus vite que l'océan. L'air chaud monte au-dessus d'elle et
+      l'air humide de la mer vient le remplacer.
+  - question: "Vers quelle date la mousson d'été arrive-t-elle au Kerala, au sud-ouest de l'Inde ?"
+    options:
+      - "Vers le 1er janvier"
+      - "Vers le 1er octobre"
+      - "Vers le 1er juin"
+    answer: 3
+    explanation: >
+      La mousson d'été atteint la côte du Kerala vers le 1er juin, puis couvre toute
+      l'Inde vers la mi-juillet.
+  - question: "Combien de pluie reçoivent par an Mawsynram et Cherrapunji, parmi les lieux les plus arrosés du monde ?"
+    options:
+      - "Plus de 11 000 millimètres"
+      - "Environ 500 millimètres"
+      - "Moins de 100 millimètres"
+    answer: 1
+    explanation: >
+      Ces deux villes du nord-est de l'Inde reçoivent chacune plus de 11 000 millimètres
+      de pluie grâce à la mousson.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La mousson est un vent qui change de sens selon la saison. En été, la terre indienne chauffe plus vite que l'océan et attire un air chargé d'humidité, qui déverse des pluies énormes. Plus de la moitié des terres agricoles de l'Inde dépendent de ces pluies.
+
+## Un vent qui change de sens
+
+Le mot « mousson » vient de l'arabe mawsim, qui veut dire « saison ». Il désignait la saison favorable pour naviguer vers les Indes. Il est entré dans la langue française en 1508, en passant par le portugais.
+
+La mousson est un vent qui souffle dans un sens en été et dans l'autre en hiver. Autour de l'océan Indien, il vient du sud-ouest en été et du nord-est en hiver. Le vent d'été arrive de la mer et apporte la pluie. Le vent d'hiver vient de la terre et reste sec.
+
+## La terre chauffe plus vite que la mer
+
+Tout commence par une différence de température. Au soleil, la terre se réchauffe plus vite que l'océan, et elle se refroidit aussi plus vite. Au printemps et en été, l'Inde devient beaucoup plus chaude que la mer qui l'entoure.
+
+Au-dessus de la terre brûlante, l'air chaud s'élève et la pression baisse. L'air de l'océan, plus frais et chargé d'humidité, est aspiré vers l'intérieur des terres. En montant au-dessus du continent, cet air se refroidit. Son humidité se change en nuages, puis en pluies très fortes.
+
+L'Himalaya joue un rôle de mur. Ces montagnes bloquent les vents et les gardent au-dessus du sous-continent indien.
+
+## Le calendrier de la mousson
+
+La mousson d'été arrive sur la côte du Kerala, au sud-ouest de l'Inde, vers le 1er juin. Elle couvre tout le pays vers la mi-juillet. Elle dure jusqu'en septembre et se retire au début du mois d'octobre. Dans les régions touchées, elle peut apporter jusqu'à 80 % des pluies de l'année.
+
+Certains endroits reçoivent des quantités d'eau énormes. Les villes de Mawsynram et de Cherrapunji, dans le nord-est de l'Inde, reçoivent chacune plus de 11 000 millimètres de pluie avec la mousson. Elles sont parmi les lieux les plus arrosés de la Terre.
+
+## Une pluie qui nourrit un pays
+
+En Inde, plus de la moitié des terres agricoles dépendent des pluies de la mousson. Le riz et le coton, par exemple, ont besoin de beaucoup d'eau. Chaque année, la quantité de pluie peut varier d'environ 20 % en plus ou en moins. Quand la mousson arrive en retard ou qu'elle est faible, les récoltes souffrent et des centaines de millions de personnes sont touchées.
+
+D'autres régions du monde connaissent des moussons, en Afrique, en Asie du Sud-Est et en Amérique.
+
+## À retenir
+
+- La mousson est un vent qui change de sens entre l'été et l'hiver.
+- En été, la terre chauffe plus vite que l'océan et attire un air humide qui donne de fortes pluies.
+- La mousson d'été arrive au Kerala vers le 1er juin et se retire début octobre.
+- Mawsynram et Cherrapunji reçoivent chacune plus de 11 000 millimètres de pluie avec la mousson.
+- Plus de la moitié des terres agricoles de l'Inde dépendent de la mousson.
 
 ---
 type: article
@@ -4283,18 +4531,99 @@ status: planned
 
 ---
 type: article
-title: La pression atmospherique et son role dans la meteo
-slug: la-pression-atmospherique-et-son-role-dans-la-meteo
+title: Pourquoi la pression de l'air annonce-t-elle la pluie ou le beau temps ?
+slug: pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
-  Un facteur invisible mais determinant dans la formation du temps qu'il fait.
-tags: [climatologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'air a un poids : il appuie sur tout ce qui se trouve à la surface de la Terre. Là où cette
+  pression est forte, l'air descend et chasse les nuages. Là où elle est faible, l'air monte,
+  se refroidit et forme des nuages qui apportent la pluie.
+tags: [climatologie]
+sources:
+  - title: "Pression atmosphérique"
+    url: "https://fr.wikipedia.org/wiki/Pression_atmosph%C3%A9rique"
+    publisher: "Wikipédia"
+  - title: "Anticyclone"
+    url: "https://fr.wikipedia.org/wiki/Anticyclone"
+    publisher: "Wikipédia"
+  - title: "Dépression (météorologie)"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9pression_(m%C3%A9t%C3%A9orologie)"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle est la pression normale de l'air au niveau de la mer ?"
+    options:
+      - "10 hectopascals"
+      - "1 013,25 hectopascals"
+      - "50 000 hectopascals"
+    answer: 2
+    explanation: >
+      La pression normale au niveau de la mer, à 15 °C, est de 1 013,25 hectopascals.
+  - question: "Quel temps fait-il en général sous un anticyclone ?"
+    options:
+      - "Un temps sec et dégagé"
+      - "Des orages violents"
+      - "De la neige tous les jours"
+    answer: 1
+    explanation: >
+      Dans un anticyclone, l'air descend et se réchauffe, ce qui fait disparaître les
+      nuages.
+  - question: "Que fait l'air au centre d'une dépression ?"
+    options:
+      - "Il s'arrête complètement"
+      - "Il descend vers le sol"
+      - "Il monte et se refroidit"
+    answer: 3
+    explanation: >
+      L'air arrive vers le centre de la dépression puis monte. En montant, il se refroidit
+      et sa vapeur d'eau forme des nuages.
+  - question: "Qui a montré en 1643 que l'air exerce une pression, avec un tube de mercure ?"
+    options:
+      - "Galilée"
+      - "Torricelli"
+      - "Newton"
+    answer: 2
+    explanation: >
+      En 1643, Evangelista Torricelli a utilisé une colonne de mercure pour prouver que
+      l'air pèse et appuie sur nous.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'air a un poids : il appuie sur tout ce qui se trouve à la surface de la Terre. Là où cette pression est forte, l'air descend et chasse les nuages. Là où elle est faible, l'air monte, se refroidit et forme des nuages qui apportent la pluie.
+
+## L'air a un poids
+
+Nous vivons au fond d'un océan d'air. Cet air a un poids : il appuie sur le sol, sur la mer et sur nous. Cette poussée s'appelle la pression atmosphérique. On la mesure avec un baromètre, en hectopascals (hPa).
+
+Au niveau de la mer, à 15 °C, la pression normale vaut 1 013,25 hPa. Elle correspond au poids d'une colonne de mercure haute de 760 millimètres. En 1643, l'Italien Evangelista Torricelli a utilisé une telle colonne pour prouver que l'air pèse.
+
+Plus on monte, moins il y a d'air au-dessus de soi. La pression baisse donc avec l'altitude. Elle est divisée par deux environ tous les 5 500 mètres.
+
+## Les hautes pressions et le beau temps
+
+D'un endroit à l'autre, la pression n'est pas la même. Une zone où elle est plus forte qu'autour s'appelle un anticyclone. Sur les cartes météo, la pression y dépasse souvent 1 013 hPa.
+
+Dans un anticyclone, l'air descend lentement depuis le haut de l'atmosphère. En descendant, il se réchauffe et les nuages se dissipent. Le temps est sec et clair. Les vents sont faibles, surtout au centre. L'anticyclone des Açores, dans l'Atlantique, et l'anticyclone de Sibérie sont parmi les plus connus. Ils reviennent chaque année et influencent le temps de régions entières.
+
+## Les basses pressions et la pluie
+
+Une zone où la pression est plus faible qu'autour s'appelle une dépression. Au ras du sol, l'air converge vers son centre, puis il monte. En montant, il se refroidit. Sa vapeur d'eau se condense alors en gouttelettes : des nuages se forment, puis la pluie tombe. Une dépression annonce donc souvent un ciel couvert et du mauvais temps.
+
+## Des vents qui tournent
+
+Les vents ne vont pas en ligne droite vers le centre d'une dépression. La rotation de la Terre les dévie : c'est l'effet de Coriolis. Dans l'hémisphère nord, ils tournent dans le sens inverse des aiguilles d'une montre autour d'une dépression, et dans le sens des aiguilles d'une montre autour d'un anticyclone. Dans l'hémisphère sud, c'est l'inverse.
+
+La pression la plus haute jamais mesurée est de 1 086,8 hPa, en Mongolie, en 2010. La plus basse est de 870 hPa, près du typhon Tip, en 1979.
+
+## À retenir
+
+- La pression atmosphérique est le poids de l'air qui appuie sur la surface de la Terre.
+- Au niveau de la mer, elle vaut normalement 1 013,25 hectopascals et baisse avec l'altitude.
+- Dans un anticyclone, l'air descend et se réchauffe : le temps est sec et dégagé.
+- Dans une dépression, l'air monte et se refroidit : des nuages et de la pluie se forment.
+- La rotation de la Terre fait tourner les vents autour des anticyclones et des dépressions.
 
 ---
 type: article
@@ -4553,18 +4882,97 @@ status: planned
 
 ---
 type: article
-title: Le cycle de l'eau, mecanisme complet
-slug: le-cycle-de-l-eau-mecanisme-complet
+title: Comment la même eau voyage-t-elle sans fin entre la mer, le ciel et la terre ?
+slug: comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre
 categoryPath: geographie-et-territoires/geographie-physique/hydrographie
 summary: >
-  Comment l'eau circule en permanence entre oceans, atmosphere et sols.
-tags: [hydrographie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'eau de la Terre ne disparaît pas : elle change sans cesse de place et d'état. Le Soleil la
+  fait s'évaporer, elle forme des nuages, retombe en pluie ou en neige, puis rejoint la mer
+  par les rivières ou le sol. Ce grand voyage s'appelle le cycle de l'eau.
+tags: [hydrographie]
+sources:
+  - title: "Cycle de l'eau"
+    url: "https://fr.wikipedia.org/wiki/Cycle_de_l%27eau"
+    publisher: "Wikipédia"
+  - title: "Water cycle"
+    url: "https://en.wikipedia.org/wiki/Water_cycle"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle part de l'eau de la Terre se trouve dans les océans ?"
+    options:
+      - "Environ 3 %"
+      - "Environ 50 %"
+      - "Environ 97 %"
+    answer: 3
+    explanation: >
+      Les océans contiennent environ 97 % de l'eau de la planète. Les glaces en gardent
+      environ 2 %.
+  - question: "Quel est le « moteur » du cycle de l'eau ?"
+    options:
+      - "L'énergie du Soleil"
+      - "Le vent des volcans"
+      - "La rotation de la Lune"
+    answer: 1
+    explanation: >
+      C'est la chaleur du Soleil qui fait s'évaporer l'eau. Tous les autres échanges en
+      découlent.
+  - question: "Combien de temps une molécule d'eau reste-t-elle en moyenne dans l'atmosphère ?"
+    options:
+      - "Environ 9 heures"
+      - "Environ 9 jours"
+      - "Environ 9 ans"
+    answer: 2
+    explanation: >
+      En moyenne, l'eau ne reste qu'environ 9 jours dans l'air avant de retomber en pluie
+      ou en neige.
+  - question: "Comment appelle-t-on l'eau qui pénètre dans le sol ?"
+    options:
+      - "L'infiltration"
+      - "La condensation"
+      - "L'évaporation"
+    answer: 1
+    explanation: >
+      L'infiltration est le passage de l'eau dans le sol. Elle remplit les nappes d'eau
+      souterraines.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'eau de la Terre ne disparaît pas : elle change sans cesse de place et d'état. Le Soleil la fait s'évaporer, elle forme des nuages, retombe en pluie ou en neige, puis rejoint la mer par les rivières ou le sol. Ce grand voyage s'appelle le cycle de l'eau.
+
+## Toujours la même eau
+
+L'eau de la Terre ne s'use pas. Elle passe d'un endroit à un autre et change d'état : liquide, solide ou gazeuse. Ce voyage sans fin s'appelle le cycle de l'eau.
+
+Les océans contiennent environ 97 % de toute l'eau de la planète. Les glaciers et les calottes de glace en gardent environ 2 %. Les eaux souterraines en représentent moins de 1 %. Les lacs, les rivières et l'air n'en contiennent qu'une toute petite part.
+
+## Le Soleil met tout en route
+
+Le moteur du cycle est l'énergie du Soleil. Sa chaleur fait passer l'eau de la mer, des lacs et du sol à l'état de vapeur : c'est l'évaporation. Les plantes rejettent aussi de la vapeur d'eau par leurs feuilles : c'est la transpiration. Environ 86 % de l'évaporation de la planète a lieu au-dessus des océans.
+
+## Des nuages à la pluie
+
+La vapeur d'eau est invisible. En montant, elle se refroidit. Elle se transforme alors en minuscules gouttelettes ou en cristaux de glace : c'est la condensation. Ces gouttelettes forment les nuages.
+
+Quand les gouttes deviennent trop lourdes, elles tombent. Ce sont les précipitations : pluie, neige ou grêle. Environ 78 % des précipitations retombent directement sur les océans. En moyenne, l'eau ne reste qu'environ 9 jours dans l'atmosphère avant de redescendre.
+
+## Le retour vers la mer
+
+Sur les continents, une partie de l'eau de pluie glisse à la surface du sol. C'est le ruissellement : l'eau rejoint les ruisseaux, puis les rivières et les fleuves, et enfin la mer. Une autre partie s'enfonce dans la terre : c'est l'infiltration. Elle remplit des réserves d'eau souterraines, appelées nappes.
+
+Selon l'endroit où elle se trouve, l'eau voyage plus ou moins vite. Une goutte peut rester environ 3 200 ans dans l'océan avant d'en ressortir. Sous terre, certaines eaux restent plus de 10 000 ans.
+
+Les activités humaines modifient ce cycle. Les villes, la coupe des forêts et le pompage des nappes changent la façon dont l'eau circule. Le réchauffement du climat augmente l'évaporation et rend les fortes pluies plus fréquentes.
+
+## À retenir
+
+- Le cycle de l'eau est le voyage sans fin de l'eau entre les océans, l'air et les continents.
+- Les océans contiennent environ 97 % de l'eau de la Terre.
+- La chaleur du Soleil fait s'évaporer l'eau, qui se condense en nuages puis retombe en précipitations.
+- L'eau reste en moyenne environ 9 jours dans l'atmosphère, mais environ 3 200 ans dans l'océan.
+- Sur terre, l'eau ruisselle vers les rivières ou s'infiltre dans le sol jusqu'aux nappes.
 
 ---
 type: article
@@ -4643,18 +5051,102 @@ status: planned
 
 ---
 type: article
-title: Les deltas fluviaux, formation et importance agricole
-slug: les-deltas-fluviaux-formation-et-importance-agricole
+title: Comment un fleuve fabrique-t-il de nouvelles terres à son embouchure ?
+slug: comment-un-fleuve-fabrique-t-il-de-nouvelles-terres-a-son-embouchure
 categoryPath: geographie-et-territoires/geographie-physique/hydrographie
 summary: >
-  Des zones tres fertiles formees par l'accumulation de sediments a l'embouchure.
-tags: [hydrographie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un fleuve transporte du sable et de la boue. En arrivant dans la mer, il ralentit et dépose
+  ces sédiments, qui forment peu à peu une terre nouvelle en éventail : un delta. Ces terres
+  sont très fertiles, mais elles sont menacées par les barrages et la montée de la mer.
+tags: [hydrographie]
+sources:
+  - title: "River delta"
+    url: "https://en.wikipedia.org/wiki/River_delta"
+    publisher: "Wikipedia"
+  - title: "Delta du Nil"
+    url: "https://fr.wikipedia.org/wiki/Delta_du_Nil"
+    publisher: "Wikipédia"
+  - title: "Ganges Delta"
+    url: "https://en.wikipedia.org/wiki/Ganges_Delta"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi un fleuve dépose-t-il ses sédiments en arrivant dans la mer ?"
+    options:
+      - "Parce que l'eau de mer les dissout"
+      - "Parce que son courant ralentit"
+      - "Parce que le vent les arrête"
+    answer: 2
+    explanation: >
+      En entrant dans une eau calme, le fleuve perd sa vitesse. Le sable et la boue qu'il
+      transportait tombent au fond.
+  - question: "D'où vient le nom « delta » ?"
+    options:
+      - "D'une lettre grecque en forme de triangle"
+      - "D'un dieu égyptien"
+      - "D'un mot latin qui veut dire boue"
+    answer: 1
+    explanation: >
+      La forme triangulaire du delta du Nil rappelait la lettre grecque delta, qui s'écrit
+      Δ.
+  - question: "Quel est le plus grand delta du monde ?"
+    options:
+      - "Le delta du Rhône"
+      - "Le delta du Nil"
+      - "Le delta du Gange et du Brahmapoutre"
+    answer: 3
+    explanation: >
+      Le delta du Gange et du Brahmapoutre, au Bangladesh et en Inde, couvre plus de 105
+      000 km².
+  - question: "Pourquoi les barrages menacent-ils les deltas ?"
+    options:
+      - "Ils retiennent les sédiments qui nourrissent le delta"
+      - "Ils rendent l'eau trop chaude"
+      - "Ils attirent les requins"
+    answer: 1
+    explanation: >
+      Un barrage bloque le sable et la boue en amont. Le delta ne reçoit plus assez de
+      sédiments et recule face à la mer.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un fleuve transporte du sable et de la boue. En arrivant dans la mer, il ralentit et dépose ces sédiments, qui forment peu à peu une terre nouvelle en éventail : un delta. Ces terres sont très fertiles, mais elles sont menacées par les barrages et la montée de la mer.
+
+## Un fleuve chargé de terre
+
+Un fleuve ne transporte pas que de l'eau. Il charrie aussi du sable, de la boue et des petits cailloux arrachés aux montagnes et aux berges. On appelle ces matériaux des sédiments.
+
+Tant que le courant est rapide, les sédiments restent en suspension dans l'eau. Mais quand le fleuve se jette dans une mer calme ou dans un lac, il ralentit d'un coup. Il n'a plus la force de porter sa charge. Le sable et la boue tombent au fond et s'accumulent.
+
+## Une terre qui grandit
+
+Année après année, les dépôts s'empilent et finissent par sortir de l'eau. Une terre nouvelle apparaît. Le fleuve doit alors contourner ses propres dépôts. Il se divise en plusieurs bras qui s'écartent en éventail. Ce paysage s'appelle un delta.
+
+Le nom vient de la lettre grecque delta, qui s'écrit Δ. La forme en triangle du delta du Nil rappelait cette lettre.
+
+## Des terres très fertiles
+
+Les sédiments déposés par le fleuve forment un sol riche en minéraux. C'est pourquoi les deltas sont parmi les terres les plus fertiles du monde. Ils offrent aussi de l'eau douce et un accès à la mer pour le commerce.
+
+Le delta du Nil, en Égypte, commence à environ 150 kilomètres au nord du Caire. Il couvre environ 24 000 km². On y cultive la terre depuis près de 5 000 ans. Il est aujourd'hui la région la plus peuplée d'Égypte. Le Nil y avait autrefois plusieurs bras. Il n'en reste que deux : celui de Rosette et celui de Damiette.
+
+Le plus grand delta du monde est celui du Gange et du Brahmapoutre. Il couvre plus de 105 000 km², au Bangladesh et en Inde. On le surnomme le « delta vert ». On y cultive surtout du riz, du jute et du thé. Sur sa côte s'étend la mangrove des Sundarbans, où vivent des tigres du Bengale.
+
+## Des deltas en danger
+
+Les deltas sont fragiles. Les barrages construits sur les fleuves retiennent une grande partie des sédiments. Le delta ne reçoit plus assez de matière pour se maintenir, et la mer grignote ses côtes. Les deltas du Nil et du Colorado en ont beaucoup souffert.
+
+Le pompage de l'eau souterraine et l'extraction de sable font aussi s'enfoncer le sol. Avec la montée du niveau de la mer, l'eau salée envahit des champs. Les deltas sont aussi exposés aux cyclones et aux inondations.
+
+## À retenir
+
+- Un delta se forme quand un fleuve ralentit en arrivant dans la mer et dépose ses sédiments.
+- Le fleuve se divise alors en plusieurs bras qui s'ouvrent en éventail.
+- Le nom vient de la lettre grecque Δ, qui rappelle la forme du delta du Nil.
+- Les deltas sont très fertiles : le plus grand, celui du Gange et du Brahmapoutre, dépasse 105 000 km².
+- Les barrages, l'enfoncement du sol et la montée de la mer menacent les deltas.
 
 ---
 type: article
@@ -5333,18 +5825,98 @@ status: planned
 
 ---
 type: article
-title: Les terrasses agricoles, adapter le relief a la culture
-slug: les-terrasses-agricoles-adapter-le-relief-a-la-culture
+title: Comment les terrasses permettent-elles de cultiver sur une montagne ?
+slug: comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
-  Une technique ancienne pour cultiver efficacement des pentes trop raides autrement.
-tags: [reliefs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Sur une pente, la pluie emporte la terre et l'eau file vers le bas. Les paysans taillent
+  alors la colline en marches plates, retenues par des murets. Ces terrasses gardent le sol et
+  l'eau, et permettent de cultiver même du riz en montagne.
+tags: [reliefs]
+sources:
+  - title: "Culture en terrasses"
+    url: "https://fr.wikipedia.org/wiki/Culture_en_terrasses"
+    publisher: "Wikipédia"
+  - title: "Terrace (earthworks)"
+    url: "https://en.wikipedia.org/wiki/Terrace_(earthworks)"
+    publisher: "Wikipedia"
+  - title: "Rizières en terrasses des cordillères des Philippines"
+    url: "https://fr.wikipedia.org/wiki/Rizi%C3%A8res_en_terrasses_des_cordill%C3%A8res_des_Philippines"
+    publisher: "Wikipédia"
+quiz:
+  - question: "À quoi ressemble une colline aménagée en terrasses ?"
+    options:
+      - "À un escalier géant"
+      - "À une pente lisse"
+      - "À un cratère"
+    answer: 1
+    explanation: >
+      Les terrasses sont des plateformes plates construites les unes au-dessus des autres.
+      Vues de loin, elles forment un escalier.
+  - question: "Que fait la pluie sur une pente sans terrasses ?"
+    options:
+      - "Elle reste sur place"
+      - "Elle dévale vite et emporte la terre"
+      - "Elle se change en neige"
+    answer: 2
+    explanation: >
+      Sur une pente nue, l'eau ruisselle vite et arrache le sol : c'est l'érosion. Les
+      terrasses freinent l'eau et gardent la terre.
+  - question: "Quel âge ont environ les rizières en terrasses des Ifugao, aux Philippines ?"
+    options:
+      - "50 ans"
+      - "500 ans"
+      - "2 000 ans"
+    answer: 3
+    explanation: >
+      Les Ifugao cultivent ces rizières depuis environ 2 000 ans, avec des techniques
+      transmises de génération en génération.
+  - question: "Pourquoi beaucoup de terrasses sont-elles abandonnées dans les pays riches ?"
+    options:
+      - "Elles demandent beaucoup de travail et les campagnes se vident"
+      - "Le riz y est interdit"
+      - "Elles ont été inondées par la mer"
+    answer: 1
+    explanation: >
+      Les terrasses doivent être entretenues sans cesse à la main. Quand les habitants
+      quittent la campagne, plus personne ne s'en occupe.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sur une pente, la pluie emporte la terre et l'eau file vers le bas. Les paysans taillent alors la colline en marches plates, retenues par des murets. Ces terrasses gardent le sol et l'eau, et permettent de cultiver même du riz en montagne.
+
+## Le problème des pentes
+
+Sur une colline, la pluie ne reste pas en place. Elle dévale la pente, prend de la vitesse et emporte la terre. Ce phénomène s'appelle l'érosion. Sur un sol en pente, il est aussi difficile de labourer, de semer et de récolter.
+
+## Un escalier taillé dans la colline
+
+Pour cultiver quand même, les paysans transforment la pente en marches. Chaque marche est une petite plateforme horizontale : une terrasse. Sur une pente douce, un simple talus de terre suffit à la tenir. Sur une pente raide, on construit un mur de pierres sèches, c'est-à-dire des pierres posées sans ciment. En Provence, ces murets s'appellent des restanques.
+
+Sur une marche plate, l'eau de pluie ralentit. Elle a le temps de s'enfoncer dans le sol au lieu de ruisseler. La terre reste en place et garde son humidité. Les terrasses permettent aussi d'inonder des champs pour cultiver le riz, qui a besoin de beaucoup d'eau.
+
+## Une invention très ancienne
+
+Les hommes construisent des terrasses depuis des milliers d'années. Au Proche-Orient, on en trouve des traces dès le 4e millénaire avant notre ère. Dans les montagnes du Yémen, des terrasses datent du 3e millénaire avant notre ère.
+
+En Amérique du Sud, le peuple Wari bâtissait des terrasses avant l'an 1000. Les Incas les ont adoptées ensuite. Ils y ajoutaient des canaux pour amener l'eau, par exemple autour de Machu Picchu.
+
+## Des paysages célèbres
+
+Aux Philippines, le peuple Ifugao cultive des rizières en terrasses depuis environ 2 000 ans. Elles grimpent sur des pentes très raides. Des canaux amènent l'eau des forêts du sommet jusqu'aux champs. Ces rizières sont inscrites au patrimoine mondial de l'Unesco depuis 1995. En Chine, les terrasses de Yuanyang, dans la province du Yunnan, sont aussi très connues. En France, on en voit dans les Cévennes.
+
+Les terrasses demandent beaucoup de main-d'œuvre. Il faut sans cesse réparer les murs et entretenir les canaux. Dans les régions où les campagnes se vident, beaucoup sont abandonnées. Aux îles Canaries, des chercheurs ont observé que les terrasses abandonnées abritent plus d'espèces de plantes que les pentes naturelles voisines.
+
+## À retenir
+
+- Une terrasse est une plateforme plate taillée dans une pente, comme une marche d'escalier.
+- Les terrasses freinent l'eau de pluie, qui s'infiltre au lieu d'emporter la terre.
+- Elles sont tenues par des talus ou par des murs de pierres sèches.
+- Les rizières en terrasses des Ifugao, aux Philippines, ont environ 2 000 ans.
+- Les terrasses demandent beaucoup d'entretien et sont abandonnées quand les campagnes se vident.
 
 ---
 type: article
@@ -5933,18 +6505,98 @@ status: planned
 
 ---
 type: article
-title: Le sable, une ressource qui s'epuise plus vite qu'on ne le pense
-slug: le-sable-une-ressource-qui-s-epuise-plus-vite-qu-on-ne-le-pense
+title: Pourquoi le monde pourrait-il manquer de sable ?
+slug: pourquoi-le-monde-pourrait-il-manquer-de-sable
 categoryPath: geographie-et-territoires/geopolitique/ressources
 summary: >
-  Un materiau ordinaire mais essentiel a la construction, dont la demande depasse le renouvellement.
-tags: [ressources, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le sable semble infini, mais c'est la ressource la plus utilisée par l'humanité après l'eau.
+  Chaque année, on en extrait environ 50 milliards de tonnes, surtout pour le béton. On en
+  prélève plus vite que la nature n'en fabrique, et le sable des déserts ne convient pas.
+tags: [ressources]
+sources:
+  - title: "Sable"
+    url: "https://fr.wikipedia.org/wiki/Sable"
+    publisher: "Wikipédia"
+  - title: "Our use of sand brings us up against the wall"
+    url: "https://www.unep.org/news-and-stories/press-release/our-use-sand-brings-us-against-wall-says-unep-report"
+    publisher: "Programme des Nations unies pour l'environnement"
+  - title: "Sand mining"
+    url: "https://en.wikipedia.org/wiki/Sand_mining"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la ressource la plus utilisée par l'humanité après l'eau ?"
+    options:
+      - "Le pétrole"
+      - "Le sable et le gravier"
+      - "Le fer"
+    answer: 2
+    explanation: >
+      Selon le Programme des Nations unies pour l'environnement, le sable et le gravier
+      sont la ressource la plus utilisée après l'eau.
+  - question: "Pourquoi le sable du désert ne sert-il pas à faire du béton ?"
+    options:
+      - "Ses grains sont trop ronds et trop lisses"
+      - "Il est trop chaud"
+      - "Il contient trop de sel"
+    answer: 1
+    explanation: >
+      Poli par le vent, le sable du désert a des grains trop ronds, trop fins et trop
+      lisses. Ils ne s'accrochent pas entre eux.
+  - question: "Combien de sable et de gravier le monde extrait-il chaque année ?"
+    options:
+      - "Environ 50 tonnes"
+      - "Environ 50 000 tonnes"
+      - "Environ 50 milliards de tonnes"
+    answer: 3
+    explanation: >
+      Le PNUE estimait en 2022 que l'humanité extrait environ 50 milliards de tonnes de
+      sable et de gravier par an.
+  - question: "Que propose le PNUE pour protéger le sable ?"
+    options:
+      - "Construire uniquement en sable du désert"
+      - "Interdire de prendre le sable des plages et recycler les gravats"
+      - "Arrêter de construire des routes"
+    answer: 2
+    explanation: >
+      Le PNUE recommande d'interdire l'extraction sur les plages et de remplacer une
+      partie du sable par des matériaux recyclés ou de la roche concassée.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le sable semble infini, mais c'est la ressource la plus utilisée par l'humanité après l'eau. Chaque année, on en extrait environ 50 milliards de tonnes, surtout pour le béton. On en prélève plus vite que la nature n'en fabrique, et le sable des déserts ne convient pas.
+
+## Qu'est-ce que le sable ?
+
+Le sable est fait de tout petits grains, entre 0,063 et 2 millimètres. Ils viennent surtout de roches usées par l'eau, le vent et le gel pendant très longtemps. Le minéral le plus courant dans le sable est le quartz. Certains sables contiennent aussi des morceaux de coquillages ou de corail.
+
+## Le matériau caché partout
+
+Le sable sert à fabriquer le béton et le mortier, qui tiennent nos maisons, nos routes et nos ponts. On en fait aussi du verre. Le silicium des puces électroniques vient lui aussi du sable. Le sable sert encore à filtrer l'eau potable.
+
+Selon le Programme des Nations unies pour l'environnement (PNUE), l'humanité extrait environ 50 milliards de tonnes de sable et de gravier chaque année. C'est la ressource la plus utilisée après l'eau. Avec cette quantité, on pourrait construire un mur de 27 mètres de haut et de 27 mètres de large tout autour de la Terre.
+
+## Le désert ne suffit pas
+
+On pourrait croire que les déserts offrent une réserve infinie. Mais leur sable a été roulé par le vent pendant des milliers d'années. Ses grains sont trop ronds, trop fins et trop lisses. Ils ne s'accrochent pas entre eux et ne permettent pas de faire du béton solide.
+
+Les constructeurs préfèrent donc le sable des rivières, des côtes et des fonds marins. Ses grains sont plus anguleux. Mais ce sable se renouvelle lentement, et on le prélève plus vite que la nature n'en apporte.
+
+## Des rivières et des plages abîmées
+
+Prendre le sable des rivières et des côtes a des conséquences. Les berges et les plages s'érodent. L'eau salée peut pénétrer dans les nappes d'eau douce. Les côtes sont moins protégées contre les tempêtes. Des animaux perdent leur habitat. En Inde, l'extraction de sable a contribué au déclin du gavial, un crocodile au long museau. Dans ce pays, le trafic illégal de sable est devenu une grande activité criminelle.
+
+En avril 2022, le PNUE a publié des recommandations. Il propose d'interdire l'extraction de sable sur les plages. Il conseille aussi d'utiliser à la place des gravats de démolition recyclés, de la roche concassée ou des résidus de mines.
+
+## À retenir
+
+- Le sable est fait de grains de 0,063 à 2 millimètres, souvent de quartz.
+- L'humanité extrait environ 50 milliards de tonnes de sable et de gravier par an.
+- C'est la ressource la plus utilisée après l'eau, surtout pour le béton.
+- Le sable du désert, aux grains trop ronds et lisses, ne permet pas de faire du béton.
+- Extraire le sable des rivières et des côtes provoque de l'érosion et abîme les milieux naturels.
 
 ---
 type: article
@@ -6383,18 +7035,100 @@ status: planned
 
 ---
 type: article
-title: Le canal de Panama, relier deux oceans
-slug: le-canal-de-panama-relier-deux-oceans
+title: Comment le canal de Panama fait-il passer les navires d'un océan à l'autre ?
+slug: comment-le-canal-de-panama-fait-il-passer-les-navires-d-un-ocean-a-l-autre
 categoryPath: geographie-et-territoires/geopolitique/routes-et-detroits
 summary: >
-  Une prouesse d'ingenierie qui evite un long detour par le sud du continent americain.
-tags: [routes-et-detroits, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le canal de Panama relie l'océan Atlantique et l'océan Pacifique à travers l'Amérique
+  centrale. Des écluses font monter les navires jusqu'à un lac artificiel situé à 26 mètres
+  d'altitude, puis les font redescendre de l'autre côté. Tout fonctionne grâce à l'eau de
+  pluie stockée dans ce lac.
+tags: [routes-et-detroits]
+sources:
+  - title: "Canal de Panama"
+    url: "https://fr.wikipedia.org/wiki/Canal_de_Panama"
+    publisher: "Wikipédia"
+  - title: "Panama Canal locks"
+    url: "https://en.wikipedia.org/wiki/Panama_Canal_locks"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quand le canal de Panama a-t-il ouvert ?"
+    options:
+      - "Le 15 août 1914"
+      - "Le 1er janvier 1882"
+      - "Le 31 décembre 1999"
+    answer: 1
+    explanation: >
+      Le canal a été inauguré le 15 août 1914, après l'échec des Français et dix ans de
+      travaux américains.
+  - question: "Comment l'eau remplit-elle une écluse du canal ?"
+    options:
+      - "Avec d'énormes pompes"
+      - "Par gravité, en descendant du lac"
+      - "Avec l'eau de la marée"
+    answer: 2
+    explanation: >
+      L'eau descend toute seule du lac Gatún vers les écluses, par des conduites. Aucune
+      pompe n'est nécessaire.
+  - question: "Comment s'appellent les petites locomotives qui guident les navires dans les écluses ?"
+    options:
+      - "Les chevaux"
+      - "Les ânes"
+      - "Les mules"
+    answer: 3
+    explanation: >
+      On les appelle « mulas », les mules, en souvenir des animaux qui traversaient
+      autrefois l'isthme.
+  - question: "Pourquoi le canal a-t-il dû limiter le nombre de navires en 2023 ?"
+    options:
+      - "À cause d'une sécheresse qui a fait baisser le lac Gatún"
+      - "À cause d'un tremblement de terre"
+      - "À cause d'une grève des marins"
+    answer: 1
+    explanation: >
+      Octobre 2023 a été le mois le plus sec jamais mesuré dans la région. Le lac manquait
+      d'eau pour faire fonctionner les écluses.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le canal de Panama relie l'océan Atlantique et l'océan Pacifique à travers l'Amérique centrale. Des écluses font monter les navires jusqu'à un lac artificiel situé à 26 mètres d'altitude, puis les font redescendre de l'autre côté. Tout fonctionne grâce à l'eau de pluie stockée dans ce lac.
+
+## Un raccourci entre deux océans
+
+Le canal de Panama traverse l'Amérique centrale sur environ 80 kilomètres. Il relie l'océan Atlantique et l'océan Pacifique. Sans lui, les navires devraient faire le tour de l'Amérique du Sud.
+
+Les Français ont été les premiers à essayer de le creuser, à partir de 1881, sous la direction de Ferdinand de Lesseps. Ils voulaient un canal au niveau de la mer, sans écluses. Le paludisme, la fièvre jaune et les crues du fleuve Chagres ont fait échouer le projet en 1889. Les États-Unis ont repris le chantier et ouvert le canal le 15 août 1914. Plus de 22 000 travailleurs sont morts pendant la construction, surtout de maladies. Le Panama contrôle le canal depuis le 31 décembre 1999.
+
+## Un escalier pour bateaux
+
+Au milieu de l'isthme, le terrain est trop haut pour creuser un canal au niveau de la mer. Les ingénieurs ont donc construit un barrage sur le fleuve Chagres. Il a créé un grand lac artificiel, le lac Gatún. Les navires y naviguent à environ 26 mètres au-dessus de la mer.
+
+Pour monter et descendre, les navires passent par des écluses. Une écluse est un bassin fermé par deux portes. Le navire entre, les portes se ferment, puis on remplit le bassin d'eau. Le navire monte avec l'eau, comme un jouet dans une baignoire. Quand l'eau est au niveau du bassin suivant, la porte s'ouvre et il avance. Pour descendre, on vide le bassin.
+
+Côté Atlantique, les écluses de Gatún comptent trois marches. Côté Pacifique, il y a l'écluse de Pedro Miguel puis celles de Miraflores.
+
+## L'eau descend toute seule
+
+Il n'y a aucune pompe. L'eau du lac descend par gravité dans de grands tuyaux sous les bassins. Un bassin peut être rempli en dix minutes seulement. De petites locomotives électriques, appelées « mulas », c'est-à-dire mules, guident les navires et les gardent bien au centre.
+
+Chaque traversée envoie environ 197 000 m³ d'eau douce dans la mer. Un cargo met en moyenne environ neuf heures pour franchir le canal. En temps normal, une quarantaine de navires passent chaque jour.
+
+## Plus grand, mais assoiffé
+
+De nouvelles écluses, plus grandes, ont ouvert le 26 juin 2016. Elles mesurent 427 mètres de long et 55 mètres de large. Des bassins y récupèrent 60 % de l'eau à chaque passage.
+
+Mais le canal dépend de la pluie. Octobre 2023 a été le mois le plus sec jamais mesuré dans la région. Le lac Gatún a baissé, et le nombre de passages a été limité pendant plusieurs mois.
+
+## À retenir
+
+- Le canal de Panama relie l'Atlantique et le Pacifique sur environ 80 kilomètres.
+- Il a ouvert le 15 août 1914, et le Panama le contrôle depuis le 31 décembre 1999.
+- Des écluses font monter les navires jusqu'au lac Gatún, à environ 26 mètres d'altitude.
+- L'eau remplit les écluses par gravité, sans pompe, et environ 197 000 m³ partent à la mer à chaque traversée.
+- En cas de sécheresse, le lac baisse et le nombre de navires doit être limité.
 
 ---
 type: article
@@ -8798,18 +9532,96 @@ status: planned
 
 ---
 type: article
-title: Les frontieres maritimes et les regles internationales qui les definissent
-slug: les-frontieres-maritimes-et-les-regles-internationales-qui-les-definissent
+title: Comment partage-t-on la mer entre les pays ?
+slug: comment-partage-t-on-la-mer-entre-les-pays
 categoryPath: geographie-et-territoires/geopolitique/frontieres
 summary: >
-  Un cadre juridique specifique qui organise les limites en mer entre pays voisins.
-tags: [frontieres, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Depuis 1982, une convention des Nations unies fixe des règles pour partager la mer. Plus on
+  s'éloigne de la côte, moins un pays a de droits. Jusqu'à 200 milles marins, soit environ 370
+  kilomètres, il peut exploiter seul les poissons, le pétrole et les minerais.
+tags: [frontieres]
+sources:
+  - title: "Convention des Nations unies sur le droit de la mer"
+    url: "https://fr.wikipedia.org/wiki/Convention_des_Nations_unies_sur_le_droit_de_la_mer"
+    publisher: "Wikipédia"
+  - title: "Zone économique exclusive"
+    url: "https://fr.wikipedia.org/wiki/Zone_%C3%A9conomique_exclusive"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Dans quelle ville a été signée la convention des Nations unies sur le droit de la mer, en 1982 ?"
+    options:
+      - "Genève"
+      - "New York"
+      - "Montego Bay"
+    answer: 3
+    explanation: >
+      La convention a été signée le 10 décembre 1982 à Montego Bay, en Jamaïque.
+  - question: "Jusqu'où s'étend la mer territoriale d'un pays ?"
+    options:
+      - "12 milles marins"
+      - "1 mille marin"
+      - "1 000 milles marins"
+    answer: 1
+    explanation: >
+      La mer territoriale s'étend jusqu'à 12 milles marins de la côte. Le pays y est
+      presque comme chez lui sur terre.
+  - question: "Que peut faire un pays dans sa zone économique exclusive ?"
+    options:
+      - "Interdire à tout navire de passer"
+      - "Exploiter seul les poissons, le pétrole et les minerais"
+      - "Construire une frontière en béton"
+    answer: 2
+    explanation: >
+      Dans sa zone économique exclusive, un pays a le droit d'exploiter les ressources
+      naturelles. Les navires étrangers peuvent toujours y naviguer.
+  - question: "Pourquoi la France a-t-elle l'une des plus grandes zones économiques exclusives du monde ?"
+    options:
+      - "Grâce à ses îles et territoires d'outre-mer"
+      - "Grâce à la longueur de la Seine"
+      - "Parce qu'elle a creusé des canaux"
+    answer: 1
+    explanation: >
+      Ses territoires d'outre-mer, comme la Polynésie française ou les Kerguelen, sont
+      entourés d'immenses zones marines.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Depuis 1982, une convention des Nations unies fixe des règles pour partager la mer. Plus on s'éloigne de la côte, moins un pays a de droits. Jusqu'à 200 milles marins, soit environ 370 kilomètres, il peut exploiter seul les poissons, le pétrole et les minerais.
+
+## Une loi pour les océans
+
+La mer couvre la plus grande partie de la planète. Elle cache des poissons, du pétrole, du gaz et des minerais. Pour éviter les disputes, les pays ont signé une convention des Nations unies sur le droit de la mer. Elle a été signée le 10 décembre 1982 à Montego Bay, en Jamaïque. Elle s'applique depuis le 16 novembre 1994. Plus de 170 parties l'ont acceptée, mais pas les États-Unis.
+
+Tout part d'une ligne tracée le long de la côte, appelée ligne de base. Les distances sont comptées à partir d'elle, en milles marins. Selon la convention, 200 milles marins font environ 370 kilomètres.
+
+## Des zones de plus en plus larges
+
+Jusqu'à 12 milles marins de la côte s'étend la mer territoriale. Le pays y fait ses propres lois, presque comme sur son sol. Les navires étrangers ont tout de même le droit de la traverser sans s'arrêter, s'ils ne menacent pas le pays. C'est le droit de passage inoffensif.
+
+Jusqu'à 24 milles marins se trouve la zone contiguë. Le pays peut y faire des contrôles, par exemple contre la contrebande.
+
+Jusqu'à 200 milles marins s'étend la zone économique exclusive, ou ZEE. Le pays y a seul le droit de pêcher et d'exploiter le pétrole, le gaz ou les minerais du fond. Les autres navires peuvent pourtant y circuler librement. L'idée est née dans les années 1940, quand le Chili et le Pérou ont réclamé des zones de 200 milles pour protéger leur pêche.
+
+Au-delà commence la haute mer. Elle n'appartient à aucun pays.
+
+## Quand deux pays sont voisins
+
+Parfois, deux côtes sont trop proches pour que chaque pays ait ses 200 milles. On trace alors souvent une ligne à égale distance des deux côtes, appelée ligne médiane. En cas de désaccord, les pays peuvent s'adresser au Tribunal international du droit de la mer, installé à Hambourg, en Allemagne.
+
+## Les champions de la mer
+
+Grâce à ces règles, un pays avec beaucoup d'îles peut contrôler une très grande surface de mer. La plus grande zone économique exclusive est celle des États-Unis, avec environ 11,4 millions de km². La France arrive juste derrière, avec environ 10,2 millions de km². Elle le doit surtout à ses territoires d'outre-mer, dispersés dans les océans Pacifique, Indien et Atlantique, comme la Polynésie française ou les îles Kerguelen.
+
+## À retenir
+
+- La convention des Nations unies sur le droit de la mer a été signée en 1982 à Montego Bay.
+- La mer territoriale s'étend jusqu'à 12 milles marins de la côte.
+- La zone économique exclusive va jusqu'à 200 milles marins, environ 370 kilomètres.
+- Dans sa ZEE, un pays exploite seul les ressources, mais les navires étrangers peuvent passer.
+- Grâce à l'outre-mer, la France possède la deuxième plus grande ZEE du monde.
 
 ---
 type: article

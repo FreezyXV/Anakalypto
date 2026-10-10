@@ -6377,33 +6377,194 @@ status: planned
 
 ---
 type: article
-title: Les jeux video comme terrain d'entrainement privilegie pour l'apprentissage par renforcement
-slug: les-jeux-video-comme-terrain-d-entrainement-privilegie-pour-l-apprentissage-par-renforcement
+title: Comment une IA a-t-elle appris seule à jouer à des jeux vidéo Atari ?
+slug: comment-une-ia-a-t-elle-appris-seule-a-jouer-a-des-jeux-video-atari
 categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
 summary: >
-  Un environnement controle et repetable particulierement adapte au test de ces methodes.
-tags: [apprentissage-par-renforcement, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En 2013, des chercheurs de DeepMind ont présenté une IA qui apprend à jouer en regardant
+  seulement les pixels de l'écran et le score. En 2015, des versions de cette IA ont été
+  entraînées sur 50 jeux de la console Atari 2600. Les jeux vidéo sont un bon terrain
+  d'entraînement, car le score sert de récompense et l'on peut rejouer sans fin.
+tags: [apprentissage-par-renforcement]
+sources:
+  - title: "Deep reinforcement learning"
+    url: "https://deepmind.google/discover/blog/deep-reinforcement-learning/"
+    publisher: "Google DeepMind"
+  - title: "Playing Atari with Deep Reinforcement Learning"
+    url: "https://arxiv.org/abs/1312.5602"
+    publisher: "arXiv"
+  - title: "OpenAI Five"
+    url: "https://en.wikipedia.org/wiki/OpenAI_Five"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que voyait l'IA de DeepMind pour apprendre à jouer ?"
+    options:
+      - "Les règles écrites du jeu"
+      - "Les pixels de l'écran et le score"
+      - "Des vidéos de champions"
+    answer: 2
+    explanation: >
+      L'IA recevait seulement l'image de l'écran, pixel par pixel, et le score, qui lui
+      servait de récompense.
+  - question: "Sur combien de jeux Atari la version de 2015 a-t-elle été testée ?"
+    options:
+      - "5"
+      - "500"
+      - "50"
+    answer: 3
+    explanation: >
+      DeepMind a entraîné des agents sur 50 jeux Atari différents. Ils ont atteint le
+      niveau humain dans presque la moitié d'entre eux.
+  - question: "À quoi sert la « relecture d'expériences » ?"
+    options:
+      - "À réutiliser au hasard des moments déjà vécus pour apprendre"
+      - "À enregistrer les parties pour les montrer aux joueurs"
+      - "À accélérer la console"
+    answer: 1
+    explanation: >
+      L'IA garde ses expériences en mémoire et en tire des exemples au hasard. Cela rend
+      l'apprentissage plus stable.
+  - question: "Combien d'années de jeu OpenAI Five avait-il accumulées en 2018 en jouant contre lui-même ?"
+    options:
+      - "Environ 18 ans"
+      - "Environ 180 ans"
+      - "Environ 1 800 ans"
+    answer: 2
+    explanation: >
+      En 2018, OpenAI Five avait joué l'équivalent d'environ 180 ans de parties de Dota 2,
+      sur de très nombreux ordinateurs.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 2013, des chercheurs de DeepMind ont présenté une IA qui apprend à jouer en regardant seulement les pixels de l'écran et le score. En 2015, des versions de cette IA ont été entraînées sur 50 jeux de la console Atari 2600. Les jeux vidéo sont un bon terrain d'entraînement, car le score sert de récompense et l'on peut rejouer sans fin.
+
+## Pourquoi des jeux vidéo ?
+
+Pour apprendre par renforcement, une IA a besoin de trois choses : un monde où agir, des actions possibles et une récompense. Les jeux vidéo réunissent tout cela. Le score indique clairement si l'IA progresse. On peut rejouer des milliers de parties sans rien casser, et beaucoup plus vite qu'un humain.
+
+## Apprendre avec seulement l'écran
+
+L'Atari 2600 est une console de jeux sortie en 1977. Ses jeux sont simples, mais très variés. En décembre 2013, des chercheurs de l'entreprise DeepMind ont publié un article qui a marqué l'histoire de l'IA.
+
+Leur programme ne connaissait pas les règles. Il voyait seulement les pixels de l'écran et le score. Il pouvait appuyer sur les boutons de la manette. Au début, il jouait n'importe comment. Peu à peu, il a appris quelles actions faisaient monter le score.
+
+Le programme utilise un réseau de neurones convolutif, le type de réseau qui sert à analyser des images. Ce réseau estime, pour chaque action possible, combien de récompenses elle va rapporter plus tard. Le programme a été appelé DQN.
+
+## Rejouer ses souvenirs
+
+DQN a une astuce : la relecture d'expériences. Il garde en mémoire tout ce qu'il a vécu. Pour apprendre, il pioche au hasard dans ces souvenirs, au lieu d'utiliser seulement les dernières secondes de jeu. Les exemples sont plus variés, et l'apprentissage devient plus stable.
+
+En 2015, DeepMind a présenté les résultats dans la revue Nature. Des agents DQN ont été entraînés sur 50 jeux Atari différents. Ils ont atteint le niveau humain dans presque la moitié de ces jeux, bien plus que toutes les méthodes précédentes.
+
+## Des jeux de plus en plus difficiles
+
+Après les jeux Atari, d'autres IA se sont attaquées à des jeux plus complexes. OpenAI Five joue à Dota 2, un jeu où deux équipes de cinq s'affrontent. En 2018, il avait déjà joué l'équivalent d'environ 180 ans de parties contre lui-même. En avril 2019, il a battu l'équipe OG, championne du monde de 2018.
+
+## À retenir
+
+- Les jeux vidéo sont un bon terrain d'entraînement : le score sert de récompense et l'on peut rejouer sans fin.
+- En 2013, le programme DQN de DeepMind apprenait à jouer en voyant seulement les pixels de l'écran et le score.
+- DQN utilise un réseau de neurones convolutif et une relecture au hasard de ses expériences passées.
+- Testé sur 50 jeux Atari, il a atteint le niveau humain dans presque la moitié d'entre eux.
+- En avril 2019, OpenAI Five a battu les champions du monde du jeu Dota 2.
 
 ---
 type: article
-title: Le compromis entre exploration et exploitation dans l'apprentissage par renforcement
-slug: le-compromis-entre-exploration-et-exploitation-dans-l-apprentissage-par-renforcement
+title: Pourquoi une IA doit-elle parfois tenter des choix au hasard pour mieux apprendre ?
+slug: pourquoi-une-ia-doit-elle-parfois-tenter-des-choix-au-hasard-pour-mieux-apprendre
 categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-par-renforcement
 summary: >
-  Un dilemme fondamental entre tenter de nouvelles actions et exploiter les strategies deja connues.
-tags: [apprentissage-par-renforcement, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une IA qui apprend par essais et récompenses doit choisir entre deux attitudes. Exploiter,
+  c'est refaire ce qui a déjà bien marché. Explorer, c'est essayer autre chose, au risque de
+  perdre, pour peut-être trouver mieux.
+tags: [apprentissage-par-renforcement]
+sources:
+  - title: "Exploration–exploitation dilemma"
+    url: "https://en.wikipedia.org/wiki/Exploration%E2%80%93exploitation_dilemma"
+    publisher: "Wikipedia"
+  - title: "Multi-armed bandit"
+    url: "https://en.wikipedia.org/wiki/Multi-armed_bandit"
+    publisher: "Wikipedia"
+  - title: "Apprentissage par renforcement"
+    url: "https://fr.wikipedia.org/wiki/Apprentissage_par_renforcement"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que veut dire « exploiter » pour une IA qui apprend par renforcement ?"
+    options:
+      - "Essayer une action jamais tentée"
+      - "Refaire l'action qui a donné les meilleures récompenses"
+      - "Arrêter de jouer"
+    answer: 2
+    explanation: >
+      Exploiter, c'est utiliser ce que l'on sait déjà pour choisir l'action qui semble la
+      meilleure.
+  - question: "D'où vient le nom du problème du « bandit manchot » ?"
+    options:
+      - "D'un voleur célèbre"
+      - "D'un jeu de cartes"
+      - "Des machines à sous à levier"
+    answer: 3
+    explanation: >
+      En anglais, les machines à sous à un levier sont surnommées « bandits manchots ». Le
+      joueur doit choisir sur quelle machine jouer.
+  - question: "Avec la méthode epsilon-glouton et epsilon égal à 0,1, combien de fois l'IA choisit-elle au hasard ?"
+    options:
+      - "Environ 1 fois sur 10"
+      - "Environ 9 fois sur 10"
+      - "Jamais"
+    answer: 1
+    explanation: >
+      Avec epsilon égal à 0,1, l'IA choisit au hasard dans 10 % des cas et prend la
+      meilleure option connue dans 90 % des cas.
+  - question: "Pourquoi une IA qui n'explore jamais risque-t-elle de mal apprendre ?"
+    options:
+      - "Elle va trop vite"
+      - "Elle peut passer à côté d'une meilleure option qu'elle n'a jamais essayée"
+      - "Elle consomme trop d'électricité"
+    answer: 2
+    explanation: >
+      Ses connaissances peuvent être incomplètes. Sans essayer autre chose, elle ne
+      découvre jamais les options meilleures.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une IA qui apprend par essais et récompenses doit choisir entre deux attitudes. Exploiter, c'est refaire ce qui a déjà bien marché. Explorer, c'est essayer autre chose, au risque de perdre, pour peut-être trouver mieux.
+
+## Le dilemme du restaurant
+
+Imagine que tu connais une bonne pizzeria dans ton quartier. Ce soir, tu peux y retourner : tu es presque sûr de bien manger. Tu peux aussi tester le nouveau restaurant d'à côté. Il sera peut-être meilleur, peut-être moins bon.
+
+Refaire ce qui marche s'appelle exploiter. Essayer autre chose pour en apprendre plus s'appelle explorer. Les chercheurs en intelligence artificielle appellent ce choix le dilemme exploration-exploitation.
+
+## Une IA qui apprend par récompenses
+
+Dans l'apprentissage par renforcement, un programme appelé agent agit dans un environnement. Après chaque action, il reçoit une récompense, positive ou négative. Son but est d'obtenir le plus de récompenses possible.
+
+Au début, l'agent ne sait presque rien. S'il refait toujours la première action qui a rapporté un peu, il risque de rater une action bien meilleure. Ses connaissances peuvent être incomplètes ou trompeuses. Mais s'il essaie tout le temps des actions au hasard, il ne profite jamais de ce qu'il a appris. Il doit trouver un équilibre pour gagner le plus sur le long terme.
+
+## Les bandits manchots
+
+Le cas le plus connu s'appelle le problème du bandit manchot. En anglais, les machines à sous à un levier sont surnommées « bandits manchots ». Un joueur fait face à une rangée de machines. Chacune rapporte en moyenne une somme différente, mais il ne sait pas laquelle est la meilleure. Il doit décider sur quelle machine jouer, combien de fois, et quand changer. Le mathématicien Herbert Robbins a formulé la version de ce problème la plus étudiée en 1952.
+
+## La méthode epsilon-glouton
+
+Une solution simple s'appelle la méthode epsilon-glouton. Epsilon est un petit nombre, par exemple 0,1. La plupart du temps, l'agent choisit l'action qui a rapporté le plus jusque-là. Mais dans une proportion epsilon des cas, il choisit une action au hasard. Avec epsilon égal à 0,1, il exploite donc 9 fois sur 10 et explore 1 fois sur 10.
+
+Ce dilemme ne concerne pas que les jeux. Il apparaît dans les essais de nouveaux médicaments, où l'on veut tester des traitements tout en protégeant les patients, ou dans le choix du chemin des données sur un réseau.
+
+## À retenir
+
+- Exploiter, c'est refaire l'action qui a donné les meilleures récompenses.
+- Explorer, c'est essayer une autre action pour découvrir peut-être mieux.
+- Une IA qui apprend par renforcement doit équilibrer les deux pour gagner le plus sur le long terme.
+- Le problème du bandit manchot, formulé par Herbert Robbins en 1952, est l'exemple classique de ce dilemme.
+- La méthode epsilon-glouton choisit au hasard dans une petite part des cas, par exemple 1 fois sur 10.
 
 ---
 type: article
@@ -6737,18 +6898,99 @@ status: planned
 
 ---
 type: article
-title: Le role des reseaux de neurones convolutifs dans l'analyse d'images
-slug: le-role-des-reseaux-de-neurones-convolutifs-dans-l-analyse-d-images
+title: Comment un réseau de neurones convolutif repère-t-il les formes dans une image ?
+slug: comment-un-reseau-de-neurones-convolutif-repere-t-il-les-formes-dans-une-image
 categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
 summary: >
-  Une architecture specifique particulierement efficace pour traiter des donnees visuelles.
-tags: [apprentissage-profond, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un réseau de neurones convolutif fait glisser de petits filtres sur toute l'image. Les
+  premières couches repèrent des bords et des taches de couleur, les suivantes des formes de
+  plus en plus complexes. Cette idée s'inspire de la façon dont fonctionne le cortex visuel.
+tags: [apprentissage-profond]
+sources:
+  - title: "Réseau neuronal convolutif"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9seau_neuronal_convolutif"
+    publisher: "Wikipédia"
+  - title: "Convolutional neural network"
+    url: "https://en.wikipedia.org/wiki/Convolutional_neural_network"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un filtre dans un réseau convolutif ?"
+    options:
+      - "Il efface les couleurs de l'image"
+      - "Il glisse sur l'image et cherche un motif précis"
+      - "Il agrandit l'image"
+    answer: 2
+    explanation: >
+      Un filtre est une petite grille, par exemple de 3 sur 3 pixels, qui parcourt toute
+      l'image pour repérer un motif.
+  - question: "Que repèrent les premières couches d'un réseau convolutif ?"
+    options:
+      - "Des visages entiers"
+      - "Des noms d'objets"
+      - "Des bords et des taches de couleur"
+    answer: 3
+    explanation: >
+      Les premières couches détectent des éléments simples, comme des bords ou des taches
+      de couleur. Les couches suivantes combinent ces éléments.
+  - question: "Sur quel animal Hubel et Wiesel ont-ils étudié le cortex visuel ?"
+    options:
+      - "Le chat"
+      - "Le pigeon"
+      - "Le dauphin"
+    answer: 1
+    explanation: >
+      Dans les années 1950 et 1960, ils ont montré que certains neurones du cortex visuel
+      du chat réagissent à une petite zone du champ de vision.
+  - question: "À quoi a servi LeNet-5, le réseau de Yann LeCun ?"
+    options:
+      - "À jouer aux échecs"
+      - "À lire des chèques dans des banques américaines"
+      - "À traduire des livres"
+    answer: 2
+    explanation: >
+      À partir de juin 1996, ce système a lu des millions de chèques par jour dans
+      plusieurs banques américaines.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un réseau de neurones convolutif fait glisser de petits filtres sur toute l'image. Les premières couches repèrent des bords et des taches de couleur, les suivantes des formes de plus en plus complexes. Cette idée s'inspire de la façon dont fonctionne le cortex visuel.
+
+## Une image, c'est un tableau de nombres
+
+Pour un ordinateur, une photo est une grille de pixels. Chaque pixel est décrit par des nombres qui indiquent sa couleur. Reconnaître un chat dans ce tableau de nombres est difficile. Le chat peut être à gauche ou à droite, grand ou petit.
+
+Un réseau de neurones convolutif est conçu pour ce problème. Il est très utilisé pour reconnaître des images et des vidéos.
+
+## Des filtres qui glissent
+
+Le cœur du réseau est le filtre. C'est une petite grille de nombres, souvent de 3 sur 3 ou de 5 sur 5 pixels. Le filtre glisse sur toute l'image, case par case. À chaque position, il calcule si le petit morceau d'image ressemble au motif qu'il cherche. Cette opération s'appelle une convolution.
+
+Le résultat est une carte qui montre où le motif apparaît dans l'image. Un même filtre est utilisé partout. Ainsi, un bord est repéré de la même façon en haut ou en bas de la photo.
+
+Le réseau n'est pas programmé à la main. Pendant l'apprentissage, il règle lui-même les nombres de ses filtres à partir de milliers d'exemples.
+
+## Du simple au compliqué
+
+Le réseau empile plusieurs couches de filtres. Les premières couches repèrent des choses simples : des bords orientés et des taches de couleur. Les couches suivantes combinent ces morceaux. Elles reconnaissent des formes plus grandes, comme un œil ou une oreille, puis un objet entier.
+
+Entre certaines couches, une étape de regroupement réduit la taille des cartes. Souvent, on garde seulement la plus grande valeur de chaque carré de 2 sur 2. Le réseau garde l'essentiel et calcule plus vite.
+
+## Inspiré par le cerveau du chat
+
+Dans les années 1950 et 1960, David Hubel et Torsten Wiesel ont étudié le cortex visuel du chat. Ils ont montré que certains neurones réagissent seulement à une petite zone du champ de vision.
+
+En 1980, Kunihiko Fukushima a proposé le néocognitron, un ancêtre des réseaux convolutifs. Yann LeCun et son équipe ont ensuite créé LeNet-5, présenté en 1995. À partir de juin 1996, ce système lisait des millions de chèques par jour dans plusieurs banques américaines. En 2012, le réseau convolutif AlexNet a gagné le concours de reconnaissance d'images ImageNet.
+
+## À retenir
+
+- Un réseau convolutif fait glisser de petits filtres sur toute l'image pour repérer des motifs.
+- Les premières couches repèrent des bords et des couleurs, les suivantes des formes de plus en plus complexes.
+- Le réseau apprend lui-même les valeurs de ses filtres à partir d'exemples.
+- L'idée s'inspire des travaux de Hubel et Wiesel sur le cortex visuel du chat.
+- Dès 1996, le réseau LeNet-5 de Yann LeCun lisait des millions de chèques par jour.
 
 ---
 type: article
@@ -6767,18 +7009,97 @@ status: planned
 
 ---
 type: article
-title: Le role des reseaux de neurones recurrents dans le traitement de sequences
-slug: le-role-des-reseaux-de-neurones-recurrents-dans-le-traitement-de-sequences
+title: Comment un réseau de neurones récurrent se souvient-il du début d'une phrase ?
+slug: comment-un-reseau-de-neurones-recurrent-se-souvient-il-du-debut-d-une-phrase
 categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
 summary: >
-  Une architecture adaptee aux donnees ordonnees dans le temps, comme le texte ou la parole.
-tags: [apprentissage-profond, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un réseau de neurones récurrent lit une suite d'éléments, comme les mots d'une phrase, un
+  par un. À chaque étape, il garde une petite mémoire de ce qu'il a déjà lu. Cette mémoire
+  s'efface vite, c'est pourquoi on a inventé en 1997 une version améliorée, le LSTM.
+tags: [apprentissage-profond]
+sources:
+  - title: "Réseau de neurones récurrents"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_r%C3%A9currents"
+    publisher: "Wikipédia"
+  - title: "Recurrent neural network"
+    url: "https://en.wikipedia.org/wiki/Recurrent_neural_network"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment un réseau récurrent lit-il une phrase ?"
+    options:
+      - "Tous les mots en même temps"
+      - "Un mot après l'autre, en gardant une mémoire"
+      - "En commençant par la fin"
+    answer: 2
+    explanation: >
+      Le réseau traite les éléments un par un. À chaque étape, il met à jour son état
+      caché à partir du mot lu et de son état précédent.
+  - question: "Quel problème touche les réseaux récurrents classiques ?"
+    options:
+      - "Ils oublient vite les informations lointaines"
+      - "Ils ne savent lire que des chiffres"
+      - "Ils chauffent trop"
+    answer: 1
+    explanation: >
+      L'effet des éléments anciens diminue très vite au fil des étapes. On parle de
+      disparition du gradient.
+  - question: "En quelle année le LSTM a-t-il été proposé ?"
+    options:
+      - "En 1957"
+      - "En 2022"
+      - "En 1997"
+    answer: 3
+    explanation: >
+      Sepp Hochreiter et Jürgen Schmidhuber ont proposé le LSTM en 1997 pour aider le
+      réseau à garder des informations plus longtemps.
+  - question: "Quelle architecture a remplacé les réseaux récurrents pour la plupart des tâches de langage ?"
+    options:
+      - "Le perceptron"
+      - "Le transformeur"
+      - "Le système expert"
+    answer: 2
+    explanation: >
+      À la fin des années 2010, les transformeurs, qui utilisent l'attention au lieu d'une
+      boucle, sont devenus l'architecture dominante.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un réseau de neurones récurrent lit une suite d'éléments, comme les mots d'une phrase, un par un. À chaque étape, il garde une petite mémoire de ce qu'il a déjà lu. Cette mémoire s'efface vite, c'est pourquoi on a inventé en 1997 une version améliorée, le LSTM.
+
+## Lire dans l'ordre
+
+Beaucoup de données arrivent en suite : les mots d'une phrase, les sons d'une voix, les températures jour après jour. Dans ces données, l'ordre compte. « Le chat mange la souris » ne veut pas dire la même chose que « la souris mange le chat ».
+
+Un réseau de neurones récurrent est fait pour ce genre de données. Il lit les éléments un par un, dans l'ordre. Il peut traiter des suites de longueur variable : une phrase de trois mots ou de trente.
+
+## Une mémoire qui tourne en boucle
+
+Le mot « récurrent » veut dire que le réseau contient une boucle. Une partie de ce qu'il calcule à une étape lui revient à l'étape suivante.
+
+Cette information qui circule s'appelle l'état caché. C'est une sorte de mémoire. À chaque mot, le réseau mélange le nouveau mot avec son état caché précédent. Il obtient un nouvel état caché, puis passe au mot suivant. Quand il arrive au bout de la phrase, son état caché résume ce qu'il a lu.
+
+## Le problème de l'oubli
+
+Les premiers réseaux récurrents avaient un défaut. L'effet des éléments anciens diminuait très vite à chaque étape. Le réseau avait donc du mal à relier la fin d'une longue phrase à son début. Les chercheurs appellent ce problème la disparition du gradient : le signal qui sert à corriger le réseau pendant l'apprentissage devient presque nul pour les éléments lointains.
+
+En 1997, Sepp Hochreiter et Jürgen Schmidhuber ont proposé le LSTM, pour « longue mémoire à court terme ». Ce réseau possède des portes. Une porte décide ce qu'il faut oublier, une autre ce qu'il faut ajouter à la mémoire, une troisième ce qu'il faut ressortir. En 2014, Kyunghyun Cho et son équipe ont présenté le GRU, une version plus simple avec moins de réglages.
+
+## Des usages, puis un successeur
+
+Les réseaux récurrents ont servi à reconnaître l'écriture manuscrite, à reconnaître la parole et à traduire des textes. Des LSTM ont par exemple été utilisés dans la recherche vocale de Google.
+
+À la fin des années 2010, une autre architecture, le transformeur, est devenue la plus utilisée pour le langage. Elle remplace la boucle par un mécanisme d'attention, qui regarde tous les mots à la fois.
+
+## À retenir
+
+- Un réseau de neurones récurrent lit une suite d'éléments un par un, dans l'ordre.
+- Il garde une mémoire, l'état caché, qu'il met à jour à chaque élément lu.
+- Les réseaux récurrents simples oublient vite les éléments lointains : c'est la disparition du gradient.
+- Le LSTM, proposé en 1997, utilise des portes pour garder des informations plus longtemps.
+- Depuis la fin des années 2010, les transformeurs les ont remplacés pour la plupart des tâches de langage.
 
 ---
 type: article
@@ -7337,18 +7658,97 @@ status: planned
 
 ---
 type: article
-title: Les biais raciaux dans les technologies de reconnaissance faciale
-slug: les-biais-raciaux-dans-les-technologies-de-reconnaissance-faciale
+title: Pourquoi certains logiciels de reconnaissance faciale se trompent-ils plus sur certains visages ?
+slug: pourquoi-certains-logiciels-de-reconnaissance-faciale-se-trompent-ils-plus-sur-certains-visages
 categoryPath: intelligence-artificielle/ethique-et-societe/biais
 summary: >
-  Un probleme documente ou certains systemes se montrent moins fiables selon l'origine des personnes analysees.
-tags: [biais, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Des études ont montré que des logiciels de reconnaissance faciale font beaucoup plus
+  d'erreurs sur les visages de personnes à la peau foncée, surtout des femmes. Une des causes
+  probables est le manque de diversité des photos utilisées pour les entraîner.
+tags: [biais]
+sources:
+  - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
+    url: "https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software"
+    publisher: "NIST"
+  - title: "Joy Buolamwini"
+    url: "https://en.wikipedia.org/wiki/Joy_Buolamwini"
+    publisher: "Wikipedia"
+  - title: "Facial recognition system"
+    url: "https://en.wikipedia.org/wiki/Facial_recognition_system"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'a dû porter Joy Buolamwini pour qu'un logiciel détecte son visage ?"
+    options:
+      - "Des lunettes de soleil"
+      - "Un masque blanc"
+      - "Un chapeau rouge"
+    answer: 2
+    explanation: >
+      Le logiciel ne détectait pas bien son visage à la peau foncée. Il le détectait quand
+      elle portait un masque blanc.
+  - question: "Dans l'étude Gender Shades de 2018, quel groupe subissait le plus d'erreurs ?"
+    options:
+      - "Les hommes à la peau claire"
+      - "Les enfants"
+      - "Les femmes à la peau foncée"
+    answer: 3
+    explanation: >
+      Les femmes à la peau foncée subissaient jusqu'à 34,7 % d'erreurs, contre moins de 1
+      % pour les hommes à la peau claire.
+  - question: "Combien d'algorithmes l'agence américaine NIST a-t-elle testés en 2019 ?"
+    options:
+      - "189"
+      - "3"
+      - "12 000"
+    answer: 1
+    explanation: >
+      Le NIST a testé 189 algorithmes de 99 développeurs sur plus de 18 millions d'images.
+  - question: "Que suggèrent les résultats des algorithmes développés en Asie ?"
+    options:
+      - "Que la reconnaissance faciale ne marche jamais"
+      - "Que des photos d'entraînement plus variées peuvent réduire les écarts"
+      - "Que les ordinateurs asiatiques sont plus rapides"
+    answer: 2
+    explanation: >
+      Ces algorithmes ne montraient pas de grand écart entre visages asiatiques et blancs.
+      Cela suggère que la diversité des données d'entraînement compte.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des études ont montré que des logiciels de reconnaissance faciale font beaucoup plus d'erreurs sur les visages de personnes à la peau foncée, surtout des femmes. Une des causes probables est le manque de diversité des photos utilisées pour les entraîner.
+
+## Un masque blanc
+
+Joy Buolamwini est une chercheuse au MIT, une grande université américaine. Pour un projet artistique, elle utilisait un logiciel qui devait détecter son visage. Il n'y arrivait pas bien, car elle a la peau foncée. Le logiciel détectait son visage quand elle portait un masque blanc. Cette expérience l'a poussée à étudier le problème. En 2016, elle a fondé l'Algorithmic Justice League, une association qui lutte contre les injustices causées par les algorithmes.
+
+## L'étude Gender Shades
+
+En 2018, Joy Buolamwini et Timnit Gebru ont testé des logiciels d'analyse de visages vendus par IBM, Microsoft et Face++. Ces logiciels devaient dire si une photo montrait un homme ou une femme.
+
+Les résultats étaient très inégaux. Pour les hommes à la peau claire, le taux d'erreur était inférieur à 1 %. Pour les femmes à la peau foncée, il montait jusqu'à 34,7 %. Autrement dit, le logiciel se trompait parfois sur plus d'une femme noire sur trois.
+
+## Une grande étude officielle
+
+Le 19 décembre 2019, le NIST, une agence américaine chargée des mesures et des normes, a publié une étude encore plus vaste. Elle a testé 189 algorithmes de 99 développeurs, sur 18,27 millions d'images de 8,49 millions de personnes.
+
+Pour vérifier si deux photos montrent la même personne, beaucoup d'algorithmes se trompaient plus souvent sur les visages asiatiques et afro-américains que sur les visages blancs. Ils confondaient plus souvent deux personnes différentes. L'écart allait souvent de 10 à 100 fois plus d'erreurs. Pour retrouver une personne dans une grande base de photos, les erreurs étaient plus fréquentes pour les femmes afro-américaines.
+
+## D'où vient le problème
+
+Un logiciel de reconnaissance faciale apprend à partir de photos. Si ces photos montrent surtout un type de visage, il reconnaît mieux ce type de visage. Le NIST a fait une observation intéressante : les algorithmes développés dans des pays d'Asie ne montraient pas de grand écart entre visages asiatiques et blancs. Cela suggère que des photos d'entraînement plus variées peuvent réduire les inégalités.
+
+Ces erreurs ont des conséquences réelles, par exemple quand la police utilise ces logiciels. Après la publication de ces travaux, IBM a arrêté son logiciel de reconnaissance faciale en 2020. Microsoft et Amazon ont annoncé des changements dans leurs produits.
+
+## À retenir
+
+- Des logiciels de reconnaissance faciale se trompent plus souvent sur les visages à la peau foncée.
+- En 2018, l'étude Gender Shades a mesuré jusqu'à 34,7 % d'erreurs pour les femmes à la peau foncée, contre moins de 1 % pour les hommes à la peau claire.
+- En 2019, le NIST a testé 189 algorithmes et trouvé souvent 10 à 100 fois plus de fausses correspondances pour les visages asiatiques et afro-américains.
+- Une cause probable est le manque de diversité des photos d'entraînement.
+- Ces travaux ont poussé IBM, Microsoft et Amazon à modifier ou arrêter leurs produits.
 
 ---
 type: article
@@ -8102,18 +8502,96 @@ status: planned
 
 ---
 type: article
-title: Le role de l'intelligence artificielle dans l'assistance aux personnes en situation de handicap
-slug: le-role-de-l-intelligence-artificielle-dans-l-assistance-aux-personnes-en-situation-de-handicap
+title: Comment l'intelligence artificielle aide-t-elle les personnes aveugles ou sourdes ?
+slug: comment-l-intelligence-artificielle-aide-t-elle-les-personnes-aveugles-ou-sourdes
 categoryPath: intelligence-artificielle/ethique-et-societe/travail-et-usages
 summary: >
-  Des outils qui facilitent l'autonomie et l'inclusion de personnes ayant des besoins particuliers.
-tags: [travail-et-usages, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Des applications utilisent l'intelligence artificielle pour décrire à voix haute ce que
+  filme un téléphone, lire un texte ou reconnaître des billets. D'autres transforment la
+  parole en texte en temps réel pour les personnes sourdes. Ces outils rendent les personnes
+  plus autonomes, mais peuvent se tromper.
+tags: [travail-et-usages]
+sources:
+  - title: "Seeing AI"
+    url: "https://en.wikipedia.org/wiki/Seeing_AI"
+    publisher: "Wikipedia"
+  - title: "Be My Eyes"
+    url: "https://en.wikipedia.org/wiki/Be_My_Eyes"
+    publisher: "Wikipedia"
+  - title: "Live Transcribe"
+    url: "https://en.wikipedia.org/wiki/Live_Transcribe"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait l'application Seeing AI de Microsoft ?"
+    options:
+      - "Elle décrit à voix haute ce que filme la caméra"
+      - "Elle traduit le chant des oiseaux"
+      - "Elle recharge le téléphone"
+    answer: 1
+    explanation: >
+      Seeing AI utilise la caméra du téléphone pour reconnaître du texte, des objets ou
+      des personnes, puis les décrit à voix haute.
+  - question: "Comment fonctionnait Be My Eyes à ses débuts ?"
+    options:
+      - "Avec un robot qui accompagne la personne"
+      - "Avec des bénévoles voyants joints par appel vidéo"
+      - "Avec des lunettes spéciales"
+    answer: 2
+    explanation: >
+      Une personne aveugle filme ce qui l'entoure avec son téléphone, et un bénévole qui
+      parle la même langue l'aide en direct.
+  - question: "En quelle année Be My Eyes a-t-il ajouté un assistant d'IA ?"
+    options:
+      - "En 1995"
+      - "En 2012"
+      - "En 2023"
+    answer: 3
+    explanation: >
+      En mars 2023, Be My Eyes a lancé Be My AI, un assistant basé sur le modèle GPT-4.
+  - question: "Que fait l'application Live Transcribe de Google ?"
+    options:
+      - "Elle écrit en direct ce que disent les gens"
+      - "Elle compose de la musique"
+      - "Elle lit les codes-barres"
+    answer: 1
+    explanation: >
+      Live Transcribe transforme la parole en texte en temps réel, pour aider les
+      personnes sourdes ou malentendantes.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Des applications utilisent l'intelligence artificielle pour décrire à voix haute ce que filme un téléphone, lire un texte ou reconnaître des billets. D'autres transforment la parole en texte en temps réel pour les personnes sourdes. Ces outils rendent les personnes plus autonomes, mais peuvent se tromper.
+
+## Des yeux dans le téléphone
+
+Pour une personne aveugle ou malvoyante, lire un menu, trouver la bonne boîte de conserve ou reconnaître un billet peut être difficile. Des applications utilisent l'intelligence artificielle pour l'aider.
+
+Seeing AI a été lancée par Microsoft le 12 juillet 2017. Elle utilise la caméra du téléphone. Elle lit à voix haute du texte imprimé ou écrit à la main. Elle décrit une scène, signale les personnes présentes et reconnaît des billets de plusieurs monnaies, dont l'euro. Elle peut aussi lire un code-barres pour identifier un produit, ou dire la couleur d'un vêtement.
+
+## Des bénévoles, puis une IA
+
+Be My Eyes a été présentée en 2012 et lancée en 2015. Au départ, l'application ne contenait pas d'IA. Une personne aveugle filme ce qui l'entoure avec son téléphone. Un bénévole voyant, qui parle la même langue, reçoit l'appel et l'aide en direct. L'application compte plus de 10 millions de bénévoles et environ 1 million d'utilisateurs aveugles ou malvoyants.
+
+En mars 2023, Be My Eyes a ajouté Be My AI, un assistant basé sur le modèle de langage GPT-4. L'utilisateur envoie une photo et reçoit une description. Il peut ensuite poser des questions, par exemple sur la couleur d'un pull ou le contenu d'un plat. En quelques semaines, l'assistant a été utilisé un million de fois.
+
+## Des sous-titres pour la vraie vie
+
+Pour les personnes sourdes ou malentendantes, suivre une conversation peut être compliqué. Live Transcribe, une application de Google sortie le 4 février 2019, écrit en direct ce que disent les gens autour. Elle utilise la reconnaissance de la parole par apprentissage automatique. Elle fonctionne dans des dizaines de langues. Elle signale aussi certains sons, comme des applaudissements, des rires ou un sifflement.
+
+## Utile, mais pas parfait
+
+Ces outils rendent les personnes plus autonomes au quotidien. Ils ne remplacent pas tout. Une IA peut mal lire un texte, se tromper sur un objet ou mal entendre un mot dans un endroit bruyant. Pour une information importante, comme la dose d'un médicament, il vaut mieux vérifier avec une autre méthode ou une autre personne.
+
+## À retenir
+
+- Des applications comme Seeing AI, lancée par Microsoft en 2017, décrivent à voix haute ce que filme le téléphone.
+- Be My Eyes met en relation des personnes aveugles avec plus de 10 millions de bénévoles voyants.
+- Depuis mars 2023, Be My Eyes propose aussi un assistant d'IA basé sur GPT-4.
+- Live Transcribe, sortie en 2019, écrit en direct les paroles pour les personnes sourdes ou malentendantes.
+- Ces outils rendent plus autonome, mais ils peuvent se tromper sur des informations importantes.
 
 ---
 type: article
@@ -8342,18 +8820,95 @@ status: planned
 
 ---
 type: article
-title: La generation d'images par intelligence artificielle et son fonctionnement de base
-slug: la-generation-d-images-par-intelligence-artificielle-et-son-fonctionnement-de-base
+title: Comment une IA fabrique-t-elle une image à partir d'une simple phrase ?
+slug: comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase
 categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
 summary: >
-  Une technologie qui cree des visuels originaux a partir d'une description fournie en langage naturel.
-tags: [ia-generative, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Beaucoup d'IA qui créent des images sont des modèles de diffusion. Elles partent d'une image
+  remplie de bruit, comme la neige d'une vieille télévision, puis enlèvent ce bruit petit à
+  petit. La phrase écrite par l'utilisateur guide chaque étape.
+tags: [ia-generative]
+sources:
+  - title: "Diffusion model"
+    url: "https://en.wikipedia.org/wiki/Diffusion_model"
+    publisher: "Wikipedia"
+  - title: "Stable Diffusion"
+    url: "https://fr.wikipedia.org/wiki/Stable_Diffusion"
+    publisher: "Wikipédia"
+  - title: "Stable Diffusion"
+    url: "https://en.wikipedia.org/wiki/Stable_Diffusion"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Par quoi commence un modèle de diffusion pour créer une image ?"
+    options:
+      - "Par un dessin fait par un humain"
+      - "Par une photo trouvée sur Internet"
+      - "Par une image remplie de bruit au hasard"
+    answer: 3
+    explanation: >
+      Le modèle part d'une image de bruit pur, puis la nettoie étape par étape.
+  - question: "Que fait-on aux images pendant l'entraînement ?"
+    options:
+      - "On leur ajoute du bruit peu à peu"
+      - "On les imprime"
+      - "On les découpe en morceaux de puzzle"
+    answer: 1
+    explanation: >
+      On abîme les images en ajoutant du bruit étape par étape. Le réseau apprend à
+      deviner le bruit ajouté pour pouvoir l'enlever.
+  - question: "Combien de paires image-texte contient la base LAION-5B ?"
+    options:
+      - "5 000"
+      - "Environ 5 milliards"
+      - "Environ 5 millions"
+    answer: 2
+    explanation: >
+      LAION-5B contient environ 5 milliards de paires image-texte récupérées sur le Web.
+  - question: "Quand Stable Diffusion a-t-il été rendu public ?"
+    options:
+      - "Le 22 août 2022"
+      - "En 1977"
+      - "En 2005"
+    answer: 1
+    explanation: >
+      Stable Diffusion a été publié le 22 août 2022 par l'entreprise Stability AI.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Beaucoup d'IA qui créent des images sont des modèles de diffusion. Elles partent d'une image remplie de bruit, comme la neige d'une vieille télévision, puis enlèvent ce bruit petit à petit. La phrase écrite par l'utilisateur guide chaque étape.
+
+## Apprendre à nettoyer une image
+
+Pour créer des images, beaucoup d'IA utilisent un modèle de diffusion. L'idée est surprenante : on apprend à l'IA à nettoyer des images abîmées.
+
+Pendant l'entraînement, on prend une vraie image. On lui ajoute un peu de bruit, c'est-à-dire des points de couleur au hasard, comme la neige d'une vieille télévision. Puis on en ajoute encore, étape après étape, jusqu'à ce que l'image ne soit plus qu'un brouillard de points. Un réseau de neurones apprend à faire le chemin inverse. À chaque étape, il devine quel bruit a été ajouté pour pouvoir l'enlever.
+
+## Créer à partir de rien
+
+Une fois entraîné, le modèle peut inventer une image. Il part d'une image remplie de bruit pur, tiré au hasard. Il estime le bruit présent et en retire une partie. Puis il recommence, encore et encore. Peu à peu, des formes apparaissent, puis des détails. À la fin, il reste une image nette qui n'existait nulle part.
+
+Plus on fait d'étapes, plus le calcul prend de temps.
+
+## La phrase sert de guide
+
+Pour que l'image corresponde à une phrase, le modèle utilise un encodeur de texte. C'est un autre réseau qui transforme les mots en une liste de nombres. À chaque étape de nettoyage, ces nombres orientent le réseau. Si la phrase parle d'« un chat sur la Lune », il enlève le bruit de façon à faire apparaître un chat et un paysage lunaire.
+
+Pour apprendre le lien entre les mots et les images, ces modèles ont vu énormément d'exemples. La base LAION-5B, par exemple, contient environ 5 milliards de paires image-texte récupérées sur le Web.
+
+## Un exemple connu
+
+Les modèles de diffusion ont été présentés en 2015. Une amélioration importante a été publiée en 2020. Stable Diffusion, de l'entreprise Stability AI, a été publié le 22 août 2022. Ses premières versions créaient des images de 512 sur 512 pixels. Pour aller plus vite, il ne travaille pas directement sur les pixels, mais sur une version compressée de l'image. Il peut tourner sur un ordinateur personnel équipé d'une carte graphique de milieu de gamme.
+
+## À retenir
+
+- Beaucoup d'IA qui créent des images sont des modèles de diffusion.
+- Pendant l'entraînement, on ajoute du bruit aux images et le réseau apprend à l'enlever.
+- Pour créer une image, le modèle part de bruit pur et le retire petit à petit.
+- Un encodeur de texte transforme la phrase en nombres qui guident chaque étape.
+- Stable Diffusion, publié le 22 août 2022, peut tourner sur un ordinateur personnel avec une bonne carte graphique.
 
 ---
 type: article
@@ -8462,18 +9017,97 @@ status: planned
 
 ---
 type: article
-title: Les deepfakes et les risques lies a la generation d'images ou de videos trompeuses
-slug: les-deepfakes-et-les-risques-lies-a-la-generation-d-images-ou-de-videos-trompeuses
+title: Comment fabrique-t-on un deepfake, et pourquoi faut-il s'en méfier ?
+slug: comment-fabrique-t-on-un-deepfake-et-pourquoi-faut-il-s-en-mefier
 categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
 summary: >
-  Un usage detourne preoccupant qui souleve d'importantes questions de confiance et de securite.
-tags: [ia-generative, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un deepfake, ou hypertrucage, est une image, une vidéo ou un son modifié ou fabriqué par une
+  intelligence artificielle. Il peut faire dire ou faire à une personne des choses qu'elle n'a
+  jamais dites ni faites. Il sert parfois à tromper, à harceler ou à escroquer.
+tags: [ia-generative]
+sources:
+  - title: "Deepfake"
+    url: "https://fr.wikipedia.org/wiki/Deepfake"
+    publisher: "Wikipédia"
+  - title: "Deepfake"
+    url: "https://en.wikipedia.org/wiki/Deepfake"
+    publisher: "Wikipedia"
+  - title: "Artificial Intelligence Act"
+    url: "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel est le mot français officiel pour « deepfake » ?"
+    options:
+      - "Hypertrucage"
+      - "Photocopie"
+      - "Mégafiltre"
+    answer: 1
+    explanation: >
+      Le terme officiel en français est « hypertrucage ».
+  - question: "D'où vient le mot « deepfake » ?"
+    options:
+      - "D'un film de 1990"
+      - "Du pseudonyme d'un utilisateur du site Reddit, en 2017"
+      - "D'une loi européenne"
+    answer: 2
+    explanation: >
+      Fin 2017, un utilisateur de Reddit qui se faisait appeler « deepfakes » a partagé
+      des vidéos truquées. Le nom est resté.
+  - question: "Dans un réseau antagoniste génératif, que fait le discriminateur ?"
+    options:
+      - "Il fabrique les fausses images"
+      - "Il colorie les images"
+      - "Il essaie de distinguer les vraies images des fausses"
+    answer: 3
+    explanation: >
+      Le générateur fabrique des images, le discriminateur cherche à les démasquer. Chacun
+      pousse l'autre à progresser.
+  - question: "Pourquoi détecter les deepfakes est-il difficile ?"
+    options:
+      - "Parce que les techniques de fabrication s'améliorent sans cesse"
+      - "Parce que les vidéos sont trop courtes"
+      - "Parce que personne ne cherche à les détecter"
+    answer: 1
+    explanation: >
+      Les chercheurs parlent d'une cible qui bouge : dès qu'un défaut est repéré, les
+      fabricants de deepfakes le corrigent.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un deepfake, ou hypertrucage, est une image, une vidéo ou un son modifié ou fabriqué par une intelligence artificielle. Il peut faire dire ou faire à une personne des choses qu'elle n'a jamais dites ni faites. Il sert parfois à tromper, à harceler ou à escroquer.
+
+## Un trucage fait par une IA
+
+Un deepfake est une image, une vidéo ou un son qui a été modifié ou fabriqué grâce à l'intelligence artificielle. En français, le mot officiel est « hypertrucage ». On peut par exemple coller le visage d'une personne sur le corps d'une autre, ou imiter sa voix.
+
+Le mot est apparu fin 2017. Un utilisateur du site Reddit, qui se faisait appeler « deepfakes », partageait des vidéos où des visages de célébrités avaient été collés sur d'autres corps. En janvier 2018, une application, FakeApp, a rendu ce trucage facile pour tout le monde.
+
+## Comment on le fabrique
+
+Pour échanger deux visages, on utilise souvent un autoencodeur. C'est un réseau de neurones qui apprend à résumer un visage en une liste de nombres. Une autre partie du réseau apprend à redessiner un visage précis à partir de ce résumé. On résume le visage de la personne filmée, puis on le redessine avec les traits d'une autre personne. Le nouveau visage garde la même expression et les mêmes mouvements.
+
+On ajoute souvent un réseau antagoniste génératif. Il met deux réseaux en compétition. Le générateur fabrique de fausses images. Le discriminateur essaie de distinguer les vraies des fausses. Chacun pousse l'autre à progresser, et les faux deviennent de plus en plus réalistes.
+
+## Pourquoi c'est dangereux
+
+Les deepfakes servent parfois à fabriquer des images intimes de personnes sans leur accord. Ils servent aussi à répandre de fausses informations. En 2022, par exemple, un deepfake du président ukrainien Volodymyr Zelensky a circulé. Ils peuvent aider des escrocs à se faire passer pour quelqu'un d'autre, ou servir à harceler.
+
+## Les repérer et les encadrer
+
+Des chercheurs ont mis au point des logiciels qui cherchent des défauts : un clignement des yeux irrégulier, des reflets étranges dans les yeux, un éclairage incohérent. Mais les techniques de fabrication changent sans cesse. Un défaut repéré aujourd'hui peut disparaître demain. Le meilleur réflexe reste de vérifier d'où vient une vidéo avant de la croire ou de la partager.
+
+Les lois commencent à s'adapter. Le règlement européen sur l'IA, entré en vigueur le 1er août 2024, impose des obligations de transparence pour les systèmes qui créent ou modifient des images, des sons ou des vidéos, comme les deepfakes. Depuis 2020, la Chine exige aussi que les contenus fabriqués soient signalés.
+
+## À retenir
+
+- Un deepfake, ou hypertrucage, est une image, une vidéo ou un son fabriqué ou modifié par une IA.
+- Le mot vient du pseudonyme d'un utilisateur de Reddit, fin 2017.
+- On les fabrique avec des autoencodeurs et des réseaux antagonistes génératifs, où un générateur et un discriminateur s'affrontent.
+- Ils servent parfois à désinformer, à escroquer ou à harceler.
+- Les défauts qui trahissent un deepfake changent sans cesse : il faut vérifier la source d'une vidéo.
 
 ---
 type: article
@@ -8642,18 +9276,98 @@ status: planned
 
 ---
 type: article
-title: Le role de la date limite des connaissances d'un modele de langage dans ses reponses
-slug: le-role-de-la-date-limite-des-connaissances-d-un-modele-de-langage-dans-ses-reponses
+title: Pourquoi une IA conversationnelle ne connaît-elle pas les dernières nouvelles ?
+slug: pourquoi-une-ia-conversationnelle-ne-connait-elle-pas-les-dernieres-nouvelles
 categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
 summary: >
-  Une limite importante liee au fait que le modele ne connait que les informations disponibles jusqu'a un certain moment.
-tags: [limites-et-erreurs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un modèle de langage apprend à partir d'un grand ensemble de textes réunis jusqu'à une
+  certaine date. Après cette date limite des connaissances, il ne sait rien de ce qui s'est
+  passé. Pour répondre sur l'actualité, il doit aller chercher des informations récentes, par
+  exemple sur le Web.
+tags: [limites-et-erreurs]
+sources:
+  - title: "Knowledge cutoff"
+    url: "https://en.wikipedia.org/wiki/Knowledge_cutoff"
+    publisher: "Wikipedia"
+  - title: "Retrieval-augmented generation"
+    url: "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
+    publisher: "Wikipedia"
+  - title: "Large language model"
+    url: "https://en.wikipedia.org/wiki/Large_language_model"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que la date limite des connaissances d'un modèle de langage ?"
+    options:
+      - "La date à laquelle il cessera de fonctionner"
+      - "La date après laquelle il n'a plus reçu de nouveaux textes pour apprendre"
+      - "La date de naissance de son inventeur"
+    answer: 2
+    explanation: >
+      C'est le moment au-delà duquel le modèle n'a pas été entraîné sur de nouvelles
+      données.
+  - question: "Quelle était la date limite des connaissances de GPT-4 ?"
+    options:
+      - "Septembre 2021"
+      - "Janvier 2000"
+      - "Décembre 2025"
+    answer: 1
+    explanation: >
+      La date limite des connaissances de GPT-4 était septembre 2021.
+  - question: "Que fait la génération augmentée par récupération ?"
+    options:
+      - "Elle efface la mémoire du modèle"
+      - "Elle réentraîne le modèle chaque minute"
+      - "Elle va chercher des documents avant de répondre"
+    answer: 3
+    explanation: >
+      Le modèle récupère des textes dans des documents ou sur le Web, puis s'en sert pour
+      répondre.
+  - question: "Une IA qui cherche sur le Web peut-elle encore se tromper ?"
+    options:
+      - "Non, jamais"
+      - "Oui, elle peut mal comprendre ou inventer autour des sources"
+      - "Seulement le dimanche"
+    answer: 2
+    explanation: >
+      Même avec des sources exactes, le modèle peut mal les interpréter ou ajouter des
+      erreurs. Il faut vérifier.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un modèle de langage apprend à partir d'un grand ensemble de textes réunis jusqu'à une certaine date. Après cette date limite des connaissances, il ne sait rien de ce qui s'est passé. Pour répondre sur l'actualité, il doit aller chercher des informations récentes, par exemple sur le Web.
+
+## Un apprentissage qui s'arrête
+
+Un modèle de langage, comme ceux des assistants conversationnels, apprend en lisant une énorme quantité de textes. Ces textes sont réunis jusqu'à une certaine date. Ensuite, l'entraînement se fait une fois pour toutes. Ce que le modèle sait reste figé.
+
+Le moment après lequel il n'a plus reçu de nouveaux textes s'appelle la date limite des connaissances. Tout ce qui s'est passé après lui est inconnu : un nouveau champion, une élection, une découverte.
+
+## Des exemples de dates
+
+Chaque modèle a sa propre date limite. Pour GPT-4, c'était septembre 2021. Pour GPT-4 Turbo, décembre 2023. Pour GPT-5, septembre 2024. Un modèle est souvent utilisé pendant des mois, voire des années, après cette date. L'écart entre ce qu'il sait et le monde réel grandit donc avec le temps.
+
+Il y a un autre piège. Les chercheurs ont remarqué que les connaissances d'un modèle ne s'arrêtent pas net à sa date limite. Sur certains sujets, il y avait peu de textes récents au moment de l'entraînement. Le modèle peut alors être encore plus en retard sur ces sujets.
+
+## Le risque de répondre à côté
+
+Quand on pose une question sur un fait récent, un modèle sans accès à l'actualité ne peut pas connaître la bonne réponse. Il peut le dire. Mais il peut aussi donner une information dépassée comme si elle était actuelle. Il peut même inventer une réponse qui a l'air juste.
+
+## Aller chercher l'information
+
+Pour réduire ce problème, on relie souvent le modèle à des outils. La génération augmentée par récupération, présentée dans un article de 2020, en est un exemple. Avant de répondre, le système va chercher des textes dans des documents, une base de données ou sur le Web. Puis le modèle s'appuie sur ces textes pour écrire sa réponse.
+
+Cette méthode coûte bien moins cher que de réentraîner tout le modèle : il suffit de mettre à jour les documents. Elle aide aussi le modèle à rester proche des faits. Mais elle ne supprime pas toutes les erreurs. Le modèle peut mal comprendre une source, ou inventer des détails autour d'elle. Il reste utile de regarder la date et la source d'une information avant d'y croire.
+
+## À retenir
+
+- Un modèle de langage apprend sur des textes réunis jusqu'à une date précise, sa date limite des connaissances.
+- Après cette date, il ne sait rien de ce qui s'est passé, sauf s'il va chercher l'information ailleurs.
+- La date limite de GPT-4 était septembre 2021.
+- La génération augmentée par récupération va chercher des documents récents avant de répondre.
+- Même avec des sources, une IA peut se tromper : il faut vérifier la date et l'origine de l'information.
 
 ---
 type: article
@@ -9227,469 +9941,101 @@ status: planned
 
 ---
 type: article
-title: Les règles avant les réseaux, les systèmes experts
-slug: systemes-experts-les-regles-avant-les-reseaux
+title: Comment fonctionnaient les systèmes experts, ces IA faites de règles ?
+slug: comment-fonctionnaient-les-systemes-experts-ces-ia-faites-de-regles
 categoryPath: intelligence-artificielle/apprentissage-automatique
 summary: >
-  Un système expert combine une base de connaissances et un moteur d'inférence qui applique des
-  règles « si… alors… ». DENDRAL et MYCIN en sont des pionniers.
-tags: [systemes-experts, regles, essentiel-reconstruction, reconstruction]
+  Un système expert est un programme qui imite le raisonnement d'un spécialiste. Il contient
+  des centaines de règles du type « si... alors... », écrites à la main avec l'aide d'experts.
+  Ces systèmes ont connu leur grande époque dans les années 1980, avant l'essor de
+  l'apprentissage automatique.
+tags: [systemes-experts, regles, reconstruction]
 sources:
-  - title: "Expert system"
-    url: "https://en.wikipedia.org/wiki/Expert_system"
-    publisher: "Wikipedia"
-  - title: "Expert systems in the 1980s"
-    url: "https://stacks.stanford.edu/file/druid:vf069sz9374/vf069sz9374.pdf"
-    publisher: "E. A. Feigenbaum, Stanford University"
-  - title: "DENDRAL and Meta-DENDRAL"
-    url: "https://stacks.stanford.edu/file/druid:pj337tr4694/pj337tr4694.pdf"
-    publisher: "E. A. Feigenbaum et B. G. Buchanan, Artificial Intelligence"
-  - title: "Dendral"
-    url: "https://en.wikipedia.org/wiki/Dendral"
-    publisher: "Wikipedia"
+  - title: "Système expert"
+    url: "https://fr.wikipedia.org/wiki/Syst%C3%A8me_expert"
+    publisher: "Wikipédia"
   - title: "Mycin"
     url: "https://en.wikipedia.org/wiki/Mycin"
     publisher: "Wikipedia"
-  - title: "Expert Systems/MYCIN"
-    url: "https://en.wikibooks.org/wiki/Expert_Systems/MYCIN"
-    publisher: "Wikibooks"
+  - title: "Expert system"
+    url: "https://en.wikipedia.org/wiki/Expert_system"
+    publisher: "Wikipedia"
 quiz:
-  - question: "Quelles sont les deux parties d'un système expert ?"
-    options:
-      - "Un écran et un clavier"
-      - "Une base de connaissances et un moteur d'inférence"
-      - "Un réseau de neurones et une base d'images"
-    answer: 2
-    explanation: >
-      Un système expert comprend une base de connaissances, qui représente des faits et des
-      règles, et un moteur d'inférence, qui applique les règles aux faits connus pour en déduire
-      de nouveaux faits.
-  - question: "Que faisait DENDRAL ?"
-    options:
-      - "Il jouait aux échecs"
-      - "Il identifiait des molécules organiques à partir de spectres de masse"
-      - "Il traduisait des textes"
-    answer: 2
-    explanation: >
-      DENDRAL aide des chimistes à identifier des molécules organiques inconnues en analysant
-      leurs spectres de masse.
   - question: "Quelle forme ont les règles d'un système expert ?"
     options:
-      - "« si… alors… »"
-      - "Un tableau de nombres"
-      - "Un dessin"
-    answer: 1
-    explanation: >
-      Les règles sont de la forme « si… alors… », et non du code procédural classique.
-lastVerified: 2026-09-30
-priority: 2
-essentiel: true
-status: planned
----
-
-## En bref
-
-Un système expert est un programme qui utilise des connaissances et des règles de raisonnement pour résoudre des problèmes exigeant une expertise humaine. Il combine une base de connaissances et un moteur d'inférence. DENDRAL, en chimie, et MYCIN, pour des infections graves, comptent parmi ses pionniers.
-
-[Emplacement image : diagramme en quatre étapes reliées par des flèches, « Comment un système expert raisonne ». Base de connaissances : des faits et des règles « si… alors… » fournis par des experts. Données du cas : les informations saisies pour le problème à résoudre. Moteur d'inférence : il applique les règles aux faits connus. Nouveaux faits : les déductions qui mènent à une conclusion. Légende et texte alternatif à fournir ultérieurement.]
-
-## Une règle, deux parties
-
-Une règle ressemble à « si le feu est rouge, alors je m'arrête ». Les règles d'un système expert sont de la forme « si… alors… », et non du code procédural classique. Le système comprend une base de connaissances, qui représente des faits et des règles, et un moteur d'inférence, qui applique les règles aux faits connus pour en déduire de nouveaux faits.
-
-## Deux sortes de connaissances
-
-Les connaissances d'un système expert sont de deux sortes : des faits largement partagés par les experts, et des heuristiques, règles de bon jugement plus privées qui caractérisent la décision d'expert. Le niveau du système dépend surtout de la taille et de la qualité de sa base de connaissances.
-
-## DENDRAL
-
-DENDRAL aide des chimistes à identifier des molécules organiques inconnues en analysant leurs spectres de masse. On le considère comme le premier système expert, car il automatise la démarche de décision des chimistes organiciens. Ses concepteurs ont constaté que davantage de connaissances de chimie comptait plus que des méthodes de résolution de problèmes plus puissantes.
-
-## MYCIN
-
-MYCIN est développé à l'université Stanford au début des années 1970, pendant cinq ou six ans. Il identifiait des bactéries responsables d'infections graves et recommandait des antibiotiques. Il n'a jamais servi en routine : il fonctionnait seul, avec saisie manuelle des données, sur un ordinateur PDP-10, avant l'arrivée des ordinateurs personnels, et des observateurs ont soulevé des questions d'éthique et de responsabilité des médecins. EMYCIN a repris son mécanisme de règles : pour un nouveau domaine, le concepteur fournit ses propres règles et paramètres.
-
-## Une limite
-
-Le problème le plus cité est celui de l'acquisition des connaissances : obtenir du temps d'experts du domaine est toujours difficile.
-
-## Avant de commencer
-
-Il faut savoir ce qu'est une règle « si… alors… » et un programme qui la suit.
-
-## À retenir
-
-- Un système expert combine une base de connaissances et un moteur d'inférence qui applique des règles « si… alors… ».
-- DENDRAL aide des chimistes à identifier des molécules à partir de leurs spectres de masse ; on le considère comme le premier système expert.
-- MYCIN est développé à Stanford au début des années 1970, pendant cinq ou six ans.
-- MYCIN n'a jamais servi en routine : il fonctionnait seul, avec saisie manuelle des données.
-- Le problème le plus cité est l'acquisition des connaissances.
-
----
-type: article
-title: Comment un réseau de neurones corrige-t-il ses erreurs en ajustant ses poids ?
-slug: comment-un-reseau-de-neurones-corrige-t-il-ses-erreurs-en-ajustant-ses-poids
-categoryPath: intelligence-artificielle/apprentissage-automatique
-summary: >
-  Un réseau apprend en ajustant ses poids. La rétropropagation calcule la part d'erreur de
-  chaque poids, puis la descente de gradient les corrige un peu à la fois.
-tags: [apprentissage-automatique]
-sources:
-  - title: "Backpropagation"
-    url: "https://en.wikipedia.org/wiki/Backpropagation"
-    publisher: "Wikipedia"
-  - title: "Rétropropagation du gradient"
-    url: "https://fr.wikipedia.org/wiki/R%C3%A9tropropagation_du_gradient"
-    publisher: "Wikipédia"
-  - title: "Gradient descent"
-    url: "https://en.wikipedia.org/wiki/Gradient_descent"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Que modifie un réseau de neurones quand il apprend ?"
-    options:
-      - "Ses poids"
-      - "Son écran"
-      - "Son nom"
-    answer: 1
-    explanation: >
-      Entraîner un réseau de neurones, c'est modifier ses poids pour réduire l'erreur de ses
-      prédictions.
-  - question: "Dans quel sens la rétropropagation fait-elle circuler l'erreur ?"
-    options:
-      - "De l'entrée vers la sortie"
-      - "Elle ne circule pas"
-      - "De la sortie vers l'entrée"
-    answer: 3
-    explanation: >
-      Dans la passe arrière, la rétropropagation fait remonter l'erreur de la sortie vers
-      l'entrée, pour calculer la part de chaque poids dans l'erreur.
-  - question: "Que se passe-t-il si le taux d'apprentissage est trop grand ?"
-    options:
-      - "On dépasse la cible et l'apprentissage diverge"
-      - "L'apprentissage devient parfait"
-      - "Le réseau s'éteint"
-    answer: 1
-    explanation: >
-      Le taux d'apprentissage règle la taille du pas : trop petit, l'apprentissage est lent ;
-      trop grand, il dépasse la cible et diverge.
-  - question: "Quel algorithme sert de base à l'entraînement de la plupart des réseaux profonds ?"
-    options:
-      - "La descente de gradient stochastique"
-      - "Le tri alphabétique"
-      - "La compression d'images"
-    answer: 1
-    explanation: >
-      La descente de gradient stochastique est l'algorithme de base pour entraîner la plupart
-      des réseaux profonds.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-Un réseau apprend en ajustant ses poids. La rétropropagation calcule la part d'erreur de chaque poids, puis la descente de gradient les corrige un peu à la fois.
-
-## Mesurer l'erreur
-
-Entraîner un réseau de neurones, c'est modifier ses poids pour réduire l'erreur de ses prédictions. Dans la passe avant, les données d'entrée traversent les couches du réseau jusqu'à produire une sortie. Une fonction de coût mesure l'écart entre la sortie du réseau et la réponse attendue.
-
-## Faire remonter l'erreur
-
-Dans la passe arrière, la rétropropagation fait remonter l'erreur de la sortie vers l'entrée, pour calculer la part de chaque poids dans l'erreur. Elle applique la règle de dérivation en chaîne, couche après couche, en partant de la dernière. Elle évite de refaire les mêmes calculs pour chaque poids, ce qui rend l'entraînement praticable. Les poids qui causent la plus grande erreur sont corrigés davantage que ceux qui comptent peu.
-
-## Corriger les poids
-
-La descente de gradient déplace ensuite chaque poids dans le sens opposé au gradient, pour faire baisser l'erreur. Le taux d'apprentissage règle la taille du pas : trop petit, l'apprentissage est lent ; trop grand, il dépasse la cible et diverge. La méthode peut s'arrêter dans un minimum local au lieu de trouver la meilleure solution possible. La descente de gradient stochastique est l'algorithme de base pour entraîner la plupart des réseaux profonds. On peut mettre à jour les poids exemple par exemple, ou après avoir accumulé l'erreur d'un lot d'exemples, plus efficace pour le calcul.
-
-## D'où vient la méthode ?
-
-Plusieurs chercheurs ont posé les bases de la méthode, mais le travail de Rumelhart, Hinton et Williams l'a fait adopter largement pour entraîner des réseaux à plusieurs couches.
-
-## À retenir
-
-- Entraîner un réseau de neurones, c'est modifier ses poids pour réduire l'erreur de ses prédictions.
-- La passe arrière fait remonter l'erreur de la sortie vers l'entrée, pour calculer la part de chaque poids.
-- La descente de gradient déplace ensuite chaque poids dans le sens opposé au gradient, pour faire baisser l'erreur.
-- Le taux d'apprentissage règle la taille du pas : trop petit, c'est lent ; trop grand, on dépasse la cible.
-- La descente de gradient stochastique est l'algorithme de base pour entraîner la plupart des réseaux profonds.
-
----
-type: article
-title: Comment AlexNet a-t-il lancé la révolution de l'apprentissage profond ?
-slug: comment-alexnet-a-t-il-lance-la-revolution-de-l-apprentissage-profond
-categoryPath: intelligence-artificielle/apprentissage-automatique/apprentissage-profond
-summary: >
-  En 2012, le réseau AlexNet a gagné le concours ImageNet avec une avance énorme grâce à des
-  processeurs graphiques. Ce résultat a lancé l'ère de l'apprentissage profond.
-tags: [apprentissage-profond]
-sources:
-  - title: "AlexNet"
-    url: "https://en.wikipedia.org/wiki/AlexNet"
-    publisher: "Wikipedia"
-  - title: "AlexNet"
-    url: "https://fr.wikipedia.org/wiki/AlexNet"
-    publisher: "Wikipédia"
-  - title: "ImageNet"
-    url: "https://en.wikipedia.org/wiki/ImageNet"
-    publisher: "Wikipedia"
-  - title: "ILSVRC 2012 results"
-    url: "https://image-net.org/challenges/LSVRC/2012/results.html"
-    publisher: "ImageNet"
-quiz:
-  - question: "Quel concours AlexNet a-t-il remporté ?"
-    options:
-      - "Un concours d'échecs"
-      - "Le concours de reconnaissance d'images ImageNet"
-      - "Un concours de cuisine"
+      - "Des dessins"
+      - "Si... alors..."
+      - "Des notes de musique"
     answer: 2
     explanation: >
-      Chaque année, un concours appelé ILSVRC demandait à des équipes de reconnaître des objets
-      dans ces images.
-  - question: "Sur quel matériel AlexNet a-t-il été entraîné ?"
+      Chaque règle dit : si certaines conditions sont vraies, alors on peut conclure
+      quelque chose.
+  - question: "Quelle partie d'un système expert applique les règles aux faits ?"
     options:
-      - "Des machines à écrire"
-      - "Des calculatrices"
-      - "Des processeurs graphiques (GPU)"
+      - "Le moteur d'inférence"
+      - "L'écran"
+      - "La base de faits"
+    answer: 1
+    explanation: >
+      Le moteur d'inférence combine les faits connus et les règles pour en tirer de
+      nouvelles conclusions.
+  - question: "À quoi servait MYCIN ?"
+    options:
+      - "À piloter des avions"
+      - "À jouer aux échecs"
+      - "À trouver la bactérie d'une infection et proposer un antibiotique"
     answer: 3
     explanation: >
-      Il a été entraîné sur des processeurs graphiques, ce qui a permis de paralléliser les
-      calculs d'un réseau très profond.
-  - question: "Qu'a montré le résultat d'AlexNet ?"
+      MYCIN identifiait les bactéries de certaines infections graves et recommandait un
+      antibiotique avec sa dose.
+  - question: "Quel était le grand problème des systèmes experts ?"
     options:
-      - "Qu'il fallait supprimer les images"
-      - "Que les réseaux ne servent à rien"
-      - "L'apprentissage profond pouvait battre les méthodes classiques de vision"
-    answer: 3
-    explanation: >
-      Il a montré que l'apprentissage profond pouvait battre les méthodes classiques de vision
-      par ordinateur.
-  - question: "À quelle année ce résultat date-t-il ?"
-    options:
-      - "1950"
-      - "2030"
-      - "2012"
-    answer: 3
-    explanation: >
-      AlexNet a remporté le concours ImageNet en 2012.
-lastVerified: 2026-09-30
-status: published
----
-
-## En bref
-
-En 2012, le réseau AlexNet a gagné le concours ImageNet avec une avance énorme grâce à des processeurs graphiques. Ce résultat a lancé l'ère de l'apprentissage profond.
-
-## Une base d'images et un concours
-
-ImageNet est une immense base d'images annotées à la main, organisée selon des noms de la base WordNet. La chercheuse Fei-Fei Li a lancé ce projet, et les étiquettes ont été produites par une foule de travailleurs sur Internet. Chaque année, un concours appelé ILSVRC demandait à des équipes de reconnaître des objets dans ces images.
-
-## Le réseau
-
-AlexNet est un réseau de neurones convolutif conçu par Alex Krizhevsky, Ilya Sutskever et Geoffrey Hinton. Il enchaîne des couches de convolution, parfois suivies de regroupement, puis des couches entièrement connectées. Il utilise la fonction d'activation ReLU et une technique appelée dropout, qui limite le sur-apprentissage. Il compte environ 60 millions de paramètres. Il a été entraîné sur des processeurs graphiques, ce qui a permis de paralléliser les calculs d'un réseau très profond. La profondeur du modèle est essentielle pour obtenir de hautes performances.
-
-## Un résultat qui change tout
-
-AlexNet a remporté le concours ImageNet en 2012. Il s'est trompé sur environ 15,3 % des images, en comptant cinq réponses possibles par image. L'écart avec le deuxième était très net. Il a montré que l'apprentissage profond pouvait battre les méthodes classiques de vision par ordinateur. Son article est devenu l'un des plus cités de la vision par ordinateur et a lancé l'usage massif des GPU pour l'apprentissage profond.
-
-## À retenir
-
-- AlexNet a remporté le concours ImageNet en 2012.
-- Il s'est trompé sur environ 15,3 % des images, en comptant cinq réponses possibles par image.
-- Il a été entraîné sur des processeurs graphiques, ce qui a permis de paralléliser les calculs d'un réseau très profond.
-- Il a montré que l'apprentissage profond pouvait battre les méthodes classiques de vision par ordinateur.
-- Son article est l'un des plus cités de la vision par ordinateur et a lancé l'usage massif des GPU.
-
----
-type: article
-title: Comment un assistant vocal comprend-il ce que vous dites, et vous répond-il ?
-slug: comment-un-assistant-vocal-comprend-il-ce-que-vous-dites-et-vous-repond-il
-categoryPath: intelligence-artificielle/modeles-de-langage/ia-generative
-summary: >
-  Un assistant vocal attend un mot d'activation, transforme la parole en texte, comprend la
-  demande, puis répond avec une voix synthétique. Cela soulève des questions de vie privée.
-tags: [ia-generative]
-sources:
-  - title: "Virtual assistant"
-    url: "https://en.wikipedia.org/wiki/Virtual_assistant"
-    publisher: "Wikipedia"
-  - title: "Assistant personnel intelligent"
-    url: "https://fr.wikipedia.org/wiki/Assistant_personnel_intelligent"
-    publisher: "Wikipédia"
-  - title: "Speech recognition"
-    url: "https://en.wikipedia.org/wiki/Speech_recognition"
-    publisher: "Wikipedia"
-  - title: "Speech synthesis"
-    url: "https://en.wikipedia.org/wiki/Speech_synthesis"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Que fait un assistant vocal avant d'écouter votre demande ?"
-    options:
-      - "Il lit votre courrier"
-      - "Il attend un mot d'activation"
-      - "Il éteint votre téléphone"
+      - "Ils étaient trop petits"
+      - "Il était très difficile de recueillir et d'entretenir les connaissances des experts"
+      - "Ils ne savaient pas compter"
     answer: 2
     explanation: >
-      La plupart des assistants vocaux attendent un mot d'activation, comme « Alexa » ou « OK
-      Google », avant d'écouter.
-  - question: "Que fait la reconnaissance vocale ?"
-    options:
-      - "Elle transforme la parole en texte"
-      - "Elle fabrique de la musique"
-      - "Elle imprime des photos"
-    answer: 1
-    explanation: >
-      La reconnaissance vocale transforme la parole en texte.
-  - question: "À quoi sert la synthèse vocale ?"
-    options:
-      - "À recopier un livre"
-      - "À produire la voix de l'assistant"
-      - "À mesurer la température"
-    answer: 2
-    explanation: >
-      La synthèse vocale produit artificiellement de la parole humaine ; c'est ce qui donne sa
-      voix à l'assistant.
-  - question: "Pourquoi les enceintes connectées inquiètent-elles ?"
-    options:
-      - "Elles sont trop lourdes"
-      - "Elles consomment du sable"
-      - "Elles écoutent en permanence en attendant le mot d'activation"
-    answer: 3
-    explanation: >
-      Beaucoup de gens craignent pour leur vie privée avec les enceintes connectées, parce
-      qu'elles écoutent en permanence.
-lastVerified: 2026-09-30
+      Les experts ont peu de temps, et leur savoir est dur à mettre en règles. Plus il y
+      avait de règles, plus le système était difficile à entretenir.
+lastVerified: 2026-10-09
 status: published
 ---
 
 ## En bref
 
-Un assistant vocal attend un mot d'activation, transforme la parole en texte, comprend la demande, puis répond avec une voix synthétique. Cela soulève des questions de vie privée.
+Un système expert est un programme qui imite le raisonnement d'un spécialiste. Il contient des centaines de règles du type « si... alors... », écrites à la main avec l'aide d'experts. Ces systèmes ont connu leur grande époque dans les années 1980, avant l'essor de l'apprentissage automatique.
 
-## Qu'est-ce qu'un assistant vocal ?
+## Mettre un expert dans un ordinateur
 
-Un assistant virtuel est un logiciel qui exécute des tâches à partir de commandes ou de questions, parfois dites à voix haute. Siri, Alexa, Google Assistant, Copilot et Bixby sont des exemples d'assistants grand public. La plupart des assistants vocaux attendent un mot d'activation, comme « Alexa » ou « OK Google », avant d'écouter.
+Un médecin, un chimiste ou un garagiste sait résoudre des problèmes grâce à son expérience. Dans les années 1960 et 1970, des chercheurs ont eu une idée : écrire ce savoir sous forme de règles, puis laisser un ordinateur raisonner avec.
 
-## Entendre, comprendre, parler
+Le résultat s'appelle un système expert. C'est un programme qui imite la façon dont un spécialiste prend une décision. Les systèmes experts ont été parmi les premiers vrais succès de l'intelligence artificielle.
 
-La reconnaissance vocale transforme la parole en texte. Les réseaux de neurones profonds ont fait nettement baisser les erreurs de reconnaissance vocale. Les accents, le bruit de fond et un vocabulaire étendu rendent la reconnaissance plus difficile. Le traitement du langage permet ensuite de relier la demande à une commande que le logiciel peut exécuter. La synthèse vocale produit artificiellement de la parole humaine ; c'est ce qui donne sa voix à l'assistant. Des modèles d'apprentissage profond peuvent générer directement le signal sonore d'une voix. Depuis l'arrivée de chatbots comme ChatGPT, les assistants sont devenus plus capables.
+## Des faits, des règles et un moteur
 
-## Les limites et les risques
+Un système expert a trois parties. La base de faits contient ce que l'on sait sur le cas à traiter, par exemple les symptômes d'un malade. La base de règles contient le savoir des experts. Chaque règle a la forme « si... alors... » : si le patient a de la fièvre et telle analyse est positive, alors telle bactérie est probable.
 
-Il faut désormais très peu d'enregistrements pour cloner une voix, ce qui ouvre la porte à des usages abusifs. Beaucoup de gens craignent pour leur vie privée avec les enceintes connectées, parce qu'elles écoutent en permanence. Les politiques de confidentialité varient selon les fabricants : certains disent ne pas garder l'audio sans permission, mais peuvent garder les transcriptions. Ces systèmes gèrent mal les longues conversations et prennent les questions au pied de la lettre.
+La troisième partie est le moteur d'inférence. C'est lui qui raisonne. Il regarde les faits, cherche les règles qui s'appliquent, et en tire de nouvelles conclusions. Ces conclusions deviennent de nouveaux faits, qui déclenchent d'autres règles.
 
-## À retenir
+Contrairement à un réseau de neurones, un système expert n'apprend pas à partir d'exemples. Toutes ses règles sont écrites à la main, avec l'aide des spécialistes.
 
-- La plupart des assistants vocaux attendent un mot d'activation, comme « Alexa » ou « OK Google », avant d'écouter.
-- La reconnaissance vocale transforme la parole en texte.
-- Le traitement du langage permet ensuite de relier la demande à une commande que le logiciel peut exécuter.
-- La synthèse vocale produit artificiellement de la parole humaine ; c'est ce qui donne sa voix à l'assistant.
-- Beaucoup de gens craignent pour leur vie privée avec les enceintes connectées, parce qu'elles écoutent en permanence.
+## MYCIN, un médecin en règles
 
----
-type: article
-title: Le perceptron, la machine qui apprend
-slug: le-perceptron-la-machine-qui-apprend
-categoryPath: intelligence-artificielle/apprentissage-automatique
-summary: >
-  Le perceptron de Frank Rosenblatt, présenté en 1958, apprend à distinguer deux types de
-  cartes. Un livre de 1969 en pointe les limites.
-tags: [perceptron, histoire-de-l-ia, reseaux-de-neurones]
-sources:
-  - title: "Professor's perceptron paved the way for AI – 60 years too soon"
-    url: "https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon"
-    publisher: "Cornell Chronicle"
-  - title: "Perceptron"
-    url: "https://en.wikipedia.org/wiki/Perceptron"
-    publisher: "Wikipedia"
-  - title: "Frank Rosenblatt"
-    url: "https://en.wikipedia.org/wiki/Frank_Rosenblatt"
-    publisher: "Wikipedia"
-  - title: "Perceptrons (book)"
-    url: "https://en.wikipedia.org/wiki/Perceptrons_(book)"
-    publisher: "Wikipedia"
-quiz:
-  - question: "Où Rosenblatt a-t-il construit le perceptron ?"
-    options:
-      - "Au Cornell Aeronautical Laboratory, à Buffalo"
-      - "Au MIT, à Boston"
-      - "À Stanford, en Californie"
-    answer: 1
-    explanation: >
-      Frank Rosenblatt, psychologue et ingénieur de projet au Cornell Aeronautical Laboratory de
-      Buffalo, a construit le perceptron.
-  - question: "Quel ordinateur sert à la démonstration de juillet 1958 ?"
-    options:
-      - "Un IBM 704"
-      - "Un micro-ordinateur"
-      - "Un Minitel"
-    answer: 1
-    explanation: >
-      En juillet 1958, l'Office of Naval Research présente le perceptron : un ordinateur IBM 704
-      apprend à distinguer des cartes marquées à gauche de cartes marquées à droite.
-  - question: "Quelle fonction un neurone artificiel isolé ne peut-il pas réaliser ?"
-    options:
-      - "Le « ou exclusif » (XOR)"
-      - "L'addition"
-      - "Le « et » logique"
-    answer: 1
-    explanation: >
-      Ce livre montre qu'un neurone artificiel isolé ne peut pas réaliser certaines fonctions,
-      comme le « ou exclusif » (XOR).
-  - question: "Qu'appelle-t-on l'« hiver de l'IA » ?"
-    options:
-      - "Des décennies où les financements fédéraux pour l'IA se sont taris"
-      - "Une saison de tests de robots"
-      - "Un prix annuel"
-    answer: 1
-    explanation: >
-      L'« hiver de l'IA » désigne des décennies où les financements fédéraux pour l'intelligence
-      artificielle se sont taris.
-lastVerified: 2026-09-30
-status: published
----
+Le premier système expert connu, DENDRAL, date de 1965. Il aidait des chimistes à identifier des molécules. Au début des années 1970, à l'université Stanford, Edward Shortliffe a créé MYCIN. Ce programme cherchait quelle bactérie causait une infection grave, comme une méningite. Il proposait ensuite un antibiotique et une dose adaptée au poids du patient.
 
-## En bref
+MYCIN contenait environ 600 règles. Lors d'un test, ses propositions ont été jugées acceptables dans 65 % des cas. Cinq médecins de l'université obtenaient entre 42,5 % et 62,5 %. Pourtant, MYCIN n'a jamais été utilisé à l'hôpital : il fallait taper toutes les données à la main, sur un gros ordinateur, à une époque sans ordinateurs personnels.
 
-Le perceptron de Frank Rosenblatt, présenté en 1958, apprend à distinguer deux types de cartes. Un livre de 1969 en pointe les limites.
+## Gloire et limites
 
-## Un psychologue et une machine
-
-Frank Rosenblatt, psychologue et ingénieur de projet au Cornell Aeronautical Laboratory de Buffalo, a construit le perceptron. Son Mark I Perceptron est aujourd'hui conservé à la Smithsonian Institution.
-
-## La démonstration de 1958
-
-En juillet 1958, l'Office of Naval Research présente le perceptron : un ordinateur IBM 704 apprend à distinguer des cartes perforées marquées à gauche de cartes marquées à droite. Après une conférence de presse de la Marine, un journal décrit le perceptron comme l'embryon d'un ordinateur qui pourrait marcher, parler, voir, écrire, se reproduire et avoir conscience de lui-même.
-
-## Les limites
-
-En 1969, Marvin Minsky et Seymour Papert publient le livre Perceptrons. Il montre qu'un neurone artificiel isolé ne peut pas réaliser certaines fonctions, comme le « ou exclusif » (XOR).
-
-## L'hiver de l'IA
-
-Après ce livre, la recherche sur les réseaux de neurones a décliné : c'est l'une des origines de l'« hiver de l'IA », des décennies où les financements fédéraux pour l'intelligence artificielle se sont taris.
+Dans les années 1980, les systèmes experts ont connu un grand succès. Deux tiers des 500 plus grandes entreprises américaines les utilisaient. Mais ils avaient un gros défaut. Recueillir le savoir des experts prenait beaucoup de temps, et ce savoir était difficile à transformer en règles. Plus le nombre de règles grandissait, plus le système devenait difficile à entretenir et fragile face aux cas imprévus. L'apprentissage automatique, qui tire ses règles des données, a ensuite pris le relais.
 
 ## À retenir
 
-- Frank Rosenblatt, psychologue et ingénieur au Cornell Aeronautical Laboratory de Buffalo, a construit le perceptron.
-- En juillet 1958, un IBM 704 apprend à distinguer des cartes marquées à gauche de cartes marquées à droite.
-- Un journal décrit la machine comme l'embryon d'un ordinateur qui pourrait marcher, parler, voir et écrire.
-- En 1969, Minsky et Papert montrent qu'un neurone artificiel isolé ne peut pas réaliser le « ou exclusif ».
-- Le recul de la recherche qui suit contribue à l'« hiver de l'IA ».
-
----
-type: article
-title: Pourquoi une IA peut se tromper avec assurance
-slug: pourquoi-une-ia-peut-se-tromper-avec-assurance
-categoryPath: intelligence-artificielle/modeles-de-langage/limites-et-erreurs
-summary: >
-  Sujet de veille de septembre 2026 à documenter avec des sources vérifiables : pourquoi une IA peut se tromper avec assurance.
-tags: [limites-et-erreurs, veille-2026-09]
-priority: 0.85
-essentiel: false
-status: planned
----
-
-À rédiger.
+- Un système expert imite le raisonnement d'un spécialiste avec des règles « si... alors... ».
+- Il contient une base de faits, une base de règles et un moteur d'inférence qui raisonne.
+- Ses règles sont écrites à la main avec des experts : il n'apprend pas à partir d'exemples.
+- MYCIN, créé à Stanford au début des années 1970, utilisait environ 600 règles pour soigner des infections.
+- Les systèmes experts ont connu leur âge d'or dans les années 1980, puis ont été freinés par la difficulté de recueillir et d'entretenir les connaissances.
 
 ---
 type: article
