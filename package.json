@@ -13,6 +13,7 @@
     "build:with-db": "prisma migrate deploy && tsx prisma/seed.ts && npm run build",
     "predev": "node scripts/illustrations.mjs --manifeste",
     "dev": "next dev",
+    "preview:local": "node scripts/preview-local.mjs",
     "illustrations": "node scripts/illustrations.mjs",
     "illustrations:consignes": "tsx scripts/consignes-illustrations.ts",
     "format": "prettier --write .",

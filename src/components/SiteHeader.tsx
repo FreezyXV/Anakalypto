@@ -29,13 +29,15 @@ function Brand() {
   return (
     <Link
       href="/"
-      className="flex items-center gap-2.5 no-underline"
+      className="flex shrink-0 items-center gap-2.5 no-underline"
       aria-label="Anakalypto, accueil"
     >
       <span className="disc h-10 w-10 p-1.5" style={MARK_COLORS}>
         <Glyph name="bulb" />
       </span>
-      <span className="wordmark text-[1.7rem] leading-none">Anakalypto</span>
+      <span className="wordmark text-[1.45rem] leading-none min-[360px]:text-[1.7rem]">
+        Anakalypto
+      </span>
     </Link>
   );
 }
@@ -55,7 +57,7 @@ export function SiteHeader() {
   return (
     <SiteHeaderFrame>
       <div className="mx-auto max-w-6xl px-4 py-3 sm:px-6">
-        <div className="flex items-center gap-x-5">
+        <div className="flex flex-wrap items-center gap-x-2 gap-y-2 md:gap-x-5">
           <Brand />
 
           <nav

@@ -1,6 +1,6 @@
 {
   "slug": "naissance-d-un-cyclone",
-  "version": 3,
+  "version": 4,
   "status": "published",
   "title": "Pourquoi un cyclone a-t-il besoin d'une mer chaude ?",
   "summary": "Réchauffe la mer et observe comment la vapeur d'eau alimente une tempête qui se met à tourner.",
@@ -30,7 +30,7 @@
       "text": "Un cyclone tropical est une immense tempête qui tourne. Il naît au-dessus d’une mer chaude. Quel rôle joue l’eau ?",
       "visual": {
         "kind": "cyclone",
-        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "caption": "Nuages : condensation → chaleur. Rotation vue du dessus à gauche (Nord).",
         "active": false
       }
     },
@@ -40,7 +40,7 @@
       "text": "Une mer chaude, autour de 27 °C ou plus, favorise un cyclone. Elle ne suffit pas : l’humidité et des vents qui changent peu avec l’altitude comptent aussi. Compare la mer froide et la mer chaude.",
       "visual": {
         "kind": "cyclone",
-        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "caption": "Nuages : condensation → chaleur. Rotation vue du dessus à gauche (Nord).",
         "active": false
       },
       "interaction": {
@@ -58,7 +58,7 @@
       "text": "Observe les nuages au-dessus de la mer chaude : la vapeur y devient des gouttes.",
       "visual": {
         "kind": "cyclone",
-        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "caption": "Nuages : condensation → chaleur. Rotation vue du dessus à gauche (Nord).",
         "active": true
       },
       "interaction": {
@@ -91,7 +91,7 @@
       "text": "L’air converge vers le centre. La rotation de la Terre le fait tourner : dans l’hémisphère nord, en sens inverse des aiguilles d’une montre. Un cyclone naît rarement tout près de l’équateur.",
       "visual": {
         "kind": "cyclone",
-        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "caption": "Nuages : condensation → chaleur. Rotation vue du dessus à gauche (Nord).",
         "active": true
       }
     },
@@ -101,7 +101,7 @@
       "text": "Le cyclone quitte la mer et avance au-dessus des terres.",
       "visual": {
         "kind": "cyclone",
-        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "caption": "Nuages : condensation → chaleur. Rotation vue du dessus à gauche (Nord).",
         "active": false,
         "scene": "land"
       },
@@ -135,7 +135,7 @@
       "text": "Une mer chaude fournit la vapeur. En formant des nuages, cette vapeur libère la chaleur qui nourrit le cyclone. La rotation de la Terre le fait tourner. Loin de la mer, il s'affaiblit.",
       "visual": {
         "kind": "cyclone",
-        "caption": "Coupe verticale ; à gauche, rotation vue du dessus dans l’hémisphère nord.",
+        "caption": "Nuages : condensation → chaleur. Rotation vue du dessus à gauche (Nord).",
         "active": true
       }
     }

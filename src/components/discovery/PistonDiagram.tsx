@@ -13,7 +13,7 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
   const gas = ["#c4e9ff", "#ffe5a4", "#ffb184", "#ddd6d0"][state.phase];
   return (
     <>
-      <text x="180" y="20" textAnchor="middle" fill={INK} fontSize="16" fontWeight="700">
+      <text x="180" y="17" textAnchor="middle" fill={INK} fontSize="16" fontWeight="700">
         {state.phase + 1}. {state.name}
       </text>
       <path
@@ -25,7 +25,7 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
       <text x="20" y="84" fill={BLUE} fontSize="12">
         Admission
       </text>
-      <text x="258" y="84" fill={ORANGE} fontSize="12">
+      <text x="341" y="84" textAnchor="end" fill={ORANGE} fontSize="12">
         Échappement
       </text>
       <path d={`M131 56 H229 V${y} H131 Z`} fill={gas} />
@@ -36,8 +36,8 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
       <g transform={`translate(212 ${state.exhaustOpen ? 9 : 0})`}>
         <path d="M0 39 V57 M-12 57 H12" stroke={INK} strokeWidth="4" />
       </g>
-      <path d="M176 39 H184 V56 H176 Z" stroke={INK} strokeWidth="2" fill="#fff" />
-      <text x="180" y="35" textAnchor="middle" fill={INK} fontSize="12">
+      <path d="M176 43 H184 V56 H176 Z" stroke={INK} strokeWidth="2" fill="#fff" />
+      <text x="180" y="38" textAnchor="middle" fill={INK} fontSize="12">
         Bougie
       </text>
       {state.spark && (
@@ -89,21 +89,15 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
         Piston
       </text>
       <path d={`M60 146 L127 ${y + 7}`} stroke={INK} fill="none" />
-      <text x="246" y="177" fill={INK} fontSize="13">
+      <text x="241" y="166" fill={INK} fontSize="13">
         Vilebrequin
       </text>
-      <path d="M240 174 L203 181" stroke={INK} fill="none" />
-      <text x="82" y="198" fill={INK} fontSize="13">
+      <path d="M238 169 L204 181" stroke={INK} fill="none" />
+      <text x="30" y="198" fill={INK} fontSize="13">
         {Math.round(state.crankAngle)}° / 720°
       </text>
-      <path
-        d="M302 137 C324 144 324 163 302 170 C280 163 280 144 301 137 l-6 -2 m6 2 l-3 5"
-        fill="none"
-        stroke={BLUE}
-        strokeWidth="2"
-      />
       <text x="302" y="194" textAnchor="middle" fill={BLUE} fontSize="12">
-        2 tours / cycle
+        2 tours
       </text>
     </>
   );

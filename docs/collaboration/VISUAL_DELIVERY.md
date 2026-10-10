@@ -55,3 +55,9 @@ La mission est décrite dans `CLAUDE_CODE_PHASE2_PROMPT.md` : fermer les points 
 Les corrections d’articles Expanded nécessitent encore un import dans la base choisie. Aucun import, migration, commit, push ou déploiement n’est réalisé dans cette tranche.
 
 Les propositions de la phase 2 de Claude ont été examinées et intégrées dans les JSON et composants concernés. Le détail figure dans `CODEX_CLAUDE_PHASE2_INTEGRATION.md` ; les documents de Claude restent inchangés.
+
+## Correctif après la recette de Claude — phase 3
+
+Les neuf demandes supplémentaires sont intégrées ; voir `CODEX_CLAUDE_PHASE3_INTEGRATION.md` pour les décisions et les vérifications. Cette tranche relève les légendes des quinze dessins à 16 unités SVG et adapte leur espace sous 380 px : le minimum mesuré dans les découvertes à 320 px CSS est désormais de 12,22 px rendus. Cette mesure remplace le précédent constat à 390 px pour apprécier la lisibilité sur petit écran.
+
+L’en-tête ne déborde plus à 320 px. Les résumés fresque/réseau, les flèches du cyclone, l’interruption de commande du pilote, l’état initial de la fresque, les trajets du turbo et les légendes du piston/pain sont corrigés. Les 32 tests isolés, TypeScript, le lint et la compilation Webpack passent. Les contrôles techniques ne remplacent toujours pas les essais avec des participants ni l’import des articles corrigés dans la base choisie.

@@ -28,7 +28,7 @@ export function PaperDiagram({ state }: DiagramProps) {
         <Label x={103} y={64} size={12}>
           Toile
         </Label>
-        <Label x={103} y={154} size={11} color={C.blue}>
+        <Label x={103} y={148} size={11} color={C.blue}>
           Eau ↓
         </Label>
       </g>

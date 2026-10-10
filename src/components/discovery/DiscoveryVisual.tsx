@@ -84,12 +84,21 @@ export function DiscoveryVisual({
             <text x="180" y="83" textAnchor="middle" fill={INK} fontSize="14">
               Axe
             </text>
-            <path d="M16 49 H72 M59 41 L72 49 L59 57" fill="none" stroke={ORANGE} strokeWidth="5" />
             <path
-              d="M288 49 H343 M330 41 L343 49 L330 57"
+              d="M16 87 H65 l-8 -5 m8 5 l-8 5 M90 117 V145 H152 l-8 -5 m8 5 l-8 5"
+              fill="none"
+              stroke="#b85c16"
+              strokeWidth="3"
+              opacity={active ? 1 : 0.4}
+              strokeDasharray={active ? undefined : "4 4"}
+            />
+            <path
+              d="M208 117 H246 l-8 -5 m8 5 l-8 5 M289 88 H344 l-8 -5 m8 5 l-8 5"
               fill="none"
               stroke={BLUE}
-              strokeWidth="5"
+              strokeWidth="3"
+              opacity={active ? 1 : 0.4}
+              strokeDasharray={active ? undefined : "4 4"}
             />
             <text x="90" y="31" textAnchor="middle" fill="#91420d" fontSize="14">
               Gaz d’échappement
@@ -103,8 +112,26 @@ export function DiscoveryVisual({
             <text x="270" y="166" textAnchor="middle" fill={INK} fontSize="15" fontWeight="700">
               Compresseur
             </text>
+            {[6, 12, 18].map((height, index) => (
+              <rect
+                key={height}
+                x={163 + index * 12}
+                y={145 - height}
+                width="8"
+                height={height}
+                fill={value > (index * 100) / 3 ? "#ffc83d" : "#fff"}
+                stroke={INK}
+              />
+            ))}
+            <text x="180" y="166" textAnchor="middle" fill={INK} fontSize="14">
+              Rotation
+            </text>
             <text x="180" y="196" textAnchor="middle" fill={INK} fontSize="13">
-              Deux flux séparés · un mouvement transmis
+              {value === 0
+                ? "Roues arrêtées"
+                : value <= 66
+                  ? "Rotation modérée"
+                  : "Rotation rapide"}
             </text>
           </>
         )}
@@ -172,6 +199,13 @@ export function DiscoveryVisual({
         )}
         {visual.kind === "piston" && (
           <span className="block">{pistonDescription(value, visual.phase)}</span>
+        )}
+        {visual.kind === "turbo" && (
+          <span className="sr-only">
+            {value === 0
+              ? " Aucun flux dans ce modèle : les roues sont arrêtées."
+              : ` Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent ${value <= 66 ? "modérément" : "rapidement"}, avec un même axe. L’indicateur est qualitatif.`}
+          </span>
         )}
         {mechanism && <span className="sr-only"> {mechanism.description}</span>}
       </figcaption>

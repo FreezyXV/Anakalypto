@@ -1,14 +1,14 @@
 {
   "slug": "la-couleur-dans-le-mur",
-  "version": 2,
+  "version": 3,
   "status": "published",
   "title": "Pourquoi la couleur d'une fresque fait-elle partie du mur ?",
-  "summary": "Peins sur un enduit frais, laisse sécher, et découvre comment la chaux enferme les couleurs.",
+  "summary": "Peins sur un enduit frais, puis observe comment la chaux réagit avec l’air et fixe les couleurs.",
   "domain": "Arts et culture",
   "domainPath": "arts-et-culture",
   "minutes": 3,
   "expandedPath": "/arts-et-culture/arts-visuels/peinture-et-sculpture/comment-une-fresque-reste-t-elle-accrochee-au-mur-pendant-des-siecles",
-  "objective": "Comprendre qu'en séchant, l'enduit de chaux réagit avec le dioxyde de carbone de l'air et emprisonne les pigments.",
+  "objective": "Comprendre que la chaux réagit lentement avec le dioxyde de carbone de l’air, forme du carbonate de calcium et fixe les pigments.",
   "sources": [
     {
       "title": "Fresco — Art Term",

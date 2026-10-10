@@ -15,7 +15,7 @@ function Control({ x, label, detail }: { x: number; label: string; detail: strin
       <Label x={x + 47} y={142} size={13}>
         {label}
       </Label>
-      <Label x={x + 47} y={158} size={11}>
+      <Label x={x + 47} y={162} size={11}>
         {detail}
       </Label>
     </g>
@@ -73,9 +73,8 @@ export function AutopilotDiagram({ state }: DiagramProps) {
       <Control x={17} label="Capteurs" detail="Mesurer" />
       <Control x={133} label="Calculateur" detail="Comparer" />
       <Control x={249} label="Servomoteurs" detail="Commander" />
-      <Arrow x={112} y={146} dx={17} dy={0} dim={!state.active} />
+      <Arrow x={112} y={146} dx={17} dy={0} />
       <Arrow x={228} y={146} dx={17} dy={0} dim={!state.active} />
-      {!state.active && <Stop x={121} y={146} />}
       <path
         d="M296 125 H342 V94 H318"
         fill="none"
@@ -83,6 +82,7 @@ export function AutopilotDiagram({ state }: DiagramProps) {
         strokeWidth="2.5"
         strokeDasharray={state.active ? undefined : "4 4"}
       />
+      {!state.active && <Stop x={342} y={111} />}
       <path d="M236 94 H64 V121" fill="none" stroke={C.blue} strokeWidth="2.5" />
       <Arrow x={64} y={121} dx={0} dy={3} />
       <Arrow x={323} y={94} dx={-7} dy={0} dim={!state.active} />

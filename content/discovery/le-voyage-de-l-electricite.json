@@ -1,9 +1,9 @@
 {
   "slug": "le-voyage-de-l-electricite",
-  "version": 2,
+  "version": 3,
   "status": "published",
   "title": "Comment l'électricité arrive-t-elle jusqu'à ta prise ?",
-  "summary": "Fais voyager l'électricité de la centrale à la maison et découvre pourquoi sa tension change en route.",
+  "summary": "Suis le réseau de la centrale à la maison et découvre pourquoi la tension change à chaque étape.",
   "domain": "Énergie",
   "domainPath": "energie",
   "minutes": 3,

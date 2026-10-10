@@ -1,6 +1,6 @@
 {
   "slug": "le-turbo",
-  "version": 1,
+  "version": 2,
   "status": "published",
   "title": "D’où vient la force du turbo ?",
   "summary": "Fais varier un flux de gaz et observe les deux roues reliées du turbocompresseur.",
@@ -40,7 +40,7 @@
       "interaction": {
         "kind": "range",
         "label": "Flux de gaz d’échappement",
-        "minLabel": "Faible",
+        "minLabel": "Aucun flux",
         "maxLabel": "Important",
         "feedback": "Dans ce modèle simplifié, davantage de gaz entraîne plus vite les deux roues."
       }

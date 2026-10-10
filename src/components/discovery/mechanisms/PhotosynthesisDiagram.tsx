@@ -24,33 +24,33 @@ export function PhotosynthesisDiagram({ state }: DiagramProps) {
         Eau : H₂O
       </Label>
       <Label x={127} y={137} size={13}>
-        {state.active ? "O₂ libéré" : "Eau disponible"}
+        {state.active ? "O₂ libéré" : "Disponible"}
       </Label>
       <Arrow x={127} y={99} dx={0} dy={-29} dim={!state.active} />
       <Label x={126} y={58} color={C.blue}>
         O₂
       </Label>
       <rect
-        x="202"
+        x="195"
         y="101"
-        width="69"
+        width="83"
         height="46"
         rx="8"
         fill={state.active ? "#fff1ba" : "#fff"}
         stroke={C.green}
       />
-      <Label x={236} y={120} size={13}>
+      <Label x={236} y={118} size={13}>
         Calvin
       </Label>
-      <Label x={236} y={137} size={13}>
-        {state.active ? "Sucre" : "Énergie requise"}
+      <Label x={236} y={138} size={13}>
+        {state.active ? "Sucre" : "ATP requis"}
       </Label>
-      <Arrow x={310} y={122} dx={-36} dy={0} color={C.green} />
+      <Arrow x={310} y={122} dx={-30} dy={0} color={C.green} />
       <Label x={314} y={101} color={C.green}>
         CO₂
       </Label>
-      <Arrow x={171} y={125} dx={27} dy={0} color={C.orange} dim={!state.active} />
-      <Label x={185} y={84} size={12} color={C.orange}>
+      <Arrow x={171} y={125} dx={22} dy={0} color={C.orange} dim={!state.active} />
+      <Label x={185} y={79} size={12} color={C.orange}>
         ATP / NADPH
       </Label>
       <path d="M174 87 H195" stroke={C.orange} strokeWidth="2" />

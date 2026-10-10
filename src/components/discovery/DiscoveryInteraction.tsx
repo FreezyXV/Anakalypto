@@ -71,7 +71,14 @@ export function DiscoveryInteraction({
         </p>
       </div>
     );
-  const level = (value ?? 0) < 34 ? "Faible" : (value ?? 0) < 67 ? "Modéré" : "Important";
+  const level =
+    (value ?? 0) === 0
+      ? interaction.minLabel
+      : (value ?? 0) < 34
+        ? "Faible"
+        : (value ?? 0) < 67
+          ? "Modéré"
+          : "Important";
   const labels = isSequentialKind(step.visual.kind)
     ? MECHANISM_STAGES[step.visual.kind]
     : step.visual.kind === "flow"

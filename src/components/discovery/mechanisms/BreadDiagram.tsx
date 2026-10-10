@@ -67,7 +67,7 @@ export function BreadDiagram({ state }: DiagramProps) {
           <Label x={290} y={88} size={13} color={C.blue}>
             CO₂
           </Label>
-          <Label x={291} y={137} size={11} color={C.orange}>
+          <Label x={291} y={123} size={11} color={C.orange}>
             Acides
           </Label>
           <Label x={235} y={111} size={11}>

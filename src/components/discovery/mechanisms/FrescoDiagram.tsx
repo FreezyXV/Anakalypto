@@ -63,16 +63,16 @@ export function FrescoDiagram({ state }: DiagramProps) {
             Ajout fragile
           </Label>
         </>
-      ) : (
+      ) : s >= 1 ? (
         <>
-          <Label x={288} y={127} size={12}>
+          <Label x={288} y={124} size={12}>
             {s >= 3 ? "Cristaux autour" : "Pigments dans"}
           </Label>
-          <Label x={288} y={143} size={12}>
+          <Label x={288} y={144} size={12}>
             {s >= 3 ? "des pigments" : "la chaux fraîche"}
           </Label>
         </>
-      )}
+      ) : null}
       <StageRail
         stage={s}
         labels={MECHANISM_STAGES.fresco}

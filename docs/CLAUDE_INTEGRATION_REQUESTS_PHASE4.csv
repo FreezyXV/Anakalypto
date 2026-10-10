@@ -1,0 +1,3 @@
+id,discovery_slug,step_id,severity,problem,reproduction,proposition,source_url
+P4-01,le-pilote-qui-corrige,tous les états,basse,"Avec les légendes à 16 unités, « Servomoteurs » et « Commander » dépassent le cadre de leur boîte, et « Consigne choisie » touche les bords de la sienne (observé le 10/10 à 21 h 58, 390 px).","Port 3001, 390 px, étape « Engage le pilote automatique », dans les deux états.","Élargir les boîtes de quelques unités, ou réduire l'espacement entre les lettres de ces trois libellés.",
+P4-02,naissance-d-un-cyclone,états avec mer chaude et scène terre,basse,"Le libellé « Rotation » chevauche le bord gauche du nuage (observé le 10/10 à 21 h 58, 390 px).","390 px, interrupteur activé.",Décaler « Rotation » sous le symbole de rotation ou vers la gauche.,

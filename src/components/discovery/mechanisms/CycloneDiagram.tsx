@@ -39,6 +39,9 @@ export function CycloneDiagram({ state }: DiagramProps) {
             Œil
           </Label>
           <Arrow x={181} y={75} dx={0} dy={25} color={C.blue} dim={land} />
+          <Label x={181} y={122} color={C.blue}>
+            Descente
+          </Label>
           <path
             d="M49 72 A14 14 0 0 0 25 61 l6 0 m-6 0 l1 6 M23 76 A14 14 0 0 0 47 87 l-6 0 m6 0 l-1 -6"
             fill="none"
@@ -46,7 +49,7 @@ export function CycloneDiagram({ state }: DiagramProps) {
             strokeWidth="2"
             opacity={land ? 0.5 : 1}
           />
-          <Label x={37} y={106} size={11}>
+          <Label x={37} y={100} size={11}>
             Rotation
           </Label>
         </>
@@ -67,19 +70,19 @@ export function CycloneDiagram({ state }: DiagramProps) {
       )}
       {strong && (
         <>
-          <Arrow x={40} y={137} dx={51} dy={0} />
-          <Arrow x={319} y={137} dx={-51} dy={0} />
-          <Label x={180} y={119} color={C.orange} size={12}>
-            Condensation → chaleur
+          <Arrow x={40} y={142} dx={51} dy={0} />
+          <Arrow x={319} y={142} dx={-51} dy={0} />
+          <Label x={49} y={123} color={C.orange} size={12}>
+            Montée
           </Label>
-          <Label x={180} y={141} size={12}>
-            Air humide qui monte
+          <Label x={311} y={123} color={C.orange} size={12}>
+            Montée
           </Label>
         </>
       )}
       {land && (
-        <Label x={180} y={126} size={12}>
-          Circulation résiduelle · affaiblissement
+        <Label x={180} y={143} size={12}>
+          Affaiblissement progressif
         </Label>
       )}
       {!strong && !land && (

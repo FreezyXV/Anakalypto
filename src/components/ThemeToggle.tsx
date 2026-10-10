@@ -66,7 +66,7 @@ export function ThemeToggle() {
     <button
       type="button"
       onClick={cycle}
-      className="chip cursor-pointer"
+      className="chip min-h-11 cursor-pointer"
       aria-label={`Thème : ${LABELS[theme].toLowerCase()}. Changer de thème.`}
     >
       {LABELS[theme]}
