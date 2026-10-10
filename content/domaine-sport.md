@@ -1732,35 +1732,185 @@ status: planned
 
 ---
 type: article
-title: Les règles du rugby
-slug: regles-rugby
+title: Pourquoi au rugby fait-on des passes vers l'arrière ?
+slug: pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
 summary: >
-  Mêlée, touche, essai : comprendre un sport réputé complexe.
+  Au rugby à XV, il est interdit de lancer le ballon à la main vers la ligne d'en-but adverse.
+  Les passes se font donc sur le côté ou vers l'arrière. Pour avancer, un joueur court avec le
+  ballon ou le tape au pied.
 tags: [sports-collectifs]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Rugby à XV"
+    url: "https://fr.wikipedia.org/wiki/Rugby_%C3%A0_XV"
+    publisher: "Wikipédia"
+  - title: "Rugby union"
+    url: "https://en.wikipedia.org/wiki/Rugby_union"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans quelle direction peut-on faire une passe à la main au rugby ?"
+    options:
+      - "Seulement vers l'avant"
+      - "Sur le côté ou vers l'arrière"
+      - "Dans n'importe quelle direction"
+    answer: 2
+    explanation: >
+      Lancé à la main, le ballon ne doit pas avancer vers l'en-but adverse. Une passe vers
+      l'avant est une faute, appelée en-avant.
+  - question: "Combien de points rapporte un essai ?"
+    options:
+      - "5 points"
+      - "1 point"
+      - "10 points"
+    answer: 1
+    explanation: >
+      Un essai vaut 5 points. La transformation qui suit peut en ajouter 2.
+  - question: "Comment un joueur peut-il envoyer le ballon vers l'avant sans faute ?"
+    options:
+      - "En le lançant à la main"
+      - "En le faisant rouler avec la main"
+      - "En le tapant au pied"
+    answer: 3
+    explanation: >
+      Le ballon peut avancer quand un joueur court avec lui ou quand il le tape au pied.
+  - question: "En quelle année a eu lieu la première Coupe du monde de rugby ?"
+    options:
+      - "1823"
+      - "1987"
+      - "1871"
+    answer: 2
+    explanation: >
+      La première Coupe du monde de rugby a eu lieu en 1987. 1823 est la date de la
+      légende de William Webb Ellis, et 1871 celle de la fondation de la fédération
+      anglaise.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au rugby à XV, il est interdit de lancer le ballon à la main vers la ligne d'en-but adverse. Les passes se font donc sur le côté ou vers l'arrière. Pour avancer, un joueur court avec le ballon ou le tape au pied.
+
+## Une règle qui surprend
+
+Au rugby à XV, chaque équipe a 15 joueurs sur le terrain. Le but est d'aller poser le ballon ovale derrière la ligne de l'adversaire. Pourtant, une règle surprend souvent : lancé à la main, le ballon ne doit pas avancer vers l'en-but adverse. L'en-but est la zone située derrière la ligne d'essai.
+
+Une passe se fait donc sur le côté ou vers l'arrière. Une passe vers l'avant est une faute. Laisser tomber le ballon vers l'avant aussi : on appelle cela un en-avant. Le jeu reprend alors par une mêlée, où les avants des deux équipes se poussent, serrés les uns contre les autres, pour récupérer le ballon.
+
+## Comment avancer alors ?
+
+Pour gagner du terrain, un joueur court avec le ballon dans les mains. Il peut aussi le taper au pied : un coup de pied a le droit d'envoyer le ballon vers l'avant. Ses coéquipiers doivent rester du bon côté du ballon. Sinon, ils sont hors-jeu.
+
+Les défenseurs essaient d'arrêter le porteur du ballon par un plaquage. Ils doivent le saisir sous le cou en l'entourant de leurs bras. Le joueur plaqué au sol doit lâcher le ballon tout de suite. Quand le ballon sort sur le côté du terrain, le jeu reprend par une touche : un joueur le lance entre deux rangées de joueurs.
+
+## Marquer des points
+
+Poser le ballon dans l'en-but adverse s'appelle un essai. Il rapporte 5 points. Ensuite, l'équipe tente une transformation : un coup de pied entre les poteaux, qui ajoute 2 points. Une pénalité réussie vaut 3 points. Un drop, un coup de pied tiré pendant le jeu, vaut aussi 3 points.
+
+Un match dure deux mi-temps de 40 minutes. Le terrain peut mesurer jusqu'à 100 mètres entre les deux lignes d'essai.
+
+## Une naissance dans une école
+
+Selon une légende, le rugby serait né vers 1823 dans l'école de la ville de Rugby, en Angleterre. Un élève, William Webb Ellis, aurait pris le ballon à la main pendant un match de football. Les historiens pensent que la vraie histoire est plus compliquée. La fédération anglaise, la Rugby Football Union, est fondée en 1871. La première Coupe du monde a eu lieu en 1987.
+
+## À retenir
+
+- Au rugby, le ballon lancé à la main ne doit jamais avancer vers l'en-but adverse.
+- Pour avancer, un joueur court avec le ballon ou le tape au pied.
+- Un ballon lâché vers l'avant est un en-avant, et le jeu reprend par une mêlée.
+- Un essai vaut 5 points, la transformation 2, la pénalité et le drop 3.
+- Un match de rugby à XV oppose deux équipes de 15 joueurs pendant deux fois 40 minutes.
 
 ---
 
 ---
 type: article
-title: Le basket-ball
-slug: basket-ball
+title: Comment le basket-ball a-t-il été inventé ?
+slug: comment-le-basket-ball-a-t-il-ete-invente
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs
 summary: >
-  Inventé en 1891 par un professeur pour occuper ses élèves en hiver.
+  Le basket-ball a été inventé en décembre 1891 par James Naismith, un professeur d'éducation
+  physique. Il cherchait un jeu d'intérieur pour faire bouger ses élèves pendant l'hiver. Ses
+  premiers paniers étaient des caisses à pêches accrochées à 3,05 mètres de haut.
 tags: [sports-collectifs]
-priority: 2
-essentiel: false
-status: planned
+sources:
+  - title: "Basket-ball"
+    url: "https://fr.wikipedia.org/wiki/Basket-ball"
+    publisher: "Wikipédia"
+  - title: "Basketball"
+    url: "https://en.wikipedia.org/wiki/Basketball"
+    publisher: "Wikipedia"
+quiz:
+  - question: "En quelle année le basket-ball a-t-il été inventé ?"
+    options:
+      - "1791"
+      - "1891"
+      - "1951"
+    answer: 2
+    explanation: >
+      James Naismith a inventé le basket-ball en décembre 1891, à Springfield, aux
+      États-Unis.
+  - question: "Qu'utilisait Naismith comme premiers paniers ?"
+    options:
+      - "Des caisses à pêches"
+      - "Des seaux d'eau"
+      - "Des chapeaux"
+    answer: 1
+    explanation: >
+      Naismith a accroché deux caisses à pêches à la balustrade du gymnase, à 3,05 mètres
+      du sol.
+  - question: "Combien de joueurs par équipe sont sur le terrain depuis la fin des années 1890 ?"
+    options:
+      - "Trois"
+      - "Sept"
+      - "Cinq"
+    answer: 3
+    explanation: >
+      Vers 1897-1898, la règle de cinq joueurs par équipe sur le terrain s'est imposée.
+  - question: "À quoi sert le panneau ajouté derrière le cercle en 1906 ?"
+    options:
+      - "À afficher le score"
+      - "À empêcher les spectateurs de gêner les tirs"
+      - "À protéger les joueurs du soleil"
+    answer: 2
+    explanation: >
+      Le panneau empêchait les spectateurs de gêner les tirs. Il a aussi permis de jouer
+      les rebonds.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le basket-ball a été inventé en décembre 1891 par James Naismith, un professeur d'éducation physique. Il cherchait un jeu d'intérieur pour faire bouger ses élèves pendant l'hiver. Ses premiers paniers étaient des caisses à pêches accrochées à 3,05 mètres de haut.
+
+## Un jeu pour l'hiver
+
+En décembre 1891, James Naismith enseigne l'éducation physique à Springfield, une ville du Massachusetts, aux États-Unis. L'hiver est rude dans cette région, et ses élèves ne peuvent pas jouer dehors. Naismith invente donc un sport d'intérieur. Il veut un jeu qui fasse bouger, avec peu de risques de blessures.
+
+## Des caisses à pêches
+
+Naismith accroche deux caisses à pêches à la balustrade du gymnase, à 3,05 mètres du sol. Cette hauteur n'a pas changé depuis. Au début, les caisses ont un fond. Après chaque panier, il faut récupérer le ballon. On finit par retirer le fond pour pousser le ballon dehors avec un long bâton.
+
+Naismith écrit treize règles. Il est interdit de courir avec le ballon dans les mains. Les contacts entre joueurs sont limités. La plupart de ces règles existent encore aujourd'hui.
+
+## Le jeu prend forme
+
+Au début, le nombre de joueurs varie d'un match à l'autre. Vers 1897-1898, on fixe la règle de cinq joueurs par équipe sur le terrain. En 1906, les caisses sont remplacées par des cercles en métal fixés à un panneau. Le ballon traverse désormais le cercle sans rester coincé. Le panneau empêche les spectateurs de gêner les tirs. Il permet aussi de rattraper le ballon quand il rebondit dessus et de tirer à nouveau.
+
+## Un sport mondial
+
+La Fédération internationale de basket-ball, la FIBA, est créée en 1932. Le basket masculin entre aux Jeux olympiques en 1936, à Berlin.
+
+Aujourd'hui, un panier marqué pendant le jeu vaut deux points. Un tir réussi derrière la ligne à trois points en vaut trois. Après certaines fautes, un joueur tire des lancers francs, qui valent un point chacun. Le basket est devenu l'un des sports les plus pratiqués et les plus regardés du monde. La NBA, le championnat professionnel nord-américain, en est la ligue la plus célèbre.
+
+## À retenir
+
+- Le basket-ball a été inventé en décembre 1891 par James Naismith, à Springfield, aux États-Unis.
+- Naismith voulait un sport d'intérieur pour faire bouger ses élèves pendant l'hiver.
+- Les premiers paniers étaient des caisses à pêches placées à 3,05 mètres, la hauteur actuelle.
+- Depuis la fin des années 1890, chaque équipe a cinq joueurs sur le terrain.
+- Le basket est entré aux Jeux olympiques en 1936, à Berlin.
 
 ---
 
@@ -3521,18 +3671,101 @@ status: planned
 
 ---
 type: article
-title: La natation, les differentes nages expliquees
-slug: la-natation-les-differentes-nages-expliquees
+title: Pourquoi le crawl est-il la nage la plus rapide ?
+slug: pourquoi-le-crawl-est-il-la-nage-la-plus-rapide
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
 summary: >
-  Crawl, brasse, dos, papillon : quatre techniques aux mecaniques bien distinctes.
-tags: [sports-individuels, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En compétition, il existe quatre nages : le crawl, le papillon, le dos et la brasse. Le
+  crawl est la plus rapide et la brasse la plus lente. Au crawl, les bras reviennent vers
+  l'avant hors de l'eau et travaillent l'un après l'autre, ce qui garde une vitesse presque
+  constante.
+tags: [sports-individuels]
+sources:
+  - title: "Natation sportive"
+    url: "https://fr.wikipedia.org/wiki/Natation_sportive"
+    publisher: "Wikipédia"
+  - title: "Front crawl"
+    url: "https://en.wikipedia.org/wiki/Front_crawl"
+    publisher: "Wikipedia"
+  - title: "Breaststroke"
+    url: "https://en.wikipedia.org/wiki/Breaststroke"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la nage la plus lente en compétition ?"
+    options:
+      - "Le crawl"
+      - "Le dos"
+      - "La brasse"
+    answer: 3
+    explanation: >
+      La brasse est la plus lente des quatre nages. Le corps, incliné, freine davantage le
+      nageur.
+  - question: "Au crawl, qu'est-ce qui fait surtout avancer le nageur ?"
+    options:
+      - "Les bras"
+      - "Les battements de jambes"
+      - "La tête"
+    answer: 1
+    explanation: >
+      Les bras produisent la plus grande partie de la poussée. Les jambes servent surtout
+      à garder le corps à plat.
+  - question: "Comment respire un nageur de crawl ?"
+    options:
+      - "En levant la tête droit devant"
+      - "En tournant la tête sur le côté"
+      - "En se mettant sur le dos"
+    answer: 2
+    explanation: >
+      Le nageur tourne la tête sur le côté et respire entre son bras et la surface de
+      l'eau.
+  - question: "Qui a montré le crawl au public de Londres en 1844 ?"
+    options:
+      - "Des nageurs ojibwés"
+      - "Des marins australiens"
+      - "Des soldats romains"
+    answer: 1
+    explanation: >
+      En 1844, des nageurs ojibwés, un peuple autochtone d'Amérique du Nord, ont nagé le
+      crawl lors d'une compétition à Londres.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En compétition, il existe quatre nages : le crawl, le papillon, le dos et la brasse. Le crawl est la plus rapide et la brasse la plus lente. Au crawl, les bras reviennent vers l'avant hors de l'eau et travaillent l'un après l'autre, ce qui garde une vitesse presque constante.
+
+## Quatre nages
+
+En compétition, on nage quatre styles. Du plus rapide au plus lent, on trouve le crawl, le papillon, le dos et la brasse. Dans les courses de nage libre, chaque nageur peut choisir sa nage. Tous choisissent le crawl, parce que c'est la plus rapide. C'est pour cela qu'on confond souvent nage libre et crawl.
+
+## Les secrets du crawl
+
+Au crawl, le nageur est à plat ventre. Ses bras travaillent l'un après l'autre. Pendant qu'un bras tire dans l'eau, l'autre revient vers l'avant au-dessus de l'eau. Ce bras qui passe dans l'air ne freine pas le nageur. Et comme il y a presque toujours un bras qui pousse, la vitesse reste à peu près constante.
+
+Ce sont les bras qui font avancer le nageur. Les battements de jambes servent surtout à garder le corps bien à plat, ce qui limite le freinage. Pour respirer, le nageur tourne la tête sur le côté. Il inspire dans le petit espace entre son bras et la surface de l'eau. Beaucoup de nageurs respirent tous les deux mouvements de bras.
+
+## Pourquoi la brasse est plus lente
+
+À la brasse, les jambes restent toujours sous l'eau, et les bras reviennent vers l'avant sous la surface. Le corps est souvent incliné par rapport au sens de la course. Cela freine le nageur plus que dans toute autre nage. Les meilleurs brasseurs avancent à environ 1,70 mètre par seconde.
+
+La brasse est pourtant la nage de loisir la plus pratiquée. On garde la tête hors de l'eau une grande partie du temps, et on peut la nager tranquillement. On pense que c'est la plus ancienne de toutes les nages.
+
+## Des nages qui ont une histoire
+
+Le crawl a été montré en 1844 à Londres par des nageurs ojibwés, un peuple autochtone d'Amérique du Nord. Le Britannique John Arthur Trudgen l'a ensuite adapté. Puis des nageurs australiens l'ont perfectionné, jusqu'au crawl d'aujourd'hui.
+
+Le papillon, lui, est né d'une façon de nager la brasse avec les deux bras ramenés ensemble par-dessus l'eau. Au début des années 1950, la fédération internationale de natation en a fait une nage à part.
+
+Dans le 4 nages individuel, le nageur enchaîne papillon, dos, brasse et crawl.
+
+## À retenir
+
+- Les quatre nages de compétition sont, de la plus rapide à la plus lente, le crawl, le papillon, le dos et la brasse.
+- Au crawl, un bras revient par-dessus l'eau pendant que l'autre tire, ce qui garde une vitesse presque constante.
+- Ce sont surtout les bras qui font avancer au crawl, les jambes stabilisent le corps.
+- La brasse est la plus lente parce que le corps incliné et les mouvements sous l'eau freinent le nageur.
+- Le papillon est devenu une nage séparée de la brasse au début des années 1950.
 
 ---
 type: article
@@ -3716,18 +3949,100 @@ status: planned
 
 ---
 type: article
-title: L'escalade, techniques de base pour debutants
-slug: l-escalade-techniques-de-base-pour-debutants
+title: Comment une corde d'escalade arrête-t-elle la chute d'un grimpeur ?
+slug: comment-une-corde-d-escalade-arrete-t-elle-la-chute-d-un-grimpeur
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
 summary: >
-  Des principes fondamentaux essentiels avant de progresser vers des voies plus difficiles.
-tags: [sports-individuels, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En escalade, le grimpeur est relié par une corde à son assureur. La corde est élastique : en
+  s'allongeant, elle freine la chute en douceur. L'assureur la bloque grâce à un appareil qui
+  la freine par frottement.
+tags: [sports-individuels]
+sources:
+  - title: "Escalade"
+    url: "https://fr.wikipedia.org/wiki/Escalade"
+    publisher: "Wikipédia"
+  - title: "Dynamic rope"
+    url: "https://en.wikipedia.org/wiki/Dynamic_rope"
+    publisher: "Wikipedia"
+  - title: "Kernmantle rope"
+    url: "https://en.wikipedia.org/wiki/Kernmantle_rope"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi dit-on que la corde d'escalade est dynamique ?"
+    options:
+      - "Parce qu'elle est très lourde"
+      - "Parce qu'elle s'allonge pour amortir la chute"
+      - "Parce qu'elle change de couleur"
+    answer: 2
+    explanation: >
+      Une corde dynamique est élastique. En s'étirant, elle absorbe l'énergie de la chute
+      plus lentement, et la secousse est plus douce.
+  - question: "Quelle partie du corps porte la plus grande part du poids du grimpeur ?"
+    options:
+      - "Les jambes"
+      - "Les bras"
+      - "La tête"
+    answer: 1
+    explanation: >
+      Les muscles des jambes sont plus puissants et plus endurants que ceux des bras. Les
+      pieds et les jambes portent donc une grande partie du poids.
+  - question: "Comment l'appareil de l'assureur bloque-t-il la corde ?"
+    options:
+      - "Avec un aimant"
+      - "Avec un moteur"
+      - "En la freinant par frottement"
+    answer: 3
+    explanation: >
+      La corde frotte dans l'appareil d'assurage. Ce frottement freine la corde et permet
+      de l'arrêter.
+  - question: "Grimpant en tête, de quelle hauteur un grimpeur chute-t-il au minimum ?"
+    options:
+      - "La moitié de la distance au dernier point accroché"
+      - "Deux fois la distance au dernier point accroché"
+      - "Toujours 10 mètres"
+    answer: 2
+    explanation: >
+      S'il est 1 mètre au-dessus de son dernier point, il redescend 1 mètre jusqu'au
+      point, puis encore 1 mètre en dessous, soit au moins 2 mètres.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En escalade, le grimpeur est relié par une corde à son assureur. La corde est élastique : en s'allongeant, elle freine la chute en douceur. L'assureur la bloque grâce à un appareil qui la freine par frottement.
+
+## Le matériel du grimpeur
+
+Le grimpeur porte des chaussons d'escalade, qui adhèrent bien au rocher. Il met sur ses mains de la magnésie, une poudre blanche qui absorbe la transpiration. À part ces deux éléments, tout le matériel sert à le protéger en cas de chute : la corde, le baudrier et les appareils de freinage. Le baudrier est une ceinture avec des sangles autour des cuisses, à laquelle on attache la corde.
+
+Pour monter, ce sont surtout les jambes qui travaillent. Leurs muscles sont plus puissants et plus endurants que ceux des bras. Les pieds et les jambes portent donc une grande partie du poids du grimpeur.
+
+## En moulinette ou en tête
+
+Pour débuter, on grimpe souvent « en moulinette ». La corde passe déjà par un point d'attache en haut de la voie. Elle redescend jusqu'à l'assureur, au sol, qui la reprend au fur et à mesure que le grimpeur monte.
+
+En tête, la corde n'est pas installée en haut. Le grimpeur l'emporte avec lui. En montant, il l'accroche à des dégaines, deux mousquetons reliés par une sangle, fixées à des points d'ancrage dans la paroi. S'il tombe, il chute au moins de deux fois la distance qui le sépare du dernier point où il a passé sa corde.
+
+## Une corde qui s'étire
+
+La corde d'escalade est dite dynamique : elle est élastique. Quand elle retient une chute, elle s'allonge. Elle absorbe l'énergie de la chute plus lentement, et la force de la secousse diminue.
+
+Cette corde a une âme, au centre, qui lui donne sa solidité. Une gaine tressée l'entoure et la protège des frottements. Ce type de corde a été lancé en 1953 par l'entreprise allemande Edelrid.
+
+Pour être reconnue par l'UIAA, une organisation internationale de l'alpinisme, une corde simple doit résister en test à au moins cinq chutes très dures avec une masse de 80 kilogrammes. En pratique, une corde ne casse presque jamais à cause d'une chute seule. Les ruptures connues viennent d'une corde coupée ou abîmée, par exemple contre une arête de rocher.
+
+## Le rôle de l'assureur
+
+L'assureur tient la corde avec un appareil fixé à son baudrier. Cet appareil fonctionne comme un frein : la corde y frotte, ce qui permet de la bloquer quand le grimpeur tombe. Un des premiers modèles, la plaque Sticht, a été breveté en 1970. Les mouvements de l'assureur aident aussi à amortir la chute.
+
+## À retenir
+
+- Le grimpeur est relié par une corde à son assureur, qui peut la bloquer en cas de chute.
+- La corde d'escalade est dynamique, elle s'allonge pour amortir la chute.
+- Elle est faite d'une âme solide entourée d'une gaine qui la protège.
+- L'appareil de l'assureur freine la corde par frottement.
+- En escalade, ce sont surtout les jambes qui portent le poids du corps.
 
 ---
 type: article
@@ -3986,18 +4301,93 @@ status: planned
 
 ---
 type: article
-title: Les commotions cerebrales dans le sport
-slug: les-commotions-cerebrales-dans-le-sport
+title: Pourquoi un choc à la tête oblige-t-il un sportif à sortir du terrain ?
+slug: pourquoi-un-choc-a-la-tete-oblige-t-il-un-sportif-a-sortir-du-terrain
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
 summary: >
-  Un traumatisme serieux qui exige une prise en charge prudente, meme sans symptome visible immediat.
-tags: [blessures-et-prevention, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une commotion cérébrale est une blessure légère du cerveau, causée par un choc qui le secoue
+  dans le crâne. On peut en avoir une sans perdre connaissance. Au moindre doute, le sportif
+  doit arrêter de jouer, puis reprendre peu à peu, étape par étape.
+tags: [blessures-et-prevention]
+sources:
+  - title: "Commotion cérébrale"
+    url: "https://fr.wikipedia.org/wiki/Commotion_c%C3%A9r%C3%A9brale"
+    publisher: "Wikipédia"
+  - title: "Concussions in sport"
+    url: "https://en.wikipedia.org/wiki/Concussions_in_sport"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il dans la tête lors d'une commotion ?"
+    options:
+      - "Le crâne se casse toujours"
+      - "Le cerveau est secoué dans le crâne"
+      - "Le sang s'arrête de circuler"
+    answer: 2
+    explanation: >
+      Le choc fait accélérer puis freiner brusquement la tête. Le cerveau bouge dans le
+      crâne, ce qui perturbe son fonctionnement.
+  - question: "La plupart des commotions dans le sport font-elles perdre connaissance ?"
+    options:
+      - "Oui, toujours"
+      - "Oui, presque toujours"
+      - "Non, moins d'une fois sur dix"
+    answer: 3
+    explanation: >
+      Dans le sport, la perte de connaissance arrive dans moins de 10 % des commotions.
+  - question: "Que doit faire un joueur au moindre doute de commotion ?"
+    options:
+      - "Sortir et ne pas revenir jouer"
+      - "Boire de l'eau et continuer"
+      - "Changer de poste"
+    answer: 1
+    explanation: >
+      La règle est simple : dans le doute, on sort. Un second choc avant la guérison peut
+      être grave.
+  - question: "Combien de temps attend-on au minimum entre deux étapes de la reprise ?"
+    options:
+      - "5 minutes"
+      - "24 heures"
+      - "Un an"
+    answer: 2
+    explanation: >
+      La reprise se fait en plusieurs étapes, avec au moins 24 heures entre chacune.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une commotion cérébrale est une blessure légère du cerveau, causée par un choc qui le secoue dans le crâne. On peut en avoir une sans perdre connaissance. Au moindre doute, le sportif doit arrêter de jouer, puis reprendre peu à peu, étape par étape.
+
+## Le cerveau secoué
+
+Une commotion cérébrale est une blessure légère du cerveau. Elle arrive après un choc sur la tête, mais aussi sur le visage, le cou ou le reste du corps. La tête accélère puis s'arrête brusquement. Le cerveau bouge alors à l'intérieur du crâne. Pendant un certain temps, il fonctionne moins bien.
+
+Le football américain, le hockey sur glace, le rugby, le football et le basket font partie des sports où les commotions sont les plus fréquentes. Elles arrivent plus souvent en match qu'à l'entraînement.
+
+## Des signes parfois discrets
+
+Contrairement à une idée répandue, la plupart des commotions ne font pas perdre connaissance. Dans le sport, cela arrive dans moins d'un cas sur dix. Les signes les plus fréquents sont le mal de tête, les nausées, la vue floue, la confusion ou des trous de mémoire. Certains signes apparaissent tout de suite. D'autres arrivent pendant les un ou deux jours suivants.
+
+Les images du cerveau, comme le scanner ou l'IRM, sont souvent normales. Une commotion ne se voit donc pas sur une image. On la repère grâce à ses signes.
+
+## Dans le doute, on sort
+
+Les médecins du sport suivent une règle simple : au moindre doute, le joueur sort et ne revient pas jouer. Un deuxième choc avant la guérison complète peut être grave. Dans de rares cas, il peut même être mortel. Des commotions répétées augmentent aussi le risque de maladies du cerveau plus tard dans la vie.
+
+## Reprendre étape par étape
+
+Après un ou deux jours de repos, le retour se fait par étapes. On commence par une activité physique légère. On passe ensuite à un entraînement plus soutenu, puis à des exercices propres au sport pratiqué. La dernière étape est la reprise complète. On attend au moins 24 heures entre deux étapes.
+
+Un repos trop long n'est pas conseillé, car il peut gêner la guérison. La plupart des personnes guérissent en moins de quatre semaines. Chez les enfants, la guérison prend souvent plus de temps que chez les adultes.
+
+## À retenir
+
+- Une commotion cérébrale est une blessure légère du cerveau, secoué dans le crâne par un choc.
+- Dans le sport, moins d'une commotion sur dix fait perdre connaissance.
+- Mal de tête, nausées, vue floue et confusion sont des signes fréquents.
+- Au moindre doute, le joueur sort et ne revient pas jouer.
+- La reprise se fait par étapes, avec au moins 24 heures entre chacune.
 
 ---
 type: article
@@ -4526,18 +4916,101 @@ status: planned
 
 ---
 type: article
-title: La frequence cardiaque a l'effort, ce qu'elle revele
-slug: la-frequence-cardiaque-a-l-effort-ce-qu-elle-revele
+title: Pourquoi le cœur bat-il plus vite quand on fait du sport ?
+slug: pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
 summary: >
-  Un indicateur simple mais riche d'informations sur l'intensite reelle d'un exercice.
-tags: [energetique-musculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pendant l'effort, les muscles ont besoin de plus d'oxygène. Pour leur en apporter, le cœur
+  accélère et pompe beaucoup plus de sang chaque minute. Au repos, il en pompe environ 5
+  litres par minute, et jusqu'à 30 ou 40 litres chez des sportifs très entraînés en plein
+  effort.
+tags: [energetique-musculaire]
+sources:
+  - title: "Fréquence cardiaque"
+    url: "https://fr.wikipedia.org/wiki/Fr%C3%A9quence_cardiaque"
+    publisher: "Wikipédia"
+  - title: "Heart rate"
+    url: "https://en.wikipedia.org/wiki/Heart_rate"
+    publisher: "Wikipedia"
+  - title: "Débit cardiaque"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9bit_cardiaque"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi le cœur accélère-t-il pendant l'effort ?"
+    options:
+      - "Pour refroidir les muscles"
+      - "Pour apporter plus d'oxygène aux muscles"
+      - "Pour digérer plus vite"
+    answer: 2
+    explanation: >
+      Les muscles qui travaillent ont besoin de plus d'oxygène. Le sang le leur apporte,
+      et le cœur accélère pour envoyer plus de sang.
+  - question: "Combien de sang le cœur pompe-t-il environ par minute au repos ?"
+    options:
+      - "5 litres"
+      - "50 litres"
+      - "Un demi-litre"
+    answer: 1
+    explanation: >
+      Au repos, le débit cardiaque est d'environ 5 litres par minute.
+  - question: "Selon la formule « 220 moins l'âge », quelle est la fréquence maximale estimée à 40 ans ?"
+    options:
+      - "260 battements par minute"
+      - "200 battements par minute"
+      - "180 battements par minute"
+    answer: 3
+    explanation: >
+      220 moins 40 donne 180. Cette formule reste une estimation peu précise.
+  - question: "Que devient la fréquence cardiaque au repos d'un sportif d'endurance entraîné ?"
+    options:
+      - "Elle devient plus basse"
+      - "Elle devient plus haute"
+      - "Elle ne change jamais"
+    answer: 1
+    explanation: >
+      L'entraînement d'endurance rend le cœur plus efficace. Au repos, il bat plus
+      lentement.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pendant l'effort, les muscles ont besoin de plus d'oxygène. Pour leur en apporter, le cœur accélère et pompe beaucoup plus de sang chaque minute. Au repos, il en pompe environ 5 litres par minute, et jusqu'à 30 ou 40 litres chez des sportifs très entraînés en plein effort.
+
+## Le cœur, une pompe
+
+Le cœur envoie le sang dans tout le corps. Le sang transporte l'oxygène dont les muscles ont besoin pour fonctionner. Le nombre de battements du cœur par minute s'appelle la fréquence cardiaque.
+
+Au repos, le cœur d'un adulte bat en moyenne autour de 70 fois par minute. Celui d'un enfant de 6 à 12 ans bat plus vite, autour de 95 fois par minute. Celui d'un nouveau-né bat autour de 140 fois par minute.
+
+On peut sentir son pouls en posant deux doigts sur le poignet ou sur le côté du cou. Il suffit de compter les battements pendant une minute.
+
+## Pendant l'effort
+
+Quand on court, les muscles travaillent beaucoup plus. Ils ont besoin de plus d'oxygène. Le système nerveux envoie alors un signal au cœur, qui accélère.
+
+À chaque battement, le cœur éjecte environ 70 millilitres de sang au repos. La quantité de sang pompée en une minute s'appelle le débit cardiaque. On l'obtient en multipliant le nombre de battements par le volume envoyé à chaque battement. Au repos, le débit est d'environ 5 litres par minute. Pendant un effort, il peut atteindre 30 à 40 litres par minute chez des personnes très entraînées.
+
+## Un maximum qui baisse avec l'âge
+
+Le cœur ne peut pas accélérer sans limite. On estime souvent sa fréquence maximale avec la formule « 220 moins l'âge ». Pour une personne de 40 ans, cela donne 180 battements par minute.
+
+Cette formule est peu précise. L'âge n'explique qu'environ la moitié des différences entre les personnes. Une autre formule, 208 moins 0,7 fois l'âge, est plus exacte. Elle peut tout de même se tromper d'une dizaine de battements.
+
+## Le cœur des sportifs
+
+Avec l'entraînement d'endurance, le cœur devient plus efficace. Au repos, il bat plus lentement. Certains athlètes de haut niveau descendent à 37 ou 38 battements par minute.
+
+L'écart entre la fréquence maximale et la fréquence au repos grandit aussi avec l'entraînement. Après l'effort, le cœur ralentit. Chez une personne en bonne santé, il ralentit nettement dès la première minute de récupération.
+
+## À retenir
+
+- Pendant l'effort, le cœur accélère pour apporter plus d'oxygène aux muscles.
+- Au repos, le cœur d'un adulte bat autour de 70 fois par minute, celui d'un enfant de 6 à 12 ans autour de 95 fois.
+- Le débit cardiaque passe d'environ 5 litres par minute au repos à 30 ou 40 litres chez des sportifs très entraînés.
+- La formule « 220 moins l'âge » donne une estimation peu précise de la fréquence maximale.
+- L'entraînement d'endurance fait baisser la fréquence cardiaque au repos.
 
 ---
 type: article
@@ -4556,18 +5029,101 @@ status: planned
 
 ---
 type: article
-title: Le sport par forte chaleur, adaptations physiologiques
-slug: le-sport-par-forte-chaleur-adaptations-physiologiques
+title: Pourquoi transpire-t-on autant quand on fait du sport sous la chaleur ?
+slug: pourquoi-transpire-t-on-autant-quand-on-fait-du-sport-sous-la-chaleur
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
 summary: >
-  Comment le corps s'ajuste, avec des limites, pour continuer a fonctionner dans la chaleur.
-tags: [energetique-musculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La transpiration sert à refroidir le corps. En s'évaporant sur la peau, la sueur emporte de
+  la chaleur. Si le corps n'arrive plus à se refroidir, sa température peut dépasser 40 °C, et
+  c'est une urgence appelée coup de chaleur.
+tags: [energetique-musculaire]
+sources:
+  - title: "Perspiration"
+    url: "https://en.wikipedia.org/wiki/Perspiration"
+    publisher: "Wikipedia"
+  - title: "Heat illness"
+    url: "https://en.wikipedia.org/wiki/Heat_illness"
+    publisher: "Wikipedia"
+  - title: "Chaleur et sport, comment limiter les risques"
+    url: "https://www.larevuedupraticien.fr/article/chaleur-et-sport-comment-limiter-les-risques"
+    publisher: "La Revue du Praticien"
+quiz:
+  - question: "Comment la sueur refroidit-elle le corps ?"
+    options:
+      - "En s'évaporant sur la peau"
+      - "En bouchant les pores"
+      - "En rendant la peau plus épaisse"
+    answer: 1
+    explanation: >
+      Pour s'évaporer, la sueur prend de la chaleur au corps. La peau se refroidit.
+  - question: "Pourquoi la sueur rafraîchit-elle moins quand l'air est très humide ?"
+    options:
+      - "Parce qu'elle devient sucrée"
+      - "Parce qu'elle s'évapore mal"
+      - "Parce qu'elle gèle"
+    answer: 2
+    explanation: >
+      Dans un air chargé d'humidité, la sueur s'évapore mal. Elle coule sans emporter
+      autant de chaleur.
+  - question: "À partir de quelle température du corps parle-t-on de coup de chaleur ?"
+    options:
+      - "35 °C"
+      - "37 °C"
+      - "Plus de 40 °C"
+    answer: 3
+    explanation: >
+      Le coup de chaleur correspond à une température du corps de plus de 40 °C. C'est une
+      urgence médicale.
+  - question: "Que fait le corps quand il s'habitue à la chaleur ?"
+    options:
+      - "Il arrête de transpirer"
+      - "Il transpire davantage et perd moins de sel"
+      - "Il fabrique moins de sang"
+    answer: 2
+    explanation: >
+      Avec l'acclimatation, le corps transpire davantage, perd moins de sel dans sa sueur
+      et augmente le volume de son plasma.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La transpiration sert à refroidir le corps. En s'évaporant sur la peau, la sueur emporte de la chaleur. Si le corps n'arrive plus à se refroidir, sa température peut dépasser 40 °C, et c'est une urgence appelée coup de chaleur.
+
+## Un corps autour de 37 degrés
+
+La température normale du corps humain se situe entre 35,7 °C et 37,3 °C. Une partie du cerveau, l'hypothalamus, la surveille en permanence. Il reçoit des informations sur la température de la peau et de l'intérieur du corps.
+
+Pendant le sport, le corps produit beaucoup de chaleur. Il doit s'en débarrasser pour ne pas surchauffer. Par forte chaleur, c'est plus difficile.
+
+## La sueur, un climatiseur naturel
+
+Le corps perd de la chaleur de plusieurs façons. Pendant l'effort, la plus efficace est la transpiration. La sueur sort par de minuscules glandes réparties sur une grande partie de la peau. En s'évaporant, elle emporte de la chaleur, et la peau se refroidit.
+
+En même temps, les petits vaisseaux sanguins de la peau s'élargissent. Plus de sang passe près de la surface du corps et peut y perdre sa chaleur.
+
+La sueur est surtout composée d'eau. Elle contient aussi des sels minéraux, en particulier du sodium : environ 0,9 gramme par litre. Un adulte peut perdre jusqu'à 2 à 4 litres de sueur par heure. Avant la puberté, les enfants transpirent moins.
+
+## Quand il fait chaud et humide
+
+Le soleil, la température de l'air et l'humidité changent la façon dont le corps se refroidit. Quand l'air est très humide, la sueur s'évapore mal et rafraîchit moins. Le cœur travaille aussi davantage : il doit envoyer du sang à la fois aux muscles et vers la peau.
+
+Si le corps n'arrive plus à évacuer sa chaleur, sa température monte. Les premiers signes peuvent être des crampes, des maux de tête, des troubles digestifs ou des vertiges. Au-dessus de 40 °C, avec de la confusion, on parle de coup de chaleur. C'est une urgence médicale.
+
+## Le corps s'habitue
+
+Si l'on s'expose plusieurs fois à la chaleur, le corps s'adapte : c'est l'acclimatation. Il transpire davantage et perd moins de sel dans sa sueur. La partie liquide du sang, le plasma, augmente. Le cœur et la circulation deviennent plus efficaces.
+
+Pour faire du sport quand il fait très chaud, les médecins conseillent d'éviter les heures les plus chaudes. Ils recommandent de boire en se guidant sur sa soif, de porter des vêtements clairs et légers, et d'augmenter l'effort petit à petit.
+
+## À retenir
+
+- La température normale du corps se situe entre 35,7 °C et 37,3 °C.
+- La sueur refroidit le corps en s'évaporant sur la peau.
+- Un adulte peut perdre jusqu'à 2 à 4 litres de sueur par heure.
+- Quand l'air est très humide, la sueur s'évapore mal et refroidit moins.
+- Au-dessus de 40 °C avec de la confusion, le coup de chaleur est une urgence médicale.
 
 ---
 type: article
@@ -4856,18 +5412,96 @@ status: planned
 
 ---
 type: article
-title: La musculation, principes physiologiques de base
-slug: la-musculation-principes-physiologiques-de-base
+title: Comment les muscles deviennent-ils plus forts avec l'entraînement ?
+slug: comment-les-muscles-deviennent-ils-plus-forts-avec-l-entrainement
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
 summary: >
-  Comment un muscle sollicite regulierement se renforce et se developpe progressivement.
-tags: [entrainement, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Au début d'un entraînement de force, on devient plus fort surtout parce que les nerfs
+  apprennent à mieux commander les muscles. Ensuite, les fibres des muscles grossissent, c'est
+  l'hypertrophie. Pour progresser, il faut augmenter l'effort peu à peu et bien récupérer.
+tags: [entrainement]
+sources:
+  - title: "Muscle hypertrophy"
+    url: "https://en.wikipedia.org/wiki/Muscle_hypertrophy"
+    publisher: "Wikipedia"
+  - title: "Strength training"
+    url: "https://en.wikipedia.org/wiki/Strength_training"
+    publisher: "Wikipedia"
+  - title: "Musculation"
+    url: "https://fr.wikipedia.org/wiki/Musculation"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi devient-on plus fort dès les premières semaines d'entraînement ?"
+    options:
+      - "Parce que les os s'allongent"
+      - "Parce que les nerfs commandent mieux les muscles"
+      - "Parce que le cœur grossit"
+    answer: 2
+    explanation: >
+      Au début, les muscles grossissent peu. Les nerfs apprennent à activer plus de fibres
+      musculaires, et de façon mieux coordonnée.
+  - question: "Comment appelle-t-on l'augmentation de taille des fibres musculaires ?"
+    options:
+      - "L'hypertrophie"
+      - "La digestion"
+      - "La respiration"
+    answer: 1
+    explanation: >
+      L'hypertrophie est l'augmentation de taille des cellules du muscle, appelées fibres
+      musculaires.
+  - question: "Que dit le principe de surcharge progressive ?"
+    options:
+      - "Il faut s'entraîner tous les jours sans repos"
+      - "Il faut toujours soulever la même charge"
+      - "Il faut augmenter la charge petit à petit"
+    answer: 3
+    explanation: >
+      Le muscle s'habitue à l'effort. Pour continuer à progresser, on augmente la
+      résistance peu à peu.
+  - question: "Quelles protéines permettent au muscle de se contracter ?"
+    options:
+      - "L'hémoglobine et l'insuline"
+      - "L'actine et la myosine"
+      - "La kératine et la mélanine"
+    answer: 2
+    explanation: >
+      L'actine et la myosine sont les protéines qui font se contracter le muscle.
+      L'hypertrophie en augmente la quantité.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Au début d'un entraînement de force, on devient plus fort surtout parce que les nerfs apprennent à mieux commander les muscles. Ensuite, les fibres des muscles grossissent, c'est l'hypertrophie. Pour progresser, il faut augmenter l'effort peu à peu et bien récupérer.
+
+## Des muscles et des nerfs
+
+Les muscles qui font bouger le squelette représentent environ 42 % de la masse du corps chez un homme adulte, et environ 36 % chez une femme adulte. Un muscle se contracte quand il reçoit un ordre du cerveau, transmis par les nerfs.
+
+## D'abord, les nerfs apprennent
+
+Pendant les premières semaines d'un entraînement de force, on devient vite plus fort. Pourtant, les muscles ont à peine grossi. Ce sont les nerfs qui progressent. Ils activent plus de fibres musculaires en même temps, et ils les font travailler de façon mieux coordonnée. Ces changements apparaissent dès les quatre premières semaines.
+
+## Ensuite, le muscle grossit
+
+Si l'entraînement continue, le muscle lui-même change. Ses cellules, appelées fibres musculaires, deviennent plus grosses. C'est l'hypertrophie. Les fibres fabriquent davantage de protéines, en particulier l'actine et la myosine. Ce sont elles qui permettent au muscle de se contracter.
+
+Le signal qui déclenche cette croissance est surtout la tension : le muscle doit tirer fort contre une résistance. Cette tension active, à l'intérieur des cellules, un système appelé mTOR. Il lance la fabrication de nouvelles protéines. On a longtemps cru que les petites lésions du muscle étaient indispensables pour grossir. Des études montrent pourtant des gains comparables de volume et de force sans elles.
+
+## Augmenter peu à peu
+
+Un muscle s'habitue à l'effort qu'on lui demande. Pour continuer à progresser, il faut augmenter la résistance petit à petit. C'est le principe de surcharge progressive. Le repos entre les séances compte aussi beaucoup, car c'est là que le corps récupère. Les protéines de l'alimentation fournissent les matériaux pour fabriquer du muscle.
+
+Les exercices au poids du corps, comme les pompes, les tractions ou les squats, font travailler plusieurs muscles à la fois. Chez les jeunes, aucune blessure des zones de croissance des os n'a été signalée dans les programmes qui suivent les règles établies. La présence d'un adulte qui encadre reste considérée comme essentielle.
+
+## À retenir
+
+- Au début d'un entraînement de force, on gagne de la force surtout parce que les nerfs commandent mieux les muscles.
+- Plus tard, les fibres musculaires grossissent, c'est l'hypertrophie.
+- L'actine et la myosine sont les protéines qui font se contracter le muscle.
+- Pour progresser, il faut augmenter la résistance petit à petit et bien récupérer.
+- Chez les jeunes, l'entraînement de force doit être encadré par un adulte.
 
 ---
 type: article
@@ -6626,18 +7260,96 @@ status: planned
 
 ---
 type: article
-title: Le basketball en fauteuil roulant et son organisation competitive
-slug: le-basketball-en-fauteuil-roulant-et-son-organisation-competitive
+title: Comment joue-t-on au basket en fauteuil roulant ?
+slug: comment-joue-t-on-au-basket-en-fauteuil-roulant
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
 summary: >
-  Une discipline paralympique reconnue qui adapte les regles classiques a la pratique en fauteuil.
-tags: [sports-et-handicap, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le basket en fauteuil roulant se joue sur le même terrain que le basket classique, avec des
+  paniers à la même hauteur. Un joueur qui a le ballon ne peut pas pousser ses roues plus de
+  deux fois sans dribbler, passer ou tirer. Un système de points permet de mélanger des
+  joueurs aux handicaps différents.
+tags: [sports-et-handicap]
+sources:
+  - title: "Basket-ball en fauteuil roulant"
+    url: "https://fr.wikipedia.org/wiki/Basket-ball_en_fauteuil_roulant"
+    publisher: "Wikipédia"
+  - title: "Wheelchair basketball"
+    url: "https://en.wikipedia.org/wiki/Wheelchair_basketball"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle hauteur est le panier au basket en fauteuil ?"
+    options:
+      - "1,50 mètre"
+      - "2 mètres"
+      - "3,05 mètres"
+    answer: 3
+    explanation: >
+      Le panier est à 3,05 mètres, exactement comme au basket classique.
+  - question: "Combien de fois un joueur avec le ballon peut-il pousser ses roues avant de dribbler, passer ou tirer ?"
+    options:
+      - "Deux fois"
+      - "Cinq fois"
+      - "Autant qu'il veut"
+    answer: 1
+    explanation: >
+      Au-delà de deux poussées, c'est une faute de marcher.
+  - question: "Quel total de points les cinq joueurs sur le terrain ne doivent-ils pas dépasser ?"
+    options:
+      - "10 points"
+      - "14 points"
+      - "22 points"
+    answer: 2
+    explanation: >
+      Chaque joueur a une note de 1 à 4,5. Les cinq joueurs sur le terrain ne doivent pas
+      dépasser 14 points au total.
+  - question: "À quoi sert la petite roue à l'arrière du fauteuil ?"
+    options:
+      - "À aller plus vite"
+      - "À freiner"
+      - "À empêcher le fauteuil de basculer"
+    answer: 3
+    explanation: >
+      Cette petite roue anti-bascule évite que le fauteuil se renverse vers l'arrière
+      pendant les mouvements rapides.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le basket en fauteuil roulant se joue sur le même terrain que le basket classique, avec des paniers à la même hauteur. Un joueur qui a le ballon ne peut pas pousser ses roues plus de deux fois sans dribbler, passer ou tirer. Un système de points permet de mélanger des joueurs aux handicaps différents.
+
+## Né après la guerre
+
+Le basket en fauteuil roulant est apparu à la fin de la Seconde Guerre mondiale, à deux endroits en même temps. En Angleterre, à l'hôpital de Stoke Mandeville, le docteur Ludwig Guttmann fait faire du sport à des soldats blessés. Aux États-Unis, d'anciens soldats commencent à jouer à partir de 1946.
+
+Le sport fait partie des tout premiers Jeux paralympiques, à Rome en 1960. Les femmes y jouent depuis 1968.
+
+## Les mêmes paniers
+
+Le terrain a les mêmes dimensions qu'au basket classique. Le panier est à la même hauteur : 3,05 mètres. Il y a cinq joueurs par équipe sur le terrain.
+
+Une règle est adaptée : le marcher. Un joueur qui a le ballon peut pousser ses roues deux fois au maximum. Ensuite, il doit dribbler, passer ou tirer avant de toucher de nouveau ses roues. Le fauteuil compte comme une partie du corps du joueur. Un choc de fauteuil peut donc être sifflé comme une faute.
+
+## Un fauteuil de sport
+
+Les fauteuils de basket ne ressemblent pas aux fauteuils de tous les jours. Leurs grandes roues sont inclinées. Cela permet de tourner très vite et rend le fauteuil plus stable. Une petite roue à l'arrière l'empêche de basculer. Le siège est assez bas pour la stabilité.
+
+La hauteur du siège change selon le poste du joueur. Un siège plus haut aide à tirer au panier. Un siège plus bas aide à se déplacer vite.
+
+## Des points pour être équitable
+
+Les joueurs n'ont pas tous le même handicap. Certains contrôlent bien leur tronc, d'autres beaucoup moins. Chaque joueur reçoit donc une note entre 1 et 4,5 selon ses capacités à bouger. Plus le handicap est léger, plus la note est haute.
+
+Dans les compétitions internationales, les cinq joueurs sur le terrain ne doivent pas dépasser 14 points au total. Une équipe ne peut donc pas aligner seulement les joueurs les moins handicapés. Elle doit mélanger des joueurs aux capacités différentes.
+
+## À retenir
+
+- Le basket en fauteuil roulant est né à la fin de la Seconde Guerre mondiale, en Angleterre et aux États-Unis.
+- Il fait partie des Jeux paralympiques depuis les premiers, à Rome en 1960.
+- Le terrain et la hauteur du panier, 3,05 mètres, sont les mêmes qu'au basket classique.
+- Un joueur qui a le ballon ne peut pas pousser ses roues plus de deux fois de suite.
+- Chaque joueur a une note de 1 à 4,5, et les cinq joueurs sur le terrain ne dépassent pas 14 points.
 
 ---
 type: article
@@ -6671,18 +7383,94 @@ status: planned
 
 ---
 type: article
-title: Le goalball comme sport specifiquement concu pour les personnes malvoyantes
-slug: le-goalball-comme-sport-specifiquement-concu-pour-les-personnes-malvoyantes
+title: Comment joue-t-on au goalball sans voir le ballon ?
+slug: comment-joue-t-on-au-goalball-sans-voir-le-ballon
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap
 summary: >
-  Une discipline originale qui repose entierement sur l'ouie plutot que sur la vue.
-tags: [sports-et-handicap, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le goalball est un sport inventé pour les personnes aveugles ou malvoyantes. Deux équipes de
+  trois joueurs se lancent un ballon qui contient des grelots. Tous les joueurs portent un
+  bandeau opaque et se repèrent au son, dans le silence.
+tags: [sports-et-handicap]
+sources:
+  - title: "Goalball"
+    url: "https://fr.wikipedia.org/wiki/Goalball"
+    publisher: "Wikipédia"
+  - title: "Goalball"
+    url: "https://en.wikipedia.org/wiki/Goalball"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui permet aux joueurs de suivre le ballon ?"
+    options:
+      - "Une lumière clignotante"
+      - "Les grelots à l'intérieur"
+      - "Les cris de l'arbitre"
+    answer: 2
+    explanation: >
+      Le ballon contient des grelots. Quand il roule, il fait du bruit, et les joueurs le
+      suivent à l'oreille.
+  - question: "Pourquoi tous les joueurs portent-ils un bandeau opaque ?"
+    options:
+      - "Pour que personne ne voie et que le jeu soit juste"
+      - "Pour se protéger du soleil"
+      - "Pour reconnaître leur équipe"
+    answer: 1
+    explanation: >
+      Certains joueurs voient un peu, d'autres pas du tout. Le bandeau met tout le monde à
+      égalité.
+  - question: "Combien de joueurs chaque équipe a-t-elle sur le terrain ?"
+    options:
+      - "Cinq"
+      - "Onze"
+      - "Trois"
+    answer: 3
+    explanation: >
+      Chaque équipe a trois joueurs sur le terrain, et des remplaçants sur le banc.
+  - question: "Que doivent faire les spectateurs pendant un match ?"
+    options:
+      - "Rester silencieux"
+      - "Applaudir à chaque lancer"
+      - "Taper des pieds"
+    answer: 1
+    explanation: >
+      Les joueurs se repèrent au son. Le public doit donc se taire, et le jeu s'arrête en
+      cas de bruit imprévu.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le goalball est un sport inventé pour les personnes aveugles ou malvoyantes. Deux équipes de trois joueurs se lancent un ballon qui contient des grelots. Tous les joueurs portent un bandeau opaque et se repèrent au son, dans le silence.
+
+## Un sport né après la guerre
+
+Le goalball a été créé en 1946 par l'Allemand Hans Lorenzen et l'Autrichien Sepp Reindle. Ils voulaient aider des soldats devenus aveugles ou malvoyants pendant la Seconde Guerre mondiale. Le sport devait les aider dans leur rééducation, c'est-à-dire à retrouver leurs capacités. Le goalball est apparu aux Jeux paralympiques dans les années 1970.
+
+## Un ballon qui sonne
+
+Le ballon pèse 1,25 kilogramme et mesure environ 24 centimètres de diamètre. Il est percé de huit trous et contient des grelots. Quand il roule, il fait du bruit. Les joueurs suivent ainsi sa trajectoire à l'oreille.
+
+Pendant le match, les spectateurs doivent rester silencieux. Si un bruit imprévu survient, le jeu est arrêté. Les joueurs écoutent aussi la voix de leurs coéquipiers pour savoir où ils sont.
+
+## Tous à égalité
+
+Les joueurs n'ont pas tous la même vue. Certains sont totalement aveugles, d'autres voient un peu. Pour que le jeu soit juste, tous portent un bandeau opaque sur les yeux. Personne ne voit rien.
+
+Le terrain mesure 18 mètres de long sur 9 mètres de large. Les lignes sont en relief : un fil de 3 millimètres est placé sous le marquage. Les joueurs les sentent avec les pieds ou les mains pour savoir où ils se trouvent.
+
+## Attaquer et défendre
+
+Chaque équipe a trois joueurs sur le terrain. Les buts occupent toute la largeur du terrain, soit 9 mètres, et mesurent 1,30 mètre de haut. Pour marquer, un joueur lance le ballon vers le but adverse. Le ballon doit toucher le sol dans des zones précises du terrain.
+
+Pour défendre, les joueurs glissent sur le côté. Ils tendent les bras au-dessus de la tête et allongent les jambes pour couvrir le plus de place possible. Une équipe a 10 secondes pour renvoyer le ballon de l'autre côté. Un match dure deux mi-temps de 12 minutes.
+
+## À retenir
+
+- Le goalball a été inventé en 1946 pour des soldats devenus aveugles ou malvoyants pendant la guerre.
+- Le ballon de 1,25 kilogramme contient des grelots qui permettent de le suivre au son.
+- Tous les joueurs portent un bandeau opaque pour être à égalité.
+- Les lignes du terrain sont en relief pour que les joueurs se repèrent au toucher.
+- Chaque équipe a trois joueurs, et le public doit rester silencieux.
 
 ---
 type: article

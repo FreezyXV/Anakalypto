@@ -9152,18 +9152,101 @@ status: planned
 
 ---
 type: article
-title: Les dates de peremption, DLC et DDM expliquees
-slug: les-dates-de-peremption-dlc-et-ddm-expliquees
+title: Pourquoi certains aliments ont-ils une date limite et d'autres une date conseillée ?
+slug: pourquoi-certains-aliments-ont-ils-une-date-limite-et-d-autres-une-date-conseillee
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
 summary: >
-  Pourquoi deux dates tres differentes semblent parfois dire la meme chose.
-tags: [gaspillage-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les aliments qui s'abîment vite portent une date limite de consommation, la DLC. Après cette
+  date, les manger peut être dangereux. Les produits secs ou en conserve portent une date de
+  durabilité minimale, la DDM. Après elle, ils peuvent perdre un peu de goût, sans danger pour
+  la santé.
+tags: [gaspillage-alimentaire]
+sources:
+  - title: "Date limite de consommation (DLC) et date de durabilité minimale (DDM)"
+    url: "https://www.anses.fr/fr/content/date-limite-de-consommation-dlc-et-date-de-durabilite-minimale-ddm"
+    publisher: "Anses"
+  - title: "Comment conserver les aliments ? DLC, DDM, quelle différence ?"
+    url: "https://www.sante.fr/comment-conserver-les-aliments-dlc-ddm-quelle-difference"
+    publisher: "Santé.fr"
+  - title: "Date limite de consommation"
+    url: "https://fr.wikipedia.org/wiki/Date_limite_de_consommation"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que signifie la mention « à consommer jusqu'au » ?"
+    options:
+      - "C'est une DDM, une simple indication de goût"
+      - "C'est une DLC, une limite pour la santé"
+      - "C'est la date de fabrication"
+    answer: 2
+    explanation: >
+      « À consommer jusqu'au » annonce une DLC. Après cette date, manger l'aliment peut
+      présenter des risques pour la santé.
+  - question: "Quel aliment porte en général une DDM ?"
+    options:
+      - "Un paquet de pâtes"
+      - "Un filet de poisson frais"
+      - "Un steak haché"
+    answer: 1
+    explanation: >
+      Les pâtes, le riz, la farine ou les conserves portent une DDM. La viande et le
+      poisson frais portent une DLC.
+  - question: "Que risque-t-on avec un paquet de riz dont la DDM est passée ?"
+    options:
+      - "Une intoxication grave"
+      - "Qu'il soit devenu toxique"
+      - "Qu'il ait perdu un peu de goût ou de qualité"
+    answer: 3
+    explanation: >
+      Après la DDM, l'aliment ne présente pas de danger. Il peut seulement perdre un peu
+      de goût, de texture ou de qualités nutritionnelles.
+  - question: "Par quelle mention l'ancienne DLUO a-t-elle été remplacée en 2015 ?"
+    options:
+      - "La DLC"
+      - "La DDM"
+      - "La date d'emballage"
+    answer: 2
+    explanation: >
+      En 2015, la date limite d'utilisation optimale, la DLUO, a été remplacée par la date
+      de durabilité minimale, la DDM.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les aliments qui s'abîment vite portent une date limite de consommation, la DLC. Après cette date, les manger peut être dangereux. Les produits secs ou en conserve portent une date de durabilité minimale, la DDM. Après elle, ils peuvent perdre un peu de goût, sans danger pour la santé.
+
+## Deux dates bien différentes
+
+Sur un emballage, on trouve souvent une date. Mais il en existe deux sortes, écrites avec des mots différents.
+
+La date limite de consommation, ou DLC, s'écrit « à consommer jusqu'au » ou « à consommer avant le ». Elle est suivie du jour, du mois et de l'année. La date de durabilité minimale, ou DDM, s'écrit « à consommer de préférence avant le ». Elle indique parfois seulement le mois et l'année. C'est le fabricant qui fixe ces dates, sous sa responsabilité.
+
+## La DLC, une limite pour la santé
+
+La DLC se trouve sur les aliments qui s'abîment vite : la viande et le poisson frais, les yaourts, certains produits laitiers, la charcuterie et les plats cuisinés non stérilisés. Après la DLC, manger ces aliments peut présenter des risques pour la santé, à cause des microbes. Les magasins doivent les retirer de la vente une fois la date passée.
+
+La date n'est garantie que si l'on respecte la température de conservation indiquée sur l'emballage. Une fois le paquet ouvert, elle ne compte plus. Il faut alors suivre l'indication « à consommer dans les x jours après ouverture ».
+
+## La DDM, une question de qualité
+
+La DDM concerne les produits secs, stérilisés ou déshydratés : les pâtes, le riz, le sucre, le sel, la farine, les biscuits secs, les conserves ou le café. Après cette date, l'aliment ne présente pas de danger. Il peut seulement perdre un peu de goût, de texture ou de qualités nutritionnelles. Ces produits peuvent encore être vendus après leur DDM.
+
+La DDM a remplacé en 2015 l'ancienne DLUO, la date limite d'utilisation optimale.
+
+## Moins de gaspillage
+
+Beaucoup de gens confondent les deux dates. Ils jettent alors des aliments encore bons à manger. Des DLC trop strictes poussent aussi des magasins à jeter des produits sans risque.
+
+Pour limiter ce gaspillage, les fabricants peuvent, depuis novembre 2022, ajouter une phrase à côté de la DDM, comme « Ce produit peut être consommé après cette date ». Bien lire l'étiquette permet de jeter moins de nourriture, sans prendre de risque avec les produits frais.
+
+## À retenir
+
+- La DLC, « à consommer jusqu'au », est une limite pour la santé.
+- La DDM, « à consommer de préférence avant le », est une indication de qualité.
+- La DLC concerne les produits frais comme la viande, le poisson ou les yaourts.
+- La DDM concerne les produits secs ou en conserve comme les pâtes, le riz ou la farine.
+- Après sa DDM, un aliment peut perdre du goût mais ne présente pas de danger.
 
 ---
 type: article
@@ -9977,18 +10060,98 @@ status: planned
 
 ---
 type: article
-title: La soif, un signal souvent en retard
-slug: la-soif-un-signal-souvent-en-retard
+title: Pourquoi a-t-on soif ?
+slug: pourquoi-a-t-on-soif
 categoryPath: alimentation-et-nutrition/nutriments/eau-et-hydratation
 summary: >
-  Pourquoi attendre d'avoir soif signifie deja etre legerement deshydrate.
-tags: [eau-et-hydratation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La soif est un signal envoyé par le cerveau quand le corps manque d'eau. Des capteurs
+  détectent que le sang devient trop concentré ou que son volume baisse. Ce signal arrive
+  quand le corps a déjà perdu un peu d'eau, et il s'affaiblit avec l'âge.
+tags: [eau-et-hydratation]
+sources:
+  - title: "Soif"
+    url: "https://fr.wikipedia.org/wiki/Soif"
+    publisher: "Wikipédia"
+  - title: "Thirst"
+    url: "https://en.wikipedia.org/wiki/Thirst"
+    publisher: "Wikipedia"
+  - title: "Dehydration"
+    url: "https://en.wikipedia.org/wiki/Dehydration"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle partie du cerveau commande la soif ?"
+    options:
+      - "Le cervelet"
+      - "L'hypothalamus"
+      - "La moelle épinière"
+    answer: 2
+    explanation: >
+      La soif est contrôlée par l'hypothalamus, une petite zone du cerveau qui surveille
+      l'eau du corps.
+  - question: "Que fait la vasopressine ?"
+    options:
+      - "Elle demande aux reins de garder l'eau"
+      - "Elle fait transpirer"
+      - "Elle donne faim"
+    answer: 1
+    explanation: >
+      La vasopressine, ou hormone antidiurétique, demande aux reins de retenir l'eau. On
+      urine alors moins.
+  - question: "Pourquoi la soif disparaît-elle avant que l'eau bue arrive dans le sang ?"
+    options:
+      - "Parce que l'eau va directement au cerveau"
+      - "Parce que le cœur ralentit"
+      - "Parce que la bouche et la gorge envoient des signaux rapides au cerveau"
+    answer: 3
+    explanation: >
+      La bouche, la gorge et l'œsophage préviennent vite le cerveau que de l'eau arrive.
+      Il arrête alors la sensation de soif.
+  - question: "Que devient la sensation de soif avec l'âge ?"
+    options:
+      - "Elle diminue"
+      - "Elle augmente beaucoup"
+      - "Elle reste toujours la même"
+    answer: 1
+    explanation: >
+      Après 50 ans, la sensation de soif diminue peu à peu. Les personnes âgées risquent
+      donc davantage de manquer d'eau.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La soif est un signal envoyé par le cerveau quand le corps manque d'eau. Des capteurs détectent que le sang devient trop concentré ou que son volume baisse. Ce signal arrive quand le corps a déjà perdu un peu d'eau, et il s'affaiblit avec l'âge.
+
+## Un corps plein d'eau
+
+Le corps humain contient en moyenne environ 60 % d'eau. Chez un nouveau-né, c'est 70 à 75 %. Chaque jour, le corps perd de l'eau. Il faut donc en boire régulièrement pour garder l'équilibre.
+
+## Des capteurs dans le cerveau
+
+La soif est commandée par l'hypothalamus, une petite zone du cerveau. Des groupes de cellules y surveillent le sang. Quand le corps manque d'eau, le sang devient plus concentré, comme un sirop pas assez dilué. Ces capteurs le détectent. D'autres capteurs, dans les vaisseaux sanguins, sentent que la pression du sang baisse quand son volume diminue.
+
+Le cerveau déclenche alors deux réactions. D'abord, il donne envie de boire : c'est la soif. Ensuite, il fait libérer une hormone, la vasopressine, appelée aussi hormone antidiurétique. Elle demande aux reins de garder l'eau. On urine alors moins.
+
+## Un signal qui arrive un peu tard
+
+La soif n'apparaît pas dès la première goutte perdue. Elle se déclenche quand le corps a déjà perdu une petite partie de son eau. Une perte de 1 à 2 % suffit déjà à gêner un peu l'attention et la réflexion. Une perte de 5 à 8 % cause de la fatigue et des vertiges.
+
+Avec l'âge, la sensation de soif diminue. Elle commence à baisser après 50 ans, puis continue de baisser. C'est pourquoi on conseille aux personnes âgées de boire un peu d'eau régulièrement dans la journée, surtout pendant les canicules, sans attendre d'avoir soif.
+
+## Pourquoi un verre d'eau calme vite la soif
+
+Quand on boit, l'eau met du temps à passer dans le sang. Pourtant, la soif disparaît presque tout de suite. C'est parce que la bouche, la gorge et l'œsophage envoient des signaux rapides au cerveau. Ils lui indiquent que de l'eau arrive, et il arrête la sensation de soif.
+
+Les signes d'un manque d'eau sont la soif, le mal de tête, la fatigue, des urines plus rares et plus foncées, et parfois des vertiges. Boire beaucoup trop sans avoir soif n'est pas utile non plus. Un excès d'eau peut perturber l'équilibre du sel dans le sang.
+
+## À retenir
+
+- Le corps humain contient en moyenne environ 60 % d'eau.
+- La soif est commandée par l'hypothalamus, qui détecte un sang trop concentré.
+- La vasopressine demande aux reins de garder l'eau.
+- La soif arrive quand le corps a déjà perdu un peu d'eau.
+- La sensation de soif diminue avec l'âge, ce qui expose les personnes âgées au manque d'eau.
 
 ---
 type: article
@@ -11222,18 +11385,100 @@ status: planned
 
 ---
 type: article
-title: Les acides amines essentiels, ceux que le corps ne fabrique pas
-slug: les-acides-amines-essentiels-ceux-que-le-corps-ne-fabrique-pas
+title: Pourquoi certains acides aminés doivent-ils venir de notre assiette ?
+slug: pourquoi-certains-acides-amines-doivent-ils-venir-de-notre-assiette
 categoryPath: alimentation-et-nutrition/nutriments/macronutriments
 summary: >
-  Pourquoi certains acides amines doivent obligatoirement venir de l'alimentation.
-tags: [macronutriments, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les protéines sont des chaînes de petites briques, les acides aminés. Notre corps sait
+  fabriquer beaucoup de ces briques, mais pas neuf d'entre elles, appelées acides aminés
+  essentiels. Il doit les trouver dans l'alimentation, régulièrement, car il ne fait pas de
+  réserve de protéines.
+tags: [macronutriments]
+sources:
+  - title: "Acide aminé essentiel"
+    url: "https://fr.wikipedia.org/wiki/Acide_amin%C3%A9_essentiel"
+    publisher: "Wikipédia"
+  - title: "Essential amino acid"
+    url: "https://en.wikipedia.org/wiki/Essential_amino_acid"
+    publisher: "Wikipedia"
+  - title: "Protein (nutrient)"
+    url: "https://en.wikipedia.org/wiki/Protein_(nutrient)"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien d'acides aminés essentiels le corps humain ne sait-il pas fabriquer ?"
+    options:
+      - "Neuf"
+      - "Deux"
+      - "Cinquante"
+    answer: 1
+    explanation: >
+      Il existe neuf acides aminés essentiels, que l'on doit trouver dans l'alimentation.
+  - question: "Que deviennent les protéines des aliments pendant la digestion ?"
+    options:
+      - "Elles se transforment en sucre"
+      - "Elles sont découpées en acides aminés"
+      - "Elles passent intactes dans le sang"
+    answer: 2
+    explanation: >
+      La digestion découpe les protéines en acides aminés. Le corps les absorbe puis
+      fabrique ses propres protéines.
+  - question: "Quel acide aminé essentiel manque souvent dans les céréales ?"
+    options:
+      - "La méthionine"
+      - "Le tryptophane"
+      - "La lysine"
+    answer: 3
+    explanation: >
+      Les céréales contiennent peu de lysine. Les légumineuses en contiennent beaucoup,
+      mais manquent de méthionine.
+  - question: "Pourquoi le corps a-t-il besoin de protéines régulièrement ?"
+    options:
+      - "Parce qu'il ne fait pas de réserve de protéines"
+      - "Parce qu'elles servent seulement à digérer"
+      - "Parce qu'elles s'évaporent avec la sueur"
+    answer: 1
+    explanation: >
+      Contrairement aux graisses, les protéines ne sont pas mises en réserve pour plus
+      tard.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les protéines sont des chaînes de petites briques, les acides aminés. Notre corps sait fabriquer beaucoup de ces briques, mais pas neuf d'entre elles, appelées acides aminés essentiels. Il doit les trouver dans l'alimentation, régulièrement, car il ne fait pas de réserve de protéines.
+
+## Des briques pour construire
+
+Les protéines sont présentes dans toutes les cellules du corps. Elles forment une partie des muscles, de la peau, des cheveux, du sang et des os. Le corps s'en sert aussi pour fabriquer des enzymes, des hormones et des anticorps, qui le défendent contre les microbes.
+
+Chaque protéine est une longue chaîne de petites briques, les acides aminés. Pendant la digestion, l'estomac et l'intestin découpent les protéines des aliments en acides aminés. Le corps les absorbe. Puis il les assemble dans un autre ordre pour fabriquer ses propres protéines.
+
+## Neuf briques impossibles à fabriquer
+
+Le corps humain sait fabriquer beaucoup d'acides aminés. Mais il ne sait pas en fabriquer neuf, ou pas assez vite. On les appelle les acides aminés essentiels : la valine, l'isoleucine, la leucine, la méthionine, la phénylalanine, le tryptophane, la thréonine, l'histidine et la lysine. Les plantes et les micro-organismes, eux, savent les fabriquer.
+
+Au milieu du XXe siècle, le chercheur américain William Cumming Rose a mené les expériences qui ont permis de savoir quels acides aminés sont indispensables à l'être humain.
+
+Le corps ne fait pas de réserve de protéines, contrairement aux graisses. Il a donc besoin d'en recevoir régulièrement par l'alimentation.
+
+## Le maillon faible
+
+Pour fabriquer une protéine, le corps a besoin de toutes les briques nécessaires en même temps. S'il en manque une seule, elle bloque la suite, même si toutes les autres sont là. Les scientifiques l'appellent l'acide aminé limitant.
+
+Certains aliments végétaux, comme le quinoa ou le sarrasin, apportent à eux seuls tous les acides aminés essentiels. Beaucoup d'autres végétaux manquent d'au moins un d'entre eux.
+
+## Céréales et légumineuses, une bonne équipe
+
+Les céréales, comme le riz ou le blé, contiennent peu de lysine mais assez de méthionine. Les légumineuses, comme les haricots, font l'inverse : elles contiennent assez de lysine, mais peu de méthionine. En les associant, on obtient tous les acides aminés essentiels. Le riz aux haricots, un plat très répandu, en est un bon exemple.
+
+## À retenir
+
+- Les protéines sont des chaînes de petites briques appelées acides aminés.
+- Le corps humain ne sait pas fabriquer neuf acides aminés, dits essentiels.
+- Ces neuf acides aminés doivent venir de l'alimentation, car le corps ne fait pas de réserve de protéines.
+- Il suffit qu'un acide aminé manque pour freiner la fabrication des protéines.
+- Céréales et légumineuses se complètent, comme dans le riz aux haricots.
 
 ---
 type: article
@@ -12077,18 +12322,96 @@ status: planned
 
 ---
 type: article
-title: La vitamine C et ses vraies proprietes
-slug: la-vitamine-c-et-ses-vraies-proprietes
+title: Pourquoi les marins d'autrefois avaient-ils besoin de citrons ?
+slug: pourquoi-les-marins-d-autrefois-avaient-ils-besoin-de-citrons
 categoryPath: alimentation-et-nutrition/nutriments/micronutriments
 summary: >
-  Ce que cette vitamine fait reellement, au-dela des idees recues sur le rhume.
-tags: [micronutriments, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Sans vitamine C, on attrape le scorbut, une maladie qui fait saigner les gencives et tomber
+  les dents. Pendant les grandes expéditions en mer, cette maladie a tué de très nombreux
+  marins. En 1747, le médecin James Lind a montré que les agrumes la guérissaient.
+tags: [micronutriments]
+sources:
+  - title: "Scorbut"
+    url: "https://fr.wikipedia.org/wiki/Scorbut"
+    publisher: "Wikipédia"
+  - title: "Vitamin C"
+    url: "https://en.wikipedia.org/wiki/Vitamin_C"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle maladie provoque un manque de vitamine C ?"
+    options:
+      - "Le scorbut"
+      - "La grippe"
+      - "La varicelle"
+    answer: 1
+    explanation: >
+      Après 1 à 3 mois sans vitamine C, le scorbut apparaît.
+  - question: "Qu'a montré James Lind en 1747 ?"
+    options:
+      - "Que l'eau de mer guérit le scorbut"
+      - "Que les agrumes guérissent le scorbut"
+      - "Que le scorbut est contagieux"
+    answer: 2
+    explanation: >
+      Lind a comparé plusieurs traitements. Seuls les marins qui mangeaient des agrumes
+      ont vite guéri.
+  - question: "À quoi sert la vitamine C dans le corps ?"
+    options:
+      - "À voir dans le noir"
+      - "À digérer les graisses"
+      - "À fabriquer le collagène"
+    answer: 3
+    explanation: >
+      La vitamine C aide à fabriquer le collagène, une protéine qui rend solides la peau,
+      les vaisseaux sanguins et d'autres tissus.
+  - question: "Prendre de la vitamine C tous les jours empêche-t-il d'attraper un rhume ?"
+    options:
+      - "Oui, toujours"
+      - "Non, mais cela raccourcit un peu sa durée"
+      - "Oui, chez les enfants seulement"
+    answer: 2
+    explanation: >
+      Cela n'empêche pas d'attraper un rhume. Cela réduit sa durée d'environ 8 % chez les
+      adultes et 14 % chez les enfants.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sans vitamine C, on attrape le scorbut, une maladie qui fait saigner les gencives et tomber les dents. Pendant les grandes expéditions en mer, cette maladie a tué de très nombreux marins. En 1747, le médecin James Lind a montré que les agrumes la guérissaient.
+
+## Une maladie des grandes expéditions
+
+Lors des grands voyages en mer, le scorbut a tué énormément de marins. L'expédition de Vasco de Gama perd 120 de ses 160 marins en onze mois. Celle de Magellan perd 247 hommes sur 265 en trois ans. Le scorbut fait partie des grandes causes de ces morts.
+
+## Ce que fait le scorbut
+
+Le scorbut apparaît après 1 à 3 mois sans aucune vitamine C. D'abord, on se sent fatigué, on a moins faim et on a mal aux muscles. Puis les gencives gonflent, deviennent violettes et saignent. Les dents bougent et tombent. Des taches de sang apparaissent sous la peau, et les blessures ne cicatrisent plus.
+
+La vitamine C aide le corps à fabriquer le collagène. C'est une protéine qui rend solides la peau, les vaisseaux sanguins et de nombreux autres tissus. Sans vitamine C, le collagène est fragile, et tout le corps s'affaiblit.
+
+## Le premier essai clinique
+
+En 1747, le médecin James Lind fait une expérience sur des marins malades. Il les répartit en groupes et donne à chaque groupe un traitement différent. Ceux qui mangent des agrumes guérissent vite. Les autres ne vont pas mieux. On considère cette expérience comme le premier essai clinique, c'est-à-dire une comparaison organisée de traitements.
+
+En 1795, la marine britannique donne chaque jour aux marins une petite ration de jus d'agrumes, environ 21 millilitres. En deux ans, le scorbut disparaît de ses navires.
+
+## Ce que l'on sait aujourd'hui
+
+L'être humain a perdu les gènes qui permettent de fabriquer la vitamine C. C'est aussi le cas des grands singes, du cochon d'Inde et de certaines chauves-souris. Nous devons donc la trouver dans notre alimentation. En 1937, Albert Szent-Györgyi a reçu le prix Nobel, en partie pour la découverte de la vitamine C.
+
+Pour 100 grammes, le poivron rouge en contient environ 128 milligrammes, le kiwi 90 et l'orange 53. La cuisson peut faire perdre environ 60 % de la vitamine C des légumes.
+
+Et le rhume ? Prendre de la vitamine C tous les jours n'empêche pas de l'attraper. Cela réduit seulement sa durée d'environ 8 % chez les adultes et 14 % chez les enfants.
+
+## À retenir
+
+- Un manque total de vitamine C pendant 1 à 3 mois provoque le scorbut.
+- Le scorbut fait saigner les gencives, tomber les dents et empêche les plaies de guérir.
+- En 1747, James Lind a montré que les agrumes guérissent le scorbut.
+- La vitamine C sert à fabriquer le collagène, qui rend les tissus solides.
+- L'être humain ne sait pas fabriquer la vitamine C et doit la trouver dans son alimentation.
 
 ---
 type: article
@@ -12107,18 +12430,99 @@ status: planned
 
 ---
 type: article
-title: La vitamine A et la vision
-slug: la-vitamine-a-et-la-vision
+title: Pourquoi dit-on que les carottes font voir dans le noir ?
+slug: pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir
 categoryPath: alimentation-et-nutrition/nutriments/micronutriments
 summary: >
-  Pourquoi une carence en cette vitamine reste une cause majeure de cecite dans le monde.
-tags: [micronutriments, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pendant la Seconde Guerre mondiale, les Britanniques ont fait croire que les carottes
+  aidaient leurs pilotes à voir la nuit, pour cacher l'usage du radar. Les carottes
+  contiennent du bêta-carotène, que le corps transforme en vitamine A, utile pour voir quand
+  il fait sombre. Mais elles n'améliorent la vue que chez les personnes qui manquent de
+  vitamine A.
+tags: [micronutriments]
+sources:
+  - title: "Carrot"
+    url: "https://en.wikipedia.org/wiki/Carrot"
+    publisher: "Wikipedia"
+  - title: "Vitamine A"
+    url: "https://fr.wikipedia.org/wiki/Vitamine_A"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel était le vrai secret des pilotes britanniques la nuit ?"
+    options:
+      - "Les carottes"
+      - "Le radar"
+      - "Des lunettes spéciales"
+    answer: 2
+    explanation: >
+      Les pilotes utilisaient le radar, une nouvelle technologie. L'histoire des carottes
+      servait à garder ce secret.
+  - question: "En quoi le corps transforme-t-il le bêta-carotène des carottes ?"
+    options:
+      - "En vitamine A"
+      - "En vitamine C"
+      - "En sucre"
+    answer: 1
+    explanation: >
+      Dans l'intestin, le bêta-carotène est transformé en vitamine A.
+  - question: "Quel est le premier signe d'un manque de vitamine A ?"
+    options:
+      - "Des cheveux blancs"
+      - "Une forte fièvre"
+      - "Voir très mal quand la lumière baisse"
+    answer: 3
+    explanation: >
+      Le premier signe est la cécité nocturne : on voit très mal dès qu'il fait sombre.
+  - question: "Manger plus de carottes améliore-t-il la vue d'une personne bien nourrie ?"
+    options:
+      - "Oui, beaucoup"
+      - "Non"
+      - "Oui, mais seulement le jour"
+    answer: 2
+    explanation: >
+      Les carottes n'aident à voir dans le noir que les personnes qui manquent de vitamine
+      A.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pendant la Seconde Guerre mondiale, les Britanniques ont fait croire que les carottes aidaient leurs pilotes à voir la nuit, pour cacher l'usage du radar. Les carottes contiennent du bêta-carotène, que le corps transforme en vitamine A, utile pour voir quand il fait sombre. Mais elles n'améliorent la vue que chez les personnes qui manquent de vitamine A.
+
+## Une ruse de guerre
+
+Pendant la Seconde Guerre mondiale, les pilotes britanniques réussissent à abattre des avions ennemis en pleine nuit. Leur vrai secret est une nouvelle technologie, le radar. Pour le cacher, la propagande britannique répand une fausse explication. Les pilotes verraient dans le noir parce qu'ils mangent beaucoup de carottes.
+
+Le public y croit. Les Britanniques mangent davantage de carottes, et en 1942, le pays se retrouve avec un surplus de 100 000 tonnes de carottes.
+
+## La vitamine A et les yeux
+
+Le mythe contient pourtant une part de vérité. La carotte est riche en bêta-carotène, un pigment orange. Dans l'intestin, le corps le transforme en vitamine A. Une molécule de bêta-carotène donne deux molécules de vitamine A.
+
+Au fond de l'œil, la rétine contient des cellules appelées bâtonnets. Ce sont elles qui permettent de voir quand il fait sombre. Elles contiennent un pigment, la rhodopsine, fabriqué avec de la vitamine A. Quand la lumière touche ce pigment, il change de forme et déclenche un signal nerveux vers le cerveau.
+
+## Quand la vitamine A manque
+
+Le premier signe d'un manque de vitamine A est la cécité nocturne : on voit très mal dès que la lumière baisse. Si le manque dure, il peut rendre complètement aveugle. Vers 1995, l'Organisation mondiale de la santé estimait qu'entre 250 000 et 500 000 enfants perdaient la vue chaque année à cause de ce manque.
+
+Manger des carottes aide donc à mieux voir la nuit, mais seulement si l'on manque de vitamine A. Chez une personne bien nourrie, en manger davantage ne donne pas une meilleure vue.
+
+## Où trouver la vitamine A ?
+
+La vitamine A elle-même se trouve dans le foie, le beurre et les œufs. Le bêta-carotène se trouve dans les carottes, les patates douces et les épinards. Dans une carotte crue, seulement environ 3 % du bêta-carotène est libéré pendant la digestion.
+
+Trop de vitamine A peut être toxique. Le foie d'ours polaire, par exemple, en contient tellement qu'il est dangereux pour l'être humain.
+
+Les carottes n'ont pas toujours été orange. Au Xe siècle, elles étaient violettes. Les carottes orange ont été développées aux Pays-Bas, aux XVIe et XVIIe siècles.
+
+## À retenir
+
+- L'idée que les carottes font voir dans le noir vient de la propagande britannique de la Seconde Guerre mondiale.
+- Le vrai secret des pilotes britanniques était le radar.
+- Le corps transforme le bêta-carotène des carottes en vitamine A.
+- La vitamine A sert à fabriquer la rhodopsine, le pigment qui permet de voir quand il fait sombre.
+- Les carottes n'améliorent la vue la nuit que chez les personnes qui manquent de vitamine A.
 
 ---
 type: article
@@ -13697,18 +14101,97 @@ status: planned
 
 ---
 type: article
-title: La contamination croisee entre aliments crus et cuits
-slug: la-contamination-croisee-entre-aliments-crus-et-cuits
+title: Pourquoi ne faut-il pas couper la salade sur la planche du poulet cru ?
+slug: pourquoi-ne-faut-il-pas-couper-la-salade-sur-la-planche-du-poulet-cru
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
 summary: >
-  Un des mecanismes les plus courants de transmission de bacteries en cuisine.
-tags: [securite-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  La viande, la volaille et le poisson crus peuvent porter des bactéries. Si une planche, un
+  couteau ou des mains les transportent vers un aliment prêt à manger, comme la salade, on
+  parle de contamination croisée. Séparer le cru du cuit et se laver les mains évite beaucoup
+  d'intoxications.
+tags: [securite-alimentaire]
+sources:
+  - title: "Éviter les toxi-infections alimentaires, les bonnes pratiques"
+    url: "https://www.anses.fr/fr/content/eviter-les-toxi-infections-alimentaires-en-confinement-les-bonnes-pratiques"
+    publisher: "Anses"
+  - title: "Sécurité sanitaire des aliments"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/food-safety"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Qu'est-ce que la contamination croisée ?"
+    options:
+      - "Le passage de microbes d'un aliment cru à un aliment prêt à manger"
+      - "Le mélange de deux recettes"
+      - "La cuisson de deux plats en même temps"
+    answer: 1
+    explanation: >
+      Des microbes passent d'un aliment cru à un autre aliment, par une planche, un
+      couteau, une éponge ou les mains.
+  - question: "À quelle température la cuisson à cœur élimine-t-elle la plupart des microbes ?"
+    options:
+      - "30 °C"
+      - "70 °C"
+      - "15 °C"
+    answer: 2
+    explanation: >
+      Une cuisson à 70 °C au cœur de l'aliment élimine la plupart des microbes dangereux.
+  - question: "Quelle part des toxi-infections alimentaires déclarées en France survient à la maison ?"
+    options:
+      - "Presque aucune"
+      - "Toutes"
+      - "Environ un tiers"
+    answer: 3
+    explanation: >
+      Chaque année en France, environ un tiers des toxi-infections alimentaires déclarées
+      surviennent à domicile.
+  - question: "Que conseille l'Anses pour les planches à découper ?"
+    options:
+      - "Une seule planche pour tout"
+      - "Une planche pour le cru, une autre pour le cuit et les légumes propres"
+      - "Ne jamais utiliser de planche"
+    answer: 2
+    explanation: >
+      Une planche sert à la viande et au poisson crus, une autre aux aliments cuits et aux
+      légumes propres.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La viande, la volaille et le poisson crus peuvent porter des bactéries. Si une planche, un couteau ou des mains les transportent vers un aliment prêt à manger, comme la salade, on parle de contamination croisée. Séparer le cru du cuit et se laver les mains évite beaucoup d'intoxications.
+
+## Des bactéries invisibles
+
+Les aliments crus, comme la volaille, la viande ou le lait cru, peuvent porter des bactéries qui rendent malade. Dans le monde, parmi les plus fréquentes, on trouve Campylobacter et certaines formes de la bactérie Escherichia coli. Ces microbes sont trop petits pour être vus à l'œil nu.
+
+La cuisson à cœur, c'est-à-dire jusqu'au centre de l'aliment, à 70 °C, élimine la plupart de ces microbes. Le problème vient des aliments qui ne seront pas cuits ensuite, comme la salade, les fruits ou un plat déjà cuit.
+
+## Le voyage des microbes
+
+La contamination croisée, c'est quand des microbes passent d'un aliment cru à un aliment prêt à manger. Ils voyagent par une planche à découper, un couteau, une éponge, un torchon ou les mains.
+
+Prenons un exemple. On découpe un poulet cru sur une planche. Puis on coupe la salade sur la même planche, sans la laver. Des bactéries du poulet passent sur la salade. Le poulet sera cuit, mais pas la salade. Les bactéries qui s'y trouvent ne seront donc pas détruites.
+
+## Les bons gestes
+
+L'Anses, l'agence française chargée de la sécurité sanitaire de l'alimentation, conseille plusieurs gestes simples. Il faut se laver les mains au savon avant et pendant la préparation des repas, surtout après avoir touché des aliments crus. On utilise une planche pour la viande et le poisson crus, et une autre pour les aliments cuits et les légumes propres.
+
+Au réfrigérateur, on range les aliments crus à l'écart des aliments prêts à manger. La zone la plus froide doit être à 4 °C. Les restes se gardent dans des boîtes fermées et se mangent dans les 3 jours. Un plat cuit ne doit pas rester plus de 2 heures à température ambiante. Les éponges et les torchons doivent être lavés souvent, à l'eau de Javel ou à plus de 60 °C.
+
+## Un enjeu de santé
+
+En France, environ un tiers des toxi-infections alimentaires déclarées chaque année surviennent à la maison. Une toxi-infection alimentaire est une maladie causée par un aliment contaminé par des microbes.
+
+Dans le monde, l'Organisation mondiale de la santé estime que près d'une personne sur neuf tombe malade chaque année après avoir mangé des aliments contaminés. Les enfants de moins de 5 ans sont particulièrement touchés. Parmi les règles de base de l'OMS pour des aliments plus sûrs, on trouve celle-ci : séparer le cru du cuit.
+
+## À retenir
+
+- La contamination croisée est le passage de microbes d'un aliment cru à un aliment prêt à manger.
+- Les microbes voyagent par les planches, les couteaux, les éponges et les mains.
+- La cuisson à 70 °C au cœur de l'aliment élimine la plupart des microbes.
+- Il faut utiliser une planche pour le cru et une autre pour le cuit et les légumes propres.
+- En France, environ un tiers des toxi-infections alimentaires déclarées surviennent à la maison.
 
 ---
 type: article
@@ -14087,18 +14570,96 @@ status: planned
 
 ---
 type: article
-title: La congelation et ses effets sur la texture des aliments
-slug: la-congelation-et-ses-effets-sur-la-texture-des-aliments
+title: Pourquoi un aliment décongelé devient-il parfois tout mou ?
+slug: pourquoi-un-aliment-decongele-devient-il-parfois-tout-mou
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Pourquoi certains aliments supportent mal la congelation malgre une bonne conservation.
-tags: [conservation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En gelant, l'eau contenue dans les aliments forme des cristaux de glace. Quand la
+  congélation est lente, les cristaux deviennent gros et percent les parois des cellules. À la
+  décongélation, le jus s'écoule et l'aliment devient mou.
+tags: [conservation]
+sources:
+  - title: "Frozen food"
+    url: "https://en.wikipedia.org/wiki/Frozen_food"
+    publisher: "Wikipedia"
+  - title: "Surgélation"
+    url: "https://fr.wikipedia.org/wiki/Surg%C3%A9lation"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que forme l'eau d'un aliment quand il gèle ?"
+    options:
+      - "Des bulles d'air"
+      - "Des cristaux de glace"
+      - "Du sucre"
+    answer: 2
+    explanation: >
+      En gelant, l'eau des cellules se transforme en cristaux de glace.
+  - question: "Que se passe-t-il quand un aliment gèle lentement ?"
+    options:
+      - "De gros cristaux percent les parois des cellules"
+      - "Il ne se forme aucun cristal"
+      - "L'aliment devient plus ferme"
+    answer: 1
+    explanation: >
+      Une congélation lente forme peu de cristaux, mais gros. Ils percent les parois des
+      cellules et abîment la texture.
+  - question: "À quelle température doit-on garder les aliments congelés ?"
+    options:
+      - "0 °C"
+      - "4 °C"
+      - "-18 °C ou moins"
+    answer: 3
+    explanation: >
+      Pour une longue conservation, les aliments congelés ou surgelés doivent rester à -18
+      °C ou moins.
+  - question: "Le froid du congélateur tue-t-il la plupart des microbes ?"
+    options:
+      - "Oui, tous"
+      - "Non, il les empêche surtout de se multiplier"
+      - "Oui, en une heure"
+    answer: 2
+    explanation: >
+      Le froid empêche la plupart des bactéries de se multiplier, mais beaucoup de
+      microbes survivent au froid.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En gelant, l'eau contenue dans les aliments forme des cristaux de glace. Quand la congélation est lente, les cristaux deviennent gros et percent les parois des cellules. À la décongélation, le jus s'écoule et l'aliment devient mou.
+
+## De l'eau dans les cellules
+
+Les fruits, les légumes, la viande et le poisson sont faits de cellules. Ce sont de minuscules sacs entourés d'une paroi. Ces cellules contiennent beaucoup d'eau. Quand on met un aliment au congélateur, cette eau se transforme en glace.
+
+## Petits ou gros cristaux
+
+En gelant, l'eau forme des cristaux de glace. Leur taille dépend de la vitesse de congélation. Quand l'aliment gèle lentement, il se forme peu de cristaux, mais ils sont gros. Ces gros cristaux percent les parois des cellules, comme de petites aiguilles. Quand l'aliment gèle très vite, il se forme beaucoup de petits cristaux. Ils abîment beaucoup moins les cellules.
+
+À la décongélation, la glace fond. Si les parois des cellules ont été percées, leur jus s'écoule. L'aliment perd sa fermeté et devient mou. Il peut aussi perdre de son goût et de ses arômes.
+
+## Congeler ou surgeler
+
+Dans un congélateur ordinaire, la congélation fait baisser la température lentement, parfois en 24 heures. La surgélation est une technique industrielle. Elle refroidit les aliments brutalement, en quelques minutes à une heure, avec des températures de -18 °C à -196 °C. L'eau forme alors de fins cristaux. L'aliment garde mieux sa texture et sa saveur.
+
+Ensuite, les aliments congelés ou surgelés doivent être gardés à -18 °C ou moins.
+
+L'Américain Clarence Birdseye a fait connaître la congélation rapide au public à partir de 1929. Il en avait eu l'idée au Labrador, une région du Canada, en voyant les habitants conserver leur nourriture grâce au froid naturel.
+
+## Le froid endort les microbes
+
+La congélation conserve les aliments parce que l'eau, devenue glace, n'est plus disponible pour les microbes. La plupart des bactéries ne peuvent plus se multiplier. En dessous de -9,5 °C, les micro-organismes ne se développent plus.
+
+Mais le froid ne tue pas les microbes aussi bien que la chaleur. Beaucoup de microbes dangereux survivent au froid, alors qu'une cuisson à forte température en détruit bien davantage. La congélation conserve donc les aliments, mais elle ne les rend pas plus sûrs qu'avant.
+
+## À retenir
+
+- En gelant, l'eau des aliments forme des cristaux de glace.
+- Une congélation lente forme de gros cristaux qui percent les cellules et rendent l'aliment mou après décongélation.
+- La surgélation refroidit très vite et forme de petits cristaux qui préservent mieux la texture.
+- Les aliments congelés se conservent à -18 °C ou moins.
+- Le froid empêche les microbes de se multiplier, mais ne les tue pas tous.
 
 ---
 type: article
@@ -14671,18 +15232,99 @@ status: planned
 
 ---
 type: article
-title: Le vinaigre, une seconde fermentation apres l'alcool
-slug: le-vinaigre-une-seconde-fermentation-apres-l-alcool
+title: Comment le vin se transforme-t-il en vinaigre ?
+slug: comment-le-vin-se-transforme-t-il-en-vinaigre
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Comment l'alcool lui-meme peut a son tour etre transforme par des bacteries.
-tags: [fermentation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le vinaigre naît de deux fermentations à la suite. D'abord, des levures changent le sucre du
+  fruit en alcool. Ensuite, des bactéries qui ont besoin d'oxygène changent cet alcool en
+  acide acétique, qui donne au vinaigre son goût acide.
+tags: [fermentation]
+sources:
+  - title: "Vinaigre"
+    url: "https://fr.wikipedia.org/wiki/Vinaigre"
+    publisher: "Wikipédia"
+  - title: "Vinegar"
+    url: "https://en.wikipedia.org/wiki/Vinegar"
+    publisher: "Wikipedia"
+quiz:
+  - question: "D'où vient le mot « vinaigre » ?"
+    options:
+      - "De « vin aigre »"
+      - "De « vigne en grain »"
+      - "D'un mot chinois"
+    answer: 1
+    explanation: >
+      Le mot vient de « vin aigre », car le vin était la base la plus courante du
+      vinaigre.
+  - question: "Quels êtres vivants transforment l'alcool en acide acétique ?"
+    options:
+      - "Des levures"
+      - "Des bactéries appelées Acetobacter"
+      - "Des vers"
+    answer: 2
+    explanation: >
+      Les levures font la première fermentation, du sucre vers l'alcool. Les bactéries
+      Acetobacter font la seconde, de l'alcool vers l'acide acétique.
+  - question: "De quoi les bactéries du vinaigre ont-elles besoin pour travailler ?"
+    options:
+      - "De lumière"
+      - "De sel"
+      - "D'oxygène"
+    answer: 3
+    explanation: >
+      Les bactéries acétiques ont besoin d'oxygène. C'est pourquoi on aère les tonneaux ou
+      le liquide.
+  - question: "Qui a montré que des bactéries fabriquent le vinaigre ?"
+    options:
+      - "Louis Pasteur"
+      - "Isaac Newton"
+      - "Marie Curie"
+    answer: 1
+    explanation: >
+      Au XIXe siècle, Louis Pasteur a identifié les bactéries responsables de la
+      fermentation acétique.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le vinaigre naît de deux fermentations à la suite. D'abord, des levures changent le sucre du fruit en alcool. Ensuite, des bactéries qui ont besoin d'oxygène changent cet alcool en acide acétique, qui donne au vinaigre son goût acide.
+
+## Un vin devenu aigre
+
+Le mot « vinaigre » vient de « vin aigre ». Pendant longtemps, le vin a été la base la plus courante du vinaigre. Aujourd'hui, on en fabrique aussi avec du cidre, du riz, du moût de raisin pour le vinaigre balsamique, ou de la mélasse de betterave pour le vinaigre blanc.
+
+## Deux fermentations à la suite
+
+Une fermentation est une transformation faite par des êtres vivants microscopiques. Pour obtenir du vinaigre, il en faut deux.
+
+La première est la fermentation alcoolique. Des levures, qui sont des champignons microscopiques, mangent le sucre du jus de fruit. Elles le transforment en alcool. C'est ainsi que le jus de raisin devient du vin.
+
+La seconde est la fermentation acétique. Des bactéries appelées Acetobacter transforment l'alcool en acide acétique. C'est cet acide qui donne au vinaigre son goût acide et piquant. Ces bactéries ont besoin d'oxygène pour travailler.
+
+## La mère de vinaigre
+
+En travaillant, les bactéries forment une sorte de voile gluant dans le liquide. On l'appelle la mère de vinaigre. Elle est faite de bactéries et d'une matière qu'elles fabriquent, la cellulose. Elle n'est pas toxique.
+
+Au XIXe siècle, le savant français Louis Pasteur a montré que des bactéries sont responsables de cette transformation.
+
+## D'hier à aujourd'hui
+
+À Orléans, on fabrique du vinaigre de vin selon une méthode traditionnelle. Le vin fermente lentement dans des tonneaux en chêne, rangés dans des caves aérées. Le vinaigre vieillit au moins un an, ce qui développe ses arômes. Dans l'industrie, une méthode rapide fait travailler les bactéries dans un liquide aéré. Elle ne prend qu'un ou deux jours.
+
+Selon le type, un vinaigre contient de 4 à 18 % d'acide acétique. En France, un vinaigre de vin doit en contenir au moins 6 grammes pour 100 millilitres.
+
+Les Babyloniens fabriquaient déjà du vinaigre il y a plusieurs milliers d'années. Ils s'en servaient pour assaisonner et conserver les aliments. Aujourd'hui, le vinaigre sert toujours en cuisine, dans les sauces et les marinades. Il sert aussi à préparer des conserves au vinaigre et à nettoyer le calcaire dans la maison.
+
+## À retenir
+
+- Le mot « vinaigre » vient de « vin aigre ».
+- Des levures transforment d'abord le sucre en alcool.
+- Des bactéries Acetobacter transforment ensuite l'alcool en acide acétique, en utilisant de l'oxygène.
+- La mère de vinaigre est un voile fait de bactéries et de cellulose.
+- Louis Pasteur a montré au XIXe siècle que des bactéries fabriquent le vinaigre.
 
 ---
 type: article
@@ -15048,18 +15690,100 @@ status: planned
 
 ---
 type: article
-title: La fermentation du manioc pour eliminer ses toxines naturelles
-slug: la-fermentation-du-manioc-pour-eliminer-ses-toxines-naturelles
+title: Pourquoi faut-il préparer le manioc avant de le manger ?
+slug: pourquoi-faut-il-preparer-le-manioc-avant-de-le-manger
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Une etape essentielle qui rend cet aliment de base africain propre a la consommation.
-tags: [fermentation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le manioc est une racine qui nourrit plus de 500 millions de personnes. Il contient des
+  substances qui peuvent libérer un poison, le cyanure. Le tremper, le faire fermenter, le
+  sécher et le cuire permet d'éliminer presque tout ce poison.
+tags: [fermentation]
+sources:
+  - title: "Cassava"
+    url: "https://en.wikipedia.org/wiki/Cassava"
+    publisher: "Wikipedia"
+  - title: "Manioc"
+    url: "https://fr.wikipedia.org/wiki/Manioc"
+    publisher: "Wikipédia"
+  - title: "Konzo"
+    url: "https://en.wikipedia.org/wiki/Konzo"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel poison le manioc mal préparé peut-il libérer ?"
+    options:
+      - "Le cyanure"
+      - "Le plomb"
+      - "Le mercure"
+    answer: 1
+    explanation: >
+      Le manioc contient de la linamarine. Quand ses cellules sont abîmées, une enzyme la
+      découpe et libère du cyanure d'hydrogène.
+  - question: "Quelle variété de manioc contient le plus de substances toxiques ?"
+    options:
+      - "Le manioc doux"
+      - "Le manioc amer"
+      - "Les deux en contiennent autant"
+    answer: 2
+    explanation: >
+      Le manioc doux peut n'en contenir qu'environ 20 milligrammes par kilogramme, le
+      manioc amer jusqu'à 1 000.
+  - question: "Combien de temps dure en général la fermentation qui détoxifie le manioc ?"
+    options:
+      - "Quelques secondes"
+      - "Plusieurs années"
+      - "Deux à trois jours"
+    answer: 3
+    explanation: >
+      Une fermentation de 48 à 72 heures réduit de 85 à 99 % la quantité de substances
+      toxiques.
+  - question: "Que veut dire konzo, le nom d'une maladie liée au manioc mal préparé ?"
+    options:
+      - "Ventre vide"
+      - "Jambes liées"
+      - "Tête lourde"
+    answer: 2
+    explanation: >
+      Dans la langue yaka, parlée au Congo, konzo signifie « jambes liées ». La maladie
+      paralyse les jambes.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le manioc est une racine qui nourrit plus de 500 millions de personnes. Il contient des substances qui peuvent libérer un poison, le cyanure. Le tremper, le faire fermenter, le sécher et le cuire permet d'éliminer presque tout ce poison.
+
+## Une racine qui nourrit des millions de personnes
+
+Le manioc est une plante originaire d'Amérique du Sud. On en mange surtout la racine, une grosse racine riche en amidon. Elle a été cultivée pour la première fois il y a moins de 10 000 ans, dans l'ouest du Brésil actuel. Les Portugais l'ont apporté en Afrique au XVIe siècle.
+
+Aujourd'hui, plus de 500 millions de personnes en dépendent pour se nourrir. Dans les régions tropicales, c'est la troisième source de glucides après le riz et le maïs. En 2022, le monde en a produit 330 millions de tonnes. Le Nigeria en est le premier producteur.
+
+## Un poison caché
+
+Le manioc contient des substances appelées glucosides cyanogènes, surtout la linamarine. Tant que la racine est intacte, elles sont inoffensives. Mais quand on râpe, écrase ou coupe la racine, ses cellules s'abîment. Une enzyme, la linamarase, découpe alors la linamarine et libère du cyanure d'hydrogène, un poison.
+
+Il existe du manioc doux et du manioc amer. Les deux contiennent ces substances, mais pas en même quantité. Le manioc doux peut n'en libérer qu'environ 20 milligrammes de cyanure par kilogramme de racine fraîche. Le manioc amer peut en libérer jusqu'à 1 000 milligrammes.
+
+## Tremper, fermenter, sécher
+
+Depuis longtemps, les cultivateurs savent rendre le manioc sans danger. Le trempage dans l'eau pendant 18 à 24 heures retire jusqu'à la moitié du cyanure. La fermentation est la méthode la plus efficace. Pendant 48 à 72 heures, des microbes transforment la racine, et le poison diminue de 85 à 99 %. Le séchage au soleil et la cuisson complètent le travail.
+
+Ces techniques donnent des aliments très connus : le gari, le foufou et l'attiéké en Afrique, ou le tapioca.
+
+## Quand la préparation est trop rapide
+
+Un manioc mal préparé peut provoquer le konzo. Dans la langue yaka, parlée au Congo, ce mot signifie « jambes liées ». Cette maladie paralyse les jambes d'un coup, et pour toujours. Elle a été décrite pour la première fois en 1938, au Congo. Elle touche surtout des femmes et des enfants de régions rurales d'Afrique, quand la nourriture manque et qu'on mange peu de protéines.
+
+Une méthode simple aide à la prévenir. On mouille la farine de manioc, on la laisse sécher un peu pour que le gaz toxique s'échappe, puis on la cuit normalement.
+
+## À retenir
+
+- Le manioc est une racine originaire d'Amérique du Sud qui nourrit plus de 500 millions de personnes.
+- Abîmées, ses cellules libèrent du cyanure d'hydrogène, un poison.
+- Le manioc amer contient beaucoup plus de substances toxiques que le manioc doux.
+- Une fermentation de 48 à 72 heures élimine de 85 à 99 % du poison.
+- Un manioc mal préparé peut provoquer le konzo, une paralysie des jambes.
 
 ---
 type: article
@@ -15498,18 +16222,99 @@ status: planned
 
 ---
 type: article
-title: La transformation des cereales en farine
-slug: la-transformation-des-cereales-en-farine
+title: Comment un grain de blé devient-il de la farine ?
+slug: comment-un-grain-de-ble-devient-il-de-la-farine
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle
 summary: >
-  Un processus ancien, aujourd'hui largement mecanise, qui influence la qualite nutritionnelle.
-tags: [transformation-industrielle, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un grain de blé a trois parties, une enveloppe appelée son, un germe et une amande pleine
+  d'amidon. Pour faire de la farine blanche, le meunier sépare le son et le germe, puis réduit
+  l'amande en poudre très fine. La farine complète garde aussi le son et le germe.
+tags: [transformation-industrielle]
+sources:
+  - title: "Farine"
+    url: "https://fr.wikipedia.org/wiki/Farine"
+    publisher: "Wikipédia"
+  - title: "Flour"
+    url: "https://en.wikipedia.org/wiki/Flour"
+    publisher: "Wikipedia"
+  - title: "Gristmill"
+    url: "https://en.wikipedia.org/wiki/Gristmill"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment s'appelle l'enveloppe dure du grain de blé ?"
+    options:
+      - "L'amande"
+      - "Le son"
+      - "Le germe"
+    answer: 2
+    explanation: >
+      Le son est l'enveloppe extérieure du grain. Il est riche en fibres et en minéraux.
+  - question: "Quelle partie du grain garde la farine blanche ?"
+    options:
+      - "Seulement l'amande"
+      - "Seulement le son"
+      - "Le son et le germe"
+    answer: 1
+    explanation: >
+      La farine blanche est faite uniquement avec l'amande. La farine complète garde aussi
+      le son et le germe.
+  - question: "Pourquoi retire-t-on souvent le germe ?"
+    options:
+      - "Parce qu'il est trop dur"
+      - "Parce qu'il est toxique"
+      - "Parce que son huile peut rancir"
+    answer: 3
+    explanation: >
+      Le germe contient de l'huile qui rancit avec le temps. Le retirer aide la farine à
+      se conserver.
+  - question: "Que signifie un petit numéro comme T45 sur un paquet de farine ?"
+    options:
+      - "Une farine très riche en son"
+      - "Une farine blanche avec peu de minéraux"
+      - "Une farine fabriquée en 1945"
+    answer: 2
+    explanation: >
+      Le type indique la quantité de minéraux. Plus le nombre est petit, plus la farine
+      est blanche.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un grain de blé a trois parties, une enveloppe appelée son, un germe et une amande pleine d'amidon. Pour faire de la farine blanche, le meunier sépare le son et le germe, puis réduit l'amande en poudre très fine. La farine complète garde aussi le son et le germe.
+
+## Trois parties dans un grain
+
+Un grain de blé est formé de trois parties. À l'extérieur, une enveloppe dure, le son, protège le grain. Le son est riche en fibres. À l'intérieur se trouve l'amande, une grande réserve d'amidon. Enfin, le germe est la petite partie d'où pourrait pousser une nouvelle plante.
+
+## Des meules aux cylindres
+
+Pour faire de la farine, il faut écraser les grains. Les Romains broyaient déjà les céréales dans des moulins en forme de cône. Pendant des siècles, on a utilisé deux meules de pierre. La meule du dessous reste fixe. Celle du dessus tourne, à environ 120 tours par minute, et le grain est écrasé entre les deux.
+
+Au XIXe siècle, les moulins à cylindres ont remplacé les meules de pierre. Des rouleaux d'acier ou de fonte, striés ou lisses, tournent vite. Ils séparent le son et le germe de l'amande. Le premier moulin à vapeur avait ouvert à Londres en 1786.
+
+Les meules de pierre tournent plus lentement et chauffent moins le grain. Certains préfèrent donc leur farine, car le germe n'est pas abîmé par la chaleur.
+
+## Trier pour obtenir la farine
+
+Le travail du meunier consiste à séparer les parties extérieures du grain et à réduire l'amande en particules très fines, de moins de 0,2 millimètre. Pour la farine blanche, on ne garde que l'amande. Pour la farine complète, on garde l'amande, le germe et le son.
+
+On retire souvent le germe, car il contient de l'huile. Avec le temps, cette huile rancit et donne mauvais goût à la farine. Le son, lui, sert à enrichir certains pains et céréales, ou à nourrir les animaux.
+
+## Que veut dire T55 ?
+
+En France, chaque farine porte un type, comme T45, T55 ou T150. Ce nombre indique la quantité de minéraux qu'elle contient. Pour le mesurer, on brûle la farine à plus de 600 °C. Il reste des cendres, qui sont les minéraux. Plus le nombre est grand, plus la farine contient de son, riche en minéraux.
+
+La T45, très blanche, sert à la pâtisserie. La T55 sert au pain blanc. La T65 est utilisée pour le pain de tradition française. La T150 est une farine intégrale, qui garde presque tout le grain.
+
+## À retenir
+
+- Un grain de blé est formé du son, du germe et de l'amande.
+- La farine blanche est faite avec l'amande seule, la farine complète garde aussi le son et le germe.
+- Depuis le XIXe siècle, des moulins à cylindres ont remplacé les meules de pierre.
+- On retire souvent le germe parce que son huile peut rancir.
+- En France, le type d'une farine, de T45 à T150, indique sa quantité de minéraux.
 
 ---
 type: article

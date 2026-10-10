@@ -3628,18 +3628,100 @@ status: planned
 
 ---
 type: article
-title: La capacite juridique et ses limites
-slug: la-capacite-juridique-et-ses-limites
+title: Pourquoi un enfant ne peut-il pas signer seul tous les contrats ?
+slug: pourquoi-un-enfant-ne-peut-il-pas-signer-seul-tous-les-contrats
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Qui peut, ou ne peut pas encore, prendre seul des engagements juridiques.
-tags: [droit-civil, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dès sa naissance, chaque personne a des droits. Mais pour s'engager seule dans un acte
+  important, il faut être majeur, c'est-à-dire avoir 18 ans. Avant, les parents agissent à la
+  place de l'enfant, sauf pour les petits achats de tous les jours.
+tags: [droit-civil]
+sources:
+  - title: "Majorité civile"
+    url: "https://fr.wikipedia.org/wiki/Majorit%C3%A9_civile"
+    publisher: "Wikipédia"
+  - title: "L'incapacité du mineur"
+    url: "https://www.associatheque.fr/fr/mineurs-association/incapacite-du-mineur.html"
+    publisher: "Associathèque"
+  - title: "Émancipation d'un mineur"
+    url: "https://www.justice.fr/fiche/emancipation-mineur"
+    publisher: "Justice.fr"
+quiz:
+  - question: "À quel âge devient-on majeur en France ?"
+    options:
+      - "16 ans"
+      - "18 ans"
+      - "21 ans"
+    answer: 2
+    explanation: >
+      Depuis la loi du 5 juillet 1974, la majorité est fixée à 18 ans. Avant, elle était
+      de 21 ans.
+  - question: "Quel acte un enfant peut-il faire seul ?"
+    options:
+      - "Acheter du pain"
+      - "Vendre une maison"
+      - "Emprunter de l'argent à une banque"
+    answer: 1
+    explanation: >
+      Les actes de la vie courante, comme acheter du pain ou un ticket de bus, sont permis
+      à un mineur.
+  - question: "Qui représente un mineur pour les actes importants ?"
+    options:
+      - "Son professeur"
+      - "Le maire"
+      - "Ses parents"
+    answer: 3
+    explanation: >
+      Les parents qui exercent l'autorité parentale sont les administrateurs légaux de
+      l'enfant. Ils agissent en son nom.
+  - question: "À partir de quel âge un mineur peut-il être émancipé ?"
+    options:
+      - "16 ans"
+      - "12 ans"
+      - "14 ans"
+    answer: 1
+    explanation: >
+      Le mineur doit avoir au moins 16 ans. Ce sont ses parents qui demandent
+      l'émancipation au juge.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dès sa naissance, chaque personne a des droits. Mais pour s'engager seule dans un acte important, il faut être majeur, c'est-à-dire avoir 18 ans. Avant, les parents agissent à la place de l'enfant, sauf pour les petits achats de tous les jours.
+
+## Avoir des droits et pouvoir s'en servir
+
+Le droit distingue deux choses. La capacité de jouissance, c'est le fait d'avoir des droits. Tout être humain l'a dès sa naissance : un bébé peut déjà être propriétaire d'un bien. La capacité d'exercice, c'est le fait de pouvoir utiliser ses droits seul, par exemple signer un contrat. Celle-là arrive plus tard.
+
+En France, on obtient la pleine capacité d'exercice à la majorité, à 18 ans. Cet âge a été fixé par la loi du 5 juillet 1974. Avant, il fallait attendre 21 ans, une règle en place depuis 1792.
+
+## Les parents agissent pour l'enfant
+
+L'article 1146 du Code civil range les mineurs non émancipés parmi les personnes qui ne peuvent pas contracter seules. La loi veut les protéger : un enfant peut être trompé plus facilement qu'un adulte.
+
+Ce sont donc les parents qui représentent l'enfant. On les appelle les administrateurs légaux. Pour les actes les plus graves, même les parents doivent demander l'accord du juge des tutelles. C'est le cas pour vendre une maison qui appartient à l'enfant ou pour emprunter de l'argent en son nom.
+
+## Les petits achats du quotidien
+
+Un mineur peut quand même faire seul les actes de la vie courante. Acheter du pain ou un ticket de bus en fait partie. Ces achats doivent rester habituels, raisonnables et adaptés à son âge.
+
+Si un mineur fait seul un acte important, cet acte peut être annulé par un juge. Par exemple, un contrat qui change beaucoup ses biens est nul.
+
+## Devenir capable avant 18 ans
+
+L'émancipation permet à un mineur d'être traité presque comme un adulte. Il doit avoir au moins 16 ans. Seuls ses parents peuvent la demander, et c'est un juge qui décide après avoir entendu le jeune.
+
+Le mineur émancipé peut signer un contrat de travail ou choisir où il habite. Certaines limites restent : il ne peut voter qu'à 18 ans et conduire qu'à partir de 17 ans.
+
+## À retenir
+
+- Toute personne a des droits dès sa naissance, mais ne peut pas toujours les exercer seule.
+- En France, la majorité est fixée à 18 ans depuis la loi du 5 juillet 1974.
+- Les parents représentent l'enfant mineur ; les actes les plus graves demandent l'accord d'un juge.
+- Un mineur peut faire seul les actes de la vie courante, comme acheter du pain.
+- Un mineur d'au moins 16 ans peut être émancipé par un juge, à la demande de ses parents.
 
 ---
 type: article
@@ -4933,18 +5015,102 @@ status: planned
 
 ---
 type: article
-title: L'aide juridictionnelle, acceder a la justice sans moyens
-slug: l-aide-juridictionnelle-acceder-a-la-justice-sans-moyens
+title: Comment peut-on aller en justice quand on n'a pas d'argent ?
+slug: comment-peut-on-aller-en-justice-quand-on-n-a-pas-d-argent
 categoryPath: droit-et-justice/droit-prive/procedure-et-preuve
 summary: >
-  Un dispositif qui permet a chacun d'etre defendu, quel que soit son revenu.
-tags: [procedure-et-preuve, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un procès coûte cher, surtout à cause des honoraires de l'avocat. Pour que chacun puisse
+  défendre ses droits, l'État paie tout ou partie de ces frais pour les personnes aux revenus
+  modestes. C'est l'aide juridictionnelle, organisée par la loi du 10 juillet 1991.
+tags: [procedure-et-preuve]
+sources:
+  - title: "Aide juridictionnelle lors d'une procédure en France"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F18074"
+    publisher: "Service-Public.fr"
+  - title: "Aide juridictionnelle en France"
+    url: "https://fr.wikipedia.org/wiki/Aide_juridictionnelle_en_France"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle loi organise aujourd'hui l'aide juridictionnelle en France ?"
+    options:
+      - "La loi du 10 juillet 1991"
+      - "La loi du 20 juin 1936"
+      - "Le Code civil de 1804"
+    answer: 1
+    explanation: >
+      L'aide juridictionnelle est assurée par la loi n° 91-647 du 10 juillet 1991 relative
+      à l'aide juridique.
+  - question: "Quelle part des frais l'aide juridictionnelle partielle prend-elle en charge ?"
+    options:
+      - "10 %"
+      - "55 % ou 25 % du montant maximum"
+      - "Le double des frais"
+    answer: 2
+    explanation: >
+      L'aide partielle correspond à 55 % ou à 25 % du montant maximum. Le bénéficiaire
+      paie le reste.
+  - question: "Une personne bénéficiaire de l'aide juridictionnelle peut-elle choisir son avocat ?"
+    options:
+      - "Non, jamais"
+      - "Seulement si elle a plus de 60 ans"
+      - "Oui, librement"
+    answer: 3
+    explanation: >
+      Elle choisit librement son avocat. Sinon, elle peut demander au bâtonnier d'en
+      désigner un.
+  - question: "Que se passe-t-il pour un mineur entendu par un juge dans une affaire qui le concerne ?"
+    options:
+      - "L'aide lui est accordée automatiquement"
+      - "Il doit payer lui-même"
+      - "Il n'a pas droit à un avocat"
+    answer: 1
+    explanation: >
+      Dans ce cas, l'aide juridictionnelle est attribuée automatiquement, sans demande.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un procès coûte cher, surtout à cause des honoraires de l'avocat. Pour que chacun puisse défendre ses droits, l'État paie tout ou partie de ces frais pour les personnes aux revenus modestes. C'est l'aide juridictionnelle, organisée par la loi du 10 juillet 1991.
+
+## La justice a un prix
+
+Aller devant un juge coûte de l'argent. Il faut souvent payer un avocat, qui conseille et défend. Il peut aussi falloir payer d'autres professionnels, comme un commissaire de justice ou un notaire. Sans aide, une personne pauvre ne pourrait pas toujours défendre ses droits.
+
+Pour éviter cela, l'État paie tout ou partie de ces frais à la place des personnes aux revenus modestes. C'est l'aide juridictionnelle.
+
+## Une vieille idée
+
+En France, une première règle, appelée assistance judiciaire, existe depuis 1851 pour les plus pauvres. En 1972, l'État a commencé à payer les avocats qui les défendaient. Aujourd'hui, l'aide est organisée par la loi du 10 juillet 1991 relative à l'aide juridique.
+
+Elle peut servir devant presque tous les tribunaux : tribunal judiciaire, conseil de prud'hommes, cour d'appel, Cour de cassation, tribunal administratif ou Conseil d'État. En 2017, il y a eu 985 110 admissions à l'aide juridictionnelle.
+
+## Qui peut l'obtenir ?
+
+Il faut être Français, citoyen européen ou habiter habituellement en France. Depuis une décision du Conseil constitutionnel du 28 mai 2024, un étranger qui vit en France sans titre de séjour valable peut aussi la demander. Les frais ne doivent pas déjà être payés par une assurance.
+
+Surtout, les revenus et le patrimoine ne doivent pas dépasser certains plafonds. Pour une personne seule, l'aide totale est possible si son revenu fiscal de référence ne dépasse pas 12 957 euros par an, soit environ 1 080 euros par mois. Les plafonds augmentent quand le foyer compte plus de personnes.
+
+Au-dessus, une aide partielle reste possible. L'État paie alors 55 % ou 25 % du montant maximum, et la personne règle le reste.
+
+## Les cas particuliers
+
+Certaines personnes n'ont pas à prouver leurs ressources. C'est le cas d'une victime d'un crime grave, comme une tentative de meurtre ou un viol. Un mineur entendu par un juge dans une affaire qui le concerne reçoit l'aide automatiquement, sans même la demander. En cas d'urgence, l'aide peut être accordée de façon provisoire.
+
+## Comment la demander ?
+
+La demande se fait en ligne ou avec un formulaire. Elle est envoyée au bureau d'aide juridictionnelle du tribunal judiciaire, avec des justificatifs. Ce bureau accepte ou refuse la demande.
+
+Le bénéficiaire choisit librement son avocat. S'il n'en a pas trouvé, il peut demander au bâtonnier, le responsable de l'ordre des avocats, d'en désigner un.
+
+## À retenir
+
+- L'aide juridictionnelle permet aux personnes aux revenus modestes de faire payer leurs frais de justice par l'État.
+- Elle est organisée par la loi du 10 juillet 1991 ; une première forme existait dès 1851.
+- Pour une personne seule, l'aide totale suppose un revenu fiscal de référence de 12 957 euros par an au plus.
+- L'aide partielle couvre 55 % ou 25 % du montant maximum.
+- Le bénéficiaire choisit son avocat, ou demande au bâtonnier d'en désigner un.
 
 ---
 type: article
@@ -5293,18 +5459,100 @@ status: planned
 
 ---
 type: article
-title: La hierarchie des normes juridiques
-slug: la-hierarchie-des-normes-juridiques
+title: Pourquoi une loi ne peut-elle pas contredire la Constitution ?
+slug: pourquoi-une-loi-ne-peut-elle-pas-contredire-la-constitution
 categoryPath: droit-et-justice/droit-public/droit-constitutionnel
 summary: >
-  Pourquoi une loi ne peut jamais contredire la constitution d'un pays.
-tags: [droit-constitutionnel, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les règles de droit sont rangées comme dans une pyramide. La Constitution est tout en haut,
+  et chaque règle doit respecter celles qui sont au-dessus d'elle. Le Conseil constitutionnel
+  vérifie que les lois respectent la Constitution.
+tags: [droit-constitutionnel]
+sources:
+  - title: "Hiérarchie des normes en droit français"
+    url: "https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_des_normes_en_droit_fran%C3%A7ais"
+    publisher: "Wikipédia"
+  - title: "Question prioritaire de constitutionnalité"
+    url: "https://fr.wikipedia.org/wiki/Question_prioritaire_de_constitutionnalit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Hans Kelsen"
+    url: "https://fr.wikipedia.org/wiki/Hans_Kelsen"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle règle se trouve tout en haut de la pyramide des normes en France ?"
+    options:
+      - "Un décret"
+      - "Une loi"
+      - "La Constitution"
+    answer: 3
+    explanation: >
+      La Constitution de 1958 et les textes qui l'accompagnent forment le sommet de la
+      pyramide.
+  - question: "Que dit l'article 55 de la Constitution à propos des traités ?"
+    options:
+      - "Ils ont une autorité supérieure aux lois"
+      - "Ils valent moins qu'un arrêté"
+      - "Ils ne s'appliquent pas en France"
+    answer: 1
+    explanation: >
+      L'article 55 donne aux traités une autorité supérieure à celle des lois.
+  - question: "Depuis quand un justiciable peut-il contester une loi déjà en vigueur grâce à la QPC ?"
+    options:
+      - "Depuis 1958"
+      - "Depuis le 1er mars 2010"
+      - "Depuis 1789"
+    answer: 2
+    explanation: >
+      La question prioritaire de constitutionnalité, créée en 2008, fonctionne depuis le
+      1er mars 2010.
+  - question: "Qui a imaginé la pyramide des normes ?"
+    options:
+      - "Napoléon Bonaparte"
+      - "Jules Ferry"
+      - "Hans Kelsen"
+    answer: 3
+    explanation: >
+      Le juriste autrichien Hans Kelsen (1881-1973) a théorisé la hiérarchie des normes.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les règles de droit sont rangées comme dans une pyramide. La Constitution est tout en haut, et chaque règle doit respecter celles qui sont au-dessus d'elle. Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
+
+## Une pyramide de règles
+
+En France, il existe des milliers de règles. Pour éviter qu'elles se contredisent, elles sont classées par ordre d'importance. On parle de hiérarchie des normes. Une norme est une règle de droit.
+
+On représente souvent cette hiérarchie par une pyramide. Chaque règle doit respecter toutes celles qui sont placées au-dessus d'elle. Cette idée a été développée par le juriste autrichien Hans Kelsen (1881-1973). Il a aussi participé à l'écriture de la Constitution de l'Autriche en 1920.
+
+## Du sommet à la base
+
+Tout en haut se trouve le bloc de constitutionnalité. Il réunit la Constitution de 1958, la Déclaration des droits de l'homme et du citoyen de 1789, le préambule de la Constitution de 1946 et la Charte de l'environnement, ajoutée en 2005.
+
+Juste en dessous viennent les traités internationaux et le droit de l'Union européenne. L'article 55 de la Constitution dit que les traités ont une autorité supérieure à celle des lois.
+
+Plus bas se trouvent les lois, votées par le Parlement. Encore en dessous, il y a les règlements : les décrets du gouvernement et les arrêtés.
+
+## Qui vérifie que la règle est respectée ?
+
+Le Conseil constitutionnel contrôle que les lois respectent la Constitution. Pendant longtemps, il ne pouvait le faire qu'avant qu'une loi entre en vigueur.
+
+La révision de la Constitution du 23 juillet 2008 a créé la question prioritaire de constitutionnalité, ou QPC. Elle fonctionne depuis le 1er mars 2010. Lors d'un procès, une personne peut dire qu'une loi déjà appliquée porte atteinte à ses droits et libertés.
+
+Le Conseil d'État ou la Cour de cassation ont trois mois pour décider de transmettre la question. Le Conseil constitutionnel a ensuite trois mois pour juger. S'il trouve la loi contraire à la Constitution, elle est abrogée, c'est-à-dire supprimée. De 2010 à juin 2022, il a rendu environ 1 025 décisions QPC.
+
+## Un débat avec l'Europe
+
+Le droit européen passe avant les lois françaises. Mais les juges français considèrent que la Constitution reste au sommet en France. La Cour de justice de l'Union européenne ne partage pas tout à fait cet avis.
+
+## À retenir
+
+- Les règles de droit sont classées dans une pyramide où chacune doit respecter celles du dessus.
+- La Constitution de 1958 et la Déclaration de 1789 sont au sommet.
+- Selon l'article 55 de la Constitution, les traités valent plus que les lois.
+- Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
+- Depuis le 1er mars 2010, la QPC permet de contester une loi déjà en vigueur lors d'un procès.
 
 ---
 type: article
@@ -5803,18 +6051,99 @@ status: planned
 
 ---
 type: article
-title: Les aires protegees et leur statut juridique
-slug: les-aires-protegees-et-leur-statut-juridique
+title: Comment la loi protège-t-elle la nature dans un parc national ?
+slug: comment-la-loi-protege-t-elle-la-nature-dans-un-parc-national
 categoryPath: droit-et-justice/droit-public/droit-de-lenvironnement
 summary: >
-  Comment la loi delimite et proteges certains espaces naturels sensibles.
-tags: [droit-de-lenvironnement, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un parc national est un territoire où la loi limite fortement les activités humaines pour
+  protéger la nature. La France en compte 11. D'autres espaces, comme les parcs naturels
+  régionaux, protègent la nature avec des règles plus souples.
+tags: [droit-de-lenvironnement]
+sources:
+  - title: "Parc national en France"
+    url: "https://fr.wikipedia.org/wiki/Parc_national_en_France"
+    publisher: "Wikipédia"
+  - title: "Parcs nationaux de France"
+    url: "https://www.parcsnationaux.fr/fr"
+    publisher: "Parcs nationaux de France"
+  - title: "Parc naturel régional de France"
+    url: "https://fr.wikipedia.org/wiki/Parc_naturel_r%C3%A9gional_de_France"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel a été le premier parc national créé en France ?"
+    options:
+      - "La Vanoise"
+      - "Les Calanques"
+      - "La Guyane"
+    answer: 1
+    explanation: >
+      Le parc national de la Vanoise, dans les Alpes, a été créé le 6 juillet 1963.
+  - question: "Combien la France compte-t-elle de parcs nationaux ?"
+    options:
+      - "3"
+      - "60"
+      - "11"
+    answer: 3
+    explanation: >
+      La France compte 11 parcs nationaux : 8 en métropole et 3 en outre-mer.
+  - question: "Comment s'appelle la partie la plus protégée d'un parc national ?"
+    options:
+      - "L'aire d'adhésion"
+      - "Le cœur"
+      - "La zone tampon"
+    answer: 2
+    explanation: >
+      Le cœur du parc a les règles les plus strictes. L'aire d'adhésion l'entoure.
+  - question: "Pendant combien d'années la charte d'un parc naturel régional est-elle valable ?"
+    options:
+      - "15 ans"
+      - "1 an"
+      - "100 ans"
+    answer: 1
+    explanation: >
+      La charte d'un parc naturel régional est valable 15 ans, puis elle doit être
+      renouvelée.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un parc national est un territoire où la loi limite fortement les activités humaines pour protéger la nature. La France en compte 11. D'autres espaces, comme les parcs naturels régionaux, protègent la nature avec des règles plus souples.
+
+## Une loi pour créer des parcs
+
+En France, le statut de parc national a été créé par la loi du 22 juillet 1960. Le premier parc, celui de la Vanoise, dans les Alpes, a vu le jour le 6 juillet 1963.
+
+Aujourd'hui, la France compte 11 parcs nationaux. Huit se trouvent en métropole, comme les Écrins, les Pyrénées, Port-Cros ou les Calanques. Trois se trouvent en outre-mer : en Guadeloupe, en Guyane et à La Réunion. Le plus récent est le parc national de Forêts, créé le 8 novembre 2019. Ensemble, ces parcs accueillent plus de 10 millions de visiteurs par an.
+
+## Le cœur et l'aire d'adhésion
+
+Une loi du 14 avril 2006 a réorganisé les parcs. Chacun est divisé en deux zones.
+
+Le cœur du parc est la partie la plus protégée. Des règles spéciales y limitent les activités humaines. Selon les parcs, il peut être interdit de cueillir des plantes, de faire du feu, de camper ou d'amener son chien. Les bruits des engins à moteur sont aussi encadrés.
+
+Autour du cœur se trouve l'aire d'adhésion. Les communes qui le souhaitent y participent. Elles s'engagent à développer leur territoire en respectant la nature.
+
+Chaque parc est géré par un établissement public, c'est-à-dire un organisme public qui a sa propre administration.
+
+## Les parcs naturels régionaux
+
+Il existe d'autres espaces protégés, avec des règles différentes. Les parcs naturels régionaux ont été créés par un décret signé par le général de Gaulle le 1er mars 1967. Le premier, en 1968, est aujourd'hui celui de Scarpe-Escaut, dans le nord de la France.
+
+En août 2026, la France en compte 60. Ils couvrent environ 17,2 % du territoire. Ce sont des territoires ruraux et habités. Contrairement aux parcs nationaux, ils n'ont pas de réglementation spéciale pour la nature. Leurs agents n'ont pas de pouvoir de police de l'environnement. Les communes signent une charte, un engagement commun, valable 15 ans puis renouvelée.
+
+## Protéger plus ou moins fort
+
+Le parc national protège donc plus strictement qu'un parc naturel régional. Le premier pose des interdictions. Le second repose surtout sur l'accord des habitants et des communes.
+
+## À retenir
+
+- Les parcs nationaux ont été créés en France par la loi du 22 juillet 1960.
+- Le premier parc national est celui de la Vanoise, créé en 1963 ; il y en a 11 aujourd'hui.
+- Le cœur d'un parc national a des règles strictes, l'aire d'adhésion l'entoure.
+- Les parcs naturels régionaux, créés en 1967, sont des territoires habités sans réglementation spéciale.
+- La charte d'un parc naturel régional est valable 15 ans.
 
 ---
 type: article
@@ -6718,18 +7047,102 @@ status: planned
 
 ---
 type: article
-title: Le droit au respect de la vie privee a l'ere numerique
-slug: le-droit-au-respect-de-la-vie-privee-a-l-ere-numerique
+title: Comment la loi protège-t-elle nos données personnelles sur Internet ?
+slug: comment-la-loi-protege-t-elle-nos-donnees-personnelles-sur-internet
 categoryPath: droit-et-justice/justice-et-institutions/droits-fondamentaux
 summary: >
-  Comment un droit ancien s'adapte aux nouveaux defis poses par la technologie.
-tags: [droits-fondamentaux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Nos nom, photos, messages ou position sont des données personnelles. En Europe, le RGPD,
+  appliqué depuis le 25 mai 2018, fixe les règles pour les utiliser. Chacun peut savoir ce
+  qu'on garde sur lui et demander à corriger ou effacer ces informations.
+tags: [droits-fondamentaux]
+sources:
+  - title: "Les droits pour maîtriser vos données personnelles"
+    url: "https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles"
+    publisher: "CNIL"
+  - title: "Recommandation 4, rechercher le consentement d'un parent pour les mineurs de moins de 15 ans"
+    url: "https://www.cnil.fr/fr/recommandation-4-rechercher-le-consentement-dun-parent-pour-les-mineurs-de-moins-de-15-ans"
+    publisher: "CNIL"
+  - title: "Commission nationale de l'informatique et des libertés"
+    url: "https://fr.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Depuis quand le RGPD s'applique-t-il dans l'Union européenne ?"
+    options:
+      - "Depuis 1978"
+      - "Depuis le 25 mai 2018"
+      - "Depuis 2025"
+    answer: 2
+    explanation: >
+      Le règlement général sur la protection des données s'applique depuis le 25 mai 2018.
+  - question: "Avant quel âge faut-il aussi l'accord d'un parent pour certains traitements de données en ligne ?"
+    options:
+      - "15 ans"
+      - "10 ans"
+      - "21 ans"
+    answer: 1
+    explanation: >
+      La loi Informatique et libertés demande l'accord d'un parent en plus de celui de
+      l'enfant de moins de 15 ans.
+  - question: "Quel droit permet de récupérer une copie de ses données pour les utiliser ailleurs ?"
+    options:
+      - "Le droit de grève"
+      - "Le droit de vote"
+      - "Le droit à la portabilité"
+    answer: 3
+    explanation: >
+      Le droit à la portabilité permet d'emporter une copie de ses données vers un autre
+      service.
+  - question: "Quelle autorité veille en France au respect des données personnelles ?"
+    options:
+      - "La CNIL"
+      - "La SNCF"
+      - "La Cour des comptes"
+    answer: 1
+    explanation: >
+      La CNIL, créée par la loi du 6 janvier 1978, est une autorité administrative
+      indépendante.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Nos nom, photos, messages ou position sont des données personnelles. En Europe, le RGPD, appliqué depuis le 25 mai 2018, fixe les règles pour les utiliser. Chacun peut savoir ce qu'on garde sur lui et demander à corriger ou effacer ces informations.
+
+## Des données partout
+
+Une donnée personnelle est une information qui concerne une personne : son nom, sa photo, son adresse, ses messages ou sa position. Sur Internet, les applications et les sites en collectent beaucoup.
+
+La France protège ces données depuis longtemps. Le 21 mars 1974, le journal Le Monde révèle un projet de l'État : relier tous les fichiers de l'administration grâce à un numéro unique par citoyen. Ce projet, appelé SAFARI, a inquiété le public. La loi Informatique et libertés du 6 janvier 1978 a suivi. Elle a créé la CNIL, la Commission nationale de l'informatique et des libertés. C'est une autorité administrative indépendante : l'État ne lui donne pas d'ordres.
+
+## Une règle pour toute l'Europe
+
+L'Union européenne a adopté le règlement général sur la protection des données, le RGPD. Il s'applique depuis le 25 mai 2018 dans tous les pays de l'Union.
+
+Une entreprise qui collecte des données doit expliquer clairement à quoi elles servent. La personne concernée a ensuite plusieurs droits :
+
+- le droit d'accès, pour savoir quelles données un organisme possède sur elle ;
+- le droit de rectification, pour corriger une information fausse ;
+- le droit d'effacement, pour faire supprimer des données ;
+- le droit d'opposition, pour refuser certaines utilisations ;
+- le droit au déréférencement, pour qu'un moteur de recherche n'associe plus son nom à une page ;
+- le droit à la portabilité, pour emporter une copie de ses données ailleurs.
+
+## Et les enfants ?
+
+En France, l'article 45 de la loi Informatique et libertés protège les plus jeunes. Pour certains services en ligne, si l'enfant a moins de 15 ans, un parent doit donner son accord en même temps que lui. Cela vaut par exemple pour certaines options d'un réseau social, comme choisir un profil public. La CNIL rappelle qu'il faut tenir compte de la maturité de l'enfant : on ne comprend pas les choses de la même façon à 7 ans et à 14 ans.
+
+## Des sanctions lourdes
+
+Depuis le 25 mai 2018, la CNIL peut punir les organismes qui ne respectent pas le RGPD. L'amende peut atteindre 20 millions d'euros ou 4 % du chiffre d'affaires mondial d'une entreprise. Chacun peut aussi porter plainte auprès de la CNIL. En 2025, elle a reçu 20 150 plaintes.
+
+## À retenir
+
+- Une donnée personnelle est une information sur une personne, comme son nom ou sa photo.
+- La loi Informatique et libertés du 6 janvier 1978 a créé la CNIL.
+- Le RGPD s'applique dans toute l'Union européenne depuis le 25 mai 2018.
+- Chacun peut accéder à ses données, les corriger, les faire effacer ou les emporter ailleurs.
+- En France, pour certains services en ligne, un parent doit aussi donner son accord si l'enfant a moins de 15 ans.
 
 ---
 type: article
@@ -7588,18 +8001,104 @@ status: planned
 
 ---
 type: article
-title: Le tribunal pour enfants
-slug: le-tribunal-pour-enfants
+title: Comment juge-t-on un mineur qui a commis une infraction ?
+slug: comment-juge-t-on-un-mineur-qui-a-commis-une-infraction
 categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
 summary: >
-  Une justice specialisee pensee pour l'age et la vulnerabilite des mineurs.
-tags: [organisation-judiciaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un mineur qui commet une infraction n'est pas jugé comme un adulte. Il passe devant des
+  juges spécialisés, qui cherchent d'abord à l'éduquer. Depuis septembre 2021, ces règles sont
+  réunies dans le code de la justice pénale des mineurs.
+tags: [organisation-judiciaire]
+sources:
+  - title: "La justice pénale des mineurs"
+    url: "https://www.justice.gouv.fr/justice-france/justice-mineurs/justice-penale-mineurs"
+    publisher: "Ministère de la Justice"
+  - title: "Tribunal pour enfants"
+    url: "https://fr.wikipedia.org/wiki/Tribunal_pour_enfants"
+    publisher: "Wikipédia"
+  - title: "Code de la justice pénale des mineurs"
+    url: "https://fr.wikipedia.org/wiki/Code_de_la_justice_p%C3%A9nale_des_mineurs"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que présume la justice pour un enfant de moins de 13 ans ?"
+    options:
+      - "Qu'il est toujours coupable"
+      - "Qu'il n'est pas capable de mesurer la portée de son acte"
+      - "Qu'il doit aller en prison"
+    answer: 2
+    explanation: >
+      C'est la présomption de non-discernement. On peut toutefois prouver que l'enfant
+      avait compris et voulu son acte.
+  - question: "Combien de temps dure la mise à l'épreuve éducative ?"
+    options:
+      - "Entre six et neuf mois"
+      - "Une semaine"
+      - "Dix ans"
+    answer: 1
+    explanation: >
+      Après l'audience sur la culpabilité, le mineur est suivi par des éducateurs pendant
+      six à neuf mois.
+  - question: "Le public peut-il assister au procès d'un mineur ?"
+    options:
+      - "Oui, comme pour un adulte"
+      - "Seulement les journalistes"
+      - "Non, le jugement est fermé au public"
+    answer: 3
+    explanation: >
+      Pour protéger l'anonymat du mineur, le jugement est fermé au public.
+  - question: "Qui juge un crime commis par un mineur de 16 ou 17 ans ?"
+    options:
+      - "Le maire"
+      - "La cour d'assises des mineurs"
+      - "Le tribunal de police"
+    answer: 2
+    explanation: >
+      Les crimes des mineurs de 16 à 18 ans relèvent de la cour d'assises des mineurs.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un mineur qui commet une infraction n'est pas jugé comme un adulte. Il passe devant des juges spécialisés, qui cherchent d'abord à l'éduquer. Depuis septembre 2021, ces règles sont réunies dans le code de la justice pénale des mineurs.
+
+## Une justice adaptée aux jeunes
+
+Les grands principes de la justice des mineurs ont été posés par l'ordonnance du 2 février 1945. Depuis le 30 septembre 2021, ils sont réunis dans le code de la justice pénale des mineurs. La Convention internationale des droits de l'enfant du 20 novembre 1989 garantit aussi que les enfants soient jugés par des juges spécialisés.
+
+L'idée centrale est simple. Un mineur qui a commis une infraction doit être sanctionné, mais surtout accompagné pour changer.
+
+## L'âge compte
+
+La justice considère qu'un enfant de moins de 13 ans n'est pas capable, en principe, de mesurer la portée de son acte. C'est la présomption de non-discernement. On peut toutefois prouver qu'il avait compris et voulu ce qu'il faisait.
+
+La prison n'est possible qu'à partir de 13 ans. Elle reste un dernier recours, aussi courte que possible. Les peines encourues par un mineur sont toujours réduites de moitié par rapport à celles d'un adulte.
+
+## Qui juge ?
+
+Le juge des enfants est un magistrat spécialisé. Il protège les enfants en danger et juge ceux qui ont commis une infraction.
+
+Le tribunal pour enfants réunit un juge des enfants et deux assesseurs, des citoyens qui ne sont pas juges de métier. Il juge les délits, comme le vol, et les crimes des mineurs de moins de 16 ans. Les crimes commis entre 16 et 18 ans vont devant la cour d'assises des mineurs.
+
+Pour protéger le jeune, le jugement est fermé au public.
+
+## Un procès en deux temps
+
+Le mineur est convoqué au plus tard trois mois après avoir reçu sa convocation. Lors d'une première audience, le juge décide s'il est coupable.
+
+S'il l'est, une mise à l'épreuve éducative peut commencer. Elle dure entre six et neuf mois. Un éducateur suit le jeune et sa famille.
+
+À la fin, une audience de sanction a lieu. Le juge peut choisir une mesure éducative, comme réparer le dommage ou suivre une formation. Il peut aussi prononcer une peine. Si le jeune a réparé le dommage et bien suivi l'accompagnement, le juge peut ne prononcer aucune sanction. Il fait alors une « déclaration de réussite éducative ».
+
+Le casier judiciaire d'un mineur est effacé au bout de trois ans.
+
+## À retenir
+
+- Depuis le 30 septembre 2021, les règles sont réunies dans le code de la justice pénale des mineurs.
+- Un enfant de moins de 13 ans est présumé ne pas pouvoir mesurer la portée de son acte.
+- Le tribunal pour enfants réunit un juge des enfants et deux assesseurs, à huis clos.
+- Le procès se fait en deux temps, avec une mise à l'épreuve éducative de six à neuf mois.
+- Les peines d'un mineur sont toujours réduites de moitié par rapport à celles d'un adulte.
 
 ---
 type: article
@@ -7708,18 +8207,98 @@ status: planned
 
 ---
 type: article
-title: La cour d'assises et la participation citoyenne au jugement
-slug: la-cour-d-assises-et-la-participation-citoyenne-au-jugement
+title: Comment des citoyens tirés au sort jugent-ils les crimes ?
+slug: comment-des-citoyens-tires-au-sort-jugent-ils-les-crimes
 categoryPath: droit-et-justice/justice-et-institutions/organisation-judiciaire
 summary: >
-  Comment de simples citoyens sont amenes a juger les affaires les plus graves.
-tags: [organisation-judiciaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En France, les crimes les plus graves sont jugés par la cour d'assises. Elle réunit trois
+  juges de métier et des citoyens tirés au sort, les jurés. Ensemble, ils décident si l'accusé
+  est coupable et quelle peine il reçoit.
+tags: [organisation-judiciaire]
+sources:
+  - title: "Cour d'assises (France)"
+    url: "https://fr.wikipedia.org/wiki/Cour_d%27assises_(France)"
+    publisher: "Wikipédia"
+  - title: "Jury criminel en France"
+    url: "https://fr.wikipedia.org/wiki/Jury_criminel_en_France"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien de jurés siègent dans une cour d'assises en premier ressort ?"
+    options:
+      - "Douze"
+      - "Six"
+      - "Deux"
+    answer: 2
+    explanation: >
+      Depuis le 1er janvier 2012, il y a six jurés en premier ressort et neuf en appel.
+  - question: "Où sont tirés au sort les futurs jurés ?"
+    options:
+      - "Sur les listes électorales"
+      - "Dans l'annuaire téléphonique"
+      - "Parmi les avocats"
+    answer: 1
+    explanation: >
+      Chaque année, des personnes de plus de 23 ans sont tirées au sort sur les listes
+      électorales.
+  - question: "Combien de voix faut-il en premier ressort pour une décision défavorable à l'accusé ?"
+    options:
+      - "Deux"
+      - "Une seule"
+      - "Sept"
+    answer: 3
+    explanation: >
+      Sur neuf votants, au moins sept voix sont nécessaires pour déclarer l'accusé
+      coupable.
+  - question: "Quels crimes la cour criminelle départementale juge-t-elle, sans jurés ?"
+    options:
+      - "Les crimes punis de 15 à 20 ans de réclusion"
+      - "Tous les crimes"
+      - "Les excès de vitesse"
+    answer: 1
+    explanation: >
+      Depuis le 1er janvier 2023, ces crimes commis par des majeurs sont jugés par cinq
+      magistrats, sans jurés.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En France, les crimes les plus graves sont jugés par la cour d'assises. Elle réunit trois juges de métier et des citoyens tirés au sort, les jurés. Ensemble, ils décident si l'accusé est coupable et quelle peine il reçoit.
+
+## Juger les infractions les plus graves
+
+Un crime est l'infraction la plus grave : meurtre, viol ou vol à main armée par exemple. En France, il peut être puni de plus de dix ans de réclusion criminelle, et jusqu'à la perpétuité. Ces affaires sont jugées par la cour d'assises. Il en existe une dans presque chaque département.
+
+L'idée de faire juger les crimes par des citoyens date de la Révolution française. Les jurés sont apparus avec une loi de 1791. Le nom de « cour d'assises » vient d'une loi du 20 avril 1810.
+
+## Trois juges et des citoyens
+
+La cour d'assises réunit un président et deux assesseurs, qui sont des magistrats de métier. Ils siègent avec un jury de citoyens. Il compte six jurés en premier ressort, c'est-à-dire lors du premier procès. Il en compte neuf en appel, quand l'affaire est jugée une seconde fois. L'appel est possible depuis la loi du 15 juin 2000.
+
+## Comment devient-on juré ?
+
+Chaque année, des personnes sont tirées au sort sur les listes électorales de chaque commune. Elles doivent avoir plus de 23 ans et savoir lire et écrire en français. Certaines ne peuvent pas être jurés, comme les policiers ou les magistrats.
+
+Au début de chaque procès, on tire au sort les jurés parmi cette liste. La défense peut en refuser quatre et l'accusation trois. Les jurés reçoivent une indemnité pour chaque journée.
+
+Avant le procès, chaque juré lève la main et dit « Je le jure ». Il promet d'examiner l'affaire avec attention et de se rappeler que l'accusé est présumé innocent. Il promet aussi de garder le secret des délibérations, même après le procès.
+
+## Le vote secret
+
+Pendant le procès, les jurés écoutent les témoins et peuvent poser des questions. À la fin, juges et jurés se retirent ensemble pour délibérer. Ils votent à bulletin secret, d'abord sur la culpabilité, puis sur la peine.
+
+Une décision défavorable à l'accusé demande au moins sept voix en premier ressort, et huit en appel. Ainsi, les trois juges seuls ne peuvent jamais condamner sans l'accord d'une majorité de jurés.
+
+Depuis le 1er janvier 2023, une partie des crimes est jugée autrement. Les crimes punis de 15 à 20 ans, commis par des majeurs, vont devant la cour criminelle départementale. Elle est composée de cinq magistrats, sans jurés.
+
+## À retenir
+
+- La cour d'assises juge les crimes, les infractions les plus graves.
+- Elle réunit trois magistrats et six jurés en premier ressort, neuf jurés en appel.
+- Les jurés sont tirés au sort sur les listes électorales et ont plus de 23 ans.
+- Une décision défavorable à l'accusé demande au moins sept voix en premier ressort.
+- Depuis 2023, les crimes punis de 15 à 20 ans sont jugés par une cour criminelle départementale, sans jurés.
 
 ---
 type: article
@@ -8038,18 +8617,103 @@ status: planned
 
 ---
 type: article
-title: La publicite mensongere et sa sanction
-slug: la-publicite-mensongere-et-sa-sanction
+title: Pourquoi une publicité n'a-t-elle pas le droit de tromper ?
+slug: pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
 summary: >
-  Comment le droit protege le consommateur contre des promesses commerciales trompeuses.
-tags: [droit-de-la-consommation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une publicité peut vanter un produit, mais pas mentir sur lui. Le Code de la consommation
+  interdit les pratiques commerciales trompeuses. Une entreprise qui trompe ses clients risque
+  deux ans de prison et 300 000 euros d'amende.
+tags: [droit-de-la-consommation]
+sources:
+  - title: "Publicité mensongère et tromperie, quelle répression pour ces pratiques commerciales frauduleuses ?"
+    url: "https://www.lemag-juridique.com/fiches-pratiques/articles/publicite-mensongere-tromperie-quelle-repression-pour-ces-pratiques-commerciales-frauduleuses-9695.htm"
+    publisher: "Le Mag Juridique"
+  - title: "Publicité mensongère"
+    url: "https://fr.wikipedia.org/wiki/Publicit%C3%A9_mensong%C3%A8re"
+    publisher: "Wikipédia"
+  - title: "Direction générale de la concurrence, de la consommation et de la répression des fraudes"
+    url: "https://fr.wikipedia.org/wiki/Direction_g%C3%A9n%C3%A9rale_de_la_Concurrence,_de_la_Consommation_et_de_la_R%C3%A9pression_des_fraudes"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment le Code de la consommation appelle-t-il la publicité mensongère ?"
+    options:
+      - "Une réclame interdite"
+      - "Une pratique commerciale trompeuse"
+      - "Un abus de langage"
+    answer: 2
+    explanation: >
+      Le Code de la consommation parle de « pratiques commerciales trompeuses », aux
+      articles L.121-2 à L.121-5.
+  - question: "Quelle amende risque une personne pour une pratique commerciale trompeuse ?"
+    options:
+      - "300 000 euros"
+      - "10 euros"
+      - "Aucune"
+    answer: 1
+    explanation: >
+      L'article L.132-2 prévoit deux ans de prison et 300 000 euros d'amende.
+  - question: "Une publicité peut-elle tromper en oubliant une information importante ?"
+    options:
+      - "Non, seul un mensonge compte"
+      - "Seulement à la télévision"
+      - "Oui, une omission peut être trompeuse"
+    answer: 3
+    explanation: >
+      Omettre une information essentielle, ou la donner de façon ambiguë, peut rendre une
+      pratique trompeuse.
+  - question: "Quelle administration contrôle la loyauté des échanges entre vendeurs et clients ?"
+    options:
+      - "La DGCCRF"
+      - "La CNIL"
+      - "L'Éducation nationale"
+    answer: 1
+    explanation: >
+      La DGCCRF, créée en 1985, veille à la loyauté des transactions commerciales.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une publicité peut vanter un produit, mais pas mentir sur lui. Le Code de la consommation interdit les pratiques commerciales trompeuses. Une entreprise qui trompe ses clients risque deux ans de prison et 300 000 euros d'amende.
+
+## Convaincre sans mentir
+
+La publicité sert à donner envie d'acheter. Elle a le droit de présenter un produit sous son meilleur jour. Mais elle n'a pas le droit de tromper le client. Une personne trompée risque d'acheter un produit qu'elle n'aurait pas choisi si elle avait connu la vérité. Elle fausse aussi la concurrence entre les entreprises.
+
+## Ce que dit la loi
+
+Pour le droit, l'expression « publicité mensongère » n'existe pas vraiment. Le Code de la consommation parle de « pratiques commerciales trompeuses ». Elles sont décrites aux articles L.121-2 à L.121-5.
+
+Une pratique est trompeuse dans plusieurs cas :
+
+- elle donne des informations fausses ou capables d'induire le client en erreur, et peut changer sa décision d'achat ;
+- elle crée une confusion avec un concurrent, en copiant sa marque, son produit ou son nom ;
+- on ne sait pas clairement qui est l'annonceur, c'est-à-dire qui a payé la publicité ;
+- elle oublie une information importante, ou la présente de façon floue.
+
+Une publicité peut donc tromper sans dire un seul mensonge. Cacher une information essentielle suffit. Dans le langage courant, on parle de publicité mensongère quand elle repose sur des faits faux.
+
+## Les sanctions
+
+Une pratique commerciale trompeuse est un délit. L'article L.132-2 du Code de la consommation prévoit jusqu'à deux ans de prison et 300 000 euros d'amende.
+
+L'amende peut être encore plus forte, selon ce que l'entreprise a gagné en trichant. Elle peut atteindre 10 % de son chiffre d'affaires moyen annuel. Elle peut aussi atteindre 50 % de ce qu'a coûté la publicité trompeuse.
+
+Le juge peut ajouter d'autres sanctions. Il peut interdire au responsable d'exercer son activité pendant cinq ans au plus. Il peut aussi obliger l'entreprise à afficher la décision ou à diffuser des annonces rectificatives, qui corrigent l'erreur auprès du public. Une publicité diffusée en France par une entreprise étrangère peut aussi être sanctionnée.
+
+## Qui surveille ?
+
+En France, la DGCCRF contrôle les vendeurs. Son nom complet est direction générale de la concurrence, de la consommation et de la répression des fraudes. Elle est née en 1985 de la fusion de deux services. Elle dépend du ministère de l'Économie et veille à la loyauté des échanges entre vendeurs et clients. L'Union européenne interdit aussi la publicité trompeuse par une directive.
+
+## À retenir
+
+- Le Code de la consommation interdit les pratiques commerciales trompeuses (articles L.121-2 à L.121-5).
+- Une publicité peut être trompeuse par un mensonge, mais aussi en cachant une information importante.
+- La pratique commerciale trompeuse est un délit puni de deux ans de prison et 300 000 euros d'amende.
+- L'amende peut monter à 10 % du chiffre d'affaires ou à 50 % du coût de la publicité.
+- La DGCCRF, créée en 1985, contrôle la loyauté des échanges commerciaux.
 
 ---
 type: article
@@ -8473,18 +9137,101 @@ status: planned
 
 ---
 type: article
-title: Les conges payes, un droit du travail fondamental
-slug: les-conges-payes-un-droit-du-travail-fondamental
+title: Comment les salariés ont-ils obtenu cinq semaines de congés payés ?
+slug: comment-les-salaries-ont-ils-obtenu-cinq-semaines-de-conges-payes
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
 summary: >
-  Comment ce droit s'est progressivement impose au cours du XXe siecle.
-tags: [droit-du-travail, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les congés payés sont des jours de vacances pendant lesquels le salarié reçoit quand même
+  son salaire. Ils sont apparus pour tous en France en 1936, avec deux semaines. Aujourd'hui,
+  un salarié a droit à cinq semaines par an.
+tags: [droit-du-travail]
+sources:
+  - title: "Congés payés"
+    url: "https://fr.wikipedia.org/wiki/Cong%C3%A9s_pay%C3%A9s"
+    publisher: "Wikipédia"
+  - title: "Congés payés du salarié dans le secteur privé"
+    url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2258"
+    publisher: "Service-Public.fr"
+quiz:
+  - question: "En quelle année la loi a-t-elle créé les congés payés pour tous les salariés en France ?"
+    options:
+      - "1789"
+      - "1936"
+      - "1982"
+    answer: 2
+    explanation: >
+      La loi du 20 juin 1936, sous le Front populaire, a créé deux semaines de congés
+      payés.
+  - question: "Combien de jours de congés un salarié gagne-t-il par mois de travail ?"
+    options:
+      - "2,5 jours ouvrables"
+      - "1 jour"
+      - "10 jours"
+    answer: 1
+    explanation: >
+      Chaque mois de travail donne droit à 2,5 jours ouvrables, soit 30 jours ouvrables
+      par an.
+  - question: "Quand la cinquième semaine a-t-elle été accordée ?"
+    options:
+      - "En 1956"
+      - "En 1969"
+      - "En 1982"
+    answer: 3
+    explanation: >
+      Une ordonnance du 16 janvier 1982 a porté les congés payés à cinq semaines.
+  - question: "Combien de jours ouvrables consécutifs un salarié peut-il poser au maximum ?"
+    options:
+      - "24 jours, soit 4 semaines"
+      - "60 jours"
+      - "5 jours"
+    answer: 1
+    explanation: >
+      Le salarié ne peut pas poser plus de 24 jours ouvrables de suite, sauf exceptions.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les congés payés sont des jours de vacances pendant lesquels le salarié reçoit quand même son salaire. Ils sont apparus pour tous en France en 1936, avec deux semaines. Aujourd'hui, un salarié a droit à cinq semaines par an.
+
+## Des vacances payées, une idée récente
+
+Pendant longtemps, un ouvrier qui ne travaillait pas ne recevait pas de salaire. Prendre des vacances voulait dire perdre de l'argent. L'idée de vacances payées est née dans les années 1920. En France, quelques patrons les accordaient déjà, comme Charles Pathé. En Alsace, les deux tiers des employés en avaient en 1936.
+
+## 1936, l'année des grèves
+
+Le 3 mai 1936, le Front populaire gagne les élections législatives. Les ouvriers lancent alors des grèves et occupent les usines dans toute la France. Près de deux millions de travailleurs y participent. Le gouvernement réunit patrons et syndicats pour négocier.
+
+La loi du 20 juin 1936 crée les congés payés pour tous les salariés. Ils durent quinze jours, dont douze jours ouvrables. Un jour ouvrable est un jour de la semaine sauf le dimanche et les jours fériés.
+
+## Une semaine de plus, puis encore une
+
+Les congés payés s'allongent ensuite par étapes :
+
+- trois semaines avec une loi de 1956, votée à l'unanimité ;
+- quatre semaines avec une loi de mai 1969 ;
+- cinq semaines avec une ordonnance du 16 janvier 1982.
+
+## Comment ça marche aujourd'hui ?
+
+Chaque mois de travail donne droit à 2,5 jours ouvrables de congés. C'est vrai à temps plein comme à temps partiel. Sur une année complète, cela fait 30 jours ouvrables, soit cinq semaines. Pendant ses congés, le salarié reçoit une indemnité de congés payés à la place de son salaire.
+
+Un salarié malade continue aussi à gagner des congés. Il obtient 2 jours ouvrables par mois d'arrêt maladie non professionnelle, dans la limite de 24 jours par an.
+
+Les congés principaux se prennent entre le 1er mai et le 31 octobre. Le salarié doit prendre au moins 12 jours ouvrables, soit deux semaines, pendant cette période. Il ne peut pas poser plus de 24 jours ouvrables de suite, soit quatre semaines, sauf cas particuliers.
+
+## Ailleurs dans le monde
+
+Les règles changent selon les pays. En Allemagne, la loi prévoit au moins 24 jours de congés, mais les accords entre syndicats et entreprises en donnent souvent 30. Aux États-Unis, dans les grandes entreprises, deux semaines sont la règle courante.
+
+## À retenir
+
+- La loi du 20 juin 1936, sous le Front populaire, a créé deux semaines de congés payés.
+- Les congés sont passés à trois semaines en 1956, quatre en 1969 et cinq en 1982.
+- Chaque mois de travail donne droit à 2,5 jours ouvrables de congés, soit 30 jours par an.
+- Pendant les congés, le salarié reçoit une indemnité de congés payés.
+- Les congés principaux se prennent entre le 1er mai et le 31 octobre.
 
 ---
 type: article
@@ -8908,18 +9655,97 @@ status: planned
 
 ---
 type: article
-title: La legitime defense et ses conditions d'application
-slug: la-legitime-defense-et-ses-conditions-d-application
+title: Comment la loi décide-t-elle qu'on avait le droit de se défendre ?
+slug: comment-la-loi-decide-t-elle-qu-on-avait-le-droit-de-se-defendre
 categoryPath: droit-et-justice/droit-prive/droit-penal
 summary: >
-  Une exception au droit penal qui permet de se proteger sans etre sanctionne, sous conditions strictes.
-tags: [droit-penal, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Se défendre contre une attaque peut être permis, même si l'on blesse l'agresseur. C'est la
+  légitime défense, prévue par l'article 122-5 du Code pénal. Elle n'est accordée que si
+  l'attaque et la riposte respectent des conditions strictes.
+tags: [droit-penal]
+sources:
+  - title: "Légitime défense en droit français"
+    url: "https://fr.wikipedia.org/wiki/L%C3%A9gitime_d%C3%A9fense_en_droit_fran%C3%A7ais"
+    publisher: "Wikipédia"
+  - title: "Légitime défense"
+    url: "https://fr.wikipedia.org/wiki/L%C3%A9gitime_d%C3%A9fense"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel article du Code pénal prévoit la légitime défense ?"
+    options:
+      - "L'article 1er"
+      - "L'article 122-5"
+      - "L'article 9"
+    answer: 2
+    explanation: >
+      La légitime défense est inscrite à l'article 122-5 du Code pénal.
+  - question: "Une riposte qui arrive une heure après l'attaque est-elle une légitime défense ?"
+    options:
+      - "Oui, toujours"
+      - "Oui, si l'agresseur est connu"
+      - "Non, ce serait une vengeance"
+    answer: 3
+    explanation: >
+      La riposte doit être immédiate. Une réaction après coup n'est plus une défense,
+      c'est une vengeance.
+  - question: "Que la loi n'autorise-t-elle jamais pour défendre un objet ?"
+    options:
+      - "Tuer volontairement"
+      - "Crier"
+      - "Appeler la police"
+    answer: 1
+    explanation: >
+      Pour protéger un bien, la loi n'accepte jamais l'homicide volontaire.
+  - question: "Dans quel cas la légitime défense est-elle présumée ?"
+    options:
+      - "Lors d'une dispute dans la rue"
+      - "Contre une entrée par effraction la nuit dans un lieu habité"
+      - "Lors d'un match de football"
+    answer: 2
+    explanation: >
+      L'article 122-6 du Code pénal présume la légitime défense contre une entrée de nuit
+      par effraction, violence ou ruse dans un lieu habité.
+lastVerified: 2026-10-09
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Se défendre contre une attaque peut être permis, même si l'on blesse l'agresseur. C'est la légitime défense, prévue par l'article 122-5 du Code pénal. Elle n'est accordée que si l'attaque et la riposte respectent des conditions strictes.
+
+## Une exception à l'interdiction de la violence
+
+Frapper quelqu'un est en principe une infraction. La loi prévoit pourtant une exception : la légitime défense. Elle figure à l'article 122-5 du Code pénal. La personne qui se défend dans ces conditions n'est pas responsable pénalement, c'est-à-dire qu'elle ne peut pas être punie.
+
+Cette règle protège celui qui se défend lui-même. Elle protège aussi celui qui défend une autre personne en danger.
+
+## Trois conditions pour l'attaque
+
+L'attaque doit d'abord être actuelle. Le danger doit être là, maintenant, et pas dans une semaine. Elle doit ensuite être injustifiée. Un policier qui arrête quelqu'un en suivant la loi ne commet pas une attaque injustifiée. Enfin, l'attaque doit être réelle et non imaginée. Les juges acceptent parfois une erreur, si des éléments trompeurs la rendaient crédible.
+
+## Trois conditions pour la riposte
+
+La riposte doit être nécessaire. Il ne devait pas exister d'autre moyen d'échapper au danger. Elle doit être simultanée, c'est-à-dire avoir lieu pendant l'attaque. Une réaction plus tard n'est pas une défense, c'est une vengeance. Elle doit enfin être proportionnée. On ne répond pas à une gifle par un coup de couteau.
+
+Toutes ces conditions doivent être réunies en même temps. Si une seule manque, la personne peut être jugée pour les violences qu'elle a commises.
+
+## Défendre ses biens
+
+On peut aussi se défendre pour arrêter un vol ou une destruction. Les conditions sont les mêmes, avec une limite forte. La loi n'accepte jamais l'homicide volontaire pour protéger un bien. Un objet ne vaut pas une vie humaine.
+
+## Deux cas où la loi présume la défense
+
+L'article 122-6 du Code pénal prévoit deux situations où la légitime défense est présumée. La première est de repousser quelqu'un qui entre la nuit dans un lieu habité, par effraction, violence ou ruse. La seconde est de se défendre contre des voleurs ou des pilleurs qui agissent avec violence. Dans ces cas, la personne n'a pas à prouver elle-même qu'elle se défendait.
+
+La légitime défense existe aussi entre États. L'article 51 de la Charte des Nations unies permet à un pays attaqué par les armes de se défendre.
+
+## À retenir
+
+- La légitime défense est prévue par l'article 122-5 du Code pénal.
+- L'attaque doit être actuelle, injustifiée et réelle.
+- La riposte doit être nécessaire, immédiate et proportionnée à l'attaque.
+- Pour défendre un bien, tuer volontairement n'est jamais permis.
+- L'article 122-6 présume la légitime défense contre une entrée de nuit par effraction dans un lieu habité.
 
 ---
 type: article

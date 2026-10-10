@@ -866,8 +866,8 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-preven
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Les tendinites;tendinites;2;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;La mort subite du sportif;mort-subite-sportif;2;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;L'échauffement;echauffement;2;non;planned
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Les règles du rugby;regles-rugby;2;non;planned
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le basket-ball;basket-ball;2;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Pourquoi au rugby fait-on des passes vers l'arrière ?;pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere;2;non;published
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Comment le basket-ball a-t-il été inventé ?;comment-le-basket-ball-a-t-il-ete-invente;2;non;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;La tactique au football;tactique-football;2;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le handball;handball;2;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le volley-ball;volley-ball;2;non;planned
@@ -1574,7 +1574,7 @@ alimentation;alimentation-et-nutrition/alimentation-et-environnement/empreinte-a
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire;L'impact environnemental de la production de cafe soluble;l-impact-environnemental-de-la-production-de-cafe-soluble;3;non;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/empreinte-alimentaire;La reduction de l'empreinte alimentaire par la reduction des portions;la-reduction-de-l-empreinte-alimentaire-par-la-reduction-des-portions;3;non;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire a chaque etape de la chaine;le-gaspillage-alimentaire-a-chaque-etape-de-la-chaine;2;oui;planned
-alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Les dates de peremption, DLC et DDM expliquees;les-dates-de-peremption-dlc-et-ddm-expliquees;2;oui;planned
+alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Pourquoi certains aliments ont-ils une date limite et d'autres une date conseillée ?;pourquoi-certains-aliments-ont-ils-une-date-limite-et-d-autres-une-date-conseillee;2;oui;published
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire dans la restauration collective;le-gaspillage-alimentaire-dans-la-restauration-collective;3;non;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;La legislation anti-gaspillage dans la grande distribution;la-legislation-anti-gaspillage-dans-la-grande-distribution;2;non;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le glanage, recuperer ce qui reste apres la recolte;le-glanage-recuperer-ce-qui-reste-apres-la-recolte;3;oui;planned
@@ -1629,7 +1629,7 @@ alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;La deshydra
 alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;L'eau, principal composant du corps humain;l-eau-principal-composant-du-corps-humain;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;Les besoins en eau selon l'age et l'activite;les-besoins-en-eau-selon-l-age-et-l-activite;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;L'eau contenue dans les aliments;l-eau-contenue-dans-les-aliments;2;oui;planned
-alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;La soif, un signal souvent en retard;la-soif-un-signal-souvent-en-retard;2;oui;planned
+alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;Pourquoi a-t-on soif ?;pourquoi-a-t-on-soif;2;oui;published
 alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;L'hyponatremie, boire trop d'eau peut-il etre dangereux;l-hyponatremie-boire-trop-d-eau-peut-il-etre-dangereux;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;L'eau et la regulation de la temperature corporelle;l-eau-et-la-regulation-de-la-temperature-corporelle;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;La qualite de l'eau du robinet dans le monde;la-qualite-de-l-eau-du-robinet-dans-le-monde;2;oui;planned
@@ -1712,7 +1712,7 @@ alimentation;alimentation-et-nutrition/nutriments/macronutriments;Les proteines 
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;Les glucides simples contre les glucides complexes;les-glucides-simples-contre-les-glucides-complexes;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;Les graisses saturees et insaturees;les-graisses-saturees-et-insaturees;2;non;planned
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;La quantite de proteines necessaire selon l'age et l'activite;la-quantite-de-proteines-necessaire-selon-l-age-et-l-activite;2;oui;planned
-alimentation;alimentation-et-nutrition/nutriments/macronutriments;Les acides amines essentiels, ceux que le corps ne fabrique pas;les-acides-amines-essentiels-ceux-que-le-corps-ne-fabrique-pas;2;oui;planned
+alimentation;alimentation-et-nutrition/nutriments/macronutriments;Pourquoi certains acides aminés doivent-ils venir de notre assiette ?;pourquoi-certains-acides-amines-doivent-ils-venir-de-notre-assiette;2;oui;published
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;Le role energetique des lipides dans le corps;le-role-energetique-des-lipides-dans-le-corps;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;Les glucides et la reserve de glycogene musculaire;les-glucides-et-la-reserve-de-glycogene-musculaire;2;non;planned
 alimentation;alimentation-et-nutrition/nutriments/macronutriments;Les proteines vegetales, sources et complementarite;les-proteines-vegetales-sources-et-complementarite;2;oui;planned
@@ -1769,9 +1769,9 @@ alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;Le 
 alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;La fermentation spontanee contre la fermentation controlee;la-fermentation-spontanee-contre-la-fermentation-controlee;3;non;planned
 alimentation;alimentation-et-nutrition/nutriments/microbiote-et-probiotiques;Le role du microbiote dans la digestion du lactose;le-role-du-microbiote-dans-la-digestion-du-lactose;3;non;planned
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;La vitamine D et son role au-dela des os;la-vitamine-d-et-son-role-au-dela-des-os;2;oui;planned
-alimentation;alimentation-et-nutrition/nutriments/micronutriments;La vitamine C et ses vraies proprietes;la-vitamine-c-et-ses-vraies-proprietes;2;oui;planned
+alimentation;alimentation-et-nutrition/nutriments/micronutriments;Pourquoi les marins d'autrefois avaient-ils besoin de citrons ?;pourquoi-les-marins-d-autrefois-avaient-ils-besoin-de-citrons;2;oui;published
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;Les vitamines du groupe B et l'energie cellulaire;les-vitamines-du-groupe-b-et-l-energie-cellulaire;2;oui;planned
-alimentation;alimentation-et-nutrition/nutriments/micronutriments;La vitamine A et la vision;la-vitamine-a-et-la-vision;2;oui;planned
+alimentation;alimentation-et-nutrition/nutriments/micronutriments;Pourquoi dit-on que les carottes font voir dans le noir ?;pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir;2;oui;published
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;La vitamine E, un antioxydant liposoluble;la-vitamine-e-un-antioxydant-liposoluble;3;non;planned
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;La vitamine K et la coagulation sanguine;la-vitamine-k-et-la-coagulation-sanguine;2;oui;planned
 alimentation;alimentation-et-nutrition/nutriments/micronutriments;Le calcium, au-dela des os et des dents;le-calcium-au-dela-des-os-et-des-dents;2;oui;planned
@@ -1877,7 +1877,7 @@ alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alime
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les toxi-infections alimentaires collectives;les-toxi-infections-alimentaires-collectives;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire des conserves maison;la-securite-alimentaire-des-conserves-maison;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les regles de base de l'hygiene en cuisine;les-regles-de-base-de-l-hygiene-en-cuisine;2;oui;planned
-alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La contamination croisee entre aliments crus et cuits;la-contamination-croisee-entre-aliments-crus-et-cuits;2;oui;planned
+alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Pourquoi ne faut-il pas couper la salade sur la planche du poulet cru ?;pourquoi-ne-faut-il-pas-couper-la-salade-sur-la-planche-du-poulet-cru;2;oui;published
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Le controle sanitaire des produits alimentaires importes;le-controle-sanitaire-des-produits-alimentaires-importes;3;non;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les normes d'hygiene dans l'industrie agroalimentaire;les-normes-d-hygiene-dans-l-industrie-agroalimentaire;3;non;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La methode HACCP de maitrise des risques alimentaires;la-methode-haccp-de-maitrise-des-risques-alimentaires;3;non;planned
@@ -1903,7 +1903,7 @@ alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alime
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire des produits vendus au marche noir en periode de penurie;la-securite-alimentaire-des-produits-vendus-au-marche-noir-en-periode-de-penurie;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les techniques simples de detection d'un aliment avarie;les-techniques-simples-de-detection-d-un-aliment-avarie;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La chaine du froid et ses points de rupture;la-chaine-du-froid-et-ses-points-de-rupture;2;oui;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La congelation et ses effets sur la texture des aliments;la-congelation-et-ses-effets-sur-la-texture-des-aliments;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Pourquoi un aliment décongelé devient-il parfois tout mou ?;pourquoi-un-aliment-decongele-devient-il-parfois-tout-mou;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La lyophilisation, secher un aliment par le froid;la-lyophilisation-secher-un-aliment-par-le-froid;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La mise sous vide comme methode de conservation;la-mise-sous-vide-comme-methode-de-conservation;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;L'irradiation alimentaire, principe et securite;l-irradiation-alimentaire-principe-et-securite;3;non;planned
@@ -1937,7 +1937,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fabrication traditionnelle du fromage;la-fabrication-traditionnelle-du-fromage;2;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fabrication de la biere, etapes et fermentation;la-fabrication-de-la-biere-etapes-et-fermentation;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fabrication du vin et la fermentation du raisin;la-fabrication-du-vin-et-la-fermentation-du-raisin;3;non;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Le vinaigre, une seconde fermentation apres l'alcool;le-vinaigre-une-seconde-fermentation-apres-l-alcool;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Comment le vin se transforme-t-il en vinaigre ?;comment-le-vin-se-transforme-t-il-en-vinaigre;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation du cacao avant la fabrication du chocolat;la-fermentation-du-cacao-avant-la-fabrication-du-chocolat;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation du cafe apres la recolte;la-fermentation-du-cafe-apres-la-recolte;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Le levain naturel contre la levure industrielle;le-levain-naturel-contre-la-levure-industrielle;2;oui;planned
@@ -1957,7 +1957,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La science derriere le gout umami des aliments fermentes;la-science-derriere-le-gout-umami-des-aliments-fermentes;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation dans la production du the pu-erh;la-fermentation-dans-la-production-du-the-pu-erh;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Les risques de la fermentation mal maitrisee;les-risques-de-la-fermentation-mal-maitrisee;2;oui;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation du manioc pour eliminer ses toxines naturelles;la-fermentation-du-manioc-pour-eliminer-ses-toxines-naturelles;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Pourquoi faut-il préparer le manioc avant de le manger ?;pourquoi-faut-il-preparer-le-manioc-avant-de-le-manger;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation dans la fabrication du tempeh indonesien;la-fermentation-dans-la-fabrication-du-tempeh-indonesien;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;L'histoire millenaire de la fermentation alimentaire;l-histoire-millenaire-de-la-fermentation-alimentaire;3;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation controlee en laboratoire pour l'industrie moderne;la-fermentation-controlee-en-laboratoire-pour-l-industrie-moderne;3;non;planned
@@ -1987,7 +1987,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-
 alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;Les technologies de reconstitution des purees et concentres de fruits;les-technologies-de-reconstitution-des-purees-et-concentres-de-fruits;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;La fabrication industrielle des plats prepares surgeles;la-fabrication-industrielle-des-plats-prepares-surgeles;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;Les enzymes utilisees dans la transformation alimentaire;les-enzymes-utilisees-dans-la-transformation-alimentaire;3;non;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;La transformation des cereales en farine;la-transformation-des-cereales-en-farine;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;Comment un grain de blé devient-il de la farine ?;comment-un-grain-de-ble-devient-il-de-la-farine;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;Les farines completes contre les farines raffinees;les-farines-completes-contre-les-farines-raffinees;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;La fabrication industrielle des boissons gazeuses;la-fabrication-industrielle-des-boissons-gazeuses;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/transformation-industrielle;Les technologies de reduction du sodium dans les produits industriels;les-technologies-de-reduction-du-sodium-dans-les-produits-industriels;3;non;planned
@@ -3266,7 +3266,7 @@ corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;La v
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Les obligations vaccinales selon les pays;les-obligations-vaccinales-selon-les-pays;3;non;planned
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;La communication scientifique autour de la vaccination;la-communication-scientifique-autour-de-la-vaccination;2;oui;planned
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Le role des essais cliniques dans le developpement d'un vaccin;le-role-des-essais-cliniques-dans-le-developpement-d-un-vaccin;2;oui;planned
-droit;droit-et-justice/droit-prive/droit-civil;La capacite juridique et ses limites;la-capacite-juridique-et-ses-limites;2;oui;planned
+droit;droit-et-justice/droit-prive/droit-civil;Pourquoi un enfant ne peut-il pas signer seul tous les contrats ?;pourquoi-un-enfant-ne-peut-il-pas-signer-seul-tous-les-contrats;2;oui;published
 droit;droit-et-justice/droit-prive/droit-civil;La personnalite juridique, du debut a la fin de la vie;la-personnalite-juridique-du-debut-a-la-fin-de-la-vie;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-civil;Les biens meubles et immeubles, une distinction fondamentale;les-biens-meubles-et-immeubles-une-distinction-fondamentale;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-civil;La possession et la propriete, deux notions distinctes;la-possession-et-la-propriete-deux-notions-distinctes;2;oui;planned
@@ -3353,7 +3353,7 @@ droit;droit-et-justice/droit-prive/procedure-et-preuve;L'expertise judiciaire, f
 droit;droit-et-justice/droit-prive/procedure-et-preuve;La perquisition, cadre legal et limites;la-perquisition-cadre-legal-et-limites;2;oui;planned
 droit;droit-et-justice/droit-prive/procedure-et-preuve;La citation a comparaitre;la-citation-a-comparaitre;3;non;planned
 droit;droit-et-justice/droit-prive/procedure-et-preuve;Le jugement par defaut, quand une partie est absente;le-jugement-par-defaut-quand-une-partie-est-absente;3;non;planned
-droit;droit-et-justice/droit-prive/procedure-et-preuve;L'aide juridictionnelle, acceder a la justice sans moyens;l-aide-juridictionnelle-acceder-a-la-justice-sans-moyens;2;oui;planned
+droit;droit-et-justice/droit-prive/procedure-et-preuve;Comment peut-on aller en justice quand on n'a pas d'argent ?;comment-peut-on-aller-en-justice-quand-on-n-a-pas-d-argent;2;oui;published
 droit;droit-et-justice/droit-prive/procedure-et-preuve;La procedure civile, grandes etapes;la-procedure-civile-grandes-etapes;2;oui;planned
 droit;droit-et-justice/droit-prive/procedure-et-preuve;Le referé, obtenir une decision judiciaire en urgence;le-refere-obtenir-une-decision-judiciaire-en-urgence;3;non;planned
 droit;droit-et-justice/droit-prive/procedure-et-preuve;La preuve numerique et son admissibilite au proces;la-preuve-numerique-et-son-admissibilite-au-proces;3;non;planned
@@ -3377,7 +3377,7 @@ droit;droit-et-justice/droit-prive/procedure-et-preuve;La confrontation entre pa
 droit;droit-et-justice/droit-prive/procedure-et-preuve;Le juge de proximite et les petits litiges;le-juge-de-proximite-et-les-petits-litiges;3;non;planned
 droit;droit-et-justice/droit-prive/procedure-et-preuve;La force probante d'un acte authentique;la-force-probante-d-un-acte-authentique;3;non;planned
 droit;droit-et-justice/droit-public/droit-constitutionnel;Les grands principes constitutionnels;les-grands-principes-constitutionnels;2;oui;planned
-droit;droit-et-justice/droit-public/droit-constitutionnel;La hierarchie des normes juridiques;la-hierarchie-des-normes-juridiques;2;oui;planned
+droit;droit-et-justice/droit-public/droit-constitutionnel;Pourquoi une loi ne peut-elle pas contredire la Constitution ?;pourquoi-une-loi-ne-peut-elle-pas-contredire-la-constitution;2;oui;published
 droit;droit-et-justice/droit-public/droit-constitutionnel;Le controle de constitutionnalite, principe general;le-controle-de-constitutionnalite-principe-general;2;oui;planned
 droit;droit-et-justice/droit-public/droit-constitutionnel;La question prioritaire de constitutionnalite;la-question-prioritaire-de-constitutionnalite;3;non;planned
 droit;droit-et-justice/droit-public/droit-constitutionnel;Les regimes politiques, une classification generale;les-regimes-politiques-une-classification-generale;2;oui;planned
@@ -3411,7 +3411,7 @@ droit;droit-et-justice/droit-public/droit-de-lenvironnement;La responsabilite en
 droit;droit-et-justice/droit-public/droit-de-lenvironnement;Les normes de rejets industriels et leur controle;les-normes-de-rejets-industriels-et-leur-controle;2;oui;planned
 droit;droit-et-justice/droit-public/droit-de-lenvironnement;Le droit de l'eau et sa gestion juridique;le-droit-de-l-eau-et-sa-gestion-juridique;2;oui;planned
 droit;droit-et-justice/droit-public/droit-de-lenvironnement;La protection juridique des zones humides;la-protection-juridique-des-zones-humides;2;oui;planned
-droit;droit-et-justice/droit-public/droit-de-lenvironnement;Les aires protegees et leur statut juridique;les-aires-protegees-et-leur-statut-juridique;2;oui;planned
+droit;droit-et-justice/droit-public/droit-de-lenvironnement;Comment la loi protège-t-elle la nature dans un parc national ?;comment-la-loi-protege-t-elle-la-nature-dans-un-parc-national;2;oui;published
 droit;droit-et-justice/droit-public/droit-de-lenvironnement;Le droit de la chasse et sa reglementation;le-droit-de-la-chasse-et-sa-reglementation;3;non;planned
 droit;droit-et-justice/droit-public/droit-de-lenvironnement;La reglementation des dechets et leur traitement legal;la-reglementation-des-dechets-et-leur-traitement-legal;2;oui;planned
 droit;droit-et-justice/droit-public/droit-de-lenvironnement;Le droit international de la biodiversite;le-droit-international-de-la-biodiversite;2;oui;planned
@@ -3472,7 +3472,7 @@ droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;La presomptio
 droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;L'interdiction de la torture en droit international;l-interdiction-de-la-torture-en-droit-international;2;oui;planned
 droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Le droit de propriete comme droit fondamental;le-droit-de-propriete-comme-droit-fondamental;2;oui;planned
 droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;La liberte d'association;la-liberte-d-association;2;oui;planned
-droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Le droit au respect de la vie privee a l'ere numerique;le-droit-au-respect-de-la-vie-privee-a-l-ere-numerique;2;oui;planned
+droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Comment la loi protège-t-elle nos données personnelles sur Internet ?;comment-la-loi-protege-t-elle-nos-donnees-personnelles-sur-internet;2;oui;published
 droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;L'egalite entre hommes et femmes en droit;l-egalite-entre-hommes-et-femmes-en-droit;2;oui;planned
 droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Le droit a la sante comme droit fondamental;le-droit-a-la-sante-comme-droit-fondamental;2;oui;planned
 droit;droit-et-justice/justice-et-institutions/droits-fondamentaux;Le droit a l'education, un principe universel;le-droit-a-l-education-un-principe-universel;2;oui;planned
@@ -3530,7 +3530,7 @@ droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le tribun
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La cour d'appel, rejuger une affaire;la-cour-d-appel-rejuger-une-affaire;2;oui;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La Cour de cassation, garante de l'unite du droit;la-cour-de-cassation-garante-de-l-unite-du-droit;2;oui;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le tribunal de commerce et ses juges non professionnels;le-tribunal-de-commerce-et-ses-juges-non-professionnels;3;non;planned
-droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le tribunal pour enfants;le-tribunal-pour-enfants;2;oui;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Comment juge-t-on un mineur qui a commis une infraction ?;comment-juge-t-on-un-mineur-qui-a-commis-une-infraction;2;oui;published
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La justice de paix, une justice de proximite disparue;la-justice-de-paix-une-justice-de-proximite-disparue;3;non;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le double degre de juridiction, un principe protecteur;le-double-degre-de-juridiction-un-principe-protecteur;2;oui;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La carte judiciaire et son organisation territoriale;la-carte-judiciaire-et-son-organisation-territoriale;3;non;planned
@@ -3538,7 +3538,7 @@ droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le tribun
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le Conseil d'Etat, sommet de la justice administrative;le-conseil-d-etat-sommet-de-la-justice-administrative;3;non;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La justice militaire, un systeme a part;la-justice-militaire-un-systeme-a-part;3;non;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La Cour europeenne des droits de l'homme, un recours ultime;la-cour-europeenne-des-droits-de-l-homme-un-recours-ultime;2;oui;planned
-droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La cour d'assises et la participation citoyenne au jugement;la-cour-d-assises-et-la-participation-citoyenne-au-jugement;2;oui;planned
+droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Comment des citoyens tirés au sort jugent-ils les crimes ?;comment-des-citoyens-tires-au-sort-jugent-ils-les-crimes;2;oui;published
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le tribunal des conflits, arbitrer entre deux ordres de juridiction;le-tribunal-des-conflits-arbitrer-entre-deux-ordres-de-juridiction;3;non;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La justice consulaire, une specificite historique;la-justice-consulaire-une-specificite-historique;3;non;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le fonctionnement d'un conseil de prud'hommes;le-fonctionnement-d-un-conseil-de-prud-hommes;2;oui;planned
@@ -3560,7 +3560,7 @@ droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La gara
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La garantie des vices caches;la-garantie-des-vices-caches;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le droit de retractation dans la vente a distance;le-droit-de-retractation-dans-la-vente-a-distance;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les soldes et promotions, cadre legal;les-soldes-et-promotions-cadre-legal;3;non;planned
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La publicite mensongere et sa sanction;la-publicite-mensongere-et-sa-sanction;2;oui;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Pourquoi une publicité n'a-t-elle pas le droit de tromper ?;pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper;2;oui;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le surendettement des menages, procedures existantes;le-surendettement-des-menages-procedures-existantes;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le droit de la consommation et les achats groupes;le-droit-de-la-consommation-et-les-achats-groupes;3;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La protection contre les pratiques commerciales agressives;la-protection-contre-les-pratiques-commerciales-agressives;2;oui;planned
@@ -3589,7 +3589,7 @@ droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le droi
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Les differents types de contrats de travail;les-differents-types-de-contrats-de-travail;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;La periode d'essai, droits et limites;la-periode-d-essai-droits-et-limites;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le bulletin de salaire, comment le lire;le-bulletin-de-salaire-comment-le-lire;2;oui;planned
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Les conges payes, un droit du travail fondamental;les-conges-payes-un-droit-du-travail-fondamental;2;oui;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Comment les salariés ont-ils obtenu cinq semaines de congés payés ?;comment-les-salaries-ont-ils-obtenu-cinq-semaines-de-conges-payes;2;oui;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le conge maladie et ses conditions;le-conge-maladie-et-ses-conditions;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le conge parental et sa duree;le-conge-parental-et-sa-duree;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;La rupture conventionnelle du contrat de travail;la-rupture-conventionnelle-du-contrat-de-travail;2;oui;planned
@@ -6828,7 +6828,7 @@ sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Dick Fosbury et la revolution du saut en hauteur;dick-fosbury-et-la-revolution-du-saut-en-hauteur;3;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le lancer de javelot, technique et physique;le-lancer-de-javelot-technique-et-physique;3;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le decathlon, l'epreuve reine de la polyvalence;le-decathlon-l-epreuve-reine-de-la-polyvalence;3;non;planned
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;La natation, les differentes nages expliquees;la-natation-les-differentes-nages-expliquees;2;oui;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Pourquoi le crawl est-il la nage la plus rapide ?;pourquoi-le-crawl-est-il-la-nage-la-plus-rapide;2;oui;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Apprendre a flotter, premiere etape essentielle;apprendre-a-flotter-premiere-etape-essentielle;2;oui;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les techniques de sauvetage en milieu aquatique;les-techniques-de-sauvetage-en-milieu-aquatique;2;oui;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le marathon, histoire et physiologie;le-marathon-histoire-et-physiologie;2;non;planned
@@ -6841,7 +6841,7 @@ sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les arts martiaux, philosophie et diversite;les-arts-martiaux-philosophie-et-diversite;3;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Le judo, principes fondamentaux et philosophie;le-judo-principes-fondamentaux-et-philosophie;2;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;La boxe anglaise, technique et strategie;la-boxe-anglaise-technique-et-strategie;3;non;planned
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;L'escalade, techniques de base pour debutants;l-escalade-techniques-de-base-pour-debutants;2;oui;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Comment une corde d'escalade arrête-t-elle la chute d'un grimpeur ?;comment-une-corde-d-escalade-arrete-t-elle-la-chute-d-un-grimpeur;2;oui;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les noeuds essentiels en escalade et en alpinisme;les-noeuds-essentiels-en-escalade-et-en-alpinisme;2;oui;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;La gymnastique artistique, agres et disciplines;la-gymnastique-artistique-agres-et-disciplines;3;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;La gymnastique rythmique, un sport de grace et de precision;la-gymnastique-rythmique-un-sport-de-grace-et-de-precision;3;non;planned
@@ -6859,7 +6859,7 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-preven
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;L'immobilisation d'un membre blesse;l-immobilisation-d-un-membre-blesse;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;La rupture du ligament croise du genou;la-rupture-du-ligament-croise-du-genou;2;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;La prevention des blessures du genou dans le sport;la-prevention-des-blessures-du-genou-dans-le-sport;2;oui;planned
-sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Les commotions cerebrales dans le sport;les-commotions-cerebrales-dans-le-sport;2;oui;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Pourquoi un choc à la tête oblige-t-il un sportif à sortir du terrain ?;pourquoi-un-choc-a-la-tete-oblige-t-il-un-sportif-a-sortir-du-terrain;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Le protocole de retour au jeu apres une commotion;le-protocole-de-retour-au-jeu-apres-une-commotion;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;Les tendinites, causes et prevention;les-tendinites-causes-et-prevention;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention;La luxation d'epaule, reconnaitre et reagir;la-luxation-d-epaule-reconnaitre-et-reagir;2;oui;planned
@@ -6895,9 +6895,9 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-muscula
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'alimentation avant une competition sportive;l-alimentation-avant-une-competition-sportive;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;La recuperation nutritionnelle apres l'effort;la-recuperation-nutritionnelle-apres-l-effort;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'hydratation pendant l'effort physique;l-hydratation-pendant-l-effort-physique;2;oui;planned
-sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;La frequence cardiaque a l'effort, ce qu'elle revele;la-frequence-cardiaque-a-l-effort-ce-qu-elle-revele;2;oui;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Pourquoi le cœur bat-il plus vite quand on fait du sport ?;pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;La frequence cardiaque maximale et son calcul;la-frequence-cardiaque-maximale-et-son-calcul;2;oui;planned
-sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Le sport par forte chaleur, adaptations physiologiques;le-sport-par-forte-chaleur-adaptations-physiologiques;2;oui;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Pourquoi transpire-t-on autant quand on fait du sport sous la chaleur ?;pourquoi-transpire-t-on-autant-quand-on-fait-du-sport-sous-la-chaleur;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Le sport en altitude, adaptations physiologiques;le-sport-en-altitude-adaptations-physiologiques;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'acclimatation a l'altitude pour les sportifs;l-acclimatation-a-l-altitude-pour-les-sportifs;3;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;La dette d'oxygene apres un effort intense;la-dette-d-oxygene-apres-un-effort-intense;3;non;planned
@@ -6917,7 +6917,7 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le pri
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;La periodisation de l'entrainement sportif;la-periodisation-de-l-entrainement-sportif;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le fractionne, principe et benefices;le-fractionne-principe-et-benefices;2;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;L'entrainement en intervalles a haute intensite (HIIT);l-entrainement-en-intervalles-a-haute-intensite-hiit;2;non;planned
-sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;La musculation, principes physiologiques de base;la-musculation-principes-physiologiques-de-base;2;oui;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Comment les muscles deviennent-ils plus forts avec l'entraînement ?;comment-les-muscles-deviennent-ils-plus-forts-avec-l-entrainement;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;La surcompensation, la cle du progres sportif;la-surcompensation-la-cle-du-progres-sportif;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le surentrainement, reconnaitre les signes precoces;le-surentrainement-reconnaitre-les-signes-precoces;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le repos, une composante essentielle de l'entrainement;le-repos-une-composante-essentielle-de-l-entrainement;2;oui;planned
@@ -8875,7 +8875,7 @@ corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Le r
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;La vaccination et son role dans la reduction des hospitalisations liees aux maladies infectieuses;la-vaccination-et-son-role-dans-la-reduction-des-hospitalisations-liees-aux-maladies-infectieuses;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-penal;La distinction entre contravention, delit et crime;la-distinction-entre-contravention-delit-et-crime;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-penal;Le principe de la presomption d'innocence;le-principe-de-la-presomption-d-innocence;2;oui;planned
-droit;droit-et-justice/droit-prive/droit-penal;La legitime defense et ses conditions d'application;la-legitime-defense-et-ses-conditions-d-application;2;oui;planned
+droit;droit-et-justice/droit-prive/droit-penal;Comment la loi décide-t-elle qu'on avait le droit de se défendre ?;comment-la-loi-decide-t-elle-qu-on-avait-le-droit-de-se-defendre;2;oui;published
 droit;droit-et-justice/droit-prive/droit-penal;Le role du casier judiciaire dans le suivi des condamnations;le-role-du-casier-judiciaire-dans-le-suivi-des-condamnations;3;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;La responsabilite penale des mineurs et ses specificites;la-responsabilite-penale-des-mineurs-et-ses-specificites;3;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;Les circonstances attenuantes et aggravantes dans la determination d'une peine;les-circonstances-attenuantes-et-aggravantes-dans-la-determination-d-une-peine;3;non;planned
@@ -11422,10 +11422,10 @@ sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le 
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le lacrosse et ses origines historiques particulieres;le-lacrosse-et-ses-origines-historiques-particulieres;3;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le rôle de la lecture du jeu adverse dans la reussite d'un sport collectif;le-role-de-la-lecture-du-jeu-adverse-dans-la-reussite-d-un-sport-collectif;3;non;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-collectifs;Le korfball, un sport collectif mixte encore peu connu en dehors de certains pays;le-korfball-un-sport-collectif-mixte-encore-peu-connu-en-dehors-de-certains-pays;3;non;planned
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le basketball en fauteuil roulant et son organisation competitive;le-basketball-en-fauteuil-roulant-et-son-organisation-competitive;2;oui;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Comment joue-t-on au basket en fauteuil roulant ?;comment-joue-t-on-au-basket-en-fauteuil-roulant;2;oui;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le rôle du materiel adapte dans la pratique sportive des personnes en situation de handicap;le-role-du-materiel-adapte-dans-la-pratique-sportive-des-personnes-en-situation-de-handicap;2;oui;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;L'athletisme adapte et ses categories selon le type de handicap;l-athletisme-adapte-et-ses-categories-selon-le-type-de-handicap;2;oui;planned
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le goalball comme sport specifiquement concu pour les personnes malvoyantes;le-goalball-comme-sport-specifiquement-concu-pour-les-personnes-malvoyantes;2;oui;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Comment joue-t-on au goalball sans voir le ballon ?;comment-joue-t-on-au-goalball-sans-voir-le-ballon;2;oui;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le rôle des jeux paralympiques dans la reconnaissance du sport pour personnes handicapees;le-role-des-jeux-paralympiques-dans-la-reconnaissance-du-sport-pour-personnes-handicapees;2;oui;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;La natation adaptee et ses categories de classification selon le handicap;la-natation-adaptee-et-ses-categories-de-classification-selon-le-handicap;2;oui;planned
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-et-handicap;Le rôle du sport dans la rehabilitation physique apres un accident ou une blessure;le-role-du-sport-dans-la-rehabilitation-physique-apres-un-accident-ou-une-blessure;2;oui;planned
