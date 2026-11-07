@@ -329,8 +329,18 @@ soixantaine de grammes pour une personne de 70 kilos.
 - Les lipides servent aussi de membrane cellulaire et transportent les vitamines A, D, E et K.
 - Neuf acides aminés sont essentiels : le corps ne sait pas les fabriquer.
 
-[Emplacement image : composition en macronutriments de quelques aliments courants, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: L'énergie apportée par gramme
+unite: kcal
+valeurs:
+  - label: Glucides
+    valeur: 4
+  - label: Protéines
+    valeur: 4
+  - label: Lipides
+    valeur: 9
+```
 
 ---
 
@@ -430,8 +440,18 @@ aliment par aliment.
 - La charge glycémique tient compte de la portion réellement mangée.
 - Cuisson et broyage augmentent l'index d'un même aliment.
 
-[Emplacement image : courbes de glycémie après un aliment à index élevé et un aliment à index
-bas, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Index ou charge glycémique
+colonnes:
+  - titre: Index glycémique
+    points:
+      - Compare un aliment au glucose pur, noté 100
+      - Mesuré sur 50 g de glucides
+  - titre: Charge glycémique
+    points:
+      - Tient compte de la portion réellement mangée
+```
 
 ---
 
@@ -528,8 +548,19 @@ propriétés. L'huile de colza se garde pour l'assaisonnement, pas pour la fritu
 - Le corps convertit très mal l'ALA en DHA.
 - Deux portions de poisson par semaine, dont un gras, couvrent les besoins.
 
-[Emplacement image : sources alimentaires d'oméga-3 et d'oméga-6, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les acides gras essentiels
+legende: Le corps ne sait pas les fabriquer.
+colonnes:
+  - titre: Oméga-6
+    points:
+      - Huiles végétales
+  - titre: Oméga-3
+    points:
+      - ALA végétal
+      - EPA et DHA des poissons gras
+```
 
 ---
 
@@ -626,8 +657,18 @@ une partie du cholestérol dans l'intestin.
 - Le LDL transporte, le HDL ramène. C'est l'équilibre entre les deux qui compte.
 - Graisses saturées et trans influencent plus le LDL que le cholestérol alimentaire.
 
-[Emplacement image : schéma simplifié du transport du cholestérol par LDL et HDL, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: D'où vient notre cholestérol
+unite: "%"
+valeurs:
+  - label: Fabriqué par le foie
+    valeur: 70
+    note: environ
+  - label: Apporté par l'alimentation
+    valeur: 30
+    note: environ
+```
 
 ---
 
@@ -720,8 +761,20 @@ Ces trois carences ont un point commun : elles coûtent très peu cher à corrig
 - A, D, E et K se stockent dans les graisses ; B et C s'éliminent dans l'urine.
 - Fer, vitamine A et iode restent les carences les plus répandues dans le monde.
 
-[Emplacement image : principales vitamines, leur rôle et leurs sources alimentaires, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux groupes de vitamines
+legende: Treize vitamines sont nécessaires au corps humain.
+colonnes:
+  - titre: Liposolubles
+    points:
+      - A, D, E, K
+      - Stockées dans les graisses
+  - titre: Hydrosolubles
+    points:
+      - C et groupe B
+      - Peu stockées
+```
 
 ---
 
@@ -820,8 +873,18 @@ produits de base comme la farine, et traiter les parasites intestinaux qui aggra
 - La vitamine C améliore l'absorption, le thé et le café la freinent.
 - La carence retentit sur le développement du cerveau chez le jeune enfant.
 
-[Emplacement image : comparaison des taux d'absorption du fer selon l'aliment, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux formes de fer
+colonnes:
+  - titre: Fer animal
+    points:
+      - Environ dix fois mieux absorbé
+  - titre: Fer végétal
+    points:
+      - Mieux absorbé avec de la vitamine C
+      - Gêné par le thé ou le café
+```
 
 ---
 
@@ -925,8 +988,19 @@ Le bénéfice est bien réel, mais il vient de l'aliment entier, pas d'une molé
 - Un fruit contient des centaines de composés qui agissent en synergie.
 - Miser sur les aliments, pas sur les gélules.
 
-[Emplacement image : comparaison entre un aliment entier et un complément isolé, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Antioxydants, compléments ou aliments
+colonnes:
+  - titre: Compléments isolés
+    points:
+      - Pas les bénéfices espérés dans les essais
+  - titre: Aliments entiers
+    icone: apple
+    points:
+      - Fruits et légumes
+      - Associés à une meilleure santé
+```
 
 ---
 
@@ -1031,8 +1105,18 @@ Et la cuisson, évidemment, détruit les lectines.
 - Les lectines crues irritent l'intestin : les haricots doivent être cuits.
 - Trempage, germination et fermentation réduisent les phytates.
 
-[Emplacement image : teneur en phytates de quelques aliments et effet du trempage, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Phytates et lectines
+colonnes:
+  - titre: Phytates
+    points:
+      - Retiennent fer, zinc et calcium
+      - Réduits par trempage et fermentation
+  - titre: Lectines
+    points:
+      - Détruites par la cuisson
+```
 
 ---
 
@@ -1124,8 +1208,15 @@ le sel du sang de façon dangereuse. Des cas sérieux ont été observés lors d
 - Les aliments fournissent 20 à 30 % de ces apports.
 - Une perte de 2 % du poids corporel dégrade déjà la concentration.
 
-[Emplacement image : teneur en eau de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'eau et le corps
+chiffres:
+  - valeur: 60 %
+    texte: du corps adulte est de l'eau, environ
+  - valeur: 2 à 2,5 L
+    texte: de besoins totaux par jour, aliments compris
+```
 
 ---
 
@@ -1219,8 +1310,17 @@ il faut boire, car les fibres n'agissent qu'en retenant de l'eau.
 - Les bactéries du côlon les fermentent et en tirent du butyrate.
 - Objectif d'environ 30 grammes par jour, à atteindre progressivement.
 
-[Emplacement image : teneur en fibres de quelques aliments courants, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux familles de fibres
+colonnes:
+  - titre: Solubles
+    points:
+      - Forment un gel
+  - titre: Insolubles
+    points:
+      - Accélèrent le transit
+```
 
 ---
 
@@ -1325,8 +1425,17 @@ manque de sommeil appauvrissent le microbiote.
 - Il fabrique des vitamines et régule notre immunité.
 - La diversité végétale est la meilleure façon de le nourrir.
 
-[Emplacement image : répartition des principales familles de bactéries du microbiote intestinal,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le microbiote intestinal
+legende: Environ 100 000 milliards de micro-organismes.
+centre: Microbiote
+parties:
+  - nom: Digère les fibres
+  - nom: Produit du butyrate
+    role: Pour la paroi intestinale.
+  - nom: Protège contre les pathogènes
+```
 
 ---
 
@@ -1426,8 +1535,18 @@ qui ont leurs propres effets. Et ils coûtent moins cher.
 - Les preuves les plus solides concernent les diarrhées.
 - Les aliments fermentés combinent probiotiques, prébiotiques et métabolites.
 
-[Emplacement image : sources alimentaires de probiotiques et de prébiotiques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Probiotiques ou prébiotiques
+colonnes:
+  - titre: Probiotiques
+    points:
+      - Des microbes vivants
+      - Effets propres à chaque souche
+  - titre: Prébiotiques
+    points:
+      - La nourriture de ces microbes
+```
 
 ---
 
@@ -1524,8 +1643,22 @@ C'est l'ensemble de l'alimentation, répété pendant des années, qui compte.
 - Les jus de fruits comptent comme des boissons sucrées.
 - C'est l'ensemble de l'alimentation qui compte, pas un aliment isolé.
 
-[Emplacement image : repères alimentaires principaux, à augmenter et à réduire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les repères nutritionnels
+colonnes:
+  - titre: À augmenter
+    icone: leaf
+    points:
+      - Légumineuses
+      - Fruits et légumes
+      - Céréales complètes
+      - Fruits à coque
+  - titre: À réduire
+    points:
+      - Charcuterie
+      - Viande hors volaille
+```
 
 ---
 
@@ -1623,8 +1756,27 @@ recettes pour gagner une lettre.
 - Il n'évalue ni la transformation, ni les additifs, ni l'environnement.
 - Son affichage est volontaire, ce qui favorise les produits bien notés.
 
-[Emplacement image : calcul simplifié du Nutri-Score sur un produit courant, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: Le Nutri-Score
+legende: Il compare des produits d'une même famille, pour 100 grammes.
+unite: ""
+min: 0
+max: 5
+zones:
+  - de: 0
+    a: 2
+    label: A et B, meilleure qualité nutritionnelle
+    ton: normal
+  - de: 2
+    a: 3
+    label: C
+    ton: attention
+  - de: 3
+    a: 5
+    label: D et E, moins bonne qualité
+    ton: danger
+```
 
 ---
 
@@ -1736,8 +1888,19 @@ restent consommables longtemps après.
 - Les additifs sont codés de E100 à E499 selon leur fonction.
 - Les deux types de dates n'ont pas du tout la même signification.
 
-[Emplacement image : étiquette alimentaire annotée avec les zones à regarder, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Lire une étiquette
+centre: Étiquette
+parties:
+  - nom: Ingrédients
+    role: Du plus abondant au moins abondant.
+  - nom: Tableau nutritionnel
+    role: Pour 100 grammes.
+  - nom: Additifs
+  - nom: Allégations
+  - nom: Dates
+```
 
 ---
 
@@ -1842,8 +2005,16 @@ l'information circule en quelques heures pour retirer les lots concernés.
 - Les microbes sont de loin la cause la plus fréquente.
 - L'évaluation scientifique du risque est séparée de sa gestion politique.
 
-[Emplacement image : les trois familles de contaminants et leurs principales sources, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les dangers d'un aliment
+legende: Environ 600 millions de cas de maladies alimentaires par an dans le monde.
+centre: Aliment
+parties:
+  - nom: Microbiologiques
+  - nom: Chimiques
+  - nom: Physiques
+```
 
 ---
 
@@ -1943,8 +2114,27 @@ moyen de transport des microbes dans une cuisine.
 - Le froid endort les bactéries, il ne les tue pas.
 - Listeria se multiplie même dans un réfrigérateur.
 
-[Emplacement image : échelle de température et vitesse de multiplication des bactéries, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: La zone de danger des aliments
+legende: Une population de bactéries peut doubler toutes les vingt minutes.
+unite: °C
+min: -20
+max: 75
+zones:
+  - de: -20
+    a: 4
+    label: Froid, les bactéries ralentissent
+    ton: info
+  - de: 4
+    a: 60
+    label: Zone de danger
+    ton: danger
+  - de: 60
+    a: 75
+    label: Chaud, les bactéries sont détruites
+    ton: normal
+```
 
 ---
 
@@ -2045,8 +2235,17 @@ ambiante. Réfrigérer rapidement les restes. Laver les fruits et légumes, mêm
 - Les symptômes apparaissent en quelques heures à quelques jours.
 - Lavage des mains, cuisson à cœur et réfrigération rapide sont les clés de la prévention.
 
-[Emplacement image : principaux microbes responsables d'intoxications alimentaires et leurs
-aliments associés, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Face à une intoxication alimentaire
+elements:
+  - titre: Boire
+    texte: Le risque principal est la déshydratation.
+    icone: droplet
+  - titre: Surveiller
+  - titre: Consulter si besoin
+    texte: Enfants, personnes âgées, signes graves.
+```
 
 ---
 
@@ -2155,8 +2354,15 @@ croisées sont possibles.
 - Les effets des mélanges de pesticides sont mal connus.
 - Laver et éplucher réduit l'exposition ; le bio la réduit davantage.
 
-[Emplacement image : taux de dépassement des LMR pour quelques fruits et légumes courants,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Réduire son exposition aux pesticides
+centre: Pesticides
+parties:
+  - nom: Laver et éplucher
+  - nom: Varier
+  - nom: Choisir des produits issus de l'agriculture biologique
+```
 
 ---
 
@@ -2255,8 +2461,16 @@ problème.
 - Femmes enceintes et jeunes enfants doivent éviter espadon, requin et thon.
 - Sardine, maquereau et hareng sont riches en oméga-3 et pauvres en mercure.
 
-[Emplacement image : échelle de concentration en mercure des principaux poissons consommés,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: L'accumulation du mercure dans la chaîne marine
+niveaux:
+  - titre: Grands prédateurs
+    texte: Dix à cent fois plus de mercure.
+  - titre: Poissons moyens
+  - titre: Petits poissons
+  - titre: Plancton
+```
 
 ---
 
@@ -2362,8 +2576,18 @@ Ne pas consommer d'arachides ou de fruits secs qui ont un goût amer ou une odeu
 - Le risque dépend surtout des conditions de stockage.
 - Les mycotoxines résistent souvent à la cuisson : jeter les produits moisis.
 
-[Emplacement image : principaux aliments à risque de mycotoxines et conditions de stockage
-recommandées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les mycotoxines
+centre: Moisissures
+parties:
+  - nom: Aflatoxines
+    role: Cancérigènes, elles attaquent le foie.
+  - nom: Conditions
+    role: Chaleur et humidité.
+  - nom: Prévention
+    role: Stocker au sec, jeter les aliments moisis.
+```
 
 ---
 
@@ -2475,8 +2699,16 @@ préparés, les conserves, et privilégier le bio et le frais.
 - Les effets des faibles doses et des mélanges sont mal connus.
 - Ne pas chauffer d'aliments dans du plastique est le geste le plus simple.
 
-[Emplacement image : principales sources de perturbateurs endocriniens dans l'alimentation,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les perturbateurs endocriniens
+centre: Système hormonal
+parties:
+  - nom: Emballages plastiques
+  - nom: Certains pesticides
+  - nom: Réduire l'exposition
+    role: Ne pas chauffer le plastique, varier.
+```
 
 ---
 
@@ -2587,8 +2819,19 @@ Les plans de travail doivent être nettoyés après chaque manipulation d'alimen
 - Cuire à cœur viandes hachées, volaille, œufs et poissons.
 - Ne pas laisser un plat plus de deux heures à température ambiante.
 
-[Emplacement image : les cinq gestes clés de l'hygiène en cuisine, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les règles d'hygiène en cuisine
+elements:
+  - titre: Se laver les mains
+    texte: 20 secondes au savon.
+  - titre: Séparer le cru du cuit
+  - titre: Bien cuire
+    icone: fire
+  - titre: Garder au froid
+    icone: snowflake
+  - titre: Nettoyer
+```
 
 ---
 
@@ -2689,8 +2932,19 @@ lentilles et riz en Inde.
 - Les oméga 3 à longue chaîne sont le point le plus difficile à couvrir.
 - Céréales et légumineuses ont des acides aminés complémentaires.
 
-[Emplacement image : complémentarité des acides aminés entre céréales et légumineuses, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les points de vigilance du régime végétal
+centre: Régime végétalien
+icone: leaf
+parties:
+  - nom: Vitamine B12
+    role: Un complément indispensable.
+  - nom: Fer et zinc
+    role: Mal absorbés, mais l'absorption peut s'améliorer.
+  - nom: Protéines
+    role: En combinant les sources.
+```
 
 ---
 
@@ -2791,8 +3045,20 @@ pour manger normalement, plus assez pour être diagnostiqués.
 - La maladie cœliaque est auto-immune et détruit la paroi de l'intestin.
 - Il faut se faire diagnostiquer avant de supprimer le gluten.
 
-[Emplacement image : paroi intestinale saine et paroi aplatie par la maladie cœliaque, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux troubles à ne pas confondre
+colonnes:
+  - titre: Intolérance au lactose
+    points:
+      - Manque d'enzyme
+      - Sans lésion
+      - Dépend de la dose
+  - titre: Maladie cœliaque
+    points:
+      - Réaction au gluten
+      - Lésions de l'intestin
+```
 
 ---
 
@@ -2901,8 +3167,16 @@ Et accepter que le changement soit progressif : c'est un modèle de vie, pas une
 - L'huile d'olive est le principal corps gras.
 - Remplacer progressivement, sans supprimer.
 
-[Emplacement image : pyramide alimentaire du régime méditerranéen, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le modèle méditerranéen
+centre: Régime méditerranéen
+parties:
+  - nom: Légumes, fruits, légumineuses
+  - nom: Huile d'olive
+  - nom: Poisson
+  - nom: Peu de viande rouge
+```
 
 ---
 
@@ -3010,8 +3284,18 @@ fonctionne pas si l'on mange le double pendant les heures autorisées.
 - Le jeûne induit un basculement métabolique vers les graisses.
 - Ce n'est pas recommandé pour tout le monde : grossesse, diabète, troubles alimentaires.
 
-[Emplacement image : schéma du protocole 16:8 sur une journée, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Le jeûne intermittent 16:8
+colonnes:
+  - titre: Le protocole
+    points:
+      - 16 heures sans manger
+      - 8 heures pour les repas
+  - titre: Ce qu'il fait
+    points:
+      - La perte de poids vient surtout de la réduction des apports
+```
 
 ---
 
@@ -3126,8 +3410,19 @@ premières et en augmentant les seconds, est probablement l'action la plus effic
 - Oméga-3, polyphénols et fibres la réduisent.
 - Le régime méditerranéen est le modèle le mieux validé.
 
-[Emplacement image : aliments pro-inflammatoires et anti-inflammatoires, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce qui attise ou calme l'inflammation
+colonnes:
+  - titre: Attisent
+    points:
+      - Graisses saturées et trans
+      - Sucres rapides
+  - titre: Calment
+    points:
+      - Fruits et légumes
+      - Oméga-3
+```
 
 ---
 
@@ -3230,8 +3525,14 @@ Et l'effet n'est pas garanti : environ un quart des patients ne répondent pas.
 - Il ne doit pas durer : la restriction prolongée appauvrit le microbiote.
 - Un encadrement par un professionnel est recommandé.
 
-[Emplacement image : les trois phases du régime low-FODMAP, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les trois phases du régime low-FODMAP
+elements:
+  - titre: Éviction
+  - titre: Réintroduction
+  - titre: Personnalisation
+```
 
 ---
 
@@ -3339,8 +3640,18 @@ Le reste — BCAA, glutamine, testostérone boosters — est soit inutile, soit 
 - Répartir les protéines sur la journée, pas en une seule dose.
 - La caféine et la créatine sont les seuls compléments vraiment efficaces.
 
-[Emplacement image : répartition des apports nutritionnels chez un sportif d'endurance, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'alimentation du sportif
+centre: Sportif
+icone: dumbbell
+parties:
+  - nom: Glucides
+    role: 50 à 65 % des apports.
+  - nom: Protéines
+    role: 1,5 à 1,8 g par kilo et par jour en endurance.
+  - nom: Hydratation
+```
 
 ---
 
@@ -3449,8 +3760,19 @@ Et surtout, régularité : manger à heures fixes aide à synchroniser l'horloge
 - Le manque de sommeil augmente la faim et les envies de sucré.
 - Dîner léger et tôt, et garder des horaires réguliers.
 
-[Emplacement image : aliments qui favorisent ou perturbent le sommeil, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce qui aide ou perturbe le sommeil
+colonnes:
+  - titre: Aide
+    points:
+      - Le tryptophane, précurseur de la mélatonine
+  - titre: Perturbe
+    points:
+      - Repas gras
+      - Alcool
+      - Caféine
+```
 
 ---
 
@@ -3559,8 +3881,13 @@ alimentation qu'on ne suit pas n'a aucun effet.
 - L'inflammation et le microbiote sont les mécanismes les plus probablement impliqués.
 - Les oméga-3, à dose suffisante, ont le meilleur niveau de preuve.
 
-[Emplacement image : liens entre alimentation, inflammation, microbiote et santé mentale,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Alimentation et santé mentale
+chiffres:
+  - valeur: "+22 %"
+    texte: de risque de dépression associé aux ultra-transformés
+```
 
 ---
 
@@ -3660,8 +3987,17 @@ Et le fer peut manquer, surtout si l'alimentation est peu variée.
 - Les besoins en protéines augmentent avec l'âge : 1 à 1,2 g/kg/jour.
 - Vitamine B12, vitamine D et calcium sont les carences les plus fréquentes.
 
-[Emplacement image : principaux nutriments à surveiller après 60 ans et leurs sources, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Bien vieillir à table
+centre: Vieillissement
+parties:
+  - nom: Végétaux
+    role: Ils ralentissent les maladies chroniques.
+  - nom: Protéines
+    role: Souvent insuffisantes.
+  - nom: Carences à surveiller
+```
 
 ---
 
@@ -3765,8 +4101,18 @@ Et limiter les grands prédateurs marins — thon, espadon, requin — à cause 
 - Éviter fromages au lait cru, charcuteries et poissons fumés à cause de Listeria.
 - Bien cuire la viande pour éviter la toxoplasmose.
 
-[Emplacement image : aliments recommandés et déconseillés pendant la grossesse, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Calories supplémentaires pendant la grossesse
+unite: kcal/jour
+valeurs:
+  - label: Premier trimestre
+    valeur: 0
+  - label: Deuxième trimestre
+    valeur: 340
+  - label: Troisième trimestre
+    valeur: 450
+```
 
 ---
 
@@ -3872,8 +4218,17 @@ les mangera plus volontiers.
 - Les parents décident quoi, quand et où ; l'enfant décide s'il mange.
 - Répéter sans forcer : un aliment peut être refusé dix fois avant d'être accepté.
 
-[Emplacement image : assiette équilibrée pour un enfant de 4 à 11 ans, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères pour les enfants
+chiffres:
+  - valeur: 4 à 6 mois
+    texte: début de la diversification, un aliment à la fois
+  - valeur: 5
+    texte: fruits et légumes par jour
+  - valeur: 3
+    texte: produits laitiers par jour
+```
 
 ---
 
@@ -3985,8 +4340,19 @@ d'éviction puis de réintroduction.
 - L'allergie survient à des doses infimes, l'intolérance dépend de la dose.
 - Ne pas confondre les deux : les précautions ne sont pas les mêmes.
 
-[Emplacement image : comparaison des mécanismes de l'allergie et de l'intolérance, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Allergie ou intolérance
+colonnes:
+  - titre: Allergie
+    points:
+      - Implique le système immunitaire
+      - Peut être mortelle
+  - titre: Intolérance
+    points:
+      - Sans réaction immunitaire
+      - Rarement grave
+```
 
 ---
 
@@ -4091,8 +4457,18 @@ dangereuses ne peuvent pas se développer. Cornichons, choucroute et yaourt en v
 - Sel, sucre et séchage privent les microbes d'eau.
 - Le vide d'air et l'acidité complètent l'arsenal.
 
-[Emplacement image : principales techniques de conservation et durée obtenue, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les grandes familles de conservation
+centre: Conserver
+parties:
+  - nom: Froid
+    role: 0 à 4 °C, ou -18 °C et moins.
+  - nom: Chaleur
+    role: Pasteurisation, stérilisation.
+  - nom: Retirer l'eau
+  - nom: Air et acidité
+```
 
 ---
 
@@ -4190,8 +4566,18 @@ le produit. Le conditionnement doit alors se faire dans un environnement stéril
 - L'acidité empêche la germination des spores les plus dangereuses.
 - L'UHT chauffe très fort mais très brièvement.
 
-[Emplacement image : autoclave industriel et courbe de température d'une stérilisation, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Aliments acides et peu acides
+legende: Appert invente la conserve vers 1795.
+colonnes:
+  - titre: Acides
+    points:
+      - Traitement plus doux suffisant
+  - titre: Peu acides
+    points:
+      - Barème de stérilisation strict
+```
 
 ---
 
@@ -4297,8 +4683,19 @@ disparaître des maladies comme la tuberculose bovine et la brucellose transmise
 - UHT : 140 degrés quelques secondes, même sécurité, moins d'altération.
 - Ces traitements dégradent certaines vitamines mais assurent une sécurité sanitaire majeure.
 
-[Emplacement image : courbes de température comparées de la pasteurisation, de la stérilisation
-et de l'UHT, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Pasteurisation ou stérilisation
+colonnes:
+  - titre: Pasteurisation
+    points:
+      - Environ 72 °C
+      - Détruit les bactéries, pas les spores
+  - titre: Stérilisation
+    points:
+      - 121 °C
+      - Détruit aussi les spores
+```
 
 ---
 
@@ -4404,8 +4801,18 @@ trop longues. Les aliments fumés doivent rester occasionnels.
 - Le fumage traditionnel produit des HAP cancérigènes.
 - Les arômes de fumée purifiés évitent ce risque, sans la même tradition.
 
-[Emplacement image : comparaison du séchage et du fumage, et leurs effets sur la conservation,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Séchage et fumage
+colonnes:
+  - titre: Séchage
+    points:
+      - Retire l'eau nécessaire aux microbes
+  - titre: Fumage
+    points:
+      - Ajoute des composés antimicrobiens
+      - Attention aux HAP du fumage traditionnel
+```
 
 ---
 
@@ -4510,8 +4917,19 @@ depuis 2025.
 - Les emballages actifs libèrent ou absorbent des substances.
 - Ne pas chauffer les aliments dans leur emballage plastique.
 
-[Emplacement image : comparaison des emballages sous vide, sous atmosphère modifiée et actifs,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les emballages qui conservent
+centre: Emballage
+parties:
+  - nom: Sous vide
+    role: Retire l'oxygène.
+  - nom: Atmosphère modifiée
+    role: Azote et CO2.
+  - nom: Emballages actifs
+  - nom: Migration
+    role: Des substances peuvent passer dans l'aliment.
+```
 
 ---
 
@@ -4612,8 +5030,20 @@ recherches actives.
 - Lactique : bactéries, sucre vers acide lactique.
 - L'acidité produite conserve l'aliment et le protège des microbes dangereux.
 
-[Emplacement image : trois types de fermentation et les aliments qui en découlent, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois fermentations
+colonnes:
+  - titre: Alcoolique
+    points:
+      - Levures, sucre vers alcool et gaz carbonique
+  - titre: Lactique
+    points:
+      - Bactéries lactiques, sucre vers acide lactique
+  - titre: Acétique
+    points:
+      - Alcool vers vinaigre
+```
 
 ---
 
@@ -4710,8 +5140,19 @@ conduit au frais une note plus vinaigrée.
 - L'acidité améliore goût, conservation et absorption des minéraux.
 - La lenteur de la fermentation développe les arômes.
 
-[Emplacement image : mie de pain au levain avec son alvéolage irrégulier, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le levain
+centre: Levain
+icone: wheat
+parties:
+  - nom: Levures sauvages
+    role: Elles font lever la pâte.
+  - nom: Bactéries lactiques
+    role: Elles acidifient.
+  - nom: Le temps
+    role: Un ingrédient à part entière.
+```
 
 ---
 
@@ -4815,8 +5256,16 @@ bioactifs — qui ont leurs propres effets sur la santé.
 - Le miso et la sauce soja sont riches en umami.
 - Les aliments fermentés apportent probiotiques, meilleure digestibilité et métabolites.
 
-[Emplacement image : panel d'aliments fermentés du monde entier, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Des aliments fermentés du monde
+centre: Fermentation
+parties:
+  - nom: Kéfir
+  - nom: Kimchi
+  - nom: Miso et sauce soja
+  - nom: Tempeh
+```
 
 ---
 
@@ -4917,8 +5366,19 @@ fibres intactes ? Plusieurs hypothèses coexistent.
 - Un essai contrôlé a mesuré 500 kilocalories de plus par jour avec ces produits.
 - Le mécanisme exact de cet effet reste à déterminer.
 
-[Emplacement image : les quatre groupes NOVA illustrés par des exemples, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les quatre groupes NOVA
+niveaux:
+  - titre: Groupe 4
+    texte: Aliments ultra-transformés.
+  - titre: Groupe 3
+    texte: Aliments transformés.
+  - titre: Groupe 2
+    texte: Ingrédients culinaires.
+  - titre: Groupe 1
+    texte: Aliments bruts ou peu transformés.
+```
 
 ---
 
@@ -5028,8 +5488,16 @@ bruts, et de lire les étiquettes pour repérer les listes d'ingrédients interm
 - Les nitrites de la charcuterie sont particulièrement discutés.
 - Cuisiner soi-même réduit fortement l'exposition aux additifs.
 
-[Emplacement image : principales catégories d'additifs et leurs codes E, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les codes des additifs
+centre: E100 à E499
+parties:
+  - nom: Colorants
+  - nom: Conservateurs
+  - nom: Antioxydants
+  - nom: Épaississants
+```
 
 ---
 
@@ -5144,8 +5612,16 @@ recourir à des substituts qui entretiennent le goût pour le sucré.
 - Les mécanismes suspectés : perturbation de l'appétit, du microbiote, de l'insuline.
 - Réduire le sucre vaut mieux que le remplacer par des édulcorants.
 
-[Emplacement image : pouvoir sucrant et usages des principaux édulcorants, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les édulcorants
+centre: Édulcorants
+parties:
+  - nom: Poids
+    role: Pas de perte de poids dans les essais contrôlés.
+  - nom: Aspartame
+    role: Classé peut-être cancérigène.
+```
 
 ---
 
@@ -5257,8 +5733,18 @@ tournesol réduit la demande. Et soutenir les filières durables, malgré leurs 
 - Son expansion est liée à la déforestation en Asie du Sud-Est.
 - Réduire les ultra-transformés réduit mécaniquement sa consommation.
 
-[Emplacement image : produits contenant de l'huile de palme et alternatives, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'huile de palme
+centre: Huile de palme
+parties:
+  - nom: Santé
+    role: Environ 50 % d'acides gras saturés.
+  - nom: Ultra-transformés
+    role: Elle y est omniprésente.
+  - nom: Environnement
+    role: Son expansion menace les forêts.
+```
 
 ---
 
@@ -5360,8 +5846,15 @@ permettent d'obtenir les mêmes propriétés technologiques sans graisses trans.
 - L'hydrogénation partielle est leur principale source.
 - Des alternatives existent, et de nombreux pays les ont interdites.
 
-[Emplacement image : sources de graisses trans et aliments à éviter, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les graisses trans industrielles
+chiffres:
+  - valeur: LDL ↑ HDL ↓
+    texte: elles augmentent le mauvais cholestérol et baissent le bon
+  - valeur: "+34 %"
+    texte: de risque de décès associé
+```
 
 ---
 
@@ -5468,8 +5961,17 @@ en quelques semaines.
 - « Sans sucres ajoutés » ne signifie pas « sans sucre ».
 - Lire les étiquettes est le seul moyen de le repérer.
 
-[Emplacement image : exemples de produits salés contenant du sucre ajouté et alternatives,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le sucre caché
+centre: Sucre ajouté
+parties:
+  - nom: Aliments salés
+    role: Ajouté pour des raisons technologiques.
+  - nom: Dizaines de noms
+    role: Sirop, dextrose, maltose.
+  - nom: Allégations trompeuses
+```
 
 ---
 
@@ -5572,8 +6074,15 @@ Et attention aux eaux minérales gazeuses riches en sodium.
 - L'excès de sel augmente la tension artérielle et le risque cardiovasculaire.
 - Lire les étiquettes et cuisiner soi-même sont les meilleurs leviers.
 
-[Emplacement image : teneur en sel de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le sel caché
+chiffres:
+  - valeur: 80 %
+    texte: du sel consommé vient des aliments transformés
+  - valeur: Le pain
+    texte: première source dans de nombreux pays
+```
 
 ---
 
@@ -5690,8 +6199,20 @@ naturels.
 - Certains extraits de plantes sont dangereux pour le foie.
 - Ne pas prendre de compléments sans raison médicale.
 
-[Emplacement image : compléments utiles et compléments à risque, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les compléments alimentaires
+colonnes:
+  - titre: Souvent utiles
+    points:
+      - Vitamine D
+      - Vitamine B12
+      - Acide folique avant et pendant la grossesse
+  - titre: Le problème
+    points:
+      - Un marché peu encadré
+      - L'efficacité n'est pas exigée
+```
 
 ---
 
@@ -5798,8 +6319,15 @@ soja importé.
 - L'EFSA a autorisé plusieurs espèces en Europe.
 - L'obstacle culturel reste majeur, mais les farines et produits transformés le réduisent.
 
-[Emplacement image : insectes comestibles autorisés en Europe et leur teneur en protéines,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les insectes comestibles
+chiffres:
+  - valeur: 2 milliards
+    texte: de personnes en mangent déjà
+  - valeur: 12 à 25 fois
+    texte: plus efficaces pour produire des protéines, selon l'article
+```
 
 ---
 
@@ -5900,8 +6428,19 @@ et économiques ont conduit certaines à réduire leurs ambitions.
 - Le coût et la consommation d'énergie restent des obstacles majeurs.
 - L'acceptation par les consommateurs est incertaine.
 
-[Emplacement image : schéma du processus de production de viande cultivée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La viande cultivée
+colonnes:
+  - titre: Promesses
+    points:
+      - Produite à partir de cellules, sans élevage
+      - Moins de terres utilisées
+  - titre: Défis
+    points:
+      - Coût
+      - Production à grande échelle
+```
 
 ---
 
@@ -6008,8 +6547,18 @@ marché.
 - Leur culture ne nécessite ni engrais, ni eau douce, ni terres agricoles.
 - Attention à la teneur en iode de certaines espèces.
 
-[Emplacement image : principales algues comestibles et leur teneur en protéines, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les atouts des algues
+centre: Algues
+icone: wave
+parties:
+  - nom: Protéines
+    role: La spiruline en contient plus de 60 %.
+  - nom: Minéraux et oméga-3
+  - nom: Culture sobre
+    role: Sans terre agricole.
+```
 
 ---
 
@@ -6116,8 +6665,19 @@ une alternative rapide aux pâtes de blé.
 - Leur empreinte carbone est très faible.
 - Elles sont bon marché et faciles à intégrer.
 
-[Emplacement image : principales légumineuses et leur teneur en protéines, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les atouts des légumineuses
+centre: Légumineuses
+icone: leaf
+parties:
+  - nom: Protéines
+    role: 20 à 40 %.
+  - nom: Azote
+    role: Elles enrichissent les sols.
+  - nom: Climat
+    role: Une empreinte carbone très faible.
+```
 
 ---
 
@@ -6233,8 +6793,21 @@ Et ne pas préparer les légumes à l'avance : les vitamines s'oxydent au contac
 - La vapeur et le micro-ondes sont les méthodes les plus respectueuses.
 - Cuire court, avec peu d'eau, et réutiliser l'eau de cuisson.
 
-[Emplacement image : pertes en vitamine C selon les méthodes de cuisson, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce que la cuisson fait aux nutriments
+colonnes:
+  - titre: Détruits
+    points:
+      - Vitamine C
+      - Folates
+  - titre: Lessivés
+    points:
+      - Les minéraux passent dans l'eau de cuisson
+  - titre: Méthodes douces
+    points:
+      - Vapeur
+```
 
 ---
 
@@ -6335,8 +6908,18 @@ La saisonnalité compte, en revanche, lorsqu'elle évite de chauffer une serre.
 - Le bœuf émet environ cent fois plus que les lentilles au kilo.
 - Transport et emballage pèsent bien moins que la production elle-même.
 
-[Emplacement image : émissions comparées de grandes catégories d'aliments, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'assiette et le climat
+legende: L'alimentation pèse un quart à un tiers des émissions mondiales.
+centre: Émissions de l'alimentation
+parties:
+  - nom: CO2
+  - nom: Méthane
+    role: Surtout l'élevage de ruminants.
+  - nom: Protoxyde d'azote
+    role: Surtout les engrais.
+```
 
 ---
 
@@ -6442,8 +7025,16 @@ Changer de régime alimentaire peut réduire l'empreinte hydrique de 20 à 30 %.
 - L'eau virtuelle circule entre les pays via le commerce.
 - Le contenu de l'assiette pèse plus que les gestes domestiques.
 
-[Emplacement image : empreinte eau de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: barres
+titre: L'eau virtuelle d'un kilo d'aliment
+unite: L
+valeurs:
+  - label: Bœuf
+    valeur: 15000
+  - label: Blé
+    valeur: 1500
+```
 
 ---
 
@@ -6547,8 +7138,18 @@ animaux, bio ou non.
 - Les différences nutritionnelles sont modestes.
 - Le bio est utile pour certains fruits et légumes, mais ce n'est pas le principal levier.
 
-[Emplacement image : comparaison des impacts de l'agriculture biologique et conventionnelle,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'agriculture biologique
+colonnes:
+  - titre: Avantages
+    points:
+      - Pas de pesticides de synthèse
+      - Biodiversité mieux préservée
+  - titre: Limites
+    points:
+      - Rendements inférieurs d'environ 25 %
+```
 
 ---
 
@@ -6661,8 +7262,18 @@ sociaux.
 - Les circuits courts ont surtout des avantages économiques et sociaux.
 - Réduire la viande est plus efficace que manger local.
 
-[Emplacement image : part du transport dans l'empreinte carbone alimentaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: D'où viennent les émissions d'un aliment moyen
+unite: "%"
+valeurs:
+  - label: Production agricole
+    valeur: 85
+    note: 80 à 90 %
+  - label: Transport
+    valeur: 5
+    note: moins de
+```
 
 ---
 
@@ -6769,8 +7380,18 @@ plus acheter de fraises en décembre. Et découvrir de nouveaux légumes.
 - Certains se conservent naturellement et peuvent être mangés toute l'année.
 - Se concentrer sur quelques produits clés, comme la tomate en hiver.
 
-[Emplacement image : calendrier des fruits et légumes de saison, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: De saison ou hors saison
+colonnes:
+  - titre: De saison
+    points:
+      - Plus de goût
+      - Plus de nutriments
+  - titre: Hors saison
+    points:
+      - Serre chauffée ou importation
+```
 
 ---
 
@@ -6874,8 +7495,20 @@ renoncer à rien.
 - La confusion entre les deux types de dates fait jeter des produits sains.
 - Pertes et gaspillage représentent 8 à 10 % des émissions mondiales.
 
-[Emplacement image : répartition des pertes alimentaires selon l'étape de la chaîne, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Perte ou gaspillage
+legende: Environ un tiers de la nourriture produite n'est jamais consommée.
+colonnes:
+  - titre: Pertes
+    points:
+      - En amont, pendant la production et le stockage
+      - Surtout dans les pays pauvres
+  - titre: Gaspillage
+    points:
+      - En aval, dans les magasins et les foyers
+      - Surtout dans les pays riches
+```
 
 ---
 
@@ -6981,8 +7614,17 @@ Et soutenir les initiatives de traçabilité, malgré leurs limites actuelles.
 - Les labels de durabilité peinent à enrayer le phénomène.
 - Réduire les ultra-transformés réduit la demande d'huile de palme.
 
-[Emplacement image : évolution de la déforestation en Indonésie et Malaisie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Palmeraies et déforestation
+elements:
+  - titre: Expansion des palmeraies
+    texte: En Asie du Sud-Est.
+  - titre: Forêts abattues
+    icone: tree
+  - titre: Espèces menacées
+  - titre: Carbone libéré
+```
 
 ---
 
@@ -7092,8 +7734,18 @@ Et varier les espèces : la monoculture de consommation crée une pression sur q
 - Les labels ne couvrent qu'une fraction de la production.
 - Privilégier sardine, maquereau et hareng, riches en oméga-3 et durables.
 
-[Emplacement image : labels de pêche durable et espèces recommandées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les labels de la pêche
+legende: Un tiers des stocks mondiaux est surexploité.
+colonnes:
+  - titre: MSC
+    points:
+      - Pêcheries durables
+  - titre: ASC
+    points:
+      - Aquaculture
+```
 
 ---
 
@@ -7200,8 +7852,15 @@ pratiques.
 - Les conditions d'élevage influencent la qualité nutritionnelle.
 - Réduire sa consommation permet de financer des produits de meilleure qualité.
 
-[Emplacement image : labels et pratiques d'élevage, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Le bien-être animal
+centre: Animal d'élevage
+parties:
+  - nom: État physique
+  - nom: État mental
+  - nom: Conditions d'élevage
+```
 
 ---
 
@@ -7313,8 +7972,15 @@ Et certaines études remettent en question le potentiel de stockage de carbone �
 - Elle peut stocker du carbone et améliorer la résilience.
 - Le concept reste flou, sans définition officielle.
 
-[Emplacement image : comparaison de sols en agriculture conventionnelle et régénératrice,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les principes de l'agriculture régénératrice
+centre: Santé des sols
+parties:
+  - nom: Non-labour
+  - nom: Couvertures végétales
+  - nom: Rotation
+```
 
 ---
 
@@ -7427,8 +8093,18 @@ Et la vaccination, qui reste la meilleure protection contre les maladies infecti
 - Les compléments ne sont utiles qu'en cas de carence.
 - Alimentation, sommeil, activité physique et vaccination sont les piliers.
 
-[Emplacement image : aliments riches en nutriments essentiels au système immunitaire, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments clés de l'immunité
+legende: L'immunité ne se booste pas, on évite de l'affaiblir.
+centre: Immunité
+icone: shield
+parties:
+  - nom: Vitamine C
+  - nom: Vitamine D
+  - nom: Zinc
+  - nom: Protéines
+```
 
 ---
 
@@ -7539,8 +8215,17 @@ Et limiter les sucres rapides et les laitages si l'on a de l'acné.
 - Le régime méditerranéen améliore l'acné et le vieillissement cutané.
 - La glycation des protéines par le sucre accélère le vieillissement de la peau.
 
-[Emplacement image : aliments bénéfiques pour la peau, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: La peau et l'alimentation
+centre: Peau
+parties:
+  - nom: Vitamine C
+  - nom: Zinc
+  - nom: Oméga-3
+  - nom: Acné
+    role: Aggravée par les sucres rapides et les laitages.
+```
 
 ---
 
@@ -7645,8 +8330,18 @@ la tension et de la glycémie.
 - Les légumes verts et les poissons gras sont les aliments clés.
 - Le tabac et les UV sont des facteurs de risque majeurs.
 
-[Emplacement image : aliments protecteurs pour la vue, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments de la vue
+centre: Œil
+icone: eye
+parties:
+  - nom: Lutéine et zéaxanthine
+    role: Le pigment maculaire protecteur.
+  - nom: Oméga-3
+    role: Moins de risque de DMLA.
+  - nom: Légumes verts
+```
 
 ---
 
@@ -7768,8 +8463,18 @@ musculation — qui stimulent la formation osseuse.
 - Vitamine K et magnésium jouent aussi un rôle.
 - L'activité physique est indispensable.
 
-[Emplacement image : aliments pour la santé osseuse, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments des os
+centre: Os
+parties:
+  - nom: Calcium
+  - nom: Vitamine D
+  - nom: Protéines
+    role: La matrice où se dépose le calcium.
+  - nom: Vitamine K
+  - nom: Magnésium
+```
 
 ---
 
@@ -7883,8 +8588,19 @@ Il vaut mieux les consommer avec une paille, et ne pas se brosser les dents imm�
 - Le fluor renforce l'émail et réduit le risque.
 - Le fromage et les fruits crus ont un effet protecteur.
 
-[Emplacement image : effet des aliments sur le pH de la plaque dentaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les dents et l'alimentation
+centre: Dents
+parties:
+  - nom: Sucre
+    role: Le principal facteur des caries.
+  - nom: Fréquence
+    role: Elle compte autant que la quantité.
+  - nom: Fluor
+    role: Il renforce l'émail.
+  - nom: Boissons acides
+```
 
 ---
 
@@ -7990,8 +8706,15 @@ stress, médicaments, maladies thyroïdiennes. L'alimentation n'est qu'un facteu
 - Les carences en fer sont fréquentes chez les femmes et causes de chute.
 - Les compléments n'aident que si l'on est carencé.
 
-[Emplacement image : aliments bénéfiques pour les cheveux, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les cheveux et l'alimentation
+centre: Kératine
+parties:
+  - nom: Protéines
+  - nom: Fer
+  - nom: Zinc
+```
 
 ---
 
@@ -8093,8 +8816,16 @@ système immunitaire.
 - Les allergènes majeurs sont l'arachide, les fruits à coque, l'œuf et le lait.
 - L'adrénaline est le seul traitement de l'anaphylaxie.
 
-[Emplacement image : principaux allergènes alimentaires et leurs sources, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'allergie alimentaire
+elements:
+  - titre: Allergène
+  - titre: Réaction des IgE
+  - titre: Symptômes
+    texte: Parfois graves, voire mortels.
+  - titre: Diagnostic et prise en charge
+```
 
 ---
 
@@ -8206,8 +8937,21 @@ riche en fibres, a des bénéfices pour la santé.
 - Ne pas supprimer le gluten avant un diagnostic.
 - L'éviction sans raison médicale peut entraîner des carences.
 
-[Emplacement image : différence entre maladie cœliaque, allergie au blé et sensibilité, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois situations face au gluten
+colonnes:
+  - titre: Maladie cœliaque
+    points:
+      - Environ 1 % de la population
+      - Éviction stricte
+  - titre: Sensibilité non cœliaque
+    points:
+      - Reconnue mais mal comprise
+  - titre: Aucun trouble
+    points:
+      - Supprimer le gluten n'apporte rien
+```
 
 ---
 
@@ -8322,8 +9066,15 @@ sardines.
 - Elle est dose-dépendante, sans lésion intestinale.
 - Yaourts et fromages affinés sont souvent bien tolérés.
 
-[Emplacement image : teneur en lactose de différents produits laitiers, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'intolérance au lactose
+chiffres:
+  - valeur: 70 %
+    texte: de la population mondiale environ
+  - valeur: Lactase
+    texte: l'enzyme qui diminue après l'enfance
+```
 
 ---
 type: article
@@ -9239,6 +9990,20 @@ La DDM a remplacé en 2015 l'ancienne DLUO, la date limite d'utilisation optimal
 Beaucoup de gens confondent les deux dates. Ils jettent alors des aliments encore bons à manger. Des DLC trop strictes poussent aussi des magasins à jeter des produits sans risque.
 
 Pour limiter ce gaspillage, les fabricants peuvent, depuis novembre 2022, ajouter une phrase à côté de la DDM, comme « Ce produit peut être consommé après cette date ». Bien lire l'étiquette permet de jeter moins de nourriture, sans prendre de risque avec les produits frais.
+
+```schema
+type: comparaison
+titre: DLC ou DDM
+colonnes:
+  - titre: DLC
+    points:
+      - « À consommer jusqu'au »
+      - Une limite pour la santé
+  - titre: DDM
+    points:
+      - « À consommer de préférence avant le »
+      - Une indication de qualité
+```
 
 ## À retenir
 
@@ -10267,6 +11032,19 @@ Avec l'âge, la sensation de soif diminue. Elle commence à baisser après 50 an
 Quand on boit, l'eau met du temps à passer dans le sang. Pourtant, la soif disparaît presque tout de suite. C'est parce que la bouche, la gorge et l'œsophage envoient des signaux rapides au cerveau. Ils lui indiquent que de l'eau arrive, et il arrête la sensation de soif.
 
 Les signes d'un manque d'eau sont la soif, le mal de tête, la fatigue, des urines plus rares et plus foncées, et parfois des vertiges. Boire beaucoup trop sans avoir soif n'est pas utile non plus. Un excès d'eau peut perturber l'équilibre du sel dans le sang.
+
+```schema
+type: etapes
+titre: Le signal de la soif
+elements:
+  - titre: Le sang se concentre
+  - titre: L'hypothalamus le détecte
+    icone: brain
+  - titre: La soif apparaît
+    texte: Un signal un peu tardif.
+  - titre: Boire
+    icone: droplet
+```
 
 ## À retenir
 
@@ -11595,6 +12373,20 @@ Certains aliments végétaux, comme le quinoa ou le sarrasin, apportent à eux s
 
 Les céréales, comme le riz ou le blé, contiennent peu de lysine mais assez de méthionine. Les légumineuses, comme les haricots, font l'inverse : elles contiennent assez de lysine, mais peu de méthionine. En les associant, on obtient tous les acides aminés essentiels. Le riz aux haricots, un plat très répandu, en est un bon exemple.
 
+```schema
+type: comparaison
+titre: Céréales et légumineuses, une bonne équipe
+legende: Le corps ne sait pas fabriquer neuf acides aminés.
+colonnes:
+  - titre: Céréales
+    icone: wheat
+    points:
+      - Pauvres en lysine
+  - titre: Légumineuses
+    points:
+      - Riches en lysine
+```
+
 ## À retenir
 
 - Les protéines sont des chaînes de petites briques appelées acides aminés.
@@ -12528,6 +13320,19 @@ Pour 100 grammes, le poivron rouge en contient environ 128 milligrammes, le kiwi
 
 Et le rhume ? Prendre de la vitamine C tous les jours n'empêche pas de l'attraper. Cela réduit seulement sa durée d'environ 8 % chez les adultes et 14 % chez les enfants.
 
+```schema
+type: etapes
+titre: Le scorbut
+elements:
+  - titre: Pas de vitamine C
+    texte: Pendant 1 à 3 mois.
+  - titre: Gencives qui saignent
+  - titre: Plaies qui ne guérissent plus
+  - titre: Agrumes
+    texte: Ils guérissent.
+    icone: apple
+```
+
 ## À retenir
 
 - Un manque total de vitamine C pendant 1 à 3 mois provoque le scorbut.
@@ -12638,6 +13443,19 @@ La vitamine A elle-même se trouve dans le foie, le beurre et les œufs. Le bêt
 Trop de vitamine A peut être toxique. Le foie d'ours polaire, par exemple, en contient tellement qu'il est dangereux pour l'être humain.
 
 Les carottes n'ont pas toujours été orange. Au Xe siècle, elles étaient violettes. Les carottes orange ont été développées aux Pays-Bas, aux XVIe et XVIIe siècles.
+
+```schema
+type: comparaison
+titre: Les carottes et la vision
+colonnes:
+  - titre: Le mythe
+    points:
+      - Une propagande britannique de la Seconde Guerre mondiale
+  - titre: La réalité
+    points:
+      - La vitamine A est utile à la vision
+      - Sa carence donne la cécité nocturne
+```
 
 ## À retenir
 
@@ -14439,6 +15257,17 @@ En France, environ un tiers des toxi-infections alimentaires déclarées chaque 
 
 Dans le monde, l'Organisation mondiale de la santé estime que près d'une personne sur neuf tombe malade chaque année après avoir mangé des aliments contaminés. Les enfants de moins de 5 ans sont particulièrement touchés. Parmi les règles de base de l'OMS pour des aliments plus sûrs, on trouve celle-ci : séparer le cru du cuit.
 
+```schema
+type: etapes
+titre: La contamination croisée
+elements:
+  - titre: Poulet cru
+  - titre: Planche, couteau, mains
+    texte: Les microbes y passent.
+  - titre: Salade
+    texte: Mangée crue, sans cuisson qui protège.
+```
+
 ## À retenir
 
 - La contamination croisée est le passage de microbes d'un aliment cru à un aliment prêt à manger.
@@ -14906,6 +15735,21 @@ L'Américain Clarence Birdseye a fait connaître la congélation rapide au publi
 La congélation conserve les aliments parce que l'eau, devenue glace, n'est plus disponible pour les microbes. La plupart des bactéries ne peuvent plus se multiplier. En dessous de -9,5 °C, les micro-organismes ne se développent plus.
 
 Mais le froid ne tue pas les microbes aussi bien que la chaleur. Beaucoup de microbes dangereux survivent au froid, alors qu'une cuisson à forte température en détruit bien davantage. La congélation conserve donc les aliments, mais elle ne les rend pas plus sûrs qu'avant.
+
+```schema
+type: comparaison
+titre: Congélation lente ou rapide
+colonnes:
+  - titre: Lente
+    points:
+      - Gros cristaux de glace
+      - Ils percent les cellules
+  - titre: Rapide
+    icone: snowflake
+    points:
+      - Petits cristaux
+      - Texture préservée
+```
 
 ## À retenir
 
@@ -15595,6 +16439,16 @@ Le miel attire l'humidité de l'air : il faut bien refermer le pot. S'il durcit 
 
 On raconte souvent qu'on a mangé du miel retrouvé dans des tombes égyptiennes. C'est une légende : aucun miel mangeable n'y a été découvert, seulement des traces chimiques.
 
+```schema
+type: chiffres
+titre: Le miel
+chiffres:
+  - valeur: 15,5 à 18 %
+    texte: d'eau seulement
+  - valeur: Trop de sucre
+    texte: pour que les microbes se développent
+```
+
 ## À retenir
 
 - Les abeilles font évaporer l'eau du nectar : le miel fini contient 15,5 à 18 % d'eau.
@@ -15810,6 +16664,18 @@ Au XIXe siècle, le savant français Louis Pasteur a montré que des bactéries 
 Selon le type, un vinaigre contient de 4 à 18 % d'acide acétique. En France, un vinaigre de vin doit en contenir au moins 6 grammes pour 100 millilitres.
 
 Les Babyloniens fabriquaient déjà du vinaigre il y a plusieurs milliers d'années. Ils s'en servaient pour assaisonner et conserver les aliments. Aujourd'hui, le vinaigre sert toujours en cuisine, dans les sauces et les marinades. Il sert aussi à préparer des conserves au vinaigre et à nettoyer le calcaire dans la maison.
+
+```schema
+type: etapes
+titre: Du raisin au vinaigre
+elements:
+  - titre: Sucre
+  - titre: Levures
+    texte: Le sucre devient alcool.
+  - titre: Acetobacter
+    texte: L'alcool devient acide acétique.
+  - titre: Vinaigre
+```
 
 ## À retenir
 
@@ -16049,6 +16915,18 @@ La cuisson tue les levures et les bactéries. L'alcool s'évapore. Les bulles ch
 ## Une très vieille recette
 
 Le plus ancien pain au levain conservé en Europe a été retrouvé à Twann, en Suisse, dans un ancien village construit au bord d'un lac. Il date de 3560 à 3530 avant notre ère. Aujourd'hui, beaucoup de pains sont faits avec de la levure de boulanger, qui ne contient qu'une seule espèce de levure.
+
+```schema
+type: etapes
+titre: Le levain fait lever la pâte
+elements:
+  - titre: Farine et eau
+  - titre: Levures et bactéries
+  - titre: Gaz carbonique
+    texte: Il forme des bulles.
+  - titre: Cuisson
+    icone: fire
+```
 
 ## À retenir
 
@@ -16415,6 +17293,17 @@ Ces techniques donnent des aliments très connus : le gari, le foufou et l'atti�
 Un manioc mal préparé peut provoquer le konzo. Dans la langue yaka, parlée au Congo, ce mot signifie « jambes liées ». Cette maladie paralyse les jambes d'un coup, et pour toujours. Elle a été décrite pour la première fois en 1938, au Congo. Elle touche surtout des femmes et des enfants de régions rurales d'Afrique, quand la nourriture manque et qu'on mange peu de protéines.
 
 Une méthode simple aide à la prévenir. On mouille la farine de manioc, on la laisse sécher un peu pour que le gaz toxique s'échappe, puis on la cuit normalement.
+
+```schema
+type: etapes
+titre: Rendre le manioc sûr
+legende: Le manioc nourrit plus de 500 millions de personnes.
+elements:
+  - titre: Racine toxique crue
+  - titre: Tremper
+  - titre: Fermenter
+  - titre: Sécher ou cuire
+```
 
 ## À retenir
 
@@ -16946,6 +17835,19 @@ On retire souvent le germe, car il contient de l'huile. Avec le temps, cette hui
 En France, chaque farine porte un type, comme T45, T55 ou T150. Ce nombre indique la quantité de minéraux qu'elle contient. Pour le mesurer, on brûle la farine à plus de 600 °C. Il reste des cendres, qui sont les minéraux. Plus le nombre est grand, plus la farine contient de son, riche en minéraux.
 
 La T45, très blanche, sert à la pâtisserie. La T55 sert au pain blanc. La T65 est utilisée pour le pain de tradition française. La T150 est une farine intégrale, qui garde presque tout le grain.
+
+```schema
+type: systeme
+titre: Les trois parties d'un grain de blé
+centre: Grain de blé
+icone: wheat
+parties:
+  - nom: Son
+    role: L'enveloppe.
+  - nom: Germe
+  - nom: Amande
+    role: Seule utilisée pour la farine blanche.
+```
 
 ## À retenir
 
@@ -20926,6 +21828,19 @@ La caramélisation est différente : elle chauffe des sucres seuls et ne fait pa
 
 À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ; cuire à plus basse température permet d'en limiter la formation.
 
+```schema
+type: comparaison
+titre: Maillard ou caramel
+colonnes:
+  - titre: Réaction de Maillard
+    points:
+      - Sucres et acides aminés
+      - Pigments bruns et arômes
+  - titre: Caramélisation
+    points:
+      - Sucres seuls
+```
+
 ## À retenir
 
 - La réaction de Maillard unit des sucres réducteurs et des acides aminés.
@@ -21029,6 +21944,17 @@ Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice 
 
 Les recherches sont prometteuses pour certains problèmes de santé, mais il reste beaucoup à apprendre pour savoir si les probiotiques sont utiles et sûrs. Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit pas celui d'une autre. Les probiotiques ont une longue histoire d'usage apparemment sûr chez les personnes en bonne santé, mais des infections graves ont été signalées chez des bébés prématurés.
 
+```schema
+type: systeme
+titre: Les aliments fermentés
+centre: Micro-organismes
+parties:
+  - nom: Yaourt
+  - nom: Fromage
+  - nom: Kimchi et choucroute
+  - nom: Kéfir
+```
+
 ## À retenir
 
 - Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures.
@@ -21117,6 +22043,17 @@ Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cell
 
 Le séchage, la plus ancienne forme de conservation, retire l'eau dont les microbes ont besoin. Le fumage combine déshydratation et composés antimicrobiens déposés par la fumée. Le froid ralentit la croissance des micro-organismes sans les éliminer. La fermentation conserve en produisant des acides qui créent un milieu hostile aux microbes nuisibles.
 
+```schema
+type: etapes
+titre: Comment le sel et le sucre conservent
+elements:
+  - titre: Les microbes ont besoin d'eau
+  - titre: Sel ou sucre
+    texte: Ils attirent l'eau par osmose.
+  - titre: Moins d'eau disponible
+  - titre: Les microbes se développent mal
+```
+
 ## À retenir
 
 - Les micro-organismes ont besoin d'eau pour proliférer : réduire l'eau disponible freine leur croissance.
@@ -21203,6 +22140,18 @@ Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes 
 ## Dans nos muscles aussi
 
 Les cellules musculaires font aussi de la fermentation lactique lors d'un effort intense, mais c'est un phénomène distinct de la fermentation des aliments.
+
+```schema
+type: etapes
+titre: Du lait au yaourt
+elements:
+  - titre: Lait
+  - titre: Bactéries lactiques
+    texte: Sans oxygène.
+  - titre: Acide lactique
+    texte: Il épaissit le lait et empêche les microbes.
+  - titre: Yaourt
+```
 
 ## À retenir
 
@@ -21304,6 +22253,20 @@ Elle détruit des bactéries dangereuses comme Salmonella, Listeria et E. coli O
 ## Un institut
 
 Louis Pasteur a dirigé l'Institut Pasteur jusqu'à sa mort.
+
+```schema
+type: comparaison
+titre: Les traitements du lait
+colonnes:
+  - titre: Pasteurisation
+    points:
+      - Moins de 100 °C
+      - Élimine les germes dangereux
+  - titre: Stérilisation et UHT
+    points:
+      - Plus de 100 °C
+      - Conservation plus longue
+```
 
 ## À retenir
 
@@ -21407,6 +22370,21 @@ Les pays qui manquent d'eau gèrent leurs exportations agricoles en tenant compt
 
 Le concept d'empreinte eau a été introduit par Arjen Hoekstra au début des années 2000. Une norme internationale, l'ISO 14046, précise comment évaluer l'empreinte eau.
 
+```schema
+type: comparaison
+titre: Les couleurs de l'eau virtuelle
+colonnes:
+  - titre: Eau bleue
+    points:
+      - Rivières et nappes
+  - titre: Eau verte
+    points:
+      - Pluie stockée dans le sol
+  - titre: Eau grise
+    points:
+      - Nécessaire pour diluer la pollution
+```
+
 ## À retenir
 
 - L'eau virtuelle est l'eau nécessaire pour fabriquer un bien ; l'empreinte eau en est le total.
@@ -21496,6 +22474,18 @@ NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est 
 ## Un débat ouvert
 
 Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
+
+```schema
+type: comparaison
+titre: Ce que dit la classification NOVA
+colonnes:
+  - titre: Ce qu'elle mesure
+    points:
+      - Le degré de transformation
+  - titre: Ses limites
+    points:
+      - Elle ne regarde pas la composition nutritionnelle
+```
 
 ## À retenir
 
@@ -21598,6 +22588,18 @@ Presque toutes les études étaient transversales : elles ne permettent pas d'é
 ## Mémoire et avis des professionnels
 
 Chez les enfants et les adolescents, le petit-déjeuner est associé à une meilleure mémoire et à de meilleurs résultats scolaires selon des études. L'avis professionnel actuel est largement favorable au petit-déjeuner, même si sauter ce repas peut valoir mieux que le remplacer par des aliments peu sains.
+
+```schema
+type: comparaison
+titre: Le petit-déjeuner des adolescents
+colonnes:
+  - titre: Ce que montrent les études
+    points:
+      - Ceux qui déjeunent ont souvent des apports plus complets
+  - titre: À nuancer
+    points:
+      - Des liens plutôt que des preuves de cause
+```
 
 ## À retenir
 
