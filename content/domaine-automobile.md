@@ -7674,7 +7674,25 @@ Les anciennes voitures avaient une seule bobine et un **allumeur**, qui distribu
 chaque cylindre. Aujourd'hui, chaque bougie a souvent sa propre **bobine crayon**, posée directement
 dessus.
 
-[Emplacement image : coupe d'une bougie et d'une bobine crayon montrant le trajet de la haute tension jusqu'à l'étincelle, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De la batterie à l'étincelle
+elements:
+  - titre: Batterie
+    texte: Elle fournit 12 volts.
+    icone: battery
+  - titre: Calculateur
+    texte: Il choisit le moment exact de l'étincelle.
+    icone: chip
+  - titre: Bobine
+    texte: Elle produit 20 000 à plus de 40 000 volts.
+    icone: bolt
+  - titre: Bougie
+    texte: L'étincelle jaillit entre ses électrodes.
+  - titre: Combustion
+    texte: Le mélange s'enflamme juste avant le point mort haut.
+    icone: fire
+```
 
 ## Le bon moment, l'avance à l'allumage
 
@@ -7963,7 +7981,21 @@ vanne EGR côté admission. Ensemble, ces systèmes éliminent la plus grande pa
 
 Des **sondes** de température, de pression et de NOx informent le calculateur à chaque étape.
 
-[Emplacement image : ligne d'échappement d'un diesel Euro 6 avec catalyseur d'oxydation, FAP, injecteur d'AdBlue, catalyseur SCR et capteurs, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La ligne d'échappement d'un diesel Euro 6
+elements:
+  - titre: Catalyseur d'oxydation
+    texte: Il traite monoxyde de carbone et imbrûlés.
+  - titre: Filtre à particules
+    texte: Il retient plus de 95 % des suies, brûlées vers 550 à 600 °C.
+  - titre: Injection d'AdBlue
+    texte: L'urée libère de l'ammoniac dans les gaz chauds.
+  - titre: Catalyseur SCR
+    texte: Les NOx deviennent azote et vapeur d'eau.
+  - titre: Silencieux
+    texte: Il réduit le bruit.
+```
 
 ## La régénération du FAP
 
@@ -8183,7 +8215,26 @@ modernes en ont huit à dix.
 **L'unité de commande**, hydraulique et électronique, dirige l'huile sous pression vers les bons
 embrayages au bon moment.
 
-[Emplacement image : coupe d'une boîte automatique avec convertisseur de couple, trains épicycloïdaux et unité de commande, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois familles de boîtes automatiques
+colonnes:
+  - titre: Convertisseur de couple
+    points:
+      - Lien par l'huile entre moteur et boîte
+      - Trains épicycloïdaux, huit à dix rapports
+      - Très douce
+  - titre: Double embrayage
+    points:
+      - Un embrayage pour les rapports impairs, un pour les pairs
+      - Le rapport suivant est déjà prêt
+      - Rapide et économe
+  - titre: Variation continue
+    points:
+      - Courroie entre deux poulies variables
+      - Aucun rapport fixe
+      - Régime moteur constant
+```
 
 ## La boîte à double embrayage
 
@@ -17590,7 +17641,37 @@ Cette commande électronique permet **plusieurs injections par cycle** :
 - des **post-injections**, qui servent notamment à chauffer le filtre à particules pour le
   régénérer.
 
-[Emplacement image : circuit d'injection diesel à rampe commune, du réservoir aux injecteurs, avec les pressions à chaque étape, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du réservoir aux cylindres
+elements:
+  - titre: Réservoir
+    texte: Le carburant attend, mesuré par une jauge.
+  - titre: Pompe de gavage
+    texte: Électrique, elle envoie le carburant sous quelques bars.
+  - titre: Filtre
+    texte: Il retient impuretés et, sur un diesel, l'eau.
+  - titre: Pompe haute pression
+    texte: Sur l'injection directe, des centaines à des milliers de bars.
+  - titre: Rampe
+    texte: Elle garde le carburant sous pression.
+  - titre: Injecteurs
+    texte: Ils pulvérisent pendant quelques millièmes de seconde.
+```
+
+```schema
+type: barres
+titre: Pressions d'injection
+legende: Ordres de grandeur, en bars.
+unite: bars
+valeurs:
+  - label: Essence indirecte
+    valeur: 4
+  - label: Essence directe
+    valeur: 350
+  - label: Diesel rampe commune
+    valeur: 2500
+```
 
 ## Les pannes typiques
 
@@ -17689,7 +17770,20 @@ On distingue l'**EGR haute pression**, qui prélève les gaz avant le turbo, et 
 pression**, qui les prélève après le filtre à particules, donc propres, et les réinjecte avant le
 compresseur du turbo. Certains moteurs combinent les deux.
 
-[Emplacement image : circuit EGR d'un diesel, de l'échappement à l'admission, avec la vanne et le refroidisseur, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La boucle de recirculation des gaz
+elements:
+  - titre: Combustion
+    texte: Elle produit des oxydes d'azote si elle est très chaude.
+    icone: fire
+  - titre: Échappement
+    texte: Les gaz brûlés sortent du moteur.
+  - titre: Vanne EGR
+    texte: Elle en renvoie une partie, souvent refroidie.
+  - titre: Admission
+    texte: Ces gaz pauvres en oxygène refroidissent la combustion.
+```
 
 ## Pourquoi elle s'encrasse
 
@@ -17809,7 +17903,22 @@ cylindres. Une fuite, un filtre bouché ou un capteur défaillant, et le moteur 
    l'EGR.
 7. **Le collecteur d'admission** répartit l'air entre les cylindres, où il entre par les soupapes.
 
-[Emplacement image : parcours de l'air dans le moteur, de la prise d'air aux cylindres en passant par le filtre, le débitmètre, le turbo, l'intercooler et le papillon, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le parcours de l'air
+elements:
+  - titre: Filtre à air
+    texte: Il arrête les poussières.
+  - titre: Débitmètre
+    texte: Il mesure l'air pour doser le carburant.
+  - titre: Turbo
+    texte: Il comprime l'air, qui chauffe.
+  - titre: Intercooler
+    texte: Il refroidit l'air pour le rendre plus dense.
+    icone: snowflake
+  - titre: Papillon et collecteur
+    texte: Ils dosent et répartissent l'air entre les cylindres.
+```
 
 ## Pourquoi un intercooler
 
@@ -17936,7 +18045,21 @@ tourne seul. On peut changer de vitesse ou s'arrêter.
 En relâchant progressivement la pédale, le disque **patine** un peu avant d'être serré : c'est ce qui
 permet de démarrer sans à-coup.
 
-[Emplacement image : vue éclatée d'un embrayage avec volant bimasse, disque, plateau de pression, diaphragme et butée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Pédale relâchée ou enfoncée
+colonnes:
+  - titre: Pédale relâchée
+    points:
+      - Le diaphragme serre le disque contre le volant
+      - Le moteur entraîne la boîte
+      - On dit que c'est embrayé
+  - titre: Pédale enfoncée
+    points:
+      - La butée pousse le diaphragme
+      - Le disque est libéré
+      - On peut changer de vitesse ou s'arrêter
+```
 
 ## Le volant bimasse
 
@@ -18052,7 +18175,26 @@ transmission intégrale est **enclenchable**, **permanente** ou **à la demande*
 4. Dans chaque pont, un **différentiel** la répartit entre les roues gauche et droite.
 5. Des transmissions, ou demi-arbres, entraînent les roues.
 
-[Emplacement image : schéma d'un 4x4 montrant boîte de vitesses, boîte de transfert, arbres de transmission, ponts et différentiels, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois familles de 4x4
+colonnes:
+  - titre: Enclenchable
+    points:
+      - Avant et arrière liés rigidement
+      - Efficace sur boue, neige, sable
+      - Jamais enclenché sur route sèche
+  - titre: Permanent
+    points:
+      - Différentiel central
+      - Utilisable partout
+      - Souvent avec blocage
+  - titre: À la demande
+    points:
+      - Embrayage piloté vers l'essieu arrière
+      - Courant sur les SUV
+      - Peu adapté au vrai tout-terrain
+```
 
 ## Trois familles de 4x4
 
@@ -18190,7 +18332,26 @@ La **crémaillère** transforme la rotation du volant en mouvement latéral. De 
 **rotule de direction** fixée au porte-roue. Un soufflet en caoutchouc protège la crémaillère de la
 poussière et de l'eau.
 
-[Emplacement image : train avant vu de face et de dessus avec berceau, triangle, rotules, silentblocs, biellettes, barre stabilisatrice et crémaillère, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les pièces du train avant
+centre: Roue et porte-roue
+parties:
+  - nom: Triangle
+    role: Relie le berceau au porte-roue.
+  - nom: Rotule de suspension
+    role: Articulation à boule entre triangle et porte-roue.
+  - nom: Silentblocs
+    role: Bagues de caoutchouc qui articulent et filtrent.
+  - nom: Biellette et rotule de direction
+    role: Relient la crémaillère à la roue.
+  - nom: Barre stabilisatrice
+    role: Limite le roulis, attachée par des biellettes.
+  - nom: Ressort et amortisseur
+    role: Portent la voiture et freinent les oscillations.
+  - nom: Roulement
+    role: Laisse tourner la roue sur son moyeu.
+```
 
 ## La géométrie
 
@@ -18309,6 +18470,27 @@ plus de 300 ampères, plus encore pour un diesel par grand froid.
 - Une batterie dure souvent **quatre à six ans**. La chaleur l'use, le froid réduit sa capacité au
   moment où le moteur demande le plus de courant.
 
+```schema
+type: echelle
+titre: Tension d'une batterie 12 volts au repos
+unite: V
+min: 11.5
+max: 13
+zones:
+  - de: 11.5
+    a: 12.2
+    label: Nettement déchargée
+    ton: danger
+  - de: 12.2
+    a: 12.5
+    label: À recharger
+    ton: attention
+  - de: 12.5
+    a: 13
+    label: Chargée, environ 12,6 volts
+    ton: normal
+```
+
 ## Le démarreur
 
 Le démarreur est un petit moteur électrique puissant. Quand on tourne la clé ou qu'on appuie sur le
@@ -18324,7 +18506,23 @@ de bobines fixes et produit un courant alternatif, transformé en courant contin
 de la batterie, pour la recharger sans la surcharger. Sur les voitures récentes, le calculateur
 pilote l'alternateur pour charger surtout au freinage et économiser du carburant.
 
-[Emplacement image : circuit électrique d'une voiture reliant batterie, démarreur, alternateur, boîte à fusibles et calculateurs, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le circuit électrique d'une voiture
+elements:
+  - titre: Batterie
+    texte: Elle fournit le fort courant du démarrage.
+    icone: battery
+  - titre: Démarreur
+    texte: Il lance le moteur grâce à un pignon.
+    icone: gear
+  - titre: Moteur
+    texte: Il entraîne l'alternateur par une courroie.
+    icone: car
+  - titre: Alternateur
+    texte: Il alimente la voiture et recharge la batterie vers 14 volts.
+    icone: bolt
+```
 
 ## Fusibles, relais et réseaux
 
@@ -18452,7 +18650,22 @@ Le calculateur commande :
 - la **vanne EGR** et l'injection d'**AdBlue** ;
 - le **ventilateur**, la **pompe à carburant**, le **préchauffage**.
 
-[Emplacement image : schéma du calculateur moteur entouré de ses capteurs à gauche et de ses actionneurs à droite, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La boucle de correction du mélange
+elements:
+  - titre: Mesurer l'air
+    texte: Le débitmètre indique la quantité aspirée.
+  - titre: Calculer
+    texte: Le calculateur en déduit la dose d'essence.
+    icone: chip
+  - titre: Injecter
+    texte: Les injecteurs s'ouvrent le temps voulu.
+  - titre: Contrôler
+    texte: La sonde lambda mesure l'oxygène restant.
+  - titre: Corriger
+    texte: L'injection suivante est ajustée.
+```
 
 ## Une boucle de mille corrections par seconde
 
@@ -18584,7 +18797,25 @@ souvent électrique.
 température qui monte ou un voyant rouge. Rouler en surchauffe peut déformer la culasse et griller
 le joint de culasse. Elle est souvent remplacée en même temps que la courroie de distribution.
 
-[Emplacement image : vue d'un moteur montrant l'emplacement des pompes à carburant, à huile, à eau, à vide et de direction, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les pompes et leur rôle
+centre: Voiture thermique
+icone: car
+parties:
+  - nom: Pompe à carburant
+    role: Alimente le moteur ; en panne, il cale.
+  - nom: Pompe haute pression
+    role: Prépare l'injection directe.
+  - nom: Pompe à huile
+    role: Lubrifie ; voyant allumé, on coupe le moteur.
+  - nom: Pompe à eau
+    role: Refroidit ; en panne, surchauffe.
+  - nom: Pompe de direction
+    role: Assiste le volant sur les directions hydrauliques.
+  - nom: Pompe à vide
+    role: Assiste le freinage des diesels.
+```
 
 ## La pompe de direction assistée
 

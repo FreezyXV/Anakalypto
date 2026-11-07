@@ -1471,7 +1471,24 @@ On distingue trois genres de leviers selon la place du pivot :
 3. la main entre le pivot et la charge : la pince à épiler, l'avant-bras humain. Ce genre réduit
    la force mais augmente la vitesse et l'amplitude.
 
-[Emplacement image : les trois genres de leviers avec la position du pivot, de la charge et de la force, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois machines, une même règle
+legende: Moins de force, mais plus de distance.
+colonnes:
+  - titre: Levier
+    points:
+      - Une barre qui pivote sur un appui
+      - Force divisée par le rapport des bras
+  - titre: Poulie
+    points:
+      - Fixe, elle change la direction de la force
+      - Un palan la divise par le nombre de brins
+  - titre: Plan incliné
+    points:
+      - Une rampe à la place d'une montée verticale
+      - Le coin et la vis en sont des variantes
+```
 
 ## La poulie
 
@@ -1594,7 +1611,21 @@ n'est étirée.
 La pierre du sommet, la **clé de voûte**, est posée en dernier. Avant elle, l'arc ne tient pas ;
 après elle, il tient seul, même sans mortier.
 
-[Emplacement image : arc en plein cintre avec ses voussoirs, la clé, le cintre en bois et les flèches de poussée vers les appuis, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Construire un arc
+elements:
+  - titre: Le cintre
+    texte: Un gabarit en bois donne la forme de l'arc.
+  - titre: Les voussoirs
+    texte: Des pierres taillées en coin posées de part et d'autre.
+  - titre: La clé
+    texte: La pierre du sommet est posée en dernier.
+  - titre: Le décintrement
+    texte: On retire le cintre, l'arc tient seul.
+  - titre: Les culées
+    texte: De lourds appuis reprennent la poussée vers l'extérieur.
+```
 
 ## Le cintre, un échafaudage indispensable
 
@@ -1782,7 +1813,22 @@ La charpente classique repose sur des **fermes**, des triangles de bois placés 
 Entre les fermes, des **pannes** horizontales portent les **chevrons**, qui suivent la pente, puis les
 **liteaux** sur lesquels on accroche la couverture.
 
-[Emplacement image : ferme de charpente traditionnelle avec entrait, arbalétriers, poinçon, contrefiches, pannes et chevrons, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les pièces d'une ferme de charpente
+centre: Ferme de charpente
+parties:
+  - nom: Arbalétriers
+    role: Les deux pièces inclinées qui suivent la pente.
+  - nom: Entrait
+    role: Poutre tendue qui retient la poussée du toit.
+  - nom: Poinçon
+    role: Pièce verticale au centre.
+  - nom: Contrefiches
+    role: Raidissent l'ensemble.
+  - nom: Pannes et chevrons
+    role: Portent la couverture entre les fermes.
+```
 
 ## Les assemblages
 
@@ -5693,7 +5739,22 @@ descendre à des dizaines ou des centaines de mètres. On y descend :
 L'eau est remontée par une **pompe immergée** électrique, ou par une **pompe manuelle**, utile sans
 électricité pour les nappes peu profondes.
 
-[Emplacement image : coupe comparée d'un puits creusé et d'un forage tubé avec crépine, massif filtrant, cimentation et tête protégée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les éléments d'un forage
+elements:
+  - titre: Tube
+    texte: En PVC ou en acier, il maintient les parois.
+  - titre: Crépine
+    texte: Partie percée de fentes, au niveau de la nappe.
+  - titre: Massif filtrant
+    texte: Du gravier calibré autour de la crépine.
+  - titre: Cimentation de tête
+    texte: Elle bloque l'eau de surface polluée.
+  - titre: Pompe
+    texte: Immergée ou manuelle.
+    icone: droplet
+```
 
 ## Protéger l'eau
 

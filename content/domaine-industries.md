@@ -4037,7 +4037,21 @@ de cette eau de cendres.
 - **Le savon de Marseille** : en 1688, un édit de Colbert réglemente sa fabrication, à base d'huile
   d'olive. La tradition du savon cuit en grands chaudrons se perpétue en Provence.
 
-[Emplacement image : étapes de la fabrication d'un savon, de la lessive de cendres ou de la soude au savon séché en barres, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La saponification à froid
+elements:
+  - titre: Dissoudre la soude
+    texte: Toujours la soude dans l'eau, avec gants et lunettes.
+  - titre: Mélanger aux huiles
+    texte: Dans des proportions calculées.
+  - titre: Mixer et mouler
+    texte: Jusqu'à une pâte épaisse.
+  - titre: Couper
+    texte: Après un ou deux jours.
+  - titre: Laisser sécher
+    texte: Quatre à six semaines.
+```
 
 ## La saponification à froid, aujourd'hui
 

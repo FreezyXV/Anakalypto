@@ -5736,7 +5736,17 @@ cartes au 1/25 000.
 - Courbes en **V pointant vers le bas** : une crête ou un éperon.
 - Courbes fermées concentriques : un sommet.
 
-[Emplacement image : relief d'une colline en perspective et ses courbes de niveau correspondantes sur la carte, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Repères de lecture d'une carte au 1/25 000
+chiffres:
+  - valeur: 1 cm = 250 m
+    texte: sur le terrain
+  - valeur: 4 cm = 1 km
+    texte: pour mesurer vite une distance
+  - valeur: 4 à 5 km/h
+    texte: de marche sur le plat, plus une heure par 300 à 400 m de montée
+```
 
 ## La boussole
 

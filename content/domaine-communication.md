@@ -3278,7 +3278,19 @@ sur téléphone.
 - **La portée** : les **grandes ondes et ondes moyennes** couvrent de vastes régions, et les **ondes
   courtes**, réfléchies par l'ionosphère, peuvent traverser des continents.
 
-[Emplacement image : comparaison entre la radiodiffusion, un émetteur vers tous les postes, et le réseau mobile, une connexion par appareil, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les canaux d'alerte en France
+centre: Alerte des populations
+parties:
+  - nom: Sirènes
+    role: Testées le premier mercredi du mois à midi.
+  - nom: FR-Alert
+    role: Notification sur tous les téléphones de la zone, depuis 2022.
+  - nom: Radio
+    role: Consignes des autorités, même sans électricité.
+    icone: wave
+```
 
 ## La radio dans les plans d'alerte en France
 

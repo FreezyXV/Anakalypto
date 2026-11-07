@@ -312,7 +312,7 @@ function renderBody(spec: SchemaSpec): string {
       const at = (a: number) => [50 + r * Math.cos(a), 50 + r * Math.sin(a)] as const;
       const f = (v: number) => v.toFixed(2);
       const arcs = Array.from({ length: n }, (_, i) => {
-        const gap = Math.min(0.62, Math.PI / n - 0.16);
+        const gap = Math.min(0.62, Math.PI / n - 0.08);
         const a0 = (2 * Math.PI * i) / n - Math.PI / 2 + gap;
         const a1 = (2 * Math.PI * (i + 1)) / n - Math.PI / 2 - gap;
         const [x0, y0] = at(a0);

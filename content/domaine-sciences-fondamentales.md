@@ -21503,7 +21503,32 @@ on éloigne le combustible.
 4. **Le bois de combustion** : de l'épaisseur du poignet et plus, en quantité, avant que la nuit
    tombe.
 
-[Emplacement image : préparation d'un feu en tipi avec allume-feu au centre, petit bois autour et bûches en réserve, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le triangle du feu
+legende: Retirer un seul des trois éléments éteint le feu.
+elements:
+  - titre: Combustible
+    texte: Du bois sec, du plus fin au plus gros.
+    icone: tree
+  - titre: Oxygène
+    texte: L'air doit circuler entre les morceaux.
+  - titre: Chaleur
+    texte: Une flamme ou une étincelle, puis le feu lui-même.
+    icone: fire
+```
+
+```schema
+type: etapes
+titre: Les trois tas à préparer
+elements:
+  - titre: Allume-feu
+    texte: Herbes sèches, écorce de bouleau, brindilles très fines.
+  - titre: Petit bois
+    texte: De l'allumette au doigt, cassé net.
+  - titre: Bois de combustion
+    texte: Du poignet et plus, en quantité.
+```
 
 ## Allumer
 
@@ -21546,3 +21571,4 @@ le feu, on remue les cendres et on noie encore, jusqu'à ce que tout soit froid 
 - On ajoute le bois progressivement, du plus fin au plus gros, sans étouffer les flammes.
 - Une pierre à feu en ferrocérium fonctionne même mouillée.
 - Jamais de feu en lieu clos, et respect des interdictions en forêt.
+

@@ -1371,7 +1371,45 @@ l'examen du corps.
 - **L'auscultation** : en 1816, le Français **René Laennec** invente le **stéthoscope**. Il permet
   d'écouter le cœur, les poumons et l'intestin et de reconnaître de nombreuses maladies.
 
-[Emplacement image : les gestes de l'examen clinique, inspection, palpation, percussion et auscultation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: Fréquence cardiaque d'un adulte au repos
+legende: Valeurs indicatives ; un sportif entraîné peut descendre plus bas.
+unite: battements/min
+min: 30
+max: 160
+zones:
+  - de: 30
+    a: 60
+    label: Lente, à interpréter
+    ton: attention
+  - de: 60
+    a: 100
+    label: Habituelle
+    ton: normal
+  - de: 100
+    a: 160
+    label: Rapide, signe d'alerte au repos
+    ton: danger
+```
+
+```schema
+type: etapes
+titre: Les étapes de l'examen clinique
+elements:
+  - titre: Interroger
+    texte: Symptômes, début, antécédents.
+  - titre: Observer
+    texte: Teint, respiration, posture.
+    icone: eye
+  - titre: Palper
+    texte: Zone douloureuse, masse, ganglions.
+  - titre: Percuter
+    texte: Son creux ou mat.
+  - titre: Ausculter
+    texte: Cœur, poumons, intestin au stéthoscope.
+    icone: heart
+```
 
 ## Les signes vitaux
 
@@ -1660,7 +1698,29 @@ prairies humides.
 L'acide salicylique est efficace contre la fièvre et les douleurs articulaires, mais il a un
 goût désagréable et irrite fortement l'estomac.
 
-[Emplacement image : étapes du saule à l'aspirine, de l'écorce à la salicine, à l'acide salicylique puis au comprimé, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: De l'écorce de saule à l'aspirine
+evenements:
+  - date: vers 1550 av. J.-C.
+    titre: Papyrus Ebers
+    texte: Le saule figure parmi les remèdes égyptiens.
+  - date: 1763
+    titre: Edward Stone
+    texte: Il décrit l'effet de l'écorce sur les fièvres.
+  - date: 1828
+    titre: La salicine
+    texte: Johann Buchner l'extrait de l'écorce.
+  - date: 1853
+    titre: Gerhardt
+    texte: Premier acide acétylsalicylique, impur.
+  - date: 1897
+    titre: Felix Hoffmann
+    texte: Une forme pure et stable, chez Bayer.
+  - date: 1971
+    titre: John Vane
+    texte: L'aspirine bloque la fabrication des prostaglandines.
+```
 
 ## Naissance de l'aspirine
 
@@ -1874,7 +1934,24 @@ plante n'est ni bonne ni mauvaise parce qu'elle est naturelle : comme pour tout 
 Dans tous ces cas, on a isolé la substance active, vérifié son efficacité par des essais et fixé une
 dose précise.
 
-[Emplacement image : plantes à l'origine de médicaments majeurs, saule, pavot, quinquina, digitale et armoise annuelle, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Des plantes devenues médicaments
+centre: Substance active isolée et testée
+parties:
+  - nom: Saule
+    role: Aspirine.
+  - nom: Pavot
+    role: Morphine.
+  - nom: Quinquina
+    role: Quinine contre le paludisme.
+  - nom: Digitale
+    role: Digoxine pour le cœur.
+  - nom: Armoise annuelle
+    role: Artémisinine contre le paludisme.
+  - nom: If du Pacifique
+    role: Paclitaxel contre plusieurs cancers.
+```
 
 ## Ce que montrent les essais
 
@@ -2060,7 +2137,21 @@ le lien : les médecins et les étudiants passent de la salle d'autopsie aux sal
 d'accouchement sans se laver les mains. Ils transportent des « particules cadavériques ». Les
 sages-femmes, elles, ne pratiquent pas d'autopsies.
 
-[Emplacement image : graphique de la mortalité maternelle dans les deux cliniques de Vienne avant et après le lavage des mains de 1847, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Vienne, deux cliniques d'accouchement
+legende: Ordres de grandeur rapportés dans l'article.
+colonnes:
+  - titre: Clinique des médecins
+    points:
+      - Médecins et étudiants venant des autopsies
+      - Environ une accouchée sur dix mourait
+      - Vers 2 % après le lavage des mains de 1847
+  - titre: Clinique des sages-femmes
+    points:
+      - Pas d'autopsies
+      - Moins d'une accouchée sur vingt-cinq mourait
+```
 
 ## Le lavage des mains
 
@@ -2249,7 +2340,26 @@ Au bout de six jours, l'un des deux marins qui mangeaient les agrumes est apte �
 service, et l'autre est assez rétabli pour soigner ses camarades. Les buveurs de cidre vont un
 peu mieux. Les autres ne progressent pas.
 
-[Emplacement image : tableau des six paires de marins de l'essai de 1747 et de leurs résultats, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'essai de 1747, six paires de marins
+legende: Même logement, même nourriture de base, un seul traitement différent par paire.
+centre: Douze marins atteints de scorbut
+parties:
+  - nom: Cidre
+    role: Un peu mieux.
+  - nom: Élixir de vitriol
+    role: Pas de progrès.
+  - nom: Vinaigre
+    role: Pas de progrès.
+  - nom: Eau de mer
+    role: Pas de progrès.
+  - nom: Deux oranges et un citron
+    role: Guérison rapide en six jours.
+    icone: apple
+  - nom: Pâte d'épices
+    role: Pas de progrès.
+```
 
 ## Pourquoi cet essai compte
 
@@ -2581,7 +2691,20 @@ des levures au microscope. Mais c'est **Louis Pasteur**, à partir de 1857, qui 
 fermentations sont dues à des micro-organismes vivants, et que des microbes indésirables expliquent les
 vins qui tournent. Il invente la **pasteurisation** pour les arrêter.
 
-[Emplacement image : carte des aliments fermentés traditionnels dans le monde et des microbes qui les produisent, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Qui fermente quoi
+centre: Fermentation
+parties:
+  - nom: Levures
+    role: Alcool et gaz carbonique, pour le pain, la bière, le vin.
+  - nom: Bactéries lactiques
+    role: Acide lactique, pour le yaourt, le fromage, la choucroute.
+  - nom: Bactéries acétiques
+    role: Acide acétique, pour le vinaigre.
+  - nom: Moisissures
+    role: Fromages affinés, sauce soja, miso.
+```
 
 ## Pourquoi fermenter
 
@@ -2758,7 +2881,22 @@ Tout dépend de la façon dont la plante est fécondée :
 Pour éviter de perdre des caractères, on garde les graines de **plusieurs plantes**, pas d'une seule,
 surtout pour les espèces allogames.
 
-[Emplacement image : étapes de la production de semences de tomate, haricot et laitue, de la plante choisie au bocal étiqueté, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Quelles plantes pour garder ses graines
+colonnes:
+  - titre: Autogames, faciles
+    icone: leaf
+    points:
+      - Tomates, haricots, pois, laitues
+      - Se croisent peu
+      - Quelques mètres entre variétés
+  - titre: Allogames, plus délicates
+    points:
+      - Courges, maïs, choux, carottes
+      - Se croisent facilement
+      - Une variété à la fois ou fleurs protégées
+```
 
 ## Récolter au bon moment
 
@@ -2904,7 +3042,21 @@ produisent alors des cellules qui s'entremêlent, forment un bourrelet et finiss
 vaisseaux communs. La sève brute monte des racines au greffon, la sève élaborée redescend. En
 quelques semaines, les deux plantes n'en font plus qu'une.
 
-[Emplacement image : coupe d'une greffe en fente montrant le greffon, le porte-greffe et le contact des cambiums, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Réussir une greffe en fente
+elements:
+  - titre: Couper net
+    texte: Un greffoir tranchant et propre.
+  - titre: Ajuster les cambiums
+    texte: La couche vivante du greffon touche celle du porte-greffe.
+  - titre: Ligaturer
+    texte: Raphia ou bande élastique, bien serrés.
+  - titre: Protéger
+    texte: Mastic à greffer contre le dessèchement.
+  - titre: Libérer
+    texte: On retire la ligature quand la greffe a pris.
+```
 
 ## Qui peut-on greffer sur qui
 
@@ -3057,7 +3209,21 @@ Leurs protéines complètent celles des céréales : les céréales manquent d'u
 lysine, que les légumineuses apportent. D'où les associations traditionnelles du monde entier : riz et
 lentilles, maïs et haricots, semoule et pois chiches.
 
-[Emplacement image : comparaison de cultures selon les calories et les protéines produites par hectare et leur durée de conservation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Un jardin nourricier équilibré
+centre: Alimentation équilibrée
+icone: wheat
+parties:
+  - nom: Énergie
+    role: Pommes de terre, céréales, patates douces, manioc.
+  - nom: Protéines
+    role: Haricots, lentilles, pois, soja, qui fixent l'azote.
+  - nom: Vitamines
+    role: Légumes verts et colorés, fruits.
+  - nom: Graisses
+    role: Noix, tournesol, colza.
+```
 
 ## Les compléments indispensables
 

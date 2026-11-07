@@ -1670,7 +1670,17 @@ Pendant longtemps, rétrécir les transistors apportait tout à la fois :
 - une **consommation par transistor plus faible** ;
 - un **coût par transistor en baisse**.
 
-[Emplacement image : graphique en échelle logarithmique du nombre de transistors par puce de 1971 à aujourd'hui, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Un demi-siècle de miniaturisation
+chiffres:
+  - valeur: 2 ans
+    texte: doublement du nombre de transistors, selon Moore en 1975
+  - valeur: 2 300
+    texte: transistors dans l'Intel 4004 de 1971
+  - valeur: "> 100 milliards"
+    texte: transistors dans les plus grandes puces actuelles
+```
 
 ## Le mur de la chaleur
 
@@ -1799,7 +1809,23 @@ récente compte plusieurs milliers à plus de vingt mille cœurs de calcul.
   consommer plusieurs centaines de watts.
 - **Les sorties vidéo** et le connecteur qui la relie à la carte mère.
 
-[Emplacement image : vue éclatée d'une carte graphique avec le GPU, la mémoire, l'alimentation et le système de refroidissement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: CPU ou GPU
+colonnes:
+  - titre: CPU
+    icone: chip
+    points:
+      - Quelques cœurs, souvent 4 à 24
+      - Très polyvalents et rapides
+      - Décisions, programmes, système
+  - titre: GPU
+    icone: monitor
+    points:
+      - Des milliers de cœurs simples
+      - Le même calcul sur des millions de données
+      - Images, science, intelligence artificielle
+```
 
 ## Du jeu vidéo au calcul scientifique
 
@@ -2070,7 +2096,24 @@ d'acteurs :
 5. **La fabrication** : TSMC, puis Samsung en Corée du Sud et Intel aux États-Unis.
 6. **L'assemblage et le test**, surtout à Taïwan, en Chine et en Asie du Sud-Est.
 
-[Emplacement image : carte du monde montrant les étapes de la chaîne des semi-conducteurs et les pays qui les dominent, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La chaîne mondiale d'une puce avancée
+legende: Chaque étape est dominée par très peu d'acteurs.
+elements:
+  - titre: Logiciels de conception
+    texte: Surtout Synopsys et Cadence.
+  - titre: Conception
+    texte: Apple, Nvidia, AMD, Qualcomm, Google.
+  - titre: Machines
+    texte: ASML seule pour l'EUV.
+  - titre: Matériaux
+    texte: Plaques, gaz et résines, souvent japonais.
+  - titre: Fabrication
+    texte: TSMC, puis Samsung et Intel.
+  - titre: Assemblage et test
+    texte: Surtout en Asie.
+```
 
 Si un seul de ces maillons s'arrête, toute la chaîne se bloque. Entre 2020 et 2022, une pénurie de
 puces a ainsi paralysé des chaînes de montage automobiles dans le monde entier.
@@ -7354,7 +7397,19 @@ aller chercher les données en mémoire. Un NPU supprime une grande partie de ce
 - **Une mémoire proche** : des réserves de mémoire placées au plus près des unités de calcul, car
   déplacer une donnée coûte souvent plus d'énergie que la calculer.
 
-[Emplacement image : comparaison schématique d'un CPU, d'un GPU et d'un NPU avec leurs unités de calcul et leur mémoire, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois astuces d'un NPU
+centre: NPU
+icone: chip
+parties:
+  - nom: Grilles de multiplicateurs
+    role: Les données passent d'une unité à la voisine sans retourner en mémoire.
+  - nom: Précision réduite
+    role: Des nombres sur 16, 8 ou 4 bits au lieu de 32.
+  - nom: Mémoire proche
+    role: Déplacer une donnée coûte souvent plus qu'un calcul.
+```
 
 ## Dans nos poches et nos ordinateurs
 
@@ -13861,6 +13916,24 @@ plaque dans l'eau et l'exposition en plusieurs passes, ce 193 nm a permis de des
 Mais chaque passe supplémentaire coûte du temps et augmente les risques de défauts. L'EUV, quatorze
 fois plus courte, permet de dessiner les motifs les plus fins en une seule fois.
 
+```schema
+type: barres
+titre: Des lumières de plus en plus courtes
+legende: Longueurs d'onde successives de la lithographie, en nanomètres.
+unite: nm
+valeurs:
+  - label: Ultraviolet ancien
+    valeur: 436
+  - label: Ultraviolet
+    valeur: 365
+  - label: Laser ultraviolet
+    valeur: 248
+  - label: Laser à 193 nm
+    valeur: 193
+  - label: EUV
+    valeur: 13.5
+```
+
 ## Une machine hors norme
 
 Produire et maîtriser une lumière EUV est un exploit technique.
@@ -13881,7 +13954,23 @@ Une machine EUV pèse environ 150 tonnes. ASML indique qu'elle voyage en pièces
 200 millions d'euros ; la nouvelle génération dite *High-NA*, à plus forte ouverture, dépasse
 300 millions.
 
-[Emplacement image : trajet de la lumière dans une machine EUV, de la goutte d'étain aux miroirs puis à la plaque, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le trajet de la lumière dans une machine EUV
+elements:
+  - titre: Gouttes d'étain
+    texte: Des dizaines de milliers par seconde.
+  - titre: Laser
+    texte: Chaque goutte devient un plasma qui émet à 13,5 nm.
+    icone: bolt
+  - titre: Miroirs sous vide
+    texte: L'EUV est absorbé par l'air et le verre.
+  - titre: Masque
+    texte: Il porte le motif du circuit.
+  - titre: Plaque
+    texte: Le motif réduit s'imprime dans la résine.
+    icone: chip
+```
 
 ## Trente ans de développement
 

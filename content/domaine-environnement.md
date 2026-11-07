@@ -1656,7 +1656,15 @@ constructions :
 - **clapets anti-retour** sur les évacuations, pour que l'égout ne remonte pas dans la maison ;
 - matériaux qui supportent l'eau au rez-de-chaussée : carrelage, enduits à la chaux.
 
-[Emplacement image : maison adaptée au risque d'inondation avec batardeaux, clapet anti-retour, équipements en hauteur et zone refuge, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères à connaître
+chiffres:
+  - valeur: 30 cm
+    texte: d'eau suffisent à emporter une voiture
+  - valeur: 17 millions
+    texte: d'habitants exposés aux débordements de cours d'eau en France
+```
 
 ## Surveiller et être alerté
 
@@ -1683,6 +1691,19 @@ point haut et son itinéraire d'évacuation.
 
 **Après** : aérer, désinfecter, ne pas rétablir le courant avant vérification, photographier les dégâts
 pour l'assurance et ne pas boire l'eau du robinet avant l'accord des autorités.
+
+```schema
+type: etapes
+titre: Quand l'eau monte
+elements:
+  - titre: Ne pas prendre la voiture
+  - titre: Ne pas descendre à la cave
+  - titre: Couper électricité et gaz
+  - titre: Monter à l'étage
+    texte: Avec son kit d'urgence.
+  - titre: Écouter la radio
+    texte: Et suivre les consignes.
+```
 
 ## À retenir
 
@@ -1970,7 +1991,23 @@ qui crée des tourbillons derrière lui.
 À l'abri, le sol garde son humidité plus longtemps, les cultures souffrent moins du vent et les
 animaux trouvent de l'ombre l'été et un abri l'hiver.
 
-[Emplacement image : coupe d'une haie sur talus montrant l'effet brise-vent, l'infiltration de l'eau et les animaux abrités, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les services rendus par une haie
+centre: La haie
+icone: tree
+parties:
+  - nom: Brise-vent
+    role: Elle freine le vent sur environ dix à quinze fois sa hauteur.
+  - nom: Eau et sol
+    role: Elle freine le ruissellement et retient la terre fertile.
+  - nom: Biodiversité
+    role: Oiseaux, chauves-souris et coccinelles y vivent et mangent les ravageurs.
+  - nom: Bois et fruits
+    role: Bois de chauffage, plaquettes, noisettes, mûres.
+  - nom: Carbone
+    role: Elle stocke du carbone dans son bois et dans le sol.
+```
 
 ## L'eau et la terre retenues
 
@@ -2225,7 +2262,22 @@ Couper un arbre n'a de sens que si un autre le remplace. Deux voies existent :
 Les forestiers pratiquent aussi des **éclaircies** : ils coupent une partie des jeunes arbres pour
 laisser plus de lumière et d'eau aux autres, qui grossissent plus vite et plus droit.
 
-[Emplacement image : évolution d'une parcelle forestière, des semis aux éclaircies puis à la récolte, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le cycle d'une forêt gérée durablement
+elements:
+  - titre: Inventaire
+    texte: On mesure les arbres et leur croissance.
+  - titre: Plan de gestion
+    texte: Il prévoit les coupes sur dix à vingt ans.
+  - titre: Éclaircies
+    texte: On laisse plus de lumière aux meilleurs arbres.
+  - titre: Récolte
+    texte: On ne prélève pas plus que l'accroissement.
+  - titre: Régénération
+    texte: Semis naturels ou plantation remplacent les arbres coupés.
+    icone: leaf
+```
 
 ## Plusieurs façons de cultiver la forêt
 
@@ -11770,7 +11822,21 @@ Si le sol est trop imperméable ou trop perméable, on construit un **filtre à 
 La fosse doit être **vidangée** régulièrement par un professionnel, selon la hauteur de boues,
 souvent tous les quatre à dix ans.
 
-[Emplacement image : coupe d'une filière fosse toutes eaux et tranchées d'épandage, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La filière fosse et épandage
+elements:
+  - titre: Eaux de la maison
+    texte: Eaux vannes et eaux grises.
+    icone: droplet
+  - titre: Fosse toutes eaux
+    texte: Les solides se déposent, des bactéries commencent la digestion.
+  - titre: Épandage
+    texte: L'eau s'infiltre dans des tranchées de gravier.
+  - titre: Sol vivant
+    texte: Des bactéries achèvent l'épuration.
+    icone: leaf
+```
 
 ## Les autres solutions
 

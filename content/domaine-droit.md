@@ -2507,7 +2507,22 @@ location.
 - Le propriétaire ne peut pas exiger certains documents ou pratiques : relevés bancaires, attestation
   de bonne tenue de compte, chèque de réservation.
 
-[Emplacement image : calendrier d'une location, de la signature à la restitution du dépôt de garantie, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Location vide ou meublée
+colonnes:
+  - titre: Vide
+    icone: house
+    points:
+      - Bail d'au moins 3 ans avec un particulier
+      - Dépôt de garantie d'un mois au plus
+      - Préavis du locataire de 3 mois, 1 mois en zone tendue
+  - titre: Meublée
+    points:
+      - Bail d'un an, 9 mois pour un étudiant
+      - Dépôt de garantie de deux mois au plus
+      - Préavis du locataire d'un mois
+```
 
 ## L'état des lieux
 
@@ -3726,7 +3741,17 @@ somme empruntée.
 Un TAEG ne peut pas dépasser le **taux d'usure**, plafond fixé chaque trimestre par la Banque de
 France selon le type et le montant du prêt.
 
-[Emplacement image : exemple chiffré comparant le coût total d'un prêt personnel et d'un crédit renouvelable pour la même somme, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères du crédit à la consommation
+chiffres:
+  - valeur: TAEG
+    texte: le seul taux qui permet de comparer deux offres
+  - valeur: 14 jours
+    texte: pour renoncer après avoir accepté l'offre
+  - valeur: 200 à 75 000 €
+    texte: les montants concernés par ces règles
+```
 
 ## Les protections de l'emprunteur
 
@@ -4750,7 +4775,18 @@ prévisible. Mais ce que l'on touche vraiment dépend des détails : **garanties
 - **La garantie des accidents de la vie**, qui indemnise les accidents domestiques graves.
 - **L'assurance emprunteur**, exigée en pratique pour un crédit immobilier.
 
-[Emplacement image : exemple chiffré de remboursement d'un sinistre avec franchise, plafond et vétusté, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Un sinistre de 1 000 € avec une franchise de 300 €
+unite: €
+valeurs:
+  - label: Dommage
+    valeur: 1000
+  - label: Franchise, à ma charge
+    valeur: 300
+  - label: Remboursé
+    valeur: 700
+```
 
 ## En cas de sinistre
 
@@ -9543,7 +9579,23 @@ Le bulletin mentionne aussi le **montant net social**, qui sert au calcul de cer
 la prime d'activité, et les **cotisations patronales**, payées en plus par l'employeur. Le coût total
 d'un salarié pour l'entreprise est donc nettement supérieur à son salaire brut.
 
-[Emplacement image : bulletin de salaire simplifié annoté du brut au net à payer, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du brut au net à payer
+elements:
+  - titre: Salaire de base
+    texte: Prévu au contrat.
+  - titre: Éléments variables
+    texte: Heures supplémentaires, primes, absences.
+  - titre: Brut total
+  - titre: Cotisations salariales
+    texte: Souvent un peu plus de 20 % du brut.
+  - titre: Net avant impôt
+  - titre: Prélèvement à la source
+  - titre: Net à payer
+    texte: Versé sur le compte.
+    icone: coin
+```
 
 ## Les autres informations à vérifier
 

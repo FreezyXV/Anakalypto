@@ -2369,7 +2369,22 @@ Un méthaniseur, ou digesteur, est une cuve étanche. On y introduit la matière
 à de l'eau. Le gaz s'accumule en haut, dans un dôme ou une cloche, d'où un tuyau l'emmène vers son
 usage. La matière digérée ressort de l'autre côté.
 
-[Emplacement image : schéma d'un petit digesteur familial avec l'entrée des déchets, la cuve, la réserve de gaz et la sortie du digestat, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du fumier au méthane
+legende: Trois groupes de microbes travaillent à la suite, sans oxygène.
+elements:
+  - titre: Découper
+    texte: Cellulose, graisses et protéines deviennent des molécules simples.
+  - titre: Fermenter
+    texte: Elles donnent des acides, de l'hydrogène et du gaz carbonique.
+  - titre: Produire le méthane
+    texte: Les archées méthanogènes fabriquent le méthane.
+    icone: fire
+  - titre: Utiliser
+    texte: Le gaz cuit, chauffe ou fait de l'électricité ; le digestat fertilise.
+    icone: leaf
+```
 
 Les microbes ont leurs exigences :
 
@@ -2609,7 +2624,27 @@ La cuisson dure plusieurs jours. Le charbonnier surveille la couleur de la fumé
 légère, elle indique que la carbonisation est terminée. Il étouffe alors la meule et la laisse
 refroidir avant d'ouvrir, sinon le charbon s'enflamme au contact de l'air.
 
-[Emplacement image : coupe d'une meule de charbonnier avec la cheminée centrale, les bûches et la couverture de terre, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: Ce qui se passe quand on carbonise du bois
+legende: Températures indicatives de la pyrolyse.
+unite: °C
+min: 0
+max: 500
+zones:
+  - de: 0
+    a: 200
+    label: L'eau s'évapore, fumée blanche et humide
+    ton: info
+  - de: 200
+    a: 400
+    label: Le bois se décompose et dégage gaz, goudrons et chaleur
+    ton: attention
+  - de: 400
+    a: 500
+    label: Il ne reste presque que du carbone, le charbon de bois
+    ton: normal
+```
 
 Ces méthodes sont peu efficaces : avec 100 kg de bois, une meule ou un four en terre donne
 souvent 10 à 20 kg de charbon. Des fours en briques ou en métal, mieux étanches, atteignent 25 à
@@ -2794,7 +2829,23 @@ La machine a donc trois parties essentielles :
 - un **cylindre** et un **piston**, qui transforment la pression en mouvement ;
 - un **mécanisme**, comme une bielle et une manivelle, qui transforme le va-et-vient en rotation.
 
-[Emplacement image : schéma d'une machine à vapeur avec chaudière, cylindre, piston, bielle et volant, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De la chaleur au mouvement
+legende: Le principe commun à toutes les machines à vapeur, des pompes de mine aux turbines.
+elements:
+  - titre: Chauffer
+    texte: Le foyer brûle du bois ou du charbon sous la chaudière.
+    icone: fire
+  - titre: Vaporiser
+    texte: L'eau bout et la vapeur, enfermée, monte en pression.
+    icone: droplet
+  - titre: Pousser
+    texte: La vapeur pousse le piston dans le cylindre.
+  - titre: Transformer
+    texte: Bielle et manivelle changent le va-et-vient en rotation.
+    icone: gear
+```
 
 ## Des mines inondées aux usines
 
@@ -2808,6 +2859,27 @@ plus fiable : la vapeur remplit un cylindre, un jet d'eau froide la condense, le
 laisse la pression de l'air enfoncer le piston, et un grand balancier actionne la pompe. Ces
 machines fonctionnent, mais elles gaspillent énormément : moins de 1 % de l'énergie du charbon
 devient du travail utile.
+
+```schema
+type: frise
+titre: Trois siècles de vapeur
+evenements:
+  - date: Ier siècle
+    titre: L'éolipile de Héron
+    texte: Une sphère qui tourne sous des jets de vapeur.
+  - date: 1712
+    titre: Machine de Newcomen
+    texte: Elle pompe l'eau des mines anglaises.
+  - date: 1769
+    titre: Condenseur séparé de Watt
+    texte: Environ trois fois moins de charbon consommé.
+  - date: 1829
+    titre: La Rocket des Stephenson
+    texte: La locomotive dépasse 40 km/h.
+  - date: 1884
+    titre: Turbine de Parsons
+    texte: Elle produit encore l'électricité des centrales.
+```
 
 ## L'amélioration de James Watt
 
@@ -2976,7 +3048,25 @@ Un four solaire fonctionne bien quand le soleil est haut et le ciel dégagé. On
 toutes les heures environ. Il économise du bois ou du gaz, réduit la fumée dans les maisons et permet
 aussi de pasteuriser l'eau.
 
-[Emplacement image : coupe d'un four solaire boîte avec réflecteurs, vitre, intérieur noir et isolation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois cuiseurs solaires
+colonnes:
+  - titre: Four boîte
+    points:
+      - Caisse isolée, vitre, réflecteurs
+      - 100 à 150 °C
+      - Cuisson lente
+  - titre: Cuiseur à panneaux
+    points:
+      - Panneaux réfléchissants et sac transparent
+      - Très simple et bon marché
+  - titre: Cuiseur parabolique
+    points:
+      - Miroir qui concentre la lumière
+      - Plus de 200 °C
+      - Ne jamais regarder le point de concentration
+```
 
 ## Le chauffe-eau solaire
 
@@ -3160,7 +3250,23 @@ direction, il faut orienter les ailes face à lui :
 Les ailes sont des cadres de bois garnis de toiles, que le meunier déroule plus ou moins selon
 la force du vent, comme un marin règle ses voiles.
 
-[Emplacement image : coupe d'un moulin tour montrant les ailes, l'arbre, les engrenages et les meules, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Du vent à la farine
+centre: Moulin à vent
+icone: turbine
+parties:
+  - nom: Les ailes
+    role: Inclinées, elles dévient le vent et tournent.
+  - nom: L'arbre
+    role: Il transmet la rotation des ailes.
+  - nom: Le rouet et la lanterne
+    role: Deux roues dentées qui multiplient la vitesse.
+  - nom: Les meules
+    role: La meule du dessus tourne et écrase le grain sur la meule fixe.
+  - nom: La toiture ou la queue
+    role: Elle oriente les ailes face au vent.
+```
 
 ## Du grain au mécanisme
 
@@ -3341,6 +3447,19 @@ seconde, huit fois plus. Comme le vent varie sans cesse, c'est la **vitesse moye
 compte : en dessous d'environ 4 à 5 mètres par seconde de moyenne, une petite éolienne est rarement
 intéressante.
 
+```schema
+type: barres
+titre: Rotor de 3 mètres, puissance selon le vent
+legende: Puissance tirée par l'éolienne, environ 30 % de celle du vent.
+unite: W
+valeurs:
+  - label: Vent de 5 m/s
+    valeur: 150
+  - label: Vent de 10 m/s
+    valeur: 1200
+    note: huit fois plus
+```
+
 ## Les éléments
 
 - **Le rotor** : deux à trois pales, en bois taillé, en fibre de verre ou en aluminium, équilibrées avec
@@ -3355,7 +3474,23 @@ intéressante.
 - **Le mât** : en tube d'acier, haubané par des câbles, souvent basculant pour pouvoir descendre
   l'éolienne au sol lors de l'entretien.
 
-[Emplacement image : petite éolienne autonome avec rotor, alternateur, queue repliable, mât haubané, régulateur, résistance de délestage et batteries, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les éléments d'une petite éolienne
+centre: Petite éolienne
+icone: turbine
+parties:
+  - nom: Rotor
+    role: Deux à trois pales équilibrées.
+  - nom: Alternateur à aimants
+    role: Produit du courant dès les faibles vitesses.
+  - nom: Queue
+    role: Oriente le rotor et se replie par vent fort.
+  - nom: Mât haubané
+    role: Place le rotor bien au-dessus des obstacles.
+  - nom: Régulateur et délestage
+    role: Charge les batteries et évite l'emballement.
+```
 
 ## Charger des batteries
 
@@ -4048,7 +4183,23 @@ son ion est plus gros et plus lourd, ce qui impose d'autres matériaux :
 - **Une filière jeune** : les volumes restent faibles et les prix n'ont pas encore atteint leur
   plancher, d'autant que le prix du lithium a beaucoup baissé depuis 2023.
 
-[Emplacement image : comparaison des densités d'énergie et des matériaux des batteries plomb, sodium-ion, LFP et NMC, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Sodium-ion ou lithium-ion
+colonnes:
+  - titre: Sodium-ion
+    points:
+      - Sodium abondant et bon marché
+      - Environ 100 à 175 Wh/kg
+      - Bonne tenue vers -20 °C
+      - Électrode négative en carbone dur
+  - titre: Lithium-ion
+    points:
+      - Lithium plus rare
+      - Plus de 250 Wh/kg pour les meilleures
+      - Performances réduites au froid
+      - Électrode négative en graphite
+```
 
 ## Du laboratoire à l'usine
 
@@ -8367,7 +8518,21 @@ L'eau est environ **800 fois plus dense** que l'air. Un courant de 2 à 3 mètre
 transporte donc autant d'énergie qu'un vent bien plus rapide : à puissance égale, une hydrolienne
 est beaucoup plus petite qu'une éolienne.
 
-[Emplacement image : hydrolienne posée sur le fond marin dans un courant de marée, reliée à la côte par un câble, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons d'exploiter les marées
+colonnes:
+  - titre: Usine marémotrice
+    points:
+      - Un barrage ferme un estuaire
+      - L'eau passe dans des turbines à chaque marée
+      - La Rance, 240 MW depuis 1966
+  - titre: Hydrolienne
+    points:
+      - Une turbine posée dans un courant de marée
+      - Compacte, l'eau étant 800 fois plus dense que l'air
+      - Invisible depuis la côte
+```
 
 Parmi les sites les plus puissants d'Europe figurent le Pentland Firth, au nord de l'Écosse, où le
 parc MeyGen produit depuis 2016, et le raz Blanchard, entre le Cotentin et l'île d'Aurigny.
@@ -9533,7 +9698,21 @@ ion qui ne peut plus faire ce voyage, c'est un peu de capacité perdue.
   court-circuit.
 - **La dégradation de l'électrolyte**, accélérée par la chaleur et les tensions élevées.
 
-[Emplacement image : coupe d'une électrode neuve et d'une électrode usée montrant la couche SEI, les fissures et les dépôts de lithium, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui use une batterie lithium-ion
+centre: Perte de capacité
+icone: battery
+parties:
+  - nom: La couche SEI
+    role: Elle s'épaissit et emprisonne du lithium.
+  - nom: Les fissures
+    role: Les électrodes gonflent et dégonflent à chaque cycle.
+  - nom: Le lithium métallique
+    role: Il se dépose lors des recharges rapides au froid.
+  - nom: L'électrolyte
+    role: Il se dégrade avec la chaleur et les tensions élevées.
+```
 
 ## Les facteurs d'usure
 
@@ -15680,7 +15859,25 @@ la **géothermie**, la chaleur interne de la Terre.
   volcaniques, utilise de la vapeur pour faire tourner une turbine.
 - **La biomasse** libère par combustion ou fermentation l'énergie stockée par les plantes.
 
-[Emplacement image : schéma de la chaîne capter, transformer, stocker, utiliser, avec une icône par source d'énergie, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La chaîne de toute énergie renouvelable
+elements:
+  - titre: Capter
+    texte: Panneau, capteur, éolienne, turbine, pompe à chaleur.
+    icone: sun
+  - titre: Transformer
+    texte: En électricité ou en chaleur utile.
+    icone: bolt
+  - titre: Adapter
+    texte: Onduleur, électronique de puissance, transformateur.
+  - titre: Stocker
+    texte: Batteries, pompage, chaleur, biomasse.
+    icone: battery
+  - titre: Utiliser
+    texte: Au moment où l'on en a besoin.
+    icone: house
+```
 
 ## Transformer, puis adapter
 
@@ -15710,6 +15907,19 @@ Stocker permet de déplacer l'énergie dans le temps :
 
 Le stockage a un coût et des pertes : une batterie lithium-ion restitue environ 90 % de l'énergie
 reçue, une station de pompage 70 à 80 %, l'hydrogène bien moins.
+
+```schema
+type: barres
+titre: Part de l'énergie restituée par le stockage
+legende: Ordres de grandeur cités dans l'article.
+unite: "%"
+valeurs:
+  - label: Batterie lithium-ion
+    valeur: 90
+  - label: Station de pompage
+    valeur: 75
+    note: 70 à 80 %
+```
 
 ## Combiner les sources
 
@@ -15812,7 +16022,29 @@ La vapeur fait tourner une turbine et produit de l'électricité. L'Islande, l'I
 Nouvelle-Zélande, le Kenya, l'Indonésie, les Philippines et les États-Unis en produisent ; en
 France, la centrale de Bouillante, en Guadeloupe, aussi.
 
-[Emplacement image : coupe du sous-sol montrant une sonde géothermique de maison, un doublet de réseau de chaleur et une centrale volcanique, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois niveaux de géothermie
+colonnes:
+  - titre: Très peu profonde
+    icone: house
+    points:
+      - Quelques mètres à 200 m
+      - Sol vers 10 à 15 °C
+      - Pompe à chaleur pour une maison
+  - titre: Profonde, basse température
+    icone: droplet
+    points:
+      - Environ 1 à 2 km
+      - Eau de 60 à 90 °C
+      - Réseaux de chaleur urbains
+  - titre: Haute température
+    icone: fire
+    points:
+      - Régions volcaniques
+      - Plus de 150 °C
+      - Vapeur pour produire de l'électricité
+```
 
 ## Un peu d'histoire
 
@@ -15939,7 +16171,25 @@ moins chères à l'achat, ne doivent pas descendre souvent sous 50 % de charge.
 supporter les pointes de démarrage d'un réfrigérateur ou d'une pompe. Beaucoup de modèles
 combinent onduleur, régulateur et chargeur pour un groupe électrogène.
 
-[Emplacement image : schéma d'une installation solaire autonome avec panneaux, régulateur MPPT, parc de batteries, onduleur, tableau électrique et groupe électrogène de secours, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Une installation solaire autonome
+elements:
+  - titre: Panneaux
+    texte: Ils produisent du courant continu.
+    icone: sun
+  - titre: Régulateur MPPT
+    texte: Il charge les batteries au mieux, sans les surcharger.
+  - titre: Batteries
+    texte: Elles stockent l'énergie pour la nuit et les jours sombres.
+    icone: battery
+  - titre: Onduleur
+    texte: Il fournit du 230 volts alternatif.
+    icone: bolt
+  - titre: Appareils
+    texte: Lampes, réfrigérateur, pompe, électronique.
+    icone: house
+```
 
 ## Dimensionner en cinq étapes
 
@@ -15956,6 +16206,18 @@ combinent onduleur, régulateur et chargeur pour un groupe électrogène.
    n'importe quel lieu.
 5. **Prévoir un appoint** : un groupe électrogène, une petite éolienne ou une microcentrale
    hydraulique pour les semaines grises, plutôt que des panneaux et des batteries surdimensionnés.
+
+```schema
+type: barres
+titre: Production quotidienne d'un panneau, été contre hiver
+legende: Heures équivalentes de plein soleil par jour dans le nord de la France, ordres de grandeur.
+unite: h
+valeurs:
+  - label: Juillet
+    valeur: 5.5
+  - label: Décembre
+    valeur: 1
+```
 
 ## Câbler en sécurité
 
@@ -16070,7 +16332,29 @@ plaques, sèche-linge, sont remplacés par d'autres solutions.
 - **La géothermie** avec une pompe à chaleur, si l'électricité disponible le permet.
 - **La cuisson** au bois, au gaz en bouteille ou au biogaz, au four solaire l'été.
 
-[Emplacement image : maison autonome en coupe montrant les panneaux, la cuve d'eau de pluie, le puits, le poêle, le système d'épuration et le potager, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les besoins d'une maison autonome
+centre: Maison autonome
+icone: house
+parties:
+  - nom: Réduire d'abord
+    role: Isolation, orientation, étanchéité, appareils économes.
+  - nom: Électricité
+    role: Solaire et batteries, éolien ou microcentrale, groupe d'appoint.
+    icone: bolt
+  - nom: Chaleur
+    role: Bois, solaire thermique, géothermie.
+    icone: fire
+  - nom: Eau
+    role: Pluie, puits déclaré, filtration et désinfection.
+    icone: droplet
+  - nom: Eaux usées
+    role: Assainissement non collectif contrôlé par la commune.
+  - nom: Nourriture
+    role: Potager, fruitiers, conservation.
+    icone: wheat
+```
 
 ## L'eau
 

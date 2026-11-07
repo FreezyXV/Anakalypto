@@ -9842,7 +9842,20 @@ Dans les deux cas, la **ventilation** compte autant que la chaleur : un air chau
 sature d'humidité. Une température de **40 à 60 °C** convient à la plupart des aliments. Des
 moustiquaires aux entrées d'air protègent des insectes.
 
-[Emplacement image : séchoir solaire indirect avec capteur incliné, armoire à claies, entrée et sortie d'air, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Séchoir direct ou indirect
+colonnes:
+  - titre: Direct
+    points:
+      - Caisse noire vitrée
+      - Les aliments reçoivent le soleil
+  - titre: Indirect
+    points:
+      - Air chauffé dans un capteur
+      - Aliments à l'ombre dans une armoire
+      - Couleurs et vitamines mieux préservées
+```
 
 ## Préparer les aliments
 
@@ -14264,7 +14277,20 @@ peuvent germer et produire la toxine, souvent sans odeur ni goût suspect.
   **au-dessus de 100 °C**, entre 115 et 121 °C, ce qui demande un **autoclave**, un stérilisateur sous
   pression, ou de suivre des recettes et barèmes validés.
 
-[Emplacement image : tableau des aliments acides et peu acides avec leur méthode de stérilisation recommandée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Quelle stérilisation selon l'aliment
+colonnes:
+  - titre: Aliments acides
+    points:
+      - Fruits, confitures, tomates acidifiées, cornichons au vinaigre
+      - Bain-marie à 100 °C
+  - titre: Aliments peu acides
+    points:
+      - Légumes verts, champignons, viandes, poissons
+      - Au-dessus de 100 °C, entre 115 et 121 °C
+      - Autoclave ou barèmes validés
+```
 
 ## Les règles de base
 
@@ -15033,7 +15059,21 @@ mois dans un endroit frais et ventilé.
 cornichons, le hareng, certaines viandes et fromages. Une saumure faiblement salée sert aussi à la
 **lactofermentation** des légumes, comme la choucroute.
 
-[Emplacement image : comparaison du salage à sec d'un jambon et de la conservation de légumes en saumure, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux méthodes de salaison
+colonnes:
+  - titre: Salage à sec
+    points:
+      - L'aliment est frotté et couvert de sel
+      - Jambon cru, morue, lard
+      - Séchage et affinage ensuite
+  - titre: Saumure
+    points:
+      - L'aliment est plongé dans une eau très salée
+      - Olives, cornichons, hareng
+      - Faiblement salée, elle sert à la lactofermentation
+```
 
 ## Les règles de sécurité
 
@@ -15344,7 +15384,19 @@ la température varie peu et l'humidité reste élevée. Une cave enterrée offr
 - **L'aération** : une ouverture en bas et une en haut renouvellent l'air et évacuent l'humidité excessive
   et les gaz.
 
-[Emplacement image : cave à légumes avec caisses de sable, pommes de terre en clayettes, aération haute et basse et thermomètre, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les conditions d'une bonne cave
+chiffres:
+  - valeur: 0 à 5 °C
+    texte: pour la plupart des racines, sans gel
+  - valeur: 4 à 8 °C
+    texte: pour les pommes de terre
+  - valeur: 85 à 95 %
+    texte: d'humidité de l'air
+  - valeur: Obscurité
+    texte: et une aération haute et basse
+```
 
 ## Préparer la récolte
 
@@ -16116,7 +16168,23 @@ radis :
 Dans les deux cas, on maintient les légumes **sous le liquide** avec un poids : une feuille de chou, un
 petit bocal rempli d'eau, une pierre propre.
 
-[Emplacement image : bocal de légumes lactofermentés avec légumes immergés, poids, saumure et espace pour les gaz, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Le déroulement d'une lactofermentation
+evenements:
+  - date: Jour 0
+    titre: Saler et tasser
+    texte: Environ 2 % de sel, légumes sous le liquide.
+  - date: Premiers jours
+    titre: Démarrage, entre 18 et 22 °C
+    texte: Bulles, liquide trouble, odeur acidulée.
+  - date: 1 à 3 semaines
+    titre: Assez acide
+    texte: On peut goûter.
+  - date: Ensuite
+    titre: Au frais
+    texte: Les bocaux se gardent des mois.
+```
 
 ## La fermentation, étape par étape
 
@@ -19542,7 +19610,23 @@ intoxication est bien plus dangereuse que la faim.
 - **Les glands**, comestibles après avoir été longuement trempés et rincés pour éliminer leurs tanins
   amers.
 
-[Emplacement image : comparaison de plantes comestibles et de leurs sosies toxiques, ail des ours et colchique, châtaigne et marron d'Inde, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les sosies dangereux
+legende: En cas de doute, on ne mange pas.
+colonnes:
+  - titre: Comestible
+    icone: leaf
+    points:
+      - Ail des ours, qui sent l'ail
+      - Châtaigne, bogue à piquants fins et serrés
+      - Carotte sauvage, réservée aux connaisseurs
+  - titre: Toxique, parfois mortel
+    points:
+      - Muguet et colchique
+      - Marron d'Inde, fruit rond et lisse
+      - Grande ciguë et œnanthe safranée
+```
 
 ## Les sosies dangereux
 
@@ -21625,7 +21709,28 @@ temps de pluie ni avec une eau trouble.
 plupart des filtres portables **n'arrêtent pas les virus** ; on complète alors par du chlore ou
 l'ébullition. Les filtres doivent être entretenus selon la notice.
 
-[Emplacement image : comparaison des quatre méthodes de purification, ébullition, chlore, SODIS et filtration, avec leurs durées et leurs limites, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Quatre façons de désinfecter l'eau
+legende: Aucune ne retire les produits chimiques ni le sel.
+colonnes:
+  - titre: Ébullition
+    icone: fire
+    points:
+      - Une minute à gros bouillons
+      - Trois minutes au-dessus d'environ 2 000 m
+      - Méthode la plus sûre
+  - titre: Chlore
+    icone: droplet
+    points:
+      - Environ 2 gouttes par litre d'une javel à 5 à 9 %
+      - Au moins 30 minutes d'attente
+  - titre: Soleil ou filtre
+    icone: sun
+    points:
+      - SODIS, 6 heures au plein soleil en bouteille PET
+      - Les filtres portables n'arrêtent souvent pas les virus
+```
 
 ## Ce que ces méthodes ne font pas
 
@@ -21646,3 +21751,4 @@ tremper les mains ou un gobelet sale. Une eau mal conservée se recontamine.
 - L'ébullition franche pendant une minute est la méthode la plus sûre.
 - Le chlore, environ deux gouttes par litre d'une javel à 5 à 9 % et 30 minutes d'attente, et la méthode SODIS sont des alternatives.
 - Aucune de ces méthodes n'élimine les produits chimiques ni le sel.
+

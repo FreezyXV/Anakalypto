@@ -3639,7 +3639,20 @@ ans. Dans quelques milliers d'années, une autre étoile jouera ce rôle.
 4. On tombe sur une étoile moyennement brillante, isolée : la **Polaire**. Elle est aussi au bout du
    manche de la **Petite Ourse**, plus pâle.
 
-[Emplacement image : ciel du nord montrant la Grande Ourse, l'alignement des deux étoiles de bord et l'étoile Polaire, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Trouver l'étoile Polaire
+elements:
+  - titre: Repérer la Grande Ourse
+    texte: Sept étoiles en forme de casserole.
+    icone: star
+  - titre: Prendre les deux étoiles du bord
+    texte: Celles opposées au manche.
+  - titre: Prolonger cinq fois
+    texte: La distance qui les sépare, vers le haut.
+  - titre: Trouver la Polaire
+    texte: Face à elle, on regarde le nord.
+```
 
 Face à la Polaire, on regarde vers le nord : le sud est dans le dos, l'est à droite, l'ouest à gauche.
 

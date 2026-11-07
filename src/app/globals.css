@@ -1086,7 +1086,7 @@ header[data-discovery="true"] .header-mobile {
       background: color-mix(in srgb, var(--tone-a) 9%, var(--surface));
     }
 
-    .schema-cycle[data-count="6"] .schema-cycle__node {
+    .schema-cycle:is([data-count="5"], [data-count="6"]) .schema-cycle__node {
       width: 27%;
     }
 

@@ -2998,7 +2998,39 @@ Pour le même temps total, mieux vaut quatre séances de trente minutes sur deux
 de deux heures la veille de l'examen. Un rythme simple : revoir le lendemain, puis trois jours après,
 puis une semaine, puis un mois. Des applications de fiches font ce calcul automatiquement.
 
-[Emplacement image : courbe de l'oubli avec et sans révisions espacées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce qui marche, ce qui marche peu
+colonnes:
+  - titre: Très efficace
+    icone: star
+    points:
+      - Se tester de mémoire
+      - Espacer les révisions
+      - Mélanger les exercices
+      - Expliquer avec ses mots
+  - titre: Peu efficace
+    points:
+      - Relire
+      - Surligner
+      - Tout réviser la veille
+```
+
+```schema
+type: frise
+titre: Un rythme de révision simple
+evenements:
+  - date: Jour 1
+    titre: Apprendre
+  - date: Jour 2
+    titre: Premier rappel
+  - date: Jour 5
+    titre: Deuxième rappel
+  - date: 1 semaine plus tard
+    titre: Troisième rappel
+  - date: 1 mois plus tard
+    titre: Consolidation
+```
 
 ## Les autres techniques utiles
 
@@ -14029,6 +14061,21 @@ Pendant un ou deux mois, on note tout, ou l'on reprend ses relevés bancaires :
 Beaucoup de gens découvrent à ce moment des dépenses oubliées. Trois abonnements à 10 € par mois,
 c'est 360 € par an.
 
+```schema
+type: etapes
+titre: Les quatre étapes d'un budget
+elements:
+  - titre: Savoir
+    texte: Noter tout ce qui entre et sort pendant un ou deux mois.
+  - titre: Classer
+    texte: Besoins, envies, épargne.
+  - titre: Se payer en premier
+    texte: Un virement automatique vers l'épargne le jour de la paie.
+    icone: coin
+  - titre: Revoir
+    texte: Chaque mois et chaque année.
+```
+
 ## Étape 2, classer les dépenses
 
 - **Les dépenses fixes et obligatoires** : loyer ou crédit immobilier, énergie, assurances,
@@ -14042,7 +14089,19 @@ fille Amelia Warren Tyagi en 2005 : 50 % des revenus pour les besoins, 30 % pour
 pour l'épargne et le remboursement des dettes. Ce n'est pas une loi : avec un loyer élevé, les
 besoins dépassent souvent 50 %. L'important est d'avoir des proportions choisies.
 
-[Emplacement image : répartition d'un budget mensuel entre besoins, envies et épargne, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: La règle 50/30/20
+legende: Un repère, à adapter à sa situation.
+unite: "%"
+valeurs:
+  - label: Besoins
+    valeur: 50
+  - label: Envies
+    valeur: 30
+  - label: Épargne et dettes
+    valeur: 20
+```
 
 ## Étape 3, se payer en premier
 
@@ -14152,7 +14211,21 @@ compte plus que placer beaucoup.
 À 5 % par an, 1 000 € deviennent environ 1 629 € en 10 ans, 4 322 € en 30 ans et 11 467 € en 50 ans.
 La courbe s'accélère avec le temps.
 
-[Emplacement image : comparaison sur cinquante ans de 1 000 € placés à 5 % en intérêts simples et en intérêts composés, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: 1 000 € placés à 5 % par an
+legende: Capital obtenu avec les intérêts composés.
+unite: €
+valeurs:
+  - label: Départ
+    valeur: 1000
+  - label: Après 10 ans
+    valeur: 1629
+  - label: Après 30 ans
+    valeur: 4322
+  - label: Après 50 ans
+    valeur: 11467
+```
 
 ## La règle de 72
 
@@ -14175,6 +14248,20 @@ Prenons deux personnes qui placent chaque mois 100 € à un rendement moyen de 
 La première a versé deux fois plus, mais elle obtient trois fois plus. Les quinze années de plus ont
 travaillé pour elle. Ces chiffres sont des illustrations : un placement réel peut rapporter plus ou
 moins, et les rendements élevés s'accompagnent de risques.
+
+```schema
+type: comparaison
+titre: 100 € par mois à 5 %, jusqu'à 55 ans
+colonnes:
+  - titre: Début à 25 ans
+    points:
+      - 36 000 € versés
+      - Environ 83 000 € obtenus
+  - titre: Début à 40 ans
+    points:
+      - 18 000 € versés
+      - Environ 27 000 € obtenus
+```
 
 ## L'autre face, les dettes
 
@@ -14292,7 +14379,18 @@ si :
 Pour commencer, un premier palier de **1 000 €**, ou d'un mois de dépenses, protège déjà contre la
 plupart des petits imprévus.
 
-[Emplacement image : pyramide de l'épargne avec l'épargne de précaution à la base, puis les projets, puis l'investissement de long terme, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: L'ordre de construction de son épargne
+legende: On commence par la base.
+niveaux:
+  - titre: Investissement de long terme
+    texte: Actions, fonds indiciels, après le reste.
+  - titre: Épargne pour les projets
+    texte: Voiture, travaux, études.
+  - titre: Épargne de précaution
+    texte: Trois à six mois de dépenses, disponibles et sans risque.
+```
 
 ## Où la placer
 
@@ -14422,7 +14520,21 @@ de milliers d'entreprises. Ces fonds ont souvent des frais annuels bas, autour d
 inférieurs à ceux de nombreux fonds gérés activement, dont la plupart font moins bien que leur indice
 sur le long terme.
 
-[Emplacement image : comparaison entre un portefeuille concentré sur une entreprise et un portefeuille diversifié sur un indice mondial, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Avant et pendant l'investissement
+elements:
+  - titre: Rembourser les dettes chères
+    texte: Aucun placement ne rapporte sûrement 15 à 20 %.
+  - titre: Constituer une réserve
+    texte: Plusieurs mois de dépenses de côté.
+  - titre: Définir son horizon
+    texte: Pas d'actions pour l'argent utile dans moins de cinq ans.
+  - titre: Diversifier
+    texte: Des milliers d'entreprises, par un fonds indiciel.
+  - titre: Investir régulièrement
+    texte: Une somme fixe chaque mois.
+```
 
 ## Investir régulièrement
 
@@ -14551,7 +14663,21 @@ des intérêts compatibles. Un employeur bloqué sur le salaire peut offrir du t
 formation, une prime, un titre ou une révision dans six mois. Poser des questions ouvertes,
 « Qu'est-ce qui est important pour vous ? », et écouter vraiment permet de trouver ces options.
 
-[Emplacement image : schéma de préparation d'une négociation avec objectif, seuil, solution de repli et intérêts des deux parties, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Préparer une négociation
+elements:
+  - titre: Objectif et seuil
+    texte: Ce que l'on veut, et en dessous de quoi on refuse.
+  - titre: Valeur de marché
+    texte: Salaires, prix ou loyers comparables.
+  - titre: Intérêts de l'autre
+    texte: Ses besoins et ses contraintes.
+  - titre: Solution de repli
+    texte: Ce que l'on fera sans accord.
+  - titre: Premier chiffre
+    texte: Ambitieux mais justifiable.
+```
 
 ## Les techniques utiles
 
@@ -14668,7 +14794,17 @@ fallu en médiane **66 jours** pour que le geste devienne automatique, avec des 
 d'environ 18 à plus de 250 jours. Bonne nouvelle : rater une journée de temps en temps n'empêchait
 pas l'habitude de se former.
 
-[Emplacement image : courbe de l'automatisme d'une habitude qui monte au fil des répétitions puis se stabilise, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La boucle d'une habitude
+elements:
+  - titre: Déclencheur
+    texte: Un moment, un lieu, une émotion.
+  - titre: Action
+    texte: Le geste répété.
+  - titre: Récompense
+    texte: Plaisir, soulagement, satisfaction.
+```
 
 ## Les méthodes qui marchent
 
@@ -14782,7 +14918,20 @@ est-elle **urgente** ? Est-elle **importante** ? La **matrice d'Eisenhower** en 
 Le piège est de passer ses journées dans les cases 1 et 3. Les tâches de la case 2 ne crient jamais,
 alors qu'elles construisent l'avenir. Ce sont elles qu'il faut inscrire en premier dans son agenda.
 
-[Emplacement image : matrice d'Eisenhower en quatre cases avec des exemples de tâches, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La matrice d'Eisenhower
+centre: Mes tâches
+parties:
+  - nom: Urgent et important
+    role: À faire tout de suite.
+  - nom: Important, pas urgent
+    role: À planifier et protéger en premier.
+  - nom: Urgent, pas important
+    role: À déléguer, regrouper ou limiter.
+  - nom: Ni urgent ni important
+    role: À réduire.
+```
 
 ## Planifier sa semaine
 
@@ -14909,7 +15058,23 @@ pour le corps et la voix. On ne naît pas bon orateur : on le devient en pratiqu
   ou s'entraîner devant un proche.
 - **Prévoir les questions** difficiles et ses réponses.
 
-[Emplacement image : structure d'une intervention avec ouverture, message principal, trois idées illustrées et conclusion, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Préparer une intervention
+elements:
+  - titre: Le public
+    texte: Ce qu'il sait et ce qu'il attend.
+  - titre: Un message
+    texte: Résumable en une phrase.
+    icone: bulb
+  - titre: Trois idées au plus
+    texte: Chacune illustrée par un exemple.
+  - titre: Ouverture et conclusion
+    texte: Capter l'attention, puis répéter le message.
+  - titre: Répéter à voix haute
+    texte: Debout, chronométré.
+    icone: mic
+```
 
 ## Apprivoiser le trac
 
@@ -15042,7 +15207,19 @@ La **communication non violente** propose quatre étapes :
 
 Parler en **« je »** plutôt qu'en **« tu »** évite que l'autre se sente attaqué et se défende.
 
-[Emplacement image : comparaison d'une phrase accusatrice et de sa reformulation en quatre étapes observation, sentiment, besoin, demande, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La communication non violente en quatre étapes
+elements:
+  - titre: Observation
+    texte: Un fait précis, sans jugement.
+  - titre: Sentiment
+    texte: Ce que je ressens.
+  - titre: Besoin
+    texte: Ce qui est important pour moi.
+  - titre: Demande
+    texte: Une action concrète et réalisable.
+```
 
 ## Les pièges à éviter
 
@@ -15164,7 +15341,20 @@ Pour répondre à « Parlez-moi d'une situation où… », la méthode **STAR** 
 
 Préparer cinq ou six histoires de ce type permet de répondre à la plupart des questions.
 
-[Emplacement image : schéma de la méthode STAR avec un exemple de réponse, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La méthode STAR
+legende: Pour raconter une expérience de façon concrète.
+elements:
+  - titre: Situation
+    texte: Le contexte, en une ou deux phrases.
+  - titre: Tâche
+    texte: Ce que je devais faire.
+  - titre: Action
+    texte: Ce que j'ai fait moi-même.
+  - titre: Résultat
+    texte: Chiffré si possible, et ce que j'en ai appris.
+```
 
 ## Pendant l'entretien
 
@@ -15297,7 +15487,22 @@ relations, qui reposent sur la **réciprocité**. On l'entretient en :
 
 Les gens aident volontiers ceux qui les ont aidés, ou qui ont montré un intérêt sincère pour eux.
 
-[Emplacement image : schéma d'un réseau avec liens forts et liens faibles, montrant comment une information circule entre deux cercles, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Liens forts et liens faibles
+legende: D'après les travaux de Mark Granovetter, 1973.
+colonnes:
+  - titre: Liens forts
+    points:
+      - Amis proches, famille
+      - Fréquentent les mêmes milieux que nous
+      - Savent souvent les mêmes choses
+  - titre: Liens faibles
+    points:
+      - Connaissances que l'on voit rarement
+      - Circulent dans d'autres cercles
+      - Apportent souvent les informations nouvelles
+```
 
 ## Où rencontrer des gens
 
@@ -15433,7 +15638,25 @@ tester d'abord à petite échelle.
 Puis écrire pourquoi. Cet exercice, proposé par le psychologue Gary Klein, fait apparaître des risques
 que l'enthousiasme masquait.
 
-[Emplacement image : arbre de décision simple avec options, risques et critères pour un choix important, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Des outils contre les biais
+centre: Une décision importante
+icone: brain
+parties:
+  - nom: Réversible ou non
+    role: Trancher vite ce qui se défait, prendre son temps sinon.
+  - nom: Une troisième option
+    role: Éviter les faux dilemmes.
+  - nom: Le pré-mortem
+    role: Imaginer l'échec pour en trouver les causes.
+  - nom: L'avis contraire
+    role: Qu'est-ce qui me ferait changer d'avis ?
+  - nom: Les chiffres de base
+    role: Combien de projets de ce type réussissent ?
+  - nom: La règle 10-10-10
+    role: Dix minutes, dix mois, dix ans.
+```
 
 **4. Chercher l'avis contraire.** Demander à quelqu'un de confiance de défendre l'option opposée, ou se
 demander : « Quelle information me ferait changer d'avis ? »
@@ -15460,3 +15683,4 @@ informations qu'on avait, et pas seulement son résultat, qui dépend aussi du h
 - Chercher au moins une troisième option évite les faux dilemmes.
 - Le pré-mortem consiste à imaginer l'échec pour en découvrir les causes avant de se lancer.
 - On juge une décision sur sa qualité au moment où elle a été prise, pas seulement sur son résultat.
+

@@ -5185,7 +5185,21 @@ plaie.
 
 Un garrot bien serré fait très mal : c'est normal et ce n'est pas une raison pour le relâcher.
 
-[Emplacement image : pose d'un garrot au-dessus d'une plaie de la cuisse, avec la position, le serrage et l'heure notée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Face à une hémorragie massive
+elements:
+  - titre: Se protéger
+    texte: Gants, sac plastique ou tissu.
+  - titre: Comprimer
+    texte: Appuyer fort sur la plaie, sans relâcher.
+  - titre: Alerter
+    texte: Le 15, le 18 ou le 112.
+  - titre: Garrot si besoin
+    texte: Quelques centimètres au-dessus, jamais sur une articulation.
+  - titre: Noter l'heure
+    texte: Et ne plus jamais desserrer.
+```
 
 ## Ce que le garrot ne fait pas
 
@@ -6144,7 +6158,18 @@ On mélange jusqu'à dissolution complète. Le goût ne doit pas être plus sal�
 sel est dangereux**, surtout pour un enfant : on mesure avec soin. On peut ajouter un peu de jus de
 fruit ou manger une banane pour apporter du potassium.
 
-[Emplacement image : préparation d'une solution de réhydratation avec un litre d'eau, six cuillères de sucre et une demi-cuillère de sel, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La recette de secours
+legende: À utiliser sans sachet de sels de réhydratation. Trop de sel est dangereux.
+chiffres:
+  - valeur: 1 litre
+    texte: d'eau sûre, bouillie et refroidie ou désinfectée
+  - valeur: 6 cuillères
+    texte: à café rases de sucre
+  - valeur: ½ cuillère
+    texte: à café rase de sel
+```
 
 ## Comment la boire
 
@@ -8769,7 +8794,23 @@ Quand les soins médicaux sont loin, ces gestes simples prennent encore plus d'i
 5. **Désinfecter** si l'on dispose d'un antiseptique, en évitant l'alcool pur sur une plaie ouverte.
 6. **Couvrir** d'un pansement propre et sec, à changer chaque jour ou s'il est mouillé ou sale.
 
-[Emplacement image : étapes du soin d'une plaie, lavage, nettoyage, désinfection et pansement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Soigner une petite plaie
+elements:
+  - titre: Mains propres
+    texte: Savon ou gants.
+  - titre: Arrêter le saignement
+    texte: Compresse et pression.
+  - titre: Laver
+    texte: Eau potable et savon, abondamment.
+  - titre: Retirer les saletés
+    texte: Avec une pince propre.
+  - titre: Couvrir
+    texte: Pansement propre, changé chaque jour.
+  - titre: Surveiller
+    texte: Rougeur qui s'étend, pus, fièvre.
+```
 
 ## Quand consulter
 
@@ -8950,7 +8991,24 @@ et l'anxiété. Trente minutes de marche rapide par jour ont déjà un effet.
 Des horaires réguliers, une chambre sombre et l'éloignement des écrans avant le coucher aident à briser
 ce cercle.
 
-[Emplacement image : cercle du stress chronique et les leviers qui permettent de le briser, respiration, mouvement, sommeil, relations, organisation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les leviers contre le stress chronique
+centre: Stress chronique
+parties:
+  - nom: Respirer lentement
+    role: Environ six respirations par minute, expiration longue.
+  - nom: Bouger
+    role: Trente minutes de marche rapide par jour.
+  - nom: Dormir
+    role: Horaires réguliers, écrans éloignés.
+  - nom: S'entourer
+    role: Parler, partager, rire.
+  - nom: S'organiser
+    role: Écrire, prioriser, découper.
+  - nom: Changer de regard
+    role: Se concentrer sur ce qui dépend de soi.
+```
 
 **S'entourer.** Parler à un proche, partager un repas, rire : le soutien social est l'un des meilleurs
 protecteurs contre le stress.
