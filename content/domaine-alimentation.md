@@ -10090,18 +10090,149 @@ status: planned
 
 ---
 type: article
-title: La conservation optimale des aliments au refrigerateur
+title: La conservation optimale des aliments au réfrigérateur
 slug: la-conservation-optimale-des-aliments-au-refrigerateur
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
 summary: >
-  Ranger correctement son frigo peut a lui seul reduire le gaspillage domestique.
-tags: [gaspillage-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le froid ralentit les microbes sans les tuer. Bien régler son réfrigérateur, connaître ses zones de
+  température et ranger chaque aliment au bon endroit prolonge leur durée de vie, limite le
+  gaspillage et réduit le risque d'intoxication.
+tags: [gaspillage-alimentaire]
+relatedArticles: [pourquoi-certains-aliments-ont-ils-une-date-limite-et-d-autres-une-date-conseillee, gaspillage-alimentaire-mondial, la-conservation-des-aliments-par-sechage-solaire, maladies-transmises-eau-aliments]
+sources:
+  - title: "Réfrigérateur"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur"
+    publisher: "Wikipédia"
+  - title: "Refrigeration"
+    url: "https://en.wikipedia.org/wiki/Refrigeration"
+    publisher: "Wikipedia"
+  - title: "Listeria monocytogenes"
+    url: "https://en.wikipedia.org/wiki/Listeria_monocytogenes"
+    publisher: "Wikipedia"
+  - title: "Food preservation"
+    url: "https://en.wikipedia.org/wiki/Food_preservation"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle température vise-t-on dans la zone la plus froide du réfrigérateur ?"
+    options:
+      - "Entre 0 et 4 °C"
+      - "Entre 8 et 10 °C"
+      - "En dessous de −18 °C"
+    answer: 1
+    explanation: >
+      Viandes, poissons et produits frais se conservent entre 0 et 4 °C. −18 °C est la température du
+      congélateur.
+  - question: "Pourquoi ne faut-il pas mettre un plat encore très chaud au réfrigérateur ?"
+    options:
+      - "Parce qu'il réchaufferait tout l'intérieur et les autres aliments"
+      - "Parce que le froid gâche le goût"
+      - "Parce que c'est interdit par la loi"
+    answer: 1
+    explanation: >
+      Un plat brûlant fait monter la température de l'appareil. On le laisse tiédir, mais pas plus de
+      deux heures à température ambiante, avant de le ranger.
+  - question: "Le froid du réfrigérateur tue-t-il les microbes ?"
+    options:
+      - "Oui, tous"
+      - "Non, il ralentit leur multiplication sans les détruire"
+      - "Seulement les virus"
+    answer: 2
+    explanation: >
+      Le froid met les microbes en sommeil. Certains, comme Listeria, continuent même à se multiplier
+      lentement à basse température.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le réfrigérateur ne stérilise pas les aliments : il **ralentit** la multiplication des bactéries et des
+moisissures. Pour qu'il soit efficace, il faut une température adaptée, autour de **4 °C** dans la zone
+la plus froide, un rangement qui tient compte des différentes zones, et quelques gestes simples :
+emballer, ne pas surcharger, nettoyer régulièrement. Bien utilisé, il évite des intoxications et une
+bonne part du gaspillage domestique.
+
+## Le froid ralentit, il ne tue pas
+
+La plupart des bactéries qui gâtent les aliments se multiplient très vite entre **20 et 40 °C**. En
+dessous de 4 °C, leur croissance devient très lente. Mais elles ne meurent pas, et certaines, comme
+**Listeria**, continuent de se multiplier doucement même au froid. C'est pourquoi un aliment entamé ne
+se garde pas indéfiniment, même au réfrigérateur, et pourquoi la température compte.
+
+Un **thermomètre** posé dans la zone froide permet de vérifier : le réglage du bouton ne dit pas la
+température réelle.
+
+## Les zones du réfrigérateur
+
+Le froid n'est pas le même partout. Dans un appareil classique, l'air froid descend : le bas est
+souvent plus froid, sauf le bac à légumes, protégé. Chaque modèle est différent, et beaucoup indiquent
+la zone la plus froide par un symbole.
+
+```schema
+type: echelle
+titre: Où ranger quoi selon la température
+legende: Repères pour un réfrigérateur classique ; la zone la plus froide varie selon les modèles.
+unite: °C
+min: 0
+max: 10
+zones:
+  - de: 0
+    a: 4
+    label: Viandes, poissons, plats entamés
+    ton: info
+  - de: 4
+    a: 6
+    label: Laitages, œufs, restes
+    ton: normal
+  - de: 6
+    a: 10
+    label: Légumes, beurre, boissons
+    ton: attention
+```
+
+- **Zone la plus froide, 0 à 4 °C** : viandes et poissons crus, charcuterie, plats cuisinés, produits
+  frais entamés, crème et fromages frais.
+- **Zone intermédiaire, 4 à 6 °C** : yaourts, fromages affinés, restes de repas, œufs si on les met au
+  frais.
+- **Bac à légumes** : fruits et légumes, à l'abri du dessèchement.
+- **Porte, la zone la moins froide** : beurre, boissons, sauces et condiments, qui supportent les
+  variations de température dues aux ouvertures.
+
+## Les bons gestes
+
+1. **Emballer** les aliments dans des boîtes fermées ou un film, pour éviter que les microbes passent
+   d'un aliment à l'autre et que les odeurs se mélangent.
+2. **Séparer le cru du cuit** : la viande crue en bas, dans un récipient, pour qu'elle ne coule pas sur
+   les autres aliments.
+3. **Laisser tiédir** un plat chaud avant de le ranger, sans dépasser deux heures à température
+   ambiante.
+4. **Ne pas surcharger** : l'air froid doit circuler.
+5. **Fermer vite la porte** et ne pas la laisser ouverte.
+6. **Nettoyer** l'intérieur environ une fois par mois avec de l'eau et du savon, puis rincer, éventuellement
+   avec un peu de vinaigre blanc.
+7. **Placer devant** les produits à consommer en premier, et les nouveaux derrière.
+
+## Ce qui n'a rien à faire au réfrigérateur
+
+Certains aliments se conservent mieux hors du froid : les **tomates** perdent leur goût, les **bananes**
+noircissent, les **pommes de terre** deviennent sucrées, le **pain** rassit plus vite, les **oignons** et
+l'**ail** ramollissent. Les fruits non mûrs mûrissent mieux à température ambiante, avant de passer au
+frais.
+
+## Dates et durées
+
+La **date limite de consommation**, « à consommer jusqu'au », concerne les produits fragiles : on ne la
+dépasse pas. La **date de durabilité minimale**, « à consommer de préférence avant », indique seulement
+une perte de qualité possible : le produit reste souvent bon bien après. Un plat cuisiné maison se
+garde en général deux à trois jours au réfrigérateur.
+
+## À retenir
+
+- Le froid ralentit les microbes mais ne les tue pas ; certains se multiplient même au froid.
+- La zone la plus froide doit être entre 0 et 4 °C, à vérifier avec un thermomètre.
+- Viandes et poissons crus vont dans la zone froide, emballés et séparés des aliments cuits.
+- On laisse tiédir un plat chaud, on ne surcharge pas l'appareil et on le nettoie chaque mois.
+- Tomates, bananes, pommes de terre et pain se conservent mieux hors du réfrigérateur.
 
 ---
 type: article

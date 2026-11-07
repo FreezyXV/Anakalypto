@@ -7066,18 +7066,130 @@ status: planned
 
 ---
 type: article
-title: L'effet Dunning-Kruger, surestimer sa propre competence
+title: L'effet Dunning-Kruger, surestimer sa propre compétence
 slug: l-effet-dunning-kruger-surestimer-sa-propre-competence
 categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
 summary: >
-  Pourquoi les personnes les moins competentes surestiment souvent leurs capacites.
-tags: [biais-cognitifs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les personnes les moins compétentes dans un domaine ont tendance à surestimer leur niveau, faute de
+  savoir repérer leurs propres erreurs. Décrit en 1999, cet effet est réel mais souvent caricaturé :
+  tout le monde y est exposé, et il se corrige par les retours et l'apprentissage.
+tags: [biais-cognitifs]
+relatedArticles: [pourquoi-notre-cerveau-se-trompe, pourquoi-croit-on-aux-fausses-informations-meme-quand-on-se-croit-prudent, apprendre-efficacement, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte]
+sources:
+  - title: "Effet Dunning-Kruger"
+    url: "https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger"
+    publisher: "Wikipédia"
+  - title: "Dunning–Kruger effect"
+    url: "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect"
+    publisher: "Wikipedia"
+  - title: "Unskilled and unaware of it (Kruger & Dunning, 1999)"
+    url: "https://doi.org/10.1037/0022-3514.77.6.1121"
+    publisher: "Journal of Personality and Social Psychology"
+  - title: "Metacognition"
+    url: "https://en.wikipedia.org/wiki/Metacognition"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que décrit l'effet Dunning-Kruger ?"
+    options:
+      - "Les personnes peu compétentes dans un domaine tendent à surestimer leur niveau"
+      - "Les experts savent toujours exactement ce qu'ils valent"
+      - "L'intelligence est fixée à la naissance"
+    answer: 1
+    explanation: >
+      Faute des connaissances nécessaires pour repérer leurs erreurs, les débutants évaluent mal leur
+      propre performance.
+  - question: "Selon Dunning et Kruger, pourquoi les débutants se surestiment-ils ?"
+    options:
+      - "Par vanité"
+      - "Parce que les compétences pour bien faire sont aussi celles qui permettent de juger sa performance"
+      - "Parce qu'ils trichent aux tests"
+    answer: 2
+    explanation: >
+      C'est un double handicap : sans compétence, on se trompe, et on ne voit pas qu'on se trompe.
+  - question: "Comment limiter cet effet ?"
+    options:
+      - "En évitant toute évaluation"
+      - "En cherchant des retours précis et en continuant à apprendre"
+      - "En se fiant à son intuition"
+    answer: 2
+    explanation: >
+      Les retours extérieurs et l'apprentissage aident à prendre conscience de ce qu'on ne sait pas
+      encore.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En 1999, les psychologues américains **David Dunning** et **Justin Kruger** publient une étude au titre
+parlant : « Incompétents et inconscients de l'être ». Ils montrent que les personnes qui obtiennent les
+**moins bons résultats** à des tests de logique, de grammaire ou d'humour **surestiment fortement** leur
+performance, tandis que les meilleurs ont tendance à légèrement **se sous-estimer**. Leur explication :
+les compétences nécessaires pour bien faire sont les mêmes que celles qui permettent de **juger** sa
+propre performance. C'est l'**effet Dunning-Kruger**.
+
+## L'expérience
+
+Les chercheurs font passer des tests à des étudiants, puis leur demandent d'estimer leur score et leur
+classement par rapport aux autres.
+
+- Ceux du **quart le plus faible**, classés en moyenne vers le 12e percentile, s'estiment autour du
+  **62e** : au-dessus de la moyenne.
+- Ceux du **quart le plus fort** se situent légèrement en dessous de leur rang réel : ils supposent que
+  les autres réussissent aussi bien qu'eux.
+
+Quand on entraîne ensuite les participants faibles à la tâche, leur estimation devient plus réaliste :
+ils comprennent mieux ce qu'ils avaient mal fait.
+
+```schema
+type: barres
+titre: Le quart le plus faible, rang réel et rang estimé
+legende: Les participants les moins performants se croyaient au-dessus de la moyenne ; résumé de l'étude de Kruger et Dunning, 1999.
+unite: percentile
+valeurs:
+  - label: Rang réel
+    valeur: 12
+  - label: Rang estimé
+    valeur: 62
+```
+
+## Le double handicap
+
+Pour savoir qu'une phrase est mal construite, il faut connaître la grammaire. Pour savoir qu'un
+raisonnement est faux, il faut savoir raisonner. Celui qui manque de ces savoirs fait des erreurs **et**
+ne les voit pas. C'est une question de **métacognition**, la capacité à juger ses propres pensées. Les
+experts, eux, connaissent l'étendue de ce qu'ils ignorent, ce qui les rend souvent plus prudents.
+
+## Un effet souvent caricaturé
+
+Sur Internet circule une courbe avec un « sommet de la stupidité » et une « vallée du désespoir » : elle
+ne vient pas de l'étude d'origine. L'effet réel est plus modeste :
+
+- les débutants ne se croient pas experts, ils se pensent simplement **au-dessus de la moyenne** ;
+- une partie de l'effet s'explique par des raisons statistiques, comme la **régression vers la
+  moyenne** et la tendance générale à se juger un peu meilleur que les autres ;
+- il ne concerne pas une catégorie de « gens bêtes » : **tout le monde** est débutant dans la plupart
+  des domaines.
+
+L'effet est discuté par les chercheurs, mais l'idée centrale tient : on évalue mal sa compétence dans un
+domaine qu'on maîtrise peu.
+
+## Comment s'en protéger
+
+1. **Chercher des retours précis** : un correcteur, un collègue expérimenté, une mesure objective.
+2. **Se comparer à une référence** : un barème, un examen, un résultat vérifiable.
+3. **Apprendre davantage** : c'est en progressant qu'on découvre l'étendue de ce qu'on ignorait.
+4. **Se méfier de ses certitudes** dans un domaine nouveau, et se demander : « qu'est-ce qui pourrait me
+   faire changer d'avis ? »
+5. **Écouter les experts**, tout en gardant un esprit critique.
+
+## À retenir
+
+- Les personnes peu compétentes dans un domaine tendent à surestimer leur niveau.
+- Les compétences pour réussir sont aussi celles qui permettent de juger sa réussite.
+- Les plus compétents tendent au contraire à se sous-estimer légèrement.
+- L'effet est réel mais souvent caricaturé, et tout le monde y est exposé.
+- Les retours précis et l'apprentissage permettent de mieux s'évaluer.
 
 ---
 type: article
@@ -10040,18 +10152,137 @@ status: planned
 
 ---
 type: article
-title: Le role du chomage comme indicateur macroeconomique majeur
+title: Le rôle du chômage comme indicateur macroéconomique majeur
 slug: le-role-du-chomage-comme-indicateur-macroeconomique-majeur
 categoryPath: sciences-humaines-et-sociales/economie/macroeconomie
 summary: >
-  Une mesure essentielle qui reflete la sante generale du marche du travail d'un pays.
-tags: [macroeconomie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le taux de chômage mesure la part des personnes qui veulent travailler sans trouver d'emploi. Suivi
+  de près par les gouvernements et les banques centrales, il renseigne sur la santé de l'économie,
+  mais il se lit avec précaution : sa définition et ses angles morts comptent.
+tags: [macroeconomie]
+relatedArticles: [inflation-comment-ca-marche, principes-offre-et-demande, inegalites-de-revenu-et-de-patrimoine, contrat-de-travail-et-licenciement]
+sources:
+  - title: "Chômage"
+    url: "https://fr.wikipedia.org/wiki/Ch%C3%B4mage"
+    publisher: "Wikipédia"
+  - title: "Chômage au sens du BIT"
+    url: "https://www.insee.fr/fr/metadonnees/definition/c1129"
+    publisher: "Insee"
+  - title: "Unemployment"
+    url: "https://en.wikipedia.org/wiki/Unemployment"
+    publisher: "Wikipedia"
+  - title: "Okun's law"
+    url: "https://en.wikipedia.org/wiki/Okun%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Selon le Bureau international du travail, qui est considéré comme chômeur ?"
+    options:
+      - "Toute personne sans emploi"
+      - "Une personne sans emploi, disponible pour travailler et qui cherche activement un emploi"
+      - "Toute personne inscrite dans une agence pour l'emploi"
+    answer: 2
+    explanation: >
+      Trois conditions sont nécessaires : ne pas avoir travaillé, même une heure, pendant la semaine de
+      référence, être disponible et chercher activement.
+  - question: "Comment calcule-t-on le taux de chômage ?"
+    options:
+      - "Chômeurs divisés par la population totale"
+      - "Chômeurs divisés par la population active, c'est-à-dire actifs occupés plus chômeurs"
+      - "Chômeurs divisés par les retraités"
+    answer: 2
+    explanation: >
+      On rapporte les chômeurs à la population active. Les étudiants, retraités ou personnes au foyer
+      qui ne cherchent pas d'emploi n'en font pas partie.
+  - question: "Pourquoi le taux de chômage peut-il baisser sans que la situation s'améliore ?"
+    options:
+      - "Parce que des chômeurs découragés arrêtent de chercher et sortent de la population active"
+      - "Parce que la population augmente"
+      - "Parce que les salaires montent"
+    answer: 1
+    explanation: >
+      Une personne qui renonce à chercher n'est plus comptée comme chômeur, ce qui fait baisser le taux
+      sans création d'emploi.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **taux de chômage** mesure la part des personnes qui **veulent travailler** et **cherchent un
+emploi** sans en trouver, parmi l'ensemble des **actifs**. C'est l'un des indicateurs économiques les
+plus suivis, avec la croissance et l'inflation. Un chômage élevé signale une économie qui tourne en
+dessous de ses capacités, et un coût humain : baisse de revenus, perte de confiance, isolement. Mais le
+chiffre dépend de sa définition, et il ne dit pas tout du marché du travail.
+
+## Qui est chômeur
+
+La définition internationale est celle du **Bureau international du travail**, le BIT. Une personne est
+au chômage si elle remplit **trois conditions** à la fois :
+
+1. elle n'a **pas travaillé**, même une heure, pendant une semaine donnée ;
+2. elle est **disponible** pour prendre un emploi dans les deux semaines ;
+3. elle a **cherché activement** un emploi dans le mois précédent, ou en a trouvé un qui commence plus
+   tard.
+
+En France, l'Insee mesure ce chômage par une grande **enquête** auprès des ménages. Le nombre d'inscrits
+à France Travail, l'ancien Pôle emploi, est un autre chiffre, différent : on peut être inscrit en
+travaillant quelques heures, ou chômeur sans être inscrit.
+
+## Le calcul
+
+Le taux de chômage rapporte le nombre de chômeurs à la **population active**, c'est-à-dire les
+personnes qui ont un emploi plus celles qui en cherchent un. Les étudiants, retraités et personnes au
+foyer qui ne cherchent pas d'emploi sont **inactifs** : ils ne comptent ni au numérateur ni au
+dénominateur.
+
+```schema
+type: pyramide
+titre: Qui compte dans le taux de chômage
+legende: Le taux de chômage rapporte les chômeurs à la population active, pas à la population totale.
+niveaux:
+  - titre: Chômeurs
+    texte: Sans emploi, disponibles et en recherche active.
+  - titre: Population active
+    texte: Personnes en emploi et chômeurs réunis.
+  - titre: Population en âge de travailler
+    texte: Actifs et inactifs, comme étudiants, retraités ou personnes au foyer.
+```
+
+## Les différentes formes de chômage
+
+- **Le chômage frictionnel** : le temps de passer d'un emploi à un autre. Il existe même quand l'économie
+  va bien.
+- **Le chômage conjoncturel** : lié aux crises. Quand l'activité ralentit, les entreprises embauchent
+  moins et licencient.
+- **Le chômage structurel** : un décalage durable entre les emplois disponibles et les compétences, les
+  lieux de vie ou les salaires demandés.
+
+## Pourquoi les gouvernements et les banques centrales le suivent
+
+Le chômage suit l'activité : l'économiste Arthur Okun a observé qu'une croissance plus faible que la
+normale fait monter le chômage, et inversement. Les gouvernements s'en servent pour décider de leurs
+politiques d'emploi et de soutien. Les **banques centrales**, dont plusieurs ont un objectif d'emploi, le
+surveillent pour régler leurs taux d'intérêt : un chômage très bas peut pousser les salaires et les prix
+à la hausse.
+
+## Les angles morts du chiffre
+
+- **Les découragés** : une personne qui renonce à chercher sort des statistiques, ce qui fait baisser le
+  taux sans aucune embauche.
+- **Le sous-emploi** : une personne qui travaille quelques heures et voudrait travailler davantage n'est
+  pas chômeur.
+- **La qualité des emplois** : le taux ne dit rien des salaires, de la précarité ou des contrats courts.
+
+C'est pourquoi on le complète par le **taux d'emploi**, la part des personnes qui travaillent dans une
+classe d'âge, et par des mesures du sous-emploi et du « halo » du chômage.
+
+## À retenir
+
+- Le taux de chômage mesure la part des actifs qui cherchent un emploi sans en trouver.
+- Le BIT définit le chômeur par trois conditions : sans emploi, disponible et en recherche active.
+- On rapporte les chômeurs à la population active, pas à la population totale.
+- Il existe un chômage frictionnel, conjoncturel et structurel.
+- Le chiffre se complète par le taux d'emploi et la mesure du sous-emploi, car il a des angles morts.
 
 ---
 type: article
@@ -10385,18 +10616,144 @@ status: planned
 
 ---
 type: article
-title: Les monopoles et leur impact sur le fonctionnement d'un marche
+title: Les monopoles et leur impact sur le fonctionnement d'un marché
 slug: les-monopoles-et-leur-impact-sur-le-fonctionnement-d-un-marche
 categoryPath: sciences-humaines-et-sociales/economie/microeconomie
 summary: >
-  Une situation ou une seule entreprise controle l'offre d'un bien, modifiant les regles habituelles du marche.
-tags: [microeconomie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand une seule entreprise vend un produit sans concurrent, elle peut fixer des prix plus élevés et
+  produire moins qu'un marché concurrentiel. Certains monopoles sont naturels, d'autres sont créés
+  par des brevets ou des pratiques abusives. Les États les encadrent par le droit de la concurrence.
+tags: [microeconomie]
+relatedArticles: [principes-offre-et-demande, inflation-comment-ca-marche, pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins, web-ouvert-et-plateformes-fermees]
+sources:
+  - title: "Monopole"
+    url: "https://fr.wikipedia.org/wiki/Monopole"
+    publisher: "Wikipédia"
+  - title: "Monopoly"
+    url: "https://en.wikipedia.org/wiki/Monopoly"
+    publisher: "Wikipedia"
+  - title: "Natural monopoly"
+    url: "https://en.wikipedia.org/wiki/Natural_monopoly"
+    publisher: "Wikipedia"
+  - title: "Network effect"
+    url: "https://en.wikipedia.org/wiki/Network_effect"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi un monopole vend-il en général plus cher qu'un marché concurrentiel ?"
+    options:
+      - "Parce que ses coûts sont toujours plus élevés"
+      - "Parce que, sans concurrent, il peut réduire la quantité vendue et augmenter son prix pour maximiser son profit"
+      - "Parce que la loi l'y oblige"
+    answer: 2
+    explanation: >
+      Les clients n'ont pas d'alternative. Le monopole choisit le couple prix-quantité qui lui rapporte
+      le plus, avec un prix plus haut et une production plus faible.
+  - question: "Qu'est-ce qu'un monopole naturel ?"
+    options:
+      - "Un monopole sur des produits agricoles"
+      - "Un secteur où une seule entreprise produit moins cher que plusieurs, à cause d'énormes coûts fixes"
+      - "Un monopole qui disparaît tout seul"
+    answer: 2
+    explanation: >
+      Réseaux d'eau, voies ferrées, lignes électriques : dupliquer l'infrastructure serait un gaspillage.
+  - question: "Comment les États limitent-ils les abus de monopole ?"
+    options:
+      - "En interdisant toutes les grandes entreprises"
+      - "Par le droit de la concurrence, le contrôle des fusions et la régulation des prix"
+      - "En supprimant les brevets"
+    answer: 2
+    explanation: >
+      Les autorités de concurrence sanctionnent les abus de position dominante et contrôlent les fusions
+      ; des régulateurs encadrent les monopoles naturels.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **monopole** est une situation où **une seule entreprise** vend un produit ou un service pour lequel
+il n'existe pas de substitut proche. Privés de concurrence, les clients ne peuvent pas aller voir
+ailleurs. L'entreprise peut alors fixer des **prix plus élevés** et **produire moins** que sur un marché
+concurrentiel, au détriment des consommateurs et de l'économie. Certains monopoles sont pourtant
+inévitables ou utiles. Les États les **encadrent** par le droit de la concurrence et la régulation.
+
+## Comment se forme un monopole
+
+```schema
+type: systeme
+titre: Les origines d'un monopole
+legende: Un monopole naît d'une barrière qui empêche les concurrents d'entrer sur le marché.
+centre: Monopole
+icone: columns
+parties:
+  - nom: Coûts fixes énormes
+    role: Réseaux d'eau, de rails, d'électricité
+    icone: bridge
+  - nom: Brevet
+    role: Exclusivité temporaire sur une invention
+    icone: bulb
+  - nom: Ressource rare
+    role: Contrôle d'une mine ou d'un gisement
+    icone: mountain
+  - nom: Décision publique
+    role: Licence ou concession exclusive
+    icone: scales
+  - nom: Effets de réseau
+    role: Plus d'utilisateurs, plus d'intérêt
+    icone: network
+  - nom: Pratiques abusives
+    role: Évincer les concurrents
+    icone: lock
+```
+
+- **Le monopole naturel** : quand les coûts fixes sont gigantesques, une seule entreprise produit moins
+  cher que plusieurs. Construire deux réseaux d'eau parallèles dans une ville serait absurde.
+- **Le brevet** : l'inventeur reçoit une exclusivité temporaire, en général vingt ans, pour récompenser
+  l'innovation.
+- **Le contrôle d'une ressource** rare ou d'un emplacement.
+- **Une décision publique** : licence ou concession exclusive accordée par l'État.
+- **Les effets de réseau** : un réseau social ou une plateforme est d'autant plus utile qu'il a
+  d'utilisateurs, ce qui pousse le marché vers un acteur dominant.
+- **Des pratiques abusives** : prix artificiellement bas pour ruiner un concurrent, contrats d'exclusivité,
+  rachats systématiques des nouveaux venus.
+
+## Pourquoi un monopole nuit au marché
+
+Sur un marché concurrentiel, si une entreprise augmente trop ses prix, ses clients partent chez les
+concurrents. Le monopole n'a pas ce frein. Pour maximiser son profit, il **réduit la quantité** vendue et
+**augmente son prix**. Des clients qui auraient acheté au prix concurrentiel renoncent : les économistes
+parlent de **perte sèche**, une richesse qui n'est créée pour personne.
+
+D'autres effets s'y ajoutent :
+
+- moins d'incitation à **innover** ou à améliorer la qualité, faute de pression ;
+- un **service** parfois dégradé, puisque le client n'a pas le choix ;
+- un transfert de richesse des consommateurs vers l'entreprise.
+
+## Ce qu'en font les États
+
+- **Le droit de la concurrence** interdit les **abus de position dominante** et les ententes entre
+  concurrents. En France, l'Autorité de la concurrence, et dans l'Union européenne, la Commission
+  européenne, peuvent infliger de lourdes amendes.
+- **Le contrôle des fusions** empêche les rachats qui créeraient un acteur trop dominant.
+- **La régulation des monopoles naturels** : des autorités fixent ou contrôlent les prix des réseaux et
+  imposent leur ouverture à d'autres fournisseurs.
+- **L'ouverture à la concurrence** de secteurs autrefois en monopole, comme les télécommunications.
+
+## Les monopoles d'aujourd'hui
+
+Les grandes plateformes numériques posent de nouvelles questions : leurs services sont souvent gratuits,
+mais les effets de réseau et la maîtrise des données leur donnent un pouvoir considérable. L'Union
+européenne a adopté en 2022 le **règlement sur les marchés numériques** pour encadrer les plus grandes
+d'entre elles, appelées « contrôleurs d'accès ».
+
+## À retenir
+
+- Un monopole est une entreprise seule à vendre un produit sans substitut proche.
+- Il fixe des prix plus élevés et produit moins qu'un marché concurrentiel.
+- Il naît de coûts fixes énormes, de brevets, de ressources rares, d'effets de réseau ou de pratiques abusives.
+- Il freine l'innovation et crée une perte de richesse pour la société.
+- Les États l'encadrent par le droit de la concurrence, le contrôle des fusions et la régulation.
 
 ---
 type: article

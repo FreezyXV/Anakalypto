@@ -5073,14 +5073,148 @@ title: Les facteurs de risque cardiovasculaire modifiables
 slug: les-facteurs-de-risque-cardiovasculaire-modifiables
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
-  Ce sur quoi chacun peut agir concretement pour proteger son coeur.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les maladies du cœur et des vaisseaux sont la première cause de mortalité dans le monde, mais une
+  large part de ce risque dépend de facteurs sur lesquels on peut agir : tabac, tension, cholestérol,
+  diabète, sédentarité, alimentation, poids et alcool.
+tags: [systeme-cardiovasculaire]
+relatedArticles: [pression-arterielle-et-hypertension, coeur-circulation-sanguine, cholesterol-ami-ou-ennemi, pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport]
+sources:
+  - title: "Maladies cardiovasculaires"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Facteur de risque cardiovasculaire"
+    url: "https://fr.wikipedia.org/wiki/Facteur_de_risque_cardiovasculaire"
+    publisher: "Wikipédia"
+  - title: "Cardiovascular disease"
+    url: "https://en.wikipedia.org/wiki/Cardiovascular_disease"
+    publisher: "Wikipedia"
+  - title: "Atherosclerosis"
+    url: "https://en.wikipedia.org/wiki/Atherosclerosis"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Lequel de ces facteurs de risque cardiovasculaire ne peut pas être modifié ?"
+    options:
+      - "Le tabagisme"
+      - "L'âge"
+      - "La sédentarité"
+    answer: 2
+    explanation: >
+      L'âge, le sexe et les antécédents familiaux ne se modifient pas. Le tabac, la sédentarité, la
+      tension ou le cholestérol, si.
+  - question: "Qu'est-ce que l'athérosclérose ?"
+    options:
+      - "Un rythme cardiaque trop lent"
+      - "L'accumulation de dépôts graisseux dans la paroi des artères, qui les rétrécit et les durcit"
+      - "Une infection du cœur"
+    answer: 2
+    explanation: >
+      Ces plaques réduisent le passage du sang et peuvent se rompre, provoquant un caillot à l'origine
+      d'un infarctus ou d'un AVC.
+  - question: "Pourquoi l'hypertension est-elle surnommée « tueur silencieux » ?"
+    options:
+      - "Parce qu'elle ne donne le plus souvent aucun symptôme pendant des années"
+      - "Parce qu'elle ne touche que les personnes âgées"
+      - "Parce qu'elle se soigne seule"
+    answer: 1
+    explanation: >
+      On peut avoir une tension trop élevée sans rien ressentir. Seule une mesure régulière permet de
+      la repérer.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les **maladies cardiovasculaires**, infarctus du myocarde, accident vasculaire cérébral, insuffisance
+cardiaque, sont la **première cause de décès dans le monde** selon l'Organisation mondiale de la santé,
+avec environ 18 millions de morts par an. Certains facteurs de risque ne se changent pas : l'âge, le
+sexe, l'hérédité. Mais la plupart dépendent de notre mode de vie ou se soignent : **tabac**,
+**hypertension**, **cholestérol**, **diabète**, **sédentarité**, **alimentation**, **surpoids** et
+**alcool**. Une grande étude internationale, INTERHEART, a estimé qu'une poignée de ces facteurs
+explique la très grande majorité des infarctus.
+
+## Le mécanisme commun, l'athérosclérose
+
+La plupart de ces facteurs abîment les artères de la même façon. Ils favorisent l'**athérosclérose** :
+des dépôts de graisses, de cellules et de calcium, appelés **plaques**, s'accumulent dans la paroi des
+artères. Celles-ci se rétrécissent et durcissent. Un jour, une plaque peut se fissurer : un **caillot**
+se forme et bouche l'artère. Dans le cœur, c'est l'infarctus ; dans le cerveau, l'AVC.
+
+## Les principaux facteurs sur lesquels agir
+
+```schema
+type: systeme
+titre: Les facteurs de risque que l'on peut changer
+legende: Ils abîment les artères par le même mécanisme et se renforcent les uns les autres.
+centre: Risque cardiovasculaire
+icone: heart
+parties:
+  - nom: Tabac
+    role: Abîme la paroi des artères
+    icone: fire
+  - nom: Hypertension
+    role: Use les vaisseaux sans bruit
+    icone: thermometer
+  - nom: Cholestérol LDL
+    role: Nourrit les plaques
+    icone: droplet
+  - nom: Diabète
+    role: Le sucre en excès abîme les vaisseaux
+    icone: syringe
+  - nom: Sédentarité
+    role: Le manque de mouvement affaiblit le cœur
+    icone: dumbbell
+  - nom: Alimentation
+    role: Trop de sel, de sucre, de graisses
+    icone: apple
+  - nom: Surpoids abdominal
+    role: Aggrave tension et diabète
+    icone: scales
+  - nom: Alcool
+    role: Élève la tension à forte dose
+    icone: bubbles
+```
+
+- **Le tabac** est l'un des facteurs les plus puissants. Il abîme la paroi des artères, favorise les
+  caillots et réduit l'oxygène du sang. Le risque diminue dès l'arrêt et continue de baisser pendant des
+  années.
+- **L'hypertension artérielle** use les vaisseaux et le cœur. Elle ne donne souvent aucun symptôme :
+  seule une mesure la révèle.
+- **Le cholestérol LDL** en excès se dépose dans les plaques. Il se réduit par l'alimentation, l'activité
+  physique et, si besoin, des médicaments.
+- **Le diabète** abîme les petits et les grands vaisseaux. Bien équilibré, il expose à moins de
+  complications.
+- **La sédentarité** : l'activité physique régulière abaisse la tension, améliore le cholestérol et le
+  contrôle du sucre. L'OMS recommande au moins 150 minutes d'activité modérée par semaine pour les
+  adultes.
+- **L'alimentation** : trop de sel élève la tension ; une alimentation riche en légumes, fruits,
+  légumineuses, céréales complètes et poissons protège.
+- **Le surpoids**, surtout la graisse autour du ventre, aggrave la tension, le cholestérol et le
+  diabète.
+- **L'alcool** à forte dose élève la tension et perturbe le rythme du cœur.
+
+Le **stress chronique** et le **manque de sommeil** jouent aussi un rôle, plus difficile à mesurer.
+
+## Des risques qui s'additionnent
+
+Ces facteurs ne s'ajoutent pas simplement : ils se **multiplient**. Une personne qui fume, a une
+tension élevée et trop de cholestérol a un risque bien supérieur à la somme des trois. À l'inverse,
+agir sur plusieurs facteurs à la fois réduit fortement le risque. Les médecins évaluent souvent un
+**risque global** à dix ans, en combinant l'âge, le sexe, la tension, le cholestérol et le tabac.
+
+## Le dépistage
+
+La plupart de ces facteurs sont **silencieux**. Mesurer sa tension, faire un bilan sanguin du
+cholestérol et du sucre à intervalles réguliers, surtout après 40 ans ou en cas d'antécédents
+familiaux, permet de les repérer avant les complications.
+
+## À retenir
+
+- Les maladies cardiovasculaires sont la première cause de décès dans le monde.
+- La plupart des facteurs de risque sont modifiables : tabac, tension, cholestérol, diabète, sédentarité, alimentation, poids, alcool.
+- Ils abîment les artères par un mécanisme commun, l'athérosclérose.
+- Leurs effets se multiplient, et agir sur plusieurs à la fois réduit fortement le risque.
+- Ces facteurs sont souvent silencieux : seul un dépistage régulier les révèle.
 
 ---
 type: article
@@ -9928,18 +10062,148 @@ status: planned
 
 ---
 type: article
-title: Le role de l'exercice physique sur la sante mentale
+title: Le rôle de l'exercice physique sur la santé mentale
 slug: le-role-de-l-exercice-physique-sur-la-sante-mentale
 categoryPath: corps-humain-et-sante/maladies/sante-mentale
 summary: >
-  Ce que la recherche montre sur ce lien concret et bien documente.
-tags: [sante-mentale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Bouger ne fait pas seulement du bien au cœur et aux muscles. L'activité physique régulière réduit
+  le risque de dépression, apaise l'anxiété, améliore le sommeil et la mémoire. Elle complète les
+  soins sans les remplacer, et quelques séances par semaine suffisent pour en profiter.
+tags: [sante-mentale]
+relatedArticles: [depression-donnees-et-prise-en-charge, les-techniques-de-gestion-du-stress-au-quotidien, cycles-du-sommeil-et-fonction-reparatrice, plasticite-cerebrale]
+sources:
+  - title: "Activité physique"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/physical-activity"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Neurobiological effects of physical exercise"
+    url: "https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise"
+    publisher: "Wikipedia"
+  - title: "Exercise therapy"
+    url: "https://en.wikipedia.org/wiki/Exercise_therapy"
+    publisher: "Wikipedia"
+  - title: "Brain-derived neurotrophic factor"
+    url: "https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien d'activité modérée l'OMS recommande-t-elle aux adultes chaque semaine ?"
+    options:
+      - "Au moins 150 minutes"
+      - "Au moins 15 minutes"
+      - "Au moins 10 heures"
+    answer: 1
+    explanation: >
+      L'OMS recommande 150 à 300 minutes d'activité modérée par semaine, ou 75 à 150 minutes
+      d'activité soutenue.
+  - question: "Comment l'activité physique agit-elle sur le cerveau ?"
+    options:
+      - "Uniquement en fatiguant le corps"
+      - "En favorisant la croissance de neurones, la circulation sanguine cérébrale et l'équilibre des messagers chimiques"
+      - "En diminuant l'oxygène du cerveau"
+    answer: 2
+    explanation: >
+      L'effort augmente le flux sanguin vers le cerveau, stimule des facteurs de croissance des
+      neurones et agit sur les neurotransmetteurs.
+  - question: "L'exercice peut-il remplacer un traitement contre une dépression sévère ?"
+    options:
+      - "Oui, toujours"
+      - "Non, il complète les soins mais ne remplace pas un suivi médical"
+      - "Oui, si l'on court tous les jours"
+    answer: 2
+    explanation: >
+      Pour une dépression légère à modérée, l'exercice aide nettement. En cas de dépression sévère, il
+      s'ajoute aux soins prescrits par un professionnel.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'activité physique est l'un des moyens les plus simples et les mieux étudiés de prendre soin de sa
+**santé mentale**. Pratiquée régulièrement, elle réduit le risque de **dépression**, atténue
+l'**anxiété** et le **stress**, améliore le **sommeil**, l'**humeur** et certaines capacités de
+**mémoire** et d'attention. Nul besoin d'être sportif : la marche rapide, le vélo, la danse ou le
+jardinage comptent. Elle ne remplace pas un traitement quand il est nécessaire, mais elle le complète
+efficacement.
+
+## Ce qui se passe dans le cerveau
+
+- **Plus de sang et d'oxygène** : l'effort augmente le débit sanguin vers le cerveau.
+- **Des messagers chimiques** : l'exercice agit sur la sérotonine, la dopamine et la noradrénaline,
+  impliquées dans l'humeur et la motivation, et libère des endorphines et des endocannabinoïdes,
+  associés à la sensation de bien-être après l'effort.
+- **Des facteurs de croissance** : l'effort stimule la production de **BDNF**, une protéine qui
+  favorise la survie et les connexions des neurones, notamment dans l'**hippocampe**, une zone liée à
+  la mémoire et souvent réduite chez les personnes déprimées.
+- **Un stress mieux régulé** : un entraînement régulier habitue le corps à gérer les hormones du stress,
+  comme le cortisol.
+
+```schema
+type: systeme
+titre: Les effets de l'exercice sur l'esprit
+legende: Ces effets apparaissent avec une pratique régulière, même modérée.
+centre: Activité physique régulière
+icone: dumbbell
+parties:
+  - nom: Humeur
+    role: Moins de risque de dépression
+    icone: sun
+  - nom: Anxiété
+    role: Tension et inquiétude apaisées
+    icone: heart
+  - nom: Sommeil
+    role: Endormissement plus rapide
+    icone: star
+  - nom: Mémoire
+    role: Neurones mieux connectés
+    icone: brain
+  - nom: Estime de soi
+    role: Sentiment de progresser
+    icone: medal
+  - nom: Lien social
+    role: Pratique en groupe ou en club
+    icone: network
+```
+
+## Ce que montrent les études
+
+De nombreuses études montrent que les personnes actives ont un risque plus faible de développer une
+dépression. Chez les personnes atteintes de dépression légère à modérée, des programmes d'exercice
+réduisent les symptômes de façon nette, parfois comparable à d'autres traitements. Les effets sont
+aussi réels sur l'anxiété. Les bénéfices apparaissent même avec des quantités modestes : bouger un peu
+vaut beaucoup mieux que pas du tout.
+
+## Les bienfaits indirects
+
+L'exercice agit aussi par d'autres chemins. Il **structure les journées**, donne des **objectifs**
+atteignables et un sentiment de progrès. Pratiqué en groupe, il **rompt l'isolement**. En plein air, il
+expose à la lumière du jour, qui aide à régler l'horloge interne. Il détourne enfin l'attention des
+ruminations, ces pensées négatives qui tournent en boucle.
+
+## Comment s'y mettre
+
+1. **Viser l'objectif de l'OMS** : 150 minutes d'activité modérée par semaine, soit 30 minutes cinq
+   jours par semaine, ou 75 minutes d'activité soutenue.
+2. **Commencer petit** : dix minutes de marche par jour, puis augmenter.
+3. **Choisir une activité plaisante** : on persévère mieux quand on aime ce qu'on fait.
+4. **Fixer un moment régulier** dans la semaine, comme un rendez-vous.
+5. **Bouger avec d'autres** : un ami, un club, un groupe de marche.
+
+Quand on se sent déprimé, l'énergie et la motivation manquent : c'est normal. Viser très bas au début
+aide à démarrer.
+
+## Les limites
+
+L'exercice n'est pas un remède miracle. Une **dépression sévère**, des idées suicidaires ou un trouble
+anxieux handicapant demandent l'aide d'un **professionnel de santé**. Chez certaines personnes,
+l'activité peut aussi devenir excessive, voire compulsive. L'équilibre reste la règle.
+
+## À retenir
+
+- L'activité physique régulière réduit le risque de dépression et apaise l'anxiété.
+- Elle augmente le flux sanguin cérébral, agit sur les messagers chimiques et stimule la croissance des neurones.
+- Elle améliore aussi le sommeil, la mémoire, l'estime de soi et les liens sociaux.
+- L'OMS recommande au moins 150 minutes d'activité modérée par semaine aux adultes.
+- Elle complète les soins mais ne remplace pas un suivi médical en cas de trouble sévère.
 
 ---
 type: article
@@ -15821,18 +16085,137 @@ status: planned
 
 ---
 type: article
-title: Le calendrier vaccinal recommande selon les ages de la vie
+title: Le calendrier vaccinal recommandé selon les âges de la vie
 slug: le-calendrier-vaccinal-recommande-selon-les-ages-de-la-vie
 categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
 summary: >
-  Un programme structure qui organise les vaccinations necessaires depuis la naissance jusqu'a l'age adulte.
-tags: [vaccination, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les vaccins ne s'arrêtent pas à l'enfance. Le calendrier vaccinal fixe à quel âge recevoir chaque
+  vaccin et quand faire les rappels, du nourrisson à la personne âgée. En France, onze vaccins sont
+  obligatoires chez le jeune enfant, et d'autres sont recommandés tout au long de la vie.
+tags: [vaccination]
+relatedArticles: [principe-de-la-vaccination-et-immunite-collective, comment-un-vaccin-a-arn-messager-apprend-il-au-corps-a-se-defendre, comment-la-variole-a-t-elle-disparu-de-la-planete, depistage-organise-des-cancers]
+sources:
+  - title: "Calendrier des vaccinations et recommandations vaccinales"
+    url: "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
+    publisher: "Ministère de la Santé"
+  - title: "Vaccination-info-service"
+    url: "https://vaccination-info-service.fr/"
+    publisher: "Santé publique France"
+  - title: "Calendrier vaccinal"
+    url: "https://fr.wikipedia.org/wiki/Calendrier_vaccinal"
+    publisher: "Wikipédia"
+  - title: "Vaccination schedule"
+    url: "https://en.wikipedia.org/wiki/Vaccination_schedule"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de vaccins sont obligatoires chez les enfants nés en France depuis 2018 ?"
+    options:
+      - "Trois"
+      - "Onze"
+      - "Vingt"
+    answer: 2
+    explanation: >
+      Depuis 2018, onze vaccinations sont obligatoires avant l'entrée en collectivité. D'autres se
+      sont ajoutées pour les enfants nés à partir de 2025.
+  - question: "Pourquoi fait-on des rappels à l'âge adulte ?"
+    options:
+      - "Parce que la protection de certains vaccins diminue avec le temps"
+      - "Parce que les vaccins de l'enfance sont dangereux"
+      - "Parce que la loi l'interdit avant 25 ans"
+    answer: 1
+    explanation: >
+      La mémoire immunitaire s'affaiblit pour certaines maladies, comme le tétanos ou la diphtérie. Les
+      rappels la relancent.
+  - question: "Quel vaccin est recommandé chaque automne aux personnes de 65 ans et plus ?"
+    options:
+      - "Le vaccin contre la grippe"
+      - "Le vaccin contre la rougeole"
+      - "Le BCG"
+    answer: 1
+    explanation: >
+      Le virus de la grippe change chaque année, et les personnes âgées font plus de formes graves :
+      le vaccin est renouvelé à chaque saison.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **calendrier vaccinal** est le programme qui indique à quel **âge** recevoir chaque vaccin, combien
+de **doses** et quand faire les **rappels**. Il est établi par les autorités de santé de chaque pays et
+mis à jour chaque année selon les connaissances. En France, il est publié par le ministère de la Santé
+sur avis de la Haute Autorité de santé. Il couvre toute la vie : la petite enfance, où sont faits la
+plupart des vaccins, l'adolescence, l'âge adulte et le grand âge. Les dates exactes peuvent changer :
+le carnet de santé et le médecin restent les références.
+
+## Pourquoi un calendrier
+
+Chaque vaccin est donné au moment où il protège le mieux, avant l'âge où la maladie est la plus
+dangereuse. Les nourrissons reçoivent tôt les vaccins contre les maladies graves des premiers mois,
+comme la coqueluche. Certains vaccins demandent **plusieurs doses** pour construire une protection
+solide. D'autres doivent être **renouvelés** car la mémoire immunitaire s'affaiblit avec le temps.
+
+## Les grandes étapes en France
+
+```schema
+type: frise
+titre: Les vaccins au fil de la vie, en France
+legende: Repères simplifiés ; le calendrier officiel est mis à jour chaque année et précise doses et rattrapages.
+evenements:
+  - date: 2 à 11 mois
+    titre: Premiers vaccins
+    texte: Diphtérie, tétanos, coqueluche, polio, Hib, hépatite B, pneumocoque, méningocoques.
+  - date: 12 à 16 mois
+    titre: Rougeole et rappels
+    texte: Rougeole, oreillons, rubéole en deux doses, rappels et méningocoques.
+  - date: 6 et 11 à 13 ans
+    titre: Rappels de l'enfance
+    texte: Diphtérie, tétanos, coqueluche et polio.
+  - date: 11 à 14 ans
+    titre: Papillomavirus
+    texte: Pour les filles et les garçons, contre plusieurs cancers.
+  - date: 25, 45, 65 ans
+    titre: Rappels adultes
+    texte: Diphtérie, tétanos, polio, avec la coqueluche à 25 ans.
+  - date: 65 ans et plus
+    titre: Protéger les aînés
+    texte: Grippe chaque automne, Covid-19, pneumocoque, zona.
+```
+
+- **Nourrissons** : depuis 2018, **onze vaccins** sont obligatoires pour les enfants : diphtérie,
+  tétanos, poliomyélite, coqueluche, *Haemophilus influenzae* b, hépatite B, pneumocoque, méningocoque
+  C, rougeole, oreillons et rubéole. Ils conditionnent l'entrée en crèche et à l'école. Pour les
+  enfants nés à partir de 2025, la vaccination contre les **méningocoques B et ACWY** est également
+  devenue obligatoire.
+- **Enfants et adolescents** : rappels vers 6 ans puis entre 11 et 13 ans. La vaccination contre les
+  **papillomavirus humains** est recommandée aux filles et aux garçons de 11 à 14 ans, avec un
+  rattrapage possible ensuite. Elle protège contre plusieurs cancers.
+- **Adultes** : rappels **diphtérie, tétanos, poliomyélite** à **25, 45 et 65 ans**, puis tous les dix
+  ans. Le rappel de 25 ans inclut la coqueluche. Les femmes enceintes se voient recommander certains
+  vaccins pour protéger le futur bébé, comme celui contre la coqueluche.
+- **Personnes âgées** : la **grippe** chaque automne à partir de 65 ans, le Covid-19, le
+  **pneumocoque** et le **zona**, maladies plus graves avec l'âge.
+
+## Les vaccins selon la situation
+
+Au-delà du calendrier général, des vaccins sont recommandés selon l'état de santé, le métier ou les
+voyages : maladies chroniques, professionnels de santé, voyages vers des pays où sévissent la fièvre
+jaune, la fièvre typhoïde ou la rage. Le **BCG**, contre la tuberculose, n'est plus obligatoire en
+France depuis 2007 mais reste recommandé pour les enfants les plus exposés.
+
+## En cas de retard
+
+Un vaccin oublié n'oblige pas à tout recommencer : on reprend le programme là où il s'était arrêté.
+C'est le **rattrapage**. Le carnet de santé, ou le carnet de vaccination électronique, permet de savoir
+où l'on en est. En cas de doute, un médecin, une sage-femme ou un pharmacien fait le point.
+
+## À retenir
+
+- Le calendrier vaccinal fixe l'âge, le nombre de doses et les rappels de chaque vaccin.
+- En France, onze vaccins sont obligatoires chez les enfants depuis 2018.
+- Le papillomavirus se vaccine à l'adolescence, filles et garçons.
+- Les adultes font des rappels diphtérie, tétanos et polio à 25, 45 et 65 ans, puis tous les dix ans.
+- Après 65 ans, la grippe, le Covid-19, le pneumocoque et le zona sont recommandés.
 
 ---
 type: article

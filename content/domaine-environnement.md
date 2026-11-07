@@ -4440,14 +4440,131 @@ title: L'agroforesterie, combiner arbres et cultures
 slug: l-agroforesterie-combiner-arbres-et-cultures
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Une approche ancienne qui associe production agricole et couvert forestier.
-tags: [forets-et-oceans, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Planter des arbres au milieu des champs ou des prairies, c'est renouer avec une pratique ancienne.
+  Les arbres protègent les cultures du vent et de la chaleur, enrichissent le sol, stockent du carbone
+  et abritent la biodiversité, tout en fournissant bois et fruits.
+tags: [forets-et-oceans]
+relatedArticles: [haies-bocage, services-ecosystemiques-biodiversite, comment-les-vers-de-terre-rendent-ils-le-sol-fertile, agriculture-regeneratrice]
+sources:
+  - title: "Agroforesterie"
+    url: "https://fr.wikipedia.org/wiki/Agroforesterie"
+    publisher: "Wikipédia"
+  - title: "Agroforestry"
+    url: "https://en.wikipedia.org/wiki/Agroforestry"
+    publisher: "Wikipedia"
+  - title: "Agroforesterie"
+    url: "https://www.fao.org/forestry/agroforestry/fr/"
+    publisher: "FAO"
+  - title: "Silvopasture"
+    url: "https://en.wikipedia.org/wiki/Silvopasture"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que l'agroforesterie ?"
+    options:
+      - "La culture d'arbres en pépinière"
+      - "L'association d'arbres et de cultures ou d'élevage sur une même parcelle"
+      - "L'abattage des forêts pour l'agriculture"
+    answer: 2
+    explanation: >
+      Les arbres, alignés ou dispersés, cohabitent avec des cultures ou des animaux sur la même
+      surface.
+  - question: "Comment les arbres aident-ils les cultures voisines lors d'une vague de chaleur ?"
+    options:
+      - "Ils consomment toute l'eau"
+      - "Ils apportent de l'ombre et freinent le vent, ce qui réduit l'évaporation"
+      - "Ils attirent la grêle"
+    answer: 2
+    explanation: >
+      L'ombre et l'abri du vent créent un microclimat plus frais et plus humide autour des cultures.
+  - question: "Pourquoi les racines profondes des arbres sont-elles utiles ?"
+    options:
+      - "Elles remontent l'eau et les éléments nutritifs des couches profondes du sol"
+      - "Elles empêchent les cultures de pousser"
+      - "Elles cassent les machines agricoles"
+    answer: 1
+    explanation: >
+      Les racines vont chercher ce que les cultures n'atteignent pas, et leurs feuilles mortes
+      enrichissent ensuite la surface.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'**agroforesterie** consiste à faire pousser des **arbres** sur la même parcelle que des **cultures**
+ou des **animaux d'élevage**. Ce n'est pas une invention récente : les prés-vergers normands, les
+champs de céréales plantés d'oliviers en Méditerranée ou les jardins-forêts tropicaux en sont des
+formes anciennes. Abandonnée avec la mécanisation, elle revient parce qu'elle répond à plusieurs défis
+à la fois : protéger les cultures des **sécheresses** et du **vent**, enrichir le **sol**, stocker du
+**carbone** et accueillir la **biodiversité**, tout en produisant du bois, des fruits ou du fourrage.
+
+## Les grandes formes
+
+- **Les cultures intercalaires** : des lignes d'arbres espacées de plusieurs dizaines de mètres, avec
+  des céréales ou des légumes entre elles. Les machines passent entre les rangées.
+- **Le sylvopastoralisme** : des arbres dans une prairie pâturée, comme les prés-vergers ou les
+  dehesas espagnoles de chênes.
+- **Les haies et brise-vent** autour des parcelles, forme linéaire de l'agroforesterie.
+- **Les jardins-forêts** : plusieurs étages de végétation, arbres, arbustes, plantes basses, sur une
+  petite surface, surtout en zone tropicale.
+
+## Ce que les arbres apportent
+
+```schema
+type: systeme
+titre: Les services rendus par les arbres dans un champ
+legende: Arbres et cultures se partagent l'espace et se rendent service.
+centre: Parcelle agroforestière
+icone: tree
+parties:
+  - nom: Microclimat
+    role: Ombre et abri contre le vent
+    icone: sun
+  - nom: Sol
+    role: Feuilles mortes, racines, moins d'érosion
+    icone: leaf
+  - nom: Eau
+    role: Infiltration et moins d'évaporation
+    icone: droplet
+  - nom: Carbone
+    role: Stocké dans le bois et le sol
+    icone: cloud
+  - nom: Biodiversité
+    role: Oiseaux, insectes, auxiliaires des cultures
+    icone: star
+  - nom: Revenus
+    role: Bois, fruits, fourrage
+    icone: coin
+```
+
+- **Un microclimat protecteur** : l'ombre et l'abri contre le vent limitent l'évaporation et les
+  brûlures lors des fortes chaleurs. Les animaux au pré y trouvent de l'ombre.
+- **Un sol plus vivant** : les feuilles mortes et les racines qui se renouvellent nourrissent les vers
+  de terre et les champignons. Les racines profondes remontent l'eau et les éléments nutritifs que les
+  cultures n'atteignent pas, et elles limitent l'**érosion**.
+- **De l'eau mieux retenue** : le sol, plus riche et mieux structuré, absorbe davantage la pluie.
+- **Du carbone stocké** dans le bois et dans le sol, ce qui contribue à limiter le changement
+  climatique.
+- **De la biodiversité** : les arbres accueillent oiseaux, chauves-souris et insectes, dont certains
+  mangent les ravageurs des cultures.
+- **Des revenus diversifiés** : bois d'œuvre ou de chauffage, fruits, fourrage, qui étalent les risques.
+
+## Les contraintes
+
+Les arbres font de l'**ombre** et puisent eux aussi de l'eau et de la lumière : bien conçu, le système
+espace les rangées et choisit des essences qui gênent peu les cultures, par exemple des arbres dont les
+feuilles sortent tard au printemps. Le travail demande de la patience : un arbre met des années à
+rapporter. Il faut aussi adapter les machines et l'organisation du travail. Des études montrent
+toutefois qu'une parcelle agroforestière bien pensée peut produire, au total, davantage qu'une surface
+équivalente séparée en forêt et en champ.
+
+## À retenir
+
+- L'agroforesterie associe arbres et cultures ou élevage sur une même parcelle.
+- Cultures intercalaires, prés-vergers, haies et jardins-forêts en sont les grandes formes.
+- Les arbres protègent du vent et de la chaleur, enrichissent le sol et retiennent l'eau.
+- Ils stockent du carbone et abritent une biodiversité utile aux cultures.
+- Le système demande une conception soignée et de la patience, mais diversifie les revenus.
 
 ---
 type: article
@@ -8030,18 +8147,142 @@ status: planned
 
 ---
 type: article
-title: La pollution de l'air interieur, un risque meconnu
+title: La pollution de l'air intérieur, un risque méconnu
 slug: la-pollution-de-l-air-interieur-un-risque-meconnu
 categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
 summary: >
-  Pourquoi l'air a l'interieur d'un logement peut parfois etre plus pollue qu'a l'exterieur.
-tags: [qualite-de-l-air, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Nous passons la plupart de notre temps dans des lieux clos, où l'air est souvent plus pollué
+  qu'à l'extérieur. Combustion, produits ménagers, meubles, humidité et radon en sont les sources.
+  Aérer chaque jour et limiter les émissions suffisent à l'améliorer nettement.
+tags: [qualite-de-l-air]
+relatedArticles: [pollution-de-lair-ambiant-risque-sanitaire, echanges-gazeux-et-respiration, combustion, allumer-entretenir-feu]
+sources:
+  - title: "Pollution de l'air intérieur"
+    url: "https://fr.wikipedia.org/wiki/Pollution_de_l%27air_int%C3%A9rieur"
+    publisher: "Wikipédia"
+  - title: "Pollution de l'air à l'intérieur des habitations"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/household-air-pollution-and-health"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Indoor air quality"
+    url: "https://en.wikipedia.org/wiki/Indoor_air_quality"
+    publisher: "Wikipedia"
+  - title: "Radon"
+    url: "https://en.wikipedia.org/wiki/Radon"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la mesure la plus simple pour améliorer l'air intérieur ?"
+    options:
+      - "Allumer une bougie parfumée"
+      - "Ouvrir les fenêtres en grand une dizaine de minutes chaque jour"
+      - "Fermer toutes les aérations"
+    answer: 2
+    explanation: >
+      Aérer renouvelle l'air et évacue les polluants accumulés, même en hiver et même en ville.
+  - question: "Pourquoi le monoxyde de carbone est-il particulièrement dangereux ?"
+    options:
+      - "Parce qu'il sent très mauvais"
+      - "Parce qu'il est invisible, inodore et peut tuer en quelques heures"
+      - "Parce qu'il ne touche que les plantes"
+    answer: 2
+    explanation: >
+      Produit par une combustion incomplète, il prend la place de l'oxygène dans le sang sans que l'on
+      s'en rende compte. Un détecteur permet de le repérer.
+  - question: "D'où vient le radon ?"
+    options:
+      - "Des peintures"
+      - "Du sol, en particulier dans les régions granitiques"
+      - "Des appareils électroniques"
+    answer: 2
+    explanation: >
+      Ce gaz radioactif naturel remonte du sous-sol et peut s'accumuler dans les pièces mal ventilées
+      en contact avec le sol.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Nous passons la plus grande partie de notre temps à l'intérieur : logement, travail, école, transports.
+Or l'air des lieux clos est souvent **plus pollué** que l'air extérieur, car les polluants qui y sont
+émis s'**accumulent** quand il n'est pas renouvelé. Fumées de combustion, produits ménagers, meubles
+neufs, moisissures et radon en sont les principales sources. Dans le monde, l'Organisation mondiale de
+la santé estime que la cuisine au bois, au charbon ou au kérosène sur des foyers rudimentaires cause des
+millions de décès chaque année. Dans les pays riches, le risque est plus diffus mais bien réel. Les
+remèdes sont simples : **aérer** et **limiter les sources**.
+
+## Les principales sources
+
+```schema
+type: systeme
+titre: D'où vient la pollution de l'air intérieur
+legende: Les polluants s'accumulent quand l'air n'est pas renouvelé.
+centre: Air intérieur
+icone: house
+parties:
+  - nom: Combustion
+    role: Chauffage, cuisson, bougies, tabac
+    icone: fire
+  - nom: Produits ménagers
+    role: Nettoyants, aérosols, parfums d'intérieur
+    icone: bubbles
+  - nom: Meubles et travaux
+    role: Colles, peintures, panneaux de bois
+    icone: cube
+  - nom: Humidité
+    role: Moisissures et acariens
+    icone: droplet
+  - nom: Radon
+    role: Gaz radioactif venu du sol
+    icone: mountain
+  - nom: Air extérieur
+    role: Trafic et pollution qui entrent
+    icone: car
+```
+
+- **La combustion** : chaudières, poêles, cheminées, gazinières, bougies, encens et surtout **tabac**
+  produisent des particules fines, du dioxyde d'azote et parfois du **monoxyde de carbone**.
+- **Les composés organiques volatils** : ils s'échappent des peintures, colles, vernis, meubles en
+  panneaux agglomérés, produits d'entretien et désodorisants. Le **formaldéhyde** en est l'exemple le
+  plus connu.
+- **L'humidité** : cuisine, douches et séchage du linge favorisent les **moisissures** et les acariens,
+  qui aggravent asthme et allergies.
+- **Le radon** : ce gaz radioactif naturel monte du sol, notamment dans les régions granitiques. Il est,
+  après le tabac, une cause importante de cancer du poumon.
+
+## Le monoxyde de carbone, un danger mortel
+
+Un appareil à combustion mal réglé ou mal ventilé produit du **monoxyde de carbone**. Ce gaz est
+**invisible et inodore**. Il se fixe sur les globules rouges à la place de l'oxygène. Les signes, maux
+de tête, nausées, fatigue, touchent souvent toutes les personnes d'un même logement. Il peut tuer en
+quelques heures. Les gestes de prévention : faire **entretenir** chaque année chaudière et conduits, ne
+jamais boucher les aérations, ne pas utiliser de groupe électrogène ou de barbecue à l'intérieur, et
+installer un **détecteur**. En cas de suspicion : aérer, sortir et appeler les secours.
+
+## Les bons gestes
+
+1. **Aérer** au moins **dix minutes** par jour, fenêtres grandes ouvertes, même en hiver.
+2. Aérer davantage pendant et après la **cuisine**, la **douche**, le **ménage** ou des **travaux**.
+3. Ne **jamais boucher** les grilles de ventilation et entretenir la ventilation mécanique.
+4. **Ne pas fumer** à l'intérieur.
+5. Limiter les **parfums d'intérieur**, bougies et encens ; préférer des produits ménagers simples,
+   comme le savon noir ou le vinaigre blanc, en quantités modérées.
+6. Aérer longuement une pièce après l'arrivée de **meubles neufs** ou des travaux de peinture.
+7. Dans les zones à risque, faire **mesurer le radon**, surtout dans les pièces au sol.
+
+## Un sujet de santé publique
+
+En France, l'Observatoire de la qualité de l'air intérieur étudie l'air des logements et des écoles, et
+la surveillance de l'air est obligatoire dans certains établissements recevant des enfants. Depuis
+2013, les produits de construction et de décoration portent une **étiquette** indiquant leur niveau
+d'émission de polluants, de A+ à C : un repère simple au moment d'acheter peintures, sols ou colles.
+
+## À retenir
+
+- L'air intérieur est souvent plus pollué que l'air extérieur, car les polluants s'y accumulent.
+- Combustion, composés volatils des produits et meubles, humidité et radon en sont les sources.
+- Le monoxyde de carbone, invisible et inodore, peut tuer : entretien, aération et détecteur.
+- Aérer dix minutes par jour et ne pas boucher les ventilations sont les gestes essentiels.
+- L'étiquette A+ à C aide à choisir des matériaux qui polluent peu.
 
 ---
 type: article

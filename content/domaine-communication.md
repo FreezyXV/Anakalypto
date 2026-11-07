@@ -4223,18 +4223,134 @@ status: planned
 
 ---
 type: article
-title: Comprendre la difference entre correlation et causalite
+title: Comprendre la différence entre corrélation et causalité
 slug: comprendre-la-difference-entre-correlation-et-causalite
 categoryPath: communication-et-medias/information-et-verification/education-aux-medias
 summary: >
-  Une erreur de raisonnement tres frequente dans l'interpretation de l'actualite.
-tags: [education-aux-medias, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Deux phénomènes qui évoluent ensemble ne sont pas forcément liés par une relation de cause à
+  effet. Un troisième facteur, le hasard ou une cause inversée peuvent expliquer leur lien. Savoir
+  faire la différence protège des conclusions hâtives que l'on lit souvent dans les médias.
+tags: [education-aux-medias]
+relatedArticles: [education-aux-medias-et-a-linformation, comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier, pourquoi-notre-cerveau-se-trompe, le-double-aveugle-eliminer-les-biais-d-attente]
+sources:
+  - title: "Corrélation n'implique pas causalité"
+    url: "https://fr.wikipedia.org/wiki/Corr%C3%A9lation_n%27implique_pas_causalit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Correlation does not imply causation"
+    url: "https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation"
+    publisher: "Wikipedia"
+  - title: "Confounding"
+    url: "https://en.wikipedia.org/wiki/Confounding"
+    publisher: "Wikipedia"
+  - title: "Bradford Hill criteria"
+    url: "https://en.wikipedia.org/wiki/Bradford_Hill_criteria"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Les ventes de glaces et les noyades augmentent en même temps l'été. Pourquoi ?"
+    options:
+      - "Parce que manger une glace fait couler"
+      - "Parce qu'un troisième facteur, la chaleur, augmente à la fois les ventes de glaces et les baignades"
+      - "Parce que les noyés achètent des glaces"
+    answer: 2
+    explanation: >
+      La chaleur est un facteur de confusion : elle explique les deux phénomènes, sans lien direct entre
+      eux.
+  - question: "Qu'est-ce qu'une causalité inversée ?"
+    options:
+      - "Quand on prend la conséquence pour la cause"
+      - "Quand deux causes s'annulent"
+      - "Quand une cause agit dans le futur"
+    answer: 1
+    explanation: >
+      On observe plus de pompiers sur les gros incendies : ce n'est pas le nombre de pompiers qui
+      aggrave le feu, c'est la taille du feu qui en fait venir davantage.
+  - question: "Quelle méthode permet le mieux de prouver une relation de cause à effet ?"
+    options:
+      - "Une expérience contrôlée avec tirage au sort"
+      - "Un graphique où deux courbes se ressemblent"
+      - "Un témoignage"
+    answer: 1
+    explanation: >
+      Le tirage au sort crée deux groupes comparables : seule la cause testée les différencie.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Deux phénomènes sont **corrélés** quand ils varient ensemble : quand l'un augmente, l'autre augmente
+aussi, ou diminue. Une **causalité**, elle, signifie que l'un **provoque** l'autre. Toute causalité
+produit une corrélation, mais l'inverse est faux : deux choses peuvent évoluer ensemble sans que l'une
+cause l'autre. Un **troisième facteur** peut agir sur les deux, la cause peut être **inversée**, ou la
+coïncidence peut relever du **hasard**. Confondre les deux est l'une des erreurs de raisonnement les
+plus courantes dans les titres d'articles et sur les réseaux sociaux.
+
+## Quatre explications à une corrélation
+
+```schema
+type: systeme
+titre: Pourquoi A et B varient-ils ensemble ?
+legende: Avant de conclure que A cause B, il faut écarter les autres explications.
+centre: A et B corrélés
+icone: chart
+parties:
+  - nom: A cause B
+    role: La relation de cause à effet existe
+    icone: bolt
+  - nom: B cause A
+    role: La causalité est inversée
+    icone: recycle
+  - nom: C cause A et B
+    role: Un troisième facteur agit sur les deux
+    icone: network
+  - nom: Le hasard
+    role: Une coïncidence sans lien réel
+    icone: cube
+```
+
+- **Un facteur de confusion** : les ventes de glaces et les noyades augmentent ensemble. Les glaces ne
+  font pas couler les nageurs : c'est la **chaleur** qui pousse à acheter des glaces et à se baigner.
+- **La causalité inversée** : on observe que les personnes qui vont souvent à l'hôpital sont plus
+  malades. Ce n'est pas l'hôpital qui rend malade : on y va parce qu'on l'est.
+- **Le hasard** : en comparant des milliers de séries de chiffres, on trouve forcément des courbes qui
+  se ressemblent par pure coïncidence. Des sites s'amusent à en collectionner, comme le nombre de films
+  d'un acteur et le nombre de noyades dans des piscines d'une année à l'autre.
+- **Une vraie causalité**, enfin, qu'il faut démontrer.
+
+## Comment établir une causalité
+
+La meilleure méthode est l'**expérience contrôlée** : on tire au sort deux groupes, on applique la cause
+supposée à un seul, et l'on compare. Le tirage au sort répartit tous les autres facteurs de façon
+équilibrée : si une différence apparaît, elle vient de la cause testée. C'est le principe des essais
+cliniques.
+
+Quand l'expérience est impossible ou contraire à l'éthique, comme pour le tabac, les chercheurs
+accumulent des indices. L'épidémiologiste Austin Bradford Hill a proposé en 1965 une série de critères
+: la **force** de l'association, sa **constance** d'une étude à l'autre, la **chronologie**, la cause
+précède l'effet, la **relation dose-effet**, plus on fume plus le risque augmente, et l'existence d'un
+**mécanisme** plausible. C'est ainsi qu'on a établi que le tabac cause le cancer du poumon.
+
+## Lire les médias avec ce réflexe
+
+Des titres comme « Les buveurs de café vivent plus longtemps » ou « Les enfants qui prennent un petit
+déjeuner ont de meilleures notes » décrivent souvent une **corrélation** issue d'une étude
+d'observation. Les questions à se poser :
+
+1. Un **troisième facteur** pourrait-il expliquer le lien, comme le revenu, l'âge ou le mode de vie ?
+2. La causalité pourrait-elle être **inversée** ?
+3. L'étude est-elle une **expérience** ou une simple **observation** ?
+4. Le résultat a-t-il été **confirmé** par d'autres études ?
+
+Les verbes comptent : « est associé à » décrit une corrélation, « provoque » ou « fait » affirme une
+causalité.
+
+## À retenir
+
+- Une corrélation signifie que deux phénomènes varient ensemble, une causalité que l'un provoque l'autre.
+- Une corrélation peut venir d'un troisième facteur, d'une causalité inversée ou du hasard.
+- L'expérience contrôlée avec tirage au sort est la meilleure preuve d'une causalité.
+- Faute d'expérience, on combine plusieurs indices : force, constance, chronologie, dose-effet, mécanisme.
+- Face à un titre accrocheur, on se demande s'il décrit une simple association ou une cause démontrée.
 
 ---
 type: article
@@ -6025,18 +6141,131 @@ status: planned
 
 ---
 type: article
-title: Le web archivage et la memoire d'internet
+title: Le web archivage et la mémoire d'Internet
 slug: le-web-archivage-et-la-memoire-d-internet
 categoryPath: communication-et-medias/medias-numeriques/web
 summary: >
-  Comment certains projets sauvegardent des versions anciennes de sites disparus.
-tags: [web, essentiel-reconstruction]
-priority: 3
-essentiel: true
-status: planned
+  Les pages web disparaissent ou changent sans cesse. Des robots les copient régulièrement pour en
+  garder la trace : l'Internet Archive et sa Wayback Machine, les bibliothèques nationales comme la
+  BnF. Ces archives servent aux historiens, aux journalistes et à quiconque veut vérifier ce qui a été publié.
+tags: [web]
+relatedArticles: [histoire-du-web-utilisateurs, comment-un-moteur-de-recherche-trouve-t-il-une-page-parmi-toutes-celles-du-web, comment-le-langage-html-construit-il-une-page-web, comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier]
+sources:
+  - title: "Archivage du Web"
+    url: "https://fr.wikipedia.org/wiki/Archivage_du_Web"
+    publisher: "Wikipédia"
+  - title: "Wayback Machine"
+    url: "https://en.wikipedia.org/wiki/Wayback_Machine"
+    publisher: "Wikipedia"
+  - title: "Internet Archive"
+    url: "https://en.wikipedia.org/wiki/Internet_Archive"
+    publisher: "Wikipedia"
+  - title: "Link rot"
+    url: "https://en.wikipedia.org/wiki/Link_rot"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que la Wayback Machine ?"
+    options:
+      - "Un moteur de recherche d'actualités"
+      - "Le service de l'Internet Archive qui permet de consulter d'anciennes versions de pages web"
+      - "Un logiciel de sauvegarde personnel"
+    answer: 2
+    explanation: >
+      On saisit une adresse et l'on choisit une date pour voir la page telle qu'elle a été copiée ce
+      jour-là.
+  - question: "Comment les archives du web copient-elles les pages ?"
+    options:
+      - "Des personnes recopient chaque page à la main"
+      - "Des robots d'indexation parcourent le web et enregistrent les pages qu'ils visitent"
+      - "Les sites envoient obligatoirement leurs pages chaque jour"
+    answer: 2
+    explanation: >
+      Ces robots, semblables à ceux des moteurs de recherche, suivent les liens et enregistrent pages,
+      images et fichiers.
+  - question: "Qui est chargé du dépôt légal du web en France ?"
+    options:
+      - "La Bibliothèque nationale de France, avec l'Institut national de l'audiovisuel"
+      - "Les hébergeurs"
+      - "Chaque internaute"
+    answer: 1
+    explanation: >
+      Depuis 2006, la BnF collecte le web français, et l'INA les sites liés à l'audiovisuel.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le web est une mémoire **fragile**. Les pages sont modifiées, déplacées ou supprimées, les sites ferment,
+les liens finissent par ne plus mener nulle part : on parle de **liens morts**. Pour garder la trace de
+ce qui a été publié, des organismes **archivent le web** : des robots parcourent les sites et en
+enregistrent régulièrement des copies. La plus connue est l'**Internet Archive**, une fondation
+américaine qui permet de consulter d'anciennes versions de pages grâce à la **Wayback Machine**. Les
+bibliothèques nationales, comme la **BnF** en France, archivent aussi le web de leur pays.
+
+## Pourquoi archiver le web
+
+- **Les pages disparaissent** : une part importante des liens cités dans des articles de presse ou des
+  publications scientifiques ne fonctionne plus au bout de quelques années.
+- **Le web est devenu une source historique** : déclarations politiques, sites d'entreprises,
+  mouvements sociaux, culture populaire. Sans archive, les historiens de demain n'auraient rien.
+- **Vérifier** : retrouver ce qu'une page affirmait à une date donnée, prouver qu'un texte a été
+  modifié ou supprimé.
+- **Préserver** des contenus que plus personne n'héberge : vieux jeux, logiciels, documentations.
+
+## Comment fonctionne l'archivage
+
+```schema
+type: etapes
+titre: De la page en ligne à la page archivée
+legende: Une archive garde plusieurs copies d'une même page, datées, pour en suivre l'évolution.
+elements:
+  - titre: Exploration
+    texte: Un robot visite les pages et suit leurs liens.
+    icone: robot
+  - titre: Capture
+    texte: Il enregistre le texte, les images et les fichiers.
+    icone: camera
+  - titre: Stockage
+    texte: Les copies datées sont conservées sur des serveurs.
+    icone: cube
+  - titre: Consultation
+    texte: On retrouve une page par son adresse et sa date.
+    icone: eye
+```
+
+Des **robots d'exploration**, semblables à ceux des moteurs de recherche, partent d'une liste de sites,
+suivent les liens et **capturent** chaque page avec ses images, feuilles de style et fichiers. Les copies
+sont stockées dans un format standard, le **WARC**, avec leur date. On peut ensuite les consulter comme
+une page ordinaire. Les sites importants ou qui changent souvent sont visités plus fréquemment.
+
+## Les grands acteurs
+
+- **L'Internet Archive**, fondé en 1996 par Brewster Kahle à San Francisco, a archivé des centaines de
+  milliards de pages. N'importe qui peut lui demander de sauvegarder une page avec la fonction « Save Page
+  Now ». Elle conserve aussi des livres, des films, de la musique et des logiciels.
+- **La BnF** collecte le web français au titre du **dépôt légal**, étendu à Internet par une loi de 2006,
+  aux côtés de l'**INA** pour les sites liés à la radio et à la télévision. Ses archives se consultent
+  dans ses salles de lecture et dans des bibliothèques partenaires.
+- D'autres bibliothèques nationales font de même, regroupées dans un consortium international pour la
+  préservation d'Internet.
+
+## Les limites
+
+Tout ne peut pas être archivé. Les pages protégées par un **mot de passe**, les réseaux sociaux fermés,
+les applications qui construisent leur contenu à la volée ou les vidéos en streaming sont difficiles à
+capturer. Certains sites demandent à ne pas être archivés. Les archives ne sont que des **instantanés**
+: ce qui a été publié puis supprimé entre deux passages des robots peut être perdu. Enfin, conserver ces
+masses de données coûte cher, et l'Internet Archive a dû faire face à des procès et à des cyberattaques
+qui ont rappelé la fragilité de cette mémoire.
+
+## À retenir
+
+- Les pages web changent et disparaissent : les liens morts se multiplient avec le temps.
+- Des robots copient régulièrement les pages pour en conserver des versions datées.
+- La Wayback Machine de l'Internet Archive permet de consulter d'anciennes versions de pages.
+- En France, la BnF et l'INA archivent le web au titre du dépôt légal depuis 2006.
+- Les contenus fermés, dynamiques ou supprimés entre deux passages échappent en partie à l'archivage.
 
 ---
 type: article

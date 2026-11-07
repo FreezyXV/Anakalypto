@@ -4695,18 +4695,132 @@ status: planned
 
 ---
 type: article
-title: Les catalyseurs, accelerer une reaction chimique
+title: Les catalyseurs, accélérer une réaction chimique
 slug: les-catalyseurs-accelerer-une-reaction-chimique
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Des composes qui permettent une reaction sans etre eux-memes consommes.
-tags: [chimie-industrielle, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un catalyseur accélère une réaction chimique sans être consommé. Il ouvre un chemin plus facile
+  entre les réactifs et les produits. L'industrie en dépend pour fabriquer engrais, carburants et
+  plastiques, les voitures pour dépolluer leurs gaz, et notre corps pour vivre, grâce aux enzymes.
+tags: [chimie-industrielle]
+relatedArticles: [comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air, chimie-industrielle-mondiale-enjeux, reactions-chimiques-et-equilibre, fermentation-biotechnologie-ancienne]
+sources:
+  - title: "Catalyse"
+    url: "https://fr.wikipedia.org/wiki/Catalyse"
+    publisher: "Wikipédia"
+  - title: "Catalysis"
+    url: "https://en.wikipedia.org/wiki/Catalysis"
+    publisher: "Wikipedia"
+  - title: "Activation energy"
+    url: "https://en.wikipedia.org/wiki/Activation_energy"
+    publisher: "Wikipedia"
+  - title: "Catalytic converter"
+    url: "https://en.wikipedia.org/wiki/Catalytic_converter"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que devient un catalyseur à la fin d'une réaction ?"
+    options:
+      - "Il est entièrement consommé"
+      - "Il se retrouve intact et peut resservir"
+      - "Il se transforme en produit"
+    answer: 2
+    explanation: >
+      Le catalyseur participe à la réaction mais est régénéré : en théorie, une petite quantité peut
+      servir indéfiniment.
+  - question: "Comment un catalyseur accélère-t-il une réaction ?"
+    options:
+      - "En ajoutant de l'énergie"
+      - "En offrant un chemin de réaction qui demande moins d'énergie pour démarrer"
+      - "En changeant les produits obtenus à la fin"
+    answer: 2
+    explanation: >
+      Il abaisse l'énergie d'activation, la « bosse » à franchir pour que les molécules réagissent.
+  - question: "Comment appelle-t-on les catalyseurs produits par les êtres vivants ?"
+    options:
+      - "Les hormones"
+      - "Les enzymes"
+      - "Les vitamines"
+    answer: 2
+    explanation: >
+      Les enzymes sont des protéines qui catalysent presque toutes les réactions chimiques de nos
+      cellules.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **catalyseur** est une substance qui **accélère** une réaction chimique **sans être consommée** : on
+le retrouve intact à la fin. Il ne change ni les réactifs, ni les produits, ni l'énergie libérée au
+total ; il ouvre seulement un **chemin plus facile** pour y arriver. Sans catalyseurs, de nombreuses
+réactions seraient trop lentes pour être utiles. On estime qu'une très grande majorité des procédés de
+l'industrie chimique en utilisent. Dans les êtres vivants, ce rôle est tenu par les **enzymes**.
+
+## L'énergie d'activation
+
+Pour que deux molécules réagissent, il ne suffit pas qu'elles se rencontrent : elles doivent franchir
+une sorte de **colline d'énergie**, appelée **énergie d'activation**. Le bois ne brûle pas tout seul à
+température ambiante : il faut une flamme pour franchir cette colline. Le catalyseur propose un autre
+chemin, un **col** plus bas : bien plus de molécules ont assez d'énergie pour le franchir, et la réaction
+va beaucoup plus vite, parfois des millions de fois.
+
+```schema
+type: comparaison
+titre: Une réaction avec et sans catalyseur
+legende: Le point de départ et d'arrivée sont les mêmes ; seul le chemin change.
+colonnes:
+  - titre: Sans catalyseur
+    icone: mountain
+    points:
+      - Une haute colline d'énergie à franchir
+      - Peu de molécules y parviennent
+      - Réaction lente ou nulle
+  - titre: Avec catalyseur
+    icone: flask
+    points:
+      - Un chemin qui demande moins d'énergie
+      - Beaucoup plus de molécules réagissent
+      - Catalyseur intact à la fin
+```
+
+## Deux grandes familles
+
+- **La catalyse homogène** : le catalyseur est dissous dans le même liquide que les réactifs. Il est très
+  efficace mais difficile à récupérer.
+- **La catalyse hétérogène** : le catalyseur est un **solide**, souvent un métal, et les réactifs sont
+  des gaz ou des liquides qui viennent réagir à sa **surface**. On le divise en grains très fins ou on
+  le dépose sur un support poreux pour maximiser la surface de contact. C'est la forme la plus répandue
+  dans l'industrie.
+
+## Les catalyseurs autour de nous
+
+- **Les engrais** : le procédé Haber-Bosch fabrique l'ammoniac à partir de l'azote de l'air et
+  d'hydrogène sur un catalyseur à base de **fer**. Il nourrit indirectement une part considérable de
+  l'humanité.
+- **Les carburants** : le raffinage du pétrole « casse » les grosses molécules en plus petites sur des
+  catalyseurs appelés zéolithes.
+- **Les plastiques** : le polyéthylène et le polypropylène sont produits grâce à des catalyseurs qui
+  assemblent les petites molécules en longues chaînes.
+- **Le pot catalytique** des voitures : du **platine**, du **palladium** et du **rhodium** transforment
+  les gaz toxiques, monoxyde de carbone, oxydes d'azote et hydrocarbures imbrûlés, en dioxyde de carbone,
+  azote et vapeur d'eau.
+- **Les enzymes** : dans notre corps, elles catalysent la digestion, la respiration des cellules ou la
+  copie de l'ADN. Les lessives en contiennent pour dégrader les taches.
+
+## Empoisonnement et usure
+
+Un catalyseur n'est pas éternel en pratique. Certaines substances se fixent sur sa surface et le
+**bloquent** : on dit qu'il est **empoisonné**. C'est pourquoi l'essence au plomb a été abandonnée : le
+plomb détruisait les pots catalytiques. La chaleur, les dépôts ou la perte de matière l'usent aussi peu à
+peu. Les métaux précieux des catalyseurs usagés sont **recyclés**.
+
+## À retenir
+
+- Un catalyseur accélère une réaction sans être consommé.
+- Il abaisse l'énergie d'activation en offrant un chemin de réaction plus facile.
+- La catalyse hétérogène, sur des surfaces solides, domine dans l'industrie.
+- Engrais, carburants, plastiques et pots catalytiques reposent sur des catalyseurs.
+- Les enzymes sont les catalyseurs du vivant.
 
 ---
 type: article

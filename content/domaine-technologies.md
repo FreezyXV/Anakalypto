@@ -3708,18 +3708,131 @@ status: planned
 
 ---
 type: article
-title: L'elasticite et la plasticite des materiaux
+title: L'élasticité et la plasticité des matériaux
 slug: l-elasticite-et-la-plasticite-des-materiaux
 categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
 summary: >
-  Deux comportements distincts qui determinent si un materiau reprend ou non sa forme.
-tags: [choix-des-materiaux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un ressort reprend sa forme quand on le lâche ; un trombone tordu reste tordu. Le premier se
+  déforme de façon élastique, le second de façon plastique. Connaître la frontière entre ces deux
+  comportements, la limite d'élasticité, est la base de la conception de toute pièce mécanique.
+tags: [choix-des-materiaux]
+relatedArticles: [comment-choisir-un-materiau, pourquoi-une-piece-de-metal-peut-elle-casser-a-force-d-etre-secouee, pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire, les-alliages-a-memoire-de-forme]
+sources:
+  - title: "Élasticité"
+    url: "https://fr.wikipedia.org/wiki/%C3%89lasticit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Plasticity (physics)"
+    url: "https://en.wikipedia.org/wiki/Plasticity_(physics)"
+    publisher: "Wikipedia"
+  - title: "Yield (engineering)"
+    url: "https://en.wikipedia.org/wiki/Yield_(engineering)"
+    publisher: "Wikipedia"
+  - title: "Hooke's law"
+    url: "https://en.wikipedia.org/wiki/Hooke%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il quand on dépasse la limite d'élasticité d'un métal ?"
+    options:
+      - "Il reprend toujours sa forme"
+      - "Il garde une déformation permanente"
+      - "Il devient plus léger"
+    answer: 2
+    explanation: >
+      Au-delà de cette limite, la déformation devient plastique : la pièce ne revient plus à sa forme
+      d'origine.
+  - question: "Que dit la loi de Hooke ?"
+    options:
+      - "Dans le domaine élastique, l'allongement est proportionnel à la force appliquée"
+      - "Tout matériau finit par casser"
+      - "Les métaux fondent à haute température"
+    answer: 1
+    explanation: >
+      Deux fois plus de force donne deux fois plus d'allongement, tant qu'on reste dans le domaine
+      élastique.
+  - question: "Pourquoi un matériau fragile comme le verre est-il dangereux en cas de surcharge ?"
+    options:
+      - "Parce qu'il se déforme beaucoup avant de casser"
+      - "Parce qu'il casse presque sans se déformer, sans signe avant-coureur"
+      - "Parce qu'il est élastique"
+    answer: 2
+    explanation: >
+      Un matériau ductile se plie et prévient ; un matériau fragile se rompt brutalement.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on applique une force à un objet, il se **déforme**, même très peu. Si la déformation disparaît
+quand on relâche la force, elle est **élastique** : c'est le cas d'un ressort ou d'un élastique. Si
+l'objet garde une partie de sa déformation, elle est **plastique** : un trombone tordu, une tôle emboutie,
+une barre pliée. La frontière entre les deux s'appelle la **limite d'élasticité**. Au-delà, si l'on
+continue, vient la **rupture**. Les ingénieurs dimensionnent les pièces pour qu'elles restent toujours
+dans le domaine élastique en service.
+
+## Le domaine élastique
+
+À l'échelle des atomes, une force les écarte légèrement de leur position, comme s'ils étaient reliés
+par de petits ressorts. Quand la force cesse, ils reviennent en place. Dans ce domaine, la déformation
+est en général **proportionnelle** à la force : c'est la **loi de Hooke**, énoncée par Robert Hooke en
+1678. Le rapport entre contrainte et déformation s'appelle le **module d'Young** : il mesure la
+**rigidité** du matériau. L'acier est environ trois fois plus rigide que l'aluminium, et bien plus que le
+bois ou les plastiques.
+
+## Le domaine plastique
+
+Au-delà de la limite d'élasticité, des plans d'atomes **glissent** les uns sur les autres. Ce glissement
+ne se défait pas quand on relâche : la pièce reste déformée. Les métaux ont souvent une grande plage
+plastique, ce qui permet de les **forger**, de les **emboutir** ou de les **étirer** en fils. Déformer un
+métal à froid le **durcit** en partie : c'est l'écrouissage. Plier plusieurs fois un trombone au même
+endroit le durcit puis le casse.
+
+```schema
+type: etapes
+titre: Ce qui arrive quand on tire de plus en plus fort sur une barre de métal
+legende: Les pièces sont conçues pour rester dans la première étape, avec une marge de sécurité.
+elements:
+  - titre: Domaine élastique
+    texte: La barre s'allonge un peu et revient à sa forme.
+    icone: wave
+  - titre: Limite d'élasticité
+    texte: La frontière à ne pas franchir en service.
+    icone: shield
+  - titre: Domaine plastique
+    texte: La barre reste allongée, même relâchée.
+    icone: gear
+  - titre: Rupture
+    texte: La barre s'amincit puis casse.
+    icone: scissors
+```
+
+## Ductile ou fragile
+
+- **Un matériau ductile**, comme l'acier doux, le cuivre ou l'aluminium, se déforme beaucoup avant de
+  casser. Il **prévient** : une pièce qui plie signale une surcharge.
+- **Un matériau fragile**, comme le verre, la céramique, la fonte ou le béton non armé, casse presque
+  sans se déformer, **brutalement**.
+
+C'est pourquoi le béton est armé de barres d'acier : l'acier apporte la ductilité qui manque au béton,
+surtout là où il est étiré.
+
+## Comment s'en servent les ingénieurs
+
+- Une pièce de structure est calculée pour que la contrainte en service reste **nettement sous** la
+  limite d'élasticité, avec un **coefficient de sécurité**.
+- Une carrosserie de voiture est conçue pour se **déformer plastiquement** en cas de choc : elle absorbe
+  l'énergie au lieu de la transmettre aux passagers.
+- Un ressort ou une lame de suspension doit au contraire rester **élastique** sur des millions de cycles.
+- Les pièces soumises à des efforts répétés doivent aussi résister à la **fatigue**, qui peut les casser
+  sous la limite d'élasticité.
+
+## À retenir
+
+- Une déformation élastique disparaît quand la force cesse, une déformation plastique demeure.
+- La limite d'élasticité marque la frontière entre les deux comportements.
+- Dans le domaine élastique, la déformation est proportionnelle à la force, selon la loi de Hooke.
+- Un matériau ductile se déforme avant de casser, un matériau fragile rompt brutalement.
+- Les pièces sont dimensionnées pour rester élastiques en service, avec une marge de sécurité.
 
 ---
 type: article

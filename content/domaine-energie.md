@@ -10690,18 +10690,134 @@ status: planned
 
 ---
 type: article
-title: La molecule d'hydrogene et ses proprietes energetiques
+title: La molécule d'hydrogène et ses propriétés énergétiques
 slug: la-molecule-d-hydrogene-et-ses-proprietes-energetiques
 categoryPath: energie/reseaux-et-stockage/hydrogene
 summary: >
-  Un element tres leger et tres energetique, mais qui n'existe pas a l'etat pur naturellement.
-tags: [hydrogene, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le dihydrogène contient près de trois fois plus d'énergie par kilogramme que l'essence, mais il
+  est si léger qu'il prend énormément de place. Il ne rejette que de l'eau à l'usage, mais il faut
+  le produire, le stocker et le transporter, ce qui fait tout l'enjeu de son utilisation.
+tags: [hydrogene]
+relatedArticles: [hydrogene-couleurs-et-usages, electrolyse-eau, comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler, lacier-bas-carbone-reduction-directe-hydrogene]
+sources:
+  - title: "Dihydrogène"
+    url: "https://fr.wikipedia.org/wiki/Dihydrog%C3%A8ne"
+    publisher: "Wikipédia"
+  - title: "Hydrogen"
+    url: "https://en.wikipedia.org/wiki/Hydrogen"
+    publisher: "Wikipedia"
+  - title: "Energy density"
+    url: "https://en.wikipedia.org/wiki/Energy_density"
+    publisher: "Wikipedia"
+  - title: "Hydrogen storage"
+    url: "https://en.wikipedia.org/wiki/Hydrogen_storage"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que produit la combustion ou l'utilisation de l'hydrogène dans une pile ?"
+    options:
+      - "Du dioxyde de carbone"
+      - "De l'eau"
+      - "De la suie"
+    answer: 2
+    explanation: >
+      En se combinant à l'oxygène, l'hydrogène forme de l'eau, sans carbone. Mais sa production peut,
+      elle, émettre du CO2.
+  - question: "Pourquoi l'hydrogène est-il difficile à stocker ?"
+    options:
+      - "Parce qu'il est très lourd"
+      - "Parce qu'il est si léger qu'il occupe un énorme volume, sauf s'il est fortement comprimé ou liquéfié"
+      - "Parce qu'il est solide à température ambiante"
+    answer: 2
+    explanation: >
+      Par litre, il contient peu d'énergie. Il faut le comprimer à 350 ou 700 bars ou le refroidir à
+      −253 °C pour le liquéfier.
+  - question: "L'hydrogène est-il une source d'énergie ?"
+    options:
+      - "Oui, on l'extrait de gisements comme le pétrole"
+      - "Non, c'est surtout un vecteur : il faut dépenser de l'énergie pour le produire"
+      - "Oui, il se renouvelle tout seul dans l'air"
+    answer: 2
+    explanation: >
+      L'hydrogène pur est presque absent de la nature : on le fabrique à partir de gaz ou d'eau, ce qui
+      consomme plus d'énergie qu'il n'en restitue.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **dihydrogène**, H₂, est la molécule la plus **légère** qui existe : deux atomes d'hydrogène liés
+ensemble. À température ambiante, c'est un gaz incolore et inodore. Il contient **beaucoup d'énergie par
+kilogramme**, près de trois fois plus que l'essence, et en se combinant à l'oxygène il ne produit que de
+l'**eau**. Mais il contient **très peu d'énergie par litre**, s'échappe facilement et s'enflamme très
+facilement. Il est presque absent à l'état pur dans la nature : c'est un **vecteur** d'énergie, qu'il
+faut fabriquer, pas une source.
+
+## Beaucoup d'énergie par kilogramme
+
+Un kilogramme d'hydrogène libère environ **120 mégajoules** quand il réagit avec l'oxygène, contre
+environ **44** pour l'essence ou le gazole. C'est pourquoi on l'utilise depuis longtemps pour propulser
+des fusées, où chaque kilogramme compte. Les deux façons d'en tirer de l'énergie :
+
+- **la combustion**, dans un moteur ou une turbine, qui produit de la chaleur ;
+- **la pile à combustible**, qui combine hydrogène et oxygène sans flamme pour produire directement de
+  l'électricité, avec un meilleur rendement.
+
+```schema
+type: barres
+titre: L'énergie contenue dans un kilogramme de carburant
+legende: Valeurs approximatives ; par litre, l'hydrogène gazeux est au contraire très peu énergétique.
+unite: MJ/kg
+valeurs:
+  - label: Hydrogène
+    valeur: 120
+  - label: Gaz naturel
+    valeur: 50
+  - label: Essence
+    valeur: 44
+  - label: Bois sec
+    valeur: 16
+```
+
+## Très peu d'énergie par litre
+
+Le revers de sa légèreté : à pression ambiante, un litre d'hydrogène pèse presque rien et contient très
+peu d'énergie. Pour le rendre utilisable, il faut :
+
+- le **comprimer** à 350 ou 700 bars dans des réservoirs renforcés en fibre de carbone, comme dans les
+  voitures à hydrogène ;
+- ou le **liquéfier** en le refroidissant à **−253 °C**, ce qui consomme beaucoup d'énergie et demande
+  des réservoirs très isolés.
+
+Même ainsi, il occupe plusieurs fois le volume d'une énergie équivalente en essence. Sa toute petite
+molécule se **faufile** à travers de nombreux matériaux et peut fragiliser certains métaux.
+
+## Sécurité
+
+L'hydrogène s'enflamme dans une très large gamme de mélanges avec l'air et avec une très petite
+étincelle. Sa flamme est presque **invisible** en plein jour. En revanche, très léger, il monte et se
+disperse vite à l'air libre, contrairement aux vapeurs d'essence qui s'accumulent au sol. Les
+installations sont équipées de détecteurs et bien ventilées.
+
+## Le vrai défi, la production
+
+Aujourd'hui, la plupart de l'hydrogène est produit à partir de **gaz naturel**, ce qui rejette beaucoup
+de CO₂. On peut aussi le produire par **électrolyse de l'eau** avec de l'électricité renouvelable ou
+nucléaire : il est alors bas carbone, mais plus cher, et chaque transformation perd de l'énergie. Entre
+l'électricité de départ et l'électricité récupérée dans une pile, on perd en général plus de la moitié de
+l'énergie.
+
+C'est pourquoi l'hydrogène est surtout jugé pertinent là où l'électricité directe est difficile à
+utiliser : l'**industrie** qui en consomme déjà, comme les engrais et le raffinage, l'**acier**, et
+peut-être le transport lourd ou le stockage saisonnier.
+
+## À retenir
+
+- Le dihydrogène est la molécule la plus légère, et il ne produit que de l'eau en réagissant avec l'oxygène.
+- Il contient près de trois fois plus d'énergie par kilogramme que l'essence, mais très peu par litre.
+- Il faut le comprimer à 350 ou 700 bars ou le liquéfier à −253 °C pour le stocker.
+- C'est un vecteur d'énergie, produit surtout à partir de gaz aujourd'hui, ou par électrolyse.
+- Ses pertes de conversion le réservent surtout à l'industrie et aux usages difficiles à électrifier.
 
 ---
 type: article

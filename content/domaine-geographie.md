@@ -4744,14 +4744,128 @@ title: Les nuages et ce qu'ils annoncent
 slug: les-nuages-et-ce-qu-ils-annoncent
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
-  Comment differentes formes de nuages indiquent des evolutions meteorologiques distinctes.
-tags: [climatologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les nuages se forment quand l'air humide s'élève et se refroidit. Leur forme et leur altitude
+  racontent ce qui se passe dans l'atmosphère : beau temps durable, arrivée d'une perturbation ou
+  orage imminent. Savoir les reconnaître permet d'anticiper le temps des heures à venir.
+tags: [climatologie]
+relatedArticles: [prevoir-temps-sans-instruments, pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps, pourquoi-il-pleut-ici-et-pas-la, comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre]
+sources:
+  - title: "Nuage"
+    url: "https://fr.wikipedia.org/wiki/Nuage"
+    publisher: "Wikipédia"
+  - title: "Atlas international des nuages"
+    url: "https://cloudatlas.wmo.int/fr/home.html"
+    publisher: "Organisation météorologique mondiale"
+  - title: "List of cloud types"
+    url: "https://en.wikipedia.org/wiki/List_of_cloud_types"
+    publisher: "Wikipedia"
+  - title: "Cumulonimbus"
+    url: "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment un nuage se forme-t-il ?"
+    options:
+      - "Quand l'air humide s'élève, se refroidit et que sa vapeur d'eau se condense en gouttelettes"
+      - "Quand le vent souffle du sable dans le ciel"
+      - "Quand l'air descend et se réchauffe"
+    answer: 1
+    explanation: >
+      En montant, l'air se détend et se refroidit. Sa vapeur d'eau se condense autour de minuscules
+      poussières.
+  - question: "Quel nuage annonce souvent un orage ?"
+    options:
+      - "Le cirrus"
+      - "Le cumulonimbus"
+      - "Le petit cumulus de beau temps"
+    answer: 2
+    explanation: >
+      Le cumulonimbus est une immense tour qui peut monter à plus de dix kilomètres et produit averses,
+      éclairs, grêle et rafales.
+  - question: "Que signifient des cirrus qui s'épaississent progressivement en voile blanc ?"
+    options:
+      - "Un beau temps durable"
+      - "L'approche probable d'une perturbation dans les 12 à 24 heures"
+      - "Un tremblement de terre"
+    answer: 2
+    explanation: >
+      Ces nuages élevés sont souvent l'avant-garde d'un front chaud, suivi de nuages de plus en plus bas
+      et de pluie.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un nuage est un immense ensemble de **gouttelettes d'eau** ou de **cristaux de glace** en suspension
+dans l'air. Il se forme quand de l'air humide **s'élève** et se **refroidit** : sa vapeur d'eau se
+**condense**. Les météorologues classent les nuages en **dix genres** selon leur **altitude** et leur
+**forme**. Leur aspect renseigne sur la stabilité de l'air et sur l'évolution du temps : certains
+signalent un beau temps durable, d'autres une perturbation qui arrive, d'autres encore un orage
+imminent. Une classification commune, l'Atlas international des nuages, est publiée par l'Organisation
+météorologique mondiale.
+
+## Comment naît un nuage
+
+L'air contient toujours de la vapeur d'eau, invisible. Quand il monte, la pression diminue, il se
+**détend** et se **refroidit**. À une certaine température, il ne peut plus contenir toute sa vapeur :
+elle se condense autour de minuscules **poussières**, sels marins ou particules, et forme des
+gouttelettes. L'air s'élève pour trois grandes raisons : il est chauffé par le sol et monte comme une
+bulle, il est forcé de passer au-dessus d'un relief, ou il glisse au-dessus d'une masse d'air plus froide
+lors du passage d'un **front**.
+
+## Les familles de nuages
+
+```schema
+type: pyramide
+titre: Les nuages selon leur altitude
+legende: Les cumulonimbus traversent tous les étages, du bas jusqu'au sommet de la troposphère.
+niveaux:
+  - titre: Étage supérieur, au-dessus de 6 km
+    texte: Cirrus, cirrocumulus, cirrostratus, faits de cristaux de glace.
+  - titre: Étage moyen, 2 à 6 km
+    texte: Altocumulus, altostratus.
+  - titre: Étage inférieur, sous 2 km
+    texte: Stratus, stratocumulus, nimbostratus.
+  - titre: Développement vertical
+    texte: Cumulus et cumulonimbus, de la base jusqu'en altitude.
+```
+
+Les noms combinent quelques racines latines : **cirrus**, « boucle de cheveux », pour les nuages fins et
+élevés ; **cumulus**, « tas », pour les nuages en boules ; **stratus**, « étendu », pour les nuages en
+couche ; **nimbus**, « pluie », pour ceux qui donnent des précipitations ; **alto** pour l'étage moyen.
+
+## Ce qu'ils annoncent
+
+- **Petits cumulus blancs et bien séparés** l'après-midi : ce sont les **cumulus de beau temps**. Ils se
+  forment par la chaleur du sol et se dissipent le soir. Le temps reste beau.
+- **Cumulus qui grossissent et montent en tours** dans la journée : l'air est instable. Ils peuvent
+  devenir des **cumulonimbus**.
+- **Cumulonimbus**, immenses tours sombres, souvent coiffées d'une **enclume** : orage, averses
+  violentes, éclairs, grêle et rafales, souvent dans l'heure. Il faut se mettre à l'abri.
+- **Cirrus** qui envahissent le ciel puis s'épaississent en **voile blanc**, avec parfois un **halo**
+  autour du soleil ou de la lune : souvent l'avant-garde d'une **perturbation**, avec de la pluie dans les
+  12 à 24 heures.
+- **Altostratus** gris, à travers lesquels le soleil paraît comme derrière un verre dépoli, puis
+  **nimbostratus** sombres et épais : pluie continue, souvent durable.
+- **Stratus** bas et gris : ciel couvert, bruine possible ; au sol, le stratus forme le **brouillard**.
+- **Altocumulus en bancs** le matin par temps chaud et lourd : possibilité d'orages plus tard dans la
+  journée.
+
+## Observer pour prévoir
+
+L'observation des nuages s'enrichit d'autres signes : la **direction du vent**, l'évolution de la
+**pression** sur un baromètre, la **succession** des nuages. Une suite cirrus, puis voile, puis nuages
+moyens, puis nuages bas indique l'approche d'un front. Ces règles donnent des tendances pour les heures
+qui viennent, pas une prévision exacte : les bulletins météorologiques, fondés sur des mesures et des
+modèles, restent la référence.
+
+## À retenir
+
+- Un nuage se forme quand l'air humide s'élève, se refroidit et que sa vapeur se condense.
+- On distingue dix genres de nuages selon leur altitude et leur forme.
+- Les petits cumulus séparés indiquent le beau temps, les cumulonimbus un orage proche.
+- Des cirrus qui s'épaississent en voile annoncent souvent une perturbation dans la journée.
+- La succession des nuages, le vent et la pression permettent d'anticiper le temps des heures à venir.
 
 ---
 type: article
@@ -7919,18 +8033,144 @@ status: planned
 
 ---
 type: article
-title: La transition demographique et ses differentes etapes
+title: La transition démographique et ses différentes étapes
 slug: la-transition-demographique-et-ses-differentes-etapes
 categoryPath: geographie-et-territoires/geographie-humaine/demographie
 summary: >
-  Un processus historique qui decrit l'evolution progressive des taux de natalite et de mortalite.
-tags: [demographie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En deux siècles, de nombreux pays sont passés d'une forte natalité et d'une forte mortalité à des
+  taux faibles. Entre les deux, la mortalité baisse avant la natalité et la population explose.
+  Ce modèle de la transition démographique éclaire l'histoire de l'Europe et l'avenir du monde.
+tags: [demographie]
+relatedArticles: [huit-milliards-dhabitants, comment-lit-on-une-pyramide-des-ages, urbanisation-mondiale-onu, migrations-realites-et-idees-recues]
+sources:
+  - title: "Transition démographique"
+    url: "https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique"
+    publisher: "Wikipédia"
+  - title: "Demographic transition"
+    url: "https://en.wikipedia.org/wiki/Demographic_transition"
+    publisher: "Wikipedia"
+  - title: "World Population Prospects"
+    url: "https://population.un.org/wpp/"
+    publisher: "Nations unies"
+  - title: "Total fertility rate"
+    url: "https://en.wikipedia.org/wiki/Total_fertility_rate"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pendant la deuxième phase de la transition démographique, que se passe-t-il ?"
+    options:
+      - "La natalité baisse avant la mortalité"
+      - "La mortalité baisse fortement alors que la natalité reste élevée, et la population augmente vite"
+      - "La population diminue"
+    answer: 2
+    explanation: >
+      Les progrès de l'hygiène, de l'alimentation et de la médecine réduisent la mortalité, mais les
+      familles restent nombreuses pendant encore plusieurs décennies.
+  - question: "Combien d'enfants par femme faut-il en moyenne pour assurer le renouvellement des générations dans un pays riche ?"
+    options:
+      - "Environ 1"
+      - "Environ 2,1"
+      - "Environ 4"
+    answer: 2
+    explanation: >
+      Deux enfants remplacent les deux parents ; le dixième supplémentaire compense la mortalité avant
+      l'âge adulte et le léger excès de naissances de garçons.
+  - question: "Pourquoi la natalité finit-elle par baisser ?"
+    options:
+      - "Parce que les enfants survivent davantage, que l'éducation des filles progresse et que les villes grandissent"
+      - "Parce que la mortalité augmente"
+      - "Parce que les pays l'interdisent tous"
+    answer: 1
+    explanation: >
+      Moins de décès d'enfants, scolarisation, urbanisation et accès à la contraception changent les
+      projets familiaux.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **transition démographique** est le passage d'une situation où l'on naît beaucoup et où l'on meurt
+beaucoup, avec une population presque stable, à une situation où l'on naît peu et où l'on meurt peu,
+de nouveau avec une population presque stable. Entre les deux, la **mortalité baisse avant la
+natalité** : pendant quelques décennies, les naissances dépassent largement les décès et la population
+**croît très vite**. L'Europe a connu cette transition aux XVIIIe et XIXe siècles ; la plupart des pays du
+monde l'ont faite ou la font aujourd'hui. Elle explique en grande partie le passage de l'humanité d'un
+milliard d'habitants vers 1800 à plus de huit milliards aujourd'hui.
+
+## Les étapes du modèle
+
+```schema
+type: etapes
+titre: Les phases de la transition démographique
+legende: La population croît fortement tant que la natalité reste élevée alors que la mortalité a baissé.
+elements:
+  - titre: Régime ancien
+    texte: Natalité et mortalité élevées, croissance faible.
+    icone: hourglass
+  - titre: Baisse de la mortalité
+    texte: Hygiène et médecine ; la population s'envole.
+    icone: syringe
+  - titre: Baisse de la natalité
+    texte: Familles plus petites ; la croissance ralentit.
+    icone: house
+  - titre: Régime moderne
+    texte: Natalité et mortalité faibles, croissance faible.
+    icone: chart
+```
+
+1. **Le régime démographique ancien** : les familles ont beaucoup d'enfants, mais famines, épidémies et
+   mortalité infantile élevée emportent une grande partie de la population. L'espérance de vie à la
+   naissance tourne autour de 25 à 35 ans.
+2. **La baisse de la mortalité** : une meilleure alimentation, l'hygiène, l'eau potable, puis les vaccins
+   et la médecine font chuter les décès, surtout chez les enfants. La natalité reste forte : la
+   population augmente rapidement.
+3. **La baisse de la natalité** : avec un temps de retard, les familles ont moins d'enfants. La
+   croissance ralentit.
+4. **Le régime moderne** : natalité et mortalité sont faibles, la population est presque stable et
+   **vieillit**.
+
+Certains démographes ajoutent une **cinquième phase**, celle de pays où la fécondité est tombée bien sous
+le seuil de renouvellement et où la population diminue, comme le Japon, la Corée du Sud ou l'Italie.
+
+## Pourquoi la natalité baisse
+
+- Les enfants **survivent** davantage : il n'est plus nécessaire d'en avoir beaucoup pour en voir
+  grandir quelques-uns.
+- L'**éducation des filles** et le travail des femmes retardent les naissances et changent les projets de
+  vie.
+- L'**urbanisation** rend les enfants plus coûteux et moins utiles comme main-d'œuvre.
+- L'accès à la **contraception** permet de choisir le nombre d'enfants.
+- Les systèmes de **retraite** réduisent la dépendance des parents âgés envers leurs enfants.
+
+## Le seuil de renouvellement
+
+Dans un pays où la mortalité est faible, il faut en moyenne environ **2,1 enfants par femme** pour que
+chaque génération remplace la précédente. Une grande partie des pays du monde est aujourd'hui sous ce
+seuil. La population mondiale continue pourtant d'augmenter, car de nombreux jeunes arrivent à l'âge
+d'avoir des enfants et l'on vit plus longtemps. Selon les projections des Nations unies, elle pourrait
+plafonner autour de dix milliards d'habitants au cours de la seconde moitié du XXIe siècle.
+
+## Des rythmes très différents
+
+La France a commencé sa baisse de natalité dès la fin du XVIIIe siècle, plus tôt que ses voisins.
+L'Angleterre a connu une transition plus tardive et une croissance très forte. Dans de nombreux pays
+d'Asie et d'Amérique latine, la transition a été beaucoup plus rapide, en quelques décennies. En Afrique
+subsaharienne, la mortalité a beaucoup baissé et la natalité commence à diminuer, mais reste la plus
+élevée du monde.
+
+## Les limites du modèle
+
+Le modèle décrit une tendance générale, pas une loi. Il a été construit à partir de l'histoire
+européenne, et les autres pays ne suivent pas forcément les mêmes étapes au même rythme. Les guerres,
+les épidémies, les politiques de natalité ou les migrations modifient aussi les trajectoires.
+
+## À retenir
+
+- La transition démographique mène d'une natalité et d'une mortalité élevées à des taux faibles.
+- La mortalité baisse d'abord : la population croît très vite pendant quelques décennies.
+- La natalité baisse ensuite avec la survie des enfants, l'éducation des filles et l'urbanisation.
+- Environ 2,1 enfants par femme assurent le renouvellement des générations.
+- Le modèle décrit une tendance générale, avec des rythmes très différents selon les pays.
 
 ---
 type: article

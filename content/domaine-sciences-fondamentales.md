@@ -7682,18 +7682,145 @@ status: planned
 
 ---
 type: article
-title: L'eau, une molecule aux proprietes exceptionnelles
+title: L'eau, une molécule aux propriétés exceptionnelles
 slug: l-eau-une-molecule-aux-proprietes-exceptionnelles
 categoryPath: sciences-fondamentales/chimie/chimie-inorganique
 summary: >
-  Pourquoi cette molecule simple presente des caracteristiques chimiques uniques.
-tags: [chimie-inorganique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Deux atomes d'hydrogène et un d'oxygène : la molécule d'eau est minuscule, mais sa forme coudée et
+  ses liaisons hydrogène lui donnent des propriétés hors du commun. Elle dissout beaucoup de
+  substances, stocke la chaleur, et sa glace flotte, ce qui a permis à la vie de se développer.
+tags: [chimie-inorganique]
+relatedArticles: [pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part, pourquoi-la-glace-flotte-sur-l-eau, temperature-et-chaleur, comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre]
+sources:
+  - title: "Eau"
+    url: "https://fr.wikipedia.org/wiki/Eau"
+    publisher: "Wikipédia"
+  - title: "Properties of water"
+    url: "https://en.wikipedia.org/wiki/Properties_of_water"
+    publisher: "Wikipedia"
+  - title: "Hydrogen bond"
+    url: "https://en.wikipedia.org/wiki/Hydrogen_bond"
+    publisher: "Wikipedia"
+  - title: "Specific heat capacity"
+    url: "https://en.wikipedia.org/wiki/Specific_heat_capacity"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi la molécule d'eau est-elle dite polaire ?"
+    options:
+      - "Parce qu'on la trouve surtout aux pôles"
+      - "Parce que l'oxygène attire les électrons, créant un côté légèrement négatif et un côté légèrement positif"
+      - "Parce qu'elle contient un aimant"
+    answer: 2
+    explanation: >
+      L'oxygène attire davantage les électrons que l'hydrogène. Avec la forme coudée de la molécule,
+      cela crée deux pôles électriques opposés.
+  - question: "Pourquoi la glace flotte-t-elle sur l'eau liquide ?"
+    options:
+      - "Parce qu'elle contient de l'air"
+      - "Parce que ses molécules s'organisent en un réseau ouvert, moins dense que le liquide"
+      - "Parce qu'elle est plus chaude"
+    answer: 2
+    explanation: >
+      En gelant, les liaisons hydrogène figent les molécules dans un réseau aéré. La glace est environ
+      9 % moins dense que l'eau liquide.
+  - question: "Pourquoi les régions côtières ont-elles des températures plus douces ?"
+    options:
+      - "Parce que l'eau de mer stocke beaucoup de chaleur et la restitue lentement"
+      - "Parce que le vent y est plus fort"
+      - "Parce que le sel réchauffe l'air"
+    answer: 1
+    explanation: >
+      L'eau a une capacité calorifique très élevée : elle se réchauffe et se refroidit lentement, ce
+      qui adoucit les écarts de température.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'eau, **H₂O**, est formée d'un atome d'oxygène lié à deux atomes d'hydrogène. Pour une si petite
+molécule, elle se comporte de façon étonnante : elle est **liquide** à température ambiante alors que
+des molécules de taille voisine sont des gaz, elle **dissout** un grand nombre de substances, elle
+**stocke la chaleur** mieux que presque tout autre liquide, et sa forme solide, la glace, **flotte**.
+Toutes ces particularités viennent de sa forme coudée et des **liaisons hydrogène** qui unissent les
+molécules entre elles.
+
+## Une molécule coudée et polaire
+
+Les trois atomes ne sont pas alignés : ils forment un angle d'environ **104,5°**. L'oxygène attire plus
+fortement les électrons que l'hydrogène. Le côté oxygène porte donc une légère charge **négative**, les
+deux hydrogènes une légère charge **positive**. On dit que la molécule est **polaire** : elle se
+comporte comme un minuscule aimant électrique.
+
+## Les liaisons hydrogène
+
+Le côté positif d'une molécule attire le côté négatif de sa voisine. Ces attractions, appelées
+**liaisons hydrogène**, sont bien plus faibles qu'une liaison chimique, mais très nombreuses. Elles se
+font et se défont sans cesse dans l'eau liquide, et retiennent les molécules les unes aux autres. Il
+faut beaucoup d'énergie pour les séparer : c'est pourquoi l'eau bout à 100 °C, alors que le sulfure
+d'hydrogène, une molécule voisine, est un gaz bien en dessous de 0 °C.
+
+```schema
+type: systeme
+titre: Ce que les liaisons hydrogène donnent à l'eau
+legende: La forme coudée de la molécule et sa polarité expliquent la plupart de ses propriétés.
+centre: Molécule d'eau
+icone: droplet
+parties:
+  - nom: Solvant
+    role: Dissout sels, sucres et gaz
+    icone: flask
+  - nom: Réservoir de chaleur
+    role: Se réchauffe et refroidit lentement
+    icone: thermometer
+  - nom: Glace qui flotte
+    role: Solide moins dense que le liquide
+    icone: snowflake
+  - nom: Tension de surface
+    role: Une peau fine à la surface
+    icone: bubbles
+  - nom: Capillarité
+    role: Monte dans les tubes fins
+    icone: leaf
+```
+
+## Un solvant presque universel
+
+Grâce à sa polarité, l'eau entoure les ions et les molécules chargées et les sépare les uns des
+autres : le sel, le sucre, de nombreux gaz s'y dissolvent. C'est ce qui permet au sang de transporter
+les nutriments, à la sève de nourrir les plantes, et aux réactions chimiques de la vie de se dérouler
+dans les cellules. Les graisses et les huiles, qui ne sont pas polaires, restent en revanche à l'écart.
+
+## Un réservoir de chaleur
+
+Il faut beaucoup d'énergie pour réchauffer l'eau : sa **capacité calorifique** est environ quatre fois
+plus élevée que celle de l'air pour une même masse. Les océans absorbent ainsi d'immenses quantités de
+chaleur et la restituent lentement, ce qui adoucit le climat des côtes. Notre corps, composé en grande
+partie d'eau, garde lui aussi une température stable. L'évaporation de l'eau consomme de plus beaucoup
+d'énergie : c'est le principe de la transpiration qui nous rafraîchit.
+
+## La glace qui flotte
+
+La plupart des substances sont plus denses à l'état solide. Pas l'eau : en gelant, les liaisons
+hydrogène figent les molécules dans un **réseau ouvert**, plein de vides. La glace est environ **9 %
+moins dense** que l'eau liquide et flotte. Sur un lac en hiver, la glace se forme en surface et isole
+l'eau dessous, qui reste liquide : poissons et plantes survivent. L'eau liquide est la plus dense vers
+**4 °C**, la température du fond des lacs profonds.
+
+## Tension de surface et capillarité
+
+À la surface, les molécules s'attirent fortement entre elles et forment une sorte de **peau** : certains
+insectes marchent sur l'eau, et une goutte prend une forme ronde. L'eau adhère aussi aux parois : elle
+monte dans les tubes très fins, les fibres d'un papier ou les vaisseaux des plantes, c'est la
+**capillarité**.
+
+## À retenir
+
+- La molécule d'eau est coudée et polaire : un côté légèrement négatif, l'autre légèrement positif.
+- Les liaisons hydrogène entre molécules expliquent son point d'ébullition élevé.
+- L'eau dissout de nombreuses substances, ce qui en fait le milieu de la vie.
+- Elle stocke beaucoup de chaleur, ce qui adoucit les climats et stabilise notre température.
+- La glace est moins dense que l'eau liquide et flotte, ce qui protège la vie aquatique en hiver.
 
 ---
 type: article
@@ -10679,29 +10806,263 @@ title: La loi des grands nombres
 slug: la-loi-des-grands-nombres
 categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
 summary: >
-  Pourquoi les resultats aleatoires se stabilisent progressivement sur un grand nombre d'essais.
-tags: [probabilites-et-statistiques, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Lancez une pièce dix fois et vous obtiendrez peut-être sept piles. Lancez-la dix mille fois et la
+  proportion de piles sera très proche de la moitié. Ce principe explique pourquoi les casinos et
+  les assureurs gagnent à coup sûr, et pourquoi un petit échantillon peut tromper.
+tags: [probabilites-et-statistiques]
+relatedArticles: [le-hasard-et-les-probabilites, la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes, le-contrat-d-assurance-principes-de-base, pourquoi-notre-cerveau-se-trompe]
+sources:
+  - title: "Loi des grands nombres"
+    url: "https://fr.wikipedia.org/wiki/Loi_des_grands_nombres"
+    publisher: "Wikipédia"
+  - title: "Law of large numbers"
+    url: "https://en.wikipedia.org/wiki/Law_of_large_numbers"
+    publisher: "Wikipedia"
+  - title: "Gambler's fallacy"
+    url: "https://en.wikipedia.org/wiki/Gambler%27s_fallacy"
+    publisher: "Wikipedia"
+  - title: "Jacob Bernoulli"
+    url: "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que dit la loi des grands nombres ?"
+    options:
+      - "Que les événements rares n'arrivent jamais"
+      - "Que, sur un grand nombre d'essais, la fréquence observée se rapproche de la probabilité"
+      - "Qu'après cinq piles, face devient plus probable"
+    answer: 2
+    explanation: >
+      Plus on répète l'expérience, plus la proportion observée tend vers la probabilité théorique.
+  - question: "Après dix piles de suite avec une pièce équilibrée, quelle est la probabilité d'obtenir face au lancer suivant ?"
+    options:
+      - "Une chance sur deux"
+      - "Presque certaine"
+      - "Presque nulle"
+    answer: 1
+    explanation: >
+      La pièce n'a pas de mémoire. Croire que face « doit » sortir est l'erreur du joueur : la loi
+      des grands nombres ne corrige pas le passé, elle le dilue.
+  - question: "Pourquoi un casino est-il assuré de gagner sur l'année ?"
+    options:
+      - "Parce qu'il triche"
+      - "Parce que les joueurs perdent toujours"
+      - "Parce qu'il a un léger avantage sur chaque mise et que des millions de mises rendent le résultat prévisible"
+    answer: 3
+    explanation: >
+      Un joueur isolé peut gagner, mais sur des millions de parties, le petit avantage de la maison
+      se transforme en bénéfice quasi certain.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **loi des grands nombres** dit que, lorsqu'on répète un grand nombre de fois une expérience
+aléatoire, la **fréquence** observée d'un résultat se rapproche de sa **probabilité**. Sur dix lancers,
+une pièce peut donner sept piles ; sur dix mille, la proportion de piles sera très proche de 50 %. Le
+hasard reste imprévisible au coup par coup, mais devient très régulier en masse. Ce principe, démontré
+par le mathématicien suisse **Jacques Bernoulli** et publié en 1713, fonde les sondages, l'assurance
+et toute la statistique.
+
+## Une expérience simple
+
+Prenons un dé. La probabilité d'obtenir un 6 est d'une sur six, soit environ 16,7 %.
+
+- Sur **6 lancers**, on peut n'avoir aucun 6, ou en avoir trois : la fréquence varie énormément.
+- Sur **600 lancers**, on obtient le plus souvent entre 80 et 120 six.
+- Sur **60 000 lancers**, la proportion de 6 sera très proche de 16,7 %.
+
+Les écarts en nombre absolu peuvent grandir, mais l'écart **en proportion** se réduit : il devient
+négligeable par rapport au total.
+
+```schema
+type: etapes
+titre: Plus on répète, plus la fréquence se stabilise
+legende: La proportion de 6 obtenue avec un dé se rapproche de un sur six à mesure que les lancers s'accumulent.
+elements:
+  - titre: 6 lancers
+    texte: Aucun 6 ou trois 6, tout est possible.
+    icone: cube
+  - titre: 600 lancers
+    texte: Le plus souvent entre 80 et 120 six.
+    icone: chart
+  - titre: 60 000 lancers
+    texte: Une proportion très proche de 16,7 %.
+    icone: scales
+```
+
+## Ce que la loi ne dit pas
+
+Une erreur répandue, l'**erreur du joueur**, consiste à croire que le hasard « rattrape » ses écarts :
+après une série de rouges à la roulette, le noir serait « dû ». C'est faux. Chaque tirage est
+indépendant : la bille n'a pas de mémoire. La loi des grands nombres ne compense pas les écarts
+passés, elle les **dilue** dans une masse de tirages toujours plus grande.
+
+Elle ne dit pas non plus que les petits échantillons sont fiables. Au contraire : sur peu d'essais, des
+résultats extrêmes sont fréquents. Un hôpital qui accueille peu de naissances connaîtra plus souvent
+des journées « exceptionnelles » qu'une grande maternité.
+
+## Pourquoi elle fait vivre des industries entières
+
+- **Les casinos** : sur chaque mise, la maison a un petit avantage, quelques pour cent. Un joueur peut
+  gagner une soirée, mais sur des millions de mises, le gain du casino devient presque certain.
+- **Les assureurs** : impossible de savoir quelle maison brûlera, mais sur des centaines de milliers de
+  contrats, le nombre de sinistres devient prévisible, ce qui permet de fixer les primes.
+- **Les sondages** : interroger un échantillon assez grand et bien choisi suffit à estimer l'opinion de
+  millions de personnes avec une marge d'erreur connue.
+- **La médecine** : un traitement se juge sur des centaines ou des milliers de patients, car quelques
+  cas isolés ne prouvent rien.
+
+## À retenir
+
+- Sur un grand nombre d'essais, la fréquence d'un résultat se rapproche de sa probabilité.
+- Le hasard est imprévisible au coup par coup, mais très régulier en grand nombre.
+- La loi ne rattrape pas les écarts passés : chaque tirage reste indépendant.
+- Les petits échantillons produisent souvent des résultats extrêmes et trompeurs.
+- Casinos, assurances, sondages et essais médicaux reposent sur ce principe.
 
 ---
 type: article
-title: La moyenne, la mediane et le mode, trois mesures distinctes
+title: La moyenne, la médiane et le mode, trois mesures distinctes
 slug: la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes
 categoryPath: sciences-fondamentales/mathematiques/probabilites-et-statistiques
 summary: >
-  Des indicateurs statistiques qui ne racontent pas toujours la meme histoire.
-tags: [probabilites-et-statistiques, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pour résumer une série de nombres en un seul, on dispose de trois outils qui peuvent donner des
+  résultats très différents. La moyenne est sensible aux valeurs extrêmes, la médiane coupe la série
+  en deux, le mode désigne la valeur la plus fréquente. Choisir le bon évite de se laisser tromper.
+tags: [probabilites-et-statistiques]
+relatedArticles: [le-hasard-et-les-probabilites, inegalites-de-revenu-et-de-patrimoine, pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il, interets-composes]
+sources:
+  - title: "Médiane (statistiques)"
+    url: "https://fr.wikipedia.org/wiki/M%C3%A9diane_(statistiques)"
+    publisher: "Wikipédia"
+  - title: "Mean"
+    url: "https://en.wikipedia.org/wiki/Mean"
+    publisher: "Wikipedia"
+  - title: "Mode (statistics)"
+    url: "https://en.wikipedia.org/wiki/Mode_(statistics)"
+    publisher: "Wikipedia"
+  - title: "Central tendency"
+    url: "https://en.wikipedia.org/wiki/Central_tendency"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans une entreprise, neuf salariés gagnent 2 000 € et le patron 50 000 €. Quelle mesure décrit le mieux le salaire typique ?"
+    options:
+      - "La moyenne, 6 800 €"
+      - "La médiane, 2 000 €"
+      - "Le salaire du patron"
+    answer: 2
+    explanation: >
+      Le salaire du patron tire la moyenne vers le haut. La médiane, insensible à cette valeur
+      extrême, reflète la situation de la majorité.
+  - question: "Qu'est-ce que la médiane d'une série ?"
+    options:
+      - "La valeur qui partage la série classée en deux moitiés égales"
+      - "La valeur la plus fréquente"
+      - "La somme divisée par le nombre de valeurs"
+    answer: 1
+    explanation: >
+      Une moitié des valeurs se trouve en dessous de la médiane, l'autre moitié au-dessus.
+  - question: "Pour connaître la pointure de chaussures la plus vendue, quelle mesure utiliser ?"
+    options:
+      - "La moyenne"
+      - "La médiane"
+      - "Le mode"
+    answer: 3
+    explanation: >
+      Le mode désigne la valeur qui revient le plus souvent : c'est exactement ce que cherche un
+      commerçant pour remplir son stock.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on a beaucoup de chiffres, des notes, des salaires ou des tailles, on veut souvent les résumer
+par une seule valeur « centrale ». Trois mesures servent à cela. La **moyenne** additionne tout et
+divise par le nombre de valeurs. La **médiane** est la valeur du milieu quand on range la série dans
+l'ordre. Le **mode** est la valeur la plus fréquente. Sur une série bien équilibrée, les trois se
+ressemblent. Sur une série déséquilibrée, elles peuvent raconter des histoires très différentes.
+
+## La moyenne, le partage équitable
+
+La moyenne répond à la question : « Si l'on partageait le total également entre tous, combien
+chacun aurait-il ? » Pour les notes 8, 10, 12 et 14, la somme vaut 44 et la moyenne 11.
+
+Sa force : elle utilise toutes les valeurs. Sa faiblesse : une seule valeur extrême la déplace
+fortement. Si un milliardaire entre dans un café, le patrimoine moyen des clients explose, alors que
+personne d'autre ne s'est enrichi.
+
+## La médiane, la valeur du milieu
+
+On range les valeurs de la plus petite à la plus grande et l'on prend celle du milieu. Pour 3, 5, 7,
+20, 95, la médiane vaut 7. Avec un nombre pair de valeurs, on prend la moyenne des deux valeurs
+centrales.
+
+La médiane partage la population en **deux moitiés** : 50 % des valeurs en dessous, 50 % au-dessus.
+Elle ignore la taille des valeurs extrêmes, ce qui la rend précieuse pour les revenus, les prix des
+logements ou les délais d'attente, où quelques cas exceptionnels faussent la moyenne. C'est pourquoi
+les statisticiens publics parlent souvent de **revenu médian**.
+
+## Le mode, la valeur la plus fréquente
+
+Le mode est simplement la valeur qui revient le plus souvent. Dans 2, 3, 3, 3, 5, 8, le mode vaut 3.
+Une série peut avoir **plusieurs modes**, ou aucun si toutes les valeurs sont différentes.
+
+C'est la seule des trois mesures qui fonctionne aussi pour des données qui ne sont pas des nombres :
+la couleur de voiture la plus vendue, le prénom le plus donné, la réponse la plus choisie à un
+sondage.
+
+```schema
+type: comparaison
+titre: Trois façons de résumer une série
+legende: Sur la série 2, 3, 3, 4, 38, la moyenne vaut 10, la médiane 3 et le mode 3.
+colonnes:
+  - titre: Moyenne
+    icone: scales
+    points:
+      - Somme divisée par l'effectif
+      - Utilise toutes les valeurs
+      - Tirée par les extrêmes
+  - titre: Médiane
+    icone: chart
+    points:
+      - Valeur du milieu de la série classée
+      - Coupe la série en deux moitiés
+      - Résiste aux extrêmes
+  - titre: Mode
+    icone: medal
+    points:
+      - Valeur la plus fréquente
+      - Peut être multiple ou absent
+      - Marche aussi sans nombres
+```
+
+## Quand elles divergent
+
+L'écart entre moyenne et médiane est un **signal**. Si la moyenne dépasse nettement la médiane, la
+série contient quelques valeurs très élevées : c'est typique des salaires, où une minorité de hauts
+revenus tire la moyenne vers le haut. Si la moyenne est plus basse, quelques valeurs très faibles
+pèsent sur elle.
+
+Un exemple : dans une entreprise de dix personnes, neuf gagnent 2 000 € par mois et le dirigeant
+50 000 €. Le salaire moyen est de 6 800 €, un chiffre qui ne correspond à personne. La médiane et le
+mode valent 2 000 €, ce que touche réellement presque tout le monde.
+
+## Lire les chiffres avec esprit critique
+
+Quand un article annonce un « revenu moyen », un « prix moyen » ou une « durée moyenne », on peut se
+demander : la médiane serait-elle très différente ? Choisir la mesure qui arrange est un moyen
+classique de présenter une réalité sous un jour flatteur. Une bonne pratique consiste à donner la
+moyenne **et** la médiane, et à préciser comment les valeurs sont dispersées.
+
+## À retenir
+
+- La moyenne partage le total également, mais une valeur extrême la déplace beaucoup.
+- La médiane est la valeur du milieu de la série classée : moitié en dessous, moitié au-dessus.
+- Le mode est la valeur la plus fréquente, utilisable même pour des catégories.
+- Un grand écart entre moyenne et médiane révèle une série déséquilibrée.
+- Pour les revenus et les prix, la médiane décrit souvent mieux la situation typique.
 
 ---
 type: article
@@ -12686,18 +13047,144 @@ status: planned
 
 ---
 type: article
-title: Les echelles de temperature, Celsius, Fahrenheit et Kelvin
+title: Les échelles de température, Celsius, Fahrenheit et Kelvin
 slug: les-echelles-de-temperature-celsius-fahrenheit-et-kelvin
 categoryPath: sciences-fondamentales/physique/thermodynamique
 summary: >
-  Trois systemes de mesure avec des points de reference historiques differents.
-tags: [thermodynamique, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Trois échelles mesurent la même grandeur avec des points de repère différents. Le Celsius
+  s'appuie sur l'eau, le Fahrenheit sur des repères historiques, le Kelvin part du zéro absolu,
+  la température la plus basse possible. Savoir passer de l'une à l'autre évite bien des erreurs.
+tags: [thermodynamique]
+relatedArticles: [temperature-et-chaleur, les-deux-principes-de-la-thermodynamique, conduction-convection-rayonnement, pourquoi-la-glace-flotte-sur-l-eau]
+sources:
+  - title: "Échelle de température"
+    url: "https://fr.wikipedia.org/wiki/%C3%89chelle_de_temp%C3%A9rature"
+    publisher: "Wikipédia"
+  - title: "Kelvin"
+    url: "https://en.wikipedia.org/wiki/Kelvin"
+    publisher: "Wikipedia"
+  - title: "Fahrenheit"
+    url: "https://en.wikipedia.org/wiki/Fahrenheit"
+    publisher: "Wikipedia"
+  - title: "Absolute zero"
+    url: "https://en.wikipedia.org/wiki/Absolute_zero"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quelle température en degrés Celsius correspond le zéro absolu ?"
+    options:
+      - "0 °C"
+      - "−100 °C"
+      - "−273,15 °C"
+    answer: 3
+    explanation: >
+      0 K, le zéro absolu, vaut −273,15 °C. Aucune matière ne peut être plus froide.
+  - question: "Une variation de 1 kelvin correspond à une variation de combien de degrés Celsius ?"
+    options:
+      - "1 °C exactement"
+      - "1,8 °C"
+      - "273 °C"
+    answer: 1
+    explanation: >
+      Les deux échelles ont des degrés de même taille : seul leur point de départ diffère.
+  - question: "Combien vaut 100 °F, une forte fièvre, en degrés Celsius ?"
+    options:
+      - "Environ 20 °C"
+      - "Environ 38 °C"
+      - "Environ 100 °C"
+    answer: 2
+    explanation: >
+      (100 − 32) ÷ 1,8 ≈ 37,8 °C. Fahrenheit avait choisi des repères tels que la température du
+      corps soit proche de 100.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une température mesure l'**agitation des particules** d'une matière. Pour la chiffrer, il faut une
+échelle, c'est-à-dire deux choses : un **point zéro** et une **taille de degré**. Trois échelles
+dominent. Le **Celsius**, utilisé presque partout dans le monde, place 0 à la fonte de la glace et 100
+à l'ébullition de l'eau. Le **Fahrenheit**, encore courant aux États-Unis, utilise d'autres repères. Le
+**kelvin**, unité officielle du Système international, part du **zéro absolu**, le froid le plus
+extrême qui puisse exister.
+
+## Le Celsius, une échelle bâtie sur l'eau
+
+Le savant suédois Anders Celsius propose en 1742 une échelle à **cent graduations** entre deux
+repères faciles à reproduire : la glace qui fond et l'eau qui bout, sous la pression atmosphérique
+normale. Curieusement, il avait placé 100 à la glace et 0 à l'ébullition ; l'échelle fut inversée peu
+après sa mort. Simple et liée à l'eau omniprésente, elle s'est imposée dans la vie courante.
+
+## Le Fahrenheit, des repères historiques
+
+Daniel Gabriel Fahrenheit, fabricant d'instruments, crée son échelle vers 1724. Il place le zéro au
+plus froid qu'il obtient avec un mélange de glace, d'eau et de sel, et prend la température du corps
+humain comme autre repère, vers 96 à l'époque. Résultat : l'eau gèle à **32 °F** et bout à **212 °F**,
+soit 180 degrés d'écart au lieu de 100. Un degré Fahrenheit est donc plus petit : il vaut 1/1,8 degré
+Celsius.
+
+## Le kelvin, une échelle absolue
+
+Au XIXe siècle, les physiciens comprennent qu'il existe une température limite où l'agitation des
+particules est minimale : le **zéro absolu**, à **−273,15 °C**. Lord Kelvin propose d'en faire le point
+de départ. Le kelvin garde la **taille du degré Celsius**, mais il commence au zéro absolu : il n'existe
+donc pas de température négative en kelvins. On écrit « 300 K », sans le mot « degré ».
+
+Cette échelle est indispensable en physique : dans les lois des gaz ou du rayonnement, les formules ne
+fonctionnent qu'avec des températures absolues. Doubler une température en kelvins double vraiment
+l'agitation moyenne, ce qui n'a pas de sens en Celsius : 20 °C n'est pas « deux fois plus chaud » que
+10 °C.
+
+```schema
+type: comparaison
+titre: Trois échelles, mêmes phénomènes
+legende: Celsius et kelvin ont des degrés de même taille ; le Fahrenheit a des degrés 1,8 fois plus petits.
+colonnes:
+  - titre: Celsius (°C)
+    icone: thermometer
+    points:
+      - L'eau gèle à 0
+      - L'eau bout à 100
+      - Usage courant dans le monde
+  - titre: Fahrenheit (°F)
+    icone: thermometer
+    points:
+      - L'eau gèle à 32
+      - L'eau bout à 212
+      - Usage courant aux États-Unis
+  - titre: Kelvin (K)
+    icone: atom
+    points:
+      - Zéro absolu à 0
+      - L'eau gèle à 273,15
+      - Unité du Système international
+```
+
+## Passer d'une échelle à l'autre
+
+- **Celsius vers kelvin** : ajouter 273,15. 20 °C font 293,15 K.
+- **Kelvin vers Celsius** : retirer 273,15.
+- **Celsius vers Fahrenheit** : multiplier par 1,8 puis ajouter 32. 20 °C font 68 °F.
+- **Fahrenheit vers Celsius** : retirer 32 puis diviser par 1,8. 100 °F font environ 37,8 °C.
+
+Une valeur se correspond dans les deux échelles : **−40**, où Celsius et Fahrenheit affichent le même
+nombre. Pour un calcul de tête, « doubler et ajouter 30 » donne une approximation acceptable du
+Fahrenheit pour les températures de la vie courante.
+
+## Pourquoi c'est important
+
+Une confusion d'unités peut coûter cher : une recette américaine qui demande un four à 350 °F
+attend environ 177 °C, pas 350 °C. En médecine, un thermomètre réglé dans la mauvaise unité fausse
+le diagnostic. En science, oublier de convertir en kelvins rend les calculs faux. Toujours vérifier
+l'unité avant de lire un chiffre est le meilleur réflexe.
+
+## À retenir
+
+- Une échelle de température se définit par un point zéro et une taille de degré.
+- Le Celsius place 0 et 100 à la fonte de la glace et à l'ébullition de l'eau.
+- Le Fahrenheit place ces mêmes repères à 32 et 212 : ses degrés sont 1,8 fois plus petits.
+- Le kelvin part du zéro absolu, −273,15 °C, avec des degrés de même taille que le Celsius.
+- On ajoute 273,15 pour passer du Celsius au kelvin, on multiplie par 1,8 puis ajoute 32 pour le Fahrenheit.
 
 ---
 type: article
@@ -18305,18 +18792,141 @@ status: planned
 
 ---
 type: article
-title: Les transformateurs electriques et leur role dans l'ajustement de la tension
+title: Les transformateurs électriques et leur rôle dans l'ajustement de la tension
 slug: les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension
 categoryPath: sciences-fondamentales/physique/electromagnetisme
 summary: >
-  Un dispositif essentiel qui permet d'adapter le niveau de tension du courant electrique.
-tags: [electromagnetisme, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Deux bobines de fil enroulées autour d'un noyau de fer suffisent à élever ou abaisser une tension
+  alternative presque sans perte. Le transformateur permet de transporter l'électricité à très haute
+  tension sur des centaines de kilomètres, puis de la ramener à 230 volts dans nos prises.
+tags: [electromagnetisme]
+relatedArticles: [electricite-et-magnetisme-un-seul-phenomene, tension-courant-resistance, comment-l-electricite-voyage-t-elle-de-la-centrale-jusqu-a-votre-prise, produire-electricite-avec-aimant]
+sources:
+  - title: "Transformateur électrique"
+    url: "https://fr.wikipedia.org/wiki/Transformateur_%C3%A9lectrique"
+    publisher: "Wikipédia"
+  - title: "Transformer"
+    url: "https://en.wikipedia.org/wiki/Transformer"
+    publisher: "Wikipedia"
+  - title: "Electromagnetic induction"
+    url: "https://en.wikipedia.org/wiki/Electromagnetic_induction"
+    publisher: "Wikipedia"
+  - title: "Electric power transmission"
+    url: "https://en.wikipedia.org/wiki/Electric_power_transmission"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Un transformateur a 100 spires au primaire et 10 au secondaire. Si l'on applique 230 V, quelle tension obtient-on ?"
+    options:
+      - "2 300 V"
+      - "23 V"
+      - "230 V"
+    answer: 2
+    explanation: >
+      La tension est divisée dans le rapport des spires : 10 fois moins de spires, 10 fois moins de
+      tension.
+  - question: "Pourquoi transporte-t-on l'électricité à très haute tension ?"
+    options:
+      - "Pour qu'elle aille plus vite"
+      - "Parce qu'à puissance égale, le courant est plus faible et les pertes dans les câbles bien moindres"
+      - "Pour décourager les voleurs de câbles"
+    answer: 2
+    explanation: >
+      Les pertes par échauffement dépendent du carré du courant. Élever la tension réduit le courant
+      et donc les pertes.
+  - question: "Pourquoi un transformateur ne fonctionne-t-il pas en courant continu ?"
+    options:
+      - "Parce qu'il faut un champ magnétique qui varie pour induire une tension dans la seconde bobine"
+      - "Parce que le courant continu est trop fort"
+      - "Parce que le fer conduit mal le courant continu"
+    answer: 1
+    explanation: >
+      L'induction n'existe que si le champ magnétique change. Un courant continu crée un champ fixe,
+      qui n'induit rien au secondaire.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **transformateur** modifie la **tension** d'un courant alternatif. Il élève la tension à la sortie
+d'une centrale pour le transport, puis l'abaisse en plusieurs étapes jusqu'aux **230 volts** de nos
+prises, et encore davantage dans les chargeurs de téléphone. Il ne contient aucune pièce mobile : deux
+bobines de fil de cuivre enroulées sur un **noyau de fer**. Son fonctionnement repose sur
+l'**induction électromagnétique**, découverte par Michael Faraday en 1831.
+
+## Comment il fonctionne
+
+1. Le courant alternatif traverse la **première bobine**, le primaire. Il change de sens 50 fois par
+   seconde en Europe.
+2. Ce courant crée un **champ magnétique** qui varie au même rythme.
+3. Le **noyau de fer** canalise ce champ jusqu'à la seconde bobine.
+4. Dans la **seconde bobine**, le secondaire, le champ variable **induit** une tension.
+
+Les deux bobines ne se touchent pas : l'énergie passe uniquement par le champ magnétique. Cette
+séparation électrique sert aussi à la sécurité, par exemple dans les chargeurs.
+
+```schema
+type: etapes
+titre: Le chemin de l'énergie dans un transformateur
+legende: Aucun fil ne relie les deux bobines ; l'énergie passe par un champ magnétique qui varie.
+elements:
+  - titre: Primaire
+    texte: Le courant alternatif traverse la première bobine.
+    icone: bolt
+  - titre: Champ variable
+    texte: Il crée un champ magnétique qui change sans cesse.
+    icone: magnet
+  - titre: Noyau de fer
+    texte: Le fer canalise ce champ vers l'autre bobine.
+    icone: gear
+  - titre: Secondaire
+    texte: Le champ variable y induit une nouvelle tension.
+    icone: bolt
+```
+
+## La règle des spires
+
+Le rapport des tensions est égal au rapport des **nombres de tours de fil**, ou spires. Si le
+secondaire compte dix fois moins de spires que le primaire, la tension est divisée par dix : on parle
+de transformateur **abaisseur**. S'il en compte dix fois plus, elle est multipliée par dix :
+transformateur **élévateur**.
+
+L'énergie, elle, ne se crée pas : si la tension est multipliée par dix, le courant disponible est
+divisé par dix, aux pertes près. Les grands transformateurs ont un rendement qui dépasse souvent 99 %.
+
+## Pourquoi transporter en haute tension
+
+Un câble électrique chauffe quand le courant le traverse, et cette chaleur est de l'énergie perdue.
+Les pertes augmentent avec le **carré du courant** : deux fois plus de courant, quatre fois plus de
+pertes. Pour transporter une même puissance, on a donc intérêt à **élever la tension** et réduire le
+courant. En France, les grandes lignes fonctionnent à **400 000 volts**.
+
+La chaîne est la suivante : la centrale produit à quelques dizaines de milliers de volts, un
+transformateur élève à 400 000 volts, des postes abaissent ensuite vers 225 000, puis 63 000, puis
+20 000 volts pour la distribution locale, et un dernier transformateur de quartier fournit les 230
+volts des maisons.
+
+## Le courant alternatif l'a emporté grâce à lui
+
+À la fin du XIXe siècle, Thomas Edison défendait le **courant continu**, George Westinghouse et Nikola
+Tesla le **courant alternatif**. Le transformateur a fait la différence : lui seul permettait de changer
+facilement de tension, et il ne fonctionne qu'avec un courant qui varie. Le courant alternatif s'est
+imposé pour les réseaux du monde entier.
+
+## Pertes et bruit
+
+Un transformateur n'est pas parfait. Le cuivre des bobines chauffe, et le fer du noyau perd un peu
+d'énergie à chaque inversion du champ. Pour limiter ces pertes, le noyau est fait de **tôles fines**
+isolées les unes des autres, et les gros transformateurs baignent dans une huile qui les refroidit. Le
+léger bourdonnement qu'ils émettent vient des tôles qui vibrent au rythme du courant.
+
+## À retenir
+
+- Un transformateur élève ou abaisse une tension alternative grâce à l'induction électromagnétique.
+- Il est formé de deux bobines enroulées sur un noyau de fer, sans contact électrique entre elles.
+- Le rapport des tensions est égal au rapport des nombres de spires.
+- Transporter en haute tension réduit le courant, donc les pertes dans les câbles.
+- Il ne fonctionne qu'en courant alternatif, ce qui a assuré la victoire de ce dernier.
 
 ---
 type: article

@@ -10812,18 +10812,139 @@ status: planned
 
 ---
 type: article
-title: Les langages de programmation compiles et interpretes, une distinction fondamentale
+title: Les langages de programmation compilés et interprétés, une distinction fondamentale
 slug: les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale
 categoryPath: micro-informatique-et-informatique/logiciel/programmation
 summary: >
-  Deux approches differentes de la maniere dont un ordinateur execute finalement le code ecrit.
-tags: [programmation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un processeur ne comprend que des instructions binaires. Pour exécuter un programme écrit en C,
+  Python ou JavaScript, il faut le traduire : d'un bloc à l'avance avec un compilateur, ou au fur et
+  à mesure avec un interpréteur. Ce choix influe sur la vitesse, la portabilité et le confort de travail.
+tags: [programmation]
+relatedArticles: [histoire-principes-langages-programmation, comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles, le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation, algorithmes-et-complexite]
+sources:
+  - title: "Compilateur"
+    url: "https://fr.wikipedia.org/wiki/Compilateur"
+    publisher: "Wikipédia"
+  - title: "Interprète (informatique)"
+    url: "https://fr.wikipedia.org/wiki/Interpr%C3%A8te_(informatique)"
+    publisher: "Wikipédia"
+  - title: "Just-in-time compilation"
+    url: "https://en.wikipedia.org/wiki/Just-in-time_compilation"
+    publisher: "Wikipedia"
+  - title: "Bytecode"
+    url: "https://en.wikipedia.org/wiki/Bytecode"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que fait un compilateur ?"
+    options:
+      - "Il exécute le programme ligne par ligne"
+      - "Il traduit tout le programme en langage machine avant son exécution"
+      - "Il corrige automatiquement toutes les erreurs de logique"
+    answer: 2
+    explanation: >
+      Le compilateur produit un fichier exécutable que le processeur lancera directement, sans le code
+      source.
+  - question: "Quel est l'avantage principal d'un langage interprété ?"
+    options:
+      - "Il est toujours plus rapide"
+      - "On peut lancer et tester le code immédiatement, sans étape de compilation"
+      - "Il n'a besoin d'aucun programme pour fonctionner"
+    answer: 2
+    explanation: >
+      L'interpréteur lit et exécute le code directement, ce qui facilite l'essai et la mise au point.
+  - question: "Qu'est-ce que la compilation à la volée (JIT) ?"
+    options:
+      - "Une compilation faite pendant l'exécution, pour les parties du code les plus utilisées"
+      - "Une compilation faite une seule fois par an"
+      - "Une méthode pour effacer le code source"
+    answer: 1
+    explanation: >
+      Le moteur repère les portions souvent exécutées et les traduit en code machine pendant que le
+      programme tourne.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **processeur** n'exécute que du **langage machine**, une suite d'instructions binaires propre à son
+architecture. Les programmeurs, eux, écrivent dans des **langages** lisibles par des humains : C, Rust,
+Java, Python, JavaScript. Il faut donc **traduire**. Deux grandes approches existent. Le **compilateur**
+traduit tout le programme **à l'avance** et produit un fichier exécutable. L'**interpréteur** lit le
+programme et l'exécute **au fur et à mesure**. Dans la pratique, la plupart des langages modernes
+mélangent les deux.
+
+## La compilation, traduire à l'avance
+
+Le compilateur lit l'ensemble du code source, vérifie qu'il est correct, l'optimise et produit un
+**exécutable** en langage machine. On distribue ensuite cet exécutable, que le processeur lance
+directement. C, C++, Rust ou Go fonctionnent ainsi.
+
+- **Avantages** : des programmes **rapides**, car la traduction est faite une fois pour toutes et
+  optimisée ; de nombreuses erreurs repérées **avant** l'exécution.
+- **Inconvénients** : il faut recompiler après chaque modification, et l'exécutable dépend du
+  processeur et du système : un programme compilé pour Windows sur processeur Intel ne tourne pas tel
+  quel sur un Mac à puce Apple.
+
+## L'interprétation, traduire au fil de l'eau
+
+L'interpréteur lit le code source et exécute chaque instruction au moment où il la rencontre. Python,
+Ruby ou les scripts shell sont traditionnellement interprétés.
+
+- **Avantages** : on lance le code **immédiatement**, on teste une ligne dans une console, on corrige et
+  on relance ; le même code tourne partout où l'interpréteur est installé.
+- **Inconvénients** : l'exécution est en général **plus lente**, puisque le travail de traduction se
+  refait à chaque exécution, et certaines erreurs n'apparaissent qu'au moment où la ligne fautive est
+  atteinte.
+
+```schema
+type: comparaison
+titre: Compiler ou interpréter
+legende: Les deux approches traduisent le même code ; elles diffèrent par le moment de la traduction.
+colonnes:
+  - titre: Compilé
+    icone: gear
+    points:
+      - Traduit tout avant l'exécution
+      - Programme rapide
+      - Exécutable propre à chaque système
+      - Ex. C, C++, Rust, Go
+  - titre: Interprété
+    icone: book
+    points:
+      - Traduit pendant l'exécution
+      - Essais immédiats
+      - Même code sur tous les systèmes
+      - Ex. Python, Ruby, shell
+```
+
+## Les solutions intermédiaires
+
+- **Le bytecode et la machine virtuelle** : Java et C# sont compilés vers un code intermédiaire, le
+  **bytecode**, indépendant du processeur. Une **machine virtuelle** l'exécute ensuite sur chaque
+  système. On obtient la portabilité de l'interprétation avec une partie de la vitesse de la compilation.
+- **La compilation à la volée**, ou *JIT* : la machine virtuelle observe le programme pendant qu'il
+  tourne et compile en code machine les parties les plus utilisées. Les moteurs **JavaScript** des
+  navigateurs fonctionnent ainsi, ce qui les rend bien plus rapides qu'un simple interpréteur.
+- Python lui-même compile d'abord le code en bytecode avant de l'interpréter.
+
+C'est pourquoi on parle plutôt d'**implémentations** compilées ou interprétées que de langages : un même
+langage peut avoir les deux.
+
+## Comment choisir
+
+On privilégie la compilation quand la **performance** compte : systèmes d'exploitation, jeux vidéo,
+logiciels embarqués, calcul scientifique intensif. On apprécie l'interprétation pour **prototyper**,
+automatiser des tâches, analyser des données ou apprendre à programmer. Beaucoup de projets combinent
+les deux : une interface en Python qui appelle des bibliothèques rapides écrites en C.
+
+## À retenir
+
+- Le processeur ne comprend que le langage machine : tout programme doit être traduit.
+- Le compilateur traduit tout à l'avance et produit un exécutable rapide, propre à un système.
+- L'interpréteur traduit au fil de l'exécution, ce qui permet de tester immédiatement.
+- Le bytecode, les machines virtuelles et la compilation à la volée combinent les deux approches.
+- On choisit selon le besoin : la vitesse d'exécution ou la rapidité de développement.
 
 ---
 type: article
@@ -11232,18 +11353,139 @@ status: planned
 
 ---
 type: article
-title: Le role du noyau dans l'architecture d'un systeme d'exploitation
+title: Le rôle du noyau dans l'architecture d'un système d'exploitation
 slug: le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation
 categoryPath: micro-informatique-et-informatique/logiciel/systemes-d-exploitation
 summary: >
-  Le coeur du systeme qui gere directement les interactions les plus fondamentales avec le materiel.
-tags: [systemes-d-exploitation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Au cœur de Windows, macOS, Linux ou Android se trouve le noyau, le programme qui gère le
+  processeur, la mémoire et les périphériques. Il partage les ressources entre les applications et
+  les protège les unes des autres. Sa conception influence la stabilité et la sécurité de tout le système.
+tags: [systemes-d-exploitation]
+relatedArticles: [histoire-principes-systemes-exploitation, comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton, algorithmes-et-complexite, remettre-marche-vieil-ordinateur]
+sources:
+  - title: "Noyau de système d'exploitation"
+    url: "https://fr.wikipedia.org/wiki/Noyau_de_syst%C3%A8me_d%27exploitation"
+    publisher: "Wikipédia"
+  - title: "Kernel (operating system)"
+    url: "https://en.wikipedia.org/wiki/Kernel_(operating_system)"
+    publisher: "Wikipedia"
+  - title: "System call"
+    url: "https://en.wikipedia.org/wiki/System_call"
+    publisher: "Wikipedia"
+  - title: "Microkernel"
+    url: "https://en.wikipedia.org/wiki/Microkernel"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel est le rôle principal du noyau ?"
+    options:
+      - "Afficher le fond d'écran"
+      - "Gérer le processeur, la mémoire et les périphériques, et les partager entre les programmes"
+      - "Naviguer sur Internet"
+    answer: 2
+    explanation: >
+      Le noyau est l'intermédiaire entre le matériel et les applications, et l'arbitre qui partage les
+      ressources.
+  - question: "Comment une application demande-t-elle au noyau d'écrire un fichier ?"
+    options:
+      - "Par un appel système"
+      - "En accédant directement au disque"
+      - "En redémarrant l'ordinateur"
+    answer: 1
+    explanation: >
+      Les applications n'ont pas accès direct au matériel : elles passent par des appels système que le
+      noyau vérifie et exécute.
+  - question: "Pourquoi un programme qui plante ne fait-il pas planter tout l'ordinateur, en général ?"
+    options:
+      - "Parce que le noyau isole chaque programme dans son propre espace de mémoire"
+      - "Parce que les programmes ne plantent jamais"
+      - "Parce que l'écran se met en veille"
+    answer: 1
+    explanation: >
+      Chaque processus a sa mémoire protégée : une erreur dans l'un ne peut pas écraser les autres ni le
+      noyau.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un **système d'exploitation** comme Windows, macOS, Linux, Android ou iOS comprend beaucoup de choses :
+interface graphique, outils, pilotes. Mais au centre se trouve le **noyau**, en anglais *kernel*. C'est
+le premier programme chargé au démarrage et le seul qui commande directement le **matériel**. Il
+partage le **processeur**, la **mémoire** et les **périphériques** entre les applications, et les
+**protège** les unes des autres. Les applications ne touchent jamais le matériel elles-mêmes : elles
+demandent au noyau, par des **appels système**.
+
+## Les quatre grandes missions
+
+```schema
+type: systeme
+titre: Les missions du noyau
+legende: Le noyau est l'intermédiaire obligé entre les applications et le matériel.
+centre: Noyau
+icone: chip
+parties:
+  - nom: Processus
+    role: Partager le temps de processeur
+    icone: hourglass
+  - nom: Mémoire
+    role: Attribuer et protéger la mémoire vive
+    icone: cube
+  - nom: Fichiers
+    role: Organiser les données sur les disques
+    icone: book
+  - nom: Périphériques
+    role: Piloter clavier, écran, réseau via les pilotes
+    icone: monitor
+  - nom: Sécurité
+    role: Vérifier les droits de chaque demande
+    icone: lock
+```
+
+- **Les processus** : un processeur ne peut exécuter que quelques programmes à la fois, un par cœur. Le
+  noyau fait alterner des dizaines de programmes en leur donnant chacun de minuscules **tranches de
+  temps**, quelques millisecondes : c'est l'**ordonnanceur**. L'utilisateur a l'impression que tout
+  tourne en même temps.
+- **La mémoire** : le noyau attribue à chaque programme son propre espace de mémoire, une **mémoire
+  virtuelle**, et l'empêche de lire ou d'écrire dans celle des autres.
+- **Les fichiers** : il organise les données sur le disque en fichiers et dossiers et contrôle qui a le
+  droit de les lire ou de les modifier.
+- **Les périphériques** : grâce aux **pilotes**, il dialogue avec le clavier, l'écran, la carte réseau ou
+  l'imprimante, et présente aux applications une interface uniforme.
+
+## Deux niveaux de privilège
+
+Le processeur distingue deux modes. Le **mode noyau** permet tout : accès au matériel et à toute la
+mémoire. Le **mode utilisateur**, celui des applications, est restreint. Quand une application veut lire
+un fichier, envoyer des données sur le réseau ou afficher une fenêtre, elle fait un **appel système** : le
+processeur bascule en mode noyau, le noyau vérifie que la demande est autorisée, l'exécute, puis rend la
+main. Cette séparation explique qu'un programme défaillant plante seul, sans emporter tout l'ordinateur.
+Une erreur dans le noyau lui-même, en revanche, arrête tout : c'est l'« écran bleu » de Windows ou la
+« panique du noyau » sous Linux et macOS.
+
+## Monolithique ou micronoyau
+
+- **Le noyau monolithique** regroupe presque tout, pilotes et systèmes de fichiers compris, dans un seul
+  grand programme en mode noyau. Il est rapide, mais un pilote défaillant peut faire tomber le système.
+  **Linux** en est l'exemple le plus connu.
+- **Le micronoyau** ne garde en mode noyau que l'essentiel, et fait tourner pilotes et services comme des
+  programmes ordinaires. Plus robuste et plus sûr, il est souvent un peu plus lent. On le trouve dans des
+  systèmes embarqués critiques, comme QNX.
+- **Les noyaux hybrides**, comme ceux de Windows et de macOS, mélangent les deux approches.
+
+## Linux, un noyau partout
+
+Créé en 1991 par l'étudiant finlandais **Linus Torvalds**, le noyau Linux est un logiciel libre développé
+par des milliers de contributeurs. Il fait tourner la grande majorité des serveurs d'Internet, les
+supercalculateurs, de nombreux objets connectés et, sous une forme adaptée, les téléphones **Android**.
+
+## À retenir
+
+- Le noyau est le cœur du système d'exploitation, seul à commander directement le matériel.
+- Il partage le processeur, attribue la mémoire, gère les fichiers et pilote les périphériques.
+- Les applications passent par des appels système, en mode utilisateur restreint.
+- Cette séparation isole les programmes : une application qui plante n'emporte pas le système.
+- Noyaux monolithiques, micronoyaux et hybrides font des compromis différents entre vitesse et robustesse.
 
 ---
 type: article

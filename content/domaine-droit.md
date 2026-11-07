@@ -4239,18 +4239,146 @@ status: planned
 
 ---
 type: article
-title: La possession et la propriete, deux notions distinctes
+title: La possession et la propriété, deux notions distinctes
 slug: la-possession-et-la-propriete-deux-notions-distinctes
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Pourquoi detenir un bien ne signifie pas toujours en etre juridiquement proprietaire.
-tags: [droit-civil, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Avoir une chose entre les mains ne signifie pas en être propriétaire. Le droit distingue la
+  possession, un pouvoir de fait, de la propriété, un droit. Cette distinction protège celui qui
+  possède paisiblement et permet, avec le temps, de devenir propriétaire.
+tags: [droit-civil]
+relatedArticles: [propriete-cadastre, code-civil-des-francais-1804, contrat-conditions-de-validite, bail-habitation]
+sources:
+  - title: "Possession (droit)"
+    url: "https://fr.wikipedia.org/wiki/Possession_(droit)"
+    publisher: "Wikipédia"
+  - title: "Droit de propriété en France"
+    url: "https://fr.wikipedia.org/wiki/Droit_de_propri%C3%A9t%C3%A9_en_France"
+    publisher: "Wikipédia"
+  - title: "Prescription acquisitive"
+    url: "https://fr.wikipedia.org/wiki/Prescription_acquisitive"
+    publisher: "Wikipédia"
+  - title: "Code civil, article 2276"
+    url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438859"
+    publisher: "Légifrance"
+quiz:
+  - question: "Quelle est la différence entre possession et propriété ?"
+    options:
+      - "Aucune, ce sont deux mots pour la même chose"
+      - "La possession est un pouvoir de fait sur une chose, la propriété un droit sur elle"
+      - "La propriété concerne les meubles, la possession les immeubles"
+    answer: 2
+    explanation: >
+      On peut posséder sans être propriétaire, comme un voleur, ou être propriétaire sans posséder,
+      comme celui qui a prêté sa voiture.
+  - question: "Que signifie la règle « en fait de meubles, possession vaut titre » ?"
+    options:
+      - "Que celui qui possède de bonne foi un objet mobilier en est présumé propriétaire"
+      - "Que les meubles appartiennent toujours au propriétaire de la maison"
+      - "Qu'on ne peut jamais revendiquer un objet volé"
+    answer: 1
+    explanation: >
+      Pour un bien meuble, la possession de bonne foi vaut titre de propriété, ce qui sécurise les
+      échanges du quotidien.
+  - question: "Au bout de combien de temps peut-on, en règle générale, devenir propriétaire d'un immeuble par une possession continue ?"
+    options:
+      - "Un an"
+      - "Trente ans"
+      - "Cent ans"
+    answer: 2
+    explanation: >
+      La prescription acquisitive est de trente ans en principe, réduite à dix ans pour celui qui a
+      acquis de bonne foi avec un titre.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans le langage courant, « avoir » une chose et en être « propriétaire » se confondent. Le droit les
+distingue soigneusement. La **propriété** est un **droit** : celui d'user d'une chose, d'en tirer des
+revenus et d'en disposer, par exemple en la vendant. La **possession** est un **fait** : le pouvoir
+concret qu'on exerce sur une chose en se comportant comme son propriétaire. Le plus souvent, les deux
+coïncident. Mais ils peuvent se séparer, et la loi protège alors le possesseur, au point de lui
+permettre, avec le temps, de devenir propriétaire.
+
+## La propriété, un droit complet
+
+Le Code civil définit la propriété comme le droit de jouir et disposer des choses de la manière la plus
+absolue, dans les limites fixées par la loi. On en décrit traditionnellement trois attributs :
+
+- l'**usus**, le droit d'utiliser la chose ;
+- le **fructus**, le droit d'en percevoir les fruits, comme un loyer ou une récolte ;
+- l'**abusus**, le droit d'en disposer : la vendre, la donner, la transformer.
+
+Le propriétaire peut céder une partie de ces droits : en louant son appartement, il confie l'usage au
+locataire mais reste propriétaire.
+
+## La possession, un pouvoir de fait
+
+La possession suppose deux éléments :
+
+- le **corpus** : on détient matériellement la chose, on l'utilise, on l'entretient ;
+- l'**animus** : on se comporte en propriétaire, avec l'intention de l'être.
+
+Le locataire, l'emprunteur ou le dépositaire détiennent la chose mais savent qu'elle appartient à un
+autre : ils ne sont pas possesseurs, mais **détenteurs**. Un voleur, à l'inverse, est possesseur,
+mais il est de **mauvaise foi**.
+
+```schema
+type: comparaison
+titre: Propriété, possession et détention
+legende: Les trois situations coïncident souvent, mais le droit les distingue.
+colonnes:
+  - titre: Propriétaire
+    icone: house
+    points:
+      - A le droit sur la chose
+      - Peut user, louer, vendre
+      - Ex. celui qui a acheté sa maison
+  - titre: Possesseur
+    icone: shield
+    points:
+      - Agit comme propriétaire
+      - Protégé s'il est paisible
+      - Ex. l'occupant d'un terrain depuis des années
+  - titre: Détenteur
+    icone: lock
+    points:
+      - Tient la chose pour autrui
+      - Ne peut pas en devenir propriétaire
+      - Ex. le locataire, l'emprunteur
+```
+
+## Pourquoi le droit protège le possesseur
+
+La possession fait **présumer la propriété** : celui qui se comporte en propriétaire l'est le plus
+souvent. Exiger de chacun qu'il prouve ses droits à tout moment paralyserait la vie quotidienne. Pour
+les **meubles**, l'article 2276 du Code civil pose une règle célèbre : « **en fait de meubles,
+possession vaut titre** ». Celui qui a acquis de bonne foi un objet est protégé, même si le vendeur n'en
+était pas propriétaire. Une exception : le propriétaire d'un objet **perdu ou volé** peut le revendiquer
+pendant trois ans.
+
+## Devenir propriétaire par le temps
+
+Pour les **immeubles**, une possession prolongée peut faire acquérir la propriété : c'est la
+**prescription acquisitive**, ou usucapion. Elle exige une possession **continue**, **paisible**,
+**publique** et **non équivoque**, à titre de propriétaire.
+
+- En principe, il faut **trente ans**.
+- Ce délai tombe à **dix ans** pour celui qui a acquis de bonne foi avec un titre, par exemple un acte de
+  vente signé par quelqu'un qui n'était pas propriétaire.
+
+Ce mécanisme stabilise les situations anciennes : après des décennies, il devient impossible de remettre
+en cause une occupation que tout le monde connaissait.
+
+## À retenir
+
+- La propriété est un droit : user, percevoir les fruits et disposer de la chose.
+- La possession est un pouvoir de fait, exercé en se comportant comme propriétaire.
+- Le locataire ou l'emprunteur ne sont pas possesseurs mais détenteurs.
+- Pour les meubles, la possession de bonne foi vaut titre de propriété.
+- Une possession paisible et publique d'un immeuble pendant trente ans, ou dix ans avec un titre, fait acquérir la propriété.
 
 ---
 type: article
@@ -9235,18 +9363,141 @@ status: planned
 
 ---
 type: article
-title: La garantie legale de conformite
+title: La garantie légale de conformité
 slug: la-garantie-legale-de-conformite
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
 summary: >
-  Un droit protecteur souvent moins connu que la garantie commerciale du vendeur.
-tags: [droit-de-la-consommation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un produit acheté neuf qui tombe en panne ou ne correspond pas à ce qui était promis doit être
+  réparé ou remplacé par le vendeur, gratuitement, pendant au moins deux ans en France et dans
+  l'Union européenne. Cette garantie est gratuite, automatique et ne peut pas être écartée.
+tags: [droit-de-la-consommation]
+relatedArticles: [droit-de-retractation-et-garanties, peut-on-changer-d-avis-apres-un-achat-en-ligne, pourquoi-une-publicite-n-a-t-elle-pas-le-droit-de-tromper, reparer-plutot-jeter]
+sources:
+  - title: "Garantie légale de conformité pour un bien (contrat depuis le 1er janvier 2022)"
+    url: "https://www.service-public.fr/particuliers/vosdroits/F11094"
+    publisher: "Service-Public.fr"
+  - title: "Garantie légale de conformité"
+    url: "https://fr.wikipedia.org/wiki/Garantie_l%C3%A9gale_de_conformit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Directive (UE) 2019/771 relative à certains aspects concernant les contrats de vente de biens"
+    url: "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+    publisher: "EUR-Lex"
+  - title: "Code de la consommation, articles L217-1 et suivants"
+    url: "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000044142422/"
+    publisher: "Légifrance"
+quiz:
+  - question: "Combien de temps dure la garantie légale de conformité pour un bien neuf en France ?"
+    options:
+      - "Six mois"
+      - "Deux ans"
+      - "Dix ans"
+    answer: 2
+    explanation: >
+      Elle dure deux ans à compter de la livraison pour un bien neuf, et au moins un an pour un bien
+      d'occasion vendu par un professionnel.
+  - question: "Pendant les deux premières années, qui doit prouver que le défaut existait dès la livraison ?"
+    options:
+      - "L'acheteur"
+      - "Personne : le défaut est présumé exister dès la livraison"
+      - "Le fabricant uniquement"
+    answer: 2
+    explanation: >
+      Pour un bien neuf, le défaut apparu dans les deux ans est présumé exister dès la livraison. C'est
+      au vendeur de prouver le contraire.
+  - question: "Auprès de qui faire jouer la garantie légale de conformité ?"
+    options:
+      - "Le vendeur"
+      - "Le transporteur"
+      - "L'association de consommateurs"
+    answer: 1
+    explanation: >
+      C'est le vendeur professionnel qui est responsable, même s'il renvoie souvent vers le fabricant.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on achète un bien à un **vendeur professionnel**, celui-ci doit livrer un produit **conforme** :
+qui fonctionne, qui correspond à sa description et à ce qu'on peut raisonnablement en attendre. S'il
+présente un défaut, l'acheteur peut exiger qu'il soit **réparé** ou **remplacé**, sans frais. C'est la
+**garantie légale de conformité**. En France, elle dure **deux ans** pour un bien neuf, découle d'une
+directive européenne et s'applique dans toute l'Union européenne. Elle est **gratuite**, **automatique**
+et aucune clause ne peut la supprimer.
+
+## Ce que couvre la garantie
+
+Un bien est non conforme quand :
+
+- il ne fonctionne pas ou tombe en panne sans mauvaise utilisation ;
+- il ne correspond pas à la description, à l'échantillon ou à la publicité ;
+- il lui manque un accessoire, une notice ou une mise à jour promise ;
+- il a été mal installé, si l'installation était prévue au contrat.
+
+Elle s'applique aux biens neufs et d'occasion vendus par un professionnel, en magasin comme en ligne,
+y compris aux biens qui contiennent des logiciels, comme un téléphone ou un téléviseur. Les **mises à
+jour** nécessaires au bon fonctionnement font partie de la garantie. Elle ne s'applique pas entre
+particuliers.
+
+## La durée et la preuve
+
+- **Bien neuf** : deux ans à compter de la livraison.
+- **Bien d'occasion** : au moins un an, deux ans en principe, sauf accord pour réduire à un an.
+
+Avantage majeur : pendant ce délai, pour un bien neuf, le défaut est **présumé exister** dès la
+livraison. L'acheteur n'a pas à prouver l'origine de la panne ; c'est au vendeur de démontrer une
+mauvaise utilisation s'il refuse.
+
+## Comment la faire jouer
+
+```schema
+type: etapes
+titre: Faire jouer la garantie légale de conformité
+legende: Le vendeur est le seul interlocuteur responsable, même s'il propose de passer par le fabricant.
+elements:
+  - titre: Contacter le vendeur
+    texte: Décrire le défaut et demander réparation ou remplacement.
+    icone: newspaper
+  - titre: Choisir la solution
+    texte: Réparation ou remplacement, au choix de l'acheteur en principe.
+    icone: gear
+  - titre: Délai de 30 jours
+    texte: La solution doit intervenir sans frais dans les 30 jours.
+    icone: hourglass
+  - titre: À défaut, remboursement
+    texte: Réduction du prix ou annulation de la vente.
+    icone: coin
+```
+
+1. S'adresser au **vendeur**, avec la facture ou le ticket de caisse, de préférence par écrit.
+2. Choisir entre **réparation** et **remplacement**. Le vendeur peut refuser si la solution choisie est
+   impossible ou disproportionnée, et proposer l'autre.
+3. La réparation ou le remplacement doit être fait **sans frais**, dans un délai de **30 jours**.
+4. Si rien n'est fait dans ce délai, si la solution échoue ou si le défaut est grave, l'acheteur peut
+   obtenir une **réduction du prix** ou l'**annulation** de la vente avec remboursement.
+
+Un bien réparé dans le cadre de la garantie bénéficie de **six mois** de garantie supplémentaires.
+
+## À ne pas confondre
+
+- **La garantie commerciale** : facultative, souvent payante, offerte par le vendeur ou le fabricant.
+  Elle s'ajoute à la garantie légale sans la remplacer.
+- **La garantie des vices cachés** : prévue par le Code civil, elle couvre un défaut caché grave et
+  s'applique aussi entre particuliers, pendant deux ans après sa découverte.
+- **Le droit de rétractation** : quatorze jours pour changer d'avis après un achat à distance, même sans
+  défaut.
+
+Un vendeur qui affirme qu'« il n'y a pas de garantie » ou que seule une extension payante protège
+l'acheteur a tort. En cas de litige, on peut saisir le **médiateur de la consommation** dont dépend le
+vendeur, puis la justice.
+
+## À retenir
+
+- Le vendeur professionnel doit livrer un bien qui fonctionne et correspond à sa description.
+- La garantie dure deux ans pour un bien neuf et au moins un an pour un bien d'occasion.
+- Pendant ce délai, le défaut est présumé exister dès la livraison, sans preuve à fournir.
+- On choisit réparation ou remplacement, sans frais, sous 30 jours, sinon remboursement ou réduction du prix.
+- Elle est gratuite et automatique, et ne se confond pas avec la garantie commerciale payante.
 
 ---
 type: article

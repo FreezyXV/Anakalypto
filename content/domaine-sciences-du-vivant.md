@@ -7785,18 +7785,132 @@ status: planned
 
 ---
 type: article
-title: Le double aveugle, eliminer les biais d'attente
+title: Le double aveugle, éliminer les biais d'attente
 slug: le-double-aveugle-eliminer-les-biais-d-attente
 categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
 summary: >
-  Une methode qui empeche a la fois le patient et le medecin d'influencer, meme inconsciemment, le resultat.
-tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans un essai en double aveugle, ni les patients ni les médecins qui les suivent ne savent qui
+  reçoit le vrai traitement et qui reçoit un placebo. Cette précaution empêche les attentes de
+  fausser les résultats et reste la norme pour prouver qu'un traitement fonctionne.
+tags: [medecine-fondee-sur-les-preuves]
+relatedArticles: [principes-pharmacologie-essais-cliniques, niveaux-de-preuve-en-medecine, pourquoi-un-faux-medicament-peut-il-parfois-soulager, james-lind-scorbut]
+sources:
+  - title: "Étude en double aveugle"
+    url: "https://fr.wikipedia.org/wiki/%C3%89tude_en_double_aveugle"
+    publisher: "Wikipédia"
+  - title: "Blinded experiment"
+    url: "https://en.wikipedia.org/wiki/Blinded_experiment"
+    publisher: "Wikipedia"
+  - title: "Randomized controlled trial"
+    url: "https://en.wikipedia.org/wiki/Randomized_controlled_trial"
+    publisher: "Wikipedia"
+  - title: "Observer-expectancy effect"
+    url: "https://en.wikipedia.org/wiki/Observer-expectancy_effect"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans un essai en double aveugle, qui ignore quel traitement reçoit chaque patient ?"
+    options:
+      - "Seulement les patients"
+      - "Les patients et les soignants ou évaluateurs qui les suivent"
+      - "Personne"
+    answer: 2
+    explanation: >
+      Les deux parties ignorent l'attribution, qui n'est révélée qu'à la fin de l'essai.
+  - question: "Pourquoi les médecins doivent-ils, eux aussi, être tenus dans l'ignorance ?"
+    options:
+      - "Pour qu'ils travaillent moins"
+      - "Parce que leurs attentes peuvent influencer, sans le vouloir, leur façon d'examiner et de juger les patients"
+      - "Parce que c'est plus rapide"
+    answer: 2
+    explanation: >
+      Un médecin convaincu qu'un traitement marche peut percevoir plus d'améliorations chez les patients
+      traités.
+  - question: "À quoi sert le tirage au sort des patients dans un essai ?"
+    options:
+      - "À rendre les deux groupes comparables"
+      - "À choisir les patients les plus malades pour le traitement"
+      - "À réduire le coût"
+    answer: 1
+    explanation: >
+      Le hasard répartit de façon équilibrée l'âge, la gravité et les autres facteurs entre les groupes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour savoir si un traitement marche vraiment, on compare un groupe qui le reçoit à un groupe qui reçoit
+un **placebo**, un produit identique en apparence mais sans principe actif. Dans un essai en **double
+aveugle**, ni les **patients** ni les **soignants** qui les suivent et évaluent leur état ne savent qui
+reçoit quoi. Cette double ignorance empêche les **attentes** des uns et des autres de fausser le
+résultat. Associée au **tirage au sort**, elle forme l'essai contrôlé randomisé, référence pour prouver
+l'efficacité d'un médicament.
+
+## Le problème des attentes
+
+- **Chez le patient** : se savoir traité peut suffire à se sentir mieux. C'est l'**effet placebo**, réel
+  surtout sur la douleur, la fatigue ou l'anxiété. À l'inverse, se savoir dans le groupe placebo peut
+  décevoir et faire abandonner.
+- **Chez le soignant** : un médecin convaincu de l'efficacité d'un traitement peut, sans le vouloir,
+  examiner différemment, encourager davantage ou juger plus favorablement les patients traités. C'est le
+  **biais de l'observateur**.
+
+Le simple aveugle, où seul le patient ignore son groupe, ne suffit donc pas.
+
+## Comment se déroule un essai en double aveugle
+
+```schema
+type: etapes
+titre: Les étapes d'un essai contrôlé randomisé en double aveugle
+legende: Le code qui relie chaque patient à son traitement reste secret jusqu'à l'analyse.
+elements:
+  - titre: Tirage au sort
+    texte: Les patients sont répartis au hasard en deux groupes.
+    icone: cube
+  - titre: Traitements identiques
+    texte: Médicament et placebo ont le même aspect.
+    icone: flask
+  - titre: Double ignorance
+    texte: Patients et soignants ignorent qui reçoit quoi.
+    icone: eye
+  - titre: Suivi et mesures
+    texte: Les résultats sont recueillis selon un protocole fixé à l'avance.
+    icone: chart
+  - titre: Levée de l'aveugle
+    texte: Le code est révélé et les groupes sont comparés.
+    icone: lock
+```
+
+1. Les participants sont **tirés au sort** entre les groupes, pour que les groupes soient comparables.
+2. Le médicament et le placebo sont **identiques** : même forme, même couleur, même goût.
+3. Chaque boîte porte un **code** ; la correspondance est gardée par une personne extérieure à l'équipe
+   de soins.
+4. Les résultats sont recueillis selon un **protocole** fixé à l'avance.
+5. À la fin seulement, on **lève l'aveugle** et l'on compare les groupes.
+
+En cas d'urgence médicale, le code d'un patient peut être révélé pour le soigner.
+
+## Quand on ne peut pas faire de double aveugle
+
+Certains traitements ne se cachent pas : une chirurgie, une rééducation, un régime. On cherche alors à
+rendre aveugle au moins l'**évaluateur**, la personne qui mesure les résultats sans savoir à quel groupe
+appartient le patient. On parle parfois de **triple aveugle** quand les statisticiens qui analysent les
+données ignorent aussi la signification des groupes.
+
+## Un peu d'histoire
+
+Des essais à l'aveugle sont menés dès 1784, quand une commission royale française, à laquelle
+participent Benjamin Franklin et Lavoisier, teste le « magnétisme animal » de Mesmer : les sujets qui
+ignorent s'ils sont « magnétisés » ne ressentent rien de particulier. Le double aveugle se généralise au
+XXe siècle avec les essais cliniques modernes, notamment après la guerre.
+
+## À retenir
+
+- Dans un essai en double aveugle, patients et soignants ignorent qui reçoit le traitement ou le placebo.
+- Il protège contre l'effet placebo et contre les attentes inconscientes des soignants.
+- Associé au tirage au sort, il forme l'essai contrôlé randomisé, référence en médecine.
+- Quand le double aveugle est impossible, on rend au moins l'évaluateur aveugle.
+- L'aveugle n'est levé qu'à la fin, sauf urgence médicale.
 
 ---
 type: article

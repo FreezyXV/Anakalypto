@@ -8920,18 +8920,136 @@ status: planned
 
 ---
 type: article
-title: Le principe de surcharge progressive dans la planification d'un entrainement sportif
+title: Le principe de surcharge progressive dans la planification d'un entraînement sportif
 slug: le-principe-de-surcharge-progressive-dans-la-planification-d-un-entrainement-sportif
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement
 summary: >
-  Une augmentation graduelle de l'effort qui permet au corps de s'adapter sans se blesser.
-tags: [entrainement, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le corps ne progresse que s'il est confronté à un effort un peu plus exigeant que d'habitude.
+  Augmenter peu à peu la charge, le volume ou l'intensité, en laissant le temps de récupérer, est
+  la règle d'or de tout entraînement, de la musculation à la course à pied.
+tags: [entrainement]
+relatedArticles: [principes-periodisation-entrainement-sportif, comment-les-muscles-deviennent-ils-plus-forts-avec-l-entrainement, blessures-et-charge-dentrainement, filieres-energetiques-du-muscle]
+sources:
+  - title: "Entraînement sportif"
+    url: "https://fr.wikipedia.org/wiki/Entra%C3%AEnement_sportif"
+    publisher: "Wikipédia"
+  - title: "Progressive overload"
+    url: "https://en.wikipedia.org/wiki/Progressive_overload"
+    publisher: "Wikipedia"
+  - title: "Supercompensation"
+    url: "https://en.wikipedia.org/wiki/Supercompensation"
+    publisher: "Wikipedia"
+  - title: "Overtraining"
+    url: "https://en.wikipedia.org/wiki/Overtraining"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi faut-il augmenter progressivement la difficulté de l'entraînement ?"
+    options:
+      - "Parce que le corps s'adapte à un effort donné et cesse de progresser s'il ne change pas"
+      - "Pour se fatiguer le plus possible"
+      - "Parce que les muscles oublient vite"
+    answer: 1
+    explanation: >
+      Une fois adapté, le corps n'a plus de raison de se renforcer. Il faut un stimulus un peu plus
+      exigeant pour continuer.
+  - question: "Quand le corps devient-il réellement plus fort ?"
+    options:
+      - "Pendant l'effort lui-même"
+      - "Pendant la récupération qui suit l'effort"
+      - "Seulement le jour de la compétition"
+    answer: 2
+    explanation: >
+      L'effort fatigue et crée de petits dommages ; c'est pendant le repos que le corps répare et se
+      renforce au-delà de son niveau initial.
+  - question: "Quel repère est souvent cité pour augmenter le volume de course sans se blesser ?"
+    options:
+      - "Doubler chaque semaine"
+      - "Augmenter d'environ 10 % par semaine au maximum"
+      - "Ne jamais augmenter"
+    answer: 2
+    explanation: >
+      Ce repère empirique n'a rien d'une loi, mais il rappelle qu'une hausse brutale de la charge est
+      une cause fréquente de blessure.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le corps humain s'**adapte** aux efforts qu'on lui impose : les muscles se renforcent, le cœur devient
+plus efficace, les os et les tendons se densifient. Mais une fois adapté à un effort, il n'a plus de
+raison de progresser. Pour continuer à s'améliorer, il faut lui proposer un effort **un peu plus
+exigeant** que celui auquel il est habitué : c'est le **principe de surcharge progressive**. La clé est
+dans les deux mots : une **surcharge**, sinon rien ne change, mais **progressive**, sinon on se blesse ou
+on s'épuise. Et c'est pendant la **récupération** que le corps se renforce.
+
+## Le mécanisme, effort puis récupération
+
+Une séance d'entraînement **fatigue** l'organisme : réserves d'énergie entamées, microlésions dans les
+fibres musculaires, tendons sollicités. Pendant le repos qui suit, le corps **répare** et, par
+précaution, **reconstruit un peu au-delà** de son niveau de départ. On appelle souvent ce phénomène la
+**surcompensation**. Si la séance suivante arrive au bon moment, on repart d'un niveau plus élevé. Trop
+tôt, on accumule la fatigue ; trop tard, le gain s'efface.
+
+```schema
+type: cycle
+titre: Le cycle de la progression
+legende: Chaque cycle élève un peu le niveau, à condition que la charge augmente progressivement et que la récupération soit suffisante.
+elements:
+  - titre: Effort
+    texte: Une séance un peu plus exigeante que d'habitude.
+    icone: dumbbell
+  - titre: Fatigue
+    texte: Réserves entamées, petites lésions.
+    icone: hourglass
+  - titre: Récupération
+    texte: Sommeil, alimentation, repos.
+    icone: star
+  - titre: Adaptation
+    texte: Le corps se reconstruit un peu plus fort.
+    icone: medal
+```
+
+## Les leviers pour augmenter la charge
+
+On peut rendre l'entraînement plus exigeant de plusieurs façons, de préférence **une à la fois** :
+
+- **L'intensité** : soulever plus lourd, courir plus vite.
+- **Le volume** : plus de répétitions, de séries, de kilomètres ou de minutes.
+- **La fréquence** : une séance de plus par semaine.
+- **La densité** : réduire les temps de repos entre les séries.
+- **La difficulté technique** : un exercice plus complexe, un terrain plus accidenté.
+
+En musculation, on ajoute par exemple un ou deux kilos quand on réussit toutes ses répétitions avec une
+bonne technique. En course à pied, on allonge progressivement la sortie longue de la semaine.
+
+## Progressif, vraiment
+
+Une hausse **trop brutale** de la charge est l'une des causes les plus fréquentes de **blessure** :
+tendinites, fractures de fatigue, déchirures. Les tendons et les os s'adaptent plus lentement que les
+muscles et le souffle, si bien qu'on se sent capable d'en faire plus avant que le corps soit prêt. Un
+repère souvent cité en course à pied est de ne pas augmenter le volume de plus d'environ **10 % par
+semaine**. Ce n'est pas une loi scientifique, mais une règle de prudence.
+
+Il faut aussi prévoir des **semaines plus légères** régulièrement, par exemple une toutes les trois ou
+quatre semaines, pour laisser l'organisme assimiler le travail. C'est le principe de la
+**périodisation**.
+
+## Les signes d'excès
+
+Une fatigue qui ne passe pas, des performances qui baissent, un sommeil perturbé, une fréquence
+cardiaque au repos plus élevée que d'habitude, une irritabilité, des douleurs persistantes ou des
+infections à répétition signalent que la charge dépasse la capacité de récupération. Il faut alors
+**réduire** l'entraînement. Poussé trop loin, cet état devient le **surentraînement**, qui peut demander
+des semaines ou des mois de repos.
+
+## À retenir
+
+- Le corps progresse quand il affronte un effort un peu plus exigeant que d'habitude.
+- Il se renforce pendant la récupération, pas pendant l'effort lui-même.
+- On augmente une variable à la fois : intensité, volume, fréquence, densité ou difficulté.
+- Une hausse brutale de la charge est une cause majeure de blessure ; tendons et os s'adaptent lentement.
+- Fatigue persistante et baisse des performances signalent qu'il faut lever le pied.
 
 ---
 type: article
