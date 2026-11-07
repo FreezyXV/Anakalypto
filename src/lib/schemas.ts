@@ -28,7 +28,9 @@ import { frenchSpacing } from "./typography";
 
 const GLYPH_NAMES = Object.keys(GLYPHS) as [string, ...string[]];
 
-const short = (max: number) => z.string().trim().min(1).max(max);
+/** Texte court; un nombre ecrit sans guillemets en YAML (une annee, par exemple) est accepte. */
+const short = (max: number) =>
+  z.union([z.string(), z.number()]).transform(String).pipe(z.string().trim().min(1).max(max));
 const icon = z.enum(GLYPH_NAMES).optional();
 
 const step = z.object({
@@ -67,7 +69,7 @@ const frise = z.object({
   evenements: z
     .array(
       z.object({
-        date: z.union([z.string(), z.number()]).transform(String).pipe(short(40)),
+        date: short(40),
         titre: short(90),
         texte: short(220).optional(),
       }),
@@ -103,7 +105,7 @@ const barres = z.object({
   valeurs: z
     .array(
       z.object({
-        label: z.union([z.string(), z.number()]).transform(String).pipe(short(60)),
+        label: short(60),
         valeur: z.number().nonnegative(),
         note: short(80).optional(),
       }),
@@ -118,7 +120,7 @@ const chiffres = z.object({
   chiffres: z
     .array(
       z.object({
-        valeur: z.union([z.string(), z.number()]).transform(String).pipe(short(24)),
+        valeur: short(24),
         texte: short(140),
       }),
     )
