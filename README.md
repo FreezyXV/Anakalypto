@@ -23,6 +23,11 @@ sur `/decouvrir` ; il n'est pas encore déployé en production. Le contrat de do
 dans `docs/collaboration/DISCOVERY_CONTRACT.md`, l'audit éditorial associé dans
 `docs/EDITORIAL_REVIEW.md`.
 
+Les articles peuvent contenir des **schémas pédagogiques** écrits en YAML dans un bloc
+`schema` : étapes, cycle, pyramide, frise, système, comparaison, barres, chiffres clés et
+échelle. Ils sont rendus en HTML accessible, sans image à produire, et validés à l'import. Le
+format est décrit dans `docs/SCHEMAS.md`.
+
 Le moteur visuel propose aussi des chaînes bouclées, des points d’arrêt explicites et un piston
 animé par curseur pour les quatre temps. L’intégration de la livraison Claude et les limites du
 rendu sont documentées dans `docs/collaboration/INTEGRATION_CLAUDE.md`.

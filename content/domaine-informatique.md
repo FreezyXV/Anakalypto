@@ -1925,7 +1925,22 @@ Une puce est construite couche par couche. Pour chaque couche, on répète à pe
 7. **Nettoyage et polissage** : on retire la résine et on aplanit la surface avant la couche
    suivante.
 
-[Emplacement image : cycle de fabrication d'une couche, du dépôt à la gravure, sur une coupe de plaque de silicium, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le cycle répété pour chaque couche
+legende: Une puce avancée enchaîne ce cycle des dizaines de fois.
+elements:
+  - titre: Dépôt
+    texte: Une fine couche d'isolant, de métal ou de silicium.
+  - titre: Lithographie
+    texte: La lumière dessine le motif sur une résine.
+  - titre: Gravure
+    texte: Un plasma attaque la couche non protégée.
+  - titre: Dopage
+    texte: Des atomes changent la conduction du silicium.
+  - titre: Nettoyage
+    texte: On retire la résine et on aplanit.
+```
 
 Les transistors occupent les premières couches. Au-dessus, une dizaine de niveaux de fils de
 cuivre, séparés par des isolants, les relient entre eux comme les étages d'un échangeur

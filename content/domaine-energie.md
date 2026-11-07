@@ -9894,7 +9894,21 @@ cellule NMC.
 
 Ces chiffres varient selon les fabricants et progressent chaque année.
 
-[Emplacement image : comparaison schématique d'une cellule LFP et d'une cellule NMC, avec leurs cathodes, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Énergie stockée par kilo de cellule
+legende: Ordres de grandeur, milieu des fourchettes citées dans l'article.
+unite: Wh/kg
+valeurs:
+  - label: Plomb
+    valeur: 35
+  - label: Sodium-ion
+    valeur: 140
+  - label: LFP
+    valeur: 180
+  - label: NMC
+    valeur: 250
+```
 
 ## Le retour en force
 

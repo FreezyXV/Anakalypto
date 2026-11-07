@@ -16526,7 +16526,22 @@ l'essentiel. Une méthode utilisée dans les formations de survie se résume ain
    message laissé sur son itinéraire.
 5. **La nourriture**, qui compte surtout au-delà de quelques jours.
 
-[Emplacement image : pyramide des priorités de survie, de la sécurité immédiate à la nourriture, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: L'ordre des priorités quand tout manque
+legende: On traite d'abord ce qui tue le plus vite.
+niveaux:
+  - titre: Nourriture
+    texte: Environ 3 semaines sans manger.
+  - titre: Se signaler
+    texte: Sifflet, feu, message laissé.
+  - titre: Eau
+    texte: Environ 3 jours sans boire.
+  - titre: Abri et chaleur
+    texte: Environ 3 heures exposé au froid humide.
+  - titre: Urgences vitales et air
+    texte: Environ 3 minutes sans respirer.
+```
 
 ## Pourquoi cet ordre
 
@@ -16646,7 +16661,17 @@ après-midi et change tout le jour où l'on en a besoin.
 - une **radio** à piles ou à manivelle, pour recevoir les consignes des autorités ;
 - une liste papier des numéros importants : famille, médecin, voisins, assurance.
 
-[Emplacement image : contenu d'un kit d'urgence étalé, avec eau, nourriture, radio, lampe, trousse de secours et documents, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères du kit d'urgence
+chiffres:
+  - valeur: 72 h
+    texte: d'autonomie recommandée par l'Union européenne
+  - valeur: 3 à 4 L
+    texte: d'eau par personne et par jour
+  - valeur: 1 fois par an
+    texte: on vérifie dates, piles et médicaments
+```
 
 **La santé** :
 
@@ -16787,7 +16812,35 @@ D'où la règle : on peut tomber en hypothermie par 10 °C, mouillé et dans le 
 5. Si elle est consciente et avale bien, lui donner une **boisson chaude et sucrée**, jamais d'alcool.
 6. La **manipuler doucement**, sans la frictionner, et appeler les secours, au 15 ou au 112.
 
-[Emplacement image : les quatre modes de perte de chaleur du corps, conduction, convection, rayonnement et évaporation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: La température du corps, de l'hypothermie au coup de chaleur
+legende: Valeurs indicatives chez l'adulte.
+unite: °C
+min: 28
+max: 43
+zones:
+  - de: 28
+    a: 35
+    label: Hypothermie, urgence
+    ton: danger
+  - de: 35
+    a: 36.5
+    label: Corps trop froid, à surveiller
+    ton: attention
+  - de: 36.5
+    a: 37.5
+    label: Température normale
+    ton: normal
+  - de: 37.5
+    a: 40
+    label: Fièvre ou forte chaleur
+    ton: attention
+  - de: 40
+    a: 43
+    label: Coup de chaleur, urgence
+    ton: danger
+```
 
 ## Prévenir le froid
 
@@ -16823,3 +16876,4 @@ veiller sur les personnes âgées.
 - En cas d'hypothermie : abri, isolation du sol, vêtements secs, couverture, pas d'alcool.
 - Le coup de chaleur associe température très élevée et confusion : c'est une urgence vitale.
 - On refroidit la victime au plus vite et l'on appelle le 15 ou le 112.
+

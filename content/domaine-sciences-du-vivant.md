@@ -1495,7 +1495,29 @@ qu'elle n'est pas toxique pour les globules blancs. Il publie ses résultats en 
 substance est instable, produite en quantité infime, et il ne réussit pas à l'isoler. Ses
 travaux restent presque ignorés pendant dix ans.
 
-[Emplacement image : boîte de culture montrant une moisissure et la zone sans bactéries qui l'entoure, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: De la boîte de culture au médicament
+evenements:
+  - date: 1928
+    titre: Fleming observe la moisissure
+    texte: Les bactéries ont disparu autour du Penicillium.
+  - date: 1929
+    titre: Publication
+    texte: Fleming décrit la pénicilline, sans pouvoir la purifier.
+  - date: 1940
+    titre: Essais d'Oxford
+    texte: Florey, Chain et Heatley sauvent des souris infectées.
+  - date: 1941
+    titre: Premier patient
+    texte: Albert Alexander s'améliore, puis la réserve s'épuise.
+  - date: 1944
+    titre: Production de masse
+    texte: Les blessés du débarquement sont soignés.
+  - date: 1945
+    titre: Prix Nobel
+    texte: Fleming, Florey et Chain sont récompensés.
+```
 
 ## L'équipe d'Oxford
 

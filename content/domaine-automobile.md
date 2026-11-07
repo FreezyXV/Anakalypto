@@ -7535,6 +7535,21 @@ Un moteur diesel suit les mêmes quatre temps, mais il n'a pas de bougie d'allum
 
 L'ingénieur français Alphonse Beau de Rochas a décrit le cycle à quatre temps en 1862. L'Allemand Nikolaus Otto a construit en 1876 un moteur à quatre temps qui fonctionnait.
 
+```schema
+type: cycle
+titre: Les quatre temps du moteur
+legende: Deux tours de vilebrequin pour un cycle complet.
+elements:
+  - titre: Admission
+    texte: Le piston descend et aspire l'air et le carburant.
+  - titre: Compression
+    texte: Le piston remonte et comprime le mélange.
+  - titre: Combustion
+    texte: L'étincelle enflamme le mélange, qui pousse le piston.
+  - titre: Échappement
+    texte: Le piston remonte et chasse les gaz brûlés.
+```
+
 ## À retenir
 
 - Les quatre temps sont l'admission, la compression, la combustion-détente et l'échappement.
@@ -17373,6 +17388,26 @@ Ses pièces principales :
 Le diesel a un meilleur rendement grâce à sa forte compression, mais il est plus lourd et sa
 dépollution plus complexe et coûteuse.
 
+```schema
+type: comparaison
+titre: Essence ou diesel en un coup d'œil
+colonnes:
+  - titre: Essence
+    icone: fire
+    points:
+      - Allumage par une étincelle de bougie
+      - Compression d'environ 10 à 13
+      - Moteur léger, qui monte haut dans les tours
+      - Catalyseur trois voies
+  - titre: Diesel
+    icone: gear
+    points:
+      - Auto-inflammation dans l'air très comprimé
+      - Compression d'environ 15 à 20
+      - Fort couple à bas régime, consommation plus faible
+      - FAP, EGR et AdBlue pour la dépollution
+```
+
 ## Les systèmes autour du moteur
 
 1. **Admission d'air** : filtre à air, débitmètre, turbocompresseur, échangeur intercooler,
@@ -17389,7 +17424,32 @@ dépollution plus complexe et coûteuse.
 7. **Électricité** : batterie, démarreur, alternateur, fusibles et faisceaux.
 8. **Pilotage** : le calculateur moteur et des dizaines de capteurs.
 
-[Emplacement image : schéma d'ensemble d'une voiture thermique montrant les flux d'air, de carburant, d'huile, de liquide de refroidissement, de gaz d'échappement, d'électricité et de couple, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les systèmes qui entourent le moteur
+legende: Chaque système dépend des autres. Une panne dans l'un se répercute souvent ailleurs.
+centre: Moteur thermique
+icone: car
+parties:
+  - nom: Admission d'air
+    role: Filtre, débitmètre, turbo et intercooler préparent un air propre, mesuré et dense.
+  - nom: Carburant
+    role: Pompe, filtre, pompe haute pression et injecteurs dosent le carburant.
+  - nom: Allumage
+    role: Bougies sur l'essence ; préchauffage à froid sur le diesel.
+  - nom: Lubrification
+    role: La pompe à huile sépare les pièces métalliques par un film d'huile.
+  - nom: Refroidissement
+    role: Pompe à eau, thermostat et radiateur gardent le moteur vers 90 °C.
+  - nom: Échappement et dépollution
+    role: Catalyseur, FAP, EGR et SCR nettoient les gaz.
+  - nom: Électricité
+    role: Batterie, démarreur et alternateur alimentent tout le reste.
+  - nom: Calculateur
+    role: Il lit les capteurs et pilote injection, allumage, turbo et dépollution.
+  - nom: Transmission
+    role: Embrayage, boîte, différentiel et cardans amènent la force aux roues.
+```
 
 ## De la force du moteur aux roues
 

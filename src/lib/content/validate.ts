@@ -5,6 +5,7 @@ import {
   type ArticleBlock,
   type CategoryBlock,
 } from "./schema";
+import { findSchemaBlocks, parseSchema } from "../schemas";
 import type { BlockLocation, ContentIssue, RawBlock } from "./types";
 
 export type ValidatedCategory = CategoryBlock & { location: BlockLocation };
@@ -74,6 +75,20 @@ export function validateCorpus(blocks: RawBlock[]): ValidationResult {
       addIssue(block.location, "content", "corps de l'article vide");
       continue;
     }
+    let schemaInvalid = false;
+    findSchemaBlocks(block.body).forEach((schema, position) => {
+      const result = parseSchema(schema.source);
+      if (result.ok) return;
+      schemaInvalid = true;
+      for (const error of result.errors) {
+        addIssue(
+          block.location,
+          `schema[${position + 1}]${error.path ? `.${error.path}` : ""}`,
+          `${error.message} (ligne ${schema.line} du corps)`,
+        );
+      }
+    });
+    if (schemaInvalid) continue;
     articles.push({ ...parsed.data, location: block.location, content: block.body });
   }
 
