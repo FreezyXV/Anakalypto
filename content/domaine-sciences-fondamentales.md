@@ -399,8 +399,20 @@ Newton restent d'une précision suffisante.
 - Toute action s'accompagne d'une réaction égale et opposée.
 - Ces lois cessent d'être exactes près de la vitesse de la lumière et à l'échelle atomique.
 
-[Emplacement image : les trois lois de Newton illustrées par des situations concrètes, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les trois lois de Newton
+colonnes:
+  - titre: Inertie
+    points:
+      - Sans force, un objet garde son mouvement
+  - titre: Force et accélération
+    points:
+      - Une force produit une accélération, pas une vitesse
+  - titre: Action et réaction
+    points:
+      - Toute action entraîne une réaction égale et opposée
+```
 
 ---
 
@@ -516,8 +528,20 @@ de technique : c'est une loi de la nature.
 - Une énergie dispersée en chaleur n'est plus utilisable, même si elle existe toujours.
 - Le rendement mesure la part réellement convertie sous la forme voulue.
 
-[Emplacement image : transformations de l'énergie d'une balle qui tombe et rebondit, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les formes de l'énergie
+legende: L'énergie change de forme mais ne se crée ni ne se détruit.
+centre: Énergie
+icone: bolt
+parties:
+  - nom: Cinétique
+    role: Elle varie comme le carré de la vitesse.
+  - nom: Potentielle
+  - nom: Chimique
+  - nom: Thermique
+    role: Une énergie dispersée, difficile à récupérer.
+```
 
 ---
 
@@ -625,8 +649,17 @@ propriété de la nature, vérifiée des milliers de fois.
 - Mesurer par quelle fente elles passent détruit la figure.
 - Les équations sont parfaitement établies ; leur interprétation reste débattue.
 
-[Emplacement image : figure d'interférence obtenue avec des particules envoyées une par une,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'expérience des deux fentes
+elements:
+  - titre: Envoyer des particules
+  - titre: Deux fentes
+  - titre: Figure d'interférence
+    texte: Comme des ondes, même envoyées une par une.
+  - titre: Observer par quelle fente
+    texte: La figure disparaît.
+```
 
 ---
 
@@ -739,8 +772,19 @@ sous-estimés.
 - La décohérence détruit l'état quantique en une fraction de seconde.
 - Le seuil de correction d'erreurs est l'étape décisive vers un calcul utile.
 
-[Emplacement image : bit classique et qubit superposé, principe de la correction d'erreurs,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Bit et qubit
+colonnes:
+  - titre: Bit
+    points:
+      - Vaut 0 ou 1
+  - titre: Qubit
+    icone: atom
+    points:
+      - Superpose 0 et 1 tant qu'il n'est pas mesuré
+      - Très sensible aux erreurs
+```
 
 ---
 
@@ -852,8 +896,19 @@ production des premières ondes radio.
 - Toute l'électricité mondiale est produite par des alternateurs fondés sur ce principe.
 - Les équations de Maxwell ont révélé que la lumière est une onde électromagnétique.
 
-[Emplacement image : induction dans une bobine et principe de l'alternateur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux découvertes symétriques
+colonnes:
+  - titre: Courant vers aimant
+    points:
+      - Un courant électrique crée un champ magnétique
+  - titre: Aimant vers courant
+    icone: magnet
+    points:
+      - Un aimant en mouvement crée un courant
+      - C'est l'induction
+```
 
 ---
 
@@ -969,8 +1024,18 @@ puisque c'est vers lui que pointe le nord d'une boussole.
 - La chaleur détruit l'alignement au-delà d'une température caractéristique.
 - On ne peut pas isoler un pôle magnétique, contrairement à une charge électrique.
 
-[Emplacement image : domaines magnétiques désorganisés puis alignés, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: etapes
+titre: D'où vient le magnétisme
+elements:
+  - titre: Électrons
+    texte: Une propriété des électrons des atomes.
+  - titre: Domaines
+    texte: Des zones où les atomes sont alignés.
+  - titre: Aimant
+    texte: Quand les domaines s'alignent ensemble.
+    icone: magnet
+```
 
 ---
 
@@ -1087,8 +1152,18 @@ Le bilan global augmente toujours.
 - La chaleur va spontanément du chaud vers le froid, jamais l'inverse.
 - Le second principe est la seule loi qui distingue le passé du futur.
 
-[Emplacement image : diffusion spontanée d'un gaz et notion d'entropie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux principes
+colonnes:
+  - titre: Premier principe
+    points:
+      - L'énergie se conserve
+  - titre: Second principe
+    points:
+      - Le désordre d'un système isolé augmente
+      - La chaleur va du chaud vers le froid
+```
 
 ---
 
@@ -1200,8 +1275,19 @@ ralentit sa fuite.
 - Conduction, convection et rayonnement sont les trois modes de transfert.
 - On ressent la vitesse de perte de chaleur, pas la température elle-même.
 
-[Emplacement image : trois modes de transfert de chaleur illustrés, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Température ou chaleur
+colonnes:
+  - titre: Température
+    icone: thermometer
+    points:
+      - Mesure l'agitation des particules
+  - titre: Chaleur
+    points:
+      - Une énergie transférée
+      - L'eau en stocke beaucoup
+```
 
 ---
 
@@ -1311,8 +1397,19 @@ hydrogène, azote, calcium et phosphore.
 - Une même colonne signifie un même nombre d'électrons externes.
 - Mendeleïev a laissé des cases vides et prédit les propriétés des éléments manquants.
 
-[Emplacement image : structure du tableau périodique et signification des colonnes, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Lire le tableau périodique
+centre: Élément
+icone: atom
+parties:
+  - nom: Rangement
+    role: Par nombre de protons.
+  - nom: Colonnes
+    role: Des propriétés qui se répètent.
+  - nom: Cases vides de Mendeleïev
+    role: Des éléments prédits avant leur découverte.
+```
 
 ---
 
@@ -1426,8 +1523,18 @@ Même élément, arrangement différent, propriétés opposées.
 - Deux molécules de même composition peuvent différer par leur forme.
 - Diamant et graphite sont du carbone pur, arrangé différemment.
 
-[Emplacement image : structures du diamant et du graphite comparées, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Pourquoi le carbone est unique
+centre: Carbone
+parties:
+  - nom: Quatre liaisons
+  - nom: Chaînes sans limite
+  - nom: Groupes fonctionnels
+    role: Ils déterminent le comportement.
+  - nom: Forme
+    role: Diamant ou graphite, même atome.
+```
 
 ---
 
@@ -1544,8 +1651,16 @@ fait l'industrie chimique pour pousser une réaction vers le produit souhaité.
 - Température, concentration, surface et catalyseur accélèrent une réaction.
 - À l'équilibre, les deux sens se produisent à la même vitesse.
 
-[Emplacement image : profil énergétique d'une réaction avec et sans catalyseur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le déroulement d'une réaction
+elements:
+  - titre: Réactifs
+  - titre: Barrière d'activation
+    texte: Il faut un coup de pouce pour démarrer.
+  - titre: Atomes réorganisés
+  - titre: Produits
+```
 
 ---
 
@@ -1655,8 +1770,17 @@ ces structures.
 - La notation symbolique moderne ne s'impose qu'au XVIe siècle.
 - L'algèbre moderne étudie des structures, avec des applications au chiffrement et aux codes.
 
-[Emplacement image : résolution d'une équation simple étape par étape, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: L'histoire de l'algèbre
+evenements:
+  - date: IXe siècle
+    titre: Al-Khwarizmi
+    texte: Son traité donne son nom à l'algèbre.
+  - date: Ensuite
+    titre: Notation symbolique
+    texte: Des lettres pour l'inconnu.
+```
 
 ---
 
@@ -1762,8 +1886,18 @@ cadre.
 - Des mathématiques jugées inutiles ont fondé le chiffrement et la relativité.
 - Une démonstration correcte reste vraie indéfiniment, contrairement à une théorie empirique.
 
-[Emplacement image : liens entre grands domaines mathématiques, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les grands prix de mathématiques
+legende: Il n'existe pas de prix Nobel de mathématiques.
+colonnes:
+  - titre: Prix Abel
+    points:
+      - Récompense une carrière
+  - titre: Médaille Fields
+    points:
+      - Récompense de jeunes mathématiciens
+```
 
 ---
 
@@ -1887,8 +2021,15 @@ professionnels.
 - L'interprétation d'un test dépend de la fréquence de la maladie, pas seulement de sa
   fiabilité.
 
-[Emplacement image : paradoxe des anniversaires et nombre de paires selon la taille du groupe,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les surprises du hasard
+chiffres:
+  - valeur: 23
+    texte: personnes suffisent pour plus d'une chance sur deux d'un anniversaire commun
+  - valeur: Sans mémoire
+    texte: une pièce ne se souvient pas des lancers précédents
+```
 
 ---
 
@@ -2000,8 +2141,17 @@ cinquante ans plus tôt par pure curiosité mathématique, sans la moindre appli
 - Nier cet axiome produit des géométries cohérentes et différentes.
 - La relativité générale repose sur ces géométries des espaces courbes.
 
-[Emplacement image : triangle sur un plan, sur une sphère et sur une selle, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De la géométrie d'Euclide aux autres
+elements:
+  - titre: Cinq axiomes
+    texte: Euclide en déduit toute la géométrie.
+  - titre: Le cinquième résiste
+    texte: Celui des parallèles, pendant deux mille ans.
+  - titre: D'autres géométries
+    texte: En changeant ce cinquième axiome.
+```
 
 ---
 
@@ -2119,8 +2269,18 @@ d'insectes aux insecticides, changements mesurés chez des espèces suivies sur 
 - Les caractères acquis pendant la vie ne se transmettent pas.
 - L'évolution bricole à partir de l'existant, ce qui explique de nombreuses imperfections.
 
-[Emplacement image : sélection d'un caractère au fil des générations, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les trois conditions de la sélection naturelle
+elements:
+  - titre: Variation
+    texte: Les individus diffèrent.
+  - titre: Hérédité
+    texte: Ces différences se transmettent.
+  - titre: Reproduction inégale
+    texte: Certains laissent plus de descendants.
+    icone: dna
+```
 
 ---
 
@@ -2234,8 +2394,18 @@ Et finalement modifier des séquences précises, ce qui a conduit aux thérapies
 - Chaque brin contient la totalité de l'information.
 - Les clichés de Rosalind Franklin ont fourni les données décisives.
 
-[Emplacement image : double hélice et appariement complémentaire des bases, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment l'ADN se copie
+legende: La double hélice a été établie en 1953.
+elements:
+  - titre: Double hélice
+    icone: dna
+  - titre: Les brins se séparent
+  - titre: Bases complémentaires
+    texte: Chaque brin sert de modèle.
+  - titre: Deux copies identiques
+```
 
 ---
 
@@ -2357,8 +2527,21 @@ atteindre un mètre de long.
 - Les cellules à noyau sont compartimentées, celles des bactéries non.
 - Les mitochondries descendent probablement de bactéries absorbées puis conservées.
 
-[Emplacement image : schéma d'une cellule animale et de ses principaux composants, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux grandes catégories de cellules
+legende: Toute cellule vient d'une cellule.
+colonnes:
+  - titre: Procaryotes
+    points:
+      - Sans noyau
+      - Bactéries
+  - titre: Eucaryotes
+    icone: microscope
+    points:
+      - Avec un noyau
+      - Animaux, plantes, champignons
+```
 
 ---
 
@@ -2474,8 +2657,17 @@ une autre. Un réseau simplifié, à l'inverse, est beaucoup plus fragile.
 - Les décomposeurs sont indispensables au recyclage des éléments.
 - Une espèce peu abondante peut structurer tout un écosystème.
 
-[Emplacement image : pyramide énergétique d'un écosystème, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: pyramide
+titre: La pyramide de l'énergie
+legende: Environ 90 % de l'énergie est perdue à chaque niveau.
+niveaux:
+  - titre: Superprédateurs
+  - titre: Carnivores
+  - titre: Herbivores
+  - titre: Végétaux
+    texte: Ils captent l'énergie du Soleil.
+```
 
 ---
 
@@ -2587,8 +2779,20 @@ les blocages produisent des séismes puissants.
 - Les bandes magnétiques symétriques des dorsales ont fourni la preuve décisive.
 - Les frontières de plaques sont divergentes, convergentes ou coulissantes.
 
-[Emplacement image : les trois types de frontières de plaques, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois types de frontières de plaques
+colonnes:
+  - titre: Divergentes
+    points:
+      - Les plaques s'écartent
+  - titre: Convergentes
+    points:
+      - Les plaques se rapprochent
+  - titre: Transformantes
+    points:
+      - Les plaques coulissent
+```
 
 ---
 
@@ -2713,8 +2917,19 @@ C'est pourquoi l'on dit que ce ne sont pas les séismes qui tuent, mais les bât
 - La violence d'une éruption dépend surtout de la viscosité du magma.
 - On sait où mais pas quand ; les normes de construction sauvent des vies.
 
-[Emplacement image : accumulation de contrainte puis rupture le long d'une faille, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: L'énergie d'un séisme selon la magnitude
+legende: Un point de magnitude en plus, environ trente fois plus d'énergie.
+unite: ×
+valeurs:
+  - label: Magnitude 5
+    valeur: 1
+  - label: Magnitude 6
+    valeur: 30
+  - label: Magnitude 7
+    valeur: 900
+```
 
 ---
 
@@ -2829,8 +3044,18 @@ les régimes de pluie et sur la vie marine. C'est l'un des points de basculement
 - L'eau froide et salée plonge dans l'Atlantique Nord et entretient le système.
 - L'apport d'eau douce par la fonte des glaces pourrait ralentir cette circulation.
 
-[Emplacement image : circulation océanique de surface et profonde à l'échelle du globe, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux circulations océaniques
+colonnes:
+  - titre: Courants de surface
+    points:
+      - Poussés par les vents
+      - Déviés par la rotation de la Terre
+  - titre: Circulation profonde
+    points:
+      - Entraînée par les différences de température et de salinité
+```
 
 ---
 
@@ -2976,8 +3201,18 @@ mesure électronique.
 - Cette invention a considérablement amélioré la précision de la mesure du temps.
 - Le pendule de Foucault a démontré en 1851 la rotation de la Terre sur elle-même.
 
-[Emplacement image : pendule oscillant suspendu à un fil de longueur mesurée, illustrant la
-régularité de son mouvement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Le pendule et le temps
+evenements:
+  - date: Galilée
+    titre: La régularité des oscillations
+    texte: La durée dépend de la longueur du fil.
+  - date: Ensuite
+    titre: La première horloge à pendule
+  - date: Foucault
+    titre: La preuve de la rotation de la Terre
+```
 
 ---
 
@@ -3104,8 +3339,19 @@ résistance correspond à l'étroitesse du tuyau qui freine ce débit.
 - Le courant ne circule que dans un chemin fermé : un interrupteur ouvert l'arrête dans tout le
   circuit.
 
-[Emplacement image : circuit électrique simple avec une pile, un fil et une ampoule, annoté avec
-tension, courant et résistance, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois grandeurs électriques
+centre: Circuit
+icone: bolt
+parties:
+  - nom: Tension
+    role: En volts, elle met les charges en mouvement.
+  - nom: Courant
+    role: En ampères, le débit des charges.
+  - nom: Résistance
+    role: En ohms, ce qui freine le courant.
+```
 
 ---
 
@@ -3214,8 +3460,18 @@ impossibles avec une seule lentille.
 - Combiner plusieurs lentilles, comme dans un microscope, permet d'atteindre de forts
   grossissements.
 
-[Emplacement image : rayons de lumière traversant une lentille convexe et convergeant vers un
-point focal, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux familles de lentilles
+colonnes:
+  - titre: Convexe
+    points:
+      - Fait converger la lumière
+      - Loupe, objectif
+  - titre: Concave
+    points:
+      - Fait diverger la lumière
+```
 
 ---
 
@@ -3344,6 +3600,18 @@ Les miroirs renvoient la lumière dans le milieu, qui l'amplifie à chaque passa
 ## Du rubis au code-barres
 
 Einstein a prévu l'émission stimulée avant que Theodore Maiman ne fasse fonctionner le premier laser, avec un cristal de rubis. On trouve des lasers dans les lecteurs de codes-barres et de disques, les communications par fibre optique, la chirurgie, et la découpe ou le soudage de matériaux.
+
+```schema
+type: etapes
+titre: Le principe du laser
+elements:
+  - titre: Atomes excités
+  - titre: Émission stimulée
+    texte: Un photon en fait émettre un identique.
+  - titre: Miroirs
+    texte: La lumière fait des allers-retours et s'amplifie.
+  - titre: Faisceau
+```
 
 ## À retenir
 
@@ -3493,9 +3761,21 @@ l'énergie plutôt que de l'absorber.
 - Ces trois modes agissent souvent simultanément dans une même situation, comme un feu de camp.
 - Un bon isolant limite la conduction en piégeant de l'air, un mauvais conducteur de chaleur.
 
-[Emplacement image : feu de camp illustrant les trois modes de transfert thermique, conduction
-dans les bûches, convection dans l'air chaud, rayonnement vers les personnes proches, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois transferts de chaleur
+colonnes:
+  - titre: Conduction
+    points:
+      - Par contact direct
+  - titre: Convection
+    points:
+      - Par mouvement de liquide ou de gaz
+  - titre: Rayonnement
+    icone: sun
+    points:
+      - Sans support, même dans le vide
+```
 
 ---
 
@@ -3620,8 +3900,16 @@ meilleurs systèmes de refroidissement de la vapeur.
 - Cette technique sert aussi à purifier l'eau et à extraire des huiles essentielles de plantes.
 - La distillation est utilisée depuis l'Antiquité, notamment pour les parfums et les remèdes.
 
-[Emplacement image : montage de distillation avec ballon chauffé, tube de refroidissement et
-récipient de collecte du liquide condensé, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La distillation
+elements:
+  - titre: Chauffer le mélange
+    icone: fire
+  - titre: Le plus volatil s'évapore
+  - titre: Refroidir la vapeur
+  - titre: Recueillir le liquide
+```
 
 ---
 
@@ -3729,8 +4017,26 @@ projection dangereuse.
   courantes.
 - Toujours diluer un produit concentré dans l'eau, jamais l'inverse, pour limiter les risques.
 
-[Emplacement image : échelle de pH illustrée avec des exemples courants, du citron acide au
-savon basique, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: L'échelle de pH
+unite: ""
+min: 0
+max: 14
+zones:
+  - de: 0
+    a: 7
+    label: Acide
+    ton: danger
+  - de: 7
+    a: 7.1
+    label: Neutre, vers 7
+    ton: normal
+  - de: 7.1
+    a: 14
+    label: Basique
+    ton: info
+```
 
 ---
 
@@ -3857,9 +4163,18 @@ volontairement une réaction, comme dans un feu bien attisé.
   l'humidité.
 - Augmenter la température ou l'apport en oxygène accélère volontairement ces réactions.
 
-[Emplacement image : comparaison visuelle entre un clou rouillé et une flamme de combustion,
-illustrant deux vitesses d'une même famille de réactions, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: comparaison
+titre: Oxydation et réduction
+legende: Les deux se produisent toujours ensemble.
+colonnes:
+  - titre: Oxydation
+    points:
+      - Perte d'électrons
+  - titre: Réduction
+    points:
+      - Gain d'électrons
+```
 
 ---
 
@@ -3985,8 +4300,16 @@ fumée, de la suie et du monoxyde de carbone, un gaz dangereux et invisible.
 - Une énergie initiale est nécessaire pour démarrer la réaction, qui s'entretient ensuite
   elle-même.
 
-[Emplacement image : schéma du triangle du feu illustrant combustible, comburant et chaleur,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le triangle du feu
+elements:
+  - titre: Combustible
+  - titre: Comburant
+    texte: L'oxygène de l'air.
+  - titre: Chaleur
+    icone: fire
+```
 
 ---
 
@@ -4098,9 +4421,18 @@ avancée, contrairement aux systèmes de numération antérieurs bien plus lourd
 - Cette invention a rendu les calculs complexes accessibles sans connaissance mathématique
   avancée.
 
-[Emplacement image : comparaison entre un nombre écrit en chiffres romains et le même nombre
-écrit avec la numération de position moderne, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: La numération de position
+centre: Nombre
+parties:
+  - nom: Place des chiffres
+    role: Elle fixe leur valeur.
+  - nom: Le zéro
+    role: Il marque une position vide.
+  - nom: Origine
+    role: Développée en Inde.
+```
 
 ---
 
@@ -4402,8 +4734,17 @@ triangulation à grande échelle sur des territoires entiers.
 - Le théodolite, un instrument historique, mesure précisément les angles pour l'arpentage à
   grande échelle.
 
-[Emplacement image : arpenteur utilisant une corde nouée pour tracer un angle droit sur un
-terrain, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Mesurer un terrain sans électronique
+centre: Arpentage
+icone: map
+parties:
+  - nom: Triangulation
+    role: Des distances calculées par les angles.
+  - nom: Corde à nœuds 3, 4, 5
+    role: Pour tracer un angle droit.
+```
 
 ---
 
@@ -4822,8 +5163,15 @@ signaler la présence d'un gisement.
 - Des mesures magnétiques ou électriques modernes complètent aujourd'hui l'observation directe
   du terrain.
 
-[Emplacement image : affleurement rocheux montrant des veines de quartz et des traces de
-minéralisation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les indices d'un gisement
+centre: Minerai
+parties:
+  - nom: Failles et fractures
+  - nom: Couleur des roches
+  - nom: Minéraux indicateurs
+```
 
 ---
 
@@ -4935,8 +5283,18 @@ et localise plus précisément une nappe d'eau souterraine avant de creuser.
 - Des mesures de résistivité électrique du sol permettent une localisation plus précise avant de
   creuser.
 
-[Emplacement image : paysage montrant une végétation dense dans une vallée signalant la présence
-d'eau souterraine peu profonde, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les indices d'eau souterraine
+centre: Nappe
+icone: droplet
+parties:
+  - nom: Relief
+    role: L'eau descend vers les points bas.
+  - nom: Végétation verte en saison sèche
+  - nom: Sources et suintements
+  - nom: Nature du sol
+```
 
 ---
 
@@ -5497,6 +5855,21 @@ Dans les chloroplastes se trouvent des petits sacs aplatis, les thylakoïdes. L'
 ## Étape 2, le sucre est assemblé
 
 Dans le stroma, le liquide qui remplit le chloroplaste, une série de réactions utilise ces piles. C'est le cycle de Calvin. Il accroche le dioxyde de carbone de l'air à d'autres molécules pour construire des sucres. Une enzyme, la RuBisCO, réalise la toute première étape. La plante utilise ces sucres pour grandir et vivre. Elle en garde une partie en réserve sous forme d'amidon.
+
+```schema
+type: etapes
+titre: La photosynthèse
+elements:
+  - titre: Lumière, eau, CO2
+    icone: sun
+  - titre: Chlorophylle
+    texte: Elle absorbe le bleu et le rouge.
+    icone: leaf
+  - titre: Étape 1
+    texte: La lumière casse l'eau et libère l'oxygène.
+  - titre: Étape 2
+    texte: Le sucre est assemblé.
+```
 
 ## À retenir
 
@@ -6405,6 +6778,17 @@ Plus on utilise d'antibiotiques, plus on favorise les bactéries résistantes. L
 
 Les conséquences sont graves. Une étude publiée en 2022 a compté 1,27 million de décès dans le monde directement dus à l'antibiorésistance en 2019. Pour ralentir cette course, les médecins demandent de ne prendre des antibiotiques que lorsqu'ils sont nécessaires, et de mieux prévenir les infections.
 
+```schema
+type: etapes
+titre: Comment naît la résistance
+elements:
+  - titre: Mutation au hasard
+  - titre: Antibiotique
+    texte: Les bactéries sensibles meurent.
+  - titre: Les résistantes survivent
+  - titre: Partage des gènes
+```
+
 ## À retenir
 
 - Une bactérie résistante survit à un antibiotique qui tue ses voisines sensibles.
@@ -6969,6 +7353,23 @@ Ainsi, deux parents des groupes A et B peuvent avoir un enfant de n'importe quel
 ## Des groupes différents selon les régions
 
 Les groupes ne sont pas répartis de la même façon partout. En France, le groupe le plus fréquent est A positif, avec environ 38 % des habitants. Chez les Inuits, 86 % des personnes sont du groupe O. En 2025, on connaît 48 systèmes de groupes sanguins, mais ABO et Rhésus restent les plus importants pour les transfusions.
+
+```schema
+type: comparaison
+titre: Les groupes sanguins ABO
+legende: Découverts par Karl Landsteiner en 1901.
+colonnes:
+  - titre: A
+    points:
+      - Antigène A
+  - titre: B
+    points:
+      - Antigène B
+  - titre: AB et O
+    points:
+      - AB, les deux antigènes
+      - O, aucun des deux
+```
 
 ## À retenir
 
@@ -7836,6 +8237,17 @@ Quand on se lave les mains, les queues des molécules de savon s'accrochent aux 
 
 Le savon est une invention très ancienne. Vers 2800 avant notre ère, à Babylone, en Mésopotamie, on faisait déjà bouillir des graisses avec des cendres pour obtenir une matière proche du savon. Les cendres de bois contiennent en effet de la potasse, une base. En Égypte, des papyrus médicaux datés d'environ 1550 avant notre ère décrivent un savon fait de graisses animales, d'huiles végétales et de sels alcalins.
 
+```schema
+type: etapes
+titre: La saponification
+elements:
+  - titre: Corps gras
+  - titre: Base forte
+    texte: Soude ou potasse.
+  - titre: Réaction
+  - titre: Savon et glycérine
+```
+
 ## À retenir
 
 - Le savon se fabrique en mélangeant un corps gras avec une base forte, comme la soude ou la potasse.
@@ -8385,6 +8797,20 @@ La vitesse compte aussi. Un solide en grains fins se dissout plus vite qu'un gro
 ## Une eau froide et salée
 
 Dissoudre du sel prend un peu de chaleur à ce qui l'entoure. Quand on répand du sel sur la neige, il se dissout dans la glace qui fond et forme de l'eau salée. Cette eau salée ne gèle qu'en dessous de 0 °C. Avec 23 % de sel, elle reste liquide jusqu'à -21 °C. C'est pourquoi on sale les routes en hiver.
+
+```schema
+type: comparaison
+titre: Le semblable dissout le semblable
+colonnes:
+  - titre: Se dissout dans l'eau
+    icone: droplet
+    points:
+      - Sel
+      - Sucre
+  - titre: Reste à part
+    points:
+      - Huile
+```
 
 ## À retenir
 
@@ -9727,6 +10153,16 @@ La lettre π n'a été choisie qu'en 1706, par le Gallois William Jones. C'est l
 
 En 1844, Zacharias Dase calcule de tête 200 décimales de pi. Avec les ordinateurs, les records ont explosé. En 1973, on atteint un million de décimales. En 2025, on en connaît environ 314 000 milliards. Pourtant, quelques centaines de décimales suffisent pour tous les calculs scientifiques pratiques.
 
+```schema
+type: chiffres
+titre: Le nombre pi
+chiffres:
+  - valeur: 3,14
+    texte: environ, le tour divisé par le diamètre
+  - valeur: Sans fin
+    texte: ses décimales ne s'arrêtent jamais
+```
+
 ## À retenir
 
 - Pi est le tour d'un cercle divisé par son diamètre : il est le même pour tous les cercles.
@@ -9987,6 +10423,21 @@ On ne connaît pas exactement la longueur du stade qu'il utilisait. Selon la val
 Ératosthène avait pourtant fait deux petites erreurs. Syène n'est pas exactement sur la ligne où le Soleil passe à la verticale, et elle n'est pas tout à fait au sud d'Alexandrie. Ces deux erreurs se sont en partie compensées.
 
 Il a laissé d'autres travaux. Il a inventé le crible d'Ératosthène, une méthode pour trouver les nombres premiers. Il est aussi considéré comme l'un des pères de la géographie.
+
+```schema
+type: etapes
+titre: La mesure d'Ératosthène
+elements:
+  - titre: Syène
+    texte: Pas d'ombre au solstice à midi.
+    icone: sun
+  - titre: Alexandrie
+    texte: Une ombre au même moment.
+  - titre: Mesurer l'angle
+  - titre: Calculer le tour de la Terre
+    texte: 250 000 stades.
+    icone: globe
+```
 
 ## À retenir
 
@@ -10837,6 +11288,18 @@ Presque toute l'électricité du monde est produite de cette façon. Dans une ce
 
 Le même principe sert aussi dans les lampes de poche et les radios à manivelle : on tourne, et l'appareil se recharge.
 
+```schema
+type: etapes
+titre: La dynamo
+elements:
+  - titre: La roue tourne
+  - titre: L'aimant tourne
+    icone: magnet
+  - titre: Près d'une bobine
+  - titre: Courant électrique
+    icone: bulb
+```
+
 ## À retenir
 
 - Quand un aimant bouge près d'une bobine de fil, un courant électrique apparaît : c'est l'induction.
@@ -11340,6 +11803,22 @@ Pourtant, il n'est pas plus facile de les arrêter quand ils sont lancés. La ma
 Une balance à deux plateaux compare la masse d'un objet à des masses connues. Comme les deux côtés sont attirés de la même façon, elle donne le même résultat sur la Terre et sur la Lune.
 
 Un pèse-personne, lui, mesure en réalité une force, grâce à un ressort ou à un capteur. Il est réglé pour la pesanteur terrestre et affiche des kilogrammes. Sur la Lune, il afficherait un nombre environ six fois plus petit, alors que ta masse n'aurait pas changé.
+
+```schema
+type: comparaison
+titre: Masse ou poids
+colonnes:
+  - titre: Masse
+    points:
+      - Quantité de matière
+      - En kilogrammes
+      - La même partout
+  - titre: Poids
+    points:
+      - Force d'attraction de la planète
+      - En newtons
+      - Six fois plus faible sur la Lune
+```
 
 ## À retenir
 
@@ -13221,6 +13700,17 @@ La forme des côtes change beaucoup la hauteur des marées. Dans une baie en for
 
 Les marées ne touchent pas que la mer. La croûte terrestre elle-même se soulève un peu au passage de la Lune, d'environ 40 centimètres, sans qu'on le sente.
 
+```schema
+type: etapes
+titre: Les marées
+elements:
+  - titre: La Lune attire l'océan
+  - titre: Deux renflements d'eau
+    icone: wave
+  - titre: Le Soleil renforce ou atténue
+  - titre: Marées différentes selon les lieux
+```
+
 ## À retenir
 
 - Les marées sont causées surtout par l'attraction de la Lune, et en partie par celle du Soleil.
@@ -13771,6 +14261,18 @@ Parfois, l'eau s'accumule dans une cavité sous terre et dépasse 100 °C sans b
 L'eau chaude dissout mieux les roches que l'eau froide. Les sources chaudes sont donc souvent très chargées en minéraux, comme le calcium, et parfois en lithium. Autour de certaines sources, ces minéraux se déposent et forment de la roche, comme le travertin.
 
 Des microbes appelés thermophiles vivent dans ces eaux, entre 45 et 80 °C. Depuis des milliers d'années, les humains s'y baignent et s'y soignent. En France, à Chaudes-Aigues, dans le Cantal, la source du Par sort à 82 °C. Ces bains étaient déjà connus à l'époque romaine.
+
+```schema
+type: etapes
+titre: Le voyage d'une eau thermale
+elements:
+  - titre: Infiltration
+  - titre: Descente en profondeur
+    texte: Environ 3 °C de plus tous les 100 m.
+  - titre: Réchauffement
+  - titre: Remontée
+    texte: Chargée de minéraux.
+```
 
 ## À retenir
 
@@ -19947,6 +20449,19 @@ La théorie explique parfaitement l'avance de l'orbite de Mercure. Elle prévoit
 
 Les satellites GPS ont besoin de corrections relativistes, car leurs horloges ne battent pas au même rythme que celles du sol. Les trous noirs sont des déformations extrêmes de l'espace-temps.
 
+```schema
+type: comparaison
+titre: Deux visions de la gravité
+colonnes:
+  - titre: Newton
+    points:
+      - Une force d'attraction
+  - titre: Einstein
+    points:
+      - La masse courbe l'espace-temps
+      - Les objets suivent cette courbure
+```
+
 ## À retenir
 
 - Pour la relativité générale, la gravité n'est pas une force : c'est la manifestation de la courbure de l'espace-temps.
@@ -20031,6 +20546,19 @@ L'interaction faible provoque des désintégrations comme la radioactivité bêt
 ## Le modèle standard et ses limites
 
 Le modèle standard de la physique des particules décrit trois des quatre interactions : électromagnétique, forte et faible. La gravitation n'en fait pas partie : l'y intégrer s'est révélé un défi difficile, et aucune théorie quantique de la gravitation n'a abouti. Les interactions électromagnétique et faible ont été unifiées dans la théorie électrofaible. Les théories au-delà du modèle standard restent très spéculatives, faute de preuves expérimentales solides.
+
+```schema
+type: systeme
+titre: Les quatre interactions fondamentales
+centre: Univers
+icone: atom
+parties:
+  - nom: Gravitationnelle
+  - nom: Électromagnétique
+  - nom: Forte
+    role: Elle tient le noyau.
+  - nom: Faible
+```
 
 ## À retenir
 
@@ -20117,6 +20645,16 @@ Si l'eau était la plus dense au point de congélation, l'eau très froide de la
 
 La glace flotte et isole l'eau qui se trouve dessous : même un grand lac comme le lac Baïkal ne gèle que sur une épaisseur limitée en hiver.
 
+```schema
+type: chiffres
+titre: Pourquoi la glace flotte
+chiffres:
+  - valeur: "-9 %"
+    texte: de densité en gelant, environ
+  - valeur: 4 °C
+    texte: la température où l'eau liquide est la plus dense
+```
+
 ## À retenir
 
 - La glace est moins dense que l'eau liquide : c'est pourquoi elle flotte.
@@ -20200,6 +20738,17 @@ En hiver, l'eau de surface se refroidit, devient plus dense et coule, jusqu'à c
 ## Autres précisions
 
 Les matières dissoutes augmentent la densité de l'eau, comme le sel dans l'eau de mer. Même un lac très profond comme le Baïkal ne gèle que sur une épaisseur limitée, et ses eaux profondes restent froides, près de la température de densité maximale.
+
+```schema
+type: etapes
+titre: Comment un lac se refroidit
+elements:
+  - titre: L'eau de surface refroidit
+  - titre: À 4 °C, elle coule au fond
+  - titre: L'eau plus froide reste en haut
+  - titre: La glace se forme en surface
+    icone: snowflake
+```
 
 ## À retenir
 
@@ -20287,6 +20836,20 @@ On réalise des qubits avec des circuits supraconducteurs, des ions piégés, de
 
 Un qubit perd vite son état quantique : c'est la décohérence, qui produit des erreurs de calcul. Pour calculer de façon fiable, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques. L'algorithme de Shor, conçu pour un ordinateur quantique, factorise de grands nombres en temps polynomial. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore.
 
+```schema
+type: comparaison
+titre: Bit ou qubit
+colonnes:
+  - titre: Bit
+    points:
+      - 0 ou 1
+  - titre: Qubit
+    points:
+      - Système quantique à deux niveaux
+      - Superposition de 0 et 1
+      - Fragile
+```
+
 ## À retenir
 
 - Un qubit, ou bit quantique, est l'unité de base de l'information quantique : il peut être réalisé par un système quantique à deux niveaux.
@@ -20372,6 +20935,17 @@ Elle progresse vite à haute température ; une chaleur trop forte mène à la c
 ## Effets secondaires et suites
 
 À haute température, elle peut former de l'acrylamide, à partir d'un acide aminé, l'asparagine, et de sucres. Dans des expériences sur des animaux, de fortes doses d'acrylamide ont provoqué des cancers, mais ces doses étaient bien plus grandes que celles de l'alimentation. On peut réduire la formation d'acrylamide avec des cuissons à plus basse température ou des traitements par enzymes. En médecine, l'hémoglobine glyquée, issue d'une réaction proche, sert de marqueur du diabète à long terme.
+
+```schema
+type: etapes
+titre: La réaction de Maillard
+elements:
+  - titre: Acides aminés
+  - titre: Sucres réducteurs
+  - titre: Chaleur
+    icone: fire
+  - titre: Pigments bruns et arômes
+```
 
 ## À retenir
 
@@ -20462,6 +21036,17 @@ Une molécule, le TMAO, stabilise les protéines et contrecarre l'effet déforma
 
 Beaucoup d'animaux produisent leur propre lumière par bioluminescence, pour chasser, communiquer et se camoufler. Leur métabolisme est lent, et leur croissance aussi, car la nourriture, la neige marine, est rare.
 
+```schema
+type: systeme
+titre: S'adapter à la pression
+centre: Animal des profondeurs
+parties:
+  - nom: Membranes souples
+    role: Plus d'acides gras insaturés.
+  - nom: Molécules protectrices
+  - nom: Vie économe
+```
+
 ## À retenir
 
 - Dans les grands fonds, la pression de l'eau est très élevée et augmente avec la profondeur.
@@ -20548,6 +21133,22 @@ Une projection conforme conserve les angles et les formes locales. Une projectio
 
 La projection de Mercator est cylindrique et conforme : elle transforme les routes à cap constant en lignes droites, ce qui sert à la navigation maritime. Mais elle exagère les surfaces loin de l'équateur : le Groenland y paraît aussi grand que l'Afrique, alors que l'Afrique est bien plus vaste. Une variante, le Web Mercator, est utilisée par les grands services de cartes en ligne. Le choix dépend de l'usage : les cartes nationales emploient souvent la projection de Mercator transverse, les planisphères des compromis comme Winkel tripel ou Robinson.
 
+```schema
+type: comparaison
+titre: Ce qu'une projection peut conserver
+legende: Le théorème de Gauss interdit une carte plane parfaite.
+colonnes:
+  - titre: Les angles
+    points:
+      - Mercator
+  - titre: Les surfaces
+    points:
+      - Projections équivalentes
+  - titre: Pas les deux à la fois
+    points:
+      - Toujours une déformation
+```
+
 ## À retenir
 
 - Le théorème remarquable de Gauss montre qu'on ne peut pas représenter la surface d'une sphère sur un plan sans déformation.
@@ -20633,6 +21234,18 @@ Les fosses et les grands creux hadaux occupent ensemble une surface à peu près
 
 Des crustacés comme des amphipodes, des mysides et des isopodes y atteignent parfois de grandes tailles, et des poissons comme les poissons-limaces y vivent. La première descente habitée au fond du Challenger Deep a été réalisée à bord du Trieste, par Jacques Piccard et le lieutenant Don Walsh.
 
+```schema
+type: chiffres
+titre: La zone hadale
+chiffres:
+  - valeur: 6 000 à 11 000 m
+    texte: de profondeur
+  - valeur: Hadès
+    texte: le dieu grec qui lui donne son nom
+  - valeur: Noir total
+    texte: aucune lumière du Soleil n'y arrive
+```
+
 ## À retenir
 
 - La zone hadale s'étend d'environ 6 000 à 11 000 mètres sous la surface.
@@ -20715,6 +21328,19 @@ Un supraconducteur topologique est un matériau de résistance électrique nulle
 ## Où en est-on ?
 
 On en attend des applications en spintronique, en optoélectronique et en informatique quantique. Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
+
+```schema
+type: comparaison
+titre: L'isolant topologique
+colonnes:
+  - titre: Intérieur
+    points:
+      - Isolant
+  - titre: Surface
+    points:
+      - Conductrice
+      - États de surface protégés
+```
 
 ## À retenir
 
@@ -20804,6 +21430,16 @@ Le génome de l'île montre un excès de mutations nuisibles : suppressions d'AD
 
 L'extinction des mammouths est attribuée à plusieurs facteurs, comme le climat et la chasse, et pas à une cause unique. Les auteurs avertissent que protéger un petit groupe isolé ne suffit pas à éviter l'effondrement génomique, ce qui concerne aussi des espèces menacées aujourd'hui.
 
+```schema
+type: etapes
+titre: Les derniers mammouths de l'île Wrangel
+elements:
+  - titre: Une petite population isolée
+  - titre: Mutations accumulées
+  - titre: Gènes abîmés
+  - titre: Une leçon pour les espèces menacées
+```
+
 ## À retenir
 
 - Les derniers mammouths laineux ont vécu sur l'île Wrangel, bien après leurs cousins du continent.
@@ -20888,6 +21524,18 @@ Un métal kagome est un matériau quantique dont les atomes forment des couches 
 ## Pourquoi on s'y intéresse
 
 La recherche vise l'informatique quantique, les supraconducteurs à spin et l'électronique à faible consommation.
+
+```schema
+type: systeme
+titre: Le réseau kagome
+centre: Métal kagome
+parties:
+  - nom: Triangles
+    role: Qui se touchent par leurs sommets.
+  - nom: Trous hexagonaux
+  - nom: Frustration
+    role: Les électrons ne trouvent pas d'arrangement simple.
+```
 
 ## À retenir
 
@@ -20976,6 +21624,20 @@ Le compresseur, entraîné par un moteur, aspire le gaz et augmente sa pression 
 
 Le même cycle fait fonctionner les climatiseurs, les chambres froides et les pompes à chaleur. Les fluides évoluent : on s'éloigne des composés chlorés à cause de la couche d'ozone, au profit de fluides comme le dioxyde de carbone.
 
+```schema
+type: cycle
+titre: Le cycle du réfrigérateur
+legende: Il déplace la chaleur de l'intérieur vers l'extérieur.
+elements:
+  - titre: Évaporateur
+    texte: Le fluide absorbe la chaleur à l'intérieur.
+    icone: snowflake
+  - titre: Compresseur
+  - titre: Condenseur
+    texte: La chaleur est rejetée derrière l'appareil.
+  - titre: Détendeur
+```
+
 ## À retenir
 
 - Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur.
@@ -21057,6 +21719,17 @@ L'acier est plus dense que l'eau, mais la coque enferme de l'air : la masse volu
 ## Sous-marins, ballons et stabilité
 
 Un sous-marin règle sa flottabilité en remplissant ou en vidant des ballasts d'eau de mer. La stabilité d'un navire dépend de la position de son centre de gravité par rapport à son centre de poussée : plus le centre de gravité est bas, plus il est stable. Le même principe fait monter une montgolfière : l'air chaud la rend plus légère que l'air qui l'entoure. Selon la tradition, Archimède aurait utilisé ce principe pour vérifier si la couronne du roi Hiéron II cachait de l'argent.
+
+```schema
+type: etapes
+titre: La poussée d'Archimède
+elements:
+  - titre: La coque déplace de l'eau
+  - titre: L'eau pousse vers le haut
+    texte: Autant que le poids de l'eau déplacée.
+  - titre: Le bateau flotte
+    texte: Si la poussée égale son poids.
+```
 
 ## À retenir
 
@@ -21140,6 +21813,17 @@ Dans l'arc principal, le rouge est à l'extérieur et le violet à l'intérieur.
 ## Un arc rien qu'à vous
 
 Un arc-en-ciel n'existe pas à un endroit précis : chaque observateur voit son propre arc, selon sa position par rapport au Soleil et aux gouttes.
+
+```schema
+type: etapes
+titre: Un arc-en-ciel
+elements:
+  - titre: La lumière entre dans la goutte
+    texte: Elle dévie.
+  - titre: Les couleurs se séparent
+  - titre: Réflexion au fond de la goutte
+  - titre: Sortie vers l'observateur
+```
 
 ## À retenir
 
@@ -21229,6 +21913,21 @@ Au lever et au coucher du Soleil, la lumière traverse beaucoup plus d'atmosphè
 
 La couleur du ciel dépend de la composition de l'atmosphère : sur Mars, le ciel de jour paraît orangé et devient bleu-gris autour du Soleil au crépuscule.
 
+```schema
+type: comparaison
+titre: Le bleu du jour, le rouge du soir
+colonnes:
+  - titre: En journée
+    icone: sun
+    points:
+      - Le bleu est le plus diffusé par l'air
+      - Le ciel paraît bleu
+  - titre: Au coucher
+    points:
+      - La lumière traverse beaucoup d'air
+      - Le bleu est perdu, le rouge reste
+```
+
 ## À retenir
 
 - La lumière du Soleil est diffusée dans toutes les directions par les gaz et les particules de l'air.
@@ -21315,6 +22014,16 @@ Troisième loi : quand un objet exerce une force sur un autre, le second exerce 
 ## Jusqu'où ça marche
 
 Ces lois décrivent très bien les objets de la vie courante, mais elles cessent d'être valables près de la vitesse de la lumière et à l'échelle des atomes.
+
+```schema
+type: etapes
+titre: Les trois lois du mouvement
+elements:
+  - titre: Inertie
+    texte: Sans force, le mouvement continue.
+  - titre: Force et accélération
+  - titre: Action et réaction
+```
 
 ## À retenir
 
@@ -21403,6 +22112,18 @@ L'eau, les graisses et les sucres absorbent les micro-ondes ; les aliments riche
 ## Garder les ondes dans la boîte
 
 L'enceinte métallique agit comme une cage de Faraday : les trous de la grille de la porte sont bien plus petits que la longueur d'onde, donc les micro-ondes ne passent pas, alors que la lumière visible passe. Aux États-Unis, la réglementation impose deux systèmes de verrouillage indépendants qui coupent les micro-ondes dès que la porte s'ouvre. L'énergie des micro-ondes se change en chaleur dans l'aliment, qui ne devient pas radioactif. L'effet a été découvert par hasard par Percy Spencer, ingénieur chez Raytheon : près d'un radar en marche, une barre chocolatée a fondu dans sa poche.
+
+```schema
+type: etapes
+titre: Le four à micro-ondes
+elements:
+  - titre: Champ électrique alternatif
+  - titre: Les molécules d'eau tournent
+    texte: Pour s'aligner sans cesse.
+  - titre: Frottements
+  - titre: Chaleur
+    icone: fire
+```
 
 ## À retenir
 
