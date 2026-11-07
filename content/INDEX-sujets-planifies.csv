@@ -342,7 +342,7 @@ droit;droit-et-justice/droit-prive/droit-civil;Le mariage, le PACS et le concubi
 droit;droit-et-justice/droit-prive/droit-civil;L'héritage et la réserve héréditaire;heritage-reserve-hereditaire;2;non;planned
 droit;droit-et-justice/droit-prive/droit-civil;Le divorce;divorce;2;non;planned
 droit;droit-et-justice/droit-prive/droit-civil;L'autorité parentale;autorite-parentale;2;non;planned
-droit;droit-et-justice/droit-prive/droit-civil;Le bail d'habitation;bail-habitation;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le bail d'habitation;bail-habitation;2;non;published
 droit;droit-et-justice/droit-prive/droit-civil;La tutelle et la curatelle;tutelle-curatelle;2;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;Contravention, délit et crime;contravention-delit-crime;2;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;La légitime défense;legitime-defense;2;non;planned
@@ -1908,7 +1908,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La mise sous vide comme methode de conservation;la-mise-sous-vide-comme-methode-de-conservation;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;L'irradiation alimentaire, principe et securite;l-irradiation-alimentaire-principe-et-securite;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le sucre, confitures et fruits confits;la-conservation-par-le-sucre-confitures-et-fruits-confits;2;oui;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le sel, salaisons et saumures;la-conservation-par-le-sel-salaisons-et-saumures;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le sel, salaisons et saumures;la-conservation-par-le-sel-salaisons-et-saumures;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le vinaigre, les pickles et marinades;la-conservation-par-le-vinaigre-les-pickles-et-marinades;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;L'atmosphere modifiee dans les emballages alimentaires;l-atmosphere-modifiee-dans-les-emballages-alimentaires;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La sterilisation UHT du lait;la-sterilisation-uht-du-lait;2;oui;planned
@@ -2921,7 +2921,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'anemie, q
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le systeme lymphatique et son role circulatoire;le-systeme-lymphatique-et-son-role-circulatoire;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'oedeme, quand les fluides s'accumulent;l-oedeme-quand-les-fluides-s-accumulent;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le choc hemorragique, reconnaitre l'urgence;le-choc-hemorragique-reconnaitre-l-urgence;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le garrot, comment et quand l'utiliser;le-garrot-comment-et-quand-l-utiliser;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le garrot, comment et quand l'utiliser;le-garrot-comment-et-quand-l-utiliser;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Comment le sang s'arrête-t-il de couler tout seul après une coupure ?;comment-le-sang-s-arrete-t-il-de-couler-tout-seul-apres-une-coupure;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les anticoagulants et leur role therapeutique;les-anticoagulants-et-leur-role-therapeutique;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le rythme cardiaque au repos et a l'effort;le-rythme-cardiaque-au-repos-et-a-l-effort;3;non;planned
@@ -2974,7 +2974,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les ulceres gastriq
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La bacterie Helicobacter pylori en detail;la-bacterie-helicobacter-pylori-en-detail;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les hemorroides, une affection frequente et benigne;les-hemorroides-une-affection-frequente-et-benigne;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La nutrition enterale et parenterale en situation d'urgence;la-nutrition-enterale-et-parenterale-en-situation-d-urgence;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La rehydratation orale en cas de diarrhee severe;la-rehydratation-orale-en-cas-de-diarrhee-severe;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La réhydratation orale en cas de diarrhée sévère;la-rehydratation-orale-en-cas-de-diarrhee-severe;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le rythme intestinal et sa variabilite normale;le-rythme-intestinal-et-sa-variabilite-normale;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les intolerances alimentaires, mecanismes distincts des allergies;les-intolerances-alimentaires-mecanismes-distincts-des-allergies;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le cerveau, les grandes zones et leurs fonctions;le-cerveau-les-grandes-zones-et-leurs-fonctions;2;non;planned
@@ -3096,11 +3096,11 @@ corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La desinfectio
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le suivi epidemiologique et la detection precoce des epidemies;le-suivi-epidemiologique-et-la-detection-precoce-des-epidemies;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La leptospirose, une maladie transmise par les rongeurs;la-leptospirose-une-maladie-transmise-par-les-rongeurs;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le tetanos neonatal et sa prevention;le-tetanos-neonatal-et-sa-prevention;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La gestion d'une plaie pour eviter une infection;la-gestion-d-une-plaie-pour-eviter-une-infection;2;oui;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La gestion d'une plaie pour éviter une infection;la-gestion-d-une-plaie-pour-eviter-une-infection;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les signes precoces d'une depression;les-signes-precoces-d-une-depression;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le deuil et ses etapes psychologiques;le-deuil-et-ses-etapes-psychologiques;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le stress aigu contre le stress chronique;le-stress-aigu-contre-le-stress-chronique;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les techniques de gestion du stress au quotidien;les-techniques-de-gestion-du-stress-au-quotidien;2;oui;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les techniques de gestion du stress au quotidien;les-techniques-de-gestion-du-stress-au-quotidien;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le trouble obsessionnel compulsif;le-trouble-obsessionnel-compulsif;3;non;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les phobies specifiques, mecanismes et traitements;les-phobies-specifiques-mecanismes-et-traitements;3;non;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;L'anxiete generalisee, une inquietude permanente;l-anxiete-generalisee-une-inquietude-permanente;3;non;planned
@@ -3314,7 +3314,7 @@ droit;droit-et-justice/droit-prive/droit-civil;Le droit civil et les animaux, un
 droit;droit-et-justice/droit-prive/droit-civil;La clause penale dans un contrat;la-clause-penale-dans-un-contrat;3;non;planned
 droit;droit-et-justice/droit-prive/droit-civil;Le droit de visite et d'hebergement apres une separation;le-droit-de-visite-et-d-hebergement-apres-une-separation;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-civil;La renonciation a succession;la-renonciation-a-succession;3;non;planned
-droit;droit-et-justice/droit-prive/droit-civil;Le contrat d'assurance, principes de base;le-contrat-d-assurance-principes-de-base;2;oui;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le contrat d'assurance, principes de base;le-contrat-d-assurance-principes-de-base;2;oui;published
 droit;droit-et-justice/droit-prive/droit-civil;La protection juridique des donnees personnelles en droit civil;la-protection-juridique-des-donnees-personnelles-en-droit-civil;3;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;Le principe de legalite des delits et des peines;le-principe-de-legalite-des-delits-et-des-peines;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-penal;L'intention et la faute en droit penal;l-intention-et-la-faute-en-droit-penal;2;oui;planned
@@ -4256,7 +4256,7 @@ espace;espace-et-astronomie/astrophysique/etoiles;Les supernovas de type Ia comm
 espace;espace-et-astronomie/astrophysique/etoiles;La nucleosynthese stellaire, l'origine des elements chimiques;la-nucleosynthese-stellaire-l-origine-des-elements-chimiques;2;non;planned
 espace;espace-et-astronomie/astrophysique/etoiles;Les nebuleuses, berceaux et tombeaux des etoiles;les-nebuleuses-berceaux-et-tombeaux-des-etoiles;3;non;planned
 espace;espace-et-astronomie/astrophysique/etoiles;Se reperer dans le ciel nocturne sans instrument;se-reperer-dans-le-ciel-nocturne-sans-instrument;2;oui;planned
-espace;espace-et-astronomie/astrophysique/etoiles;L'etoile polaire et son role dans l'orientation;l-etoile-polaire-et-son-role-dans-l-orientation;2;oui;planned
+espace;espace-et-astronomie/astrophysique/etoiles;L'étoile Polaire et l'orientation sans boussole;l-etoile-polaire-et-son-role-dans-l-orientation;2;oui;published
 espace;espace-et-astronomie/astrophysique/etoiles;Les constellations, un decoupage culturel du ciel;les-constellations-un-decoupage-culturel-du-ciel;2;oui;planned
 espace;espace-et-astronomie/astrophysique/etoiles;La couleur des etoiles et ce qu'elle revele;la-couleur-des-etoiles-et-ce-qu-elle-revele;2;non;planned
 espace;espace-et-astronomie/astrophysique/etoiles;La luminosite apparente contre la luminosite reelle d'une etoile;la-luminosite-apparente-contre-la-luminosite-reelle-d-une-etoile;3;non;planned
@@ -4689,7 +4689,7 @@ geographie;geographie-et-territoires/geographie-physique/reliefs;Les canyons et 
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les deserts, formation et diversite des paysages;les-deserts-formation-et-diversite-des-paysages;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les plaines et leur importance agricole;les-plaines-et-leur-importance-agricole;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les deltas, un relief forme par les sediments fluviaux;les-deltas-un-relief-forme-par-les-sediments-fluviaux;2;non;planned
-geographie;geographie-et-territoires/geographie-physique/reliefs;Lire une carte topographique, principes de base;lire-une-carte-topographique-principes-de-base;2;oui;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Lire une carte topographique et utiliser une boussole;lire-une-carte-topographique-principes-de-base;2;oui;published
 geographie;geographie-et-territoires/geographie-physique/reliefs;L'orientation grace au relief environnant;l-orientation-grace-au-relief-environnant;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les glaciers et leur role dans le facconnage des paysages;les-glaciers-et-leur-role-dans-le-facconnage-des-paysages;2;non;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Le recul des glaciers et ses consequences;le-recul-des-glaciers-et-ses-consequences;2;non;planned
@@ -4857,7 +4857,7 @@ industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numerique dans 
 industries;industries/industrie-4-0/jumeaux-numeriques;L'histoire de la premiere maquette numerique industrielle;l-histoire-de-la-premiere-maquette-numerique-industrielle;3;non;planned
 industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numerique et la transition energetique des batiments;le-jumeau-numerique-et-la-transition-energetique-des-batiments;3;non;planned
 industries;industries/industrie-4-0/jumeaux-numeriques;Les competences necessaires pour concevoir un jumeau numerique;les-competences-necessaires-pour-concevoir-un-jumeau-numerique;3;non;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication traditionnelle du savon;la-fabrication-traditionnelle-du-savon;2;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication traditionnelle du savon;la-fabrication-traditionnelle-du-savon;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;Comment fabrique-t-on des engrais avec l'azote de l'air ?;comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'acide sulfurique;la-fabrication-de-l-acide-sulfurique;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La soude caustique, fabrication et usages;la-soude-caustique-fabrication-et-usages;2;oui;planned
@@ -7558,7 +7558,7 @@ alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alime
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Le risque de contamination par les nuisibles dans le stockage alimentaire;le-risque-de-contamination-par-les-nuisibles-dans-le-stockage-alimentaire;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire lors de la cuisson au barbecue;la-securite-alimentaire-lors-de-la-cuisson-au-barbecue;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les regles de securite pour la conservation du lait maternel;les-regles-de-securite-pour-la-conservation-du-lait-maternel;2;oui;planned
-alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire des plantes sauvages comestibles;la-securite-alimentaire-des-plantes-sauvages-comestibles;2;oui;planned
+alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les plantes sauvages comestibles et leurs dangers;la-securite-alimentaire-des-plantes-sauvages-comestibles;2;oui;published
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Le risque de botulisme dans les conserves maison mal preparees;le-risque-de-botulisme-dans-les-conserves-maison-mal-preparees;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire des produits importes de longue distance;la-securite-alimentaire-des-produits-importes-de-longue-distance;3;non;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les regles d'hygiene des mains avant et pendant la preparation des repas;les-regles-d-hygiene-des-mains-avant-et-pendant-la-preparation-des-repas;2;oui;planned
@@ -12132,3 +12132,13 @@ sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Investir 
 sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Négocier efficacement;negocier-efficacement;;non;published
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Former de bonnes habitudes;former-de-bonnes-habitudes;;non;published
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Gérer son temps et ses priorités;gerer-son-temps-priorites;;non;published
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique;Les priorités de survie, la règle des trois;regle-des-trois-priorites-survie;;non;published
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique;Le kit d'urgence pour tenir 72 heures;kit-urgence-72-heures;;non;published
+alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;Purifier l'eau en situation d'urgence;purifier-eau-situation-urgence;;non;published
+sciences-fondamentales;sciences-fondamentales/chimie;Allumer et entretenir un feu;allumer-entretenir-feu;;non;published
+corps-humain;corps-humain-et-sante/physiologie;Hypothermie et coup de chaleur;hypothermie-coup-de-chaleur;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Parler en public sans paniquer;prise-de-parole-en-public;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;L'écoute active et la communication bienveillante;ecoute-active-communication;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;Réussir un entretien d'embauche;reussir-entretien-embauche;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;Construire son réseau professionnel;construire-son-reseau-professionnel;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Prendre de meilleures décisions;prendre-de-meilleures-decisions;;non;published

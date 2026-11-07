@@ -5640,18 +5640,131 @@ status: planned
 
 ---
 type: article
-title: Lire une carte topographique, principes de base
+title: Lire une carte topographique et utiliser une boussole
 slug: lire-une-carte-topographique-principes-de-base
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
-  Comment interpreter les courbes de niveau pour comprendre un relief sans le voir.
-tags: [reliefs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une carte topographique représente le relief par des courbes de niveau, les chemins, les cours
+  d'eau et les bâtiments. Avec l'échelle, la légende et une boussole, on sait où l'on est, où l'on
+  va et par où passer, même sans réseau ni GPS.
+tags: [reliefs]
+relatedArticles: [l-etoile-polaire-et-son-role-dans-l-orientation, regle-des-trois-priorites-survie, kit-urgence-72-heures]
+sources:
+  - title: "Carte topographique"
+    url: "https://fr.wikipedia.org/wiki/Carte_topographique"
+    publisher: "Wikipédia"
+  - title: "Courbe de niveau"
+    url: "https://fr.wikipedia.org/wiki/Courbe_de_niveau"
+    publisher: "Wikipédia"
+  - title: "Déclinaison magnétique"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9clinaison_magn%C3%A9tique"
+    publisher: "Wikipédia"
+  - title: "Orienteering"
+    url: "https://en.wikipedia.org/wiki/Orienteering"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur une carte au 1/25 000, à quelle distance réelle correspond 1 cm ?"
+    options:
+      - "250 mètres"
+      - "25 mètres"
+      - "25 kilomètres"
+    answer: 1
+    explanation: >
+      1 cm sur la carte représente 25 000 cm sur le terrain, soit 250 mètres. Quatre centimètres
+      font donc un kilomètre.
+  - question: "Que signifient des courbes de niveau très serrées ?"
+    options:
+      - "Un terrain plat"
+      - "Une pente raide"
+      - "Une forêt"
+    answer: 2
+    explanation: >
+      Chaque courbe relie des points de même altitude. Si elles sont serrées, on monte beaucoup sur
+      une courte distance.
+  - question: "Pourquoi la boussole n'indique-t-elle pas exactement le nord de la carte ?"
+    options:
+      - "Parce qu'elle est souvent cassée"
+      - "Parce que les cartes sont fausses"
+      - "Parce que le pôle Nord magnétique ne coïncide pas avec le pôle Nord géographique"
+    answer: 3
+    explanation: >
+      L'écart, la déclinaison magnétique, varie selon le lieu et le temps. Il est indiqué sur les
+      cartes et reste faible en France aujourd'hui.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une **carte topographique** est une représentation précise du terrain vu d'en haut : relief, cours
+d'eau, forêts, chemins, bâtiments. Elle permet de savoir **où l'on est**, **où l'on va** et **par où
+passer**, sans réseau téléphonique ni GPS. Trois clés suffisent pour la lire : l'**échelle**, la
+**légende** et les **courbes de niveau**. Associée à une **boussole**, elle permet de suivre une
+direction précise, même dans le brouillard.
+
+## L'échelle
+
+L'échelle indique le rapport entre la carte et le terrain. Sur une carte au **1/25 000**, la plus
+utilisée pour la randonnée en France, **1 cm représente 250 m**, et 4 cm font un kilomètre. Sur une
+carte au 1/50 000, 1 cm représente 500 m. Plus le second nombre est petit, plus la carte est
+détaillée.
+
+Pour estimer un temps de marche, on compte environ 4 à 5 km par heure sur le plat, et l'on ajoute
+environ une heure pour 300 à 400 m de montée.
+
+## La légende
+
+Chaque couleur et chaque symbole ont un sens, rappelé en bordure de carte :
+
+- **le bleu** pour l'eau : rivières, sources, lacs ;
+- **le vert** pour la végétation : forêts, broussailles ;
+- **le noir et le rouge** pour les routes, les chemins, les bâtiments ;
+- **le brun ou l'orangé** pour les courbes de niveau et le relief.
+
+Les **sources** et les **points d'eau**, les **refuges** et les **habitations isolées** sont des
+informations précieuses en situation difficile.
+
+## Les courbes de niveau
+
+Une **courbe de niveau** relie tous les points situés à la même altitude. Deux courbes voisines sont
+séparées par une différence d'altitude constante, l'**équidistance**, souvent de 5 ou 10 m sur les
+cartes au 1/25 000.
+
+- Courbes **serrées** : pente raide.
+- Courbes **espacées** : terrain doux.
+- Courbes en **V pointant vers le haut** de la pente : un vallon, souvent avec un ruisseau.
+- Courbes en **V pointant vers le bas** : une crête ou un éperon.
+- Courbes fermées concentriques : un sommet.
+
+[Emplacement image : relief d'une colline en perspective et ses courbes de niveau correspondantes sur la carte, légende et texte alternatif à fournir ultérieurement.]
+
+## La boussole
+
+L'aiguille d'une boussole s'aligne sur le champ magnétique terrestre et pointe vers le **nord
+magnétique**. Celui-ci ne coïncide pas exactement avec le nord des cartes : l'écart s'appelle la
+**déclinaison magnétique**. Elle est indiquée sur les cartes, varie selon le lieu et lentement avec le
+temps, et elle est faible en France aujourd'hui, de l'ordre de quelques degrés.
+
+On éloigne la boussole des objets métalliques et des téléphones, qui la dévient.
+
+## Trois gestes de base
+
+1. **Orienter la carte** : poser la boussole sur la carte et tourner l'ensemble jusqu'à ce que le nord
+   de la carte et l'aiguille soient alignés. Le paysage et la carte sont alors dans le même sens.
+2. **Prendre un azimut** : poser le bord de la boussole entre sa position et sa destination sur la
+   carte, tourner le cadran pour aligner ses lignes sur le nord de la carte, puis tenir la boussole à
+   plat et pivoter sur soi jusqu'à ce que l'aiguille s'aligne dans la flèche du cadran. La flèche de
+   direction indique où marcher. On vise un repère lointain, on l'atteint, et l'on recommence.
+3. **Se localiser** : viser deux ou trois repères reconnaissables, sommet, clocher, pylône, relever
+   leur direction et tracer ces lignes sur la carte. Leur croisement donne sa position.
+
+## À retenir
+
+- L'échelle relie la carte au terrain : au 1/25 000, 1 cm représente 250 m.
+- La légende donne le sens des couleurs et des symboles, dont les points d'eau et les refuges.
+- Les courbes de niveau relient les points de même altitude : serrées, la pente est raide.
+- La boussole indique le nord magnétique, légèrement décalé du nord des cartes.
+- Orienter la carte, suivre un azimut et se localiser par recoupement sont les trois gestes de base.
 
 ---
 type: article

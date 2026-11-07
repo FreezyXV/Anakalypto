@@ -14829,3 +14829,634 @@ vacances ne sont pas du temps perdu : ils rendent le reste plus efficace.
 - Des délais courts empêchent le travail de s'étendre, selon la loi de Parkinson.
 - Dire non et préserver son énergie protègent ce qui compte vraiment.
 
+---
+type: article
+title: Parler en public sans paniquer
+slug: prise-de-parole-en-public
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Le trac est normal, même chez les orateurs expérimentés. Un message clair, une structure simple,
+  des répétitions à voix haute et quelques techniques de respiration suffisent à transformer une
+  épreuve en moment maîtrisé.
+tags: [groupes-et-normes]
+relatedArticles: [ecoute-active-communication, reussir-entretien-embauche, les-techniques-de-gestion-du-stress-au-quotidien, negocier-efficacement]
+sources:
+  - title: "Glossophobie"
+    url: "https://fr.wikipedia.org/wiki/Glossophobie"
+    publisher: "Wikipédia"
+  - title: "Public speaking"
+    url: "https://en.wikipedia.org/wiki/Public_speaking"
+    publisher: "Wikipedia"
+  - title: "Rhétorique"
+    url: "https://fr.wikipedia.org/wiki/Rh%C3%A9torique"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle est la première chose à définir avant de préparer une intervention ?"
+    options:
+      - "Le message principal que le public doit retenir"
+      - "La couleur des diapositives"
+      - "Les blagues"
+    answer: 1
+    explanation: >
+      Si l'on ne peut pas résumer son propos en une phrase, le public ne le pourra pas non plus.
+      Tout le reste se construit autour de ce message.
+  - question: "Pourquoi répéter à voix haute plutôt que dans sa tête ?"
+    options:
+      - "Pour déranger les voisins"
+      - "Parce que cela révèle les passages flous, la durée réelle et habitue la voix"
+      - "Parce que c'est obligatoire"
+    answer: 2
+    explanation: >
+      Une phrase qui semble claire en pensée peut buter à l'oral. La répétition rend aussi plus
+      sûr de soi.
+  - question: "Que faire du trac juste avant de parler ?"
+    options:
+      - "Le cacher en parlant très vite"
+      - "Boire un café de plus"
+      - "Respirer lentement en allongeant l'expiration et l'accepter comme une énergie normale"
+    answer: 3
+    explanation: >
+      Une respiration lente calme le rythme cardiaque. Voir le trac comme de l'excitation plutôt
+      que comme un danger aide à mieux parler.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Présenter un exposé, défendre un projet, parler en réunion ou à un mariage : prendre la parole devant
+d'autres fait partie de la vie, et beaucoup de gens le redoutent plus que presque tout. Le **trac** est
+une réaction normale, même chez les orateurs expérimentés. Il se maîtrise avec une méthode simple :
+**un message clair**, **une structure courte**, des **répétitions à voix haute** et quelques techniques
+pour le corps et la voix. On ne naît pas bon orateur : on le devient en pratiquant.
+
+## Préparer le fond
+
+1. **Connaître son public** : qui sont-ils, que savent-ils déjà, qu'attendent-ils ?
+2. **Fixer un message principal**, en une phrase : ce que le public doit retenir s'il ne retient
+   qu'une chose.
+3. **Choisir trois idées au plus** pour le soutenir. Au-delà, le public décroche.
+4. **Illustrer** chaque idée par un exemple, une histoire, un chiffre parlant.
+5. **Construire une ouverture** qui capte l'attention, une question, une anecdote, un chiffre, et une
+   **conclusion** qui répète le message et dit ce qu'on attend du public.
+
+## Préparer la forme
+
+- **Des notes courtes**, quelques mots-clés par idée, plutôt qu'un texte rédigé que l'on lirait.
+- **Des diapositives sobres**, s'il y en a : une idée par diapositive, peu de texte, des images. Elles
+  soutiennent l'orateur, elles ne le remplacent pas.
+- **Répéter à voix haute**, debout, au moins deux ou trois fois, en se chronométrant. On peut se filmer
+  ou s'entraîner devant un proche.
+- **Prévoir les questions** difficiles et ses réponses.
+
+[Emplacement image : structure d'une intervention avec ouverture, message principal, trois idées illustrées et conclusion, légende et texte alternatif à fournir ultérieurement.]
+
+## Apprivoiser le trac
+
+Le trac est une réaction de stress : le cœur accélère, les mains tremblent, la bouche s'assèche. Il ne
+se voit pas autant qu'on le croit.
+
+- **Respirer** lentement par le ventre, en allongeant l'expiration, pendant une ou deux minutes avant
+  de commencer.
+- **Arriver en avance** pour découvrir la salle et vérifier le matériel.
+- **Bien connaître les deux premières minutes** : le trac baisse une fois lancé.
+- **Voir le trac comme de l'énergie** : des études suggèrent que se dire « je suis excité » plutôt que
+  « je suis stressé » aide à mieux performer.
+- Garder un verre d'eau à portée de main.
+
+## Pendant l'intervention
+
+- **Regarder le public**, en balayant la salle, en s'arrêtant sur quelques visages bienveillants.
+- **Parler plus lentement** que d'habitude, et articuler.
+- **Utiliser les silences** : une pause après une idée importante lui donne du poids, et laisse le
+  temps de respirer.
+- **Se tenir stable**, les pieds ancrés, les mains libres pour accompagner le propos.
+- **Rester soi-même** : un oubli ou une hésitation passent inaperçus si l'on continue calmement.
+
+## Répondre aux questions
+
+On écoute la question jusqu'au bout, on la reformule si besoin, on répond brièvement. Si l'on ne sait
+pas, on le dit simplement et l'on propose de revenir avec la réponse : c'est plus crédible qu'une
+improvisation.
+
+## Progresser
+
+La prise de parole s'apprend comme un sport : en pratiquant souvent, sur des enjeux d'abord faibles.
+Les clubs d'art oratoire, le théâtre d'improvisation ou les présentations en réunion sont autant
+d'occasions de s'entraîner.
+
+## À retenir
+
+- Le trac est normal et se voit moins qu'on ne le croit.
+- On prépare un message principal en une phrase et trois idées au plus, illustrées.
+- On répète à voix haute, debout et chronométré.
+- Respirer lentement et bien connaître son début aident à apprivoiser le trac.
+- Regarder le public, parler lentement et utiliser les silences rendent le propos plus fort.
+
+---
+type: article
+title: L'écoute active et la communication bienveillante
+slug: ecoute-active-communication
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Bien communiquer commence par bien écouter. Reformuler, poser des questions ouvertes, exprimer
+  ses besoins sans accuser : ces techniques issues de la psychologie apaisent les conflits et
+  renforcent les relations, au travail comme en famille.
+tags: [groupes-et-normes]
+relatedArticles: [prise-de-parole-en-public, negocier-efficacement, construire-son-reseau-professionnel, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte]
+sources:
+  - title: "Écoute active"
+    url: "https://fr.wikipedia.org/wiki/%C3%89coute_active"
+    publisher: "Wikipédia"
+  - title: "Communication non violente"
+    url: "https://fr.wikipedia.org/wiki/Communication_non_violente"
+    publisher: "Wikipédia"
+  - title: "Carl Rogers"
+    url: "https://fr.wikipedia.org/wiki/Carl_Rogers"
+    publisher: "Wikipédia"
+  - title: "Active listening"
+    url: "https://en.wikipedia.org/wiki/Active_listening"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que reformuler, dans l'écoute active ?"
+    options:
+      - "Redire avec ses propres mots ce que l'autre a dit, pour vérifier qu'on a bien compris"
+      - "Répéter mot pour mot ses phrases"
+      - "Donner tout de suite son avis"
+    answer: 1
+    explanation: >
+      La reformulation montre à l'autre qu'il a été entendu, et corrige les malentendus avant
+      qu'ils ne s'installent.
+  - question: "Quelle phrase suit la méthode de la communication non violente ?"
+    options:
+      - "Tu es toujours en retard, tu te moques de moi."
+      - "Quand tu arrives à 20 h alors qu'on avait dit 19 h, je suis inquiet, j'ai besoin de pouvoir compter sur toi ; peux-tu me prévenir si tu as du retard ?"
+      - "Tu ne fais jamais d'efforts."
+    answer: 2
+    explanation: >
+      Elle décrit un fait, exprime un sentiment, nomme un besoin et formule une demande précise,
+      sans juger la personne.
+  - question: "Pourquoi les mots « toujours » et « jamais » enveniment-ils une dispute ?"
+    options:
+      - "Parce qu'ils sont trop longs"
+      - "Parce qu'ils sont grossiers"
+      - "Parce qu'ils généralisent, sont presque toujours faux et poussent l'autre à se défendre"
+    answer: 3
+    explanation: >
+      L'autre cherche alors un contre-exemple au lieu d'écouter le problème réel.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Dans une conversation, la plupart des gens n'écoutent pas vraiment : ils préparent leur réponse. Les
+malentendus, les tensions et les conflits naissent souvent là. L'**écoute active**, décrite par le
+psychologue américain Carl Rogers dans les années 1950, consiste à se concentrer sur ce que dit l'autre,
+à **reformuler** et à **poser des questions** pour le comprendre. La **communication non violente**,
+formalisée par Marshall Rosenberg, aide à exprimer ses propres besoins **sans accuser**. Ces techniques
+s'apprennent et changent la qualité des relations.
+
+## Écouter vraiment
+
+- **Se rendre disponible** : poser son téléphone, regarder la personne, ne pas faire autre chose.
+- **Laisser finir** sans interrompre, même si l'on n'est pas d'accord.
+- **Montrer qu'on suit** : hochements de tête, petits mots d'encouragement.
+- **Reformuler** : « Si je comprends bien, tu as l'impression que… ». L'autre se sent entendu, et l'on
+  corrige tout de suite un malentendu.
+- **Poser des questions ouvertes**, qui appellent plus qu'un oui ou un non : « Comment as-tu vécu
+  ça ? », « Qu'est-ce qui serait important pour toi ? ».
+- **Accueillir l'émotion** avant de chercher une solution : « Je vois que ça t'a vraiment blessé. »
+  Beaucoup de gens veulent d'abord être compris, pas conseillés.
+
+## S'exprimer sans accuser
+
+La **communication non violente** propose quatre étapes :
+
+1. **L'observation** : décrire un fait précis, sans jugement. « Tu es arrivé à 20 h » plutôt que « Tu
+   es toujours en retard ».
+2. **Le sentiment** : dire ce qu'on ressent. « J'étais inquiet. »
+3. **Le besoin** : nommer ce qui est important pour soi. « J'ai besoin de pouvoir compter sur toi. »
+4. **La demande** : proposer une action concrète et réalisable. « Peux-tu me prévenir par message si
+   tu as du retard ? »
+
+Parler en **« je »** plutôt qu'en **« tu »** évite que l'autre se sente attaqué et se défende.
+
+[Emplacement image : comparaison d'une phrase accusatrice et de sa reformulation en quatre étapes observation, sentiment, besoin, demande, légende et texte alternatif à fournir ultérieurement.]
+
+## Les pièges à éviter
+
+- **Les généralisations** « toujours » et « jamais » : presque toujours fausses, elles poussent
+  l'autre à chercher un contre-exemple.
+- **Les étiquettes** : « Tu es égoïste » attaque la personne au lieu du comportement.
+- **Les conseils non demandés** et les « à ta place ».
+- **Ressortir le passé** au milieu d'une dispute.
+- **Le mépris** et le sarcasme, que les recherches sur les couples identifient comme particulièrement
+  destructeurs pour une relation.
+
+## Désamorcer un conflit
+
+- **Faire une pause** quand les émotions sont trop fortes, en convenant de reprendre plus tard.
+- **Chercher le problème commun** plutôt que le coupable : « Comment fait-on pour que ça n'arrive
+  plus ? »
+- **Reconnaître sa part**, même petite : cela invite l'autre à faire de même.
+- **Se mettre d'accord** sur une solution concrète, puis faire le point quelques jours après.
+
+## Au travail
+
+Ces techniques servent aussi en entreprise : comprendre le vrai besoin d'un client ou d'un manager,
+donner un retour sur un travail sans blesser, recevoir une critique sans se braquer. Un bon retour
+décrit un fait, son effet et propose une piste d'amélioration.
+
+## À retenir
+
+- L'écoute active consiste à se concentrer sur l'autre, reformuler et poser des questions ouvertes.
+- Accueillir l'émotion de l'autre passe souvent avant la recherche de solutions.
+- La communication non violente enchaîne observation, sentiment, besoin et demande.
+- Parler en « je » plutôt qu'en « tu » évite que l'autre se sente attaqué.
+- Généralisations, étiquettes et mépris enveniment les conflits.
+
+---
+type: article
+title: Réussir un entretien d'embauche
+slug: reussir-entretien-embauche
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Un entretien se prépare comme un examen : connaître l'entreprise, relier son parcours au poste,
+  raconter ses expériences avec la méthode STAR et préparer ses propres questions. La relance après
+  l'entretien fait souvent la différence.
+tags: [education-et-mobilite]
+relatedArticles: [construire-son-reseau-professionnel, prise-de-parole-en-public, negocier-efficacement, le-bulletin-de-salaire-comment-le-lire]
+sources:
+  - title: "Entretien d'embauche"
+    url: "https://fr.wikipedia.org/wiki/Entretien_d%27embauche"
+    publisher: "Wikipédia"
+  - title: "Situation, task, action, result"
+    url: "https://en.wikipedia.org/wiki/Situation,_task,_action,_result"
+    publisher: "Wikipedia"
+  - title: "Job interview"
+    url: "https://en.wikipedia.org/wiki/Job_interview"
+    publisher: "Wikipedia"
+  - title: "Discrimination à l'embauche"
+    url: "https://fr.wikipedia.org/wiki/Discrimination_%C3%A0_l%27embauche"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que signifie la méthode STAR pour raconter une expérience ?"
+    options:
+      - "Situation, tâche, action, résultat"
+      - "Sourire, travailler, attendre, répondre"
+      - "Style, talent, ambition, réussite"
+    answer: 1
+    explanation: >
+      On décrit le contexte, sa mission, ce qu'on a fait personnellement et le résultat obtenu,
+      chiffré si possible.
+  - question: "Pourquoi préparer des questions à poser au recruteur ?"
+    options:
+      - "Pour gagner du temps"
+      - "Parce que cela montre son intérêt et permet de vérifier que le poste nous convient"
+      - "Pour piéger le recruteur"
+    answer: 2
+    explanation: >
+      Un entretien est un échange dans les deux sens. Ne poser aucune question donne souvent une
+      impression de désintérêt.
+  - question: "Un recruteur peut-il légalement poser des questions sur un projet de grossesse en France ?"
+    options:
+      - "Oui, toujours"
+      - "Oui, s'il le note par écrit"
+      - "Non, les questions sans lien avec le poste et les compétences sont interdites"
+    answer: 3
+    explanation: >
+      Le code du travail interdit de discriminer selon la situation de famille, la grossesse,
+      l'origine, la religion et d'autres critères.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Un entretien d'embauche n'est pas un interrogatoire : c'est une conversation où le recruteur cherche à
+savoir si l'on peut faire le travail, si l'on en a envie et si l'on s'intégrera à l'équipe. Il se
+prépare comme un examen : **connaître l'entreprise et le poste**, **relier son parcours** aux besoins,
+**raconter ses expériences** de façon concrète, **préparer ses questions**, puis **relancer** après
+l'entretien. La plupart des candidats improvisent : se préparer donne un avantage net.
+
+## Avant l'entretien
+
+1. **Décortiquer l'offre** : surligner les compétences et missions demandées, et trouver pour chacune
+   un exemple de son parcours.
+2. **Se renseigner sur l'entreprise** : activité, clients, actualité, valeurs, concurrents. Le site,
+   les rapports annuels, la presse et les profils des employés en ligne sont utiles.
+3. **Préparer sa présentation** de deux minutes : qui l'on est, ce qu'on a fait de plus pertinent pour
+   ce poste, pourquoi on le veut.
+4. **Préparer les questions classiques** : forces et faiblesses, échec, conflit, motivation, projet à
+   cinq ans, prétentions salariales.
+5. **Régler la logistique** : trajet, tenue adaptée à l'entreprise, ou pour un entretien en visio,
+   connexion, son, lumière et arrière-plan testés.
+
+## Raconter avec la méthode STAR
+
+Pour répondre à « Parlez-moi d'une situation où… », la méthode **STAR** structure la réponse :
+
+- **Situation** : le contexte, en une ou deux phrases.
+- **Tâche** : ce qu'on devait faire.
+- **Action** : ce qu'on a fait **soi-même**, en disant « je » plutôt que « nous ».
+- **Résultat** : ce qui s'est passé, chiffré si possible, et ce qu'on en a appris.
+
+Préparer cinq ou six histoires de ce type permet de répondre à la plupart des questions.
+
+[Emplacement image : schéma de la méthode STAR avec un exemple de réponse, légende et texte alternatif à fournir ultérieurement.]
+
+## Pendant l'entretien
+
+- Arriver **cinq à dix minutes** en avance.
+- Écouter la question jusqu'au bout, prendre une seconde pour réfléchir, répondre de façon structurée
+  et assez brève.
+- Rester **honnête** : un recruteur repère vite les réponses toutes faites, et un mensonge sur le CV
+  peut coûter le poste.
+- Pour la question des **faiblesses**, citer une vraie faiblesse non rédhibitoire et ce qu'on fait pour
+  progresser.
+- Parler du **salaire** avec une fourchette réaliste, préparée à partir des salaires du marché.
+
+## Poser ses questions
+
+Un entretien est un échange dans les deux sens. Quelques questions utiles :
+
+- « À quoi ressemblerait une journée type ? »
+- « Quels sont les principaux défis du poste dans les six premiers mois ? »
+- « Comment se compose l'équipe ? »
+- « Comment mesurez-vous la réussite dans ce poste ? »
+- « Quelles sont les prochaines étapes du recrutement ? »
+
+## Après l'entretien
+
+- Envoyer un **message de remerciement** court dans les 24 heures, en rappelant un point de
+  l'échange et son intérêt pour le poste.
+- Noter les questions posées et ce qu'on aurait pu mieux dire.
+- **Relancer** poliment si l'on n'a pas de nouvelles après le délai annoncé.
+- En cas de refus, demander un retour : il aide à progresser pour la suite.
+
+## Connaître ses droits
+
+En France, le recruteur ne peut poser que des questions en lien direct avec le poste et les
+compétences. Les questions sur la situation familiale, un projet de grossesse, l'origine, la religion,
+les opinions politiques ou la santé sont **interdites**, et la discrimination à l'embauche est punie par
+la loi. On peut refuser poliment d'y répondre.
+
+## À retenir
+
+- On prépare un entretien en reliant chaque exigence de l'offre à un exemple de son parcours.
+- La méthode STAR structure le récit d'une expérience : situation, tâche, action, résultat.
+- On prépare ses propres questions : l'entretien est un échange dans les deux sens.
+- Un remerciement dans les 24 heures et une relance polie font souvent la différence.
+- Les questions sans lien avec le poste, sur la famille, l'origine ou la santé, sont interdites.
+
+---
+type: article
+title: Construire son réseau professionnel
+slug: construire-son-reseau-professionnel
+categoryPath: sciences-humaines-et-sociales/sociologie/education-et-mobilite
+summary: >
+  Une grande part des emplois et des opportunités circulent par les relations. Le sociologue Mark
+  Granovetter a montré que ce sont souvent les connaissances éloignées, et non les proches, qui
+  ouvrent les portes. Un réseau se construit en donnant avant de demander.
+tags: [education-et-mobilite]
+relatedArticles: [reussir-entretien-embauche, ecoute-active-communication, negocier-efficacement]
+sources:
+  - title: "The Strength of Weak Ties"
+    url: "https://en.wikipedia.org/wiki/Interpersonal_ties"
+    publisher: "Wikipedia"
+  - title: "Mark Granovetter"
+    url: "https://fr.wikipedia.org/wiki/Mark_Granovetter"
+    publisher: "Wikipédia"
+  - title: "Capital social"
+    url: "https://fr.wikipedia.org/wiki/Capital_social_(sociologie)"
+    publisher: "Wikipédia"
+  - title: "Professional network service"
+    url: "https://en.wikipedia.org/wiki/Professional_network_service"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'a montré Mark Granovetter sur la force des liens faibles ?"
+    options:
+      - "Que les connaissances éloignées apportent souvent des informations nouvelles, comme des offres d'emploi"
+      - "Que seuls les amis proches aident à trouver un emploi"
+      - "Que les réseaux ne servent à rien"
+    answer: 1
+    explanation: >
+      Nos proches fréquentent souvent les mêmes milieux que nous. Les connaissances éloignées
+      circulent dans d'autres cercles et connaissent d'autres opportunités.
+  - question: "Quel est le meilleur état d'esprit pour construire un réseau ?"
+    options:
+      - "Ne contacter les gens que lorsqu'on a besoin d'eux"
+      - "Donner avant de demander : partager, aider, mettre en relation"
+      - "Ajouter le plus de contacts possible sans leur parler"
+    answer: 2
+    explanation: >
+      Une relation se construit dans la durée et la réciprocité. Les gens aident volontiers ceux
+      qui les ont aidés.
+  - question: "Qu'est-ce qu'un entretien informatif ?"
+    options:
+      - "Un entretien d'embauche"
+      - "Un contrôle de connaissances"
+      - "Une courte discussion avec un professionnel pour comprendre son métier et son secteur, sans demander d'emploi"
+    answer: 3
+    explanation: >
+      Demander vingt minutes de conseils est bien plus facile à accepter qu'une demande d'emploi,
+      et cela crée souvent des liens utiles.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Beaucoup d'emplois ne sont jamais publiés, ou sont pourvus grâce à une recommandation. Un **réseau
+professionnel**, l'ensemble des personnes qui nous connaissent et peuvent parler de nous, ouvre des
+portes que les candidatures seules n'ouvrent pas. En 1973, le sociologue américain **Mark Granovetter**
+a montré que ce sont souvent les **liens faibles**, des connaissances éloignées, qui transmettent les
+informations les plus utiles. Construire un réseau n'est pas réservé aux extravertis : c'est une
+habitude qui repose sur la curiosité, la régularité et l'entraide.
+
+## La force des liens faibles
+
+Dans un article célèbre, *The Strength of Weak Ties*, Granovetter étudie comment des cadres ont trouvé
+leur emploi. Beaucoup l'ont trouvé grâce à un contact, et le plus souvent grâce à une personne qu'ils
+voyaient **rarement**, plutôt qu'à un ami proche. L'explication est simple : nos proches fréquentent les
+mêmes milieux que nous et savent les mêmes choses. Les connaissances éloignées circulent dans d'autres
+cercles et entendent parler d'autres opportunités.
+
+Conséquence : entretenir de nombreuses relations variées, même légères, est précieux.
+
+## Donner avant de demander
+
+Un réseau n'est pas une liste de contacts à solliciter en cas de besoin. C'est un ensemble de
+relations, qui reposent sur la **réciprocité**. On l'entretient en :
+
+- partageant un article, une offre ou une information utile ;
+- **mettant en relation** deux personnes qui gagneraient à se connaître ;
+- félicitant pour une réussite, un nouveau poste ;
+- proposant son aide ou son expertise sur un sujet qu'on maîtrise.
+
+Les gens aident volontiers ceux qui les ont aidés, ou qui ont montré un intérêt sincère pour eux.
+
+[Emplacement image : schéma d'un réseau avec liens forts et liens faibles, montrant comment une information circule entre deux cercles, légende et texte alternatif à fournir ultérieurement.]
+
+## Où rencontrer des gens
+
+- **Son entourage** : anciens camarades d'études, anciens collègues, voisins, membres d'un club
+  sportif ou d'une association.
+- **Les événements professionnels** : salons, conférences, rencontres de métiers, associations
+  d'anciens élèves.
+- **Les réseaux en ligne**, comme LinkedIn : un profil à jour, des publications utiles et des messages
+  personnalisés.
+- **Le bénévolat**, qui fait rencontrer des personnes de tous horizons tout en montrant ses qualités.
+
+## L'entretien informatif
+
+Pour découvrir un métier ou un secteur, on peut demander à un professionnel **vingt minutes** de
+discussion, en précisant qu'on ne lui demande pas d'emploi. On prépare ses questions : son parcours,
+une journée type, les compétences qui comptent, les entreprises intéressantes, les personnes à
+rencontrer. On termine en remerciant et en demandant s'il connaît quelqu'un d'autre à qui parler. On
+lui donne ensuite des nouvelles. Beaucoup de gens acceptent volontiers ce type d'échange.
+
+## Écrire un premier message
+
+Un bon message de prise de contact est **court**, **personnalisé** et **précis** :
+
+1. comment on a trouvé la personne, ou ce qu'on a en commun ;
+2. pourquoi on la contacte elle, et pas une autre ;
+3. une demande simple et limitée dans le temps ;
+4. un remerciement.
+
+On évite les messages génériques envoyés en masse.
+
+## Entretenir dans la durée
+
+On garde une trace de ses contacts, et l'on reprend des nouvelles de temps en temps, sans attendre
+d'avoir besoin de quelque chose. Un réseau se construit sur des années, et c'est quand on va bien qu'il
+faut l'entretenir.
+
+## À retenir
+
+- Beaucoup d'emplois se trouvent grâce à des relations plutôt que par des annonces.
+- Les liens faibles, des connaissances éloignées, apportent souvent les informations les plus utiles.
+- Un réseau repose sur la réciprocité : on donne avant de demander.
+- L'entretien informatif permet de découvrir un métier et d'élargir son réseau.
+- Un premier message réussi est court, personnalisé et précis.
+
+---
+type: article
+title: Prendre de meilleures décisions
+slug: prendre-de-meilleures-decisions
+categoryPath: sciences-humaines-et-sociales/psychologie/biais-cognitifs
+summary: >
+  Nos décisions sont faussées par des biais : excès de confiance, attachement à ce qu'on a déjà
+  investi, influence de l'humeur. Quelques outils simples, distinguer décisions réversibles et
+  irréversibles, imaginer l'échec à l'avance, chercher l'avis contraire, améliorent nettement nos choix.
+tags: [biais-cognitifs]
+relatedArticles: [pourquoi-notre-cerveau-se-trompe, pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte, pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il, gerer-son-temps-priorites]
+sources:
+  - title: "Biais cognitif"
+    url: "https://fr.wikipedia.org/wiki/Biais_cognitif"
+    publisher: "Wikipédia"
+  - title: "Sunk cost"
+    url: "https://en.wikipedia.org/wiki/Sunk_cost"
+    publisher: "Wikipedia"
+  - title: "Pre-mortem"
+    url: "https://en.wikipedia.org/wiki/Pre-mortem"
+    publisher: "Wikipedia"
+  - title: "Thinking, Fast and Slow"
+    url: "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que le piège des coûts irrécupérables ?"
+    options:
+      - "Continuer un projet perdant parce qu'on y a déjà investi beaucoup de temps ou d'argent"
+      - "Refuser de dépenser de l'argent"
+      - "Acheter le moins cher"
+    answer: 1
+    explanation: >
+      Ce qui est déjà dépensé ne reviendra pas, quelle que soit la décision. Seuls les coûts et
+      bénéfices futurs devraient compter.
+  - question: "Qu'est-ce qu'un pré-mortem ?"
+    options:
+      - "Une autopsie"
+      - "Imaginer qu'un projet a échoué et chercher pourquoi, avant de le lancer"
+      - "Un contrat d'assurance"
+    answer: 2
+    explanation: >
+      Cet exercice, proposé par le psychologue Gary Klein, fait apparaître des risques que
+      l'enthousiasme du groupe cachait.
+  - question: "Pourquoi distinguer décisions réversibles et irréversibles ?"
+    options:
+      - "Parce que toutes les décisions sont irréversibles"
+      - "Parce que les décisions réversibles sont interdites"
+      - "Parce qu'on peut trancher vite les décisions réversibles et réserver sa réflexion à celles qu'on ne pourra pas défaire"
+    answer: 3
+    explanation: >
+      Hésiter des semaines sur un choix facile à corriger fait perdre du temps. Une décision
+      définitive mérite, elle, une vraie réflexion.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Changer de travail, déménager, investir, se lancer dans un projet : nos grandes décisions façonnent
+notre vie. Or notre cerveau prend beaucoup de raccourcis, utiles au quotidien mais trompeurs pour les
+choix importants. Les psychologues, dont **Daniel Kahneman**, prix Nobel d'économie en 2002, ont décrit
+de nombreux **biais cognitifs**. On ne peut pas les supprimer, mais on peut s'en protéger avec quelques
+outils simples, qui obligent à ralentir, à élargir les options et à chercher les failles de son propre
+raisonnement.
+
+## Les pièges les plus fréquents
+
+- **L'excès de confiance** : on surestime ses chances de succès et la précision de ses prévisions.
+- **Les coûts irrécupérables** : on continue un projet perdant parce qu'on y a déjà mis beaucoup.
+- **Le biais de confirmation** : on cherche les informations qui nous donnent raison et l'on ignore les
+  autres.
+- **L'aversion à la perte** : une perte fait plus mal qu'un gain du même montant ne fait plaisir, ce qui
+  pousse à refuser des choix pourtant favorables.
+- **Le biais du survivant** : on ne voit que ceux qui ont réussi, jamais les nombreux qui ont échoué
+  avec la même méthode.
+- **L'influence de l'humeur et de la fatigue** : on décide plus mal affamé, épuisé ou en colère.
+
+## Des outils simples
+
+**1. Réversible ou irréversible ?** Une décision qu'on peut facilement défaire, essayer une méthode,
+acheter un objet remboursable, peut être prise vite. Une décision difficile à défaire, quitter un
+emploi stable, signer un crédit long, mérite du temps.
+
+**2. Élargir les options.** Les mauvaises décisions se prennent souvent entre deux options seulement :
+« faire ou ne pas faire ». Chercher au moins une troisième voie : faire autrement, faire en partie,
+tester d'abord à petite échelle.
+
+**3. Le pré-mortem.** Avant de se lancer, imaginer qu'on est un an plus tard et que le projet a échoué.
+Puis écrire pourquoi. Cet exercice, proposé par le psychologue Gary Klein, fait apparaître des risques
+que l'enthousiasme masquait.
+
+[Emplacement image : arbre de décision simple avec options, risques et critères pour un choix important, légende et texte alternatif à fournir ultérieurement.]
+
+**4. Chercher l'avis contraire.** Demander à quelqu'un de confiance de défendre l'option opposée, ou se
+demander : « Quelle information me ferait changer d'avis ? »
+
+**5. Regarder les chiffres de base.** Avant de se dire « moi, je vais réussir », se demander combien de
+projets de ce type réussissent en général. C'est souvent moins qu'on ne le pense.
+
+**6. La règle 10-10-10.** Que penserai-je de cette décision dans dix minutes, dans dix mois, dans dix
+ans ? Cela remet les émotions du moment à leur juste place.
+
+**7. Dormir dessus.** Pour une décision importante prise sous le coup de l'émotion, attendre au moins
+une nuit.
+
+## Écrire pour mieux décider
+
+Écrire ses options, ses critères et ce qu'on espère, puis relire ces notes quelques mois plus tard,
+permet de voir si l'on s'était trompé et pourquoi. On juge ainsi la **qualité de la décision**, avec les
+informations qu'on avait, et pas seulement son résultat, qui dépend aussi du hasard.
+
+## À retenir
+
+- Nos décisions sont influencées par des biais comme l'excès de confiance et les coûts irrécupérables.
+- On tranche vite les décisions réversibles et l'on prend son temps pour les irréversibles.
+- Chercher au moins une troisième option évite les faux dilemmes.
+- Le pré-mortem consiste à imaginer l'échec pour en découvrir les causes avant de se lancer.
+- On juge une décision sur sa qualité au moment où elle a été prise, pas seulement sur son résultat.

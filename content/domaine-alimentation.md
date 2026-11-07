@@ -14727,14 +14727,118 @@ title: La conservation par le sel, salaisons et saumures
 slug: la-conservation-par-le-sel-salaisons-et-saumures
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Une des plus anciennes methodes de conservation, encore largement utilisee.
-tags: [conservation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le sel attire l'eau hors des aliments et prive les microbes de ce dont ils ont besoin pour se
+  multiplier. Viande, poisson et légumes se conservent ainsi des mois sans froid, à condition de
+  respecter les doses, la température et l'hygiène.
+tags: [conservation]
+relatedArticles: [la-securite-alimentaire-des-plantes-sauvages-comestibles, kit-urgence-72-heures]
+sources:
+  - title: "Salaison"
+    url: "https://fr.wikipedia.org/wiki/Salaison"
+    publisher: "Wikipédia"
+  - title: "Salting (food)"
+    url: "https://en.wikipedia.org/wiki/Salting_(food)"
+    publisher: "Wikipedia"
+  - title: "Water activity"
+    url: "https://en.wikipedia.org/wiki/Water_activity"
+    publisher: "Wikipedia"
+  - title: "Botulisme"
+    url: "https://fr.wikipedia.org/wiki/Botulisme"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment le sel empêche-t-il les microbes de se développer ?"
+    options:
+      - "En retirant l'eau des aliments et en la rendant indisponible pour les microbes"
+      - "En chauffant l'aliment"
+      - "En le rendant plus lourd"
+    answer: 1
+    explanation: >
+      Par osmose, le sel attire l'eau hors des cellules. La plupart des bactéries ne peuvent plus
+      se multiplier dans un milieu aussi salé et sec.
+  - question: "Qu'est-ce qu'une saumure ?"
+    options:
+      - "Un poisson séché"
+      - "Une eau fortement salée dans laquelle on plonge les aliments"
+      - "Un type de fromage"
+    answer: 2
+    explanation: >
+      On l'utilise pour les olives, les cornichons, le hareng ou certaines viandes.
+  - question: "Pourquoi faut-il dessaler un aliment conservé au sel avant de le cuisiner ?"
+    options:
+      - "Pour qu'il cuise plus vite"
+      - "Pour le conserver plus longtemps"
+      - "Parce qu'il contient trop de sel pour être mangé tel quel"
+    answer: 3
+    explanation: >
+      La morue salée, par exemple, trempe 24 à 48 heures dans plusieurs eaux successives avant
+      d'être cuisinée.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant le réfrigérateur, le **sel** était l'un des principaux moyens de garder la viande, le poisson et
+les légumes pendant des mois. Il agit en **retirant l'eau** des aliments : les bactéries et les
+moisissures, privées de l'eau dont elles ont besoin, ne peuvent plus se multiplier. Jambon sec, morue
+salée, hareng, choucroute, olives : toutes ces préparations reposent sur ce principe. Bien conduite,
+la salaison permet de conserver des aliments sans froid ; mal conduite, elle expose à de graves
+intoxications.
+
+## Comment agit le sel
+
+Le sel attire l'eau : c'est l'**osmose**. Posé sur une viande, il fait sortir l'eau de ses cellules et
+pénètre peu à peu à l'intérieur. L'eau qui reste est liée au sel et n'est plus disponible pour les
+microbes. Les scientifiques mesurent cette disponibilité par l'**activité de l'eau** : quand elle
+descend assez bas, la plupart des bactéries dangereuses cessent de se développer.
+
+Le sel ralentit aussi les réactions qui font rancir et pourrir les aliments, et il favorise, dans les
+légumes, des bactéries lactiques utiles qui acidifient le milieu.
+
+## Deux grandes méthodes
+
+**Le salage à sec** : on frotte l'aliment de sel, on le recouvre de sel, puis on le laisse dégorger.
+C'est la méthode du jambon cru, de la morue, du lard. Le jambon est ensuite séché et affiné pendant des
+mois dans un endroit frais et ventilé.
+
+**La saumure** : on plonge l'aliment dans une eau très salée. On l'utilise pour les olives, les
+cornichons, le hareng, certaines viandes et fromages. Une saumure faiblement salée sert aussi à la
+**lactofermentation** des légumes, comme la choucroute.
+
+[Emplacement image : comparaison du salage à sec d'un jambon et de la conservation de légumes en saumure, légende et texte alternatif à fournir ultérieurement.]
+
+## Les règles de sécurité
+
+- **Le froid au départ** : la viande doit être fraîche et salée dans un endroit frais, idéalement sous
+  une dizaine de degrés, pendant que le sel pénètre jusqu'au cœur. Sinon, les bactéries se développent
+  à l'intérieur avant d'être stoppées.
+- **La bonne dose** : trop peu de sel ne protège pas. Les recettes éprouvées indiquent des proportions
+  précises, qu'il faut respecter.
+- **L'hygiène** : mains, ustensiles, récipients et sel propres.
+- **Le botulisme** : la bactérie *Clostridium botulinum* se développe sans air, dans les aliments peu
+  acides mal conservés, et produit une toxine mortelle. Les charcutiers ajoutent pour cette raison du
+  nitrite ou du nitrate à certaines salaisons, à des doses réglementées. Un bocal bombé, une odeur
+  anormale ou une saumure trouble et mousseuse non prévue imposent de jeter l'aliment sans le goûter.
+
+## Dessaler et consommer
+
+Les aliments très salés doivent souvent être **dessalés** avant cuisson. La morue salée trempe 24 à
+48 heures dans de l'eau froide renouvelée plusieurs fois. Le sel en excès est mauvais pour la santé
+cardiovasculaire : ces aliments se consomment avec modération.
+
+## Le sel, un trésor historique
+
+Le sel a longtemps été une ressource stratégique. Les Romains payaient parfois leurs soldats en partie
+en sel, d'où viendrait le mot « salaire », selon une étymologie discutée. En France, l'impôt sur le sel,
+la **gabelle**, a été l'un des impôts les plus détestés de l'Ancien Régime.
+
+## À retenir
+
+- Le sel retire l'eau des aliments par osmose et empêche les microbes de se multiplier.
+- On sale à sec, comme pour le jambon et la morue, ou en saumure, comme pour les olives et les légumes.
+- La viande doit être fraîche, salée au frais et selon des doses éprouvées.
+- Le botulisme, mortel, impose de jeter tout aliment au bocal bombé ou à l'odeur anormale.
+- Les aliments très salés se dessalent avant cuisson et se consomment avec modération.
 
 ---
 type: article
@@ -18895,18 +18999,128 @@ status: planned
 
 ---
 type: article
-title: La securite alimentaire des plantes sauvages comestibles
+title: Les plantes sauvages comestibles et leurs dangers
 slug: la-securite-alimentaire-des-plantes-sauvages-comestibles
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
 summary: >
-  Des precautions essentielles avant toute cueillette destinee a la consommation.
-tags: [securite-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Orties, pissenlits, mûres ou châtaignes se mangent sans risque, à condition d'être identifiés
+  avec certitude. Car des plantes mortelles, comme la ciguë ou le colchique, ressemblent à des
+  plantes comestibles. La règle absolue : en cas de doute, on ne mange pas.
+tags: [securite-alimentaire]
+relatedArticles: [regle-des-trois-priorites-survie, purifier-eau-situation-urgence, la-conservation-par-le-sel-salaisons-et-saumures]
+sources:
+  - title: "Plante comestible"
+    url: "https://fr.wikipedia.org/wiki/Plante_comestible"
+    publisher: "Wikipédia"
+  - title: "Grande ciguë"
+    url: "https://fr.wikipedia.org/wiki/Grande_cigu%C3%AB"
+    publisher: "Wikipédia"
+  - title: "Colchique d'automne"
+    url: "https://fr.wikipedia.org/wiki/Colchique_d%27automne"
+    publisher: "Wikipédia"
+  - title: "Ail des ours"
+    url: "https://fr.wikipedia.org/wiki/Ail_des_ours"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle est la règle absolue pour la cueillette sauvage ?"
+    options:
+      - "Ne jamais manger une plante qu'on n'a pas identifiée avec certitude"
+      - "Goûter un petit morceau pour tester"
+      - "Manger ce que mangent les animaux"
+    answer: 1
+    explanation: >
+      Certaines plantes tuent à faible dose. Le goût ne protège pas, et les animaux supportent des
+      plantes toxiques pour nous.
+  - question: "Avec quelle plante mortelle peut-on confondre l'ail des ours ?"
+    options:
+      - "Avec l'ortie"
+      - "Avec le colchique ou le muguet, dont les feuilles se ressemblent"
+      - "Avec le pissenlit"
+    answer: 2
+    explanation: >
+      L'ail des ours sent fortement l'ail quand on froisse sa feuille. Mais l'odeur reste sur les
+      doigts, et l'on peut se tromper sur la feuille suivante.
+  - question: "Pourquoi faut-il se méfier particulièrement des plantes de la famille de la carotte ?"
+    options:
+      - "Parce qu'elles sont toutes amères"
+      - "Parce qu'elles piquent"
+      - "Parce qu'elle contient à la fois des plantes comestibles et certaines des plantes les plus toxiques, comme la ciguë"
+    answer: 3
+    explanation: >
+      Carotte sauvage, cerfeuil, ciguë et œnanthe se ressemblent beaucoup. Les débutants doivent
+      éviter toute cette famille.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La nature offre de nombreuses plantes comestibles : orties, pissenlits, plantain, mûres, noisettes,
+châtaignes. Mais elle abrite aussi des plantes **mortelles** à petite dose, dont certaines ressemblent à
+s'y méprendre à des plantes comestibles. La cueillette sauvage repose sur une règle absolue :
+**on ne mange jamais une plante qu'on n'a pas identifiée avec certitude**. En situation de survie, une
+intoxication est bien plus dangereuse que la faim.
+
+## Les règles de base
+
+- **Identifier avec certitude**, plante entière : feuilles, tiges, fleurs, odeur, milieu. Un seul
+  critère ne suffit jamais.
+- **Apprendre auprès d'une personne compétente** et avec un bon guide, en commençant par quelques
+  plantes faciles.
+- **Ne pas se fier au goût** : certaines plantes très toxiques n'ont pas mauvais goût. Les « tests de
+  comestibilité » qui consistent à goûter progressivement une plante inconnue sont dangereux.
+- **Ne pas imiter les animaux** : oiseaux et rongeurs mangent des baies toxiques pour l'humain.
+- **Cueillir propre** : loin des routes, des champs traités, des zones où passent les chiens, et en
+  respectant les règles locales de protection des espèces.
+- **Laver et cuire** les plantes cueillies au ras du sol ou dans l'eau, pour éviter les parasites.
+
+## Des plantes faciles et sûres
+
+- **L'ortie** : très nutritive, on cueille les jeunes pousses avec des gants. Cuite ou ébouillantée,
+  elle ne pique plus.
+- **Le pissenlit** : feuilles en salade, fleurs, racines.
+- **Le plantain** : jeunes feuilles cuites.
+- **Les mûres**, **framboises** et **noisettes**.
+- **La châtaigne**, à ne pas confondre avec le **marron d'Inde**, toxique : la bogue de la châtaigne est
+  couverte de piquants fins et serrés, et contient souvent plusieurs fruits aplatis à pointe ; celle du
+  marron d'Inde porte quelques grosses épines et contient un fruit rond et lisse.
+- **Les glands**, comestibles après avoir été longuement trempés et rincés pour éliminer leurs tanins
+  amers.
+
+[Emplacement image : comparaison de plantes comestibles et de leurs sosies toxiques, ail des ours et colchique, châtaigne et marron d'Inde, légende et texte alternatif à fournir ultérieurement.]
+
+## Les sosies dangereux
+
+- **L'ail des ours** ressemble au **muguet** et au **colchique**, tous deux toxiques, voire mortels. Il
+  sent fortement l'ail quand on froisse sa feuille, mais l'odeur reste sur les doigts : on vérifie
+  chaque feuille.
+- **La famille de la carotte**, les ombellifères, mêle carotte sauvage, cerfeuil et persil à la
+  **grande ciguë** et à l'**œnanthe safranée**, parmi les plantes les plus toxiques d'Europe. Les
+  débutants doivent éviter toute cette famille.
+- **La belladone**, aux baies noires brillantes, peut être confondue avec des myrtilles par des
+  enfants.
+- **La digitale**, très toxique pour le cœur, ressemble avant floraison à la consoude.
+
+## Les champignons
+
+Les champignons demandent une prudence encore plus grande : l'**amanite phalloïde**, responsable de la
+plupart des décès, peut ressembler à des champignons comestibles. En France, on peut faire vérifier sa
+cueillette par un **pharmacien** ou une association mycologique. En situation de survie, mieux vaut
+s'en passer.
+
+## En cas d'intoxication
+
+Troubles digestifs, malaise, troubles de la vision, palpitations ou somnolence après avoir mangé une
+plante : on appelle immédiatement le **centre antipoison** ou le **15**, en gardant un échantillon de
+la plante. On ne fait pas vomir.
+
+## À retenir
+
+- On ne mange jamais une plante qu'on n'a pas identifiée avec certitude.
+- Le goût et le comportement des animaux ne protègent pas des plantes toxiques.
+- Orties, pissenlits, plantain, mûres et châtaignes sont faciles à reconnaître et sûrs.
+- L'ail des ours a des sosies mortels, et la famille de la carotte contient la ciguë.
+- En cas de symptômes, on appelle le centre antipoison ou le 15 avec un échantillon.
 
 ---
 type: article
@@ -20853,3 +21067,127 @@ Chez les enfants et les adolescents, le petit-déjeuner est associé à une meil
 - Ils avaient aussi des apports plus élevés en fer, calcium, magnésium, potassium, zinc et iode.
 - Presque toutes les études sont transversales : elles n'établissent pas de relation de cause à effet.
 - Prendre un petit-déjeuner semble associé à des apports plus élevés en micronutriments sur la journée, mais la qualité des aliments compte aussi.
+
+---
+type: article
+title: Purifier l'eau en situation d'urgence
+slug: purifier-eau-situation-urgence
+categoryPath: alimentation-et-nutrition/nutriments/eau-et-hydratation
+summary: >
+  Une eau claire peut contenir des microbes qui provoquent de graves diarrhées. Faire bouillir,
+  désinfecter au chlore, exposer au soleil dans une bouteille ou filtrer : ces méthodes simples
+  rendent l'eau sûre, à condition d'en connaître les limites.
+tags: [eau-et-hydratation]
+relatedArticles: [rendre-eau-potable, recuperer-eau-pluie, kit-urgence-72-heures, la-rehydratation-orale-en-cas-de-diarrhee-severe, regle-des-trois-priorites-survie]
+sources:
+  - title: "Make Water Safe During an Emergency"
+    url: "https://www.cdc.gov/healthywater/emergency/pdf/make-water-safe-during-emergency-p.pdf"
+    publisher: "Centers for Disease Control and Prevention"
+  - title: "Solar water disinfection"
+    url: "https://en.wikipedia.org/wiki/Solar_water_disinfection"
+    publisher: "Wikipedia"
+  - title: "Guidelines for drinking-water quality"
+    url: "https://www.who.int/publications/i/item/9789240045064"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Portable water purification"
+    url: "https://en.wikipedia.org/wiki/Portable_water_purification"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de temps faut-il faire bouillir l'eau pour la désinfecter ?"
+    options:
+      - "Laisser bouillir à gros bouillons pendant au moins une minute"
+      - "Il suffit qu'elle soit tiède"
+      - "Une heure entière"
+    answer: 1
+    explanation: >
+      Une minute d'ébullition franche tue bactéries, virus et parasites. En haute altitude, on
+      prolonge à trois minutes.
+  - question: "Que ne fait pas l'ébullition ?"
+    options:
+      - "Tuer les bactéries"
+      - "Éliminer les produits chimiques comme les carburants ou les pesticides"
+      - "Tuer les virus"
+    answer: 2
+    explanation: >
+      L'ébullition détruit les microbes, mais une eau polluée par des produits chimiques reste
+      dangereuse. Il faut alors chercher une autre source.
+  - question: "Comment fonctionne la méthode SODIS ?"
+    options:
+      - "On ajoute du sel"
+      - "On congèle l'eau"
+      - "On expose une bouteille transparente d'eau claire au plein soleil pendant au moins six heures"
+    answer: 3
+    explanation: >
+      Les rayons ultraviolets et la chaleur du soleil détruisent la plupart des microbes. Par temps
+      couvert, il faut deux jours.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une eau de rivière, de puits ou de pluie peut sembler limpide et contenir pourtant des **bactéries**,
+des **virus** ou des **parasites** responsables de diarrhées graves, de choléra ou de typhoïde. En
+situation d'urgence, quatre méthodes simples permettent de la rendre sûre : la **faire bouillir**, la
+**désinfecter au chlore**, l'**exposer au soleil** dans une bouteille transparente, ou la **filtrer**
+avec un filtre adapté. Aucune ne retire les produits chimiques : la première précaution est de choisir
+la source la moins polluée possible.
+
+## Choisir sa source
+
+- Préférer, dans l'ordre : eau en bouteille, eau de pluie recueillie proprement, source qui sort de la
+  roche, puits couvert, eau courante de rivière, et en dernier une eau stagnante.
+- Puiser **en amont** des villages, des pâturages et des routes.
+- Éviter les eaux qui ont une odeur de carburant, une couleur anormale ou une mousse : la chimie ne
+  s'en va pas à l'ébullition.
+
+## Étape 1, clarifier
+
+Une eau trouble protège les microbes du chlore et du soleil. On la laisse **reposer** quelques heures
+pour que les particules tombent au fond, puis on verse doucement l'eau claire, ou on la **filtre** à
+travers un tissu propre plié en plusieurs épaisseurs.
+
+## Étape 2, désinfecter
+
+**Faire bouillir** : c'est la méthode la plus sûre contre tous les microbes. On porte l'eau à
+**ébullition franche pendant au moins une minute**, trois minutes au-dessus d'environ 2 000 mètres
+d'altitude, où l'eau bout à plus basse température. On la laisse refroidir couverte. Pour lui rendre
+du goût, on la verse plusieurs fois d'un récipient à l'autre.
+
+**Le chlore** : l'eau de Javel ménagère **non parfumée** ou les pastilles de désinfection. Les
+autorités sanitaires américaines indiquent environ **deux gouttes par litre**, soit huit gouttes par gallon, pour une
+eau de Javel à 5 à 9 % de chlore actif, deux fois plus si l'eau est trouble ou très froide, puis un temps
+d'attente d'**au moins 30 minutes**. La concentration des produits varie : il faut lire l'étiquette et
+adapter la dose, ou suivre la notice des pastilles. L'eau doit garder une légère odeur de chlore.
+
+**Le soleil, méthode SODIS** : on remplit d'eau **claire** une bouteille transparente en plastique
+PET, de 2 litres au maximum, on la pose couchée au **plein soleil pendant au moins six heures**, ou
+**deux jours** si le ciel est couvert. Les ultraviolets et la chaleur détruisent la plupart des
+microbes. Cette méthode, promue par l'OMS et des instituts de recherche suisses, ne marche pas par
+temps de pluie ni avec une eau trouble.
+
+**Les filtres** : les filtres en céramique ou à membrane retiennent bactéries et parasites. La
+plupart des filtres portables **n'arrêtent pas les virus** ; on complète alors par du chlore ou
+l'ébullition. Les filtres doivent être entretenus selon la notice.
+
+[Emplacement image : comparaison des quatre méthodes de purification, ébullition, chlore, SODIS et filtration, avec leurs durées et leurs limites, légende et texte alternatif à fournir ultérieurement.]
+
+## Ce que ces méthodes ne font pas
+
+- Elles ne retirent ni les **métaux lourds**, ni les **pesticides**, ni les **carburants**.
+- Elles ne dessalent pas l'eau de mer. Seule la **distillation**, recueillir la vapeur d'eau bouillie
+  qui se condense sur une surface froide, produit de l'eau douce à partir d'eau salée ou polluée, en
+  petite quantité.
+
+## Stocker l'eau traitée
+
+On garde l'eau dans des récipients **propres et fermés**, à l'abri de la lumière, et l'on puise sans y
+tremper les mains ou un gobelet sale. Une eau mal conservée se recontamine.
+
+## À retenir
+
+- Une eau limpide peut contenir des microbes dangereux.
+- On clarifie d'abord une eau trouble, par décantation ou filtration à travers un tissu.
+- L'ébullition franche pendant une minute est la méthode la plus sûre.
+- Le chlore, environ deux gouttes par litre d'une javel à 5 à 9 % et 30 minutes d'attente, et la méthode SODIS sont des alternatives.
+- Aucune de ces méthodes n'élimine les produits chimiques ni le sel.

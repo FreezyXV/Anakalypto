@@ -21411,3 +21411,138 @@ L'enceinte métallique agit comme une cage de Faraday : les trous de la grille d
 - Les ondes se répartissent mal, avec des zones trop chaudes ou trop froides ; un plateau tournant corrige ce défaut.
 - Les trous de la grille de la porte sont bien plus petits que la longueur d'onde : la lumière passe, pas les micro-ondes.
 - Percy Spencer, ingénieur chez Raytheon, a découvert l'effet par hasard quand une barre chocolatée a fondu près d'un radar.
+
+---
+type: article
+title: Allumer et entretenir un feu
+slug: allumer-entretenir-feu
+categoryPath: sciences-fondamentales/chimie
+summary: >
+  Un feu a besoin de trois choses : un combustible, de l'oxygène et de la chaleur. Le réussir
+  dehors, c'est préparer un allume-feu très fin, du petit bois et du bois plus gros, puis les
+  ajouter dans le bon ordre. Le feu chauffe, cuit, purifie l'eau et rassure, mais il reste dangereux.
+tags: [chimie]
+relatedArticles: [regle-des-trois-priorites-survie, hypothermie-coup-de-chaleur, purifier-eau-situation-urgence, charbon-bois, bois-chauffage]
+sources:
+  - title: "Triangle du feu"
+    url: "https://fr.wikipedia.org/wiki/Triangle_du_feu"
+    publisher: "Wikipédia"
+  - title: "Combustion"
+    url: "https://fr.wikipedia.org/wiki/Combustion"
+    publisher: "Wikipédia"
+  - title: "Fire making"
+    url: "https://en.wikipedia.org/wiki/Fire_making"
+    publisher: "Wikipedia"
+  - title: "Ferrocerium"
+    url: "https://en.wikipedia.org/wiki/Ferrocerium"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quels sont les trois éléments du triangle du feu ?"
+    options:
+      - "Un combustible, de l'oxygène et de la chaleur"
+      - "De l'eau, du sable et du vent"
+      - "Du bois, de la pierre et du métal"
+    answer: 1
+    explanation: >
+      Supprimer l'un des trois éteint le feu : c'est le principe de tous les moyens
+      d'extinction.
+  - question: "Pourquoi commence-t-on avec des matériaux très fins ?"
+    options:
+      - "Parce qu'ils sont plus jolis"
+      - "Parce qu'ils s'échauffent et s'enflamment très vite, puis allument le bois plus gros"
+      - "Parce qu'ils brûlent plus longtemps"
+    answer: 2
+    explanation: >
+      Une étincelle ou une allumette ne fournit que peu de chaleur. Elle suffit à enflammer des
+      fibres sèches, pas une bûche.
+  - question: "Pourquoi ne faut-il jamais faire brûler un feu dans une tente ou une pièce fermée ?"
+    options:
+      - "Parce que cela salit"
+      - "Parce que la fumée gêne les yeux"
+      - "Parce qu'il produit du monoxyde de carbone, un gaz invisible et mortel"
+    answer: 3
+    explanation: >
+      Une combustion avec peu d'air produit du monoxyde de carbone. Il faut toujours une
+      ventilation importante.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Le feu est une réaction chimique : un **combustible**, comme le bois, se combine à l'**oxygène** de
+l'air quand il est assez **chaud**, et libère chaleur et lumière. Ces trois éléments forment le
+**triangle du feu**. Pour allumer un feu dehors, on prépare trois tas : un **allume-feu** très fin et
+très sec, du **petit bois** et du **bois plus gros**. On les ajoute dans cet ordre, sans étouffer les
+flammes. En situation difficile, le feu réchauffe, sèche les vêtements, cuit les aliments, permet de
+faire bouillir l'eau et de se signaler.
+
+## Le triangle du feu
+
+Le bois ne brûle pas directement : chauffé, il dégage des **gaz combustibles** qui s'enflamment au
+contact de l'air. Il faut donc :
+
+- un **combustible** sec : le bois humide gaspille la chaleur à évaporer son eau ;
+- de l'**oxygène** : un feu trop serré ou recouvert s'étouffe ;
+- de la **chaleur**, apportée au départ par une flamme ou une étincelle, puis entretenue par le feu
+  lui-même.
+
+Retirer l'un des trois côtés éteint le feu : on étouffe avec de la terre, on refroidit avec de l'eau,
+on éloigne le combustible.
+
+## Préparer avant d'allumer
+
+1. **Choisir l'emplacement** : à l'abri du vent, loin des arbres, des herbes sèches et des racines,
+   sur un sol minéral ou dégagé. Entourer de pierres sèches, jamais de galets de rivière, qui peuvent
+   éclater.
+2. **L'allume-feu** : herbes sèches, écorce de bouleau, fibres de chardon, brindilles mortes très
+   fines, copeaux, coton imbibé de vaseline ou papier.
+3. **Le petit bois** : branches mortes de l'épaisseur d'une allumette à celle d'un doigt, cassées
+   net, donc sèches. On prend le bois mort encore accroché aux arbres plutôt que celui posé au sol
+   humide.
+4. **Le bois de combustion** : de l'épaisseur du poignet et plus, en quantité, avant que la nuit
+   tombe.
+
+[Emplacement image : préparation d'un feu en tipi avec allume-feu au centre, petit bois autour et bûches en réserve, légende et texte alternatif à fournir ultérieurement.]
+
+## Allumer
+
+- On pose l'allume-feu au centre, puis on dresse le petit bois autour en **tipi**, ou en petit carré
+  de bûchettes croisées, en laissant passer l'air.
+- On allume par le bas, côté vent.
+- On souffle doucement sur les braises naissantes.
+- On ajoute du bois **progressivement**, du plus fin au plus gros.
+
+## Sans allumettes
+
+- **Le briquet ou la pierre à feu** : une tige de ferrocérium, grattée vigoureusement avec une lame,
+  projette des étincelles à près de 3 000 °C, même mouillée. Elle allume l'allume-feu fin.
+- **La loupe** : par grand soleil, une loupe ou le fond concave d'une canette poli concentre la
+  lumière sur un amadou sombre.
+- **La friction**, comme l'archet à feu, fonctionne mais demande beaucoup d'entraînement et de bois
+  bien choisi.
+
+Dans un kit d'urgence, on garde plusieurs moyens : allumettes dans une boîte étanche, briquet, pierre à
+feu.
+
+## Entretenir et éteindre
+
+Un feu de survie n'a pas besoin d'être grand : un petit feu bien alimenté chauffe mieux et consomme
+moins. Un réflecteur de pierres ou de bûches derrière soi renvoie la chaleur. Pour éteindre, on noie
+le feu, on remue les cendres et on noie encore, jusqu'à ce que tout soit froid au toucher.
+
+## Les dangers
+
+- **Le monoxyde de carbone** : jamais de feu, de brasero ou de barbecue dans une tente, une voiture ou
+  une pièce fermée.
+- **Les incendies de forêt** : faire du feu en forêt est très souvent **interdit**, surtout en été ;
+  on respecte les arrêtés et l'on évite tout feu par vent fort.
+- **Les brûlures** : on refroidit immédiatement sous l'eau tiède pendant une vingtaine de minutes.
+
+## À retenir
+
+- Un feu a besoin d'un combustible, d'oxygène et de chaleur : c'est le triangle du feu.
+- On prépare allume-feu fin, petit bois et bois plus gros avant d'allumer.
+- On ajoute le bois progressivement, du plus fin au plus gros, sans étouffer les flammes.
+- Une pierre à feu en ferrocérium fonctionne même mouillée.
+- Jamais de feu en lieu clos, et respect des interdictions en forêt.

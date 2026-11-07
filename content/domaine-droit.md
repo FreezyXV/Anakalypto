@@ -2424,16 +2424,130 @@ title: Le bail d'habitation
 slug: bail-habitation
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Droits et obligations du locataire et du propriétaire.
+  Louer un logement en France est encadré par la loi du 6 juillet 1989. Durée du bail, dépôt de
+  garantie, préavis, état des lieux, travaux et charges : connaître ces règles évite bien des
+  litiges, côté locataire comme côté propriétaire.
 tags: [droit-civil]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [le-contrat-d-assurance-principes-de-base, tenir-son-budget-personnel, credit-consommation]
+sources:
+  - title: "Loi du 6 juillet 1989 tendant à améliorer les rapports locatifs"
+    url: "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310"
+    publisher: "Légifrance"
+  - title: "Bail d'habitation en France"
+    url: "https://fr.wikipedia.org/wiki/Bail_d%27habitation_en_France"
+    publisher: "Wikipédia"
+  - title: "Dépôt de garantie"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9p%C3%B4t_de_garantie"
+    publisher: "Wikipédia"
+  - title: "Agence nationale pour l'information sur le logement"
+    url: "https://www.anil.org/"
+    publisher: "ANIL"
+quiz:
+  - question: "Quelle est la durée minimale d'un bail de location vide consenti par un particulier ?"
+    options:
+      - "Trois ans"
+      - "Un an"
+      - "Six mois"
+    answer: 1
+    explanation: >
+      Le bail d'un logement vide dure au moins trois ans quand le propriétaire est un particulier,
+      six ans quand c'est une société. Un meublé se loue en principe pour un an.
+  - question: "Quel est le montant maximal du dépôt de garantie pour un logement vide ?"
+    options:
+      - "Trois mois de loyer"
+      - "Un mois de loyer hors charges"
+      - "Il n'y a pas de limite"
+    answer: 2
+    explanation: >
+      Pour un logement meublé, il peut aller jusqu'à deux mois de loyer hors charges.
+  - question: "Pourquoi l'état des lieux d'entrée est-il si important ?"
+    options:
+      - "Parce qu'il fixe le loyer"
+      - "Parce qu'il remplace le bail"
+      - "Parce qu'il sert de comparaison à la sortie pour décider des retenues sur le dépôt de garantie"
+    answer: 3
+    explanation: >
+      Un défaut non noté à l'entrée risque d'être imputé au locataire à la sortie. On le remplit
+      avec soin, photos à l'appui.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+En France, la location d'un logement servant de résidence principale est encadrée par la **loi du
+6 juillet 1989**. Elle fixe la durée minimale du bail, le montant du dépôt de garantie, les règles du
+préavis, les obligations de chacun et les documents obligatoires. Ces règles protègent le locataire,
+mais aussi le propriétaire. Les connaître avant de signer évite de nombreux litiges, en particulier au
+moment de la sortie, quand se pose la question du dépôt de garantie.
+
+## Le contrat de location
+
+Le bail est un **contrat écrit**, sur un modèle type, qui précise notamment : les parties, la
+description du logement et sa surface, la date d'effet et la durée, le loyer et les modalités de
+révision, les charges et le dépôt de garantie.
+
+- **Logement vide** : au moins **trois ans** si le propriétaire est un particulier, **six ans** s'il
+  s'agit d'une société. Le bail se renouvelle automatiquement.
+- **Logement meublé** : **un an** renouvelable, ou **neuf mois** non renouvelables pour un étudiant.
+
+Le propriétaire doit remettre un **dossier de diagnostics** : performance énergétique, risques naturels
+et technologiques, plomb dans les logements anciens, électricité et gaz pour les installations de plus
+de quinze ans, entre autres. Les logements les plus énergivores sont progressivement interdits à la
+location.
+
+## L'argent
+
+- **Le loyer** est fixé librement, sauf dans les villes où il est encadré. Sa révision annuelle est
+  plafonnée par un indice officiel.
+- **Les charges** couvrent des dépenses précises : eau, entretien des parties communes, ordures
+  ménagères. Elles font l'objet d'une régularisation annuelle.
+- **Le dépôt de garantie** ne peut pas dépasser **un mois de loyer hors charges** pour un logement vide,
+  **deux mois** pour un meublé.
+- Le propriétaire ne peut pas exiger certains documents ou pratiques : relevés bancaires, attestation
+  de bonne tenue de compte, chèque de réservation.
+
+[Emplacement image : calendrier d'une location, de la signature à la restitution du dépôt de garantie, légende et texte alternatif à fournir ultérieurement.]
+
+## L'état des lieux
+
+À l'entrée et à la sortie, locataire et propriétaire établissent ensemble un **état des lieux**, pièce
+par pièce. C'est le document clé : à la sortie, on compare les deux. Un défaut non noté à l'entrée
+risque d'être imputé au locataire. On le remplit avec soin, on teste équipements et robinets, et l'on
+prend des **photos datées**. Le locataire peut demander à le compléter dans les dix jours suivant son
+entrée.
+
+## Les obligations de chacun
+
+**Le propriétaire** doit fournir un **logement décent**, en bon état, assurer la jouissance paisible du
+logement et faire les grosses réparations.
+
+**Le locataire** doit payer loyer et charges, utiliser le logement paisiblement, faire les **petites
+réparations et l'entretien courant**, et souscrire une **assurance habitation** contre les risques
+locatifs, dont il doit fournir l'attestation chaque année.
+
+## Partir
+
+- **Le préavis du locataire** est de **trois mois** pour un logement vide, réduit à **un mois** en zone
+  tendue, pour un meublé et dans certaines situations, mutation, perte d'emploi, raisons de santé.
+- **Le propriétaire** ne peut donner congé qu'à l'échéance du bail, avec un préavis plus long, et
+  seulement pour vendre, reprendre le logement pour l'habiter ou un motif légitime et sérieux.
+- **Le dépôt de garantie** doit être restitué dans **un mois** si l'état des lieux de sortie est
+  conforme à celui d'entrée, **deux mois** sinon, déduction faite des sommes justifiées.
+
+## En cas de litige
+
+On commence par un échange écrit, puis un courrier recommandé. La **commission départementale de
+conciliation** peut être saisie gratuitement. Les agences départementales d'information sur le logement
+donnent des conseils juridiques gratuits.
+
+## À retenir
+
+- La location d'une résidence principale est encadrée par la loi du 6 juillet 1989.
+- Un bail vide dure au moins trois ans avec un particulier, un meublé un an.
+- Le dépôt de garantie est limité à un mois de loyer hors charges en vide, deux mois en meublé.
+- L'état des lieux d'entrée, rempli avec soin et photos, protège le locataire à la sortie.
+- Le préavis du locataire est de trois mois, ou d'un mois en zone tendue et pour un meublé.
 
 ---
 type: article
@@ -4548,14 +4662,129 @@ title: Le contrat d'assurance, principes de base
 slug: le-contrat-d-assurance-principes-de-base
 categoryPath: droit-et-justice/droit-prive/droit-civil
 summary: >
-  Ce que garantit reellement un contrat d'assurance, et a quelles conditions.
-tags: [droit-civil, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une assurance transfère un risque contre le paiement d'une prime. Garanties, exclusions,
+  franchise, plafond et délais de déclaration déterminent ce que l'on touchera vraiment en cas de
+  sinistre. Certaines assurances sont obligatoires, d'autres très utiles.
+tags: [droit-civil]
+relatedArticles: [bail-habitation, epargne-de-precaution, tenir-son-budget-personnel]
+sources:
+  - title: "Contrat d'assurance"
+    url: "https://fr.wikipedia.org/wiki/Contrat_d%27assurance"
+    publisher: "Wikipédia"
+  - title: "Franchise (assurance)"
+    url: "https://fr.wikipedia.org/wiki/Franchise_(assurance)"
+    publisher: "Wikipédia"
+  - title: "Loi Hamon"
+    url: "https://fr.wikipedia.org/wiki/Loi_Hamon"
+    publisher: "Wikipédia"
+  - title: "Responsabilité civile"
+    url: "https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_civile"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qu'est-ce que la franchise d'une assurance ?"
+    options:
+      - "La part du dommage qui reste à la charge de l'assuré"
+      - "Le prix annuel de l'assurance"
+      - "Un cadeau de l'assureur"
+    answer: 1
+    explanation: >
+      Avec une franchise de 300 €, un dommage de 1 000 € est remboursé 700 €. Une franchise plus
+      élevée réduit en général la prime.
+  - question: "Quelle assurance est obligatoire pour tout véhicule en circulation en France ?"
+    options:
+      - "L'assurance tous risques"
+      - "L'assurance de responsabilité civile, qui couvre les dommages causés aux autres"
+      - "L'assurance vol"
+    answer: 2
+    explanation: >
+      Elle indemnise les victimes des dommages qu'on provoque. Les garanties pour son propre
+      véhicule sont facultatives.
+  - question: "Depuis la loi Hamon, quand peut-on résilier son assurance auto ou habitation ?"
+    options:
+      - "Jamais avant dix ans"
+      - "Uniquement à la date anniversaire, avec deux mois de préavis"
+      - "À tout moment après la première année de contrat"
+    answer: 3
+    explanation: >
+      Depuis 2015, la résiliation est possible à tout moment après un an, sans frais. Cela permet
+      de faire jouer la concurrence.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une **assurance** est un contrat par lequel un assureur s'engage, contre le paiement d'une **prime**,
+à indemniser l'assuré si un événement prévu au contrat se produit : accident, incendie, dégât des eaux,
+vol, maladie. Elle permet de transformer un risque rare mais ruineux en une dépense régulière et
+prévisible. Mais ce que l'on touche vraiment dépend des détails : **garanties**, **exclusions**,
+**franchise**, **plafonds** et respect des **délais de déclaration**. Lire ces points avant de signer
+évite de mauvaises surprises.
+
+## Le vocabulaire essentiel
+
+- **La prime**, ou cotisation : le prix de l'assurance, souvent annuel.
+- **Le sinistre** : l'événement qui déclenche la garantie.
+- **Les garanties** : les risques couverts, listés au contrat.
+- **Les exclusions** : les situations non couvertes, qui doivent être écrites de façon claire et
+  visible.
+- **La franchise** : la part du dommage qui reste à la charge de l'assuré. Avec une franchise de 300 €,
+  un dommage de 1 000 € est remboursé 700 €.
+- **Le plafond** : le montant maximal remboursé.
+- **La valeur à neuf** ou **la vétusté** : un bien ancien peut être remboursé à sa valeur d'usage,
+  inférieure à son prix neuf, sauf garantie spécifique.
+
+## Les assurances obligatoires
+
+- **La responsabilité civile automobile**, pour tout véhicule terrestre à moteur, même à l'arrêt. Elle
+  indemnise les dommages causés aux autres.
+- **L'assurance habitation du locataire**, au moins pour les risques locatifs, incendie, explosion,
+  dégât des eaux.
+- **Certaines assurances professionnelles**, comme la garantie décennale des constructeurs.
+
+## Les assurances très utiles
+
+- **La responsabilité civile vie privée**, souvent incluse dans l'assurance habitation, qui couvre les
+  dommages qu'on cause aux autres dans la vie quotidienne, y compris par ses enfants ou son animal.
+- **La complémentaire santé**, qui complète les remboursements de l'Assurance maladie.
+- **La garantie des accidents de la vie**, qui indemnise les accidents domestiques graves.
+- **L'assurance emprunteur**, exigée en pratique pour un crédit immobilier.
+
+[Emplacement image : exemple chiffré de remboursement d'un sinistre avec franchise, plafond et vétusté, légende et texte alternatif à fournir ultérieurement.]
+
+## En cas de sinistre
+
+1. **Prendre les mesures** pour limiter les dégâts : couper l'eau, protéger les biens.
+2. **Déclarer le sinistre** dans le délai prévu au contrat, en général **cinq jours ouvrés**, **deux
+   jours** pour un vol, et dix jours après la publication de l'arrêté pour une catastrophe naturelle.
+3. **Rassembler les preuves** : photos, factures, devis, dépôt de plainte en cas de vol, constat amiable
+   pour un accident de voiture.
+4. **Conserver les biens endommagés** jusqu'au passage de l'expert, si l'assureur le demande.
+
+Conserver les factures des objets de valeur et photographier régulièrement son logement facilite
+l'indemnisation.
+
+## Bien choisir et changer
+
+- Comparer les **garanties** et les **franchises**, pas seulement le prix.
+- Vérifier les **exclusions** et les **plafonds** pour les objets de valeur.
+- Éviter les **doublons** : une assurance de carte bancaire couvre souvent déjà certains risques.
+- Depuis la **loi Hamon**, en vigueur en 2015, on peut résilier son assurance auto, moto ou habitation
+  **à tout moment après la première année**, sans frais. Le nouvel assureur se charge souvent des
+  démarches.
+
+## Ne jamais mentir
+
+Une fausse déclaration intentionnelle à la souscription ou lors d'un sinistre peut entraîner la
+**nullité du contrat** et le refus de toute indemnisation, voire des poursuites pour fraude.
+
+## À retenir
+
+- Une assurance transforme un risque rare et coûteux en dépense régulière, la prime.
+- Garanties, exclusions, franchise et plafonds déterminent ce que l'on touche vraiment.
+- La responsabilité civile automobile et l'assurance habitation du locataire sont obligatoires.
+- Un sinistre se déclare vite, souvent dans les cinq jours ouvrés, deux jours pour un vol.
+- Depuis la loi Hamon, on peut résilier son assurance auto ou habitation à tout moment après un an.
 
 ---
 type: article

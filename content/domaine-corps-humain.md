@@ -5090,14 +5090,122 @@ title: Le garrot, comment et quand l'utiliser
 slug: le-garrot-comment-et-quand-l-utiliser
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
-  Un geste extreme reserve aux hemorragies massives incontrolables autrement.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une hémorragie massive d'un bras ou d'une jambe peut tuer en quelques minutes. On appuie d'abord
+  fort sur la plaie ; si cela ne suffit pas ou est impossible, on pose un garrot au-dessus de la
+  blessure, on note l'heure et on ne le desserre plus.
+tags: [systeme-cardiovasculaire]
+relatedArticles: [regle-des-trois-priorites-survie, la-gestion-d-une-plaie-pour-eviter-une-infection, kit-urgence-72-heures]
+sources:
+  - title: "Garrot"
+    url: "https://fr.wikipedia.org/wiki/Garrot"
+    publisher: "Wikipédia"
+  - title: "Tourniquet"
+    url: "https://en.wikipedia.org/wiki/Tourniquet"
+    publisher: "Wikipedia"
+  - title: "Stop the Bleed"
+    url: "https://www.stopthebleed.org/"
+    publisher: "American College of Surgeons"
+  - title: "Hémorragie"
+    url: "https://fr.wikipedia.org/wiki/H%C3%A9morragie"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel est le premier geste face à une plaie qui saigne abondamment ?"
+    options:
+      - "Appuyer fortement et sans relâcher directement sur la plaie"
+      - "Poser un garrot immédiatement dans tous les cas"
+      - "Laver la plaie à grande eau"
+    answer: 1
+    explanation: >
+      La compression directe, avec la main protégée ou un tissu, arrête la plupart des
+      hémorragies. Le garrot vient si elle est inefficace ou impossible.
+  - question: "Où place-t-on un garrot ?"
+    options:
+      - "Directement sur la plaie"
+      - "Entre la plaie et la racine du membre, à quelques centimètres au-dessus de la blessure, jamais sur une articulation"
+      - "Sous la plaie, vers la main ou le pied"
+    answer: 2
+    explanation: >
+      Le garrot écrase les vaisseaux qui amènent le sang vers la plaie. On le serre jusqu'à l'arrêt
+      complet du saignement.
+  - question: "Une fois posé, que faut-il faire du garrot ?"
+    options:
+      - "Le desserrer toutes les dix minutes"
+      - "Le retirer dès que le saignement s'arrête"
+      - "Noter l'heure de pose et ne jamais le desserrer avant l'arrivée des secours"
+    answer: 3
+    explanation: >
+      Le desserrer peut relancer l'hémorragie. Les secours ont besoin de l'heure de pose pour la
+      prise en charge.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une **hémorragie massive**, sang qui coule à flots ou gicle, peut vider le corps d'une quantité
+mortelle de sang en quelques minutes. Les secours n'arrivent pas toujours à temps : les gestes du
+témoin sont décisifs. Le premier est la **compression directe** de la plaie. Si elle ne suffit pas, ou
+si elle est impossible, plusieurs victimes, plaie inaccessible, membre arraché, on pose un **garrot**
+sur le bras ou la jambe, au-dessus de la blessure. On note l'**heure**, on ne le desserre plus, et on
+appelle les secours.
+
+## Reconnaître une hémorragie grave
+
+- Le sang **coule abondamment** ou **gicle** de façon continue.
+- Un vêtement se gorge de sang en quelques secondes, une flaque se forme.
+- La victime pâlit, a froid, se sent faible, devient agitée ou confuse : ce sont des signes de choc.
+
+## Les gestes dans l'ordre
+
+1. **Se protéger** : gants, sac plastique, ou à défaut un tissu.
+2. **Appuyer fortement** sur la plaie avec la main ou un tissu propre plié, et **ne plus relâcher**.
+3. Allonger la victime.
+4. **Appeler ou faire appeler** le 15, le 18 ou le 112.
+5. Si la compression ne suffit pas ou ne peut pas être maintenue, **poser un garrot** sur le membre.
+6. Couvrir la victime pour lui éviter le froid et la surveiller.
+
+Un pansement compressif, une compresse épaisse maintenue serrée par une bande, peut remplacer la main
+une fois le saignement contrôlé.
+
+## Poser un garrot
+
+Le garrot écrase le membre assez fort pour arrêter la circulation dans les artères qui alimentent la
+plaie.
+
+- **Où** : entre la plaie et la racine du membre, **à quelques centimètres au-dessus** de la blessure,
+  ou le plus haut possible sur le membre si la plaie est mal visible. **Jamais sur une articulation**,
+  coude ou genou.
+- **Comment** : avec un garrot du commerce, on passe la sangle autour du membre, on tire fort, puis on
+  tourne la tige jusqu'à **l'arrêt complet** du saignement, et on la bloque.
+- **Garrot improvisé** : une bande large d'au moins 3 à 4 cm, cravate, écharpe, ceinture de tissu,
+  nouée autour du membre, et un bâton glissé dans le nœud que l'on tourne pour serrer. Une ficelle ou
+  un fil trop fin coupe les tissus sans bien comprimer.
+- **Noter l'heure** de pose, sur le garrot, sur le front de la victime ou sur un papier.
+- **Ne jamais desserrer** le garrot : seuls les secours ou un médecin le retireront.
+
+Un garrot bien serré fait très mal : c'est normal et ce n'est pas une raison pour le relâcher.
+
+[Emplacement image : pose d'un garrot au-dessus d'une plaie de la cuisse, avec la position, le serrage et l'heure notée, légende et texte alternatif à fournir ultérieurement.]
+
+## Ce que le garrot ne fait pas
+
+On ne pose pas de garrot sur le cou, le tronc ou à la racine d'un membre où il ne peut pas tenir.
+Pour une plaie de ces zones, on comprime directement et fortement, éventuellement en bourrant la plaie
+de compresses ou de tissu propre, puis en appuyant.
+
+## Se former
+
+Les gestes de premiers secours, compression, garrot, position latérale de sécurité, massage
+cardiaque, s'apprennent en quelques heures dans les formations de type PSC en France, ou avec des
+programmes comme *Stop the Bleed*. Un garrot du commerce a sa place dans une trousse de secours.
+
+## À retenir
+
+- Une hémorragie massive peut tuer en quelques minutes : chaque seconde compte.
+- On commence par appuyer fortement et sans relâcher sur la plaie.
+- Si cela ne suffit pas, on pose un garrot quelques centimètres au-dessus de la plaie, jamais sur une articulation.
+- On serre jusqu'à l'arrêt du saignement, on note l'heure, on ne desserre plus.
+- On appelle le 15, le 18 ou le 112 et l'on se forme aux premiers secours.
 
 ---
 type: article
@@ -5949,18 +6057,128 @@ status: planned
 
 ---
 type: article
-title: La rehydratation orale en cas de diarrhee severe
+title: La réhydratation orale en cas de diarrhée sévère
 slug: la-rehydratation-orale-en-cas-de-diarrhee-severe
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
-  Une solution simple qui reste, dans le monde, un geste qui sauve des vies.
-tags: [systeme-digestif, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une diarrhée sévère tue surtout par la perte d'eau et de sels. Une solution simple d'eau sûre, de
+  sucre et de sel, bue par petites gorgées, compense cette perte. Elle a sauvé des dizaines de
+  millions de vies depuis les années 1970.
+tags: [systeme-digestif]
+relatedArticles: [purifier-eau-situation-urgence, regle-des-trois-priorites-survie]
+sources:
+  - title: "Oral rehydration therapy"
+    url: "https://en.wikipedia.org/wiki/Oral_rehydration_therapy"
+    publisher: "Wikipedia"
+  - title: "Diarrhoeal disease"
+    url: "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Soluté de réhydratation orale"
+    url: "https://fr.wikipedia.org/wiki/Solut%C3%A9_de_r%C3%A9hydratation_orale"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi le sucre est-il important dans une solution de réhydratation ?"
+    options:
+      - "Parce qu'il aide l'intestin à absorber le sel, et donc l'eau"
+      - "Pour donner bon goût uniquement"
+      - "Pour tuer les microbes"
+    answer: 1
+    explanation: >
+      Dans l'intestin, le glucose et le sodium sont absorbés ensemble, et l'eau les suit. C'est ce
+      mécanisme qui rend la solution efficace.
+  - question: "Quelle recette simple peut-on préparer quand on n'a pas de sachets ?"
+    options:
+      - "Un litre de soda"
+      - "Un litre d'eau sûre, six cuillères à café rases de sucre et une demi-cuillère à café rase de sel"
+      - "Un litre d'eau et une poignée de sel"
+    answer: 2
+    explanation: >
+      Les proportions comptent : trop de sel est dangereux, surtout pour un enfant. On mesure avec
+      soin.
+  - question: "Quel signe impose de consulter en urgence ?"
+    options:
+      - "Une légère soif"
+      - "Une seule selle molle"
+      - "Une somnolence, l'absence d'urine pendant plusieurs heures ou du sang dans les selles"
+    answer: 3
+    explanation: >
+      Ces signes indiquent une déshydratation grave ou une infection sérieuse. Les nourrissons et
+      les personnes âgées sont les plus fragiles.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une diarrhée sévère, due par exemple à une eau contaminée, fait perdre en quelques heures beaucoup
+d'**eau** et de **sels minéraux**. C'est cette **déshydratation**, plus que le microbe lui-même, qui
+tue, surtout les jeunes enfants. La **réhydratation orale** consiste à boire une solution d'eau sûre,
+de sucre et de sel, en petites quantités et souvent. Diffusée massivement à partir des années 1970,
+elle a sauvé des dizaines de millions de vies. Selon l'OMS, les maladies diarrhéiques restent
+pourtant l'une des premières causes de décès des enfants de moins de cinq ans.
+
+## Pourquoi l'eau seule ne suffit pas
+
+Pendant une diarrhée, l'intestin rejette de l'eau mais aussi du **sodium** et du **potassium**. Boire
+de l'eau pure ne remplace pas ces sels, et l'intestin malade l'absorbe mal.
+
+La découverte clé, dans les années 1960, est que l'intestin, même malade, continue d'absorber le
+**sodium** quand il est accompagné de **glucose** : les deux traversent ensemble la paroi intestinale,
+et l'eau les suit. Une solution bien dosée en sucre et en sel est donc absorbée bien mieux que l'eau.
+
+## Les sachets de sels de réhydratation
+
+Les pharmacies vendent des **sachets de sels de réhydratation orale**, à dissoudre dans le volume
+d'eau indiqué. C'est la solution à privilégier : leur composition, recommandée par l'OMS et l'UNICEF,
+est précise. Ils ont leur place dans un kit d'urgence.
+
+## La recette de secours
+
+Sans sachet, on peut préparer une solution maison :
+
+- **1 litre d'eau sûre**, bouillie et refroidie ou désinfectée ;
+- **6 cuillères à café rases de sucre** ;
+- **½ cuillère à café rase de sel**.
+
+On mélange jusqu'à dissolution complète. Le goût ne doit pas être plus salé que des larmes. **Trop de
+sel est dangereux**, surtout pour un enfant : on mesure avec soin. On peut ajouter un peu de jus de
+fruit ou manger une banane pour apporter du potassium.
+
+[Emplacement image : préparation d'une solution de réhydratation avec un litre d'eau, six cuillères de sucre et une demi-cuillère de sel, légende et texte alternatif à fournir ultérieurement.]
+
+## Comment la boire
+
+- Par **petites gorgées**, ou à la cuillère pour un enfant, toutes les une ou deux minutes, même s'il
+  vomit : on attend dix minutes et l'on reprend plus lentement.
+- Après chaque selle liquide, un enfant de moins de deux ans peut boire environ un quart à une demi-
+  tasse, un enfant plus grand une demi-tasse à une tasse, un adulte autant qu'il le souhaite.
+- On **continue de manger** dès que possible, et l'on poursuit l'allaitement des nourrissons.
+- Pour les enfants, l'OMS recommande aussi un complément de **zinc** pendant 10 à 14 jours, sur avis
+  médical.
+
+## Les signes de gravité
+
+On consulte en urgence si :
+
+- la personne est **somnolente**, très faible ou confuse ;
+- elle **n'urine plus** depuis plusieurs heures ;
+- les yeux sont creusés, la bouche très sèche, la peau garde le pli quand on la pince ;
+- les selles contiennent du **sang**, ou la fièvre est élevée ;
+- les vomissements empêchent de boire ;
+- il s'agit d'un **nourrisson** ou d'une personne âgée fragile.
+
+## Prévenir
+
+Eau sûre, lavage des mains au savon, toilettes ou latrines éloignées des points d'eau, aliments cuits
+et conservés proprement : ces mesures préviennent la plupart des diarrhées infectieuses.
+
+## À retenir
+
+- La diarrhée sévère tue surtout par la perte d'eau et de sels.
+- Le sucre aide l'intestin à absorber le sel, et l'eau suit.
+- Les sachets de sels de réhydratation sont la meilleure solution.
+- Recette de secours : 1 litre d'eau sûre, 6 cuillères à café rases de sucre, ½ cuillère à café rase de sel.
+- Somnolence, absence d'urine, sang dans les selles ou nourrisson imposent de consulter en urgence.
 
 ---
 type: article
@@ -8478,18 +8696,128 @@ status: planned
 
 ---
 type: article
-title: La gestion d'une plaie pour eviter une infection
+title: La gestion d'une plaie pour éviter une infection
 slug: la-gestion-d-une-plaie-pour-eviter-une-infection
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
-  Des gestes de base essentiels avant meme d'avoir acces a un medecin.
-tags: [maladies-infectieuses, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une petite plaie mal soignée peut s'infecter et devenir grave. Laver à l'eau et au savon,
+  retirer les saletés, protéger avec un pansement propre et surveiller les signes d'infection
+  suffit dans la plupart des cas. Le vaccin contre le tétanos doit être à jour.
+tags: [maladies-infectieuses]
+relatedArticles: [le-garrot-comment-et-quand-l-utiliser, decouverte-penicilline, semmelweis-lavage-mains, la-fabrication-traditionnelle-du-savon]
+sources:
+  - title: "Plaie"
+    url: "https://fr.wikipedia.org/wiki/Plaie"
+    publisher: "Wikipédia"
+  - title: "Tétanos"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9tanos"
+    publisher: "Wikipédia"
+  - title: "Wound"
+    url: "https://en.wikipedia.org/wiki/Wound"
+    publisher: "Wikipedia"
+  - title: "Tetanus"
+    url: "https://www.who.int/news-room/fact-sheets/detail/tetanus"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Quel est le geste le plus important pour éviter qu'une plaie s'infecte ?"
+    options:
+      - "La laver soigneusement à l'eau et au savon"
+      - "La laisser à l'air sans rien faire"
+      - "La couvrir de terre"
+    answer: 1
+    explanation: >
+      Le lavage retire la saleté et la plupart des microbes. C'est plus important que le choix du
+      désinfectant.
+  - question: "Quel signe montre qu'une plaie s'infecte ?"
+    options:
+      - "Une croûte qui se forme"
+      - "Une rougeur qui s'étend, de la chaleur, du pus, une douleur qui augmente ou de la fièvre"
+      - "Une légère démangeaison en fin de cicatrisation"
+    answer: 2
+    explanation: >
+      Une traînée rouge qui remonte le long du membre ou de la fièvre imposent de consulter
+      rapidement.
+  - question: "Pourquoi faut-il être vacciné contre le tétanos ?"
+    options:
+      - "Pour cicatriser plus vite"
+      - "Pour éviter les cicatrices"
+      - "Parce que la bactérie du tétanos, présente dans la terre, peut entrer par n'importe quelle plaie et provoquer une maladie mortelle"
+    answer: 3
+    explanation: >
+      Le tétanos provoque des contractures musculaires graves. Le vaccin est très efficace, mais
+      demande des rappels réguliers.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La peau est une barrière contre les microbes. Une coupure, une écorchure ou une morsure l'ouvre.
+Dans la grande majorité des cas, le corps répare seul, à condition de lui donner un coup de main :
+**laver** la plaie, **retirer** les saletés, la **protéger** avec un pansement propre, puis
+**surveiller** l'apparition d'une infection. La vaccination contre le **tétanos** doit être à jour.
+Quand les soins médicaux sont loin, ces gestes simples prennent encore plus d'importance.
+
+## Les gestes dans l'ordre
+
+1. **Se laver les mains** au savon, ou porter des gants.
+2. **Arrêter le saignement** en appuyant avec une compresse ou un tissu propre.
+3. **Laver la plaie** abondamment à l'eau potable, ou bouillie et refroidie, et au savon, en rinçant du
+   centre vers l'extérieur. Le lavage compte plus que le choix du désinfectant.
+4. **Retirer les saletés** visibles, gravier, éclats de bois, avec une pince propre. Un corps étranger
+   profond ou planté ne doit pas être retiré par soi-même.
+5. **Désinfecter** si l'on dispose d'un antiseptique, en évitant l'alcool pur sur une plaie ouverte.
+6. **Couvrir** d'un pansement propre et sec, à changer chaque jour ou s'il est mouillé ou sale.
+
+[Emplacement image : étapes du soin d'une plaie, lavage, nettoyage, désinfection et pansement, légende et texte alternatif à fournir ultérieurement.]
+
+## Quand consulter
+
+- La plaie est **profonde**, large, ou ses bords s'écartent : elle peut nécessiter des points de
+  suture, idéalement dans les six heures.
+- Le saignement ne s'arrête pas malgré une compression de dix minutes.
+- Elle est **sale** et profonde, ou faite par un objet rouillé ou souillé de terre.
+- Il s'agit d'une **morsure**, animale ou humaine : elles s'infectent très souvent, et certaines
+  exposent à la rage dans les régions concernées.
+- Elle se situe sur le visage, la main, une articulation ou près de l'œil.
+- La personne est diabétique ou immunodéprimée.
+
+## Reconnaître une infection
+
+Dans les jours qui suivent, une plaie normale devient un peu rouge et sensible, puis cicatrise. Les
+signes d'**infection** sont :
+
+- une **rougeur qui s'étend** autour de la plaie, une zone chaude et gonflée ;
+- du **pus**, une odeur désagréable ;
+- une **douleur qui augmente** au lieu de diminuer ;
+- une **traînée rouge** qui remonte le long du membre, des ganglions gonflés ;
+- de la **fièvre** et des frissons.
+
+Une traînée rouge ou de la fièvre imposent de consulter rapidement : l'infection peut se propager dans
+le sang. Un traitement antibiotique sur prescription peut être nécessaire.
+
+## Le tétanos
+
+La bactérie du tétanos vit dans la terre et le fumier. Elle peut entrer par n'importe quelle plaie,
+même petite, et produire une toxine qui provoque des contractures musculaires très graves, souvent
+mortelles sans soins intensifs. Le **vaccin** est très efficace. En France, chez l'adulte, les rappels
+sont recommandés à 25, 45 et 65 ans, puis tous les dix ans. Après une plaie à risque, un médecin vérifie
+si un rappel est nécessaire.
+
+## Favoriser la cicatrisation
+
+- Garder la plaie propre et protégée, sans la laisser macérer.
+- Ne pas arracher les croûtes.
+- Bien manger, notamment des protéines, et boire suffisamment.
+- Protéger la cicatrice du soleil pendant plusieurs mois.
+
+## À retenir
+
+- Le lavage soigneux à l'eau et au savon est le geste le plus important.
+- On retire les saletés visibles et l'on couvre d'un pansement propre, changé chaque jour.
+- Plaies profondes, sales, morsures et plaies du visage ou de la main demandent un avis médical.
+- Rougeur qui s'étend, pus, douleur croissante, traînée rouge ou fièvre signalent une infection.
+- La vaccination contre le tétanos doit être à jour.
 
 ---
 type: article
@@ -8542,14 +8870,124 @@ title: Les techniques de gestion du stress au quotidien
 slug: les-techniques-de-gestion-du-stress-au-quotidien
 categoryPath: corps-humain-et-sante/maladies/sante-mentale
 summary: >
-  Des methodes simples et accessibles pour reduire une tension psychologique excessive.
-tags: [sante-mentale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le stress est une réaction utile face à un défi, mais il devient nocif quand il dure. Respiration
+  lente, activité physique, sommeil, relations, organisation et changement de regard sur les
+  difficultés font partie des techniques dont l'efficacité est la mieux établie.
+tags: [sante-mentale]
+relatedArticles: [gerer-son-temps-priorites, former-de-bonnes-habitudes, ecoute-active-communication, prise-de-parole-en-public]
+sources:
+  - title: "Stress (psychologie)"
+    url: "https://fr.wikipedia.org/wiki/Stress_(psychologie)"
+    publisher: "Wikipédia"
+  - title: "Stress management"
+    url: "https://en.wikipedia.org/wiki/Stress_management"
+    publisher: "Wikipedia"
+  - title: "Doing What Matters in Times of Stress"
+    url: "https://www.who.int/publications/i/item/9789240003927"
+    publisher: "Organisation mondiale de la santé"
+  - title: "3114, numéro national de prévention du suicide"
+    url: "https://3114.fr/"
+    publisher: "3114"
+quiz:
+  - question: "Pourquoi une respiration lente calme-t-elle le stress ?"
+    options:
+      - "Parce qu'une expiration longue active le système nerveux qui ralentit le cœur"
+      - "Parce qu'elle augmente l'adrénaline"
+      - "Parce qu'elle fait dormir"
+    answer: 1
+    explanation: >
+      Respirer lentement, environ six fois par minute, en allongeant l'expiration, favorise la
+      branche du système nerveux qui apaise le corps.
+  - question: "Quelle activité figure parmi les plus efficaces contre le stress chronique ?"
+    options:
+      - "Regarder les informations en continu"
+      - "L'activité physique régulière"
+      - "Boire plus de café"
+    answer: 2
+    explanation: >
+      L'exercice consomme les hormones du stress, améliore le sommeil et l'humeur. Une marche
+      rapide quotidienne a déjà un effet.
+  - question: "Quand faut-il consulter un professionnel ?"
+    options:
+      - "Jamais, il faut se débrouiller seul"
+      - "Seulement si l'on a de la fièvre"
+      - "Quand le stress dure des semaines, perturbe le sommeil, le travail ou les relations, ou s'accompagne d'idées noires"
+    answer: 3
+    explanation: >
+      Un médecin ou un psychologue peut aider. En cas d'idées suicidaires, le 3114 répond jour et
+      nuit en France.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **stress** est une réaction normale du corps face à un défi : le cœur accélère, les muscles se
+tendent, l'attention se concentre. À court terme, il aide à agir. Mais lorsqu'il **dure** des semaines,
+il fatigue, dérègle le sommeil, affaiblit les défenses et favorise l'anxiété et la dépression. Les
+techniques les mieux étudiées pour le gérer sont simples : **respirer**, **bouger**, **dormir**,
+**s'entourer**, **s'organiser** et **changer de regard** sur ce qui nous arrive. Et savoir demander de
+l'aide quand cela ne suffit plus.
+
+## Ce qui se passe dans le corps
+
+Face à une menace, le cerveau déclenche la libération d'**adrénaline** et de **cortisol**. Le corps se
+prépare à combattre ou à fuir. Ce système est très utile face à un danger bref. Mais le cerveau réagit
+de la même manière à une boîte mail débordante, à un conflit au travail ou à des soucis d'argent qui
+durent. Le stress devient alors **chronique**.
+
+## Les techniques qui marchent
+
+**Respirer lentement.** Inspirer par le nez pendant environ quatre secondes, expirer doucement pendant
+six secondes, pendant quelques minutes. Une respiration lente, autour de six cycles par minute, avec une
+expiration longue, active la partie du système nerveux qui ralentit le cœur et apaise le corps. On peut
+la pratiquer n'importe où, avant une réunion ou dans les transports.
+
+**Bouger.** L'**activité physique** régulière fait partie des moyens les plus efficaces contre le stress
+et l'anxiété. Trente minutes de marche rapide par jour ont déjà un effet.
+
+**Dormir.** Le manque de sommeil amplifie les réactions de stress, et le stress perturbe le sommeil.
+Des horaires réguliers, une chambre sombre et l'éloignement des écrans avant le coucher aident à briser
+ce cercle.
+
+[Emplacement image : cercle du stress chronique et les leviers qui permettent de le briser, respiration, mouvement, sommeil, relations, organisation, légende et texte alternatif à fournir ultérieurement.]
+
+**S'entourer.** Parler à un proche, partager un repas, rire : le soutien social est l'un des meilleurs
+protecteurs contre le stress.
+
+**S'organiser.** Une partie du stress vient du sentiment d'être débordé. Écrire tout ce qu'on a en tête,
+distinguer l'urgent de l'important et découper les grosses tâches en petites étapes rend la situation
+plus maîtrisable.
+
+**Changer de regard.** Se demander : « Qu'est-ce qui dépend de moi ? » et concentrer son énergie
+là-dessus. Remettre en question les pensées catastrophistes : « Qu'est-ce qui est le plus probable ? »
+Les thérapies cognitives et comportementales utilisent ces techniques.
+
+**Prendre des pauses d'attention.** La méditation de pleine conscience, quelques minutes à observer sa
+respiration et ses sensations, a montré des effets modestes mais réels sur le stress chez de nombreuses
+personnes.
+
+## Ce qui aggrave le stress
+
+- L'alcool, le tabac et les excès de café, qui soulagent sur le moment mais aggravent l'anxiété et le
+  sommeil.
+- Le défilement sans fin des réseaux sociaux et des informations anxiogènes.
+- L'isolement et le refus de demander de l'aide.
+
+## Quand consulter
+
+Il faut consulter un médecin ou un psychologue si le stress dure plusieurs semaines, empêche de dormir,
+de travailler ou de profiter de la vie, s'accompagne d'attaques de panique, d'une grande tristesse ou
+d'**idées noires**. En France, le **3114**, numéro national de prévention du suicide, répond
+gratuitement jour et nuit. En cas d'urgence, on appelle le 15 ou le 112.
+
+## À retenir
+
+- Le stress est utile à court terme, mais nocif quand il devient chronique.
+- Une respiration lente avec une expiration longue apaise rapidement le corps.
+- L'activité physique, le sommeil et le soutien social sont parmi les protections les plus efficaces.
+- S'organiser et se concentrer sur ce qui dépend de soi réduisent le sentiment d'être débordé.
+- Quand le stress dure ou s'accompagne d'idées noires, on consulte ; le 3114 répond jour et nuit.
 
 ---
 type: article
@@ -16002,3 +16440,386 @@ L'empathie est la capacité de comprendre, de ressentir et de partager l'expéri
 - Le bâillement est contagieux : voir ou entendre quelqu'un bâiller donne souvent envie de bâiller aussi.
 - La contagion est plus forte avec la famille et les amis qu'avec des inconnus.
 - Le lien entre bâillement contagieux et empathie est débattu parmi les chercheurs.
+
+---
+type: article
+title: Les priorités de survie, la règle des trois
+slug: regle-des-trois-priorites-survie
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique
+summary: >
+  Trois minutes sans air, trois heures sans abri dans le froid, trois jours sans eau, trois
+  semaines sans nourriture : cette règle approximative rappelle dans quel ordre agir quand tout
+  manque. Avant même l'eau, viennent le calme, la sécurité et la chaleur.
+tags: [prevention-et-sante-publique]
+relatedArticles: [kit-urgence-72-heures, purifier-eau-situation-urgence, hypothermie-coup-de-chaleur, allumer-entretenir-feu, le-garrot-comment-et-quand-l-utiliser]
+sources:
+  - title: "Survival skills"
+    url: "https://en.wikipedia.org/wiki/Survival_skills"
+    publisher: "Wikipedia"
+  - title: "Rule of threes (survival)"
+    url: "https://en.wikipedia.org/wiki/Rule_of_threes_(survival)"
+    publisher: "Wikipedia"
+  - title: "Hypothermie"
+    url: "https://fr.wikipedia.org/wiki/Hypothermie"
+    publisher: "Wikipédia"
+  - title: "Déshydratation"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9shydratation_(m%C3%A9decine)"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Dans une situation de survie dans le froid, qu'est-ce qui passe avant la recherche de nourriture ?"
+    options:
+      - "Se protéger du froid et trouver de l'eau"
+      - "Chasser"
+      - "Marcher le plus loin possible"
+    answer: 1
+    explanation: >
+      On peut tenir des semaines sans manger, mais seulement quelques heures exposé au froid
+      humide et quelques jours sans eau.
+  - question: "Pourquoi garder son calme est-il la première règle ?"
+    options:
+      - "Parce que c'est poli"
+      - "Parce que la panique fait prendre de mauvaises décisions et gaspille l'énergie"
+      - "Parce que cela réchauffe"
+    answer: 2
+    explanation: >
+      S'arrêter, respirer, observer et planifier évite les erreurs qui transforment une situation
+      difficile en catastrophe.
+  - question: "Pourquoi la règle des trois n'est-elle qu'un ordre de grandeur ?"
+    options:
+      - "Parce qu'elle a été inventée pour un film"
+      - "Parce que tout le monde tient exactement trois jours"
+      - "Parce que les durées varient énormément selon la chaleur, l'effort, l'âge et la santé"
+    answer: 3
+    explanation: >
+      Par forte chaleur, on peut mourir de déshydratation en moins d'un jour. Au repos et au frais,
+      on tient plus longtemps.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Quand tout manque, l'esprit veut tout faire en même temps. Une règle simple aide à fixer les
+priorités : l'être humain tient environ **trois minutes sans air**, **trois heures sans abri** dans
+un froid humide ou une chaleur extrême, **trois jours sans eau** et **trois semaines sans
+nourriture**. Ce ne sont que des ordres de grandeur, mais ils donnent l'ordre des actions : d'abord
+la sécurité immédiate, ensuite la chaleur, puis l'eau, et seulement ensuite la nourriture.
+
+## Avant tout, s'arrêter et réfléchir
+
+Le premier danger est souvent la **panique**. Elle pousse à courir, à se disperser, à oublier
+l'essentiel. Une méthode utilisée dans les formations de survie se résume ainsi :
+
+1. **S'arrêter** : ne pas agir sous le coup de la peur.
+2. **Respirer** lentement pendant une minute.
+3. **Observer** : dangers, blessures, ressources, météo, heure.
+4. **Planifier** les actions dans l'ordre des priorités, puis agir.
+
+## Les priorités dans l'ordre
+
+1. **La sécurité immédiate et les urgences vitales** : s'éloigner d'un danger, feu, eau montante,
+   chute de pierres ; arrêter une hémorragie ; dégager les voies respiratoires d'un blessé.
+2. **L'abri et la chaleur** : se protéger du vent, de la pluie, du froid du sol ou du soleil. Le
+   corps perd sa chaleur très vite quand il est mouillé et exposé au vent.
+3. **L'eau** : en trouver, la rendre sûre, la rationner selon l'effort plutôt que de se priver.
+4. **Se signaler**, si des secours peuvent venir : sifflet, miroir, feu, vêtements de couleur,
+   message laissé sur son itinéraire.
+5. **La nourriture**, qui compte surtout au-delà de quelques jours.
+
+[Emplacement image : pyramide des priorités de survie, de la sécurité immédiate à la nourriture, légende et texte alternatif à fournir ultérieurement.]
+
+## Pourquoi cet ordre
+
+- **L'air** : un étouffement, une noyade ou un arrêt cardiaque tuent en quelques minutes.
+- **La température** : l'hypothermie peut s'installer en quelques heures, même par 10 °C, si l'on est
+  mouillé et exposé au vent. Le coup de chaleur peut tuer en quelques heures par forte chaleur.
+- **L'eau** : le corps en perd plusieurs litres par jour par la respiration, la sueur et l'urine.
+  Sans boire, la déshydratation devient dangereuse en deux à quatre jours, beaucoup plus vite par
+  chaleur ou effort intense.
+- **La nourriture** : le corps dispose de réserves de graisse pour plusieurs semaines. La faim
+  affaiblit et démoralise, mais elle tue lentement.
+
+## Rester ou partir
+
+Si quelqu'un sait où l'on se trouve et que les secours vont chercher, **rester sur place**, près d'un
+abri visible, est souvent le meilleur choix. On ne part que si l'endroit est dangereux, si personne
+ne viendra, ou si l'on connaît un chemin sûr vers l'aide. Dans tous les cas, on laisse des traces de
+son passage et de sa direction.
+
+## Le mental, une ressource
+
+Les récits de survivants montrent l'importance de la volonté, de la routine et du groupe : se fixer
+de petits objectifs, garder un rythme, se répartir les tâches, s'encourager. Prendre soin des autres
+aide aussi à tenir.
+
+## À retenir
+
+- L'humain tient environ 3 minutes sans air, 3 heures exposé au froid humide, 3 jours sans eau et 3 semaines sans nourriture.
+- Ces durées sont des ordres de grandeur qui varient avec la chaleur, l'effort et la santé.
+- On commence par s'arrêter, respirer, observer et planifier.
+- L'ordre des priorités est : urgences vitales, abri et chaleur, eau, signalement, nourriture.
+- Rester sur place est souvent préférable si quelqu'un sait où l'on se trouve.
+
+---
+type: article
+title: Le kit d'urgence pour tenir 72 heures
+slug: kit-urgence-72-heures
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique
+summary: >
+  Coupure d'électricité, inondation, tempête ou crise : les autorités européennes recommandent à
+  chaque foyer de pouvoir tenir au moins 72 heures en autonomie. Eau, nourriture, lumière, radio,
+  médicaments et documents tiennent dans un sac et quelques cartons.
+tags: [prevention-et-sante-publique]
+relatedArticles: [regle-des-trois-priorites-survie, purifier-eau-situation-urgence, epargne-de-precaution]
+sources:
+  - title: "EU tells the public to hold 72 hours of emergency supplies"
+    url: "https://www.japantimes.co.jp/news/2025/03/27/world/society/eu-72-hours-emergency-supplies/"
+    publisher: "The Japan Times, dépêche Reuters"
+  - title: "Build a Kit"
+    url: "https://www.ready.gov/kit"
+    publisher: "Ready.gov, gouvernement des États-Unis"
+  - title: "Kit d'urgence"
+    url: "https://fr.wikipedia.org/wiki/Kit_d%27urgence"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien de temps l'Union européenne recommande-t-elle de pouvoir tenir en autonomie ?"
+    options:
+      - "Au moins 72 heures"
+      - "Une heure"
+      - "Six mois"
+    answer: 1
+    explanation: >
+      En 2025, la Commission européenne a recommandé aux citoyens de disposer de réserves
+      essentielles pour au moins 72 heures.
+  - question: "Quelle quantité d'eau prévoir environ par personne et par jour ?"
+    options:
+      - "Un verre"
+      - "Environ 3 à 4 litres, pour boire et l'hygiène de base"
+      - "50 litres"
+    answer: 2
+    explanation: >
+      Les autorités américaines recommandent environ un gallon, soit près de 4 litres, par
+      personne et par jour. Il faut davantage par forte chaleur.
+  - question: "Pourquoi une radio à piles ou à manivelle fait-elle partie du kit ?"
+    options:
+      - "Pour écouter de la musique"
+      - "Pour remplacer le téléphone fixe"
+      - "Parce qu'elle reçoit les consignes des autorités même sans électricité ni internet"
+    answer: 3
+    explanation: >
+      En cas de coupure générale, les réseaux mobiles peuvent tomber. La radio reste souvent le
+      dernier moyen de recevoir l'information officielle.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une tempête, une inondation, une panne d'électricité prolongée ou une crise peuvent couper l'eau
+courante, le courant, le chauffage et les communications. Les secours ne peuvent pas être partout à
+la fois. En 2025, la Commission européenne a recommandé à chaque foyer de pouvoir tenir **au moins
+72 heures** par ses propres moyens. Un kit d'urgence bien pensé coûte peu, se prépare en une
+après-midi et change tout le jour où l'on en a besoin.
+
+## Les essentiels
+
+**L'eau**, la priorité :
+
+- environ **3 à 4 litres par personne et par jour**, pour boire et pour une hygiène minimale, plus par
+  forte chaleur ; donc au moins 10 litres par personne pour trois jours ;
+- des pastilles de purification ou un filtre, et de quoi faire bouillir.
+
+**La nourriture**, qui ne demande ni frigo ni cuisson longue :
+
+- conserves, plats prêts à manger, fruits secs, biscuits, barres de céréales, beurre de cacahuète ;
+- un ouvre-boîte manuel ;
+- de quoi nourrir les bébés et les animaux.
+
+**La lumière et l'énergie** :
+
+- lampe torche ou frontale et piles de rechange ;
+- batterie externe chargée pour le téléphone ;
+- bougies et allumettes, avec prudence.
+
+**L'information** :
+
+- une **radio** à piles ou à manivelle, pour recevoir les consignes des autorités ;
+- une liste papier des numéros importants : famille, médecin, voisins, assurance.
+
+[Emplacement image : contenu d'un kit d'urgence étalé, avec eau, nourriture, radio, lampe, trousse de secours et documents, légende et texte alternatif à fournir ultérieurement.]
+
+**La santé** :
+
+- trousse de premiers secours : pansements, compresses, désinfectant, bande, ciseaux, gants ;
+- les **médicaments** habituels pour plusieurs jours, et les ordonnances ;
+- lunettes de rechange, protections hygiéniques, savon, gel hydroalcoolique, sacs-poubelle.
+
+**Les documents et l'argent** :
+
+- copies des pièces d'identité, des papiers d'assurance et des documents médicaux, dans une pochette
+  étanche ;
+- un peu d'**argent liquide**, car les terminaux de paiement peuvent être en panne.
+
+**Le froid et l'abri** :
+
+- couvertures de survie, vêtements chauds, gants, bonnet, chaussures solides ;
+- un sifflet pour se signaler ;
+- un couteau multifonction, du ruban adhésif, une corde.
+
+## Deux kits plutôt qu'un
+
+- **Le stock à domicile**, pour rester chez soi quelques jours : eau, nourriture, lumière, radio,
+  chauffage d'appoint sûr.
+- **Le sac d'évacuation**, prêt près de la porte, si l'on doit partir vite : le minimum pour 72 heures,
+  léger, avec documents et médicaments.
+
+## Préparer aussi un plan
+
+- Savoir où couper l'eau, le gaz et l'électricité.
+- Convenir d'un **point de rendez-vous** et d'un contact hors de la région, si la famille est séparée.
+- Connaître les risques de sa commune, inondation, industrie, séisme, et les consignes associées.
+- Penser aux voisins âgés ou isolés.
+
+## Entretenir le kit
+
+Une fois par an, on vérifie les dates de péremption, les piles et les médicaments, et l'on consomme
+les réserves avant qu'elles n'expirent pour les remplacer. Le kit ne sert que s'il est complet le
+jour J.
+
+## À retenir
+
+- Les autorités européennes recommandent de pouvoir tenir au moins 72 heures en autonomie.
+- Il faut environ 3 à 4 litres d'eau par personne et par jour.
+- Nourriture sans cuisson, lampe, radio à piles, trousse de secours et médicaments sont indispensables.
+- Copies des documents et argent liquide servent quand tout est en panne.
+- On vérifie et renouvelle le kit chaque année, et l'on prépare un plan familial.
+
+---
+type: article
+title: Hypothermie et coup de chaleur
+slug: hypothermie-coup-de-chaleur
+categoryPath: corps-humain-et-sante/physiologie
+summary: >
+  Le corps doit rester autour de 37 °C. En dessous de 35 °C, c'est l'hypothermie ; au-dessus de
+  40 °C avec confusion, c'est le coup de chaleur. Les deux peuvent tuer en quelques heures, et les
+  deux se préviennent par des gestes simples.
+tags: [physiologie]
+relatedArticles: [regle-des-trois-priorites-survie, allumer-entretenir-feu, kit-urgence-72-heures]
+sources:
+  - title: "Hypothermie"
+    url: "https://fr.wikipedia.org/wiki/Hypothermie"
+    publisher: "Wikipédia"
+  - title: "Hyperthermie"
+    url: "https://fr.wikipedia.org/wiki/Hyperthermie"
+    publisher: "Wikipédia"
+  - title: "Heat stroke"
+    url: "https://en.wikipedia.org/wiki/Heat_stroke"
+    publisher: "Wikipedia"
+  - title: "Heat and health"
+    url: "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Pourquoi est-on beaucoup plus vite en hypothermie quand on est mouillé ?"
+    options:
+      - "Parce que l'eau conduit la chaleur bien mieux que l'air"
+      - "Parce que l'eau est lourde"
+      - "Parce que la peau devient rouge"
+    answer: 1
+    explanation: >
+      L'eau évacue la chaleur du corps environ 25 fois plus vite que l'air. Vêtements mouillés et
+      vent forment le pire mélange.
+  - question: "Quel signe distingue le coup de chaleur d'un simple coup de fatigue ?"
+    options:
+      - "La soif"
+      - "La confusion, une température très élevée et parfois l'arrêt de la transpiration"
+      - "Les mains froides"
+    answer: 2
+    explanation: >
+      Le coup de chaleur atteint le cerveau. C'est une urgence vitale : il faut appeler les secours
+      et refroidir la personne au plus vite.
+  - question: "Que faut-il faire en premier face à une personne en hypothermie ?"
+    options:
+      - "La faire courir pour la réchauffer"
+      - "Lui donner de l'alcool"
+      - "La mettre à l'abri, l'isoler du sol, remplacer les vêtements mouillés et la couvrir"
+    answer: 3
+    explanation: >
+      On la manipule doucement. L'alcool dilate les vaisseaux de la peau et aggrave la perte de
+      chaleur.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Notre corps fonctionne bien autour de **37 °C**. Il produit de la chaleur en brûlant ses réserves et
+en frissonnant, et il en évacue en transpirant. Quand le froid l'emporte, la température descend sous
+**35 °C** : c'est l'**hypothermie**. Quand la chaleur l'emporte, elle peut dépasser **40 °C** : c'est
+le **coup de chaleur**. Les deux sont des urgences vitales, mais les deux se préviennent par des
+gestes simples : rester sec, couvert et isolé du sol dans le froid ; s'hydrater, se mettre à l'ombre
+et ralentir dans la chaleur.
+
+## Comment le corps perd sa chaleur
+
+- **Par conduction**, au contact d'une surface froide : le sol, un rocher, l'eau. L'eau évacue la
+  chaleur environ **25 fois plus vite** que l'air.
+- **Par convection** : le vent emporte l'air chaud autour de la peau.
+- **Par rayonnement**, surtout par la tête et le cou découverts.
+- **Par évaporation** de la sueur et de l'eau sur les vêtements mouillés.
+
+D'où la règle : on peut tomber en hypothermie par 10 °C, mouillé et dans le vent.
+
+## L'hypothermie
+
+**Les signes** évoluent avec la baisse de température :
+
+- au début, des **frissons** intenses, des mains maladroites, une peau pâle et froide ;
+- puis une **confusion**, des paroles lentes, une démarche titubante, des décisions absurdes ;
+- au stade grave, les frissons **s'arrêtent**, la personne devient somnolente puis inconsciente, le
+  cœur ralentit.
+
+**Que faire** :
+
+1. Mettre la personne **à l'abri** du vent et de la pluie.
+2. L'**isoler du sol** avec un sac, des branches, un tapis.
+3. **Remplacer les vêtements mouillés** par des secs, couvrir la tête et le cou.
+4. L'envelopper dans des couvertures, un sac de couchage, une **couverture de survie**.
+5. Si elle est consciente et avale bien, lui donner une **boisson chaude et sucrée**, jamais d'alcool.
+6. La **manipuler doucement**, sans la frictionner, et appeler les secours, au 15 ou au 112.
+
+[Emplacement image : les quatre modes de perte de chaleur du corps, conduction, convection, rayonnement et évaporation, légende et texte alternatif à fournir ultérieurement.]
+
+## Prévenir le froid
+
+- S'habiller en **couches** : une couche contre la peau qui évacue l'humidité, une couche isolante,
+  une couche extérieure contre le vent et la pluie. Éviter le coton, qui reste mouillé.
+- Retirer une couche **avant** de transpirer à l'effort, la remettre à l'arrêt.
+- Couvrir tête, cou, mains et pieds.
+- **S'isoler du sol** pour dormir ou s'asseoir.
+- Manger et boire régulièrement : le corps a besoin de carburant pour produire sa chaleur.
+
+## Le coup de chaleur
+
+Par forte chaleur ou effort intense, le corps n'arrive plus à évacuer sa chaleur. **Les signes** :
+température très élevée, peau chaude, **confusion**, maux de tête, nausées, parfois arrêt de la
+transpiration, malaise ou convulsions.
+
+**Que faire** :
+
+1. **Appeler les secours**, au 15 ou au 112.
+2. Mettre la personne à l'**ombre**, au frais, la déshabiller en partie.
+3. La **refroidir** au plus vite : la mouiller abondamment, l'éventer, poser des linges froids sur la
+   nuque, les aisselles et l'aine.
+4. Si elle est consciente, la faire boire par petites gorgées.
+
+**Prévenir** : boire régulièrement sans attendre la soif, éviter l'effort aux heures chaudes, porter
+des vêtements légers et un chapeau, ne jamais laisser un enfant ou un animal dans une voiture, et
+veiller sur les personnes âgées.
+
+## À retenir
+
+- L'hypothermie commence quand la température du corps descend sous 35 °C.
+- Être mouillé et exposé au vent fait perdre la chaleur très vite, même par 10 °C.
+- En cas d'hypothermie : abri, isolation du sol, vêtements secs, couverture, pas d'alcool.
+- Le coup de chaleur associe température très élevée et confusion : c'est une urgence vitale.
+- On refroidit la victime au plus vite et l'on appelle le 15 ou le 112.

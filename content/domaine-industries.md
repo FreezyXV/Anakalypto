@@ -3955,14 +3955,119 @@ title: La fabrication traditionnelle du savon
 slug: la-fabrication-traditionnelle-du-savon
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Une reaction chimique simple, connue depuis des siecles, entre graisse et base.
-tags: [chimie-industrielle, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le savon naît de la réaction entre une graisse et une base forte, la soude ou la potasse tirée des
+  cendres. Cette saponification est connue depuis l'Antiquité. Le savon détruit l'enveloppe de
+  nombreux microbes, ce qui en fait l'un des meilleurs outils d'hygiène.
+tags: [chimie-industrielle]
+relatedArticles: [semmelweis-lavage-mains, la-gestion-d-une-plaie-pour-eviter-une-infection, la-rehydratation-orale-en-cas-de-diarrhee-severe]
+sources:
+  - title: "Saponification"
+    url: "https://fr.wikipedia.org/wiki/Saponification"
+    publisher: "Wikipédia"
+  - title: "Savon"
+    url: "https://fr.wikipedia.org/wiki/Savon"
+    publisher: "Wikipédia"
+  - title: "Savon de Marseille"
+    url: "https://fr.wikipedia.org/wiki/Savon_de_Marseille"
+    publisher: "Wikipédia"
+  - title: "Soap"
+    url: "https://en.wikipedia.org/wiki/Soap"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle réaction chimique produit le savon ?"
+    options:
+      - "La saponification, entre une graisse et une base forte"
+      - "La combustion du bois"
+      - "La fermentation du sucre"
+    answer: 1
+    explanation: >
+      La base, soude ou potasse, coupe les molécules de graisse et forme du savon et de la
+      glycérine.
+  - question: "D'où tirait-on autrefois la potasse pour faire du savon ?"
+    options:
+      - "Du sel de mer"
+      - "Des cendres de bois, lessivées à l'eau"
+      - "Du sable"
+    answer: 2
+    explanation: >
+      L'eau qui a traversé des cendres de bois se charge de potasse. Elle donne un savon mou.
+  - question: "Pourquoi le savon élimine-t-il si bien de nombreux microbes ?"
+    options:
+      - "Parce qu'il est parfumé"
+      - "Parce qu'il est chaud"
+      - "Parce que ses molécules désorganisent les enveloppes grasses de nombreux virus et bactéries et décrochent la saleté"
+    answer: 3
+    explanation: >
+      Une extrémité de la molécule de savon aime l'eau, l'autre la graisse. Elle s'insère dans les
+      membranes et emporte la saleté au rinçage.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le savon est l'un des plus anciens produits chimiques fabriqués par l'humanité. On l'obtient en
+faisant réagir une **graisse** ou une **huile** avec une **base forte** : la **soude**, qui donne un
+savon dur, ou la **potasse**, autrefois tirée des **cendres de bois**, qui donne un savon mou. Cette
+réaction s'appelle la **saponification**. Le savon décroche la saleté et désorganise l'enveloppe de
+nombreux microbes : se laver les mains au savon est l'un des gestes de santé les plus efficaces.
+
+## La saponification
+
+Une graisse est formée de molécules qui associent de la glycérine et trois longues chaînes d'acides
+gras. La base forte les coupe : on obtient du **savon**, les sels de ces acides gras, et de la
+**glycérine**.
+
+La molécule de savon a deux extrémités : l'une **aime l'eau**, l'autre **aime la graisse**. Dans l'eau,
+elle entoure les gouttelettes de graisse et de saleté, les détache de la peau ou du tissu, et le rinçage
+les emporte. Elle s'insère aussi dans les membranes grasses de nombreux virus et bactéries et les
+désorganise.
+
+## La lessive de cendres
+
+Pendant des siècles, la base venait des cendres. On verse de l'eau sur des cendres de bois feuillu, on
+la laisse traverser lentement, et l'on recueille une eau chargée de **potasse**, la lessive. Cuite avec
+de la graisse animale, elle donne un savon mou, brun, très efficace pour laver. Le mot « lessive » vient
+de cette eau de cendres.
+
+## Les savons célèbres
+
+- **Le savon d'Alep**, en Syrie, est fabriqué depuis des siècles avec de l'huile d'olive et de l'huile
+  de baies de laurier, puis séché longtemps.
+- **Le savon de Marseille** : en 1688, un édit de Colbert réglemente sa fabrication, à base d'huile
+  d'olive. La tradition du savon cuit en grands chaudrons se perpétue en Provence.
+
+[Emplacement image : étapes de la fabrication d'un savon, de la lessive de cendres ou de la soude au savon séché en barres, légende et texte alternatif à fournir ultérieurement.]
+
+## La saponification à froid, aujourd'hui
+
+Les savonniers artisanaux pratiquent souvent la **saponification à froid** :
+
+1. On dissout la **soude caustique** dans l'eau, en versant toujours **la soude dans l'eau** et jamais
+   l'inverse : la réaction dégage beaucoup de chaleur et peut projeter du liquide.
+2. On mélange cette solution avec des huiles, olive, coco, colza, dans des proportions calculées.
+3. On mixe jusqu'à obtenir une pâte épaisse, que l'on verse dans un moule.
+4. On démoule après un ou deux jours, on coupe en barres et on laisse **sécher quatre à six
+   semaines**, le temps que la réaction se termine et que le savon s'adoucisse.
+
+Les proportions se calculent selon l'**indice de saponification** de chaque huile, la quantité de soude
+nécessaire pour la transformer entièrement. On garde volontairement un léger excès d'huile, pour que le
+savon ne reste pas caustique.
+
+## La sécurité
+
+La soude caustique et la lessive de cendres concentrée **brûlent la peau et les yeux**. On travaille
+avec des **gants**, des **lunettes**, des manches longues, dans une pièce aérée, loin des enfants, avec
+des ustensiles réservés à cet usage, jamais en aluminium. En cas de projection, on rince abondamment à
+l'eau pendant de longues minutes.
+
+## À retenir
+
+- Le savon naît de la saponification d'une graisse par une base forte, soude ou potasse.
+- La réaction produit du savon et de la glycérine.
+- Autrefois, la potasse venait de l'eau filtrée à travers des cendres de bois.
+- La molécule de savon aime à la fois l'eau et la graisse : elle décroche la saleté et désorganise de nombreux microbes.
+- La soude caustique brûle : gants, lunettes, et toujours verser la soude dans l'eau.
 
 ---
 type: article

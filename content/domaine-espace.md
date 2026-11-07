@@ -3558,18 +3558,126 @@ status: planned
 
 ---
 type: article
-title: L'etoile polaire et son role dans l'orientation
+title: L'étoile Polaire et l'orientation sans boussole
 slug: l-etoile-polaire-et-son-role-dans-l-orientation
 categoryPath: espace-et-astronomie/astrophysique/etoiles
 summary: >
-  Pourquoi cette etoile particuliere indique de maniere fiable le nord.
-tags: [etoiles, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'étoile Polaire indique le nord à moins d'un degré près. On la trouve grâce à la Grande Ourse.
+  Le jour, le Soleil et l'ombre d'un bâton donnent aussi les directions. Dans l'hémisphère Sud, la
+  Croix du Sud prend le relais.
+tags: [etoiles]
+relatedArticles: [lire-une-carte-topographique-principes-de-base, regle-des-trois-priorites-survie]
+sources:
+  - title: "Étoile polaire"
+    url: "https://fr.wikipedia.org/wiki/%C3%89toile_polaire"
+    publisher: "Wikipédia"
+  - title: "Polaris"
+    url: "https://en.wikipedia.org/wiki/Polaris"
+    publisher: "Wikipedia"
+  - title: "Croix du Sud"
+    url: "https://fr.wikipedia.org/wiki/Croix_du_Sud"
+    publisher: "Wikipédia"
+  - title: "Grande Ourse"
+    url: "https://fr.wikipedia.org/wiki/Grande_Ourse"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi l'étoile Polaire semble-t-elle immobile toute la nuit ?"
+    options:
+      - "Parce qu'elle se trouve presque exactement dans l'axe de rotation de la Terre, au-dessus du pôle Nord"
+      - "Parce qu'elle est la plus brillante"
+      - "Parce qu'elle est très proche de nous"
+    answer: 1
+    explanation: >
+      Toutes les étoiles semblent tourner autour d'elle au cours de la nuit, car la Terre tourne
+      sur un axe qui pointe vers elle.
+  - question: "Comment trouve-t-on l'étoile Polaire à partir de la Grande Ourse ?"
+    options:
+      - "En suivant le manche de la casserole"
+      - "En prolongeant environ cinq fois la distance entre les deux étoiles du bord de la casserole"
+      - "En regardant plein sud"
+    answer: 2
+    explanation: >
+      Les deux étoiles du bord extérieur de la casserole pointent vers la Polaire, une étoile
+      moyennement brillante.
+  - question: "Que nous apprend la hauteur de l'étoile Polaire au-dessus de l'horizon ?"
+    options:
+      - "L'heure exacte"
+      - "La date"
+      - "Notre latitude, à peu près"
+    answer: 3
+    explanation: >
+      À Paris, vers 49° de latitude nord, la Polaire est à environ 49° au-dessus de l'horizon. Au
+      pôle Nord, elle est au zénith ; à l'équateur, sur l'horizon.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Toute la nuit, les étoiles semblent tourner lentement dans le ciel. L'une d'elles reste presque
+immobile : l'**étoile Polaire**. Elle se trouve, à moins d'un degré près, au-dessus du pôle Nord de la
+Terre. Se tourner vers elle, c'est regarder **vers le nord**. On la trouve facilement grâce à la
+**Grande Ourse**. Le jour, le **Soleil** et l'**ombre d'un bâton** donnent aussi les directions. Dans
+l'hémisphère Sud, où la Polaire est invisible, on utilise la **Croix du Sud**.
+
+## Pourquoi la Polaire indique le nord
+
+La Terre tourne sur elle-même autour d'un axe qui passe par les pôles. Vu de la Terre, le ciel semble
+tourner autour du prolongement de cet axe. Au nord, ce point est occupé, par chance, par une étoile
+assez brillante : la Polaire. Elle est le point fixe autour duquel tournent toutes les autres.
+
+Cette situation n'est pas éternelle : l'axe de la Terre décrit lentement un cercle en environ 26 000
+ans. Dans quelques milliers d'années, une autre étoile jouera ce rôle.
+
+## La trouver grâce à la Grande Ourse
+
+1. Repérer la **Grande Ourse**, sept étoiles brillantes en forme de **casserole**, visible toute
+   l'année depuis la France.
+2. Prendre les **deux étoiles du bord** de la casserole, opposées au manche.
+3. Prolonger la ligne qui les relie, vers le haut de la casserole, d'environ **cinq fois** leur
+   écartement.
+4. On tombe sur une étoile moyennement brillante, isolée : la **Polaire**. Elle est aussi au bout du
+   manche de la **Petite Ourse**, plus pâle.
+
+[Emplacement image : ciel du nord montrant la Grande Ourse, l'alignement des deux étoiles de bord et l'étoile Polaire, légende et texte alternatif à fournir ultérieurement.]
+
+Face à la Polaire, on regarde vers le nord : le sud est dans le dos, l'est à droite, l'ouest à gauche.
+
+## Une indication de latitude
+
+La hauteur de la Polaire au-dessus de l'horizon est à peu près égale à la **latitude** de l'observateur.
+À Paris, vers 49° nord, elle est à environ 49° de hauteur. Au pôle Nord, elle serait juste au-dessus de
+la tête ; à l'équateur, sur l'horizon. Les navigateurs s'en sont servis pendant des siècles.
+
+## Dans l'hémisphère Sud
+
+La Polaire n'y est pas visible. On utilise la **Croix du Sud**, petite constellation de quatre étoiles
+brillantes. En prolongeant son grand axe d'environ **quatre fois et demie** sa longueur, on arrive près
+du pôle Sud céleste, qui n'est marqué par aucune étoile brillante. En dessous, sur l'horizon, se trouve
+le sud.
+
+## Le jour, avec le Soleil
+
+- **Le Soleil** se lève à peu près à l'est et se couche à peu près à l'ouest, avec un fort décalage
+  selon la saison. Dans l'hémisphère Nord, hors des tropiques, il est **plein sud** vers le milieu de la
+  journée solaire, vers 13 h en hiver et 14 h en été à l'heure légale française.
+- **La méthode du bâton** : on plante un bâton droit, on marque l'extrémité de son ombre, on attend
+  15 à 20 minutes et on marque la nouvelle extrémité. La ligne qui va de la première marque à la seconde
+  pointe à peu près vers **l'est**.
+
+## Les indices peu fiables
+
+La mousse sur les arbres, la forme des fourmilières ou l'orientation des églises sont des indices
+trompeurs : ils dépendent de l'humidité, du relief et des traditions locales. Mieux vaut s'en tenir au
+ciel, à une carte et à une boussole.
+
+## À retenir
+
+- L'étoile Polaire se trouve, à moins d'un degré près, au-dessus du pôle Nord : elle indique le nord.
+- On la trouve en prolongeant d'environ cinq fois les deux étoiles du bord de la Grande Ourse.
+- Sa hauteur au-dessus de l'horizon donne approximativement la latitude.
+- Dans l'hémisphère Sud, la Croix du Sud indique la direction du sud.
+- Le jour, la méthode de l'ombre d'un bâton donne l'axe est-ouest.
 
 ---
 type: article
