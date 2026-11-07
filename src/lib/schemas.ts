@@ -102,7 +102,11 @@ const barres = z.object({
   unite: z.string().trim().max(30).default(""),
   valeurs: z
     .array(
-      z.object({ label: short(60), valeur: z.number().nonnegative(), note: short(80).optional() }),
+      z.object({
+        label: z.union([z.string(), z.number()]).transform(String).pipe(short(60)),
+        valeur: z.number().nonnegative(),
+        note: short(80).optional(),
+      }),
     )
     .min(2)
     .max(10),
