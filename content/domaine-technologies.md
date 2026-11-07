@@ -308,8 +308,19 @@ problème.
 - L'acier d'une poutre en béton se place là où le béton s'étirerait.
 - Au-delà d'une certaine hauteur, le vent dimensionne plus que le poids.
 
-[Emplacement image : compression et traction dans un arc, un câble et une poutre, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de travailler pour un matériau
+colonnes:
+  - titre: Compression
+    points:
+      - On écrase le matériau
+      - Pierre et béton y résistent bien
+  - titre: Traction
+    points:
+      - On étire le matériau
+      - Acier et câbles y résistent bien
+```
 
 ---
 
@@ -425,8 +436,17 @@ d'excellents bilans mais des filières encore restreintes.
 - Réduire la part de clinker est le principal levier déployé.
 - Utiliser moins de béton reste le levier le plus efficace.
 
-[Emplacement image : origines des émissions dans la fabrication du ciment, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le poids climatique du ciment
+chiffres:
+  - valeur: 7 à 8 %
+    texte: des émissions mondiales de CO2
+  - valeur: Le calcaire
+    texte: sa décomposition chimique émet l'essentiel du CO2
+  - valeur: Moins de clinker
+    texte: le principal levier déjà déployé
+```
 
 ---
 
@@ -542,8 +562,19 @@ maintenance.
 - La fatigue fissure un métal sous des charges répétées, même modérées.
 - Le coût de l'entretien est très inférieur à celui de la réparation.
 
-[Emplacement image : mécanisme de corrosion des armatures dans le béton armé, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui use un pont
+centre: Pont
+icone: bridge
+parties:
+  - nom: Eau et chlorures
+    role: L'acier rouille et fait éclater le béton.
+  - nom: Fatigue
+    role: Les charges répétées fissurent le métal.
+  - nom: Surveillance
+    role: Inspections régulières.
+```
 
 ---
 
@@ -656,8 +687,22 @@ Et les muscles artificiels à base de polymères, encore au stade de la recherch
 - Pneumatique : léger, rapide et naturellement souple, donc peu précis.
 - Le réducteur convertit la vitesse du moteur en force utile.
 
-[Emplacement image : trois familles d'actionneurs et leurs domaines d'usage, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois familles d'actionneurs
+colonnes:
+  - titre: Électrique
+    points:
+      - Précis, facile à commander
+      - Puissance limitée
+  - titre: Hydraulique
+    points:
+      - Très puissant
+      - Lourd et difficile à doser
+  - titre: Pneumatique
+    points:
+      - Léger, rapide, souple
+```
 
 ---
 
@@ -765,8 +810,18 @@ devant un chantier improvisé.
 - Un capteur mesure ; l'interprétation de la scène est un tout autre problème.
 - Les systèmes échouent surtout sur les situations qu'ils n'ont jamais rencontrées.
 
-[Emplacement image : même scène vue par une caméra, un lidar et un radar, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les capteurs d'un robot
+legende: Chacun échoue dans certaines conditions ; la fusion compense.
+centre: Perception
+icone: robot
+parties:
+  - nom: Caméra
+  - nom: Laser
+  - nom: Radar
+  - nom: Ultrasons
+```
 
 ---
 
@@ -886,8 +941,18 @@ relativement calmes.
 - La planification se fait à deux niveaux : itinéraire global et évitement local.
 - Circuler parmi des humains demande un comportement lisible, pas seulement sûr.
 
-[Emplacement image : construction progressive d'une carte et correction par fermeture de boucle,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Se localiser et cartographier
+elements:
+  - titre: Se déplacer
+    texte: Le comptage des roues dérive.
+  - titre: Observer
+    texte: Les capteurs voient des repères.
+  - titre: Recaler la position
+  - titre: Mettre à jour la carte
+    icone: map
+```
 
 ---
 
@@ -1004,8 +1069,16 @@ Les points quantiques, dont la lumière émise dépend de la taille, utilisés d
 - Il est très résistant, conducteur, transparent et flexible.
 - Sa production industrielle en qualité constante reste le verrou principal.
 
-[Emplacement image : structure en nid d'abeille du graphène, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le graphène
+centre: Une couche de carbone d'un atome
+parties:
+  - nom: Très résistant
+  - nom: Conducteur
+  - nom: Transparent
+  - nom: Difficile à produire en grande quantité
+```
 
 ---
 
@@ -1127,8 +1200,19 @@ présence de nanomatériaux dans les produits de consommation.
 - La toxicité dépend de la taille et de la forme, pas seulement de la composition.
 - Une évaluation spécifique est nécessaire pour chaque matériau et chaque voie d'exposition.
 
-[Emplacement image : nanoparticule transportant un principe actif jusqu'à sa cible, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les nanotechnologies au quotidien
+centre: Nanomatériaux
+parties:
+  - nom: Médecine
+    role: Vecteurs de médicaments, dont les vaccins à ARN.
+  - nom: Objets courants
+    role: Crèmes solaires, textiles, écrans.
+  - nom: Énergie
+  - nom: Santé
+    role: La toxicité dépend de la taille et de la forme.
+```
 
 ---
 
@@ -1244,8 +1328,20 @@ bord de mer, sous les ultraviolets ou au contact de produits d'entretien.
 - Aucun matériau n'est optimal sur tous les critères à la fois.
 - Couple galvanique, dilatation différentielle et fatigue sont des pièges classiques.
 
-[Emplacement image : comparaison de matériaux sur résistance et densité, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Résistance ou rigidité
+colonnes:
+  - titre: Résistance
+    points:
+      - La charge avant la rupture
+  - titre: Rigidité
+    points:
+      - La déformation sous une charge
+  - titre: Dans les transports
+    points:
+      - On compare les propriétés rapportées à la masse
+```
 
 ---
 
@@ -1371,8 +1467,18 @@ incidents ne remontent pas, et l'on perd précisément l'information dont on a b
 - Une bonne conception prévoit où et comment les choses casseront.
 - Le retour d'expérience suppose que signaler un problème n'expose pas à une sanction.
 
-[Emplacement image : modèle des barrières de sécurité et alignement des défaillances, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le modèle des barrières
+legende: Un accident naît de l'alignement de plusieurs défaillances.
+elements:
+  - titre: Conception
+  - titre: Fabrication
+  - titre: Maintenance
+  - titre: Exploitation
+  - titre: Accident
+    texte: Quand toutes les barrières laissent passer.
+```
 
 ---
 
@@ -1999,8 +2105,19 @@ industriels et des additifs précis.
 - Mélangée à du sable, la chaux éteinte donne le mortier qui a lié les pierres pendant des millénaires.
 - Les Égyptiens l'utilisaient dès 4000 avant notre ère ; les traces les plus anciennes remontent à 9500 avant notre ère.
 
-[Emplacement image : coupe d'un four à chaux traditionnel avec les étapes de calcination et
-d'extinction, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le cycle de la chaux
+elements:
+  - titre: Calcaire
+  - titre: Cuisson
+    texte: Vers 900 à 1 000 °C.
+    icone: fire
+  - titre: Extinction
+    texte: Avec de l'eau, en plein air, avec prudence.
+  - titre: Durcissement
+    texte: La chaux reprend le CO2 de l'air.
+```
 
 ---
 
@@ -2113,8 +2230,20 @@ simples.
   l'argile de façon irréversible.
 - Des fours de terre simples suffisent à reproduire ce procédé sans installation industrielle.
 
-[Emplacement image : briques d'argile moulées séchant à l'air libre à côté d'un four traditionnel
-en fonctionnement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Fabriquer une brique
+elements:
+  - titre: Préparer l'argile
+    texte: Fines particules et sable.
+  - titre: Mouler
+    texte: Dans un moule rectangulaire.
+  - titre: Sécher
+    texte: Avant toute cuisson.
+  - titre: Cuire
+    texte: Une transformation irréversible.
+    icone: fire
+```
 
 ---
 
@@ -2330,8 +2459,16 @@ signes précoces de dégradation.
 - Un entretien régulier reste indispensable pour préserver la durabilité d'une route bien
   construite.
 
-[Emplacement image : coupe transversale d'une route montrant ses différentes couches et son
-système de drainage latéral, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les couches d'une route
+legende: Une surface bombée évacue l'eau vers les fossés.
+niveaux:
+  - titre: Couche de roulement
+  - titre: Couche de base
+  - titre: Couche de fondation
+  - titre: Sol drainé
+```
 
 ---
 
@@ -2446,8 +2583,17 @@ terme.
 - Un entretien régulier contre les dépôts minéraux maintenait le débit de l'eau sur le long
   terme.
 
-[Emplacement image : aqueduc romain à arches franchissant une vallée, avec un canal d'eau visible
-au sommet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Franchir le terrain sans rompre la pente
+centre: Aqueduc
+parties:
+  - nom: Pente continue
+    role: Très légère, jamais interrompue.
+  - nom: Ponts à arches
+  - nom: Tunnels
+  - nom: Siphons
+```
 
 ---
 
@@ -2543,6 +2689,20 @@ Pour que le rotor continue de tourner, le courant doit s'inverser à chaque demi
 ## Types et réversibilité
 
 Les moteurs à courant alternatif se répartissent en moteurs synchrones, dont la vitesse suit la fréquence du courant, et en moteurs asynchrones. Un moteur est réversible : entraîné mécaniquement, il produit de l'électricité comme un générateur, ce qui permet par exemple le freinage régénératif.
+
+```schema
+type: etapes
+titre: Du courant au mouvement
+elements:
+  - titre: Courant dans un fil
+  - titre: Champ magnétique
+    icone: magnet
+  - titre: Force de Lorentz
+    texte: Le fil subit une force.
+  - titre: Couple
+    texte: Le rotor tourne.
+    icone: gear
+```
 
 ## À retenir
 
@@ -2679,8 +2839,21 @@ ajustant un peu la vitesse et la force, pour obtenir précisément la combinaiso
 - Combiner plusieurs éléments en série permet d'obtenir précisément la vitesse et la force
   recherchées.
 
-[Emplacement image : train d'engrenages de tailles différentes engrenés les uns dans les autres,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Transmettre un mouvement
+colonnes:
+  - titre: Engrenages
+    points:
+      - Un petit qui entraîne un grand réduit la vitesse
+      - Et augmente la force
+  - titre: Courroies
+    points:
+      - Transmettent à distance
+  - titre: Chaînes
+    points:
+      - Transmission sans glissement
+```
 
 ---
 
@@ -2860,6 +3033,19 @@ L'effet Doppler, un décalage de fréquence ou de phase de l'écho, révèle si 
 ## Usages et histoire
 
 On s'en sert pour le contrôle aérien, la météo, la navigation maritime et le contrôle de la vitesse sur la route. Heinrich Hertz avait montré, au XIXe siècle, que les ondes radio se réfléchissent sur des objets. Le magnétron à cavité a permis de fabriquer des radars compacts, avec une meilleure résolution. Le radar s'est surtout développé avant et pendant la Seconde Guerre mondiale, avec la chaîne britannique Chain Home.
+
+```schema
+type: etapes
+titre: Le principe du radar
+elements:
+  - titre: Impulsion
+    texte: L'antenne émet de brèves ondes radio.
+  - titre: Écho
+    texte: L'objet renvoie une partie de l'onde.
+  - titre: Temps aller-retour
+    texte: Il donne la distance.
+  - titre: Position
+```
 
 ## À retenir
 
@@ -3372,8 +3558,19 @@ matériaux existants particulièrement avantageuse en l'absence d'industrie extr
 - Recycler un métal déjà raffiné demande beaucoup moins d'énergie que d'extraire un minerai
   neuf.
 
-[Emplacement image : tri de matériaux récupérés, métaux, plastiques et bois, avec un aimant
-utilisé pour tester leur nature, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Reconnaître un matériau récupéré
+centre: Matériau inconnu
+parties:
+  - nom: Aimant
+    role: Il distingue les métaux ferreux.
+  - nom: Couleur, poids, son
+    role: Pour affiner l'identification d'un métal.
+  - nom: Flottaison
+    role: Pour trier les plastiques.
+  - nom: État du bois
+```
 
 ---
 
@@ -3608,6 +3805,18 @@ En 1954, deux avions de ligne Comet se brisent en plein vol à quelques mois d'i
 
 Les ingénieurs ne peuvent pas tout calculer : la fatigue s'étudie surtout par des essais. Ils testent les pièces en les faisant travailler des millions de fois. Ils arrondissent les angles et soignent l'état de surface des pièces. Ils inspectent aussi régulièrement les avions, les trains et les ponts pour repérer les fissures avant qu'elles deviennent dangereuses.
 
+```schema
+type: etapes
+titre: La fatigue du métal
+elements:
+  - titre: Efforts répétés
+    texte: Faibles mais très nombreux.
+  - titre: Fissure minuscule
+    texte: Souvent dans un coin pointu.
+  - titre: Croissance lente
+  - titre: Rupture brutale
+```
+
 ## À retenir
 
 - La fatigue fait casser une pièce sous des efforts faibles mais répétés de très nombreuses fois.
@@ -3726,6 +3935,16 @@ L'inox n'est pas invincible. Le sel, le chlore ou un mauvais choix d'alliage peu
 En 1913, l'Anglais Harry Brearley travaille à Sheffield sur l'usure des canons d'armes à feu. Il remarque que ses échantillons polis pour être examinés ne s'oxydent pas. Il appelle son acier « rustless », « sans rouille ». Il sera rebaptisé « stainless », « sans tache ». À la même époque, d'autres chercheurs en Allemagne et aux États-Unis mettent au point des aciers semblables. En 1924, l'acier 18/8 voit le jour. C'est sans doute l'inox le plus utilisé.
 
 Aujourd'hui, on trouve l'inox partout : casseroles et couverts, instruments de chirurgie, bâtiments, bateaux, voitures et avions. Il est en plus entièrement recyclable.
+
+```schema
+type: chiffres
+titre: L'acier inoxydable
+chiffres:
+  - valeur: 10,5 %
+    texte: de chrome au moins
+  - valeur: Couche invisible
+    texte: d'oxyde, qui se reforme si on la raye
+```
 
 ## À retenir
 
@@ -4254,6 +4473,18 @@ Les avions utilisent des coefficients plus faibles, souvent de 1,5. La raison es
 
 Le coefficient de sécurité sert à la conception, avant la fabrication. Il ne permet pas d'accepter un objet défectueux. Si une pièce présente un défaut, on ne peut pas dire qu'elle reste sûre grâce à sa marge. Il faut la vérifier, la réparer ou la remplacer.
 
+```schema
+type: systeme
+titre: Ce que protège le coefficient de sécurité
+centre: Coefficient de sécurité
+icone: shield
+parties:
+  - nom: Surcharges
+  - nom: Erreurs d'utilisation
+  - nom: Défauts
+  - nom: Imprévus
+```
+
 ## À retenir
 
 - Un coefficient de sécurité rend un objet plusieurs fois plus résistant que nécessaire.
@@ -4764,6 +4995,20 @@ Cette protection ne dure pas toujours. Avec le temps, le dioxyde de carbone de l
 ## Une barque et des pots de fleurs
 
 En 1848, le Français Joseph-Louis Lambot construit une barque en ciment armé. Il en expose une à l'Exposition universelle de Paris en 1855. Le jardinier Joseph Monier cherche, lui, à fabriquer des bacs à orangers plus solides et moins chers. En 1867, il dépose un brevet pour des caisses en ciment armé de fer. En France, les premières règles officielles de calcul du béton armé datent du 20 octobre 1906.
+
+```schema
+type: comparaison
+titre: Béton armé, un duo
+colonnes:
+  - titre: Béton
+    points:
+      - Résiste bien à l'écrasement
+      - Environ dix fois moins à l'étirement
+  - titre: Acier
+    points:
+      - Placé dans les zones étirées
+      - Se dilate presque comme le béton
+```
 
 ## À retenir
 
@@ -5289,6 +5534,21 @@ Il existe aussi des barrages en remblai, faits de terre ou de roches entassées.
 
 Un barrage bouge très peu, trop peu pour que l'œil le voie. Des instruments mesurent pourtant ses déformations et l'eau qui s'infiltre dans le sol. Le moment le plus risqué est le premier remplissage. Le 2 décembre 1959, au-dessus de Fréjus, le barrage-voûte de Malpasset s'est rompu pendant sa mise en eau. C'est l'un de ses appuis rocheux qui a cédé. La vague a fait des centaines de victimes. C'est le seul cas connu de rupture d'un barrage-voûte.
 
+```schema
+type: comparaison
+titre: Barrage-poids ou barrage-voûte
+legende: La poussée grandit avec le carré de la hauteur d'eau.
+colonnes:
+  - titre: Barrage-poids
+    points:
+      - Résiste par sa masse
+      - Large en bas
+  - titre: Barrage-voûte
+    points:
+      - Courbé comme un arc couché
+      - Reporte la poussée sur les rives
+```
+
 ## À retenir
 
 - La poussée de l'eau augmente avec le carré de la hauteur d'eau, pas avec la taille du lac.
@@ -5435,6 +5695,21 @@ Pour monter, le bateau entre dans le sas et les portes se referment ; on laisse 
 ## Panama, l'eau et l'histoire
 
 Au canal de Panama, les écluses soulèvent les navires jusqu'au lac Gatún, puis les redescendent jusqu'au niveau de la mer de l'autre côté. Chaque passage consomme beaucoup d'eau : des bassins d'épargne en réutilisent une partie. Les premières écluses à sas sont nées en Chine, sous la dynastie Song, avant d'apparaître en Europe quelques siècles plus tard.
+
+```schema
+type: etapes
+titre: Monter dans une écluse
+elements:
+  - titre: Entrer
+    texte: Le bateau entre dans le sas, porte aval fermée derrière lui.
+  - titre: Remplir
+    texte: L'eau du bief amont entre par gravité.
+    icone: droplet
+  - titre: Monter
+    texte: Le bateau s'élève avec l'eau.
+  - titre: Sortir
+    texte: La porte amont s'ouvre.
+```
 
 ## À retenir
 
@@ -5924,7 +6199,17 @@ status: published
 
 Une machine simple change la direction ou l'intensité d'une force. On en compte six, dont le levier, la roue et l'essieu, et la poulie. La poulie permet de gagner en force, en payant ce gain en longueur de corde.
 
-[Emplacement image : curseur interactif « Combien de brins portent la charge ? ». L'utilisateur choisit un nombre de brins de corde de 1 à 4 et voit l'avantage mécanique, égal au nombre de brins, ainsi que la longueur de corde à tirer pour élever la charge d'un mètre, égale elle aussi au nombre de brins. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'avantage mécanique
+chiffres:
+  - valeur: 6
+    texte: machines simples classiques
+  - valeur: Levier
+    texte: avantage égal au rapport des longueurs des bras
+  - valeur: Poulies
+    texte: avantage égal au nombre de brins qui portent la charge
+```
 
 ## Six machines simples
 
@@ -6097,6 +6382,19 @@ Pour les bâtiments très importants, on va plus loin. L'isolation à la base co
 ## Une boule géante contre les balancements
 
 Une autre technique utilise un amortisseur à masse accordée. C'est une très lourde masse qui oscille en sens inverse des mouvements du bâtiment. La tour Taipei 101, à Taïwan, se trouve à 200 mètres d'une grande faille. Entre son 88e et son 92e étage pend une boule d'acier de 660 tonnes. Elle réduit les balancements de la tour, surtout ceux causés par le vent.
+
+```schema
+type: systeme
+titre: Les techniques parasismiques
+centre: Bâtiment parasismique
+parties:
+  - nom: Résistant et souple
+    role: Il se déforme sans rompre.
+  - nom: Isolation à la base
+    role: Le bâtiment est découplé du sol.
+  - nom: Amortisseur à masse
+    role: Une boule géante contre les balancements.
+```
 
 ## À retenir
 
@@ -8391,6 +8689,20 @@ Un drone à quatre hélices est naturellement instable : un coup de vent suffit 
 ## Une vieille idée devenue légère
 
 L'idée n'est pas nouvelle. En 1907, le gyroplane des frères Breguet et de Charles Richet, à quatre rotors, a décollé de 60 centimètres, tenu par quatre hommes. En 1924, l'ingénieur français Étienne Œhmichen a bouclé un circuit d'un kilomètre avec son appareil à quatre rotors. Mais ces machines étaient lourdes et difficiles à piloter. Entre 2005 et 2010, l'électronique a rendu les capteurs et les contrôleurs de vol petits et bon marché. Les petits drones à quatre hélices se sont alors répandus.
+
+```schema
+type: comparaison
+titre: Piloter un drone à quatre hélices
+colonnes:
+  - titre: Rester immobile
+    points:
+      - Deux hélices tournent dans un sens, deux dans l'autre
+      - Le drone ne tourne pas sur lui-même
+  - titre: Se déplacer
+    points:
+      - Changer la vitesse de chaque hélice
+      - Pencher pour avancer
+```
 
 ## À retenir
 
@@ -10866,6 +11178,18 @@ Le graphène a d'autres qualités rares. Ses électrons s'y déplacent très fac
 
 Produire un peu de graphène avec du ruban adhésif est facile. En fabriquer beaucoup, de bonne qualité et pas trop cher, reste difficile. Le marché mondial du graphène valait 9 millions de dollars en 2012. Il était estimé à 380 millions de dollars en 2022.
 
+```schema
+type: chiffres
+titre: Le graphène
+chiffres:
+  - valeur: 1 atome
+    texte: d'épaisseur, en nid d'abeilles
+  - valeur: 2004
+    texte: isolé avec du ruban adhésif
+  - valeur: 2010
+    texte: prix Nobel de physique
+```
+
 ## À retenir
 
 - Le graphène est une feuille de carbone épaisse d'un seul atome, en forme de nid d'abeilles.
@@ -11289,6 +11613,20 @@ Le vérin hydraulique coûte plus cher qu'un vérin à air. On le choisit quand 
 
 Certains robots ont besoin de beaucoup de force dans un corps compact. Le robot humanoïde Atlas, de l'entreprise américaine Boston Dynamics, a été présenté le 11 juillet 2013. Il bougeait grâce à des vérins hydrauliques. En 2016, une nouvelle version mesurait 1,50 mètre pour 80 kilogrammes. Plus tard, elle savait même faire des saltos arrière et des parcours d'obstacles. En avril 2024, Atlas hydraulique a été mis à la retraite. Il a été remplacé par une version entièrement électrique.
 
+```schema
+type: etapes
+titre: Le vérin hydraulique
+elements:
+  - titre: Pompe
+    texte: Elle met l'huile sous pression.
+  - titre: Principe de Pascal
+    texte: La pression se transmet partout.
+  - titre: Piston
+    texte: Une grande surface reçoit une grande force.
+  - titre: Machine
+    texte: Jusqu'à 350 bars en usage courant.
+```
+
 ## À retenir
 
 - Un vérin est un tube dans lequel un fluide sous pression pousse un piston.
@@ -11678,6 +12016,18 @@ Les voitures autonomes s'en servent. En 2005, la voiture sans conducteur Stanley
 ## De la Lune aux forêts
 
 Le premier système proche du lidar a été présenté en 1961 par l'entreprise américaine Hughes Aircraft, peu après l'invention du laser. Il servait à suivre des satellites. En 1971, pendant la mission Apollo 15, des astronautes ont utilisé un altimètre laser pour cartographier la surface de la Lune. Aujourd'hui, des lidars installés sur des avions dessinent des cartes très précises du relief. Ils peuvent même retrouver la forme du sol caché sous les arbres.
+
+```schema
+type: etapes
+titre: Le lidar
+elements:
+  - titre: Impulsion laser
+  - titre: Retour chronométré
+  - titre: Distance
+    texte: Grâce à la vitesse de la lumière.
+  - titre: Nuage de points
+    texte: En balayant tout autour.
+```
 
 ## À retenir
 
@@ -12318,6 +12668,19 @@ La photolithographie est la technique la plus réussie commercialement, capable 
 
 La lithographie par ultraviolets extrêmes utilise une lumière de très courte longueur d'onde pour tracer les motifs les plus fins des puces avancées. La lumière est produite en frappant de minuscules gouttes d'étain fondu avec un laser : l'étain devient un plasma qui émet les ultraviolets extrêmes. Le verre et l'air absorbent cette lumière, donc la machine utilise des miroirs au lieu de lentilles et travaille sous vide. Une seule entreprise, ASML, vend aujourd'hui ces machines pour la production de puces ; chacune pèse près de deux cents tonnes et coûte très cher. Ces machines consomment beaucoup d'électricité pour une puissance de lumière modeste. Les nanomatériaux peuvent causer stress oxydant et inflammation, et traversent plus facilement les barrières des cellules que de plus grosses particules.
 
+```schema
+type: comparaison
+titre: Construire à l'échelle nanométrique
+colonnes:
+  - titre: Approche descendante
+    points:
+      - Sculpter un matériau massif
+      - Par exemple par lithographie
+  - titre: Approche ascendante
+    points:
+      - Assembler atomes et molécules
+```
+
 ## À retenir
 
 - Le nanomètre vaut un milliardième de mètre, de l'ordre de la distance entre deux atomes.
@@ -12400,6 +12763,17 @@ On réduit déjà les émissions en remplaçant une partie du clinker par des ce
 ## Les géopolymères, un autre liant
 
 Les géopolymères sont des matériaux minéraux fabriqués à partir d'aluminosilicates, comme le métakaolin, les cendres volantes ou le laitier, activés par une solution alcaline. Ils durcissent à température ambiante ou modérée, en formant un réseau tridimensionnel. Les ciments géopolymères peuvent émettre moins de CO2 que le ciment Portland ordinaire, et ils valorisent des sous-produits industriels. On les utilise aussi pour des revêtements résistant au feu, des composites aéronautiques et l'enrobage de déchets radioactifs. Les normes du ciment Portland ne s'appliquent pas à eux : il manque des spécifications adaptées. Leurs activateurs alcalins sont corrosifs et demandent des précautions, et leur fabrication émet elle-même du CO2. Leurs propriétés varient selon l'origine des matières premières, et certaines formules exigent une cuisson à chaud.
+
+```schema
+type: systeme
+titre: Réduire les émissions du béton
+centre: Béton bas-carbone
+parties:
+  - nom: Moins de clinker
+    role: Remplacé par cendres volantes ou laitier.
+  - nom: Géopolymères
+    role: Un autre liant.
+```
 
 ## À retenir
 
@@ -12504,6 +12878,19 @@ Des exosquelettes médicaux aident des personnes après un accident vasculaire c
 
 Les obstacles de conception sont le confort, l'ajustement à des corps différents, l'autonomie des batteries et la complexité de la commande. Les versions motorisées sont plus lourdes et plus chères. Dans l'industrie et le bâtiment, des exosquelettes réduisent la fatigue et le risque de blessure. Plus de cent produits existent sur le marché, et leur usage devrait croître nettement dans les années à venir.
 
+```schema
+type: comparaison
+titre: Deux types d'exosquelettes
+colonnes:
+  - titre: Passif
+    points:
+      - Ressorts et structure, sans moteur
+  - titre: Motorisé
+    points:
+      - Moteurs électriques ou hydrauliques
+      - Aide à marcher ou à porter
+```
+
 ## À retenir
 
 - Un exosquelette est un dispositif porté sur le corps qui soutient ou amplifie le mouvement, par interaction mécanique.
@@ -12589,6 +12976,19 @@ Les formes obtenues sont souvent organiques et complexes, difficiles à fabrique
 ## Un lien avec l'impression 3D
 
 Les résultats peuvent être fabriqués directement par fabrication additive, qui dépose la matière couche par couche, seulement là où il le faut. L'impression 3D permet des formes très complexes, creuses ou avec des treillis internes, avec moins de déchets. La recherche intègre des contraintes de fabrication, et des filtres corrigent la dépendance au maillage.
+
+```schema
+type: etapes
+titre: L'optimisation topologique
+elements:
+  - titre: Volume et charges
+  - titre: Calcul
+    texte: Il répartit la matière là où elle sert.
+    icone: chip
+  - titre: Forme organique
+  - titre: Impression 3D
+    texte: Pour fabriquer ces formes complexes.
+```
 
 ## À retenir
 
@@ -12683,6 +13083,20 @@ Plusieurs projets annoncent des économies de matière importantes, car on dépo
 ## Un pont en acier, et les défis
 
 À Amsterdam, un pont piéton en acier inoxydable a été imprimé par des robots par dépôt de métal fondu, et mis en service au-dessus d'un canal. Il a été conçu par Joris Laarman Lab et dimensionné par le bureau d'ingénierie Arup. Des capteurs mesurent déformation, déplacement, vibrations et conditions de l'air, et alimentent un jumeau numérique du pont. L'armature, les règlements de construction et la résistance entre les couches imprimées restent des défis.
+
+```schema
+type: frise
+titre: Des ponts imprimés
+evenements:
+  - date: Alcobendas
+    titre: Passerelle piétonne en béton
+    texte: Forme organique, près de Madrid.
+  - date: Gemert
+    titre: Passerelle cyclable
+    texte: Aux Pays-Bas.
+  - date: Acier
+    titre: Pont imprimé en acier
+```
 
 ## À retenir
 
@@ -12782,6 +13196,19 @@ Un bureau de plusieurs centaines de mètres carrés, présenté comme le premier
 
 Les démonstrations de rapidité sont impressionnantes, mais certaines annonces d'entreprises restent contestées. L'intégration de l'armature dans les murs imprimés est un défi. Il faut aussi respecter les règlements de construction, garantir la régularité du matériau et la résistance entre les couches. Reste à prouver que la méthode est rentable par rapport à la construction classique.
 
+```schema
+type: comparaison
+titre: Imprimer une maison
+colonnes:
+  - titre: Ce qui est possible
+    points:
+      - Extrusion de béton couche par couche
+      - Des réalisations existent
+  - titre: Les défis
+    points:
+      - Normes, armatures, coût
+```
+
 ## À retenir
 
 - L'impression 3D dans la construction utilise l'impression comme méthode principale pour fabriquer des bâtiments ou des parties de bâtiments.
@@ -12865,6 +13292,18 @@ Dans les systèmes intrinsèques, ce sont les propriétés du matériau lui-mêm
 ## Des limites
 
 La récupération de résistance varie beaucoup d'un système à l'autre ; la plupart des systèmes retrouvent peu de leur résistance. Les systèmes à capsules ne fonctionnent en général qu'une fois, car les capsules sont vidées ; les canaux permettent de recharger, mais compliquent la structure. Le coût, notamment de catalyseurs à base de ruthénium, freine l'adoption à grande échelle. La complexité et le besoin de plusieurs cycles de réparation freinent aussi l'usage commercial. Le même principe vaut pour le béton, où des capsules ou des bactéries réparent les fissures.
+
+```schema
+type: comparaison
+titre: Deux façons de s'autoréparer
+colonnes:
+  - titre: Extrinsèque
+    points:
+      - Un agent réparateur stocké à part, en capsules
+  - titre: Intrinsèque
+    points:
+      - Des liaisons réversibles dans le matériau
+```
 
 ## À retenir
 
@@ -12950,6 +13389,21 @@ Des engins lourds autonomes, comme des excavatrices, déplacent les matériaux. 
 
 Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais. Beaucoup d'ouvriers qualifiés approchent de la retraite, et des postes restent vacants. Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées. Le coût d'achat est un frein, surtout pour les petites entreprises, et il faut intégrer les robots aux méthodes de travail. Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine. Des exosquelettes réduisent la fatigue et le risque de blessure.
 
+```schema
+type: systeme
+titre: Les robots de chantier
+centre: Chantier
+icone: crane
+parties:
+  - nom: Robots maçons
+    role: Posent les briques.
+  - nom: Robots ligateurs
+    role: Lient les armatures.
+  - nom: Creuser, démolir, surveiller
+  - nom: Les ouvriers
+    role: Toujours nécessaires.
+```
+
 ## À retenir
 
 - Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue.
@@ -13033,6 +13487,19 @@ On les emploie pour des installations sportives, des entrepôts, des abris tempo
 ## Se déplier
 
 Une structure déployable peut changer de forme de façon à modifier fortement sa taille. Un parapluie en est un exemple, tout comme les structures à tenségrité, bistables, inspirées de l'origami ou à ciseaux. Dans l'espace, elles servent pour les panneaux solaires et les voiles solaires, comme le mât déployable du télescope NuSTAR. On distingue les structures articulées à éléments rigides, l'assemblage en orbite et les structures à grande déformation de matériaux souples.
+
+```schema
+type: comparaison
+titre: Structures compactes
+colonnes:
+  - titre: Gonflable
+    points:
+      - L'air donne la forme
+      - Se range tout petit
+  - titre: Dépliable
+    points:
+      - Une structure qui se déploie
+```
 
 ## À retenir
 
@@ -13118,6 +13585,18 @@ La microencapsulation place de minuscules capsules dans le béton : elles se rom
 
 Le béton romain, à base de chaux et de cendres volcaniques, s'est déjà réparé de lui-même pendant des siècles. Des recherches montrent que des grumeaux de chaux réagissent avec l'eau qui s'infiltre dans les fissures et forment de nouveaux cristaux de carbonate. Dans l'eau de mer, le béton romain forme des cristaux qui le rendent très durable, alors que le béton moderne se détériore en quelques décennies. Le dôme du Panthéon est le plus grand et le plus ancien dôme en béton non armé. On explore des formules inspirées de la méthode romaine avec des cendres volantes de charbon. Le marché du béton autocicatrisant devrait croître fortement.
 
+```schema
+type: systeme
+titre: Les bétons autocicatrisants
+centre: Fissure
+parties:
+  - nom: Cicatrisation autogène
+    role: Naturelle, pour de fines fissures.
+  - nom: Capsules
+  - nom: Bactéries
+  - nom: Chaux romaine
+```
+
 ## À retenir
 
 - Un béton autocicatrisant est un béton capable de réparer lui-même ses fissures, en retrouvant en partie ou en totalité ses propriétés mécaniques.
@@ -13189,7 +13668,18 @@ status: published
 
 Le nitinol, alliage de nickel et de titane, garde en mémoire sa forme d'origine : déformé à froid, il la retrouve quand on le chauffe.
 
-[Emplacement image : diagramme en quatre étapes, « Comment un alliage se souvient de sa forme ». À basse température : la martensite est la structure favorisée. Déformation à froid : l'alliage peut être déformé. Chauffage : l'austénite devient la structure favorisée. Forme d'origine : l'alliage retrouve sa forme d'origine. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux talents du nitinol
+legende: Un alliage de nickel et de titane.
+colonnes:
+  - titre: Mémoire de forme
+    points:
+      - Déformé, il reprend sa forme en chauffant
+  - titre: Superélasticité
+    points:
+      - Il encaisse de grandes déformations et revient
+```
 
 ## Un alliage de nickel et de titane
 
@@ -13218,3 +13708,4 @@ Le nitinol sert notamment aux cathéters, aux stents et aux aiguilles superélas
 - Déformé à froid, un alliage à mémoire de forme retrouve sa forme d'origine quand on le chauffe.
 - La superélasticité lui permet de subir de grandes déformations et de reprendre aussitôt sa forme.
 - Il sert aux stents, aux fils orthodontiques des dentistes et à des montures de lunettes très résistantes.
+
