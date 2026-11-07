@@ -297,8 +297,15 @@ Ces usages sont beaucoup plus difficiles à remplacer que la combustion, et ils 
 - Le gaz émet moins de CO2 que le charbon, mais les fuites de méthane pèsent lourd.
 - Plastiques, engrais et médicaments dépendent aussi du pétrole.
 
-[Emplacement image : densité énergétique comparée des principaux vecteurs d'énergie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Pourquoi le pétrole est si difficile à remplacer
+chiffres:
+  - valeur: 1 litre
+    texte: d'essence contient autant d'énergie que 40 kg de batteries
+  - valeur: Millions d'années
+    texte: pour former ce stock, qui n'est pas un flux
+```
 
 ---
 
@@ -403,8 +410,20 @@ continue de croître, ce qui complique la sortie.
 - Il est abondant, bon marché, stockable simplement, et les centrales existent.
 - Il tue aussi par la pollution de l'air, de manière immédiate et locale.
 
-[Emplacement image : émissions comparées des sources d'électricité, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Pourquoi le charbon tient, et ce qu'il coûte
+centre: Charbon
+parties:
+  - nom: Abondant et bon marché
+    role: Et les centrales existent déjà.
+  - nom: Stockable simplement
+    role: En tas, sans installation complexe.
+  - nom: Le plus émetteur de CO2
+    role: Par unité d'électricité produite.
+  - nom: Pollution de l'air
+    role: Il tue aussi de façon immédiate et locale.
+```
 
 ---
 
@@ -497,6 +516,16 @@ Le risque d'accident enfin. Il est faible en probabilité mais ses conséquences
 durables et territoriales, comme l'ont montré Tchernobyl et Fukushima. Cette combinaison — faible
 probabilité, conséquences lourdes — est particulièrement difficile à évaluer collectivement.
 
+```schema
+type: chiffres
+titre: Le nucléaire dans le monde
+chiffres:
+  - valeur: 416
+    texte: réacteurs environ
+  - valeur: 9 %
+    texte: de l'électricité mondiale, environ
+```
+
 ## À retenir
 
 - Environ 416 réacteurs, près de 9 % de l'électricité mondiale.
@@ -504,8 +533,22 @@ probabilité, conséquences lourdes — est particulièrement difficile à éval
 - Peu d'émissions et production pilotable, indépendante de la météo.
 - Coût de construction, déchets à vie longue et risque d'accident sont les trois difficultés.
 
-[Emplacement image : schéma de fonctionnement d'un réacteur à eau pressurisée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Une centrale nucléaire, une centrale à vapeur
+elements:
+  - titre: Fission
+    texte: Elle chauffe l'eau du réacteur.
+    icone: atom
+  - titre: Vapeur
+    texte: La chaleur produit de la vapeur.
+  - titre: Turbine
+    texte: La vapeur la fait tourner.
+    icone: turbine
+  - titre: Alternateur
+    texte: Il produit l'électricité.
+    icone: bolt
+```
 
 ---
 
@@ -611,8 +654,17 @@ transition, souvent absente des comparaisons de prix par kilowattheure.
 - La capacité installée n'est pas la production réelle.
 - Le coût du solaire a chuté de plus de 90 % en quinze ans.
 
-[Emplacement image : croissance de la capacité renouvelable mondiale par technologie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères des renouvelables
+chiffres:
+  - valeur: 600 GW
+    texte: de solaire installés dans le monde en 2025, environ
+  - valeur: 32 % → 43 %
+    texte: part des renouvelables dans l'électricité d'ici 2030
+  - valeur: "-90 %"
+    texte: baisse du coût du solaire en quinze ans
+```
 
 ---
 
@@ -715,8 +767,17 @@ d'atténuation, comme l'arrêt temporaire des machines lors des périodes de mig
 - L'éolien en mer produit davantage grâce à un vent plus fort et régulier.
 - Le recyclage des pales composites reste une difficulté.
 
-[Emplacement image : puissance d'une éolienne en fonction de la vitesse du vent, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'éolien en 2024
+chiffres:
+  - valeur: 117 GW
+    texte: installés dans l'année
+  - valeur: 1 136 GW
+    texte: de parc mondial
+  - valeur: Cube
+    texte: la puissance varie comme le cube de la vitesse du vent
+```
 
 ---
 
@@ -818,8 +879,21 @@ Et la sécheresse réduit la production, ce qui fragilise les pays très dépend
 - Le pompage-turbinage stocke l'électricité avec un rendement supérieur à 75 %.
 - Il représente l'essentiel de la capacité mondiale de stockage.
 
-[Emplacement image : principe d'une station de transfert d'énergie par pompage, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La station de pompage, une batterie d'eau
+elements:
+  - titre: Électricité abondante
+    texte: L'eau est pompée vers le bassin du haut.
+  - titre: Stockage
+    texte: L'eau attend en hauteur.
+    icone: droplet
+  - titre: Forte demande
+    texte: L'eau redescend dans les turbines.
+    icone: bolt
+  - titre: Bassin du bas
+    texte: L'eau est prête à être remontée.
+```
 
 ---
 
@@ -921,8 +995,19 @@ produire de l'électricité, mais coûte beaucoup moins cher.
 - Les renouvelables déplacent l'ajustement de la production vers le stockage et la demande.
 - L'effacement de consommation équivaut à de la production, en moins coûteux.
 
-[Emplacement image : équilibre production-consommation et variation de la fréquence, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce que dit la fréquence du réseau
+colonnes:
+  - titre: Production supérieure
+    points:
+      - La fréquence monte
+      - On réduit la production ou on stocke
+  - titre: Consommation supérieure
+    points:
+      - La fréquence baisse
+      - On produit plus ou on efface de la consommation
+```
 
 ---
 
@@ -1026,8 +1111,17 @@ stockage fixe, où le poids n'a aucune importance, c'est un compromis intéressa
 - Les batteries conviennent au stockage de quelques heures, pas au stockage saisonnier.
 - Le sodium-ion utilise une matière abondante, au prix d'une densité plus faible.
 
-[Emplacement image : évolution du prix des batteries lithium-ion depuis 2010, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Prix d'une batterie lithium-ion
+unite: $/kWh
+valeurs:
+  - label: Début des années 2010
+    valeur: 1000
+    note: plus de
+  - label: Fin 2025
+    valeur: 108
+```
 
 ---
 
@@ -1136,8 +1230,19 @@ facilement, fragilise certains métaux, et demande une compression très forte o
 - Son usage le plus utile est de remplacer l'hydrogène fossile déjà consommé par l'industrie.
 - Pour les voitures et le chauffage, l'électricité directe est bien plus efficace.
 
-[Emplacement image : chaîne de production et d'usage de l'hydrogène selon sa couleur, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'hydrogène, où il a du sens
+legende: Il doit être fabriqué, c'est un vecteur et non une source.
+colonnes:
+  - titre: Usage utile
+    points:
+      - Remplacer l'hydrogène fossile de l'industrie
+  - titre: Usage moins pertinent
+    points:
+      - Voitures et chauffage
+      - L'électricité directe y est bien plus efficace
+```
 
 ---
 
@@ -1238,8 +1343,21 @@ surestiment systématiquement leurs résultats, parce qu'elles raisonnent à usa
 - L'effet rebond absorbe une partie des gains d'efficacité.
 - Les prévisions à usage constant surestiment les économies réelles.
 
-[Emplacement image : gain théorique et gain réel après effet rebond, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Efficacité ou sobriété
+colonnes:
+  - titre: Efficacité
+    points:
+      - Le même service avec moins d'énergie
+      - Une pompe à chaleur rend trois à quatre fois l'électricité consommée
+  - titre: Sobriété
+    points:
+      - On réduit le service lui-même
+  - titre: Effet rebond
+    points:
+      - Une partie des gains est absorbée par plus d'usage
+```
 
 ---
 
@@ -1338,8 +1456,20 @@ hiérarchiser, et ne pas s'épuiser sur un poste marginal en ayant le sentiment 
 - Une pompe à chaleur divise la consommation de chauffage par trois ou quatre.
 - Éteindre les veilles est utile mais marginal au regard des autres postes.
 
-[Emplacement image : répartition de la consommation d'énergie d'un logement par usage, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les leviers par ordre d'efficacité
+elements:
+  - titre: Le chauffage
+    texte: Il domine largement la consommation d'un logement.
+    icone: fire
+  - titre: Isoler les combles
+    texte: Souvent le meilleur rapport coût-économie.
+  - titre: Pompe à chaleur
+    texte: Elle divise par trois ou quatre la consommation de chauffage.
+  - titre: Les veilles
+    texte: Utile, mais marginal.
+```
 
 ---
 
@@ -1435,8 +1565,18 @@ sulfurique.
 - Le craquage casse les molécules lourdes pour produire davantage de carburants légers.
 - La désulfuration retire le soufre, responsable de pollution à la combustion.
 
-[Emplacement image : coupe d'une tour de distillation avec les produits recueillis par niveau,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du pétrole brut aux carburants
+elements:
+  - titre: Distillation
+    texte: Les molécules se séparent selon leur température d'ébullition.
+    icone: factory
+  - titre: Craquage
+    texte: Les molécules lourdes sont cassées en carburants légers.
+  - titre: Désulfuration
+    texte: On retire le soufre, source de pollution.
+```
 
 ---
 
@@ -1538,8 +1678,20 @@ faut-il pouvoir récupérer les déchets plus tard, si une meilleure solution ap
 - Un faible volume concentre l'essentiel de la radioactivité.
 - Le stockage géologique profond vise une barrière passive, sans surveillance perpétuelle.
 
-[Emplacement image : classement des déchets radioactifs par activité et durée de vie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Activité et durée de vie, deux critères
+colonnes:
+  - titre: Très actifs
+    points:
+      - Faible volume
+      - Concentrent l'essentiel de la radioactivité
+      - Stockage géologique profond envisagé
+  - titre: Peu actifs
+    points:
+      - Grand volume
+      - Faible radioactivité
+```
 
 ---
 
@@ -1647,8 +1799,22 @@ solution pour la décennie en cours.
 - Il faut dépasser cent millions de degrés et confiner un plasma par champ magnétique.
 - La production d'électricité sur le réseau reste une échéance lointaine.
 
-[Emplacement image : principe d'un tokamak et confinement magnétique du plasma, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Fission ou fusion
+colonnes:
+  - titre: Fission
+    icone: atom
+    points:
+      - Casse des noyaux lourds
+      - Utilisée dans les centrales actuelles
+  - titre: Fusion
+    icone: sun
+    points:
+      - Assemble des noyaux légers
+      - Plus de cent millions de degrés
+      - Plasma confiné par un champ magnétique
+```
 
 ---
 
@@ -1748,8 +1914,21 @@ panneau préfère une journée froide et lumineuse à une canicule.
 - L'ombrage partiel pénalise fortement les panneaux reliés en série.
 - Le rendement diminue quand la température monte.
 
-[Emplacement image : coupe d'une cellule photovoltaïque et trajet des électrons, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De la lumière au courant
+elements:
+  - titre: Lumière
+    texte: Elle frappe le silicium.
+    icone: sun
+  - titre: Électrons libérés
+    texte: La lumière arrache des électrons.
+  - titre: Champ interne
+    texte: Il oriente les électrons dans un sens.
+  - titre: Courant
+    texte: Environ 20 à 22 % de la lumière convertie.
+    icone: bolt
+```
 
 ---
 
@@ -1855,8 +2034,21 @@ largement concurrencées.
 - Les centrales à concentration concentrent le rayonnement par des miroirs mobiles.
 - La chaleur stockée dans des sels fondus permet de produire après le coucher du soleil.
 
-[Emplacement image : centrale solaire à tour avec champ d'héliostats et stockage, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Une centrale solaire à concentration
+elements:
+  - titre: Miroirs mobiles
+    texte: Ils concentrent le rayonnement.
+    icone: sun
+  - titre: Chaleur
+    texte: Elle est captée au point de concentration.
+  - titre: Sels fondus
+    texte: Ils stockent la chaleur.
+  - titre: Électricité
+    texte: Produite même après le coucher du soleil.
+    icone: bolt
+```
 
 ---
 
@@ -1966,8 +2158,21 @@ différence, avec des résultats imparfaits.
 - Le système est dimensionné pour la pointe annuelle, pas pour la moyenne.
 - Le décalage entre production solaire et pointe de demande est un défi central.
 
-[Emplacement image : courbe de consommation journalière et production solaire superposées,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois façons de produire
+colonnes:
+  - titre: Pilotable
+    points:
+      - On décide quand produire
+      - Barrages, centrales thermiques
+  - titre: Variable
+    points:
+      - Dépend du vent et du soleil
+  - titre: Fatale
+    points:
+      - Produite qu'on en ait besoin ou non
+```
 
 ---
 
@@ -2073,8 +2278,19 @@ réactions, ce qui fait encore monter la température. D'où les dispositifs de 
 - Chaleur, charge rapide et charge pleine prolongée accélèrent le vieillissement.
 - Maintenir la charge entre 20 et 80 % prolonge la durée de vie.
 
-[Emplacement image : trajet des ions et des électrons lors de la charge et de la décharge,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Charge et décharge
+colonnes:
+  - titre: Charge
+    points:
+      - Les ions lithium vont vers l'électrode négative
+      - Le chargeur pousse les électrons
+  - titre: Décharge
+    points:
+      - Les ions reviennent vers l'électrode positive
+      - Les électrons passent par le circuit, c'est le courant
+```
 
 ---
 
@@ -2176,8 +2392,19 @@ malentendus dans le débat public.
 - Cette perte est une limite physique, pas un défaut technique.
 - Comparer des chiffres d'énergie sans préciser lesquels conduit à des erreurs.
 
-[Emplacement image : diagramme de flux de l'énergie primaire à l'énergie utile, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De l'énergie primaire à l'énergie utile
+elements:
+  - titre: Énergie primaire
+    texte: Celle disponible dans la nature.
+  - titre: Transformation
+    texte: Une centrale thermique ne convertit qu'environ un tiers du combustible.
+    icone: factory
+  - titre: Énergie finale
+    texte: Celle livrée à l'usager.
+    icone: house
+```
 
 ---
 
@@ -3636,8 +3863,20 @@ local, souvent source de tensions.
 - Le Domesday Book de 1086 recense déjà environ 6 000 moulins en Angleterre.
 - Un moulin moyen développait quelques kilowatts, largement au-delà de la force humaine ou animale.
 
-[Emplacement image : coupe d'un moulin à eau avec roue à augets, bief et mécanisme de meule,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de faire tourner une roue
+colonnes:
+  - titre: Roue à augets
+    points:
+      - Alimentée par le haut
+      - L'eau tombe dans des augets
+      - Plus efficace
+  - titre: Roue à aubes
+    points:
+      - Poussée par le seul courant
+      - Plus simple à installer
+```
 
 ---
 
@@ -3781,9 +4020,22 @@ de conditions météorologiques changeantes.
 - Ces installations produisent typiquement entre cinq et cent kilowatts, assez pour un hameau.
 - Contrairement au solaire ou à l'éolien, elles produisent en continu tant que l'eau coule.
 
-[Emplacement image : petite turbine hydroélectrique installée sur un cours d'eau, reliée à un
-générateur alimentant quelques habitations, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Une microcentrale au fil de l'eau
+elements:
+  - titre: Prise d'eau
+    texte: Une partie du cours d'eau est détournée.
+    icone: droplet
+  - titre: Chute
+    texte: Hauteur et débit fixent la puissance.
+  - titre: Turbine
+    texte: Elle tourne en continu.
+    icone: turbine
+  - titre: Générateur
+    texte: Il alimente quelques habitations.
+    icone: house
+```
 
 ---
 
@@ -3951,8 +4203,19 @@ important.
 - Une bobine de cuivre et un aimant en rotation suffisent à construire un générateur électrique
   rudimentaire.
 
-[Emplacement image : schéma d'un aimant tournant à l'intérieur d'une bobine de fil produisant un
-courant électrique, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'induction électromagnétique
+legende: Découverte par Michael Faraday en 1831.
+elements:
+  - titre: Un aimant
+    icone: magnet
+  - titre: Du mouvement
+    texte: Seule la variation du champ produit du courant.
+  - titre: Une bobine de fil
+  - titre: Un courant électrique
+    icone: bolt
+```
 
 ---
 
@@ -4063,8 +4326,20 @@ l'acidité de l'électrolyte.
 - Cette technologie reste peu coûteuse, robuste et presque entièrement recyclable.
 - Le plomb et l'acide utilisés restent dangereux à manipuler sans précautions adaptées.
 
-[Emplacement image : coupe d'une batterie au plomb montrant les plaques immergées dans
-l'électrolyte acide, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Une batterie au plomb
+legende: Inventée par Gaston Planté en 1859.
+centre: Batterie au plomb
+icone: battery
+parties:
+  - nom: Deux plaques de plomb
+    role: De natures différentes.
+  - nom: Acide sulfurique dilué
+    role: L'électrolyte dans lequel elles baignent.
+  - nom: Réaction réversible
+    role: La batterie se recharge.
+```
 
 ---
 
@@ -4380,8 +4655,17 @@ simple du principe de l'électrolyse.
   utilisée.
 - Une expérience simple avec de l'eau salée et un courant faible illustre ce principe.
 
-[Emplacement image : schéma d'un électrolyseur avec deux électrodes plongées dans l'eau produisant
-des bulles d'hydrogène et d'oxygène, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Un électrolyseur
+centre: Courant électrique dans l'eau
+icone: bolt
+parties:
+  - nom: Cathode
+    role: L'hydrogène s'y forme, deux volumes.
+  - nom: Anode
+    role: L'oxygène s'y forme, un volume.
+```
 
 ---
 
@@ -4519,6 +4803,22 @@ Le coefficient de performance mesure le rapport entre la chaleur fournie et l'é
 
 Une pompe réversible chauffe en hiver et rafraîchit en été en inversant le sens de circulation du fluide grâce à une vanne à quatre voies. Il existe des pompes air-air, air-eau et géothermiques, ces dernières puisant la chaleur du sol par des forages horizontaux ou verticaux.
 
+```schema
+type: cycle
+titre: Le voyage du fluide dans une pompe à chaleur
+elements:
+  - titre: Évaporateur
+    texte: Le fluide froid absorbe la chaleur dehors et se vaporise.
+    icone: snowflake
+  - titre: Compresseur
+    texte: Le gaz comprimé devient chaud.
+  - titre: Condenseur
+    texte: Il cède sa chaleur à la maison et redevient liquide.
+    icone: house
+  - titre: Détendeur
+    texte: Le liquide se détend et refroidit.
+```
+
 ## À retenir
 
 - Une pompe à chaleur ne produit pas la chaleur : elle la déplace d'un espace froid vers un espace plus chaud.
@@ -4615,9 +4915,19 @@ chaleur. La qualité de la pose compte autant que la qualité du matériau lui-m
 - Les ponts thermiques sont des points faibles où l'isolation est interrompue.
 - Une isolation mal posée ou humide perd une grande partie de son efficacité.
 
-[Emplacement image : coupe d'une maison montrant les principales voies de déperdition de
-chaleur, toit, murs, fenêtres et ponts thermiques, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Isoler dans le bon ordre
+elements:
+  - titre: Le toit
+    texte: L'air chaud s'y accumule et s'échappe en premier.
+    icone: house
+  - titre: Les murs
+  - titre: Les fenêtres
+    texte: Le double vitrage réduit fortement les pertes.
+  - titre: Les ponts thermiques
+    texte: Les points faibles cachés.
+```
 
 ---
 
@@ -4696,6 +5006,21 @@ Une ampoule à incandescence fait passer un courant dans un filament de tungstè
 ## Pourquoi la LED gagne
 
 Une LED convertit bien mieux l'électricité en lumière : consommation plus faible, moins de chaleur perdue et durée de vie plus longue. Une LED s'allume et s'éteint presque instantanément. Les LED sont aussi plus petites et plus robustes qu'une ampoule à filament.
+
+```schema
+type: comparaison
+titre: LED ou ampoule à filament
+colonnes:
+  - titre: Ampoule à filament
+    points:
+      - Un fil chauffé jusqu'à briller
+      - Beaucoup d'énergie perdue en chaleur
+  - titre: LED
+    icone: bulb
+    points:
+      - Électrons et trous se recombinent et émettent de la lumière
+      - La couleur dépend du matériau
+```
 
 ## À retenir
 
@@ -4814,8 +5139,19 @@ installations industrielles de grande capacité.
   transport.
 - Elle s'adapte à de nombreuses échelles, d'un immeuble à une installation industrielle.
 
-[Emplacement image : schéma d'une installation de cogénération montrant la production simultanée
-d'électricité et de chaleur récupérée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Centrale classique ou cogénération
+colonnes:
+  - titre: Centrale classique
+    points:
+      - Produit de l'électricité
+      - Rejette une grande partie de la chaleur
+  - titre: Cogénération
+    points:
+      - Électricité et chaleur utile ensemble
+      - Rendement global proche de 90 %
+```
 
 ---
 
@@ -4910,8 +5246,19 @@ brûlé dans un foyer ouvert.
 - Un poêle fermé restitue davantage de chaleur qu'un foyer ouvert traditionnel.
 - Un bois bien sec brûlé dans un appareil adapté réduit sensiblement les émissions de particules.
 
-[Emplacement image : bûches de bois empilées et séchant à l'air libre à côté d'un poêle fermé en
-fonctionnement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Bien se chauffer au bois
+elements:
+  - titre: Sécher
+    texte: Plusieurs mois à plusieurs années selon l'essence.
+  - titre: Choisir l'essence
+    texte: Les bois durs comme le chêne brûlent plus longtemps.
+    icone: tree
+  - titre: Poêle fermé
+    texte: Il restitue davantage de chaleur.
+    icone: fire
+```
 
 ---
 
@@ -5101,6 +5448,21 @@ Le savant français Joseph Fourier a décrit le principe en 1822. Aux États-Uni
 
 Attention : seulement 10 à 15 % de la chaleur d'un logement part par les fenêtres. Le double vitrage aide, mais isoler les murs et le toit compte aussi. Il apporte d'autres avantages : moins de bruit et moins de buée sur les vitres.
 
+```schema
+type: systeme
+titre: Ce qui isole dans un double vitrage
+centre: Double vitrage
+parties:
+  - nom: Deux vitres
+    role: Séparées par une lame de gaz.
+  - nom: Gaz immobile
+    role: Air, argon ou krypton, qui conduisent mal la chaleur.
+  - nom: Couche métallique invisible
+    role: Elle renvoie la chaleur vers la pièce.
+  - nom: Coefficient U
+    role: Plus il est petit, mieux la fenêtre isole.
+```
+
 ## À retenir
 
 - Un double vitrage est fait de deux vitres séparées par une couche d'air ou de gaz immobile.
@@ -5212,6 +5574,19 @@ Les murs en pisé mesurent souvent environ 60 centimètres d'épaisseur. Ils iso
 L'inertie thermique est très utile là où il fait chaud le jour et frais la nuit, comme dans les déserts. Les maisons en adobe des Pueblos, dans le sud-ouest des États-Unis, ont des murs épais en terre. Elles restent agréables sans climatisation.
 
 Elle est moins utile dans une pièce occupée seulement de temps en temps. Les murs lourds mettent du temps à se réchauffer, et le chauffage doit d'abord les chauffer eux.
+
+```schema
+type: cycle
+titre: L'inertie thermique au fil d'une journée d'été
+elements:
+  - titre: Jour
+    texte: Le mur épais absorbe la chaleur.
+    icone: sun
+  - titre: Retard
+    texte: Elle met plusieurs heures à traverser.
+  - titre: Nuit
+    texte: On aère pour évacuer la chaleur stockée.
+```
 
 ## À retenir
 
@@ -5760,6 +6135,20 @@ Une veille de 0,5 watt consomme peu. Mais une maison contient beaucoup d'apparei
 
 On peut débrancher les petits appareils qui ne servent pas souvent : machine à café, bouilloire, imprimante, enceintes, chargeurs. Une multiprise à interrupteur permet de couper plusieurs appareils d'un seul geste. En revanche, il vaut mieux laisser branchés le réfrigérateur et le four. Le lave-linge et le lave-vaisselle peuvent aussi rester branchés, car certains surveillent les fuites d'eau.
 
+```schema
+type: barres
+titre: Consommation maximale en veille
+unite: W
+valeurs:
+  - label: Autrefois
+    valeur: 15
+    note: 10 à 15 W
+  - label: Europe depuis 2010
+    valeur: 1
+  - label: Europe depuis 2013
+    valeur: 0.5
+```
+
 ## À retenir
 
 - Un appareil en veille garde des circuits allumés : alimentation, récepteur de télécommande, horloge, réseau.
@@ -6253,6 +6642,16 @@ Le charbon de bois brûle à plus de 1 100 °C, plus chaud que le bois. Comme il
 ## Aujourd'hui
 
 En Europe, on l'utilise surtout pour les barbecues. Dans beaucoup de pays pauvres, il sert encore à cuisiner chaque jour. Une grande ville peut en consommer des milliers de tonnes par jour. Sa fabrication, souvent illégale, détruit alors de grandes surfaces de forêt, surtout en Afrique et en Amérique du Sud.
+
+```schema
+type: chiffres
+titre: Les repères du charbon de bois
+chiffres:
+  - valeur: 15 à 21 jours
+    texte: de cuisson dans une meule de charbonnier
+  - valeur: "> 1 100 °C"
+    texte: atteints en brûlant, avec peu de fumée
+```
 
 ## À retenir
 
@@ -6803,6 +7202,19 @@ Les dérivés du pétrole sont partout :
 ## Une dépendance qui grandit
 
 Selon l'Agence internationale de l'énergie, la pétrochimie pourrait représenter près de la moitié de la hausse de la demande de pétrole d'ici 2050. La raison principale est l'augmentation de la consommation de plastique dans les pays émergents. Certaines briques de base peuvent aussi être fabriquées à partir de plantes, comme le maïs ou la canne à sucre.
+
+```schema
+type: etapes
+titre: Du pétrole aux plastiques
+elements:
+  - titre: Pétrole et gaz
+  - titre: Vapocraquage
+    texte: Les grosses molécules sont cassées vers 800 °C.
+  - titre: Polymérisation
+    texte: Les petites molécules s'assemblent en longues chaînes.
+  - titre: Produits
+    texte: Plastiques, textiles, médicaments.
+```
 
 ## À retenir
 
@@ -7528,6 +7940,23 @@ Dans certains endroits, la dose est bien plus forte. À Ramsar, en Iran, ou au K
 
 Pour réduire le radon chez soi, le geste le plus simple est d'aérer régulièrement son logement.
 
+```schema
+type: systeme
+titre: D'où vient la radioactivité naturelle
+legende: Environ 2,4 millisieverts par an en moyenne par personne.
+centre: Radioactivité naturelle
+parties:
+  - nom: Radon
+    role: Gaz sorti du sol, première source.
+  - nom: Roches
+    role: Elles contiennent des éléments radioactifs.
+  - nom: Espace
+    role: Rayons cosmiques, plus forts en altitude.
+    icone: planet
+  - nom: Notre corps
+    role: Il contient lui aussi des atomes radioactifs.
+```
+
 ## À retenir
 
 - La radioactivité naturelle vient des roches, du radon, de l'espace et de notre corps.
@@ -7828,6 +8257,22 @@ Pour arrêter les ailes, un frein serre le rouet. C'est une bande de métal garn
 Les moulins à vent ont servi à moudre le grain, à presser les olives pour l'huile, à scier du bois et à pomper l'eau. Aux Pays-Bas, ils ont asséché des terres gagnées sur la mer, les polders. Les moulins de Kinderdijk sont inscrits au patrimoine mondial de l'UNESCO.
 
 Au XXe siècle, l'électricité arrive dans les campagnes et de grandes usines à farine apparaissent. Les moulins à vent déclinent très vite. Leurs héritières sont les éoliennes, qui transforment le vent en électricité.
+
+```schema
+type: etapes
+titre: Du vent à la meule
+elements:
+  - titre: Ailes en toile
+    texte: Orientées face au vent par le meunier.
+    icone: turbine
+  - titre: Arbre
+    texte: Il tourne avec les ailes.
+  - titre: Rouet et lanterne
+    texte: Ils transmettent le mouvement.
+  - titre: Meule
+    texte: Elle écrase le grain.
+    icone: wheat
+```
 
 ## À retenir
 
@@ -8363,6 +8808,23 @@ La puissance dépend du volume d'eau et de la différence de hauteur entre le r�
 ## Une batterie et un prix à payer
 
 Les stations de pompage-turbinage servent de batterie : quand la demande est faible, on remonte l'eau dans le réservoir haut, puis on la relâche quand la demande est forte. L'hydroélectricité est la première source d'électricité renouvelable au monde. Les grands réservoirs noient de vastes terres, peuvent déplacer des populations et morceler les rivières.
+
+```schema
+type: etapes
+titre: De l'eau en hauteur à l'électricité
+elements:
+  - titre: Réservoir
+    texte: L'eau en hauteur contient de l'énergie potentielle.
+    icone: droplet
+  - titre: Conduite
+    texte: L'eau descend et prend de la vitesse.
+  - titre: Turbine
+    texte: L'eau la fait tourner.
+    icone: turbine
+  - titre: Générateur
+    texte: Des aimants tournent près de conducteurs.
+    icone: bolt
+```
 
 ## À retenir
 
@@ -9190,6 +9652,19 @@ Le cuiseur solaire ne brûle ni bois, ni charbon, ni gaz. Dans les pays où l'on
 
 Il a pourtant des défauts. Par temps nuageux, il chauffe peu. Il cuit plus lentement qu'une cuisinière. Le vent le refroidit. Et la lumière concentrée par un cuiseur parabolique peut brûler la peau ou les yeux : il faut s'en approcher avec prudence.
 
+```schema
+type: etapes
+titre: Les trois astuces d'un cuiseur solaire
+elements:
+  - titre: Concentrer
+    texte: Des miroirs renvoient les rayons.
+    icone: sun
+  - titre: Absorber
+    texte: Une marmite noire transforme la lumière en chaleur.
+  - titre: Garder
+    texte: Une vitre retient la chaleur.
+```
+
 ## À retenir
 
 - Un cuiseur solaire change la lumière du Soleil en chaleur pour cuire les aliments.
@@ -9519,6 +9994,22 @@ Dans chaque étage, le zinc s'use peu à peu en perdant des électrons. Ces peti
 ## Une invention qui change la science
 
 Quelques mois plus tard, en 1800, les Anglais Nicholson et Carlisle utilisent la pile pour séparer l'eau en deux gaz. Le chimiste Humphry Davy s'en sert ensuite pour découvrir sept éléments chimiques. En 1801, Volta présente sa pile à Napoléon Bonaparte, à Paris. Aujourd'hui, l'unité de la tension électrique, le volt, porte son nom.
+
+```schema
+type: systeme
+titre: La pile de Volta, 1800
+centre: Pile de Volta
+icone: battery
+parties:
+  - nom: Disques de zinc
+    role: Les électrons en partent.
+  - nom: Disques de cuivre
+    role: Les électrons y arrivent par le fil.
+  - nom: Tissu à l'eau salée
+    role: Il sépare chaque paire de disques.
+  - nom: Empilement
+    role: Plus d'étages, plus de tension.
+```
 
 ## À retenir
 
@@ -10377,6 +10868,22 @@ Avec de l'hydrogène pur, la pile n'émet que de la chaleur et de l'eau, sans po
 
 La NASA a utilisé des piles à combustible alcalines pour alimenter des engins spatiaux, dont les missions Apollo. Les premières piles de laboratoire ont été réalisées par William Grove au XIXe siècle.
 
+```schema
+type: etapes
+titre: Dans une pile à hydrogène
+elements:
+  - titre: Hydrogène
+    texte: Il arrive d'un côté de la membrane.
+  - titre: Membrane
+    texte: Elle laisse passer les protons, pas les électrons.
+  - titre: Circuit extérieur
+    texte: Les électrons le parcourent, c'est le courant.
+    icone: bolt
+  - titre: Rejets
+    texte: Seulement de l'eau et de la chaleur.
+    icone: droplet
+```
+
 ## À retenir
 
 - La membrane laisse passer les protons, mais bloque les électrons.
@@ -10656,6 +11163,22 @@ En France, le réseau de transport, géré par RTE, fonctionne entre 63 000 et 4
 
 La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité est consommée au moment où elle est produite. Sur un même grand réseau, tous les alternateurs produisent un courant à la même fréquence, différente en Europe et en Amérique du Nord, et un écart de fréquence sert de signal pour ajuster la production. Relier de grandes régions permet de mutualiser la production, de baisser les coûts et de s'entraider.
 
+```schema
+type: etapes
+titre: De la centrale à la prise
+elements:
+  - titre: Centrale
+    icone: factory
+  - titre: Élever la tension
+    texte: Moins de courant, donc moins de pertes.
+  - titre: Lignes à haute tension
+    texte: Sur de longues distances.
+  - titre: Postes
+    texte: Des transformateurs abaissent la tension.
+  - titre: Prise
+    icone: house
+```
+
 ## À retenir
 
 - À la sortie de la centrale, des transformateurs élèvent la tension pour envoyer l'électricité sur de longues distances.
@@ -10851,6 +11374,20 @@ Le 28 avril 2025, à 12 h 33, l'Espagne et le Portugal ont perdu presque toute l
 ## Couper un peu pour ne pas tout perdre
 
 Pour éviter l'effondrement, on pratique le délestage : on coupe volontairement l'électricité de certains clients. En Europe, des coupures automatiques se déclenchent quand la fréquence descend entre 49 et 47,5 hertz. Le 4 novembre 2006, ce délestage automatique a sans doute évité une panne de tout le réseau européen. Les gestionnaires gardent aussi des centrales en réserve, relient leurs réseaux à ceux des pays voisins et enterrent certaines lignes.
+
+```schema
+type: etapes
+titre: L'effet domino d'un black-out
+elements:
+  - titre: Un petit incident
+    texte: Une ligne ou une centrale décroche.
+  - titre: Déséquilibre
+    texte: Production et consommation ne s'égalent plus.
+  - titre: Coupures en cascade
+    texte: Les protections déconnectent d'autres éléments.
+  - titre: Black-out
+    texte: Une région ou un pays entier dans le noir.
+```
 
 ## À retenir
 
@@ -15062,7 +15599,22 @@ status: published
 
 Les pales tournent grâce à la portance, des engrenages accélèrent le rotor et la génératrice produit le courant. La limite de Betz plafonne le rendement à 59,3 %.
 
-[Emplacement image : diagramme en quatre étapes reliées par des flèches, « Du vent au courant électrique ». Le vent : son énergie cinétique fait tourner les pales. Les pales : une poche d'air à basse pression tire la pale, c'est la portance. Les engrenages : ils accélèrent la rotation du rotor. La génératrice : elle produit du courant alternatif. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du vent au courant électrique
+elements:
+  - titre: Le vent
+    texte: Son énergie cinétique fait tourner les pales.
+  - titre: Les pales
+    texte: La portance tire chaque pale.
+    icone: turbine
+  - titre: Les engrenages
+    texte: Ils accélèrent la rotation du rotor.
+    icone: gear
+  - titre: La génératrice
+    texte: Elle produit le courant.
+    icone: bolt
+```
 
 ## De l'air à l'électricité
 
@@ -15164,6 +15716,24 @@ Les chimistes Otto Hahn et Fritz Strassmann ont mis en évidence la fission ; Li
 
 Dans une centrale, la chaleur de la fission transforme de l'eau en vapeur, qui fait tourner une turbine reliée à un alternateur. Le combustible est de l'uranium sous forme de petites pastilles de céramique empilées dans des tubes métalliques scellés, les crayons de combustible. L'eau refroidit le réacteur et sert aussi de modérateur : elle ralentit les neutrons, ce qui entretient la réaction en chaîne. Des barres de contrôle, qui absorbent les neutrons, s'enfoncent dans le cœur pour ralentir la réaction ou se retirent pour l'accélérer. Dans un réacteur à eau pressurisée, l'eau du cœur reste sous haute pression pour ne pas bouillir et chauffe un second circuit qui produit la vapeur ; dans un réacteur à eau bouillante, l'eau bout directement dans la cuve.
 
+```schema
+type: etapes
+titre: De l'atome à l'ampoule
+elements:
+  - titre: Un neutron frappe
+    texte: Un noyau d'uranium 235.
+    icone: atom
+  - titre: Fission
+    texte: Le noyau se casse et libère énergie et neutrons.
+  - titre: Réaction en chaîne
+    texte: Ces neutrons cassent d'autres noyaux.
+  - titre: Chaleur, vapeur, turbine
+    texte: Comme dans une centrale thermique.
+    icone: turbine
+  - titre: Électricité
+    icone: bulb
+```
+
 ## À retenir
 
 - La fission est la cassure d'un noyau atomique lourd en deux noyaux plus légers, ou en quelques-uns.
@@ -15261,6 +15831,20 @@ Plus de 95 % de l'électricité produite est décarbonée : elle vient du nuclé
 ## Un grand exportateur
 
 La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record. La France est le premier exportateur net d'électricité au monde.
+
+```schema
+type: barres
+titre: Production d'électricité en France par source
+legende: Chiffres de l'article, en térawattheures.
+unite: TWh
+valeurs:
+  - label: Nucléaire
+    valeur: 373
+  - label: Hydraulique
+    valeur: 62.4
+  - label: Solaire
+    valeur: 32.9
+```
 
 ## À retenir
 
@@ -15380,6 +15964,20 @@ La flexibilité de la demande, ou effacement, consiste à décaler ou réduire s
 
 Les bénéfices annoncés : moins de coupures, moins d'impact des tempêtes, un retour plus rapide du courant, plus d'énergies renouvelables et des coûts d'exploitation plus bas. Les données de consommation posent des questions de vie privée : les régulateurs européens recommandent de les anonymiser et de protéger la vie privée dès la conception. Un réseau intelligent ne remplace pas la sobriété : il aide à intégrer les renouvelables, mais ne dispense pas de réduire la consommation.
 
+```schema
+type: etapes
+titre: Déplacer la consommation
+elements:
+  - titre: Compteur communicant
+    texte: Comme Linky, il mesure heure par heure.
+  - titre: Prix variable
+    texte: L'électricité coûte moins cher à certaines heures.
+  - titre: Usages déplacés
+    texte: Chauffe-eau ou recharge aux heures creuses.
+  - titre: Réseau équilibré
+    icone: network
+```
+
 ## À retenir
 
 - Un réseau intelligent utilise les technologies de l'information pour optimiser en temps réel les flux entre producteurs et consommateurs.
@@ -15475,6 +16073,20 @@ En France, la loi du 10 mars 2023 sur l'accélération des énergies renouvelabl
 
 Des coûts d'installation et d'entretien plus élevés freinent le développement dans beaucoup de régions, et il faut trouver l'équilibre entre récolte et production d'électricité.
 
+```schema
+type: comparaison
+titre: L'agrivoltaïsme, deux productions sur une parcelle
+colonnes:
+  - titre: Électricité
+    icone: sun
+    points:
+      - Panneaux solaires au-dessus des cultures
+  - titre: Agriculture
+    icone: wheat
+    points:
+      - L'ombre peut protéger les cultures de la chaleur
+```
+
 ## À retenir
 
 - L'agrivoltaïsme consiste à produire de l'électricité avec des panneaux solaires et à pratiquer l'agriculture sur la même parcelle.
@@ -15559,6 +16171,19 @@ Comprimer l'air l'échauffe, ce qui fait perdre de l'énergie et peut abîmer l'
 ## Où et comment ?
 
 Les cavités de sel souterraines sont le lieu de stockage préféré, car l'air comprimé contient peu d'énergie par volume et demande de très grands volumes. Le procédé dépend de sites géologiques adaptés, comme des cavernes de sel. Les centrales de Huntorf, en Allemagne, et de McIntosh, aux États-Unis, fonctionnent depuis plusieurs décennies. Plusieurs projets récents en Chine comptent parmi les plus grands du monde.
+
+```schema
+type: cycle
+titre: Stocker l'électricité dans de l'air
+elements:
+  - titre: Électricité en excès
+    texte: Elle comprime de l'air.
+  - titre: Cavité
+    texte: L'air comprimé y est stocké.
+  - titre: Demande en hausse
+    texte: L'air libéré fait tourner une turbine.
+    icone: turbine
+```
 
 ## À retenir
 
@@ -15666,6 +16291,22 @@ Hornsdale Power Reserve, en Australie-Méridionale, surnommée la grande batteri
 
 En Californie, Moss Landing est un autre grand site de stockage par batteries, qui stocke l'électricité solaire de la journée pour l'utiliser le soir. Un incendie a détruit une grande partie d'une section du site de Moss Landing, dont les batteries utilisaient une chimie au nickel-manganèse-cobalt.
 
+```schema
+type: systeme
+titre: Les services d'une méga-batterie
+centre: Méga-batterie
+icone: battery
+parties:
+  - nom: Réaction éclair
+    role: Pleine puissance en moins d'une seconde.
+  - nom: Fréquence
+    role: Elle contre les oscillations du réseau.
+  - nom: Pointes
+    role: Elle écrête les pointes de demande.
+  - nom: Lissage
+    role: Elle lisse la production variable.
+```
+
 ## À retenir
 
 - Il passe de l'attente à la pleine puissance en moins d'une seconde, plus vite que toute autre source pilotable.
@@ -15751,6 +16392,21 @@ Elles supportent un très grand nombre de cycles, car aucune transformation d'é
 ## Des limites et un usage
 
 Leur énergie par volume est faible, et les pompes consomment de l'électricité, ce qui réduit le rendement. Elles coûtent cher à l'achat, mais leur coût sur toute la durée de vie peut être compétitif pour du stockage de longue durée. Elles conviennent au stockage du réseau sur plusieurs heures, notamment pour intégrer les énergies renouvelables. La Chine exploite le plus grand système en service.
+
+```schema
+type: systeme
+titre: Une batterie à flux
+centre: Cellule électrochimique
+parties:
+  - nom: Deux réservoirs
+    role: Ils contiennent les électrolytes ; leur volume fixe l'énergie.
+  - nom: Pompes
+    role: Elles font circuler les liquides.
+  - nom: Cellule
+    role: Sa taille fixe la puissance.
+  - nom: Vanadium
+    role: L'élément le plus utilisé.
+```
 
 ## À retenir
 

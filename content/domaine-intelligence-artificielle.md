@@ -271,8 +271,18 @@ profonds.
 - La rétropropagation ajuste les paramètres pour réduire l'erreur, par petits pas.
 - Données massives et processeurs graphiques expliquent l'essor récent.
 
-[Emplacement image : couches successives d'un réseau et représentations construites, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Comment un réseau de neurones apprend
+elements:
+  - titre: Prédire
+    texte: Le réseau propose une réponse à partir d'un exemple.
+    icone: brain
+  - titre: Mesurer l'erreur
+    texte: On compare avec la bonne réponse.
+  - titre: Ajuster
+    texte: La rétropropagation corrige les paramètres par petits pas.
+```
 
 ---
 
@@ -390,8 +400,20 @@ découverte d'algorithmes.
 - Le go résistait par son nombre de positions et la difficulté d'évaluer une position.
 - Le système a progressé en jouant contre lui-même des millions de parties.
 
-[Emplacement image : boucle action-récompense de l'apprentissage par renforcement, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La boucle de l'apprentissage par renforcement
+elements:
+  - titre: Observer
+    texte: L'état de la partie.
+  - titre: Agir
+    texte: Jouer un coup.
+  - titre: Recevoir une récompense
+    texte: Souvent tardive, à la fin de la partie.
+  - titre: S'améliorer
+    texte: Renforcer les actions qui ont mené au succès.
+    icone: star
+```
 
 ---
 
@@ -499,8 +521,20 @@ Et l'évaluation doit se faire sur des données qui ressemblent aux conditions r
 - Le surapprentissage consiste à mémoriser au lieu de généraliser.
 - Un modèle peut réussir pour de mauvaises raisons, en exploitant des corrélations trompeuses.
 
-[Emplacement image : erreur sur les données d'entraînement et sur les données de test, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Apprendre ou mémoriser
+colonnes:
+  - titre: Généraliser
+    points:
+      - Bonnes réponses sur des exemples jamais vus
+      - Le but de l'apprentissage
+  - titre: Surapprendre
+    points:
+      - Excellent sur les données d'entraînement
+      - Mauvais sur les données de test
+      - Le modèle a mémorisé au lieu de comprendre
+```
 
 ---
 
@@ -608,8 +642,20 @@ décennies en biologie.
 - L'attention relie directement des mots éloignés dans un texte.
 - La parallélisation a permis d'entraîner sur des données bien plus vastes.
 
-[Emplacement image : mécanisme d'attention reliant les mots d'une phrase, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Avant et après le transformeur de 2017
+colonnes:
+  - titre: Avant
+    points:
+      - Les mots traités l'un après l'autre
+      - Les mots éloignés se relient mal
+  - titre: Transformeur
+    points:
+      - Tous les mots traités en parallèle
+      - L'attention relie directement les mots éloignés
+      - Entraînement sur des données bien plus vastes
+```
 
 ---
 
@@ -710,8 +756,18 @@ aussi fluide quand il se trompe.
 - Un modèle de langage prédit le mot suivant, sans plan préalable.
 - Les usages sûrs sont ceux où un humain vérifie le résultat.
 
-[Emplacement image : chaîne de traitement séparée et traitement multimodal unifié, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Chaîne séparée ou modèle multimodal
+colonnes:
+  - titre: Chaîne séparée
+    points:
+      - Un outil pour la voix, un pour le texte, un pour l'image
+      - Les informations passent de l'un à l'autre
+  - titre: Modèle multimodal
+    points:
+      - Texte, image et son dans un même modèle
+```
 
 ---
 
@@ -821,8 +877,19 @@ pas une précaution mais une nécessité.
 - Son assurance ne reflète aucune évaluation interne de fiabilité.
 - La vérification doit être proportionnée au coût d'une erreur.
 
-[Emplacement image : production d'une référence plausible mais inexistante, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment naît une hallucination
+elements:
+  - titre: Une question
+    texte: Par exemple une référence précise.
+  - titre: La suite la plus plausible
+    texte: Le modèle optimise la vraisemblance, pas la vérité.
+  - titre: Une réponse assurée
+    texte: Son ton ne reflète aucune évaluation de fiabilité.
+  - titre: Vérifier
+    texte: Autant que le coût d'une erreur l'exige.
+```
 
 ---
 
@@ -933,8 +1000,19 @@ la personne puisse effectivement contredire la machine.
 - Plusieurs définitions de l'équité existent et sont incompatibles entre elles.
 - Mesurer les performances par groupe est indispensable.
 
-[Emplacement image : boucle de rétroaction d'un système de prédiction, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La boucle de rétroaction d'un système de prédiction
+elements:
+  - titre: Données passées
+    texte: Elles portent les biais d'hier.
+  - titre: Prédictions
+    texte: Le système les reproduit.
+  - titre: Décisions
+    texte: On agit selon ces prédictions.
+  - titre: Nouvelles données
+    texte: Elles confirment les biais.
+```
 
 ---
 
@@ -1044,8 +1122,20 @@ La régulation européenne devient alors, de fait, un standard plus large.
 - Quatre niveaux, de l'interdiction au risque minimal.
 - Sanctions jusqu'à 35 millions d'euros ou 7 % du chiffre d'affaires mondial.
 
-[Emplacement image : les quatre niveaux de risque et les obligations associées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les quatre niveaux de risque du règlement européen
+legende: Le règlement régule les usages, pas les technologies.
+niveaux:
+  - titre: Risque inacceptable
+    texte: Usages interdits.
+  - titre: Risque élevé
+    texte: Obligations strictes.
+  - titre: Risque limité
+    texte: Obligations de transparence.
+  - titre: Risque minimal
+    texte: Pas d'obligation particulière.
+```
 
 ---
 
@@ -1155,8 +1245,21 @@ vérifiable, et les plus incertains là où l'erreur passe inaperçue.
 - Cette vague touche des tâches intellectuelles, contrairement aux précédentes.
 - Les gains observés sont les plus nets quand le résultat est facilement vérifiable.
 
-[Emplacement image : décomposition d'un métier en tâches automatisables et non automatisables,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce que l'IA touche, ce qui résiste
+legende: Les technologies suppriment des tâches plus souvent que des métiers.
+colonnes:
+  - titre: Plus exposé
+    points:
+      - Tâches intellectuelles répétitives
+      - Résultats faciles à vérifier
+  - titre: Résiste le mieux
+    points:
+      - Contact humain
+      - Jugement en situation incertaine
+      - Dextérité en milieu changeant
+```
 
 ---
 
@@ -1678,8 +1781,20 @@ capable de répondre utilement à de nombreuses questions générales, même hor
 - Un modèle exécuté localement continue de fonctionner sans aucune connexion internet.
 - Un modèle allégé reste moins performant qu'un grand modèle en ligne, mais utile hors ligne.
 
-[Emplacement image : ordinateur portable exécutant un modèle de langage localement, sans
-connexion réseau visible, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Faire tenir un modèle sur un ordinateur
+elements:
+  - titre: Un modèle volumineux
+    texte: Des milliards de paramètres.
+  - titre: La quantification
+    texte: Une précision réduite pour moins de mémoire.
+  - titre: Un logiciel adapté
+    texte: Pour le matériel ordinaire.
+  - titre: Sans connexion
+    texte: Le modèle fonctionne hors ligne, mais moins bien qu'un grand modèle.
+    icone: monitor
+```
 
 ---
 
@@ -6463,6 +6578,21 @@ En 2015, DeepMind a présenté les résultats dans la revue Nature. Des agents D
 
 Après les jeux Atari, d'autres IA se sont attaquées à des jeux plus complexes. OpenAI Five joue à Dota 2, un jeu où deux équipes de cinq s'affrontent. En 2018, il avait déjà joué l'équivalent d'environ 180 ans de parties contre lui-même. En avril 2019, il a battu l'équipe OG, championne du monde de 2018.
 
+```schema
+type: etapes
+titre: Comment DQN apprenait à jouer
+elements:
+  - titre: Voir l'écran
+    texte: Seulement les pixels et le score.
+    icone: monitor
+  - titre: Choisir une action
+    texte: Un réseau convolutif estime la meilleure.
+  - titre: Mémoriser
+    texte: Chaque expérience est gardée.
+  - titre: Rejouer au hasard
+    texte: Des souvenirs tirés au hasard servent à l'entraînement.
+```
+
 ## À retenir
 
 - Les jeux vidéo sont un bon terrain d'entraînement : le score sert de récompense et l'on peut rejouer sans fin.
@@ -6557,6 +6687,20 @@ Le cas le plus connu s'appelle le problème du bandit manchot. En anglais, les m
 Une solution simple s'appelle la méthode epsilon-glouton. Epsilon est un petit nombre, par exemple 0,1. La plupart du temps, l'agent choisit l'action qui a rapporté le plus jusque-là. Mais dans une proportion epsilon des cas, il choisit une action au hasard. Avec epsilon égal à 0,1, il exploite donc 9 fois sur 10 et explore 1 fois sur 10.
 
 Ce dilemme ne concerne pas que les jeux. Il apparaît dans les essais de nouveaux médicaments, où l'on veut tester des traitements tout en protégeant les patients, ou dans le choix du chemin des données sur un réseau.
+
+```schema
+type: comparaison
+titre: Le dilemme exploration et exploitation
+colonnes:
+  - titre: Exploiter
+    points:
+      - Refaire l'action qui a le mieux réussi
+      - Sûr, mais on peut rater mieux
+  - titre: Explorer
+    points:
+      - Essayer autre chose
+      - Peut révéler une meilleure option
+```
 
 ## À retenir
 
@@ -6984,6 +7128,21 @@ Dans les années 1950 et 1960, David Hubel et Torsten Wiesel ont étudié le cor
 
 En 1980, Kunihiko Fukushima a proposé le néocognitron, un ancêtre des réseaux convolutifs. Yann LeCun et son équipe ont ensuite créé LeNet-5, présenté en 1995. À partir de juin 1996, ce système lisait des millions de chèques par jour dans plusieurs banques américaines. En 2012, le réseau convolutif AlexNet a gagné le concours de reconnaissance d'images ImageNet.
 
+```schema
+type: etapes
+titre: Du pixel à l'objet
+elements:
+  - titre: Pixels
+    texte: Un tableau de nombres.
+  - titre: Premières couches
+    texte: Bords et couleurs.
+  - titre: Couches suivantes
+    texte: Formes de plus en plus complexes.
+  - titre: Dernière couche
+    texte: L'objet reconnu.
+    icone: eye
+```
+
 ## À retenir
 
 - Un réseau convolutif fait glisser de petits filtres sur toute l'image pour repérer des motifs.
@@ -7092,6 +7251,24 @@ En 1997, Sepp Hochreiter et Jürgen Schmidhuber ont proposé le LSTM, pour « lo
 Les réseaux récurrents ont servi à reconnaître l'écriture manuscrite, à reconnaître la parole et à traduire des textes. Des LSTM ont par exemple été utilisés dans la recherche vocale de Google.
 
 À la fin des années 2010, une autre architecture, le transformeur, est devenue la plus utilisée pour le langage. Elle remplace la boucle par un mécanisme d'attention, qui regarde tous les mots à la fois.
+
+```schema
+type: frise
+titre: Des réseaux récurrents aux transformeurs
+evenements:
+  - date: Principe
+    titre: Lire mot à mot
+    texte: Un état caché mis à jour à chaque élément lu.
+  - date: Problème
+    titre: L'oubli
+    texte: Les éléments lointains se perdent, c'est la disparition du gradient.
+  - date: 1997
+    titre: Le LSTM
+    texte: Des portes gardent l'information plus longtemps.
+  - date: Fin des années 2010
+    titre: Les transformeurs
+    texte: Ils prennent le relais.
+```
 
 ## À retenir
 
@@ -7741,6 +7918,20 @@ Pour vérifier si deux photos montrent la même personne, beaucoup d'algorithmes
 Un logiciel de reconnaissance faciale apprend à partir de photos. Si ces photos montrent surtout un type de visage, il reconnaît mieux ce type de visage. Le NIST a fait une observation intéressante : les algorithmes développés dans des pays d'Asie ne montraient pas de grand écart entre visages asiatiques et blancs. Cela suggère que des photos d'entraînement plus variées peuvent réduire les inégalités.
 
 Ces erreurs ont des conséquences réelles, par exemple quand la police utilise ces logiciels. Après la publication de ces travaux, IBM a arrêté son logiciel de reconnaissance faciale en 2020. Microsoft et Amazon ont annoncé des changements dans leurs produits.
+
+```schema
+type: barres
+titre: Taux d'erreur mesurés par l'étude Gender Shades, 2018
+legende: Valeurs extrêmes rapportées par l'étude.
+unite: "%"
+valeurs:
+  - label: Femmes à la peau foncée
+    valeur: 34.7
+    note: jusqu'à
+  - label: Hommes à la peau claire
+    valeur: 1
+    note: moins de
+```
 
 ## À retenir
 
@@ -8585,6 +8776,21 @@ Pour les personnes sourdes ou malentendantes, suivre une conversation peut être
 
 Ces outils rendent les personnes plus autonomes au quotidien. Ils ne remplacent pas tout. Une IA peut mal lire un texte, se tromper sur un objet ou mal entendre un mot dans un endroit bruyant. Pour une information importante, comme la dose d'un médicament, il vaut mieux vérifier avec une autre méthode ou une autre personne.
 
+```schema
+type: frise
+titre: Des outils d'IA pour l'accessibilité
+evenements:
+  - date: 2017
+    titre: Seeing AI
+    texte: Décrit à voix haute ce que filme le téléphone.
+  - date: 2019
+    titre: Live Transcribe
+    texte: Écrit en direct les paroles.
+  - date: 2023
+    titre: Assistant de Be My Eyes
+    texte: Basé sur GPT-4, en complément des bénévoles.
+```
+
 ## À retenir
 
 - Des applications comme Seeing AI, lancée par Microsoft en 2017, décrivent à voix haute ce que filme le téléphone.
@@ -8902,6 +9108,21 @@ Pour apprendre le lien entre les mots et les images, ces modèles ont vu énorm�
 
 Les modèles de diffusion ont été présentés en 2015. Une amélioration importante a été publiée en 2020. Stable Diffusion, de l'entreprise Stability AI, a été publié le 22 août 2022. Ses premières versions créaient des images de 512 sur 512 pixels. Pour aller plus vite, il ne travaille pas directement sur les pixels, mais sur une version compressée de l'image. Il peut tourner sur un ordinateur personnel équipé d'une carte graphique de milieu de gamme.
 
+```schema
+type: etapes
+titre: Créer une image par diffusion
+elements:
+  - titre: Entraînement
+    texte: On ajoute du bruit aux images et le réseau apprend à l'enlever.
+  - titre: Bruit pur
+    texte: La création part d'une image entièrement aléatoire.
+  - titre: Guidage par la phrase
+    texte: Un encodeur de texte oriente chaque étape.
+  - titre: Débruitage progressif
+    texte: L'image apparaît petit à petit.
+    icone: palette
+```
+
 ## À retenir
 
 - Beaucoup d'IA qui créent des images sont des modèles de diffusion.
@@ -9100,6 +9321,18 @@ Les deepfakes servent parfois à fabriquer des images intimes de personnes sans 
 Des chercheurs ont mis au point des logiciels qui cherchent des défauts : un clignement des yeux irrégulier, des reflets étranges dans les yeux, un éclairage incohérent. Mais les techniques de fabrication changent sans cesse. Un défaut repéré aujourd'hui peut disparaître demain. Le meilleur réflexe reste de vérifier d'où vient une vidéo avant de la croire ou de la partager.
 
 Les lois commencent à s'adapter. Le règlement européen sur l'IA, entré en vigueur le 1er août 2024, impose des obligations de transparence pour les systèmes qui créent ou modifient des images, des sons ou des vidéos, comme les deepfakes. Depuis 2020, la Chine exige aussi que les contenus fabriqués soient signalés.
+
+```schema
+type: cycle
+titre: Le duel d'un réseau antagoniste génératif
+elements:
+  - titre: Générateur
+    texte: Il fabrique une fausse image.
+  - titre: Discriminateur
+    texte: Il essaie de la distinguer d'une vraie.
+  - titre: Correction
+    texte: Le générateur s'améliore pour tromper son adversaire.
+```
 
 ## À retenir
 
@@ -9360,6 +9593,18 @@ Quand on pose une question sur un fait récent, un modèle sans accès à l'actu
 Pour réduire ce problème, on relie souvent le modèle à des outils. La génération augmentée par récupération, présentée dans un article de 2020, en est un exemple. Avant de répondre, le système va chercher des textes dans des documents, une base de données ou sur le Web. Puis le modèle s'appuie sur ces textes pour écrire sa réponse.
 
 Cette méthode coûte bien moins cher que de réentraîner tout le modèle : il suffit de mettre à jour les documents. Elle aide aussi le modèle à rester proche des faits. Mais elle ne supprime pas toutes les erreurs. Le modèle peut mal comprendre une source, ou inventer des détails autour d'elle. Il reste utile de regarder la date et la source d'une information avant d'y croire.
+
+```schema
+type: etapes
+titre: Répondre avec des informations récentes
+elements:
+  - titre: Date limite
+    texte: Le modèle ne sait rien après elle.
+  - titre: Recherche de documents
+    texte: La génération augmentée par récupération va chercher des sources récentes.
+  - titre: Réponse
+    texte: Appuyée sur ces sources, à vérifier quand même.
+```
 
 ## À retenir
 
@@ -10029,6 +10274,19 @@ MYCIN contenait environ 600 règles. Lors d'un test, ses propositions ont été 
 
 Dans les années 1980, les systèmes experts ont connu un grand succès. Deux tiers des 500 plus grandes entreprises américaines les utilisaient. Mais ils avaient un gros défaut. Recueillir le savoir des experts prenait beaucoup de temps, et ce savoir était difficile à transformer en règles. Plus le nombre de règles grandissait, plus le système devenait difficile à entretenir et fragile face aux cas imprévus. L'apprentissage automatique, qui tire ses règles des données, a ensuite pris le relais.
 
+```schema
+type: systeme
+titre: Les trois parties d'un système expert
+centre: Système expert
+parties:
+  - nom: Base de faits
+    role: Ce que l'on sait du cas étudié.
+  - nom: Base de règles
+    role: Des règles « si... alors... » écrites avec des experts.
+  - nom: Moteur d'inférence
+    role: Il applique les règles aux faits pour raisonner.
+```
+
 ## À retenir
 
 - Un système expert imite le raisonnement d'un spécialiste avec des règles « si... alors... ».
@@ -10112,6 +10370,20 @@ Un robot classique s'adapte mal à une situation nouvelle, car on ne lui a pas d
 ## Ce qui reste difficile
 
 Il reste des défis : capteurs incomplets, évitement des collisions, calcul en temps réel, énergie limitée et passage de la simulation au monde réel. La sécurité exige une supervision et des mécanismes de secours, car une panne peut causer des dégâts ou des blessures.
+
+```schema
+type: cycle
+titre: La boucle de l'IA physique
+elements:
+  - titre: Percevoir
+    texte: Caméras et capteurs.
+    icone: eye
+  - titre: Planifier
+    texte: Choisir quoi faire.
+  - titre: Agir
+    texte: Moteurs et actionneurs.
+    icone: robot
+```
 
 ## À retenir
 
@@ -10227,6 +10499,19 @@ Il combine un encodeur de vision, un modèle de langage et une couche de liaison
 
 Deux difficultés : l'alignement, qui relie les parties des différents types de données, et la fusion de leurs informations. Combiner des jeux de données différents peut aussi poser des risques pour la vie privée. Ces modèles servent de base à des modèles qui pilotent des robots à partir d'une image et d'une consigne.
 
+```schema
+type: etapes
+titre: Un modèle de vision et de langage
+elements:
+  - titre: Encodeur de vision
+    texte: Il extrait les caractéristiques de l'image.
+    icone: eye
+  - titre: Couche de liaison
+    texte: Elle les convertit en jetons d'image.
+  - titre: Modèle de langage
+    texte: Il traite ces jetons avec le texte.
+```
+
 ## À retenir
 
 - Un modèle de vision et de langage est un système d'IA qui peut interpréter et produire à la fois des images et du texte.
@@ -10324,6 +10609,20 @@ Aux États-Unis, le logiciel COMPAS évalue la probabilité qu'un prévenu réci
 ## Les règles européennes
 
 Le règlement européen sur l'IA classe parmi les usages à haut risque ceux qui touchent la justice et les forces de l'ordre. Il interdit les systèmes qui évaluent le risque qu'une personne commette une infraction en se fondant uniquement sur son profilage. Des avocats ont été sanctionnés pour avoir cité de fausses décisions de justice inventées par une IA. Dans les domaines à enjeux élevés, une vérification humaine reste nécessaire.
+
+```schema
+type: comparaison
+titre: La justice prédictive, entre usages et limites
+colonnes:
+  - titre: Ce que font ces outils
+    points:
+      - Analyser de nombreuses décisions
+      - Estimer l'issue probable d'un litige
+  - titre: Les garde-fous en France
+    points:
+      - Interdiction d'évaluer ou prédire les pratiques des magistrats identifiés
+      - Règles européennes sur les usages à risque
+```
 
 ## À retenir
 

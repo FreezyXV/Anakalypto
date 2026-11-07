@@ -303,8 +303,18 @@ les circuits pour certaines tâches, rapprocher la mémoire du calcul.
 - La gravure utilise de l'ultraviolet extrême, sous vide et avec des miroirs.
 - Les transistors sont désormais entourés par leur commande pour éviter les fuites.
 
-[Emplacement image : évolution de l'architecture des transistors, du plan aux nanofeuilles,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment les transistors ont changé de forme
+legende: Pour limiter les fuites, la commande entoure de plus en plus le canal.
+elements:
+  - titre: Transistor plan
+    texte: La commande ne touche le canal que par-dessus.
+  - titre: Ailettes
+    texte: Le canal se dresse et la commande l'entoure sur trois côtés.
+  - titre: Nanofeuilles
+    texte: Des nappes empilées, entourées entièrement par la commande.
+```
 
 ---
 
@@ -415,8 +425,18 @@ entraîner des réseaux de neurones.
 - Les cœurs multiples n'accélèrent que les programmes capables de se découper.
 - Pipeline, prédiction de branchement et réordonnancement améliorent le débit réel.
 
-[Emplacement image : cycle d'exécution et traitement en pipeline, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le cycle de base du processeur
+elements:
+  - titre: Chercher
+    texte: L'instruction suivante est lue en mémoire.
+  - titre: Décoder
+    texte: Le processeur comprend ce qu'il doit faire.
+  - titre: Exécuter
+    texte: Le calcul ou le déplacement est réalisé.
+    icone: chip
+```
 
 ---
 
@@ -518,8 +538,19 @@ C'est ce qui explique la chute continue du prix du stockage, à capacité consta
 - Un SSD n'a aucune pièce mobile, d'où son accès quasi immédiat.
 - L'empilement en trois dimensions augmente la capacité sans agrandir la puce.
 
-[Emplacement image : pyramide de la hiérarchie mémoire avec capacités et temps d'accès, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: La hiérarchie de la mémoire
+legende: Du très rapide et très petit au très grand et plus lent.
+niveaux:
+  - titre: Registres
+    texte: Dans le processeur, les plus rapides.
+  - titre: Mémoire cache
+  - titre: Mémoire vive
+    texte: Rapide, mais volatile.
+  - titre: Stockage
+    texte: SSD ou disque dur, non volatile et très grand.
+```
 
 ---
 
@@ -621,8 +652,20 @@ le mouvement paraît plus fluide, ce qui compte surtout pour les jeux.
 - Un écran OLED affiche un vrai noir car le pixel s'éteint.
 - La densité de pixels compte plus que la définition brute, selon la distance de vision.
 
-[Emplacement image : structure d'un pixel et de ses trois sous-pixels, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Un pixel, trois sous-pixels
+legende: Toutes les autres couleurs naissent du mélange dans l'œil.
+centre: Pixel
+icone: monitor
+parties:
+  - nom: Rouge
+    role: Premier sous-pixel.
+  - nom: Vert
+    role: Deuxième sous-pixel.
+  - nom: Bleu
+    role: Troisième sous-pixel.
+```
 
 ---
 
@@ -720,8 +763,17 @@ Vous en utilisez plusieurs par jour sans le savoir.
 - L'isolation mémoire empêche un programme d'en corrompre un autre.
 - Linux, minoritaire sur ordinateur personnel, domine serveurs et smartphones.
 
-[Emplacement image : couches entre le matériel, le système et les applications, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les couches d'un ordinateur
+niveaux:
+  - titre: Applications
+    texte: Navigateur, traitement de texte, jeux.
+  - titre: Système d'exploitation
+    texte: Distribue processeur, mémoire, fichiers et accès au matériel.
+  - titre: Matériel
+    texte: Processeur, mémoire, disques, écran.
+```
 
 ---
 
@@ -835,8 +887,19 @@ Apprendre un deuxième langage demande beaucoup moins d'efforts que le premier.
 - Ada Lovelace est considérée comme la première programmeuse de l'histoire.
 - Chaque langage fait un compromis différent entre contrôle, sécurité et rapidité d'écriture.
 
-[Emplacement image : du code source au code machine, compilation et interprétation, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de traduire un programme
+colonnes:
+  - titre: Compilation
+    points:
+      - Tout le code est traduit avant l'exécution
+      - On obtient du code machine prêt à lancer
+  - titre: Interprétation
+    points:
+      - Le code est traduit pendant l'exécution
+      - Instruction par instruction
+```
 
 ---
 
@@ -945,8 +1008,19 @@ rapidement.
 - On mesure un algorithme par la croissance de son coût avec la taille des données.
 - Pour certains problèmes, on ne sait que vérifier vite, pas trouver vite.
 
-[Emplacement image : comparaison de la croissance du temps de calcul selon l'algorithme, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Chercher un nom dans une liste triée
+colonnes:
+  - titre: Recherche une à une
+    points:
+      - On regarde chaque élément à la suite
+      - Le coût grandit comme la taille de la liste
+  - titre: Recherche dichotomique
+    points:
+      - On coupe la liste en deux à chaque étape
+      - Une dizaine d'étapes là où il en faudrait des centaines
+```
 
 ---
 
@@ -1052,8 +1126,20 @@ toucher au web, et inventer une nouvelle application sans modifier le réseau.
 - Le système de noms de domaine traduit les noms en adresses numériques.
 - L'organisation en couches permet de faire évoluer chaque niveau indépendamment.
 
-[Emplacement image : trajet de paquets empruntant des chemins différents, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le voyage d'une information sur internet
+elements:
+  - titre: Nom de domaine
+    texte: L'annuaire le traduit en adresse numérique.
+  - titre: Découpage
+    texte: L'information est coupée en paquets numérotés.
+  - titre: Acheminement
+    texte: Les paquets passent de réseau en réseau, parfois par des chemins différents.
+    icone: network
+  - titre: Réassemblage
+    texte: À l'arrivée, les paquets sont remis dans l'ordre.
+```
 
 ---
 
@@ -1148,6 +1234,16 @@ avec le reste.
 Et la vigilance devant l'urgence : les messages frauduleux créent presque toujours une pression
 temporelle. Un message qui vous presse d'agir immédiatement mérite qu'on ralentisse.
 
+```schema
+type: chiffres
+titre: Les deux protections les plus efficaces
+chiffres:
+  - valeur: Mises à jour
+    texte: installées sans tarder
+  - valeur: Double authentification
+    texte: activée sur les comptes importants
+```
+
 ## À retenir
 
 - La plupart des attaques commencent par un courriel piégé ou un mot de passe réutilisé.
@@ -1155,8 +1251,20 @@ temporelle. Un message qui vous presse d'agir immédiatement mérite qu'on ralen
 - Hôpitaux, collectivités et petites structures sont des cibles fréquentes.
 - Mises à jour et double authentification sont les protections les plus efficaces.
 
-[Emplacement image : étapes d'une attaque par rançongiciel, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Le déroulement d'une attaque par rançongiciel
+elements:
+  - titre: Entrée
+    texte: Un courriel piégé ou un mot de passe réutilisé.
+  - titre: Installation
+    texte: Le logiciel malveillant s'installe.
+  - titre: Chiffrement
+    texte: Les données deviennent illisibles.
+    icone: lock
+  - titre: Chantage
+    texte: Rançon, et menace de publier les données.
+```
 
 ---
 
@@ -1279,8 +1387,18 @@ commencent à être déployés.
 - Le cadenas garantit le chiffrement et l'identité, pas l'honnêteté du site.
 - Des algorithmes résistants aux ordinateurs quantiques sont en cours de déploiement.
 
-[Emplacement image : principe du chiffrement à clé publique, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le chiffrement à clé publique
+elements:
+  - titre: Publier une clé
+    texte: La clé publique est diffusée à tous.
+    icone: lock
+  - titre: Chiffrer
+    texte: N'importe qui chiffre un message avec elle.
+  - titre: Déchiffrer
+    texte: Seule la clé privée, gardée secrète, peut le lire.
+```
 
 ---
 
@@ -1391,8 +1509,19 @@ explique les baisses de qualité visibles lors des mouvements rapides en diffusi
 - La compression avec perte supprime ce que l'œil ou l'oreille ne perçoit pas.
 - La vidéo se compresse en ne codant que ce qui change d'une image à l'autre.
 
-[Emplacement image : image avant et après compression avec perte, agrandissement d'un détail,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de compresser
+colonnes:
+  - titre: Sans perte
+    points:
+      - Restitue exactement l'original
+      - Utile pour les textes et les programmes
+  - titre: Avec perte
+    points:
+      - Supprime ce que l'œil ou l'oreille ne perçoit pas
+      - Images, sons et vidéos bien plus légers
+```
 
 ---
 
@@ -1502,8 +1631,18 @@ de panne réseau.
 - Chaque index coûte de l'espace et ralentit les écritures.
 - Une transaction s'exécute entièrement ou pas du tout.
 
-[Emplacement image : deux tables reliées par un identifiant et rôle de l'index, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les notions clés d'une base de données
+centre: Base relationnelle
+parties:
+  - nom: Tables liées
+    role: Un identifiant relie les tables et évite les doublons.
+  - nom: Index
+    role: Trouve une ligne sans tout parcourir, mais ralentit les écritures.
+  - nom: Transaction
+    role: S'exécute entièrement ou pas du tout.
+```
 
 ---
 
@@ -1581,6 +1720,21 @@ En associant des transistors, on construit des portes logiques, qui sont la base
 ## Une invention qui a tout changé
 
 Les transistors ont remplacé les tubes à vide, plus gros et moins efficaces. Les premiers transistors sont nés aux Bell Labs, et leurs inventeurs, Bardeen, Brattain et Shockley, ont reçu un prix Nobel de physique. Le MOSFET est le composant électronique le plus fabriqué de l'histoire.
+
+```schema
+type: etapes
+titre: Du transistor à l'ordinateur
+elements:
+  - titre: Transistor
+    texte: La tension sur la grille ouvre ou ferme le passage entre source et drain.
+  - titre: Porte logique
+    texte: Quelques transistors associés réalisent une opération logique.
+  - titre: Circuits de calcul
+    texte: Des portes assemblées additionnent et comparent.
+  - titre: Processeur
+    texte: Des milliards de transistors.
+    icone: chip
+```
 
 ## À retenir
 
@@ -2312,8 +2466,17 @@ fiable pour une conservation numérique sur le très long terme.
 - Migrer régulièrement les données vers de nouveaux supports reste la stratégie la plus fiable à
   long terme.
 
-[Emplacement image : différents supports de stockage, disque dur, bande magnétique et disque
-optique, côte à côte, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La règle des trois copies
+chiffres:
+  - valeur: 3 copies
+    texte: au moins, de chaque donnée importante
+  - valeur: Supports différents
+    texte: pour ne pas tout perdre d'un coup
+  - valeur: Migrer
+    texte: régulièrement vers de nouveaux supports
+```
 
 ---
 
@@ -2632,8 +2795,21 @@ récents compatibles, permettent souvent de contourner ce problème.
 - Des pièces d'occasion ou des équivalents compatibles permettent de contourner la rareté de
   certains composants anciens.
 
-[Emplacement image : ordinateur ancien ouvert en cours de nettoyage et de maintenance, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Redonner vie à un vieil ordinateur
+elements:
+  - titre: Diagnostiquer
+    texte: Le disque dur est souvent le premier à faiblir.
+  - titre: Nettoyer
+    texte: Poussière et contacts.
+  - titre: Installer un système léger
+    texte: Adapté au matériel.
+  - titre: Remplacer le disque
+    texte: Une mémoire flash change tout.
+  - titre: Trouver des pièces
+    texte: Occasion ou équivalents compatibles.
+```
 
 ---
 
@@ -2932,6 +3108,23 @@ Des navires câbliers spécialisés déroulent le câble sur le fond de la mer. 
 
 Un premier câble télégraphique transatlantique en cuivre n'a fonctionné qu'environ un mois ; un câble durable a suivi quelques années plus tard. Le premier câble transatlantique à fibre optique, TAT-8, est entré en service en 1988. Des câbles sous-marins servent aussi à transporter l'électricité, notamment pour des installations d'énergie renouvelable en mer.
 
+```schema
+type: systeme
+titre: Un câble sous-marin
+legende: La quasi-totalité du trafic entre continents passe par ces câbles.
+centre: Câble sous-marin
+icone: wave
+parties:
+  - nom: Fibres optiques
+    role: La lumière y est guidée par réflexion totale interne.
+  - nom: Répéteurs
+    role: Ils amplifient le signal, alimentés par le câble lui-même.
+  - nom: Ensouillage côtier
+    role: Le câble est enterré près des côtes.
+  - nom: Menaces
+    role: Chaluts, ancres et séismes.
+```
+
 ## À retenir
 
 - La quasi-totalité du trafic de données entre continents passe par des câbles sous-marins, et non par des satellites.
@@ -3086,8 +3279,20 @@ néanmoins précieux pour maintenir une communication de proximité en toutes ci
 - Cette solution reste limitée géographiquement mais utile en cas de coupure des infrastructures
   habituelles.
 
-[Emplacement image : schéma d'un réseau maillé reliant plusieurs appareils entre eux sans passer
-par internet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Réseau avec point central ou réseau maillé
+colonnes:
+  - titre: Autour d'un routeur
+    points:
+      - Un routeur allumé suffit, sans fournisseur d'accès
+      - Si le routeur tombe, le réseau tombe
+  - titre: Maillé
+    icone: network
+    points:
+      - Chaque appareil relaie les autres
+      - La panne d'un nœud n'arrête pas le reste
+```
 
 ---
 
@@ -4031,6 +4236,20 @@ Pour écrire du texte, on donne un numéro à chaque caractère. Le code ASCII, 
 ## Une vieille idée
 
 Des formes proches du binaire apparaissent très tôt, par exemple dans les hexagrammes du Yi Jing, un livre chinois très ancien. En 1703, le savant allemand Gottfried Wilhelm Leibniz a publié une étude du calcul binaire. En 1847, le mathématicien anglais George Boole a inventé une algèbre qui n'accepte que deux valeurs, 0 et 1. Ces idées sont devenues la base des ordinateurs du 20e siècle.
+
+```schema
+type: chiffres
+titre: Les repères du binaire
+chiffres:
+  - valeur: 2 chiffres
+    texte: 0 et 1, absence ou présence de tension
+  - valeur: 8 bits
+    texte: forment un octet
+  - valeur: 256
+    texte: valeurs possibles pour un octet
+  - valeur: 65
+    texte: le code de la lettre A en ASCII
+```
 
 ## À retenir
 
@@ -5065,6 +5284,23 @@ En 1966, Corrado Böhm et Giuseppe Jacopini ont démontré un résultat importan
 
 Ce résultat a soutenu une idée défendue en 1968 par Edsger Dijkstra. Il critiquait l'instruction « goto », qui fait sauter le programme n'importe où et rend le code difficile à suivre. Il proposait d'utiliser plutôt ces structures bien rangées. Aujourd'hui, les conditions et les boucles se retrouvent dans presque tous les langages.
 
+```schema
+type: comparaison
+titre: Les trois briques de tout programme
+legende: Böhm et Jacopini ont montré en 1966 qu'elles suffisent.
+colonnes:
+  - titre: La suite
+    points:
+      - Les instructions dans l'ordre
+  - titre: Le choix
+    points:
+      - Si, alors, sinon
+  - titre: La répétition
+    points:
+      - Tant que, pour
+      - Attention à la boucle infinie
+```
+
 ## À retenir
 
 - Un programme exécute ses instructions dans l'ordre, sauf quand une structure de contrôle change ce chemin.
@@ -5741,6 +5977,21 @@ Sur cet appareil, le micrologiciel trouve un petit programme : le chargeur d'amo
 Le noyau prend alors le contrôle de la machine. Il gère la mémoire, partage le temps du processeur entre les programmes et dialogue avec les appareils. Puis il lance un premier programme, qui démarre à son tour tous les autres. Sous Linux, c'est souvent systemd. Il vérifie et rend accessibles les disques, puis lance les services, comme le réseau ou l'écran de connexion.
 
 Quand l'écran d'accueil apparaît, l'ordinateur a franchi toutes ces étapes. Chacune a préparé la suivante, comme une course de relais.
+
+```schema
+type: etapes
+titre: Du bouton à l'écran d'accueil
+elements:
+  - titre: Micrologiciel
+    texte: BIOS ou UEFI vérifie le matériel, c'est le test POST.
+  - titre: Appareil de démarrage
+    texte: Le micrologiciel le cherche.
+  - titre: Chargeur d'amorçage
+    texte: Il place le noyau en mémoire vive.
+  - titre: Système d'exploitation
+    texte: Le noyau lance les autres programmes.
+    icone: monitor
+```
 
 ## À retenir
 
@@ -6592,6 +6843,20 @@ Le corps humain conduit l'électricité, et c'est ce que détectent les écrans 
 
 Un écran capacitif simple ne détecte pas un doigt à travers un matériau isolant comme un gant ; les écrans capacitifs projetés détectent un doigt proche et permettent de toucher à plusieurs doigts. Les premiers travaux publiés sur les écrans tactiles capacitifs sont ceux d'Eric Johnson, au Royal Radar Establishment.
 
+```schema
+type: comparaison
+titre: Deux familles d'écrans tactiles
+colonnes:
+  - titre: Résistif
+    points:
+      - Deux couches se touchent là où l'on appuie
+      - Fonctionne avec n'importe quel objet
+  - titre: Capacitif
+    points:
+      - Détecte le doigt, conducteur d'électricité
+      - Un gant simple l'empêche de fonctionner
+```
+
 ## À retenir
 
 - Dans un écran résistif, deux couches transparentes se touchent là où l'on appuie, et l'appareil repère la position.
@@ -6732,6 +6997,20 @@ L'imprimante laser fonctionne autrement. Elle contient un tambour, un cylindre c
 L'encre est une poudre appelée toner, faite de particules très fines de plastique. Grâce aux charges électriques, le toner se colle seulement aux bons endroits du tambour. Le tambour roule ensuite sur la feuille, qui attire le toner. Enfin, la feuille passe entre deux rouleaux chauffés à au moins 180 °C. Le plastique fond et se fixe au papier. C'est pourquoi une feuille sort chaude d'une imprimante laser.
 
 Gary Starkweather, chez Xerox, a construit le premier prototype en 1971. La première imprimante laser commerciale, l'IBM 3800, est sortie en 1976. En 1984, la LaserJet de Hewlett-Packard a été la première destinée au grand public.
+
+```schema
+type: comparaison
+titre: Jet d'encre ou laser
+colonnes:
+  - titre: Jet d'encre
+    points:
+      - Gouttes de quelques picolitres
+      - Projetées par une bulle de vapeur ou un cristal
+  - titre: Laser
+    points:
+      - Image dessinée en charges sur un tambour
+      - Poudre de toner fixée par des rouleaux à 180 °C au moins
+```
 
 ## À retenir
 
@@ -7711,6 +7990,22 @@ On l'a surnommé « le chiffre indéchiffrable ». Pourtant, il a une faiblesse 
 
 Le savant Charles Babbage a cassé une variante de ce chiffre dès 1854, sans rien publier. En 1863, Friedrich Kasiski a publié la première méthode générale. Depuis, le chiffre de Vigenère n'offre plus aucune sécurité.
 
+```schema
+type: comparaison
+titre: César contre Vigenère
+colonnes:
+  - titre: César
+    points:
+      - Même décalage pour toutes les lettres
+      - 26 clés possibles
+      - Cassé par l'analyse des fréquences
+  - titre: Vigenère
+    points:
+      - Un mot-clé, un décalage différent par lettre
+      - Décrit par Bellaso en 1553
+      - Cassé par Kasiski en 1863
+```
+
 ## À retenir
 
 - Le chiffre de César décale toutes les lettres du même nombre de rangs ; César utilisait un décalage de 3.
@@ -7884,6 +8179,20 @@ Chaque bloc contient l'empreinte du bloc précédent, un horodatage et les donn�
 ## Énergie, usages et limites
 
 La preuve de travail consomme beaucoup d'énergie, alors que la preuve d'enjeu en consomme bien moins. La première chaîne de blocs décentralisée, conçue par Satoshi Nakamoto, a servi de base au Bitcoin. Les usages dépassent les cryptomonnaies : chaîne d'approvisionnement, droits musicaux, données de santé. L'impossibilité d'effacer une donnée pose des questions de protection des données, comme le droit à l'oubli du RGPD.
+
+```schema
+type: etapes
+titre: Pourquoi on ne peut pas réécrire le passé
+elements:
+  - titre: Une empreinte par bloc
+    texte: Elle change complètement si une lettre change.
+  - titre: Les blocs s'enchaînent
+    texte: Chaque bloc contient l'empreinte du précédent.
+  - titre: Modifier un ancien bloc
+    texte: Change son empreinte.
+  - titre: Tout se casse
+    texte: Tous les blocs suivants deviennent invalides.
+```
 
 ## À retenir
 
@@ -8295,6 +8604,24 @@ Enfin, l'antivirus peut lancer un programme douteux dans un bac à sable. C'est 
 En 1987, l'informaticien Fred Cohen a démontré qu'aucun algorithme ne peut détecter à coup sûr tous les virus possibles. La même année, Bernd Fix a été l'un des premiers à neutraliser un virus informatique réel.
 
 Les antivirus se trompent aussi dans l'autre sens. Un faux positif est une fausse alerte : un fichier sain est pris pour une menace. En 2022, Microsoft Defender a signalé à tort tous les navigateurs web basés sur Chromium. L'antivirus est donc une protection utile, mais il faut aussi faire les mises à jour et se méfier des pièces jointes inconnues.
+
+```schema
+type: systeme
+titre: Les méthodes d'un antivirus
+centre: Antivirus
+icone: shield
+parties:
+  - nom: Signatures
+    role: Comparer les fichiers aux empreintes connues.
+  - nom: Analyse du code
+    role: Repérer les menaces nouvelles.
+  - nom: Comportements
+    role: Surveiller ce que font les programmes.
+  - nom: Bac à sable
+    role: Tester un programme isolé.
+  - nom: Quarantaine
+    role: Isoler un fichier suspect.
+```
 
 ## À retenir
 
@@ -8890,6 +9217,19 @@ Plus on s'éloigne de la box, plus le signal faiblit. Les murs et les planchers 
 
 En 1999, la version 802.11b de la norme est approuvée. En 2000, les premiers appareils certifiés échangent jusqu'à 11 mégabits par seconde. Une association créée en 1999, devenue la Wi-Fi Alliance, vérifie que des appareils de marques différentes fonctionnent bien ensemble.
 
+```schema
+type: etapes
+titre: Le trajet des données en Wi-Fi
+elements:
+  - titre: Box
+    texte: Elle transforme les données en ondes radio.
+    icone: wifi
+  - titre: Ondes
+    texte: Autour de 2,4, 5 et 6 gigahertz.
+  - titre: Appareil
+    texte: Il retrouve les 0 et les 1.
+```
+
 ## À retenir
 
 - Le Wi-Fi transporte les données par des ondes radio, autour de 2,4, 5 et 6 gigahertz.
@@ -9212,6 +9552,17 @@ Comme ces satellites sont proches, le signal fait un trajet bien plus court. La 
 ## Les limites
 
 La pluie et l'humidité perturbent les ondes, surtout sur les fréquences les plus hautes. Les grandes constellations posent aussi des problèmes. Les astronomes s'inquiètent de la pollution lumineuse qu'elles créent. Et plus il y a de satellites, plus le risque de collisions et de débris dans l'espace augmente.
+
+```schema
+type: barres
+titre: Altitude des satellites internet
+unite: km
+valeurs:
+  - label: Orbite basse, Starlink
+    valeur: 550
+  - label: Géostationnaire
+    valeur: 35786
+```
 
 ## À retenir
 
@@ -10061,6 +10412,20 @@ Pour une liste de 1 000 éléments en désordre, une méthode comme le tri par i
 Le tri rapide est une autre méthode très utilisée. Il est en général aussi rapide que le tri fusion, mais il peut devenir lent dans certains cas.
 
 Les informaticiens ont démontré qu'il existe une limite. Un algorithme qui trie en comparant les éléments deux à deux ne peut pas, en moyenne, faire beaucoup mieux que le tri fusion. Certains programmes combinent plusieurs méthodes : par exemple le tri par insertion pour les petits morceaux, et une méthode rapide pour le reste.
+
+```schema
+type: comparaison
+titre: Deux méthodes de tri
+colonnes:
+  - titre: Tri par insertion
+    points:
+      - Range les éléments un par un, comme des cartes
+      - Très lent sur de longues listes en désordre
+  - titre: Tri fusion
+    points:
+      - Coupe la liste en morceaux puis les fusionne
+      - Inventé par John von Neumann en 1945
+```
 
 ## À retenir
 
@@ -11869,6 +12234,21 @@ Tous les processeurs modernes se protègent. Si leur température dépasse une l
 
 Avec le temps, la poussière s'accumule dans les ailettes et le ventilateur. Elle agit comme une couverture : elle isole la chaleur et bloque le passage de l'air. Un ordinateur portable rempli de poussière peut se mettre à s'éteindre souvent à cause de la chaleur. Le nettoyer régulièrement l'aide à rester rapide et à durer plus longtemps.
 
+```schema
+type: etapes
+titre: Le trajet de la chaleur
+elements:
+  - titre: Processeur
+    texte: Le courant produit de la chaleur.
+    icone: chip
+  - titre: Dissipateur
+    texte: Ses ailettes en métal transmettent la chaleur à l'air.
+  - titre: Ventilateur
+    texte: Il pousse l'air à travers les ailettes.
+  - titre: Hors du boîtier
+    texte: L'air chaud est évacué.
+```
+
 ## À retenir
 
 - Le courant qui traverse le processeur et la puce graphique produit de la chaleur.
@@ -11962,6 +12342,19 @@ Les premiers processeurs graphiques des années 1990 savaient tracer des lignes 
 Beaucoup d'autres problèmes se découpent, eux aussi, en milliers de petits calculs identiques. En 2007, l'entreprise Nvidia a présenté CUDA, un outil qui permet de programmer un GPU pour autre chose que des images. Ce fut le premier outil de ce type à être très utilisé.
 
 Depuis les années 2010, les GPU servent à entraîner des réseaux de neurones, la technique au cœur de l'intelligence artificielle moderne. Ils servent aussi au minage de bitcoins. Pour ces tâches, un GPU peut être des centaines de fois plus rapide qu'un processeur classique.
+
+```schema
+type: comparaison
+titre: Un génie ou mille ouvriers
+colonnes:
+  - titre: Processeur central
+    points:
+      - Peu d'unités de calcul, très polyvalentes
+  - titre: Processeur graphique
+    points:
+      - Des centaines ou des milliers d'unités
+      - Le même calcul en même temps sur des millions de pixels
+```
 
 ## À retenir
 
@@ -13315,6 +13708,21 @@ Un sel est une donnée aléatoire ajoutée au mot de passe avant le hachage. Il 
 
 Il faut utiliser un algorithme volontairement lent, comme Argon2id, scrypt ou bcrypt, pour ralentir ceux qui essaient énormément de mots de passe. Les fonctions de hachage rapides ne conviennent pas pour stocker des mots de passe, car elles permettent à un attaquant d'essayer très vite. Ralentir chaque essai rend l'attaque par force brute bien plus chère : l'utilisateur ne calcule qu'une fois à la connexion, l'attaquant le fait à chaque essai. On règle le coût du calcul, par exemple le nombre d'itérations, et on l'augmente avec le temps, car la puissance des ordinateurs grandit. Argon2, vainqueur d'un concours public de hachage de mots de passe, est conçu pour utiliser beaucoup de mémoire, ce qui gêne les attaques sur du matériel spécialisé.
 
+```schema
+type: etapes
+titre: Ce que fait un site sérieux de votre mot de passe
+elements:
+  - titre: Ajouter un sel
+    texte: Une donnée aléatoire, unique pour chaque utilisateur.
+  - titre: Hacher lentement
+    texte: Argon2id, scrypt ou bcrypt.
+  - titre: Garder l'empreinte
+    texte: Jamais le mot de passe lui-même.
+    icone: lock
+  - titre: Comparer
+    texte: À la connexion, on recalcule et on compare les empreintes.
+```
+
 ## À retenir
 
 - Une fonction de hachage cryptographique est à sens unique : facile à calculer, mais pratiquement impossible à inverser.
@@ -13405,6 +13813,19 @@ Les algorithmes asymétriques sont plus lents que les symétriques : on s'en ser
 ## Une menace à l'horizon
 
 Un ordinateur quantique assez puissant pourrait casser RSA grâce à l'algorithme de Shor.
+
+```schema
+type: etapes
+titre: RSA dans la pratique
+elements:
+  - titre: Clé publique
+    texte: Elle sert à chiffrer une clé symétrique.
+  - titre: Clé privée
+    texte: Seul son détenteur récupère cette clé.
+    icone: lock
+  - titre: Clé symétrique
+    texte: Plus rapide, elle chiffre ensuite les données.
+```
 
 ## À retenir
 
@@ -13521,6 +13942,22 @@ Le SSD est bien plus rapide, avec un temps d'accès beaucoup plus court. Sans pi
 
 Les cellules de mémoire flash supportent un nombre limité d'écritures : le SSD s'use. Le SSD coûte plus cher par gigaoctet, alors que le disque dur reste moins cher pour de très grandes capacités. Les SSD remplacent de plus en plus les disques durs, surtout pour les petites capacités.
 
+```schema
+type: comparaison
+titre: SSD ou disque dur
+colonnes:
+  - titre: Disque dur
+    points:
+      - Plateaux magnétiques qui tournent
+      - Plus fragile aux chocs
+      - Moins cher par gigaoctet
+  - titre: SSD
+    points:
+      - Mémoire flash, aucune pièce mobile
+      - Bien plus rapide et silencieux
+      - Plus cher par gigaoctet
+```
+
 ## À retenir
 
 - Un disque dur stocke les données sur des plateaux magnétiques qui tournent, lus et écrits par des têtes qui flottent juste au-dessus.
@@ -13632,6 +14069,16 @@ La profondeur de couleur dit combien de bits décrivent chaque pixel : 1 bit pou
 ## Agrandir, vectoriser, compresser
 
 Une image matricielle perd en qualité quand on l'agrandit : les pixels deviennent visibles. Une image vectorielle, elle, est décrite par des formules mathématiques et peut être agrandie sans perte. On réduit la taille des fichiers par compression : sans perte, comme PNG, ou avec perte, comme JPEG. Sur le web, le pixel CSS est séparé des pixels physiques de l'écran, pour que l'affichage reste cohérent sur tous les appareils.
+
+```schema
+type: chiffres
+titre: Les repères du pixel
+chiffres:
+  - valeur: 3 sous-pixels
+    texte: rouge, vert et bleu sur un écran
+  - valeur: 24 bits
+    texte: par pixel pour environ 16,7 millions de couleurs
+```
 
 ## À retenir
 
@@ -13748,6 +14195,21 @@ RISC-V est une architecture de jeu d'instructions ouverte et libre, créée à l
 
 Une organisation à but non lucratif de droit suisse, RISC-V International, maintient le standard. Elle réunit de nombreux acteurs, dont Google, Nvidia et Alibaba. On l'utilise surtout dans les microcontrôleurs, les systèmes embarqués, les accélérateurs d'IA, des serveurs et même l'espace avec le processeur NOEL-V de l'ESA. Elle représente aussi pour certains pays une alternative aux architectures contrôlées par les États-Unis ou le Royaume-Uni. L'Union européenne finance le développement de processeurs RISC-V pour les supercalculateurs et les centres de données.
 
+```schema
+type: comparaison
+titre: Architectures de processeur
+colonnes:
+  - titre: RISC-V
+    points:
+      - Spécifications ouvertes et libres
+      - Pas de licence payante
+      - Base modulaire avec extensions
+  - titre: ARM et x86
+    points:
+      - Architectures propriétaires
+      - Utilisation sous licence
+```
+
 ## À retenir
 
 - Une architecture de jeu d'instructions, ou ISA, définit les instructions qu'un processeur peut exécuter : c'est l'interface entre le logiciel et le matériel.
@@ -13830,6 +14292,25 @@ Un qubit supraconducteur est un circuit électronique supraconducteur, avec des 
 ## Le problème des erreurs
 
 Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les opérations produisent des erreurs. Pour obtenir des calculs fiables, il faut des codes de correction d'erreurs quantiques, qui demandent beaucoup de qubits physiques par qubit utile. Google a annoncé avoir atteint la suprématie quantique avec son processeur Sycamore, à qubits supraconducteurs. Les processeurs supraconducteurs ont déjà atteint un très grand nombre de qubits physiques, comme le Condor d'IBM.
+
+```schema
+type: systeme
+titre: Un processeur quantique supraconducteur
+centre: Qubit supraconducteur
+icone: atom
+parties:
+  - nom: Superposition
+    role: Un état à la fois 0 et 1, jusqu'à la mesure.
+  - nom: Jonctions Josephson
+    role: Circuits supraconducteurs gravés sur une puce.
+  - nom: Réfrigérateur à dilution
+    role: Très près du zéro absolu.
+    icone: snowflake
+  - nom: Impulsions micro-ondes
+    role: Elles pilotent l'état des qubits.
+  - nom: Décohérence
+    role: L'état quantique se perd vite et crée des erreurs.
+```
 
 ## À retenir
 
