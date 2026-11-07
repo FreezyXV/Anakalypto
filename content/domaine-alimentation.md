@@ -329,8 +329,18 @@ soixantaine de grammes pour une personne de 70 kilos.
 - Les lipides servent aussi de membrane cellulaire et transportent les vitamines A, D, E et K.
 - Neuf acides aminés sont essentiels : le corps ne sait pas les fabriquer.
 
-[Emplacement image : composition en macronutriments de quelques aliments courants, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: L'énergie apportée par gramme
+unite: kcal
+valeurs:
+  - label: Glucides
+    valeur: 4
+  - label: Protéines
+    valeur: 4
+  - label: Lipides
+    valeur: 9
+```
 
 ---
 
@@ -430,8 +440,18 @@ aliment par aliment.
 - La charge glycémique tient compte de la portion réellement mangée.
 - Cuisson et broyage augmentent l'index d'un même aliment.
 
-[Emplacement image : courbes de glycémie après un aliment à index élevé et un aliment à index
-bas, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Index ou charge glycémique
+colonnes:
+  - titre: Index glycémique
+    points:
+      - Compare un aliment au glucose pur, noté 100
+      - Mesuré sur 50 g de glucides
+  - titre: Charge glycémique
+    points:
+      - Tient compte de la portion réellement mangée
+```
 
 ---
 
@@ -528,8 +548,19 @@ propriétés. L'huile de colza se garde pour l'assaisonnement, pas pour la fritu
 - Le corps convertit très mal l'ALA en DHA.
 - Deux portions de poisson par semaine, dont un gras, couvrent les besoins.
 
-[Emplacement image : sources alimentaires d'oméga-3 et d'oméga-6, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les acides gras essentiels
+legende: Le corps ne sait pas les fabriquer.
+colonnes:
+  - titre: Oméga-6
+    points:
+      - Huiles végétales
+  - titre: Oméga-3
+    points:
+      - ALA végétal
+      - EPA et DHA des poissons gras
+```
 
 ---
 
@@ -626,8 +657,18 @@ une partie du cholestérol dans l'intestin.
 - Le LDL transporte, le HDL ramène. C'est l'équilibre entre les deux qui compte.
 - Graisses saturées et trans influencent plus le LDL que le cholestérol alimentaire.
 
-[Emplacement image : schéma simplifié du transport du cholestérol par LDL et HDL, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: D'où vient notre cholestérol
+unite: "%"
+valeurs:
+  - label: Fabriqué par le foie
+    valeur: 70
+    note: environ
+  - label: Apporté par l'alimentation
+    valeur: 30
+    note: environ
+```
 
 ---
 
@@ -720,8 +761,20 @@ Ces trois carences ont un point commun : elles coûtent très peu cher à corrig
 - A, D, E et K se stockent dans les graisses ; B et C s'éliminent dans l'urine.
 - Fer, vitamine A et iode restent les carences les plus répandues dans le monde.
 
-[Emplacement image : principales vitamines, leur rôle et leurs sources alimentaires, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux groupes de vitamines
+legende: Treize vitamines sont nécessaires au corps humain.
+colonnes:
+  - titre: Liposolubles
+    points:
+      - A, D, E, K
+      - Stockées dans les graisses
+  - titre: Hydrosolubles
+    points:
+      - C et groupe B
+      - Peu stockées
+```
 
 ---
 
@@ -820,8 +873,18 @@ produits de base comme la farine, et traiter les parasites intestinaux qui aggra
 - La vitamine C améliore l'absorption, le thé et le café la freinent.
 - La carence retentit sur le développement du cerveau chez le jeune enfant.
 
-[Emplacement image : comparaison des taux d'absorption du fer selon l'aliment, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux formes de fer
+colonnes:
+  - titre: Fer animal
+    points:
+      - Environ dix fois mieux absorbé
+  - titre: Fer végétal
+    points:
+      - Mieux absorbé avec de la vitamine C
+      - Gêné par le thé ou le café
+```
 
 ---
 
@@ -925,8 +988,19 @@ Le bénéfice est bien réel, mais il vient de l'aliment entier, pas d'une molé
 - Un fruit contient des centaines de composés qui agissent en synergie.
 - Miser sur les aliments, pas sur les gélules.
 
-[Emplacement image : comparaison entre un aliment entier et un complément isolé, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Antioxydants, compléments ou aliments
+colonnes:
+  - titre: Compléments isolés
+    points:
+      - Pas les bénéfices espérés dans les essais
+  - titre: Aliments entiers
+    icone: apple
+    points:
+      - Fruits et légumes
+      - Associés à une meilleure santé
+```
 
 ---
 
@@ -1031,8 +1105,18 @@ Et la cuisson, évidemment, détruit les lectines.
 - Les lectines crues irritent l'intestin : les haricots doivent être cuits.
 - Trempage, germination et fermentation réduisent les phytates.
 
-[Emplacement image : teneur en phytates de quelques aliments et effet du trempage, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Phytates et lectines
+colonnes:
+  - titre: Phytates
+    points:
+      - Retiennent fer, zinc et calcium
+      - Réduits par trempage et fermentation
+  - titre: Lectines
+    points:
+      - Détruites par la cuisson
+```
 
 ---
 
@@ -1124,8 +1208,15 @@ le sel du sang de façon dangereuse. Des cas sérieux ont été observés lors d
 - Les aliments fournissent 20 à 30 % de ces apports.
 - Une perte de 2 % du poids corporel dégrade déjà la concentration.
 
-[Emplacement image : teneur en eau de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'eau et le corps
+chiffres:
+  - valeur: 60 %
+    texte: du corps adulte est de l'eau, environ
+  - valeur: 2 à 2,5 L
+    texte: de besoins totaux par jour, aliments compris
+```
 
 ---
 
@@ -1219,8 +1310,17 @@ il faut boire, car les fibres n'agissent qu'en retenant de l'eau.
 - Les bactéries du côlon les fermentent et en tirent du butyrate.
 - Objectif d'environ 30 grammes par jour, à atteindre progressivement.
 
-[Emplacement image : teneur en fibres de quelques aliments courants, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux familles de fibres
+colonnes:
+  - titre: Solubles
+    points:
+      - Forment un gel
+  - titre: Insolubles
+    points:
+      - Accélèrent le transit
+```
 
 ---
 
@@ -1325,8 +1425,17 @@ manque de sommeil appauvrissent le microbiote.
 - Il fabrique des vitamines et régule notre immunité.
 - La diversité végétale est la meilleure façon de le nourrir.
 
-[Emplacement image : répartition des principales familles de bactéries du microbiote intestinal,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le microbiote intestinal
+legende: Environ 100 000 milliards de micro-organismes.
+centre: Microbiote
+parties:
+  - nom: Digère les fibres
+  - nom: Produit du butyrate
+    role: Pour la paroi intestinale.
+  - nom: Protège contre les pathogènes
+```
 
 ---
 
@@ -1426,8 +1535,18 @@ qui ont leurs propres effets. Et ils coûtent moins cher.
 - Les preuves les plus solides concernent les diarrhées.
 - Les aliments fermentés combinent probiotiques, prébiotiques et métabolites.
 
-[Emplacement image : sources alimentaires de probiotiques et de prébiotiques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Probiotiques ou prébiotiques
+colonnes:
+  - titre: Probiotiques
+    points:
+      - Des microbes vivants
+      - Effets propres à chaque souche
+  - titre: Prébiotiques
+    points:
+      - La nourriture de ces microbes
+```
 
 ---
 
@@ -1524,8 +1643,22 @@ C'est l'ensemble de l'alimentation, répété pendant des années, qui compte.
 - Les jus de fruits comptent comme des boissons sucrées.
 - C'est l'ensemble de l'alimentation qui compte, pas un aliment isolé.
 
-[Emplacement image : repères alimentaires principaux, à augmenter et à réduire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les repères nutritionnels
+colonnes:
+  - titre: À augmenter
+    icone: leaf
+    points:
+      - Légumineuses
+      - Fruits et légumes
+      - Céréales complètes
+      - Fruits à coque
+  - titre: À réduire
+    points:
+      - Charcuterie
+      - Viande hors volaille
+```
 
 ---
 
@@ -1623,8 +1756,27 @@ recettes pour gagner une lettre.
 - Il n'évalue ni la transformation, ni les additifs, ni l'environnement.
 - Son affichage est volontaire, ce qui favorise les produits bien notés.
 
-[Emplacement image : calcul simplifié du Nutri-Score sur un produit courant, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: Le Nutri-Score
+legende: Il compare des produits d'une même famille, pour 100 grammes.
+unite: ""
+min: 0
+max: 5
+zones:
+  - de: 0
+    a: 2
+    label: A et B, meilleure qualité nutritionnelle
+    ton: normal
+  - de: 2
+    a: 3
+    label: C
+    ton: attention
+  - de: 3
+    a: 5
+    label: D et E, moins bonne qualité
+    ton: danger
+```
 
 ---
 
@@ -1736,8 +1888,19 @@ restent consommables longtemps après.
 - Les additifs sont codés de E100 à E499 selon leur fonction.
 - Les deux types de dates n'ont pas du tout la même signification.
 
-[Emplacement image : étiquette alimentaire annotée avec les zones à regarder, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Lire une étiquette
+centre: Étiquette
+parties:
+  - nom: Ingrédients
+    role: Du plus abondant au moins abondant.
+  - nom: Tableau nutritionnel
+    role: Pour 100 grammes.
+  - nom: Additifs
+  - nom: Allégations
+  - nom: Dates
+```
 
 ---
 
@@ -1842,8 +2005,16 @@ l'information circule en quelques heures pour retirer les lots concernés.
 - Les microbes sont de loin la cause la plus fréquente.
 - L'évaluation scientifique du risque est séparée de sa gestion politique.
 
-[Emplacement image : les trois familles de contaminants et leurs principales sources, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les dangers d'un aliment
+legende: Environ 600 millions de cas de maladies alimentaires par an dans le monde.
+centre: Aliment
+parties:
+  - nom: Microbiologiques
+  - nom: Chimiques
+  - nom: Physiques
+```
 
 ---
 
@@ -1943,8 +2114,27 @@ moyen de transport des microbes dans une cuisine.
 - Le froid endort les bactéries, il ne les tue pas.
 - Listeria se multiplie même dans un réfrigérateur.
 
-[Emplacement image : échelle de température et vitesse de multiplication des bactéries, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: La zone de danger des aliments
+legende: Une population de bactéries peut doubler toutes les vingt minutes.
+unite: °C
+min: -20
+max: 75
+zones:
+  - de: -20
+    a: 4
+    label: Froid, les bactéries ralentissent
+    ton: info
+  - de: 4
+    a: 60
+    label: Zone de danger
+    ton: danger
+  - de: 60
+    a: 75
+    label: Chaud, les bactéries sont détruites
+    ton: normal
+```
 
 ---
 
@@ -2045,8 +2235,17 @@ ambiante. Réfrigérer rapidement les restes. Laver les fruits et légumes, mêm
 - Les symptômes apparaissent en quelques heures à quelques jours.
 - Lavage des mains, cuisson à cœur et réfrigération rapide sont les clés de la prévention.
 
-[Emplacement image : principaux microbes responsables d'intoxications alimentaires et leurs
-aliments associés, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Face à une intoxication alimentaire
+elements:
+  - titre: Boire
+    texte: Le risque principal est la déshydratation.
+    icone: droplet
+  - titre: Surveiller
+  - titre: Consulter si besoin
+    texte: Enfants, personnes âgées, signes graves.
+```
 
 ---
 
@@ -2155,8 +2354,15 @@ croisées sont possibles.
 - Les effets des mélanges de pesticides sont mal connus.
 - Laver et éplucher réduit l'exposition ; le bio la réduit davantage.
 
-[Emplacement image : taux de dépassement des LMR pour quelques fruits et légumes courants,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Réduire son exposition aux pesticides
+centre: Pesticides
+parties:
+  - nom: Laver et éplucher
+  - nom: Varier
+  - nom: Choisir des produits issus de l'agriculture biologique
+```
 
 ---
 
@@ -2255,8 +2461,16 @@ problème.
 - Femmes enceintes et jeunes enfants doivent éviter espadon, requin et thon.
 - Sardine, maquereau et hareng sont riches en oméga-3 et pauvres en mercure.
 
-[Emplacement image : échelle de concentration en mercure des principaux poissons consommés,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: L'accumulation du mercure dans la chaîne marine
+niveaux:
+  - titre: Grands prédateurs
+    texte: Dix à cent fois plus de mercure.
+  - titre: Poissons moyens
+  - titre: Petits poissons
+  - titre: Plancton
+```
 
 ---
 
@@ -2362,8 +2576,18 @@ Ne pas consommer d'arachides ou de fruits secs qui ont un goût amer ou une odeu
 - Le risque dépend surtout des conditions de stockage.
 - Les mycotoxines résistent souvent à la cuisson : jeter les produits moisis.
 
-[Emplacement image : principaux aliments à risque de mycotoxines et conditions de stockage
-recommandées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les mycotoxines
+centre: Moisissures
+parties:
+  - nom: Aflatoxines
+    role: Cancérigènes, elles attaquent le foie.
+  - nom: Conditions
+    role: Chaleur et humidité.
+  - nom: Prévention
+    role: Stocker au sec, jeter les aliments moisis.
+```
 
 ---
 
@@ -2475,8 +2699,16 @@ préparés, les conserves, et privilégier le bio et le frais.
 - Les effets des faibles doses et des mélanges sont mal connus.
 - Ne pas chauffer d'aliments dans du plastique est le geste le plus simple.
 
-[Emplacement image : principales sources de perturbateurs endocriniens dans l'alimentation,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les perturbateurs endocriniens
+centre: Système hormonal
+parties:
+  - nom: Emballages plastiques
+  - nom: Certains pesticides
+  - nom: Réduire l'exposition
+    role: Ne pas chauffer le plastique, varier.
+```
 
 ---
 
@@ -2587,8 +2819,19 @@ Les plans de travail doivent être nettoyés après chaque manipulation d'alimen
 - Cuire à cœur viandes hachées, volaille, œufs et poissons.
 - Ne pas laisser un plat plus de deux heures à température ambiante.
 
-[Emplacement image : les cinq gestes clés de l'hygiène en cuisine, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les règles d'hygiène en cuisine
+elements:
+  - titre: Se laver les mains
+    texte: 20 secondes au savon.
+  - titre: Séparer le cru du cuit
+  - titre: Bien cuire
+    icone: fire
+  - titre: Garder au froid
+    icone: snowflake
+  - titre: Nettoyer
+```
 
 ---
 
@@ -2689,8 +2932,19 @@ lentilles et riz en Inde.
 - Les oméga 3 à longue chaîne sont le point le plus difficile à couvrir.
 - Céréales et légumineuses ont des acides aminés complémentaires.
 
-[Emplacement image : complémentarité des acides aminés entre céréales et légumineuses, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les points de vigilance du régime végétal
+centre: Régime végétalien
+icone: leaf
+parties:
+  - nom: Vitamine B12
+    role: Un complément indispensable.
+  - nom: Fer et zinc
+    role: Mal absorbés, mais l'absorption peut s'améliorer.
+  - nom: Protéines
+    role: En combinant les sources.
+```
 
 ---
 
@@ -2791,8 +3045,20 @@ pour manger normalement, plus assez pour être diagnostiqués.
 - La maladie cœliaque est auto-immune et détruit la paroi de l'intestin.
 - Il faut se faire diagnostiquer avant de supprimer le gluten.
 
-[Emplacement image : paroi intestinale saine et paroi aplatie par la maladie cœliaque, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux troubles à ne pas confondre
+colonnes:
+  - titre: Intolérance au lactose
+    points:
+      - Manque d'enzyme
+      - Sans lésion
+      - Dépend de la dose
+  - titre: Maladie cœliaque
+    points:
+      - Réaction au gluten
+      - Lésions de l'intestin
+```
 
 ---
 
@@ -2901,8 +3167,16 @@ Et accepter que le changement soit progressif : c'est un modèle de vie, pas une
 - L'huile d'olive est le principal corps gras.
 - Remplacer progressivement, sans supprimer.
 
-[Emplacement image : pyramide alimentaire du régime méditerranéen, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le modèle méditerranéen
+centre: Régime méditerranéen
+parties:
+  - nom: Légumes, fruits, légumineuses
+  - nom: Huile d'olive
+  - nom: Poisson
+  - nom: Peu de viande rouge
+```
 
 ---
 
@@ -3010,8 +3284,18 @@ fonctionne pas si l'on mange le double pendant les heures autorisées.
 - Le jeûne induit un basculement métabolique vers les graisses.
 - Ce n'est pas recommandé pour tout le monde : grossesse, diabète, troubles alimentaires.
 
-[Emplacement image : schéma du protocole 16:8 sur une journée, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Le jeûne intermittent 16:8
+colonnes:
+  - titre: Le protocole
+    points:
+      - 16 heures sans manger
+      - 8 heures pour les repas
+  - titre: Ce qu'il fait
+    points:
+      - La perte de poids vient surtout de la réduction des apports
+```
 
 ---
 
@@ -3126,8 +3410,19 @@ premières et en augmentant les seconds, est probablement l'action la plus effic
 - Oméga-3, polyphénols et fibres la réduisent.
 - Le régime méditerranéen est le modèle le mieux validé.
 
-[Emplacement image : aliments pro-inflammatoires et anti-inflammatoires, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce qui attise ou calme l'inflammation
+colonnes:
+  - titre: Attisent
+    points:
+      - Graisses saturées et trans
+      - Sucres rapides
+  - titre: Calment
+    points:
+      - Fruits et légumes
+      - Oméga-3
+```
 
 ---
 
@@ -3230,8 +3525,14 @@ Et l'effet n'est pas garanti : environ un quart des patients ne répondent pas.
 - Il ne doit pas durer : la restriction prolongée appauvrit le microbiote.
 - Un encadrement par un professionnel est recommandé.
 
-[Emplacement image : les trois phases du régime low-FODMAP, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les trois phases du régime low-FODMAP
+elements:
+  - titre: Éviction
+  - titre: Réintroduction
+  - titre: Personnalisation
+```
 
 ---
 
@@ -3339,8 +3640,18 @@ Le reste — BCAA, glutamine, testostérone boosters — est soit inutile, soit 
 - Répartir les protéines sur la journée, pas en une seule dose.
 - La caféine et la créatine sont les seuls compléments vraiment efficaces.
 
-[Emplacement image : répartition des apports nutritionnels chez un sportif d'endurance, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'alimentation du sportif
+centre: Sportif
+icone: dumbbell
+parties:
+  - nom: Glucides
+    role: 50 à 65 % des apports.
+  - nom: Protéines
+    role: 1,5 à 1,8 g par kilo et par jour en endurance.
+  - nom: Hydratation
+```
 
 ---
 
@@ -3449,8 +3760,19 @@ Et surtout, régularité : manger à heures fixes aide à synchroniser l'horloge
 - Le manque de sommeil augmente la faim et les envies de sucré.
 - Dîner léger et tôt, et garder des horaires réguliers.
 
-[Emplacement image : aliments qui favorisent ou perturbent le sommeil, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce qui aide ou perturbe le sommeil
+colonnes:
+  - titre: Aide
+    points:
+      - Le tryptophane, précurseur de la mélatonine
+  - titre: Perturbe
+    points:
+      - Repas gras
+      - Alcool
+      - Caféine
+```
 
 ---
 
@@ -3559,8 +3881,13 @@ alimentation qu'on ne suit pas n'a aucun effet.
 - L'inflammation et le microbiote sont les mécanismes les plus probablement impliqués.
 - Les oméga-3, à dose suffisante, ont le meilleur niveau de preuve.
 
-[Emplacement image : liens entre alimentation, inflammation, microbiote et santé mentale,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Alimentation et santé mentale
+chiffres:
+  - valeur: "+22 %"
+    texte: de risque de dépression associé aux ultra-transformés
+```
 
 ---
 
@@ -3660,8 +3987,17 @@ Et le fer peut manquer, surtout si l'alimentation est peu variée.
 - Les besoins en protéines augmentent avec l'âge : 1 à 1,2 g/kg/jour.
 - Vitamine B12, vitamine D et calcium sont les carences les plus fréquentes.
 
-[Emplacement image : principaux nutriments à surveiller après 60 ans et leurs sources, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Bien vieillir à table
+centre: Vieillissement
+parties:
+  - nom: Végétaux
+    role: Ils ralentissent les maladies chroniques.
+  - nom: Protéines
+    role: Souvent insuffisantes.
+  - nom: Carences à surveiller
+```
 
 ---
 
@@ -3765,8 +4101,18 @@ Et limiter les grands prédateurs marins — thon, espadon, requin — à cause 
 - Éviter fromages au lait cru, charcuteries et poissons fumés à cause de Listeria.
 - Bien cuire la viande pour éviter la toxoplasmose.
 
-[Emplacement image : aliments recommandés et déconseillés pendant la grossesse, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Calories supplémentaires pendant la grossesse
+unite: kcal/jour
+valeurs:
+  - label: Premier trimestre
+    valeur: 0
+  - label: Deuxième trimestre
+    valeur: 340
+  - label: Troisième trimestre
+    valeur: 450
+```
 
 ---
 
@@ -3872,8 +4218,17 @@ les mangera plus volontiers.
 - Les parents décident quoi, quand et où ; l'enfant décide s'il mange.
 - Répéter sans forcer : un aliment peut être refusé dix fois avant d'être accepté.
 
-[Emplacement image : assiette équilibrée pour un enfant de 4 à 11 ans, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères pour les enfants
+chiffres:
+  - valeur: 4 à 6 mois
+    texte: début de la diversification, un aliment à la fois
+  - valeur: 5
+    texte: fruits et légumes par jour
+  - valeur: 3
+    texte: produits laitiers par jour
+```
 
 ---
 
@@ -3985,8 +4340,19 @@ d'éviction puis de réintroduction.
 - L'allergie survient à des doses infimes, l'intolérance dépend de la dose.
 - Ne pas confondre les deux : les précautions ne sont pas les mêmes.
 
-[Emplacement image : comparaison des mécanismes de l'allergie et de l'intolérance, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Allergie ou intolérance
+colonnes:
+  - titre: Allergie
+    points:
+      - Implique le système immunitaire
+      - Peut être mortelle
+  - titre: Intolérance
+    points:
+      - Sans réaction immunitaire
+      - Rarement grave
+```
 
 ---
 
@@ -4091,8 +4457,18 @@ dangereuses ne peuvent pas se développer. Cornichons, choucroute et yaourt en v
 - Sel, sucre et séchage privent les microbes d'eau.
 - Le vide d'air et l'acidité complètent l'arsenal.
 
-[Emplacement image : principales techniques de conservation et durée obtenue, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les grandes familles de conservation
+centre: Conserver
+parties:
+  - nom: Froid
+    role: 0 à 4 °C, ou -18 °C et moins.
+  - nom: Chaleur
+    role: Pasteurisation, stérilisation.
+  - nom: Retirer l'eau
+  - nom: Air et acidité
+```
 
 ---
 
@@ -4190,8 +4566,18 @@ le produit. Le conditionnement doit alors se faire dans un environnement stéril
 - L'acidité empêche la germination des spores les plus dangereuses.
 - L'UHT chauffe très fort mais très brièvement.
 
-[Emplacement image : autoclave industriel et courbe de température d'une stérilisation, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Aliments acides et peu acides
+legende: Appert invente la conserve vers 1795.
+colonnes:
+  - titre: Acides
+    points:
+      - Traitement plus doux suffisant
+  - titre: Peu acides
+    points:
+      - Barème de stérilisation strict
+```
 
 ---
 
@@ -4297,8 +4683,19 @@ disparaître des maladies comme la tuberculose bovine et la brucellose transmise
 - UHT : 140 degrés quelques secondes, même sécurité, moins d'altération.
 - Ces traitements dégradent certaines vitamines mais assurent une sécurité sanitaire majeure.
 
-[Emplacement image : courbes de température comparées de la pasteurisation, de la stérilisation
-et de l'UHT, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Pasteurisation ou stérilisation
+colonnes:
+  - titre: Pasteurisation
+    points:
+      - Environ 72 °C
+      - Détruit les bactéries, pas les spores
+  - titre: Stérilisation
+    points:
+      - 121 °C
+      - Détruit aussi les spores
+```
 
 ---
 
@@ -4404,8 +4801,18 @@ trop longues. Les aliments fumés doivent rester occasionnels.
 - Le fumage traditionnel produit des HAP cancérigènes.
 - Les arômes de fumée purifiés évitent ce risque, sans la même tradition.
 
-[Emplacement image : comparaison du séchage et du fumage, et leurs effets sur la conservation,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Séchage et fumage
+colonnes:
+  - titre: Séchage
+    points:
+      - Retire l'eau nécessaire aux microbes
+  - titre: Fumage
+    points:
+      - Ajoute des composés antimicrobiens
+      - Attention aux HAP du fumage traditionnel
+```
 
 ---
 
@@ -4510,8 +4917,19 @@ depuis 2025.
 - Les emballages actifs libèrent ou absorbent des substances.
 - Ne pas chauffer les aliments dans leur emballage plastique.
 
-[Emplacement image : comparaison des emballages sous vide, sous atmosphère modifiée et actifs,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les emballages qui conservent
+centre: Emballage
+parties:
+  - nom: Sous vide
+    role: Retire l'oxygène.
+  - nom: Atmosphère modifiée
+    role: Azote et CO2.
+  - nom: Emballages actifs
+  - nom: Migration
+    role: Des substances peuvent passer dans l'aliment.
+```
 
 ---
 
@@ -4612,8 +5030,20 @@ recherches actives.
 - Lactique : bactéries, sucre vers acide lactique.
 - L'acidité produite conserve l'aliment et le protège des microbes dangereux.
 
-[Emplacement image : trois types de fermentation et les aliments qui en découlent, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois fermentations
+colonnes:
+  - titre: Alcoolique
+    points:
+      - Levures, sucre vers alcool et gaz carbonique
+  - titre: Lactique
+    points:
+      - Bactéries lactiques, sucre vers acide lactique
+  - titre: Acétique
+    points:
+      - Alcool vers vinaigre
+```
 
 ---
 
@@ -4710,8 +5140,19 @@ conduit au frais une note plus vinaigrée.
 - L'acidité améliore goût, conservation et absorption des minéraux.
 - La lenteur de la fermentation développe les arômes.
 
-[Emplacement image : mie de pain au levain avec son alvéolage irrégulier, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le levain
+centre: Levain
+icone: wheat
+parties:
+  - nom: Levures sauvages
+    role: Elles font lever la pâte.
+  - nom: Bactéries lactiques
+    role: Elles acidifient.
+  - nom: Le temps
+    role: Un ingrédient à part entière.
+```
 
 ---
 
@@ -4815,8 +5256,16 @@ bioactifs — qui ont leurs propres effets sur la santé.
 - Le miso et la sauce soja sont riches en umami.
 - Les aliments fermentés apportent probiotiques, meilleure digestibilité et métabolites.
 
-[Emplacement image : panel d'aliments fermentés du monde entier, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Des aliments fermentés du monde
+centre: Fermentation
+parties:
+  - nom: Kéfir
+  - nom: Kimchi
+  - nom: Miso et sauce soja
+  - nom: Tempeh
+```
 
 ---
 
@@ -4917,8 +5366,19 @@ fibres intactes ? Plusieurs hypothèses coexistent.
 - Un essai contrôlé a mesuré 500 kilocalories de plus par jour avec ces produits.
 - Le mécanisme exact de cet effet reste à déterminer.
 
-[Emplacement image : les quatre groupes NOVA illustrés par des exemples, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les quatre groupes NOVA
+niveaux:
+  - titre: Groupe 4
+    texte: Aliments ultra-transformés.
+  - titre: Groupe 3
+    texte: Aliments transformés.
+  - titre: Groupe 2
+    texte: Ingrédients culinaires.
+  - titre: Groupe 1
+    texte: Aliments bruts ou peu transformés.
+```
 
 ---
 
@@ -5028,8 +5488,16 @@ bruts, et de lire les étiquettes pour repérer les listes d'ingrédients interm
 - Les nitrites de la charcuterie sont particulièrement discutés.
 - Cuisiner soi-même réduit fortement l'exposition aux additifs.
 
-[Emplacement image : principales catégories d'additifs et leurs codes E, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les codes des additifs
+centre: E100 à E499
+parties:
+  - nom: Colorants
+  - nom: Conservateurs
+  - nom: Antioxydants
+  - nom: Épaississants
+```
 
 ---
 
@@ -5144,8 +5612,16 @@ recourir à des substituts qui entretiennent le goût pour le sucré.
 - Les mécanismes suspectés : perturbation de l'appétit, du microbiote, de l'insuline.
 - Réduire le sucre vaut mieux que le remplacer par des édulcorants.
 
-[Emplacement image : pouvoir sucrant et usages des principaux édulcorants, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les édulcorants
+centre: Édulcorants
+parties:
+  - nom: Poids
+    role: Pas de perte de poids dans les essais contrôlés.
+  - nom: Aspartame
+    role: Classé peut-être cancérigène.
+```
 
 ---
 
@@ -5257,8 +5733,18 @@ tournesol réduit la demande. Et soutenir les filières durables, malgré leurs 
 - Son expansion est liée à la déforestation en Asie du Sud-Est.
 - Réduire les ultra-transformés réduit mécaniquement sa consommation.
 
-[Emplacement image : produits contenant de l'huile de palme et alternatives, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'huile de palme
+centre: Huile de palme
+parties:
+  - nom: Santé
+    role: Environ 50 % d'acides gras saturés.
+  - nom: Ultra-transformés
+    role: Elle y est omniprésente.
+  - nom: Environnement
+    role: Son expansion menace les forêts.
+```
 
 ---
 
@@ -5360,8 +5846,15 @@ permettent d'obtenir les mêmes propriétés technologiques sans graisses trans.
 - L'hydrogénation partielle est leur principale source.
 - Des alternatives existent, et de nombreux pays les ont interdites.
 
-[Emplacement image : sources de graisses trans et aliments à éviter, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les graisses trans industrielles
+chiffres:
+  - valeur: LDL ↑ HDL ↓
+    texte: elles augmentent le mauvais cholestérol et baissent le bon
+  - valeur: "+34 %"
+    texte: de risque de décès associé
+```
 
 ---
 
@@ -5468,8 +5961,17 @@ en quelques semaines.
 - « Sans sucres ajoutés » ne signifie pas « sans sucre ».
 - Lire les étiquettes est le seul moyen de le repérer.
 
-[Emplacement image : exemples de produits salés contenant du sucre ajouté et alternatives,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le sucre caché
+centre: Sucre ajouté
+parties:
+  - nom: Aliments salés
+    role: Ajouté pour des raisons technologiques.
+  - nom: Dizaines de noms
+    role: Sirop, dextrose, maltose.
+  - nom: Allégations trompeuses
+```
 
 ---
 
@@ -5572,8 +6074,15 @@ Et attention aux eaux minérales gazeuses riches en sodium.
 - L'excès de sel augmente la tension artérielle et le risque cardiovasculaire.
 - Lire les étiquettes et cuisiner soi-même sont les meilleurs leviers.
 
-[Emplacement image : teneur en sel de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le sel caché
+chiffres:
+  - valeur: 80 %
+    texte: du sel consommé vient des aliments transformés
+  - valeur: Le pain
+    texte: première source dans de nombreux pays
+```
 
 ---
 
@@ -5690,8 +6199,20 @@ naturels.
 - Certains extraits de plantes sont dangereux pour le foie.
 - Ne pas prendre de compléments sans raison médicale.
 
-[Emplacement image : compléments utiles et compléments à risque, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les compléments alimentaires
+colonnes:
+  - titre: Souvent utiles
+    points:
+      - Vitamine D
+      - Vitamine B12
+      - Acide folique avant et pendant la grossesse
+  - titre: Le problème
+    points:
+      - Un marché peu encadré
+      - L'efficacité n'est pas exigée
+```
 
 ---
 
@@ -5798,8 +6319,15 @@ soja importé.
 - L'EFSA a autorisé plusieurs espèces en Europe.
 - L'obstacle culturel reste majeur, mais les farines et produits transformés le réduisent.
 
-[Emplacement image : insectes comestibles autorisés en Europe et leur teneur en protéines,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les insectes comestibles
+chiffres:
+  - valeur: 2 milliards
+    texte: de personnes en mangent déjà
+  - valeur: 12 à 25 fois
+    texte: plus efficaces pour produire des protéines, selon l'article
+```
 
 ---
 
@@ -5900,8 +6428,19 @@ et économiques ont conduit certaines à réduire leurs ambitions.
 - Le coût et la consommation d'énergie restent des obstacles majeurs.
 - L'acceptation par les consommateurs est incertaine.
 
-[Emplacement image : schéma du processus de production de viande cultivée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La viande cultivée
+colonnes:
+  - titre: Promesses
+    points:
+      - Produite à partir de cellules, sans élevage
+      - Moins de terres utilisées
+  - titre: Défis
+    points:
+      - Coût
+      - Production à grande échelle
+```
 
 ---
 
@@ -6008,8 +6547,18 @@ marché.
 - Leur culture ne nécessite ni engrais, ni eau douce, ni terres agricoles.
 - Attention à la teneur en iode de certaines espèces.
 
-[Emplacement image : principales algues comestibles et leur teneur en protéines, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les atouts des algues
+centre: Algues
+icone: wave
+parties:
+  - nom: Protéines
+    role: La spiruline en contient plus de 60 %.
+  - nom: Minéraux et oméga-3
+  - nom: Culture sobre
+    role: Sans terre agricole.
+```
 
 ---
 
@@ -6116,8 +6665,19 @@ une alternative rapide aux pâtes de blé.
 - Leur empreinte carbone est très faible.
 - Elles sont bon marché et faciles à intégrer.
 
-[Emplacement image : principales légumineuses et leur teneur en protéines, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les atouts des légumineuses
+centre: Légumineuses
+icone: leaf
+parties:
+  - nom: Protéines
+    role: 20 à 40 %.
+  - nom: Azote
+    role: Elles enrichissent les sols.
+  - nom: Climat
+    role: Une empreinte carbone très faible.
+```
 
 ---
 
@@ -6233,8 +6793,21 @@ Et ne pas préparer les légumes à l'avance : les vitamines s'oxydent au contac
 - La vapeur et le micro-ondes sont les méthodes les plus respectueuses.
 - Cuire court, avec peu d'eau, et réutiliser l'eau de cuisson.
 
-[Emplacement image : pertes en vitamine C selon les méthodes de cuisson, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce que la cuisson fait aux nutriments
+colonnes:
+  - titre: Détruits
+    points:
+      - Vitamine C
+      - Folates
+  - titre: Lessivés
+    points:
+      - Les minéraux passent dans l'eau de cuisson
+  - titre: Méthodes douces
+    points:
+      - Vapeur
+```
 
 ---
 
@@ -6335,8 +6908,18 @@ La saisonnalité compte, en revanche, lorsqu'elle évite de chauffer une serre.
 - Le bœuf émet environ cent fois plus que les lentilles au kilo.
 - Transport et emballage pèsent bien moins que la production elle-même.
 
-[Emplacement image : émissions comparées de grandes catégories d'aliments, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'assiette et le climat
+legende: L'alimentation pèse un quart à un tiers des émissions mondiales.
+centre: Émissions de l'alimentation
+parties:
+  - nom: CO2
+  - nom: Méthane
+    role: Surtout l'élevage de ruminants.
+  - nom: Protoxyde d'azote
+    role: Surtout les engrais.
+```
 
 ---
 
@@ -6442,8 +7025,16 @@ Changer de régime alimentaire peut réduire l'empreinte hydrique de 20 à 30 %.
 - L'eau virtuelle circule entre les pays via le commerce.
 - Le contenu de l'assiette pèse plus que les gestes domestiques.
 
-[Emplacement image : empreinte eau de quelques aliments courants, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: barres
+titre: L'eau virtuelle d'un kilo d'aliment
+unite: L
+valeurs:
+  - label: Bœuf
+    valeur: 15000
+  - label: Blé
+    valeur: 1500
+```
 
 ---
 
@@ -6547,8 +7138,18 @@ animaux, bio ou non.
 - Les différences nutritionnelles sont modestes.
 - Le bio est utile pour certains fruits et légumes, mais ce n'est pas le principal levier.
 
-[Emplacement image : comparaison des impacts de l'agriculture biologique et conventionnelle,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'agriculture biologique
+colonnes:
+  - titre: Avantages
+    points:
+      - Pas de pesticides de synthèse
+      - Biodiversité mieux préservée
+  - titre: Limites
+    points:
+      - Rendements inférieurs d'environ 25 %
+```
 
 ---
 
@@ -6661,8 +7262,18 @@ sociaux.
 - Les circuits courts ont surtout des avantages économiques et sociaux.
 - Réduire la viande est plus efficace que manger local.
 
-[Emplacement image : part du transport dans l'empreinte carbone alimentaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: D'où viennent les émissions d'un aliment moyen
+unite: "%"
+valeurs:
+  - label: Production agricole
+    valeur: 85
+    note: 80 à 90 %
+  - label: Transport
+    valeur: 5
+    note: moins de
+```
 
 ---
 
@@ -6769,8 +7380,18 @@ plus acheter de fraises en décembre. Et découvrir de nouveaux légumes.
 - Certains se conservent naturellement et peuvent être mangés toute l'année.
 - Se concentrer sur quelques produits clés, comme la tomate en hiver.
 
-[Emplacement image : calendrier des fruits et légumes de saison, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: De saison ou hors saison
+colonnes:
+  - titre: De saison
+    points:
+      - Plus de goût
+      - Plus de nutriments
+  - titre: Hors saison
+    points:
+      - Serre chauffée ou importation
+```
 
 ---
 
@@ -6874,8 +7495,20 @@ renoncer à rien.
 - La confusion entre les deux types de dates fait jeter des produits sains.
 - Pertes et gaspillage représentent 8 à 10 % des émissions mondiales.
 
-[Emplacement image : répartition des pertes alimentaires selon l'étape de la chaîne, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Perte ou gaspillage
+legende: Environ un tiers de la nourriture produite n'est jamais consommée.
+colonnes:
+  - titre: Pertes
+    points:
+      - En amont, pendant la production et le stockage
+      - Surtout dans les pays pauvres
+  - titre: Gaspillage
+    points:
+      - En aval, dans les magasins et les foyers
+      - Surtout dans les pays riches
+```
 
 ---
 
@@ -6981,8 +7614,17 @@ Et soutenir les initiatives de traçabilité, malgré leurs limites actuelles.
 - Les labels de durabilité peinent à enrayer le phénomène.
 - Réduire les ultra-transformés réduit la demande d'huile de palme.
 
-[Emplacement image : évolution de la déforestation en Indonésie et Malaisie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Palmeraies et déforestation
+elements:
+  - titre: Expansion des palmeraies
+    texte: En Asie du Sud-Est.
+  - titre: Forêts abattues
+    icone: tree
+  - titre: Espèces menacées
+  - titre: Carbone libéré
+```
 
 ---
 
@@ -7092,8 +7734,18 @@ Et varier les espèces : la monoculture de consommation crée une pression sur q
 - Les labels ne couvrent qu'une fraction de la production.
 - Privilégier sardine, maquereau et hareng, riches en oméga-3 et durables.
 
-[Emplacement image : labels de pêche durable et espèces recommandées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les labels de la pêche
+legende: Un tiers des stocks mondiaux est surexploité.
+colonnes:
+  - titre: MSC
+    points:
+      - Pêcheries durables
+  - titre: ASC
+    points:
+      - Aquaculture
+```
 
 ---
 
@@ -7200,8 +7852,15 @@ pratiques.
 - Les conditions d'élevage influencent la qualité nutritionnelle.
 - Réduire sa consommation permet de financer des produits de meilleure qualité.
 
-[Emplacement image : labels et pratiques d'élevage, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Le bien-être animal
+centre: Animal d'élevage
+parties:
+  - nom: État physique
+  - nom: État mental
+  - nom: Conditions d'élevage
+```
 
 ---
 
@@ -7313,8 +7972,15 @@ Et certaines études remettent en question le potentiel de stockage de carbone �
 - Elle peut stocker du carbone et améliorer la résilience.
 - Le concept reste flou, sans définition officielle.
 
-[Emplacement image : comparaison de sols en agriculture conventionnelle et régénératrice,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les principes de l'agriculture régénératrice
+centre: Santé des sols
+parties:
+  - nom: Non-labour
+  - nom: Couvertures végétales
+  - nom: Rotation
+```
 
 ---
 
@@ -7427,8 +8093,18 @@ Et la vaccination, qui reste la meilleure protection contre les maladies infecti
 - Les compléments ne sont utiles qu'en cas de carence.
 - Alimentation, sommeil, activité physique et vaccination sont les piliers.
 
-[Emplacement image : aliments riches en nutriments essentiels au système immunitaire, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments clés de l'immunité
+legende: L'immunité ne se booste pas, on évite de l'affaiblir.
+centre: Immunité
+icone: shield
+parties:
+  - nom: Vitamine C
+  - nom: Vitamine D
+  - nom: Zinc
+  - nom: Protéines
+```
 
 ---
 
@@ -7539,8 +8215,17 @@ Et limiter les sucres rapides et les laitages si l'on a de l'acné.
 - Le régime méditerranéen améliore l'acné et le vieillissement cutané.
 - La glycation des protéines par le sucre accélère le vieillissement de la peau.
 
-[Emplacement image : aliments bénéfiques pour la peau, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: La peau et l'alimentation
+centre: Peau
+parties:
+  - nom: Vitamine C
+  - nom: Zinc
+  - nom: Oméga-3
+  - nom: Acné
+    role: Aggravée par les sucres rapides et les laitages.
+```
 
 ---
 
@@ -7645,8 +8330,18 @@ la tension et de la glycémie.
 - Les légumes verts et les poissons gras sont les aliments clés.
 - Le tabac et les UV sont des facteurs de risque majeurs.
 
-[Emplacement image : aliments protecteurs pour la vue, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments de la vue
+centre: Œil
+icone: eye
+parties:
+  - nom: Lutéine et zéaxanthine
+    role: Le pigment maculaire protecteur.
+  - nom: Oméga-3
+    role: Moins de risque de DMLA.
+  - nom: Légumes verts
+```
 
 ---
 
@@ -7768,8 +8463,18 @@ musculation — qui stimulent la formation osseuse.
 - Vitamine K et magnésium jouent aussi un rôle.
 - L'activité physique est indispensable.
 
-[Emplacement image : aliments pour la santé osseuse, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les nutriments des os
+centre: Os
+parties:
+  - nom: Calcium
+  - nom: Vitamine D
+  - nom: Protéines
+    role: La matrice où se dépose le calcium.
+  - nom: Vitamine K
+  - nom: Magnésium
+```
 
 ---
 
@@ -7883,8 +8588,19 @@ Il vaut mieux les consommer avec une paille, et ne pas se brosser les dents imm�
 - Le fluor renforce l'émail et réduit le risque.
 - Le fromage et les fruits crus ont un effet protecteur.
 
-[Emplacement image : effet des aliments sur le pH de la plaque dentaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les dents et l'alimentation
+centre: Dents
+parties:
+  - nom: Sucre
+    role: Le principal facteur des caries.
+  - nom: Fréquence
+    role: Elle compte autant que la quantité.
+  - nom: Fluor
+    role: Il renforce l'émail.
+  - nom: Boissons acides
+```
 
 ---
 
@@ -7990,8 +8706,15 @@ stress, médicaments, maladies thyroïdiennes. L'alimentation n'est qu'un facteu
 - Les carences en fer sont fréquentes chez les femmes et causes de chute.
 - Les compléments n'aident que si l'on est carencé.
 
-[Emplacement image : aliments bénéfiques pour les cheveux, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les cheveux et l'alimentation
+centre: Kératine
+parties:
+  - nom: Protéines
+  - nom: Fer
+  - nom: Zinc
+```
 
 ---
 
@@ -8093,8 +8816,16 @@ système immunitaire.
 - Les allergènes majeurs sont l'arachide, les fruits à coque, l'œuf et le lait.
 - L'adrénaline est le seul traitement de l'anaphylaxie.
 
-[Emplacement image : principaux allergènes alimentaires et leurs sources, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'allergie alimentaire
+elements:
+  - titre: Allergène
+  - titre: Réaction des IgE
+  - titre: Symptômes
+    texte: Parfois graves, voire mortels.
+  - titre: Diagnostic et prise en charge
+```
 
 ---
 
@@ -8206,8 +8937,21 @@ riche en fibres, a des bénéfices pour la santé.
 - Ne pas supprimer le gluten avant un diagnostic.
 - L'éviction sans raison médicale peut entraîner des carences.
 
-[Emplacement image : différence entre maladie cœliaque, allergie au blé et sensibilité, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois situations face au gluten
+colonnes:
+  - titre: Maladie cœliaque
+    points:
+      - Environ 1 % de la population
+      - Éviction stricte
+  - titre: Sensibilité non cœliaque
+    points:
+      - Reconnue mais mal comprise
+  - titre: Aucun trouble
+    points:
+      - Supprimer le gluten n'apporte rien
+```
 
 ---
 
@@ -8322,8 +9066,15 @@ sardines.
 - Elle est dose-dépendante, sans lésion intestinale.
 - Yaourts et fromages affinés sont souvent bien tolérés.
 
-[Emplacement image : teneur en lactose de différents produits laitiers, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'intolérance au lactose
+chiffres:
+  - valeur: 70 %
+    texte: de la population mondiale environ
+  - valeur: Lactase
+    texte: l'enzyme qui diminue après l'enfance
+```
 
 ---
 type: article
@@ -9240,6 +9991,20 @@ Beaucoup de gens confondent les deux dates. Ils jettent alors des aliments encor
 
 Pour limiter ce gaspillage, les fabricants peuvent, depuis novembre 2022, ajouter une phrase à côté de la DDM, comme « Ce produit peut être consommé après cette date ». Bien lire l'étiquette permet de jeter moins de nourriture, sans prendre de risque avec les produits frais.
 
+```schema
+type: comparaison
+titre: DLC ou DDM
+colonnes:
+  - titre: DLC
+    points:
+      - « À consommer jusqu'au »
+      - Une limite pour la santé
+  - titre: DDM
+    points:
+      - « À consommer de préférence avant le »
+      - Une indication de qualité
+```
+
 ## À retenir
 
 - La DLC, « à consommer jusqu'au », est une limite pour la santé.
@@ -9325,18 +10090,149 @@ status: planned
 
 ---
 type: article
-title: La conservation optimale des aliments au refrigerateur
+title: La conservation optimale des aliments au réfrigérateur
 slug: la-conservation-optimale-des-aliments-au-refrigerateur
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
 summary: >
-  Ranger correctement son frigo peut a lui seul reduire le gaspillage domestique.
-tags: [gaspillage-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le froid ralentit les microbes sans les tuer. Bien régler son réfrigérateur, connaître ses zones de
+  température et ranger chaque aliment au bon endroit prolonge leur durée de vie, limite le
+  gaspillage et réduit le risque d'intoxication.
+tags: [gaspillage-alimentaire]
+relatedArticles: [pourquoi-certains-aliments-ont-ils-une-date-limite-et-d-autres-une-date-conseillee, gaspillage-alimentaire-mondial, la-conservation-des-aliments-par-sechage-solaire, maladies-transmises-eau-aliments]
+sources:
+  - title: "Réfrigérateur"
+    url: "https://fr.wikipedia.org/wiki/R%C3%A9frig%C3%A9rateur"
+    publisher: "Wikipédia"
+  - title: "Refrigeration"
+    url: "https://en.wikipedia.org/wiki/Refrigeration"
+    publisher: "Wikipedia"
+  - title: "Listeria monocytogenes"
+    url: "https://en.wikipedia.org/wiki/Listeria_monocytogenes"
+    publisher: "Wikipedia"
+  - title: "Food preservation"
+    url: "https://en.wikipedia.org/wiki/Food_preservation"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle température vise-t-on dans la zone la plus froide du réfrigérateur ?"
+    options:
+      - "Entre 0 et 4 °C"
+      - "Entre 8 et 10 °C"
+      - "En dessous de −18 °C"
+    answer: 1
+    explanation: >
+      Viandes, poissons et produits frais se conservent entre 0 et 4 °C. −18 °C est la température du
+      congélateur.
+  - question: "Pourquoi ne faut-il pas mettre un plat encore très chaud au réfrigérateur ?"
+    options:
+      - "Parce qu'il réchaufferait tout l'intérieur et les autres aliments"
+      - "Parce que le froid gâche le goût"
+      - "Parce que c'est interdit par la loi"
+    answer: 1
+    explanation: >
+      Un plat brûlant fait monter la température de l'appareil. On le laisse tiédir, mais pas plus de
+      deux heures à température ambiante, avant de le ranger.
+  - question: "Le froid du réfrigérateur tue-t-il les microbes ?"
+    options:
+      - "Oui, tous"
+      - "Non, il ralentit leur multiplication sans les détruire"
+      - "Seulement les virus"
+    answer: 2
+    explanation: >
+      Le froid met les microbes en sommeil. Certains, comme Listeria, continuent même à se multiplier
+      lentement à basse température.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le réfrigérateur ne stérilise pas les aliments : il **ralentit** la multiplication des bactéries et des
+moisissures. Pour qu'il soit efficace, il faut une température adaptée, autour de **4 °C** dans la zone
+la plus froide, un rangement qui tient compte des différentes zones, et quelques gestes simples :
+emballer, ne pas surcharger, nettoyer régulièrement. Bien utilisé, il évite des intoxications et une
+bonne part du gaspillage domestique.
+
+## Le froid ralentit, il ne tue pas
+
+La plupart des bactéries qui gâtent les aliments se multiplient très vite entre **20 et 40 °C**. En
+dessous de 4 °C, leur croissance devient très lente. Mais elles ne meurent pas, et certaines, comme
+**Listeria**, continuent de se multiplier doucement même au froid. C'est pourquoi un aliment entamé ne
+se garde pas indéfiniment, même au réfrigérateur, et pourquoi la température compte.
+
+Un **thermomètre** posé dans la zone froide permet de vérifier : le réglage du bouton ne dit pas la
+température réelle.
+
+## Les zones du réfrigérateur
+
+Le froid n'est pas le même partout. Dans un appareil classique, l'air froid descend : le bas est
+souvent plus froid, sauf le bac à légumes, protégé. Chaque modèle est différent, et beaucoup indiquent
+la zone la plus froide par un symbole.
+
+```schema
+type: echelle
+titre: Où ranger quoi selon la température
+legende: Repères pour un réfrigérateur classique ; la zone la plus froide varie selon les modèles.
+unite: °C
+min: 0
+max: 10
+zones:
+  - de: 0
+    a: 4
+    label: Viandes, poissons, plats entamés
+    ton: info
+  - de: 4
+    a: 6
+    label: Laitages, œufs, restes
+    ton: normal
+  - de: 6
+    a: 10
+    label: Légumes, beurre, boissons
+    ton: attention
+```
+
+- **Zone la plus froide, 0 à 4 °C** : viandes et poissons crus, charcuterie, plats cuisinés, produits
+  frais entamés, crème et fromages frais.
+- **Zone intermédiaire, 4 à 6 °C** : yaourts, fromages affinés, restes de repas, œufs si on les met au
+  frais.
+- **Bac à légumes** : fruits et légumes, à l'abri du dessèchement.
+- **Porte, la zone la moins froide** : beurre, boissons, sauces et condiments, qui supportent les
+  variations de température dues aux ouvertures.
+
+## Les bons gestes
+
+1. **Emballer** les aliments dans des boîtes fermées ou un film, pour éviter que les microbes passent
+   d'un aliment à l'autre et que les odeurs se mélangent.
+2. **Séparer le cru du cuit** : la viande crue en bas, dans un récipient, pour qu'elle ne coule pas sur
+   les autres aliments.
+3. **Laisser tiédir** un plat chaud avant de le ranger, sans dépasser deux heures à température
+   ambiante.
+4. **Ne pas surcharger** : l'air froid doit circuler.
+5. **Fermer vite la porte** et ne pas la laisser ouverte.
+6. **Nettoyer** l'intérieur environ une fois par mois avec de l'eau et du savon, puis rincer, éventuellement
+   avec un peu de vinaigre blanc.
+7. **Placer devant** les produits à consommer en premier, et les nouveaux derrière.
+
+## Ce qui n'a rien à faire au réfrigérateur
+
+Certains aliments se conservent mieux hors du froid : les **tomates** perdent leur goût, les **bananes**
+noircissent, les **pommes de terre** deviennent sucrées, le **pain** rassit plus vite, les **oignons** et
+l'**ail** ramollissent. Les fruits non mûrs mûrissent mieux à température ambiante, avant de passer au
+frais.
+
+## Dates et durées
+
+La **date limite de consommation**, « à consommer jusqu'au », concerne les produits fragiles : on ne la
+dépasse pas. La **date de durabilité minimale**, « à consommer de préférence avant », indique seulement
+une perte de qualité possible : le produit reste souvent bon bien après. Un plat cuisiné maison se
+garde en général deux à trois jours au réfrigérateur.
+
+## À retenir
+
+- Le froid ralentit les microbes mais ne les tue pas ; certains se multiplient même au froid.
+- La zone la plus froide doit être entre 0 et 4 °C, à vérifier avec un thermomètre.
+- Viandes et poissons crus vont dans la zone froide, emballés et séparés des aliments cuits.
+- On laisse tiédir un plat chaud, on ne surcharge pas l'appareil et on le nettoie chaque mois.
+- Tomates, bananes, pommes de terre et pain se conservent mieux hors du réfrigérateur.
 
 ---
 type: article
@@ -9760,18 +10656,141 @@ status: planned
 
 ---
 type: article
-title: La conservation des aliments par sechage solaire
+title: La conservation des aliments par séchage solaire
 slug: la-conservation-des-aliments-par-sechage-solaire
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
 summary: >
-  Une methode ancienne, peu couteuse, qui ne demande ni electricite ni refrigeration.
-tags: [gaspillage-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Retirer l'eau d'un fruit, d'un légume ou d'une viande empêche les microbes de s'y développer. Un
+  séchoir solaire, simple caisse vitrée et ventilée, sèche les aliments plus vite et plus proprement
+  qu'à l'air libre, sans électricité.
+tags: [gaspillage-alimentaire]
+relatedArticles: [la-securite-alimentaire-des-conserves-maison, la-conservation-par-le-sel-salaisons-et-saumures, four-chauffe-eau-solaires, le-stockage-en-cave-des-legumes-racines]
+sources:
+  - title: "Séchage (aliment)"
+    url: "https://fr.wikipedia.org/wiki/S%C3%A9chage_(aliment)"
+    publisher: "Wikipédia"
+  - title: "Food drying"
+    url: "https://en.wikipedia.org/wiki/Food_drying"
+    publisher: "Wikipedia"
+  - title: "Solar dryer"
+    url: "https://en.wikipedia.org/wiki/Solar_dryer"
+    publisher: "Wikipedia"
+  - title: "Water activity"
+    url: "https://en.wikipedia.org/wiki/Water_activity"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi un aliment séché se conserve-t-il longtemps ?"
+    options:
+      - "Parce que les microbes n'ont plus assez d'eau pour se multiplier"
+      - "Parce qu'il devient plus froid"
+      - "Parce qu'il est plus sucré au départ"
+    answer: 1
+    explanation: >
+      Bactéries et moisissures ont besoin d'eau disponible. En dessous d'un certain seuil, elles ne
+      peuvent plus se développer.
+  - question: "Pourquoi un séchoir solaire indirect protège-t-il mieux les aliments ?"
+    options:
+      - "Parce qu'il les cuit"
+      - "Parce que l'air est chauffé dans un capteur puis passe sur les aliments placés à l'ombre"
+      - "Parce qu'il les salit moins rapidement"
+    answer: 2
+    explanation: >
+      Le soleil direct détruit certaines vitamines et décolore les aliments. Dans un séchoir indirect,
+      ils sèchent à l'ombre dans un air chaud.
+  - question: "Pourquoi découpe-t-on les aliments en tranches fines ?"
+    options:
+      - "Pour qu'ils soient plus jolis"
+      - "Pour économiser de la place"
+      - "Pour que l'eau s'évapore vite, avant que les microbes aient le temps de se développer"
+    answer: 3
+    explanation: >
+      Des tranches épaisses sèchent en surface mais restent humides au cœur, où des moisissures
+      peuvent apparaître.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **séchage** est l'une des plus anciennes méthodes de conservation. En retirant l'**eau** des
+aliments, on empêche les bactéries et les moisissures de s'y développer : abricots secs, tomates
+séchées, champignons, herbes aromatiques, viande séchée se gardent des mois. Sécher au soleil en plein
+air est simple mais lent, et expose aux insectes, aux poussières et à la pluie. Un **séchoir solaire**,
+une caisse vitrée et ventilée, sèche plus vite, plus proprement et sans électricité.
+
+## Pourquoi le séchage conserve
+
+Un fruit frais contient souvent 80 à 90 % d'eau. Les microbes ont besoin d'eau disponible pour se
+multiplier. Quand on en retire la plus grande partie, ils ne peuvent plus se développer. Un fruit bien
+séché ne contient plus qu'environ 15 à 20 % d'eau, un légume sec encore moins, et il est devenu cassant
+ou souple comme du cuir.
+
+## Le séchoir solaire
+
+- **Le séchoir direct** : une caisse noire fermée par une vitre ou un plastique transparent, avec des
+  claies grillagées et des ouvertures en bas et en haut. Le soleil chauffe l'intérieur, l'air chaud monte
+  et s'échappe en haut en emportant l'humidité, l'air frais entre par le bas.
+- **Le séchoir indirect** : l'air est chauffé dans un **capteur** noir incliné, puis il traverse une
+  **armoire** fermée et ombragée où sont posées les claies. Les aliments sèchent à l'ombre, ce qui
+  préserve mieux couleurs et vitamines.
+
+Dans les deux cas, la **ventilation** compte autant que la chaleur : un air chaud qui ne circule pas se
+sature d'humidité. Une température de **40 à 60 °C** convient à la plupart des aliments. Des
+moustiquaires aux entrées d'air protègent des insectes.
+
+```schema
+type: comparaison
+titre: Séchoir direct ou indirect
+colonnes:
+  - titre: Direct
+    points:
+      - Caisse noire vitrée
+      - Les aliments reçoivent le soleil
+  - titre: Indirect
+    points:
+      - Air chauffé dans un capteur
+      - Aliments à l'ombre dans une armoire
+      - Couleurs et vitamines mieux préservées
+```
+
+## Préparer les aliments
+
+1. Choisir des produits **mûrs et sains**, sans moisissure.
+2. Laver, éplucher si nécessaire, découper en **tranches fines et régulières**, de 5 mm environ.
+3. Pour beaucoup de légumes, **blanchir** une ou deux minutes dans l'eau bouillante, puis refroidir :
+   cela garde la couleur et détruit les enzymes qui les abîment.
+4. Tremper certains fruits, comme les pommes, dans un peu de jus de citron pour éviter qu'ils
+   noircissent.
+5. Étaler en une seule couche sur les claies, sans que les morceaux se touchent.
+6. Retourner les morceaux au moins une fois par jour, et rentrer les claies la nuit, quand l'humidité
+   remonte.
+
+Selon le soleil et les aliments, le séchage dure de un à plusieurs jours.
+
+## Vérifier et conserver
+
+- **Fruits** : souples, sans jus quand on les presse.
+- **Légumes et champignons** : cassants.
+- **Herbes** : feuilles qui s'effritent.
+
+On laisse refroidir, puis on range dans des **bocaux bien fermés** ou des sacs hermétiques, au sec, au
+frais et à l'abri de la lumière. On surveille les premiers jours : de la buée dans le bocal signale un
+séchage incomplet, à reprendre. Toute trace de moisissure impose de jeter.
+
+## Le cas de la viande et du poisson
+
+Viande et poisson séchés, comme le biltong sud-africain ou le stockfish norvégien, demandent des
+précautions particulières : viande très fraîche, tranches fines, souvent un salage ou une marinade
+préalable, un séchage rapide et un air sec. Mal conduit, le séchage de la viande expose à des
+intoxications. Les débutants commencent par les fruits, les légumes et les herbes.
+
+## À retenir
+
+- Le séchage retire l'eau dont les microbes ont besoin pour se multiplier.
+- Un séchoir solaire sèche plus vite et plus proprement qu'en plein air, grâce à l'air chaud qui circule.
+- Le séchoir indirect fait sécher les aliments à l'ombre et préserve mieux couleurs et vitamines.
+- On découpe en tranches fines, on blanchit certains légumes et l'on retourne les morceaux.
+- On conserve en bocaux hermétiques, au sec, et l'on jette au moindre signe de moisissure.
 
 ---
 type: article
@@ -10144,6 +11163,19 @@ Avec l'âge, la sensation de soif diminue. Elle commence à baisser après 50 an
 Quand on boit, l'eau met du temps à passer dans le sang. Pourtant, la soif disparaît presque tout de suite. C'est parce que la bouche, la gorge et l'œsophage envoient des signaux rapides au cerveau. Ils lui indiquent que de l'eau arrive, et il arrête la sensation de soif.
 
 Les signes d'un manque d'eau sont la soif, le mal de tête, la fatigue, des urines plus rares et plus foncées, et parfois des vertiges. Boire beaucoup trop sans avoir soif n'est pas utile non plus. Un excès d'eau peut perturber l'équilibre du sel dans le sang.
+
+```schema
+type: etapes
+titre: Le signal de la soif
+elements:
+  - titre: Le sang se concentre
+  - titre: L'hypothalamus le détecte
+    icone: brain
+  - titre: La soif apparaît
+    texte: Un signal un peu tardif.
+  - titre: Boire
+    icone: droplet
+```
 
 ## À retenir
 
@@ -11472,6 +12504,20 @@ Certains aliments végétaux, comme le quinoa ou le sarrasin, apportent à eux s
 
 Les céréales, comme le riz ou le blé, contiennent peu de lysine mais assez de méthionine. Les légumineuses, comme les haricots, font l'inverse : elles contiennent assez de lysine, mais peu de méthionine. En les associant, on obtient tous les acides aminés essentiels. Le riz aux haricots, un plat très répandu, en est un bon exemple.
 
+```schema
+type: comparaison
+titre: Céréales et légumineuses, une bonne équipe
+legende: Le corps ne sait pas fabriquer neuf acides aminés.
+colonnes:
+  - titre: Céréales
+    icone: wheat
+    points:
+      - Pauvres en lysine
+  - titre: Légumineuses
+    points:
+      - Riches en lysine
+```
+
 ## À retenir
 
 - Les protéines sont des chaînes de petites briques appelées acides aminés.
@@ -12405,6 +13451,19 @@ Pour 100 grammes, le poivron rouge en contient environ 128 milligrammes, le kiwi
 
 Et le rhume ? Prendre de la vitamine C tous les jours n'empêche pas de l'attraper. Cela réduit seulement sa durée d'environ 8 % chez les adultes et 14 % chez les enfants.
 
+```schema
+type: etapes
+titre: Le scorbut
+elements:
+  - titre: Pas de vitamine C
+    texte: Pendant 1 à 3 mois.
+  - titre: Gencives qui saignent
+  - titre: Plaies qui ne guérissent plus
+  - titre: Agrumes
+    texte: Ils guérissent.
+    icone: apple
+```
+
 ## À retenir
 
 - Un manque total de vitamine C pendant 1 à 3 mois provoque le scorbut.
@@ -12515,6 +13574,19 @@ La vitamine A elle-même se trouve dans le foie, le beurre et les œufs. Le bêt
 Trop de vitamine A peut être toxique. Le foie d'ours polaire, par exemple, en contient tellement qu'il est dangereux pour l'être humain.
 
 Les carottes n'ont pas toujours été orange. Au Xe siècle, elles étaient violettes. Les carottes orange ont été développées aux Pays-Bas, aux XVIe et XVIIe siècles.
+
+```schema
+type: comparaison
+titre: Les carottes et la vision
+colonnes:
+  - titre: Le mythe
+    points:
+      - Une propagande britannique de la Seconde Guerre mondiale
+  - titre: La réalité
+    points:
+      - La vitamine A est utile à la vision
+      - Sa carence donne la cécité nocturne
+```
 
 ## À retenir
 
@@ -14071,18 +15143,149 @@ status: planned
 
 ---
 type: article
-title: La securite alimentaire des conserves maison
+title: La sécurité alimentaire des conserves maison
 slug: la-securite-alimentaire-des-conserves-maison
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
 summary: >
-  Des regles precises a respecter pour eviter tout risque de contamination.
-tags: [securite-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Mettre ses récoltes en bocaux permet de les garder des années, mais une conserve mal stérilisée
+  peut contenir la toxine du botulisme, l'une des plus dangereuses qui soient. Acidité, température,
+  durée et hygiène sont les quatre règles à respecter.
+tags: [securite-alimentaire]
+relatedArticles: [la-conservation-par-le-sel-salaisons-et-saumures, la-conservation-des-legumes-par-lactofermentation, la-conservation-des-aliments-par-sechage-solaire, kit-urgence-72-heures]
+sources:
+  - title: "Conserve"
+    url: "https://fr.wikipedia.org/wiki/Conserve"
+    publisher: "Wikipédia"
+  - title: "Botulisme"
+    url: "https://fr.wikipedia.org/wiki/Botulisme"
+    publisher: "Wikipédia"
+  - title: "Home canning"
+    url: "https://en.wikipedia.org/wiki/Home_canning"
+    publisher: "Wikipedia"
+  - title: "Nicolas Appert"
+    url: "https://fr.wikipedia.org/wiki/Nicolas_Appert"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi les légumes peu acides et la viande sont-ils les conserves les plus risquées ?"
+    options:
+      - "Parce que les spores du botulisme y survivent à 100 °C et peuvent produire leur toxine sans air"
+      - "Parce qu'ils sont trop sucrés"
+      - "Parce qu'ils rouillent les couvercles"
+    answer: 1
+    explanation: >
+      Pour détruire ces spores, il faut une température supérieure à 100 °C, obtenue sous pression
+      dans un autoclave.
+  - question: "Que faire d'un bocal dont le couvercle est bombé ?"
+    options:
+      - "Le goûter pour vérifier"
+      - "Le jeter sans l'ouvrir ni le goûter"
+      - "Le faire bouillir et le consommer"
+    answer: 2
+    explanation: >
+      Un couvercle bombé indique souvent un développement de microbes. Même une très petite quantité
+      de toxine botulique peut être dangereuse.
+  - question: "Qui a inventé la conservation des aliments en récipient fermé chauffé ?"
+    options:
+      - "Louis Pasteur"
+      - "Isaac Newton"
+      - "Le confiseur français Nicolas Appert, au début du XIXe siècle"
+    answer: 3
+    explanation: >
+      Il publie sa méthode en 1810, sans savoir pourquoi elle marche. Pasteur l'expliquera plus tard
+      par la destruction des microbes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une conserve est un aliment placé dans un récipient **hermétique**, puis **chauffé** pour détruire les
+microbes. Bien faite, elle se garde des mois, voire des années, sans réfrigérateur. Mal faite, elle peut
+permettre le développement de *Clostridium botulinum*, une bactérie qui produit la **toxine botulique**,
+l'une des plus puissantes connues. Le botulisme est rare, mais grave : paralysie progressive, parfois
+mortelle. Quatre facteurs déterminent la sécurité : l'**acidité** de l'aliment, la **température**, la
+**durée** du traitement et l'**hygiène**.
+
+## Une invention française
+
+Au début du XIXe siècle, le confiseur **Nicolas Appert** découvre qu'un aliment enfermé dans un bocal
+bouché puis chauffé au bain-marie se conserve longtemps. Il publie sa méthode en 1810. On parle depuis
+d'**appertisation**. Pasteur expliquera plus tard pourquoi elle fonctionne : la chaleur tue les microbes,
+et la fermeture empêche d'autres d'entrer.
+
+## Le danger du botulisme
+
+La bactérie du botulisme vit dans le sol. Elle forme des **spores**, des formes de résistance qui
+supportent l'ébullition. Dans un bocal **sans air**, **peu acide** et à température ambiante, ces spores
+peuvent germer et produire la toxine, souvent sans odeur ni goût suspect.
+
+- **Les aliments acides**, fruits, confitures, tomates acidifiées, cornichons au vinaigre : l'acidité
+  empêche la bactérie de se développer. Une stérilisation au **bain-marie à 100 °C** suffit.
+- **Les aliments peu acides**, légumes verts, haricots, champignons, viande, poisson, soupes : ce sont
+  les plus risqués. Les organismes de référence en sécurité sanitaire recommandent de les stériliser
+  **au-dessus de 100 °C**, entre 115 et 121 °C, ce qui demande un **autoclave**, un stérilisateur sous
+  pression, ou de suivre des recettes et barèmes validés.
+
+```schema
+type: comparaison
+titre: Quelle stérilisation selon l'aliment
+colonnes:
+  - titre: Aliments acides
+    points:
+      - Fruits, confitures, tomates acidifiées, cornichons au vinaigre
+      - Bain-marie à 100 °C
+  - titre: Aliments peu acides
+    points:
+      - Légumes verts, champignons, viandes, poissons
+      - Au-dessus de 100 °C, entre 115 et 121 °C
+      - Autoclave ou barèmes validés
+```
+
+## Les règles de base
+
+1. **Suivre une recette éprouvée**, avec temps et température précis selon l'aliment et la taille du
+   bocal. Ne pas improviser.
+2. **Des bocaux sans fêlure**, propres, avec des **joints ou couvercles neufs**.
+3. **Des aliments frais et sains**, lavés, sans parties abîmées.
+4. **Ne pas trop remplir** : laisser l'espace indiqué sous le couvercle.
+5. **Respecter le temps de stérilisation**, compté à partir du moment où l'eau bout ou où l'autoclave
+   atteint sa pression.
+6. **Vérifier la fermeture** après refroidissement : le couvercle doit être aspiré et ne pas bouger.
+7. **Étiqueter** avec le contenu et la date, et stocker au frais, au sec, à l'abri de la lumière.
+
+## Les signaux d'alerte
+
+On **jette sans goûter** tout bocal qui présente :
+
+- un **couvercle bombé** ou un joint décollé ;
+- une **fuite**, de la mousse, des bulles qui remontent ;
+- un liquide trouble ou une odeur anormale ;
+- un jet de liquide à l'ouverture.
+
+On ne goûte jamais pour vérifier. En cas de doute sur une conserve de légumes peu acides, une ébullition
+d'une dizaine de minutes avant consommation détruit la toxine, mais pas les autres risques : la règle
+reste de jeter.
+
+## Les symptômes du botulisme
+
+Ils apparaissent quelques heures à quelques jours après le repas : vision double ou floue, paupières
+qui tombent, difficultés à avaler et à parler, bouche sèche, puis faiblesse musculaire qui descend vers
+les bras et peut atteindre la respiration. C'est une **urgence** : on appelle le 15, en gardant le bocal
+suspect pour analyse.
+
+## Les autres méthodes
+
+Les confitures très sucrées, les conserves au vinaigre, la lactofermentation, le salage et le séchage
+reposent sur d'autres principes : le sucre, l'acidité, le sel ou l'absence d'eau empêchent les microbes de
+se développer.
+
+## À retenir
+
+- Une conserve est un aliment chauffé dans un récipient hermétique, selon la méthode de Nicolas Appert.
+- Les spores du botulisme résistent à l'ébullition et se développent sans air dans les aliments peu acides.
+- Fruits et aliments acides se stérilisent au bain-marie à 100 °C ; légumes peu acides et viandes demandent plus de 100 °C, en autoclave ou selon des barèmes validés.
+- Un couvercle bombé, une fuite ou une odeur anormale imposent de jeter le bocal sans goûter.
+- Vision double, paupières tombantes et difficulté à avaler après un repas imposent d'appeler le 15.
 
 ---
 type: article
@@ -14184,6 +15387,17 @@ Au réfrigérateur, on range les aliments crus à l'écart des aliments prêts �
 En France, environ un tiers des toxi-infections alimentaires déclarées chaque année surviennent à la maison. Une toxi-infection alimentaire est une maladie causée par un aliment contaminé par des microbes.
 
 Dans le monde, l'Organisation mondiale de la santé estime que près d'une personne sur neuf tombe malade chaque année après avoir mangé des aliments contaminés. Les enfants de moins de 5 ans sont particulièrement touchés. Parmi les règles de base de l'OMS pour des aliments plus sûrs, on trouve celle-ci : séparer le cru du cuit.
+
+```schema
+type: etapes
+titre: La contamination croisée
+elements:
+  - titre: Poulet cru
+  - titre: Planche, couteau, mains
+    texte: Les microbes y passent.
+  - titre: Salade
+    texte: Mangée crue, sans cuisson qui protège.
+```
 
 ## À retenir
 
@@ -14653,6 +15867,21 @@ La congélation conserve les aliments parce que l'eau, devenue glace, n'est plus
 
 Mais le froid ne tue pas les microbes aussi bien que la chaleur. Beaucoup de microbes dangereux survivent au froid, alors qu'une cuisson à forte température en détruit bien davantage. La congélation conserve donc les aliments, mais elle ne les rend pas plus sûrs qu'avant.
 
+```schema
+type: comparaison
+titre: Congélation lente ou rapide
+colonnes:
+  - titre: Lente
+    points:
+      - Gros cristaux de glace
+      - Ils percent les cellules
+  - titre: Rapide
+    icone: snowflake
+    points:
+      - Petits cristaux
+      - Texture préservée
+```
+
 ## À retenir
 
 - En gelant, l'eau des aliments forme des cristaux de glace.
@@ -14727,14 +15956,132 @@ title: La conservation par le sel, salaisons et saumures
 slug: la-conservation-par-le-sel-salaisons-et-saumures
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Une des plus anciennes methodes de conservation, encore largement utilisee.
-tags: [conservation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le sel attire l'eau hors des aliments et prive les microbes de ce dont ils ont besoin pour se
+  multiplier. Viande, poisson et légumes se conservent ainsi des mois sans froid, à condition de
+  respecter les doses, la température et l'hygiène.
+tags: [conservation]
+relatedArticles: [la-securite-alimentaire-des-plantes-sauvages-comestibles, kit-urgence-72-heures]
+sources:
+  - title: "Salaison"
+    url: "https://fr.wikipedia.org/wiki/Salaison"
+    publisher: "Wikipédia"
+  - title: "Salting (food)"
+    url: "https://en.wikipedia.org/wiki/Salting_(food)"
+    publisher: "Wikipedia"
+  - title: "Water activity"
+    url: "https://en.wikipedia.org/wiki/Water_activity"
+    publisher: "Wikipedia"
+  - title: "Botulisme"
+    url: "https://fr.wikipedia.org/wiki/Botulisme"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment le sel empêche-t-il les microbes de se développer ?"
+    options:
+      - "En retirant l'eau des aliments et en la rendant indisponible pour les microbes"
+      - "En chauffant l'aliment"
+      - "En le rendant plus lourd"
+    answer: 1
+    explanation: >
+      Par osmose, le sel attire l'eau hors des cellules. La plupart des bactéries ne peuvent plus
+      se multiplier dans un milieu aussi salé et sec.
+  - question: "Qu'est-ce qu'une saumure ?"
+    options:
+      - "Un poisson séché"
+      - "Une eau fortement salée dans laquelle on plonge les aliments"
+      - "Un type de fromage"
+    answer: 2
+    explanation: >
+      On l'utilise pour les olives, les cornichons, le hareng ou certaines viandes.
+  - question: "Pourquoi faut-il dessaler un aliment conservé au sel avant de le cuisiner ?"
+    options:
+      - "Pour qu'il cuise plus vite"
+      - "Pour le conserver plus longtemps"
+      - "Parce qu'il contient trop de sel pour être mangé tel quel"
+    answer: 3
+    explanation: >
+      La morue salée, par exemple, trempe 24 à 48 heures dans plusieurs eaux successives avant
+      d'être cuisinée.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant le réfrigérateur, le **sel** était l'un des principaux moyens de garder la viande, le poisson et
+les légumes pendant des mois. Il agit en **retirant l'eau** des aliments : les bactéries et les
+moisissures, privées de l'eau dont elles ont besoin, ne peuvent plus se multiplier. Jambon sec, morue
+salée, hareng, choucroute, olives : toutes ces préparations reposent sur ce principe. Bien conduite,
+la salaison permet de conserver des aliments sans froid ; mal conduite, elle expose à de graves
+intoxications.
+
+## Comment agit le sel
+
+Le sel attire l'eau : c'est l'**osmose**. Posé sur une viande, il fait sortir l'eau de ses cellules et
+pénètre peu à peu à l'intérieur. L'eau qui reste est liée au sel et n'est plus disponible pour les
+microbes. Les scientifiques mesurent cette disponibilité par l'**activité de l'eau** : quand elle
+descend assez bas, la plupart des bactéries dangereuses cessent de se développer.
+
+Le sel ralentit aussi les réactions qui font rancir et pourrir les aliments, et il favorise, dans les
+légumes, des bactéries lactiques utiles qui acidifient le milieu.
+
+## Deux grandes méthodes
+
+**Le salage à sec** : on frotte l'aliment de sel, on le recouvre de sel, puis on le laisse dégorger.
+C'est la méthode du jambon cru, de la morue, du lard. Le jambon est ensuite séché et affiné pendant des
+mois dans un endroit frais et ventilé.
+
+**La saumure** : on plonge l'aliment dans une eau très salée. On l'utilise pour les olives, les
+cornichons, le hareng, certaines viandes et fromages. Une saumure faiblement salée sert aussi à la
+**lactofermentation** des légumes, comme la choucroute.
+
+```schema
+type: comparaison
+titre: Deux méthodes de salaison
+colonnes:
+  - titre: Salage à sec
+    points:
+      - L'aliment est frotté et couvert de sel
+      - Jambon cru, morue, lard
+      - Séchage et affinage ensuite
+  - titre: Saumure
+    points:
+      - L'aliment est plongé dans une eau très salée
+      - Olives, cornichons, hareng
+      - Faiblement salée, elle sert à la lactofermentation
+```
+
+## Les règles de sécurité
+
+- **Le froid au départ** : la viande doit être fraîche et salée dans un endroit frais, idéalement sous
+  une dizaine de degrés, pendant que le sel pénètre jusqu'au cœur. Sinon, les bactéries se développent
+  à l'intérieur avant d'être stoppées.
+- **La bonne dose** : trop peu de sel ne protège pas. Les recettes éprouvées indiquent des proportions
+  précises, qu'il faut respecter.
+- **L'hygiène** : mains, ustensiles, récipients et sel propres.
+- **Le botulisme** : la bactérie *Clostridium botulinum* se développe sans air, dans les aliments peu
+  acides mal conservés, et produit une toxine mortelle. Les charcutiers ajoutent pour cette raison du
+  nitrite ou du nitrate à certaines salaisons, à des doses réglementées. Un bocal bombé, une odeur
+  anormale ou une saumure trouble et mousseuse non prévue imposent de jeter l'aliment sans le goûter.
+
+## Dessaler et consommer
+
+Les aliments très salés doivent souvent être **dessalés** avant cuisson. La morue salée trempe 24 à
+48 heures dans de l'eau froide renouvelée plusieurs fois. Le sel en excès est mauvais pour la santé
+cardiovasculaire : ces aliments se consomment avec modération.
+
+## Le sel, un trésor historique
+
+Le sel a longtemps été une ressource stratégique. Les Romains payaient parfois leurs soldats en partie
+en sel, d'où viendrait le mot « salaire », selon une étymologie discutée. En France, l'impôt sur le sel,
+la **gabelle**, a été l'un des impôts les plus détestés de l'Ancien Régime.
+
+## À retenir
+
+- Le sel retire l'eau des aliments par osmose et empêche les microbes de se multiplier.
+- On sale à sec, comme pour le jambon et la morue, ou en saumure, comme pour les olives et les légumes.
+- La viande doit être fraîche, salée au frais et selon des doses éprouvées.
+- Le botulisme, mortel, impose de jeter tout aliment au bocal bombé ou à l'odeur anormale.
+- Les aliments très salés se dessalent avant cuisson et se consomment avec modération.
 
 ---
 type: article
@@ -14933,18 +16280,139 @@ status: planned
 
 ---
 type: article
-title: Le stockage en cave des legumes racines
+title: Le stockage en cave des légumes racines
 slug: le-stockage-en-cave-des-legumes-racines
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Une methode ancienne qui exploite naturellement fraicheur et humidite constante.
-tags: [conservation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pommes de terre, carottes, betteraves ou navets se gardent des mois sans réfrigérateur dans une cave
+  fraîche, humide, sombre et aérée, ou dans un silo de terre au jardin. Il suffit de respecter leurs
+  besoins et de les surveiller.
+tags: [conservation]
+relatedArticles: [plantes-nourrissantes, la-conservation-des-legumes-par-lactofermentation, la-conservation-des-aliments-par-sechage-solaire, produire-conserver-semences]
+sources:
+  - title: "Root cellar"
+    url: "https://en.wikipedia.org/wiki/Root_cellar"
+    publisher: "Wikipedia"
+  - title: "Silo (agriculture)"
+    url: "https://fr.wikipedia.org/wiki/Silo_(agriculture)"
+    publisher: "Wikipédia"
+  - title: "Solanine"
+    url: "https://fr.wikipedia.org/wiki/Solanine"
+    publisher: "Wikipédia"
+  - title: "Éthylène"
+    url: "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi garder les pommes de terre dans l'obscurité ?"
+    options:
+      - "Parce qu'à la lumière elles verdissent et produisent de la solanine, une substance toxique"
+      - "Parce qu'elles gèlent à la lumière"
+      - "Pour qu'elles grossissent"
+    answer: 1
+    explanation: >
+      Les parties vertes et les germes contiennent de la solanine. On les retire largement avant de
+      cuisiner.
+  - question: "Pourquoi ne pas stocker les pommes à côté des pommes de terre et des carottes ?"
+    options:
+      - "Parce qu'elles prennent trop de place"
+      - "Parce qu'elles dégagent de l'éthylène, un gaz qui accélère le mûrissement et la germination des autres"
+      - "Parce qu'elles attirent les souris"
+    answer: 2
+    explanation: >
+      L'éthylène fait germer les pommes de terre et donne un goût amer aux carottes.
+  - question: "Quelle humidité préfèrent la plupart des légumes racines ?"
+    options:
+      - "Un air très sec"
+      - "Aucune importance"
+      - "Un air très humide, autour de 90 %"
+    answer: 3
+    explanation: >
+      Dans un air sec, les racines perdent leur eau et se rident. On les enfouit souvent dans du sable
+      légèrement humide.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant le réfrigérateur, les familles gardaient leurs récoltes d'automne jusqu'au printemps dans une
+**cave**, un **cellier** ou un **silo** creusé dans le jardin. Pommes de terre, carottes, betteraves,
+navets, céleris et choux se conservent ainsi des mois, à condition de leur offrir quatre conditions :
+le **froid** sans gel, une forte **humidité**, l'**obscurité** et une bonne **aération**. Il suffit
+ensuite de les trier régulièrement. Une bonne cave nourrit une famille tout l'hiver sans électricité.
+
+## Pourquoi la cave marche
+
+Un légume racine récolté reste **vivant** : il respire, consomme ses réserves et perd de l'eau. À basse
+température, cette respiration ralentit fortement, comme les microbes qui le font pourrir. Sous terre,
+la température varie peu et l'humidité reste élevée. Une cave enterrée offre souvent naturellement
+**0 à 10 °C** en hiver.
+
+## Les conditions idéales
+
+- **Le froid** : pour la plupart des racines, entre **0 et 5 °C**, sans jamais geler. Les pommes de terre
+  préfèrent un peu plus, autour de **4 à 8 °C** : plus froides, elles deviennent sucrées.
+- **L'humidité** : un air très humide, autour de **85 à 95 %**, pour que les racines ne se dessèchent
+  pas. On peut les enfouir dans du **sable** légèrement humide.
+- **L'obscurité** : à la lumière, les pommes de terre **verdissent** et produisent de la **solanine**, une
+  substance toxique. On coupe largement les parties vertes et les germes avant de cuisiner.
+- **L'aération** : une ouverture en bas et une en haut renouvellent l'air et évacuent l'humidité excessive
+  et les gaz.
+
+```schema
+type: chiffres
+titre: Les conditions d'une bonne cave
+chiffres:
+  - valeur: 0 à 5 °C
+    texte: pour la plupart des racines, sans gel
+  - valeur: 4 à 8 °C
+    texte: pour les pommes de terre
+  - valeur: 85 à 95 %
+    texte: d'humidité de l'air
+  - valeur: Obscurité
+    texte: et une aération haute et basse
+```
+
+## Préparer la récolte
+
+1. **Récolter par temps sec**, à maturité, sans blesser les légumes.
+2. Laisser **ressuyer** quelques heures à l'air, à l'ombre, pour sécher la terre. Les pommes de terre
+   gagnent à « cicatriser » une ou deux semaines au frais et à l'obscurité.
+3. **Ne pas laver** : la terre protège.
+4. Couper les fanes des carottes et des betteraves à un ou deux centimètres du collet.
+5. **Trier** : seuls les légumes sains et intacts se gardent ; les abîmés se mangent tout de suite.
+
+## Ranger
+
+- **Pommes de terre** : en cagettes ou clayettes, en couches peu épaisses, à l'obscurité.
+- **Carottes, betteraves, navets, céleris, panais** : couchés dans des caisses de **sable** légèrement
+  humide, sans qu'ils se touchent.
+- **Choux** : suspendus par le pied ou posés sur des clayettes.
+- **Oignons, ail et courges** font exception : ils préfèrent un endroit **sec** et un peu plus tempéré,
+  comme un grenier sain ou une pièce fraîche.
+- **Les fruits**, en particulier les pommes, se rangent à part : ils dégagent de l'**éthylène**, un gaz
+  qui fait germer les pommes de terre et rend les carottes amères.
+
+## Le silo de jardin
+
+Sans cave, on peut creuser au jardin un **silo** : une fosse peu profonde garnie de paille, où l'on dispose
+les racines, recouvertes de paille puis de terre, avec une petite cheminée de paille pour l'aération. On
+prélève par un côté au fil de l'hiver. Une version plus simple consiste à laisser certains légumes en
+terre, comme les panais ou les poireaux, sous une bonne couche de paille.
+
+## Surveiller
+
+On visite la cave toutes les une à deux semaines : on retire immédiatement tout légume qui pourrit, car la
+pourriture se propage. On contrôle la température, surtout lors des fortes gelées, et l'on protège contre
+les rongeurs.
+
+## À retenir
+
+- Les légumes racines se gardent des mois au froid sans gel, dans un air humide, sombre et aéré.
+- La plupart préfèrent 0 à 5 °C ; les pommes de terre, 4 à 8 °C.
+- À la lumière, les pommes de terre verdissent et produisent de la solanine toxique.
+- Carottes et betteraves se conservent couchées dans du sable légèrement humide.
+- On sépare les pommes des légumes et l'on retire régulièrement tout légume qui pourrit.
 
 ---
 type: article
@@ -15101,6 +16569,16 @@ Le miel est acide : son pH moyen est de 3,9. Une enzyme apportée par les abeill
 Le miel attire l'humidité de l'air : il faut bien refermer le pot. S'il durcit et devient granuleux, il a cristallisé, mais il n'est pas abîmé. On ne donne pas de miel aux bébés de moins d'un an : il peut contenir des spores de la bactérie du botulisme.
 
 On raconte souvent qu'on a mangé du miel retrouvé dans des tombes égyptiennes. C'est une légende : aucun miel mangeable n'y a été découvert, seulement des traces chimiques.
+
+```schema
+type: chiffres
+titre: Le miel
+chiffres:
+  - valeur: 15,5 à 18 %
+    texte: d'eau seulement
+  - valeur: Trop de sucre
+    texte: pour que les microbes se développent
+```
 
 ## À retenir
 
@@ -15317,6 +16795,18 @@ Au XIXe siècle, le savant français Louis Pasteur a montré que des bactéries 
 Selon le type, un vinaigre contient de 4 à 18 % d'acide acétique. En France, un vinaigre de vin doit en contenir au moins 6 grammes pour 100 millilitres.
 
 Les Babyloniens fabriquaient déjà du vinaigre il y a plusieurs milliers d'années. Ils s'en servaient pour assaisonner et conserver les aliments. Aujourd'hui, le vinaigre sert toujours en cuisine, dans les sauces et les marinades. Il sert aussi à préparer des conserves au vinaigre et à nettoyer le calcaire dans la maison.
+
+```schema
+type: etapes
+titre: Du raisin au vinaigre
+elements:
+  - titre: Sucre
+  - titre: Levures
+    texte: Le sucre devient alcool.
+  - titre: Acetobacter
+    texte: L'alcool devient acide acétique.
+  - titre: Vinaigre
+```
 
 ## À retenir
 
@@ -15557,6 +17047,18 @@ La cuisson tue les levures et les bactéries. L'alcool s'évapore. Les bulles ch
 
 Le plus ancien pain au levain conservé en Europe a été retrouvé à Twann, en Suisse, dans un ancien village construit au bord d'un lac. Il date de 3560 à 3530 avant notre ère. Aujourd'hui, beaucoup de pains sont faits avec de la levure de boulanger, qui ne contient qu'une seule espèce de levure.
 
+```schema
+type: etapes
+titre: Le levain fait lever la pâte
+elements:
+  - titre: Farine et eau
+  - titre: Levures et bactéries
+  - titre: Gaz carbonique
+    texte: Il forme des bulles.
+  - titre: Cuisson
+    icone: fire
+```
+
 ## À retenir
 
 - Le levain est un mélange de farine et d'eau où vivent des levures sauvages et des bactéries lactiques.
@@ -15582,18 +17084,152 @@ status: planned
 
 ---
 type: article
-title: La conservation des legumes par lactofermentation
+title: La conservation des légumes par lactofermentation
 slug: la-conservation-des-legumes-par-lactofermentation
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Une methode ancienne et fiable pour garder des legumes crus pendant des mois.
-tags: [fermentation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Du chou, du sel, un bocal et quelques semaines : des bactéries lactiques naturellement présentes
+  sur les légumes les acidifient et les conservent crus pendant des mois, sans chaleur ni électricité.
+  C'est le principe de la choucroute, du kimchi et des cornichons fermentés.
+tags: [fermentation]
+relatedArticles: [fermentation-biotechnologie-ancienne, la-conservation-par-le-sel-salaisons-et-saumures, la-securite-alimentaire-des-conserves-maison, le-stockage-en-cave-des-legumes-racines]
+sources:
+  - title: "Lactofermentation"
+    url: "https://fr.wikipedia.org/wiki/Lactofermentation"
+    publisher: "Wikipédia"
+  - title: "Choucroute"
+    url: "https://fr.wikipedia.org/wiki/Choucroute"
+    publisher: "Wikipédia"
+  - title: "Lactic acid fermentation"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid_fermentation"
+    publisher: "Wikipedia"
+  - title: "Lactic acid bacteria"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid_bacteria"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle quantité de sel utilise-t-on environ pour une choucroute ?"
+    options:
+      - "Environ 2 % du poids du chou"
+      - "La moitié du poids du chou"
+      - "Aucun sel"
+    answer: 1
+    explanation: >
+      Environ 20 grammes de sel par kilo de chou. Le sel fait sortir le jus du chou et freine les
+      microbes indésirables, sans gêner les bactéries lactiques.
+  - question: "Pourquoi les légumes doivent-ils rester sous le liquide ?"
+    options:
+      - "Pour qu'ils restent froids"
+      - "Parce que les bactéries lactiques travaillent sans air, alors que les moisissures ont besoin d'oxygène"
+      - "Pour qu'ils soient plus salés"
+    answer: 2
+    explanation: >
+      Un légume qui dépasse de la saumure est exposé à l'air et peut moisir. On le maintient immergé
+      avec un poids.
+  - question: "Que faut-il faire si une moisissure poilue et colorée apparaît dans le bocal ?"
+    options:
+      - "La mélanger au reste"
+      - "La faire cuire"
+      - "Jeter le bocal"
+    answer: 3
+    explanation: >
+      Un léger voile blanc et plat de levures est fréquent et peut être retiré. Une moisissure
+      duveteuse, colorée ou une odeur de pourri imposent de tout jeter.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **lactofermentation** conserve les légumes crus grâce à des **bactéries lactiques**, naturellement
+présentes à leur surface. Privées d'air et favorisées par un peu de **sel**, elles transforment les
+sucres des légumes en **acide lactique**. Le milieu devient acide, et la plupart des microbes
+responsables de la pourriture ou des intoxications ne peuvent plus s'y développer. On obtient la
+**choucroute** alsacienne, le **kimchi** coréen, les cornichons et les légumes fermentés d'Europe de
+l'Est. La méthode ne demande ni chaleur, ni électricité, ni ingrédient rare.
+
+## Comment ça marche
+
+1. **Le sel** fait sortir le jus des légumes et freine les microbes indésirables, tandis que les
+   bactéries lactiques le supportent bien.
+2. **L'absence d'air** : les légumes sont tassés sous leur jus ou sous une saumure. Les bactéries
+   lactiques travaillent sans oxygène, les moisissures non.
+3. **L'acidification** : en quelques jours, les bactéries lactiques produisent de l'acide lactique, et le
+   milieu devient trop acide pour la plupart des microbes dangereux.
+
+Bien conduite, la lactofermentation a un excellent bilan de sécurité. Les légumes gardent une grande
+partie de leur vitamine C : la choucroute embarquée sur les navires de James Cook l'aidait à lutter
+contre le scorbut.
+
+## Deux méthodes
+
+**Au sel sec**, pour les légumes râpés ou émincés, comme le chou ou les carottes :
+
+- environ **2 % de sel** du poids des légumes, soit 20 g de sel par kilo ;
+- on mélange et l'on malaxe ou l'on tasse fort jusqu'à ce que le jus sorte ;
+- on tasse dans un bocal ou un pot en grès, jusqu'à ce que le jus recouvre les légumes.
+
+**En saumure**, pour les légumes entiers ou en morceaux, comme les cornichons, les haricots, les
+radis :
+
+- une saumure d'environ **30 g de sel par litre d'eau**, avec une eau non chlorée ;
+- on remplit le bocal de légumes et d'aromates, puis on couvre de saumure.
+
+Dans les deux cas, on maintient les légumes **sous le liquide** avec un poids : une feuille de chou, un
+petit bocal rempli d'eau, une pierre propre.
+
+```schema
+type: frise
+titre: Le déroulement d'une lactofermentation
+evenements:
+  - date: Jour 0
+    titre: Saler et tasser
+    texte: Environ 2 % de sel, légumes sous le liquide.
+  - date: Premiers jours
+    titre: Démarrage, entre 18 et 22 °C
+    texte: Bulles, liquide trouble, odeur acidulée.
+  - date: 1 à 3 semaines
+    titre: Assez acide
+    texte: On peut goûter.
+  - date: Ensuite
+    titre: Au frais
+    texte: Les bocaux se gardent des mois.
+```
+
+## La fermentation, étape par étape
+
+- **Les premiers jours**, à température ambiante, idéalement entre 18 et 22 °C, la fermentation démarre :
+  des bulles apparaissent, le liquide se trouble, une odeur acidulée se développe.
+- **Après une à trois semaines**, selon le légume et la température, l'acidité est suffisante. On peut
+  goûter.
+- **Ensuite**, on place les bocaux **au frais**, à la cave ou au réfrigérateur : la fermentation ralentit
+  et les légumes se gardent des mois.
+
+Les bocaux à joint laissent s'échapper les gaz. Avec un couvercle vissé, on laisse un peu d'espace et
+l'on ouvre de temps en temps les premiers jours pour éviter la pression.
+
+## Reconnaître une fermentation réussie
+
+- **Normal** : bulles, liquide trouble, odeur acide et agréable, léger voile blanc et plat à la surface,
+  dû à des levures, que l'on peut retirer.
+- **À jeter** : moisissures **duveteuses**, bleues, vertes, noires ou roses, odeur de pourri, légumes
+  devenus visqueux et mous.
+
+## Les règles d'or
+
+- Ustensiles, bocaux et mains **propres**.
+- Légumes **frais**, lavés à l'eau sans être frottés à l'excès.
+- Bonne dose de **sel**, ni trop peu ni beaucoup trop.
+- Légumes toujours **sous le liquide**.
+- Ne pas confondre avec la conserve à l'eau non acidifiée : ici, c'est l'acidité produite par les
+  bactéries qui protège.
+
+## À retenir
+
+- La lactofermentation conserve les légumes crus grâce aux bactéries lactiques, qui produisent de l'acide.
+- On utilise environ 2 % de sel pour le chou, ou une saumure d'environ 30 g de sel par litre.
+- Les légumes doivent rester sous le liquide, à l'abri de l'air.
+- Après une à trois semaines à température ambiante, les bocaux se gardent des mois au frais.
+- Un voile blanc plat est normal ; une moisissure duveteuse colorée ou une odeur de pourri imposent de jeter.
 
 ---
 type: article
@@ -15788,6 +17424,17 @@ Ces techniques donnent des aliments très connus : le gari, le foufou et l'atti�
 Un manioc mal préparé peut provoquer le konzo. Dans la langue yaka, parlée au Congo, ce mot signifie « jambes liées ». Cette maladie paralyse les jambes d'un coup, et pour toujours. Elle a été décrite pour la première fois en 1938, au Congo. Elle touche surtout des femmes et des enfants de régions rurales d'Afrique, quand la nourriture manque et qu'on mange peu de protéines.
 
 Une méthode simple aide à la prévenir. On mouille la farine de manioc, on la laisse sécher un peu pour que le gaz toxique s'échappe, puis on la cuit normalement.
+
+```schema
+type: etapes
+titre: Rendre le manioc sûr
+legende: Le manioc nourrit plus de 500 millions de personnes.
+elements:
+  - titre: Racine toxique crue
+  - titre: Tremper
+  - titre: Fermenter
+  - titre: Sécher ou cuire
+```
 
 ## À retenir
 
@@ -16319,6 +17966,19 @@ On retire souvent le germe, car il contient de l'huile. Avec le temps, cette hui
 En France, chaque farine porte un type, comme T45, T55 ou T150. Ce nombre indique la quantité de minéraux qu'elle contient. Pour le mesurer, on brûle la farine à plus de 600 °C. Il reste des cendres, qui sont les minéraux. Plus le nombre est grand, plus la farine contient de son, riche en minéraux.
 
 La T45, très blanche, sert à la pâtisserie. La T55 sert au pain blanc. La T65 est utilisée pour le pain de tradition française. La T150 est une farine intégrale, qui garde presque tout le grain.
+
+```schema
+type: systeme
+titre: Les trois parties d'un grain de blé
+centre: Grain de blé
+icone: wheat
+parties:
+  - nom: Son
+    role: L'enveloppe.
+  - nom: Germe
+  - nom: Amande
+    role: Seule utilisée pour la farine blanche.
+```
 
 ## À retenir
 
@@ -18895,18 +20555,144 @@ status: planned
 
 ---
 type: article
-title: La securite alimentaire des plantes sauvages comestibles
+title: Les plantes sauvages comestibles et leurs dangers
 slug: la-securite-alimentaire-des-plantes-sauvages-comestibles
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
 summary: >
-  Des precautions essentielles avant toute cueillette destinee a la consommation.
-tags: [securite-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Orties, pissenlits, mûres ou châtaignes se mangent sans risque, à condition d'être identifiés
+  avec certitude. Car des plantes mortelles, comme la ciguë ou le colchique, ressemblent à des
+  plantes comestibles. La règle absolue : en cas de doute, on ne mange pas.
+tags: [securite-alimentaire]
+relatedArticles: [regle-des-trois-priorites-survie, purifier-eau-situation-urgence, la-conservation-par-le-sel-salaisons-et-saumures]
+sources:
+  - title: "Plante comestible"
+    url: "https://fr.wikipedia.org/wiki/Plante_comestible"
+    publisher: "Wikipédia"
+  - title: "Grande ciguë"
+    url: "https://fr.wikipedia.org/wiki/Grande_cigu%C3%AB"
+    publisher: "Wikipédia"
+  - title: "Colchique d'automne"
+    url: "https://fr.wikipedia.org/wiki/Colchique_d%27automne"
+    publisher: "Wikipédia"
+  - title: "Ail des ours"
+    url: "https://fr.wikipedia.org/wiki/Ail_des_ours"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle est la règle absolue pour la cueillette sauvage ?"
+    options:
+      - "Ne jamais manger une plante qu'on n'a pas identifiée avec certitude"
+      - "Goûter un petit morceau pour tester"
+      - "Manger ce que mangent les animaux"
+    answer: 1
+    explanation: >
+      Certaines plantes tuent à faible dose. Le goût ne protège pas, et les animaux supportent des
+      plantes toxiques pour nous.
+  - question: "Avec quelle plante mortelle peut-on confondre l'ail des ours ?"
+    options:
+      - "Avec l'ortie"
+      - "Avec le colchique ou le muguet, dont les feuilles se ressemblent"
+      - "Avec le pissenlit"
+    answer: 2
+    explanation: >
+      L'ail des ours sent fortement l'ail quand on froisse sa feuille. Mais l'odeur reste sur les
+      doigts, et l'on peut se tromper sur la feuille suivante.
+  - question: "Pourquoi faut-il se méfier particulièrement des plantes de la famille de la carotte ?"
+    options:
+      - "Parce qu'elles sont toutes amères"
+      - "Parce qu'elles piquent"
+      - "Parce qu'elle contient à la fois des plantes comestibles et certaines des plantes les plus toxiques, comme la ciguë"
+    answer: 3
+    explanation: >
+      Carotte sauvage, cerfeuil, ciguë et œnanthe se ressemblent beaucoup. Les débutants doivent
+      éviter toute cette famille.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La nature offre de nombreuses plantes comestibles : orties, pissenlits, plantain, mûres, noisettes,
+châtaignes. Mais elle abrite aussi des plantes **mortelles** à petite dose, dont certaines ressemblent à
+s'y méprendre à des plantes comestibles. La cueillette sauvage repose sur une règle absolue :
+**on ne mange jamais une plante qu'on n'a pas identifiée avec certitude**. En situation de survie, une
+intoxication est bien plus dangereuse que la faim.
+
+## Les règles de base
+
+- **Identifier avec certitude**, plante entière : feuilles, tiges, fleurs, odeur, milieu. Un seul
+  critère ne suffit jamais.
+- **Apprendre auprès d'une personne compétente** et avec un bon guide, en commençant par quelques
+  plantes faciles.
+- **Ne pas se fier au goût** : certaines plantes très toxiques n'ont pas mauvais goût. Les « tests de
+  comestibilité » qui consistent à goûter progressivement une plante inconnue sont dangereux.
+- **Ne pas imiter les animaux** : oiseaux et rongeurs mangent des baies toxiques pour l'humain.
+- **Cueillir propre** : loin des routes, des champs traités, des zones où passent les chiens, et en
+  respectant les règles locales de protection des espèces.
+- **Laver et cuire** les plantes cueillies au ras du sol ou dans l'eau, pour éviter les parasites.
+
+## Des plantes faciles et sûres
+
+- **L'ortie** : très nutritive, on cueille les jeunes pousses avec des gants. Cuite ou ébouillantée,
+  elle ne pique plus.
+- **Le pissenlit** : feuilles en salade, fleurs, racines.
+- **Le plantain** : jeunes feuilles cuites.
+- **Les mûres**, **framboises** et **noisettes**.
+- **La châtaigne**, à ne pas confondre avec le **marron d'Inde**, toxique : la bogue de la châtaigne est
+  couverte de piquants fins et serrés, et contient souvent plusieurs fruits aplatis à pointe ; celle du
+  marron d'Inde porte quelques grosses épines et contient un fruit rond et lisse.
+- **Les glands**, comestibles après avoir été longuement trempés et rincés pour éliminer leurs tanins
+  amers.
+
+```schema
+type: comparaison
+titre: Les sosies dangereux
+legende: En cas de doute, on ne mange pas.
+colonnes:
+  - titre: Comestible
+    icone: leaf
+    points:
+      - Ail des ours, qui sent l'ail
+      - Châtaigne, bogue à piquants fins et serrés
+      - Carotte sauvage, réservée aux connaisseurs
+  - titre: Toxique, parfois mortel
+    points:
+      - Muguet et colchique
+      - Marron d'Inde, fruit rond et lisse
+      - Grande ciguë et œnanthe safranée
+```
+
+## Les sosies dangereux
+
+- **L'ail des ours** ressemble au **muguet** et au **colchique**, tous deux toxiques, voire mortels. Il
+  sent fortement l'ail quand on froisse sa feuille, mais l'odeur reste sur les doigts : on vérifie
+  chaque feuille.
+- **La famille de la carotte**, les ombellifères, mêle carotte sauvage, cerfeuil et persil à la
+  **grande ciguë** et à l'**œnanthe safranée**, parmi les plantes les plus toxiques d'Europe. Les
+  débutants doivent éviter toute cette famille.
+- **La belladone**, aux baies noires brillantes, peut être confondue avec des myrtilles par des
+  enfants.
+- **La digitale**, très toxique pour le cœur, ressemble avant floraison à la consoude.
+
+## Les champignons
+
+Les champignons demandent une prudence encore plus grande : l'**amanite phalloïde**, responsable de la
+plupart des décès, peut ressembler à des champignons comestibles. En France, on peut faire vérifier sa
+cueillette par un **pharmacien** ou une association mycologique. En situation de survie, mieux vaut
+s'en passer.
+
+## En cas d'intoxication
+
+Troubles digestifs, malaise, troubles de la vision, palpitations ou somnolence après avoir mangé une
+plante : on appelle immédiatement le **centre antipoison** ou le **15**, en gardant un échantillon de
+la plante. On ne fait pas vomir.
+
+## À retenir
+
+- On ne mange jamais une plante qu'on n'a pas identifiée avec certitude.
+- Le goût et le comportement des animaux ne protègent pas des plantes toxiques.
+- Orties, pissenlits, plantain, mûres et châtaignes sont faciles à reconnaître et sûrs.
+- L'ail des ours a des sosies mortels, et la famille de la carotte contient la ciguë.
+- En cas de symptômes, on appelle le centre antipoison ou le 15 avec un échantillon.
 
 ---
 type: article
@@ -20173,6 +21959,19 @@ La caramélisation est différente : elle chauffe des sucres seuls et ne fait pa
 
 À haute température, la réaction peut former de l'acrylamide, un cancérogène probable ; cuire à plus basse température permet d'en limiter la formation.
 
+```schema
+type: comparaison
+titre: Maillard ou caramel
+colonnes:
+  - titre: Réaction de Maillard
+    points:
+      - Sucres et acides aminés
+      - Pigments bruns et arômes
+  - titre: Caramélisation
+    points:
+      - Sucres seuls
+```
+
 ## À retenir
 
 - La réaction de Maillard unit des sucres réducteurs et des acides aminés.
@@ -20276,6 +22075,17 @@ Les probiotiques sont des micro-organismes vivants dont on attend un bénéfice 
 
 Les recherches sont prometteuses pour certains problèmes de santé, mais il reste beaucoup à apprendre pour savoir si les probiotiques sont utiles et sûrs. Les effets diffèrent selon le type de probiotique : le bénéfice d'une souche ne garantit pas celui d'une autre. Les probiotiques ont une longue histoire d'usage apparemment sûr chez les personnes en bonne santé, mais des infections graves ont été signalées chez des bébés prématurés.
 
+```schema
+type: systeme
+titre: Les aliments fermentés
+centre: Micro-organismes
+parties:
+  - nom: Yaourt
+  - nom: Fromage
+  - nom: Kimchi et choucroute
+  - nom: Kéfir
+```
+
 ## À retenir
 
 - Un aliment fermenté est un aliment transformé par des micro-organismes : bactéries, levures ou moisissures.
@@ -20364,6 +22174,17 @@ Baisser l'activité de l'eau ne tue pas les microbes déjà présents : des cell
 
 Le séchage, la plus ancienne forme de conservation, retire l'eau dont les microbes ont besoin. Le fumage combine déshydratation et composés antimicrobiens déposés par la fumée. Le froid ralentit la croissance des micro-organismes sans les éliminer. La fermentation conserve en produisant des acides qui créent un milieu hostile aux microbes nuisibles.
 
+```schema
+type: etapes
+titre: Comment le sel et le sucre conservent
+elements:
+  - titre: Les microbes ont besoin d'eau
+  - titre: Sel ou sucre
+    texte: Ils attirent l'eau par osmose.
+  - titre: Moins d'eau disponible
+  - titre: Les microbes se développent mal
+```
+
 ## À retenir
 
 - Les micro-organismes ont besoin d'eau pour proliférer : réduire l'eau disponible freine leur croissance.
@@ -20450,6 +22271,18 @@ Choux pour la choucroute, concombres, carottes, betteraves et d'autres légumes 
 ## Dans nos muscles aussi
 
 Les cellules musculaires font aussi de la fermentation lactique lors d'un effort intense, mais c'est un phénomène distinct de la fermentation des aliments.
+
+```schema
+type: etapes
+titre: Du lait au yaourt
+elements:
+  - titre: Lait
+  - titre: Bactéries lactiques
+    texte: Sans oxygène.
+  - titre: Acide lactique
+    texte: Il épaissit le lait et empêche les microbes.
+  - titre: Yaourt
+```
 
 ## À retenir
 
@@ -20551,6 +22384,20 @@ Elle détruit des bactéries dangereuses comme Salmonella, Listeria et E. coli O
 ## Un institut
 
 Louis Pasteur a dirigé l'Institut Pasteur jusqu'à sa mort.
+
+```schema
+type: comparaison
+titre: Les traitements du lait
+colonnes:
+  - titre: Pasteurisation
+    points:
+      - Moins de 100 °C
+      - Élimine les germes dangereux
+  - titre: Stérilisation et UHT
+    points:
+      - Plus de 100 °C
+      - Conservation plus longue
+```
 
 ## À retenir
 
@@ -20654,6 +22501,21 @@ Les pays qui manquent d'eau gèrent leurs exportations agricoles en tenant compt
 
 Le concept d'empreinte eau a été introduit par Arjen Hoekstra au début des années 2000. Une norme internationale, l'ISO 14046, précise comment évaluer l'empreinte eau.
 
+```schema
+type: comparaison
+titre: Les couleurs de l'eau virtuelle
+colonnes:
+  - titre: Eau bleue
+    points:
+      - Rivières et nappes
+  - titre: Eau verte
+    points:
+      - Pluie stockée dans le sol
+  - titre: Eau grise
+    points:
+      - Nécessaire pour diluer la pollution
+```
+
 ## À retenir
 
 - L'eau virtuelle est l'eau nécessaire pour fabriquer un bien ; l'empreinte eau en est le total.
@@ -20743,6 +22605,18 @@ NOVA ne tient pas compte de la composition nutritionnelle des aliments et n'est 
 ## Un débat ouvert
 
 Le débat porte sur ce qui compte le plus : le degré de transformation ou la qualité nutritionnelle de l'aliment.
+
+```schema
+type: comparaison
+titre: Ce que dit la classification NOVA
+colonnes:
+  - titre: Ce qu'elle mesure
+    points:
+      - Le degré de transformation
+  - titre: Ses limites
+    points:
+      - Elle ne regarde pas la composition nutritionnelle
+```
 
 ## À retenir
 
@@ -20846,6 +22720,18 @@ Presque toutes les études étaient transversales : elles ne permettent pas d'é
 
 Chez les enfants et les adolescents, le petit-déjeuner est associé à une meilleure mémoire et à de meilleurs résultats scolaires selon des études. L'avis professionnel actuel est largement favorable au petit-déjeuner, même si sauter ce repas peut valoir mieux que le remplacer par des aliments peu sains.
 
+```schema
+type: comparaison
+titre: Le petit-déjeuner des adolescents
+colonnes:
+  - titre: Ce que montrent les études
+    points:
+      - Ceux qui déjeunent ont souvent des apports plus complets
+  - titre: À nuancer
+    points:
+      - Des liens plutôt que des preuves de cause
+```
+
 ## À retenir
 
 - Le petit-déjeuner est le premier repas de la journée : il rompt le jeûne de la nuit.
@@ -20853,3 +22739,149 @@ Chez les enfants et les adolescents, le petit-déjeuner est associé à une meil
 - Ils avaient aussi des apports plus élevés en fer, calcium, magnésium, potassium, zinc et iode.
 - Presque toutes les études sont transversales : elles n'établissent pas de relation de cause à effet.
 - Prendre un petit-déjeuner semble associé à des apports plus élevés en micronutriments sur la journée, mais la qualité des aliments compte aussi.
+
+---
+type: article
+title: Purifier l'eau en situation d'urgence
+slug: purifier-eau-situation-urgence
+categoryPath: alimentation-et-nutrition/nutriments/eau-et-hydratation
+summary: >
+  Une eau claire peut contenir des microbes qui provoquent de graves diarrhées. Faire bouillir,
+  désinfecter au chlore, exposer au soleil dans une bouteille ou filtrer : ces méthodes simples
+  rendent l'eau sûre, à condition d'en connaître les limites.
+tags: [eau-et-hydratation]
+relatedArticles: [rendre-eau-potable, recuperer-eau-pluie, kit-urgence-72-heures, la-rehydratation-orale-en-cas-de-diarrhee-severe, regle-des-trois-priorites-survie]
+sources:
+  - title: "Make Water Safe During an Emergency"
+    url: "https://www.cdc.gov/healthywater/emergency/pdf/make-water-safe-during-emergency-p.pdf"
+    publisher: "Centers for Disease Control and Prevention"
+  - title: "Solar water disinfection"
+    url: "https://en.wikipedia.org/wiki/Solar_water_disinfection"
+    publisher: "Wikipedia"
+  - title: "Guidelines for drinking-water quality"
+    url: "https://www.who.int/publications/i/item/9789240045064"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Portable water purification"
+    url: "https://en.wikipedia.org/wiki/Portable_water_purification"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de temps faut-il faire bouillir l'eau pour la désinfecter ?"
+    options:
+      - "Laisser bouillir à gros bouillons pendant au moins une minute"
+      - "Il suffit qu'elle soit tiède"
+      - "Une heure entière"
+    answer: 1
+    explanation: >
+      Une minute d'ébullition franche tue bactéries, virus et parasites. En haute altitude, on
+      prolonge à trois minutes.
+  - question: "Que ne fait pas l'ébullition ?"
+    options:
+      - "Tuer les bactéries"
+      - "Éliminer les produits chimiques comme les carburants ou les pesticides"
+      - "Tuer les virus"
+    answer: 2
+    explanation: >
+      L'ébullition détruit les microbes, mais une eau polluée par des produits chimiques reste
+      dangereuse. Il faut alors chercher une autre source.
+  - question: "Comment fonctionne la méthode SODIS ?"
+    options:
+      - "On ajoute du sel"
+      - "On congèle l'eau"
+      - "On expose une bouteille transparente d'eau claire au plein soleil pendant au moins six heures"
+    answer: 3
+    explanation: >
+      Les rayons ultraviolets et la chaleur du soleil détruisent la plupart des microbes. Par temps
+      couvert, il faut deux jours.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une eau de rivière, de puits ou de pluie peut sembler limpide et contenir pourtant des **bactéries**,
+des **virus** ou des **parasites** responsables de diarrhées graves, de choléra ou de typhoïde. En
+situation d'urgence, quatre méthodes simples permettent de la rendre sûre : la **faire bouillir**, la
+**désinfecter au chlore**, l'**exposer au soleil** dans une bouteille transparente, ou la **filtrer**
+avec un filtre adapté. Aucune ne retire les produits chimiques : la première précaution est de choisir
+la source la moins polluée possible.
+
+## Choisir sa source
+
+- Préférer, dans l'ordre : eau en bouteille, eau de pluie recueillie proprement, source qui sort de la
+  roche, puits couvert, eau courante de rivière, et en dernier une eau stagnante.
+- Puiser **en amont** des villages, des pâturages et des routes.
+- Éviter les eaux qui ont une odeur de carburant, une couleur anormale ou une mousse : la chimie ne
+  s'en va pas à l'ébullition.
+
+## Étape 1, clarifier
+
+Une eau trouble protège les microbes du chlore et du soleil. On la laisse **reposer** quelques heures
+pour que les particules tombent au fond, puis on verse doucement l'eau claire, ou on la **filtre** à
+travers un tissu propre plié en plusieurs épaisseurs.
+
+## Étape 2, désinfecter
+
+**Faire bouillir** : c'est la méthode la plus sûre contre tous les microbes. On porte l'eau à
+**ébullition franche pendant au moins une minute**, trois minutes au-dessus d'environ 2 000 mètres
+d'altitude, où l'eau bout à plus basse température. On la laisse refroidir couverte. Pour lui rendre
+du goût, on la verse plusieurs fois d'un récipient à l'autre.
+
+**Le chlore** : l'eau de Javel ménagère **non parfumée** ou les pastilles de désinfection. Les
+autorités sanitaires américaines indiquent environ **deux gouttes par litre**, soit huit gouttes par gallon, pour une
+eau de Javel à 5 à 9 % de chlore actif, deux fois plus si l'eau est trouble ou très froide, puis un temps
+d'attente d'**au moins 30 minutes**. La concentration des produits varie : il faut lire l'étiquette et
+adapter la dose, ou suivre la notice des pastilles. L'eau doit garder une légère odeur de chlore.
+
+**Le soleil, méthode SODIS** : on remplit d'eau **claire** une bouteille transparente en plastique
+PET, de 2 litres au maximum, on la pose couchée au **plein soleil pendant au moins six heures**, ou
+**deux jours** si le ciel est couvert. Les ultraviolets et la chaleur détruisent la plupart des
+microbes. Cette méthode, promue par l'OMS et des instituts de recherche suisses, ne marche pas par
+temps de pluie ni avec une eau trouble.
+
+**Les filtres** : les filtres en céramique ou à membrane retiennent bactéries et parasites. La
+plupart des filtres portables **n'arrêtent pas les virus** ; on complète alors par du chlore ou
+l'ébullition. Les filtres doivent être entretenus selon la notice.
+
+```schema
+type: comparaison
+titre: Quatre façons de désinfecter l'eau
+legende: Aucune ne retire les produits chimiques ni le sel.
+colonnes:
+  - titre: Ébullition
+    icone: fire
+    points:
+      - Une minute à gros bouillons
+      - Trois minutes au-dessus d'environ 2 000 m
+      - Méthode la plus sûre
+  - titre: Chlore
+    icone: droplet
+    points:
+      - Environ 2 gouttes par litre d'une javel à 5 à 9 %
+      - Au moins 30 minutes d'attente
+  - titre: Soleil ou filtre
+    icone: sun
+    points:
+      - SODIS, 6 heures au plein soleil en bouteille PET
+      - Les filtres portables n'arrêtent souvent pas les virus
+```
+
+## Ce que ces méthodes ne font pas
+
+- Elles ne retirent ni les **métaux lourds**, ni les **pesticides**, ni les **carburants**.
+- Elles ne dessalent pas l'eau de mer. Seule la **distillation**, recueillir la vapeur d'eau bouillie
+  qui se condense sur une surface froide, produit de l'eau douce à partir d'eau salée ou polluée, en
+  petite quantité.
+
+## Stocker l'eau traitée
+
+On garde l'eau dans des récipients **propres et fermés**, à l'abri de la lumière, et l'on puise sans y
+tremper les mains ou un gobelet sale. Une eau mal conservée se recontamine.
+
+## À retenir
+
+- Une eau limpide peut contenir des microbes dangereux.
+- On clarifie d'abord une eau trouble, par décantation ou filtration à travers un tissu.
+- L'ébullition franche pendant une minute est la méthode la plus sûre.
+- Le chlore, environ deux gouttes par litre d'une javel à 5 à 9 % et 30 minutes d'attente, et la méthode SODIS sont des alternatives.
+- Aucune de ces méthodes n'élimine les produits chimiques ni le sel.
+

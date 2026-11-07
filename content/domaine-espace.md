@@ -295,8 +295,22 @@ plusieurs observations, dont la répartition des astéroïdes.
 - Jupiter contient plus de masse que toutes les autres planètes réunies.
 - Pluton n'est plus une planète car elle n'a pas nettoyé son orbite.
 
-[Emplacement image : les huit planètes à l'échelle et leurs distances relatives, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux familles de planètes
+legende: La limite des glaces explique cette séparation.
+colonnes:
+  - titre: Rocheuses
+    icone: globe
+    points:
+      - Mercure, Vénus, Terre, Mars
+      - Près du Soleil
+  - titre: Géantes
+    icone: planet
+    points:
+      - Jupiter, Saturne, Uranus, Neptune
+      - Jupiter pèse plus que toutes les autres réunies
+```
 
 ---
 
@@ -403,8 +417,17 @@ tandis que la rotation de la Terre ralentit très légèrement.
 - La rotation synchrone fait qu'on voit toujours la même face.
 - La Lune stabilise l'axe de rotation terrestre et s'éloigne de quelques centimètres par an.
 
-[Emplacement image : formation des marées et position des bourrelets océaniques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La naissance de la Lune
+elements:
+  - titre: Collision géante
+    texte: Un corps de la taille de Mars percute la jeune Terre.
+  - titre: Débris en orbite
+  - titre: La Lune se forme
+  - titre: Rotation synchrone
+    texte: Elle nous montre toujours la même face.
+```
 
 ---
 
@@ -518,8 +541,17 @@ qu'il est possible de dévier légèrement la trajectoire d'un astéroïde en le
 - Le météore est la traînée lumineuse, la météorite le fragment tombé au sol.
 - Une mission a démontré la possibilité de dévier un astéroïde.
 
-[Emplacement image : structure d'une comète et orientation de ses queues, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Météore ou météorite
+colonnes:
+  - titre: Météore
+    points:
+      - La traînée lumineuse dans le ciel
+  - titre: Météorite
+    points:
+      - Le fragment qui atteint le sol
+```
 
 ---
 
@@ -625,8 +657,21 @@ sang : tous ont été fabriqués dans des étoiles mortes avant la naissance du 
 - Une étoile comme le Soleil finira en naine blanche, une étoile massive en supernova.
 - Les éléments dont nous sommes faits ont été fabriqués dans des étoiles.
 
-[Emplacement image : cycle de vie d'une étoile selon sa masse initiale, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La fin d'une étoile selon sa masse
+legende: Plus une étoile est massive, plus sa vie est courte.
+colonnes:
+  - titre: Comme le Soleil
+    icone: sun
+    points:
+      - Finit en naine blanche
+  - titre: Très massive
+    icone: star
+    points:
+      - Explose en supernova
+      - Laisse une étoile à neutrons ou un trou noir
+```
 
 ---
 
@@ -733,8 +778,17 @@ partie des éléments lourds de l'Univers, dont l'or.
 - La déformation mesurée est inférieure à la taille d'un proton sur plusieurs kilomètres.
 - Elles révèlent des objets qui n'émettent aucune lumière.
 
-[Emplacement image : principe d'un détecteur interférométrique d'ondes gravitationnelles, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Les ondes gravitationnelles
+evenements:
+  - date: 1916
+    titre: Prédiction d'Einstein
+  - date: 2015
+    titre: Première détection
+  - date: Mai 2026
+    titre: 390 événements au catalogue
+```
 
 ---
 
@@ -841,8 +895,18 @@ quantique, ce que personne n'a encore réussi.
 - Trous noirs stellaires et supermassifs ont des origines différentes.
 - Ce qui se passe au centre dépasse les théories actuelles.
 
-[Emplacement image : structure d'un trou noir avec horizon et disque d'accrétion, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux familles de trous noirs
+colonnes:
+  - titre: Stellaires
+    points:
+      - Nés de l'effondrement d'étoiles massives
+  - titre: Supermassifs
+    points:
+      - Au centre des galaxies
+      - Origine encore discutée
+```
 
 ---
 
@@ -942,8 +1006,17 @@ l'infrarouge traverse.
 - Un seul pare-soleil protège des trois sources de chaleur.
 - La face froide est maintenue autour de moins 233 degrés.
 
-[Emplacement image : le télescope Webb déplié avec son pare-soleil, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le télescope James Webb
+chiffres:
+  - valeur: 6,5 m
+    texte: de miroir, en 18 segments plaqués or
+  - valeur: 1,5 million de km
+    texte: de la Terre, au point L2
+  - valeur: 1 pare-soleil
+    texte: contre trois sources de chaleur
+```
 
 ---
 
@@ -1053,8 +1126,17 @@ traversent presque tout, et les ondes gravitationnelles.
 - L'expansion de l'Univers étire la lumière ancienne vers l'infrarouge.
 - L'atmosphère absorbe et émet de l'infrarouge, d'où l'intérêt d'observer depuis l'espace.
 
-[Emplacement image : le spectre électromagnétique et ce que chaque gamme révèle, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que montre l'infrarouge
+centre: Infrarouge
+icone: telescope
+parties:
+  - nom: À travers la poussière
+  - nom: Les objets froids
+  - nom: Les galaxies lointaines
+    role: Leur lumière est étirée vers le rouge par l'expansion.
+```
 
 ---
 
@@ -1158,8 +1240,19 @@ radiotélescopes répartis sur toute la planète : un télescope virtuel de la t
 - L'optique adaptative corrige la turbulence atmosphérique en temps réel.
 - L'interférométrie combine plusieurs instruments pour gagner en résolution.
 
-[Emplacement image : principe de l'optique adaptative, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: barres
+titre: Lumière captée selon le diamètre du miroir
+legende: Doubler le diamètre quadruple la lumière captée.
+unite: ×
+valeurs:
+  - label: Diamètre de référence
+    valeur: 1
+  - label: Diamètre doublé
+    valeur: 4
+  - label: Diamètre triplé
+    valeur: 9
+```
 
 ---
 
@@ -1259,8 +1352,17 @@ La Lune servirait alors de terrain d'apprentissage pour des missions plus lointa
 - La mission valide surtout le vaisseau et la rentrée atmosphérique à grande vitesse.
 - Le programme vise une présence durable, notamment près des pôles lunaires.
 
-[Emplacement image : trajectoire d'Artemis II autour de la Lune, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La mission Artemis II
+chiffres:
+  - valeur: 4
+    texte: astronautes
+  - valeur: 10 jours
+    texte: environ, avec un survol de la Lune
+  - valeur: "> 50 ans"
+    texte: depuis le dernier vol habité au-delà de l'orbite terrestre
+```
 
 ---
 
@@ -1373,8 +1475,15 @@ conséquence.
 - La vitesse orbitale basse avoisine 28 000 kilomètres par heure.
 - L'essentiel de l'énergie sert à la vitesse horizontale, pas à l'altitude.
 
-[Emplacement image : expérience de pensée du boulet de canon de Newton, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères de l'orbite basse
+chiffres:
+  - valeur: 90 %
+    texte: de la gravité du sol à 400 km d'altitude
+  - valeur: 28 000 km/h
+    texte: environ, la vitesse nécessaire
+```
 
 ---
 
@@ -1657,8 +1766,19 @@ les cycles de la Lune.
 - Le calendrier islamique et le Nouvel An lunaire asiatique restent basés sur les cycles de la
   Lune aujourd'hui.
 
-[Emplacement image : les différentes phases de la Lune sur un mois, du croissant à la pleine
-lune, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Année lunaire ou solaire
+colonnes:
+  - titre: Lunaire
+    icone: planet
+    points:
+      - Un cycle de lune d'environ 29,5 jours
+      - Douze cycles font une année plus courte
+  - titre: Lunisolaire
+    points:
+      - Ajoute des mois pour rattraper le Soleil
+```
 
 ---
 
@@ -1905,8 +2025,19 @@ restent néanmoins fiables et gratuites par ciel dégagé.
 - La position des constellations au fil de la nuit permet d'estimer approximativement l'heure.
 - Un ciel couvert de nuages rend ces méthodes de repérage inutilisables.
 
-[Emplacement image : ciel nocturne montrant la Grande Ourse pointant vers l'étoile polaire,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: S'orienter par les étoiles
+colonnes:
+  - titre: Hémisphère Nord
+    icone: star
+    points:
+      - L'étoile Polaire indique le nord
+      - La Grande Ourse aide à la trouver
+  - titre: Hémisphère Sud
+    points:
+      - La Croix du Sud indique le sud
+```
 
 ---
 
@@ -2616,8 +2747,19 @@ conditions.
 - Une lunette artisanale reste suffisante pour observer la Lune, Jupiter et Saturne dans de
   bonnes conditions.
 
-[Emplacement image : lunette astronomique artisanale faite de deux tubes de carton avec des
-lentilles fixées à chaque extrémité, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Une lunette de type Galilée
+centre: Lunette
+icone: telescope
+parties:
+  - nom: Objectif
+    role: La lentille avant.
+  - nom: Oculaire
+    role: La lentille de l'œil.
+  - nom: Deux tubes coulissants
+    role: Pour la mise au point.
+```
 
 ---
 
@@ -3413,6 +3555,21 @@ En 1859, lors de la plus forte tempête connue, appelée événement de Carringt
 
 Aujourd'hui, les tempêtes peuvent aussi abîmer les satellites et brouiller les signaux du GPS. Les scientifiques les classent sur une échelle de G1, la plus faible, à G5, la plus forte.
 
+```schema
+type: etapes
+titre: D'une éruption solaire aux aurores
+elements:
+  - titre: Éjection
+    texte: Le Soleil lance un nuage de particules.
+    icone: sun
+  - titre: Voyage
+    texte: Quelques jours jusqu'à la Terre.
+  - titre: Bouclier secoué
+    texte: Le champ magnétique est perturbé.
+  - titre: Aurores et pannes
+    texte: Jusque loin des pôles.
+```
+
 ## À retenir
 
 - Une tempête géomagnétique est causée surtout par un nuage de particules éjecté par le Soleil.
@@ -3558,18 +3715,139 @@ status: planned
 
 ---
 type: article
-title: L'etoile polaire et son role dans l'orientation
+title: L'étoile Polaire et l'orientation sans boussole
 slug: l-etoile-polaire-et-son-role-dans-l-orientation
 categoryPath: espace-et-astronomie/astrophysique/etoiles
 summary: >
-  Pourquoi cette etoile particuliere indique de maniere fiable le nord.
-tags: [etoiles, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  L'étoile Polaire indique le nord à moins d'un degré près. On la trouve grâce à la Grande Ourse.
+  Le jour, le Soleil et l'ombre d'un bâton donnent aussi les directions. Dans l'hémisphère Sud, la
+  Croix du Sud prend le relais.
+tags: [etoiles]
+relatedArticles: [lire-une-carte-topographique-principes-de-base, regle-des-trois-priorites-survie]
+sources:
+  - title: "Étoile polaire"
+    url: "https://fr.wikipedia.org/wiki/%C3%89toile_polaire"
+    publisher: "Wikipédia"
+  - title: "Polaris"
+    url: "https://en.wikipedia.org/wiki/Polaris"
+    publisher: "Wikipedia"
+  - title: "Croix du Sud"
+    url: "https://fr.wikipedia.org/wiki/Croix_du_Sud"
+    publisher: "Wikipédia"
+  - title: "Grande Ourse"
+    url: "https://fr.wikipedia.org/wiki/Grande_Ourse"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi l'étoile Polaire semble-t-elle immobile toute la nuit ?"
+    options:
+      - "Parce qu'elle se trouve presque exactement dans l'axe de rotation de la Terre, au-dessus du pôle Nord"
+      - "Parce qu'elle est la plus brillante"
+      - "Parce qu'elle est très proche de nous"
+    answer: 1
+    explanation: >
+      Toutes les étoiles semblent tourner autour d'elle au cours de la nuit, car la Terre tourne
+      sur un axe qui pointe vers elle.
+  - question: "Comment trouve-t-on l'étoile Polaire à partir de la Grande Ourse ?"
+    options:
+      - "En suivant le manche de la casserole"
+      - "En prolongeant environ cinq fois la distance entre les deux étoiles du bord de la casserole"
+      - "En regardant plein sud"
+    answer: 2
+    explanation: >
+      Les deux étoiles du bord extérieur de la casserole pointent vers la Polaire, une étoile
+      moyennement brillante.
+  - question: "Que nous apprend la hauteur de l'étoile Polaire au-dessus de l'horizon ?"
+    options:
+      - "L'heure exacte"
+      - "La date"
+      - "Notre latitude, à peu près"
+    answer: 3
+    explanation: >
+      À Paris, vers 49° de latitude nord, la Polaire est à environ 49° au-dessus de l'horizon. Au
+      pôle Nord, elle est au zénith ; à l'équateur, sur l'horizon.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Toute la nuit, les étoiles semblent tourner lentement dans le ciel. L'une d'elles reste presque
+immobile : l'**étoile Polaire**. Elle se trouve, à moins d'un degré près, au-dessus du pôle Nord de la
+Terre. Se tourner vers elle, c'est regarder **vers le nord**. On la trouve facilement grâce à la
+**Grande Ourse**. Le jour, le **Soleil** et l'**ombre d'un bâton** donnent aussi les directions. Dans
+l'hémisphère Sud, où la Polaire est invisible, on utilise la **Croix du Sud**.
+
+## Pourquoi la Polaire indique le nord
+
+La Terre tourne sur elle-même autour d'un axe qui passe par les pôles. Vu de la Terre, le ciel semble
+tourner autour du prolongement de cet axe. Au nord, ce point est occupé, par chance, par une étoile
+assez brillante : la Polaire. Elle est le point fixe autour duquel tournent toutes les autres.
+
+Cette situation n'est pas éternelle : l'axe de la Terre décrit lentement un cercle en environ 26 000
+ans. Dans quelques milliers d'années, une autre étoile jouera ce rôle.
+
+## La trouver grâce à la Grande Ourse
+
+1. Repérer la **Grande Ourse**, sept étoiles brillantes en forme de **casserole**, visible toute
+   l'année depuis la France.
+2. Prendre les **deux étoiles du bord** de la casserole, opposées au manche.
+3. Prolonger la ligne qui les relie, vers le haut de la casserole, d'environ **cinq fois** leur
+   écartement.
+4. On tombe sur une étoile moyennement brillante, isolée : la **Polaire**. Elle est aussi au bout du
+   manche de la **Petite Ourse**, plus pâle.
+
+```schema
+type: etapes
+titre: Trouver l'étoile Polaire
+elements:
+  - titre: Repérer la Grande Ourse
+    texte: Sept étoiles en forme de casserole.
+    icone: star
+  - titre: Prendre les deux étoiles du bord
+    texte: Celles opposées au manche.
+  - titre: Prolonger cinq fois
+    texte: La distance qui les sépare, vers le haut.
+  - titre: Trouver la Polaire
+    texte: Face à elle, on regarde le nord.
+```
+
+Face à la Polaire, on regarde vers le nord : le sud est dans le dos, l'est à droite, l'ouest à gauche.
+
+## Une indication de latitude
+
+La hauteur de la Polaire au-dessus de l'horizon est à peu près égale à la **latitude** de l'observateur.
+À Paris, vers 49° nord, elle est à environ 49° de hauteur. Au pôle Nord, elle serait juste au-dessus de
+la tête ; à l'équateur, sur l'horizon. Les navigateurs s'en sont servis pendant des siècles.
+
+## Dans l'hémisphère Sud
+
+La Polaire n'y est pas visible. On utilise la **Croix du Sud**, petite constellation de quatre étoiles
+brillantes. En prolongeant son grand axe d'environ **quatre fois et demie** sa longueur, on arrive près
+du pôle Sud céleste, qui n'est marqué par aucune étoile brillante. En dessous, sur l'horizon, se trouve
+le sud.
+
+## Le jour, avec le Soleil
+
+- **Le Soleil** se lève à peu près à l'est et se couche à peu près à l'ouest, avec un fort décalage
+  selon la saison. Dans l'hémisphère Nord, hors des tropiques, il est **plein sud** vers le milieu de la
+  journée solaire, vers 13 h en hiver et 14 h en été à l'heure légale française.
+- **La méthode du bâton** : on plante un bâton droit, on marque l'extrémité de son ombre, on attend
+  15 à 20 minutes et on marque la nouvelle extrémité. La ligne qui va de la première marque à la seconde
+  pointe à peu près vers **l'est**.
+
+## Les indices peu fiables
+
+La mousse sur les arbres, la forme des fourmilières ou l'orientation des églises sont des indices
+trompeurs : ils dépendent de l'humidité, du relief et des traditions locales. Mieux vaut s'en tenir au
+ciel, à une carte et à une boussole.
+
+## À retenir
+
+- L'étoile Polaire se trouve, à moins d'un degré près, au-dessus du pôle Nord : elle indique le nord.
+- On la trouve en prolongeant d'environ cinq fois les deux étoiles du bord de la Grande Ourse.
+- Sa hauteur au-dessus de l'horizon donne approximativement la latitude.
+- Dans l'hémisphère Sud, la Croix du Sud indique la direction du sud.
+- Le jour, la méthode de l'ombre d'un bâton donne l'axe est-ouest.
 
 ---
 type: article
@@ -4381,6 +4659,21 @@ En théorie, trois distances suffisent à fixer une position ; en pratique, un q
 ## Quelle précision
 
 Un récepteur grand public se situe en général à quelques mètres près ; les récepteurs les plus évolués descendent à quelques centimètres. Pendant longtemps, le signal civil a été volontairement dégradé ; l'accès sans restriction a ensuite été autorisé.
+
+```schema
+type: etapes
+titre: Comment le GPS calcule votre position
+elements:
+  - titre: Horloges atomiques
+    texte: Chaque satellite émet l'heure d'émission.
+    icone: satellite
+  - titre: Temps de voyage
+    texte: Le récepteur le mesure.
+  - titre: Distance
+    texte: Temps multiplié par la vitesse de la lumière.
+  - titre: Quatre satellites
+    texte: Pour la position et la correction de l'horloge.
+```
 
 ## À retenir
 
@@ -5322,6 +5615,19 @@ Un autre appareil, le réacteur de Sabatier, réutilise une partie de ce dioxyde
 
 Ce recyclage sera indispensable pour les futurs voyages vers la Lune ou Mars, trop loin pour être ravitaillés souvent.
 
+```schema
+type: cycle
+titre: L'eau recyclée de la station spatiale
+legende: Depuis 2023, la station récupère 98 % de son eau.
+elements:
+  - titre: Urine, sueur, haleine
+  - titre: Recyclage
+  - titre: Eau potable
+    icone: droplet
+  - titre: Oxygène
+    texte: Fabriqué en coupant des molécules d'eau.
+```
+
 ## À retenir
 
 - Dans la Station spatiale, l'urine, la sueur et l'humidité de l'haleine sont recyclées en eau potable.
@@ -5462,6 +5768,21 @@ En revenant, l'astronaute doit tout réapprendre. Il a du mal à garder l'équil
 Sans pesanteur, la colonne vertébrale n'est plus tassée. En un mois, un astronaute grandit d'environ 2,5 centimètres. Il retrouve sa taille habituelle après son retour sur Terre.
 
 La vue peut aussi changer. Environ la moitié des astronautes de longues missions disent avoir eu des problèmes de vision de près ou de loin. Ces effets sont étudiés de près pour préparer les futurs voyages vers Mars.
+
+```schema
+type: systeme
+titre: Le corps en apesanteur
+centre: Astronaute
+parties:
+  - nom: Os
+    role: 1 à 1,5 % de densité perdue par mois.
+  - nom: Muscles
+    role: Deux heures de sport par jour au moins.
+  - nom: Sang
+    role: Il monte vers la tête.
+  - nom: Équilibre
+    role: Il se dérègle.
+```
 
 ## À retenir
 
@@ -6448,6 +6769,16 @@ Les bébés tortues marines naissent sur la plage et se dirigent vers la lueur l
 
 On peut diriger la lumière vers le sol plutôt que vers le ciel. On peut aussi éteindre les lumières inutiles et choisir des éclairages moins forts. En France, un texte de 2018 limite l'éclairage nocturne des bâtiments.
 
+```schema
+type: chiffres
+titre: La pollution lumineuse
+chiffres:
+  - valeur: 1 tiers
+    texte: de l'humanité ne voit plus la Voie lactée, selon une étude de 2016
+  - valeur: 60 %
+    texte: des Européens dans ce cas
+```
+
 ## À retenir
 
 - La lumière artificielle se disperse dans l'air et forme un halo qui cache les étoiles faibles.
@@ -6863,6 +7194,16 @@ Quand la Lune est un fin croissant, on peut voir faiblement le reste de son disq
 
 La Lune montre toujours la même face à la Terre. C'est pourquoi on voit, d'un mois à l'autre, à peu près les mêmes taches sombres à chaque phase.
 
+```schema
+type: cycle
+titre: Les phases de la Lune
+elements:
+  - titre: Nouvelle Lune
+  - titre: Premier quartier
+  - titre: Pleine Lune
+  - titre: Dernier quartier
+```
+
 ## À retenir
 
 - La Lune ne produit pas de lumière : elle est éclairée par le Soleil.
@@ -7008,6 +7349,18 @@ Le Soleil agit aussi, mais il est bien plus loin : sa force de marée est plus f
 ## Pourquoi la marée varie d'un lieu à l'autre
 
 L'amplitude varie selon la forme des côtes : les baies en entonnoir amplifient la marée, alors que les mers fermées comme la Méditerranée en ont très peu.
+
+```schema
+type: etapes
+titre: Deux marées par jour
+elements:
+  - titre: La Lune attire l'eau
+  - titre: Deux renflements
+    texte: Côté Lune et côté opposé.
+    icone: wave
+  - titre: La Terre tourne
+    texte: Chaque lieu traverse les deux renflements.
+```
 
 ## À retenir
 
@@ -8274,6 +8627,18 @@ Avant ces découvertes, Albert Einstein pensait que l'Univers était immobile. I
 ## Une expansion qui accélère
 
 En 1998, deux équipes de chercheurs ont fait une découverte inattendue : l'expansion accélère. Pour l'expliquer, les scientifiques parlent d'une « énergie sombre », dont on ignore encore la nature. Des mesures publiées en 2024 et 2025 suggèrent que cette accélération pourrait varier dans le temps.
+
+```schema
+type: etapes
+titre: La preuve de l'expansion
+elements:
+  - titre: Lumière décalée vers le rouge
+    texte: Les galaxies s'éloignent.
+  - titre: Loi de Hubble-Lemaître
+    texte: Plus elles sont loin, plus elles s'éloignent vite.
+  - titre: L'espace gonfle
+  - titre: L'expansion accélère
+```
 
 ## À retenir
 
@@ -9786,6 +10151,21 @@ Les sondes Voyager n'ont pas de panneaux solaires. Elles tirent leur électricit
 Chaque sonde emporte aussi un disque de cuivre doré de 30 centimètres. Il contient des salutations en 55 langues, 90 minutes de musique et 115 images de la Terre. C'est un message pour d'éventuels habitants d'autres mondes.
 
 En 1990, Voyager 1 s'est retournée pour photographier les planètes. Sur une image, la Terre n'est qu'un minuscule point bleu pâle.
+
+```schema
+type: frise
+titre: Le voyage des sondes Voyager
+evenements:
+  - date: 1977
+    titre: Lancement
+    texte: Vers les planètes géantes.
+  - date: Ensuite
+    titre: Uranus et Neptune
+    texte: Visitées seulement par Voyager 2.
+  - date: Plus tard
+    titre: Sortie de l'héliosphère
+    texte: La bulle créée par le vent solaire.
+```
 
 ## À retenir
 
@@ -11463,6 +11843,18 @@ Beaucoup de comètes viennent du nuage d'Oort, une région lointaine aux confins
 
 La comète de Halley revient environ tous les 76 ans. Son dernier passage date de 1986. Le prochain est attendu en 2061.
 
+```schema
+type: etapes
+titre: Une comète près du Soleil
+elements:
+  - titre: Noyau
+    texte: Glace et poussières.
+  - titre: Chevelure
+    texte: La glace se change en gaz.
+  - titre: Deux queues
+    texte: Poussées par le Soleil, à l'opposé de lui.
+```
+
 ## À retenir
 
 - Le noyau d'une comète est un mélange de glace et de poussières.
@@ -11860,6 +12252,16 @@ Mais elle tourne très lentement sur elle-même, en 243 jours terrestres, et dan
 
 En 1970, la sonde soviétique Venera 7 a été la première à se poser en douceur sur une autre planète.
 
+```schema
+type: chiffres
+titre: Vénus
+chiffres:
+  - valeur: 460 °C
+    texte: au sol, environ
+  - valeur: 96,5 %
+    texte: de dioxyde de carbone dans l'atmosphère
+```
+
 ## À retenir
 
 - Vénus est la planète la plus chaude du Système solaire, avec environ 460 °C au sol.
@@ -11985,6 +12387,16 @@ Les scientifiques ne sont pas encore d'accord. Une idée est qu'une lune se sera
 Leur âge fait aussi débat. Certaines études leur donnent seulement 100 à 400 millions d'années. D'autres, publiées en 2024, remettent en cause ce résultat.
 
 Les anneaux ne sont pas éternels. Des morceaux de glace tombent peu à peu dans l'atmosphère de Saturne. Selon une estimation, ils pourraient disparaître dans environ 300 millions d'années.
+
+```schema
+type: chiffres
+titre: Les anneaux de Saturne
+chiffres:
+  - valeur: Milliards
+    texte: de morceaux de glace et de roche en orbite
+  - valeur: 95 à 99 %
+    texte: de glace d'eau
+```
 
 ## À retenir
 
@@ -12252,7 +12664,19 @@ status: published
 
 Un cadran solaire donne l'heure grâce à l'ombre d'un bâton, le style. Pour que le cadran soit précis, le style doit être parallèle à l'axe de rotation de la Terre : son inclinaison est égale à la latitude du lieu. Les plus anciennes horloges à ombre connues apparaissent en Égypte vers 1500 av. J.-C.
 
-[Emplacement image : curseur interactif « Inclinez le style selon votre latitude ». L'utilisateur fait glisser la latitude de 0° à 90° et voit l'inclinaison du style suivre la même valeur : 0° à l'équateur, 90° au pôle. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Lire l'heure avec une ombre
+elements:
+  - titre: Planter un style
+    texte: Incliné selon la latitude.
+  - titre: Observer l'ombre
+    icone: sun
+  - titre: Midi solaire
+    texte: L'ombre est la plus courte et pointe vers le nord.
+  - titre: Corriger
+    texte: Pour retrouver l'heure légale.
+```
 
 ## L'ombre à midi
 
@@ -12363,6 +12787,20 @@ La gravité de la Lune produit la force de marée, une force qui vient des diff�
 
 Quand la Terre, la Lune et le Soleil sont alignés, à la pleine lune et à la nouvelle lune, les effets se renforcent : ce sont les marées de vives-eaux. Quand ils s'opposent, ce sont les marées de mortes-eaux, inhabituellement faibles. La baie de Fundy est souvent citée comme ayant les plus hautes marées du monde.
 
+```schema
+type: comparaison
+titre: Vives-eaux et mortes-eaux
+colonnes:
+  - titre: Vives-eaux
+    points:
+      - Lune et Soleil alignés
+      - Marées de grande amplitude
+  - titre: Mortes-eaux
+    points:
+      - Lune et Soleil à angle droit
+      - Marées faibles
+```
+
 ## À retenir
 
 - La gravité de la Lune produit la force de marée ; le Soleil y contribue, plus faiblement.
@@ -12444,6 +12882,19 @@ Une fusée décolle presque à la verticale, puis incline progressivement sa tra
 ## L'orbite basse
 
 L'orbite terrestre basse commence à la ligne de Kármán, à la limite de l'espace, et s'étend sur quelques milliers de kilomètres. Un tour complet en orbite basse dure environ 90 minutes. L'orbite basse accueille la Station spatiale internationale, des satellites d'observation et des constellations de télécommunications. La plupart des objets suivis en orbite basse sont des débris, pas des satellites en service.
+
+```schema
+type: etapes
+titre: Atteindre l'orbite
+elements:
+  - titre: Monter
+    texte: Traverser l'atmosphère.
+    icone: rocket
+  - titre: S'incliner
+  - titre: Accélérer à l'horizontale
+    texte: C'est l'essentiel de l'effort.
+  - titre: Tomber sans toucher le sol
+```
 
 ## À retenir
 
@@ -12529,6 +12980,20 @@ Une protoétoile est une étoile très jeune qui accumule encore de la matière 
 ## L'allumage
 
 Quand le cœur devient assez chaud, l'hydrogène commence à fusionner : la protoétoile devient une étoile de la séquence principale. Il faut une masse minimale pour allumer la fusion de l'hydrogène ; en dessous, l'objet devient une naine brune.
+
+```schema
+type: etapes
+titre: La naissance d'une étoile
+elements:
+  - titre: Nuage moléculaire
+    texte: Gaz et poussière.
+  - titre: Effondrement
+    texte: Sous l'effet de la gravité.
+  - titre: Protoétoile
+  - titre: Allumage
+    texte: La fusion démarre au cœur.
+    icone: star
+```
 
 ## À retenir
 
@@ -12617,6 +13082,21 @@ Une éclipse de Soleil peut être totale, annulaire ou partielle. Dans une écli
 
 Regarder le Soleil pendant une éclipse est aussi dangereux qu'en temps normal, sauf pendant la brève totalité : il faut des filtres solaires certifiés ou une projection indirecte. Une éclipse de Lune se regarde sans protection, et elle est visible de toute la face nocturne de la Terre. Une éclipse totale de Soleil se produit quelque part sur Terre assez souvent, mais très rarement au même endroit.
 
+```schema
+type: comparaison
+titre: Deux éclipses
+colonnes:
+  - titre: Éclipse de Soleil
+    icone: sun
+    points:
+      - La Lune passe entre la Terre et le Soleil
+      - À la nouvelle Lune
+  - titre: Éclipse de Lune
+    points:
+      - La Terre passe entre le Soleil et la Lune
+      - À la pleine Lune
+```
+
 ## À retenir
 
 - Une éclipse de Soleil a lieu quand la Lune passe entre la Terre et le Soleil, à la nouvelle Lune.
@@ -12701,6 +13181,16 @@ Sans pesanteur, les liquides du corps se déplacent vers la tête, ce qui donne 
 
 Pour limiter ces effets, les astronautes de la station font de longues séances d'exercice chaque jour, avec un tapis de course et des appareils de musculation. Au retour sur Terre, les astronautes récupèrent en général la densité osseuse perdue.
 
+```schema
+type: etapes
+titre: Pourquoi on flotte en orbite
+elements:
+  - titre: La gravité est toujours là
+  - titre: Chute libre permanente
+    texte: Avec le vaisseau.
+  - titre: Sensation d'apesanteur
+```
+
 ## À retenir
 
 - En orbite, les astronautes sont en chute libre permanente avec leur vaisseau : d'où l'impression d'apesanteur.
@@ -12783,6 +13273,21 @@ Dans le Système solaire, la zone habitable englobe la Terre et Mars, mais pas V
 ## Habitable ne veut pas dire habité
 
 Être dans la zone habitable ne garantit pas que la planète soit habitable : l'atmosphère, la surface et la protection magnétique comptent aussi. Les planètes proches d'une naine rouge reçoivent des rayons X et ultraviolets très intenses, qui pourraient stériliser une vie naissante. Le concept suppose que la vie ressemble à celle de la Terre, ce qui laisse de côté d'autres possibilités, comme des océans sous la glace d'Europe.
+
+```schema
+type: comparaison
+titre: La zone habitable
+colonnes:
+  - titre: Trop près
+    points:
+      - L'eau s'évapore
+  - titre: Zone habitable
+    points:
+      - L'eau peut rester liquide en surface
+  - titre: Trop loin
+    points:
+      - L'eau gèle
+```
 
 ## À retenir
 
@@ -12868,6 +13373,18 @@ Un amas de galaxies réunit de quelques centaines à plusieurs milliers de galax
 
 En mesurant la déformation des images, on reconstitue la masse de l'amas, y compris la matière noire. Les retards entre les images multiples d'un même objet permettent de déterminer des paramètres cosmologiques, comme la constante de Hubble. L'observation de la courbure de la lumière d'une étoile lors d'une éclipse de Soleil a confirmé la prédiction d'Einstein. La première lentille gravitationnelle découverte est un quasar double. La microlentille permet aussi de détecter des exoplanètes.
 
+```schema
+type: etapes
+titre: La lentille gravitationnelle
+elements:
+  - titre: Galaxie lointaine
+  - titre: Amas massif au milieu
+    texte: Il courbe la lumière.
+  - titre: Image amplifiée
+    texte: Vue depuis la Terre.
+    icone: telescope
+```
+
 ## À retenir
 
 - Une lentille gravitationnelle est un objet très massif, comme un amas de galaxies, qui courbe la lumière des objets situés derrière lui.
@@ -12947,6 +13464,17 @@ Le télescope spatial James Webb est un observatoire infrarouge, fruit d'une col
 ## La méthode du transit
 
 Quand une planète passe devant son étoile, la lumière de l'étoile traverse la haute atmosphère de la planète. En analysant finement le spectre, on repère les molécules qui absorbent certaines couleurs : eau, dioxyde de carbone, méthane. Webb a ainsi permis d'étudier l'atmosphère de l'exoplanète WASP-39 b, où du dioxyde de carbone a été détecté. Des nuages épais peuvent masquer les signaux, et les petites planètes, qui bloquent moins de lumière, donnent des signaux plus faibles.
+
+```schema
+type: etapes
+titre: La méthode du transit
+elements:
+  - titre: La planète passe devant son étoile
+  - titre: La lumière traverse son atmosphère
+  - titre: Certaines couleurs sont absorbées
+  - titre: Webb identifie les molécules
+    icone: telescope
+```
 
 ## À retenir
 
@@ -13029,6 +13557,18 @@ Elle repère les petites baisses de luminosité d'une étoile quand une planète
 ## Où et comment ?
 
 Elle sera placée au point de Lagrange L2, pour observer en continu avec une bonne stabilité thermique. Elle doit être lancée par une fusée Ariane 6 depuis Kourou, en Guyane. Elle vise la découverte de milliers d'exoplanètes, dont beaucoup de taille terrestre.
+
+```schema
+type: systeme
+titre: La mission PLATO
+centre: PLATO
+icone: satellite
+parties:
+  - nom: Agence
+    role: Mission de l'ESA.
+  - nom: Cible
+    role: Des planètes rocheuses en zone habitable.
+```
 
 ## À retenir
 
@@ -13116,6 +13656,17 @@ Si une planète tourne autour de l'étoile-lentille, elle provoque une petite ir
 ## Résultats et suite
 
 Des études par microlentille ont montré que les systèmes planétaires sont courants dans notre galaxie. Le télescope spatial Roman de la NASA doit mener une grande enquête par microlentille pour trouver des exoplanètes.
+
+```schema
+type: etapes
+titre: La microlentille
+elements:
+  - titre: Étoile d'arrière-plan
+  - titre: Étoile de premier plan
+    texte: Sa gravité grossit la lumière.
+  - titre: Courbe de lumière
+    texte: Une planète y laisse un petit pic.
+```
 
 ## À retenir
 
@@ -13208,6 +13759,18 @@ Les Géminides sont visibles à la mi-décembre, avec un maximum vers le 13 ou 1
 
 Le nombre de météores visibles varie d'une année à l'autre, de quelques dizaines à plus de cent par heure dans de bonnes conditions. Pour les voir, il suffit d'un ciel noir, loin des lumières, de préférence avant l'aube, sans aucun instrument.
 
+```schema
+type: comparaison
+titre: Deux pluies d'étoiles filantes
+colonnes:
+  - titre: Perséides
+    points:
+      - En août
+  - titre: Géminides
+    points:
+      - En décembre
+```
+
 ## À retenir
 
 - Une pluie d'étoiles filantes se produit quand la Terre traverse les débris d'une comète ou d'un astéroïde, qui brûlent dans l'atmosphère.
@@ -13290,6 +13853,16 @@ Il doit étudier l'énergie noire et l'accélération de l'expansion de l'univer
 ## Lancement et fonctionnement
 
 Il a été lancé le 30 août 2026 par une fusée Falcon Heavy. Il doit fonctionner longtemps depuis la région du point de Lagrange L2.
+
+```schema
+type: chiffres
+titre: Le télescope Roman
+chiffres:
+  - valeur: Infrarouge
+    texte: télescope de la NASA à grand champ
+  - valeur: "× 100"
+    texte: champ au moins cent fois plus grand que les caméras de Hubble
+```
 
 ## À retenir
 
@@ -13375,6 +13948,19 @@ La Terre est au plus près du Soleil en janvier, en plein hiver dans l'hémisph�
 
 Au solstice d'été, le jour est le plus long ; au solstice d'hiver, il est le plus court. Aux équinoxes, le jour et la nuit durent autant. Les températures extrêmes arrivent après les solstices, parce que les océans absorbent et libèrent la chaleur lentement. Près de l'équateur, le Soleil reste presque à la verticale toute l'année : les saisons se marquent surtout par des périodes sèches et humides. Selon une hypothèse, cette inclinaison viendrait d'un choc, il y a des milliards d'années, avec un objet nommé Théia, qui aurait aussi formé la Lune.
 
+```schema
+type: comparaison
+titre: Ce qui fait les saisons
+colonnes:
+  - titre: La vraie cause
+    points:
+      - L'axe de la Terre est penché
+      - L'hémisphère tourné vers le Soleil reçoit des rayons plus directs
+  - titre: La fausse explication
+    points:
+      - La distance au Soleil
+```
+
 ## À retenir
 
 - Les saisons viennent de l'inclinaison de l'axe de rotation de la Terre, et non de sa distance au Soleil.
@@ -13382,3 +13968,4 @@ Au solstice d'été, le jour est le plus long ; au solstice d'hiver, il est le p
 - Les deux hémisphères vivent des saisons opposées : quand c'est l'été au nord, c'est l'hiver au sud.
 - La Terre est au plus près du Soleil en janvier, en plein hiver au nord : la distance n'explique pas les saisons.
 - Les températures extrêmes arrivent après les solstices, parce que les océans absorbent et libèrent la chaleur lentement.
+

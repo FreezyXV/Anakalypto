@@ -297,8 +297,21 @@ smartphone reste hors de portée.
 - Trois briques : adresse universelle, protocole de transfert, langage de description.
 - Le CERN l'a mis dans le domaine public en 1993, ce qui a permis son adoption.
 
-[Emplacement image : la note de proposition de 1989 et le premier navigateur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Internet ou web
+legende: Le web est né en 1989 au CERN.
+colonnes:
+  - titre: Internet
+    icone: network
+    points:
+      - Le réseau qui relie les ordinateurs
+  - titre: Web
+    icone: globe
+    points:
+      - Un service qui fonctionne sur internet
+      - Des pages reliées par des liens
+```
 
 ---
 
@@ -401,8 +414,19 @@ autre architecture possible.
 - Les contenus publiés dans des applications fermées sont difficilement citables.
 - Portabilité et interopérabilité sont les principaux leviers de rééquilibrage.
 
-[Emplacement image : réseau de liens entre sites indépendants opposé à une architecture
-centralisée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Web ouvert ou plateforme fermée
+colonnes:
+  - titre: Web ouvert
+    points:
+      - Chaque page a une adresse
+      - On peut citer, indexer, archiver, lier
+  - titre: Plateforme fermée
+    points:
+      - Contenus enfermés derrière un compte
+      - Difficiles à archiver et à lier
+```
 
 ---
 
@@ -500,8 +524,15 @@ pause — plutôt que de remplacer d'autres activités longues.
 - Le temps d'usage moyen, autour de 2 h 20 par jour, recule légèrement.
 - L'accès, et non le désintérêt, explique les écarts entre régions.
 
-[Emplacement image : évolution du nombre d'utilisateurs et du temps d'usage quotidien, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les réseaux sociaux en avril 2026
+chiffres:
+  - valeur: 5,79 milliards
+    texte: d'identités, qui sont des comptes et non des personnes
+  - valeur: 2 h 20
+    texte: d'usage moyen par jour, environ
+```
 
 ---
 
@@ -605,8 +636,16 @@ conception relève d'une décision privée.
 - Les contenus émotionnels se diffusent plus vite, à information égale.
 - Les régulations récentes visent le mécanisme plutôt que les contenus.
 
-[Emplacement image : fil chronologique et fil classé par engagement prédit, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La boucle du fil classé
+elements:
+  - titre: Le service est gratuit
+  - titre: La publicité le finance
+  - titre: Le temps d'attention compte
+  - titre: Le fil est classé pour retenir
+    texte: Sans critère d'exactitude.
+```
 
 ---
 
@@ -717,8 +756,15 @@ lui-même.
 - Les moyens de modération sont très inégaux selon les langues.
 - La régulation récente porte sur le processus plus que sur le contenu.
 
-[Emplacement image : parcours d'un signalement, du dépôt au recours, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les trois couches de la modération
+niveaux:
+  - titre: Examen humain
+    texte: Le contexte, que les machines saisissent mal.
+  - titre: Détection automatique
+  - titre: Règles privées de la plateforme
+```
 
 ---
 
@@ -821,8 +867,17 @@ lecteurs, aides publiques encadrées. Aucun ne reconstitue les volumes d'avant.
 - Environ 18 % des internautes des pays riches paient pour de l'information en ligne.
 - Enquête, correspondants et presse locale sont les premiers sacrifiés.
 
-[Emplacement image : évolution des revenus publicitaires et d'abonnement de la presse, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment l'argent de la presse s'est évaporé
+elements:
+  - titre: Publicité, 80 % des revenus
+    texte: Dans la presse américaine des années 1990.
+  - titre: Petites annonces parties en ligne
+  - titre: Recul du papier
+  - titre: Moins de journalistes
+    icone: newspaper
+```
 
 ---
 
@@ -928,8 +983,18 @@ continuent de dissuader.
 - Les traces techniques permettent souvent d'identifier une source autrement.
 - La protection des lanceurs d'alerte conditionne l'efficacité du dispositif.
 
-[Emplacement image : chaîne de transmission d'une information sensible et ses points de fuite,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le secret des sources
+centre: Source du journaliste
+icone: shield
+parties:
+  - nom: Il protège le public
+  - nom: Levée encadrée
+    role: Par un juge, pour un motif grave.
+  - nom: Traces techniques
+    role: La faille moderne.
+```
 
 ---
 
@@ -1026,8 +1091,20 @@ expliquer à l'avance les procédés employés, afin qu'on les reconnaisse quand
 - Ce sont majoritairement des humains, pas des robots, qui les relaient.
 - Expliquer les procédés à l'avance fonctionne mieux que démentir après.
 
-[Emplacement image : vitesse de propagation comparée d'informations vraies et fausses, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois mots à distinguer
+colonnes:
+  - titre: Mésinformation
+    points:
+      - Fausse, mais sans intention de nuire
+  - titre: Désinformation
+    points:
+      - Fausse et volontaire
+  - titre: Malinformation
+    points:
+      - Vraie, mais utilisée pour nuire
+```
 
 ---
 
@@ -1129,8 +1206,16 @@ vrai — mais cela dit d'où l'image vient, ce qui est vérifiable.
 - L'existence des faux permet de récuser des documents authentiques.
 - Les approches par provenance attestent l'origine, non la véracité.
 
-[Emplacement image : chaîne de provenance d'une image, de la prise de vue à la publication,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les effets des hypertrucages
+centre: Hypertrucage
+parties:
+  - nom: Falsification moins chère
+  - nom: Images intimes non consenties
+    role: L'usage dominant.
+  - nom: Doute sur les vraies images
+```
 
 ---
 
@@ -1228,8 +1313,15 @@ Cette inversion est contre-intuitive, rapide à apprendre, et nettement plus eff
 - Le nombre de partages ne dit rien de l'exactitude.
 - La lecture latérale consiste à quitter la page pour enquêter sur la source.
 
-[Emplacement image : lecture verticale et lecture latérale d'une page comparées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Trois réflexes pour vérifier
+elements:
+  - titre: Qui publie ?
+  - titre: Sur quoi ça repose ?
+    texte: Remonter à la source primaire.
+  - titre: Par quel chemin c'est arrivé ?
+```
 
 ---
 
@@ -1322,8 +1414,17 @@ détecter leur environnement en analysant la façon dont les ondes se réfléchi
 - Les fréquences hautes imposent davantage d'antennes.
 - Les premières spécifications 6G sont attendues vers 2028-2029.
 
-[Emplacement image : portée comparée des bandes de fréquences d'un réseau mobile, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois apports de la 5G
+legende: Plus de 3 milliards d'abonnements début 2026.
+centre: 5G
+icone: wifi
+parties:
+  - nom: Débit
+  - nom: Latence réduite
+  - nom: Densité d'objets connectés
+```
 
 ---
 
@@ -1425,8 +1526,20 @@ locaux sans fil de nos maisons.
 - Basses fréquences : longue portée, faible débit. Hautes : l'inverse.
 - Les obligations attachées aux licences servent l'aménagement du territoire.
 
-[Emplacement image : découpage du spectre par service et portée comparée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Basses ou hautes fréquences
+colonnes:
+  - titre: Basses fréquences
+    points:
+      - Portée longue
+      - Traversent bien les murs
+      - Moins de débit
+  - titre: Hautes fréquences
+    points:
+      - Portée courte
+      - Beaucoup de débit
+```
 
 ---
 
@@ -1533,8 +1646,15 @@ quelques années, ce qui suppose un remplacement permanent.
 - L'avantage décisif est le délai de transmission, soixante fois plus court.
 - Encombrement orbital et gêne pour l'astronomie sont les principales préoccupations.
 
-[Emplacement image : comparaison des orbites basse et géostationnaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Une constellation en orbite basse
+chiffres:
+  - valeur: 11 100
+    texte: satellites environ pour un seul opérateur en août 2026
+  - valeur: 550 km
+    texte: d'altitude environ
+```
 
 ---
 
@@ -1636,8 +1756,17 @@ couverture de régions entières avec très peu d'engins.
 - Trois satellites couvrent l'essentiel des zones habitées.
 - Le délai d'un aller-retour approche le quart de seconde.
 
-[Emplacement image : couverture de trois satellites géostationnaires, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'orbite géostationnaire
+chiffres:
+  - valeur: 35 786 km
+    texte: au-dessus de l'équateur
+  - valeur: Immobile
+    texte: en apparence, d'où des antennes fixes
+  - valeur: 3 satellites
+    texte: suffisent presque à couvrir la Terre
+```
 
 ---
 
@@ -1737,8 +1866,18 @@ logement peut être dix fois supérieur.
 - Plusieurs couleurs voyagent en même temps dans le même brin.
 - Le coût du raccordement est un coût de travaux, pas de matériel.
 
-[Emplacement image : coupe d'une fibre optique et trajet de la lumière, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La lumière dans une fibre
+elements:
+  - titre: Le laser émet
+  - titre: Réflexion totale
+    texte: Entre le cœur et la gaine.
+  - titre: Plusieurs couleurs
+    texte: Voyagent ensemble.
+  - titre: Atténuation minimale
+    texte: Vers 1 550 nanomètres.
+```
 
 ---
 
@@ -1841,8 +1980,17 @@ Cette structure, inventée alors, restera dominante jusqu'à la fin du XXe sièc
 - La censure préalable était la règle dans la plupart des États.
 - Le modèle publicitaire s'impose au XIXe siècle avec la presse à bas prix.
 
-[Emplacement image : une des premières gazettes européennes, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qu'il fallait pour naître la presse
+centre: Presse périodique
+icone: newspaper
+parties:
+  - nom: Imprimerie
+  - nom: Réseaux postaux
+  - nom: Public urbain
+  - nom: Périodicité fixe
+```
 
 ---
 
@@ -1942,8 +2090,15 @@ parfois avec peu de vérification complémentaire, est devenue un objet d'analys
 - La pyramide inversée vient du risque d'interruption de la transmission.
 - Les agences exercent un pouvoir de sélection sur ce qui existe dans l'actualité.
 
-[Emplacement image : structure en pyramide inversée d'une dépêche, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: pyramide
+titre: La pyramide inversée de la dépêche
+niveaux:
+  - titre: L'essentiel
+    texte: Qui, quoi, où, quand.
+  - titre: Les détails importants
+  - titre: Le contexte
+```
 
 ---
 
@@ -2044,8 +2199,17 @@ figure parmi les tout premiers objectifs.
 - Modèle commercial et modèle de service public divergent dès les années 1920.
 - La radio atteint un public sans exiger la lecture, d'où sa force politique.
 
-[Emplacement image : poste de radio familial des années 1930, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons d'organiser la radio
+colonnes:
+  - titre: Modèle commercial
+    points:
+      - Financé par la publicité
+  - titre: Modèle public
+    points:
+      - Financé par une redevance ou l'État
+```
 
 ---
 
@@ -2145,8 +2309,20 @@ dernier produit capable de réunir tout le monde au même moment.
 - Le catalogue a modifié jusqu'à l'écriture des séries.
 - Le direct garde sa valeur pour les événements à issue inconnue.
 
-[Emplacement image : évolution de l'audience simultanée d'un programme au fil des décennies,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Le desserrement de la grille
+evenements:
+  - date: Au départ
+    titre: La grille fixe
+    texte: Tout un pays regarde en même temps.
+  - date: Ensuite
+    titre: Enregistrement
+  - date: Puis
+    titre: Multiplication des chaînes
+  - date: Aujourd'hui
+    titre: Vidéo à la demande
+```
 
 ---
 
@@ -2288,6 +2464,18 @@ Le Petit Journal propose des nouvelles, mais aussi des faits divers, des feuille
 Dès octobre 1863, il tire déjà à 83 000 exemplaires, plus que les grands journaux sérieux. En 1890, il atteint un million d'exemplaires. Vers 1895, il devient le journal le plus tiré au monde.
 
 Cette presse populaire a fait entrer le journal dans la vie de tous les jours. Mais des historiens lui reprochent d'avoir misé sur les faits divers spectaculaires pour vendre.
+
+```schema
+type: etapes
+titre: La presse à bas prix
+elements:
+  - titre: 1836
+    texte: Émile de Girardin divise le prix de La Presse.
+  - titre: La publicité paie une partie
+  - titre: Imprimer plus vite
+  - titre: Des millions de lecteurs
+    icone: newspaper
+```
 
 ## À retenir
 
@@ -3079,6 +3267,20 @@ Les grandes radios internationales se lancent. Le 19 décembre 1932, la BBC brit
 
 Depuis les années 2000, Internet et les satellites les ont souvent remplacées. Mais elles restent utiles pour les liaisons de secours, en mer ou après une catastrophe, car elles ne dépendent d'aucun câble ni relais.
 
+```schema
+type: etapes
+titre: Le rebond des ondes courtes
+elements:
+  - titre: Émission
+    texte: 3 à 30 mégahertz.
+  - titre: Ionosphère
+    texte: Les ondes y rebondissent.
+  - titre: Sol ou mer
+    texte: Elles rebondissent encore.
+  - titre: Réception lointaine
+    icone: globe
+```
+
 ## À retenir
 
 - Les ondes courtes ont une fréquence de 3 à 30 mégahertz et une longueur d'onde de 10 à 100 mètres.
@@ -3178,6 +3380,18 @@ Les postes à galène équipaient les navires et les premiers avions. Pendant la
 
 Vers 1920, les postes à lampes, qui amplifient le son, les ont remplacés. Mais des passionnés et des scouts continuent d'en construire pour comprendre comment marche la radio.
 
+```schema
+type: etapes
+titre: Les quatre pièces d'un poste à galène
+elements:
+  - titre: Antenne
+  - titre: Circuit d'accord
+    texte: Pour choisir la station.
+  - titre: Cristal de galène
+    texte: Il détecte le signal.
+  - titre: Écouteur
+```
+
 ## À retenir
 
 - Un poste à galène fonctionne sans pile ni prise, avec la seule énergie des ondes radio.
@@ -3207,14 +3421,130 @@ title: La radio comme outil d'alerte en cas de catastrophe
 slug: la-radio-comme-outil-d-alerte-en-cas-de-catastrophe
 categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
 summary: >
-  Pourquoi ce media reste souvent le plus fiable quand d'autres reseaux tombent.
-tags: [radio-et-television, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand l'électricité, internet et les réseaux mobiles tombent, une radio à piles ou à manivelle
+  reçoit encore les consignes des autorités. Un seul émetteur atteint des millions de personnes sans
+  rien leur demander. C'est pourquoi la radio reste au cœur des plans d'alerte.
+tags: [radio-et-television]
+relatedArticles: [kit-urgence-72-heures, proteger-inondations, regle-des-trois-priorites-survie]
+sources:
+  - title: "Radiodiffusion"
+    url: "https://fr.wikipedia.org/wiki/Radiodiffusion"
+    publisher: "Wikipédia"
+  - title: "FR-Alert"
+    url: "https://fr.wikipedia.org/wiki/FR-Alert"
+    publisher: "Wikipédia"
+  - title: "Système d'alerte et d'information des populations"
+    url: "https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27alerte_et_d%27information_des_populations"
+    publisher: "Wikipédia"
+  - title: "Shortwave radio"
+    url: "https://en.wikipedia.org/wiki/Shortwave_radio"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi la radio fonctionne-t-elle souvent quand internet et le téléphone ne marchent plus ?"
+    options:
+      - "Parce qu'un émetteur diffuse vers tous les postes à la fois, sans réseau à travers lequel chaque appareil doit se connecter"
+      - "Parce qu'elle utilise internet par satellite"
+      - "Parce qu'elle consomme plus d'électricité"
+    answer: 1
+    explanation: >
+      La radiodiffusion envoie un signal unique reçu par tous. Il n'y a pas de saturation, et un
+      poste à piles suffit pour l'écouter.
+  - question: "Quand les sirènes d'alerte sont-elles testées en France ?"
+    options:
+      - "Chaque dimanche soir"
+      - "Le premier mercredi de chaque mois à midi"
+      - "Jamais"
+    answer: 2
+    explanation: >
+      Ce test permet de vérifier le réseau et d'habituer la population au son, différent du signal
+      d'alerte réel.
+  - question: "Que faire en entendant le signal national d'alerte ?"
+    options:
+      - "Aller chercher ses enfants à l'école en voiture"
+      - "Téléphoner à tout le monde"
+      - "Se mettre à l'abri et écouter la radio pour connaître les consignes"
+    answer: 3
+    explanation: >
+      Les écoles s'occupent des enfants, et les appels saturent les réseaux dont les secours ont
+      besoin. La radio donne les instructions.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Lors d'une tempête, d'une inondation, d'un séisme ou d'une panne générale, les réseaux sur lesquels
+nous comptons peuvent s'effondrer : électricité coupée, antennes mobiles en panne ou saturées, internet
+inaccessible. La **radio** continue souvent de fonctionner. Un seul **émetteur** atteint en même temps
+des millions de postes, sans saturation, et un appareil à **piles** ou à **manivelle** suffit pour
+l'écouter. C'est pourquoi elle reste un pilier des plans d'alerte, aux côtés des sirènes et des alertes
+sur téléphone.
+
+## Pourquoi la radio résiste
+
+- **La diffusion** : un émetteur envoie un signal unique, que tous les postes reçoivent. Contrairement au
+  téléphone ou à internet, il n'y a pas de connexion individuelle : un million d'auditeurs ne
+  surchargent pas le réseau.
+- **La simplicité du récepteur** : un poste consomme très peu, fonctionne des jours avec des piles, et
+  certains modèles se rechargent à la manivelle ou avec un petit panneau solaire. L'autoradio d'une
+  voiture fonctionne aussi.
+- **La robustesse des émetteurs** : les grandes stations disposent de groupes électrogènes de secours.
+- **La portée** : les **grandes ondes et ondes moyennes** couvrent de vastes régions, et les **ondes
+  courtes**, réfléchies par l'ionosphère, peuvent traverser des continents.
+
+```schema
+type: systeme
+titre: Les canaux d'alerte en France
+centre: Alerte des populations
+parties:
+  - nom: Sirènes
+    role: Testées le premier mercredi du mois à midi.
+  - nom: FR-Alert
+    role: Notification sur tous les téléphones de la zone, depuis 2022.
+  - nom: Radio
+    role: Consignes des autorités, même sans électricité.
+    icone: wave
+```
+
+## La radio dans les plans d'alerte en France
+
+L'alerte des populations repose sur plusieurs canaux complémentaires :
+
+- **Les sirènes** du système d'alerte et d'information des populations émettent le **signal national
+  d'alerte**, un son montant et descendant d'environ une minute quarante, répété trois fois. Elles sont
+  testées le **premier mercredi de chaque mois à midi**.
+- **FR-Alert**, en service depuis 2022, envoie des notifications à tous les téléphones présents dans une
+  zone en danger, même sans application.
+- **Les radios publiques**, notamment le réseau local de Radio France et France Info, sont liées par des
+  conventions pour diffuser les messages et consignes des autorités.
+
+La règle à retenir en entendant l'alerte : **se mettre à l'abri** et **écouter la radio**.
+
+## Les bons gestes
+
+- Garder chez soi une **radio à piles ou à manivelle**, avec des piles de rechange, dans le kit d'urgence.
+- Connaître les **fréquences** des stations locales et de la radio d'information nationale dans sa
+  région.
+- Ne pas téléphoner sauf urgence vitale : les appels saturent les réseaux dont les secours ont besoin.
+- Ne pas aller chercher ses enfants à l'école : les établissements ont leurs propres plans de mise en
+  sûreté.
+- Se méfier des rumeurs sur les réseaux sociaux et s'en tenir aux sources officielles.
+
+## Un média qui a fait ses preuves
+
+Lors de nombreuses catastrophes, la radio a été le dernier lien avec l'extérieur. Lors de la tempête de
+décembre 1999 en France, de l'ouragan Katrina en 2005 aux États-Unis ou du séisme et du tsunami de 2011 au
+Japon, les radios locales ont diffusé des informations vitales quand les autres moyens étaient
+coupés. Les **radioamateurs**, avec leurs propres émetteurs, aident aussi parfois les secours à
+communiquer quand les réseaux sont tombés.
+
+## À retenir
+
+- La radio diffuse un signal unique reçu par tous : elle ne sature pas en cas de crise.
+- Une radio à piles ou à manivelle fonctionne sans électricité ni internet.
+- En France, les sirènes sont testées le premier mercredi de chaque mois à midi.
+- FR-Alert et les radios publiques complètent les sirènes pour alerter la population.
+- En entendant l'alerte, on se met à l'abri et l'on écoute la radio.
 
 ---
 type: article
@@ -3893,18 +4223,134 @@ status: planned
 
 ---
 type: article
-title: Comprendre la difference entre correlation et causalite
+title: Comprendre la différence entre corrélation et causalité
 slug: comprendre-la-difference-entre-correlation-et-causalite
 categoryPath: communication-et-medias/information-et-verification/education-aux-medias
 summary: >
-  Une erreur de raisonnement tres frequente dans l'interpretation de l'actualite.
-tags: [education-aux-medias, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Deux phénomènes qui évoluent ensemble ne sont pas forcément liés par une relation de cause à
+  effet. Un troisième facteur, le hasard ou une cause inversée peuvent expliquer leur lien. Savoir
+  faire la différence protège des conclusions hâtives que l'on lit souvent dans les médias.
+tags: [education-aux-medias]
+relatedArticles: [education-aux-medias-et-a-linformation, comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier, pourquoi-notre-cerveau-se-trompe, le-double-aveugle-eliminer-les-biais-d-attente]
+sources:
+  - title: "Corrélation n'implique pas causalité"
+    url: "https://fr.wikipedia.org/wiki/Corr%C3%A9lation_n%27implique_pas_causalit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Correlation does not imply causation"
+    url: "https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation"
+    publisher: "Wikipedia"
+  - title: "Confounding"
+    url: "https://en.wikipedia.org/wiki/Confounding"
+    publisher: "Wikipedia"
+  - title: "Bradford Hill criteria"
+    url: "https://en.wikipedia.org/wiki/Bradford_Hill_criteria"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Les ventes de glaces et les noyades augmentent en même temps l'été. Pourquoi ?"
+    options:
+      - "Parce que manger une glace fait couler"
+      - "Parce qu'un troisième facteur, la chaleur, augmente à la fois les ventes de glaces et les baignades"
+      - "Parce que les noyés achètent des glaces"
+    answer: 2
+    explanation: >
+      La chaleur est un facteur de confusion : elle explique les deux phénomènes, sans lien direct entre
+      eux.
+  - question: "Qu'est-ce qu'une causalité inversée ?"
+    options:
+      - "Quand on prend la conséquence pour la cause"
+      - "Quand deux causes s'annulent"
+      - "Quand une cause agit dans le futur"
+    answer: 1
+    explanation: >
+      On observe plus de pompiers sur les gros incendies : ce n'est pas le nombre de pompiers qui
+      aggrave le feu, c'est la taille du feu qui en fait venir davantage.
+  - question: "Quelle méthode permet le mieux de prouver une relation de cause à effet ?"
+    options:
+      - "Une expérience contrôlée avec tirage au sort"
+      - "Un graphique où deux courbes se ressemblent"
+      - "Un témoignage"
+    answer: 1
+    explanation: >
+      Le tirage au sort crée deux groupes comparables : seule la cause testée les différencie.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Deux phénomènes sont **corrélés** quand ils varient ensemble : quand l'un augmente, l'autre augmente
+aussi, ou diminue. Une **causalité**, elle, signifie que l'un **provoque** l'autre. Toute causalité
+produit une corrélation, mais l'inverse est faux : deux choses peuvent évoluer ensemble sans que l'une
+cause l'autre. Un **troisième facteur** peut agir sur les deux, la cause peut être **inversée**, ou la
+coïncidence peut relever du **hasard**. Confondre les deux est l'une des erreurs de raisonnement les
+plus courantes dans les titres d'articles et sur les réseaux sociaux.
+
+## Quatre explications à une corrélation
+
+```schema
+type: systeme
+titre: Pourquoi A et B varient-ils ensemble ?
+legende: Avant de conclure que A cause B, il faut écarter les autres explications.
+centre: A et B corrélés
+icone: chart
+parties:
+  - nom: A cause B
+    role: La relation de cause à effet existe
+    icone: bolt
+  - nom: B cause A
+    role: La causalité est inversée
+    icone: recycle
+  - nom: C cause A et B
+    role: Un troisième facteur agit sur les deux
+    icone: network
+  - nom: Le hasard
+    role: Une coïncidence sans lien réel
+    icone: cube
+```
+
+- **Un facteur de confusion** : les ventes de glaces et les noyades augmentent ensemble. Les glaces ne
+  font pas couler les nageurs : c'est la **chaleur** qui pousse à acheter des glaces et à se baigner.
+- **La causalité inversée** : on observe que les personnes qui vont souvent à l'hôpital sont plus
+  malades. Ce n'est pas l'hôpital qui rend malade : on y va parce qu'on l'est.
+- **Le hasard** : en comparant des milliers de séries de chiffres, on trouve forcément des courbes qui
+  se ressemblent par pure coïncidence. Des sites s'amusent à en collectionner, comme le nombre de films
+  d'un acteur et le nombre de noyades dans des piscines d'une année à l'autre.
+- **Une vraie causalité**, enfin, qu'il faut démontrer.
+
+## Comment établir une causalité
+
+La meilleure méthode est l'**expérience contrôlée** : on tire au sort deux groupes, on applique la cause
+supposée à un seul, et l'on compare. Le tirage au sort répartit tous les autres facteurs de façon
+équilibrée : si une différence apparaît, elle vient de la cause testée. C'est le principe des essais
+cliniques.
+
+Quand l'expérience est impossible ou contraire à l'éthique, comme pour le tabac, les chercheurs
+accumulent des indices. L'épidémiologiste Austin Bradford Hill a proposé en 1965 une série de critères
+: la **force** de l'association, sa **constance** d'une étude à l'autre, la **chronologie**, la cause
+précède l'effet, la **relation dose-effet**, plus on fume plus le risque augmente, et l'existence d'un
+**mécanisme** plausible. C'est ainsi qu'on a établi que le tabac cause le cancer du poumon.
+
+## Lire les médias avec ce réflexe
+
+Des titres comme « Les buveurs de café vivent plus longtemps » ou « Les enfants qui prennent un petit
+déjeuner ont de meilleures notes » décrivent souvent une **corrélation** issue d'une étude
+d'observation. Les questions à se poser :
+
+1. Un **troisième facteur** pourrait-il expliquer le lien, comme le revenu, l'âge ou le mode de vie ?
+2. La causalité pourrait-elle être **inversée** ?
+3. L'étude est-elle une **expérience** ou une simple **observation** ?
+4. Le résultat a-t-il été **confirmé** par d'autres études ?
+
+Les verbes comptent : « est associé à » décrit une corrélation, « provoque » ou « fait » affirme une
+causalité.
+
+## À retenir
+
+- Une corrélation signifie que deux phénomènes varient ensemble, une causalité que l'un provoque l'autre.
+- Une corrélation peut venir d'un troisième facteur, d'une causalité inversée ou du hasard.
+- L'expérience contrôlée avec tirage au sort est la meilleure preuve d'une causalité.
+- Faute d'expérience, on combine plusieurs indices : force, constance, chronologie, dose-effet, mécanisme.
+- Face à un titre accrocheur, on se demande s'il décrit une simple association ou une cause démontrée.
 
 ---
 type: article
@@ -5362,6 +5808,21 @@ Le physicien britannique Tim Berners-Lee travaillait au CERN, un grand laboratoi
 
 En 1991, le premier document public sur le HTML décrit seulement 18 éléments. Le langage s'enrichit ensuite avec les tableaux, les formulaires et les styles. La version HTML5 est devenue une norme officielle le 28 octobre 2014. Depuis 2019, le HTML est un « standard vivant », mis à jour en continu.
 
+```schema
+type: comparaison
+titre: Trois langages pour une page web
+colonnes:
+  - titre: HTML
+    points:
+      - La structure
+  - titre: CSS
+    points:
+      - L'apparence
+  - titre: JavaScript
+    points:
+      - Le comportement
+```
+
 ## À retenir
 
 - Le HTML est le langage de balisage qui sert à écrire les pages web.
@@ -5461,6 +5922,19 @@ Quand vous tapez une requête, le moteur ne parcourt pas le web en direct : il c
 ## L'importance d'une page
 
 Le PageRank, popularisé par Google, juge l'importance d'une page d'après le nombre et l'importance des pages qui pointent vers elle. Une page gagne en importance quand elle reçoit des liens, surtout de pages elles-mêmes importantes. Le modèle imagine un internaute qui suit des liens au hasard : plus il a de chances d'arriver sur une page, plus elle est importante. Le PageRank ne tient pas compte des raisons pour lesquelles une page est citée : une fausse information peut gagner en importance par le seul nombre de liens.
+
+```schema
+type: etapes
+titre: Le travail d'un moteur de recherche
+elements:
+  - titre: Explorer
+    texte: Des robots suivent les liens.
+  - titre: Indexer
+    texte: Le contenu est rangé dans un index.
+  - titre: Chercher
+  - titre: Classer
+    texte: Selon la pertinence et l'importance.
+```
 
 ## À retenir
 
@@ -5667,18 +6141,131 @@ status: planned
 
 ---
 type: article
-title: Le web archivage et la memoire d'internet
+title: Le web archivage et la mémoire d'Internet
 slug: le-web-archivage-et-la-memoire-d-internet
 categoryPath: communication-et-medias/medias-numeriques/web
 summary: >
-  Comment certains projets sauvegardent des versions anciennes de sites disparus.
-tags: [web, essentiel-reconstruction]
-priority: 3
-essentiel: true
-status: planned
+  Les pages web disparaissent ou changent sans cesse. Des robots les copient régulièrement pour en
+  garder la trace : l'Internet Archive et sa Wayback Machine, les bibliothèques nationales comme la
+  BnF. Ces archives servent aux historiens, aux journalistes et à quiconque veut vérifier ce qui a été publié.
+tags: [web]
+relatedArticles: [histoire-du-web-utilisateurs, comment-un-moteur-de-recherche-trouve-t-il-une-page-parmi-toutes-celles-du-web, comment-le-langage-html-construit-il-une-page-web, comment-les-journalistes-verifient-ils-une-information-avant-de-la-publier]
+sources:
+  - title: "Archivage du Web"
+    url: "https://fr.wikipedia.org/wiki/Archivage_du_Web"
+    publisher: "Wikipédia"
+  - title: "Wayback Machine"
+    url: "https://en.wikipedia.org/wiki/Wayback_Machine"
+    publisher: "Wikipedia"
+  - title: "Internet Archive"
+    url: "https://en.wikipedia.org/wiki/Internet_Archive"
+    publisher: "Wikipedia"
+  - title: "Link rot"
+    url: "https://en.wikipedia.org/wiki/Link_rot"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que la Wayback Machine ?"
+    options:
+      - "Un moteur de recherche d'actualités"
+      - "Le service de l'Internet Archive qui permet de consulter d'anciennes versions de pages web"
+      - "Un logiciel de sauvegarde personnel"
+    answer: 2
+    explanation: >
+      On saisit une adresse et l'on choisit une date pour voir la page telle qu'elle a été copiée ce
+      jour-là.
+  - question: "Comment les archives du web copient-elles les pages ?"
+    options:
+      - "Des personnes recopient chaque page à la main"
+      - "Des robots d'indexation parcourent le web et enregistrent les pages qu'ils visitent"
+      - "Les sites envoient obligatoirement leurs pages chaque jour"
+    answer: 2
+    explanation: >
+      Ces robots, semblables à ceux des moteurs de recherche, suivent les liens et enregistrent pages,
+      images et fichiers.
+  - question: "Qui est chargé du dépôt légal du web en France ?"
+    options:
+      - "La Bibliothèque nationale de France, avec l'Institut national de l'audiovisuel"
+      - "Les hébergeurs"
+      - "Chaque internaute"
+    answer: 1
+    explanation: >
+      Depuis 2006, la BnF collecte le web français, et l'INA les sites liés à l'audiovisuel.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le web est une mémoire **fragile**. Les pages sont modifiées, déplacées ou supprimées, les sites ferment,
+les liens finissent par ne plus mener nulle part : on parle de **liens morts**. Pour garder la trace de
+ce qui a été publié, des organismes **archivent le web** : des robots parcourent les sites et en
+enregistrent régulièrement des copies. La plus connue est l'**Internet Archive**, une fondation
+américaine qui permet de consulter d'anciennes versions de pages grâce à la **Wayback Machine**. Les
+bibliothèques nationales, comme la **BnF** en France, archivent aussi le web de leur pays.
+
+## Pourquoi archiver le web
+
+- **Les pages disparaissent** : une part importante des liens cités dans des articles de presse ou des
+  publications scientifiques ne fonctionne plus au bout de quelques années.
+- **Le web est devenu une source historique** : déclarations politiques, sites d'entreprises,
+  mouvements sociaux, culture populaire. Sans archive, les historiens de demain n'auraient rien.
+- **Vérifier** : retrouver ce qu'une page affirmait à une date donnée, prouver qu'un texte a été
+  modifié ou supprimé.
+- **Préserver** des contenus que plus personne n'héberge : vieux jeux, logiciels, documentations.
+
+## Comment fonctionne l'archivage
+
+```schema
+type: etapes
+titre: De la page en ligne à la page archivée
+legende: Une archive garde plusieurs copies d'une même page, datées, pour en suivre l'évolution.
+elements:
+  - titre: Exploration
+    texte: Un robot visite les pages et suit leurs liens.
+    icone: robot
+  - titre: Capture
+    texte: Il enregistre le texte, les images et les fichiers.
+    icone: camera
+  - titre: Stockage
+    texte: Les copies datées sont conservées sur des serveurs.
+    icone: cube
+  - titre: Consultation
+    texte: On retrouve une page par son adresse et sa date.
+    icone: eye
+```
+
+Des **robots d'exploration**, semblables à ceux des moteurs de recherche, partent d'une liste de sites,
+suivent les liens et **capturent** chaque page avec ses images, feuilles de style et fichiers. Les copies
+sont stockées dans un format standard, le **WARC**, avec leur date. On peut ensuite les consulter comme
+une page ordinaire. Les sites importants ou qui changent souvent sont visités plus fréquemment.
+
+## Les grands acteurs
+
+- **L'Internet Archive**, fondé en 1996 par Brewster Kahle à San Francisco, a archivé des centaines de
+  milliards de pages. N'importe qui peut lui demander de sauvegarder une page avec la fonction « Save Page
+  Now ». Elle conserve aussi des livres, des films, de la musique et des logiciels.
+- **La BnF** collecte le web français au titre du **dépôt légal**, étendu à Internet par une loi de 2006,
+  aux côtés de l'**INA** pour les sites liés à la radio et à la télévision. Ses archives se consultent
+  dans ses salles de lecture et dans des bibliothèques partenaires.
+- D'autres bibliothèques nationales font de même, regroupées dans un consortium international pour la
+  préservation d'Internet.
+
+## Les limites
+
+Tout ne peut pas être archivé. Les pages protégées par un **mot de passe**, les réseaux sociaux fermés,
+les applications qui construisent leur contenu à la volée ou les vidéos en streaming sont difficiles à
+capturer. Certains sites demandent à ne pas être archivés. Les archives ne sont que des **instantanés**
+: ce qui a été publié puis supprimé entre deux passages des robots peut être perdu. Enfin, conserver ces
+masses de données coûte cher, et l'Internet Archive a dû faire face à des procès et à des cyberattaques
+qui ont rappelé la fragilité de cette mémoire.
+
+## À retenir
+
+- Les pages web changent et disparaissent : les liens morts se multiplient avec le temps.
+- Des robots copient régulièrement les pages pour en conserver des versions datées.
+- La Wayback Machine de l'Internet Archive permet de consulter d'anciennes versions de pages.
+- En France, la BnF et l'INA archivent le web au titre du dépôt légal depuis 2006.
+- Les contenus fermés, dynamiques ou supprimés entre deux passages échappent en partie à l'archivage.
 
 ---
 type: article
@@ -5804,6 +6391,18 @@ Un laser envoie dans la fibre une lumière infrarouge, invisible pour nos yeux, 
 ## Une invention récente
 
 En 1970, l'entreprise Corning a produit la première fibre utilisable. La première liaison téléphonique par fibre a été ouverte à Chicago en 1977, et la première en France à Paris en 1980. Aujourd'hui, des câbles de fibres traversent les océans et relient les maisons à Internet.
+
+```schema
+type: systeme
+titre: Une fibre optique
+centre: Fibre
+parties:
+  - nom: Cœur de verre
+  - nom: Gaine
+    role: 125 micromètres.
+  - nom: Réflexion totale interne
+    role: Elle renvoie la lumière vers le cœur.
+```
 
 ## À retenir
 
@@ -6201,6 +6800,18 @@ En 1993, l'opérateur finlandais Radiolinja propose le premier service de SMS en
 Beaucoup d'opérateurs pensaient que les gens préféreraient appeler. Mais le SMS coûtait bien moins cher qu'un appel. En 2010 et 2011, environ 200 000 SMS étaient envoyés chaque seconde dans le monde. Pour tenir dans 160 caractères, les utilisateurs ont inventé un langage abrégé, le « langage SMS ».
 
 En France, chaque personne envoyait en moyenne 219 SMS par mois. Ce nombre a été divisé par deux en 2016. Les applications de messagerie par Internet, sans limite de caractères, ont pris le relais.
+
+```schema
+type: chiffres
+titre: Le calcul des 160 caractères
+chiffres:
+  - valeur: 140 octets
+    texte: soit 1 120 bits
+  - valeur: 7 bits
+    texte: par caractère
+  - valeur: 160
+    texte: caractères
+```
 
 ## À retenir
 
@@ -6688,6 +7299,17 @@ D'autres réseaux utilisent des satellites géostationnaires, à 36 000 kilomèt
 L'entreprise américaine Motorola a imaginé le réseau Iridium à partir de 1987. Mais ces réseaux ont coûté plusieurs milliards de dollars. Pendant ce temps, les réseaux mobiles au sol se sont étendus très vite. En 1999, quelques mois après son ouverture, Iridium a fait faillite. L'entreprise a ensuite redémarré.
 
 Aujourd'hui, les téléphones satellites servent surtout aux marins, aux explorateurs et aux secours. Ils ont permis de communiquer après de grands tremblements de terre et des ouragans, quand les antennes au sol étaient détruites ou privées d'électricité. Depuis peu, certains smartphones ordinaires peuvent aussi se connecter directement à des satellites.
+
+```schema
+type: etapes
+titre: Le trajet d'un appel par satellite
+elements:
+  - titre: Téléphone
+  - titre: Satellite
+    icone: satellite
+  - titre: Station passerelle
+  - titre: Réseau téléphonique
+```
 
 ## À retenir
 
@@ -10467,6 +11089,16 @@ L'ingénieur Lou Montulli, de l'entreprise Netscape, a eu l'idée des cookies po
 
 En Europe, une directive de 2002, modifiée en 2009, impose de demander l'accord de l'internaute avant de déposer la plupart des cookies. Seuls ceux strictement nécessaires au service demandé, comme le panier, en sont dispensés. C'est pourquoi tant de sites affichent un bandeau à l'arrivée. En France, la CNIL rappelle que cet accord doit être libre et éclairé, et qu'on doit pouvoir le retirer aussi simplement qu'on l'a donné.
 
+```schema
+type: etapes
+titre: Le cookie
+elements:
+  - titre: Le site dépose une petite donnée
+  - titre: Le navigateur la garde
+  - titre: Il la renvoie à chaque page
+  - titre: Le site vous reconnaît
+```
+
 ## À retenir
 
 - Un cookie est une petite donnée qu'un site dépose dans le navigateur, qui la renvoie à chaque nouvelle page.
@@ -11048,6 +11680,17 @@ En 1891, l'Américain Almon Strowger obtient un brevet pour un central télépho
 
 À Paris, le téléphone se répand peu à peu : environ 300 abonnés en 1880, 45 000 au 1er janvier 1910, puis 150 000 vers 1928. Le 18 octobre 1996, les numéros de téléphone français passent de huit à dix chiffres.
 
+```schema
+type: etapes
+titre: La voix par un fil
+elements:
+  - titre: Microphone
+    texte: La voix devient un courant variable.
+  - titre: Fil
+  - titre: Écouteur
+    texte: Le courant redevient son.
+```
+
 ## À retenir
 
 - Le microphone du téléphone transforme la voix en un courant qui varie comme elle, et l'écouteur le retransforme en son.
@@ -11548,6 +12191,19 @@ Dans une voiture ou un train, on traverse plusieurs cellules pendant un appel. L
 ## Une idée de 1947
 
 L'idée d'un réseau téléphonique en cellules a été proposée le 11 décembre 1947 par Douglas Ring, un ingénieur du laboratoire américain Bell Labs. En France, les premières antennes du premier réseau mobile, Radiocom 2000, ont été installées en 1985. En 2006, l'Organisation mondiale de la santé comptait 1,4 million de stations de base dans le monde. En France, un décret de 2002 limite l'exposition du public aux ondes émises par ces antennes.
+
+```schema
+type: etapes
+titre: Téléphoner en se déplaçant
+elements:
+  - titre: Cellules
+    texte: Le territoire est découpé.
+  - titre: Antenne relais
+    texte: Une par cellule.
+  - titre: Réseau
+  - titre: Passage d'une antenne à l'autre
+    texte: Sans couper l'appel.
+```
 
 ## À retenir
 
@@ -12182,6 +12838,18 @@ Il y a un inconvénient. Le trajet aller-retour vers le satellite crée un petit
 En octobre 1945, l'écrivain britannique Arthur C. Clarke décrit dans une revue l'idée de satellites géostationnaires servant de relais radio. Le 10 juillet 1962, le satellite américain Telstar est lancé. Des stations au sol sont construites pour lui, à Andover aux États-Unis et à Pleumeur-Bodou, en Bretagne. Mais il n'est visible que quelques minutes à chaque passage.
 
 En 1964, un satellite géostationnaire Syncom retransmet les Jeux olympiques de Tokyo. En avril 1965, Intelsat I, surnommé Early Bird, devient le premier satellite de télécommunication commercial. En 1969, les satellites Intelsat permettent à 500 millions de téléspectateurs de suivre en direct les premiers pas sur la Lune.
+
+```schema
+type: etapes
+titre: Le relais par satellite
+elements:
+  - titre: Station au sol
+  - titre: Satellite
+    texte: Il reçoit et amplifie avec un répéteur.
+    icone: satellite
+  - titre: Renvoi vers la Terre
+  - titre: Antennes paraboliques
+```
 
 ## À retenir
 
@@ -12825,6 +13493,17 @@ On s'en sert pour retrouver la source d'origine d'une image, une version plus gr
 
 Exif est un format de métadonnées intégrées au fichier d'une image numérique : date et heure de la prise de vue, appareil, réglages et parfois coordonnées GPS. Ces métadonnées ne prouvent pas l'origine d'une photo : on peut les effacer ou les modifier avec des outils, et certains logiciels les suppriment.
 
+```schema
+type: etapes
+titre: Retrouver la source d'une image
+elements:
+  - titre: Recherche d'image inversée
+  - titre: Comparer les apparitions
+  - titre: Trouver la plus ancienne
+  - titre: Métadonnées
+    texte: Un indice fragile.
+```
+
 ## À retenir
 
 - La recherche d'image inversée fournit une image à un outil, qui cherche où elle apparaît ailleurs sur Internet.
@@ -12916,6 +13595,16 @@ En France, on peut citer Les Décodeurs du Monde, AFP Factuel et CheckNews de Li
 
 La vérification des faits a une efficacité limitée sur les publics très polarisés, et elle peut parfois répéter une fausse information en la corrigeant.
 
+```schema
+type: etapes
+titre: Vérifier une information
+elements:
+  - titre: Repérer l'affirmation
+  - titre: Chercher les sources
+  - titre: Croiser
+  - titre: Conclure
+```
+
 ## À retenir
 
 - La vérification des faits contrôle la véracité des faits et l'exactitude des chiffres présentés dans les médias.
@@ -13002,6 +13691,18 @@ Ils utilisent des notes, l'historique de navigation et d'achats, les clics et le
 ## Des critiques et des règles
 
 Les systèmes de recommandation sont critiqués pour les bulles de filtres, où l'on voit surtout des contenus proches de ses goûts, et pour leurs biais. Le règlement européen sur les services numériques oblige les très grandes plateformes à proposer un fil d'actualité qui n'est pas personnalisé.
+
+```schema
+type: systeme
+titre: Ce qu'observe un système de recommandation
+centre: Votre fil
+parties:
+  - nom: Vos clics
+  - nom: Votre temps de visionnage
+  - nom: Vos abonnements
+  - nom: Les goûts de gens qui vous ressemblent
+    role: Filtrage collaboratif.
+```
 
 ## À retenir
 
@@ -13094,6 +13795,20 @@ En France, Eugène Ducretet a établi la première liaison radio entre la tour E
 
 Reginald Fessenden a réussi une des premières transmissions de sons par radio, avant la naissance de la radiodiffusion. La station KDKA de Pittsburgh, première station commerciale américaine autorisée, a fait ses débuts en diffusant les résultats d'une élection présidentielle. Les radios à transistors ont rendu l'écoute portable accessible à tous.
 
+```schema
+type: frise
+titre: La télégraphie sans fil
+evenements:
+  - date: Fin du XIXe siècle
+    titre: Les ondes de Hertz
+  - date: Marconi
+    titre: La traversée de l'Atlantique
+  - date: Ensuite
+    titre: TSF en mer et en France
+  - date: Puis
+    titre: La radio pour tous
+```
+
 ## À retenir
 
 - La télégraphie sans fil, ou TSF, permet d'écrire à distance grâce à des ondes électromagnétiques, sans fil entre l'émetteur et le récepteur.
@@ -13179,6 +13894,20 @@ La 5G utilise des bandes basses et moyennes, et des ondes millimétriques qui of
 
 La 5G vise des usages comme les villes connectées, la réalité virtuelle, la médecine à distance et la communication entre machines dans l'industrie. La Corée du Sud a été la première à lancer un réseau 5G national entièrement commercial.
 
+```schema
+type: etapes
+titre: Les générations de réseaux mobiles
+elements:
+  - titre: 2G
+    texte: Numérique et SMS.
+  - titre: 3G
+    texte: L'internet mobile.
+  - titre: 4G
+    texte: Des connexions plus rapides.
+  - titre: 5G
+    texte: Plus de débit, moins de délai.
+```
+
 ## À retenir
 
 - La 2G est passée au numérique et a apporté les SMS.
@@ -13261,6 +13990,18 @@ Aux États-Unis, deux systèmes se sont affrontés : un système séquentiel de 
 ## Une arrivée progressive
 
 En France, la couleur est d'abord diffusée sur la deuxième chaîne, avec le SECAM. L'adoption a été progressive : la couleur s'est généralisée peu à peu dans les pays industrialisés, malgré des téléviseurs plus chers que ceux en noir et blanc. Selon les pays, la couleur est arrivée à des dates très différentes.
+
+```schema
+type: systeme
+titre: La télévision en couleur
+centre: Image couleur
+icone: monitor
+parties:
+  - nom: Rouge
+  - nom: Vert
+  - nom: Bleu
+  - nom: Normes concurrentes
+```
 
 ## À retenir
 
@@ -13354,6 +14095,17 @@ Sur TikTok et Instagram, des voix alternatives et des créateurs de contenu pren
 ## Des usages différents selon les pays
 
 Les usages varient beaucoup selon les pays : TikTok sert bien plus à s'informer en Thaïlande qu'au Royaume-Uni. Aux États-Unis, plus de la moitié des adultes disent s'informer au moins parfois sur les réseaux sociaux.
+
+```schema
+type: systeme
+titre: Comment s'informent les jeunes adultes
+centre: Jeunes adultes
+parties:
+  - nom: Réseaux sociaux
+  - nom: Vidéo
+    role: YouTube, TikTok.
+  - nom: Créateurs et influenceurs
+```
 
 ## À retenir
 
@@ -13462,6 +14214,16 @@ Les très grandes plateformes, celles qui ont plus de 45 millions d'utilisateurs
 
 Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom. Une entreprise qui ne respecte pas ces règles risque de lourdes amendes, calculées sur son chiffre d'affaires mondial. Le règlement est pleinement applicable depuis le 17 février 2024.
 
+```schema
+type: systeme
+titre: Le règlement européen sur les services numériques
+centre: DSA
+parties:
+  - nom: Droits des utilisateurs
+  - nom: Règles renforcées pour les géants
+  - nom: Contrôle par la Commission
+```
+
 ## À retenir
 
 - Le DSA est un règlement européen qui encadre les réseaux sociaux, les places de marché, les magasins d'applications et les moteurs de recherche.
@@ -13559,6 +14321,16 @@ Dans des pays comme la France et les États-Unis, des baromètres nationaux mont
 
 La méfiance va souvent avec l'évitement de l'information : certaines personnes se détournent des médias qu'elles jugent biaisés.
 
+```schema
+type: etapes
+titre: Mesurer la confiance dans les médias
+elements:
+  - titre: Enquête annuelle
+    texte: Le Digital News Report du Reuters Institute.
+  - titre: Comparaison entre pays
+  - titre: Baromètres nationaux
+```
+
 ## À retenir
 
 - Le Digital News Report du Reuters Institute, de l'université d'Oxford, est un baromètre international annuel.
@@ -13653,6 +14425,17 @@ Un juge des référés peut ordonner de faire cesser la diffusion massive et art
 
 L'Arcom est aussi le coordinateur français pour les services numériques dans le cadre du règlement européen DSA.
 
+```schema
+type: systeme
+titre: L'Arcom
+centre: Arcom
+parties:
+  - nom: Fusion du CSA et de la Hadopi
+  - nom: Audiovisuel
+  - nom: Plateformes numériques
+  - nom: Rôle européen
+```
+
 ## À retenir
 
 - L'Arcom est l'autorité qui surveille l'audiovisuel et les plateformes numériques en France.
@@ -13746,6 +14529,16 @@ Le doomscrolling, qui consiste à faire défiler sans fin des nouvelles négativ
 
 L'évitement sélectif a doublé depuis 2017 dans certains pays, comme le Brésil et le Royaume-Uni.
 
+```schema
+type: systeme
+titre: Pourquoi on évite les nouvelles
+centre: Évitement de l'information
+parties:
+  - nom: Trop de nouvelles négatives
+  - nom: Fatigue
+  - nom: Méfiance
+```
+
 ## À retenir
 
 - L'évitement de l'information consiste à éviter volontairement les actualités, pour se protéger d'un flot de nouvelles surtout négatives.
@@ -13753,3 +14546,4 @@ L'évitement sélectif a doublé depuis 2017 dans certains pays, comme le Brési
 - Dans le rapport 2024, 39 % des personnes interrogées disent éviter parfois ou souvent l'actualité.
 - Raisons citées : l'humeur qui se dégrade, le trop-plein d'informations, l'impuissance et la méfiance envers les médias.
 - Le doomscrolling et l'évitement sont deux réactions opposées aux mêmes causes : négativité, répétition et surcharge.
+

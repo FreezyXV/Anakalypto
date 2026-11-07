@@ -255,8 +255,23 @@ avec certains implants métalliques.
 - L'échographie n'utilise aucun rayonnement mais ne traverse ni l'os ni l'air.
 - L'IRM offre le meilleur contraste des tissus mous, sans rayonnement ionisant.
 
-[Emplacement image : même région du corps vue par quatre techniques d'imagerie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Quatre façons de voir à l'intérieur du corps
+colonnes:
+  - titre: Radiographie et scanner
+    points:
+      - Rayons X, les tissus denses apparaissent clairs
+      - Le scanner reconstruit un volume
+  - titre: Échographie
+    points:
+      - Ultrasons, sans rayonnement
+      - Ne traverse ni l'os ni l'air
+  - titre: IRM
+    points:
+      - Aimant puissant et ondes radio
+      - Très précise pour les tissus mous
+```
 
 ---
 
@@ -374,8 +389,19 @@ années après leur autorisation.
 - Le tirage au sort rend les groupes comparables.
 - Le double aveugle neutralise l'effet placebo et le biais de l'évaluateur.
 
-[Emplacement image : les quatre phases d'un essai clinique et leurs effectifs, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les quatre phases d'un essai clinique
+elements:
+  - titre: Phase I
+    texte: Sécurité, sur quelques dizaines de volontaires.
+  - titre: Phase II
+    texte: Dose et premiers signes d'efficacité.
+  - titre: Phase III
+    texte: Comparaison tirée au sort sur de grands groupes.
+  - titre: Phase IV
+    texte: Suivi après la mise sur le marché.
+```
 
 ---
 
@@ -489,8 +515,16 @@ Un résultat isolé, aussi spectaculaire soit-il, attend confirmation.
 - Le biais de publication favorise les résultats positifs.
 - Un résultat statistiquement significatif peut être cliniquement négligeable.
 
-[Emplacement image : pyramide des niveaux de preuve, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: pyramide
+titre: La hiérarchie des preuves
+niveaux:
+  - titre: Méta-analyse d'essais randomisés
+  - titre: Essai randomisé
+  - titre: Étude d'observation
+    texte: Une corrélation ne prouve pas une causalité.
+  - titre: Cas et témoignages
+```
 
 ---
 
@@ -610,8 +644,18 @@ soulève des questions éthiques d'une tout autre ampleur.
 - Les cellules du patient sont modifiées hors du corps puis réinjectées.
 - La modification ne se transmet pas à la descendance.
 
-[Emplacement image : étapes du traitement, du prélèvement à la réinjection, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le traitement par CRISPR, décembre 2023
+elements:
+  - titre: Prélever
+    texte: Les cellules souches du patient.
+  - titre: Modifier hors du corps
+    texte: Pour réactiver l'hémoglobine fœtale.
+    icone: dna
+  - titre: Réinjecter
+    texte: Les cellules modifiées.
+```
 
 ---
 
@@ -726,8 +770,18 @@ est une chose ; modifier un embryon, ce qui affecterait toute sa descendance, en
 - Changer de cible ne demande que de changer ce brin guide.
 - C'est la réparation par la cellule qui détermine le résultat final.
 
-[Emplacement image : guidage et coupure de l'ADN par le complexe CRISPR, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: CRISPR, des ciseaux guidés
+elements:
+  - titre: Brin guide
+    texte: Il désigne la séquence à couper.
+  - titre: Coupure
+    texte: L'enzyme coupe l'ADN à cet endroit.
+    icone: scissors
+  - titre: Réparation
+    texte: C'est la réparation par la cellule qui modifie le gène.
+```
 
 ---
 
@@ -836,8 +890,18 @@ conduit les fournisseurs à mettre en place un filtrage des séquences dangereus
 - La production de molécules par fermentation est son application la plus mature.
 - Les interactions imprévues et l'évolution compliquent la conception.
 
-[Emplacement image : assemblage de briques génétiques dans un micro-organisme producteur,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'ingénierie appliquée au vivant
+elements:
+  - titre: Briques génétiques
+    texte: Documentées et combinables.
+    icone: dna
+  - titre: Assemblage
+    texte: Dans un micro-organisme.
+  - titre: Fermentation
+    texte: L'application la plus mature, pour produire des molécules.
+```
 
 ---
 
@@ -952,8 +1016,20 @@ milliers de variétés anciennes pour cette raison.
 - L'édition génomique modifie une séquence existante sans introduire d'ADN étranger.
 - La concentration sur peu de variétés crée une vulnérabilité collective.
 
-[Emplacement image : téosinte sauvage et maïs moderne comparés, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: frise
+titre: Les méthodes d'amélioration des plantes
+evenements:
+  - date: Depuis le Néolithique
+    titre: Sélection empirique
+    texte: On garde les meilleures plantes.
+  - date: Ensuite
+    titre: Croisement dirigé
+    texte: La vigueur hybride ne se transmet pas.
+  - date: Aujourd'hui
+    titre: Édition génomique
+    texte: Elle modifie une séquence existante.
+```
 
 ---
 
@@ -1065,8 +1141,17 @@ guidage.
 - Réduire l'usage des phytosanitaires passe par la surveillance et les alternatives, pas par
   un seul levier.
 
-[Emplacement image : rotation de cultures sur quatre années, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les pratiques qui font consensus
+centre: Agriculture durable
+icone: leaf
+parties:
+  - nom: Rotation
+  - nom: Couverture du sol
+  - nom: Travail réduit du sol
+  - nom: Agroforesterie
+```
 
 ---
 
@@ -1176,8 +1261,17 @@ est la seule dégradation véritablement irréversible.
 - Champignons, bactéries et vers de terre assurent des fonctions essentielles.
 - L'artificialisation est la seule dégradation réellement irréversible.
 
-[Emplacement image : coupe d'un sol montrant ses horizons et sa vie souterraine, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Un sol vivant
+legende: Un centimètre met plusieurs siècles à se former.
+centre: Sol
+parties:
+  - nom: Champignons
+  - nom: Bactéries
+  - nom: Vers de terre
+  - nom: Matière organique
+```
 
 ---
 
@@ -1289,16 +1383,166 @@ title: Examiner un patient sans machine
 slug: examiner-patient-sans-machine
 categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
 summary: >
-  Palpation, auscultation, prise du pouls : l'examen clinique qui reste la base du diagnostic.
-tags: [imagerie-medicale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Avant les scanners, les médecins diagnostiquaient avec leurs yeux, leurs mains, leurs oreilles et
+  un stéthoscope. Interroger, observer, palper, percuter et ausculter restent la base de tout
+  diagnostic, et quelques mesures simples révèlent l'urgence.
+tags: [imagerie-medicale]
+relatedArticles: [james-lind-scorbut, semmelweis-lavage-mains, hypothermie-coup-de-chaleur, la-rehydratation-orale-en-cas-de-diarrhee-severe]
+sources:
+  - title: "Examen clinique"
+    url: "https://fr.wikipedia.org/wiki/Examen_clinique"
+    publisher: "Wikipédia"
+  - title: "Stéthoscope"
+    url: "https://fr.wikipedia.org/wiki/St%C3%A9thoscope"
+    publisher: "Wikipédia"
+  - title: "Percussion (medicine)"
+    url: "https://en.wikipedia.org/wiki/Percussion_(medicine)"
+    publisher: "Wikipedia"
+  - title: "Vital signs"
+    url: "https://en.wikipedia.org/wiki/Vital_signs"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui a inventé le stéthoscope, en 1816 ?"
+    options:
+      - "Le médecin français René Laennec"
+      - "Louis Pasteur"
+      - "Hippocrate"
+    answer: 1
+    explanation: >
+      Gêné de poser l'oreille contre la poitrine d'une jeune patiente, Laennec roula un cahier en
+      tube et découvrit qu'il entendait mieux le cœur.
+  - question: "Quelle est la fréquence cardiaque normale d'un adulte au repos ?"
+    options:
+      - "Entre 20 et 40 battements par minute"
+      - "Entre 60 et 100 battements par minute environ"
+      - "Entre 150 et 200 battements par minute"
+    answer: 2
+    explanation: >
+      Un sportif entraîné peut descendre plus bas. Un pouls très rapide ou très lent au repos est
+      un signe d'alerte.
+  - question: "Quelle est la partie la plus importante de l'examen médical ?"
+    options:
+      - "La prise de sang"
+      - "La radiographie"
+      - "L'interrogatoire, qui fait souvent l'essentiel du diagnostic"
+    answer: 3
+    explanation: >
+      Écouter le patient raconter ses symptômes, leur début et leur évolution oriente la plupart
+      des diagnostics avant tout examen.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Un bon diagnostic commence rarement par une machine. Pendant des siècles, et encore aujourd'hui dans
+une grande partie du monde, les médecins ont diagnostiqué grâce à l'**examen clinique** : écouter le
+patient, l'**observer**, le **palper**, le **percuter** et l'**ausculter**. Quelques mesures simples,
+le **pouls**, la **respiration**, la **température**, l'état de conscience, permettent de repérer une
+urgence. Ces gestes ne remplacent pas un médecin, mais ils sont la base de toute médecine, et chacun
+peut apprendre à reconnaître les signes de gravité.
+
+## L'interrogatoire
+
+C'est la partie la plus importante. On demande au patient :
+
+- ce qu'il ressent, **depuis quand**, comment c'est arrivé ;
+- où se situe la douleur, à quoi elle ressemble, ce qui l'aggrave ou la soulage ;
+- ses antécédents, ses traitements, ses allergies ;
+- s'il a de la fièvre, des vomissements, une perte de poids, un essoufflement.
+
+Les médecins estiment souvent que l'interrogatoire oriente la majorité des diagnostics avant même
+l'examen du corps.
+
+## Observer, palper, percuter, écouter
+
+- **L'inspection** : teint pâle, bleuté ou jaune, sueurs, gêne pour respirer, posture, plaies,
+  gonflements, éruption.
+- **La palpation** : avec les mains, on recherche une zone douloureuse, un ventre dur, une masse, des
+  ganglions, une peau chaude.
+- **La percussion** : décrite par le médecin autrichien Leopold Auenbrugger en 1761. En tapotant le
+  thorax ou le ventre, on entend un son creux sur l'air, mat sur un liquide ou un organe plein.
+- **L'auscultation** : en 1816, le Français **René Laennec** invente le **stéthoscope**. Il permet
+  d'écouter le cœur, les poumons et l'intestin et de reconnaître de nombreuses maladies.
+
+```schema
+type: echelle
+titre: Fréquence cardiaque d'un adulte au repos
+legende: Valeurs indicatives ; un sportif entraîné peut descendre plus bas.
+unite: battements/min
+min: 30
+max: 160
+zones:
+  - de: 30
+    a: 60
+    label: Lente, à interpréter
+    ton: attention
+  - de: 60
+    a: 100
+    label: Habituelle
+    ton: normal
+  - de: 100
+    a: 160
+    label: Rapide, signe d'alerte au repos
+    ton: danger
+```
+
+```schema
+type: etapes
+titre: Les étapes de l'examen clinique
+elements:
+  - titre: Interroger
+    texte: Symptômes, début, antécédents.
+  - titre: Observer
+    texte: Teint, respiration, posture.
+    icone: eye
+  - titre: Palper
+    texte: Zone douloureuse, masse, ganglions.
+  - titre: Percuter
+    texte: Son creux ou mat.
+  - titre: Ausculter
+    texte: Cœur, poumons, intestin au stéthoscope.
+    icone: heart
+```
+
+## Les signes vitaux
+
+On les mesure avec une montre et un thermomètre.
+
+| Signe | Comment | Valeurs habituelles chez l'adulte au repos |
+| --- | --- | --- |
+| Pouls | Deux doigts sur le poignet ou le cou, compter 30 secondes et multiplier par 2 | Environ 60 à 100 battements par minute |
+| Respiration | Compter les mouvements du thorax pendant une minute, sans prévenir | Environ 12 à 20 par minute |
+| Température | Thermomètre | Environ 36,5 à 37,5 °C |
+| Recoloration | Appuyer cinq secondes sur un ongle, relâcher | Couleur revenue en moins de 2 à 3 secondes |
+| Conscience | La personne est-elle éveillée, répond-elle, réagit-elle à la douleur ? | Éveillée et orientée |
+
+Les valeurs normales sont différentes chez l'enfant, plus rapides chez le nourrisson.
+
+## Les signes d'alerte
+
+On appelle immédiatement les secours, au 15 ou au 112, devant :
+
+- une **difficulté à respirer**, des lèvres bleues ;
+- une **douleur dans la poitrine** qui serre ou irradie ;
+- une **perte de conscience**, une confusion soudaine, une paralysie ou une déformation du visage ;
+- un **saignement abondant** ;
+- une respiration très rapide, un pouls très rapide ou très lent, une peau froide et marbrée ;
+- une fièvre élevée avec raideur de la nuque ou taches qui ne s'effacent pas à la pression.
+
+## Le rôle des machines
+
+Les examens complémentaires, prises de sang, radiographies, échographies, scanners, confirment et
+précisent le diagnostic. Mais ils sont choisis en fonction de l'examen clinique : sans lui, on ne sait
+pas quoi chercher.
+
+## À retenir
+
+- L'interrogatoire du patient oriente la plupart des diagnostics.
+- L'examen clinique combine inspection, palpation, percussion et auscultation.
+- René Laennec a inventé le stéthoscope en 1816.
+- Pouls, respiration, température, recoloration et conscience se mesurent sans appareil complexe.
+- Gêne respiratoire, douleur thoracique, confusion ou saignement abondant imposent d'appeler le 15 ou le 112.
 
 ---
 type: article
@@ -1306,16 +1550,159 @@ title: La découverte de la pénicilline
 slug: decouverte-penicilline
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Une moisissure sur une boîte de Petri en 1928, et le long chemin jusqu'au médicament de masse.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  En 1928, Alexander Fleming remarque qu'une moisissure tue les bactéries d'une boîte de culture.
+  Il faut ensuite douze ans de travail à Oxford, puis une production industrielle aux États-Unis,
+  pour en faire le premier antibiotique de masse.
+tags: [pharmacologie]
+relatedArticles: [ecorce-saule-aspirine, semmelweis-lavage-mains, james-lind-scorbut]
+sources:
+  - title: "Pénicilline"
+    url: "https://fr.wikipedia.org/wiki/P%C3%A9nicilline"
+    publisher: "Wikipédia"
+  - title: "The Nobel Prize in Physiology or Medicine 1945"
+    url: "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+    publisher: "Nobel Prize Outreach"
+  - title: "Discovery and Development of Penicillin"
+    url: "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+    publisher: "American Chemical Society"
+  - title: "Antimicrobial resistance"
+    url: "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Qu'a remarqué Alexander Fleming en 1928 ?"
+    options:
+      - "Une moisissure empêchait des bactéries de pousser autour d'elle"
+      - "Un virus guérissait la grippe"
+      - "Les agrumes soignaient le scorbut"
+    answer: 1
+    explanation: >
+      Sur une boîte de culture contaminée par une moisissure Penicillium, les colonies de
+      staphylocoques avaient disparu tout autour de la moisissure.
+  - question: "Qui a transformé la pénicilline en médicament utilisable, à Oxford ?"
+    options:
+      - "Louis Pasteur et Robert Koch"
+      - "Howard Florey et Ernst Chain, avec leur équipe"
+      - "Marie et Pierre Curie"
+    answer: 2
+    explanation: >
+      À partir de 1939, l'équipe de Florey et Chain, où travaillait aussi Norman Heatley,
+      purifie la pénicilline et prouve son efficacité sur des souris, puis sur des patients.
+  - question: "Pourquoi ne faut-il pas prendre un antibiotique contre un rhume ?"
+    options:
+      - "Parce qu'il rend le rhume plus long"
+      - "Parce qu'il est trop cher"
+      - "Parce qu'un rhume est dû à un virus, contre lequel les antibiotiques n'agissent pas"
+    answer: 3
+    explanation: >
+      Les antibiotiques n'agissent que sur les bactéries. Les utiliser sans raison favorise
+      l'apparition de bactéries résistantes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+En septembre 1928, à Londres, le médecin écossais Alexander Fleming observe qu'une moisissure
+tombée par hasard sur une boîte de culture a tué les bactéries autour d'elle. Il nomme la
+substance **pénicilline**. Mais il ne parvient pas à la purifier. Il faut attendre 1940 pour
+qu'une équipe d'Oxford en fasse un médicament, et 1943 pour que les États-Unis la produisent en
+masse. La pénicilline a ouvert l'ère des antibiotiques et sauvé des millions de vies.
+
+## Avant les antibiotiques
+
+Au début du XXe siècle, une simple coupure infectée, une pneumonie ou une infection après un
+accouchement pouvaient tuer. Les médecins savaient depuis Pasteur et Koch que des bactéries
+causaient ces maladies, mais ils n'avaient presque aucun moyen de les tuer dans le corps sans
+abîmer le patient.
+
+## Une boîte de culture oubliée
+
+Fleming étudie les staphylocoques à l'hôpital Saint-Mary de Londres. En rentrant de vacances, le
+3 septembre 1928, il trie des boîtes de culture laissées sur sa paillasse. Sur l'une d'elles,
+une moisissure verte a poussé. Tout autour, les colonies de bactéries ont disparu.
+
+Fleming comprend que la moisissure, du genre *Penicillium*, libère une substance qui tue
+certaines bactéries. Il la cultive, montre qu'elle agit sur plusieurs microbes dangereux et
+qu'elle n'est pas toxique pour les globules blancs. Il publie ses résultats en 1929. Mais la
+substance est instable, produite en quantité infime, et il ne réussit pas à l'isoler. Ses
+travaux restent presque ignorés pendant dix ans.
+
+```schema
+type: frise
+titre: De la boîte de culture au médicament
+evenements:
+  - date: 1928
+    titre: Fleming observe la moisissure
+    texte: Les bactéries ont disparu autour du Penicillium.
+  - date: 1929
+    titre: Publication
+    texte: Fleming décrit la pénicilline, sans pouvoir la purifier.
+  - date: 1940
+    titre: Essais d'Oxford
+    texte: Florey, Chain et Heatley sauvent des souris infectées.
+  - date: 1941
+    titre: Premier patient
+    texte: Albert Alexander s'améliore, puis la réserve s'épuise.
+  - date: 1944
+    titre: Production de masse
+    texte: Les blessés du débarquement sont soignés.
+  - date: 1945
+    titre: Prix Nobel
+    texte: Fleming, Florey et Chain sont récompensés.
+```
+
+## L'équipe d'Oxford
+
+En 1939, à l'université d'Oxford, le pathologiste australien Howard Florey et le chimiste Ernst
+Chain, réfugié d'Allemagne, reprennent l'étude de la pénicilline. Le biochimiste Norman Heatley
+invente des méthodes pour la cultiver et l'extraire, avec des moyens de fortune : bassins,
+baignoires, bidons de lait.
+
+Le 25 mai 1940, ils injectent des streptocoques mortels à huit souris. Les quatre qui reçoivent
+de la pénicilline survivent, les quatre autres meurent. En février 1941, un policier atteint
+d'une grave infection, Albert Alexander, est le premier patient traité. Son état s'améliore de
+façon spectaculaire, mais la réserve de pénicilline s'épuise et il meurt quelques semaines plus
+tard. Il fallait produire beaucoup plus.
+
+## La production de masse
+
+En pleine guerre, le Royaume-Uni n'a pas les moyens industriels nécessaires. Florey et Heatley
+partent aux États-Unis en 1941. Au laboratoire de Peoria, dans l'Illinois, les chercheurs
+cultivent la moisissure dans de grandes cuves agitées et aérées, et trouvent sur un melon moisi
+une souche bien plus productive. Les entreprises pharmaceutiques construisent des usines.
+
+En 1944, la pénicilline est disponible en quantité pour soigner les soldats blessés lors du
+débarquement en Normandie. Après la guerre, elle devient accessible à la population civile.
+
+En 1945, Fleming, Florey et Chain reçoivent ensemble le prix Nobel de physiologie ou médecine.
+
+## Comment agit la pénicilline
+
+Une bactérie est entourée d'une **paroi** rigide qui la protège. La pénicilline empêche la
+bactérie de fabriquer cette paroi lorsqu'elle grandit et se divise. La bactérie éclate. Nos
+cellules n'ont pas de paroi de ce type : c'est pourquoi la pénicilline les épargne.
+
+Les antibiotiques n'agissent que sur les bactéries, jamais sur les virus, comme ceux du rhume ou
+de la grippe.
+
+## Le problème de la résistance
+
+Dès son discours du prix Nobel, Fleming avertit qu'un mauvais usage pourrait rendre les bactéries
+résistantes. Il avait raison. Quand on prend un antibiotique, les rares bactéries capables de lui
+résister survivent et se multiplient. Plus on utilise d'antibiotiques sans nécessité, plus ces
+bactéries résistantes se répandent. L'Organisation mondiale de la santé considère
+l'antibiorésistance comme l'une des principales menaces pour la santé mondiale.
+
+Les bons gestes : prendre un antibiotique seulement s'il est prescrit, respecter la dose et la
+durée, et ne pas garder les restes pour plus tard.
+
+## À retenir
+
+- En 1928, Alexander Fleming observe qu'une moisissure *Penicillium* tue les bactéries.
+- En 1940-1941, Florey, Chain et Heatley, à Oxford, en font un médicament efficace.
+- La production de masse démarre aux États-Unis et permet de soigner les blessés de 1944.
+- La pénicilline empêche les bactéries de construire leur paroi ; elle n'agit pas sur les virus.
+- Le mauvais usage des antibiotiques fait apparaître des bactéries résistantes.
 
 ---
 type: article
@@ -1323,16 +1710,156 @@ title: De l'écorce de saule à l'aspirine
 slug: ecorce-saule-aspirine
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Comment un remède traditionnel est devenu le médicament le plus consommé au monde.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  L'écorce de saule soulage la fièvre et la douleur depuis l'Antiquité. Les chimistes du XIXe
+  siècle en ont extrait la substance active, puis l'ont transformée en un médicament mieux
+  toléré, l'aspirine, mis en vente en 1899.
+tags: [pharmacologie]
+relatedArticles: [decouverte-penicilline, james-lind-scorbut]
+sources:
+  - title: "Acide acétylsalicylique"
+    url: "https://fr.wikipedia.org/wiki/Acide_ac%C3%A9tylsalicylique"
+    publisher: "Wikipédia"
+  - title: "History of aspirin"
+    url: "https://en.wikipedia.org/wiki/History_of_aspirin"
+    publisher: "Wikipedia"
+  - title: "The Nobel Prize in Physiology or Medicine 1982"
+    url: "https://www.nobelprize.org/prizes/medicine/1982/summary/"
+    publisher: "Nobel Prize Outreach"
+  - title: "Salicine"
+    url: "https://fr.wikipedia.org/wiki/Salicine"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle substance a-t-on extraite de l'écorce de saule au XIXe siècle ?"
+    options:
+      - "La salicine"
+      - "La pénicilline"
+      - "La caféine"
+    answer: 1
+    explanation: >
+      La salicine, isolée en 1828-1829, se transforme dans le corps en acide salicylique, qui
+      fait baisser la fièvre et la douleur.
+  - question: "Pourquoi a-t-on modifié l'acide salicylique ?"
+    options:
+      - "Pour lui donner un goût sucré"
+      - "Parce qu'il irritait fortement l'estomac"
+      - "Pour qu'il devienne un antibiotique"
+    answer: 2
+    explanation: >
+      L'acide salicylique était efficace mais agressif pour l'estomac. Sa forme acétylée,
+      l'aspirine, est mieux tolérée.
+  - question: "Que découvre John Vane en 1971 ?"
+    options:
+      - "Que l'aspirine tue les virus"
+      - "Que l'aspirine vient des champignons"
+      - "Que l'aspirine bloque la fabrication des prostaglandines"
+    answer: 3
+    explanation: >
+      Les prostaglandines participent à la douleur, à la fièvre et à l'inflammation. Cette
+      découverte vaut à Vane le prix Nobel en 1982.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pendant des siècles, on a mâché de l'écorce de saule ou bu sa décoction pour calmer la fièvre et
+les douleurs. Au XIXe siècle, les chimistes ont isolé la substance responsable, puis l'ont
+modifiée pour la rendre moins irritante. Le résultat, l'acide acétylsalicylique, est mis en vente
+en 1899 sous le nom d'**aspirine**. C'est l'un des médicaments les plus utilisés au monde, et
+l'exemple type d'un remède traditionnel devenu un médicament moderne.
+
+## Un remède très ancien
+
+Des textes médicaux de l'Égypte ancienne, comme le papyrus Ebers, écrit vers 1550 avant notre
+ère, mentionnent déjà le saule. Des médecins grecs et romains l'employaient aussi contre la
+douleur et l'inflammation.
+
+En 1763, un pasteur anglais, Edward Stone, envoie à la Royal Society de Londres un compte rendu :
+il a donné de la poudre d'écorce de saule à une cinquantaine de malades fiévreux, avec succès.
+C'est l'une des premières descriptions méthodiques de cet effet.
+
+## Isoler la substance active
+
+Une plante contient des milliers de substances. Pour savoir laquelle agit, il faut l'isoler. En
+1828, l'Allemand Johann Buchner extrait de l'écorce de saule une substance amère, qu'il nomme
+**salicine**, d'après le nom latin du saule, *Salix*. En 1829, le pharmacien français Henri
+Leroux l'obtient sous forme de cristaux purs.
+
+Dans le corps, la salicine se transforme en **acide salicylique**. En 1838, l'Italien Raffaele
+Piria prépare cet acide au laboratoire. On le trouve aussi dans la reine-des-prés, une plante des
+prairies humides.
+
+L'acide salicylique est efficace contre la fièvre et les douleurs articulaires, mais il a un
+goût désagréable et irrite fortement l'estomac.
+
+```schema
+type: frise
+titre: De l'écorce de saule à l'aspirine
+evenements:
+  - date: vers 1550 av. J.-C.
+    titre: Papyrus Ebers
+    texte: Le saule figure parmi les remèdes égyptiens.
+  - date: 1763
+    titre: Edward Stone
+    texte: Il décrit l'effet de l'écorce sur les fièvres.
+  - date: 1828
+    titre: La salicine
+    texte: Johann Buchner l'extrait de l'écorce.
+  - date: 1853
+    titre: Gerhardt
+    texte: Premier acide acétylsalicylique, impur.
+  - date: 1897
+    titre: Felix Hoffmann
+    texte: Une forme pure et stable, chez Bayer.
+  - date: 1971
+    titre: John Vane
+    texte: L'aspirine bloque la fabrication des prostaglandines.
+```
+
+## Naissance de l'aspirine
+
+En 1853, le chimiste strasbourgeois Charles Frédéric Gerhardt fixe un groupe chimique, l'acétyle,
+sur l'acide salicylique. Il obtient de l'acide acétylsalicylique, mais impur, et ne poursuit pas.
+
+En 1897, chez l'entreprise allemande Bayer, le chimiste Felix Hoffmann met au point une méthode
+pour le produire pur et stable. La molécule irrite moins l'estomac que l'acide salicylique tout
+en gardant ses effets. Bayer la commercialise en 1899 sous le nom d'aspirine : le « a » rappelle
+l'acétyle, et « spir » la spirée, l'ancien nom de la reine-des-prés.
+
+## Comprendre comment elle agit
+
+Pendant soixante-dix ans, on utilise l'aspirine sans savoir comment elle fonctionne. En 1971, le
+pharmacologue britannique John Vane montre qu'elle bloque une enzyme qui fabrique les
+**prostaglandines**. Ces molécules participent à la douleur, à la fièvre et à l'inflammation.
+Cette découverte lui vaut le prix Nobel de physiologie ou médecine en 1982, partagé avec deux
+chercheurs suédois.
+
+L'aspirine empêche aussi les plaquettes du sang de s'agglutiner. C'est pourquoi des médecins la
+prescrivent à faible dose à certains patients pour prévenir une récidive d'infarctus ou d'accident
+vasculaire cérébral.
+
+## Un médicament à respecter
+
+- L'aspirine peut provoquer des saignements, notamment de l'estomac.
+- Elle est déconseillée aux enfants et aux adolescents atteints d'une infection virale, en raison
+  du risque d'une maladie rare et grave, le syndrome de Reye.
+- Elle ne se prend pas avec certains autres médicaments, ni en fin de grossesse, sans avis
+  médical.
+
+## Du remède traditionnel au médicament
+
+L'histoire de l'aspirine résume une méthode qui a donné de nombreux médicaments : partir d'un
+remède traditionnel, vérifier qu'il agit vraiment, isoler la substance active, puis l'améliorer
+pour la rendre plus sûre et plus facile à doser. Une décoction d'écorce contient une quantité
+variable de substance ; un comprimé, une dose précise.
+
+## À retenir
+
+- L'écorce de saule est utilisée contre la fièvre et la douleur depuis l'Antiquité.
+- La salicine en est extraite en 1828-1829 ; elle devient acide salicylique dans le corps.
+- Felix Hoffmann, chez Bayer, produit en 1897 un acide acétylsalicylique pur, vendu en 1899 sous le nom d'aspirine.
+- En 1971, John Vane montre que l'aspirine bloque la fabrication des prostaglandines.
+- L'aspirine peut faire saigner et est déconseillée aux enfants atteints d'une infection virale.
 
 ---
 type: article
@@ -1425,16 +1952,142 @@ title: Les plantes médicinales, ce qui est prouvé
 slug: plantes-medicinales-prouve
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Quelques plantes ont une efficacité démontrée, beaucoup d'autres non : faire le tri.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  De nombreux médicaments majeurs viennent des plantes : aspirine, morphine, quinine, digoxine,
+  artémisinine. Mais beaucoup de remèdes à base de plantes n'ont jamais montré d'efficacité, et
+  certains sont dangereux. Faire le tri demande de la méthode.
+tags: [pharmacologie]
+relatedArticles: [ecorce-saule-aspirine, decouverte-penicilline, james-lind-scorbut, la-securite-alimentaire-des-plantes-sauvages-comestibles]
+sources:
+  - title: "Phytothérapie"
+    url: "https://fr.wikipedia.org/wiki/Phytoth%C3%A9rapie"
+    publisher: "Wikipédia"
+  - title: "Herbal medicine"
+    url: "https://en.wikipedia.org/wiki/Herbal_medicine"
+    publisher: "Wikipedia"
+  - title: "The Nobel Prize in Physiology or Medicine 2015"
+    url: "https://www.nobelprize.org/prizes/medicine/2015/summary/"
+    publisher: "Nobel Prize Outreach"
+  - title: "Millepertuis perforé"
+    url: "https://fr.wikipedia.org/wiki/Millepertuis_perfor%C3%A9"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel médicament contre le paludisme a été découvert grâce à une plante de la médecine traditionnelle chinoise ?"
+    options:
+      - "L'artémisinine, tirée de l'armoise annuelle"
+      - "La pénicilline"
+      - "L'insuline"
+    answer: 1
+    explanation: >
+      La chercheuse chinoise Tu Youyou l'a isolée dans les années 1970 et a reçu le prix Nobel de
+      médecine en 2015.
+  - question: "Pourquoi le millepertuis peut-il être dangereux ?"
+    options:
+      - "Parce qu'il est radioactif"
+      - "Parce qu'il réduit l'efficacité de nombreux médicaments, dont la pilule contraceptive"
+      - "Parce qu'il provoque une addiction"
+    answer: 2
+    explanation: >
+      Il accélère l'élimination de nombreux médicaments par le foie. Il faut toujours signaler la
+      prise de plantes à son médecin ou à son pharmacien.
+  - question: "Pourquoi « naturel » ne veut-il pas dire « sans danger » ?"
+    options:
+      - "Parce que les plantes sont toujours cultivées avec des pesticides"
+      - "Parce que tout ce qui est naturel est toxique"
+      - "Parce que les plantes contiennent des substances actives, parfois très toxiques, en quantités variables"
+    answer: 3
+    explanation: >
+      La digitale, la ciguë ou l'aconit sont naturelles et mortelles. Et la dose d'une tisane varie
+      d'une préparation à l'autre.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Les plantes ont donné à la médecine certains de ses plus grands médicaments : l'**aspirine** vient du
+saule, la **morphine** du pavot, la **quinine** de l'écorce de quinquina, la **digoxine** de la
+digitale, l'**artémisinine** de l'armoise annuelle. Mais pour un remède qui a fait ses preuves, des
+centaines n'ont jamais montré d'efficacité au-delà de l'effet placebo, et certains sont dangereux. Une
+plante n'est ni bonne ni mauvaise parce qu'elle est naturelle : comme pour tout médicament, il faut des
+**preuves**.
+
+## Des plantes devenues médicaments
+
+- **Le saule** : sa salicine a conduit à l'aspirine, en 1897.
+- **Le pavot** : en 1804-1805, le pharmacien allemand Friedrich Sertürner isole la **morphine**, encore
+  l'un des antidouleurs les plus puissants.
+- **Le quinquina** : son écorce, utilisée en Amérique du Sud, soigne le paludisme. En 1820, Pelletier
+  et Caventou en isolent la **quinine**.
+- **La digitale** : en 1785, le médecin anglais William Withering décrit son effet sur l'insuffisance
+  cardiaque. Elle a donné la **digoxine**, à dose très précise, car elle est toxique.
+- **L'armoise annuelle** : dans les années 1970, la chercheuse chinoise **Tu Youyou** retrouve dans un
+  texte ancien une méthode d'extraction à froid et isole l'**artémisinine**, devenue le traitement de
+  référence du paludisme. Elle reçoit le prix Nobel de médecine en 2015.
+- **L'if du Pacifique** : son écorce a donné le **paclitaxel**, un médicament contre plusieurs cancers.
+
+Dans tous ces cas, on a isolé la substance active, vérifié son efficacité par des essais et fixé une
+dose précise.
+
+```schema
+type: systeme
+titre: Des plantes devenues médicaments
+centre: Substance active isolée et testée
+parties:
+  - nom: Saule
+    role: Aspirine.
+  - nom: Pavot
+    role: Morphine.
+  - nom: Quinquina
+    role: Quinine contre le paludisme.
+  - nom: Digitale
+    role: Digoxine pour le cœur.
+  - nom: Armoise annuelle
+    role: Artémisinine contre le paludisme.
+  - nom: If du Pacifique
+    role: Paclitaxel contre plusieurs cancers.
+```
+
+## Ce que montrent les essais
+
+Pour les plantes utilisées telles quelles, en tisanes, gélules ou extraits, les preuves sont très
+variables :
+
+- **quelques usages ont des preuves raisonnables**, par exemple le gingembre contre certaines nausées,
+  ou l'huile essentielle de menthe poivrée en capsules pour le syndrome de l'intestin irritable ;
+- **beaucoup d'autres ont des résultats contradictoires ou faibles** ;
+- **de nombreuses allégations** ne reposent que sur la tradition ou des témoignages.
+
+Une tradition ancienne est une piste intéressante, pas une preuve. Seuls des essais comparatifs,
+comme celui de James Lind en 1747, permettent de savoir si une plante fait mieux qu'un placebo.
+
+## Les dangers
+
+- **Les plantes toxiques** : digitale, aconit, ciguë, datura sont naturelles et mortelles.
+- **Les interactions** : le **millepertuis**, utilisé contre la déprime légère, accélère l'élimination
+  de nombreux médicaments, pilule contraceptive, anticoagulants, antirétroviraux, et peut les rendre
+  inefficaces.
+- **La dose variable** : la quantité de substance active dans une plante dépend de la variété, du sol,
+  de la récolte et de la préparation.
+- **Les contaminations** : certains produits vendus en ligne contiennent des métaux lourds, des
+  pesticides, ou même des médicaments ajoutés non déclarés.
+- **Le retard de traitement** : remplacer un traitement efficace par une plante, pour une infection ou
+  un cancer, peut coûter la vie.
+
+## Bien utiliser une plante médicinale
+
+1. Demander conseil à un médecin ou à un pharmacien, surtout en cas de grossesse, d'allaitement, de
+   traitement en cours ou pour un enfant.
+2. Préférer les produits contrôlés vendus en pharmacie, avec une composition indiquée.
+3. **Signaler** toute prise de plante à ses soignants.
+4. Ne jamais arrêter un traitement prescrit au profit d'une plante.
+
+## À retenir
+
+- Aspirine, morphine, quinine, digoxine et artémisinine viennent de plantes.
+- Ces médicaments ont été obtenus en isolant la substance active, en la testant et en fixant une dose.
+- Beaucoup de remèdes à base de plantes n'ont pas de preuve solide d'efficacité.
+- « Naturel » ne veut pas dire « sans danger » : toxicité, interactions et doses variables existent.
+- On signale toute prise de plante à son médecin ou à son pharmacien.
 
 ---
 type: article
@@ -1493,16 +2146,150 @@ title: Semmelweis et le lavage des mains
 slug: semmelweis-lavage-mains
 categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
 summary: >
-  Un médecin ignoré qui avait compris, en 1847, que se laver les mains sauvait des vies.
-tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  En 1847, à Vienne, le médecin Ignace Semmelweis montre que les médecins transmettent une fièvre
+  mortelle aux accouchées. En imposant le lavage des mains au chlore, il fait chuter la mortalité.
+  Il ne sera pourtant pas écouté de son vivant.
+tags: [medecine-fondee-sur-les-preuves]
+relatedArticles: [james-lind-scorbut, decouverte-penicilline]
+sources:
+  - title: "Ignace Philippe Semmelweis"
+    url: "https://fr.wikipedia.org/wiki/Ignace_Philippe_Semmelweis"
+    publisher: "Wikipédia"
+  - title: "Ignaz Semmelweis"
+    url: "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+    publisher: "Wikipedia"
+  - title: "Ignaz Semmelweis"
+    url: "https://www.britannica.com/biography/Ignaz-Semmelweis"
+    publisher: "Encyclopædia Britannica"
+  - title: "World Hand Hygiene Day"
+    url: "https://www.who.int/campaigns/world-hand-hygiene-day"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Pourquoi les femmes mouraient-elles plus dans la clinique des médecins que dans celle des sages-femmes ?"
+    options:
+      - "Parce que les médecins venaient des salles d'autopsie sans se laver les mains"
+      - "Parce que la clinique des médecins était plus froide"
+      - "Parce que les sages-femmes donnaient des médicaments"
+    answer: 1
+    explanation: >
+      Les médecins et les étudiants examinaient les femmes juste après avoir disséqué des
+      cadavres et transportaient ainsi des germes sur leurs mains.
+  - question: "Avec quoi Semmelweis fait-il laver les mains à partir de 1847 ?"
+    options:
+      - "Avec de l'eau froide seule"
+      - "Avec une solution de chlorure de chaux"
+      - "Avec de l'alcool à 90 degrés"
+    answer: 2
+    explanation: >
+      La solution de chlorure de chaux supprimait l'odeur cadavérique et, sans qu'il le sache,
+      tuait les bactéries responsables de la fièvre.
+  - question: "Pourquoi les idées de Semmelweis ont-elles été rejetées ?"
+    options:
+      - "Parce qu'il n'avait aucun chiffre"
+      - "Parce que le lavage des mains coûtait trop cher"
+      - "Parce qu'on ne connaissait pas encore les microbes et que beaucoup de médecins se sentaient accusés"
+    answer: 3
+    explanation: >
+      Sans théorie des germes, son explication paraissait étrange, et elle faisait des médecins
+      les responsables des morts. Il faudra Pasteur et Lister pour l'expliquer.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Au milieu du XIXe siècle, de nombreuses femmes meurent après leur accouchement d'une infection,
+la **fièvre puerpérale**. En 1847, à Vienne, le médecin hongrois Ignace Semmelweis comprend que
+les médecins eux-mêmes la transmettent avec leurs mains. Il impose le lavage des mains dans une
+solution chlorée, et la mortalité s'effondre. Mais ses collègues refusent de le croire. Il faudra
+attendre Pasteur pour lui donner raison.
+
+## Deux cliniques, deux mortalités
+
+L'hôpital général de Vienne compte deux cliniques d'accouchement. Dans la première, les femmes
+sont suivies par des médecins et des étudiants. Dans la seconde, par des sages-femmes et leurs
+élèves. Les femmes y sont admises un jour sur deux.
+
+En 1846, Semmelweis, assistant dans la première clinique, compare les registres. La différence
+est frappante : environ une accouchée sur dix meurt dans la première clinique, contre moins
+d'une sur vingt-cinq dans la seconde. Les femmes le savent et supplient de ne pas être admises
+chez les médecins.
+
+## Éliminer les fausses pistes
+
+Semmelweis procède avec méthode. Il examine une à une les explications avancées : la
+surpopulation, l'air, la position d'accouchement, la peur provoquée par le prêtre qui traverse
+les salles avec sa clochette. Il fait changer ce qui peut l'être. Rien ne modifie la mortalité.
+Il remarque aussi que les femmes qui accouchent dans la rue avant d'arriver à l'hôpital tombent
+rarement malades.
+
+## L'indice décisif
+
+En mars 1847, son collègue Jakob Kolletschka se coupe avec un scalpel pendant une autopsie. Il
+meurt d'une infection dont les signes ressemblent à ceux de la fièvre puerpérale. Semmelweis fait
+le lien : les médecins et les étudiants passent de la salle d'autopsie aux salles
+d'accouchement sans se laver les mains. Ils transportent des « particules cadavériques ». Les
+sages-femmes, elles, ne pratiquent pas d'autopsies.
+
+```schema
+type: comparaison
+titre: Vienne, deux cliniques d'accouchement
+legende: Ordres de grandeur rapportés dans l'article.
+colonnes:
+  - titre: Clinique des médecins
+    points:
+      - Médecins et étudiants venant des autopsies
+      - Environ une accouchée sur dix mourait
+      - Vers 2 % après le lavage des mains de 1847
+  - titre: Clinique des sages-femmes
+    points:
+      - Pas d'autopsies
+      - Moins d'une accouchée sur vingt-cinq mourait
+```
+
+## Le lavage des mains
+
+En mai 1847, Semmelweis impose à tous de se laver les mains dans une solution de chlorure de chaux
+avant d'examiner une femme. Il a choisi ce produit parce qu'il fait disparaître l'odeur des
+cadavres. Il ne le sait pas, mais il tue aussi les bactéries.
+
+Le résultat est immédiat : en quelques mois, la mortalité de la première clinique tombe autour de
+2 %, au niveau de celle des sages-femmes. Plus tard, il fait aussi désinfecter les instruments.
+
+## Un savant rejeté
+
+La plupart des médecins rejettent son idée. On ne connaît pas encore les microbes, et l'on croit
+que les maladies viennent d'un mauvais air ou d'un déséquilibre du corps. Surtout, son
+explication fait des médecins les responsables de la mort de leurs patientes. Semmelweis, de
+caractère emporté, publie tard, en 1861, et attaque violemment ses opposants.
+
+Il meurt en 1865, à 47 ans, dans un asile près de Vienne, probablement des suites des mauvais
+traitements qu'il y a subis.
+
+## Raison donnée par les microbes
+
+Dans les années 1860, Louis Pasteur montre que des microbes provoquent les fermentations et les
+infections. En 1867, le chirurgien britannique Joseph Lister désinfecte les plaies et les
+instruments à l'acide phénique, et la mortalité de ses opérés chute. La théorie des germes
+explique enfin ce que Semmelweis avait mesuré.
+
+## Une leçon toujours actuelle
+
+Le lavage des mains reste l'un des gestes les plus efficaces pour éviter la transmission des
+infections, à l'hôpital comme à la maison. L'Organisation mondiale de la santé y consacre chaque
+5 mai une journée mondiale.
+
+L'histoire de Semmelweis montre aussi la force d'une méthode : comparer deux groupes, écarter les
+explications une à une, mesurer l'effet d'un changement. Et elle rappelle qu'une preuve, même
+solide, peut être rejetée quand elle dérange.
+
+## À retenir
+
+- À Vienne, en 1846, les accouchées mouraient bien plus dans la clinique des médecins que dans celle des sages-femmes.
+- Semmelweis comprend que les médecins transportaient sur leurs mains des germes venus des autopsies.
+- En 1847, le lavage des mains au chlorure de chaux fait chuter la mortalité autour de 2 %.
+- Ses idées sont rejetées de son vivant ; Pasteur et Lister leur donneront raison.
+- Se laver les mains reste l'un des moyens les plus efficaces d'éviter les infections.
 
 ---
 type: article
@@ -1561,16 +2348,150 @@ title: James Lind et le scorbut
 slug: james-lind-scorbut
 categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
 summary: >
-  En 1747, le premier essai contrôlé de l'histoire montre que les agrumes guérissent le scorbut.
-tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  En 1747, à bord d'un navire anglais, le chirurgien James Lind compare six traitements du
+  scorbut sur douze marins. Seuls ceux qui mangent des oranges et des citrons guérissent vite.
+  C'est l'un des premiers essais comparatifs de l'histoire de la médecine.
+tags: [medecine-fondee-sur-les-preuves]
+relatedArticles: [semmelweis-lavage-mains, ecorce-saule-aspirine]
+sources:
+  - title: "James Lind"
+    url: "https://fr.wikipedia.org/wiki/James_Lind"
+    publisher: "Wikipédia"
+  - title: "Lind J (1753)"
+    url: "https://www.jameslindlibrary.org/lind-j-1753/"
+    publisher: "James Lind Library"
+  - title: "Scorbut"
+    url: "https://fr.wikipedia.org/wiki/Scorbut"
+    publisher: "Wikipédia"
+  - title: "The Nobel Prize in Physiology or Medicine 1937"
+    url: "https://www.nobelprize.org/prizes/medicine/1937/summary/"
+    publisher: "Nobel Prize Outreach"
+quiz:
+  - question: "Combien de marins James Lind a-t-il inclus dans son essai de 1747 ?"
+    options:
+      - "Douze"
+      - "Deux cents"
+      - "Un seul"
+    answer: 1
+    explanation: >
+      Lind a choisi douze marins atteints de scorbut, dans un état comparable, et les a répartis
+      en six paires recevant chacune un traitement différent.
+  - question: "Pourquoi l'essai de Lind est-il important pour la médecine ?"
+    options:
+      - "Parce qu'il a découvert les vitamines"
+      - "Parce qu'il compare plusieurs traitements sur des patients semblables, dans les mêmes conditions"
+      - "Parce qu'il a inventé le vaccin"
+    answer: 2
+    explanation: >
+      En gardant les mêmes conditions de vie et de nourriture et en ne changeant que le
+      traitement, Lind pouvait attribuer la guérison au traitement lui-même.
+  - question: "Quel nutriment manque dans le scorbut ?"
+    options:
+      - "Le fer"
+      - "Le calcium"
+      - "La vitamine C"
+    answer: 3
+    explanation: >
+      Le scorbut est dû à un manque de vitamine C, que notre corps ne sait pas fabriquer. On la
+      trouve dans les fruits et les légumes frais.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pendant des siècles, le **scorbut** a tué plus de marins que les tempêtes et les combats. En 1747,
+à bord du navire anglais *Salisbury*, le chirurgien écossais James Lind teste six traitements sur
+douze marins malades. Les deux qui reçoivent des oranges et un citron guérissent en quelques
+jours. Cet essai, l'un des premiers à comparer des traitements de manière contrôlée, est devenu
+un modèle pour la médecine fondée sur les preuves.
+
+## Le fléau des marins
+
+Lors des longues traversées, les marins se nourrissent de biscuit de mer, de viande salée et de
+légumes secs. Après un ou deux mois sans fruits ni légumes frais, les premiers signes du scorbut
+apparaissent : grande fatigue, gencives gonflées qui saignent, dents qui se déchaussent, taches
+sur la peau, plaies qui ne cicatrisent plus. Sans traitement, la maladie est mortelle.
+
+Entre 1740 et 1744, l'expédition de l'amiral anglais George Anson autour du monde perd plus d'un
+millier d'hommes, la plupart à cause du scorbut et d'autres maladies. Les remèdes proposés sont
+nombreux et contradictoires.
+
+## L'essai du Salisbury
+
+Le 20 mai 1747, James Lind choisit douze marins atteints de scorbut, dont l'état est aussi
+semblable que possible. Ils sont logés au même endroit et reçoivent la même nourriture de base.
+Il les répartit en **six paires**, et chaque paire reçoit en plus un traitement différent :
+
+1. un litre de cidre par jour ;
+2. quelques gouttes d'élixir de vitriol, un acide dilué ;
+3. deux cuillerées de vinaigre trois fois par jour ;
+4. un quart de litre d'eau de mer par jour ;
+5. **deux oranges et un citron** par jour ;
+6. une pâte d'épices, d'ail et de graines de moutarde.
+
+Au bout de six jours, l'un des deux marins qui mangeaient les agrumes est apte à reprendre son
+service, et l'autre est assez rétabli pour soigner ses camarades. Les buveurs de cidre vont un
+peu mieux. Les autres ne progressent pas.
+
+```schema
+type: systeme
+titre: L'essai de 1747, six paires de marins
+legende: Même logement, même nourriture de base, un seul traitement différent par paire.
+centre: Douze marins atteints de scorbut
+parties:
+  - nom: Cidre
+    role: Un peu mieux.
+  - nom: Élixir de vitriol
+    role: Pas de progrès.
+  - nom: Vinaigre
+    role: Pas de progrès.
+  - nom: Eau de mer
+    role: Pas de progrès.
+  - nom: Deux oranges et un citron
+    role: Guérison rapide en six jours.
+    icone: apple
+  - nom: Pâte d'épices
+    role: Pas de progrès.
+```
+
+## Pourquoi cet essai compte
+
+L'idée de Lind est simple et puissante : pour savoir si un traitement agit, il faut le comparer à
+d'autres, sur des malades semblables, en gardant toutes les autres conditions identiques. Si un
+groupe guérit et pas les autres, la différence vient du traitement, et non du hasard, de la
+saison ou de la nourriture.
+
+Son essai a des limites : il ne porte que sur douze personnes, et les paires ne sont pas tirées au
+sort. Lind lui-même, dans son *Traité du scorbut* publié en 1753, ne met pas clairement les agrumes
+en avant parmi d'autres hypothèses. Il recommande aussi un jus d'agrumes chauffé et concentré, qui
+perd une grande partie de son efficacité.
+
+## Des agrumes pour toute la flotte
+
+Il faut attendre 1795 pour que la marine britannique distribue régulièrement du jus de citron à
+ses équipages, sous l'impulsion du médecin Gilbert Blane. Le scorbut recule alors fortement à bord
+de ses navires. Les marins britanniques gagnent le surnom de « limeys ».
+
+## La vitamine C
+
+La cause du scorbut n'est comprise qu'au XXe siècle. Il est dû au manque d'un nutriment, la
+**vitamine C**, ou acide ascorbique. Le corps en a besoin pour fabriquer le collagène, la protéine
+qui solidifie la peau, les vaisseaux sanguins et les gencives. Contrairement à la plupart des
+animaux, les humains ne savent pas la produire.
+
+Le biochimiste hongrois Albert Szent-Györgyi isole la vitamine C entre 1928 et 1932 ; il reçoit le
+prix Nobel de physiologie ou médecine en 1937. Elle est abondante dans les agrumes, le kiwi, les
+poivrons, le chou et les herbes fraîches, mais se dégrade à la chaleur et à la longue
+conservation.
+
+## À retenir
+
+- Le scorbut, fréquent chez les marins, est dû à un manque de vitamine C.
+- En 1747, James Lind compare six traitements sur douze marins répartis en paires.
+- Les deux marins nourris d'oranges et de citron guérissent nettement plus vite.
+- Comparer des traitements sur des malades semblables, dans les mêmes conditions, est le principe des essais cliniques.
+- La marine britannique distribue du jus de citron à partir de 1795, et le scorbut recule.
 
 ---
 type: article
@@ -1782,16 +2703,138 @@ title: La fermentation, une biotechnologie ancienne
 slug: fermentation-biotechnologie-ancienne
 categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
 summary: >
-  Pain, bière, fromage, vinaigre : les micro-organismes au service de l'humanité depuis des millénaires.
-tags: [biologie-de-synthese, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Pain, bière, vin, yaourt, fromage, choucroute, vinaigre : depuis des millénaires, les humains
+  confient à des levures, des bactéries et des moisissures le soin de transformer et de conserver
+  leurs aliments. Pasteur a montré en 1857 que ces fermentations étaient l'œuvre d'êtres vivants.
+tags: [biologie-de-synthese]
+relatedArticles: [la-conservation-des-legumes-par-lactofermentation, la-conservation-par-le-sel-salaisons-et-saumures, biogaz-gaz-sans-gisement, decouverte-penicilline]
+sources:
+  - title: "Fermentation"
+    url: "https://fr.wikipedia.org/wiki/Fermentation"
+    publisher: "Wikipédia"
+  - title: "Fermentation in food processing"
+    url: "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    publisher: "Wikipedia"
+  - title: "Saccharomyces cerevisiae"
+    url: "https://fr.wikipedia.org/wiki/Saccharomyces_cerevisiae"
+    publisher: "Wikipédia"
+  - title: "Louis Pasteur"
+    url: "https://fr.wikipedia.org/wiki/Louis_Pasteur"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que produisent les levures lorsqu'elles fermentent du sucre ?"
+    options:
+      - "De l'alcool et du gaz carbonique"
+      - "Du sel et de l'eau"
+      - "De l'huile"
+    answer: 1
+    explanation: >
+      Le gaz carbonique fait lever la pâte à pain et pétiller la bière ; l'alcool reste dans la
+      boisson, ou s'évapore à la cuisson du pain.
+  - question: "Pourquoi un aliment fermenté se conserve-t-il mieux ?"
+    options:
+      - "Parce qu'il est plus froid"
+      - "Parce que l'acide ou l'alcool produits empêchent la plupart des microbes dangereux de se développer"
+      - "Parce qu'il contient moins d'eau"
+    answer: 2
+    explanation: >
+      Les bonnes bactéries et levures occupent la place et modifient le milieu, qui devient hostile
+      aux microbes responsables de la pourriture.
+  - question: "Qu'a démontré Louis Pasteur à propos de la fermentation ?"
+    options:
+      - "Qu'elle est due à la lumière"
+      - "Qu'elle est purement chimique"
+      - "Qu'elle est l'œuvre de micro-organismes vivants"
+    answer: 3
+    explanation: >
+      À partir de 1857, il montre que levures et bactéries sont responsables des fermentations,
+      et que des microbes indésirables les font tourner.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Bien avant de savoir que les microbes existaient, les humains les utilisaient. Une pâte qui lève, un
+jus de raisin qui devient vin, un lait qui épaissit, un chou qui s'acidifie : ce sont des
+**fermentations**, réalisées par des **levures**, des **bactéries** ou des **moisissures**. Elles
+transforment le goût et la texture des aliments, les rendent plus digestes et surtout permettent de
+les **conserver**. En 1857, Louis Pasteur montre qu'elles sont l'œuvre d'êtres vivants. La
+fermentation est ainsi la plus ancienne des biotechnologies.
+
+## Les grands acteurs
+
+- **Les levures**, champignons microscopiques, comme *Saccharomyces cerevisiae*. Privées d'oxygène,
+  elles transforment le sucre en **alcool** et en **gaz carbonique**. Elles font le pain, la bière, le
+  vin et le cidre.
+- **Les bactéries lactiques** transforment les sucres en **acide lactique**. Elles font le yaourt, le
+  fromage, la choucroute, les cornichons lactofermentés, le levain du pain.
+- **Les bactéries acétiques** transforment l'alcool en **acide acétique** : c'est le vinaigre.
+- **Les moisissures** affinent les fromages comme le roquefort ou le camembert, et transforment le soja
+  et le riz en sauce soja, miso ou saké, grâce au champignon *Aspergillus oryzae*.
+
+## Une histoire de plusieurs millénaires
+
+Des résidus retrouvés sur des poteries de Jiahu, en Chine, montrent qu'on y préparait une boisson
+fermentée de riz, de miel et de fruits il y a environ 9 000 ans. La bière et le pain levé sont attestés
+dans l'Égypte et la Mésopotamie anciennes. Les fromages, la sauce de poisson des Romains, les légumes
+fermentés d'Asie et d'Europe de l'Est témoignent de cette pratique partout dans le monde.
+
+Pendant longtemps, personne ne sait ce qui se passe. Au XVIIe siècle, Antoni van Leeuwenhoek observe
+des levures au microscope. Mais c'est **Louis Pasteur**, à partir de 1857, qui démontre que les
+fermentations sont dues à des micro-organismes vivants, et que des microbes indésirables expliquent les
+vins qui tournent. Il invente la **pasteurisation** pour les arrêter.
+
+```schema
+type: systeme
+titre: Qui fermente quoi
+centre: Fermentation
+parties:
+  - nom: Levures
+    role: Alcool et gaz carbonique, pour le pain, la bière, le vin.
+  - nom: Bactéries lactiques
+    role: Acide lactique, pour le yaourt, le fromage, la choucroute.
+  - nom: Bactéries acétiques
+    role: Acide acétique, pour le vinaigre.
+  - nom: Moisissures
+    role: Fromages affinés, sauce soja, miso.
+```
+
+## Pourquoi fermenter
+
+- **Conserver** : l'acide, l'alcool ou le sel empêchent la plupart des microbes de la pourriture et des
+  intoxications de se développer. Les bons microbes occupent aussi la place.
+- **Rendre digeste** : la fermentation prédigère certains sucres, comme le lactose du lait dans le
+  yaourt, et réduit certaines substances indigestes des céréales et des légumineuses.
+- **Enrichir** : certaines fermentations augmentent la teneur en vitamines du groupe B.
+- **Créer des goûts** : acidité, arômes, texture, pétillant.
+
+## Réussir une fermentation
+
+On favorise les bons microbes et l'on décourage les mauvais :
+
+- **la propreté** des ustensiles et des récipients ;
+- **le sel**, pour les légumes et les fromages, qui freine les microbes indésirables ;
+- **l'absence d'air** pour les légumes et les boissons alcoolisées ;
+- **la bonne température**, souvent entre 18 et 25 °C au début ;
+- **un ferment** déjà actif : levain, yaourt précédent, levure, mère de vinaigre.
+
+Une odeur de pourri, des moisissures poilues colorées ou une texture gluante anormale signalent un échec :
+on jette.
+
+## Aujourd'hui
+
+Les fermentations industrielles produisent aussi des antibiotiques, comme la pénicilline, des vitamines,
+des enzymes, de l'insuline grâce à des microbes génétiquement modifiés, et des biocarburants. Le principe
+reste celui des boulangers et des brasseurs de l'Antiquité.
+
+## À retenir
+
+- Les fermentations sont réalisées par des levures, des bactéries et des moisissures.
+- Les levures produisent alcool et gaz carbonique ; les bactéries lactiques, de l'acide lactique.
+- On fermente des aliments depuis au moins 9 000 ans.
+- Pasteur a montré à partir de 1857 que les fermentations sont l'œuvre de micro-organismes vivants.
+- La fermentation conserve les aliments, les rend plus digestes et crée de nouveaux goûts.
 
 ---
 type: article
@@ -1850,16 +2893,143 @@ title: Produire et conserver ses semences
 slug: produire-conserver-semences
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Choisir les meilleurs plants, récolter, sécher et stocker les graines d'une saison à l'autre.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Récolter ses propres graines permet de ressemer chaque année sans rien acheter et d'adapter les
+  variétés à son jardin. Il faut choisir des variétés reproductibles, éviter les croisements, bien
+  sécher les graines et les garder au frais et au sec.
+tags: [selection-vegetale]
+relatedArticles: [greffage, plantes-nourrissantes, haies-bocage]
+sources:
+  - title: "Semence"
+    url: "https://fr.wikipedia.org/wiki/Semence"
+    publisher: "Wikipédia"
+  - title: "Seed saving"
+    url: "https://en.wikipedia.org/wiki/Seed_saving"
+    publisher: "Wikipedia"
+  - title: "Hybride F1"
+    url: "https://fr.wikipedia.org/wiki/Hybride_F1"
+    publisher: "Wikipédia"
+  - title: "Svalbard Global Seed Vault"
+    url: "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi ne garde-t-on pas les graines d'une variété hybride F1 ?"
+    options:
+      - "Parce que les plantes qui en naissent ne ressemblent pas à leurs parents"
+      - "Parce qu'elles sont toxiques"
+      - "Parce qu'elles ne germent jamais"
+    answer: 1
+    explanation: >
+      Un hybride F1 est le croisement de deux lignées différentes. Ses descendants mélangent les
+      caractères de façon imprévisible.
+  - question: "Quelles plantes sont les plus faciles pour débuter ?"
+    options:
+      - "Les courges et le maïs"
+      - "Les tomates, les haricots, les pois et les laitues, qui se fécondent surtout elles-mêmes"
+      - "Les choux de toutes sortes"
+    answer: 2
+    explanation: >
+      Ces plantes dites autogames se croisent peu avec leurs voisines. Leurs graines reproduisent
+      fidèlement la variété.
+  - question: "Quelles conditions allongent la durée de vie des graines ?"
+    options:
+      - "La chaleur et l'humidité"
+      - "La lumière du soleil"
+      - "Le froid et la sécheresse, à l'abri de la lumière"
+    answer: 3
+    explanation: >
+      Une graine bien sèche, gardée au frais dans un bocal fermé, reste vivante bien plus
+      longtemps.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pendant des millénaires, les paysans ont gardé une partie de leur récolte pour la ressemer. En
+choisissant chaque année les plus belles plantes, ils ont créé des milliers de variétés adaptées à leur
+climat et à leur sol. **Produire ses semences** reste possible au jardin : il faut choisir des
+**variétés reproductibles**, éviter les **croisements** indésirables, récolter des graines **bien
+mûres**, les **sécher** et les **conserver** au frais et au sec. Une poignée de graines bien gardées
+assure la récolte de l'année suivante.
+
+## Choisir des variétés reproductibles
+
+- **Les variétés « population »** ou anciennes se reproduisent fidèlement : leurs graines donnent des
+  plantes semblables à leurs parents.
+- **Les hybrides F1**, notés ainsi sur les sachets, sont le croisement de deux lignées différentes. Ils
+  sont souvent vigoureux, mais leurs descendants mélangent les caractères de façon imprévisible : on ne
+  garde pas leurs graines.
+
+## Éviter les croisements
+
+Tout dépend de la façon dont la plante est fécondée :
+
+- **Les plantes autogames** se fécondent surtout elles-mêmes, souvent dans la fleur fermée : **tomates,
+  haricots, pois, laitues**. Elles se croisent peu ; quelques mètres entre deux variétés suffisent
+  souvent. C'est par elles qu'il faut commencer.
+- **Les plantes allogames** sont fécondées par le pollen d'autres plantes, transporté par le vent ou les
+  insectes : **courges, maïs, choux, carottes, oignons, betteraves**. Deux variétés de la même espèce se
+  croisent facilement, même éloignées de centaines de mètres. On ne cultive alors qu'une variété à la
+  fois, ou on protège les fleurs sous un voile.
+
+Pour éviter de perdre des caractères, on garde les graines de **plusieurs plantes**, pas d'une seule,
+surtout pour les espèces allogames.
+
+```schema
+type: comparaison
+titre: Quelles plantes pour garder ses graines
+colonnes:
+  - titre: Autogames, faciles
+    icone: leaf
+    points:
+      - Tomates, haricots, pois, laitues
+      - Se croisent peu
+      - Quelques mètres entre variétés
+  - titre: Allogames, plus délicates
+    points:
+      - Courges, maïs, choux, carottes
+      - Se croisent facilement
+      - Une variété à la fois ou fleurs protégées
+```
+
+## Récolter au bon moment
+
+- **Choisir les meilleures plantes** : vigoureuses, saines, précoces ou résistantes, et pas seulement les
+  premiers fruits.
+- **Laisser mûrir complètement** : les graines doivent être dures et sèches dans la gousse ou le fruit.
+  Un haricot se récolte quand la gousse est sèche et craquante ; une tomate, quand le fruit est très mûr.
+- **Les graines dans la pulpe**, comme celles des tomates ou des concombres, gagnent à fermenter deux ou
+  trois jours dans un peu d'eau : la gélatine qui les entoure se décompose, puis on rince et on sèche.
+- Certaines plantes, comme les carottes, les choux ou les oignons, ne font leurs graines que la
+  **deuxième année** : on les garde en terre ou on les replante au printemps.
+
+## Sécher et conserver
+
+1. Étaler les graines en couche fine, à l'ombre, dans un endroit aéré, pendant une à trois semaines.
+2. Vérifier qu'elles sont bien sèches : une graine de haricot sec se casse au lieu de s'écraser.
+3. Les ranger dans des **sachets en papier ou des bocaux fermés**, avec une étiquette : espèce, variété,
+   année, lieu.
+4. Les garder **au frais, au sec et dans l'obscurité**. Selon une règle empirique des spécialistes,
+   chaque baisse de l'humidité de la graine ou de la température de stockage allonge nettement sa durée
+   de vie.
+
+Selon les espèces, les graines restent bonnes de un ou deux ans, comme pour le poireau et le panais, à
+quatre ou cinq ans et plus, comme pour la tomate ou la laitue. Avant de semer de vieilles graines, on
+fait un **test de germination** : dix graines sur un papier humide, et l'on compte celles qui germent.
+
+## Les grandes banques de graines
+
+Pour préserver la diversité des plantes cultivées, des banques de semences conservent des millions
+d'échantillons. La **réserve mondiale de semences du Svalbard**, en Norvège, ouverte en 2008 dans une
+montagne de l'Arctique, garde des copies de sécurité à -18 °C.
+
+## À retenir
+
+- On garde les graines des variétés reproductibles, pas des hybrides F1.
+- Tomates, haricots, pois et laitues se croisent peu et conviennent pour débuter.
+- Courges, maïs et choux se croisent facilement : une seule variété à la fois, ou des fleurs protégées.
+- On récolte des graines bien mûres sur plusieurs belles plantes, puis on les sèche à l'ombre.
+- Les graines se conservent au frais, au sec et à l'obscurité, dans des contenants étiquetés.
 
 ---
 type: article
@@ -1884,16 +3054,149 @@ title: Le greffage
 slug: greffage
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Unir deux plantes pour combiner leurs qualités : la technique qui multiplie les arbres fruitiers.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Greffer, c'est souder une branche ou un bourgeon d'une plante sur une autre pour qu'ils
+  poussent ensemble. C'est le seul moyen fiable de reproduire à l'identique un bon pommier ou un
+  bon poirier, et il a sauvé la vigne européenne.
+tags: [selection-vegetale]
+relatedArticles: [haies-bocage, gerer-durablement-foret]
+sources:
+  - title: "Greffe (botanique)"
+    url: "https://fr.wikipedia.org/wiki/Greffe_(botanique)"
+    publisher: "Wikipédia"
+  - title: "Grafting"
+    url: "https://en.wikipedia.org/wiki/Grafting"
+    publisher: "Wikipedia"
+  - title: "Rootstock"
+    url: "https://en.wikipedia.org/wiki/Rootstock"
+    publisher: "Wikipedia"
+  - title: "Phylloxera"
+    url: "https://fr.wikipedia.org/wiki/Phylloxera"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi greffe-t-on les pommiers plutôt que de semer leurs pépins ?"
+    options:
+      - "Parce que l'arbre issu d'un pépin ne ressemble pas à ses parents"
+      - "Parce que les pépins de pomme ne germent jamais"
+      - "Parce que les arbres greffés n'ont pas besoin d'eau"
+    answer: 1
+    explanation: >
+      Un pépin mélange les caractères de deux parents. Les fruits de l'arbre obtenu sont
+      souvent petits et acides. Le greffage, lui, reproduit exactement la variété choisie.
+  - question: "Quelle partie des deux plantes doit être mise en contact pour que la greffe prenne ?"
+    options:
+      - "L'écorce extérieure"
+      - "Le cambium, la fine couche vivante sous l'écorce"
+      - "Le cœur du bois"
+    answer: 2
+    explanation: >
+      Le cambium fabrique les nouveaux tissus. Si ceux du greffon et du porte-greffe se touchent,
+      ils se soudent et la sève passe.
+  - question: "Comment le greffage a-t-il sauvé la vigne européenne ?"
+    options:
+      - "En greffant la vigne sur des pommiers"
+      - "En supprimant les racines"
+      - "En greffant les cépages européens sur des racines américaines résistantes au phylloxéra"
+    answer: 3
+    explanation: >
+      Les racines de vignes américaines résistent au phylloxéra, un puceron venu d'Amérique qui
+      détruisait les vignobles européens à partir des années 1860.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Greffer, c'est fixer un morceau d'une plante, le **greffon**, sur une autre plante, le
+**porte-greffe**, de façon qu'ils se soudent et poussent ensemble. Le greffon donne les fleurs et
+les fruits, le porte-greffe les racines. Pratiqué depuis l'Antiquité, le greffage est le seul moyen
+fiable de reproduire à l'identique une bonne variété de pomme, de poire ou de cerise. Il a aussi
+sauvé la vigne européenne au XIXe siècle.
+
+## Pourquoi greffer
+
+Un pépin de pomme est le fruit d'une fécondation : il mélange les caractères de deux parents.
+L'arbre qui en pousse ne ressemble presque jamais à la variété dont vient la pomme, et ses fruits
+sont souvent petits et acides. Pour obtenir à coup sûr une variété donnée, il faut en prélever un
+rameau et le faire pousser sur des racines : c'est un clone.
+
+Le greffage permet aussi de :
+
+- choisir des racines adaptées au sol, à la sécheresse ou à une maladie ;
+- contrôler la **vigueur** de l'arbre : certains porte-greffes donnent des arbres nains, plus vite
+  productifs et faciles à cueillir ;
+- changer la variété d'un arbre adulte, ou en porter plusieurs sur un même tronc.
+
+## Comment la greffe prend
+
+Sous l'écorce d'une branche se trouve une fine couche verte et vivante, le **cambium**. C'est elle
+qui fabrique chaque année le nouveau bois vers l'intérieur et la nouvelle écorce vers l'extérieur.
+
+Pour qu'une greffe réussisse, le cambium du greffon doit toucher celui du porte-greffe. Les deux
+produisent alors des cellules qui s'entremêlent, forment un bourrelet et finissent par créer des
+vaisseaux communs. La sève brute monte des racines au greffon, la sève élaborée redescend. En
+quelques semaines, les deux plantes n'en font plus qu'une.
+
+```schema
+type: etapes
+titre: Réussir une greffe en fente
+elements:
+  - titre: Couper net
+    texte: Un greffoir tranchant et propre.
+  - titre: Ajuster les cambiums
+    texte: La couche vivante du greffon touche celle du porte-greffe.
+  - titre: Ligaturer
+    texte: Raphia ou bande élastique, bien serrés.
+  - titre: Protéger
+    texte: Mastic à greffer contre le dessèchement.
+  - titre: Libérer
+    texte: On retire la ligature quand la greffe a pris.
+```
+
+## Qui peut-on greffer sur qui
+
+Les deux plantes doivent être proches parentes. On greffe une variété de pommier sur un autre
+pommier, un abricotier sur un prunier, un poirier sur un cognassier. Entre plantes trop éloignées,
+la soudure ne se fait pas, ou elle casse au bout de quelques années.
+
+## Les principales techniques
+
+- **La greffe en fente** : on coupe le porte-greffe, on fend son extrémité et on y glisse un
+  rameau taillé en biseau. Elle se pratique à la fin de l'hiver ou au début du printemps, quand la
+  sève remonte.
+- **La greffe en couronne** : plusieurs rameaux sont glissés entre l'écorce et le bois d'une
+  grosse branche coupée, au printemps.
+- **La greffe en écusson** : on insère un seul bourgeon, avec un fragment d'écorce, sous l'écorce
+  du porte-greffe incisée en T. Pratiquée en été, elle est très utilisée pour les rosiers et les
+  arbres fruitiers.
+- **La greffe à l'anglaise** : deux rameaux de même diamètre, coupés en biseau, sont assemblés
+  bout à bout.
+
+## Les gestes qui comptent
+
+1. Utiliser un greffoir ou un couteau très tranchant et propre : une coupe nette se soude mieux.
+2. Ajuster soigneusement les cambiums l'un contre l'autre.
+3. Ligaturer fermement avec du raphia ou une bande élastique.
+4. Recouvrir les plaies de mastic à greffer pour éviter le dessèchement et l'entrée des maladies.
+5. Retirer la ligature quand la greffe a pris, pour qu'elle n'étrangle pas la branche, et supprimer
+   les pousses qui partent du porte-greffe.
+
+## La vigne sauvée par la greffe
+
+Dans les années 1860, un minuscule puceron venu d'Amérique, le **phylloxéra**, attaque les racines
+des vignes françaises, puis européennes. En quelques décennies, il détruit la plus grande partie
+des vignobles. Les vignes américaines, elles, résistent : leurs racines supportent le puceron.
+
+La solution adoptée à partir des années 1880 consiste à greffer les cépages européens sur des
+porte-greffes américains. Les raisins restent ceux des cépages traditionnels, mais les racines
+résistent. Aujourd'hui, la quasi-totalité des vignes cultivées dans le monde sont greffées.
+
+## À retenir
+
+- Greffer, c'est souder un greffon sur un porte-greffe pour qu'ils poussent ensemble.
+- C'est le seul moyen fiable de reproduire à l'identique une variété d'arbre fruitier.
+- La greffe prend quand les cambiums des deux plantes sont en contact.
+- Les deux plantes doivent être proches parentes, comme le poirier et le cognassier.
+- Greffer la vigne sur des racines américaines a permis de vaincre le phylloxéra.
 
 ---
 type: article
@@ -1918,16 +3221,135 @@ title: Les plantes les plus nourrissantes
 slug: plantes-nourrissantes
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Pomme de terre, céréales, légumineuses : quelles cultures produisent le plus de calories et de protéines par hectare.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Pommes de terre, céréales, légumineuses : toutes les cultures ne nourrissent pas autant sur un même
+  champ. Les plantes à tubercules et les céréales fournissent beaucoup de calories, les légumineuses
+  des protéines et de l'azote pour le sol. Les combiner protège contre les carences et les famines.
+tags: [selection-vegetale]
+relatedArticles: [produire-conserver-semences, greffage, haies-bocage, la-securite-alimentaire-des-plantes-sauvages-comestibles]
+sources:
+  - title: "Pomme de terre"
+    url: "https://fr.wikipedia.org/wiki/Pomme_de_terre"
+    publisher: "Wikipédia"
+  - title: "Légumineuse"
+    url: "https://fr.wikipedia.org/wiki/L%C3%A9gumineuse"
+    publisher: "Wikipédia"
+  - title: "Staple food"
+    url: "https://en.wikipedia.org/wiki/Staple_food"
+    publisher: "Wikipedia"
+  - title: "Grande famine en Irlande"
+    url: "https://fr.wikipedia.org/wiki/Grande_famine_en_Irlande"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi les légumineuses enrichissent-elles le sol ?"
+    options:
+      - "Parce que des bactéries de leurs racines fixent l'azote de l'air"
+      - "Parce qu'elles attirent les vers de terre"
+      - "Parce qu'elles poussent vite"
+    answer: 1
+    explanation: >
+      Les nodosités des racines abritent des bactéries qui transforment l'azote de l'air en engrais
+      naturel, utile aussi à la culture suivante.
+  - question: "Pourquoi associer céréales et légumineuses dans les repas ?"
+    options:
+      - "Pour la couleur"
+      - "Parce que leurs protéines se complètent et fournissent ensemble tous les acides aminés essentiels"
+      - "Pour réduire les calories"
+    answer: 2
+    explanation: >
+      Riz et lentilles, maïs et haricots, pain et pois chiches : ces associations traditionnelles
+      apportent des protéines complètes.
+  - question: "Quelle leçon tirer de la grande famine irlandaise de 1845-1852 ?"
+    options:
+      - "Que la pomme de terre est toxique"
+      - "Qu'il ne faut jamais cultiver de céréales"
+      - "Qu'une population qui dépend d'une seule culture est très vulnérable aux maladies des plantes"
+    answer: 3
+    explanation: >
+      Le mildiou a détruit les récoltes de pommes de terre dont dépendait une grande partie de la
+      population pauvre. Environ un million de personnes sont mortes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Nourrir une famille ou un village sur une surface limitée demande de choisir les bonnes cultures.
+Certaines produisent beaucoup d'**énergie** par hectare : la **pomme de terre**, la **patate douce**, le
+**manioc**, le **maïs**, le **riz** et le **blé**. D'autres apportent surtout des **protéines** : les
+**légumineuses**, comme les haricots, les lentilles, les pois et le soja, qui fertilisent en plus le sol.
+Aucune plante ne suffit seule. Les associer, et ajouter légumes et fruits, protège à la fois contre les
+carences et contre les mauvaises récoltes.
+
+## Les champions de l'énergie
+
+- **La pomme de terre** produit, par hectare, en général plus de calories que les céréales, en peu de
+  temps, sur des sols variés et des climats frais. Elle apporte aussi de la vitamine C et du potassium.
+  Elle se conserve plusieurs mois en cave. Mais elle se transporte mal et craint le mildiou.
+- **La patate douce** et le **manioc** jouent ce rôle dans les régions chaudes. Le manioc supporte la
+  sécheresse et les sols pauvres, mais certaines variétés doivent être épluchées, trempées et cuites pour
+  éliminer des composés toxiques.
+- **Les céréales**, maïs, riz, blé, orge, sorgho, millet, nourrissent la majorité de l'humanité. Leur
+  grain sec se **conserve des années** et se transporte facilement, ce qui en a fait la base des
+  civilisations.
+
+## Les fournisseurs de protéines
+
+Les **légumineuses** sont riches en protéines, de l'ordre de 20 à 25 % du poids sec, et jusqu'à près de
+40 % pour le soja. Elles ont un autre atout : leurs racines portent des **nodosités** qui abritent des
+bactéries capables de **fixer l'azote de l'air**. Elles fabriquent ainsi leur propre engrais et en
+laissent dans le sol pour la culture suivante.
+
+Leurs protéines complètent celles des céréales : les céréales manquent d'un acide aminé appelé
+lysine, que les légumineuses apportent. D'où les associations traditionnelles du monde entier : riz et
+lentilles, maïs et haricots, semoule et pois chiches.
+
+```schema
+type: systeme
+titre: Un jardin nourricier équilibré
+centre: Alimentation équilibrée
+icone: wheat
+parties:
+  - nom: Énergie
+    role: Pommes de terre, céréales, patates douces, manioc.
+  - nom: Protéines
+    role: Haricots, lentilles, pois, soja, qui fixent l'azote.
+  - nom: Vitamines
+    role: Légumes verts et colorés, fruits.
+  - nom: Graisses
+    role: Noix, tournesol, colza.
+```
+
+## Les compléments indispensables
+
+- **Les légumes verts et colorés** : vitamines, minéraux et fibres. Les choux, les épinards et les
+  courges sont productifs et faciles.
+- **Les fruits et les noix** : vitamines, graisses, énergie stockable.
+- **Les oléagineux**, tournesol, colza, noix, pour les graisses indispensables.
+- **Les courges**, qui se conservent des mois à température ambiante.
+
+## Diversifier contre les famines
+
+Entre 1845 et 1852, une grande partie de la population pauvre d'Irlande dépend presque uniquement de la
+pomme de terre. Une maladie venue d'Amérique, le **mildiou**, détruit les récoltes plusieurs années de
+suite. Environ un million de personnes meurent et autant émigrent. Une seule culture, et souvent une
+seule variété, peut tout perdre face à une maladie ou à une sécheresse.
+
+Les paysans traditionnels réduisent ce risque en cultivant plusieurs espèces et plusieurs variétés, en
+alternant les cultures d'une année à l'autre, la **rotation**, et en gardant des réserves.
+
+## Un exemple de jardin nourricier
+
+Une association éprouvée en Amérique est celle des « **trois sœurs** » : le **maïs** sert de tuteur au
+**haricot**, qui fixe l'azote, et la **courge** couvre le sol, garde l'humidité et étouffe les mauvaises
+herbes. Ensemble, elles fournissent énergie, protéines et vitamines.
+
+## À retenir
+
+- Pommes de terre, patates douces, manioc et céréales fournissent le plus d'énergie.
+- Les céréales sèches se conservent des années, ce qui en a fait la base des civilisations.
+- Les légumineuses apportent des protéines et fixent l'azote de l'air dans le sol.
+- Céréales et légumineuses associées fournissent des protéines complètes.
+- Diversifier les cultures et les variétés protège contre les maladies et les famines.
 
 ---
 type: article
@@ -2056,8 +3478,17 @@ l'azote.
 - Une rotation type alterne légumineuse, céréale exigeante, plante à racine, puis céréale.
 - La pratique est documentée depuis l'Antiquité en Chine et généralisée en Europe au Moyen Âge.
 
-[Emplacement image : schéma d'une rotation sur quatre ans avec les quatre familles de cultures,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Une rotation sur quatre ans
+elements:
+  - titre: Légumineuses
+    texte: Elles enrichissent le sol en azote.
+  - titre: Légumes feuilles
+    texte: Gourmands en azote.
+  - titre: Légumes fruits
+  - titre: Légumes racines
+```
 
 ---
 
@@ -2152,8 +3583,18 @@ une récolte.
 - La rotation des cultures avec des légumineuses reconstitue la fertilité sans engrais chimique.
 - Semer une légumineuse comme engrais vert restitue l'azote sans attendre une récolte.
 
-[Emplacement image : racine de légumineuse montrant les nodules où vivent les bactéries fixatrices
-d'azote, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment les légumineuses enrichissent le sol
+elements:
+  - titre: Bactéries des nodules
+    texte: Logées sur les racines.
+  - titre: Azote de l'air capté
+  - titre: Échange
+    texte: La plante nourrit les bactéries, qui lui fournissent l'azote.
+  - titre: Sol enrichi
+    texte: Une partie de l'azote reste pour la culture suivante.
+```
 
 ---
 
@@ -2277,8 +3718,18 @@ immédiat, et ne supprime pas toujours totalement un ravageur déjà bien instal
 - La diversité des cultures complique la tâche des ravageurs spécialisés dans une seule plante.
 - La lutte biologique vise un équilibre durable plutôt qu'une élimination immédiate et totale.
 
-[Emplacement image : une coccinelle se nourrissant de pucerons sur une tige de plante cultivée,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les alliés du jardin
+centre: Ravageurs
+parties:
+  - nom: Coccinelles
+  - nom: Oiseaux
+  - nom: Araignées
+  - nom: Fleurs attractives
+    role: Elles nourrissent et abritent les prédateurs.
+  - nom: Associations de plantes
+```
 
 ---
 
@@ -2370,8 +3821,21 @@ l'irrigation réduit la dépendance à des sources d'eau plus lointaines ou plus
 - Arroser tôt le matin ou en soirée limite les pertes par évaporation immédiate.
 - Récupérer l'eau de pluie localement réduit la dépendance à des sources plus lointaines.
 
-[Emplacement image : système d'irrigation goutte-à-goutte délivrant de l'eau directement aux
-racines de plants cultivés, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Arroser moins, arroser mieux
+centre: Économiser l'eau
+icone: droplet
+parties:
+  - nom: Goutte-à-goutte
+    role: L'eau va directement aux racines.
+  - nom: Paillage
+    role: Il limite l'évaporation.
+  - nom: Cultures adaptées
+  - nom: Bon moment
+    role: Arroser aux heures fraîches.
+  - nom: Récupération
+```
 
 ---
 
@@ -2465,8 +3929,18 @@ ces usages.
 - Une ferme avec élevage fonctionne en partie en circuit fermé, limitant la dépendance extérieure.
 - Le choix des animaux dépend du terrain, du climat et des besoins précis de l'exploitation.
 
-[Emplacement image : bœufs attelés tirant une charrue dans un champ, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Une ferme en circuit fermé
+elements:
+  - titre: Animaux
+    texte: Traction, lait et viande.
+  - titre: Fumier
+    texte: Composté, il fertilise.
+  - titre: Cultures
+    texte: Elles nourrissent les gens et les animaux.
+    icone: wheat
+```
 
 ---
 
@@ -2560,8 +4034,22 @@ durer plusieurs années dans de bonnes conditions.
 - Les conserves isolent l'aliment de l'air après une cuisson qui détruit les micro-organismes
   présents.
 
-[Emplacement image : légumes et viandes suspendus pour sécher à l'air libre, à côté de bocaux de
-conserves fermées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les méthodes de conservation
+centre: Récoltes
+parties:
+  - nom: Séchage
+    role: Retire l'eau nécessaire aux microbes.
+  - nom: Salaison
+    role: Retire l'eau par osmose.
+  - nom: Fumage
+    role: Séchage et effet protecteur de la fumée.
+  - nom: Fermentation
+    role: Transforme l'aliment.
+  - nom: Conserves
+    role: Isolent l'aliment de l'air.
+```
 
 ---
 
@@ -2686,8 +4174,20 @@ généralement d'entretenir durablement la fertilité d'un sol cultivé.
 - Un engrais vert restitue rapidement les nutriments d'une plante coupée et mélangée au sol.
 - Combiner plusieurs sources selon les ressources locales entretient durablement la fertilité.
 
-[Emplacement image : tas de compost en décomposition à côté d'un champ où pousse un engrais vert,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Fertiliser sans engrais industriels
+centre: Sol fertile
+parties:
+  - nom: Fumier composté
+    role: Azote, phosphore et potassium.
+  - nom: Compost
+    role: Déchets transformés par des micro-organismes.
+  - nom: Cendres de bois
+    role: Potassium.
+  - nom: Engrais verts
+    role: Des cultures pour enrichir le sol.
+```
 
 ---
 
@@ -2816,8 +4316,18 @@ mal, ce qui peut nécessiter un ameublissement régulier pour éviter l'asphyxie
   d'argile.
 - Identifier son type de sol aide à adapter l'arrosage et les apports en matière organique.
 
-[Emplacement image : bocal transparent montrant les couches de sable, limon et argile séparées
-après le test de sédimentation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Reconnaître son sol
+elements:
+  - titre: Couleur
+    texte: Un indice de matière organique.
+  - titre: Toucher
+    texte: Sableux ou argileux.
+  - titre: Bocal
+    texte: Sable, limon et argile se séparent en couches.
+  - titre: Adapter ses pratiques
+```
 
 ---
 
@@ -2942,6 +4452,18 @@ En se décomposant lentement, un paillis organique apporte de la matière au sol
 ## Quelques précautions
 
 Une couche trop épaisse ou mal choisie peut pourrir au lieu de se décomposer doucement. Elle bloque alors l'eau et l'air. Certains bois très riches en carbone consomment de l'azote en se décomposant : les plantes en ont moins pendant un temps. L'écorce de pin peut rendre certains sols un peu plus acides. Et de l'herbe fraîchement tondue, posée en tas, peut chauffer et abîmer les plantes.
+
+```schema
+type: systeme
+titre: Ce que fait un paillis
+centre: Paillis
+parties:
+  - nom: Garde l'eau
+    role: Il freine l'évaporation.
+  - nom: Bloque les mauvaises herbes
+    role: Privées de lumière.
+  - nom: Protège et nourrit le sol
+```
 
 ## À retenir
 
@@ -3457,6 +4979,23 @@ Le maïs s'est ensuite répandu dans toute l'Amérique. Les plus anciens grains 
 
 Il était l'aliment de base de nombreux peuples d'Amérique avant l'arrivée de Christophe Colomb. Introduit en Europe au 16e siècle, il est aujourd'hui la céréale la plus cultivée au monde, devant le riz et le blé.
 
+```schema
+type: comparaison
+titre: De la téosinte au maïs
+legende: Une domestication commencée il y a environ 9 000 ans.
+colonnes:
+  - titre: Téosinte
+    points:
+      - Herbe sauvage du Mexique
+      - Petits épis de 5 à 10 grains
+      - Grains enfermés dans une enveloppe dure
+  - titre: Maïs
+    icone: wheat
+    points:
+      - Choisi génération après génération
+      - N'existe pas à l'état sauvage
+```
+
 ## À retenir
 
 - Le maïs descend de la téosinte, une herbe sauvage du Mexique.
@@ -3611,6 +5150,16 @@ La réserve fonctionne comme un coffre dans une banque. La Norvège possède le 
 ## Le premier retrait
 
 En 2015, la guerre en Syrie empêchait un centre de recherche agricole, l'ICARDA, d'utiliser sa banque de graines. Le centre a récupéré une partie de ses copies au Svalbard. Les graines ont été semées au Liban et au Maroc pour en produire de nouvelles. Une partie a ensuite été renvoyée au Svalbard. La copie de secours avait servi.
+
+```schema
+type: chiffres
+titre: La réserve du Svalbard
+chiffres:
+  - valeur: 2008
+    texte: année d'inauguration
+  - valeur: Copies de secours
+    texte: des banques de graines du monde entier
+```
 
 ## À retenir
 
@@ -4109,6 +5658,20 @@ Les débris de plantes et d'animaux se décomposent et donnent l'humus, la mati�
 Au XIXe siècle, le savant russe Vassili Dokoutchaïev (1846-1903) a formulé la loi des facteurs qui forment un sol : la roche-mère, le climat, le relief, les êtres vivants et le temps.
 
 Le temps est le plus surprenant. L'Organisation des Nations unies pour l'alimentation et l'agriculture, la FAO, estime qu'il faut environ mille ans pour créer seulement quelques centimètres de sol fertile. Le sol est donc une ressource qui se renouvelle très lentement.
+
+```schema
+type: etapes
+titre: De la roche au sol
+elements:
+  - titre: Roche-mère
+    icone: mountain
+  - titre: Casser et dissoudre
+    texte: Gel, chaleur, eau et acides faibles.
+  - titre: Êtres vivants
+    texte: Microbes, lichens, mousses, racines, vers.
+  - titre: Sol
+    texte: Après beaucoup de temps.
+```
 
 ## À retenir
 
@@ -4642,6 +6205,21 @@ En 1978, l'entreprise américaine Genentech a réussi à faire produire de l'ins
 
 Aujourd'hui, la plupart des insulines utilisées sont produites de cette façon. Elles ont presque complètement remplacé les insulines de porc et de bœuf.
 
+```schema
+type: frise
+titre: L'histoire de l'insuline
+evenements:
+  - date: 1922
+    titre: Première injection
+    texte: À Toronto.
+  - date: Ensuite
+    titre: Insulines animales
+    texte: Tirées du pancréas d'animaux.
+  - date: Génie génétique
+    titre: Insuline produite par des bactéries
+    texte: Un gène humain placé dans une bactérie.
+```
+
 ## À retenir
 
 - L'insuline est une hormone fabriquée par le pancréas qui fait baisser le sucre dans le sang.
@@ -4812,6 +6390,18 @@ Ces enzymes doivent travailler dans des conditions difficiles : de 0 à 60 °C, 
 C'est un grand avantage. D'habitude, on chauffe l'eau pour mieux dissoudre les taches, et chauffer l'eau consomme beaucoup d'énergie. Avec les enzymes, on peut laver à basse température. Cela protège aussi les tissus délicats, comme la laine et la soie, et les jeans foncés qui déteignent à chaud. Les enzymes permettent aussi de mettre moins de certains produits chimiques polluants dans les lessives.
 
 Les enzymes provoquent-elles des allergies de peau ? Un grand test sur 15 765 volontaires a montré que les réactions sont très rares : 0,23 % des personnes.
+
+```schema
+type: systeme
+titre: Une enzyme pour chaque tache
+centre: Lessive
+parties:
+  - nom: Protéines
+  - nom: Amidon
+  - nom: Graisses
+  - nom: Origine
+    role: Des enzymes produites par des microbes.
+```
 
 ## À retenir
 
@@ -5720,6 +7310,19 @@ L'idée vient du sonar, développé pour repérer les sous-marins et cartographi
 
 Les appareils modernes utilisent aussi l'effet Doppler : ils mesurent la vitesse du sang qui circule, par exemple dans le cœur du bébé.
 
+```schema
+type: etapes
+titre: L'échographie, comme un sonar
+elements:
+  - titre: Ultrasons
+    texte: Au-delà de 20 000 vibrations par seconde.
+  - titre: Échos
+    texte: Les tissus renvoient le son.
+  - titre: Temps de retour
+    texte: Il indique la profondeur.
+  - titre: Image
+```
+
 ## À retenir
 
 - Les ultrasons sont des sons trop aigus pour l'oreille humaine, au-delà de 20 000 vibrations par seconde.
@@ -5873,6 +7476,19 @@ Tous les médecins n'ont pas adopté tout de suite son invention. En 1885 encore
 L'instrument a beaucoup évolué. Vers 1850, sont apparus des modèles avec un embout pour chaque oreille. En 1961, le médecin américain David Littmann a créé le stéthoscope à double pavillon que l'on utilise encore.
 
 Aujourd'hui, le stéthoscope a une membrane posée sur la peau. Elle vibre avec les sons du corps. Des tubes souples conduisent ces vibrations jusqu'aux oreilles du médecin. Il sert à écouter le cœur, la respiration, les bruits du ventre, et aussi à prendre la tension. Le premier stéthoscope de Laennec est conservé à Nantes.
+
+```schema
+type: frise
+titre: La naissance du stéthoscope
+evenements:
+  - date: Avant 1816
+    titre: L'oreille sur la poitrine
+  - date: 1816
+    titre: René Laennec
+    texte: Une feuille roulée pour écouter le cœur.
+  - date: Ensuite
+    titre: Du tube de bois au stéthoscope moderne
+```
 
 ## À retenir
 
@@ -6169,18 +7785,132 @@ status: planned
 
 ---
 type: article
-title: Le double aveugle, eliminer les biais d'attente
+title: Le double aveugle, éliminer les biais d'attente
 slug: le-double-aveugle-eliminer-les-biais-d-attente
 categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
 summary: >
-  Une methode qui empeche a la fois le patient et le medecin d'influencer, meme inconsciemment, le resultat.
-tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Dans un essai en double aveugle, ni les patients ni les médecins qui les suivent ne savent qui
+  reçoit le vrai traitement et qui reçoit un placebo. Cette précaution empêche les attentes de
+  fausser les résultats et reste la norme pour prouver qu'un traitement fonctionne.
+tags: [medecine-fondee-sur-les-preuves]
+relatedArticles: [principes-pharmacologie-essais-cliniques, niveaux-de-preuve-en-medecine, pourquoi-un-faux-medicament-peut-il-parfois-soulager, james-lind-scorbut]
+sources:
+  - title: "Étude en double aveugle"
+    url: "https://fr.wikipedia.org/wiki/%C3%89tude_en_double_aveugle"
+    publisher: "Wikipédia"
+  - title: "Blinded experiment"
+    url: "https://en.wikipedia.org/wiki/Blinded_experiment"
+    publisher: "Wikipedia"
+  - title: "Randomized controlled trial"
+    url: "https://en.wikipedia.org/wiki/Randomized_controlled_trial"
+    publisher: "Wikipedia"
+  - title: "Observer-expectancy effect"
+    url: "https://en.wikipedia.org/wiki/Observer-expectancy_effect"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans un essai en double aveugle, qui ignore quel traitement reçoit chaque patient ?"
+    options:
+      - "Seulement les patients"
+      - "Les patients et les soignants ou évaluateurs qui les suivent"
+      - "Personne"
+    answer: 2
+    explanation: >
+      Les deux parties ignorent l'attribution, qui n'est révélée qu'à la fin de l'essai.
+  - question: "Pourquoi les médecins doivent-ils, eux aussi, être tenus dans l'ignorance ?"
+    options:
+      - "Pour qu'ils travaillent moins"
+      - "Parce que leurs attentes peuvent influencer, sans le vouloir, leur façon d'examiner et de juger les patients"
+      - "Parce que c'est plus rapide"
+    answer: 2
+    explanation: >
+      Un médecin convaincu qu'un traitement marche peut percevoir plus d'améliorations chez les patients
+      traités.
+  - question: "À quoi sert le tirage au sort des patients dans un essai ?"
+    options:
+      - "À rendre les deux groupes comparables"
+      - "À choisir les patients les plus malades pour le traitement"
+      - "À réduire le coût"
+    answer: 1
+    explanation: >
+      Le hasard répartit de façon équilibrée l'âge, la gravité et les autres facteurs entre les groupes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour savoir si un traitement marche vraiment, on compare un groupe qui le reçoit à un groupe qui reçoit
+un **placebo**, un produit identique en apparence mais sans principe actif. Dans un essai en **double
+aveugle**, ni les **patients** ni les **soignants** qui les suivent et évaluent leur état ne savent qui
+reçoit quoi. Cette double ignorance empêche les **attentes** des uns et des autres de fausser le
+résultat. Associée au **tirage au sort**, elle forme l'essai contrôlé randomisé, référence pour prouver
+l'efficacité d'un médicament.
+
+## Le problème des attentes
+
+- **Chez le patient** : se savoir traité peut suffire à se sentir mieux. C'est l'**effet placebo**, réel
+  surtout sur la douleur, la fatigue ou l'anxiété. À l'inverse, se savoir dans le groupe placebo peut
+  décevoir et faire abandonner.
+- **Chez le soignant** : un médecin convaincu de l'efficacité d'un traitement peut, sans le vouloir,
+  examiner différemment, encourager davantage ou juger plus favorablement les patients traités. C'est le
+  **biais de l'observateur**.
+
+Le simple aveugle, où seul le patient ignore son groupe, ne suffit donc pas.
+
+## Comment se déroule un essai en double aveugle
+
+```schema
+type: etapes
+titre: Les étapes d'un essai contrôlé randomisé en double aveugle
+legende: Le code qui relie chaque patient à son traitement reste secret jusqu'à l'analyse.
+elements:
+  - titre: Tirage au sort
+    texte: Les patients sont répartis au hasard en deux groupes.
+    icone: cube
+  - titre: Traitements identiques
+    texte: Médicament et placebo ont le même aspect.
+    icone: flask
+  - titre: Double ignorance
+    texte: Patients et soignants ignorent qui reçoit quoi.
+    icone: eye
+  - titre: Suivi et mesures
+    texte: Les résultats sont recueillis selon un protocole fixé à l'avance.
+    icone: chart
+  - titre: Levée de l'aveugle
+    texte: Le code est révélé et les groupes sont comparés.
+    icone: lock
+```
+
+1. Les participants sont **tirés au sort** entre les groupes, pour que les groupes soient comparables.
+2. Le médicament et le placebo sont **identiques** : même forme, même couleur, même goût.
+3. Chaque boîte porte un **code** ; la correspondance est gardée par une personne extérieure à l'équipe
+   de soins.
+4. Les résultats sont recueillis selon un **protocole** fixé à l'avance.
+5. À la fin seulement, on **lève l'aveugle** et l'on compare les groupes.
+
+En cas d'urgence médicale, le code d'un patient peut être révélé pour le soigner.
+
+## Quand on ne peut pas faire de double aveugle
+
+Certains traitements ne se cachent pas : une chirurgie, une rééducation, un régime. On cherche alors à
+rendre aveugle au moins l'**évaluateur**, la personne qui mesure les résultats sans savoir à quel groupe
+appartient le patient. On parle parfois de **triple aveugle** quand les statisticiens qui analysent les
+données ignorent aussi la signification des groupes.
+
+## Un peu d'histoire
+
+Des essais à l'aveugle sont menés dès 1784, quand une commission royale française, à laquelle
+participent Benjamin Franklin et Lavoisier, teste le « magnétisme animal » de Mesmer : les sujets qui
+ignorent s'ils sont « magnétisés » ne ressentent rien de particulier. Le double aveugle se généralise au
+XXe siècle avec les essais cliniques modernes, notamment après la guerre.
+
+## À retenir
+
+- Dans un essai en double aveugle, patients et soignants ignorent qui reçoit le traitement ou le placebo.
+- Il protège contre l'effet placebo et contre les attentes inconscientes des soignants.
+- Associé au tirage au sort, il forme l'essai contrôlé randomisé, référence en médecine.
+- Quand le double aveugle est impossible, on rend au moins l'évaluateur aveugle.
+- L'aveugle n'est levé qu'à la fin, sauf urgence médicale.
 
 ---
 type: article
@@ -6266,6 +7996,21 @@ En 2010, une grande revue a comparé placebo et absence de traitement dans 202 e
 ## Un outil pour tester les médicaments
 
 Le placebo est surtout très utile à la recherche. Pour savoir si un nouveau médicament marche, on compare deux groupes. L'un reçoit le médicament, l'autre un placebo qui lui ressemble. Si le groupe traité va nettement mieux, l'effet vient bien du médicament, et pas seulement de l'attente ou du temps qui passe.
+
+```schema
+type: systeme
+titre: L'effet placebo
+centre: Placebo
+parties:
+  - nom: Sans action propre
+    role: Sur la maladie.
+  - nom: Douleur et nausées
+    role: Là où l'effet s'observe surtout.
+  - nom: Substances du cerveau
+    role: Contre la douleur.
+  - nom: Outil de test
+    role: Pour comparer les médicaments.
+```
 
 ## À retenir
 
@@ -6784,6 +8529,20 @@ L'aspirine empêche aussi les plaquettes du sang de s'agglutiner. À petite dose
 
 On consomme environ 40 000 tonnes d'aspirine chaque année dans le monde. Elle figure sur la liste des médicaments essentiels de l'Organisation mondiale de la santé. Mais elle peut abîmer l'estomac et faire saigner. Et on ne la donne pas aux enfants qui ont une infection virale, à cause d'une maladie rare mais grave, le syndrome de Reye.
 
+```schema
+type: etapes
+titre: De l'écorce à l'aspirine
+elements:
+  - titre: Écorce de saule
+    texte: Utilisée depuis l'Antiquité.
+    icone: tree
+  - titre: Substance active
+    texte: Elle devient acide salicylique dans le corps.
+  - titre: Modification chimique
+    texte: L'acide acétylsalicylique, moins irritant.
+    icone: flask
+```
+
 ## À retenir
 
 - L'écorce de saule soulage la douleur et la fièvre depuis l'Antiquité.
@@ -7010,6 +8769,19 @@ Certains antibiotiques tuent les bactéries : ils sont bactéricides. D'autres l
 Les virus n'ont ni paroi ni ribosomes à eux. Les antibiotiques n'ont donc rien à viser chez eux : ils ne soignent ni le rhume ni la grippe.
 
 Alexander Fleming a découvert la pénicilline en 1928. Sa production en masse a commencé dans les années 1940. Mais plus on utilise d'antibiotiques, plus les bactéries capables de leur résister prennent le dessus. C'est pourquoi on ne les prend que sur ordonnance, quand ils sont vraiment utiles.
+
+```schema
+type: systeme
+titre: Les cibles des antibiotiques
+legende: Des pièces que les bactéries possèdent et que nos cellules n'ont pas.
+centre: Bactérie
+icone: microscope
+parties:
+  - nom: Paroi
+    role: Bloquée par les pénicillines.
+  - nom: Ribosomes
+  - nom: Copie de l'ADN
+```
 
 ## À retenir
 
@@ -9973,6 +11745,16 @@ Le clonage exigerait un ADN intact, mais l'ADN ancien est généralement dégrad
 
 Les derniers mammouths laineux ont disparu de l'île Wrangel il y a environ 4 000 ans.
 
+```schema
+type: chiffres
+titre: L'ADN ancien
+chiffres:
+  - valeur: 521 ans
+    texte: demi-vie estimée d'un fragment d'ADN dans des os de moa
+  - valeur: 2 millions d'années
+    texte: âge record d'ADN retrouvé au Groenland
+```
+
 ## À retenir
 
 - L'ADN se dégrade : dans des os de moa, sa demi-vie est estimée à 521 ans pour un fragment de 242 paires de bases.
@@ -10059,6 +11841,18 @@ L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le prot
 ## Une technologie mise au point au fil des années
 
 Katalin Karikó et Drew Weissman ont montré que modifier certains éléments de l'ARN réduit les réactions inflammatoires tout en gardant son efficacité, ce qui leur a valu le prix Nobel de médecine. Cette technologie permet de concevoir très vite un nouveau vaccin. Les premiers vaccins à ARN messager autorisés l'ont été pendant la pandémie de Covid-19.
+
+```schema
+type: etapes
+titre: Une recette plutôt qu'un virus
+elements:
+  - titre: ARN messager
+    texte: La recette d'un morceau de la protéine spike.
+  - titre: Fabrication
+    texte: Les cellules produisent ce morceau inoffensif.
+  - titre: Apprentissage
+    texte: Le corps garde une mémoire immunitaire.
+```
 
 ## À retenir
 
@@ -10147,6 +11941,19 @@ CRISPR est aussi une technologie que des chercheurs utilisent pour modifier l'AD
 
 Des essais cliniques testent CRISPR pour des maladies héréditaires comme la bêta-thalassémie et la drépanocytose. Cette fiche ne donne aucun conseil médical.
 
+```schema
+type: etapes
+titre: Cas9, les ciseaux de CRISPR
+elements:
+  - titre: Défense bactérienne
+    texte: À l'origine, contre les virus.
+  - titre: Guide
+    texte: Il conduit Cas9 vers la bonne séquence.
+  - titre: Coupe
+    texte: Cas9 coupe l'ADN.
+    icone: scissors
+```
+
 ## À retenir
 
 - CRISPR est l'abréviation de « clustered regularly interspaced short palindromic repeats ».
@@ -10229,6 +12036,21 @@ En revenant à l'équilibre, les protons émettent un signal que des capteurs d�
 ## Ce que l'IRM voit, et ce qu'elle exige
 
 Contrairement aux rayons X et au scanner, l'IRM n'utilise pas de rayonnement ionisant. Elle montre très bien les tissus mous, comme le cerveau, la moelle épinière, les muscles et les tendons. On peut injecter un produit de contraste, qui contient souvent du gadolinium, pour rendre certaines images plus lumineuses. Les objets métalliques ferromagnétiques, comme certains stimulateurs cardiaques, sont une contre-indication, car le champ magnétique est très puissant. L'examen est bruyant, et la personne doit rester immobile à l'intérieur de l'aimant.
+
+```schema
+type: etapes
+titre: Comment fonctionne l'IRM
+elements:
+  - titre: Aligner
+    texte: L'aimant aligne les protons du corps.
+    icone: magnet
+  - titre: Perturber
+    texte: Une impulsion d'ondes radio les désaligne.
+  - titre: Écouter
+    texte: En revenant, les protons émettent un signal.
+  - titre: Reconstruire
+    texte: L'ordinateur en fait une image.
+```
 
 ## À retenir
 
@@ -10313,6 +12135,19 @@ La rhizosphère est la région étroite du sol directement influencée par les s
 ## Ce qui change le microbiome
 
 Le pH, la texture, la matière organique et les plantes cultivées influencent les populations de microbes. Les pratiques agricoles, comme la rotation des cultures ou la fertilisation azotée, modifient les communautés microbiennes du sol. Les engrais chimiques et les pesticides peuvent perturber ces communautés. Un sol riche en microbes variés réduit les maladies des plantes et peut améliorer la productivité des cultures.
+
+```schema
+type: systeme
+titre: Les microbes au service des racines
+centre: Racines
+parties:
+  - nom: Cycles des éléments
+    role: Carbone, azote, phosphore, soufre.
+  - nom: Fixation de l'azote
+    role: Par certaines bactéries.
+  - nom: Champignons mycorhiziens
+    role: Ils s'associent aux racines.
+```
 
 ## À retenir
 
@@ -10417,6 +12252,19 @@ Le calmar hawaïen héberge dans des organes lumineux des bactéries du genre Vi
 
 En biotechnologie, la luciférase sert de gène rapporteur : sa lumière montre qu'un gène est actif. La lumière produite avec l'ATP sert aussi de biocapteur pour détecter des microbes vivants, par exemple dans l'eau.
 
+```schema
+type: systeme
+titre: La bioluminescence
+centre: Lumière
+icone: bulb
+parties:
+  - nom: Luciférine
+    role: Le substrat.
+  - nom: Luciférase
+    role: L'enzyme.
+  - nom: Oxygène
+```
+
 ## À retenir
 
 - La bioluminescence est la production et l'émission de lumière par un être vivant, grâce à une réaction chimique.
@@ -10502,6 +12350,21 @@ L'édition génomique utilise des ciseaux moléculaires, des enzymes qui coupent
 ## Ce qu'on en attend, et les précautions
 
 Ces techniques modifient le génome sans nécessairement introduire d'ADN étranger. On cite déjà des tomates éditées et des plantes résistantes aux maladies. Les buts sont la tolérance aux stress, le rendement, la qualité, l'adaptation au climat et la résistance aux maladies. Les scientifiques signalent des risques, comme les effets hors cible et les impacts écologiques possibles des gènes dirigeant l'hérédité.
+
+```schema
+type: comparaison
+titre: Sélection classique ou édition génomique
+colonnes:
+  - titre: Sélection classique
+    points:
+      - Croiser des plantes aux bons caractères
+      - Plusieurs générations
+  - titre: Édition génomique
+    icone: scissors
+    points:
+      - Des ciseaux moléculaires coupent l'ADN à un endroit précis
+      - La cellule répare et modifie le gène
+```
 
 ## À retenir
 
@@ -10605,6 +12468,21 @@ Le PLA, ou acide polylactique, est fabriqué par fermentation de l'amidon de ma�
 
 Les plastiques compostables se décomposent en général dans des installations de compostage industriel, après avoir été collectés. Le PLA se dégrade mal dans les décharges et les composts domestiques, et se dégrade en mer comme les plastiques issus du pétrole. Les cultures qui les produisent font concurrence à l'alimentation et utilisent des terres, des engrais et des pesticides. Selon les études, certains bioplastiques réduisent l'empreinte carbone, d'autres abîment plus l'environnement que les plastiques du pétrole. Le coût et les performances posent problème : le PLA est cassant et résiste mal à la chaleur. L'Union européenne a adopté un cadre pour éviter les fausses allégations de biodégradabilité, qui pourraient encourager à jeter ces plastiques dans la nature. Les bioplastiques représentent encore une petite part de la production mondiale de plastiques.
 
+```schema
+type: comparaison
+titre: Trois mots à ne pas confondre
+colonnes:
+  - titre: Biosourcé
+    points:
+      - Fabriqué à partir de ressources renouvelables
+  - titre: Biodégradable
+    points:
+      - Dégradé par des micro-organismes
+  - titre: Compostable
+    points:
+      - Dégradé dans des conditions de compostage
+```
+
 ## À retenir
 
 - Un bioplastique est un plastique fabriqué à partir de ressources renouvelables, comme l'amidon, la cellulose ou la canne à sucre, plutôt que de pétrole.
@@ -10691,6 +12569,18 @@ Le doryphore de la pomme de terre est un ravageur majeur : ses larves peuvent d�
 
 L'agence américaine de l'environnement a conclu à l'absence de risque préoccupant pour la santé humaine et l'environnement, y compris pour les espèces protégées. Elle a enregistré le produit pour une durée limitée, après une période d'essais et une consultation publique. L'interférence par ARN sert aussi à créer des plantes à teneur réduite en toxines ou en allergènes, comme le coton à faible teneur en gossypol. C'est aussi un outil de recherche qui permet d'étudier la fonction des gènes.
 
+```schema
+type: etapes
+titre: L'interférence par ARN
+elements:
+  - titre: ARN double brin
+    texte: Pulvérisé sur la culture.
+  - titre: Dicer
+    texte: L'enzyme le coupe en petits morceaux.
+  - titre: Gène éteint
+    texte: Chez le ravageur visé.
+```
+
 ## À retenir
 
 - L'interférence par ARN est un processus naturel où un ARN double brin entraîne l'extinction d'un gène dont la séquence correspond.
@@ -10774,6 +12664,18 @@ Les nouvelles techniques génomiques regroupent des techniques d'édition du gé
 ## Exceptions et suites
 
 Certains caractères sont exclus de la catégorie 1, comme la tolérance aux herbicides ou la production de substances insecticides connues. Les plantes de catégorie 2 sont exclues de la production biologique, et l'usage de la catégorie 1 dans le bio reste interdit en attendant une évaluation. Les développeurs doivent déclarer leurs brevets dans une base publique, et un groupe d'experts étudiera l'effet du droit des brevets. Le Conseil de l'Union européenne a adopté le règlement ; son application est attendue dans plusieurs années, pas immédiatement.
+
+```schema
+type: comparaison
+titre: Deux façons de réglementer
+colonnes:
+  - titre: Union européenne
+    points:
+      - Regarde le procédé utilisé
+  - titre: Amérique du Nord
+    points:
+      - Regarde surtout le produit obtenu
+```
 
 ## À retenir
 

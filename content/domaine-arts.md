@@ -294,8 +294,15 @@ parfaitement légitime — simplement, ce n'est pas un choix scientifique.
 - La France a fixé 435 hertz par une loi en 1859, avant l'adoption de 440.
 - Les affirmations sur les vertus du 432 hertz ne reposent sur aucune donnée.
 
-[Emplacement image : évolution de la hauteur du diapason en Europe du XVIIe au XXe siècle,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le diapason
+chiffres:
+  - valeur: 440 Hz
+    texte: 440 vibrations par seconde pour le la
+  - valeur: Un demi-ton
+    texte: l'écart possible autrefois d'une ville à l'autre
+```
 
 ---
 
@@ -403,8 +410,21 @@ de l'octave, qui ne se ramènent pas à douze demi-tons.
 - Le tempérament égal répartit cet écart sur les douze demi-tons.
 - Seule l'octave reste parfaitement juste sur un piano.
 
-[Emplacement image : comparaison des intervalles purs et tempérés sur une octave, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les rapports des intervalles justes
+legende: Douze quintes justes ne tombent pas exactement sur sept octaves.
+colonnes:
+  - titre: Octave
+    points:
+      - Rapport 2 pour 1
+  - titre: Quinte
+    points:
+      - Rapport 3 pour 2
+  - titre: Tierce majeure
+    points:
+      - Rapport 5 pour 4
+```
 
 ---
 
@@ -504,8 +524,19 @@ celles d'Aristophane, souvent d'une férocité politique qui surprend aujourd'hu
 - Eschyle ajoute un deuxième acteur, Sophocle un troisième.
 - Le mot « scène » vient de la skènè, bâtiment servant de coulisse.
 
-[Emplacement image : plan d'un théâtre grec antique avec gradins, orchestra et skènè, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: La naissance du théâtre à Athènes
+evenements:
+  - date: Fêtes de Dionysos
+    titre: Le cadre d'origine
+  - date: Vers 534 av. J.-C.
+    titre: Thespis
+    texte: Le premier à jouer un personnage.
+  - date: Ensuite
+    titre: Eschyle
+    texte: Il ajoute un deuxième acteur.
+```
 
 ---
 
@@ -607,8 +638,20 @@ l'enseignement mondial.
 - Le vocabulaire fixé alors est resté français dans le monde entier.
 - Le passage à la scène frontale a transformé la composition des ballets.
 
-[Emplacement image : les cinq positions académiques des pieds, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: frise
+titre: La naissance du ballet
+evenements:
+  - date: Renaissance
+    titre: Cours italiennes
+  - date: 1661
+    titre: Académie à Paris
+    texte: Le ballet est codifié, son vocabulaire est français.
+  - date: Ensuite
+    titre: Passage à la scène
+  - date: XIXe siècle
+    titre: Romantisme et Russie
+```
 
 ---
 
@@ -711,8 +754,17 @@ Le genre se répand ensuite en Europe en s'adaptant partout aux goûts locaux.
 - L'Orfeo de Monteverdi, en 1607, fixe l'équilibre du genre.
 - Venise ouvre les premiers théâtres payants en 1637.
 
-[Emplacement image : représentation d'opéra au XVIIe siècle avec machinerie scénique, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'invention de l'opéra
+elements:
+  - titre: Reconstituer la tragédie grecque
+  - titre: Le récitatif
+    texte: Une voix seule sur une basse, des paroles compréhensibles.
+  - titre: Monteverdi
+    texte: Il donne sa forme au genre.
+  - titre: Le théâtre payant
+```
 
 ---
 
@@ -815,8 +867,21 @@ recompose autour du concert, les revenus tirés de la diffusion étant très fai
 - La bande magnétique a introduit le montage et l'enregistrement multipiste.
 - La diffusion en flux a déplacé la valeur du support vers l'accès.
 
-[Emplacement image : frise des supports d'enregistrement, du cylindre au fichier, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Les quatre ères de l'enregistrement
+evenements:
+  - date: 1877
+    titre: L'ère mécanique
+  - date: Années 1920
+    titre: L'ère électrique
+    texte: Le microphone permet le chant intime.
+  - date: Ensuite
+    titre: L'ère magnétique
+    texte: La bande permet le montage.
+  - date: Aujourd'hui
+    titre: L'ère numérique
+```
 
 ---
 
@@ -916,8 +981,19 @@ ruptures.
 - Brunelleschi en fait la démonstration, Alberti l'explique par écrit en 1435.
 - Le système suppose un observateur unique, immobile et monoculaire.
 
-[Emplacement image : construction d'un pavement en perspective avec son point de fuite, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Avant et après la perspective
+colonnes:
+  - titre: Avant
+    points:
+      - La taille indique l'importance
+  - titre: Perspective linéaire
+    icone: eye
+    points:
+      - Les parallèles convergent vers un point de fuite
+      - La taille indique la distance
+```
 
 ---
 
@@ -1011,8 +1087,16 @@ Cette incertitude n'a pas empêché la vente. Elle rappelle que le prix d'une œ
 - Moins de vingt peintures sont attribuées à Léonard dans le monde.
 - L'attribution et l'ampleur de la restauration restent discutées.
 
-[Emplacement image : le tableau avant et après restauration, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: barres
+titre: Le prix du Salvator Mundi
+unite: ""
+valeurs:
+  - label: 1958, en livres
+    valeur: 45
+  - label: 2017, en millions de dollars
+    valeur: 450.3
+```
 
 ---
 
@@ -1117,8 +1201,22 @@ la voie au cinéma.
 - Le daguerréotype, en 1839, donne une image unique et très fine.
 - Le négatif de Talbot fonde la reproductibilité des images.
 
-[Emplacement image : daguerréotype et tirage papier comparés, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'invention de la photographie
+elements:
+  - titre: Chambre noire
+    texte: Connue depuis longtemps.
+    icone: camera
+  - titre: Sels d'argent
+    texte: Sensibles à la lumière.
+  - titre: Fixer l'image
+    texte: Le problème décisif.
+  - titre: Daguerréotype
+    texte: 1839.
+  - titre: Négatif
+    texte: Il permet de multiplier les tirages.
+```
 
 ---
 
@@ -1215,8 +1313,17 @@ Ils pensaient d'ailleurs que leur invention n'avait pas d'avenir commercial dura
 - L'apport décisif des Lumière est la projection collective.
 - Le format 35 millimètres restera le standard pendant plus d'un siècle.
 
-[Emplacement image : le Cinématographe Lumière, caméra et projecteur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La première séance, 28 décembre 1895
+chiffres:
+  - valeur: 33
+    texte: spectateurs environ
+  - valeur: 1 franc
+    texte: l'entrée
+  - valeur: 10 films
+    texte: d'environ 50 secondes
+```
 
 ---
 
@@ -1322,8 +1429,20 @@ ou l'optique d'un même caractère — une souplesse qu'aucun procédé antérie
 - Les caractères sans empattements naissent de la publicité au XIXe siècle.
 - Les fontes variables font varier le dessin en continu.
 
-[Emplacement image : comparaison d'un caractère humaniste, d'une didone et d'une linéale,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: D'où viennent les formes des lettres
+evenements:
+  - date: Plume
+    titre: Pleins et déliés
+    texte: Hérités de la plume taillée en biseau.
+  - date: Imprimerie
+    titre: Le trait s'affine
+  - date: Publicité
+    titre: Les caractères sans empattement
+  - date: Écran
+    titre: Une nouvelle contrainte
+```
 
 ---
 
@@ -1425,8 +1544,22 @@ droit.
 - Une colonne dorique fait 4 à 6 diamètres de haut, une corinthienne près de 10.
 - Les corrections optiques déforment volontairement pour paraître droites.
 
-[Emplacement image : les trois ordres grecs avec leurs proportions comparées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les trois ordres grecs
+colonnes:
+  - titre: Dorique
+    icone: columns
+    points:
+      - Colonne sans base
+      - Chapiteau simple
+  - titre: Ionique
+    points:
+      - Chapiteau à volutes
+  - titre: Corinthien
+    points:
+      - Chapiteau à feuilles d'acanthe
+```
 
 ---
 
@@ -1531,8 +1664,19 @@ partiellement. Le système avait trouvé sa limite.
 - L'arc brisé réduit la poussée horizontale.
 - L'arc-boutant reporte la poussée à l'extérieur, libérant le mur pour les verrières.
 
-[Emplacement image : coupe d'une nef gothique montrant croisée d'ogives et arcs-boutants,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois inventions du gothique
+centre: Cathédrale gothique
+parties:
+  - nom: Croisée d'ogives
+    role: Elle concentre les charges sur les angles.
+  - nom: Arc brisé
+  - nom: Arcs-boutants
+    role: Ils reprennent la poussée à l'extérieur.
+  - nom: Résultat
+    role: Des murs percés de grands vitraux.
+```
 
 ---
 
@@ -1631,8 +1775,16 @@ vite. Il était pompé jusqu'à des hauteurs inédites pour un chantier de bâti
 - Le plan en Y rigidifie la structure comme les nervures d'une poutre.
 - Les retraits en spirale empêchent les tourbillons de se synchroniser.
 
-[Emplacement image : silhouette du Burj Khalifa avec ses retraits successifs et schéma des
-tourbillons, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le vent et les gratte-ciel
+elements:
+  - titre: Le vent souffle sur la tour
+  - titre: Tourbillons alternés
+    texte: Ils peuvent la faire osciller de plus en plus.
+  - titre: Forme qui varie avec la hauteur
+    texte: Pour désorganiser le vent.
+```
 
 ---
 
@@ -1730,8 +1882,17 @@ sérieuse de la fréquentation.
 - Une liste du patrimoine en péril signale les sites menacés.
 - L'inscription attire un tourisme qui peut menacer le site lui-même.
 
-[Emplacement image : répartition mondiale des sites inscrits par catégorie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le patrimoine mondial
+chiffres:
+  - valeur: "> 1 200"
+    texte: sites inscrits
+  - valeur: 168
+    texte: pays
+  - valeur: Liste en péril
+    texte: pour les sites menacés
+```
 
 ---
 
@@ -1840,8 +2001,18 @@ Elles portaient rarement sur la technique employée, presque toujours sur cette 
 - Toute restauration suppose de choisir un état à restituer, ce qui est un choix
   d'interprétation.
 
-[Emplacement image : atelier de restauration avec contrôle de l'éclairage et de l'humidité,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Conserver ou restaurer
+colonnes:
+  - titre: Conservation préventive
+    points:
+      - Agit sur l'environnement de l'œuvre
+      - Lumière, humidité, température
+  - titre: Restauration
+    points:
+      - Agit sur l'objet lui-même
+```
 
 ---
 
@@ -1951,8 +2122,18 @@ Et parfois des conflits, quand plusieurs pays revendiquent un élément qu'ils p
 - On parle de sauvegarde, car la pratique doit rester vivante et donc changeante.
 - Ce sont les communautés concernées qui définissent leur patrimoine.
 
-[Emplacement image : transmission d'un savoir-faire artisanal entre générations, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les cinq domaines du patrimoine immatériel
+legende: Convention de l'UNESCO de 2003.
+centre: Patrimoine immatériel
+parties:
+  - nom: Traditions orales
+  - nom: Arts du spectacle
+  - nom: Pratiques sociales et fêtes
+  - nom: Connaissances sur la nature
+  - nom: Artisanat
+```
 
 ---
 
@@ -2059,8 +2240,17 @@ Le genre le plus libre de règles est aussi celui qui dépend le plus étroiteme
 - Le XVIIIe siècle anglais invente le personnage ordinaire et l'accès aux pensées.
 - Le feuilleton de presse a façonné la forme des romans du XIXe siècle.
 
-[Emplacement image : édition ancienne de Don Quichotte, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: frise
+titre: Comment le roman est devenu un genre
+evenements:
+  - date: Avant
+    titre: Aucune règle héritée de l'Antiquité
+  - date: Don Quichotte
+    titre: Un roman sur la lecture des romans
+  - date: XVIIIe siècle
+    titre: L'intérieur des personnages
+```
 
 ---
 
@@ -2169,8 +2359,17 @@ l'identique, accélérera la construction des savoirs scientifiques.
 - Alliage, moule réglable, encre grasse et presse forment le système.
 - La reproduction à l'identique fonde la référence stable et la critique des textes.
 
-[Emplacement image : composition d'une forme typographique et presse à bras, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le système de Gutenberg
+centre: Imprimerie
+icone: book
+parties:
+  - nom: Alliage
+  - nom: Moule réglable
+  - nom: Encre grasse
+  - nom: Presse
+```
 
 ---
 
@@ -2671,8 +2870,18 @@ d'années.
   couleur.
 - Ce savoir-faire ancien reste utilisable avec des matériaux trouvés localement.
 
-[Emplacement image : pigments naturels en poudre, de l'ocre rouge au bleu outremer, à côté des
-matériaux bruts dont ils sont issus, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: D'où viennent les pigments
+centre: Pigments
+icone: palette
+parties:
+  - nom: Terres
+    role: L'ocre, riche en oxyde de fer.
+  - nom: Minéraux rares
+    role: Le lapis-lazuli pour le bleu outremer.
+  - nom: Végétaux et animaux
+```
 
 ---
 
@@ -2790,6 +2999,20 @@ Un disque peut se décaler ou se rayer. D'autres inventeurs ont donc inscrit le 
 ## Un monde qui change
 
 Pour que les voix ne sonnent pas faux, la vitesse de projection a été fixée à 24 images par seconde. Les films muets défilaient plus lentement, souvent à 16 à 18 images par seconde. Le parlant a coûté cher : certains petits studios ont disparu. Des vedettes du muet dont la voix ne plaisait pas ont perdu leur place. Aux États-Unis, environ 22 000 musiciens de cinéma ont perdu leur emploi entre 1926 et 1928.
+
+```schema
+type: frise
+titre: Le cinéma devient parlant
+evenements:
+  - date: Muet
+    titre: Intertitres et musique en salle
+  - date: Disque
+    titre: Le son sur un disque
+  - date: 6 octobre 1927
+    titre: Le Chanteur de jazz
+  - date: Ensuite
+    titre: Le son sur la pellicule
+```
 
 ## À retenir
 
@@ -3132,8 +3355,19 @@ laissent aussi une empreinte environnementale bien plus faible que la constructi
 - Ce savoir-faire se transmet par la pratique, sans plans architecturaux formels.
 - Il reste utile là où l'accès aux matériaux industriels est limité.
 
-[Emplacement image : plusieurs habitations traditionnelles du monde, maison en adobe, trullo et
-maison sur pilotis, cote a cote, legende et texte alternatif a fournir ulterieurement.]
+```schema
+type: systeme
+titre: L'architecture vernaculaire
+centre: Maison traditionnelle
+icone: house
+parties:
+  - nom: Matériaux locaux
+    role: Terre, bois, pierre, bambou.
+  - nom: Climat
+    role: S'y adapter plutôt que le combattre.
+  - nom: Savoir transmis
+    role: Sans plan.
+```
 
 ---
 
@@ -3328,9 +3562,17 @@ retrouver un document précis.
 - Dupliquer un document important répartit le risque de perte totale.
 - Un classement clair rend une collection réellement utilisable, pas seulement conservée.
 
-[Emplacement image : rayonnages d'archives dans une pièce fraîche et sombre, avec des documents
-rangés à plat et verticalement selon leur format, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les ennemis des documents anciens
+centre: Document ancien
+icone: book
+parties:
+  - nom: Chaleur
+  - nom: Humidité
+  - nom: Lumière
+  - nom: Insectes
+```
 
 ---
 
@@ -3477,8 +3719,15 @@ qu'une transmission directe et continue.
 - Reconstruire une technique perdue est possible, mais rarement aussi précis qu'une transmission
   directe.
 
-[Emplacement image : un artisan expérimenté montrant un geste précis à un jeune apprenti dans un
-atelier, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Transmettre un savoir-faire
+elements:
+  - titre: Le maître montre le geste
+  - titre: L'apprenti répète
+  - titre: Le geste devient maîtrisé
+  - titre: L'apprenti transmet à son tour
+```
 
 ---
 
@@ -3724,8 +3973,17 @@ diffusion des connaissances et de l'écrit.
 - Un tamis de bambou capture les fibres en une fine couche qui deviendra la feuille.
 - Cette invention s'est diffusée du monde chinois vers le Moyen-Orient puis l'Europe.
 
-[Emplacement image : étapes de la fabrication du papier, du tamis de bambou plongé dans la pâte
-jusqu'aux feuilles séchant au soleil, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Fabriquer du papier
+legende: Procédé mis au point par Cai Lun vers l'an 105.
+elements:
+  - titre: Pâte de fibres
+  - titre: Tamis
+    texte: Il capture les fibres.
+  - titre: Presser
+  - titre: Sécher
+```
 
 ---
 
@@ -3852,8 +4110,18 @@ calame taillé à la main.
 - Le calame de roseau reste une alternative plus rigide, adaptée à certaines calligraphies.
 - Une encre simple peut se fabriquer avec de la suie broyée et un liant comme la gomme arabique.
 
-[Emplacement image : une plume d'oiseau taillée trempée dans un encrier, à côté d'un calame de
-roseau, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux encres anciennes
+colonnes:
+  - titre: Encre au carbone
+    points:
+      - Suie et liant
+      - Depuis environ 2700 av. J.-C.
+  - titre: Encre au fer et à la noix de galle
+    points:
+      - Permanente
+```
 
 ---
 
@@ -4270,6 +4538,19 @@ La forme de la note dit combien de temps elle dure. Une ronde est un rond vide. 
 
 Les noms des notes viennent d'un moine italien, Guido d'Arezzo, qui a vécu vers 992-1050. Pour aider les chanteurs à retenir les sons, il a utilisé un hymne latin à saint Jean-Baptiste, « Ut queant laxis ». Chaque vers commence une note plus haut que le précédent. Il a gardé la première syllabe de chaque vers : ut, ré, mi, fa, sol, la. Plus tard, « ut » est devenu « do », plus facile à chanter. Dans les pays de langue anglaise ou allemande, on désigne plutôt les notes par des lettres, de A à G.
 
+```schema
+type: systeme
+titre: Lire une partition
+centre: Note
+icone: note
+parties:
+  - nom: Portée
+    role: Cinq lignes ; plus haut, plus aigu.
+  - nom: Clé
+  - nom: Forme de la note
+    role: Elle donne la durée.
+```
+
 ## À retenir
 
 - Une partition note la hauteur et la durée de chaque son.
@@ -4522,6 +4803,19 @@ Dans la flûte à bec, un petit conduit dirige le souffle vers le biseau. Dans l
 ## Le plus vieil instrument connu
 
 Des fragments de flûte ont été trouvés dans la grotte de Hohle Fels, en Allemagne. Ils ont environ 35 000 ans et sont taillés dans un os de vautour. Ce sont parmi les plus anciens instruments de musique connus. Au XIXe siècle, Theobald Boehm a perfectionné le système de clés de la flûte traversière moderne.
+
+```schema
+type: etapes
+titre: Le son d'une flûte
+elements:
+  - titre: Souffle
+  - titre: Biseau
+    texte: Le souffle s'y brise et oscille.
+  - titre: Colonne d'air
+    texte: Elle vibre dans le tube.
+  - titre: Trous
+    texte: Ils changent la note.
+```
 
 ## À retenir
 
@@ -5799,6 +6093,16 @@ Pour qu'un pictogramme soit compris partout, il faut que tout le monde utilise l
 
 Les Jeux olympiques accueillent des sportifs et des spectateurs de nombreux pays. Depuis les Jeux de Tokyo en 1964, dessinés par l'équipe de Masaru Katsumi, chaque sport y a son pictogramme. Ceux des Jeux de Munich, en 1972, ont eu une très grande influence sur le dessin des pictogrammes. Depuis, chaque édition des Jeux crée sa propre série.
 
+```schema
+type: systeme
+titre: Un bon pictogramme
+centre: Pictogramme
+parties:
+  - nom: Ressemblance
+  - nom: Simplicité
+  - nom: Règles partagées
+```
+
 ## À retenir
 
 - Un pictogramme est un dessin simplifié dont le sens vient de sa ressemblance avec un objet réel.
@@ -6006,6 +6310,21 @@ Dans la taille-douce, c'est l'inverse. Le graveur creuse les traits du dessin da
 ## Des images pour beaucoup de monde
 
 La gravure sur bois existait en Chine dès le VIIe siècle. En Europe, elle apparaît vers 1400, et la gravure sur cuivre vers 1430. Grâce à elle, une même image pouvait être vendue à de nombreux exemplaires, bien moins cher qu'une peinture. Des artistes comme Albrecht Dürer ou Rembrandt sont devenus célèbres grâce à leurs gravures. Au XIXe siècle, la photographie lui fait concurrence.
+
+```schema
+type: comparaison
+titre: Deux familles de gravure
+legende: L'image imprimée est inversée, comme dans un miroir.
+colonnes:
+  - titre: En relief
+    points:
+      - On creuse autour du dessin
+      - L'encre reste sur les parties hautes
+  - titre: En creux
+    points:
+      - On creuse le dessin
+      - L'encre reste dans les creux
+```
 
 ## À retenir
 
@@ -6626,6 +6945,19 @@ La terre cuite reste poreuse : elle garde de minuscules trous où l'eau peut pas
 
 La céramique est née avant le travail des métaux et du verre. Les plus anciens morceaux de poterie connus ont été trouvés en Chine : ils ont environ 20 000 ans avant notre ère. Aujourd'hui, la céramique sert aussi bien pour la vaisselle et les lavabos que pour les briques, les tuiles ou des pièces d'industrie.
 
+```schema
+type: etapes
+titre: De l'argile à la céramique
+elements:
+  - titre: Modeler
+    texte: L'argile mouillée.
+  - titre: Sécher
+    texte: Elle reste fragile.
+  - titre: Cuire
+    texte: Les grains se soudent.
+    icone: fire
+```
+
 ## À retenir
 
 - L'argile mouillée se modèle ; sèche mais non cuite, elle reste fragile et craint l'eau.
@@ -6798,6 +7130,17 @@ L'enduit sèche en quelques heures. Le peintre n'en étale donc chaque jour que 
 ## Des chefs-d'œuvre sur les murs
 
 En Italie, entre 1303 et 1305, Giotto couvre de fresques la chapelle des Scrovegni, à Padoue. Entre 1508 et 1512, Michel-Ange peint à fresque le plafond de la chapelle Sixtine, à Rome, à la demande du pape Jules II.
+
+```schema
+type: etapes
+titre: La fresque
+elements:
+  - titre: Enduit de chaux frais
+  - titre: Pigments et eau
+  - titre: Séchage
+    texte: La chaux réagit avec le gaz carbonique.
+  - titre: Pigments pris dans la pierre
+```
 
 ## À retenir
 
@@ -6974,6 +7317,16 @@ Si le trou est grand, il laisse entrer beaucoup de lumière, mais chaque point d
 ## Une idée très ancienne
 
 Le premier texte connu sur ce phénomène a été écrit en Chine vers 500 avant notre ère, par le penseur Mozi. Vers l'an 1000, le savant arabe Ibn al-Haytham a étudié la chambre noire en détail. Plus tard, on a remplacé le trou par une lentille pour obtenir une image plus lumineuse, puis on a posé au fond un matériau sensible à la lumière : l'appareil photo était né. La nature fabrique aussi des sténopés. Pendant une éclipse partielle, les trous entre les feuilles d'un arbre projettent au sol de petits croissants de Soleil.
+
+```schema
+type: etapes
+titre: La chambre noire
+elements:
+  - titre: Lumière en ligne droite
+  - titre: Les rayons se croisent dans le trou
+  - titre: Image inversée sur le fond
+    icone: camera
+```
 
 ## À retenir
 
@@ -7936,6 +8289,16 @@ Le plus ancien papyrus connu date d'environ 2900 avant notre ère. Il a été tr
 
 Au Moyen Âge, il devient plus difficile d'en faire venir d'Égypte jusqu'en Europe. Le parchemin, fait de peau d'animal et plus solide, prend sa place. En France, il le remplace vers 670. Le papier, inventé en Chine, s'impose ensuite en Europe à partir du XIIe siècle. Le mot « papier » vient d'ailleurs du mot « papyrus ».
 
+```schema
+type: etapes
+titre: Fabriquer du papyrus
+elements:
+  - titre: Moelle de la tige
+  - titre: Lamelles en deux couches croisées
+  - titre: Presser
+  - titre: Sécher
+```
+
 ## À retenir
 
 - Le papyrus est une plante des bords du Nil dont on utilisait la moelle de la tige.
@@ -8504,6 +8867,16 @@ Tant que la clé n'est pas posée, l'arc ne tient pas. Les bâtisseurs construis
 ## Des Romains aux églises romanes
 
 Les Romains ont beaucoup utilisé l'arc en plein cintre, dans leurs bâtiments comme dans leurs aqueducs. Le pont du Gard en aligne plusieurs étages. Au Moyen Âge, il devient l'élément principal de l'architecture romane. À la Renaissance, les architectes le reprennent comme un modèle venu de l'Antiquité.
+
+```schema
+type: etapes
+titre: L'arc en plein cintre
+elements:
+  - titre: Cintre en bois
+  - titre: Voussoirs taillés en coin
+  - titre: Clé posée en dernier
+  - titre: Le poids serre les pierres
+```
 
 ## À retenir
 
@@ -13229,6 +13602,18 @@ Les moines copiaient les textes dans le scriptorium, une salle d'écriture des m
 
 Le Livre de Kells et les Très Riches Heures sont des exemples célèbres de manuscrits enluminés. L'imprimerie a fait décliner l'enluminure : on en a encore produit au début du XVIe siècle, mais en bien plus petit nombre et pour les très riches. Une analyse dentaire publiée en 2019 a montré que des femmes ont aussi enluminé des manuscrits.
 
+```schema
+type: etapes
+titre: Fabriquer un manuscrit enluminé
+elements:
+  - titre: Préparer le parchemin
+  - titre: Copier le texte à la main
+  - titre: Peindre les miniatures
+    icone: palette
+  - titre: Poser l'or
+  - titre: Relier
+```
+
 ## À retenir
 
 - Un manuscrit enluminé est un livre copié à la main, dont le texte est décoré de bordures et de miniatures.
@@ -13316,6 +13701,18 @@ Les typographes plaçaient à la main les caractères dans un composteur, pris d
 ## À l'ère du numérique
 
 Avec la photocomposition puis la publication assistée par ordinateur, les méthodes au plomb ont laissé place à des méthodes numériques. La lisibilité désigne la facilité à distinguer chaque lettre ; la lecturabilité, la facilité à comprendre le texte dans son ensemble.
+
+```schema
+type: frise
+titre: Du plomb à l'écran
+evenements:
+  - date: Caractères mobiles
+    titre: Le plomb
+  - date: Composition au plomb
+    titre: Lignes fondues
+  - date: Numérique
+    titre: Polices sur écran
+```
 
 ## À retenir
 
@@ -13420,6 +13817,19 @@ Un musicien peut changer le timbre par sa technique : un violoniste qui joue pr�
 
 Deux notes dont les fréquences sont dans des rapports simples, comme 2/1, 3/2 ou 5/4, sonnent de façon harmonieuse. Un intervalle légèrement désaccordé produit des battements : le son pulse, ce que l'on perçoit comme une dissonance. Une part du timbre est psychologique : elle est perçue par le cerveau et ne se mesure pas directement avec la physique.
 
+```schema
+type: comparaison
+titre: Ce qui fait le timbre
+colonnes:
+  - titre: Fondamentale
+    points:
+      - Elle détermine la hauteur de la note
+  - titre: Harmoniques
+    points:
+      - Leur mélange donne le timbre
+      - Il distingue les instruments
+```
+
 ## À retenir
 
 - Le timbre est ce qui permet de reconnaître un instrument ou une voix.
@@ -13510,6 +13920,17 @@ Des catalogues illustrés, comme le Museum Wormianum d'Ole Worm, faisaient conna
 
 Au XVIIIe siècle, sous l'influence des Lumières, on a classé les objets par nature, ce qui a conduit à la création de musées. Ces collections ont formé le noyau de musées modernes, comme l'Ashmolean Museum d'Oxford et le British Museum.
 
+```schema
+type: etapes
+titre: Du cabinet de curiosités au musée
+elements:
+  - titre: Renaissance
+    texte: Des objets rares naturels, artistiques et scientifiques.
+  - titre: Catalogues
+    texte: Pour les savants.
+  - titre: Musée
+```
+
 ## À retenir
 
 - Un cabinet de curiosités rassemble des objets rares : naturels, artistiques et scientifiques.
@@ -13597,6 +14018,20 @@ La manufacture est spécialisée dans la tapisserie de haute lisse, tissée par 
 ## Le Mobilier national
 
 Le Mobilier national gère les manufactures des Gobelins, de Beauvais et de la Savonnerie, ainsi que des ateliers de dentelle à Alençon et au Puy-en-Velay. Le Mobilier national meuble les bâtiments officiels de la République, comme l'Élysée, Matignon, les ministères et les ambassades, et gère leurs collections. Le Mobilier national a fusionné avec la Cité de la céramique pour former les Manufactures nationales, Sèvres et Mobilier national. Aujourd'hui, elle fonctionne comme une institution d'État, relevant du ministère de la Culture, et propose des visites et des expositions.
+
+```schema
+type: frise
+titre: Les Gobelins
+evenements:
+  - date: XVe siècle
+    titre: Une famille de teinturiers
+    texte: À Paris, faubourg Saint-Marcel.
+  - date: Louis XIV
+    titre: Manufacture royale
+    texte: Voulue par Colbert.
+  - date: Aujourd'hui
+    titre: Le Mobilier national
+```
 
 ## À retenir
 
@@ -13686,6 +14121,18 @@ La Chine passe pour le berceau du théâtre d'ombres ; des traditions existent a
 
 Dominique Séraphin a installé le théâtre d'ombres en France au XVIIIe siècle, et le cabaret du Chat Noir l'a popularisé à la fin du XIXe siècle.
 
+```schema
+type: systeme
+titre: Les familles de marionnettes
+centre: Marionnette
+parties:
+  - nom: À fils
+  - nom: À gaine
+  - nom: À tringle
+  - nom: Ombres
+    role: Silhouettes derrière un écran.
+```
+
 ## À retenir
 
 - Une marionnette est un objet de jeu théâtral ou à usage sacré, manipulé par un marionnettiste.
@@ -13768,6 +14215,21 @@ Le vermillon est un pigment rouge toxique, fabriqué à partir du cinabre, un mi
 ## Le vert-de-gris
 
 Le vert-de-gris est un nom courant pour des sels de cuivre de l'acide acétique, un peu toxiques, qui vont du vert au vert bleuté. Le vert-de-gris a été l'un des principaux pigments verts des artistes, de l'Antiquité à la fin du XXe siècle. Avec le temps, ce pigment vert peut brunir ou s'assombrir. Son usage a reculé au XIXe siècle, quand le vert émeraude et le viridian sont devenus disponibles.
+
+```schema
+type: comparaison
+titre: Trois pigments dangereux
+colonnes:
+  - titre: Blanc de plomb
+    points:
+      - Carbonate de plomb
+  - titre: Vermillon
+    points:
+      - Sulfure de mercure
+  - titre: Vert-de-gris
+    points:
+      - À base de cuivre
+```
 
 ## À retenir
 
@@ -13856,6 +14318,17 @@ La Sortie de l'usine Lumière à Lyon est le premier film de Louis Lumière ; L'
 
 En 1896, les frères Lumière font des tournées avec le cinématographe en Europe, au Mexique et en Amérique du Sud. Les frères Lumière ont aussi mis au point l'Autochrome, un procédé de photographie en couleurs. L'Institut Lumière, à Lyon, est installé dans la maison de leur père.
 
+```schema
+type: systeme
+titre: Le cinématographe, un appareil trois en un
+centre: Cinématographe
+icone: camera
+parties:
+  - nom: Filmer
+  - nom: Tirer des copies
+  - nom: Projeter
+```
+
 ## À retenir
 
 - Le cinématographe est un appareil trois-en-un : il filme, tire des copies et projette.
@@ -13943,6 +14416,18 @@ Le nettoyage des tableaux fait débat : pour certains historiens, il déforme l'
 ## De l'analyse à la formation
 
 Avant de traiter un tableau, on l'examine et on l'analyse avec des techniques comme l'imagerie multispectrale ou la fluorescence X. La charte de Venise est un texte international fondateur pour la conservation des monuments ; elle pose que la restauration s'arrête là où commence l'hypothèse. En France, des formations publiques délivrent des diplômes d'État qui permettent d'intervenir sur les collections publiques.
+
+```schema
+type: systeme
+titre: Les règles de la restauration
+centre: Restauration
+parties:
+  - nom: Réversibilité
+    role: Pouvoir revenir en arrière.
+  - nom: Lisibilité
+  - nom: Analyse préalable
+  - nom: Documentation
+```
 
 ## À retenir
 
@@ -14034,6 +14519,16 @@ En France, une loi de 2001 a organisé l'archéologie préventive, avec des diag
 ## Une découverte qui marque
 
 À Dublin, la démolition de Wood Quay a révélé des vestiges vikings exceptionnellement bien conservés et provoqué une vive réaction du public.
+
+```schema
+type: etapes
+titre: L'archéologie préventive
+elements:
+  - titre: Projet d'aménagement
+  - titre: Diagnostic par sondages
+  - titre: Fouille si nécessaire
+  - titre: Étude et publication
+```
 
 ## À retenir
 

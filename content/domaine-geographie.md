@@ -257,8 +257,22 @@ affleurer au sommet.
 - Le gel et les glaciers sont des agents d'érosion très efficaces.
 - L'isostasie fait remonter une chaîne à mesure qu'elle s'allège.
 
-[Emplacement image : trois mécanismes de formation des montagnes, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois façons de faire une montagne
+colonnes:
+  - titre: Collision
+    icone: mountain
+    points:
+      - Deux continents se percutent
+      - L'Himalaya monte encore de quelques millimètres par an
+  - titre: Subduction
+    points:
+      - Une plaque plonge sous une autre
+  - titre: Point chaud
+    points:
+      - Le magma perce une plaque
+```
 
 ---
 
@@ -374,8 +388,19 @@ forêt, dont les cycles se comptent en décennies.
 - Les déserts chauds se concentrent autour de 30 degrés de latitude.
 - La météo décrit un moment, le climat des statistiques sur des décennies.
 
-[Emplacement image : carte simplifiée des grands types de climats, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les cinq grandes familles de climats de Köppen
+legende: Fondées sur la température et les précipitations.
+centre: Climats
+icone: globe
+parties:
+  - nom: Tropicaux
+  - nom: Secs
+  - nom: Tempérés
+  - nom: Continentaux
+  - nom: Polaires
+```
 
 ---
 
@@ -482,8 +507,18 @@ agriculture.
 - Un relief provoque la pluie d'un côté et la sécheresse de l'autre.
 - La mousson repose sur le contraste de chauffe entre continent et océan.
 
-[Emplacement image : cellules de circulation atmosphérique et bandes de précipitations, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La grande circulation près de l'équateur
+elements:
+  - titre: L'air chaud monte à l'équateur
+    icone: sun
+  - titre: Il lâche sa pluie
+    icone: cloud
+  - titre: Il redescend sec vers 30 degrés
+    texte: Là se trouvent les grands déserts.
+  - titre: Il revient vers l'équateur
+```
 
 ---
 
@@ -597,8 +632,17 @@ subsaharienne, tandis que plusieurs pays voient déjà leur population diminuer.
 - Un pic est projeté vers 10,4 milliards dans les années 2080.
 - L'inertie démographique fait croître la population longtemps après la baisse de la fécondité.
 
-[Emplacement image : les quatre phases de la transition démographique, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: La population mondiale
+evenements:
+  - date: 15 novembre 2022
+    titre: Huit milliards
+  - date: Depuis 2020
+    titre: Croissance sous 1 % par an
+  - date: Années 2080
+    titre: Pic projeté vers 10,4 milliards
+```
 
 ---
 
@@ -714,8 +758,16 @@ grandiront le plus vite et qui disposent souvent du moins de moyens de planifica
 - Il n'existe pas de définition internationale unique de l'urbain.
 - Une ville dense consomme souvent moins par habitant, à condition d'être planifiée.
 
-[Emplacement image : évolution des populations urbaine et rurale mondiales, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Pourquoi on va en ville
+centre: Ville
+parties:
+  - nom: Emplois
+  - nom: Services
+  - nom: Ce qu'elle exige
+    role: Logements, transports, eau, assainissement.
+```
 
 ---
 
@@ -823,8 +875,21 @@ de ces personnes reste indéfini : la convention de 1951 ne les couvre pas.
 - Réfugié est un statut juridique précis, migrant un terme général.
 - Les pays en développement accueillent la majorité des réfugiés.
 
-[Emplacement image : répartition mondiale des déplacés internes et des réfugiés, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Migrant ou réfugié
+colonnes:
+  - titre: Migrant international
+    points:
+      - Quelques pour cent de la population mondiale
+  - titre: Réfugié
+    points:
+      - Fuit un danger et bénéficie d'une protection
+  - titre: Déplacé interne
+    points:
+      - Reste dans son pays
+      - Bien plus nombreux
+```
 
 ---
 
@@ -939,8 +1004,18 @@ Ou par la force, ce que le droit international interdit mais ne peut pas toujour
 - Les États africains ont retenu l'intangibilité des frontières héritées.
 - Les découvertes de ressources ravivent souvent des litiges anciens.
 
-[Emplacement image : frontières naturelles et frontières géométriques comparées, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de tracer une frontière
+colonnes:
+  - titre: Naturelle
+    points:
+      - Suit un fleuve, une crête
+  - titre: Géométrique
+    points:
+      - Une ligne droite sur la carte
+      - Souvent héritée de la colonisation
+```
 
 ---
 
@@ -1050,8 +1125,18 @@ longtemps.
 - Le raffinage constitue souvent le vrai goulot d'étranglement.
 - Diversification, recyclage et substitution sont les réponses disponibles.
 
-[Emplacement image : chaîne de valeur d'un métal critique, de la mine au produit fini, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui rend une ressource stratégique
+centre: Ressource stratégique
+parties:
+  - nom: Concentration
+    role: Pas la rareté.
+  - nom: Raffinage
+    role: Souvent concentré lui aussi.
+  - nom: Terres rares
+    role: Pas rares, mais difficiles à séparer.
+```
 
 ---
 
@@ -1156,8 +1241,19 @@ production mondiale serait impossible.
 - Le canal de Panama dépend de l'eau douce, donc de la pluviométrie.
 - La standardisation du conteneur a rendu possible le commerce longue distance actuel.
 
-[Emplacement image : principales routes maritimes et détroits stratégiques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les passages maritimes critiques
+legende: Environ 80 % du commerce mondial en volume passe par la mer.
+centre: Commerce maritime
+icone: map
+parties:
+  - nom: Suez
+  - nom: Panama
+    role: Il dépend de l'eau douce.
+  - nom: Ormuz
+  - nom: Malacca
+```
 
 ---
 
@@ -1319,8 +1415,20 @@ grandement le repérage sur le terrain.
   terrain.
 - Aligner la carte avec le nord réel facilite grandement le repérage sur le terrain.
 
-[Emplacement image : carte topographique avec des courbes de niveau illustrant une vallée et une
-colline, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Lire les courbes de niveau
+colonnes:
+  - titre: Courbes rapprochées
+    points:
+      - Pente raide
+  - titre: Courbes espacées
+    points:
+      - Terrain plat ou doux
+  - titre: Courbes maîtresses
+    points:
+      - Plus épaisses, pour se repérer
+```
 
 ---
 
@@ -1485,8 +1593,19 @@ Elles conservent néanmoins leur utilité en l'absence de tout instrument dispon
 - Ces méthodes restent des indications générales, moins fiables qu'une prévision moderne
   instrumentée.
 
-[Emplacement image : ciel montrant des nuages cirrus en forme de crochets annonçant un changement
-de temps, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Lire le ciel
+centre: Prévoir le temps
+icone: cloud
+parties:
+  - nom: Nuages
+    role: Des cirrus en crochets annoncent souvent la pluie.
+  - nom: Vent
+    role: Son évolution.
+  - nom: Animaux et plantes
+  - nom: Brouillard
+```
 
 ---
 
@@ -1616,8 +1735,18 @@ moyenne générale calculée pour toute une région.
 - Observer des signes naturels locaux complète utilement les dates calendaires théoriques.
 - Tenir un calendrier personnalisé au fil des années affine la précision pour son propre terrain.
 
-[Emplacement image : calendrier agricole illustrant les périodes de semis et de récolte selon les
-saisons, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Construire son calendrier de cultures
+elements:
+  - titre: Latitude
+    texte: Elle fixe la durée des saisons.
+  - titre: Dernières gelées
+    texte: Ne pas semer trop tôt.
+    icone: snowflake
+  - titre: Adapter les cultures
+  - titre: Noter les signes locaux
+```
 
 ---
 
@@ -1986,8 +2115,17 @@ renforce considérablement la capacité du village à surmonter des difficultés
 - Diversifier les sources pour chaque besoin fondamental renforce la résilience globale de la
   communauté.
 
-[Emplacement image : schéma d'un village autonome montrant ses sources d'eau, d'énergie, ses
-cultures et sa gestion des déchets, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les priorités d'un village autonome
+centre: Village autonome
+icone: house
+parties:
+  - nom: Eau
+  - nom: Énergie
+  - nom: Nourriture
+  - nom: Déchets
+```
 
 ---
 
@@ -2363,8 +2501,16 @@ l'installation et le développement d'une communauté sur un territoire donné.
 - Un inventaire réaliste des ressources accessibles aide à établir des priorités d'installation
   cohérentes.
 
-[Emplacement image : carte d'un territoire annotée des ressources locales disponibles, eau, bois,
-terres cultivables et minerais, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les ressources d'un territoire
+niveaux:
+  - titre: Ressources minérales et énergétiques
+  - titre: Bois et matériaux
+  - titre: Terres cultivables
+  - titre: Eau douce
+    texte: La plus déterminante.
+```
 
 ---
 
@@ -2579,8 +2725,19 @@ aident à confirmer une direction déjà estimée par d'autres méthodes.
 - Les repères naturels du terrain confirment utilement une direction déjà estimée par d'autres
   méthodes.
 
-[Emplacement image : bâton planté verticalement avec des marques au sol indiquant le déplacement
-de son ombre au fil du temps, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Naviguer sans GPS
+centre: Position
+icone: map
+parties:
+  - nom: Estime
+    role: Départ, direction, vitesse, temps.
+  - nom: Soleil
+    role: L'ombre d'un bâton donne l'axe est-ouest.
+  - nom: Étoiles
+  - nom: Carte et boussole
+```
 
 ---
 
@@ -2991,6 +3148,21 @@ Au 1er janvier 2025, la France comptait 68,6 millions d'habitants, selon l'Insee
 La base de la pyramide française se rétrécit. Début 2025, les moins de 20 ans représentaient 22,9 % de la population, et les 65 ans ou plus 21,8 %. Les deux groupes sont presque aussi nombreux.
 
 La pyramide montre aussi une différence entre les deux côtés. Les hommes sont plus nombreux que les femmes jusqu'à 25 ans. Ensuite, les femmes deviennent majoritaires, car les hommes meurent plus tôt en moyenne. Tout en haut, le côté droit est donc nettement plus large.
+
+```schema
+type: comparaison
+titre: Lire une pyramide des âges
+colonnes:
+  - titre: Base large
+    points:
+      - Population jeune
+  - titre: Sommet large
+    points:
+      - Population âgée
+  - titre: Creux et bosses
+    points:
+      - Guerres, baby-boom
+```
 
 ## À retenir
 
@@ -3942,6 +4114,19 @@ Une fois collectés, les déchets suivent quatre chemins. Les matériaux comme l
 
 Dans beaucoup de pays pauvres, le ramassage reste un grand défi. En Afrique subsaharienne, le taux de collecte peut descendre à 31 %. En Asie du Sud, il est de 67 %. Une grande partie des déchets y finit dans des décharges à ciel ouvert.
 
+```schema
+type: systeme
+titre: Les quatre destinations des déchets
+legende: 2,56 milliards de tonnes de déchets ménagers en 2022, selon la Banque mondiale.
+centre: Déchets
+icone: recycle
+parties:
+  - nom: Recyclage
+  - nom: Compostage
+  - nom: Incinération
+  - nom: Enfouissement
+```
+
 ## À retenir
 
 - En 2022, le monde a produit 2,56 milliards de tonnes de déchets ménagers, selon la Banque mondiale.
@@ -4368,6 +4553,21 @@ En Inde, plus de la moitié des terres agricoles dépendent des pluies de la mou
 
 D'autres régions du monde connaissent des moussons, en Afrique, en Asie du Sud-Est et en Amérique.
 
+```schema
+type: comparaison
+titre: Le vent de la mousson
+colonnes:
+  - titre: Été
+    icone: cloud
+    points:
+      - La terre chauffe plus vite que l'océan
+      - Elle attire un air humide, fortes pluies
+  - titre: Hiver
+    points:
+      - Le vent s'inverse
+      - Temps sec
+```
+
 ## À retenir
 
 - La mousson est un vent qui change de sens entre l'été et l'hiver.
@@ -4471,6 +4671,20 @@ La rotation de la Terre fait tourner l'air qui converge vers le centre : c'est l
 
 On parle de cyclone tropical quand les vents dépassent environ 118 km/h. Le nom change selon l'océan : ouragan dans l'Atlantique nord et le nord-est du Pacifique, typhon dans le nord-ouest du Pacifique, cyclone ailleurs. Pour les ouragans de l'Atlantique et du nord-est du Pacifique, l'échelle de Saffir-Simpson les classe de 1 à 5, d'après la vitesse maximale du vent. Sur terre ou au-dessus d'une mer plus froide, le cyclone est coupé de l'air chaud et humide qui le nourrit : il s'affaiblit peu à peu.
 
+```schema
+type: etapes
+titre: La naissance d'un cyclone
+elements:
+  - titre: Mer chaude
+    texte: Plus de 26,5 °C, loin de l'équateur.
+    icone: thermometer
+  - titre: Évaporation
+  - titre: Condensation
+    texte: Elle libère de la chaleur, le moteur du cyclone.
+  - titre: Rotation
+    texte: Un œil et un mur se forment.
+```
+
 ## À retenir
 
 - Un cyclone naît au-dessus d'une mer à plus de 26,5 °C, loin de l'équateur.
@@ -4530,14 +4744,128 @@ title: Les nuages et ce qu'ils annoncent
 slug: les-nuages-et-ce-qu-ils-annoncent
 categoryPath: geographie-et-territoires/geographie-physique/climatologie
 summary: >
-  Comment differentes formes de nuages indiquent des evolutions meteorologiques distinctes.
-tags: [climatologie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les nuages se forment quand l'air humide s'élève et se refroidit. Leur forme et leur altitude
+  racontent ce qui se passe dans l'atmosphère : beau temps durable, arrivée d'une perturbation ou
+  orage imminent. Savoir les reconnaître permet d'anticiper le temps des heures à venir.
+tags: [climatologie]
+relatedArticles: [prevoir-temps-sans-instruments, pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps, pourquoi-il-pleut-ici-et-pas-la, comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre]
+sources:
+  - title: "Nuage"
+    url: "https://fr.wikipedia.org/wiki/Nuage"
+    publisher: "Wikipédia"
+  - title: "Atlas international des nuages"
+    url: "https://cloudatlas.wmo.int/fr/home.html"
+    publisher: "Organisation météorologique mondiale"
+  - title: "List of cloud types"
+    url: "https://en.wikipedia.org/wiki/List_of_cloud_types"
+    publisher: "Wikipedia"
+  - title: "Cumulonimbus"
+    url: "https://en.wikipedia.org/wiki/Cumulonimbus_cloud"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment un nuage se forme-t-il ?"
+    options:
+      - "Quand l'air humide s'élève, se refroidit et que sa vapeur d'eau se condense en gouttelettes"
+      - "Quand le vent souffle du sable dans le ciel"
+      - "Quand l'air descend et se réchauffe"
+    answer: 1
+    explanation: >
+      En montant, l'air se détend et se refroidit. Sa vapeur d'eau se condense autour de minuscules
+      poussières.
+  - question: "Quel nuage annonce souvent un orage ?"
+    options:
+      - "Le cirrus"
+      - "Le cumulonimbus"
+      - "Le petit cumulus de beau temps"
+    answer: 2
+    explanation: >
+      Le cumulonimbus est une immense tour qui peut monter à plus de dix kilomètres et produit averses,
+      éclairs, grêle et rafales.
+  - question: "Que signifient des cirrus qui s'épaississent progressivement en voile blanc ?"
+    options:
+      - "Un beau temps durable"
+      - "L'approche probable d'une perturbation dans les 12 à 24 heures"
+      - "Un tremblement de terre"
+    answer: 2
+    explanation: >
+      Ces nuages élevés sont souvent l'avant-garde d'un front chaud, suivi de nuages de plus en plus bas
+      et de pluie.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un nuage est un immense ensemble de **gouttelettes d'eau** ou de **cristaux de glace** en suspension
+dans l'air. Il se forme quand de l'air humide **s'élève** et se **refroidit** : sa vapeur d'eau se
+**condense**. Les météorologues classent les nuages en **dix genres** selon leur **altitude** et leur
+**forme**. Leur aspect renseigne sur la stabilité de l'air et sur l'évolution du temps : certains
+signalent un beau temps durable, d'autres une perturbation qui arrive, d'autres encore un orage
+imminent. Une classification commune, l'Atlas international des nuages, est publiée par l'Organisation
+météorologique mondiale.
+
+## Comment naît un nuage
+
+L'air contient toujours de la vapeur d'eau, invisible. Quand il monte, la pression diminue, il se
+**détend** et se **refroidit**. À une certaine température, il ne peut plus contenir toute sa vapeur :
+elle se condense autour de minuscules **poussières**, sels marins ou particules, et forme des
+gouttelettes. L'air s'élève pour trois grandes raisons : il est chauffé par le sol et monte comme une
+bulle, il est forcé de passer au-dessus d'un relief, ou il glisse au-dessus d'une masse d'air plus froide
+lors du passage d'un **front**.
+
+## Les familles de nuages
+
+```schema
+type: pyramide
+titre: Les nuages selon leur altitude
+legende: Les cumulonimbus traversent tous les étages, du bas jusqu'au sommet de la troposphère.
+niveaux:
+  - titre: Étage supérieur, au-dessus de 6 km
+    texte: Cirrus, cirrocumulus, cirrostratus, faits de cristaux de glace.
+  - titre: Étage moyen, 2 à 6 km
+    texte: Altocumulus, altostratus.
+  - titre: Étage inférieur, sous 2 km
+    texte: Stratus, stratocumulus, nimbostratus.
+  - titre: Développement vertical
+    texte: Cumulus et cumulonimbus, de la base jusqu'en altitude.
+```
+
+Les noms combinent quelques racines latines : **cirrus**, « boucle de cheveux », pour les nuages fins et
+élevés ; **cumulus**, « tas », pour les nuages en boules ; **stratus**, « étendu », pour les nuages en
+couche ; **nimbus**, « pluie », pour ceux qui donnent des précipitations ; **alto** pour l'étage moyen.
+
+## Ce qu'ils annoncent
+
+- **Petits cumulus blancs et bien séparés** l'après-midi : ce sont les **cumulus de beau temps**. Ils se
+  forment par la chaleur du sol et se dissipent le soir. Le temps reste beau.
+- **Cumulus qui grossissent et montent en tours** dans la journée : l'air est instable. Ils peuvent
+  devenir des **cumulonimbus**.
+- **Cumulonimbus**, immenses tours sombres, souvent coiffées d'une **enclume** : orage, averses
+  violentes, éclairs, grêle et rafales, souvent dans l'heure. Il faut se mettre à l'abri.
+- **Cirrus** qui envahissent le ciel puis s'épaississent en **voile blanc**, avec parfois un **halo**
+  autour du soleil ou de la lune : souvent l'avant-garde d'une **perturbation**, avec de la pluie dans les
+  12 à 24 heures.
+- **Altostratus** gris, à travers lesquels le soleil paraît comme derrière un verre dépoli, puis
+  **nimbostratus** sombres et épais : pluie continue, souvent durable.
+- **Stratus** bas et gris : ciel couvert, bruine possible ; au sol, le stratus forme le **brouillard**.
+- **Altocumulus en bancs** le matin par temps chaud et lourd : possibilité d'orages plus tard dans la
+  journée.
+
+## Observer pour prévoir
+
+L'observation des nuages s'enrichit d'autres signes : la **direction du vent**, l'évolution de la
+**pression** sur un baromètre, la **succession** des nuages. Une suite cirrus, puis voile, puis nuages
+moyens, puis nuages bas indique l'approche d'un front. Ces règles donnent des tendances pour les heures
+qui viennent, pas une prévision exacte : les bulletins météorologiques, fondés sur des mesures et des
+modèles, restent la référence.
+
+## À retenir
+
+- Un nuage se forme quand l'air humide s'élève, se refroidit et que sa vapeur se condense.
+- On distingue dix genres de nuages selon leur altitude et leur forme.
+- Les petits cumulus séparés indiquent le beau temps, les cumulonimbus un orage proche.
+- Des cirrus qui s'épaississent en voile annoncent souvent une perturbation dans la journée.
+- La succession des nuages, le vent et la pression permettent d'anticiper le temps des heures à venir.
 
 ---
 type: article
@@ -4626,6 +4954,23 @@ Une zone où la pression est plus faible qu'autour s'appelle une dépression. Au
 Les vents ne vont pas en ligne droite vers le centre d'une dépression. La rotation de la Terre les dévie : c'est l'effet de Coriolis. Dans l'hémisphère nord, ils tournent dans le sens inverse des aiguilles d'une montre autour d'une dépression, et dans le sens des aiguilles d'une montre autour d'un anticyclone. Dans l'hémisphère sud, c'est l'inverse.
 
 La pression la plus haute jamais mesurée est de 1 086,8 hPa, en Mongolie, en 2010. La plus basse est de 870 hPa, près du typhon Tip, en 1979.
+
+```schema
+type: comparaison
+titre: Hautes et basses pressions
+legende: Au niveau de la mer, la pression normale vaut 1 013,25 hectopascals.
+colonnes:
+  - titre: Hautes pressions
+    icone: sun
+    points:
+      - L'air descend
+      - Beau temps
+  - titre: Basses pressions
+    icone: cloud
+    points:
+      - L'air monte
+      - Nuages et pluie
+```
 
 ## À retenir
 
@@ -4976,6 +5321,20 @@ Selon l'endroit où elle se trouve, l'eau voyage plus ou moins vite. Une goutte 
 
 Les activités humaines modifient ce cycle. Les villes, la coupe des forêts et le pompage des nappes changent la façon dont l'eau circule. Le réchauffement du climat augmente l'évaporation et rend les fortes pluies plus fréquentes.
 
+```schema
+type: cycle
+titre: Le cycle de l'eau
+legende: Les océans contiennent environ 97 % de l'eau de la Terre.
+elements:
+  - titre: Évaporation
+    icone: sun
+  - titre: Nuages
+    icone: cloud
+  - titre: Précipitations
+  - titre: Retour vers la mer
+    icone: wave
+```
+
 ## À retenir
 
 - Le cycle de l'eau est le voyage sans fin de l'eau entre les océans, l'air et les continents.
@@ -5149,6 +5508,18 @@ Le plus grand delta du monde est celui du Gange et du Brahmapoutre. Il couvre pl
 Les deltas sont fragiles. Les barrages construits sur les fleuves retiennent une grande partie des sédiments. Le delta ne reçoit plus assez de matière pour se maintenir, et la mer grignote ses côtes. Les deltas du Nil et du Colorado en ont beaucoup souffert.
 
 Le pompage de l'eau souterraine et l'extraction de sable font aussi s'enfoncer le sol. Avec la montée du niveau de la mer, l'eau salée envahit des champs. Les deltas sont aussi exposés aux cyclones et aux inondations.
+
+```schema
+type: etapes
+titre: La formation d'un delta
+elements:
+  - titre: Le fleuve ralentit
+    texte: En arrivant dans la mer.
+  - titre: Il dépose ses sédiments
+  - titre: Il se divise en bras
+    texte: En éventail.
+  - titre: Des terres fertiles
+```
 
 ## À retenir
 
@@ -5640,18 +6011,141 @@ status: planned
 
 ---
 type: article
-title: Lire une carte topographique, principes de base
+title: Lire une carte topographique et utiliser une boussole
 slug: lire-une-carte-topographique-principes-de-base
 categoryPath: geographie-et-territoires/geographie-physique/reliefs
 summary: >
-  Comment interpreter les courbes de niveau pour comprendre un relief sans le voir.
-tags: [reliefs, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une carte topographique représente le relief par des courbes de niveau, les chemins, les cours
+  d'eau et les bâtiments. Avec l'échelle, la légende et une boussole, on sait où l'on est, où l'on
+  va et par où passer, même sans réseau ni GPS.
+tags: [reliefs]
+relatedArticles: [l-etoile-polaire-et-son-role-dans-l-orientation, regle-des-trois-priorites-survie, kit-urgence-72-heures]
+sources:
+  - title: "Carte topographique"
+    url: "https://fr.wikipedia.org/wiki/Carte_topographique"
+    publisher: "Wikipédia"
+  - title: "Courbe de niveau"
+    url: "https://fr.wikipedia.org/wiki/Courbe_de_niveau"
+    publisher: "Wikipédia"
+  - title: "Déclinaison magnétique"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9clinaison_magn%C3%A9tique"
+    publisher: "Wikipédia"
+  - title: "Orienteering"
+    url: "https://en.wikipedia.org/wiki/Orienteering"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur une carte au 1/25 000, à quelle distance réelle correspond 1 cm ?"
+    options:
+      - "250 mètres"
+      - "25 mètres"
+      - "25 kilomètres"
+    answer: 1
+    explanation: >
+      1 cm sur la carte représente 25 000 cm sur le terrain, soit 250 mètres. Quatre centimètres
+      font donc un kilomètre.
+  - question: "Que signifient des courbes de niveau très serrées ?"
+    options:
+      - "Un terrain plat"
+      - "Une pente raide"
+      - "Une forêt"
+    answer: 2
+    explanation: >
+      Chaque courbe relie des points de même altitude. Si elles sont serrées, on monte beaucoup sur
+      une courte distance.
+  - question: "Pourquoi la boussole n'indique-t-elle pas exactement le nord de la carte ?"
+    options:
+      - "Parce qu'elle est souvent cassée"
+      - "Parce que les cartes sont fausses"
+      - "Parce que le pôle Nord magnétique ne coïncide pas avec le pôle Nord géographique"
+    answer: 3
+    explanation: >
+      L'écart, la déclinaison magnétique, varie selon le lieu et le temps. Il est indiqué sur les
+      cartes et reste faible en France aujourd'hui.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une **carte topographique** est une représentation précise du terrain vu d'en haut : relief, cours
+d'eau, forêts, chemins, bâtiments. Elle permet de savoir **où l'on est**, **où l'on va** et **par où
+passer**, sans réseau téléphonique ni GPS. Trois clés suffisent pour la lire : l'**échelle**, la
+**légende** et les **courbes de niveau**. Associée à une **boussole**, elle permet de suivre une
+direction précise, même dans le brouillard.
+
+## L'échelle
+
+L'échelle indique le rapport entre la carte et le terrain. Sur une carte au **1/25 000**, la plus
+utilisée pour la randonnée en France, **1 cm représente 250 m**, et 4 cm font un kilomètre. Sur une
+carte au 1/50 000, 1 cm représente 500 m. Plus le second nombre est petit, plus la carte est
+détaillée.
+
+Pour estimer un temps de marche, on compte environ 4 à 5 km par heure sur le plat, et l'on ajoute
+environ une heure pour 300 à 400 m de montée.
+
+## La légende
+
+Chaque couleur et chaque symbole ont un sens, rappelé en bordure de carte :
+
+- **le bleu** pour l'eau : rivières, sources, lacs ;
+- **le vert** pour la végétation : forêts, broussailles ;
+- **le noir et le rouge** pour les routes, les chemins, les bâtiments ;
+- **le brun ou l'orangé** pour les courbes de niveau et le relief.
+
+Les **sources** et les **points d'eau**, les **refuges** et les **habitations isolées** sont des
+informations précieuses en situation difficile.
+
+## Les courbes de niveau
+
+Une **courbe de niveau** relie tous les points situés à la même altitude. Deux courbes voisines sont
+séparées par une différence d'altitude constante, l'**équidistance**, souvent de 5 ou 10 m sur les
+cartes au 1/25 000.
+
+- Courbes **serrées** : pente raide.
+- Courbes **espacées** : terrain doux.
+- Courbes en **V pointant vers le haut** de la pente : un vallon, souvent avec un ruisseau.
+- Courbes en **V pointant vers le bas** : une crête ou un éperon.
+- Courbes fermées concentriques : un sommet.
+
+```schema
+type: chiffres
+titre: Repères de lecture d'une carte au 1/25 000
+chiffres:
+  - valeur: 1 cm = 250 m
+    texte: sur le terrain
+  - valeur: 4 cm = 1 km
+    texte: pour mesurer vite une distance
+  - valeur: 4 à 5 km/h
+    texte: de marche sur le plat, plus une heure par 300 à 400 m de montée
+```
+
+## La boussole
+
+L'aiguille d'une boussole s'aligne sur le champ magnétique terrestre et pointe vers le **nord
+magnétique**. Celui-ci ne coïncide pas exactement avec le nord des cartes : l'écart s'appelle la
+**déclinaison magnétique**. Elle est indiquée sur les cartes, varie selon le lieu et lentement avec le
+temps, et elle est faible en France aujourd'hui, de l'ordre de quelques degrés.
+
+On éloigne la boussole des objets métalliques et des téléphones, qui la dévient.
+
+## Trois gestes de base
+
+1. **Orienter la carte** : poser la boussole sur la carte et tourner l'ensemble jusqu'à ce que le nord
+   de la carte et l'aiguille soient alignés. Le paysage et la carte sont alors dans le même sens.
+2. **Prendre un azimut** : poser le bord de la boussole entre sa position et sa destination sur la
+   carte, tourner le cadran pour aligner ses lignes sur le nord de la carte, puis tenir la boussole à
+   plat et pivoter sur soi jusqu'à ce que l'aiguille s'aligne dans la flèche du cadran. La flèche de
+   direction indique où marcher. On vise un repère lointain, on l'atteint, et l'on recommence.
+3. **Se localiser** : viser deux ou trois repères reconnaissables, sommet, clocher, pylône, relever
+   leur direction et tracer ces lignes sur la carte. Leur croisement donne sa position.
+
+## À retenir
+
+- L'échelle relie la carte au terrain : au 1/25 000, 1 cm représente 250 m.
+- La légende donne le sens des couleurs et des symboles, dont les points d'eau et les refuges.
+- Les courbes de niveau relient les points de même altitude : serrées, la pente est raide.
+- La boussole indique le nord magnétique, légèrement décalé du nord des cartes.
+- Orienter la carte, suivre un azimut et se localiser par recoupement sont les trois gestes de base.
 
 ---
 type: article
@@ -5919,6 +6413,20 @@ En Amérique du Sud, le peuple Wari bâtissait des terrasses avant l'an 1000. Le
 Aux Philippines, le peuple Ifugao cultive des rizières en terrasses depuis environ 2 000 ans. Elles grimpent sur des pentes très raides. Des canaux amènent l'eau des forêts du sommet jusqu'aux champs. Ces rizières sont inscrites au patrimoine mondial de l'Unesco depuis 1995. En Chine, les terrasses de Yuanyang, dans la province du Yunnan, sont aussi très connues. En France, on en voit dans les Cévennes.
 
 Les terrasses demandent beaucoup de main-d'œuvre. Il faut sans cesse réparer les murs et entretenir les canaux. Dans les régions où les campagnes se vident, beaucoup sont abandonnées. Aux îles Canaries, des chercheurs ont observé que les terrasses abandonnées abritent plus d'espèces de plantes que les pentes naturelles voisines.
+
+```schema
+type: comparaison
+titre: Pente nue ou terrasses
+colonnes:
+  - titre: Pente nue
+    points:
+      - La pluie emporte la terre
+  - titre: Terrasses
+    icone: mountain
+    points:
+      - Des plateformes plates en escalier
+      - L'eau s'infiltre au lieu de ruisseler
+```
 
 ## À retenir
 
@@ -6600,6 +7108,16 @@ Prendre le sable des rivières et des côtes a des conséquences. Les berges et 
 
 En avril 2022, le PNUE a publié des recommandations. Il propose d'interdire l'extraction de sable sur les plages. Il conseille aussi d'utiliser à la place des gravats de démolition recyclés, de la roche concassée ou des résidus de mines.
 
+```schema
+type: chiffres
+titre: Le sable
+chiffres:
+  - valeur: 0,063 à 2 mm
+    texte: la taille des grains
+  - valeur: 50 milliards de t
+    texte: de sable et gravier extraits par an
+```
+
 ## À retenir
 
 - Le sable est fait de grains de 0,063 à 2 millimètres, souvent de quartz.
@@ -7132,6 +7650,19 @@ De nouvelles écluses, plus grandes, ont ouvert le 26 juin 2016. Elles mesurent 
 
 Mais le canal dépend de la pluie. Octobre 2023 a été le mois le plus sec jamais mesuré dans la région. Le lac Gatún a baissé, et le nombre de passages a été limité pendant plusieurs mois.
 
+```schema
+type: frise
+titre: Le canal de Panama
+evenements:
+  - date: 15 août 1914
+    titre: Ouverture
+  - date: 31 décembre 1999
+    titre: Contrôle par le Panama
+  - date: Aujourd'hui
+    titre: Agrandi mais assoiffé
+    texte: Les écluses consomment beaucoup d'eau douce.
+```
+
 ## À retenir
 
 - Le canal de Panama relie l'Atlantique et le Pacifique sur environ 80 kilomètres.
@@ -7502,18 +8033,144 @@ status: planned
 
 ---
 type: article
-title: La transition demographique et ses differentes etapes
+title: La transition démographique et ses différentes étapes
 slug: la-transition-demographique-et-ses-differentes-etapes
 categoryPath: geographie-et-territoires/geographie-humaine/demographie
 summary: >
-  Un processus historique qui decrit l'evolution progressive des taux de natalite et de mortalite.
-tags: [demographie, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  En deux siècles, de nombreux pays sont passés d'une forte natalité et d'une forte mortalité à des
+  taux faibles. Entre les deux, la mortalité baisse avant la natalité et la population explose.
+  Ce modèle de la transition démographique éclaire l'histoire de l'Europe et l'avenir du monde.
+tags: [demographie]
+relatedArticles: [huit-milliards-dhabitants, comment-lit-on-une-pyramide-des-ages, urbanisation-mondiale-onu, migrations-realites-et-idees-recues]
+sources:
+  - title: "Transition démographique"
+    url: "https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique"
+    publisher: "Wikipédia"
+  - title: "Demographic transition"
+    url: "https://en.wikipedia.org/wiki/Demographic_transition"
+    publisher: "Wikipedia"
+  - title: "World Population Prospects"
+    url: "https://population.un.org/wpp/"
+    publisher: "Nations unies"
+  - title: "Total fertility rate"
+    url: "https://en.wikipedia.org/wiki/Total_fertility_rate"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pendant la deuxième phase de la transition démographique, que se passe-t-il ?"
+    options:
+      - "La natalité baisse avant la mortalité"
+      - "La mortalité baisse fortement alors que la natalité reste élevée, et la population augmente vite"
+      - "La population diminue"
+    answer: 2
+    explanation: >
+      Les progrès de l'hygiène, de l'alimentation et de la médecine réduisent la mortalité, mais les
+      familles restent nombreuses pendant encore plusieurs décennies.
+  - question: "Combien d'enfants par femme faut-il en moyenne pour assurer le renouvellement des générations dans un pays riche ?"
+    options:
+      - "Environ 1"
+      - "Environ 2,1"
+      - "Environ 4"
+    answer: 2
+    explanation: >
+      Deux enfants remplacent les deux parents ; le dixième supplémentaire compense la mortalité avant
+      l'âge adulte et le léger excès de naissances de garçons.
+  - question: "Pourquoi la natalité finit-elle par baisser ?"
+    options:
+      - "Parce que les enfants survivent davantage, que l'éducation des filles progresse et que les villes grandissent"
+      - "Parce que la mortalité augmente"
+      - "Parce que les pays l'interdisent tous"
+    answer: 1
+    explanation: >
+      Moins de décès d'enfants, scolarisation, urbanisation et accès à la contraception changent les
+      projets familiaux.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **transition démographique** est le passage d'une situation où l'on naît beaucoup et où l'on meurt
+beaucoup, avec une population presque stable, à une situation où l'on naît peu et où l'on meurt peu,
+de nouveau avec une population presque stable. Entre les deux, la **mortalité baisse avant la
+natalité** : pendant quelques décennies, les naissances dépassent largement les décès et la population
+**croît très vite**. L'Europe a connu cette transition aux XVIIIe et XIXe siècles ; la plupart des pays du
+monde l'ont faite ou la font aujourd'hui. Elle explique en grande partie le passage de l'humanité d'un
+milliard d'habitants vers 1800 à plus de huit milliards aujourd'hui.
+
+## Les étapes du modèle
+
+```schema
+type: etapes
+titre: Les phases de la transition démographique
+legende: La population croît fortement tant que la natalité reste élevée alors que la mortalité a baissé.
+elements:
+  - titre: Régime ancien
+    texte: Natalité et mortalité élevées, croissance faible.
+    icone: hourglass
+  - titre: Baisse de la mortalité
+    texte: Hygiène et médecine ; la population s'envole.
+    icone: syringe
+  - titre: Baisse de la natalité
+    texte: Familles plus petites ; la croissance ralentit.
+    icone: house
+  - titre: Régime moderne
+    texte: Natalité et mortalité faibles, croissance faible.
+    icone: chart
+```
+
+1. **Le régime démographique ancien** : les familles ont beaucoup d'enfants, mais famines, épidémies et
+   mortalité infantile élevée emportent une grande partie de la population. L'espérance de vie à la
+   naissance tourne autour de 25 à 35 ans.
+2. **La baisse de la mortalité** : une meilleure alimentation, l'hygiène, l'eau potable, puis les vaccins
+   et la médecine font chuter les décès, surtout chez les enfants. La natalité reste forte : la
+   population augmente rapidement.
+3. **La baisse de la natalité** : avec un temps de retard, les familles ont moins d'enfants. La
+   croissance ralentit.
+4. **Le régime moderne** : natalité et mortalité sont faibles, la population est presque stable et
+   **vieillit**.
+
+Certains démographes ajoutent une **cinquième phase**, celle de pays où la fécondité est tombée bien sous
+le seuil de renouvellement et où la population diminue, comme le Japon, la Corée du Sud ou l'Italie.
+
+## Pourquoi la natalité baisse
+
+- Les enfants **survivent** davantage : il n'est plus nécessaire d'en avoir beaucoup pour en voir
+  grandir quelques-uns.
+- L'**éducation des filles** et le travail des femmes retardent les naissances et changent les projets de
+  vie.
+- L'**urbanisation** rend les enfants plus coûteux et moins utiles comme main-d'œuvre.
+- L'accès à la **contraception** permet de choisir le nombre d'enfants.
+- Les systèmes de **retraite** réduisent la dépendance des parents âgés envers leurs enfants.
+
+## Le seuil de renouvellement
+
+Dans un pays où la mortalité est faible, il faut en moyenne environ **2,1 enfants par femme** pour que
+chaque génération remplace la précédente. Une grande partie des pays du monde est aujourd'hui sous ce
+seuil. La population mondiale continue pourtant d'augmenter, car de nombreux jeunes arrivent à l'âge
+d'avoir des enfants et l'on vit plus longtemps. Selon les projections des Nations unies, elle pourrait
+plafonner autour de dix milliards d'habitants au cours de la seconde moitié du XXIe siècle.
+
+## Des rythmes très différents
+
+La France a commencé sa baisse de natalité dès la fin du XVIIIe siècle, plus tôt que ses voisins.
+L'Angleterre a connu une transition plus tardive et une croissance très forte. Dans de nombreux pays
+d'Asie et d'Amérique latine, la transition a été beaucoup plus rapide, en quelques décennies. En Afrique
+subsaharienne, la mortalité a beaucoup baissé et la natalité commence à diminuer, mais reste la plus
+élevée du monde.
+
+## Les limites du modèle
+
+Le modèle décrit une tendance générale, pas une loi. Il a été construit à partir de l'histoire
+européenne, et les autres pays ne suivent pas forcément les mêmes étapes au même rythme. Les guerres,
+les épidémies, les politiques de natalité ou les migrations modifient aussi les trajectoires.
+
+## À retenir
+
+- La transition démographique mène d'une natalité et d'une mortalité élevées à des taux faibles.
+- La mortalité baisse d'abord : la population croît très vite pendant quelques décennies.
+- La natalité baisse ensuite avec la survie des enfants, l'éducation des filles et l'urbanisation.
+- Environ 2,1 enfants par femme assurent le renouvellement des générations.
+- Le modèle décrit une tendance générale, avec des rythmes très différents selon les pays.
 
 ---
 type: article
@@ -9625,6 +10282,18 @@ Parfois, deux côtes sont trop proches pour que chaque pays ait ses 200 milles. 
 
 Grâce à ces règles, un pays avec beaucoup d'îles peut contrôler une très grande surface de mer. La plus grande zone économique exclusive est celle des États-Unis, avec environ 11,4 millions de km². La France arrive juste derrière, avec environ 10,2 millions de km². Elle le doit surtout à ses territoires d'outre-mer, dispersés dans les océans Pacifique, Indien et Atlantique, comme la Polynésie française ou les îles Kerguelen.
 
+```schema
+type: barres
+titre: Les zones maritimes depuis la côte
+legende: Convention de Montego Bay, 1982.
+unite: milles marins
+valeurs:
+  - label: Mer territoriale
+    valeur: 12
+  - label: Zone économique exclusive
+    valeur: 200
+```
+
 ## À retenir
 
 - La convention des Nations unies sur le droit de la mer a été signée en 1982 à Montego Bay.
@@ -10566,7 +11235,17 @@ status: published
 
 La triangulation calcule la position d'un point à partir d'un côté mesuré et de deux angles. En 1533, Gemma Frisius propose cette méthode pour dresser des cartes. À partir de 1792, Delambre et Méchain mesurent un arc du méridien de Paris, mesure dont découle le mètre.
 
-[Emplacement image : diagramme en quatre étapes, « Trianguler : de la base au point inconnu ». Étape 1, mesurer la base : une ligne de référence entre deux piquets, sur un terrain plat. Étape 2, viser depuis un bout : on mesure l'angle vers un troisième piquet, au théodolite. Étape 3, viser depuis l'autre bout : même opération depuis l'autre extrémité de la base. Étape 4, calculer : un côté et deux angles suffisent pour trouver le troisième sommet. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La triangulation
+elements:
+  - titre: Mesurer un côté
+    texte: Une base au sol.
+  - titre: Mesurer deux angles
+  - titre: Calculer le troisième sommet
+  - titre: Enchaîner les triangles
+    icone: map
+```
 
 ## Le principe
 
@@ -10669,6 +11348,19 @@ La projection de Mercator conserve les angles, mais déforme les surfaces ; elle
 ## Le Groenland et l'Afrique
 
 Sur une carte de Mercator, le Groenland paraît aussi grand que l'Afrique, alors que la surface de l'Afrique est environ 14 fois plus grande.
+
+```schema
+type: comparaison
+titre: La projection de Mercator, 1569
+colonnes:
+  - titre: Ce qu'elle conserve
+    points:
+      - Les angles
+      - Une ligne droite est un cap constant
+  - titre: Ce qu'elle déforme
+    points:
+      - Les surfaces, surtout près des pôles
+```
 
 ## À retenir
 
@@ -10773,6 +11465,16 @@ Beaucoup de frontières ont été tracées pendant la colonisation par des puiss
 
 Un litige naît quand deux États voient la frontière avec des intérêts ou une identité incompatibles, comme au Cachemire entre l'Inde et le Pakistan.
 
+```schema
+type: systeme
+titre: Les sources de litiges frontaliers
+centre: Frontière contestée
+parties:
+  - nom: Tracé naturel ou ligne
+  - nom: Héritage colonial
+  - nom: Ressources
+```
+
 ## À retenir
 
 - Une frontière sépare deux territoires, en particulier deux États souverains ; ce peut être une ligne imaginaire ou un espace plus épais.
@@ -10855,6 +11557,18 @@ La ligne de partage des eaux est la limite entre deux bassins voisins : en monta
 ## Pourquoi c'est utile
 
 L'eau est gérée par bassin : les agences de l'eau ont été créées pour cela. L'eau, les sédiments et les polluants circulent à l'intérieur d'un bassin : ce qui se passe en amont touche l'aval. Les lignes de partage ont parfois servi de frontières, et l'on a creusé des canaux ou des portages pour franchir ces barrières naturelles.
+
+```schema
+type: etapes
+titre: Le bassin versant
+elements:
+  - titre: Pluie sur une crête
+    icone: mountain
+  - titre: Ligne de partage des eaux
+    texte: Elle sépare deux bassins.
+  - titre: Ruissellement
+  - titre: Même cours d'eau, même mer
+```
 
 ## À retenir
 
@@ -10941,6 +11655,19 @@ Mais elle déforme les surfaces : l'agrandissement augmente quand on s'éloigne 
 
 Aucune projection ne peut conserver à la fois les angles et les surfaces : on ne peut pas aplatir une sphère sans la déformer. Le mathématicien Carl Friedrich Gauss a démontré qu'on ne peut pas représenter une sphère sur un plan sans déformation. Une carte peut déformer les surfaces, les formes, les distances ou les directions. Les projections qui conservent les surfaces montrent les bonnes tailles relatives, mais déforment les formes. Les ellipses de Tissot servent à visualiser où et à quel point une projection déforme. Parmi les alternatives à Mercator : Gall-Peters, Robinson, Winkel tripel, ou des projections qui conservent les surfaces.
 
+```schema
+type: comparaison
+titre: Ce que montre une carte de Mercator
+colonnes:
+  - titre: Sur la carte
+    points:
+      - Le Groenland paraît aussi grand que l'Afrique
+  - titre: En réalité
+    points:
+      - L'Afrique est bien plus grande
+      - Aucune carte plane n'est parfaite
+```
+
 ## À retenir
 
 - La projection de Mercator, créée par le cartographe flamand Gérard Mercator, est conçue pour la navigation maritime.
@@ -11024,6 +11751,21 @@ Les plus grands déserts du monde sont polaires : l'Antarctique, puis l'Arctique
 ## Vivre dans un désert
 
 Des plantes et des animaux s'y sont adaptés pour économiser l'eau et réguler leur température : plantes grasses, chameaux, reptiles, animaux nocturnes. Des peuples vivent dans les déserts : nomades, éleveurs et agriculteurs des oasis. Dans le Sahara, le sable est brûlant le jour, et les écarts de température entre le jour et la nuit sont importants. Le Sahara a alterné entre désert et savane au fil de cycles liés aux variations de l'orbite de la Terre.
+
+```schema
+type: comparaison
+titre: Les plus grands déserts
+colonnes:
+  - titre: Déserts polaires
+    icone: snowflake
+    points:
+      - Antarctique, Arctique
+      - Les plus grands
+  - titre: Déserts chauds
+    icone: sun
+    points:
+      - Sahara, le plus grand désert chaud
+```
 
 ## À retenir
 
@@ -11109,6 +11851,18 @@ Une conférence internationale à Washington a choisi Greenwich comme méridien 
 
 Certains pays utilisent des décalages de 30 ou 45 minutes, comme l'Inde et le Népal. La Chine utilise un seul fuseau horaire pour tout son territoire, alors qu'il en couvre théoriquement plusieurs. La France métropolitaine suit l'heure UTC+1, et UTC+2 en été ; avec ses territoires d'outre-mer, elle couvre de nombreux fuseaux horaires. La ligne de changement de date marque l'endroit où l'on change de jour calendaire. Dans beaucoup de pays, on avance l'horloge d'une heure au printemps et en été.
 
+```schema
+type: chiffres
+titre: Les fuseaux horaires
+chiffres:
+  - valeur: 24 h
+    texte: pour un tour de la Terre
+  - valeur: 24 tranches
+    texte: de longitude, une par heure
+  - valeur: Greenwich
+    texte: le méridien de référence
+```
+
 ## À retenir
 
 - La Terre fait un tour en 24 heures : on la découpe en 24 tranches de longitude, une par heure.
@@ -11190,6 +11944,20 @@ L'Ouest et le Sud-Ouest attirent : la Bretagne, l'Occitanie et la Nouvelle-Aquit
 ## La carte de la croissance
 
 La croissance d'un territoire repose sur deux soldes : le solde naturel, naissances moins décès, et le solde migratoire, arrivées moins départs. Le solde naturel a faibli, et la croissance démographique du pays a ralenti. La population a augmenté plus vite dans l'espace urbain que dans le rural. Les mouvements naturels et migratoires opposent les départements du nord et du sud : le Sud et l'Ouest attirent, le nord-est perd des habitants. De nombreux départements du nord-est, du centre et du Massif central perdent des habitants. La croissance est la plus forte autour de Paris, sur la façade atlantique, dans le Sud et dans la vallée du Rhône.
+
+```schema
+type: comparaison
+titre: Où vont les Français
+colonnes:
+  - titre: Régions attractives
+    points:
+      - Bretagne
+      - Occitanie
+      - Nouvelle-Aquitaine
+  - titre: Tendance générale
+    points:
+      - On déménage moins qu'il y a dix ans
+```
 
 ## À retenir
 
@@ -11274,6 +12042,18 @@ Leur surface de terres émergées est petite, mais ils s'étendent sur de très 
 
 La France a la deuxième plus grande ZEE du monde, derrière les États-Unis. La quasi-totalité de la ZEE française se situe outre-mer. Ces territoires dépendent encore beaucoup de la métropole pour le commerce et le soutien financier.
 
+```schema
+type: systeme
+titre: Les outre-mer français
+centre: Outre-mer
+icone: globe
+parties:
+  - nom: Plusieurs océans
+    role: Atlantique, Pacifique, Indien, Antarctique.
+  - nom: Statuts différents
+  - nom: Deuxième zone économique exclusive du monde
+```
+
 ## À retenir
 
 - Les outre-mer français sont des territoires répartis sur plusieurs océans : Atlantique, Pacifique, Indien et Antarctique.
@@ -11355,6 +12135,17 @@ Le conteneur, une boîte standardisée, a révolutionné le transport maritime. 
 ## Un coût environnemental
 
 Le transport maritime représente une part notable des émissions de gaz à effet de serre et pollue l'air des zones côtières. La teneur maximale en soufre des carburants marins a été fortement réduite pour limiter cette pollution.
+
+```schema
+type: etapes
+titre: Le voyage d'un conteneur
+elements:
+  - titre: Chargement
+  - titre: Porte-conteneurs
+    icone: wave
+  - titre: Port d'arrivée
+  - titre: Train ou camion
+```
 
 ## À retenir
 
@@ -11439,6 +12230,18 @@ Les départements à population jeune, comme ceux de l'Île-de-France, des outre
 
 Le Sud et l'Ouest attirent des habitants, alors que le nord-est en perd. Une diagonale qui va des Ardennes au Massif central connaît stagnation ou perte d'habitants. Les écarts entre départements se creusent : de moins en moins de départements croissent aussi vite que la moyenne nationale. La population augmente plus vite dans l'espace urbain que dans le rural. De nombreux départements perdent des habitants, surtout dans le nord-est, le centre et le Massif central.
 
+```schema
+type: comparaison
+titre: Les deux soldes d'un territoire
+colonnes:
+  - titre: Solde naturel
+    points:
+      - Naissances moins décès
+  - titre: Solde migratoire
+    points:
+      - Arrivées moins départs
+```
+
 ## À retenir
 
 - La croissance d'un territoire dépend de son solde naturel, naissances moins décès, et de son solde migratoire, arrivées moins départs.
@@ -11520,6 +12323,16 @@ Dans les premiers mètres depuis le rivage, une grande part du sol est artificia
 ## La loi Littoral
 
 Une loi spécifique, la loi Littoral, encadre l'urbanisation des côtes et protège les espaces naturels. Hors des espaces déjà urbanisés, il est interdit de construire dans la bande des cent mètres à partir du rivage ; les plans locaux peuvent étendre cette distance. La loi impose des coupures d'urbanisation : des zones naturelles ou agricoles qui évitent une urbanisation continue. Elle garantit le libre accès au rivage par les sentiers littoraux. Elle s'applique aux communes qui bordent les océans, les mers, les lagunes salées et les grands lacs, ainsi qu'aux estuaires.
+
+```schema
+type: chiffres
+titre: Le littoral métropolitain
+chiffres:
+  - valeur: 4 %
+    texte: du territoire environ
+  - valeur: "× 2,5"
+    texte: la densité moyenne de population
+```
 
 ## À retenir
 
@@ -11606,6 +12419,21 @@ Un canal chargé, appelé traceur par bonds, descend du nuage vers le sol ; à s
 
 Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, comme une onde de choc. La lumière va bien plus vite que le son : on voit donc l'éclair avant d'entendre le tonnerre.
 
+```schema
+type: etapes
+titre: La naissance d'un éclair
+elements:
+  - titre: Collisions de glace
+    texte: Les particules prennent des charges.
+  - titre: Séparation
+    texte: Haut du nuage positif, bas négatif.
+  - titre: Décharge
+    texte: L'éclair.
+    icone: bolt
+  - titre: Tonnerre
+    texte: L'air chauffé se dilate brutalement.
+```
+
 ## À retenir
 
 - Dans un nuage d'orage, des particules de glace se cognent et prennent des charges électriques.
@@ -11613,3 +12441,4 @@ Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, 
 - Quand ils se rejoignent, un canal conducteur est tracé et une décharge très lumineuse, l'arc en retour, parcourt le canal.
 - Le tonnerre est le bruit de l'air brusquement chauffé qui se dilate d'un coup, comme une onde de choc.
 - La lumière va bien plus vite que le son : on voit donc l'éclair avant d'entendre le tonnerre.
+

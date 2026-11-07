@@ -308,8 +308,19 @@ problème.
 - L'acier d'une poutre en béton se place là où le béton s'étirerait.
 - Au-delà d'une certaine hauteur, le vent dimensionne plus que le poids.
 
-[Emplacement image : compression et traction dans un arc, un câble et une poutre, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de travailler pour un matériau
+colonnes:
+  - titre: Compression
+    points:
+      - On écrase le matériau
+      - Pierre et béton y résistent bien
+  - titre: Traction
+    points:
+      - On étire le matériau
+      - Acier et câbles y résistent bien
+```
 
 ---
 
@@ -425,8 +436,17 @@ d'excellents bilans mais des filières encore restreintes.
 - Réduire la part de clinker est le principal levier déployé.
 - Utiliser moins de béton reste le levier le plus efficace.
 
-[Emplacement image : origines des émissions dans la fabrication du ciment, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le poids climatique du ciment
+chiffres:
+  - valeur: 7 à 8 %
+    texte: des émissions mondiales de CO2
+  - valeur: Le calcaire
+    texte: sa décomposition chimique émet l'essentiel du CO2
+  - valeur: Moins de clinker
+    texte: le principal levier déjà déployé
+```
 
 ---
 
@@ -542,8 +562,19 @@ maintenance.
 - La fatigue fissure un métal sous des charges répétées, même modérées.
 - Le coût de l'entretien est très inférieur à celui de la réparation.
 
-[Emplacement image : mécanisme de corrosion des armatures dans le béton armé, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui use un pont
+centre: Pont
+icone: bridge
+parties:
+  - nom: Eau et chlorures
+    role: L'acier rouille et fait éclater le béton.
+  - nom: Fatigue
+    role: Les charges répétées fissurent le métal.
+  - nom: Surveillance
+    role: Inspections régulières.
+```
 
 ---
 
@@ -656,8 +687,22 @@ Et les muscles artificiels à base de polymères, encore au stade de la recherch
 - Pneumatique : léger, rapide et naturellement souple, donc peu précis.
 - Le réducteur convertit la vitesse du moteur en force utile.
 
-[Emplacement image : trois familles d'actionneurs et leurs domaines d'usage, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois familles d'actionneurs
+colonnes:
+  - titre: Électrique
+    points:
+      - Précis, facile à commander
+      - Puissance limitée
+  - titre: Hydraulique
+    points:
+      - Très puissant
+      - Lourd et difficile à doser
+  - titre: Pneumatique
+    points:
+      - Léger, rapide, souple
+```
 
 ---
 
@@ -765,8 +810,18 @@ devant un chantier improvisé.
 - Un capteur mesure ; l'interprétation de la scène est un tout autre problème.
 - Les systèmes échouent surtout sur les situations qu'ils n'ont jamais rencontrées.
 
-[Emplacement image : même scène vue par une caméra, un lidar et un radar, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les capteurs d'un robot
+legende: Chacun échoue dans certaines conditions ; la fusion compense.
+centre: Perception
+icone: robot
+parties:
+  - nom: Caméra
+  - nom: Laser
+  - nom: Radar
+  - nom: Ultrasons
+```
 
 ---
 
@@ -886,8 +941,18 @@ relativement calmes.
 - La planification se fait à deux niveaux : itinéraire global et évitement local.
 - Circuler parmi des humains demande un comportement lisible, pas seulement sûr.
 
-[Emplacement image : construction progressive d'une carte et correction par fermeture de boucle,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Se localiser et cartographier
+elements:
+  - titre: Se déplacer
+    texte: Le comptage des roues dérive.
+  - titre: Observer
+    texte: Les capteurs voient des repères.
+  - titre: Recaler la position
+  - titre: Mettre à jour la carte
+    icone: map
+```
 
 ---
 
@@ -1004,8 +1069,16 @@ Les points quantiques, dont la lumière émise dépend de la taille, utilisés d
 - Il est très résistant, conducteur, transparent et flexible.
 - Sa production industrielle en qualité constante reste le verrou principal.
 
-[Emplacement image : structure en nid d'abeille du graphène, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le graphène
+centre: Une couche de carbone d'un atome
+parties:
+  - nom: Très résistant
+  - nom: Conducteur
+  - nom: Transparent
+  - nom: Difficile à produire en grande quantité
+```
 
 ---
 
@@ -1127,8 +1200,19 @@ présence de nanomatériaux dans les produits de consommation.
 - La toxicité dépend de la taille et de la forme, pas seulement de la composition.
 - Une évaluation spécifique est nécessaire pour chaque matériau et chaque voie d'exposition.
 
-[Emplacement image : nanoparticule transportant un principe actif jusqu'à sa cible, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les nanotechnologies au quotidien
+centre: Nanomatériaux
+parties:
+  - nom: Médecine
+    role: Vecteurs de médicaments, dont les vaccins à ARN.
+  - nom: Objets courants
+    role: Crèmes solaires, textiles, écrans.
+  - nom: Énergie
+  - nom: Santé
+    role: La toxicité dépend de la taille et de la forme.
+```
 
 ---
 
@@ -1244,8 +1328,20 @@ bord de mer, sous les ultraviolets ou au contact de produits d'entretien.
 - Aucun matériau n'est optimal sur tous les critères à la fois.
 - Couple galvanique, dilatation différentielle et fatigue sont des pièges classiques.
 
-[Emplacement image : comparaison de matériaux sur résistance et densité, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Résistance ou rigidité
+colonnes:
+  - titre: Résistance
+    points:
+      - La charge avant la rupture
+  - titre: Rigidité
+    points:
+      - La déformation sous une charge
+  - titre: Dans les transports
+    points:
+      - On compare les propriétés rapportées à la masse
+```
 
 ---
 
@@ -1371,8 +1467,18 @@ incidents ne remontent pas, et l'on perd précisément l'information dont on a b
 - Une bonne conception prévoit où et comment les choses casseront.
 - Le retour d'expérience suppose que signaler un problème n'expose pas à une sanction.
 
-[Emplacement image : modèle des barrières de sécurité et alignement des défaillances, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le modèle des barrières
+legende: Un accident naît de l'alignement de plusieurs défaillances.
+elements:
+  - titre: Conception
+  - titre: Fabrication
+  - titre: Maintenance
+  - titre: Exploitation
+  - titre: Accident
+    texte: Quand toutes les barrières laissent passer.
+```
 
 ---
 
@@ -1382,16 +1488,153 @@ title: Le levier, la poulie et le plan incliné
 slug: levier-poulie-plan-incline
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Les machines simples qui multiplient la force humaine, à la base de toute construction depuis l'Antiquité.
-tags: [structures, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Un levier, une poulie ou une rampe permettent de déplacer une charge bien plus lourde que ce
+  qu'on soulèverait à mains nues. Ces machines simples ne créent pas d'énergie : elles échangent
+  de la force contre de la distance.
+tags: [structures]
+relatedArticles: [arc-voute, machine-vapeur, moulins-vent]
+sources:
+  - title: "Machine simple"
+    url: "https://fr.wikipedia.org/wiki/Machine_simple"
+    publisher: "Wikipédia"
+  - title: "Simple machine"
+    url: "https://en.wikipedia.org/wiki/Simple_machine"
+    publisher: "Wikipedia"
+  - title: "Lever"
+    url: "https://en.wikipedia.org/wiki/Lever"
+    publisher: "Wikipedia"
+  - title: "Pulley"
+    url: "https://en.wikipedia.org/wiki/Pulley"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Avec un levier dont le bras côté main est quatre fois plus long que le bras côté charge, quelle force faut-il pour soulever 100 kg ?"
+    options:
+      - "L'équivalent de 25 kg"
+      - "L'équivalent de 400 kg"
+      - "L'équivalent de 100 kg"
+    answer: 1
+    explanation: >
+      La force est divisée par le rapport des longueurs des bras. En contrepartie, la main doit
+      descendre quatre fois plus loin que la charge ne monte.
+  - question: "Que fait une poulie fixe seule ?"
+    options:
+      - "Elle divise la force par deux"
+      - "Elle change seulement la direction de la force"
+      - "Elle crée de l'énergie"
+    answer: 2
+    explanation: >
+      Avec une poulie fixe, on tire vers le bas pour lever vers le haut, ce qui est plus
+      pratique, mais la force reste la même. Ce sont les poulies mobiles qui la divisent.
+  - question: "Quel est le prix à payer quand une machine simple réduit la force nécessaire ?"
+    options:
+      - "Elle chauffe beaucoup"
+      - "Elle doit être en métal"
+      - "Il faut déplacer la main ou la corde sur une plus grande distance"
+    answer: 3
+    explanation: >
+      Le travail, force multipliée par distance, reste le même. Moins de force signifie plus de
+      distance.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le levier, la poulie et le plan incliné sont des **machines simples**. Elles permettent de
+soulever ou de déplacer des charges bien plus lourdes que ce que nos muscles pourraient porter
+directement. Elles ne fabriquent pas d'énergie : elles échangent de la force contre de la
+distance. On pousse moins fort, mais plus longtemps. Avec elles, on a bâti les temples, les
+cathédrales et les ports, bien avant les moteurs.
+
+## La règle d'or des machines simples
+
+Pour soulever une charge, il faut fournir un **travail** : la force multipliée par la distance
+parcourue. Une machine simple ne change pas ce travail, aux frottements près. Elle permet seulement
+de le répartir autrement :
+
+- soit une **grande force sur une petite distance** ;
+- soit une **petite force sur une grande distance**.
+
+Pour monter un bloc d'un mètre, on peut donc tirer quatre fois moins fort, à condition de tirer la
+corde sur quatre mètres. Les frottements font toujours perdre un peu : la force réelle est un peu
+plus grande que la force calculée.
+
+## Le levier
+
+Un levier est une barre rigide qui pivote autour d'un point d'appui, le **pivot**. La charge
+appuie d'un côté, la main de l'autre. La règle est simple : la force multipliée par la longueur de
+son bras s'équilibre de part et d'autre du pivot.
+
+Si le bras côté main est quatre fois plus long que le bras côté charge, il suffit de quatre fois
+moins de force. Mais la main descend quatre fois plus que la charge ne monte. Au IIIe siècle avant
+notre ère, Archimède a énoncé cette loi ; on lui prête la phrase « Donnez-moi un point d'appui, et
+je soulèverai le monde ».
+
+On distingue trois genres de leviers selon la place du pivot :
+
+1. le pivot entre la charge et la main : la pince-monseigneur, la balançoire, la balance ;
+2. la charge entre le pivot et la main : la brouette, le casse-noix ;
+3. la main entre le pivot et la charge : la pince à épiler, l'avant-bras humain. Ce genre réduit
+   la force mais augmente la vitesse et l'amplitude.
+
+```schema
+type: comparaison
+titre: Trois machines, une même règle
+legende: Moins de force, mais plus de distance.
+colonnes:
+  - titre: Levier
+    points:
+      - Une barre qui pivote sur un appui
+      - Force divisée par le rapport des bras
+  - titre: Poulie
+    points:
+      - Fixe, elle change la direction de la force
+      - Un palan la divise par le nombre de brins
+  - titre: Plan incliné
+    points:
+      - Une rampe à la place d'une montée verticale
+      - Le coin et la vis en sont des variantes
+```
+
+## La poulie
+
+Une poulie est une roue à gorge dans laquelle passe une corde.
+
+- Une **poulie fixe**, accrochée en hauteur, ne réduit pas la force. Elle en change la direction :
+  on tire vers le bas pour monter la charge, en s'aidant de son poids.
+- Une **poulie mobile**, accrochée à la charge, la fait porter par deux brins de corde. Chaque brin
+  ne porte que la moitié du poids : la force est divisée par deux.
+- Un **palan**, ou moufle, combine plusieurs poulies fixes et mobiles. Si la charge est portée par
+  quatre brins, la force est divisée par quatre, et il faut tirer quatre mètres de corde pour la
+  monter d'un mètre.
+
+Les Romains utilisaient des grues de bois équipées de palans, actionnées par des hommes marchant
+dans une grande roue, pour hisser les pierres de leurs monuments.
+
+## Le plan incliné
+
+Monter une charge verticalement demande de vaincre tout son poids. La faire glisser ou rouler sur
+une rampe demande beaucoup moins de force, mais sur un plus long chemin. Plus la pente est douce,
+plus la force nécessaire est faible et plus la rampe est longue.
+
+Le plan incliné se cache dans d'autres outils. Le **coin**, comme une hache, est un double plan
+incliné qui transforme un coup en une forte poussée latérale. La **vis** est un plan incliné
+enroulé autour d'un cylindre : chaque tour la fait avancer d'un petit pas, avec une grande force.
+
+## Les machines simples combinées
+
+Dans l'Antiquité, Héron d'Alexandrie décrit cinq machines simples : le levier, le treuil, la
+poulie, le coin et la vis. Les savants de la Renaissance y ajoutent le plan incliné. Presque toutes
+les machines mécaniques combinent ces éléments : une grue associe treuil et poulies, une
+bicyclette leviers et roues, une presse à vis plan incliné et levier.
+
+## À retenir
+
+- Les machines simples réduisent la force nécessaire en allongeant la distance parcourue.
+- Le travail, force multipliée par distance, reste le même, aux frottements près.
+- Un levier divise la force par le rapport de longueur de ses bras.
+- Une poulie fixe change la direction de la force ; un palan la divise par le nombre de brins qui portent la charge.
+- Le coin et la vis sont des formes de plan incliné.
 
 ---
 type: article
@@ -1399,16 +1642,148 @@ title: L'arc et la voûte
 slug: arc-voute
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Comment des pierres qui ne tiennent que par leur poids peuvent franchir des portées de plusieurs dizaines de mètres.
-tags: [structures, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Un arc est fait de pierres taillées qui ne tiennent que par leur poids et se poussent les unes
+  les autres. Bien conçu, il franchit de grandes portées sans aucun mortier ni métal. Prolongé, il
+  devient une voûte ; tourné sur lui-même, une coupole.
+tags: [structures]
+relatedArticles: [levier-poulie-plan-incline]
+sources:
+  - title: "Arc (architecture)"
+    url: "https://fr.wikipedia.org/wiki/Arc_(architecture)"
+    publisher: "Wikipédia"
+  - title: "Voûte"
+    url: "https://fr.wikipedia.org/wiki/Vo%C3%BBte"
+    publisher: "Wikipédia"
+  - title: "Arch"
+    url: "https://en.wikipedia.org/wiki/Arch"
+    publisher: "Wikipedia"
+  - title: "Pantheon, Rome"
+    url: "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment travaille la pierre dans un arc ?"
+    options:
+      - "Elle est comprimée, ce qu'elle supporte très bien"
+      - "Elle est étirée, comme un élastique"
+      - "Elle est tordue"
+    answer: 1
+    explanation: >
+      Les pierres d'un arc se poussent les unes les autres. La pierre résiste très bien à la
+      compression, mais casse facilement quand on l'étire.
+  - question: "À quoi sert le cintre pendant la construction d'un arc ?"
+    options:
+      - "À décorer l'arc"
+      - "À soutenir les pierres jusqu'à la pose de la clé"
+      - "À chauffer le mortier"
+    answer: 2
+    explanation: >
+      Le cintre est un gabarit en bois. Il porte les voussoirs tant que l'arc n'est pas fermé par
+      la clé ; ensuite, l'arc tient seul.
+  - question: "Pourquoi les cathédrales gothiques ont-elles des arcs-boutants ?"
+    options:
+      - "Pour monter sur le toit"
+      - "Pour récupérer l'eau de pluie"
+      - "Pour reprendre la poussée des voûtes et laisser des murs minces percés de grandes fenêtres"
+    answer: 3
+    explanation: >
+      Les voûtes poussent les murs vers l'extérieur. Les arcs-boutants transmettent cette
+      poussée à des piles extérieures, ce qui permet d'ouvrir de grands vitraux.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pour franchir une ouverture avec de la pierre, on peut poser une grande dalle, un linteau, sur
+deux appuis. Mais la pierre casse facilement quand elle plie. L'**arc** contourne le problème : il
+est fait de pierres taillées en coin, les **voussoirs**, qui se poussent les unes les autres. Elles
+ne travaillent qu'en compression, ce que la pierre supporte très bien. Prolongé en longueur, l'arc
+devient une **voûte** ; tourné autour d'un axe, une **coupole**.
+
+## Pourquoi un linteau ne suffit pas
+
+Une poutre posée sur deux appuis fléchit sous son poids : le dessus est comprimé, le dessous
+étiré. La pierre résiste très bien à la compression, mais mal à la traction : un linteau trop long
+se fissure par en dessous et se rompt. C'est pourquoi les temples grecs ont des colonnes
+rapprochées.
+
+## Comment tient un arc
+
+Dans un arc, chaque voussoir est poussé par son poids et par celui des pierres au-dessus. Comme il
+est taillé en coin, il ne peut pas tomber : il est coincé entre ses voisins. Les efforts suivent la
+courbe de l'arc, de pierre en pierre, jusqu'au sol. Toutes les pierres sont comprimées, aucune
+n'est étirée.
+
+La pierre du sommet, la **clé de voûte**, est posée en dernier. Avant elle, l'arc ne tient pas ;
+après elle, il tient seul, même sans mortier.
+
+```schema
+type: etapes
+titre: Construire un arc
+elements:
+  - titre: Le cintre
+    texte: Un gabarit en bois donne la forme de l'arc.
+  - titre: Les voussoirs
+    texte: Des pierres taillées en coin posées de part et d'autre.
+  - titre: La clé
+    texte: La pierre du sommet est posée en dernier.
+  - titre: Le décintrement
+    texte: On retire le cintre, l'arc tient seul.
+  - titre: Les culées
+    texte: De lourds appuis reprennent la poussée vers l'extérieur.
+```
+
+## Le cintre, un échafaudage indispensable
+
+Pendant la construction, les voussoirs ne tiennent pas encore. On les pose sur un **cintre**, un
+gabarit en bois qui a la forme exacte de l'arc. Une fois la clé posée et le mortier pris, on
+retire le cintre : c'est le décintrement, un moment délicat. Le même cintre peut servir pour
+plusieurs arcs identiques, ce qui explique les séries d'arches régulières des ponts et des
+aqueducs.
+
+## La poussée, l'ennemie de l'arc
+
+Un arc ne pousse pas seulement vers le bas : il pousse aussi ses appuis **vers l'extérieur**, comme
+s'il voulait s'aplatir. Plus l'arc est surbaissé, plus cette poussée est forte. Si les appuis
+s'écartent, l'arc s'effondre. Il faut donc des **culées** massives, des murs épais ou des
+contreforts, ou encore placer les arcs côte à côte pour que leurs poussées s'annulent, comme dans
+un pont à plusieurs arches.
+
+Au XVIIe siècle, le savant anglais Robert Hooke en donne une image saisissante : une chaînette
+suspendue prend naturellement la forme où elle n'est que tirée ; retournée, cette forme donne
+l'arc où la pierre n'est que comprimée. Au XXe siècle, l'architecte Antoni Gaudí utilisait des
+maquettes de ficelles lestées pour dessiner ses voûtes.
+
+## De Rome aux cathédrales
+
+Les Romains généralisent l'arc en **plein cintre**, en demi-cercle. Le pont du Gard, construit au
+Ier siècle de notre ère, superpose trois rangées d'arches pour porter un aqueduc à près de
+50 mètres au-dessus du Gardon. La coupole du Panthéon de Rome, achevée vers 125, atteint
+43 mètres de diamètre ; elle reste la plus grande coupole en béton non armé du monde.
+
+Au Moyen Âge, les bâtisseurs gothiques adoptent l'**arc brisé**, ou arc en ogive, formé de deux
+arcs qui se rejoignent en pointe. Il pousse moins vers l'extérieur et s'adapte à des portées
+différentes. Les poussées des voûtes sont reprises à l'extérieur par des **arcs-boutants**, qui
+les transmettent à de lourdes piles. Les murs, déchargés, peuvent alors être percés de grands
+vitraux.
+
+## Les différentes voûtes
+
+- La **voûte en berceau**, un arc prolongé en tunnel.
+- La **voûte d'arêtes**, deux berceaux qui se croisent.
+- La **voûte sur croisée d'ogives**, portée par des nervures en arc brisé.
+- La **coupole**, ou dôme, un arc tourné autour d'un axe vertical.
+
+Certaines voûtes en briques crues, comme les voûtes nubiennes, se construisent même sans cintre,
+en posant des rangs de briques légèrement inclinés qui s'appuient sur un mur.
+
+## À retenir
+
+- Un arc est fait de voussoirs en coin qui se poussent les uns les autres.
+- Toutes les pierres d'un arc sont comprimées, ce que la pierre supporte très bien.
+- On construit l'arc sur un cintre en bois, retiré une fois la clé de voûte posée.
+- Un arc pousse ses appuis vers l'extérieur : il faut des culées, des contreforts ou des arcs-boutants.
+- La coupole du Panthéon de Rome, vers 125, mesure 43 mètres de diamètre.
 
 ---
 type: article
@@ -1467,16 +1842,144 @@ title: La charpente en bois
 slug: charpente-bois
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Assemblages, triangulation, choix des essences : le savoir-faire des charpentiers pour couvrir un bâtiment.
-tags: [structures, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une charpente porte le toit d'un bâtiment. Ses pièces de bois, assemblées en triangles
+  indéformables, reprennent le poids de la couverture, de la neige et la force du vent. Les
+  charpentiers maîtrisent depuis des siècles le choix des essences et l'art des assemblages.
+tags: [structures]
+relatedArticles: [arc-voute, levier-poulie-plan-incline, gerer-durablement-foret]
+sources:
+  - title: "Charpente"
+    url: "https://fr.wikipedia.org/wiki/Charpente"
+    publisher: "Wikipédia"
+  - title: "Ferme (charpente)"
+    url: "https://fr.wikipedia.org/wiki/Ferme_(charpente)"
+    publisher: "Wikipédia"
+  - title: "Timber framing"
+    url: "https://en.wikipedia.org/wiki/Timber_framing"
+    publisher: "Wikipedia"
+  - title: "Tenon et mortaise"
+    url: "https://fr.wikipedia.org/wiki/Tenon_et_mortaise"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi les charpentes sont-elles faites de triangles ?"
+    options:
+      - "Parce qu'un triangle ne peut pas se déformer sans que l'une de ses pièces change de longueur"
+      - "Parce que c'est plus joli"
+      - "Parce que cela économise les clous"
+    answer: 1
+    explanation: >
+      Un carré articulé s'aplatit facilement en losange. Un triangle reste rigide : c'est la
+      triangulation.
+  - question: "Quel est le rôle de l'entrait dans une ferme de charpente ?"
+    options:
+      - "Décorer le plafond"
+      - "Relier le bas des deux arbalétriers pour les empêcher de pousser les murs vers l'extérieur"
+      - "Porter les tuiles directement"
+    answer: 2
+    explanation: >
+      Comme un arc, un toit en pente pousse ses appuis. L'entrait, tendu, retient cette poussée.
+  - question: "Comment s'assemblaient traditionnellement les pièces d'une charpente ?"
+    options:
+      - "Avec de la colle"
+      - "Avec des vis en acier"
+      - "Par tenons et mortaises bloqués par des chevilles en bois"
+    answer: 3
+    explanation: >
+      Le tenon, une languette taillée au bout d'une pièce, entre dans la mortaise, un logement creusé
+      dans l'autre. Une cheville traverse le tout.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+La **charpente** est la structure qui porte le toit. Elle doit supporter le poids des tuiles ou des
+ardoises, celui de la **neige**, et résister aux arrachements du **vent**. Les charpentiers utilisent
+depuis des siècles un principe simple : la **triangulation**, car un triangle est indéformable. Ils
+choisissent leurs **essences** de bois selon leur solidité et leur durabilité, et les relient par des
+**assemblages** taillés avec précision. Certaines charpentes médiévales tiennent depuis plus de
+huit siècles.
+
+## Le triangle, forme indéformable
+
+Quatre barres articulées en carré s'écrasent facilement en losange. Trois barres articulées en
+**triangle** ne peuvent pas se déformer sans qu'une barre s'allonge ou se raccourcisse. En plaçant des
+triangles partout, on obtient une structure rigide avec peu de bois. On retrouve ce principe dans les
+ponts métalliques, les grues et les pylônes.
+
+## Les pièces d'une charpente traditionnelle
+
+La charpente classique repose sur des **fermes**, des triangles de bois placés à intervalles réguliers :
+
+- les **arbalétriers**, les deux pièces inclinées qui suivent la pente du toit ;
+- l'**entrait**, la poutre horizontale qui relie le bas des arbalétriers. Il est **tendu** et empêche le
+  toit de pousser les murs vers l'extérieur, comme une corde d'arc ;
+- le **poinçon**, pièce verticale au centre, et les **contrefiches**, qui raidissent l'ensemble.
+
+Entre les fermes, des **pannes** horizontales portent les **chevrons**, qui suivent la pente, puis les
+**liteaux** sur lesquels on accroche la couverture.
+
+```schema
+type: systeme
+titre: Les pièces d'une ferme de charpente
+centre: Ferme de charpente
+parties:
+  - nom: Arbalétriers
+    role: Les deux pièces inclinées qui suivent la pente.
+  - nom: Entrait
+    role: Poutre tendue qui retient la poussée du toit.
+  - nom: Poinçon
+    role: Pièce verticale au centre.
+  - nom: Contrefiches
+    role: Raidissent l'ensemble.
+  - nom: Pannes et chevrons
+    role: Portent la couverture entre les fermes.
+```
+
+## Les assemblages
+
+Avant les connecteurs métalliques, les pièces s'assemblaient par le bois lui-même :
+
+- **le tenon et la mortaise** : une languette taillée au bout d'une pièce s'emboîte dans un logement
+  creusé dans l'autre, et une **cheville** en bois dur traverse le tout ;
+- **l'assemblage à mi-bois** : on entaille la moitié de l'épaisseur des deux pièces, qui se croisent à
+  plat ;
+- **la queue d'aronde**, en forme de queue d'hirondelle, qui ne peut pas s'arracher ;
+- **l'embrèvement**, une entaille inclinée qui transmet la poussée d'une pièce oblique.
+
+Les charpentiers tracent ces assemblages grâce à l'**épure**, un dessin en grandeur réelle tracé au sol,
+art transmis notamment par les compagnons du devoir. Aujourd'hui, on utilise aussi des boulons, des
+équerres métalliques et des **fermettes industrielles** légères assemblées par des plaques crantées.
+
+## Choisir le bois
+
+- **Le chêne** : très solide et durable, c'est le bois des charpentes médiévales et des cathédrales.
+- **Le châtaignier**, naturellement résistant aux insectes.
+- **Le sapin, l'épicéa et le douglas** : plus légers, droits et abondants, très utilisés aujourd'hui.
+
+Traditionnellement, on travaillait le chêne **frais**, plus facile à tailler, et il séchait en place. On
+choisit des bois droits, sans gros nœuds, et l'on tient compte du **fil** du bois.
+
+## Protéger une charpente
+
+L'ennemi du bois est l'**humidité** : un bois qui reste mouillé pourrit et attire les insectes et les
+champignons. Une charpente durable est **hors d'eau** grâce à une couverture entretenue, **ventilée**, et
+ses pièces ne touchent pas un mur humide. On surveille les traces de fuites, de vermoulure ou de
+champignons.
+
+## Notre-Dame de Paris
+
+La charpente médiévale de Notre-Dame, surnommée « la forêt », comptait des centaines de poutres de chêne
+du XIIIe siècle. Détruite par l'incendie d'avril 2019, elle a été reconstruite en chêne, avec des
+techniques traditionnelles de taille à la hache, et la cathédrale a rouvert en décembre 2024.
+
+## À retenir
+
+- La charpente porte le toit et résiste au poids de la couverture, à la neige et au vent.
+- Elle repose sur la triangulation : un triangle est indéformable.
+- Dans une ferme, l'entrait relie le bas des arbalétriers et retient la poussée du toit.
+- Tenons, mortaises et chevilles assemblent les pièces sans métal.
+- L'humidité est l'ennemi principal du bois : une charpente doit rester sèche et ventilée.
 
 ---
 type: article
@@ -1602,8 +2105,19 @@ industriels et des additifs précis.
 - Mélangée à du sable, la chaux éteinte donne le mortier qui a lié les pierres pendant des millénaires.
 - Les Égyptiens l'utilisaient dès 4000 avant notre ère ; les traces les plus anciennes remontent à 9500 avant notre ère.
 
-[Emplacement image : coupe d'un four à chaux traditionnel avec les étapes de calcination et
-d'extinction, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le cycle de la chaux
+elements:
+  - titre: Calcaire
+  - titre: Cuisson
+    texte: Vers 900 à 1 000 °C.
+    icone: fire
+  - titre: Extinction
+    texte: Avec de l'eau, en plein air, avec prudence.
+  - titre: Durcissement
+    texte: La chaux reprend le CO2 de l'air.
+```
 
 ---
 
@@ -1716,8 +2230,20 @@ simples.
   l'argile de façon irréversible.
 - Des fours de terre simples suffisent à reproduire ce procédé sans installation industrielle.
 
-[Emplacement image : briques d'argile moulées séchant à l'air libre à côté d'un four traditionnel
-en fonctionnement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Fabriquer une brique
+elements:
+  - titre: Préparer l'argile
+    texte: Fines particules et sable.
+  - titre: Mouler
+    texte: Dans un moule rectangulaire.
+  - titre: Sécher
+    texte: Avant toute cuisson.
+  - titre: Cuire
+    texte: Une transformation irréversible.
+    icone: fire
+```
 
 ---
 
@@ -1933,8 +2459,16 @@ signes précoces de dégradation.
 - Un entretien régulier reste indispensable pour préserver la durabilité d'une route bien
   construite.
 
-[Emplacement image : coupe transversale d'une route montrant ses différentes couches et son
-système de drainage latéral, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les couches d'une route
+legende: Une surface bombée évacue l'eau vers les fossés.
+niveaux:
+  - titre: Couche de roulement
+  - titre: Couche de base
+  - titre: Couche de fondation
+  - titre: Sol drainé
+```
 
 ---
 
@@ -2049,8 +2583,17 @@ terme.
 - Un entretien régulier contre les dépôts minéraux maintenait le débit de l'eau sur le long
   terme.
 
-[Emplacement image : aqueduc romain à arches franchissant une vallée, avec un canal d'eau visible
-au sommet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Franchir le terrain sans rompre la pente
+centre: Aqueduc
+parties:
+  - nom: Pente continue
+    role: Très légère, jamais interrompue.
+  - nom: Ponts à arches
+  - nom: Tunnels
+  - nom: Siphons
+```
 
 ---
 
@@ -2146,6 +2689,20 @@ Pour que le rotor continue de tourner, le courant doit s'inverser à chaque demi
 ## Types et réversibilité
 
 Les moteurs à courant alternatif se répartissent en moteurs synchrones, dont la vitesse suit la fréquence du courant, et en moteurs asynchrones. Un moteur est réversible : entraîné mécaniquement, il produit de l'électricité comme un générateur, ce qui permet par exemple le freinage régénératif.
+
+```schema
+type: etapes
+titre: Du courant au mouvement
+elements:
+  - titre: Courant dans un fil
+  - titre: Champ magnétique
+    icone: magnet
+  - titre: Force de Lorentz
+    texte: Le fil subit une force.
+  - titre: Couple
+    texte: Le rotor tourne.
+    icone: gear
+```
 
 ## À retenir
 
@@ -2282,8 +2839,21 @@ ajustant un peu la vitesse et la force, pour obtenir précisément la combinaiso
 - Combiner plusieurs éléments en série permet d'obtenir précisément la vitesse et la force
   recherchées.
 
-[Emplacement image : train d'engrenages de tailles différentes engrenés les uns dans les autres,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Transmettre un mouvement
+colonnes:
+  - titre: Engrenages
+    points:
+      - Un petit qui entraîne un grand réduit la vitesse
+      - Et augmente la force
+  - titre: Courroies
+    points:
+      - Transmettent à distance
+  - titre: Chaînes
+    points:
+      - Transmission sans glissement
+```
 
 ---
 
@@ -2463,6 +3033,19 @@ L'effet Doppler, un décalage de fréquence ou de phase de l'écho, révèle si 
 ## Usages et histoire
 
 On s'en sert pour le contrôle aérien, la météo, la navigation maritime et le contrôle de la vitesse sur la route. Heinrich Hertz avait montré, au XIXe siècle, que les ondes radio se réfléchissent sur des objets. Le magnétron à cavité a permis de fabriquer des radars compacts, avec une meilleure résolution. Le radar s'est surtout développé avant et pendant la Seconde Guerre mondiale, avec la chaîne britannique Chain Home.
+
+```schema
+type: etapes
+titre: Le principe du radar
+elements:
+  - titre: Impulsion
+    texte: L'antenne émet de brèves ondes radio.
+  - titre: Écho
+    texte: L'objet renvoie une partie de l'onde.
+  - titre: Temps aller-retour
+    texte: Il donne la distance.
+  - titre: Position
+```
 
 ## À retenir
 
@@ -2975,8 +3558,19 @@ matériaux existants particulièrement avantageuse en l'absence d'industrie extr
 - Recycler un métal déjà raffiné demande beaucoup moins d'énergie que d'extraire un minerai
   neuf.
 
-[Emplacement image : tri de matériaux récupérés, métaux, plastiques et bois, avec un aimant
-utilisé pour tester leur nature, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Reconnaître un matériau récupéré
+centre: Matériau inconnu
+parties:
+  - nom: Aimant
+    role: Il distingue les métaux ferreux.
+  - nom: Couleur, poids, son
+    role: Pour affiner l'identification d'un métal.
+  - nom: Flottaison
+    role: Pour trier les plastiques.
+  - nom: État du bois
+```
 
 ---
 
@@ -3114,18 +3708,131 @@ status: planned
 
 ---
 type: article
-title: L'elasticite et la plasticite des materiaux
+title: L'élasticité et la plasticité des matériaux
 slug: l-elasticite-et-la-plasticite-des-materiaux
 categoryPath: technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux
 summary: >
-  Deux comportements distincts qui determinent si un materiau reprend ou non sa forme.
-tags: [choix-des-materiaux, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un ressort reprend sa forme quand on le lâche ; un trombone tordu reste tordu. Le premier se
+  déforme de façon élastique, le second de façon plastique. Connaître la frontière entre ces deux
+  comportements, la limite d'élasticité, est la base de la conception de toute pièce mécanique.
+tags: [choix-des-materiaux]
+relatedArticles: [comment-choisir-un-materiau, pourquoi-une-piece-de-metal-peut-elle-casser-a-force-d-etre-secouee, pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire, les-alliages-a-memoire-de-forme]
+sources:
+  - title: "Élasticité"
+    url: "https://fr.wikipedia.org/wiki/%C3%89lasticit%C3%A9"
+    publisher: "Wikipédia"
+  - title: "Plasticity (physics)"
+    url: "https://en.wikipedia.org/wiki/Plasticity_(physics)"
+    publisher: "Wikipedia"
+  - title: "Yield (engineering)"
+    url: "https://en.wikipedia.org/wiki/Yield_(engineering)"
+    publisher: "Wikipedia"
+  - title: "Hooke's law"
+    url: "https://en.wikipedia.org/wiki/Hooke%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il quand on dépasse la limite d'élasticité d'un métal ?"
+    options:
+      - "Il reprend toujours sa forme"
+      - "Il garde une déformation permanente"
+      - "Il devient plus léger"
+    answer: 2
+    explanation: >
+      Au-delà de cette limite, la déformation devient plastique : la pièce ne revient plus à sa forme
+      d'origine.
+  - question: "Que dit la loi de Hooke ?"
+    options:
+      - "Dans le domaine élastique, l'allongement est proportionnel à la force appliquée"
+      - "Tout matériau finit par casser"
+      - "Les métaux fondent à haute température"
+    answer: 1
+    explanation: >
+      Deux fois plus de force donne deux fois plus d'allongement, tant qu'on reste dans le domaine
+      élastique.
+  - question: "Pourquoi un matériau fragile comme le verre est-il dangereux en cas de surcharge ?"
+    options:
+      - "Parce qu'il se déforme beaucoup avant de casser"
+      - "Parce qu'il casse presque sans se déformer, sans signe avant-coureur"
+      - "Parce qu'il est élastique"
+    answer: 2
+    explanation: >
+      Un matériau ductile se plie et prévient ; un matériau fragile se rompt brutalement.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Quand on applique une force à un objet, il se **déforme**, même très peu. Si la déformation disparaît
+quand on relâche la force, elle est **élastique** : c'est le cas d'un ressort ou d'un élastique. Si
+l'objet garde une partie de sa déformation, elle est **plastique** : un trombone tordu, une tôle emboutie,
+une barre pliée. La frontière entre les deux s'appelle la **limite d'élasticité**. Au-delà, si l'on
+continue, vient la **rupture**. Les ingénieurs dimensionnent les pièces pour qu'elles restent toujours
+dans le domaine élastique en service.
+
+## Le domaine élastique
+
+À l'échelle des atomes, une force les écarte légèrement de leur position, comme s'ils étaient reliés
+par de petits ressorts. Quand la force cesse, ils reviennent en place. Dans ce domaine, la déformation
+est en général **proportionnelle** à la force : c'est la **loi de Hooke**, énoncée par Robert Hooke en
+1678. Le rapport entre contrainte et déformation s'appelle le **module d'Young** : il mesure la
+**rigidité** du matériau. L'acier est environ trois fois plus rigide que l'aluminium, et bien plus que le
+bois ou les plastiques.
+
+## Le domaine plastique
+
+Au-delà de la limite d'élasticité, des plans d'atomes **glissent** les uns sur les autres. Ce glissement
+ne se défait pas quand on relâche : la pièce reste déformée. Les métaux ont souvent une grande plage
+plastique, ce qui permet de les **forger**, de les **emboutir** ou de les **étirer** en fils. Déformer un
+métal à froid le **durcit** en partie : c'est l'écrouissage. Plier plusieurs fois un trombone au même
+endroit le durcit puis le casse.
+
+```schema
+type: etapes
+titre: Ce qui arrive quand on tire de plus en plus fort sur une barre de métal
+legende: Les pièces sont conçues pour rester dans la première étape, avec une marge de sécurité.
+elements:
+  - titre: Domaine élastique
+    texte: La barre s'allonge un peu et revient à sa forme.
+    icone: wave
+  - titre: Limite d'élasticité
+    texte: La frontière à ne pas franchir en service.
+    icone: shield
+  - titre: Domaine plastique
+    texte: La barre reste allongée, même relâchée.
+    icone: gear
+  - titre: Rupture
+    texte: La barre s'amincit puis casse.
+    icone: scissors
+```
+
+## Ductile ou fragile
+
+- **Un matériau ductile**, comme l'acier doux, le cuivre ou l'aluminium, se déforme beaucoup avant de
+  casser. Il **prévient** : une pièce qui plie signale une surcharge.
+- **Un matériau fragile**, comme le verre, la céramique, la fonte ou le béton non armé, casse presque
+  sans se déformer, **brutalement**.
+
+C'est pourquoi le béton est armé de barres d'acier : l'acier apporte la ductilité qui manque au béton,
+surtout là où il est étiré.
+
+## Comment s'en servent les ingénieurs
+
+- Une pièce de structure est calculée pour que la contrainte en service reste **nettement sous** la
+  limite d'élasticité, avec un **coefficient de sécurité**.
+- Une carrosserie de voiture est conçue pour se **déformer plastiquement** en cas de choc : elle absorbe
+  l'énergie au lieu de la transmettre aux passagers.
+- Un ressort ou une lame de suspension doit au contraire rester **élastique** sur des millions de cycles.
+- Les pièces soumises à des efforts répétés doivent aussi résister à la **fatigue**, qui peut les casser
+  sous la limite d'élasticité.
+
+## À retenir
+
+- Une déformation élastique disparaît quand la force cesse, une déformation plastique demeure.
+- La limite d'élasticité marque la frontière entre les deux comportements.
+- Dans le domaine élastique, la déformation est proportionnelle à la force, selon la loi de Hooke.
+- Un matériau ductile se déforme avant de casser, un matériau fragile rompt brutalement.
+- Les pièces sont dimensionnées pour rester élastiques en service, avec une marge de sécurité.
 
 ---
 type: article
@@ -3210,6 +3917,18 @@ En 1954, deux avions de ligne Comet se brisent en plein vol à quelques mois d'i
 ## Prévoir et surveiller
 
 Les ingénieurs ne peuvent pas tout calculer : la fatigue s'étudie surtout par des essais. Ils testent les pièces en les faisant travailler des millions de fois. Ils arrondissent les angles et soignent l'état de surface des pièces. Ils inspectent aussi régulièrement les avions, les trains et les ponts pour repérer les fissures avant qu'elles deviennent dangereuses.
+
+```schema
+type: etapes
+titre: La fatigue du métal
+elements:
+  - titre: Efforts répétés
+    texte: Faibles mais très nombreux.
+  - titre: Fissure minuscule
+    texte: Souvent dans un coin pointu.
+  - titre: Croissance lente
+  - titre: Rupture brutale
+```
 
 ## À retenir
 
@@ -3329,6 +4048,16 @@ L'inox n'est pas invincible. Le sel, le chlore ou un mauvais choix d'alliage peu
 En 1913, l'Anglais Harry Brearley travaille à Sheffield sur l'usure des canons d'armes à feu. Il remarque que ses échantillons polis pour être examinés ne s'oxydent pas. Il appelle son acier « rustless », « sans rouille ». Il sera rebaptisé « stainless », « sans tache ». À la même époque, d'autres chercheurs en Allemagne et aux États-Unis mettent au point des aciers semblables. En 1924, l'acier 18/8 voit le jour. C'est sans doute l'inox le plus utilisé.
 
 Aujourd'hui, on trouve l'inox partout : casseroles et couverts, instruments de chirurgie, bâtiments, bateaux, voitures et avions. Il est en plus entièrement recyclable.
+
+```schema
+type: chiffres
+titre: L'acier inoxydable
+chiffres:
+  - valeur: 10,5 %
+    texte: de chrome au moins
+  - valeur: Couche invisible
+    texte: d'oxyde, qui se reforme si on la raye
+```
 
 ## À retenir
 
@@ -3857,6 +4586,18 @@ Les avions utilisent des coefficients plus faibles, souvent de 1,5. La raison es
 
 Le coefficient de sécurité sert à la conception, avant la fabrication. Il ne permet pas d'accepter un objet défectueux. Si une pièce présente un défaut, on ne peut pas dire qu'elle reste sûre grâce à sa marge. Il faut la vérifier, la réparer ou la remplacer.
 
+```schema
+type: systeme
+titre: Ce que protège le coefficient de sécurité
+centre: Coefficient de sécurité
+icone: shield
+parties:
+  - nom: Surcharges
+  - nom: Erreurs d'utilisation
+  - nom: Défauts
+  - nom: Imprévus
+```
+
 ## À retenir
 
 - Un coefficient de sécurité rend un objet plusieurs fois plus résistant que nécessaire.
@@ -4367,6 +5108,20 @@ Cette protection ne dure pas toujours. Avec le temps, le dioxyde de carbone de l
 ## Une barque et des pots de fleurs
 
 En 1848, le Français Joseph-Louis Lambot construit une barque en ciment armé. Il en expose une à l'Exposition universelle de Paris en 1855. Le jardinier Joseph Monier cherche, lui, à fabriquer des bacs à orangers plus solides et moins chers. En 1867, il dépose un brevet pour des caisses en ciment armé de fer. En France, les premières règles officielles de calcul du béton armé datent du 20 octobre 1906.
+
+```schema
+type: comparaison
+titre: Béton armé, un duo
+colonnes:
+  - titre: Béton
+    points:
+      - Résiste bien à l'écrasement
+      - Environ dix fois moins à l'étirement
+  - titre: Acier
+    points:
+      - Placé dans les zones étirées
+      - Se dilate presque comme le béton
+```
 
 ## À retenir
 
@@ -4892,6 +5647,21 @@ Il existe aussi des barrages en remblai, faits de terre ou de roches entassées.
 
 Un barrage bouge très peu, trop peu pour que l'œil le voie. Des instruments mesurent pourtant ses déformations et l'eau qui s'infiltre dans le sol. Le moment le plus risqué est le premier remplissage. Le 2 décembre 1959, au-dessus de Fréjus, le barrage-voûte de Malpasset s'est rompu pendant sa mise en eau. C'est l'un de ses appuis rocheux qui a cédé. La vague a fait des centaines de victimes. C'est le seul cas connu de rupture d'un barrage-voûte.
 
+```schema
+type: comparaison
+titre: Barrage-poids ou barrage-voûte
+legende: La poussée grandit avec le carré de la hauteur d'eau.
+colonnes:
+  - titre: Barrage-poids
+    points:
+      - Résiste par sa masse
+      - Large en bas
+  - titre: Barrage-voûte
+    points:
+      - Courbé comme un arc couché
+      - Reporte la poussée sur les rives
+```
+
 ## À retenir
 
 - La poussée de l'eau augmente avec le carré de la hauteur d'eau, pas avec la taille du lac.
@@ -5038,6 +5808,21 @@ Pour monter, le bateau entre dans le sas et les portes se referment ; on laisse 
 ## Panama, l'eau et l'histoire
 
 Au canal de Panama, les écluses soulèvent les navires jusqu'au lac Gatún, puis les redescendent jusqu'au niveau de la mer de l'autre côté. Chaque passage consomme beaucoup d'eau : des bassins d'épargne en réutilisent une partie. Les premières écluses à sas sont nées en Chine, sous la dynastie Song, avant d'apparaître en Europe quelques siècles plus tard.
+
+```schema
+type: etapes
+titre: Monter dans une écluse
+elements:
+  - titre: Entrer
+    texte: Le bateau entre dans le sas, porte aval fermée derrière lui.
+  - titre: Remplir
+    texte: L'eau du bief amont entre par gravité.
+    icone: droplet
+  - titre: Monter
+    texte: Le bateau s'élève avec l'eau.
+  - titre: Sortir
+    texte: La porte amont s'ouvre.
+```
 
 ## À retenir
 
@@ -5248,14 +6033,142 @@ title: La construction de puits et de forages
 slug: la-construction-de-puits-et-de-forages
 categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
 summary: >
-  Des techniques essentielles pour acceder a une ressource en eau souterraine.
-tags: [ouvrages-dart, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un puits creusé ou un forage tubé donnent accès à l'eau des nappes souterraines. Leur qualité
+  dépend autant de leur construction que de la nappe : une tête mal protégée ou des latrines trop
+  proches suffisent à contaminer l'eau.
+tags: [ouvrages-dart]
+relatedArticles: [maison-autonome-independante, purifier-eau-situation-urgence, rendre-eau-potable, recuperer-eau-pluie, assainissement-autonome-toilettes-seches]
+sources:
+  - title: "Puits"
+    url: "https://fr.wikipedia.org/wiki/Puits"
+    publisher: "Wikipédia"
+  - title: "Forage d'eau"
+    url: "https://fr.wikipedia.org/wiki/Forage_d%27eau"
+    publisher: "Wikipédia"
+  - title: "Nappe phréatique"
+    url: "https://fr.wikipedia.org/wiki/Nappe_phr%C3%A9atique"
+    publisher: "Wikipédia"
+  - title: "Déclarer un projet de puits ou de forage domestique"
+    url: "https://www.justice.fr/fiche/declarer-projet-puits-forage-domestique"
+    publisher: "Justice.fr, fiche Service-public.fr"
+quiz:
+  - question: "Qu'est-ce qu'une nappe phréatique ?"
+    options:
+      - "L'eau qui remplit les pores et les fissures des roches sous la surface"
+      - "Un lac souterrain avec des vagues"
+      - "Une rivière qui coule dans une grotte"
+    answer: 1
+    explanation: >
+      L'eau de pluie s'infiltre et sature le sol à partir d'une certaine profondeur. Elle circule
+      lentement dans les sables, graviers et roches fissurées.
+  - question: "Pourquoi cimente-t-on la partie haute d'un forage ?"
+    options:
+      - "Pour le rendre plus joli"
+      - "Pour empêcher l'eau de surface polluée de s'infiltrer le long du tube jusqu'à la nappe"
+      - "Pour augmenter le débit"
+    answer: 2
+    explanation: >
+      Sans cette étanchéité, ruissellement, engrais ou eaux usées peuvent descendre directement vers
+      l'eau pompée.
+  - question: "Pourquoi éloigner un puits des latrines et des fosses ?"
+    options:
+      - "Pour des raisons d'odeur seulement"
+      - "Parce que c'est plus pratique pour le jardin"
+      - "Parce que les microbes des eaux usées peuvent cheminer dans le sol jusqu'à l'eau du puits"
+    answer: 3
+    explanation: >
+      On place le puits en amont et à bonne distance, souvent au moins 30 mètres, de toute source
+      de pollution.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sous nos pieds, l'eau de pluie infiltrée remplit les pores et les fissures des roches : c'est une
+**nappe souterraine**. Un **puits** creusé à la main, large et peu profond, ou un **forage** étroit,
+réalisé à la machine et tubé, permettent d'y puiser. L'eau souterraine est souvent de meilleure qualité
+que celle des rivières, mais elle peut être contaminée par la surface. La **construction** compte
+autant que la ressource : une tête mal protégée ou une fosse septique trop proche suffisent à rendre
+l'eau dangereuse.
+
+## Comprendre la nappe
+
+- **La nappe libre**, ou phréatique, est la plus proche de la surface. Son niveau monte en hiver et baisse
+  en été. Elle est facile à atteindre mais plus vulnérable aux pollutions.
+- **La nappe captive** est emprisonnée sous une couche imperméable d'argile. Plus profonde, elle est mieux
+  protégée. Parfois, sa pression fait jaillir l'eau seule : c'est un puits **artésien**, du nom de
+  l'Artois, où ces puits étaient nombreux.
+
+Avant de creuser, on se renseigne : puits voisins, cartes géologiques, profondeur habituelle de l'eau.
+En France, la Banque du sous-sol du BRGM recense de nombreux forages existants.
+
+## Le puits creusé
+
+Le puits traditionnel mesure environ un mètre de diamètre et descend jusqu'à quelques mètres sous le
+niveau le plus bas de la nappe. Il est creusé à la main, puis ses parois sont maintenues par des
+**buses en béton**, de la maçonnerie ou des pierres, pour éviter l'éboulement. Au fond, une couche de
+gravier filtre l'eau qui entre.
+
+Creuser un puits est dangereux : **éboulements** et **gaz** accumulés au fond tuent chaque année des
+puisatiers. On ne descend jamais seul, on étaie au fur et à mesure et l'on vérifie l'air.
+
+## Le forage
+
+Un forage est un trou de quelques dizaines de centimètres de diamètre, réalisé par une machine, qui peut
+descendre à des dizaines ou des centaines de mètres. On y descend :
+
+- un **tube**, en PVC ou en acier, qui maintient les parois ;
+- une **crépine**, partie du tube percée de fentes fines, au niveau de la nappe ;
+- un **massif filtrant** de gravier calibré autour de la crépine ;
+- une **cimentation** de la partie haute, entre le tube et le terrain, pour empêcher l'eau de surface de
+  descendre le long du tube.
+
+L'eau est remontée par une **pompe immergée** électrique, ou par une **pompe manuelle**, utile sans
+électricité pour les nappes peu profondes.
+
+```schema
+type: etapes
+titre: Les éléments d'un forage
+elements:
+  - titre: Tube
+    texte: En PVC ou en acier, il maintient les parois.
+  - titre: Crépine
+    texte: Partie percée de fentes, au niveau de la nappe.
+  - titre: Massif filtrant
+    texte: Du gravier calibré autour de la crépine.
+  - titre: Cimentation de tête
+    texte: Elle bloque l'eau de surface polluée.
+  - titre: Pompe
+    texte: Immergée ou manuelle.
+    icone: droplet
+```
+
+## Protéger l'eau
+
+- **L'emplacement** : en amont et loin de toute pollution, latrines, fosse septique, fumier, cuve de
+  fioul, cimetière. Les recommandations courantes demandent au moins **30 mètres**, davantage sur un sol
+  très perméable.
+- **La tête** : une margelle ou une dalle en béton surélevée, en pente vers l'extérieur, et un couvercle
+  étanche, pour que ni le ruissellement, ni les animaux, ni les feuilles n'y tombent.
+- **L'entretien** : nettoyage et désinfection après construction ou après une inondation.
+- **L'analyse** : avant de boire l'eau, faire analyser par un laboratoire agréé, puis régulièrement.
+  Nitrates, pesticides, arsenic ou bactéries ne se voient pas.
+
+## Les règles en France
+
+Un puits ou un forage domestique doit être **déclaré en mairie**, au moins un mois avant les travaux, et
+les forages de plus de 10 mètres doivent aussi être déclarés aux services de l'État. Si l'eau est destinée
+à la consommation humaine, il faut le signaler et la faire analyser. Un forage abandonné doit être
+rebouché correctement, car il crée un chemin direct pour les pollutions vers la nappe.
+
+## À retenir
+
+- Une nappe souterraine est de l'eau qui remplit les pores et les fissures des roches.
+- Un puits creusé est large et peu profond ; un forage est étroit, profond et tubé.
+- La cimentation de tête empêche l'eau de surface polluée de rejoindre la nappe.
+- On place le puits en amont et à au moins 30 mètres environ de toute source de pollution.
+- En France, un puits ou forage domestique se déclare en mairie, et son eau se fait analyser avant d'être bue.
 
 ---
 type: article
@@ -5399,7 +6312,17 @@ status: published
 
 Une machine simple change la direction ou l'intensité d'une force. On en compte six, dont le levier, la roue et l'essieu, et la poulie. La poulie permet de gagner en force, en payant ce gain en longueur de corde.
 
-[Emplacement image : curseur interactif « Combien de brins portent la charge ? ». L'utilisateur choisit un nombre de brins de corde de 1 à 4 et voit l'avantage mécanique, égal au nombre de brins, ainsi que la longueur de corde à tirer pour élever la charge d'un mètre, égale elle aussi au nombre de brins. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'avantage mécanique
+chiffres:
+  - valeur: 6
+    texte: machines simples classiques
+  - valeur: Levier
+    texte: avantage égal au rapport des longueurs des bras
+  - valeur: Poulies
+    texte: avantage égal au nombre de brins qui portent la charge
+```
 
 ## Six machines simples
 
@@ -5572,6 +6495,19 @@ Pour les bâtiments très importants, on va plus loin. L'isolation à la base co
 ## Une boule géante contre les balancements
 
 Une autre technique utilise un amortisseur à masse accordée. C'est une très lourde masse qui oscille en sens inverse des mouvements du bâtiment. La tour Taipei 101, à Taïwan, se trouve à 200 mètres d'une grande faille. Entre son 88e et son 92e étage pend une boule d'acier de 660 tonnes. Elle réduit les balancements de la tour, surtout ceux causés par le vent.
+
+```schema
+type: systeme
+titre: Les techniques parasismiques
+centre: Bâtiment parasismique
+parties:
+  - nom: Résistant et souple
+    role: Il se déforme sans rompre.
+  - nom: Isolation à la base
+    role: Le bâtiment est découplé du sol.
+  - nom: Amortisseur à masse
+    role: Une boule géante contre les balancements.
+```
 
 ## À retenir
 
@@ -7866,6 +8802,20 @@ Un drone à quatre hélices est naturellement instable : un coup de vent suffit 
 ## Une vieille idée devenue légère
 
 L'idée n'est pas nouvelle. En 1907, le gyroplane des frères Breguet et de Charles Richet, à quatre rotors, a décollé de 60 centimètres, tenu par quatre hommes. En 1924, l'ingénieur français Étienne Œhmichen a bouclé un circuit d'un kilomètre avec son appareil à quatre rotors. Mais ces machines étaient lourdes et difficiles à piloter. Entre 2005 et 2010, l'électronique a rendu les capteurs et les contrôleurs de vol petits et bon marché. Les petits drones à quatre hélices se sont alors répandus.
+
+```schema
+type: comparaison
+titre: Piloter un drone à quatre hélices
+colonnes:
+  - titre: Rester immobile
+    points:
+      - Deux hélices tournent dans un sens, deux dans l'autre
+      - Le drone ne tourne pas sur lui-même
+  - titre: Se déplacer
+    points:
+      - Changer la vitesse de chaque hélice
+      - Pencher pour avancer
+```
 
 ## À retenir
 
@@ -10341,6 +11291,18 @@ Le graphène a d'autres qualités rares. Ses électrons s'y déplacent très fac
 
 Produire un peu de graphène avec du ruban adhésif est facile. En fabriquer beaucoup, de bonne qualité et pas trop cher, reste difficile. Le marché mondial du graphène valait 9 millions de dollars en 2012. Il était estimé à 380 millions de dollars en 2022.
 
+```schema
+type: chiffres
+titre: Le graphène
+chiffres:
+  - valeur: 1 atome
+    texte: d'épaisseur, en nid d'abeilles
+  - valeur: 2004
+    texte: isolé avec du ruban adhésif
+  - valeur: 2010
+    texte: prix Nobel de physique
+```
+
 ## À retenir
 
 - Le graphène est une feuille de carbone épaisse d'un seul atome, en forme de nid d'abeilles.
@@ -10764,6 +11726,20 @@ Le vérin hydraulique coûte plus cher qu'un vérin à air. On le choisit quand 
 
 Certains robots ont besoin de beaucoup de force dans un corps compact. Le robot humanoïde Atlas, de l'entreprise américaine Boston Dynamics, a été présenté le 11 juillet 2013. Il bougeait grâce à des vérins hydrauliques. En 2016, une nouvelle version mesurait 1,50 mètre pour 80 kilogrammes. Plus tard, elle savait même faire des saltos arrière et des parcours d'obstacles. En avril 2024, Atlas hydraulique a été mis à la retraite. Il a été remplacé par une version entièrement électrique.
 
+```schema
+type: etapes
+titre: Le vérin hydraulique
+elements:
+  - titre: Pompe
+    texte: Elle met l'huile sous pression.
+  - titre: Principe de Pascal
+    texte: La pression se transmet partout.
+  - titre: Piston
+    texte: Une grande surface reçoit une grande force.
+  - titre: Machine
+    texte: Jusqu'à 350 bars en usage courant.
+```
+
 ## À retenir
 
 - Un vérin est un tube dans lequel un fluide sous pression pousse un piston.
@@ -11153,6 +12129,18 @@ Les voitures autonomes s'en servent. En 2005, la voiture sans conducteur Stanley
 ## De la Lune aux forêts
 
 Le premier système proche du lidar a été présenté en 1961 par l'entreprise américaine Hughes Aircraft, peu après l'invention du laser. Il servait à suivre des satellites. En 1971, pendant la mission Apollo 15, des astronautes ont utilisé un altimètre laser pour cartographier la surface de la Lune. Aujourd'hui, des lidars installés sur des avions dessinent des cartes très précises du relief. Ils peuvent même retrouver la forme du sol caché sous les arbres.
+
+```schema
+type: etapes
+titre: Le lidar
+elements:
+  - titre: Impulsion laser
+  - titre: Retour chronométré
+  - titre: Distance
+    texte: Grâce à la vitesse de la lumière.
+  - titre: Nuage de points
+    texte: En balayant tout autour.
+```
 
 ## À retenir
 
@@ -11793,6 +12781,19 @@ La photolithographie est la technique la plus réussie commercialement, capable 
 
 La lithographie par ultraviolets extrêmes utilise une lumière de très courte longueur d'onde pour tracer les motifs les plus fins des puces avancées. La lumière est produite en frappant de minuscules gouttes d'étain fondu avec un laser : l'étain devient un plasma qui émet les ultraviolets extrêmes. Le verre et l'air absorbent cette lumière, donc la machine utilise des miroirs au lieu de lentilles et travaille sous vide. Une seule entreprise, ASML, vend aujourd'hui ces machines pour la production de puces ; chacune pèse près de deux cents tonnes et coûte très cher. Ces machines consomment beaucoup d'électricité pour une puissance de lumière modeste. Les nanomatériaux peuvent causer stress oxydant et inflammation, et traversent plus facilement les barrières des cellules que de plus grosses particules.
 
+```schema
+type: comparaison
+titre: Construire à l'échelle nanométrique
+colonnes:
+  - titre: Approche descendante
+    points:
+      - Sculpter un matériau massif
+      - Par exemple par lithographie
+  - titre: Approche ascendante
+    points:
+      - Assembler atomes et molécules
+```
+
 ## À retenir
 
 - Le nanomètre vaut un milliardième de mètre, de l'ordre de la distance entre deux atomes.
@@ -11875,6 +12876,17 @@ On réduit déjà les émissions en remplaçant une partie du clinker par des ce
 ## Les géopolymères, un autre liant
 
 Les géopolymères sont des matériaux minéraux fabriqués à partir d'aluminosilicates, comme le métakaolin, les cendres volantes ou le laitier, activés par une solution alcaline. Ils durcissent à température ambiante ou modérée, en formant un réseau tridimensionnel. Les ciments géopolymères peuvent émettre moins de CO2 que le ciment Portland ordinaire, et ils valorisent des sous-produits industriels. On les utilise aussi pour des revêtements résistant au feu, des composites aéronautiques et l'enrobage de déchets radioactifs. Les normes du ciment Portland ne s'appliquent pas à eux : il manque des spécifications adaptées. Leurs activateurs alcalins sont corrosifs et demandent des précautions, et leur fabrication émet elle-même du CO2. Leurs propriétés varient selon l'origine des matières premières, et certaines formules exigent une cuisson à chaud.
+
+```schema
+type: systeme
+titre: Réduire les émissions du béton
+centre: Béton bas-carbone
+parties:
+  - nom: Moins de clinker
+    role: Remplacé par cendres volantes ou laitier.
+  - nom: Géopolymères
+    role: Un autre liant.
+```
 
 ## À retenir
 
@@ -11979,6 +12991,19 @@ Des exosquelettes médicaux aident des personnes après un accident vasculaire c
 
 Les obstacles de conception sont le confort, l'ajustement à des corps différents, l'autonomie des batteries et la complexité de la commande. Les versions motorisées sont plus lourdes et plus chères. Dans l'industrie et le bâtiment, des exosquelettes réduisent la fatigue et le risque de blessure. Plus de cent produits existent sur le marché, et leur usage devrait croître nettement dans les années à venir.
 
+```schema
+type: comparaison
+titre: Deux types d'exosquelettes
+colonnes:
+  - titre: Passif
+    points:
+      - Ressorts et structure, sans moteur
+  - titre: Motorisé
+    points:
+      - Moteurs électriques ou hydrauliques
+      - Aide à marcher ou à porter
+```
+
 ## À retenir
 
 - Un exosquelette est un dispositif porté sur le corps qui soutient ou amplifie le mouvement, par interaction mécanique.
@@ -12064,6 +13089,19 @@ Les formes obtenues sont souvent organiques et complexes, difficiles à fabrique
 ## Un lien avec l'impression 3D
 
 Les résultats peuvent être fabriqués directement par fabrication additive, qui dépose la matière couche par couche, seulement là où il le faut. L'impression 3D permet des formes très complexes, creuses ou avec des treillis internes, avec moins de déchets. La recherche intègre des contraintes de fabrication, et des filtres corrigent la dépendance au maillage.
+
+```schema
+type: etapes
+titre: L'optimisation topologique
+elements:
+  - titre: Volume et charges
+  - titre: Calcul
+    texte: Il répartit la matière là où elle sert.
+    icone: chip
+  - titre: Forme organique
+  - titre: Impression 3D
+    texte: Pour fabriquer ces formes complexes.
+```
 
 ## À retenir
 
@@ -12158,6 +13196,20 @@ Plusieurs projets annoncent des économies de matière importantes, car on dépo
 ## Un pont en acier, et les défis
 
 À Amsterdam, un pont piéton en acier inoxydable a été imprimé par des robots par dépôt de métal fondu, et mis en service au-dessus d'un canal. Il a été conçu par Joris Laarman Lab et dimensionné par le bureau d'ingénierie Arup. Des capteurs mesurent déformation, déplacement, vibrations et conditions de l'air, et alimentent un jumeau numérique du pont. L'armature, les règlements de construction et la résistance entre les couches imprimées restent des défis.
+
+```schema
+type: frise
+titre: Des ponts imprimés
+evenements:
+  - date: Alcobendas
+    titre: Passerelle piétonne en béton
+    texte: Forme organique, près de Madrid.
+  - date: Gemert
+    titre: Passerelle cyclable
+    texte: Aux Pays-Bas.
+  - date: Acier
+    titre: Pont imprimé en acier
+```
 
 ## À retenir
 
@@ -12257,6 +13309,19 @@ Un bureau de plusieurs centaines de mètres carrés, présenté comme le premier
 
 Les démonstrations de rapidité sont impressionnantes, mais certaines annonces d'entreprises restent contestées. L'intégration de l'armature dans les murs imprimés est un défi. Il faut aussi respecter les règlements de construction, garantir la régularité du matériau et la résistance entre les couches. Reste à prouver que la méthode est rentable par rapport à la construction classique.
 
+```schema
+type: comparaison
+titre: Imprimer une maison
+colonnes:
+  - titre: Ce qui est possible
+    points:
+      - Extrusion de béton couche par couche
+      - Des réalisations existent
+  - titre: Les défis
+    points:
+      - Normes, armatures, coût
+```
+
 ## À retenir
 
 - L'impression 3D dans la construction utilise l'impression comme méthode principale pour fabriquer des bâtiments ou des parties de bâtiments.
@@ -12340,6 +13405,18 @@ Dans les systèmes intrinsèques, ce sont les propriétés du matériau lui-mêm
 ## Des limites
 
 La récupération de résistance varie beaucoup d'un système à l'autre ; la plupart des systèmes retrouvent peu de leur résistance. Les systèmes à capsules ne fonctionnent en général qu'une fois, car les capsules sont vidées ; les canaux permettent de recharger, mais compliquent la structure. Le coût, notamment de catalyseurs à base de ruthénium, freine l'adoption à grande échelle. La complexité et le besoin de plusieurs cycles de réparation freinent aussi l'usage commercial. Le même principe vaut pour le béton, où des capsules ou des bactéries réparent les fissures.
+
+```schema
+type: comparaison
+titre: Deux façons de s'autoréparer
+colonnes:
+  - titre: Extrinsèque
+    points:
+      - Un agent réparateur stocké à part, en capsules
+  - titre: Intrinsèque
+    points:
+      - Des liaisons réversibles dans le matériau
+```
 
 ## À retenir
 
@@ -12425,6 +13502,21 @@ Des engins lourds autonomes, comme des excavatrices, déplacent les matériaux. 
 
 Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais. Beaucoup d'ouvriers qualifiés approchent de la retraite, et des postes restent vacants. Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées. Le coût d'achat est un frein, surtout pour les petites entreprises, et il faut intégrer les robots aux méthodes de travail. Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine. Des exosquelettes réduisent la fatigue et le risque de blessure.
 
+```schema
+type: systeme
+titre: Les robots de chantier
+centre: Chantier
+icone: crane
+parties:
+  - nom: Robots maçons
+    role: Posent les briques.
+  - nom: Robots ligateurs
+    role: Lient les armatures.
+  - nom: Creuser, démolir, surveiller
+  - nom: Les ouvriers
+    role: Toujours nécessaires.
+```
+
 ## À retenir
 
 - Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue.
@@ -12508,6 +13600,19 @@ On les emploie pour des installations sportives, des entrepôts, des abris tempo
 ## Se déplier
 
 Une structure déployable peut changer de forme de façon à modifier fortement sa taille. Un parapluie en est un exemple, tout comme les structures à tenségrité, bistables, inspirées de l'origami ou à ciseaux. Dans l'espace, elles servent pour les panneaux solaires et les voiles solaires, comme le mât déployable du télescope NuSTAR. On distingue les structures articulées à éléments rigides, l'assemblage en orbite et les structures à grande déformation de matériaux souples.
+
+```schema
+type: comparaison
+titre: Structures compactes
+colonnes:
+  - titre: Gonflable
+    points:
+      - L'air donne la forme
+      - Se range tout petit
+  - titre: Dépliable
+    points:
+      - Une structure qui se déploie
+```
 
 ## À retenir
 
@@ -12593,6 +13698,18 @@ La microencapsulation place de minuscules capsules dans le béton : elles se rom
 
 Le béton romain, à base de chaux et de cendres volcaniques, s'est déjà réparé de lui-même pendant des siècles. Des recherches montrent que des grumeaux de chaux réagissent avec l'eau qui s'infiltre dans les fissures et forment de nouveaux cristaux de carbonate. Dans l'eau de mer, le béton romain forme des cristaux qui le rendent très durable, alors que le béton moderne se détériore en quelques décennies. Le dôme du Panthéon est le plus grand et le plus ancien dôme en béton non armé. On explore des formules inspirées de la méthode romaine avec des cendres volantes de charbon. Le marché du béton autocicatrisant devrait croître fortement.
 
+```schema
+type: systeme
+titre: Les bétons autocicatrisants
+centre: Fissure
+parties:
+  - nom: Cicatrisation autogène
+    role: Naturelle, pour de fines fissures.
+  - nom: Capsules
+  - nom: Bactéries
+  - nom: Chaux romaine
+```
+
 ## À retenir
 
 - Un béton autocicatrisant est un béton capable de réparer lui-même ses fissures, en retrouvant en partie ou en totalité ses propriétés mécaniques.
@@ -12664,7 +13781,18 @@ status: published
 
 Le nitinol, alliage de nickel et de titane, garde en mémoire sa forme d'origine : déformé à froid, il la retrouve quand on le chauffe.
 
-[Emplacement image : diagramme en quatre étapes, « Comment un alliage se souvient de sa forme ». À basse température : la martensite est la structure favorisée. Déformation à froid : l'alliage peut être déformé. Chauffage : l'austénite devient la structure favorisée. Forme d'origine : l'alliage retrouve sa forme d'origine. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux talents du nitinol
+legende: Un alliage de nickel et de titane.
+colonnes:
+  - titre: Mémoire de forme
+    points:
+      - Déformé, il reprend sa forme en chauffant
+  - titre: Superélasticité
+    points:
+      - Il encaisse de grandes déformations et revient
+```
 
 ## Un alliage de nickel et de titane
 
@@ -12693,3 +13821,4 @@ Le nitinol sert notamment aux cathéters, aux stents et aux aiguilles superélas
 - Déformé à froid, un alliage à mémoire de forme retrouve sa forme d'origine quand on le chauffe.
 - La superélasticité lui permet de subir de grandes déformations et de reprendre aussitôt sa forme.
 - Il sert aux stents, aux fils orthodontiques des dentistes et à des montures de lunettes très résistantes.
+

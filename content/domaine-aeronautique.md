@@ -170,8 +170,27 @@ prévient. Sur beaucoup d'appareils, un vérin pousse même le manche vers l'ava
 - L'avion vibre avant de décrocher : c'est le buffet.
 - Pour en sortir, il faut pousser le manche, pas tirer.
 
-[Emplacement image : schéma comparant l'air qui glisse sur une aile peu inclinée et l'air qui se
-décolle sur une aile trop inclinée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: L'angle de l'aile face au vent
+legende: Le décrochage dépend de l'angle, pas de la vitesse.
+unite: °
+min: 0
+max: 25
+zones:
+  - de: 0
+    a: 15
+    label: L'aile porte normalement
+    ton: normal
+  - de: 15
+    a: 20
+    label: Zone de décrochage, l'avion vibre avant
+    ton: attention
+  - de: 20
+    a: 25
+    label: Aile décrochée
+    ton: danger
+```
 
 ---
 
@@ -263,8 +282,18 @@ renforcer l'aile : sur les vols courts, le compte n'y est pas toujours.
 - Les ailettes font économiser 3 à 6 % de carburant en croisière.
 - Elles alourdissent l'aile : leur intérêt dépend de la longueur du vol.
 
-[Emplacement image : bout d'aile avec et sans ailette, tourbillon marginal visualisé, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: D'où vient le tourbillon de bout d'aile
+elements:
+  - titre: Surpression sous l'aile
+  - titre: L'air contourne le bout
+    texte: Vers la dépression du dessus.
+  - titre: Un tourbillon se forme
+    texte: C'est la traînée induite.
+  - titre: L'ailette le réduit
+    texte: Quelques pour cent de carburant économisés.
+```
 
 ---
 
@@ -356,8 +385,19 @@ déclencher la turbulence. C'est pour cela que ces solutions restent rares en se
 - Turbulent, il frotte plus mais reste collé à l'aile.
 - Garder l'air laminaire économiserait du carburant, mais la moindre saleté le détruit.
 
-[Emplacement image : profil de vitesse de l'air dans une couche limite laminaire puis turbulente,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de s'écouler
+colonnes:
+  - titre: Laminaire
+    points:
+      - L'air glisse en couches
+      - Frotte peu
+  - titre: Turbulent
+    points:
+      - L'air se mélange
+      - Frotte plus mais reste collé à l'aile
+```
 
 ---
 
@@ -448,8 +488,17 @@ l'endroit où les ailes s'attachent, comme une guêpe.
 - L'onde de choc freine l'avion et peut décoller l'air de l'aile.
 - Flèche, profil supercritique et règle des aires repoussent le problème.
 
-[Emplacement image : aile en vol transsonique avec zone supersonique et onde de choc, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'onde de choc sur l'aile
+elements:
+  - titre: Bien avant Mach 1
+    texte: Le régime transsonique commence.
+  - titre: L'air accélère sur l'aile
+    texte: Il y dépasse localement la vitesse du son.
+  - titre: Onde de choc
+    texte: Elle freine l'avion et peut décoller l'écoulement.
+```
 
 ---
 
@@ -542,8 +591,17 @@ distribuer dans des centaines d'aéroports qui n'ont aucune installation pour ce
 - Même liquide, il occupe quatre fois le volume du kérosène.
 - Il n'est propre que s'il est fabriqué avec de l'électricité propre.
 
-[Emplacement image : comparaison des réservoirs nécessaires pour la même énergie en kérosène et
-en hydrogène liquide, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'hydrogène liquide
+chiffres:
+  - valeur: "-253 °C"
+    texte: pour le rendre liquide
+  - valeur: "× 4"
+    texte: le volume du kérosène pour la même énergie
+  - valeur: 0 CO2
+    texte: en le brûlant, seulement de l'eau
+```
 
 ---
 
@@ -633,8 +691,19 @@ s'accumule depuis des décennies.
 - Les boîtes noires sont orange et résistent au feu et à l'eau.
 - Les recommandations des enquêtes modifient les règles et la formation.
 
-[Emplacement image : enregistreur de vol orange après récupération, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Enquête de sécurité et enquête judiciaire
+colonnes:
+  - titre: Enquête de sécurité
+    points:
+      - Cherche des causes
+      - Protège les témoins
+      - Produit des recommandations
+  - titre: Enquête judiciaire
+    points:
+      - Cherche des responsabilités
+```
 
 ---
 
@@ -727,8 +796,19 @@ C'est par ce canal que les leçons tirées des accidents rejoignent les avions d
 - Une cellule d'essai est cassée volontairement, une autre est fatiguée pendant des mois.
 - Une consigne de navigabilité peut imposer une correction à toute la flotte.
 
-[Emplacement image : essai statique d'une voilure, extrémités relevées avant rupture, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Certifier un avion
+elements:
+  - titre: Écrire les règles
+    texte: Avant de construire.
+  - titre: Prouver
+    texte: Essais, calculs, cellule cassée volontairement.
+  - titre: Certificat de type
+    texte: Le modèle peut transporter des passagers.
+  - titre: Suivi
+    texte: Le certificat n'est pas un point final.
+```
 
 ---
 
@@ -828,8 +908,18 @@ moteur passe sous l'aile sans toucher le sol.
 - Souffler beaucoup d'air lentement consomme moins que souffler peu d'air vite.
 - Le bruit d'un jet dépend de sa vitesse à la puissance huit environ.
 
-[Emplacement image : coupe d'un réacteur double flux montrant les deux chemins de l'air, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Le taux de dilution des réacteurs
+unite: ""
+valeurs:
+  - label: Il y a soixante ans
+    valeur: 1
+    note: environ
+  - label: Aujourd'hui
+    valeur: 10
+    note: plus de
+```
 
 ---
 
@@ -919,8 +1009,17 @@ souvent à hélices.
 - Il décolle court et freine bien grâce à l'inversion de pas.
 - Au-delà de cette vitesse, l'onde de choc au bout des pales lui fait perdre l'avantage.
 
-[Emplacement image : coupe d'un turbopropulseur avec turbine, réducteur et hélice, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le turbopropulseur
+elements:
+  - titre: Turbine à gaz
+  - titre: Réducteur
+    texte: Il ralentit la rotation.
+  - titre: Hélice
+    texte: Elle propulse l'avion.
+    icone: plane
+```
 
 ---
 
@@ -1015,8 +1114,20 @@ c'est du côté des carburants durables qu'il faut chercher.
 - Les hybrides font tourner la turbine à son meilleur rendement.
 - Écoles, petits avions et mobilité urbaine sont les usages accessibles aujourd'hui.
 
-[Emplacement image : comparaison du poids nécessaire en kérosène et en batteries pour un même
-vol, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Kérosène ou batterie
+colonnes:
+  - titre: Kérosène
+    points:
+      - Environ 50 fois plus d'énergie par kilo
+      - L'avion s'allège en vol
+  - titre: Batterie
+    icone: battery
+    points:
+      - L'avion ne s'allège pas en vol
+      - Adaptée aux très petits avions
+```
 
 ---
 
@@ -1115,8 +1226,21 @@ même de garder des instruments de secours indépendants, alimentés séparémen
 - Le badin indique la vitesse par rapport à l'air, pas au sol.
 - Un gyroscope garde son axe fixe et sert de référence pour l'horizon et le cap.
 
-[Emplacement image : disposition classique des six instruments de base en deux rangées de trois,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les six instruments de base
+colonnes:
+  - titre: Mesurent l'air
+    points:
+      - Altimètre, un baromètre à régler
+      - Badin, la vitesse
+      - Variomètre, la montée ou la descente
+  - titre: Utilisent des gyroscopes
+    points:
+      - Horizon artificiel
+      - Conservateur de cap
+      - Indicateur de virage
+```
 
 ---
 
@@ -1217,8 +1341,21 @@ dégrade lentement, mais l'avion n'est jamais perdu.
 - Quatre satellites sont nécessaires : trois pour la position, un pour l'horloge.
 - Combiner les deux corrige les défauts de chacune.
 
-[Emplacement image : principe du calcul de position par quatre satellites, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de savoir où l'on est
+colonnes:
+  - titre: Centrale inertielle
+    points:
+      - Autonome
+      - Dérive avec le temps
+  - titre: Satellites
+    icone: satellite
+    points:
+      - Précis
+      - Signal faible et brouillable
+      - Au moins quatre satellites
+```
 
 ---
 
@@ -1318,8 +1455,19 @@ descendre.
 - La séparation verticale standard est de 1 000 pieds en croisière.
 - Les avions disposent aussi d'un système anticollision qui fonctionne sans le sol.
 
-[Emplacement image : représentation d'un secteur de contrôle avec séparations verticale et
-horizontale, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ranger les avions dans le ciel
+centre: Contrôle aérien
+icone: plane
+parties:
+  - nom: Secteurs
+    role: Le ciel est découpé en boîtes.
+  - nom: Altitudes
+    role: Des tranches séparées.
+  - nom: Séparation verticale
+    role: 1 000 pieds en croisière.
+```
 
 ---
 
@@ -1544,8 +1692,17 @@ vitesse, ce qui permet de se poser sur une piste de longueur raisonnable.
 - Doubler la vitesse multiplie la portance par quatre.
 - Les volets augmentent la portance à basse vitesse pour atterrir plus court.
 
-[Emplacement image : écoulement de l'air autour d'une aile avec répartition des pressions,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Portance selon la vitesse
+legende: Doubler la vitesse multiplie la portance par quatre.
+unite: ×
+valeurs:
+  - label: Vitesse de référence
+    valeur: 1
+  - label: Vitesse doublée
+    valeur: 4
+```
 
 ---
 
@@ -1641,8 +1798,17 @@ trente années de vie de l'appareil.
 - Rentrer le train d'atterrissage a été un progrès majeur des années 1930.
 - Les gains modernes viennent de l'addition de nombreuses petites améliorations.
 
-[Emplacement image : décomposition des trois types de traînée sur un avion de ligne, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui freine un avion
+centre: Traînée
+parties:
+  - nom: Frottement
+    role: Domine en croisière.
+  - nom: Forme
+  - nom: Tourbillons de bout d'aile
+    role: Dominent à basse vitesse.
+```
 
 ---
 
@@ -1736,8 +1902,17 @@ dont les recommandations modifient les règles pour tous.
 - Décollage et atterrissage concentrent la majorité des accidents.
 - Le progrès vient de la technique, des procédures et des enquêtes.
 
-[Emplacement image : évolution du taux d'accidents mortels par million de vols depuis 1970,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La sécurité aérienne depuis les années 1970
+chiffres:
+  - valeur: "÷ 50"
+    texte: le taux d'accidents, au moins
+  - valeur: "× 10"
+    texte: le trafic
+  - valeur: Décollage, atterrissage
+    texte: concentrent l'essentiel des accidents
+```
 
 ---
 
@@ -1828,8 +2003,17 @@ bruit. Plus il est important par rapport au flux qui traverse le cœur, plus le 
 - La turbine entraîne le compresseur : le cycle s'auto-entretient.
 - Sur un avion de ligne, la majeure partie de l'air contourne le cœur du moteur.
 
-[Emplacement image : coupe d'un réacteur double flux avec les quatre étapes repérées, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Les quatre temps d'un réacteur
+legende: La turbine entraîne le compresseur, le cycle s'entretient.
+elements:
+  - titre: Aspirer
+  - titre: Comprimer
+  - titre: Brûler
+    icone: fire
+  - titre: Éjecter
+```
 
 ---
 
@@ -1926,8 +2110,18 @@ pour les fortes puissances.
 - L'essence aviation 100LL est encore plombée.
 - Les moteurs à plat ont remplacé les moteurs en étoile en aviation légère.
 
-[Emplacement image : les quatre temps d'un moteur à piston, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Moteur d'avion léger et moteur de voiture
+colonnes:
+  - titre: Comme une voiture
+    points:
+      - Cycle à quatre temps, à essence
+  - titre: Spécifique à l'avion
+    points:
+      - Deux bougies et deux magnétos par cylindre
+      - Essence aviation 100LL, encore plombée
+```
 
 ---
 
@@ -2017,8 +2211,17 @@ des centaines d'usines. C'est l'un des plus gros chantiers industriels du secteu
 - Ils représentent encore moins de 1 % du carburant consommé par l'aviation.
 - Leur coût et la disponibilité des matières premières sont les deux freins.
 
-[Emplacement image : les trois filières de production de carburants durables, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les carburants d'aviation durables
+centre: Carburants durables
+parties:
+  - nom: Huiles usagées
+  - nom: Résidus
+  - nom: Hydrogène et CO2
+  - nom: Atout
+    role: Utilisables dans les avions et aéroports existants.
+```
 
 ---
 
@@ -3280,6 +3483,18 @@ Les souffleries servent aussi à tester des voitures, des bâtiments et des pont
 
 Aujourd'hui, les ordinateurs simulent aussi l'écoulement de l'air. Mais ils n'ont pas remplacé les souffleries : pour avoir confiance dans une simulation, il faut comparer ses résultats à de vraies mesures.
 
+```schema
+type: etapes
+titre: Tester en soufflerie
+elements:
+  - titre: Maquette immobile
+  - titre: L'air se déplace
+  - titre: Mesures
+    texte: Portance et traînée par une balance.
+  - titre: Visualisation
+    texte: La fumée montre l'écoulement.
+```
+
 ## À retenir
 
 - Dans une soufflerie, la maquette reste immobile et l'air se déplace autour d'elle.
@@ -3991,6 +4206,22 @@ Volets et becs ont un défaut : ils augmentent beaucoup la traînée, la force q
 
 Au décollage, les pilotes ne sortent les volets qu'en partie. À l'atterrissage, ils les sortent en entier. La traînée devient alors utile : elle permet une descente plus raide et plus lente, et l'avion s'arrête sur une distance plus courte.
 
+```schema
+type: comparaison
+titre: Volets et becs
+colonnes:
+  - titre: Volets
+    points:
+      - À l'arrière de l'aile
+  - titre: Becs
+    points:
+      - À l'avant de l'aile
+  - titre: Effet
+    points:
+      - Plus de portance à basse vitesse
+      - Plus de traînée
+```
+
 ## À retenir
 
 - Les ailes d'un avion de ligne sont dessinées pour voler vite, pas lentement.
@@ -4308,6 +4539,19 @@ Arrivé trop haut, il fait une glissade : il croise les commandes pour que l'avi
 Le 15 janvier 2009, un Airbus A320 décolle de New York. Environ deux minutes plus tard, il percute des oies sauvages à environ 860 mètres d'altitude. Les deux moteurs s'arrêtent.
 
 L'équipage démarre aussitôt un petit générateur de secours pour garder du courant électrique. Le commandant, Chesley Sullenberger, juge qu'il ne peut pas rejoindre un aéroport. Il pose l'avion sur le fleuve Hudson. Les 155 personnes à bord survivent. Les enquêteurs ont conclu que ce choix offrait les meilleures chances de survie.
+
+```schema
+type: frise
+titre: Des avions de ligne qui ont plané
+evenements:
+  - date: Principe
+    titre: La finesse
+    texte: Les mètres parcourus pour chaque mètre perdu.
+  - date: Gimli
+    titre: Le planeur de Gimli
+  - date: Hudson
+    titre: Le miracle de l'Hudson
+```
 
 ## À retenir
 
@@ -5202,6 +5446,19 @@ En vol, plusieurs systèmes existent. Sur les gros avions, de l'air très chaud 
 Le 13 janvier 1982, à Washington, un Boeing 737 d'Air Florida attend 49 minutes entre son dégivrage et son décollage. Il neige fort. De la neige et de la glace se redéposent sur les ailes. L'équipage n'a pas allumé le système qui empêche les moteurs de givrer.
 
 Trente secondes après le décollage, l'avion n'arrive pas à monter. Il heurte un pont et tombe dans le fleuve Potomac. L'accident fait 78 morts. Il a conduit à revoir la formation des équipages et les règles de dégivrage.
+
+```schema
+type: etapes
+titre: Le givrage
+elements:
+  - titre: Eau surfondue
+    texte: Liquide sous 0 °C dans les nuages.
+    icone: snowflake
+  - titre: Gel au contact
+  - titre: Aile déformée
+    texte: Elle porte moins et freine plus.
+  - titre: Décrochage plus tôt
+```
 
 ## À retenir
 
@@ -7404,6 +7661,18 @@ Mais un contrôleur aérien demande au pilote russe de descendre. Celui-ci obéi
 
 Depuis, la règle est claire : quand le TCAS donne un ordre, il passe avant celui du contrôleur aérien.
 
+```schema
+type: etapes
+titre: Le TCAS
+elements:
+  - titre: Interroger
+    texte: Le transpondeur des avions voisins.
+  - titre: Avertir
+    texte: Premier niveau d'alerte.
+  - titre: Ordonner
+    texte: Un avion monte, l'autre descend.
+```
+
 ## À retenir
 
 - Le TCAS est un système anticollision embarqué sur les avions de ligne.
@@ -8287,6 +8556,19 @@ Pour les avions qui n'ont pas l'ADS-B, le site compare l'heure d'arrivée d'un m
 
 Cette ouverture a un revers : comme les messages ne sont pas codés, tout le monde peut suivre le trafic aérien, ce qui pose des questions de sécurité.
 
+```schema
+type: etapes
+titre: L'ADS-B
+elements:
+  - titre: Position par satellites
+    icone: satellite
+  - titre: Diffusion radio
+    texte: Identité, position, altitude, vitesse, chaque seconde.
+  - titre: Récepteurs
+    texte: Au sol et dans l'espace.
+  - titre: Sites de suivi
+```
+
 ## À retenir
 
 - Avec l'ADS-B, l'avion calcule sa position grâce aux satellites et la diffuse lui-même par radio.
@@ -9061,6 +9343,17 @@ Le pilote automatique ne remplace pas les pilotes. Il exécute ce qu'on lui dema
 
 En 1914, à Paris, un stabilisateur à gyroscopes fabriqué par la société américaine Sperry a remporté un concours sur la sécurité des avions. En décembre 2019, à Toulouse, Airbus a réalisé avec un avion d'essai le premier décollage entièrement automatique guidé par caméra.
 
+```schema
+type: cycle
+titre: La boucle du pilote automatique
+elements:
+  - titre: Mesurer
+  - titre: Comparer
+    texte: Avec les consignes.
+  - titre: Corriger
+    texte: Les servomoteurs bougent les gouvernes.
+```
+
 ## À retenir
 
 - Le pilote automatique mesure, compare avec les consignes et corrige sans arrêt.
@@ -9397,6 +9690,17 @@ En mer, on compte qu'après un long trajet la position peut être fausse de 2 à
 En 1919, les Britanniques John Alcock et Arthur Brown traversent l'Atlantique en avion en naviguant à l'estime. En 1927, Charles Lindbergh relie les États-Unis à Paris avec des instruments très simples. Lui aussi navigue à l'estime.
 
 Aujourd'hui, le GPS a pris le relais. Pourtant, la navigation à l'estime reste obligatoire dans la formation de tous les pilotes. Elle sert de méthode de secours si les instruments tombent en panne. Les centrales inertielles, des appareils de navigation automatiques, appliquent d'ailleurs le même principe de façon automatique.
+
+```schema
+type: etapes
+titre: La navigation à l'estime
+elements:
+  - titre: Point de départ
+  - titre: Direction
+  - titre: Vitesse et temps
+    texte: Distance égale vitesse multipliée par le temps.
+  - titre: Correction du vent
+```
 
 ## À retenir
 
@@ -11473,6 +11777,18 @@ Les inverseurs réduisent la distance de freinage et usent moins les freins. Ils
 
 Pour être certifié, un avion doit prouver qu'il peut s'arrêter sans ses inverseurs. Ceux-ci sont une sécurité en plus, pas une pièce indispensable.
 
+```schema
+type: systeme
+titre: Freiner un avion de ligne
+centre: Atterrissage
+icone: plane
+parties:
+  - nom: Freins des roues
+    role: L'essentiel du freinage.
+  - nom: Inverseurs de poussée
+    role: Ils renvoient de l'air vers l'avant.
+```
+
 ## À retenir
 
 - Après l'atterrissage, l'avion freine surtout avec les freins de ses roues.
@@ -12443,6 +12759,17 @@ Il faut aussi se méfier au sol. Si un fil de coupure est débranché, une magn�
 
 Les premières magnétos à haute tension ont été mises au point à la fin des années 1890, par l'Anglais Frederick Simms et l'équipe de l'Allemand Robert Bosch. Les voitures les ont abandonnées pour des allumages à batterie, puis électroniques. Les moteurs à pistons d'avion les utilisent encore, pour leur fiabilité.
 
+```schema
+type: systeme
+titre: Le double allumage
+centre: Cylindre
+parties:
+  - nom: Deux bougies
+  - nom: Deux magnétos
+    role: Des génératrices sans batterie.
+  - nom: Vérification avant le vol
+```
+
 ## À retenir
 
 - Dans un moteur à pistons, une étincelle enflamme le mélange d'air et d'essence.
@@ -13408,6 +13735,16 @@ Les turbopropulseurs consomment moins qu'un réacteur aux vitesses moyennes, ent
 
 L'ancien modèle, le CL-215, avait des moteurs à pistons. Les turbopropulseurs du CL-415 lui permettent d'emporter plus. Son successeur, le DHC-515, pourra écoper 7 000 litres. Ses premières livraisons sont prévues en 2028.
 
+```schema
+type: chiffres
+titre: Le Canadair CL-415
+chiffres:
+  - valeur: 9 à 12 s
+    texte: pour remplir ses réservoirs en glissant sur l'eau
+  - valeur: 6 137 L
+    texte: d'eau emportés
+```
+
 ## À retenir
 
 - Le Canadair CL-415 est un avion amphibie qui lutte contre les feux de forêt.
@@ -13646,6 +13983,17 @@ L'explication par un temps de parcours égal est incorrecte : l'air du dessus et
 
 Une aile cambrée produit de la portance même à incidence nulle, alors qu'un profil symétrique exige une incidence positive. La portance dépend surtout de l'angle d'incidence de l'aile ; quand il devient trop grand, l'écoulement se détache et la portance chute : c'est le décrochage. La portance augmente avec la masse volumique de l'air, avec le carré de la vitesse, avec la surface de l'aile et avec un coefficient de portance propre à son profil.
 
+```schema
+type: etapes
+titre: Pourquoi une aile porte
+elements:
+  - titre: L'aile dévie l'air vers le bas
+  - titre: Réaction
+    texte: L'air pousse l'aile vers le haut.
+  - titre: Différence de pression
+    texte: Plus basse au-dessus, plus haute dessous.
+```
+
 ## À retenir
 
 - La portance est la force aérodynamique perpendiculaire à la direction du mouvement de l'aile.
@@ -13733,6 +14081,20 @@ Les moteurs à double flux consomment moins, polluent moins et font beaucoup moi
 ## Une limite de taille
 
 Une soufflante plus grande exige plus de place sous l'aile et des modifications de la structure de l'avion.
+
+```schema
+type: comparaison
+titre: Les deux flux d'un réacteur
+colonnes:
+  - titre: Flux primaire
+    points:
+      - Traverse le moteur
+      - Passe par la combustion
+  - titre: Flux secondaire
+    points:
+      - Contourne le moteur
+      - Brassé par la soufflante
+```
 
 ## À retenir
 
@@ -13822,6 +14184,18 @@ La tour de contrôle gère les avions sur les taxiways et les pistes, et dans l'
 
 Les contrôleurs parlent aux pilotes par radio VHF, avec une phraséologie codifiée pour que les échanges soient clairs, brefs et sans ambiguïté. L'espace aérien est divisé en secteurs, dont chacun est confié à une équipe de contrôleurs. En Europe, le gestionnaire de réseau d'Eurocontrol répartit les créneaux et les routes pour éviter la saturation des secteurs.
 
+```schema
+type: pyramide
+titre: Trois niveaux de contrôle
+niveaux:
+  - titre: En route
+    texte: La croisière.
+  - titre: Approche
+    texte: Autour des aéroports.
+  - titre: Tour
+    texte: Pistes et sol.
+```
+
 ## À retenir
 
 - Le contrôle aérien prévient les collisions et ordonne la circulation des avions.
@@ -13905,6 +14279,18 @@ Le pas collectif change en même temps l'angle de toutes les pales du rotor prin
 ## Stationnaire et en cas de panne
 
 Un hélicoptère peut rester en vol stationnaire : le rotor garde une vitesse de rotation constante et l'on change de hauteur en modifiant seulement l'angle des pales. En cas de panne moteur, l'autorotation permet une descente contrôlée : c'est le vent relatif qui fait tourner le rotor.
+
+```schema
+type: systeme
+titre: Le rotor de l'hélicoptère
+centre: Rotor
+parties:
+  - nom: Portance
+    role: Les pales tournantes la créent.
+  - nom: Propulsion
+    role: En inclinant le rotor.
+  - nom: Stationnaire
+```
 
 ## À retenir
 
@@ -13991,6 +14377,20 @@ La turbulence en air clair est un mouvement turbulent des masses d'air en l'abse
 
 On classe la turbulence en quatre niveaux : légère, modérée, sévère et extrême. En turbulence modérée, l'avion reste contrôlable mais les occupants sentent nettement la ceinture et les objets non attachés se déplacent ; en turbulence sévère, les occupants sont projetés violemment contre leur ceinture. Des membres d'équipage et des passagers ont été blessés, projetés dans la cabine lors de turbulences extrêmes.
 
+```schema
+type: systeme
+titre: D'où viennent les turbulences
+centre: Turbulence
+icone: cloud
+parties:
+  - nom: Air chaud qui monte
+    role: Au-dessus d'un sol inégalement chauffé.
+  - nom: Cisaillement du vent
+    role: Changement brusque de vitesse ou de direction.
+  - nom: Air clair
+    role: Invisible, sans nuage.
+```
+
 ## À retenir
 
 - Au-dessus d'un sol inégalement chauffé, l'air chaud monte et l'air frais descend : l'avion est secoué.
@@ -14074,6 +14474,17 @@ Le mur du son désigne la forte hausse de traînée et les autres difficultés q
 ## Le bang supersonique
 
 Un mobile supersonique crée en permanence une onde de choc en forme de cône, le cône de Mach ; un observateur au sol ne l'entend qu'une fois, quand le cône passe sur lui. Le bang supersonique a un profil de pression en N : montée rapide de la pression, baisse lente sous la normale, puis retour.
+
+```schema
+type: etapes
+titre: Du mur du son au bang
+elements:
+  - titre: Près de Mach 1
+    texte: La traînée augmente fortement.
+  - titre: Ondes de choc
+  - titre: Bang supersonique
+    texte: Entendu au sol.
+```
 
 ## À retenir
 
@@ -14160,6 +14571,20 @@ La balise acoustique sous-marine émet pendant 90 jours.
 ## Un peu d'histoire
 
 François Hussenot a conçu des « hussenographes » à film photographique, premiers enregistreurs de vol. David Warren a conçu un enregistreur à support magnétique, bien avant les enregistreurs à mémoire flash d'aujourd'hui.
+
+```schema
+type: comparaison
+titre: Les deux boîtes noires
+colonnes:
+  - titre: CVR
+    icone: mic
+    points:
+      - Enregistre les sons du poste de pilotage
+  - titre: FDR
+    icone: chart
+    points:
+      - Enregistre les paramètres du vol
+```
 
 ## À retenir
 
@@ -14248,6 +14673,20 @@ La finesse est le rapport entre la portance et la traînée, ou encore entre la 
 
 Un planeur se lance au treuil, remorqué par un avion, ou encore avec un sandow, une cordelette élastique.
 
+```schema
+type: systeme
+titre: Voler sans moteur
+centre: Planeur
+parties:
+  - nom: Grand allongement
+    role: Des ailes longues et fines.
+  - nom: Ascendances
+    role: Trouver de l'air qui monte.
+  - nom: Finesse
+  - nom: Décollage
+    role: Remorqué ou treuillé.
+```
+
 ## À retenir
 
 - Un planeur est un aérodyne sans moteur, en général à grand allongement, optimisé pour le vol plané et le vol à voile.
@@ -14332,6 +14771,18 @@ C'est un instrument essentiel pour voler aux instruments, quand aucune référen
 
 Les instruments de base sont disposés en T : l'horizon artificiel au centre, l'anémomètre à gauche, l'altimètre à droite et le gyro directionnel dessous. L'altimètre détermine la hauteur de l'avion par rapport à un niveau de référence. L'anémomètre mesure la vitesse de l'avion par rapport à l'air, grâce à une différence de pression. Le variomètre indique la vitesse verticale de l'avion, c'est-à-dire sa vitesse de montée ou de descente. Le conservateur de cap gyroscopique tient le cap bien plus précisément qu'un compas magnétique.
 
+```schema
+type: etapes
+titre: L'horizon artificiel
+elements:
+  - titre: Gyroscope
+    texte: Il reste aligné sur la verticale.
+  - titre: Assiette et inclinaison
+    texte: Mesurées par rapport à l'horizon.
+  - titre: Le pilote se fie à l'instrument
+    texte: Pas à ses sensations.
+```
+
 ## À retenir
 
 - L'horizon artificiel mesure l'assiette et l'inclinaison d'un aéronef par rapport à l'horizon.
@@ -14414,6 +14865,18 @@ Les winglets réduisent la traînée induite en récupérant une partie de l'én
 ## Ce que l'on y gagne
 
 Les winglets réduisent de quelques pour cent la consommation de carburant d'un avion de ligne. Les winglets atténuent aussi le tourbillon de sillage laissé derrière l'avion. Certains oiseaux, comme les cigognes et les rapaces, recourbent les plumes du bout de leurs ailes pour augmenter la portance et réduire la turbulence.
+
+```schema
+type: etapes
+titre: Ce que fait un winglet
+elements:
+  - titre: Tourbillon marginal
+    texte: L'air passe de la surpression à la dépression.
+  - titre: Air dévié vers le bas
+    texte: L'aile devient moins efficace.
+  - titre: Winglet
+    texte: Il récupère une partie de cette énergie.
+```
 
 ## À retenir
 
@@ -14500,6 +14963,19 @@ Pour commencer, l'hydrogène convient surtout aux lignes de courte et moyenne di
 ## Un carburant propre, à une condition
 
 L'hydrogène peut être produit et consommé sans créer de CO2 quand il est produit avec des énergies renouvelables.
+
+```schema
+type: comparaison
+titre: Deux façons d'utiliser l'hydrogène
+colonnes:
+  - titre: Pile à combustible
+    points:
+      - Produit de l'électricité pour des moteurs électriques
+      - Rejette de l'eau
+  - titre: Combustion
+    points:
+      - Brûlé directement dans des réacteurs
+```
 
 ## À retenir
 
@@ -14594,6 +15070,19 @@ L'hydrogène liquide doit être stocké à −253 °C, dans des réservoirs cryo
 
 Les aéroports auraient besoin d'infrastructures importantes de production, de transport et d'avitaillement en hydrogène. Les lignes de courte et moyenne distance sont les plus adaptées aux premières applications de l'hydrogène. Les nouvelles conceptions d'avions à hydrogène doivent satisfaire aux spécifications de certification qui garantissent un haut niveau de sécurité.
 
+```schema
+type: frise
+titre: Le programme ZEROe d'Airbus
+evenements:
+  - date: 2020
+    titre: Lancement du programme
+  - date: Ensuite
+    titre: Trois concepts
+    texte: Le stockage de l'hydrogène reste le défi.
+  - date: 2035
+    titre: Mise en service visée
+```
+
 ## À retenir
 
 - 2020 : Airbus lance le programme ZEROe pour explorer la propulsion à l'hydrogène des avions commerciaux.
@@ -14601,3 +15090,4 @@ Les aéroports auraient besoin d'infrastructures importantes de production, de t
 - Airbus a dévoilé trois concepts d'avions à hydrogène liquide : turbosoufflantes, turbopropulseurs et aile volante.
 - L'hydrogène liquide doit être stocké à −253 °C, dans des réservoirs cryogéniques.
 - Les aéroports auraient besoin d'infrastructures importantes de production, de transport et d'avitaillement en hydrogène.
+

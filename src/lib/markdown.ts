@@ -7,7 +7,7 @@ import remarkRehype from "remark-rehype";
 import { unified } from "unified";
 import { visit } from "unist-util-visit";
 
-import type { Root as MdastRoot, Paragraph, PhrasingContent, RootContent } from "mdast";
+import type { Code, Root as MdastRoot, Paragraph, PhrasingContent, RootContent } from "mdast";
 import type {
   Element,
   ElementContent,
@@ -17,6 +17,7 @@ import type {
 
 import { GLYPHS } from "@/components/visual/glyphs";
 
+import { renderSchemaSource } from "./schemas";
 import { frenchSpacing } from "./typography";
 import { pickGlyph, type GlyphName } from "./visual";
 
@@ -142,6 +143,22 @@ function transformFigurePlaceholders() {
         "</figure>";
 
       parent.children[index] = { type: "html", value: html };
+    });
+  };
+}
+
+/**
+ * Convertit les blocs de code `schema` en schemas pedagogiques (voir src/lib/schemas.ts).
+ *
+ * Les blocs sont valides a l'import du corpus; un bloc invalide qui aurait echappe a cette
+ * verification est retire plutot qu'affiche comme du code brut.
+ */
+function transformSchemas() {
+  return (tree: MdastRoot) => {
+    visit(tree, "code", (node: Code, index, parent) => {
+      if (node.lang !== "schema" || !parent || index === undefined) return;
+      const html = renderSchemaSource(node.value);
+      parent.children[index] = { type: "html", value: html ?? "" };
     });
   };
 }
@@ -308,6 +325,7 @@ export async function renderMarkdown(
     .use(remarkGfm)
     .use(removeRedundantSections)
     .use(transformFigurePlaceholders)
+    .use(transformSchemas)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeSlug)
     .use(groupLessonSections, sections, options.categoryPath)

@@ -342,7 +342,7 @@ droit;droit-et-justice/droit-prive/droit-civil;Le mariage, le PACS et le concubi
 droit;droit-et-justice/droit-prive/droit-civil;L'héritage et la réserve héréditaire;heritage-reserve-hereditaire;2;non;planned
 droit;droit-et-justice/droit-prive/droit-civil;Le divorce;divorce;2;non;planned
 droit;droit-et-justice/droit-prive/droit-civil;L'autorité parentale;autorite-parentale;2;non;planned
-droit;droit-et-justice/droit-prive/droit-civil;Le bail d'habitation;bail-habitation;2;non;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le bail d'habitation;bail-habitation;2;non;published
 droit;droit-et-justice/droit-prive/droit-civil;La tutelle et la curatelle;tutelle-curatelle;2;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;Contravention, délit et crime;contravention-delit-crime;2;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;La légitime défense;legitime-defense;2;non;planned
@@ -396,7 +396,7 @@ droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le salaire mini
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le harcèlement au travail;harcelement-travail;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Les syndicats et les élus du personnel;syndicats-elus-personnel;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le télétravail;teletravail;2;non;planned
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le crédit à la consommation;credit-consommation;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le crédit à la consommation;credit-consommation;2;non;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les clauses abusives;clauses-abusives;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les litiges avec un vendeur en ligne;litiges-avec-vendeur-ligne;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le démarchage téléphonique;demarchage-telephonique;2;non;planned
@@ -411,7 +411,7 @@ energie;energie/reseaux-et-stockage/reseaux-electriques;Les grandes pannes élec
 energie;energie/reseaux-et-stockage/reseaux-electriques;La fréquence du réseau, 50 hertz à tenir;frequence-reseau-50-hertz-tenir;2;non;planned
 energie;energie/reseaux-et-stockage/reseaux-electriques;Les interconnexions européennes;interconnexions-europeennes;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le lithium, une ressource stratégique;lithium-ressource-strategique;2;non;planned
-energie;energie/reseaux-et-stockage/batteries;Les batteries sodium-ion;batteries-sodium-ion;2;non;planned
+energie;energie/reseaux-et-stockage/batteries;Les batteries sodium-ion;batteries-sodium-ion;2;non;published
 energie;energie/reseaux-et-stockage/batteries;Le recyclage des batteries;recyclage-batteries;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Pourquoi une batterie s'use;batterie-s-use;2;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;Hydrogène gris, bleu et vert;hydrogene-gris-bleu-vert;2;non;planned
@@ -603,10 +603,10 @@ industries;industries/materiaux-et-procedes/composites-et-polymeres;Les bioplast
 industries;industries/materiaux-et-procedes/composites-et-polymeres;Le nylon et les fibres synthétiques;nylon-fibres-synthetiques;2;non;planned
 industries;industries/materiaux-et-procedes/composites-et-polymeres;Les thermoplastiques et thermodurcissables;thermoplastiques-thermodurcissables;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Comment un transistor, minuscule interrupteur, fait-il fonctionner un ordinateur ?;comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur;2;non;published
-informatique;micro-informatique-et-informatique/materiel/processeurs;La loi de Moore;loi-moore;2;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;Les cartes graphiques;cartes-graphiques;2;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;Comment on fabrique une puce;fabrique-puce;2;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;TSMC et la géopolitique des puces;tsmc-geopolitique-puces;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;La loi de Moore;loi-moore;2;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;Les cartes graphiques;cartes-graphiques;2;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;Comment on fabrique une puce;fabrique-puce;2;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;TSMC et la géopolitique des puces;tsmc-geopolitique-puces;2;non;published
 informatique;micro-informatique-et-informatique/materiel/processeurs;Architecture x86 et ARM;architecture-x86-arm;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Le disque dur;disque-dur;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;La mémoire flash et les SSD;memoire-flash-ssd;2;non;planned
@@ -824,7 +824,7 @@ sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistrib
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Le langage;langage;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Prendre une décision;prendre-decision;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;L'intelligence et le QI;intelligence-qi;2;non;planned
-sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Apprendre efficacement;apprendre-efficacement;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Apprendre efficacement;apprendre-efficacement;2;non;published
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;La conscience;conscience;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;L'attachement chez le jeune enfant;attachement-chez-jeune-enfant;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;L'acquisition du langage;acquisition-langage;2;non;planned
@@ -1580,7 +1580,7 @@ alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le glanage, recuperer ce qui reste apres la recolte;le-glanage-recuperer-ce-qui-reste-apres-la-recolte;3;oui;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Les invendus alimentaires et leur redistribution;les-invendus-alimentaires-et-leur-redistribution;2;oui;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire domestique et ses causes principales;le-gaspillage-alimentaire-domestique-et-ses-causes-principales;2;oui;planned
-alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;La conservation optimale des aliments au refrigerateur;la-conservation-optimale-des-aliments-au-refrigerateur;2;oui;planned
+alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;La conservation optimale des aliments au réfrigérateur;la-conservation-optimale-des-aliments-au-refrigerateur;2;oui;published
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le compostage des dechets alimentaires;le-compostage-des-dechets-alimentaires;2;oui;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Les fruits et legumes moches, un gaspillage evitable;les-fruits-et-legumes-moches-un-gaspillage-evitable;2;oui;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire lie a la surproduction agricole;le-gaspillage-alimentaire-lie-a-la-surproduction-agricole;3;non;planned
@@ -1609,7 +1609,7 @@ alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire dans les cantines scolaires;le-gaspillage-alimentaire-dans-les-cantines-scolaires;3;non;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;La sensibilisation au gaspillage alimentaire des l'enfance;la-sensibilisation-au-gaspillage-alimentaire-des-l-enfance;3;non;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire lie a l'achat en trop grande quantite;le-gaspillage-alimentaire-lie-a-l-achat-en-trop-grande-quantite;3;non;planned
-alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;La conservation des aliments par sechage solaire;la-conservation-des-aliments-par-sechage-solaire;2;oui;planned
+alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;La conservation des aliments par séchage solaire;la-conservation-des-aliments-par-sechage-solaire;2;oui;published
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire des produits de la mer;le-gaspillage-alimentaire-des-produits-de-la-mer;3;non;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;La transformation des dechets de peche en farine ou engrais;la-transformation-des-dechets-de-peche-en-farine-ou-engrais;3;oui;planned
 alimentation;alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire;Le gaspillage alimentaire et son cout economique pour les menages;le-gaspillage-alimentaire-et-son-cout-economique-pour-les-menages;2;non;planned
@@ -1875,7 +1875,7 @@ alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alime
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La salmonellose, une des intoxications les plus frequentes;la-salmonellose-une-des-intoxications-les-plus-frequentes;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La listeriose et les aliments a risque;la-listeriose-et-les-aliments-a-risque;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les toxi-infections alimentaires collectives;les-toxi-infections-alimentaires-collectives;2;oui;planned
-alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire des conserves maison;la-securite-alimentaire-des-conserves-maison;2;oui;planned
+alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La sécurité alimentaire des conserves maison;la-securite-alimentaire-des-conserves-maison;2;oui;published
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les regles de base de l'hygiene en cuisine;les-regles-de-base-de-l-hygiene-en-cuisine;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Pourquoi ne faut-il pas couper la salade sur la planche du poulet cru ?;pourquoi-ne-faut-il-pas-couper-la-salade-sur-la-planche-du-poulet-cru;2;oui;published
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Le controle sanitaire des produits alimentaires importes;le-controle-sanitaire-des-produits-alimentaires-importes;3;non;planned
@@ -1908,7 +1908,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La mise sous vide comme methode de conservation;la-mise-sous-vide-comme-methode-de-conservation;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;L'irradiation alimentaire, principe et securite;l-irradiation-alimentaire-principe-et-securite;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le sucre, confitures et fruits confits;la-conservation-par-le-sucre-confitures-et-fruits-confits;2;oui;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le sel, salaisons et saumures;la-conservation-par-le-sel-salaisons-et-saumures;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le sel, salaisons et saumures;la-conservation-par-le-sel-salaisons-et-saumures;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par le vinaigre, les pickles et marinades;la-conservation-par-le-vinaigre-les-pickles-et-marinades;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;L'atmosphere modifiee dans les emballages alimentaires;l-atmosphere-modifiee-dans-les-emballages-alimentaires;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La sterilisation UHT du lait;la-sterilisation-uht-du-lait;2;oui;planned
@@ -1922,7 +1922,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;L'
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation des cereales contre les insectes et rongeurs;la-conservation-des-cereales-contre-les-insectes-et-rongeurs;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Les silos traditionnels de stockage des grains;les-silos-traditionnels-de-stockage-des-grains;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation des tubercules comme la pomme de terre;la-conservation-des-tubercules-comme-la-pomme-de-terre;2;oui;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Le stockage en cave des legumes racines;le-stockage-en-cave-des-legumes-racines;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Le stockage en cave des légumes racines;le-stockage-en-cave-des-legumes-racines;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation par ensilage pour l'alimentation animale;la-conservation-par-ensilage-pour-l-alimentation-animale;3;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;La conservation des aliments en altitude et en milieu froid;la-conservation-des-aliments-en-altitude-et-en-milieu-froid;3;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/conservation;Les emballages sous vide domestiques;les-emballages-sous-vide-domestiques;3;non;planned
@@ -1949,7 +1949,7 @@ alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fabrication traditionnelle du yaourt;la-fabrication-traditionnelle-du-yaourt;2;oui;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Comment le levain fait-il gonfler la pâte à pain ?;comment-le-levain-fait-il-gonfler-la-pate-a-pain;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation des olives avant consommation;la-fermentation-des-olives-avant-consommation;3;non;planned
-alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La conservation des legumes par lactofermentation;la-conservation-des-legumes-par-lactofermentation;2;oui;planned
+alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La conservation des légumes par lactofermentation;la-conservation-des-legumes-par-lactofermentation;2;oui;published
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation du poisson dans certaines traditions culinaires;la-fermentation-du-poisson-dans-certaines-traditions-culinaires;3;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;Le controle de la temperature dans la fermentation alimentaire;le-controle-de-la-temperature-dans-la-fermentation-alimentaire;2;non;planned
 alimentation;alimentation-et-nutrition/technologies-alimentaires/fermentation;La fermentation spontanee dans la fabrication du pain rustique;la-fermentation-spontanee-dans-la-fabrication-du-pain-rustique;3;non;planned
@@ -2499,21 +2499,21 @@ automobile;automobile/motorisations/motorisations-hybrides;L'avenir des motorisa
 automobile;automobile/motorisations/thermique;Comment un moteur à quatre temps transforme-t-il l'essence en mouvement ?;comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement;2;oui;published
 automobile;automobile/motorisations/thermique;Le taux de compression d'un moteur essence;le-taux-de-compression-d-un-moteur-essence;3;non;planned
 automobile;automobile/motorisations/thermique;Le cliquetis moteur et ses causes;le-cliquetis-moteur-et-ses-causes;3;non;planned
-automobile;automobile/motorisations/thermique;Le systeme d'allumage electronique moderne;le-systeme-d-allumage-electronique-moderne;3;non;planned
+automobile;automobile/motorisations/thermique;L'allumage, bougies et bobines;le-systeme-d-allumage-electronique-moderne;3;non;published
 automobile;automobile/motorisations/thermique;La culasse et son role dans un moteur thermique;la-culasse-et-son-role-dans-un-moteur-thermique;3;non;planned
 automobile;automobile/motorisations/thermique;Le vilebrequin, transformer un mouvement lineaire en rotation;le-vilebrequin-transformer-un-mouvement-lineaire-en-rotation;3;non;planned
 automobile;automobile/motorisations/thermique;Les segments de piston et l'etancheite du moteur;les-segments-de-piston-et-l-etancheite-du-moteur;3;non;planned
 automobile;automobile/motorisations/thermique;La distribution par courroie contre par chaine;la-distribution-par-courroie-contre-par-chaine;3;non;planned
 automobile;automobile/motorisations/thermique;Comment un moteur diesel s'allume-t-il sans bougie d'allumage ?;comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage;2;non;published
 automobile;automobile/motorisations/thermique;L'injection directe dans les moteurs essence modernes;l-injection-directe-dans-les-moteurs-essence-modernes;3;non;planned
-automobile;automobile/motorisations/thermique;Le systeme de depollution des moteurs diesel (AdBlue);le-systeme-de-depollution-des-moteurs-diesel-adblue;3;non;planned
+automobile;automobile/motorisations/thermique;La dépollution diesel, du FAP à l'AdBlue;le-systeme-de-depollution-des-moteurs-diesel-adblue;3;non;published
 automobile;automobile/motorisations/thermique;Le downsizing moteur, faire plus petit mais plus efficace;le-downsizing-moteur-faire-plus-petit-mais-plus-efficace;3;non;planned
 automobile;automobile/motorisations/thermique;Le systeme start-stop automatique;le-systeme-start-stop-automatique;3;non;planned
 automobile;automobile/motorisations/thermique;La suralimentation par turbocompresseur, principe detaille;la-suralimentation-par-turbocompresseur-principe-detaille;3;non;planned
 automobile;automobile/motorisations/thermique;Le refroidissement par air contre par liquide;le-refroidissement-par-air-contre-par-liquide;3;non;planned
 automobile;automobile/motorisations/thermique;La lubrification moteur et les differents types d'huile;la-lubrification-moteur-et-les-differents-types-d-huile;2;non;planned
 automobile;automobile/motorisations/thermique;Le pot catalytique, transformer chimiquement les gaz d'echappement;le-pot-catalytique-transformer-chimiquement-les-gaz-d-echappement;3;non;planned
-automobile;automobile/motorisations/thermique;La transmission manuelle contre automatique;la-transmission-manuelle-contre-automatique;3;non;planned
+automobile;automobile/motorisations/thermique;La boîte automatique, du convertisseur au double embrayage;la-transmission-manuelle-contre-automatique;3;non;published
 automobile;automobile/motorisations/thermique;La boite de vitesses a double embrayage;la-boite-de-vitesses-a-double-embrayage;3;non;planned
 automobile;automobile/motorisations/thermique;Le moteur rotatif Wankel dans l'automobile;le-moteur-rotatif-wankel-dans-l-automobile;3;non;planned
 automobile;automobile/motorisations/thermique;La transmission integrale permanente;la-transmission-integrale-permanente;3;non;planned
@@ -2679,7 +2679,7 @@ communication;communication-et-medias/histoire-des-medias/radio-et-television;Le
 communication;communication-et-medias/histoire-des-medias/radio-et-television;Pourquoi les ondes courtes peuvent-elles porter la radio à l'autre bout du monde ?;pourquoi-les-ondes-courtes-peuvent-elles-porter-la-radio-a-l-autre-bout-du-monde;2;oui;published
 communication;communication-et-medias/histoire-des-medias/radio-et-television;Comment un poste à galène capte-t-il la radio sans pile ni prise ?;comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise;2;oui;published
 communication;communication-et-medias/histoire-des-medias/radio-et-television;Le poste de television a tube cathodique;le-poste-de-television-a-tube-cathodique;3;non;planned
-communication;communication-et-medias/histoire-des-medias/radio-et-television;La radio comme outil d'alerte en cas de catastrophe;la-radio-comme-outil-d-alerte-en-cas-de-catastrophe;2;oui;planned
+communication;communication-et-medias/histoire-des-medias/radio-et-television;La radio comme outil d'alerte en cas de catastrophe;la-radio-comme-outil-d-alerte-en-cas-de-catastrophe;2;oui;published
 communication;communication-et-medias/histoire-des-medias/radio-et-television;Le journal parle, une tradition radiophonique specifique;le-journal-parle-une-tradition-radiophonique-specifique;3;non;planned
 communication;communication-et-medias/histoire-des-medias/radio-et-television;La television en circuit ferme et ses usages historiques;la-television-en-circuit-ferme-et-ses-usages-historiques;3;non;planned
 communication;communication-et-medias/histoire-des-medias/radio-et-television;La radio amateur, un reseau mondial de passionnes;la-radio-amateur-un-reseau-mondial-de-passionnes;2;oui;planned
@@ -2725,7 +2725,7 @@ communication;communication-et-medias/information-et-verification/education-aux-
 communication;communication-et-medias/information-et-verification/education-aux-medias;Lire une etude scientifique avec esprit critique;lire-une-etude-scientifique-avec-esprit-critique;2;oui;planned
 communication;communication-et-medias/information-et-verification/education-aux-medias;L'education aux medias a l'ecole, methodes et objectifs;l-education-aux-medias-a-l-ecole-methodes-et-objectifs;2;oui;planned
 communication;communication-et-medias/information-et-verification/education-aux-medias;Reconnaitre les techniques de manipulation dans un texte;reconnaitre-les-techniques-de-manipulation-dans-un-texte;2;oui;planned
-communication;communication-et-medias/information-et-verification/education-aux-medias;Comprendre la difference entre correlation et causalite;comprendre-la-difference-entre-correlation-et-causalite;2;oui;planned
+communication;communication-et-medias/information-et-verification/education-aux-medias;Comprendre la différence entre corrélation et causalité;comprendre-la-difference-entre-correlation-et-causalite;2;oui;published
 communication;communication-et-medias/information-et-verification/education-aux-medias;Verifier la date de publication d'une information partagee;verifier-la-date-de-publication-d-une-information-partagee;2;oui;planned
 communication;communication-et-medias/information-et-verification/education-aux-medias;Comprendre le role de la ligne editoriale d'un media;comprendre-le-role-de-la-ligne-editoriale-d-un-media;2;oui;planned
 communication;communication-et-medias/information-et-verification/education-aux-medias;Identifier un site satirique ou parodique;identifier-un-site-satirique-ou-parodique;2;oui;planned
@@ -2833,7 +2833,7 @@ communication;communication-et-medias/medias-numeriques/web;Le web mobile et l'a
 communication;communication-et-medias/medias-numeriques/web;L'accessibilite numerique des sites web;l-accessibilite-numerique-des-sites-web;2;non;planned
 communication;communication-et-medias/medias-numeriques/web;Le web profond et le web sombre, distinguer les deux;le-web-profond-et-le-web-sombre-distinguer-les-deux;3;non;planned
 communication;communication-et-medias/medias-numeriques/web;Les certificats de securite et le protocole HTTPS;les-certificats-de-securite-et-le-protocole-https;2;non;planned
-communication;communication-et-medias/medias-numeriques/web;Le web archivage et la memoire d'internet;le-web-archivage-et-la-memoire-d-internet;3;oui;planned
+communication;communication-et-medias/medias-numeriques/web;Le web archivage et la mémoire d'Internet;le-web-archivage-et-la-memoire-d-internet;3;oui;published
 communication;communication-et-medias/medias-numeriques/web;Le format PDF et sa place dans le partage de documents;le-format-pdf-et-sa-place-dans-le-partage-de-documents;3;non;planned
 communication;communication-et-medias/medias-numeriques/web;Les CMS et la democratisation de la creation de sites web;les-cms-et-la-democratisation-de-la-creation-de-sites-web;3;non;planned
 communication;communication-et-medias/telecommunications/fibre-et-reseaux-fixes;Le cable telephonique en cuivre, une technologie centenaire;le-cable-telephonique-en-cuivre-une-technologie-centenaire;3;non;planned
@@ -2899,7 +2899,7 @@ communication;communication-et-medias/telecommunications/satellites;Les satellit
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Reconnaitre les signes d'un infarctus;reconnaitre-les-signes-d-un-infarctus;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Pourquoi sent-on son cœur battre au poignet ?;pourquoi-sent-on-son-coeur-battre-au-poignet;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Mesurer sa tension arterielle soi-meme;mesurer-sa-tension-arterielle-soi-meme;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les facteurs de risque cardiovasculaire modifiables;les-facteurs-de-risque-cardiovasculaire-modifiables;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les facteurs de risque cardiovasculaire modifiables;les-facteurs-de-risque-cardiovasculaire-modifiables;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'arret cardiaque et les gestes qui sauvent;l-arret-cardiaque-et-les-gestes-qui-sauvent;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Comment un défibrillateur remet-il de l'ordre dans un cœur qui s'emballe ?;comment-un-defibrillateur-remet-il-de-l-ordre-dans-un-coeur-qui-s-emballe;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les varices, mecanisme et prevention;les-varices-mecanisme-et-prevention;3;non;planned
@@ -2921,7 +2921,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'anemie, q
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le systeme lymphatique et son role circulatoire;le-systeme-lymphatique-et-son-role-circulatoire;2;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;L'oedeme, quand les fluides s'accumulent;l-oedeme-quand-les-fluides-s-accumulent;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le choc hemorragique, reconnaitre l'urgence;le-choc-hemorragique-reconnaitre-l-urgence;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le garrot, comment et quand l'utiliser;le-garrot-comment-et-quand-l-utiliser;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le garrot, comment et quand l'utiliser;le-garrot-comment-et-quand-l-utiliser;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Comment le sang s'arrête-t-il de couler tout seul après une coupure ?;comment-le-sang-s-arrete-t-il-de-couler-tout-seul-apres-une-coupure;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Les anticoagulants et leur role therapeutique;les-anticoagulants-et-leur-role-therapeutique;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-cardiovasculaire;Le rythme cardiaque au repos et a l'effort;le-rythme-cardiaque-au-repos-et-a-l-effort;3;non;planned
@@ -2974,7 +2974,7 @@ corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les ulceres gastriq
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La bacterie Helicobacter pylori en detail;la-bacterie-helicobacter-pylori-en-detail;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les hemorroides, une affection frequente et benigne;les-hemorroides-une-affection-frequente-et-benigne;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La nutrition enterale et parenterale en situation d'urgence;la-nutrition-enterale-et-parenterale-en-situation-d-urgence;2;oui;planned
-corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La rehydratation orale en cas de diarrhee severe;la-rehydratation-orale-en-cas-de-diarrhee-severe;2;oui;planned
+corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;La réhydratation orale en cas de diarrhée sévère;la-rehydratation-orale-en-cas-de-diarrhee-severe;2;oui;published
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Le rythme intestinal et sa variabilite normale;le-rythme-intestinal-et-sa-variabilite-normale;3;non;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-digestif;Les intolerances alimentaires, mecanismes distincts des allergies;les-intolerances-alimentaires-mecanismes-distincts-des-allergies;2;oui;planned
 corps-humain;corps-humain-et-sante/anatomie/systeme-nerveux;Le cerveau, les grandes zones et leurs fonctions;le-cerveau-les-grandes-zones-et-leurs-fonctions;2;non;planned
@@ -3096,11 +3096,11 @@ corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La desinfectio
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le suivi epidemiologique et la detection precoce des epidemies;le-suivi-epidemiologique-et-la-detection-precoce-des-epidemies;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La leptospirose, une maladie transmise par les rongeurs;la-leptospirose-une-maladie-transmise-par-les-rongeurs;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;Le tetanos neonatal et sa prevention;le-tetanos-neonatal-et-sa-prevention;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La gestion d'une plaie pour eviter une infection;la-gestion-d-une-plaie-pour-eviter-une-infection;2;oui;planned
+corps-humain;corps-humain-et-sante/maladies/maladies-infectieuses;La gestion d'une plaie pour éviter une infection;la-gestion-d-une-plaie-pour-eviter-une-infection;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les signes precoces d'une depression;les-signes-precoces-d-une-depression;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le deuil et ses etapes psychologiques;le-deuil-et-ses-etapes-psychologiques;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le stress aigu contre le stress chronique;le-stress-aigu-contre-le-stress-chronique;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les techniques de gestion du stress au quotidien;les-techniques-de-gestion-du-stress-au-quotidien;2;oui;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les techniques de gestion du stress au quotidien;les-techniques-de-gestion-du-stress-au-quotidien;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le trouble obsessionnel compulsif;le-trouble-obsessionnel-compulsif;3;non;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les phobies specifiques, mecanismes et traitements;les-phobies-specifiques-mecanismes-et-traitements;3;non;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;L'anxiete generalisee, une inquietude permanente;l-anxiete-generalisee-une-inquietude-permanente;3;non;planned
@@ -3123,7 +3123,7 @@ corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les troubles du sommei
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;La sante mentale en situation de catastrophe ou de crise;la-sante-mentale-en-situation-de-catastrophe-ou-de-crise;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;La premiere ecoute face a une personne en detresse;la-premiere-ecoute-face-a-une-personne-en-detresse;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;La stigmatisation des maladies mentales;la-stigmatisation-des-maladies-mentales;2;oui;planned
-corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le role de l'exercice physique sur la sante mentale;le-role-de-l-exercice-physique-sur-la-sante-mentale;2;oui;planned
+corps-humain;corps-humain-et-sante/maladies/sante-mentale;Le rôle de l'exercice physique sur la santé mentale;le-role-de-l-exercice-physique-sur-la-sante-mentale;2;oui;published
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les troubles anxieux chez l'enfant;les-troubles-anxieux-chez-l-enfant;3;non;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;La sante mentale des aidants familiaux;la-sante-mentale-des-aidants-familiaux;2;oui;planned
 corps-humain;corps-humain-et-sante/maladies/sante-mentale;Les groupes de parole et le soutien par les pairs;les-groupes-de-parole-et-le-soutien-par-les-pairs;2;oui;planned
@@ -3269,7 +3269,7 @@ corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Le r
 droit;droit-et-justice/droit-prive/droit-civil;Pourquoi un enfant ne peut-il pas signer seul tous les contrats ?;pourquoi-un-enfant-ne-peut-il-pas-signer-seul-tous-les-contrats;2;oui;published
 droit;droit-et-justice/droit-prive/droit-civil;La personnalite juridique, du debut a la fin de la vie;la-personnalite-juridique-du-debut-a-la-fin-de-la-vie;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-civil;Les biens meubles et immeubles, une distinction fondamentale;les-biens-meubles-et-immeubles-une-distinction-fondamentale;2;oui;planned
-droit;droit-et-justice/droit-prive/droit-civil;La possession et la propriete, deux notions distinctes;la-possession-et-la-propriete-deux-notions-distinctes;2;oui;planned
+droit;droit-et-justice/droit-prive/droit-civil;La possession et la propriété, deux notions distinctes;la-possession-et-la-propriete-deux-notions-distinctes;2;oui;published
 droit;droit-et-justice/droit-prive/droit-civil;Le contrat de vente, elements essentiels;le-contrat-de-vente-elements-essentiels;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-civil;La responsabilite civile contractuelle et delictuelle;la-responsabilite-civile-contractuelle-et-delictuelle;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-civil;Le regime matrimonial et ses consequences;le-regime-matrimonial-et-ses-consequences;3;non;planned
@@ -3314,7 +3314,7 @@ droit;droit-et-justice/droit-prive/droit-civil;Le droit civil et les animaux, un
 droit;droit-et-justice/droit-prive/droit-civil;La clause penale dans un contrat;la-clause-penale-dans-un-contrat;3;non;planned
 droit;droit-et-justice/droit-prive/droit-civil;Le droit de visite et d'hebergement apres une separation;le-droit-de-visite-et-d-hebergement-apres-une-separation;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-civil;La renonciation a succession;la-renonciation-a-succession;3;non;planned
-droit;droit-et-justice/droit-prive/droit-civil;Le contrat d'assurance, principes de base;le-contrat-d-assurance-principes-de-base;2;oui;planned
+droit;droit-et-justice/droit-prive/droit-civil;Le contrat d'assurance, principes de base;le-contrat-d-assurance-principes-de-base;2;oui;published
 droit;droit-et-justice/droit-prive/droit-civil;La protection juridique des donnees personnelles en droit civil;la-protection-juridique-des-donnees-personnelles-en-droit-civil;3;non;planned
 droit;droit-et-justice/droit-prive/droit-penal;Le principe de legalite des delits et des peines;le-principe-de-legalite-des-delits-et-des-peines;2;oui;planned
 droit;droit-et-justice/droit-prive/droit-penal;L'intention et la faute en droit penal;l-intention-et-la-faute-en-droit-penal;2;oui;planned
@@ -3556,7 +3556,7 @@ droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le foncti
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;La justice de renvoi apres cassation;la-justice-de-renvoi-apres-cassation;3;non;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;Le role des chambres specialisees au sein des tribunaux;le-role-des-chambres-specialisees-au-sein-des-tribunaux;3;non;planned
 droit;droit-et-justice/justice-et-institutions/organisation-judiciaire;L'acces au droit et les points d'information juridique gratuits;l-acces-au-droit-et-les-points-d-information-juridique-gratuits;2;oui;planned
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La garantie legale de conformite;la-garantie-legale-de-conformite;2;oui;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La garantie légale de conformité;la-garantie-legale-de-conformite;2;oui;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La garantie des vices caches;la-garantie-des-vices-caches;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le droit de retractation dans la vente a distance;le-droit-de-retractation-dans-la-vente-a-distance;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les soldes et promotions, cadre legal;les-soldes-et-promotions-cadre-legal;3;non;planned
@@ -3588,7 +3588,7 @@ droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La regl
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le droit de la consommation et la vente de vehicules d'occasion;le-droit-de-la-consommation-et-la-vente-de-vehicules-d-occasion;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Les differents types de contrats de travail;les-differents-types-de-contrats-de-travail;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;La periode d'essai, droits et limites;la-periode-d-essai-droits-et-limites;2;oui;planned
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le bulletin de salaire, comment le lire;le-bulletin-de-salaire-comment-le-lire;2;oui;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le bulletin de salaire, comment le lire;le-bulletin-de-salaire-comment-le-lire;2;oui;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Comment les salariés ont-ils obtenu cinq semaines de congés payés ?;comment-les-salaries-ont-ils-obtenu-cinq-semaines-de-conges-payes;2;oui;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le conge maladie et ses conditions;le-conge-maladie-et-ses-conditions;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le conge parental et sa duree;le-conge-parental-et-sa-duree;2;oui;planned
@@ -3803,7 +3803,7 @@ energie;energie/energies-renouvelables/hydraulique;Les grands types de barrages 
 energie;energie/energies-renouvelables/hydraulique;La microcentrale hydroelectrique de riviere;la-microcentrale-hydroelectrique-de-riviere;2;oui;planned
 energie;energie/energies-renouvelables/hydraulique;Les stations de transfert d'energie par pompage (STEP);les-stations-de-transfert-d-energie-par-pompage-step;2;oui;planned
 energie;energie/energies-renouvelables/hydraulique;L'energie maremotrice, exploiter le mouvement des marees;l-energie-maremotrice-exploiter-le-mouvement-des-marees;2;non;planned
-energie;energie/energies-renouvelables/hydraulique;Les hydroliennes, l'eolien sous-marin;les-hydroliennes-l-eolien-sous-marin;3;non;planned
+energie;energie/energies-renouvelables/hydraulique;Les hydroliennes et l'énergie des marées;les-hydroliennes-l-eolien-sous-marin;3;non;published
 energie;energie/energies-renouvelables/hydraulique;Le barrage des Trois-Gorges, le plus grand du monde;le-barrage-des-trois-gorges-le-plus-grand-du-monde;3;non;planned
 energie;energie/energies-renouvelables/hydraulique;L'impact environnemental des grands barrages;l-impact-environnemental-des-grands-barrages;2;non;planned
 energie;energie/energies-renouvelables/hydraulique;Le deplacement de populations lie a la construction de barrages;le-deplacement-de-populations-lie-a-la-construction-de-barrages;3;non;planned
@@ -3864,7 +3864,7 @@ energie;energie/reseaux-et-stockage/batteries;La batterie au nickel-cadmium et s
 energie;energie/reseaux-et-stockage/batteries;Le fonctionnement precis d'une batterie lithium-ion;le-fonctionnement-precis-d-une-batterie-lithium-ion;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Les batteries sodium-ion, une alternative prometteuse;les-batteries-sodium-ion-une-alternative-prometteuse;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le recyclage des batteries lithium-ion;le-recyclage-des-batteries-lithium-ion;2;oui;planned
-energie;energie/reseaux-et-stockage/batteries;Pourquoi une batterie s'use avec le temps;pourquoi-une-batterie-s-use-avec-le-temps;2;oui;planned
+energie;energie/reseaux-et-stockage/batteries;Pourquoi une batterie s'use avec le temps;pourquoi-une-batterie-s-use-avec-le-temps;2;oui;published
 energie;energie/reseaux-et-stockage/batteries;Le lithium, une ressource strategique mondiale;le-lithium-une-ressource-strategique-mondiale;2;oui;planned
 energie;energie/reseaux-et-stockage/batteries;L'extraction du lithium et ses methodes;l-extraction-du-lithium-et-ses-methodes;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le cobalt dans les batteries et les enjeux ethiques de son extraction;le-cobalt-dans-les-batteries-et-les-enjeux-ethiques-de-son-extraction;2;non;planned
@@ -3880,13 +3880,13 @@ energie;energie/reseaux-et-stockage/batteries;La fabrication d'une batterie a pa
 energie;energie/reseaux-et-stockage/batteries;Les batteries zinc-air, une chimie alternative;les-batteries-zinc-air-une-chimie-alternative;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le cout de production des batteries et son evolution;le-cout-de-production-des-batteries-et-son-evolution;2;oui;planned
 energie;energie/reseaux-et-stockage/batteries;Le stockage d'energie par volant d'inertie;le-stockage-d-energie-par-volant-d-inertie;3;non;planned
-energie;energie/reseaux-et-stockage/batteries;La chimie LFP (lithium-fer-phosphate), plus stable et moins chere;la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere;3;non;planned
+energie;energie/reseaux-et-stockage/batteries;La chimie LFP (lithium-fer-phosphate), plus stable et moins chère;la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere;3;non;published
 energie;energie/reseaux-et-stockage/batteries;Le transport et le stockage securise des batteries au lithium;le-transport-et-le-stockage-securise-des-batteries-au-lithium;2;oui;planned
 energie;energie/reseaux-et-stockage/batteries;La capacite de decharge rapide d'une batterie;la-capacite-de-decharge-rapide-d-une-batterie;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le marche mondial des batteries et sa croissance;le-marche-mondial-des-batteries-et-sa-croissance;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;Les batteries utilisees dans les appareils medicaux implantes;les-batteries-utilisees-dans-les-appareils-medicaux-implantes;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;La chimie des piles alcalines du quotidien;la-chimie-des-piles-alcalines-du-quotidien;3;non;planned
-energie;energie/reseaux-et-stockage/hydrogene;La molecule d'hydrogene et ses proprietes energetiques;la-molecule-d-hydrogene-et-ses-proprietes-energetiques;2;oui;planned
+energie;energie/reseaux-et-stockage/hydrogene;La molécule d'hydrogène et ses propriétés énergétiques;la-molecule-d-hydrogene-et-ses-proprietes-energetiques;2;oui;published
 energie;energie/reseaux-et-stockage/hydrogene;L'electrolyse de l'eau, produire de l'hydrogene;l-electrolyse-de-l-eau-produire-de-l-hydrogene;2;oui;planned
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogene gris, produit a partir de gaz naturel;l-hydrogene-gris-produit-a-partir-de-gaz-naturel;2;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;L'hydrogene bleu, une etape intermediaire;l-hydrogene-bleu-une-etape-intermediaire;3;non;planned
@@ -4000,7 +4000,7 @@ environnement;environnement-et-climat/biodiversite/forets-et-oceans;La foret ama
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;La gestion durable des forets, principes de base;la-gestion-durable-des-forets-principes-de-base;2;oui;planned
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;Le reboisement, methodes et limites;le-reboisement-methodes-et-limites;2;oui;planned
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;Les forets primaires contre les forets secondaires;les-forets-primaires-contre-les-forets-secondaires;2;non;planned
-environnement;environnement-et-climat/biodiversite/forets-et-oceans;L'agroforesterie, combiner arbres et cultures;l-agroforesterie-combiner-arbres-et-cultures;2;oui;planned
+environnement;environnement-et-climat/biodiversite/forets-et-oceans;L'agroforesterie, combiner arbres et cultures;l-agroforesterie-combiner-arbres-et-cultures;2;oui;published
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;Les incendies de foret et leur role ecologique naturel;les-incendies-de-foret-et-leur-role-ecologique-naturel;2;non;planned
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;Comment lutte-t-on contre un feu de forêt ?;comment-lutte-t-on-contre-un-feu-de-foret;2;oui;published
 environnement;environnement-et-climat/biodiversite/forets-et-oceans;Le bois de chauffage et la pression sur les forets locales;le-bois-de-chauffage-et-la-pression-sur-les-forets-locales;2;oui;planned
@@ -4178,7 +4178,7 @@ environnement;environnement-et-climat/pollution-et-ressources/eau;La securite de
 environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;Les principales sources de pollution de l'air;les-principales-sources-de-pollution-de-l-air;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;Les particules fines PM2,5 et leurs effets sur la sante;les-particules-fines-pm2-5-et-leurs-effets-sur-la-sante;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;La pollution de l'air liee au chauffage domestique;la-pollution-de-l-air-liee-au-chauffage-domestique;2;oui;planned
-environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;La pollution de l'air interieur, un risque meconnu;la-pollution-de-l-air-interieur-un-risque-meconnu;2;oui;planned
+environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;La pollution de l'air intérieur, un risque méconnu;la-pollution-de-l-air-interieur-un-risque-meconnu;2;oui;published
 environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;Aerer son logement, un geste simple et efficace;aerer-son-logement-un-geste-simple-et-efficace;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;L'ozone de basse altitude, un polluant secondaire;l-ozone-de-basse-altitude-un-polluant-secondaire;2;oui;planned
 environnement;environnement-et-climat/pollution-et-ressources/qualite-de-l-air;Les pluies acides, mecanisme et consequences;les-pluies-acides-mecanisme-et-consequences;2;non;planned
@@ -4256,7 +4256,7 @@ espace;espace-et-astronomie/astrophysique/etoiles;Les supernovas de type Ia comm
 espace;espace-et-astronomie/astrophysique/etoiles;La nucleosynthese stellaire, l'origine des elements chimiques;la-nucleosynthese-stellaire-l-origine-des-elements-chimiques;2;non;planned
 espace;espace-et-astronomie/astrophysique/etoiles;Les nebuleuses, berceaux et tombeaux des etoiles;les-nebuleuses-berceaux-et-tombeaux-des-etoiles;3;non;planned
 espace;espace-et-astronomie/astrophysique/etoiles;Se reperer dans le ciel nocturne sans instrument;se-reperer-dans-le-ciel-nocturne-sans-instrument;2;oui;planned
-espace;espace-et-astronomie/astrophysique/etoiles;L'etoile polaire et son role dans l'orientation;l-etoile-polaire-et-son-role-dans-l-orientation;2;oui;planned
+espace;espace-et-astronomie/astrophysique/etoiles;L'étoile Polaire et l'orientation sans boussole;l-etoile-polaire-et-son-role-dans-l-orientation;2;oui;published
 espace;espace-et-astronomie/astrophysique/etoiles;Les constellations, un decoupage culturel du ciel;les-constellations-un-decoupage-culturel-du-ciel;2;oui;planned
 espace;espace-et-astronomie/astrophysique/etoiles;La couleur des etoiles et ce qu'elle revele;la-couleur-des-etoiles-et-ce-qu-elle-revele;2;non;planned
 espace;espace-et-astronomie/astrophysique/etoiles;La luminosite apparente contre la luminosite reelle d'une etoile;la-luminosite-apparente-contre-la-luminosite-reelle-d-une-etoile;3;non;planned
@@ -4631,7 +4631,7 @@ geographie;geographie-et-territoires/geographie-physique/climatologie;Comment un
 geographie;geographie-et-territoires/geographie-physique/climatologie;Se proteger d'un cyclone, gestes essentiels;se-proteger-d-un-cyclone-gestes-essentiels;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/climatologie;Les microclimats, quand la geographie locale change tout;les-microclimats-quand-la-geographie-locale-change-tout;2;non;planned
 geographie;geographie-et-territoires/geographie-physique/climatologie;Prevoir le temps sans instrument, methodes traditionnelles;prevoir-le-temps-sans-instrument-methodes-traditionnelles;2;oui;planned
-geographie;geographie-et-territoires/geographie-physique/climatologie;Les nuages et ce qu'ils annoncent;les-nuages-et-ce-qu-ils-annoncent;2;oui;planned
+geographie;geographie-et-territoires/geographie-physique/climatologie;Les nuages et ce qu'ils annoncent;les-nuages-et-ce-qu-ils-annoncent;2;oui;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Pourquoi la pression de l'air annonce-t-elle la pluie ou le beau temps ?;pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps;2;oui;published
 geographie;geographie-et-territoires/geographie-physique/climatologie;Les vents dominants et leur influence sur le climat;les-vents-dominants-et-leur-influence-sur-le-climat;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/climatologie;Les alizes et leur role dans la navigation historique;les-alizes-et-leur-role-dans-la-navigation-historique;2;oui;planned
@@ -4689,7 +4689,7 @@ geographie;geographie-et-territoires/geographie-physique/reliefs;Les canyons et 
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les deserts, formation et diversite des paysages;les-deserts-formation-et-diversite-des-paysages;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les plaines et leur importance agricole;les-plaines-et-leur-importance-agricole;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les deltas, un relief forme par les sediments fluviaux;les-deltas-un-relief-forme-par-les-sediments-fluviaux;2;non;planned
-geographie;geographie-et-territoires/geographie-physique/reliefs;Lire une carte topographique, principes de base;lire-une-carte-topographique-principes-de-base;2;oui;planned
+geographie;geographie-et-territoires/geographie-physique/reliefs;Lire une carte topographique et utiliser une boussole;lire-une-carte-topographique-principes-de-base;2;oui;published
 geographie;geographie-et-territoires/geographie-physique/reliefs;L'orientation grace au relief environnant;l-orientation-grace-au-relief-environnant;2;oui;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Les glaciers et leur role dans le facconnage des paysages;les-glaciers-et-leur-role-dans-le-facconnage-des-paysages;2;non;planned
 geographie;geographie-et-territoires/geographie-physique/reliefs;Le recul des glaciers et ses consequences;le-recul-des-glaciers-et-ses-consequences;2;non;planned
@@ -4857,7 +4857,7 @@ industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numerique dans 
 industries;industries/industrie-4-0/jumeaux-numeriques;L'histoire de la premiere maquette numerique industrielle;l-histoire-de-la-premiere-maquette-numerique-industrielle;3;non;planned
 industries;industries/industrie-4-0/jumeaux-numeriques;Le jumeau numerique et la transition energetique des batiments;le-jumeau-numerique-et-la-transition-energetique-des-batiments;3;non;planned
 industries;industries/industrie-4-0/jumeaux-numeriques;Les competences necessaires pour concevoir un jumeau numerique;les-competences-necessaires-pour-concevoir-un-jumeau-numerique;3;non;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication traditionnelle du savon;la-fabrication-traditionnelle-du-savon;2;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication traditionnelle du savon;la-fabrication-traditionnelle-du-savon;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;Comment fabrique-t-on des engrais avec l'azote de l'air ?;comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'acide sulfurique;la-fabrication-de-l-acide-sulfurique;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La soude caustique, fabrication et usages;la-soude-caustique-fabrication-et-usages;2;oui;planned
@@ -4875,7 +4875,7 @@ industries;industries/industrie-lourde/chimie-industrielle;La fabrication artisa
 industries;industries/industrie-lourde/chimie-industrielle;Les engrais chimiques, types et fabrication;les-engrais-chimiques-types-et-fabrication;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La chimie des explosifs industriels;la-chimie-des-explosifs-industriels;3;non;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication industrielle des colorants;la-fabrication-industrielle-des-colorants;3;non;planned
-industries;industries/industrie-lourde/chimie-industrielle;Les catalyseurs, accelerer une reaction chimique;les-catalyseurs-accelerer-une-reaction-chimique;2;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;Les catalyseurs, accélérer une réaction chimique;les-catalyseurs-accelerer-une-reaction-chimique;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;La chimie du chlore et ses usages industriels;la-chimie-du-chlore-et-ses-usages-industriels;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'acide chlorhydrique;la-fabrication-de-l-acide-chlorhydrique;3;non;planned
 industries;industries/industrie-lourde/chimie-industrielle;La securite dans les usines chimiques;la-securite-dans-les-usines-chimiques;2;oui;planned
@@ -5292,7 +5292,7 @@ informatique;micro-informatique-et-informatique/materiel/processeurs;Les process
 informatique;micro-informatique-et-informatique/materiel/processeurs;La consommation energetique des processeurs modernes;la-consommation-energetique-des-processeurs-modernes;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Le refroidissement des processeurs;le-refroidissement-des-processeurs;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Les limites physiques de la miniaturisation des puces;les-limites-physiques-de-la-miniaturisation-des-puces;3;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;Les processeurs specialises pour l'intelligence artificielle;les-processeurs-specialises-pour-l-intelligence-artificielle;3;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Les processeurs spécialisés pour l'intelligence artificielle;les-processeurs-specialises-pour-l-intelligence-artificielle;3;non;published
 informatique;micro-informatique-et-informatique/materiel/processeurs;L'histoire du premier microprocesseur commercial;l-histoire-du-premier-microprocesseur-commercial;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Le jeu d'instructions d'un processeur;le-jeu-d-instructions-d-un-processeur;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Les failles de securite materielles des processeurs;les-failles-de-securite-materielles-des-processeurs;3;non;planned
@@ -5838,7 +5838,7 @@ sciences-du-vivant;sciences-du-vivant-appliquees/medecine/imagerie-medicale;La r
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/imagerie-medicale;L'imagerie medicale a faible cout pour les pays en developpement;l-imagerie-medicale-a-faible-cout-pour-les-pays-en-developpement;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Les niveaux de preuve en medecine, une hierarchie essentielle;les-niveaux-de-preuve-en-medecine-une-hierarchie-essentielle;2;oui;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;L'essai clinique randomise, un standard de reference;l-essai-clinique-randomise-un-standard-de-reference;2;oui;planned
-sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Le double aveugle, eliminer les biais d'attente;le-double-aveugle-eliminer-les-biais-d-attente;2;oui;planned
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Le double aveugle, éliminer les biais d'attente;le-double-aveugle-eliminer-les-biais-d-attente;2;oui;published
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Pourquoi un faux médicament peut-il parfois soulager ?;pourquoi-un-faux-medicament-peut-il-parfois-soulager;2;oui;published
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;L'effet nocebo, quand l'attente d'un mal le provoque;l-effet-nocebo-quand-l-attente-d-un-mal-le-provoque;3;non;planned
 sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Les meta-analyses, combiner plusieurs etudes;les-meta-analyses-combiner-plusieurs-etudes;2;oui;planned
@@ -6026,7 +6026,7 @@ sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Les acid
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;La reactivite des metaux, une echelle utile;la-reactivite-des-metaux-une-echelle-utile;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;La corrosion des metaux, mecanisme chimique;la-corrosion-des-metaux-mecanisme-chimique;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;La protection des metaux contre la corrosion;la-protection-des-metaux-contre-la-corrosion;2;oui;planned
-sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;L'eau, une molecule aux proprietes exceptionnelles;l-eau-une-molecule-aux-proprietes-exceptionnelles;2;oui;planned
+sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;L'eau, une molécule aux propriétés exceptionnelles;l-eau-une-molecule-aux-proprietes-exceptionnelles;2;oui;published
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Les sels mineraux et leur role chimique;les-sels-mineraux-et-leur-role-chimique;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;L'oxydation et la reduction, deux faces d'une meme reaction;l-oxydation-et-la-reduction-deux-faces-d-une-meme-reaction;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Les gaz nobles, des elements peu reactifs;les-gaz-nobles-des-elements-peu-reactifs;3;non;planned
@@ -6200,8 +6200,8 @@ sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-stat
 sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;Pascal, Fermat et la naissance du calcul des probabilites;pascal-fermat-et-la-naissance-du-calcul-des-probabilites;2;non;planned
 sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;Les probabilites conditionnelles, quand un evenement en influence un autre;les-probabilites-conditionnelles-quand-un-evenement-en-influence-un-autre;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;Le theoreme de Bayes, mettre a jour ses croyances;le-theoreme-de-bayes-mettre-a-jour-ses-croyances;2;oui;planned
-sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;La loi des grands nombres;la-loi-des-grands-nombres;2;oui;planned
-sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;La moyenne, la mediane et le mode, trois mesures distinctes;la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes;2;oui;planned
+sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;La loi des grands nombres;la-loi-des-grands-nombres;2;oui;published
+sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;La moyenne, la médiane et le mode, trois mesures distinctes;la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes;2;oui;published
 sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;L'ecart-type, mesurer la dispersion des donnees;l-ecart-type-mesurer-la-dispersion-des-donnees;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;La loi normale, une distribution omnipresente;la-loi-normale-une-distribution-omnipresente;2;non;planned
 sciences-fondamentales;sciences-fondamentales/mathematiques/probabilites-et-statistiques;Le theoreme central limite;le-theoreme-central-limite;3;non;planned
@@ -6321,7 +6321,7 @@ sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le premie
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le second principe de la thermodynamique;le-second-principe-de-la-thermodynamique;2;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;L'entropie, mesurer le desordre d'un systeme;l-entropie-mesurer-le-desordre-d-un-systeme;2;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le zero absolu, une limite theorique de temperature;le-zero-absolu-une-limite-theorique-de-temperature;2;non;planned
-sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Les echelles de temperature, Celsius, Fahrenheit et Kelvin;les-echelles-de-temperature-celsius-fahrenheit-et-kelvin;2;oui;planned
+sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Les échelles de température, Celsius, Fahrenheit et Kelvin;les-echelles-de-temperature-celsius-fahrenheit-et-kelvin;2;oui;published
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;La conduction thermique, transmettre la chaleur par contact;la-conduction-thermique-transmettre-la-chaleur-par-contact;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;La convection thermique dans les fluides;la-convection-thermique-dans-les-fluides;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Le rayonnement thermique;le-rayonnement-thermique;2;oui;planned
@@ -6623,7 +6623,7 @@ sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Le b
 sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'aversion a la perte, pourquoi perdre fait plus mal que gagner;l-aversion-a-la-perte-pourquoi-perdre-fait-plus-mal-que-gagner;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'effet de dotation, surevaluer ce que l'on possede deja;l-effet-de-dotation-surevaluer-ce-que-l-on-possede-deja;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Le biais de confirmation au quotidien;le-biais-de-confirmation-au-quotidien;2;oui;planned
-sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'effet Dunning-Kruger, surestimer sa propre competence;l-effet-dunning-kruger-surestimer-sa-propre-competence;2;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'effet Dunning-Kruger, surestimer sa propre compétence;l-effet-dunning-kruger-surestimer-sa-propre-competence;2;oui;published
 sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Pourquoi ne regarder que les réussites nous trompe-t-il ?;pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il;2;oui;published
 sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;L'effet de cadrage sur la prise de decision;l-effet-de-cadrage-sur-la-prise-de-decision;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Le biais de groupe (pensee de groupe);le-biais-de-groupe-pensee-de-groupe;2;non;planned
@@ -7015,7 +7015,7 @@ sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;Le role 
 sport;sport-et-sciences-du-mouvement/sport-et-societe/economie-du-sport;L'economie du sport et les inegalites entre disciplines;l-economie-du-sport-et-les-inegalites-entre-disciplines;3;non;planned
 technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;Les criteres de resistance mecanique d'un materiau;les-criteres-de-resistance-mecanique-d-un-materiau;2;oui;planned
 technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;La durete d'un materiau, mesure et importance;la-durete-d-un-materiau-mesure-et-importance;2;oui;planned
-technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;L'elasticite et la plasticite des materiaux;l-elasticite-et-la-plasticite-des-materiaux;2;oui;planned
+technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;L'élasticité et la plasticité des matériaux;l-elasticite-et-la-plasticite-des-materiaux;2;oui;published
 technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;Pourquoi une pièce de métal peut-elle casser à force d'être secouée ?;pourquoi-une-piece-de-metal-peut-elle-casser-a-force-d-etre-secouee;2;oui;published
 technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;La corrosion, un ennemi silencieux des materiaux;la-corrosion-un-ennemi-silencieux-des-materiaux;2;oui;planned
 technologies;technologies-et-ingenierie/conception-et-fiabilite/choix-des-materiaux;La protection contre la corrosion, methodes pratiques;la-protection-contre-la-corrosion-methodes-pratiques;2;oui;planned
@@ -7127,7 +7127,7 @@ technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;La constructio
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les fortifications historiques, principes d'ingenierie;les-fortifications-historiques-principes-d-ingenierie;2;non;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;La restauration des ouvrages d'art classes au patrimoine;la-restauration-des-ouvrages-d-art-classes-au-patrimoine;3;non;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les ouvrages de franchissement temporaires;les-ouvrages-de-franchissement-temporaires;2;oui;planned
-technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;La construction de puits et de forages;la-construction-de-puits-et-de-forages;2;oui;planned
+technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;La construction de puits et de forages;la-construction-de-puits-et-de-forages;2;oui;published
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;Les infrastructures hydrauliques traditionnelles d'irrigation;les-infrastructures-hydrauliques-traditionnelles-d-irrigation;2;oui;planned
 technologies;technologies-et-ingenierie/genie-civil/ouvrages-dart;L'histoire des grands travaux publics a travers les civilisations;l-histoire-des-grands-travaux-publics-a-travers-les-civilisations;2;non;planned
 technologies;technologies-et-ingenierie/genie-civil/structures;Les forces qui s'exercent sur une structure;les-forces-qui-s-exercent-sur-une-structure;2;oui;planned
@@ -7558,7 +7558,7 @@ alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alime
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Le risque de contamination par les nuisibles dans le stockage alimentaire;le-risque-de-contamination-par-les-nuisibles-dans-le-stockage-alimentaire;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire lors de la cuisson au barbecue;la-securite-alimentaire-lors-de-la-cuisson-au-barbecue;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les regles de securite pour la conservation du lait maternel;les-regles-de-securite-pour-la-conservation-du-lait-maternel;2;oui;planned
-alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire des plantes sauvages comestibles;la-securite-alimentaire-des-plantes-sauvages-comestibles;2;oui;planned
+alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les plantes sauvages comestibles et leurs dangers;la-securite-alimentaire-des-plantes-sauvages-comestibles;2;oui;published
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Le risque de botulisme dans les conserves maison mal preparees;le-risque-de-botulisme-dans-les-conserves-maison-mal-preparees;2;oui;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;La securite alimentaire des produits importes de longue distance;la-securite-alimentaire-des-produits-importes-de-longue-distance;3;non;planned
 alimentation;alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire;Les regles d'hygiene des mains avant et pendant la preparation des repas;les-regles-d-hygiene-des-mains-avant-et-pendant-la-preparation-des-repas;2;oui;planned
@@ -8844,7 +8844,7 @@ corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Les au
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/depistage;Le depistage collectif en milieu scolaire pour certains troubles courants;le-depistage-collectif-en-milieu-scolaire-pour-certains-troubles-courants;3;non;planned
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Le principe fondamental de la vaccination et l'entrainement du systeme immunitaire;le-principe-fondamental-de-la-vaccination-et-l-entrainement-du-systeme-immunitaire;2;oui;planned
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;L'histoire du premier vaccin et la decouverte de la vaccination;l-histoire-du-premier-vaccin-et-la-decouverte-de-la-vaccination;2;oui;planned
-corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Le calendrier vaccinal recommande selon les ages de la vie;le-calendrier-vaccinal-recommande-selon-les-ages-de-la-vie;2;oui;planned
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Le calendrier vaccinal recommandé selon les âges de la vie;le-calendrier-vaccinal-recommande-selon-les-ages-de-la-vie;2;oui;published
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;L'immunite collective et son role dans la protection des personnes non vaccinees;l-immunite-collective-et-son-role-dans-la-protection-des-personnes-non-vaccinees;2;oui;planned
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Les differents types de vaccins et leurs technologies respectives;les-differents-types-de-vaccins-et-leurs-technologies-respectives;3;non;planned
 corps-humain;corps-humain-et-sante/prevention-et-sante-publique/vaccination;Les effets secondaires courants et rares de la vaccination;les-effets-secondaires-courants-et-rares-de-la-vaccination;3;non;planned
@@ -9780,7 +9780,7 @@ espace;espace-et-astronomie/systeme-solaire/planetes;Le role de la gravite diffe
 espace;espace-et-astronomie/systeme-solaire/planetes;Les planetes du systeme solaire et la question de leur habitabilite potentielle;les-planetes-du-systeme-solaire-et-la-question-de-leur-habitabilite-potentielle;2;oui;planned
 espace;espace-et-astronomie/systeme-solaire/planetes;Le role des sondes en orbite dans l'etude a long terme des planetes du systeme solaire;le-role-des-sondes-en-orbite-dans-l-etude-a-long-terme-des-planetes-du-systeme-solaire;3;non;planned
 espace;espace-et-astronomie/systeme-solaire/planetes;La comparaison entre les planetes du systeme solaire et les exoplanetes decouvertes ailleurs;la-comparaison-entre-les-planetes-du-systeme-solaire-et-les-exoplanetes-decouvertes-ailleurs;3;non;planned
-geographie;geographie-et-territoires/geographie-humaine/demographie;La transition demographique et ses differentes etapes;la-transition-demographique-et-ses-differentes-etapes;2;oui;planned
+geographie;geographie-et-territoires/geographie-humaine/demographie;La transition démographique et ses différentes étapes;la-transition-demographique-et-ses-differentes-etapes;2;oui;published
 geographie;geographie-et-territoires/geographie-humaine/demographie;Le vieillissement de la population dans les pays developpes;le-vieillissement-de-la-population-dans-les-pays-developpes;2;oui;planned
 geographie;geographie-et-territoires/geographie-humaine/demographie;La piramide des ages et ce qu'elle revele sur une population;la-piramide-des-ages-et-ce-qu-elle-revele-sur-une-population;2;oui;planned
 geographie;geographie-et-territoires/geographie-humaine/demographie;Les taux de natalite et de fecondite et leurs variations mondiales;les-taux-de-natalite-et-de-fecondite-et-leurs-variations-mondiales;2;oui;planned
@@ -10245,7 +10245,7 @@ informatique;micro-informatique-et-informatique/logiciel/programmation;Les boucl
 informatique;micro-informatique-et-informatique/logiciel/programmation;Le role des fonctions dans l'organisation et la reutilisation du code;le-role-des-fonctions-dans-l-organisation-et-la-reutilisation-du-code;2;oui;planned
 informatique;micro-informatique-et-informatique/logiciel/programmation;La programmation orientee objet et le principe des classes et des instances;la-programmation-orientee-objet-et-le-principe-des-classes-et-des-instances;2;oui;planned
 informatique;micro-informatique-et-informatique/logiciel/programmation;Le role du debogage dans la correction des erreurs d'un programme;le-role-du-debogage-dans-la-correction-des-erreurs-d-un-programme;2;oui;planned
-informatique;micro-informatique-et-informatique/logiciel/programmation;Les langages de programmation compiles et interpretes, une distinction fondamentale;les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale;2;oui;planned
+informatique;micro-informatique-et-informatique/logiciel/programmation;Les langages de programmation compilés et interprétés, une distinction fondamentale;les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale;2;oui;published
 informatique;micro-informatique-et-informatique/logiciel/programmation;Le role des tests automatises dans la fiabilite d'un logiciel;le-role-des-tests-automatises-dans-la-fiabilite-d-un-logiciel;2;oui;planned
 informatique;micro-informatique-et-informatique/logiciel/programmation;La gestion des erreurs et des exceptions dans un programme informatique;la-gestion-des-erreurs-et-des-exceptions-dans-un-programme-informatique;3;non;planned
 informatique;micro-informatique-et-informatique/logiciel/programmation;Le role de la documentation dans la comprehension et la maintenance d'un code;le-role-de-la-documentation-dans-la-comprehension-et-la-maintenance-d-un-code;2;oui;planned
@@ -10273,7 +10273,7 @@ informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation
 informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Les systemes d'exploitation embarques et leurs usages specifiques dans les appareils du quotidien;les-systemes-d-exploitation-embarques-et-leurs-usages-specifiques-dans-les-appareils-du-quotidien;3;non;planned
 informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Le role de la gestion des permissions dans la securite d'un systeme d'exploitation;le-role-de-la-gestion-des-permissions-dans-la-securite-d-un-systeme-d-exploitation;2;oui;planned
 informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Les systemes d'exploitation en temps reel et leurs contraintes particulieres;les-systemes-d-exploitation-en-temps-reel-et-leurs-contraintes-particulieres;3;non;planned
-informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Le role du noyau dans l'architecture d'un systeme d'exploitation;le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation;2;oui;planned
+informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Le rôle du noyau dans l'architecture d'un système d'exploitation;le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation;2;oui;published
 informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Les systemes d'exploitation mobiles et leurs specificites par rapport aux systemes de bureau;les-systemes-d-exploitation-mobiles-et-leurs-specificites-par-rapport-aux-systemes-de-bureau;2;oui;planned
 informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Le role de la ligne de commande dans l'interaction directe avec un systeme d'exploitation;le-role-de-la-ligne-de-commande-dans-l-interaction-directe-avec-un-systeme-d-exploitation;3;non;planned
 informatique;micro-informatique-et-informatique/logiciel/systemes-d-exploitation;Les systemes d'exploitation distribues et leur fonctionnement sur plusieurs machines connectees;les-systemes-d-exploitation-distribues-et-leur-fonctionnement-sur-plusieurs-machines-connectees;3;non;planned
@@ -11033,7 +11033,7 @@ sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Les equ
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Le role du spectre electromagnetique dans la classification des differentes ondes;le-role-du-spectre-electromagnetique-dans-la-classification-des-differentes-ondes;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Les generateurs electriques et le principe de conversion de l'energie mecanique en electricite;les-generateurs-electriques-et-le-principe-de-conversion-de-l-energie-mecanique-en-electricite;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Le role du champ magnetique terrestre dans la protection de la planete;le-role-du-champ-magnetique-terrestre-dans-la-protection-de-la-planete;2;oui;planned
-sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Les transformateurs electriques et leur role dans l'ajustement de la tension;les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension;2;oui;planned
+sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Les transformateurs électriques et leur rôle dans l'ajustement de la tension;les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension;2;oui;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Le role de l'electromagnetisme dans le fonctionnement des haut-parleurs;le-role-de-l-electromagnetisme-dans-le-fonctionnement-des-haut-parleurs;3;non;planned
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Les ondes radio et leur role dans les communications sans fil;les-ondes-radio-et-leur-role-dans-les-communications-sans-fil;2;oui;planned
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Le role de la resistance electrique dans le comportement des circuits;le-role-de-la-resistance-electrique-dans-le-comportement-des-circuits;2;oui;planned
@@ -11191,7 +11191,7 @@ sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistrib
 sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le produit interieur brut et son role comme indicateur de l'activite economique;le-produit-interieur-brut-et-son-role-comme-indicateur-de-l-activite-economique;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le role de l'inflation dans l'evolution du pouvoir d'achat des menages;le-role-de-l-inflation-dans-l-evolution-du-pouvoir-d-achat-des-menages;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Les politiques monetaires et le role des banques centrales;les-politiques-monetaires-et-le-role-des-banques-centrales;2;oui;planned
-sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le role du chomage comme indicateur macroeconomique majeur;le-role-du-chomage-comme-indicateur-macroeconomique-majeur;2;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le rôle du chômage comme indicateur macroéconomique majeur;le-role-du-chomage-comme-indicateur-macroeconomique-majeur;2;oui;published
 sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Les politiques budgetaires et le role des depenses publiques dans l'economie;les-politiques-budgetaires-et-le-role-des-depenses-publiques-dans-l-economie;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Le role de la balance commerciale dans les echanges economiques internationaux;le-role-de-la-balance-commerciale-dans-les-echanges-economiques-internationaux;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/economie/macroeconomie;Les cycles economiques et l'alternance entre periodes de croissance et de recession;les-cycles-economiques-et-l-alternance-entre-periodes-de-croissance-et-de-recession;2;oui;planned
@@ -11214,7 +11214,7 @@ sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Le princi
 sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Le role de la concurrence entre entreprises dans la fixation des prix;le-role-de-la-concurrence-entre-entreprises-dans-la-fixation-des-prix;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Les choix de consommation et la notion d'utilite en microeconomie;les-choix-de-consommation-et-la-notion-d-utilite-en-microeconomie;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Le role des couts de production dans les decisions des entreprises;le-role-des-couts-de-production-dans-les-decisions-des-entreprises;2;oui;planned
-sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Les monopoles et leur impact sur le fonctionnement d'un marche;les-monopoles-et-leur-impact-sur-le-fonctionnement-d-un-marche;2;oui;planned
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Les monopoles et leur impact sur le fonctionnement d'un marché;les-monopoles-et-leur-impact-sur-le-fonctionnement-d-un-marche;2;oui;published
 sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Le role de l'elasticite des prix dans la reaction des consommateurs a une variation de tarif;le-role-de-l-elasticite-des-prix-dans-la-reaction-des-consommateurs-a-une-variation-de-tarif;2;oui;planned
 sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Pourquoi la pollution d'une usine coûte-t-elle aussi à ses voisins ?;pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins;2;oui;published
 sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Le role des couts marginaux dans les decisions de production a court terme;le-role-des-couts-marginaux-dans-les-decisions-de-production-a-court-terme;3;non;planned
@@ -11505,7 +11505,7 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-muscula
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Le rôle de l'altitude dans les adaptations energetiques musculaires du sportif;le-role-de-l-altitude-dans-les-adaptations-energetiques-musculaires-du-sportif;3;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;L'energetique musculaire et les differences observees entre hommes et femmes;l-energetique-musculaire-et-les-differences-observees-entre-hommes-et-femmes;3;non;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire;Le rôle du systeme nerveux dans le controle et la coordination de la contraction musculaire;le-role-du-systeme-nerveux-dans-le-controle-et-la-coordination-de-la-contraction-musculaire;2;oui;planned
-sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le principe de surcharge progressive dans la planification d'un entrainement sportif;le-principe-de-surcharge-progressive-dans-la-planification-d-un-entrainement-sportif;2;oui;planned
+sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le principe de surcharge progressive dans la planification d'un entraînement sportif;le-principe-de-surcharge-progressive-dans-la-planification-d-un-entrainement-sportif;2;oui;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le rôle de la periodisation dans l'organisation d'une saison sportive complete;le-role-de-la-periodisation-dans-l-organisation-d-une-saison-sportive-complete;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;L'entrainement en force et ses principes fondamentaux pour ameliorer la puissance musculaire;l-entrainement-en-force-et-ses-principes-fondamentaux-pour-ameliorer-la-puissance-musculaire;2;oui;planned
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Le rôle de la specificite dans la conception d'un programme d'entrainement sportif;le-role-de-la-specificite-dans-la-conception-d-un-programme-d-entrainement-sportif;2;oui;planned
@@ -12096,3 +12096,58 @@ sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Pourquo
 geographie;geographie-et-territoires/geographie-physique/climatologie;Comment naît un éclair pendant un orage ?;comment-nait-un-eclair-pendant-un-orage;2;non;published
 sciences-fondamentales;sciences-fondamentales/physique/mecanique;Quelles sont les trois lois de Newton qui régissent tout mouvement ?;quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement;2;non;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Comment un four à micro-ondes chauffe-t-il les aliments ?;comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments;2;non;published
+energie;energie/energies-fossiles-et-nucleaire/charbon;La machine à vapeur;machine-vapeur;;non;published
+energie;energie/energies-renouvelables/eolien;Les moulins à vent;moulins-vent;;non;published
+energie;energie/energies-fossiles-et-nucleaire/charbon;Le charbon de bois;charbon-bois;;non;published
+energie;energie/energies-fossiles-et-nucleaire/hydrocarbures;Le biogaz, du gaz sans gisement;biogaz-gaz-sans-gisement;;non;published
+environnement;environnement-et-climat/biodiversite/ecosystemes;Les haies et le bocage;haies-bocage;;non;published
+environnement;environnement-et-climat/biodiversite/forets-et-oceans;Gérer durablement une forêt;gerer-durablement-foret;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;La découverte de la pénicilline;decouverte-penicilline;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;De l'écorce de saule à l'aspirine;ecorce-saule-aspirine;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Semmelweis et le lavage des mains;semmelweis-lavage-mains;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;James Lind et le scorbut;james-lind-scorbut;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/selection-vegetale;Le greffage;greffage;;non;published
+technologies;technologies-et-ingenierie/genie-civil/structures;Le levier, la poulie et le plan incliné;levier-poulie-plan-incline;;non;published
+technologies;technologies-et-ingenierie/genie-civil/structures;L'arc et la voûte;arc-voute;;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;ASML et la lithographie extrême ultraviolet;asml-lithographie-euv;;non;published
+energie;energie/energies-renouvelables;Capter, transformer et stocker l'énergie de la nature;capter-transformer-stocker-energie-naturelle;;non;published
+energie;energie/energies-renouvelables;La géothermie, la chaleur de la Terre;geothermie-chaleur-de-la-terre;;non;published
+energie;energie/energies-renouvelables/solaire;L'installation solaire autonome, panneaux, régulateur, batteries et onduleur;installation-solaire-autonome;;non;published
+energie;energie/efficacite-et-sobriete/usages-et-consommation;La maison autonome, vivre sans dépendre des réseaux;maison-autonome-independante;;non;published
+environnement;environnement-et-climat/pollution-et-ressources/eau;L'assainissement autonome et les toilettes sèches;assainissement-autonome-toilettes-seches;;non;published
+automobile;automobile/motorisations/thermique;La voiture thermique de A à Z, essence ou diesel;voiture-thermique-chaine-complete;;non;published
+automobile;automobile/motorisations/thermique;L'alimentation en carburant et l'injection;alimentation-carburant-injection;;non;published
+automobile;automobile/motorisations/thermique;La vanne EGR, recycler les gaz d'échappement;vanne-egr-recirculation-gaz-echappement;;non;published
+automobile;automobile/motorisations/thermique;L'admission d'air, du filtre à l'intercooler;intercooler-circuit-admission;;non;published
+automobile;automobile/motorisations/thermique;L'embrayage et le volant moteur bimasse;embrayage-volant-moteur-bimasse;;non;published
+automobile;automobile/motorisations/thermique;La boîte de transfert et les 4x4;boite-de-transfert-4x4;;non;published
+automobile;automobile/usages-et-mobilite/entretien-et-cycle-de-vie;Le train roulant, triangles, rotules et silentblocs;train-roulant-rotules-silentblocs;;non;published
+automobile;automobile/usages-et-mobilite/entretien-et-cycle-de-vie;Batterie, démarreur et alternateur, le circuit électrique d'une voiture;circuit-electrique-12v-batterie-alternateur-demarreur;;non;published
+automobile;automobile/motorisations/thermique;Le calculateur moteur et ses capteurs;calculateur-moteur-capteurs;;non;published
+automobile;automobile/motorisations/thermique;Les pompes d'une voiture thermique;pompes-voiture-thermique;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Tenir son budget personnel;tenir-son-budget-personnel;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Les intérêts composés;interets-composes;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;L'épargne de précaution;epargne-de-precaution;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Investir sur le long terme et diversifier;investir-long-terme-diversification;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Négocier efficacement;negocier-efficacement;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Former de bonnes habitudes;former-de-bonnes-habitudes;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Gérer son temps et ses priorités;gerer-son-temps-priorites;;non;published
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique;Les priorités de survie, la règle des trois;regle-des-trois-priorites-survie;;non;published
+corps-humain;corps-humain-et-sante/prevention-et-sante-publique;Le kit d'urgence pour tenir 72 heures;kit-urgence-72-heures;;non;published
+alimentation;alimentation-et-nutrition/nutriments/eau-et-hydratation;Purifier l'eau en situation d'urgence;purifier-eau-situation-urgence;;non;published
+sciences-fondamentales;sciences-fondamentales/chimie;Allumer et entretenir un feu;allumer-entretenir-feu;;non;published
+corps-humain;corps-humain-et-sante/physiologie;Hypothermie et coup de chaleur;hypothermie-coup-de-chaleur;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Parler en public sans paniquer;prise-de-parole-en-public;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;L'écoute active et la communication bienveillante;ecoute-active-communication;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;Réussir un entretien d'embauche;reussir-entretien-embauche;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/education-et-mobilite;Construire son réseau professionnel;construire-son-reseau-professionnel;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/biais-cognitifs;Prendre de meilleures décisions;prendre-de-meilleures-decisions;;non;published
+energie;energie/energies-renouvelables/solaire;Le four et le chauffe-eau solaires;four-chauffe-eau-solaires;;non;published
+energie;energie/energies-renouvelables/eolien;Construire une petite éolienne;construire-petite-eolienne;;non;published
+environnement;environnement-et-climat/changement-climatique/impacts-et-adaptation;Se protéger des inondations;proteger-inondations;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/imagerie-medicale;Examiner un patient sans machine;examiner-patient-sans-machine;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;Les plantes médicinales, ce qui est prouvé;plantes-medicinales-prouve;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese;La fermentation, une biotechnologie ancienne;fermentation-biotechnologie-ancienne;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/selection-vegetale;Produire et conserver ses semences;produire-conserver-semences;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/selection-vegetale;Les plantes les plus nourrissantes;plantes-nourrissantes;;non;published
+technologies;technologies-et-ingenierie/genie-civil/structures;La charpente en bois;charpente-bois;;non;published
