@@ -9,8 +9,8 @@ droit et institutions, géographie, arts et culture, communication et médias, s
 au public curieux à partir de dix ans. Chaque article est rédigé de manière originale,
 cite ses sources et indique la date de leur dernière vérification.
 
-État du corpus au 7 novembre 2026 : 299 catégories sur trois niveaux, 968 articles publiés dans
-les dix-neuf domaines, 2 492 sources citées et 2 862 questions de quiz. S'y ajoutent 11 580 sujets
+État du corpus au 7 novembre 2026 : 299 catégories sur trois niveaux, 983 articles publiés dans
+les dix-neuf domaines, 2 552 sources citées et 2 907 questions de quiz. S'y ajoutent 11 565 sujets
 planifiés, présents dans les fichiers mais non publiés. Les articles visent un lectorat à partir de
 dix ans : chacun s'ouvre sur une section `## En bref`, se ferme sur `## À retenir`, et se termine
 par un quiz de deux à quatre questions.

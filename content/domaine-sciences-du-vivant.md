@@ -1289,16 +1289,128 @@ title: Examiner un patient sans machine
 slug: examiner-patient-sans-machine
 categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
 summary: >
-  Palpation, auscultation, prise du pouls : l'examen clinique qui reste la base du diagnostic.
-tags: [imagerie-medicale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Avant les scanners, les médecins diagnostiquaient avec leurs yeux, leurs mains, leurs oreilles et
+  un stéthoscope. Interroger, observer, palper, percuter et ausculter restent la base de tout
+  diagnostic, et quelques mesures simples révèlent l'urgence.
+tags: [imagerie-medicale]
+relatedArticles: [james-lind-scorbut, semmelweis-lavage-mains, hypothermie-coup-de-chaleur, la-rehydratation-orale-en-cas-de-diarrhee-severe]
+sources:
+  - title: "Examen clinique"
+    url: "https://fr.wikipedia.org/wiki/Examen_clinique"
+    publisher: "Wikipédia"
+  - title: "Stéthoscope"
+    url: "https://fr.wikipedia.org/wiki/St%C3%A9thoscope"
+    publisher: "Wikipédia"
+  - title: "Percussion (medicine)"
+    url: "https://en.wikipedia.org/wiki/Percussion_(medicine)"
+    publisher: "Wikipedia"
+  - title: "Vital signs"
+    url: "https://en.wikipedia.org/wiki/Vital_signs"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui a inventé le stéthoscope, en 1816 ?"
+    options:
+      - "Le médecin français René Laennec"
+      - "Louis Pasteur"
+      - "Hippocrate"
+    answer: 1
+    explanation: >
+      Gêné de poser l'oreille contre la poitrine d'une jeune patiente, Laennec roula un cahier en
+      tube et découvrit qu'il entendait mieux le cœur.
+  - question: "Quelle est la fréquence cardiaque normale d'un adulte au repos ?"
+    options:
+      - "Entre 20 et 40 battements par minute"
+      - "Entre 60 et 100 battements par minute environ"
+      - "Entre 150 et 200 battements par minute"
+    answer: 2
+    explanation: >
+      Un sportif entraîné peut descendre plus bas. Un pouls très rapide ou très lent au repos est
+      un signe d'alerte.
+  - question: "Quelle est la partie la plus importante de l'examen médical ?"
+    options:
+      - "La prise de sang"
+      - "La radiographie"
+      - "L'interrogatoire, qui fait souvent l'essentiel du diagnostic"
+    answer: 3
+    explanation: >
+      Écouter le patient raconter ses symptômes, leur début et leur évolution oriente la plupart
+      des diagnostics avant tout examen.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Un bon diagnostic commence rarement par une machine. Pendant des siècles, et encore aujourd'hui dans
+une grande partie du monde, les médecins ont diagnostiqué grâce à l'**examen clinique** : écouter le
+patient, l'**observer**, le **palper**, le **percuter** et l'**ausculter**. Quelques mesures simples,
+le **pouls**, la **respiration**, la **température**, l'état de conscience, permettent de repérer une
+urgence. Ces gestes ne remplacent pas un médecin, mais ils sont la base de toute médecine, et chacun
+peut apprendre à reconnaître les signes de gravité.
+
+## L'interrogatoire
+
+C'est la partie la plus importante. On demande au patient :
+
+- ce qu'il ressent, **depuis quand**, comment c'est arrivé ;
+- où se situe la douleur, à quoi elle ressemble, ce qui l'aggrave ou la soulage ;
+- ses antécédents, ses traitements, ses allergies ;
+- s'il a de la fièvre, des vomissements, une perte de poids, un essoufflement.
+
+Les médecins estiment souvent que l'interrogatoire oriente la majorité des diagnostics avant même
+l'examen du corps.
+
+## Observer, palper, percuter, écouter
+
+- **L'inspection** : teint pâle, bleuté ou jaune, sueurs, gêne pour respirer, posture, plaies,
+  gonflements, éruption.
+- **La palpation** : avec les mains, on recherche une zone douloureuse, un ventre dur, une masse, des
+  ganglions, une peau chaude.
+- **La percussion** : décrite par le médecin autrichien Leopold Auenbrugger en 1761. En tapotant le
+  thorax ou le ventre, on entend un son creux sur l'air, mat sur un liquide ou un organe plein.
+- **L'auscultation** : en 1816, le Français **René Laennec** invente le **stéthoscope**. Il permet
+  d'écouter le cœur, les poumons et l'intestin et de reconnaître de nombreuses maladies.
+
+[Emplacement image : les gestes de l'examen clinique, inspection, palpation, percussion et auscultation, légende et texte alternatif à fournir ultérieurement.]
+
+## Les signes vitaux
+
+On les mesure avec une montre et un thermomètre.
+
+| Signe | Comment | Valeurs habituelles chez l'adulte au repos |
+| --- | --- | --- |
+| Pouls | Deux doigts sur le poignet ou le cou, compter 30 secondes et multiplier par 2 | Environ 60 à 100 battements par minute |
+| Respiration | Compter les mouvements du thorax pendant une minute, sans prévenir | Environ 12 à 20 par minute |
+| Température | Thermomètre | Environ 36,5 à 37,5 °C |
+| Recoloration | Appuyer cinq secondes sur un ongle, relâcher | Couleur revenue en moins de 2 à 3 secondes |
+| Conscience | La personne est-elle éveillée, répond-elle, réagit-elle à la douleur ? | Éveillée et orientée |
+
+Les valeurs normales sont différentes chez l'enfant, plus rapides chez le nourrisson.
+
+## Les signes d'alerte
+
+On appelle immédiatement les secours, au 15 ou au 112, devant :
+
+- une **difficulté à respirer**, des lèvres bleues ;
+- une **douleur dans la poitrine** qui serre ou irradie ;
+- une **perte de conscience**, une confusion soudaine, une paralysie ou une déformation du visage ;
+- un **saignement abondant** ;
+- une respiration très rapide, un pouls très rapide ou très lent, une peau froide et marbrée ;
+- une fièvre élevée avec raideur de la nuque ou taches qui ne s'effacent pas à la pression.
+
+## Le rôle des machines
+
+Les examens complémentaires, prises de sang, radiographies, échographies, scanners, confirment et
+précisent le diagnostic. Mais ils sont choisis en fonction de l'examen clinique : sans lui, on ne sait
+pas quoi chercher.
+
+## À retenir
+
+- L'interrogatoire du patient oriente la plupart des diagnostics.
+- L'examen clinique combine inspection, palpation, percussion et auscultation.
+- René Laennec a inventé le stéthoscope en 1816.
+- Pouls, respiration, température, recoloration et conscience se mesurent sans appareil complexe.
+- Gêne respiratoire, douleur thoracique, confusion ou saignement abondant imposent d'appeler le 15 ou le 112.
 
 ---
 type: article
@@ -1664,16 +1776,125 @@ title: Les plantes médicinales, ce qui est prouvé
 slug: plantes-medicinales-prouve
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Quelques plantes ont une efficacité démontrée, beaucoup d'autres non : faire le tri.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  De nombreux médicaments majeurs viennent des plantes : aspirine, morphine, quinine, digoxine,
+  artémisinine. Mais beaucoup de remèdes à base de plantes n'ont jamais montré d'efficacité, et
+  certains sont dangereux. Faire le tri demande de la méthode.
+tags: [pharmacologie]
+relatedArticles: [ecorce-saule-aspirine, decouverte-penicilline, james-lind-scorbut, la-securite-alimentaire-des-plantes-sauvages-comestibles]
+sources:
+  - title: "Phytothérapie"
+    url: "https://fr.wikipedia.org/wiki/Phytoth%C3%A9rapie"
+    publisher: "Wikipédia"
+  - title: "Herbal medicine"
+    url: "https://en.wikipedia.org/wiki/Herbal_medicine"
+    publisher: "Wikipedia"
+  - title: "The Nobel Prize in Physiology or Medicine 2015"
+    url: "https://www.nobelprize.org/prizes/medicine/2015/summary/"
+    publisher: "Nobel Prize Outreach"
+  - title: "Millepertuis perforé"
+    url: "https://fr.wikipedia.org/wiki/Millepertuis_perfor%C3%A9"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel médicament contre le paludisme a été découvert grâce à une plante de la médecine traditionnelle chinoise ?"
+    options:
+      - "L'artémisinine, tirée de l'armoise annuelle"
+      - "La pénicilline"
+      - "L'insuline"
+    answer: 1
+    explanation: >
+      La chercheuse chinoise Tu Youyou l'a isolée dans les années 1970 et a reçu le prix Nobel de
+      médecine en 2015.
+  - question: "Pourquoi le millepertuis peut-il être dangereux ?"
+    options:
+      - "Parce qu'il est radioactif"
+      - "Parce qu'il réduit l'efficacité de nombreux médicaments, dont la pilule contraceptive"
+      - "Parce qu'il provoque une addiction"
+    answer: 2
+    explanation: >
+      Il accélère l'élimination de nombreux médicaments par le foie. Il faut toujours signaler la
+      prise de plantes à son médecin ou à son pharmacien.
+  - question: "Pourquoi « naturel » ne veut-il pas dire « sans danger » ?"
+    options:
+      - "Parce que les plantes sont toujours cultivées avec des pesticides"
+      - "Parce que tout ce qui est naturel est toxique"
+      - "Parce que les plantes contiennent des substances actives, parfois très toxiques, en quantités variables"
+    answer: 3
+    explanation: >
+      La digitale, la ciguë ou l'aconit sont naturelles et mortelles. Et la dose d'une tisane varie
+      d'une préparation à l'autre.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Les plantes ont donné à la médecine certains de ses plus grands médicaments : l'**aspirine** vient du
+saule, la **morphine** du pavot, la **quinine** de l'écorce de quinquina, la **digoxine** de la
+digitale, l'**artémisinine** de l'armoise annuelle. Mais pour un remède qui a fait ses preuves, des
+centaines n'ont jamais montré d'efficacité au-delà de l'effet placebo, et certains sont dangereux. Une
+plante n'est ni bonne ni mauvaise parce qu'elle est naturelle : comme pour tout médicament, il faut des
+**preuves**.
+
+## Des plantes devenues médicaments
+
+- **Le saule** : sa salicine a conduit à l'aspirine, en 1897.
+- **Le pavot** : en 1804-1805, le pharmacien allemand Friedrich Sertürner isole la **morphine**, encore
+  l'un des antidouleurs les plus puissants.
+- **Le quinquina** : son écorce, utilisée en Amérique du Sud, soigne le paludisme. En 1820, Pelletier
+  et Caventou en isolent la **quinine**.
+- **La digitale** : en 1785, le médecin anglais William Withering décrit son effet sur l'insuffisance
+  cardiaque. Elle a donné la **digoxine**, à dose très précise, car elle est toxique.
+- **L'armoise annuelle** : dans les années 1970, la chercheuse chinoise **Tu Youyou** retrouve dans un
+  texte ancien une méthode d'extraction à froid et isole l'**artémisinine**, devenue le traitement de
+  référence du paludisme. Elle reçoit le prix Nobel de médecine en 2015.
+- **L'if du Pacifique** : son écorce a donné le **paclitaxel**, un médicament contre plusieurs cancers.
+
+Dans tous ces cas, on a isolé la substance active, vérifié son efficacité par des essais et fixé une
+dose précise.
+
+[Emplacement image : plantes à l'origine de médicaments majeurs, saule, pavot, quinquina, digitale et armoise annuelle, légende et texte alternatif à fournir ultérieurement.]
+
+## Ce que montrent les essais
+
+Pour les plantes utilisées telles quelles, en tisanes, gélules ou extraits, les preuves sont très
+variables :
+
+- **quelques usages ont des preuves raisonnables**, par exemple le gingembre contre certaines nausées,
+  ou l'huile essentielle de menthe poivrée en capsules pour le syndrome de l'intestin irritable ;
+- **beaucoup d'autres ont des résultats contradictoires ou faibles** ;
+- **de nombreuses allégations** ne reposent que sur la tradition ou des témoignages.
+
+Une tradition ancienne est une piste intéressante, pas une preuve. Seuls des essais comparatifs,
+comme celui de James Lind en 1747, permettent de savoir si une plante fait mieux qu'un placebo.
+
+## Les dangers
+
+- **Les plantes toxiques** : digitale, aconit, ciguë, datura sont naturelles et mortelles.
+- **Les interactions** : le **millepertuis**, utilisé contre la déprime légère, accélère l'élimination
+  de nombreux médicaments, pilule contraceptive, anticoagulants, antirétroviraux, et peut les rendre
+  inefficaces.
+- **La dose variable** : la quantité de substance active dans une plante dépend de la variété, du sol,
+  de la récolte et de la préparation.
+- **Les contaminations** : certains produits vendus en ligne contiennent des métaux lourds, des
+  pesticides, ou même des médicaments ajoutés non déclarés.
+- **Le retard de traitement** : remplacer un traitement efficace par une plante, pour une infection ou
+  un cancer, peut coûter la vie.
+
+## Bien utiliser une plante médicinale
+
+1. Demander conseil à un médecin ou à un pharmacien, surtout en cas de grossesse, d'allaitement, de
+   traitement en cours ou pour un enfant.
+2. Préférer les produits contrôlés vendus en pharmacie, avec une composition indiquée.
+3. **Signaler** toute prise de plante à ses soignants.
+4. Ne jamais arrêter un traitement prescrit au profit d'une plante.
+
+## À retenir
+
+- Aspirine, morphine, quinine, digoxine et artémisinine viennent de plantes.
+- Ces médicaments ont été obtenus en isolant la substance active, en la testant et en fixant une dose.
+- Beaucoup de remèdes à base de plantes n'ont pas de preuve solide d'efficacité.
+- « Naturel » ne veut pas dire « sans danger » : toxicité, interactions et doses variables existent.
+- On signale toute prise de plante à son médecin ou à son pharmacien.
 
 ---
 type: article
@@ -2256,16 +2477,125 @@ title: La fermentation, une biotechnologie ancienne
 slug: fermentation-biotechnologie-ancienne
 categoryPath: sciences-du-vivant-appliquees/biotechnologies/biologie-de-synthese
 summary: >
-  Pain, bière, fromage, vinaigre : les micro-organismes au service de l'humanité depuis des millénaires.
-tags: [biologie-de-synthese, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Pain, bière, vin, yaourt, fromage, choucroute, vinaigre : depuis des millénaires, les humains
+  confient à des levures, des bactéries et des moisissures le soin de transformer et de conserver
+  leurs aliments. Pasteur a montré en 1857 que ces fermentations étaient l'œuvre d'êtres vivants.
+tags: [biologie-de-synthese]
+relatedArticles: [la-conservation-des-legumes-par-lactofermentation, la-conservation-par-le-sel-salaisons-et-saumures, biogaz-gaz-sans-gisement, decouverte-penicilline]
+sources:
+  - title: "Fermentation"
+    url: "https://fr.wikipedia.org/wiki/Fermentation"
+    publisher: "Wikipédia"
+  - title: "Fermentation in food processing"
+    url: "https://en.wikipedia.org/wiki/Fermentation_in_food_processing"
+    publisher: "Wikipedia"
+  - title: "Saccharomyces cerevisiae"
+    url: "https://fr.wikipedia.org/wiki/Saccharomyces_cerevisiae"
+    publisher: "Wikipédia"
+  - title: "Louis Pasteur"
+    url: "https://fr.wikipedia.org/wiki/Louis_Pasteur"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que produisent les levures lorsqu'elles fermentent du sucre ?"
+    options:
+      - "De l'alcool et du gaz carbonique"
+      - "Du sel et de l'eau"
+      - "De l'huile"
+    answer: 1
+    explanation: >
+      Le gaz carbonique fait lever la pâte à pain et pétiller la bière ; l'alcool reste dans la
+      boisson, ou s'évapore à la cuisson du pain.
+  - question: "Pourquoi un aliment fermenté se conserve-t-il mieux ?"
+    options:
+      - "Parce qu'il est plus froid"
+      - "Parce que l'acide ou l'alcool produits empêchent la plupart des microbes dangereux de se développer"
+      - "Parce qu'il contient moins d'eau"
+    answer: 2
+    explanation: >
+      Les bonnes bactéries et levures occupent la place et modifient le milieu, qui devient hostile
+      aux microbes responsables de la pourriture.
+  - question: "Qu'a démontré Louis Pasteur à propos de la fermentation ?"
+    options:
+      - "Qu'elle est due à la lumière"
+      - "Qu'elle est purement chimique"
+      - "Qu'elle est l'œuvre de micro-organismes vivants"
+    answer: 3
+    explanation: >
+      À partir de 1857, il montre que levures et bactéries sont responsables des fermentations,
+      et que des microbes indésirables les font tourner.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Bien avant de savoir que les microbes existaient, les humains les utilisaient. Une pâte qui lève, un
+jus de raisin qui devient vin, un lait qui épaissit, un chou qui s'acidifie : ce sont des
+**fermentations**, réalisées par des **levures**, des **bactéries** ou des **moisissures**. Elles
+transforment le goût et la texture des aliments, les rendent plus digestes et surtout permettent de
+les **conserver**. En 1857, Louis Pasteur montre qu'elles sont l'œuvre d'êtres vivants. La
+fermentation est ainsi la plus ancienne des biotechnologies.
+
+## Les grands acteurs
+
+- **Les levures**, champignons microscopiques, comme *Saccharomyces cerevisiae*. Privées d'oxygène,
+  elles transforment le sucre en **alcool** et en **gaz carbonique**. Elles font le pain, la bière, le
+  vin et le cidre.
+- **Les bactéries lactiques** transforment les sucres en **acide lactique**. Elles font le yaourt, le
+  fromage, la choucroute, les cornichons lactofermentés, le levain du pain.
+- **Les bactéries acétiques** transforment l'alcool en **acide acétique** : c'est le vinaigre.
+- **Les moisissures** affinent les fromages comme le roquefort ou le camembert, et transforment le soja
+  et le riz en sauce soja, miso ou saké, grâce au champignon *Aspergillus oryzae*.
+
+## Une histoire de plusieurs millénaires
+
+Des résidus retrouvés sur des poteries de Jiahu, en Chine, montrent qu'on y préparait une boisson
+fermentée de riz, de miel et de fruits il y a environ 9 000 ans. La bière et le pain levé sont attestés
+dans l'Égypte et la Mésopotamie anciennes. Les fromages, la sauce de poisson des Romains, les légumes
+fermentés d'Asie et d'Europe de l'Est témoignent de cette pratique partout dans le monde.
+
+Pendant longtemps, personne ne sait ce qui se passe. Au XVIIe siècle, Antoni van Leeuwenhoek observe
+des levures au microscope. Mais c'est **Louis Pasteur**, à partir de 1857, qui démontre que les
+fermentations sont dues à des micro-organismes vivants, et que des microbes indésirables expliquent les
+vins qui tournent. Il invente la **pasteurisation** pour les arrêter.
+
+[Emplacement image : carte des aliments fermentés traditionnels dans le monde et des microbes qui les produisent, légende et texte alternatif à fournir ultérieurement.]
+
+## Pourquoi fermenter
+
+- **Conserver** : l'acide, l'alcool ou le sel empêchent la plupart des microbes de la pourriture et des
+  intoxications de se développer. Les bons microbes occupent aussi la place.
+- **Rendre digeste** : la fermentation prédigère certains sucres, comme le lactose du lait dans le
+  yaourt, et réduit certaines substances indigestes des céréales et des légumineuses.
+- **Enrichir** : certaines fermentations augmentent la teneur en vitamines du groupe B.
+- **Créer des goûts** : acidité, arômes, texture, pétillant.
+
+## Réussir une fermentation
+
+On favorise les bons microbes et l'on décourage les mauvais :
+
+- **la propreté** des ustensiles et des récipients ;
+- **le sel**, pour les légumes et les fromages, qui freine les microbes indésirables ;
+- **l'absence d'air** pour les légumes et les boissons alcoolisées ;
+- **la bonne température**, souvent entre 18 et 25 °C au début ;
+- **un ferment** déjà actif : levain, yaourt précédent, levure, mère de vinaigre.
+
+Une odeur de pourri, des moisissures poilues colorées ou une texture gluante anormale signalent un échec :
+on jette.
+
+## Aujourd'hui
+
+Les fermentations industrielles produisent aussi des antibiotiques, comme la pénicilline, des vitamines,
+des enzymes, de l'insuline grâce à des microbes génétiquement modifiés, et des biocarburants. Le principe
+reste celui des boulangers et des brasseurs de l'Antiquité.
+
+## À retenir
+
+- Les fermentations sont réalisées par des levures, des bactéries et des moisissures.
+- Les levures produisent alcool et gaz carbonique ; les bactéries lactiques, de l'acide lactique.
+- On fermente des aliments depuis au moins 9 000 ans.
+- Pasteur a montré à partir de 1857 que les fermentations sont l'œuvre de micro-organismes vivants.
+- La fermentation conserve les aliments, les rend plus digestes et crée de nouveaux goûts.
 
 ---
 type: article
@@ -2324,16 +2654,128 @@ title: Produire et conserver ses semences
 slug: produire-conserver-semences
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Choisir les meilleurs plants, récolter, sécher et stocker les graines d'une saison à l'autre.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Récolter ses propres graines permet de ressemer chaque année sans rien acheter et d'adapter les
+  variétés à son jardin. Il faut choisir des variétés reproductibles, éviter les croisements, bien
+  sécher les graines et les garder au frais et au sec.
+tags: [selection-vegetale]
+relatedArticles: [greffage, plantes-nourrissantes, haies-bocage]
+sources:
+  - title: "Semence"
+    url: "https://fr.wikipedia.org/wiki/Semence"
+    publisher: "Wikipédia"
+  - title: "Seed saving"
+    url: "https://en.wikipedia.org/wiki/Seed_saving"
+    publisher: "Wikipedia"
+  - title: "Hybride F1"
+    url: "https://fr.wikipedia.org/wiki/Hybride_F1"
+    publisher: "Wikipédia"
+  - title: "Svalbard Global Seed Vault"
+    url: "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi ne garde-t-on pas les graines d'une variété hybride F1 ?"
+    options:
+      - "Parce que les plantes qui en naissent ne ressemblent pas à leurs parents"
+      - "Parce qu'elles sont toxiques"
+      - "Parce qu'elles ne germent jamais"
+    answer: 1
+    explanation: >
+      Un hybride F1 est le croisement de deux lignées différentes. Ses descendants mélangent les
+      caractères de façon imprévisible.
+  - question: "Quelles plantes sont les plus faciles pour débuter ?"
+    options:
+      - "Les courges et le maïs"
+      - "Les tomates, les haricots, les pois et les laitues, qui se fécondent surtout elles-mêmes"
+      - "Les choux de toutes sortes"
+    answer: 2
+    explanation: >
+      Ces plantes dites autogames se croisent peu avec leurs voisines. Leurs graines reproduisent
+      fidèlement la variété.
+  - question: "Quelles conditions allongent la durée de vie des graines ?"
+    options:
+      - "La chaleur et l'humidité"
+      - "La lumière du soleil"
+      - "Le froid et la sécheresse, à l'abri de la lumière"
+    answer: 3
+    explanation: >
+      Une graine bien sèche, gardée au frais dans un bocal fermé, reste vivante bien plus
+      longtemps.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pendant des millénaires, les paysans ont gardé une partie de leur récolte pour la ressemer. En
+choisissant chaque année les plus belles plantes, ils ont créé des milliers de variétés adaptées à leur
+climat et à leur sol. **Produire ses semences** reste possible au jardin : il faut choisir des
+**variétés reproductibles**, éviter les **croisements** indésirables, récolter des graines **bien
+mûres**, les **sécher** et les **conserver** au frais et au sec. Une poignée de graines bien gardées
+assure la récolte de l'année suivante.
+
+## Choisir des variétés reproductibles
+
+- **Les variétés « population »** ou anciennes se reproduisent fidèlement : leurs graines donnent des
+  plantes semblables à leurs parents.
+- **Les hybrides F1**, notés ainsi sur les sachets, sont le croisement de deux lignées différentes. Ils
+  sont souvent vigoureux, mais leurs descendants mélangent les caractères de façon imprévisible : on ne
+  garde pas leurs graines.
+
+## Éviter les croisements
+
+Tout dépend de la façon dont la plante est fécondée :
+
+- **Les plantes autogames** se fécondent surtout elles-mêmes, souvent dans la fleur fermée : **tomates,
+  haricots, pois, laitues**. Elles se croisent peu ; quelques mètres entre deux variétés suffisent
+  souvent. C'est par elles qu'il faut commencer.
+- **Les plantes allogames** sont fécondées par le pollen d'autres plantes, transporté par le vent ou les
+  insectes : **courges, maïs, choux, carottes, oignons, betteraves**. Deux variétés de la même espèce se
+  croisent facilement, même éloignées de centaines de mètres. On ne cultive alors qu'une variété à la
+  fois, ou on protège les fleurs sous un voile.
+
+Pour éviter de perdre des caractères, on garde les graines de **plusieurs plantes**, pas d'une seule,
+surtout pour les espèces allogames.
+
+[Emplacement image : étapes de la production de semences de tomate, haricot et laitue, de la plante choisie au bocal étiqueté, légende et texte alternatif à fournir ultérieurement.]
+
+## Récolter au bon moment
+
+- **Choisir les meilleures plantes** : vigoureuses, saines, précoces ou résistantes, et pas seulement les
+  premiers fruits.
+- **Laisser mûrir complètement** : les graines doivent être dures et sèches dans la gousse ou le fruit.
+  Un haricot se récolte quand la gousse est sèche et craquante ; une tomate, quand le fruit est très mûr.
+- **Les graines dans la pulpe**, comme celles des tomates ou des concombres, gagnent à fermenter deux ou
+  trois jours dans un peu d'eau : la gélatine qui les entoure se décompose, puis on rince et on sèche.
+- Certaines plantes, comme les carottes, les choux ou les oignons, ne font leurs graines que la
+  **deuxième année** : on les garde en terre ou on les replante au printemps.
+
+## Sécher et conserver
+
+1. Étaler les graines en couche fine, à l'ombre, dans un endroit aéré, pendant une à trois semaines.
+2. Vérifier qu'elles sont bien sèches : une graine de haricot sec se casse au lieu de s'écraser.
+3. Les ranger dans des **sachets en papier ou des bocaux fermés**, avec une étiquette : espèce, variété,
+   année, lieu.
+4. Les garder **au frais, au sec et dans l'obscurité**. Selon une règle empirique des spécialistes,
+   chaque baisse de l'humidité de la graine ou de la température de stockage allonge nettement sa durée
+   de vie.
+
+Selon les espèces, les graines restent bonnes de un ou deux ans, comme pour le poireau et le panais, à
+quatre ou cinq ans et plus, comme pour la tomate ou la laitue. Avant de semer de vieilles graines, on
+fait un **test de germination** : dix graines sur un papier humide, et l'on compte celles qui germent.
+
+## Les grandes banques de graines
+
+Pour préserver la diversité des plantes cultivées, des banques de semences conservent des millions
+d'échantillons. La **réserve mondiale de semences du Svalbard**, en Norvège, ouverte en 2008 dans une
+montagne de l'Arctique, garde des copies de sécurité à -18 °C.
+
+## À retenir
+
+- On garde les graines des variétés reproductibles, pas des hybrides F1.
+- Tomates, haricots, pois et laitues se croisent peu et conviennent pour débuter.
+- Courges, maïs et choux se croisent facilement : une seule variété à la fois, ou des fleurs protégées.
+- On récolte des graines bien mûres sur plusieurs belles plantes, puis on les sèche à l'ombre.
+- Les graines se conservent au frais, au sec et à l'obscurité, dans des contenants étiquetés.
 
 ---
 type: article
@@ -2511,16 +2953,121 @@ title: Les plantes les plus nourrissantes
 slug: plantes-nourrissantes
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Pomme de terre, céréales, légumineuses : quelles cultures produisent le plus de calories et de protéines par hectare.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Pommes de terre, céréales, légumineuses : toutes les cultures ne nourrissent pas autant sur un même
+  champ. Les plantes à tubercules et les céréales fournissent beaucoup de calories, les légumineuses
+  des protéines et de l'azote pour le sol. Les combiner protège contre les carences et les famines.
+tags: [selection-vegetale]
+relatedArticles: [produire-conserver-semences, greffage, haies-bocage, la-securite-alimentaire-des-plantes-sauvages-comestibles]
+sources:
+  - title: "Pomme de terre"
+    url: "https://fr.wikipedia.org/wiki/Pomme_de_terre"
+    publisher: "Wikipédia"
+  - title: "Légumineuse"
+    url: "https://fr.wikipedia.org/wiki/L%C3%A9gumineuse"
+    publisher: "Wikipédia"
+  - title: "Staple food"
+    url: "https://en.wikipedia.org/wiki/Staple_food"
+    publisher: "Wikipedia"
+  - title: "Grande famine en Irlande"
+    url: "https://fr.wikipedia.org/wiki/Grande_famine_en_Irlande"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi les légumineuses enrichissent-elles le sol ?"
+    options:
+      - "Parce que des bactéries de leurs racines fixent l'azote de l'air"
+      - "Parce qu'elles attirent les vers de terre"
+      - "Parce qu'elles poussent vite"
+    answer: 1
+    explanation: >
+      Les nodosités des racines abritent des bactéries qui transforment l'azote de l'air en engrais
+      naturel, utile aussi à la culture suivante.
+  - question: "Pourquoi associer céréales et légumineuses dans les repas ?"
+    options:
+      - "Pour la couleur"
+      - "Parce que leurs protéines se complètent et fournissent ensemble tous les acides aminés essentiels"
+      - "Pour réduire les calories"
+    answer: 2
+    explanation: >
+      Riz et lentilles, maïs et haricots, pain et pois chiches : ces associations traditionnelles
+      apportent des protéines complètes.
+  - question: "Quelle leçon tirer de la grande famine irlandaise de 1845-1852 ?"
+    options:
+      - "Que la pomme de terre est toxique"
+      - "Qu'il ne faut jamais cultiver de céréales"
+      - "Qu'une population qui dépend d'une seule culture est très vulnérable aux maladies des plantes"
+    answer: 3
+    explanation: >
+      Le mildiou a détruit les récoltes de pommes de terre dont dépendait une grande partie de la
+      population pauvre. Environ un million de personnes sont mortes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Nourrir une famille ou un village sur une surface limitée demande de choisir les bonnes cultures.
+Certaines produisent beaucoup d'**énergie** par hectare : la **pomme de terre**, la **patate douce**, le
+**manioc**, le **maïs**, le **riz** et le **blé**. D'autres apportent surtout des **protéines** : les
+**légumineuses**, comme les haricots, les lentilles, les pois et le soja, qui fertilisent en plus le sol.
+Aucune plante ne suffit seule. Les associer, et ajouter légumes et fruits, protège à la fois contre les
+carences et contre les mauvaises récoltes.
+
+## Les champions de l'énergie
+
+- **La pomme de terre** produit, par hectare, en général plus de calories que les céréales, en peu de
+  temps, sur des sols variés et des climats frais. Elle apporte aussi de la vitamine C et du potassium.
+  Elle se conserve plusieurs mois en cave. Mais elle se transporte mal et craint le mildiou.
+- **La patate douce** et le **manioc** jouent ce rôle dans les régions chaudes. Le manioc supporte la
+  sécheresse et les sols pauvres, mais certaines variétés doivent être épluchées, trempées et cuites pour
+  éliminer des composés toxiques.
+- **Les céréales**, maïs, riz, blé, orge, sorgho, millet, nourrissent la majorité de l'humanité. Leur
+  grain sec se **conserve des années** et se transporte facilement, ce qui en a fait la base des
+  civilisations.
+
+## Les fournisseurs de protéines
+
+Les **légumineuses** sont riches en protéines, de l'ordre de 20 à 25 % du poids sec, et jusqu'à près de
+40 % pour le soja. Elles ont un autre atout : leurs racines portent des **nodosités** qui abritent des
+bactéries capables de **fixer l'azote de l'air**. Elles fabriquent ainsi leur propre engrais et en
+laissent dans le sol pour la culture suivante.
+
+Leurs protéines complètent celles des céréales : les céréales manquent d'un acide aminé appelé
+lysine, que les légumineuses apportent. D'où les associations traditionnelles du monde entier : riz et
+lentilles, maïs et haricots, semoule et pois chiches.
+
+[Emplacement image : comparaison de cultures selon les calories et les protéines produites par hectare et leur durée de conservation, légende et texte alternatif à fournir ultérieurement.]
+
+## Les compléments indispensables
+
+- **Les légumes verts et colorés** : vitamines, minéraux et fibres. Les choux, les épinards et les
+  courges sont productifs et faciles.
+- **Les fruits et les noix** : vitamines, graisses, énergie stockable.
+- **Les oléagineux**, tournesol, colza, noix, pour les graisses indispensables.
+- **Les courges**, qui se conservent des mois à température ambiante.
+
+## Diversifier contre les famines
+
+Entre 1845 et 1852, une grande partie de la population pauvre d'Irlande dépend presque uniquement de la
+pomme de terre. Une maladie venue d'Amérique, le **mildiou**, détruit les récoltes plusieurs années de
+suite. Environ un million de personnes meurent et autant émigrent. Une seule culture, et souvent une
+seule variété, peut tout perdre face à une maladie ou à une sécheresse.
+
+Les paysans traditionnels réduisent ce risque en cultivant plusieurs espèces et plusieurs variétés, en
+alternant les cultures d'une année à l'autre, la **rotation**, et en gardant des réserves.
+
+## Un exemple de jardin nourricier
+
+Une association éprouvée en Amérique est celle des « **trois sœurs** » : le **maïs** sert de tuteur au
+**haricot**, qui fixe l'azote, et la **courge** couvre le sol, garde l'humidité et étouffe les mauvaises
+herbes. Ensemble, elles fournissent énergie, protéines et vitamines.
+
+## À retenir
+
+- Pommes de terre, patates douces, manioc et céréales fournissent le plus d'énergie.
+- Les céréales sèches se conservent des années, ce qui en a fait la base des civilisations.
+- Les légumineuses apportent des protéines et fixent l'azote de l'air dans le sol.
+- Céréales et légumineuses associées fournissent des protéines complètes.
+- Diversifier les cultures et les variétés protège contre les maladies et les famines.
 
 ---
 type: article

@@ -9760,18 +9760,128 @@ status: planned
 
 ---
 type: article
-title: La conservation des aliments par sechage solaire
+title: La conservation des aliments par séchage solaire
 slug: la-conservation-des-aliments-par-sechage-solaire
 categoryPath: alimentation-et-nutrition/alimentation-et-environnement/gaspillage-alimentaire
 summary: >
-  Une methode ancienne, peu couteuse, qui ne demande ni electricite ni refrigeration.
-tags: [gaspillage-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Retirer l'eau d'un fruit, d'un légume ou d'une viande empêche les microbes de s'y développer. Un
+  séchoir solaire, simple caisse vitrée et ventilée, sèche les aliments plus vite et plus proprement
+  qu'à l'air libre, sans électricité.
+tags: [gaspillage-alimentaire]
+relatedArticles: [la-securite-alimentaire-des-conserves-maison, la-conservation-par-le-sel-salaisons-et-saumures, four-chauffe-eau-solaires, le-stockage-en-cave-des-legumes-racines]
+sources:
+  - title: "Séchage (aliment)"
+    url: "https://fr.wikipedia.org/wiki/S%C3%A9chage_(aliment)"
+    publisher: "Wikipédia"
+  - title: "Food drying"
+    url: "https://en.wikipedia.org/wiki/Food_drying"
+    publisher: "Wikipedia"
+  - title: "Solar dryer"
+    url: "https://en.wikipedia.org/wiki/Solar_dryer"
+    publisher: "Wikipedia"
+  - title: "Water activity"
+    url: "https://en.wikipedia.org/wiki/Water_activity"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi un aliment séché se conserve-t-il longtemps ?"
+    options:
+      - "Parce que les microbes n'ont plus assez d'eau pour se multiplier"
+      - "Parce qu'il devient plus froid"
+      - "Parce qu'il est plus sucré au départ"
+    answer: 1
+    explanation: >
+      Bactéries et moisissures ont besoin d'eau disponible. En dessous d'un certain seuil, elles ne
+      peuvent plus se développer.
+  - question: "Pourquoi un séchoir solaire indirect protège-t-il mieux les aliments ?"
+    options:
+      - "Parce qu'il les cuit"
+      - "Parce que l'air est chauffé dans un capteur puis passe sur les aliments placés à l'ombre"
+      - "Parce qu'il les salit moins rapidement"
+    answer: 2
+    explanation: >
+      Le soleil direct détruit certaines vitamines et décolore les aliments. Dans un séchoir indirect,
+      ils sèchent à l'ombre dans un air chaud.
+  - question: "Pourquoi découpe-t-on les aliments en tranches fines ?"
+    options:
+      - "Pour qu'ils soient plus jolis"
+      - "Pour économiser de la place"
+      - "Pour que l'eau s'évapore vite, avant que les microbes aient le temps de se développer"
+    answer: 3
+    explanation: >
+      Des tranches épaisses sèchent en surface mais restent humides au cœur, où des moisissures
+      peuvent apparaître.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **séchage** est l'une des plus anciennes méthodes de conservation. En retirant l'**eau** des
+aliments, on empêche les bactéries et les moisissures de s'y développer : abricots secs, tomates
+séchées, champignons, herbes aromatiques, viande séchée se gardent des mois. Sécher au soleil en plein
+air est simple mais lent, et expose aux insectes, aux poussières et à la pluie. Un **séchoir solaire**,
+une caisse vitrée et ventilée, sèche plus vite, plus proprement et sans électricité.
+
+## Pourquoi le séchage conserve
+
+Un fruit frais contient souvent 80 à 90 % d'eau. Les microbes ont besoin d'eau disponible pour se
+multiplier. Quand on en retire la plus grande partie, ils ne peuvent plus se développer. Un fruit bien
+séché ne contient plus qu'environ 15 à 20 % d'eau, un légume sec encore moins, et il est devenu cassant
+ou souple comme du cuir.
+
+## Le séchoir solaire
+
+- **Le séchoir direct** : une caisse noire fermée par une vitre ou un plastique transparent, avec des
+  claies grillagées et des ouvertures en bas et en haut. Le soleil chauffe l'intérieur, l'air chaud monte
+  et s'échappe en haut en emportant l'humidité, l'air frais entre par le bas.
+- **Le séchoir indirect** : l'air est chauffé dans un **capteur** noir incliné, puis il traverse une
+  **armoire** fermée et ombragée où sont posées les claies. Les aliments sèchent à l'ombre, ce qui
+  préserve mieux couleurs et vitamines.
+
+Dans les deux cas, la **ventilation** compte autant que la chaleur : un air chaud qui ne circule pas se
+sature d'humidité. Une température de **40 à 60 °C** convient à la plupart des aliments. Des
+moustiquaires aux entrées d'air protègent des insectes.
+
+[Emplacement image : séchoir solaire indirect avec capteur incliné, armoire à claies, entrée et sortie d'air, légende et texte alternatif à fournir ultérieurement.]
+
+## Préparer les aliments
+
+1. Choisir des produits **mûrs et sains**, sans moisissure.
+2. Laver, éplucher si nécessaire, découper en **tranches fines et régulières**, de 5 mm environ.
+3. Pour beaucoup de légumes, **blanchir** une ou deux minutes dans l'eau bouillante, puis refroidir :
+   cela garde la couleur et détruit les enzymes qui les abîment.
+4. Tremper certains fruits, comme les pommes, dans un peu de jus de citron pour éviter qu'ils
+   noircissent.
+5. Étaler en une seule couche sur les claies, sans que les morceaux se touchent.
+6. Retourner les morceaux au moins une fois par jour, et rentrer les claies la nuit, quand l'humidité
+   remonte.
+
+Selon le soleil et les aliments, le séchage dure de un à plusieurs jours.
+
+## Vérifier et conserver
+
+- **Fruits** : souples, sans jus quand on les presse.
+- **Légumes et champignons** : cassants.
+- **Herbes** : feuilles qui s'effritent.
+
+On laisse refroidir, puis on range dans des **bocaux bien fermés** ou des sacs hermétiques, au sec, au
+frais et à l'abri de la lumière. On surveille les premiers jours : de la buée dans le bocal signale un
+séchage incomplet, à reprendre. Toute trace de moisissure impose de jeter.
+
+## Le cas de la viande et du poisson
+
+Viande et poisson séchés, comme le biltong sud-africain ou le stockfish norvégien, demandent des
+précautions particulières : viande très fraîche, tranches fines, souvent un salage ou une marinade
+préalable, un séchage rapide et un air sec. Mal conduit, le séchage de la viande expose à des
+intoxications. Les débutants commencent par les fruits, les légumes et les herbes.
+
+## À retenir
+
+- Le séchage retire l'eau dont les microbes ont besoin pour se multiplier.
+- Un séchoir solaire sèche plus vite et plus proprement qu'en plein air, grâce à l'air chaud qui circule.
+- Le séchoir indirect fait sécher les aliments à l'ombre et préserve mieux couleurs et vitamines.
+- On découpe en tranches fines, on blanchit certains légumes et l'on retourne les morceaux.
+- On conserve en bocaux hermétiques, au sec, et l'on jette au moindre signe de moisissure.
 
 ---
 type: article
@@ -14071,18 +14181,136 @@ status: planned
 
 ---
 type: article
-title: La securite alimentaire des conserves maison
+title: La sécurité alimentaire des conserves maison
 slug: la-securite-alimentaire-des-conserves-maison
 categoryPath: alimentation-et-nutrition/regimes-et-recommandations/securite-alimentaire
 summary: >
-  Des regles precises a respecter pour eviter tout risque de contamination.
-tags: [securite-alimentaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Mettre ses récoltes en bocaux permet de les garder des années, mais une conserve mal stérilisée
+  peut contenir la toxine du botulisme, l'une des plus dangereuses qui soient. Acidité, température,
+  durée et hygiène sont les quatre règles à respecter.
+tags: [securite-alimentaire]
+relatedArticles: [la-conservation-par-le-sel-salaisons-et-saumures, la-conservation-des-legumes-par-lactofermentation, la-conservation-des-aliments-par-sechage-solaire, kit-urgence-72-heures]
+sources:
+  - title: "Conserve"
+    url: "https://fr.wikipedia.org/wiki/Conserve"
+    publisher: "Wikipédia"
+  - title: "Botulisme"
+    url: "https://fr.wikipedia.org/wiki/Botulisme"
+    publisher: "Wikipédia"
+  - title: "Home canning"
+    url: "https://en.wikipedia.org/wiki/Home_canning"
+    publisher: "Wikipedia"
+  - title: "Nicolas Appert"
+    url: "https://fr.wikipedia.org/wiki/Nicolas_Appert"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi les légumes peu acides et la viande sont-ils les conserves les plus risquées ?"
+    options:
+      - "Parce que les spores du botulisme y survivent à 100 °C et peuvent produire leur toxine sans air"
+      - "Parce qu'ils sont trop sucrés"
+      - "Parce qu'ils rouillent les couvercles"
+    answer: 1
+    explanation: >
+      Pour détruire ces spores, il faut une température supérieure à 100 °C, obtenue sous pression
+      dans un autoclave.
+  - question: "Que faire d'un bocal dont le couvercle est bombé ?"
+    options:
+      - "Le goûter pour vérifier"
+      - "Le jeter sans l'ouvrir ni le goûter"
+      - "Le faire bouillir et le consommer"
+    answer: 2
+    explanation: >
+      Un couvercle bombé indique souvent un développement de microbes. Même une très petite quantité
+      de toxine botulique peut être dangereuse.
+  - question: "Qui a inventé la conservation des aliments en récipient fermé chauffé ?"
+    options:
+      - "Louis Pasteur"
+      - "Isaac Newton"
+      - "Le confiseur français Nicolas Appert, au début du XIXe siècle"
+    answer: 3
+    explanation: >
+      Il publie sa méthode en 1810, sans savoir pourquoi elle marche. Pasteur l'expliquera plus tard
+      par la destruction des microbes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une conserve est un aliment placé dans un récipient **hermétique**, puis **chauffé** pour détruire les
+microbes. Bien faite, elle se garde des mois, voire des années, sans réfrigérateur. Mal faite, elle peut
+permettre le développement de *Clostridium botulinum*, une bactérie qui produit la **toxine botulique**,
+l'une des plus puissantes connues. Le botulisme est rare, mais grave : paralysie progressive, parfois
+mortelle. Quatre facteurs déterminent la sécurité : l'**acidité** de l'aliment, la **température**, la
+**durée** du traitement et l'**hygiène**.
+
+## Une invention française
+
+Au début du XIXe siècle, le confiseur **Nicolas Appert** découvre qu'un aliment enfermé dans un bocal
+bouché puis chauffé au bain-marie se conserve longtemps. Il publie sa méthode en 1810. On parle depuis
+d'**appertisation**. Pasteur expliquera plus tard pourquoi elle fonctionne : la chaleur tue les microbes,
+et la fermeture empêche d'autres d'entrer.
+
+## Le danger du botulisme
+
+La bactérie du botulisme vit dans le sol. Elle forme des **spores**, des formes de résistance qui
+supportent l'ébullition. Dans un bocal **sans air**, **peu acide** et à température ambiante, ces spores
+peuvent germer et produire la toxine, souvent sans odeur ni goût suspect.
+
+- **Les aliments acides**, fruits, confitures, tomates acidifiées, cornichons au vinaigre : l'acidité
+  empêche la bactérie de se développer. Une stérilisation au **bain-marie à 100 °C** suffit.
+- **Les aliments peu acides**, légumes verts, haricots, champignons, viande, poisson, soupes : ce sont
+  les plus risqués. Les organismes de référence en sécurité sanitaire recommandent de les stériliser
+  **au-dessus de 100 °C**, entre 115 et 121 °C, ce qui demande un **autoclave**, un stérilisateur sous
+  pression, ou de suivre des recettes et barèmes validés.
+
+[Emplacement image : tableau des aliments acides et peu acides avec leur méthode de stérilisation recommandée, légende et texte alternatif à fournir ultérieurement.]
+
+## Les règles de base
+
+1. **Suivre une recette éprouvée**, avec temps et température précis selon l'aliment et la taille du
+   bocal. Ne pas improviser.
+2. **Des bocaux sans fêlure**, propres, avec des **joints ou couvercles neufs**.
+3. **Des aliments frais et sains**, lavés, sans parties abîmées.
+4. **Ne pas trop remplir** : laisser l'espace indiqué sous le couvercle.
+5. **Respecter le temps de stérilisation**, compté à partir du moment où l'eau bout ou où l'autoclave
+   atteint sa pression.
+6. **Vérifier la fermeture** après refroidissement : le couvercle doit être aspiré et ne pas bouger.
+7. **Étiqueter** avec le contenu et la date, et stocker au frais, au sec, à l'abri de la lumière.
+
+## Les signaux d'alerte
+
+On **jette sans goûter** tout bocal qui présente :
+
+- un **couvercle bombé** ou un joint décollé ;
+- une **fuite**, de la mousse, des bulles qui remontent ;
+- un liquide trouble ou une odeur anormale ;
+- un jet de liquide à l'ouverture.
+
+On ne goûte jamais pour vérifier. En cas de doute sur une conserve de légumes peu acides, une ébullition
+d'une dizaine de minutes avant consommation détruit la toxine, mais pas les autres risques : la règle
+reste de jeter.
+
+## Les symptômes du botulisme
+
+Ils apparaissent quelques heures à quelques jours après le repas : vision double ou floue, paupières
+qui tombent, difficultés à avaler et à parler, bouche sèche, puis faiblesse musculaire qui descend vers
+les bras et peut atteindre la respiration. C'est une **urgence** : on appelle le 15, en gardant le bocal
+suspect pour analyse.
+
+## Les autres méthodes
+
+Les confitures très sucrées, les conserves au vinaigre, la lactofermentation, le salage et le séchage
+reposent sur d'autres principes : le sucre, l'acidité, le sel ou l'absence d'eau empêchent les microbes de
+se développer.
+
+## À retenir
+
+- Une conserve est un aliment chauffé dans un récipient hermétique, selon la méthode de Nicolas Appert.
+- Les spores du botulisme résistent à l'ébullition et se développent sans air dans les aliments peu acides.
+- Fruits et aliments acides se stérilisent au bain-marie à 100 °C ; légumes peu acides et viandes demandent plus de 100 °C, en autoclave ou selon des barèmes validés.
+- Un couvercle bombé, une fuite ou une odeur anormale imposent de jeter le bocal sans goûter.
+- Vision double, paupières tombantes et difficulté à avaler après un repas imposent d'appeler le 15.
 
 ---
 type: article
@@ -15037,18 +15265,127 @@ status: planned
 
 ---
 type: article
-title: Le stockage en cave des legumes racines
+title: Le stockage en cave des légumes racines
 slug: le-stockage-en-cave-des-legumes-racines
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/conservation
 summary: >
-  Une methode ancienne qui exploite naturellement fraicheur et humidite constante.
-tags: [conservation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Pommes de terre, carottes, betteraves ou navets se gardent des mois sans réfrigérateur dans une cave
+  fraîche, humide, sombre et aérée, ou dans un silo de terre au jardin. Il suffit de respecter leurs
+  besoins et de les surveiller.
+tags: [conservation]
+relatedArticles: [plantes-nourrissantes, la-conservation-des-legumes-par-lactofermentation, la-conservation-des-aliments-par-sechage-solaire, produire-conserver-semences]
+sources:
+  - title: "Root cellar"
+    url: "https://en.wikipedia.org/wiki/Root_cellar"
+    publisher: "Wikipedia"
+  - title: "Silo (agriculture)"
+    url: "https://fr.wikipedia.org/wiki/Silo_(agriculture)"
+    publisher: "Wikipédia"
+  - title: "Solanine"
+    url: "https://fr.wikipedia.org/wiki/Solanine"
+    publisher: "Wikipédia"
+  - title: "Éthylène"
+    url: "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi garder les pommes de terre dans l'obscurité ?"
+    options:
+      - "Parce qu'à la lumière elles verdissent et produisent de la solanine, une substance toxique"
+      - "Parce qu'elles gèlent à la lumière"
+      - "Pour qu'elles grossissent"
+    answer: 1
+    explanation: >
+      Les parties vertes et les germes contiennent de la solanine. On les retire largement avant de
+      cuisiner.
+  - question: "Pourquoi ne pas stocker les pommes à côté des pommes de terre et des carottes ?"
+    options:
+      - "Parce qu'elles prennent trop de place"
+      - "Parce qu'elles dégagent de l'éthylène, un gaz qui accélère le mûrissement et la germination des autres"
+      - "Parce qu'elles attirent les souris"
+    answer: 2
+    explanation: >
+      L'éthylène fait germer les pommes de terre et donne un goût amer aux carottes.
+  - question: "Quelle humidité préfèrent la plupart des légumes racines ?"
+    options:
+      - "Un air très sec"
+      - "Aucune importance"
+      - "Un air très humide, autour de 90 %"
+    answer: 3
+    explanation: >
+      Dans un air sec, les racines perdent leur eau et se rident. On les enfouit souvent dans du sable
+      légèrement humide.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Avant le réfrigérateur, les familles gardaient leurs récoltes d'automne jusqu'au printemps dans une
+**cave**, un **cellier** ou un **silo** creusé dans le jardin. Pommes de terre, carottes, betteraves,
+navets, céleris et choux se conservent ainsi des mois, à condition de leur offrir quatre conditions :
+le **froid** sans gel, une forte **humidité**, l'**obscurité** et une bonne **aération**. Il suffit
+ensuite de les trier régulièrement. Une bonne cave nourrit une famille tout l'hiver sans électricité.
+
+## Pourquoi la cave marche
+
+Un légume racine récolté reste **vivant** : il respire, consomme ses réserves et perd de l'eau. À basse
+température, cette respiration ralentit fortement, comme les microbes qui le font pourrir. Sous terre,
+la température varie peu et l'humidité reste élevée. Une cave enterrée offre souvent naturellement
+**0 à 10 °C** en hiver.
+
+## Les conditions idéales
+
+- **Le froid** : pour la plupart des racines, entre **0 et 5 °C**, sans jamais geler. Les pommes de terre
+  préfèrent un peu plus, autour de **4 à 8 °C** : plus froides, elles deviennent sucrées.
+- **L'humidité** : un air très humide, autour de **85 à 95 %**, pour que les racines ne se dessèchent
+  pas. On peut les enfouir dans du **sable** légèrement humide.
+- **L'obscurité** : à la lumière, les pommes de terre **verdissent** et produisent de la **solanine**, une
+  substance toxique. On coupe largement les parties vertes et les germes avant de cuisiner.
+- **L'aération** : une ouverture en bas et une en haut renouvellent l'air et évacuent l'humidité excessive
+  et les gaz.
+
+[Emplacement image : cave à légumes avec caisses de sable, pommes de terre en clayettes, aération haute et basse et thermomètre, légende et texte alternatif à fournir ultérieurement.]
+
+## Préparer la récolte
+
+1. **Récolter par temps sec**, à maturité, sans blesser les légumes.
+2. Laisser **ressuyer** quelques heures à l'air, à l'ombre, pour sécher la terre. Les pommes de terre
+   gagnent à « cicatriser » une ou deux semaines au frais et à l'obscurité.
+3. **Ne pas laver** : la terre protège.
+4. Couper les fanes des carottes et des betteraves à un ou deux centimètres du collet.
+5. **Trier** : seuls les légumes sains et intacts se gardent ; les abîmés se mangent tout de suite.
+
+## Ranger
+
+- **Pommes de terre** : en cagettes ou clayettes, en couches peu épaisses, à l'obscurité.
+- **Carottes, betteraves, navets, céleris, panais** : couchés dans des caisses de **sable** légèrement
+  humide, sans qu'ils se touchent.
+- **Choux** : suspendus par le pied ou posés sur des clayettes.
+- **Oignons, ail et courges** font exception : ils préfèrent un endroit **sec** et un peu plus tempéré,
+  comme un grenier sain ou une pièce fraîche.
+- **Les fruits**, en particulier les pommes, se rangent à part : ils dégagent de l'**éthylène**, un gaz
+  qui fait germer les pommes de terre et rend les carottes amères.
+
+## Le silo de jardin
+
+Sans cave, on peut creuser au jardin un **silo** : une fosse peu profonde garnie de paille, où l'on dispose
+les racines, recouvertes de paille puis de terre, avec une petite cheminée de paille pour l'aération. On
+prélève par un côté au fil de l'hiver. Une version plus simple consiste à laisser certains légumes en
+terre, comme les panais ou les poireaux, sous une bonne couche de paille.
+
+## Surveiller
+
+On visite la cave toutes les une à deux semaines : on retire immédiatement tout légume qui pourrit, car la
+pourriture se propage. On contrôle la température, surtout lors des fortes gelées, et l'on protège contre
+les rongeurs.
+
+## À retenir
+
+- Les légumes racines se gardent des mois au froid sans gel, dans un air humide, sombre et aéré.
+- La plupart préfèrent 0 à 5 °C ; les pommes de terre, 4 à 8 °C.
+- À la lumière, les pommes de terre verdissent et produisent de la solanine toxique.
+- Carottes et betteraves se conservent couchées dans du sable légèrement humide.
+- On sépare les pommes des légumes et l'on retire régulièrement tout légume qui pourrit.
 
 ---
 type: article
@@ -15686,18 +16023,136 @@ status: planned
 
 ---
 type: article
-title: La conservation des legumes par lactofermentation
+title: La conservation des légumes par lactofermentation
 slug: la-conservation-des-legumes-par-lactofermentation
 categoryPath: alimentation-et-nutrition/technologies-alimentaires/fermentation
 summary: >
-  Une methode ancienne et fiable pour garder des legumes crus pendant des mois.
-tags: [fermentation, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Du chou, du sel, un bocal et quelques semaines : des bactéries lactiques naturellement présentes
+  sur les légumes les acidifient et les conservent crus pendant des mois, sans chaleur ni électricité.
+  C'est le principe de la choucroute, du kimchi et des cornichons fermentés.
+tags: [fermentation]
+relatedArticles: [fermentation-biotechnologie-ancienne, la-conservation-par-le-sel-salaisons-et-saumures, la-securite-alimentaire-des-conserves-maison, le-stockage-en-cave-des-legumes-racines]
+sources:
+  - title: "Lactofermentation"
+    url: "https://fr.wikipedia.org/wiki/Lactofermentation"
+    publisher: "Wikipédia"
+  - title: "Choucroute"
+    url: "https://fr.wikipedia.org/wiki/Choucroute"
+    publisher: "Wikipédia"
+  - title: "Lactic acid fermentation"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid_fermentation"
+    publisher: "Wikipedia"
+  - title: "Lactic acid bacteria"
+    url: "https://en.wikipedia.org/wiki/Lactic_acid_bacteria"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle quantité de sel utilise-t-on environ pour une choucroute ?"
+    options:
+      - "Environ 2 % du poids du chou"
+      - "La moitié du poids du chou"
+      - "Aucun sel"
+    answer: 1
+    explanation: >
+      Environ 20 grammes de sel par kilo de chou. Le sel fait sortir le jus du chou et freine les
+      microbes indésirables, sans gêner les bactéries lactiques.
+  - question: "Pourquoi les légumes doivent-ils rester sous le liquide ?"
+    options:
+      - "Pour qu'ils restent froids"
+      - "Parce que les bactéries lactiques travaillent sans air, alors que les moisissures ont besoin d'oxygène"
+      - "Pour qu'ils soient plus salés"
+    answer: 2
+    explanation: >
+      Un légume qui dépasse de la saumure est exposé à l'air et peut moisir. On le maintient immergé
+      avec un poids.
+  - question: "Que faut-il faire si une moisissure poilue et colorée apparaît dans le bocal ?"
+    options:
+      - "La mélanger au reste"
+      - "La faire cuire"
+      - "Jeter le bocal"
+    answer: 3
+    explanation: >
+      Un léger voile blanc et plat de levures est fréquent et peut être retiré. Une moisissure
+      duveteuse, colorée ou une odeur de pourri imposent de tout jeter.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La **lactofermentation** conserve les légumes crus grâce à des **bactéries lactiques**, naturellement
+présentes à leur surface. Privées d'air et favorisées par un peu de **sel**, elles transforment les
+sucres des légumes en **acide lactique**. Le milieu devient acide, et la plupart des microbes
+responsables de la pourriture ou des intoxications ne peuvent plus s'y développer. On obtient la
+**choucroute** alsacienne, le **kimchi** coréen, les cornichons et les légumes fermentés d'Europe de
+l'Est. La méthode ne demande ni chaleur, ni électricité, ni ingrédient rare.
+
+## Comment ça marche
+
+1. **Le sel** fait sortir le jus des légumes et freine les microbes indésirables, tandis que les
+   bactéries lactiques le supportent bien.
+2. **L'absence d'air** : les légumes sont tassés sous leur jus ou sous une saumure. Les bactéries
+   lactiques travaillent sans oxygène, les moisissures non.
+3. **L'acidification** : en quelques jours, les bactéries lactiques produisent de l'acide lactique, et le
+   milieu devient trop acide pour la plupart des microbes dangereux.
+
+Bien conduite, la lactofermentation a un excellent bilan de sécurité. Les légumes gardent une grande
+partie de leur vitamine C : la choucroute embarquée sur les navires de James Cook l'aidait à lutter
+contre le scorbut.
+
+## Deux méthodes
+
+**Au sel sec**, pour les légumes râpés ou émincés, comme le chou ou les carottes :
+
+- environ **2 % de sel** du poids des légumes, soit 20 g de sel par kilo ;
+- on mélange et l'on malaxe ou l'on tasse fort jusqu'à ce que le jus sorte ;
+- on tasse dans un bocal ou un pot en grès, jusqu'à ce que le jus recouvre les légumes.
+
+**En saumure**, pour les légumes entiers ou en morceaux, comme les cornichons, les haricots, les
+radis :
+
+- une saumure d'environ **30 g de sel par litre d'eau**, avec une eau non chlorée ;
+- on remplit le bocal de légumes et d'aromates, puis on couvre de saumure.
+
+Dans les deux cas, on maintient les légumes **sous le liquide** avec un poids : une feuille de chou, un
+petit bocal rempli d'eau, une pierre propre.
+
+[Emplacement image : bocal de légumes lactofermentés avec légumes immergés, poids, saumure et espace pour les gaz, légende et texte alternatif à fournir ultérieurement.]
+
+## La fermentation, étape par étape
+
+- **Les premiers jours**, à température ambiante, idéalement entre 18 et 22 °C, la fermentation démarre :
+  des bulles apparaissent, le liquide se trouble, une odeur acidulée se développe.
+- **Après une à trois semaines**, selon le légume et la température, l'acidité est suffisante. On peut
+  goûter.
+- **Ensuite**, on place les bocaux **au frais**, à la cave ou au réfrigérateur : la fermentation ralentit
+  et les légumes se gardent des mois.
+
+Les bocaux à joint laissent s'échapper les gaz. Avec un couvercle vissé, on laisse un peu d'espace et
+l'on ouvre de temps en temps les premiers jours pour éviter la pression.
+
+## Reconnaître une fermentation réussie
+
+- **Normal** : bulles, liquide trouble, odeur acide et agréable, léger voile blanc et plat à la surface,
+  dû à des levures, que l'on peut retirer.
+- **À jeter** : moisissures **duveteuses**, bleues, vertes, noires ou roses, odeur de pourri, légumes
+  devenus visqueux et mous.
+
+## Les règles d'or
+
+- Ustensiles, bocaux et mains **propres**.
+- Légumes **frais**, lavés à l'eau sans être frottés à l'excès.
+- Bonne dose de **sel**, ni trop peu ni beaucoup trop.
+- Légumes toujours **sous le liquide**.
+- Ne pas confondre avec la conserve à l'eau non acidifiée : ici, c'est l'acidité produite par les
+  bactéries qui protège.
+
+## À retenir
+
+- La lactofermentation conserve les légumes crus grâce aux bactéries lactiques, qui produisent de l'acide.
+- On utilise environ 2 % de sel pour le chou, ou une saumure d'environ 30 g de sel par litre.
+- Les légumes doivent rester sous le liquide, à l'abri de l'air.
+- Après une à trois semaines à température ambiante, les bocaux se gardent des mois au frais.
+- Un voile blanc plat est normal ; une moisissure duveteuse colorée ou une odeur de pourri imposent de jeter.
 
 ---
 type: article

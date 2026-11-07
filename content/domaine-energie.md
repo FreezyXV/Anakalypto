@@ -2896,16 +2896,121 @@ title: Le four et le chauffe-eau solaires
 slug: four-chauffe-eau-solaires
 categoryPath: energie/energies-renouvelables/solaire
 summary: >
-  Concentrer le soleil pour cuire ou chauffer l'eau sans électricité : des techniques simples et durables.
-tags: [solaire, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une boîte isolée sous une vitre cuit un plat, un capteur noir sur le toit chauffe l'eau de la
+  maison. Ces techniques simples captent directement la chaleur du soleil, sans électricité, et se
+  construisent avec peu de matériel.
+tags: [solaire]
+relatedArticles: [comment-un-four-solaire-peut-il-cuire-des-aliments-sans-feu, solaire-thermique-et-concentration, maison-autonome-independante, capter-transformer-stocker-energie-naturelle]
+sources:
+  - title: "Cuiseur solaire"
+    url: "https://fr.wikipedia.org/wiki/Cuiseur_solaire"
+    publisher: "Wikipédia"
+  - title: "Chauffe-eau solaire"
+    url: "https://fr.wikipedia.org/wiki/Chauffe-eau_solaire"
+    publisher: "Wikipédia"
+  - title: "Thermosiphon"
+    url: "https://en.wikipedia.org/wiki/Thermosiphon"
+    publisher: "Wikipedia"
+  - title: "Solar water heating"
+    url: "https://en.wikipedia.org/wiki/Solar_water_heating"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi l'intérieur d'un four solaire est-il peint en noir mat ?"
+    options:
+      - "Parce que le noir absorbe la lumière et la transforme en chaleur"
+      - "Pour qu'il soit plus joli"
+      - "Pour le protéger de la pluie"
+    answer: 1
+    explanation: >
+      Une surface noire mate absorbe presque toute la lumière reçue. La vitre empêche ensuite la
+      chaleur de s'échapper.
+  - question: "Comment l'eau circule-t-elle dans un chauffe-eau solaire à thermosiphon ?"
+    options:
+      - "Grâce à une pompe électrique"
+      - "Toute seule, car l'eau chauffée devient plus légère et monte vers le ballon placé au-dessus"
+      - "Grâce au vent"
+    answer: 2
+    explanation: >
+      L'eau chaude monte, l'eau froide redescend vers le capteur : la circulation est naturelle,
+      à condition que le ballon soit plus haut que le capteur.
+  - question: "Quel danger guette un chauffe-eau solaire en hiver ?"
+    options:
+      - "La surchauffe"
+      - "La rouille instantanée"
+      - "Le gel, qui peut faire éclater les tubes du capteur"
+    answer: 3
+    explanation: >
+      Dans les régions froides, on utilise un liquide antigel dans le capteur, ou un système qui se
+      vide automatiquement.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le soleil n'a pas besoin d'être transformé en électricité pour être utile. Sa **chaleur** peut être
+captée directement. Un **four solaire** est une boîte isolée, peinte en noir à l'intérieur, fermée par
+une vitre et entourée de réflecteurs : par beau temps, il cuit le riz, les légumes ou le pain. Un
+**chauffe-eau solaire** utilise des capteurs noirs sur le toit pour chauffer l'eau sanitaire. Ces
+techniques sont simples, robustes et presque gratuites à l'usage.
+
+## Les trois principes
+
+1. **Concentrer** : des réflecteurs, en aluminium ou en carton recouvert de papier d'aluminium,
+   renvoient plus de lumière vers l'intérieur.
+2. **Absorber** : une surface **noire mate** transforme la lumière en chaleur.
+3. **Garder** : une **vitre** laisse entrer la lumière mais retient la chaleur, et une **isolation**
+   épaisse limite les pertes. C'est le principe de l'effet de serre.
+
+## Les fours et cuiseurs solaires
+
+- **Le four boîte** : une caisse isolée, une vitre, des réflecteurs. Il atteint souvent 100 à 150 °C,
+  assez pour cuire lentement, comme une cocotte. Les casseroles sombres et couvertes cuisent mieux.
+- **Le cuiseur à panneaux** : des panneaux réfléchissants pliés autour d'une marmite noire placée dans
+  un sac transparent. Très simple et bon marché.
+- **Le cuiseur parabolique** : un miroir en forme de parabole concentre la lumière sur la casserole.
+  Il dépasse 200 °C et permet de frire, mais il faut l'orienter souvent et ne jamais regarder le point
+  de concentration.
+
+Un four solaire fonctionne bien quand le soleil est haut et le ciel dégagé. On le tourne vers le soleil
+toutes les heures environ. Il économise du bois ou du gaz, réduit la fumée dans les maisons et permet
+aussi de pasteuriser l'eau.
+
+[Emplacement image : coupe d'un four solaire boîte avec réflecteurs, vitre, intérieur noir et isolation, légende et texte alternatif à fournir ultérieurement.]
+
+## Le chauffe-eau solaire
+
+Un **capteur plan** est une boîte vitrée contenant une plaque noire sur laquelle sont soudés des tubes.
+Le liquide qui circule dans les tubes se réchauffe et transmet sa chaleur à un **ballon** isolé.
+
+- **Le thermosiphon** : le ballon est placé **plus haut** que le capteur. L'eau chauffée, plus légère,
+  monte naturellement vers le ballon, et l'eau froide redescend vers le capteur. Aucune pompe n'est
+  nécessaire. C'est le système des toits de nombreux pays méditerranéens.
+- **La circulation forcée** : une petite pompe, pilotée par des sondes de température, fait circuler le
+  liquide quand le capteur est plus chaud que le ballon. Le ballon peut alors être placé n'importe où.
+
+Les **capteurs à tubes sous vide** isolent encore mieux et fonctionnent par temps frais.
+
+En France, un chauffe-eau solaire bien dimensionné couvre souvent la moitié à plus des deux tiers des
+besoins annuels en eau chaude d'un foyer. Un appoint, électrique, au bois ou au gaz, prend le relais en
+hiver et par temps couvert.
+
+## Précautions
+
+- **Le gel** : dans les régions froides, le circuit du capteur contient un **antigel**, ou se vide
+  automatiquement quand la pompe s'arrête.
+- **La surchauffe** : en été, l'eau du ballon peut devenir brûlante. Un **mitigeur** thermostatique
+  limite la température au robinet.
+- **Les légionelles** : ces bactéries se développent dans l'eau tiède stagnante. L'eau du ballon doit
+  monter régulièrement au-dessus de 55 à 60 °C.
+
+## À retenir
+
+- La chaleur du soleil se capte directement en concentrant, en absorbant et en gardant la chaleur.
+- Un four solaire boîte atteint souvent 100 à 150 °C par beau temps.
+- Un cuiseur parabolique dépasse 200 °C, mais il ne faut jamais regarder son point de concentration.
+- Dans un thermosiphon, l'eau chaude monte seule vers le ballon placé au-dessus du capteur.
+- Un chauffe-eau solaire couvre une grande partie de l'eau chaude d'un foyer, avec un appoint en hiver.
 
 ---
 type: article
@@ -3166,16 +3271,122 @@ title: Construire une petite éolienne
 slug: construire-petite-eolienne
 categoryPath: energie/energies-renouvelables/eolien
 summary: >
-  Alternateur, pales, régulation : les principes d'une éolienne domestique pour une maison ou un village isolé.
-tags: [eolien, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une petite éolienne associe un rotor, un alternateur, une queue qui l'oriente, un mât et une
+  régulation qui la protège des tempêtes. Elle peut alimenter une maison isolée, à condition d'être
+  placée haut, loin des obstacles, sur un site vraiment venté.
+tags: [eolien]
+relatedArticles: [comment-fonctionne-une-eolienne, moulins-vent, installation-solaire-autonome, maison-autonome-independante]
+sources:
+  - title: "Petit éolien"
+    url: "https://fr.wikipedia.org/wiki/Petit_%C3%A9olien"
+    publisher: "Wikipédia"
+  - title: "Small wind turbine"
+    url: "https://en.wikipedia.org/wiki/Small_wind_turbine"
+    publisher: "Wikipedia"
+  - title: "Wind power"
+    url: "https://en.wikipedia.org/wiki/Wind_power"
+    publisher: "Wikipedia"
+  - title: "Betz's law"
+    url: "https://en.wikipedia.org/wiki/Betz%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi faut-il installer une petite éolienne en hauteur ?"
+    options:
+      - "Parce que le vent est plus fort et plus régulier loin du sol et des obstacles"
+      - "Pour qu'elle soit visible de loin"
+      - "Pour éviter les oiseaux"
+    answer: 1
+    explanation: >
+      Près du sol, les arbres et les bâtiments freinent le vent et créent des tourbillons qui
+      réduisent la production et usent la machine.
+  - question: "Que devient la production si la vitesse du vent est divisée par deux ?"
+    options:
+      - "Elle est divisée par deux"
+      - "Elle est divisée par huit environ"
+      - "Elle ne change pas"
+    answer: 2
+    explanation: >
+      La puissance du vent varie comme le cube de sa vitesse. Un site deux fois moins venté produit
+      environ huit fois moins.
+  - question: "À quoi sert la résistance de délestage d'une éolienne autonome ?"
+    options:
+      - "À chauffer la maison en hiver"
+      - "À faire tourner l'éolienne plus vite"
+      - "À absorber le courant quand les batteries sont pleines, pour que l'éolienne ne s'emballe pas"
+    answer: 3
+    explanation: >
+      Une éolienne sans charge peut tourner trop vite et se détruire. La résistance lui donne
+      toujours une charge à entraîner.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une **petite éolienne**, de un à quelques mètres de diamètre, peut fournir de l'électricité à une
+maison isolée, un refuge ou un bateau. Elle se compose d'un **rotor** à pales, d'un **alternateur**,
+d'une **queue** qui l'oriente face au vent, d'un **mât** et d'une **régulation** qui charge les
+batteries et protège l'ensemble des vents violents. Des modèles se construisent même artisanalement.
+Mais tout dépend du **site** : une éolienne mal placée ne produit presque rien.
+
+## Combien peut-on espérer
+
+La puissance du vent qui traverse le rotor vaut un demi multiplié par la densité de l'air, la surface
+balayée et le **cube de la vitesse** du vent. Aucune éolienne ne récupère plus de 59 % de cette
+puissance, la limite de Betz ; une petite éolienne en récupère plutôt 20 à 35 %.
+
+Exemple : un rotor de 3 mètres de diamètre balaie environ 7 m². Par un vent de 5 mètres par seconde,
+le vent y transporte environ 540 watts ; l'éolienne en tire environ 150 watts. Par 10 mètres par
+seconde, huit fois plus. Comme le vent varie sans cesse, c'est la **vitesse moyenne du site** qui
+compte : en dessous d'environ 4 à 5 mètres par seconde de moyenne, une petite éolienne est rarement
+intéressante.
+
+## Les éléments
+
+- **Le rotor** : deux à trois pales, en bois taillé, en fibre de verre ou en aluminium, équilibrées avec
+  soin. Un rotor déséquilibré vibre et casse.
+- **L'alternateur** : souvent à **aimants permanents**, qui produit du courant dès les faibles vitesses
+  de rotation sans réducteur. Les constructeurs amateurs fabriquent des alternateurs « à flux axial »,
+  avec des disques d'aimants qui tournent face à des bobines.
+- **La nacelle et la queue** : la nacelle pivote sur le mât, et une dérive à l'arrière garde le rotor
+  face au vent.
+- **La protection contre les tempêtes** : par vent fort, la queue se replie pour mettre le rotor de
+  biais, ou un frein électrique court-circuite l'alternateur.
+- **Le mât** : en tube d'acier, haubané par des câbles, souvent basculant pour pouvoir descendre
+  l'éolienne au sol lors de l'entretien.
+
+[Emplacement image : petite éolienne autonome avec rotor, alternateur, queue repliable, mât haubané, régulateur, résistance de délestage et batteries, légende et texte alternatif à fournir ultérieurement.]
+
+## Charger des batteries
+
+Le courant de l'alternateur est redressé, puis envoyé vers des **batteries** par un **régulateur**.
+Quand les batteries sont pleines, l'éolienne ne doit pas tourner à vide : elle s'emballerait. Le
+régulateur envoie alors le courant dans une **résistance de délestage**, qui peut servir à chauffer de
+l'eau. Une éolienne se combine très bien avec des **panneaux solaires** : le vent souffle souvent plus en
+hiver et la nuit, quand le soleil manque.
+
+## Bien choisir son site
+
+- Placer le rotor **bien au-dessus** des obstacles : une règle courante demande au moins 9 mètres
+  au-dessus de tout arbre ou bâtiment dans un rayon d'environ 150 mètres.
+- Préférer les crêtes dégagées, les côtes, les plaines ouvertes.
+- Mesurer le vent avec un anémomètre pendant plusieurs mois, si possible, avant d'investir.
+- En ville ou entre des maisons, le vent est faible et turbulent : le solaire est presque toujours un
+  meilleur choix.
+
+## Sécurité et règles
+
+Un rotor qui tourne est dangereux, et un mât qui tombe aussi. On travaille par temps calme, rotor
+arrêté et bloqué. En France, un mât de plus de 12 mètres demande en général un **permis de
+construire**, et l'on respecte les distances avec les voisins et les règles locales d'urbanisme.
+
+## À retenir
+
+- Une petite éolienne associe rotor, alternateur à aimants, queue d'orientation, mât et régulation.
+- La production dépend du cube de la vitesse du vent : le choix du site est décisif.
+- Le rotor doit être placé bien au-dessus des obstacles proches.
+- Une résistance de délestage absorbe le courant quand les batteries sont pleines.
+- L'éolien et le solaire se complètent bien pour une maison isolée.
 
 ---
 type: article

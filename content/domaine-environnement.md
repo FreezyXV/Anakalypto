@@ -1563,16 +1563,134 @@ title: Se protéger des inondations
 slug: proteger-inondations
 categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
 summary: >
-  Digues, zones d'expansion des crues, habitat adapté : les techniques pour vivre avec l'eau.
-tags: [impacts-et-adaptation, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Les inondations sont le premier risque naturel en France. Laisser de la place à l'eau, adapter les
+  maisons et connaître les bons gestes sauvent des vies et limitent les dégâts. Trente centimètres
+  d'eau suffisent à emporter une voiture.
+tags: [impacts-et-adaptation]
+relatedArticles: [haies-bocage, kit-urgence-72-heures, la-radio-comme-outil-d-alerte-en-cas-de-catastrophe, regle-des-trois-priorites-survie]
+sources:
+  - title: "Inondation"
+    url: "https://fr.wikipedia.org/wiki/Inondation"
+    publisher: "Wikipédia"
+  - title: "Vigicrues"
+    url: "https://www.vigicrues.gouv.fr/"
+    publisher: "Ministère de la Transition écologique"
+  - title: "Plan de prévention des risques naturels"
+    url: "https://fr.wikipedia.org/wiki/Plan_de_pr%C3%A9vention_des_risques_naturels"
+    publisher: "Wikipédia"
+  - title: "Flood control"
+    url: "https://en.wikipedia.org/wiki/Flood_control"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien d'eau suffit-il pour emporter une voiture ?"
+    options:
+      - "Environ 30 centimètres"
+      - "Au moins 2 mètres"
+      - "Une voiture ne peut pas être emportée"
+    answer: 1
+    explanation: >
+      Une voiture flotte vite et devient incontrôlable. La plupart des victimes des inondations
+      meurent dans leur véhicule ou en traversant une zone inondée.
+  - question: "À quoi sert une zone d'expansion des crues ?"
+    options:
+      - "À construire des maisons"
+      - "À laisser l'eau s'étaler sur des prés ou des champs pour protéger les villes en aval"
+      - "À produire de l'électricité"
+    answer: 2
+    explanation: >
+      Une rivière qui peut déborder là où les dégâts sont faibles monte moins haut là où vivent les
+      habitants.
+  - question: "Que faire chez soi quand l'eau monte ?"
+    options:
+      - "Descendre à la cave pour sauver les affaires"
+      - "Prendre la voiture pour fuir à travers la zone inondée"
+      - "Couper l'électricité et le gaz, monter à l'étage et écouter les consignes"
+    answer: 3
+    explanation: >
+      La cave et le parking souterrain sont des pièges mortels. On se réfugie en hauteur et l'on
+      suit les consignes des autorités.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Les **inondations** sont le risque naturel le plus répandu en France : selon le ministère de la
+Transition écologique, environ 17 millions d'habitants sont exposés aux débordements de cours d'eau. Elles naissent du débordement d'une rivière, du **ruissellement** d'orages violents, de la
+remontée d'une nappe souterraine ou d'une **submersion marine** lors d'une tempête. On ne peut pas les
+empêcher toutes, mais on peut réduire leurs conséquences : **laisser de la place à l'eau**, **adapter**
+les constructions, **surveiller** les alertes et connaître les **bons gestes**. La plupart des victimes
+meurent en voiture ou en traversant une zone inondée.
+
+## Les différents types d'inondation
+
+- **La crue lente** d'un grand fleuve, comme la Seine en 1910 ou en 2016, qui monte en plusieurs jours.
+- **La crue rapide**, ou torrentielle, dans les petites vallées après un orage, qui monte en quelques
+  heures, comme les épisodes cévenols du sud de la France.
+- **Le ruissellement** : la pluie ne s'infiltre plus dans des sols imperméabilisés ou saturés et dévale
+  les rues.
+- **La remontée de nappe**, qui inonde caves et sous-sols pendant des semaines.
+- **La submersion marine**, quand une tempête pousse la mer sur les côtes basses, comme lors de la
+  tempête Xynthia en 2010.
+
+## Laisser de la place à l'eau
+
+Les digues protègent, mais elles peuvent céder et donnent une fausse impression de sécurité. Les
+approches modernes combinent :
+
+- des **zones d'expansion des crues** : prés, champs ou forêts où la rivière peut déborder sans grands
+  dégâts, ce qui abaisse le niveau en aval ;
+- la **restauration des zones humides** et des méandres, qui ralentissent l'eau ;
+- des **haies, talus et sols vivants** sur les bassins versants, qui retiennent la pluie ;
+- la **désimperméabilisation** des villes : noues, jardins de pluie, parkings perméables.
+
+## Adapter les bâtiments
+
+Dans les zones inondables, définies par les **plans de prévention des risques**, on adapte les
+constructions :
+
+- planchers surélevés, maisons sur pilotis ou sur vide sanitaire ;
+- **zone refuge** à l'étage, accessible depuis l'extérieur pour les secours ;
+- tableau électrique, chaudière et appareils placés en hauteur ;
+- **batardeaux**, des panneaux amovibles qui ferment portes et soupiraux ;
+- **clapets anti-retour** sur les évacuations, pour que l'égout ne remonte pas dans la maison ;
+- matériaux qui supportent l'eau au rez-de-chaussée : carrelage, enduits à la chaux.
+
+[Emplacement image : maison adaptée au risque d'inondation avec batardeaux, clapet anti-retour, équipements en hauteur et zone refuge, légende et texte alternatif à fournir ultérieurement.]
+
+## Surveiller et être alerté
+
+En France, le site **Vigicrues** indique en temps réel le niveau de vigilance des cours d'eau, et
+Météo-France émet des vigilances pluie-inondation. Les alertes passent aussi par **FR-Alert** sur les
+téléphones, la radio et les sirènes. Il faut connaître les risques de sa commune, indiqués dans son
+document d'information communal.
+
+## Les bons gestes
+
+**Avant** : préparer un kit d'urgence, mettre en hauteur papiers et objets de valeur, connaître son
+point haut et son itinéraire d'évacuation.
+
+**Pendant** :
+
+- **Ne jamais prendre la voiture** dans une zone inondée : **30 centimètres d'eau** suffisent à emporter
+  un véhicule.
+- Ne pas traverser à pied une eau qui coule : même peu profonde, elle renverse un adulte et cache des
+  bouches d'égout ouvertes.
+- **Ne pas descendre** à la cave ou au parking souterrain.
+- **Couper l'électricité et le gaz**, monter à l'étage, emporter son kit.
+- Ne pas aller chercher les enfants à l'école : l'établissement s'en occupe.
+- Écouter la radio et suivre les consignes.
+
+**Après** : aérer, désinfecter, ne pas rétablir le courant avant vérification, photographier les dégâts
+pour l'assurance et ne pas boire l'eau du robinet avant l'accord des autorités.
+
+## À retenir
+
+- Les inondations sont le premier risque naturel en France.
+- Zones d'expansion des crues, zones humides et sols vivants laissent de la place à l'eau.
+- Les maisons en zone inondable s'adaptent : équipements en hauteur, batardeaux, clapets, zone refuge.
+- Trente centimètres d'eau suffisent à emporter une voiture : on ne roule jamais dans une zone inondée.
+- Quand l'eau monte, on coupe électricité et gaz, on monte à l'étage et l'on suit les consignes.
 
 ---
 type: article

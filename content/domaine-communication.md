@@ -3207,14 +3207,118 @@ title: La radio comme outil d'alerte en cas de catastrophe
 slug: la-radio-comme-outil-d-alerte-en-cas-de-catastrophe
 categoryPath: communication-et-medias/histoire-des-medias/radio-et-television
 summary: >
-  Pourquoi ce media reste souvent le plus fiable quand d'autres reseaux tombent.
-tags: [radio-et-television, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Quand l'électricité, internet et les réseaux mobiles tombent, une radio à piles ou à manivelle
+  reçoit encore les consignes des autorités. Un seul émetteur atteint des millions de personnes sans
+  rien leur demander. C'est pourquoi la radio reste au cœur des plans d'alerte.
+tags: [radio-et-television]
+relatedArticles: [kit-urgence-72-heures, proteger-inondations, regle-des-trois-priorites-survie]
+sources:
+  - title: "Radiodiffusion"
+    url: "https://fr.wikipedia.org/wiki/Radiodiffusion"
+    publisher: "Wikipédia"
+  - title: "FR-Alert"
+    url: "https://fr.wikipedia.org/wiki/FR-Alert"
+    publisher: "Wikipédia"
+  - title: "Système d'alerte et d'information des populations"
+    url: "https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27alerte_et_d%27information_des_populations"
+    publisher: "Wikipédia"
+  - title: "Shortwave radio"
+    url: "https://en.wikipedia.org/wiki/Shortwave_radio"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi la radio fonctionne-t-elle souvent quand internet et le téléphone ne marchent plus ?"
+    options:
+      - "Parce qu'un émetteur diffuse vers tous les postes à la fois, sans réseau à travers lequel chaque appareil doit se connecter"
+      - "Parce qu'elle utilise internet par satellite"
+      - "Parce qu'elle consomme plus d'électricité"
+    answer: 1
+    explanation: >
+      La radiodiffusion envoie un signal unique reçu par tous. Il n'y a pas de saturation, et un
+      poste à piles suffit pour l'écouter.
+  - question: "Quand les sirènes d'alerte sont-elles testées en France ?"
+    options:
+      - "Chaque dimanche soir"
+      - "Le premier mercredi de chaque mois à midi"
+      - "Jamais"
+    answer: 2
+    explanation: >
+      Ce test permet de vérifier le réseau et d'habituer la population au son, différent du signal
+      d'alerte réel.
+  - question: "Que faire en entendant le signal national d'alerte ?"
+    options:
+      - "Aller chercher ses enfants à l'école en voiture"
+      - "Téléphoner à tout le monde"
+      - "Se mettre à l'abri et écouter la radio pour connaître les consignes"
+    answer: 3
+    explanation: >
+      Les écoles s'occupent des enfants, et les appels saturent les réseaux dont les secours ont
+      besoin. La radio donne les instructions.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Lors d'une tempête, d'une inondation, d'un séisme ou d'une panne générale, les réseaux sur lesquels
+nous comptons peuvent s'effondrer : électricité coupée, antennes mobiles en panne ou saturées, internet
+inaccessible. La **radio** continue souvent de fonctionner. Un seul **émetteur** atteint en même temps
+des millions de postes, sans saturation, et un appareil à **piles** ou à **manivelle** suffit pour
+l'écouter. C'est pourquoi elle reste un pilier des plans d'alerte, aux côtés des sirènes et des alertes
+sur téléphone.
+
+## Pourquoi la radio résiste
+
+- **La diffusion** : un émetteur envoie un signal unique, que tous les postes reçoivent. Contrairement au
+  téléphone ou à internet, il n'y a pas de connexion individuelle : un million d'auditeurs ne
+  surchargent pas le réseau.
+- **La simplicité du récepteur** : un poste consomme très peu, fonctionne des jours avec des piles, et
+  certains modèles se rechargent à la manivelle ou avec un petit panneau solaire. L'autoradio d'une
+  voiture fonctionne aussi.
+- **La robustesse des émetteurs** : les grandes stations disposent de groupes électrogènes de secours.
+- **La portée** : les **grandes ondes et ondes moyennes** couvrent de vastes régions, et les **ondes
+  courtes**, réfléchies par l'ionosphère, peuvent traverser des continents.
+
+[Emplacement image : comparaison entre la radiodiffusion, un émetteur vers tous les postes, et le réseau mobile, une connexion par appareil, légende et texte alternatif à fournir ultérieurement.]
+
+## La radio dans les plans d'alerte en France
+
+L'alerte des populations repose sur plusieurs canaux complémentaires :
+
+- **Les sirènes** du système d'alerte et d'information des populations émettent le **signal national
+  d'alerte**, un son montant et descendant d'environ une minute quarante, répété trois fois. Elles sont
+  testées le **premier mercredi de chaque mois à midi**.
+- **FR-Alert**, en service depuis 2022, envoie des notifications à tous les téléphones présents dans une
+  zone en danger, même sans application.
+- **Les radios publiques**, notamment le réseau local de Radio France et France Info, sont liées par des
+  conventions pour diffuser les messages et consignes des autorités.
+
+La règle à retenir en entendant l'alerte : **se mettre à l'abri** et **écouter la radio**.
+
+## Les bons gestes
+
+- Garder chez soi une **radio à piles ou à manivelle**, avec des piles de rechange, dans le kit d'urgence.
+- Connaître les **fréquences** des stations locales et de la radio d'information nationale dans sa
+  région.
+- Ne pas téléphoner sauf urgence vitale : les appels saturent les réseaux dont les secours ont besoin.
+- Ne pas aller chercher ses enfants à l'école : les établissements ont leurs propres plans de mise en
+  sûreté.
+- Se méfier des rumeurs sur les réseaux sociaux et s'en tenir aux sources officielles.
+
+## Un média qui a fait ses preuves
+
+Lors de nombreuses catastrophes, la radio a été le dernier lien avec l'extérieur. Lors de la tempête de
+décembre 1999 en France, de l'ouragan Katrina en 2005 aux États-Unis ou du séisme et du tsunami de 2011 au
+Japon, les radios locales ont diffusé des informations vitales quand les autres moyens étaient
+coupés. Les **radioamateurs**, avec leurs propres émetteurs, aident aussi parfois les secours à
+communiquer quand les réseaux sont tombés.
+
+## À retenir
+
+- La radio diffuse un signal unique reçu par tous : elle ne sature pas en cas de crise.
+- Une radio à piles ou à manivelle fonctionne sans électricité ni internet.
+- En France, les sirènes sont testées le premier mercredi de chaque mois à midi.
+- FR-Alert et les radios publiques complètent les sirènes pour alerter la population.
+- En entendant l'alerte, on se met à l'abri et l'on écoute la radio.
 
 ---
 type: article

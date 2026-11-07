@@ -1705,16 +1705,129 @@ title: La charpente en bois
 slug: charpente-bois
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Assemblages, triangulation, choix des essences : le savoir-faire des charpentiers pour couvrir un bâtiment.
-tags: [structures, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une charpente porte le toit d'un bâtiment. Ses pièces de bois, assemblées en triangles
+  indéformables, reprennent le poids de la couverture, de la neige et la force du vent. Les
+  charpentiers maîtrisent depuis des siècles le choix des essences et l'art des assemblages.
+tags: [structures]
+relatedArticles: [arc-voute, levier-poulie-plan-incline, gerer-durablement-foret]
+sources:
+  - title: "Charpente"
+    url: "https://fr.wikipedia.org/wiki/Charpente"
+    publisher: "Wikipédia"
+  - title: "Ferme (charpente)"
+    url: "https://fr.wikipedia.org/wiki/Ferme_(charpente)"
+    publisher: "Wikipédia"
+  - title: "Timber framing"
+    url: "https://en.wikipedia.org/wiki/Timber_framing"
+    publisher: "Wikipedia"
+  - title: "Tenon et mortaise"
+    url: "https://fr.wikipedia.org/wiki/Tenon_et_mortaise"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi les charpentes sont-elles faites de triangles ?"
+    options:
+      - "Parce qu'un triangle ne peut pas se déformer sans que l'une de ses pièces change de longueur"
+      - "Parce que c'est plus joli"
+      - "Parce que cela économise les clous"
+    answer: 1
+    explanation: >
+      Un carré articulé s'aplatit facilement en losange. Un triangle reste rigide : c'est la
+      triangulation.
+  - question: "Quel est le rôle de l'entrait dans une ferme de charpente ?"
+    options:
+      - "Décorer le plafond"
+      - "Relier le bas des deux arbalétriers pour les empêcher de pousser les murs vers l'extérieur"
+      - "Porter les tuiles directement"
+    answer: 2
+    explanation: >
+      Comme un arc, un toit en pente pousse ses appuis. L'entrait, tendu, retient cette poussée.
+  - question: "Comment s'assemblaient traditionnellement les pièces d'une charpente ?"
+    options:
+      - "Avec de la colle"
+      - "Avec des vis en acier"
+      - "Par tenons et mortaises bloqués par des chevilles en bois"
+    answer: 3
+    explanation: >
+      Le tenon, une languette taillée au bout d'une pièce, entre dans la mortaise, un logement creusé
+      dans l'autre. Une cheville traverse le tout.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+La **charpente** est la structure qui porte le toit. Elle doit supporter le poids des tuiles ou des
+ardoises, celui de la **neige**, et résister aux arrachements du **vent**. Les charpentiers utilisent
+depuis des siècles un principe simple : la **triangulation**, car un triangle est indéformable. Ils
+choisissent leurs **essences** de bois selon leur solidité et leur durabilité, et les relient par des
+**assemblages** taillés avec précision. Certaines charpentes médiévales tiennent depuis plus de
+huit siècles.
+
+## Le triangle, forme indéformable
+
+Quatre barres articulées en carré s'écrasent facilement en losange. Trois barres articulées en
+**triangle** ne peuvent pas se déformer sans qu'une barre s'allonge ou se raccourcisse. En plaçant des
+triangles partout, on obtient une structure rigide avec peu de bois. On retrouve ce principe dans les
+ponts métalliques, les grues et les pylônes.
+
+## Les pièces d'une charpente traditionnelle
+
+La charpente classique repose sur des **fermes**, des triangles de bois placés à intervalles réguliers :
+
+- les **arbalétriers**, les deux pièces inclinées qui suivent la pente du toit ;
+- l'**entrait**, la poutre horizontale qui relie le bas des arbalétriers. Il est **tendu** et empêche le
+  toit de pousser les murs vers l'extérieur, comme une corde d'arc ;
+- le **poinçon**, pièce verticale au centre, et les **contrefiches**, qui raidissent l'ensemble.
+
+Entre les fermes, des **pannes** horizontales portent les **chevrons**, qui suivent la pente, puis les
+**liteaux** sur lesquels on accroche la couverture.
+
+[Emplacement image : ferme de charpente traditionnelle avec entrait, arbalétriers, poinçon, contrefiches, pannes et chevrons, légende et texte alternatif à fournir ultérieurement.]
+
+## Les assemblages
+
+Avant les connecteurs métalliques, les pièces s'assemblaient par le bois lui-même :
+
+- **le tenon et la mortaise** : une languette taillée au bout d'une pièce s'emboîte dans un logement
+  creusé dans l'autre, et une **cheville** en bois dur traverse le tout ;
+- **l'assemblage à mi-bois** : on entaille la moitié de l'épaisseur des deux pièces, qui se croisent à
+  plat ;
+- **la queue d'aronde**, en forme de queue d'hirondelle, qui ne peut pas s'arracher ;
+- **l'embrèvement**, une entaille inclinée qui transmet la poussée d'une pièce oblique.
+
+Les charpentiers tracent ces assemblages grâce à l'**épure**, un dessin en grandeur réelle tracé au sol,
+art transmis notamment par les compagnons du devoir. Aujourd'hui, on utilise aussi des boulons, des
+équerres métalliques et des **fermettes industrielles** légères assemblées par des plaques crantées.
+
+## Choisir le bois
+
+- **Le chêne** : très solide et durable, c'est le bois des charpentes médiévales et des cathédrales.
+- **Le châtaignier**, naturellement résistant aux insectes.
+- **Le sapin, l'épicéa et le douglas** : plus légers, droits et abondants, très utilisés aujourd'hui.
+
+Traditionnellement, on travaillait le chêne **frais**, plus facile à tailler, et il séchait en place. On
+choisit des bois droits, sans gros nœuds, et l'on tient compte du **fil** du bois.
+
+## Protéger une charpente
+
+L'ennemi du bois est l'**humidité** : un bois qui reste mouillé pourrit et attire les insectes et les
+champignons. Une charpente durable est **hors d'eau** grâce à une couverture entretenue, **ventilée**, et
+ses pièces ne touchent pas un mur humide. On surveille les traces de fuites, de vermoulure ou de
+champignons.
+
+## Notre-Dame de Paris
+
+La charpente médiévale de Notre-Dame, surnommée « la forêt », comptait des centaines de poutres de chêne
+du XIIIe siècle. Détruite par l'incendie d'avril 2019, elle a été reconstruite en chêne, avec des
+techniques traditionnelles de taille à la hache, et la cathédrale a rouvert en décembre 2024.
+
+## À retenir
+
+- La charpente porte le toit et résiste au poids de la couverture, à la neige et au vent.
+- Elle repose sur la triangulation : un triangle est indéformable.
+- Dans une ferme, l'entrait relie le bas des arbalétriers et retient la poussée du toit.
+- Tenons, mortaises et chevilles assemblent les pièces sans métal.
+- L'humidité est l'ennemi principal du bois : une charpente doit rester sèche et ventilée.
 
 ---
 type: article
@@ -5486,14 +5599,127 @@ title: La construction de puits et de forages
 slug: la-construction-de-puits-et-de-forages
 categoryPath: technologies-et-ingenierie/genie-civil/ouvrages-dart
 summary: >
-  Des techniques essentielles pour acceder a une ressource en eau souterraine.
-tags: [ouvrages-dart, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Un puits creusé ou un forage tubé donnent accès à l'eau des nappes souterraines. Leur qualité
+  dépend autant de leur construction que de la nappe : une tête mal protégée ou des latrines trop
+  proches suffisent à contaminer l'eau.
+tags: [ouvrages-dart]
+relatedArticles: [maison-autonome-independante, purifier-eau-situation-urgence, rendre-eau-potable, recuperer-eau-pluie, assainissement-autonome-toilettes-seches]
+sources:
+  - title: "Puits"
+    url: "https://fr.wikipedia.org/wiki/Puits"
+    publisher: "Wikipédia"
+  - title: "Forage d'eau"
+    url: "https://fr.wikipedia.org/wiki/Forage_d%27eau"
+    publisher: "Wikipédia"
+  - title: "Nappe phréatique"
+    url: "https://fr.wikipedia.org/wiki/Nappe_phr%C3%A9atique"
+    publisher: "Wikipédia"
+  - title: "Déclarer un projet de puits ou de forage domestique"
+    url: "https://www.justice.fr/fiche/declarer-projet-puits-forage-domestique"
+    publisher: "Justice.fr, fiche Service-public.fr"
+quiz:
+  - question: "Qu'est-ce qu'une nappe phréatique ?"
+    options:
+      - "L'eau qui remplit les pores et les fissures des roches sous la surface"
+      - "Un lac souterrain avec des vagues"
+      - "Une rivière qui coule dans une grotte"
+    answer: 1
+    explanation: >
+      L'eau de pluie s'infiltre et sature le sol à partir d'une certaine profondeur. Elle circule
+      lentement dans les sables, graviers et roches fissurées.
+  - question: "Pourquoi cimente-t-on la partie haute d'un forage ?"
+    options:
+      - "Pour le rendre plus joli"
+      - "Pour empêcher l'eau de surface polluée de s'infiltrer le long du tube jusqu'à la nappe"
+      - "Pour augmenter le débit"
+    answer: 2
+    explanation: >
+      Sans cette étanchéité, ruissellement, engrais ou eaux usées peuvent descendre directement vers
+      l'eau pompée.
+  - question: "Pourquoi éloigner un puits des latrines et des fosses ?"
+    options:
+      - "Pour des raisons d'odeur seulement"
+      - "Parce que c'est plus pratique pour le jardin"
+      - "Parce que les microbes des eaux usées peuvent cheminer dans le sol jusqu'à l'eau du puits"
+    answer: 3
+    explanation: >
+      On place le puits en amont et à bonne distance, souvent au moins 30 mètres, de toute source
+      de pollution.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Sous nos pieds, l'eau de pluie infiltrée remplit les pores et les fissures des roches : c'est une
+**nappe souterraine**. Un **puits** creusé à la main, large et peu profond, ou un **forage** étroit,
+réalisé à la machine et tubé, permettent d'y puiser. L'eau souterraine est souvent de meilleure qualité
+que celle des rivières, mais elle peut être contaminée par la surface. La **construction** compte
+autant que la ressource : une tête mal protégée ou une fosse septique trop proche suffisent à rendre
+l'eau dangereuse.
+
+## Comprendre la nappe
+
+- **La nappe libre**, ou phréatique, est la plus proche de la surface. Son niveau monte en hiver et baisse
+  en été. Elle est facile à atteindre mais plus vulnérable aux pollutions.
+- **La nappe captive** est emprisonnée sous une couche imperméable d'argile. Plus profonde, elle est mieux
+  protégée. Parfois, sa pression fait jaillir l'eau seule : c'est un puits **artésien**, du nom de
+  l'Artois, où ces puits étaient nombreux.
+
+Avant de creuser, on se renseigne : puits voisins, cartes géologiques, profondeur habituelle de l'eau.
+En France, la Banque du sous-sol du BRGM recense de nombreux forages existants.
+
+## Le puits creusé
+
+Le puits traditionnel mesure environ un mètre de diamètre et descend jusqu'à quelques mètres sous le
+niveau le plus bas de la nappe. Il est creusé à la main, puis ses parois sont maintenues par des
+**buses en béton**, de la maçonnerie ou des pierres, pour éviter l'éboulement. Au fond, une couche de
+gravier filtre l'eau qui entre.
+
+Creuser un puits est dangereux : **éboulements** et **gaz** accumulés au fond tuent chaque année des
+puisatiers. On ne descend jamais seul, on étaie au fur et à mesure et l'on vérifie l'air.
+
+## Le forage
+
+Un forage est un trou de quelques dizaines de centimètres de diamètre, réalisé par une machine, qui peut
+descendre à des dizaines ou des centaines de mètres. On y descend :
+
+- un **tube**, en PVC ou en acier, qui maintient les parois ;
+- une **crépine**, partie du tube percée de fentes fines, au niveau de la nappe ;
+- un **massif filtrant** de gravier calibré autour de la crépine ;
+- une **cimentation** de la partie haute, entre le tube et le terrain, pour empêcher l'eau de surface de
+  descendre le long du tube.
+
+L'eau est remontée par une **pompe immergée** électrique, ou par une **pompe manuelle**, utile sans
+électricité pour les nappes peu profondes.
+
+[Emplacement image : coupe comparée d'un puits creusé et d'un forage tubé avec crépine, massif filtrant, cimentation et tête protégée, légende et texte alternatif à fournir ultérieurement.]
+
+## Protéger l'eau
+
+- **L'emplacement** : en amont et loin de toute pollution, latrines, fosse septique, fumier, cuve de
+  fioul, cimetière. Les recommandations courantes demandent au moins **30 mètres**, davantage sur un sol
+  très perméable.
+- **La tête** : une margelle ou une dalle en béton surélevée, en pente vers l'extérieur, et un couvercle
+  étanche, pour que ni le ruissellement, ni les animaux, ni les feuilles n'y tombent.
+- **L'entretien** : nettoyage et désinfection après construction ou après une inondation.
+- **L'analyse** : avant de boire l'eau, faire analyser par un laboratoire agréé, puis régulièrement.
+  Nitrates, pesticides, arsenic ou bactéries ne se voient pas.
+
+## Les règles en France
+
+Un puits ou un forage domestique doit être **déclaré en mairie**, au moins un mois avant les travaux, et
+les forages de plus de 10 mètres doivent aussi être déclarés aux services de l'État. Si l'eau est destinée
+à la consommation humaine, il faut le signaler et la faire analyser. Un forage abandonné doit être
+rebouché correctement, car il crée un chemin direct pour les pollutions vers la nappe.
+
+## À retenir
+
+- Une nappe souterraine est de l'eau qui remplit les pores et les fissures des roches.
+- Un puits creusé est large et peu profond ; un forage est étroit, profond et tubé.
+- La cimentation de tête empêche l'eau de surface polluée de rejoindre la nappe.
+- On place le puits en amont et à au moins 30 mètres environ de toute source de pollution.
+- En France, un puits ou forage domestique se déclare en mairie, et son eau se fait analyser avant d'être bue.
 
 ---
 type: article
