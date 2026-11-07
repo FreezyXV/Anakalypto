@@ -1598,16 +1598,118 @@ title: La loi de Moore
 slug: loi-moore
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Le nombre de transistors double environ tous les deux ans : une prédiction qui a tenu cinquante ans.
+  En 1965, Gordon Moore prédit que le nombre de transistors sur une puce doublera à intervalles
+  réguliers. Pendant cinquante ans, cette prédiction a guidé toute l'industrie. Elle ralentit
+  aujourd'hui, et les ingénieurs cherchent d'autres voies.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [fabrique-puce, asml-lithographie-euv, comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur, gravure-2-nanometres-tsmc]
+sources:
+  - title: "Loi de Moore"
+    url: "https://fr.wikipedia.org/wiki/Loi_de_Moore"
+    publisher: "Wikipédia"
+  - title: "Moore's law"
+    url: "https://en.wikipedia.org/wiki/Moore%27s_law"
+    publisher: "Wikipedia"
+  - title: "Intel 4004"
+    url: "https://en.wikipedia.org/wiki/Intel_4004"
+    publisher: "Wikipedia"
+  - title: "Dennard scaling"
+    url: "https://en.wikipedia.org/wiki/Dennard_scaling"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que prédit la loi de Moore, dans sa version de 1975 ?"
+    options:
+      - "Que le nombre de transistors sur une puce double environ tous les deux ans"
+      - "Que les ordinateurs deviendront deux fois plus lourds"
+      - "Que le prix de l'électricité doublera"
+    answer: 1
+    explanation: >
+      Gordon Moore prévoyait d'abord un doublement chaque année, puis, en 1975, tous les deux ans.
+  - question: "Combien de transistors comptait le premier microprocesseur, l'Intel 4004, en 1971 ?"
+    options:
+      - "Deux"
+      - "Environ 2 300"
+      - "Un milliard"
+    answer: 2
+    explanation: >
+      Les puces les plus grandes d'aujourd'hui dépassent cent milliards de transistors, soit des
+      dizaines de millions de fois plus.
+  - question: "Pourquoi les processeurs ont-ils plusieurs cœurs depuis le milieu des années 2000 ?"
+    options:
+      - "Pour être plus jolis"
+      - "Parce que les transistors ont grossi"
+      - "Parce qu'augmenter encore la fréquence faisait trop chauffer les puces"
+    answer: 3
+    explanation: >
+      Vers 2005, les puces ne pouvaient plus évacuer la chaleur produite à plus haute fréquence.
+      On a préféré multiplier les cœurs.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+En 1965, l'ingénieur américain Gordon Moore, futur cofondateur d'Intel, observe que le nombre de
+composants sur une puce double chaque année et prévoit que cela continuera. En 1975, il corrige sa
+prévision : un doublement environ tous les **deux ans**. Ce n'est pas une loi de la nature, mais
+une observation devenue objectif pour toute l'industrie. Elle a tenu un demi-siècle et explique
+pourquoi un téléphone d'aujourd'hui est des millions de fois plus puissant que les ordinateurs des
+missions Apollo. Elle ralentit désormais.
+
+## Un doublement qui change tout
+
+Doubler tous les deux ans, c'est multiplier par 32 en dix ans et par environ un million en
+quarante ans. Le premier microprocesseur commercial, l'**Intel 4004**, sorti en 1971, comptait
+environ 2 300 transistors, espacés de 10 micromètres. Les plus grandes puces actuelles en
+comptent plus de cent milliards.
+
+Pendant longtemps, rétrécir les transistors apportait tout à la fois :
+
+- **plus de transistors** sur la même surface, donc plus de fonctions ;
+- des transistors **plus rapides**, donc une fréquence plus élevée ;
+- une **consommation par transistor plus faible** ;
+- un **coût par transistor en baisse**.
+
+[Emplacement image : graphique en échelle logarithmique du nombre de transistors par puce de 1971 à aujourd'hui, légende et texte alternatif à fournir ultérieurement.]
+
+## Le mur de la chaleur
+
+Vers 2005, une partie de ce cercle vertueux se brise. Les transistors devenus minuscules laissent
+passer des courants de fuite, et la puissance dissipée par centimètre carré devient impossible à
+évacuer à plus haute fréquence. Les fréquences plafonnent autour de 3 à 5 gigahertz.
+
+L'industrie change de stratégie : plutôt qu'un cœur plus rapide, elle met **plusieurs cœurs** sur
+la même puce, puis des circuits spécialisés pour les images, la vidéo ou l'intelligence
+artificielle.
+
+## Des nanomètres qui ne mesurent plus rien
+
+Les générations de fabrication portent des noms comme « 5 nm », « 3 nm » ou « 2 nm ». Ces chiffres
+ne correspondent plus à une dimension réelle du transistor : ce sont des noms commerciaux qui
+indiquent une nouvelle génération, plus dense. Pour continuer à progresser, les fabricants
+changent la forme des transistors, d'abord en ailettes verticales, puis en nappes empilées entourées
+par la grille, et utilisent la lithographie extrême ultraviolet.
+
+## Ralentissement et nouvelles voies
+
+Chaque nouvelle génération coûte plus cher à développer et ses usines aussi. Le coût par
+transistor baisse beaucoup moins vite qu'avant. Beaucoup estiment que la loi de Moore, au sens
+strict, a ralenti.
+
+Les ingénieurs explorent d'autres voies :
+
+- **l'empilement en trois dimensions**, de mémoire ou de logique, comme des étages ;
+- **les puces en morceaux**, ou *chiplets*, assemblées dans un même boîtier ;
+- **les puces spécialisées**, plus efficaces qu'un processeur généraliste pour une tâche donnée ;
+- de nouveaux matériaux et, à plus long terme, d'autres formes de calcul.
+
+## À retenir
+
+- En 1965, Gordon Moore prédit un doublement régulier du nombre de composants par puce ; en 1975, il le fixe à environ deux ans.
+- L'Intel 4004, en 1971, comptait environ 2 300 transistors ; les plus grandes puces en dépassent aujourd'hui cent milliards.
+- Vers 2005, la chaleur a stoppé la hausse des fréquences : les processeurs sont devenus multicœurs.
+- Les noms de gravure en nanomètres sont désormais commerciaux.
+- La loi de Moore ralentit ; l'empilement, les chiplets et les puces spécialisées prennent le relais.
 
 ---
 type: article
@@ -1615,16 +1717,120 @@ title: Les cartes graphiques
 slug: cartes-graphiques
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Des milliers de petits cœurs en parallèle, devenus indispensables à l'intelligence artificielle.
+  Un processeur graphique, ou GPU, contient des milliers de petits cœurs qui font le même calcul
+  en même temps sur des données différentes. Conçu pour les images des jeux vidéo, il est devenu
+  le moteur de l'intelligence artificielle.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [les-processeurs-specialises-pour-l-intelligence-artificielle, comment-fonctionne-un-processeur, pourquoi-une-carte-graphique-calcule-t-elle-si-vite-des-millions-de-pixels, fabrique-puce]
+sources:
+  - title: "Processeur graphique"
+    url: "https://fr.wikipedia.org/wiki/Processeur_graphique"
+    publisher: "Wikipédia"
+  - title: "Graphics processing unit"
+    url: "https://en.wikipedia.org/wiki/Graphics_processing_unit"
+    publisher: "Wikipedia"
+  - title: "CUDA"
+    url: "https://en.wikipedia.org/wiki/CUDA"
+    publisher: "Wikipedia"
+  - title: "AlexNet"
+    url: "https://en.wikipedia.org/wiki/AlexNet"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la grande différence entre un CPU et un GPU ?"
+    options:
+      - "Le CPU a quelques cœurs très polyvalents, le GPU des milliers de cœurs simples qui travaillent en parallèle"
+      - "Le GPU ne fait que de l'affichage de texte"
+      - "Le CPU est toujours plus rapide pour tout"
+    answer: 1
+    explanation: >
+      Le CPU excelle dans les tâches variées et séquentielles. Le GPU excelle quand le même
+      calcul doit être répété sur une énorme quantité de données.
+  - question: "Pourquoi les GPU sont-ils si utilisés pour l'intelligence artificielle ?"
+    options:
+      - "Parce qu'ils ont un écran intégré"
+      - "Parce que l'apprentissage des réseaux de neurones repose sur d'immenses multiplications de tableaux de nombres"
+      - "Parce qu'ils consomment peu"
+    answer: 2
+    explanation: >
+      Les calculs d'un réseau de neurones sont surtout des multiplications de matrices, très
+      faciles à répartir entre des milliers de cœurs.
+  - question: "À quoi sert la mémoire vidéo d'une carte graphique ?"
+    options:
+      - "À stocker les fichiers de l'utilisateur"
+      - "À brancher un écran supplémentaire"
+      - "À fournir très vite au GPU les données sur lesquelles il calcule"
+    answer: 3
+    explanation: >
+      Des milliers de cœurs consomment énormément de données. La mémoire vidéo, très rapide,
+      est placée juste à côté du GPU pour les alimenter.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une carte graphique est une carte électronique dont le cœur est un **processeur graphique**, ou
+**GPU**. Là où le processeur central, le **CPU**, possède quelques cœurs puissants et polyvalents,
+le GPU en possède des milliers, plus simples, qui exécutent tous le même calcul en même temps sur
+des données différentes. Inventé pour calculer les millions de pixels d'une image de jeu vidéo, ce
+fonctionnement en parallèle s'est révélé idéal pour la science et pour l'intelligence
+artificielle.
+
+## CPU et GPU, deux philosophies
+
+Le **CPU** est un chef d'orchestre. Il exécute le système d'exploitation, les programmes, les
+décisions. Ses quelques cœurs, souvent entre 4 et 24 sur un ordinateur personnel, sont très
+rapides et savent prendre des décisions complexes, prévoir la suite d'un programme et passer d'une
+tâche à l'autre.
+
+Le **GPU** est une armée de calculateurs. Une image de 1920 × 1080 pixels en compte plus de deux
+millions, et il faut calculer la couleur de chacun soixante fois par seconde ou plus. Le même
+calcul, appliqué à des millions de points : c'est exactement ce que le GPU fait de mieux. Une carte
+récente compte plusieurs milliers à plus de vingt mille cœurs de calcul.
+
+## Ce que contient une carte graphique
+
+- **Le GPU**, la puce de calcul.
+- **La mémoire vidéo**, de 8 à plus de 24 gigaoctets sur les cartes grand public, de types GDDR
+  ou HBM. Elle est placée juste à côté du GPU, avec un débit énorme, pour alimenter tous ses cœurs.
+- **L'étage d'alimentation**, qui transforme le courant de l'ordinateur en tensions précises et
+  stables pour le GPU.
+- **Le refroidissement** : radiateurs, caloducs et ventilateurs, car une carte haut de gamme peut
+  consommer plusieurs centaines de watts.
+- **Les sorties vidéo** et le connecteur qui la relie à la carte mère.
+
+[Emplacement image : vue éclatée d'une carte graphique avec le GPU, la mémoire, l'alimentation et le système de refroidissement, légende et texte alternatif à fournir ultérieurement.]
+
+## Du jeu vidéo au calcul scientifique
+
+Dans les années 1990, des cartes spécialisées accélèrent l'affichage en trois dimensions. En 1999,
+l'entreprise américaine Nvidia présente sa GeForce 256 comme le premier « GPU ». Au fil des années,
+les cœurs deviennent programmables : on peut leur confier d'autres calculs que des images.
+
+En 2007, Nvidia publie **CUDA**, un outil qui permet de programmer facilement ses GPU pour des
+calculs généraux. Les chercheurs s'en emparent pour simuler le climat, des molécules ou des
+galaxies.
+
+## Le moteur de l'intelligence artificielle
+
+Un réseau de neurones artificiels est, pour l'essentiel, une succession d'immenses multiplications
+de tableaux de nombres, les matrices. Ces calculs se répartissent très bien entre des milliers de
+cœurs. En 2012, le réseau AlexNet, entraîné sur deux cartes graphiques de jeu, remporte de loin
+un grand concours de reconnaissance d'images. C'est le début de l'essor de l'apprentissage
+profond.
+
+Depuis, les GPU pour centres de données intègrent des unités spécialisées dans le calcul de
+matrices, de la mémoire HBM empilée et des liaisons très rapides qui relient des milliers de
+cartes entre elles pour entraîner les grands modèles de langage. Nvidia domine ce marché, devant
+AMD. Des puces encore plus spécialisées, les NPU et les TPU, sont apparues pour certaines tâches.
+
+## À retenir
+
+- Le GPU contient des milliers de cœurs simples qui font le même calcul en parallèle.
+- Le CPU, lui, a peu de cœurs, mais très polyvalents et rapides.
+- Une carte graphique associe le GPU, une mémoire vidéo très rapide, une alimentation et un refroidissement.
+- CUDA, en 2007, a ouvert les GPU au calcul scientifique.
+- Les GPU sont devenus le moteur de l'intelligence artificielle depuis 2012.
 
 ---
 type: article
@@ -1632,16 +1838,133 @@ title: Comment on fabrique une puce
 slug: fabrique-puce
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Photolithographie, salles blanches, machines ASML : l'industrie la plus complexe du monde.
+  Une puce électronique naît d'un disque de silicium ultra-pur. Des centaines d'étapes de
+  lithographie, de gravure, de dopage et de dépôt y sculptent des milliards de transistors, dans
+  des salles plus propres qu'un bloc opératoire.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [asml-lithographie-euv, loi-moore, tsmc-geopolitique-puces, comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur]
+sources:
+  - title: "Fabrication des dispositifs à semi-conducteurs"
+    url: "https://fr.wikipedia.org/wiki/Fabrication_des_dispositifs_%C3%A0_semi-conducteurs"
+    publisher: "Wikipédia"
+  - title: "Semiconductor device fabrication"
+    url: "https://en.wikipedia.org/wiki/Semiconductor_device_fabrication"
+    publisher: "Wikipedia"
+  - title: "Photolithography"
+    url: "https://en.wikipedia.org/wiki/Photolithography"
+    publisher: "Wikipedia"
+  - title: "Procédé de Czochralski"
+    url: "https://fr.wikipedia.org/wiki/Proc%C3%A9d%C3%A9_de_Czochralski"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Comment dessine-t-on les motifs des transistors sur le silicium ?"
+    options:
+      - "Avec de la lumière projetée à travers un masque sur une résine photosensible"
+      - "Avec un stylo très fin"
+      - "Avec une imprimante à jet d'encre"
+    answer: 1
+    explanation: >
+      C'est la photolithographie : la lumière durcit ou ramollit la résine selon le motif du
+      masque, puis la gravure reporte ce motif dans le matériau.
+  - question: "Pourquoi fabrique-t-on les puces en salle blanche ?"
+    options:
+      - "Pour que les ouvriers aient moins chaud"
+      - "Parce qu'une poussière invisible suffit à détruire un circuit"
+      - "Pour économiser l'électricité"
+    answer: 2
+    explanation: >
+      Les motifs mesurent quelques dizaines de nanomètres. Une poussière mille fois plus grosse
+      couvre des centaines de transistors et rend la puce inutilisable.
+  - question: "Combien de temps faut-il environ pour fabriquer une plaque de puces avancées ?"
+    options:
+      - "Une heure"
+      - "Une journée"
+      - "Environ trois mois"
+    answer: 3
+    explanation: >
+      Une plaque passe par des centaines, parfois plus de mille étapes, ce qui demande de
+      l'ordre de trois mois dans l'usine.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une puce électronique est un petit carré de silicium où sont gravés des millions, voire des
+dizaines de milliards de **transistors**, reliés par des fils de cuivre microscopiques. On la
+fabrique par lots, sur des disques de silicium appelés **plaques** ou *wafers*. Chaque plaque
+passe par des centaines d'étapes répétées : on dépose une couche, on y dessine un motif avec de la
+lumière, on grave, on dope. La fabrication dure environ trois mois dans une usine où l'air est des
+milliers de fois plus propre qu'à l'extérieur.
+
+## Du sable au lingot
+
+Le silicium vient du quartz, un oxyde de silicium présent dans le sable et les roches. On le
+réduit au four électrique, puis on le purifie chimiquement jusqu'à une pureté extraordinaire :
+moins d'un atome étranger pour un milliard d'atomes de silicium.
+
+Le silicium purifié est fondu dans un creuset. On y trempe un petit germe de cristal qu'on remonte
+très lentement en le faisant tourner : c'est le **procédé de Czochralski**. On obtient un lingot
+cylindrique formé d'un seul cristal parfait, qui peut dépasser deux mètres. Il est découpé en
+plaques d'un peu moins d'un millimètre d'épaisseur, de 300 mm de diamètre pour les usines modernes,
+puis poli comme un miroir.
+
+## Le cycle de base, répété des dizaines de fois
+
+Une puce est construite couche par couche. Pour chaque couche, on répète à peu près le même cycle :
+
+1. **Dépôt** : on recouvre la plaque d'une fine couche d'isolant, de métal ou de silicium.
+2. **Résine** : on étale une résine sensible à la lumière.
+3. **Lithographie** : une machine projette, à travers un masque, l'image réduite du motif à
+   dessiner. Les zones éclairées de la résine changent de nature.
+4. **Développement** : un produit dissout la résine éclairée, ou au contraire celle restée dans
+   l'ombre. Le motif apparaît en relief.
+5. **Gravure** : un plasma, gaz ionisé, attaque la couche là où elle n'est plus protégée.
+6. **Dopage** : on bombarde certaines zones d'atomes comme le bore ou le phosphore, qui changent la
+   manière dont le silicium conduit l'électricité. C'est ce qui crée les transistors.
+7. **Nettoyage et polissage** : on retire la résine et on aplanit la surface avant la couche
+   suivante.
+
+[Emplacement image : cycle de fabrication d'une couche, du dépôt à la gravure, sur une coupe de plaque de silicium, légende et texte alternatif à fournir ultérieurement.]
+
+Les transistors occupent les premières couches. Au-dessus, une dizaine de niveaux de fils de
+cuivre, séparés par des isolants, les relient entre eux comme les étages d'un échangeur
+autoroutier. Pour une puce de pointe, on compte des centaines, parfois plus de mille étapes.
+
+## Les salles blanches
+
+Un transistor moderne mesure quelques dizaines de nanomètres, soit des milliers de fois moins que
+l'épaisseur d'un cheveu. Une seule poussière peut couvrir des centaines de transistors et tuer la
+puce. Les usines sont donc des **salles blanches** : l'air y est filtré en continu et circule du
+plafond vers le sol, les opérateurs portent des combinaisons intégrales, et les plaques voyagent
+entre les machines dans des boîtiers fermés, transportés par des robots suspendus.
+
+Les usines consomment aussi d'énormes quantités d'**eau ultrapure**, pour rincer les plaques, et
+d'électricité.
+
+## Tester, découper, emballer
+
+Une plaque de 300 mm porte des dizaines à des centaines de puces. Chacune est testée
+électriquement par de fines pointes. La part des puces qui fonctionnent s'appelle le
+**rendement** ; il est faible au lancement d'un nouveau procédé et s'améliore avec le temps.
+
+La plaque est ensuite découpée au laser ou à la scie diamantée. Chaque puce est collée dans un
+boîtier, reliée à ses broches ou à de minuscules billes de soudure, et protégée. Les puces les plus
+récentes assemblent même plusieurs morceaux de silicium côte à côte ou empilés dans un seul boîtier.
+
+## Une industrie très concentrée
+
+Une usine de puces avancées coûte aujourd'hui plus de 20 milliards de dollars. Seules quelques
+entreprises savent produire les puces les plus fines, comme TSMC, Samsung et Intel. Leurs machines
+de lithographie les plus avancées viennent toutes d'un seul fournisseur, le néerlandais ASML.
+
+## À retenir
+
+- Une puce est fabriquée sur une plaque de silicium ultra-pur, découpée dans un lingot monocristallin.
+- Elle est construite couche par couche : dépôt, résine, lithographie, gravure, dopage.
+- Les transistors sont reliés par une dizaine de niveaux de fils de cuivre.
+- Une poussière suffit à détruire une puce : la fabrication se fait en salle blanche.
+- Une puce avancée demande des centaines d'étapes et environ trois mois de fabrication.
 
 ---
 type: article
@@ -1649,16 +1972,124 @@ title: TSMC et la géopolitique des puces
 slug: tsmc-geopolitique-puces
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Pourquoi une entreprise taïwanaise est devenue un enjeu stratégique mondial.
+  Les puces les plus avancées du monde sont presque toutes fabriquées à Taïwan, par TSMC, avec
+  des machines néerlandaises et sur des plans américains. Cette chaîne mondiale très concentrée
+  est devenue un enjeu stratégique majeur.
 tags: [processeurs]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [asml-lithographie-euv, fabrique-puce, gravure-2-nanometres-tsmc, loi-moore]
+sources:
+  - title: "Taiwan Semiconductor Manufacturing Company"
+    url: "https://fr.wikipedia.org/wiki/Taiwan_Semiconductor_Manufacturing_Company"
+    publisher: "Wikipédia"
+  - title: "TSMC"
+    url: "https://en.wikipedia.org/wiki/TSMC"
+    publisher: "Wikipedia"
+  - title: "CHIPS and Science Act"
+    url: "https://en.wikipedia.org/wiki/CHIPS_and_Science_Act"
+    publisher: "Wikipedia"
+  - title: "European Chips Act"
+    url: "https://en.wikipedia.org/wiki/European_Chips_Act"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qu'une fonderie de semi-conducteurs comme TSMC ?"
+    options:
+      - "Une entreprise qui fabrique les puces conçues par d'autres"
+      - "Une usine qui fond des métaux"
+      - "Une entreprise qui vend des ordinateurs"
+    answer: 1
+    explanation: >
+      TSMC ne vend pas de puces sous sa marque. Elle fabrique celles d'Apple, de Nvidia, d'AMD et
+      de nombreuses autres entreprises qui les conçoivent.
+  - question: "Pourquoi la chaîne des puces est-elle fragile ?"
+    options:
+      - "Parce que les puces sont trop lourdes"
+      - "Parce que chaque étape clé dépend de quelques entreprises, parfois d'une seule"
+      - "Parce que le silicium est rare"
+    answer: 2
+    explanation: >
+      ASML pour les machines EUV, TSMC pour la fabrication de pointe, quelques sociétés pour les
+      logiciels de conception : une crise chez l'un bloque toute la chaîne.
+  - question: "Comment les États-Unis et l'Europe ont-ils réagi à cette dépendance ?"
+    options:
+      - "En interdisant les puces"
+      - "En arrêtant d'utiliser des ordinateurs"
+      - "En finançant la construction d'usines sur leur sol"
+    answer: 3
+    explanation: >
+      Le CHIPS Act américain de 2022 et le règlement européen sur les semi-conducteurs de 2023
+      subventionnent l'installation d'usines de puces.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une puce de téléphone ou de serveur d'IA est conçue en Californie, fabriquée à Taïwan avec des
+machines néerlandaises, des produits chimiques japonais et des logiciels américains, puis
+assemblée en Asie. Au centre de cette chaîne se trouve **TSMC**, une entreprise taïwanaise qui
+fabrique l'essentiel des puces les plus avancées du monde. Cette concentration rend l'économie
+mondiale vulnérable et fait des semi-conducteurs un enjeu géopolitique majeur.
+
+## Le modèle de la fonderie
+
+Jusqu'aux années 1980, les fabricants de puces les concevaient et les produisaient eux-mêmes. En
+1987, Morris Chang fonde TSMC à Hsinchu, à Taïwan, avec le soutien de l'État taïwanais, sur une
+idée nouvelle : fabriquer uniquement les puces conçues par d'autres. C'est une **fonderie pure**.
+
+Ce modèle a permis la naissance d'entreprises dites *fabless*, sans usine, comme Nvidia, Qualcomm
+ou AMD, et Apple pour ses propres puces. Elles conçoivent, TSMC fabrique. En regroupant les
+commandes du monde entier, TSMC peut financer les usines les plus coûteuses et progresser plus vite
+que ses concurrents. En 2024, elle réalise plus de 60 % du chiffre d'affaires mondial de la
+fonderie, et la très grande majorité des puces les plus fines.
+
+## Une chaîne aux maillons uniques
+
+La production d'une puce avancée mobilise plusieurs étapes, chacune dominée par très peu
+d'acteurs :
+
+1. **Les logiciels de conception**, dominés par les américains Synopsys et Cadence.
+2. **La conception de la puce**, par Apple, Nvidia, AMD, Qualcomm, Google et d'autres.
+3. **Les machines de fabrication** : ASML aux Pays-Bas, seule à produire les machines de
+   lithographie EUV, et des américains et japonais pour le dépôt et la gravure.
+4. **Les matériaux** : plaques de silicium, gaz et résines, en bonne partie japonais.
+5. **La fabrication** : TSMC, puis Samsung en Corée du Sud et Intel aux États-Unis.
+6. **L'assemblage et le test**, surtout à Taïwan, en Chine et en Asie du Sud-Est.
+
+[Emplacement image : carte du monde montrant les étapes de la chaîne des semi-conducteurs et les pays qui les dominent, légende et texte alternatif à fournir ultérieurement.]
+
+Si un seul de ces maillons s'arrête, toute la chaîne se bloque. Entre 2020 et 2022, une pénurie de
+puces a ainsi paralysé des chaînes de montage automobiles dans le monde entier.
+
+## Taïwan au cœur des tensions
+
+La République populaire de Chine considère Taïwan comme une partie de son territoire. Un blocus ou
+un conflit autour de l'île interromprait la production de la plupart des puces avancées, avec des
+conséquences pour toute l'économie mondiale. Certains parlent de « bouclier de silicium » : la
+dépendance mondiale envers TSMC dissuaderait une attaque. D'autres y voient au contraire un risque.
+
+## La course aux usines
+
+Pour réduire leur dépendance, les grandes puissances subventionnent la production locale :
+
+- les **États-Unis** adoptent en 2022 le CHIPS and Science Act, qui prévoit environ 52 milliards de
+  dollars pour les semi-conducteurs ; TSMC construit des usines en Arizona ;
+- l'**Union européenne** adopte en 2023 son règlement sur les semi-conducteurs, avec l'objectif de
+  doubler sa part de la production mondiale, pour la porter à 20 % d'ici à 2030 ;
+- le **Japon** finance une usine de TSMC à Kumamoto ;
+- la **Chine** investit massivement dans sa propre industrie, freinée par les restrictions
+  américaines et néerlandaises sur les machines et les puces les plus avancées.
+
+Mais une usine de pointe coûte plus de 20 milliards de dollars, met plusieurs années à sortir de
+terre et demande des milliers d'ingénieurs expérimentés : la géographie de la production change
+lentement.
+
+## À retenir
+
+- TSMC, fondée en 1987 à Taïwan, fabrique les puces conçues par d'autres entreprises.
+- Elle réalise plus de 60 % du chiffre d'affaires mondial de la fonderie en 2024.
+- La chaîne des puces repose sur des maillons uniques, comme ASML pour les machines EUV.
+- Les tensions autour de Taïwan font de cette concentration un risque mondial.
+- États-Unis, Europe, Japon et Chine subventionnent de nouvelles usines pour réduire leur dépendance.
 
 ---
 type: article
@@ -6824,18 +7255,123 @@ status: planned
 
 ---
 type: article
-title: Les processeurs specialises pour l'intelligence artificielle
+title: Les processeurs spécialisés pour l'intelligence artificielle
 slug: les-processeurs-specialises-pour-l-intelligence-artificielle
 categoryPath: micro-informatique-et-informatique/materiel/processeurs
 summary: >
-  Des puces concues specifiquement pour accelerer certains types de calculs.
+  NPU dans les téléphones, TPU dans les centres de données : ces puces sont conçues pour une seule
+  famille de calculs, les multiplications de matrices des réseaux de neurones. Elles les font plus
+  vite et avec moins d'énergie qu'un processeur classique.
 tags: [processeurs]
-priority: 3
-essentiel: false
-status: planned
+relatedArticles: [cartes-graphiques, comment-fonctionne-un-processeur, fabrique-puce]
+sources:
+  - title: "Neural processing unit"
+    url: "https://en.wikipedia.org/wiki/Neural_processing_unit"
+    publisher: "Wikipedia"
+  - title: "Tensor Processing Unit"
+    url: "https://en.wikipedia.org/wiki/Tensor_Processing_Unit"
+    publisher: "Wikipedia"
+  - title: "Systolic array"
+    url: "https://en.wikipedia.org/wiki/Systolic_array"
+    publisher: "Wikipedia"
+  - title: "Accélérateur d'IA"
+    url: "https://fr.wikipedia.org/wiki/Acc%C3%A9l%C3%A9rateur_d%27IA"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle opération un NPU accélère-t-il avant tout ?"
+    options:
+      - "Les multiplications suivies d'additions sur de grands tableaux de nombres"
+      - "La lecture des vidéos"
+      - "La gestion des fichiers"
+    answer: 1
+    explanation: >
+      Un réseau de neurones multiplie des entrées par des poids et additionne les résultats,
+      des milliards de fois. Le NPU est construit pour cette opération.
+  - question: "Pourquoi les NPU utilisent-ils des nombres moins précis ?"
+    options:
+      - "Parce qu'ils ne savent pas compter"
+      - "Parce qu'un réseau de neurones tolère bien une précision réduite, ce qui économise énergie et mémoire"
+      - "Pour cacher les résultats"
+    answer: 2
+    explanation: >
+      Un nombre codé sur 8 bits au lieu de 32 prend quatre fois moins de place et se calcule avec
+      bien moins de transistors, pour un résultat presque identique.
+  - question: "Que signifie l'unité TOPS utilisée pour comparer les NPU ?"
+    options:
+      - "Des tours par seconde"
+      - "Des téléchargements par seconde"
+      - "Des milliers de milliards d'opérations par seconde"
+    answer: 3
+    explanation: >
+      Un NPU de 40 TOPS peut effectuer environ 40 000 milliards d'opérations simples par seconde,
+      souvent en précision réduite.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **CPU** sait tout faire, le **GPU** calcule en parallèle, et le **NPU**, pour *neural
+processing unit*, ne fait presque qu'une chose : les calculs des réseaux de neurones. Cette
+spécialisation lui permet d'aller plus vite et surtout de consommer beaucoup moins d'énergie. On en
+trouve dans les téléphones, les ordinateurs portables récents et les voitures. Dans les centres de
+données, des puces géantes du même type, comme les **TPU** de Google, entraînent et font tourner
+les grands modèles d'IA.
+
+## Le calcul au cœur des réseaux de neurones
+
+Un neurone artificiel reçoit des nombres, les multiplie chacun par un **poids**, additionne le
+tout et applique une règle simple. Un réseau compte des millions ou des milliards de poids. Faire
+fonctionner un réseau revient donc à enchaîner d'innombrables opérations « multiplier puis
+additionner », regroupées en multiplications de matrices.
+
+Un CPU fait ce calcul, mais il dépense beaucoup d'énergie à lire chaque instruction, à décider et à
+aller chercher les données en mémoire. Un NPU supprime une grande partie de ce travail.
+
+## Les astuces d'un NPU
+
+- **Des réseaux de multiplicateurs** : des milliers d'unités de calcul disposées en grille. Dans
+  un réseau dit systolique, les données passent d'une unité à sa voisine à chaque battement
+  d'horloge, comme le sang pulsé par le cœur, sans retourner en mémoire entre deux calculs.
+- **Une précision réduite** : au lieu de nombres sur 32 bits, le NPU calcule souvent sur 16, 8 ou
+  même 4 bits. Un réseau de neurones tolère bien cette approximation, et chaque calcul demande
+  beaucoup moins de transistors et d'énergie.
+- **Une mémoire proche** : des réserves de mémoire placées au plus près des unités de calcul, car
+  déplacer une donnée coûte souvent plus d'énergie que la calculer.
+
+[Emplacement image : comparaison schématique d'un CPU, d'un GPU et d'un NPU avec leurs unités de calcul et leur mémoire, légende et texte alternatif à fournir ultérieurement.]
+
+## Dans nos poches et nos ordinateurs
+
+En 2017, Apple et Huawei intègrent les premiers NPU dans les puces de leurs téléphones. Ils servent
+à reconnaître un visage pour déverrouiller l'appareil, améliorer les photos, détecter la voix ou
+traduire hors connexion. Faire ces calculs sur l'appareil, plutôt que sur un serveur, protège la
+vie privée et économise la batterie.
+
+Depuis 2024, les processeurs pour ordinateurs portables d'Intel, d'AMD et de Qualcomm intègrent
+aussi un NPU. Leur puissance s'exprime en **TOPS**, des milliers de milliards d'opérations par
+seconde : Microsoft exige au moins 40 TOPS pour ses PC dits « Copilot+ ».
+
+## Dans les centres de données
+
+Google a mis en service en 2015 sa première **TPU**, *tensor processing unit*, présentée
+publiquement en 2016, pour faire tourner ses services d'IA. Les générations suivantes servent
+aussi à l'entraînement des modèles. Amazon, Microsoft et Meta conçoivent également leurs propres
+puces. Elles concurrencent les GPU de Nvidia, plus polyvalents, qui restent dominants.
+
+## Les limites
+
+Un NPU est rapide pour les calculs prévus par ses concepteurs, mais peu adapté aux autres. Les
+méthodes d'IA évoluant vite, une puce trop spécialisée peut vieillir rapidement. C'est pourquoi les
+ordinateurs combinent CPU, GPU et NPU, et répartissent chaque tâche vers la puce la plus adaptée.
+
+## À retenir
+
+- Un NPU est une puce spécialisée dans les multiplications de matrices des réseaux de neurones.
+- Il gagne en vitesse et en énergie grâce à des grilles de multiplicateurs, une précision réduite et une mémoire proche.
+- Les téléphones en intègrent depuis 2017, les ordinateurs portables depuis 2024.
+- Leur puissance se mesure en TOPS, des milliers de milliards d'opérations par seconde.
+- Les TPU de Google sont des accélérateurs du même type pour les centres de données.
 
 ---
 type: article
@@ -13232,3 +13768,131 @@ Les qubits perdent leur état quantique rapidement : c'est la décohérence, et 
 - Ces circuits sont refroidis dans des réfrigérateurs à dilution, à une température très proche du zéro absolu.
 - On les pilote avec des impulsions micro-ondes, qui font tourner l'état d'un qubit.
 - Les qubits perdent leur état quantique rapidement : c'est la décohérence, et les opérations produisent des erreurs.
+
+---
+type: article
+title: ASML et la lithographie extrême ultraviolet
+slug: asml-lithographie-euv
+categoryPath: micro-informatique-et-informatique/materiel/processeurs
+summary: >
+  Pour graver les puces les plus fines, il faut une lumière de 13,5 nanomètres de longueur
+  d'onde. Une seule entreprise au monde, le néerlandais ASML, sait construire les machines qui la
+  produisent. Chacune coûte des centaines de millions d'euros.
+tags: [processeurs]
+relatedArticles: [fabrique-puce, tsmc-geopolitique-puces, loi-moore, gravure-2-nanometres-tsmc]
+sources:
+  - title: "ASML Holding"
+    url: "https://fr.wikipedia.org/wiki/ASML_Holding"
+    publisher: "Wikipédia"
+  - title: "Extreme ultraviolet lithography"
+    url: "https://en.wikipedia.org/wiki/Extreme_ultraviolet_lithography"
+    publisher: "Wikipedia"
+  - title: "EUV lithography systems"
+    url: "https://www.asml.com/en/products/euv-lithography-systems"
+    publisher: "ASML"
+  - title: "Photolithographie"
+    url: "https://fr.wikipedia.org/wiki/Photolithographie"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi utilise-t-on une lumière de très courte longueur d'onde pour graver les puces ?"
+    options:
+      - "Parce qu'on ne peut pas dessiner de détail plus fin qu'environ la longueur d'onde de la lumière utilisée"
+      - "Parce qu'elle est moins chère"
+      - "Parce qu'elle est visible à l'œil nu"
+    answer: 1
+    explanation: >
+      Plus la longueur d'onde est courte, plus les détails dessinés peuvent être fins. L'EUV,
+      à 13,5 nm, est environ quatorze fois plus courte que la lumière ultraviolette de 193 nm.
+  - question: "Comment une machine EUV produit-elle sa lumière ?"
+    options:
+      - "Avec une ampoule très puissante"
+      - "En frappant au laser de minuscules gouttes d'étain, qui deviennent un plasma"
+      - "Grâce au soleil"
+    answer: 2
+    explanation: >
+      Des dizaines de milliers de gouttelettes d'étain par seconde sont pulvérisées par un laser.
+      Le plasma très chaud ainsi formé émet de la lumière à 13,5 nm.
+  - question: "Pourquoi la lumière EUV doit-elle voyager dans le vide ?"
+    options:
+      - "Pour aller plus vite"
+      - "Pour rester froide"
+      - "Parce que l'air, et même le verre, l'absorbent"
+    answer: 3
+    explanation: >
+      L'EUV est absorbé par presque toutes les matières. La machine fonctionne sous vide et
+      utilise des miroirs au lieu de lentilles.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Graver un transistor de quelques nanomètres demande une lumière à très courte longueur d'onde. La
+**lithographie extrême ultraviolet**, ou EUV, utilise une lumière de 13,5 nanomètres. Une seule
+entreprise au monde fabrique les machines capables de la produire et de la diriger : **ASML**,
+installée à Veldhoven, aux Pays-Bas. Sans elle, ni TSMC, ni Samsung, ni Intel ne pourraient
+produire les puces les plus avancées. C'est l'un des goulets d'étranglement les plus étroits de
+l'économie mondiale.
+
+## Pourquoi la longueur d'onde compte
+
+La lithographie projette l'image d'un circuit sur une résine photosensible, comme un projecteur de
+diapositives qui réduirait l'image. Mais la lumière ne peut pas dessiner nettement des détails
+beaucoup plus petits que sa propre longueur d'onde : au-delà, l'image devient floue.
+
+Pendant des décennies, l'industrie a raccourci la longueur d'onde utilisée : 436 nm, puis 365 nm,
+248 nm et enfin 193 nm, avec un laser ultraviolet. Grâce à des astuces, comme l'immersion de la
+plaque dans l'eau et l'exposition en plusieurs passes, ce 193 nm a permis de descendre très bas.
+Mais chaque passe supplémentaire coûte du temps et augmente les risques de défauts. L'EUV, quatorze
+fois plus courte, permet de dessiner les motifs les plus fins en une seule fois.
+
+## Une machine hors norme
+
+Produire et maîtriser une lumière EUV est un exploit technique.
+
+- **La source** : des gouttelettes d'étain d'environ 25 micromètres tombent à raison de dizaines
+  de milliers par seconde. Un laser puissant frappe chacune deux fois. Elle se transforme en un
+  plasma bien plus chaud que la surface du Soleil, qui émet la lumière à 13,5 nm.
+- **Le vide** : l'air, l'eau et même le verre absorbent cette lumière. Toute la machine fonctionne
+  sous vide.
+- **Les miroirs** : pas de lentilles possibles. La lumière est guidée par des miroirs formés de
+  dizaines de couches alternées de molybdène et de silicium, fabriqués par l'allemand Zeiss. Ils
+  comptent parmi les surfaces les plus lisses jamais fabriquées.
+- **La précision** : la plaque et le masque se déplacent à grande vitesse, et chaque couche doit
+  se superposer à la précédente à quelques nanomètres près.
+
+Une machine EUV pèse environ 150 tonnes. ASML indique qu'elle voyage en pièces détachées dans
+40 conteneurs, à bord de plusieurs avions-cargos. Une machine coûte de l'ordre de 150 à
+200 millions d'euros ; la nouvelle génération dite *High-NA*, à plus forte ouverture, dépasse
+300 millions.
+
+[Emplacement image : trajet de la lumière dans une machine EUV, de la goutte d'étain aux miroirs puis à la plaque, légende et texte alternatif à fournir ultérieurement.]
+
+## Trente ans de développement
+
+ASML est née en 1984 d'une coentreprise entre le néerlandais Philips et ASM International.
+Les recherches sur l'EUV commencent dans les années 1990, avec des laboratoires américains, Intel
+et des consortiums européens. Beaucoup d'acteurs abandonnent devant les difficultés. ASML persiste,
+avec l'argent de ses grands clients, dont Intel, TSMC et Samsung, qui prennent des parts dans
+l'entreprise en 2012 pour financer le projet. Les premières puces produites en série avec l'EUV
+sortent vers 2019.
+
+La réussite repose sur un réseau de fournisseurs uniques : Zeiss pour l'optique, Trumpf pour le
+laser, et des centaines d'entreprises spécialisées.
+
+## Un enjeu géopolitique
+
+Comme personne d'autre ne sait construire ces machines, leur exportation est un levier
+stratégique. Depuis 2019, le gouvernement néerlandais n'accorde pas de licence d'exportation des
+machines EUV vers la Chine, et depuis 2023 il restreint aussi la vente de certaines machines de
+lithographie à 193 nm parmi les plus avancées. La Chine cherche à développer ses propres
+équipements, mais l'écart technologique reste important.
+
+## À retenir
+
+- La lithographie EUV utilise une lumière de 13,5 nm pour dessiner les motifs les plus fins des puces.
+- ASML, aux Pays-Bas, est le seul fabricant au monde de machines EUV.
+- La lumière est produite en frappant au laser des gouttelettes d'étain, puis guidée par des miroirs sous vide.
+- Une machine pèse environ 150 tonnes et coûte de l'ordre de 150 à plus de 300 millions d'euros.
+- Leur exportation est restreinte, ce qui en fait un instrument géopolitique.
+

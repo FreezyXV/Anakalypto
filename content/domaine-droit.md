@@ -3530,16 +3530,130 @@ title: Le crédit à la consommation
 slug: credit-consommation
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation
 summary: >
-  Taux, assurance, surendettement : ce que la loi impose aux prêteurs.
+  Emprunter pour une voiture ou un équipement peut être utile, mais coûte cher. Le TAEG permet de
+  comparer les offres, la loi accorde quatorze jours pour se rétracter, et le crédit renouvelable
+  est le plus dangereux. Avant de signer, il faut savoir ce que l'on paiera au total.
 tags: [droit-de-la-consommation]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [interets-composes, tenir-son-budget-personnel, epargne-de-precaution, droit-de-retractation-et-garanties]
+sources:
+  - title: "Crédit à la consommation"
+    url: "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_%C3%A0_la_consommation"
+    publisher: "Wikipédia"
+  - title: "Taux annuel effectif global"
+    url: "https://fr.wikipedia.org/wiki/Taux_annuel_effectif_global"
+    publisher: "Wikipédia"
+  - title: "Taux d'usure"
+    url: "https://fr.wikipedia.org/wiki/Taux_d%27usure"
+    publisher: "Wikipédia"
+  - title: "Surendettement"
+    url: "https://fr.wikipedia.org/wiki/Surendettement"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel taux permet de comparer le coût réel de deux crédits ?"
+    options:
+      - "Le TAEG, qui inclut intérêts, frais et assurance obligatoire"
+      - "Le taux affiché sur la vitrine"
+      - "Le montant de la mensualité seule"
+    answer: 1
+    explanation: >
+      Le taux annuel effectif global intègre tous les coûts obligatoires du crédit. C'est le seul
+      chiffre comparable d'une offre à l'autre.
+  - question: "De combien de jours dispose-t-on pour renoncer à un crédit à la consommation signé ?"
+    options:
+      - "De 2 jours"
+      - "De 14 jours calendaires"
+      - "D'aucun"
+    answer: 2
+    explanation: >
+      Le code de la consommation accorde un délai de rétractation de quatorze jours à compter de
+      l'acceptation de l'offre.
+  - question: "Pourquoi le crédit renouvelable est-il particulièrement risqué ?"
+    options:
+      - "Parce qu'il est interdit"
+      - "Parce qu'il est gratuit"
+      - "Parce que ses taux sont élevés et que la réserve se reconstitue, ce qui pousse à réemprunter sans fin"
+    answer: 3
+    explanation: >
+      Avec de petites mensualités, le capital baisse lentement, les intérêts s'accumulent et la
+      dette peut durer des années.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le **crédit à la consommation** finance un achat, une voiture, des travaux, un équipement, ou
+fournit une réserve d'argent. En France, il concerne des montants de 200 à 75 000 € et il est
+encadré par le code de la consommation. Il a un **coût**, qui s'exprime par le **TAEG**, et il engage
+pour des années. La loi protège l'emprunteur par une information obligatoire et un **délai de
+rétractation de quatorze jours**. Le crédit renouvelable, lui, est la principale porte d'entrée du
+surendettement.
+
+## Les principaux types
+
+- **Le prêt personnel** : une somme versée en une fois, remboursée par mensualités fixes, sans
+  obligation de justifier l'usage.
+- **Le crédit affecté** : lié à un achat précis, une voiture par exemple. Si la vente est annulée,
+  le crédit l'est aussi.
+- **La location avec option d'achat**, fréquente pour les voitures : on loue, puis on peut acheter
+  à la fin.
+- **Le crédit renouvelable**, ou permanent : une réserve d'argent qui se reconstitue à mesure qu'on
+  rembourse, souvent associée à une carte de magasin.
+- **Le paiement fractionné** en trois ou quatre fois, et les solutions « acheter maintenant, payer
+  plus tard », qui multiplient les petites dettes.
+
+## Lire le coût réel
+
+Le **TAEG**, taux annuel effectif global, inclut les intérêts, les frais de dossier et l'assurance
+quand elle est obligatoire. C'est le seul taux qui permet de comparer deux offres. L'offre doit aussi
+indiquer le **coût total du crédit** en euros, c'est-à-dire tout ce que l'on paie en plus de la
+somme empruntée.
+
+Un TAEG ne peut pas dépasser le **taux d'usure**, plafond fixé chaque trimestre par la Banque de
+France selon le type et le montant du prêt.
+
+[Emplacement image : exemple chiffré comparant le coût total d'un prêt personnel et d'un crédit renouvelable pour la même somme, légende et texte alternatif à fournir ultérieurement.]
+
+## Les protections de l'emprunteur
+
+- **Une information précontractuelle** : une fiche standardisée et une offre écrite détaillée.
+- **La vérification de solvabilité** : le prêteur doit vérifier que l'emprunteur peut rembourser et
+  consulter le **fichier des incidents de remboursement** de la Banque de France.
+- **Le délai de rétractation de quatorze jours** après l'acceptation de l'offre, sans avoir à se
+  justifier.
+- **Le remboursement anticipé** possible à tout moment, avec des indemnités encadrées.
+- La publicité doit contenir la mention « Un crédit vous engage et doit être remboursé. Vérifiez vos
+  capacités de remboursement avant de vous engager. »
+
+## Le piège du crédit renouvelable
+
+Ses taux sont parmi les plus élevés autorisés. Avec des mensualités faibles, la part d'intérêts est
+importante et le capital baisse lentement. Comme la réserve se reconstitue, on est tenté de
+réemprunter. Une dette de quelques milliers d'euros peut ainsi durer des années et coûter bien plus
+que l'achat initial.
+
+## Avant de signer
+
+1. Se demander si l'achat est vraiment nécessaire maintenant, ou s'il peut attendre quelques mois
+   d'épargne.
+2. Comparer plusieurs offres sur le **TAEG** et le **coût total**, pas sur la mensualité.
+3. Vérifier que l'ensemble des mensualités de crédit reste supportable : les banques retiennent
+   souvent un plafond d'environ un tiers des revenus pour l'ensemble des crédits.
+4. Refuser la vente forcée d'une carte de crédit renouvelable en magasin.
+
+## En cas de difficulté
+
+Il faut réagir tôt : contacter le prêteur pour étaler les remboursements, se faire aider par un point
+conseil budget, et, si les dettes deviennent impossibles à payer, déposer un dossier de
+**surendettement** auprès de la Banque de France. La procédure est gratuite.
+
+## À retenir
+
+- Le TAEG, qui inclut intérêts et frais obligatoires, est le seul taux comparable entre deux crédits.
+- La loi accorde quatorze jours pour renoncer à un crédit signé.
+- Le prêteur doit vérifier la solvabilité de l'emprunteur.
+- Le crédit renouvelable, cher et qui se reconstitue, est la principale cause de surendettement.
+- En cas de difficulté, on peut saisir gratuitement la commission de surendettement de la Banque de France.
 
 ---
 type: article
@@ -9126,14 +9240,123 @@ title: Le bulletin de salaire, comment le lire
 slug: le-bulletin-de-salaire-comment-le-lire
 categoryPath: droit-et-justice/vie-quotidienne-et-droit/droit-du-travail
 summary: >
-  Un document souvent complexe qui contient pourtant des informations essentielles.
-tags: [droit-du-travail, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le bulletin de salaire indique le salaire brut, les cotisations prélevées pour la santé, le
+  chômage et la retraite, le net avant impôt et le net réellement versé. Savoir le lire permet de
+  vérifier ses droits et de négocier en connaissance de cause.
+tags: [droit-du-travail]
+relatedArticles: [contrat-de-travail-et-licenciement, tenir-son-budget-personnel, negocier-efficacement]
+sources:
+  - title: "Bulletin de paie"
+    url: "https://fr.wikipedia.org/wiki/Bulletin_de_paie"
+    publisher: "Wikipédia"
+  - title: "Prélèvement à la source de l'impôt sur le revenu"
+    url: "https://fr.wikipedia.org/wiki/Pr%C3%A9l%C3%A8vement_%C3%A0_la_source_de_l%27imp%C3%B4t_sur_le_revenu_en_France"
+    publisher: "Wikipédia"
+  - title: "Bulletin de paie"
+    url: "https://www.service-public.fr/particuliers/vosdroits/F559"
+    publisher: "Service-public.fr"
+quiz:
+  - question: "Quelle est la différence entre salaire brut et salaire net ?"
+    options:
+      - "Le net est le brut moins les cotisations sociales du salarié"
+      - "Le brut est toujours plus faible que le net"
+      - "Il n'y a aucune différence"
+    answer: 1
+    explanation: >
+      Les cotisations salariales financent l'assurance maladie, la retraite et le chômage. Elles
+      représentent souvent un peu plus de 20 % du brut dans le secteur privé.
+  - question: "Depuis quand l'impôt sur le revenu est-il prélevé directement sur le salaire en France ?"
+    options:
+      - "Depuis 1950"
+      - "Depuis janvier 2019"
+      - "Il ne l'est pas"
+    answer: 2
+    explanation: >
+      Le prélèvement à la source applique un taux transmis par l'administration fiscale. Le
+      bulletin distingue le net avant impôt et le net à payer.
+  - question: "Combien de temps conseille-t-on de garder ses bulletins de salaire ?"
+    options:
+      - "Un mois"
+      - "Un an"
+      - "Jusqu'à la liquidation de sa retraite, voire toute sa vie"
+    answer: 3
+    explanation: >
+      Ils prouvent les périodes travaillées et les salaires, utiles pour calculer la retraite ou
+      en cas de litige.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Chaque mois, l'employeur remet au salarié un **bulletin de salaire**, ou fiche de paie. Il indique
+le **salaire brut** prévu au contrat, les **cotisations** prélevées pour la protection sociale, les
+éventuelles primes, absences et heures supplémentaires, le **net avant impôt**, l'impôt prélevé à la
+source et enfin le **net à payer**, réellement versé sur le compte. Le lire permet de vérifier que
+tout est juste, de comprendre ce que finance son travail et de parler de salaire en sachant de quoi
+on parle.
+
+## Du brut au net
+
+1. **Le salaire de base** : le salaire brut prévu au contrat, pour la durée de travail convenue.
+2. **Les éléments variables** : heures supplémentaires, primes, avantages en nature, retenues pour
+   absence.
+3. **Le brut total**, somme des éléments précédents.
+4. **Les cotisations salariales** : santé, retraite de base et complémentaire, assurance chômage,
+   CSG et CRDS. Dans le secteur privé, elles représentent souvent un peu plus de 20 % du brut ; le
+   net vaut alors environ 75 à 80 % du brut, selon le statut.
+5. **Le net à payer avant impôt**.
+6. **Le prélèvement à la source** de l'impôt sur le revenu, en vigueur depuis janvier 2019, avec le
+   taux transmis par l'administration fiscale.
+7. **Le net à payer**, versé au salarié.
+
+Le bulletin mentionne aussi le **montant net social**, qui sert au calcul de certaines aides comme
+la prime d'activité, et les **cotisations patronales**, payées en plus par l'employeur. Le coût total
+d'un salarié pour l'entreprise est donc nettement supérieur à son salaire brut.
+
+[Emplacement image : bulletin de salaire simplifié annoté du brut au net à payer, légende et texte alternatif à fournir ultérieurement.]
+
+## Les autres informations à vérifier
+
+- L'identité de l'employeur et du salarié, l'emploi occupé et la **classification** dans la
+  convention collective.
+- La **convention collective** applicable, qui fixe souvent des salaires minimaux et des primes.
+- La **période** et le nombre d'heures payées.
+- Les **congés payés** acquis et pris.
+- La date de paiement.
+
+## Les erreurs à repérer
+
+- Des heures supplémentaires effectuées mais non payées, ou payées sans majoration.
+- Une classification inférieure au poste réellement occupé.
+- Un salaire inférieur au **SMIC** ou au minimum de la convention collective.
+- Des congés payés mal décomptés.
+- Une absence retenue à tort.
+
+En cas de doute, on demande une explication au service de paie, puis, si besoin, on s'adresse aux
+représentants du personnel ou à l'inspection du travail. Un salarié dispose en principe de **trois
+ans** pour réclamer des salaires non versés.
+
+## Brut ou net, lors d'une négociation
+
+En France, les salaires se discutent généralement en **brut annuel**. Pour comparer deux offres, il
+faut tenir compte des primes, du treizième mois, de la mutuelle, des tickets-restaurant, de
+l'intéressement et du statut, cadre ou non, qui modifie les cotisations.
+
+## Conserver ses bulletins
+
+L'employeur doit en garder une copie pendant cinq ans, mais il est conseillé au salarié de conserver
+ses bulletins **jusqu'à la liquidation de sa retraite**, ou toute sa vie. Ils prouvent les périodes
+travaillées et les salaires perçus. Beaucoup d'employeurs les remettent sous forme électronique,
+dans un coffre-fort numérique.
+
+## À retenir
+
+- Le bulletin de salaire va du salaire brut au net à payer.
+- Les cotisations salariales, souvent un peu plus de 20 % du brut, financent santé, retraite et chômage.
+- Depuis 2019, l'impôt sur le revenu est prélevé à la source sur le salaire.
+- On vérifie heures, primes, classification, convention collective et congés.
+- Il faut conserver ses bulletins jusqu'à la retraite, voire toute sa vie.
 
 ---
 type: article

@@ -2913,16 +2913,125 @@ title: Apprendre efficacement
 slug: apprendre-efficacement
 categoryPath: sciences-humaines-et-sociales/psychologie/cognition
 summary: >
-  Répétition espacée, test de soi-même : ce que la recherche dit des méthodes d'apprentissage.
+  Relire et surligner donnent une impression de maîtrise, mais retiennent peu. Les recherches en
+  psychologie montrent que se tester, espacer les révisions, mélanger les sujets et expliquer avec
+  ses propres mots sont bien plus efficaces.
 tags: [cognition]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [pourquoi-reviser-en-plusieurs-fois-aide-t-il-a-mieux-retenir, processus-cognitifs-memoire-attention, former-de-bonnes-habitudes, gerer-son-temps-priorites]
+sources:
+  - title: "Improving Students' Learning With Effective Learning Techniques"
+    url: "https://journals.sagepub.com/doi/10.1177/1529100612453266"
+    publisher: "Psychological Science in the Public Interest"
+  - title: "Testing effect"
+    url: "https://en.wikipedia.org/wiki/Testing_effect"
+    publisher: "Wikipedia"
+  - title: "Spacing effect"
+    url: "https://en.wikipedia.org/wiki/Spacing_effect"
+    publisher: "Wikipedia"
+  - title: "Courbe de l'oubli"
+    url: "https://fr.wikipedia.org/wiki/Courbe_de_l%27oubli"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle méthode est la plus efficace pour retenir une leçon ?"
+    options:
+      - "Essayer de la retrouver de mémoire, sans regarder le cours"
+      - "La relire plusieurs fois d'affilée"
+      - "La surligner en couleurs"
+    answer: 1
+    explanation: >
+      Chaque effort de rappel renforce le souvenir. C'est l'effet de test, l'une des méthodes
+      les mieux validées par la recherche.
+  - question: "Pourquoi vaut-il mieux réviser en plusieurs séances espacées ?"
+    options:
+      - "Parce qu'on s'ennuie moins"
+      - "Parce que revenir sur une notion au moment où on commence à l'oublier la fixe plus durablement"
+      - "Parce que le cerveau ne peut pas travailler plus d'une heure"
+    answer: 2
+    explanation: >
+      C'est l'effet d'espacement. Pour le même temps total, des séances réparties sur plusieurs
+      jours donnent un souvenir bien plus solide qu'une seule longue séance.
+  - question: "Pourquoi la relecture donne-t-elle une fausse impression de savoir ?"
+    options:
+      - "Parce que le texte change"
+      - "Parce qu'on lit trop vite"
+      - "Parce que reconnaître une information est beaucoup plus facile que la retrouver seul"
+    answer: 3
+    explanation: >
+      En relisant, tout paraît familier. Mais le jour de l'examen, il faut retrouver
+      l'information sans l'avoir sous les yeux.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+La plupart des élèves révisent en relisant leurs cours et en surlignant. Ces méthodes donnent une
+impression rassurante, mais elles retiennent peu. En 2013, une grande synthèse de la recherche en
+psychologie, dirigée par John Dunlosky, a comparé dix techniques d'apprentissage. Deux arrivent en
+tête : **se tester** et **espacer les révisions**. D'autres aident aussi : mélanger les sujets,
+expliquer avec ses mots, relier à des exemples. Ces méthodes demandent plus d'effort, et c'est
+justement pour cela qu'elles marchent.
+
+## Se tester, la méthode reine
+
+Chaque fois qu'on essaie de **retrouver** une information de mémoire, on renforce le chemin qui y
+mène. C'est l'**effet de test**. En 2006, les psychologues Henry Roediger et Jeffrey Karpicke ont
+montré que des étudiants qui lisaient un texte une fois puis s'interrogeaient dessus s'en
+souvenaient bien mieux, une semaine plus tard, que ceux qui l'avaient relu plusieurs fois.
+
+En pratique :
+
+- fermer le cours et écrire ou dire tout ce dont on se souvient ;
+- fabriquer des **fiches question-réponse** et répondre avant de retourner la fiche ;
+- refaire des exercices sans regarder la correction ;
+- expliquer la leçon à quelqu'un, ou à voix haute.
+
+Se tromper fait partie de la méthode : on retient mieux une réponse corrigée après une erreur.
+
+## Espacer les révisions
+
+En 1885, le psychologue allemand Hermann Ebbinghaus mesure sur lui-même la vitesse de l'oubli : on
+oublie très vite au début, puis plus lentement. Revenir sur une notion au moment où l'on commence à
+l'oublier la fixe beaucoup plus solidement. C'est l'**effet d'espacement**.
+
+Pour le même temps total, mieux vaut quatre séances de trente minutes sur deux semaines qu'une soirée
+de deux heures la veille de l'examen. Un rythme simple : revoir le lendemain, puis trois jours après,
+puis une semaine, puis un mois. Des applications de fiches font ce calcul automatiquement.
+
+[Emplacement image : courbe de l'oubli avec et sans révisions espacées, légende et texte alternatif à fournir ultérieurement.]
+
+## Les autres techniques utiles
+
+- **Mélanger les sujets ou les types d'exercices**, au lieu de faire vingt exercices identiques
+  d'affilée. On apprend ainsi à reconnaître quelle méthode utiliser.
+- **Se demander pourquoi** : relier chaque fait à une explication et à ce qu'on sait déjà.
+- **Associer mots et images** : un schéma, une carte, une frise.
+- **Utiliser des exemples concrets** pour comprendre une idée abstraite.
+
+## Les méthodes peu efficaces
+
+- **Relire** donne un sentiment de familiarité : on **reconnaît** le texte, ce qui est bien plus
+  facile que de le **retrouver** seul.
+- **Surligner** aide peu, surtout si l'on surligne beaucoup.
+- **Le bachotage** la veille permet parfois de réussir le lendemain, mais presque tout est oublié
+  quelques semaines plus tard.
+
+## Les conditions qui comptent
+
+- **Le sommeil** consolide les souvenirs de la journée : une nuit blanche avant un examen est
+  contre-productive.
+- **L'attention** : un téléphone qui vibre suffit à disperser la concentration. Le ranger dans une
+  autre pièce aide vraiment.
+- **Des séances courtes et régulières**, avec de vraies pauses.
+- **Le sport** et une bonne hygiène de vie soutiennent la mémoire et l'humeur.
+
+## À retenir
+
+- Se tester, en essayant de retrouver l'information de mémoire, est la méthode la plus efficace.
+- Espacer les révisions sur plusieurs jours fixe les souvenirs bien mieux qu'une longue séance.
+- Mélanger les exercices, chercher le pourquoi et faire des schémas aident à comprendre.
+- Relire et surligner donnent une fausse impression de maîtrise.
+- Le sommeil et l'attention sans écran sont indispensables pour apprendre.
 
 ---
 type: article
@@ -13845,3 +13954,878 @@ La découverte est comparable à la tombe de la princesse de Vix, l'une des plus
 - La pièce majeure du mobilier est un grand chaudron de bronze orné.
 - On y a trouvé une cruche à vin grecque d'Athènes à figures noires, et des importations étrusques et italiques.
 - Ces objets montrent que les élites celtes profitaient des échanges avec les cités méditerranéennes, notamment Marseille.
+
+---
+type: article
+title: Tenir son budget personnel
+slug: tenir-son-budget-personnel
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Savoir où va son argent est la base de toute liberté financière. Un budget simple sépare les
+  dépenses obligatoires, les envies et l'épargne, et automatise l'épargne avant de dépenser.
+  Quelques règles suffisent à reprendre le contrôle.
+tags: [microeconomie]
+relatedArticles: [interets-composes, epargne-de-precaution, investir-long-terme-diversification, credit-consommation, le-bulletin-de-salaire-comment-le-lire]
+sources:
+  - title: "Budget"
+    url: "https://fr.wikipedia.org/wiki/Budget"
+    publisher: "Wikipédia"
+  - title: "Personal budget"
+    url: "https://en.wikipedia.org/wiki/Personal_budget"
+    publisher: "Wikipedia"
+  - title: "Mes questions d'argent"
+    url: "https://www.mesquestionsdargent.fr/"
+    publisher: "Banque de France"
+  - title: "Inflation"
+    url: "https://fr.wikipedia.org/wiki/Inflation"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que signifie « se payer en premier » ?"
+    options:
+      - "Mettre de côté une somme dès que le salaire arrive, avant les autres dépenses"
+      - "S'offrir un cadeau chaque mois"
+      - "Payer ses factures en retard"
+    answer: 1
+    explanation: >
+      Un virement automatique vers l'épargne le jour de la paie évite d'épargner seulement ce
+      qui reste, c'est-à-dire souvent rien.
+  - question: "Dans la règle 50/30/20, à quoi correspondent les 20 % ?"
+    options:
+      - "Aux loisirs"
+      - "À l'épargne et au remboursement des dettes"
+      - "Au loyer"
+    answer: 2
+    explanation: >
+      La règle propose 50 % pour les besoins, 30 % pour les envies et 20 % pour l'épargne et les
+      dettes. C'est un repère, à adapter à sa situation.
+  - question: "Pourquoi faut-il traquer les petites dépenses récurrentes ?"
+    options:
+      - "Parce qu'elles sont illégales"
+      - "Parce qu'elles font baisser le salaire"
+      - "Parce qu'additionnées sur une année elles représentent souvent des centaines d'euros"
+    answer: 3
+    explanation: >
+      Trois abonnements à 10 € par mois coûtent 360 € par an. On les oublie facilement, d'où
+      l'intérêt de les revoir régulièrement.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Un budget n'est pas une privation : c'est un **plan** qui dit à son argent où aller, au lieu de se
+demander en fin de mois où il est passé. La méthode tient en quatre étapes : **savoir** ce qui entre
+et ce qui sort, **classer** les dépenses, **épargner d'abord** de façon automatique, et **revoir**
+le tout régulièrement. C'est la base pour éviter les dettes, faire face aux imprévus et, plus tard,
+investir.
+
+## Étape 1, savoir ce qui entre et ce qui sort
+
+Pendant un ou deux mois, on note tout, ou l'on reprend ses relevés bancaires :
+
+- **les revenus nets** : salaire, aides, revenus annexes ;
+- **toutes les dépenses**, y compris les petites : café, livraisons, abonnements, frais bancaires.
+
+Beaucoup de gens découvrent à ce moment des dépenses oubliées. Trois abonnements à 10 € par mois,
+c'est 360 € par an.
+
+## Étape 2, classer les dépenses
+
+- **Les dépenses fixes et obligatoires** : loyer ou crédit immobilier, énergie, assurances,
+  transport, téléphone, remboursements.
+- **Les dépenses variables nécessaires** : courses, santé, vêtements.
+- **Les envies** : sorties, loisirs, voyages, achats plaisir.
+- **L'épargne** : précaution, projets, investissement.
+
+Un repère courant est la **règle 50/30/20**, popularisée aux États-Unis par Elizabeth Warren et sa
+fille Amelia Warren Tyagi en 2005 : 50 % des revenus pour les besoins, 30 % pour les envies, 20 %
+pour l'épargne et le remboursement des dettes. Ce n'est pas une loi : avec un loyer élevé, les
+besoins dépassent souvent 50 %. L'important est d'avoir des proportions choisies.
+
+[Emplacement image : répartition d'un budget mensuel entre besoins, envies et épargne, légende et texte alternatif à fournir ultérieurement.]
+
+## Étape 3, se payer en premier
+
+L'erreur classique consiste à épargner ce qui reste à la fin du mois, c'est-à-dire souvent rien. Il
+est plus efficace de **programmer un virement automatique** vers un compte d'épargne le jour où le
+salaire arrive. On vit ensuite avec le reste. Même 50 € par mois créent l'habitude, et l'on augmente
+la somme à chaque hausse de revenu.
+
+## Étape 4, revoir régulièrement
+
+- Une fois par mois, comparer le prévu et le réel.
+- Une fois par an, renégocier ou résilier : assurances, énergie, téléphone, banque, abonnements.
+- Anticiper les **dépenses annuelles** : taxe foncière, assurance, cadeaux, entretien de la voiture.
+  On les divise par douze et on les met de côté chaque mois.
+
+## Les pièges à éviter
+
+- **Le découvert permanent**, qui coûte des agios et des frais.
+- **Le crédit renouvelable** et le paiement fractionné pour des achats courants, très coûteux.
+- **L'inflation du mode de vie** : chaque augmentation de salaire absorbée par de nouvelles
+  dépenses. En épargner au moins la moitié change tout sur dix ans.
+- **Les achats impulsifs** : attendre 48 heures avant tout achat non prévu au-delà d'un certain
+  montant.
+
+## Des outils simples
+
+Un tableur, une application bancaire qui classe les dépenses, ou la méthode des **enveloppes**, une
+somme fixe par poste, suffisent. La Banque de France propose gratuitement des conseils et des outils
+sur son site d'éducation financière.
+
+## À retenir
+
+- Un budget commence par la connaissance exacte de ce qui entre et de ce qui sort.
+- On classe les dépenses en besoins, envies et épargne ; la règle 50/30/20 est un repère.
+- Un virement automatique vers l'épargne le jour de la paie est plus efficace que d'épargner le reste.
+- Revoir abonnements et contrats chaque année libère souvent des centaines d'euros.
+- Découvert permanent et crédit renouvelable sont les pièges les plus coûteux.
+
+---
+type: article
+title: Les intérêts composés
+slug: interets-composes
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Quand les intérêts produisent eux-mêmes des intérêts, une épargne grandit de plus en plus vite.
+  Ce mécanisme récompense ceux qui commencent tôt et punit ceux qui s'endettent cher. La règle de
+  72 permet d'en estimer l'effet de tête.
+tags: [microeconomie]
+relatedArticles: [tenir-son-budget-personnel, investir-long-terme-diversification, epargne-de-precaution, credit-consommation, inflation-comment-ca-marche]
+sources:
+  - title: "Intérêts composés"
+    url: "https://fr.wikipedia.org/wiki/Int%C3%A9r%C3%AAts_compos%C3%A9s"
+    publisher: "Wikipédia"
+  - title: "Compound interest"
+    url: "https://en.wikipedia.org/wiki/Compound_interest"
+    publisher: "Wikipedia"
+  - title: "Rule of 72"
+    url: "https://en.wikipedia.org/wiki/Rule_of_72"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que sont les intérêts composés ?"
+    options:
+      - "Des intérêts qui s'ajoutent au capital et produisent à leur tour des intérêts"
+      - "Des intérêts payés une seule fois"
+      - "Des frais bancaires"
+    answer: 1
+    explanation: >
+      La deuxième année, on gagne des intérêts sur le capital de départ et sur les intérêts de
+      la première année, et ainsi de suite.
+  - question: "Selon la règle de 72, en combien de temps un placement à 6 % par an double-t-il ?"
+    options:
+      - "En 6 ans"
+      - "En 12 ans environ"
+      - "En 72 ans"
+    answer: 2
+    explanation: >
+      On divise 72 par le taux : 72 / 6 = 12. C'est une approximation, assez précise pour des
+      taux de 2 à 12 %.
+  - question: "Pourquoi les intérêts composés jouent-ils contre ceux qui ont des dettes chères ?"
+    options:
+      - "Parce que les banques sont méchantes"
+      - "Parce que la dette disparaît toute seule"
+      - "Parce que les intérêts impayés s'ajoutent à la dette et produisent eux-mêmes des intérêts"
+    answer: 3
+    explanation: >
+      Une dette à 20 % par an non remboursée double en moins de quatre ans. Le même mécanisme
+      qui enrichit l'épargnant appauvrit l'emprunteur.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Placez 1 000 € à 5 % par an : vous gagnez 50 € la première année. Si vous laissez ces 50 € sur le
+placement, l'année suivante vous gagnez 5 % de 1 050 €, soit 52,50 €. Les intérêts produisent à leur
+tour des intérêts : ce sont les **intérêts composés**. Sur quelques années, l'effet est modeste ; sur
+trente ou quarante ans, il devient énorme. C'est la raison principale pour laquelle **commencer tôt**
+compte plus que placer beaucoup.
+
+## Simples ou composés
+
+- Avec des **intérêts simples**, on gagne chaque année la même somme, calculée sur le capital de
+  départ : 1 000 € à 5 % rapportent 50 € par an, soit 2 500 € après cinquante ans.
+- Avec des **intérêts composés**, le capital grossit chaque année. La formule est :
+  capital final = capital de départ × (1 + taux) puissance nombre d'années.
+
+À 5 % par an, 1 000 € deviennent environ 1 629 € en 10 ans, 4 322 € en 30 ans et 11 467 € en 50 ans.
+La courbe s'accélère avec le temps.
+
+[Emplacement image : comparaison sur cinquante ans de 1 000 € placés à 5 % en intérêts simples et en intérêts composés, légende et texte alternatif à fournir ultérieurement.]
+
+## La règle de 72
+
+Pour savoir en combien de temps un capital double, on divise **72 par le taux annuel** :
+
+- à 2 %, il double en environ 36 ans ;
+- à 6 %, en environ 12 ans ;
+- à 9 %, en environ 8 ans.
+
+C'est une approximation, assez juste pour des taux compris entre 2 et 12 %.
+
+## Le temps, ingrédient principal
+
+Prenons deux personnes qui placent chaque mois 100 € à un rendement moyen de 5 % par an :
+
+- la première commence à 25 ans et continue jusqu'à 55 ans : elle a versé 36 000 € et dispose
+  d'environ **83 000 €** ;
+- la seconde commence à 40 ans : à 55 ans, elle a versé 18 000 € et dispose d'environ **27 000 €**.
+
+La première a versé deux fois plus, mais elle obtient trois fois plus. Les quinze années de plus ont
+travaillé pour elle. Ces chiffres sont des illustrations : un placement réel peut rapporter plus ou
+moins, et les rendements élevés s'accompagnent de risques.
+
+## L'autre face, les dettes
+
+Le mécanisme fonctionne aussi à l'envers. Une dette non remboursée dont les intérêts s'accumulent
+grossit de la même manière. Un **crédit renouvelable** à 20 % par an double en moins de quatre ans
+si l'on ne rembourse que des petites mensualités. C'est pourquoi il faut rembourser en priorité les
+dettes les plus chères avant de chercher à placer.
+
+## L'inflation et les frais
+
+Deux forces grignotent les intérêts composés :
+
+- **l'inflation** : si un placement rapporte 3 % alors que les prix augmentent de 2 %, le gain réel
+  n'est que d'environ 1 % ;
+- **les frais** : 1 % de frais par an semble peu, mais sur trente ans, ils peuvent absorber une
+  grande partie du gain. Ils se composent eux aussi.
+
+## À retenir
+
+- Les intérêts composés produisent eux-mêmes des intérêts : le capital grandit de plus en plus vite.
+- La règle de 72 donne le temps de doublement : 72 divisé par le taux.
+- Commencer tôt compte plus que verser beaucoup, car le temps démultiplie l'effet.
+- Le même mécanisme fait grossir les dettes chères : il faut les rembourser en priorité.
+- L'inflation et les frais réduisent fortement le gain réel sur le long terme.
+
+---
+type: article
+title: L'épargne de précaution
+slug: epargne-de-precaution
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Une panne de voiture, une perte d'emploi, une facture imprévue : une réserve de trois à six mois
+  de dépenses, placée sur un compte disponible, évite de s'endetter au pire moment. C'est la
+  première épargne à constituer.
+tags: [microeconomie]
+relatedArticles: [tenir-son-budget-personnel, interets-composes, investir-long-terme-diversification, credit-consommation]
+sources:
+  - title: "Épargne de précaution"
+    url: "https://fr.wikipedia.org/wiki/%C3%89pargne_de_pr%C3%A9caution"
+    publisher: "Wikipédia"
+  - title: "Livret A"
+    url: "https://fr.wikipedia.org/wiki/Livret_A"
+    publisher: "Wikipédia"
+  - title: "Emergency fund"
+    url: "https://en.wikipedia.org/wiki/Emergency_fund"
+    publisher: "Wikipedia"
+  - title: "Mes questions d'argent"
+    url: "https://www.mesquestionsdargent.fr/"
+    publisher: "Banque de France"
+quiz:
+  - question: "Combien conseille-t-on souvent de mettre de côté en épargne de précaution ?"
+    options:
+      - "L'équivalent de trois à six mois de dépenses"
+      - "Une semaine de salaire"
+      - "Dix ans de revenus"
+    answer: 1
+    explanation: >
+      C'est un repère courant. On vise plus si les revenus sont irréguliers ou si l'on a des
+      personnes à charge.
+  - question: "Où placer son épargne de précaution ?"
+    options:
+      - "En actions, pour qu'elle rapporte le plus"
+      - "Sur un placement sans risque et disponible à tout moment, comme un livret"
+      - "Dans une maison"
+    answer: 2
+    explanation: >
+      L'argent doit être disponible immédiatement et ne pas pouvoir baisser au moment où l'on en
+      a besoin.
+  - question: "Pourquoi constituer cette réserve avant d'investir en Bourse ?"
+    options:
+      - "Parce que c'est obligatoire"
+      - "Parce que les banques l'exigent"
+      - "Pour ne jamais être obligé de vendre ses placements au mauvais moment en cas d'imprévu"
+    answer: 3
+    explanation: >
+      Sans réserve, une dépense imprévue pendant une baisse des marchés forcerait à vendre à
+      perte ou à emprunter cher.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+L'**épargne de précaution** est une réserve d'argent mise de côté pour faire face aux imprévus :
+une réparation, une facture médicale, une perte d'emploi. Elle évite de recourir au découvert ou au
+crédit au pire moment. On conseille souvent l'équivalent de **trois à six mois de dépenses**, placé
+sur un support **sans risque et disponible immédiatement**. C'est la première épargne à constituer,
+avant tout investissement.
+
+## À quoi elle sert
+
+La vie apporte régulièrement des dépenses qu'on ne peut pas prévoir :
+
+- une panne de voiture, une chaudière, un appareil ménager ;
+- des frais de santé, de dentiste, de vétérinaire ;
+- une baisse de revenus : perte d'emploi, arrêt maladie, période creuse pour un indépendant ;
+- un déménagement imprévu, un voyage pour un proche.
+
+Sans réserve, on paie avec un découvert, un crédit renouvelable ou un paiement fractionné, à des
+taux souvent très élevés. Une simple panne peut alors déclencher une spirale de dettes. Avec une
+réserve, on paie, puis on la reconstitue tranquillement. Elle apporte aussi une **liberté** : celle
+de quitter un emploi toxique, de négocier sans pression, de dormir tranquille.
+
+## Combien mettre de côté
+
+Le repère courant est de **trois à six mois de dépenses essentielles** : logement, alimentation,
+énergie, transport, assurances, remboursements. On vise plutôt le haut de la fourchette, voire plus,
+si :
+
+- les revenus sont irréguliers, comme pour un indépendant ou un intérimaire ;
+- on a des enfants ou des personnes à charge ;
+- on est propriétaire, avec des travaux possibles ;
+- on travaille dans un secteur où retrouver un emploi prend du temps.
+
+Pour commencer, un premier palier de **1 000 €**, ou d'un mois de dépenses, protège déjà contre la
+plupart des petits imprévus.
+
+[Emplacement image : pyramide de l'épargne avec l'épargne de précaution à la base, puis les projets, puis l'investissement de long terme, légende et texte alternatif à fournir ultérieurement.]
+
+## Où la placer
+
+Trois exigences : **disponible** à tout moment, **sans risque de perte**, et **séparée** du compte
+courant pour ne pas la dépenser par mégarde. En France, les livrets réglementés y répondent :
+
+- le **Livret A**, plafonné à 22 950 € pour un particulier ;
+- le **livret de développement durable et solidaire**, plafonné à 12 000 € ;
+- le **livret d'épargne populaire**, réservé aux revenus modestes, souvent mieux rémunéré.
+
+Leurs intérêts sont exonérés d'impôt et de prélèvements sociaux, et leur taux est fixé par l'État.
+Ils rapportent peu, parfois moins que l'inflation, mais ce n'est pas leur rôle : ils servent
+d'assurance.
+
+À éviter pour cette réserve : les actions, les cryptoactifs et l'immobilier, qui peuvent baisser ou
+être difficiles à vendre au moment où l'on a besoin de l'argent.
+
+## La constituer
+
+1. Calculer ses dépenses essentielles mensuelles.
+2. Fixer un objectif et un premier palier.
+3. Programmer un **virement automatique** le jour de la paie.
+4. Y verser les rentrées exceptionnelles : prime, remboursement d'impôt, cadeau.
+5. N'y toucher que pour de vrais imprévus, et la reconstituer ensuite.
+
+## À retenir
+
+- L'épargne de précaution sert à payer les imprévus sans s'endetter.
+- On vise souvent trois à six mois de dépenses essentielles, davantage si les revenus sont irréguliers.
+- Elle doit être disponible immédiatement et sans risque de perte, par exemple sur un livret.
+- Elle se constitue avant tout investissement risqué.
+- Un virement automatique mensuel est la façon la plus simple de la constituer.
+
+---
+type: article
+title: Investir sur le long terme et diversifier
+slug: investir-long-terme-diversification
+categoryPath: sciences-humaines-et-sociales/economie/microeconomie
+summary: >
+  Investir, c'est accepter un risque pour espérer un rendement supérieur à l'inflation. Les
+  principes qui ont fait leurs preuves sont simples : un horizon long, une large diversification,
+  des frais bas, des versements réguliers et beaucoup de méfiance envers les promesses.
+tags: [microeconomie]
+relatedArticles: [interets-composes, epargne-de-precaution, tenir-son-budget-personnel, pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir]
+sources:
+  - title: "Diversification (finance)"
+    url: "https://fr.wikipedia.org/wiki/Diversification_(finance)"
+    publisher: "Wikipédia"
+  - title: "Fonds indiciel"
+    url: "https://fr.wikipedia.org/wiki/Fonds_indiciel"
+    publisher: "Wikipédia"
+  - title: "Plan d'épargne en actions"
+    url: "https://fr.wikipedia.org/wiki/Plan_d%27%C3%A9pargne_en_actions"
+    publisher: "Wikipédia"
+  - title: "Autorité des marchés financiers"
+    url: "https://www.amf-france.org/"
+    publisher: "AMF"
+quiz:
+  - question: "Pourquoi diversifier ses placements ?"
+    options:
+      - "Pour qu'une mauvaise surprise sur une entreprise ou un secteur ne ruine pas tout"
+      - "Pour payer plus de frais"
+      - "Pour gagner à coup sûr"
+    answer: 1
+    explanation: >
+      En répartissant l'argent sur des centaines d'entreprises, de secteurs et de pays, la
+      faillite de l'une ne pèse presque rien sur l'ensemble.
+  - question: "Qu'est-ce qu'un fonds indiciel, ou ETF ?"
+    options:
+      - "Un compte d'épargne bancaire garanti"
+      - "Un fonds qui reproduit un indice de marché, avec des frais généralement bas"
+      - "Un crédit immobilier"
+    answer: 2
+    explanation: >
+      Un fonds indiciel sur un indice mondial permet d'acheter en une fois des parts de milliers
+      d'entreprises de nombreux pays.
+  - question: "Quel signal doit faire penser à une arnaque ?"
+    options:
+      - "Un placement autorisé par l'AMF"
+      - "Des frais affichés clairement"
+      - "Un rendement élevé promis sans risque"
+    answer: 3
+    explanation: >
+      Rendement élevé et absence de risque ne vont jamais ensemble. L'AMF publie des listes noires
+      des sites et acteurs non autorisés.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+L'épargne sur un livret protège, mais rapporte peu, souvent à peine plus que l'inflation.
+**Investir**, en actions d'entreprises par exemple, permet d'espérer davantage sur le long terme,
+mais avec un risque réel de baisse, parfois forte, pendant des mois ou des années. Les principes qui
+ont fait leurs preuves sont connus : n'investir que l'argent dont on n'aura pas besoin avant
+longtemps, **diversifier** largement, réduire les **frais**, investir **régulièrement** et se
+méfier de toute promesse de gain facile. Cet article explique des principes, ce n'est pas un conseil
+personnalisé.
+
+## Avant d'investir
+
+1. **Rembourser les dettes chères**, comme un crédit renouvelable : aucun placement ne rapporte de
+   façon sûre 15 ou 20 % par an.
+2. **Constituer une épargne de précaution** de plusieurs mois de dépenses.
+3. **Définir son horizon** : l'argent dont on aura besoin dans moins de cinq ans environ ne devrait
+   pas être placé en actions.
+
+## Risque et rendement
+
+Il n'y a pas de rendement élevé sans risque. Un livret garanti rapporte peu. Les obligations, des
+prêts aux États et aux entreprises, rapportent un peu plus, avec un risque modéré. Les actions, des
+parts d'entreprises, ont historiquement rapporté davantage sur les longues périodes, mais elles
+peuvent perdre un tiers ou la moitié de leur valeur lors d'une crise, comme en 2008 ou en mars 2020,
+avant de remonter, parfois après plusieurs années.
+
+Plus l'horizon est long, plus ces baisses temporaires ont le temps d'être compensées.
+
+## Diversifier
+
+Mettre tout son argent dans une seule entreprise, c'est risquer de tout perdre si elle fait
+faillite. En le répartissant entre des **centaines ou des milliers** d'entreprises, de secteurs et de
+pays, la chute de l'une compte très peu.
+
+Le moyen le plus simple est le **fonds indiciel**, ou ETF : un fonds qui reproduit un indice
+boursier, par exemple un indice d'actions mondiales. En une seule part, on détient un petit morceau
+de milliers d'entreprises. Ces fonds ont souvent des frais annuels bas, autour de 0,1 à 0,3 %, bien
+inférieurs à ceux de nombreux fonds gérés activement, dont la plupart font moins bien que leur indice
+sur le long terme.
+
+[Emplacement image : comparaison entre un portefeuille concentré sur une entreprise et un portefeuille diversifié sur un indice mondial, légende et texte alternatif à fournir ultérieurement.]
+
+## Investir régulièrement
+
+Personne ne sait prévoir le bon moment pour acheter. Investir une **somme fixe chaque mois**, par
+virement automatique, évite d'avoir à choisir : on achète plus de parts quand les prix sont bas et
+moins quand ils sont hauts. Surtout, cela évite les deux erreurs les plus coûteuses : acheter dans
+l'euphorie et vendre dans la panique.
+
+## Les enveloppes en France
+
+Les placements se logent dans des **enveloppes** fiscales :
+
+- le **plan d'épargne en actions**, ou PEA, pour les actions européennes et certains fonds indiciels,
+  avec un avantage fiscal après cinq ans ;
+- l'**assurance-vie**, très souple, avec des fonds garantis en euros et des unités de compte ;
+- le **compte-titres**, sans plafond ni avantage fiscal ;
+- le **plan d'épargne retraite**, bloqué jusqu'à la retraite sauf exceptions.
+
+## Se protéger des arnaques
+
+- Un **rendement élevé sans risque** n'existe pas.
+- Méfiance envers les démarchages par téléphone ou réseaux sociaux, l'urgence, les placements
+  « exclusifs », les cryptoactifs, le forex ou les montres et vins de collection présentés comme
+  sûrs.
+- Avant tout placement, vérifier que l'intermédiaire est **autorisé** et consulter les **listes
+  noires** de l'Autorité des marchés financiers.
+
+## À retenir
+
+- On investit seulement l'argent dont on n'aura pas besoin avant plusieurs années, après avoir constitué une réserve.
+- Un rendement plus élevé s'accompagne toujours d'un risque plus élevé.
+- Diversifier largement, par exemple avec un fonds indiciel mondial, réduit le risque propre à chaque entreprise.
+- Investir une somme fixe chaque mois évite d'essayer de deviner le bon moment.
+- Un rendement élevé promis sans risque est le signe d'une arnaque.
+
+---
+type: article
+title: Négocier efficacement
+slug: negocier-efficacement
+categoryPath: sciences-humaines-et-sociales/sociologie/groupes-et-normes
+summary: >
+  Un salaire, un loyer, un achat, une décision en famille : on négocie sans cesse. Les méthodes
+  les mieux étudiées reposent sur la préparation, la recherche des intérêts derrière les positions
+  et la connaissance de sa solution de repli.
+tags: [groupes-et-normes]
+relatedArticles: [le-bulletin-de-salaire-comment-le-lire, comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte, pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir, gerer-son-temps-priorites]
+sources:
+  - title: "Négociation"
+    url: "https://fr.wikipedia.org/wiki/N%C3%A9gociation"
+    publisher: "Wikipédia"
+  - title: "Best alternative to a negotiated agreement"
+    url: "https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement"
+    publisher: "Wikipedia"
+  - title: "Getting to Yes"
+    url: "https://en.wikipedia.org/wiki/Getting_to_Yes"
+    publisher: "Wikipedia"
+  - title: "Anchoring effect"
+    url: "https://en.wikipedia.org/wiki/Anchoring_effect"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que la « meilleure solution de repli » dans une négociation ?"
+    options:
+      - "Ce que l'on fera si aucun accord n'est trouvé"
+      - "La première offre de l'autre partie"
+      - "Une menace"
+    answer: 1
+    explanation: >
+      Mieux on connaît et améliore sa solution de repli, une autre offre d'emploi par exemple,
+      plus on négocie sereinement, car on sait quand dire non.
+  - question: "Quelle différence y a-t-il entre une position et un intérêt ?"
+    options:
+      - "Aucune"
+      - "La position est ce qu'on demande, l'intérêt est la raison pour laquelle on le demande"
+      - "L'intérêt est toujours financier"
+    answer: 2
+    explanation: >
+      Deux positions opposées peuvent cacher des intérêts compatibles. Les chercher ouvre des
+      solutions que personne n'avait proposées.
+  - question: "Qu'est-ce que l'effet d'ancrage ?"
+    options:
+      - "Le fait de rester sur place"
+      - "Une technique de bateau"
+      - "Le fait que le premier chiffre annoncé influence fortement la suite de la discussion"
+    answer: 3
+    explanation: >
+      Un premier chiffre sert de point de référence. Annoncer en premier un chiffre ambitieux mais
+      justifiable peut tirer l'accord dans sa direction.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+On négocie sans cesse : un salaire, un loyer, le prix d'une voiture d'occasion, un délai avec un
+client, la répartition des tâches à la maison. Négocier ne consiste pas à gagner contre l'autre,
+mais à trouver l'accord le meilleur possible pour soi, que l'autre accepte. Les méthodes les plus
+étudiées, notamment au **Harvard Negotiation Project**, reposent sur trois piliers : **se préparer**,
+**chercher les intérêts** derrière les positions et **connaître sa solution de repli**.
+
+## Se préparer, l'essentiel du travail
+
+La plupart des négociations se gagnent avant de commencer. Il faut savoir :
+
+- **ce que l'on veut** vraiment, avec un objectif ambitieux et un seuil en dessous duquel on refuse ;
+- **ce que vaut la chose** : salaires du marché pour le poste, prix des voitures comparables,
+  loyers du quartier ;
+- **ce que veut l'autre** et ce qui le contraint : budget, délais, besoins ;
+- **sa solution de repli**.
+
+## La meilleure solution de repli
+
+Dans leur livre *Getting to Yes*, paru en 1981, Roger Fisher et William Ury, du Harvard Negotiation
+Project, appellent **BATNA**, en français parfois **MESORE**, la meilleure solution dont on dispose
+si la négociation échoue : une autre offre d'emploi, un autre appartement, un autre acheteur.
+
+C'est la source principale du **pouvoir** dans une négociation. Celui qui a une bonne solution de
+repli peut se permettre de dire non ; celui qui n'en a pas est sous pression. Améliorer la sienne,
+par exemple en passant d'autres entretiens d'embauche avant de négocier, est souvent plus efficace
+que n'importe quel argument. Et estimer celle de l'autre aide à savoir jusqu'où il peut aller.
+
+## Les intérêts derrière les positions
+
+Une **position**, c'est ce qu'on demande : « Je veux 45 000 € ». Un **intérêt**, c'est pourquoi on
+le demande : être reconnu, payer un loyer élevé, progresser. Deux positions opposées peuvent cacher
+des intérêts compatibles. Un employeur bloqué sur le salaire peut offrir du télétravail, une
+formation, une prime, un titre ou une révision dans six mois. Poser des questions ouvertes,
+« Qu'est-ce qui est important pour vous ? », et écouter vraiment permet de trouver ces options.
+
+[Emplacement image : schéma de préparation d'une négociation avec objectif, seuil, solution de repli et intérêts des deux parties, légende et texte alternatif à fournir ultérieurement.]
+
+## Les techniques utiles
+
+- **L'ancrage** : le premier chiffre annoncé influence fortement la suite. Proposer en premier un
+  chiffre ambitieux mais **justifiable** tire l'accord dans sa direction. Si l'autre annonce un
+  chiffre extrême, il faut le recadrer tout de suite plutôt que d'en partir.
+- **Les critères objectifs** : s'appuyer sur des références extérieures, grilles de salaires,
+  annonces comparables, devis, plutôt que sur sa seule volonté.
+- **Le silence** : après une proposition, se taire laisse souvent l'autre améliorer son offre.
+- **Les concessions échangées** : ne rien céder sans obtenir quelque chose en retour.
+- **Séparer les personnes du problème** : rester ferme sur le fond et courtois avec la personne.
+
+## Négocier son salaire
+
+1. Connaître la fourchette du marché pour le poste, la région et l'expérience.
+2. Laisser si possible l'employeur parler chiffres en premier, ou annoncer une fourchette dont le
+   bas correspond à son objectif.
+3. Argumenter sur la valeur apportée : résultats, compétences rares, responsabilités.
+4. Négocier l'ensemble : variable, avantages, télétravail, date de révision.
+5. Obtenir l'accord final par écrit.
+
+## À retenir
+
+- La préparation fait l'essentiel d'une négociation réussie.
+- Connaître et améliorer sa solution de repli donne le pouvoir de dire non.
+- Chercher les intérêts derrière les positions permet de trouver des accords nouveaux.
+- Le premier chiffre sert d'ancre : il doit être ambitieux mais justifiable.
+- On reste ferme sur le fond et respectueux avec la personne.
+
+---
+type: article
+title: Former de bonnes habitudes
+slug: former-de-bonnes-habitudes
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Une grande partie de nos actions quotidiennes sont des habitudes, déclenchées par un contexte
+  plutôt que par une décision. La recherche montre qu'il faut en moyenne plus de deux mois pour en
+  installer une, et que l'environnement compte plus que la volonté.
+tags: [cognition]
+relatedArticles: [pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui, apprendre-efficacement, gerer-son-temps-priorites, comment-pousser-les-gens-a-mieux-choisir-sans-rien-leur-interdire]
+sources:
+  - title: "How are habits formed (Lally et al., 2010)"
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674"
+    publisher: "European Journal of Social Psychology"
+  - title: "Habitude"
+    url: "https://fr.wikipedia.org/wiki/Habitude"
+    publisher: "Wikipédia"
+  - title: "Habit"
+    url: "https://en.wikipedia.org/wiki/Habit"
+    publisher: "Wikipedia"
+  - title: "Implementation intention"
+    url: "https://en.wikipedia.org/wiki/Implementation_intention"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de temps faut-il en moyenne pour qu'un nouveau comportement devienne automatique, selon l'étude de Phillippa Lally ?"
+    options:
+      - "Environ 66 jours, avec de fortes différences selon les personnes"
+      - "Exactement 21 jours"
+      - "Une journée"
+    answer: 1
+    explanation: >
+      Dans cette étude, la durée médiane était de 66 jours, avec des écarts allant d'environ
+      18 à plus de 250 jours selon la personne et le comportement.
+  - question: "Qu'est-ce qu'une intention de mise en œuvre ?"
+    options:
+      - "Une promesse vague"
+      - "Un plan précis de la forme « quand telle situation arrive, je fais telle action »"
+      - "Une liste de courses"
+    answer: 2
+    explanation: >
+      Relier l'action à un moment et un lieu précis augmente nettement les chances de passer à
+      l'acte.
+  - question: "Pourquoi modifier son environnement aide-t-il à changer d'habitude ?"
+    options:
+      - "Parce que cela coûte cher"
+      - "Parce que les voisins le remarquent"
+      - "Parce que les habitudes sont déclenchées par le contexte, et qu'on rend ainsi le bon comportement facile et le mauvais difficile"
+    answer: 3
+    explanation: >
+      Laisser ses chaussures de sport devant la porte ou ranger son téléphone dans une autre pièce
+      agit plus sûrement qu'un effort de volonté répété.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Se brosser les dents, prendre le même chemin, attraper son téléphone au réveil : une grande partie
+de nos gestes quotidiens sont des **habitudes**, des actions déclenchées automatiquement par une
+situation, sans vraie décision. Une habitude se forme par la **répétition** d'un même geste dans un
+même **contexte**. La recherche montre qu'il faut souvent plus de deux mois pour en installer une,
+qu'on peut rater un jour sans tout perdre, et que modifier son **environnement** est plus efficace
+que compter sur sa volonté.
+
+## Comment se forme une habitude
+
+Une habitude relie trois éléments :
+
+1. **Un déclencheur** : un moment, un lieu, une émotion, une action précédente. Le réveil, la fin du
+   repas, l'ennui.
+2. **Une action**, répétée.
+3. **Une récompense** : un plaisir, un soulagement, une satisfaction.
+
+À force de répétition, le cerveau associe le déclencheur à l'action. Celle-ci finit par se lancer
+toute seule, sans effort ni réflexion. C'est très utile : on libère son attention pour autre chose.
+Mais cela vaut aussi pour les mauvaises habitudes.
+
+## Combien de temps faut-il
+
+Le chiffre de **21 jours**, souvent cité, ne repose sur aucune étude solide. En 2009, la psychologue
+Phillippa Lally, à l'University College de Londres, a suivi des volontaires qui voulaient prendre une
+nouvelle habitude, boire un verre d'eau au déjeuner ou faire des abdominaux après le café. Il leur a
+fallu en médiane **66 jours** pour que le geste devienne automatique, avec des écarts allant
+d'environ 18 à plus de 250 jours. Bonne nouvelle : rater une journée de temps en temps n'empêchait
+pas l'habitude de se former.
+
+[Emplacement image : courbe de l'automatisme d'une habitude qui monte au fil des répétitions puis se stabilise, légende et texte alternatif à fournir ultérieurement.]
+
+## Les méthodes qui marchent
+
+- **Commencer petit** : deux pompes, une page lue, cinq minutes de rangement. On augmente une fois
+  l'habitude installée.
+- **Préciser le quand et le où**, avec une intention de mise en œuvre : « Quand j'ai fini mon café du
+  matin, je lis une page. » Les travaux du psychologue Peter Gollwitzer montrent que ce type de plan
+  augmente nettement le passage à l'acte.
+- **Accrocher la nouvelle habitude à une ancienne**, qui sert de déclencheur.
+- **Aménager l'environnement** : rendre le bon geste facile et visible, les chaussures de sport
+  devant la porte, les fruits sur la table ; rendre le mauvais difficile, le téléphone dans une autre
+  pièce, pas de biscuits dans le placard.
+- **Suivre ses progrès** : cocher les jours réussis sur un calendrier crée une petite récompense.
+- **Ne pas rater deux fois de suite** : une absence ponctuelle ne compte pas, une série d'absences
+  défait l'habitude.
+
+## Se défaire d'une mauvaise habitude
+
+Supprimer une habitude est plus difficile que d'en créer une. On réussit mieux en :
+
+- **identifiant son déclencheur** : quand, où, avec qui, dans quel état ;
+- **éloignant le déclencheur** quand c'est possible ;
+- **remplaçant** l'action par une autre qui apporte une récompense proche : marcher cinq minutes au
+  lieu de grignoter face au stress ;
+- **ajoutant de la friction** : se déconnecter d'une application, supprimer un raccourci.
+
+## À retenir
+
+- Une habitude est une action déclenchée automatiquement par un contexte, à force de répétition.
+- Il faut en moyenne environ 66 jours pour qu'un geste devienne automatique, avec de grands écarts.
+- Commencer petit et préciser le moment et le lieu augmentent les chances de réussite.
+- Aménager son environnement est plus efficace que compter sur sa volonté.
+- Rater un jour n'est pas grave ; c'est la répétition sur la durée qui compte.
+
+---
+type: article
+title: Gérer son temps et ses priorités
+slug: gerer-son-temps-priorites
+categoryPath: sciences-humaines-et-sociales/psychologie/cognition
+summary: >
+  Le temps est la seule ressource que personne ne peut accumuler. Distinguer l'urgent de
+  l'important, bloquer des plages pour le travail profond, faire une chose à la fois et savoir dire
+  non permettent d'avancer sur ce qui compte vraiment.
+tags: [cognition]
+relatedArticles: [former-de-bonnes-habitudes, pourquoi-ne-peut-on-pas-bien-faire-deux-choses-a-la-fois, pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui, apprendre-efficacement, negocier-efficacement]
+sources:
+  - title: "Matrice d'Eisenhower"
+    url: "https://fr.wikipedia.org/wiki/Matrice_d%27Eisenhower"
+    publisher: "Wikipédia"
+  - title: "Loi de Parkinson"
+    url: "https://fr.wikipedia.org/wiki/Loi_de_Parkinson"
+    publisher: "Wikipédia"
+  - title: "Pomodoro Technique"
+    url: "https://en.wikipedia.org/wiki/Pomodoro_Technique"
+    publisher: "Wikipedia"
+  - title: "Time management"
+    url: "https://en.wikipedia.org/wiki/Time_management"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Dans la matrice d'Eisenhower, quelles tâches faut-il protéger en priorité dans son agenda ?"
+    options:
+      - "Les tâches importantes mais non urgentes"
+      - "Les tâches ni urgentes ni importantes"
+      - "Uniquement les tâches urgentes"
+    answer: 1
+    explanation: >
+      Apprendre, préparer, prendre soin de sa santé ou de ses relations : ces tâches ne crient
+      jamais, et c'est pourquoi elles sont souvent sacrifiées.
+  - question: "Que dit la loi de Parkinson ?"
+    options:
+      - "Que les tâches se font toujours plus vite que prévu"
+      - "Que le travail s'étend de façon à occuper tout le temps disponible pour le faire"
+      - "Qu'il faut travailler la nuit"
+    answer: 2
+    explanation: >
+      Formulée avec humour par Cyril Northcote Parkinson en 1955, elle invite à se fixer des
+      délais courts et précis.
+  - question: "Pourquoi faire plusieurs choses à la fois fait-il perdre du temps ?"
+    options:
+      - "Parce que les ordinateurs ralentissent"
+      - "Parce que c'est fatigant pour les yeux"
+      - "Parce que le cerveau bascule d'une tâche à l'autre et perd à chaque fois du temps et de l'attention"
+    answer: 3
+    explanation: >
+      Chaque changement de tâche a un coût. Une notification peut faire perdre plusieurs minutes de
+      concentration.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Chacun dispose de 24 heures par jour. La différence ne tient pas au temps, mais à la façon de
+l'utiliser. Gérer son temps, c'est d'abord **choisir** ce qui compte, puis **protéger** du temps
+pour le faire, et **réduire** ce qui disperse. Quelques outils simples, la distinction entre urgent
+et important, les plages de travail bloquées, une tâche à la fois et le droit de dire non, suffisent
+à changer une semaine.
+
+## Urgent n'est pas important
+
+On attribue au président américain Dwight Eisenhower l'idée de distinguer deux questions : une tâche
+est-elle **urgente** ? Est-elle **importante** ? La **matrice d'Eisenhower** en tire quatre cases :
+
+1. **Urgent et important** : une échéance proche, un problème grave. À faire tout de suite.
+2. **Important mais pas urgent** : apprendre, préparer un projet, faire du sport, entretenir ses
+   relations, chercher un meilleur emploi. À **planifier** et protéger.
+3. **Urgent mais pas important** : beaucoup d'interruptions, de messages, de demandes des autres. À
+   déléguer, regrouper ou limiter.
+4. **Ni urgent ni important** : faire défiler les réseaux, regarder des vidéos sans fin. À réduire.
+
+Le piège est de passer ses journées dans les cases 1 et 3. Les tâches de la case 2 ne crient jamais,
+alors qu'elles construisent l'avenir. Ce sont elles qu'il faut inscrire en premier dans son agenda.
+
+[Emplacement image : matrice d'Eisenhower en quatre cases avec des exemples de tâches, légende et texte alternatif à fournir ultérieurement.]
+
+## Planifier sa semaine
+
+- **Lister ses priorités** de la semaine : trois résultats importants, pas trente tâches.
+- **Bloquer des plages** dans l'agenda pour ces priorités, comme des rendez-vous avec soi-même,
+  idéalement aux heures où l'on est le plus en forme.
+- **Regrouper** les petites tâches similaires, mails, appels, démarches, dans un même créneau.
+- **Garder des marges** : tout prend plus de temps que prévu.
+
+## Une chose à la fois
+
+Le cerveau ne fait pas vraiment deux tâches exigeantes en même temps : il bascule de l'une à l'autre,
+et chaque bascule coûte du temps et de l'attention. Une notification suffit à interrompre une
+réflexion. Quelques règles aident :
+
+- couper les notifications pendant les plages de travail ;
+- ranger le téléphone hors de vue ;
+- fermer les onglets inutiles ;
+- travailler par blocs, par exemple selon la **technique Pomodoro**, inventée par Francesco Cirillo à
+  la fin des années 1980 : 25 minutes concentrées, 5 minutes de pause.
+
+## Des délais courts
+
+En 1955, l'historien britannique Cyril Northcote Parkinson écrit avec humour que « le travail s'étend
+de façon à occuper tout le temps disponible ». C'est la **loi de Parkinson**. Se fixer des échéances
+courtes et précises, même pour soi, évite qu'une tâche d'une heure en prenne une journée.
+
+## Savoir dire non
+
+Chaque oui à une demande est un non à autre chose. Dire non, ou « pas maintenant », avec politesse et
+une explication brève, protège ses priorités. On peut proposer une alternative : un autre moment, une
+autre personne, une version plus simple.
+
+## Préserver son énergie
+
+Le temps ne sert à rien sans énergie. Le sommeil, l'activité physique, les pauses réelles et les
+vacances ne sont pas du temps perdu : ils rendent le reste plus efficace.
+
+## À retenir
+
+- La matrice d'Eisenhower distingue l'urgent de l'important.
+- Les tâches importantes mais non urgentes doivent être planifiées en premier.
+- Bloquer des plages de travail et faire une chose à la fois réduit les pertes de temps.
+- Des délais courts empêchent le travail de s'étendre, selon la loi de Parkinson.
+- Dire non et préserver son énergie protègent ce qui compte vraiment.
+

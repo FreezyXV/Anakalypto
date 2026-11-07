@@ -1306,16 +1306,137 @@ title: La découverte de la pénicilline
 slug: decouverte-penicilline
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Une moisissure sur une boîte de Petri en 1928, et le long chemin jusqu'au médicament de masse.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  En 1928, Alexander Fleming remarque qu'une moisissure tue les bactéries d'une boîte de culture.
+  Il faut ensuite douze ans de travail à Oxford, puis une production industrielle aux États-Unis,
+  pour en faire le premier antibiotique de masse.
+tags: [pharmacologie]
+relatedArticles: [ecorce-saule-aspirine, semmelweis-lavage-mains, james-lind-scorbut]
+sources:
+  - title: "Pénicilline"
+    url: "https://fr.wikipedia.org/wiki/P%C3%A9nicilline"
+    publisher: "Wikipédia"
+  - title: "The Nobel Prize in Physiology or Medicine 1945"
+    url: "https://www.nobelprize.org/prizes/medicine/1945/summary/"
+    publisher: "Nobel Prize Outreach"
+  - title: "Discovery and Development of Penicillin"
+    url: "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+    publisher: "American Chemical Society"
+  - title: "Antimicrobial resistance"
+    url: "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Qu'a remarqué Alexander Fleming en 1928 ?"
+    options:
+      - "Une moisissure empêchait des bactéries de pousser autour d'elle"
+      - "Un virus guérissait la grippe"
+      - "Les agrumes soignaient le scorbut"
+    answer: 1
+    explanation: >
+      Sur une boîte de culture contaminée par une moisissure Penicillium, les colonies de
+      staphylocoques avaient disparu tout autour de la moisissure.
+  - question: "Qui a transformé la pénicilline en médicament utilisable, à Oxford ?"
+    options:
+      - "Louis Pasteur et Robert Koch"
+      - "Howard Florey et Ernst Chain, avec leur équipe"
+      - "Marie et Pierre Curie"
+    answer: 2
+    explanation: >
+      À partir de 1939, l'équipe de Florey et Chain, où travaillait aussi Norman Heatley,
+      purifie la pénicilline et prouve son efficacité sur des souris, puis sur des patients.
+  - question: "Pourquoi ne faut-il pas prendre un antibiotique contre un rhume ?"
+    options:
+      - "Parce qu'il rend le rhume plus long"
+      - "Parce qu'il est trop cher"
+      - "Parce qu'un rhume est dû à un virus, contre lequel les antibiotiques n'agissent pas"
+    answer: 3
+    explanation: >
+      Les antibiotiques n'agissent que sur les bactéries. Les utiliser sans raison favorise
+      l'apparition de bactéries résistantes.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+En septembre 1928, à Londres, le médecin écossais Alexander Fleming observe qu'une moisissure
+tombée par hasard sur une boîte de culture a tué les bactéries autour d'elle. Il nomme la
+substance **pénicilline**. Mais il ne parvient pas à la purifier. Il faut attendre 1940 pour
+qu'une équipe d'Oxford en fasse un médicament, et 1943 pour que les États-Unis la produisent en
+masse. La pénicilline a ouvert l'ère des antibiotiques et sauvé des millions de vies.
+
+## Avant les antibiotiques
+
+Au début du XXe siècle, une simple coupure infectée, une pneumonie ou une infection après un
+accouchement pouvaient tuer. Les médecins savaient depuis Pasteur et Koch que des bactéries
+causaient ces maladies, mais ils n'avaient presque aucun moyen de les tuer dans le corps sans
+abîmer le patient.
+
+## Une boîte de culture oubliée
+
+Fleming étudie les staphylocoques à l'hôpital Saint-Mary de Londres. En rentrant de vacances, le
+3 septembre 1928, il trie des boîtes de culture laissées sur sa paillasse. Sur l'une d'elles,
+une moisissure verte a poussé. Tout autour, les colonies de bactéries ont disparu.
+
+Fleming comprend que la moisissure, du genre *Penicillium*, libère une substance qui tue
+certaines bactéries. Il la cultive, montre qu'elle agit sur plusieurs microbes dangereux et
+qu'elle n'est pas toxique pour les globules blancs. Il publie ses résultats en 1929. Mais la
+substance est instable, produite en quantité infime, et il ne réussit pas à l'isoler. Ses
+travaux restent presque ignorés pendant dix ans.
+
+[Emplacement image : boîte de culture montrant une moisissure et la zone sans bactéries qui l'entoure, légende et texte alternatif à fournir ultérieurement.]
+
+## L'équipe d'Oxford
+
+En 1939, à l'université d'Oxford, le pathologiste australien Howard Florey et le chimiste Ernst
+Chain, réfugié d'Allemagne, reprennent l'étude de la pénicilline. Le biochimiste Norman Heatley
+invente des méthodes pour la cultiver et l'extraire, avec des moyens de fortune : bassins,
+baignoires, bidons de lait.
+
+Le 25 mai 1940, ils injectent des streptocoques mortels à huit souris. Les quatre qui reçoivent
+de la pénicilline survivent, les quatre autres meurent. En février 1941, un policier atteint
+d'une grave infection, Albert Alexander, est le premier patient traité. Son état s'améliore de
+façon spectaculaire, mais la réserve de pénicilline s'épuise et il meurt quelques semaines plus
+tard. Il fallait produire beaucoup plus.
+
+## La production de masse
+
+En pleine guerre, le Royaume-Uni n'a pas les moyens industriels nécessaires. Florey et Heatley
+partent aux États-Unis en 1941. Au laboratoire de Peoria, dans l'Illinois, les chercheurs
+cultivent la moisissure dans de grandes cuves agitées et aérées, et trouvent sur un melon moisi
+une souche bien plus productive. Les entreprises pharmaceutiques construisent des usines.
+
+En 1944, la pénicilline est disponible en quantité pour soigner les soldats blessés lors du
+débarquement en Normandie. Après la guerre, elle devient accessible à la population civile.
+
+En 1945, Fleming, Florey et Chain reçoivent ensemble le prix Nobel de physiologie ou médecine.
+
+## Comment agit la pénicilline
+
+Une bactérie est entourée d'une **paroi** rigide qui la protège. La pénicilline empêche la
+bactérie de fabriquer cette paroi lorsqu'elle grandit et se divise. La bactérie éclate. Nos
+cellules n'ont pas de paroi de ce type : c'est pourquoi la pénicilline les épargne.
+
+Les antibiotiques n'agissent que sur les bactéries, jamais sur les virus, comme ceux du rhume ou
+de la grippe.
+
+## Le problème de la résistance
+
+Dès son discours du prix Nobel, Fleming avertit qu'un mauvais usage pourrait rendre les bactéries
+résistantes. Il avait raison. Quand on prend un antibiotique, les rares bactéries capables de lui
+résister survivent et se multiplient. Plus on utilise d'antibiotiques sans nécessité, plus ces
+bactéries résistantes se répandent. L'Organisation mondiale de la santé considère
+l'antibiorésistance comme l'une des principales menaces pour la santé mondiale.
+
+Les bons gestes : prendre un antibiotique seulement s'il est prescrit, respecter la dose et la
+durée, et ne pas garder les restes pour plus tard.
+
+## À retenir
+
+- En 1928, Alexander Fleming observe qu'une moisissure *Penicillium* tue les bactéries.
+- En 1940-1941, Florey, Chain et Heatley, à Oxford, en font un médicament efficace.
+- La production de masse démarre aux États-Unis et permet de soigner les blessés de 1944.
+- La pénicilline empêche les bactéries de construire leur paroi ; elle n'agit pas sur les virus.
+- Le mauvais usage des antibiotiques fait apparaître des bactéries résistantes.
 
 ---
 type: article
@@ -1323,16 +1444,134 @@ title: De l'écorce de saule à l'aspirine
 slug: ecorce-saule-aspirine
 categoryPath: sciences-du-vivant-appliquees/medecine/pharmacologie
 summary: >
-  Comment un remède traditionnel est devenu le médicament le plus consommé au monde.
-tags: [pharmacologie, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  L'écorce de saule soulage la fièvre et la douleur depuis l'Antiquité. Les chimistes du XIXe
+  siècle en ont extrait la substance active, puis l'ont transformée en un médicament mieux
+  toléré, l'aspirine, mis en vente en 1899.
+tags: [pharmacologie]
+relatedArticles: [decouverte-penicilline, james-lind-scorbut]
+sources:
+  - title: "Acide acétylsalicylique"
+    url: "https://fr.wikipedia.org/wiki/Acide_ac%C3%A9tylsalicylique"
+    publisher: "Wikipédia"
+  - title: "History of aspirin"
+    url: "https://en.wikipedia.org/wiki/History_of_aspirin"
+    publisher: "Wikipedia"
+  - title: "The Nobel Prize in Physiology or Medicine 1982"
+    url: "https://www.nobelprize.org/prizes/medicine/1982/summary/"
+    publisher: "Nobel Prize Outreach"
+  - title: "Salicine"
+    url: "https://fr.wikipedia.org/wiki/Salicine"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quelle substance a-t-on extraite de l'écorce de saule au XIXe siècle ?"
+    options:
+      - "La salicine"
+      - "La pénicilline"
+      - "La caféine"
+    answer: 1
+    explanation: >
+      La salicine, isolée en 1828-1829, se transforme dans le corps en acide salicylique, qui
+      fait baisser la fièvre et la douleur.
+  - question: "Pourquoi a-t-on modifié l'acide salicylique ?"
+    options:
+      - "Pour lui donner un goût sucré"
+      - "Parce qu'il irritait fortement l'estomac"
+      - "Pour qu'il devienne un antibiotique"
+    answer: 2
+    explanation: >
+      L'acide salicylique était efficace mais agressif pour l'estomac. Sa forme acétylée,
+      l'aspirine, est mieux tolérée.
+  - question: "Que découvre John Vane en 1971 ?"
+    options:
+      - "Que l'aspirine tue les virus"
+      - "Que l'aspirine vient des champignons"
+      - "Que l'aspirine bloque la fabrication des prostaglandines"
+    answer: 3
+    explanation: >
+      Les prostaglandines participent à la douleur, à la fièvre et à l'inflammation. Cette
+      découverte vaut à Vane le prix Nobel en 1982.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pendant des siècles, on a mâché de l'écorce de saule ou bu sa décoction pour calmer la fièvre et
+les douleurs. Au XIXe siècle, les chimistes ont isolé la substance responsable, puis l'ont
+modifiée pour la rendre moins irritante. Le résultat, l'acide acétylsalicylique, est mis en vente
+en 1899 sous le nom d'**aspirine**. C'est l'un des médicaments les plus utilisés au monde, et
+l'exemple type d'un remède traditionnel devenu un médicament moderne.
+
+## Un remède très ancien
+
+Des textes médicaux de l'Égypte ancienne, comme le papyrus Ebers, écrit vers 1550 avant notre
+ère, mentionnent déjà le saule. Des médecins grecs et romains l'employaient aussi contre la
+douleur et l'inflammation.
+
+En 1763, un pasteur anglais, Edward Stone, envoie à la Royal Society de Londres un compte rendu :
+il a donné de la poudre d'écorce de saule à une cinquantaine de malades fiévreux, avec succès.
+C'est l'une des premières descriptions méthodiques de cet effet.
+
+## Isoler la substance active
+
+Une plante contient des milliers de substances. Pour savoir laquelle agit, il faut l'isoler. En
+1828, l'Allemand Johann Buchner extrait de l'écorce de saule une substance amère, qu'il nomme
+**salicine**, d'après le nom latin du saule, *Salix*. En 1829, le pharmacien français Henri
+Leroux l'obtient sous forme de cristaux purs.
+
+Dans le corps, la salicine se transforme en **acide salicylique**. En 1838, l'Italien Raffaele
+Piria prépare cet acide au laboratoire. On le trouve aussi dans la reine-des-prés, une plante des
+prairies humides.
+
+L'acide salicylique est efficace contre la fièvre et les douleurs articulaires, mais il a un
+goût désagréable et irrite fortement l'estomac.
+
+[Emplacement image : étapes du saule à l'aspirine, de l'écorce à la salicine, à l'acide salicylique puis au comprimé, légende et texte alternatif à fournir ultérieurement.]
+
+## Naissance de l'aspirine
+
+En 1853, le chimiste strasbourgeois Charles Frédéric Gerhardt fixe un groupe chimique, l'acétyle,
+sur l'acide salicylique. Il obtient de l'acide acétylsalicylique, mais impur, et ne poursuit pas.
+
+En 1897, chez l'entreprise allemande Bayer, le chimiste Felix Hoffmann met au point une méthode
+pour le produire pur et stable. La molécule irrite moins l'estomac que l'acide salicylique tout
+en gardant ses effets. Bayer la commercialise en 1899 sous le nom d'aspirine : le « a » rappelle
+l'acétyle, et « spir » la spirée, l'ancien nom de la reine-des-prés.
+
+## Comprendre comment elle agit
+
+Pendant soixante-dix ans, on utilise l'aspirine sans savoir comment elle fonctionne. En 1971, le
+pharmacologue britannique John Vane montre qu'elle bloque une enzyme qui fabrique les
+**prostaglandines**. Ces molécules participent à la douleur, à la fièvre et à l'inflammation.
+Cette découverte lui vaut le prix Nobel de physiologie ou médecine en 1982, partagé avec deux
+chercheurs suédois.
+
+L'aspirine empêche aussi les plaquettes du sang de s'agglutiner. C'est pourquoi des médecins la
+prescrivent à faible dose à certains patients pour prévenir une récidive d'infarctus ou d'accident
+vasculaire cérébral.
+
+## Un médicament à respecter
+
+- L'aspirine peut provoquer des saignements, notamment de l'estomac.
+- Elle est déconseillée aux enfants et aux adolescents atteints d'une infection virale, en raison
+  du risque d'une maladie rare et grave, le syndrome de Reye.
+- Elle ne se prend pas avec certains autres médicaments, ni en fin de grossesse, sans avis
+  médical.
+
+## Du remède traditionnel au médicament
+
+L'histoire de l'aspirine résume une méthode qui a donné de nombreux médicaments : partir d'un
+remède traditionnel, vérifier qu'il agit vraiment, isoler la substance active, puis l'améliorer
+pour la rendre plus sûre et plus facile à doser. Une décoction d'écorce contient une quantité
+variable de substance ; un comprimé, une dose précise.
+
+## À retenir
+
+- L'écorce de saule est utilisée contre la fièvre et la douleur depuis l'Antiquité.
+- La salicine en est extraite en 1828-1829 ; elle devient acide salicylique dans le corps.
+- Felix Hoffmann, chez Bayer, produit en 1897 un acide acétylsalicylique pur, vendu en 1899 sous le nom d'aspirine.
+- En 1971, John Vane montre que l'aspirine bloque la fabrication des prostaglandines.
+- L'aspirine peut faire saigner et est déconseillée aux enfants atteints d'une infection virale.
 
 ---
 type: article
@@ -1493,16 +1732,136 @@ title: Semmelweis et le lavage des mains
 slug: semmelweis-lavage-mains
 categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
 summary: >
-  Un médecin ignoré qui avait compris, en 1847, que se laver les mains sauvait des vies.
-tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  En 1847, à Vienne, le médecin Ignace Semmelweis montre que les médecins transmettent une fièvre
+  mortelle aux accouchées. En imposant le lavage des mains au chlore, il fait chuter la mortalité.
+  Il ne sera pourtant pas écouté de son vivant.
+tags: [medecine-fondee-sur-les-preuves]
+relatedArticles: [james-lind-scorbut, decouverte-penicilline]
+sources:
+  - title: "Ignace Philippe Semmelweis"
+    url: "https://fr.wikipedia.org/wiki/Ignace_Philippe_Semmelweis"
+    publisher: "Wikipédia"
+  - title: "Ignaz Semmelweis"
+    url: "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+    publisher: "Wikipedia"
+  - title: "Ignaz Semmelweis"
+    url: "https://www.britannica.com/biography/Ignaz-Semmelweis"
+    publisher: "Encyclopædia Britannica"
+  - title: "World Hand Hygiene Day"
+    url: "https://www.who.int/campaigns/world-hand-hygiene-day"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Pourquoi les femmes mouraient-elles plus dans la clinique des médecins que dans celle des sages-femmes ?"
+    options:
+      - "Parce que les médecins venaient des salles d'autopsie sans se laver les mains"
+      - "Parce que la clinique des médecins était plus froide"
+      - "Parce que les sages-femmes donnaient des médicaments"
+    answer: 1
+    explanation: >
+      Les médecins et les étudiants examinaient les femmes juste après avoir disséqué des
+      cadavres et transportaient ainsi des germes sur leurs mains.
+  - question: "Avec quoi Semmelweis fait-il laver les mains à partir de 1847 ?"
+    options:
+      - "Avec de l'eau froide seule"
+      - "Avec une solution de chlorure de chaux"
+      - "Avec de l'alcool à 90 degrés"
+    answer: 2
+    explanation: >
+      La solution de chlorure de chaux supprimait l'odeur cadavérique et, sans qu'il le sache,
+      tuait les bactéries responsables de la fièvre.
+  - question: "Pourquoi les idées de Semmelweis ont-elles été rejetées ?"
+    options:
+      - "Parce qu'il n'avait aucun chiffre"
+      - "Parce que le lavage des mains coûtait trop cher"
+      - "Parce qu'on ne connaissait pas encore les microbes et que beaucoup de médecins se sentaient accusés"
+    answer: 3
+    explanation: >
+      Sans théorie des germes, son explication paraissait étrange, et elle faisait des médecins
+      les responsables des morts. Il faudra Pasteur et Lister pour l'expliquer.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Au milieu du XIXe siècle, de nombreuses femmes meurent après leur accouchement d'une infection,
+la **fièvre puerpérale**. En 1847, à Vienne, le médecin hongrois Ignace Semmelweis comprend que
+les médecins eux-mêmes la transmettent avec leurs mains. Il impose le lavage des mains dans une
+solution chlorée, et la mortalité s'effondre. Mais ses collègues refusent de le croire. Il faudra
+attendre Pasteur pour lui donner raison.
+
+## Deux cliniques, deux mortalités
+
+L'hôpital général de Vienne compte deux cliniques d'accouchement. Dans la première, les femmes
+sont suivies par des médecins et des étudiants. Dans la seconde, par des sages-femmes et leurs
+élèves. Les femmes y sont admises un jour sur deux.
+
+En 1846, Semmelweis, assistant dans la première clinique, compare les registres. La différence
+est frappante : environ une accouchée sur dix meurt dans la première clinique, contre moins
+d'une sur vingt-cinq dans la seconde. Les femmes le savent et supplient de ne pas être admises
+chez les médecins.
+
+## Éliminer les fausses pistes
+
+Semmelweis procède avec méthode. Il examine une à une les explications avancées : la
+surpopulation, l'air, la position d'accouchement, la peur provoquée par le prêtre qui traverse
+les salles avec sa clochette. Il fait changer ce qui peut l'être. Rien ne modifie la mortalité.
+Il remarque aussi que les femmes qui accouchent dans la rue avant d'arriver à l'hôpital tombent
+rarement malades.
+
+## L'indice décisif
+
+En mars 1847, son collègue Jakob Kolletschka se coupe avec un scalpel pendant une autopsie. Il
+meurt d'une infection dont les signes ressemblent à ceux de la fièvre puerpérale. Semmelweis fait
+le lien : les médecins et les étudiants passent de la salle d'autopsie aux salles
+d'accouchement sans se laver les mains. Ils transportent des « particules cadavériques ». Les
+sages-femmes, elles, ne pratiquent pas d'autopsies.
+
+[Emplacement image : graphique de la mortalité maternelle dans les deux cliniques de Vienne avant et après le lavage des mains de 1847, légende et texte alternatif à fournir ultérieurement.]
+
+## Le lavage des mains
+
+En mai 1847, Semmelweis impose à tous de se laver les mains dans une solution de chlorure de chaux
+avant d'examiner une femme. Il a choisi ce produit parce qu'il fait disparaître l'odeur des
+cadavres. Il ne le sait pas, mais il tue aussi les bactéries.
+
+Le résultat est immédiat : en quelques mois, la mortalité de la première clinique tombe autour de
+2 %, au niveau de celle des sages-femmes. Plus tard, il fait aussi désinfecter les instruments.
+
+## Un savant rejeté
+
+La plupart des médecins rejettent son idée. On ne connaît pas encore les microbes, et l'on croit
+que les maladies viennent d'un mauvais air ou d'un déséquilibre du corps. Surtout, son
+explication fait des médecins les responsables de la mort de leurs patientes. Semmelweis, de
+caractère emporté, publie tard, en 1861, et attaque violemment ses opposants.
+
+Il meurt en 1865, à 47 ans, dans un asile près de Vienne, probablement des suites des mauvais
+traitements qu'il y a subis.
+
+## Raison donnée par les microbes
+
+Dans les années 1860, Louis Pasteur montre que des microbes provoquent les fermentations et les
+infections. En 1867, le chirurgien britannique Joseph Lister désinfecte les plaies et les
+instruments à l'acide phénique, et la mortalité de ses opérés chute. La théorie des germes
+explique enfin ce que Semmelweis avait mesuré.
+
+## Une leçon toujours actuelle
+
+Le lavage des mains reste l'un des gestes les plus efficaces pour éviter la transmission des
+infections, à l'hôpital comme à la maison. L'Organisation mondiale de la santé y consacre chaque
+5 mai une journée mondiale.
+
+L'histoire de Semmelweis montre aussi la force d'une méthode : comparer deux groupes, écarter les
+explications une à une, mesurer l'effet d'un changement. Et elle rappelle qu'une preuve, même
+solide, peut être rejetée quand elle dérange.
+
+## À retenir
+
+- À Vienne, en 1846, les accouchées mouraient bien plus dans la clinique des médecins que dans celle des sages-femmes.
+- Semmelweis comprend que les médecins transportaient sur leurs mains des germes venus des autopsies.
+- En 1847, le lavage des mains au chlorure de chaux fait chuter la mortalité autour de 2 %.
+- Ses idées sont rejetées de son vivant ; Pasteur et Lister leur donneront raison.
+- Se laver les mains reste l'un des moyens les plus efficaces d'éviter les infections.
 
 ---
 type: article
@@ -1561,16 +1920,131 @@ title: James Lind et le scorbut
 slug: james-lind-scorbut
 categoryPath: sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves
 summary: >
-  En 1747, le premier essai contrôlé de l'histoire montre que les agrumes guérissent le scorbut.
-tags: [medecine-fondee-sur-les-preuves, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  En 1747, à bord d'un navire anglais, le chirurgien James Lind compare six traitements du
+  scorbut sur douze marins. Seuls ceux qui mangent des oranges et des citrons guérissent vite.
+  C'est l'un des premiers essais comparatifs de l'histoire de la médecine.
+tags: [medecine-fondee-sur-les-preuves]
+relatedArticles: [semmelweis-lavage-mains, ecorce-saule-aspirine]
+sources:
+  - title: "James Lind"
+    url: "https://fr.wikipedia.org/wiki/James_Lind"
+    publisher: "Wikipédia"
+  - title: "Lind J (1753)"
+    url: "https://www.jameslindlibrary.org/lind-j-1753/"
+    publisher: "James Lind Library"
+  - title: "Scorbut"
+    url: "https://fr.wikipedia.org/wiki/Scorbut"
+    publisher: "Wikipédia"
+  - title: "The Nobel Prize in Physiology or Medicine 1937"
+    url: "https://www.nobelprize.org/prizes/medicine/1937/summary/"
+    publisher: "Nobel Prize Outreach"
+quiz:
+  - question: "Combien de marins James Lind a-t-il inclus dans son essai de 1747 ?"
+    options:
+      - "Douze"
+      - "Deux cents"
+      - "Un seul"
+    answer: 1
+    explanation: >
+      Lind a choisi douze marins atteints de scorbut, dans un état comparable, et les a répartis
+      en six paires recevant chacune un traitement différent.
+  - question: "Pourquoi l'essai de Lind est-il important pour la médecine ?"
+    options:
+      - "Parce qu'il a découvert les vitamines"
+      - "Parce qu'il compare plusieurs traitements sur des patients semblables, dans les mêmes conditions"
+      - "Parce qu'il a inventé le vaccin"
+    answer: 2
+    explanation: >
+      En gardant les mêmes conditions de vie et de nourriture et en ne changeant que le
+      traitement, Lind pouvait attribuer la guérison au traitement lui-même.
+  - question: "Quel nutriment manque dans le scorbut ?"
+    options:
+      - "Le fer"
+      - "Le calcium"
+      - "La vitamine C"
+    answer: 3
+    explanation: >
+      Le scorbut est dû à un manque de vitamine C, que notre corps ne sait pas fabriquer. On la
+      trouve dans les fruits et les légumes frais.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pendant des siècles, le **scorbut** a tué plus de marins que les tempêtes et les combats. En 1747,
+à bord du navire anglais *Salisbury*, le chirurgien écossais James Lind teste six traitements sur
+douze marins malades. Les deux qui reçoivent des oranges et un citron guérissent en quelques
+jours. Cet essai, l'un des premiers à comparer des traitements de manière contrôlée, est devenu
+un modèle pour la médecine fondée sur les preuves.
+
+## Le fléau des marins
+
+Lors des longues traversées, les marins se nourrissent de biscuit de mer, de viande salée et de
+légumes secs. Après un ou deux mois sans fruits ni légumes frais, les premiers signes du scorbut
+apparaissent : grande fatigue, gencives gonflées qui saignent, dents qui se déchaussent, taches
+sur la peau, plaies qui ne cicatrisent plus. Sans traitement, la maladie est mortelle.
+
+Entre 1740 et 1744, l'expédition de l'amiral anglais George Anson autour du monde perd plus d'un
+millier d'hommes, la plupart à cause du scorbut et d'autres maladies. Les remèdes proposés sont
+nombreux et contradictoires.
+
+## L'essai du Salisbury
+
+Le 20 mai 1747, James Lind choisit douze marins atteints de scorbut, dont l'état est aussi
+semblable que possible. Ils sont logés au même endroit et reçoivent la même nourriture de base.
+Il les répartit en **six paires**, et chaque paire reçoit en plus un traitement différent :
+
+1. un litre de cidre par jour ;
+2. quelques gouttes d'élixir de vitriol, un acide dilué ;
+3. deux cuillerées de vinaigre trois fois par jour ;
+4. un quart de litre d'eau de mer par jour ;
+5. **deux oranges et un citron** par jour ;
+6. une pâte d'épices, d'ail et de graines de moutarde.
+
+Au bout de six jours, l'un des deux marins qui mangeaient les agrumes est apte à reprendre son
+service, et l'autre est assez rétabli pour soigner ses camarades. Les buveurs de cidre vont un
+peu mieux. Les autres ne progressent pas.
+
+[Emplacement image : tableau des six paires de marins de l'essai de 1747 et de leurs résultats, légende et texte alternatif à fournir ultérieurement.]
+
+## Pourquoi cet essai compte
+
+L'idée de Lind est simple et puissante : pour savoir si un traitement agit, il faut le comparer à
+d'autres, sur des malades semblables, en gardant toutes les autres conditions identiques. Si un
+groupe guérit et pas les autres, la différence vient du traitement, et non du hasard, de la
+saison ou de la nourriture.
+
+Son essai a des limites : il ne porte que sur douze personnes, et les paires ne sont pas tirées au
+sort. Lind lui-même, dans son *Traité du scorbut* publié en 1753, ne met pas clairement les agrumes
+en avant parmi d'autres hypothèses. Il recommande aussi un jus d'agrumes chauffé et concentré, qui
+perd une grande partie de son efficacité.
+
+## Des agrumes pour toute la flotte
+
+Il faut attendre 1795 pour que la marine britannique distribue régulièrement du jus de citron à
+ses équipages, sous l'impulsion du médecin Gilbert Blane. Le scorbut recule alors fortement à bord
+de ses navires. Les marins britanniques gagnent le surnom de « limeys ».
+
+## La vitamine C
+
+La cause du scorbut n'est comprise qu'au XXe siècle. Il est dû au manque d'un nutriment, la
+**vitamine C**, ou acide ascorbique. Le corps en a besoin pour fabriquer le collagène, la protéine
+qui solidifie la peau, les vaisseaux sanguins et les gencives. Contrairement à la plupart des
+animaux, les humains ne savent pas la produire.
+
+Le biochimiste hongrois Albert Szent-Györgyi isole la vitamine C entre 1928 et 1932 ; il reçoit le
+prix Nobel de physiologie ou médecine en 1937. Elle est abondante dans les agrumes, le kiwi, les
+poivrons, le chou et les herbes fraîches, mais se dégrade à la chaleur et à la longue
+conservation.
+
+## À retenir
+
+- Le scorbut, fréquent chez les marins, est dû à un manque de vitamine C.
+- En 1747, James Lind compare six traitements sur douze marins répartis en paires.
+- Les deux marins nourris d'oranges et de citron guérissent nettement plus vite.
+- Comparer des traitements sur des malades semblables, dans les mêmes conditions, est le principe des essais cliniques.
+- La marine britannique distribue du jus de citron à partir de 1795, et le scorbut recule.
 
 ---
 type: article
@@ -1884,16 +2358,135 @@ title: Le greffage
 slug: greffage
 categoryPath: sciences-du-vivant-appliquees/agronomie/selection-vegetale
 summary: >
-  Unir deux plantes pour combiner leurs qualités : la technique qui multiplie les arbres fruitiers.
-tags: [selection-vegetale, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Greffer, c'est souder une branche ou un bourgeon d'une plante sur une autre pour qu'ils
+  poussent ensemble. C'est le seul moyen fiable de reproduire à l'identique un bon pommier ou un
+  bon poirier, et il a sauvé la vigne européenne.
+tags: [selection-vegetale]
+relatedArticles: [haies-bocage, gerer-durablement-foret]
+sources:
+  - title: "Greffe (botanique)"
+    url: "https://fr.wikipedia.org/wiki/Greffe_(botanique)"
+    publisher: "Wikipédia"
+  - title: "Grafting"
+    url: "https://en.wikipedia.org/wiki/Grafting"
+    publisher: "Wikipedia"
+  - title: "Rootstock"
+    url: "https://en.wikipedia.org/wiki/Rootstock"
+    publisher: "Wikipedia"
+  - title: "Phylloxera"
+    url: "https://fr.wikipedia.org/wiki/Phylloxera"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi greffe-t-on les pommiers plutôt que de semer leurs pépins ?"
+    options:
+      - "Parce que l'arbre issu d'un pépin ne ressemble pas à ses parents"
+      - "Parce que les pépins de pomme ne germent jamais"
+      - "Parce que les arbres greffés n'ont pas besoin d'eau"
+    answer: 1
+    explanation: >
+      Un pépin mélange les caractères de deux parents. Les fruits de l'arbre obtenu sont
+      souvent petits et acides. Le greffage, lui, reproduit exactement la variété choisie.
+  - question: "Quelle partie des deux plantes doit être mise en contact pour que la greffe prenne ?"
+    options:
+      - "L'écorce extérieure"
+      - "Le cambium, la fine couche vivante sous l'écorce"
+      - "Le cœur du bois"
+    answer: 2
+    explanation: >
+      Le cambium fabrique les nouveaux tissus. Si ceux du greffon et du porte-greffe se touchent,
+      ils se soudent et la sève passe.
+  - question: "Comment le greffage a-t-il sauvé la vigne européenne ?"
+    options:
+      - "En greffant la vigne sur des pommiers"
+      - "En supprimant les racines"
+      - "En greffant les cépages européens sur des racines américaines résistantes au phylloxéra"
+    answer: 3
+    explanation: >
+      Les racines de vignes américaines résistent au phylloxéra, un puceron venu d'Amérique qui
+      détruisait les vignobles européens à partir des années 1860.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Greffer, c'est fixer un morceau d'une plante, le **greffon**, sur une autre plante, le
+**porte-greffe**, de façon qu'ils se soudent et poussent ensemble. Le greffon donne les fleurs et
+les fruits, le porte-greffe les racines. Pratiqué depuis l'Antiquité, le greffage est le seul moyen
+fiable de reproduire à l'identique une bonne variété de pomme, de poire ou de cerise. Il a aussi
+sauvé la vigne européenne au XIXe siècle.
+
+## Pourquoi greffer
+
+Un pépin de pomme est le fruit d'une fécondation : il mélange les caractères de deux parents.
+L'arbre qui en pousse ne ressemble presque jamais à la variété dont vient la pomme, et ses fruits
+sont souvent petits et acides. Pour obtenir à coup sûr une variété donnée, il faut en prélever un
+rameau et le faire pousser sur des racines : c'est un clone.
+
+Le greffage permet aussi de :
+
+- choisir des racines adaptées au sol, à la sécheresse ou à une maladie ;
+- contrôler la **vigueur** de l'arbre : certains porte-greffes donnent des arbres nains, plus vite
+  productifs et faciles à cueillir ;
+- changer la variété d'un arbre adulte, ou en porter plusieurs sur un même tronc.
+
+## Comment la greffe prend
+
+Sous l'écorce d'une branche se trouve une fine couche verte et vivante, le **cambium**. C'est elle
+qui fabrique chaque année le nouveau bois vers l'intérieur et la nouvelle écorce vers l'extérieur.
+
+Pour qu'une greffe réussisse, le cambium du greffon doit toucher celui du porte-greffe. Les deux
+produisent alors des cellules qui s'entremêlent, forment un bourrelet et finissent par créer des
+vaisseaux communs. La sève brute monte des racines au greffon, la sève élaborée redescend. En
+quelques semaines, les deux plantes n'en font plus qu'une.
+
+[Emplacement image : coupe d'une greffe en fente montrant le greffon, le porte-greffe et le contact des cambiums, légende et texte alternatif à fournir ultérieurement.]
+
+## Qui peut-on greffer sur qui
+
+Les deux plantes doivent être proches parentes. On greffe une variété de pommier sur un autre
+pommier, un abricotier sur un prunier, un poirier sur un cognassier. Entre plantes trop éloignées,
+la soudure ne se fait pas, ou elle casse au bout de quelques années.
+
+## Les principales techniques
+
+- **La greffe en fente** : on coupe le porte-greffe, on fend son extrémité et on y glisse un
+  rameau taillé en biseau. Elle se pratique à la fin de l'hiver ou au début du printemps, quand la
+  sève remonte.
+- **La greffe en couronne** : plusieurs rameaux sont glissés entre l'écorce et le bois d'une
+  grosse branche coupée, au printemps.
+- **La greffe en écusson** : on insère un seul bourgeon, avec un fragment d'écorce, sous l'écorce
+  du porte-greffe incisée en T. Pratiquée en été, elle est très utilisée pour les rosiers et les
+  arbres fruitiers.
+- **La greffe à l'anglaise** : deux rameaux de même diamètre, coupés en biseau, sont assemblés
+  bout à bout.
+
+## Les gestes qui comptent
+
+1. Utiliser un greffoir ou un couteau très tranchant et propre : une coupe nette se soude mieux.
+2. Ajuster soigneusement les cambiums l'un contre l'autre.
+3. Ligaturer fermement avec du raphia ou une bande élastique.
+4. Recouvrir les plaies de mastic à greffer pour éviter le dessèchement et l'entrée des maladies.
+5. Retirer la ligature quand la greffe a pris, pour qu'elle n'étrangle pas la branche, et supprimer
+   les pousses qui partent du porte-greffe.
+
+## La vigne sauvée par la greffe
+
+Dans les années 1860, un minuscule puceron venu d'Amérique, le **phylloxéra**, attaque les racines
+des vignes françaises, puis européennes. En quelques décennies, il détruit la plus grande partie
+des vignobles. Les vignes américaines, elles, résistent : leurs racines supportent le puceron.
+
+La solution adoptée à partir des années 1880 consiste à greffer les cépages européens sur des
+porte-greffes américains. Les raisins restent ceux des cépages traditionnels, mais les racines
+résistent. Aujourd'hui, la quasi-totalité des vignes cultivées dans le monde sont greffées.
+
+## À retenir
+
+- Greffer, c'est souder un greffon sur un porte-greffe pour qu'ils poussent ensemble.
+- C'est le seul moyen fiable de reproduire à l'identique une variété d'arbre fruitier.
+- La greffe prend quand les cambiums des deux plantes sont en contact.
+- Les deux plantes doivent être proches parentes, comme le poirier et le cognassier.
+- Greffer la vigne sur des racines américaines a permis de vaincre le phylloxéra.
 
 ---
 type: article

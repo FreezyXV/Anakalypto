@@ -7575,18 +7575,127 @@ status: planned
 
 ---
 type: article
-title: Le systeme d'allumage electronique moderne
+title: L'allumage, bougies et bobines
 slug: le-systeme-d-allumage-electronique-moderne
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Comment une etincelle precisement synchronisee declenche la combustion.
+  Dans un moteur à essence, une étincelle de plusieurs dizaines de milliers de volts enflamme le
+  mélange au moment exact choisi par le calculateur. Le diesel, lui, n'a pas de bougies
+  d'allumage, mais des bougies de préchauffage pour démarrer à froid.
 tags: [thermique]
-priority: 3
-essentiel: false
-status: planned
+relatedArticles: [voiture-thermique-chaine-complete, calculateur-moteur-capteurs, circuit-electrique-12v-batterie-alternateur-demarreur, comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage]
+sources:
+  - title: "Bougie d'allumage"
+    url: "https://fr.wikipedia.org/wiki/Bougie_d%27allumage"
+    publisher: "Wikipédia"
+  - title: "Ignition coil"
+    url: "https://en.wikipedia.org/wiki/Ignition_coil"
+    publisher: "Wikipedia"
+  - title: "Ignition timing"
+    url: "https://en.wikipedia.org/wiki/Ignition_timing"
+    publisher: "Wikipedia"
+  - title: "Glow plug"
+    url: "https://en.wikipedia.org/wiki/Glow_plug"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel est le rôle de la bobine d'allumage ?"
+    options:
+      - "Transformer les 12 volts de la batterie en plusieurs dizaines de milliers de volts"
+      - "Refroidir la bougie"
+      - "Injecter l'essence"
+    answer: 1
+    explanation: >
+      La bobine est un transformateur. Quand le calculateur coupe brusquement son courant, elle
+      produit une haute tension qui fait jaillir l'étincelle.
+  - question: "Pourquoi déclenche-t-on l'étincelle un peu avant que le piston soit tout en haut ?"
+    options:
+      - "Pour économiser la bougie"
+      - "Parce que la combustion met un peu de temps à se propager"
+      - "Par habitude"
+    answer: 2
+    explanation: >
+      C'est l'avance à l'allumage. La pression maximale doit arriver juste après le point mort
+      haut, quand le piston redescend.
+  - question: "À quoi servent les bougies de préchauffage d'un diesel ?"
+    options:
+      - "À produire une étincelle"
+      - "À chauffer l'habitacle"
+      - "À chauffer la chambre de combustion pour faciliter le démarrage à froid"
+    answer: 3
+    explanation: >
+      Moteur froid, la compression seule chauffe moins bien l'air. La bougie de préchauffage
+      rougit et aide le gazole à s'enflammer.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans un moteur à essence, le mélange d'air et d'essence ne s'enflamme pas tout seul : il faut une
+**étincelle**. Une **bobine** transforme les 12 volts de la batterie en une tension de plusieurs
+dizaines de milliers de volts, et une **bougie**, vissée dans la culasse, fait jaillir l'étincelle
+dans le cylindre. Le **calculateur** décide du moment exact, à chaque tour. Le diesel fonctionne
+autrement : l'air comprimé est assez chaud pour enflammer le gazole, et il n'utilise que des
+**bougies de préchauffage** pour démarrer à froid.
+
+## La bougie
+
+Une bougie comporte une électrode centrale, isolée par une céramique, et une électrode de masse
+reliée au moteur. Un espace d'environ un millimètre les sépare. Quand la haute tension arrive,
+l'air entre les deux électrodes devient conducteur et une étincelle jaillit.
+
+Les électrodes s'usent avec le temps. On remplace les bougies classiques tous les 30 000 à 60 000 km
+environ, et celles à pointe d'iridium ou de platine jusqu'à 100 000 km ou plus, selon le
+constructeur.
+
+## La bobine
+
+La bobine est un petit transformateur : un enroulement de quelques centaines de spires reçoit le
+courant de la batterie, un second enroulement de dizaines de milliers de spires fournit la haute
+tension. Quand le calculateur coupe brusquement le courant du premier enroulement, le champ
+magnétique s'effondre et produit une tension de 20 000 à plus de 40 000 volts dans le second.
+
+Les anciennes voitures avaient une seule bobine et un **allumeur**, qui distribuait l'étincelle à
+chaque cylindre. Aujourd'hui, chaque bougie a souvent sa propre **bobine crayon**, posée directement
+dessus.
+
+[Emplacement image : coupe d'une bougie et d'une bobine crayon montrant le trajet de la haute tension jusqu'à l'étincelle, légende et texte alternatif à fournir ultérieurement.]
+
+## Le bon moment, l'avance à l'allumage
+
+La combustion n'est pas instantanée : la flamme met quelques millièmes de seconde à traverser le
+cylindre. On déclenche donc l'étincelle **avant** que le piston arrive en haut, pour que la pression
+maximale survienne juste après, quand il redescend. C'est l'**avance**.
+
+Le calculateur la calcule en permanence selon le régime, la charge, la température et la qualité du
+carburant. Un **capteur de cliquetis**, un petit micro vissé sur le bloc, détecte les combustions
+anormales, qui sonnent comme un tintement métallique ; le calculateur réduit alors l'avance pour
+protéger le moteur.
+
+## Et sur le diesel
+
+Un diesel n'a pas de bougies d'allumage. Mais moteur froid, l'air comprimé chauffe moins, car les
+parois froides absorbent la chaleur. Des **bougies de préchauffage**, des résistances qui rougissent
+en quelques secondes, chauffent la chambre de combustion. C'est le voyant en forme de ressort au
+tableau de bord, qu'on attendait autrefois de voir s'éteindre avant de démarrer. Elles fonctionnent
+aussi quelques minutes après le démarrage pour réduire fumées et bruit.
+
+## Les signes d'un problème
+
+- **Un raté d'allumage** : le moteur tremble, broute au ralenti, perd de la puissance, et le voyant
+  moteur peut clignoter. Un raté laisse passer de l'essence imbrûlée qui peut abîmer le catalyseur.
+- **Un démarrage difficile** sur un diesel par temps froid peut venir de bougies de préchauffage
+  hors service.
+- Une bobine ou une bougie défaillante se repère souvent par un code de défaut lu par la prise de
+  diagnostic.
+
+## À retenir
+
+- La bobine transforme 12 volts en 20 000 à plus de 40 000 volts ; la bougie en fait une étincelle.
+- Le calculateur déclenche l'étincelle un peu avant le point mort haut : c'est l'avance.
+- Un capteur de cliquetis protège le moteur contre les combustions anormales.
+- Le diesel n'a pas de bougies d'allumage, mais des bougies de préchauffage pour le froid.
+- Un raté d'allumage fait trembler le moteur et peut abîmer le catalyseur.
 
 ---
 type: article
@@ -7764,18 +7873,128 @@ status: planned
 
 ---
 type: article
-title: Le systeme de depollution des moteurs diesel (AdBlue)
+title: La dépollution diesel, du FAP à l'AdBlue
 slug: le-systeme-de-depollution-des-moteurs-diesel-adblue
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Une solution chimique injectee pour reduire les oxydes d'azote a l'echappement.
+  À la sortie d'un diesel moderne, les gaz traversent un catalyseur d'oxydation, un filtre à
+  particules et un catalyseur SCR alimenté en AdBlue. Ensemble, ils éliminent l'essentiel des
+  suies et des oxydes d'azote, à condition d'être bien utilisés.
 tags: [thermique]
-priority: 3
-essentiel: false
-status: planned
+relatedArticles: [filtre-particules-catalyseur, vanne-egr-recirculation-gaz-echappement, voiture-thermique-chaine-complete, calculateur-moteur-capteurs]
+sources:
+  - title: "AdBlue"
+    url: "https://fr.wikipedia.org/wiki/AdBlue"
+    publisher: "Wikipédia"
+  - title: "Selective catalytic reduction"
+    url: "https://en.wikipedia.org/wiki/Selective_catalytic_reduction"
+    publisher: "Wikipedia"
+  - title: "Diesel particulate filter"
+    url: "https://en.wikipedia.org/wiki/Diesel_particulate_filter"
+    publisher: "Wikipedia"
+  - title: "Normes européennes d'émission"
+    url: "https://fr.wikipedia.org/wiki/Norme_europ%C3%A9enne_d%27%C3%A9mission"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Que contient l'AdBlue ?"
+    options:
+      - "De l'urée dissoute dans de l'eau"
+      - "Du gazole coloré"
+      - "De l'huile moteur"
+    answer: 1
+    explanation: >
+      L'AdBlue est une solution d'urée à 32,5 % dans de l'eau très pure. Chauffée dans
+      l'échappement, elle libère de l'ammoniac.
+  - question: "Que transforme le catalyseur SCR grâce à l'AdBlue ?"
+    options:
+      - "Les suies en huile"
+      - "Les oxydes d'azote en azote et en vapeur d'eau"
+      - "Le gaz carbonique en oxygène"
+    answer: 2
+    explanation: >
+      L'ammoniac réagit avec les NOx sur le catalyseur pour former de l'azote, déjà majoritaire
+      dans l'air, et de l'eau.
+  - question: "Que se passe-t-il si le réservoir d'AdBlue est vide ?"
+    options:
+      - "Rien"
+      - "La voiture consomme moins"
+      - "Le moteur refuse de redémarrer après l'arrêt"
+    answer: 3
+    explanation: >
+      La réglementation impose d'empêcher le fonctionnement sans dépollution. Des alertes
+      préviennent longtemps à l'avance.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Un diesel produit deux polluants difficiles à éliminer : des **particules** de suie et des **oxydes
+d'azote**, les NOx. Depuis les normes Euro 6, sa ligne d'échappement est devenue une petite usine
+chimique : un **catalyseur d'oxydation**, un **filtre à particules**, le FAP, et un catalyseur de
+**réduction catalytique sélective**, le SCR, alimenté par un liquide, l'**AdBlue**. S'y ajoute la
+vanne EGR côté admission. Ensemble, ces systèmes éliminent la plus grande partie des polluants.
+
+## Le parcours des gaz
+
+1. **Le catalyseur d'oxydation** transforme le monoxyde de carbone et les hydrocarbures imbrûlés en
+   gaz carbonique et en eau. Il prépare aussi les gaz pour les étapes suivantes.
+2. **Le filtre à particules** est un bloc de céramique en nid d'abeilles dont les canaux sont
+   bouchés une fois sur deux. Les gaz doivent traverser les parois poreuses, qui retiennent plus de
+   95 % des suies.
+3. **L'injection d'AdBlue** : une buse pulvérise le liquide dans l'échappement.
+4. **Le catalyseur SCR** fait réagir les NOx avec l'ammoniac issu de l'AdBlue.
+5. **Le silencieux** réduit le bruit.
+
+Des **sondes** de température, de pression et de NOx informent le calculateur à chaque étape.
+
+[Emplacement image : ligne d'échappement d'un diesel Euro 6 avec catalyseur d'oxydation, FAP, injecteur d'AdBlue, catalyseur SCR et capteurs, légende et texte alternatif à fournir ultérieurement.]
+
+## La régénération du FAP
+
+Le filtre se remplit peu à peu de suie. Pour le vider, il faut la brûler, vers 550 à 600 °C. C'est la
+**régénération** :
+
+- **passive**, quand les gaz sont naturellement chauds, sur autoroute ;
+- **active**, quand le calculateur décide d'injecter un peu plus de gazole après la combustion pour
+  chauffer le filtre. Le ventilateur peut alors tourner à l'arrêt et le ralenti monter un peu.
+
+Si la voiture ne fait que des trajets courts, la régénération est interrompue et le filtre se
+colmate. Un voyant s'allume ; un trajet d'une vingtaine de minutes à régime soutenu suffit souvent.
+Les cendres d'huile, elles, ne brûlent pas : le filtre doit parfois être nettoyé ou remplacé au bout
+de plusieurs centaines de milliers de kilomètres.
+
+## L'AdBlue et le SCR
+
+L'**AdBlue** est une solution d'**urée à 32,5 %** dans de l'eau déminéralisée, stockée dans un
+réservoir séparé, souvent rempli par une trappe à côté du gazole. Dans l'échappement chaud, l'urée
+se décompose en **ammoniac**. Sur le catalyseur SCR, l'ammoniac réagit avec les oxydes d'azote et les
+transforme en **azote** et en **vapeur d'eau**, deux constituants naturels de l'air.
+
+La consommation est faible, de l'ordre de un à deux litres pour 1 000 km selon les modèles. Mais un
+réservoir vide a une conséquence nette : la réglementation impose que le moteur **refuse de
+redémarrer** tant qu'on n'a pas fait le plein. Des messages préviennent plusieurs centaines de
+kilomètres à l'avance.
+
+Bon à savoir :
+
+- l'AdBlue gèle vers **-11 °C** ; le système est chauffé et dégèle tout seul ;
+- il cristallise à l'air libre et peut boucher l'injecteur s'il fuit ;
+- il ne faut jamais le verser dans le réservoir de gazole, ni l'inverse.
+
+## Et les moteurs à essence
+
+Les moteurs à essence utilisent un **catalyseur trois voies**, qui traite à la fois le monoxyde de
+carbone, les hydrocarbures et les NOx, à condition que le mélange soit très précis, d'où les sondes
+lambda. Les moteurs à injection directe récents ont aussi un **filtre à particules essence**.
+
+## À retenir
+
+- La ligne d'échappement diesel moderne enchaîne catalyseur d'oxydation, FAP et catalyseur SCR.
+- Le FAP retient la suie, qu'il brûle vers 550 à 600 °C lors des régénérations.
+- Les trajets trop courts empêchent la régénération et colmatent le filtre.
+- L'AdBlue, de l'urée à 32,5 %, permet au SCR de transformer les NOx en azote et en eau.
+- Sans AdBlue, le moteur refuse de redémarrer.
 
 ---
 type: article
@@ -7869,18 +8088,127 @@ status: planned
 
 ---
 type: article
-title: La transmission manuelle contre automatique
+title: La boîte automatique, du convertisseur au double embrayage
 slug: la-transmission-manuelle-contre-automatique
 categoryPath: automobile/motorisations/thermique
 summary: >
-  Deux philosophies de conduite, avec des compromis de plaisir et d'efficacite.
+  Une boîte automatique change les vitesses à la place du conducteur. Les modèles classiques
+  utilisent un convertisseur de couple et des trains épicycloïdaux, d'autres deux embrayages ou
+  une courroie à variation continue. Chacune a ses avantages et son entretien.
 tags: [thermique]
-priority: 3
-essentiel: false
-status: planned
+relatedArticles: [fonctionnement-boite-de-vitesses, embrayage-volant-moteur-bimasse, boite-de-transfert-4x4, voiture-thermique-chaine-complete]
+sources:
+  - title: "Boîte de vitesses automatique"
+    url: "https://fr.wikipedia.org/wiki/Bo%C3%AEte_de_vitesses_automatique"
+    publisher: "Wikipédia"
+  - title: "Torque converter"
+    url: "https://en.wikipedia.org/wiki/Torque_converter"
+    publisher: "Wikipedia"
+  - title: "Dual-clutch transmission"
+    url: "https://en.wikipedia.org/wiki/Dual-clutch_transmission"
+    publisher: "Wikipedia"
+  - title: "Continuously variable transmission"
+    url: "https://en.wikipedia.org/wiki/Continuously_variable_transmission"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce qui remplace l'embrayage dans une boîte automatique classique ?"
+    options:
+      - "Le convertisseur de couple, qui transmet la force par l'huile"
+      - "Une courroie en caoutchouc"
+      - "Rien, il n'y a pas de lien"
+    answer: 1
+    explanation: >
+      Une roue à aubes reliée au moteur projette de l'huile sur une autre roue reliée à la boîte.
+      Le lien est fluide, ce qui permet de rester arrêté en prise.
+  - question: "Comment fonctionne une boîte à double embrayage ?"
+    options:
+      - "Elle a deux moteurs"
+      - "Un embrayage gère les rapports impairs, l'autre les rapports pairs, et le rapport suivant est déjà prêt"
+      - "Elle a deux pédales d'embrayage"
+    answer: 2
+    explanation: >
+      Le passage d'un rapport à l'autre consiste à ouvrir un embrayage et fermer l'autre, en une
+      fraction de seconde, sans interruption de la poussée.
+  - question: "Pourquoi faut-il vidanger l'huile d'une boîte automatique ?"
+    options:
+      - "Pour changer sa couleur"
+      - "Pour la rendre plus bruyante"
+      - "Parce qu'elle transmet la force, commande les embrayages et se dégrade avec la chaleur"
+    answer: 3
+    explanation: >
+      Une huile usée provoque des passages durs ou tardifs et accélère l'usure. Les intervalles
+      varient beaucoup selon les constructeurs.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Dans une boîte manuelle, le conducteur débraie et choisit lui-même le rapport. Une **boîte
+automatique** fait ce travail seule, selon la vitesse, la pression sur l'accélérateur et la pente.
+Il en existe plusieurs familles : la boîte classique à **convertisseur de couple**, la boîte à
+**double embrayage**, la boîte à **variation continue** et la boîte manuelle **robotisée**. Toutes
+évitent la pédale d'embrayage, mais leur mécanique, leurs sensations et leur entretien diffèrent.
+
+## La boîte à convertisseur de couple
+
+C'est la boîte automatique traditionnelle, très répandue sur les grosses voitures et les SUV.
+
+**Le convertisseur de couple** remplace l'embrayage. Il contient trois roues à aubes baignant dans
+l'huile : une **pompe** entraînée par le moteur projette l'huile sur une **turbine** reliée à la
+boîte, et un **réacteur** fixe redirige l'huile pour multiplier la force au démarrage. Le lien étant
+fluide, la voiture peut rester arrêtée en prise sans caler. À vitesse stabilisée, un **embrayage de
+pontage** solidarise le tout pour éviter les pertes.
+
+**Les trains épicycloïdaux** remplacent les pignons d'une boîte manuelle. Chacun associe un pignon
+central, des satellites et une couronne. En bloquant l'un ou l'autre de ces éléments avec des
+**embrayages multidisques** et des **freins** internes, on obtient différents rapports. Les boîtes
+modernes en ont huit à dix.
+
+**L'unité de commande**, hydraulique et électronique, dirige l'huile sous pression vers les bons
+embrayages au bon moment.
+
+[Emplacement image : coupe d'une boîte automatique avec convertisseur de couple, trains épicycloïdaux et unité de commande, légende et texte alternatif à fournir ultérieurement.]
+
+## La boîte à double embrayage
+
+Elle ressemble à deux boîtes manuelles imbriquées : un embrayage pour les rapports **impairs**, un
+autre pour les rapports **pairs**. Pendant qu'on roule en troisième, la quatrième est déjà engagée
+sur l'autre arbre. Changer de rapport consiste à ouvrir un embrayage et fermer l'autre, en quelques
+centièmes de seconde, sans couper la poussée. Popularisée par Volkswagen à partir de 2003, elle
+est rapide et économe, mais parfois moins douce à très basse vitesse, en manœuvre.
+
+## Les autres solutions
+
+- **La boîte à variation continue**, ou CVT : une courroie ou une chaîne métallique relie deux
+  poulies dont le diamètre varie. Il n'y a pas de rapports, le régime moteur reste au meilleur
+  point. Elle est très douce, mais certains trouvent le bruit du moteur monotone.
+- **La boîte robotisée** : une boîte manuelle classique dont l'embrayage et les passages sont
+  commandés par des actionneurs. Bon marché, elle est souvent moins agréable, avec des temps morts
+  entre les rapports.
+
+## Utiliser une boîte automatique
+
+- **P** pour se garer, qui bloque la boîte, **R** pour la marche arrière, **N** pour le point mort,
+  **D** pour avancer.
+- Passer de D à R ou P **à l'arrêt complet**, pied sur le frein.
+- Ne pas remorquer longtemps une voiture à boîte automatique roues motrices au sol sans respecter
+  les consignes du constructeur : la boîte peut manquer de lubrification.
+
+## Entretien
+
+L'huile d'une boîte automatique transmet la force, lubrifie et commande les embrayages. Elle se
+dégrade avec la chaleur. Une **vidange** aux intervalles conseillés, souvent entre 60 000 et
+120 000 km selon les modèles, même si certains constructeurs la disent « à vie », évite passages
+brusques, glissements et pannes coûteuses.
+
+## À retenir
+
+- Une boîte automatique choisit seule le rapport selon la vitesse et l'accélération.
+- La boîte classique utilise un convertisseur de couple et des trains épicycloïdaux.
+- La boîte à double embrayage prépare le rapport suivant sur un second arbre.
+- La CVT fait varier le rapport en continu avec des poulies et une courroie.
+- La vidange de l'huile de boîte prévient la plupart des pannes.
 
 ---
 type: article
@@ -16949,3 +17277,1282 @@ Le règlement Euro 7 a été adopté en 2024. Euro 7 s'applique par étapes : d'
 - Euro 7 est la première norme à encadrer les particules des freins et l'usure des pneus, et la durabilité des batteries.
 - Pour les voitures et les camionnettes, Euro 7 garde les limites à l'échappement d'Euro 6 ; celles des camions et des bus durcissent.
 - Euro 7 s'applique par étapes : nouveaux modèles de voitures, tous les véhicules neufs, puis camions et bus.
+
+---
+type: article
+title: La voiture thermique de A à Z, essence ou diesel
+slug: voiture-thermique-chaine-complete
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Du réservoir aux roues, une voiture thermique enchaîne une dizaine de systèmes qui dépendent les
+  uns des autres : air, carburant, allumage, moteur, lubrification, refroidissement, dépollution,
+  électricité, transmission et liaison au sol. Voici la carte complète, et ce qui distingue
+  l'essence du diesel.
+tags: [thermique]
+relatedArticles: [comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement, alimentation-carburant-injection, intercooler-circuit-admission, le-systeme-d-allumage-electronique-moderne, vanne-egr-recirculation-gaz-echappement, le-systeme-de-depollution-des-moteurs-diesel-adblue, embrayage-volant-moteur-bimasse, la-transmission-manuelle-contre-automatique, boite-de-transfert-4x4, train-roulant-rotules-silentblocs, circuit-electrique-12v-batterie-alternateur-demarreur, calculateur-moteur-capteurs, pompes-voiture-thermique]
+sources:
+  - title: "Moteur à combustion et explosion"
+    url: "https://fr.wikipedia.org/wiki/Moteur_%C3%A0_combustion_et_explosion"
+    publisher: "Wikipédia"
+  - title: "Moteur Diesel"
+    url: "https://fr.wikipedia.org/wiki/Moteur_Diesel"
+    publisher: "Wikipédia"
+  - title: "Internal combustion engine"
+    url: "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+    publisher: "Wikipedia"
+  - title: "Diesel engine"
+    url: "https://en.wikipedia.org/wiki/Diesel_engine"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment le carburant s'enflamme-t-il dans un moteur diesel ?"
+    options:
+      - "Tout seul, au contact de l'air très chaud parce que très comprimé"
+      - "Grâce à une bougie d'allumage"
+      - "Grâce à une flamme permanente"
+    answer: 1
+    explanation: >
+      Le diesel comprime l'air environ 15 à 20 fois. L'air atteint plus de 500 °C et le gazole
+      injecté s'enflamme spontanément.
+  - question: "Pourquoi une panne de courroie de distribution peut-elle détruire un moteur ?"
+    options:
+      - "Parce qu'elle fait fuir l'huile"
+      - "Parce que les pistons et les soupapes ne sont plus synchronisés et peuvent se heurter"
+      - "Parce qu'elle bloque les freins"
+    answer: 2
+    explanation: >
+      La distribution synchronise l'ouverture des soupapes avec la position des pistons. Sans
+      elle, sur beaucoup de moteurs, un piston vient frapper une soupape ouverte.
+  - question: "Quel système fait le lien entre presque tous les autres dans une voiture moderne ?"
+    options:
+      - "Le klaxon"
+      - "Les essuie-glaces"
+      - "Le calculateur moteur et ses capteurs"
+    answer: 3
+    explanation: >
+      Le calculateur mesure l'air, la température, le régime et les gaz d'échappement, puis
+      pilote l'injection, l'allumage, le turbo et la dépollution.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une voiture thermique transforme l'énergie chimique d'un carburant en mouvement des roues. Le
+moteur est le cœur, mais il ne fonctionne qu'entouré d'une dizaine de systèmes : l'**air** et le
+**carburant** entrent, l'**allumage** ou la compression déclenchent la combustion, la
+**lubrification** et le **refroidissement** protègent le moteur, la **dépollution** nettoie les gaz,
+l'**électricité** et le **calculateur** pilotent l'ensemble, la **transmission** amène la force aux
+roues, et la **liaison au sol** la transmet à la route. Comprendre ces systèmes, c'est comprendre
+pourquoi une petite pièce peut immobiliser toute la voiture.
+
+## Le moteur, cœur du système
+
+Le moteur à quatre temps aspire de l'air, le comprime, brûle le carburant et rejette les gaz.
+Ses pièces principales :
+
+- le **bloc moteur**, qui contient les **cylindres** ;
+- les **pistons**, poussés par la combustion, reliés par des **bielles** au **vilebrequin**, qui
+  transforme le va-et-vient en rotation ;
+- la **culasse**, qui ferme les cylindres et porte les **soupapes** d'admission et d'échappement ;
+- les **arbres à cames**, qui ouvrent les soupapes au bon moment, entraînés par la **distribution**,
+  une courroie ou une chaîne reliée au vilebrequin ;
+- le **volant moteur**, au bout du vilebrequin, qui régularise la rotation.
+
+## Essence ou diesel, deux façons de brûler
+
+| | Essence | Diesel |
+| --- | --- | --- |
+| Allumage | Étincelle d'une bougie | Auto-inflammation de l'air très chaud |
+| Taux de compression | Environ 10 à 13 | Environ 15 à 20 |
+| Pression d'injection | Jusqu'à 350 bars environ en injection directe | 1 600 à plus de 2 500 bars |
+| Régime maximal | Souvent 6 000 à 7 000 tr/min | Souvent 4 500 à 5 000 tr/min |
+| Point fort | Moteur léger, souple, moins cher | Fort couple à bas régime, consommation plus faible |
+| Polluants à traiter | CO, hydrocarbures, NOx | Surtout NOx et particules |
+| Dépollution | Catalyseur trois voies, filtre à particules sur les récents | Catalyseur d'oxydation, FAP, EGR, SCR à l'AdBlue |
+
+Le diesel a un meilleur rendement grâce à sa forte compression, mais il est plus lourd et sa
+dépollution plus complexe et coûteuse.
+
+## Les systèmes autour du moteur
+
+1. **Admission d'air** : filtre à air, débitmètre, turbocompresseur, échangeur intercooler,
+   papillon et collecteur.
+2. **Alimentation en carburant** : réservoir, pompe de gavage, filtre, pompe haute pression,
+   rampe et injecteurs.
+3. **Allumage** : bobines et bougies sur l'essence ; sur le diesel, bougies de préchauffage pour
+   les démarrages à froid.
+4. **Lubrification** : la pompe à huile fait circuler l'huile sous pression dans tout le moteur.
+5. **Refroidissement** : la pompe à eau, le thermostat, le radiateur et le ventilateur maintiennent
+   le moteur autour de 90 °C.
+6. **Échappement et dépollution** : collecteur, turbine du turbo, catalyseur, filtre à particules,
+   vanne EGR, système SCR, silencieux.
+7. **Électricité** : batterie, démarreur, alternateur, fusibles et faisceaux.
+8. **Pilotage** : le calculateur moteur et des dizaines de capteurs.
+
+[Emplacement image : schéma d'ensemble d'une voiture thermique montrant les flux d'air, de carburant, d'huile, de liquide de refroidissement, de gaz d'échappement, d'électricité et de couple, légende et texte alternatif à fournir ultérieurement.]
+
+## De la force du moteur aux roues
+
+- **L'embrayage** et le **volant moteur** relient ou séparent le moteur et la boîte.
+- **La boîte de vitesses**, manuelle ou automatique, adapte la vitesse et la force.
+- **Le différentiel** permet aux roues de tourner à des vitesses différentes dans les virages.
+- **Les transmissions**, ou cardans, amènent la rotation aux roues.
+- Sur un 4x4, une **boîte de transfert** répartit la force entre l'avant et l'arrière.
+
+## La liaison au sol
+
+La **suspension**, avec ressorts, amortisseurs, triangles, rotules et silentblocs, garde les roues
+en contact avec la route. La **direction**, avec sa crémaillère et ses biellettes, oriente les
+roues. Les **freins** et les **pneus** complètent la chaîne : toute la puissance du moteur ne sert à
+rien si les pneus ne l'appliquent pas à la route.
+
+## Tout dépend de tout
+
+Les systèmes s'enchaînent, et une panne en provoque souvent d'autres :
+
+- un **filtre à air bouché** prive le moteur d'air : puissance en baisse, fumée, encrassement ;
+- une **pompe à eau défaillante** fait surchauffer le moteur, ce qui peut déformer la culasse ;
+- une **fuite d'huile ou un niveau trop bas** abîme les coussinets, le turbo et l'arbre à cames ;
+- une **vanne EGR encrassée** ou un **FAP bouché** fait passer le moteur en mode dégradé ;
+- une **batterie faible** perturbe le démarreur, puis les calculateurs ;
+- une **courroie de distribution cassée** peut faire se heurter pistons et soupapes ;
+- des **rotules usées** dégradent la tenue de route et usent les pneus.
+
+D'où l'importance de l'entretien régulier : vidanges, filtres, courroies, liquides et contrôles.
+
+## À retenir
+
+- Une voiture thermique combine une dizaine de systèmes autour du moteur, tous interdépendants.
+- L'essence s'allume par une étincelle, le diesel par la chaleur de l'air fortement comprimé.
+- Le diesel consomme moins et offre plus de couple, mais sa dépollution est plus complexe.
+- Embrayage, boîte, différentiel et transmissions amènent la force du moteur aux roues.
+- Le calculateur et ses capteurs pilotent l'ensemble ; l'entretien évite les pannes en cascade.
+
+---
+type: article
+title: L'alimentation en carburant et l'injection
+slug: alimentation-carburant-injection
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Du réservoir aux cylindres, le carburant passe par une pompe, un filtre, parfois une pompe à
+  très haute pression, puis des injecteurs qui le pulvérisent au millième de seconde près. Le
+  diesel à rampe commune injecte à plus de 2 000 bars.
+tags: [thermique]
+relatedArticles: [voiture-thermique-chaine-complete, calculateur-moteur-capteurs, pompes-voiture-thermique, comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage]
+sources:
+  - title: "Injection (moteur)"
+    url: "https://fr.wikipedia.org/wiki/Injection_(moteur)"
+    publisher: "Wikipédia"
+  - title: "Common rail"
+    url: "https://en.wikipedia.org/wiki/Common_rail"
+    publisher: "Wikipedia"
+  - title: "Gasoline direct injection"
+    url: "https://en.wikipedia.org/wiki/Gasoline_direct_injection"
+    publisher: "Wikipedia"
+  - title: "Fuel injection"
+    url: "https://en.wikipedia.org/wiki/Fuel_injection"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle pression peut atteindre l'injection d'un diesel moderne à rampe commune ?"
+    options:
+      - "Plus de 2 000 bars"
+      - "3 bars"
+      - "50 bars"
+    answer: 1
+    explanation: >
+      Une pression très élevée pulvérise le gazole en gouttelettes minuscules, qui brûlent mieux
+      et produisent moins de particules.
+  - question: "Pourquoi est-il grave de mettre de l'essence dans un diesel ?"
+    options:
+      - "Parce que l'essence est plus chère"
+      - "Parce que la pompe haute pression est lubrifiée par le gazole et peut être détruite"
+      - "Parce que la voiture ira trop vite"
+    answer: 2
+    explanation: >
+      L'essence ne lubrifie pas. La pompe et les injecteurs s'abîment, et des copeaux métalliques
+      peuvent contaminer tout le circuit. Il ne faut pas démarrer le moteur.
+  - question: "Pourquoi le filtre à gazole possède-t-il souvent une purge ?"
+    options:
+      - "Pour ajouter de l'huile"
+      - "Pour gonfler les pneus"
+      - "Pour évacuer l'eau qui se sépare du carburant"
+    answer: 3
+    explanation: >
+      Le gazole peut contenir un peu d'eau, qui abîme les injecteurs. Le filtre la retient au
+      fond, et on la purge lors de l'entretien.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Pour brûler correctement, le carburant doit arriver dans le cylindre en quantité exacte, au bon
+moment et en gouttelettes très fines. C'est le rôle du circuit d'alimentation : une **pompe**
+puise le carburant dans le réservoir, un **filtre** le nettoie, une **pompe haute pression** le
+comprime sur les moteurs à injection directe, et des **injecteurs** commandés par le calculateur
+le pulvérisent. Sur un diesel moderne, la pression dépasse 2 000 bars, soit deux tonnes sur
+chaque centimètre carré.
+
+## Du réservoir au moteur
+
+1. **Le réservoir**, en plastique ou en acier, avec une jauge.
+2. **La pompe de gavage**, électrique, souvent plongée dans le réservoir. Elle envoie le carburant
+   vers le moteur sous quelques bars.
+3. **Le filtre à carburant** retient les impuretés. Sur un diesel, il sépare aussi l'eau, qui se
+   dépose au fond et doit être purgée. Il se change à intervalles réguliers.
+4. **La pompe haute pression**, entraînée par le moteur, sur les moteurs à injection directe.
+5. **La rampe**, un tube épais qui garde le carburant sous pression.
+6. **Les injecteurs**, un par cylindre, qui s'ouvrent pendant quelques millièmes de seconde.
+
+## L'injection essence
+
+- **L'injection indirecte** pulvérise l'essence dans le conduit d'admission, juste avant la
+  soupape, à 3 à 5 bars environ. Le mélange air-essence entre ensuite dans le cylindre.
+- **L'injection directe** pulvérise l'essence dans le cylindre lui-même, à 200 à 350 bars. Elle
+  refroidit la chambre, permet une compression plus forte et réduit la consommation. En revanche,
+  elle produit plus de particules fines, et les soupapes d'admission, que l'essence ne lave plus,
+  peuvent s'encrasser de calamine.
+
+Le calculateur dose l'essence pour obtenir un mélange proche de **14,7 grammes d'air pour 1 gramme
+d'essence**, la proportion idéale pour que le catalyseur fonctionne, grâce aux sondes lambda.
+
+## L'injection diesel à rampe commune
+
+Sur les anciens diesels, une pompe mécanique distribuait le gazole à chaque injecteur. Depuis la
+fin des années 1990, le système à **rampe commune**, ou *common rail*, s'est imposé : une pompe
+maintient le gazole à très haute pression, 1 600 à plus de 2 500 bars, dans une rampe commune à
+tous les cylindres, et des injecteurs électromagnétiques ou piézoélectriques l'injectent.
+
+Cette commande électronique permet **plusieurs injections par cycle** :
+
+- une **pré-injection**, qui adoucit la combustion et réduit le bruit typique du diesel ;
+- l'**injection principale**, qui produit la puissance ;
+- des **post-injections**, qui servent notamment à chauffer le filtre à particules pour le
+  régénérer.
+
+[Emplacement image : circuit d'injection diesel à rampe commune, du réservoir aux injecteurs, avec les pressions à chaque étape, légende et texte alternatif à fournir ultérieurement.]
+
+## Les pannes typiques
+
+- **Un filtre colmaté** : à-coups, perte de puissance, démarrage difficile.
+- **Un injecteur qui fuit ou s'encrasse** : ralenti instable, fumée, odeur, cliquetis.
+- **De l'eau dans le gazole** : usure accélérée des injecteurs et de la pompe.
+- **Une erreur de carburant** : l'essence dans un diesel prive la pompe haute pression de sa
+  lubrification et peut la détruire. Si l'erreur est faite, il ne faut **pas démarrer** le moteur et
+  faire vidanger le réservoir.
+- **Une panne sèche** sur un diesel : il faut parfois réamorcer le circuit pour chasser l'air.
+
+## À retenir
+
+- Le carburant passe par une pompe de gavage, un filtre, parfois une pompe haute pression, une rampe et des injecteurs.
+- L'injection directe essence pulvérise l'essence dans le cylindre à 200 à 350 bars.
+- Le diesel à rampe commune injecte le gazole à plus de 2 000 bars, en plusieurs fois par cycle.
+- Le filtre à gazole sépare l'eau, qu'il faut purger.
+- Mettre de l'essence dans un diesel peut détruire la pompe : ne pas démarrer.
+
+---
+type: article
+title: La vanne EGR, recycler les gaz d'échappement
+slug: vanne-egr-recirculation-gaz-echappement
+categoryPath: automobile/motorisations/thermique
+summary: >
+  La vanne EGR renvoie une partie des gaz d'échappement dans l'admission. Cela refroidit la
+  combustion et réduit fortement les oxydes d'azote. Mais ces gaz chargés de suie l'encrassent,
+  surtout sur les diesels qui roulent peu.
+tags: [thermique]
+relatedArticles: [voiture-thermique-chaine-complete, le-systeme-de-depollution-des-moteurs-diesel-adblue, intercooler-circuit-admission, filtre-particules-catalyseur]
+sources:
+  - title: "Recirculation des gaz d'échappement"
+    url: "https://fr.wikipedia.org/wiki/Recirculation_des_gaz_d%27%C3%A9chappement"
+    publisher: "Wikipédia"
+  - title: "Exhaust gas recirculation"
+    url: "https://en.wikipedia.org/wiki/Exhaust_gas_recirculation"
+    publisher: "Wikipedia"
+  - title: "NOx"
+    url: "https://en.wikipedia.org/wiki/NOx"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi réinjecte-t-on des gaz d'échappement dans le moteur ?"
+    options:
+      - "Pour baisser la température de combustion et réduire les oxydes d'azote"
+      - "Pour augmenter la puissance"
+      - "Pour économiser de l'huile"
+    answer: 1
+    explanation: >
+      Les gaz brûlés ne brûlent plus. Mélangés à l'air frais, ils ralentissent la combustion et
+      abaissent sa température, ce qui limite la formation des NOx.
+  - question: "Pourquoi une vanne EGR s'encrasse-t-elle ?"
+    options:
+      - "À cause de l'eau de pluie"
+      - "Parce que la suie des gaz d'échappement se mélange aux vapeurs d'huile et forme de la calamine"
+      - "À cause du liquide de frein"
+    answer: 2
+    explanation: >
+      Ce dépôt dur s'accumule surtout lors des trajets courts, à bas régime, quand le moteur ne
+      chauffe pas assez.
+  - question: "Supprimer ou neutraliser la vanne EGR en France est-il autorisé ?"
+    options:
+      - "Oui, c'est recommandé"
+      - "Oui, si on le dit au garage"
+      - "Non, modifier un dispositif antipollution est interdit"
+    answer: 3
+    explanation: >
+      La voiture ne respecte plus la norme pour laquelle elle a été homologuée. Le contrôle
+      technique peut le relever et l'assurance peut en tenir compte.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+À très haute température, l'azote et l'oxygène de l'air se combinent en **oxydes d'azote**, les
+NOx, des polluants qui irritent les poumons et contribuent au smog. Pour en produire moins, on
+refroidit la combustion. La **vanne EGR**, pour *exhaust gas recirculation*, renvoie une partie des
+gaz d'échappement, déjà brûlés et pauvres en oxygène, dans l'air d'admission. Le moteur brûle alors
+un peu moins vite et moins chaud. Utilisée sur presque tous les diesels et sur de nombreux moteurs à
+essence, elle a un défaut : elle s'encrasse.
+
+## Comment ça marche
+
+Un conduit relie l'échappement à l'admission. Sur ce conduit, une **vanne** commandée par le
+calculateur s'ouvre plus ou moins selon le régime et la charge :
+
+- au **ralenti et à charge modérée**, elle s'ouvre largement : jusqu'à environ un tiers des gaz
+  admis peuvent être des gaz recyclés sur un diesel ;
+- en **forte accélération**, elle se ferme, car le moteur a besoin de tout l'oxygène de l'air pour
+  donner sa puissance.
+
+Sur les diesels, un **refroidisseur EGR**, parcouru par le liquide de refroidissement, abaisse la
+température des gaz recyclés pour renforcer l'effet.
+
+On distingue l'**EGR haute pression**, qui prélève les gaz avant le turbo, et l'**EGR basse
+pression**, qui les prélève après le filtre à particules, donc propres, et les réinjecte avant le
+compresseur du turbo. Certains moteurs combinent les deux.
+
+[Emplacement image : circuit EGR d'un diesel, de l'échappement à l'admission, avec la vanne et le refroidisseur, légende et texte alternatif à fournir ultérieurement.]
+
+## Pourquoi elle s'encrasse
+
+Les gaz d'échappement d'un diesel contiennent de la **suie**. En se mélangeant aux vapeurs d'huile
+venues du moteur, elle forme une pâte qui durcit en **calamine**. Ce dépôt colle la vanne, ouverte
+ou fermée, et rétrécit les conduits d'admission. Le phénomène est accentué par :
+
+- les **trajets courts**, où le moteur reste froid ;
+- la conduite permanente à **très bas régime** ;
+- un moteur qui consomme un peu d'huile.
+
+## Les symptômes
+
+- Perte de puissance, accélérations molles, à-coups.
+- Fumée noire à l'accélération.
+- Voyant moteur allumé et passage en **mode dégradé**, où le calculateur limite la puissance pour
+  protéger le moteur.
+- Hausse de la consommation, et parfois ralenti instable.
+
+## Les solutions
+
+- **Nettoyer** la vanne et les conduits, ou faire un décalaminage.
+- **Remplacer** la vanne si elle est grippée ou si son moteur électrique est défaillant.
+- **Prévenir** : rouler régulièrement à régime soutenu sur voie rapide, faire les vidanges à temps,
+  utiliser l'huile préconisée.
+
+La **suppression** de la vanne, ou sa neutralisation électronique, est interdite en France :
+modifier un dispositif antipollution rend la voiture non conforme à son homologation. Cela peut être
+relevé au contrôle technique, engager la responsabilité du propriétaire, et la voiture rejette alors
+beaucoup plus de NOx.
+
+## À retenir
+
+- Les oxydes d'azote se forment surtout quand la combustion est très chaude.
+- La vanne EGR renvoie des gaz d'échappement dans l'admission pour refroidir la combustion.
+- Elle s'ouvre surtout au ralenti et à charge modérée, et se ferme en forte accélération.
+- La suie et l'huile forment de la calamine qui l'encrasse, surtout lors des trajets courts.
+- Supprimer ou neutraliser la vanne EGR est interdit en France.
+
+---
+type: article
+title: L'admission d'air, du filtre à l'intercooler
+slug: intercooler-circuit-admission
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Un moteur brûle d'autant plus de carburant qu'il reçoit d'air. Filtre, débitmètre, turbo,
+  intercooler, papillon et collecteur préparent cet air : propre, mesuré, comprimé puis refroidi.
+  Une simple durite percée suffit à faire chuter la puissance.
+tags: [thermique]
+relatedArticles: [voiture-thermique-chaine-complete, comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant, distribution-variable-turbocompresseur, vanne-egr-recirculation-gaz-echappement, calculateur-moteur-capteurs]
+sources:
+  - title: "Échangeur air-air"
+    url: "https://fr.wikipedia.org/wiki/%C3%89changeur_air-air"
+    publisher: "Wikipédia"
+  - title: "Intercooler"
+    url: "https://en.wikipedia.org/wiki/Intercooler"
+    publisher: "Wikipedia"
+  - title: "Mass flow sensor"
+    url: "https://en.wikipedia.org/wiki/Mass_flow_sensor"
+    publisher: "Wikipedia"
+  - title: "Turbocompresseur"
+    url: "https://fr.wikipedia.org/wiki/Turbocompresseur"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi refroidit-on l'air à la sortie du turbo ?"
+    options:
+      - "Parce que l'air froid est plus dense : on fait entrer plus d'oxygène dans le cylindre"
+      - "Pour protéger les passagers"
+      - "Pour que le moteur fasse moins de bruit"
+    answer: 1
+    explanation: >
+      En comprimant l'air, le turbo le chauffe. L'intercooler le refroidit, ce qui augmente sa
+      densité et limite les risques de cliquetis.
+  - question: "À quoi sert le débitmètre d'air ?"
+    options:
+      - "À mesurer la vitesse de la voiture"
+      - "À mesurer la quantité d'air qui entre, pour doser le carburant"
+      - "À gonfler les pneus"
+    answer: 2
+    explanation: >
+      Le calculateur a besoin de savoir combien d'air entre pour injecter la bonne quantité de
+      carburant.
+  - question: "Que révèle souvent de l'huile dans les durites et l'intercooler ?"
+    options:
+      - "Un excès de liquide de refroidissement"
+      - "Une vidange trop récente"
+      - "Une usure du turbo ou un reniflard encrassé"
+    answer: 3
+    explanation: >
+      Un peu de vapeur d'huile est normal, mais une quantité importante indique souvent des
+      joints de turbo usés ou un problème de recyclage des vapeurs du carter.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Un moteur est une pompe à air : plus il aspire d'air, plus il peut brûler de carburant et donner de
+puissance. Le circuit d'admission prépare cet air. Le **filtre** le débarrasse des poussières, le
+**débitmètre** le mesure, le **turbocompresseur** le comprime, l'**intercooler** le refroidit, le
+**papillon** dose son entrée sur les moteurs à essence, et le **collecteur** le répartit entre les
+cylindres. Une fuite, un filtre bouché ou un capteur défaillant, et le moteur perd de la puissance.
+
+## Le parcours de l'air
+
+1. **La prise d'air**, souvent derrière la calandre, va chercher de l'air frais.
+2. **Le filtre à air**, en papier plissé, arrête les poussières qui useraient les cylindres comme du
+   papier de verre. Il se change en général tous les 20 000 à 40 000 km, plus souvent sur les routes
+   poussiéreuses.
+3. **Le débitmètre**, ou un capteur de pression, mesure l'air qui entre. Le calculateur en déduit
+   la quantité de carburant à injecter.
+4. **Le compresseur du turbo** comprime l'air, souvent jusqu'à une à deux fois la pression
+   atmosphérique en plus.
+5. **L'intercooler** refroidit l'air comprimé.
+6. **Le papillon**, sur les moteurs essence, est un volet commandé par la pédale d'accélérateur via
+   le calculateur. Les diesels en ont aussi un, mais surtout pour couper l'air à l'arrêt et aider
+   l'EGR.
+7. **Le collecteur d'admission** répartit l'air entre les cylindres, où il entre par les soupapes.
+
+[Emplacement image : parcours de l'air dans le moteur, de la prise d'air aux cylindres en passant par le filtre, le débitmètre, le turbo, l'intercooler et le papillon, légende et texte alternatif à fournir ultérieurement.]
+
+## Pourquoi un intercooler
+
+Comprimer un gaz le chauffe : c'est ce qu'on sent au bout d'une pompe à vélo. À la sortie du turbo,
+l'air peut dépasser 100 à 150 °C. Or l'air chaud est moins dense : à volume égal, il contient moins
+d'oxygène. Il favorise aussi le cliquetis sur les moteurs à essence et la formation d'oxydes d'azote.
+
+L'**intercooler**, ou échangeur air-air, est un radiateur placé devant le radiateur moteur ou sous
+le pare-chocs. L'air comprimé le traverse dans des tubes refroidis par l'air extérieur. Certains
+moteurs utilisent un échangeur **air-eau**, plus compact, refroidi par un circuit de liquide
+dédié. En abaissant la température de plusieurs dizaines de degrés, l'intercooler fait entrer plus
+d'oxygène dans chaque cylindre.
+
+## Les durites et les fuites
+
+Entre ces éléments, l'air circule dans des **durites**, tubes en caoutchouc ou en plastique serrés
+par des colliers. Sous pression et soumises à la chaleur, elles finissent par se fissurer ou se
+déboîter. Une fuite d'air comprimé provoque :
+
+- un **sifflement** à l'accélération ;
+- une **perte de puissance**, parfois brutale ;
+- de la **fumée noire** sur un diesel, car le carburant ne trouve plus assez d'air ;
+- un **mode dégradé** et un voyant moteur.
+
+Un peu de vapeur d'huile dans les durites est normal, car les vapeurs du carter moteur sont
+recyclées dans l'admission. Une quantité importante peut signaler des **joints de turbo usés**.
+
+## Entretenir
+
+- Changer le filtre à air aux intervalles prévus.
+- Faire vérifier durites et colliers en cas de sifflement ou de perte de puissance.
+- Ne pas nettoyer un débitmètre avec n'importe quel produit : son fil chauffant est très fragile.
+- Laisser tourner un moteur turbo au ralenti quelques dizaines de secondes après un effort intense,
+  pour que l'huile refroidisse le turbo.
+
+## À retenir
+
+- Le moteur brûle d'autant plus de carburant qu'il reçoit d'air.
+- Le filtre nettoie l'air, le débitmètre le mesure, le turbo le comprime.
+- L'intercooler refroidit l'air comprimé pour qu'il soit plus dense.
+- Le papillon dose l'air sur les moteurs essence ; le collecteur le répartit entre les cylindres.
+- Une durite percée provoque sifflement, perte de puissance et fumée noire.
+
+---
+type: article
+title: L'embrayage et le volant moteur bimasse
+slug: embrayage-volant-moteur-bimasse
+categoryPath: automobile/motorisations/thermique
+summary: >
+  L'embrayage relie le moteur à la boîte de vitesses ou l'en sépare, pour démarrer et changer de
+  vitesse. Le volant bimasse, placé juste avant, absorbe les à-coups du moteur. Ces deux pièces
+  s'usent et se remplacent souvent ensemble.
+tags: [thermique]
+relatedArticles: [fonctionnement-boite-de-vitesses, la-transmission-manuelle-contre-automatique, voiture-thermique-chaine-complete]
+sources:
+  - title: "Embrayage"
+    url: "https://fr.wikipedia.org/wiki/Embrayage"
+    publisher: "Wikipédia"
+  - title: "Dual-mass flywheel"
+    url: "https://en.wikipedia.org/wiki/Dual-mass_flywheel"
+    publisher: "Wikipedia"
+  - title: "Clutch"
+    url: "https://en.wikipedia.org/wiki/Clutch"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il quand on appuie sur la pédale d'embrayage ?"
+    options:
+      - "Le disque est libéré et le moteur ne transmet plus sa rotation à la boîte"
+      - "Le moteur s'arrête"
+      - "La voiture freine"
+    answer: 1
+    explanation: >
+      La pédale écarte le plateau de pression : le disque n'est plus serré contre le volant et
+      le moteur tourne librement.
+  - question: "À quoi sert un volant moteur bimasse ?"
+    options:
+      - "À rendre le moteur plus puissant"
+      - "À absorber les à-coups de rotation du moteur avant qu'ils n'atteignent la boîte"
+      - "À démarrer la voiture"
+    answer: 2
+    explanation: >
+      Ses deux masses reliées par des ressorts filtrent les vibrations, surtout sur les diesels
+      à fort couple à bas régime.
+  - question: "Quel geste use inutilement l'embrayage ?"
+    options:
+      - "Passer les vitesses calmement"
+      - "Mettre au point mort aux feux rouges"
+      - "Garder le pied posé sur la pédale ou faire patiner pour tenir la voiture en côte"
+    answer: 3
+    explanation: >
+      Le patinage frotte le disque contre le volant et l'use. En côte, on utilise le frein à main
+      ou l'aide au démarrage.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Le moteur tourne en permanence, même à l'arrêt. Pour démarrer, s'arrêter ou changer de vitesse, il
+faut pouvoir le séparer des roues puis le reconnecter en douceur. C'est le rôle de l'**embrayage**,
+placé entre le moteur et la boîte de vitesses manuelle. Juste avant lui, le **volant moteur**,
+souvent **bimasse** sur les voitures récentes, régularise la rotation et filtre les à-coups. Ces
+pièces s'usent par frottement et se remplacent ensemble, souvent au-delà de 150 000 km.
+
+## Les pièces de l'embrayage
+
+- **Le volant moteur**, un disque lourd fixé au vilebrequin.
+- **Le disque d'embrayage**, garni sur ses deux faces d'une matière de friction. Il est relié à
+  l'arbre d'entrée de la boîte.
+- **Le mécanisme**, avec le **plateau de pression** et un grand ressort en forme de cône, le
+  **diaphragme**, qui serre le disque contre le volant.
+- **La butée**, un roulement qui appuie sur le diaphragme quand on enfonce la pédale.
+- **La commande** : câble, ou plus souvent circuit hydraulique avec un **émetteur** sous la pédale
+  et un **récepteur** près de la boîte, qui partage parfois le liquide de frein.
+
+## Comment ça marche
+
+Pédale relâchée, le diaphragme serre le disque entre le volant et le plateau : tout tourne ensemble,
+le moteur entraîne la boîte. On dit que l'embrayage est **embrayé**.
+
+Pédale enfoncée, la butée pousse le diaphragme, le plateau recule et libère le disque : le moteur
+tourne seul. On peut changer de vitesse ou s'arrêter.
+
+En relâchant progressivement la pédale, le disque **patine** un peu avant d'être serré : c'est ce qui
+permet de démarrer sans à-coup.
+
+[Emplacement image : vue éclatée d'un embrayage avec volant bimasse, disque, plateau de pression, diaphragme et butée, légende et texte alternatif à fournir ultérieurement.]
+
+## Le volant bimasse
+
+Un moteur ne tourne pas parfaitement régulièrement : chaque combustion donne une impulsion. Ces
+à-coups, très marqués sur les diesels à bas régime, font vibrer la boîte et la carrosserie et
+provoquent des grognements. Le **volant bimasse** est coupé en deux masses, l'une côté moteur, l'autre
+côté embrayage, reliées par de grands **ressorts** et un amortisseur. Les ressorts absorbent les
+à-coups avant qu'ils n'atteignent la transmission.
+
+Il apporte du confort et protège la boîte, mais il est cher et s'use : ses ressorts se fatiguent,
+surtout si l'on roule souvent à très bas régime en forçant.
+
+## Les signes d'usure
+
+- **Patinage** : le moteur monte dans les tours sans que la voiture accélère, surtout en côte ou sur
+  les rapports élevés.
+- **Point de patinage très haut** : la voiture n'avance qu'en relâchant presque entièrement la pédale.
+- **Vibrations** au démarrage, **claquements** au ralenti ou à l'arrêt du moteur : souvent le volant
+  bimasse.
+- **Bruit de roulement** quand on appuie sur la pédale : la butée.
+- **Pédale molle** ou qui reste enfoncée : fuite dans la commande hydraulique.
+
+## Prolonger sa durée de vie
+
+- Ne pas laisser le pied posé sur la pédale en roulant.
+- Ne pas faire patiner pour tenir la voiture en côte : utiliser le frein à main ou l'aide au
+  démarrage.
+- Démarrer en première, sans faire hurler le moteur.
+- Éviter de rouler à très bas régime en forçant, ce qui fatigue le volant bimasse.
+- Au point mort aux longs arrêts plutôt que pédale enfoncée.
+
+Le remplacement se fait en général en **kit** : disque, mécanisme et butée, et souvent le volant
+bimasse. Il faut déposer la boîte : la main-d'œuvre représente une bonne partie du coût.
+
+## À retenir
+
+- L'embrayage relie le moteur à la boîte de vitesses ou l'en sépare.
+- Le diaphragme serre le disque contre le volant ; la pédale le libère par la butée.
+- Le volant bimasse absorbe les à-coups du moteur grâce à des ressorts entre deux masses.
+- Patinage, point haut, vibrations et claquements signalent une usure.
+- On remplace en général disque, mécanisme, butée et souvent volant bimasse ensemble.
+
+---
+type: article
+title: La boîte de transfert et les 4x4
+slug: boite-de-transfert-4x4
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Sur un 4x4, la boîte de transfert partage la force du moteur entre l'essieu avant et l'essieu
+  arrière. Elle offre souvent une gamme courte pour franchir les terrains difficiles. Son
+  fonctionnement explique pourquoi certains 4x4 ne doivent pas rouler en quatre roues motrices sur
+  route sèche.
+tags: [thermique]
+relatedArticles: [transmission-integrale-differentiel, la-transmission-manuelle-contre-automatique, voiture-thermique-chaine-complete, train-roulant-rotules-silentblocs]
+sources:
+  - title: "Transfer case"
+    url: "https://en.wikipedia.org/wiki/Transfer_case"
+    publisher: "Wikipedia"
+  - title: "Transmission intégrale"
+    url: "https://fr.wikipedia.org/wiki/Transmission_int%C3%A9grale"
+    publisher: "Wikipédia"
+  - title: "Four-wheel drive"
+    url: "https://en.wikipedia.org/wiki/Four-wheel_drive"
+    publisher: "Wikipedia"
+  - title: "Différentiel (mécanique)"
+    url: "https://fr.wikipedia.org/wiki/Diff%C3%A9rentiel_(m%C3%A9canique)"
+    publisher: "Wikipédia"
+quiz:
+  - question: "À quoi sert la gamme courte d'une boîte de transfert ?"
+    options:
+      - "À démultiplier fortement pour avancer très lentement avec beaucoup de force"
+      - "À rouler plus vite sur autoroute"
+      - "À économiser du carburant"
+    answer: 1
+    explanation: >
+      La gamme courte divise la vitesse et multiplie la force par deux à trois environ, pour
+      franchir des pentes raides ou des obstacles.
+  - question: "Pourquoi ne faut-il pas rouler en 4x4 enclenché sur route sèche avec un 4x4 non permanent ?"
+    options:
+      - "Parce que c'est illégal"
+      - "Parce que l'avant et l'arrière, liés rigidement, ne peuvent pas tourner à des vitesses différentes dans les virages"
+      - "Parce que le moteur cale"
+    answer: 2
+    explanation: >
+      Dans un virage, les roues avant parcourent plus de chemin que les roues arrière. Sans
+      différentiel central, la transmission se tend et s'abîme.
+  - question: "Comment fonctionne une transmission intégrale « à la demande » moderne ?"
+    options:
+      - "Le conducteur tire un levier"
+      - "Les quatre roues sont toujours bloquées ensemble"
+      - "Un embrayage piloté envoie de la force à l'autre essieu quand les roues principales patinent"
+    answer: 3
+    explanation: >
+      En temps normal, seul un essieu est moteur. Un embrayage multidisque commandé
+      électroniquement transfère du couple quand c'est utile.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Sur une voiture à deux roues motrices, la boîte de vitesses envoie la force à un seul essieu. Sur un
+**4x4**, une **boîte de transfert**, placée derrière la boîte de vitesses, la partage entre l'essieu
+avant et l'essieu arrière par deux **arbres de transmission**. Sur les vrais tout-terrains, elle
+propose aussi une **gamme courte** qui démultiplie fortement le moteur. Selon sa conception, la
+transmission intégrale est **enclenchable**, **permanente** ou **à la demande**.
+
+## Le chemin de la force sur un 4x4
+
+1. Le moteur entraîne la boîte de vitesses.
+2. La boîte de transfert reçoit la rotation et la divise vers l'avant et l'arrière.
+3. Deux arbres de transmission, munis de **cardans**, la conduisent aux **ponts**.
+4. Dans chaque pont, un **différentiel** la répartit entre les roues gauche et droite.
+5. Des transmissions, ou demi-arbres, entraînent les roues.
+
+[Emplacement image : schéma d'un 4x4 montrant boîte de vitesses, boîte de transfert, arbres de transmission, ponts et différentiels, légende et texte alternatif à fournir ultérieurement.]
+
+## Trois familles de 4x4
+
+**Le 4x4 enclenchable**, ou *part-time*. En usage normal, seul l'arrière est moteur. Un levier ou un
+bouton relie rigidement l'avant à l'arrière dans la boîte de transfert. Très efficace sur la boue,
+la neige ou le sable, ce système ne doit **pas** rester enclenché sur route sèche : dans un virage,
+les roues avant parcourent plus de chemin que les roues arrière. Sans possibilité de glisser sur un
+sol adhérent, la transmission se tend, les pneus s'usent et les pièces peuvent casser.
+
+**Le 4x4 permanent**. La boîte de transfert contient un **différentiel central**, qui autorise des
+vitesses différentes entre l'avant et l'arrière. On peut rouler en quatre roues motrices partout.
+Mais si une roue patine dans le vide, un différentiel libre lui envoie toute la force : on ajoute un
+**blocage** du différentiel central, un viscocoupleur ou un différentiel autobloquant de type Torsen.
+
+**La transmission intégrale à la demande**, la plus répandue sur les SUV. En temps normal, seules
+les roues avant entraînent la voiture. Un **embrayage multidisque** piloté par l'électronique, placé
+à l'arrière, transfère une partie du couple quand l'avant patine. Simple et léger, ce système
+convient à la route mouillée ou enneigée, beaucoup moins au vrai tout-terrain.
+
+## La gamme courte
+
+Les tout-terrains ont souvent deux gammes dans leur boîte de transfert :
+
+- la **gamme longue**, pour la route ;
+- la **gamme courte**, qui divise la vitesse et multiplie la force par deux à trois environ.
+
+On l'enclenche à l'arrêt ou à très basse vitesse, pour monter une pente raide, descendre en
+retenant la voiture sur le frein moteur, franchir des rochers ou tracter une charge lourde.
+
+## Les blocages de différentiel
+
+Un différentiel libre envoie la force vers la roue qui résiste le moins. Si une roue est en l'air ou
+sur la glace, la voiture reste immobile. Les **blocages de différentiel**, avant, arrière ou
+central, solidarisent les roues pour qu'elles tournent ensemble. On ne les utilise qu'en terrain
+glissant et en ligne droite autant que possible, et on les désactive sur route.
+
+## Entretien
+
+La boîte de transfert, les ponts et les différentiels ont leur propre **huile**, à contrôler et à
+vidanger selon le carnet d'entretien. Sur une transmission à la demande, l'huile de l'embrayage
+piloté se vidange aussi. Il faut également utiliser quatre pneus identiques et également usés : des
+diamètres différents forcent en permanence le système.
+
+## À retenir
+
+- La boîte de transfert partage la force du moteur entre l'avant et l'arrière.
+- Un 4x4 enclenchable sans différentiel central ne doit pas rouler enclenché sur route sèche.
+- Un 4x4 permanent possède un différentiel central, souvent blocable.
+- La transmission à la demande des SUV utilise un embrayage piloté vers l'essieu secondaire.
+- La gamme courte démultiplie fortement le moteur pour le tout-terrain.
+
+---
+type: article
+title: Le train roulant, triangles, rotules et silentblocs
+slug: train-roulant-rotules-silentblocs
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  Entre la carrosserie et les roues, des bras, des rotules, des biellettes et des blocs de
+  caoutchouc guident chaque roue tout en lui laissant monter, descendre et tourner. Leur usure se
+  repère par des claquements, du jeu et des pneus usés de travers.
+tags: [entretien-et-cycle-de-vie]
+relatedArticles: [suspension-confort-tenue-de-route, direction-assistee-maniabilite, voiture-thermique-chaine-complete, boite-de-transfert-4x4]
+sources:
+  - title: "Rotule (mécanique)"
+    url: "https://fr.wikipedia.org/wiki/Rotule_(m%C3%A9canique)"
+    publisher: "Wikipédia"
+  - title: "Ball joint"
+    url: "https://en.wikipedia.org/wiki/Ball_joint"
+    publisher: "Wikipedia"
+  - title: "Bushing (isolator)"
+    url: "https://en.wikipedia.org/wiki/Bushing_(isolator)"
+    publisher: "Wikipedia"
+  - title: "Wheel alignment"
+    url: "https://en.wikipedia.org/wiki/Wheel_alignment"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quel est le rôle d'une rotule de suspension ?"
+    options:
+      - "Relier le bras de suspension au porte-roue en lui permettant de pivoter dans tous les sens"
+      - "Amortir les vibrations du moteur"
+      - "Gonfler les pneus"
+    answer: 1
+    explanation: >
+      La rotule est une articulation à boule. Elle laisse la roue monter, descendre et tourner
+      tout en la maintenant fermement.
+  - question: "Que sont les silentblocs ?"
+    options:
+      - "Des freins silencieux"
+      - "Des blocs de caoutchouc qui articulent les pièces en filtrant bruits et vibrations"
+      - "Des pneus spéciaux"
+    answer: 2
+    explanation: >
+      Le caoutchouc permet de petits mouvements et isole la carrosserie. En vieillissant, il se
+      fendille et laisse du jeu.
+  - question: "Quel signe peut indiquer un parallélisme déréglé ?"
+    options:
+      - "Le moteur chauffe"
+      - "Les phares éclairent moins"
+      - "Les pneus s'usent plus d'un côté et la voiture tire d'un côté"
+    answer: 3
+    explanation: >
+      Après un choc contre un trottoir ou le remplacement de pièces de direction, la géométrie
+      doit être contrôlée et réglée.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Le **train roulant** regroupe tout ce qui relie les roues à la carrosserie : bras de suspension,
+rotules, biellettes, silentblocs, roulements, ressorts et amortisseurs. Il doit à la fois **guider**
+chaque roue avec précision et lui **laisser** la liberté de monter, de descendre et de tourner. Ses
+articulations travaillent à chaque bosse et chaque virage ; elles finissent par prendre du jeu. Une
+pièce usée dégrade la tenue de route, le freinage et la durée de vie des pneus.
+
+## Les pièces principales
+
+- **Le berceau**, ou traverse, est un cadre vissé sous la carrosserie, sur lequel s'articulent les
+  éléments de l'essieu avant.
+- **Les triangles** ou **bras de suspension** relient le berceau au **porte-roue**, la pièce qui porte
+  le moyeu et le frein.
+- **La rotule de suspension** articule le triangle et le porte-roue : une boule enfermée dans un
+  logement, qui permet les mouvements dans toutes les directions, comme l'épaule humaine.
+- **Les silentblocs** sont des bagues de caoutchouc serties entre deux tubes métalliques. Ils
+  articulent les bras sur le berceau et filtrent bruits et vibrations.
+- **La barre stabilisatrice**, ou antiroulis, relie les suspensions gauche et droite pour limiter
+  le roulis en virage. Elle est attachée par des **biellettes** à rotules.
+- **Les roulements de roue** laissent tourner la roue sur son moyeu.
+- **Les ressorts et les amortisseurs** portent la voiture et freinent les oscillations.
+
+## La direction
+
+La **crémaillère** transforme la rotation du volant en mouvement latéral. De chaque côté, une
+**biellette de direction**, articulée par une **rotule axiale** côté crémaillère, se termine par une
+**rotule de direction** fixée au porte-roue. Un soufflet en caoutchouc protège la crémaillère de la
+poussière et de l'eau.
+
+[Emplacement image : train avant vu de face et de dessus avec berceau, triangle, rotules, silentblocs, biellettes, barre stabilisatrice et crémaillère, légende et texte alternatif à fournir ultérieurement.]
+
+## La géométrie
+
+Les roues ne sont pas parfaitement droites et verticales : elles suivent des réglages précis.
+
+- **Le parallélisme** : vues de dessus, les roues pincent ou s'ouvrent très légèrement.
+- **Le carrossage** : vues de face, elles penchent un peu vers l'intérieur ou l'extérieur.
+- **La chasse** : l'axe de pivot est incliné, ce qui ramène le volant droit en sortie de virage.
+
+Un choc violent contre un trottoir ou le remplacement d'une pièce de direction peut dérégler cette
+géométrie. Un garage la mesure et règle le parallélisme sur un banc.
+
+## Reconnaître l'usure
+
+- **Claquements** sur les bosses ou les dos-d'âne : rotules, biellettes de barre stabilisatrice,
+  silentblocs ou butées d'amortisseurs.
+- **Jeu dans la direction**, volant flou, voiture qui louvoie : rotules de direction ou axiales.
+- **Bourdonnement** qui augmente avec la vitesse : roulement de roue.
+- **Pneus usés sur un bord** : géométrie déréglée ou pièces fatiguées.
+- **Voiture qui tire d'un côté** au freinage ou en ligne droite.
+- **Soufflet déchiré** : la graisse s'échappe et la poussière entre, l'usure s'accélère.
+
+Le **contrôle technique** vérifie le jeu des rotules, l'état des silentblocs et des soufflets. Un jeu
+important dans une rotule de direction ou de suspension est une défaillance grave : si elle se
+déboîte, la roue n'est plus guidée.
+
+## Entretien et réparation
+
+Ces pièces ne se graissent plus sur les voitures modernes : on les **remplace** quand elles ont du
+jeu. On change généralement les pièces **par paire**, à gauche et à droite, pour garder un
+comportement symétrique, puis on fait contrôler la géométrie.
+
+## À retenir
+
+- Le train roulant guide les roues tout en leur laissant monter, descendre et tourner.
+- Les rotules sont des articulations à boule ; les silentblocs, des articulations en caoutchouc.
+- La direction relie la crémaillère aux roues par des biellettes et des rotules.
+- Claquements, jeu, bourdonnement et usure irrégulière des pneus signalent des pièces fatiguées.
+- Après un choc ou un changement de pièces, il faut contrôler la géométrie.
+
+---
+type: article
+title: Batterie, démarreur et alternateur, le circuit électrique d'une voiture
+slug: circuit-electrique-12v-batterie-alternateur-demarreur
+categoryPath: automobile/usages-et-mobilite/entretien-et-cycle-de-vie
+summary: >
+  La batterie fournit le gros courant qui fait tourner le démarreur. Une fois le moteur lancé,
+  l'alternateur prend le relais, alimente toute la voiture et recharge la batterie. Si l'un des
+  trois faiblit, la voiture finit par ne plus démarrer.
+tags: [entretien-et-cycle-de-vie]
+relatedArticles: [voiture-thermique-chaine-complete, calculateur-moteur-capteurs, le-systeme-d-allumage-electronique-moderne, batterie-plomb]
+sources:
+  - title: "Alternateur"
+    url: "https://fr.wikipedia.org/wiki/Alternateur"
+    publisher: "Wikipédia"
+  - title: "Starter (engine)"
+    url: "https://en.wikipedia.org/wiki/Starter_(engine)"
+    publisher: "Wikipedia"
+  - title: "Automotive battery"
+    url: "https://en.wikipedia.org/wiki/Automotive_battery"
+    publisher: "Wikipedia"
+  - title: "CAN bus"
+    url: "https://en.wikipedia.org/wiki/CAN_bus"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui recharge la batterie quand le moteur tourne ?"
+    options:
+      - "L'alternateur, entraîné par une courroie"
+      - "Le démarreur"
+      - "Les phares"
+    answer: 1
+    explanation: >
+      L'alternateur produit du courant dès que le moteur tourne. Il alimente les équipements et
+      recharge la batterie.
+  - question: "Quelle tension mesure-t-on normalement aux bornes de la batterie moteur tournant ?"
+    options:
+      - "Environ 6 volts"
+      - "Environ 13,8 à 14,5 volts"
+      - "Environ 230 volts"
+    answer: 2
+    explanation: >
+      L'alternateur fournit une tension un peu supérieure à celle de la batterie pour la
+      recharger. Moteur arrêté, une batterie chargée affiche environ 12,6 volts.
+  - question: "Pourquoi une voiture équipée du start-stop a-t-elle une batterie spéciale ?"
+    options:
+      - "Pour être plus légère"
+      - "Pour éclairer plus fort"
+      - "Parce qu'elle démarre beaucoup plus souvent et doit supporter de nombreux cycles"
+    answer: 3
+    explanation: >
+      Les batteries AGM ou EFB résistent mieux aux décharges et recharges répétées imposées par
+      les arrêts et redémarrages automatiques.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une voiture thermique a besoin d'électricité pour démarrer, mais aussi pour l'injection, l'allumage,
+les calculateurs, l'éclairage et le confort. Trois éléments forment le cœur du circuit : la
+**batterie**, réserve d'énergie, le **démarreur**, moteur électrique qui lance le moteur thermique,
+et l'**alternateur**, générateur entraîné par le moteur qui alimente la voiture et recharge la
+batterie. Le tout fonctionne en **12 volts**, protégé par des fusibles et relié par des kilomètres
+de câbles.
+
+## La batterie
+
+C'est en général une batterie **au plomb** de 12 volts, formée de six éléments de 2 volts. Sa mission
+principale est de fournir pendant quelques secondes un très fort courant au démarreur, souvent 100 à
+plus de 300 ampères, plus encore pour un diesel par grand froid.
+
+- Moteur arrêté, une batterie chargée affiche environ **12,6 volts** ; en dessous de 12,2 volts, elle
+  est nettement déchargée.
+- Les voitures à **start-stop** utilisent des batteries **AGM** ou **EFB**, conçues pour supporter
+  de nombreux cycles.
+- Une batterie dure souvent **quatre à six ans**. La chaleur l'use, le froid réduit sa capacité au
+  moment où le moteur demande le plus de courant.
+
+## Le démarreur
+
+Le démarreur est un petit moteur électrique puissant. Quand on tourne la clé ou qu'on appuie sur le
+bouton, un **solénoïde** fait deux choses : il pousse un petit pignon, le **lanceur**, qui s'engrène
+sur la couronne dentée du volant moteur, et il ferme le circuit de puissance. Le démarreur fait
+tourner le moteur jusqu'à ce que les combustions prennent le relais. Le lanceur se retire alors.
+
+## L'alternateur
+
+L'alternateur est entraîné par la **courroie d'accessoires**. Un électroaimant tourne à l'intérieur
+de bobines fixes et produit un courant alternatif, transformé en courant continu par des diodes. Un
+**régulateur** maintient la tension entre environ **13,8 et 14,5 volts**, juste au-dessus de celle
+de la batterie, pour la recharger sans la surcharger. Sur les voitures récentes, le calculateur
+pilote l'alternateur pour charger surtout au freinage et économiser du carburant.
+
+[Emplacement image : circuit électrique d'une voiture reliant batterie, démarreur, alternateur, boîte à fusibles et calculateurs, légende et texte alternatif à fournir ultérieurement.]
+
+## Fusibles, relais et réseaux
+
+- **Les fusibles** fondent en cas de court-circuit pour protéger les câbles et éviter un incendie.
+- **Les relais** permettent à un petit courant de commander un gros, par exemple pour le ventilateur.
+- **Les calculateurs** communiquent entre eux par des réseaux numériques, comme le **bus CAN**, qui
+  transportent des centaines d'informations : vitesse, régime, état des portes, défauts.
+
+## Diagnostiquer une panne
+
+- **Le démarreur tourne lentement**, ou l'on entend des clics : batterie faible, cosses oxydées ou
+  mal serrées.
+- **Un clic unique et rien** avec une batterie en bon état : démarreur ou solénoïde défaillant.
+- **Voyant batterie allumé en roulant** : l'alternateur ne charge plus, ou sa courroie est cassée. La
+  voiture roulera sur la réserve de la batterie, puis s'arrêtera.
+- **Batterie souvent à plat** après un arrêt de quelques jours : consommation anormale à l'arrêt, ou
+  batterie en fin de vie.
+
+## Démarrer avec des câbles
+
+1. Relier le **plus** de la batterie à plat au **plus** de la batterie de secours, câble rouge.
+2. Relier le **moins** de la batterie de secours à une **masse métallique** du moteur en panne, loin
+   de la batterie, câble noir.
+3. Démarrer la voiture de secours, puis la voiture en panne.
+4. Débrancher dans l'ordre inverse.
+
+Une batterie dégage de l'hydrogène inflammable et contient de l'acide : pas d'étincelle ni de flamme
+à proximité, et des lunettes de protection si possible.
+
+## À retenir
+
+- La batterie 12 volts fournit le fort courant nécessaire au démarreur.
+- Le démarreur lance le moteur grâce à un pignon qui s'engrène sur le volant moteur.
+- L'alternateur, entraîné par une courroie, alimente la voiture et recharge la batterie à environ 14 volts.
+- Fusibles, relais et réseaux numériques protègent et relient les équipements.
+- Un voyant batterie allumé en roulant signale souvent un alternateur ou une courroie défaillants.
+
+---
+type: article
+title: Le calculateur moteur et ses capteurs
+slug: calculateur-moteur-capteurs
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Le calculateur moteur reçoit chaque milliseconde les mesures de dizaines de capteurs : régime,
+  air, températures, oxygène des gaz. Il en déduit la quantité de carburant, le moment de
+  l'allumage, la pression du turbo et la dépollution. Un seul capteur faux peut dérégler le moteur.
+tags: [thermique]
+relatedArticles: [diagnostic-electronique-reparation-automobile, voiture-thermique-chaine-complete, alimentation-carburant-injection, le-systeme-d-allumage-electronique-moderne, intercooler-circuit-admission]
+sources:
+  - title: "Calculateur de gestion moteur"
+    url: "https://fr.wikipedia.org/wiki/Calculateur_de_gestion_moteur"
+    publisher: "Wikipédia"
+  - title: "Engine control unit"
+    url: "https://en.wikipedia.org/wiki/Engine_control_unit"
+    publisher: "Wikipedia"
+  - title: "Oxygen sensor"
+    url: "https://en.wikipedia.org/wiki/Oxygen_sensor"
+    publisher: "Wikipedia"
+  - title: "On-board diagnostics"
+    url: "https://en.wikipedia.org/wiki/On-board_diagnostics"
+    publisher: "Wikipedia"
+quiz:
+  - question: "À quoi sert le capteur de vilebrequin ?"
+    options:
+      - "À connaître le régime et la position exacte des pistons"
+      - "À mesurer le niveau d'huile"
+      - "À détecter la pluie"
+    answer: 1
+    explanation: >
+      Sans lui, le calculateur ne sait pas quand injecter ni quand allumer : le moteur ne démarre
+      pas ou cale.
+  - question: "Que mesure la sonde lambda ?"
+    options:
+      - "La vitesse des roues"
+      - "La quantité d'oxygène restant dans les gaz d'échappement"
+      - "La pression des pneus"
+    answer: 2
+    explanation: >
+      Elle indique si le mélange était trop riche ou trop pauvre. Le calculateur corrige
+      l'injection en permanence.
+  - question: "Que fait le calculateur quand un capteur important tombe en panne ?"
+    options:
+      - "Il arrête la voiture immédiatement dans tous les cas"
+      - "Il augmente la puissance"
+      - "Il passe souvent en mode dégradé et enregistre un code de défaut"
+    answer: 3
+    explanation: >
+      Il utilise des valeurs de secours, limite la puissance pour protéger le moteur et allume
+      le voyant. Le code se lit par la prise de diagnostic.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Un moteur moderne est piloté par un ordinateur, le **calculateur moteur**, souvent appelé ECU. Il
+lit en permanence des dizaines de **capteurs** qui mesurent le régime, l'air aspiré, les
+températures, la pression, l'oxygène des gaz d'échappement. À partir de ces mesures et de tables
+enregistrées, les **cartographies**, il commande les **actionneurs** : injecteurs, bobines, papillon,
+turbo, vanne EGR, dépollution. Il surveille aussi le bon fonctionnement de tout le système et
+enregistre les défauts.
+
+## Les principaux capteurs
+
+| Capteur | Ce qu'il mesure | Sans lui |
+| --- | --- | --- |
+| Capteur de vilebrequin | Régime et position des pistons | Le moteur ne démarre pas ou cale |
+| Capteur d'arbre à cames | Le temps du cycle de chaque cylindre | Démarrage difficile |
+| Débitmètre ou capteur de pression d'admission | La quantité d'air aspirée | Mauvais dosage, fumée, perte de puissance |
+| Sondes de température d'air et d'eau | Les températures | Démarrage à froid difficile, consommation |
+| Capteur de pédale d'accélérateur | La demande du conducteur | Mode dégradé, accélération limitée |
+| Sondes lambda | L'oxygène dans les gaz d'échappement | Mélange mal corrigé, catalyseur abîmé |
+| Capteur de cliquetis | Les combustions anormales | Moteur moins protégé |
+| Capteur de pression de rampe | La pression du carburant | Coupure ou mode dégradé |
+| Capteurs de pression du FAP et de NOx | Le colmatage du filtre, les oxydes d'azote | Régénérations et AdBlue mal gérés |
+
+## Les actionneurs
+
+Le calculateur commande :
+
+- les **injecteurs** : moment et durée d'ouverture, au millième de seconde ;
+- les **bobines** : moment de l'étincelle ;
+- le **papillon motorisé** ;
+- la **pression du turbo**, par une soupape ou des ailettes à géométrie variable ;
+- la **vanne EGR** et l'injection d'**AdBlue** ;
+- le **ventilateur**, la **pompe à carburant**, le **préchauffage**.
+
+[Emplacement image : schéma du calculateur moteur entouré de ses capteurs à gauche et de ses actionneurs à droite, légende et texte alternatif à fournir ultérieurement.]
+
+## Une boucle de mille corrections par seconde
+
+Le calculateur travaille en boucle. Par exemple, sur un moteur à essence :
+
+1. le débitmètre indique la quantité d'air ;
+2. le calculateur en déduit la quantité d'essence à injecter pour un mélange idéal ;
+3. après la combustion, la sonde lambda mesure l'oxygène restant ;
+4. si le mélange était trop pauvre ou trop riche, le calculateur corrige l'injection suivante.
+
+Cette correction permanente permet au catalyseur de fonctionner efficacement et au moteur de
+s'adapter à l'altitude, à la température ou à l'usure.
+
+## Le mode dégradé et le diagnostic
+
+Si un capteur envoie une valeur absurde ou plus rien du tout, le calculateur enregistre un **code de
+défaut**, allume le **voyant moteur** et, si nécessaire, passe en **mode dégradé** : il utilise des
+valeurs de secours et limite la puissance pour protéger le moteur.
+
+Depuis le début des années 2000, les voitures vendues en Europe disposent d'une **prise de
+diagnostic** normalisée, dite OBD, souvent sous le volant. Un appareil de lecture permet d'y lire les
+codes de défaut et les valeurs des capteurs en temps réel. Un code indique où chercher, mais pas
+toujours la pièce fautive : un défaut de sonde lambda peut venir d'une fuite à l'échappement.
+
+## La reprogrammation
+
+Les cartographies peuvent être modifiées pour augmenter la puissance. Cette pratique peut réduire la
+fiabilité du moteur et de la boîte, annuler la garantie et, si elle touche à la dépollution, rendre la
+voiture non conforme et donc illégale sur route.
+
+## À retenir
+
+- Le calculateur moteur lit des dizaines de capteurs et commande injection, allumage, turbo et dépollution.
+- Le capteur de vilebrequin est indispensable : sans lui, le moteur ne tourne pas.
+- La sonde lambda permet de corriger le mélange en permanence.
+- En cas de défaut, le calculateur enregistre un code et peut passer en mode dégradé.
+- La prise OBD permet de lire les défauts et les mesures des capteurs.
+
+---
+type: article
+title: Les pompes d'une voiture thermique
+slug: pompes-voiture-thermique
+categoryPath: automobile/motorisations/thermique
+summary: >
+  Une voiture thermique compte une demi-douzaine de pompes : à carburant, à haute pression, à huile,
+  à eau, de direction, à vide pour les freins, parfois de lave-glace et d'AdBlue. Chacune fait
+  circuler un fluide vital, et sa panne a des conséquences très différentes.
+tags: [thermique]
+relatedArticles: [voiture-thermique-chaine-complete, alimentation-carburant-injection, refroidissement-moteur-thermique, huile-moteur-lubrification, direction-assistee-maniabilite]
+sources:
+  - title: "Water pump"
+    url: "https://en.wikipedia.org/wiki/Water_pump"
+    publisher: "Wikipedia"
+  - title: "Oil pump (internal combustion engine)"
+    url: "https://en.wikipedia.org/wiki/Oil_pump_(internal_combustion_engine)"
+    publisher: "Wikipedia"
+  - title: "Vacuum pump"
+    url: "https://en.wikipedia.org/wiki/Vacuum_pump"
+    publisher: "Wikipedia"
+  - title: "Fuel pump"
+    url: "https://en.wikipedia.org/wiki/Fuel_pump"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que faut-il faire si le voyant de pression d'huile s'allume en roulant ?"
+    options:
+      - "S'arrêter dès que possible et couper le moteur"
+      - "Accélérer pour rentrer plus vite"
+      - "Mettre la radio plus fort"
+    answer: 1
+    explanation: >
+      Sans pression d'huile, les pièces du moteur frottent métal contre métal et peuvent se
+      détruire en quelques minutes.
+  - question: "Pourquoi les moteurs diesel ont-ils souvent une pompe à vide ?"
+    options:
+      - "Pour gonfler les pneus"
+      - "Parce qu'ils ne créent pas assez de dépression pour assister le freinage"
+      - "Pour refroidir le turbo"
+    answer: 2
+    explanation: >
+      L'assistance de freinage utilise une dépression. Un moteur à essence la crée naturellement
+      derrière son papillon ; un diesel a besoin d'une pompe.
+  - question: "Pourquoi remplace-t-on souvent la pompe à eau avec la courroie de distribution ?"
+    options:
+      - "Parce qu'elles ont la même couleur"
+      - "Parce que c'est obligatoire au contrôle technique"
+      - "Parce qu'elle est souvent entraînée par cette courroie et qu'une fuite l'abîmerait"
+    answer: 3
+    explanation: >
+      L'accès demande le même démontage. Changer les deux en même temps évite de refaire tout le
+      travail si la pompe lâche ensuite.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Le moteur d'une voiture a besoin de fluides en mouvement : du carburant pour brûler, de l'huile pour
+glisser, de l'eau pour se refroidir. D'autres systèmes en ont besoin aussi : la direction, les freins,
+la dépollution. Pour les faire circuler, une voiture thermique compte une **demi-douzaine de pompes**.
+Certaines sont entraînées mécaniquement par le moteur, d'autres sont électriques. Savoir ce que fait
+chacune aide à comprendre les voyants et à réagir correctement en cas de panne.
+
+## La pompe à carburant
+
+Une **pompe électrique**, souvent plongée dans le réservoir, envoie le carburant vers le moteur sous
+quelques bars. On l'entend parfois bourdonner une seconde en mettant le contact. Sur les moteurs à
+injection directe et les diesels, une **pompe haute pression**, entraînée par le moteur, porte
+ensuite le carburant à des centaines ou des milliers de bars.
+
+**En panne** : le moteur cale ou ne démarre pas, ou manque de puissance en accélération.
+
+## La pompe à huile
+
+Entraînée par le vilebrequin, elle aspire l'huile au fond du carter, la pousse à travers le filtre et
+l'envoie sous pression vers les paliers du vilebrequin, les bielles, les arbres à cames et le turbo.
+Un film d'huile très fin sépare les pièces métalliques.
+
+**En panne**, ou si le niveau d'huile est trop bas : le **voyant de pression d'huile**, en forme de
+burette, s'allume. Il faut **s'arrêter au plus vite et couper le moteur** : sans pression, le moteur
+peut se détruire en quelques minutes.
+
+## La pompe à eau
+
+Elle fait circuler le liquide de refroidissement entre le moteur et le radiateur. Elle est souvent
+entraînée par la **courroie de distribution** ou la courroie d'accessoires, et de plus en plus
+souvent électrique.
+
+**En panne** : fuite de liquide, bruit de roulement, puis **surchauffe**, avec l'aiguille de
+température qui monte ou un voyant rouge. Rouler en surchauffe peut déformer la culasse et griller
+le joint de culasse. Elle est souvent remplacée en même temps que la courroie de distribution.
+
+[Emplacement image : vue d'un moteur montrant l'emplacement des pompes à carburant, à huile, à eau, à vide et de direction, légende et texte alternatif à fournir ultérieurement.]
+
+## La pompe de direction assistée
+
+Sur les directions hydrauliques, une pompe entraînée par courroie met sous pression l'huile qui aide
+à tourner les roues. Beaucoup de voitures récentes ont une **direction électrique**, sans pompe ni
+huile. **En panne** : volant très dur, sifflement en braquant.
+
+## La pompe à vide
+
+L'**assistance de freinage**, le gros tambour derrière la pédale, utilise une dépression pour
+démultiplier l'effort du pied. Un moteur à essence crée naturellement cette dépression derrière son
+papillon. Un diesel, qui n'en produit presque pas, a une **pompe à vide**, mécanique ou électrique.
+**En panne** : pédale de frein très dure. La voiture freine toujours, mais il faut appuyer beaucoup
+plus fort.
+
+## Les autres pompes
+
+- **La pompe d'AdBlue** sur les diesels récents, qui dose le liquide dans l'échappement.
+- **La pompe de lave-glace**, petite pompe électrique dans le réservoir.
+- **Les pompes de boîte automatique**, qui génèrent la pression hydraulique des embrayages internes.
+- **Les pompes électriques auxiliaires**, qui font circuler l'eau après l'arrêt pour refroidir le
+  turbo, ou alimentent le chauffage quand le start-stop coupe le moteur.
+
+## À retenir
+
+- La pompe à carburant alimente le moteur ; la pompe haute pression prépare l'injection directe.
+- La pompe à huile lubrifie le moteur : voyant d'huile allumé, on s'arrête et on coupe le moteur.
+- La pompe à eau refroidit le moteur ; sa panne provoque une surchauffe.
+- La pompe à vide des diesels assiste le freinage ; en panne, la pédale devient dure.
+- Une direction hydraulique utilise une pompe ; les directions électriques s'en passent.
+

@@ -396,7 +396,7 @@ droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le salaire mini
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le harcèlement au travail;harcelement-travail;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Les syndicats et les élus du personnel;syndicats-elus-personnel;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le télétravail;teletravail;2;non;planned
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le crédit à la consommation;credit-consommation;2;non;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le crédit à la consommation;credit-consommation;2;non;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les clauses abusives;clauses-abusives;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Les litiges avec un vendeur en ligne;litiges-avec-vendeur-ligne;2;non;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le démarchage téléphonique;demarchage-telephonique;2;non;planned
@@ -411,7 +411,7 @@ energie;energie/reseaux-et-stockage/reseaux-electriques;Les grandes pannes élec
 energie;energie/reseaux-et-stockage/reseaux-electriques;La fréquence du réseau, 50 hertz à tenir;frequence-reseau-50-hertz-tenir;2;non;planned
 energie;energie/reseaux-et-stockage/reseaux-electriques;Les interconnexions européennes;interconnexions-europeennes;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le lithium, une ressource stratégique;lithium-ressource-strategique;2;non;planned
-energie;energie/reseaux-et-stockage/batteries;Les batteries sodium-ion;batteries-sodium-ion;2;non;planned
+energie;energie/reseaux-et-stockage/batteries;Les batteries sodium-ion;batteries-sodium-ion;2;non;published
 energie;energie/reseaux-et-stockage/batteries;Le recyclage des batteries;recyclage-batteries;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Pourquoi une batterie s'use;batterie-s-use;2;non;planned
 energie;energie/reseaux-et-stockage/hydrogene;Hydrogène gris, bleu et vert;hydrogene-gris-bleu-vert;2;non;planned
@@ -603,10 +603,10 @@ industries;industries/materiaux-et-procedes/composites-et-polymeres;Les bioplast
 industries;industries/materiaux-et-procedes/composites-et-polymeres;Le nylon et les fibres synthétiques;nylon-fibres-synthetiques;2;non;planned
 industries;industries/materiaux-et-procedes/composites-et-polymeres;Les thermoplastiques et thermodurcissables;thermoplastiques-thermodurcissables;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Comment un transistor, minuscule interrupteur, fait-il fonctionner un ordinateur ?;comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur;2;non;published
-informatique;micro-informatique-et-informatique/materiel/processeurs;La loi de Moore;loi-moore;2;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;Les cartes graphiques;cartes-graphiques;2;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;Comment on fabrique une puce;fabrique-puce;2;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;TSMC et la géopolitique des puces;tsmc-geopolitique-puces;2;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;La loi de Moore;loi-moore;2;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;Les cartes graphiques;cartes-graphiques;2;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;Comment on fabrique une puce;fabrique-puce;2;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;TSMC et la géopolitique des puces;tsmc-geopolitique-puces;2;non;published
 informatique;micro-informatique-et-informatique/materiel/processeurs;Architecture x86 et ARM;architecture-x86-arm;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;Le disque dur;disque-dur;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/memoire-et-stockage;La mémoire flash et les SSD;memoire-flash-ssd;2;non;planned
@@ -824,7 +824,7 @@ sciences-humaines;sciences-humaines-et-sociales/economie/inegalites-et-redistrib
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Le langage;langage;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Prendre une décision;prendre-decision;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;L'intelligence et le QI;intelligence-qi;2;non;planned
-sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Apprendre efficacement;apprendre-efficacement;2;non;planned
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Apprendre efficacement;apprendre-efficacement;2;non;published
 sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;La conscience;conscience;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;L'attachement chez le jeune enfant;attachement-chez-jeune-enfant;2;non;planned
 sciences-humaines;sciences-humaines-et-sociales/psychologie/developpement;L'acquisition du langage;acquisition-langage;2;non;planned
@@ -2499,21 +2499,21 @@ automobile;automobile/motorisations/motorisations-hybrides;L'avenir des motorisa
 automobile;automobile/motorisations/thermique;Comment un moteur à quatre temps transforme-t-il l'essence en mouvement ?;comment-un-moteur-a-quatre-temps-transforme-t-il-l-essence-en-mouvement;2;oui;published
 automobile;automobile/motorisations/thermique;Le taux de compression d'un moteur essence;le-taux-de-compression-d-un-moteur-essence;3;non;planned
 automobile;automobile/motorisations/thermique;Le cliquetis moteur et ses causes;le-cliquetis-moteur-et-ses-causes;3;non;planned
-automobile;automobile/motorisations/thermique;Le systeme d'allumage electronique moderne;le-systeme-d-allumage-electronique-moderne;3;non;planned
+automobile;automobile/motorisations/thermique;L'allumage, bougies et bobines;le-systeme-d-allumage-electronique-moderne;3;non;published
 automobile;automobile/motorisations/thermique;La culasse et son role dans un moteur thermique;la-culasse-et-son-role-dans-un-moteur-thermique;3;non;planned
 automobile;automobile/motorisations/thermique;Le vilebrequin, transformer un mouvement lineaire en rotation;le-vilebrequin-transformer-un-mouvement-lineaire-en-rotation;3;non;planned
 automobile;automobile/motorisations/thermique;Les segments de piston et l'etancheite du moteur;les-segments-de-piston-et-l-etancheite-du-moteur;3;non;planned
 automobile;automobile/motorisations/thermique;La distribution par courroie contre par chaine;la-distribution-par-courroie-contre-par-chaine;3;non;planned
 automobile;automobile/motorisations/thermique;Comment un moteur diesel s'allume-t-il sans bougie d'allumage ?;comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage;2;non;published
 automobile;automobile/motorisations/thermique;L'injection directe dans les moteurs essence modernes;l-injection-directe-dans-les-moteurs-essence-modernes;3;non;planned
-automobile;automobile/motorisations/thermique;Le systeme de depollution des moteurs diesel (AdBlue);le-systeme-de-depollution-des-moteurs-diesel-adblue;3;non;planned
+automobile;automobile/motorisations/thermique;La dépollution diesel, du FAP à l'AdBlue;le-systeme-de-depollution-des-moteurs-diesel-adblue;3;non;published
 automobile;automobile/motorisations/thermique;Le downsizing moteur, faire plus petit mais plus efficace;le-downsizing-moteur-faire-plus-petit-mais-plus-efficace;3;non;planned
 automobile;automobile/motorisations/thermique;Le systeme start-stop automatique;le-systeme-start-stop-automatique;3;non;planned
 automobile;automobile/motorisations/thermique;La suralimentation par turbocompresseur, principe detaille;la-suralimentation-par-turbocompresseur-principe-detaille;3;non;planned
 automobile;automobile/motorisations/thermique;Le refroidissement par air contre par liquide;le-refroidissement-par-air-contre-par-liquide;3;non;planned
 automobile;automobile/motorisations/thermique;La lubrification moteur et les differents types d'huile;la-lubrification-moteur-et-les-differents-types-d-huile;2;non;planned
 automobile;automobile/motorisations/thermique;Le pot catalytique, transformer chimiquement les gaz d'echappement;le-pot-catalytique-transformer-chimiquement-les-gaz-d-echappement;3;non;planned
-automobile;automobile/motorisations/thermique;La transmission manuelle contre automatique;la-transmission-manuelle-contre-automatique;3;non;planned
+automobile;automobile/motorisations/thermique;La boîte automatique, du convertisseur au double embrayage;la-transmission-manuelle-contre-automatique;3;non;published
 automobile;automobile/motorisations/thermique;La boite de vitesses a double embrayage;la-boite-de-vitesses-a-double-embrayage;3;non;planned
 automobile;automobile/motorisations/thermique;Le moteur rotatif Wankel dans l'automobile;le-moteur-rotatif-wankel-dans-l-automobile;3;non;planned
 automobile;automobile/motorisations/thermique;La transmission integrale permanente;la-transmission-integrale-permanente;3;non;planned
@@ -3588,7 +3588,7 @@ droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;La regl
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-de-la-consommation;Le droit de la consommation et la vente de vehicules d'occasion;le-droit-de-la-consommation-et-la-vente-de-vehicules-d-occasion;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Les differents types de contrats de travail;les-differents-types-de-contrats-de-travail;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;La periode d'essai, droits et limites;la-periode-d-essai-droits-et-limites;2;oui;planned
-droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le bulletin de salaire, comment le lire;le-bulletin-de-salaire-comment-le-lire;2;oui;planned
+droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le bulletin de salaire, comment le lire;le-bulletin-de-salaire-comment-le-lire;2;oui;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Comment les salariés ont-ils obtenu cinq semaines de congés payés ?;comment-les-salaries-ont-ils-obtenu-cinq-semaines-de-conges-payes;2;oui;published
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le conge maladie et ses conditions;le-conge-maladie-et-ses-conditions;2;oui;planned
 droit;droit-et-justice/vie-quotidienne-et-droit/droit-du-travail;Le conge parental et sa duree;le-conge-parental-et-sa-duree;2;oui;planned
@@ -3803,7 +3803,7 @@ energie;energie/energies-renouvelables/hydraulique;Les grands types de barrages 
 energie;energie/energies-renouvelables/hydraulique;La microcentrale hydroelectrique de riviere;la-microcentrale-hydroelectrique-de-riviere;2;oui;planned
 energie;energie/energies-renouvelables/hydraulique;Les stations de transfert d'energie par pompage (STEP);les-stations-de-transfert-d-energie-par-pompage-step;2;oui;planned
 energie;energie/energies-renouvelables/hydraulique;L'energie maremotrice, exploiter le mouvement des marees;l-energie-maremotrice-exploiter-le-mouvement-des-marees;2;non;planned
-energie;energie/energies-renouvelables/hydraulique;Les hydroliennes, l'eolien sous-marin;les-hydroliennes-l-eolien-sous-marin;3;non;planned
+energie;energie/energies-renouvelables/hydraulique;Les hydroliennes et l'énergie des marées;les-hydroliennes-l-eolien-sous-marin;3;non;published
 energie;energie/energies-renouvelables/hydraulique;Le barrage des Trois-Gorges, le plus grand du monde;le-barrage-des-trois-gorges-le-plus-grand-du-monde;3;non;planned
 energie;energie/energies-renouvelables/hydraulique;L'impact environnemental des grands barrages;l-impact-environnemental-des-grands-barrages;2;non;planned
 energie;energie/energies-renouvelables/hydraulique;Le deplacement de populations lie a la construction de barrages;le-deplacement-de-populations-lie-a-la-construction-de-barrages;3;non;planned
@@ -3864,7 +3864,7 @@ energie;energie/reseaux-et-stockage/batteries;La batterie au nickel-cadmium et s
 energie;energie/reseaux-et-stockage/batteries;Le fonctionnement precis d'une batterie lithium-ion;le-fonctionnement-precis-d-une-batterie-lithium-ion;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Les batteries sodium-ion, une alternative prometteuse;les-batteries-sodium-ion-une-alternative-prometteuse;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le recyclage des batteries lithium-ion;le-recyclage-des-batteries-lithium-ion;2;oui;planned
-energie;energie/reseaux-et-stockage/batteries;Pourquoi une batterie s'use avec le temps;pourquoi-une-batterie-s-use-avec-le-temps;2;oui;planned
+energie;energie/reseaux-et-stockage/batteries;Pourquoi une batterie s'use avec le temps;pourquoi-une-batterie-s-use-avec-le-temps;2;oui;published
 energie;energie/reseaux-et-stockage/batteries;Le lithium, une ressource strategique mondiale;le-lithium-une-ressource-strategique-mondiale;2;oui;planned
 energie;energie/reseaux-et-stockage/batteries;L'extraction du lithium et ses methodes;l-extraction-du-lithium-et-ses-methodes;2;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le cobalt dans les batteries et les enjeux ethiques de son extraction;le-cobalt-dans-les-batteries-et-les-enjeux-ethiques-de-son-extraction;2;non;planned
@@ -3880,7 +3880,7 @@ energie;energie/reseaux-et-stockage/batteries;La fabrication d'une batterie a pa
 energie;energie/reseaux-et-stockage/batteries;Les batteries zinc-air, une chimie alternative;les-batteries-zinc-air-une-chimie-alternative;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le cout de production des batteries et son evolution;le-cout-de-production-des-batteries-et-son-evolution;2;oui;planned
 energie;energie/reseaux-et-stockage/batteries;Le stockage d'energie par volant d'inertie;le-stockage-d-energie-par-volant-d-inertie;3;non;planned
-energie;energie/reseaux-et-stockage/batteries;La chimie LFP (lithium-fer-phosphate), plus stable et moins chere;la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere;3;non;planned
+energie;energie/reseaux-et-stockage/batteries;La chimie LFP (lithium-fer-phosphate), plus stable et moins chère;la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere;3;non;published
 energie;energie/reseaux-et-stockage/batteries;Le transport et le stockage securise des batteries au lithium;le-transport-et-le-stockage-securise-des-batteries-au-lithium;2;oui;planned
 energie;energie/reseaux-et-stockage/batteries;La capacite de decharge rapide d'une batterie;la-capacite-de-decharge-rapide-d-une-batterie;3;non;planned
 energie;energie/reseaux-et-stockage/batteries;Le marche mondial des batteries et sa croissance;le-marche-mondial-des-batteries-et-sa-croissance;3;non;planned
@@ -5292,7 +5292,7 @@ informatique;micro-informatique-et-informatique/materiel/processeurs;Les process
 informatique;micro-informatique-et-informatique/materiel/processeurs;La consommation energetique des processeurs modernes;la-consommation-energetique-des-processeurs-modernes;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Le refroidissement des processeurs;le-refroidissement-des-processeurs;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Les limites physiques de la miniaturisation des puces;les-limites-physiques-de-la-miniaturisation-des-puces;3;non;planned
-informatique;micro-informatique-et-informatique/materiel/processeurs;Les processeurs specialises pour l'intelligence artificielle;les-processeurs-specialises-pour-l-intelligence-artificielle;3;non;planned
+informatique;micro-informatique-et-informatique/materiel/processeurs;Les processeurs spécialisés pour l'intelligence artificielle;les-processeurs-specialises-pour-l-intelligence-artificielle;3;non;published
 informatique;micro-informatique-et-informatique/materiel/processeurs;L'histoire du premier microprocesseur commercial;l-histoire-du-premier-microprocesseur-commercial;2;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Le jeu d'instructions d'un processeur;le-jeu-d-instructions-d-un-processeur;3;non;planned
 informatique;micro-informatique-et-informatique/materiel/processeurs;Les failles de securite materielles des processeurs;les-failles-de-securite-materielles-des-processeurs;3;non;planned
@@ -12096,3 +12096,39 @@ sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Pourquo
 geographie;geographie-et-territoires/geographie-physique/climatologie;Comment naît un éclair pendant un orage ?;comment-nait-un-eclair-pendant-un-orage;2;non;published
 sciences-fondamentales;sciences-fondamentales/physique/mecanique;Quelles sont les trois lois de Newton qui régissent tout mouvement ?;quelles-sont-les-trois-lois-de-newton-qui-regissent-tout-mouvement;2;non;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Comment un four à micro-ondes chauffe-t-il les aliments ?;comment-un-four-a-micro-ondes-chauffe-t-il-les-aliments;2;non;published
+energie;energie/energies-fossiles-et-nucleaire/charbon;La machine à vapeur;machine-vapeur;;non;published
+energie;energie/energies-renouvelables/eolien;Les moulins à vent;moulins-vent;;non;published
+energie;energie/energies-fossiles-et-nucleaire/charbon;Le charbon de bois;charbon-bois;;non;published
+energie;energie/energies-fossiles-et-nucleaire/hydrocarbures;Le biogaz, du gaz sans gisement;biogaz-gaz-sans-gisement;;non;published
+environnement;environnement-et-climat/biodiversite/ecosystemes;Les haies et le bocage;haies-bocage;;non;published
+environnement;environnement-et-climat/biodiversite/forets-et-oceans;Gérer durablement une forêt;gerer-durablement-foret;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;La découverte de la pénicilline;decouverte-penicilline;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/pharmacologie;De l'écorce de saule à l'aspirine;ecorce-saule-aspirine;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;Semmelweis et le lavage des mains;semmelweis-lavage-mains;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/medecine/medecine-fondee-sur-les-preuves;James Lind et le scorbut;james-lind-scorbut;;non;published
+sciences-du-vivant;sciences-du-vivant-appliquees/agronomie/selection-vegetale;Le greffage;greffage;;non;published
+technologies;technologies-et-ingenierie/genie-civil/structures;Le levier, la poulie et le plan incliné;levier-poulie-plan-incline;;non;published
+technologies;technologies-et-ingenierie/genie-civil/structures;L'arc et la voûte;arc-voute;;non;published
+informatique;micro-informatique-et-informatique/materiel/processeurs;ASML et la lithographie extrême ultraviolet;asml-lithographie-euv;;non;published
+energie;energie/energies-renouvelables;Capter, transformer et stocker l'énergie de la nature;capter-transformer-stocker-energie-naturelle;;non;published
+energie;energie/energies-renouvelables;La géothermie, la chaleur de la Terre;geothermie-chaleur-de-la-terre;;non;published
+energie;energie/energies-renouvelables/solaire;L'installation solaire autonome, panneaux, régulateur, batteries et onduleur;installation-solaire-autonome;;non;published
+energie;energie/efficacite-et-sobriete/usages-et-consommation;La maison autonome, vivre sans dépendre des réseaux;maison-autonome-independante;;non;published
+environnement;environnement-et-climat/pollution-et-ressources/eau;L'assainissement autonome et les toilettes sèches;assainissement-autonome-toilettes-seches;;non;published
+automobile;automobile/motorisations/thermique;La voiture thermique de A à Z, essence ou diesel;voiture-thermique-chaine-complete;;non;published
+automobile;automobile/motorisations/thermique;L'alimentation en carburant et l'injection;alimentation-carburant-injection;;non;published
+automobile;automobile/motorisations/thermique;La vanne EGR, recycler les gaz d'échappement;vanne-egr-recirculation-gaz-echappement;;non;published
+automobile;automobile/motorisations/thermique;L'admission d'air, du filtre à l'intercooler;intercooler-circuit-admission;;non;published
+automobile;automobile/motorisations/thermique;L'embrayage et le volant moteur bimasse;embrayage-volant-moteur-bimasse;;non;published
+automobile;automobile/motorisations/thermique;La boîte de transfert et les 4x4;boite-de-transfert-4x4;;non;published
+automobile;automobile/usages-et-mobilite/entretien-et-cycle-de-vie;Le train roulant, triangles, rotules et silentblocs;train-roulant-rotules-silentblocs;;non;published
+automobile;automobile/usages-et-mobilite/entretien-et-cycle-de-vie;Batterie, démarreur et alternateur, le circuit électrique d'une voiture;circuit-electrique-12v-batterie-alternateur-demarreur;;non;published
+automobile;automobile/motorisations/thermique;Le calculateur moteur et ses capteurs;calculateur-moteur-capteurs;;non;published
+automobile;automobile/motorisations/thermique;Les pompes d'une voiture thermique;pompes-voiture-thermique;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Tenir son budget personnel;tenir-son-budget-personnel;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Les intérêts composés;interets-composes;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;L'épargne de précaution;epargne-de-precaution;;non;published
+sciences-humaines;sciences-humaines-et-sociales/economie/microeconomie;Investir sur le long terme et diversifier;investir-long-terme-diversification;;non;published
+sciences-humaines;sciences-humaines-et-sociales/sociologie/groupes-et-normes;Négocier efficacement;negocier-efficacement;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Former de bonnes habitudes;former-de-bonnes-habitudes;;non;published
+sciences-humaines;sciences-humaines-et-sociales/psychologie/cognition;Gérer son temps et ses priorités;gerer-son-temps-priorites;;non;published

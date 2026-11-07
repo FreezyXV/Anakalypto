@@ -1784,16 +1784,130 @@ title: Les haies et le bocage
 slug: haies-bocage
 categoryPath: environnement-et-climat/biodiversite/ecosystemes
 summary: >
-  Brise-vent, refuges pour la faune, régulation de l'eau : les services rendus par les haies aux cultures.
-tags: [ecosystemes, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une haie protège les cultures du vent, freine le ruissellement, abrite les animaux qui
+  mangent les ravageurs et fournit du bois. En France, environ 70 % des haies ont disparu depuis
+  1950 ; on cherche aujourd'hui à en replanter.
+tags: [ecosystemes]
+relatedArticles: [gerer-durablement-foret, biogaz-gaz-sans-gisement, greffage]
+sources:
+  - title: "Bocage"
+    url: "https://fr.wikipedia.org/wiki/Bocage"
+    publisher: "Wikipédia"
+  - title: "Haie"
+    url: "https://fr.wikipedia.org/wiki/Haie"
+    publisher: "Wikipédia"
+  - title: "Windbreak"
+    url: "https://en.wikipedia.org/wiki/Windbreak"
+    publisher: "Wikipedia"
+  - title: "Hedge"
+    url: "https://en.wikipedia.org/wiki/Hedge"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur quelle distance une haie freine-t-elle nettement le vent derrière elle ?"
+    options:
+      - "Sur environ dix à quinze fois sa hauteur"
+      - "Sur un mètre seulement"
+      - "Sur plusieurs kilomètres"
+    answer: 1
+    explanation: >
+      Une haie de 5 mètres réduit le vent sur plusieurs dizaines de mètres derrière elle, ce qui
+      protège les cultures et les animaux.
+  - question: "Comment une haie aide-t-elle à lutter contre les ravageurs des cultures ?"
+    options:
+      - "Elle produit un insecticide"
+      - "Elle abrite des oiseaux et des insectes qui mangent les ravageurs"
+      - "Elle cache les cultures"
+    answer: 2
+    explanation: >
+      Mésanges, chauves-souris, coccinelles et syrphes vivent dans les haies et se nourrissent
+      de pucerons, de chenilles et d'autres ravageurs.
+  - question: "Pourquoi de nombreuses haies ont-elles été arrachées en France après 1950 ?"
+    options:
+      - "Parce qu'elles étaient malades"
+      - "Parce qu'elles attiraient la foudre"
+      - "Pour agrandir les parcelles et faciliter le passage des machines"
+    answer: 3
+    explanation: >
+      Le remembrement a regroupé les petites parcelles en grands champs, plus faciles à
+      travailler avec les tracteurs, au prix de la disparition de nombreuses haies.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une haie est une rangée d'arbres et d'arbustes qui borde un champ. Un **bocage** est un paysage
+où les champs et les prés sont entourés de haies, souvent plantées sur des talus, comme en
+Bretagne ou en Normandie. Ces haies rendent de nombreux services : elles coupent le vent,
+retiennent l'eau et la terre, abritent les animaux utiles et fournissent du bois. En France,
+environ 70 % des haies ont disparu depuis 1950.
+
+## Un brise-vent naturel
+
+Le vent dessèche les sols et les plantes, couche les céréales et refroidit le bétail. Une haie
+le ralentit sur une distance d'environ dix à quinze fois sa hauteur : une haie de 5 mètres
+protège une bande de 50 à 75 mètres. Une haie un peu perméable fonctionne mieux qu'un mur plein,
+qui crée des tourbillons derrière lui.
+
+À l'abri, le sol garde son humidité plus longtemps, les cultures souffrent moins du vent et les
+animaux trouvent de l'ombre l'été et un abri l'hiver.
+
+[Emplacement image : coupe d'une haie sur talus montrant l'effet brise-vent, l'infiltration de l'eau et les animaux abrités, légende et texte alternatif à fournir ultérieurement.]
+
+## L'eau et la terre retenues
+
+Quand il pleut fort sur un champ nu en pente, l'eau ruisselle et emporte la terre fertile. Une
+haie plantée en travers de la pente, surtout sur un talus, freine ce ruissellement. Ses racines
+ouvrent des chemins dans le sol, où l'eau s'infiltre au lieu de dévaler. La terre reste dans le
+champ, les rivières reçoivent moins de boue et les crues sont atténuées. Les racines profondes
+retiennent aussi une partie des engrais qui, sinon, iraient polluer les eaux.
+
+## Un refuge pour les alliés des cultures
+
+Une haie variée, avec des arbres, des arbustes, des ronces et des herbes au pied, est un habitat
+complet. Elle offre des fleurs au printemps, des fruits en automne et des abris en hiver.
+
+- Les **oiseaux**, comme les mésanges, mangent des chenilles et des insectes.
+- Les **chauves-souris** chassent les papillons de nuit.
+- Les **coccinelles** et les larves de syrphes dévorent les pucerons.
+- Les **abeilles** et autres pollinisateurs y trouvent du pollen quand les cultures ne fleurissent pas.
+
+Les haies relient aussi les bois entre eux : elles forment des couloirs où les animaux circulent.
+
+## Le bois et les produits de la haie
+
+Une haie se taille et se récolte. Autrefois, on coupait régulièrement les branches pour le bois
+de chauffage, les piquets et les outils, et l'on récoltait noisettes, mûres, prunelles ou
+pommes. Aujourd'hui, le bois de haie peut être broyé en plaquettes pour les chaudières. En
+poussant, la haie stocke aussi du carbone dans son bois et dans le sol.
+
+## Une disparition, puis une replantation
+
+Après la Seconde Guerre mondiale, l'agriculture se mécanise. Pour regrouper les petites
+parcelles en grands champs adaptés aux tracteurs, le **remembrement** fait arracher de très
+nombreuses haies. En France, on estime qu'environ 70 % des haies bocagères ont disparu depuis
+1950. Les effets se font sentir : érosion, coulées de boue, baisse de la biodiversité.
+
+Depuis plusieurs décennies, des agriculteurs, des collectivités et des associations replantent
+des haies, et les pouvoirs publics financent leur plantation et leur entretien.
+
+## Planter une haie
+
+- Choisir des **essences locales et variées**, adaptées au sol et au climat, plutôt qu'une seule
+  espèce.
+- Mélanger plusieurs étages : grands arbres, arbustes et buissons.
+- Planter en automne ou en hiver, hors gel, et protéger les jeunes plants du bétail et des
+  rongeurs.
+- Pailler le pied pour limiter la concurrence de l'herbe les premières années.
+- Tailler hors de la période de nidification des oiseaux, en général au printemps et en été.
+
+## À retenir
+
+- Le bocage est un paysage de champs entourés de haies, souvent sur des talus.
+- Une haie freine le vent sur environ dix à quinze fois sa hauteur.
+- Elle retient l'eau et la terre, limite l'érosion et les crues.
+- Elle abrite des oiseaux, des insectes et des chauves-souris qui mangent les ravageurs.
+- En France, environ 70 % des haies ont disparu depuis 1950, surtout à cause du remembrement.
 
 ---
 type: article
@@ -1903,16 +2017,132 @@ title: Gérer durablement une forêt
 slug: gerer-durablement-foret
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Coupes, régénération, diversité des essences : produire du bois sans épuiser la forêt.
-tags: [forets-et-oceans, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une forêt peut fournir du bois pendant des siècles si l'on ne prélève pas plus que ce qui
+  repousse, si on assure sa régénération et si on préserve sa diversité. Ce principe, formulé dès
+  1713, est à l'origine du mot durable.
+tags: [forets-et-oceans]
+relatedArticles: [haies-bocage, charbon-bois]
+sources:
+  - title: "Gestion durable des forêts"
+    url: "https://fr.wikipedia.org/wiki/Gestion_durable_des_for%C3%AAts"
+    publisher: "Wikipédia"
+  - title: "Sylviculture"
+    url: "https://fr.wikipedia.org/wiki/Sylviculture"
+    publisher: "Wikipédia"
+  - title: "Hans Carl von Carlowitz"
+    url: "https://fr.wikipedia.org/wiki/Hans_Carl_von_Carlowitz"
+    publisher: "Wikipédia"
+  - title: "Sustainable forest management"
+    url: "https://en.wikipedia.org/wiki/Sustainable_forest_management"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la règle de base d'une gestion durable de la forêt ?"
+    options:
+      - "Ne pas couper plus de bois qu'il n'en repousse"
+      - "Couper tous les arbres en même temps"
+      - "Ne jamais couper d'arbre"
+    answer: 1
+    explanation: >
+      Si l'on prélève chaque année moins que l'accroissement naturel, la forêt garde son
+      capital de bois et peut produire indéfiniment.
+  - question: "Pourquoi mélanger plusieurs essences d'arbres ?"
+    options:
+      - "Pour que la forêt soit plus jolie"
+      - "Pour qu'une maladie ou une sécheresse ne détruise pas toute la forêt"
+      - "Parce qu'une seule essence ne pousse pas"
+    answer: 2
+    explanation: >
+      Un parasite ou une sécheresse touche souvent une essence en particulier. Une forêt mélangée
+      résiste mieux et se reconstitue plus vite.
+  - question: "Qui a formulé dès 1713 l'idée de gestion durable de la forêt ?"
+    options:
+      - "Louis Pasteur"
+      - "Isaac Newton"
+      - "Hans Carl von Carlowitz"
+    answer: 3
+    explanation: >
+      Ce responsable des mines de Saxe, inquiet du manque de bois, a défendu une exploitation
+      qui laisse repousser autant qu'on coupe.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une forêt est une réserve de bois qui se renouvelle. Si l'on coupe chaque année moins de bois
+qu'il n'en pousse, si l'on veille à ce que de jeunes arbres remplacent ceux qu'on abat et si l'on
+préserve la diversité des espèces, elle peut produire pendant des siècles. C'est la **gestion
+durable**. Le mot vient d'ailleurs de la forêt : il a été employé dès 1713 pour décrire cette
+façon de faire.
+
+## Une idée née d'une pénurie de bois
+
+Aux XVIIe et XVIIIe siècles, le bois sert à tout : chauffage, construction, navires, forges et
+fonderies, qui consomment d'énormes quantités de charbon de bois. Dans plusieurs régions
+d'Europe, les forêts reculent dangereusement.
+
+En France, l'ordonnance de Colbert sur les eaux et forêts, en 1669, organise la protection des
+forêts royales pour fournir à long terme le bois de la marine. En Saxe, en 1713, Hans Carl von
+Carlowitz, responsable des mines, publie un traité de sylviculture. Il y défend une exploitation
+qui laisse repousser autant qu'on coupe, et emploie le mot allemand qui deviendra notre
+« durable ».
+
+## Ne pas couper plus que ce qui pousse
+
+Chaque année, les arbres d'une forêt grossissent : c'est l'**accroissement**, mesuré en mètres
+cubes de bois par hectare. Une forêt bien gérée fonctionne comme un capital placé : on récolte
+les intérêts, c'est-à-dire une partie de l'accroissement, sans entamer le capital.
+
+Pour cela, le forestier fait l'inventaire de ses arbres, mesure leur croissance et établit un
+**plan de gestion** sur dix à vingt ans, qui indique quelles parcelles seront coupées et quand.
+
+## Assurer la relève
+
+Couper un arbre n'a de sens que si un autre le remplace. Deux voies existent :
+
+- la **régénération naturelle** : on laisse les graines des arbres en place germer, et l'on
+  aide les meilleurs semis en dégageant la lumière ;
+- la **plantation**, quand la régénération naturelle est insuffisante.
+
+Les forestiers pratiquent aussi des **éclaircies** : ils coupent une partie des jeunes arbres pour
+laisser plus de lumière et d'eau aux autres, qui grossissent plus vite et plus droit.
+
+[Emplacement image : évolution d'une parcelle forestière, des semis aux éclaircies puis à la récolte, légende et texte alternatif à fournir ultérieurement.]
+
+## Plusieurs façons de cultiver la forêt
+
+- La **futaie** : des arbres issus de graines, qu'on laisse vieillir longtemps pour produire du
+  bois d'œuvre. Dans une futaie régulière, les arbres ont le même âge ; dans une futaie
+  irrégulière, tous les âges sont mêlés, et l'on récolte arbre par arbre.
+- Le **taillis** : on coupe les arbres près du sol tous les quinze à trente ans, et ils repartent
+  en plusieurs rejets depuis la souche ; c'est une source rapide de bois de chauffage.
+- Le **taillis sous futaie** combine les deux.
+
+## Préserver la diversité
+
+Une forêt d'une seule essence est fragile : un insecte, une maladie, une tempête ou une sécheresse
+peut la détruire en entier. Une forêt mélangée, avec plusieurs essences et plusieurs âges,
+résiste mieux et se reconstitue plus vite. Avec le réchauffement climatique, les forestiers
+introduisent aussi des essences mieux adaptées à la chaleur et au manque d'eau.
+
+Une forêt durable n'est pas qu'une usine à bois. On y laisse des arbres morts ou creux, où
+nichent des pics, des chouettes et des chauves-souris, et du bois au sol, qui nourrit insectes et
+champignons. Les sols doivent être protégés : de gros engins circulant partout les tassent pour
+des décennies. On préserve aussi les berges des ruisseaux et les zones humides.
+
+## Contrôler la gestion
+
+Depuis les années 1990, des labels comme FSC et PEFC certifient que le bois provient de forêts
+gérées selon des règles de durabilité. Ils permettent aux acheteurs de choisir un bois dont la
+récolte n'a pas appauvri la forêt.
+
+## À retenir
+
+- Une forêt est gérée durablement si l'on ne prélève pas plus que son accroissement.
+- Chaque arbre coupé doit être remplacé, par régénération naturelle ou plantation.
+- Les éclaircies et un plan de gestion sur plusieurs années organisent la récolte.
+- Une forêt mélangée résiste mieux aux maladies, aux tempêtes et aux sécheresses.
+- Le mot durable est apparu en 1713, à propos de la forêt.
 
 ---
 type: article
@@ -11333,3 +11563,132 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: L'assainissement autonome et les toilettes sèches
+slug: assainissement-autonome-toilettes-seches
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une maison non raccordée au tout-à-l'égout doit épurer elle-même ses eaux usées. Fosse et
+  épandage, micro-station, filtre planté de roseaux ou toilettes sèches : chaque solution imite à
+  sa manière le travail des bactéries du sol.
+tags: [eau]
+relatedArticles: [maison-autonome-independante, rendre-eau-potable, recuperer-eau-pluie, biogaz-gaz-sans-gisement]
+sources:
+  - title: "Assainissement non collectif"
+    url: "https://fr.wikipedia.org/wiki/Assainissement_non_collectif"
+    publisher: "Wikipédia"
+  - title: "Toilettes sèches"
+    url: "https://fr.wikipedia.org/wiki/Toilettes_s%C3%A8ches"
+    publisher: "Wikipédia"
+  - title: "Phytoépuration"
+    url: "https://fr.wikipedia.org/wiki/Phyto%C3%A9puration"
+    publisher: "Wikipédia"
+  - title: "Septic tank"
+    url: "https://en.wikipedia.org/wiki/Septic_tank"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il dans une fosse toutes eaux ?"
+    options:
+      - "Les matières lourdes se déposent et commencent à être digérées par des bactéries"
+      - "L'eau devient potable"
+      - "Les déchets sont brûlés"
+    answer: 1
+    explanation: >
+      La fosse sépare les solides des liquides et amorce leur dégradation. L'eau qui en sort
+      doit encore être épurée par le sol ou un filtre.
+  - question: "Qui contrôle les installations d'assainissement autonome en France ?"
+    options:
+      - "Les pompiers"
+      - "Le service public d'assainissement non collectif de la commune"
+      - "Personne"
+    answer: 2
+    explanation: >
+      Le SPANC vérifie la conception des installations neuves et contrôle régulièrement le bon
+      fonctionnement des installations existantes.
+  - question: "Comment fonctionnent les toilettes sèches à litière ?"
+    options:
+      - "Elles brûlent les excréments"
+      - "Elles les envoient dans la rivière"
+      - "Elles couvrent les excréments de sciure, puis le tout est composté"
+    answer: 3
+    explanation: >
+      La sciure absorbe les liquides et les odeurs. Après un compostage de longue durée, la
+      matière devient un amendement pour le sol.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+En ville, les eaux usées partent dans les égouts vers une station d'épuration. À la campagne,
+beaucoup de maisons ne sont pas raccordées : elles doivent épurer leurs eaux sur place. C'est
+l'**assainissement non collectif**, ou autonome. Toutes les solutions reposent sur le même
+principe : laisser les matières lourdes se déposer, puis confier à des **bactéries** le soin de
+dégrader la pollution, dans le sol, dans un filtre ou dans un compost. Les **toilettes sèches**
+évitent même d'utiliser de l'eau pour évacuer les excréments.
+
+## Ce qu'il faut épurer
+
+Une maison rejette deux types d'eaux :
+
+- les **eaux vannes**, venues des toilettes, chargées en matières organiques, en azote et en
+  microbes ;
+- les **eaux grises**, venues de la cuisine, des douches et du lave-linge, chargées en savons, en
+  graisses et en restes alimentaires.
+
+Rejetées telles quelles, elles polluent les nappes et les rivières et transmettent des maladies.
+
+## La filière classique, fosse et épandage
+
+1. **La fosse toutes eaux** reçoit toutes les eaux usées. Les matières lourdes se déposent au fond,
+   les graisses flottent. Des bactéries commencent à digérer les boues, sans oxygène.
+2. **L'épandage** : l'eau prétraitée qui sort de la fosse est répartie dans des tuyaux percés,
+   posés dans des tranchées remplies de gravier. Elle s'infiltre lentement dans le sol, où des
+   bactéries qui ont besoin d'oxygène achèvent l'épuration.
+
+Si le sol est trop imperméable ou trop perméable, on construit un **filtre à sable** à la place.
+La fosse doit être **vidangée** régulièrement par un professionnel, selon la hauteur de boues,
+souvent tous les quatre à dix ans.
+
+[Emplacement image : coupe d'une filière fosse toutes eaux et tranchées d'épandage, légende et texte alternatif à fournir ultérieurement.]
+
+## Les autres solutions
+
+- **La micro-station** : une cuve compacte où de l'air est injecté pour nourrir les bactéries.
+  Elle occupe peu de place, mais consomme de l'électricité et demande un entretien régulier.
+- **Le filtre planté de roseaux**, ou phytoépuration : l'eau traverse des bacs de gravier et de
+  sable plantés de roseaux. Les bactéries fixées sur les racines épurent l'eau, et les tiges
+  empêchent le filtre de se colmater. Il fonctionne sans électricité, si le terrain a une pente.
+
+## Les toilettes sèches
+
+Les toilettes sèches n'utilisent pas d'eau. Une chasse d'eau classique consomme environ un quart
+à un tiers de l'eau d'un ménage.
+
+- **Les toilettes à litière** : après chaque passage, on couvre les excréments d'une poignée de
+  sciure ou de copeaux. La sciure absorbe les liquides et les odeurs. Le seau est vidé dans un
+  composteur dédié.
+- **Les toilettes à séparation** recueillent à part l'urine et les matières solides, ce qui
+  limite les odeurs et facilite le traitement.
+
+Le **compostage** doit être long, souvent deux ans, pour que la chaleur et le temps détruisent les
+germes. On utilise ensuite le compost pour les arbres et les fleurs plutôt que pour les légumes
+consommés crus. Les eaux grises de la maison doivent quand même être épurées.
+
+## Les règles en France
+
+Toute maison non raccordée doit disposer d'une installation conforme. Le **service public
+d'assainissement non collectif**, le SPANC, de la commune ou de l'intercommunalité valide le projet
+avant les travaux et contrôle ensuite le fonctionnement, au plus tous les dix ans. Une installation
+défaillante doit être réhabilitée, notamment lors de la vente de la maison.
+
+## À retenir
+
+- Une maison non raccordée au tout-à-l'égout doit épurer ses eaux sur place.
+- Une fosse toutes eaux sépare les solides, puis le sol ou un filtre achève l'épuration grâce aux bactéries.
+- Micro-stations et filtres plantés de roseaux sont d'autres solutions autorisées.
+- Les toilettes sèches couvrent les excréments de sciure, puis les compostent pendant longtemps.
+- En France, le SPANC valide et contrôle les installations.
+

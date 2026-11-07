@@ -1382,16 +1382,136 @@ title: Le levier, la poulie et le plan incliné
 slug: levier-poulie-plan-incline
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Les machines simples qui multiplient la force humaine, à la base de toute construction depuis l'Antiquité.
-tags: [structures, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Un levier, une poulie ou une rampe permettent de déplacer une charge bien plus lourde que ce
+  qu'on soulèverait à mains nues. Ces machines simples ne créent pas d'énergie : elles échangent
+  de la force contre de la distance.
+tags: [structures]
+relatedArticles: [arc-voute, machine-vapeur, moulins-vent]
+sources:
+  - title: "Machine simple"
+    url: "https://fr.wikipedia.org/wiki/Machine_simple"
+    publisher: "Wikipédia"
+  - title: "Simple machine"
+    url: "https://en.wikipedia.org/wiki/Simple_machine"
+    publisher: "Wikipedia"
+  - title: "Lever"
+    url: "https://en.wikipedia.org/wiki/Lever"
+    publisher: "Wikipedia"
+  - title: "Pulley"
+    url: "https://en.wikipedia.org/wiki/Pulley"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Avec un levier dont le bras côté main est quatre fois plus long que le bras côté charge, quelle force faut-il pour soulever 100 kg ?"
+    options:
+      - "L'équivalent de 25 kg"
+      - "L'équivalent de 400 kg"
+      - "L'équivalent de 100 kg"
+    answer: 1
+    explanation: >
+      La force est divisée par le rapport des longueurs des bras. En contrepartie, la main doit
+      descendre quatre fois plus loin que la charge ne monte.
+  - question: "Que fait une poulie fixe seule ?"
+    options:
+      - "Elle divise la force par deux"
+      - "Elle change seulement la direction de la force"
+      - "Elle crée de l'énergie"
+    answer: 2
+    explanation: >
+      Avec une poulie fixe, on tire vers le bas pour lever vers le haut, ce qui est plus
+      pratique, mais la force reste la même. Ce sont les poulies mobiles qui la divisent.
+  - question: "Quel est le prix à payer quand une machine simple réduit la force nécessaire ?"
+    options:
+      - "Elle chauffe beaucoup"
+      - "Elle doit être en métal"
+      - "Il faut déplacer la main ou la corde sur une plus grande distance"
+    answer: 3
+    explanation: >
+      Le travail, force multipliée par distance, reste le même. Moins de force signifie plus de
+      distance.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le levier, la poulie et le plan incliné sont des **machines simples**. Elles permettent de
+soulever ou de déplacer des charges bien plus lourdes que ce que nos muscles pourraient porter
+directement. Elles ne fabriquent pas d'énergie : elles échangent de la force contre de la
+distance. On pousse moins fort, mais plus longtemps. Avec elles, on a bâti les temples, les
+cathédrales et les ports, bien avant les moteurs.
+
+## La règle d'or des machines simples
+
+Pour soulever une charge, il faut fournir un **travail** : la force multipliée par la distance
+parcourue. Une machine simple ne change pas ce travail, aux frottements près. Elle permet seulement
+de le répartir autrement :
+
+- soit une **grande force sur une petite distance** ;
+- soit une **petite force sur une grande distance**.
+
+Pour monter un bloc d'un mètre, on peut donc tirer quatre fois moins fort, à condition de tirer la
+corde sur quatre mètres. Les frottements font toujours perdre un peu : la force réelle est un peu
+plus grande que la force calculée.
+
+## Le levier
+
+Un levier est une barre rigide qui pivote autour d'un point d'appui, le **pivot**. La charge
+appuie d'un côté, la main de l'autre. La règle est simple : la force multipliée par la longueur de
+son bras s'équilibre de part et d'autre du pivot.
+
+Si le bras côté main est quatre fois plus long que le bras côté charge, il suffit de quatre fois
+moins de force. Mais la main descend quatre fois plus que la charge ne monte. Au IIIe siècle avant
+notre ère, Archimède a énoncé cette loi ; on lui prête la phrase « Donnez-moi un point d'appui, et
+je soulèverai le monde ».
+
+On distingue trois genres de leviers selon la place du pivot :
+
+1. le pivot entre la charge et la main : la pince-monseigneur, la balançoire, la balance ;
+2. la charge entre le pivot et la main : la brouette, le casse-noix ;
+3. la main entre le pivot et la charge : la pince à épiler, l'avant-bras humain. Ce genre réduit
+   la force mais augmente la vitesse et l'amplitude.
+
+[Emplacement image : les trois genres de leviers avec la position du pivot, de la charge et de la force, légende et texte alternatif à fournir ultérieurement.]
+
+## La poulie
+
+Une poulie est une roue à gorge dans laquelle passe une corde.
+
+- Une **poulie fixe**, accrochée en hauteur, ne réduit pas la force. Elle en change la direction :
+  on tire vers le bas pour monter la charge, en s'aidant de son poids.
+- Une **poulie mobile**, accrochée à la charge, la fait porter par deux brins de corde. Chaque brin
+  ne porte que la moitié du poids : la force est divisée par deux.
+- Un **palan**, ou moufle, combine plusieurs poulies fixes et mobiles. Si la charge est portée par
+  quatre brins, la force est divisée par quatre, et il faut tirer quatre mètres de corde pour la
+  monter d'un mètre.
+
+Les Romains utilisaient des grues de bois équipées de palans, actionnées par des hommes marchant
+dans une grande roue, pour hisser les pierres de leurs monuments.
+
+## Le plan incliné
+
+Monter une charge verticalement demande de vaincre tout son poids. La faire glisser ou rouler sur
+une rampe demande beaucoup moins de force, mais sur un plus long chemin. Plus la pente est douce,
+plus la force nécessaire est faible et plus la rampe est longue.
+
+Le plan incliné se cache dans d'autres outils. Le **coin**, comme une hache, est un double plan
+incliné qui transforme un coup en une forte poussée latérale. La **vis** est un plan incliné
+enroulé autour d'un cylindre : chaque tour la fait avancer d'un petit pas, avec une grande force.
+
+## Les machines simples combinées
+
+Dans l'Antiquité, Héron d'Alexandrie décrit cinq machines simples : le levier, le treuil, la
+poulie, le coin et la vis. Les savants de la Renaissance y ajoutent le plan incliné. Presque toutes
+les machines mécaniques combinent ces éléments : une grue associe treuil et poulies, une
+bicyclette leviers et roues, une presse à vis plan incliné et levier.
+
+## À retenir
+
+- Les machines simples réduisent la force nécessaire en allongeant la distance parcourue.
+- Le travail, force multipliée par distance, reste le même, aux frottements près.
+- Un levier divise la force par le rapport de longueur de ses bras.
+- Une poulie fixe change la direction de la force ; un palan la divise par le nombre de brins qui portent la charge.
+- Le coin et la vis sont des formes de plan incliné.
 
 ---
 type: article
@@ -1399,16 +1519,134 @@ title: L'arc et la voûte
 slug: arc-voute
 categoryPath: technologies-et-ingenierie/genie-civil/structures
 summary: >
-  Comment des pierres qui ne tiennent que par leur poids peuvent franchir des portées de plusieurs dizaines de mètres.
-tags: [structures, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Un arc est fait de pierres taillées qui ne tiennent que par leur poids et se poussent les unes
+  les autres. Bien conçu, il franchit de grandes portées sans aucun mortier ni métal. Prolongé, il
+  devient une voûte ; tourné sur lui-même, une coupole.
+tags: [structures]
+relatedArticles: [levier-poulie-plan-incline]
+sources:
+  - title: "Arc (architecture)"
+    url: "https://fr.wikipedia.org/wiki/Arc_(architecture)"
+    publisher: "Wikipédia"
+  - title: "Voûte"
+    url: "https://fr.wikipedia.org/wiki/Vo%C3%BBte"
+    publisher: "Wikipédia"
+  - title: "Arch"
+    url: "https://en.wikipedia.org/wiki/Arch"
+    publisher: "Wikipedia"
+  - title: "Pantheon, Rome"
+    url: "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Comment travaille la pierre dans un arc ?"
+    options:
+      - "Elle est comprimée, ce qu'elle supporte très bien"
+      - "Elle est étirée, comme un élastique"
+      - "Elle est tordue"
+    answer: 1
+    explanation: >
+      Les pierres d'un arc se poussent les unes les autres. La pierre résiste très bien à la
+      compression, mais casse facilement quand on l'étire.
+  - question: "À quoi sert le cintre pendant la construction d'un arc ?"
+    options:
+      - "À décorer l'arc"
+      - "À soutenir les pierres jusqu'à la pose de la clé"
+      - "À chauffer le mortier"
+    answer: 2
+    explanation: >
+      Le cintre est un gabarit en bois. Il porte les voussoirs tant que l'arc n'est pas fermé par
+      la clé ; ensuite, l'arc tient seul.
+  - question: "Pourquoi les cathédrales gothiques ont-elles des arcs-boutants ?"
+    options:
+      - "Pour monter sur le toit"
+      - "Pour récupérer l'eau de pluie"
+      - "Pour reprendre la poussée des voûtes et laisser des murs minces percés de grandes fenêtres"
+    answer: 3
+    explanation: >
+      Les voûtes poussent les murs vers l'extérieur. Les arcs-boutants transmettent cette
+      poussée à des piles extérieures, ce qui permet d'ouvrir de grands vitraux.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Pour franchir une ouverture avec de la pierre, on peut poser une grande dalle, un linteau, sur
+deux appuis. Mais la pierre casse facilement quand elle plie. L'**arc** contourne le problème : il
+est fait de pierres taillées en coin, les **voussoirs**, qui se poussent les unes les autres. Elles
+ne travaillent qu'en compression, ce que la pierre supporte très bien. Prolongé en longueur, l'arc
+devient une **voûte** ; tourné autour d'un axe, une **coupole**.
+
+## Pourquoi un linteau ne suffit pas
+
+Une poutre posée sur deux appuis fléchit sous son poids : le dessus est comprimé, le dessous
+étiré. La pierre résiste très bien à la compression, mais mal à la traction : un linteau trop long
+se fissure par en dessous et se rompt. C'est pourquoi les temples grecs ont des colonnes
+rapprochées.
+
+## Comment tient un arc
+
+Dans un arc, chaque voussoir est poussé par son poids et par celui des pierres au-dessus. Comme il
+est taillé en coin, il ne peut pas tomber : il est coincé entre ses voisins. Les efforts suivent la
+courbe de l'arc, de pierre en pierre, jusqu'au sol. Toutes les pierres sont comprimées, aucune
+n'est étirée.
+
+La pierre du sommet, la **clé de voûte**, est posée en dernier. Avant elle, l'arc ne tient pas ;
+après elle, il tient seul, même sans mortier.
+
+[Emplacement image : arc en plein cintre avec ses voussoirs, la clé, le cintre en bois et les flèches de poussée vers les appuis, légende et texte alternatif à fournir ultérieurement.]
+
+## Le cintre, un échafaudage indispensable
+
+Pendant la construction, les voussoirs ne tiennent pas encore. On les pose sur un **cintre**, un
+gabarit en bois qui a la forme exacte de l'arc. Une fois la clé posée et le mortier pris, on
+retire le cintre : c'est le décintrement, un moment délicat. Le même cintre peut servir pour
+plusieurs arcs identiques, ce qui explique les séries d'arches régulières des ponts et des
+aqueducs.
+
+## La poussée, l'ennemie de l'arc
+
+Un arc ne pousse pas seulement vers le bas : il pousse aussi ses appuis **vers l'extérieur**, comme
+s'il voulait s'aplatir. Plus l'arc est surbaissé, plus cette poussée est forte. Si les appuis
+s'écartent, l'arc s'effondre. Il faut donc des **culées** massives, des murs épais ou des
+contreforts, ou encore placer les arcs côte à côte pour que leurs poussées s'annulent, comme dans
+un pont à plusieurs arches.
+
+Au XVIIe siècle, le savant anglais Robert Hooke en donne une image saisissante : une chaînette
+suspendue prend naturellement la forme où elle n'est que tirée ; retournée, cette forme donne
+l'arc où la pierre n'est que comprimée. Au XXe siècle, l'architecte Antoni Gaudí utilisait des
+maquettes de ficelles lestées pour dessiner ses voûtes.
+
+## De Rome aux cathédrales
+
+Les Romains généralisent l'arc en **plein cintre**, en demi-cercle. Le pont du Gard, construit au
+Ier siècle de notre ère, superpose trois rangées d'arches pour porter un aqueduc à près de
+50 mètres au-dessus du Gardon. La coupole du Panthéon de Rome, achevée vers 125, atteint
+43 mètres de diamètre ; elle reste la plus grande coupole en béton non armé du monde.
+
+Au Moyen Âge, les bâtisseurs gothiques adoptent l'**arc brisé**, ou arc en ogive, formé de deux
+arcs qui se rejoignent en pointe. Il pousse moins vers l'extérieur et s'adapte à des portées
+différentes. Les poussées des voûtes sont reprises à l'extérieur par des **arcs-boutants**, qui
+les transmettent à de lourdes piles. Les murs, déchargés, peuvent alors être percés de grands
+vitraux.
+
+## Les différentes voûtes
+
+- La **voûte en berceau**, un arc prolongé en tunnel.
+- La **voûte d'arêtes**, deux berceaux qui se croisent.
+- La **voûte sur croisée d'ogives**, portée par des nervures en arc brisé.
+- La **coupole**, ou dôme, un arc tourné autour d'un axe vertical.
+
+Certaines voûtes en briques crues, comme les voûtes nubiennes, se construisent même sans cintre,
+en posant des rangs de briques légèrement inclinés qui s'appuient sur un mur.
+
+## À retenir
+
+- Un arc est fait de voussoirs en coin qui se poussent les uns les autres.
+- Toutes les pierres d'un arc sont comprimées, ce que la pierre supporte très bien.
+- On construit l'arc sur un cintre en bois, retiré une fois la clé de voûte posée.
+- Un arc pousse ses appuis vers l'extérieur : il faut des culées, des contreforts ou des arcs-boutants.
+- La coupole du Panthéon de Rome, vers 125, mesure 43 mètres de diamètre.
 
 ---
 type: article
