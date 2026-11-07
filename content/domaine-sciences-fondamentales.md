@@ -4020,21 +4020,22 @@ projection dangereuse.
 ```schema
 type: echelle
 titre: L'échelle de pH
+legende: Une solution est acide en dessous de 7, basique au-dessus ; l'eau pure est neutre, à 7.
 unite: ""
 min: 0
 max: 14
 zones:
   - de: 0
-    a: 7
-    label: Acide
+    a: 6.5
+    label: Acide, comme le citron ou le vinaigre
     ton: danger
-  - de: 7
-    a: 7.1
-    label: Neutre, vers 7
+  - de: 6.5
+    a: 7.5
+    label: Proche de la neutralité, autour de 7
     ton: normal
-  - de: 7.1
+  - de: 7.5
     a: 14
-    label: Basique
+    label: Basique, comme le savon ou la soude
     ton: info
 ```
 
