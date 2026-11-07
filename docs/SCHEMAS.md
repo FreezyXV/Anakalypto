@@ -44,7 +44,7 @@ elements:
 | `cycle`       | une boucle qui recommence   | `elements` : 3 à 7 `{titre, texte?, icone?}` ; anneau de 3 à 6 sur grand écran                                |
 | `pyramide`    | des priorités, des niveaux  | `niveaux` : 2 à 7 `{titre, texte?}`, du sommet vers la base                                                   |
 | `frise`       | une chronologie             | `evenements` : 2 à 12 `{date, titre, texte?}`                                                                 |
-| `systeme`     | un ensemble et ses parties  | `centre`, `icone?`, `parties` : 2 à 12 `{nom, role, icone?}`                                                  |
+| `systeme`     | un ensemble et ses parties  | `centre`, `icone?`, `parties` : 2 à 12 `{nom, role?, icone?}`                                                 |
 | `comparaison` | deux ou trois options       | `colonnes` : 2 à 3 `{titre, icone?, points: [..]}`                                                            |
 | `barres`      | des valeurs à comparer      | `unite`, `valeurs` : 2 à 10 `{label, valeur, note?}`                                                          |
 | `chiffres`    | des repères chiffrés        | `chiffres` : 1 à 4 `{valeur, texte}`                                                                          |
