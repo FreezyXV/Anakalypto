@@ -307,8 +307,18 @@ sobre.
 - Le Diesel enflamme le carburant par la chaleur de compression, sans bougie.
 - Le rendement se situe entre 20 et 40 %, le reste part en chaleur.
 
-[Emplacement image : les quatre temps d'un moteur à explosion, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: cycle
+titre: Les quatre temps d'un moteur à explosion
+legende: Un seul temps produit de l'énergie ; le rendement se situe entre 20 et 40 %.
+elements:
+  - titre: Admission
+  - titre: Compression
+  - titre: Combustion
+    texte: Le seul temps moteur.
+    icone: fire
+  - titre: Échappement
+```
 
 ---
 
@@ -413,8 +423,20 @@ Sur ces usages, aucune alternative n'est aujourd'hui prête à le remplacer à g
 - Oxydes d'azote et particules sont ses deux points faibles, et ils s'opposent.
 - Il reste dominant dans le transport lourd et les engins.
 
-[Emplacement image : comparaison des cycles essence et Diesel, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Le Diesel, atouts et faiblesses
+colonnes:
+  - titre: Atouts
+    points:
+      - 20 à 30 % de consommation en moins
+      - Dominant dans le transport lourd et les engins
+  - titre: Faiblesses
+    points:
+      - Oxydes d'azote
+      - Particules
+      - Les réduire l'un augmente souvent l'autre
+```
 
 ---
 
@@ -516,8 +538,15 @@ devient favorable qu'après plusieurs dizaines de milliers de kilomètres.
 - Le prix des batteries a chuté d'un ordre de grandeur en quinze ans.
 - Le bénéfice climatique dépend du mix électrique et du kilométrage parcouru.
 
-[Emplacement image : chaîne de traction d'une voiture électrique, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La voiture électrique en chiffres
+chiffres:
+  - valeur: 20 millions
+    texte: de ventes en 2025, environ un quart des voitures neuves
+  - valeur: "> 90 %"
+    texte: de rendement pour le moteur électrique
+```
 
 ---
 
@@ -616,8 +645,23 @@ pas possible, et c'est aujourd'hui le principal frein à l'adoption.
 - Une batterie froide accepte beaucoup moins de puissance.
 - Le raccordement au réseau, pas la borne, conditionne le déploiement.
 
-[Emplacement image : courbe de puissance de recharge selon l'état de charge, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: echelle
+titre: La puissance de recharge selon le niveau de la batterie
+legende: Au-delà de 80 %, la puissance chute fortement.
+unite: "%"
+min: 0
+max: 100
+zones:
+  - de: 0
+    a: 80
+    label: Recharge rapide possible
+    ton: normal
+  - de: 80
+    a: 100
+    label: Puissance fortement réduite
+    ton: attention
+```
 
 ---
 
@@ -721,8 +765,19 @@ une estimation bien plus fiable qu'un simple pourcentage de batterie.
 - Le froid dégrade la batterie et mobilise le chauffage.
 - La pompe à chaleur consomme environ trois fois moins qu'une résistance.
 
-[Emplacement image : autonomie selon la vitesse et la température, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui réduit l'autonomie réelle
+centre: Autonomie réelle
+icone: battery
+parties:
+  - nom: La vitesse
+    role: La puissance contre l'air croît comme le cube de la vitesse.
+  - nom: Le froid
+    role: Il dégrade la batterie et mobilise le chauffage.
+  - nom: Le chauffage
+    role: Une pompe à chaleur consomme environ trois fois moins qu'une résistance.
+```
 
 ---
 
@@ -830,8 +885,21 @@ ce segment s'expliquent presque entièrement par ce comportement.
 - L'hybride complet est surtout efficace en ville.
 - Un hybride rechargeable non rechargé consomme plus qu'une thermique.
 
-[Emplacement image : trois architectures hybrides comparées, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois architectures hybrides
+colonnes:
+  - titre: Série
+    points:
+      - Le moteur thermique produit de l'électricité
+      - Seul le moteur électrique entraîne les roues
+  - titre: Parallèle
+    points:
+      - Les deux moteurs entraînent les roues
+  - titre: Dérivation de puissance
+    points:
+      - L'énergie se partage entre les deux chemins
+```
 
 ---
 
@@ -936,8 +1004,22 @@ qui continuera de rouler pendant des décennies.
 - Les carburants de synthèse sont neutres seulement si l'électricité l'est.
 - Leur rendement global les réserve aux usages difficiles à électrifier.
 
-[Emplacement image : comparaison du rendement de la chaîne électrique directe et de la chaîne
-carburant de synthèse, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les carburants liquides alternatifs
+colonnes:
+  - titre: Première génération
+    points:
+      - Issus de cultures alimentaires
+      - Concurrencent l'usage des terres
+  - titre: Deuxième génération
+    points:
+      - Issus de résidus et de déchets
+  - titre: Carburants de synthèse
+    points:
+      - Fabriqués avec de l'électricité
+      - Neutres seulement si l'électricité l'est
+```
 
 ---
 
@@ -1044,8 +1126,18 @@ maintient le conducteur impliqué.
 - L'efficacité chute nettement de nuit et à haute vitesse.
 - La confiance excessive dans l'assistance réduit le bénéfice réel.
 
-[Emplacement image : efficacité mesurée des principales aides à la conduite, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Collisions évitées par le freinage automatique
+unite: "%"
+valeurs:
+  - label: Collisions par l'arrière
+    valeur: 50
+    note: environ
+  - label: Piétons
+    valeur: 27
+    note: environ
+```
 
 ---
 
@@ -1149,8 +1241,20 @@ la vitesse de 50 à 30 km/h avant le choc divise l'énergie par près de trois.
 - L'intervention est graduée : alerte, assistance, freinage complet.
 - Même quand le choc a lieu, la réduction de vitesse diminue fortement la gravité.
 
-[Emplacement image : champs de détection du radar et de la caméra, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: etapes
+titre: Une intervention graduée
+elements:
+  - titre: Détecter
+    texte: Le radar mesure les distances, la caméra identifie.
+    icone: eye
+  - titre: Alerter
+    texte: Signal au conducteur.
+  - titre: Assister
+    texte: Le freinage du conducteur est renforcé.
+  - titre: Freiner à fond
+    texte: Si le conducteur ne réagit pas.
+```
 
 ---
 
@@ -1248,8 +1352,19 @@ qu'il ne sait pas — et s'arrêter en sécurité, ce qui bloque parfois la circ
 - La comparaison est délicate : zones limitées, vitesse modérée, météo clémente.
 - Les cas limites imprévus restent la principale difficulté.
 
-[Emplacement image : capteurs d'un robotaxi et zone de service cartographiée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les données des robotaxis, à lire avec prudence
+colonnes:
+  - titre: Ce que montrent les données
+    points:
+      - Taux de dommages inférieur à celui des humains
+  - titre: Les précautions
+    points:
+      - Zones limitées
+      - Vitesse modérée
+      - Météo clémente
+```
 
 ---
 
@@ -1356,8 +1471,24 @@ Le chiffre seul ne dit rien. Il faut toujours demander : dans quelles conditions
 - À partir du niveau 3, la responsabilité se déplace vers le constructeur.
 - Le domaine d'emploi compte davantage que le numéro du niveau.
 
-[Emplacement image : les six niveaux et la répartition des tâches, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les six niveaux de conduite automatisée
+legende: La frontière se situe entre les niveaux 2 et 3.
+niveaux:
+  - titre: Niveau 5
+    texte: Automatisation complète, partout.
+  - titre: Niveau 4
+    texte: Sans conducteur, dans un domaine limité.
+  - titre: Niveau 3
+    texte: La responsabilité passe au constructeur dans son domaine.
+  - titre: Niveau 2
+    texte: Le conducteur surveille en permanence et reste responsable.
+  - titre: Niveau 1
+    texte: Une seule aide à la fois.
+  - titre: Niveau 0
+    texte: Aucune automatisation.
+```
 
 ---
 
@@ -1464,8 +1595,22 @@ réglementation : une mauvaise note se voit immédiatement dans les ventes.
 - L'habitacle, lui, doit rester indéformable.
 - Le coussin gonflable complète la ceinture et ne la remplace jamais.
 
-[Emplacement image : déformation programmée de l'avant d'une voiture lors d'un choc, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La sécurité passive en cas de choc
+legende: Ce qui blesse, c'est la brutalité de l'arrêt.
+centre: Occupants
+icone: shield
+parties:
+  - nom: Zones déformables
+    role: Elles allongent la durée du choc.
+  - nom: Habitacle rigide
+    role: Il doit rester indéformable.
+  - nom: Ceinture
+    role: Elle retient les occupants.
+  - nom: Coussin gonflable
+    role: Il complète la ceinture, sans la remplacer.
+```
 
 ---
 
@@ -1560,8 +1705,17 @@ manquante arrête tout.
 - Chine, États-Unis et Japon font ensemble environ 54 % de la production.
 - Une voiture compte environ 30 000 pièces, majoritairement fournies par des sous-traitants.
 
-[Emplacement image : répartition de la production automobile mondiale par pays, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La production automobile mondiale en 2024
+chiffres:
+  - valeur: 92,5 millions
+    texte: de véhicules produits
+  - valeur: "> 31 millions"
+    texte: produits en Chine, près d'un tiers
+  - valeur: 30 000
+    texte: pièces environ dans une voiture
+```
 
 ---
 
@@ -1665,8 +1819,19 @@ de rappel portant sur des millions de véhicules s'expliquent en grande partie a
 - L'électrique a imposé des plateformes dédiées, à plancher plat.
 - Un défaut sur une pièce partagée élargit mécaniquement les rappels.
 
-[Emplacement image : plusieurs carrosseries dérivées d'une même plateforme, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que partage une plateforme
+centre: Plateforme commune
+icone: car
+parties:
+  - nom: Soubassement
+    role: La base du véhicule.
+  - nom: Ancrages
+    role: Points de fixation des éléments.
+  - nom: Architecture électrique
+    role: Câblage et électronique.
+```
 
 ---
 
@@ -1762,8 +1927,21 @@ routier.
 - L'essentiel de la croissance future viendra des marchés émergents.
 - Les politiques publiques expliquent l'essentiel des écarts entre régions.
 
-[Emplacement image : ventes de véhicules neufs par grande région, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois grands blocs de marché
+colonnes:
+  - titre: Chine
+    points:
+      - Premier marché mondial
+      - Le plus rapide à passer à l'électrique
+  - titre: Amérique du Nord
+    points:
+      - Véhicules nettement plus gros
+  - titre: Marchés émergents
+    points:
+      - L'essentiel de la croissance future
+```
 
 ---
 
@@ -1868,8 +2046,15 @@ deux marchés.
 - Elle est la plus rapide durant la première année.
 - Les loueurs fixent leurs loyers sur une valeur résiduelle anticipée.
 
-[Emplacement image : courbe de décote d'un véhicule neuf sur huit ans, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères de l'occasion
+chiffres:
+  - valeur: 3 à 4
+    texte: voitures d'occasion vendues pour une neuve
+  - valeur: 1re année
+    texte: celle où la décote est la plus rapide
+```
 
 ---
 
@@ -1967,8 +2152,17 @@ Les normes les plus récentes commencent à intégrer ces émissions hors échap
 - Les essais en conduite réelle ont remplacé le seul cycle de laboratoire.
 - Freins et pneus émettent des particules indépendamment de la motorisation.
 
-[Emplacement image : évolution des seuils d'émission par palier réglementaire, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les normes Euro
+chiffres:
+  - valeur: Depuis 1992
+    texte: les seuils se durcissent par paliers
+  - valeur: "÷ 10"
+    texte: seuils divisés par environ dix
+  - valeur: Conduite réelle
+    texte: essais ajoutés au cycle de laboratoire
+```
 
 ---
 
@@ -2070,8 +2264,15 @@ La question s'est posée avec acuité pour les services de voiture avec chauffeu
 - Un véhicule en autopartage remplace plusieurs voitures possédées.
 - Le bilan dépend du mode de transport auquel le service se substitue.
 
-[Emplacement image : usage réel d'une voiture particulière sur une journée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Une voiture particulière, en moyenne
+chiffres:
+  - valeur: "> 95 %"
+    texte: du temps garée
+  - valeur: 1 personne
+    texte: à peine plus par véhicule
+```
 
 ---
 
@@ -2171,8 +2372,18 @@ rentabilité dépend des volumes, encore faibles, et du cours des métaux.
 - Le contenu carbone de l'électricité est le paramètre le plus sensible.
 - Les batteries peuvent servir en stockage fixe avant d'être recyclées.
 
-[Emplacement image : émissions cumulées comparées selon le kilométrage, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Où se font les émissions
+colonnes:
+  - titre: Voiture thermique
+    points:
+      - L'usage domine le bilan
+  - titre: Voiture électrique
+    points:
+      - La fabrication domine le bilan
+      - Rattrapage en dizaines de milliers de kilomètres
+```
 
 ---
 
@@ -2238,7 +2449,19 @@ large plage de régime.
 - Les rapports longs réduisent le régime et le bruit.
 - Une voiture électrique n'a généralement pas besoin de boîte multi-rapports.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Rapports courts ou longs
+colonnes:
+  - titre: Rapports courts
+    points:
+      - Privilégient le couple
+      - Pour démarrer et monter
+  - titre: Rapports longs
+    points:
+      - Réduisent le régime et le bruit
+      - Pour rouler vite et économiser
+```
 
 ---
 
@@ -2303,7 +2526,17 @@ l'étiquette du véhicule, pas sur le flanc du pneu.
 - La pression et l'état de la bande de roulement sont essentiels.
 - L'adhérence est une ressource limitée à partager entre freiner, tourner et accélérer.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'adhérence, une ressource à partager
+centre: Adhérence disponible
+parties:
+  - nom: Freiner
+  - nom: Tourner
+  - nom: Accélérer
+  - nom: Pression et usure
+    role: Elles déterminent l'adhérence disponible.
+```
 
 ---
 
@@ -2368,7 +2601,17 @@ pilotées tentent d'adapter ce compromis aux conditions.
 - Les amortisseurs contrôlent les mouvements.
 - Le confort et la tenue de route demandent souvent des réglages opposés.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux rôles de la suspension
+colonnes:
+  - titre: Ressorts
+    points:
+      - Portent la caisse
+  - titre: Amortisseurs
+    points:
+      - Contrôlent les mouvements
+```
 
 ---
 
@@ -2432,7 +2675,19 @@ réaction. À vitesse plus élevée, l'énergie à dissiper augmente fortement.
 - L'ABS conserve une capacité de direction pendant un freinage intense.
 - La vitesse et l'adhérence dominent la distance d'arrêt.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Freiner une voiture
+elements:
+  - titre: Pédale
+  - titre: Freins
+    texte: Ils transforment le mouvement en chaleur.
+    icone: fire
+  - titre: ABS
+    texte: Il empêche le blocage et garde la direction.
+  - titre: Arrêt
+    texte: La vitesse et l'adhérence fixent la distance.
+```
 
 ---
 
@@ -2498,7 +2753,17 @@ haute appréciée, mais leur surface frontale augmente généralement l'effort d
 - Les roues et le dessous de caisse perturbent fortement l'écoulement.
 - Le confort et l'habitabilité peuvent s'opposer à l'efficacité aérodynamique.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui crée la traînée
+centre: Traînée
+parties:
+  - nom: Vitesse
+  - nom: Forme
+  - nom: Surface frontale
+  - nom: Roues et dessous de caisse
+    role: Ils perturbent fortement l'écoulement.
+```
 
 ---
 
@@ -2565,7 +2830,17 @@ presque pleine.
 - NMC et LFP répondent à des compromis différents.
 - Le BMS protège et équilibre les cellules.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: NMC ou LFP
+colonnes:
+  - titre: NMC
+    points:
+      - Plus d'autonomie à poids égal
+  - titre: LFP
+    points:
+      - Moins chère et plus durable
+```
 
 ---
 
@@ -2629,7 +2904,18 @@ recyclage réduit la dépendance à l'extraction, mais il demande une filière s
 - Le réemploi stationnaire intervient avant le recyclage final.
 - La sécurité du démontage est essentielle.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les vies d'une batterie
+elements:
+  - titre: Voiture
+    icone: car
+  - titre: Réparation
+  - titre: Réemploi stationnaire
+    icone: house
+  - titre: Recyclage des matériaux
+    icone: recycle
+```
 
 ---
 
@@ -2697,7 +2983,19 @@ testée et capable de revenir en arrière si elle échoue. Une erreur logicielle
 - Les mises à jour à distance prolongent la vie fonctionnelle.
 - Cybersécurité et sûreté de fonctionnement sont indispensables.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La voiture définie par logiciel
+colonnes:
+  - titre: Ce que cela permet
+    points:
+      - Mises à jour à distance
+      - Vie fonctionnelle prolongée
+  - titre: Ce que cela exige
+    points:
+      - Cybersécurité
+      - Sûreté de fonctionnement
+```
 
 ---
 
@@ -2762,7 +3060,19 @@ partager inutilement les clés numériques.
 - Les fonctions critiques doivent être isolées des services de confort.
 - La protection concerne le véhicule, le cloud et le smartphone.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les fronts de la cybersécurité automobile
+centre: Voiture connectée
+icone: lock
+parties:
+  - nom: Le véhicule
+    role: Fonctions critiques isolées du confort.
+  - nom: Le cloud
+    role: Les serveurs du constructeur.
+  - nom: Le smartphone
+    role: L'application qui pilote la voiture.
+```
 
 ---
 
@@ -2826,7 +3136,19 @@ productions.
 - Un composant rare peut arrêter une ligne complète.
 - La résilience industrielle devient aussi importante que le coût.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment une puce peut arrêter une usine
+elements:
+  - titre: Électronique partout
+    texte: Presque toutes les fonctions en dépendent.
+    icone: chip
+  - titre: Composant rare
+    texte: Une seule puce manque.
+  - titre: Ligne arrêtée
+    texte: Toute la chaîne de montage s'immobilise.
+    icone: factory
+```
 
 ---
 
@@ -2890,7 +3212,18 @@ intègre donc progressivement démontabilité, traçabilité et récupération d
 - L'allègement peut réduire la consommation, mais a un coût.
 - Le choix des matériaux influence aussi la fin de vie.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Choisir un matériau, un compromis
+centre: Matériaux
+parties:
+  - nom: Poids
+    role: L'allègement réduit la consommation.
+  - nom: Coût
+    role: L'allègement a un prix.
+  - nom: Fin de vie
+    role: Le choix conditionne le recyclage.
+```
 
 ---
 
@@ -2956,7 +3289,16 @@ que compenser ensuite par davantage de puissance.
 - Les batteries ne sont pas le seul facteur d'alourdissement.
 - L'efficacité passe aussi par des véhicules plus sobres et mieux dimensionnés.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que le poids d'une voiture affecte
+centre: Poids
+parties:
+  - nom: Énergie
+  - nom: Pneus
+  - nom: Freins
+  - nom: Matériaux
+```
 
 ---
 
@@ -3021,7 +3363,18 @@ meilleur pour le voisinage.
 - L'électrique aide surtout à basse vitesse.
 - Vitesse, pneus et revêtement sont des leviers majeurs.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les leviers contre le bruit routier
+centre: Bruit de circulation
+icone: wave
+parties:
+  - nom: Vitesse
+  - nom: Pneus
+  - nom: Revêtement
+  - nom: Motorisation électrique
+    role: Efficace surtout à basse vitesse.
+```
 
 ---
 
@@ -3085,7 +3438,19 @@ cependant vérifier le véhicule, son historique et les éventuelles réparation
 - Il complète l'entretien régulier.
 - Son historique aide à évaluer un véhicule d'occasion.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce qu'est, et n'est pas, le contrôle technique
+colonnes:
+  - titre: Ce qu'il est
+    points:
+      - Une photographie de l'état du véhicule
+      - Un historique utile pour l'occasion
+  - titre: Ce qu'il n'est pas
+    points:
+      - Une garantie permanente
+      - Un remplacement de l'entretien
+```
 
 ---
 
@@ -3154,7 +3519,17 @@ prête.
 - Sécurité et pollution ont souvent guidé les progrès majeurs.
 - La diffusion dépend autant de l'industrie et des règles que de la technique.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui fait avancer l'automobile
+centre: Innovation utile
+parties:
+  - nom: Un problème concret
+  - nom: La sécurité
+  - nom: La pollution
+  - nom: L'industrie et les règles
+    role: Elles conditionnent la diffusion.
+```
 
 ---
 
@@ -3219,7 +3594,18 @@ dense.
 - Le turbo récupère une partie de l'énergie de l'échappement.
 - L'échangeur améliore la densité de l'air comprimé.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de mieux remplir le moteur
+colonnes:
+  - titre: Distribution variable
+    points:
+      - Règle les échanges de gaz selon le régime
+  - titre: Turbocompresseur
+    points:
+      - Récupère l'énergie de l'échappement
+      - L'échangeur rend l'air comprimé plus dense
+```
 
 ---
 
@@ -3283,7 +3669,21 @@ en température.
 - Le thermostat accélère la mise en température.
 - Liquide insuffisant ou surchauffe peuvent causer des dégâts majeurs.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le circuit de refroidissement
+elements:
+  - titre: Pompe à eau
+    texte: Elle fait circuler le liquide.
+    icone: droplet
+  - titre: Moteur
+    texte: Le liquide absorbe sa chaleur.
+  - titre: Thermostat
+    texte: Fermé à froid, il accélère la mise en température.
+  - titre: Radiateur
+    texte: L'air extérieur refroidit le liquide.
+    icone: snowflake
+```
 
 ---
 
@@ -3346,7 +3746,19 @@ intervalle dépend du moteur, de l'usage et de la spécification prévue par le 
 - Une huile dégradée perd une partie de ses propriétés.
 - La spécification du constructeur compte autant que la viscosité.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les rôles de l'huile moteur
+centre: Huile moteur
+icone: droplet
+parties:
+  - nom: Protéger
+    role: Un film d'huile sépare les pièces.
+  - nom: Refroidir
+    role: Elle emporte une partie de la chaleur.
+  - nom: Nettoyer
+    role: Elle entraîne les impuretés vers le filtre.
+```
 
 ---
 
@@ -3410,7 +3822,18 @@ régénération de se dérouler correctement.
 - Le filtre retient puis brûle des particules.
 - Un usage inadapté peut perturber la régénération du filtre.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Catalyseur ou filtre à particules
+colonnes:
+  - titre: Catalyseur
+    points:
+      - Transforme chimiquement certains polluants
+  - titre: Filtre à particules
+    points:
+      - Retient les particules
+      - Les brûle lors de la régénération
+```
 
 ---
 
@@ -3473,7 +3896,19 @@ conduite. Elle améliore la motricité, mais ajoute poids, frottements et consom
 - La transmission intégrale aide surtout lorsque l'adhérence est asymétrique.
 - Plus de motricité ne signifie pas automatiquement plus de capacité de freinage.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Différentiel et transmission intégrale
+centre: Transmission
+icone: gear
+parties:
+  - nom: Différentiel
+    role: Laisse les roues tourner à des vitesses différentes en virage.
+  - nom: Transmission intégrale
+    role: Aide surtout quand l'adhérence est inégale.
+  - nom: Freinage
+    role: Plus de motricité ne veut pas dire mieux freiner.
+```
 
 ---
 
@@ -3537,7 +3972,18 @@ direction directe est plus réactive, mais peut devenir sensible aux erreurs et 
 - La géométrie influence stabilité et précision.
 - Les systèmes électriques facilitent l'intégration d'aides à la conduite.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que fait la direction assistée
+centre: Direction assistée
+parties:
+  - nom: Réduire l'effort
+    role: Elle ne crée pas d'adhérence.
+  - nom: Géométrie
+    role: Elle influence stabilité et précision.
+  - nom: Assistance électrique
+    role: Elle facilite les aides à la conduite.
+```
 
 ---
 
@@ -3606,7 +4052,20 @@ de calibration.
 - La fusion améliore la robustesse de la perception.
 - Un choc ou un remplacement de pare-brise peut nécessiter une recalibration.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La fusion des capteurs
+legende: Aucun capteur ne suffit dans toutes les situations.
+centre: Perception
+icone: eye
+parties:
+  - nom: Radar
+    role: Distances et vitesses.
+  - nom: Caméra
+    role: Identifie les objets et les marquages.
+  - nom: Lidar
+    role: Une image en relief par laser.
+```
 
 ---
 
@@ -3672,7 +4131,19 @@ nécessaire. Les messages doivent également être authentifiés et protégés c
 - La technologie peut signaler un danger hors du champ visuel.
 - Elle complète les capteurs et dépend de la cybersécurité.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois volets du V2X
+centre: Véhicule connecté
+icone: wifi
+parties:
+  - nom: V2V
+    role: Entre véhicules.
+  - nom: V2I
+    role: Avec l'infrastructure.
+  - nom: V2P
+    role: Avec les piétons.
+```
 
 ---
 
@@ -3737,7 +4208,19 @@ batterie accidentée.
 - Le BMS ne remplace pas les protections physiques.
 - Une batterie accidentée doit être évaluée par des professionnels formés.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les protections d'une batterie de traction
+centre: Batterie de traction
+icone: battery
+parties:
+  - nom: BMS
+    role: Surveille et protège les cellules.
+  - nom: Protections physiques
+    role: Le BMS ne les remplace pas.
+  - nom: Après un accident
+    role: Évaluation par des professionnels formés.
+```
 
 ---
 
@@ -3801,7 +4284,18 @@ une forte pression.
 - L'hydrogène n'est pas automatiquement bas-carbone : tout dépend de sa production.
 - L'infrastructure limite encore les usages automobiles particuliers.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La voiture à hydrogène
+colonnes:
+  - titre: Atouts
+    points:
+      - Électricité produite à bord par la pile
+  - titre: Difficultés
+    points:
+      - Bas-carbone seulement selon la production de l'hydrogène
+      - Infrastructure encore limitée
+```
 
 ---
 
@@ -3866,7 +4360,15 @@ recharge au dépôt.
 - La charge utile est aussi importante que l'autonomie.
 - Les dépôts peuvent faciliter la recharge des flottes.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Choisir un utilitaire
+centre: Mission réelle
+parties:
+  - nom: Charge utile
+  - nom: Autonomie
+  - nom: Recharge au dépôt
+```
 
 ---
 
@@ -3931,7 +4433,18 @@ sur la seule motorisation.
 - Taille, poids et aérodynamique influencent leur efficacité.
 - Le choix d'un véhicule devrait être proportionné à l'usage réel.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le succès des SUV
+centre: SUV
+icone: car
+parties:
+  - nom: Technique
+  - nom: Commercial
+  - nom: Culturel
+  - nom: Le revers
+    role: Taille, poids et aérodynamique pèsent sur l'efficacité.
+```
 
 ---
 
@@ -3997,7 +4510,18 @@ véhicule électrique, hybride ou thermique.
 - La décote doit être intégrée au calcul.
 - Comparer par kilomètre aide à éviter les fausses bonnes affaires.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le coût total d'une voiture
+centre: Coût par kilomètre
+icone: coin
+parties:
+  - nom: Prix d'achat
+  - nom: Décote
+  - nom: Énergie
+  - nom: Assurance
+  - nom: Entretien
+```
 
 ---
 
@@ -4061,7 +4585,19 @@ VIN ou l'immatriculation auprès du constructeur permet de savoir si l'intervent
 - La traçabilité relie une pièce à une série de véhicules.
 - Il faut vérifier les rappels lors de l'achat d'occasion.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La chaîne d'un rappel
+elements:
+  - titre: Défaut identifié
+    texte: Après la commercialisation.
+  - titre: Traçabilité
+    texte: Une pièce reliée à une série de véhicules.
+  - titre: Rappel
+    texte: Les propriétaires sont prévenus.
+  - titre: Correction
+    texte: À vérifier lors d'un achat d'occasion.
+```
 
 ---
 
@@ -4124,7 +4660,18 @@ outils adaptés. Une réparation correcte inclut parfois une programmation ou un
 - Les véhicules modernes combinent mécanique, électricité et logiciel.
 - La compétence et l'outillage deviennent déterminants.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Un bon diagnostic
+elements:
+  - titre: Lire le code défaut
+  - titre: L'interpréter
+    texte: Il indique où chercher, pas forcément la pièce fautive.
+  - titre: Vérifier
+    texte: Mécanique, électricité et logiciel.
+  - titre: Réparer
+    texte: Plutôt que simplement effacer le code.
+```
 
 ---
 
@@ -4188,7 +4735,21 @@ permet de comprendre la trajectoire du véhicule plutôt que de regarder un seul
 - Le type de trajet influence l'usure.
 - L'historique d'entretien vaut mieux qu'une impression visuelle seule.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Âge ou kilométrage
+colonnes:
+  - titre: Kilométrage
+    points:
+      - Mesure l'usure par l'usage
+      - Le type de trajet compte
+  - titre: Âge
+    points:
+      - Mesure le vieillissement des matériaux
+  - titre: Le plus utile
+    points:
+      - L'historique d'entretien
+```
 
 ---
 
@@ -4251,7 +4812,18 @@ la gestion de la batterie. Le pilotage doit préserver une réserve pour le dép
 - Compatibilité et réglementation sont indispensables.
 - Le bénéfice doit être comparé à l'usure et à la perte de disponibilité.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La voiture comme batterie
+colonnes:
+  - titre: Ce que cela apporte
+    points:
+      - La voiture devient un élément du système électrique
+  - titre: Les conditions
+    points:
+      - Compatibilité et réglementation
+      - Bénéfice à comparer à l'usure
+```
 
 ---
 
@@ -4315,7 +4887,18 @@ point mort dans une situation inadaptée. La sécurité et la fluidité restent 
 - Vitesse, pneus, charge et climatisation influencent la consommation.
 - L'éco-conduite ne doit jamais dégrader la sécurité.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui influence la consommation
+centre: Consommation
+parties:
+  - nom: Anticipation
+    role: Souvent le geste le plus efficace.
+  - nom: Vitesse
+  - nom: Pression des pneus
+  - nom: Charge
+  - nom: Climatisation
+```
 
 ---
 
@@ -4379,7 +4962,18 @@ doit tenir compte des besoins des résidents et des personnes à mobilité rédu
 - Le stationnement influence la circulation et les choix de transport.
 - L'aménagement urbain peut changer les comportements sans changer les voitures.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La voiture et l'espace urbain
+centre: Voiture en ville
+parties:
+  - nom: Espace
+    role: Consommé même à l'arrêt.
+  - nom: Stationnement
+    role: Il influence circulation et choix de transport.
+  - nom: Aménagement
+    role: Il change les comportements.
+```
 
 ---
 
@@ -4443,7 +5037,18 @@ réduire la récupération. Les freins à friction restent indispensables pour i
 - Il réduit l'usage des plaquettes.
 - Il ne supprime pas le système de freinage classique.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Freinage régénératif et freins classiques
+colonnes:
+  - titre: Freinage régénératif
+    points:
+      - Récupère une partie de l'énergie
+      - Use moins les plaquettes
+  - titre: Freins classiques
+    points:
+      - Toujours nécessaires
+```
 
 ---
 
@@ -4507,7 +5112,20 @@ raisonnablement la température limite la perte d'autonomie.
 - La pompe à chaleur est plus efficace qu'une résistance dans certaines conditions.
 - Le préconditionnement branché économise la batterie de traction.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Chauffer une voiture électrique
+colonnes:
+  - titre: Résistance
+    points:
+      - Simple, mais gourmande
+  - titre: Pompe à chaleur
+    points:
+      - Plus efficace dans certaines conditions
+  - titre: Préconditionnement branché
+    points:
+      - Préserve la batterie de traction
+```
 
 ---
 
@@ -4570,7 +5188,16 @@ restent accessibles sans détourner longuement les yeux de la route.
 - La fatigue réduit la capacité à détecter et corriger une erreur.
 - Une interface trop complexe peut annuler une partie du bénéfice technologique.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Confort et sécurité au volant
+centre: Conducteur
+parties:
+  - nom: Fatigue
+    role: Elle réduit la capacité à détecter et corriger une erreur.
+  - nom: Interface
+    role: Trop complexe, elle annule une partie des bénéfices.
+```
 
 ---
 
@@ -4633,7 +5260,18 @@ technologies embarquées. Aucune caméra ne compense un environnement routier ma
 - La sécurité des usagers vulnérables combine véhicule et infrastructure.
 - Le conducteur doit rester attentif aux zones peu visibles.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Protéger les usagers vulnérables
+centre: Piétons et cyclistes
+parties:
+  - nom: Vitesse
+    role: Déterminante pour la gravité d'un choc.
+  - nom: Conception du véhicule
+  - nom: Aménagement de la ville
+  - nom: Attention du conducteur
+    role: Surtout dans les zones peu visibles.
+```
 
 ---
 
@@ -4698,7 +5336,18 @@ le réduire.
 - Les restrictions influencent le marché de l'occasion.
 - L'accompagnement et les alternatives déterminent l'acceptabilité.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les effets d'une zone à faibles émissions
+centre: ZFE
+parties:
+  - nom: Air local
+    role: Elle agit sur les véhicules qui circulent.
+  - nom: Marché de l'occasion
+    role: Les restrictions le modifient.
+  - nom: Acceptabilité
+    role: Elle dépend de l'accompagnement et des alternatives.
+```
 
 ---
 
@@ -4762,7 +5411,17 @@ réemploi et recyclage agissent ensemble. Aucun levier unique ne suffit.
 - Raffinage et fabrication sont aussi stratégiques que l'extraction.
 - Sobriété, substitution et recyclage réduisent les risques.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du minerai au composant
+elements:
+  - titre: Extraction
+  - titre: Raffinage
+    texte: Aussi stratégique que l'extraction.
+  - titre: Fabrication
+  - titre: Recyclage
+    icone: recycle
+```
 
 ---
 
@@ -4826,7 +5485,18 @@ les modèles dans un protocole connu.
 - Les étoiles combinent plusieurs dimensions de sécurité.
 - Aucun test ne couvre toutes les situations réelles.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les essais de collision
+colonnes:
+  - titre: Ce qu'ils apportent
+    points:
+      - Une comparaison standardisée
+      - Des étoiles qui combinent plusieurs dimensions
+  - titre: Leur limite
+    points:
+      - Aucun test ne couvre toutes les situations réelles
+```
 
 ---
 
@@ -4888,7 +5558,17 @@ une voiture démontable améliore la récupération et réduit les pertes.
 - Le tri détermine la qualité des métaux récupérés.
 - La conception influence directement la fin de vie.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La fin de vie d'une carrosserie
+elements:
+  - titre: Réemploi
+    texte: Des pièces réutilisées.
+  - titre: Tri
+    texte: Il détermine la qualité des métaux.
+  - titre: Recyclage matière
+    icone: recycle
+```
 
 ---
 
@@ -4952,7 +5632,18 @@ d'années.
 - Kilométrage et restitution sont essentiels.
 - Achat et location répartissent différemment le risque financier.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Louer ou acheter
+colonnes:
+  - titre: Location longue durée
+    points:
+      - Un loyer n'est pas un coût total
+      - Kilométrage et restitution sont essentiels
+  - titre: Achat
+    points:
+      - Le propriétaire porte le risque de décote
+```
 
 ---
 
@@ -5015,8 +5706,17 @@ constructeurs, applications et assureurs.
 - La transparence et la minimisation des données sont essentielles.
 - La cybersécurité ne remplace pas la protection de la vie privée.
 
-[Emplacement image : illustration du sujet, légende et texte alternatif à fournir ultérieurement.]
-
+```schema
+type: systeme
+titre: Les données de la voiture connectée
+centre: Données
+parties:
+  - nom: Habitudes révélées
+    role: Trajets, horaires, conduite.
+  - nom: Transparence
+  - nom: Minimisation
+    role: Ne collecter que le nécessaire.
+```
 
 ---
 type: article
@@ -5556,6 +6256,20 @@ Plus l'usine produit vite, moins chaque voiture coûte cher. La Ford T valait 85
 Le travail à la chaîne avait un défaut : des gestes répétés toute la journée, à un rythme imposé. Beaucoup d'ouvriers démissionnaient.
 
 Plus de 15 millions de Ford T ont été fabriquées jusqu'en 1927. La chaîne de montage s'est ensuite répandue dans le monde entier et dans d'autres industries.
+
+```schema
+type: comparaison
+titre: Avant et après la chaîne mobile de 1913
+colonnes:
+  - titre: Avant
+    points:
+      - Les ouvriers se déplacent autour de la voiture
+  - titre: Chaîne mobile
+    points:
+      - La voiture avance devant des ouvriers immobiles
+      - Chacun répète la même tâche
+      - Idée venue des abattoirs de Chicago
+```
 
 ## À retenir
 
@@ -6603,6 +7317,18 @@ Ensuite, on fait réagir cette huile avec un alcool, le plus souvent du méthano
 Le biodiesel peut être utilisé pur. On l'appelle alors B100. Le plus souvent, il est mélangé au gazole ordinaire. Le chiffre après la lettre B indique la part de biocarburant : B7 contient 7 % de biodiesel, B30 en contient 30 %.
 
 Utiliser des huiles usagées a un avantage. Le carburant vient d'un déchet, et non de plantes cultivées exprès, comme le colza ou le palmier à huile. Mais la quantité d'huile usagée disponible reste limitée. Elle sert aussi à fabriquer du savon, des cosmétiques ou de la nourriture pour animaux.
+
+```schema
+type: etapes
+titre: De l'huile de friture au biodiesel
+elements:
+  - titre: Collecter et filtrer
+  - titre: Transestérification
+    texte: L'huile réagit avec un alcool.
+  - titre: Séparer la glycérine
+  - titre: Biodiesel
+    texte: Un carburant pour moteurs diesel.
+```
 
 ## À retenir
 
@@ -7881,6 +8607,19 @@ Le moteur porte le nom de l'ingénieur allemand Rudolf Diesel. Il l'a mis au poi
 
 La première voiture de série à moteur diesel est la Citroën Rosalie de 1933. Le diesel consomme moins de carburant qu'un moteur à essence. Mais il rejette des particules de suie et des oxydes d'azote, qui polluent l'air. En France, la part des voitures neuves diesel est passée de 77 % en 2008 à 17,3 % en 2022.
 
+```schema
+type: etapes
+titre: L'allumage d'un diesel
+elements:
+  - titre: Compression de l'air seul
+    texte: L'air devient brûlant.
+  - titre: Injection
+    texte: Le gazole est pulvérisé.
+  - titre: Auto-inflammation
+    texte: Sans bougie d'allumage.
+    icone: fire
+```
+
 ## À retenir
 
 - Un moteur diesel n'a pas de bougie d'allumage : le gazole s'enflamme tout seul dans l'air très comprimé.
@@ -8763,6 +9502,18 @@ L'équipementier allemand Bosch a développé l'ESP avec Mercedes-Benz. Il est a
 
 Une étude américaine de 2006 estime que l'ESP réduit de 43 % le risque d'accident mortel. L'Union européenne l'impose sur toutes les voitures neuves immatriculées depuis le 1er novembre 2014.
 
+```schema
+type: etapes
+titre: Comment l'ESP corrige un dérapage
+elements:
+  - titre: Mesurer
+    texte: Angle du volant, vitesse des roues, rotation de la voiture.
+  - titre: Comparer
+    texte: Direction voulue et direction réelle.
+  - titre: Freiner une roue
+    texte: Pour remettre la voiture dans l'axe.
+```
+
 ## À retenir
 
 - L'ESP compare la direction voulue par le conducteur et la direction réelle de la voiture.
@@ -9234,6 +9985,19 @@ L'ingénieur autrichien Béla Barényi a inventé ce principe en 1937. Il l'a br
 
 Une étude britannique sur les dégâts des voitures accidentées a compté 65 % de chocs à l'avant et 25 % à l'arrière. C'est pourquoi les principales zones de déformation se trouvent à ces deux endroits. Volvo a ajouté une protection contre les chocs latéraux au début des années 1990.
 
+```schema
+type: comparaison
+titre: Mou dehors, dur dedans
+colonnes:
+  - titre: Avant et arrière
+    points:
+      - S'écrasent et absorbent l'énergie
+      - Font durer le choc plus longtemps
+  - titre: Cellule de survie
+    points:
+      - L'habitacle reste rigide
+```
+
 ## À retenir
 
 - L'avant et l'arrière d'une voiture sont conçus pour s'écraser et absorber l'énergie d'un choc.
@@ -9347,6 +10111,18 @@ En 1975, l'ingénieur René Pouget a breveté pour PSA une ceinture à enrouleur
 ## Une obligation progressive en France
 
 En France, le port de la ceinture est devenu obligatoire hors agglomération en juillet 1973. La règle a été étendue aux villes en 1979. Depuis janvier 1990, les passagers arrière doivent aussi s'attacher.
+
+```schema
+type: etapes
+titre: Le blocage de la ceinture
+elements:
+  - titre: Sangle tirée trop vite
+    texte: Ou freinage brutal.
+  - titre: Mécanisme à inertie
+    texte: Il réagit au mouvement brusque.
+  - titre: Enrouleur bloqué
+    texte: Le corps est retenu au bassin, à la poitrine et à l'épaule.
+```
 
 ## À retenir
 
@@ -12496,6 +13272,17 @@ L'hybridation légère coûte moins cher qu'un système hybride complet. Elle pr
 
 Certains journalistes critiquent le mot « hybride » pour ces voitures. Elles ne roulent jamais à l'électricité seule. Leur baisse de pollution est faible, et la présenter comme un grand progrès pour l'environnement peut tromper les acheteurs.
 
+```schema
+type: systeme
+titre: L'hybride légère
+centre: Alterno-démarreur
+parties:
+  - nom: Démarrer le moteur
+  - nom: Produire de l'électricité
+  - nom: Aider le moteur thermique
+    role: Sans jamais faire rouler la voiture seul.
+```
+
 ## À retenir
 
 - Une hybride légère a un petit moteur électrique qui aide le moteur thermique sans jamais faire rouler la voiture seul.
@@ -13555,6 +14342,19 @@ Ces systèmes ont des limites. Le freinage seul permet surtout d'éviter un choc
 Honda a lancé en 2003 le premier système de freinage autonome d'urgence à radar, sur son modèle Inspire. Volvo l'a monté de série sur son XC60 en 2008.
 
 Dans l'Union européenne, le règlement 2019/2144 l'a rendu obligatoire en deux étapes. Il l'est depuis le 6 juillet 2022 pour les nouveaux modèles. Il l'est depuis le 7 juillet 2024 pour toutes les voitures neuves. Le Japon l'impose depuis 2020.
+
+```schema
+type: etapes
+titre: Le freinage d'urgence automatique
+elements:
+  - titre: Surveiller
+    texte: Radar, caméra, parfois lidar.
+    icone: eye
+  - titre: Avertir
+    texte: Le conducteur est prévenu.
+  - titre: Freiner
+    texte: Si le conducteur ne réagit pas.
+```
 
 ## À retenir
 
@@ -15234,6 +16034,20 @@ L'usure des freins rejette aussi de fines poussières dans l'air. Ces particules
 
 L'ingénieur anglais Frederick Lanchester a breveté un frein à disque pour automobile en 1902. Ses plaquettes en cuivre s'usaient trop vite sur les routes poussiéreuses de l'époque. Jaguar a perfectionné le frein à disque dans les années 1950, pour la course. La Citroën DS a été en 1955 la première voiture de série avec des freins à disque à l'avant. Aujourd'hui, toutes les voitures en ont à l'avant. Certaines petites voitures gardent des freins à tambour à l'arrière.
 
+```schema
+type: etapes
+titre: De la pédale à la roue
+elements:
+  - titre: Pédale
+  - titre: Liquide sous pression
+  - titre: Pistons de l'étrier
+  - titre: Plaquettes
+    texte: Elles serrent le disque qui tourne avec la roue.
+  - titre: Chaleur
+    texte: Le mouvement est transformé en chaleur.
+    icone: fire
+```
+
 ## À retenir
 
 - Un frein à disque serre un disque qui tourne avec la roue entre deux plaquettes.
@@ -16374,6 +17188,22 @@ En 1905, l'ingénieur suisse Alfred Büchi a déposé en Allemagne un brevet qui
 
 Aujourd'hui, grâce au turbo, un moteur de petite taille peut fournir plus de puissance qu'un moteur de même taille sans turbo.
 
+```schema
+type: etapes
+titre: Le turbocompresseur
+elements:
+  - titre: Gaz d'échappement
+    texte: Ils entraînent la turbine.
+  - titre: Axe commun
+    texte: La turbine fait tourner le compresseur.
+  - titre: Compresseur
+    texte: Il pousse l'air sous pression.
+  - titre: Intercooler
+    texte: Il refroidit l'air comprimé.
+  - titre: Cylindres
+    texte: Plus d'air, plus de carburant brûlé.
+```
+
 ## À retenir
 
 - Un turbocompresseur pousse de l'air sous pression dans les cylindres pour que le moteur brûle plus de carburant.
@@ -16468,6 +17298,20 @@ Le système de gestion de la batterie limite la puissance pour protéger la batt
 
 Plusieurs standards de prises coexistent : le CCS, très répandu en Europe et en Amérique du Nord, le CHAdeMO, d'origine japonaise, le GB/T chinois et la prise de Tesla.
 
+```schema
+type: comparaison
+titre: Recharge en courant alternatif ou continu
+colonnes:
+  - titre: Courant alternatif
+    points:
+      - Le chargeur embarqué convertit le courant
+      - Recharge lente ou accélérée
+  - titre: Courant continu
+    points:
+      - La borne envoie le courant directement à la batterie
+      - Recharge rapide
+```
+
 ## À retenir
 
 - En recharge sur courant alternatif, c'est le chargeur embarqué de la voiture qui transforme le courant du réseau en courant continu pour la batterie.
@@ -16552,6 +17396,19 @@ Une roue bloquée ne dirige plus la voiture ; grâce à l'ABS, le conducteur peu
 ## D'où vient l'ABS ?
 
 L'idée vient de l'aviation : des systèmes antidérapants ont d'abord équipé de gros avions, avant les voitures. En 1978, Mercedes-Benz lance les premières voitures de série dotées d'un ABS électronique sur les quatre roues, mis au point avec Bosch. Dans l'Union européenne, l'ABS est obligatoire sur les voitures neuves.
+
+```schema
+type: cycle
+titre: La boucle de l'ABS
+elements:
+  - titre: Freinage fort
+  - titre: Roue près du blocage
+    texte: Détectée par les capteurs.
+  - titre: Pression réduite
+    texte: Un instant, sur cette roue.
+  - titre: La roue retourne
+    texte: Le conducteur garde la direction.
+```
 
 ## À retenir
 
@@ -16641,6 +17498,19 @@ Certaines voitures, comme la Chevrolet Bolt, permettent la conduite à une seule
 
 On retrouve ce principe dans les voitures électriques et hybrides, les trains électriques, les ascenseurs et les vélos électriques. La Formule 1 utilise ce principe avec des systèmes de récupération d'énergie cinétique, d'abord appelés KERS, puis MGU-K.
 
+```schema
+type: etapes
+titre: Récupérer l'énergie au freinage
+elements:
+  - titre: Lever le pied
+  - titre: Moteur en génératrice
+    texte: Il transforme le mouvement en électricité.
+    icone: bolt
+  - titre: Batterie
+    texte: L'électricité y est stockée.
+    icone: battery
+```
+
 ## À retenir
 
 - Au freinage, le moteur électrique devient génératrice : il transforme l'énergie de mouvement en électricité, au lieu de la perdre en chaleur.
@@ -16729,6 +17599,21 @@ Jusqu'au niveau 2, c'est le conducteur qui surveille la route ; à partir du niv
 
 Les voitures autonomes utilisent des lidars, des radars, des caméras, le GPS et des capteurs à ultrasons.
 
+```schema
+type: comparaison
+titre: Qui surveille la route
+legende: Selon la norme SAE J3016.
+colonnes:
+  - titre: Niveaux 0 à 2
+    points:
+      - Le conducteur surveille en permanence
+      - Au niveau 2, le système gère direction et vitesse
+  - titre: Niveaux 3 à 5
+    points:
+      - Le système conduit dans son domaine d'emploi
+      - Au niveau 5, partout
+```
+
 ## À retenir
 
 - Les niveaux d'autonomie viennent d'une norme de l'association américaine SAE, la J3016, utilisée dans le monde entier par les constructeurs et les autorités.
@@ -16814,6 +17699,19 @@ Les aimants les plus puissants du commerce sont les aimants au néodyme, un alli
 ## Des terres rares pas si rares
 
 Les terres rares forment un groupe d'éléments qui comprend le scandium, l'yttrium et les lanthanides, des métaux gris argenté, mous et réactifs. Malgré leur nom, les terres rares sont relativement abondantes dans l'écorce terrestre. La Chine domine la fabrication de ces aimants et le raffinage des terres rares.
+
+```schema
+type: etapes
+titre: Le moteur à aimants
+elements:
+  - titre: Stator
+    texte: Le courant triphasé crée un champ tournant.
+  - titre: Aimants au néodyme
+    texte: Les plus puissants du commerce.
+    icone: magnet
+  - titre: Rotor
+    texte: Il suit le champ et fait tourner les roues.
+```
 
 ## À retenir
 
@@ -16902,6 +17800,19 @@ Une voiture en autopartage remplace plusieurs voitures individuelles et libère 
 ## Les limites
 
 En France, le conducteur ne doit pas faire de bénéfice : il ne peut demander que le partage des frais du trajet. Malgré les politiques de promotion, le nombre moyen de personnes par voiture reste faible en France. BlaBlaCar est la grande plateforme de covoiturage longue distance.
+
+```schema
+type: comparaison
+titre: Autopartage ou covoiturage
+colonnes:
+  - titre: Autopartage
+    points:
+      - La même voiture, l'un après l'autre
+      - En boucle, en trace directe ou entre particuliers
+  - titre: Covoiturage
+    points:
+      - Ensemble, dans la même voiture
+```
 
 ## À retenir
 
@@ -16992,6 +17903,19 @@ Le cycle comporte quatre phases, à vitesse faible, moyenne, élevée puis très
 
 Pour les voitures électriques, l'autonomie annoncée avec le WLTP est plus basse que celle qui était annoncée avec le NEDC. Les chiffres de consommation et d'émissions sont en général plus élevés avec le WLTP qu'avec le NEDC : le test est plus réaliste, mais les voitures ne consomment pas plus qu'avant. L'autonomie réelle peut rester inférieure à l'autonomie WLTP, surtout sur autoroute à vitesse élevée ; le style de conduite, le relief et la météo jouent aussi.
 
+```schema
+type: comparaison
+titre: Autonomie annoncée et autonomie réelle
+colonnes:
+  - titre: WLTP
+    points:
+      - Procédure d'essai en laboratoire
+      - Obligatoire dans l'Union européenne depuis 2018
+  - titre: Route réelle
+    points:
+      - Vitesse, froid et chauffage réduisent l'autonomie
+```
+
 ## À retenir
 
 - Le WLTP est une procédure d'essai mondiale qui sert à mesurer la consommation et les émissions de CO2 et de polluants des voitures.
@@ -17076,6 +18000,19 @@ Les mises à jour à distance, dites OTA pour over the air, ajoutent des fonctio
 ## Des risques à maîtriser
 
 Plus la voiture est connectée, plus le risque d'attaque informatique augmente : la cybersécurité devient un enjeu majeur. Quand un logiciel change le comportement d'une voiture déjà vendue, des questions de responsabilité et de réglementation se posent.
+
+```schema
+type: comparaison
+titre: Voiture classique ou définie par logiciel
+colonnes:
+  - titre: Classique
+    points:
+      - De nombreux petits calculateurs, un par fonction
+  - titre: Définie par logiciel
+    points:
+      - Fonctions commandées et améliorées par logiciel
+      - Mises à jour comme sur un téléphone
+```
 
 ## À retenir
 
@@ -17163,6 +18100,19 @@ Le lithium peut former des dendrites, des filaments métalliques qui traversent 
 
 Des batteries à électrolyte solide existent déjà, par exemple dans les stimulateurs cardiaques et certains objets portables. Malgré les annonces de constructeurs comme Toyota, Honda et QuantumScape, ces batteries n'ont pas encore atteint l'échelle industrielle et commerciale.
 
+```schema
+type: comparaison
+titre: Électrolyte liquide ou solide
+colonnes:
+  - titre: Liquide ou gélifié
+    points:
+      - Batteries actuelles
+  - titre: Solide
+    points:
+      - Plus d'énergie dans le même espace, en théorie
+      - Encore des obstacles à la production
+```
+
 ## À retenir
 
 - Une batterie à électrolyte solide utilise un électrolyte solide entre l'anode et la cathode, à la place de l'électrolyte liquide ou gélifié des batteries classiques.
@@ -17247,6 +18197,19 @@ Un airbag complète la ceinture de sécurité, il ne la remplace pas : son effic
 ## Des limites à connaître
 
 Un airbag ne se déclenche qu'une fois : après un choc, il doit être remplacé. Un airbag frontal ne protège pas lors d'un choc latéral : des airbags latéraux existent pour cela.
+
+```schema
+type: etapes
+titre: Du choc au coussin gonflé
+elements:
+  - titre: Accéléromètres
+    texte: Ils détectent la décélération brutale.
+  - titre: Calculateur
+    texte: Il décide si le seuil est dépassé.
+    icone: chip
+  - titre: Générateur de gaz
+    texte: Il gonfle le coussin.
+```
 
 ## À retenir
 
@@ -17335,6 +18298,21 @@ Euro 7 est la première norme au monde à encadrer les particules émises par le
 ## Un calendrier par étapes
 
 Le règlement Euro 7 a été adopté en 2024. Euro 7 s'applique par étapes : d'abord aux nouveaux modèles de voitures et de camionnettes, puis à tous les véhicules neufs, puis aux camions et aux bus.
+
+```schema
+type: comparaison
+titre: Ce que limitent les normes Euro
+colonnes:
+  - titre: Normes précédentes
+    points:
+      - Oxydes d'azote
+      - Monoxyde de carbone
+      - Hydrocarbures et particules
+  - titre: Ce qu'Euro 7 ajoute
+    points:
+      - Les particules des freins
+      - L'usure des pneus
+```
 
 ## À retenir
 

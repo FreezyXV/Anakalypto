@@ -82,7 +82,7 @@ const systeme = z.object({
   centre: short(60),
   icone: icon,
   parties: z
-    .array(z.object({ nom: short(60), role: short(200), icone: icon }))
+    .array(z.object({ nom: short(60), role: short(200).optional(), icone: icon }))
     .min(2)
     .max(12),
 });
