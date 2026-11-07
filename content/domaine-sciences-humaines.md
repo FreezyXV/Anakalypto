@@ -306,8 +306,18 @@ extrait d'un minuscule fragment osseux, avant même de disposer de fossiles comp
 - L'hypothèse d'un comportement funéraire intentionnel reste débattue.
 - L'ADN ancien a révélé des croisements entre populations humaines.
 
-[Emplacement image : buisson des espèces humaines et leurs périodes de coexistence, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'évolution humaine, une ligne ou un buisson
+colonnes:
+  - titre: L'image ancienne
+    points:
+      - Une ligne droite d'ancêtres
+  - titre: Ce que l'on sait aujourd'hui
+    points:
+      - Plusieurs espèces humaines ont coexisté
+      - Homo naledi vivait il y a environ 250 000 ans
+```
 
 ---
 
@@ -424,8 +434,15 @@ questions du siècle actuel.
 - Cette croissance vient de la chute de la mortalité, pas d'une hausse de la natalité.
 - Le XXe siècle a produit à la fois les plus grands progrès et les pires destructions.
 
-[Emplacement image : évolution de la population mondiale et de l'espérance de vie depuis 1800,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Deux siècles qui ont tout changé
+chiffres:
+  - valeur: "× 8"
+    texte: la population mondiale en deux siècles
+  - valeur: Énergie fossile
+    texte: elle a multiplié la puissance disponible par personne
+```
 
 ---
 
@@ -543,8 +560,18 @@ Ce n'est pas une faiblesse. C'est la marque d'une discipline vivante.
 - Le croisement de sources indépendantes renforce une conclusion.
 - Les populations sans écriture ne sont connues que par ce que d'autres ont écrit d'elles.
 
-[Emplacement image : croisement de sources différentes sur un même événement, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La méthode de l'historien
+elements:
+  - titre: Trouver les traces
+    texte: Toujours partielles.
+  - titre: Critiquer chaque source
+    texte: Auteur, destinataire, but.
+  - titre: Croiser les sources
+  - titre: Éviter l'anachronisme
+  - titre: Réviser si besoin
+```
 
 ---
 
@@ -657,8 +684,21 @@ santé — ou en corrigent le résultat.
 - Un bien sans substitut peut voir son prix monter sans que la demande baisse.
 - Un marché alloue selon la capacité à payer, ce qui ne dit rien de la justice.
 
-[Emplacement image : croisement des courbes d'offre et de demande, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'offre et la demande
+legende: Le prix s'établit là où elles se rencontrent.
+colonnes:
+  - titre: Demande
+    points:
+      - Diminue quand le prix monte
+  - titre: Offre
+    points:
+      - Augmente quand le prix monte
+  - titre: Élasticité
+    points:
+      - La réaction de la demande à une variation de prix
+```
 
 ---
 
@@ -773,8 +813,16 @@ l'un se prend davantage sur l'autre.
 - Il ignore le travail non rémunéré et la dégradation de l'environnement.
 - Une croissance faible durcit les arbitrages politiques.
 
-[Emplacement image : croissance comparée des économies avancées et émergentes, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Croissance mondiale annuelle
+unite: "%"
+valeurs:
+  - label: Moyenne avant 2020
+    valeur: 3.7
+  - label: Projection récente
+    valeur: 3.2
+```
 
 ---
 
@@ -892,8 +940,18 @@ l'activité.
 - Elle pénalise les revenus fixes et les épargnants, et avantage les emprunteurs.
 - La déflation est plus dangereuse encore, car elle s'auto-entretient.
 
-[Emplacement image : composition du panier de mesure de l'inflation, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'inflation
+centre: Hausse générale des prix
+parties:
+  - nom: Mesure
+    role: Sur un panier moyen.
+  - nom: Écart avec le ressenti
+    role: Chacun a son propre panier.
+  - nom: Gagnants et perdants
+  - nom: Cible de 2 %
+```
 
 ---
 
@@ -1014,8 +1072,18 @@ chiffres et de savoir lesquels.
 - Il faut toujours préciser si l'on parle avant ou après redistribution.
 - Les services publics gratuits sont un revenu en nature rarement compté.
 
-[Emplacement image : répartition du revenu et du patrimoine comparée, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Revenu ou patrimoine
+colonnes:
+  - titre: Revenu
+    points:
+      - Un flux, chaque année
+  - titre: Patrimoine
+    points:
+      - Un stock accumulé
+      - Bien plus inégalement réparti
+```
 
 ---
 
@@ -1134,8 +1202,20 @@ Et dormir, car c'est pendant le sommeil que la consolidation s'effectue.
 - La confiance d'un témoin ne garantit pas l'exactitude de son souvenir.
 - Se tester et espacer les révisions sont les deux méthodes les plus efficaces.
 
-[Emplacement image : les trois systèmes de mémoire et leurs durées, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois mémoires
+colonnes:
+  - titre: Sensorielle
+    points:
+      - Très brève
+  - titre: De travail
+    points:
+      - Quelques éléments à la fois
+  - titre: À long terme
+    points:
+      - Se souvenir, c'est reconstruire
+```
 
 ---
 
@@ -1257,8 +1337,18 @@ Mais le cadre général — un enfant qui pense autrement et non simplement moin
 - La conservation des quantités apparaît vers sept ans.
 - La théorie de l'esprit, vers quatre ou cinq ans, fonde la vie sociale.
 
-[Emplacement image : expérience de conservation des quantités avec deux verres, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Quelques étapes du développement de la pensée
+evenements:
+  - date: Première année
+    titre: Permanence de l'objet
+  - date: Ensuite
+    titre: Conservation
+    texte: Comprendre que la quantité d'eau ne change pas avec le verre.
+  - date: Plus tard
+    titre: Comprendre que les autres pensent autrement
+```
 
 ---
 
@@ -1384,8 +1474,19 @@ tatillonnes, c'est un dispositif construit pour limiter ces biais.
 - Le biais de disponibilité fait surestimer les risques spectaculaires.
 - On s'en protège par des méthodes, pas par la seule bonne volonté.
 
-[Emplacement image : principaux biais cognitifs et situations où ils se déclenchent, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Quelques biais cognitifs
+centre: Raccourcis mentaux
+icone: brain
+parties:
+  - nom: Biais de confirmation
+    role: Chercher ce qui nous donne raison.
+  - nom: Biais de disponibilité
+    role: Juger selon ce qui vient en tête.
+  - nom: Ancrage
+    role: Le premier chiffre influence la suite.
+```
 
 ---
 
@@ -1501,8 +1602,18 @@ procédures et la possibilité de dire non.
 - Un seul allié suffit à faire chuter la conformité.
 - La situation explique souvent davantage un comportement que la personnalité.
 
-[Emplacement image : dispositif de l'expérience de conformité sur les lignes, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce qui fait céder au groupe
+centre: Conformité
+parties:
+  - nom: L'unanimité
+    role: Elle compte beaucoup.
+  - nom: La taille du groupe
+    role: Elle compte peu.
+  - nom: Un seul allié
+    role: Il suffit à résister.
+```
 
 ---
 
@@ -1626,8 +1737,17 @@ minoritaires, et en faire le modèle général masque le fonctionnement d'ensemb
 - Le capital culturel désigne des ressources invisibles transmises par la famille.
 - Traiter tous les élèves identiquement avantage ceux qui ont déjà les codes.
 
-[Emplacement image : lien entre origine sociale et performance scolaire selon les pays, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'école et la reproduction sociale
+centre: Réussite scolaire
+parties:
+  - nom: Origine sociale
+    role: Elle prédit fortement la réussite.
+  - nom: Capital culturel
+  - nom: Systèmes scolaires
+    role: L'ampleur varie, ce n'est pas une fatalité.
+```
 
 ---
 
@@ -1758,8 +1878,18 @@ spécialisé, du commerce et, à terme, des premières civilisations organisées
 - Le surplus alimentaire produit a permis l'apparition de l'artisanat, du commerce et des
   premières civilisations.
 
-[Emplacement image : scène illustrant le passage de la cueillette à la culture organisée de
-céréales dans le Croissant fertile, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La révolution néolithique
+legende: Elle débute vers 10 000 avant notre ère dans le Croissant fertile.
+elements:
+  - titre: Cueillette et chasse
+  - titre: Culture des plantes
+    icone: wheat
+  - titre: Domestication des animaux
+  - titre: Sédentarisation
+    icone: house
+```
 
 ---
 
@@ -1874,8 +2004,17 @@ fabriquer des outils coupants utiles en l'absence de métal disponible.
   dure.
 - Cette compétence ancienne reste reproductible aujourd'hui avec des moyens simples.
 
-[Emplacement image : séquence de taille d'un silex, du bloc brut à l'éclat tranchant obtenu,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'évolution des outils de pierre
+elements:
+  - titre: Galets aménagés
+    texte: Les premiers outils, simples.
+  - titre: Bifaces
+  - titre: Éclats préparés
+  - titre: Lames fines
+    texte: Un sommet de technique.
+```
 
 ---
 
@@ -2073,8 +2212,15 @@ premières institutions d'intégration européenne dans les décennies suivantes
 - Il a posé les bases d'une coopération économique européenne durable au-delà de la seule
   reconstruction immédiate.
 
-[Emplacement image : ville européenne en reconstruction après-guerre avec des grues et des
-échafaudages visibles, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le plan Marshall
+elements:
+  - titre: Europe dévastée
+  - titre: Proposition de George Marshall
+  - titre: Aide financière massive
+  - titre: Reconstruction coordonnée
+```
 
 ---
 
@@ -2243,9 +2389,17 @@ disponibles.
 - Se reconstruire après un effondrement passe souvent par une simplification temporaire avant une
   nouvelle complexité.
 
-[Emplacement image : ruines d'une ancienne cité, comme celles de Rome ou d'une cité maya,
-symbolisant l'effondrement d'une civilisation, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: comparaison
+titre: Deux explications de l'effondrement
+colonnes:
+  - titre: Joseph Tainter
+    points:
+      - Rendements décroissants de la complexité
+  - titre: Jared Diamond
+    points:
+      - Épuisement des ressources locales
+```
 
 ---
 
@@ -2381,8 +2535,15 @@ partenaires pour tout ce que l'on ne produit plus soi-même.
 - Une spécialisation trop poussée peut aussi créer des vulnérabilités et des dépendances
   risquées.
 
-[Emplacement image : atelier illustrant plusieurs ouvriers spécialisés dans des étapes distinctes
-d'une même chaîne de fabrication, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La manufacture d'épingles d'Adam Smith, 1776
+elements:
+  - titre: Découper la fabrication
+  - titre: Chacun se spécialise
+  - titre: Les gestes deviennent rapides
+  - titre: La production explose
+```
 
 ---
 
@@ -2533,8 +2694,21 @@ comme le faisaient déjà les marchands du Moyen Âge.
 - Cet équilibre permanent permet de détecter facilement les erreurs de saisie.
 - Un simple carnet suffit à appliquer ce principe sans aucun outil informatique.
 
-[Emplacement image : registre comptable ancien montrant des colonnes équilibrées de débit et de
-crédit, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: La partie double
+legende: Chaque opération est inscrite dans au moins deux comptes.
+colonnes:
+  - titre: Débit
+    points:
+      - Un compte reçoit
+  - titre: Crédit
+    points:
+      - Un compte donne
+  - titre: Équilibre
+    points:
+      - Débits et crédits sont toujours égaux
+```
 
 ---
 
@@ -2647,8 +2821,20 @@ cette même évolution vers des échanges toujours plus rapides et moins encombr
 - La monnaie papier, apparue en Chine, a ouvert la voie à des formes d'échange toujours plus
   légères, jusqu'à la monnaie numérique.
 
-[Emplacement image : évolution de la monnaie, du troc de biens aux premières pièces métalliques
-frappées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Du troc à la monnaie
+evenements:
+  - date: Troc
+    titre: Double coïncidence des besoins
+  - date: Monnaie marchandise
+    titre: Sel, coquillages, bétail
+  - date: Métaux
+    titre: Or et argent
+  - date: Pièces frappées
+    titre: Une valeur garantie
+    icone: coin
+```
 
 ---
 
@@ -3418,9 +3604,19 @@ ressources : des règles claires et partagées collectivement suffisent souvent.
 - Ces principes sont directement utiles pour organiser le partage de ressources vitales après une
   crise.
 
-[Emplacement image : communauté villageoise se réunissant pour discuter des règles de partage
-d'une ressource commune comme un pâturage ou un point d'eau, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les biens communs selon Elinor Ostrom
+colonnes:
+  - titre: La prédiction
+    points:
+      - Tragédie des biens communs
+      - Épuisement inévitable
+  - titre: Les observations de terrain
+    points:
+      - Des communautés gèrent durablement leurs ressources
+      - Grâce à des règles partagées
+```
 
 ---
 
@@ -3572,8 +3768,18 @@ savoir-faire ne se perde pas avec la disparition d'une seule personne qui le dé
   l'apprentissage pratique et oral.
 - Combiner ces méthodes protège une communauté contre la perte de savoir-faire essentiels.
 
-[Emplacement image : artisan montrant un geste technique à un jeune apprenti, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les façons de transmettre les savoirs
+centre: Savoirs
+icone: book
+parties:
+  - nom: Tradition orale
+  - nom: Compagnonnage
+    role: Apprendre en faisant.
+  - nom: Écriture
+    role: Une mémoire au-delà d'une vie.
+```
 
 ---
 
@@ -5596,6 +5802,20 @@ Après environ 50 000 ans, il reste trop peu de carbone 14 pour le mesurer corre
 
 Enfin, la quantité de carbone 14 dans l'air n'a pas toujours été la même. Les scientifiques corrigent donc leurs résultats avec des courbes d'étalonnage. Ces courbes sont construites en comparant avec d'autres méthodes, comme le comptage des cernes des arbres.
 
+```schema
+type: etapes
+titre: La datation au carbone 14
+elements:
+  - titre: Formation
+    texte: Dans la haute atmosphère, par les rayons cosmiques.
+  - titre: Absorption
+    texte: Par les êtres vivants.
+  - titre: Décroissance
+    texte: Après la mort, il disparaît peu à peu.
+  - titre: Mesure
+    texte: Ce qui reste donne l'âge.
+```
+
 ## À retenir
 
 - Le carbone 14 se forme dans la haute atmosphère, sous l'effet des rayons cosmiques.
@@ -5888,6 +6108,17 @@ Elle a ses pièges. Une année difficile, un arbre peut ne pas former de cerne, 
 
 Les cernes servent aussi à corriger la datation au carbone 14. Ils racontent enfin le climat du passé : sécheresses, hivers rudes ou éruptions de volcans.
 
+```schema
+type: etapes
+titre: La dendrochronologie
+elements:
+  - titre: Un cerne par an
+    icone: tree
+  - titre: Largeur selon le climat
+  - titre: Comparer des séquences
+  - titre: Dater un bois
+```
+
 ## À retenir
 
 - Sous nos climats, un arbre fabrique en principe un cerne de bois par an.
@@ -6168,6 +6399,18 @@ Les plus anciens allume-feux connus ont été trouvés en Europe. À Barnham, en
 
 Ötzi, un homme mort dans les Alpes vers 3300 avant notre ère, transportait encore de l'amadou. Son corps a été découvert dans la glace le 19 septembre 1991. Jusqu'à la fin du XIXe siècle, beaucoup de voyageurs utilisaient encore une boîte avec un silex, un briquet en acier et de l'amadou.
 
+```schema
+type: comparaison
+titre: Deux façons d'allumer un feu
+colonnes:
+  - titre: Friction
+    points:
+      - Frotter très vite deux morceaux de bois
+  - titre: Percussion
+    points:
+      - Frapper une pierre pour produire des étincelles
+```
+
 ## À retenir
 
 - Pour allumer un feu, il faut chauffer un allume-feu, une matière qui s'enflamme très facilement.
@@ -6307,6 +6550,16 @@ En Europe, il est attesté de 23 000 à 15 000 ans avant notre ère, surtout dan
 En Europe, vers la fin du Paléolithique, l'arc est venu s'ajouter au propulseur. Ailleurs, le propulseur est resté utilisé très longtemps. Les Aborigènes d'Australie l'appellent woomera. Les Aztèques l'appelaient atlatl. Les Inuits de l'Arctique et les Kanaks de Nouvelle-Calédonie s'en servaient aussi.
 
 Dans la grande cité de Teotihuacan, au Mexique, un souverain portait même le nom de « Hibou lanceur de javelots ». Aujourd'hui, certains pratiquent encore le tir au propulseur comme un sport.
+
+```schema
+type: etapes
+titre: Le propulseur
+elements:
+  - titre: Bâton à crochet
+  - titre: Il prolonge le bras
+  - titre: Effet de levier
+  - titre: Sagaie plus rapide
+```
 
 ## À retenir
 
@@ -6919,6 +7172,19 @@ En 1987, une étude sur des chats tombés d'immeubles a surpris. Les chats tomb�
 
 Pour éviter ce biais, il faut toujours se demander : qui manque dans ce que je regarde ?
 
+```schema
+type: comparaison
+titre: Le biais du survivant
+colonnes:
+  - titre: Ce que l'on voit
+    points:
+      - Les avions revenus, troués
+  - titre: Ce qui manque
+    points:
+      - Les avions abattus
+      - Les zones à renforcer sont celles sans trous
+```
+
 ## À retenir
 
 - Le biais du survivant consiste à tirer des conclusions en ne regardant que les cas qui ont réussi ou survécu.
@@ -7393,6 +7659,17 @@ Téléphoner en conduisant est un exemple connu. Une étude a trouvé qu'un acci
 
 En 2010, une étude a repéré un petit pourcentage de personnes beaucoup plus douées que les autres pour faire plusieurs choses à la fois. On les appelle les « supertaskers ». Dans un test de 2015 sur simulateur de conduite, la plupart des participants réussissaient beaucoup moins bien quand ils devaient en plus retenir des mots et faire des calculs. Pour presque tout le monde, faire une chose à la fois reste plus efficace.
 
+```schema
+type: etapes
+titre: Le coût du multitâche
+elements:
+  - titre: Tâche A
+  - titre: Changement
+    texte: Chaque bascule coûte du temps.
+  - titre: Tâche B
+  - titre: Erreurs et lenteur
+```
+
 ## À retenir
 
 - Le cerveau ne peut pas traiter en même temps deux tâches qui demandent de l'attention.
@@ -7624,6 +7901,18 @@ En 1972, le journaliste scientifique allemand Sebastian Leitner propose une mét
 Si on répond juste, la carte passe dans la boîte suivante. Si on se trompe, elle revient dans la première boîte. Ainsi, on passe plus de temps sur ce qu'on connaît mal.
 
 Aujourd'hui, des logiciels comme Anki ou des applications pour apprendre les langues appliquent ce principe. Ils calculent pour chaque carte le meilleur moment pour la revoir. La méthode marche bien pour le vocabulaire, mais aussi pour les mathématiques.
+
+```schema
+type: etapes
+titre: Réviser au bon moment
+legende: Hermann Ebbinghaus a tracé la courbe de l'oubli en 1885.
+elements:
+  - titre: Apprendre
+  - titre: Oublier vite
+  - titre: Réviser
+    texte: Le souvenir devient plus solide.
+  - titre: Espacer
+```
 
 ## À retenir
 
@@ -7934,6 +8223,19 @@ Les réflexes disparaissent alors, chacun à son rythme. Le réflexe de marche s
 Certains réflexes restent toute la vie : le bâillement, l'éternuement, la toux ou le clignement des yeux.
 
 Si un réflexe archaïque persiste trop longtemps, ou s'il manque d'un côté du corps, le médecin cherche s'il y a un problème du système nerveux.
+
+```schema
+type: systeme
+titre: Les réflexes archaïques
+centre: Nouveau-né
+parties:
+  - nom: Préhension
+    role: Serrer ce qu'on met dans la main.
+  - nom: Succion
+  - nom: Moro
+    role: Le sursaut.
+  - nom: Marche automatique
+```
 
 ## À retenir
 
@@ -8499,6 +8801,19 @@ Les différences entre régions restent fortes. En Afrique subsaharienne, 52 % d
 Certains pays ont mené de grandes campagnes. À Cuba, en une seule année, plus de 700 000 habitants sur 7,5 millions ont appris à lire. Plus de 10 000 salles de classe ont été ouvertes en un seul jour.
 
 L'UNESCO a fait de l'alphabétisation l'une de ses missions. Elle estime que savoir lire aide à trouver un travail, à mieux se soigner et à mieux se nourrir. En 1966, elle a créé la Journée internationale de l'alphabétisation. Elle est célébrée chaque 8 septembre depuis 1967.
+
+```schema
+type: barres
+titre: Part des adultes alphabétisés dans le monde
+unite: "%"
+valeurs:
+  - label: Vers 1820
+    valeur: 12
+  - label: 1950
+    valeur: 55.7
+  - label: Récemment
+    valeur: 86.2
+```
 
 ## À retenir
 
@@ -10190,6 +10505,19 @@ En 1920, l'économiste britannique Arthur Cecil Pigou a publié « The Economics
 L'État peut aussi fixer une quantité maximale de pollution. Il distribue ou vend des « droits à polluer ». Une entreprise qui pollue moins que prévu peut revendre ses droits à une autre.
 
 En 1960, l'économiste Ronald Coase a montré qu'une autre voie existe parfois. Le pollueur et ses victimes peuvent négocier un accord entre eux. Mais cela ne marche que dans des conditions assez rares.
+
+```schema
+type: comparaison
+titre: Les externalités
+colonnes:
+  - titre: Négative
+    points:
+      - Un coût imposé aux autres
+      - La pollution
+  - titre: Positive
+    points:
+      - Un bénéfice offert aux autres
+```
 
 ## À retenir
 
@@ -13025,6 +13353,19 @@ Les luddites étaient des ouvriers anglais du textile qui détruisaient des mach
 
 Des lois sur les usines ont peu à peu encadré la durée du travail et le travail des enfants, avec des limites d'âge et d'horaires. Une loi importante a créé un corps d'inspecteurs d'usines et interdit le travail de nuit des plus jeunes. Un mouvement pour limiter la journée de travail, mené par des réformateurs, a fini par obtenir une limite pour les femmes et les enfants dans le textile. Les premières lois étaient peu appliquées : les magistrats locaux étaient souvent eux-mêmes propriétaires d'usines. Ces bouleversements ont fait naître ce qu'on appelle la question sociale. Les historiens débattent du moment où le niveau de vie a vraiment progressé pour les ouvriers.
 
+```schema
+type: etapes
+titre: De l'usine aux lois sociales
+elements:
+  - titre: Exode vers les villes
+    texte: Enclosures et mécanisation agricole.
+  - titre: Usines
+    icone: factory
+  - titre: Révoltes
+    texte: Les luddites brisent des machines.
+  - titre: Lois sociales
+```
+
 ## À retenir
 
 - Les enclosures et la mécanisation de l'agriculture poussent des paysans sans terre vers les villes, où ils deviennent les premiers ouvriers.
@@ -13109,6 +13450,16 @@ Il distingue quatre stades : sensori-moteur, préopératoire, opératoire concre
 ## Un héritage nuancé
 
 Cette idée a influencé l'éducation et les méthodes centrées sur l'élève. Des recherches ont montré que les bébés comprennent certaines choses plus tôt que Piaget ne le pensait, et que le développement ne suit pas toujours des stades nets. On lui reproche aussi d'avoir sous-estimé le rôle de la culture et du langage, que Vygotski mettait en avant. Ses échantillons étaient petits et non aléatoires, ce qui limite la portée de ses conclusions.
+
+```schema
+type: etapes
+titre: Les quatre stades de Piaget
+elements:
+  - titre: Sensori-moteur
+  - titre: Préopératoire
+  - titre: Opératoire concret
+  - titre: Opératoire formel
+```
 
 ## À retenir
 
@@ -13202,6 +13553,18 @@ Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduise
 
 Daniel Kahneman a reçu le prix Nobel d'économie pour avoir fait entrer la psychologie dans l'économie. Des travaux récents discutent l'universalité de l'aversion aux pertes, et des études du domaine ont été retirées pour données douteuses.
 
+```schema
+type: comparaison
+titre: L'aversion aux pertes
+colonnes:
+  - titre: Perdre 100 €
+    points:
+      - Ressenti plus fort
+  - titre: Gagner 100 €
+    points:
+      - Ressenti plus faible
+```
+
 ## À retenir
 
 - Nous jugeons un résultat par rapport à un point de repère lié à notre situation, plutôt que dans l'absolu.
@@ -13293,6 +13656,18 @@ En France, avoir un diplôme du supérieur augmente fortement les chances de dev
 
 La reproduction sociale est le phénomène par lequel les positions sociales se transmettent d'une génération à l'autre. Pierre Bourdieu et Jean-Claude Passeron ont montré que la position sociale des parents fonctionne comme un héritage pour les enfants. Pour eux, le système scolaire favorise les élèves déjà privilégiés et légitime les hiérarchies sociales existantes. Les enfants de familles aisées reçoivent plus de soutien dès la petite enfance, ce qui crée des avantages qui durent toute la scolarité. Les pays les plus inégalitaires ont en général une mobilité plus faible : c'est la courbe de Gatsby le magnifique. On parle d'ascenseur social, une image qui ne dit pas qu'il serve à tout le monde de la même façon.
 
+```schema
+type: comparaison
+titre: L'école et la mobilité sociale
+colonnes:
+  - titre: Ascenseur
+    points:
+      - Un diplôme du supérieur protège et ouvre des portes
+  - titre: Reproduction
+    points:
+      - L'origine sociale pèse sur les parcours
+```
+
 ## À retenir
 
 - La mobilité sociale désigne le déplacement des individus ou des familles entre les niveaux de la société.
@@ -13377,6 +13752,19 @@ L'explication principale actuelle est la difficulté à gérer ses émotions : o
 ## Conséquences et pistes
 
 Les procrastinateurs subissent plus de stress à l'approche des échéances et obtiennent en moyenne de moins bons résultats scolaires. Un certain retard peut être utile, car il évite des décisions hâtives. Repérer ce qui déclenche l'envie de remettre à plus tard, fixer des objectifs réalistes et réduire les distractions sont des pistes décrites. Des études de jumeaux montrent que la procrastination est en partie héritable, avec un lien génétique avec l'impulsivité. Les distractions numériques ont augmenté la part de personnes qui se disent procrastinatrices.
+
+```schema
+type: comparaison
+titre: Procrastiner, ce n'est pas être paresseux
+colonnes:
+  - titre: Procrastination
+    points:
+      - Retarder volontairement une action prévue
+      - En sachant qu'on s'en trouvera plus mal
+  - titre: Ce que c'est surtout
+    points:
+      - Une difficulté à gérer ses émotions face à la tâche
+```
 
 ## À retenir
 
@@ -13466,6 +13854,18 @@ Nous retenons et partageons plus volontiers ce qui nous touche émotionnellement
 
 Selon une étude sur Twitter, les fausses informations se propagent plus vite, plus loin et plus largement que les vraies. Le prébunking, qui montre des exemples de manipulation avant l'exposition, et l'éducation aux médias sont des remèdes prometteurs. La vérification des faits et un ton empathique dans les corrections aident à garder le dialogue ouvert. La société elle-même est le premier rempart contre la manipulation de l'information.
 
+```schema
+type: comparaison
+titre: Mésinformation ou désinformation
+colonnes:
+  - titre: Mésinformation
+    points:
+      - Fausse, sans intention de nuire
+  - titre: Désinformation
+    points:
+      - Trompeuse et volontaire
+```
+
 ## À retenir
 
 - La mésinformation est une information fausse diffusée sans intention de nuire ; la désinformation est trompeuse et diffusée volontairement.
@@ -13554,6 +13954,16 @@ L'aversion aux pertes signifie que la même situation paraît pire quand elle es
 
 Les heuristiques sont des raccourcis mentaux qui marchent souvent, mais conduisent à des erreurs systématiques. Le cadrage, c'est-à-dire la façon de présenter une situation, influence aussi nos décisions. Des travaux récents discutent l'universalité de l'aversion aux pertes : certaines études ne la retrouvent pas.
 
+```schema
+type: etapes
+titre: L'heuristique d'affect
+elements:
+  - titre: Réaction émotionnelle
+  - titre: Raccourci mental
+  - titre: Jugement
+    texte: Un sentiment positif fait juger le risque plus faible.
+```
+
 ## À retenir
 
 - L'heuristique d'affect est un raccourci mental où notre réaction émotionnelle joue le rôle principal dans un jugement.
@@ -13636,6 +14046,19 @@ Gordon Allport et Leo Postman ont étudié comment un message change quand il pa
 ## Un cas d'école : Orléans
 
 À Orléans, la rumeur de jeunes femmes disparaissant dans des cabines d'essayage s'est propagée par le seul bouche-à-oreille, alors qu'aucune disparition n'avait eu lieu. Elle a fini par rassembler des foules menaçantes devant des magasins, après un relais par la presse locale. Le sociologue Edgar Morin a mené une enquête avec son équipe, publiée dans La Rumeur d'Orléans. Démentir ne suffit pas toujours à éteindre une rumeur. Des rumeurs semblables sont apparues dans d'autres villes françaises et à l'étranger.
+
+```schema
+type: systeme
+titre: Trois façons de déformer une rumeur
+centre: Rumeur
+parties:
+  - nom: Nivellement
+    role: Beaucoup de détails disparaissent.
+  - nom: Accentuation
+    role: Quelques détails sont grossis.
+  - nom: Assimilation
+    role: L'histoire s'adapte aux attentes.
+```
 
 ## À retenir
 
@@ -13722,6 +14145,19 @@ L'option par défaut, comme l'inscription automatique à un plan d'épargne retr
 
 Des gouvernements ont créé des équipes dédiées, comme la Behavioural Insights Team au Royaume-Uni. On les applique à la santé, à l'éducation et à l'environnement. Une analyse récente, après correction des biais de publication, ne trouve pas de preuve d'un effet des nudges. Des critiques soulèvent aussi des questions d'autonomie et de manipulation.
 
+```schema
+type: comparaison
+titre: Le nudge
+colonnes:
+  - titre: Ce qu'il fait
+    points:
+      - Change la présentation du choix
+  - titre: Ce qu'il ne fait pas
+    points:
+      - Rien interdire
+      - Ni changer les incitations
+```
+
 ## À retenir
 
 - Un nudge modifie le comportement par la présentation du choix, sans rien interdire ni changer les incitations.
@@ -13804,6 +14240,17 @@ Quand la monnaie a pris forme, les sociétés ont employé des objets variés : 
 ## Confiance et monnaie moderne
 
 Quelle que soit sa forme, la monnaie repose sur la confiance collective. La monnaie moderne n'a presque plus de valeur matérielle propre : c'est la monnaie fiduciaire. Elle est créée par les banques centrales et par les banques, à travers les prêts et les dépôts. Avant la monnaie, les sociétés fonctionnaient surtout par dons et dettes plutôt que par troc pur.
+
+```schema
+type: systeme
+titre: Les trois rôles de la monnaie
+centre: Monnaie
+icone: coin
+parties:
+  - nom: Intermédiaire des échanges
+  - nom: Unité de compte
+  - nom: Réserve de valeur
+```
 
 ## À retenir
 
@@ -13888,6 +14335,16 @@ Les grandes mines d'argent du Pérou, du Mexique et de Bolivie ont fortement aug
 ## Une théorie durable
 
 La théorie quantitative de la monnaie affirme que le niveau général des prix est proportionnel à la quantité de monnaie en circulation. On l'écrit souvent MV = PY : monnaie, vitesse de circulation, prix et production. Copernic avait déjà noté que la monnaie perd de la valeur quand elle est trop abondante. La théorie suppose que la production est fixée de l'extérieur, que la vitesse de circulation est constante et que la banque centrale contrôle la monnaie. Les banques centrales ont abandonné le ciblage de la masse monétaire, mais la plupart des économistes lient l'inflation à la croissance de la monnaie.
+
+```schema
+type: etapes
+titre: L'explication de Jean Bodin
+elements:
+  - titre: Afflux de métaux précieux
+    texte: Venus d'Amérique.
+  - titre: Plus de monnaie en circulation
+  - titre: Les prix montent
+```
 
 ## À retenir
 
@@ -13978,6 +14435,17 @@ Il était accompagné de céramiques et de bassins de bronze, qui montrent des b
 ## Une place dans l'histoire celte
 
 La découverte est comparable à la tombe de la princesse de Vix, l'une des plus importantes de l'âge du fer en France. Le site est un complexe funéraire monumental : d'autres tombes entouraient la tombe princière. D'autres tombes se trouvaient à proximité, dont un guerrier avec une épée et une femme parée de bracelets de bronze.
+
+```schema
+type: systeme
+titre: La tombe de Lavau
+centre: Prince celte
+parties:
+  - nom: Tumulus
+    role: La tombe n'avait pas été pillée.
+  - nom: Char à deux roues
+  - nom: Objets méditerranéens
+```
 
 ## À retenir
 
