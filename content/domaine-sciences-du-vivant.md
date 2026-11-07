@@ -255,8 +255,23 @@ avec certains implants métalliques.
 - L'échographie n'utilise aucun rayonnement mais ne traverse ni l'os ni l'air.
 - L'IRM offre le meilleur contraste des tissus mous, sans rayonnement ionisant.
 
-[Emplacement image : même région du corps vue par quatre techniques d'imagerie, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Quatre façons de voir à l'intérieur du corps
+colonnes:
+  - titre: Radiographie et scanner
+    points:
+      - Rayons X, les tissus denses apparaissent clairs
+      - Le scanner reconstruit un volume
+  - titre: Échographie
+    points:
+      - Ultrasons, sans rayonnement
+      - Ne traverse ni l'os ni l'air
+  - titre: IRM
+    points:
+      - Aimant puissant et ondes radio
+      - Très précise pour les tissus mous
+```
 
 ---
 
@@ -374,8 +389,19 @@ années après leur autorisation.
 - Le tirage au sort rend les groupes comparables.
 - Le double aveugle neutralise l'effet placebo et le biais de l'évaluateur.
 
-[Emplacement image : les quatre phases d'un essai clinique et leurs effectifs, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les quatre phases d'un essai clinique
+elements:
+  - titre: Phase I
+    texte: Sécurité, sur quelques dizaines de volontaires.
+  - titre: Phase II
+    texte: Dose et premiers signes d'efficacité.
+  - titre: Phase III
+    texte: Comparaison tirée au sort sur de grands groupes.
+  - titre: Phase IV
+    texte: Suivi après la mise sur le marché.
+```
 
 ---
 
@@ -489,8 +515,16 @@ Un résultat isolé, aussi spectaculaire soit-il, attend confirmation.
 - Le biais de publication favorise les résultats positifs.
 - Un résultat statistiquement significatif peut être cliniquement négligeable.
 
-[Emplacement image : pyramide des niveaux de preuve, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: pyramide
+titre: La hiérarchie des preuves
+niveaux:
+  - titre: Méta-analyse d'essais randomisés
+  - titre: Essai randomisé
+  - titre: Étude d'observation
+    texte: Une corrélation ne prouve pas une causalité.
+  - titre: Cas et témoignages
+```
 
 ---
 
@@ -610,8 +644,18 @@ soulève des questions éthiques d'une tout autre ampleur.
 - Les cellules du patient sont modifiées hors du corps puis réinjectées.
 - La modification ne se transmet pas à la descendance.
 
-[Emplacement image : étapes du traitement, du prélèvement à la réinjection, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le traitement par CRISPR, décembre 2023
+elements:
+  - titre: Prélever
+    texte: Les cellules souches du patient.
+  - titre: Modifier hors du corps
+    texte: Pour réactiver l'hémoglobine fœtale.
+    icone: dna
+  - titre: Réinjecter
+    texte: Les cellules modifiées.
+```
 
 ---
 
@@ -726,8 +770,18 @@ est une chose ; modifier un embryon, ce qui affecterait toute sa descendance, en
 - Changer de cible ne demande que de changer ce brin guide.
 - C'est la réparation par la cellule qui détermine le résultat final.
 
-[Emplacement image : guidage et coupure de l'ADN par le complexe CRISPR, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: CRISPR, des ciseaux guidés
+elements:
+  - titre: Brin guide
+    texte: Il désigne la séquence à couper.
+  - titre: Coupure
+    texte: L'enzyme coupe l'ADN à cet endroit.
+    icone: scissors
+  - titre: Réparation
+    texte: C'est la réparation par la cellule qui modifie le gène.
+```
 
 ---
 
@@ -836,8 +890,18 @@ conduit les fournisseurs à mettre en place un filtrage des séquences dangereus
 - La production de molécules par fermentation est son application la plus mature.
 - Les interactions imprévues et l'évolution compliquent la conception.
 
-[Emplacement image : assemblage de briques génétiques dans un micro-organisme producteur,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'ingénierie appliquée au vivant
+elements:
+  - titre: Briques génétiques
+    texte: Documentées et combinables.
+    icone: dna
+  - titre: Assemblage
+    texte: Dans un micro-organisme.
+  - titre: Fermentation
+    texte: L'application la plus mature, pour produire des molécules.
+```
 
 ---
 
@@ -952,8 +1016,20 @@ milliers de variétés anciennes pour cette raison.
 - L'édition génomique modifie une séquence existante sans introduire d'ADN étranger.
 - La concentration sur peu de variétés crée une vulnérabilité collective.
 
-[Emplacement image : téosinte sauvage et maïs moderne comparés, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: frise
+titre: Les méthodes d'amélioration des plantes
+evenements:
+  - date: Depuis le Néolithique
+    titre: Sélection empirique
+    texte: On garde les meilleures plantes.
+  - date: Ensuite
+    titre: Croisement dirigé
+    texte: La vigueur hybride ne se transmet pas.
+  - date: Aujourd'hui
+    titre: Édition génomique
+    texte: Elle modifie une séquence existante.
+```
 
 ---
 
@@ -1065,8 +1141,17 @@ guidage.
 - Réduire l'usage des phytosanitaires passe par la surveillance et les alternatives, pas par
   un seul levier.
 
-[Emplacement image : rotation de cultures sur quatre années, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les pratiques qui font consensus
+centre: Agriculture durable
+icone: leaf
+parties:
+  - nom: Rotation
+  - nom: Couverture du sol
+  - nom: Travail réduit du sol
+  - nom: Agroforesterie
+```
 
 ---
 
@@ -1176,8 +1261,17 @@ est la seule dégradation véritablement irréversible.
 - Champignons, bactéries et vers de terre assurent des fonctions essentielles.
 - L'artificialisation est la seule dégradation réellement irréversible.
 
-[Emplacement image : coupe d'un sol montrant ses horizons et sa vie souterraine, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Un sol vivant
+legende: Un centimètre met plusieurs siècles à se former.
+centre: Sol
+parties:
+  - nom: Champignons
+  - nom: Bactéries
+  - nom: Vers de terre
+  - nom: Matière organique
+```
 
 ---
 
@@ -3384,8 +3478,17 @@ l'azote.
 - Une rotation type alterne légumineuse, céréale exigeante, plante à racine, puis céréale.
 - La pratique est documentée depuis l'Antiquité en Chine et généralisée en Europe au Moyen Âge.
 
-[Emplacement image : schéma d'une rotation sur quatre ans avec les quatre familles de cultures,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Une rotation sur quatre ans
+elements:
+  - titre: Légumineuses
+    texte: Elles enrichissent le sol en azote.
+  - titre: Légumes feuilles
+    texte: Gourmands en azote.
+  - titre: Légumes fruits
+  - titre: Légumes racines
+```
 
 ---
 
@@ -3480,8 +3583,18 @@ une récolte.
 - La rotation des cultures avec des légumineuses reconstitue la fertilité sans engrais chimique.
 - Semer une légumineuse comme engrais vert restitue l'azote sans attendre une récolte.
 
-[Emplacement image : racine de légumineuse montrant les nodules où vivent les bactéries fixatrices
-d'azote, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment les légumineuses enrichissent le sol
+elements:
+  - titre: Bactéries des nodules
+    texte: Logées sur les racines.
+  - titre: Azote de l'air capté
+  - titre: Échange
+    texte: La plante nourrit les bactéries, qui lui fournissent l'azote.
+  - titre: Sol enrichi
+    texte: Une partie de l'azote reste pour la culture suivante.
+```
 
 ---
 
@@ -3605,8 +3718,18 @@ immédiat, et ne supprime pas toujours totalement un ravageur déjà bien instal
 - La diversité des cultures complique la tâche des ravageurs spécialisés dans une seule plante.
 - La lutte biologique vise un équilibre durable plutôt qu'une élimination immédiate et totale.
 
-[Emplacement image : une coccinelle se nourrissant de pucerons sur une tige de plante cultivée,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les alliés du jardin
+centre: Ravageurs
+parties:
+  - nom: Coccinelles
+  - nom: Oiseaux
+  - nom: Araignées
+  - nom: Fleurs attractives
+    role: Elles nourrissent et abritent les prédateurs.
+  - nom: Associations de plantes
+```
 
 ---
 
@@ -3698,8 +3821,21 @@ l'irrigation réduit la dépendance à des sources d'eau plus lointaines ou plus
 - Arroser tôt le matin ou en soirée limite les pertes par évaporation immédiate.
 - Récupérer l'eau de pluie localement réduit la dépendance à des sources plus lointaines.
 
-[Emplacement image : système d'irrigation goutte-à-goutte délivrant de l'eau directement aux
-racines de plants cultivés, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Arroser moins, arroser mieux
+centre: Économiser l'eau
+icone: droplet
+parties:
+  - nom: Goutte-à-goutte
+    role: L'eau va directement aux racines.
+  - nom: Paillage
+    role: Il limite l'évaporation.
+  - nom: Cultures adaptées
+  - nom: Bon moment
+    role: Arroser aux heures fraîches.
+  - nom: Récupération
+```
 
 ---
 
@@ -3793,8 +3929,18 @@ ces usages.
 - Une ferme avec élevage fonctionne en partie en circuit fermé, limitant la dépendance extérieure.
 - Le choix des animaux dépend du terrain, du climat et des besoins précis de l'exploitation.
 
-[Emplacement image : bœufs attelés tirant une charrue dans un champ, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Une ferme en circuit fermé
+elements:
+  - titre: Animaux
+    texte: Traction, lait et viande.
+  - titre: Fumier
+    texte: Composté, il fertilise.
+  - titre: Cultures
+    texte: Elles nourrissent les gens et les animaux.
+    icone: wheat
+```
 
 ---
 
@@ -3888,8 +4034,22 @@ durer plusieurs années dans de bonnes conditions.
 - Les conserves isolent l'aliment de l'air après une cuisson qui détruit les micro-organismes
   présents.
 
-[Emplacement image : légumes et viandes suspendus pour sécher à l'air libre, à côté de bocaux de
-conserves fermées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les méthodes de conservation
+centre: Récoltes
+parties:
+  - nom: Séchage
+    role: Retire l'eau nécessaire aux microbes.
+  - nom: Salaison
+    role: Retire l'eau par osmose.
+  - nom: Fumage
+    role: Séchage et effet protecteur de la fumée.
+  - nom: Fermentation
+    role: Transforme l'aliment.
+  - nom: Conserves
+    role: Isolent l'aliment de l'air.
+```
 
 ---
 
@@ -4014,8 +4174,20 @@ généralement d'entretenir durablement la fertilité d'un sol cultivé.
 - Un engrais vert restitue rapidement les nutriments d'une plante coupée et mélangée au sol.
 - Combiner plusieurs sources selon les ressources locales entretient durablement la fertilité.
 
-[Emplacement image : tas de compost en décomposition à côté d'un champ où pousse un engrais vert,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Fertiliser sans engrais industriels
+centre: Sol fertile
+parties:
+  - nom: Fumier composté
+    role: Azote, phosphore et potassium.
+  - nom: Compost
+    role: Déchets transformés par des micro-organismes.
+  - nom: Cendres de bois
+    role: Potassium.
+  - nom: Engrais verts
+    role: Des cultures pour enrichir le sol.
+```
 
 ---
 
@@ -4144,8 +4316,18 @@ mal, ce qui peut nécessiter un ameublissement régulier pour éviter l'asphyxie
   d'argile.
 - Identifier son type de sol aide à adapter l'arrosage et les apports en matière organique.
 
-[Emplacement image : bocal transparent montrant les couches de sable, limon et argile séparées
-après le test de sédimentation, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Reconnaître son sol
+elements:
+  - titre: Couleur
+    texte: Un indice de matière organique.
+  - titre: Toucher
+    texte: Sableux ou argileux.
+  - titre: Bocal
+    texte: Sable, limon et argile se séparent en couches.
+  - titre: Adapter ses pratiques
+```
 
 ---
 
@@ -4270,6 +4452,18 @@ En se décomposant lentement, un paillis organique apporte de la matière au sol
 ## Quelques précautions
 
 Une couche trop épaisse ou mal choisie peut pourrir au lieu de se décomposer doucement. Elle bloque alors l'eau et l'air. Certains bois très riches en carbone consomment de l'azote en se décomposant : les plantes en ont moins pendant un temps. L'écorce de pin peut rendre certains sols un peu plus acides. Et de l'herbe fraîchement tondue, posée en tas, peut chauffer et abîmer les plantes.
+
+```schema
+type: systeme
+titre: Ce que fait un paillis
+centre: Paillis
+parties:
+  - nom: Garde l'eau
+    role: Il freine l'évaporation.
+  - nom: Bloque les mauvaises herbes
+    role: Privées de lumière.
+  - nom: Protège et nourrit le sol
+```
 
 ## À retenir
 
@@ -4785,6 +4979,23 @@ Le maïs s'est ensuite répandu dans toute l'Amérique. Les plus anciens grains 
 
 Il était l'aliment de base de nombreux peuples d'Amérique avant l'arrivée de Christophe Colomb. Introduit en Europe au 16e siècle, il est aujourd'hui la céréale la plus cultivée au monde, devant le riz et le blé.
 
+```schema
+type: comparaison
+titre: De la téosinte au maïs
+legende: Une domestication commencée il y a environ 9 000 ans.
+colonnes:
+  - titre: Téosinte
+    points:
+      - Herbe sauvage du Mexique
+      - Petits épis de 5 à 10 grains
+      - Grains enfermés dans une enveloppe dure
+  - titre: Maïs
+    icone: wheat
+    points:
+      - Choisi génération après génération
+      - N'existe pas à l'état sauvage
+```
+
 ## À retenir
 
 - Le maïs descend de la téosinte, une herbe sauvage du Mexique.
@@ -4939,6 +5150,16 @@ La réserve fonctionne comme un coffre dans une banque. La Norvège possède le 
 ## Le premier retrait
 
 En 2015, la guerre en Syrie empêchait un centre de recherche agricole, l'ICARDA, d'utiliser sa banque de graines. Le centre a récupéré une partie de ses copies au Svalbard. Les graines ont été semées au Liban et au Maroc pour en produire de nouvelles. Une partie a ensuite été renvoyée au Svalbard. La copie de secours avait servi.
+
+```schema
+type: chiffres
+titre: La réserve du Svalbard
+chiffres:
+  - valeur: 2008
+    texte: année d'inauguration
+  - valeur: Copies de secours
+    texte: des banques de graines du monde entier
+```
 
 ## À retenir
 
@@ -5437,6 +5658,20 @@ Les débris de plantes et d'animaux se décomposent et donnent l'humus, la mati�
 Au XIXe siècle, le savant russe Vassili Dokoutchaïev (1846-1903) a formulé la loi des facteurs qui forment un sol : la roche-mère, le climat, le relief, les êtres vivants et le temps.
 
 Le temps est le plus surprenant. L'Organisation des Nations unies pour l'alimentation et l'agriculture, la FAO, estime qu'il faut environ mille ans pour créer seulement quelques centimètres de sol fertile. Le sol est donc une ressource qui se renouvelle très lentement.
+
+```schema
+type: etapes
+titre: De la roche au sol
+elements:
+  - titre: Roche-mère
+    icone: mountain
+  - titre: Casser et dissoudre
+    texte: Gel, chaleur, eau et acides faibles.
+  - titre: Êtres vivants
+    texte: Microbes, lichens, mousses, racines, vers.
+  - titre: Sol
+    texte: Après beaucoup de temps.
+```
 
 ## À retenir
 
@@ -5970,6 +6205,21 @@ En 1978, l'entreprise américaine Genentech a réussi à faire produire de l'ins
 
 Aujourd'hui, la plupart des insulines utilisées sont produites de cette façon. Elles ont presque complètement remplacé les insulines de porc et de bœuf.
 
+```schema
+type: frise
+titre: L'histoire de l'insuline
+evenements:
+  - date: 1922
+    titre: Première injection
+    texte: À Toronto.
+  - date: Ensuite
+    titre: Insulines animales
+    texte: Tirées du pancréas d'animaux.
+  - date: Génie génétique
+    titre: Insuline produite par des bactéries
+    texte: Un gène humain placé dans une bactérie.
+```
+
 ## À retenir
 
 - L'insuline est une hormone fabriquée par le pancréas qui fait baisser le sucre dans le sang.
@@ -6140,6 +6390,18 @@ Ces enzymes doivent travailler dans des conditions difficiles : de 0 à 60 °C, 
 C'est un grand avantage. D'habitude, on chauffe l'eau pour mieux dissoudre les taches, et chauffer l'eau consomme beaucoup d'énergie. Avec les enzymes, on peut laver à basse température. Cela protège aussi les tissus délicats, comme la laine et la soie, et les jeans foncés qui déteignent à chaud. Les enzymes permettent aussi de mettre moins de certains produits chimiques polluants dans les lessives.
 
 Les enzymes provoquent-elles des allergies de peau ? Un grand test sur 15 765 volontaires a montré que les réactions sont très rares : 0,23 % des personnes.
+
+```schema
+type: systeme
+titre: Une enzyme pour chaque tache
+centre: Lessive
+parties:
+  - nom: Protéines
+  - nom: Amidon
+  - nom: Graisses
+  - nom: Origine
+    role: Des enzymes produites par des microbes.
+```
 
 ## À retenir
 
@@ -7048,6 +7310,19 @@ L'idée vient du sonar, développé pour repérer les sous-marins et cartographi
 
 Les appareils modernes utilisent aussi l'effet Doppler : ils mesurent la vitesse du sang qui circule, par exemple dans le cœur du bébé.
 
+```schema
+type: etapes
+titre: L'échographie, comme un sonar
+elements:
+  - titre: Ultrasons
+    texte: Au-delà de 20 000 vibrations par seconde.
+  - titre: Échos
+    texte: Les tissus renvoient le son.
+  - titre: Temps de retour
+    texte: Il indique la profondeur.
+  - titre: Image
+```
+
 ## À retenir
 
 - Les ultrasons sont des sons trop aigus pour l'oreille humaine, au-delà de 20 000 vibrations par seconde.
@@ -7201,6 +7476,19 @@ Tous les médecins n'ont pas adopté tout de suite son invention. En 1885 encore
 L'instrument a beaucoup évolué. Vers 1850, sont apparus des modèles avec un embout pour chaque oreille. En 1961, le médecin américain David Littmann a créé le stéthoscope à double pavillon que l'on utilise encore.
 
 Aujourd'hui, le stéthoscope a une membrane posée sur la peau. Elle vibre avec les sons du corps. Des tubes souples conduisent ces vibrations jusqu'aux oreilles du médecin. Il sert à écouter le cœur, la respiration, les bruits du ventre, et aussi à prendre la tension. Le premier stéthoscope de Laennec est conservé à Nantes.
+
+```schema
+type: frise
+titre: La naissance du stéthoscope
+evenements:
+  - date: Avant 1816
+    titre: L'oreille sur la poitrine
+  - date: 1816
+    titre: René Laennec
+    texte: Une feuille roulée pour écouter le cœur.
+  - date: Ensuite
+    titre: Du tube de bois au stéthoscope moderne
+```
 
 ## À retenir
 
@@ -7594,6 +7882,21 @@ En 2010, une grande revue a comparé placebo et absence de traitement dans 202 e
 ## Un outil pour tester les médicaments
 
 Le placebo est surtout très utile à la recherche. Pour savoir si un nouveau médicament marche, on compare deux groupes. L'un reçoit le médicament, l'autre un placebo qui lui ressemble. Si le groupe traité va nettement mieux, l'effet vient bien du médicament, et pas seulement de l'attente ou du temps qui passe.
+
+```schema
+type: systeme
+titre: L'effet placebo
+centre: Placebo
+parties:
+  - nom: Sans action propre
+    role: Sur la maladie.
+  - nom: Douleur et nausées
+    role: Là où l'effet s'observe surtout.
+  - nom: Substances du cerveau
+    role: Contre la douleur.
+  - nom: Outil de test
+    role: Pour comparer les médicaments.
+```
 
 ## À retenir
 
@@ -8112,6 +8415,20 @@ L'aspirine empêche aussi les plaquettes du sang de s'agglutiner. À petite dose
 
 On consomme environ 40 000 tonnes d'aspirine chaque année dans le monde. Elle figure sur la liste des médicaments essentiels de l'Organisation mondiale de la santé. Mais elle peut abîmer l'estomac et faire saigner. Et on ne la donne pas aux enfants qui ont une infection virale, à cause d'une maladie rare mais grave, le syndrome de Reye.
 
+```schema
+type: etapes
+titre: De l'écorce à l'aspirine
+elements:
+  - titre: Écorce de saule
+    texte: Utilisée depuis l'Antiquité.
+    icone: tree
+  - titre: Substance active
+    texte: Elle devient acide salicylique dans le corps.
+  - titre: Modification chimique
+    texte: L'acide acétylsalicylique, moins irritant.
+    icone: flask
+```
+
 ## À retenir
 
 - L'écorce de saule soulage la douleur et la fièvre depuis l'Antiquité.
@@ -8338,6 +8655,19 @@ Certains antibiotiques tuent les bactéries : ils sont bactéricides. D'autres l
 Les virus n'ont ni paroi ni ribosomes à eux. Les antibiotiques n'ont donc rien à viser chez eux : ils ne soignent ni le rhume ni la grippe.
 
 Alexander Fleming a découvert la pénicilline en 1928. Sa production en masse a commencé dans les années 1940. Mais plus on utilise d'antibiotiques, plus les bactéries capables de leur résister prennent le dessus. C'est pourquoi on ne les prend que sur ordonnance, quand ils sont vraiment utiles.
+
+```schema
+type: systeme
+titre: Les cibles des antibiotiques
+legende: Des pièces que les bactéries possèdent et que nos cellules n'ont pas.
+centre: Bactérie
+icone: microscope
+parties:
+  - nom: Paroi
+    role: Bloquée par les pénicillines.
+  - nom: Ribosomes
+  - nom: Copie de l'ADN
+```
 
 ## À retenir
 
@@ -11301,6 +11631,16 @@ Le clonage exigerait un ADN intact, mais l'ADN ancien est généralement dégrad
 
 Les derniers mammouths laineux ont disparu de l'île Wrangel il y a environ 4 000 ans.
 
+```schema
+type: chiffres
+titre: L'ADN ancien
+chiffres:
+  - valeur: 521 ans
+    texte: demi-vie estimée d'un fragment d'ADN dans des os de moa
+  - valeur: 2 millions d'années
+    texte: âge record d'ADN retrouvé au Groenland
+```
+
 ## À retenir
 
 - L'ADN se dégrade : dans des os de moa, sa demi-vie est estimée à 521 ans pour un fragment de 242 paires de bases.
@@ -11387,6 +11727,18 @@ L'ARN est fragile : on l'enferme dans des nanoparticules de lipides, qui le prot
 ## Une technologie mise au point au fil des années
 
 Katalin Karikó et Drew Weissman ont montré que modifier certains éléments de l'ARN réduit les réactions inflammatoires tout en gardant son efficacité, ce qui leur a valu le prix Nobel de médecine. Cette technologie permet de concevoir très vite un nouveau vaccin. Les premiers vaccins à ARN messager autorisés l'ont été pendant la pandémie de Covid-19.
+
+```schema
+type: etapes
+titre: Une recette plutôt qu'un virus
+elements:
+  - titre: ARN messager
+    texte: La recette d'un morceau de la protéine spike.
+  - titre: Fabrication
+    texte: Les cellules produisent ce morceau inoffensif.
+  - titre: Apprentissage
+    texte: Le corps garde une mémoire immunitaire.
+```
 
 ## À retenir
 
@@ -11475,6 +11827,19 @@ CRISPR est aussi une technologie que des chercheurs utilisent pour modifier l'AD
 
 Des essais cliniques testent CRISPR pour des maladies héréditaires comme la bêta-thalassémie et la drépanocytose. Cette fiche ne donne aucun conseil médical.
 
+```schema
+type: etapes
+titre: Cas9, les ciseaux de CRISPR
+elements:
+  - titre: Défense bactérienne
+    texte: À l'origine, contre les virus.
+  - titre: Guide
+    texte: Il conduit Cas9 vers la bonne séquence.
+  - titre: Coupe
+    texte: Cas9 coupe l'ADN.
+    icone: scissors
+```
+
 ## À retenir
 
 - CRISPR est l'abréviation de « clustered regularly interspaced short palindromic repeats ».
@@ -11557,6 +11922,21 @@ En revenant à l'équilibre, les protons émettent un signal que des capteurs d�
 ## Ce que l'IRM voit, et ce qu'elle exige
 
 Contrairement aux rayons X et au scanner, l'IRM n'utilise pas de rayonnement ionisant. Elle montre très bien les tissus mous, comme le cerveau, la moelle épinière, les muscles et les tendons. On peut injecter un produit de contraste, qui contient souvent du gadolinium, pour rendre certaines images plus lumineuses. Les objets métalliques ferromagnétiques, comme certains stimulateurs cardiaques, sont une contre-indication, car le champ magnétique est très puissant. L'examen est bruyant, et la personne doit rester immobile à l'intérieur de l'aimant.
+
+```schema
+type: etapes
+titre: Comment fonctionne l'IRM
+elements:
+  - titre: Aligner
+    texte: L'aimant aligne les protons du corps.
+    icone: magnet
+  - titre: Perturber
+    texte: Une impulsion d'ondes radio les désaligne.
+  - titre: Écouter
+    texte: En revenant, les protons émettent un signal.
+  - titre: Reconstruire
+    texte: L'ordinateur en fait une image.
+```
 
 ## À retenir
 
@@ -11641,6 +12021,19 @@ La rhizosphère est la région étroite du sol directement influencée par les s
 ## Ce qui change le microbiome
 
 Le pH, la texture, la matière organique et les plantes cultivées influencent les populations de microbes. Les pratiques agricoles, comme la rotation des cultures ou la fertilisation azotée, modifient les communautés microbiennes du sol. Les engrais chimiques et les pesticides peuvent perturber ces communautés. Un sol riche en microbes variés réduit les maladies des plantes et peut améliorer la productivité des cultures.
+
+```schema
+type: systeme
+titre: Les microbes au service des racines
+centre: Racines
+parties:
+  - nom: Cycles des éléments
+    role: Carbone, azote, phosphore, soufre.
+  - nom: Fixation de l'azote
+    role: Par certaines bactéries.
+  - nom: Champignons mycorhiziens
+    role: Ils s'associent aux racines.
+```
 
 ## À retenir
 
@@ -11745,6 +12138,19 @@ Le calmar hawaïen héberge dans des organes lumineux des bactéries du genre Vi
 
 En biotechnologie, la luciférase sert de gène rapporteur : sa lumière montre qu'un gène est actif. La lumière produite avec l'ATP sert aussi de biocapteur pour détecter des microbes vivants, par exemple dans l'eau.
 
+```schema
+type: systeme
+titre: La bioluminescence
+centre: Lumière
+icone: bulb
+parties:
+  - nom: Luciférine
+    role: Le substrat.
+  - nom: Luciférase
+    role: L'enzyme.
+  - nom: Oxygène
+```
+
 ## À retenir
 
 - La bioluminescence est la production et l'émission de lumière par un être vivant, grâce à une réaction chimique.
@@ -11830,6 +12236,21 @@ L'édition génomique utilise des ciseaux moléculaires, des enzymes qui coupent
 ## Ce qu'on en attend, et les précautions
 
 Ces techniques modifient le génome sans nécessairement introduire d'ADN étranger. On cite déjà des tomates éditées et des plantes résistantes aux maladies. Les buts sont la tolérance aux stress, le rendement, la qualité, l'adaptation au climat et la résistance aux maladies. Les scientifiques signalent des risques, comme les effets hors cible et les impacts écologiques possibles des gènes dirigeant l'hérédité.
+
+```schema
+type: comparaison
+titre: Sélection classique ou édition génomique
+colonnes:
+  - titre: Sélection classique
+    points:
+      - Croiser des plantes aux bons caractères
+      - Plusieurs générations
+  - titre: Édition génomique
+    icone: scissors
+    points:
+      - Des ciseaux moléculaires coupent l'ADN à un endroit précis
+      - La cellule répare et modifie le gène
+```
 
 ## À retenir
 
@@ -11933,6 +12354,21 @@ Le PLA, ou acide polylactique, est fabriqué par fermentation de l'amidon de ma�
 
 Les plastiques compostables se décomposent en général dans des installations de compostage industriel, après avoir été collectés. Le PLA se dégrade mal dans les décharges et les composts domestiques, et se dégrade en mer comme les plastiques issus du pétrole. Les cultures qui les produisent font concurrence à l'alimentation et utilisent des terres, des engrais et des pesticides. Selon les études, certains bioplastiques réduisent l'empreinte carbone, d'autres abîment plus l'environnement que les plastiques du pétrole. Le coût et les performances posent problème : le PLA est cassant et résiste mal à la chaleur. L'Union européenne a adopté un cadre pour éviter les fausses allégations de biodégradabilité, qui pourraient encourager à jeter ces plastiques dans la nature. Les bioplastiques représentent encore une petite part de la production mondiale de plastiques.
 
+```schema
+type: comparaison
+titre: Trois mots à ne pas confondre
+colonnes:
+  - titre: Biosourcé
+    points:
+      - Fabriqué à partir de ressources renouvelables
+  - titre: Biodégradable
+    points:
+      - Dégradé par des micro-organismes
+  - titre: Compostable
+    points:
+      - Dégradé dans des conditions de compostage
+```
+
 ## À retenir
 
 - Un bioplastique est un plastique fabriqué à partir de ressources renouvelables, comme l'amidon, la cellulose ou la canne à sucre, plutôt que de pétrole.
@@ -12019,6 +12455,18 @@ Le doryphore de la pomme de terre est un ravageur majeur : ses larves peuvent d�
 
 L'agence américaine de l'environnement a conclu à l'absence de risque préoccupant pour la santé humaine et l'environnement, y compris pour les espèces protégées. Elle a enregistré le produit pour une durée limitée, après une période d'essais et une consultation publique. L'interférence par ARN sert aussi à créer des plantes à teneur réduite en toxines ou en allergènes, comme le coton à faible teneur en gossypol. C'est aussi un outil de recherche qui permet d'étudier la fonction des gènes.
 
+```schema
+type: etapes
+titre: L'interférence par ARN
+elements:
+  - titre: ARN double brin
+    texte: Pulvérisé sur la culture.
+  - titre: Dicer
+    texte: L'enzyme le coupe en petits morceaux.
+  - titre: Gène éteint
+    texte: Chez le ravageur visé.
+```
+
 ## À retenir
 
 - L'interférence par ARN est un processus naturel où un ARN double brin entraîne l'extinction d'un gène dont la séquence correspond.
@@ -12102,6 +12550,18 @@ Les nouvelles techniques génomiques regroupent des techniques d'édition du gé
 ## Exceptions et suites
 
 Certains caractères sont exclus de la catégorie 1, comme la tolérance aux herbicides ou la production de substances insecticides connues. Les plantes de catégorie 2 sont exclues de la production biologique, et l'usage de la catégorie 1 dans le bio reste interdit en attendant une évaluation. Les développeurs doivent déclarer leurs brevets dans une base publique, et un groupe d'experts étudiera l'effet du droit des brevets. Le Conseil de l'Union européenne a adopté le règlement ; son application est attendue dans plusieurs années, pas immédiatement.
+
+```schema
+type: comparaison
+titre: Deux façons de réglementer
+colonnes:
+  - titre: Union européenne
+    points:
+      - Regarde le procédé utilisé
+  - titre: Amérique du Nord
+    points:
+      - Regarde surtout le produit obtenu
+```
 
 ## À retenir
 
