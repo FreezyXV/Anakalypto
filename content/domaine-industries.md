@@ -278,8 +278,20 @@ mondiale dépasse largement le gisement disponible.
 - L'hydrogène joue le même rôle et produit de l'eau.
 - Le recyclage de la ferraille émet bien moins, mais la ressource est limitée.
 
-[Emplacement image : comparaison du haut-fourneau et de la réduction directe à l'hydrogène,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de retirer l'oxygène du minerai
+legende: La sidérurgie pèse environ 8 % des émissions mondiales de CO2 liées à l'énergie.
+colonnes:
+  - titre: Avec du carbone
+    points:
+      - Le carbone capte l'oxygène du minerai
+      - Il en sort du CO2
+  - titre: Avec de l'hydrogène
+    points:
+      - L'hydrogène capte l'oxygène
+      - Il en sort de l'eau
+```
 
 ---
 
@@ -396,8 +408,18 @@ pression, ce qui impose des normes strictes et des contrôles constants.
 - Un catalyseur accélère une réaction sans être consommé.
 - L'industrie fonctionne en continu, ce qui rend les arrêts très coûteux.
 
-[Emplacement image : pyramide des produits chimiques, des molécules de base aux produits finis,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Des molécules de base aux produits
+elements:
+  - titre: Quelques molécules de base
+    icone: flask
+  - titre: Catalyseurs
+    texte: Ils accélèrent les réactions.
+  - titre: Production en continu
+  - titre: Des dizaines de milliers de produits
+    texte: Dont les engrais tirés de l'ammoniac.
+```
 
 ---
 
@@ -505,8 +527,17 @@ vérifie pas simplement.
 - Un robot industriel répète un geste, il ne décide de rien.
 - Les robots collaboratifs travaillent sans barrière, au contact des humains.
 
-[Emplacement image : bras robotisé sur une ligne d'assemblage, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les robots industriels en 2024
+chiffres:
+  - valeur: 542 076
+    texte: robots installés dans l'année
+  - valeur: 4,66 millions
+    texte: robots en service dans le monde
+  - valeur: 54 %
+    texte: des installations en Chine
+```
 
 ---
 
@@ -627,8 +658,17 @@ niveau.
 - L'effet de fouet amplifie les variations de demande le long de la chaîne.
 - Beaucoup d'industriels ignorent l'origine réelle de leurs composants indirects.
 
-[Emplacement image : propagation d'une perturbation le long d'une chaîne d'approvisionnement,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'effet de fouet
+elements:
+  - titre: Petite variation
+    texte: De la demande des clients.
+  - titre: Commandes amplifiées
+    texte: Chaque maillon prend une marge.
+  - titre: Grandes oscillations
+    texte: Chez les fournisseurs les plus éloignés.
+```
 
 ---
 
@@ -738,8 +778,18 @@ et rien ne s'assemblerait.
 - Une tolérance serrée coûte beaucoup plus cher qu'une tolérance large.
 - On surveille le procédé plutôt que de trier les pièces après fabrication.
 
-[Emplacement image : cote nominale et intervalle de tolérance sur une pièce, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Pourquoi une vis se visse partout
+centre: Interchangeabilité
+parties:
+  - nom: Tolérance
+    role: L'intervalle accepté autour d'une dimension.
+  - nom: Contrôle par échantillon
+    role: Sans tout mesurer.
+  - nom: Normes
+    role: Les mêmes références partout.
+```
 
 ---
 
@@ -849,8 +899,20 @@ l'environnement.
 - Une partie du traitement se fait sur place, pour le volume et le délai.
 - Les équipements industriels anciens ne sont pas conçus pour être connectés en sécurité.
 
-[Emplacement image : signature vibratoire d'un roulement sain et d'un roulement usé, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois façons d'entretenir une machine
+colonnes:
+  - titre: Après la panne
+    points:
+      - Réparer quand ça casse
+  - titre: Préventive
+    points:
+      - À intervalles fixes
+  - titre: Prédictive
+    points:
+      - Des capteurs indiquent le bon moment
+```
 
 ---
 
@@ -958,8 +1020,18 @@ personnalisé avant de l'appliquer.
 - Il permet de tester des situations impossibles ou dangereuses en vrai.
 - Sa fidélité conditionne entièrement son utilité.
 
-[Emplacement image : machine réelle et son jumeau numérique reliés par un flux de données,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Jumeau numérique ou simulation
+colonnes:
+  - titre: Simulation
+    points:
+      - Un modèle théorique
+  - titre: Jumeau numérique
+    points:
+      - Relié en continu aux données réelles
+      - Vieillit avec son original
+```
 
 ---
 
@@ -1075,8 +1147,21 @@ pièce devra supporter.
 - Le moulage exige un outillage coûteux amorti sur de grandes séries.
 - La fabrication additive n'a pas de coût fixe et permet des formes impossibles autrement.
 
-[Emplacement image : coût unitaire selon le procédé et la quantité produite, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois façons de mettre la matière en forme
+colonnes:
+  - titre: Enlever
+    points:
+      - Usinage précis
+      - Matière perdue en copeaux
+  - titre: Déformer ou couler
+    points:
+      - Outillage coûteux, amorti en série
+  - titre: Ajouter
+    points:
+      - Impression 3D, couche par couche
+```
 
 ---
 
@@ -1187,8 +1272,18 @@ non.
 - L'orientation des fibres permet de ne mettre de la matière que là où elle travaille.
 - Le recyclage des composites reste le principal point faible.
 
-[Emplacement image : structure d'un composite à fibres orientées, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Un matériau composite
+centre: Composite
+parties:
+  - nom: Fibres
+    role: Elles résistent.
+  - nom: Matrice
+    role: Elle tient les fibres.
+  - nom: Orientation
+    role: Les fibres sont placées là où elles servent.
+```
 
 ---
 
@@ -1304,8 +1399,20 @@ capables de financer le commerce du bronze.
 - Argile, minerai et charbon de bois suffisent : aucune ressource rare n'est nécessaire.
 - Le fer, plus abondant que le cuivre ou l'étain, a démocratisé l'usage du métal dès l'âge du fer.
 
-[Emplacement image : coupe d'un bas fourneau avec buse, soufflet et loupe en formation, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le bas fourneau
+elements:
+  - titre: Charger
+    texte: Minerai et charbon de bois.
+  - titre: Chauffer
+    texte: Vers 1 100 à 1 300 °C, sans fondre le fer.
+    icone: fire
+  - titre: Récupérer la loupe
+    texte: Une masse de fer et de scories.
+  - titre: Marteler
+    texte: Pour chasser les scories.
+```
 
 ---
 
@@ -1417,8 +1524,18 @@ charrue. C'est un savoir-faire ancien mais toujours transmissible avec des moyen
 - Ce savoir-faire ne nécessite ni électricité ni usine, seulement un four, un marteau et une
   enclume.
 
-[Emplacement image : forgeron chauffant une pièce de métal dans un foyer au charbon de bois
-avant de la marteler sur une enclume, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le travail de la forge
+elements:
+  - titre: Chauffer
+    texte: Le métal devient malléable.
+    icone: fire
+  - titre: Frapper
+    texte: Sur l'enclume, au marteau.
+  - titre: Contrôler
+    texte: La forme et la couleur du métal.
+```
 
 ---
 
@@ -1545,8 +1662,17 @@ bleu pour un acier plus souple et résistant aux chocs.
 - Les couleurs de la surface de l'acier chauffé indiquent approximativement la température
   atteinte.
 
-[Emplacement image : séquence de la trempe d'un acier rouge plongé dans l'eau puis du revenu à
-couleur bleue, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Trempe et revenu
+elements:
+  - titre: Chauffer
+    icone: fire
+  - titre: Trempe
+    texte: Refroidir brutalement, l'acier devient très dur et cassant.
+  - titre: Revenu
+    texte: Réchauffer modérément, il regagne de la résistance aux chocs.
+```
 
 ---
 
@@ -1656,8 +1782,17 @@ l'eau du rinçage, ce que l'eau seule ne pourrait pas faire.
 - Le savon nettoie car chaque molécule attire à la fois l'eau et la graisse, ce que l'eau seule
   ne fait pas.
 
-[Emplacement image : étapes de la saponification, du mélange de graisse et de soude jusqu'au
-savon durci en moule, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Fabriquer du savon
+elements:
+  - titre: Préparer la base
+    texte: Soude, ou lessive de cendres filtrées.
+  - titre: Mélanger à la graisse
+  - titre: Saponification
+    texte: Savon et glycérine se forment.
+  - titre: Durcir et sécher
+```
 
 ---
 
@@ -1788,8 +1923,18 @@ textiles, même sans installation industrielle.
 - Faire tremper puis évaporer des cendres de bois permet de produire de la potasse de façon
   artisanale.
 
-[Emplacement image : cendres de bois filtrées dans l'eau pour produire de la potasse brute,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Fabriquer la soude
+evenements:
+  - date: Antiquité
+    titre: Cendres de plantes
+    texte: Plantes marines pour la soude, terrestres pour la potasse.
+  - date: Procédé Leblanc
+    titre: Première production industrielle
+  - date: Procédé Solvay
+    titre: Une amélioration majeure
+```
 
 ---
 
@@ -2153,8 +2298,18 @@ une activité au moment critique.
 - Un inventaire tenu à jour évite ruptures inattendues et commandes en double.
 - Anticiper les besoins futurs équilibre le risque de surstockage et celui de pénurie.
 
-[Emplacement image : entrepôt organisé en zones avec des étagères étiquetées et un système de
-rotation des stocks visible, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Bien stocker
+centre: Entrepôt
+parties:
+  - nom: Zones adaptées
+    role: Moins de manipulations et d'erreurs.
+  - nom: Premier entré, premier sorti
+  - nom: Protection
+    role: Contre l'humidité, les nuisibles, la chaleur.
+  - nom: Suivi
+```
 
 ---
 
@@ -2264,8 +2419,17 @@ références et les mêmes tolérances acceptées.
 - Une tolérance définit une marge d'écart acceptable autour d'une dimension visée.
 - Cette précision partagée permet à des pièces fabriquées séparément de s'assembler correctement.
 
-[Emplacement image : pied à coulisse mesurant précisément le diamètre d'une pièce métallique,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les bases de la mesure précise
+centre: Mesure
+parties:
+  - nom: Pied à coulisse
+  - nom: Étalons
+    role: La référence commune.
+  - nom: Calibration
+  - nom: Tolérances
+```
 
 ---
 
@@ -2665,8 +2829,18 @@ complexe, en particulier en fer et en acier.
 - Cette technique, vieille de plusieurs milliers d'années, reste largement utilisée dans
   l'industrie moderne.
 
-[Emplacement image : métal en fusion versé dans un moule de sable lors d'une opération de
-fonderie, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Fondre une pièce au sable
+elements:
+  - titre: Moule en sable
+    texte: Sable, argile et eau.
+  - titre: Couler
+    texte: Le métal fondu par le conduit de coulée.
+    icone: fire
+  - titre: Refroidir
+  - titre: Casser le moule
+```
 
 ---
 
@@ -2815,8 +2989,21 @@ ambiant.
 - Un gaz protecteur ou un revêtement fondant isole souvent la soudure de l'air ambiant pendant
   l'opération.
 
-[Emplacement image : arc électrique lumineux entre une électrode de soudage et une pièce de
-métal, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois techniques de soudage
+colonnes:
+  - titre: À la forge
+    points:
+      - Chaleur intense et martelage
+      - La plus ancienne
+  - titre: À l'arc
+    points:
+      - Un arc électrique fond le métal
+  - titre: Au chalumeau
+    points:
+      - Une flamme de gaz
+```
 
 ---
 
@@ -2908,8 +3095,16 @@ matière première comme de la laine, du lin ou du coton.
 - Filer et tisser restent réalisables sans électricité, avec des outils simples et une fibre
   brute.
 
-[Emplacement image : fuseau en train de filer de la laine brute en fil, à côté d'un métier à
-tisser rudimentaire, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De la fibre au tissu
+elements:
+  - titre: Fibres
+  - titre: Filer
+    texte: Étirer et torsader, au fuseau ou au rouet.
+  - titre: Tisser
+    texte: Entrelacer les fils sur un métier.
+```
 
 ---
 
@@ -4163,6 +4358,20 @@ Le chimiste allemand Fritz Haber a mis au point la réaction en laboratoire en 1
 
 En 2019, le monde a produit environ 170 millions de tonnes d'ammoniac. Près de la moitié de l'azote présent dans le corps humain vient de ce procédé, à travers les aliments que nous mangeons. Mais il consomme 3 à 5 % du gaz naturel produit sur Terre. Il est responsable d'environ 2 % des émissions mondiales de dioxyde de carbone, un gaz qui réchauffe le climat.
 
+```schema
+type: etapes
+titre: Le procédé Haber-Bosch
+elements:
+  - titre: Azote de l'air
+  - titre: Hydrogène
+  - titre: Réaction
+    texte: Sous haute pression et température, avec un catalyseur.
+    icone: factory
+  - titre: Ammoniac
+    texte: La base des engrais azotés.
+    icone: wheat
+```
+
 ## À retenir
 
 - Les plantes ont besoin d'azote mais ne savent pas utiliser celui de l'air.
@@ -4345,7 +4554,17 @@ status: published
 
 Le verre courant est surtout du sable, additionné d'un fondant et de chaux. Le fondant, la soude, fait fondre le mélange à plus basse température. Au Ier siècle avant notre ère, des artisans de la côte syro-palestinienne inventent le soufflage à la canne.
 
-[Emplacement image : diagramme « Du sable au bocal, la chaîne à reconstruire » en cinq étapes reliées par des flèches. Réunir : sable (silice), fondant (soude) et chaux. Fondre : le fondant abaisse la température nécessaire. Cueillir : prendre une boule de verre fondu au bout de la canne. Souffler : gonfler la boule pour former un objet creux. Façonner : tourner, pincer et couper pendant que le verre est mou. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois ingrédients du verre
+centre: Verre
+parties:
+  - nom: Silice
+    role: Le sable.
+  - nom: Fondant
+    role: La soude abaisse la température de fusion.
+  - nom: Chaux
+```
 
 ## Trois ingrédients
 
@@ -4839,6 +5058,23 @@ Pour obtenir un fer pauvre en carbone, on a longtemps affiné la fonte. Affiner,
 ## L'acier, entre les deux
 
 L'acier se situe entre la fonte et le fer forgé. Ses atomes de carbone se glissent entre les atomes de fer. Quand on tire ou qu'on appuie sur le métal, ils gênent les mouvements à l'intérieur. L'acier devient ainsi plus dur et plus solide que le fer pur, tout en restant capable de se plier. En ajoutant d'autres éléments, on change encore ses qualités. Avec plus de 10 % de chrome, il devient inoxydable et rouille beaucoup moins. Aujourd'hui, le monde produit plus de 1,6 milliard de tonnes d'acier par an. En 2023, la Chine en a fabriqué 54 %.
+
+```schema
+type: comparaison
+titre: Une affaire de carbone
+colonnes:
+  - titre: Fonte
+    points:
+      - Plus de 2 % de carbone
+      - Se moule bien, cassante
+  - titre: Acier
+    points:
+      - Entre les deux
+  - titre: Fer forgé
+    points:
+      - Très peu de carbone
+      - Souple, résiste aux chocs
+```
 
 ## À retenir
 
@@ -5780,6 +6016,18 @@ L'organisation internationale GS1 attribue les numéros utilisés pour ces codes
 
 Le code-barres a été inventé par Norman Woodland et Bernard Silver, qui se sont inspirés du code Morse. Le premier article scanné en caisse était un paquet de chewing-gum, dans un supermarché de Troy, dans l'Ohio.
 
+```schema
+type: etapes
+titre: Lire un code-barres
+elements:
+  - titre: Éclairer
+    texte: Laser ou caméra.
+  - titre: Barres et espaces
+    texte: Les noires absorbent, les claires réfléchissent.
+  - titre: Décoder
+    texte: Chaque chiffre a son motif.
+```
+
 ## À retenir
 
 - Un lecteur éclaire le code, avec un laser ou une caméra : les barres noires absorbent la lumière et les espaces clairs la réfléchissent.
@@ -5914,6 +6162,23 @@ Au XIXe siècle, on transportait déjà des marchandises dans des glacières mon
 Aujourd'hui, des enregistreurs mesurent la température en continu pendant le voyage. Certains sont connectés et envoient leurs mesures à distance. Associés au GPS, ils permettent de savoir où se trouve un camion et à quelle température est sa cargaison. En cas de problème, on peut réagir avant que la marchandise soit perdue.
 
 Ce froid a un coût. La réfrigération absorbe environ 8 % de l'énergie consommée dans le monde. Les fluides qui produisent le froid peuvent aussi fuir et réchauffer le climat.
+
+```schema
+type: echelle
+titre: Les températures de la chaîne du froid
+unite: °C
+min: -20
+max: 5
+zones:
+  - de: -20
+    a: -18
+    label: Surgelés, -18 °C
+    ton: info
+  - de: 0
+    a: 2
+    label: Poisson frais
+    ton: normal
+```
 
 ## À retenir
 
@@ -6271,6 +6536,19 @@ En juin 1799, deux objets en platine deviennent les références officielles. L'
 
 Le 20 mai 1875, plusieurs pays signent la Convention du mètre. Elle crée le Bureau international des poids et mesures, chargé de garder les références communes. En 1889, un nouveau mètre étalon est fabriqué, avec 90 % de platine et 10 % d'iridium. Puis les scientifiques cherchent une définition encore plus précise. Depuis 1983, le mètre est la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde.
 
+```schema
+type: frise
+titre: La naissance du mètre
+evenements:
+  - date: Vers 1789
+    titre: Environ 800 unités de mesure
+  - date: 1793
+    titre: Le mètre défini
+    texte: Le dix-millionième de la distance du pôle à l'équateur.
+  - date: Ensuite
+    titre: Étalons en platine
+```
+
 ## À retenir
 
 - Vers 1789, la France utilisait environ 800 unités de mesure différentes.
@@ -6360,6 +6638,20 @@ Le vrai succès vient avec de nouvelles machines-outils. En 1806, l'horloger Eli
 ## De l'usine à la chaîne de montage
 
 Cette façon de produire s'est appelée le « système américain de fabrication ». Elle s'est étendue aux machines à coudre, aux moissonneuses, aux bicyclettes, puis aux automobiles. Au XXe siècle, les pièces interchangeables ont rendu possibles les chaînes de montage. Chaque ouvrier y pose la même pièce sur chaque objet qui passe, sans rien ajuster. Elles ont aussi simplifié les réparations : il suffit de commander une pièce neuve.
+
+```schema
+type: comparaison
+titre: Avant et après l'interchangeabilité
+colonnes:
+  - titre: Avant
+    points:
+      - Chaque pièce ajustée à la main
+      - Réparations par un artisan
+  - titre: Après
+    points:
+      - Une pièce remplace une identique sans ajustement
+      - Production en série
+```
 
 ## À retenir
 
@@ -6898,6 +7190,22 @@ La longueur des ponts compte. Des ponts courts résistent mieux à la chaleur. D
 
 Grâce à la vulcanisation, le caoutchouc est devenu un matériau très utile. On en fait des pneus, des semelles de chaussures, des tuyaux, des gommes, des jouets, des palets de hockey et des tapis roulants. Le traitement allonge beaucoup la durée de vie de ces objets.
 
+```schema
+type: comparaison
+titre: Le caoutchouc avant et après la vulcanisation
+legende: Découverte par Charles Goodyear en 1839.
+colonnes:
+  - titre: Naturel
+    points:
+      - Colle à la chaleur
+      - Cassant au froid
+  - titre: Vulcanisé
+    points:
+      - Chauffé avec du soufre
+      - Des ponts relient les chaînes
+      - Solide et élastique
+```
+
 ## À retenir
 
 - Le caoutchouc naturel colle à la chaleur et devient cassant au froid.
@@ -7033,6 +7341,20 @@ Une fois durci, le matériau ne fond plus et ne se dissout plus. Il résiste sou
 ## La bakélite, le premier plastique synthétique
 
 Le chimiste belge Leo Baekeland a mis au point la bakélite entre 1907 et 1909. Il obtient son brevet le 7 décembre 1909. C'est le premier plastique entièrement synthétique, et c'est un thermodurcissable. Elle isole bien de l'électricité et résiste à la chaleur. Entre 1920 et 1950, elle a servi à fabriquer des téléphones, des postes de radio, des prises électriques et des interrupteurs.
+
+```schema
+type: comparaison
+titre: Deux familles de plastiques
+colonnes:
+  - titre: Thermoplastiques
+    points:
+      - Ramollissent à la chaleur, comme de la cire
+      - Se refondent encore et encore
+  - titre: Thermodurcissables
+    points:
+      - Durcissent une fois pour toutes, comme un gâteau cuit
+      - La bakélite, premier plastique synthétique
+```
 
 ## À retenir
 
@@ -7515,6 +7837,20 @@ La vitesse de coupe dépend des matériaux. Elle va d'environ 15 mètres par min
 ## Des machines pilotées par ordinateur
 
 Aujourd'hui, beaucoup de tours et de fraiseuses sont à commande numérique. Un ordinateur pilote chaque mouvement à partir d'un programme. Une fraiseuse à trois axes déplace l'outil de gauche à droite, d'avant en arrière et de haut en bas. Une fraiseuse à cinq axes peut en plus faire pivoter la pièce ou l'outil. Elle peut ainsi usiner des formes très complexes.
+
+```schema
+type: comparaison
+titre: Tour ou fraiseuse
+colonnes:
+  - titre: Tour
+    points:
+      - La pièce tourne
+      - Formes rondes
+  - titre: Fraiseuse
+    points:
+      - L'outil tourne
+      - Surfaces planes, rainures, poches
+```
 
 ## À retenir
 
@@ -9317,6 +9653,19 @@ La machine ne se fatigue pas. Elle garde toujours les mêmes critères, même à
 
 Le système reste sensible à ce qui se passe avant lui sur la chaîne. Si le nombre de pièces rejetées augmente soudain, c'est souvent le signe qu'une machine en amont se dérègle.
 
+```schema
+type: systeme
+titre: La vision industrielle
+centre: Contrôle par caméra
+icone: camera
+parties:
+  - nom: Caméra
+  - nom: Éclairage
+    role: Il fait ressortir les détails.
+  - nom: Ordinateur
+  - nom: Logiciel d'analyse
+```
+
 ## À retenir
 
 - La vision industrielle associe caméra, éclairage, ordinateur et logiciel d'analyse d'images.
@@ -9422,6 +9771,18 @@ Un AGV partage souvent son espace avec des personnes. Des capteurs à ultrasons 
 ## Toujours en mouvement
 
 Les AGV roulent sur batterie. Certains vont se recharger seuls pendant les pauses. D'autres changent automatiquement de batterie pour travailler sans arrêt. On les trouve dans les usines, les entrepôts, les hôpitaux, où ils transportent le linge et les médicaments, et dans les ports, où ils déplacent des conteneurs.
+
+```schema
+type: systeme
+titre: Les façons de guider un chariot autonome
+centre: Chariot sans conducteur
+parties:
+  - nom: Fil dans le sol
+    role: Le premier modèle, années 1950.
+  - nom: Ligne au sol
+  - nom: Repères
+  - nom: Laser
+```
 
 ## À retenir
 
@@ -11111,6 +11472,18 @@ Le silicium est ensuite transformé en lingots : monocristallins, tirés par la 
 
 On dope les plaquettes avec du bore, du phosphore ou d'autres éléments pour créer la jonction P-N, qui produit le courant. Des contacts métalliques, de larges bandes et de fins doigts, sont imprimés sur la cellule pour recueillir le courant. Les cellules sont ensuite assemblées en modules, les panneaux que l'on installe.
 
+```schema
+type: etapes
+titre: Du silicium au panneau
+elements:
+  - titre: Purifier le silicium
+  - titre: Lingots
+  - titre: Plaquettes
+  - titre: Cellules
+  - titre: Panneau
+    icone: sun
+```
+
 ## À retenir
 
 - Presque toutes les cellules solaires commerciales sont en silicium cristallin.
@@ -11200,6 +11573,19 @@ La photolithographie projette un motif, à travers un masque, sur une résine se
 
 Après la fabrication, on teste le wafer, on le découpe en puces individuelles et on monte chaque puce dans un boîtier. Le boîtier protège la puce contre les chocs, la corrosion et l'humidité, évacue la chaleur et relie la puce au circuit imprimé par des broches, des fils ou des billes.
 
+```schema
+type: etapes
+titre: De la tranche au boîtier
+elements:
+  - titre: Lingot et wafer
+    texte: Silicium monocristallin très pur.
+  - titre: Dessiner les circuits
+    texte: En salle blanche.
+  - titre: Découper
+  - titre: Mettre en boîtier
+    icone: chip
+```
+
 ## À retenir
 
 - Une puce part d'un wafer, une tranche de silicium très pur, découpée dans un lingot monocristallin.
@@ -11284,6 +11670,17 @@ Le transporteur américain Malcom McLean a mis au point le conteneur moderne ave
 ## Des effets mondiaux
 
 La conteneurisation a fortement réduit les coûts de transport et soutenu le boom du commerce international d'après-guerre. Elle est devenue un élément majeur de la mondialisation. Le conteneur transporte la grande majorité des marchandises qui ne sont pas du vrac. Elle a bouleversé les ports : certains ont décliné, et d'autres, comme Rotterdam et Felixstowe, sont devenus de grands hubs.
+
+```schema
+type: systeme
+titre: Le conteneur
+centre: Conteneur standard
+parties:
+  - nom: Bateau
+  - nom: Train
+  - nom: Camion
+  - nom: Sans décharger le contenu
+```
 
 ## À retenir
 
@@ -11378,6 +11775,18 @@ La suspension s'égoutte sur une toile, ce qui forme la feuille ; l'eau est ensu
 
 Les vieux papiers peuvent redevenir du papier. On les remet en pâte dans de l'eau, puis on détache l'encre des fibres : c'est le désencrage. La pâte obtenue refait ensuite le même trajet sur la machine. La fabrication du papier demande beaucoup d'eau et des produits chimiques, et le bois vient de forêts, ce qui soulève des questions environnementales.
 
+```schema
+type: etapes
+titre: Du bois au papier
+elements:
+  - titre: Bois
+    icone: tree
+  - titre: Pâte
+    texte: Procédé mécanique ou chimique.
+  - titre: Fibres dans l'eau
+  - titre: Feuille
+```
+
 ## À retenir
 
 - Le papier est fait de fibres de cellulose, souvent tirées du bois, mises en suspension dans l'eau.
@@ -11460,6 +11869,17 @@ Ces normes servent à assurer la compatibilité, la sécurité et la qualité, e
 ## Comment naît une norme ?
 
 Chaque norme suit un processus en plusieurs étapes : proposition, préparation, comités, enquête, approbation et publication. Des centaines de comités techniques travaillent à la rédaction des normes. Les langues officielles de l'ISO sont l'anglais, le français et le russe. L'ISO travaille avec la Commission électrotechnique internationale, la CEI, notamment pour les technologies de l'information.
+
+```schema
+type: systeme
+titre: L'ISO
+centre: ISO
+parties:
+  - nom: Organisation non gouvernementale
+  - nom: Un organisme par pays
+  - nom: Un nom grec
+    role: Isos, égal.
+```
 
 ## À retenir
 
@@ -11545,6 +11965,18 @@ Un robot industriel est un système commandé automatiquement, reprogrammable et
 
 La Chine est le pays qui installe le plus de robots industriels. L'automobile est le premier client des robots industriels, devant l'électronique. Des millions de robots industriels sont en service dans le monde. La robotisation transforme les emplois : elle supprime certaines tâches et en modifie beaucoup d'autres.
 
+```schema
+type: frise
+titre: L'industrie française
+evenements:
+  - date: Années 1970 et 1980
+    titre: Début du recul
+    texte: En emplois et en part de la richesse.
+  - date: Aujourd'hui
+    titre: Réindustrialiser
+    texte: Avec davantage de robots.
+```
+
 ## À retenir
 
 - L'industrie française a perdu du poids depuis les années 1970 et 1980, en emplois comme en part de la richesse produite.
@@ -11629,6 +12061,23 @@ Un four à arc électrique fond de la ferraille, ou du fer de réduction directe
 
 Dans le monde, la voie haut-fourneau fournit la majorité de l'acier, et le four électrique environ un tiers. La sidérurgie est responsable d'une part importante des émissions mondiales de CO2.
 
+```schema
+type: comparaison
+titre: Deux filières de l'acier
+colonnes:
+  - titre: Haut-fourneau
+    icone: factory
+    points:
+      - Minerai, coke et fondants
+      - Le coke retire l'oxygène du minerai
+      - Fortes émissions de CO2
+  - titre: Four électrique
+    icone: bolt
+    points:
+      - Refond surtout de la ferraille
+      - Empreinte plus faible
+```
+
 ## À retenir
 
 - Dans un haut-fourneau, on charge minerai, coke et fondants par le haut, et l'on souffle de l'air chaud par le bas.
@@ -11711,6 +12160,17 @@ Le fer de réduction directe, ou DRI, est du minerai de fer réduit à l'état s
 ## Un chemin encore long
 
 Pour que le procédé soit vraiment propre, l'hydrogène et l'électricité doivent être produits avec des énergies renouvelables. Cela demande une énorme capacité d'énergies renouvelables, ce qui freine le déploiement. L'hydrogène augmente le coût de fabrication par rapport aux méthodes classiques. ArcelorMittal, Voestalpine et Tata se sont engagés à utiliser de l'hydrogène vert pour produire du fer. Le projet suédois HYBRIT a mis en œuvre la réduction directe par hydrogène. Recycler de la ferraille évite aussi beaucoup d'émissions par rapport à la voie haut-fourneau.
+
+```schema
+type: etapes
+titre: L'acier vert
+elements:
+  - titre: Hydrogène bas-carbone
+  - titre: Réduction directe
+    texte: L'hydrogène remplace le coke.
+  - titre: Fusion au four électrique
+    icone: bolt
+```
 
 ## À retenir
 
@@ -11796,6 +12256,16 @@ Elle permet des formes complexes impossibles à fabriquer à la main, avec peu d
 
 Trois ingénieurs français et l'Américain Chuck Hull ont déposé les premiers brevets, et l'expiration de brevets a favorisé la diffusion de la technique. Le prix des imprimantes d'entrée de gamme a beaucoup baissé. Ses limites sont la vitesse, le coût et les propriétés des matériaux ; les composants électroniques sont difficiles à imprimer. Pour la fabrication distribuée, il faut encore régler les questions de qualité, de réglementation et de coordination entre les sites de production.
 
+```schema
+type: etapes
+titre: Imprimer une pièce
+elements:
+  - titre: Modèle numérique
+  - titre: Couche par couche
+    texte: La matière est ajoutée.
+  - titre: Pièce sur place
+```
+
 ## À retenir
 
 - La fabrication additive, ou impression 3D, construit un objet en ajoutant de la matière couche par couche à partir d'un modèle numérique.
@@ -11879,6 +12349,19 @@ Très peu d'aimants en fin de vie sont recyclés dans le monde. Le recyclage est
 
 Une méthode utilise l'hydrogène : il fait éclater l'aimant en une poudre d'alliage, qu'on peut tamiser, presser et fritter pour refaire des aimants. Cette méthode, appelée HPMS, a été mise au point à l'université de Birmingham. Fabriquer un aimant recyclé consomme bien moins d'énergie que produire un aimant à partir de terres rares neuves. Des aimants fabriqués avec de la poudre recyclée ont montré des propriétés magnétiques comparables à celles d'aimants neufs. Les aimants récupérés viennent de disques durs, de haut-parleurs, d'éoliennes, de moteurs électriques et de téléphones. Des projets européens, comme REMANENCE puis SUSMAGPRO, travaillent sur des filières de récupération. Le recyclage réduirait la dépendance de l'Europe aux importations.
 
+```schema
+type: comparaison
+titre: Recycler les aimants
+colonnes:
+  - titre: Le besoin
+    points:
+      - L'Europe extrait peu de terres rares
+  - titre: La réalité
+    points:
+      - Très peu d'aimants recyclés
+      - Une voie à l'hydrogène à l'étude
+```
+
 ## À retenir
 
 - L'Union européenne n'extrait qu'une petite part des terres rares dont elle a besoin pour fabriquer ses aimants.
@@ -11961,6 +12444,20 @@ En Europe, des gigafactories de batteries ont été lancées par ACC en France, 
 ## Des difficultés
 
 Northvolt, entreprise suédoise, devait devenir le champion européen de la batterie, mais elle a fini en faillite. Selon une enquête de la télévision publique suédoise, seule une très petite quantité d'accumulateurs avait été vendue. Un ancien employé a affirmé que la direction avait caché des défauts de production et des problèmes financiers. BMW a annulé un important contrat à cause de retards de livraison. Plusieurs sources estiment qu'une grande part des gigafactories européennes risque des retards ou des annulations.
+
+```schema
+type: systeme
+titre: Les gigafactories
+centre: Gigafactory
+icone: factory
+parties:
+  - nom: Capacité
+    role: En gigawattheures.
+  - nom: Origine du mot
+    role: Tesla, Nevada.
+  - nom: Difficultés
+    role: En Europe aussi.
+```
 
 ## À retenir
 
@@ -12049,6 +12546,18 @@ Pour être reconnu, un fab lab doit être ouvert au public, respecter la charte 
 
 Une micro-usine est une petite usine, économe en capital, destinée à l'assemblage local d'un produit complexe ou à une production flexible en petites quantités. Le concept de micro-usine est apparu au Japon. Une micro-usine économise de l'espace, de l'énergie, des matériaux, du temps et du capital de départ.
 
+```schema
+type: systeme
+titre: Un fab lab
+centre: Atelier ouvert
+parties:
+  - nom: Imprimantes 3D
+  - nom: Découpeuses laser
+  - nom: Fraiseuses
+  - nom: Origine
+    role: Le MIT.
+```
+
 ## À retenir
 
 - Un fab lab est un atelier ouvert de fabrication numérique, avec imprimantes 3D, découpeuses laser et fraiseuses.
@@ -12056,3 +12565,4 @@ Une micro-usine est une petite usine, économe en capital, destinée à l'assemb
 - Un fab lab doit être ouvert au public, respecter la charte des fab labs et participer au réseau mondial.
 - On y prototype, on apprend et on fabrique des produits adaptés aux besoins locaux.
 - Une micro-usine est une petite usine, économe en capital, destinée à l'assemblage local d'un produit complexe ou à une production flexible en petites quantités.
+
