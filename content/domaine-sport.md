@@ -270,8 +270,26 @@ personne ne court un marathon à la vitesse d'un cent mètres.
 - La voie anaérobie lactique couvre les efforts intenses de trente secondes à deux minutes.
 - La voie aérobie est lente à démarrer mais quasi inépuisable.
 
-[Emplacement image : contribution des trois filières énergétiques selon la durée de l'effort,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les trois filières d'énergie du muscle
+legende: Elles fonctionnent ensemble, dans des proportions qui changent.
+colonnes:
+  - titre: Immédiate
+    icone: bolt
+    points:
+      - ATP et phosphocréatine
+      - Une dizaine de secondes
+  - titre: Anaérobie lactique
+    points:
+      - Sans oxygène
+      - Efforts intenses de quelques dizaines de secondes
+  - titre: Aérobie
+    icone: heart
+    points:
+      - Avec oxygène
+      - Efforts longs
+```
 
 ---
 
@@ -389,8 +407,20 @@ environ, ce qui reste une approximation.
 - Le corps s'adapte précisément à ce qu'on lui demande.
 - L'augmentation de la charge doit rester progressive.
 
-[Emplacement image : courbe de surcompensation et placement de la séance suivante, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Comment on progresse
+elements:
+  - titre: Séance
+    texte: Elle crée de la fatigue.
+    icone: dumbbell
+  - titre: Récupération
+    texte: Elle crée la progression.
+  - titre: Adaptation
+    texte: Le corps devient plus fort.
+  - titre: Nouvelle séance
+    texte: Au bon moment, un peu plus exigeante.
+```
 
 ---
 
@@ -515,8 +545,19 @@ arrêt de six mois.
 - Les tendons demandent des mois là où le souffle progresse en semaines.
 - Progressivité, sommeil et renforcement protègent plus que les étirements.
 
-[Emplacement image : vitesses d'adaptation comparées des différents tissus, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Des tissus qui s'adaptent à des vitesses différentes
+colonnes:
+  - titre: Rapides
+    points:
+      - Cœur
+      - Muscles
+  - titre: Lents
+    points:
+      - Tendons, des mois
+      - D'où les blessures de surcharge
+```
 
 ---
 
@@ -629,8 +670,17 @@ en club, et pas seulement l'exercice individuel.
 - Plus de 38 millions de licenciés auprès de clubs ou fédérations.
 - L'accessibilité matérielle explique la diffusion mondiale du football.
 
-[Emplacement image : répartition mondiale des pratiquants de football, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le football dans le monde
+chiffres:
+  - valeur: 265 millions
+    texte: de pratiquants environ
+  - valeur: 10 %
+    texte: de femmes environ
+  - valeur: "> 38 millions"
+    texte: de licenciés
+```
 
 ---
 
@@ -745,8 +795,18 @@ travaux actifs.
 - Une performance mesure tout un système, pas seulement un corps.
 - L'écart femmes-hommes avoisine 10 % en course et s'est stabilisé.
 
-[Emplacement image : évolution d'un record du monde sur un siècle, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que racontent les records
+centre: Records
+parties:
+  - nom: Progrès qui ralentit
+    role: À l'approche des limites.
+  - nom: Sauts brusques
+    role: Souvent une cause matérielle.
+  - nom: Comparer les époques
+    role: Délicat.
+```
 
 ---
 
@@ -859,8 +919,16 @@ technique et sportive, pas comme une question de principe.
 - Les frontières entre classes sont nécessairement arbitraires quelque part.
 - L'effet des prothèses sur la performance reste débattu scientifiquement.
 
-[Emplacement image : principe de la classification fonctionnelle en sport adapté, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La classification en sport adapté
+elements:
+  - titre: Évaluer l'impact fonctionnel
+    texte: Pas seulement le diagnostic.
+  - titre: Selon la discipline
+  - titre: Regrouper les athlètes
+    icone: medal
+```
 
 ---
 
@@ -978,8 +1046,15 @@ sur les institutions chargées des contrôles.
 - Un contrôle négatif ne prouve pas l'absence de dopage.
 - Le passeport biologique détecte les effets plutôt que les substances.
 
-[Emplacement image : principe du passeport biologique et détection d'une variation anormale,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le dopage en 2023
+chiffres:
+  - valeur: 2 301
+    texte: résultats anormaux
+  - valeur: 2 005
+    texte: sanctions
+```
 
 ---
 
@@ -1089,8 +1164,18 @@ rapide des audiences ces dernières années.
 - Quelques compétitions et quelques clubs captent l'essentiel de la valeur.
 - La plupart des disciplines vivent de subventions et de bénévolat.
 
-[Emplacement image : répartition des revenus d'un grand club par source, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'économie du sport
+colonnes:
+  - titre: Autrefois
+    points:
+      - La billetterie en première ressource
+  - titre: Aujourd'hui
+    points:
+      - Les droits de diffusion
+      - Le direct garde une valeur rare
+```
 
 ---
 
@@ -1217,8 +1302,17 @@ Agir sur ces obstacles est plus efficace que de répéter qu'il faut bouger.
   renforcement.
 - Le temps passé assis est un facteur de risque distinct de l'activité physique.
 
-[Emplacement image : courbe du bénéfice santé selon le niveau d'activité physique, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Où se trouve le plus grand gain
+colonnes:
+  - titre: Plus grand gain
+    points:
+      - Passer de l'inactivité totale à une activité modérée
+  - titre: Problème distinct
+    points:
+      - La sédentarité, le temps assis
+```
 
 ---
 
@@ -1545,8 +1639,20 @@ fréquent après une première entorse mal soignée.
 - Un bandage de compression adapté limite le gonflement sans couper la circulation.
 - La rééducation progressive réduit le risque de récidive après la guérison initiale.
 
-[Emplacement image : cheville entourée d'un bandage de compression, surélevée avec une poche de
-glace enveloppée d'un tissu, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: La méthode RICE
+elements:
+  - titre: Repos
+    texte: Pour ne pas aggraver la lésion.
+  - titre: Glace
+    texte: Pour limiter l'enflure.
+    icone: snowflake
+  - titre: Compression
+    texte: Pour stabiliser.
+  - titre: Élévation
+    texte: Pour drainer.
+```
 
 ---
 
@@ -1640,8 +1746,18 @@ immédiatement le bandage.
 - Il ne faut jamais tenter de redresser un os visiblement déformé.
 - La circulation sous l'attelle doit être vérifiée régulièrement après la pose.
 
-[Emplacement image : jambe immobilisée avec une attelle improvisée à partir d'une planche et de
-bandes de tissu, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Immobiliser une fracture
+elements:
+  - titre: Reconnaître
+    texte: Douleur intense, gonflement, déformation.
+  - titre: Ne pas redresser
+    texte: Jamais un os déformé.
+  - titre: Attelle
+    texte: Immobiliser les articulations au-dessus et en dessous.
+  - titre: Surveiller la circulation
+```
 
 ---
 
@@ -1813,6 +1929,20 @@ Un match dure deux mi-temps de 40 minutes. Le terrain peut mesurer jusqu'à 100 
 
 Selon une légende, le rugby serait né vers 1823 dans l'école de la ville de Rugby, en Angleterre. Un élève, William Webb Ellis, aurait pris le ballon à la main pendant un match de football. Les historiens pensent que la vraie histoire est plus compliquée. La fédération anglaise, la Rugby Football Union, est fondée en 1871. La première Coupe du monde a eu lieu en 1987.
 
+```schema
+type: comparaison
+titre: Avancer au rugby
+colonnes:
+  - titre: Interdit
+    points:
+      - Lancer le ballon à la main vers l'avant
+  - titre: Autorisé
+    points:
+      - Courir avec le ballon
+      - Le taper au pied
+      - Passer vers l'arrière
+```
+
 ## À retenir
 
 - Au rugby, le ballon lancé à la main ne doit jamais avancer vers l'en-but adverse.
@@ -1903,6 +2033,20 @@ Au début, le nombre de joueurs varie d'un match à l'autre. Vers 1897-1898, on 
 La Fédération internationale de basket-ball, la FIBA, est créée en 1932. Le basket masculin entre aux Jeux olympiques en 1936, à Berlin.
 
 Aujourd'hui, un panier marqué pendant le jeu vaut deux points. Un tir réussi derrière la ligne à trois points en vaut trois. Après certaines fautes, un joueur tire des lancers francs, qui valent un point chacun. Le basket est devenu l'un des sports les plus pratiqués et les plus regardés du monde. La NBA, le championnat professionnel nord-américain, en est la ligue la plus célèbre.
+
+```schema
+type: frise
+titre: L'invention du basket-ball
+evenements:
+  - date: Décembre 1891
+    titre: James Naismith
+    texte: Un sport d'intérieur à Springfield.
+  - date: Les débuts
+    titre: Des caisses à pêches
+    texte: En guise de paniers.
+  - date: Aujourd'hui
+    titre: Un sport mondial
+```
 
 ## À retenir
 
@@ -2103,8 +2247,17 @@ calmement, puis reprendre progressivement la nage ou attendre de l'aide.
 - Nager accompagné reste plus sûr que nager seul, même pour une personne expérimentée.
 - En cas de panique, flotter calmement sur le dos permet de reprendre le contrôle avant d'agir.
 
-[Emplacement image : une personne flottant sur le dos en position détendue dans une piscine peu
-profonde, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les étapes pour apprendre à nager
+elements:
+  - titre: Flotter sur le dos
+    texte: La compétence de base.
+  - titre: Respirer
+    texte: Expirer sous l'eau.
+  - titre: Rester où l'on a pied
+  - titre: Toujours accompagné
+```
 
 ---
 
@@ -2688,9 +2841,17 @@ mêmes risques.
 - Une position stable, pieds écartés, prévient les déséquilibres au moment de soulever.
 - Reposer une charge nécessite les mêmes précautions que la soulever.
 
-[Emplacement image : comparaison entre une posture correcte, genoux pliés, et une posture
-incorrecte, dos courbé, lors du port d'une charge, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Soulever sans se blesser
+elements:
+  - titre: Position stable
+  - titre: Plier les genoux
+    texte: Pas le dos.
+  - titre: Charge près du corps
+  - titre: Pousser avec les jambes
+  - titre: Ne pas tourner le buste
+```
 
 ---
 
@@ -3759,6 +3920,23 @@ Le papillon, lui, est né d'une façon de nager la brasse avec les deux bras ram
 
 Dans le 4 nages individuel, le nageur enchaîne papillon, dos, brasse et crawl.
 
+```schema
+type: barres
+titre: Les quatre nages, de la plus rapide à la plus lente
+unite: ""
+valeurs:
+  - label: Crawl
+    valeur: 4
+    note: la plus rapide
+  - label: Papillon
+    valeur: 3
+  - label: Dos
+    valeur: 2
+  - label: Brasse
+    valeur: 1
+    note: la plus lente
+```
+
 ## À retenir
 
 - Les quatre nages de compétition sont, de la plus rapide à la plus lente, le crawl, le papillon, le dos et la brasse.
@@ -4035,6 +4213,18 @@ Pour être reconnue par l'UIAA, une organisation internationale de l'alpinisme, 
 ## Le rôle de l'assureur
 
 L'assureur tient la corde avec un appareil fixé à son baudrier. Cet appareil fonctionne comme un frein : la corde y frotte, ce qui permet de la bloquer quand le grimpeur tombe. Un des premiers modèles, la plaque Sticht, a été breveté en 1970. Les mouvements de l'assureur aident aussi à amortir la chute.
+
+```schema
+type: systeme
+titre: La chaîne d'assurage
+centre: Grimpeur
+parties:
+  - nom: Corde dynamique
+    role: Elle s'allonge pour amortir.
+  - nom: Assureur
+    role: Il bloque la corde.
+  - nom: Points d'ancrage
+```
 
 ## À retenir
 
@@ -4380,6 +4570,19 @@ Les médecins du sport suivent une règle simple : au moindre doute, le joueur s
 Après un ou deux jours de repos, le retour se fait par étapes. On commence par une activité physique légère. On passe ensuite à un entraînement plus soutenu, puis à des exercices propres au sport pratiqué. La dernière étape est la reprise complète. On attend au moins 24 heures entre deux étapes.
 
 Un repos trop long n'est pas conseillé, car il peut gêner la guérison. La plupart des personnes guérissent en moins de quatre semaines. Chez les enfants, la guérison prend souvent plus de temps que chez les adultes.
+
+```schema
+type: etapes
+titre: Face à une commotion cérébrale
+elements:
+  - titre: Choc
+    texte: Le cerveau est secoué dans le crâne.
+    icone: brain
+  - titre: Signes discrets
+    texte: Moins d'une commotion sur dix fait perdre connaissance.
+  - titre: Dans le doute, on sort
+  - titre: Reprise progressive
+```
 
 ## À retenir
 
@@ -5004,6 +5207,17 @@ Avec l'entraînement d'endurance, le cœur devient plus efficace. Au repos, il b
 
 L'écart entre la fréquence maximale et la fréquence au repos grandit aussi avec l'entraînement. Après l'effort, le cœur ralentit. Chez une personne en bonne santé, il ralentit nettement dès la première minute de récupération.
 
+```schema
+type: etapes
+titre: Le cœur pendant l'effort
+elements:
+  - titre: Les muscles demandent de l'oxygène
+    icone: dumbbell
+  - titre: Le cœur accélère
+    icone: heart
+  - titre: Plus de sang envoyé
+```
+
 ## À retenir
 
 - Pendant l'effort, le cœur accélère pour apporter plus d'oxygène aux muscles.
@@ -5116,6 +5330,19 @@ Si le corps n'arrive plus à évacuer sa chaleur, sa température monte. Les pre
 Si l'on s'expose plusieurs fois à la chaleur, le corps s'adapte : c'est l'acclimatation. Il transpire davantage et perd moins de sel dans sa sueur. La partie liquide du sang, le plasma, augmente. Le cœur et la circulation deviennent plus efficaces.
 
 Pour faire du sport quand il fait très chaud, les médecins conseillent d'éviter les heures les plus chaudes. Ils recommandent de boire en se guidant sur sa soif, de porter des vêtements clairs et légers, et d'augmenter l'effort petit à petit.
+
+```schema
+type: etapes
+titre: La sueur, climatiseur naturel
+elements:
+  - titre: Effort
+    texte: Le corps produit de la chaleur.
+  - titre: Sueur
+  - titre: Évaporation
+    texte: Elle refroidit la peau.
+  - titre: Air humide
+    texte: La sueur s'évapore mal.
+```
 
 ## À retenir
 
@@ -5494,6 +5721,17 @@ Le signal qui déclenche cette croissance est surtout la tension : le muscle doi
 Un muscle s'habitue à l'effort qu'on lui demande. Pour continuer à progresser, il faut augmenter la résistance petit à petit. C'est le principe de surcharge progressive. Le repos entre les séances compte aussi beaucoup, car c'est là que le corps récupère. Les protéines de l'alimentation fournissent les matériaux pour fabriquer du muscle.
 
 Les exercices au poids du corps, comme les pompes, les tractions ou les squats, font travailler plusieurs muscles à la fois. Chez les jeunes, aucune blessure des zones de croissance des os n'a été signalée dans les programmes qui suivent les règles établies. La présence d'un adulte qui encadre reste considérée comme essentielle.
+
+```schema
+type: etapes
+titre: Devenir plus fort
+elements:
+  - titre: Les nerfs apprennent
+    texte: Ils commandent mieux les muscles.
+  - titre: Les fibres grossissent
+  - titre: On augmente peu à peu
+    icone: dumbbell
+```
 
 ## À retenir
 
@@ -7343,6 +7581,19 @@ Les joueurs n'ont pas tous le même handicap. Certains contrôlent bien leur tro
 
 Dans les compétitions internationales, les cinq joueurs sur le terrain ne doivent pas dépasser 14 points au total. Une équipe ne peut donc pas aligner seulement les joueurs les moins handicapés. Elle doit mélanger des joueurs aux capacités différentes.
 
+```schema
+type: systeme
+titre: Le basket en fauteuil
+centre: Basket en fauteuil
+parties:
+  - nom: Origine
+    role: Fin de la Seconde Guerre mondiale.
+  - nom: Les mêmes paniers
+  - nom: Fauteuil de sport
+  - nom: Points de classification
+    role: Pour des équipes équitables.
+```
+
 ## À retenir
 
 - Le basket en fauteuil roulant est né à la fin de la Seconde Guerre mondiale, en Angleterre et aux États-Unis.
@@ -7463,6 +7714,16 @@ Le terrain mesure 18 mètres de long sur 9 mètres de large. Les lignes sont en 
 Chaque équipe a trois joueurs sur le terrain. Les buts occupent toute la largeur du terrain, soit 9 mètres, et mesurent 1,30 mètre de haut. Pour marquer, un joueur lance le ballon vers le but adverse. Le ballon doit toucher le sol dans des zones précises du terrain.
 
 Pour défendre, les joueurs glissent sur le côté. Ils tendent les bras au-dessus de la tête et allongent les jambes pour couvrir le plus de place possible. Une équipe a 10 secondes pour renvoyer le ballon de l'autre côté. Un match dure deux mi-temps de 12 minutes.
+
+```schema
+type: chiffres
+titre: Le goalball
+chiffres:
+  - valeur: 1946
+    texte: invention, pour des soldats devenus aveugles
+  - valeur: 1,25 kg
+    texte: ballon avec des grelots
+```
 
 ## À retenir
 
@@ -10315,6 +10576,14 @@ Une étude plus récente, avec des charges bien plus lourdes, a trouvé que le p
 
 Aucun matériel n'est nécessaire, seulement son corps.
 
+```schema
+type: chiffres
+titre: Le pendule de la marche
+chiffres:
+  - valeur: 65 %
+    texte: de l'énergie récupérée par la marche, au mieux
+```
+
 ## À retenir
 
 - Le mouvement du corps qui marche ressemble à celui d'un pendule inversé : la gravité fait une partie du travail.
@@ -10398,6 +10667,16 @@ Pour la prévention des blessures, les preuves restent contradictoires ou limit�
 ## Étirer ou bouger ?
 
 Un étirement statique de longue durée avant l'effort peut réduire temporairement la force et la performance maximale. Les étirements dynamiques, qui font bouger les articulations dans toute leur amplitude, apportent des gains à court terme en force, en vitesse et en saut. Tous les types d'étirements augmentent l'amplitude du mouvement, mais ils ne réduisent pas les courbatures.
+
+```schema
+type: systeme
+titre: Ce que fait l'échauffement
+centre: Échauffement
+parties:
+  - nom: Température du corps
+  - nom: Circulation
+  - nom: Contraction plus rapide
+```
 
 ## À retenir
 
@@ -10490,6 +10769,18 @@ Le dopage sanguin emploie l'EPO, des transfusions de sang, parfois son propre sa
 
 Des tests de détection de l'EPO existent, par analyse d'urine ou de sang. Pour les transfusions, la cytométrie en flux peut repérer des globules rouges venant d'un autre donneur ; pour son propre sang, on mesure une masse d'hémoglobine anormale. Le passeport biologique de l'athlète enregistre ses marqueurs biologiques dans le temps, pour détecter les effets du dopage plutôt que la substance elle-même. Son module sanguin suit notamment l'hémoglobine et les réticulocytes, et fixe une plage de référence individuelle.
 
+```schema
+type: etapes
+titre: L'EPO
+elements:
+  - titre: Hormone des reins
+  - titre: Moelle osseuse
+    texte: Elle produit plus de globules rouges.
+  - titre: Plus d'oxygène transporté
+  - titre: Contrôles
+    texte: Analyses et passeport biologique.
+```
+
 ## À retenir
 
 - L'EPO, ou érythropoïétine, est une hormone fabriquée surtout par les reins, qui stimule la production de globules rouges dans la moelle osseuse.
@@ -10574,6 +10865,17 @@ La méthode vivre haut, s'entraîner bas consiste à dormir en altitude mais à 
 ## Des résultats discutés
 
 Les résultats des études sont variés, selon de nombreux facteurs. Les chercheurs ne s'accordent pas sur le mécanisme : certains citent l'augmentation des globules rouges, d'autres une utilisation plus efficace de l'oxygène par les muscles. Les critiques notent que la concentration de globules rouges revient vite à la normale, et que l'intensité d'entraînement peut baisser en altitude. Comme l'altitude fait monter l'EPO naturelle, ses effets sur le sang ressemblent à ceux d'un dopage à l'EPO, ce qui complique les contrôles.
+
+```schema
+type: etapes
+titre: L'entraînement en altitude
+elements:
+  - titre: Air plus pauvre en oxygène
+    icone: mountain
+  - titre: Plus de globules rouges
+  - titre: Retour en plaine
+    texte: Des résultats discutés.
+```
 
 ## À retenir
 
@@ -10662,6 +10964,20 @@ Les courbatures sont des douleurs et une raideur musculaires qui apparaissent ap
 
 Une progression graduelle de l'intensité aide à les limiter. Aucune preuve ne montre que les étirements diminuent les courbatures. L'idée que le lactate cause les courbatures est une explication ancienne, aujourd'hui discréditée.
 
+```schema
+type: comparaison
+titre: Lactate et courbatures
+colonnes:
+  - titre: Lactate
+    points:
+      - Produit lors d'un effort intense
+      - Recyclé rapidement
+  - titre: Courbatures
+    points:
+      - Une autre cause
+      - Apparaissent le lendemain
+```
+
 ## À retenir
 
 - Lors d'un effort intense, les muscles demandent de l'énergie plus vite que l'oxygène n'arrive : une partie du sucre est transformée en lactate.
@@ -10747,6 +11063,16 @@ Le domaine fait face à des doutes sur la reproductibilité : on répète trop p
 
 L'analyse sportive utilise des statistiques historiques pour donner un avantage compétitif à une équipe ou à un athlète. Le film Moneyball a rendu cette approche célèbre, avec un directeur sportif qui s'appuyait sur les données malgré un petit budget. Au baseball, la sabermétrie utilise des indicateurs précis pour évaluer les joueurs et choisir la stratégie. D'autres sports ont leurs propres indicateurs, comme les buts attendus au football ou les tirs tentés au hockey. Au golf, des lasers et des caméras recueillent des données précises sur chaque coup. L'intelligence artificielle fournit déjà aux lanceurs les points faibles des batteurs adverses et aide à ajuster la tactique en direct. Des équipes ont gagné des titres en repérant des joueurs sous-évalués ou en ajustant leur placement défensif grâce aux données.
 
+```schema
+type: systeme
+titre: La science du sport
+centre: Équipe de haut niveau
+parties:
+  - nom: Physiologie de l'exercice
+  - nom: Biomécanique
+  - nom: Données
+```
+
 ## À retenir
 
 - La science du sport étudie comment le corps humain en bonne santé s'adapte à l'effort, à court et à long terme.
@@ -10830,6 +11156,18 @@ L'explication classique accuse la perte de sel par la sueur et la déshydratatio
 ## Facteurs de risque et soulagement
 
 Les facteurs de risque sont l'effort intense et prolongé, la fatigue musculaire, des crampes antérieures, un muscle en position raccourcie, l'âge et une mauvaise condition physique. L'étirement passif est le moyen le plus courant et le plus efficace de soulager une crampe aiguë, car il augmente les signaux freinant les neurones moteurs. D'autres causes existent : grossesse, certains médicaments, maladies métaboliques ou nerveuses. Un échauffement progressif avant l'effort figure parmi les mesures citées.
+
+```schema
+type: comparaison
+titre: Les causes des crampes, un débat
+colonnes:
+  - titre: Explication classique
+    points:
+      - Perte de sel et déshydratation
+  - titre: Autre piste
+    points:
+      - Fatigue du contrôle nerveux du muscle
+```
 
 ## À retenir
 
@@ -10915,6 +11253,19 @@ Le glycogène, réserve de glucose dans le foie et les muscles, est la principal
 
 Selon la source, ce moment n'est pas indispensable à une bonne performance, mais c'est un petit détail qui peut aider à gagner en force. Parmi les bénéfices avancés, on cite moins d'inflammation musculaire et une récupération plus rapide. Associer glucides et caféine après l'effort pourrait accélérer la reconstitution du glycogène, mais l'effet reste mal connu. La page elle-même signale qu'elle manque de sources solides.
 
+```schema
+type: comparaison
+titre: Manger après l'effort
+colonnes:
+  - titre: L'idée populaire
+    points:
+      - Une fenêtre courte à ne pas rater
+  - titre: Ce que montre la science
+    points:
+      - Un détail utile, pas un secret
+      - L'apport total compte davantage
+```
+
 ## À retenir
 
 - Le chronométrage des nutriments consiste à consommer certains nutriments à des moments précis autour de l'exercice, pour améliorer le développement musculaire et la performance.
@@ -10999,6 +11350,18 @@ La photopléthysmographie est une méthode optique qui détecte les variations d
 
 Ces appareils peuvent aider à repérer un rythme cardiaque irrégulier et à suivre le sommeil ou le stress. Des applications transmettent des données personnelles sans consentement clair, et la géolocalisation peut révéler des sites sensibles. Les aspects de jeu peuvent motiver, mais risquent de banaliser les objectifs de santé.
 
+```schema
+type: etapes
+titre: Lire un pouls au poignet
+elements:
+  - titre: Une diode éclaire la peau
+  - titre: Le sang absorbe la lumière
+    texte: Plus ou moins à chaque battement.
+  - titre: Un capteur mesure le reflet
+  - titre: Le logiciel en tire le pouls
+    icone: heart
+```
+
 ## À retenir
 
 - Un tracker d'activité est un appareil électronique qui mesure et enregistre les mouvements et les réactions physiques d'une personne.
@@ -11082,6 +11445,16 @@ Dans le saut en longueur et les courses de vitesse, la progression a nettement r
 ## Techniques et modèles
 
 L'équipement et la technologie comptent : les chaussures à plaque de carbone ont amélioré l'économie de course, et les lièvres lumineux aident à répartir l'allure. Des modèles mathématiques décrivent un siècle de records, avec un plafond que les performances approchent.
+
+```schema
+type: systeme
+titre: Pourquoi les records ralentissent
+centre: Record du monde
+parties:
+  - nom: Limites physiologiques approchées
+  - nom: Sauts liés aux techniques
+  - nom: Modèles de prévision
+```
 
 ## À retenir
 
@@ -11170,6 +11543,16 @@ Mexico se trouve à 2 240 mètres d'altitude.
 
 À ces Jeux, des records du monde sont battus notamment au 100 m, au 200 m, au 400 m, au 800 m, au 400 m haies, à la longueur et au triple saut chez les hommes. Faut-il les attribuer à l'altitude ? Cette fiche ne tranche pas : elle donne les faits confirmés pour que chacun puisse comparer.
 
+```schema
+type: chiffres
+titre: Le saut de Bob Beamon, 18 octobre 1968
+chiffres:
+  - valeur: 8,90 m
+    texte: en longueur, à Mexico
+  - valeur: 55 cm
+    texte: de plus que l'ancien record
+```
+
 ## À retenir
 
 - Le 18 octobre 1968, Bob Beamon saute 8,90 mètres en longueur aux Jeux olympiques de Mexico.
@@ -11251,6 +11634,19 @@ Les montres s'appuient sur un capteur optique : une diode éclaire la peau, et c
 ## De la mesure au score
 
 Les trackers suivent aussi le sommeil, qui joue sur la récupération. Certains appareils tentent de suivre le stress ou la santé mentale à partir de ces signaux. Le score affiché peut motiver, mais le risque est de banaliser des objectifs de santé. Ces données personnelles posent des questions de vie privée.
+
+```schema
+type: etapes
+titre: De la mesure au score de récupération
+elements:
+  - titre: Temps entre deux battements
+    texte: Il varie sans cesse.
+    icone: heart
+  - titre: Système nerveux
+    texte: La variabilité reflète ses deux branches.
+  - titre: Score
+    texte: Calculé par la montre.
+```
 
 ## À retenir
 
@@ -11342,6 +11738,21 @@ Pour préserver l'intégrité de la compétition, World Athletics limite l'épai
 
 L'expression dopage technologique désigne l'usage d'un équipement qui apporte un avantage, et elle est au cœur du débat sur ces chaussures. Certains commentateurs proposent de distinguer, dans les livres de records, les temps d'avant et d'après ces chaussures. Le débat est d'autant plus vif que la marque de chaussures est souvent le principal sponsor de l'athlète. Certaines paires sont conçues pour une seule course, ce qui pose des questions d'environnement. Des experts s'opposent encore pour savoir si ces chaussures ont fait progresser la performance ou seulement déplacé l'avantage. Les chercheurs qui modélisent les records citent la technologie parmi les facteurs de progression.
 
+```schema
+type: systeme
+titre: Les super shoes
+centre: Chaussure de course
+parties:
+  - nom: Plaque de carbone
+    role: Sur toute la longueur.
+  - nom: Mousse réactive
+    role: Épaisse et légère.
+  - nom: Économie de course
+    role: Moins d'énergie pour la même vitesse.
+  - nom: Règles
+    role: Pour encadrer leur usage.
+```
+
 ## À retenir
 
 - Les super shoes sont légères, avec une plaque de carbone sur toute la longueur et une épaisse mousse réactive.
@@ -11349,3 +11760,4 @@ L'expression dopage technologique désigne l'usage d'un équipement qui apporte 
 - Pour préserver l'intégrité de la compétition, World Athletics limite l'épaisseur de la semelle et le nombre de plaques.
 - Sur route, l'épaisseur maximale de la semelle est de 40 millimètres.
 - L'expression dopage technologique désigne l'usage d'un équipement qui apporte un avantage, et elle est au cœur du débat sur ces chaussures.
+
