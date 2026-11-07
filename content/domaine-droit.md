@@ -257,8 +257,17 @@ ordonnance du 10 février 2016.
 - Il est écrit volontairement dans une langue accessible.
 - Il est toujours en vigueur, largement réformé, notamment en 2016.
 
-[Emplacement image : page de titre d'une édition ancienne du Code civil, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le Code civil de 1804
+chiffres:
+  - valeur: 21 mars 1804
+    texte: promulgation
+  - valeur: 2 281
+    texte: articles en trois livres
+  - valeur: Un seul droit
+    texte: au lieu de règles différentes selon les régions
+```
 
 ---
 
@@ -366,8 +375,16 @@ on ne peut plus poursuivre.
 - Une infraction suppose un acte et un état d'esprit.
 - Trois niveaux : contraventions, délits, crimes.
 
-[Emplacement image : les trois catégories d'infractions et leurs juridictions, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Trois niveaux de gravité des infractions
+niveaux:
+  - titre: Crimes
+    texte: Les plus graves.
+  - titre: Délits
+  - titre: Contraventions
+    texte: Les moins graves.
+```
 
 ---
 
@@ -468,8 +485,18 @@ exige une majorité très large.
 - L'irréversibilité de l'erreur judiciaire est l'argument central.
 - Le principe a été inscrit dans la Constitution en 2007.
 
-[Emplacement image : le débat parlementaire de septembre 1981, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: frise
+titre: L'abolition en France
+evenements:
+  - date: 1981
+    titre: Vote dans les deux chambres
+    texte: Contre une majorité de l'opinion de l'époque.
+  - date: 9 octobre 1981
+    titre: Promulgation de la loi
+  - date: Ensuite
+    titre: Rendre le retour difficile
+```
 
 ---
 
@@ -575,8 +602,19 @@ coupable, il ne peut pas effacer ce que l'opinion a retenu.
 - Le droit au silence et l'accès au dossier en découlent directement.
 - Le principe résiste mal à l'exposition médiatique d'une affaire.
 
-[Emplacement image : répartition de la charge de la preuve dans un procès pénal, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La présomption d'innocence
+centre: Personne poursuivie
+icone: scales
+parties:
+  - nom: Charge de la preuve
+    role: Elle pèse sur l'accusation.
+  - nom: Le doute
+    role: Il profite à l'accusé.
+  - nom: Droit au silence
+  - nom: Accès au dossier
+```
 
 ---
 
@@ -681,8 +719,20 @@ procès.
 - La révision de 1962 instaure l'élection présidentielle au suffrage universel direct.
 - Un Conseil constitutionnel vérifie la conformité des lois.
 
-[Emplacement image : organisation des pouvoirs sous la Ve République, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: La Constitution de la Ve République
+evenements:
+  - date: 28 septembre 1958
+    titre: Référendum
+    texte: Environ 82,6 % de oui.
+  - date: 4 octobre 1958
+    titre: Promulgation
+    texte: Un exécutif renforcé.
+  - date: 1962
+    titre: Révision décisive
+    texte: Élection du président au suffrage universel.
+```
 
 ---
 
@@ -791,8 +841,18 @@ davantage que l'impunité totale qui prévalait auparavant.
 - Quatre crimes : génocide, crimes contre l'humanité, crimes de guerre, agression.
 - Elle n'intervient que si la justice nationale est défaillante.
 
-[Emplacement image : compétence et fonctionnement de la Cour pénale internationale, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La Cour pénale internationale
+legende: Créée par le traité de Rome en 1998, en vigueur depuis 2002. Elle juge des individus.
+centre: Quatre crimes
+icone: scales
+parties:
+  - nom: Génocide
+  - nom: Crimes contre l'humanité
+  - nom: Crimes de guerre
+  - nom: Crime d'agression
+```
 
 ---
 
@@ -906,8 +966,18 @@ En France, ce principe figure dans la Charte de l'environnement, adossée à la 
 - Les mesures doivent être proportionnées, provisoires et révisables.
 - La prévention vise un risque connu, la précaution un risque suspecté.
 
-[Emplacement image : différence entre prévention et précaution selon l'état des connaissances,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Précaution ou prévention
+colonnes:
+  - titre: Précaution
+    points:
+      - Risque grave et irréversible
+      - Incertitude scientifique réelle
+  - titre: Prévention
+    points:
+      - Risque connu et avéré
+```
 
 ---
 
@@ -1012,8 +1082,16 @@ professionnels. C'est aussi une façon de rappeler que la justice est rendue au 
 - La Cour de cassation ne vérifie que l'application du droit.
 - Des citoyens tirés au sort jugent les crimes les plus graves.
 
-[Emplacement image : organisation des juridictions en étages, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: pyramide
+titre: Les étages de la justice judiciaire
+niveaux:
+  - titre: Cour de cassation
+    texte: Vérifie seulement l'application du droit.
+  - titre: Cour d'appel
+    texte: Rejuge entièrement l'affaire.
+  - titre: Tribunaux de première instance
+```
 
 ---
 
@@ -1123,8 +1201,17 @@ personnes dont les droits sont en cause.
 - Elle couvre des droits civils et politiques mais aussi économiques et sociaux.
 - Elle a inspiré les traités contraignants et les cours régionales.
 
-[Emplacement image : les trente articles de la Déclaration regroupés par catégorie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La Déclaration universelle
+chiffres:
+  - valeur: 10 décembre 1948
+    texte: adoption
+  - valeur: 30
+    texte: articles
+  - valeur: Déclaration
+    texte: sans force obligatoire, ce n'est pas un traité
+```
 
 ---
 
@@ -1226,8 +1313,20 @@ mariage.
 - L'avocat vérifie la procédure et la proportionnalité, il n'affirme pas l'innocence.
 - Le greffier donne son existence juridique à l'audience.
 
-[Emplacement image : disposition d'une salle d'audience et rôle de chacun, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Qui fait quoi dans un tribunal
+centre: Procès
+icone: scales
+parties:
+  - nom: Juge
+    role: Il tranche.
+  - nom: Procureur
+    role: Il accuse.
+  - nom: Avocat
+    role: Il défend et vérifie la procédure.
+  - nom: Greffier
+```
 
 ---
 
@@ -1372,8 +1471,16 @@ pas la guérison. Cette distinction change entièrement ce qu'il faut prouver en
 - Erreur, dol et violence permettent d'annuler un contrat.
 - Obligation de moyens et de résultat n'engagent pas de la même façon.
 
-[Emplacement image : les trois conditions de validité d'un contrat, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les trois conditions d'un contrat valable
+centre: Contrat
+parties:
+  - nom: Consentement
+    role: Sans erreur, dol ni violence.
+  - nom: Capacité
+  - nom: Contenu licite
+```
 
 ---
 
@@ -1483,8 +1590,16 @@ compagnies.
 - On répond des choses sous sa garde sans qu'une faute soit nécessaire.
 - Le principe est la réparation intégrale, ni plus ni moins.
 
-[Emplacement image : les trois conditions de la responsabilité civile, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Engager la responsabilité civile
+elements:
+  - titre: Fait générateur
+  - titre: Dommage
+  - titre: Lien de causalité
+  - titre: Réparation
+    texte: Souvent prise en charge par l'assurance.
+```
 
 ---
 
@@ -1591,8 +1706,18 @@ Et en matière civile, il existe des délais distincts pour agir en réparation 
 - Le délai peut courir à partir de la découverte des faits, pas de leur commission.
 - Les crimes contre l'humanité sont imprescriptibles.
 
-[Emplacement image : délais de prescription selon la gravité de l'infraction, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La prescription
+centre: Délai de poursuite
+parties:
+  - nom: Raison
+    role: Les preuves se dégradent avec le temps.
+  - nom: Délais variables
+    role: Selon la gravité.
+  - nom: Exception absolue
+    role: Les crimes contre l'humanité sont imprescriptibles.
+```
 
 ---
 
@@ -1703,8 +1828,17 @@ pèseront lourd ensuite.
 - La durée de principe est de vingt-quatre heures, prolongeable une fois.
 - Droit au silence et assistance d'un avocat dès le début sont notifiés.
 
-[Emplacement image : déroulement et droits d'une garde à vue, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les droits en garde à vue
+centre: Personne gardée à vue
+parties:
+  - nom: Être informé
+  - nom: Avocat dès la première heure
+  - nom: Garder le silence
+  - nom: Prévenir un proche
+  - nom: Voir un médecin
+```
 
 ---
 
@@ -1818,8 +1952,20 @@ Ce sont les points de vigilance classiques, et ils valent pour tous les régimes
 - La séparation n'est jamais étanche : il s'agit d'équilibre et de contrôle mutuel.
 - Indépendance des juges et contrôle de constitutionnalité en sont les garanties centrales.
 
-[Emplacement image : les trois pouvoirs et leurs moyens de contrôle réciproques, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois fonctions séparées
+colonnes:
+  - titre: Législatif
+    points:
+      - Faire la loi
+  - titre: Exécutif
+    points:
+      - L'appliquer
+  - titre: Judiciaire
+    points:
+      - Juger
+```
 
 ---
 
@@ -1926,8 +2072,20 @@ visent uniquement à nuire à un particulier.
 - La diffamation porte sur un fait vérifiable, l'injure sur aucun fait.
 - Une restriction doit être prévue par la loi, légitime et proportionnée.
 
-[Emplacement image : le triple test des restrictions à la liberté d'expression, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce que protège la liberté d'expression
+colonnes:
+  - titre: Protégé
+    points:
+      - Les propos qui heurtent ou dérangent
+      - Le débat public
+  - titre: Sanctionné
+    points:
+      - Diffamation
+      - Injure
+      - Incitation à la haine
+```
 
 ---
 
@@ -2037,8 +2195,18 @@ Le salarié, lui, peut démissionner librement, sous réserve d'un préavis.
 - Le contrat à durée indéterminée est la règle, le contrat à durée déterminée l'exception.
 - Un licenciement exige une cause réelle et sérieuse et une procédure.
 
-[Emplacement image : critères du lien de subordination, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Le contrat de travail
+centre: Salarié
+parties:
+  - nom: Lien de subordination
+    role: Il définit le salariat.
+  - nom: Formes
+    role: CDI, CDD, intérim.
+  - nom: Rupture
+    role: Licenciement, démission, rupture conventionnelle.
+```
 
 ---
 
@@ -2147,8 +2315,17 @@ blocage illicite — ne sont pas couvertes par la protection.
 - Le salarié n'est pas payé mais conserve son emploi et son ancienneté.
 - Préavis et service minimum encadrent la grève dans certains services publics.
 
-[Emplacement image : conditions de la grève et effets sur le contrat de travail, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les conditions d'une grève
+centre: Grève
+parties:
+  - nom: Cessation complète du travail
+  - nom: Collective
+  - nom: Revendications professionnelles
+  - nom: Effet
+    role: Le contrat est suspendu, sans faute.
+```
 
 ---
 
@@ -2251,8 +2428,20 @@ fréquente de malentendus, parfois entretenus.
 - La garantie légale dure deux ans et est gratuite.
 - Pendant ces deux ans, le défaut est présumé antérieur à la livraison.
 
-[Emplacement image : délais et garanties applicables à un achat en ligne, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Rétractation et garantie
+colonnes:
+  - titre: Rétractation
+    points:
+      - 14 jours pour les achats à distance
+      - Sans justification
+      - Pas en magasin
+  - titre: Garantie légale de conformité
+    points:
+      - Deux ans
+      - Ne pas confondre avec la garantie commerciale
+```
 
 ---
 
@@ -2379,8 +2568,16 @@ d'anciennes cartes conservées ailleurs.
 - Un cadastre détruit peut être reconstitué à partir de témoignages et de marqueurs physiques
   durables.
 
-[Emplacement image : carte cadastrale ancienne montrant les limites de parcelles numérotées d'un
-village, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que contient le cadastre
+centre: Parcelle
+icone: map
+parties:
+  - nom: Position
+  - nom: Surface
+  - nom: Propriétaire
+```
 
 ---
 
@@ -2855,8 +3052,19 @@ présence et s'engagent à respecter l'accord trouvé.
 - Une médiation informelle peut être menée par une personne neutre respectée, sans cadre
   juridique officiel.
 
-[Emplacement image : deux personnes en conflit assises de part et d'autre d'un médiateur neutre
-autour d'une table, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Médiation ou arbitrage
+colonnes:
+  - titre: Médiation
+    points:
+      - Aide les parties à trouver un accord
+      - N'impose rien
+  - titre: Arbitrage
+    points:
+      - Un tiers neutre décide
+      - La décision s'impose
+```
 
 ---
 
@@ -3036,8 +3244,16 @@ concernée, chargée de débattre et d'approuver le texte avant qu'il n'entre en
 - Une procédure de révision permet au texte d'évoluer sans faciliter des changements arbitraires.
 - Une assemblée constituante représentative donne au texte sa légitimité.
 
-[Emplacement image : une assemblée constituante en pleine délibération autour d'un texte
-constitutionnel en cours de rédaction, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Écrire une constitution
+elements:
+  - titre: Principes fondateurs
+  - titre: Répartir le pouvoir
+    texte: Séparer décider, appliquer et juger.
+  - titre: Garantir des droits
+  - titre: Prévoir la révision
+```
 
 ---
 
@@ -3967,6 +4183,21 @@ Si un mineur fait seul un acte important, cet acte peut être annulé par un jug
 L'émancipation permet à un mineur d'être traité presque comme un adulte. Il doit avoir au moins 16 ans. Seuls ses parents peuvent la demander, et c'est un juge qui décide après avoir entendu le jeune.
 
 Le mineur émancipé peut signer un contrat de travail ou choisir où il habite. Certaines limites restent : il ne peut voter qu'à 18 ans et conduire qu'à partir de 17 ans.
+
+```schema
+type: comparaison
+titre: Avoir des droits et pouvoir les exercer
+colonnes:
+  - titre: Mineur
+    points:
+      - Des droits dès la naissance
+      - Les parents agissent pour lui
+      - Petits achats du quotidien possibles
+  - titre: Majeur
+    points:
+      - À 18 ans
+      - Peut signer seul
+```
 
 ## À retenir
 
@@ -5483,6 +5714,16 @@ La demande se fait en ligne ou avec un formulaire. Elle est envoyée au bureau d
 
 Le bénéficiaire choisit librement son avocat. S'il n'en a pas trouvé, il peut demander au bâtonnier, le responsable de l'ordre des avocats, d'en désigner un.
 
+```schema
+type: etapes
+titre: Obtenir l'aide juridictionnelle
+elements:
+  - titre: Revenus modestes
+  - titre: Demande
+  - titre: Frais pris en charge par l'État
+    icone: scales
+```
+
 ## À retenir
 
 - L'aide juridictionnelle permet aux personnes aux revenus modestes de faire payer leurs frais de justice par l'État.
@@ -5924,6 +6165,16 @@ Le Conseil d'État ou la Cour de cassation ont trois mois pour décider de trans
 ## Un débat avec l'Europe
 
 Le droit européen passe avant les lois françaises. Mais les juges français considèrent que la Constitution reste au sommet en France. La Cour de justice de l'Union européenne ne partage pas tout à fait cet avis.
+
+```schema
+type: pyramide
+titre: La pyramide des normes
+niveaux:
+  - titre: Constitution et Déclaration de 1789
+  - titre: Traités internationaux
+  - titre: Lois
+  - titre: Règlements
+```
 
 ## À retenir
 
@@ -6515,6 +6766,19 @@ En août 2026, la France en compte 60. Ils couvrent environ 17,2 % du territoire
 ## Protéger plus ou moins fort
 
 Le parc national protège donc plus strictement qu'un parc naturel régional. Le premier pose des interdictions. Le second repose surtout sur l'accord des habitants et des communes.
+
+```schema
+type: frise
+titre: Les parcs nationaux en France
+evenements:
+  - date: 22 juillet 1960
+    titre: Loi créant les parcs nationaux
+  - date: 1963
+    titre: La Vanoise
+    texte: Le premier parc national.
+  - date: Aujourd'hui
+    titre: 11 parcs nationaux
+```
 
 ## À retenir
 
@@ -7515,6 +7779,18 @@ En France, l'article 45 de la loi Informatique et libertés protège les plus je
 
 Depuis le 25 mai 2018, la CNIL peut punir les organismes qui ne respectent pas le RGPD. L'amende peut atteindre 20 millions d'euros ou 4 % du chiffre d'affaires mondial d'une entreprise. Chacun peut aussi porter plainte auprès de la CNIL. En 2025, elle a reçu 20 150 plaintes.
 
+```schema
+type: frise
+titre: La protection des données personnelles
+evenements:
+  - date: 6 janvier 1978
+    titre: Loi Informatique et libertés
+    texte: Création de la CNIL.
+  - date: Ensuite
+    titre: Le règlement européen
+    texte: Une règle pour toute l'Europe.
+```
+
 ## À retenir
 
 - Une donnée personnelle est une information sur une personne, comme son nom ou sa photo.
@@ -8471,6 +8747,15 @@ S'il l'est, une mise à l'épreuve éducative peut commencer. Elle dure entre si
 
 Le casier judiciaire d'un mineur est effacé au bout de trois ans.
 
+```schema
+type: etapes
+titre: Le procès d'un mineur en deux temps
+elements:
+  - titre: Juger la culpabilité
+  - titre: Période de mise à l'épreuve
+  - titre: Décider de la sanction
+```
+
 ## À retenir
 
 - Depuis le 30 septembre 2021, les règles sont réunies dans le code de la justice pénale des mineurs.
@@ -8670,6 +8955,20 @@ Pendant le procès, les jurés écoutent les témoins et peuvent poser des quest
 Une décision défavorable à l'accusé demande au moins sept voix en premier ressort, et huit en appel. Ainsi, les trois juges seuls ne peuvent jamais condamner sans l'accord d'une majorité de jurés.
 
 Depuis le 1er janvier 2023, une partie des crimes est jugée autrement. Les crimes punis de 15 à 20 ans, commis par des majeurs, vont devant la cour criminelle départementale. Elle est composée de cinq magistrats, sans jurés.
+
+```schema
+type: comparaison
+titre: La cour d'assises
+colonnes:
+  - titre: Premier ressort
+    points:
+      - Trois magistrats
+      - Six jurés
+  - titre: Appel
+    points:
+      - Trois magistrats
+      - Neuf jurés
+```
 
 ## À retenir
 
@@ -9085,6 +9384,18 @@ Le juge peut ajouter d'autres sanctions. Il peut interdire au responsable d'exer
 ## Qui surveille ?
 
 En France, la DGCCRF contrôle les vendeurs. Son nom complet est direction générale de la concurrence, de la consommation et de la répression des fraudes. Elle est née en 1985 de la fusion de deux services. Elle dépend du ministère de l'Économie et veille à la loyauté des échanges entre vendeurs et clients. L'Union européenne interdit aussi la publicité trompeuse par une directive.
+
+```schema
+type: comparaison
+titre: Deux façons de tromper
+colonnes:
+  - titre: Par action
+    points:
+      - Un mensonge
+  - titre: Par omission
+    points:
+      - Cacher une information importante
+```
 
 ## À retenir
 
@@ -9729,6 +10040,21 @@ Les congés principaux se prennent entre le 1er mai et le 31 octobre. Le salari�
 
 Les règles changent selon les pays. En Allemagne, la loi prévoit au moins 24 jours de congés, mais les accords entre syndicats et entreprises en donnent souvent 30. Aux États-Unis, dans les grandes entreprises, deux semaines sont la règle courante.
 
+```schema
+type: barres
+titre: Les semaines de congés payés
+unite: semaines
+valeurs:
+  - label: 1936
+    valeur: 2
+  - label: 1956
+    valeur: 3
+  - label: 1969
+    valeur: 4
+  - label: 1982
+    valeur: 5
+```
+
 ## À retenir
 
 - La loi du 20 juin 1936, sous le Front populaire, a créé deux semaines de congés payés.
@@ -10242,6 +10568,23 @@ On peut aussi se défendre pour arrêter un vol ou une destruction. Les conditio
 L'article 122-6 du Code pénal prévoit deux situations où la légitime défense est présumée. La première est de repousser quelqu'un qui entre la nuit dans un lieu habité, par effraction, violence ou ruse. La seconde est de se défendre contre des voleurs ou des pilleurs qui agissent avec violence. Dans ces cas, la personne n'a pas à prouver elle-même qu'elle se défendait.
 
 La légitime défense existe aussi entre États. L'article 51 de la Charte des Nations unies permet à un pays attaqué par les armes de se défendre.
+
+```schema
+type: comparaison
+titre: Les conditions de la légitime défense
+legende: Article 122-5 du Code pénal.
+colonnes:
+  - titre: L'attaque
+    points:
+      - Actuelle
+      - Injustifiée
+      - Réelle
+  - titre: La riposte
+    points:
+      - Nécessaire
+      - Simultanée
+      - Proportionnée
+```
 
 ## À retenir
 
@@ -13598,6 +13941,21 @@ Le droit d'auteur protège les œuvres originales : livres, musique, peintures, 
 
 Un brevet protège une invention, un produit ou un procédé, pour une durée limitée : son titulaire a le droit exclusif de la fabriquer, de l'utiliser et de la vendre, en échange de la description de l'invention. Une marque est un signe, un nom ou un logo qui distingue les produits ou services d'une entreprise de ceux des concurrents ; sa protection peut être renouvelée sans limite. Un dessin ou modèle protège l'apparence d'un objet : sa forme, ses motifs, ses couleurs. Le secret d'affaires protège des informations confidentielles utiles à une entreprise, comme une formule ou un procédé de fabrication. Une indication géographique identifie un produit dont les qualités sont liées à son lieu d'origine.
 
+```schema
+type: comparaison
+titre: Trois protections
+colonnes:
+  - titre: Droit d'auteur
+    points:
+      - Les œuvres
+  - titre: Brevet
+    points:
+      - Les inventions
+  - titre: Marque
+    points:
+      - Les signes et les noms
+```
+
 ## À retenir
 
 - La propriété intellectuelle désigne les droits sur les créations de l'esprit : inventions, œuvres, dessins, signes et noms.
@@ -13705,6 +14063,20 @@ Le règlement européen sur les services numériques, le DSA, renforce ce cadre 
 ## Qui contrôle et sanctionne ?
 
 Chaque pays désigne une autorité indépendante chargée de faire respecter le règlement ; en France, c'est l'Arcom. Une plateforme qui ne respecte pas les règles risque de lourdes amendes, calculées sur son chiffre d'affaires mondial.
+
+```schema
+type: comparaison
+titre: Éditeur ou hébergeur
+colonnes:
+  - titre: Éditeur
+    points:
+      - Choisit et publie les contenus
+      - Responsable de ce qu'il publie
+  - titre: Hébergeur
+    points:
+      - Stocke ce que publient les utilisateurs
+      - Doit retirer un contenu illicite signalé
+```
 
 ## À retenir
 
@@ -13814,6 +14186,18 @@ En Europe, l'article 6 de la Convention européenne des droits de l'homme garant
 
 L'indépendance de la justice signifie que les tribunaux ne doivent subir aucune pression indue des autres pouvoirs ni d'intérêts privés ou partisans. Elle protège les citoyens contre les excès du pouvoir : les décisions reposent alors sur la loi et sur les faits, pas sur une pression politique. Parmi les garanties figurent l'inamovibilité des juges, l'indépendance de l'institution et la sécurité financière des magistrats. La séparation des pouvoirs, entre la justice, le gouvernement et le Parlement, protège l'autonomie des juges. En France, la Constitution de 1958 reconnaît l'indépendance de l'autorité judiciaire, et les magistrats du siège sont inamovibles, selon l'article 64.
 
+```schema
+type: systeme
+titre: Le procès équitable
+centre: Droit à un juge
+icone: scales
+parties:
+  - nom: Indépendant
+  - nom: Impartial
+  - nom: Audience publique
+  - nom: Délai raisonnable
+```
+
 ## À retenir
 
 - Selon la Déclaration universelle, toute personne a droit à une audience équitable et publique devant un tribunal indépendant et impartial.
@@ -13897,6 +14281,16 @@ On l'exerce en prévenant le vendeur avant la fin du délai, avec le formulaire 
 ## Des exceptions
 
 Le droit ne s'applique pas à tous les achats : biens personnalisés, biens périssables, contenus numériques déjà téléchargés, services déjà exécutés avec l'accord du client, billets de transport ou de spectacle, services financiers. Ce droit vaut pour les achats auprès de vendeurs professionnels, pas pour les ventes entre particuliers.
+
+```schema
+type: etapes
+titre: Exercer son droit de rétractation
+elements:
+  - titre: Achat à distance
+  - titre: Délai de 14 jours
+  - titre: Informer le vendeur
+  - titre: Renvoyer le produit et être remboursé
+```
 
 ## À retenir
 
@@ -13986,6 +14380,20 @@ Cette séparation vient de la Révolution française : par méfiance envers les 
 ## Le Tribunal des conflits
 
 Le Tribunal des conflits veille à la séparation entre les deux ordres et tranche les conflits de compétence entre eux.
+
+```schema
+type: comparaison
+titre: Deux ordres de juridictions
+legende: Le Tribunal des conflits tranche quand on hésite entre les deux.
+colonnes:
+  - titre: Judiciaire
+    points:
+      - Litiges entre personnes privées
+      - Infractions pénales
+  - titre: Administratif
+    points:
+      - Litiges avec l'administration
+```
 
 ## À retenir
 
@@ -14089,6 +14497,18 @@ L'employeur fournit et entretient les équipements nécessaires, et il assure la
 
 Un salarié en télétravail a les mêmes droits que les autres : formation, santé et sécurité, avantages sociaux, charge de travail équivalente. Un accident survenu pendant le télétravail est présumé être un accident du travail. Le droit à la déconnexion permet de ne pas répondre aux sollicitations professionnelles en dehors des horaires convenus.
 
+```schema
+type: systeme
+titre: Le télétravail
+centre: Télétravail
+icone: house
+parties:
+  - nom: Volontariat
+  - nom: Accord ou charte
+  - nom: Obligations de l'employeur
+  - nom: Mêmes droits que sur site
+```
+
 ## À retenir
 
 - Le télétravail est un travail qui aurait pu être fait dans les locaux de l'employeur, effectué volontairement ailleurs.
@@ -14187,6 +14607,19 @@ Les modèles d'IA à usage général, comme ceux qui font fonctionner des chatbo
 ## Ce qui est interdit, et ce qui est libre
 
 Certaines pratiques sont interdites, par exemple la manipulation nuisible et la notation sociale. La Commission range aussi parmi les pratiques interdites la création de contenus intimes non consentis par IA. La plupart des usages de l'IA, comme les filtres anti-spam ou les jeux vidéo, relèvent du risque minimal et n'ont pas d'obligation spécifique.
+
+```schema
+type: systeme
+titre: Transparence de l'IA
+centre: Contenu généré par IA
+icone: robot
+parties:
+  - nom: Savoir qu'on parle à une IA
+  - nom: Contenus repérables
+    role: Marquage des contenus générés.
+  - nom: Modèles à usage général
+    role: Obligations spécifiques.
+```
 
 ## À retenir
 
