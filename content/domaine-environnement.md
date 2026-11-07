@@ -228,6 +228,19 @@ en renvoient une partie vers le sol.
 
 Résultat : la surface est plus chaude qu'elle ne le serait sans atmosphère.
 
+```schema
+type: etapes
+titre: L'effet de serre
+legende: Sans effet de serre naturel, la Terre serait à environ -18 °C.
+elements:
+  - titre: Le Soleil chauffe le sol
+    icone: sun
+  - titre: Le sol émet de l'infrarouge
+  - titre: Les gaz à effet de serre en retiennent une partie
+  - titre: La surface se réchauffe
+    icone: thermometer
+```
+
 ## Ce n'est pas un problème en soi
 
 Point important : l'effet de serre naturel est indispensable.
@@ -269,8 +282,17 @@ d'air piégées livrent la composition de l'atmosphère sur des centaines de mil
 - Le CO2 persiste des siècles, le méthane une douzaine d'années.
 - Les mesures continues remontent à 1958, les carottes de glace bien plus loin.
 
-[Emplacement image : courbe de la concentration de CO2 depuis 1958, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: barres
+titre: Concentration de CO2 dans l'air
+unite: ppm
+valeurs:
+  - label: Avant l'industrialisation
+    valeur: 280
+    note: environ
+  - label: Moyenne 2024
+    valeur: 422.8
+```
 
 ---
 
@@ -379,8 +401,17 @@ Ce ne sont pas des effets proportionnels. Certains basculent.
 - Le budget restant pour 1,5 degré représente quelques années d'émissions actuelles.
 - Un demi-degré de plus change qualitativement les risques, pas seulement quantitativement.
 
-[Emplacement image : trajectoires d'émissions et réchauffement associé selon les scénarios,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères du budget carbone
+chiffres:
+  - valeur: 1,1 °C
+    texte: de réchauffement environ
+  - valeur: Le cumul
+    texte: la température dépend du total émis, pas du rythme
+  - valeur: Quelques années
+    texte: d'émissions actuelles pour épuiser le budget de 1,5 °C
+```
 
 ---
 
@@ -486,8 +517,19 @@ terme, l'atténuation évite d'atteindre des situations auxquelles on ne peut pl
 - Les îlots de chaleur urbains se traitent par végétalisation et désimperméabilisation.
 - L'adaptation a des limites absolues, physiques et territoriales.
 
-[Emplacement image : îlot de chaleur urbain et effet de la végétation, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Atténuer et s'adapter
+colonnes:
+  - titre: Atténuation
+    points:
+      - Réduire les émissions
+      - Limiter le réchauffement futur
+  - titre: Adaptation
+    points:
+      - Se préparer à ce qui est déjà engagé
+      - Végétaliser, désimperméabiliser les villes
+```
 
 ---
 
@@ -599,8 +641,17 @@ La liste rouge sert aussi à cela : mesurer les améliorations, pas seulement le
 - La destruction des habitats est la première cause de déclin.
 - Des programmes de conservation obtiennent des résultats mesurables.
 
-[Emplacement image : catégories de la liste rouge et répartition des espèces évaluées, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: La liste rouge de l'UICN
+unite: espèces
+valeurs:
+  - label: Évaluées
+    valeur: 172620
+  - label: Menacées
+    valeur: 48646
+    note: environ 28 %
+```
 
 ---
 
@@ -702,8 +753,21 @@ Le chiffrage est donc un outil de décision, pas une mise en vente.
 - Protéger un bassin versant coûte souvent moins cher que traiter l'eau.
 - Le chiffrage rend visible, il ne rend pas substituable.
 
-[Emplacement image : principaux services rendus par les écosystèmes, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les quatre familles de services écosystémiques
+centre: Nature
+icone: leaf
+parties:
+  - nom: Approvisionnement
+    role: Nourriture, eau, bois.
+  - nom: Régulation
+    role: Pollinisation, climat, crues.
+  - nom: Culture
+    role: Loisirs, paysages.
+  - nom: Support
+    role: Sols, cycles des éléments.
+```
 
 ---
 
@@ -812,8 +876,18 @@ systèmes naturels : leur réponse n'est pas toujours progressive.
 - L'agriculture est la première cause de déforestation tropicale.
 - Une forêt tropicale fabrique sa propre pluie, d'où un risque de bascule.
 
-[Emplacement image : stock et flux de carbone selon l'âge d'une forêt, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Stocker ou absorber du carbone
+colonnes:
+  - titre: Vieille forêt
+    icone: tree
+    points:
+      - Stocke beaucoup de carbone
+  - titre: Jeune forêt
+    points:
+      - Absorbe beaucoup de carbone
+```
 
 ---
 
@@ -917,8 +991,21 @@ besoin.
 - Une eau plus chaude contient moins d'oxygène et se dilate.
 - La capacité d'absorption de l'océan diminue à mesure qu'il se charge.
 
-[Emplacement image : mécanismes d'absorption du carbone par l'océan, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'océan régulateur du climat
+centre: Océan
+icone: wave
+parties:
+  - nom: Chaleur
+    role: Il a absorbé la majeure partie de la chaleur supplémentaire.
+  - nom: CO2
+    role: Environ un quart du CO2 émis.
+  - nom: Acidification
+    role: Elle gêne coquilles et coraux.
+  - nom: Limite
+    role: Une eau plus chaude contient moins de gaz.
+```
 
 ---
 
@@ -1031,8 +1118,15 @@ les solutions.
 - Les particules les plus fines passent dans le sang.
 - La pollution intérieure liée à la cuisson est une cause majeure et sous-estimée.
 
-[Emplacement image : taille des particules et profondeur de pénétration dans l'appareil
-respiratoire, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La pollution de l'air dans le monde
+chiffres:
+  - valeur: 4,2 millions
+    texte: de décès prématurés par an liés à l'air ambiant
+  - valeur: 99 %
+    texte: de l'humanité respire un air au-dessus des seuils recommandés
+```
 
 ---
 
@@ -1136,8 +1230,18 @@ calendrier de la ressource pour des centaines de millions de personnes.
 - Une nappe surexploitée baisse, se salinise parfois, et met longtemps à se reconstituer.
 - Le climat redistribue la ressource plus qu'il ne la réduit globalement.
 
-[Emplacement image : répartition de l'eau sur Terre et part accessible, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Qui prélève l'eau douce dans le monde
+unite: "%"
+valeurs:
+  - label: Agriculture
+    valeur: 70
+    note: environ
+  - label: Industrie et usages domestiques
+    valeur: 30
+    note: environ
+```
 
 ---
 
@@ -1246,8 +1350,16 @@ des pièces détachées, indices de réparabilité, restrictions sur certains em
 - Le plastique se dégrade à chaque cycle et se décline en familles incompatibles.
 - La recyclabilité se décide à la conception, pas au moment du tri.
 
-[Emplacement image : hiérarchie de gestion des déchets, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: pyramide
+titre: La hiérarchie des déchets
+niveaux:
+  - titre: Réduire
+  - titre: Réutiliser
+  - titre: Recycler
+  - titre: Valoriser
+  - titre: Éliminer
+```
 
 ---
 
@@ -2593,8 +2705,17 @@ et nécessite de stocker un produit chimique.
 - Le filtre à sable lent imite le sol et ne consomme ni électricité ni produit chimique.
 - Le chlore et l'iode désinfectent en une trentaine de minutes une eau déjà claire.
 
-[Emplacement image : les quatre méthodes de potabilisation de l'eau schématisées côte à côte,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Rendre l'eau potable
+elements:
+  - titre: Clarifier
+    texte: Une eau trouble protège les microbes.
+  - titre: Désinfecter
+    texte: Bouillir une à trois minutes, soleil, filtre lent ou produit chimique.
+    icone: droplet
+  - titre: Conserver proprement
+```
 
 ---
 
@@ -2685,8 +2806,18 @@ consommant tout l'oxygène disponible.
 - Sans traitement, l'eau rejetée étoufferait la vie aquatique en épuisant l'oxygène de la
   rivière.
 
-[Emplacement image : schéma des trois étapes d'une station d'épuration, du bassin de
-décantation au rejet en rivière, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les trois traitements des eaux usées
+elements:
+  - titre: Primaire
+    texte: Les solides se déposent par gravité.
+  - titre: Secondaire
+    texte: Des bactéries digèrent la matière organique.
+    icone: microscope
+  - titre: Tertiaire
+    texte: La finition, quand elle existe.
+```
 
 ---
 
@@ -2794,9 +2925,18 @@ d'algues, et être nettoyée régulièrement.
 - Rendre cette eau potable demande une filtration fine puis une désinfection.
 - Une cuve à l'abri de la lumière limite le développement d'algues.
 
-[Emplacement image : schéma d'un système de récupération d'eau de pluie avec gouttière,
-dispositif de première chasse et cuve de stockage, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Récupérer l'eau de pluie
+elements:
+  - titre: Surface de collecte
+    icone: house
+  - titre: Détourner les premières minutes
+    texte: Les plus sales.
+  - titre: Filtrer
+  - titre: Stocker
+    icone: droplet
+```
 
 ---
 
@@ -2892,6 +3032,20 @@ L'osmose inverse est aujourd'hui la technique dominante, car elle consomme moins
 ## Le revers de la médaille
 
 Les usines rejettent une eau très salée, la saumure, en quantité supérieure à celle de l'eau douce produite. Plus dense, cette saumure peut couler au fond de la mer et nuire aux écosystèmes ; les prises d'eau peuvent aussi piéger des poissons. Le Moyen-Orient concentre la plus grande part de la capacité mondiale de dessalement.
+
+```schema
+type: comparaison
+titre: Deux façons de dessaler
+colonnes:
+  - titre: Distillation
+    points:
+      - On chauffe l'eau de mer
+      - La vapeur se condense en eau douce
+  - titre: Osmose inverse
+    points:
+      - L'eau salée est forcée à travers une membrane
+      - Le sel reste de l'autre côté
+```
 
 ## À retenir
 
@@ -3097,8 +3251,13 @@ nécessiter de compétences très spécialisées.
 - Un indice de réparabilité aide les consommateurs à choisir des produits conçus pour durer.
 - Réapprendre des gestes simples de réparation prolonge la vie de nombreux objets du quotidien.
 
-[Emplacement image : personne réparant un appareil électronique ouvert avec des outils simples,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les déchets électroniques
+chiffres:
+  - valeur: 62 millions
+    texte: de tonnes produites dans le monde en 2022, environ
+```
 
 ---
 
@@ -3369,6 +3528,20 @@ Les racines immergées servent d'abri à de nombreux poissons, crabes, mollusque
 
 Pourtant, elles reculent. Entre 1999 et 2019, le monde a perdu environ 3 700 kilomètres carrés de mangroves. Ce recul est dû surtout aux activités humaines.
 
+```schema
+type: systeme
+titre: Les services des mangroves
+centre: Mangrove
+icone: tree
+parties:
+  - nom: Racines
+    role: Elles freinent les vagues.
+  - nom: Nurserie
+    role: Pour de nombreux poissons.
+  - nom: Carbone
+    role: Un réservoir important.
+```
+
 ## À retenir
 
 - La mangrove est une forêt de palétuviers qui pousse dans l'eau salée des côtes tropicales.
@@ -3627,6 +3800,16 @@ En creusant, les vers mélangent le sol et y font entrer l'air. Leurs galeries v
 Les vers sont pourtant fragiles. Le labour et les pesticides réduisent leur nombre. Dans certains champs, on est passé de 2 tonnes de vers par hectare en 1950 à 200 kilos ou moins au début du XXIe siècle.
 
 En 1881, le naturaliste anglais Charles Darwin écrivait déjà que peu d'animaux avaient joué un rôle aussi important dans l'histoire du monde.
+
+```schema
+type: chiffres
+titre: Les vers de terre
+chiffres:
+  - valeur: "> 7 000"
+    texte: espèces connues
+  - valeur: 1 à 3 tonnes
+    texte: par hectare de prairie
+```
 
 ## À retenir
 
@@ -4367,6 +4550,17 @@ Une autre stratégie consiste à retirer le combustible sur le chemin des flamme
 
 La plupart des départs de feu sont d'origine humaine : mégots jetés, accidents, brûlage de déchets, actes volontaires. En France, il est interdit en été de faire du feu en forêt et à moins de 200 mètres des bois dans les zones à risque. Débroussailler est obligatoire sur 50 mètres autour des maisons. Des tours de guet, des patrouilles et Météo-France surveillent les jours de temps sec et venteux, quand le risque est le plus fort.
 
+```schema
+type: cycle
+titre: Le triangle du feu
+elements:
+  - titre: Combustible
+    icone: tree
+  - titre: Oxygène
+  - titre: Chaleur
+    icone: fire
+```
+
 ## À retenir
 
 - Un feu a besoin d'un combustible, d'oxygène et de chaleur : c'est le triangle du feu.
@@ -5037,6 +5231,20 @@ La quantité d'ozone s'est stabilisée vers le milieu des années 1990. Selon un
 
 Attention : le trou dans la couche d'ozone n'est pas la cause du réchauffement climatique. Ce sont deux problèmes différents.
 
+```schema
+type: etapes
+titre: La formation du trou d'ozone
+elements:
+  - titre: Les CFC montent
+    texte: Des gaz très stables.
+  - titre: Ils libèrent du chlore
+    texte: En haute altitude.
+  - titre: Le chlore détruit l'ozone
+    texte: Environ 100 000 molécules par atome.
+  - titre: Le protocole de Montréal
+    texte: L'interdiction des CFC a marché.
+```
+
 ## À retenir
 
 - La couche d'ozone arrête une partie des rayons ultraviolets du Soleil.
@@ -5432,6 +5640,21 @@ Les villes plantent donc des arbres, créent des parcs, des toits et des murs co
 À Paris, des calculs de Météo-France montrent l'intérêt de ces actions. Végétaliser les sols nus et couvrir d'arbres la moitié des rues de plus de 15 mètres de large ferait baisser la température de la journée de 3 à 5 °C, tant que les plantes ne manquent pas d'eau. Un jardin de pluie de 100 m², qui recueille l'eau des toits et des trottoirs, abaisse d'environ un degré la température sur cent mètres autour.
 
 C'est important pour la santé. En 2003, une canicule a causé environ 15 000 morts de plus que d'habitude en France.
+
+```schema
+type: comparaison
+titre: L'îlot de chaleur et ses remèdes
+colonnes:
+  - titre: Ce qui chauffe
+    points:
+      - Goudron et béton stockent la chaleur le jour
+      - Ils la rendent la nuit
+  - titre: Ce que font les arbres
+    icone: tree
+    points:
+      - L'ombre
+      - L'évaporation de l'eau par les feuilles
+```
 
 ## À retenir
 
@@ -5975,6 +6198,21 @@ Ces moyennes s'appellent des normales climatiques. On utilise 30 ans depuis 1935
 
 Une journée glaciale en hiver ne prouve pas que le climat se refroidit. Une journée très chaude ne prouve pas non plus, seule, qu'il se réchauffe. Pour parler du climat, il faut comparer des moyennes sur des dizaines d'années. C'est en comparant ces longues séries de mesures que les scientifiques ont montré que le climat de la Terre se réchauffe.
 
+```schema
+type: comparaison
+titre: Météo ou climat
+colonnes:
+  - titre: Météo
+    icone: cloud
+    points:
+      - Le temps sur quelques heures ou jours
+      - Imprévisible au-delà de quelques jours
+  - titre: Climat
+    icone: globe
+    points:
+      - Le temps moyen sur 30 ans
+```
+
 ## À retenir
 
 - La météo décrit le temps qu'il fait sur quelques heures ou quelques jours.
@@ -6396,6 +6634,19 @@ Recycler le papier demande moins d'énergie que d'en fabriquer à partir du bois
 
 L'Europe recycle beaucoup. En 2023, son taux de recyclage du papier a atteint 79,3 %. Pour que cela marche, il faut trier : un papier sale ou mouillé, comme un mouchoir usagé, ne se recycle pas.
 
+```schema
+type: etapes
+titre: Le recyclage du papier
+elements:
+  - titre: Pâte à papier
+    texte: Les vieux papiers mélangés à l'eau.
+  - titre: Désencrage
+    texte: Par flottation.
+  - titre: Nouvelle feuille
+    texte: Les fibres s'usent, pas à l'infini.
+    icone: recycle
+```
+
 ## À retenir
 
 - Le papier est fait de fibres végétales que l'on peut récupérer pour faire de nouvelles feuilles.
@@ -6533,6 +6784,19 @@ Ensuite vient la maturation. La température redescend lentement. Les vers de co
 Un compost mûr ressemble à du terreau. Il est sombre et léger, et sent le sous-bois. On l'étale au jardin ou dans les pots. Il garde l'eau et nourrit les plantes. Attention : un compost pas encore mûr peut « brûler » les jeunes plantes.
 
 Composter évite aussi de jeter ces déchets. Dans les décharges, les restes de nourriture et de jardin forment environ 20 % des déchets. Privés d'air, ils pourrissent lentement et dégagent du méthane, un puissant gaz à effet de serre.
+
+```schema
+type: etapes
+titre: Faire un compost
+elements:
+  - titre: Mélanger
+    texte: Déchets verts riches en azote et bruns riches en carbone.
+  - titre: Laisser travailler
+    texte: Bactéries, champignons et petits animaux.
+  - titre: Le tas chauffe
+  - titre: Compost mûr
+    icone: leaf
+```
 
 ## À retenir
 
@@ -6771,6 +7035,21 @@ Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leurs pro
 ## Et en France ?
 
 Selon Citeo, l'organisme chargé du recyclage des emballages ménagers, 88 % des emballages ménagers en verre sont recyclés en France. Ce chiffre est présenté comme une « estimation décembre 2025 » ; les pages consultées ne précisent ni l'année exacte des données ni le mode de calcul. À l'échelle de l'Union européenne, 82,2 % des emballages en verre ont été collectés pour être recyclés en 2024, selon la filière européenne du verre : ce n'est pas le même indicateur. L'objectif européen est d'atteindre 90 % de collecte en 2030. Il existe une solution encore plus économe : laver la bouteille et la remplir de nouveau, sans la refondre. C'est le principe de la consigne pour réemploi.
+
+```schema
+type: etapes
+titre: Le recyclage du verre
+elements:
+  - titre: Tri
+    texte: Ni céramique, ni porcelaine, ni verre de four.
+  - titre: Calcin
+    texte: Le verre est broyé.
+  - titre: Four
+    texte: Il est refondu à très haute température.
+    icone: fire
+  - titre: Bouteille neuve
+    icone: recycle
+```
 
 ## À retenir
 
@@ -7077,6 +7356,19 @@ La seule vraie solution est de réduire les nitrates à la source. En Europe, la
 
 En 2010, la France a lancé un plan contre les algues vertes doté de 134 millions d'euros sur cinq ans. En attendant, les communes ramassent les algues sur les plages, ce qui coûte cher.
 
+```schema
+type: etapes
+titre: Du champ à la plage
+elements:
+  - titre: Engrais et lisier
+  - titre: Nitrates entraînés
+    texte: Par la pluie vers les rivières.
+  - titre: Ulves
+    texte: Ces algues stockent les nitrates et prolifèrent.
+  - titre: Marée verte
+    texte: Les algues échouées pourrissent.
+```
+
 ## À retenir
 
 - Les marées vertes sont surtout formées d'ulves, des algues qui stockent très bien les nitrates.
@@ -7221,6 +7513,20 @@ Le prétraitement retire les gros déchets par dégrillage, puis le sable et les
 
 Les boues récupérées sont stabilisées, souvent par une digestion sans oxygène qui produit du méthane, dont l'énergie est récupérée. En dernier, on peut désinfecter l'eau avec du chlore, de l'ozone ou de la lumière ultraviolette avant de la rejeter. Un traitement supplémentaire peut retirer l'azote et le phosphore, qui provoqueraient sinon une prolifération d'algues appelée eutrophisation. Les stations classiques ne détruisent pas la plupart des micropolluants, comme les résidus de médicaments.
 
+```schema
+type: etapes
+titre: Dans une station d'épuration
+elements:
+  - titre: Prétraitement
+    texte: Dégrillage, sable, huiles.
+  - titre: Traitement primaire
+    texte: Décantation dans de grands bassins.
+  - titre: Traitement biologique
+    texte: Des bactéries digèrent la pollution.
+  - titre: Rejet
+    texte: Vers la rivière.
+```
+
 ## À retenir
 
 - Le prétraitement retire les gros déchets par dégrillage, puis le sable et les huiles.
@@ -7341,6 +7647,18 @@ L'eau souterraine représente environ 30 % de l'eau douce disponible sur Terre. 
 ## Une réserve fragile
 
 Une nappe peut se vider. Si l'on pompe plus d'eau que la pluie n'en apporte, son niveau baisse. Une nappe peut aussi être polluée. L'eau qui s'infiltre emporte avec elle ce qui se trouve à la surface : engrais, pesticides, produits industriels. Protéger les sols, c'est donc aussi protéger l'eau que nous boirons demain.
+
+```schema
+type: etapes
+titre: Comment se forme une nappe
+elements:
+  - titre: Pluie
+    icone: cloud
+  - titre: Infiltration
+    texte: Dans les trous et fissures des roches.
+  - titre: Aquifère
+    texte: Sable, gravier, craie ou grès.
+```
 
 ## À retenir
 
@@ -11047,6 +11365,18 @@ Pour les littoraux, la montée de la mer signifie recul du trait de côte, subme
 
 Pour s'adapter, on peut construire des digues, recharger les plages, restaurer des dunes ou organiser le recul des habitations menacées.
 
+```schema
+type: systeme
+titre: Pourquoi la mer monte
+centre: Hausse du niveau de la mer
+icone: wave
+parties:
+  - nom: Fonte des glaces
+    role: Elle ajoute de l'eau.
+  - nom: Dilatation
+    role: L'eau qui se réchauffe prend plus de place.
+```
+
 ## À retenir
 
 - Le niveau moyen de la mer monte depuis plus d'un siècle, et le rythme de la hausse s'accélère.
@@ -11143,6 +11473,20 @@ Si le stress est modéré, le corail peut se rétablir ; si la perte d'algues du
 
 La NOAA appelle seuil de blanchissement une température de la mer supérieure de 1 °C au maximum de la moyenne mensuelle. Le premier épisode mondial date de 1998. En 2024, la NOAA confirme un quatrième épisode. Entre début 2023 et mi-2025, environ 84 % de la superficie des récifs du monde a subi une chaleur de niveau blanchissement.
 
+```schema
+type: etapes
+titre: Le blanchissement
+elements:
+  - titre: Association
+    texte: Le corail vit avec des algues, les zooxanthelles.
+  - titre: Stress
+    texte: Une eau trop chaude.
+    icone: thermometer
+  - titre: Perte des algues
+    texte: Le corail devient blanc.
+  - titre: Rétablissement ou mort
+```
+
 ## À retenir
 
 - Les coraux vivent avec des algues microscopiques, les zooxanthelles, installées dans leurs tissus.
@@ -11233,6 +11577,17 @@ Le blanchissement du corail est la perte des algues symbiotiques, les zooxanthel
 ## Deux menaces qui s'ajoutent
 
 L'acidification et le blanchissement sont deux menaces différentes, l'une venue du CO2 dissous, l'autre surtout de la chaleur, mais elles s'additionnent. De nombreuses personnes dépendent des récifs pour la pêche, le tourisme et la protection des côtes.
+
+```schema
+type: etapes
+titre: L'acidification des océans
+elements:
+  - titre: L'océan absorbe du CO2
+  - titre: Acide carbonique
+    texte: Le pH de l'eau baisse.
+  - titre: Moins d'ions carbonate
+    texte: Les briques des coquilles et des squelettes.
+```
 
 ## À retenir
 
@@ -11335,6 +11690,14 @@ L'évaluation classe cinq facteurs directs : les changements d'usage des terres 
 
 Le changement climatique est l'un de ces facteurs : la crise du climat et celle de la biodiversité sont liées. Un atelier commun entre l'IPBES et le GIEC, l'organisme des experts du climat, a montré que les deux crises sont profondément liées. Les traiter chacune de son côté risque de donner des solutions incomplètes : mieux vaut des stratégies qui visent les deux à la fois.
 
+```schema
+type: chiffres
+titre: Le constat de l'IPBES
+chiffres:
+  - valeur: 1 million
+    texte: d'espèces environ menacées d'extinction
+```
+
 ## À retenir
 
 - L'IPBES est une organisation intergouvernementale indépendante qui relie la science et les décisions politiques sur la biodiversité et les services rendus par les écosystèmes.
@@ -11418,6 +11781,20 @@ Le méthane a une durée de vie relativement courte dans l'atmosphère, où il e
 ## D'où vient le méthane ?
 
 Les sources sont naturelles, comme les zones humides, et humaines : élevage, riziculture, extraction et fuites de gaz et de pétrole, décharges. Une grande partie des émissions actuelles vient d'activités humaines. Aux États-Unis, les plus grandes sources humaines sont les systèmes de pétrole et de gaz, l'élevage et les décharges. Réduire les fuites de gaz et les émissions des décharges et de l'agriculture est une façon d'agir vite, car le méthane disparaît assez vite de l'air.
+
+```schema
+type: comparaison
+titre: Méthane et CO2
+colonnes:
+  - titre: Méthane
+    points:
+      - Environ 28 fois plus de chaleur retenue sur 100 ans
+      - Reste peu de temps dans l'air
+  - titre: CO2
+    points:
+      - Le plus abondant d'origine humaine
+      - Persiste des siècles
+```
 
 ## À retenir
 
@@ -11519,6 +11896,17 @@ Une grande partie de la diversité des cultures dépend de la pollinisation par 
 
 Les causes du déclin sont les pesticides, notamment les néonicotinoïdes, la perte et la fragmentation des habitats, les parasites et maladies et le changement climatique. Les néonicotinoïdes provoquent des troubles neurologiques et immunitaires chez les abeilles. Un parasite, le varroa, affaiblit les abeilles. En Europe, de nombreuses espèces d'abeilles sauvages sont menacées. Malgré ce déclin, les rendements des cultures dépendantes des pollinisateurs ont continué de progresser au même rythme que les autres, selon des analyses citées.
 
+```schema
+type: etapes
+titre: La pollinisation
+elements:
+  - titre: Un insecte visite une fleur
+  - titre: Il emporte du pollen
+  - titre: Il le dépose sur une autre fleur
+  - titre: Graines et fruits se forment
+    icone: apple
+```
+
 ## À retenir
 
 - La pollinisation est le transport du pollen vers l'organe femelle d'une fleur, ce qui permet la formation de graines et de fruits.
@@ -11606,6 +11994,19 @@ Elles abritent une biodiversité exceptionnelle : oiseaux, amphibiens, poissons,
 ## Un recul à freiner
 
 Les zones humides ont fortement reculé : une grande partie a disparu, plus vite que les forêts, selon les estimations. La disparition vient de l'agriculture, du drainage, de l'extraction de pétrole et de gaz, de la pollution et de l'aménagement des côtes. La convention de Ramsar, signée à Ramsar, en Iran, est le principal traité international qui protège les zones humides d'importance internationale.
+
+```schema
+type: systeme
+titre: Les rôles des zones humides
+centre: Zone humide
+icone: droplet
+parties:
+  - nom: Éponge
+    role: Elles stockent l'eau des crues et la restituent.
+  - nom: Filtre
+    role: Elles épurent l'eau.
+  - nom: Biodiversité
+```
 
 ## À retenir
 
@@ -11710,6 +12111,18 @@ Beaucoup d'animaux produisent leur propre lumière, la bioluminescence, pour com
 ## Des écosystèmes fragiles
 
 Le chalutage, l'exploitation minière et l'acidification des océans menacent ces écosystèmes fragiles.
+
+```schema
+type: systeme
+titre: Les grands fonds
+centre: Grands fonds
+parties:
+  - nom: Obscurité
+  - nom: Pression très élevée
+  - nom: Eau froide
+  - nom: Neige marine
+    role: La nourriture tombée de la surface.
+```
 
 ## À retenir
 
