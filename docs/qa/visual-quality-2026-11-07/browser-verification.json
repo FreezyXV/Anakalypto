@@ -1,0 +1,46 @@
+{
+  "historicalHydrationWarnings": 3,
+  "cause": "Écart de dernière décimale sur les évidements des engrenages, corrigé par arrondi des coordonnées.",
+  "cleanTurboErrors": [],
+  "animation": {
+    "first": [
+      {
+        "animation": "none",
+        "transform": "none"
+      },
+      {
+        "animation": "none",
+        "transform": "none"
+      },
+      {
+        "animation": "discovery-spin",
+        "transform": "matrix(0.45287, 0.891576, -0.891576, 0.45287, 0, 0)"
+      },
+      {
+        "animation": "discovery-spin",
+        "transform": "matrix(0.45287, 0.891576, -0.891576, 0.45287, 0, 0)"
+      }
+    ],
+    "second": [
+      {
+        "animation": "none",
+        "transform": "none"
+      },
+      {
+        "animation": "none",
+        "transform": "none"
+      },
+      {
+        "animation": "discovery-spin",
+        "transform": "matrix(-0.988462, 0.151468, -0.151468, -0.988462, 0, 0)"
+      },
+      {
+        "animation": "discovery-spin",
+        "transform": "matrix(-0.988462, 0.151468, -0.151468, -0.988462, 0, 0)"
+      }
+    ],
+    "referenceStill": true,
+    "currentMoving": true
+  },
+  "cleanGearsErrors": []
+}

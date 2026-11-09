@@ -1,0 +1,354 @@
+[
+  {
+    "id": "smallbodies",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un astéroïde est un petit corps principalement rocheux ou métallique en orbite autour du Soleil.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "smallbodies",
+        "live": "À observer · 1 / 3AstéroïdeSa forme peut être irrégulière et sa surface porte les traces de collisions. Le dessin ne représente pas un objet identifié ; la distinction avec les comètes n’est pas toujours une frontière parfaite.",
+        "pressed": "1Astéroïde",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Une comète réchauffée près du Soleil libère du gaz et de la poussière.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "smallbodies",
+        "live": "À observer · 2 / 3Comète activeLe noyau reste petit par rapport à la chevelure et aux queues. Les glaces et poussières sont distinguées dans la coupe ; une comète lointaine peut être sombre et sans queue visible.",
+        "pressed": "2Comète active",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Le météore est le phénomène lumineux dans l’atmosphère ; une météorite est un fragment arrivé au sol.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "smallbodies",
+        "live": "À observer · 3 / 3Météore et météoriteUn météoroïde est le corps dans l’espace avant cette entrée. Le dessin montre un fragment survivant pour distinguer les termes ; beaucoup de petits corps ne laissent aucun fragment au sol.",
+        "pressed": "3Météore et météorite",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "isslife",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’eau récupérée est traitée et contrôlée avant d’être réutilisée.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "isslife",
+        "live": "À observer · 1 / 3Récupérer l’eauL’humidité condensée et les eaux usées n’arrivent pas directement au verre de l’astronaute. Les unités de récupération, de purification et le réservoir d’eau propre ont des rôles distincts.",
+        "pressed": "1Récupérer l’eau",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "L’électrolyse de l’eau produit de l’oxygène et de l’hydrogène grâce à un apport électrique.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "isslife",
+        "live": "À observer · 2 / 3Produire l’oxygèneLes atomes sont conservés dans le bilan 2 H₂O → 2 H₂ + O₂. L’oxygène rejoint l’atmosphère de la cabine ; l’hydrogène suit un circuit différent, qui n’est pas le circuit respiratoire.",
+        "pressed": "2Produire l’oxygène",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "L’air circule dans des appareils qui retirent le dioxyde de carbone expiré.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "isslife",
+        "live": "À observer · 3 / 3Retirer le CO₂Retirer le CO₂ ne suffit pas à fabriquer de l’oxygène. Une partie des systèmes peut aussi recycler de l’hydrogène et du CO₂ ; les pertes et le ravitaillement empêchent une boucle parfaitement fermée.",
+        "pressed": "3Retirer le CO₂",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "readaptation",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Sur Terre, se tenir debout sollicite continuellement des muscles et des os porteurs.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "readaptation",
+        "live": "À observer · 1 / 3Au solLa flèche représente le poids, sans donner une force chiffrée. Les os et muscles dessinés sont des repères fonctionnels, pas une planche anatomique complète.",
+        "pressed": "1Au sol",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "En chute libre orbitale, les appuis habituels diminuent et les liquides se redistribuent.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "readaptation",
+        "live": "À observer · 2 / 3En microgravitéLa gravité n’a pas disparu autour de la station : elle entretient l’orbite. L’absence d’appui continu modifie le travail musculaire et les signaux d’équilibre ; les changements dépendent de la durée et des contre-mesures.",
+        "pressed": "2En microgravité",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Au retour, l’équilibre, la circulation et les capacités musculaires doivent se réadapter aux appuis.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "readaptation",
+        "live": "À observer · 3 / 3Au retourLe support dessiné représente l’accompagnement du retour, sans exercice prescrit ni délai annoncé. Le dessin ne permet pas d’évaluer l’état de santé d’une personne ou de prédire sa récupération.",
+        "pressed": "3Au retour",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "heliosphere",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le vent solaire remplit une grande région autour du Soleil : l’héliosphère.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "heliosphere",
+        "live": "À observer · 1 / 3Suivre le vent solaireLes flèches partent du Soleil et représentent un flux de particules, pas la limite de la lumière solaire ni celle de la gravitation du Soleil.",
+        "pressed": "1Suivre le vent solaire",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "L’héliopause marque une frontière entre l’environnement du vent solaire et le milieu interstellaire.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "heliosphere",
+        "live": "À observer · 2 / 3Repérer l’héliopauseLe contour du dessin est simplifié et change en réalité selon l’environnement et l’activité solaire. Les sondes ont identifié le passage grâce à leurs mesures, pas en voyant une paroi.",
+        "pressed": "2Repérer l’héliopause",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Une sonde au-delà de l’héliopause peut mesurer le milieu interstellaire.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "heliosphere",
+        "live": "À observer · 3 / 3Mesurer au-delàEntrer dans le milieu interstellaire ne signifie pas avoir dépassé tous les objets liés au Soleil. La représentation n’est pas une carte des positions actuelles de Voyager 1 et Voyager 2.",
+        "pressed": "3Mesurer au-delà",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "saturnrings",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les anneaux de Saturne forment un système très étendu autour de la planète.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "saturnrings",
+        "live": "À observer · 1 / 3Voir l’ensembleLe dessin donne une vue oblique de leur organisation. Les couleurs différencient des bandes de matière ; elles ne codent ni un âge ni une composition mesurée.",
+        "pressed": "1Voir l’ensemble",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "L’anneau est constitué de nombreux morceaux de glace mêlés à d’autres matériaux.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "saturnrings",
+        "live": "À observer · 2 / 3Agrandir la matièreL’agrandissement révèle des particules séparées, et non une plaque pleine. Chacune se déplace autour de Saturne ; leurs tailles et leurs espacements sont choisis pour la lisibilité.",
+        "pressed": "2Agrandir la matière",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Les anneaux sont très minces par rapport à leur largeur.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "saturnrings",
+        "live": "À observer · 3 / 3Regarder par la trancheLa ligne est encore énormément épaissie pour rester visible. Le schéma explique la différence entre étendue et épaisseur, sans fixer un âge des anneaux ou expliquer leur origine encore discutée.",
+        "pressed": "3Regarder par la tranche",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "sundial",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Pour ce cadran horizontal à style polaire, l’inclinaison limite à l’équateur est de 0°.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "sundial",
+        "live": "À observer · 1 / 3Équateur · 0°Le style est ici surélevé pour rendre sa direction visible en profil. L’image compare des orientations ; elle ne représente pas une ombre ou une heure lisible à l’équateur.",
+        "pressed": "1Équateur · 0°",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "À 45° de latitude nord, le style est incliné de 45° au-dessus de l’horizon local.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "sundial",
+        "live": "À observer · 2 / 3Latitude · 45°Le petit globe montre pourquoi cette direction reste parallèle à l’axe terrestre. Le réglage exige aussi une orientation vers le nord géographique ; l’inclinaison seule ne suffit pas.",
+        "pressed": "2Latitude · 45°",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Au pôle, le style polaire est vertical par rapport au plan horizontal local.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "sundial",
+        "live": "À observer · 3 / 3Pôle · 90°C’est un autre cas limite de la même géométrie. L’ensoleillement saisonnier et les corrections entre heure solaire et heure légale ne sont pas calculés dans cette vue.",
+        "pressed": "3Pôle · 90°",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "habitable",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Pour une étoile moins lumineuse, la zone d’eau liquide potentielle se situe plus près.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "habitable",
+        "live": "À observer · 1 / 3Étoile moins lumineuseLa planète garde la même orbite dans les trois vues. La bande verte est un repère illustratif construit à partir d’une variation de luminosité, pas un calcul de climat réel.",
+        "pressed": "1Étoile moins lumineuse",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Une planète peut se trouver dans une zone où l’eau liquide en surface est possible sous certaines conditions.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "habitable",
+        "live": "À observer · 2 / 3Situation intermédiaireLa position ne garantit ni eau, ni atmosphère, ni vie. La pression et la composition atmosphériques, parmi d’autres facteurs, doivent aussi être compatibles.",
+        "pressed": "2Situation intermédiaire",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Une luminosité stellaire plus élevée déplace cette zone vers l’extérieur.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "habitable",
+        "live": "À observer · 3 / 3Étoile plus lumineuseLes limites utilisées ici restent des coefficients fixes autour d’un rayon proportionnel à la racine de la luminosité. Une étude réelle dépend aussi du spectre stellaire et du modèle atmosphérique.",
+        "pressed": "3Étoile plus lumineuse",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "meteors",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des particules libérées par un corps parent occupent une région de l’espace.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "meteors",
+        "live": "À observer · 1 / 3Repérer les débrisLe trait gris situe une orbite terrestre simplifiée et les points représentent un courant de débris. Le dessin n’est pas une carte des orbites des Perséides ou des Géminides.",
+        "pressed": "1Repérer les débris",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Lorsque la Terre traverse ces débris, certains grains entrent dans l’atmosphère et produisent des météores.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "meteors",
+        "live": "À observer · 2 / 3Traverser le courantLes tailles sont exagérées : un petit grain peut produire une traînée lumineuse. Les particules ne sont pas des étoiles qui quittent leur constellation.",
+        "pressed": "2Traverser le courant",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Depuis le sol, les trajectoires semblent venir d’un même point par un effet de perspective.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "meteors",
+        "live": "À observer · 3 / 3Reconnaître le radiantLa dernière vue change de point de vue : c’est le ciel depuis le sol. Les prolongements se rejoignent au radiant, sans indiquer une source matérielle située dans la constellation.",
+        "pressed": "3Reconnaître le radiant",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  }
+]

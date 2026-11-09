@@ -1,0 +1,222 @@
+[
+  {
+    "id": "biasloop",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les données ne sont pas une copie complète de la réalité.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "biasloop",
+        "live": "À observer · 1 / 3Choisir quoi observerLes deux zones fictives contiennent ici autant d’événements, mais l’effort d’observation diffère. Les nombres sont construits pour illustrer un biais de sélection, pas une mesure d’infractions ni une carte de population.",
+        "pressed": "1Choisir quoi observer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un système peut prendre les observations partielles pour une mesure du phénomène.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "biasloop",
+        "live": "À observer · 2 / 3Utiliser les observationsLes huit observations de la zone A et les deux de B reflètent ici un effort de mesure inégal. Les exploiter sans ce contexte peut orienter davantage de moyens vers A, même si les événements réels sont aussi nombreux.",
+        "pressed": "2Utiliser les observations",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les décisions peuvent produire de nouvelles données qui entretiennent le même ciblage.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "biasloop",
+        "live": "À observer · 3 / 3Renforcer la boucleLa flèche de retour illustre un risque de rétroaction, pas une évolution inévitable. Il faut aussi examiner les objectifs choisis, les facteurs institutionnels et l’interprétation humaine ; changer les seules données ne suffit pas toujours.",
+        "pressed": "3Renforcer la boucle",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "aiact",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des pratiques définies par le texte sont interdites.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "aiact",
+        "live": "À observer · 1 / 3Certaines pratiques interditesLa notation sociale visée par l’article 5 est un exemple soumis à des critères précis, notamment un traitement préjudiciable dans un autre contexte ou injustifié ou disproportionné. Tout score numérique n’est pas interdit.",
+        "pressed": "1Certaines pratiques interdites",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Certains usages nécessitent une classification et des exigences renforcées.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "aiact",
+        "live": "À observer · 2 / 3Des usages à haut risqueLe dossier de recrutement illustre un domaine de l’annexe III, à lire avec les règles de classification de l’article 6. Gestion des risques, documentation et contrôle humain font partie du cadre ; la liste dessinée n’est pas exhaustive.",
+        "pressed": "2Des usages à haut risque",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Certaines interactions et certains contenus sont soumis à des obligations de transparence.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "aiact",
+        "live": "À observer · 3 / 3Informer les personnesLa bulle marquée IA représente une information sur l’interaction. L’article 50 distingue plusieurs obligations, destinataires et exceptions. Des obligations peuvent se cumuler ; les autres systèmes et modèles à usage général ont aussi leur propre cadre.",
+        "pressed": "3Informer les personnes",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "worktasks",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un même métier peut réunir rédaction, vérification et échanges.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "worktasks",
+        "live": "À observer · 1 / 3Décomposer le travailLe dossier fictif regroupe trois tâches d’exemple, sans prétendre décrire toute une profession. Les cartes ont la même taille pour rester lisibles, pas parce qu’elles prendraient chacune un tiers du temps de travail.",
+        "pressed": "1Décomposer le travail",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une IA peut proposer un brouillon à l’intérieur d’un travail plus large.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "worktasks",
+        "live": "À observer · 2 / 3Une tâche assistéeLe bloc IA est relié seulement à la carte du premier jet. Le gain dépend de la tâche, de la qualité obtenue et du temps de vérification ; aucun pourcentage de productivité ou de remplacement n’est calculé.",
+        "pressed": "2Une tâche assistée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le premier jet peut passer par une vérification puis par un échange humain.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "worktasks",
+        "live": "À observer · 3 / 3Un travail recomposéLe scénario montre une organisation possible, sans promettre que les emplois seront préservés ou supprimés. L’exposition de tâches à une technologie n’est pas une prévision directe de pertes d’emplois.",
+        "pressed": "3Un travail recomposé",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "facematching",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une fausse correspondance associe deux personnes différentes.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "facematching",
+        "live": "À observer · 1 / 3Deux personnes confonduesLes cartes A et B représentent des identités fictives différentes. Le résultat erroné « même personne » illustre un faux positif, sans exécuter une reconnaissance ni attribuer des caractéristiques sensibles aux portraits.",
+        "pressed": "1Deux personnes confondues",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une non-correspondance peut séparer deux photos d’une même personne.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "facematching",
+        "live": "À observer · 2 / 3Une personne non reconnueLes deux cartes A désignent ici la même identité malgré un éclairage différent. Un résultat « personnes différentes » est un faux négatif. Cette erreur n’a pas toujours les mêmes conséquences qu’un faux positif.",
+        "pressed": "2Une personne non reconnue",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une moyenne globale peut masquer des taux d’erreur différents.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "facematching",
+        "live": "À observer · 3 / 3Comparer par groupeDeux séries fictives de dix essais produisent ici deux et quatre erreurs du même type. Les 20 % et 40 % ne sont pas des résultats du NIST ni de Gender Shades ; les tests réels dépendent des algorithmes, des tâches et des images.",
+        "pressed": "3Comparer par groupe",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "justiceai",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une analyse peut extraire des éléments de décisions précédentes.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "justiceai",
+        "live": "À observer · 1 / 3Des décisions passéesLes documents et leurs éléments sont fictifs. Le dessin représente une opération d’analyse, sans prédire l’issue d’un litige ni affirmer que tout traitement de décisions serait libre de contraintes.",
+        "pressed": "1Des décisions passées",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des résultats doivent être confrontés aux pièces et aux règles pertinentes.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "justiceai",
+        "live": "À observer · 2 / 3Vérifier le cas concretLa loupe symbolise la vérification des sources et du dossier, sans score de culpabilité ni pourcentage de succès. Un précédent statistique ne dispense pas d’examiner les faits, le droit et les arguments propres à une affaire.",
+        "pressed": "2Vérifier le cas concret",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’identité des magistrats et du greffe ne peut servir à profiler leurs pratiques.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "justiceai",
+        "live": "À observer · 3 / 3Une interdiction française cibléeL’article L111-13 du Code de l’organisation judiciaire interdit la réutilisation de leurs données d’identité pour évaluer, analyser, comparer ou prédire leurs pratiques professionnelles réelles ou supposées. Le bloc barré vise cet usage précis.",
+        "pressed": "3Une interdiction française ciblée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

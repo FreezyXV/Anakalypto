@@ -1,0 +1,146 @@
+{
+  "slug": "la-lune-et-nos-points-de-vue",
+  "version": 1,
+  "status": "published",
+  "title": "Pourquoi la Lune change-t-elle de visage ?",
+  "summary": "Explore huit phases en reliant la position de la Lune à ce que nous voyons depuis la Terre.",
+  "domain": "Espace et astronomie",
+  "domainPath": "espace-et-astronomie",
+  "minutes": 3,
+  "expandedPath": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-lune-change-t-elle-de-forme-au-fil-du-mois",
+  "objective": "Comprendre que les phases viennent de notre angle de vue sur la moitié éclairée de la Lune, et non de l’ombre de la Terre.",
+  "sources": [
+    {
+      "title": "What Are the Moon’s Phases?",
+      "url": "https://spaceplace.nasa.gov/moon-phases/en/",
+      "publisher": "NASA / JPL",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Moon Phases",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "publisher": "NASA",
+      "checkedAt": "2026-10-11"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Un croissant, une boule",
+      "text": "La Lune reste une boule. Le Soleil en éclaire une moitié ; depuis la Terre, nous ne voyons pas toujours toute cette moitié lumineuse.",
+      "visual": {
+        "kind": "moon",
+        "caption": "À gauche : positions orbitales simplifiées. À droite : disque lunaire vu depuis l’hémisphère nord. Tailles et inclinaison orbitale non représentées à l’échelle.",
+        "active": false,
+        "fixedValue": 14
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Change le point de vue",
+      "text": "Choisis une phase. Le petit dessin garde la lumière du côté du Soleil ; le grand montre la part éclairée visible depuis la Terre. Huit repères résument un cycle continu.",
+      "visual": {
+        "kind": "moon",
+        "caption": "À gauche : positions orbitales simplifiées. À droite : disque lunaire vu depuis l’hémisphère nord. Tailles et inclinaison orbitale non représentées à l’échelle.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Phase observée",
+        "minLabel": "Nouvelle Lune",
+        "maxLabel": "Dernier croissant",
+        "feedback": "Regarde les deux vues ensemble : la quantité éclairée par le Soleil reste une moitié, mais la portion que nous voyons change."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "La nouvelle Lune",
+      "text": "À la nouvelle Lune, la face tournée vers nous est presque entièrement sombre. Le Soleil éclaire l’autre côté.",
+      "visual": {
+        "kind": "moon",
+        "caption": "À gauche : positions orbitales simplifiées. À droite : disque lunaire vu depuis l’hémisphère nord. Tailles et inclinaison orbitale non représentées à l’échelle.",
+        "active": false,
+        "fixedValue": 0
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Lors de la nouvelle Lune, pourquoi le disque lunaire nous paraît-il sombre ?",
+        "options": [
+          {
+            "id": "option-2",
+            "label": "La Lune cesse de recevoir la lumière du Soleil",
+            "feedback": "Elle reçoit toujours la lumière solaire sur une moitié, hors d’une éclipse."
+          },
+          {
+            "id": "option-3",
+            "label": "La Lune change réellement de forme",
+            "feedback": "Sa forme ne change pas. C’est la portion éclairée visible qui change."
+          },
+          {
+            "id": "option-1",
+            "label": "La moitié éclairée est tournée principalement à l’opposé de nous",
+            "feedback": "Oui. Le Soleil continue d’éclairer la Lune, mais nous regardons surtout sa moitié nocturne."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Quartier ou croissant ?",
+      "text": "Au quartier, une moitié du disque visible est lumineuse. Dans un croissant, une petite partie l’est. Le dessin adopte une vue depuis le nord : l’orientation change selon le lieu d’observation.",
+      "visual": {
+        "kind": "moon",
+        "caption": "À gauche : positions orbitales simplifiées. À droite : disque lunaire vu depuis l’hémisphère nord. Tailles et inclinaison orbitale non représentées à l’échelle.",
+        "active": true,
+        "fixedValue": 29
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Une phase ou une éclipse ?",
+      "text": "Une éclipse de Lune est un événement distinct : la Lune passe dans l’ombre de la Terre. Ce n’est pas la cause des phases ordinaires.",
+      "visual": {
+        "kind": "moon",
+        "caption": "À gauche : positions orbitales simplifiées. À droite : disque lunaire vu depuis l’hémisphère nord. Tailles et inclinaison orbitale non représentées à l’échelle.",
+        "active": true,
+        "fixedValue": 71
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Quelle est la cause des phases ordinaires de la Lune ?",
+        "options": [
+          {
+            "id": "option-2",
+            "label": "L’ombre de la Terre cache une partie de la Lune chaque mois",
+            "feedback": "Cette ombre intervient lors d’une éclipse de Lune, pas dans la succession habituelle des phases."
+          },
+          {
+            "id": "option-1",
+            "label": "Notre angle de vue change pendant son orbite",
+            "feedback": "Oui. Nous voyons une portion variable de sa moitié éclairée."
+          },
+          {
+            "id": "option-3",
+            "label": "La Lune allume et éteint sa propre lumière",
+            "feedback": "La Lune ne produit pas cette lumière : elle réfléchit celle du Soleil."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "La règle des deux vues",
+      "text": "Soleil : une moitié éclairée. Terre : une portion visible qui varie. Un cycle de phases dure environ 29,5 jours ; les huit positions du dessin sont des repères, pas huit sauts de la Lune.",
+      "visual": {
+        "kind": "moon",
+        "caption": "À gauche : positions orbitales simplifiées. À droite : disque lunaire vu depuis l’hémisphère nord. Tailles et inclinaison orbitale non représentées à l’échelle.",
+        "active": true,
+        "fixedValue": 57
+      }
+    }
+  ]
+}

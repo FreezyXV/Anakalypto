@@ -1,0 +1,362 @@
+[
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "lift"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "lift"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "lift"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "jet"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "jet"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "jet"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "hydraulic"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "hydraulic"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "hydraulic"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "lock"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "lock"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "lock"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "solar"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "solar"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "solar"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "wind"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "wind"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "wind"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "hydro"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "hydro"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "hydro"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "heatpump"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "heatpump"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "heatpump"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "battery"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "battery"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "battery"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "induction"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "induction"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "induction"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "greenhouse"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "greenhouse"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "greenhouse"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "groundwater"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "groundwater"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "groundwater"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "tectonics"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "tectonics"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "tectonics"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "eclipse"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "eclipse"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "eclipse"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "orbit"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "orbit"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "orbit"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "lens"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "lens"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "lens"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "fibre"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "fibre"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "fibre"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "distillation"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "distillation"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "distillation"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "binary"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "binary"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "binary"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "pixels"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "pixels"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "pixels"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "neuron"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "neuron"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "neuron"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "alveoli"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "alveoli"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "alveoli"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "dna"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "dna"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "dna"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "saponification"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "saponification"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "saponification"
+  }
+]

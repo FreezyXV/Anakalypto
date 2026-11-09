@@ -1,0 +1,148 @@
+.section {
+  padding: clamp(1rem, 3vw, 2rem);
+  background: var(--surface);
+}
+.section header h2 {
+  margin: 0.4rem 0 0.65rem;
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  line-height: 1.12;
+  overflow-wrap: anywhere;
+}
+.section header > p:last-child {
+  color: var(--ink-muted);
+}
+.steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.5rem 0;
+}
+.steps button {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: 48px;
+  padding: 0.65rem 0.85rem;
+  border: 2px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  text-align: left;
+}
+.steps button span {
+  display: grid;
+  place-items: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: #e3ecf5;
+  color: #263951;
+  font-weight: 700;
+}
+.steps button[aria-pressed="true"] {
+  background: #263951;
+  border-color: #263951;
+  color: white;
+}
+.steps button[aria-pressed="true"] span {
+  background: #f3d28b;
+}
+.steps button:focus-visible,
+.notes summary:focus-visible {
+  outline: 3px solid var(--accent, #7653e6);
+  outline-offset: 4px;
+}
+.explorer {
+  display: grid;
+  gap: 1.5rem;
+  align-items: start;
+}
+.explorer > *,
+.section header {
+  min-width: 0;
+}
+.figure {
+  margin: 0;
+}
+.figure svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+}
+.figure figcaption {
+  font-size: 1rem;
+  line-height: 1.55;
+  margin-top: 0.85rem;
+  overflow-wrap: anywhere;
+  color: var(--ink-muted);
+}
+.explanation {
+  padding: 1rem;
+  border-left: 4px solid #d4a94f;
+  border-radius: 0 12px 12px 0;
+  background: color-mix(in srgb, var(--surface) 93%, #d4a94f);
+}
+.explanation h3 {
+  margin: 0.6rem 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+.explanation > p:last-child {
+  font-size: 1rem;
+  line-height: 1.65;
+}
+.notes {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  color: var(--ink-muted);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.notes summary {
+  cursor: pointer;
+  color: var(--ink);
+  font-weight: 600;
+  min-height: 44px;
+}
+.notes p {
+  margin: 0.5rem 0;
+}
+.notes a {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+.posterTitle {
+  font-weight: 650;
+  margin: 0.65rem 0 1rem;
+}
+.poster svg {
+  border-radius: 12px;
+}
+@media (min-width: 800px) {
+  .explorer {
+    grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr);
+  }
+}
+@media (max-width: 400px) {
+  .steps {
+    display: grid;
+  }
+  .steps button {
+    width: 100%;
+  }
+}
+
+.steps {
+  font-family: var(--font-stack-sans);
+}
+@media (max-width: 640px) {
+  .section {
+    scroll-margin-top: 14rem;
+  }
+}

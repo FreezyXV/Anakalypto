@@ -14,9 +14,15 @@ export function SoilDiagram({ state }: DiagramProps) {
         width="218"
         height="41"
         rx="4"
-        fill="#9da4ae"
+        fill="#a8b2bc"
         stroke={C.ink}
         strokeWidth="2"
+      />
+      <path
+        d="M32 121 h15 M92 143 h12 M143 120 h17 M206 144 h19"
+        stroke="#c9d1d8"
+        strokeWidth="2"
+        strokeLinecap="round"
       />
       {s >= 1 && (
         <path
@@ -41,6 +47,11 @@ export function SoilDiagram({ state }: DiagramProps) {
           stroke={C.ink}
         />
       )}
+      {s >= 3 &&
+        !erosion &&
+        [46, 71, 122, 154, 186, 220].map((x, i) => (
+          <circle key={x} cx={x} cy={71 + (i % 2) * 7} r="1.8" fill="#d5ba88" />
+        ))}
       {s >= 4 && !erosion && (
         <>
           <rect x="26" y="50" width="218" height="15" fill="#483628" stroke={C.ink} />
@@ -68,7 +79,7 @@ export function SoilDiagram({ state }: DiagramProps) {
       )}
       {s >= 3 && (
         <Label x={265} y={75} anchor="start" size={13}>
-          Humus
+          Surface
         </Label>
       )}
       {erosion && (
@@ -78,9 +89,9 @@ export function SoilDiagram({ state }: DiagramProps) {
             stroke={C.blue}
             strokeWidth="2"
           />
-          <Arrow x={154} y={67} dx={77} dy={-17} color={C.orange} />
-          <circle cx="222" cy="47" r="3" fill="#78523b" />
-          <circle cx="233" cy="39" r="3" fill="#78523b" />
+          <Arrow x={154} y={74} dx={77} dy={10} color={C.orange} />
+          <circle cx="236" cy="85" r="3" fill="#78523b" />
+          <circle cx="248" cy="92" r="2.5" fill="#78523b" />
         </>
       )}
       <StageRail

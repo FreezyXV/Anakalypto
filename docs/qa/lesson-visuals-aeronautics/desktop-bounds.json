@@ -1,0 +1,216 @@
+{
+  "frames": [
+    {
+      "frame": "0",
+      "kind": "winglet",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "winglet",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "winglet",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "boundary",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "boundary",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "boundary",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "transonic",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "transonic",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "transonic",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "sonicboom",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "sonicboom",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "sonicboom",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "turboprop",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "turboprop",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "turboprop",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "sixpack",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "sixpack",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "sixpack",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "attitude",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "attitude",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "attitude",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "drag",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "drag",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "drag",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "windtunnel",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "windtunnel",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "windtunnel",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "flaps",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "flaps",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "flaps",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "glide",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "glide",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "glide",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "icing",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "icing",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "icing",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "helicopter",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "helicopter",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "helicopter",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "turbulence",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "turbulence",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "turbulence",
+      "outside": []
+    }
+  ],
+  "scrollWidth": 1280,
+  "width": 1280
+}

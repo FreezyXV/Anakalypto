@@ -1,0 +1,164 @@
+[
+  {
+    "id": "inertial",
+    "step": 0,
+    "width": 1280,
+    "caption": "Des capteurs mesurent accélérations et rotations."
+  },
+  {
+    "id": "inertial",
+    "step": 1,
+    "width": 1280,
+    "caption": "Une petite erreur de mesure peut faire dériver la position estimée."
+  },
+  {
+    "id": "inertial",
+    "step": 2,
+    "width": 1280,
+    "caption": "Une information extérieure valide aide à recaler l’estimation."
+  },
+  {
+    "id": "reckoning",
+    "step": 0,
+    "width": 1280,
+    "caption": "Le déplacement dans l’air correspond ici au déplacement au sol."
+  },
+  {
+    "id": "reckoning",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le vent s’ajoute au mouvement dans l’air et décale la route."
+  },
+  {
+    "id": "reckoning",
+    "step": 2,
+    "width": 1280,
+    "caption": "Le nez peut être orienté de côté tout en suivant la route souhaitée."
+  },
+  {
+    "id": "aircontrol",
+    "step": 0,
+    "width": 1280,
+    "caption": "La tour suit les mouvements sur la piste et à ses abords."
+  },
+  {
+    "id": "aircontrol",
+    "step": 1,
+    "width": 1280,
+    "caption": "Un service d’approche organise les arrivées et les départs."
+  },
+  {
+    "id": "aircontrol",
+    "step": 2,
+    "width": 1280,
+    "caption": "Des secteurs se partagent le suivi du trafic en croisière."
+  },
+  {
+    "id": "airrates",
+    "step": 0,
+    "width": 1280,
+    "caption": "Dans le périmètre OACI retenu, 95 accidents sont recensés en 2024."
+  },
+  {
+    "id": "airrates",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le même rapport retient 37,09 millions de départs en 2024."
+  },
+  {
+    "id": "airrates",
+    "step": 2,
+    "width": 1280,
+    "caption": "Le rapport publie 2,56 accidents par million de départs pour 2024."
+  },
+  {
+    "id": "tcas",
+    "step": 0,
+    "width": 1280,
+    "caption": "Le TCAS interroge les transpondeurs des avions proches."
+  },
+  {
+    "id": "tcas",
+    "step": 1,
+    "width": 1280,
+    "caption": "Une alerte de trafic attire l’attention sur un conflit possible."
+  },
+  {
+    "id": "tcas",
+    "step": 2,
+    "width": 1280,
+    "caption": "Deux systèmes compatibles peuvent coordonner des avis complémentaires."
+  },
+  {
+    "id": "adsb",
+    "step": 0,
+    "width": 1280,
+    "caption": "Des signaux de navigation sont reçus à bord."
+  },
+  {
+    "id": "adsb",
+    "step": 1,
+    "width": 1280,
+    "caption": "L’avion diffuse sa position et d’autres informations par radio."
+  },
+  {
+    "id": "adsb",
+    "step": 2,
+    "width": 1280,
+    "caption": "Les messages reçus peuvent alimenter un affichage du trafic."
+  },
+  {
+    "id": "recorders",
+    "step": 0,
+    "width": 1280,
+    "caption": "Le CVR enregistre l’environnement sonore du poste de pilotage."
+  },
+  {
+    "id": "recorders",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le FDR enregistre des paramètres de fonctionnement et de vol."
+  },
+  {
+    "id": "recorders",
+    "step": 2,
+    "width": 1280,
+    "caption": "Les enquêteurs récupèrent puis rapprochent les données disponibles."
+  },
+  {
+    "id": "investigation",
+    "step": 0,
+    "width": 1280,
+    "caption": "Données de vol, pièces et témoignages apportent des indices différents."
+  },
+  {
+    "id": "investigation",
+    "step": 1,
+    "width": 1280,
+    "caption": "Les informations sont rapprochées sur une chronologie."
+  },
+  {
+    "id": "investigation",
+    "step": 2,
+    "width": 1280,
+    "caption": "Des recommandations peuvent proposer des mesures de prévention."
+  },
+  {
+    "id": "certification",
+    "step": 0,
+    "width": 1280,
+    "caption": "Une base et un programme de certification précisent les exigences."
+  },
+  {
+    "id": "certification",
+    "step": 1,
+    "width": 1280,
+    "caption": "Calculs, essais au sol et essais en vol alimentent la démonstration."
+  },
+  {
+    "id": "certification",
+    "step": 2,
+    "width": 1280,
+    "caption": "L’autorité examine la démonstration avant une éventuelle approbation."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/aeronautique/aerodynamique/trainee/les-winglets-petits-ailerons-contre-la-trainee",
+    "kind": "winglet",
+    "width": 320
+  },
+  {
+    "path": "/aeronautique/aerodynamique/ecoulements/le-planeur-voler-sans-moteur",
+    "kind": "glide",
+    "width": 320
+  }
+]

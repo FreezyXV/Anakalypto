@@ -1,0 +1,77 @@
+[
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "biasloop"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "biasloop"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "biasloop"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "aiact"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "aiact"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "aiact"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "worktasks"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "worktasks"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "worktasks"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "facematching"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "facematching"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "facematching"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "justiceai"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "justiceai"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "justiceai"
+  }
+]

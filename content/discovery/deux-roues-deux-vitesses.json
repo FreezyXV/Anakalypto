@@ -1,0 +1,141 @@
+{
+  "slug": "deux-roues-deux-vitesses",
+  "version": 1,
+  "status": "published",
+  "title": "Pourquoi deux engrenages tournent-ils différemment ?",
+  "summary": "Fais tourner une roue de 12 dents et suis celle de 18 dents : sens inverse et vitesse différente.",
+  "domain": "Technologies et ingénierie",
+  "domainPath": "technologies-et-ingenierie",
+  "minutes": 3,
+  "expandedPath": "/technologies-et-ingenierie/robotique/actionneurs/engrenages-courroies-transmissions",
+  "objective": "Comprendre que deux roues dentées extérieures tournent en sens opposés, et que leur nombre de dents détermine le rapport de rotation.",
+  "sources": [
+    {
+      "title": "Mechanisms — Chapter 7: Gears",
+      "url": "https://www.cs.cmu.edu/~rapidproto/mechanisms/chpt7.html",
+      "publisher": "Carnegie Mellon University",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Gears — SolidWorks tutorial",
+      "url": "https://www.cs.cmu.edu/afs/cs/academic/class/15394t-s17/lectures/gears/gears.html",
+      "publisher": "Carnegie Mellon University",
+      "checkedAt": "2026-10-11"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Deux repères à suivre",
+      "text": "La petite roue entraîne la grande. Les traits colorés permettent de suivre leur rotation même lorsque toutes les dents se ressemblent.",
+      "visual": {
+        "kind": "gears",
+        "caption": "Paire extérieure idéale : 12 dents en entrée, 18 en sortie. Repères colorés pour suivre la rotation ; les profils de dents sont symboliques.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Fais un tour de moteur",
+      "text": "Avance le curseur de 0° à 360°. Compare les angles et le sens des deux repères. Reviens en arrière pour observer le même mouvement à ton rythme.",
+      "visual": {
+        "kind": "gears",
+        "caption": "Paire extérieure idéale : 12 dents en entrée, 18 en sortie. Repères colorés pour suivre la rotation ; les profils de dents sont symboliques.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Rotation de l’entrée",
+        "minLabel": "0°",
+        "maxLabel": "360°",
+        "feedback": "Quand l’entrée fait un tour, la sortie fait 240°, soit deux tiers de tour, dans le sens opposé. Le curseur commande un angle, pas une vitesse."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Quel sens de rotation ?",
+      "text": "Les dents de ces deux roues extérieures se poussent au point de contact.",
+      "visual": {
+        "kind": "gears",
+        "caption": "Paire extérieure idéale : 12 dents en entrée, 18 en sortie. Repères colorés pour suivre la rotation ; les profils de dents sont symboliques.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Deux roues dentées extérieures s’engrènent directement. Dans quel sens tourne la seconde ?",
+        "options": [
+          {
+            "id": "option-2",
+            "label": "Dans le même sens que la première",
+            "feedback": "Pour une paire extérieure directe, le sens s’inverse."
+          },
+          {
+            "id": "option-1",
+            "label": "Dans le sens opposé à la première",
+            "feedback": "Oui. Au contact, les dents transmettent le mouvement en inversant le sens de rotation."
+          },
+          {
+            "id": "option-3",
+            "label": "Elle reste immobile",
+            "feedback": "Si les dents sont engrenées et les axes libres, la seconde roue est entraînée."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Douze dents contre dix-huit",
+      "text": "Un tour de la petite roue fait passer 12 dents au contact. La grande doit aussi en faire passer 12 : cela représente 12/18 de son tour, soit deux tiers.",
+      "visual": {
+        "kind": "gears",
+        "caption": "Paire extérieure idéale : 12 dents en entrée, 18 en sortie. Repères colorés pour suivre la rotation ; les profils de dents sont symboliques.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Un tour n’est pas un tour",
+      "text": "La roue menée possède davantage de dents que la roue qui l’entraîne.",
+      "visual": {
+        "kind": "gears",
+        "caption": "Paire extérieure idéale : 12 dents en entrée, 18 en sortie. Repères colorés pour suivre la rotation ; les profils de dents sont symboliques.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Une roue de 12 dents fait un tour et entraîne directement une roue de 18 dents. De combien tourne celle de 18 dents ?",
+        "options": [
+          {
+            "id": "option-2",
+            "label": "Un tour et demi, dans le sens opposé",
+            "feedback": "Ce serait le rapport inverse. La grande roue tourne moins, car elle a davantage de dents."
+          },
+          {
+            "id": "option-3",
+            "label": "Un tour, dans le même sens",
+            "feedback": "Les nombres de dents sont différents et une paire extérieure inverse le sens."
+          },
+          {
+            "id": "option-1",
+            "label": "Deux tiers de tour, dans le sens opposé",
+            "feedback": "Oui : 12/18 = 2/3 de tour, soit 240°."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "Compte les dents",
+      "text": "Pour cette paire, plus de dents en sortie signifie moins de rotation en sortie. Les repères montrent le sens ; le rapport 12/18 donne l’angle. Ce dessin ne simule ni les frottements ni le profil réel des dents.",
+      "visual": {
+        "kind": "gears",
+        "caption": "Paire extérieure idéale : 12 dents en entrée, 18 en sortie. Repères colorés pour suivre la rotation ; les profils de dents sont symboliques.",
+        "active": true
+      }
+    }
+  ]
+}

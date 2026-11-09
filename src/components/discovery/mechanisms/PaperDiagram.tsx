@@ -5,7 +5,7 @@ export function PaperDiagram({ state }: DiagramProps) {
   return (
     <>
       <Title>Retirer l’eau, garder les fibres</Title>
-      <g opacity={s === 0 ? 1 : 0.5}>
+      <g opacity={s === 0 ? 1 : 0.65}>
         <path d="M17 54 V115 H63 V54" fill={C.water} stroke={C.ink} strokeWidth="2" />
         {[0, 1, 2, 3].map((i) => (
           <path
@@ -19,7 +19,7 @@ export function PaperDiagram({ state }: DiagramProps) {
           Pâte
         </Label>
       </g>
-      <g opacity={s >= 1 ? 1 : 0.25}>
+      <g opacity={s >= 1 ? 1 : 0.6}>
         <path d="M78 108 H128 M78 115 H128" stroke={C.ink} strokeWidth="2" />
         {[80, 89, 98, 107, 116, 125].map((x) => (
           <path key={x} d={`M${x} 108 V115`} stroke={C.ink} />
@@ -32,16 +32,19 @@ export function PaperDiagram({ state }: DiagramProps) {
           Eau ↓
         </Label>
       </g>
-      <g opacity={s >= 2 ? 1 : 0.25}>
-        <circle cx="173" cy="84" r="15" fill="#fff" stroke={C.ink} strokeWidth="2" />
-        <circle cx="173" cy="119" r="15" fill="#fff" stroke={C.ink} strokeWidth="2" />
+      <g opacity={s >= 2 ? 1 : 0.6}>
+        <circle cx="173" cy="84" r="15" fill="var(--art-metal)" stroke="#617a91" strokeWidth="2" />
+        <circle cx="173" cy="119" r="15" fill="var(--art-metal)" stroke="#617a91" strokeWidth="2" />
+        <circle cx="173" cy="84" r="4" fill="#8f9faf" />
+        <circle cx="173" cy="119" r="4" fill="#8f9faf" />
         <path d="M170 140 V150 M181 140 V148" stroke={C.blue} strokeWidth="2" />
         <Label x={173} y={64} size={12}>
           Presses
         </Label>
       </g>
-      <g opacity={s >= 3 ? 1 : 0.25}>
-        <circle cx="241" cy="99" r="23" fill="#fff1ba" stroke={C.orange} strokeWidth="2" />
+      <g opacity={s >= 3 ? 1 : 0.6}>
+        <circle cx="241" cy="99" r="23" fill="var(--art-gold)" stroke={C.orange} strokeWidth="2" />
+        <circle cx="241" cy="99" r="7" fill="#fff3c3" stroke={C.orange} />
         <path
           d="M226 67 q-5 -7 0 -13 M241 67 q-5 -7 0 -13 M256 67 q-5 -7 0 -13"
           fill="none"
@@ -52,8 +55,8 @@ export function PaperDiagram({ state }: DiagramProps) {
           Chaleur
         </Label>
       </g>
-      <g opacity={s >= 4 ? 1 : 0.25}>
-        <circle cx="317" cy="101" r="21" fill="#fff" stroke={C.ink} strokeWidth="2" />
+      <g opacity={s >= 4 ? 1 : 0.6}>
+        <circle cx="317" cy="101" r="21" fill="var(--art-metal)" stroke={C.ink} strokeWidth="2" />
         <path
           d="M317 98 q-12 -12 -13 4 q2 17 19 9 q14 -8 3 -23"
           fill="none"

@@ -9,11 +9,24 @@ import {
 import { completeReview, freshReview, getCheckpoints } from "../src/lib/discovery/review";
 import { discoveryDayIndex, recommendDiscovery } from "../src/lib/discovery/recommendation";
 import { loadContentBlocks } from "../src/lib/content/load";
-import { flowState, pistonState } from "../src/lib/discovery/visual-state";
+import { flowState, pistonState, visualDescription } from "../src/lib/discovery/visual-state";
+import {
+  workshopScenes,
+  workshopInitialValue,
+  workshopStateTitle,
+} from "../src/lib/discovery/workshop";
 import { createElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";
-import { DiscoveryVisual } from "../src/components/discovery/DiscoveryVisual";
+import { DiscoveryVisual, DiscoveryPreview } from "../src/components/discovery/DiscoveryVisual";
+import { visualCaption } from "../src/lib/discovery/visual-caption";
 import { MECHANISM_KINDS, MECHANISM_STAGES, mechanismState } from "../src/lib/discovery/mechanisms";
+import {
+  leverModel,
+  buoyancyModel,
+  moonModel,
+  gearsModel,
+  MOON_PHASES,
+} from "../src/lib/discovery/models";
 
 describe("discovery content", () => {
   it("publishes valid experiences linked to published expanded articles", async () => {
@@ -75,6 +88,57 @@ describe("discovery content", () => {
         ],
       }).success,
     ).toBe(false);
+  });
+});
+
+describe("visual workshops", () => {
+  it("names the actual compared states, including all subject-specific values", async () => {
+    for (const lesson of await getDiscoveryLessons()) {
+      const main = workshopScenes(lesson)[0]!;
+      expect(workshopStateTitle(main, 0), lesson.slug).not.toBe(
+        workshopStateTitle(main, workshopInitialValue(main)),
+      );
+    }
+    const cyclone = (await getDiscoveryLessons()).find((l) => l.slug === "naissance-d-un-cyclone")!;
+    const scene = workshopScenes(cyclone)[0]!;
+    expect(workshopStateTitle(scene, 0)).toBe("Mer froide");
+    expect(workshopStateTitle(scene, 100)).toBe("Mer chaude");
+  });
+  it("exposes every authored variant without exporting answers or mutating the lesson", async () => {
+    for (const lesson of await getDiscoveryLessons()) {
+      const before = JSON.stringify(lesson);
+      const scenes = workshopScenes(lesson);
+      expect(scenes[0]?.interaction?.kind, lesson.slug).toMatch(/toggle|range/);
+      expect(scenes[0]?.visual.frame).toBeUndefined();
+      const expected = new Set(lesson.steps.map((step) => step.visual.scene).filter(Boolean));
+      expect(new Set(scenes.slice(1).map((scene) => scene.visual.scene))).toEqual(expected);
+      expect(scenes.every((scene) => scene.interaction?.kind !== "choice")).toBe(true);
+      expect(JSON.stringify(lesson)).toBe(before);
+    }
+  });
+
+  it("describes both manipulated states and respects fixed comparison scenes", async () => {
+    for (const lesson of await getDiscoveryLessons()) {
+      const main = workshopScenes(lesson)[0]!;
+      const first = visualDescription(main.visual, 0);
+      const second = visualDescription(main.visual, workshopInitialValue(main));
+      expect(first, lesson.slug).not.toBe(second);
+      const fixed = lesson.steps.filter(
+        (step) => step.visual.frame !== undefined || step.visual.phase !== undefined,
+      );
+      for (const step of fixed)
+        expect(visualDescription(step.visual, 0)).toBe(visualDescription(step.visual, 100));
+    }
+  });
+
+  it("starts the piston comparison at the power stroke, rather than an identical full-cycle endpoint", async () => {
+    const lesson = (await getDiscoveryLessons()).find((item) => item.slug === "les-quatre-temps")!;
+    const scene = workshopScenes(lesson)[0]!;
+    expect(pistonState(workshopInitialValue(scene)).phase).toBe(2);
+    expect(visualDescription(scene.visual, 0)).toContain("Admission");
+    expect(visualDescription(scene.visual, workshopInitialValue(scene))).toContain(
+      "Combustion-détente",
+    );
   });
 });
 
@@ -317,11 +381,140 @@ describe("mechanism diagrams", () => {
   });
 });
 
+describe("new subject teaching models", () => {
+  it("keeps compact captions tied to fixed lesson states without losing physical limits", () => {
+    expect(
+      visualCaption({ kind: "moon", caption: "Modèle", active: true, fixedValue: 29 }, 100),
+    ).toContain("Premier quartier");
+    expect(
+      visualCaption({ kind: "buoyancy", caption: "Modèle", active: false, fixedValue: 100 }, 0),
+    ).toContain("La poussée ne suffit plus");
+    expect(
+      visualCaption({ kind: "photosynthesis", caption: "Modèle", active: false }, 0),
+    ).toContain("pas de nouvel apport");
+  });
+  it("illustrates lunar teaching steps with their authored phase rather than a boolean endpoint", async () => {
+    const lesson = (await getDiscoveryLessons()).find(
+      (l) => l.slug === "la-lune-et-nos-points-de-vue",
+    )!;
+    for (const [id, phase] of [
+      ["observer", "Premier croissant"],
+      ["defi-1", "Nouvelle Lune"],
+      ["comprendre", "Premier quartier"],
+      ["retenir", "Pleine Lune"],
+    ]) {
+      const visual = lesson.steps.find((s) => s.id === id)!.visual;
+      expect(visualDescription(visual, 0)).toContain(phase);
+      expect(visualDescription(visual, 100)).toContain(phase);
+    }
+  });
+  it("shows a loaded floating hull for the loading challenge and neutral buoyancy at the limit", async () => {
+    const lesson = (await getDiscoveryLessons()).find(
+      (l) => l.slug === "le-bateau-et-l-eau-deplacee",
+    )!;
+    const loaded = lesson.steps.find((s) => s.id === "defi-1")!.visual;
+    expect(visualDescription(loaded, 0)).toContain("720 kg");
+    expect(visualDescription(loaded, 0)).toContain("720 L");
+    expect(
+      buoyancyModel(lesson.steps.find((s) => s.id === "comprendre")!.visual.fixedValue!).condition,
+    ).toBe("neutral");
+  });
+  it("rejects fixed numerical states on live controls or outside the model's bounds", async () => {
+    const lesson = structuredClone(
+      (await getDiscoveryLessons()).find((l) => l.slug === "la-lune-et-nos-points-de-vue")!,
+    );
+    const manipulation = lesson.steps.find((s) => s.interaction?.kind === "range")!;
+    manipulation.visual.fixedValue = 29;
+    expect(discoveryLessonSchema.safeParse(lesson).success).toBe(false);
+    delete manipulation.visual.fixedValue;
+    lesson.steps[0]!.visual.fixedValue = 101;
+    expect(discoveryLessonSchema.safeParse(lesson).success).toBe(false);
+    lesson.steps[0]!.visual.fixedValue = 29;
+    expect(discoveryLessonSchema.safeParse(lesson).success).toBe(true);
+  });
+  it("uses a floating hull and a quarter Moon in catalogue covers, with isolated SVG definitions", () => {
+    const visual = { kind: "buoyancy" as const, caption: "Modèle", active: false };
+    const cover = renderToStaticMarkup(createElement(DiscoveryPreview, { visual }));
+    expect(cover).toContain("720 kg");
+    expect(cover).toContain("La coque flotte");
+    const moon = renderToStaticMarkup(
+      createElement(DiscoveryPreview, { visual: { ...visual, kind: "moon" } }),
+    );
+    expect(moon).toContain("Premier quartier");
+    const pair = renderToStaticMarkup(
+      createElement(
+        "div",
+        null,
+        createElement(DiscoveryVisual, { visual, value: 0 }),
+        createElement(DiscoveryVisual, { visual, value: 100 }),
+      ),
+    );
+    const ids = [...pair.matchAll(/\bid="([^"]+)"/g)].map((m) => m[1]);
+    expect(ids.length).toBeGreaterThan(0);
+    expect(new Set(ids).size).toBe(ids.length);
+  });
+  it("balances lever moments across the full range without changing the load", () => {
+    for (let value = 0; value <= 100; value++) {
+      const m = leverModel(value);
+      expect(m.loadForce).toBe(120);
+      expect(m.effortForce * m.effortArm).toBeCloseTo(m.loadForce * m.loadArm);
+      expect(m.loadArm + m.effortArm).toBe(40);
+    }
+    expect(leverModel(0).effortForce).toBe(360);
+    expect(leverModel(100).effortForce).toBe(40);
+  });
+  it("distinguishes floating equilibrium, complete immersion and insufficient buoyancy", () => {
+    for (const value of [0, 25, 50, 74]) {
+      const m = buoyancyModel(value);
+      expect(m.condition).toBe("floating");
+      expect(m.buoyantForce).toBe(m.weight);
+      expect(m.displacedLitres).toBeLessThan(1000);
+    }
+    expect(buoyancyModel(75).condition).toBe("neutral");
+    expect(buoyancyModel(75).buoyantForce).toBe(buoyancyModel(75).weight);
+    for (const value of [76, 90, 100]) {
+      const m = buoyancyModel(value);
+      expect(m.condition).toBe("sinking");
+      expect(m.buoyantForce).toBeLessThan(m.weight);
+      expect(m.displacedLitres).toBe(1000);
+    }
+  });
+  it("reaches eight distinct lunar phases and gives equal light fractions to opposite crescents", () => {
+    MOON_PHASES.forEach((name, i) => expect(moonModel(Math.round((i * 100) / 7)).name).toBe(name));
+    expect(moonModel(0).illuminatedFraction).toBe(0);
+    expect(moonModel(57).illuminatedFraction).toBe(1);
+    expect(moonModel(29).illuminatedFraction).toBeCloseTo(0.5);
+    expect(moonModel(14).illuminatedFraction).toBeCloseTo(moonModel(100).illuminatedFraction);
+  });
+  it("transmits the same number of teeth in opposite directions at every angle", () => {
+    for (let value = 0; value <= 100; value++) {
+      const m = gearsModel(value);
+      expect(m.driverAngle * m.driverTeeth + m.drivenAngle * m.drivenTeeth).toBeCloseTo(0);
+    }
+    expect(gearsModel(100).drivenAngle).toBe(-240);
+  });
+  it("renders every lunar phase without invalid geometry and explains the selected phase", () => {
+    for (let index = 0; index < 8; index++) {
+      const html = renderToStaticMarkup(
+        createElement(DiscoveryVisual, {
+          visual: { kind: "moon", caption: "Deux vues", active: false },
+          value: Math.round((index * 100) / 7),
+          stateCaption: true,
+        }),
+      );
+      expect(html).toContain(MOON_PHASES[index]);
+      expect(html).not.toMatch(/NaN|undefined/);
+    }
+  });
+});
+
 describe("subject-specific illustrations", () => {
-  it("gives each of the fifteen discoveries its own subject diagram", async () => {
+  it("gives every discovery its own subject diagram", async () => {
     const lessons = await getDiscoveryLessons();
-    expect(lessons).toHaveLength(15);
-    expect(new Set(lessons.map((lesson) => lesson.steps[0]!.visual.kind)).size).toBe(15);
+    expect(lessons).toHaveLength(MECHANISM_KINDS.length + 4);
+    expect(new Set(lessons.map((lesson) => lesson.steps[0]!.visual.kind)).size).toBe(
+      lessons.length,
+    );
     for (const kind of MECHANISM_KINDS)
       expect(
         lessons.some((lesson) => lesson.steps[0]!.visual.kind === kind),

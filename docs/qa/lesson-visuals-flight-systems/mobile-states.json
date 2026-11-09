@@ -1,0 +1,398 @@
+[
+  {
+    "id": "inertial",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des capteurs mesurent accélérations et rotations.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "inertial",
+        "live": "À observer · 1 / 3Mesurer à bordAprès initialisation, une centrale utilise ces mesures pour estimer l’orientation, la vitesse et la position. Elle ne mesure pas directement une distance parcourue comme un compteur de pas.",
+        "pressed": "1Mesurer à bord",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une petite erreur de mesure peut faire dériver la position estimée.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "inertial",
+        "live": "À observer · 2 / 3Accumuler une erreurLa courbe orange est un exemple fictif d’erreur transversale due à un biais d’accélération constant. Le calcul intègre ce biais deux fois : l’écart croît ici avec le carré du temps.",
+        "pressed": "2Accumuler une erreur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une information extérieure valide aide à recaler l’estimation.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "inertial",
+        "live": "À observer · 3 / 3Combiner les sourcesUne position satellitaire ou d’autres aides peuvent contribuer au recalage. Leur combinaison avec l’inertiel dépend du système ; elle ne supprime pas toutes les erreurs et ne garantit pas la détection de tout signal trompeur.",
+        "pressed": "3Combiner les sources",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "reckoning",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le déplacement dans l’air correspond ici au déplacement au sol.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "reckoning",
+        "live": "À observer · 1 / 3Sans ventLa flèche bleue indique le vecteur de vitesse dans l’air. Pour un temps donné, multiplier la vitesse par la durée donne un déplacement ; les directions doivent aussi être prises en compte.",
+        "pressed": "1Sans vent",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le vent s’ajoute au mouvement dans l’air et décale la route.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "reckoning",
+        "live": "À observer · 2 / 3Vent de traversLe triangle additionne les vecteurs : vitesse au sol égale vitesse dans l’air plus vent. La flèche orange part de la pointe de la bleue ; la verte relie le départ au résultat.",
+        "pressed": "2Vent de travers",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le nez peut être orienté de côté tout en suivant la route souhaitée.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "reckoning",
+        "live": "À observer · 3 / 3Orienter le nezDans cet exemple, une composante du mouvement dans l’air compense le vent latéral. La vitesse dans l’air est conservée entre les trois vues ; la vitesse au sol change avec la configuration.",
+        "pressed": "3Orienter le nez",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "aircontrol",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La tour suit les mouvements sur la piste et à ses abords.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "aircontrol",
+        "live": "À observer · 1 / 3AérodromeLa piste, la tour et le départ figurent une organisation simplifiée. Les périmètres exacts du service dépendent de l’aérodrome et des procédures applicables.",
+        "pressed": "1Aérodrome",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un service d’approche organise les arrivées et les départs.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "aircontrol",
+        "live": "À observer · 2 / 3ApprocheLa trajectoire traverse une zone intermédiaire avant de rejoindre l’espace en route. Les communications et transferts sont coordonnés entre organismes : le dessin ne signifie pas que le contrôle cesse entre les zones.",
+        "pressed": "2Approche",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des secteurs se partagent le suivi du trafic en croisière.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "aircontrol",
+        "live": "À observer · 3 / 3En routeLes boîtes illustrent des volumes de responsabilité et les points de passage des transferts coordonnés. Ce ne sont pas des rails matériels ; les espacements réglementaires ne sont pas à l’échelle de l’image.",
+        "pressed": "3En route",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "airrates",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Dans le périmètre OACI retenu, 95 accidents sont recensés en 2024.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "airrates",
+        "live": "À observer · 1 / 3Compter les accidentsCe total comprend 10 accidents mortels. Il concerne les vols commerciaux réguliers d’avions de masse maximale au décollage supérieure à 5 700 kg, pas toute l’aviation.",
+        "pressed": "1Compter les accidents",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le même rapport retient 37,09 millions de départs en 2024.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "airrates",
+        "live": "À observer · 2 / 3Compter les départsLe volume d’activité constitue le dénominateur. Comparer seulement les nombres bruts entre deux années ne suffit pas si le trafic a changé.",
+        "pressed": "2Compter les départs",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le rapport publie 2,56 accidents par million de départs pour 2024.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "airrates",
+        "live": "À observer · 3 / 3Calculer un tauxOn divise 95 par 37,09 millions, puis on multiplie par un million. Un taux d’accidents ne donne pas le nombre de morts ni le risque individuel de chaque voyage.",
+        "pressed": "3Calculer un taux",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "tcas",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le TCAS interroge les transpondeurs des avions proches.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "tcas",
+        "live": "À observer · 1 / 3Interroger et recevoirLes échanges radio fournissent des informations de trafic, notamment de distance et d’altitude. Le système ne détecte pas un avion dont le transpondeur compatible est absent ou inopérant.",
+        "pressed": "1Interroger et recevoir",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une alerte de trafic attire l’attention sur un conflit possible.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "tcas",
+        "live": "À observer · 2 / 3Alerter sur le traficL’encadré orange représente une alerte TA, sans instruction de manœuvre. La logique évalue l’évolution du rapprochement : la proximité dessinée ne constitue pas un seuil universel.",
+        "pressed": "2Alerter sur le trafic",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Deux systèmes compatibles peuvent coordonner des avis complémentaires.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "tcas",
+        "live": "À observer · 3 / 3Coordonner les avisLes trajectoires verte et bleue montrent un exemple d’évitement vertical coordonné. Les avis RA peuvent aussi limiter ou modifier une vitesse verticale ; ils ne signifient pas toujours que l’un monte et l’autre descend.",
+        "pressed": "3Coordonner les avis",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "adsb",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des signaux de navigation sont reçus à bord.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "adsb",
+        "live": "À observer · 1 / 3Calculer la positionLes satellites de navigation émettent vers le récepteur de l’avion. Ce premier lien sert à calculer une position ; le dessin ne représente pas une interrogation des satellites par l’avion.",
+        "pressed": "1Calculer la position",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’avion diffuse sa position et d’autres informations par radio.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "adsb",
+        "live": "À observer · 2 / 3Diffuser un messageLe signal orange part cette fois de l’avion vers des récepteurs compatibles au sol ou dans d’autres avions. L’ADS-B Out est une diffusion automatique, distincte d’un écho radar.",
+        "pressed": "2Diffuser un message",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les messages reçus peuvent alimenter un affichage du trafic.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "adsb",
+        "live": "À observer · 3 / 3Afficher une traceLa liaison entre station et écran représente le traitement au sol. Un site public peut agréger des réceptions pour afficher une trace, avec des limites de couverture, de délai et de filtrage.",
+        "pressed": "3Afficher une trace",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "recorders",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le CVR enregistre l’environnement sonore du poste de pilotage.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "recorders",
+        "live": "À observer · 1 / 3Sons du cockpitL’onde est un signal fictif représentant sons, conversations et alarmes. Ce dessin n’est pas un enregistrement d’accident et ne reproduit aucune conversation réelle.",
+        "pressed": "1Sons du cockpit",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le FDR enregistre des paramètres de fonctionnement et de vol.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "recorders",
+        "live": "À observer · 2 / 3Paramètres de volLes courbes symbolisent plusieurs grandeurs horodatées, sans unités ni événement réel. Elles ne sont pas une simple copie des sons du cockpit.",
+        "pressed": "2Paramètres de vol",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les enquêteurs récupèrent puis rapprochent les données disponibles.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "recorders",
+        "live": "À observer · 3 / 3Relire les mémoiresLa coupe montre une mémoire protégée dans une enveloppe résistante. Les formes et couches sont pédagogiques ; certains équipements combinent plusieurs fonctions dans un même enregistreur.",
+        "pressed": "3Relire les mémoires",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "investigation",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Données de vol, pièces et témoignages apportent des indices différents.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "investigation",
+        "live": "À observer · 1 / 3RecueillirLes trois objets sont des exemples de sources d’information. Aucun indice isolé ne résume forcément un événement ; les enquêteurs examinent aussi le contexte opérationnel et documentaire.",
+        "pressed": "1Recueillir",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les informations sont rapprochées sur une chronologie.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "investigation",
+        "live": "À observer · 2 / 3ReconstituerLes repères reliés montrent comment plusieurs indices peuvent être comparés. Les étapes dessinées sont fictives et ne décrivent aucun accident ni une attribution de faute.",
+        "pressed": "2Reconstituer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des recommandations peuvent proposer des mesures de prévention.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "investigation",
+        "live": "À observer · 3 / 3RecommanderUne recommandation s’adresse aux organismes concernés pour réduire un risque identifié. Son émission n’est pas une preuve que la mesure a déjà été mise en œuvre ou qu’un accident ne pourra plus survenir.",
+        "pressed": "3Recommander",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "certification",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une base et un programme de certification précisent les exigences.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "certification",
+        "live": "À observer · 1 / 3Définir le cadreLe constructeur et l’autorité définissent les moyens de démontrer la conformité, y compris pour les nouveautés. Les deux premiers temps du processus EASA sont regroupés ici dans une seule vue.",
+        "pressed": "1Définir le cadre",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Calculs, essais au sol et essais en vol alimentent la démonstration.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "certification",
+        "live": "À observer · 2 / 3Apporter les preuvesL’aile chargée représente un exemple d’essai de structure, pas l’unique preuve. Les charges appliquées vers le haut sont reprises par le montage ; la flexion est agrandie pour rendre l’essai lisible.",
+        "pressed": "2Apporter les preuves",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’autorité examine la démonstration avant une éventuelle approbation.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "certification",
+        "live": "À observer · 3 / 3Examiner et approuverLa validation de conformité d’un type est distincte de l’autorisation individuelle d’un avion et de celle d’un exploitant. La figure ne remplace aucun document officiel et n’affiche pas un certificat réel.",
+        "pressed": "3Examiner et approuver",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

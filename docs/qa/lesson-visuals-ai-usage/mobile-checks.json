@@ -1,0 +1,354 @@
+[
+  {
+    "id": "multimodal",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une chaîne vocale peut séparer transcription, réponse et synthèse vocale.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "multimodal",
+        "live": "À observer · 1 / 3Des chaînes séparéesLa première scène représente un exemple de chaîne en trois modèles. Le texte transmis entre eux ne conserve pas nécessairement toute l’information de la voix, comme l’intonation.",
+        "pressed": "1Des chaînes séparées",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un traitement multimodal peut recevoir plusieurs types de données.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "multimodal",
+        "live": "À observer · 2 / 3Plusieurs modalitésLes cartes représentent une image, des mots et un son. La boîte centrale résume un modèle commun ; ce dessin ne révèle pas l’architecture interne exacte de GPT-4o.",
+        "pressed": "2Plusieurs modalités",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La réponse peut relier des éléments de l’image et de la consigne.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "multimodal",
+        "live": "À observer · 3 / 3Une réponse illustréeL’exemple dessiné reçoit une image de tasse et une question, puis affiche « Une tasse ». Il ne s’agit pas d’une inférence exécutée ; les modalités disponibles dépendent du modèle et du produit.",
+        "pressed": "3Une réponse illustrée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "hallucination",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une phrase fluide peut annoncer une information fausse.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "hallucination",
+        "live": "À observer · 1 / 3Une affirmationLe musée et son nombre de salles sont entièrement fictifs. L’exemple sert à dissocier le ton d’une réponse de sa véracité ; ce n’est pas une citation réelle ni un résultat de modèle.",
+        "pressed": "1Une affirmation",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une source pertinente permet ici de repérer la contradiction.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "hallucination",
+        "live": "À observer · 2 / 3RecouperLe document fictif indique quatre salles tandis que la réponse en annonçait sept. Une source doit elle-même être identifiée, datée et comprise ; le dessin ne garantit pas qu’une recherche trouve toujours la réponse.",
+        "pressed": "2Recouper",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le résultat doit être corrigé ou l’incertitude reconnue.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "hallucination",
+        "live": "À observer · 3 / 3Corriger ou s’abstenirDans cet exemple, les informations fournies permettent de corriger le nombre. Si elles ne le permettaient pas, dire que l’on ne sait pas serait préférable à inventer ; une IA peut apprendre à exprimer son incertitude.",
+        "pressed": "3Corriger ou s’abstenir",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "localmodel",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les paramètres du modèle sont chargés pour effectuer des calculs localement.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "localmodel",
+        "live": "À observer · 1 / 3Charger les poidsLe fichier, la mémoire et le processeur sont représentés dans l’ordinateur. Aucun service distant n’est nécessaire dans cet exemple, une fois les fichiers et le logiciel disponibles.",
+        "pressed": "1Charger les poids",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une quantification regroupe des valeurs dans moins de niveaux.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "localmodel",
+        "live": "À observer · 2 / 3Réduire la précisionLes quatre valeurs sont un jouet numérique. Le passage illustré de huit à deux bits par valeur réduit le nombre de codes disponibles de 256 à quatre ; les paramètres sont donc approximés.",
+        "pressed": "2Réduire la précision",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La mémoire sert aux poids, mais aussi au contexte et au programme.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "localmodel",
+        "live": "À observer · 3 / 3Prévoir toute la mémoireLes trois zones ne sont pas à l’échelle. La place nécessaire dépend du modèle, de la longueur du contexte, des caches et du logiciel ; la taille du fichier ne suffit pas à prédire l’usage de mémoire.",
+        "pressed": "3Prévoir toute la mémoire",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "assistive",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un texte filmé peut être reconnu puis lu à voix haute.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "assistive",
+        "live": "À observer · 1 / 3Du texte à la voixLe téléphone vise ici le mot « Sortie ». La reconnaissance de caractères et la synthèse vocale sont deux opérations distinctes ; cette scène représente leur principe, sans lancer la caméra ni produire du son.",
+        "pressed": "1Du texte à la voix",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La parole peut être affichée sous forme de transcription.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "assistive",
+        "live": "À observer · 2 / 3De la parole au texteLe mot « Bonjour » est un exemple préparé, pas une reconnaissance en direct. Le bruit, la distance, la langue et l’élocution peuvent affecter la qualité de la transcription.",
+        "pressed": "2De la parole au texte",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une reconnaissance incertaine peut nécessiter une autre vérification.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "assistive",
+        "live": "À observer · 3 / 3Vérifier une ambiguïtéLa lettre O et le chiffre 0 illustrent une ambiguïté de lecture. Le dessin conserve le point d’interrogation au lieu d’annoncer un résultat certain ; les besoins et moyens de contrôle varient selon la personne.",
+        "pressed": "3Vérifier une ambiguïté",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "syntheticmedia",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un trucage peut combiner des traits et une expression issus de sources différentes.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "syntheticmedia",
+        "live": "À observer · 1 / 3Des éléments de départLes deux avatars sont dessinés et ne représentent aucune personne réelle. L’un fournit ici une apparence, l’autre une expression ; c’est un principe de manipulation, pas une procédure logicielle.",
+        "pressed": "1Des éléments de départ",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une apparence recomposée peut donner une impression trompeuse.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "syntheticmedia",
+        "live": "À observer · 2 / 3Une scène fabriquéeL’avatar de sortie combine visuellement des éléments des deux dessins. Aucun réseau n’est exécuté ; d’autres techniques synthétiques fonctionnent différemment, notamment pour le son ou la génération complète.",
+        "pressed": "2Une scène fabriquée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’apparence seule ne suffit pas à établir l’origine d’un contenu.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "syntheticmedia",
+        "live": "À observer · 3 / 3Vérifier l’origineLes trois repères invitent à examiner l’émetteur, l’historique et les confirmations indépendantes. Une provenance signée aide à tracer des informations, mais ne garantit pas la vérité de l’événement ; son absence ne prouve pas un faux.",
+        "pressed": "3Vérifier l’origine",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "retrieval",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une utilisation du modèle ne met pas automatiquement ses paramètres à jour.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "retrieval",
+        "live": "À observer · 1 / 3Des paramètres fixésLe cadenas désigne ici des poids fixés pendant l’inférence, pas un modèle impossible à réentraîner. Les éléments qui ne sont pas dans ses paramètres peuvent être fournis par le contexte ou un outil.",
+        "pressed": "1Des paramètres fixés",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un outil peut apporter des passages externes au moment de la question.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "retrieval",
+        "live": "À observer · 2 / 3Récupérer des documentsLes feuillets représentent des documents sélectionnés dans une base ou sur le Web. Leur date, leur pertinence et leur fiabilité doivent être contrôlées ; la récupération n’est pas un accès certain à tous les faits.",
+        "pressed": "2Récupérer des documents",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le modèle peut utiliser les passages récupérés pour construire sa réponse.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "retrieval",
+        "live": "À observer · 3 / 3Répondre avec du contexteLes flèches distinguent documents et paramètres. Lire un passage dans le contexte ne réentraîne pas les poids ; une citation doit pointer vers une source qui soutient réellement l’affirmation, et des erreurs restent possibles.",
+        "pressed": "3Répondre avec du contexte",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "robotaction",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La caméra et la consigne décrivent la tâche à accomplir.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "robotaction",
+        "live": "À observer · 1 / 3Observer et recevoir une consigneLa scène fictive demande de saisir le cube. Le bras et l’objet sont dessinés ; le modèle n’analyse pas une vraie caméra et aucune commande n’est envoyée à une machine.",
+        "pressed": "1Observer et recevoir une consigne",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une politique apprise peut produire des commandes pour le robot.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "robotaction",
+        "live": "À observer · 2 / 3Produire une actionLa pince atteint ici le cube dans une pose calculée de bras à deux segments. La cinématique sert seulement au dessin ; un système réel doit aussi gérer collisions, forces, limites matérielles et supervision.",
+        "pressed": "2Produire une action",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "De nouvelles observations permettent de poursuivre le contrôle en boucle.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "robotaction",
+        "live": "À observer · 3 / 3Observer après le gesteLe cube est soulevé dans ce scénario préparé. Cela ne démontre ni réussite sur un objet inconnu, ni apprentissage en direct : généraliser après entraînement et ajuster les poids pendant l’action sont deux choses distinctes.",
+        "pressed": "3Observer après le geste",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "visionlanguage",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une image et une question fournissent deux types d’entrée.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "visionlanguage",
+        "live": "À observer · 1 / 3Image et questionLa tasse et la question sont un exemple construit. Les cases sur l’image rappellent un découpage possible en patchs ; il ne s’agit pas d’un OCR qui remplace toute l’image par une phrase.",
+        "pressed": "1Image et question",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un encodeur visuel et une liaison rendent les informations compatibles.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "visionlanguage",
+        "live": "À observer · 2 / 3Relier les représentationsLa scène s’inspire de LLaVA : l’encodeur fournit des caractéristiques, puis une projection les relie à l’espace du modèle de langage. Les petits blocs sont symboliques et ne révèlent pas leurs valeurs réelles.",
+        "pressed": "2Relier les représentations",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le modèle utilise les deux entrées pour répondre sur l’image.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "visionlanguage",
+        "live": "À observer · 3 / 3Produire une réponse textuelleLa réponse « Une tasse » est préparée pour la démonstration. Ce type d’architecture peut répondre ou décrire, mais tous les modèles vision-langage ne génèrent pas des images et CLIP seul n’est pas ce modèle conversationnel complet.",
+        "pressed": "3Produire une réponse textuelle",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

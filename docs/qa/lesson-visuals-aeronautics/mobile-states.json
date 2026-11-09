@@ -1,0 +1,618 @@
+[
+  {
+    "id": "winglet",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Aux extrémités, l’écoulement s’enroule en tourbillons.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "winglet",
+        "live": "À observer · 1 / 3Aile finieLa différence de pression entre les deux faces participe à cet écoulement tridimensionnel. Le sillage et la déviation de l’air sont associés à une traînée induite par la portance.",
+        "pressed": "1Aile finie",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’extrémité relevée modifie la répartition de l’écoulement.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "winglet",
+        "live": "À observer · 2 / 3Ajouter un wingletUn winglet est une petite surface portante conçue avec le reste de l’aile. Il peut réduire la traînée induite dans certaines conditions ; il ne bouche pas simplement le passage de l’air.",
+        "pressed": "2Ajouter un winglet",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le sillage subsiste avec le winglet ; sa distribution change.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "winglet",
+        "live": "À observer · 3 / 3Comparer les sillagesLa taille des spirales sert ici à comparer qualitativement deux conceptions. Le bénéfice dépend du vol et doit aussi être comparé à la masse, aux efforts et à la traînée de la surface ajoutée.",
+        "pressed": "3Comparer les sillages",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "boundary",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Au contact de la paroi, l’air est immobile dans ce repère.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "boundary",
+        "live": "À observer · 1 / 3Près de la paroiOn se place dans le repère de la surface fixe. La viscosité freine le fluide près d’elle ; loin de la paroi, sa vitesse rejoint celle de l’écoulement extérieur.",
+        "pressed": "1Près de la paroi",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des couches ordonnées ont des vitesses différentes.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "boundary",
+        "live": "À observer · 2 / 3Régime laminaireLes flèches représentent la vitesse moyenne à plusieurs hauteurs. La région colorée matérialise une couche limite qui s’épaissit le long de la plaque, sans être une membrane.",
+        "pressed": "2Régime laminaire",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des fluctuations mélangent l’air à l’intérieur de la couche.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "boundary",
+        "live": "À observer · 3 / 3Régime turbulentLe profil moyen devient plus plein : le mélange transporte davantage de quantité de mouvement près de la paroi. Une couche turbulente peut néanmoins se séparer si les conditions le provoquent.",
+        "pressed": "3Régime turbulent",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "transonic",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Dans cette première situation, l’écoulement reste subsonique.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "transonic",
+        "live": "À observer · 1 / 3Sous Mach 1Le nombre de Mach compare la vitesse locale de l’air à la vitesse locale du son. Ici, même au-dessus du profil, aucun secteur supersonique n’est représenté.",
+        "pressed": "1Sous Mach 1",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Au-dessus de l’aile, une poche devient localement supersonique.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "transonic",
+        "live": "À observer · 2 / 3Poche supersoniqueL’avion peut encore avancer à une vitesse subsonique alors qu’une partie de l’écoulement accéléré autour du profil dépasse localement Mach 1. La frontière orange marque la fin de cette poche.",
+        "pressed": "2Poche supersonique",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un choc ralentit brusquement l’air ; une séparation peut suivre.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "transonic",
+        "live": "À observer · 3 / 3Choc et séparationÀ travers le choc, la pression augmente et le nombre de Mach diminue. Son interaction avec la couche limite peut provoquer une séparation et accroître la traînée, selon le profil et les conditions.",
+        "pressed": "3Choc et séparation",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "sonicboom",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les petites perturbations sonores devancent la source.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "sonicboom",
+        "live": "À observer · 1 / 3Mach 0,5Chaque cercle est la coupe d’une onde émise plus tôt. La source avance vers la droite, mais moins vite que ces perturbations se propagent dans l’air.",
+        "pressed": "1Mach 0,5",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les fronts idéalisés se rejoignent devant la source.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "sonicboom",
+        "live": "À observer · 2 / 3Mach 1Les centres des cercles sont les anciennes positions de la source. À la vitesse du son, leurs points les plus avancés coïncident avec sa position actuelle.",
+        "pressed": "2Mach 1",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "À vitesse supersonique, une enveloppe conique reste en arrière.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "sonicboom",
+        "live": "À observer · 3 / 3Mach 2Le demi-angle de Mach des petites perturbations vaut ici 30°. Un avion supersonique produit continuellement des ondes de choc : le bang n’est pas réservé à l’instant où il passe Mach 1.",
+        "pressed": "3Mach 2",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "turboprop",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’air est comprimé, puis chauffé par la combustion.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "turboprop",
+        "live": "À observer · 1 / 3Énergie des gazLa coupe distingue l’entrée et le compresseur bleus, la chambre chaude orange, puis la turbine. L’énergie des gaz sert en grande partie à entraîner un arbre mécanique.",
+        "pressed": "1Énergie des gaz",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La turbine entraîne l’hélice par un arbre et un réducteur.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "turboprop",
+        "live": "À observer · 2 / 3Arbre et réducteurLe chemin vert représente la transmission mécanique. Le réducteur adapte la rotation rapide de la turbine à celle de l’hélice ; l’architecture exacte varie selon le moteur.",
+        "pressed": "2Arbre et réducteur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’hélice accélère une grande masse d’air vers l’arrière.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "turboprop",
+        "live": "À observer · 3 / 3Air accéléréL’hélice fournit l’essentiel de la poussée de ce type de moteur. Les gaz qui sortent de la turbine peuvent aussi contribuer à la poussée, sans être son mécanisme principal.",
+        "pressed": "3Air accéléré",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "sixpack",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Vitesse, altitude et variation d’altitude utilisent les pressions.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "sixpack",
+        "live": "À observer · 1 / 3Pressions de l’airDans ce tableau classique, l’anémomètre combine pression totale et pression statique ; l’altimètre et le variomètre utilisent la pression statique. Les cadrans colorés identifient ces trois informations.",
+        "pressed": "1Pressions de l’air",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Assiette, virage et cap complètent le tableau classique.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "sixpack",
+        "live": "À observer · 2 / 3Références gyroscopiquesLes trois cadrans orange illustrent les références gyroscopiques d’un équipement traditionnel. Les avions modernes peuvent afficher ces informations sur écran à partir d’autres capteurs.",
+        "pressed": "2Références gyroscopiques",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Aucun cadran, seul, ne décrit tout le mouvement de l’avion.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "sixpack",
+        "live": "À observer · 3 / 3Croiser les informationsL’assiette ne donne pas directement la trajectoire, et le cap n’est pas nécessairement la route suivie au sol. Les instruments apportent des mesures différentes que l’on interprète ensemble.",
+        "pressed": "3Croiser les informations",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "attitude",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le symbole fixe de l’avion est aligné avec l’horizon de référence.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "attitude",
+        "live": "À observer · 1 / 3À platLe bleu représente le côté ciel et le brun le côté sol. Un instrument d’attitude fournit une référence d’orientation même quand l’horizon extérieur est masqué.",
+        "pressed": "1À plat",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’horizon s’incline face au symbole fixe de l’avion.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "attitude",
+        "live": "À observer · 2 / 3Incliné à droiteL’avion est ici incliné à droite par rapport à la référence terrestre. Sur ce type d’affichage, le symbole d’avion reste fixe et le fond représente le mouvement relatif de l’horizon.",
+        "pressed": "2Incliné à droite",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’horizon descend sous le symbole fixe lorsque le nez se relève.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "attitude",
+        "live": "À observer · 3 / 3Nez relevéL’assiette à cabrer décrit une orientation, pas une garantie de montée. La trajectoire dépend aussi de la vitesse, de l’incidence et des autres forces qui agissent sur l’avion.",
+        "pressed": "3Nez relevé",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "drag",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’air près de la surface exerce une contrainte de frottement.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "drag",
+        "live": "À observer · 1 / 3FrottementDans le repère du profil fixe, l’air arrive de la gauche et repart vers la droite. La force de traînée qu’il exerce sur le profil est dirigée vers la droite.",
+        "pressed": "1Frottement",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une séparation importante laisse un large sillage derrière l’objet.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "drag",
+        "live": "À observer · 2 / 3Forme et sillageUne différence de pression entre l’avant et l’arrière contribue à la traînée de forme. Un profilage adapté peut limiter le sillage dans certaines conditions d’écoulement.",
+        "pressed": "2Forme et sillage",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une aile finie qui porte laisse aussi un sillage tourbillonnaire.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "drag",
+        "live": "À observer · 3 / 3Portance et sillageLa portance d’une aile finie s’accompagne d’une traînée induite. Elle dépend notamment de la répartition de portance et de l’allongement ; elle ne vient pas seulement de la rugosité de surface.",
+        "pressed": "3Portance et sillage",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "windtunnel",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le ventilateur fait circuler l’air dans la veine d’essai.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "windtunnel",
+        "live": "À observer · 1 / 3Guider l’airLe modèle reste fixé sur son support. Des éléments de préparation de l’écoulement, ici une grille en amont, aident à obtenir un air adapté à l’expérience.",
+        "pressed": "1Guider l’air",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une balance mesure les efforts transmis par le support.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "windtunnel",
+        "live": "À observer · 2 / 3Mesurer les effortsLes flèches verte et orange distinguent portance et traînée dans le repère de la soufflerie. Les capteurs se trouvent dans la balance ; ce n’est pas le dessin des filets d’air qui donne directement les forces.",
+        "pressed": "2Mesurer les efforts",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des traceurs aident à observer le parcours de l’écoulement.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "windtunnel",
+        "live": "À observer · 3 / 3Rendre l’air visibleLes lignes figurent ici un écoulement attaché de démonstration autour d’un profil. Une soufflerie peut aussi utiliser fumée, fils de laine ou autres techniques selon la vitesse et le phénomène étudié.",
+        "pressed": "3Rendre l’air visible",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "flaps",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le bec avant et le volet arrière s’intègrent au profil.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "flaps",
+        "live": "À observer · 1 / 3Profil rentréLa coupe montre une aile équipée de dispositifs mobiles aux deux bords. L’avant reçoit l’air ; l’arrière est le bord de fuite. Le dessin permet de distinguer leurs rôles et leurs emplacements.",
+        "pressed": "1Profil rentré",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le volet recule et s’abaisse : la cambrure augmente.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "flaps",
+        "live": "À observer · 2 / 3Volet sortiL’exemple choisi est un volet de type Fowler, qui peut aussi augmenter la surface. D’autres types de volets ont des mouvements différents ; tous ne reculent pas de cette manière.",
+        "pressed": "2Volet sorti",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le bec s’avance ; une fente laisse passer de l’air vers le dessus.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "flaps",
+        "live": "À observer · 3 / 3Bec et volet sortisLe bec et la fente peuvent aider l’écoulement à rester attaché à plus forte incidence. Ces dispositifs augmentent la capacité de portance, avec aussi un coût en traînée selon leur configuration.",
+        "pressed": "3Bec et volet sortis",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "glide",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Sans poussée, un vol plané stabilisé descend dans l’air.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "glide",
+        "live": "À observer · 1 / 3Trajectoire descendanteL’air continue de circuler autour des ailes tant que l’avion avance. Le plané transforme une partie de l’énergie liée à l’altitude en énergie dissipée par la traînée.",
+        "pressed": "1Trajectoire descendante",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le poids est vertical ; portance et traînée sont liées à la trajectoire.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "glide",
+        "live": "À observer · 2 / 3Équilibre des forcesEn descente rectiligne à vitesse constante, les trois forces se compensent. La portance est perpendiculaire à la vitesse dans l’air ; la traînée lui est opposée. Il n’y a pas de poussée motrice dessinée.",
+        "pressed": "2Équilibre des forces",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "En air immobile, la finesse relie distance horizontale et hauteur perdue.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "glide",
+        "live": "À observer · 3 / 3Distance et hauteurLe triangle montre un exemple géométrique de finesse 3, volontairement accentué pour la lisibilité. Le rapport portance/traînée est alors aussi égal à 3 en plané stabilisé ; ce n’est la performance d’aucun avion identifié.",
+        "pressed": "3Distance et hauteur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "icing",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des gouttes encore liquides rencontrent une surface froide.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "icing",
+        "live": "À observer · 1 / 3Gouttes surfonduesDans certaines conditions atmosphériques, de l’eau liquide existe sous 0 °C. Elle peut geler au contact de l’avion ; la forme de la glace dépend notamment de la température, des gouttes et de l’écoulement.",
+        "pressed": "1Gouttes surfondues",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La glace modifie le bord d’attaque et sa rugosité.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "icing",
+        "live": "À observer · 2 / 3Glace accumuléeLe contour bleu ajouté montre une forme d’accrétion possible, fortement agrandie. Même une contamination peu épaisse peut perturber l’aérodynamique : le problème n’est pas seulement le poids ajouté.",
+        "pressed": "2Glace accumulée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La séparation peut survenir plus tôt et réduire la portance maximale.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "icing",
+        "live": "À observer · 3 / 3Écoulement perturbéLe sillage ondulé représente une perturbation qualitative après l’accrétion. La traînée peut augmenter et l’incidence critique diminuer ; les conséquences exactes dépendent du profil et de la glace.",
+        "pressed": "3Écoulement perturbé",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "helicopter",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les pales rencontrent l’air parce qu’elles tournent.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "helicopter",
+        "live": "À observer · 1 / 3Pales en mouvementChaque pale est une aile en rotation. Le disque transparent représente la surface balayée, pas une plaque solide ; la force aérodynamique totale peut soutenir l’hélicoptère.",
+        "pressed": "1Pales en mouvement",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le collectif change ensemble le pas des pales.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "helicopter",
+        "live": "À observer · 2 / 3Pas collectifL’encart compare une section de pale avant et après un changement de pas. Cela modifie les efforts aérodynamiques, en interaction avec la puissance et les conditions de vol.",
+        "pressed": "2Pas collectif",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une force de rotor inclinée possède une composante horizontale.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "helicopter",
+        "live": "À observer · 3 / 3Disque inclinéLe cyclique fait varier le pas au cours du tour et permet d’incliner le disque. La flèche oblique montre la résultante, et les pointillés ses composantes verticale et horizontale ; le rotor anticouple garde un rôle distinct.",
+        "pressed": "3Disque incliné",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "turbulence",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un chauffage inégal favorise des mouvements convectifs.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "turbulence",
+        "live": "À observer · 1 / 3Chauffage du solDe l’air plus chaud monte tandis que d’autres mouvements compensent ces ascendances. Les flèches illustrent des déplacements dans la masse d’air, sans correspondre à une force constante sur l’avion.",
+        "pressed": "1Chauffage du sol",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le relief peut créer ondes et zones turbulentes sous le vent.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "turbulence",
+        "live": "À observer · 2 / 3Relief et obstaclesUn vent franchissant une montagne peut être perturbé en aval. Les ondes ne sont pas elles-mêmes toutes turbulentes ; la spirale signale ici une zone de rotor possible, pas un phénomène garanti.",
+        "pressed": "2Relief et obstacles",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des variations de vent peuvent favoriser la turbulence.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "turbulence",
+        "live": "À observer · 3 / 3CisaillementLes flèches de longueurs différentes indiquent deux vitesses de vent selon la hauteur. Un cisaillement peut produire de la turbulence, notamment près d’un courant-jet, mais ne suffit pas à prédire une secousse précise.",
+        "pressed": "3Cisaillement",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

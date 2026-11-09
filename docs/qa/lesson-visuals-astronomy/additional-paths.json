@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/sciences-fondamentales/sciences-de-la-terre/oceanographie/comment-la-lune-fait-elle-monter-et-descendre-la-mer",
+    "kind": "tides",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-la-mer-monte-t-elle-et-descend-elle-deux-fois-par-jour",
+    "kind": "tides",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "path": "/espace-et-astronomie/systeme-solaire/lune/les-marees-et-l-effet-de-la-lune-sur-les-oceans",
+    "kind": "tides",
+    "width": 320,
+    "scrollWidth": 320
+  },
+  {
+    "path": "/espace-et-astronomie/observation-astronomique/telescopes/a-quoi-sert-le-telescope-spatial-roman-pour-chasser-les-exoplanetes",
+    "kind": "microlensing",
+    "width": 320,
+    "scrollWidth": 320
+  }
+]

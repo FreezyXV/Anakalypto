@@ -1,0 +1,146 @@
+[
+  {
+    "id": "hydrogenair",
+    "step": 0,
+    "width": 1280,
+    "caption": "L’hydrogène liquide nécessite un réservoir cryogénique isolé."
+  },
+  {
+    "id": "hydrogenair",
+    "step": 1,
+    "width": 1280,
+    "caption": "Une turbine peut brûler l’hydrogène avec l’air."
+  },
+  {
+    "id": "hydrogenair",
+    "step": 2,
+    "width": 1280,
+    "caption": "Une pile transforme hydrogène et oxygène en électricité pour un moteur."
+  },
+  {
+    "id": "zeroe",
+    "step": 0,
+    "width": 1280,
+    "caption": "Le concept à turbosoufflantes de 2020 gardait une silhouette classique."
+  },
+  {
+    "id": "zeroe",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le deuxième concept de 2020 utilisait des hélices et des turbines."
+  },
+  {
+    "id": "zeroe",
+    "step": 2,
+    "width": 1280,
+    "caption": "Le troisième concept de 2020 fusionnait davantage corps et ailes."
+  },
+  {
+    "id": "electricair",
+    "step": 0,
+    "width": 1280,
+    "caption": "La batterie fournit de l’énergie à un moteur qui entraîne l’hélice."
+  },
+  {
+    "id": "electricair",
+    "step": 1,
+    "width": 1280,
+    "caption": "Une batterie déchargée garde pratiquement toute sa masse."
+  },
+  {
+    "id": "electricair",
+    "step": 2,
+    "width": 1280,
+    "caption": "Un générateur et une batterie peuvent alimenter une chaîne électrique."
+  },
+  {
+    "id": "aeroengine",
+    "step": 0,
+    "width": 1280,
+    "caption": "Un moteur à plat répartit ses cylindres de chaque côté du carter."
+  },
+  {
+    "id": "aeroengine",
+    "step": 1,
+    "width": 1280,
+    "caption": "La pression des gaz pousse un piston relié au vilebrequin."
+  },
+  {
+    "id": "aeroengine",
+    "step": 2,
+    "width": 1280,
+    "caption": "La rotation du moteur entraîne une hélice qui agit sur l’air."
+  },
+  {
+    "id": "saf",
+    "step": 0,
+    "width": 1280,
+    "caption": "Des huiles et graisses résiduelles peuvent être transformées en composants de carburant."
+  },
+  {
+    "id": "saf",
+    "step": 1,
+    "width": 1280,
+    "caption": "Des résidus agricoles ou forestiers peuvent alimenter d’autres filières."
+  },
+  {
+    "id": "saf",
+    "step": 2,
+    "width": 1280,
+    "caption": "Du CO₂ capté et de l’hydrogène peuvent servir à synthétiser des hydrocarbures."
+  },
+  {
+    "id": "landingbrakes",
+    "step": 0,
+    "width": 1280,
+    "caption": "Les freins dissipent de l’énergie et les pneus transmettent l’effort au sol."
+  },
+  {
+    "id": "landingbrakes",
+    "step": 1,
+    "width": 1280,
+    "caption": "Les spoilers augmentent la traînée et réduisent la portance."
+  },
+  {
+    "id": "landingbrakes",
+    "step": 2,
+    "width": 1280,
+    "caption": "Un inverseur peut détourner une partie du flux vers l’avant et les côtés."
+  },
+  {
+    "id": "magnetos",
+    "step": 0,
+    "width": 1280,
+    "caption": "Deux magnétos alimentent deux bougies dans chaque cylindre."
+  },
+  {
+    "id": "magnetos",
+    "step": 1,
+    "width": 1280,
+    "caption": "Dans cet exemple, la voie B continue de fournir l’étincelle."
+  },
+  {
+    "id": "magnetos",
+    "step": 2,
+    "width": 1280,
+    "caption": "Dans la situation inverse, la voie A reste active."
+  },
+  {
+    "id": "scooper",
+    "step": 0,
+    "width": 1280,
+    "caption": "L’amphibie glisse sur l’eau pour effectuer un écopage."
+  },
+  {
+    "id": "scooper",
+    "step": 1,
+    "width": 1280,
+    "caption": "L’avancement de la coque permet de faire entrer l’eau dans les écopes."
+  },
+  {
+    "id": "scooper",
+    "step": 2,
+    "width": 1280,
+    "caption": "Après l’écopage, l’eau recueillie reste dans les soutes pour le transport."
+  }
+]

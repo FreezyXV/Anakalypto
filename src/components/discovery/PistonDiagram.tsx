@@ -17,6 +17,16 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
         {state.phase + 1}. {state.name}
       </text>
       <path
+        d="M116 56 H244 V149 H232 V61 H128 V149 H116 Z"
+        fill="var(--art-metal)"
+        stroke="#a5b3c2"
+      />
+      <path
+        d="M119 77 H126 M119 94 H126 M119 111 H126 M119 128 H126 M234 77 H241 M234 94 H241 M234 111 H241 M234 128 H241"
+        stroke="#91a0b0"
+        strokeWidth="2"
+      />
+      <path
         d="M133 61 H70 V43 H35 M227 61 H290 V43 H325"
         stroke={INK}
         strokeWidth="3"
@@ -59,8 +69,15 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
           strokeWidth="3"
         />
       )}
-      <path d={`M180 ${y + 9} L${pinX} ${pinY}`} stroke={INK} strokeWidth="6" />
-      <circle cx="180" cy="181" r="25" stroke={INK} strokeWidth="2" fill="#fff" />
+      <path
+        d={`M180 ${y + 7} L${pinX} ${pinY}`}
+        stroke={INK}
+        strokeWidth="7"
+        strokeLinecap="round"
+      />
+      <path d={`M180 ${y + 7} L${pinX} ${pinY}`} stroke="#a1afbe" strokeWidth="3" />
+      <circle cx="180" cy="181" r="25" stroke="#6c7f93" strokeWidth="2" fill="var(--art-metal)" />
+      <circle cx="180" cy="181" r="18" stroke="#c4cfdb" fill="none" />
       <path d={`M180 181 L${pinX} ${pinY}`} stroke={INK} strokeWidth="5" />
       <circle cx={pinX} cy={pinY} r="4" fill={ORANGE} />
       <g className="discovery-piston" style={{ transform: `translateY(${y}px)` }}>
@@ -72,9 +89,10 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
           rx="2"
           stroke={INK}
           strokeWidth="3"
-          fill="#f9fbff"
+          fill="var(--art-metal)"
         />
-        <path d="M133 5 H227" stroke={INK} strokeWidth="2" />
+        <path d="M133 4 H227 M133 8 H227" stroke="#60758b" strokeWidth="1.5" />
+        <circle cx="180" cy="10" r="2" fill="#6c7f93" />
       </g>
       <path
         d={state.downward ? "M251 106 V126 l-5 -6 m5 6 l5 -6" : "M251 126 V106 l-5 6 m5 -6 l5 6"}
@@ -88,7 +106,7 @@ export function PistonDiagram({ value, phase }: { value: number; phase?: number 
       <text x="20" y="151" fill={INK} fontSize="13">
         Piston
       </text>
-      <path d={`M60 146 L127 ${y + 7}`} stroke={INK} fill="none" />
+      <path d={`M76 146 L127 ${y + 7}`} stroke={INK} fill="none" />
       <text x="241" y="166" fill={INK} fontSize="13">
         Vilebrequin
       </text>

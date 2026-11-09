@@ -33,7 +33,15 @@ export function Label({
 }
 export function Title({ children }: { children: ReactNode }) {
   return (
-    <text x="180" y="24" fill={C.ink} textAnchor="middle" fontSize="16" fontWeight="700">
+    <text
+      x="180"
+      y="24"
+      fill={C.ink}
+      textAnchor="middle"
+      fontSize="16"
+      fontWeight="700"
+      letterSpacing="-0.3"
+    >
       {children}
     </text>
   );
@@ -55,7 +63,14 @@ export function Arrow({
 }) {
   const angle = (Math.atan2(dy, dx) * 180) / Math.PI;
   return (
-    <g stroke={color} strokeWidth="2.5" fill="none" opacity={dim ? 0.3 : 1}>
+    <g
+      stroke={color}
+      strokeWidth="2.5"
+      fill="none"
+      opacity={dim ? 0.4 : 1}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    >
       <path d={`M${x} ${y} l${dx} ${dy}`} strokeDasharray={dim ? "4 4" : undefined} />
       <path d="M-7 -4 L0 0 L-7 4" transform={`translate(${x + dx} ${y + dy}) rotate(${angle})`} />
     </g>
@@ -81,13 +96,23 @@ export function Bottle({
   scale?: number;
 }) {
   return (
-    <path
-      transform={`translate(${x} ${y}) scale(${scale})`}
-      d="M-6 0 H6 V15 Q16 20 16 29 V64 Q16 68 12 68 H-12 Q-16 68 -16 64 V29 Q-16 20 -6 15 Z"
-      fill={fill}
-      stroke={C.ink}
-      strokeWidth="2.5"
-    />
+    <g transform={`translate(${x} ${y}) scale(${scale})`}>
+      <path
+        d="M-6 0 H6 V15 Q16 20 16 29 V64 Q16 68 12 68 H-12 Q-16 68 -16 64 V29 Q-16 20 -6 15 Z"
+        fill={fill}
+        stroke={C.ink}
+        strokeWidth="2.5"
+      />
+      <path
+        d="M-5 26 Q-10 29 -10 36 V59"
+        stroke="#ffffff"
+        strokeWidth="3"
+        strokeLinecap="round"
+        fill="none"
+        opacity="0.65"
+      />
+      <path d="M-6 4 H6" stroke={C.green} strokeWidth="2" />
+    </g>
   );
 }
 export function StageRail({
@@ -101,16 +126,18 @@ export function StageRail({
 }) {
   return (
     <g>
+      <path d="M30 185 H330" stroke="#cfdae4" strokeWidth="2" />
+      <path d={`M30 185 H${30 + stage * 75}`} stroke={C.blue} strokeWidth="2" />
       {labels.map((label, i) => (
         <g key={label}>
           <circle
             cx={30 + i * 75}
             cy="185"
-            r="8"
-            fill={i <= stage ? C.yellow : "#fff"}
-            stroke={C.ink}
+            r="10"
+            fill={i <= stage ? C.blue : "#fff"}
+            stroke={i <= stage ? C.blue : C.muted}
           />
-          <Label x={30 + i * 75} y={189} size={11}>
+          <Label x={30 + i * 75} y={190} size={14} color={i <= stage ? "#fff" : C.muted}>
             {i + 1}
           </Label>
         </g>

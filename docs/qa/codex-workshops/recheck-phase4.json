@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-10",
+  "target": "http://127.0.0.1:3002",
+  "correctedMobile": [
+    {
+      "slug": "le-pilote-qui-corrige",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "gust",
+          "referenceStable": true,
+          "caption": "Une rafale écarte l’avion de la consigne. Les capteurs mesurent cet écart ; le calculateur commande une correction par les servomoteurs et les gouvernes. La nouvelle mesure revient dans la boucle.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "naissance-d-un-cyclone",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "land",
+          "referenceStable": true,
+          "caption": "Sur terre, l’alimentation par la mer chaude est coupée. Une circulation résiduelle est encore dessinée : le cyclone s’affaiblit progressivement.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "le-pain-qui-gonfle",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "microbes",
+          "referenceStable": true,
+          "caption": "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "feuille-et-lumiere",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": []
+    },
+    {
+      "slug": "les-quatre-temps",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": false,
+      "variants": []
+    }
+  ],
+  "visuallyReadDesktop": ["cyclone", "moteur", "feuille", "pain", "pilote"],
+  "nextLauncherObserved": false,
+  "notes": "Cinq dessins corrigés, mesurés à 320 px puis relus sur captures à 1280 px. Le mode du serveur reste next dev ; son indicateur est désactivé. Aucun vrai lecteur d’écran ni participant humain."
+}

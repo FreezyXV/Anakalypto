@@ -126,7 +126,12 @@ export function DiscoveryReview({ lesson }: { lesson: DiscoveryLesson }) {
           }
         />
         {review.choices[step.id] && (
-          <DiscoveryVisual visual={step.visual} value={step.visual.active ? 100 : 0} />
+          <DiscoveryVisual
+            visual={step.visual}
+            value={step.visual.active ? 100 : 0}
+            stateCaption
+            compact
+          />
         )}
         <div className="discovery-controls">
           <Link className="btn btn--ghost" href={lesson.expandedPath}>

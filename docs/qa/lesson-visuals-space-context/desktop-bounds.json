@@ -1,0 +1,122 @@
+[
+  {
+    "frame": "0",
+    "kind": "smallbodies",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "smallbodies",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "smallbodies",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "isslife",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "isslife",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "isslife",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "readaptation",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "readaptation",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "readaptation",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "heliosphere",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "heliosphere",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "heliosphere",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "saturnrings",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "saturnrings",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "saturnrings",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "sundial",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "sundial",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "sundial",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "habitable",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "habitable",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "habitable",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "meteors",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "meteors",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "meteors",
+    "outside": []
+  }
+]

@@ -84,6 +84,7 @@ export const discoveryLessonSchema = z
                 offReached: z.number().int().min(0).max(4).optional(),
                 phase: z.number().int().min(0).max(3).optional(),
                 frame: z.number().int().min(0).max(4).optional(),
+                fixedValue: z.number().min(0).max(100).optional(),
                 scene: z
                   .enum(["walls", "land", "retouch", "erosion", "balance", "gust", "microbes"])
                   .optional(),
@@ -114,6 +115,15 @@ export const discoveryLessonSchema = z
       if (step.visual.kind === "flow" && !step.visual.labels)
         ctx.addIssue({ code: "custom", message: "Un flux doit nommer ses elements." });
       const visual = step.visual;
+      if (
+        visual.fixedValue !== undefined &&
+        (!["lever", "buoyancy", "moon", "gears"].includes(visual.kind) ||
+          ["range", "toggle"].includes(step.interaction?.kind ?? ""))
+      )
+        ctx.addIssue({
+          code: "custom",
+          message: "Un état numérique fixe concerne un modèle sans commande active.",
+        });
       if (visual.frame !== undefined && !isSequentialKind(visual.kind))
         ctx.addIssue({
           code: "custom",

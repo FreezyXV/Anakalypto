@@ -6,10 +6,17 @@ export function PhotosynthesisDiagram({ state }: DiagramProps) {
         {state.active ? "Lumière : énergie pour la feuille" : "Sans nouvel apport de lumière"}
       </Title>
       <path
-        d="M76 177 Q53 87 164 45 Q289 63 281 173 Q180 197 76 177 Z"
-        fill="#dceedd"
+        d="M70 154 C55 76 126 43 292 54 C285 133 193 179 70 154 Z"
+        fill="var(--art-leaf)"
         stroke={C.green}
         strokeWidth="2"
+      />
+      <path
+        d="M62 166 L274 66 M103 145 L96 98 M161 116 L170 65 M211 94 L247 105"
+        stroke="#72a77b"
+        strokeWidth="1.5"
+        fill="none"
+        opacity="0.45"
       />
       <circle cx="35" cy="52" r="15" fill={state.active ? C.yellow : "#d6dce5"} stroke={C.ink} />
       <path
@@ -19,15 +26,15 @@ export function PhotosynthesisDiagram({ state }: DiagramProps) {
       />
       <Arrow x={55} y={69} dx={39} dy={27} color={C.orange} dim={!state.active} />
       {!state.active && <Stop x={77} y={83} />}
-      <rect x="86" y="101" width="83" height="46" rx="8" fill="#e1f2ff" stroke={C.blue} />
+      <rect x="86" y="101" width="83" height="46" rx="8" fill="#f0f9ff" stroke={C.blue} />
       <Label x={127} y={119} size={13}>
         Eau : H₂O
       </Label>
       <Label x={127} y={137} size={13}>
         {state.active ? "O₂ libéré" : "Disponible"}
       </Label>
-      <Arrow x={127} y={99} dx={0} dy={-29} dim={!state.active} />
-      <Label x={126} y={58} color={C.blue}>
+      <Arrow x={127} y={99} dx={0} dy={-37} dim={!state.active} />
+      <Label x={126} y={48} color={C.blue}>
         O₂
       </Label>
       <rect

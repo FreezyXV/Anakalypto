@@ -4,6 +4,8 @@ import type { Metadata } from "next";
 
 import { ArticleGrid } from "@/components/ArticleCard";
 import { ArticlePoster } from "@/components/ArticlePoster";
+import { LessonVisual, LessonDiagramPoster } from "@/components/lesson-visuals/LessonVisual";
+import { getLessonDiagram } from "@/lib/lesson-visuals/registry";
 import { Breadcrumb, type Crumb } from "@/components/Breadcrumb";
 import { JsonLd } from "@/components/JsonLd";
 import { Lesson } from "@/components/Lesson";
@@ -12,6 +14,11 @@ import { Cover, themeVars } from "@/components/visual/Cover";
 import { Glyph } from "@/components/visual/Glyph";
 import { getIllustrations } from "@/lib/illustrations";
 import { getDiscoveryLessons } from "@/lib/discovery/load";
+import { workshopInitialValue, workshopScenes } from "@/lib/discovery/workshop";
+import { VisualWorkshop } from "@/components/discovery/VisualWorkshop";
+import { DiscoveryVisual } from "@/components/discovery/DiscoveryVisual";
+import workshopStyles from "@/components/discovery/VisualWorkshop.module.css";
+import "../decouvrir/discovery.css";
 import { renderMarkdown } from "@/lib/markdown";
 import {
   getAllArticlePaths,
@@ -208,8 +215,17 @@ function CategoryView({ category }: { category: CategoryPage }) {
 }
 
 async function ArticleView({ article }: { article: ArticlePage }) {
+  const lessonDiagram = getLessonDiagram(article.path);
+  const discovery = (await getDiscoveryLessons()).find(
+    (lesson) => lesson.expandedPath === `/${article.path}`,
+  );
   const { html, sections } = await renderMarkdown(article.content, {
     categoryPath: article.category.path,
+    figureReference: lessonDiagram
+      ? { href: "#schema-lecon", title: lessonDiagram.title }
+      : discovery
+        ? { href: "#atelier-visuel", title: discovery.title }
+        : undefined,
   });
   const crumbs = crumbsFor(
     [...article.ancestors, { name: article.category.name, path: article.category.path }],
@@ -220,9 +236,8 @@ async function ArticleView({ article }: { article: ArticlePage }) {
   const images = getIllustrations(article.slug);
   const theme = themeFor(article.path);
   const root = article.ancestors[0] ?? { name: article.category.name, path: article.category.path };
-  const discovery = (await getDiscoveryLessons()).find(
-    (lesson) => lesson.expandedPath === `/${article.path}`,
-  );
+  const scenes = discovery ? workshopScenes(discovery) : [];
+  const coverScene = scenes[0];
 
   return (
     <div style={themeVars(article.path)}>
@@ -244,7 +259,7 @@ async function ArticleView({ article }: { article: ArticlePage }) {
 
       <article className="mt-5">
         <header className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,25rem)] lg:items-start lg:gap-12">
-          <div>
+          <div className="min-w-0">
             <p className="flex flex-wrap gap-2">
               <Link
                 href={`/${root.path}`}
@@ -259,7 +274,7 @@ async function ArticleView({ article }: { article: ArticlePage }) {
               )}
             </p>
 
-            <h1 className="display mt-4 max-w-reading text-[2.4rem] sm:text-5xl lg:text-[3.4rem]">
+            <h1 className="display mt-4 max-w-reading text-[2.4rem] hyphens-auto [overflow-wrap:anywhere] sm:text-5xl lg:text-[3.4rem]">
               {frenchSpacing(article.title)}
             </h1>
             <p className="mt-4 max-w-reading text-lg leading-relaxed text-ink-muted">
@@ -268,9 +283,19 @@ async function ArticleView({ article }: { article: ArticlePage }) {
 
             <p className="mt-6 flex flex-wrap gap-3">
               {discovery && (
-                <Link href={`/decouvrir/${discovery.slug}`} className="btn">
-                  Découvrir en jouant · {discovery.minutes} min
-                </Link>
+                <>
+                  <Link href={`/decouvrir/${discovery.slug}`} className="btn">
+                    Découvrir en jouant · {discovery.minutes} min
+                  </Link>
+                  <a href="#atelier-visuel" className="btn btn--ghost">
+                    Manipuler le schéma
+                  </a>
+                </>
+              )}
+              {lessonDiagram && (
+                <a href="#schema-lecon" className="btn btn--ghost">
+                  Explorer en images
+                </a>
               )}
               <a href="#lecon" className="btn">
                 {discovery ? "Lire la version approfondie" : "Commencer la leçon"}
@@ -293,6 +318,21 @@ async function ArticleView({ article }: { article: ArticlePage }) {
           <div>
             {images.length > 0 ? (
               <ArticlePoster images={images} title={article.title} />
+            ) : coverScene ? (
+              <div className={`${workshopStyles.poster} sticker p-4`}>
+                <p className="label">Une idée en image</p>
+                {discovery && <p className="mt-2 font-sans font-semibold">{discovery.title}</p>}
+                <DiscoveryVisual
+                  visual={coverScene.visual}
+                  value={workshopInitialValue(coverScene)}
+                  stateCaption
+                />
+                <a href="#atelier-visuel" className="btn btn--ghost mt-3">
+                  À toi de manipuler →
+                </a>
+              </div>
+            ) : lessonDiagram ? (
+              <LessonDiagramPoster spec={lessonDiagram} />
             ) : (
               <div className="sticker overflow-hidden">
                 <Cover title={article.title} path={article.path} />
@@ -300,6 +340,18 @@ async function ArticleView({ article }: { article: ArticlePage }) {
             )}
           </div>
         </header>
+
+        {discovery && (
+          <VisualWorkshop
+            key={discovery.slug}
+            scenes={scenes}
+            slug={discovery.slug}
+            objective={discovery.objective}
+            title={discovery.title}
+          />
+        )}
+
+        {lessonDiagram && <LessonVisual spec={lessonDiagram} />}
 
         <div className="mt-14">
           <LessonSummary sections={sections} />

@@ -10,8 +10,23 @@ import { GlassDiagram } from "./GlassDiagram";
 import { PaperDiagram } from "./PaperDiagram";
 import { FrescoDiagram } from "./FrescoDiagram";
 import { GridDiagram } from "./GridDiagram";
+import { LeverDiagram } from "./LeverDiagram";
+import { BuoyancyDiagram } from "./BuoyancyDiagram";
+import { MoonDiagram } from "./MoonDiagram";
+import { SeasonsDiagram } from "./SeasonsDiagram";
+import { GearsDiagram } from "./GearsDiagram";
 export function MechanismDiagram({ state }: DiagramProps) {
   switch (state.kind) {
+    case "lever":
+      return <LeverDiagram state={state} />;
+    case "buoyancy":
+      return <BuoyancyDiagram state={state} />;
+    case "moon":
+      return <MoonDiagram state={state} />;
+    case "seasons":
+      return <SeasonsDiagram state={state} />;
+    case "gears":
+      return <GearsDiagram state={state} />;
     case "wifi":
       return <WifiDiagram state={state} />;
     case "telephone":
