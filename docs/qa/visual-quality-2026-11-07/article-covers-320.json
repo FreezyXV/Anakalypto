@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "allumer-une-lampe",
+    "expectedTitle": "Pourquoi la lampe reste éteinte ?",
+    "coverCaption": "L’interrupteur ferme le trajet entre les deux bornes de la pile, à travers la lampe. Le courant circule dans la boucle et la lampe s’allume ; les flèches donnent son sens conventionnel.",
+    "coverKind": "circuit",
+    "scrollWidth": 320,
+    "title": "Pourquoi la lampe reste éteinte ?",
+    "width": 320
+  },
+  {
+    "slug": "de-la-pate-a-la-feuille",
+    "expectedTitle": "Comment une pâte pleine d'eau devient-elle une feuille de papier ?",
+    "coverCaption": "La feuille presque sèche est enroulée en bobine.",
+    "coverKind": "paper",
+    "scrollWidth": 320,
+    "title": "Comment une pâte pleine d'eau devient-elle une feuille de papier ?",
+    "width": 320
+  },
+  {
+    "slug": "deux-roues-deux-vitesses",
+    "expectedTitle": "Pourquoi deux engrenages tournent-ils différemment ?",
+    "coverCaption": "La roue de 12 dents tourne de 360° ; celle de 18 dents de 240° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+    "coverKind": "gears",
+    "scrollWidth": 320,
+    "title": "Pourquoi deux engrenages tournent-ils différemment ?",
+    "width": 320
+  },
+  {
+    "slug": "feuille-et-lumiere",
+    "expectedTitle": "Comment une feuille fabrique-t-elle du sucre avec la lumière ?",
+    "coverCaption": "La lumière fournit l’énergie. L’eau libère l’O₂ ; le carbone du CO₂ sert au sucre. Les deux trajets sont distincts.",
+    "coverKind": "photosynthesis",
+    "scrollWidth": 320,
+    "title": "Comment une feuille fabrique-t-elle du sucre avec la lumière ?",
+    "width": 320
+  },
+  {
+    "slug": "la-bouteille-qui-revient",
+    "expectedTitle": "Comment une vieille bouteille redevient-elle une bouteille neuve ?",
+    "coverCaption": "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille.",
+    "coverKind": "glass",
+    "scrollWidth": 320,
+    "title": "Comment une vieille bouteille redevient-elle une bouteille neuve ?",
+    "width": 320
+  },
+  {
+    "slug": "la-couleur-dans-le-mur",
+    "expectedTitle": "Pourquoi la couleur d'une fresque fait-elle partie du mur ?",
+    "coverCaption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+    "coverKind": "fresco",
+    "scrollWidth": 320,
+    "title": "Pourquoi la couleur d'une fresque fait-elle partie du mur ?",
+    "width": 320
+  },
+  {
+    "slug": "la-lune-et-nos-points-de-vue",
+    "expectedTitle": "Pourquoi la Lune change-t-elle de visage ?",
+    "coverCaption": "Pleine Lune : environ 100 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+    "coverKind": "moon",
+    "scrollWidth": 320,
+    "title": "Pourquoi la Lune change-t-elle de visage ?",
+    "width": 320
+  },
+  {
+    "slug": "la-voix-dans-le-fil",
+    "expectedTitle": "Comment ta voix voyageait-elle dans un fil de téléphone ?",
+    "coverCaption": "Le son fait vibrer la membrane du micro. Le courant varie selon la voix ; l’écouteur recrée des vibrations de l’air. Les courbes sont symboliques.",
+    "coverKind": "telephone",
+    "scrollWidth": 320,
+    "title": "Comment ta voix voyageait-elle dans un fil de téléphone ?",
+    "width": 320
+  },
+  {
+    "slug": "le-bateau-et-l-eau-deplacee",
+    "expectedTitle": "Pourquoi une coque flotte-t-elle ?",
+    "coverCaption": "720 kg au total ; 720 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+    "coverKind": "buoyancy",
+    "scrollWidth": 320,
+    "title": "Pourquoi une coque flotte-t-elle ?",
+    "width": 320
+  },
+  {
+    "slug": "le-pain-qui-gonfle",
+    "expectedTitle": "Qu'est-ce qui fait gonfler la pâte à pain ?",
+    "coverCaption": "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps.",
+    "coverKind": "bread",
+    "scrollWidth": 320,
+    "title": "Qu'est-ce qui fait gonfler la pâte à pain ?",
+    "width": 320
+  },
+  {
+    "slug": "le-pilote-qui-corrige",
+    "expectedTitle": "Comment le pilote automatique garde-t-il l'avion sur sa route ?",
+    "coverCaption": "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle.",
+    "coverKind": "autopilot",
+    "scrollWidth": 320,
+    "title": "Comment le pilote automatique garde-t-il l'avion sur sa route ?",
+    "width": 320
+  },
+  {
+    "slug": "le-turbo",
+    "expectedTitle": "D’où vient la force du turbo ?",
+    "coverCaption": "Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent rapidement, avec un même axe. La vitesse illustrée est qualitative.",
+    "coverKind": "turbo",
+    "scrollWidth": 320,
+    "title": "D’où vient la force du turbo ?",
+    "width": 320
+  },
+  {
+    "slug": "le-voyage-de-l-electricite",
+    "expectedTitle": "Comment l'électricité arrive-t-elle jusqu'à ta prise ?",
+    "coverCaption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+    "coverKind": "grid",
+    "scrollWidth": 320,
+    "title": "Comment l'électricité arrive-t-elle jusqu'à ta prise ?",
+    "width": 320
+  },
+  {
+    "slug": "les-donnees-dans-l-air",
+    "expectedTitle": "Comment le Wi-Fi traverse-t-il l'air jusqu'à ton téléphone ?",
+    "coverCaption": "La box émet une onde radio porteuse de données ; l’antenne du téléphone la reçoit. Le téléphone peut répondre. Les arcs ne montrent pas une fréquence mesurée.",
+    "coverKind": "wifi",
+    "scrollWidth": 320,
+    "title": "Comment le Wi-Fi traverse-t-il l'air jusqu'à ton téléphone ?",
+    "width": 320
+  },
+  {
+    "slug": "les-quatre-temps",
+    "expectedTitle": "Pourquoi un moteur a-t-il besoin de quatre temps ?",
+    "coverCaption": "Combustion-détente : les soupapes restent fermées. Les gaz chauds poussent le piston vers le bas.",
+    "coverKind": "piston",
+    "scrollWidth": 320,
+    "title": "Pourquoi un moteur a-t-il besoin de quatre temps ?",
+    "width": 320
+  },
+  {
+    "slug": "naissance-d-un-cyclone",
+    "expectedTitle": "Pourquoi un cyclone a-t-il besoin d'une mer chaude ?",
+    "coverCaption": "L’air humide monte autour de l’œil. La condensation libère de la chaleur. L’œil est une colonne dégagée avec de l’air descendant ; à gauche, la rotation est vue du dessus dans l’hémisphère nord. D’autres conditions sont nécessaires.",
+    "coverKind": "cyclone",
+    "scrollWidth": 320,
+    "title": "Pourquoi un cyclone a-t-il besoin d'une mer chaude ?",
+    "width": 320
+  },
+  {
+    "slug": "naissance-d-un-sol",
+    "expectedTitle": "Comment une roche devient-elle un sol ?",
+    "coverCaption": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+    "coverKind": "soil",
+    "scrollWidth": 320,
+    "title": "Comment une roche devient-elle un sol ?",
+    "width": 320
+  },
+  {
+    "slug": "savon-et-graisse",
+    "expectedTitle": "Pourquoi le savon enlève la graisse ?",
+    "coverCaption": "Les molécules de savon entourent la graisse : les têtes bleues sont vers l’eau, les queues orange vers la graisse. La graisse reste présente ; le groupe peut être dispersé puis emporté au rinçage.",
+    "coverKind": "soap",
+    "scrollWidth": 320,
+    "title": "Pourquoi le savon enlève la graisse ?",
+    "width": 320
+  },
+  {
+    "slug": "un-axe-deux-saisons",
+    "expectedTitle": "Pourquoi les saisons sont-elles opposées ?",
+    "coverCaption": "Solstice de juin : le nord penche vers le Soleil, le sud à l’opposé. Été au nord, hiver au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+    "coverKind": "seasons",
+    "scrollWidth": 320,
+    "title": "Pourquoi les saisons sont-elles opposées ?",
+    "width": 320
+  },
+  {
+    "slug": "un-petit-effort-un-grand-levier",
+    "expectedTitle": "Comment un levier réduit-il l’effort ?",
+    "coverCaption": "Charge : 120 N à 10 cm de l’appui. Effort d’équilibre : 40 N à 30 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+    "coverKind": "lever",
+    "scrollWidth": 320,
+    "title": "Comment un levier réduit-il l’effort ?",
+    "width": 320
+  }
+]

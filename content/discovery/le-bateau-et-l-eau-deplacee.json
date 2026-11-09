@@ -1,0 +1,144 @@
+{
+  "slug": "le-bateau-et-l-eau-deplacee",
+  "version": 1,
+  "status": "published",
+  "title": "Pourquoi une coque flotte-t-elle ?",
+  "summary": "Charge une coque étanche et observe combien d’eau elle doit déplacer pour rester à flot.",
+  "domain": "Sciences fondamentales",
+  "domainPath": "sciences-fondamentales",
+  "minutes": 3,
+  "expandedPath": "/sciences-fondamentales/physique/mecanique/pourquoi-un-bateau-en-acier-flotte-t-il",
+  "objective": "Comprendre qu’une coque à flot déplace un poids d’eau égal à son poids, et qu’un volume limité impose une limite de charge.",
+  "sources": [
+    {
+      "title": "Principe d’Archimède et flottaison",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Archimedes’ Principle",
+      "url": "https://openstax.org/books/college-physics-2e/pages/11-7-archimedes-principle",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-11"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "L’eau pousse aussi",
+      "text": "Le poids tire la coque vers le bas. L’eau exerce une poussée vers le haut. Quand la coque flotte sans bouger, ces deux forces se compensent.",
+      "visual": {
+        "kind": "buoyancy",
+        "caption": "Coque étanche idéale : 400 kg à vide, volume extérieur maximal de 1 m³, eau douce à 1 kg/L.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Ajoute de la charge",
+      "text": "Augmente la charge. La coque descend et déplace davantage d’eau. À 600 kg ajoutés, elle est entièrement immergée ; au-delà, elle s’enfonce dans ce modèle.",
+      "visual": {
+        "kind": "buoyancy",
+        "caption": "Coque étanche idéale : 400 kg à vide, volume extérieur maximal de 1 m³, eau douce à 1 kg/L.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Charge ajoutée",
+        "minLabel": "0 kg",
+        "maxLabel": "800 kg",
+        "feedback": "La coque de 400 kg peut déplacer au maximum 1 000 L. Ici, 1 L d’eau a une masse de 1 kg. Le curseur représente une charge, pas le temps."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Une coque plus chargée",
+      "text": "Le niveau de l’eau reste fixe dans l’expérience : c’est la coque qui change de position.",
+      "visual": {
+        "kind": "buoyancy",
+        "caption": "Coque étanche idéale : 400 kg à vide, volume extérieur maximal de 1 m³, eau douce à 1 kg/L.",
+        "active": false,
+        "fixedValue": 40
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pourquoi une coque chargée s’enfonce-t-elle davantage tout en restant à flot ?",
+        "options": [
+          {
+            "id": "option-2",
+            "label": "L’eau ne pousse plus sur la coque",
+            "feedback": "L’eau continue de pousser ; cette poussée augmente avec le volume immergé."
+          },
+          {
+            "id": "option-1",
+            "label": "Elle doit déplacer plus d’eau pour compenser son poids",
+            "feedback": "Oui. Plus de poids exige une plus grande poussée, donc davantage d’eau déplacée."
+          },
+          {
+            "id": "option-3",
+            "label": "L’acier devient plus léger",
+            "feedback": "La coque ne devient pas plus légère. La masse totale augmente avec la charge."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Un volume, une limite",
+      "text": "Cette coque fermée déplace au plus 1 000 L. Même immergée, la poussée ne peut pas dépasser le poids de cette eau. Les positions sont schématiques, sans vagues ni entrée d’eau.",
+      "visual": {
+        "kind": "buoyancy",
+        "caption": "Coque étanche idéale : 400 kg à vide, volume extérieur maximal de 1 m³, eau douce à 1 kg/L.",
+        "active": true,
+        "fixedValue": 75
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Et si on dépasse ?",
+      "text": "Dans le modèle, une coque de 1 m³ ne peut jamais déplacer plus de 1 000 L, quelle que soit sa profondeur.",
+      "visual": {
+        "kind": "buoyancy",
+        "caption": "Coque étanche idéale : 400 kg à vide, volume extérieur maximal de 1 m³, eau douce à 1 kg/L.",
+        "active": true,
+        "fixedValue": 100
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "En eau douce à 1 kg/L, une coque étanche de 1 m³ pèse 1 200 kg avec sa charge. Que se passe-t-il ?",
+        "options": [
+          {
+            "id": "option-1",
+            "label": "Elle s’enfonce : la poussée maximale ne suffit pas",
+            "feedback": "Oui. Elle déplace au plus 1 000 kg d’eau, moins que ses 1 200 kg."
+          },
+          {
+            "id": "option-2",
+            "label": "Elle flotte en déplaçant 1 200 L",
+            "feedback": "Son volume extérieur est limité à 1 000 L : elle ne peut pas en déplacer 1 200."
+          },
+          {
+            "id": "option-3",
+            "label": "Toute poussée disparaît",
+            "feedback": "Même un objet qui coule subit une poussée. Elle est simplement trop faible pour compenser son poids."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "Le poids de l’eau déplacée",
+      "text": "À flot et au repos, poids et poussée sont égaux. Charger la coque augmente son immersion ; si sa poussée maximale devient insuffisante, elle coule. Ce modèle ne calcule pas la stabilité d’un vrai bateau.",
+      "visual": {
+        "kind": "buoyancy",
+        "caption": "Coque étanche idéale : 400 kg à vide, volume extérieur maximal de 1 m³, eau douce à 1 kg/L.",
+        "active": false
+      }
+    }
+  ]
+}

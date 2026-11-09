@@ -147,7 +147,7 @@ export function DiscoveryPlayer({
         <h1 ref={heading} tabIndex={-1} className="display discovery-step-title">
           {step.title}
         </h1>
-        <DiscoveryVisual visual={step.visual} value={visualValue} />
+        <DiscoveryVisual visual={step.visual} value={visualValue} stateCaption compact />
         <p className="discovery-copy">{step.text}</p>
         {interaction && (
           <DiscoveryInteraction

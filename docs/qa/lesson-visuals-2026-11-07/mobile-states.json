@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "lift",
+    "path": "/aeronautique/aerodynamique/portance/physique-portance-aerodynamique",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’air suit le profil de l’aile et est dévié vers le bas.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "lift",
+        "live": "À observer · 1 / 3Écoulement attachéLa portance résulte de la répartition des pressions autour de l’aile. La déviation de l’air décrit le même phénomène ; les filets au-dessus et au-dessous n’ont pas à se rejoindre en même temps.",
+        "pressed": "1Écoulement attaché",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’aile s’incline davantage par rapport à l’air incident.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "lift",
+        "live": "À observer · 2 / 3Incidence accrueAvant le décrochage, augmenter l’incidence peut augmenter la portance. L’incidence est l’angle avec l’air relatif, pas avec l’horizon.",
+        "pressed": "2Incidence accrue",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’écoulement se sépare et la portance diminue fortement.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "lift",
+        "live": "À observer · 3 / 3DécrochageLe dessin conserve une portance résiduelle : elle ne devient pas nécessairement nulle. L’incidence critique dépend du profil et des conditions de vol.",
+        "pressed": "3Décrochage",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "jet",
+    "path": "/aeronautique/propulsion/turboreacteurs/fonctionnement-turboreacteur",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La soufflante envoie une partie de l’air autour du cœur.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "jet",
+        "live": "À observer · 1 / 3Faire entrer l’airLe flux secondaire contourne les chambres chaudes. Dans un turboréacteur à double flux, il contribue lui aussi à la poussée.",
+        "pressed": "1Faire entrer l’air",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le compresseur précède la combustion, puis la turbine.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "jet",
+        "live": "À observer · 2 / 3Chauffer le cœurLe carburant apporte de l’énergie. La turbine récupère une partie de cette énergie pour entraîner le compresseur et la soufflante par des arbres.",
+        "pressed": "2Chauffer le cœur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "De l’air est accéléré vers l’arrière ; le moteur est poussé vers l’avant.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "jet",
+        "live": "À observer · 3 / 3Accélérer les fluxLa combustion est continue. Les zones montrées coexistent dans le moteur : ce ne sont pas quatre temps successifs comme dans un moteur à piston.",
+        "pressed": "3Accélérer les flux",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "hydraulic",
+    "path": "/technologies-et-ingenierie/robotique/actionneurs/comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Deux pistons communiquent par un liquide enfermé.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "hydraulic",
+        "live": "À observer · 1 / 3Observer les pistonsLe piston de droite a une surface quatre fois plus grande. On suppose le liquide incompressible et on néglige les frottements et la différence de hauteur.",
+        "pressed": "1Observer les pistons",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "100 N sur 1 cm² correspondent à 400 N sur 4 cm².",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "hydraulic",
+        "live": "À observer · 2 / 3Transmettre l’effortL’augmentation de pression transmise est la même : F / A. L’aire dessinée en perspective n’est pas une mesure de la surface du piston.",
+        "pressed": "2Transmettre l’effort",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le grand piston parcourt une distance quatre fois plus petite.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "hydraulic",
+        "live": "À observer · 3 / 3Comparer les coursesPour le même volume déplacé, 4 cm de course à gauche correspondent à 1 cm à droite. Le gain de force ne crée pas d’énergie.",
+        "pressed": "3Comparer les courses",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "lock",
+    "path": "/technologies-et-ingenierie/genie-civil/ouvrages-dart/comment-une-ecluse-fait-elle-monter-un-bateau-sans-aucune-pompe",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le sas et l’aval sont au même niveau ; le bateau entre.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "lock",
+        "live": "À observer · 1 / 3Entrer en basLa porte aval est ouverte, la porte amont fermée. Les portes sont représentées en coupe : une ouverture est un passage libre.",
+        "pressed": "1Entrer en bas",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les portes sont fermées ; une vanne laisse entrer l’eau d’amont.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "lock",
+        "live": "À observer · 2 / 3Remplir le sasL’eau s’écoule par gravité depuis le niveau le plus haut. Le bateau reste à flot pendant la montée.",
+        "pressed": "2Remplir le sas",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Quand les niveaux sont égaux, la porte amont peut s’ouvrir.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "lock",
+        "live": "À observer · 3 / 3Sortir en hautLa porte aval reste fermée. Pour descendre, le sas se vide vers l’aval ; on ne pousse pas le bateau avec un piston.",
+        "pressed": "3Sortir en haut",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "solar",
+    "path": "/energie/energies-renouvelables/solaire/comment-fonctionne-une-cellule-photovoltaique",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des photons apportent de l’énergie au silicium.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "solar",
+        "live": "À observer · 1 / 3Éclairer la celluleLa cellule absorbe une partie de la lumière. Le reste peut être réfléchi ou transmis ; une partie de l’énergie absorbée devient de la chaleur.",
+        "pressed": "1Éclairer la cellule",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le champ interne aide à séparer les charges mobiles.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "solar",
+        "live": "À observer · 2 / 3Séparer les chargesLe schéma distingue les deux faces et la jonction. Il ne représente ni chaque atome ni le dopage à son échelle réelle.",
+        "pressed": "2Séparer les charges",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un circuit extérieur permet de fournir de l’énergie à une lampe.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "solar",
+        "live": "À observer · 3 / 3Fermer le circuitLa lampe représente un récepteur adapté au courant continu de la cellule. Aucun onduleur ni réseau domestique n’est représenté.",
+        "pressed": "3Fermer le circuit",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "wind",
+    "path": "/energie/energies-renouvelables/eolien/comment-fonctionne-une-eolienne",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les pales extraient une partie de l’énergie du vent.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "wind",
+        "live": "À observer · 1 / 3Capter le ventLes forces aérodynamiques sur les pales font tourner le rotor. Le vent n’est pas entièrement arrêté.",
+        "pressed": "1Capter le vent",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un arbre transmet la rotation à la génératrice.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "wind",
+        "live": "À observer · 2 / 3Entraîner la machineLa nacelle est ouverte symboliquement pour voir la génératrice. Certaines éoliennes utilisent un multiplicateur, d’autres un entraînement direct.",
+        "pressed": "2Entraîner la machine",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La génératrice convertit l’énergie mécanique en énergie électrique.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "wind",
+        "live": "À observer · 3 / 3Produire du courantLes câbles passent dans la tour. L’électronique de puissance et le raccordement au réseau ne sont pas détaillés ici.",
+        "pressed": "3Produire du courant",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "hydro",
+    "path": "/energie/energies-renouvelables/hydraulique/comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’eau stockée en hauteur possède de l’énergie potentielle.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "hydro",
+        "live": "À observer · 1 / 3Retenir l’eauLa différence de niveau entre la retenue et l’aval contribue à la hauteur de chute disponible.",
+        "pressed": "1Retenir l’eau",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’eau descend dans la conduite, traverse la turbine puis rejoint l’aval.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "hydro",
+        "live": "À observer · 2 / 3Faire tourner la turbineLa conduite est ici dessinée à travers une coupe du barrage pour rendre le trajet visible. L’eau ne traverse pas la génératrice.",
+        "pressed": "2Faire tourner la turbine",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La turbine entraîne la génératrice par un arbre.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "hydro",
+        "live": "À observer · 3 / 3Entraîner la génératriceLa conversion passe de l’énergie de l’eau à la rotation, puis à l’électricité. Le débit et la hauteur de chute influencent la puissance.",
+        "pressed": "3Entraîner la génératrice",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "heatpump",
+    "path": "/energie/efficacite-et-sobriete/efficacite-energetique/comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un fluide plus froid que l’air extérieur y absorbe de la chaleur.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "heatpump",
+        "live": "À observer · 1 / 3Prélever dehorsMême un air froid peut céder de la chaleur à un fluide encore plus froid. Ce fluide s’évapore dans l’échangeur extérieur.",
+        "pressed": "1Prélever dehors",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le compresseur reçoit de l’énergie électrique.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "heatpump",
+        "live": "À observer · 2 / 3ComprimerLa compression élève la pression et la température du fluide gazeux. La chaleur livrée ensuite inclut cet apport d’énergie.",
+        "pressed": "2Comprimer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le fluide cède de la chaleur dans la maison, puis passe par le détendeur.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "heatpump",
+        "live": "À observer · 3 / 3Chauffer dedansAprès condensation et détente, le fluide peut de nouveau absorber de la chaleur dehors. Le circuit est fermé ; l’air extérieur ne circule pas dans les tuyaux.",
+        "pressed": "3Chauffer dedans",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "battery",
+    "path": "/energie/reseaux-et-stockage/batteries/comment-fonctionne-une-batterie-lithium-ion",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les ions Li⁺ traversent l’électrolyte du côté négatif vers le côté positif.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "battery",
+        "live": "À observer · 1 / 3DéchargerLes électrons suivent un autre chemin : le circuit extérieur qui alimente l’appareil. Les ions ne passent pas dans la lampe.",
+        "pressed": "1Décharger",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les électrons passent par l’appareil, pas à travers le séparateur.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "battery",
+        "live": "À observer · 2 / 3Suivre les électronsLa flèche indique ici le sens de déplacement des électrons, opposé au sens conventionnel du courant.",
+        "pressed": "2Suivre les électrons",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un chargeur impose le trajet inverse des ions et des électrons.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "battery",
+        "live": "À observer · 3 / 3RechargerLes électrodes gardent leurs signes + et −. Le chargeur apporte l’énergie nécessaire ; la batterie n’inverse pas spontanément son fonctionnement.",
+        "pressed": "3Recharger",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "induction",
+    "path": "/energie/reseaux-et-stockage/reseaux-electriques/produire-electricite-avec-aimant",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un aimant immobile ne suffit pas à maintenir un courant.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "induction",
+        "live": "À observer · 1 / 3Aimant immobileDans cette expérience, la bobine et l’aimant sont immobiles l’un par rapport à l’autre et le champ ne varie pas.",
+        "pressed": "1Aimant immobile",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Quand l’aimant approche, le flux magnétique dans la bobine change.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "induction",
+        "live": "À observer · 2 / 3Approcher l’aimantCette variation induit une tension ; le circuit fermé permet un courant. Le galvanomètre indique un sens, sans valeur mesurée.",
+        "pressed": "2Approcher l’aimant",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Quand le mouvement s’inverse, la déviation de l’aiguille s’inverse.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "induction",
+        "live": "À observer · 3 / 3Éloigner l’aimantDans une génératrice, une rotation entretient les variations. Le dessin montre l’expérience de translation qui permet d’en comprendre le principe.",
+        "pressed": "3Éloigner l’aimant",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "greenhouse",
+    "path": "/environnement-et-climat/changement-climatique/gaz-a-effet-de-serre/pourquoi-le-methane-est-il-un-gaz-a-effet-de-serre-si-puissant",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une partie du rayonnement solaire atteint le sol et le réchauffe.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "greenhouse",
+        "live": "À observer · 1 / 3Recevoir du SoleilLes flèches dorées représentent le rayonnement solaire. Une partie est aussi réfléchie vers l’espace.",
+        "pressed": "1Recevoir du Soleil",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le sol émet un rayonnement infrarouge vers l’atmosphère et l’espace.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "greenhouse",
+        "live": "À observer · 2 / 3Émettre de l’infrarougeLes flèches orange représentent une autre gamme de rayonnement. Une partie traverse l’atmosphère sans être absorbée.",
+        "pressed": "2Émettre de l’infrarouge",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les gaz à effet de serre absorbent puis émettent de l’infrarouge dans plusieurs directions.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "greenhouse",
+        "live": "À observer · 3 / 3Absorber et réémettreUne partie revient vers la surface. L’atmosphère n’est ni un miroir étanche ni un couvercle : de l’énergie continue de repartir vers l’espace.",
+        "pressed": "3Absorber et réémettre",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "groundwater",
+    "path": "/environnement-et-climat/pollution-et-ressources/eau/comment-se-forme-une-nappe-d-eau-sous-nos-pieds",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une partie de la pluie descend dans les pores du sol.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "groundwater",
+        "live": "À observer · 1 / 3InfiltrationLe dessin montre seulement l’eau qui s’infiltre ; d’autres fractions ruissellent ou retournent à l’atmosphère.",
+        "pressed": "1Infiltration",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Sous le niveau de la nappe, les pores sont remplis d’eau.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "groundwater",
+        "live": "À observer · 2 / 3Zone saturéeLes grains de roche restent présents dans la zone bleue. Une nappe est un milieu rocheux saturé, pas une caverne remplie d’eau.",
+        "pressed": "2Zone saturée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un puits atteint la zone saturée de l’aquifère.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "groundwater",
+        "live": "À observer · 3 / 3Puiser dans la nappeL’eau peut circuler entre les pores connectés. La recharge n’est pas instantanée ; le schéma ne garantit ni débit ni potabilité.",
+        "pressed": "3Puiser dans la nappe",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "tectonics",
+    "path": "/sciences-fondamentales/sciences-de-la-terre/geologie/tectonique-des-plaques",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Deux plaques s’écartent à une dorsale.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "tectonics",
+        "live": "À observer · 1 / 3S’écarterDu matériau chaud remonte et forme de la nouvelle lithosphère océanique. Les plaques incluent la croûte et une partie rigide du manteau.",
+        "pressed": "1S’écarter",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une plaque océanique plonge sous une autre plaque.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "tectonics",
+        "live": "À observer · 2 / 3ConvergerLa subduction peut s’accompagner de séismes et de volcanisme. Toutes les convergences ne sont pas des subductions océaniques.",
+        "pressed": "2Converger",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Deux plaques glissent horizontalement l’une contre l’autre.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "tectonics",
+        "live": "À observer · 3 / 3CoulisserLe troisième panneau est vu de dessus. Le coulissage peut produire des séismes sans créer ni détruire de lithosphère à cette frontière.",
+        "pressed": "3Coulisser",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "eclipse",
+    "path": "/espace-et-astronomie/systeme-solaire/lune/pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La Lune passe généralement au-dessus ou au-dessous de l’alignement.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "eclipse",
+        "live": "À observer · 1 / 3Sans alignementSon orbite est inclinée par rapport au plan de l’orbite terrestre. L’écart vertical est volontairement exagéré ici.",
+        "pressed": "1Sans alignement",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La Lune est entre le Soleil et la Terre.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "eclipse",
+        "live": "À observer · 2 / 3Éclipse de SoleilSon ombre peut atteindre une petite partie de la Terre. Les dimensions du dessin ne permettent pas de distinguer une éclipse totale d’une annulaire.",
+        "pressed": "2Éclipse de Soleil",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La Terre est entre le Soleil et la Lune.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "eclipse",
+        "live": "À observer · 3 / 3Éclipse de LuneLa Lune traverse l’ombre de la Terre, à la pleine Lune et près d’un nœud de son orbite. Les phases et les éclipses sont deux phénomènes différents.",
+        "pressed": "3Éclipse de Lune",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "orbit",
+    "path": "/espace-et-astronomie/exploration-spatiale/lanceurs-et-orbites/mettre-un-objet-en-orbite",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Sans vitesse tangentielle, l’objet tombe vers le sol.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "orbit",
+        "live": "À observer · 1 / 3Sans vitesse latéraleL’expérience part au-dessus de la Terre. La flèche orange représente la direction de la gravité.",
+        "pressed": "1Sans vitesse latérale",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une vitesse latérale plus grande fait tomber plus loin.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "orbit",
+        "live": "À observer · 2 / 3Vitesse insuffisanteLe point de contact se déplace sur le globe. On néglige l’atmosphère pour isoler le rôle de la vitesse initiale.",
+        "pressed": "2Vitesse insuffisante",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "À la bonne vitesse, la trajectoire contourne la Terre.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "orbit",
+        "live": "À observer · 3 / 3En orbiteLa gravité continue d’agir vers le centre. La flèche bleue est tangentielle : en orbite circulaire, vitesse et gravité n’ont pas la même direction.",
+        "pressed": "3En orbite",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "lens",
+    "path": "/sciences-fondamentales/physique/electromagnetisme/lentilles-optique",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des rayons parallèles restent parallèles dans un milieu uniforme.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "lens",
+        "live": "À observer · 1 / 3Sans lentilleLe trait horizontal gris indique l’axe optique. Les flèches dorées vont toutes de gauche à droite.",
+        "pressed": "1Sans lentille",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une lentille convergente rapproche les rayons vers un foyer.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "lens",
+        "live": "À observer · 2 / 3ConvergenteLa lentille est plus épaisse au centre. Le modèle de lentille mince concentre symboliquement la déviation au plan central.",
+        "pressed": "2Convergente",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une lentille divergente écarte les rayons.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "lens",
+        "live": "À observer · 3 / 3DivergenteLes prolongements pointillés se croisent au foyer virtuel, du côté de la source. La lumière ne parcourt pas ces pointillés.",
+        "pressed": "3Divergente",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "fibre",
+    "path": "/communication-et-medias/telecommunications/fibre-et-reseaux-fixes/comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le cœur est entouré d’une gaine d’indice plus faible.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "fibre",
+        "live": "À observer · 1 / 3Voir les couchesLes deux couches sont transparentes. La gaine n’est pas un miroir métallique.",
+        "pressed": "1Voir les couches",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Dans les bonnes conditions d’angle, le rayon reste dans le cœur.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "fibre",
+        "live": "À observer · 2 / 3Guider la lumièreLe tracé montre un rayon guidé par réflexion totale interne. Ce modèle de rayons convient à l’explication d’une fibre multimode.",
+        "pressed": "2Guider la lumière",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un récepteur convertit un signal lumineux reçu en signal électrique.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "fibre",
+        "live": "À observer · 3 / 3Lire une impulsionLe point lumineux illustre une impulsion ; le dessin ne prétend pas coder un octet réel ou représenter tous les modes optiques.",
+        "pressed": "3Lire une impulsion",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "distillation",
+    "path": "/sciences-fondamentales/chimie/chimie-organique/distillation",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La vapeur est plus riche en composé le plus volatil.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "distillation",
+        "live": "À observer · 1 / 3Chauffer le mélangeLes deux espèces peuvent s’évaporer ensemble. Le dessin ne suppose pas que l’une attende que l’autre ait entièrement disparu.",
+        "pressed": "1Chauffer le mélange",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un réfrigérant enlève de la chaleur et condense la vapeur.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "distillation",
+        "live": "À observer · 2 / 3Refroidir la vapeurL’eau froide circule dans une enveloppe séparée. Elle entre par le bas et ressort par le haut ; elle ne se mélange pas au distillat.",
+        "pressed": "2Refroidir la vapeur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le liquide condensé arrive dans un autre récipient.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "distillation",
+        "live": "À observer · 3 / 3Recueillir le distillatLe distillat est enrichi, pas nécessairement pur. La séparation dépend du mélange et de l’appareil utilisé.",
+        "pressed": "3Recueillir le distillat",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "binary",
+    "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/comment-un-ordinateur-peut-il-tout-ecrire-avec-seulement-des-0-et-des-1",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Seule la colonne des unités est active : la valeur est 1.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "binary",
+        "live": "À observer · 1 / 3Lire 0001De gauche à droite, les quatre positions valent 8, 4, 2 et 1. Un bit à zéro ne contribue pas à la somme.",
+        "pressed": "1Lire 0001",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les colonnes 4 et 1 sont actives : la valeur est 5.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "binary",
+        "live": "À observer · 2 / 3Lire 0101La même règle de position s’applique avec seulement deux chiffres. Les états physiques peuvent être deux plages de tension, sans exiger l’absence totale de courant.",
+        "pressed": "2Lire 0101",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les colonnes 8, 4 et 1 sont actives : la valeur est 13.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "binary",
+        "live": "À observer · 3 / 3Lire 1101Quatre bits permettent de représenter seize valeurs entières de 0 à 15. Le codage des lettres demande une convention supplémentaire.",
+        "pressed": "3Lire 1101",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "pixels",
+    "path": "/micro-informatique-et-informatique/donnees/representation-et-compression/qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Chaque case représente une couleur échantillonnée de l’image.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "pixels",
+        "live": "À observer · 1 / 3Voir la grilleLe petit motif est une image matricielle volontairement grossière. Les cases sont un moyen de la dessiner, pas la forme universelle d’un pixel physique.",
+        "pressed": "1Voir la grille",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Agrandir les mêmes pixels ne recrée pas les détails manquants.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "pixels",
+        "live": "À observer · 2 / 3Agrandir sans détailLe contour en escalier devient visible. On agrandit ici au plus proche voisin, sans interpolation.",
+        "pressed": "2Agrandir sans détail",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un écran RVB combine des sous-pixels rouges, verts et bleus.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "pixels",
+        "live": "À observer · 3 / 3Composer une couleurLe détail montre un arrangement en bandes possible, pas celui de tous les écrans. Trois canaux allumés ensemble peuvent produire du blanc.",
+        "pressed": "3Composer une couleur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "neuron",
+    "path": "/corps-humain-et-sante/anatomie/systeme-nerveux/comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un signal électrique se propage jusqu’à la terminaison.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "neuron",
+        "live": "À observer · 1 / 3Suivre l’axoneLa vue principale montre un corps cellulaire, ses dendrites et son axone. Le médaillon est un agrandissement de la synapse.",
+        "pressed": "1Suivre l’axone",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La terminaison libère des neurotransmetteurs dans la fente.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "neuron",
+        "live": "À observer · 2 / 3Libérer les messagersLes molécules diffusent vers la membrane de la cellule suivante. Elles ne sont pas un courant électrique sautant dans le vide.",
+        "pressed": "2Libérer les messagers",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les neurotransmetteurs se fixent à des récepteurs.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "neuron",
+        "live": "À observer · 3 / 3Activer des récepteursLa réponse peut exciter ou inhiber la cellule suivante. Une réception ne déclenche pas nécessairement un nouveau potentiel d’action.",
+        "pressed": "3Activer des récepteurs",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "alveoli",
+    "path": "/corps-humain-et-sante/anatomie/systeme-respiratoire/comment-les-poumons-font-ils-passer-l-oxygene-de-l-air-dans-le-sang",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’air atteint une alvéole au bout d’une bronchiole.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "alveoli",
+        "live": "À observer · 1 / 3Apporter l’airLe capillaire qui longe sa paroi contient du sang. L’air et le sang restent dans deux compartiments distincts.",
+        "pressed": "1Apporter l’air",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’O₂ passe vers le sang et le CO₂ vers l’alvéole.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "alveoli",
+        "live": "À observer · 2 / 3Échanger les gazLes gaz diffusent à travers la paroi selon leurs différences de pressions partielles. Les flèches montrent les deux directions ; elles ne représentent pas le volume d’air inspiré.",
+        "pressed": "2Échanger les gaz",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les globules rouges emportent l’oxygène vers le cœur.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "alveoli",
+        "live": "À observer · 3 / 3Transporter l’oxygèneLa couleur distingue le sang avant et après son passage au poumon. Elle ne signifie pas que le sang humain devient bleu.",
+        "pressed": "3Transporter l’oxygène",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "dna",
+    "path": "/sciences-fondamentales/biologie/genetique/decouverte-structure-adn",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’ADN comporte deux brins enroulés ensemble.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "dna",
+        "live": "À observer · 1 / 3Voir la double héliceLes montants représentent les squelettes sucre-phosphate ; les barreaux représentent les paires de bases.",
+        "pressed": "1Voir la double hélice",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "A s’apparie avec T ; G s’apparie avec C.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "dna",
+        "live": "À observer · 2 / 3Lire les pairesLa vue déroulée montre les bases par leurs lettres, pas par leur couleur seule. Les liaisons entre bases sont symbolisées au centre.",
+        "pressed": "2Lire les paires",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Chaque brin peut servir de modèle pour un brin complémentaire.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "dna",
+        "live": "À observer · 3 / 3Comprendre la copieChaque molécule fille conserve un ancien brin et contient un nouveau brin. Les enzymes et la synthèse orientée sont laissées hors de cette vue d’ensemble.",
+        "pressed": "3Comprendre la copie",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "saponification",
+    "path": "/sciences-fondamentales/chimie/chimie-organique/comment-fabrique-t-on-du-savon-avec-de-l-huile",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un triglycéride porte trois longues chaînes liées au glycérol.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "saponification",
+        "live": "À observer · 1 / 3Voir le corps grasLes trois chaînes sont simplifiées en zigzags. Elles ne sont pas trois molécules de savon déjà libres.",
+        "pressed": "1Voir le corps gras",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une base forte permet de transformer les liaisons ester.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "saponification",
+        "live": "À observer · 2 / 3Transformer les liaisonsLe bilan symbolique montre trois ions hydroxyde pour un triglycéride. Il explique une réaction, sans donner de recette de fabrication.",
+        "pressed": "2Transformer les liaisons",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "On obtient du glycérol et trois ions carboxylate constituant le savon.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "saponification",
+        "live": "À observer · 3 / 3Identifier les produitsLes ions sodium accompagnent les carboxylates si la base est la soude. Les longues queues et les têtes ioniques expliquent ensuite le nettoyage, montré dans l’atelier du savon.",
+        "pressed": "3Identifier les produits",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

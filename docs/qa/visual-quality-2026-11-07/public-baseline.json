@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-07",
+  "publicInventory": {
+    "discoveries": [
+      "/decouvrir/la-couleur-dans-le-mur",
+      "/decouvrir/allumer-une-lampe",
+      "/decouvrir/de-la-pate-a-la-feuille",
+      "/decouvrir/feuille-et-lumiere",
+      "/decouvrir/la-bouteille-qui-revient",
+      "/decouvrir/la-voix-dans-le-fil",
+      "/decouvrir/le-pain-qui-gonfle",
+      "/decouvrir/le-pilote-qui-corrige",
+      "/decouvrir/le-turbo",
+      "/decouvrir/le-voyage-de-l-electricite",
+      "/decouvrir/les-donnees-dans-l-air",
+      "/decouvrir/les-quatre-temps",
+      "/decouvrir/naissance-d-un-cyclone",
+      "/decouvrir/naissance-d-un-sol",
+      "/decouvrir/savon-et-graisse"
+    ],
+    "url": "https://anakalypto.vercel.app/decouvrir"
+  },
+  "publicTurboBaseline": {
+    "coverImages": 0,
+    "hasWorkshop": false,
+    "subjectDiagrams": 0,
+    "svgCount": 11,
+    "url": "https://anakalypto.vercel.app/automobile/motorisations/thermique/comment-un-turbocompresseur-rend-il-un-moteur-plus-puissant"
+  }
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "tides",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "tides",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "tides",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "starbirth",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "starbirth",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "starbirth",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "starlife",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "starlife",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "starlife",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "transit",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "transit",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "transit",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "transmission",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "transmission",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "transmission",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "microlensing",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "microlensing",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "microlensing",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "lensing",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "lensing",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "lensing",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "expansion",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "expansion",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "expansion",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "comet",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "comet",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "comet",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "skyglow",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "skyglow",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "skyglow",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "gps",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "gps",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "gps",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "0",
+    "kind": "planets",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "1",
+    "kind": "planets",
+    "outside": []
+  },
+  {
+    "duplicates": [],
+    "frame": "2",
+    "kind": "planets",
+    "outside": []
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "tides",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La Lune attire le côté proche plus fortement que le centre, et le côté éloigné moins fortement.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "tides",
+        "live": "À observer · 1 / 3Comparer les attractionsLes flèches orange pointent toutes vers la Lune. Elles comparent son attraction à trois endroits ; elles ne représentent pas encore les forces de marée.",
+        "pressed": "1Comparer les attractions",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Par rapport au centre terrestre, l’effet différentiel étire l’océan dans deux directions opposées.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "tides",
+        "live": "À observer · 2 / 3Retirer le mouvement communLes flèches bleues représentent ce qui reste après retrait de l’accélération du centre. La Lune ne repousse pas l’eau du côté éloigné : son attraction y est plus faible.",
+        "pressed": "2Retirer le mouvement commun",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Un même point de la Terre rencontre deux zones hautes dans ce modèle de marée d’équilibre.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "tides",
+        "live": "À observer · 3 / 3Suivre une côteLes trois positions repérées suivent une côte pendant la rotation. Les continents, la profondeur et les résonances transforment fortement les marées réelles : ce dessin ne prédit ni leur heure ni leur hauteur.",
+        "pressed": "3Suivre une côte",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "starbirth",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une région dense d’un nuage se contracte sous l’effet de sa gravité.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "starbirth",
+        "live": "À observer · 1 / 3Rassembler le gazLe gaz et les poussières ne s’allument pas d’un seul coup. La contraction concentre progressivement la matière dans certaines régions du nuage.",
+        "pressed": "1Rassembler le gaz",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Une protoétoile reçoit de la matière depuis le disque qui l’entoure.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "starbirth",
+        "live": "À observer · 2 / 3Former une protoétoileLe disque et les jets sont représentés séparément. À ce stade, la contraction et l’accrétion peuvent fournir l’énergie rayonnée avant la fusion durable de l’hydrogène.",
+        "pressed": "2Former une protoétoile",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Si sa masse suffit, le cœur devient assez chaud pour entretenir la fusion de l’hydrogène.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "starbirth",
+        "live": "À observer · 3 / 3Allumer la fusionLa pression interne et la gravité s’équilibrent dans une étoile de la séquence principale. Les flèches montrent les directions, sans mesurer les forces ni donner une température universelle.",
+        "pressed": "3Allumer la fusion",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "starlife",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une étoile semblable au Soleil et une étoile massive n’évoluent pas au même rythme.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "starlife",
+        "live": "À observer · 1 / 3Comparer les étoilesLes deux lignes sont deux scénarios, pas deux étapes d’une même étoile. Une étoile plus massive peut vivre moins longtemps malgré une réserve de matière plus grande.",
+        "pressed": "1Comparer les étoiles",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Les étoiles évoluent lorsque leur combustible central et leur structure changent.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "starlife",
+        "live": "À observer · 2 / 3Changer de structureLa ligne du haut montre une géante rouge ; celle du bas une supergéante. Le dessin compare les chemins, sans coder les rayons réels par les tailles des disques.",
+        "pressed": "2Changer de structure",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Le scénario solaire laisse une naine blanche ; une étoile massive peut laisser une étoile à neutrons ou un trou noir.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "starlife",
+        "live": "À observer · 3 / 3Voir les restesL’enveloppe éjectée du scénario solaire n’est pas une supernova. La ligne massive représente une issue possible avec explosion ; toutes les étoiles massives ne suivent pas exactement le même scénario.",
+        "pressed": "3Voir les restes",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "transit",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Avant le transit, le disque de l’étoile n’est pas masqué.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "transit",
+        "live": "À observer · 1 / 3Avant le passageLe dessin montre la silhouette vue depuis l’observateur, et non une vue de dessus de l’orbite. La courbe en dessous suit la lumière reçue au cours du passage.",
+        "pressed": "1Avant le passage",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La planète masque une partie du disque et la lumière reçue diminue.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "transit",
+        "live": "À observer · 2 / 3Pendant le passageLa baisse dépend notamment du rapport des surfaces apparentes. La planète est volontairement grande pour rendre le mécanisme visible ; une planète comme la Terre produit une baisse bien plus petite devant une étoile solaire.",
+        "pressed": "2Pendant le passage",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La lumière revient au niveau initial lorsque la planète quitte le disque.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "transit",
+        "live": "À observer · 3 / 3Après le passageLe point coloré suit la position sélectionnée sur la courbe. Des baisses répétées peuvent révéler une période orbitale ; un signal isolé ne suffit pas à prouver la présence d’une planète.",
+        "pressed": "3Après le passage",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "transmission",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une petite partie de la lumière stellaire traverse le bord de l’atmosphère planétaire.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "transmission",
+        "live": "À observer · 1 / 3Éclairer l’atmosphèreLe disque opaque de la planète bloque la lumière centrale. Le trajet coloré passe dans la couche atmosphérique, pas à travers le sol de la planète.",
+        "pressed": "1Éclairer l’atmosphère",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Les molécules absorbent davantage certaines longueurs d’onde que d’autres.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "transmission",
+        "live": "À observer · 2 / 3Séparer les longueurs d’ondeLa bande colorée est un code de lecture symbolique de l’infrarouge, pas ses couleurs visibles. Les creux sont des bandes d’absorption illustratives ; ils ne correspondent pas ici à une molécule identifiée.",
+        "pressed": "2Séparer les longueurs d’onde",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "On compare les variations du spectre à des modèles pour étudier l’atmosphère.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "transmission",
+        "live": "À observer · 3 / 3Comparer les signaturesLe tracé gris sert de référence et le tracé bleu montre une absorption supplémentaire. Une vraie interprétation doit prendre en compte les incertitudes, les nuages et plusieurs molécules possibles.",
+        "pressed": "3Comparer les signatures",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "microlensing",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une étoile au premier plan passe près de notre ligne de visée vers une étoile lointaine.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "microlensing",
+        "live": "À observer · 1 / 3Approcher l’alignementLes deux étoiles sont à des distances différentes. Leurs images sont généralement trop proches pour être distinguées : l’observation porte surtout sur la lumière totale reçue.",
+        "pressed": "1Approcher l’alignement",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "L’amplification augmente puis diminue quand l’alignement évolue.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "microlensing",
+        "live": "À observer · 2 / 3Amplifier la lumièreLa courbe bleue est calculée pour une lentille ponctuelle idéale. La luminosité augmente pendant l’événement : c’est l’inverse de la baisse provoquée par un transit.",
+        "pressed": "2Amplifier la lumière",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Une planète autour de la lentille peut ajouter une perturbation à la courbe.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "microlensing",
+        "live": "À observer · 3 / 3Repérer une anomalieLa petite anomalie orange est un exemple qualitatif ajouté à la courbe idéale, pas une simulation d’un système planétaire réel. Les anomalies ne sont pas toujours des bosses positives ni aussi simples.",
+        "pressed": "3Repérer une anomalie",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "lensing",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une source lointaine se trouve derrière un amas de galaxies dans notre ligne de visée.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "lensing",
+        "live": "À observer · 1 / 3Aligner les objetsLa source, l’amas et l’observateur sont trois plans distincts. L’amas n’émet pas lui-même la lumière de la source que l’on cherche à observer.",
+        "pressed": "1Aligner les objets",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La gravité de l’amas permet à plusieurs trajets de lumière d’atteindre le même observateur.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "lensing",
+        "live": "À observer · 2 / 3Suivre deux trajetsLes chemins courbes sont des tracés explicatifs en coupe. Ils montrent une déviation gravitationnelle, sans représenter une réfraction dans du verre ni résoudre une distribution de masse réelle.",
+        "pressed": "2Suivre deux trajets",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Dans l’image du ciel, une même source peut apparaître déformée ou multipliée autour de l’amas.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "lensing",
+        "live": "À observer · 3 / 3Voir des arcsCette dernière vue est une vue du ciel, différente de la coupe précédente. Les arcs représentent des images déformées ; ils ne sont ni des anneaux matériels ni l’orbite de la source.",
+        "pressed": "3Voir des arcs",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "expansion",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des groupes de galaxies sont séparés par des distances initiales.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "expansion",
+        "live": "À observer · 1 / 3Choisir une référenceLa galaxie repérée sert uniquement de référence de mesure. Elle n’est pas au centre de l’Univers ; le même raisonnement peut être fait depuis une autre galaxie.",
+        "pressed": "1Choisir une référence",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "À grande échelle, le même facteur d’expansion augmente toutes les séparations de cet exemple.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "expansion",
+        "live": "À observer · 2 / 3Étendre les distancesLes symboles des galaxies gardent la même taille. La grille décrit seulement des distances entre objets non liés ; elle ne représente pas un matériau qui tire sur les galaxies.",
+        "pressed": "2Étendre les distances",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La longueur d’onde de la lumière peut augmenter pendant sa propagation dans l’Univers en expansion.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "expansion",
+        "live": "À observer · 3 / 3Étirer la lumièreLes deux ondes ont le même nombre d’oscillations, mais des espacements différents. Le dessin explique un décalage cosmologique sans donner une vitesse ni une valeur de la constante de Hubble.",
+        "pressed": "3Étirer la lumière",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "comet",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un noyau peu actif loin du Soleil peut n’avoir aucune queue visible.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "comet",
+        "live": "À observer · 1 / 3Loin du SoleilL’orbite et la direction du mouvement sont distinguées de la direction du rayonnement solaire. Les distances ne sont pas comparables aux dimensions réelles du noyau.",
+        "pressed": "1Loin du Soleil",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La matière libérée forme une chevelure, une queue ionique et une queue de poussière.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "comet",
+        "live": "À observer · 2 / 3Approcher du SoleilLa queue bleue est ionique ; la queue claire représente la poussière. La pression du rayonnement et l’interaction avec le vent solaire n’agissent pas de la même façon sur ces matières.",
+        "pressed": "2Approcher du Soleil",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Après le passage, la queue ionique reste dirigée à l’opposé du Soleil.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "comet",
+        "live": "À observer · 3 / 3S’éloigner du SoleilLa flèche de mouvement peut alors pointer vers la queue : celle-ci n’est pas simplement une traînée laissée derrière la comète. La queue de poussière peut être courbée et ne suit pas exactement la même direction.",
+        "pressed": "3S’éloigner du Soleil",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "skyglow",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un fond sombre permet de distinguer les étoiles faibles.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "skyglow",
+        "live": "À observer · 1 / 3Sous un ciel sombreLes points gardent les mêmes positions dans les trois vues. Leur nombre est choisi pour la démonstration ; ce n’est pas une mesure du nombre d’étoiles visibles depuis un lieu réel.",
+        "pressed": "1Sous un ciel sombre",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La lumière artificielle diffusée rend le fond du ciel plus clair et réduit le contraste.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "skyglow",
+        "live": "À observer · 2 / 3Éclairer le cielLes étoiles ne s’éteignent pas : certaines deviennent difficiles à séparer du fond lumineux. Le halo est symbolique, sans modèle de diffusion atmosphérique ou seuil de vision mesuré.",
+        "pressed": "2Éclairer le ciel",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Un éclairage dirigé et moins envahissant peut réduire la lumière envoyée vers le ciel.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "skyglow",
+        "live": "À observer · 3 / 3Orienter vers le solLes capots orientent la lumière vers les surfaces utiles. Les réflexions au sol et les autres sources continuent d’éclairer un peu le ciel : le dessin ne promet pas un ciel parfaitement noir.",
+        "pressed": "3Orienter vers le sol",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "gps",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un satellite diffuse son heure d’émission et des informations sur sa position.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "gps",
+        "live": "À observer · 1 / 3Recevoir une heureLe récepteur reçoit le signal radio. Il n’a pas à envoyer une demande au satellite pour obtenir sa position ; le lien dessiné est à sens unique.",
+        "pressed": "1Recevoir une heure",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Plusieurs temps d’arrivée donnent des informations de distance.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "gps",
+        "live": "À observer · 2 / 3Comparer les trajetsOn parle de pseudodistances tant que l’écart d’horloge du récepteur n’est pas corrigé. Les traits sont des trajets de signaux, et non des angles mesurés par triangulation.",
+        "pressed": "2Comparer les trajets",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Au moins quatre satellites permettent de résoudre trois coordonnées et l’écart d’horloge.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "gps",
+        "live": "À observer · 3 / 3Corriger l’horlogeLa position et le temps sont estimés ensemble. Les retards atmosphériques et les réflexions peuvent perturber la mesure ; ce schéma n’annonce aucune précision garantie.",
+        "pressed": "3Corriger l’horloge",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "planets",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Mercure, Vénus, la Terre et Mars sont les quatre planètes intérieures rocheuses.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "planets",
+        "live": "À observer · 1 / 3Les rocheusesL’ordre suit l’éloignement au Soleil. Les distances et les diamètres sont ajustés séparément pour permettre la lecture : on ne peut pas les mesurer sur ce dessin.",
+        "pressed": "1Les rocheuses",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Jupiter et Saturne sont des géantes gazeuses ; Uranus et Neptune sont des géantes de glace.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "planets",
+        "live": "À observer · 2 / 3Les géantesLe mot glace décrit une famille de composition interne : Uranus et Neptune ne sont pas de simples boules de glace solide. Les quatre géantes possèdent des anneaux, pas seulement Saturne.",
+        "pressed": "2Les géantes",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Les huit planètes sont présentées dans leur ordre à partir du Soleil.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "planets",
+        "live": "À observer · 3 / 3Replacer les huitLa ligne du haut continue sur celle du bas, comme un catalogue. Ce n’est pas une photographie, un alignement actuel des planètes ou une vue de leurs orbites.",
+        "pressed": "3Replacer les huit",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  }
+]

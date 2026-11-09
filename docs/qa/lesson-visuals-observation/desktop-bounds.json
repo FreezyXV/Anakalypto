@@ -1,0 +1,137 @@
+[
+  {
+    "frame": "0",
+    "kind": "interferometer",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "interferometer",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "interferometer",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "blackhole",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "blackhole",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "blackhole",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "webb",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "webb",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "webb",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "infrared",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "infrared",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "infrared",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "adaptiveoptics",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "adaptiveoptics",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "adaptiveoptics",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "moonflight",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "moonflight",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "moonflight",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "lunation",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "lunation",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "lunation",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "polaris",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "polaris",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "polaris",
+    "outside": []
+  },
+  {
+    "frame": "0",
+    "kind": "aurora",
+    "outside": []
+  },
+  {
+    "frame": "1",
+    "kind": "aurora",
+    "outside": []
+  },
+  {
+    "frame": "2",
+    "kind": "aurora",
+    "outside": []
+  }
+]

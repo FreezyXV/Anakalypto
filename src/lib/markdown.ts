@@ -47,6 +47,8 @@ export type RenderedMarkdown = {
 type RenderOptions = {
   /** Chemin de categorie de l'article: il oriente le choix des pictogrammes. */
   categoryPath?: string;
+  /** Existing subject-specific diagram rendered elsewhere on this article page. */
+  figureReference?: { href: string; title: string };
 };
 
 /**
@@ -121,7 +123,10 @@ function removeRedundantSections() {
  * cette chaine: le balisage est produit ici, et sa mise en forme vit dans la classe
  * `figure-placeholder` de globals.css. L'attribut alt sera renseigne avec l'image.
  */
-function transformFigurePlaceholders() {
+function transformFigurePlaceholders(reference?: RenderOptions["figureReference"]) {
+  if (reference && !/^#[a-zA-Z][a-zA-Z0-9_-]*$/.test(reference.href)) {
+    throw new Error("Une référence de schéma doit pointer vers une ancre locale.");
+  }
   return (tree: MdastRoot) => {
     visit(tree, "paragraph", (node: Paragraph, index, parent) => {
       if (!parent || index === undefined) return;
@@ -130,6 +135,14 @@ function transformFigurePlaceholders() {
 
       const caption = match[1];
       if (!caption) return;
+
+      if (reference) {
+        parent.children[index] = {
+          type: "html",
+          value: `<p><a class="btn btn--ghost" href="${escapeHtml(reference.href)}">Revoir le schéma<span class="sr-only"> : ${escapeHtml(reference.title)}</span> →</a></p>`,
+        };
+        return;
+      }
 
       const html =
         '<figure class="figure-placeholder" role="group">' +
@@ -324,6 +337,7 @@ export async function renderMarkdown(
     .use(remarkParse)
     .use(remarkGfm)
     .use(removeRedundantSections)
+    .use(transformFigurePlaceholders, options.figureReference)
     .use(transformFigurePlaceholders)
     .use(transformSchemas)
     .use(remarkRehype, { allowDangerousHtml: true })

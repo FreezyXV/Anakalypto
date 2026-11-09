@@ -1,0 +1,442 @@
+[
+  {
+    "id": "gradient",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Dans cet exemple, le paramètre initial donne une erreur élevée.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "gradient",
+        "live": "À observer · 1 / 3Point de départLa courbe représente une fonction fictive L = (w − 3)², avec w initialement nul. Elle sert à rendre visible une idée d’optimisation, pas à reproduire le paysage d’un véritable réseau profond.",
+        "pressed": "1Point de départ",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un pas dans le sens opposé au gradient réduit l’erreur.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "gradient",
+        "live": "À observer · 2 / 3Premier ajustementAvec un taux d’apprentissage de 0,2, le paramètre passe de 0 à 1,2. La valeur de L passe de 9 à 3,24 ; les points sont placés sur la courbe à partir de ces calculs.",
+        "pressed": "2Premier ajustement",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un autre pas rapproche encore le paramètre du minimum de ce jouet.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "gradient",
+        "live": "À observer · 3 / 3Nouvel ajustementLe paramètre atteint 1,92 et L vaut environ 1,17. Dans un réseau réel, beaucoup de paramètres sont ajustés et la fonction n’a généralement pas cette forme simple ; la baisse globale n’est pas garantie à chaque étape.",
+        "pressed": "3Nouvel ajustement",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "golearning",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La position du plateau est fournie à des réseaux de calcul.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "golearning",
+        "live": "À observer · 1 / 3Représenter une positionLe plateau réduit est un exemple pédagogique de go en 9 × 9, pas une position issue d’un match d’AlphaGo. Les réseaux de politique et de valeur ont des rôles différents : proposer des coups et évaluer des positions.",
+        "pressed": "1Représenter une position",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une recherche explore des suites de coups sélectionnées.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "golearning",
+        "live": "À observer · 2 / 3Explorer des suitesL’arbre réduit montre des branches possibles, sans prétendre visiter toutes les parties. Dans AlphaGo, la recherche combine simulations et évaluations par réseaux ; les traits épais ne sont pas des probabilités mesurées.",
+        "pressed": "2Explorer des suites",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les parties d’entraînement fournissent des résultats pour améliorer les réseaux.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "golearning",
+        "live": "À observer · 3 / 3S’entraîner par le jeuLa boucle représente l’autoconfrontation sur de nombreuses parties. Le point ajouté illustre seulement un coup légal ; le petit plateau n’est pas terminé et aucun résultat de cette position n’est calculé.",
+        "pressed": "3S’entraîner par le jeu",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "overfitting",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les erreurs sur l’entraînement et la validation sont encore élevées.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "overfitting",
+        "live": "À observer · 1 / 3Début d’apprentissageLes deux courbes sont entièrement fictives et utilisent la même échelle. Le temps d’entraînement augmente vers la droite ; il ne s’agit pas du nombre de données ni d’un résultat expérimental.",
+        "pressed": "1Début d’apprentissage",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La validation atteint ici son erreur la plus basse.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "overfitting",
+        "live": "À observer · 2 / 3Comparer sur des données à partLes exemples de validation ne servent pas aux mises à jour des poids. Ils peuvent aider à choisir un réglage ou un moment d’arrêt ; un jeu de test final distinct sert ensuite à évaluer le choix obtenu.",
+        "pressed": "2Comparer sur des données à part",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’erreur d’entraînement baisse encore tandis que celle de validation remonte.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "overfitting",
+        "live": "À observer · 3 / 3SurapprentissageCet écart illustre un surapprentissage possible. La forme des courbes n’est pas universelle et ne résume pas les problèmes de distribution, de fuite de données ou de corrélations trompeuses.",
+        "pressed": "3Surapprentissage",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "attention",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les trois blocs représentent ici des jetons et leur position.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "attention",
+        "live": "À observer · 1 / 3Représenter les jetonsLes mots courts ont été choisis pour simplifier le dessin. En réalité, un jeton peut être une partie de mot ; les représentations sont des vecteurs numériques et une information de position est nécessaire.",
+        "pressed": "1Représenter les jetons",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une tête d’attention combine des valeurs avec des poids normalisés.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "attention",
+        "live": "À observer · 2 / 3Pondérer les liensLes poids 0,2, 0,5 et 0,3 sont choisis pour l’exemple et totalisent 1. Ils ne viennent pas d’un vrai modèle et ne prouvent pas une compréhension grammaticale ni une explication complète de sa réponse.",
+        "pressed": "2Pondérer les liens",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Dans une attention causale, les jetons futurs ne sont pas accessibles.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "attention",
+        "live": "À observer · 3 / 3Masquer le futurLa matrice autorise seulement la diagonale et les positions antérieures. Un encodeur peut utiliser une attention bidirectionnelle ; en génération autorégressive, les nouveaux jetons sont produits successivement.",
+        "pressed": "3Masquer le futur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "arcadelearning",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’agent reçoit des images d’un jeu et des récompenses.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "arcadelearning",
+        "live": "À observer · 1 / 3Observer l’écranLa scène est un jeu fictif de type arcade, pas une capture Atari. Des observations successives peuvent apporter une information de mouvement qu’une seule image ne fournit pas.",
+        "pressed": "1Observer l’écran",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le réseau estime un retour futur pour chaque action possible.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "arcadelearning",
+        "live": "À observer · 2 / 3Estimer les actionsLes trois barres montrent des valeurs Q entièrement inventées, pas des probabilités ni le score immédiat du jeu. La politique peut choisir une action exploratoire au lieu du maximum estimé.",
+        "pressed": "2Estimer les actions",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des transitions stockées sont échantillonnées pour entraîner le réseau.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "arcadelearning",
+        "live": "À observer · 3 / 3Rejouer des expériencesChaque expérience associe état, action, récompense et état suivant. Le tampon est limité et peut oublier d’anciennes transitions ; DQN ne conserve pas indéfiniment tout ce qu’il a vécu.",
+        "pressed": "3Rejouer des expériences",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "exploration",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les actions n’ont pas toutes été essayées autant de fois.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "exploration",
+        "live": "À observer · 1 / 3Ce qui est observéLes fractions indiquent des récompenses observées dans un exemple fictif, pas les probabilités véritables des actions. Celle qui n’a jamais été essayée reste inconnue.",
+        "pressed": "1Ce qui est observé",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’agent choisit ici l’action dont la moyenne observée est la meilleure.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "exploration",
+        "live": "À observer · 2 / 3ExploiterCe choix utilise ce qu’il connaît déjà. Il peut être bon à court terme tout en manquant une autre action encore peu explorée ; le dessin ne révèle pas les distributions cachées.",
+        "pressed": "2Exploiter",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une branche aléatoire peut choisir une action encore inconnue.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "exploration",
+        "live": "À observer · 3 / 3ExplorerAvec epsilon = 0,1, cette branche est choisie avec une probabilité de 10 %, pas exactement une fois toutes les dix actions. Le tirage aléatoire peut aussi retomber sur l’action déjà jugée la meilleure.",
+        "pressed": "3Explorer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "convolution",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une petite image numérique est accompagnée d’un filtre 3 × 3.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "convolution",
+        "live": "À observer · 1 / 3Pixels et filtreL’image binaire contient un bord vertical. Le filtre est choisi à la main pour ce calcul pédagogique ; dans un réseau convolutif entraîné, ses coefficients sont généralement appris.",
+        "pressed": "1Pixels et filtre",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le filtre multiplie les neuf valeurs locales puis additionne les produits.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "convolution",
+        "live": "À observer · 2 / 3Calcul localLa fenêtre orange encadre les pixels utilisés. Le nombre affiché à droite est calculé à partir de cette fenêtre, avec un pas de un pixel et sans ajout de bordure.",
+        "pressed": "2Calcul local",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le même calcul produit une carte qui répond au bord vertical.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "convolution",
+        "live": "À observer · 3 / 3Carte de réponsesL’image 5 × 5 et le filtre 3 × 3 donnent une sortie 3 × 3 dans cette configuration. Les réponses non nulles indiquent un contraste compatible avec ce filtre, pas une reconnaissance d’objet entier.",
+        "pressed": "3Carte de réponses",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "recurrent",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le premier élément met à jour un état à partir de l’état initial.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "recurrent",
+        "live": "À observer · 1 / 3Lire « Le »Le bloc h₁ résulte du mot représenté et de h₀. Les blocs dépliés montrent des appels successifs d’un même calcul, avec des paramètres partagés, pas trois réseaux entraînés séparément.",
+        "pressed": "1Lire « Le »",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le nouvel élément est combiné avec l’état précédent.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "recurrent",
+        "live": "À observer · 2 / 3Lire « chat »La flèche horizontale transmet h₁ au calcul suivant. Un état caché est une représentation numérique comprimée ; ce n’est pas une copie intacte de tous les mots déjà lus.",
+        "pressed": "2Lire « chat »",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La troisième étape produit un nouvel état dépendant du parcours précédent.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "recurrent",
+        "live": "À observer · 3 / 3Lire « dort »L’information ancienne peut être difficile à conserver ou à apprendre sur de longues séquences. Les portes des LSTM aident à gérer cette information, mais elles ne sont pas représentées dans cette chaîne de RNN simple.",
+        "pressed": "3Lire « dort »",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "expertinference",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les propriétés de la figure sont données au système.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "expertinference",
+        "live": "À observer · 1 / 3Faits fournisL’exemple dispose de faits encodés : trois côtés et trois longueurs égales. Il ne doit pas les deviner sur une photographie ; cette étape est distincte de la reconnaissance d’image.",
+        "pressed": "1Faits fournis",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une règle applicable ajoute une nouvelle propriété.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "expertinference",
+        "live": "À observer · 2 / 3Appliquer une règleLa règle « si trois côtés, alors triangle » permet d’ajouter le fait triangle. Le moteur d’inférence recherche les règles dont les conditions correspondent aux faits disponibles.",
+        "pressed": "2Appliquer une règle",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La conclusion d’une règle peut servir à une règle suivante.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "expertinference",
+        "live": "À observer · 3 / 3Enchaîner les règlesÀ partir de triangle et de trois côtés égaux, une seconde règle conclut équilatéral. Ce petit exemple logique illustre un chaînage avant, sans apprendre automatiquement les règles à partir de données.",
+        "pressed": "3Enchaîner les règles",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "diffusion",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La génération peut démarrer d’un échantillon de bruit.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "diffusion",
+        "live": "À observer · 1 / 3Bruit de départLe cadre montre une texture numérique construite pour l’illustration. Il n’y a pas une photographie originale cachée sous ce bruit : une génération cherche à former un nouvel échantillon.",
+        "pressed": "1Bruit de départ",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un modèle appris guide progressivement la transformation du bruit.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "diffusion",
+        "live": "À observer · 2 / 3Étapes guidéesL’encodage du texte conditionne ici l’exemple « une maison ». Le dessin résume de nombreuses évaluations possibles ; ce n’est ni une exécution réelle ni exactement trois opérations de débruitage.",
+        "pressed": "2Étapes guidées",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une image se forme au terme du processus illustré.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "diffusion",
+        "live": "À observer · 3 / 3Image produiteLa maison finale est dessinée pour expliquer le principe, pas générée par un modèle dans cette application. Certains modèles diffusent dans un espace latent puis décodent ce résultat en pixels.",
+        "pressed": "3Image produite",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

@@ -1,0 +1,141 @@
+{
+  "frames": [
+    {
+      "frame": "0",
+      "kind": "inertial",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "inertial",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "inertial",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "reckoning",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "reckoning",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "reckoning",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "aircontrol",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "aircontrol",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "aircontrol",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "airrates",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "airrates",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "airrates",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "tcas",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "tcas",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "tcas",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "adsb",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "adsb",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "adsb",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "recorders",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "recorders",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "recorders",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "investigation",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "investigation",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "investigation",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "certification",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "certification",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "certification",
+      "outside": []
+    }
+  ],
+  "scrollWidth": 1280,
+  "width": 1280
+}

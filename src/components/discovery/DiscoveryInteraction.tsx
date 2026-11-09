@@ -3,6 +3,8 @@
 import type { DiscoveryStep } from "@/lib/discovery/schema";
 import { PISTON_PHASES, pistonState } from "@/lib/discovery/visual-state";
 import { isSequentialKind, MECHANISM_STAGES } from "@/lib/discovery/mechanisms";
+import { moonModel, MOON_PHASES } from "@/lib/discovery/models";
+import { rangeValueLabel } from "@/lib/discovery/control-label";
 
 export function DiscoveryInteraction({
   step,
@@ -71,28 +73,13 @@ export function DiscoveryInteraction({
         </p>
       </div>
     );
-  const level =
-    (value ?? 0) === 0
-      ? interaction.minLabel
-      : (value ?? 0) < 34
-        ? "Faible"
-        : (value ?? 0) < 67
-          ? "Modéré"
-          : "Important";
   const labels = isSequentialKind(step.visual.kind)
     ? MECHANISM_STAGES[step.visual.kind]
     : step.visual.kind === "flow"
       ? step.visual.labels
       : undefined;
   const stage = labels ? Math.round(((value ?? 0) / 100) * (labels.length - 1)) : undefined;
-  const valueLabel =
-    step.visual.kind === "piston"
-      ? pistonState(value ?? 0).cycleComplete
-        ? "Cycle terminé : retour à l’admission"
-        : `Temps ${pistonState(value ?? 0).phase + 1} : ${pistonState(value ?? 0).name}`
-      : labels && stage !== undefined
-        ? `Étape ${stage + 1} : ${labels[stage]}`
-        : level;
+  const valueLabel = rangeValueLabel(step.visual, interaction, value ?? 0);
   return (
     <div className="discovery-interaction">
       <label htmlFor={`range-${step.id}`}>
@@ -103,7 +90,7 @@ export function DiscoveryInteraction({
         type="range"
         min="0"
         max="100"
-        step={step.visual.kind === "piston" ? 1 : 10}
+        step={["piston", "lever", "buoyancy", "moon", "gears"].includes(step.visual.kind) ? 1 : 10}
         value={value ?? 0}
         aria-valuetext={valueLabel}
         onChange={(event) => onValue(Number(event.target.value))}
@@ -140,6 +127,22 @@ export function DiscoveryInteraction({
               onClick={() => onValue(index * 25)}
             >
               {index + 1}. {name}
+            </button>
+          ))}
+        </div>
+      )}
+      {step.visual.kind === "moon" && (
+        <div className="discovery-stage-options" aria-label="Choisir une phase de la Lune">
+          {MOON_PHASES.map((name, index) => (
+            <button
+              key={name}
+              type="button"
+              className="discovery-option"
+              aria-pressed={moonModel(value ?? 0).phase === index}
+              data-selected={moonModel(value ?? 0).phase === index}
+              onClick={() => onValue(Math.round((index * 100) / 7))}
+            >
+              {name}
             </button>
           ))}
         </div>

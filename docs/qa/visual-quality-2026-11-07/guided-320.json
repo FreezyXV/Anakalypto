@@ -1,0 +1,2321 @@
+[
+  {
+    "slug": "allumer-une-lampe",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "L’interrupteur sépare les contacts : le trajet est ouvert. Aucun courant ne circule dans ce circuit ; la lampe reste éteinte.",
+        "invalidGeometry": false,
+        "labels": ["Un trajet ouvert : la lampe s’éteint", "Interrupteur", "Pile", "Lampe"],
+        "scrollWidth": 320,
+        "title": "Un trajet interrompu",
+        "visibleCaption": "Circuit ouvert : pas de courant, la lampe reste éteinte.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "L’interrupteur sépare les contacts : le trajet est ouvert. Aucun courant ne circule dans ce circuit ; la lampe reste éteinte.",
+        "invalidGeometry": false,
+        "labels": ["Un trajet ouvert : la lampe s’éteint", "Interrupteur", "Pile", "Lampe"],
+        "scrollWidth": 320,
+        "title": "Ferme le circuit",
+        "visibleCaption": "Circuit ouvert : pas de courant, la lampe reste éteinte.",
+        "width": 320
+      },
+      {
+        "id": "predire",
+        "fullCaption": "L’interrupteur ferme le trajet entre les deux bornes de la pile, à travers la lampe. Le courant circule dans la boucle et la lampe s’allume ; les flèches donnent son sens conventionnel.",
+        "invalidGeometry": false,
+        "labels": ["Un trajet fermé : la lampe s’allume", "Interrupteur", "Pile", "Lampe"],
+        "scrollWidth": 320,
+        "title": "Une coupure suffit",
+        "visibleCaption": "Le courant circule dans la boucle fermée : la lampe brille.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "L’interrupteur ferme le trajet entre les deux bornes de la pile, à travers la lampe. Le courant circule dans la boucle et la lampe s’allume ; les flèches donnent son sens conventionnel.",
+        "invalidGeometry": false,
+        "labels": ["Un trajet fermé : la lampe s’allume", "Interrupteur", "Pile", "Lampe"],
+        "scrollWidth": 320,
+        "title": "L’interrupteur contrôle le trajet",
+        "visibleCaption": "Le courant circule dans la boucle fermée : la lampe brille.",
+        "width": 320
+      },
+      {
+        "id": "defi",
+        "fullCaption": "L’interrupteur ferme le trajet entre les deux bornes de la pile, à travers la lampe. Le courant circule dans la boucle et la lampe s’allume ; les flèches donnent son sens conventionnel.",
+        "invalidGeometry": false,
+        "labels": ["Un trajet fermé : la lampe s’allume", "Interrupteur", "Pile", "Lampe"],
+        "scrollWidth": 320,
+        "title": "Trouve la condition",
+        "visibleCaption": "Le courant circule dans la boucle fermée : la lampe brille.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "de-la-pate-a-la-feuille",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Des fibres sont dispersées dans beaucoup d’eau.",
+        "invalidGeometry": false,
+        "labels": [
+          "Retirer l’eau, garder les fibres",
+          "Pâte",
+          "Toile",
+          "Eau ↓",
+          "Presses",
+          "Chaleur",
+          "Bobine",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Pâte diluée"
+        ],
+        "scrollWidth": 320,
+        "title": "Une soupe de fibres",
+        "visibleCaption": "Des fibres sont dispersées dans beaucoup d’eau.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "La feuille presque sèche est enroulée en bobine.",
+        "invalidGeometry": false,
+        "labels": [
+          "Retirer l’eau, garder les fibres",
+          "Pâte",
+          "Toile",
+          "Eau ↓",
+          "Presses",
+          "Chaleur",
+          "Bobine",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Feuille en bobine"
+        ],
+        "scrollWidth": 320,
+        "title": "Retire l'eau",
+        "visibleCaption": "La feuille presque sèche est enroulée en bobine.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "L’eau traverse la toile ; les fibres restent et forment un tapis.",
+        "invalidGeometry": false,
+        "labels": [
+          "Retirer l’eau, garder les fibres",
+          "Pâte",
+          "Toile",
+          "Eau ↓",
+          "Presses",
+          "Chaleur",
+          "Bobine",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Égouttage"
+        ],
+        "scrollWidth": 320,
+        "title": "Où naît la feuille ?",
+        "visibleCaption": "L’eau traverse la toile ; les fibres restent et forment un tapis.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "La feuille presque sèche est enroulée en bobine.",
+        "invalidGeometry": false,
+        "labels": [
+          "Retirer l’eau, garder les fibres",
+          "Pâte",
+          "Toile",
+          "Eau ↓",
+          "Presses",
+          "Chaleur",
+          "Bobine",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Feuille en bobine"
+        ],
+        "scrollWidth": 320,
+        "title": "Presque sec",
+        "visibleCaption": "La feuille presque sèche est enroulée en bobine.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Des fibres sont dispersées dans beaucoup d’eau.",
+        "invalidGeometry": false,
+        "labels": [
+          "Retirer l’eau, garder les fibres",
+          "Pâte",
+          "Toile",
+          "Eau ↓",
+          "Presses",
+          "Chaleur",
+          "Bobine",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Pâte diluée"
+        ],
+        "scrollWidth": 320,
+        "title": "Une seconde vie",
+        "visibleCaption": "Des fibres sont dispersées dans beaucoup d’eau.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "La feuille presque sèche est enroulée en bobine.",
+        "invalidGeometry": false,
+        "labels": [
+          "Retirer l’eau, garder les fibres",
+          "Pâte",
+          "Toile",
+          "Eau ↓",
+          "Presses",
+          "Chaleur",
+          "Bobine",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Feuille en bobine"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "La feuille presque sèche est enroulée en bobine.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "deux-roues-deux-vitesses",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "La roue de 12 dents tourne de 0° ; celle de 18 dents de 0° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+        "invalidGeometry": false,
+        "labels": ["12 dents entraînent 18 dents", "Entrée", "Sortie", "0° ↻", "0° ↺"],
+        "scrollWidth": 320,
+        "title": "Deux repères à suivre",
+        "visibleCaption": "12 dents → 18 dents : 0° → 0°, en sens opposés.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "La roue de 12 dents tourne de 360° ; celle de 18 dents de 240° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+        "invalidGeometry": false,
+        "labels": ["12 dents entraînent 18 dents", "Entrée", "Sortie", "360° ↻", "240° ↺"],
+        "scrollWidth": 320,
+        "title": "Fais un tour de moteur",
+        "visibleCaption": "12 dents → 18 dents : 360° → 240°, en sens opposés.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "La roue de 12 dents tourne de 360° ; celle de 18 dents de 240° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+        "invalidGeometry": false,
+        "labels": ["12 dents entraînent 18 dents", "Entrée", "Sortie", "360° ↻", "240° ↺"],
+        "scrollWidth": 320,
+        "title": "Quel sens de rotation ?",
+        "visibleCaption": "12 dents → 18 dents : 360° → 240°, en sens opposés.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "La roue de 12 dents tourne de 360° ; celle de 18 dents de 240° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+        "invalidGeometry": false,
+        "labels": ["12 dents entraînent 18 dents", "Entrée", "Sortie", "360° ↻", "240° ↺"],
+        "scrollWidth": 320,
+        "title": "Douze dents contre dix-huit",
+        "visibleCaption": "12 dents → 18 dents : 360° → 240°, en sens opposés.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "La roue de 12 dents tourne de 360° ; celle de 18 dents de 240° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+        "invalidGeometry": false,
+        "labels": ["12 dents entraînent 18 dents", "Entrée", "Sortie", "360° ↻", "240° ↺"],
+        "scrollWidth": 320,
+        "title": "Un tour n’est pas un tour",
+        "visibleCaption": "12 dents → 18 dents : 360° → 240°, en sens opposés.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "La roue de 12 dents tourne de 360° ; celle de 18 dents de 240° dans le sens opposé. Le rapport est 12/18 : un tour entraîne deux tiers de tour. Profils des dents symboliques.",
+        "invalidGeometry": false,
+        "labels": ["12 dents entraînent 18 dents", "Entrée", "Sortie", "360° ↻", "240° ↺"],
+        "scrollWidth": 320,
+        "title": "Compte les dents",
+        "visibleCaption": "12 dents → 18 dents : 360° → 240°, en sens opposés.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "feuille-et-lumiere",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Sans lumière, l’apport d’énergie lumineuse s’arrête. Eau et CO₂ restent des ingrédients ; les réserves d’énergie peuvent encore servir brièvement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Sans nouvel apport de lumière",
+          "Eau : H₂O",
+          "Disponible",
+          "O₂",
+          "Calvin",
+          "ATP requis",
+          "CO₂",
+          "ATP / NADPH",
+          "Vue symbolique à l’intérieur d’une feuille",
+          "O₂ issu de l’eau · carbone du sucre issu du CO₂"
+        ],
+        "scrollWidth": 320,
+        "title": "Une feuille, de l'eau et de l'air",
+        "visibleCaption": "Sans lumière : pas de nouvel apport d’énergie lumineuse.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Sans lumière, l’apport d’énergie lumineuse s’arrête. Eau et CO₂ restent des ingrédients ; les réserves d’énergie peuvent encore servir brièvement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Sans nouvel apport de lumière",
+          "Eau : H₂O",
+          "Disponible",
+          "O₂",
+          "Calvin",
+          "ATP requis",
+          "CO₂",
+          "ATP / NADPH",
+          "Vue symbolique à l’intérieur d’une feuille",
+          "O₂ issu de l’eau · carbone du sucre issu du CO₂"
+        ],
+        "scrollWidth": 320,
+        "title": "Allume la lumière",
+        "visibleCaption": "Sans lumière : pas de nouvel apport d’énergie lumineuse.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "La lumière fournit l’énergie. L’eau libère l’O₂ ; le carbone du CO₂ sert au sucre. Les deux trajets sont distincts.",
+        "invalidGeometry": false,
+        "labels": [
+          "Lumière : énergie pour la feuille",
+          "Eau : H₂O",
+          "O₂ libéré",
+          "O₂",
+          "Calvin",
+          "Sucre",
+          "CO₂",
+          "ATP / NADPH",
+          "Vue symbolique à l’intérieur d’une feuille",
+          "O₂ issu de l’eau · carbone du sucre issu du CO₂"
+        ],
+        "scrollWidth": 320,
+        "title": "D'où vient l'oxygène ?",
+        "visibleCaption": "Lumière : énergie. Eau : O₂ libéré. CO₂ : carbone du sucre.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "La lumière fournit l’énergie. L’eau libère l’O₂ ; le carbone du CO₂ sert au sucre. Les deux trajets sont distincts.",
+        "invalidGeometry": false,
+        "labels": [
+          "Lumière : énergie pour la feuille",
+          "Eau : H₂O",
+          "O₂ libéré",
+          "O₂",
+          "Calvin",
+          "Sucre",
+          "CO₂",
+          "ATP / NADPH",
+          "Vue symbolique à l’intérieur d’une feuille",
+          "O₂ issu de l’eau · carbone du sucre issu du CO₂"
+        ],
+        "scrollWidth": 320,
+        "title": "Des piles chargées",
+        "visibleCaption": "Lumière : énergie. Eau : O₂ libéré. CO₂ : carbone du sucre.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Sans lumière, l’apport d’énergie lumineuse s’arrête. Eau et CO₂ restent des ingrédients ; les réserves d’énergie peuvent encore servir brièvement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Sans nouvel apport de lumière",
+          "Eau : H₂O",
+          "Disponible",
+          "O₂",
+          "Calvin",
+          "ATP requis",
+          "CO₂",
+          "ATP / NADPH",
+          "Vue symbolique à l’intérieur d’une feuille",
+          "O₂ issu de l’eau · carbone du sucre issu du CO₂"
+        ],
+        "scrollWidth": 320,
+        "title": "Et dans un placard ?",
+        "visibleCaption": "Sans lumière : pas de nouvel apport d’énergie lumineuse.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "La lumière fournit l’énergie. L’eau libère l’O₂ ; le carbone du CO₂ sert au sucre. Les deux trajets sont distincts.",
+        "invalidGeometry": false,
+        "labels": [
+          "Lumière : énergie pour la feuille",
+          "Eau : H₂O",
+          "O₂ libéré",
+          "O₂",
+          "Calvin",
+          "Sucre",
+          "CO₂",
+          "ATP / NADPH",
+          "Vue symbolique à l’intérieur d’une feuille",
+          "O₂ issu de l’eau · carbone du sucre issu du CO₂"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "Lumière : énergie. Eau : O₂ libéré. CO₂ : carbone du sucre.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "la-bouteille-qui-revient",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Une tasse en céramique est mêlée aux bouteilles. Le lot doit être trié avant d’aller au broyage et au four.",
+        "invalidGeometry": false,
+        "labels": [
+          "Trier avant de broyer et refondre",
+          "À trier",
+          "Collecte",
+          "Calcin",
+          "Four",
+          "Moulage",
+          "Le lot avec intrus ne part pas tel quel au four"
+        ],
+        "scrollWidth": 320,
+        "title": "Dans le conteneur",
+        "visibleCaption": "La céramique doit être écartée avant le broyage et la refonte.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Une tasse en céramique est mêlée aux bouteilles. Le lot doit être trié avant d’aller au broyage et au four.",
+        "invalidGeometry": false,
+        "labels": [
+          "Trier avant de broyer et refondre",
+          "À trier",
+          "Collecte",
+          "Calcin",
+          "Four",
+          "Moulage",
+          "Le lot avec intrus ne part pas tel quel au four"
+        ],
+        "scrollWidth": 320,
+        "title": "Retire les intrus",
+        "visibleCaption": "La céramique doit être écartée avant le broyage et la refonte.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille.",
+        "invalidGeometry": false,
+        "labels": [
+          "Trier avant de broyer et refondre",
+          "Intrus écarté",
+          "Collecte",
+          "Calcin",
+          "Four",
+          "Moulage",
+          "Le verre d’emballage peut recommencer le cycle"
+        ],
+        "scrollWidth": 320,
+        "title": "Le bon conteneur",
+        "visibleCaption": "Trier → broyer → refondre → mouler : un nouveau cycle.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille.",
+        "invalidGeometry": false,
+        "labels": [
+          "Trier avant de broyer et refondre",
+          "Intrus écarté",
+          "Collecte",
+          "Calcin",
+          "Four",
+          "Moulage",
+          "Le verre d’emballage peut recommencer le cycle"
+        ],
+        "scrollWidth": 320,
+        "title": "Le calcin, un raccourci",
+        "visibleCaption": "Trier → broyer → refondre → mouler : un nouveau cycle.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille.",
+        "invalidGeometry": false,
+        "labels": [
+          "Trier avant de broyer et refondre",
+          "Intrus écarté",
+          "Collecte",
+          "Calcin",
+          "Four",
+          "Moulage",
+          "Le verre d’emballage peut recommencer le cycle"
+        ],
+        "scrollWidth": 320,
+        "title": "Pourquoi c'est utile",
+        "visibleCaption": "Trier → broyer → refondre → mouler : un nouveau cycle.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille.",
+        "invalidGeometry": false,
+        "labels": [
+          "Trier avant de broyer et refondre",
+          "Intrus écarté",
+          "Collecte",
+          "Calcin",
+          "Four",
+          "Moulage",
+          "Le verre d’emballage peut recommencer le cycle"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "Trier → broyer → refondre → mouler : un nouveau cycle.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "la-couleur-dans-le-mur",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Enduit de chaux encore frais, avant la couleur.",
+        "invalidGeometry": false,
+        "labels": [
+          "La chaux fixe les grains de couleur",
+          "Mur",
+          "Enduit",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Enduit frais"
+        ],
+        "scrollWidth": 320,
+        "title": "Un mur encore humide",
+        "visibleCaption": "Enduit de chaux encore frais, avant la couleur.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+        "invalidGeometry": false,
+        "labels": [
+          "La chaux fixe les grains de couleur",
+          "Mur",
+          "Enduit",
+          "CO₂ de l’air",
+          "Cristaux autour",
+          "des pigments",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Pigments fixés"
+        ],
+        "scrollWidth": 320,
+        "title": "Observe la prise de la chaux",
+        "visibleCaption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Des cristaux de carbonate de calcium se forment autour des pigments.",
+        "invalidGeometry": false,
+        "labels": [
+          "La chaux fixe les grains de couleur",
+          "Mur",
+          "Enduit",
+          "CO₂ de l’air",
+          "Cristaux autour",
+          "des pigments",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Cristaux formés"
+        ],
+        "scrollWidth": 320,
+        "title": "Sans colle",
+        "visibleCaption": "Des cristaux de carbonate de calcium se forment autour des pigments.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+        "invalidGeometry": false,
+        "labels": [
+          "La chaux fixe les grains de couleur",
+          "Mur",
+          "Enduit",
+          "CO₂ de l’air",
+          "Cristaux autour",
+          "des pigments",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Pigments fixés"
+        ],
+        "scrollWidth": 320,
+        "title": "Une course contre la montre",
+        "visibleCaption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Le nouvel ajout de pigment reste sur l’enduit déjà durci. Il n’est pas incorporé de la même manière qu’un pigment posé sur enduit frais.",
+        "invalidGeometry": false,
+        "labels": [
+          "Une retouche reste en surface",
+          "Mur",
+          "Enduit",
+          "Ajout en surface",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Retouche en surface"
+        ],
+        "scrollWidth": 320,
+        "title": "Une retouche le lendemain",
+        "visibleCaption": "Le nouvel ajout de pigment reste sur l’enduit déjà durci. Il n’est pas incorporé de la même manière qu’un pigment posé sur enduit frais.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+        "invalidGeometry": false,
+        "labels": [
+          "La chaux fixe les grains de couleur",
+          "Mur",
+          "Enduit",
+          "CO₂ de l’air",
+          "Cristaux autour",
+          "des pigments",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Pigments fixés"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "la-lune-et-nos-points-de-vue",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Premier croissant : environ 15 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "La lumière reste, la vue change",
+          "Soleil",
+          "Terre",
+          "Vue de la Terre",
+          "Orbite simplifiée",
+          "Premier",
+          "croissant"
+        ],
+        "scrollWidth": 320,
+        "title": "Un croissant, une boule",
+        "visibleCaption": "Premier croissant : 15 % du disque visible est éclairé.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Dernier croissant : environ 15 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "La lumière reste, la vue change",
+          "Soleil",
+          "Terre",
+          "Vue de la Terre",
+          "Orbite simplifiée",
+          "Dernier",
+          "croissant"
+        ],
+        "scrollWidth": 320,
+        "title": "Change le point de vue",
+        "visibleCaption": "Dernier croissant : 15 % du disque visible est éclairé.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Nouvelle Lune : environ 0 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "La lumière reste, la vue change",
+          "Soleil",
+          "Terre",
+          "Vue de la Terre",
+          "Orbite simplifiée",
+          "Nouvelle",
+          "Lune"
+        ],
+        "scrollWidth": 320,
+        "title": "La nouvelle Lune",
+        "visibleCaption": "Nouvelle Lune : 0 % du disque visible est éclairé.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Premier quartier : environ 50 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "La lumière reste, la vue change",
+          "Soleil",
+          "Terre",
+          "Vue de la Terre",
+          "Orbite simplifiée",
+          "Premier",
+          "quartier"
+        ],
+        "scrollWidth": 320,
+        "title": "Quartier ou croissant ?",
+        "visibleCaption": "Premier quartier : 50 % du disque visible est éclairé.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Gibbeuse décroissante : environ 85 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "La lumière reste, la vue change",
+          "Soleil",
+          "Terre",
+          "Vue de la Terre",
+          "Orbite simplifiée",
+          "Gibbeuse",
+          "décroissante"
+        ],
+        "scrollWidth": 320,
+        "title": "Une phase ou une éclipse ?",
+        "visibleCaption": "Gibbeuse décroissante : 85 % du disque visible est éclairé.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Pleine Lune : environ 100 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "La lumière reste, la vue change",
+          "Soleil",
+          "Terre",
+          "Vue de la Terre",
+          "Orbite simplifiée",
+          "Pleine",
+          "Lune"
+        ],
+        "scrollWidth": 320,
+        "title": "La règle des deux vues",
+        "visibleCaption": "Pleine Lune : 100 % du disque visible est éclairé.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "la-voix-dans-le-fil",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Silence : pas de vibration de voix représentée, ni de variation du signal liée à cette voix. La ligne plate ne signifie pas qu’aucun courant électrique ne peut exister.",
+        "invalidGeometry": false,
+        "labels": [
+          "Son → courant variable → son",
+          "Voix",
+          "Courant",
+          "Son recréé",
+          "Micro",
+          "Fil électrique",
+          "Écouteur",
+          "Silence : pas de variation liée à la voix"
+        ],
+        "scrollWidth": 320,
+        "title": "Deux maisons, un fil",
+        "visibleCaption": "Silence : pas de variation liée à la voix.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Silence : pas de vibration de voix représentée, ni de variation du signal liée à cette voix. La ligne plate ne signifie pas qu’aucun courant électrique ne peut exister.",
+        "invalidGeometry": false,
+        "labels": [
+          "Son → courant variable → son",
+          "Voix",
+          "Courant",
+          "Son recréé",
+          "Micro",
+          "Fil électrique",
+          "Écouteur",
+          "Silence : pas de variation liée à la voix"
+        ],
+        "scrollWidth": 320,
+        "title": "Parle dans le micro",
+        "visibleCaption": "Silence : pas de variation liée à la voix.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Le son fait vibrer la membrane du micro. Le courant varie selon la voix ; l’écouteur recrée des vibrations de l’air. Les courbes sont symboliques.",
+        "invalidGeometry": false,
+        "labels": [
+          "Son → courant variable → son",
+          "Voix",
+          "Courant",
+          "Son recréé",
+          "Micro",
+          "Fil électrique",
+          "Écouteur",
+          "Même forme illustrée · signaux différents"
+        ],
+        "scrollWidth": 320,
+        "title": "Dans le fil",
+        "visibleCaption": "La voix devient un courant variable, puis un son recréé.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Le son fait vibrer la membrane du micro. Le courant varie selon la voix ; l’écouteur recrée des vibrations de l’air. Les courbes sont symboliques.",
+        "invalidGeometry": false,
+        "labels": [
+          "Son → courant variable → son",
+          "Voix",
+          "Courant",
+          "Son recréé",
+          "Micro",
+          "Fil électrique",
+          "Écouteur",
+          "Même forme illustrée · signaux différents"
+        ],
+        "scrollWidth": 320,
+        "title": "Le chemin inverse",
+        "visibleCaption": "La voix devient un courant variable, puis un son recréé.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Le son fait vibrer la membrane du micro. Le courant varie selon la voix ; l’écouteur recrée des vibrations de l’air. Les courbes sont symboliques.",
+        "invalidGeometry": false,
+        "labels": [
+          "Son → courant variable → son",
+          "Voix",
+          "Courant",
+          "Son recréé",
+          "Micro",
+          "Fil électrique",
+          "Écouteur",
+          "Même forme illustrée · signaux différents"
+        ],
+        "scrollWidth": 320,
+        "title": "Le rôle de l'écouteur",
+        "visibleCaption": "La voix devient un courant variable, puis un son recréé.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Le son fait vibrer la membrane du micro. Le courant varie selon la voix ; l’écouteur recrée des vibrations de l’air. Les courbes sont symboliques.",
+        "invalidGeometry": false,
+        "labels": [
+          "Son → courant variable → son",
+          "Voix",
+          "Courant",
+          "Son recréé",
+          "Micro",
+          "Fil électrique",
+          "Écouteur",
+          "Même forme illustrée · signaux différents"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "La voix devient un courant variable, puis un son recréé.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "le-bateau-et-l-eau-deplacee",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "400 kg au total ; 400 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "invalidGeometry": false,
+        "labels": [
+          "Masse totale : 400 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "3.9 kN",
+          "Poids",
+          "3.9 kN",
+          "Eau déplacée : 400 L"
+        ],
+        "scrollWidth": 320,
+        "title": "L’eau pousse aussi",
+        "visibleCaption": "400 kg, 400 L déplacés. À flot : poids et poussée égaux.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "1200 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "invalidGeometry": false,
+        "labels": [
+          "Masse totale : 1200 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "9.8 kN",
+          "Poids",
+          "11.8 kN",
+          "Eau déplacée : 1000 L"
+        ],
+        "scrollWidth": 320,
+        "title": "Ajoute de la charge",
+        "visibleCaption": "1200 kg, 1000 L déplacés. La poussée ne suffit plus.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "720 kg au total ; 720 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "invalidGeometry": false,
+        "labels": [
+          "Masse totale : 720 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "7.1 kN",
+          "Poids",
+          "7.1 kN",
+          "Eau déplacée : 720 L"
+        ],
+        "scrollWidth": 320,
+        "title": "Une coque plus chargée",
+        "visibleCaption": "720 kg, 720 L déplacés. À flot : poids et poussée égaux.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "1000 kg au total ; 1000 L déplacés. La coque est entièrement immergée : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "invalidGeometry": false,
+        "labels": [
+          "Masse totale : 1000 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "9.8 kN",
+          "Poids",
+          "9.8 kN",
+          "Eau déplacée : 1000 L"
+        ],
+        "scrollWidth": 320,
+        "title": "Un volume, une limite",
+        "visibleCaption": "1000 kg, 1000 L déplacés. Immersion complète : poids et poussée égaux.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "1200 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "invalidGeometry": false,
+        "labels": [
+          "Masse totale : 1200 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "9.8 kN",
+          "Poids",
+          "11.8 kN",
+          "Eau déplacée : 1000 L"
+        ],
+        "scrollWidth": 320,
+        "title": "Et si on dépasse ?",
+        "visibleCaption": "1200 kg, 1000 L déplacés. La poussée ne suffit plus.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "400 kg au total ; 400 L déplacés. La coque flotte : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+        "invalidGeometry": false,
+        "labels": [
+          "Masse totale : 400 kg",
+          "Coque étanche",
+          "1 m³ au maximum",
+          "Poussée",
+          "3.9 kN",
+          "Poids",
+          "3.9 kN",
+          "Eau déplacée : 400 L"
+        ],
+        "scrollWidth": 320,
+        "title": "Le poids de l’eau déplacée",
+        "visibleCaption": "400 kg, 400 L déplacés. À flot : poids et poussée égaux.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "le-pain-qui-gonfle",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Pâte avant fermentation : aucune bulle de levée n’est représentée. Le levain n’a pas encore été ajouté dans cette expérience.",
+        "invalidGeometry": false,
+        "labels": [
+          "La pâte avant l’ajout de levain",
+          "La pâte reste plate",
+          "Levain",
+          "pas encore",
+          "ajouté"
+        ],
+        "scrollWidth": 320,
+        "title": "Une pâte toute plate",
+        "visibleCaption": "Avant l’ajout de levain : aucune bulle de levée représentée.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Pâte avant fermentation : aucune bulle de levée n’est représentée. Le levain n’a pas encore été ajouté dans cette expérience.",
+        "invalidGeometry": false,
+        "labels": [
+          "La pâte avant l’ajout de levain",
+          "La pâte reste plate",
+          "Levain",
+          "pas encore",
+          "ajouté"
+        ],
+        "scrollWidth": 320,
+        "title": "Ajoute le levain",
+        "visibleCaption": "Avant l’ajout de levain : aucune bulle de levée représentée.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps.",
+        "invalidGeometry": false,
+        "labels": [
+          "Des bulles prises dans la pâte",
+          "La pâte gonfle",
+          "CO₂",
+          "Acides",
+          "Levures",
+          "Bactéries"
+        ],
+        "scrollWidth": 320,
+        "title": "Qui fait les bulles ?",
+        "visibleCaption": "Les bulles de CO₂ font gonfler la pâte.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Deux trajets distinguent les rôles dominants : les levures produisent surtout du CO₂, qui forme les bulles ; les bactéries produisent surtout des acides, qui contribuent au goût. Les symboles ne représentent ni une taille ni un nombre réel de microbes.",
+        "invalidGeometry": false,
+        "labels": [
+          "Dans le levain, deux rôles",
+          "Levures",
+          "Surtout du gaz",
+          "CO₂",
+          "Bactéries",
+          "Surtout des acides",
+          "Goût et acidité",
+          "Microbes agrandis · rôles dominants"
+        ],
+        "scrollWidth": 320,
+        "title": "Deux équipes",
+        "visibleCaption": "Levures : surtout du gaz. Bactéries : surtout des acides.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Deux trajets distinguent les rôles dominants : les levures produisent surtout du CO₂, qui forme les bulles ; les bactéries produisent surtout des acides, qui contribuent au goût. Les symboles ne représentent ni une taille ni un nombre réel de microbes.",
+        "invalidGeometry": false,
+        "labels": [
+          "Dans le levain, deux rôles",
+          "Levures",
+          "Surtout du gaz",
+          "CO₂",
+          "Bactéries",
+          "Surtout des acides",
+          "Goût et acidité",
+          "Microbes agrandis · rôles dominants"
+        ],
+        "scrollWidth": 320,
+        "title": "Le goût du pain",
+        "visibleCaption": "Levures : surtout du gaz. Bactéries : surtout des acides.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps.",
+        "invalidGeometry": false,
+        "labels": [
+          "Des bulles prises dans la pâte",
+          "La pâte gonfle",
+          "CO₂",
+          "Acides",
+          "Levures",
+          "Bactéries"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "Les bulles de CO₂ font gonfler la pâte.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "le-pilote-qui-corrige",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Consigne et capteurs restent disponibles. La commande automatique des gouvernes est interrompue ; les pilotes tiennent les commandes.",
+        "invalidGeometry": false,
+        "labels": [
+          "Les pilotes choisissent la consigne",
+          "Consigne choisie",
+          "Gouvernes",
+          "Capteurs",
+          "Mesurer",
+          "Calculateur",
+          "Comparer",
+          "Servomoteurs",
+          "Commander",
+          "Capteurs disponibles · commande manuelle"
+        ],
+        "scrollWidth": 320,
+        "title": "Une consigne",
+        "visibleCaption": "Capteurs disponibles ; commande automatique interrompue.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Consigne et capteurs restent disponibles. La commande automatique des gouvernes est interrompue ; les pilotes tiennent les commandes.",
+        "invalidGeometry": false,
+        "labels": [
+          "Les pilotes choisissent la consigne",
+          "Consigne choisie",
+          "Gouvernes",
+          "Capteurs",
+          "Mesurer",
+          "Calculateur",
+          "Comparer",
+          "Servomoteurs",
+          "Commander",
+          "Capteurs disponibles · commande manuelle"
+        ],
+        "scrollWidth": 320,
+        "title": "Engage le pilote automatique",
+        "visibleCaption": "Capteurs disponibles ; commande automatique interrompue.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle.",
+        "invalidGeometry": false,
+        "labels": [
+          "Les pilotes choisissent la consigne",
+          "Consigne choisie",
+          "Gouvernes",
+          "Capteurs",
+          "Mesurer",
+          "Calculateur",
+          "Comparer",
+          "Servomoteurs",
+          "Commander",
+          "Gouvernes → état de l’avion → capteurs"
+        ],
+        "scrollWidth": 320,
+        "title": "Le cerveau",
+        "visibleCaption": "Mesurer → comparer → commander → mesurer à nouveau.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle.",
+        "invalidGeometry": false,
+        "labels": [
+          "Les pilotes choisissent la consigne",
+          "Consigne choisie",
+          "Gouvernes",
+          "Capteurs",
+          "Mesurer",
+          "Calculateur",
+          "Comparer",
+          "Servomoteurs",
+          "Commander",
+          "Gouvernes → état de l’avion → capteurs"
+        ],
+        "scrollWidth": 320,
+        "title": "Les muscles",
+        "visibleCaption": "Mesurer → comparer → commander → mesurer à nouveau.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Une rafale écarte l’avion de la consigne. Les capteurs mesurent cet écart ; le calculateur commande une correction par les servomoteurs et les gouvernes. La nouvelle mesure revient dans la boucle.",
+        "invalidGeometry": false,
+        "labels": [
+          "Une rafale : mesurer et corriger",
+          "Consigne choisie",
+          "Gouvernes",
+          "Capteurs",
+          "Mesurer",
+          "Calculateur",
+          "Comparer",
+          "Servomoteurs",
+          "Commander",
+          "Gouvernes → état de l’avion → capteurs"
+        ],
+        "scrollWidth": 320,
+        "title": "Un coup de vent",
+        "visibleCaption": "Rafale : l’écart mesuré entraîne une correction des gouvernes.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle.",
+        "invalidGeometry": false,
+        "labels": [
+          "Les pilotes choisissent la consigne",
+          "Consigne choisie",
+          "Gouvernes",
+          "Capteurs",
+          "Mesurer",
+          "Calculateur",
+          "Comparer",
+          "Servomoteurs",
+          "Commander",
+          "Gouvernes → état de l’avion → capteurs"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "Mesurer → comparer → commander → mesurer à nouveau.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "le-turbo",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Aucun flux dans ce modèle : les roues sont arrêtées.",
+        "invalidGeometry": false,
+        "labels": [
+          "Deux flux, un même axe",
+          "Gaz du moteur",
+          "Air vers le moteur",
+          "Axe",
+          "Turbine",
+          "Compresseur",
+          "Vers l’échappement",
+          "Air extérieur",
+          "Roues arrêtées"
+        ],
+        "scrollWidth": 320,
+        "title": "Deux roues, un axe",
+        "visibleCaption": "Sans flux dans ce modèle, les roues sont arrêtées.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent rapidement, avec un même axe. La vitesse illustrée est qualitative.",
+        "invalidGeometry": false,
+        "labels": [
+          "Deux flux, un même axe",
+          "Gaz du moteur",
+          "Air vers le moteur",
+          "Axe",
+          "Turbine",
+          "Compresseur",
+          "Vers l’échappement",
+          "Air extérieur",
+          "Rotation rapide · vue en coupe"
+        ],
+        "scrollWidth": 320,
+        "title": "Fais varier le flux",
+        "visibleCaption": "Les gaz entraînent la turbine ; l’axe fait tourner le compresseur.",
+        "width": 320
+      },
+      {
+        "id": "predire",
+        "fullCaption": "Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent rapidement, avec un même axe. La vitesse illustrée est qualitative.",
+        "invalidGeometry": false,
+        "labels": [
+          "Deux flux, un même axe",
+          "Gaz du moteur",
+          "Air vers le moteur",
+          "Axe",
+          "Turbine",
+          "Compresseur",
+          "Vers l’échappement",
+          "Air extérieur",
+          "Rotation rapide · vue en coupe"
+        ],
+        "scrollWidth": 320,
+        "title": "Trouve la source",
+        "visibleCaption": "Les gaz entraînent la turbine ; l’axe fait tourner le compresseur.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent rapidement, avec un même axe. La vitesse illustrée est qualitative.",
+        "invalidGeometry": false,
+        "labels": [
+          "Deux flux, un même axe",
+          "Gaz du moteur",
+          "Air vers le moteur",
+          "Axe",
+          "Turbine",
+          "Compresseur",
+          "Vers l’échappement",
+          "Air extérieur",
+          "Rotation rapide · vue en coupe"
+        ],
+        "scrollWidth": 320,
+        "title": "Le moteur reçoit plus d’air",
+        "visibleCaption": "Les gaz entraînent la turbine ; l’axe fait tourner le compresseur.",
+        "width": 320
+      },
+      {
+        "id": "defi",
+        "fullCaption": "Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent rapidement, avec un même axe. La vitesse illustrée est qualitative.",
+        "invalidGeometry": false,
+        "labels": [
+          "Deux flux, un même axe",
+          "Gaz du moteur",
+          "Air vers le moteur",
+          "Axe",
+          "Turbine",
+          "Compresseur",
+          "Vers l’échappement",
+          "Air extérieur",
+          "Rotation rapide · vue en coupe"
+        ],
+        "scrollWidth": 320,
+        "title": "Si on retire l’axe…",
+        "visibleCaption": "Les gaz entraînent la turbine ; l’axe fait tourner le compresseur.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "le-voyage-de-l-electricite",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Une centrale produit de l’électricité.",
+        "invalidGeometry": false,
+        "labels": [
+          "Changer la tension le long du réseau",
+          "Centrale",
+          "↑ V",
+          "Élever",
+          "Transport",
+          "↓ V",
+          "Abaisser",
+          "230 V",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Centrale"
+        ],
+        "scrollWidth": 320,
+        "title": "Loin de chez toi",
+        "visibleCaption": "Une centrale produit de l’électricité.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+        "invalidGeometry": false,
+        "labels": [
+          "Changer la tension le long du réseau",
+          "Centrale",
+          "↑ V",
+          "Élever",
+          "Transport",
+          "↓ V",
+          "Abaisser",
+          "230 V",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Maison : 230 V"
+        ],
+        "scrollWidth": 320,
+        "title": "Suis le réseau",
+        "visibleCaption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Les grandes lignes transportent l’électricité à haute tension.",
+        "invalidGeometry": false,
+        "labels": [
+          "Changer la tension le long du réseau",
+          "Centrale",
+          "↑ V",
+          "Élever",
+          "Transport",
+          "↓ V",
+          "Abaisser",
+          "230 V",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Transport"
+        ],
+        "scrollWidth": 320,
+        "title": "Pourquoi si haut ?",
+        "visibleCaption": "Les grandes lignes transportent l’électricité à haute tension.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+        "invalidGeometry": false,
+        "labels": [
+          "Changer la tension le long du réseau",
+          "Centrale",
+          "↑ V",
+          "Élever",
+          "Transport",
+          "↓ V",
+          "Abaisser",
+          "230 V",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Maison : 230 V"
+        ],
+        "scrollWidth": 320,
+        "title": "Redescendre par étapes",
+        "visibleCaption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Production et consommation sont mises en regard. Le réseau doit maintenir leur équilibre ; les câbles ne sont pas une réserve d’électricité.",
+        "invalidGeometry": false,
+        "labels": [
+          "Maintenir l’équilibre à chaque instant",
+          "Production",
+          "Consommation",
+          "Les câbles ne sont pas une réserve"
+        ],
+        "scrollWidth": 320,
+        "title": "Un réseau en équilibre",
+        "visibleCaption": "Production et consommation sont mises en regard. Le réseau doit maintenir leur équilibre ; les câbles ne sont pas une réserve d’électricité.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+        "invalidGeometry": false,
+        "labels": [
+          "Changer la tension le long du réseau",
+          "Centrale",
+          "↑ V",
+          "Élever",
+          "Transport",
+          "↓ V",
+          "Abaisser",
+          "230 V",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Maison : 230 V"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "les-donnees-dans-l-air",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "La box contient des données, mais son émetteur Wi-Fi est éteint. Aucune onde radio n’est représentée vers le téléphone.",
+        "invalidGeometry": false,
+        "labels": [
+          "Des données portées par la radio",
+          "Box",
+          "0 1 0 1",
+          "—",
+          "Téléphone",
+          "Émetteur éteint : pas d’onde Wi-Fi"
+        ],
+        "scrollWidth": 320,
+        "title": "Pas de fil",
+        "visibleCaption": "Émetteur Wi-Fi éteint : aucune onde représentée.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "La box contient des données, mais son émetteur Wi-Fi est éteint. Aucune onde radio n’est représentée vers le téléphone.",
+        "invalidGeometry": false,
+        "labels": [
+          "Des données portées par la radio",
+          "Box",
+          "0 1 0 1",
+          "—",
+          "Téléphone",
+          "Émetteur éteint : pas d’onde Wi-Fi"
+        ],
+        "scrollWidth": 320,
+        "title": "Allume le Wi-Fi",
+        "visibleCaption": "Émetteur Wi-Fi éteint : aucune onde représentée.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "La box émet une onde radio porteuse de données ; l’antenne du téléphone la reçoit. Le téléphone peut répondre. Les arcs ne montrent pas une fréquence mesurée.",
+        "invalidGeometry": false,
+        "labels": [
+          "Des données portées par la radio",
+          "Box",
+          "0 1 0 1",
+          "0101",
+          "Téléphone",
+          "Émission et réponse · ondes invisibles"
+        ],
+        "scrollWidth": 320,
+        "title": "Le messager invisible",
+        "visibleCaption": "La box et le téléphone échangent des données par ondes radio.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "La box émet une onde radio porteuse de données ; l’antenne du téléphone la reçoit. Le téléphone peut répondre. Les arcs ne montrent pas une fréquence mesurée.",
+        "invalidGeometry": false,
+        "labels": [
+          "Des données portées par la radio",
+          "Box",
+          "0 1 0 1",
+          "0101",
+          "Téléphone",
+          "Émission et réponse · ondes invisibles"
+        ],
+        "scrollWidth": 320,
+        "title": "Des chiffres dans l'onde",
+        "visibleCaption": "La box et le téléphone échangent des données par ondes radio.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "L’onde radio est atténuée par les murs et la distance. Elle arrive plus faible ; cela ne signifie pas que les murs effacent des bits.",
+        "invalidGeometry": false,
+        "labels": [
+          "Les obstacles affaiblissent le signal",
+          "Box",
+          "0 1 0 1",
+          "Mur",
+          "0101",
+          "Téléphone",
+          "Signal reçu plus faible · vue qualitative"
+        ],
+        "scrollWidth": 320,
+        "title": "Dans la chambre du fond",
+        "visibleCaption": "Le mur affaiblit le signal, sans effacer des bits.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "La box émet une onde radio porteuse de données ; l’antenne du téléphone la reçoit. Le téléphone peut répondre. Les arcs ne montrent pas une fréquence mesurée.",
+        "invalidGeometry": false,
+        "labels": [
+          "Des données portées par la radio",
+          "Box",
+          "0 1 0 1",
+          "0101",
+          "Téléphone",
+          "Émission et réponse · ondes invisibles"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "La box et le téléphone échangent des données par ondes radio.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "les-quatre-temps",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Admission : le piston descend, la soupape d’admission est ouverte. Le mélange entre.",
+        "invalidGeometry": false,
+        "labels": [
+          "1. Admission",
+          "Admission",
+          "Échappement",
+          "Bougie",
+          "Descend",
+          "Piston",
+          "Vilebrequin",
+          "0° / 720°",
+          "2 tours"
+        ],
+        "scrollWidth": 320,
+        "title": "Un piston dans un cylindre",
+        "visibleCaption": "Admission : le piston descend.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Deux tours terminés : le cycle revient à l’admission.",
+        "invalidGeometry": false,
+        "labels": [
+          "1. Admission",
+          "Admission",
+          "Échappement",
+          "Bougie",
+          "Descend",
+          "Piston",
+          "Vilebrequin",
+          "720° / 720°",
+          "2 tours"
+        ],
+        "scrollWidth": 320,
+        "title": "Fais tourner le cycle",
+        "visibleCaption": "Deux tours terminés : retour à l’admission.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Combustion-détente : les soupapes restent fermées. Les gaz chauds poussent le piston vers le bas.",
+        "invalidGeometry": false,
+        "labels": [
+          "3. Combustion-détente",
+          "Admission",
+          "Échappement",
+          "Bougie",
+          "Descend",
+          "Piston",
+          "Vilebrequin",
+          "450° / 720°",
+          "2 tours"
+        ],
+        "scrollWidth": 320,
+        "title": "Le seul temps moteur",
+        "visibleCaption": "Combustion-détente : le piston descend.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Après « Échappement », retour à « Admission ».",
+        "invalidGeometry": false,
+        "labels": [
+          "1",
+          "Admission",
+          "2",
+          "Compression",
+          "3",
+          "Combustion-détente",
+          "4",
+          "Échappement",
+          "↻ Retour à l’étape 1"
+        ],
+        "scrollWidth": 320,
+        "title": "Pourquoi les autres temps ?",
+        "visibleCaption": "Après « Échappement », retour à « Admission ».",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Après « Échappement », retour à « Admission ».",
+        "invalidGeometry": false,
+        "labels": [
+          "1",
+          "Admission",
+          "2",
+          "Compression",
+          "3",
+          "Combustion-détente",
+          "4",
+          "Échappement",
+          "↻ Retour à l’étape 1"
+        ],
+        "scrollWidth": 320,
+        "title": "Et sans bougie ?",
+        "visibleCaption": "Après « Échappement », retour à « Admission ».",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Après « Échappement », retour à « Admission ».",
+        "invalidGeometry": false,
+        "labels": [
+          "1",
+          "Admission",
+          "2",
+          "Compression",
+          "3",
+          "Combustion-détente",
+          "4",
+          "Échappement",
+          "↻ Retour à l’étape 1"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "Après « Échappement », retour à « Admission ».",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "naissance-d-un-cyclone",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "La mer froide s’évapore aussi, mais fournit moins d’énergie. Le dessin ne représente pas de cyclone alimenté dans cet état.",
+        "invalidGeometry": false,
+        "labels": [
+          "Moins d’énergie depuis une mer froide",
+          "Mer froide · évaporation plus faible",
+          "Pas de cyclone alimenté dans ce modèle",
+          "Coupe · rotation vue du dessus à gauche"
+        ],
+        "scrollWidth": 320,
+        "title": "Au-dessus de l'océan",
+        "visibleCaption": "Mer froide : moins d’énergie, pas de cyclone alimenté dans ce modèle.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "La mer froide s’évapore aussi, mais fournit moins d’énergie. Le dessin ne représente pas de cyclone alimenté dans cet état.",
+        "invalidGeometry": false,
+        "labels": [
+          "Moins d’énergie depuis une mer froide",
+          "Mer froide · évaporation plus faible",
+          "Pas de cyclone alimenté dans ce modèle",
+          "Coupe · rotation vue du dessus à gauche"
+        ],
+        "scrollWidth": 320,
+        "title": "Réchauffe la mer",
+        "visibleCaption": "Mer froide : moins d’énergie, pas de cyclone alimenté dans ce modèle.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "L’air humide monte autour de l’œil. La condensation libère de la chaleur. L’œil est une colonne dégagée avec de l’air descendant ; à gauche, la rotation est vue du dessus dans l’hémisphère nord. D’autres conditions sont nécessaires.",
+        "invalidGeometry": false,
+        "labels": [
+          "Une mer chaude alimente la tempête",
+          "Mer chaude · vapeur abondante",
+          "Chaleur",
+          "Chaleur",
+          "Œil",
+          "Descente",
+          "Rotation",
+          "Montée",
+          "Montée",
+          "Coupe · rotation vue du dessus à gauche"
+        ],
+        "scrollWidth": 320,
+        "title": "Le carburant du cyclone",
+        "visibleCaption": "L’air monte autour de l’œil et y descend. La condensation libère de la chaleur.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "L’air humide monte autour de l’œil. La condensation libère de la chaleur. L’œil est une colonne dégagée avec de l’air descendant ; à gauche, la rotation est vue du dessus dans l’hémisphère nord. D’autres conditions sont nécessaires.",
+        "invalidGeometry": false,
+        "labels": [
+          "Une mer chaude alimente la tempête",
+          "Mer chaude · vapeur abondante",
+          "Chaleur",
+          "Chaleur",
+          "Œil",
+          "Descente",
+          "Rotation",
+          "Montée",
+          "Montée",
+          "Coupe · rotation vue du dessus à gauche"
+        ],
+        "scrollWidth": 320,
+        "title": "Pourquoi elle tourne",
+        "visibleCaption": "L’air monte autour de l’œil et y descend. La condensation libère de la chaleur.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Sur terre, l’alimentation par la mer chaude est coupée. Une circulation résiduelle est encore dessinée : le cyclone s’affaiblit progressivement.",
+        "invalidGeometry": false,
+        "labels": [
+          "La tempête perd son alimentation marine",
+          "Terre : apport marin coupé",
+          "Œil",
+          "Descente",
+          "Rotation",
+          "Affaiblissement progressif",
+          "Coupe · rotation vue du dessus à gauche"
+        ],
+        "scrollWidth": 320,
+        "title": "Arrivée sur la côte",
+        "visibleCaption": "Sur terre, l’apport marin est coupé : affaiblissement progressif.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "L’air humide monte autour de l’œil. La condensation libère de la chaleur. L’œil est une colonne dégagée avec de l’air descendant ; à gauche, la rotation est vue du dessus dans l’hémisphère nord. D’autres conditions sont nécessaires.",
+        "invalidGeometry": false,
+        "labels": [
+          "Une mer chaude alimente la tempête",
+          "Mer chaude · vapeur abondante",
+          "Chaleur",
+          "Chaleur",
+          "Œil",
+          "Descente",
+          "Rotation",
+          "Montée",
+          "Montée",
+          "Coupe · rotation vue du dessus à gauche"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "L’air monte autour de l’œil et y descend. La condensation libère de la chaleur.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "naissance-d-un-sol",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Roche nue : aucun horizon de sol n’est encore dessiné.",
+        "invalidGeometry": false,
+        "labels": [
+          "De la roche aux horizons du sol",
+          "Roche",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Roche-mère"
+        ],
+        "scrollWidth": 320,
+        "title": "Une roche nue",
+        "visibleCaption": "Roche nue : aucun horizon de sol n’est encore dessiné.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+        "invalidGeometry": false,
+        "labels": [
+          "De la roche aux horizons du sol",
+          "Roche",
+          "Minéraux",
+          "Surface",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Sol en couches"
+        ],
+        "scrollWidth": 320,
+        "title": "Fais passer le temps",
+        "visibleCaption": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "La matière organique des êtres vivants enrichit la surface et s’y mêle aux particules minérales.",
+        "invalidGeometry": false,
+        "labels": [
+          "De la roche aux horizons du sol",
+          "Roche",
+          "Minéraux",
+          "Surface",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Humus"
+        ],
+        "scrollWidth": 320,
+        "title": "Les ouvriers du sol",
+        "visibleCaption": "La matière organique des êtres vivants enrichit la surface et s’y mêle aux particules minérales.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+        "invalidGeometry": false,
+        "labels": [
+          "De la roche aux horizons du sol",
+          "Roche",
+          "Minéraux",
+          "Surface",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Sol en couches"
+        ],
+        "scrollWidth": 320,
+        "title": "Cinq ingrédients",
+        "visibleCaption": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "La pluie emporte une partie de la couche de surface d’un sol nu. La roche reste ; la couche perdue ne se reforme pas immédiatement.",
+        "invalidGeometry": false,
+        "labels": [
+          "La surface d’un sol nu peut être emportée",
+          "Roche",
+          "Minéraux",
+          "Surface",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Couche de surface emportée"
+        ],
+        "scrollWidth": 320,
+        "title": "Une ressource fragile",
+        "visibleCaption": "La pluie emporte une partie de la couche de surface d’un sol nu. La roche reste ; la couche perdue ne se reforme pas immédiatement.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+        "invalidGeometry": false,
+        "labels": [
+          "De la roche aux horizons du sol",
+          "Roche",
+          "Minéraux",
+          "Surface",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "Sol en couches"
+        ],
+        "scrollWidth": 320,
+        "title": "À retenir",
+        "visibleCaption": "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "savon-et-graisse",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Une goutte de graisse reste séparée de l’eau. Aucune molécule de savon n’est représentée dans cet état.",
+        "invalidGeometry": false,
+        "labels": [
+          "L’eau et la graisse se séparent",
+          "Eau",
+          "Graisse",
+          "Une goutte reste distincte de l’eau"
+        ],
+        "scrollWidth": 320,
+        "title": "Une goutte qui résiste",
+        "visibleCaption": "La graisse reste séparée de l’eau.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Une goutte de graisse reste séparée de l’eau. Aucune molécule de savon n’est représentée dans cet état.",
+        "invalidGeometry": false,
+        "labels": [
+          "L’eau et la graisse se séparent",
+          "Eau",
+          "Graisse",
+          "Une goutte reste distincte de l’eau"
+        ],
+        "scrollWidth": 320,
+        "title": "Ajoute du savon",
+        "visibleCaption": "La graisse reste séparée de l’eau.",
+        "width": 320
+      },
+      {
+        "id": "predire",
+        "fullCaption": "Les molécules de savon entourent la graisse : les têtes bleues sont vers l’eau, les queues orange vers la graisse. La graisse reste présente ; le groupe peut être dispersé puis emporté au rinçage.",
+        "invalidGeometry": false,
+        "labels": ["La graisse entourée de savon", "Eau", "Graisse", "Têtes", "Queues"],
+        "scrollWidth": 320,
+        "title": "Dans quel sens ?",
+        "visibleCaption": "Les têtes restent vers l’eau, les queues dans la graisse.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Les molécules de savon entourent la graisse : les têtes bleues sont vers l’eau, les queues orange vers la graisse. La graisse reste présente ; le groupe peut être dispersé puis emporté au rinçage.",
+        "invalidGeometry": false,
+        "labels": ["La graisse entourée de savon", "Eau", "Graisse", "Têtes", "Queues"],
+        "scrollWidth": 320,
+        "title": "La graisse est entourée",
+        "visibleCaption": "Les têtes restent vers l’eau, les queues dans la graisse.",
+        "width": 320
+      },
+      {
+        "id": "defi",
+        "fullCaption": "Les molécules de savon entourent la graisse : les têtes bleues sont vers l’eau, les queues orange vers la graisse. La graisse reste présente ; le groupe peut être dispersé puis emporté au rinçage.",
+        "invalidGeometry": false,
+        "labels": ["La graisse entourée de savon", "Eau", "Graisse", "Têtes", "Queues"],
+        "scrollWidth": 320,
+        "title": "Et si on rince ?",
+        "visibleCaption": "Les têtes restent vers l’eau, les queues dans la graisse.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "un-axe-deux-saisons",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Solstice de décembre : le sud penche vers le Soleil, le nord à l’opposé. Hiver au nord, été au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "Même axe, saisons opposées",
+          "Soleil",
+          "N",
+          "Juin",
+          "Nord : été",
+          "N",
+          "Décembre",
+          "Nord : hiver",
+          "Sud : saisons inversées"
+        ],
+        "scrollWidth": 320,
+        "title": "Deux Terres pour comparer",
+        "visibleCaption": "Décembre sélectionné : hiver au nord, été au sud.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Solstice de décembre : le sud penche vers le Soleil, le nord à l’opposé. Hiver au nord, été au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "Même axe, saisons opposées",
+          "Soleil",
+          "N",
+          "Juin",
+          "Nord : été",
+          "N",
+          "Décembre",
+          "Nord : hiver",
+          "Sud : saisons inversées"
+        ],
+        "scrollWidth": 320,
+        "title": "Passe de décembre à juin",
+        "visibleCaption": "Décembre sélectionné : hiver au nord, été au sud.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Solstice de juin : le nord penche vers le Soleil, le sud à l’opposé. Été au nord, hiver au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "Même axe, saisons opposées",
+          "Soleil",
+          "N",
+          "Juin",
+          "Nord : été",
+          "N",
+          "Décembre",
+          "Nord : hiver",
+          "Sud : saisons inversées"
+        ],
+        "scrollWidth": 320,
+        "title": "Au sud, quelle saison ?",
+        "visibleCaption": "Juin sélectionné : été au nord, hiver au sud.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Solstice de juin : le nord penche vers le Soleil, le sud à l’opposé. Été au nord, hiver au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "Même axe, saisons opposées",
+          "Soleil",
+          "N",
+          "Juin",
+          "Nord : été",
+          "N",
+          "Décembre",
+          "Nord : hiver",
+          "Sud : saisons inversées"
+        ],
+        "scrollWidth": 320,
+        "title": "L’angle et la durée",
+        "visibleCaption": "Juin sélectionné : été au nord, hiver au sud.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Solstice de décembre : le sud penche vers le Soleil, le nord à l’opposé. Hiver au nord, été au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "Même axe, saisons opposées",
+          "Soleil",
+          "N",
+          "Juin",
+          "Nord : été",
+          "N",
+          "Décembre",
+          "Nord : hiver",
+          "Sud : saisons inversées"
+        ],
+        "scrollWidth": 320,
+        "title": "Le faux coupable",
+        "visibleCaption": "Décembre sélectionné : hiver au nord, été au sud.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Solstice de juin : le nord penche vers le Soleil, le sud à l’opposé. Été au nord, hiver au sud. L’axe garde sa direction ; l’inclinaison change la durée du jour et l’angle des rayons. Tailles et distances simplifiées.",
+        "invalidGeometry": false,
+        "labels": [
+          "Même axe, saisons opposées",
+          "Soleil",
+          "N",
+          "Juin",
+          "Nord : été",
+          "N",
+          "Décembre",
+          "Nord : hiver",
+          "Sud : saisons inversées"
+        ],
+        "scrollWidth": 320,
+        "title": "Un axe, deux effets",
+        "visibleCaption": "Juin sélectionné : été au nord, hiver au sud.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  },
+  {
+    "slug": "un-petit-effort-un-grand-levier",
+    "states": [
+      {
+        "id": "observer",
+        "fullCaption": "Charge : 120 N à 30 cm de l’appui. Effort d’équilibre : 360 N à 10 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "360 N",
+          "Appui",
+          "30 cm",
+          "10 cm"
+        ],
+        "scrollWidth": 320,
+        "title": "Une charge, deux distances",
+        "visibleCaption": "Charge : 120 N. Effort d’équilibre : 360 N. Compare les distances à l’appui.",
+        "width": 320
+      },
+      {
+        "id": "essayer",
+        "fullCaption": "Charge : 120 N à 10 cm de l’appui. Effort d’équilibre : 40 N à 30 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "40 N",
+          "Appui",
+          "10 cm",
+          "30 cm"
+        ],
+        "scrollWidth": 320,
+        "title": "Cherche le plus petit effort",
+        "visibleCaption": "Charge : 120 N. Effort d’équilibre : 40 N. Compare les distances à l’appui.",
+        "width": 320
+      },
+      {
+        "id": "defi-1",
+        "fullCaption": "Charge : 120 N à 10 cm de l’appui. Effort d’équilibre : 40 N à 30 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "40 N",
+          "Appui",
+          "10 cm",
+          "30 cm"
+        ],
+        "scrollWidth": 320,
+        "title": "Où placer l’appui ?",
+        "visibleCaption": "Charge : 120 N. Effort d’équilibre : 40 N. Compare les distances à l’appui.",
+        "width": 320
+      },
+      {
+        "id": "comprendre",
+        "fullCaption": "Charge : 120 N à 10 cm de l’appui. Effort d’équilibre : 40 N à 30 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "40 N",
+          "Appui",
+          "10 cm",
+          "30 cm"
+        ],
+        "scrollWidth": 320,
+        "title": "Force × distance",
+        "visibleCaption": "Charge : 120 N. Effort d’équilibre : 40 N. Compare les distances à l’appui.",
+        "width": 320
+      },
+      {
+        "id": "defi-2",
+        "fullCaption": "Charge : 120 N à 10 cm de l’appui. Effort d’équilibre : 40 N à 30 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "40 N",
+          "Appui",
+          "10 cm",
+          "30 cm"
+        ],
+        "scrollWidth": 320,
+        "title": "Le prix du petit effort",
+        "visibleCaption": "Charge : 120 N. Effort d’équilibre : 40 N. Compare les distances à l’appui.",
+        "width": 320
+      },
+      {
+        "id": "retenir",
+        "fullCaption": "Charge : 120 N à 10 cm de l’appui. Effort d’équilibre : 40 N à 30 cm. Les moments se compensent. Barre idéale, sans poids ni frottement.",
+        "invalidGeometry": false,
+        "labels": [
+          "Déplace l’appui, change l’effort",
+          "Charge",
+          "Effort",
+          "120 N",
+          "40 N",
+          "Appui",
+          "10 cm",
+          "30 cm"
+        ],
+        "scrollWidth": 320,
+        "title": "Le bon réflexe",
+        "visibleCaption": "Charge : 120 N. Effort d’équilibre : 40 N. Compare les distances à l’appui.",
+        "width": 320
+      }
+    ],
+    "blockedWrongAnswers": 2,
+    "completed": true
+  }
+]

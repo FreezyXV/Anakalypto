@@ -1,0 +1,730 @@
+{
+  "date": "2026-10-11",
+  "environment": "Aperçu local isolé 3002, PostgreSQL local",
+  "requests": ["A5-01", "A5-02", "A5-03", "A5-04", "A5-05"],
+  "workshops320": [
+    {
+      "slug": "allumer-une-lampe",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Circuit fermé", "Circuit fermé"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "de-la-pate-a-la-feuille",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": ["16px", "16px"],
+        "headings": ["Étape 5 : Feuille en bobine", "Étape 5 : Feuille en bobine"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "feuille-et-lumiere",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Feuille éclairée", "Feuille éclairée"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "la-bouteille-qui-revient",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Lot trié", "Lot trié"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "la-couleur-dans-le-mur",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [
+        {
+          "scene": "retouch",
+          "referenceStable": true,
+          "caption": "Le nouvel ajout de pigment reste sur l’enduit déjà durci. Il n’est pas incorporé de la même manière qu’un pigment posé sur enduit frais.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Étape 5 : Pigments fixés", "Une retouche le lendemain"],
+        "status": "Situation affichée : Une retouche le lendemain. L’état mémorisé reste inchangé."
+      }
+    },
+    {
+      "slug": "la-voix-dans-le-fil",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Je parle", "Je parle"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "le-pain-qui-gonfle",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [
+        {
+          "scene": "microbes",
+          "referenceStable": true,
+          "caption": "Deux trajets distinguent les rôles dominants : les levures produisent surtout du CO₂, qui forme les bulles ; les bactéries produisent surtout des acides, qui contribuent au goût. Les symboles ne représentent ni une taille ni un nombre réel de microbes.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Avec levain", "Deux équipes"],
+        "status": "Situation affichée : Deux équipes. L’état mémorisé reste inchangé."
+      }
+    },
+    {
+      "slug": "le-pilote-qui-corrige",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [
+        {
+          "scene": "gust",
+          "referenceStable": true,
+          "caption": "Une rafale écarte l’avion de la consigne. Les capteurs mesurent cet écart ; le calculateur commande une correction par les servomoteurs et les gouvernes. La nouvelle mesure revient dans la boucle.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Engagé", "Un coup de vent"],
+        "status": "Situation affichée : Un coup de vent. L’état mémorisé reste inchangé."
+      }
+    },
+    {
+      "slug": "le-turbo",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": ["16px", "16px"],
+        "headings": [
+          "Flux de gaz d’échappement : Important",
+          "Flux de gaz d’échappement : Important"
+        ],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "le-voyage-de-l-electricite",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [
+        {
+          "scene": "balance",
+          "referenceStable": true,
+          "caption": "Production et consommation sont mises en regard. Le réseau doit maintenir leur équilibre ; les câbles ne sont pas une réserve d’électricité.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Étape 5 : Maison : 230 V", "Un réseau en équilibre"],
+        "status": "Situation affichée : Un réseau en équilibre. L’état mémorisé reste inchangé."
+      }
+    },
+    {
+      "slug": "les-donnees-dans-l-air",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [
+        {
+          "scene": "walls",
+          "referenceStable": true,
+          "caption": "L’onde radio est atténuée par les murs et la distance. Elle arrive plus faible ; cela ne signifie pas que les murs effacent des bits.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Wi-Fi allumé", "Dans la chambre du fond"],
+        "status": "Situation affichée : Dans la chambre du fond. L’état mémorisé reste inchangé."
+      }
+    },
+    {
+      "slug": "les-quatre-temps",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": ["16px", "16px", "16px", "16px", "16px", "16px"],
+        "headings": [
+          "Cycle terminé : retour à l’admission",
+          "Cycle terminé : retour à l’admission"
+        ],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "naissance-d-un-cyclone",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [
+        {
+          "scene": "land",
+          "referenceStable": true,
+          "caption": "Sur terre, l’alimentation par la mer chaude est coupée. Une circulation résiduelle est encore dessinée : le cyclone s’affaiblit progressivement.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Mer chaude", "Arrivée sur la côte"],
+        "status": "Situation affichée : Arrivée sur la côte. L’état mémorisé reste inchangé."
+      }
+    },
+    {
+      "slug": "naissance-d-un-sol",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [
+        {
+          "scene": "erosion",
+          "referenceStable": true,
+          "caption": "La pluie emporte une partie de la couche de surface d’un sol nu. La roche reste ; la couche perdue ne se reforme pas immédiatement.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Étape 5 : Sol en couches", "Une ressource fragile"],
+        "status": "Situation affichée : Une ressource fragile. L’état mémorisé reste inchangé."
+      }
+    },
+    {
+      "slug": "savon-et-graisse",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Avec savon", "Avec savon"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "un-petit-effort-un-grand-levier",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": ["16px", "16px"],
+        "headings": ["Bras de l’effort : 30 cm", "Bras de l’effort : 30 cm"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "le-bateau-et-l-eau-deplacee",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": ["16px", "16px"],
+        "headings": ["800 kg ajoutés", "800 kg ajoutés"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "la-lune-et-nos-points-de-vue",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": [
+          "16px",
+          "16px",
+          "16px",
+          "16px",
+          "16px",
+          "16px",
+          "16px",
+          "16px",
+          "16px",
+          "16px"
+        ],
+        "headings": ["Dernier croissant", "Dernier croissant"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "un-axe-deux-saisons",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": [],
+        "headings": ["Solstice de juin", "Solstice de juin"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    },
+    {
+      "slug": "deux-roues-deux-vitesses",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "ui": {
+        "controlFonts": ["16px", "16px"],
+        "headings": ["Rotation de l’entrée : 360°", "Rotation de l’entrée : 360°"],
+        "status": "L’état exploré est mémorisé à gauche. Change la commande ou la situation pour le comparer."
+      }
+    }
+  ],
+  "pinComparisonNote": "La comparaison brute du HTML hydraté est exclue. Référence stable vérifiée lors des commandes et variantes ; titre mémorisé vérifié séparément.",
+  "finalButtonGroups320": [
+    {
+      "slug": "de-la-pate-a-la-feuille",
+      "buttons": [
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "1. Pâte diluée",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "2. Égouttage",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "3. Pressage",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "4. Séchage",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "5. Feuille en bobine",
+          "width": 252
+        }
+      ],
+      "viewport": 320,
+      "width": 320
+    },
+    {
+      "slug": "la-couleur-dans-le-mur",
+      "buttons": [
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "1. Enduit frais",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "2. Pigments à l’eau",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "3. CO₂ absorbé",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "4. Cristaux formés",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "5. Pigments fixés",
+          "width": 252
+        }
+      ],
+      "viewport": 320,
+      "width": 320
+    },
+    {
+      "slug": "le-voyage-de-l-electricite",
+      "buttons": [
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "1. Centrale",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "2. Tension élevée",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "3. Transport",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "4. Tension abaissée",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "5. Maison : 230 V",
+          "width": 252
+        }
+      ],
+      "viewport": 320,
+      "width": 320
+    },
+    {
+      "slug": "les-quatre-temps",
+      "buttons": [
+        {
+          "font": "16px",
+          "height": 48,
+          "label": "1. Admission",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 48,
+          "label": "2. Compression",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 48,
+          "label": "3. Combustion-détente",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 48,
+          "label": "4. Échappement",
+          "width": 252
+        }
+      ],
+      "viewport": 320,
+      "width": 320
+    },
+    {
+      "slug": "naissance-d-un-sol",
+      "buttons": [
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "1. Roche-mère",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "2. Roche fissurée",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "3. Minéraux altérés",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "4. Humus",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "5. Sol en couches",
+          "width": 252
+        }
+      ],
+      "viewport": 320,
+      "width": 320
+    },
+    {
+      "slug": "la-lune-et-nos-points-de-vue",
+      "buttons": [
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Nouvelle Lune",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Premier croissant",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Premier quartier",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Gibbeuse croissante",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Pleine Lune",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Gibbeuse décroissante",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Dernier quartier",
+          "width": 252
+        },
+        {
+          "font": "16px",
+          "height": 52,
+          "label": "Dernier croissant",
+          "width": 252
+        }
+      ],
+      "viewport": 320,
+      "width": 320
+    }
+  ],
+  "lunar320": {
+    "ariaValue": "Dernier quartier",
+    "buttons": [
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Nouvelle Lune"
+      },
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Premier croissant"
+      },
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Premier quartier"
+      },
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Gibbeuse croissante"
+      },
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Pleine Lune"
+      },
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Gibbeuse décroissante"
+      },
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Dernier quartier"
+      },
+      {
+        "font": "16px",
+        "height": 52,
+        "label": "Dernier croissant"
+      }
+    ],
+    "grid": "252px",
+    "viewport": 320,
+    "width": 320
+  },
+  "lunar390": {
+    "grid": "157px 157px",
+    "lastButtonColumn": "auto",
+    "viewport": 390,
+    "width": 390
+  },
+  "topMobile": {
+    "scrollY": 0,
+    "viewport": 320,
+    "width": 320
+  },
+  "topDesktop": {
+    "button": [
+      {
+        "bottom": "24px",
+        "position": "fixed"
+      }
+    ]
+  },
+  "cyclone": {
+    "initial": ["Mer froide", "Mer chaude"],
+    "pinned": ["Mer chaude", "Mer chaude"],
+    "changed": ["Mer chaude", "Mer froide"]
+  },
+  "piston": {
+    "headings": [
+      {
+        "height": 51.515625,
+        "text": "Temps 1 : Admission"
+      },
+      {
+        "height": 51.515625,
+        "text": "Temps 3 : Combustion-détente"
+      }
+    ],
+    "svgTop": [584.046875, 584.046875],
+    "topButton": []
+  },
+  "bread": {
+    "referenceStable": true,
+    "status": "Situation affichée : Deux équipes. L’état mémorisé reste inchangé.",
+    "headings": ["Avec levain", "Deux équipes"],
+    "inspectedWidths": [320, 1280]
+  },
+  "technical": {
+    "isolatedTests": 41,
+    "typecheck": "pass",
+    "eslint": "pass",
+    "productionBuild": "pass",
+    "pagesGenerated": 1244,
+    "browserErrors": []
+  },
+  "limits": [
+    "Pas de lecteur d’écran réel",
+    "Pas de participants",
+    "Pas de recette du site public",
+    "Mesures de tous les ateliers, inspection visuelle ciblée"
+  ]
+}

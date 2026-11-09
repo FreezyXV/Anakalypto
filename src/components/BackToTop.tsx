@@ -8,8 +8,8 @@ const REVEAL_AFTER = 900;
 /**
  * Retour en haut de page.
  *
- * Pose en bas a droite, hors du flux, a portee du pouce sur telephone. Il n'apparait
- * qu'une fois le defilement engage: sur une page courte, il n'a pas lieu d'etre.
+ * Sur mobile, reste dans le flux après le pied de page pour dégager les dessins.
+ * Sur ordinateur, se pose en bas à droite. Il n'apparaît qu'après un long défilement.
  * Le defilement respecte `prefers-reduced-motion` via la regle globale qui neutralise
  * `scroll-behavior`.
  */
@@ -31,7 +31,7 @@ export function BackToTop() {
     <button
       type="button"
       onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-      className="btn btn--ghost fixed right-4 bottom-4 z-30 px-3 py-2 text-sm sm:right-6 sm:bottom-6"
+      className="btn btn--ghost mx-auto mb-6 flex w-fit px-3 py-2 text-sm md:fixed md:right-6 md:bottom-6 md:z-30 md:m-0"
     >
       <span aria-hidden="true" className="mr-1.5">
         &uarr;

@@ -1,0 +1,13 @@
+{
+  "badLabels": [],
+  "caption": "La tour suit les mouvements sur la piste et à ses abords.",
+  "focus": "BODY",
+  "frame": "0",
+  "kind": "aircontrol",
+  "live": "À observer · 1 / 3AérodromeLa piste, la tour et le départ figurent une organisation simplifiée. Les périmètres exacts du service dépendent de l’aérodrome et des procédures applicables.",
+  "pressed": "1Aérodrome",
+  "renderedFont": 12.55,
+  "scrollWidth": 320,
+  "visibleFigures": 1,
+  "width": 320
+}

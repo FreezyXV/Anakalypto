@@ -1,0 +1,398 @@
+[
+  {
+    "id": "interferometer",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un séparateur envoie la lumière vers deux bras perpendiculaires.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "interferometer",
+        "live": "À observer · 1 / 3Séparer le faisceauLes miroirs renvoient les deux faisceaux au même séparateur. Le dessin distingue le trajet aller du retour par un léger décalage graphique, sans représenter les cavités réelles de LIGO.",
+        "pressed": "1Séparer le faisceau",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Une onde gravitationnelle peut modifier différemment les longueurs des deux bras.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "interferometer",
+        "live": "À observer · 2 / 3Changer les longueursLes changements sont énormément grossis pour être visibles. Le dessin montre une polarisation et une orientation choisies : une vraie déformation mesurée est infime.",
+        "pressed": "2Changer les longueurs",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Le décalage des ondes recombinées peut modifier la lumière reçue par le détecteur.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "interferometer",
+        "live": "À observer · 3 / 3Lire l’interférenceLe petit tracé est un signal illustratif, pas un événement enregistré. Des détecteurs éloignés et de nombreux contrôles sont nécessaires pour distinguer un signal astrophysique du bruit.",
+        "pressed": "3Lire l’interférence",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "blackhole",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’horizon est une frontière de non-retour, pas une surface solide.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "blackhole",
+        "live": "À observer · 1 / 3Placer l’horizonLa limite est tracée pour l’expliquer. Le noir central de ce schéma n’est pas une photographie de l’ombre d’un trou noir et ne révèle pas ce qui se trouve au centre.",
+        "pressed": "1Placer l’horizon",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La matière chaude en dehors de l’horizon peut émettre beaucoup de lumière.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "blackhole",
+        "live": "À observer · 2 / 3Ajouter le disqueLe disque d’accrétion est de la matière en mouvement autour du trou noir. Il n’est pas présent autour de tous les trous noirs ; les effets optiques relativistes ne sont pas calculés ici.",
+        "pressed": "2Ajouter le disque",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "L’orbite d’une étoile proche peut révéler une masse centrale invisible.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "blackhole",
+        "live": "À observer · 3 / 3Suivre une étoileLa trajectoire montrée est schématique. À distance comparable, un trou noir n’attire pas davantage qu’un autre objet sphérique de même masse : il n’aspire pas automatiquement toutes les étoiles voisines.",
+        "pressed": "3Suivre une étoile",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "webb",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Dix-huit segments hexagonaux travaillent ensemble pour collecter la lumière.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "webb",
+        "live": "À observer · 1 / 3Regarder le miroirLes segments dorés sont comptés dans le dessin. Le trou central et les supports sont distingués des segments ; leurs proportions sont ajustées pour rendre les éléments lisibles.",
+        "pressed": "1Regarder le miroir",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Cinq couches séparées forment le pare-soleil.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "webb",
+        "live": "À observer · 2 / 3Compter les couchesLes couches ne se touchent pas dans ce schéma fonctionnel. Elles réduisent les échanges thermiques et permettent l’évacuation de chaleur vers l’espace, plutôt qu’un refroidissement par contact avec de l’air.",
+        "pressed": "2Compter les couches",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Le miroir et les instruments restent du côté protégé du rayonnement solaire.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "webb",
+        "live": "À observer · 3 / 3Séparer chaud et froidLes flèches solaires s’arrêtent du côté chaud du bouclier. Les rayons astronomiques arrivent du côté froid : le miroir ne regarde pas à travers le pare-soleil.",
+        "pressed": "3Séparer chaud et froid",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "infrared",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’infrarouge a des longueurs d’onde plus grandes que la lumière visible.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "infrared",
+        "live": "À observer · 1 / 3Comparer les ondesLe tracé compare des ondes symboliques. Le bleu et l’orange servent à lire le dessin ; l’infrarouge n’est pas une couleur que l’œil humain voit directement.",
+        "pressed": "1Comparer les ondes",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Certaines longueurs d’onde infrarouges traversent mieux un nuage poussiéreux que le visible.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "infrared",
+        "live": "À observer · 2 / 3Traverser la poussièreLe nuage reste le même dans les deux trajets. L’opacité dépend de la longueur d’onde et de la poussière ; tout l’infrarouge ne traverse pas tous les nuages sans absorption.",
+        "pressed": "2Traverser la poussière",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Des objets peu lumineux en visible peuvent émettre une part importante de leur rayonnement en infrarouge.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "infrared",
+        "live": "À observer · 3 / 3Repérer un objet froidLe disque de poussière est montré avec un code de couleur, sans température ou spectre mesuré. Observer en infrarouge demande aussi de limiter le rayonnement thermique de l’instrument lui-même.",
+        "pressed": "3Repérer un objet froid",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "adaptiveoptics",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’atmosphère déforme le front d’onde avant qu’il arrive à l’instrument.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "adaptiveoptics",
+        "live": "À observer · 1 / 3Voir la turbulenceLes lignes ondulées représentent des fronts d’onde, pas les trajectoires oscillantes de photons. Une image d’étoile peut alors s’étaler au lieu de rester proche d’un point.",
+        "pressed": "1Voir la turbulence",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Un capteur de front d’onde fournit des mesures au calculateur.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "adaptiveoptics",
+        "live": "À observer · 2 / 3Mesurer l’écartUne partie de la lumière est utilisée pour la mesure. Le calculateur commande les actionneurs du miroir à partir de ces informations ; les flèches de commande ne sont pas des rayons lumineux.",
+        "pressed": "2Mesurer l’écart",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Un miroir déformable compense une partie des déformations pour améliorer l’image.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "adaptiveoptics",
+        "live": "À observer · 3 / 3Corriger rapidementL’image plus concentrée est illustrative. Le système répète la mesure et la correction ; sa performance dépend du champ observé, des références disponibles et de la turbulence.",
+        "pressed": "3Corriger rapidement",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "moonflight",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Après les vérifications autour de la Terre, Orion part vers la Lune.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "moonflight",
+        "live": "À observer · 1 / 3Quitter l’orbite terrestreLa ligne montre l’enchaînement des grandes phases. Elle n’est pas calculée à partir d’éphémérides et ne permet pas de lire une vitesse, une date ou une distance de mission.",
+        "pressed": "1Quitter l’orbite terrestre",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Le vaisseau passe près de la Lune, sans alunissage dans cette mission.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "moonflight",
+        "live": "À observer · 2 / 3Survoler sans se poserLa boucle reste éloignée de la surface. Le dessin distingue un survol d’une mise en orbite lunaire permanente et d’une descente vers un site d’atterrissage.",
+        "pressed": "2Survoler sans se poser",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "La trajectoire ramène la capsule vers la Terre et sa rentrée atmosphérique.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "moonflight",
+        "live": "À observer · 3 / 3Revenir sur TerreLe retour utilise la géométrie de la trajectoire Terre-Lune ; de petites corrections restent possibles. La rentrée n’est ni un freinage contre la Lune ni une chute verticale directe depuis elle.",
+        "pressed": "3Revenir sur Terre",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "lunation",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "À la nouvelle Lune, la face tournée vers nous est très peu éclairée par le Soleil.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "lunation",
+        "live": "À observer · 1 / 3Nouvelle LuneLe disque sombre ne vient pas de l’ombre terrestre. La Lune reçoit toujours de la lumière solaire sur une moitié ; nous voyons une proportion différente de cette moitié éclairée.",
+        "pressed": "1Nouvelle Lune",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Environ un quart de cycle plus tard, nous voyons une moitié de disque éclairée.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "lunation",
+        "live": "À observer · 2 / 3Premier quartierDans cette convention de vue depuis l’hémisphère nord, la partie éclairée croissante est à droite. L’orientation réelle dépend du lieu, de l’heure et de la façon dont on tient l’image.",
+        "pressed": "2Premier quartier",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Environ à mi-cycle, presque toute la face visible est éclairée.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "lunation",
+        "live": "À observer · 3 / 3Pleine LuneLes petites vignettes replacent ces trois étapes dans les huit phases usuelles. Un cycle de nouvelle Lune à nouvelle Lune dure environ 29,5 jours ; ce n’est pas exactement quatre semaines.",
+        "pressed": "3Pleine Lune",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "polaris",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les deux étoiles du bord de la casserole de la Grande Ourse servent de repères.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "polaris",
+        "live": "À observer · 1 / 3Trouver la casseroleLe dessin conserve leur rôle dans une figure simplifiée. Les traits relient des positions apparentes : les étoiles ne forment pas un objet solide et ne sont pas à la même distance de nous.",
+        "pressed": "1Trouver la casserole",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "En prolongeant la ligne depuis Merak vers Dubhe, on se dirige vers l’étoile polaire.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "polaris",
+        "live": "À observer · 2 / 3Prolonger la directionLa flèche indique le bon sens de prolongement, depuis le fond vers le bord supérieur de la casserole. Les autres étoiles ne doivent pas être prises à la place de cette paire.",
+        "pressed": "2Prolonger la direction",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "L’étoile polaire indique approximativement le nord géographique dans l’hémisphère nord.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "polaris",
+        "live": "À observer · 3 / 3Descendre vers le nordLa verticale descend vers l’horizon nord. Polaris est proche du pôle céleste, sans coïncider exactement avec lui ; cette méthode n’est pas applicable telle quelle depuis l’hémisphère sud.",
+        "pressed": "3Descendre vers le nord",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "id": "aurora",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le vent solaire peut transférer de l’énergie à l’environnement magnétique de la Terre.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "aurora",
+        "live": "À observer · 1 / 3Perturber le champLes lignes représentent le champ magnétique, pas une coque matérielle. Le côté tourné vers le Soleil est comprimé et le côté opposé s’étire en une queue magnétique.",
+        "pressed": "1Perturber le champ",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Des particules énergétiques peuvent atteindre la haute atmosphère près des régions polaires.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "aurora",
+        "live": "À observer · 2 / 3Guider des particulesLes trajets colorés sont schématiques. L’interaction avec la magnétosphère est complexe : les particules responsables ne sont pas simplement un rayon solaire visible qui toucherait le sol.",
+        "pressed": "2Guider des particules",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      },
+      {
+        "badLabels": [],
+        "caption": "Les collisions excitent des atomes et molécules de l’air, qui peuvent ensuite émettre de la lumière.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "aurora",
+        "live": "À observer · 3 / 3Émettre de la lumièreLe vert et le rouge sont associés notamment à l’oxygène ; l’azote contribue à d’autres couleurs. Les rubans sont dans l’atmosphère, au-dessus du sol, et non sur les lignes électriques.",
+        "pressed": "3Émettre de la lumière",
+        "renderedFont": 30.726171875,
+        "scrollWidth": 1280,
+        "visibleFigures": 1,
+        "width": 1280
+      }
+    ]
+  }
+]

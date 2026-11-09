@@ -34,18 +34,20 @@ export function TelephoneDiagram({ state }: DiagramProps) {
       <Wave x={260} y={77} active={state.active} color={C.blue} />
       <path
         d="M31 117 Q53 106 74 117 V147 Q53 158 31 147 Z"
-        fill="#fff"
+        fill="var(--art-metal)"
         stroke={C.ink}
         strokeWidth="2.5"
       />
       <path d="M65 117 V147" stroke={C.blue} strokeWidth="3" />
+      <path d="M41 119 v26 M47 117 v30 M53 116 v32" stroke="#a1b1bf" />
       <path
         d="M286 117 Q308 106 329 117 V147 Q308 158 286 147 Z"
-        fill="#fff"
+        fill="var(--art-metal)"
         stroke={C.ink}
         strokeWidth="2.5"
       />
       <path d="M293 117 V147" stroke={C.blue} strokeWidth="3" />
+      <path d="M307 116 v32 M313 117 v30 M319 119 v26" stroke="#a1b1bf" />
       <path d="M75 130 H286" stroke={state.active ? C.orange : C.muted} strokeWidth="3" />
       <Arrow
         x={132}

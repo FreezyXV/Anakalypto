@@ -1,3 +1,5 @@
+import { modelDescription } from "./models";
+
 export const MECHANISM_KINDS = [
   "photosynthesis",
   "bread",
@@ -10,6 +12,11 @@ export const MECHANISM_KINDS = [
   "fresco",
   "grid",
   "autopilot",
+  "lever",
+  "buoyancy",
+  "moon",
+  "seasons",
+  "gears",
 ] as const;
 export type MechanismKind = (typeof MECHANISM_KINDS)[number];
 export const MECHANISM_SCENES = {
@@ -46,12 +53,20 @@ export function mechanismState(
   const stage = frame ?? Math.round(amount / 25);
   const active = frame === undefined ? amount > 0 : frame > 0;
   const descriptions: Record<MechanismKind, string> = {
+    lever: modelDescription("lever", amount),
+    buoyancy: modelDescription("buoyancy", amount),
+    moon: modelDescription("moon", amount),
+    seasons: modelDescription("seasons", amount),
+    gears: modelDescription("gears", amount),
     photosynthesis: active
       ? "La lumière fournit l’énergie. L’eau libère l’O₂ ; le carbone du CO₂ sert au sucre. Les deux trajets sont distincts."
       : "Sans lumière, l’apport d’énergie lumineuse s’arrête. Eau et CO₂ restent des ingrédients ; les réserves d’énergie peuvent encore servir brièvement.",
-    bread: active
-      ? "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps."
-      : "Pâte avant fermentation : aucune bulle de levée n’est représentée. Le levain n’a pas encore été ajouté dans cette expérience.",
+    bread:
+      scene === "microbes"
+        ? "Deux trajets distinguent les rôles dominants : les levures produisent surtout du CO₂, qui forme les bulles ; les bactéries produisent surtout des acides, qui contribuent au goût. Les symboles ne représentent ni une taille ni un nombre réel de microbes."
+        : active
+          ? "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps."
+          : "Pâte avant fermentation : aucune bulle de levée n’est représentée. Le levain n’a pas encore été ajouté dans cette expérience.",
     glass: active
       ? "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille."
       : "Une tasse en céramique est mêlée aux bouteilles. Le lot doit être trié avant d’aller au broyage et au four.",
@@ -83,8 +98,8 @@ export function mechanismState(
             "Roche nue : aucun horizon de sol n’est encore dessiné.",
             "Des fissures apparaissent dans la roche.",
             "La roche altérée fournit des particules minérales.",
-            "La matière organique des êtres vivants enrichit la surface.",
-            "Le sol présente des horizons au-dessus de la roche-mère. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+            "La matière organique des êtres vivants enrichit la surface et s’y mêle aux particules minérales.",
+            "Des horizons se développent au-dessus de la roche-mère. La surface mêle matière organique et minéraux. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
           ][stage]!,
     fresco:
       scene === "retouch"
@@ -107,7 +122,9 @@ export function mechanismState(
             "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
           ][stage]!,
     autopilot: active
-      ? "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle."
+      ? scene === "gust"
+        ? "Une rafale écarte l’avion de la consigne. Les capteurs mesurent cet écart ; le calculateur commande une correction par les servomoteurs et les gouvernes. La nouvelle mesure revient dans la boucle."
+        : "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle."
       : "Consigne et capteurs restent disponibles. La commande automatique des gouvernes est interrompue ; les pilotes tiennent les commandes.",
   };
   return { kind, amount, stage, active, scene, description: descriptions[kind] };

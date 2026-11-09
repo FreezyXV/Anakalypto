@@ -11,7 +11,14 @@ export function CycloneDiagram({ state }: DiagramProps) {
             ? "Une mer chaude alimente la tempête"
             : "Moins d’énergie depuis une mer froide"}
       </Title>
-      <rect x="16" y="153" width="328" height="29" rx="5" fill={land ? "#c6ac7c" : C.water} />
+      <rect
+        x="16"
+        y="153"
+        width="328"
+        height="29"
+        rx="5"
+        fill={land ? "#c6ac7c" : "var(--art-water)"}
+      />
       {!land && (
         <path
           d="M16 159 q16 -8 32 0 t32 0 t32 0 t32 0 t32 0 t32 0 t32 0 t32 0 t32 0 t32 0"
@@ -31,10 +38,20 @@ export function CycloneDiagram({ state }: DiagramProps) {
         <>
           <path
             d="M64 93 Q45 69 81 66 Q87 39 115 54 Q137 31 158 54 L160 93 Z M202 54 Q227 33 247 56 Q276 41 285 70 Q322 68 301 93 H202 Z"
-            fill={land ? "#e0e4e9" : "#fff"}
+            fill={land ? "#e0e4e9" : "var(--art-cloud)"}
             stroke={C.ink}
             strokeWidth="2"
           />
+          {!land && (
+            <>
+              <Label x={113} y={79} color={C.orange}>
+                Chaleur
+              </Label>
+              <Label x={252} y={79} color={C.orange}>
+                Chaleur
+              </Label>
+            </>
+          )}
           <Label x={181} y={66} size={13}>
             Œil
           </Label>
@@ -49,7 +66,7 @@ export function CycloneDiagram({ state }: DiagramProps) {
             strokeWidth="2"
             opacity={land ? 0.5 : 1}
           />
-          <Label x={37} y={100} size={11}>
+          <Label x={37} y={50} size={11}>
             Rotation
           </Label>
         </>
@@ -57,7 +74,7 @@ export function CycloneDiagram({ state }: DiagramProps) {
       {!strong && !land && (
         <path
           d="M112 93 Q95 76 117 69 Q127 47 148 64 Q168 52 183 75 Q217 69 221 93 Z"
-          fill="#fff"
+          fill="var(--art-cloud)"
           stroke={C.ink}
           strokeWidth="2"
         />

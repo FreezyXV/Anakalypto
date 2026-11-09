@@ -1,0 +1,354 @@
+[
+  {
+    "id": "hydrogenair",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’hydrogène liquide nécessite un réservoir cryogénique isolé.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "hydrogenair",
+        "live": "À observer · 1 / 3Réservoir isoléLe volume et l’isolation compliquent son intégration dans l’avion. La température d’environ −253 °C est un ordre de grandeur près de la pression atmosphérique, pas une consigne universelle de stockage.",
+        "pressed": "1Réservoir isolé",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une turbine peut brûler l’hydrogène avec l’air.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "hydrogenair",
+        "live": "À observer · 2 / 3CombustionL’hydrogène n’apporte pas de carbone, mais la combustion dans l’air peut former des oxydes d’azote. L’eau émise et les effets en altitude doivent aussi être considérés : absence de CO₂ à l’échappement ne signifie pas impact climatique nul.",
+        "pressed": "2Combustion",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une pile transforme hydrogène et oxygène en électricité pour un moteur.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "hydrogenair",
+        "live": "À observer · 3 / 3Pile et moteurLe chemin vert représente l’énergie électrique vers le moteur, qui entraîne une hélice. La pile produit aussi de l’eau et de la chaleur ; le bilan global dépend notamment de la fabrication et de la distribution de l’hydrogène.",
+        "pressed": "3Pile et moteur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "zeroe",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le concept à turbosoufflantes de 2020 gardait une silhouette classique.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "zeroe",
+        "live": "À observer · 1 / 3TurbosoufflantesLa zone bleue derrière la cabine représente le principe de stockage d’hydrogène envisagé à l’arrière. Les nacelles sous les ailes distinguent cette proposition, sans reproduire ses dimensions industrielles.",
+        "pressed": "1Turbosoufflantes",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le deuxième concept de 2020 utilisait des hélices et des turbines.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "zeroe",
+        "live": "À observer · 2 / 3TurbopropulseursLa silhouette met en évidence les deux hélices et une aile haute. Le dessin évoque une proposition de recherche, pas un appareil commercial déjà certifié ou une date de livraison.",
+        "pressed": "2Turbopropulseurs",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le troisième concept de 2020 fusionnait davantage corps et ailes.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "zeroe",
+        "live": "À observer · 3 / 3Aile intégréeLe corps plus large ouvrait différentes possibilités de cabine et de stockage. Les pointillés figurent seulement un volume disponible ; ils ne fixent pas un emplacement technique définitif des réservoirs.",
+        "pressed": "3Aile intégrée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "electricair",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La batterie fournit de l’énergie à un moteur qui entraîne l’hélice.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "electricair",
+        "live": "À observer · 1 / 3Batterie et moteurLa flèche verte est un transfert d’énergie, pas un circuit électrique complet. Convertisseur, refroidissement et protections sont nécessaires dans un système réel, mais ne sont pas tous dessinés ici.",
+        "pressed": "1Batterie et moteur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une batterie déchargée garde pratiquement toute sa masse.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "electricair",
+        "live": "À observer · 2 / 3Énergie consomméeLa comparaison montre la même enveloppe et les mêmes cellules, avec une charge différente. Contrairement à un carburant brûlé et rejeté, le contenu matériel de la batterie reste largement à bord.",
+        "pressed": "2Énergie consommée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un générateur et une batterie peuvent alimenter une chaîne électrique.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "electricair",
+        "live": "À observer · 3 / 3Architecture hybrideCette vue choisit un hybride série : un moteur thermique entraîne un générateur ; le moteur électrique entraîne l’hélice. Il existe d’autres architectures, notamment avec entraînement mécanique direct.",
+        "pressed": "3Architecture hybride",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "aeroengine",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un moteur à plat répartit ses cylindres de chaque côté du carter.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "aeroengine",
+        "live": "À observer · 1 / 3Cylindres opposésL’exemple représente quatre cylindres horizontalement opposés. D’autres nombres de cylindres et d’autres architectures existent ; ce dessin n’affirme pas que tous les avions à pistons sont identiques.",
+        "pressed": "1Cylindres opposés",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La pression des gaz pousse un piston relié au vilebrequin.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "aeroengine",
+        "live": "À observer · 2 / 3Piston et vilebrequinLa bielle transforme le mouvement alternatif du piston en rotation avec le vilebrequin. Cette coupe montre un instant du temps moteur d’un cylindre à allumage commandé, pas les quatre temps complets.",
+        "pressed": "2Piston et vilebrequin",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La rotation du moteur entraîne une hélice qui agit sur l’air.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "aeroengine",
+        "live": "À observer · 3 / 3Entraîner l’héliceL’hélice est une surface portante tournante ; elle accélère de l’air vers l’arrière. La transmission peut être directe ou comporter un réducteur selon l’appareil et le moteur.",
+        "pressed": "3Entraîner l’hélice",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "saf",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des huiles et graisses résiduelles peuvent être transformées en composants de carburant.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "saf",
+        "live": "À observer · 1 / 3Huiles et graissesL’exemple évoque la filière HEFA : la matière première doit subir des transformations chimiques et un traitement. Il ne suffit pas de filtrer une huile de cuisine pour l’utiliser dans un réacteur.",
+        "pressed": "1Huiles et graisses",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Des résidus agricoles ou forestiers peuvent alimenter d’autres filières.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "saf",
+        "live": "À observer · 2 / 3Résidus de biomasseLa conversion peut passer par différents intermédiaires selon le procédé. Le dessin regroupe ces transformations dans une installation générique ; la ressource et sa provenance doivent être évaluées.",
+        "pressed": "2Résidus de biomasse",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Du CO₂ capté et de l’hydrogène peuvent servir à synthétiser des hydrocarbures.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "saf",
+        "live": "À observer · 3 / 3Carburant de synthèseCette voie consomme de l’énergie. La compatibilité, les conditions de mélange et la durabilité dépendent de la filière qualifiée ; à la combustion, ces carburants émettent toujours du CO₂.",
+        "pressed": "3Carburant de synthèse",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "landingbrakes",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les freins dissipent de l’énergie et les pneus transmettent l’effort au sol.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "landingbrakes",
+        "live": "À observer · 1 / 3Freins des rouesLe zoom distingue disque, étrier et pneu. L’effort de la piste sur la roue s’oppose au mouvement de l’avion ; il dépend notamment de l’adhérence et du chargement sur les roues.",
+        "pressed": "1Freins des roues",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les spoilers augmentent la traînée et réduisent la portance.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "landingbrakes",
+        "live": "À observer · 2 / 3Aérofreins au solLes panneaux relevés sur l’aile sont distincts des volets. En diminuant la portance résiduelle, ils contribuent aussi à charger les roues et à rendre le freinage de roue efficace.",
+        "pressed": "2Aérofreins au sol",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un inverseur peut détourner une partie du flux vers l’avant et les côtés.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "landingbrakes",
+        "live": "À observer · 3 / 3Inverseur de pousséeLa coupe choisit un inverseur à grilles sur le flux secondaire d’une turbosoufflante. Le flux du cœur reste vers l’arrière ; la réaction du flux dévié contribue au ralentissement de l’avion.",
+        "pressed": "3Inverseur de poussée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "magnetos",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Deux magnétos alimentent deux bougies dans chaque cylindre.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "magnetos",
+        "live": "À observer · 1 / 3Deux voies activesLe dessin montre un seul cylindre pour rendre les deux chemins visibles. Les magnétos d’un système traditionnel sont entraînées par le moteur et produisent l’énergie de l’allumage indépendamment de la batterie de bord.",
+        "pressed": "1Deux voies actives",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Dans cet exemple, la voie B continue de fournir l’étincelle.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "magnetos",
+        "live": "À observer · 2 / 3Voie A indisponibleLa croix est sur la magnéto A : sa liaison devient grise, tandis que la bougie B reste active. La redondance peut permettre la poursuite de la combustion, avec des performances qui peuvent changer.",
+        "pressed": "2Voie A indisponible",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Dans la situation inverse, la voie A reste active.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "magnetos",
+        "live": "À observer · 3 / 3Voie B indisponibleLa comparaison illustre une panne simple d’une voie, pas toutes les pannes du moteur. Les deux allumages partagent le même moteur ; une indépendance électrique n’exclut pas toute cause commune.",
+        "pressed": "3Voie B indisponible",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "scooper",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "L’amphibie glisse sur l’eau pour effectuer un écopage.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "scooper",
+        "live": "À observer · 1 / 3Coque sur l’eauLa silhouette présente une aile haute et deux turbopropulseurs. Cette phase se déroule au contact de l’eau ; le dessin ne représente pas un simple survol sans contact.",
+        "pressed": "1Coque sur l’eau",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’avancement de la coque permet de faire entrer l’eau dans les écopes.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "scooper",
+        "live": "À observer · 2 / 3Écopes immergéesDans le repère de l’avion, l’eau arrive face aux ouvertures et remonte par des conduits vers les soutes. La coupe montre un trajet fonctionnel agrandi ; le détail des compartiments dépend de l’appareil.",
+        "pressed": "2Écopes immergées",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Après l’écopage, l’eau recueillie reste dans les soutes pour le transport.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "scooper",
+        "live": "À observer · 3 / 3Charge embarquéeL’entrée est refermée et la silhouette s’éloigne de la surface. La charge doit rester compatible avec l’appareil et les conditions d’utilisation ; aucune capacité ou performance n’est déduite de la taille du dessin.",
+        "pressed": "3Charge embarquée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "gradient"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "gradient"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "gradient"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "golearning"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "golearning"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "golearning"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "overfitting"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "overfitting"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "overfitting"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "attention"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "attention"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "attention"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "arcadelearning"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "arcadelearning"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "arcadelearning"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "exploration"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "exploration"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "exploration"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "convolution"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "convolution"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "convolution"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "recurrent"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "recurrent"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "recurrent"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "expertinference"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "expertinference"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "expertinference"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "diffusion"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "diffusion"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "diffusion"
+  }
+]

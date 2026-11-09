@@ -2,6 +2,8 @@ import Link from "next/link";
 
 import { getMainIllustration } from "@/lib/illustrations";
 import { frenchSpacing } from "@/lib/typography";
+import { getLessonDiagram, lessonPosterFrame } from "@/lib/lesson-visuals/registry";
+import { LessonDiagramCanvas } from "./lesson-visuals/LessonDiagramCanvas";
 
 import { ProgressBadge } from "./ProgressBadge";
 import { Cover, themeVars } from "./visual/Cover";
@@ -28,6 +30,7 @@ function slugOf(path: string): string {
 export function ArticleCard({ article }: { article: ArticleCardData }) {
   const trimmed = article.path.replace(/^\//, "");
   const image = getMainIllustration(slugOf(article.path));
+  const diagram = getLessonDiagram(trimmed);
 
   return (
     <Link
@@ -47,6 +50,12 @@ export function ArticleCard({ article }: { article: ArticleCardData }) {
             decoding="async"
             className="h-full w-full object-cover object-top"
           />
+        </div>
+      ) : diagram ? (
+        <div className="flex aspect-[16/10] items-center overflow-hidden border-b-[2.5px] border-line bg-[#eef3f8] p-3">
+          <div className="w-full">
+            <LessonDiagramCanvas spec={diagram} step={lessonPosterFrame(diagram)} decorative />
+          </div>
         </div>
       ) : (
         <Cover

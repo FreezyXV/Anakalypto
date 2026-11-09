@@ -1,0 +1,141 @@
+{
+  "slug": "un-petit-effort-un-grand-levier",
+  "version": 1,
+  "status": "published",
+  "title": "Comment un levier réduit-il l’effort ?",
+  "summary": "Déplace un appui et trouve comment équilibrer la même charge avec moins de force.",
+  "domain": "Technologies et ingénierie",
+  "domainPath": "technologies-et-ingenierie",
+  "minutes": 3,
+  "expandedPath": "/technologies-et-ingenierie/genie-civil/structures/le-levier-la-poulie-et-le-plan-incline-en-construction",
+  "objective": "Comprendre que l’effort dépend de sa distance à l’appui : un bras plus long permet une force plus faible, avec davantage de déplacement.",
+  "sources": [
+    {
+      "title": "Équilibre et moments des forces",
+      "url": "https://openstax.org/books/college-physics-2e/pages/9-2-the-second-condition-for-equilibrium",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Les machines simples",
+      "url": "https://openstax.org/books/physics/pages/9-3-simple-machines",
+      "publisher": "OpenStax — Rice University",
+      "checkedAt": "2026-10-11"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Une charge, deux distances",
+      "text": "La charge reste la même. Pourtant, la force nécessaire à droite dépend de la position de l’appui triangulaire.",
+      "visual": {
+        "kind": "lever",
+        "caption": "Charge constante de 120 N ; l’effort affiché maintient une barre idéale en équilibre.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Cherche le plus petit effort",
+      "text": "Déplace l’appui vers la charge, à gauche. Observe la distance à droite et la force en newtons. La barre reste en équilibre : le dessin ne montre pas un levage.",
+      "visual": {
+        "kind": "lever",
+        "caption": "Charge constante de 120 N ; l’effort affiché maintient une barre idéale en équilibre.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "range",
+        "label": "Position de l’appui",
+        "minLabel": "Près de l’effort",
+        "maxLabel": "Près de la charge",
+        "feedback": "Compare les distances de chaque côté. Plus le bras de l’effort est long par rapport à celui de la charge, moins il faut de force."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Où placer l’appui ?",
+      "text": "La force de la charge reste fixée à 120 N dans cette expérience.",
+      "visual": {
+        "kind": "lever",
+        "caption": "Charge constante de 120 N ; l’effort affiché maintient une barre idéale en équilibre.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pour équilibrer une charge avec moins de force, où placer l’appui du levier ?",
+        "options": [
+          {
+            "id": "option-1",
+            "label": "Plus près de la charge",
+            "feedback": "Oui. Le bras de la charge raccourcit et le bras de l’effort s’allonge."
+          },
+          {
+            "id": "option-2",
+            "label": "Plus près de la main qui pousse",
+            "feedback": "Cela raccourcit le bras de l’effort : il faut au contraire une force plus grande."
+          },
+          {
+            "id": "option-3",
+            "label": "La position de l’appui ne compte pas",
+            "feedback": "La distance à l’appui compte autant que la force dans l’effet de rotation."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "Force × distance",
+      "text": "À l’équilibre, les deux effets de rotation se compensent : force de la charge × son bras = force de l’effort × son bras. Les bras sont mesurés depuis l’appui.",
+      "visual": {
+        "kind": "lever",
+        "caption": "Charge constante de 120 N ; l’effort affiché maintient une barre idéale en équilibre.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Le prix du petit effort",
+      "text": "Un levier idéal transmet le travail reçu. Il ne fabrique pas d’énergie.",
+      "visual": {
+        "kind": "lever",
+        "caption": "Charge constante de 120 N ; l’effort affiché maintient une barre idéale en équilibre.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Avec un levier idéal, si la main exerce moins de force pour soulever la même charge, que doit-elle faire ?",
+        "options": [
+          {
+            "id": "option-2",
+            "label": "Parcourir une distance plus petite",
+            "feedback": "On ne gagne pas à la fois en force et en distance pour le même travail."
+          },
+          {
+            "id": "option-3",
+            "label": "Ne plus se déplacer du tout",
+            "feedback": "Pour soulever la charge, il faut fournir du travail : la main doit se déplacer."
+          },
+          {
+            "id": "option-1",
+            "label": "Parcourir une distance plus grande",
+            "feedback": "Oui. Le gain en force se paie en déplacement ; le levier ne crée pas d’énergie."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "Le bon réflexe",
+      "text": "Pour comprendre un levier, repère l’appui, les forces et leurs distances. Un bras d’effort plus long aide à pousser moins fort ; lors du levage, la main parcourt davantage de chemin.",
+      "visual": {
+        "kind": "lever",
+        "caption": "Charge constante de 120 N ; l’effort affiché maintient une barre idéale en équilibre.",
+        "active": true
+      }
+    }
+  ]
+}

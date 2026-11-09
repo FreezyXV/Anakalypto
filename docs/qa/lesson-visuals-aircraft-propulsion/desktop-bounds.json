@@ -1,0 +1,126 @@
+{
+  "frames": [
+    {
+      "frame": "0",
+      "kind": "hydrogenair",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "hydrogenair",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "hydrogenair",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "zeroe",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "zeroe",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "zeroe",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "electricair",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "electricair",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "electricair",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "aeroengine",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "aeroengine",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "aeroengine",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "saf",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "saf",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "saf",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "landingbrakes",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "landingbrakes",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "landingbrakes",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "magnetos",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "magnetos",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "magnetos",
+      "outside": []
+    },
+    {
+      "frame": "0",
+      "kind": "scooper",
+      "outside": []
+    },
+    {
+      "frame": "1",
+      "kind": "scooper",
+      "outside": []
+    },
+    {
+      "frame": "2",
+      "kind": "scooper",
+      "outside": []
+    }
+  ],
+  "scrollWidth": 1280,
+  "width": 1280
+}

@@ -61,6 +61,13 @@ export function GlassDiagram({ state }: DiagramProps) {
         <path d="M233 114 Q226 104 237 102 Q241 94 245 103 Q254 111 247 116 Z" fill="#d97124" />
       )}
       <Arrow x={273} y={115} dx={22} dy={0} dim={!state.active} />
+      <path
+        d="M303 77 H297 V132 H303 M331 77 H337 V132 H331"
+        stroke="#7d8d9c"
+        strokeWidth="2.5"
+        fill="none"
+        strokeLinejoin="round"
+      />
       <Bottle x={317} y={76} fill={state.active ? "#91cfaf" : "#dce3ea"} scale={0.75} />
       <Label x={57} y={153} size={12}>
         Collecte
@@ -72,7 +79,7 @@ export function GlassDiagram({ state }: DiagramProps) {
         Four
       </Label>
       <Label x={316} y={153} size={12}>
-        Moule
+        Moulage
       </Label>
       {state.active && (
         <>

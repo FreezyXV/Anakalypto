@@ -36,10 +36,10 @@ export function FrescoDiagram({ state }: DiagramProps) {
           />
         ))}
       {s >= 3 &&
-        [0, 1, 2, 3, 4, 5].map((i) => (
+        (s === 3 ? [0, 2, 4] : [0, 1, 2, 3, 4, 5]).map((i) => (
           <path
             key={i}
-            d={`M${184 - (i % 2) * 9} ${61 + i * 13} h23 v15 h-23 Z`}
+            d={`M${184 - (i % 2) * 9} ${63 + i * 13} l14 -3 l7 8 l-7 7 l-14 -3 Z`}
             fill="none"
             stroke={C.green}
             strokeWidth="1.5"
@@ -60,7 +60,7 @@ export function FrescoDiagram({ state }: DiagramProps) {
           <circle cx="225" cy="101" r="5" fill="#b83e45" />
           <Arrow x={241} y={121} dx={24} dy={11} color={C.orange} />
           <Label x={283} y={151} size={12}>
-            Ajout fragile
+            Ajout en surface
           </Label>
         </>
       ) : s >= 1 ? (

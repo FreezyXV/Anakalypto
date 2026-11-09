@@ -1,0 +1,182 @@
+[
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "perspective"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "perspective"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "perspective"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "printing"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "printing"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "printing"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "engraving"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "engraving"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "engraving"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "arch"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "arch"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "arch"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "timbre"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "timbre"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "timbre"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "camera"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "camera"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "camera"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "pendulum"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "pendulum"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "pendulum"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "radiocarbon"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "radiocarbon"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "radiocarbon"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "probability"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "probability"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "probability"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "sorting"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "sorting"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "sorting"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "cpu"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "cpu"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "cpu"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "id": "barcode"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "id": "barcode"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "id": "barcode"
+  }
+]

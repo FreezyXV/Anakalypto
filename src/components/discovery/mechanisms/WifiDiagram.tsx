@@ -12,12 +12,18 @@ export function WifiDiagram({ state }: DiagramProps) {
         width="73"
         height="37"
         rx="7"
-        fill="#fff"
+        fill="var(--art-metal)"
         stroke={C.ink}
         strokeWidth="3"
       />
       <path d="M42 99 V75 M85 99 V75 M8 117 H28" stroke={C.ink} strokeWidth="3" />
       <circle cx="87" cy="122" r="4" fill={state.active ? C.green : C.muted} />
+      <path
+        d="M40 117 h27 M40 122 h20 M40 127 h24"
+        stroke="#99aab9"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+      />
       <Label x={65} y={158}>
         Box
       </Label>
@@ -61,11 +67,12 @@ export function WifiDiagram({ state }: DiagramProps) {
         width="47"
         height="85"
         rx="8"
-        fill="#fff"
+        fill="var(--art-metal)"
         stroke={C.ink}
         strokeWidth="3"
       />
       <path d="M294 75 H315 M299 143 H310" stroke={C.ink} strokeWidth="2" />
+      <rect x="286" y="82" width="37" height="53" rx="2" fill="#f2f8ff" />
       <Label x={304} y={106} color={state.active ? C.blue : C.muted} size={12}>
         {state.active ? "0101" : "—"}
       </Label>

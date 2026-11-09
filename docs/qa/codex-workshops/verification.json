@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-10",
+  "target": "http://127.0.0.1:3002",
+  "mobileWorkshops": [
+    {
+      "slug": "allumer-une-lampe",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": false,
+      "variants": []
+    },
+    {
+      "slug": "de-la-pate-a-la-feuille",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": []
+    },
+    {
+      "slug": "feuille-et-lumiere",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": []
+    },
+    {
+      "slug": "la-bouteille-qui-revient",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": []
+    },
+    {
+      "slug": "la-couleur-dans-le-mur",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "retouch",
+          "referenceStable": true,
+          "caption": "Le nouvel ajout de pigment reste sur l’enduit déjà durci. Il n’est pas incorporé de la même manière qu’un pigment posé sur enduit frais.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "la-voix-dans-le-fil",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": []
+    },
+    {
+      "slug": "le-pain-qui-gonfle",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "microbes",
+          "referenceStable": true,
+          "caption": "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "le-pilote-qui-corrige",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "gust",
+          "referenceStable": true,
+          "caption": "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "le-turbo",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": []
+    },
+    {
+      "slug": "le-voyage-de-l-electricite",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "balance",
+          "referenceStable": true,
+          "caption": "Production et consommation sont mises en regard. Le réseau doit maintenir leur équilibre ; les câbles ne sont pas une réserve d’électricité.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "les-donnees-dans-l-air",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "walls",
+          "referenceStable": true,
+          "caption": "L’onde radio est atténuée par les murs et la distance. Elle arrive plus faible ; cela ne signifie pas que les murs effacent des bits.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "les-quatre-temps",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": false,
+      "variants": []
+    },
+    {
+      "slug": "naissance-d-un-cyclone",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "land",
+          "referenceStable": true,
+          "caption": "Sur terre, l’alimentation par la mer chaude est coupée. Une circulation résiduelle est encore dessinée : le cyclone s’affaiblit progressivement.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "naissance-d-un-sol",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": [
+        {
+          "scene": "erosion",
+          "referenceStable": true,
+          "caption": "La pluie emporte une partie de la couche de surface d’un sol nu. La roche reste ; la couche perdue ne se reforme pas immédiatement.",
+          "width": 320,
+          "scroll": 320,
+          "minTextPx": 12.266666666666667
+        }
+      ]
+    },
+    {
+      "slug": "savon-et-graisse",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "pinnedMatches": true,
+      "variants": []
+    }
+  ],
+  "mobileCovers": [
+    {
+      "slug": "allumer-une-lampe",
+      "caption": "L’interrupteur ferme le trajet entre les deux bornes de la pile, à travers la lampe. Le courant circule dans la boucle et la lampe s’allume ; les flèches donnent son sens conventionnel.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "de-la-pate-a-la-feuille",
+      "caption": "La feuille presque sèche est enroulée en bobine.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "feuille-et-lumiere",
+      "caption": "La lumière fournit l’énergie. L’eau libère l’O₂ ; le carbone du CO₂ sert au sucre. Les deux trajets sont distincts.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "la-bouteille-qui-revient",
+      "caption": "Les intrus sont écartés. Le verre d’emballage devient du calcin, est refondu et prend la forme d’une nouvelle bouteille.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "la-couleur-dans-le-mur",
+      "caption": "Les pigments sont fixés dans l’enduit durci. Le dessin distingue carbonatation et simple perte d’eau.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "la-voix-dans-le-fil",
+      "caption": "Le son fait vibrer la membrane du micro. Le courant varie selon la voix ; l’écouteur recrée des vibrations de l’air. Les courbes sont symboliques.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "le-pain-qui-gonfle",
+      "caption": "La pâte gonfle avec des bulles de CO₂. Les levures produisent surtout le gaz, les bactéries surtout les acides. Le dessin compare des états, sans mesurer le temps.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "le-pilote-qui-corrige",
+      "caption": "La consigne des pilotes reste choisie. Les capteurs mesurent l’état réel ; le calculateur compare et les servomoteurs commandent les gouvernes. La mesure revient dans la boucle.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "le-turbo",
+      "caption": "Les gaz entrent dans la turbine puis sortent ; l’air entre dans le compresseur puis va au moteur. Les deux roues tournent rapidement, avec un même axe. L’indicateur est qualitatif.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "le-voyage-de-l-electricite",
+      "caption": "La prise domestique représentée est à 230 volts en France. Le curseur suit des étapes, pas le déplacement d’un électron.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "les-donnees-dans-l-air",
+      "caption": "La box émet une onde radio porteuse de données ; l’antenne du téléphone la reçoit. Le téléphone peut répondre. Les arcs ne montrent pas une fréquence mesurée.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "les-quatre-temps",
+      "caption": "Combustion-détente : les soupapes restent fermées. Les gaz chauds poussent le piston vers le bas.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "naissance-d-un-cyclone",
+      "caption": "L’air humide monte autour de l’œil. La condensation libère de la chaleur. L’œil est une colonne dégagée avec de l’air descendant ; à gauche, la rotation est vue du dessus dans l’hémisphère nord. D’autres conditions sont nécessaires.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "naissance-d-un-sol",
+      "caption": "Le sol présente des horizons au-dessus de la roche-mère. Les processus se chevauchent ; le curseur n’est pas une horloge réelle.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "slug": "savon-et-graisse",
+      "caption": "Les molécules de savon entourent la graisse : les têtes bleues sont vers l’eau, les queues orange vers la graisse. La graisse reste présente ; le groupe peut être dispersé puis emporté au rinçage.",
+      "minTextPx": 12.22202380952381,
+      "outside": [],
+      "scroll": 320,
+      "width": 320,
+      "workshop": true
+    }
+  ],
+  "desktopWorkshops": [
+    {
+      "slug": "allumer-une-lampe",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "de-la-pate-a-la-feuille",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "feuille-et-lumiere",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "la-bouteille-qui-revient",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "la-couleur-dans-le-mur",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "la-voix-dans-le-fil",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "le-pain-qui-gonfle",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "le-pilote-qui-corrige",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "le-turbo",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "le-voyage-de-l-electricite",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "les-donnees-dans-l-air",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "les-quatre-temps",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "naissance-d-un-cyclone",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "naissance-d-un-sol",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    },
+    {
+      "slug": "savon-et-graisse",
+      "width": 1280,
+      "scroll": 1280,
+      "figures": 2,
+      "minTextPx": 18.666666666666668
+    }
+  ],
+  "pinRechecks": [
+    {
+      "slug": "les-quatre-temps",
+      "sameCaption": true,
+      "sameDrawing": true
+    },
+    {
+      "slug": "allumer-une-lampe",
+      "sameCaption": true,
+      "sameDrawing": true
+    }
+  ],
+  "rawMarkupNote": "Un HTML SSR et un HTML React peuvent différer par les commentaires et la précision sérialisée de style. Les deux recontrôles comparent le dessin sans ces détails et la transformation CSS effective du piston."
+}

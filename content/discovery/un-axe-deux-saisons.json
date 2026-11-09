@@ -1,0 +1,142 @@
+{
+  "slug": "un-axe-deux-saisons",
+  "version": 1,
+  "status": "published",
+  "title": "Pourquoi les saisons sont-elles opposées ?",
+  "summary": "Compare juin et décembre : le même axe incliné donne des étés et des hivers opposés au nord et au sud.",
+  "domain": "Espace et astronomie",
+  "domainPath": "espace-et-astronomie",
+  "minutes": 3,
+  "expandedPath": "/espace-et-astronomie/systeme-solaire/planetes/pourquoi-y-a-t-il-des-saisons-sur-terre",
+  "objective": "Comprendre que l’inclinaison de l’axe terrestre modifie l’ensoleillement des deux hémisphères au fil de l’année.",
+  "sources": [
+    {
+      "title": "What Causes the Seasons?",
+      "url": "https://spaceplace.nasa.gov/seasons/en/",
+      "publisher": "NASA / JPL",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Facts About Earth — Orbit and Rotation",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "publisher": "NASA",
+      "checkedAt": "2026-10-11"
+    }
+  ],
+  "steps": [
+    {
+      "id": "observer",
+      "title": "Deux Terres pour comparer",
+      "text": "Ces deux globes représentent la même Terre en juin et en décembre. Repère le N : l’axe incliné pointe dans la même direction dans les deux positions.",
+      "visual": {
+        "kind": "seasons",
+        "caption": "Deux positions de la même Terre, six mois à part. Le contour orange indique la position sélectionnée. L’axe garde sa direction ; tailles et orbite simplifiées.",
+        "active": false
+      }
+    },
+    {
+      "id": "essayer",
+      "title": "Passe de décembre à juin",
+      "text": "Sélectionne un solstice. Le contour orange change de côté. En juin, le nord penche vers le Soleil ; en décembre, c’est le sud.",
+      "visual": {
+        "kind": "seasons",
+        "caption": "Deux positions de la même Terre, six mois à part. Le contour orange indique la position sélectionnée. L’axe garde sa direction ; tailles et orbite simplifiées.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "toggle",
+        "label": "Position de la Terre",
+        "onLabel": "Solstice de juin",
+        "offLabel": "Solstice de décembre",
+        "onFeedback": "Juin : été au nord, hiver au sud. Le nord reçoit des rayons plus directs et ses jours sont généralement plus longs.",
+        "offFeedback": "Décembre : hiver au nord, été au sud. Le sud reçoit des rayons plus directs et ses jours sont généralement plus longs."
+      }
+    },
+    {
+      "id": "defi-1",
+      "title": "Au sud, quelle saison ?",
+      "text": "Les deux hémisphères ne sont pas orientés de la même manière vers le Soleil.",
+      "visual": {
+        "kind": "seasons",
+        "caption": "Deux positions de la même Terre, six mois à part. Le contour orange indique la position sélectionnée. L’axe garde sa direction ; tailles et orbite simplifiées.",
+        "active": true
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Au solstice de juin, c’est l’été dans l’hémisphère nord. Quelle saison est-ce dans l’hémisphère sud ?",
+        "options": [
+          {
+            "id": "option-2",
+            "label": "L’été aussi",
+            "feedback": "Les saisons des deux hémisphères sont opposées, pas synchronisées."
+          },
+          {
+            "id": "option-3",
+            "label": "Le printemps partout",
+            "feedback": "Le solstice de juin correspond à l’été au nord et à l’hiver au sud."
+          },
+          {
+            "id": "option-1",
+            "label": "L’hiver",
+            "feedback": "Oui. Le nord penche vers le Soleil, le sud à l’opposé."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "comprendre",
+      "title": "L’angle et la durée",
+      "text": "Un hémisphère tourné vers le Soleil reçoit des rayons plus directs et des jours plus longs. Cela augmente l’énergie reçue. L’axe est incliné d’environ 23,4° et garde presque sa direction sur une année.",
+      "visual": {
+        "kind": "seasons",
+        "caption": "Deux positions de la même Terre, six mois à part. Le contour orange indique la position sélectionnée. L’axe garde sa direction ; tailles et orbite simplifiées.",
+        "active": true
+      }
+    },
+    {
+      "id": "defi-2",
+      "title": "Le faux coupable",
+      "text": "La distance entre la Terre et le Soleil varie un peu, mais elle n’explique pas l’alternance annuelle des saisons des deux hémisphères.",
+      "visual": {
+        "kind": "seasons",
+        "caption": "Deux positions de la même Terre, six mois à part. Le contour orange indique la position sélectionnée. L’axe garde sa direction ; tailles et orbite simplifiées.",
+        "active": false
+      },
+      "interaction": {
+        "kind": "choice",
+        "question": "Pourquoi les hémisphères nord et sud ont-ils des saisons opposées ?",
+        "options": [
+          {
+            "id": "option-1",
+            "label": "L’axe incliné les expose différemment au Soleil",
+            "feedback": "Oui. L’inclinaison modifie la durée du jour et l’angle des rayons dans chaque hémisphère."
+          },
+          {
+            "id": "option-2",
+            "label": "La Terre entière s’éloigne du Soleil en hiver",
+            "feedback": "Les deux hémisphères sont sur la même planète, mais leurs saisons sont opposées."
+          },
+          {
+            "id": "option-3",
+            "label": "Le Soleil chauffe seulement un hémisphère pendant six mois",
+            "feedback": "Les deux hémisphères reçoivent de la lumière ; leur ensoleillement diffère."
+          }
+        ],
+        "correctOptionId": "option-1",
+        "checkpoint": true
+      }
+    },
+    {
+      "id": "retenir",
+      "title": "Un axe, deux effets",
+      "text": "Garde l’axe dans la même direction et change la position de la Terre : les hémisphères échangent leurs rôles. L’inclinaison change l’angle des rayons et la durée des jours.",
+      "visual": {
+        "kind": "seasons",
+        "caption": "Deux positions de la même Terre, six mois à part. Le contour orange indique la position sélectionnée. L’axe garde sa direction ; tailles et orbite simplifiées.",
+        "active": true
+      }
+    }
+  ]
+}

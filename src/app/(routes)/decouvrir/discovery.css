@@ -153,7 +153,17 @@
 .discovery-range-labels {
   display: flex;
   justify-content: space-between;
-  font-size: 0.8rem;
+  gap: 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.discovery-range-labels > span {
+  min-width: 0;
+  flex: 1;
+  overflow-wrap: anywhere;
+}
+.discovery-range-labels > span:last-child {
+  text-align: right;
 }
 .discovery-phase-options {
   display: grid;
@@ -168,10 +178,17 @@
   margin-top: 0.75rem;
 }
 .discovery-stage-options .discovery-option {
-  font-size: 0.8rem;
+  font-size: 1rem;
+  overflow-wrap: anywhere;
 }
-.discovery-stage-options .discovery-option:last-child {
+.discovery-stage-options .discovery-option:last-child:nth-child(odd) {
   grid-column: 1 / -1;
+}
+@media (max-width: 22.5rem) {
+  .discovery-stage-options,
+  .discovery-phase-options {
+    grid-template-columns: minmax(0, 1fr);
+  }
 }
 .discovery-radio {
   animation: discovery-radio 2s ease-in-out infinite;
@@ -182,7 +199,8 @@
   }
 }
 .discovery-phase-options .discovery-option {
-  font-size: 0.8rem;
+  font-size: 1rem;
+  overflow-wrap: anywhere;
   padding: 0.5rem;
 }
 .discovery-phase-options .discovery-option[data-selected="true"] {

@@ -1,0 +1,58 @@
+{
+  "moon": [
+    {
+      "button": "Nouvelle Lune",
+      "valueText": "Nouvelle Lune"
+    },
+    {
+      "button": "Premier croissant",
+      "valueText": "Premier croissant"
+    },
+    {
+      "button": "Premier quartier",
+      "valueText": "Premier quartier"
+    },
+    {
+      "button": "Gibbeuse croissante",
+      "valueText": "Gibbeuse croissante"
+    },
+    {
+      "button": "Pleine Lune",
+      "valueText": "Pleine Lune"
+    },
+    {
+      "button": "Gibbeuse décroissante",
+      "valueText": "Gibbeuse décroissante"
+    },
+    {
+      "button": "Dernier quartier",
+      "valueText": "Dernier quartier"
+    },
+    {
+      "button": "Dernier croissant",
+      "valueText": "Dernier croissant"
+    }
+  ],
+  "buoyancy": {
+    "at75": "Masse totale : 1000 kg\nCoque étanche\n1 m³ au maximum\nPoussée\n9.8 kN\nPoids\n9.8 kN\nEau déplacée : 1000 L\n1000 kg au total ; 1000 L déplacés. La coque est entièrement immergée : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+    "at76": "Masse totale : 1008 kg\nCoque étanche\n1 m³ au maximum\nPoussée\n9.8 kN\nPoids\n9.9 kN\nEau déplacée : 1000 L\n1008 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique."
+  },
+  "piston": [
+    {
+      "button": "1. Admission",
+      "caption": "Admission : le piston descend, la soupape d’admission est ouverte. Le mélange entre."
+    },
+    {
+      "button": "2. Compression",
+      "caption": "Compression : le piston monte, les deux soupapes sont fermées. Le mélange est comprimé."
+    },
+    {
+      "button": "3. Combustion-détente",
+      "caption": "Combustion-détente : les soupapes restent fermées. Les gaz chauds poussent le piston vers le bas."
+    },
+    {
+      "button": "4. Échappement",
+      "caption": "Échappement : le piston monte, la soupape d’échappement est ouverte. Les gaz brûlés sortent."
+    }
+  ]
+}

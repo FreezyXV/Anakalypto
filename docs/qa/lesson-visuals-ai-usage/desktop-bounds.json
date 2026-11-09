@@ -1,0 +1,122 @@
+[
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "multimodal"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "multimodal"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "multimodal"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "hallucination"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "hallucination"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "hallucination"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "localmodel"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "localmodel"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "localmodel"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "assistive"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "assistive"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "assistive"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "syntheticmedia"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "syntheticmedia"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "syntheticmedia"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "retrieval"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "retrieval"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "retrieval"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "robotaction"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "robotaction"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "robotaction"
+  },
+  {
+    "bad": [],
+    "frame": "0",
+    "kind": "visionlanguage"
+  },
+  {
+    "bad": [],
+    "frame": "1",
+    "kind": "visionlanguage"
+  },
+  {
+    "bad": [],
+    "frame": "2",
+    "kind": "visionlanguage"
+  }
+]

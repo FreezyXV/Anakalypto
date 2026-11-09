@@ -1,0 +1,336 @@
+{
+  "date": "2026-10-11",
+  "origin": "http://127.0.0.1:3002",
+  "actor": "Codex — recette technique, aucun participant humain",
+  "unitTests": 40,
+  "guided": [
+    {
+      "slug": "un-petit-effort-un-grand-levier",
+      "steps": 6,
+      "checkpoints": 2,
+      "manipulated": true,
+      "articleLink": true,
+      "objective": true
+    },
+    {
+      "slug": "le-bateau-et-l-eau-deplacee",
+      "steps": 6,
+      "checkpoints": 2,
+      "manipulated": true,
+      "articleLink": true,
+      "objective": true
+    },
+    {
+      "slug": "la-lune-et-nos-points-de-vue",
+      "steps": 6,
+      "checkpoints": 2,
+      "manipulated": true,
+      "articleLink": true,
+      "objective": true
+    },
+    {
+      "slug": "un-axe-deux-saisons",
+      "steps": 6,
+      "checkpoints": 2,
+      "manipulated": true,
+      "articleLink": true,
+      "objective": true
+    },
+    {
+      "slug": "deux-roues-deux-vitesses",
+      "steps": 6,
+      "checkpoints": 2,
+      "manipulated": true,
+      "articleLink": true,
+      "objective": true
+    }
+  ],
+  "review": [
+    {
+      "slug": "un-petit-effort-un-grand-levier",
+      "finished": true
+    },
+    {
+      "slug": "le-bateau-et-l-eau-deplacee",
+      "finished": true
+    },
+    {
+      "slug": "la-lune-et-nos-points-de-vue",
+      "finished": true
+    },
+    {
+      "slug": "un-axe-deux-saisons",
+      "finished": true
+    },
+    {
+      "slug": "deux-roues-deux-vitesses",
+      "finished": true
+    }
+  ],
+  "workshops": [
+    {
+      "slug": "un-petit-effort-un-grand-levier",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "le-bateau-et-l-eau-deplacee",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "la-lune-et-nos-points-de-vue",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "un-axe-deux-saisons",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "deux-roues-deux-vitesses",
+      "width": 320,
+      "scroll": 320,
+      "minTextPx": 12.266666666666667,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "un-petit-effort-un-grand-levier",
+      "width": 1280,
+      "scroll": 1280,
+      "minTextPx": 18.666666666666668,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "le-bateau-et-l-eau-deplacee",
+      "width": 1280,
+      "scroll": 1280,
+      "minTextPx": 18.666666666666668,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "la-lune-et-nos-points-de-vue",
+      "width": 1280,
+      "scroll": 1280,
+      "minTextPx": 18.666666666666668,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "un-axe-deux-saisons",
+      "width": 1280,
+      "scroll": 1280,
+      "minTextPx": 18.666666666666668,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    },
+    {
+      "slug": "deux-roues-deux-vitesses",
+      "width": 1280,
+      "scroll": 1280,
+      "minTextPx": 18.666666666666668,
+      "referenceStable": true,
+      "drawingChanged": true,
+      "captionChanged": true,
+      "variants": [],
+      "pinned": {
+        "sameCaption": true,
+        "sameDrawing": true
+      }
+    }
+  ],
+  "covers": [
+    {
+      "caption": true,
+      "discoveryLink": true,
+      "minTextPx": 12.22202380952381,
+      "scroll": 320,
+      "slug": "un-petit-effort-un-grand-levier",
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "caption": true,
+      "discoveryLink": true,
+      "minTextPx": 12.22202380952381,
+      "scroll": 320,
+      "slug": "le-bateau-et-l-eau-deplacee",
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "caption": true,
+      "discoveryLink": true,
+      "minTextPx": 12.22202380952381,
+      "scroll": 320,
+      "slug": "la-lune-et-nos-points-de-vue",
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "caption": true,
+      "discoveryLink": true,
+      "minTextPx": 12.22202380952381,
+      "scroll": 320,
+      "slug": "un-axe-deux-saisons",
+      "width": 320,
+      "workshop": true
+    },
+    {
+      "caption": true,
+      "discoveryLink": true,
+      "minTextPx": 12.22202380952381,
+      "scroll": 320,
+      "slug": "deux-roues-deux-vitesses",
+      "width": 320,
+      "workshop": true
+    }
+  ],
+  "lunarPhases": [
+    {
+      "caption": "Nouvelle Lune : environ 0 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Nouvelle Lune"
+    },
+    {
+      "caption": "Premier croissant : environ 15 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Premier croissant"
+    },
+    {
+      "caption": "Premier quartier : environ 50 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Premier quartier"
+    },
+    {
+      "caption": "Gibbeuse croissante : environ 85 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Gibbeuse croissante"
+    },
+    {
+      "caption": "Pleine Lune : environ 100 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Pleine Lune"
+    },
+    {
+      "caption": "Gibbeuse décroissante : environ 85 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Gibbeuse décroissante"
+    },
+    {
+      "caption": "Dernier quartier : environ 50 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Dernier quartier"
+    },
+    {
+      "caption": "Dernier croissant : environ 15 % du disque visible est éclairé. Le Soleil éclaire toujours une moitié de la Lune ; notre angle de vue change. Vue depuis l’hémisphère nord, orbite et tailles simplifiées.",
+      "label": "Dernier croissant"
+    }
+  ],
+  "buoyancyBoundary": {
+    "neutral": {
+      "caption": "1000 kg au total ; 1000 L déplacés. La coque est entièrement immergée : poussée et poids se compensent. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+      "value": "75"
+    },
+    "sinking": {
+      "caption": "1008 kg au total ; 1000 L déplacés. Même immergée, la coque ne déplace pas assez d’eau : elle s’enfonce. Modèle : coque étanche de 1 m³, eau douce à 1 kg/L. La position verticale est schématique.",
+      "value": "76"
+    }
+  },
+  "catalog": {
+    "cards": 20,
+    "newLinks": [
+      {
+        "present": true,
+        "slug": "un-petit-effort-un-grand-levier"
+      },
+      {
+        "present": true,
+        "slug": "le-bateau-et-l-eau-deplacee"
+      },
+      {
+        "present": true,
+        "slug": "la-lune-et-nos-points-de-vue"
+      },
+      {
+        "present": true,
+        "slug": "un-axe-deux-saisons"
+      },
+      {
+        "present": true,
+        "slug": "deux-roues-deux-vitesses"
+      }
+    ],
+    "scroll": 1280,
+    "width": 1280
+  },
+  "limits": [
+    "Pas de lecteur d’écran réel",
+    "Durée cible, non mesurée avec des participants",
+    "Articles Expanded non revérifiés en entier",
+    "Rapport Claude phase 5 limité aux quinze anciens sujets"
+  ]
+}

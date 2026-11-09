@@ -124,7 +124,7 @@ try {
     "-l",
     path.join(root, "postgres.log"),
     "-o",
-    `-p ${dbPort} -h 127.0.0.1 -k ${socket} -c max_connections=30`,
+    `-p ${dbPort} -h 127.0.0.1 -k ${socket} -c max_connections=100`,
     "-w",
     "start",
   ]);
@@ -134,6 +134,7 @@ try {
   const options = { cwd: snapshot, env: environment };
   run(path.join(repository, "node_modules/.bin/prisma"), ["migrate", "deploy"], options);
   run(process.execPath, ["--import", "tsx", "prisma/seed.ts"], options);
+  run(process.execPath, ["--import", "tsx", "scripts/check-preview-content.ts"], options);
 
   if (runTests) {
     run("createdb", ["-h", "127.0.0.1", "-p", String(dbPort), "-U", role, testDatabase]);
@@ -156,6 +157,7 @@ try {
         testDatabase,
         role,
         testsRun: runTests,
+        launcherPid: process.pid,
         createdAt: new Date().toISOString(),
       },
       null,

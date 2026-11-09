@@ -1,0 +1,254 @@
+[
+  {
+    "id": "winglet",
+    "step": 0,
+    "width": 1280,
+    "caption": "Aux extrémités, l’écoulement s’enroule en tourbillons."
+  },
+  {
+    "id": "winglet",
+    "step": 1,
+    "width": 1280,
+    "caption": "L’extrémité relevée modifie la répartition de l’écoulement."
+  },
+  {
+    "id": "winglet",
+    "step": 2,
+    "width": 1280,
+    "caption": "Le sillage subsiste avec le winglet ; sa distribution change."
+  },
+  {
+    "id": "boundary",
+    "step": 0,
+    "width": 1280,
+    "caption": "Au contact de la paroi, l’air est immobile dans ce repère."
+  },
+  {
+    "id": "boundary",
+    "step": 1,
+    "width": 1280,
+    "caption": "Des couches ordonnées ont des vitesses différentes."
+  },
+  {
+    "id": "boundary",
+    "step": 2,
+    "width": 1280,
+    "caption": "Des fluctuations mélangent l’air à l’intérieur de la couche."
+  },
+  {
+    "id": "transonic",
+    "step": 0,
+    "width": 1280,
+    "caption": "Dans cette première situation, l’écoulement reste subsonique."
+  },
+  {
+    "id": "transonic",
+    "step": 1,
+    "width": 1280,
+    "caption": "Au-dessus de l’aile, une poche devient localement supersonique."
+  },
+  {
+    "id": "transonic",
+    "step": 2,
+    "width": 1280,
+    "caption": "Un choc ralentit brusquement l’air ; une séparation peut suivre."
+  },
+  {
+    "id": "sonicboom",
+    "step": 0,
+    "width": 1280,
+    "caption": "Les petites perturbations sonores devancent la source."
+  },
+  {
+    "id": "sonicboom",
+    "step": 1,
+    "width": 1280,
+    "caption": "Les fronts idéalisés se rejoignent devant la source."
+  },
+  {
+    "id": "sonicboom",
+    "step": 2,
+    "width": 1280,
+    "caption": "À vitesse supersonique, une enveloppe conique reste en arrière."
+  },
+  {
+    "id": "turboprop",
+    "step": 0,
+    "width": 1280,
+    "caption": "L’air est comprimé, puis chauffé par la combustion."
+  },
+  {
+    "id": "turboprop",
+    "step": 1,
+    "width": 1280,
+    "caption": "La turbine entraîne l’hélice par un arbre et un réducteur."
+  },
+  {
+    "id": "turboprop",
+    "step": 2,
+    "width": 1280,
+    "caption": "L’hélice accélère une grande masse d’air vers l’arrière."
+  },
+  {
+    "id": "sixpack",
+    "step": 0,
+    "width": 1280,
+    "caption": "Vitesse, altitude et variation d’altitude utilisent les pressions."
+  },
+  {
+    "id": "sixpack",
+    "step": 1,
+    "width": 1280,
+    "caption": "Assiette, virage et cap complètent le tableau classique."
+  },
+  {
+    "id": "sixpack",
+    "step": 2,
+    "width": 1280,
+    "caption": "Aucun cadran, seul, ne décrit tout le mouvement de l’avion."
+  },
+  {
+    "id": "attitude",
+    "step": 0,
+    "width": 1280,
+    "caption": "Le symbole fixe de l’avion est aligné avec l’horizon de référence."
+  },
+  {
+    "id": "attitude",
+    "step": 1,
+    "width": 1280,
+    "caption": "L’horizon s’incline face au symbole fixe de l’avion."
+  },
+  {
+    "id": "attitude",
+    "step": 2,
+    "width": 1280,
+    "caption": "L’horizon descend sous le symbole fixe lorsque le nez se relève."
+  },
+  {
+    "id": "drag",
+    "step": 0,
+    "width": 1280,
+    "caption": "L’air près de la surface exerce une contrainte de frottement."
+  },
+  {
+    "id": "drag",
+    "step": 1,
+    "width": 1280,
+    "caption": "Une séparation importante laisse un large sillage derrière l’objet."
+  },
+  {
+    "id": "drag",
+    "step": 2,
+    "width": 1280,
+    "caption": "Une aile finie qui porte laisse aussi un sillage tourbillonnaire."
+  },
+  {
+    "id": "windtunnel",
+    "step": 0,
+    "width": 1280,
+    "caption": "Le ventilateur fait circuler l’air dans la veine d’essai."
+  },
+  {
+    "id": "windtunnel",
+    "step": 1,
+    "width": 1280,
+    "caption": "Une balance mesure les efforts transmis par le support."
+  },
+  {
+    "id": "windtunnel",
+    "step": 2,
+    "width": 1280,
+    "caption": "Des traceurs aident à observer le parcours de l’écoulement."
+  },
+  {
+    "id": "flaps",
+    "step": 0,
+    "width": 1280,
+    "caption": "Le bec avant et le volet arrière s’intègrent au profil."
+  },
+  {
+    "id": "flaps",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le volet recule et s’abaisse : la cambrure augmente."
+  },
+  {
+    "id": "flaps",
+    "step": 2,
+    "width": 1280,
+    "caption": "Le bec s’avance ; une fente laisse passer de l’air vers le dessus."
+  },
+  {
+    "id": "glide",
+    "step": 0,
+    "width": 1280,
+    "caption": "Sans poussée, un vol plané stabilisé descend dans l’air."
+  },
+  {
+    "id": "glide",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le poids est vertical ; portance et traînée sont liées à la trajectoire."
+  },
+  {
+    "id": "glide",
+    "step": 2,
+    "width": 1280,
+    "caption": "En air immobile, la finesse relie distance horizontale et hauteur perdue."
+  },
+  {
+    "id": "icing",
+    "step": 0,
+    "width": 1280,
+    "caption": "Des gouttes encore liquides rencontrent une surface froide."
+  },
+  {
+    "id": "icing",
+    "step": 1,
+    "width": 1280,
+    "caption": "La glace modifie le bord d’attaque et sa rugosité."
+  },
+  {
+    "id": "icing",
+    "step": 2,
+    "width": 1280,
+    "caption": "La séparation peut survenir plus tôt et réduire la portance maximale."
+  },
+  {
+    "id": "helicopter",
+    "step": 0,
+    "width": 1280,
+    "caption": "Les pales rencontrent l’air parce qu’elles tournent."
+  },
+  {
+    "id": "helicopter",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le collectif change ensemble le pas des pales."
+  },
+  {
+    "id": "helicopter",
+    "step": 2,
+    "width": 1280,
+    "caption": "Une force de rotor inclinée possède une composante horizontale."
+  },
+  {
+    "id": "turbulence",
+    "step": 0,
+    "width": 1280,
+    "caption": "Un chauffage inégal favorise des mouvements convectifs."
+  },
+  {
+    "id": "turbulence",
+    "step": 1,
+    "width": 1280,
+    "caption": "Le relief peut créer ondes et zones turbulentes sous le vent."
+  },
+  {
+    "id": "turbulence",
+    "step": 2,
+    "width": 1280,
+    "caption": "Des variations de vent peuvent favoriser la turbulence."
+  }
+]

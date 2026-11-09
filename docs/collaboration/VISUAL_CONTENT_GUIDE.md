@@ -1,6 +1,6 @@
 # Créer les visuels d’Anakalypto
 
-Les quinze découvertes fonctionnent maintenant avec des schémas SVG dessinés dans l’application : les trois pilotes, le piston et onze nouveaux mécanismes. Aucune image à générer n’est nécessaire pour les tester. Le catalogue et les expériences se consultent sur `/decouvrir`. L’inventaire et les limites figurent dans `VISUAL_DELIVERY.md`. Commencer par la justesse pédagogique ; affiner ensuite le style.
+Les vingt découvertes fonctionnent maintenant avec des schémas SVG dessinés dans l’application. Le levier, la flottaison, les engrenages, les phases de la Lune et les saisons complètent les quinze premiers sujets. Aucune image à générer n’est nécessaire pour les tester. Le catalogue et les expériences se consultent sur `/decouvrir`. L’inventaire initial figure dans `VISUAL_DELIVERY.md`, les cinq ajouts et leurs limites dans `NEW_VISUAL_SUBJECTS_DELIVERY.md`. Commencer par la justesse pédagogique ; affiner ensuite le style.
 
 ## Ce que tu peux produire
 
@@ -35,6 +35,8 @@ Objectif : comprendre qu’un trajet fermé est nécessaire dans ce circuit à p
 > Dessine une pile, une lampe et un interrupteur dans une boucle simple. Produis les états interrupteur ouvert / lampe éteinte et interrupteur fermé / lampe allumée. Les fils doivent joindre correctement les deux bornes de la pile et les deux connexions de la lampe. Aucune liaison directe qui court-circuite la lampe. Prépare des éléments SVG séparés pour les fils, les contacts, la pile et la lampe. Les flèches de courant sont ajoutées dans le code, avec le sens conventionnel clairement expliqué. Aucun texte dans le dessin.
 
 ## Ajouter une illustration statique à Expanded
+
+Les vingt articles associés à Découvrir disposent aussi d’un atelier visuel, avec commandes et comparaison. Sept situations alternatives enrichissent les quinze premiers ateliers. Leurs schémas servent de couverture lorsqu’aucune illustration n’est importée. L’atelier réutilise la manipulation et les variantes des JSON ; l’inventaire des quinze premiers ateliers figure dans `VISUAL_WORKSHOPS_DELIVERY.md`, les cinq ajouts dans `NEW_VISUAL_SUBJECTS_DELIVERY.md`.
 
 Le circuit existant décrit dans `docs/ILLUSTRATIONS.md` reste disponible :
 

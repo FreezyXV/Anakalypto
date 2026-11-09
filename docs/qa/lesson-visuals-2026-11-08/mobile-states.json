@@ -1,0 +1,530 @@
+[
+  {
+    "id": "perspective",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Les lignes qui s’éloignent convergent vers un même point de fuite.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "perspective",
+        "live": "À observer · 1 / 3Les lignes du solDans cet exemple à un point de fuite, le plan du tableau reste parallèle à la façade. Seule la famille de lignes qui s’éloigne de face converge vers ce point.",
+        "pressed": "1Les lignes du sol",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les intervalles paraissent se resserrer vers l’horizon.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "perspective",
+        "live": "À observer · 2 / 3Les transversalesLe dessin est une projection de carreaux de même profondeur. Les verticales restent verticales et les transversales restent horizontales dans cette configuration.",
+        "pressed": "2Les transversales",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Deux personnages de même taille paraissent différents selon leur distance.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "perspective",
+        "live": "À observer · 3 / 3Deux tailles apparentesLes pieds et les têtes respectent les mêmes directions de fuite. La ligne d’horizon correspond à la hauteur de l’œil, pas forcément au bord réel d’une mer.",
+        "pressed": "3Deux tailles apparentes",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "printing",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Des caractères séparés forment une ligne prête à imprimer.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "printing",
+        "live": "À observer · 1 / 3Composer et encrerLes signes sont inversés sur leur face imprimante pour donner une lecture correcte sur la feuille. Les blocs peuvent être redistribués après usage.",
+        "pressed": "1Composer et encrer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La vis abaisse une platine qui presse le papier sur les caractères encrés.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "printing",
+        "live": "À observer · 2 / 3Appliquer la pressionLe dessin montre une coupe fonctionnelle de la presse. L’encre se transfère depuis les surfaces en relief vers le papier.",
+        "pressed": "2Appliquer la pression",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La feuille est retirée ; la composition peut être réencrée pour une autre impression.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "printing",
+        "live": "À observer · 3 / 3RecommencerLa presse, l’encre, le métal et la composition fonctionnent ensemble. Ce schéma explique le procédé sans attribuer à Gutenberg l’invention mondiale du caractère mobile.",
+        "pressed": "3Recommencer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "engraving",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La partie que l’on veut imprimer reste en relief.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "engraving",
+        "live": "À observer · 1 / 3Creuser les blancsCet exemple montre une gravure en relief, comme sur bois ou linoléum. Les zones creusées ne doivent pas toucher la surface du rouleau.",
+        "pressed": "1Creuser les blancs",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le rouleau dépose l’encre sur les zones hautes de la matrice.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "engraving",
+        "live": "À observer · 2 / 3Encrer le reliefLe fond des creux reste sans encre dans ce procédé. En taille-douce, l’encre est au contraire conservée dans les creux : c’est une autre technique.",
+        "pressed": "2Encrer le relief",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le papier prend l’encre au contact des zones en relief.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "engraving",
+        "live": "À observer · 3 / 3Presser le papierLa coupe montre le transfert sur la feuille. Une vue de la feuille imprimée redressée serait inversée par rapport à la face de la matrice.",
+        "pressed": "3Presser le papier",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "arch",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un support provisoire porte les voussoirs pendant la construction.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "arch",
+        "live": "À observer · 1 / 3Construire sur un cintreLes pierres taillées en coin sont posées de part et d’autre. Le cintre de bois soutient le montage tant qu’il ne forme pas un ensemble stable.",
+        "pressed": "1Construire sur un cintre",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La clé complète l’anneau de pierres.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "arch",
+        "live": "À observer · 2 / 3Fermer avec la cléL’arc complet transmet des efforts de compression entre ses pierres. La stabilité dépend aussi de sa forme, de ses charges et de ses appuis.",
+        "pressed": "2Fermer avec la clé",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les appuis reprennent aussi la poussée horizontale de l’arc.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "arch",
+        "live": "À observer · 3 / 3Résister sur les côtésLes flèches orange indiquent l’action de l’arc sur les appuis ; les flèches bleues montrent leur réaction opposée. Leur longueur ne mesure pas un effort.",
+        "pressed": "3Résister sur les côtés",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "timbre",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une seule composante donne une sinusoïde.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "timbre",
+        "live": "À observer · 1 / 3Un son purLe graphe de gauche montre le signal en fonction du temps. Les bâtons à droite représentent les amplitudes des composantes aux fréquences f, 2f et 3f.",
+        "pressed": "1Un son pur",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Une deuxième harmonique modifie la forme sans changer la fondamentale f.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "timbre",
+        "live": "À observer · 2 / 3Ajouter 2fLe modèle additionne des sinusoïdes. Les amplitudes choisies illustrent un mélange, sans être une mesure réelle d’un instrument.",
+        "pressed": "2Ajouter 2f",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Un autre mélange d’harmoniques donne une autre forme périodique.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "timbre",
+        "live": "À observer · 3 / 3Ajouter 3fLes trois sons gardent la même période fondamentale. Le timbre réel dépend aussi de l’attaque, de l’évolution du son et d’autres composantes ; aucun son n’est joué automatiquement.",
+        "pressed": "3Ajouter 3f",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "camera",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un rayon venant du haut de l’objet atteint le bas de l’écran.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "camera",
+        "live": "À observer · 1 / 3Suivre le hautLa boîte est vue en coupe. Le petit trou ne retourne pas lui-même le rayon : la lumière continue en ligne droite après l’ouverture.",
+        "pressed": "1Suivre le haut",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le bas de l’objet se projette en haut de l’écran.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "camera",
+        "live": "À observer · 2 / 3Suivre le basLes deux faisceaux se croisent au niveau du trou. L’image est inversée verticalement ; les distances du dessin ne sont pas celles d’un appareil particulier.",
+        "pressed": "2Suivre le bas",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’écran reçoit une image renversée de la scène extérieure.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "camera",
+        "live": "À observer · 3 / 3Voir la projectionUne chambre noire projette une image sans la conserver. La photographie demande en plus une surface sensible et un moyen d’enregistrer durablement cette image.",
+        "pressed": "3Voir la projection",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "pendulum",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le pendule court a une période d’environ 1,42 seconde.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "pendulum",
+        "live": "À observer · 1 / 3Court · 0,5 mLa période est la durée d’un aller-retour complet. Le modèle utilise T = 2π√(L/g), pour une petite amplitude et g = 9,81 m/s².",
+        "pressed": "1Court · 0,5 m",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "À un mètre, la période vaut environ 2,01 secondes.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "pendulum",
+        "live": "À observer · 2 / 3Moyen · 1 mDoubler la longueur multiplie la période par √2. La position dessinée est un instant choisi pour comparer les longueurs, pas une animation chronométrée.",
+        "pressed": "2Moyen · 1 m",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "À deux mètres, la période vaut environ 2,84 secondes.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "pendulum",
+        "live": "À observer · 3 / 3Long · 2 mLa longueur se mesure du point d’attache au centre de la masse. La formule néglige les frottements, l’élasticité du fil et les grandes amplitudes.",
+        "pressed": "3Long · 2 m",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "radiocarbon",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La fraction de carbone 14 de départ sert de référence : 100 %.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "radiocarbon",
+        "live": "À observer · 1 / 3Au départOn considère un échantillon fermé aux échanges après sa mort. Les points symbolisent une fraction moyenne dans un très grand ensemble, pas 64 atomes dont la date de désintégration serait prédite.",
+        "pressed": "1Au départ",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Après environ 5 730 ans, la fraction moyenne restante vaut 50 %.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "radiocarbon",
+        "live": "À observer · 2 / 3Une demi-vieDes noyaux de carbone 14 se sont transformés en azote 14. Les points grisés ne signifient pas que la moitié de la matière de l’échantillon a disparu.",
+        "pressed": "2Une demi-vie",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Après environ 11 460 ans, la fraction moyenne restante vaut 25 %.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "radiocarbon",
+        "live": "À observer · 3 / 3Deux demi-viesOn divise à nouveau par deux la quantité restante, pas la quantité de départ. Une datation réelle demande des références, une calibration et une analyse des incertitudes.",
+        "pressed": "3Deux demi-vies",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "probability",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Une pièce idéale équilibrée donne Pile ou Face avec la même probabilité.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "probability",
+        "live": "À observer · 1 / 3Un lancerChaque branche vaut une chance sur deux. On pose l’hypothèse de lancers indépendants et d’une pièce qui ne reste pas sur la tranche.",
+        "pressed": "1Un lancer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les quatre suites PP, PF, FP et FF sont équiprobables.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "probability",
+        "live": "À observer · 2 / 3Deux lancersChaque chemin a une probabilité 1/2 × 1/2 = 1/4. La deuxième lettre dépend du deuxième lancer ; le premier résultat ne change pas sa probabilité.",
+        "pressed": "2Deux lancers",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Obtenir une fois Pile et une fois Face correspond à deux chemins sur quatre.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "probability",
+        "live": "À observer · 3 / 3Un de chaquePF et FP sont deux suites distinctes. Leur probabilité totale vaut 1/4 + 1/4 = 1/2 ; le hasard ne garantit pas que chaque série de quatre essais contienne ces quatre suites.",
+        "pressed": "3Un de chaque",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "sorting",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "La liste contient 4, 1, 3 et 2 dans cet ordre.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "sorting",
+        "live": "À observer · 1 / 3Liste de départLe dessin illustre le tri par insertion. On commence par considérer la première valeur comme une partie déjà triée.",
+        "pressed": "1Liste de départ",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le 1 passe avant le 4 ; les deux premières valeurs sont rangées.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "sorting",
+        "live": "À observer · 2 / 3Insérer le 1La partie colorée est un préfixe trié. Les valeurs 3 et 2 restent à insérer ; un préfixe trié ne signifie pas que la liste entière est triée.",
+        "pressed": "2Insérer le 1",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Après insertion du 3 puis du 2, on obtient 1, 2, 3 et 4.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "sorting",
+        "live": "À observer · 3 / 3Liste triéeLe dernier dessin résume deux insertions supplémentaires. Le calcul conserve toutes les valeurs et n’en invente aucune ; d’autres algorithmes peuvent obtenir le même résultat autrement.",
+        "pressed": "3Liste triée",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "cpu",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Le processeur reçoit une instruction depuis la mémoire.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "cpu",
+        "live": "À observer · 1 / 3LireLa mémoire et le boîtier du processeur sont séparés. Les traits représentent des échanges logiques, sans coder la largeur réelle des bus.",
+        "pressed": "1Lire",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "La commande reconnaît l’opération et sélectionne les données.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "cpu",
+        "live": "À observer · 2 / 3DécoderDans cet exemple, il faut additionner 2 et 3. Les registres contiennent les opérandes que l’unité de calcul va utiliser.",
+        "pressed": "2Décoder",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "L’unité de calcul produit 5, puis le résultat est rangé dans un registre.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "cpu",
+        "live": "À observer · 3 / 3Calculer et rangerLes données ne sont pas toutes reconverties en texte dans un vrai processeur. Ce cycle pédagogique ne décrit pas le parallélisme, les caches ni l’exécution spéculative.",
+        "pressed": "3Calculer et ranger",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  },
+  {
+    "id": "barcode",
+    "states": [
+      {
+        "badLabels": [],
+        "caption": "Un lecteur éclaire les barres et les espaces du code.",
+        "focus": "BUTTON",
+        "frame": "0",
+        "kind": "barcode",
+        "live": "À observer · 1 / 3ÉclairerLe motif dessiné est un exemple technique EAN-13, avec un chiffre de contrôle cohérent. Il n’est pas présenté comme un produit commercial attribué.",
+        "pressed": "1Éclairer",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Les espaces clairs renvoient davantage de lumière que les barres sombres.",
+        "focus": "BUTTON",
+        "frame": "1",
+        "kind": "barcode",
+        "live": "À observer · 2 / 3Mesurer le contrasteLe signal simplifié sous le code représente cette alternance le long d’une ligne de lecture. Un vrai lecteur doit aussi gérer l’orientation, le bruit et les défauts d’impression.",
+        "pressed": "2Mesurer le contraste",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      },
+      {
+        "badLabels": [],
+        "caption": "Le lecteur décode un identifiant ; la caisse consulte ensuite sa base.",
+        "focus": "BUTTON",
+        "frame": "2",
+        "kind": "barcode",
+        "live": "À observer · 3 / 3Retrouver l’identifiantUn code-barres de produit identifie l’article. Le prix est normalement associé à sa fiche dans le système de la caisse, pas contenu dans ce motif EAN de démonstration.",
+        "pressed": "3Retrouver l’identifiant",
+        "renderedFont": 12.55,
+        "scrollWidth": 320,
+        "visibleFigures": 1,
+        "width": 320
+      }
+    ]
+  }
+]

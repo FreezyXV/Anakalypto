@@ -5,10 +5,11 @@ function House({ x, y, lit }: { x: number; y: number; lit: boolean }) {
     <g>
       <path
         d={`M${x - 21} ${y} l21 -18 l21 18 v35 h-42 Z`}
-        fill="#fff"
+        fill="var(--art-metal)"
         stroke={C.ink}
         strokeWidth="2"
       />
+      <path d={`M${x - 21} ${y} l21 -18 l21 18 Z`} fill="#d7e5f1" stroke="#68839b" />
       <rect
         x={x - 7}
         y={y + 8}
@@ -59,17 +60,25 @@ export function GridDiagram({ state }: DiagramProps) {
       <Title>Changer la tension le long du réseau</Title>
       <g>
         <path
-          d="M15 119 V76 H56 V119 Z M26 76 V49 H36 V76"
-          fill="#fff"
+          d="M15 119 V76 H56 V119 Z M15 76 L35 61 L56 76"
+          fill="var(--art-metal)"
           stroke={C.ink}
           strokeWidth="2"
         />
+        <circle cx="36" cy="99" r="12" fill="#fff" stroke="#8ca1b6" />
+        <path d="M27 99 q4 -12 9 0 t9 0" fill="none" stroke={C.blue} strokeWidth="1.5" />
         <Label x={36} y={138} size={11}>
           Centrale
         </Label>
       </g>
-      <g opacity={s >= 1 ? 1 : 0.3}>
+      <g opacity={s >= 1 ? 1 : 0.6}>
         <rect x="78" y="89" width="31" height="31" rx="4" fill="#fff1ba" stroke={C.ink} />
+        <path
+          d="M86 96 q7 2 0 5 q7 2 0 5 q7 2 0 5 M98 96 q-7 2 0 5 q-7 2 0 5 q-7 2 0 5"
+          fill="none"
+          stroke="#a97c32"
+          strokeWidth="1.3"
+        />
         <Label x={94} y={81} size={14} color={C.orange}>
           ↑ V
         </Label>
@@ -77,7 +86,7 @@ export function GridDiagram({ state }: DiagramProps) {
           Élever
         </Label>
       </g>
-      <g opacity={s >= 2 ? 1 : 0.3}>
+      <g opacity={s >= 2 ? 1 : 0.6}>
         <path
           d="M156 120 L176 46 L197 120 M163 91 H189 M157 69 H196 M151 55 H202 M156 120 L188 91 L163 91 L183 66"
           stroke={C.ink}
@@ -88,8 +97,14 @@ export function GridDiagram({ state }: DiagramProps) {
           Transport
         </Label>
       </g>
-      <g opacity={s >= 3 ? 1 : 0.3}>
+      <g opacity={s >= 3 ? 1 : 0.6}>
         <rect x="233" y="89" width="31" height="31" rx="4" fill="#fff1ba" stroke={C.ink} />
+        <path
+          d="M241 96 q7 2 0 5 q7 2 0 5 q7 2 0 5 M253 96 q-7 2 0 5 q-7 2 0 5 q-7 2 0 5"
+          fill="none"
+          stroke="#a97c32"
+          strokeWidth="1.3"
+        />
         <Label x={249} y={81} size={14} color={C.orange}>
           ↓ V
         </Label>
@@ -97,7 +112,7 @@ export function GridDiagram({ state }: DiagramProps) {
           Abaisser
         </Label>
       </g>
-      <g opacity={s >= 4 ? 1 : 0.3}>
+      <g opacity={s >= 4 ? 1 : 0.6}>
         <House x={316} y={85} lit={s >= 4} />
         <Label x={316} y={138} size={11}>
           230 V
