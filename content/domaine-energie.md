@@ -297,8 +297,15 @@ Ces usages sont beaucoup plus difficiles à remplacer que la combustion, et ils 
 - Le gaz émet moins de CO2 que le charbon, mais les fuites de méthane pèsent lourd.
 - Plastiques, engrais et médicaments dépendent aussi du pétrole.
 
-[Emplacement image : densité énergétique comparée des principaux vecteurs d'énergie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Pourquoi le pétrole est si difficile à remplacer
+chiffres:
+  - valeur: 1 litre
+    texte: d'essence contient autant d'énergie que 40 kg de batteries
+  - valeur: Millions d'années
+    texte: pour former ce stock, qui n'est pas un flux
+```
 
 ---
 
@@ -403,8 +410,20 @@ continue de croître, ce qui complique la sortie.
 - Il est abondant, bon marché, stockable simplement, et les centrales existent.
 - Il tue aussi par la pollution de l'air, de manière immédiate et locale.
 
-[Emplacement image : émissions comparées des sources d'électricité, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Pourquoi le charbon tient, et ce qu'il coûte
+centre: Charbon
+parties:
+  - nom: Abondant et bon marché
+    role: Et les centrales existent déjà.
+  - nom: Stockable simplement
+    role: En tas, sans installation complexe.
+  - nom: Le plus émetteur de CO2
+    role: Par unité d'électricité produite.
+  - nom: Pollution de l'air
+    role: Il tue aussi de façon immédiate et locale.
+```
 
 ---
 
@@ -497,6 +516,16 @@ Le risque d'accident enfin. Il est faible en probabilité mais ses conséquences
 durables et territoriales, comme l'ont montré Tchernobyl et Fukushima. Cette combinaison — faible
 probabilité, conséquences lourdes — est particulièrement difficile à évaluer collectivement.
 
+```schema
+type: chiffres
+titre: Le nucléaire dans le monde
+chiffres:
+  - valeur: 416
+    texte: réacteurs environ
+  - valeur: 9 %
+    texte: de l'électricité mondiale, environ
+```
+
 ## À retenir
 
 - Environ 416 réacteurs, près de 9 % de l'électricité mondiale.
@@ -504,8 +533,22 @@ probabilité, conséquences lourdes — est particulièrement difficile à éval
 - Peu d'émissions et production pilotable, indépendante de la météo.
 - Coût de construction, déchets à vie longue et risque d'accident sont les trois difficultés.
 
-[Emplacement image : schéma de fonctionnement d'un réacteur à eau pressurisée, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Une centrale nucléaire, une centrale à vapeur
+elements:
+  - titre: Fission
+    texte: Elle chauffe l'eau du réacteur.
+    icone: atom
+  - titre: Vapeur
+    texte: La chaleur produit de la vapeur.
+  - titre: Turbine
+    texte: La vapeur la fait tourner.
+    icone: turbine
+  - titre: Alternateur
+    texte: Il produit l'électricité.
+    icone: bolt
+```
 
 ---
 
@@ -611,8 +654,17 @@ transition, souvent absente des comparaisons de prix par kilowattheure.
 - La capacité installée n'est pas la production réelle.
 - Le coût du solaire a chuté de plus de 90 % en quinze ans.
 
-[Emplacement image : croissance de la capacité renouvelable mondiale par technologie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères des renouvelables
+chiffres:
+  - valeur: 600 GW
+    texte: de solaire installés dans le monde en 2025, environ
+  - valeur: 32 % → 43 %
+    texte: part des renouvelables dans l'électricité d'ici 2030
+  - valeur: "-90 %"
+    texte: baisse du coût du solaire en quinze ans
+```
 
 ---
 
@@ -715,8 +767,17 @@ d'atténuation, comme l'arrêt temporaire des machines lors des périodes de mig
 - L'éolien en mer produit davantage grâce à un vent plus fort et régulier.
 - Le recyclage des pales composites reste une difficulté.
 
-[Emplacement image : puissance d'une éolienne en fonction de la vitesse du vent, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: L'éolien en 2024
+chiffres:
+  - valeur: 117 GW
+    texte: installés dans l'année
+  - valeur: 1 136 GW
+    texte: de parc mondial
+  - valeur: Cube
+    texte: la puissance varie comme le cube de la vitesse du vent
+```
 
 ---
 
@@ -818,8 +879,21 @@ Et la sécheresse réduit la production, ce qui fragilise les pays très dépend
 - Le pompage-turbinage stocke l'électricité avec un rendement supérieur à 75 %.
 - Il représente l'essentiel de la capacité mondiale de stockage.
 
-[Emplacement image : principe d'une station de transfert d'énergie par pompage, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: La station de pompage, une batterie d'eau
+elements:
+  - titre: Électricité abondante
+    texte: L'eau est pompée vers le bassin du haut.
+  - titre: Stockage
+    texte: L'eau attend en hauteur.
+    icone: droplet
+  - titre: Forte demande
+    texte: L'eau redescend dans les turbines.
+    icone: bolt
+  - titre: Bassin du bas
+    texte: L'eau est prête à être remontée.
+```
 
 ---
 
@@ -921,8 +995,19 @@ produire de l'électricité, mais coûte beaucoup moins cher.
 - Les renouvelables déplacent l'ajustement de la production vers le stockage et la demande.
 - L'effacement de consommation équivaut à de la production, en moins coûteux.
 
-[Emplacement image : équilibre production-consommation et variation de la fréquence, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Ce que dit la fréquence du réseau
+colonnes:
+  - titre: Production supérieure
+    points:
+      - La fréquence monte
+      - On réduit la production ou on stocke
+  - titre: Consommation supérieure
+    points:
+      - La fréquence baisse
+      - On produit plus ou on efface de la consommation
+```
 
 ---
 
@@ -1026,8 +1111,17 @@ stockage fixe, où le poids n'a aucune importance, c'est un compromis intéressa
 - Les batteries conviennent au stockage de quelques heures, pas au stockage saisonnier.
 - Le sodium-ion utilise une matière abondante, au prix d'une densité plus faible.
 
-[Emplacement image : évolution du prix des batteries lithium-ion depuis 2010, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Prix d'une batterie lithium-ion
+unite: $/kWh
+valeurs:
+  - label: Début des années 2010
+    valeur: 1000
+    note: plus de
+  - label: Fin 2025
+    valeur: 108
+```
 
 ---
 
@@ -1136,8 +1230,19 @@ facilement, fragilise certains métaux, et demande une compression très forte o
 - Son usage le plus utile est de remplacer l'hydrogène fossile déjà consommé par l'industrie.
 - Pour les voitures et le chauffage, l'électricité directe est bien plus efficace.
 
-[Emplacement image : chaîne de production et d'usage de l'hydrogène selon sa couleur, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: L'hydrogène, où il a du sens
+legende: Il doit être fabriqué, c'est un vecteur et non une source.
+colonnes:
+  - titre: Usage utile
+    points:
+      - Remplacer l'hydrogène fossile de l'industrie
+  - titre: Usage moins pertinent
+    points:
+      - Voitures et chauffage
+      - L'électricité directe y est bien plus efficace
+```
 
 ---
 
@@ -1238,8 +1343,21 @@ surestiment systématiquement leurs résultats, parce qu'elles raisonnent à usa
 - L'effet rebond absorbe une partie des gains d'efficacité.
 - Les prévisions à usage constant surestiment les économies réelles.
 
-[Emplacement image : gain théorique et gain réel après effet rebond, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Efficacité ou sobriété
+colonnes:
+  - titre: Efficacité
+    points:
+      - Le même service avec moins d'énergie
+      - Une pompe à chaleur rend trois à quatre fois l'électricité consommée
+  - titre: Sobriété
+    points:
+      - On réduit le service lui-même
+  - titre: Effet rebond
+    points:
+      - Une partie des gains est absorbée par plus d'usage
+```
 
 ---
 
@@ -1338,8 +1456,20 @@ hiérarchiser, et ne pas s'épuiser sur un poste marginal en ayant le sentiment 
 - Une pompe à chaleur divise la consommation de chauffage par trois ou quatre.
 - Éteindre les veilles est utile mais marginal au regard des autres postes.
 
-[Emplacement image : répartition de la consommation d'énergie d'un logement par usage, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les leviers par ordre d'efficacité
+elements:
+  - titre: Le chauffage
+    texte: Il domine largement la consommation d'un logement.
+    icone: fire
+  - titre: Isoler les combles
+    texte: Souvent le meilleur rapport coût-économie.
+  - titre: Pompe à chaleur
+    texte: Elle divise par trois ou quatre la consommation de chauffage.
+  - titre: Les veilles
+    texte: Utile, mais marginal.
+```
 
 ---
 
@@ -1435,8 +1565,18 @@ sulfurique.
 - Le craquage casse les molécules lourdes pour produire davantage de carburants légers.
 - La désulfuration retire le soufre, responsable de pollution à la combustion.
 
-[Emplacement image : coupe d'une tour de distillation avec les produits recueillis par niveau,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du pétrole brut aux carburants
+elements:
+  - titre: Distillation
+    texte: Les molécules se séparent selon leur température d'ébullition.
+    icone: factory
+  - titre: Craquage
+    texte: Les molécules lourdes sont cassées en carburants légers.
+  - titre: Désulfuration
+    texte: On retire le soufre, source de pollution.
+```
 
 ---
 
@@ -1538,8 +1678,20 @@ faut-il pouvoir récupérer les déchets plus tard, si une meilleure solution ap
 - Un faible volume concentre l'essentiel de la radioactivité.
 - Le stockage géologique profond vise une barrière passive, sans surveillance perpétuelle.
 
-[Emplacement image : classement des déchets radioactifs par activité et durée de vie, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Activité et durée de vie, deux critères
+colonnes:
+  - titre: Très actifs
+    points:
+      - Faible volume
+      - Concentrent l'essentiel de la radioactivité
+      - Stockage géologique profond envisagé
+  - titre: Peu actifs
+    points:
+      - Grand volume
+      - Faible radioactivité
+```
 
 ---
 
@@ -1647,8 +1799,22 @@ solution pour la décennie en cours.
 - Il faut dépasser cent millions de degrés et confiner un plasma par champ magnétique.
 - La production d'électricité sur le réseau reste une échéance lointaine.
 
-[Emplacement image : principe d'un tokamak et confinement magnétique du plasma, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Fission ou fusion
+colonnes:
+  - titre: Fission
+    icone: atom
+    points:
+      - Casse des noyaux lourds
+      - Utilisée dans les centrales actuelles
+  - titre: Fusion
+    icone: sun
+    points:
+      - Assemble des noyaux légers
+      - Plus de cent millions de degrés
+      - Plasma confiné par un champ magnétique
+```
 
 ---
 
@@ -1748,8 +1914,21 @@ panneau préfère une journée froide et lumineuse à une canicule.
 - L'ombrage partiel pénalise fortement les panneaux reliés en série.
 - Le rendement diminue quand la température monte.
 
-[Emplacement image : coupe d'une cellule photovoltaïque et trajet des électrons, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De la lumière au courant
+elements:
+  - titre: Lumière
+    texte: Elle frappe le silicium.
+    icone: sun
+  - titre: Électrons libérés
+    texte: La lumière arrache des électrons.
+  - titre: Champ interne
+    texte: Il oriente les électrons dans un sens.
+  - titre: Courant
+    texte: Environ 20 à 22 % de la lumière convertie.
+    icone: bolt
+```
 
 ---
 
@@ -1855,8 +2034,21 @@ largement concurrencées.
 - Les centrales à concentration concentrent le rayonnement par des miroirs mobiles.
 - La chaleur stockée dans des sels fondus permet de produire après le coucher du soleil.
 
-[Emplacement image : centrale solaire à tour avec champ d'héliostats et stockage, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Une centrale solaire à concentration
+elements:
+  - titre: Miroirs mobiles
+    texte: Ils concentrent le rayonnement.
+    icone: sun
+  - titre: Chaleur
+    texte: Elle est captée au point de concentration.
+  - titre: Sels fondus
+    texte: Ils stockent la chaleur.
+  - titre: Électricité
+    texte: Produite même après le coucher du soleil.
+    icone: bolt
+```
 
 ---
 
@@ -1966,8 +2158,21 @@ différence, avec des résultats imparfaits.
 - Le système est dimensionné pour la pointe annuelle, pas pour la moyenne.
 - Le décalage entre production solaire et pointe de demande est un défi central.
 
-[Emplacement image : courbe de consommation journalière et production solaire superposées,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois façons de produire
+colonnes:
+  - titre: Pilotable
+    points:
+      - On décide quand produire
+      - Barrages, centrales thermiques
+  - titre: Variable
+    points:
+      - Dépend du vent et du soleil
+  - titre: Fatale
+    points:
+      - Produite qu'on en ait besoin ou non
+```
 
 ---
 
@@ -2073,8 +2278,19 @@ réactions, ce qui fait encore monter la température. D'où les dispositifs de 
 - Chaleur, charge rapide et charge pleine prolongée accélèrent le vieillissement.
 - Maintenir la charge entre 20 et 80 % prolonge la durée de vie.
 
-[Emplacement image : trajet des ions et des électrons lors de la charge et de la décharge,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Charge et décharge
+colonnes:
+  - titre: Charge
+    points:
+      - Les ions lithium vont vers l'électrode négative
+      - Le chargeur pousse les électrons
+  - titre: Décharge
+    points:
+      - Les ions reviennent vers l'électrode positive
+      - Les électrons passent par le circuit, c'est le courant
+```
 
 ---
 
@@ -2176,8 +2392,19 @@ malentendus dans le débat public.
 - Cette perte est une limite physique, pas un défaut technique.
 - Comparer des chiffres d'énergie sans préciser lesquels conduit à des erreurs.
 
-[Emplacement image : diagramme de flux de l'énergie primaire à l'énergie utile, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: De l'énergie primaire à l'énergie utile
+elements:
+  - titre: Énergie primaire
+    texte: Celle disponible dans la nature.
+  - titre: Transformation
+    texte: Une centrale thermique ne convertit qu'environ un tiers du combustible.
+    icone: factory
+  - titre: Énergie finale
+    texte: Celle livrée à l'usager.
+    icone: house
+```
 
 ---
 
@@ -2289,16 +2516,147 @@ title: Le biogaz, du gaz sans gisement
 slug: biogaz-gaz-sans-gisement
 categoryPath: energie/energies-fossiles-et-nucleaire/hydrocarbures
 summary: >
-  Un méthaniseur transforme fumier et déchets organiques en gaz combustible : une source d'énergie à la portée d'une ferme.
-tags: [hydrocarbures, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Dans une cuve fermée, sans air, des microbes transforment fumier et déchets organiques en un
+  gaz combustible riche en méthane. Ce biogaz sert à cuisiner, chauffer ou produire de
+  l'électricité, et le résidu fertilise les champs.
+tags: [hydrocarbures]
+relatedArticles: [charbon-bois, haies-bocage]
+sources:
+  - title: "Biogaz"
+    url: "https://fr.wikipedia.org/wiki/Biogaz"
+    publisher: "Wikipédia"
+  - title: "Méthanisation"
+    url: "https://fr.wikipedia.org/wiki/M%C3%A9thanisation"
+    publisher: "Wikipédia"
+  - title: "Anaerobic digestion"
+    url: "https://en.wikipedia.org/wiki/Anaerobic_digestion"
+    publisher: "Wikipedia"
+  - title: "Biogas"
+    url: "https://en.wikipedia.org/wiki/Biogas"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qui fabrique le méthane dans un méthaniseur ?"
+    options:
+      - "Des microbes qui vivent sans oxygène"
+      - "Le soleil qui chauffe la cuve"
+      - "Une réaction avec l'air"
+    answer: 1
+    explanation: >
+      Des communautés de bactéries et d'archées décomposent la matière organique en l'absence
+      d'oxygène. Les dernières, les archées méthanogènes, produisent le méthane.
+  - question: "Quelle part de méthane contient généralement le biogaz ?"
+    options:
+      - "Moins de 5 %"
+      - "Entre 50 et 70 % environ"
+      - "100 %"
+    answer: 2
+    explanation: >
+      Le biogaz contient surtout du méthane et du dioxyde de carbone, avec un peu de vapeur
+      d'eau et de sulfure d'hydrogène.
+  - question: "Que devient la matière qui sort du méthaniseur ?"
+    options:
+      - "Elle doit être brûlée"
+      - "Elle est toxique et inutilisable"
+      - "Elle sert d'engrais, c'est le digestat"
+    answer: 3
+    explanation: >
+      Le digestat conserve l'azote, le phosphore et le potassium de la matière de départ. On
+      l'épand sur les champs comme fertilisant.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le gaz naturel se tire de gisements formés en des millions d'années. Le biogaz, lui, se fabrique
+en quelques semaines : dans une cuve fermée et privée d'air, des microbes décomposent fumier,
+restes de cultures ou déchets de cuisine et libèrent un gaz combustible riche en méthane. On
+l'appelle **méthanisation**. Une ferme peut ainsi produire son propre gaz pour cuisiner, se
+chauffer ou faire de l'électricité, tout en obtenant un engrais.
+
+## Le travail des microbes
+
+Dans un marais, des bulles remontent parfois de la vase : c'est du méthane, produit par des
+microbes qui vivent sans oxygène. En 1776, l'Italien Alessandro Volta montre que ce « gaz des
+marais » est inflammable. Un méthaniseur reproduit ce phénomène de manière contrôlée.
+
+La décomposition se fait en plusieurs étapes, chacune assurée par des microbes différents :
+
+1. les grosses molécules, comme la cellulose, les graisses et les protéines, sont découpées en
+   sucres, acides gras et acides aminés ;
+2. ces petites molécules fermentent et donnent des acides, de l'hydrogène et du gaz carbonique ;
+3. des archées dites méthanogènes transforment enfin ces produits en **méthane**.
+
+Le gaz obtenu contient en général 50 à 70 % de méthane, le reste étant surtout du dioxyde de
+carbone, avec un peu de vapeur d'eau et de sulfure d'hydrogène, à l'odeur d'œuf pourri.
+
+## Le méthaniseur
+
+Un méthaniseur, ou digesteur, est une cuve étanche. On y introduit la matière organique mélangée
+à de l'eau. Le gaz s'accumule en haut, dans un dôme ou une cloche, d'où un tuyau l'emmène vers son
+usage. La matière digérée ressort de l'autre côté.
+
+```schema
+type: etapes
+titre: Du fumier au méthane
+legende: Trois groupes de microbes travaillent à la suite, sans oxygène.
+elements:
+  - titre: Découper
+    texte: Cellulose, graisses et protéines deviennent des molécules simples.
+  - titre: Fermenter
+    texte: Elles donnent des acides, de l'hydrogène et du gaz carbonique.
+  - titre: Produire le méthane
+    texte: Les archées méthanogènes fabriquent le méthane.
+    icone: fire
+  - titre: Utiliser
+    texte: Le gaz cuit, chauffe ou fait de l'électricité ; le digestat fertilise.
+    icone: leaf
+```
+
+Les microbes ont leurs exigences :
+
+- une **absence totale d'air**, car l'oxygène les tue ;
+- une **température stable**, idéalement autour de 35 à 40 °C ; en dessous de 15 °C, la
+  production devient très lente ;
+- un mélange équilibré : le fumier et le lisier apportent de l'azote et des microbes, la paille
+  ou les épluchures du carbone ;
+- un **temps de séjour** suffisant, souvent plusieurs semaines.
+
+En Chine et en Inde, des millions de petits digesteurs familiaux enterrés, alimentés par les
+déjections des animaux et parfois des toilettes, fournissent le gaz de cuisine de foyers ruraux.
+En Europe, de grandes unités traitent les effluents de plusieurs fermes ou les déchets des villes.
+
+## Utiliser le gaz
+
+Le biogaz brûle avec une flamme bleue dans une cuisinière adaptée. Il peut aussi alimenter une
+chaudière ou un moteur relié à un générateur, qui produit à la fois de l'électricité et de la
+chaleur. Une fois débarrassé de son gaz carbonique et de ses impuretés, il devient du
+**biométhane**, semblable au gaz naturel : il peut être injecté dans le réseau de gaz ou servir de
+carburant aux véhicules.
+
+## Le digestat, un engrais
+
+Ce qui sort du digesteur, le digestat, a perdu une partie de son carbone mais garde l'azote, le
+phosphore et le potassium. Épandu sur les champs, il remplace une partie des engrais. La
+méthanisation réduit aussi les odeurs du lisier et une partie des germes qu'il contient.
+
+## Les précautions
+
+- Le méthane mélangé à l'air explose lorsqu'il en représente entre 5 et 15 % environ : aucune
+  flamme près des fuites, et des installations bien ventilées.
+- Le sulfure d'hydrogène est toxique et corrode les métaux ; on le retire avec un filtre, par
+  exemple de la limaille de fer.
+- On n'entre jamais dans une cuve qui a contenu du biogaz sans l'avoir aérée : on peut y mourir
+  asphyxié.
+- Une fuite de méthane réchauffe le climat bien plus que le même volume de gaz carbonique.
+
+## À retenir
+
+- La méthanisation transforme la matière organique en biogaz grâce à des microbes qui vivent sans oxygène.
+- Le biogaz contient en général 50 à 70 % de méthane et sert à cuisiner, se chauffer ou produire de l'électricité.
+- Les microbes travaillent le mieux autour de 35 à 40 °C, dans une cuve parfaitement étanche.
+- Le digestat qui sort de la cuve est un engrais.
+- Le méthane est explosif mélangé à l'air et ne doit pas fuir.
 
 ---
 type: article
@@ -2408,16 +2766,149 @@ title: Le charbon de bois
 slug: charbon-bois
 categoryPath: energie/energies-fossiles-et-nucleaire/charbon
 summary: >
-  Carboniser le bois pour obtenir un combustible plus chaud et plus léger : le combustible qui a permis la métallurgie pendant des millénaires.
-tags: [charbon, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Le charbon de bois s'obtient en chauffant du bois presque sans air. Plus léger et plus chaud
+  que le bois, il a permis pendant des millénaires de fondre et forger les métaux. Il reste un
+  combustible majeur dans de nombreux pays.
+tags: [charbon]
+relatedArticles: [machine-vapeur, gerer-durablement-foret]
+sources:
+  - title: "Charbon de bois"
+    url: "https://fr.wikipedia.org/wiki/Charbon_de_bois"
+    publisher: "Wikipédia"
+  - title: "Charcoal"
+    url: "https://en.wikipedia.org/wiki/Charcoal"
+    publisher: "Wikipedia"
+  - title: "Simple technologies for charcoal making"
+    url: "https://www.fao.org/4/X5328e/x5328e00.htm"
+    publisher: "FAO"
+  - title: "Pyrolyse"
+    url: "https://fr.wikipedia.org/wiki/Pyrolyse"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi chauffe-t-on le bois presque sans air pour faire du charbon ?"
+    options:
+      - "Pour qu'il ne brûle pas entièrement et qu'il reste le carbone"
+      - "Pour qu'il devienne liquide"
+      - "Pour le rendre plus lourd"
+    answer: 1
+    explanation: >
+      Sans assez d'oxygène, le bois ne brûle pas. La chaleur chasse l'eau et les gaz, et il
+      reste un solide très riche en carbone.
+  - question: "Quelle quantité de charbon obtient-on environ avec 100 kg de bois dans une meule traditionnelle ?"
+    options:
+      - "90 kg"
+      - "50 kg"
+      - "10 à 20 kg"
+    answer: 3
+    explanation: >
+      Les méthodes traditionnelles ne transforment qu'une faible part de la masse du bois en
+      charbon. Les fours bien conduits font mieux, autour de 25 à 30 %.
+  - question: "Quel combustible a remplacé le charbon de bois dans les hauts fourneaux à partir du XVIIIe siècle ?"
+    options:
+      - "Le pétrole"
+      - "Le coke, tiré de la houille"
+      - "Le gaz naturel"
+    answer: 2
+    explanation: >
+      En 1709, Abraham Darby réussit à fondre du fer avec du coke. Cela a soulagé les forêts
+      européennes, très exploitées pour les forges.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le charbon de bois est le résidu noir et léger qu'on obtient en chauffant du bois presque sans
+air. Il brûle plus chaud que le bois, sans flamme ni fumée abondante, et se transporte
+facilement. Pendant des millénaires, il a été le seul combustible capable de fondre le cuivre et
+le fer. Aujourd'hui, il sert encore à cuisiner pour des centaines de millions de personnes,
+surtout en Afrique.
+
+## Ce qui se passe quand on carbonise du bois
+
+Le bois contient de l'eau, du carbone, de l'hydrogène et de l'oxygène. Quand on le chauffe dans
+un espace où l'air entre très peu, il ne peut pas brûler complètement. Il se décompose : c'est la
+**pyrolyse**.
+
+1. Jusqu'à environ 200 °C, l'eau s'évapore : la fumée est blanche et humide.
+2. Vers 280 °C, le bois se décompose de lui-même en dégageant de la chaleur, des gaz
+   combustibles, des goudrons et de l'acide.
+3. Entre 400 et 500 °C, il ne reste presque plus qu'un solide très riche en carbone, poreux et
+   cassant : le charbon de bois.
+
+Un kilogramme de charbon de bois libère environ deux fois plus de chaleur qu'un kilogramme de
+bois sec. Il brûle à très haute température, sans grande flamme, ce qui le rend idéal pour une
+forge.
+
+## La meule du charbonnier
+
+La méthode traditionnelle, utilisée en Europe jusqu'au XXe siècle, est la **meule**. Le
+charbonnier dresse au centre d'une clairière une cheminée de perches. Il empile autour des
+bûches debout, en dôme, puis recouvre le tout de feuilles, d'herbe et de terre. Il allume le feu
+par la cheminée, puis règle l'arrivée d'air en ouvrant ou bouchant de petits trous.
+
+La cuisson dure plusieurs jours. Le charbonnier surveille la couleur de la fumée : bleue et
+légère, elle indique que la carbonisation est terminée. Il étouffe alors la meule et la laisse
+refroidir avant d'ouvrir, sinon le charbon s'enflamme au contact de l'air.
+
+```schema
+type: echelle
+titre: Ce qui se passe quand on carbonise du bois
+legende: Températures indicatives de la pyrolyse.
+unite: °C
+min: 0
+max: 500
+zones:
+  - de: 0
+    a: 200
+    label: L'eau s'évapore, fumée blanche et humide
+    ton: info
+  - de: 200
+    a: 400
+    label: Le bois se décompose et dégage gaz, goudrons et chaleur
+    ton: attention
+  - de: 400
+    a: 500
+    label: Il ne reste presque que du carbone, le charbon de bois
+    ton: normal
+```
+
+Ces méthodes sont peu efficaces : avec 100 kg de bois, une meule ou un four en terre donne
+souvent 10 à 20 kg de charbon. Des fours en briques ou en métal, mieux étanches, atteignent 25 à
+30 %. Le reste part en gaz et en fumée, que les fours modernes peuvent récupérer et brûler.
+
+## Le combustible des métaux
+
+Pour séparer le métal de son minerai, il faut à la fois une forte chaleur et du carbone, qui
+arrache l'oxygène au minerai. Le charbon de bois apporte les deux. Il a rendu possible l'âge du
+bronze, puis l'âge du fer. Une forge ou un bas fourneau en consommait de grandes quantités.
+
+Au XVIIIe siècle, en Angleterre, les forêts ne suffisent plus. En 1709, Abraham Darby réussit à
+fondre du fer avec du **coke**, obtenu en chauffant de la houille sans air, selon le même
+principe que le charbon de bois. La sidérurgie se tourne alors vers la houille.
+
+## Un combustible encore très utilisé
+
+Selon la FAO, plus de la moitié du charbon de bois produit dans le monde l'est en Afrique, où il
+sert à cuisiner dans les villes. Cette demande contribue à la déforestation lorsque les arbres
+coupés ne sont pas replantés. Une production durable suppose des forêts gérées, des fours
+efficaces et des foyers de cuisson économes.
+
+Le charbon de bois sert aussi au barbecue, au dessin, au filtrage de l'eau sous forme de charbon
+actif, et à l'amendement des sols sous le nom de biochar.
+
+## Précautions
+
+La combustion du charbon de bois produit du **monoxyde de carbone**, un gaz invisible, sans
+odeur et mortel. On ne doit jamais l'utiliser dans une pièce fermée, une tente ou un garage.
+
+## À retenir
+
+- Le charbon de bois s'obtient par pyrolyse, en chauffant du bois presque sans air.
+- Il dégage environ deux fois plus de chaleur que le même poids de bois sec.
+- Une meule traditionnelle ne transforme que 10 à 20 % de la masse du bois en charbon.
+- Il a permis la métallurgie du bronze et du fer, avant d'être remplacé par le coke à partir de 1709.
+- Sa combustion produit du monoxyde de carbone : jamais en lieu clos.
 
 ---
 type: article
@@ -2493,16 +2984,176 @@ title: La machine à vapeur
 slug: machine-vapeur
 categoryPath: energie/energies-fossiles-et-nucleaire/charbon
 summary: >
-  Transformer la chaleur en mouvement : l'invention qui a lancé la révolution industrielle et son principe, toujours actuel.
-tags: [charbon, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une machine à vapeur transforme la chaleur d'un feu en mouvement. Améliorée par James Watt à
+  partir de 1769, elle a lancé la révolution industrielle. Son principe vit encore dans les
+  turbines des centrales électriques.
+tags: [charbon]
+relatedArticles: [charbon-bois, moulins-vent, levier-poulie-plan-incline]
+sources:
+  - title: "Machine à vapeur"
+    url: "https://fr.wikipedia.org/wiki/Machine_%C3%A0_vapeur"
+    publisher: "Wikipédia"
+  - title: "Newcomen atmospheric engine"
+    url: "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+    publisher: "Wikipedia"
+  - title: "Watt steam engine"
+    url: "https://en.wikipedia.org/wiki/Watt_steam_engine"
+    publisher: "Wikipedia"
+  - title: "Steam engine"
+    url: "https://www.britannica.com/technology/steam-engine"
+    publisher: "Encyclopædia Britannica"
+quiz:
+  - question: "À quoi servaient les premières machines de Newcomen, vers 1712 ?"
+    options:
+      - "À faire avancer des bateaux"
+      - "À pomper l'eau qui inondait les mines"
+      - "À produire de l'électricité"
+    answer: 2
+    explanation: >
+      Les mines de charbon anglaises étaient envahies par l'eau. La machine de Newcomen
+      actionnait des pompes pour les assécher.
+  - question: "Quelle invention de James Watt a rendu la machine beaucoup plus économe ?"
+    options:
+      - "Le condenseur séparé"
+      - "La roue à aubes"
+      - "Le moteur électrique"
+    answer: 1
+    explanation: >
+      En refroidissant la vapeur dans un récipient à part, Watt évitait de refroidir puis de
+      réchauffer le cylindre à chaque coup. La machine brûlait environ trois fois moins de
+      charbon.
+  - question: "Où retrouve-t-on aujourd'hui le principe de la machine à vapeur ?"
+    options:
+      - "Dans les panneaux solaires"
+      - "Dans les piles électriques"
+      - "Dans les turbines des centrales thermiques et nucléaires"
+    answer: 3
+    explanation: >
+      Une centrale à charbon, à gaz ou nucléaire chauffe de l'eau. La vapeur fait tourner une
+      turbine reliée à un alternateur.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une machine à vapeur transforme la chaleur d'un feu en mouvement. On chauffe de l'eau dans une
+chaudière, la vapeur pousse un piston, et ce piston fait tourner une roue ou actionne une pompe.
+Inventée pour vider les mines inondées au début du XVIIIe siècle, puis perfectionnée par James
+Watt, elle a lancé la révolution industrielle. Son principe vit toujours : la plupart de
+l'électricité mondiale est produite par de la vapeur qui fait tourner des turbines.
+
+## Le principe de base
+
+L'eau qui bout se transforme en vapeur et occupe alors environ 1 700 fois plus de volume à la
+pression de l'air. Enfermée, cette vapeur exerce une forte pression. Si on l'envoie dans un
+cylindre fermé par un piston mobile, elle pousse le piston. Quand on laisse ensuite la vapeur
+s'échapper ou qu'on la refroidit, le piston revient. On obtient un mouvement de va-et-vient.
+
+La machine a donc trois parties essentielles :
+
+- un **foyer** et une **chaudière**, où l'on brûle du bois ou du charbon pour faire bouillir l'eau ;
+- un **cylindre** et un **piston**, qui transforment la pression en mouvement ;
+- un **mécanisme**, comme une bielle et une manivelle, qui transforme le va-et-vient en rotation.
+
+```schema
+type: etapes
+titre: De la chaleur au mouvement
+legende: Le principe commun à toutes les machines à vapeur, des pompes de mine aux turbines.
+elements:
+  - titre: Chauffer
+    texte: Le foyer brûle du bois ou du charbon sous la chaudière.
+    icone: fire
+  - titre: Vaporiser
+    texte: L'eau bout et la vapeur, enfermée, monte en pression.
+    icone: droplet
+  - titre: Pousser
+    texte: La vapeur pousse le piston dans le cylindre.
+  - titre: Transformer
+    texte: Bielle et manivelle changent le va-et-vient en rotation.
+    icone: gear
+```
+
+## Des mines inondées aux usines
+
+L'idée est ancienne. Au Ier siècle, Héron d'Alexandrie décrit l'éolipile, une sphère qui tourne
+sous l'effet de jets de vapeur, mais elle reste une curiosité. En 1690, le Français Denis Papin
+imagine un cylindre dans lequel la vapeur soulève un piston.
+
+Le premier usage pratique vient des mines anglaises, envahies par l'eau. En 1698, Thomas Savery
+fait breveter une pompe à vapeur. En 1712, Thomas Newcomen installe près de Dudley une machine
+plus fiable : la vapeur remplit un cylindre, un jet d'eau froide la condense, le vide créé
+laisse la pression de l'air enfoncer le piston, et un grand balancier actionne la pompe. Ces
+machines fonctionnent, mais elles gaspillent énormément : moins de 1 % de l'énergie du charbon
+devient du travail utile.
+
+```schema
+type: frise
+titre: Trois siècles de vapeur
+evenements:
+  - date: Ier siècle
+    titre: L'éolipile de Héron
+    texte: Une sphère qui tourne sous des jets de vapeur.
+  - date: 1712
+    titre: Machine de Newcomen
+    texte: Elle pompe l'eau des mines anglaises.
+  - date: 1769
+    titre: Condenseur séparé de Watt
+    texte: Environ trois fois moins de charbon consommé.
+  - date: 1829
+    titre: La Rocket des Stephenson
+    texte: La locomotive dépasse 40 km/h.
+  - date: 1884
+    titre: Turbine de Parsons
+    texte: Elle produit encore l'électricité des centrales.
+```
+
+## L'amélioration de James Watt
+
+En réparant une machine de Newcomen, l'Écossais James Watt comprend la cause du gaspillage : à
+chaque coup, le cylindre est refroidi puis réchauffé. En 1769, il fait breveter le
+**condenseur séparé** : la vapeur est refroidie dans un récipient à part, et le cylindre reste
+chaud. La machine consomme environ trois fois moins de charbon.
+
+Avec l'industriel Matthew Boulton, Watt ajoute dans les années 1780 un système qui transforme
+le va-et-vient en rotation, la double action, où la vapeur pousse le piston dans les deux sens,
+et un régulateur à boules qui stabilise la vitesse. La machine peut désormais faire tourner les
+métiers des filatures, les soufflets des hauts fourneaux et les marteaux des forges. Le watt,
+unité de puissance, porte son nom.
+
+## La vapeur se met à rouler
+
+Au XIXe siècle, les chaudières supportent des pressions plus élevées et les machines deviennent
+assez compactes pour se déplacer. En 1829, la locomotive Rocket de George et Robert Stephenson
+dépasse 40 km/h. Les bateaux à vapeur traversent l'Atlantique. Le chemin de fer et la navigation
+à vapeur rapprochent les villes et les continents.
+
+En 1884, Charles Parsons invente la **turbine à vapeur** : au lieu de pousser un piston, la
+vapeur souffle sur des aubes fixées à un axe, qui tourne très vite. C'est cette turbine,
+couplée à un alternateur, qui produit aujourd'hui l'électricité des centrales à charbon, à gaz,
+nucléaires et de nombreuses centrales solaires thermiques.
+
+## Construire et utiliser une machine sans danger
+
+Une chaudière est un récipient sous pression : si elle cède, elle explose. Au XIXe siècle, les
+explosions de chaudières ont tué de nombreuses personnes, ce qui a conduit aux premières
+réglementations techniques. Toute machine à vapeur doit comporter :
+
+- une **soupape de sécurité**, qui laisse échapper la vapeur au-delà d'une pression fixée ;
+- un **manomètre**, qui indique la pression ;
+- un **niveau d'eau** visible, car une chaudière sans eau surchauffe et se déforme.
+
+Le rendement reste modeste : une bonne machine à piston du XIXe siècle transforme environ 10 à
+15 % de l'énergie du combustible en travail. Les turbines modernes dépassent 40 %, et les
+centrales à cycle combiné approchent 60 %, en récupérant aussi la chaleur des gaz de combustion.
+
+## À retenir
+
+- La machine à vapeur transforme la chaleur d'un combustible en mouvement grâce à la pression de la vapeur.
+- Les premières machines, de Savery et Newcomen, pompaient l'eau des mines au début du XVIIIe siècle.
+- Le condenseur séparé de James Watt, breveté en 1769, a divisé la consommation de charbon par trois environ.
+- Locomotives et bateaux à vapeur ont transformé les transports au XIXe siècle.
+- Les turbines à vapeur produisent encore aujourd'hui la majeure partie de l'électricité mondiale.
 
 ---
 type: article
@@ -2544,16 +3195,139 @@ title: Le four et le chauffe-eau solaires
 slug: four-chauffe-eau-solaires
 categoryPath: energie/energies-renouvelables/solaire
 summary: >
-  Concentrer le soleil pour cuire ou chauffer l'eau sans électricité : des techniques simples et durables.
-tags: [solaire, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une boîte isolée sous une vitre cuit un plat, un capteur noir sur le toit chauffe l'eau de la
+  maison. Ces techniques simples captent directement la chaleur du soleil, sans électricité, et se
+  construisent avec peu de matériel.
+tags: [solaire]
+relatedArticles: [comment-un-four-solaire-peut-il-cuire-des-aliments-sans-feu, solaire-thermique-et-concentration, maison-autonome-independante, capter-transformer-stocker-energie-naturelle]
+sources:
+  - title: "Cuiseur solaire"
+    url: "https://fr.wikipedia.org/wiki/Cuiseur_solaire"
+    publisher: "Wikipédia"
+  - title: "Chauffe-eau solaire"
+    url: "https://fr.wikipedia.org/wiki/Chauffe-eau_solaire"
+    publisher: "Wikipédia"
+  - title: "Thermosiphon"
+    url: "https://en.wikipedia.org/wiki/Thermosiphon"
+    publisher: "Wikipedia"
+  - title: "Solar water heating"
+    url: "https://en.wikipedia.org/wiki/Solar_water_heating"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi l'intérieur d'un four solaire est-il peint en noir mat ?"
+    options:
+      - "Parce que le noir absorbe la lumière et la transforme en chaleur"
+      - "Pour qu'il soit plus joli"
+      - "Pour le protéger de la pluie"
+    answer: 1
+    explanation: >
+      Une surface noire mate absorbe presque toute la lumière reçue. La vitre empêche ensuite la
+      chaleur de s'échapper.
+  - question: "Comment l'eau circule-t-elle dans un chauffe-eau solaire à thermosiphon ?"
+    options:
+      - "Grâce à une pompe électrique"
+      - "Toute seule, car l'eau chauffée devient plus légère et monte vers le ballon placé au-dessus"
+      - "Grâce au vent"
+    answer: 2
+    explanation: >
+      L'eau chaude monte, l'eau froide redescend vers le capteur : la circulation est naturelle,
+      à condition que le ballon soit plus haut que le capteur.
+  - question: "Quel danger guette un chauffe-eau solaire en hiver ?"
+    options:
+      - "La surchauffe"
+      - "La rouille instantanée"
+      - "Le gel, qui peut faire éclater les tubes du capteur"
+    answer: 3
+    explanation: >
+      Dans les régions froides, on utilise un liquide antigel dans le capteur, ou un système qui se
+      vide automatiquement.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Le soleil n'a pas besoin d'être transformé en électricité pour être utile. Sa **chaleur** peut être
+captée directement. Un **four solaire** est une boîte isolée, peinte en noir à l'intérieur, fermée par
+une vitre et entourée de réflecteurs : par beau temps, il cuit le riz, les légumes ou le pain. Un
+**chauffe-eau solaire** utilise des capteurs noirs sur le toit pour chauffer l'eau sanitaire. Ces
+techniques sont simples, robustes et presque gratuites à l'usage.
+
+## Les trois principes
+
+1. **Concentrer** : des réflecteurs, en aluminium ou en carton recouvert de papier d'aluminium,
+   renvoient plus de lumière vers l'intérieur.
+2. **Absorber** : une surface **noire mate** transforme la lumière en chaleur.
+3. **Garder** : une **vitre** laisse entrer la lumière mais retient la chaleur, et une **isolation**
+   épaisse limite les pertes. C'est le principe de l'effet de serre.
+
+## Les fours et cuiseurs solaires
+
+- **Le four boîte** : une caisse isolée, une vitre, des réflecteurs. Il atteint souvent 100 à 150 °C,
+  assez pour cuire lentement, comme une cocotte. Les casseroles sombres et couvertes cuisent mieux.
+- **Le cuiseur à panneaux** : des panneaux réfléchissants pliés autour d'une marmite noire placée dans
+  un sac transparent. Très simple et bon marché.
+- **Le cuiseur parabolique** : un miroir en forme de parabole concentre la lumière sur la casserole.
+  Il dépasse 200 °C et permet de frire, mais il faut l'orienter souvent et ne jamais regarder le point
+  de concentration.
+
+Un four solaire fonctionne bien quand le soleil est haut et le ciel dégagé. On le tourne vers le soleil
+toutes les heures environ. Il économise du bois ou du gaz, réduit la fumée dans les maisons et permet
+aussi de pasteuriser l'eau.
+
+```schema
+type: comparaison
+titre: Trois cuiseurs solaires
+colonnes:
+  - titre: Four boîte
+    points:
+      - Caisse isolée, vitre, réflecteurs
+      - 100 à 150 °C
+      - Cuisson lente
+  - titre: Cuiseur à panneaux
+    points:
+      - Panneaux réfléchissants et sac transparent
+      - Très simple et bon marché
+  - titre: Cuiseur parabolique
+    points:
+      - Miroir qui concentre la lumière
+      - Plus de 200 °C
+      - Ne jamais regarder le point de concentration
+```
+
+## Le chauffe-eau solaire
+
+Un **capteur plan** est une boîte vitrée contenant une plaque noire sur laquelle sont soudés des tubes.
+Le liquide qui circule dans les tubes se réchauffe et transmet sa chaleur à un **ballon** isolé.
+
+- **Le thermosiphon** : le ballon est placé **plus haut** que le capteur. L'eau chauffée, plus légère,
+  monte naturellement vers le ballon, et l'eau froide redescend vers le capteur. Aucune pompe n'est
+  nécessaire. C'est le système des toits de nombreux pays méditerranéens.
+- **La circulation forcée** : une petite pompe, pilotée par des sondes de température, fait circuler le
+  liquide quand le capteur est plus chaud que le ballon. Le ballon peut alors être placé n'importe où.
+
+Les **capteurs à tubes sous vide** isolent encore mieux et fonctionnent par temps frais.
+
+En France, un chauffe-eau solaire bien dimensionné couvre souvent la moitié à plus des deux tiers des
+besoins annuels en eau chaude d'un foyer. Un appoint, électrique, au bois ou au gaz, prend le relais en
+hiver et par temps couvert.
+
+## Précautions
+
+- **Le gel** : dans les régions froides, le circuit du capteur contient un **antigel**, ou se vide
+  automatiquement quand la pompe s'arrête.
+- **La surchauffe** : en été, l'eau du ballon peut devenir brûlante. Un **mitigeur** thermostatique
+  limite la température au robinet.
+- **Les légionelles** : ces bactéries se développent dans l'eau tiède stagnante. L'eau du ballon doit
+  monter régulièrement au-dessus de 55 à 60 °C.
+
+## À retenir
+
+- La chaleur du soleil se capte directement en concentrant, en absorbant et en gardant la chaleur.
+- Un four solaire boîte atteint souvent 100 à 150 °C par beau temps.
+- Un cuiseur parabolique dépasse 200 °C, mais il ne faut jamais regarder son point de concentration.
+- Dans un thermosiphon, l'eau chaude monte seule vers le ballon placé au-dessus du capteur.
+- Un chauffe-eau solaire couvre une grande partie de l'eau chaude d'un foyer, avec un appoint en hiver.
 
 ---
 type: article
@@ -2612,16 +3386,149 @@ title: Les moulins à vent
 slug: moulins-vent
 categoryPath: energie/energies-renouvelables/eolien
 summary: >
-  Moudre le grain et pomper l'eau avec le vent : une technologie millénaire, ancêtre direct des éoliennes.
-tags: [eolien, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Depuis plus de mille ans, les moulins à vent moulent le grain, pompent l'eau et scient le bois.
+  Leurs ailes captent l'énergie du vent et la transmettent à une meule. Ils sont les ancêtres
+  directs des éoliennes.
+tags: [eolien]
+relatedArticles: [machine-vapeur, levier-poulie-plan-incline]
+sources:
+  - title: "Moulin à vent"
+    url: "https://fr.wikipedia.org/wiki/Moulin_%C3%A0_vent"
+    publisher: "Wikipédia"
+  - title: "Windmill"
+    url: "https://en.wikipedia.org/wiki/Windmill"
+    publisher: "Wikipedia"
+  - title: "Réseau des moulins de Kinderdijk-Elshout"
+    url: "https://whc.unesco.org/fr/list/818"
+    publisher: "UNESCO"
+  - title: "Betz's law"
+    url: "https://en.wikipedia.org/wiki/Betz%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Où les plus anciens moulins à vent connus ont-ils été décrits ?"
+    options:
+      - "En Perse"
+      - "En Australie"
+      - "Au Groenland"
+    answer: 1
+    explanation: >
+      Les premiers moulins à vent attestés, au IXe siècle, se trouvaient en Perse, dans la
+      région du Sistan. Leurs ailes tournaient autour d'un axe vertical.
+  - question: "Si la vitesse du vent double, la puissance qu'il transporte est multipliée par..."
+    options:
+      - "Deux"
+      - "Quatre"
+      - "Huit"
+    answer: 3
+    explanation: >
+      La puissance du vent varie comme le cube de sa vitesse. Deux fois plus de vent donne huit
+      fois plus de puissance.
+  - question: "À quoi servaient les moulins de Kinderdijk, aux Pays-Bas ?"
+    options:
+      - "À moudre du café"
+      - "À pomper l'eau pour assécher les terres"
+      - "À produire de l'électricité"
+    answer: 2
+    explanation: >
+      Les dix-neuf moulins de Kinderdijk, construits vers 1740, évacuaient l'eau des polders,
+      ces terres situées sous le niveau de la mer.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Un moulin à vent capte l'énergie du vent avec de grandes ailes et la transmet, par un arbre et
+des engrenages, à une machine : une meule pour écraser le grain, une pompe pour déplacer l'eau,
+une scie pour débiter le bois. Apparus en Perse il y a plus de mille ans, ils ont façonné les
+paysages d'Europe. Les éoliennes d'aujourd'hui en sont les héritières directes.
+
+## Comment le vent fait tourner une aile
+
+Le vent est de l'air en mouvement, donc de l'énergie de mouvement. Une aile de moulin est
+inclinée par rapport au vent : quand l'air la frappe, il est dévié et la pousse de côté. Comme
+les ailes sont fixées à un axe, cette poussée les fait tourner.
+
+Deux règles physiques gouvernent tous les moulins :
+
+- la puissance du vent varie comme le **cube de sa vitesse** : un vent deux fois plus rapide
+  transporte huit fois plus de puissance ;
+- elle augmente avec la **surface balayée** par les ailes : doubler leur longueur multiplie
+  cette surface par quatre.
+
+Aucune machine ne peut capter toute l'énergie du vent, sinon l'air s'arrêterait derrière elle.
+En 1919, le physicien allemand Albert Betz a calculé la limite : 59,3 % au maximum. Les moulins
+traditionnels en récupéraient bien moins, les grandes éoliennes modernes s'approchent de 50 %.
+
+## Des moulins de Perse aux moulins d'Europe
+
+Les plus anciens moulins à vent connus sont décrits au IXe siècle en Perse, dans la région du
+Sistan, battue par des vents forts. Leurs ailes, faites de nattes, tournaient autour d'un axe
+vertical, abritées derrière un mur.
+
+En Europe, les moulins apparaissent à la fin du XIIe siècle, en Angleterre et dans le nord de la
+France. Leur axe est horizontal, comme celui des éoliennes actuelles. Le vent changeant de
+direction, il faut orienter les ailes face à lui :
+
+- le **moulin sur pivot**, ou moulin chandelier, est une cabane de bois posée sur un gros poteau ;
+  le meunier fait tourner toute la cabane avec une longue perche, la queue ;
+- le **moulin tour**, en pierre, est plus robuste ; seule sa toiture, qui porte les ailes, pivote.
+
+Les ailes sont des cadres de bois garnis de toiles, que le meunier déroule plus ou moins selon
+la force du vent, comme un marin règle ses voiles.
+
+```schema
+type: systeme
+titre: Du vent à la farine
+centre: Moulin à vent
+icone: turbine
+parties:
+  - nom: Les ailes
+    role: Inclinées, elles dévient le vent et tournent.
+  - nom: L'arbre
+    role: Il transmet la rotation des ailes.
+  - nom: Le rouet et la lanterne
+    role: Deux roues dentées qui multiplient la vitesse.
+  - nom: Les meules
+    role: La meule du dessus tourne et écrase le grain sur la meule fixe.
+  - nom: La toiture ou la queue
+    role: Elle oriente les ailes face au vent.
+```
+
+## Du grain au mécanisme
+
+Dans un moulin à grain, l'arbre des ailes porte une grande roue dentée, le rouet. Elle entraîne
+une petite roue, la lanterne, qui fait tourner rapidement la meule supérieure au-dessus d'une
+meule fixe. Le grain versé au centre est écrasé entre les deux pierres et sort en farine sur les
+bords. Le rapport entre les deux roues dentées multiplie la vitesse : une aile qui fait un tour
+lent fait tourner la meule plusieurs fois.
+
+## Pomper l'eau et gagner des terres
+
+Aux Pays-Bas, une grande partie du pays se trouve sous le niveau de la mer. Dès le XVe siècle,
+des moulins y actionnent des vis et des roues à godets pour évacuer l'eau vers des canaux plus
+hauts. Ils permettent de créer et de garder à sec les polders. Le réseau de Kinderdijk-Elshout,
+dix-neuf moulins construits vers 1740, est inscrit au patrimoine mondial de l'UNESCO depuis 1997.
+
+Au XIXe siècle, les fermes américaines se couvrent de petites éoliennes de pompage à nombreuses
+pales métalliques, qui puisent l'eau des puits pour le bétail. On en trouve encore dans les
+zones isolées.
+
+## Des moulins aux éoliennes
+
+En 1888, l'Américain Charles Brush relie un grand moulin à une dynamo pour éclairer sa maison. Au
+Danemark, à partir de 1891, Poul la Cour mène des expériences méthodiques pour produire de
+l'électricité avec le vent. Les éoliennes modernes reprennent le principe du moulin tour : un
+rotor à axe horizontal, orienté face au vent, au sommet d'un mât. Mais leurs pales sont profilées
+comme des ailes d'avion et entraînent un alternateur au lieu d'une meule.
+
+## À retenir
+
+- Un moulin à vent transforme l'énergie du vent en rotation, puis en travail utile : moudre, pomper, scier.
+- La puissance du vent varie comme le cube de sa vitesse, d'où l'intérêt des sites très ventés.
+- Les premiers moulins connus, en Perse au IXe siècle, avaient un axe vertical ; ceux d'Europe, dès le XIIe siècle, un axe horizontal.
+- Aux Pays-Bas, les moulins ont permis d'assécher et de conserver les polders.
+- Les éoliennes modernes sont les héritières directes des moulins tours.
 
 ---
 type: article
@@ -2697,16 +3604,151 @@ title: Construire une petite éolienne
 slug: construire-petite-eolienne
 categoryPath: energie/energies-renouvelables/eolien
 summary: >
-  Alternateur, pales, régulation : les principes d'une éolienne domestique pour une maison ou un village isolé.
-tags: [eolien, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une petite éolienne associe un rotor, un alternateur, une queue qui l'oriente, un mât et une
+  régulation qui la protège des tempêtes. Elle peut alimenter une maison isolée, à condition d'être
+  placée haut, loin des obstacles, sur un site vraiment venté.
+tags: [eolien]
+relatedArticles: [comment-fonctionne-une-eolienne, moulins-vent, installation-solaire-autonome, maison-autonome-independante]
+sources:
+  - title: "Petit éolien"
+    url: "https://fr.wikipedia.org/wiki/Petit_%C3%A9olien"
+    publisher: "Wikipédia"
+  - title: "Small wind turbine"
+    url: "https://en.wikipedia.org/wiki/Small_wind_turbine"
+    publisher: "Wikipedia"
+  - title: "Wind power"
+    url: "https://en.wikipedia.org/wiki/Wind_power"
+    publisher: "Wikipedia"
+  - title: "Betz's law"
+    url: "https://en.wikipedia.org/wiki/Betz%27s_law"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi faut-il installer une petite éolienne en hauteur ?"
+    options:
+      - "Parce que le vent est plus fort et plus régulier loin du sol et des obstacles"
+      - "Pour qu'elle soit visible de loin"
+      - "Pour éviter les oiseaux"
+    answer: 1
+    explanation: >
+      Près du sol, les arbres et les bâtiments freinent le vent et créent des tourbillons qui
+      réduisent la production et usent la machine.
+  - question: "Que devient la production si la vitesse du vent est divisée par deux ?"
+    options:
+      - "Elle est divisée par deux"
+      - "Elle est divisée par huit environ"
+      - "Elle ne change pas"
+    answer: 2
+    explanation: >
+      La puissance du vent varie comme le cube de sa vitesse. Un site deux fois moins venté produit
+      environ huit fois moins.
+  - question: "À quoi sert la résistance de délestage d'une éolienne autonome ?"
+    options:
+      - "À chauffer la maison en hiver"
+      - "À faire tourner l'éolienne plus vite"
+      - "À absorber le courant quand les batteries sont pleines, pour que l'éolienne ne s'emballe pas"
+    answer: 3
+    explanation: >
+      Une éolienne sans charge peut tourner trop vite et se détruire. La résistance lui donne
+      toujours une charge à entraîner.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une **petite éolienne**, de un à quelques mètres de diamètre, peut fournir de l'électricité à une
+maison isolée, un refuge ou un bateau. Elle se compose d'un **rotor** à pales, d'un **alternateur**,
+d'une **queue** qui l'oriente face au vent, d'un **mât** et d'une **régulation** qui charge les
+batteries et protège l'ensemble des vents violents. Des modèles se construisent même artisanalement.
+Mais tout dépend du **site** : une éolienne mal placée ne produit presque rien.
+
+## Combien peut-on espérer
+
+La puissance du vent qui traverse le rotor vaut un demi multiplié par la densité de l'air, la surface
+balayée et le **cube de la vitesse** du vent. Aucune éolienne ne récupère plus de 59 % de cette
+puissance, la limite de Betz ; une petite éolienne en récupère plutôt 20 à 35 %.
+
+Exemple : un rotor de 3 mètres de diamètre balaie environ 7 m². Par un vent de 5 mètres par seconde,
+le vent y transporte environ 540 watts ; l'éolienne en tire environ 150 watts. Par 10 mètres par
+seconde, huit fois plus. Comme le vent varie sans cesse, c'est la **vitesse moyenne du site** qui
+compte : en dessous d'environ 4 à 5 mètres par seconde de moyenne, une petite éolienne est rarement
+intéressante.
+
+```schema
+type: barres
+titre: Rotor de 3 mètres, puissance selon le vent
+legende: Puissance tirée par l'éolienne, environ 30 % de celle du vent.
+unite: W
+valeurs:
+  - label: Vent de 5 m/s
+    valeur: 150
+  - label: Vent de 10 m/s
+    valeur: 1200
+    note: huit fois plus
+```
+
+## Les éléments
+
+- **Le rotor** : deux à trois pales, en bois taillé, en fibre de verre ou en aluminium, équilibrées avec
+  soin. Un rotor déséquilibré vibre et casse.
+- **L'alternateur** : souvent à **aimants permanents**, qui produit du courant dès les faibles vitesses
+  de rotation sans réducteur. Les constructeurs amateurs fabriquent des alternateurs « à flux axial »,
+  avec des disques d'aimants qui tournent face à des bobines.
+- **La nacelle et la queue** : la nacelle pivote sur le mât, et une dérive à l'arrière garde le rotor
+  face au vent.
+- **La protection contre les tempêtes** : par vent fort, la queue se replie pour mettre le rotor de
+  biais, ou un frein électrique court-circuite l'alternateur.
+- **Le mât** : en tube d'acier, haubané par des câbles, souvent basculant pour pouvoir descendre
+  l'éolienne au sol lors de l'entretien.
+
+```schema
+type: systeme
+titre: Les éléments d'une petite éolienne
+centre: Petite éolienne
+icone: turbine
+parties:
+  - nom: Rotor
+    role: Deux à trois pales équilibrées.
+  - nom: Alternateur à aimants
+    role: Produit du courant dès les faibles vitesses.
+  - nom: Queue
+    role: Oriente le rotor et se replie par vent fort.
+  - nom: Mât haubané
+    role: Place le rotor bien au-dessus des obstacles.
+  - nom: Régulateur et délestage
+    role: Charge les batteries et évite l'emballement.
+```
+
+## Charger des batteries
+
+Le courant de l'alternateur est redressé, puis envoyé vers des **batteries** par un **régulateur**.
+Quand les batteries sont pleines, l'éolienne ne doit pas tourner à vide : elle s'emballerait. Le
+régulateur envoie alors le courant dans une **résistance de délestage**, qui peut servir à chauffer de
+l'eau. Une éolienne se combine très bien avec des **panneaux solaires** : le vent souffle souvent plus en
+hiver et la nuit, quand le soleil manque.
+
+## Bien choisir son site
+
+- Placer le rotor **bien au-dessus** des obstacles : une règle courante demande au moins 9 mètres
+  au-dessus de tout arbre ou bâtiment dans un rayon d'environ 150 mètres.
+- Préférer les crêtes dégagées, les côtes, les plaines ouvertes.
+- Mesurer le vent avec un anémomètre pendant plusieurs mois, si possible, avant d'investir.
+- En ville ou entre des maisons, le vent est faible et turbulent : le solaire est presque toujours un
+  meilleur choix.
+
+## Sécurité et règles
+
+Un rotor qui tourne est dangereux, et un mât qui tombe aussi. On travaille par temps calme, rotor
+arrêté et bloqué. En France, un mât de plus de 12 mètres demande en général un **permis de
+construire**, et l'on respecte les distances avec les voisins et les règles locales d'urbanisme.
+
+## À retenir
+
+- Une petite éolienne associe rotor, alternateur à aimants, queue d'orientation, mât et régulation.
+- La production dépend du cube de la vitesse du vent : le choix du site est décisif.
+- Le rotor doit être placé bien au-dessus des obstacles proches.
+- Une résistance de délestage absorbe le courant quand les batteries sont pleines.
+- L'éolien et le solaire se complètent bien pour une maison isolée.
 
 ---
 type: article
@@ -2821,8 +3863,20 @@ local, souvent source de tensions.
 - Le Domesday Book de 1086 recense déjà environ 6 000 moulins en Angleterre.
 - Un moulin moyen développait quelques kilowatts, largement au-delà de la force humaine ou animale.
 
-[Emplacement image : coupe d'un moulin à eau avec roue à augets, bief et mécanisme de meule,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Deux façons de faire tourner une roue
+colonnes:
+  - titre: Roue à augets
+    points:
+      - Alimentée par le haut
+      - L'eau tombe dans des augets
+      - Plus efficace
+  - titre: Roue à aubes
+    points:
+      - Poussée par le seul courant
+      - Plus simple à installer
+```
 
 ---
 
@@ -2966,9 +4020,22 @@ de conditions météorologiques changeantes.
 - Ces installations produisent typiquement entre cinq et cent kilowatts, assez pour un hameau.
 - Contrairement au solaire ou à l'éolien, elles produisent en continu tant que l'eau coule.
 
-[Emplacement image : petite turbine hydroélectrique installée sur un cours d'eau, reliée à un
-générateur alimentant quelques habitations, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Une microcentrale au fil de l'eau
+elements:
+  - titre: Prise d'eau
+    texte: Une partie du cours d'eau est détournée.
+    icone: droplet
+  - titre: Chute
+    texte: Hauteur et débit fixent la puissance.
+  - titre: Turbine
+    texte: Elle tourne en continu.
+    icone: turbine
+  - titre: Générateur
+    texte: Il alimente quelques habitations.
+    icone: house
+```
 
 ---
 
@@ -3136,8 +4203,19 @@ important.
 - Une bobine de cuivre et un aimant en rotation suffisent à construire un générateur électrique
   rudimentaire.
 
-[Emplacement image : schéma d'un aimant tournant à l'intérieur d'une bobine de fil produisant un
-courant électrique, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: L'induction électromagnétique
+legende: Découverte par Michael Faraday en 1831.
+elements:
+  - titre: Un aimant
+    icone: magnet
+  - titre: Du mouvement
+    texte: Seule la variation du champ produit du courant.
+  - titre: Une bobine de fil
+  - titre: Un courant électrique
+    icone: bolt
+```
 
 ---
 
@@ -3248,8 +4326,20 @@ l'acidité de l'électrolyte.
 - Cette technologie reste peu coûteuse, robuste et presque entièrement recyclable.
 - Le plomb et l'acide utilisés restent dangereux à manipuler sans précautions adaptées.
 
-[Emplacement image : coupe d'une batterie au plomb montrant les plaques immergées dans
-l'électrolyte acide, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Une batterie au plomb
+legende: Inventée par Gaston Planté en 1859.
+centre: Batterie au plomb
+icone: battery
+parties:
+  - nom: Deux plaques de plomb
+    role: De natures différentes.
+  - nom: Acide sulfurique dilué
+    role: L'électrolyte dans lequel elles baignent.
+  - nom: Réaction réversible
+    role: La batterie se recharge.
+```
 
 ---
 
@@ -3276,16 +4366,139 @@ title: Les batteries sodium-ion
 slug: batteries-sodium-ion
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
-  Remplacer le lithium par le sodium du sel : une alternative moins chère qui arrive sur le marché.
+  Le sodium du sel de cuisine peut remplacer le lithium dans une batterie. Moins dense en énergie,
+  la batterie sodium-ion est en revanche bon marché, résiste au froid et utilise des matériaux
+  abondants partout sur la planète.
 tags: [batteries]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: [la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere, comment-fonctionne-une-batterie-lithium-ion, pourquoi-une-batterie-s-use-avec-le-temps]
+sources:
+  - title: "Sodium-ion battery"
+    url: "https://en.wikipedia.org/wiki/Sodium-ion_battery"
+    publisher: "Wikipedia"
+  - title: "Accumulateur sodium-ion"
+    url: "https://fr.wikipedia.org/wiki/Accumulateur_sodium-ion"
+    publisher: "Wikipédia"
+  - title: "Global EV Outlook 2025"
+    url: "https://www.iea.org/reports/global-ev-outlook-2025"
+    publisher: "Agence internationale de l'énergie"
+quiz:
+  - question: "Pourquoi s'intéresse-t-on au sodium pour les batteries ?"
+    options:
+      - "Parce qu'il est très abondant et bon marché"
+      - "Parce qu'il est plus léger que le lithium"
+      - "Parce qu'il stocke plus d'énergie"
+    answer: 1
+    explanation: >
+      Le sodium est des centaines de fois plus abondant que le lithium dans l'écorce terrestre,
+      et on le tire facilement du sel.
+  - question: "Quel matériau sert souvent d'électrode négative dans une batterie sodium-ion ?"
+    options:
+      - "Le graphite, comme dans les batteries lithium-ion"
+      - "Le carbone dur, un carbone désordonné"
+      - "Le plomb"
+    answer: 2
+    explanation: >
+      Les ions sodium, plus gros, s'insèrent mal dans le graphite. On utilise un carbone dur,
+      souvent fabriqué à partir de résidus végétaux.
+  - question: "Dans quelles situations la batterie sodium-ion est-elle particulièrement intéressante ?"
+    options:
+      - "Pour les avions de ligne"
+      - "Pour les montres connectées"
+      - "Pour le stockage stationnaire et les véhicules urbains, y compris par grand froid"
+    answer: 3
+    explanation: >
+      Le poids y compte moins que le prix et la robustesse. Les sodium-ion gardent une bonne
+      partie de leur capacité à -20 °C.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une batterie sodium-ion fonctionne comme une batterie lithium-ion : des ions font la navette entre
+deux électrodes à travers un liquide, l'électrolyte. Mais ces ions sont du **sodium**, l'élément
+du sel de cuisine, au lieu du lithium. Le sodium est abondant, bon marché et réparti partout.
+La batterie stocke un peu moins d'énergie par kilo, mais elle coûte moins cher, résiste bien au
+froid et se passe de lithium, de cobalt et de nickel. Les premiers modèles commerciaux sont sortis
+au milieu des années 2020.
+
+## Le même principe, un autre ion
+
+À la charge, les ions sortent de l'électrode positive et vont se loger dans l'électrode négative.
+À la décharge, ils reviennent, et les électrons qui les accompagnent par le circuit extérieur
+alimentent l'appareil.
+
+Le sodium est le voisin du lithium dans le tableau périodique et réagit de façon semblable. Mais
+son ion est plus gros et plus lourd, ce qui impose d'autres matériaux :
+
+- l'électrode négative est en général en **carbone dur**, un carbone désordonné souvent tiré de
+  résidus végétaux, car le graphite des batteries lithium-ion accueille mal le sodium ;
+- l'électrode positive utilise des oxydes à couches, des composés proches du bleu de Prusse ou
+  des phosphates de vanadium ;
+- les deux collecteurs de courant peuvent être en **aluminium**, moins cher que le cuivre utilisé
+  dans les batteries lithium-ion.
+
+## Atouts
+
+- **Des matériaux abondants** : le sodium est des centaines de fois plus répandu que le lithium
+  dans l'écorce terrestre, et l'on évite le cobalt et le nickel.
+- **Un coût potentiellement plus bas**, surtout en production de masse.
+- **Le froid** : les sodium-ion conservent une grande partie de leur capacité vers -20 °C, là où
+  les lithium-ion perdent beaucoup.
+- **La sécurité** : elles peuvent être déchargées complètement pour le transport, ce qui réduit
+  les risques.
+- **Des usines adaptables** : on peut les fabriquer avec des procédés proches de ceux du
+  lithium-ion.
+
+## Limites
+
+- **Une densité d'énergie plus faible** : autour de 100 à 175 Wh/kg pour les cellules annoncées,
+  contre plus de 250 pour les meilleures lithium-ion. À poids égal, une voiture aurait moins
+  d'autonomie.
+- **Une filière jeune** : les volumes restent faibles et les prix n'ont pas encore atteint leur
+  plancher, d'autant que le prix du lithium a beaucoup baissé depuis 2023.
+
+```schema
+type: comparaison
+titre: Sodium-ion ou lithium-ion
+colonnes:
+  - titre: Sodium-ion
+    points:
+      - Sodium abondant et bon marché
+      - Environ 100 à 175 Wh/kg
+      - Bonne tenue vers -20 °C
+      - Électrode négative en carbone dur
+  - titre: Lithium-ion
+    points:
+      - Lithium plus rare
+      - Plus de 250 Wh/kg pour les meilleures
+      - Performances réduites au froid
+      - Électrode négative en graphite
+```
+
+## Du laboratoire à l'usine
+
+Le sodium-ion est étudié dès les années 1980, mais le lithium-ion l'emporte. L'intérêt renaît dans
+les années 2010 avec la crainte d'une pénurie de lithium. En 2021, le chinois CATL présente une
+première génération de cellules sodium-ion. Des voitures urbaines chinoises en sont équipées à
+partir de 2023-2024, et des parcs de stockage stationnaire sont mis en service. En France, la
+jeune entreprise Tiamat, issue de recherches du CNRS, développe des cellules pour l'outillage et le
+stockage.
+
+## Une complémentarité
+
+La batterie sodium-ion ne remplacera sans doute pas le lithium-ion partout. Elle trouve sa place
+là où le poids importe moins que le coût, la sécurité et la résistance au froid : stockage pour le
+réseau et la maison, petits véhicules urbains, deux-roues, démarrage des moteurs. Certains
+constructeurs combinent même des cellules sodium et lithium dans un même pack.
+
+## À retenir
+
+- Une batterie sodium-ion fonctionne comme une lithium-ion, avec des ions sodium.
+- Le sodium est abondant, bon marché et réparti partout, et l'on évite cobalt et nickel.
+- Elle utilise une électrode négative en carbone dur et des collecteurs en aluminium.
+- Elle stocke moins d'énergie par kilo, mais résiste bien au froid et peut être plus sûre.
+- Elle convient surtout au stockage stationnaire et aux petits véhicules.
 
 ---
 type: article
@@ -3442,8 +4655,17 @@ simple du principe de l'électrolyse.
   utilisée.
 - Une expérience simple avec de l'eau salée et un courant faible illustre ce principe.
 
-[Emplacement image : schéma d'un électrolyseur avec deux électrodes plongées dans l'eau produisant
-des bulles d'hydrogène et d'oxygène, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Un électrolyseur
+centre: Courant électrique dans l'eau
+icone: bolt
+parties:
+  - nom: Cathode
+    role: L'hydrogène s'y forme, deux volumes.
+  - nom: Anode
+    role: L'oxygène s'y forme, un volume.
+```
 
 ---
 
@@ -3581,6 +4803,22 @@ Le coefficient de performance mesure le rapport entre la chaleur fournie et l'é
 
 Une pompe réversible chauffe en hiver et rafraîchit en été en inversant le sens de circulation du fluide grâce à une vanne à quatre voies. Il existe des pompes air-air, air-eau et géothermiques, ces dernières puisant la chaleur du sol par des forages horizontaux ou verticaux.
 
+```schema
+type: cycle
+titre: Le voyage du fluide dans une pompe à chaleur
+elements:
+  - titre: Évaporateur
+    texte: Le fluide froid absorbe la chaleur dehors et se vaporise.
+    icone: snowflake
+  - titre: Compresseur
+    texte: Le gaz comprimé devient chaud.
+  - titre: Condenseur
+    texte: Il cède sa chaleur à la maison et redevient liquide.
+    icone: house
+  - titre: Détendeur
+    texte: Le liquide se détend et refroidit.
+```
+
 ## À retenir
 
 - Une pompe à chaleur ne produit pas la chaleur : elle la déplace d'un espace froid vers un espace plus chaud.
@@ -3677,9 +4915,19 @@ chaleur. La qualité de la pose compte autant que la qualité du matériau lui-m
 - Les ponts thermiques sont des points faibles où l'isolation est interrompue.
 - Une isolation mal posée ou humide perd une grande partie de son efficacité.
 
-[Emplacement image : coupe d'une maison montrant les principales voies de déperdition de
-chaleur, toit, murs, fenêtres et ponts thermiques, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Isoler dans le bon ordre
+elements:
+  - titre: Le toit
+    texte: L'air chaud s'y accumule et s'échappe en premier.
+    icone: house
+  - titre: Les murs
+  - titre: Les fenêtres
+    texte: Le double vitrage réduit fortement les pertes.
+  - titre: Les ponts thermiques
+    texte: Les points faibles cachés.
+```
 
 ---
 
@@ -3758,6 +5006,21 @@ Une ampoule à incandescence fait passer un courant dans un filament de tungstè
 ## Pourquoi la LED gagne
 
 Une LED convertit bien mieux l'électricité en lumière : consommation plus faible, moins de chaleur perdue et durée de vie plus longue. Une LED s'allume et s'éteint presque instantanément. Les LED sont aussi plus petites et plus robustes qu'une ampoule à filament.
+
+```schema
+type: comparaison
+titre: LED ou ampoule à filament
+colonnes:
+  - titre: Ampoule à filament
+    points:
+      - Un fil chauffé jusqu'à briller
+      - Beaucoup d'énergie perdue en chaleur
+  - titre: LED
+    icone: bulb
+    points:
+      - Électrons et trous se recombinent et émettent de la lumière
+      - La couleur dépend du matériau
+```
 
 ## À retenir
 
@@ -3876,8 +5139,19 @@ installations industrielles de grande capacité.
   transport.
 - Elle s'adapte à de nombreuses échelles, d'un immeuble à une installation industrielle.
 
-[Emplacement image : schéma d'une installation de cogénération montrant la production simultanée
-d'électricité et de chaleur récupérée, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Centrale classique ou cogénération
+colonnes:
+  - titre: Centrale classique
+    points:
+      - Produit de l'électricité
+      - Rejette une grande partie de la chaleur
+  - titre: Cogénération
+    points:
+      - Électricité et chaleur utile ensemble
+      - Rendement global proche de 90 %
+```
 
 ---
 
@@ -3972,8 +5246,19 @@ brûlé dans un foyer ouvert.
 - Un poêle fermé restitue davantage de chaleur qu'un foyer ouvert traditionnel.
 - Un bois bien sec brûlé dans un appareil adapté réduit sensiblement les émissions de particules.
 
-[Emplacement image : bûches de bois empilées et séchant à l'air libre à côté d'un poêle fermé en
-fonctionnement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Bien se chauffer au bois
+elements:
+  - titre: Sécher
+    texte: Plusieurs mois à plusieurs années selon l'essence.
+  - titre: Choisir l'essence
+    texte: Les bois durs comme le chêne brûlent plus longtemps.
+    icone: tree
+  - titre: Poêle fermé
+    texte: Il restitue davantage de chaleur.
+    icone: fire
+```
 
 ---
 
@@ -4163,6 +5448,21 @@ Le savant français Joseph Fourier a décrit le principe en 1822. Aux États-Uni
 
 Attention : seulement 10 à 15 % de la chaleur d'un logement part par les fenêtres. Le double vitrage aide, mais isoler les murs et le toit compte aussi. Il apporte d'autres avantages : moins de bruit et moins de buée sur les vitres.
 
+```schema
+type: systeme
+titre: Ce qui isole dans un double vitrage
+centre: Double vitrage
+parties:
+  - nom: Deux vitres
+    role: Séparées par une lame de gaz.
+  - nom: Gaz immobile
+    role: Air, argon ou krypton, qui conduisent mal la chaleur.
+  - nom: Couche métallique invisible
+    role: Elle renvoie la chaleur vers la pièce.
+  - nom: Coefficient U
+    role: Plus il est petit, mieux la fenêtre isole.
+```
+
 ## À retenir
 
 - Un double vitrage est fait de deux vitres séparées par une couche d'air ou de gaz immobile.
@@ -4274,6 +5574,19 @@ Les murs en pisé mesurent souvent environ 60 centimètres d'épaisseur. Ils iso
 L'inertie thermique est très utile là où il fait chaud le jour et frais la nuit, comme dans les déserts. Les maisons en adobe des Pueblos, dans le sud-ouest des États-Unis, ont des murs épais en terre. Elles restent agréables sans climatisation.
 
 Elle est moins utile dans une pièce occupée seulement de temps en temps. Les murs lourds mettent du temps à se réchauffer, et le chauffage doit d'abord les chauffer eux.
+
+```schema
+type: cycle
+titre: L'inertie thermique au fil d'une journée d'été
+elements:
+  - titre: Jour
+    texte: Le mur épais absorbe la chaleur.
+    icone: sun
+  - titre: Retard
+    texte: Elle met plusieurs heures à traverser.
+  - titre: Nuit
+    texte: On aère pour évacuer la chaleur stockée.
+```
 
 ## À retenir
 
@@ -4822,6 +6135,20 @@ Une veille de 0,5 watt consomme peu. Mais une maison contient beaucoup d'apparei
 
 On peut débrancher les petits appareils qui ne servent pas souvent : machine à café, bouilloire, imprimante, enceintes, chargeurs. Une multiprise à interrupteur permet de couper plusieurs appareils d'un seul geste. En revanche, il vaut mieux laisser branchés le réfrigérateur et le four. Le lave-linge et le lave-vaisselle peuvent aussi rester branchés, car certains surveillent les fuites d'eau.
 
+```schema
+type: barres
+titre: Consommation maximale en veille
+unite: W
+valeurs:
+  - label: Autrefois
+    valeur: 15
+    note: 10 à 15 W
+  - label: Europe depuis 2010
+    valeur: 1
+  - label: Europe depuis 2013
+    valeur: 0.5
+```
+
 ## À retenir
 
 - Un appareil en veille garde des circuits allumés : alimentation, récepteur de télécommande, horloge, réseau.
@@ -5315,6 +6642,16 @@ Le charbon de bois brûle à plus de 1 100 °C, plus chaud que le bois. Comme il
 ## Aujourd'hui
 
 En Europe, on l'utilise surtout pour les barbecues. Dans beaucoup de pays pauvres, il sert encore à cuisiner chaque jour. Une grande ville peut en consommer des milliers de tonnes par jour. Sa fabrication, souvent illégale, détruit alors de grandes surfaces de forêt, surtout en Afrique et en Amérique du Sud.
+
+```schema
+type: chiffres
+titre: Les repères du charbon de bois
+chiffres:
+  - valeur: 15 à 21 jours
+    texte: de cuisson dans une meule de charbonnier
+  - valeur: "> 1 100 °C"
+    texte: atteints en brûlant, avec peu de fumée
+```
 
 ## À retenir
 
@@ -5865,6 +7202,19 @@ Les dérivés du pétrole sont partout :
 ## Une dépendance qui grandit
 
 Selon l'Agence internationale de l'énergie, la pétrochimie pourrait représenter près de la moitié de la hausse de la demande de pétrole d'ici 2050. La raison principale est l'augmentation de la consommation de plastique dans les pays émergents. Certaines briques de base peuvent aussi être fabriquées à partir de plantes, comme le maïs ou la canne à sucre.
+
+```schema
+type: etapes
+titre: Du pétrole aux plastiques
+elements:
+  - titre: Pétrole et gaz
+  - titre: Vapocraquage
+    texte: Les grosses molécules sont cassées vers 800 °C.
+  - titre: Polymérisation
+    texte: Les petites molécules s'assemblent en longues chaînes.
+  - titre: Produits
+    texte: Plastiques, textiles, médicaments.
+```
 
 ## À retenir
 
@@ -6590,6 +7940,23 @@ Dans certains endroits, la dose est bien plus forte. À Ramsar, en Iran, ou au K
 
 Pour réduire le radon chez soi, le geste le plus simple est d'aérer régulièrement son logement.
 
+```schema
+type: systeme
+titre: D'où vient la radioactivité naturelle
+legende: Environ 2,4 millisieverts par an en moyenne par personne.
+centre: Radioactivité naturelle
+parties:
+  - nom: Radon
+    role: Gaz sorti du sol, première source.
+  - nom: Roches
+    role: Elles contiennent des éléments radioactifs.
+  - nom: Espace
+    role: Rayons cosmiques, plus forts en altitude.
+    icone: planet
+  - nom: Notre corps
+    role: Il contient lui aussi des atomes radioactifs.
+```
+
 ## À retenir
 
 - La radioactivité naturelle vient des roches, du radon, de l'espace et de notre corps.
@@ -6890,6 +8257,22 @@ Pour arrêter les ailes, un frein serre le rouet. C'est une bande de métal garn
 Les moulins à vent ont servi à moudre le grain, à presser les olives pour l'huile, à scier du bois et à pomper l'eau. Aux Pays-Bas, ils ont asséché des terres gagnées sur la mer, les polders. Les moulins de Kinderdijk sont inscrits au patrimoine mondial de l'UNESCO.
 
 Au XXe siècle, l'électricité arrive dans les campagnes et de grandes usines à farine apparaissent. Les moulins à vent déclinent très vite. Leurs héritières sont les éoliennes, qui transforment le vent en électricité.
+
+```schema
+type: etapes
+titre: Du vent à la meule
+elements:
+  - titre: Ailes en toile
+    texte: Orientées face au vent par le meunier.
+    icone: turbine
+  - titre: Arbre
+    texte: Il tourne avec les ailes.
+  - titre: Rouet et lanterne
+    texte: Ils transmettent le mouvement.
+  - titre: Meule
+    texte: Elle écrase le grain.
+    icone: wheat
+```
 
 ## À retenir
 
@@ -7426,6 +8809,23 @@ La puissance dépend du volume d'eau et de la différence de hauteur entre le r�
 
 Les stations de pompage-turbinage servent de batterie : quand la demande est faible, on remonte l'eau dans le réservoir haut, puis on la relâche quand la demande est forte. L'hydroélectricité est la première source d'électricité renouvelable au monde. Les grands réservoirs noient de vastes terres, peuvent déplacer des populations et morceler les rivières.
 
+```schema
+type: etapes
+titre: De l'eau en hauteur à l'électricité
+elements:
+  - titre: Réservoir
+    texte: L'eau en hauteur contient de l'énergie potentielle.
+    icone: droplet
+  - titre: Conduite
+    texte: L'eau descend et prend de la vitesse.
+  - titre: Turbine
+    texte: L'eau la fait tourner.
+    icone: turbine
+  - titre: Générateur
+    texte: Des aimants tournent près de conducteurs.
+    icone: bolt
+```
+
 ## À retenir
 
 - Un barrage retient l'eau d'une rivière dans un réservoir ; cette eau en hauteur contient de l'énergie potentielle.
@@ -7496,18 +8896,137 @@ status: planned
 
 ---
 type: article
-title: Les hydroliennes, l'eolien sous-marin
+title: Les hydroliennes et l'énergie des marées
 slug: les-hydroliennes-l-eolien-sous-marin
 categoryPath: energie/energies-renouvelables/hydraulique
 summary: >
-  Une technologie qui exploite les courants marins pour produire de l'electricite.
+  La mer monte et descend deux fois par jour, et ses courants sont puissants. Une usine
+  marémotrice ou une hydrolienne, sorte d'éolienne sous-marine, transforme ce mouvement en
+  électricité, avec une régularité que le vent n'offre pas.
 tags: [hydraulique]
-priority: 3
-essentiel: false
-status: planned
+relatedArticles: [capter-transformer-stocker-energie-naturelle, comment-fonctionne-une-eolienne, comment-un-barrage-transforme-t-il-l-eau-d-une-riviere-en-electricite]
+sources:
+  - title: "Hydrolienne"
+    url: "https://fr.wikipedia.org/wiki/Hydrolienne"
+    publisher: "Wikipédia"
+  - title: "Usine marémotrice de la Rance"
+    url: "https://fr.wikipedia.org/wiki/Usine_mar%C3%A9motrice_de_la_Rance"
+    publisher: "Wikipédia"
+  - title: "Tidal power"
+    url: "https://en.wikipedia.org/wiki/Tidal_power"
+    publisher: "Wikipedia"
+  - title: "MeyGen"
+    url: "https://en.wikipedia.org/wiki/MeyGen"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Pourquoi une hydrolienne peut-elle être plus petite qu'une éolienne de même puissance ?"
+    options:
+      - "Parce que l'eau est environ 800 fois plus dense que l'air"
+      - "Parce que l'eau est plus chaude"
+      - "Parce qu'elle tourne plus vite"
+    answer: 1
+    explanation: >
+      Un courant de mer de quelques mètres par seconde transporte beaucoup plus d'énergie qu'un
+      vent de même vitesse, car l'eau est bien plus dense.
+  - question: "Quel est le grand atout de l'énergie des marées par rapport au vent ?"
+    options:
+      - "Elle ne coûte rien à installer"
+      - "Elle est prévisible des années à l'avance"
+      - "Elle fonctionne sur terre"
+    answer: 2
+    explanation: >
+      Les marées dépendent de la Lune et du Soleil. On peut calculer longtemps à l'avance quand
+      et avec quelle force les courants vont circuler.
+  - question: "Depuis quand fonctionne l'usine marémotrice de la Rance, en Bretagne ?"
+    options:
+      - "Depuis 2015"
+      - "Depuis 1890"
+      - "Depuis 1966"
+    answer: 3
+    explanation: >
+      Inaugurée en 1966, elle utilise un barrage sur l'estuaire de la Rance et 24 turbines,
+      pour une puissance de 240 mégawatts.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Deux fois par jour, attirée par la Lune et le Soleil, la mer monte et descend. Ces marées
+déplacent d'immenses masses d'eau et créent des courants puissants près des côtes. On peut les
+exploiter de deux façons : retenir l'eau derrière un barrage, c'est l'**usine marémotrice**, ou
+placer au fond de la mer des turbines que le courant fait tourner, les **hydroliennes**. Leur
+grand atout : contrairement au vent, les marées sont **prévisibles** des années à l'avance.
+
+## L'usine marémotrice
+
+Le principe ressemble à celui d'un barrage de rivière. On ferme un estuaire par une digue munie de
+turbines. À marée montante, l'eau remplit le bassin ; à marée descendante, on la laisse ressortir
+à travers les turbines, et l'inverse est aussi possible. Il faut une grande différence entre
+marée haute et marée basse, le **marnage**.
+
+L'usine de la **Rance**, près de Saint-Malo, inaugurée en 1966, a été la première au monde de
+grande taille. Ses 24 turbines totalisent 240 mégawatts. Elle est restée la plus puissante jusqu'à
+la mise en service de celle de Sihwa, en Corée du Sud, en 2011. Mais fermer un estuaire modifie
+profondément son écosystème, ce qui limite les nouveaux projets.
+
+## L'hydrolienne, une éolienne sous l'eau
+
+Une hydrolienne est posée sur le fond ou suspendue sous une plateforme flottante, dans un passage
+où le courant de marée est fort, comme un détroit ou un raz. Ses pales tournent sous l'effet du
+courant et entraînent un **alternateur**. L'électricité rejoint la côte par un câble sous-marin.
+
+L'eau est environ **800 fois plus dense** que l'air. Un courant de 2 à 3 mètres par seconde
+transporte donc autant d'énergie qu'un vent bien plus rapide : à puissance égale, une hydrolienne
+est beaucoup plus petite qu'une éolienne.
+
+```schema
+type: comparaison
+titre: Deux façons d'exploiter les marées
+colonnes:
+  - titre: Usine marémotrice
+    points:
+      - Un barrage ferme un estuaire
+      - L'eau passe dans des turbines à chaque marée
+      - La Rance, 240 MW depuis 1966
+  - titre: Hydrolienne
+    points:
+      - Une turbine posée dans un courant de marée
+      - Compacte, l'eau étant 800 fois plus dense que l'air
+      - Invisible depuis la côte
+```
+
+Parmi les sites les plus puissants d'Europe figurent le Pentland Firth, au nord de l'Écosse, où le
+parc MeyGen produit depuis 2016, et le raz Blanchard, entre le Cotentin et l'île d'Aurigny.
+
+## Atouts
+
+- **La prévisibilité** : on connaît à l'avance l'heure et la force des marées.
+- **La régularité** : le courant s'arrête brièvement à chaque renverse, mais revient toujours.
+- **La discrétion** : les machines sont invisibles depuis la côte.
+
+## Difficultés
+
+- La mer est un milieu hostile : le sel corrode, les organismes marins colonisent les machines,
+  les tempêtes et les courants violents fatiguent les structures.
+- L'installation et la maintenance demandent des navires spécialisés, dans des fenêtres de
+  courant faible très courtes.
+- Les bons sites sont rares et souvent fréquentés par la pêche et la navigation.
+- Le coût du kilowattheure reste nettement supérieur à celui de l'éolien ou du solaire.
+
+## Les vagues aussi
+
+L'énergie des **vagues**, ou énergie houlomotrice, est une autre ressource marine. Des flotteurs,
+des colonnes d'eau oscillantes ou des plaques articulées transforment le mouvement des vagues en
+électricité. Cette technologie reste au stade des prototypes.
+
+## À retenir
+
+- Les marées, dues à la Lune et au Soleil, déplacent d'énormes masses d'eau deux fois par jour.
+- Une usine marémotrice turbine l'eau retenue derrière un barrage, comme à la Rance depuis 1966.
+- Une hydrolienne est une turbine sous-marine entraînée par les courants de marée.
+- L'eau étant environ 800 fois plus dense que l'air, une hydrolienne est compacte.
+- L'énergie des marées est très prévisible, mais encore chère et difficile à exploiter en mer.
 
 ---
 type: article
@@ -8133,6 +9652,19 @@ Le cuiseur solaire ne brûle ni bois, ni charbon, ni gaz. Dans les pays où l'on
 
 Il a pourtant des défauts. Par temps nuageux, il chauffe peu. Il cuit plus lentement qu'une cuisinière. Le vent le refroidit. Et la lumière concentrée par un cuiseur parabolique peut brûler la peau ou les yeux : il faut s'en approcher avec prudence.
 
+```schema
+type: etapes
+titre: Les trois astuces d'un cuiseur solaire
+elements:
+  - titre: Concentrer
+    texte: Des miroirs renvoient les rayons.
+    icone: sun
+  - titre: Absorber
+    texte: Une marmite noire transforme la lumière en chaleur.
+  - titre: Garder
+    texte: Une vitre retient la chaleur.
+```
+
 ## À retenir
 
 - Un cuiseur solaire change la lumière du Soleil en chaleur pour cuire les aliments.
@@ -8463,6 +9995,22 @@ Dans chaque étage, le zinc s'use peu à peu en perdant des électrons. Ces peti
 
 Quelques mois plus tard, en 1800, les Anglais Nicholson et Carlisle utilisent la pile pour séparer l'eau en deux gaz. Le chimiste Humphry Davy s'en sert ensuite pour découvrir sept éléments chimiques. En 1801, Volta présente sa pile à Napoléon Bonaparte, à Paris. Aujourd'hui, l'unité de la tension électrique, le volt, porte son nom.
 
+```schema
+type: systeme
+titre: La pile de Volta, 1800
+centre: Pile de Volta
+icone: battery
+parties:
+  - nom: Disques de zinc
+    role: Les électrons en partent.
+  - nom: Disques de cuivre
+    role: Les électrons y arrivent par le fil.
+  - nom: Tissu à l'eau salée
+    role: Il sépare chaque paire de disques.
+  - nom: Empilement
+    role: Plus d'étages, plus de tension.
+```
+
 ## À retenir
 
 - Alessandro Volta a décrit sa pile le 20 mars 1800 dans une lettre à la Royal Society.
@@ -8567,14 +10115,139 @@ title: Pourquoi une batterie s'use avec le temps
 slug: pourquoi-une-batterie-s-use-avec-le-temps
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
-  Un vieillissement chimique inevitable, mais dont la vitesse peut etre ralentie.
-tags: [batteries, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Chaque charge, la chaleur et même le simple passage du temps abîment un peu une batterie
+  lithium-ion. Comprendre ces mécanismes permet d'adopter des gestes simples qui prolongent sa
+  durée de vie.
+tags: [batteries]
+relatedArticles: [comment-fonctionne-une-batterie-lithium-ion, la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere, batteries-sodium-ion, recyclage-batteries-vehicules-electriques]
+sources:
+  - title: "Lithium-ion battery"
+    url: "https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    publisher: "Wikipedia"
+  - title: "Solid electrolyte interphase"
+    url: "https://en.wikipedia.org/wiki/Solid_electrolyte_interphase"
+    publisher: "Wikipedia"
+  - title: "Battery management system"
+    url: "https://en.wikipedia.org/wiki/Battery_management_system"
+    publisher: "Wikipedia"
+  - title: "Accumulateur lithium"
+    url: "https://fr.wikipedia.org/wiki/Accumulateur_lithium"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Qu'est-ce que la couche appelée SEI dans une batterie ?"
+    options:
+      - "Une fine couche qui se forme sur l'électrode négative et consomme un peu de lithium"
+      - "Le boîtier de la batterie"
+      - "Un câble de recharge"
+    answer: 1
+    explanation: >
+      Elle protège l'électrode, mais elle s'épaissit lentement avec le temps et emprisonne du
+      lithium, qui ne peut plus servir.
+  - question: "Qu'est-ce qui use le plus vite une batterie lithium-ion ?"
+    options:
+      - "Le rangement à mi-charge dans un endroit frais"
+      - "La chaleur, combinée à une charge restant longtemps à 100 %"
+      - "Les recharges partielles"
+    answer: 2
+    explanation: >
+      Une température élevée accélère toutes les réactions parasites, surtout quand la batterie
+      est pleine.
+  - question: "Pourquoi ne faut-il pas recharger rapidement une batterie très froide ?"
+    options:
+      - "Parce qu'elle gèle"
+      - "Parce que le chargeur ne fonctionne pas"
+      - "Parce que du lithium métallique peut se déposer sur l'électrode et l'abîmer définitivement"
+    answer: 3
+    explanation: >
+      Au froid, les ions s'insèrent mal dans l'électrode. Ils se déposent alors en surface sous
+      forme de métal, ce qui réduit la capacité et peut créer des risques.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une batterie de téléphone tient moins longtemps après deux ou trois ans ; celle d'une voiture
+électrique perd quelques pour cent d'autonomie. Ce vieillissement a deux causes : l'**usage**,
+chaque cycle de charge et de décharge abîmant un peu les matériaux, et le **temps**, car des
+réactions chimiques lentes se poursuivent même quand la batterie ne sert pas. La chaleur, les
+charges complètes prolongées et les recharges très rapides par grand froid accélèrent cette usure.
+
+## Ce qui se passe à l'intérieur
+
+Dans une batterie lithium-ion, les ions lithium font l'aller-retour entre deux électrodes. Chaque
+ion qui ne peut plus faire ce voyage, c'est un peu de capacité perdue.
+
+- **La couche SEI** : dès les premières charges, une fine couche se forme à la surface de
+  l'électrode négative, en consommant un peu d'électrolyte et de lithium. Elle protège l'électrode,
+  mais elle s'épaissit lentement, emprisonne du lithium et freine le passage des ions.
+- **Les fissures** : à chaque cycle, les électrodes gonflent et dégonflent légèrement. Les grains
+  de matière finissent par se fissurer et certains perdent le contact électrique.
+- **Le dépôt de lithium métallique** : si l'on charge trop vite, surtout au froid, les ions
+  n'ont pas le temps de s'insérer dans l'électrode. Ils se déposent en surface sous forme de métal.
+  Ce lithium est perdu, et des dépôts en aiguilles peuvent, dans les cas extrêmes, provoquer un
+  court-circuit.
+- **La dégradation de l'électrolyte**, accélérée par la chaleur et les tensions élevées.
+
+```schema
+type: systeme
+titre: Ce qui use une batterie lithium-ion
+centre: Perte de capacité
+icone: battery
+parties:
+  - nom: La couche SEI
+    role: Elle s'épaissit et emprisonne du lithium.
+  - nom: Les fissures
+    role: Les électrodes gonflent et dégonflent à chaque cycle.
+  - nom: Le lithium métallique
+    role: Il se dépose lors des recharges rapides au froid.
+  - nom: L'électrolyte
+    role: Il se dégrade avec la chaleur et les tensions élevées.
+```
+
+## Les facteurs d'usure
+
+1. **La chaleur** : au-dessus de 30 à 35 °C, les réactions parasites s'accélèrent nettement. Une
+   voiture garée en plein soleil ou un téléphone laissé sur un tableau de bord vieillissent plus
+   vite.
+2. **Rester longtemps plein ou vide** : une batterie lithium-ion de type NMC conservée à 100 %
+   s'use plus vite qu'à 50 % ; laissée à 0 %, elle peut être endommagée.
+3. **La recharge rapide**, surtout à basse température.
+4. **Les décharges profondes répétées**.
+
+## Ce qui protège la batterie
+
+Toute batterie lithium-ion moderne est surveillée par un **système de gestion**, le BMS. Il
+mesure la tension de chaque cellule, la température et le courant, coupe la charge ou la
+décharge en cas de danger, équilibre les cellules entre elles et, dans les voitures, chauffe ou
+refroidit le pack. Les constructeurs gardent aussi une marge cachée : quand l'écran affiche
+100 %, la batterie n'est pas tout à fait à son maximum chimique.
+
+## Les bons gestes
+
+- Éviter la chaleur : ne pas laisser l'appareil au soleil, ne pas le charger sous un oreiller.
+- Pour l'usage quotidien d'une batterie NMC, se contenter d'une charge entre environ 20 et 80 %,
+  et charger à 100 % avant un long trajet.
+- Pour un stockage de plusieurs mois, laisser la batterie autour de 40 à 60 %, au frais.
+- Préférer la recharge lente quand on a le temps.
+- Pour les batteries LFP, suivre les conseils du fabricant, qui recommande souvent une charge
+  complète régulière.
+
+## Combien de temps dure une batterie
+
+Une batterie est souvent considérée comme usée quand elle ne garde plus que 70 à 80 % de sa
+capacité d'origine. Les batteries de voitures électriques vieillissent en général moins vite que
+ce qu'on craignait : beaucoup de constructeurs les garantissent huit ans et plus de 150 000 km. Une
+batterie trop usée pour une voiture peut encore servir au stockage stationnaire, avant d'être
+recyclée.
+
+## À retenir
+
+- Une batterie s'use à l'usage, par les cycles, et avec le temps, par des réactions lentes.
+- La couche SEI qui s'épaissit, les fissures et les dépôts de lithium réduisent la capacité.
+- La chaleur, une charge pleine prolongée et la recharge rapide au froid accélèrent l'usure.
+- Un système de gestion, le BMS, surveille et protège chaque cellule.
+- Éviter la chaleur et rester entre 20 et 80 % au quotidien prolonge la vie d'une batterie NMC.
 
 ---
 type: article
@@ -8803,18 +10476,142 @@ status: planned
 
 ---
 type: article
-title: La chimie LFP (lithium-fer-phosphate), plus stable et moins chere
+title: La chimie LFP (lithium-fer-phosphate), plus stable et moins chère
 slug: la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere
 categoryPath: energie/reseaux-et-stockage/batteries
 summary: >
-  Une variante de batterie lithium qui privilegie securite et longevite.
+  Les batteries LFP utilisent du fer et du phosphate au lieu du nickel et du cobalt. Elles
+  stockent un peu moins d'énergie par kilo, mais sont moins chères, plus sûres et durent plus
+  longtemps. Elles équipent désormais près de la moitié des voitures électriques.
 tags: [batteries]
-priority: 3
-essentiel: false
-status: planned
+relatedArticles: [comment-fonctionne-une-batterie-lithium-ion, batteries-sodium-ion, pourquoi-une-batterie-s-use-avec-le-temps, installation-solaire-autonome]
+sources:
+  - title: "Lithium iron phosphate battery"
+    url: "https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery"
+    publisher: "Wikipedia"
+  - title: "Accumulateur lithium-fer-phosphate"
+    url: "https://fr.wikipedia.org/wiki/Accumulateur_lithium-fer-phosphate"
+    publisher: "Wikipédia"
+  - title: "Global EV Outlook 2025"
+    url: "https://www.iea.org/reports/global-ev-outlook-2025"
+    publisher: "Agence internationale de l'énergie"
+  - title: "John B. Goodenough"
+    url: "https://en.wikipedia.org/wiki/John_B._Goodenough"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quels métaux une batterie LFP évite-t-elle d'utiliser ?"
+    options:
+      - "Le nickel et le cobalt"
+      - "Le lithium"
+      - "Le fer"
+    answer: 1
+    explanation: >
+      Sa cathode est faite de phosphate de fer et de lithium. Elle se passe du nickel et du
+      cobalt, coûteux et dont l'extraction pose des problèmes environnementaux et sociaux.
+  - question: "Quel est le principal défaut d'une batterie LFP ?"
+    options:
+      - "Elle explose facilement"
+      - "Elle stocke moins d'énergie pour un même poids"
+      - "Elle ne se recharge qu'une fois"
+    answer: 2
+    explanation: >
+      Une cellule LFP stocke environ 20 à 30 % d'énergie de moins par kilo qu'une cellule au
+      nickel, ce qui réduit l'autonomie d'une voiture à poids égal.
+  - question: "Pourquoi les LFP sont-elles appréciées pour le stockage domestique ?"
+    options:
+      - "Parce qu'elles sont les plus légères"
+      - "Parce qu'elles sont transparentes"
+      - "Parce qu'elles supportent des milliers de cycles et chauffent peu en cas de défaut"
+    answer: 3
+    explanation: >
+      Leur chimie très stable limite les risques d'emballement thermique, et elles supportent
+      souvent plus de 3 000 cycles de charge.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une batterie lithium-ion est un ensemble de cellules où des ions lithium font l'aller-retour
+entre deux électrodes. Tout dépend de la matière de l'électrode positive, la **cathode**. Les
+batteries **LFP**, pour lithium-fer-phosphate, utilisent du phosphate de fer et de lithium au lieu
+d'un mélange de nickel, de manganèse et de cobalt, dit **NMC**. Elles stockent un peu moins
+d'énergie par kilo, mais coûtent moins cher, résistent mieux à la chaleur et durent plus
+longtemps. Selon l'Agence internationale de l'énergie, elles équipent près de la moitié des
+voitures électriques vendues dans le monde en 2024.
+
+## Une cathode en phosphate de fer
+
+En 1996-1997, l'équipe de John Goodenough, à l'université du Texas, montre que le phosphate de fer
+et de lithium, LiFePO₄, peut accueillir et relâcher des ions lithium. Ses atomes sont solidement
+liés en une structure très stable. Ce matériau est bon marché, car le fer et le phosphate sont
+abondants. Pendant longtemps, il conduisait mal l'électricité ; des grains très fins enrobés de
+carbone ont résolu le problème.
+
+Une cellule LFP fonctionne à une tension d'environ 3,2 volts, contre 3,6 à 3,7 volts pour une
+cellule NMC.
+
+## LFP contre NMC
+
+| Critère | LFP | NMC |
+| --- | --- | --- |
+| Énergie par kilo (cellule) | Plus faible, environ 160 à 200 Wh/kg | Plus élevée, souvent 220 à 280 Wh/kg |
+| Coût | Plus bas | Plus élevé |
+| Durée de vie | Souvent plus de 3 000 cycles | Souvent 1 000 à 2 000 cycles |
+| Sécurité | Très stable, emballement thermique rare | Plus sensible à la surchauffe |
+| Métaux critiques | Ni nickel ni cobalt | Nickel, cobalt |
+| Froid | Performances plus réduites | Mieux supporté |
+
+Ces chiffres varient selon les fabricants et progressent chaque année.
+
+```schema
+type: barres
+titre: Énergie stockée par kilo de cellule
+legende: Ordres de grandeur, milieu des fourchettes citées dans l'article.
+unite: Wh/kg
+valeurs:
+  - label: Plomb
+    valeur: 35
+  - label: Sodium-ion
+    valeur: 140
+  - label: LFP
+    valeur: 180
+  - label: NMC
+    valeur: 250
+```
+
+## Le retour en force
+
+Longtemps cantonnées aux bus et aux outils, les LFP reviennent au premier plan vers 2020. Les
+fabricants chinois, comme CATL et BYD, améliorent leur densité en supprimant une partie des
+modules et en logeant directement de grandes cellules dans le pack. BYD lance en 2020 sa batterie
+« Blade », en longues cellules plates. Tesla adopte les LFP sur ses versions d'entrée de gamme à
+partir de 2021.
+
+## Où les utilise-t-on
+
+- **Les voitures électriques** d'entrée et de milieu de gamme, où le prix compte plus que
+  l'autonomie maximale.
+- **Le stockage stationnaire** : batteries de maison couplées à des panneaux solaires, grands
+  parcs de batteries pour le réseau. Le poids y importe peu, la sécurité et la durée de vie
+  beaucoup.
+- **Les bateaux, camping-cars et sites isolés**, où elles remplacent les batteries au plomb : à
+  capacité utile égale, elles sont environ trois fois plus légères et supportent bien plus de cycles.
+
+## Bien les utiliser
+
+Une batterie LFP supporte d'être chargée régulièrement à 100 %, ce que les fabricants recommandent
+même de temps en temps pour que l'électronique de gestion recalibre son estimation de charge. Elle
+doit être protégée par un **système de gestion**, le BMS, qui surveille la tension de chaque
+cellule et la température. On ne doit pas la charger en dessous de 0 °C, sous peine de l'abîmer.
+
+## À retenir
+
+- La batterie LFP utilise une cathode en phosphate de fer et de lithium, sans nickel ni cobalt.
+- Elle stocke moins d'énergie par kilo que la NMC, mais coûte moins cher et dure plus longtemps.
+- Sa chimie très stable la rend plus sûre en cas de choc ou de surchauffe.
+- Elle équipe près de la moitié des voitures électriques vendues en 2024, et la plupart des batteries stationnaires.
+- Elle ne doit pas être chargée en dessous de 0 °C.
 
 ---
 type: article
@@ -8893,18 +10690,134 @@ status: planned
 
 ---
 type: article
-title: La molecule d'hydrogene et ses proprietes energetiques
+title: La molécule d'hydrogène et ses propriétés énergétiques
 slug: la-molecule-d-hydrogene-et-ses-proprietes-energetiques
 categoryPath: energie/reseaux-et-stockage/hydrogene
 summary: >
-  Un element tres leger et tres energetique, mais qui n'existe pas a l'etat pur naturellement.
-tags: [hydrogene, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le dihydrogène contient près de trois fois plus d'énergie par kilogramme que l'essence, mais il
+  est si léger qu'il prend énormément de place. Il ne rejette que de l'eau à l'usage, mais il faut
+  le produire, le stocker et le transporter, ce qui fait tout l'enjeu de son utilisation.
+tags: [hydrogene]
+relatedArticles: [hydrogene-couleurs-et-usages, electrolyse-eau, comment-une-pile-a-hydrogene-produit-elle-de-l-electricite-sans-rien-bruler, lacier-bas-carbone-reduction-directe-hydrogene]
+sources:
+  - title: "Dihydrogène"
+    url: "https://fr.wikipedia.org/wiki/Dihydrog%C3%A8ne"
+    publisher: "Wikipédia"
+  - title: "Hydrogen"
+    url: "https://en.wikipedia.org/wiki/Hydrogen"
+    publisher: "Wikipedia"
+  - title: "Energy density"
+    url: "https://en.wikipedia.org/wiki/Energy_density"
+    publisher: "Wikipedia"
+  - title: "Hydrogen storage"
+    url: "https://en.wikipedia.org/wiki/Hydrogen_storage"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que produit la combustion ou l'utilisation de l'hydrogène dans une pile ?"
+    options:
+      - "Du dioxyde de carbone"
+      - "De l'eau"
+      - "De la suie"
+    answer: 2
+    explanation: >
+      En se combinant à l'oxygène, l'hydrogène forme de l'eau, sans carbone. Mais sa production peut,
+      elle, émettre du CO2.
+  - question: "Pourquoi l'hydrogène est-il difficile à stocker ?"
+    options:
+      - "Parce qu'il est très lourd"
+      - "Parce qu'il est si léger qu'il occupe un énorme volume, sauf s'il est fortement comprimé ou liquéfié"
+      - "Parce qu'il est solide à température ambiante"
+    answer: 2
+    explanation: >
+      Par litre, il contient peu d'énergie. Il faut le comprimer à 350 ou 700 bars ou le refroidir à
+      −253 °C pour le liquéfier.
+  - question: "L'hydrogène est-il une source d'énergie ?"
+    options:
+      - "Oui, on l'extrait de gisements comme le pétrole"
+      - "Non, c'est surtout un vecteur : il faut dépenser de l'énergie pour le produire"
+      - "Oui, il se renouvelle tout seul dans l'air"
+    answer: 2
+    explanation: >
+      L'hydrogène pur est presque absent de la nature : on le fabrique à partir de gaz ou d'eau, ce qui
+      consomme plus d'énergie qu'il n'en restitue.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **dihydrogène**, H₂, est la molécule la plus **légère** qui existe : deux atomes d'hydrogène liés
+ensemble. À température ambiante, c'est un gaz incolore et inodore. Il contient **beaucoup d'énergie par
+kilogramme**, près de trois fois plus que l'essence, et en se combinant à l'oxygène il ne produit que de
+l'**eau**. Mais il contient **très peu d'énergie par litre**, s'échappe facilement et s'enflamme très
+facilement. Il est presque absent à l'état pur dans la nature : c'est un **vecteur** d'énergie, qu'il
+faut fabriquer, pas une source.
+
+## Beaucoup d'énergie par kilogramme
+
+Un kilogramme d'hydrogène libère environ **120 mégajoules** quand il réagit avec l'oxygène, contre
+environ **44** pour l'essence ou le gazole. C'est pourquoi on l'utilise depuis longtemps pour propulser
+des fusées, où chaque kilogramme compte. Les deux façons d'en tirer de l'énergie :
+
+- **la combustion**, dans un moteur ou une turbine, qui produit de la chaleur ;
+- **la pile à combustible**, qui combine hydrogène et oxygène sans flamme pour produire directement de
+  l'électricité, avec un meilleur rendement.
+
+```schema
+type: barres
+titre: L'énergie contenue dans un kilogramme de carburant
+legende: Valeurs approximatives ; par litre, l'hydrogène gazeux est au contraire très peu énergétique.
+unite: MJ/kg
+valeurs:
+  - label: Hydrogène
+    valeur: 120
+  - label: Gaz naturel
+    valeur: 50
+  - label: Essence
+    valeur: 44
+  - label: Bois sec
+    valeur: 16
+```
+
+## Très peu d'énergie par litre
+
+Le revers de sa légèreté : à pression ambiante, un litre d'hydrogène pèse presque rien et contient très
+peu d'énergie. Pour le rendre utilisable, il faut :
+
+- le **comprimer** à 350 ou 700 bars dans des réservoirs renforcés en fibre de carbone, comme dans les
+  voitures à hydrogène ;
+- ou le **liquéfier** en le refroidissant à **−253 °C**, ce qui consomme beaucoup d'énergie et demande
+  des réservoirs très isolés.
+
+Même ainsi, il occupe plusieurs fois le volume d'une énergie équivalente en essence. Sa toute petite
+molécule se **faufile** à travers de nombreux matériaux et peut fragiliser certains métaux.
+
+## Sécurité
+
+L'hydrogène s'enflamme dans une très large gamme de mélanges avec l'air et avec une très petite
+étincelle. Sa flamme est presque **invisible** en plein jour. En revanche, très léger, il monte et se
+disperse vite à l'air libre, contrairement aux vapeurs d'essence qui s'accumulent au sol. Les
+installations sont équipées de détecteurs et bien ventilées.
+
+## Le vrai défi, la production
+
+Aujourd'hui, la plupart de l'hydrogène est produit à partir de **gaz naturel**, ce qui rejette beaucoup
+de CO₂. On peut aussi le produire par **électrolyse de l'eau** avec de l'électricité renouvelable ou
+nucléaire : il est alors bas carbone, mais plus cher, et chaque transformation perd de l'énergie. Entre
+l'électricité de départ et l'électricité récupérée dans une pile, on perd en général plus de la moitié de
+l'énergie.
+
+C'est pourquoi l'hydrogène est surtout jugé pertinent là où l'électricité directe est difficile à
+utiliser : l'**industrie** qui en consomme déjà, comme les engrais et le raffinage, l'**acier**, et
+peut-être le transport lourd ou le stockage saisonnier.
+
+## À retenir
+
+- Le dihydrogène est la molécule la plus légère, et il ne produit que de l'eau en réagissant avec l'oxygène.
+- Il contient près de trois fois plus d'énergie par kilogramme que l'essence, mais très peu par litre.
+- Il faut le comprimer à 350 ou 700 bars ou le liquéfier à −253 °C pour le stocker.
+- C'est un vecteur d'énergie, produit surtout à partir de gaz aujourd'hui, ou par électrolyse.
+- Ses pertes de conversion le réservent surtout à l'industrie et aux usages difficiles à électrifier.
 
 ---
 type: article
@@ -9070,6 +10983,22 @@ Avec de l'hydrogène pur, la pile n'émet que de la chaleur et de l'eau, sans po
 ## Des fusées à la route
 
 La NASA a utilisé des piles à combustible alcalines pour alimenter des engins spatiaux, dont les missions Apollo. Les premières piles de laboratoire ont été réalisées par William Grove au XIXe siècle.
+
+```schema
+type: etapes
+titre: Dans une pile à hydrogène
+elements:
+  - titre: Hydrogène
+    texte: Il arrive d'un côté de la membrane.
+  - titre: Membrane
+    texte: Elle laisse passer les protons, pas les électrons.
+  - titre: Circuit extérieur
+    texte: Les électrons le parcourent, c'est le courant.
+    icone: bolt
+  - titre: Rejets
+    texte: Seulement de l'eau et de la chaleur.
+    icone: droplet
+```
 
 ## À retenir
 
@@ -9350,6 +11279,22 @@ En France, le réseau de transport, géré par RTE, fonctionne entre 63 000 et 4
 
 La production et la consommation doivent s'équilibrer à chaque instant, car l'électricité est consommée au moment où elle est produite. Sur un même grand réseau, tous les alternateurs produisent un courant à la même fréquence, différente en Europe et en Amérique du Nord, et un écart de fréquence sert de signal pour ajuster la production. Relier de grandes régions permet de mutualiser la production, de baisser les coûts et de s'entraider.
 
+```schema
+type: etapes
+titre: De la centrale à la prise
+elements:
+  - titre: Centrale
+    icone: factory
+  - titre: Élever la tension
+    texte: Moins de courant, donc moins de pertes.
+  - titre: Lignes à haute tension
+    texte: Sur de longues distances.
+  - titre: Postes
+    texte: Des transformateurs abaissent la tension.
+  - titre: Prise
+    icone: house
+```
+
 ## À retenir
 
 - À la sortie de la centrale, des transformateurs élèvent la tension pour envoyer l'électricité sur de longues distances.
@@ -9545,6 +11490,20 @@ Le 28 avril 2025, à 12 h 33, l'Espagne et le Portugal ont perdu presque toute l
 ## Couper un peu pour ne pas tout perdre
 
 Pour éviter l'effondrement, on pratique le délestage : on coupe volontairement l'électricité de certains clients. En Europe, des coupures automatiques se déclenchent quand la fréquence descend entre 49 et 47,5 hertz. Le 4 novembre 2006, ce délestage automatique a sans doute évité une panne de tout le réseau européen. Les gestionnaires gardent aussi des centrales en réserve, relient leurs réseaux à ceux des pays voisins et enterrent certaines lignes.
+
+```schema
+type: etapes
+titre: L'effet domino d'un black-out
+elements:
+  - titre: Un petit incident
+    texte: Une ligne ou une centrale décroche.
+  - titre: Déséquilibre
+    texte: Production et consommation ne s'égalent plus.
+  - titre: Coupures en cascade
+    texte: Les protections déconnectent d'autres éléments.
+  - titre: Black-out
+    texte: Une région ou un pays entier dans le noir.
+```
 
 ## À retenir
 
@@ -13756,7 +15715,22 @@ status: published
 
 Les pales tournent grâce à la portance, des engrenages accélèrent le rotor et la génératrice produit le courant. La limite de Betz plafonne le rendement à 59,3 %.
 
-[Emplacement image : diagramme en quatre étapes reliées par des flèches, « Du vent au courant électrique ». Le vent : son énergie cinétique fait tourner les pales. Les pales : une poche d'air à basse pression tire la pale, c'est la portance. Les engrenages : ils accélèrent la rotation du rotor. La génératrice : elle produit du courant alternatif. Légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du vent au courant électrique
+elements:
+  - titre: Le vent
+    texte: Son énergie cinétique fait tourner les pales.
+  - titre: Les pales
+    texte: La portance tire chaque pale.
+    icone: turbine
+  - titre: Les engrenages
+    texte: Ils accélèrent la rotation du rotor.
+    icone: gear
+  - titre: La génératrice
+    texte: Elle produit le courant.
+    icone: bolt
+```
 
 ## De l'air à l'électricité
 
@@ -13858,6 +15832,24 @@ Les chimistes Otto Hahn et Fritz Strassmann ont mis en évidence la fission ; Li
 
 Dans une centrale, la chaleur de la fission transforme de l'eau en vapeur, qui fait tourner une turbine reliée à un alternateur. Le combustible est de l'uranium sous forme de petites pastilles de céramique empilées dans des tubes métalliques scellés, les crayons de combustible. L'eau refroidit le réacteur et sert aussi de modérateur : elle ralentit les neutrons, ce qui entretient la réaction en chaîne. Des barres de contrôle, qui absorbent les neutrons, s'enfoncent dans le cœur pour ralentir la réaction ou se retirent pour l'accélérer. Dans un réacteur à eau pressurisée, l'eau du cœur reste sous haute pression pour ne pas bouillir et chauffe un second circuit qui produit la vapeur ; dans un réacteur à eau bouillante, l'eau bout directement dans la cuve.
 
+```schema
+type: etapes
+titre: De l'atome à l'ampoule
+elements:
+  - titre: Un neutron frappe
+    texte: Un noyau d'uranium 235.
+    icone: atom
+  - titre: Fission
+    texte: Le noyau se casse et libère énergie et neutrons.
+  - titre: Réaction en chaîne
+    texte: Ces neutrons cassent d'autres noyaux.
+  - titre: Chaleur, vapeur, turbine
+    texte: Comme dans une centrale thermique.
+    icone: turbine
+  - titre: Électricité
+    icone: bulb
+```
+
 ## À retenir
 
 - La fission est la cassure d'un noyau atomique lourd en deux noyaux plus légers, ou en quelques-uns.
@@ -13955,6 +15947,20 @@ Plus de 95 % de l'électricité produite est décarbonée : elle vient du nuclé
 ## Un grand exportateur
 
 La France a exporté 92,3 TWh de plus qu'elle n'en a importé, un record. La France est le premier exportateur net d'électricité au monde.
+
+```schema
+type: barres
+titre: Production d'électricité en France par source
+legende: Chiffres de l'article, en térawattheures.
+unite: TWh
+valeurs:
+  - label: Nucléaire
+    valeur: 373
+  - label: Hydraulique
+    valeur: 62.4
+  - label: Solaire
+    valeur: 32.9
+```
 
 ## À retenir
 
@@ -14074,6 +16080,20 @@ La flexibilité de la demande, ou effacement, consiste à décaler ou réduire s
 
 Les bénéfices annoncés : moins de coupures, moins d'impact des tempêtes, un retour plus rapide du courant, plus d'énergies renouvelables et des coûts d'exploitation plus bas. Les données de consommation posent des questions de vie privée : les régulateurs européens recommandent de les anonymiser et de protéger la vie privée dès la conception. Un réseau intelligent ne remplace pas la sobriété : il aide à intégrer les renouvelables, mais ne dispense pas de réduire la consommation.
 
+```schema
+type: etapes
+titre: Déplacer la consommation
+elements:
+  - titre: Compteur communicant
+    texte: Comme Linky, il mesure heure par heure.
+  - titre: Prix variable
+    texte: L'électricité coûte moins cher à certaines heures.
+  - titre: Usages déplacés
+    texte: Chauffe-eau ou recharge aux heures creuses.
+  - titre: Réseau équilibré
+    icone: network
+```
+
 ## À retenir
 
 - Un réseau intelligent utilise les technologies de l'information pour optimiser en temps réel les flux entre producteurs et consommateurs.
@@ -14169,6 +16189,20 @@ En France, la loi du 10 mars 2023 sur l'accélération des énergies renouvelabl
 
 Des coûts d'installation et d'entretien plus élevés freinent le développement dans beaucoup de régions, et il faut trouver l'équilibre entre récolte et production d'électricité.
 
+```schema
+type: comparaison
+titre: L'agrivoltaïsme, deux productions sur une parcelle
+colonnes:
+  - titre: Électricité
+    icone: sun
+    points:
+      - Panneaux solaires au-dessus des cultures
+  - titre: Agriculture
+    icone: wheat
+    points:
+      - L'ombre peut protéger les cultures de la chaleur
+```
+
 ## À retenir
 
 - L'agrivoltaïsme consiste à produire de l'électricité avec des panneaux solaires et à pratiquer l'agriculture sur la même parcelle.
@@ -14253,6 +16287,19 @@ Comprimer l'air l'échauffe, ce qui fait perdre de l'énergie et peut abîmer l'
 ## Où et comment ?
 
 Les cavités de sel souterraines sont le lieu de stockage préféré, car l'air comprimé contient peu d'énergie par volume et demande de très grands volumes. Le procédé dépend de sites géologiques adaptés, comme des cavernes de sel. Les centrales de Huntorf, en Allemagne, et de McIntosh, aux États-Unis, fonctionnent depuis plusieurs décennies. Plusieurs projets récents en Chine comptent parmi les plus grands du monde.
+
+```schema
+type: cycle
+titre: Stocker l'électricité dans de l'air
+elements:
+  - titre: Électricité en excès
+    texte: Elle comprime de l'air.
+  - titre: Cavité
+    texte: L'air comprimé y est stocké.
+  - titre: Demande en hausse
+    texte: L'air libéré fait tourner une turbine.
+    icone: turbine
+```
 
 ## À retenir
 
@@ -14360,6 +16407,22 @@ Hornsdale Power Reserve, en Australie-Méridionale, surnommée la grande batteri
 
 En Californie, Moss Landing est un autre grand site de stockage par batteries, qui stocke l'électricité solaire de la journée pour l'utiliser le soir. Un incendie a détruit une grande partie d'une section du site de Moss Landing, dont les batteries utilisaient une chimie au nickel-manganèse-cobalt.
 
+```schema
+type: systeme
+titre: Les services d'une méga-batterie
+centre: Méga-batterie
+icone: battery
+parties:
+  - nom: Réaction éclair
+    role: Pleine puissance en moins d'une seconde.
+  - nom: Fréquence
+    role: Elle contre les oscillations du réseau.
+  - nom: Pointes
+    role: Elle écrête les pointes de demande.
+  - nom: Lissage
+    role: Elle lisse la production variable.
+```
+
 ## À retenir
 
 - Il passe de l'attente à la pleine puissance en moins d'une seconde, plus vite que toute autre source pilotable.
@@ -14446,6 +16509,21 @@ Elles supportent un très grand nombre de cycles, car aucune transformation d'é
 
 Leur énergie par volume est faible, et les pompes consomment de l'électricité, ce qui réduit le rendement. Elles coûtent cher à l'achat, mais leur coût sur toute la durée de vie peut être compétitif pour du stockage de longue durée. Elles conviennent au stockage du réseau sur plusieurs heures, notamment pour intégrer les énergies renouvelables. La Chine exploite le plus grand système en service.
 
+```schema
+type: systeme
+titre: Une batterie à flux
+centre: Cellule électrochimique
+parties:
+  - nom: Deux réservoirs
+    role: Ils contiennent les électrolytes ; leur volume fixe l'énergie.
+  - nom: Pompes
+    role: Elles font circuler les liquides.
+  - nom: Cellule
+    role: Sa taille fixe la puissance.
+  - nom: Vanadium
+    role: L'élément le plus utilisé.
+```
+
 ## À retenir
 
 - Une batterie à flux stocke l'énergie dans deux électrolytes liquides, conservés dans des réservoirs et pompés à travers une cellule.
@@ -14453,3 +16531,642 @@ Leur énergie par volume est faible, et les pompes consomment de l'électricité
 - Les batteries au vanadium sont les plus courantes et les plus avancées commercialement.
 - Elles supportent un très grand nombre de cycles, car aucune transformation d'électrodes solides ne les abîme comme dans une batterie lithium-ion.
 - Leur énergie par volume est faible, et les pompes consomment de l'électricité, ce qui réduit le rendement.
+
+---
+type: article
+title: Capter, transformer et stocker l'énergie de la nature
+slug: capter-transformer-stocker-energie-naturelle
+categoryPath: energie/energies-renouvelables
+summary: >
+  Soleil, vent, eau, chaleur de la Terre, biomasse : chaque énergie renouvelable se capte avec
+  une machine différente, se transforme en électricité ou en chaleur, puis doit être stockée pour
+  être disponible quand on en a besoin. Voici la chaîne complète.
+tags: [energies-renouvelables]
+relatedArticles: [comment-fonctionne-une-cellule-photovoltaique, comment-fonctionne-une-eolienne, geothermie-chaleur-de-la-terre, les-hydroliennes-l-eolien-sous-marin, biogaz-gaz-sans-gisement, installation-solaire-autonome, maison-autonome-independante]
+sources:
+  - title: "Énergie renouvelable"
+    url: "https://fr.wikipedia.org/wiki/%C3%89nergie_renouvelable"
+    publisher: "Wikipédia"
+  - title: "Renewable energy"
+    url: "https://en.wikipedia.org/wiki/Renewable_energy"
+    publisher: "Wikipedia"
+  - title: "Stockage de l'énergie"
+    url: "https://fr.wikipedia.org/wiki/Stockage_de_l%27%C3%A9nergie"
+    publisher: "Wikipédia"
+  - title: "Renewables 2024"
+    url: "https://www.iea.org/reports/renewables-2024"
+    publisher: "Agence internationale de l'énergie"
+quiz:
+  - question: "D'où vient, au départ, l'énergie du vent, des rivières et de la biomasse ?"
+    options:
+      - "Du Soleil"
+      - "Du noyau de la Terre"
+      - "De la Lune"
+    answer: 1
+    explanation: >
+      Le Soleil chauffe l'air inégalement, ce qui crée les vents ; il évapore l'eau, qui
+      retombe en pluie sur les reliefs ; et il fait pousser les plantes.
+  - question: "Pourquoi faut-il stocker l'énergie solaire et éolienne ?"
+    options:
+      - "Parce qu'elle est dangereuse"
+      - "Parce que sa production varie et ne coïncide pas toujours avec la consommation"
+      - "Parce qu'elle s'use"
+    answer: 2
+    explanation: >
+      Le soleil ne brille pas la nuit et le vent souffle de façon irrégulière. Le stockage fait
+      le lien entre le moment de la production et celui de l'usage.
+  - question: "Quelle forme de stockage d'électricité représente la plus grande capacité installée dans le monde ?"
+    options:
+      - "Les piles de télécommande"
+      - "Les volants d'inertie"
+      - "Les stations de pompage hydraulique"
+    answer: 3
+    explanation: >
+      Les stations de transfert d'énergie par pompage remontent de l'eau dans un réservoir
+      élevé quand l'électricité abonde et la turbinent plus tard.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Les énergies renouvelables viennent de flux naturels qui se renouvellent sans cesse : la lumière
+du Soleil, le vent, l'eau qui coule, les marées, la chaleur de la Terre et la croissance des
+plantes. Les utiliser suppose toujours trois étapes : **capter** le flux avec une machine adaptée,
+le **transformer** en électricité ou en chaleur utile, puis le **stocker** pour l'avoir à
+disposition au bon moment. Cet article fait le tour de chaque source et de cette chaîne.
+
+## Presque tout vient du Soleil
+
+Le Soleil envoie sur la Terre une puissance immense. Une partie est directement captée sous forme
+de lumière et de chaleur. Le reste se cache dans d'autres formes :
+
+- il chauffe l'air inégalement entre l'équateur et les pôles, les terres et les mers : ce sont
+  les **vents** ;
+- il évapore l'eau des océans, qui retombe en pluie sur les montagnes et forme les **rivières** ;
+- il fait pousser les plantes par la photosynthèse : c'est la **biomasse**.
+
+Deux sources n'en dépendent pas : les **marées**, dues à l'attraction de la Lune et du Soleil, et
+la **géothermie**, la chaleur interne de la Terre.
+
+## Chaque source, sa machine
+
+| Source | Ce qu'on capte | Machine | Ce qu'on obtient |
+| --- | --- | --- | --- |
+| Soleil | Lumière | Panneau photovoltaïque | Électricité continue |
+| Soleil | Chaleur | Capteur solaire thermique, four solaire | Eau chaude, chaleur |
+| Vent | Mouvement de l'air | Éolienne, moulin | Rotation, puis électricité |
+| Rivière | Eau qui tombe ou qui coule | Barrage, microcentrale, roue | Rotation, puis électricité |
+| Marées et courants | Eau qui monte ou qui court | Usine marémotrice, hydrolienne | Rotation, puis électricité |
+| Terre | Chaleur du sous-sol | Pompe à chaleur, forage | Chaleur, parfois électricité |
+| Biomasse | Énergie chimique des plantes | Poêle, chaudière, méthaniseur | Chaleur, gaz, électricité |
+
+- **Le photovoltaïque** transforme directement la lumière en électricité dans des cellules de
+  silicium : les photons arrachent des électrons, qui circulent dans un circuit.
+- **Le solaire thermique** absorbe la chaleur dans un capteur noir parcouru par un liquide qui
+  chauffe un ballon d'eau.
+- **L'éolien, l'hydraulique et l'hydrolien** font tourner une turbine reliée à un **alternateur** :
+  un aimant qui tourne dans des bobines de fil produit un courant.
+- **La géothermie** prélève la chaleur du sol avec une pompe à chaleur, ou, dans les régions
+  volcaniques, utilise de la vapeur pour faire tourner une turbine.
+- **La biomasse** libère par combustion ou fermentation l'énergie stockée par les plantes.
+
+```schema
+type: etapes
+titre: La chaîne de toute énergie renouvelable
+elements:
+  - titre: Capter
+    texte: Panneau, capteur, éolienne, turbine, pompe à chaleur.
+    icone: sun
+  - titre: Transformer
+    texte: En électricité ou en chaleur utile.
+    icone: bolt
+  - titre: Adapter
+    texte: Onduleur, électronique de puissance, transformateur.
+  - titre: Stocker
+    texte: Batteries, pompage, chaleur, biomasse.
+    icone: battery
+  - titre: Utiliser
+    texte: Au moment où l'on en a besoin.
+    icone: house
+```
+
+## Transformer, puis adapter
+
+L'électricité produite n'est pas toujours directement utilisable :
+
+- un panneau donne du **courant continu**, alors que la maison et le réseau utilisent du **courant
+  alternatif** à 230 volts : un **onduleur** fait la conversion ;
+- une éolienne ou une turbine donne un courant dont la fréquence varie avec la vitesse : une
+  électronique de puissance le remet en forme ;
+- un **transformateur** élève la tension pour transporter l'électricité sur de longues distances
+  avec peu de pertes, puis l'abaisse près des utilisateurs.
+
+## Stocker, le maillon décisif
+
+Le soleil ne brille pas la nuit, le vent est irrégulier, et l'on se chauffe surtout en hiver.
+Stocker permet de déplacer l'énergie dans le temps :
+
+- **les batteries** stockent l'électricité sous forme chimique, pour quelques heures à quelques
+  jours ;
+- **le pompage hydraulique** remonte de l'eau dans un lac élevé quand l'électricité abonde et la
+  turbine plus tard ; c'est la plus grande capacité de stockage d'électricité installée dans le
+  monde ;
+- **l'air comprimé**, les **volants d'inertie** et l'**hydrogène** produit par électrolyse sont
+  d'autres options ;
+- **la chaleur** se stocke dans un ballon d'eau chaude, des pierres ou des murs épais ;
+- **la biomasse** est un stock naturel : un tas de bois ou une cuve de biogaz se gardent des mois.
+
+Le stockage a un coût et des pertes : une batterie lithium-ion restitue environ 90 % de l'énergie
+reçue, une station de pompage 70 à 80 %, l'hydrogène bien moins.
+
+```schema
+type: barres
+titre: Part de l'énergie restituée par le stockage
+legende: Ordres de grandeur cités dans l'article.
+unite: "%"
+valeurs:
+  - label: Batterie lithium-ion
+    valeur: 90
+  - label: Station de pompage
+    valeur: 75
+    note: 70 à 80 %
+```
+
+## Combiner les sources
+
+Aucune source n'est disponible tout le temps. Les systèmes fiables en combinent plusieurs : le
+solaire produit surtout l'été et le jour, l'éolien souvent l'hiver et la nuit, l'hydraulique et la
+biomasse sont pilotables. Un réseau électrique étendu lisse aussi les variations, car il ne fait
+pas mauvais temps partout à la fois. Et la meilleure énergie reste celle qu'on n'a pas besoin de
+produire : l'isolation et la sobriété réduisent la taille de tout le système.
+
+## À retenir
+
+- La plupart des énergies renouvelables viennent du Soleil ; les marées et la géothermie font exception.
+- Chaque source a sa machine : panneau, capteur, éolienne, turbine, pompe à chaleur, chaudière ou méthaniseur.
+- Les turbines entraînent un alternateur ; les panneaux produisent du courant continu converti par un onduleur.
+- Le stockage, par batteries, pompage, chaleur ou biomasse, fait le lien entre production et consommation.
+- Combiner plusieurs sources et réduire ses besoins rend le système plus fiable et moins cher.
+
+---
+type: article
+title: La géothermie, la chaleur de la Terre
+slug: geothermie-chaleur-de-la-terre
+categoryPath: energie/energies-renouvelables
+summary: >
+  Sous nos pieds, la température augmente d'environ 3 °C tous les 100 mètres. Cette chaleur
+  peut chauffer une maison grâce à une pompe à chaleur, alimenter un réseau de chauffage urbain
+  ou, près des volcans, produire de l'électricité.
+tags: [energies-renouvelables]
+relatedArticles: [capter-transformer-stocker-energie-naturelle, comment-une-pompe-a-chaleur-chauffe-t-elle-avec-l-air-froid-du-dehors, maison-autonome-independante]
+sources:
+  - title: "Géothermie"
+    url: "https://fr.wikipedia.org/wiki/G%C3%A9othermie"
+    publisher: "Wikipédia"
+  - title: "Geothermal energy"
+    url: "https://en.wikipedia.org/wiki/Geothermal_energy"
+    publisher: "Wikipedia"
+  - title: "Gradient géothermique"
+    url: "https://fr.wikipedia.org/wiki/Gradient_g%C3%A9othermique"
+    publisher: "Wikipédia"
+  - title: "Centrale géothermique de Larderello"
+    url: "https://en.wikipedia.org/wiki/Larderello"
+    publisher: "Wikipedia"
+quiz:
+  - question: "De combien la température augmente-t-elle en moyenne quand on descend de 100 mètres sous terre ?"
+    options:
+      - "D'environ 3 °C"
+      - "D'environ 30 °C"
+      - "Elle ne change pas"
+    answer: 1
+    explanation: >
+      C'est le gradient géothermique moyen, d'environ 30 °C par kilomètre. Il est bien plus fort
+      dans les régions volcaniques.
+  - question: "Comment chauffe-t-on une maison avec la géothermie peu profonde ?"
+    options:
+      - "En creusant jusqu'au magma"
+      - "Avec une pompe à chaleur reliée à des tuyaux enterrés"
+      - "En brûlant de la roche"
+    answer: 2
+    explanation: >
+      À quelques mètres ou dizaines de mètres, le sol reste à une température stable. Une pompe
+      à chaleur y puise des calories et les remonte à la température voulue.
+  - question: "Où a-t-on produit pour la première fois de l'électricité géothermique, en 1904 ?"
+    options:
+      - "En Islande"
+      - "En Nouvelle-Zélande"
+      - "À Larderello, en Italie"
+    answer: 3
+    explanation: >
+      En 1904, la vapeur naturelle de Larderello, en Toscane, alimente une dynamo qui allume
+      quelques ampoules. Une centrale y fonctionne toujours.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+La Terre est chaude à l'intérieur : la désintégration d'éléments radioactifs dans les roches et
+la chaleur restée de sa formation la maintiennent à des milliers de degrés en profondeur. Près de
+la surface, la température monte en moyenne d'environ **3 °C tous les 100 mètres**. La
+**géothermie** exploite cette chaleur. Elle ne dépend ni du soleil ni du vent : elle est
+disponible jour et nuit, toute l'année.
+
+## Trois niveaux de géothermie
+
+**La géothermie très peu profonde**, de quelques mètres à 200 mètres. Au-delà d'une dizaine de
+mètres, le sol garde une température presque constante toute l'année, autour de 10 à 15 °C en
+France. On y enterre des tuyaux, à l'horizontale dans le jardin ou dans un forage vertical, la
+**sonde**. Un liquide y circule et se réchauffe un peu. Une **pompe à chaleur** remonte ensuite ces
+calories à 35 à 55 °C pour le chauffage. Elle fournit en général 3 à 5 kilowattheures de chaleur
+pour 1 kilowattheure d'électricité consommée, mieux qu'une pompe à chaleur sur l'air en hiver,
+car le sol est plus chaud que l'air froid. En été, le système peut rafraîchir la maison.
+
+**La géothermie profonde de basse température**, entre 1 et 2 kilomètres environ. On pompe une
+eau chaude de 60 à 90 °C dans une couche de roche poreuse, on prend sa chaleur avec un échangeur,
+puis on la réinjecte dans le sous-sol par un second forage. Dans le Bassin parisien, des dizaines
+de réseaux de chaleur fonctionnent ainsi depuis les années 1970 et chauffent des centaines de
+milliers de logements.
+
+**La géothermie haute température**, au-delà de 150 °C, surtout dans les régions volcaniques.
+La vapeur fait tourner une turbine et produit de l'électricité. L'Islande, l'Italie, la
+Nouvelle-Zélande, le Kenya, l'Indonésie, les Philippines et les États-Unis en produisent ; en
+France, la centrale de Bouillante, en Guadeloupe, aussi.
+
+```schema
+type: comparaison
+titre: Trois niveaux de géothermie
+colonnes:
+  - titre: Très peu profonde
+    icone: house
+    points:
+      - Quelques mètres à 200 m
+      - Sol vers 10 à 15 °C
+      - Pompe à chaleur pour une maison
+  - titre: Profonde, basse température
+    icone: droplet
+    points:
+      - Environ 1 à 2 km
+      - Eau de 60 à 90 °C
+      - Réseaux de chaleur urbains
+  - titre: Haute température
+    icone: fire
+    points:
+      - Régions volcaniques
+      - Plus de 150 °C
+      - Vapeur pour produire de l'électricité
+```
+
+## Un peu d'histoire
+
+Les sources chaudes servent aux bains depuis l'Antiquité. En 1904, à Larderello, en Toscane, le
+prince Piero Ginori Conti utilise la vapeur naturelle pour alimenter une dynamo et allumer
+quelques ampoules. C'est la première électricité géothermique. Une centrale y fonctionne toujours.
+En Islande, l'eau chaude du sous-sol chauffe aujourd'hui la grande majorité des logements.
+
+## Atouts et limites
+
+**Les atouts** :
+
+- une production continue, sans dépendre de la météo ;
+- très peu d'émissions de gaz à effet de serre en fonctionnement ;
+- des installations discrètes, qui occupent peu de place en surface.
+
+**Les limites** :
+
+- le coût des forages, surtout profonds, et le risque de ne pas trouver la chaleur attendue ;
+- une ressource locale : la chaleur se transporte mal sur de longues distances ;
+- des **séismes** provoqués par l'injection d'eau sous pression dans certaines roches profondes :
+  en Alsace, un projet près de Strasbourg a été arrêté après des secousses ressenties en 2019 et
+  2020 ;
+- une eau souterraine parfois chargée en sels ou en gaz, qu'il faut réinjecter.
+
+## Pour une maison
+
+Une pompe à chaleur géothermique coûte plus cher à installer qu'une pompe à chaleur sur l'air, à
+cause du forage ou de la tranchée. En échange, elle consomme moins et fonctionne bien même par
+grand froid. Elle reste dépendante de l'électricité pour faire tourner sa pompe et son
+compresseur.
+
+## À retenir
+
+- La température du sous-sol augmente en moyenne d'environ 3 °C tous les 100 mètres.
+- Une pompe à chaleur reliée à des tuyaux enterrés chauffe une maison avec la chaleur stable du sol.
+- L'eau chaude profonde alimente des réseaux de chaleur, comme dans le Bassin parisien.
+- Dans les régions volcaniques, la vapeur produit de l'électricité ; la première fois à Larderello, en 1904.
+- La géothermie est continue, mais ses forages coûtent cher et peuvent provoquer des séismes.
+
+---
+type: article
+title: L'installation solaire autonome, panneaux, régulateur, batteries et onduleur
+slug: installation-solaire-autonome
+categoryPath: energie/energies-renouvelables/solaire
+summary: >
+  Pour produire et consommer son électricité sans réseau, il faut des panneaux, un régulateur
+  qui charge les batteries, des batteries qui stockent et un onduleur qui fournit du 230 volts.
+  Tout l'art consiste à bien dimensionner chaque élément, surtout pour l'hiver.
+tags: [solaire]
+relatedArticles: [comment-fonctionne-une-cellule-photovoltaique, la-chimie-lfp-lithium-fer-phosphate-plus-stable-et-moins-chere, maison-autonome-independante, capter-transformer-stocker-energie-naturelle]
+sources:
+  - title: "Installation photovoltaïque autonome"
+    url: "https://fr.wikipedia.org/wiki/Installation_photovolta%C3%AFque_autonome"
+    publisher: "Wikipédia"
+  - title: "Maximum power point tracking"
+    url: "https://en.wikipedia.org/wiki/Maximum_power_point_tracking"
+    publisher: "Wikipedia"
+  - title: "Onduleur"
+    url: "https://fr.wikipedia.org/wiki/Onduleur"
+    publisher: "Wikipédia"
+  - title: "Photovoltaic Geographical Information System (PVGIS)"
+    url: "https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en"
+    publisher: "Commission européenne, Centre commun de recherche"
+quiz:
+  - question: "À quoi sert le régulateur de charge ?"
+    options:
+      - "À charger les batteries correctement à partir des panneaux, sans les surcharger"
+      - "À transformer le courant continu en 230 volts alternatif"
+      - "À orienter les panneaux vers le soleil"
+    answer: 1
+    explanation: >
+      Le régulateur contrôle le courant envoyé aux batteries. Un régulateur MPPT tire en plus le
+      maximum de puissance des panneaux.
+  - question: "Pour quelle saison dimensionne-t-on une installation autonome en France ?"
+    options:
+      - "Pour l'été, quand le soleil est le plus fort"
+      - "Pour l'hiver, quand la production est la plus faible"
+      - "Pour le printemps uniquement"
+    answer: 2
+    explanation: >
+      En décembre, un panneau produit plusieurs fois moins qu'en juillet. Si l'installation tient
+      en hiver, elle tiendra le reste de l'année.
+  - question: "Pourquoi préfère-t-on une tension de batterie de 48 volts plutôt que 12 volts pour une maison ?"
+    options:
+      - "Parce que c'est plus joli"
+      - "Parce que les batteries sont plus légères"
+      - "Parce qu'à puissance égale le courant est quatre fois plus faible, ce qui permet des câbles plus fins et moins de pertes"
+    answer: 3
+    explanation: >
+      La puissance est le produit de la tension par le courant. Monter la tension réduit le
+      courant, donc l'échauffement et la section des câbles.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une installation solaire autonome produit et stocke son électricité sans être reliée au réseau.
+Elle comprend quatre éléments : des **panneaux** qui transforment la lumière en courant continu, un
+**régulateur** qui charge les batteries, des **batteries** qui stockent l'énergie pour la nuit et
+les jours sombres, et un **onduleur** qui fournit du courant alternatif à 230 volts pour les
+appareils ordinaires. La difficulté n'est pas technique, elle est dans le **dimensionnement** :
+produire assez en hiver, sans trop dépenser.
+
+## Les quatre éléments
+
+**Les panneaux photovoltaïques** produisent du courant continu dès qu'ils reçoivent de la lumière.
+Leur puissance est donnée en watts-crête, la puissance sous un ensoleillement idéal. Un panneau
+résidentiel actuel fait souvent 400 à 500 watts-crête. On les oriente plein sud en France, avec
+une inclinaison assez forte, de 50 à 60°, si l'on veut favoriser l'hiver.
+
+**Le régulateur de charge** se place entre les panneaux et les batteries. Il les charge selon le
+bon profil, puis réduit le courant quand elles sont pleines. Les régulateurs **MPPT** cherchent en
+permanence le point de fonctionnement où les panneaux donnent le plus de puissance ; ils
+récupèrent souvent 10 à 30 % d'énergie de plus que les modèles simples dits PWM.
+
+**Les batteries** stockent l'énergie. Les batteries **lithium-fer-phosphate** se sont imposées :
+elles supportent des milliers de cycles et se déchargent profondément. Les batteries au plomb,
+moins chères à l'achat, ne doivent pas descendre souvent sous 50 % de charge.
+
+**L'onduleur** transforme le courant continu des batteries en courant alternatif à 230 volts et
+50 hertz. Il doit produire une **onde sinusoïdale pure** pour les moteurs et l'électronique, et
+supporter les pointes de démarrage d'un réfrigérateur ou d'une pompe. Beaucoup de modèles
+combinent onduleur, régulateur et chargeur pour un groupe électrogène.
+
+```schema
+type: etapes
+titre: Une installation solaire autonome
+elements:
+  - titre: Panneaux
+    texte: Ils produisent du courant continu.
+    icone: sun
+  - titre: Régulateur MPPT
+    texte: Il charge les batteries au mieux, sans les surcharger.
+  - titre: Batteries
+    texte: Elles stockent l'énergie pour la nuit et les jours sombres.
+    icone: battery
+  - titre: Onduleur
+    texte: Il fournit du 230 volts alternatif.
+    icone: bolt
+  - titre: Appareils
+    texte: Lampes, réfrigérateur, pompe, électronique.
+    icone: house
+```
+
+## Dimensionner en cinq étapes
+
+1. **Faire le bilan des besoins** : pour chaque appareil, sa puissance multipliée par sa durée
+   d'usage quotidienne. Une maison économe, sans chauffage électrique, peut se contenter de 2 à
+   5 kWh par jour.
+2. **Réduire d'abord** : lampes LED, réfrigérateur très efficace, cuisson et eau chaude au gaz,
+   au bois ou au solaire thermique. Chaque kilowattheure évité réduit la taille de tout le système.
+3. **Choisir l'autonomie** : combien de jours sans soleil les batteries doivent couvrir, souvent
+   deux à quatre.
+4. **Calculer la production d'hiver** : en décembre, dans le nord de la France, un panneau ne
+   produit en moyenne que l'équivalent d'une heure environ de plein soleil par jour, contre cinq
+   ou six en été. L'outil gratuit PVGIS de la Commission européenne donne ces chiffres pour
+   n'importe quel lieu.
+5. **Prévoir un appoint** : un groupe électrogène, une petite éolienne ou une microcentrale
+   hydraulique pour les semaines grises, plutôt que des panneaux et des batteries surdimensionnés.
+
+```schema
+type: barres
+titre: Production quotidienne d'un panneau, été contre hiver
+legende: Heures équivalentes de plein soleil par jour dans le nord de la France, ordres de grandeur.
+unite: h
+valeurs:
+  - label: Juillet
+    valeur: 5.5
+  - label: Décembre
+    valeur: 1
+```
+
+## Câbler en sécurité
+
+- Une batterie peut débiter un courant énorme en cas de court-circuit : chaque circuit doit être
+  protégé par un **fusible** ou un **disjoncteur** adapté au courant continu.
+- Plus la tension est basse, plus le courant est fort : à 12 volts, 2 400 watts font 200 ampères.
+  Pour une maison, on choisit plutôt **48 volts**, qui divise le courant par quatre.
+- Les câbles doivent être assez gros pour ne pas chauffer, et les connexions bien serrées.
+- Les panneaux, sur le toit, doivent être reliés à la terre et protégés contre la foudre.
+- Le 230 volts produit par l'onduleur est aussi dangereux que celui du réseau : l'installation
+  doit suivre les règles électriques et, idéalement, être vérifiée par un professionnel.
+
+## À retenir
+
+- Une installation autonome associe panneaux, régulateur, batteries et onduleur.
+- Le régulateur MPPT tire le maximum des panneaux et protège les batteries.
+- On dimensionne pour l'hiver, où la production est plusieurs fois plus faible qu'en été.
+- Réduire sa consommation et prévoir un appoint coûte moins cher que surdimensionner.
+- Pour une maison, une tension de 48 volts limite le courant, l'échauffement et les pertes.
+
+---
+type: article
+title: La maison autonome, vivre sans dépendre des réseaux
+slug: maison-autonome-independante
+categoryPath: energie/efficacite-et-sobriete/usages-et-consommation
+summary: >
+  Une maison autonome produit son électricité et sa chaleur, collecte et traite son eau, épure
+  ses eaux usées et nourrit en partie ses habitants. Voici les solutions éprouvées pour chaque
+  besoin, leurs limites et les règles à respecter.
+tags: [usages-et-consommation]
+relatedArticles: [installation-solaire-autonome, recuperer-eau-pluie, rendre-eau-potable, assainissement-autonome-toilettes-seches, isoler-batiment, bois-chauffage, geothermie-chaleur-de-la-terre, biogaz-gaz-sans-gisement]
+sources:
+  - title: "Maison autonome"
+    url: "https://fr.wikipedia.org/wiki/Maison_autonome"
+    publisher: "Wikipédia"
+  - title: "Autonomous building"
+    url: "https://en.wikipedia.org/wiki/Autonomous_building"
+    publisher: "Wikipedia"
+  - title: "Maison passive"
+    url: "https://fr.wikipedia.org/wiki/Maison_passive"
+    publisher: "Wikipédia"
+  - title: "Déclarer un projet de puits ou de forage domestique"
+    url: "https://www.justice.fr/fiche/declarer-projet-puits-forage-domestique"
+    publisher: "Justice.fr, fiche Service-public.fr"
+quiz:
+  - question: "Quelle est la première étape pour rendre une maison autonome en énergie ?"
+    options:
+      - "Réduire fortement ses besoins, par l'isolation et des appareils économes"
+      - "Acheter le plus de panneaux possible"
+      - "Installer une grande éolienne"
+    answer: 1
+    explanation: >
+      Chaque kilowattheure qu'on n'a pas besoin de produire réduit la taille et le coût des
+      panneaux, des batteries et du chauffage.
+  - question: "Que faut-il faire en France avant d'utiliser un puits ou un forage pour sa maison ?"
+    options:
+      - "Rien du tout"
+      - "Le déclarer en mairie"
+      - "Demander l'accord des voisins"
+    answer: 2
+    explanation: >
+      Un puits ou un forage à usage domestique doit être déclaré en mairie. Si l'eau sert à la
+      consommation humaine, elle doit être analysée.
+  - question: "Pourquoi l'eau de pluie ne se boit-elle pas telle quelle ?"
+    options:
+      - "Parce qu'elle est salée"
+      - "Parce qu'elle est trop froide"
+      - "Parce qu'elle peut contenir des microbes et des polluants venus du toit et de l'air"
+    answer: 3
+    explanation: >
+      Fientes d'oiseaux, poussières et dépôts du toit peuvent la contaminer. La boire suppose une
+      filtration et une désinfection, et des analyses régulières.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une maison autonome fonctionne sans être raccordée aux réseaux d'électricité, d'eau,
+d'assainissement ou de gaz. Elle produit son énergie, collecte et traite son eau, épure ses eaux
+usées sur place et, souvent, produit une partie de la nourriture de ses habitants. Toutes ces
+techniques existent et ont fait leurs preuves. La clé est toujours la même : **réduire d'abord les
+besoins**, puis combiner plusieurs sources, et garder un appoint pour les périodes difficiles.
+
+## Réduire avant de produire
+
+Une maison mal isolée demande beaucoup d'énergie en hiver, précisément quand le soleil est rare.
+L'autonomie commence donc par le bâtiment :
+
+- une **isolation** épaisse des murs, du toit et des sols, et des fenêtres performantes ;
+- une **orientation** des grandes vitres au sud, protégées du soleil d'été par un avant-toit ;
+- une maison **étanche à l'air** avec une ventilation qui récupère la chaleur de l'air sortant ;
+- des appareils très économes.
+
+Une maison dite passive peut ainsi diviser ses besoins de chauffage par dix par rapport à une
+maison ancienne.
+
+## L'électricité
+
+La solution la plus courante est une **installation solaire autonome** : panneaux, régulateur,
+batteries et onduleur. Selon le site, on la complète par une petite **éolienne**, plus productive
+en hiver, ou une **microcentrale** si un ruisseau coule toute l'année. Un **groupe électrogène**
+sert d'appoint lors des longues périodes grises. Les gros consommateurs, chauffage électrique,
+plaques, sèche-linge, sont remplacés par d'autres solutions.
+
+## La chaleur
+
+- **Le bois** : un poêle performant, ou un poêle de masse qui stocke la chaleur dans la pierre,
+  alimenté par une forêt gérée.
+- **Le solaire thermique** : des capteurs chauffent l'eau sanitaire, et une partie du chauffage au
+  printemps et en automne.
+- **La géothermie** avec une pompe à chaleur, si l'électricité disponible le permet.
+- **La cuisson** au bois, au gaz en bouteille ou au biogaz, au four solaire l'été.
+
+```schema
+type: systeme
+titre: Les besoins d'une maison autonome
+centre: Maison autonome
+icone: house
+parties:
+  - nom: Réduire d'abord
+    role: Isolation, orientation, étanchéité, appareils économes.
+  - nom: Électricité
+    role: Solaire et batteries, éolien ou microcentrale, groupe d'appoint.
+    icone: bolt
+  - nom: Chaleur
+    role: Bois, solaire thermique, géothermie.
+    icone: fire
+  - nom: Eau
+    role: Pluie, puits déclaré, filtration et désinfection.
+    icone: droplet
+  - nom: Eaux usées
+    role: Assainissement non collectif contrôlé par la commune.
+  - nom: Nourriture
+    role: Potager, fruitiers, conservation.
+    icone: wheat
+```
+
+## L'eau
+
+- **L'eau de pluie** est recueillie sur le toit, filtrée et stockée dans une cuve enterrée, à
+  l'abri de la lumière. Un toit de 100 m² reçoit environ 70 m³ par an là où il tombe 700 mm de
+  pluie. Elle sert facilement aux toilettes, au lavage et au jardin.
+- **Un puits ou un forage** donne une eau souterraine plus régulière. En France, il doit être
+  **déclaré en mairie**, et son eau analysée si elle est destinée à la boisson.
+- **L'eau potable** demande une filtration fine puis une désinfection, par exemple par lampe
+  ultraviolette ou filtre céramique, et des analyses régulières. La réglementation française
+  encadre strictement l'usage de l'eau de pluie à l'intérieur des logements.
+
+## Les eaux usées
+
+Sans tout-à-l'égout, une maison doit disposer d'un **assainissement non collectif** : fosse et
+épandage, micro-station, filtre planté de roseaux ou toilettes sèches. Il est contrôlé par le
+service public d'assainissement non collectif de la commune.
+
+## La nourriture
+
+Un potager bien conduit, quelques arbres fruitiers, éventuellement des poules, et des techniques
+de conservation, séchage, fermentation, conserves, couvrent une part importante des besoins en
+légumes et en fruits. L'autonomie alimentaire complète demande beaucoup de surface et de travail.
+
+## Les limites
+
+- **Le coût** : batteries, cuves, forage et épuration représentent un investissement élevé, à
+  renouveler en partie au bout de dix à vingt ans.
+- **L'entretien** : l'habitant devient son propre fournisseur d'électricité et d'eau, et doit
+  surveiller, réparer et anticiper.
+- **Les règles** : urbanisme, déclaration des puits, normes d'assainissement et d'électricité
+  s'appliquent.
+- **L'isolement** : une maison peut être autonome en énergie et en eau tout en restant dépendante
+  des routes, des pièces de rechange et des soins.
+
+## À retenir
+
+- Une maison autonome commence par une forte réduction de ses besoins grâce à l'isolation.
+- L'électricité vient souvent du solaire avec batteries, complété par l'éolien, l'hydraulique ou un groupe électrogène.
+- La chaleur vient du bois, du solaire thermique ou de la géothermie.
+- L'eau de pluie et les puits fournissent l'eau, qui doit être traitée pour être bue.
+- Les eaux usées sont épurées sur place, sous le contrôle de la commune.
+

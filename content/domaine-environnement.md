@@ -228,6 +228,19 @@ en renvoient une partie vers le sol.
 
 Résultat : la surface est plus chaude qu'elle ne le serait sans atmosphère.
 
+```schema
+type: etapes
+titre: L'effet de serre
+legende: Sans effet de serre naturel, la Terre serait à environ -18 °C.
+elements:
+  - titre: Le Soleil chauffe le sol
+    icone: sun
+  - titre: Le sol émet de l'infrarouge
+  - titre: Les gaz à effet de serre en retiennent une partie
+  - titre: La surface se réchauffe
+    icone: thermometer
+```
+
 ## Ce n'est pas un problème en soi
 
 Point important : l'effet de serre naturel est indispensable.
@@ -269,8 +282,17 @@ d'air piégées livrent la composition de l'atmosphère sur des centaines de mil
 - Le CO2 persiste des siècles, le méthane une douzaine d'années.
 - Les mesures continues remontent à 1958, les carottes de glace bien plus loin.
 
-[Emplacement image : courbe de la concentration de CO2 depuis 1958, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: barres
+titre: Concentration de CO2 dans l'air
+unite: ppm
+valeurs:
+  - label: Avant l'industrialisation
+    valeur: 280
+    note: environ
+  - label: Moyenne 2024
+    valeur: 422.8
+```
 
 ---
 
@@ -379,8 +401,17 @@ Ce ne sont pas des effets proportionnels. Certains basculent.
 - Le budget restant pour 1,5 degré représente quelques années d'émissions actuelles.
 - Un demi-degré de plus change qualitativement les risques, pas seulement quantitativement.
 
-[Emplacement image : trajectoires d'émissions et réchauffement associé selon les scénarios,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères du budget carbone
+chiffres:
+  - valeur: 1,1 °C
+    texte: de réchauffement environ
+  - valeur: Le cumul
+    texte: la température dépend du total émis, pas du rythme
+  - valeur: Quelques années
+    texte: d'émissions actuelles pour épuiser le budget de 1,5 °C
+```
 
 ---
 
@@ -486,8 +517,19 @@ terme, l'atténuation évite d'atteindre des situations auxquelles on ne peut pl
 - Les îlots de chaleur urbains se traitent par végétalisation et désimperméabilisation.
 - L'adaptation a des limites absolues, physiques et territoriales.
 
-[Emplacement image : îlot de chaleur urbain et effet de la végétation, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Atténuer et s'adapter
+colonnes:
+  - titre: Atténuation
+    points:
+      - Réduire les émissions
+      - Limiter le réchauffement futur
+  - titre: Adaptation
+    points:
+      - Se préparer à ce qui est déjà engagé
+      - Végétaliser, désimperméabiliser les villes
+```
 
 ---
 
@@ -599,8 +641,17 @@ La liste rouge sert aussi à cela : mesurer les améliorations, pas seulement le
 - La destruction des habitats est la première cause de déclin.
 - Des programmes de conservation obtiennent des résultats mesurables.
 
-[Emplacement image : catégories de la liste rouge et répartition des espèces évaluées, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: La liste rouge de l'UICN
+unite: espèces
+valeurs:
+  - label: Évaluées
+    valeur: 172620
+  - label: Menacées
+    valeur: 48646
+    note: environ 28 %
+```
 
 ---
 
@@ -702,8 +753,21 @@ Le chiffrage est donc un outil de décision, pas une mise en vente.
 - Protéger un bassin versant coûte souvent moins cher que traiter l'eau.
 - Le chiffrage rend visible, il ne rend pas substituable.
 
-[Emplacement image : principaux services rendus par les écosystèmes, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les quatre familles de services écosystémiques
+centre: Nature
+icone: leaf
+parties:
+  - nom: Approvisionnement
+    role: Nourriture, eau, bois.
+  - nom: Régulation
+    role: Pollinisation, climat, crues.
+  - nom: Culture
+    role: Loisirs, paysages.
+  - nom: Support
+    role: Sols, cycles des éléments.
+```
 
 ---
 
@@ -812,8 +876,18 @@ systèmes naturels : leur réponse n'est pas toujours progressive.
 - L'agriculture est la première cause de déforestation tropicale.
 - Une forêt tropicale fabrique sa propre pluie, d'où un risque de bascule.
 
-[Emplacement image : stock et flux de carbone selon l'âge d'une forêt, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Stocker ou absorber du carbone
+colonnes:
+  - titre: Vieille forêt
+    icone: tree
+    points:
+      - Stocke beaucoup de carbone
+  - titre: Jeune forêt
+    points:
+      - Absorbe beaucoup de carbone
+```
 
 ---
 
@@ -917,8 +991,21 @@ besoin.
 - Une eau plus chaude contient moins d'oxygène et se dilate.
 - La capacité d'absorption de l'océan diminue à mesure qu'il se charge.
 
-[Emplacement image : mécanismes d'absorption du carbone par l'océan, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'océan régulateur du climat
+centre: Océan
+icone: wave
+parties:
+  - nom: Chaleur
+    role: Il a absorbé la majeure partie de la chaleur supplémentaire.
+  - nom: CO2
+    role: Environ un quart du CO2 émis.
+  - nom: Acidification
+    role: Elle gêne coquilles et coraux.
+  - nom: Limite
+    role: Une eau plus chaude contient moins de gaz.
+```
 
 ---
 
@@ -1031,8 +1118,15 @@ les solutions.
 - Les particules les plus fines passent dans le sang.
 - La pollution intérieure liée à la cuisson est une cause majeure et sous-estimée.
 
-[Emplacement image : taille des particules et profondeur de pénétration dans l'appareil
-respiratoire, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: La pollution de l'air dans le monde
+chiffres:
+  - valeur: 4,2 millions
+    texte: de décès prématurés par an liés à l'air ambiant
+  - valeur: 99 %
+    texte: de l'humanité respire un air au-dessus des seuils recommandés
+```
 
 ---
 
@@ -1136,8 +1230,18 @@ calendrier de la ressource pour des centaines de millions de personnes.
 - Une nappe surexploitée baisse, se salinise parfois, et met longtemps à se reconstituer.
 - Le climat redistribue la ressource plus qu'il ne la réduit globalement.
 
-[Emplacement image : répartition de l'eau sur Terre et part accessible, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: barres
+titre: Qui prélève l'eau douce dans le monde
+unite: "%"
+valeurs:
+  - label: Agriculture
+    valeur: 70
+    note: environ
+  - label: Industrie et usages domestiques
+    valeur: 30
+    note: environ
+```
 
 ---
 
@@ -1246,8 +1350,16 @@ des pièces détachées, indices de réparabilité, restrictions sur certains em
 - Le plastique se dégrade à chaque cycle et se décline en familles incompatibles.
 - La recyclabilité se décide à la conception, pas au moment du tri.
 
-[Emplacement image : hiérarchie de gestion des déchets, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: pyramide
+titre: La hiérarchie des déchets
+niveaux:
+  - titre: Réduire
+  - titre: Réutiliser
+  - titre: Recycler
+  - titre: Valoriser
+  - titre: Éliminer
+```
 
 ---
 
@@ -1563,16 +1675,155 @@ title: Se protéger des inondations
 slug: proteger-inondations
 categoryPath: environnement-et-climat/changement-climatique/impacts-et-adaptation
 summary: >
-  Digues, zones d'expansion des crues, habitat adapté : les techniques pour vivre avec l'eau.
-tags: [impacts-et-adaptation, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Les inondations sont le premier risque naturel en France. Laisser de la place à l'eau, adapter les
+  maisons et connaître les bons gestes sauvent des vies et limitent les dégâts. Trente centimètres
+  d'eau suffisent à emporter une voiture.
+tags: [impacts-et-adaptation]
+relatedArticles: [haies-bocage, kit-urgence-72-heures, la-radio-comme-outil-d-alerte-en-cas-de-catastrophe, regle-des-trois-priorites-survie]
+sources:
+  - title: "Inondation"
+    url: "https://fr.wikipedia.org/wiki/Inondation"
+    publisher: "Wikipédia"
+  - title: "Vigicrues"
+    url: "https://www.vigicrues.gouv.fr/"
+    publisher: "Ministère de la Transition écologique"
+  - title: "Plan de prévention des risques naturels"
+    url: "https://fr.wikipedia.org/wiki/Plan_de_pr%C3%A9vention_des_risques_naturels"
+    publisher: "Wikipédia"
+  - title: "Flood control"
+    url: "https://en.wikipedia.org/wiki/Flood_control"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien d'eau suffit-il pour emporter une voiture ?"
+    options:
+      - "Environ 30 centimètres"
+      - "Au moins 2 mètres"
+      - "Une voiture ne peut pas être emportée"
+    answer: 1
+    explanation: >
+      Une voiture flotte vite et devient incontrôlable. La plupart des victimes des inondations
+      meurent dans leur véhicule ou en traversant une zone inondée.
+  - question: "À quoi sert une zone d'expansion des crues ?"
+    options:
+      - "À construire des maisons"
+      - "À laisser l'eau s'étaler sur des prés ou des champs pour protéger les villes en aval"
+      - "À produire de l'électricité"
+    answer: 2
+    explanation: >
+      Une rivière qui peut déborder là où les dégâts sont faibles monte moins haut là où vivent les
+      habitants.
+  - question: "Que faire chez soi quand l'eau monte ?"
+    options:
+      - "Descendre à la cave pour sauver les affaires"
+      - "Prendre la voiture pour fuir à travers la zone inondée"
+      - "Couper l'électricité et le gaz, monter à l'étage et écouter les consignes"
+    answer: 3
+    explanation: >
+      La cave et le parking souterrain sont des pièges mortels. On se réfugie en hauteur et l'on
+      suit les consignes des autorités.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Les **inondations** sont le risque naturel le plus répandu en France : selon le ministère de la
+Transition écologique, environ 17 millions d'habitants sont exposés aux débordements de cours d'eau. Elles naissent du débordement d'une rivière, du **ruissellement** d'orages violents, de la
+remontée d'une nappe souterraine ou d'une **submersion marine** lors d'une tempête. On ne peut pas les
+empêcher toutes, mais on peut réduire leurs conséquences : **laisser de la place à l'eau**, **adapter**
+les constructions, **surveiller** les alertes et connaître les **bons gestes**. La plupart des victimes
+meurent en voiture ou en traversant une zone inondée.
+
+## Les différents types d'inondation
+
+- **La crue lente** d'un grand fleuve, comme la Seine en 1910 ou en 2016, qui monte en plusieurs jours.
+- **La crue rapide**, ou torrentielle, dans les petites vallées après un orage, qui monte en quelques
+  heures, comme les épisodes cévenols du sud de la France.
+- **Le ruissellement** : la pluie ne s'infiltre plus dans des sols imperméabilisés ou saturés et dévale
+  les rues.
+- **La remontée de nappe**, qui inonde caves et sous-sols pendant des semaines.
+- **La submersion marine**, quand une tempête pousse la mer sur les côtes basses, comme lors de la
+  tempête Xynthia en 2010.
+
+## Laisser de la place à l'eau
+
+Les digues protègent, mais elles peuvent céder et donnent une fausse impression de sécurité. Les
+approches modernes combinent :
+
+- des **zones d'expansion des crues** : prés, champs ou forêts où la rivière peut déborder sans grands
+  dégâts, ce qui abaisse le niveau en aval ;
+- la **restauration des zones humides** et des méandres, qui ralentissent l'eau ;
+- des **haies, talus et sols vivants** sur les bassins versants, qui retiennent la pluie ;
+- la **désimperméabilisation** des villes : noues, jardins de pluie, parkings perméables.
+
+## Adapter les bâtiments
+
+Dans les zones inondables, définies par les **plans de prévention des risques**, on adapte les
+constructions :
+
+- planchers surélevés, maisons sur pilotis ou sur vide sanitaire ;
+- **zone refuge** à l'étage, accessible depuis l'extérieur pour les secours ;
+- tableau électrique, chaudière et appareils placés en hauteur ;
+- **batardeaux**, des panneaux amovibles qui ferment portes et soupiraux ;
+- **clapets anti-retour** sur les évacuations, pour que l'égout ne remonte pas dans la maison ;
+- matériaux qui supportent l'eau au rez-de-chaussée : carrelage, enduits à la chaux.
+
+```schema
+type: chiffres
+titre: Les repères à connaître
+chiffres:
+  - valeur: 30 cm
+    texte: d'eau suffisent à emporter une voiture
+  - valeur: 17 millions
+    texte: d'habitants exposés aux débordements de cours d'eau en France
+```
+
+## Surveiller et être alerté
+
+En France, le site **Vigicrues** indique en temps réel le niveau de vigilance des cours d'eau, et
+Météo-France émet des vigilances pluie-inondation. Les alertes passent aussi par **FR-Alert** sur les
+téléphones, la radio et les sirènes. Il faut connaître les risques de sa commune, indiqués dans son
+document d'information communal.
+
+## Les bons gestes
+
+**Avant** : préparer un kit d'urgence, mettre en hauteur papiers et objets de valeur, connaître son
+point haut et son itinéraire d'évacuation.
+
+**Pendant** :
+
+- **Ne jamais prendre la voiture** dans une zone inondée : **30 centimètres d'eau** suffisent à emporter
+  un véhicule.
+- Ne pas traverser à pied une eau qui coule : même peu profonde, elle renverse un adulte et cache des
+  bouches d'égout ouvertes.
+- **Ne pas descendre** à la cave ou au parking souterrain.
+- **Couper l'électricité et le gaz**, monter à l'étage, emporter son kit.
+- Ne pas aller chercher les enfants à l'école : l'établissement s'en occupe.
+- Écouter la radio et suivre les consignes.
+
+**Après** : aérer, désinfecter, ne pas rétablir le courant avant vérification, photographier les dégâts
+pour l'assurance et ne pas boire l'eau du robinet avant l'accord des autorités.
+
+```schema
+type: etapes
+titre: Quand l'eau monte
+elements:
+  - titre: Ne pas prendre la voiture
+  - titre: Ne pas descendre à la cave
+  - titre: Couper électricité et gaz
+  - titre: Monter à l'étage
+    texte: Avec son kit d'urgence.
+  - titre: Écouter la radio
+    texte: Et suivre les consignes.
+```
+
+## À retenir
+
+- Les inondations sont le premier risque naturel en France.
+- Zones d'expansion des crues, zones humides et sols vivants laissent de la place à l'eau.
+- Les maisons en zone inondable s'adaptent : équipements en hauteur, batardeaux, clapets, zone refuge.
+- Trente centimètres d'eau suffisent à emporter une voiture : on ne roule jamais dans une zone inondée.
+- Quand l'eau monte, on coupe électricité et gaz, on monte à l'étage et l'on suit les consignes.
 
 ---
 type: article
@@ -1784,16 +2035,146 @@ title: Les haies et le bocage
 slug: haies-bocage
 categoryPath: environnement-et-climat/biodiversite/ecosystemes
 summary: >
-  Brise-vent, refuges pour la faune, régulation de l'eau : les services rendus par les haies aux cultures.
-tags: [ecosystemes, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une haie protège les cultures du vent, freine le ruissellement, abrite les animaux qui
+  mangent les ravageurs et fournit du bois. En France, environ 70 % des haies ont disparu depuis
+  1950 ; on cherche aujourd'hui à en replanter.
+tags: [ecosystemes]
+relatedArticles: [gerer-durablement-foret, biogaz-gaz-sans-gisement, greffage]
+sources:
+  - title: "Bocage"
+    url: "https://fr.wikipedia.org/wiki/Bocage"
+    publisher: "Wikipédia"
+  - title: "Haie"
+    url: "https://fr.wikipedia.org/wiki/Haie"
+    publisher: "Wikipédia"
+  - title: "Windbreak"
+    url: "https://en.wikipedia.org/wiki/Windbreak"
+    publisher: "Wikipedia"
+  - title: "Hedge"
+    url: "https://en.wikipedia.org/wiki/Hedge"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Sur quelle distance une haie freine-t-elle nettement le vent derrière elle ?"
+    options:
+      - "Sur environ dix à quinze fois sa hauteur"
+      - "Sur un mètre seulement"
+      - "Sur plusieurs kilomètres"
+    answer: 1
+    explanation: >
+      Une haie de 5 mètres réduit le vent sur plusieurs dizaines de mètres derrière elle, ce qui
+      protège les cultures et les animaux.
+  - question: "Comment une haie aide-t-elle à lutter contre les ravageurs des cultures ?"
+    options:
+      - "Elle produit un insecticide"
+      - "Elle abrite des oiseaux et des insectes qui mangent les ravageurs"
+      - "Elle cache les cultures"
+    answer: 2
+    explanation: >
+      Mésanges, chauves-souris, coccinelles et syrphes vivent dans les haies et se nourrissent
+      de pucerons, de chenilles et d'autres ravageurs.
+  - question: "Pourquoi de nombreuses haies ont-elles été arrachées en France après 1950 ?"
+    options:
+      - "Parce qu'elles étaient malades"
+      - "Parce qu'elles attiraient la foudre"
+      - "Pour agrandir les parcelles et faciliter le passage des machines"
+    answer: 3
+    explanation: >
+      Le remembrement a regroupé les petites parcelles en grands champs, plus faciles à
+      travailler avec les tracteurs, au prix de la disparition de nombreuses haies.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une haie est une rangée d'arbres et d'arbustes qui borde un champ. Un **bocage** est un paysage
+où les champs et les prés sont entourés de haies, souvent plantées sur des talus, comme en
+Bretagne ou en Normandie. Ces haies rendent de nombreux services : elles coupent le vent,
+retiennent l'eau et la terre, abritent les animaux utiles et fournissent du bois. En France,
+environ 70 % des haies ont disparu depuis 1950.
+
+## Un brise-vent naturel
+
+Le vent dessèche les sols et les plantes, couche les céréales et refroidit le bétail. Une haie
+le ralentit sur une distance d'environ dix à quinze fois sa hauteur : une haie de 5 mètres
+protège une bande de 50 à 75 mètres. Une haie un peu perméable fonctionne mieux qu'un mur plein,
+qui crée des tourbillons derrière lui.
+
+À l'abri, le sol garde son humidité plus longtemps, les cultures souffrent moins du vent et les
+animaux trouvent de l'ombre l'été et un abri l'hiver.
+
+```schema
+type: systeme
+titre: Les services rendus par une haie
+centre: La haie
+icone: tree
+parties:
+  - nom: Brise-vent
+    role: Elle freine le vent sur environ dix à quinze fois sa hauteur.
+  - nom: Eau et sol
+    role: Elle freine le ruissellement et retient la terre fertile.
+  - nom: Biodiversité
+    role: Oiseaux, chauves-souris et coccinelles y vivent et mangent les ravageurs.
+  - nom: Bois et fruits
+    role: Bois de chauffage, plaquettes, noisettes, mûres.
+  - nom: Carbone
+    role: Elle stocke du carbone dans son bois et dans le sol.
+```
+
+## L'eau et la terre retenues
+
+Quand il pleut fort sur un champ nu en pente, l'eau ruisselle et emporte la terre fertile. Une
+haie plantée en travers de la pente, surtout sur un talus, freine ce ruissellement. Ses racines
+ouvrent des chemins dans le sol, où l'eau s'infiltre au lieu de dévaler. La terre reste dans le
+champ, les rivières reçoivent moins de boue et les crues sont atténuées. Les racines profondes
+retiennent aussi une partie des engrais qui, sinon, iraient polluer les eaux.
+
+## Un refuge pour les alliés des cultures
+
+Une haie variée, avec des arbres, des arbustes, des ronces et des herbes au pied, est un habitat
+complet. Elle offre des fleurs au printemps, des fruits en automne et des abris en hiver.
+
+- Les **oiseaux**, comme les mésanges, mangent des chenilles et des insectes.
+- Les **chauves-souris** chassent les papillons de nuit.
+- Les **coccinelles** et les larves de syrphes dévorent les pucerons.
+- Les **abeilles** et autres pollinisateurs y trouvent du pollen quand les cultures ne fleurissent pas.
+
+Les haies relient aussi les bois entre eux : elles forment des couloirs où les animaux circulent.
+
+## Le bois et les produits de la haie
+
+Une haie se taille et se récolte. Autrefois, on coupait régulièrement les branches pour le bois
+de chauffage, les piquets et les outils, et l'on récoltait noisettes, mûres, prunelles ou
+pommes. Aujourd'hui, le bois de haie peut être broyé en plaquettes pour les chaudières. En
+poussant, la haie stocke aussi du carbone dans son bois et dans le sol.
+
+## Une disparition, puis une replantation
+
+Après la Seconde Guerre mondiale, l'agriculture se mécanise. Pour regrouper les petites
+parcelles en grands champs adaptés aux tracteurs, le **remembrement** fait arracher de très
+nombreuses haies. En France, on estime qu'environ 70 % des haies bocagères ont disparu depuis
+1950. Les effets se font sentir : érosion, coulées de boue, baisse de la biodiversité.
+
+Depuis plusieurs décennies, des agriculteurs, des collectivités et des associations replantent
+des haies, et les pouvoirs publics financent leur plantation et leur entretien.
+
+## Planter une haie
+
+- Choisir des **essences locales et variées**, adaptées au sol et au climat, plutôt qu'une seule
+  espèce.
+- Mélanger plusieurs étages : grands arbres, arbustes et buissons.
+- Planter en automne ou en hiver, hors gel, et protéger les jeunes plants du bétail et des
+  rongeurs.
+- Pailler le pied pour limiter la concurrence de l'herbe les premières années.
+- Tailler hors de la période de nidification des oiseaux, en général au printemps et en été.
+
+## À retenir
+
+- Le bocage est un paysage de champs entourés de haies, souvent sur des talus.
+- Une haie freine le vent sur environ dix à quinze fois sa hauteur.
+- Elle retient l'eau et la terre, limite l'érosion et les crues.
+- Elle abrite des oiseaux, des insectes et des chauves-souris qui mangent les ravageurs.
+- En France, environ 70 % des haies ont disparu depuis 1950, surtout à cause du remembrement.
 
 ---
 type: article
@@ -1903,16 +2284,147 @@ title: Gérer durablement une forêt
 slug: gerer-durablement-foret
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Coupes, régénération, diversité des essences : produire du bois sans épuiser la forêt.
-tags: [forets-et-oceans, essentiel-reconstruction]
-priority: 1
-essentiel: true
-status: planned
+  Une forêt peut fournir du bois pendant des siècles si l'on ne prélève pas plus que ce qui
+  repousse, si on assure sa régénération et si on préserve sa diversité. Ce principe, formulé dès
+  1713, est à l'origine du mot durable.
+tags: [forets-et-oceans]
+relatedArticles: [haies-bocage, charbon-bois]
+sources:
+  - title: "Gestion durable des forêts"
+    url: "https://fr.wikipedia.org/wiki/Gestion_durable_des_for%C3%AAts"
+    publisher: "Wikipédia"
+  - title: "Sylviculture"
+    url: "https://fr.wikipedia.org/wiki/Sylviculture"
+    publisher: "Wikipédia"
+  - title: "Hans Carl von Carlowitz"
+    url: "https://fr.wikipedia.org/wiki/Hans_Carl_von_Carlowitz"
+    publisher: "Wikipédia"
+  - title: "Sustainable forest management"
+    url: "https://en.wikipedia.org/wiki/Sustainable_forest_management"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la règle de base d'une gestion durable de la forêt ?"
+    options:
+      - "Ne pas couper plus de bois qu'il n'en repousse"
+      - "Couper tous les arbres en même temps"
+      - "Ne jamais couper d'arbre"
+    answer: 1
+    explanation: >
+      Si l'on prélève chaque année moins que l'accroissement naturel, la forêt garde son
+      capital de bois et peut produire indéfiniment.
+  - question: "Pourquoi mélanger plusieurs essences d'arbres ?"
+    options:
+      - "Pour que la forêt soit plus jolie"
+      - "Pour qu'une maladie ou une sécheresse ne détruise pas toute la forêt"
+      - "Parce qu'une seule essence ne pousse pas"
+    answer: 2
+    explanation: >
+      Un parasite ou une sécheresse touche souvent une essence en particulier. Une forêt mélangée
+      résiste mieux et se reconstitue plus vite.
+  - question: "Qui a formulé dès 1713 l'idée de gestion durable de la forêt ?"
+    options:
+      - "Louis Pasteur"
+      - "Isaac Newton"
+      - "Hans Carl von Carlowitz"
+    answer: 3
+    explanation: >
+      Ce responsable des mines de Saxe, inquiet du manque de bois, a défendu une exploitation
+      qui laisse repousser autant qu'on coupe.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
 
----
+Une forêt est une réserve de bois qui se renouvelle. Si l'on coupe chaque année moins de bois
+qu'il n'en pousse, si l'on veille à ce que de jeunes arbres remplacent ceux qu'on abat et si l'on
+préserve la diversité des espèces, elle peut produire pendant des siècles. C'est la **gestion
+durable**. Le mot vient d'ailleurs de la forêt : il a été employé dès 1713 pour décrire cette
+façon de faire.
+
+## Une idée née d'une pénurie de bois
+
+Aux XVIIe et XVIIIe siècles, le bois sert à tout : chauffage, construction, navires, forges et
+fonderies, qui consomment d'énormes quantités de charbon de bois. Dans plusieurs régions
+d'Europe, les forêts reculent dangereusement.
+
+En France, l'ordonnance de Colbert sur les eaux et forêts, en 1669, organise la protection des
+forêts royales pour fournir à long terme le bois de la marine. En Saxe, en 1713, Hans Carl von
+Carlowitz, responsable des mines, publie un traité de sylviculture. Il y défend une exploitation
+qui laisse repousser autant qu'on coupe, et emploie le mot allemand qui deviendra notre
+« durable ».
+
+## Ne pas couper plus que ce qui pousse
+
+Chaque année, les arbres d'une forêt grossissent : c'est l'**accroissement**, mesuré en mètres
+cubes de bois par hectare. Une forêt bien gérée fonctionne comme un capital placé : on récolte
+les intérêts, c'est-à-dire une partie de l'accroissement, sans entamer le capital.
+
+Pour cela, le forestier fait l'inventaire de ses arbres, mesure leur croissance et établit un
+**plan de gestion** sur dix à vingt ans, qui indique quelles parcelles seront coupées et quand.
+
+## Assurer la relève
+
+Couper un arbre n'a de sens que si un autre le remplace. Deux voies existent :
+
+- la **régénération naturelle** : on laisse les graines des arbres en place germer, et l'on
+  aide les meilleurs semis en dégageant la lumière ;
+- la **plantation**, quand la régénération naturelle est insuffisante.
+
+Les forestiers pratiquent aussi des **éclaircies** : ils coupent une partie des jeunes arbres pour
+laisser plus de lumière et d'eau aux autres, qui grossissent plus vite et plus droit.
+
+```schema
+type: cycle
+titre: Le cycle d'une forêt gérée durablement
+elements:
+  - titre: Inventaire
+    texte: On mesure les arbres et leur croissance.
+  - titre: Plan de gestion
+    texte: Il prévoit les coupes sur dix à vingt ans.
+  - titre: Éclaircies
+    texte: On laisse plus de lumière aux meilleurs arbres.
+  - titre: Récolte
+    texte: On ne prélève pas plus que l'accroissement.
+  - titre: Régénération
+    texte: Semis naturels ou plantation remplacent les arbres coupés.
+    icone: leaf
+```
+
+## Plusieurs façons de cultiver la forêt
+
+- La **futaie** : des arbres issus de graines, qu'on laisse vieillir longtemps pour produire du
+  bois d'œuvre. Dans une futaie régulière, les arbres ont le même âge ; dans une futaie
+  irrégulière, tous les âges sont mêlés, et l'on récolte arbre par arbre.
+- Le **taillis** : on coupe les arbres près du sol tous les quinze à trente ans, et ils repartent
+  en plusieurs rejets depuis la souche ; c'est une source rapide de bois de chauffage.
+- Le **taillis sous futaie** combine les deux.
+
+## Préserver la diversité
+
+Une forêt d'une seule essence est fragile : un insecte, une maladie, une tempête ou une sécheresse
+peut la détruire en entier. Une forêt mélangée, avec plusieurs essences et plusieurs âges,
+résiste mieux et se reconstitue plus vite. Avec le réchauffement climatique, les forestiers
+introduisent aussi des essences mieux adaptées à la chaleur et au manque d'eau.
+
+Une forêt durable n'est pas qu'une usine à bois. On y laisse des arbres morts ou creux, où
+nichent des pics, des chouettes et des chauves-souris, et du bois au sol, qui nourrit insectes et
+champignons. Les sols doivent être protégés : de gros engins circulant partout les tassent pour
+des décennies. On préserve aussi les berges des ruisseaux et les zones humides.
+
+## Contrôler la gestion
+
+Depuis les années 1990, des labels comme FSC et PEFC certifient que le bois provient de forêts
+gérées selon des règles de durabilité. Ils permettent aux acheteurs de choisir un bois dont la
+récolte n'a pas appauvri la forêt.
+
+## À retenir
+
+- Une forêt est gérée durablement si l'on ne prélève pas plus que son accroissement.
+- Chaque arbre coupé doit être remplacé, par régénération naturelle ou plantation.
+- Les éclaircies et un plan de gestion sur plusieurs années organisent la récolte.
+- Une forêt mélangée résiste mieux aux maladies, aux tempêtes et aux sécheresses.
+- Le mot durable est apparu en 1713, à propos de la forêt.
 
 ---
 type: article
@@ -2193,8 +2705,17 @@ et nécessite de stocker un produit chimique.
 - Le filtre à sable lent imite le sol et ne consomme ni électricité ni produit chimique.
 - Le chlore et l'iode désinfectent en une trentaine de minutes une eau déjà claire.
 
-[Emplacement image : les quatre méthodes de potabilisation de l'eau schématisées côte à côte,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Rendre l'eau potable
+elements:
+  - titre: Clarifier
+    texte: Une eau trouble protège les microbes.
+  - titre: Désinfecter
+    texte: Bouillir une à trois minutes, soleil, filtre lent ou produit chimique.
+    icone: droplet
+  - titre: Conserver proprement
+```
 
 ---
 
@@ -2285,8 +2806,18 @@ consommant tout l'oxygène disponible.
 - Sans traitement, l'eau rejetée étoufferait la vie aquatique en épuisant l'oxygène de la
   rivière.
 
-[Emplacement image : schéma des trois étapes d'une station d'épuration, du bassin de
-décantation au rejet en rivière, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Les trois traitements des eaux usées
+elements:
+  - titre: Primaire
+    texte: Les solides se déposent par gravité.
+  - titre: Secondaire
+    texte: Des bactéries digèrent la matière organique.
+    icone: microscope
+  - titre: Tertiaire
+    texte: La finition, quand elle existe.
+```
 
 ---
 
@@ -2394,9 +2925,18 @@ d'algues, et être nettoyée régulièrement.
 - Rendre cette eau potable demande une filtration fine puis une désinfection.
 - Une cuve à l'abri de la lumière limite le développement d'algues.
 
-[Emplacement image : schéma d'un système de récupération d'eau de pluie avec gouttière,
-dispositif de première chasse et cuve de stockage, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: etapes
+titre: Récupérer l'eau de pluie
+elements:
+  - titre: Surface de collecte
+    icone: house
+  - titre: Détourner les premières minutes
+    texte: Les plus sales.
+  - titre: Filtrer
+  - titre: Stocker
+    icone: droplet
+```
 
 ---
 
@@ -2492,6 +3032,20 @@ L'osmose inverse est aujourd'hui la technique dominante, car elle consomme moins
 ## Le revers de la médaille
 
 Les usines rejettent une eau très salée, la saumure, en quantité supérieure à celle de l'eau douce produite. Plus dense, cette saumure peut couler au fond de la mer et nuire aux écosystèmes ; les prises d'eau peuvent aussi piéger des poissons. Le Moyen-Orient concentre la plus grande part de la capacité mondiale de dessalement.
+
+```schema
+type: comparaison
+titre: Deux façons de dessaler
+colonnes:
+  - titre: Distillation
+    points:
+      - On chauffe l'eau de mer
+      - La vapeur se condense en eau douce
+  - titre: Osmose inverse
+    points:
+      - L'eau salée est forcée à travers une membrane
+      - Le sel reste de l'autre côté
+```
 
 ## À retenir
 
@@ -2697,8 +3251,13 @@ nécessiter de compétences très spécialisées.
 - Un indice de réparabilité aide les consommateurs à choisir des produits conçus pour durer.
 - Réapprendre des gestes simples de réparation prolonge la vie de nombreux objets du quotidien.
 
-[Emplacement image : personne réparant un appareil électronique ouvert avec des outils simples,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les déchets électroniques
+chiffres:
+  - valeur: 62 millions
+    texte: de tonnes produites dans le monde en 2022, environ
+```
 
 ---
 
@@ -2969,6 +3528,20 @@ Les racines immergées servent d'abri à de nombreux poissons, crabes, mollusque
 
 Pourtant, elles reculent. Entre 1999 et 2019, le monde a perdu environ 3 700 kilomètres carrés de mangroves. Ce recul est dû surtout aux activités humaines.
 
+```schema
+type: systeme
+titre: Les services des mangroves
+centre: Mangrove
+icone: tree
+parties:
+  - nom: Racines
+    role: Elles freinent les vagues.
+  - nom: Nurserie
+    role: Pour de nombreux poissons.
+  - nom: Carbone
+    role: Un réservoir important.
+```
+
 ## À retenir
 
 - La mangrove est une forêt de palétuviers qui pousse dans l'eau salée des côtes tropicales.
@@ -3227,6 +3800,16 @@ En creusant, les vers mélangent le sol et y font entrer l'air. Leurs galeries v
 Les vers sont pourtant fragiles. Le labour et les pesticides réduisent leur nombre. Dans certains champs, on est passé de 2 tonnes de vers par hectare en 1950 à 200 kilos ou moins au début du XXIe siècle.
 
 En 1881, le naturaliste anglais Charles Darwin écrivait déjà que peu d'animaux avaient joué un rôle aussi important dans l'histoire du monde.
+
+```schema
+type: chiffres
+titre: Les vers de terre
+chiffres:
+  - valeur: "> 7 000"
+    texte: espèces connues
+  - valeur: 1 à 3 tonnes
+    texte: par hectare de prairie
+```
 
 ## À retenir
 
@@ -3857,14 +4440,131 @@ title: L'agroforesterie, combiner arbres et cultures
 slug: l-agroforesterie-combiner-arbres-et-cultures
 categoryPath: environnement-et-climat/biodiversite/forets-et-oceans
 summary: >
-  Une approche ancienne qui associe production agricole et couvert forestier.
-tags: [forets-et-oceans, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Planter des arbres au milieu des champs ou des prairies, c'est renouer avec une pratique ancienne.
+  Les arbres protègent les cultures du vent et de la chaleur, enrichissent le sol, stockent du carbone
+  et abritent la biodiversité, tout en fournissant bois et fruits.
+tags: [forets-et-oceans]
+relatedArticles: [haies-bocage, services-ecosystemiques-biodiversite, comment-les-vers-de-terre-rendent-ils-le-sol-fertile, agriculture-regeneratrice]
+sources:
+  - title: "Agroforesterie"
+    url: "https://fr.wikipedia.org/wiki/Agroforesterie"
+    publisher: "Wikipédia"
+  - title: "Agroforestry"
+    url: "https://en.wikipedia.org/wiki/Agroforestry"
+    publisher: "Wikipedia"
+  - title: "Agroforesterie"
+    url: "https://www.fao.org/forestry/agroforestry/fr/"
+    publisher: "FAO"
+  - title: "Silvopasture"
+    url: "https://en.wikipedia.org/wiki/Silvopasture"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Qu'est-ce que l'agroforesterie ?"
+    options:
+      - "La culture d'arbres en pépinière"
+      - "L'association d'arbres et de cultures ou d'élevage sur une même parcelle"
+      - "L'abattage des forêts pour l'agriculture"
+    answer: 2
+    explanation: >
+      Les arbres, alignés ou dispersés, cohabitent avec des cultures ou des animaux sur la même
+      surface.
+  - question: "Comment les arbres aident-ils les cultures voisines lors d'une vague de chaleur ?"
+    options:
+      - "Ils consomment toute l'eau"
+      - "Ils apportent de l'ombre et freinent le vent, ce qui réduit l'évaporation"
+      - "Ils attirent la grêle"
+    answer: 2
+    explanation: >
+      L'ombre et l'abri du vent créent un microclimat plus frais et plus humide autour des cultures.
+  - question: "Pourquoi les racines profondes des arbres sont-elles utiles ?"
+    options:
+      - "Elles remontent l'eau et les éléments nutritifs des couches profondes du sol"
+      - "Elles empêchent les cultures de pousser"
+      - "Elles cassent les machines agricoles"
+    answer: 1
+    explanation: >
+      Les racines vont chercher ce que les cultures n'atteignent pas, et leurs feuilles mortes
+      enrichissent ensuite la surface.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'**agroforesterie** consiste à faire pousser des **arbres** sur la même parcelle que des **cultures**
+ou des **animaux d'élevage**. Ce n'est pas une invention récente : les prés-vergers normands, les
+champs de céréales plantés d'oliviers en Méditerranée ou les jardins-forêts tropicaux en sont des
+formes anciennes. Abandonnée avec la mécanisation, elle revient parce qu'elle répond à plusieurs défis
+à la fois : protéger les cultures des **sécheresses** et du **vent**, enrichir le **sol**, stocker du
+**carbone** et accueillir la **biodiversité**, tout en produisant du bois, des fruits ou du fourrage.
+
+## Les grandes formes
+
+- **Les cultures intercalaires** : des lignes d'arbres espacées de plusieurs dizaines de mètres, avec
+  des céréales ou des légumes entre elles. Les machines passent entre les rangées.
+- **Le sylvopastoralisme** : des arbres dans une prairie pâturée, comme les prés-vergers ou les
+  dehesas espagnoles de chênes.
+- **Les haies et brise-vent** autour des parcelles, forme linéaire de l'agroforesterie.
+- **Les jardins-forêts** : plusieurs étages de végétation, arbres, arbustes, plantes basses, sur une
+  petite surface, surtout en zone tropicale.
+
+## Ce que les arbres apportent
+
+```schema
+type: systeme
+titre: Les services rendus par les arbres dans un champ
+legende: Arbres et cultures se partagent l'espace et se rendent service.
+centre: Parcelle agroforestière
+icone: tree
+parties:
+  - nom: Microclimat
+    role: Ombre et abri contre le vent
+    icone: sun
+  - nom: Sol
+    role: Feuilles mortes, racines, moins d'érosion
+    icone: leaf
+  - nom: Eau
+    role: Infiltration et moins d'évaporation
+    icone: droplet
+  - nom: Carbone
+    role: Stocké dans le bois et le sol
+    icone: cloud
+  - nom: Biodiversité
+    role: Oiseaux, insectes, auxiliaires des cultures
+    icone: star
+  - nom: Revenus
+    role: Bois, fruits, fourrage
+    icone: coin
+```
+
+- **Un microclimat protecteur** : l'ombre et l'abri contre le vent limitent l'évaporation et les
+  brûlures lors des fortes chaleurs. Les animaux au pré y trouvent de l'ombre.
+- **Un sol plus vivant** : les feuilles mortes et les racines qui se renouvellent nourrissent les vers
+  de terre et les champignons. Les racines profondes remontent l'eau et les éléments nutritifs que les
+  cultures n'atteignent pas, et elles limitent l'**érosion**.
+- **De l'eau mieux retenue** : le sol, plus riche et mieux structuré, absorbe davantage la pluie.
+- **Du carbone stocké** dans le bois et dans le sol, ce qui contribue à limiter le changement
+  climatique.
+- **De la biodiversité** : les arbres accueillent oiseaux, chauves-souris et insectes, dont certains
+  mangent les ravageurs des cultures.
+- **Des revenus diversifiés** : bois d'œuvre ou de chauffage, fruits, fourrage, qui étalent les risques.
+
+## Les contraintes
+
+Les arbres font de l'**ombre** et puisent eux aussi de l'eau et de la lumière : bien conçu, le système
+espace les rangées et choisit des essences qui gênent peu les cultures, par exemple des arbres dont les
+feuilles sortent tard au printemps. Le travail demande de la patience : un arbre met des années à
+rapporter. Il faut aussi adapter les machines et l'organisation du travail. Des études montrent
+toutefois qu'une parcelle agroforestière bien pensée peut produire, au total, davantage qu'une surface
+équivalente séparée en forêt et en champ.
+
+## À retenir
+
+- L'agroforesterie associe arbres et cultures ou élevage sur une même parcelle.
+- Cultures intercalaires, prés-vergers, haies et jardins-forêts en sont les grandes formes.
+- Les arbres protègent du vent et de la chaleur, enrichissent le sol et retiennent l'eau.
+- Ils stockent du carbone et abritent une biodiversité utile aux cultures.
+- Le système demande une conception soignée et de la patience, mais diversifie les revenus.
 
 ---
 type: article
@@ -3966,6 +4666,17 @@ Une autre stratégie consiste à retirer le combustible sur le chemin des flamme
 ## Prévenir avant que ça brûle
 
 La plupart des départs de feu sont d'origine humaine : mégots jetés, accidents, brûlage de déchets, actes volontaires. En France, il est interdit en été de faire du feu en forêt et à moins de 200 mètres des bois dans les zones à risque. Débroussailler est obligatoire sur 50 mètres autour des maisons. Des tours de guet, des patrouilles et Météo-France surveillent les jours de temps sec et venteux, quand le risque est le plus fort.
+
+```schema
+type: cycle
+titre: Le triangle du feu
+elements:
+  - titre: Combustible
+    icone: tree
+  - titre: Oxygène
+  - titre: Chaleur
+    icone: fire
+```
 
 ## À retenir
 
@@ -4637,6 +5348,20 @@ La quantité d'ozone s'est stabilisée vers le milieu des années 1990. Selon un
 
 Attention : le trou dans la couche d'ozone n'est pas la cause du réchauffement climatique. Ce sont deux problèmes différents.
 
+```schema
+type: etapes
+titre: La formation du trou d'ozone
+elements:
+  - titre: Les CFC montent
+    texte: Des gaz très stables.
+  - titre: Ils libèrent du chlore
+    texte: En haute altitude.
+  - titre: Le chlore détruit l'ozone
+    texte: Environ 100 000 molécules par atome.
+  - titre: Le protocole de Montréal
+    texte: L'interdiction des CFC a marché.
+```
+
 ## À retenir
 
 - La couche d'ozone arrête une partie des rayons ultraviolets du Soleil.
@@ -5032,6 +5757,21 @@ Les villes plantent donc des arbres, créent des parcs, des toits et des murs co
 À Paris, des calculs de Météo-France montrent l'intérêt de ces actions. Végétaliser les sols nus et couvrir d'arbres la moitié des rues de plus de 15 mètres de large ferait baisser la température de la journée de 3 à 5 °C, tant que les plantes ne manquent pas d'eau. Un jardin de pluie de 100 m², qui recueille l'eau des toits et des trottoirs, abaisse d'environ un degré la température sur cent mètres autour.
 
 C'est important pour la santé. En 2003, une canicule a causé environ 15 000 morts de plus que d'habitude en France.
+
+```schema
+type: comparaison
+titre: L'îlot de chaleur et ses remèdes
+colonnes:
+  - titre: Ce qui chauffe
+    points:
+      - Goudron et béton stockent la chaleur le jour
+      - Ils la rendent la nuit
+  - titre: Ce que font les arbres
+    icone: tree
+    points:
+      - L'ombre
+      - L'évaporation de l'eau par les feuilles
+```
 
 ## À retenir
 
@@ -5575,6 +6315,21 @@ Ces moyennes s'appellent des normales climatiques. On utilise 30 ans depuis 1935
 
 Une journée glaciale en hiver ne prouve pas que le climat se refroidit. Une journée très chaude ne prouve pas non plus, seule, qu'il se réchauffe. Pour parler du climat, il faut comparer des moyennes sur des dizaines d'années. C'est en comparant ces longues séries de mesures que les scientifiques ont montré que le climat de la Terre se réchauffe.
 
+```schema
+type: comparaison
+titre: Météo ou climat
+colonnes:
+  - titre: Météo
+    icone: cloud
+    points:
+      - Le temps sur quelques heures ou jours
+      - Imprévisible au-delà de quelques jours
+  - titre: Climat
+    icone: globe
+    points:
+      - Le temps moyen sur 30 ans
+```
+
 ## À retenir
 
 - La météo décrit le temps qu'il fait sur quelques heures ou quelques jours.
@@ -5996,6 +6751,19 @@ Recycler le papier demande moins d'énergie que d'en fabriquer à partir du bois
 
 L'Europe recycle beaucoup. En 2023, son taux de recyclage du papier a atteint 79,3 %. Pour que cela marche, il faut trier : un papier sale ou mouillé, comme un mouchoir usagé, ne se recycle pas.
 
+```schema
+type: etapes
+titre: Le recyclage du papier
+elements:
+  - titre: Pâte à papier
+    texte: Les vieux papiers mélangés à l'eau.
+  - titre: Désencrage
+    texte: Par flottation.
+  - titre: Nouvelle feuille
+    texte: Les fibres s'usent, pas à l'infini.
+    icone: recycle
+```
+
 ## À retenir
 
 - Le papier est fait de fibres végétales que l'on peut récupérer pour faire de nouvelles feuilles.
@@ -6133,6 +6901,19 @@ Ensuite vient la maturation. La température redescend lentement. Les vers de co
 Un compost mûr ressemble à du terreau. Il est sombre et léger, et sent le sous-bois. On l'étale au jardin ou dans les pots. Il garde l'eau et nourrit les plantes. Attention : un compost pas encore mûr peut « brûler » les jeunes plantes.
 
 Composter évite aussi de jeter ces déchets. Dans les décharges, les restes de nourriture et de jardin forment environ 20 % des déchets. Privés d'air, ils pourrissent lentement et dégagent du méthane, un puissant gaz à effet de serre.
+
+```schema
+type: etapes
+titre: Faire un compost
+elements:
+  - titre: Mélanger
+    texte: Déchets verts riches en azote et bruns riches en carbone.
+  - titre: Laisser travailler
+    texte: Bactéries, champignons et petits animaux.
+  - titre: Le tas chauffe
+  - titre: Compost mûr
+    icone: leaf
+```
 
 ## À retenir
 
@@ -6371,6 +7152,21 @@ Les bouteilles et les pots en verre se recyclent sans fin, sans perdre leurs pro
 ## Et en France ?
 
 Selon Citeo, l'organisme chargé du recyclage des emballages ménagers, 88 % des emballages ménagers en verre sont recyclés en France. Ce chiffre est présenté comme une « estimation décembre 2025 » ; les pages consultées ne précisent ni l'année exacte des données ni le mode de calcul. À l'échelle de l'Union européenne, 82,2 % des emballages en verre ont été collectés pour être recyclés en 2024, selon la filière européenne du verre : ce n'est pas le même indicateur. L'objectif européen est d'atteindre 90 % de collecte en 2030. Il existe une solution encore plus économe : laver la bouteille et la remplir de nouveau, sans la refondre. C'est le principe de la consigne pour réemploi.
+
+```schema
+type: etapes
+titre: Le recyclage du verre
+elements:
+  - titre: Tri
+    texte: Ni céramique, ni porcelaine, ni verre de four.
+  - titre: Calcin
+    texte: Le verre est broyé.
+  - titre: Four
+    texte: Il est refondu à très haute température.
+    icone: fire
+  - titre: Bouteille neuve
+    icone: recycle
+```
 
 ## À retenir
 
@@ -6677,6 +7473,19 @@ La seule vraie solution est de réduire les nitrates à la source. En Europe, la
 
 En 2010, la France a lancé un plan contre les algues vertes doté de 134 millions d'euros sur cinq ans. En attendant, les communes ramassent les algues sur les plages, ce qui coûte cher.
 
+```schema
+type: etapes
+titre: Du champ à la plage
+elements:
+  - titre: Engrais et lisier
+  - titre: Nitrates entraînés
+    texte: Par la pluie vers les rivières.
+  - titre: Ulves
+    texte: Ces algues stockent les nitrates et prolifèrent.
+  - titre: Marée verte
+    texte: Les algues échouées pourrissent.
+```
+
 ## À retenir
 
 - Les marées vertes sont surtout formées d'ulves, des algues qui stockent très bien les nitrates.
@@ -6821,6 +7630,20 @@ Le prétraitement retire les gros déchets par dégrillage, puis le sable et les
 
 Les boues récupérées sont stabilisées, souvent par une digestion sans oxygène qui produit du méthane, dont l'énergie est récupérée. En dernier, on peut désinfecter l'eau avec du chlore, de l'ozone ou de la lumière ultraviolette avant de la rejeter. Un traitement supplémentaire peut retirer l'azote et le phosphore, qui provoqueraient sinon une prolifération d'algues appelée eutrophisation. Les stations classiques ne détruisent pas la plupart des micropolluants, comme les résidus de médicaments.
 
+```schema
+type: etapes
+titre: Dans une station d'épuration
+elements:
+  - titre: Prétraitement
+    texte: Dégrillage, sable, huiles.
+  - titre: Traitement primaire
+    texte: Décantation dans de grands bassins.
+  - titre: Traitement biologique
+    texte: Des bactéries digèrent la pollution.
+  - titre: Rejet
+    texte: Vers la rivière.
+```
+
 ## À retenir
 
 - Le prétraitement retire les gros déchets par dégrillage, puis le sable et les huiles.
@@ -6941,6 +7764,18 @@ L'eau souterraine représente environ 30 % de l'eau douce disponible sur Terre. 
 ## Une réserve fragile
 
 Une nappe peut se vider. Si l'on pompe plus d'eau que la pluie n'en apporte, son niveau baisse. Une nappe peut aussi être polluée. L'eau qui s'infiltre emporte avec elle ce qui se trouve à la surface : engrais, pesticides, produits industriels. Protéger les sols, c'est donc aussi protéger l'eau que nous boirons demain.
+
+```schema
+type: etapes
+titre: Comment se forme une nappe
+elements:
+  - titre: Pluie
+    icone: cloud
+  - titre: Infiltration
+    texte: Dans les trous et fissures des roches.
+  - titre: Aquifère
+    texte: Sable, gravier, craie ou grès.
+```
 
 ## À retenir
 
@@ -7312,18 +8147,142 @@ status: planned
 
 ---
 type: article
-title: La pollution de l'air interieur, un risque meconnu
+title: La pollution de l'air intérieur, un risque méconnu
 slug: la-pollution-de-l-air-interieur-un-risque-meconnu
 categoryPath: environnement-et-climat/pollution-et-ressources/qualite-de-l-air
 summary: >
-  Pourquoi l'air a l'interieur d'un logement peut parfois etre plus pollue qu'a l'exterieur.
-tags: [qualite-de-l-air, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Nous passons la plupart de notre temps dans des lieux clos, où l'air est souvent plus pollué
+  qu'à l'extérieur. Combustion, produits ménagers, meubles, humidité et radon en sont les sources.
+  Aérer chaque jour et limiter les émissions suffisent à l'améliorer nettement.
+tags: [qualite-de-l-air]
+relatedArticles: [pollution-de-lair-ambiant-risque-sanitaire, echanges-gazeux-et-respiration, combustion, allumer-entretenir-feu]
+sources:
+  - title: "Pollution de l'air intérieur"
+    url: "https://fr.wikipedia.org/wiki/Pollution_de_l%27air_int%C3%A9rieur"
+    publisher: "Wikipédia"
+  - title: "Pollution de l'air à l'intérieur des habitations"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/household-air-pollution-and-health"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Indoor air quality"
+    url: "https://en.wikipedia.org/wiki/Indoor_air_quality"
+    publisher: "Wikipedia"
+  - title: "Radon"
+    url: "https://en.wikipedia.org/wiki/Radon"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Quelle est la mesure la plus simple pour améliorer l'air intérieur ?"
+    options:
+      - "Allumer une bougie parfumée"
+      - "Ouvrir les fenêtres en grand une dizaine de minutes chaque jour"
+      - "Fermer toutes les aérations"
+    answer: 2
+    explanation: >
+      Aérer renouvelle l'air et évacue les polluants accumulés, même en hiver et même en ville.
+  - question: "Pourquoi le monoxyde de carbone est-il particulièrement dangereux ?"
+    options:
+      - "Parce qu'il sent très mauvais"
+      - "Parce qu'il est invisible, inodore et peut tuer en quelques heures"
+      - "Parce qu'il ne touche que les plantes"
+    answer: 2
+    explanation: >
+      Produit par une combustion incomplète, il prend la place de l'oxygène dans le sang sans que l'on
+      s'en rende compte. Un détecteur permet de le repérer.
+  - question: "D'où vient le radon ?"
+    options:
+      - "Des peintures"
+      - "Du sol, en particulier dans les régions granitiques"
+      - "Des appareils électroniques"
+    answer: 2
+    explanation: >
+      Ce gaz radioactif naturel remonte du sous-sol et peut s'accumuler dans les pièces mal ventilées
+      en contact avec le sol.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Nous passons la plus grande partie de notre temps à l'intérieur : logement, travail, école, transports.
+Or l'air des lieux clos est souvent **plus pollué** que l'air extérieur, car les polluants qui y sont
+émis s'**accumulent** quand il n'est pas renouvelé. Fumées de combustion, produits ménagers, meubles
+neufs, moisissures et radon en sont les principales sources. Dans le monde, l'Organisation mondiale de
+la santé estime que la cuisine au bois, au charbon ou au kérosène sur des foyers rudimentaires cause des
+millions de décès chaque année. Dans les pays riches, le risque est plus diffus mais bien réel. Les
+remèdes sont simples : **aérer** et **limiter les sources**.
+
+## Les principales sources
+
+```schema
+type: systeme
+titre: D'où vient la pollution de l'air intérieur
+legende: Les polluants s'accumulent quand l'air n'est pas renouvelé.
+centre: Air intérieur
+icone: house
+parties:
+  - nom: Combustion
+    role: Chauffage, cuisson, bougies, tabac
+    icone: fire
+  - nom: Produits ménagers
+    role: Nettoyants, aérosols, parfums d'intérieur
+    icone: bubbles
+  - nom: Meubles et travaux
+    role: Colles, peintures, panneaux de bois
+    icone: cube
+  - nom: Humidité
+    role: Moisissures et acariens
+    icone: droplet
+  - nom: Radon
+    role: Gaz radioactif venu du sol
+    icone: mountain
+  - nom: Air extérieur
+    role: Trafic et pollution qui entrent
+    icone: car
+```
+
+- **La combustion** : chaudières, poêles, cheminées, gazinières, bougies, encens et surtout **tabac**
+  produisent des particules fines, du dioxyde d'azote et parfois du **monoxyde de carbone**.
+- **Les composés organiques volatils** : ils s'échappent des peintures, colles, vernis, meubles en
+  panneaux agglomérés, produits d'entretien et désodorisants. Le **formaldéhyde** en est l'exemple le
+  plus connu.
+- **L'humidité** : cuisine, douches et séchage du linge favorisent les **moisissures** et les acariens,
+  qui aggravent asthme et allergies.
+- **Le radon** : ce gaz radioactif naturel monte du sol, notamment dans les régions granitiques. Il est,
+  après le tabac, une cause importante de cancer du poumon.
+
+## Le monoxyde de carbone, un danger mortel
+
+Un appareil à combustion mal réglé ou mal ventilé produit du **monoxyde de carbone**. Ce gaz est
+**invisible et inodore**. Il se fixe sur les globules rouges à la place de l'oxygène. Les signes, maux
+de tête, nausées, fatigue, touchent souvent toutes les personnes d'un même logement. Il peut tuer en
+quelques heures. Les gestes de prévention : faire **entretenir** chaque année chaudière et conduits, ne
+jamais boucher les aérations, ne pas utiliser de groupe électrogène ou de barbecue à l'intérieur, et
+installer un **détecteur**. En cas de suspicion : aérer, sortir et appeler les secours.
+
+## Les bons gestes
+
+1. **Aérer** au moins **dix minutes** par jour, fenêtres grandes ouvertes, même en hiver.
+2. Aérer davantage pendant et après la **cuisine**, la **douche**, le **ménage** ou des **travaux**.
+3. Ne **jamais boucher** les grilles de ventilation et entretenir la ventilation mécanique.
+4. **Ne pas fumer** à l'intérieur.
+5. Limiter les **parfums d'intérieur**, bougies et encens ; préférer des produits ménagers simples,
+   comme le savon noir ou le vinaigre blanc, en quantités modérées.
+6. Aérer longuement une pièce après l'arrivée de **meubles neufs** ou des travaux de peinture.
+7. Dans les zones à risque, faire **mesurer le radon**, surtout dans les pièces au sol.
+
+## Un sujet de santé publique
+
+En France, l'Observatoire de la qualité de l'air intérieur étudie l'air des logements et des écoles, et
+la surveillance de l'air est obligatoire dans certains établissements recevant des enfants. Depuis
+2013, les produits de construction et de décoration portent une **étiquette** indiquant leur niveau
+d'émission de polluants, de A+ à C : un repère simple au moment d'acheter peintures, sols ou colles.
+
+## À retenir
+
+- L'air intérieur est souvent plus pollué que l'air extérieur, car les polluants s'y accumulent.
+- Combustion, composés volatils des produits et meubles, humidité et radon en sont les sources.
+- Le monoxyde de carbone, invisible et inodore, peut tuer : entretien, aération et détecteur.
+- Aérer dix minutes par jour et ne pas boucher les ventilations sont les gestes essentiels.
+- L'étiquette A+ à C aide à choisir des matériaux qui polluent peu.
 
 ---
 type: article
@@ -10647,6 +11606,18 @@ Pour les littoraux, la montée de la mer signifie recul du trait de côte, subme
 
 Pour s'adapter, on peut construire des digues, recharger les plages, restaurer des dunes ou organiser le recul des habitations menacées.
 
+```schema
+type: systeme
+titre: Pourquoi la mer monte
+centre: Hausse du niveau de la mer
+icone: wave
+parties:
+  - nom: Fonte des glaces
+    role: Elle ajoute de l'eau.
+  - nom: Dilatation
+    role: L'eau qui se réchauffe prend plus de place.
+```
+
 ## À retenir
 
 - Le niveau moyen de la mer monte depuis plus d'un siècle, et le rythme de la hausse s'accélère.
@@ -10743,6 +11714,20 @@ Si le stress est modéré, le corail peut se rétablir ; si la perte d'algues du
 
 La NOAA appelle seuil de blanchissement une température de la mer supérieure de 1 °C au maximum de la moyenne mensuelle. Le premier épisode mondial date de 1998. En 2024, la NOAA confirme un quatrième épisode. Entre début 2023 et mi-2025, environ 84 % de la superficie des récifs du monde a subi une chaleur de niveau blanchissement.
 
+```schema
+type: etapes
+titre: Le blanchissement
+elements:
+  - titre: Association
+    texte: Le corail vit avec des algues, les zooxanthelles.
+  - titre: Stress
+    texte: Une eau trop chaude.
+    icone: thermometer
+  - titre: Perte des algues
+    texte: Le corail devient blanc.
+  - titre: Rétablissement ou mort
+```
+
 ## À retenir
 
 - Les coraux vivent avec des algues microscopiques, les zooxanthelles, installées dans leurs tissus.
@@ -10833,6 +11818,17 @@ Le blanchissement du corail est la perte des algues symbiotiques, les zooxanthel
 ## Deux menaces qui s'ajoutent
 
 L'acidification et le blanchissement sont deux menaces différentes, l'une venue du CO2 dissous, l'autre surtout de la chaleur, mais elles s'additionnent. De nombreuses personnes dépendent des récifs pour la pêche, le tourisme et la protection des côtes.
+
+```schema
+type: etapes
+titre: L'acidification des océans
+elements:
+  - titre: L'océan absorbe du CO2
+  - titre: Acide carbonique
+    texte: Le pH de l'eau baisse.
+  - titre: Moins d'ions carbonate
+    texte: Les briques des coquilles et des squelettes.
+```
 
 ## À retenir
 
@@ -10935,6 +11931,14 @@ L'évaluation classe cinq facteurs directs : les changements d'usage des terres 
 
 Le changement climatique est l'un de ces facteurs : la crise du climat et celle de la biodiversité sont liées. Un atelier commun entre l'IPBES et le GIEC, l'organisme des experts du climat, a montré que les deux crises sont profondément liées. Les traiter chacune de son côté risque de donner des solutions incomplètes : mieux vaut des stratégies qui visent les deux à la fois.
 
+```schema
+type: chiffres
+titre: Le constat de l'IPBES
+chiffres:
+  - valeur: 1 million
+    texte: d'espèces environ menacées d'extinction
+```
+
 ## À retenir
 
 - L'IPBES est une organisation intergouvernementale indépendante qui relie la science et les décisions politiques sur la biodiversité et les services rendus par les écosystèmes.
@@ -11018,6 +12022,20 @@ Le méthane a une durée de vie relativement courte dans l'atmosphère, où il e
 ## D'où vient le méthane ?
 
 Les sources sont naturelles, comme les zones humides, et humaines : élevage, riziculture, extraction et fuites de gaz et de pétrole, décharges. Une grande partie des émissions actuelles vient d'activités humaines. Aux États-Unis, les plus grandes sources humaines sont les systèmes de pétrole et de gaz, l'élevage et les décharges. Réduire les fuites de gaz et les émissions des décharges et de l'agriculture est une façon d'agir vite, car le méthane disparaît assez vite de l'air.
+
+```schema
+type: comparaison
+titre: Méthane et CO2
+colonnes:
+  - titre: Méthane
+    points:
+      - Environ 28 fois plus de chaleur retenue sur 100 ans
+      - Reste peu de temps dans l'air
+  - titre: CO2
+    points:
+      - Le plus abondant d'origine humaine
+      - Persiste des siècles
+```
 
 ## À retenir
 
@@ -11119,6 +12137,17 @@ Une grande partie de la diversité des cultures dépend de la pollinisation par 
 
 Les causes du déclin sont les pesticides, notamment les néonicotinoïdes, la perte et la fragmentation des habitats, les parasites et maladies et le changement climatique. Les néonicotinoïdes provoquent des troubles neurologiques et immunitaires chez les abeilles. Un parasite, le varroa, affaiblit les abeilles. En Europe, de nombreuses espèces d'abeilles sauvages sont menacées. Malgré ce déclin, les rendements des cultures dépendantes des pollinisateurs ont continué de progresser au même rythme que les autres, selon des analyses citées.
 
+```schema
+type: etapes
+titre: La pollinisation
+elements:
+  - titre: Un insecte visite une fleur
+  - titre: Il emporte du pollen
+  - titre: Il le dépose sur une autre fleur
+  - titre: Graines et fruits se forment
+    icone: apple
+```
+
 ## À retenir
 
 - La pollinisation est le transport du pollen vers l'organe femelle d'une fleur, ce qui permet la formation de graines et de fruits.
@@ -11206,6 +12235,19 @@ Elles abritent une biodiversité exceptionnelle : oiseaux, amphibiens, poissons,
 ## Un recul à freiner
 
 Les zones humides ont fortement reculé : une grande partie a disparu, plus vite que les forêts, selon les estimations. La disparition vient de l'agriculture, du drainage, de l'extraction de pétrole et de gaz, de la pollution et de l'aménagement des côtes. La convention de Ramsar, signée à Ramsar, en Iran, est le principal traité international qui protège les zones humides d'importance internationale.
+
+```schema
+type: systeme
+titre: Les rôles des zones humides
+centre: Zone humide
+icone: droplet
+parties:
+  - nom: Éponge
+    role: Elles stockent l'eau des crues et la restituent.
+  - nom: Filtre
+    role: Elles épurent l'eau.
+  - nom: Biodiversité
+```
 
 ## À retenir
 
@@ -11311,6 +12353,18 @@ Beaucoup d'animaux produisent leur propre lumière, la bioluminescence, pour com
 
 Le chalutage, l'exploitation minière et l'acidification des océans menacent ces écosystèmes fragiles.
 
+```schema
+type: systeme
+titre: Les grands fonds
+centre: Grands fonds
+parties:
+  - nom: Obscurité
+  - nom: Pression très élevée
+  - nom: Eau froide
+  - nom: Neige marine
+    role: La nourriture tombée de la surface.
+```
+
 ## À retenir
 
 - Dans les grands fonds, il n'y a pas de lumière du soleil, la pression est très élevée et l'eau reste froide.
@@ -11333,3 +12387,146 @@ status: planned
 ---
 
 À rédiger.
+
+---
+type: article
+title: L'assainissement autonome et les toilettes sèches
+slug: assainissement-autonome-toilettes-seches
+categoryPath: environnement-et-climat/pollution-et-ressources/eau
+summary: >
+  Une maison non raccordée au tout-à-l'égout doit épurer elle-même ses eaux usées. Fosse et
+  épandage, micro-station, filtre planté de roseaux ou toilettes sèches : chaque solution imite à
+  sa manière le travail des bactéries du sol.
+tags: [eau]
+relatedArticles: [maison-autonome-independante, rendre-eau-potable, recuperer-eau-pluie, biogaz-gaz-sans-gisement]
+sources:
+  - title: "Assainissement non collectif"
+    url: "https://fr.wikipedia.org/wiki/Assainissement_non_collectif"
+    publisher: "Wikipédia"
+  - title: "Toilettes sèches"
+    url: "https://fr.wikipedia.org/wiki/Toilettes_s%C3%A8ches"
+    publisher: "Wikipédia"
+  - title: "Phytoépuration"
+    url: "https://fr.wikipedia.org/wiki/Phyto%C3%A9puration"
+    publisher: "Wikipédia"
+  - title: "Septic tank"
+    url: "https://en.wikipedia.org/wiki/Septic_tank"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Que se passe-t-il dans une fosse toutes eaux ?"
+    options:
+      - "Les matières lourdes se déposent et commencent à être digérées par des bactéries"
+      - "L'eau devient potable"
+      - "Les déchets sont brûlés"
+    answer: 1
+    explanation: >
+      La fosse sépare les solides des liquides et amorce leur dégradation. L'eau qui en sort
+      doit encore être épurée par le sol ou un filtre.
+  - question: "Qui contrôle les installations d'assainissement autonome en France ?"
+    options:
+      - "Les pompiers"
+      - "Le service public d'assainissement non collectif de la commune"
+      - "Personne"
+    answer: 2
+    explanation: >
+      Le SPANC vérifie la conception des installations neuves et contrôle régulièrement le bon
+      fonctionnement des installations existantes.
+  - question: "Comment fonctionnent les toilettes sèches à litière ?"
+    options:
+      - "Elles brûlent les excréments"
+      - "Elles les envoient dans la rivière"
+      - "Elles couvrent les excréments de sciure, puis le tout est composté"
+    answer: 3
+    explanation: >
+      La sciure absorbe les liquides et les odeurs. Après un compostage de longue durée, la
+      matière devient un amendement pour le sol.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+En ville, les eaux usées partent dans les égouts vers une station d'épuration. À la campagne,
+beaucoup de maisons ne sont pas raccordées : elles doivent épurer leurs eaux sur place. C'est
+l'**assainissement non collectif**, ou autonome. Toutes les solutions reposent sur le même
+principe : laisser les matières lourdes se déposer, puis confier à des **bactéries** le soin de
+dégrader la pollution, dans le sol, dans un filtre ou dans un compost. Les **toilettes sèches**
+évitent même d'utiliser de l'eau pour évacuer les excréments.
+
+## Ce qu'il faut épurer
+
+Une maison rejette deux types d'eaux :
+
+- les **eaux vannes**, venues des toilettes, chargées en matières organiques, en azote et en
+  microbes ;
+- les **eaux grises**, venues de la cuisine, des douches et du lave-linge, chargées en savons, en
+  graisses et en restes alimentaires.
+
+Rejetées telles quelles, elles polluent les nappes et les rivières et transmettent des maladies.
+
+## La filière classique, fosse et épandage
+
+1. **La fosse toutes eaux** reçoit toutes les eaux usées. Les matières lourdes se déposent au fond,
+   les graisses flottent. Des bactéries commencent à digérer les boues, sans oxygène.
+2. **L'épandage** : l'eau prétraitée qui sort de la fosse est répartie dans des tuyaux percés,
+   posés dans des tranchées remplies de gravier. Elle s'infiltre lentement dans le sol, où des
+   bactéries qui ont besoin d'oxygène achèvent l'épuration.
+
+Si le sol est trop imperméable ou trop perméable, on construit un **filtre à sable** à la place.
+La fosse doit être **vidangée** régulièrement par un professionnel, selon la hauteur de boues,
+souvent tous les quatre à dix ans.
+
+```schema
+type: etapes
+titre: La filière fosse et épandage
+elements:
+  - titre: Eaux de la maison
+    texte: Eaux vannes et eaux grises.
+    icone: droplet
+  - titre: Fosse toutes eaux
+    texte: Les solides se déposent, des bactéries commencent la digestion.
+  - titre: Épandage
+    texte: L'eau s'infiltre dans des tranchées de gravier.
+  - titre: Sol vivant
+    texte: Des bactéries achèvent l'épuration.
+    icone: leaf
+```
+
+## Les autres solutions
+
+- **La micro-station** : une cuve compacte où de l'air est injecté pour nourrir les bactéries.
+  Elle occupe peu de place, mais consomme de l'électricité et demande un entretien régulier.
+- **Le filtre planté de roseaux**, ou phytoépuration : l'eau traverse des bacs de gravier et de
+  sable plantés de roseaux. Les bactéries fixées sur les racines épurent l'eau, et les tiges
+  empêchent le filtre de se colmater. Il fonctionne sans électricité, si le terrain a une pente.
+
+## Les toilettes sèches
+
+Les toilettes sèches n'utilisent pas d'eau. Une chasse d'eau classique consomme environ un quart
+à un tiers de l'eau d'un ménage.
+
+- **Les toilettes à litière** : après chaque passage, on couvre les excréments d'une poignée de
+  sciure ou de copeaux. La sciure absorbe les liquides et les odeurs. Le seau est vidé dans un
+  composteur dédié.
+- **Les toilettes à séparation** recueillent à part l'urine et les matières solides, ce qui
+  limite les odeurs et facilite le traitement.
+
+Le **compostage** doit être long, souvent deux ans, pour que la chaleur et le temps détruisent les
+germes. On utilise ensuite le compost pour les arbres et les fleurs plutôt que pour les légumes
+consommés crus. Les eaux grises de la maison doivent quand même être épurées.
+
+## Les règles en France
+
+Toute maison non raccordée doit disposer d'une installation conforme. Le **service public
+d'assainissement non collectif**, le SPANC, de la commune ou de l'intercommunalité valide le projet
+avant les travaux et contrôle ensuite le fonctionnement, au plus tous les dix ans. Une installation
+défaillante doit être réhabilitée, notamment lors de la vente de la maison.
+
+## À retenir
+
+- Une maison non raccordée au tout-à-l'égout doit épurer ses eaux sur place.
+- Une fosse toutes eaux sépare les solides, puis le sol ou un filtre achève l'épuration grâce aux bactéries.
+- Micro-stations et filtres plantés de roseaux sont d'autres solutions autorisées.
+- Les toilettes sèches couvrent les excréments de sciure, puis les compostent pendant longtemps.
+- En France, le SPANC valide et contrôle les installations.
+

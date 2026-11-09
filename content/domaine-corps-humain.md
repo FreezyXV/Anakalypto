@@ -303,8 +303,21 @@ qu'accélérer ou ralentir ce rythme selon les besoins.
 - Les échanges se font uniquement dans les capillaires.
 - Le rythme cardiaque est généré par le cœur lui-même, pas par le cerveau.
 
-[Emplacement image : les deux circuits sanguins et les quatre cavités du cœur, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: cycle
+titre: Le double circuit du sang
+elements:
+  - titre: Cœur droit
+    texte: Il envoie le sang vers les poumons.
+    icone: heart
+  - titre: Poumons
+    texte: Le sang se charge en oxygène.
+  - titre: Cœur gauche
+    texte: Il envoie le sang vers tout le corps.
+    icone: heart
+  - titre: Capillaires du corps
+    texte: Les échanges avec les organes s'y font.
+```
 
 ---
 
@@ -405,8 +418,21 @@ permettent un contrôle efficace.
 - L'essentiel du sel consommé vient des aliments transformés.
 - Seule la mesure régulière permet de la repérer.
 
-[Emplacement image : variation de la pression au cours du cycle cardiaque, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: L'hypertension, un tueur silencieux
+centre: Hypertension
+icone: heart
+parties:
+  - nom: Premier facteur de risque
+    role: De mortalité dans le monde.
+  - nom: Aucun symptôme
+    role: Presque jamais avant une complication.
+  - nom: Le sel caché
+    role: Il vient surtout des aliments transformés.
+  - nom: La mesure régulière
+    role: Seule façon de la repérer.
+```
 
 ---
 
@@ -512,8 +538,17 @@ C'est davantage que le cancer et les maladies cardiovasculaires réunis.
 - La myéline multiplie la vitesse de transmission par plus de cinquante.
 - Les maladies neurologiques pèsent environ 800 milliards d'euros par an en Europe.
 
-[Emplacement image : structure d'un neurone et transmission synaptique, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le système nerveux en chiffres
+chiffres:
+  - valeur: 100 milliards
+    texte: de neurones environ
+  - valeur: Milliers de milliards
+    texte: de connexions
+  - valeur: "× 50"
+    texte: vitesse de transmission multipliée par la myéline, au moins
+```
 
 ---
 
@@ -620,8 +655,19 @@ sensations parfois intenses dans un membre qui n'existe plus.
 - Des périodes critiques conditionnent la mise en place de certaines fonctions.
 - Certaines réorganisations ne sont pas bénéfiques.
 
-[Emplacement image : réorganisation d'une carte corticale après perte sensorielle, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le cerveau se remodèle
+centre: Plasticité cérébrale
+icone: brain
+parties:
+  - nom: Synapses renforcées
+    role: Le mécanisme de base de la mémoire.
+  - nom: Périodes critiques
+    role: Certaines fonctions s'installent à un âge précis.
+  - nom: Toute la vie
+    role: Les connexions changent à tout âge, avec des limites.
+```
 
 ---
 
@@ -730,8 +776,18 @@ perdre connaissance par manque d'oxygène sans avoir jamais ressenti l'envie de 
 - Les vaisseaux se resserrent dans les zones mal ventilées.
 - C'est le dioxyde de carbone, pas l'oxygène, qui commande la respiration.
 
-[Emplacement image : alvéole et capillaire avec le sens des échanges, légende et texte alternatif
-à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le trajet de l'oxygène
+elements:
+  - titre: Inspiration
+  - titre: Alvéoles
+    texte: Environ 70 m² de surface d'échange.
+  - titre: Diffusion
+    texte: L'oxygène passe dans le sang, sans dépense d'énergie.
+  - titre: Rythme
+    texte: Commandé surtout par le taux de dioxyde de carbone.
+```
 
 ---
 
@@ -832,8 +888,19 @@ la sensation de satiété. C'est cette voie qu'exploitent plusieurs traitements 
 - Trois niveaux de repliement multiplient la surface d'absorption.
 - Des hormones intestinales coordonnent la digestion et informent le cerveau.
 
-[Emplacement image : les trois niveaux de repliement de l'intestin grêle, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Du repas à la cellule
+elements:
+  - titre: Bouche
+    texte: Mastication et salive.
+  - titre: Estomac
+    texte: L'acidité déplie les protéines et arrête des microbes.
+  - titre: Intestin grêle
+    texte: Trois niveaux de replis multiplient la surface d'absorption.
+  - titre: Gros intestin
+    texte: L'eau est réabsorbée.
+```
 
 ---
 
@@ -936,8 +1003,17 @@ aujourd'hui.
 - Le microbiote se met en place dès la naissance et se stabilise dans les premières années.
 - La communication intestin-cerveau existe, mais ses effets restent en cours d'étude.
 
-[Emplacement image : répartition du microbiote le long du tube digestif, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Ce que fait le microbiote pour nous
+legende: De l'ordre de dix mille milliards de micro-organismes.
+centre: Microbiote intestinal
+parties:
+  - nom: Digérer les fibres
+  - nom: Fabriquer des vitamines
+  - nom: Bloquer les bactéries dangereuses
+  - nom: Dialoguer avec le cerveau
+```
 
 ---
 
@@ -1037,8 +1113,17 @@ preuve de son efficacité : transplanter le microbiote d'un donneur sain, afin d
 - La restauration demande des semaines à des mois et reste parfois incomplète.
 - La transplantation de microbiote traite efficacement certaines infections récidivantes.
 
-[Emplacement image : évolution de la diversité du microbiote avant, pendant et après un
-traitement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Ce que fait un antibiotique au microbiote
+elements:
+  - titre: Traitement
+    texte: Il ne distingue pas bonnes et mauvaises bactéries.
+  - titre: Place libérée
+    texte: Les bactéries opportunistes en profitent.
+  - titre: Restauration lente
+    texte: Des semaines à des mois, parfois incomplète.
+```
 
 ---
 
@@ -1135,8 +1220,23 @@ exploite : créer la mémoire sans faire passer par la maladie.
 - L'inflammation est un signe de fonctionnement, pas un dysfonctionnement.
 - Les cellules mémoire permettent une réponse bien plus rapide à la deuxième rencontre.
 
-[Emplacement image : courbes de réponse immunitaire lors d'une première et d'une deuxième
-rencontre, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux défenses du corps
+colonnes:
+  - titre: Immunité innée
+    icone: shield
+    points:
+      - Réagit en quelques heures
+      - Sans cible précise
+      - Sans mémoire
+  - titre: Immunité adaptative
+    icone: microscope
+    points:
+      - Met des jours à se mettre en place
+      - Cible précisément un agent
+      - Garde une mémoire
+```
 
 ---
 
@@ -1238,8 +1338,17 @@ médicale en cas de risque élevé.
 - L'adrénaline injectable est le traitement d'urgence de l'anaphylaxie.
 - L'introduction alimentaire précoce est désormais recommandée chez le nourrisson.
 
-[Emplacement image : mécanisme de la réaction allergique en deux temps, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le mécanisme de l'allergie immédiate
+elements:
+  - titre: Première exposition
+    texte: Silencieuse, c'est la sensibilisation.
+  - titre: Nouvelle exposition
+    texte: La réaction se déclenche contre une substance inoffensive.
+  - titre: Anaphylaxie
+    texte: L'urgence se traite par adrénaline injectable.
+```
 
 ---
 
@@ -1350,8 +1459,18 @@ scolaires ne bougent pas. C'est un conflit structurel, pas un caprice.
 - Le cerveau rejoue pendant le sommeil les séquences apprises dans la journée.
 - La somnolence dégrade la conduite comme le ferait une alcoolémie significative.
 
-[Emplacement image : hypnogramme d'une nuit complète, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: comparaison
+titre: Une nuit de sommeil
+legende: Un cycle dure environ 90 minutes, répété quatre à six fois.
+colonnes:
+  - titre: Début de nuit
+    points:
+      - Le sommeil profond domine
+  - titre: Fin de nuit
+    points:
+      - Le sommeil paradoxal domine
+```
 
 ---
 
@@ -1449,8 +1568,15 @@ une efficacité importante, qui modifie la prise en charge des formes sévères.
 - L'environnement alimentaire et la sédentarité expliquent l'essentiel de la progression.
 - Les mesures efficaces agissent sur l'environnement plus que sur la volonté individuelle.
 
-[Emplacement image : évolution mondiale de la prévalence du surpoids et de l'obésité, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Le surpoids dans le monde en 2022
+chiffres:
+  - valeur: 2,5 milliards
+    texte: d'adultes en surpoids
+  - valeur: 890 millions
+    texte: d'adultes en obésité
+```
 
 ---
 
@@ -1551,8 +1677,19 @@ C'est pourquoi une simple marche après le repas abaisse réellement la glycémi
 - Les complications touchent petits et gros vaisseaux.
 - Le muscle en contraction absorbe le glucose sans passer par l'insuline.
 
-[Emplacement image : évolution de la sécrétion d'insuline et de la glycémie au fil des années,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment s'installe le diabète de type 2
+elements:
+  - titre: Résistance à l'insuline
+    texte: Des années avant le diagnostic.
+  - titre: Glycémie en hausse
+    texte: L'hémoglobine glyquée reflète deux à trois mois.
+  - titre: Complications
+    texte: Petits et gros vaisseaux.
+  - titre: Prévention
+    texte: Le muscle en activité consomme le glucose.
+```
 
 ---
 
@@ -1659,8 +1796,18 @@ Des mécanismes publics d'incitation tentent de corriger cela.
 - Les bactéries s'échangent des gènes de résistance entre espèces.
 - Le modèle économique décourage la recherche de nouveaux antibiotiques.
 
-[Emplacement image : mécanisme de sélection des bactéries résistantes, légende et texte
-alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment apparaît la résistance
+legende: 4,71 millions de décès associés en 2021.
+elements:
+  - titre: Antibiotique
+    texte: Il tue les bactéries sensibles.
+  - titre: Sélection
+    texte: Les résistantes survivent et se multiplient.
+  - titre: Échange de gènes
+    texte: Les bactéries se transmettent la résistance entre espèces.
+```
 
 ---
 
@@ -1766,8 +1913,20 @@ La variole a pu être éradiquée précisément parce qu'elle ne présentait auc
 - Le nombre de reproduction dépend du contexte, pas seulement de l'agent.
 - Contagiosité avant symptômes et réservoir animal empêchent l'éradication.
 
-[Emplacement image : chaîne de transmission et points de rupture, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: systeme
+titre: Les voies de transmission
+legende: Chaque voie appelle une mesure différente.
+centre: Maladie infectieuse
+icone: virus
+parties:
+  - nom: Gouttelettes
+  - nom: Aérosols
+  - nom: Contact
+  - nom: Eau et aliments
+  - nom: Vecteurs
+    role: Moustiques, tiques.
+```
 
 ---
 
@@ -1874,8 +2033,20 @@ qu'elle produit fait partie des symptômes, pas de la réalité du pronostic.
 - L'explication par un seul neurotransmetteur est aujourd'hui dépassée.
 - Psychothérapies et médicaments ont chacun des indications établies.
 
-[Emplacement image : critères diagnostiques et retentissement sur la vie quotidienne, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: La dépression
+centre: Dépression
+parties:
+  - nom: Diagnostic
+    role: Durée, ensemble de symptômes, retentissement.
+  - nom: Une charge mondiale
+    role: L'une des premières causes d'incapacité.
+  - nom: Des mécanismes multiples
+    role: Pas un seul neurotransmetteur.
+  - nom: Des soins efficaces
+    role: Psychothérapie et médicaments.
+```
 
 ---
 
@@ -1979,8 +2150,20 @@ la balance réelle n'a pas changé.
 - L'immunité collective protège ceux qui ne peuvent pas être vaccinés.
 - Le seuil avoisine 95 % pour la rougeole, très contagieuse.
 
-[Emplacement image : propagation d'un agent selon le taux de couverture vaccinale, légende et
-texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Comment marche un vaccin
+elements:
+  - titre: Présenter l'agent
+    texte: Atténué, inactivé, fragment ou ARN messager.
+    icone: syringe
+  - titre: Réponse immunitaire
+    texte: Sans passer par la maladie.
+  - titre: Mémoire
+    texte: Le corps reconnaîtra l'agent.
+  - titre: Immunité collective
+    texte: Elle protège ceux qui ne peuvent pas être vaccinés.
+```
 
 ---
 
@@ -2084,8 +2267,19 @@ donné. Ces derniers sont encore en évaluation clinique.
 - Une base modifiée évite sa destruction par la réaction inflammatoire.
 - La conception ne demande que la séquence génétique de la cible.
 
-[Emplacement image : trajet d'un ARN messager encapsulé jusqu'à la production de l'antigène,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Le vaccin à ARN messager
+elements:
+  - titre: La recette
+    texte: L'ARN apporte la recette de l'antigène.
+  - titre: Le cytoplasme
+    texte: Il y reste, sans toucher l'ADN.
+  - titre: L'antigène
+    texte: La cellule le fabrique.
+  - titre: La réponse
+    texte: Le système immunitaire apprend à le reconnaître.
+```
 
 ---
 
@@ -2201,8 +2395,18 @@ conclure. Et c'est précisément ce qu'on fait avant de recommander un programme
 - Le surdiagnostic conduit à traiter des lésions qui n'auraient jamais nui.
 - Seule la mortalité, jamais la survie, permet d'évaluer un programme.
 
-[Emplacement image : illustration du biais d'avance au diagnostic sur une ligne de temps,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Le dépistage, bénéfices et risques
+colonnes:
+  - titre: Bénéfices
+    points:
+      - Repérer tôt une maladie mieux traitée à ce stade
+  - titre: Risques
+    points:
+      - Faux positifs
+      - Surdiagnostic de lésions qui n'auraient jamais nui
+```
 
 ---
 
@@ -2319,8 +2523,17 @@ environ, sans interrompre les compressions plus de quelques secondes lors du cha
 - La qualité des compressions baisse après deux minutes : se relayer si plusieurs personnes sont présentes.
 - Agir dans les premières minutes, avant l'arrivée des secours, améliore nettement les chances de survie.
 
-[Emplacement image : position des mains et technique de compression thoracique sur un mannequin
-d'entraînement, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: chiffres
+titre: Les repères du massage cardiaque
+chiffres:
+  - valeur: 100 à 120
+    texte: compressions par minute
+  - valeur: 5 à 6 cm
+    texte: d'enfoncement au centre du thorax
+  - valeur: Relâcher
+    texte: laisser remonter le thorax entre chaque compression
+```
 
 ---
 
@@ -2492,8 +2705,17 @@ ne sont pas disponibles : un lien trop fin coupe la peau sans arrêter le saigne
 - Une fois posé, un garrot ne se retire que par un professionnel de santé.
 - Un adulte peut mourir d'une perte de sang en moins de cinq minutes.
 
-[Emplacement image : schéma des points de pression directe et de pose d'un garrot sur un bras,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Arrêter une hémorragie
+elements:
+  - titre: Pression directe
+    texte: Prolongée, elle arrête la plupart des saignements.
+  - titre: Pansement compressif
+    texte: Ne jamais retirer un pansement imbibé, on rajoute par-dessus.
+  - titre: Garrot
+    texte: En dernier recours, sur un membre, jamais sur une articulation.
+```
 
 ---
 
@@ -2575,6 +2797,21 @@ Une synapse est une zone de contact entre deux neurones, où le signal passe de 
 ## Arrêter, varier et apprendre
 
 Le message s'arrête quand les neurotransmetteurs sont détruits par des enzymes ou repris par le neurone émetteur pour être recyclés. Parmi les neurotransmetteurs figurent le glutamate, excitateur, le GABA, inhibiteur, la dopamine, la sérotonine et l'acétylcholine. L'apprentissage et la mémoire reposent sans doute sur des changements durables de la force des synapses, appelés plasticité synaptique. Un neurone a en moyenne des milliers de synapses avec d'autres neurones.
+
+```schema
+type: etapes
+titre: Le passage d'une synapse
+elements:
+  - titre: Signal électrique
+    texte: Il arrive au bout de l'axone.
+  - titre: Entrée du calcium
+    texte: Les neurotransmetteurs sont libérés.
+  - titre: Traversée de la fente
+    texte: Ils diffusent jusqu'à la cellule suivante.
+  - titre: Récepteurs
+    texte: Le message continue.
+    icone: brain
+```
 
 ## À retenir
 
@@ -2676,6 +2913,20 @@ Des terminaisons nerveuses spécialisées, les nocicepteurs, détectent les stim
 ## Aiguë, chronique et ses origines
 
 La douleur aiguë se déclare vite et disparaît en général quand la cause guérit. La douleur chronique dure plus de trois mois. Selon son origine, la douleur peut venir d'une lésion des tissus, d'une lésion d'un nerf, ou d'un traitement inhabituel de l'information par le système nerveux.
+
+```schema
+type: etapes
+titre: Du doigt au cerveau
+elements:
+  - titre: Nocicepteurs
+    texte: Ils détectent un stimulus nocif.
+  - titre: Nerfs
+    texte: L'information remonte.
+  - titre: Moelle épinière
+  - titre: Cerveau
+    texte: La douleur est ressentie, une alarme.
+    icone: brain
+```
 
 ## À retenir
 
@@ -2889,8 +3140,19 @@ bouche avant de le retirer avec un doigt.
   thorax, pas sur le ventre.
 - Une perte de connaissance impose de commencer immédiatement une réanimation.
 
-[Emplacement image : séquence des claques dans le dos puis de la manœuvre de Heimlich, légende
-et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Face à un étouffement
+elements:
+  - titre: Elle tousse
+    texte: La laisser tousser.
+  - titre: Elle ne peut plus tousser
+    texte: Cinq claques dans le dos.
+  - titre: Toujours bloquée
+    texte: Cinq compressions abdominales, la manœuvre de Heimlich.
+  - titre: Alterner
+    texte: Claques et compressions jusqu'au dégagement.
+```
 
 ---
 
@@ -3015,8 +3277,18 @@ une fontanelle creusée sont des signes plus graves qui nécessitent une prise e
   de sel peuvent dépanner.
 - Bouche sèche, urines rares et fatigue intense sont les premiers signes à surveiller.
 
-[Emplacement image : proportions d'eau, de sel et de sucre pour préparer un soluté de
-réhydratation orale, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Le soluté de réhydratation orale
+centre: Soluté
+icone: droplet
+parties:
+  - nom: Eau
+  - nom: Sel
+  - nom: Potassium
+  - nom: Sucre
+    role: Le glucose aide à absorber le sodium, donc l'eau.
+```
 
 ---
 
@@ -3105,8 +3377,18 @@ complète les apports en vitamine D quand l'alimentation seule ne suffit pas.
 - Le rachitisme, chez l'enfant, résulte d'un manque de vitamine D et déforme les os.
 - Varier son alimentation et s'exposer au soleil couvre la plupart des besoins de base.
 
-[Emplacement image : tableau illustrant les principales carences en vitamines et les aliments qui
-les préviennent, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: systeme
+titre: Des carences historiques
+centre: Carences en vitamines
+parties:
+  - nom: Scorbut
+    role: Manque de vitamine C.
+  - nom: Béribéri
+    role: Manque de vitamine B1.
+  - nom: Rachitisme
+    role: Manque de vitamine D.
+```
 
 ---
 
@@ -3185,6 +3467,21 @@ Ses nombreuses fonctions se regroupent en trois rôles : purifier, synthétiser 
 ## Un champion de la réparation
 
 Il possède une capacité de régénération remarquable : un fragment de foie peut reconstituer un organe entier.
+
+```schema
+type: systeme
+titre: Le foie
+centre: Foie
+parties:
+  - nom: Artère hépatique
+    role: Sang riche en oxygène.
+  - nom: Veine porte
+    role: Sang chargé de nutriments.
+  - nom: Bile
+    role: Elle aide à digérer les graisses.
+  - nom: Réparation
+    role: Un champion de la régénération.
+```
 
 ## À retenir
 
@@ -3302,8 +3599,20 @@ d'un manque global de nourriture ou d'un déséquilibre entre les différents nu
   calories par jour.
 - La diversité alimentaire protège mieux contre les carences qu'un seul aliment jugé complet.
 
-[Emplacement image : assiette équilibrée illustrant les proportions de glucides, protéines,
-graisses et légumes recommandées, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Les deux familles de nutriments
+colonnes:
+  - titre: Macronutriments
+    icone: apple
+    points:
+      - Glucides, protéines, graisses
+      - L'essentiel de l'énergie
+  - titre: Micronutriments
+    points:
+      - Une trentaine de vitamines et minéraux
+      - En petites quantités, indispensables
+```
 
 ---
 
@@ -3636,6 +3945,22 @@ La période propre de l'horloge humaine est un peu plus longue que vingt-quatre 
 
 Des horloges secondaires existent dans les organes, et l'horloge principale les synchronise. Trois chercheurs, Jeffrey Hall, Michael Rosbash et Michael Young, ont reçu un prix Nobel de physiologie ou médecine pour la découverte des mécanismes qui contrôlent ce rythme. Les nouveau-nés n'ont pas encore de rythme circadien établi ; la plupart le développent en quelques semaines.
 
+```schema
+type: etapes
+titre: L'horloge du corps
+elements:
+  - titre: Lumière
+    texte: La lumière bleue est le signal principal.
+    icone: sun
+  - titre: Rétine
+    texte: Des cellules à mélanopsine la détectent.
+    icone: eye
+  - titre: Noyau suprachiasmatique
+    texte: L'horloge principale, dans l'hypothalamus.
+  - titre: Horloges des organes
+    texte: Elles se calent sur elle.
+```
+
 ## À retenir
 
 - L'horloge principale du corps est le noyau suprachiasmatique, une zone de l'hypothalamus, dans le cerveau.
@@ -3754,6 +4079,18 @@ Le cancer est une maladie génétique : il est causé par des changements dans l
 ## Se propager, et un mot au pluriel
 
 Quand un cancer gagne un site éloigné, on parle de métastase ; les cellules gardent les caractéristiques de la tumeur d'origine. On parle de cancers au pluriel : ce sont de nombreuses maladies, qui dépendent des gènes, de l'environnement, de l'immunité et du milieu autour de la tumeur.
+
+```schema
+type: etapes
+titre: De la cellule normale au cancer
+elements:
+  - titre: Gènes modifiés
+    texte: Ceux qui contrôlent croissance et division.
+    icone: dna
+  - titre: Multiplication sans contrôle
+  - titre: Propagation
+    texte: Les cellules peuvent gagner d'autres organes.
+```
 
 ## À retenir
 
@@ -3937,8 +4274,20 @@ complété par des antibiotiques dans les cas les plus graves.
 - Le danger principal du choléra est la déshydratation rapide, pas la bactérie elle-même.
 - L'eau potable et les toilettes propres restent la meilleure protection contre la maladie.
 
-[Emplacement image : carte de John Snow situant les cas de choléra autour de la pompe de Broad
-Street en 1854, légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: frise
+titre: Le choléra et la naissance de l'épidémiologie
+evenements:
+  - date: Transmission
+    titre: Eau souillée
+    texte: Par des matières fécales.
+  - date: 1854
+    titre: John Snow
+    texte: Il remonte une épidémie de Londres jusqu'à une pompe.
+  - date: Aujourd'hui
+    titre: Prévenir et soigner
+    texte: Eau sûre et réhydratation.
+```
 
 ---
 
@@ -4021,8 +4370,19 @@ consulter rapidement.
 - Garder la plaie propre et humide sous un pansement changé chaque jour.
 - Rougeur qui s'étend, chaleur, pus ou fièvre sont les signaux d'une infection à surveiller.
 
-[Emplacement image : les quatre étapes du soin d'une plaie, du lavage des mains au pansement,
-légende et texte alternatif à fournir ultérieurement.]
+```schema
+type: etapes
+titre: Soigner une plaie
+elements:
+  - titre: Se laver les mains
+    texte: Le geste le plus important.
+  - titre: Rincer à l'eau claire
+    texte: Savon autour, jamais dans la plaie.
+  - titre: Protéger
+    texte: Un pansement changé chaque jour.
+  - titre: Surveiller
+    texte: Les signes d'infection.
+```
 
 ---
 
@@ -4164,9 +4524,20 @@ point de départ.
 - Bien cuire les aliments détruit la grande majorité des agents responsables de ces maladies.
 - Le lavage des mains et une eau traitée coupent la chaîne de transmission à sa source.
 
-[Emplacement image : les gestes d'hygiène essentiels, lavage des mains et cuisson des aliments,
-pour prévenir les maladies transmises par l'eau et la nourriture, légende et texte alternatif à
-fournir ultérieurement.]
+```schema
+type: comparaison
+titre: Trois maladies de l'eau et des aliments
+colonnes:
+  - titre: Typhoïde
+    points:
+      - Fièvre prolongée
+  - titre: Dysenterie
+    points:
+      - Diarrhée souvent sanglante
+  - titre: Hépatite A
+    points:
+      - Atteinte du foie, peau jaune
+```
 
 ---
 
@@ -4345,9 +4716,16 @@ prête, joue aussi un rôle important dans le rétablissement.
 - Une prise en charge précoce et un soutien de l'entourage améliorent les chances de
   rétablissement.
 
-[Emplacement image : représentation symbolique d'une personne accompagnée par un professionnel
-de santé mentale dans un cadre bienveillant, légende et texte alternatif à fournir
-ultérieurement.]
+```schema
+type: systeme
+titre: Les symptômes du stress post-traumatique
+centre: Après un événement traumatique
+parties:
+  - nom: Souvenirs intrusifs
+  - nom: Évitement
+  - nom: Vigilance excessive
+  - nom: Troubles du sommeil
+```
 
 ---
 
@@ -4653,6 +5031,19 @@ Le pouls change tout le temps. Il accélère pendant un effort, quand on a peur 
 
 Chez un adulte au repos, un pouls de moins de 40 ou de plus de 120 battements par minute, sans raison claire et avec un malaise, demande une aide médicale urgente. Un pouls inhabituel ne suffit pas à poser un diagnostic : seul un médecin peut dire ce qui se passe.
 
+```schema
+type: etapes
+titre: Prendre son pouls
+elements:
+  - titre: Trouver l'artère
+    texte: Au poignet ou au cou, contre un os.
+  - titre: Deux ou trois doigts
+    texte: Jamais le pouce.
+  - titre: Compter
+    texte: Les battements pendant le temps choisi.
+    icone: heart
+```
+
 ## À retenir
 
 - Le pouls est la vague de pression que le cœur envoie dans les artères à chaque battement.
@@ -4682,14 +5073,148 @@ title: Les facteurs de risque cardiovasculaire modifiables
 slug: les-facteurs-de-risque-cardiovasculaire-modifiables
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
-  Ce sur quoi chacun peut agir concretement pour proteger son coeur.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les maladies du cœur et des vaisseaux sont la première cause de mortalité dans le monde, mais une
+  large part de ce risque dépend de facteurs sur lesquels on peut agir : tabac, tension, cholestérol,
+  diabète, sédentarité, alimentation, poids et alcool.
+tags: [systeme-cardiovasculaire]
+relatedArticles: [pression-arterielle-et-hypertension, coeur-circulation-sanguine, cholesterol-ami-ou-ennemi, pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport]
+sources:
+  - title: "Maladies cardiovasculaires"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Facteur de risque cardiovasculaire"
+    url: "https://fr.wikipedia.org/wiki/Facteur_de_risque_cardiovasculaire"
+    publisher: "Wikipédia"
+  - title: "Cardiovascular disease"
+    url: "https://en.wikipedia.org/wiki/Cardiovascular_disease"
+    publisher: "Wikipedia"
+  - title: "Atherosclerosis"
+    url: "https://en.wikipedia.org/wiki/Atherosclerosis"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Lequel de ces facteurs de risque cardiovasculaire ne peut pas être modifié ?"
+    options:
+      - "Le tabagisme"
+      - "L'âge"
+      - "La sédentarité"
+    answer: 2
+    explanation: >
+      L'âge, le sexe et les antécédents familiaux ne se modifient pas. Le tabac, la sédentarité, la
+      tension ou le cholestérol, si.
+  - question: "Qu'est-ce que l'athérosclérose ?"
+    options:
+      - "Un rythme cardiaque trop lent"
+      - "L'accumulation de dépôts graisseux dans la paroi des artères, qui les rétrécit et les durcit"
+      - "Une infection du cœur"
+    answer: 2
+    explanation: >
+      Ces plaques réduisent le passage du sang et peuvent se rompre, provoquant un caillot à l'origine
+      d'un infarctus ou d'un AVC.
+  - question: "Pourquoi l'hypertension est-elle surnommée « tueur silencieux » ?"
+    options:
+      - "Parce qu'elle ne donne le plus souvent aucun symptôme pendant des années"
+      - "Parce qu'elle ne touche que les personnes âgées"
+      - "Parce qu'elle se soigne seule"
+    answer: 1
+    explanation: >
+      On peut avoir une tension trop élevée sans rien ressentir. Seule une mesure régulière permet de
+      la repérer.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Les **maladies cardiovasculaires**, infarctus du myocarde, accident vasculaire cérébral, insuffisance
+cardiaque, sont la **première cause de décès dans le monde** selon l'Organisation mondiale de la santé,
+avec environ 18 millions de morts par an. Certains facteurs de risque ne se changent pas : l'âge, le
+sexe, l'hérédité. Mais la plupart dépendent de notre mode de vie ou se soignent : **tabac**,
+**hypertension**, **cholestérol**, **diabète**, **sédentarité**, **alimentation**, **surpoids** et
+**alcool**. Une grande étude internationale, INTERHEART, a estimé qu'une poignée de ces facteurs
+explique la très grande majorité des infarctus.
+
+## Le mécanisme commun, l'athérosclérose
+
+La plupart de ces facteurs abîment les artères de la même façon. Ils favorisent l'**athérosclérose** :
+des dépôts de graisses, de cellules et de calcium, appelés **plaques**, s'accumulent dans la paroi des
+artères. Celles-ci se rétrécissent et durcissent. Un jour, une plaque peut se fissurer : un **caillot**
+se forme et bouche l'artère. Dans le cœur, c'est l'infarctus ; dans le cerveau, l'AVC.
+
+## Les principaux facteurs sur lesquels agir
+
+```schema
+type: systeme
+titre: Les facteurs de risque que l'on peut changer
+legende: Ils abîment les artères par le même mécanisme et se renforcent les uns les autres.
+centre: Risque cardiovasculaire
+icone: heart
+parties:
+  - nom: Tabac
+    role: Abîme la paroi des artères
+    icone: fire
+  - nom: Hypertension
+    role: Use les vaisseaux sans bruit
+    icone: thermometer
+  - nom: Cholestérol LDL
+    role: Nourrit les plaques
+    icone: droplet
+  - nom: Diabète
+    role: Le sucre en excès abîme les vaisseaux
+    icone: syringe
+  - nom: Sédentarité
+    role: Le manque de mouvement affaiblit le cœur
+    icone: dumbbell
+  - nom: Alimentation
+    role: Trop de sel, de sucre, de graisses
+    icone: apple
+  - nom: Surpoids abdominal
+    role: Aggrave tension et diabète
+    icone: scales
+  - nom: Alcool
+    role: Élève la tension à forte dose
+    icone: bubbles
+```
+
+- **Le tabac** est l'un des facteurs les plus puissants. Il abîme la paroi des artères, favorise les
+  caillots et réduit l'oxygène du sang. Le risque diminue dès l'arrêt et continue de baisser pendant des
+  années.
+- **L'hypertension artérielle** use les vaisseaux et le cœur. Elle ne donne souvent aucun symptôme :
+  seule une mesure la révèle.
+- **Le cholestérol LDL** en excès se dépose dans les plaques. Il se réduit par l'alimentation, l'activité
+  physique et, si besoin, des médicaments.
+- **Le diabète** abîme les petits et les grands vaisseaux. Bien équilibré, il expose à moins de
+  complications.
+- **La sédentarité** : l'activité physique régulière abaisse la tension, améliore le cholestérol et le
+  contrôle du sucre. L'OMS recommande au moins 150 minutes d'activité modérée par semaine pour les
+  adultes.
+- **L'alimentation** : trop de sel élève la tension ; une alimentation riche en légumes, fruits,
+  légumineuses, céréales complètes et poissons protège.
+- **Le surpoids**, surtout la graisse autour du ventre, aggrave la tension, le cholestérol et le
+  diabète.
+- **L'alcool** à forte dose élève la tension et perturbe le rythme du cœur.
+
+Le **stress chronique** et le **manque de sommeil** jouent aussi un rôle, plus difficile à mesurer.
+
+## Des risques qui s'additionnent
+
+Ces facteurs ne s'ajoutent pas simplement : ils se **multiplient**. Une personne qui fume, a une
+tension élevée et trop de cholestérol a un risque bien supérieur à la somme des trois. À l'inverse,
+agir sur plusieurs facteurs à la fois réduit fortement le risque. Les médecins évaluent souvent un
+**risque global** à dix ans, en combinant l'âge, le sexe, la tension, le cholestérol et le tabac.
+
+## Le dépistage
+
+La plupart de ces facteurs sont **silencieux**. Mesurer sa tension, faire un bilan sanguin du
+cholestérol et du sucre à intervalles réguliers, surtout après 40 ans ou en cas d'antécédents
+familiaux, permet de les repérer avant les complications.
+
+## À retenir
+
+- Les maladies cardiovasculaires sont la première cause de décès dans le monde.
+- La plupart des facteurs de risque sont modifiables : tabac, tension, cholestérol, diabète, sédentarité, alimentation, poids, alcool.
+- Ils abîment les artères par un mécanisme commun, l'athérosclérose.
+- Leurs effets se multiplient, et agir sur plusieurs à la fois réduit fortement le risque.
+- Ces facteurs sont souvent silencieux : seul un dépistage régulier les révèle.
 
 ---
 type: article
@@ -4790,6 +5315,22 @@ En France, depuis un décret de 2007, toute personne, même non médecin, a le d
 ## Chaque minute compte
 
 Lors d'un arrêt cardiaque, les chances de survie baissent d'environ 10 % à chaque minute qui passe sans aide. Il faut donc agir vite : appeler les secours, commencer le massage cardiaque et faire chercher un défibrillateur. Le massage fait circuler un peu de sang et apporte de l'oxygène au cœur. Il rend le choc plus efficace. Les deux gestes vont ensemble.
+
+```schema
+type: etapes
+titre: Le défibrillateur
+elements:
+  - titre: Fibrillation
+    texte: Le cœur tremble au lieu de pomper.
+  - titre: Analyse
+    texte: L'appareil ne choque que si c'est utile.
+  - titre: Choc
+    texte: Il arrête les signaux désordonnés.
+    icone: bolt
+  - titre: Reprise
+    texte: Le cœur peut repartir à son rythme.
+    icone: heart
+```
 
 ## À retenir
 
@@ -5090,14 +5631,136 @@ title: Le garrot, comment et quand l'utiliser
 slug: le-garrot-comment-et-quand-l-utiliser
 categoryPath: corps-humain-et-sante/anatomie/systeme-cardiovasculaire
 summary: >
-  Un geste extreme reserve aux hemorragies massives incontrolables autrement.
-tags: [systeme-cardiovasculaire, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une hémorragie massive d'un bras ou d'une jambe peut tuer en quelques minutes. On appuie d'abord
+  fort sur la plaie ; si cela ne suffit pas ou est impossible, on pose un garrot au-dessus de la
+  blessure, on note l'heure et on ne le desserre plus.
+tags: [systeme-cardiovasculaire]
+relatedArticles: [regle-des-trois-priorites-survie, la-gestion-d-une-plaie-pour-eviter-une-infection, kit-urgence-72-heures]
+sources:
+  - title: "Garrot"
+    url: "https://fr.wikipedia.org/wiki/Garrot"
+    publisher: "Wikipédia"
+  - title: "Tourniquet"
+    url: "https://en.wikipedia.org/wiki/Tourniquet"
+    publisher: "Wikipedia"
+  - title: "Stop the Bleed"
+    url: "https://www.stopthebleed.org/"
+    publisher: "American College of Surgeons"
+  - title: "Hémorragie"
+    url: "https://fr.wikipedia.org/wiki/H%C3%A9morragie"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Quel est le premier geste face à une plaie qui saigne abondamment ?"
+    options:
+      - "Appuyer fortement et sans relâcher directement sur la plaie"
+      - "Poser un garrot immédiatement dans tous les cas"
+      - "Laver la plaie à grande eau"
+    answer: 1
+    explanation: >
+      La compression directe, avec la main protégée ou un tissu, arrête la plupart des
+      hémorragies. Le garrot vient si elle est inefficace ou impossible.
+  - question: "Où place-t-on un garrot ?"
+    options:
+      - "Directement sur la plaie"
+      - "Entre la plaie et la racine du membre, à quelques centimètres au-dessus de la blessure, jamais sur une articulation"
+      - "Sous la plaie, vers la main ou le pied"
+    answer: 2
+    explanation: >
+      Le garrot écrase les vaisseaux qui amènent le sang vers la plaie. On le serre jusqu'à l'arrêt
+      complet du saignement.
+  - question: "Une fois posé, que faut-il faire du garrot ?"
+    options:
+      - "Le desserrer toutes les dix minutes"
+      - "Le retirer dès que le saignement s'arrête"
+      - "Noter l'heure de pose et ne jamais le desserrer avant l'arrivée des secours"
+    answer: 3
+    explanation: >
+      Le desserrer peut relancer l'hémorragie. Les secours ont besoin de l'heure de pose pour la
+      prise en charge.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une **hémorragie massive**, sang qui coule à flots ou gicle, peut vider le corps d'une quantité
+mortelle de sang en quelques minutes. Les secours n'arrivent pas toujours à temps : les gestes du
+témoin sont décisifs. Le premier est la **compression directe** de la plaie. Si elle ne suffit pas, ou
+si elle est impossible, plusieurs victimes, plaie inaccessible, membre arraché, on pose un **garrot**
+sur le bras ou la jambe, au-dessus de la blessure. On note l'**heure**, on ne le desserre plus, et on
+appelle les secours.
+
+## Reconnaître une hémorragie grave
+
+- Le sang **coule abondamment** ou **gicle** de façon continue.
+- Un vêtement se gorge de sang en quelques secondes, une flaque se forme.
+- La victime pâlit, a froid, se sent faible, devient agitée ou confuse : ce sont des signes de choc.
+
+## Les gestes dans l'ordre
+
+1. **Se protéger** : gants, sac plastique, ou à défaut un tissu.
+2. **Appuyer fortement** sur la plaie avec la main ou un tissu propre plié, et **ne plus relâcher**.
+3. Allonger la victime.
+4. **Appeler ou faire appeler** le 15, le 18 ou le 112.
+5. Si la compression ne suffit pas ou ne peut pas être maintenue, **poser un garrot** sur le membre.
+6. Couvrir la victime pour lui éviter le froid et la surveiller.
+
+Un pansement compressif, une compresse épaisse maintenue serrée par une bande, peut remplacer la main
+une fois le saignement contrôlé.
+
+## Poser un garrot
+
+Le garrot écrase le membre assez fort pour arrêter la circulation dans les artères qui alimentent la
+plaie.
+
+- **Où** : entre la plaie et la racine du membre, **à quelques centimètres au-dessus** de la blessure,
+  ou le plus haut possible sur le membre si la plaie est mal visible. **Jamais sur une articulation**,
+  coude ou genou.
+- **Comment** : avec un garrot du commerce, on passe la sangle autour du membre, on tire fort, puis on
+  tourne la tige jusqu'à **l'arrêt complet** du saignement, et on la bloque.
+- **Garrot improvisé** : une bande large d'au moins 3 à 4 cm, cravate, écharpe, ceinture de tissu,
+  nouée autour du membre, et un bâton glissé dans le nœud que l'on tourne pour serrer. Une ficelle ou
+  un fil trop fin coupe les tissus sans bien comprimer.
+- **Noter l'heure** de pose, sur le garrot, sur le front de la victime ou sur un papier.
+- **Ne jamais desserrer** le garrot : seuls les secours ou un médecin le retireront.
+
+Un garrot bien serré fait très mal : c'est normal et ce n'est pas une raison pour le relâcher.
+
+```schema
+type: etapes
+titre: Face à une hémorragie massive
+elements:
+  - titre: Se protéger
+    texte: Gants, sac plastique ou tissu.
+  - titre: Comprimer
+    texte: Appuyer fort sur la plaie, sans relâcher.
+  - titre: Alerter
+    texte: Le 15, le 18 ou le 112.
+  - titre: Garrot si besoin
+    texte: Quelques centimètres au-dessus, jamais sur une articulation.
+  - titre: Noter l'heure
+    texte: Et ne plus jamais desserrer.
+```
+
+## Ce que le garrot ne fait pas
+
+On ne pose pas de garrot sur le cou, le tronc ou à la racine d'un membre où il ne peut pas tenir.
+Pour une plaie de ces zones, on comprime directement et fortement, éventuellement en bourrant la plaie
+de compresses ou de tissu propre, puis en appuyant.
+
+## Se former
+
+Les gestes de premiers secours, compression, garrot, position latérale de sécurité, massage
+cardiaque, s'apprennent en quelques heures dans les formations de type PSC en France, ou avec des
+programmes comme *Stop the Bleed*. Un garrot du commerce a sa place dans une trousse de secours.
+
+## À retenir
+
+- Une hémorragie massive peut tuer en quelques minutes : chaque seconde compte.
+- On commence par appuyer fortement et sans relâcher sur la plaie.
+- Si cela ne suffit pas, on pose un garrot quelques centimètres au-dessus de la plaie, jamais sur une articulation.
+- On serre jusqu'à l'arrêt du saignement, on note l'heure, on ne desserre plus.
+- On appelle le 15, le 18 ou le 112 et l'on se forme aux premiers secours.
 
 ---
 type: article
@@ -5173,6 +5836,20 @@ Ensuite, des facteurs de coagulation, des protéines du plasma, déclenchent une
 ## Dissoudre et équilibrer
 
 Quand le vaisseau est réparé, le caillot se dissout : c'est la fibrinolyse, où une enzyme, la plasmine, détruit la fibrine. La vitamine K est nécessaire au bon fonctionnement de plusieurs facteurs de coagulation. Le foie fabrique la plupart des facteurs de coagulation. Un équilibre entre les facteurs qui favorisent la coagulation et ceux qui l'empêchent évite à la fois les hémorragies et les caillots indésirables.
+
+```schema
+type: etapes
+titre: Comment le sang coagule
+elements:
+  - titre: Plaquettes
+    texte: Elles forment un bouchon.
+  - titre: Thrombine
+    texte: Elle transforme le fibrinogène en fibrine.
+  - titre: Filet de fibrine
+    texte: Il scelle la plaie.
+  - titre: Dissolution
+    texte: Le caillot se dissout ensuite.
+```
 
 ## À retenir
 
@@ -5949,18 +6626,139 @@ status: planned
 
 ---
 type: article
-title: La rehydratation orale en cas de diarrhee severe
+title: La réhydratation orale en cas de diarrhée sévère
 slug: la-rehydratation-orale-en-cas-de-diarrhee-severe
 categoryPath: corps-humain-et-sante/anatomie/systeme-digestif
 summary: >
-  Une solution simple qui reste, dans le monde, un geste qui sauve des vies.
-tags: [systeme-digestif, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une diarrhée sévère tue surtout par la perte d'eau et de sels. Une solution simple d'eau sûre, de
+  sucre et de sel, bue par petites gorgées, compense cette perte. Elle a sauvé des dizaines de
+  millions de vies depuis les années 1970.
+tags: [systeme-digestif]
+relatedArticles: [purifier-eau-situation-urgence, regle-des-trois-priorites-survie]
+sources:
+  - title: "Oral rehydration therapy"
+    url: "https://en.wikipedia.org/wiki/Oral_rehydration_therapy"
+    publisher: "Wikipedia"
+  - title: "Diarrhoeal disease"
+    url: "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Soluté de réhydratation orale"
+    url: "https://fr.wikipedia.org/wiki/Solut%C3%A9_de_r%C3%A9hydratation_orale"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Pourquoi le sucre est-il important dans une solution de réhydratation ?"
+    options:
+      - "Parce qu'il aide l'intestin à absorber le sel, et donc l'eau"
+      - "Pour donner bon goût uniquement"
+      - "Pour tuer les microbes"
+    answer: 1
+    explanation: >
+      Dans l'intestin, le glucose et le sodium sont absorbés ensemble, et l'eau les suit. C'est ce
+      mécanisme qui rend la solution efficace.
+  - question: "Quelle recette simple peut-on préparer quand on n'a pas de sachets ?"
+    options:
+      - "Un litre de soda"
+      - "Un litre d'eau sûre, six cuillères à café rases de sucre et une demi-cuillère à café rase de sel"
+      - "Un litre d'eau et une poignée de sel"
+    answer: 2
+    explanation: >
+      Les proportions comptent : trop de sel est dangereux, surtout pour un enfant. On mesure avec
+      soin.
+  - question: "Quel signe impose de consulter en urgence ?"
+    options:
+      - "Une légère soif"
+      - "Une seule selle molle"
+      - "Une somnolence, l'absence d'urine pendant plusieurs heures ou du sang dans les selles"
+    answer: 3
+    explanation: >
+      Ces signes indiquent une déshydratation grave ou une infection sérieuse. Les nourrissons et
+      les personnes âgées sont les plus fragiles.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Une diarrhée sévère, due par exemple à une eau contaminée, fait perdre en quelques heures beaucoup
+d'**eau** et de **sels minéraux**. C'est cette **déshydratation**, plus que le microbe lui-même, qui
+tue, surtout les jeunes enfants. La **réhydratation orale** consiste à boire une solution d'eau sûre,
+de sucre et de sel, en petites quantités et souvent. Diffusée massivement à partir des années 1970,
+elle a sauvé des dizaines de millions de vies. Selon l'OMS, les maladies diarrhéiques restent
+pourtant l'une des premières causes de décès des enfants de moins de cinq ans.
+
+## Pourquoi l'eau seule ne suffit pas
+
+Pendant une diarrhée, l'intestin rejette de l'eau mais aussi du **sodium** et du **potassium**. Boire
+de l'eau pure ne remplace pas ces sels, et l'intestin malade l'absorbe mal.
+
+La découverte clé, dans les années 1960, est que l'intestin, même malade, continue d'absorber le
+**sodium** quand il est accompagné de **glucose** : les deux traversent ensemble la paroi intestinale,
+et l'eau les suit. Une solution bien dosée en sucre et en sel est donc absorbée bien mieux que l'eau.
+
+## Les sachets de sels de réhydratation
+
+Les pharmacies vendent des **sachets de sels de réhydratation orale**, à dissoudre dans le volume
+d'eau indiqué. C'est la solution à privilégier : leur composition, recommandée par l'OMS et l'UNICEF,
+est précise. Ils ont leur place dans un kit d'urgence.
+
+## La recette de secours
+
+Sans sachet, on peut préparer une solution maison :
+
+- **1 litre d'eau sûre**, bouillie et refroidie ou désinfectée ;
+- **6 cuillères à café rases de sucre** ;
+- **½ cuillère à café rase de sel**.
+
+On mélange jusqu'à dissolution complète. Le goût ne doit pas être plus salé que des larmes. **Trop de
+sel est dangereux**, surtout pour un enfant : on mesure avec soin. On peut ajouter un peu de jus de
+fruit ou manger une banane pour apporter du potassium.
+
+```schema
+type: chiffres
+titre: La recette de secours
+legende: À utiliser sans sachet de sels de réhydratation. Trop de sel est dangereux.
+chiffres:
+  - valeur: 1 litre
+    texte: d'eau sûre, bouillie et refroidie ou désinfectée
+  - valeur: 6 cuillères
+    texte: à café rases de sucre
+  - valeur: ½ cuillère
+    texte: à café rase de sel
+```
+
+## Comment la boire
+
+- Par **petites gorgées**, ou à la cuillère pour un enfant, toutes les une ou deux minutes, même s'il
+  vomit : on attend dix minutes et l'on reprend plus lentement.
+- Après chaque selle liquide, un enfant de moins de deux ans peut boire environ un quart à une demi-
+  tasse, un enfant plus grand une demi-tasse à une tasse, un adulte autant qu'il le souhaite.
+- On **continue de manger** dès que possible, et l'on poursuit l'allaitement des nourrissons.
+- Pour les enfants, l'OMS recommande aussi un complément de **zinc** pendant 10 à 14 jours, sur avis
+  médical.
+
+## Les signes de gravité
+
+On consulte en urgence si :
+
+- la personne est **somnolente**, très faible ou confuse ;
+- elle **n'urine plus** depuis plusieurs heures ;
+- les yeux sont creusés, la bouche très sèche, la peau garde le pli quand on la pince ;
+- les selles contiennent du **sang**, ou la fièvre est élevée ;
+- les vomissements empêchent de boire ;
+- il s'agit d'un **nourrisson** ou d'une personne âgée fragile.
+
+## Prévenir
+
+Eau sûre, lavage des mains au savon, toilettes ou latrines éloignées des points d'eau, aliments cuits
+et conservés proprement : ces mesures préviennent la plupart des diarrhées infectieuses.
+
+## À retenir
+
+- La diarrhée sévère tue surtout par la perte d'eau et de sels.
+- Le sucre aide l'intestin à absorber le sel, et l'eau suit.
+- Les sachets de sels de réhydratation sont la meilleure solution.
+- Recette de secours : 1 litre d'eau sûre, 6 cuillères à café rases de sucre, ½ cuillère à café rase de sel.
+- Somnolence, absence d'urine, sang dans les selles ou nourrisson imposent de consulter en urgence.
 
 ---
 type: article
@@ -6126,6 +6924,21 @@ Le réflexe de retrait est une réaction automatique à un stimulus douloureux, 
 ## Simple, complexe, inné ou appris
 
 Dans les réflexes plus complexes, des neurones intermédiaires interviennent, par exemple pour bloquer le muscle opposé. Certains réflexes sont innés, d'autres s'acquièrent par l'apprentissage. Les réflexes sont affinés pour augmenter les chances de survie et de défense.
+
+```schema
+type: etapes
+titre: L'arc réflexe
+elements:
+  - titre: Récepteur
+    texte: La peau détecte la brûlure.
+    icone: fire
+  - titre: Neurone sensitif
+    texte: Il porte le signal à la moelle épinière.
+  - titre: Moelle épinière
+    texte: Sans passer par le cerveau.
+  - titre: Neurone moteur
+    texte: Il commande le muscle, qui retire la main.
+```
 
 ## À retenir
 
@@ -6371,6 +7184,23 @@ Si la température du corps descend sous 35 °C, on parle d'hypothermie. C'est d
 Pendant une fièvre, le thermostat n'est pas en panne. Il est réglé plus haut que d'habitude. Le corps se croit alors trop froid : on frissonne et on a envie de se couvrir, même quand la température monte.
 
 L'être humain dispose aussi d'un moyen très efficace : son comportement. Mettre ou enlever un pull, chercher l'ombre ou un abri, bouger pour se réchauffer. Ces gestes simples complètent le travail du thermostat intérieur.
+
+```schema
+type: comparaison
+titre: Le thermostat du corps
+legende: L'hypothalamus garde le corps vers 37 °C.
+colonnes:
+  - titre: Trop chaud
+    icone: sun
+    points:
+      - On transpire
+      - Les vaisseaux de la peau se dilatent
+  - titre: Trop froid
+    icone: snowflake
+    points:
+      - On frissonne
+      - Les vaisseaux de la peau se resserrent
+```
 
 ## À retenir
 
@@ -6669,6 +7499,18 @@ Les poumons apportent de l'oxygène au corps et en retirent le dioxyde de carbon
 
 Pour inspirer, le diaphragme et les muscles intercostaux se contractent : le volume de la cage thoracique augmente et l'air entre. L'expiration normale est passive : les muscles se relâchent et le poumon reprend sa forme grâce à son élasticité. Une substance appelée surfactant aide les poumons à se gonfler et les empêche de s'affaisser. Une double membrane, la plèvre, enveloppe les poumons, et un liquide la lubrifie à chaque respiration.
 
+```schema
+type: etapes
+titre: Un arbre qui finit en ballons
+elements:
+  - titre: Bronches
+  - titre: Bronchioles
+  - titre: Alvéoles
+    texte: De minuscules sacs à paroi très fine.
+  - titre: Capillaires
+    texte: L'oxygène passe dans le sang.
+```
+
 ## À retenir
 
 - Les voies aériennes se ramifient à de nombreuses reprises, des bronches aux bronchioles, et se terminent par de minuscules sacs, les alvéoles.
@@ -6884,6 +7726,23 @@ La grippe est plus dangereuse que le rhume. En France, elle touche entre 2 et 7 
 ## Un vaccin pour la grippe
 
 Il existe un vaccin contre la grippe, mais pas contre le rhume. Comme le virus de la grippe change sans cesse, le vaccin est mis à jour et refait chaque année. Il est surtout conseillé aux personnes fragiles.
+
+```schema
+type: comparaison
+titre: Rhume ou grippe
+colonnes:
+  - titre: Rhume
+    points:
+      - Souvent un rhinovirus
+      - Nez qui coule, souvent sans fièvre
+      - Guérit en une semaine environ
+  - titre: Grippe
+    icone: virus
+    points:
+      - Virus influenza
+      - Début brutal, épuisement
+      - Un vaccin existe
+```
 
 ## À retenir
 
@@ -7434,6 +8293,18 @@ Il existe une autre méthode, la dialyse péritonéale. Elle utilise une membran
 
 Le médecin néerlandais Willem Kolff a construit le premier dialyseur utilisable en 1943. En 1945, il a soigné une femme de 67 ans tombée dans le coma parce que ses reins ne marchaient plus. Après 11 heures de dialyse, elle s'est réveillée.
 
+```schema
+type: etapes
+titre: La dialyse
+legende: Les reins filtrent environ 1 700 litres de sang par jour.
+elements:
+  - titre: Sang prélevé
+  - titre: Filtre à membrane
+    texte: Seules les petites molécules la traversent.
+  - titre: Déchets retirés
+  - titre: Sang rendu au corps
+```
+
 ## À retenir
 
 - Les reins filtrent environ 1 700 litres de sang par jour pour retirer les déchets et l'eau en trop.
@@ -7834,6 +8705,21 @@ Le vaccin contre le tétanos est l'un des plus efficaces. Mais la protection dim
 
 Grâce à la vaccination, le tétanos a beaucoup reculé. En 2015, il a encore causé environ 59 000 morts dans le monde, contre 356 000 en 1990.
 
+```schema
+type: etapes
+titre: Le tétanos
+elements:
+  - titre: Spores dans la terre
+    texte: Terre, poussière, fumier.
+  - titre: Petite blessure
+    texte: Une écharde suffit.
+  - titre: Toxine
+    texte: Elle empêche les muscles de se relâcher.
+  - titre: Protection
+    texte: Le vaccin.
+    icone: syringe
+```
+
 ## À retenir
 
 - Le tétanos est dû à une bactérie dont les spores vivent dans la terre, la poussière et le fumier.
@@ -7986,6 +8872,20 @@ C'est le zona. Des cloques apparaissent en bande, d'un seul côté du corps, en 
 ## Se protéger
 
 Il existe un vaccin contre la varicelle. Il existe aussi un vaccin contre le zona, autorisé en Europe depuis 2018. Dans les essais, il a été efficace à plus de 97 %. En France, il est remboursé pour les personnes de 65 ans et plus et pour celles dont les défenses sont affaiblies.
+
+```schema
+type: etapes
+titre: De la varicelle au zona
+elements:
+  - titre: Varicelle
+    texte: Très contagieuse, par l'air.
+    icone: virus
+  - titre: Virus endormi
+    texte: Dans des ganglions nerveux.
+  - titre: Défenses affaiblies
+  - titre: Zona
+    texte: Le virus se réveille.
+```
 
 ## À retenir
 
@@ -8192,6 +9092,18 @@ Le CDC recommande de frotter ses mains avec du savon au moins 20 secondes. Se la
 ## Avant de commencer
 
 Il faut de l'eau propre et du savon, ou une solution désinfectante. En cas de symptômes, consulter un professionnel de santé.
+
+```schema
+type: etapes
+titre: La mesure de Semmelweis
+elements:
+  - titre: Le constat
+    texte: Environ 18 % des accouchées mouraient dans la première clinique.
+  - titre: La mesure
+    texte: Lavage des mains au chlorure de chaux.
+  - titre: Le résultat
+    texte: La mortalité chute.
+```
 
 ## À retenir
 
@@ -8423,6 +9335,20 @@ Avec SODIS, 6 heures de plein soleil dans une bouteille transparente en PET suff
 
 Il faut savoir faire un feu, ou disposer de soleil et de bouteilles transparentes. En cas de doute sur une source d'eau, demander l'avis d'un professionnel de santé.
 
+```schema
+type: etapes
+titre: Rendre l'eau sûre
+elements:
+  - titre: Décanter ou filtrer
+    texte: À travers un tissu propre si l'eau est trouble.
+  - titre: Faire bouillir
+    texte: Une minute à gros bouillons, trois au-dessus de 2 000 m.
+    icone: fire
+  - titre: Ou SODIS
+    texte: Bouteille transparente au plein soleil.
+    icone: sun
+```
+
 ## À retenir
 
 - Faire bouillir une eau claire à gros bouillons pendant 1 minute tue les germes (3 minutes au-dessus d'environ 2 000 m).
@@ -8478,18 +9404,144 @@ status: planned
 
 ---
 type: article
-title: La gestion d'une plaie pour eviter une infection
+title: La gestion d'une plaie pour éviter une infection
 slug: la-gestion-d-une-plaie-pour-eviter-une-infection
 categoryPath: corps-humain-et-sante/maladies/maladies-infectieuses
 summary: >
-  Des gestes de base essentiels avant meme d'avoir acces a un medecin.
-tags: [maladies-infectieuses, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Une petite plaie mal soignée peut s'infecter et devenir grave. Laver à l'eau et au savon,
+  retirer les saletés, protéger avec un pansement propre et surveiller les signes d'infection
+  suffit dans la plupart des cas. Le vaccin contre le tétanos doit être à jour.
+tags: [maladies-infectieuses]
+relatedArticles: [le-garrot-comment-et-quand-l-utiliser, decouverte-penicilline, semmelweis-lavage-mains, la-fabrication-traditionnelle-du-savon]
+sources:
+  - title: "Plaie"
+    url: "https://fr.wikipedia.org/wiki/Plaie"
+    publisher: "Wikipédia"
+  - title: "Tétanos"
+    url: "https://fr.wikipedia.org/wiki/T%C3%A9tanos"
+    publisher: "Wikipédia"
+  - title: "Wound"
+    url: "https://en.wikipedia.org/wiki/Wound"
+    publisher: "Wikipedia"
+  - title: "Tetanus"
+    url: "https://www.who.int/news-room/fact-sheets/detail/tetanus"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Quel est le geste le plus important pour éviter qu'une plaie s'infecte ?"
+    options:
+      - "La laver soigneusement à l'eau et au savon"
+      - "La laisser à l'air sans rien faire"
+      - "La couvrir de terre"
+    answer: 1
+    explanation: >
+      Le lavage retire la saleté et la plupart des microbes. C'est plus important que le choix du
+      désinfectant.
+  - question: "Quel signe montre qu'une plaie s'infecte ?"
+    options:
+      - "Une croûte qui se forme"
+      - "Une rougeur qui s'étend, de la chaleur, du pus, une douleur qui augmente ou de la fièvre"
+      - "Une légère démangeaison en fin de cicatrisation"
+    answer: 2
+    explanation: >
+      Une traînée rouge qui remonte le long du membre ou de la fièvre imposent de consulter
+      rapidement.
+  - question: "Pourquoi faut-il être vacciné contre le tétanos ?"
+    options:
+      - "Pour cicatriser plus vite"
+      - "Pour éviter les cicatrices"
+      - "Parce que la bactérie du tétanos, présente dans la terre, peut entrer par n'importe quelle plaie et provoquer une maladie mortelle"
+    answer: 3
+    explanation: >
+      Le tétanos provoque des contractures musculaires graves. Le vaccin est très efficace, mais
+      demande des rappels réguliers.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La peau est une barrière contre les microbes. Une coupure, une écorchure ou une morsure l'ouvre.
+Dans la grande majorité des cas, le corps répare seul, à condition de lui donner un coup de main :
+**laver** la plaie, **retirer** les saletés, la **protéger** avec un pansement propre, puis
+**surveiller** l'apparition d'une infection. La vaccination contre le **tétanos** doit être à jour.
+Quand les soins médicaux sont loin, ces gestes simples prennent encore plus d'importance.
+
+## Les gestes dans l'ordre
+
+1. **Se laver les mains** au savon, ou porter des gants.
+2. **Arrêter le saignement** en appuyant avec une compresse ou un tissu propre.
+3. **Laver la plaie** abondamment à l'eau potable, ou bouillie et refroidie, et au savon, en rinçant du
+   centre vers l'extérieur. Le lavage compte plus que le choix du désinfectant.
+4. **Retirer les saletés** visibles, gravier, éclats de bois, avec une pince propre. Un corps étranger
+   profond ou planté ne doit pas être retiré par soi-même.
+5. **Désinfecter** si l'on dispose d'un antiseptique, en évitant l'alcool pur sur une plaie ouverte.
+6. **Couvrir** d'un pansement propre et sec, à changer chaque jour ou s'il est mouillé ou sale.
+
+```schema
+type: etapes
+titre: Soigner une petite plaie
+elements:
+  - titre: Mains propres
+    texte: Savon ou gants.
+  - titre: Arrêter le saignement
+    texte: Compresse et pression.
+  - titre: Laver
+    texte: Eau potable et savon, abondamment.
+  - titre: Retirer les saletés
+    texte: Avec une pince propre.
+  - titre: Couvrir
+    texte: Pansement propre, changé chaque jour.
+  - titre: Surveiller
+    texte: Rougeur qui s'étend, pus, fièvre.
+```
+
+## Quand consulter
+
+- La plaie est **profonde**, large, ou ses bords s'écartent : elle peut nécessiter des points de
+  suture, idéalement dans les six heures.
+- Le saignement ne s'arrête pas malgré une compression de dix minutes.
+- Elle est **sale** et profonde, ou faite par un objet rouillé ou souillé de terre.
+- Il s'agit d'une **morsure**, animale ou humaine : elles s'infectent très souvent, et certaines
+  exposent à la rage dans les régions concernées.
+- Elle se situe sur le visage, la main, une articulation ou près de l'œil.
+- La personne est diabétique ou immunodéprimée.
+
+## Reconnaître une infection
+
+Dans les jours qui suivent, une plaie normale devient un peu rouge et sensible, puis cicatrise. Les
+signes d'**infection** sont :
+
+- une **rougeur qui s'étend** autour de la plaie, une zone chaude et gonflée ;
+- du **pus**, une odeur désagréable ;
+- une **douleur qui augmente** au lieu de diminuer ;
+- une **traînée rouge** qui remonte le long du membre, des ganglions gonflés ;
+- de la **fièvre** et des frissons.
+
+Une traînée rouge ou de la fièvre imposent de consulter rapidement : l'infection peut se propager dans
+le sang. Un traitement antibiotique sur prescription peut être nécessaire.
+
+## Le tétanos
+
+La bactérie du tétanos vit dans la terre et le fumier. Elle peut entrer par n'importe quelle plaie,
+même petite, et produire une toxine qui provoque des contractures musculaires très graves, souvent
+mortelles sans soins intensifs. Le **vaccin** est très efficace. En France, chez l'adulte, les rappels
+sont recommandés à 25, 45 et 65 ans, puis tous les dix ans. Après une plaie à risque, un médecin vérifie
+si un rappel est nécessaire.
+
+## Favoriser la cicatrisation
+
+- Garder la plaie propre et protégée, sans la laisser macérer.
+- Ne pas arracher les croûtes.
+- Bien manger, notamment des protéines, et boire suffisamment.
+- Protéger la cicatrice du soleil pendant plusieurs mois.
+
+## À retenir
+
+- Le lavage soigneux à l'eau et au savon est le geste le plus important.
+- On retire les saletés visibles et l'on couvre d'un pansement propre, changé chaque jour.
+- Plaies profondes, sales, morsures et plaies du visage ou de la main demandent un avis médical.
+- Rougeur qui s'étend, pus, douleur croissante, traînée rouge ou fièvre signalent une infection.
+- La vaccination contre le tétanos doit être à jour.
 
 ---
 type: article
@@ -8542,14 +9594,141 @@ title: Les techniques de gestion du stress au quotidien
 slug: les-techniques-de-gestion-du-stress-au-quotidien
 categoryPath: corps-humain-et-sante/maladies/sante-mentale
 summary: >
-  Des methodes simples et accessibles pour reduire une tension psychologique excessive.
-tags: [sante-mentale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Le stress est une réaction utile face à un défi, mais il devient nocif quand il dure. Respiration
+  lente, activité physique, sommeil, relations, organisation et changement de regard sur les
+  difficultés font partie des techniques dont l'efficacité est la mieux établie.
+tags: [sante-mentale]
+relatedArticles: [gerer-son-temps-priorites, former-de-bonnes-habitudes, ecoute-active-communication, prise-de-parole-en-public]
+sources:
+  - title: "Stress (psychologie)"
+    url: "https://fr.wikipedia.org/wiki/Stress_(psychologie)"
+    publisher: "Wikipédia"
+  - title: "Stress management"
+    url: "https://en.wikipedia.org/wiki/Stress_management"
+    publisher: "Wikipedia"
+  - title: "Doing What Matters in Times of Stress"
+    url: "https://www.who.int/publications/i/item/9789240003927"
+    publisher: "Organisation mondiale de la santé"
+  - title: "3114, numéro national de prévention du suicide"
+    url: "https://3114.fr/"
+    publisher: "3114"
+quiz:
+  - question: "Pourquoi une respiration lente calme-t-elle le stress ?"
+    options:
+      - "Parce qu'une expiration longue active le système nerveux qui ralentit le cœur"
+      - "Parce qu'elle augmente l'adrénaline"
+      - "Parce qu'elle fait dormir"
+    answer: 1
+    explanation: >
+      Respirer lentement, environ six fois par minute, en allongeant l'expiration, favorise la
+      branche du système nerveux qui apaise le corps.
+  - question: "Quelle activité figure parmi les plus efficaces contre le stress chronique ?"
+    options:
+      - "Regarder les informations en continu"
+      - "L'activité physique régulière"
+      - "Boire plus de café"
+    answer: 2
+    explanation: >
+      L'exercice consomme les hormones du stress, améliore le sommeil et l'humeur. Une marche
+      rapide quotidienne a déjà un effet.
+  - question: "Quand faut-il consulter un professionnel ?"
+    options:
+      - "Jamais, il faut se débrouiller seul"
+      - "Seulement si l'on a de la fièvre"
+      - "Quand le stress dure des semaines, perturbe le sommeil, le travail ou les relations, ou s'accompagne d'idées noires"
+    answer: 3
+    explanation: >
+      Un médecin ou un psychologue peut aider. En cas d'idées suicidaires, le 3114 répond jour et
+      nuit en France.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **stress** est une réaction normale du corps face à un défi : le cœur accélère, les muscles se
+tendent, l'attention se concentre. À court terme, il aide à agir. Mais lorsqu'il **dure** des semaines,
+il fatigue, dérègle le sommeil, affaiblit les défenses et favorise l'anxiété et la dépression. Les
+techniques les mieux étudiées pour le gérer sont simples : **respirer**, **bouger**, **dormir**,
+**s'entourer**, **s'organiser** et **changer de regard** sur ce qui nous arrive. Et savoir demander de
+l'aide quand cela ne suffit plus.
+
+## Ce qui se passe dans le corps
+
+Face à une menace, le cerveau déclenche la libération d'**adrénaline** et de **cortisol**. Le corps se
+prépare à combattre ou à fuir. Ce système est très utile face à un danger bref. Mais le cerveau réagit
+de la même manière à une boîte mail débordante, à un conflit au travail ou à des soucis d'argent qui
+durent. Le stress devient alors **chronique**.
+
+## Les techniques qui marchent
+
+**Respirer lentement.** Inspirer par le nez pendant environ quatre secondes, expirer doucement pendant
+six secondes, pendant quelques minutes. Une respiration lente, autour de six cycles par minute, avec une
+expiration longue, active la partie du système nerveux qui ralentit le cœur et apaise le corps. On peut
+la pratiquer n'importe où, avant une réunion ou dans les transports.
+
+**Bouger.** L'**activité physique** régulière fait partie des moyens les plus efficaces contre le stress
+et l'anxiété. Trente minutes de marche rapide par jour ont déjà un effet.
+
+**Dormir.** Le manque de sommeil amplifie les réactions de stress, et le stress perturbe le sommeil.
+Des horaires réguliers, une chambre sombre et l'éloignement des écrans avant le coucher aident à briser
+ce cercle.
+
+```schema
+type: systeme
+titre: Les leviers contre le stress chronique
+centre: Stress chronique
+parties:
+  - nom: Respirer lentement
+    role: Environ six respirations par minute, expiration longue.
+  - nom: Bouger
+    role: Trente minutes de marche rapide par jour.
+  - nom: Dormir
+    role: Horaires réguliers, écrans éloignés.
+  - nom: S'entourer
+    role: Parler, partager, rire.
+  - nom: S'organiser
+    role: Écrire, prioriser, découper.
+  - nom: Changer de regard
+    role: Se concentrer sur ce qui dépend de soi.
+```
+
+**S'entourer.** Parler à un proche, partager un repas, rire : le soutien social est l'un des meilleurs
+protecteurs contre le stress.
+
+**S'organiser.** Une partie du stress vient du sentiment d'être débordé. Écrire tout ce qu'on a en tête,
+distinguer l'urgent de l'important et découper les grosses tâches en petites étapes rend la situation
+plus maîtrisable.
+
+**Changer de regard.** Se demander : « Qu'est-ce qui dépend de moi ? » et concentrer son énergie
+là-dessus. Remettre en question les pensées catastrophistes : « Qu'est-ce qui est le plus probable ? »
+Les thérapies cognitives et comportementales utilisent ces techniques.
+
+**Prendre des pauses d'attention.** La méditation de pleine conscience, quelques minutes à observer sa
+respiration et ses sensations, a montré des effets modestes mais réels sur le stress chez de nombreuses
+personnes.
+
+## Ce qui aggrave le stress
+
+- L'alcool, le tabac et les excès de café, qui soulagent sur le moment mais aggravent l'anxiété et le
+  sommeil.
+- Le défilement sans fin des réseaux sociaux et des informations anxiogènes.
+- L'isolement et le refus de demander de l'aide.
+
+## Quand consulter
+
+Il faut consulter un médecin ou un psychologue si le stress dure plusieurs semaines, empêche de dormir,
+de travailler ou de profiter de la vie, s'accompagne d'attaques de panique, d'une grande tristesse ou
+d'**idées noires**. En France, le **3114**, numéro national de prévention du suicide, répond
+gratuitement jour et nuit. En cas d'urgence, on appelle le 15 ou le 112.
+
+## À retenir
+
+- Le stress est utile à court terme, mais nocif quand il devient chronique.
+- Une respiration lente avec une expiration longue apaise rapidement le corps.
+- L'activité physique, le sommeil et le soutien social sont parmi les protections les plus efficaces.
+- S'organiser et se concentrer sur ce qui dépend de soi réduisent le sentiment d'être débordé.
+- Quand le stress dure ou s'accompagne d'idées noires, on consulte ; le 3114 répond jour et nuit.
 
 ---
 type: article
@@ -8883,18 +10062,148 @@ status: planned
 
 ---
 type: article
-title: Le role de l'exercice physique sur la sante mentale
+title: Le rôle de l'exercice physique sur la santé mentale
 slug: le-role-de-l-exercice-physique-sur-la-sante-mentale
 categoryPath: corps-humain-et-sante/maladies/sante-mentale
 summary: >
-  Ce que la recherche montre sur ce lien concret et bien documente.
-tags: [sante-mentale, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Bouger ne fait pas seulement du bien au cœur et aux muscles. L'activité physique régulière réduit
+  le risque de dépression, apaise l'anxiété, améliore le sommeil et la mémoire. Elle complète les
+  soins sans les remplacer, et quelques séances par semaine suffisent pour en profiter.
+tags: [sante-mentale]
+relatedArticles: [depression-donnees-et-prise-en-charge, les-techniques-de-gestion-du-stress-au-quotidien, cycles-du-sommeil-et-fonction-reparatrice, plasticite-cerebrale]
+sources:
+  - title: "Activité physique"
+    url: "https://www.who.int/fr/news-room/fact-sheets/detail/physical-activity"
+    publisher: "Organisation mondiale de la santé"
+  - title: "Neurobiological effects of physical exercise"
+    url: "https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise"
+    publisher: "Wikipedia"
+  - title: "Exercise therapy"
+    url: "https://en.wikipedia.org/wiki/Exercise_therapy"
+    publisher: "Wikipedia"
+  - title: "Brain-derived neurotrophic factor"
+    url: "https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien d'activité modérée l'OMS recommande-t-elle aux adultes chaque semaine ?"
+    options:
+      - "Au moins 150 minutes"
+      - "Au moins 15 minutes"
+      - "Au moins 10 heures"
+    answer: 1
+    explanation: >
+      L'OMS recommande 150 à 300 minutes d'activité modérée par semaine, ou 75 à 150 minutes
+      d'activité soutenue.
+  - question: "Comment l'activité physique agit-elle sur le cerveau ?"
+    options:
+      - "Uniquement en fatiguant le corps"
+      - "En favorisant la croissance de neurones, la circulation sanguine cérébrale et l'équilibre des messagers chimiques"
+      - "En diminuant l'oxygène du cerveau"
+    answer: 2
+    explanation: >
+      L'effort augmente le flux sanguin vers le cerveau, stimule des facteurs de croissance des
+      neurones et agit sur les neurotransmetteurs.
+  - question: "L'exercice peut-il remplacer un traitement contre une dépression sévère ?"
+    options:
+      - "Oui, toujours"
+      - "Non, il complète les soins mais ne remplace pas un suivi médical"
+      - "Oui, si l'on court tous les jours"
+    answer: 2
+    explanation: >
+      Pour une dépression légère à modérée, l'exercice aide nettement. En cas de dépression sévère, il
+      s'ajoute aux soins prescrits par un professionnel.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+L'activité physique est l'un des moyens les plus simples et les mieux étudiés de prendre soin de sa
+**santé mentale**. Pratiquée régulièrement, elle réduit le risque de **dépression**, atténue
+l'**anxiété** et le **stress**, améliore le **sommeil**, l'**humeur** et certaines capacités de
+**mémoire** et d'attention. Nul besoin d'être sportif : la marche rapide, le vélo, la danse ou le
+jardinage comptent. Elle ne remplace pas un traitement quand il est nécessaire, mais elle le complète
+efficacement.
+
+## Ce qui se passe dans le cerveau
+
+- **Plus de sang et d'oxygène** : l'effort augmente le débit sanguin vers le cerveau.
+- **Des messagers chimiques** : l'exercice agit sur la sérotonine, la dopamine et la noradrénaline,
+  impliquées dans l'humeur et la motivation, et libère des endorphines et des endocannabinoïdes,
+  associés à la sensation de bien-être après l'effort.
+- **Des facteurs de croissance** : l'effort stimule la production de **BDNF**, une protéine qui
+  favorise la survie et les connexions des neurones, notamment dans l'**hippocampe**, une zone liée à
+  la mémoire et souvent réduite chez les personnes déprimées.
+- **Un stress mieux régulé** : un entraînement régulier habitue le corps à gérer les hormones du stress,
+  comme le cortisol.
+
+```schema
+type: systeme
+titre: Les effets de l'exercice sur l'esprit
+legende: Ces effets apparaissent avec une pratique régulière, même modérée.
+centre: Activité physique régulière
+icone: dumbbell
+parties:
+  - nom: Humeur
+    role: Moins de risque de dépression
+    icone: sun
+  - nom: Anxiété
+    role: Tension et inquiétude apaisées
+    icone: heart
+  - nom: Sommeil
+    role: Endormissement plus rapide
+    icone: star
+  - nom: Mémoire
+    role: Neurones mieux connectés
+    icone: brain
+  - nom: Estime de soi
+    role: Sentiment de progresser
+    icone: medal
+  - nom: Lien social
+    role: Pratique en groupe ou en club
+    icone: network
+```
+
+## Ce que montrent les études
+
+De nombreuses études montrent que les personnes actives ont un risque plus faible de développer une
+dépression. Chez les personnes atteintes de dépression légère à modérée, des programmes d'exercice
+réduisent les symptômes de façon nette, parfois comparable à d'autres traitements. Les effets sont
+aussi réels sur l'anxiété. Les bénéfices apparaissent même avec des quantités modestes : bouger un peu
+vaut beaucoup mieux que pas du tout.
+
+## Les bienfaits indirects
+
+L'exercice agit aussi par d'autres chemins. Il **structure les journées**, donne des **objectifs**
+atteignables et un sentiment de progrès. Pratiqué en groupe, il **rompt l'isolement**. En plein air, il
+expose à la lumière du jour, qui aide à régler l'horloge interne. Il détourne enfin l'attention des
+ruminations, ces pensées négatives qui tournent en boucle.
+
+## Comment s'y mettre
+
+1. **Viser l'objectif de l'OMS** : 150 minutes d'activité modérée par semaine, soit 30 minutes cinq
+   jours par semaine, ou 75 minutes d'activité soutenue.
+2. **Commencer petit** : dix minutes de marche par jour, puis augmenter.
+3. **Choisir une activité plaisante** : on persévère mieux quand on aime ce qu'on fait.
+4. **Fixer un moment régulier** dans la semaine, comme un rendez-vous.
+5. **Bouger avec d'autres** : un ami, un club, un groupe de marche.
+
+Quand on se sent déprimé, l'énergie et la motivation manquent : c'est normal. Viser très bas au début
+aide à démarrer.
+
+## Les limites
+
+L'exercice n'est pas un remède miracle. Une **dépression sévère**, des idées suicidaires ou un trouble
+anxieux handicapant demandent l'aide d'un **professionnel de santé**. Chez certaines personnes,
+l'activité peut aussi devenir excessive, voire compulsive. L'équilibre reste la règle.
+
+## À retenir
+
+- L'activité physique régulière réduit le risque de dépression et apaise l'anxiété.
+- Elle augmente le flux sanguin cérébral, agit sur les messagers chimiques et stimule la croissance des neurones.
+- Elle améliore aussi le sommeil, la mémoire, l'estime de soi et les liens sociaux.
+- L'OMS recommande au moins 150 minutes d'activité modérée par semaine aux adultes.
+- Elle complète les soins mais ne remplace pas un suivi médical en cas de trouble sévère.
 
 ---
 type: article
@@ -9068,6 +10377,20 @@ L'anticorps ne tue pas le microbe tout seul. Il agit de plusieurs façons. Il pe
 ## Cinq familles d'anticorps
 
 Il existe cinq grandes classes d'anticorps. Les IgM arrivent en premier lors d'une infection. Les IgG sont les plus nombreux dans le sang : 70 à 75 % des anticorps. Ce sont les seuls à traverser le placenta : la mère protège ainsi son bébé avant la naissance. Les IgA protègent les muqueuses, comme l'intérieur du nez ou de l'intestin, et se trouvent dans le lait maternel. Les IgE jouent un rôle dans les allergies. Les IgD servent de capteurs à la surface des lymphocytes B.
+
+```schema
+type: etapes
+titre: L'anticorps, une clé pour chaque serrure
+elements:
+  - titre: Lymphocyte B
+    texte: Il fabrique l'anticorps en forme de Y.
+  - titre: Épitope
+    texte: Un petit morceau du microbe.
+  - titre: Emboîtement
+    texte: Le bout des bras s'y fixe.
+  - titre: Neutralisation
+    texte: Le microbe est signalé ou bloqué.
+```
 
 ## À retenir
 
@@ -10527,6 +11850,16 @@ Il existe une deuxième méthode. On colle de petites électrodes sur la tête d
 
 Le résultat est simple : le test est normal, ou il ne l'est pas. Un résultat douteux ne veut pas dire que le bébé est sourd. On refait alors un test dans les 15 jours. Si le doute persiste, des spécialistes font des examens plus complets. Quand une surdité est confirmée, le diagnostic est posé vers l'âge de 3 mois et demi.
 
+```schema
+type: chiffres
+titre: Le dépistage de l'audition des nouveau-nés
+chiffres:
+  - valeur: 1 sur 1 000
+    texte: enfants naît avec un trouble de l'audition
+  - valeur: Depuis 2012
+    texte: un test est proposé à chaque nouveau-né en France
+```
+
 ## À retenir
 
 - Environ un enfant sur 1 000 naît avec un trouble de l'audition.
@@ -11017,6 +12350,21 @@ La variole avait trois points faibles. Le virus ne vivait que chez l'humain : au
 
 La variole est la seule maladie humaine éradiquée à ce jour. Des échantillons du virus sont encore gardés dans deux laboratoires, aux États-Unis et en Russie, sous un contrôle très strict.
 
+```schema
+type: frise
+titre: La fin de la variole
+evenements:
+  - date: 1796
+    titre: Premier vaccin
+    texte: Edward Jenner utilise la vaccine des vaches.
+  - date: 1967
+    titre: Campagne mondiale de l'OMS
+    texte: Chaque cas est repéré et l'entourage vacciné.
+  - date: Résultat
+    titre: Éradication
+    texte: La variole a disparu.
+```
+
 ## À retenir
 
 - La variole était un virus qui tuait environ 30 % des malades dans sa forme courante.
@@ -11353,6 +12701,19 @@ Le suc gastrique contient de l'acide chlorhydrique et des enzymes comme la pepsi
 ## Et ensuite ?
 
 Des cellules de l'estomac fabriquent aussi le facteur intrinsèque, nécessaire à l'absorption de la vitamine B12 dans l'intestin grêle. L'essentiel de l'absorption des nutriments se fait plus loin, dans l'intestin grêle.
+
+```schema
+type: comparaison
+titre: L'estomac entre attaque et défense
+colonnes:
+  - titre: Suc gastrique
+    points:
+      - Acide chlorhydrique
+      - Pepsine qui coupe les protéines
+  - titre: Bouclier
+    points:
+      - Une couche de mucus protège la paroi
+```
 
 ## À retenir
 
@@ -14724,18 +16085,137 @@ status: planned
 
 ---
 type: article
-title: Le calendrier vaccinal recommande selon les ages de la vie
+title: Le calendrier vaccinal recommandé selon les âges de la vie
 slug: le-calendrier-vaccinal-recommande-selon-les-ages-de-la-vie
 categoryPath: corps-humain-et-sante/prevention-et-sante-publique/vaccination
 summary: >
-  Un programme structure qui organise les vaccinations necessaires depuis la naissance jusqu'a l'age adulte.
-tags: [vaccination, essentiel-reconstruction]
-priority: 2
-essentiel: true
-status: planned
+  Les vaccins ne s'arrêtent pas à l'enfance. Le calendrier vaccinal fixe à quel âge recevoir chaque
+  vaccin et quand faire les rappels, du nourrisson à la personne âgée. En France, onze vaccins sont
+  obligatoires chez le jeune enfant, et d'autres sont recommandés tout au long de la vie.
+tags: [vaccination]
+relatedArticles: [principe-de-la-vaccination-et-immunite-collective, comment-un-vaccin-a-arn-messager-apprend-il-au-corps-a-se-defendre, comment-la-variole-a-t-elle-disparu-de-la-planete, depistage-organise-des-cancers]
+sources:
+  - title: "Calendrier des vaccinations et recommandations vaccinales"
+    url: "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
+    publisher: "Ministère de la Santé"
+  - title: "Vaccination-info-service"
+    url: "https://vaccination-info-service.fr/"
+    publisher: "Santé publique France"
+  - title: "Calendrier vaccinal"
+    url: "https://fr.wikipedia.org/wiki/Calendrier_vaccinal"
+    publisher: "Wikipédia"
+  - title: "Vaccination schedule"
+    url: "https://en.wikipedia.org/wiki/Vaccination_schedule"
+    publisher: "Wikipedia"
+quiz:
+  - question: "Combien de vaccins sont obligatoires chez les enfants nés en France depuis 2018 ?"
+    options:
+      - "Trois"
+      - "Onze"
+      - "Vingt"
+    answer: 2
+    explanation: >
+      Depuis 2018, onze vaccinations sont obligatoires avant l'entrée en collectivité. D'autres se
+      sont ajoutées pour les enfants nés à partir de 2025.
+  - question: "Pourquoi fait-on des rappels à l'âge adulte ?"
+    options:
+      - "Parce que la protection de certains vaccins diminue avec le temps"
+      - "Parce que les vaccins de l'enfance sont dangereux"
+      - "Parce que la loi l'interdit avant 25 ans"
+    answer: 1
+    explanation: >
+      La mémoire immunitaire s'affaiblit pour certaines maladies, comme le tétanos ou la diphtérie. Les
+      rappels la relancent.
+  - question: "Quel vaccin est recommandé chaque automne aux personnes de 65 ans et plus ?"
+    options:
+      - "Le vaccin contre la grippe"
+      - "Le vaccin contre la rougeole"
+      - "Le BCG"
+    answer: 1
+    explanation: >
+      Le virus de la grippe change chaque année, et les personnes âgées font plus de formes graves :
+      le vaccin est renouvelé à chaque saison.
+lastVerified: 2026-11-07
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Le **calendrier vaccinal** est le programme qui indique à quel **âge** recevoir chaque vaccin, combien
+de **doses** et quand faire les **rappels**. Il est établi par les autorités de santé de chaque pays et
+mis à jour chaque année selon les connaissances. En France, il est publié par le ministère de la Santé
+sur avis de la Haute Autorité de santé. Il couvre toute la vie : la petite enfance, où sont faits la
+plupart des vaccins, l'adolescence, l'âge adulte et le grand âge. Les dates exactes peuvent changer :
+le carnet de santé et le médecin restent les références.
+
+## Pourquoi un calendrier
+
+Chaque vaccin est donné au moment où il protège le mieux, avant l'âge où la maladie est la plus
+dangereuse. Les nourrissons reçoivent tôt les vaccins contre les maladies graves des premiers mois,
+comme la coqueluche. Certains vaccins demandent **plusieurs doses** pour construire une protection
+solide. D'autres doivent être **renouvelés** car la mémoire immunitaire s'affaiblit avec le temps.
+
+## Les grandes étapes en France
+
+```schema
+type: frise
+titre: Les vaccins au fil de la vie, en France
+legende: Repères simplifiés ; le calendrier officiel est mis à jour chaque année et précise doses et rattrapages.
+evenements:
+  - date: 2 à 11 mois
+    titre: Premiers vaccins
+    texte: Diphtérie, tétanos, coqueluche, polio, Hib, hépatite B, pneumocoque, méningocoques.
+  - date: 12 à 16 mois
+    titre: Rougeole et rappels
+    texte: Rougeole, oreillons, rubéole en deux doses, rappels et méningocoques.
+  - date: 6 et 11 à 13 ans
+    titre: Rappels de l'enfance
+    texte: Diphtérie, tétanos, coqueluche et polio.
+  - date: 11 à 14 ans
+    titre: Papillomavirus
+    texte: Pour les filles et les garçons, contre plusieurs cancers.
+  - date: 25, 45, 65 ans
+    titre: Rappels adultes
+    texte: Diphtérie, tétanos, polio, avec la coqueluche à 25 ans.
+  - date: 65 ans et plus
+    titre: Protéger les aînés
+    texte: Grippe chaque automne, Covid-19, pneumocoque, zona.
+```
+
+- **Nourrissons** : depuis 2018, **onze vaccins** sont obligatoires pour les enfants : diphtérie,
+  tétanos, poliomyélite, coqueluche, *Haemophilus influenzae* b, hépatite B, pneumocoque, méningocoque
+  C, rougeole, oreillons et rubéole. Ils conditionnent l'entrée en crèche et à l'école. Pour les
+  enfants nés à partir de 2025, la vaccination contre les **méningocoques B et ACWY** est également
+  devenue obligatoire.
+- **Enfants et adolescents** : rappels vers 6 ans puis entre 11 et 13 ans. La vaccination contre les
+  **papillomavirus humains** est recommandée aux filles et aux garçons de 11 à 14 ans, avec un
+  rattrapage possible ensuite. Elle protège contre plusieurs cancers.
+- **Adultes** : rappels **diphtérie, tétanos, poliomyélite** à **25, 45 et 65 ans**, puis tous les dix
+  ans. Le rappel de 25 ans inclut la coqueluche. Les femmes enceintes se voient recommander certains
+  vaccins pour protéger le futur bébé, comme celui contre la coqueluche.
+- **Personnes âgées** : la **grippe** chaque automne à partir de 65 ans, le Covid-19, le
+  **pneumocoque** et le **zona**, maladies plus graves avec l'âge.
+
+## Les vaccins selon la situation
+
+Au-delà du calendrier général, des vaccins sont recommandés selon l'état de santé, le métier ou les
+voyages : maladies chroniques, professionnels de santé, voyages vers des pays où sévissent la fièvre
+jaune, la fièvre typhoïde ou la rage. Le **BCG**, contre la tuberculose, n'est plus obligatoire en
+France depuis 2007 mais reste recommandé pour les enfants les plus exposés.
+
+## En cas de retard
+
+Un vaccin oublié n'oblige pas à tout recommencer : on reprend le programme là où il s'était arrêté.
+C'est le **rattrapage**. Le carnet de santé, ou le carnet de vaccination électronique, permet de savoir
+où l'on en est. En cas de doute, un médecin, une sage-femme ou un pharmacien fait le point.
+
+## À retenir
+
+- Le calendrier vaccinal fixe l'âge, le nombre de doses et les rappels de chaque vaccin.
+- En France, onze vaccins sont obligatoires chez les enfants depuis 2018.
+- Le papillomavirus se vaccine à l'adolescence, filles et garçons.
+- Les adultes font des rappels diphtérie, tétanos et polio à 25, 45 et 65 ans, puis tous les dix ans.
+- Après 65 ans, la grippe, le Covid-19, le pneumocoque et le zona sont recommandés.
 
 ---
 type: article
@@ -15237,6 +16717,20 @@ L'ARN reste dans le cytoplasme de la cellule ; il n'entre pas dans le noyau, où
 
 Le premier vaccin à ARN messager autorisé dans le monde, celui de Pfizer-BioNTech, l'a été au Royaume-Uni. Katalin Karikó et Drew Weissman ont reçu le prix Nobel de médecine pour les découvertes qui ont rendu possibles des vaccins à ARN messager efficaces contre la Covid-19. Des vaccins à ARN messager sont aussi étudiés contre la grippe, la rage, certains cancers, le VIH et le virus Zika.
 
+```schema
+type: etapes
+titre: Ce que fait un vaccin à ARN messager
+elements:
+  - titre: Enveloppe de lipides
+    texte: Elle fait entrer l'ARN dans les cellules.
+  - titre: Le plan
+    texte: L'ARN donne la recette d'une protéine du virus.
+  - titre: Un morceau inoffensif
+    texte: Les cellules le fabriquent.
+  - titre: Apprentissage
+    texte: Le système immunitaire apprend à le reconnaître.
+```
+
 ## À retenir
 
 - Un vaccin à ARN messager donne aux cellules le plan d'une protéine du virus, que le système immunitaire apprend à reconnaître.
@@ -15343,6 +16837,16 @@ Le test colorectal est immunologique : il cherche du sang invisible dans un éch
 
 Le dépistage a aussi des limites : des faux positifs, où l'on croit à tort à un cancer, et du surdiagnostic, où l'on repère des tumeurs qui n'auraient jamais fait de mal.
 
+```schema
+type: systeme
+titre: Trois dépistages organisés en France
+centre: Dépistage organisé
+parties:
+  - nom: Cancer du sein
+  - nom: Cancer colorectal
+  - nom: Cancer du col de l'utérus
+```
+
 ## À retenir
 
 - Le dépistage consiste à chercher un cancer avant l'apparition de symptômes, pour le repérer plus tôt et le rendre plus facile à traiter.
@@ -15429,6 +16933,21 @@ Avec le temps, le corps s'acclimate : il fabrique davantage de globules rouges, 
 
 Le mal aigu des montagnes est un malaise dû au manque d'oxygène en altitude : maux de tête, fatigue, nausées, vertiges et troubles du sommeil. Il apparaît surtout à haute altitude, plus souvent quand on monte vite, et ses signes se manifestent en général dans les premières heures après l'arrivée. Dans les cas graves, un gonflement du cerveau ou des poumons, un œdème, peut apparaître et devenir mortel sans prise en charge.
 
+```schema
+type: etapes
+titre: Le corps en altitude
+elements:
+  - titre: Pression plus basse
+    texte: Même proportion d'oxygène, mais moins de pression.
+    icone: mountain
+  - titre: Moins d'oxygène
+    texte: Il en arrive moins dans les poumons.
+  - titre: Hyperventilation
+    texte: On respire plus vite et plus profondément.
+  - titre: Acclimatation
+    texte: Le corps s'habitue petit à petit.
+```
+
 ## À retenir
 
 - En altitude, la proportion d'oxygène est la même, mais la pression de l'air baisse : il arrive moins d'oxygène dans les poumons.
@@ -15511,6 +17030,20 @@ L'inflammation de bas grade est une inflammation chronique faible, que l'on rep�
 ## Causes et liens avec les maladies
 
 Plusieurs facteurs favorisent l'inflammation chronique : l'obésité, le tabac, le stress, une alimentation déséquilibrée et la sédentarité. L'inflammation chronique est associée à des maladies comme les maladies cardiovasculaires, le diabète, l'obésité, les maladies auto-immunes et les troubles de l'humeur.
+
+```schema
+type: comparaison
+titre: Deux formes d'inflammation
+colonnes:
+  - titre: Aiguë
+    points:
+      - Courte et utile
+      - Rougeur, chaleur, gonflement, douleur
+  - titre: De bas grade
+    points:
+      - Chronique et discrète
+      - Liée à de nombreuses maladies
+```
 
 ## À retenir
 
@@ -15598,6 +17131,17 @@ Le lait maternel contient des sucres, les oligosaccharides, que le bébé ne dig
 ## Une mise en place qui dure
 
 Le microbiote se stabilise progressivement pendant les premières années de la vie, en se rapprochant de celui d'un adulte. Pendant cette période, le système immunitaire de l'intestin apprend à tolérer les bactéries de la flore, mais pas les autres micro-organismes. Les antibiotiques, l'alimentation, l'environnement et l'hygiène peuvent modifier la composition du microbiote. Le microbiote aide à digérer les fibres, fabrique certaines vitamines et protège la paroi de l'intestin contre des agents pathogènes.
+
+```schema
+type: etapes
+titre: La mise en place du microbiote du bébé
+elements:
+  - titre: Accouchement
+    texte: Flore vaginale ou environnement selon la naissance.
+  - titre: Lait et premiers repas
+  - titre: Diversification
+    texte: Une mise en place qui dure des années.
+```
 
 ## À retenir
 
@@ -15704,6 +17248,18 @@ Chez le bébé, certains os sont entièrement faits de cartilage, une matière s
 
 Le squelette comprend aussi des ligaments, du cartilage et des articulations, qui l'aident à soutenir le corps, à bouger et à protéger les organes.
 
+```schema
+type: barres
+titre: Le nombre d'os
+unite: os
+valeurs:
+  - label: Bébé
+    valeur: 300
+    note: environ
+  - label: Adulte
+    valeur: 206
+```
+
 ## À retenir
 
 - Un bébé naît avec environ 300 os.
@@ -15790,6 +17346,16 @@ Le manque de sommeil modifie l'expression de gènes qui régulent les rythmes du
 ## Ce qu'on ignore encore
 
 Les mécanismes précis par lesquels le sommeil renforce l'immunité sont encore mal compris.
+
+```schema
+type: etapes
+titre: Le manque de sommeil et l'immunité
+elements:
+  - titre: Moins de sommeil
+  - titre: Plus de cytokines inflammatoires
+  - titre: Défenses moins efficaces
+    texte: Infections et réponse aux vaccins.
+```
 
 ## À retenir
 
@@ -15894,6 +17460,18 @@ Selon une hypothèse, le corps prend le relâchement des muscles pour une chute 
 
 Des horaires de sommeil irréguliers, le stress, l'anxiété, les stimulants comme la caféine et le tabac, la fatigue et l'effort physique le soir semblent augmenter ces secousses. Elles sont en général bénignes et ne causent pas de dommage neurologique ; dans les cas sévères, elles peuvent toutefois perturber le sommeil.
 
+```schema
+type: systeme
+titre: La secousse hypnique
+centre: Au seuil du sommeil
+parties:
+  - nom: Contraction brusque
+    role: Involontaire, des muscles.
+  - nom: Sensation de chute
+  - nom: Cœur qui s'accélère
+  - nom: Sans gravité
+```
+
 ## À retenir
 
 - Une secousse hypnique est une contraction brusque et involontaire des muscles qui se produit au moment de s'endormir.
@@ -15995,6 +17573,17 @@ Le bâillement est contagieux : voir ou entendre quelqu'un bâiller donne souven
 
 L'empathie est la capacité de comprendre, de ressentir et de partager l'expérience d'une autre personne. Le lien entre bâillement contagieux et empathie est débattu : certains chercheurs y voient un signe d'empathie, d'autres jugent que les preuves ne suffisent pas. Des neurones miroirs, qui s'activent quand on agit et quand on observe une action, ont influencé la recherche sur l'empathie, mais leur rôle exact reste débattu.
 
+```schema
+type: etapes
+titre: Le bâillement
+elements:
+  - titre: Longue inspiration
+    texte: Bouche grande ouverte.
+  - titre: Brève expiration
+  - titre: Contagion
+    texte: Voir bâiller donne envie de bâiller, surtout entre proches.
+```
+
 ## À retenir
 
 - Le bâillement est un réflexe : une longue inspiration, bouche grande ouverte, suivie d'une brève expiration.
@@ -16002,3 +17591,440 @@ L'empathie est la capacité de comprendre, de ressentir et de partager l'expéri
 - Le bâillement est contagieux : voir ou entendre quelqu'un bâiller donne souvent envie de bâiller aussi.
 - La contagion est plus forte avec la famille et les amis qu'avec des inconnus.
 - Le lien entre bâillement contagieux et empathie est débattu parmi les chercheurs.
+
+---
+type: article
+title: Les priorités de survie, la règle des trois
+slug: regle-des-trois-priorites-survie
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique
+summary: >
+  Trois minutes sans air, trois heures sans abri dans le froid, trois jours sans eau, trois
+  semaines sans nourriture : cette règle approximative rappelle dans quel ordre agir quand tout
+  manque. Avant même l'eau, viennent le calme, la sécurité et la chaleur.
+tags: [prevention-et-sante-publique]
+relatedArticles: [kit-urgence-72-heures, purifier-eau-situation-urgence, hypothermie-coup-de-chaleur, allumer-entretenir-feu, le-garrot-comment-et-quand-l-utiliser]
+sources:
+  - title: "Survival skills"
+    url: "https://en.wikipedia.org/wiki/Survival_skills"
+    publisher: "Wikipedia"
+  - title: "Rule of threes (survival)"
+    url: "https://en.wikipedia.org/wiki/Rule_of_threes_(survival)"
+    publisher: "Wikipedia"
+  - title: "Hypothermie"
+    url: "https://fr.wikipedia.org/wiki/Hypothermie"
+    publisher: "Wikipédia"
+  - title: "Déshydratation"
+    url: "https://fr.wikipedia.org/wiki/D%C3%A9shydratation_(m%C3%A9decine)"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Dans une situation de survie dans le froid, qu'est-ce qui passe avant la recherche de nourriture ?"
+    options:
+      - "Se protéger du froid et trouver de l'eau"
+      - "Chasser"
+      - "Marcher le plus loin possible"
+    answer: 1
+    explanation: >
+      On peut tenir des semaines sans manger, mais seulement quelques heures exposé au froid
+      humide et quelques jours sans eau.
+  - question: "Pourquoi garder son calme est-il la première règle ?"
+    options:
+      - "Parce que c'est poli"
+      - "Parce que la panique fait prendre de mauvaises décisions et gaspille l'énergie"
+      - "Parce que cela réchauffe"
+    answer: 2
+    explanation: >
+      S'arrêter, respirer, observer et planifier évite les erreurs qui transforment une situation
+      difficile en catastrophe.
+  - question: "Pourquoi la règle des trois n'est-elle qu'un ordre de grandeur ?"
+    options:
+      - "Parce qu'elle a été inventée pour un film"
+      - "Parce que tout le monde tient exactement trois jours"
+      - "Parce que les durées varient énormément selon la chaleur, l'effort, l'âge et la santé"
+    answer: 3
+    explanation: >
+      Par forte chaleur, on peut mourir de déshydratation en moins d'un jour. Au repos et au frais,
+      on tient plus longtemps.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Quand tout manque, l'esprit veut tout faire en même temps. Une règle simple aide à fixer les
+priorités : l'être humain tient environ **trois minutes sans air**, **trois heures sans abri** dans
+un froid humide ou une chaleur extrême, **trois jours sans eau** et **trois semaines sans
+nourriture**. Ce ne sont que des ordres de grandeur, mais ils donnent l'ordre des actions : d'abord
+la sécurité immédiate, ensuite la chaleur, puis l'eau, et seulement ensuite la nourriture.
+
+## Avant tout, s'arrêter et réfléchir
+
+Le premier danger est souvent la **panique**. Elle pousse à courir, à se disperser, à oublier
+l'essentiel. Une méthode utilisée dans les formations de survie se résume ainsi :
+
+1. **S'arrêter** : ne pas agir sous le coup de la peur.
+2. **Respirer** lentement pendant une minute.
+3. **Observer** : dangers, blessures, ressources, météo, heure.
+4. **Planifier** les actions dans l'ordre des priorités, puis agir.
+
+## Les priorités dans l'ordre
+
+1. **La sécurité immédiate et les urgences vitales** : s'éloigner d'un danger, feu, eau montante,
+   chute de pierres ; arrêter une hémorragie ; dégager les voies respiratoires d'un blessé.
+2. **L'abri et la chaleur** : se protéger du vent, de la pluie, du froid du sol ou du soleil. Le
+   corps perd sa chaleur très vite quand il est mouillé et exposé au vent.
+3. **L'eau** : en trouver, la rendre sûre, la rationner selon l'effort plutôt que de se priver.
+4. **Se signaler**, si des secours peuvent venir : sifflet, miroir, feu, vêtements de couleur,
+   message laissé sur son itinéraire.
+5. **La nourriture**, qui compte surtout au-delà de quelques jours.
+
+```schema
+type: pyramide
+titre: L'ordre des priorités quand tout manque
+legende: On traite d'abord ce qui tue le plus vite.
+niveaux:
+  - titre: Nourriture
+    texte: Environ 3 semaines sans manger.
+  - titre: Se signaler
+    texte: Sifflet, feu, message laissé.
+  - titre: Eau
+    texte: Environ 3 jours sans boire.
+  - titre: Abri et chaleur
+    texte: Environ 3 heures exposé au froid humide.
+  - titre: Urgences vitales et air
+    texte: Environ 3 minutes sans respirer.
+```
+
+## Pourquoi cet ordre
+
+- **L'air** : un étouffement, une noyade ou un arrêt cardiaque tuent en quelques minutes.
+- **La température** : l'hypothermie peut s'installer en quelques heures, même par 10 °C, si l'on est
+  mouillé et exposé au vent. Le coup de chaleur peut tuer en quelques heures par forte chaleur.
+- **L'eau** : le corps en perd plusieurs litres par jour par la respiration, la sueur et l'urine.
+  Sans boire, la déshydratation devient dangereuse en deux à quatre jours, beaucoup plus vite par
+  chaleur ou effort intense.
+- **La nourriture** : le corps dispose de réserves de graisse pour plusieurs semaines. La faim
+  affaiblit et démoralise, mais elle tue lentement.
+
+## Rester ou partir
+
+Si quelqu'un sait où l'on se trouve et que les secours vont chercher, **rester sur place**, près d'un
+abri visible, est souvent le meilleur choix. On ne part que si l'endroit est dangereux, si personne
+ne viendra, ou si l'on connaît un chemin sûr vers l'aide. Dans tous les cas, on laisse des traces de
+son passage et de sa direction.
+
+## Le mental, une ressource
+
+Les récits de survivants montrent l'importance de la volonté, de la routine et du groupe : se fixer
+de petits objectifs, garder un rythme, se répartir les tâches, s'encourager. Prendre soin des autres
+aide aussi à tenir.
+
+## À retenir
+
+- L'humain tient environ 3 minutes sans air, 3 heures exposé au froid humide, 3 jours sans eau et 3 semaines sans nourriture.
+- Ces durées sont des ordres de grandeur qui varient avec la chaleur, l'effort et la santé.
+- On commence par s'arrêter, respirer, observer et planifier.
+- L'ordre des priorités est : urgences vitales, abri et chaleur, eau, signalement, nourriture.
+- Rester sur place est souvent préférable si quelqu'un sait où l'on se trouve.
+
+---
+type: article
+title: Le kit d'urgence pour tenir 72 heures
+slug: kit-urgence-72-heures
+categoryPath: corps-humain-et-sante/prevention-et-sante-publique
+summary: >
+  Coupure d'électricité, inondation, tempête ou crise : les autorités européennes recommandent à
+  chaque foyer de pouvoir tenir au moins 72 heures en autonomie. Eau, nourriture, lumière, radio,
+  médicaments et documents tiennent dans un sac et quelques cartons.
+tags: [prevention-et-sante-publique]
+relatedArticles: [regle-des-trois-priorites-survie, purifier-eau-situation-urgence, epargne-de-precaution]
+sources:
+  - title: "EU tells the public to hold 72 hours of emergency supplies"
+    url: "https://www.japantimes.co.jp/news/2025/03/27/world/society/eu-72-hours-emergency-supplies/"
+    publisher: "The Japan Times, dépêche Reuters"
+  - title: "Build a Kit"
+    url: "https://www.ready.gov/kit"
+    publisher: "Ready.gov, gouvernement des États-Unis"
+  - title: "Kit d'urgence"
+    url: "https://fr.wikipedia.org/wiki/Kit_d%27urgence"
+    publisher: "Wikipédia"
+quiz:
+  - question: "Combien de temps l'Union européenne recommande-t-elle de pouvoir tenir en autonomie ?"
+    options:
+      - "Au moins 72 heures"
+      - "Une heure"
+      - "Six mois"
+    answer: 1
+    explanation: >
+      En 2025, la Commission européenne a recommandé aux citoyens de disposer de réserves
+      essentielles pour au moins 72 heures.
+  - question: "Quelle quantité d'eau prévoir environ par personne et par jour ?"
+    options:
+      - "Un verre"
+      - "Environ 3 à 4 litres, pour boire et l'hygiène de base"
+      - "50 litres"
+    answer: 2
+    explanation: >
+      Les autorités américaines recommandent environ un gallon, soit près de 4 litres, par
+      personne et par jour. Il faut davantage par forte chaleur.
+  - question: "Pourquoi une radio à piles ou à manivelle fait-elle partie du kit ?"
+    options:
+      - "Pour écouter de la musique"
+      - "Pour remplacer le téléphone fixe"
+      - "Parce qu'elle reçoit les consignes des autorités même sans électricité ni internet"
+    answer: 3
+    explanation: >
+      En cas de coupure générale, les réseaux mobiles peuvent tomber. La radio reste souvent le
+      dernier moyen de recevoir l'information officielle.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Une tempête, une inondation, une panne d'électricité prolongée ou une crise peuvent couper l'eau
+courante, le courant, le chauffage et les communications. Les secours ne peuvent pas être partout à
+la fois. En 2025, la Commission européenne a recommandé à chaque foyer de pouvoir tenir **au moins
+72 heures** par ses propres moyens. Un kit d'urgence bien pensé coûte peu, se prépare en une
+après-midi et change tout le jour où l'on en a besoin.
+
+## Les essentiels
+
+**L'eau**, la priorité :
+
+- environ **3 à 4 litres par personne et par jour**, pour boire et pour une hygiène minimale, plus par
+  forte chaleur ; donc au moins 10 litres par personne pour trois jours ;
+- des pastilles de purification ou un filtre, et de quoi faire bouillir.
+
+**La nourriture**, qui ne demande ni frigo ni cuisson longue :
+
+- conserves, plats prêts à manger, fruits secs, biscuits, barres de céréales, beurre de cacahuète ;
+- un ouvre-boîte manuel ;
+- de quoi nourrir les bébés et les animaux.
+
+**La lumière et l'énergie** :
+
+- lampe torche ou frontale et piles de rechange ;
+- batterie externe chargée pour le téléphone ;
+- bougies et allumettes, avec prudence.
+
+**L'information** :
+
+- une **radio** à piles ou à manivelle, pour recevoir les consignes des autorités ;
+- une liste papier des numéros importants : famille, médecin, voisins, assurance.
+
+```schema
+type: chiffres
+titre: Les repères du kit d'urgence
+chiffres:
+  - valeur: 72 h
+    texte: d'autonomie recommandée par l'Union européenne
+  - valeur: 3 à 4 L
+    texte: d'eau par personne et par jour
+  - valeur: 1 fois par an
+    texte: on vérifie dates, piles et médicaments
+```
+
+**La santé** :
+
+- trousse de premiers secours : pansements, compresses, désinfectant, bande, ciseaux, gants ;
+- les **médicaments** habituels pour plusieurs jours, et les ordonnances ;
+- lunettes de rechange, protections hygiéniques, savon, gel hydroalcoolique, sacs-poubelle.
+
+**Les documents et l'argent** :
+
+- copies des pièces d'identité, des papiers d'assurance et des documents médicaux, dans une pochette
+  étanche ;
+- un peu d'**argent liquide**, car les terminaux de paiement peuvent être en panne.
+
+**Le froid et l'abri** :
+
+- couvertures de survie, vêtements chauds, gants, bonnet, chaussures solides ;
+- un sifflet pour se signaler ;
+- un couteau multifonction, du ruban adhésif, une corde.
+
+## Deux kits plutôt qu'un
+
+- **Le stock à domicile**, pour rester chez soi quelques jours : eau, nourriture, lumière, radio,
+  chauffage d'appoint sûr.
+- **Le sac d'évacuation**, prêt près de la porte, si l'on doit partir vite : le minimum pour 72 heures,
+  léger, avec documents et médicaments.
+
+## Préparer aussi un plan
+
+- Savoir où couper l'eau, le gaz et l'électricité.
+- Convenir d'un **point de rendez-vous** et d'un contact hors de la région, si la famille est séparée.
+- Connaître les risques de sa commune, inondation, industrie, séisme, et les consignes associées.
+- Penser aux voisins âgés ou isolés.
+
+## Entretenir le kit
+
+Une fois par an, on vérifie les dates de péremption, les piles et les médicaments, et l'on consomme
+les réserves avant qu'elles n'expirent pour les remplacer. Le kit ne sert que s'il est complet le
+jour J.
+
+## À retenir
+
+- Les autorités européennes recommandent de pouvoir tenir au moins 72 heures en autonomie.
+- Il faut environ 3 à 4 litres d'eau par personne et par jour.
+- Nourriture sans cuisson, lampe, radio à piles, trousse de secours et médicaments sont indispensables.
+- Copies des documents et argent liquide servent quand tout est en panne.
+- On vérifie et renouvelle le kit chaque année, et l'on prépare un plan familial.
+
+---
+type: article
+title: Hypothermie et coup de chaleur
+slug: hypothermie-coup-de-chaleur
+categoryPath: corps-humain-et-sante/physiologie
+summary: >
+  Le corps doit rester autour de 37 °C. En dessous de 35 °C, c'est l'hypothermie ; au-dessus de
+  40 °C avec confusion, c'est le coup de chaleur. Les deux peuvent tuer en quelques heures, et les
+  deux se préviennent par des gestes simples.
+tags: [physiologie]
+relatedArticles: [regle-des-trois-priorites-survie, allumer-entretenir-feu, kit-urgence-72-heures]
+sources:
+  - title: "Hypothermie"
+    url: "https://fr.wikipedia.org/wiki/Hypothermie"
+    publisher: "Wikipédia"
+  - title: "Hyperthermie"
+    url: "https://fr.wikipedia.org/wiki/Hyperthermie"
+    publisher: "Wikipédia"
+  - title: "Heat stroke"
+    url: "https://en.wikipedia.org/wiki/Heat_stroke"
+    publisher: "Wikipedia"
+  - title: "Heat and health"
+    url: "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+    publisher: "Organisation mondiale de la santé"
+quiz:
+  - question: "Pourquoi est-on beaucoup plus vite en hypothermie quand on est mouillé ?"
+    options:
+      - "Parce que l'eau conduit la chaleur bien mieux que l'air"
+      - "Parce que l'eau est lourde"
+      - "Parce que la peau devient rouge"
+    answer: 1
+    explanation: >
+      L'eau évacue la chaleur du corps environ 25 fois plus vite que l'air. Vêtements mouillés et
+      vent forment le pire mélange.
+  - question: "Quel signe distingue le coup de chaleur d'un simple coup de fatigue ?"
+    options:
+      - "La soif"
+      - "La confusion, une température très élevée et parfois l'arrêt de la transpiration"
+      - "Les mains froides"
+    answer: 2
+    explanation: >
+      Le coup de chaleur atteint le cerveau. C'est une urgence vitale : il faut appeler les secours
+      et refroidir la personne au plus vite.
+  - question: "Que faut-il faire en premier face à une personne en hypothermie ?"
+    options:
+      - "La faire courir pour la réchauffer"
+      - "Lui donner de l'alcool"
+      - "La mettre à l'abri, l'isoler du sol, remplacer les vêtements mouillés et la couvrir"
+    answer: 3
+    explanation: >
+      On la manipule doucement. L'alcool dilate les vaisseaux de la peau et aggrave la perte de
+      chaleur.
+lastVerified: 2026-11-07
+status: published
+---
+
+## En bref
+
+Notre corps fonctionne bien autour de **37 °C**. Il produit de la chaleur en brûlant ses réserves et
+en frissonnant, et il en évacue en transpirant. Quand le froid l'emporte, la température descend sous
+**35 °C** : c'est l'**hypothermie**. Quand la chaleur l'emporte, elle peut dépasser **40 °C** : c'est
+le **coup de chaleur**. Les deux sont des urgences vitales, mais les deux se préviennent par des
+gestes simples : rester sec, couvert et isolé du sol dans le froid ; s'hydrater, se mettre à l'ombre
+et ralentir dans la chaleur.
+
+## Comment le corps perd sa chaleur
+
+- **Par conduction**, au contact d'une surface froide : le sol, un rocher, l'eau. L'eau évacue la
+  chaleur environ **25 fois plus vite** que l'air.
+- **Par convection** : le vent emporte l'air chaud autour de la peau.
+- **Par rayonnement**, surtout par la tête et le cou découverts.
+- **Par évaporation** de la sueur et de l'eau sur les vêtements mouillés.
+
+D'où la règle : on peut tomber en hypothermie par 10 °C, mouillé et dans le vent.
+
+## L'hypothermie
+
+**Les signes** évoluent avec la baisse de température :
+
+- au début, des **frissons** intenses, des mains maladroites, une peau pâle et froide ;
+- puis une **confusion**, des paroles lentes, une démarche titubante, des décisions absurdes ;
+- au stade grave, les frissons **s'arrêtent**, la personne devient somnolente puis inconsciente, le
+  cœur ralentit.
+
+**Que faire** :
+
+1. Mettre la personne **à l'abri** du vent et de la pluie.
+2. L'**isoler du sol** avec un sac, des branches, un tapis.
+3. **Remplacer les vêtements mouillés** par des secs, couvrir la tête et le cou.
+4. L'envelopper dans des couvertures, un sac de couchage, une **couverture de survie**.
+5. Si elle est consciente et avale bien, lui donner une **boisson chaude et sucrée**, jamais d'alcool.
+6. La **manipuler doucement**, sans la frictionner, et appeler les secours, au 15 ou au 112.
+
+```schema
+type: echelle
+titre: La température du corps, de l'hypothermie au coup de chaleur
+legende: Valeurs indicatives chez l'adulte.
+unite: °C
+min: 28
+max: 43
+zones:
+  - de: 28
+    a: 35
+    label: Hypothermie, urgence
+    ton: danger
+  - de: 35
+    a: 36.5
+    label: Corps trop froid, à surveiller
+    ton: attention
+  - de: 36.5
+    a: 37.5
+    label: Température normale
+    ton: normal
+  - de: 37.5
+    a: 40
+    label: Fièvre ou forte chaleur
+    ton: attention
+  - de: 40
+    a: 43
+    label: Coup de chaleur, urgence
+    ton: danger
+```
+
+## Prévenir le froid
+
+- S'habiller en **couches** : une couche contre la peau qui évacue l'humidité, une couche isolante,
+  une couche extérieure contre le vent et la pluie. Éviter le coton, qui reste mouillé.
+- Retirer une couche **avant** de transpirer à l'effort, la remettre à l'arrêt.
+- Couvrir tête, cou, mains et pieds.
+- **S'isoler du sol** pour dormir ou s'asseoir.
+- Manger et boire régulièrement : le corps a besoin de carburant pour produire sa chaleur.
+
+## Le coup de chaleur
+
+Par forte chaleur ou effort intense, le corps n'arrive plus à évacuer sa chaleur. **Les signes** :
+température très élevée, peau chaude, **confusion**, maux de tête, nausées, parfois arrêt de la
+transpiration, malaise ou convulsions.
+
+**Que faire** :
+
+1. **Appeler les secours**, au 15 ou au 112.
+2. Mettre la personne à l'**ombre**, au frais, la déshabiller en partie.
+3. La **refroidir** au plus vite : la mouiller abondamment, l'éventer, poser des linges froids sur la
+   nuque, les aisselles et l'aine.
+4. Si elle est consciente, la faire boire par petites gorgées.
+
+**Prévenir** : boire régulièrement sans attendre la soif, éviter l'effort aux heures chaudes, porter
+des vêtements légers et un chapeau, ne jamais laisser un enfant ou un animal dans une voiture, et
+veiller sur les personnes âgées.
+
+## À retenir
+
+- L'hypothermie commence quand la température du corps descend sous 35 °C.
+- Être mouillé et exposé au vent fait perdre la chaleur très vite, même par 10 °C.
+- En cas d'hypothermie : abri, isolation du sol, vêtements secs, couverture, pas d'alcool.
+- Le coup de chaleur associe température très élevée et confusion : c'est une urgence vitale.
+- On refroidit la victime au plus vite et l'on appelle le 15 ou le 112.
+
