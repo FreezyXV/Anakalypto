@@ -4855,7 +4855,7 @@ industries;industries/industrie-lourde/chimie-industrielle;Les grands accidents 
 industries;industries/industrie-lourde/chimie-industrielle;La chimie verte, reduire l'impact des procedes industriels;la-chimie-verte-reduire-l-impact-des-procedes-industriels;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication artisanale de la chaux;la-fabrication-artisanale-de-la-chaux;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;L'ammoniac, un compose chimique cle de l'industrie;l-ammoniac-un-compose-chimique-cle-de-l-industrie;2;oui;planned
-industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;planned
+industries;industries/industrie-lourde/chimie-industrielle;La fabrication du verre, procede de base;la-fabrication-du-verre-procede-de-base;2;oui;published
 industries;industries/industrie-lourde/chimie-industrielle;Le procede de fabrication du ciment;le-procede-de-fabrication-du-ciment;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La fabrication de l'eau de Javel;la-fabrication-de-l-eau-de-javel;2;oui;planned
 industries;industries/industrie-lourde/chimie-industrielle;La distillation, principe chimique de base;la-distillation-principe-chimique-de-base;2;oui;planned
@@ -12009,7 +12009,7 @@ sciences-fondamentales;sciences-fondamentales/physique/thermodynamique;Pourquoi 
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-physique;Pourquoi la croûte du pain et la viande grillée ont-elles ce goût et cette couleur ?;pourquoi-la-croute-du-pain-et-la-viande-grillee-ont-elles-ce-gout-et-cette-couleur;0.87;non;published
 sciences-fondamentales;sciences-fondamentales/biologie/evolution;Comment les animaux des profondeurs survivent-ils à une pression écrasante ?;comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante;0.87;non;published
 sciences-fondamentales;sciences-fondamentales/mathematiques/geometrie;Pourquoi aucune carte du monde à plat ne peut-elle être parfaitement fidèle ?;pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele;0.86;non;published
-sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les fosses océaniques et la zone hadale;les-fosses-oceaniques-et-la-zone-hadale;0.85;non;planned
+sciences-fondamentales;sciences-fondamentales/sciences-de-la-terre/oceanographie;Les fosses océaniques et la zone hadale;les-fosses-oceaniques-et-la-zone-hadale;0.85;non;published
 sciences-fondamentales;sciences-fondamentales/chimie/chimie-inorganique;Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?;un-materiau-peut-il-etre-isolant-a-l-interieur-et-conducteur-en-surface;0.76;non;published
 sciences-fondamentales;sciences-fondamentales/biologie/genetique;Que révèle le génome des derniers mammouths sur les dangers d'une toute petite population ?;que-revele-le-genome-des-derniers-mammouths-sur-les-dangers-d-une-toute-petite-population;0.74;non;published
 sciences-fondamentales;sciences-fondamentales/physique/electromagnetisme;Pourquoi un motif de vannerie japonaise intrigue-t-il les physiciens des supraconducteurs ?;pourquoi-un-motif-de-vannerie-japonaise-intrigue-t-il-les-physiciens-des-supraconducteurs;0.74;non;published
@@ -12033,7 +12033,7 @@ sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-muscula
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Faut-il manger tout de suite après l'entraînement pour mieux progresser ?;faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser;0.82;non;published
 sport;sport-et-sciences-du-mouvement/sport-et-societe/activite-physique-et-sante;Que mesure vraiment le capteur au dos d'une montre connectée, et peut-on s'y fier ?;que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier;0.82;non;published
 sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Pourquoi les records du monde tombent-ils moins vite qu'avant ?;pourquoi-les-records-du-monde-tombent-ils-moins-vite-qu-avant;0.82;non;published
-sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records de 1968 à Mexico et l'altitude;les-records-de-1968-a-mexico-et-l-altitude;0.8;non;planned
+sport;sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels;Les records de 1968 à Mexico et l'altitude;les-records-de-1968-a-mexico-et-l-altitude;0.8;non;published
 sport;sport-et-sciences-du-mouvement/physiologie-de-l-effort/entrainement;Que mesure vraiment la variabilité cardiaque, ce chiffre qui promet de dire si vous êtes récupéré ?;que-mesure-vraiment-la-variabilite-cardiaque-ce-chiffre-qui-promet-de-dire-si-vous-etes-recupere;0.79;non;published
 sport;sport-et-sciences-du-mouvement/sport-et-societe/dopage;Des chaussures qui font courir plus vite, est-ce du dopage technologique ?;des-chaussures-qui-font-courir-plus-vite-est-ce-du-dopage-technologique;0.79;non;published
 technologies;technologies-et-ingenierie/nanotechnologies/applications;Comment construit-on des structures à l'échelle du milliardième de mètre ?;comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre;0.85;non;published

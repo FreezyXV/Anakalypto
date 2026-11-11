@@ -224,6 +224,20 @@ quiz:
     explanation: >
       Mettre la matière loin du centre est bien plus efficace. C'est aussi pourquoi les poutres
       métalliques ont une forme en I : on retire la matière inutile au milieu.
+  - question: "Pourquoi place-t-on l'acier en bas d'une poutre en béton simplement posée sur deux appuis ?"
+    options:
+      - "Parce que c'est la face qui reçoit le plus de poids"
+      - "Parce que c'est la face qui s'étire, et que le béton résiste mal à la traction"
+      - "Parce que l'acier est plus lourd et stabilise la poutre"
+    answer: 2
+    explanation: "En fléchissant, la face inférieure s'étire. Le béton y résiste mal, l'acier assure donc la traction."
+  - question: "Pourquoi les gratte-ciels adoptent-ils des formes comme les retraits successifs ou les plans en Y ?"
+    options:
+      - "Pour réduire le poids total de la structure"
+      - "Pour empêcher les tourbillons du vent de se synchroniser et d'amplifier l'oscillation"
+      - "Pour supporter des étages plus nombreux sans fondations"
+    answer: 2
+    explanation: "Au-delà d'une certaine hauteur, le vent dimensionne l'ouvrage : ces formes empêchent les tourbillons de se synchroniser avec l'oscillation de la tour."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -363,6 +377,20 @@ quiz:
     explanation: >
       Le ciment ne représente qu'une petite partie de la masse du béton, mais il concentre
       l'essentiel de son empreinte carbone.
+  - question: "Pourquoi le levier de la réduction de la part de clinker est-il limité ?"
+    options:
+      - "Parce que les substituts sont des sous-produits d'industries en transformation, donc en quantité limitée"
+      - "Parce que le clinker est indispensable à toute résistance du béton"
+      - "Parce que les substituts émettent plus de CO2 que le clinker"
+    answer: 1
+    explanation: "Cendres volantes et laitiers viennent d'industries qui évoluent : la ressource disponible est donc elle-même limitée."
+  - question: "Quel levier est décrit comme le plus efficace mais le moins exploité ?"
+    options:
+      - "Capter le CO2 en sortie de cheminée"
+      - "Remplacer les combustibles des fours par de la biomasse"
+      - "Utiliser moins de béton pour la même fonction"
+    answer: 3
+    explanation: "Concevoir autrement, avec moins de béton pour le même usage, évite les émissions à la source."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -489,6 +517,20 @@ quiz:
     explanation: >
       Un élément peut supporter une charge des millions de fois puis céder, sans jamais avoir
       été surchargé. C'est pourquoi le nombre de cycles compte autant que leur intensité.
+  - question: "Pourquoi la rouille des armatures fait-elle éclater le béton autour d'elle ?"
+    options:
+      - "Parce qu'elle occupe davantage de volume que l'acier sain"
+      - "Parce qu'elle chauffe l'acier jusqu'à le dilater"
+      - "Parce qu'elle rend le béton plus alcalin"
+    answer: 1
+    explanation: "La rouille gonfle et fait éclater le béton, ce qui ouvre un chemin à encore plus d'eau : le processus s'accélère de lui-même."
+  - question: "Pourquoi le trafic réel compte-t-il autant que le poids maximal pour un pont ?"
+    options:
+      - "Parce que les poids lourds roulent toujours à pleine charge"
+      - "Parce que seule la vitesse des véhicules abîme le tablier"
+      - "Parce que les millions de passages répétés font grandir les fissures par fatigue"
+    answer: 3
+    explanation: "Sous des charges répétées, même modérées, une fissure grandit à chaque cycle : un trafic intense fait vieillir l'ouvrage bien plus vite que prévu."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -616,6 +658,20 @@ quiz:
     explanation: >
       Un moteur électrique tourne vite avec peu de force. Un bras a besoin de l'inverse. Le
       réducteur fait la conversion, au prix d'un peu de jeu et de frottement.
+  - question: "Pourquoi un actionneur pneumatique convient-il quand le robot doit toucher un objet fragile ?"
+    options:
+      - "Parce qu'il est plus précis qu'un moteur électrique"
+      - "Parce que l'air est compressible, ce qui rend le vérin naturellement souple"
+      - "Parce qu'il développe des forces considérables"
+    answer: 2
+    explanation: "La compressibilité de l'air rend le vérin souple : défaut pour positionner précisément, qualité pour ne pas écraser."
+  - question: "Quelle est la principale limite des actionneurs électriques ?"
+    options:
+      - "Leur manque de précision de positionnement"
+      - "Leur puissance rapportée à la masse : de gros efforts imposent un moteur volumineux et lourd"
+      - "Leur difficulté de commande"
+    answer: 2
+    explanation: "Les actionneurs électriques sont précis et faciles à commander, mais pour des efforts très importants, il faut un moteur lourd."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -745,6 +801,20 @@ quiz:
     explanation: >
       Une caméra voit mal la nuit, un lidar souffre du brouillard, un radar manque de
       résolution. Ensemble, une défaillance de l'un est compensée par les autres.
+  - question: "Pourquoi un radar ne suffit-il pas à un robot, bien qu'il fonctionne par tous les temps ?"
+    options:
+      - "Parce que sa résolution est faible : il détecte quelque chose sans savoir ce que c'est"
+      - "Parce qu'il ne mesure pas les distances"
+      - "Parce qu'il est perturbé par la pluie forte"
+    answer: 1
+    explanation: "Le radar mesure distance et vitesse relative en toute condition, mais sa faible résolution ne permet pas d'identifier l'objet."
+  - question: "Pourquoi une machine peut-elle être à l'aise sur autoroute mais perdue devant un chantier improvisé ?"
+    options:
+      - "Parce que ses capteurs sont conçus pour voir de loin"
+      - "Parce que les modèles entraînés échouent sur ce qu'ils n'ont jamais vu"
+      - "Parce que le radar ne fonctionne pas sur les chantiers"
+    answer: 2
+    explanation: "Interpréter une scène demande des modèles entraînés sur des exemples : ils échouent précisément sur les situations inédites."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -865,6 +935,20 @@ quiz:
     explanation: >
       Les petites erreurs de déplacement s'accumulent, et une carte mémorisée ne correspond
       plus à la réalité si la pièce a changé.
+  - question: "Qu'est-ce que la fermeture de boucle ?"
+    options:
+      - "Le moment où le robot revient à sa base de recharge"
+      - "Le moment où le robot reconnaît un endroit déjà visité et peut corriger l'erreur accumulée"
+      - "La fin de la cartographie, quand la carte est terminée"
+    answer: 2
+    explanation: "En reconnaissant un lieu déjà vu, le robot corrige l'accumulation d'erreurs sur sa position et sa carte."
+  - question: "Quel est le rôle de la planification locale ?"
+    options:
+      - "Tracer l'itinéraire complet depuis la carte"
+      - "Mesurer le déplacement avec les roues"
+      - "Gérer ce qui n'était pas sur la carte, comme une chaise déplacée ou une personne qui traverse"
+    answer: 3
+    explanation: "La planification globale trace l'itinéraire ; la locale réagit en quelques dizaines de millisecondes aux obstacles imprévus."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -995,6 +1079,20 @@ quiz:
       Dans un objet ordinaire, presque tous les atomes sont à l'intérieur. Dans une
       nanoparticule, une grande partie est en surface, et les atomes de surface se comportent
       différemment.
+  - question: "Pourquoi le graphite d'un crayon laisse-t-il une trace sur le papier ?"
+    options:
+      - "Parce que ses feuillets de graphène sont faiblement liés et glissent entre eux"
+      - "Parce qu'il est constitué d'une seule couche d'atomes"
+      - "Parce qu'il est très résistant à la rupture"
+    answer: 1
+    explanation: "Le graphite est un empilement de feuillets faiblement liés : ils glissent et se déposent sur le papier."
+  - question: "Pourquoi le graphène est-il loin d'être présent partout malgré ses propriétés ?"
+    options:
+      - "Parce que ses propriétés ont été surestimées"
+      - "Parce qu'il est trop fragile pour tout usage"
+      - "Parce que produire de grandes surfaces de qualité constante reste difficile et coûteux"
+    answer: 3
+    explanation: "Les méthodes de production en masse donnent souvent de petits flocons : l'obstacle est industriel, pas scientifique."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1123,6 +1221,20 @@ quiz:
       Une substance inoffensive sous forme massive peut se comporter autrement à l'échelle
       nanométrique, car elle franchit des barrières biologiques qu'elle ne franchirait pas
       autrement.
+  - question: "Pourquoi utilise-t-on des particules nanométriques d'oxyde de titane ou de zinc dans les crèmes solaires ?"
+    options:
+      - "Elles bloquent efficacement les ultraviolets tout en restant transparentes"
+      - "Elles sont moins chères que les particules ordinaires"
+      - "Elles rendent la crème plus blanche et plus visible"
+    answer: 1
+    explanation: "À l'échelle nanométrique, ces particules arrêtent les UV sans laisser la pellicule blanche."
+  - question: "Pourquoi nanostructure-t-on les catalyseurs ?"
+    options:
+      - "Pour réduire la température de fonctionnement du système"
+      - "Pour maximiser la surface active à quantité de métal donnée, utile quand il est rare et coûteux"
+      - "Pour augmenter le poids du catalyseur"
+    answer: 2
+    explanation: "Plus de surface active pour la même quantité de métal : on utilise moins de matière précieuse."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1254,6 +1366,20 @@ quiz:
     explanation: >
       L'acier est plus résistant que l'aluminium dans l'absolu, mais il est aussi bien plus
       lourd. Rapportée à la masse, la comparaison s'inverse souvent.
+  - question: "Comment éviter la corrosion accélérée due au couple galvanique ?"
+    options:
+      - "Peindre l'un des deux métaux avec une couleur claire"
+      - "Utiliser deux métaux identiques"
+      - "Isoler simplement les deux métaux l'un de l'autre"
+    answer: 3
+    explanation: "La corrosion apparaît quand deux métaux différents sont en contact en présence d'humidité ; les isoler suffit à l'éviter."
+  - question: "Pourquoi le verre est-il l'exemple d'un matériau peu tenace ?"
+    options:
+      - "Parce qu'il est mou et se déforme facilement"
+      - "Parce qu'il est très dur mais résiste mal à la propagation d'une fissure"
+      - "Parce qu'il est trop dense pour les usages courants"
+    answer: 2
+    explanation: "La ténacité est la capacité à résister à la propagation d'une fissure : un matériau très dur comme le verre en manque souvent."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1385,6 +1511,20 @@ quiz:
       Encore faut-il que les copies ne tombent pas en panne pour la même raison. On utilise
       parfois des conceptions différentes pour le même rôle, afin d'éviter une défaillance
       commune.
+  - question: "Pourquoi la redondance peut-elle échouer ?"
+    options:
+      - "Parce que les copies partagent un défaut commun, comme un même logiciel ou un même conduit"
+      - "Parce que dupliquer un système le rend toujours plus fragile"
+      - "Parce qu'un seul circuit supplémentaire ne suffit jamais"
+    answer: 1
+    explanation: "Une défaillance de cause commune touche toutes les copies à la fois : d'où l'intérêt de séparer physiquement les redondances et de varier les conceptions."
+  - question: "Pourquoi le retour d'expérience suppose-t-il que signaler un problème n'expose pas à une sanction ?"
+    options:
+      - "Parce que les sanctions sont inutiles en matière de sécurité"
+      - "Parce que sans cela, les incidents ne remontent pas et l'on perd l'information nécessaire"
+      - "Parce que les incidents sans conséquence n'ont pas d'importance"
+    answer: 2
+    explanation: "Si signaler expose à une punition, les incidents sont cachés : on perd les enseignements qui rendent aviation et nucléaire plus sûrs."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1534,6 +1674,13 @@ quiz:
     explanation: >
       Le travail, force multipliée par distance, reste le même. Moins de force signifie plus de
       distance.
+  - question: "Que se passe-t-il quand on adoucit la pente d'une rampe pour monter une charge ?"
+    options:
+      - "La force nécessaire augmente, mais le chemin raccourcit"
+      - "La force nécessaire diminue, mais la rampe est plus longue"
+      - "La force et le chemin diminuent tous les deux"
+    answer: 2
+    explanation: "Plus la pente est douce, plus la force est faible, et plus la rampe est longue : le travail reste le même, aux frottements près."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -1688,6 +1835,13 @@ quiz:
     explanation: >
       Les voûtes poussent les murs vers l'extérieur. Les arcs-boutants transmettent cette
       poussée à des piles extérieures, ce qui permet d'ouvrir de grands vitraux.
+  - question: "Pourquoi un arc très surbaissé exige-t-il des culées plus massives ?"
+    options:
+      - "Parce qu'il pèse davantage qu'un arc en plein cintre"
+      - "Parce que ses pierres sont plus fragiles"
+      - "Parce qu'il pousse d'autant plus ses appuis vers l'extérieur"
+    answer: 3
+    explanation: "Plus l'arc est surbaissé, plus la poussée vers l'extérieur est forte : si les appuis s'écartent, il s'effondre."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -1887,6 +2041,13 @@ quiz:
     explanation: >
       Le tenon, une languette taillée au bout d'une pièce, entre dans la mortaise, un logement creusé
       dans l'autre. Une cheville traverse le tout.
+  - question: "Pourquoi une charpente doit-elle rester hors d'eau et ventilée ?"
+    options:
+      - "Parce qu'un bois qui reste mouillé pourrit et attire insectes et champignons"
+      - "Parce que l'humidité rend le bois plus lourd pour le toit"
+      - "Parce que le bois sec devient indéformable"
+    answer: 1
+    explanation: "L'humidité est l'ennemi principal du bois : une couverture entretenue, une bonne ventilation et des pièces éloignées des murs humides le protègent."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2041,6 +2202,20 @@ quiz:
       L'extinction, ou slaking, est une réaction exothermique violente : elle peut porter l'eau à
       ébullition et brûler la peau. Elle se fait toujours en versant progressivement l'eau sur la
       chaux, en plein air, avec des protections.
+  - question: "Pourquoi la chaux est-elle accessible pour reconstruire des capacités techniques ?"
+    options:
+      - "Parce qu'elle ne demande aucun combustible"
+      - "Parce que du calcaire, du combustible et un four rudimentaire suffisent"
+      - "Parce qu'elle se fabrique sans chauffer la roche"
+    answer: 2
+    explanation: "Aucun réactif importé, électricité ni machine complexe n'est nécessaire, contrairement au ciment moderne."
+  - question: "Que se passe-t-il si le four dépasse nettement la température de cuisson, au-delà d'environ 1 300 °C ?"
+    options:
+      - "La chaux s'éteint plus vite et dégage moins de chaleur"
+      - "La chaux devient inerte et ne s'éteint plus correctement"
+      - "La réaction se produit plus complètement et la chaux est plus pure"
+    answer: 2
+    explanation: "Trop chaude, la cuisson donne une chaux inerte ; trop froide, la réaction n'a pas le temps de se faire."
 lastVerified: 2026-09-24
 status: published
 ---
@@ -2179,6 +2354,20 @@ quiz:
       Une brique encore chargée d'eau qui entrerait directement dans un four très chaud risquerait
       de voir cette eau se transformer brusquement en vapeur, provoquant des fissures ou un
       éclatement de la pièce.
+  - question: "Pourquoi choisit-on une argile contenant un mélange de particules fines et de sable ?"
+    options:
+      - "Pour que la brique soit plus légère à transporter"
+      - "Pour limiter un retrait excessif au séchage"
+      - "Pour que la brique puisse cuire sans four"
+    answer: 2
+    explanation: "Une argile équilibrée évite que la brique se rétracte trop en séchant."
+  - question: "Pourquoi la fabrication de briques reste-t-elle reproductible sans industrie ?"
+    options:
+      - "Parce qu'elle exige seulement de la terre et de l'eau, sans cuisson"
+      - "Parce que les briques sont fabriquées uniquement par des machines simples"
+      - "Parce qu'elle repose sur un moulage à la main et des fours de terre simples"
+    answer: 3
+    explanation: "Le moulage peut se faire entièrement à la main, et les premiers fours étaient de simples structures de terre."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2408,6 +2597,20 @@ quiz:
       L'eau qui pénètre et stagne dans les couches inférieures d'une route affaiblit leur
       cohésion, ce qui provoque des affaissements et des fissures sous le passage répété des
       véhicules.
+  - question: "Pourquoi donne-t-on à la route une surface légèrement bombée ?"
+    options:
+      - "Pour que l'eau s'écoule vers des fossés latéraux plutôt que de s'infiltrer dans la structure"
+      - "Pour que les véhicules roulent plus vite"
+      - "Pour économiser des matériaux sur les bords"
+    answer: 1
+    explanation: "Une surface plus haute au centre évacue l'eau de pluie, qui sinon affaiblirait progressivement les couches inférieures."
+  - question: "À quelle condition des matériaux locaux peuvent-ils suffire pour une route durable ?"
+    options:
+      - "Qu'ils soient identiques à ceux des Romains"
+      - "Qu'ils soient importés de régions lointaines"
+      - "Que l'on respecte les principes de structure et de drainage"
+    answer: 3
+    explanation: "Les matériaux comptent moins que la bonne structure en couches et l'évacuation de l'eau."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2530,6 +2733,20 @@ quiz:
       Contrairement à l'image des grandes arches monumentales, la majorité du réseau
       d'aqueducs romains circulait sous terre ou au niveau du sol, les arches n'étant
       construites que pour franchir des vallées ou des dépressions.
+  - question: "Pourquoi ne construisait-on des ponts à arches que par endroits ?"
+    options:
+      - "Pour franchir des vallées ou dépressions sans rompre la pente régulière"
+      - "Parce que les arches rendaient l'eau plus pure"
+      - "Parce qu'un pont à arches coûtait moins cher qu'un canal souterrain"
+    answer: 1
+    explanation: "Ces structures aériennes ne servaient qu'à franchir les creux du terrain ; l'essentiel du réseau était souterrain ou au sol."
+  - question: "Pourquoi un aqueduc nécessitait-il un entretien régulier ?"
+    options:
+      - "Parce que les dépôts minéraux de l'eau s'accumulent et réduisent le débit"
+      - "Parce que l'eau finissait par s'évaporer dans le canal"
+      - "Parce que la pente devait être refaite chaque année"
+    answer: 1
+    explanation: "Les dépôts sur les parois réduisent le débit : nettoyage et réparation des fissures maintenaient l'ouvrage fonctionnel."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2788,6 +3005,20 @@ quiz:
       Grâce à l'engrènement de ses maillons dans des roues dentées, une chaîne transmet la
       puissance avec un minimum de glissement, ce qui la rend adaptée aux charges lourdes,
       contrairement à une courroie qui peut patiner.
+  - question: "Dans quel cas privilégie-t-on une courroie ?"
+    options:
+      - "Quand les axes sont très proches et qu'il faut une grande précision"
+      - "Quand il faut transmettre une force importante sans aucun glissement"
+      - "Pour une transmission à distance et silencieuse"
+    answer: 3
+    explanation: "Les courroies conviennent aux transmissions à distance et silencieuses ; les engrenages aux axes proches, les chaînes aux fortes forces."
+  - question: "Pourquoi de nombreuses machines combinent-elles plusieurs engrenages, courroies ou chaînes en série ?"
+    options:
+      - "Chaque élément ajuste un peu vitesse et force pour obtenir la combinaison finale voulue"
+      - "Parce qu'un seul élément ne peut jamais transmettre le mouvement"
+      - "Parce que cela supprime tout glissement"
+    answer: 1
+    explanation: "En enchaînant les éléments, on atteint précisément la vitesse et la force nécessaires à la tâche."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3508,6 +3739,20 @@ quiz:
       Le recyclage de l'aluminium permet d'économiser jusqu'à environ 95 % de l'énergie
       nécessaire par rapport à l'extraction et au raffinage du minerai brut, car il évite les
       étapes les plus coûteuses en énergie du procédé initial.
+  - question: "Comment juge-t-on qu'un bois de récupération est encore sain ?"
+    options:
+      - "Il est très léger et sonne creux quand on le tape"
+      - "Il résiste à la pression d'un ongle, ne sent pas le moisi et n'a pas de traces d'insectes"
+      - "Il est foncé et un peu humide au toucher"
+    answer: 2
+    explanation: "Ces signes simples indiquent qu'une pièce reste utilisable pour une nouvelle construction."
+  - question: "Que révèle le fait qu'un plastique flotte ou coule dans l'eau salée ?"
+    options:
+      - "Sa couleur d'origine"
+      - "Qu'il est recyclable ou non"
+      - "Cela aide à distinguer certaines familles de plastiques entre elles"
+    answer: 3
+    explanation: "Comme l'odeur au léger chauffage, la flottaison donne des indices sur le type de plastique."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3757,6 +4002,13 @@ quiz:
     answer: 2
     explanation: >
       Un matériau ductile se plie et prévient ; un matériau fragile se rompt brutalement.
+  - question: "Pourquoi une carrosserie de voiture est-elle conçue pour se déformer plastiquement en cas de choc ?"
+    options:
+      - "Pour rester élastique et reprendre sa forme initiale"
+      - "Pour absorber l'énergie au lieu de la transmettre aux passagers"
+      - "Pour durcir par écrouissage sans jamais se rompre"
+    answer: 2
+    explanation: "La déformation plastique dissipe l'énergie du choc, qui n'est donc pas transmise aux occupants."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -6079,6 +6331,13 @@ quiz:
     explanation: >
       On place le puits en amont et à bonne distance, souvent au moins 30 mètres, de toute source
       de pollution.
+  - question: "Pourquoi un forage abandonné doit-il être rebouché correctement ?"
+    options:
+      - "Parce qu'il crée un chemin direct pour les pollutions vers la nappe"
+      - "Parce qu'il fait baisser le niveau de la nappe"
+      - "Parce qu'il risque de provoquer un puits artésien"
+    answer: 1
+    explanation: "Laissé ouvert, il relie la surface à la nappe et permet aux polluants d'y descendre directement."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -13332,7 +13591,8 @@ slug: que-peuvent-faire-les-robots-sur-un-chantier-et-pourquoi-n-y-remplacent-il
 categoryPath: technologies-et-ingenierie/robotique/robots-mobiles
 summary: >
   Des robots posent des briques, lient des armatures, tracent des plans ou surveillent le
-  chantier. Ils répondent aux pénuries de main-d'œuvre, mais le coût et l'imprévu les limitent.
+  chantier. Ils répondent aux pénuries de main-d'œuvre, mais le coût, l'imprévu et l'adoption
+  réelle les limitent.
 tags: [robots-mobiles]
 sources:
   - title: "Robotics in Construction: Changing the Industry"
@@ -13381,7 +13641,7 @@ quiz:
     explanation: >
       Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision
       humaine.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -13391,7 +13651,7 @@ Des robots posent des briques, lient des armatures, tracent des plans ou surveil
 
 ## Poser, lier, tracer
 
-Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue. Des robots lient les armatures en continu, avec un seul ouvrier qui supervise. Des robots de traçage impriment directement les plans sur la dalle du chantier.
+Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue. Des robots lient les armatures en continu, avec un seul ouvrier qui supervise. Des robots de traçage impriment directement les plans sur la dalle du chantier : l'un d'eux réalise ce travail six fois plus vite que sans robot, selon un rapport cité en 2025.
 
 ## Creuser, démolir, surveiller
 
@@ -13399,7 +13659,19 @@ Des engins lourds autonomes, comme des excavatrices, déplacent les matériaux. 
 
 ## Pourquoi, et jusqu'où
 
-Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais. Beaucoup d'ouvriers qualifiés approchent de la retraite, et des postes restent vacants. Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées. Le coût d'achat est un frein, surtout pour les petites entreprises, et il faut intégrer les robots aux méthodes de travail. Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine. Des exosquelettes réduisent la fatigue et le risque de blessure.
+Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais. Peu de jeunes entrent dans le métier, beaucoup d'ouvriers qualifiés partent à la retraite et le travail est physiquement dur. Le cabinet McKinsey note aussi que les gains de productivité du secteur ont été faibles depuis vingt ans, très en dessous de l'industrie.
+
+Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées. Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine. Des exosquelettes réduisent la fatigue et le risque de blessure.
+
+## Entre enthousiasme et usage réel
+
+Un baromètre du secteur (BuiltWorlds) montre un décalage. Les avis positifs sur la robotique sont passés de 74 % en 2024 à plus de 95 % en 2025. Pourtant, la part des entreprises qui déclarent utiliser activement des robots a reculé, de 65 % à 46 %.
+
+Le coût d'achat est un frein, surtout pour les petites entreprises, et il faut intégrer les robots aux méthodes de travail.
+
+## Les humanoïdes, une promesse
+
+McKinsey voit dans les robots humanoïdes une solution potentiellement transformatrice, à condition qu'ils deviennent rentables. Aujourd'hui, leurs usages se limitent à des tâches répétitives dans des lieux très réguliers, comme des rayons de supermarché cartographiés. Un chantier, où rien n'est identique d'un jour à l'autre, reste un terrain bien plus difficile.
 
 ```schema
 type: systeme
@@ -13421,9 +13693,8 @@ parties:
 - Des robots maçons posent des briques de façon autonome, avec une grande précision et sans fatigue.
 - Des robots lient les armatures en continu, avec un seul ouvrier qui supervise.
 - Les raisons de leur essor sont la pénurie de main-d'œuvre, la sécurité, la productivité et la réduction des délais.
-- Les robots prennent les tâches répétitives ou dangereuses, pendant que les ouvriers se concentrent sur la supervision et les décisions qualifiées.
+- En 2025, les avis positifs dépassent 95 %, mais l'usage actif tombe à 46 % des entreprises.
 - Ils sont censés soutenir les ouvriers, pas les remplacer, et exigent une supervision humaine.
-
 ---
 type: article
 title: Comment une structure peut-elle tenir dans un sac, puis se déployer ou se gonfler ?

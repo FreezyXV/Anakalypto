@@ -187,6 +187,20 @@ quiz:
     explanation: >
       L'échographie utilise des ultrasons, l'IRM un champ magnétique et des ondes radio. C'est
       pourquoi l'échographie est privilégiée pour le suivi de grossesse.
+  - question: "Pourquoi chaque examen par scanner doit-il être justifié ?"
+    options:
+      - "Parce que l'appareil est mobile et ne peut pas être utilisé partout."
+      - "Parce qu'il délivre une dose de rayons plus élevée qu'une radiographie simple."
+      - "Parce qu'il est incompatible avec les implants métalliques."
+    answer: 2
+    explanation: "Le scanner prend des centaines de clichés sous tous les angles, ce qui donne une dose de rayons plus élevée qu'une radiographie. D'où la nécessité de justifier chaque examen."
+  - question: "Sur quoi repose l'image produite par une IRM ?"
+    options:
+      - "Sur le signal émis par les noyaux d'hydrogène, surtout ceux de l'eau, après des ondes radio dans un champ magnétique."
+      - "Sur les rayons X absorbés différemment par les tissus denses et les tissus mous."
+      - "Sur les échos d'ultrasons renvoyés par les interfaces entre tissus."
+    answer: 1
+    explanation: "L'IRM fait basculer les noyaux d'hydrogène avec des ondes radio dans un champ magnétique puissant. Le signal émis à leur retour construit l'image, sans rayonnement ionisant."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -315,6 +329,20 @@ quiz:
     explanation: >
       Le patient qui se croit traité va souvent mieux. Et le médecin qui sait évalue
       inconsciemment de façon différente. Masquer les deux élimine ces deux biais.
+  - question: "Pourquoi la phase IV, après la mise sur le marché, est-elle nécessaire ?"
+    options:
+      - "Pour refaire la démonstration d'efficacité sur un plus petit groupe de patients."
+      - "Pour choisir la dose tolérée chez des volontaires sains."
+      - "Pour détecter des effets rares qu'un essai de quelques milliers de patients ne peut pas révéler."
+    answer: 3
+    explanation: "Un effet touchant une personne sur dix mille échappe à un essai de trois mille patients. Il n'apparaît qu'une fois des centaines de milliers de personnes traitées."
+  - question: "Qu'est-ce qui détermine la dose, la fréquence des prises et la voie d'administration d'un médicament ?"
+    options:
+      - "Le nombre de volontaires inclus dans la phase I."
+      - "Le parcours du médicament dans l'organisme : absorption, distribution, transformation, élimination."
+      - "Le choix entre placebo et meilleur traitement existant."
+    answer: 2
+    explanation: "Un composé détruit par l'estomac ne peut pas être avalé, et un composé éliminé en deux heures doit être pris plusieurs fois par jour. Le parcours dans le corps fixe ces choix."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -443,6 +471,20 @@ quiz:
     explanation: >
       Les ventes de glaces et les noyades augmentent ensemble. Ce n'est pas la glace qui noie :
       c'est la chaleur qui augmente les deux.
+  - question: "Pourquoi le biais de publication déforme-t-il ce que l'on sait d'un traitement ?"
+    options:
+      - "Parce que les études à résultat positif sont plus souvent publiées que celles qui ne trouvent rien."
+      - "Parce que les études négatives sont toujours refaites jusqu'à devenir positives."
+      - "Parce que les revues refusent les études menées sur plus de vingt participants."
+    answer: 1
+    explanation: "Si les résultats positifs sont publiés plus souvent que les autres, la littérature disponible donne une image trop favorable de l'efficacité."
+  - question: "Que signifie un résultat statistiquement significatif mais cliniquement négligeable ?"
+    options:
+      - "Le résultat est dû au hasard et ne peut pas être reproduit."
+      - "L'effet est vérifié sur très peu de participants seulement."
+      - "L'effet est bien établi, mais trop petit pour changer vraiment la santé, comme gagner deux jours sur un rhume."
+    answer: 3
+    explanation: "Un effet peut être démontré sans avoir d'intérêt concret pour le patient. Être significatif statistiquement ne veut pas dire être important."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -567,6 +609,20 @@ quiz:
       C'est une distinction fondamentale. Modifier des cellules somatiques ne concerne que le
       patient. Modifier des cellules germinales affecterait toute sa descendance, ce qui pose
       des questions éthiques d'une tout autre nature.
+  - question: "Pourquoi la thérapie réactive-t-elle l'hémoglobine fœtale plutôt que de corriger le gène défectueux ?"
+    options:
+      - "Parce que l'hémoglobine fœtale est toujours produite et n'a pas besoin d'être activée."
+      - "Parce que corriger le gène est techniquement difficile, alors que l'hémoglobine fœtale fonctionne bien et compense le défaut."
+      - "Parce que l'hémoglobine fœtale se transmet ensuite aux enfants du patient."
+    answer: 2
+    explanation: "Réparer le gène est difficile. Il est plus simple de couper l'interrupteur qui éteint le gène de l'hémoglobine fœtale, qui compense la version défectueuse."
+  - question: "Pourquoi les cellules du patient sont-elles modifiées en laboratoire, hors du corps ?"
+    options:
+      - "Pour éviter de devoir recourir à une chimiothérapie préalable."
+      - "Pour pouvoir les produire en série et les donner à plusieurs patients."
+      - "Pour vérifier le résultat de la modification avant de les réinjecter."
+    answer: 3
+    explanation: "Modifier les cellules à l'extérieur du corps permet de contrôler le résultat avant de les réinjecter. La chimiothérapie reste nécessaire pour faire de la place dans la moelle."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -706,6 +762,20 @@ quiz:
       Auparavant, chaque nouvelle cible exigeait de concevoir une protéine sur mesure, ce qui
       prenait des mois. Fabriquer un brin guide se fait en quelques jours pour un coût
       dérisoire.
+  - question: "Que se passe-t-il si la cellule répare maladroitement l'ADN après la coupure ?"
+    options:
+      - "La séquence d'origine est restaurée sans erreur."
+      - "Le brin guide est détruit et la coupure se referme sans conséquence."
+      - "Des erreurs s'introduisent et désactivent le gène, ce qui est utile pour l'éteindre."
+    answer: 3
+    explanation: "La coupure ne corrige rien en elle-même : c'est la réparation par la cellule qui décide. Une réparation maladroite désactive le gène."
+  - question: "Quel est le principal risque technique de CRISPR ?"
+    options:
+      - "Le brin guide ne trouve jamais sa cible dans le génome."
+      - "La coupure hors cible, sur une séquence ressemblante ailleurs dans le génome."
+      - "La protéine qui coupe devient toxique pour la cellule sans raison."
+    answer: 2
+    explanation: "Le système peut agir sur une séquence ressemblant à la cible. Les méthodes de vérification se sont beaucoup améliorées pour limiter ce risque."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -830,6 +900,20 @@ quiz:
     explanation: >
       On introduit dans un micro-organisme les gènes d'une voie de fabrication. Il produit
       alors la molécule en fermenteur, ce qui sécurise l'approvisionnement.
+  - question: "Pourquoi l'évolution travaille-t-elle contre l'ingénieur en biologie de synthèse ?"
+    options:
+      - "Parce que les cellules refusent de recevoir des gènes venus d'autres espèces."
+      - "Parce que les briques génétiques sont détruites par l'eau du fermenteur."
+      - "Parce qu'une modification coûteuse en énergie est perdue au fil des générations, les individus qui l'abandonnent se multipliant plus vite."
+    answer: 3
+    explanation: "Une cellule qui se débarrasse d'une modification coûteuse se multiplie plus vite que les autres. Avec le temps, la modification disparaît de la population."
+  - question: "Comment cherche-t-on à garder les organismes conçus sous contrôle ?"
+    options:
+      - "En les rendant dépendants d'une molécule fournie artificiellement, pour qu'ils ne survivent pas hors du fermenteur."
+      - "En les gardant uniquement dans des régions froides où ils ne se multiplient pas."
+      - "En détruisant leur ADN dès la fin de chaque production."
+    answer: 1
+    explanation: "Le confinement consiste à concevoir des organismes incapables de survivre hors du fermenteur, par exemple parce qu'ils ont besoin d'une molécule apportée par l'humain."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -951,6 +1035,20 @@ quiz:
     explanation: >
       La vigueur hybride vient d'un croisement précis entre deux lignées. Les descendants de
       cet hybride sont hétérogènes et nettement moins performants.
+  - question: "Pourquoi le statut réglementaire de l'édition génomique diffère-t-il de celui de la transgenèse selon les pays ?"
+    options:
+      - "Parce qu'elle modifie une séquence déjà présente, sans ADN étranger, et que le résultat pourrait parfois être obtenu par sélection classique."
+      - "Parce qu'elle introduit toujours des gènes de bactéries dans la plante."
+      - "Parce qu'elle est interdite dans tous les pays qui autorisent la sélection assistée par marqueurs."
+    answer: 1
+    explanation: "L'édition génomique modifie une séquence existante sans introduire d'ADN étranger. Comme le même résultat pourrait parfois venir d'une sélection classique, son statut est discuté."
+  - question: "Pourquoi conserve-t-on dans des banques de semences des milliers de variétés anciennes ?"
+    options:
+      - "Parce que ces variétés produisent toujours plus que les variétés modernes."
+      - "Parce que la concentration sur quelques variétés très performantes rend les cultures vulnérables à une maladie nouvelle."
+      - "Parce que les variétés anciennes sont les seules à ne pas être des hybrides."
+    answer: 2
+    explanation: "Si tout repose sur peu de variétés, une maladie nouvelle peut tout détruire. Garder la diversité offre une réserve de caractères utiles."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1078,6 +1176,20 @@ quiz:
     explanation: >
       Une pratique à faible impact par hectare mais à rendement réduit peut exiger davantage
       de surface, donc davantage de défrichement ailleurs. C'est un calcul global.
+  - question: "À quoi sert une couverture végétale permanente du sol ?"
+    options:
+      - "À protéger de l'érosion, nourrir la vie du sol et capter de l'azote."
+      - "À remplacer complètement la rotation des cultures."
+      - "À augmenter la libération du carbone stocké dans le sol."
+    answer: 1
+    explanation: "Ne jamais laisser un sol nu protège de l'érosion, nourrit la vie du sol et permet de capter de l'azote."
+  - question: "Comment réduire l'usage des produits phytosanitaires sans les interdire mécaniquement ?"
+    options:
+      - "En les remplaçant par une dose standard appliquée une seule fois par an."
+      - "En traiter chaque parcelle de la même façon pour gagner du temps."
+      - "En surveillant les ravageurs et en ne traitant qu'au seuil de nuisibilité, avec des alternatives comme les prédateurs naturels."
+    answer: 3
+    explanation: "Les approches qui progressent combinent surveillance, seuil de nuisibilité, prédateurs naturels, variétés résistantes et traitements par zones, plutôt qu'un seul levier."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1201,6 +1313,20 @@ quiz:
     explanation: >
       Leurs galeries améliorent l'infiltration de l'eau et la pénétration des racines. Ils
       transforment aussi les débris végétaux en matière assimilable par les plantes.
+  - question: "Que se passe-t-il entre les champignons du sol et les racines des plantes ?"
+    options:
+      - "Les champignons dévorent les racines pour se nourrir de leurs tissus."
+      - "Ils apportent aux plantes de l'eau et des minéraux et reçoivent des sucres en échange."
+      - "Ils protègent les racines uniquement en bloquant l'eau de pluie."
+    answer: 2
+    explanation: "Les champignons forment des réseaux associés aux racines, prélèvent eau et minéraux au-delà de leur portée et reçoivent des sucres. Cela concerne la plupart des plantes terrestres."
+  - question: "Pourquoi le tassement par des engins lourds dégrade-t-il un sol ?"
+    options:
+      - "Il retire la matière organique en l'emportant avec les roues."
+      - "Il fait remonter les sels vers la surface après l'irrigation."
+      - "Il écrase la structure poreuse, ce qui empêche l'eau et les racines de pénétrer."
+    answer: 3
+    explanation: "Le passage d'engins lourds comprime le sol et détruit ses vides. L'eau et les racines ne peuvent plus y pénétrer correctement."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1435,6 +1561,13 @@ quiz:
     explanation: >
       Écouter le patient raconter ses symptômes, leur début et leur évolution oriente la plupart
       des diagnostics avant tout examen.
+  - question: "Que signifie un son mat à la percussion du thorax ou du ventre ?"
+    options:
+      - "Il indique la présence d'un liquide ou d'un organe plein, alors que l'air donne un son creux."
+      - "Il indique que le pouls est trop rapide pour être compté."
+      - "Il indique une zone remplie d'air, comme un poumon sain."
+    answer: 1
+    explanation: "En tapotant, on entend un son creux sur l'air et mat sur un liquide ou un organe plein. Ce son aide à repérer des anomalies."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -1602,6 +1735,13 @@ quiz:
     explanation: >
       Les antibiotiques n'agissent que sur les bactéries. Les utiliser sans raison favorise
       l'apparition de bactéries résistantes.
+  - question: "Pourquoi la pénicilline tue-t-elle les bactéries sans abîmer nos cellules ?"
+    options:
+      - "Parce qu'elle détruit surtout les virus, plus fragiles que les bactéries."
+      - "Parce qu'elle empêche la bactérie de fabriquer sa paroi, alors que nos cellules n'ont pas de paroi de ce type."
+      - "Parce qu'elle est détruite par le foie avant d'atteindre nos cellules."
+    answer: 2
+    explanation: "La pénicilline bloque la fabrication de la paroi bactérienne, et la bactérie éclate. Nos cellules n'ont pas cette paroi, donc elles sont épargnées."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -1762,6 +1902,13 @@ quiz:
     explanation: >
       Les prostaglandines participent à la douleur, à la fièvre et à l'inflammation. Cette
       découverte vaut à Vane le prix Nobel en 1982.
+  - question: "Pourquoi l'aspirine à faible dose est-elle prescrite à certains patients après un infarctus ?"
+    options:
+      - "Parce qu'elle calme la fièvre qui accompagne souvent l'infarctus."
+      - "Parce qu'elle remplace les médicaments contre la douleur dans tous les cas."
+      - "Parce qu'elle empêche les plaquettes du sang de s'agglutiner, ce qui prévient une récidive."
+    answer: 3
+    explanation: "En plus de son effet sur la douleur, l'aspirine empêche les plaquettes de s'agglutiner. À faible dose, elle aide donc à prévenir infarctus et accidents vasculaires."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2004,6 +2151,13 @@ quiz:
     explanation: >
       La digitale, la ciguë ou l'aconit sont naturelles et mortelles. Et la dose d'une tisane varie
       d'une préparation à l'autre.
+  - question: "Pourquoi la dose de substance active est-elle difficile à maîtriser quand on utilise une plante telle quelle ?"
+    options:
+      - "Parce qu'elle dépend de la variété, du sol, de la récolte et de la préparation."
+      - "Parce que les plantes perdent toute leur substance active en séchant."
+      - "Parce qu'elle est toujours identique, ce qui empêche de l'adapter à chaque patient."
+    answer: 1
+    explanation: "La teneur en substance active varie selon de nombreux facteurs. C'est pourquoi les médicaments isolent la substance et fixent une dose précise."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2204,6 +2358,13 @@ quiz:
     explanation: >
       Sans théorie des germes, son explication paraissait étrange, et elle faisait des médecins
       les responsables des morts. Il faudra Pasteur et Lister pour l'expliquer.
+  - question: "Comment Semmelweis procède-t-il pour trouver la cause de la mortalité dans la première clinique ?"
+    options:
+      - "Il se fie à l'avis des collègues qui expliquent la mortalité par le mauvais air."
+      - "Il examine une à une les explications possibles, change ce qui peut l'être et observe l'effet sur la mortalité."
+      - "Il choisit la solution la plus simple sans la comparer aux registres."
+    answer: 2
+    explanation: "Il écarte méthodiquement la surpopulation, l'air, la position ou la peur, puis relie les autopsies à la maladie. Il mesure ensuite l'effet du lavage des mains."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2406,6 +2567,13 @@ quiz:
     explanation: >
       Le scorbut est dû à un manque de vitamine C, que notre corps ne sait pas fabriquer. On la
       trouve dans les fruits et les légumes frais.
+  - question: "Quelles sont les limites de l'essai de Lind sur le Salisbury ?"
+    options:
+      - "Il ne comparait qu'un seul traitement, sans aucune autre solution testée."
+      - "Il a été mené sans que les marins aient reçu la même nourriture de base."
+      - "Il ne portait que sur douze personnes et les paires n'étaient pas tirées au sort."
+    answer: 3
+    explanation: "L'essai est précurseur, mais il est très petit et sans tirage au sort. Lind lui-même n'a pas clairement mis les agrumes en avant ensuite."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2769,6 +2937,13 @@ quiz:
     explanation: >
       À partir de 1857, il montre que levures et bactéries sont responsables des fermentations,
       et que des microbes indésirables les font tourner.
+  - question: "Quel principe commun se trouve derrière la propreté, le sel, l'absence d'air et un ferment déjà actif ?"
+    options:
+      - "Favoriser les bons microbes et décourager les mauvais."
+      - "Détruire tous les micro-organismes présents dans l'aliment."
+      - "Empêcher toute activité microbienne pendant la fermentation."
+    answer: 1
+    explanation: "Réussir une fermentation, c'est aider les micro-organismes utiles à s'installer et freiner ceux qui provoquent pourriture ou intoxication."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -2959,6 +3134,13 @@ quiz:
     explanation: >
       Une graine bien sèche, gardée au frais dans un bocal fermé, reste vivante bien plus
       longtemps.
+  - question: "Pourquoi ne cultive-t-on qu'une variété de courge à la fois, ou protège-t-on ses fleurs, pour produire des graines ?"
+    options:
+      - "Parce que les courges sont autogames et ne se croisent jamais entre elles."
+      - "Parce que les courges sont allogames : le vent ou les insectes apportent du pollen d'autres plantes, d'où des croisements faciles."
+      - "Parce que les courges ne font leurs graines que la deuxième année."
+    answer: 2
+    explanation: "Les plantes allogames sont fécondées par le pollen d'autres plantes, et deux variétés de la même espèce se croisent facilement, même éloignées."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3120,6 +3302,13 @@ quiz:
     explanation: >
       Les racines de vignes américaines résistent au phylloxéra, un puceron venu d'Amérique qui
       détruisait les vignobles européens à partir des années 1860.
+  - question: "Pourquoi choisit-on parfois un porte-greffe qui donne un arbre nain ?"
+    options:
+      - "Parce qu'il change la variété des fruits produits par le greffon."
+      - "Parce qu'il rend le greffage possible entre des plantes très éloignées."
+      - "Parce qu'il contrôle la vigueur : l'arbre est plus vite productif et plus facile à cueillir."
+    answer: 3
+    explanation: "Le porte-greffe fournit les racines et règle la vigueur. Un porte-greffe nanisant donne un arbre plus petit, productif plus tôt et plus facile à récolter."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3287,6 +3476,13 @@ quiz:
     explanation: >
       Le mildiou a détruit les récoltes de pommes de terre dont dépendait une grande partie de la
       population pauvre. Environ un million de personnes sont mortes.
+  - question: "Pourquoi les céréales ont-elles été la base des civilisations ?"
+    options:
+      - "Parce que leur grain sec se conserve des années et se transporte facilement."
+      - "Parce qu'elles produisent toutes plus de protéines que les légumineuses."
+      - "Parce qu'elles fixent l'azote de l'air et fertilisent elles-mêmes le sol."
+    answer: 1
+    explanation: "Un grain sec peut être stocké pendant des années et transporté, ce qui permet de nourrir une population tout au long de l'année."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -3432,6 +3628,20 @@ quiz:
       Des bactéries appelées rhizobiums vivent dans de petits nodules sur les racines des
       légumineuses. Elles transforment l'azote gazeux de l'air, que les plantes ne peuvent pas
       utiliser directement, en une forme assimilable qui enrichit ensuite le sol.
+  - question: "Pourquoi changer de famille de plantes chaque année casse-t-il le cycle des parasites ?"
+    options:
+      - "Parce que les parasites sont détruits par le travail du sol à chaque saison."
+      - "Parce que beaucoup de ravageurs sont spécialisés dans une famille et ne trouvent rien à manger l'année suivante."
+      - "Parce que les nouvelles plantes produisent des pesticides naturels dans le sol."
+    answer: 2
+    explanation: "Un insecte ou un champignon spécialisé sur le blé ne trouve pas sa plante si la parcelle passe en légumineuses ou en racines. La pression des parasites diminue."
+  - question: "En quoi consistait l'assolement triennal du Moyen Âge ?"
+    options:
+      - "À laisser chaque parcelle en jachère pendant trois années de suite."
+      - "À cultiver la même céréale pendant trois ans avant de changer de champ."
+      - "À faire tourner chaque année trois rôles : céréales d'hiver, céréales de printemps, jachère ou légumineuses."
+    answer: 3
+    explanation: "Une parcelle en céréales d'hiver, une en céréales de printemps, une en jachère ou légumineuses, les rôles tournant chaque année. Ce système a nettement augmenté la production."
 lastVerified: 2026-09-24
 status: published
 ---
@@ -3553,6 +3763,20 @@ quiz:
     explanation: >
       Les légumineuses laissent dans le sol une partie de l'azote qu'elles ont fixé, ce qui
       profite à la culture suivante et réduit le besoin d'engrais azoté apporté artificiellement.
+  - question: "Que reçoivent les bactéries des nodules en échange de l'azote qu'elles fournissent à la légumineuse ?"
+    options:
+      - "Des sucres produits par la photosynthèse de la plante."
+      - "De l'eau de pluie stockée dans les racines."
+      - "De l'azote supplémentaire pris dans le sol."
+    answer: 1
+    explanation: "La plante nourrit les bactéries avec des sucres issus de la photosynthèse. L'association profite aux deux partenaires."
+  - question: "Pourquoi un engrais vert restitue-t-il l'azote sans attendre une récolte ?"
+    options:
+      - "Parce que la légumineuse est coupée avant de produire des graines."
+      - "Parce que la légumineuse est retournée directement dans le sol au lieu d'être récoltée."
+      - "Parce que les bactéries quittent la plante pour se multiplier dans l'air."
+    answer: 2
+    explanation: "On sème la légumineuse non pour la récolter mais pour l'enfouir. L'azote qu'elle a fixé retourne alors directement au sol."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3689,6 +3913,20 @@ quiz:
     explanation: >
       Associer certaines plantes attire des prédateurs naturels des ravageurs et perturbe la
       capacité de certains insectes à localiser leur plante préférée par l'odeur.
+  - question: "Pourquoi planter de l'aneth, de la coriandre ou de l'alysson aide-t-il à protéger un jardin ?"
+    options:
+      - "Parce que leur odeur fait fuir tous les insectes du jardin."
+      - "Parce qu'elles empoisonnent les pucerons qui s'en approchent."
+      - "Parce qu'elles attirent des insectes prédateurs en leur offrant nourriture et abri."
+    answer: 3
+    explanation: "Ces fleurs hébergent et nourrissent les alliés naturels du jardin. Ceux-ci régulent ensuite les ravageurs sans intervention directe."
+  - question: "Pourquoi un champ cultivé avec une seule espèce est-il plus exposé aux ravageurs ?"
+    options:
+      - "Il offre un festin facile et concentré à un ravageur spécialisé."
+      - "Il attire moins de prédateurs, car ils n'aiment pas les champs uniformes."
+      - "Il ne peut pas être traité par la lutte biologique."
+    answer: 1
+    explanation: "Une culture unique concentre la nourriture du ravageur spécialisé. Mélanger les espèces lui complique la tâche pour trouver et envahir sa plante préférée."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3759,7 +3997,8 @@ title: L'irrigation économe en eau
 slug: irrigation-econome-eau
 categoryPath: sciences-du-vivant-appliquees/agronomie/agriculture-durable
 summary: >
-  Goutte-à-goutte, paillage, choix des cultures : produire avec moins d'eau.
+  Goutte-à-goutte, paillage, choix des cultures : produire avec moins d'eau. Les chiffres
+  montrent que la méthode compte, mais que l'entretien et le pilotage comptent autant.
 tags: [agriculture-durable, irrigation, eau, essentiel-reconstruction]
 relatedArticles: []
 sources:
@@ -3793,53 +4032,55 @@ quiz:
     explanation: >
       Une couche de paillage à la surface du sol réduit l'évaporation directe de l'eau, ce qui
       permet au sol de rester humide plus longtemps entre deux arrosages.
-lastVerified: 2026-09-28
+  - question: "Quelle efficacité potentielle le goutte-à-goutte atteint-il avec un système récent, entretenu et piloté ?"
+    options:
+      - "80 %"
+      - "60 %"
+      - "95 %"
+    answer: 3
+    explanation: "Le tableau de l'Université de Californie donne 95 % au niveau de gestion élevé, contre 88 % puis 80 % quand le système vieillit et n'est plus suivi."
+  - question: "Parmi ces méthodes, laquelle a la plus faible efficacité potentielle ?"
+    options:
+      - "Le sillon classique"
+      - "Le goutte-à-goutte"
+      - "Le pivot d'aspersion"
+    answer: 1
+    explanation: "Le sillon classique est donné entre 45 et 65 %, contre 80 à 95 % pour le goutte-à-goutte et 75 à 90 % pour le pivot."
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-Arroser une culture ne signifie pas forcément déverser de grandes quantités d'eau sur tout un
-champ. Plusieurs techniques permettent de produire autant, voire davantage, avec une quantité
-d'eau nettement réduite.
+Arroser une culture ne signifie pas forcément déverser de grandes quantités d'eau sur tout un champ. Plusieurs techniques permettent de produire autant, voire davantage, avec une quantité d'eau nettement réduite. Mais le matériel ne fait pas tout : son entretien et son pilotage pèsent lourd.
 
 ## L'irrigation goutte-à-goutte, une précision ciblée
 
-Ce système délivre l'eau lentement et directement près des racines de chaque plante, plutôt que
-d'arroser toute la surface du sol. Cette précision réduit considérablement les pertes par
-évaporation et par ruissellement hors de la zone utile aux racines.
+Ce système délivre l'eau lentement et directement près des racines de chaque plante, plutôt que d'arroser toute la surface du sol. Cette précision réduit considérablement les pertes par évaporation et par ruissellement hors de la zone utile aux racines.
 
 ## Le paillage, une protection contre l'évaporation
 
-Recouvrir le sol d'une couche de paille, de feuilles mortes ou d'autres matières organiques
-limite l'évaporation directe de l'eau exposée au soleil et au vent, ce qui permet au sol de
-conserver son humidité plus longtemps entre deux arrosages.
+Recouvrir le sol d'une couche de paille, de feuilles mortes ou d'autres matières organiques limite l'évaporation directe de l'eau exposée au soleil et au vent. Le sol conserve ainsi son humidité plus longtemps entre deux arrosages.
 
-## Choisir des cultures adaptées au climat local
+## Ce que disent les chiffres
 
-Certaines plantes nécessitent naturellement moins d'eau que d'autres pour produire une récolte
-comparable. Adapter le choix des cultures aux conditions climatiques locales réduit les besoins
-globaux en irrigation sans sacrifier la production.
+Un tableau de l'Université de Californie (UC ANR) compare l'efficacité potentielle des méthodes d'irrigation, exprimée en pourcentage de l'eau apportée. Le goutte-à-goutte atteint 80 à 95 %. Les pivots d'aspersion se situent entre 75 et 90 %, l'irrigation par bassin inondé entre 60 et 75 %, et le sillon classique entre 45 et 65 %.
 
-## Arroser au bon moment de la journée
+L'écart est donc considérable entre les méthodes. Ces valeurs sont des potentiels, pas des résultats garantis sur chaque parcelle.
 
-Arroser tôt le matin ou en fin de journée, lorsque les températures sont plus fraîches et
-l'évaporation plus faible, permet à une plus grande part de l'eau apportée d'atteindre réellement
-les racines plutôt que de s'évaporer avant d'y parvenir.
+## Le matériel ne suffit pas
 
-## Récupérer et réutiliser l'eau disponible localement
+Le même tableau distingue trois niveaux de gestion. Un système de moins de 10 ans, entretenu souvent et piloté grâce à des mesures de l'état hydrique du sol ou de la plante, atteint 95 % en goutte-à-goutte. Un système de plus de 10 ans, peu surveillé, tombe à 88 %. Un système de 20 ans ou plus, sans entretien ni suivi, est à 80 %.
 
-Collecter l'eau de pluie ou réutiliser une partie des eaux domestiques peu polluées pour
-l'irrigation réduit la dépendance à des sources d'eau plus lointaines ou plus précieuses.
+D'autres leviers s'ajoutent. Choisir des cultures adaptées au climat local réduit les besoins globaux sans sacrifier la production. Arroser tôt le matin ou en fin de journée, quand l'évaporation est plus faible, permet à plus d'eau d'atteindre les racines. Collecter l'eau de pluie ou réutiliser des eaux domestiques peu polluées réduit la dépendance à des sources plus lointaines.
 
 ## À retenir
 
-- L'irrigation goutte-à-goutte délivre l'eau directement aux racines, réduisant fortement les
-  pertes.
+- L'irrigation goutte-à-goutte délivre l'eau directement aux racines, réduisant fortement les pertes.
 - Le paillage limite l'évaporation de l'eau à la surface du sol.
-- Choisir des cultures adaptées au climat local réduit les besoins globaux en eau.
-- Arroser tôt le matin ou en soirée limite les pertes par évaporation immédiate.
-- Récupérer l'eau de pluie localement réduit la dépendance à des sources plus lointaines.
+- L'efficacité potentielle va de 80 à 95 % pour le goutte-à-goutte, contre 45 à 65 % pour le sillon classique.
+- Un système ancien et mal suivi perd une partie de son avantage : l'entretien et le pilotage comptent.
+- Cultures adaptées, arrosage aux heures fraîches et eau de pluie réduisent encore les besoins.
 
 ```schema
 type: systeme
@@ -3900,6 +4141,20 @@ quiz:
       Le fumier produit par les animaux d'élevage constitue un fertilisant naturel précieux qui
       enrichit le sol des cultures, en plus du lait, de la viande ou de la force de traction
       fournis par ces animaux.
+  - question: "Comment une ferme avec élevage peut-elle fonctionner en partie en circuit fermé ?"
+    options:
+      - "Les animaux sont nourris exclusivement avec des aliments achetés à l'extérieur."
+      - "Les animaux consomment des résidus de culture inutilisables par l'homme et rendent fumier, lait et force de travail."
+      - "Les animaux remplacent complètement les cultures végétales de l'exploitation."
+    answer: 2
+    explanation: "Fanes et paille nourrissent les animaux, qui restituent fumier, lait et force de travail. Ce cycle réduit la dépendance aux ressources extérieures."
+  - question: "Pourquoi transforme-t-on le lait en fromage ou en beurre ?"
+    options:
+      - "Pour le rendre plus riche en protéines que la viande."
+      - "Pour supprimer la nécessité d'élever des animaux de trait."
+      - "Pour obtenir une conservation plus longue."
+    answer: 3
+    explanation: "Le lait frais se garde peu de temps. Le fromage ou le beurre prolongent la conservation de cette production alimentaire."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4003,6 +4258,20 @@ quiz:
       Le sel attire l'eau contenue dans les cellules de l'aliment vers l'extérieur par osmose,
       créant un environnement trop sec pour la plupart des bactéries responsables de la
       décomposition.
+  - question: "En quoi la fermentation diffère-t-elle du séchage dans son principe ?"
+    options:
+      - "Elle encourage des micro-organismes utiles qui empêchent l'installation des nuisibles, au lieu d'empêcher toute activité microbienne."
+      - "Elle retire l'eau de l'aliment grâce au sel avant toute transformation."
+      - "Elle détruit tous les micro-organismes par la chaleur avant de sceller l'aliment."
+    answer: 1
+    explanation: "Le séchage prive les microbes d'eau. La fermentation transforme l'aliment avec des microbes utiles qui occupent la place et empêchent les nuisibles de s'installer."
+  - question: "Pourquoi les conserves peuvent-elles se garder plusieurs années ?"
+    options:
+      - "Parce que le sel qu'elles contiennent attire toute l'eau de l'aliment."
+      - "Parce que la chaleur détruit la plupart des micro-organismes et que le scellage empêche d'en laisser entrer de nouveaux."
+      - "Parce que la fumée qui les entoure ralentit les bactéries."
+    answer: 2
+    explanation: "On chauffe l'aliment puis on le scelle hermétiquement. Les micro-organismes présents sont détruits et aucun nouveau ne peut entrer."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4146,6 +4415,20 @@ quiz:
     explanation: >
       Un engrais vert est une culture, souvent une légumineuse, semée non pour être récoltée mais
       pour être coupée et mélangée au sol, où elle libère les nutriments qu'elle a accumulés.
+  - question: "Pourquoi les cendres de bois doivent-elles être utilisées avec modération ?"
+    options:
+      - "Parce qu'elles ne contiennent aucun minéral utile aux plantes."
+      - "Parce qu'elles brûlent les racines en dégageant de la chaleur."
+      - "Parce qu'elles restent alcalines, malgré leur apport en potassium."
+    answer: 3
+    explanation: "Les cendres apportent du potassium et d'autres minéraux, mais leur caractère alcalin impose de les utiliser avec modération, en complément du compost ou du fumier."
+  - question: "Pourquoi combine-t-on fumier, compost, cendres et engrais verts ?"
+    options:
+      - "Parce qu'aucune de ces méthodes seule ne remplace parfaitement un engrais industriel complet."
+      - "Parce que chacune de ces méthodes suffit seule, mais coûte plus cher que les autres."
+      - "Parce que le mélange permet de supprimer entièrement le travail du sol."
+    answer: 1
+    explanation: "Chaque source apporte des éléments différents. Les combiner selon les ressources locales entretient durablement la fertilité du sol."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4286,6 +4569,20 @@ quiz:
       Ce type de sol équilibré, souvent considéré comme idéal pour la plupart des cultures,
       combine sable, limon et argile dans des proportions qui favorisent à la fois le drainage
       et la rétention d'eau et de nutriments.
+  - question: "Que révèle une terre humide qui forme facilement un ruban long et lisse entre les doigts ?"
+    options:
+      - "Qu'elle contient surtout du sable."
+      - "Qu'elle contient beaucoup d'argile."
+      - "Qu'elle manque de matière organique."
+    answer: 2
+    explanation: "Le test au toucher distingue les sols : un ruban long et lisse indique beaucoup d'argile, alors qu'une terre granuleuse qui s'effrite est surtout sableuse."
+  - question: "Quelle conséquence a un sol trop sableux sur les pratiques de culture ?"
+    options:
+      - "Il retient trop l'eau et demande un ameublissement pour éviter l'asphyxie des racines."
+      - "Il a besoin d'être tassé pour que les racines puissent s'y accrocher."
+      - "Il draine vite mais retient mal l'eau et les nutriments, d'où des apports plus fréquents de matière organique."
+    answer: 3
+    explanation: "Un sol sableux laisse filer l'eau et les nutriments. Il faut donc y apporter plus souvent de la matière organique, à l'inverse du sol argileux qui retient trop l'eau."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -7853,6 +8150,13 @@ quiz:
     answer: 1
     explanation: >
       Le hasard répartit de façon équilibrée l'âge, la gravité et les autres facteurs entre les groupes.
+  - question: "Que fait-on quand un double aveugle est impossible, par exemple pour une chirurgie ?"
+    options:
+      - "On renonce à comparer les groupes."
+      - "On rend aveugle au moins l'évaluateur, qui mesure les résultats sans connaître le groupe du patient."
+      - "On laisse chaque patient choisir librement son traitement."
+    answer: 2
+    explanation: "Une chirurgie ne peut pas se cacher, mais la personne qui mesure les résultats peut ignorer à quel groupe appartient le patient. Cela limite le biais de l'observateur."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -11679,7 +11983,8 @@ slug: comment-un-aimant-geant-et-des-ondes-radio-fabriquent-ils-une-image-de-l-i
 categoryPath: sciences-du-vivant-appliquees/medecine/imagerie-medicale
 summary: >
   L'IRM aligne les noyaux d'hydrogène du corps avec un champ magnétique puissant, les perturbe
-  avec des ondes radio, puis mesure leur signal. Un ordinateur en fait une image, sans rayons X.
+  avec des ondes radio, puis mesure leur signal. Selon la séquence choisie, la graisse ou l'eau
+  ressort en clair.
 tags: [imagerie-medicale]
 sources:
   - title: "Magnetic Resonance Imaging (MRI)"
@@ -11691,6 +11996,10 @@ sources:
   - title: "Magnetic resonance imaging"
     url: "https://en.wikipedia.org/wiki/Magnetic_resonance_imaging"
     publisher: "Wikipedia"
+  - title: "MR Imaging: Brief Overview and Emerging Applications"
+    url: "https://radiology.queensu.ca/source/MRI_Tutorial_Physics_and_Emerging_Applications.Radiographics.2007.pdf"
+    publisher: "RadioGraphics (RSNA)"
+    date: "2007"
 quiz:
   - question: "Que fait l'aimant d'une IRM aux protons du corps ?"
     options:
@@ -11727,7 +12036,7 @@ quiz:
     explanation: >
       Les objets métalliques ferromagnétiques, comme certains stimulateurs cardiaques, sont une
       contre-indication, car le champ magnétique est très puissant.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -11741,7 +12050,19 @@ Un aimant très puissant crée un champ magnétique qui force les protons du cor
 
 ## Écouter, localiser, reconstruire
 
-En revenant à l'équilibre, les protons émettent un signal que des capteurs détectent, et ce signal diffère selon les tissus. Des gradients du champ magnétique permettent de savoir d'où vient chaque signal dans l'espace. Un ordinateur reconstruit ensuite une image en deux ou trois dimensions. L'intensité du champ se mesure en teslas, et les appareils plus puissants donnent des images plus nettes des tissus mous.
+En revenant à l'équilibre, les protons émettent un signal que des capteurs détectent, et ce signal diffère selon les tissus. Des gradients du champ magnétique permettent de savoir d'où vient chaque signal dans l'espace. Un ordinateur reconstruit ensuite une image en deux ou trois dimensions.
+
+## Deux types d'images, T1 et T2
+
+Le contraste dépend de la vitesse à laquelle chaque tissu revient à l'équilibre, et du rythme des impulsions choisi par l'opérateur. Une séquence T1 utilise des délais courts, par exemple 700 et 20 millisecondes. La graisse y apparaît claire, tandis que l'eau et le liquide qui entoure la moelle épinière sont sombres.
+
+Une séquence T2 utilise des délais longs, par exemple 2000 et 80 millisecondes. L'eau devient alors brillante. Le même organe peut donc raconter des choses différentes selon la séquence, ce qui aide à repérer un œdème ou une lésion.
+
+## De 0,1 à 9,4 teslas
+
+L'intensité du champ se mesure en teslas. La plupart des appareils cliniques sont des aimants supraconducteurs de 1,5 à 3 T. Des aimants résistifs plus faibles, de 0,1 à 0,3 T, existent aussi. En recherche, des images du corps humain ont été obtenues jusqu'à 4, 7, 8 et même 9,4 T.
+
+Un champ plus fort augmente le signal par rapport au bruit, donc la netteté. Il a un prix : l'énergie radio déposée dans les tissus devient un enjeu de sécurité, et les aimants supraconducteurs exigent des fluides très froids, comme l'hélium liquide.
 
 ## Ce que l'IRM voit, et ce qu'elle exige
 
@@ -11767,9 +12088,8 @@ elements:
 - Un aimant très puissant crée un champ magnétique qui force les protons du corps à s'aligner avec lui.
 - Une impulsion d'ondes radio les fait sortir de leur alignement.
 - En revenant à l'équilibre, les protons émettent un signal qui diffère selon les tissus.
+- En T1 la graisse est claire, en T2 l'eau est brillante.
 - Contrairement aux rayons X et au scanner, l'IRM n'utilise pas de rayonnement ionisant.
-- Les objets métalliques ferromagnétiques sont une contre-indication, car le champ magnétique est très puissant.
-
 ---
 type: article
 title: Comment les microbes du sol aident-ils les plantes à pousser ?

@@ -334,6 +334,20 @@ quiz:
     explanation: >
       C'est la troisième loi. Sans cette réaction du sol, vous ne pourriez pas avancer — ce
       qu'on constate sur une surface parfaitement glissante.
+  - question: "Pourquoi doit-on continuer d'appuyer sur l'accélérateur pour maintenir une vitesse constante ?"
+    options:
+      - "Parce qu'une force est toujours nécessaire pour entretenir une vitesse."
+      - "Parce que le moteur compense simplement les frottements."
+      - "Parce que la voiture perd de la masse en roulant."
+    answer: 2
+    explanation: "Une force produit un changement de vitesse, pas une vitesse. À vitesse constante, le moteur ne fait que compenser les frottements."
+  - question: "Pourquoi une fusée peut-elle fonctionner dans le vide ?"
+    options:
+      - "Parce qu'elle s'appuie sur la haute atmosphère pour avancer."
+      - "Parce qu'elle utilise le frottement des gaz contre l'espace."
+      - "Parce qu'elle projette des gaz vers l'arrière et que ceux-ci la poussent vers l'avant, sans rien contre quoi s'appuyer."
+    answer: 3
+    explanation: "C'est la troisième loi : l'action des gaz expulsés entraîne une réaction égale et opposée sur la fusée. Aucun appui extérieur n'est nécessaire."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -457,6 +471,20 @@ quiz:
     explanation: >
       Rien ne se perd, mais tout ne revient pas sous forme utilisable. Le bruit du rebond est
       littéralement de l'énergie qui part ailleurs.
+  - question: "Pourquoi doubler la vitesse d'une voiture multiplie-t-il par quatre son énergie cinétique ?"
+    options:
+      - "Parce que l'énergie cinétique dépend de la masse et du carré de la vitesse."
+      - "Parce que la masse de la voiture double aussi avec la vitesse."
+      - "Parce que l'énergie cinétique dépend du double de la vitesse."
+    answer: 1
+    explanation: "L'énergie cinétique varie comme le carré de la vitesse : vitesse deux fois plus grande, énergie quatre fois plus grande, et choc beaucoup plus violent."
+  - question: "Pourquoi un moteur thermique ne peut-il jamais atteindre 100 % de rendement ?"
+    options:
+      - "Parce que la technique actuelle n'est pas encore assez avancée."
+      - "Parce que c'est une loi de la nature, pas un problème de technique."
+      - "Parce que l'énergie du carburant disparaît en cours de route."
+    answer: 2
+    explanation: "Aucune machine thermique ne peut convertir toute son énergie en mouvement : ce n'est pas un défaut technique mais une loi de la nature."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -587,6 +615,20 @@ quiz:
     explanation: >
       C'est le point le plus troublant. Le simple fait d'obtenir l'information sur le chemin
       suivi détruit le comportement ondulatoire.
+  - question: "Que verrait-on sur l'écran si les particules se comportaient comme de simples billes ?"
+    options:
+      - "Une succession de franges claires et sombres."
+      - "Un écran uniformément éclairé."
+      - "Deux bandes, une derrière chaque fente."
+    answer: 3
+    explanation: "Des billes passeraient par l'une ou l'autre fente et formeraient deux bandes. Les franges observées montrent un comportement d'onde."
+  - question: "Que sait-on et que débat-on à propos de ces résultats quantiques ?"
+    options:
+      - "Les équations sont bien établies et prédisent les résultats, mais leur interprétation reste débattue."
+      - "L'interprétation est tranchée, mais les équations ne prédisent pas bien les résultats."
+      - "Ni les équations ni l'interprétation ne sont acceptées par les physiciens."
+    answer: 1
+    explanation: "La description mathématique est la mieux vérifiée de la physique. C'est ce qui se passe réellement entre l'émission et la détection qui reste discuté."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -704,6 +746,20 @@ quiz:
     explanation: >
       Une vibration, un champ magnétique parasite, un photon suffisent. Sans correction
       efficace, l'erreur s'accumule bien avant la fin d'un calcul utile.
+  - question: "Pourquoi les qubits sont-ils maintenus à des températures proches du zéro absolu et isolés ?"
+    options:
+      - "Parce que le froid leur permet de contenir deux fois plus d'information."
+      - "Parce que la chaleur est nécessaire pour déclencher la mesure."
+      - "Parce qu'une vibration, un champ parasite ou un photon égaré peut détruire leur superposition."
+    answer: 3
+    explanation: "Les qubits sont extrêmement fragiles. La décohérence détruit leur état quantique en une fraction de seconde, d'où cet isolement, qui ne suffit pourtant pas à supprimer les erreurs."
+  - question: "Que se passe-t-il avec la correction d'erreurs quand le taux d'erreur individuel est trop élevé ?"
+    options:
+      - "Ajouter des qubits réduit encore plus les erreurs."
+      - "Le nombre de qubits n'a aucune influence sur le taux d'erreur."
+      - "Agrandir le système empire les choses, car chaque qubit ajoute des sources d'erreur."
+    answer: 3
+    explanation: "Il existe un seuil : en dessous, plus de qubits réduisent les erreurs, au-dessus c'est l'inverse. Franchir ce seuil est l'étape décisive."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -830,6 +886,20 @@ quiz:
     explanation: >
       Les équations prédisaient des ondes se déplaçant à une vitesse calculable, qui s'est
       révélée être exactement celle de la lumière. La conclusion s'est imposée d'elle-même.
+  - question: "Que montre l'aiguille de boussole qui dévie près d'un fil parcouru par un courant ?"
+    options:
+      - "Qu'un courant électrique produit du magnétisme."
+      - "Qu'un aimant produit de l'électricité même immobile."
+      - "Que la Terre cesse un instant d'être magnétique."
+    answer: 1
+    explanation: "En 1820, cette observation a révélé que l'électricité produit du magnétisme. Elle a mené à l'électroaimant, qu'on allume et éteint à volonté."
+  - question: "Pourquoi le transformateur est-il indispensable au réseau électrique ?"
+    options:
+      - "Il produit l'électricité à partir du mouvement d'un aimant."
+      - "Il permet d'élever ou d'abaisser une tension, sans quoi le transport sur de longues distances serait impossible."
+      - "Il transforme directement la lumière en courant électrique."
+    answer: 2
+    explanation: "Sans transformateur, on ne pourrait pas adapter la tension pour transporter l'électricité sur de longues distances."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -953,6 +1023,20 @@ quiz:
     explanation: >
       Au-delà d'une température caractéristique, l'agitation devient plus forte que ce qui
       maintient l'alignement. Les domaines se désorientent et le magnétisme disparaît.
+  - question: "Pourquoi un morceau de fer ordinaire n'est-il pas un aimant ?"
+    options:
+      - "Parce que ses électrons ne possèdent aucune propriété magnétique."
+      - "Parce qu'il est trop pur pour pouvoir s'aimanter."
+      - "Parce qu'il est divisé en domaines orientés dans des directions différentes, qui s'annulent."
+    answer: 3
+    explanation: "Dans chaque domaine tout est aligné, mais les domaines pointent dans des directions variées et leurs effets s'annulent. Dans un aimant permanent, l'alignement est figé."
+  - question: "Comment la Terre produit-elle son champ magnétique ?"
+    options:
+      - "Par un gros aimant permanent enfoui près de sa surface."
+      - "Par le mouvement de métal liquide dans son noyau externe, selon un mécanisme de dynamo."
+      - "Par la chaleur des particules chargées venues du Soleil."
+    answer: 2
+    explanation: "Le noyau externe, fait de métal liquide en mouvement, engendre le champ par un mécanisme de dynamo. Ce champ oriente les boussoles et dévie des particules solaires."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1081,6 +1165,20 @@ quiz:
     explanation: >
       Il y a beaucoup plus de façons d'être en désordre que d'être rangé. C'est pourquoi, sans
       apport d'énergie, tout tend spontanément vers le désordre.
+  - question: "Pourquoi est-il pratiquement impossible de retrouver l'ordre initial d'un jeu de cartes en le battant ?"
+    options:
+      - "Parce que les lois de la physique interdisent formellement ce retour"
+      - "Parce que cet arrangement est un seul parmi un nombre astronomique de dispositions possibles"
+      - "Parce que battre les cartes détruit l'énergie qui les maintenait rangées"
+    answer: 2
+    explanation: "Ce n'est pas impossible en théorie, mais l'ordre initial n'est qu'un arrangement parmi un nombre astronomique d'arrangements désordonnés. Il y a énormément plus de façons d'être en désordre que d'être rangé."
+  - question: "Un être vivant construit de l'ordre. Pourquoi cela ne viole-t-il pas le second principe ?"
+    options:
+      - "Parce qu'il n'est pas isolé : il rejette chaleur et déchets, ce qui crée un désordre plus grand à l'extérieur"
+      - "Parce que les êtres vivants échappent aux lois de la thermodynamique"
+      - "Parce que l'ordre construit est trop petit pour compter dans le bilan global"
+    answer: 1
+    explanation: "Le second principe concerne les systèmes isolés. Un être vivant prend de l'énergie à son environnement et y rejette chaleur et déchets : l'ordre local se paie par un désordre plus grand ailleurs."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1208,6 +1306,20 @@ quiz:
     explanation: >
       Vos pieds ne mesurent pas la température mais la vitesse à laquelle ils perdent de la
       chaleur. Le carrelage l'évacue rapidement, le tapis beaucoup moins.
+  - question: "Pourquoi une étincelle à plus de mille degrés ne brûle-t-elle pas la peau, alors qu'un bain à soixante degrés est insupportable ?"
+    options:
+      - "Parce que la peau résiste mieux aux très hautes températures qu'à l'eau chaude"
+      - "Parce que l'étincelle est en réalité moins chaude que le bain"
+      - "Parce que l'étincelle contient très peu de matière et ne peut donc transmettre qu'une énergie dérisoire"
+    answer: 3
+    explanation: "La température mesure l'agitation des particules, mais l'énergie transmise dépend aussi de la quantité de matière. L'étincelle est minuscule, alors que le bain contient des dizaines de kilogrammes d'eau."
+  - question: "Comment un radiateur chauffe-t-il principalement une pièce ?"
+    options:
+      - "En rayonnant directement vers chaque objet de la pièce"
+      - "En mettant l'air en mouvement : l'air chaud monte et l'air froid descend"
+      - "En chauffant les murs par contact, de proche en proche"
+    answer: 2
+    explanation: "Un radiateur chauffe surtout par convection : l'air chaud, moins dense, monte tandis que l'air froid descend, ce qui met l'air de la pièce en mouvement."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1332,6 +1444,20 @@ quiz:
     explanation: >
       Ce sont ces électrons externes qui participent aux liaisons chimiques. Même nombre, même
       comportement : tous les gaz de la dernière colonne sont inertes pour cette raison.
+  - question: "Pourquoi les gaz nobles réagissent-ils pratiquement avec rien ?"
+    options:
+      - "Leur couche externe est complète, ils n'ont donc rien à gagner à se lier"
+      - "Ils n'ont aucun électron autour de leur noyau"
+      - "Leur noyau contient trop de protons pour permettre une liaison"
+    answer: 1
+    explanation: "Les gaz nobles ont une couche externe complète. Comme ce sont les électrons externes qui participent aux liaisons, ils n'ont aucun intérêt à se lier."
+  - question: "Qu'est-ce qui fait la force de la classification de Mendeleïev ?"
+    options:
+      - "Elle ne laissait aucune case vide, ce qui la rendait complète"
+      - "Elle rangeait les éléments selon leur abondance sur Terre"
+      - "Elle permettait de prédire les propriétés d'éléments encore inconnus grâce aux cases laissées vides"
+    answer: 3
+    explanation: "Mendeleïev a laissé des cases vides et prédit les propriétés des éléments manquants, qui ont été découverts ensuite. Une bonne classification ne range pas seulement ce qu'on connaît, elle prédit ce qu'on ignore."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1454,6 +1580,20 @@ quiz:
     explanation: >
       Dans le diamant, chaque atome est lié à quatre voisins en réseau rigide. Dans le
       graphite, les atomes forment des feuillets qui glissent les uns sur les autres.
+  - question: "Pourquoi le nom chimie organique est-il trompeur ?"
+    options:
+      - "Parce que ces molécules peuvent être fabriquées à partir de composés minéraux, comme l'urée en 1828"
+      - "Parce que la plupart de ces molécules ne contiennent pas de carbone"
+      - "Parce que seules les plantes sont capables d'en produire"
+    answer: 1
+    explanation: "On croyait que ces molécules exigeaient une force vitale propre aux êtres vivants. La synthèse de l'urée à partir de composés minéraux en 1828 a montré que c'était faux, mais le nom est resté."
+  - question: "Qu'est-ce qui détermine surtout le comportement d'une molécule organique ?"
+    options:
+      - "Sa taille, c'est-à-dire le nombre d'atomes qu'elle contient"
+      - "Le nombre de liaisons doubles de son squelette"
+      - "Les groupes fonctionnels greffés sur son squelette de carbone"
+    answer: 3
+    explanation: "Le comportement d'une molécule organique dépend moins de sa taille que des groupes fonctionnels (alcool, acide, amine...) greffés sur le squelette de carbone."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1580,6 +1720,20 @@ quiz:
     explanation: >
       Rien ne s'arrête au niveau moléculaire. Les proportions restent simplement constantes,
       car il se forme autant de produits qu'il s'en défait.
+  - question: "Quel est le rôle d'un catalyseur dans une réaction chimique ?"
+    options:
+      - "Il rend possible une réaction qui ne pouvait pas se produire"
+      - "Il abaisse la barrière d'activation sans être consommé et accélère ce qui pouvait déjà se produire"
+      - "Il fournit l'énergie de départ en étant consommé par la réaction"
+    answer: 2
+    explanation: "Un catalyseur abaisse la barrière d'activation sans être consommé. Il ne rend pas possible une réaction impossible : il accélère ce qui pouvait déjà se produire."
+  - question: "Pourquoi des copeaux fins de bois brûlent-ils beaucoup plus vite qu'une bûche de même masse ?"
+    options:
+      - "Le bois en copeaux contient plus d'énergie que le bois en bûche"
+      - "Les copeaux n'ont pas de barrière d'activation à franchir"
+      - "La surface de contact est bien plus grande, ce qui multiplie les rencontres entre molécules"
+    answer: 3
+    explanation: "Une grande surface de contact multiplie les rencontres entre molécules et accélère la réaction. C'est aussi pourquoi les poussières de farine ou de bois peuvent exploser."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1705,6 +1859,20 @@ quiz:
     explanation: >
       C'est le geste décisif : on manipule l'inconnue selon les règles habituelles jusqu'à
       l'isoler. Sans cela, chaque problème devrait être résolu par un raisonnement particulier.
+  - question: "Quel est le geste décisif de l'algèbre ?"
+    options:
+      - "Essayer des valeurs successives jusqu'à tomber sur la bonne"
+      - "Traiter l'inconnu comme s'il était connu et laisser les règles de calcul faire le travail"
+      - "Raisonner en mots sur la situation décrite par le problème"
+    answer: 2
+    explanation: "L'algèbre écrit une relation entre une lettre et des nombres, puis la manipule selon des règles précises jusqu'à isoler la lettre. Elle traite donc l'inconnu comme s'il était connu."
+  - question: "Pourquoi une formule algébrique générale est-elle si précieuse ?"
+    options:
+      - "Elle résout d'un coup tous les problèmes du même type, pour toutes les valeurs possibles"
+      - "Elle évite d'avoir à utiliser des lettres dans les calculs"
+      - "Elle ne fonctionne que pour une valeur précise, mais très rapidement"
+    answer: 1
+    explanation: "Une formule générale répond pour toutes les valeurs possibles, alors que le tâtonnement demanderait un travail nouveau à chaque problème."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1826,6 +1994,20 @@ quiz:
     explanation: >
       La théorie des nombres, longtemps jugée inutile, fonde aujourd'hui le chiffrement. La
       géométrie non euclidienne a servi à la relativité générale.
+  - question: "Quelle différence y a-t-il entre la médaille Fields et le prix Abel ?"
+    options:
+      - "Le prix Abel est réservé aux mathématiciens de moins de quarante ans"
+      - "La médaille Fields est décernée chaque année, le prix Abel tous les quatre ans"
+      - "La médaille Fields est réservée aux moins de quarante ans, alors que le prix Abel n'a pas de limite d'âge"
+    answer: 3
+    explanation: "La médaille Fields est décernée tous les quatre ans à des mathématiciens de moins de quarante ans. Le prix Abel est annuel, sans limite d'âge, et récompense une contribution d'ensemble."
+  - question: "En quoi une démonstration mathématique diffère-t-elle d'une théorie en physique ou en biologie ?"
+    options:
+      - "Elle est révisée à chaque nouvelle observation"
+      - "Une démonstration correcte est définitive, alors qu'une théorie empirique reste provisoire"
+      - "Elle repose uniquement sur des expériences répétées"
+    answer: 2
+    explanation: "Une théorie empirique tient tant qu'une observation ne la contredit pas. Une démonstration correcte reste valide indéfiniment dans son cadre, comme le théorème de Pythagore."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1944,6 +2126,20 @@ quiz:
     explanation: >
       On ne compare pas une personne aux autres mais toutes les paires possibles : il y en a
       253 dans un groupe de 23. C'est pourquoi le résultat surprend tant.
+  - question: "Pourquoi des coïncidences extraordinaires se produisent-elles régulièrement ?"
+    options:
+      - "Parce que le hasard compense ses écarts en produisant des coïncidences"
+      - "Parce que les occasions sont si nombreuses que l'improbable devient quasi certain quelque part"
+      - "Parce que les événements rares sont plus fréquents que leur probabilité ne l'indique"
+    answer: 2
+    explanation: "Une chance sur un million devient quasi certaine si la situation se répète des millions de fois. L'erreur est de s'étonner qu'elle arrive à quelqu'un plutôt qu'à soi."
+  - question: "Un test détecte 99 % des malades et se trompe dans 1 % des cas sur les personnes saines. Pourquoi un test positif ne signifie-t-il qu'environ 1 % de risque d'être malade si la maladie touche une personne sur dix mille ?"
+    options:
+      - "Parce que le test détecte très mal les vrais malades"
+      - "Parce que le test se trompe une fois sur deux"
+      - "Parce que la maladie est rare : les faux positifs sont bien plus nombreux que les vrais malades détectés"
+    answer: 3
+    explanation: "Sur un million de personnes testées, environ cent malades sont détectés mais environ dix mille personnes saines sont positives à tort. La probabilité dépend donc de la fréquence de la maladie."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2074,6 +2270,20 @@ quiz:
     explanation: >
       Sur une surface courbe, les règles changent. Un triangle tracé entre le pôle Nord et deux
       points de l'équateur peut avoir trois angles droits, soit 270 degrés.
+  - question: "Qu'ont découvert les mathématiciens du XIXe siècle en supposant le cinquième axiome faux ?"
+    options:
+      - "Une contradiction qui prouvait que l'axiome était un théorème"
+      - "Des géométries parfaitement cohérentes, simplement différentes"
+      - "Que les quatre autres axiomes devaient aussi être faux"
+    answer: 2
+    explanation: "Ils n'ont trouvé aucune contradiction. Ils ont au contraire construit des géométries parfaitement cohérentes, simplement différentes de celle d'Euclide."
+  - question: "Pourquoi la géométrie des espaces courbes a-t-elle servi à Einstein ?"
+    options:
+      - "Elle permettait de calculer la vitesse de la lumière"
+      - "Elle prouvait que la gravité est une force au sens de Newton"
+      - "Dans la relativité générale, la gravité est une déformation de l'espace-temps, qu'il fallait décrire avec une géométrie courbe"
+    answer: 3
+    explanation: "Pour Einstein, la gravité est une déformation de l'espace-temps par les masses, et un objet suit le chemin le plus direct dans un espace courbé. Il lui fallait donc une géométrie des espaces courbes, qui existait déjà."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2198,6 +2408,20 @@ quiz:
       C'est la différence essentielle avec les théories antérieures. Un caractère acquis
       pendant la vie ne se transmet pas : c'est la variation héréditaire préexistante qui est
       triée.
+  - question: "Pourquoi le nerf de la girafe fait-il un long détour entre le cerveau et le larynx ?"
+    options:
+      - "Parce que ce trajet est le plus efficace possible pour un long cou"
+      - "Parce qu'il suivait déjà ce trajet chez un ancêtre poisson : l'évolution bricole avec l'existant"
+      - "Parce que le besoin d'atteindre les feuilles a allongé ce nerf au cours de la vie de chaque girafe"
+    answer: 2
+    explanation: "L'évolution ne repart jamais de zéro. Le nerf suivait déjà ce trajet chez un ancêtre au cou inexistant, d'où cette imperfection."
+  - question: "Comment la génétique et la découverte de l'ADN ont-elles complété la théorie de Darwin ?"
+    options:
+      - "Elles ont montré que les caractères acquis pendant la vie se transmettent"
+      - "Elles ont prouvé que l'évolution poursuit un but"
+      - "Elles ont fourni le mécanisme de l'hérédité, que Darwin ignorait"
+    answer: 3
+    explanation: "Darwin ignorait comment fonctionnait l'hérédité. La génétique, puis la découverte de l'ADN, ont apporté ce mécanisme manquant."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2325,6 +2549,20 @@ quiz:
     explanation: >
       Les clichés obtenus par Rosalind Franklin, notamment le cliché 51, montraient un motif
       caractéristique d'une structure hélicoïdale.
+  - question: "Pourquoi, dans n'importe quel ADN, la quantité de A égale-t-elle celle de T ?"
+    options:
+      - "Parce que face à un A se trouve toujours un T sur le brin complémentaire"
+      - "Parce que A et T sont les deux seules bases présentes dans l'ADN"
+      - "Parce que A et T sont fabriquées ensemble par la cellule en quantités égales"
+    answer: 1
+    explanation: "Les deux brins sont complémentaires : face à un A se trouve toujours un T, et face à un G toujours un C. Cela explique la régularité observée."
+  - question: "Comment la structure de l'ADN permet-elle de le copier ?"
+    options:
+      - "La cellule fabrique une molécule entièrement nouvelle sans modèle"
+      - "On sépare les deux brins et on complète chacun, ce qui donne deux molécules identiques"
+      - "On copie un seul brin et l'autre est détruit"
+    answer: 2
+    explanation: "Chaque brin contient la totalité de l'information. Il suffit de séparer les deux brins et de compléter chacun pour obtenir deux molécules identiques à l'original."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2451,6 +2689,20 @@ quiz:
     explanation: >
       Elles possèdent leur propre ADN, se divisent indépendamment et ont une double membrane.
       Ces indices convergent vers une origine par symbiose.
+  - question: "Quelle différence y a-t-il entre une cellule de bactérie et une cellule à noyau ?"
+    options:
+      - "La cellule bactérienne est plus grande et plus compartimentée"
+      - "La cellule bactérienne est petite et simple, avec un ADN qui flotte librement sans noyau"
+      - "La cellule bactérienne ne contient pas d'ADN"
+    answer: 2
+    explanation: "Les bactéries ont des cellules sans noyau, petites et simples, dont l'ADN flotte librement. Les cellules à noyau sont plus grandes et compartimentées."
+  - question: "Quel indice appuie l'idée que les mitochondries descendent de bactéries ?"
+    options:
+      - "Elles contiennent des chloroplastes comme les cellules végétales"
+      - "Elles possèdent un noyau qui leur est propre"
+      - "Elles ont leur propre ADN, se divisent de façon indépendante et ont une double membrane"
+    answer: 3
+    explanation: "L'ADN propre, la division indépendante et la double membrane convergent vers l'idée d'une bactérie autrefois absorbée puis conservée dans la cellule."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2586,6 +2838,20 @@ quiz:
     explanation: >
       Son influence dépasse largement son abondance. Le retour du loup dans un parc américain a
       modifié la végétation et jusqu'au tracé des rivières.
+  - question: "Pourquoi les décomposeurs sont-ils indispensables à un écosystème ?"
+    options:
+      - "Sans eux, les éléments nutritifs resteraient bloqués dans les cadavres et les déchets, et les producteurs finiraient par manquer de tout"
+      - "Sans eux, les herbivores ne pourraient plus digérer les plantes"
+      - "Sans eux, l'énergie du Soleil ne pourrait plus être captée"
+    answer: 1
+    explanation: "Les décomposeurs recyclent ce qui meurt à tous les niveaux. Sans ce recyclage, les éléments nutritifs resteraient bloqués et les producteurs manqueraient de tout."
+  - question: "Pourquoi un réseau alimentaire simplifié est-il plus fragile qu'un réseau enchevêtré ?"
+    options:
+      - "Parce qu'il contient trop d'espèces en concurrence"
+      - "Parce qu'il offre moins de solutions de rechange si une proie disparaît"
+      - "Parce que l'énergie s'y perd davantage à chaque niveau"
+    answer: 2
+    explanation: "Dans un réseau enchevêtré, la redondance permet à un prédateur de se reporter sur une autre proie. Un réseau simplifié n'a pas cette marge de sécurité."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2712,6 +2978,20 @@ quiz:
     explanation: >
       Les bandes magnétiques symétriques de part et d'autre des dorsales ont fourni une preuve
       décisive : le plancher océanique s'écarte comme un tapis roulant.
+  - question: "Comment explique-t-on les bandes de roches aimantées en sens alterné, disposées symétriquement de part et d'autre d'une dorsale ?"
+    options:
+      - "Par le glissement latéral des plaques le long de la dorsale"
+      - "Du magma remonte en permanence, se solidifie en enregistrant le champ magnétique du moment, puis s'écarte de part et d'autre"
+      - "Par des séismes qui aimantent la roche à intervalles réguliers"
+    answer: 2
+    explanation: "Le champ magnétique terrestre s'inverse périodiquement et les roches volcaniques enregistrent son orientation en se solidifiant. Le magma qui s'écarte comme un tapis roulant produit des bandes symétriques."
+  - question: "Que se passe-t-il à la frontière de deux plaques qui glissent latéralement l'une contre l'autre ?"
+    options:
+      - "De la croûte neuve est créée"
+      - "De la croûte est détruite"
+      - "La croûte n'est ni créée ni détruite, mais les blocages provoquent de puissants séismes"
+    answer: 3
+    explanation: "Dans un glissement latéral, la croûte n'est ni créée ni détruite. Les blocages entre les plaques produisent toutefois des séismes puissants."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2838,6 +3118,20 @@ quiz:
     explanation: >
       Les systèmes d'alerte existants ne prédisent rien : ils détectent les premières ondes,
       plus rapides, et préviennent quelques secondes avant l'arrivée des ondes destructrices.
+  - question: "De quoi dépend surtout la violence d'une éruption volcanique ?"
+    options:
+      - "De la taille du volcan"
+      - "De la température du magma au départ"
+      - "De la viscosité du magma : un magma visqueux emprisonne les gaz jusqu'à l'explosion"
+    answer: 3
+    explanation: "Un magma fluide laisse les gaz s'échapper et donne des coulées de lave. Un magma visqueux emprisonne les gaz jusqu'à l'explosion."
+  - question: "À quoi servent les systèmes d'alerte précoce pour les séismes ?"
+    options:
+      - "À prédire la date exacte d'un séisme plusieurs jours à l'avance"
+      - "À détecter les premières ondes, rapides et peu destructrices, pour prévenir quelques secondes avant les suivantes"
+      - "À empêcher la libération brutale de l'énergie accumulée"
+    answer: 2
+    explanation: "Ces systèmes ne prédisent pas la date d'un séisme. Ils détectent les premières ondes et laissent quelques secondes pour arrêter un train, fermer une vanne de gaz ou se mettre à l'abri."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -2975,6 +3269,20 @@ quiz:
     explanation: >
       Ajouter de l'eau douce diminue la salinité, donc la densité. Si l'eau ne plonge plus, le
       moteur de la circulation s'affaiblit.
+  - question: "Qu'est-ce qui organise les courants de surface en grandes boucles circulaires ?"
+    options:
+      - "Les différences de salinité entre les océans"
+      - "Les marées provoquées par la Lune"
+      - "Les vents dominants, dont les mouvements sont déviés par la rotation de la Terre"
+    answer: 3
+    explanation: "Les courants de surface sont poussés par les vents dominants, et la rotation de la Terre dévie ces mouvements, ce qui les organise en boucles dans chaque bassin."
+  - question: "Quel est l'intérêt de la remontée d'eaux profondes ailleurs dans l'océan ?"
+    options:
+      - "Elle apporte des nutriments qui alimentent la vie marine et les zones de pêche productives"
+      - "Elle réchauffe l'Europe occidentale"
+      - "Elle renvoie le carbone stocké vers l'atmosphère en quelques années"
+    answer: 1
+    explanation: "La circulation profonde fait remonter des eaux riches en nutriments, ce qui nourrit une grande partie de la vie marine et les zones de pêche les plus productives."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -3155,6 +3463,20 @@ quiz:
       Bien que Galilée ait étudié les propriétés du pendule, c'est le savant néerlandais
       Christian Huygens qui a construit en 1657 la première horloge à pendule réellement
       fonctionnelle et précise.
+  - question: "Si l'on remplace le poids au bout d'un pendule par un poids plus lourd, sans changer la longueur du fil, que devient la durée d'oscillation ?"
+    options:
+      - "Elle augmente nettement"
+      - "Elle diminue nettement"
+      - "Elle reste presque la même"
+    answer: 3
+    explanation: "La durée d'oscillation dépend presque uniquement de la longueur du fil, et non du poids ni de l'amplitude du balancement."
+  - question: "Pourquoi Foucault a-t-il suspendu un lourd pendule au plafond du Panthéon en 1851 ?"
+    options:
+      - "Pour mesurer le temps avec plus de précision que les horloges"
+      - "Pour démontrer, sans observation astronomique, que la Terre tourne sur elle-même"
+      - "Pour vérifier que la durée d'oscillation ne dépend pas de l'amplitude"
+    answer: 2
+    explanation: "Le pendule de Foucault a permis de démontrer la rotation de la Terre sur elle-même, sans télescope ni observation astronomique."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3285,6 +3607,20 @@ quiz:
       La loi d'Ohm indique que le courant est inversement proportionnel à la résistance : à
       tension égale, augmenter la résistance d'un circuit réduit la quantité de courant qui y
       circule.
+  - question: "Dans l'image du circuit d'eau, à quoi correspond la résistance électrique ?"
+    options:
+      - "À la pression de l'eau"
+      - "Au débit d'eau qui circule"
+      - "À l'étroitesse du tuyau qui freine le débit"
+    answer: 3
+    explanation: "Dans cette analogie, la tension est la pression, le courant est le débit, et la résistance est l'étroitesse du tuyau qui freine ce débit."
+  - question: "Pourquoi un interrupteur ouvert à un seul endroit éteint-il toute la lampe ?"
+    options:
+      - "Parce que le courant ne circule que dans un chemin fermé"
+      - "Parce qu'il ramène la tension de la pile à zéro"
+      - "Parce qu'il augmente la résistance de tous les fils du circuit"
+    answer: 1
+    explanation: "Le courant a besoin d'un chemin fermé de la pile à l'appareil et retour. Ouvrir ce chemin à un seul endroit l'arrête dans tout le circuit."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3414,6 +3750,20 @@ quiz:
     explanation: >
       Une lentille concave fait diverger les rayons lumineux, ce qui compense l'excès de
       convergence de l'œil myope et permet de mieux voir les objets éloignés.
+  - question: "Pourquoi la lumière est-elle déviée quand elle passe de l'air au verre ?"
+    options:
+      - "Parce que le verre absorbe une partie de la lumière"
+      - "Parce que sa vitesse change, ce qui dévie sa trajectoire"
+      - "Parce que le verre modifie sa couleur"
+    answer: 2
+    explanation: "Ce phénomène s'appelle la réfraction : la lumière change de vitesse en passant de l'air au verre, ce qui dévie sa trajectoire."
+  - question: "Pourquoi un microscope associe-t-il plusieurs lentilles ?"
+    options:
+      - "Chacune agrandit l'image produite par la précédente, ce qui donne des grossissements impossibles avec une seule lentille"
+      - "Pour faire diverger les rayons lumineux plutôt que de les rapprocher"
+      - "Pour corriger la myopie de la personne qui observe"
+    answer: 1
+    explanation: "En combinant des lentilles, chacune agrandit l'image de la précédente. On atteint ainsi des grossissements impossibles avec une seule lentille."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3716,6 +4066,20 @@ quiz:
       Contrairement à la conduction et à la convection, le rayonnement transporte l'énergie sous
       forme d'ondes électromagnétiques et ne nécessite aucun support matériel, ce qui lui permet
       de traverser le vide spatial.
+  - question: "Pourquoi un bon isolant piège-t-il de l'air dans de petites poches ?"
+    options:
+      - "Parce que l'air réfléchit le rayonnement de la chaleur"
+      - "Parce que l'air est un excellent conducteur de chaleur"
+      - "Parce que l'air est un mauvais conducteur de chaleur, ce qui limite la conduction"
+    answer: 3
+    explanation: "L'air conduit mal la chaleur. Le piéger dans de petites poches limite donc la conduction."
+  - question: "Comment l'eau qui bout dans une casserole répartit-elle la chaleur ?"
+    options:
+      - "Les parties chaudes, moins denses, montent et les parties froides, plus denses, descendent"
+      - "Par des ondes électromagnétiques sans support matériel"
+      - "Uniquement par contact direct de proche en proche"
+    answer: 1
+    explanation: "C'est la convection : dans un liquide ou un gaz, les parties chaudes montent et les froides descendent, créant un mouvement continu qui répartit la chaleur."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3854,6 +4218,20 @@ quiz:
     explanation: >
       L'alcool bout à une température inférieure à celle de l'eau. En chauffant le mélange,
       l'alcool s'évapore en premier et peut être recueilli séparément après condensation.
+  - question: "Pourquoi la vapeur est-elle dirigée vers un tube refroidi de l'extérieur ?"
+    options:
+      - "Pour chauffer le reste du mélange plus vite"
+      - "Pour la faire recondenser en liquide, recueilli séparément du mélange d'origine"
+      - "Pour séparer les gaz qui la composent"
+    answer: 2
+    explanation: "Le refroidissement fait recondenser la vapeur en liquide, qui s'écoule alors séparément du mélange d'origine."
+  - question: "Comment la distillation permet-elle de purifier de l'eau salée ?"
+    options:
+      - "On la vaporise puis on la recondense, les impuretés non volatiles restant derrière"
+      - "On la fait bouillir jusqu'à ce que le sel s'évapore avec l'eau"
+      - "On la refroidit pour que le sel se sépare du liquide"
+    answer: 1
+    explanation: "L'eau est vaporisée puis recondensée sans les impuretés non volatiles, comme le sel, qui restent dans le récipient."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -3970,6 +4348,20 @@ quiz:
     explanation: >
       Une réaction de neutralisation combine les ions d'un acide et d'une base pour former de
       l'eau et un sel, ramenant généralement la solution vers un pH proche de la neutralité.
+  - question: "Qu'est-ce qui distingue chimiquement un acide d'une base ?"
+    options:
+      - "Un acide libère des ions hydrogène dans l'eau, une base libère des ions hydroxyde"
+      - "Un acide libère des ions hydroxyde dans l'eau, une base libère des ions hydrogène"
+      - "Un acide a toujours un pH de 14, une base un pH de 0"
+    answer: 1
+    explanation: "Dans l'eau, un acide libère des ions hydrogène chargés positivement, tandis qu'une base libère des ions hydroxyde chargés négativement."
+  - question: "Pourquoi faut-il diluer un produit concentré dans l'eau plutôt que verser l'eau sur le produit ?"
+    options:
+      - "Pour que la neutralisation soit complète"
+      - "Pour que le produit devienne plus acide"
+      - "Pour réduire le risque de projection dangereuse"
+    answer: 3
+    explanation: "Diluer progressivement une substance concentrée dans l'eau, plutôt que l'inverse, réduit le risque de projection dangereuse."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4117,6 +4509,20 @@ quiz:
       Dans toute réaction de ce type, les électrons perdus par une substance qui s'oxyde sont
       exactement gagnés par une autre substance qui se réduit : les deux processus sont
       indissociables.
+  - question: "Comment une pile produit-elle du courant électrique ?"
+    options:
+      - "Par la combustion d'un des deux métaux dans l'air"
+      - "Par une réaction d'oxydoréduction contrôlée : les électrons échangés entre deux métaux sont forcés de passer par un circuit extérieur"
+      - "Par la formation de rouille entre les deux bornes"
+    answer: 2
+    explanation: "Une pile repose sur une oxydoréduction contrôlée. Les électrons échangés entre deux métaux différents sont contraints de circuler dans un circuit extérieur."
+  - question: "Pourquoi une peinture protège-t-elle un métal de la rouille ?"
+    options:
+      - "Elle l'isole de l'air et de l'humidité, ce qui ralentit son oxydation"
+      - "Elle lui apporte des électrons supplémentaires"
+      - "Elle chauffe le métal pour le garder sec"
+    answer: 1
+    explanation: "Un revêtement protecteur ralentit l'oxydation du métal en l'isolant de l'air et de l'humidité."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -4254,6 +4660,20 @@ quiz:
     explanation: >
       En privant le feu d'oxygène, l'un des trois éléments indispensables du triangle du feu,
       la combustion ne peut plus se poursuivre et s'éteint.
+  - question: "Que désigne l'énergie d'activation dans une combustion ?"
+    options:
+      - "Une énergie à fournir en continu pour que le feu ne s'éteigne pas"
+      - "L'énergie libérée par le feu sous forme de lumière"
+      - "Une énergie initiale pour rompre les premières liaisons, après quoi la combustion s'entretient d'elle-même"
+    answer: 3
+    explanation: "Il faut apporter une énergie de départ pour démarrer la réaction. Une fois amorcée, la combustion produit elle-même assez de chaleur pour continuer."
+  - question: "Pourquoi la combustion incomplète est-elle dangereuse ?"
+    options:
+      - "Elle produit surtout du dioxyde de carbone en excès"
+      - "Quand l'oxygène manque, elle produit du monoxyde de carbone, un gaz dangereux et invisible"
+      - "Elle libère plus de chaleur qu'une combustion complète"
+    answer: 2
+    explanation: "Quand l'oxygène manque, la combustion est incomplète et produit de la fumée, de la suie et du monoxyde de carbone, gaz dangereux et invisible."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4375,6 +4795,20 @@ quiz:
     explanation: >
       Sans un symbole pour marquer une position vide, il devient impossible de distinguer par
       exemple 205 de 25 : le zéro rend explicite l'absence de valeur à une position précise.
+  - question: "Pourquoi appelle-t-on chiffres arabes des chiffres d'origine indienne ?"
+    options:
+      - "Parce qu'ils ont été inventés par des mathématiciens arabes au Moyen-Orient"
+      - "Parce que des savants arabes les ont adoptés et transmis jusqu'en Europe"
+      - "Parce que les Romains les ont rapportés d'Arabie"
+    answer: 2
+    explanation: "Le système est né en Inde, s'est diffusé vers le Moyen-Orient où des savants arabes l'ont adopté et transmis, avant d'atteindre l'Europe."
+  - question: "Quelle avancée attribue-t-on à Brahmagupta ?"
+    options:
+      - "Avoir établi le zéro comme un nombre à part entière, utilisable dans les calculs"
+      - "Avoir posé les bases de la numération de position vers l'an 500"
+      - "Avoir introduit ce système en Europe au neuvième siècle"
+    answer: 1
+    explanation: "Au septième siècle, Brahmagupta a fait du zéro un nombre à part entière, utilisable dans les calculs. Les bases de la numération de position sont attribuées à Aryabhata."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4686,6 +5120,20 @@ quiz:
       Un triangle dont les côtés respectent le rapport trois, quatre, cinq forme toujours un
       angle droit exact entre les deux côtés les plus courts, une méthode connue et utilisée
       depuis l'Antiquité.
+  - question: "Que faut-il faire pour mesurer une distance à la corde sur un terrain irrégulier ?"
+    options:
+      - "Corriger la mesure pour tenir compte de la pente"
+      - "Doubler la mesure pour compenser les creux"
+      - "Remplacer la corde par un triangle de proportions trois, quatre et cinq"
+    answer: 1
+    explanation: "Sur un terrain plat, la corde donne directement la distance. Sur un terrain irrégulier, il faut corriger cette mesure pour tenir compte de la pente."
+  - question: "Comment calcule-t-on la surface d'un terrain de forme irrégulière ?"
+    options:
+      - "On mesure son périmètre et on le multiplie par deux"
+      - "On le remplace par un rectangle de même longueur"
+      - "On le décompose en figures simples dont on additionne les surfaces"
+    answer: 3
+    explanation: "Un terrain irrégulier se décompose en plusieurs figures simples, comme des rectangles ou des triangles, dont on additionne ensuite les surfaces."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -5115,6 +5563,20 @@ quiz:
       Certains minéraux, retrouvés dans les sédiments ou les roches, servent d'indices qui
       orientent les prospecteurs vers une zone où un gisement plus important pourrait se
       trouver.
+  - question: "Comment se forment de nombreux gisements de minerais ?"
+    options:
+      - "Par l'érosion lente des montagnes, qui concentre les minerais en surface"
+      - "Des fluides chauds chargés de minéraux dissous refroidissent dans les fractures de la roche et y déposent leur contenu"
+      - "Par l'accumulation de sédiments au fond des rivières"
+    answer: 2
+    explanation: "Des fluides chauds chargés de minéraux dissous circulent dans les fractures, puis refroidissent et déposent progressivement leur contenu minéral en un même endroit."
+  - question: "Que suggère la présence d'un minéral indicateur en petite quantité dans les sédiments d'une rivière ?"
+    options:
+      - "Que le gisement a déjà été entièrement exploité"
+      - "Que la rivière a changé de cours récemment"
+      - "Qu'un gisement plus important se trouve en amont ou à proximité"
+    answer: 3
+    explanation: "Ces minéraux servent d'indices précieux : leur présence suggère qu'un gisement plus important existe quelque part en amont ou à proximité."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -5236,6 +5698,20 @@ quiz:
       L'eau souterraine, comme l'eau de surface, a tendance à s'écouler vers les points les plus
       bas du relief sous l'effet de la gravité, ce qui rend la nappe généralement plus proche de
       la surface dans les vallées.
+  - question: "Que révèle un cours d'eau qui continue de couler pendant une sécheresse prolongée ?"
+    options:
+      - "Une forte pluie tombée récemment en amont"
+      - "Une alimentation souterraine continue"
+      - "Une couche d'argile compacte en surface"
+    answer: 2
+    explanation: "Un cours d'eau qui coule malgré la sécheresse révèle une alimentation souterraine continue, donc la présence d'une nappe."
+  - question: "À quoi servent les mesures de résistivité électrique du sol ?"
+    options:
+      - "À révéler des différences de composition invisibles à l'œil nu et à localiser plus précisément une nappe avant de creuser"
+      - "À remplacer toute observation du relief et de la végétation"
+      - "À chauffer le sol pour faire remonter l'eau"
+    answer: 1
+    explanation: "Cette technique de professionnels révèle des différences de composition du sol invisibles à l'œil nu et localise plus précisément une nappe d'eau avant de creuser."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -7735,6 +8211,13 @@ quiz:
     explanation: >
       L'eau a une capacité calorifique très élevée : elle se réchauffe et se refroidit lentement, ce
       qui adoucit les écarts de température.
+  - question: "Pourquoi l'eau dissout-elle le sel et le sucre, mais pas les huiles ?"
+    options:
+      - "Parce que l'eau est plus dense que les huiles"
+      - "Parce que sa polarité lui permet d'entourer les ions et les molécules chargées, alors que les huiles ne sont pas polaires"
+      - "Parce que les huiles forment des liaisons hydrogène trop fortes avec l'eau"
+    answer: 2
+    explanation: "Grâce à sa polarité, l'eau entoure et sépare les ions et les molécules chargées. Les graisses et les huiles, qui ne sont pas polaires, restent à l'écart."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10862,6 +11345,13 @@ quiz:
     explanation: >
       Un joueur isolé peut gagner, mais sur des millions de parties, le petit avantage de la maison
       se transforme en bénéfice quasi certain.
+  - question: "Pourquoi un hôpital qui accueille peu de naissances connaît-il plus souvent des journées exceptionnelles qu'une grande maternité ?"
+    options:
+      - "Parce que les petits hôpitaux ont moins de personnel"
+      - "Parce que le hasard rattrape ses écarts sur de petits effectifs"
+      - "Parce que sur peu d'essais, les résultats extrêmes sont fréquents"
+    answer: 3
+    explanation: "La loi des grands nombres ne rend pas fiables les petits échantillons : sur peu d'essais, des résultats extrêmes sont fréquents. Ils se diluent dans un grand nombre de cas."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -10983,6 +11473,13 @@ quiz:
     explanation: >
       Le mode désigne la valeur qui revient le plus souvent : c'est exactement ce que cherche un
       commerçant pour remplir son stock.
+  - question: "Que signale une moyenne nettement supérieure à la médiane ?"
+    options:
+      - "Que la série est parfaitement équilibrée"
+      - "Que la série contient quelques valeurs très élevées qui tirent la moyenne vers le haut"
+      - "Que la plupart des valeurs sont très faibles et dispersées"
+    answer: 2
+    explanation: "L'écart entre moyenne et médiane est un signal. Une moyenne bien au-dessus de la médiane indique quelques valeurs très élevées, comme les hauts revenus dans les salaires."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -13106,6 +13603,13 @@ quiz:
     explanation: >
       (100 − 32) ÷ 1,8 ≈ 37,8 °C. Fahrenheit avait choisi des repères tels que la température du
       corps soit proche de 100.
+  - question: "Pourquoi 20 °C n'est-il pas deux fois plus chaud que 10 °C ?"
+    options:
+      - "Parce que le degré Celsius change de taille selon la température"
+      - "Parce que l'échelle Celsius ne mesure pas l'agitation des particules"
+      - "Parce que le zéro Celsius n'est pas le zéro absolu : seul le kelvin double vraiment l'agitation quand il double"
+    answer: 3
+    explanation: "Le zéro Celsius est un repère lié à l'eau, pas le point où l'agitation est minimale. Seule une température absolue, en kelvins, a un sens quand on parle de la doubler."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -18853,6 +19357,13 @@ quiz:
     explanation: >
       L'induction n'existe que si le champ magnétique change. Un courant continu crée un champ fixe,
       qui n'induit rien au secondaire.
+  - question: "Si un transformateur multiplie la tension par dix, que devient le courant disponible ?"
+    options:
+      - "Il est multiplié par dix"
+      - "Il est divisé par dix, aux pertes près"
+      - "Il reste inchangé"
+    answer: 2
+    explanation: "L'énergie ne se crée pas : si la tension est multipliée par dix, le courant disponible est divisé par dix, aux pertes près."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -21593,15 +22104,98 @@ title: Les fosses océaniques et la zone hadale
 slug: les-fosses-oceaniques-et-la-zone-hadale
 categoryPath: sciences-fondamentales/sciences-de-la-terre/oceanographie
 summary: >
-  La zone hadale commence vers 6 000 mètres sous la surface et atteint 11 000 mètres. Dans ses
-  fosses, sans lumière et sous une pression extrême, des animaux vivent.
+  Sous 6 000 mètres, la zone hadale n'existe que dans les fosses : noir total, froid et pression
+  écrasante. Des animaux y vivent pourtant, et on commence à peine à les étudier.
 tags: [oceanographie, grands-fonds, fosses]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: []
+sources:
+  - title: "Hadal Zone"
+    url: "https://whoi.edu/know-your-ocean/ocean-topics/how-the-ocean-works/ocean-zones/hadal-zone"
+    publisher: "Woods Hole Oceanographic Institution"
+  - title: "The Hadal Zone (Okeanos Explorer EX2102)"
+    url: "https://oceanexplorer.noaa.gov/okeanos/explorations/ex2102/features/hadalzone/hadalzone.html"
+    publisher: "NOAA Ocean Exploration"
+    date: "2021"
+quiz:
+  - question: "À partir de quelle profondeur commence la zone hadale ?"
+    options:
+      - "Environ 200 mètres"
+      - "Environ 6 000 mètres"
+      - "Environ 11 000 mètres"
+    answer: 2
+    explanation: "Elle va d'environ 6 000 à 11 000 mètres et ne se trouve que dans les fosses."
+  - question: "D'où vient le nom de la zone hadale ?"
+    options:
+      - "Du dieu grec des enfers"
+      - "D'un explorateur danois"
+      - "D'un mot latin pour le froid"
+    answer: 1
+    explanation: "Son nom vient d'Hadès, le dieu grec des enfers."
+  - question: "Quelle est la température de l'eau dans la zone hadale ?"
+    options:
+      - "Environ 20 °C"
+      - "Juste au-dessus de zéro"
+      - "Plus de 100 °C"
+    answer: 2
+    explanation: "Selon le WHOI, l'eau y reste juste au-dessus du point de congélation."
+  - question: "Quel véhicule du WHOI, testé en 2009, a été perdu en 2014 ?"
+    options:
+      - "Nereus"
+      - "Alvin"
+      - "Orpheus"
+    answer: 1
+    explanation: "Le Nereus, premier véhicule pleine profondeur du WHOI, a été perdu vers 10 000 m dans la fosse des Kermadec."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+La zone hadale est la partie la plus profonde de l'océan. Elle commence vers 6 000 mètres sous la surface et descend jusqu'à environ 11 000 mètres. On ne la trouve que dans les fosses océaniques, de longues cicatrices étroites séparées les unes des autres. Malgré le noir, le froid et la pression, la vie y est diverse.
+
+## Un nom venu des enfers
+
+Les océanographes découpent la colonne d'eau en zones selon la profondeur. La zone hadale est la dernière, et son nom vient d'Hadès, le dieu grec des enfers. Selon l'institut océanographique WHOI, elle s'étend de 6 000 à 11 000 mètres et ne se trouve que dans les fosses.
+
+Ces fosses sont rares et isolées. Elles se forment là où une plaque tectonique plonge sous une autre. Ce sont des fosses et des creux étroits, mais leur surface cumulée est considérable. Selon la NOAA, elle équivaut à environ la moitié de l'Australie ; selon le WHOI, elle est comparable à celle du continent entier. Les sources divergent, mais toutes soulignent que cette zone est vaste.
+
+## Noir, froid, sous pression
+
+Aucune lumière du Soleil n'atteint ces profondeurs. L'eau y reste juste au-dessus de zéro degré, d'après le WHOI. La pression dépasse mille fois celle de la surface : les véhicules robotisés conçus pour ces fonds, comme les Orpheus du WHOI, sont construits pour la supporter. Au fond du Challenger Deep, dans la fosse des Mariannes, elle atteint environ 1 086 bars, d'après la revue Futura.
+
+La nourriture est rare. Certains organismes dépendent de la matière organique qui tombe des couches supérieures. D'autres utilisent l'énergie chimique de suintements hydrothermaux. Les microbes forment la base du réseau alimentaire.
+
+## Des animaux étonnants
+
+La NOAA rappelle que certaines espèces ne vivent qu'à ces profondeurs, notamment des vers polychètes. Plusieurs organismes utilisent la bioluminescence, une lumière produite par l'animal lui-même, pour communiquer, selon le WHOI. Des crustacés et des poissons y ont été observés.
+
+Les chercheurs étudient aussi leur physiologie : la NOAA indique que certains processus pourraient aider à mettre au point des médicaments, par exemple contre la maladie d'Alzheimer.
+
+## Une exploration récente
+
+Au XIXe siècle, on pensait que les grands fonds étaient sans vie : en 1859, Forbes et Austen suggéraient qu'ils étaient vides. Dans les années 1950, les expéditions danoise Galathea et soviétique Vitiaz ont dressé les premiers catalogues d'espèces hadales, sans échantillonnage systématique.
+
+Les moyens techniques ont suivi plus tard. Le WHOI a testé en 2009 son premier véhicule capable d'aller à pleine profondeur, le Nereus, perdu en 2014 vers 10 000 mètres dans la fosse des Kermadec. En 2021, le navire Okeanos Explorer de la NOAA a testé les véhicules autonomes Orpheus. Cette zone reste peu connue.
+
+## À retenir
+
+- La zone hadale s'étend d'environ 6 000 à 11 000 mètres et n'existe que dans les fosses.
+- Son nom vient d'Hadès, le dieu grec des enfers.
+- L'eau y est à peine au-dessus de zéro et la pression dépasse mille fois celle de la surface.
+- Des animaux, dont des vers polychètes, ne vivent qu'à ces profondeurs.
+- Son exploration systématique est récente : les premiers catalogues d'espèces datent des années 1950.
+
+```schema
+type: chiffres
+titre: La zone hadale
+chiffres:
+  - valeur: 6 000 à 11 000 m
+    texte: de profondeur
+  - valeur: Hadès
+    texte: le dieu grec qui lui donne son nom
+  - valeur: Noir total
+    texte: aucune lumière du Soleil n'y arrive
+```
 ---
 type: article
 title: Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?
@@ -21622,6 +22216,10 @@ sources:
   - title: "Topological superconductor"
     url: "https://en.wikipedia.org/wiki/Topological_superconductor"
     publisher: "Wikipedia"
+  - title: "ALS Reveals New State of Matter"
+    url: "https://als.lbl.gov/als-reveals-new-state-of-matter/"
+    publisher: "Advanced Light Source, Lawrence Berkeley National Laboratory"
+    date: "2011"
 quiz:
   - question: "Où un isolant topologique conduit-il l'électricité ?"
     options:
@@ -21657,7 +22255,7 @@ quiz:
     answer: 3
     explanation: >
       Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -21667,7 +22265,17 @@ Un isolant topologique isole dans son volume, mais sa surface conduit, protégé
 
 ## Un isolant qui conduit en surface
 
-Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité. Il ne peut pas être déformé progressivement en un isolant ordinaire sans passer par une phase conductrice. Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés. À la surface, le spin des électrons est lié à leur direction de déplacement, ce qui supprime certains types de diffusion. Beaucoup de ces matériaux sont des composés du bismuth, comme Bi2Se3 et Bi2Te3. Leur classement repose sur des invariants topologiques, qui dépendent de symétries comme l'invariance par renversement du temps.
+Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité. Il ne peut pas être déformé progressivement en un isolant ordinaire sans passer par une phase conductrice. Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés. À la surface, le spin des électrons est lié à leur direction de déplacement, ce qui supprime certains types de diffusion. Leur classement repose sur des invariants topologiques, qui dépendent de symétries comme l'invariance par renversement du temps.
+
+## Comment on l'a trouvé
+
+En 2007, une équipe de Princeton dirigée par M. Zahid Hasan a identifié un alliage de bismuth et d'antimoine comme premier isolant topologique en trois dimensions. En 2009, plusieurs groupes ont confirmé qu'une famille plus large de composés, formés de bismuth ou d'antimoine avec du sélénium ou du tellure, se comporte de cette façon. Bi2Se3 et Bi2Te3 en font partie.
+
+Le séléniure de bismuth a retenu l'attention : son écart d'énergie dans le volume, mesuré à environ 0,3 eV, est assez grand pour que l'état reste stable bien au-delà des très basses températures.
+
+## Voir la surface conduire
+
+La technique clé est la photoémission résolue en angle (ARPES). Elle arrache des électrons au cristal avec de la lumière et analyse leur énergie et leur direction, ce qui dessine la structure électronique. Elle a montré que les électrons de surface se comportent comme s'ils n'avaient pas de masse. Leur spin est polarisé, ce qui les empêche de rebondir en arrière sur les défauts du cristal.
 
 ## Des supraconducteurs topologiques
 
@@ -21694,10 +22302,9 @@ colonnes:
 
 - Un isolant topologique est un matériau dont l'intérieur isole, alors que sa surface conduit l'électricité.
 - Les états de surface sont protégés contre les perturbations locales, comme certaines impuretés.
+- Le premier isolant topologique en trois dimensions a été identifié en 2007 : un alliage de bismuth et d'antimoine.
 - À la surface, le spin des électrons est lié à leur direction, ce qui limite la diffusion.
-- Un supraconducteur topologique est un matériau de résistance électrique nulle, doté d'une topologie non triviale.
-- Les preuves restent limitées : on parle de matériaux candidats, comme l'UTe2.
-
+- Pour les supraconducteurs topologiques, les preuves restent limitées : on parle de matériaux candidats.
 ---
 type: article
 title: Que révèle le génome des derniers mammouths sur les dangers d'une toute petite population ?
@@ -21900,7 +22507,8 @@ slug: un-refrigerateur-fabrique-t-il-vraiment-du-froid
 categoryPath: sciences-fondamentales/physique/thermodynamique
 summary: >
   Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur,
-  grâce à un fluide qui se vaporise puis se liquéfie, en boucle.
+  grâce à un fluide qui se vaporise puis se liquéfie, en boucle. Et il consomme souvent plus chez
+  soi qu'au laboratoire.
 tags: [thermodynamique]
 sources:
   - title: "How A Compression Refrigeration System Works"
@@ -21915,6 +22523,10 @@ sources:
   - title: "Vapor-compression refrigeration"
     url: "https://en.wikipedia.org/wiki/Vapor-compression_refrigeration"
     publisher: "Wikipedia"
+  - title: "Energy performance of domestic cold appliances in laboratory and home environments (Energy, vol. 204)"
+    url: "https://agris.fao.org/search/en/records/65dffbd94c5aef494fe74dcf"
+    publisher: "AGRIS (FAO), notice de l'étude publiée dans Energy"
+    date: "2020"
 quiz:
   - question: "Que fait un réfrigérateur de la chaleur de l'intérieur ?"
     options:
@@ -21952,7 +22564,7 @@ quiz:
     explanation: >
       Le même cycle fait fonctionner les climatiseurs, les chambres froides et les pompes à
       chaleur.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -21967,6 +22579,16 @@ Un réfrigérateur ne crée pas de froid : il déplace la chaleur d'un espace fr
 ## Les quatre étapes du fluide
 
 Le compresseur, entraîné par un moteur, aspire le gaz et augmente sa pression et sa température. Dans le condenseur, le gaz se refroidit et redevient liquide en cédant sa chaleur : c'est pourquoi le condenseur est chaud au toucher. Au détendeur, la pression chute brusquement, ce qui prépare le fluide à absorber de la chaleur. Dans l'évaporateur, le fluide frigorigène absorbe la chaleur de l'intérieur et se vaporise : c'est cette partie qui refroidit vraiment.
+
+## Pourquoi la cuisine se réchauffe
+
+Le raisonnement est un simple bilan d'énergie. La chaleur rejetée à l'arrière est égale à la chaleur extraite de l'intérieur, plus le travail fourni par le compresseur. Un réfrigérateur réchauffe donc toujours un peu la pièce où il se trouve. Laisser sa porte ouverte pour rafraîchir une cuisine ne marche pas : l'appareil y rejette plus de chaleur qu'il n'en retire.
+
+C'est aussi pour cela que le pouvoir de refroidissement dépend de la facilité avec laquelle le condenseur évacue sa chaleur. Une grille poussiéreuse ou collée au mur gêne l'échange.
+
+## Ce que l'étiquette ne dit pas toujours
+
+La consommation affichée vient d'un test en laboratoire. Une enquête sur 998 appareils domestiques, dont 124 ont été analysés dans une étude publiée en 2020, a montré que 61 % d'entre eux consommaient davantage chez les particuliers qu'au laboratoire. Les conditions réelles diffèrent : température de la pièce, ouvertures de porte, remplissage.
 
 ## Un cycle qu'on retrouve partout
 
@@ -21991,8 +22613,8 @@ elements:
 - Un réfrigérateur ne crée pas de froid : il déplace la chaleur de l'intérieur vers l'extérieur.
 - Dans l'évaporateur, le fluide absorbe la chaleur de l'intérieur en se vaporisant : c'est lui qui refroidit.
 - Dans le condenseur, le gaz se refroidit et redevient liquide en cédant sa chaleur : c'est pourquoi le condenseur est chaud au toucher.
+- La chaleur rejetée dépasse la chaleur extraite, car elle inclut le travail du compresseur.
 - Le même cycle sert aux climatiseurs, aux chambres froides et aux pompes à chaleur.
-
 ---
 type: article
 title: Pourquoi un bateau en acier flotte-t-il ?
@@ -22436,6 +23058,13 @@ quiz:
     explanation: >
       Une combustion avec peu d'air produit du monoxyde de carbone. Il faut toujours une
       ventilation importante.
+  - question: "Pourquoi préfère-t-on le bois mort encore accroché aux arbres à celui posé au sol ?"
+    options:
+      - "Parce qu'il brûle plus lentement"
+      - "Parce qu'il contient davantage de gaz combustibles"
+      - "Parce qu'il est plus sec que celui posé sur un sol humide"
+    answer: 3
+    explanation: "Le bois humide gaspille la chaleur à évaporer son eau. Le bois mort encore accroché aux arbres est plus sec que celui qui repose sur le sol humide."
 lastVerified: 2026-11-07
 status: published
 ---

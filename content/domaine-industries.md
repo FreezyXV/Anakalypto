@@ -212,6 +212,20 @@ quiz:
     explanation: >
       L'hydrogène capte l'oxygène du minerai et forme de la vapeur d'eau. Le bilan n'est
       réellement propre que si cet hydrogène a lui-même été produit proprement.
+  - question: "Pourquoi le recyclage de la ferraille ne peut-il pas répondre à toute la demande mondiale d'acier ?"
+    options:
+      - "L'acier perd ses qualités à chaque recyclage"
+      - "On ne peut recycler que l'acier déjà produit, et la demande dépasse ce gisement"
+      - "Les fours électriques ne savent pas refondre l'acier"
+    answer: 2
+    explanation: "L'acier se recycle indéfiniment, mais seule la ferraille déjà existante peut être refondue. La demande mondiale dépasse largement ce gisement."
+  - question: "Pourquoi l'acier à l'hydrogène n'est-il propre que si l'hydrogène l'est ?"
+    options:
+      - "L'hydrogène émet du CO2 lorsqu'il réagit avec le minerai"
+      - "Le four électrique consomme trop d'eau"
+      - "Un hydrogène issu du gaz naturel déplace le problème au lieu de le régler"
+    answer: 3
+    explanation: "Le procédé produit de la vapeur d'eau, mais si l'hydrogène vient du gaz naturel, les émissions sont simplement déplacées. Il faut de l'hydrogène produit par électrolyse avec de l'électricité décarbonée."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -334,6 +348,20 @@ quiz:
     explanation: >
       Il abaisse l'énergie nécessaire pour que la réaction se produise. Sans catalyseurs,
       l'essentiel de la chimie industrielle serait impossible ou beaucoup trop coûteux.
+  - question: "Pourquoi les plantes ne peuvent-elles pas utiliser directement l'azote de l'air ?"
+    options:
+      - "Il est présent sous une forme chimiquement inerte"
+      - "Il est trop peu abondant dans l'atmosphère"
+      - "Il est détruit par les rayons du Soleil"
+    answer: 1
+    explanation: "L'air contient 78 % d'azote, mais sous une forme inerte que seules quelques bactéries savent transformer. D'où l'intérêt de fabriquer de l'ammoniac."
+  - question: "Pourquoi l'industrie chimique s'adapte-t-elle mal aux variations de la demande ?"
+    options:
+      - "Elle manque de matières premières"
+      - "Elle fonctionne en continu, et démarrer ou arrêter une installation coûte très cher"
+      - "Ses produits ne peuvent pas être stockés"
+    answer: 2
+    explanation: "Les installations tournent en continu, parfois des années. Cela donne des coûts unitaires bas mais rend les arrêts très coûteux, donc peu souples face à la demande."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -461,6 +489,20 @@ quiz:
     explanation: >
       Il est plus lent, moins puissant, et s'arrête au moindre contact. Cela permet de
       combiner la précision de la machine et l'adaptabilité de l'humain sur un même poste.
+  - question: "Pourquoi un robot industriel classique travaille-t-il derrière des barrières ?"
+    options:
+      - "Il fonctionne uniquement dans le noir"
+      - "Il doit être protégé de la poussière"
+      - "Il est rapide, puissant et aveugle à ce qui l'entoure"
+    answer: 3
+    explanation: "Un robot classique ne perçoit pas son environnement alors qu'il est rapide et puissant. Les robots collaboratifs, plus lents et dotés de capteurs, peuvent eux partager un poste."
+  - question: "Que montre la comparaison entre robotisation et chômage industriel selon le texte ?"
+    options:
+      - "Les pays les plus robotisés ont le plus de chômage industriel"
+      - "L'équation plus de robots, moins d'emplois ne se vérifie pas simplement"
+      - "La robotisation n'a aucun effet sur le contenu du travail"
+    answer: 2
+    explanation: "Les pays les plus robotisés ne sont pas ceux où le chômage industriel est le plus élevé. L'automatisation supprime certains postes, en crée d'autres et change le contenu du travail."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -581,6 +623,20 @@ quiz:
     explanation: >
       C'est le propre d'un assemblage : toutes les pièces sont nécessaires. La valeur du
       composant manquant n'a aucun rapport avec l'ampleur du blocage.
+  - question: "Pourquoi le flux tendu rend-il la chaîne logistique fragile ?"
+    options:
+      - "Il n'y a aucune réserve pour absorber un imprévu"
+      - "Il oblige à acheter des pièces plus chères"
+      - "Il multiplie le nombre de fournisseurs à gérer"
+    answer: 1
+    explanation: "Sans stocks, un retard quelque part arrête la production. Le flux tendu évite les coûts de stockage mais supprime toute marge de sécurité."
+  - question: "Pourquoi une petite variation de la demande chez le consommateur devient-elle énorme chez le fournisseur de rang trois ?"
+    options:
+      - "Les fournisseurs lointains ignorent les prix"
+      - "Les transports allongent les délais de livraison"
+      - "Chaque maillon surréagit et ajoute sa propre marge de sécurité"
+    answer: 3
+    explanation: "C'est l'effet de fouet : le détaillant, le grossiste et le fabricant commandent chacun un peu plus pour se couvrir, ce qui amplifie la variation initiale."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -710,6 +766,20 @@ quiz:
     explanation: >
       Avant elle, chaque pièce était ajustée à la main pour sa machine. Une pièce cassée
       devait être refaite sur mesure, ce qui rendait la production en série impossible.
+  - question: "Pourquoi demande-t-on un intervalle de dimension plutôt qu'une dimension exacte ?"
+    options:
+      - "Les clients préfèrent des pièces de tailles variées"
+      - "Aucune pièce ne fait exactement la dimension prévue, à cause des variations de fabrication"
+      - "Les instruments de mesure ne savent mesurer que des intervalles"
+    answer: 2
+    explanation: "Usure des outils, température et hétérogénéité de la matière font varier chaque pièce. On fixe donc une tolérance, un intervalle acceptable."
+  - question: "Pourquoi surveiller le procédé de fabrication vaut-il mieux que trier les pièces après coup ?"
+    options:
+      - "On peut intervenir avant que des pièces hors tolérance soient produites"
+      - "Cela évite d'avoir à mesurer un échantillon"
+      - "Cela permet d'élargir les tolérances"
+    answer: 1
+    explanation: "Si les mesures dérivent vers une limite, on corrige avant de fabriquer des pièces défectueuses. Détecter tôt coûte bien moins cher que découvrir le défaut chez le client."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -832,6 +902,20 @@ quiz:
     explanation: >
       Un capteur de vibration produit des milliers de mesures par seconde. On calcule sur
       place et on ne transmet que les résultats ou les anomalies.
+  - question: "Quel avantage la maintenance prédictive a-t-elle sur la maintenance préventive ?"
+    options:
+      - "Elle supprime tout besoin de capteurs"
+      - "Elle attend la panne pour réparer au moindre coût"
+      - "Elle évite de jeter des pièces encore bonnes en intervenant au bon moment"
+    answer: 3
+    explanation: "La maintenance préventive remplace les pièces à intervalles fixes, même si elles ne sont pas usées. La prédictive détecte les signes d'usure et intervient ni trop tôt ni trop tard."
+  - question: "Pourquoi connecter de vieux équipements industriels à un réseau est-il risqué ?"
+    options:
+      - "Ils consomment trop d'électricité une fois connectés"
+      - "Ils n'ont pas été conçus pour la sécurité informatique et certains ne peuvent pas être mis à jour"
+      - "Ils produisent trop de données pour les réseaux"
+    answer: 2
+    explanation: "Ces équipements durent vingt à trente ans et n'ont pas été pensés pour être connectés. Les attaques peuvent affecter production, sécurité des personnes et environnement."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -955,6 +1039,20 @@ quiz:
     explanation: >
       On peut y pousser une machine jusqu'à la casse, simuler une panne, essayer un nouveau
       réglage. Toutes choses impossibles ou ruineuses sur l'installation véritable.
+  - question: "Pourquoi dit-on qu'un jumeau numérique vieillit avec l'objet réel ?"
+    options:
+      - "Les capteurs de la machine réelle l'informent de son usure"
+      - "Il est recréé entièrement chaque année"
+      - "Il simule un objet théorique dans un état idéal"
+    answer: 1
+    explanation: "Le jumeau est relié en continu à l'objet par des capteurs : si un roulement s'use sur la machine, le jumeau le sait. Une simulation ordinaire reste théorique."
+  - question: "Pourquoi un jumeau numérique ne se justifie-t-il que pour des installations coûteuses ou critiques ?"
+    options:
+      - "Il ne fonctionne que sur de très grosses machines"
+      - "Il remplace complètement les capteurs"
+      - "Le construire et le maintenir représente un investissement réel"
+    answer: 3
+    explanation: "Un jumeau fidèle exige des modèles validés, des capteurs fiables et une mise à jour constante. Ce coût n'est rentable que pour des installations coûteuses ou critiques."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1074,6 +1172,20 @@ quiz:
     explanation: >
       Cela permet des formes creuses ou internes impossibles à usiner, et évite les chutes.
       En contrepartie, elle reste lente pour de grandes séries.
+  - question: "Pourquoi l'usinage convient-il mal à une pièce très évidée ?"
+    options:
+      - "Il est impossible sur les métaux durs"
+      - "On passe beaucoup de temps à transformer la matière en copeaux"
+      - "Il exige un moule très coûteux"
+    answer: 2
+    explanation: "En usinage, le temps de travail est proportionnel à la matière enlevée, et une partie de la matière achetée devient déchet. Une pièce très évidée en produit beaucoup."
+  - question: "Pourquoi la fabrication additive est-elle intéressante pour une pièce unique ?"
+    options:
+      - "Elle n'exige aucun outillage, donc aucun coût fixe"
+      - "Elle est plus rapide que l'usinage"
+      - "Elle donne un meilleur état de surface"
+    answer: 1
+    explanation: "Sans moule ni matrice, produire une pièce unique coûte à peu près autant que la dixième. Ses limites sont la vitesse, l'état de surface et le choix de matériaux."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1203,6 +1315,20 @@ quiz:
     explanation: >
       L'acier placé là où la pièce est tendue reprend les efforts que le béton ne supporterait
       pas. C'est exactement le principe d'un composite, à une autre échelle.
+  - question: "Pourquoi place-t-on les barres d'acier du béton armé là où la pièce sera tendue ?"
+    options:
+      - "Le béton résiste mal à la compression"
+      - "L'acier protège le béton de l'humidité"
+      - "Le béton résiste très mal à la traction"
+    answer: 3
+    explanation: "Le béton supporte bien la compression mais mal la traction. L'acier est donc placé aux endroits où la pièce sera étirée."
+  - question: "Pourquoi le recyclage des composites est-il leur principal point faible ?"
+    options:
+      - "Il est difficile de séparer les fibres d'une résine durcie"
+      - "Les fibres de carbone sont trop légères pour être récupérées"
+      - "Les composites ne contiennent aucun matériau réutilisable"
+    answer: 1
+    explanation: "Une fois la résine durcie, séparer les fibres est difficile. Les pales d'éoliennes en fin de vie illustrent ce problème, avec des filières encore immatures."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1331,6 +1457,20 @@ quiz:
       La loupe est un mélange poreux de fer et de scories liquides. Marteler le métal encore
       chaud expulse les scories et soude les grains de fer entre eux, donnant un fer forgé
       compact et utilisable.
+  - question: "Pourquoi le fer, pourtant très abondant, a-t-il été exploité plus tard que le cuivre ?"
+    options:
+      - "Il est beaucoup plus difficile à trouver dans le sol"
+      - "Il demande des températures que les fours à bronze de l'Antiquité n'atteignaient pas"
+      - "Il ne peut pas être travaillé au marteau"
+    answer: 2
+    explanation: "Le fer est environ cent fois plus abondant que le cuivre, mais il exige des températures hors de portée des fours à bronze. Le bas fourneau a résolu ce problème."
+  - question: "En quoi le fer a-t-il démocratisé le métal par rapport au bronze ?"
+    options:
+      - "Il est plus facile à fondre que le bronze"
+      - "Il ne nécessite aucun charbon de bois"
+      - "Il est présent presque partout, alors que l'étain devait être importé de loin"
+    answer: 3
+    explanation: "Le bronze dépendait d'étain parfois très lointain, alors que le fer se trouve presque partout. Un bas fourneau se construit avec de l'argile locale."
 lastVerified: 2026-09-24
 status: published
 ---
@@ -1471,6 +1611,20 @@ quiz:
       Le bas fourneau ne chauffait pas assez pour faire fondre complètement le fer : il
       produisait une masse poreuse, la loupe, qu'il fallait ensuite marteler pour en extraire le
       métal.
+  - question: "Pourquoi le forgeron surveille-t-il la couleur du métal chauffé ?"
+    options:
+      - "Elle lui indique si le métal est dans la plage de température où il est malléable"
+      - "Elle révèle la composition exacte du minerai"
+      - "Elle sert à décider de la forme de l'enclume"
+    answer: 1
+    explanation: "Chauffé au rouge, vers neuf cents degrés, le fer devient malléable. La couleur permet d'estimer cette température sans instrument."
+  - question: "À quoi sert la corne de l'enclume ?"
+    options:
+      - "À refroidir rapidement le métal"
+      - "À réaliser des courbes ou des angles différents"
+      - "À maintenir le marteau en place"
+    answer: 2
+    explanation: "La partie conique de l'enclume, la corne, permet de façonner des courbes, alors que la partie plate sert à d'autres formes."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -1610,6 +1764,20 @@ quiz:
     explanation: >
       Le revenu, un réchauffage plus doux que la trempe, permet de relâcher une partie des
       tensions créées par le refroidissement brutal, rendant l'acier moins cassant.
+  - question: "Pourquoi un acier juste trempé ne peut-il pas être utilisé tel quel pour la plupart des outils ?"
+    options:
+      - "Il est trop mou pour couper"
+      - "Il est très dur mais cassant, comme du verre"
+      - "Il ne se refroidit jamais complètement"
+    answer: 2
+    explanation: "La trempe forme de la martensite, très dure mais très cassante. Le revenu est nécessaire pour retrouver de la résistance aux chocs."
+  - question: "Pourquoi un couteau, une hache et un ressort n'ont-ils pas la même température de revenu ?"
+    options:
+      - "Ils n'ont pas besoin des mêmes propriétés de dureté et de résistance aux chocs"
+      - "Ils sont faits de métaux totalement différents"
+      - "Ils sont trempés dans des liquides différents"
+    answer: 1
+    explanation: "Plus le revenu est chaud, plus l'acier perd en dureté mais gagne en résistance aux chocs. On règle donc la température selon l'usage."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -1768,6 +1936,20 @@ quiz:
       Nicolas Leblanc a mis au point en 1791 un procédé industriel qui transforme du sel commun,
       via de l'acide sulfurique et du calcaire, en soude produite à grande échelle et à moindre
       coût.
+  - question: "Pourquoi le procédé Solvay a-t-il amélioré la production industrielle de soude par rapport au procédé Leblanc ?"
+    options:
+      - "Il utilisait des cendres de plantes marines"
+      - "Il produisait de la soude sans aucun ingrédient chimique"
+      - "Il produisait moins de déchets et consommait moins d'énergie"
+    answer: 3
+    explanation: "Le procédé Solvay, avec ammoniac et dioxyde de carbone, est plus efficace que celui de Leblanc. Il reste utilisé pour l'essentiel de la production mondiale."
+  - question: "Quel rôle la soude ou la potasse joue-t-elle dans la fabrication du verre ?"
+    options:
+      - "Elle abaisse la température de fusion du sable"
+      - "Elle colore le verre en bleu"
+      - "Elle rend le verre plus dur après refroidissement"
+    answer: 1
+    explanation: "Depuis l'Antiquité, ces bases servent à fabriquer du verre en abaissant la température de fusion du sable."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2145,6 +2327,20 @@ quiz:
     explanation: >
       Un zonage réfléchi place chaque type de marchandise à l'endroit le plus adapté, réduisant
       le temps de manipulation et limitant les risques d'erreurs ou de dommages.
+  - question: "Pourquoi répartir un entrepôt en zones et placer les produits les plus demandés près des sorties ?"
+    options:
+      - "Pour que les produits périssables restent plus frais"
+      - "Pour réduire les manipulations inutiles et limiter les erreurs"
+      - "Pour faire entrer plus de marchandises dans l'espace"
+    answer: 2
+    explanation: "Une organisation par zones réduit les manipulations et les erreurs, et les produits les plus sollicités sont plus faciles à sortir."
+  - question: "Quel est le risque du surstockage ?"
+    options:
+      - "Il provoque des ruptures inattendues"
+      - "Il rend l'inventaire impossible"
+      - "Il immobilise inutilement des ressources"
+    answer: 3
+    explanation: "Le surstockage immobilise des ressources inutilement, alors que la pénurie interrompt l'activité au moment critique. Observer les consommations passées aide à trouver l'équilibre."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2266,6 +2462,20 @@ quiz:
     explanation: >
       Un instrument de mesure peut dériver avec le temps ou l'usage. La calibration compare
       régulièrement ses résultats à une référence fiable et corrige tout écart constaté.
+  - question: "Pourquoi un pied à coulisse est-il plus précis qu'une règle graduée classique ?"
+    options:
+      - "Grâce à un système de vernier qui affine la lecture"
+      - "Parce qu'il mesure uniquement de petites longueurs"
+      - "Parce qu'il est fabriqué en métal précieux"
+    answer: 1
+    explanation: "Le vernier du pied à coulisse affine la lecture jusqu'au dixième de millimètre environ, bien au-delà d'une règle classique."
+  - question: "Pourquoi les ingénieurs définissent-ils une tolérance plutôt que de viser une précision parfaite ?"
+    options:
+      - "Pour que toutes les pièces soient volontairement imprécises"
+      - "Pour fixer une marge assez petite pour que la pièce fonctionne, mais réaliste à fabriquer"
+      - "Pour éviter d'utiliser des étalons"
+    answer: 2
+    explanation: "Aucune fabrication n'est parfaite. La tolérance est une marge d'écart suffisamment petite pour garantir le fonctionnement, mais réaliste pour la production."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2676,6 +2886,20 @@ quiz:
       Contrairement à d'autres techniques de moulage réutilisables, le moule de sable est
       généralement détruit pour libérer la pièce solidifiée, ce qui nécessite de refaire un
       nouveau moule pour chaque nouvelle pièce.
+  - question: "Pourquoi faut-il veiller à ne pas emprisonner de bulles d'air en coulant le métal ?"
+    options:
+      - "Elles fragiliseraient la pièce finale"
+      - "Elles feraient exploser le moule de sable"
+      - "Elles empêcheraient le métal de fondre"
+    answer: 1
+    explanation: "Des bulles d'air piégées dans le métal affaiblissent la pièce une fois solidifiée. Le métal est donc versé soigneusement par le conduit de coulée."
+  - question: "Pourquoi laisser le métal refroidir avant de démouler ?"
+    options:
+      - "Pour que le sable reste humide"
+      - "Pour que le métal change de couleur"
+      - "Pour que la pièce soit complètement solidifiée avant d'être manipulée"
+    answer: 3
+    explanation: "Le métal doit se solidifier complètement avant d'être manipulé. Le temps nécessaire dépend du métal, de la taille de la pièce et de l'épaisseur des parois."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2834,6 +3058,20 @@ quiz:
       Que ce soit par la chaleur d'un feu de forge ou par un arc électrique, les deux techniques
       reposent sur le même principe fondamental : amener le métal à une température suffisante
       pour que les pièces fusionnent en une seule.
+  - question: "Pourquoi une soudure est-elle plus solide qu'un simple assemblage mécanique ?"
+    options:
+      - "Elle ajoute une troisième pièce de renfort"
+      - "Elle crée une liaison continue entre les deux métaux"
+      - "Elle utilise toujours un métal plus dur que les pièces"
+    answer: 2
+    explanation: "Les surfaces fondent partiellement, se mêlent puis refroidissent ensemble, ce qui forme une liaison continue plus solide qu'un assemblage mécanique."
+  - question: "Pourquoi protège-t-on la zone de soudage de l'air ambiant ?"
+    options:
+      - "L'oxygène provoque des réactions chimiques qui fragilisent la soudure"
+      - "L'air refroidit trop vite la flamme"
+      - "L'air empêche l'arc électrique de se former"
+    answer: 1
+    explanation: "À très haute température, l'oxygène réagit avec le métal et fragilise la soudure. Un gaz protecteur ou un fondant isole donc la zone."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -2942,6 +3180,20 @@ quiz:
     explanation: >
       Le tissage entrelace une série de fils tendus, appelée chaîne, avec une série de fils
       passés perpendiculairement, appelée trame, créant une structure solide et souple.
+  - question: "Pourquoi la torsion rend-elle un fil plus résistant que les fibres isolées ?"
+    options:
+      - "Elle ajoute de la colle entre les fibres"
+      - "Elle allonge chaque fibre individuellement"
+      - "Elle fait s'accrocher les fibres les unes aux autres"
+    answer: 3
+    explanation: "En étirant et en torsadant des fibres courtes, on les fait s'accrocher entre elles. Cela forme un fil continu bien plus résistant."
+  - question: "Quel progrès le rouet a-t-il apporté par rapport au fuseau ?"
+    options:
+      - "Il a permis de filer sans aucune fibre"
+      - "Il a mécanisé le mouvement de rotation"
+      - "Il a remplacé le métier à tisser"
+    answer: 2
+    explanation: "Le fuseau tournait pour créer la torsion. Le rouet a ensuite mécanisé ce mouvement de rotation."
 lastVerified: 2026-09-28
 status: published
 ---
@@ -4058,6 +4310,10 @@ sources:
   - title: "Haber process"
     url: "https://en.wikipedia.org/wiki/Haber_process"
     publisher: "Wikipedia"
+  - title: "2014 381 janvier p40 emptoz"
+    url: "https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/2014-381-janvier-p40-emptoz_hd.pdf"
+    publisher: "Société Chimique de France"
+    date: "2014"
 quiz:
   - question: "Que fabrique le procédé Haber-Bosch ?"
     options:
@@ -4269,15 +4525,99 @@ title: Refaire du verre après l'effondrement
 slug: la-fabrication-du-verre-procede-de-base
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
-  Du sable, un fondant et de la chaux : la recette du verre tient en trois ingrédients, et le
-  soufflage à la canne est né au Ier siècle avant notre ère.
+  Du sable, de la soude et de la chaux, chauffés vers 1 300 à 1 400 °C : la recette du verre
+  courant est simple. Mais la maîtriser demande un four très chaud, une fusion longue et un
+  refroidissement lent.
 tags: [chimie-industrielle, essentiel-reconstruction, reconstruction]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: []
+sources:
+  - title: "Le verre (L'Actualité Chimique, janvier 2013)"
+    url: "https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/2013-370-janvier-p8-Pierlot_HD.pdf"
+    publisher: "Société chimique de France"
+    date: "2013"
+  - title: "Glassblowing"
+    url: "https://britannica.com/technology/glassblowing"
+    publisher: "Encyclopaedia Britannica"
+quiz:
+  - question: "Quel ingrédient joue le rôle de fondant dans le verre courant ?"
+    options:
+      - "La chaux"
+      - "La soude"
+      - "Le sable"
+    answer: 2
+    explanation: "La soude abaisse la température de fusion de la silice."
+  - question: "Quelle part de silice contient environ un verre sodocalcique ?"
+    options:
+      - "71 à 74 %"
+      - "20 à 25 %"
+      - "95 à 99 %"
+    answer: 1
+    explanation: "La silice forme l'essentiel du verre, entre 71 et 74 % de sa masse."
+  - question: "À quoi sert l'affinage ?"
+    options:
+      - "Colorer le verre"
+      - "Chasser les bulles de gaz"
+      - "Durcir la surface"
+    answer: 2
+    explanation: "Entre 1 400 et 1 500 °C, les bulles remontent et quittent la masse fondue."
+  - question: "Pourquoi faut-il recuire une pièce de verre ?"
+    options:
+      - "Pour la rendre transparente"
+      - "Pour libérer les tensions internes"
+      - "Pour la rendre plus légère"
+    answer: 2
+    explanation: "Sans recuisson, le refroidissement inégal crée des tensions qui font casser la pièce."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+Pour refaire du verre à partir de rien, il faut trois ingrédients et un feu capable de monter très haut. Le verre courant est surtout de la silice, c'est-à-dire du sable. On y ajoute de la soude, qui sert de fondant, et de la chaux, qui rend le verre plus stable. Le procédé tient en quelques étapes : fondre, affiner, façonner, refroidir lentement.
+
+## Trois ingrédients, trois rôles
+
+Le verre sodocalcique, celui des bouteilles, des vitres et de la vaisselle, contient environ 71 à 74 % de silice, 11 à 15 % d'oxyde de sodium et 8 à 11 % de chaux, selon la Société chimique de France. Le sable fournit la silice, et un bon sable en contient plus de 99 %.
+
+La silice forme le réseau rigide du verre. La soude vient du carbonate ou du sulfate de sodium. Elle abaisse le point de fusion de la silice, qui serait sinon beaucoup trop élevé pour un four ordinaire. La chaux stabilise le réseau : sans elle, un verre fait de silice et de soude seules se dégraderait au contact de l'eau.
+
+## Le four et la fusion
+
+Le mélange, appelé composition, est chauffé dans un four vers 1 300 à 1 400 °C. Avec la soude comme fondant, la fusion intervient autour de 1 350 °C. Il faut ensuite faire monter la température plus haut, entre 1 400 et 1 500 °C, pour l'affinage : à cette étape, les bulles de gaz remontent et quittent la masse fondue.
+
+Atteindre et maintenir ces températures est la vraie difficulté. Il faut un four bien isolé, un combustible abondant et du temps. Dans l'industrie moderne, les fours à bassin fonctionnent en continu.
+
+## Façonner le verre
+
+Le verre fondu est une pâte visqueuse que l'on façonne avant qu'elle refroidisse. La canne à souffler est l'outil emblématique. L'artisan cueille une masse de verre en fusion au bout d'un tube creux, puis souffle pour former une bulle. Il la modèle ensuite en la soufflant, en la balançant ou en la roulant sur une surface lisse appelée marbre. Le soufflage a transformé le verre en produit courant : des ateliers syriens ont exporté des récipients soufflés dans tout l'Empire romain, selon l'encyclopédie Britannica.
+
+## Refroidir lentement
+
+Une pièce refroidie trop vite casse, parce que l'extérieur se contracte avant l'intérieur. Le verre passe donc par une étape de recuisson, vers 550 à 600 °C, qui libère les tensions internes avant le refroidissement. C'est une étape souvent oubliée, et pourtant indispensable.
+
+## Prudence
+
+Le verre en fusion et les fours brûlent gravement. Lunettes, gants et distance de sécurité sont indispensables.
+
+## À retenir
+
+- Le verre courant est environ 71 à 74 % de silice, 11 à 15 % de soude et 8 à 11 % de chaux.
+- La soude abaisse la température de fusion, qui tombe autour de 1 350 °C.
+- L'affinage, vers 1 400 à 1 500 °C, chasse les bulles.
+- La canne à souffler permet de gonfler le verre fondu et d'en faire des objets creux.
+- La recuisson vers 550 à 600 °C évite que la pièce ne casse en refroidissant.
+
+```schema
+type: systeme
+titre: Les trois ingrédients du verre
+centre: Verre
+parties:
+  - nom: Silice
+    role: Le sable.
+  - nom: Fondant
+    role: La soude abaisse la température de fusion.
+  - nom: Chaux
+```
 ---
 type: article
 title: Le procede de fabrication du ciment
@@ -4407,6 +4747,12 @@ sources:
   - title: "Catalytic converter"
     url: "https://en.wikipedia.org/wiki/Catalytic_converter"
     publisher: "Wikipedia"
+  - title: "Catalyse"
+    url: "https://www.universalis.fr/encyclopedie/catalyse/"
+    publisher: "Encyclopædia Universalis"
+  - title: "Catalyse hétérogène en industrie"
+    url: "https://perso.ens-lyon.fr/fenril.montorier/fichiers/LC11%20-%20Cours/Catalyse%20h%c3%a9t%c3%a9rogene%20en%20industrie%20-%20J1255.pdf"
+    publisher: "ENS de Lyon"
 quiz:
   - question: "Que devient un catalyseur à la fin d'une réaction ?"
     options:
@@ -4434,6 +4780,13 @@ quiz:
     explanation: >
       Les enzymes sont des protéines qui catalysent presque toutes les réactions chimiques de nos
       cellules.
+  - question: "Pourquoi divise-t-on un catalyseur solide en grains très fins ou le dépose-t-on sur un support poreux ?"
+    options:
+      - "Pour le rendre plus facile à dissoudre"
+      - "Pour qu'il se consomme plus lentement"
+      - "Pour maximiser la surface de contact avec les réactifs"
+    answer: 3
+    explanation: "En catalyse hétérogène, les réactifs réagissent à la surface du solide. Plus la surface est grande, plus la réaction est efficace."
 lastVerified: 2026-11-07
 status: published
 ---
@@ -5763,6 +6116,12 @@ sources:
   - title: "Universal Product Code"
     url: "https://en.wikipedia.org/wiki/Universal_Product_Code"
     publisher: "Wikipedia"
+  - title: "2D in retail: a new dimension in barcodes"
+    url: "https://gs1ca.org/documents/2d-in-retail-a-new-dimension-in-barcodes-fr.pdf"
+    publisher: "GS1 Canada"
+  - title: "Retail 2D FAQ FR"
+    url: "https://www.gs1ca.org/gs1ca-components/documents/Retail_2D_FAQ_FR.pdf"
+    publisher: "GS1 Canada"
 quiz:
   - question: "Que font les barres noires d'un code-barres ?"
     options:
@@ -5903,6 +6262,12 @@ sources:
   - title: "Cold chain"
     url: "https://en.wikipedia.org/wiki/Cold_chain"
     publisher: "Wikipedia"
+  - title: "Comment bien conserver ses aliments et ne pas interrompre la chaîne du froid ?"
+    url: "https://www.anses.fr/fr/content/comment-bien-conserver-ses-aliments-et-ne-pas-interrompre-la-chaine-du-froid"
+    publisher: "ANSES"
+  - title: "La chaîne du froid : comment ne pas la rompre"
+    url: "https://www.economie.gouv.fr/particuliers/la-chaine-du-froid-comment-ne-pas-la-rompre"
+    publisher: "Ministère de l'Économie et des Finances (Bercy infos Particuliers)"
 quiz:
   - question: "À quelle température doit-on garder les produits surgelés ?"
     options:
@@ -6279,6 +6644,12 @@ sources:
   - title: "Mètre"
     url: "https://fr.wikipedia.org/wiki/M%C3%A8tre"
     publisher: "Wikipédia"
+  - title: "Le mètre, mesure républicaine"
+    url: "https://www.obspm.fr/IMG//article_PDF/Le-mtre-mesure-rpublicaine_a2988.pdf"
+    publisher: "Observatoire de Paris"
+  - title: "mètre"
+    url: "https://www.larousse.fr/encyclopedie/divers/m%C3%A8tre/69848"
+    publisher: "Larousse"
 quiz:
   - question: "Combien d'unités de mesure différentes existaient en France vers 1789 ?"
     options:
@@ -6378,6 +6749,9 @@ sources:
   - title: "Interchangeable parts"
     url: "https://en.wikipedia.org/wiki/Interchangeable_parts"
     publisher: "Wikipedia"
+  - title: "Article Matériaux & Techniques, DOI 10.1051/mattech/191902050205"
+    url: "https://www.mattech-journal.org/10.1051/mattech/191902050205"
+    publisher: "Matériaux & Techniques (EDP Sciences)"
 quiz:
   - question: "Qu'est-ce qu'une pièce interchangeable ?"
     options:
@@ -6932,6 +7306,9 @@ sources:
   - title: "Vulcanization"
     url: "https://en.wikipedia.org/wiki/Vulcanization"
     publisher: "Wikipedia"
+  - title: "Élastomères ou caoutchoucs"
+    url: "https://www.universalis.fr/encyclopedie/elastomeres-caoutchoucs/2-caracteristiques-fondamentales-des-elastomeres/"
+    publisher: "Encyclopædia Universalis"
 quiz:
   - question: "Quel était le défaut du caoutchouc naturel avant la vulcanisation ?"
     options:
@@ -7083,6 +7460,12 @@ sources:
   - title: "Bakélite"
     url: "https://fr.wikipedia.org/wiki/Bak%C3%A9lite"
     publisher: "Wikipédia"
+  - title: "LC3 Molécule au matériau"
+    url: "https://perso.ens-lyon.fr/marie.lucas1/Agreg/fichiers/LC3_MoleculeAuMateriau.pdf"
+    publisher: "ENS de Lyon"
+  - title: "Thermoplastique"
+    url: "https://www.techniques-ingenieur.fr/glossaire/Thermoplastique"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Que fait un thermoplastique quand on le chauffe ?"
     options:
@@ -9391,6 +9774,12 @@ sources:
   - title: "Machine vision"
     url: "https://en.wikipedia.org/wiki/Machine_vision"
     publisher: "Wikipedia"
+  - title: "Système de vision industrielle"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/automatique-robotique-th16/perception-planification-et-interface-en-robotique-42622210/systeme-de-vision-industrielle-s7799/"
+    publisher: "Techniques de l'Ingénieur"
+  - title: "Le dispositif d'éclairage"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/automatique-robotique-th16/perception-planification-et-interface-en-robotique-42622210/systeme-de-vision-industrielle-s7799/le-dispositif-d-eclairage-s7799niv10001.html"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Pourquoi l'éclairage est-il si important en vision industrielle ?"
     options:
@@ -9510,6 +9899,9 @@ sources:
   - title: "Automated guided vehicle"
     url: "https://en.wikipedia.org/wiki/Automated_guided_vehicle"
     publisher: "Wikipedia"
+  - title: "Industrial trucks - Driverless trucks"
+    url: "https://www.techniques-ingenieur.fr/en/resources/article/ti082/industrial-trucks-a9206"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Que suivait le premier véhicule de ce type, dans les années 1950 ?"
     options:
@@ -11208,7 +11600,8 @@ slug: comment-fabrique-t-on-un-panneau-solaire-en-silicium
 categoryPath: industries/industrie-lourde/chimie-industrielle
 summary: >
   Un panneau solaire en silicium naît d'un silicium très purifié, coulé en lingots, découpé en
-  plaquettes, dopé, puis équipé de contacts métalliques et assemblé en modules.
+  plaquettes, dopé, puis équipé de contacts métalliques et assemblé en modules. Cette chaîne de
+  fabrication est très concentrée en Chine.
 tags: [chimie-industrielle]
 sources:
   - title: "Solar cell"
@@ -11220,6 +11613,9 @@ sources:
   - title: "Polysilicon"
     url: "https://en.wikipedia.org/wiki/Polysilicon"
     publisher: "Wikipedia"
+  - title: "China currently dominates global solar PV supply chains (Solar PV Global Supply Chains, executive summary)"
+    url: "https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary"
+    publisher: "AIE (Agence internationale de l'énergie)"
 quiz:
   - question: "Quel matériau est utilisé dans presque toutes les cellules solaires commerciales ?"
     options:
@@ -11256,7 +11652,7 @@ quiz:
     explanation: >
       On dope les plaquettes avec du bore, du phosphore ou d'autres éléments pour créer la
       jonction P-N, qui produit le courant.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -11288,14 +11684,21 @@ elements:
     icone: sun
 ```
 
+## Assembler le module
+
+Une cellule seule est fragile et ne délivre qu'une faible tension. Les cellules sont donc reliées entre elles par de fins rubans métalliques, en série, pour additionner leurs tensions. Cet ensemble est ensuite pris en sandwich entre une vitre à l'avant et une feuille de polymère à l'arrière, avec une résine transparente qui les colle et les protège de l'humidité. Un cadre en aluminium rigidifie le tout, et une boîte de jonction à l'arrière permet de raccorder les câbles.
+
+## Une chaîne très concentrée
+
+Chaque étape, du polysilicium au module, est une usine différente, et ces usines ne sont pas réparties de façon égale. L'Agence internationale de l'énergie souligne que la Chine domine aujourd'hui les chaînes d'approvisionnement mondiales du photovoltaïque. Cette concentration compte autant pour le prix des panneaux que pour la sécurité d'approvisionnement des pays qui les installent.
+
 ## À retenir
 
 - Presque toutes les cellules solaires commerciales sont en silicium cristallin.
 - Le silicium destiné au photovoltaïque doit être purifié à un niveau très élevé.
 - Le silicium métallurgique est raffiné par le procédé Siemens, qui le transforme en trichlorosilane puis le décompose à haute température.
-- Le silicium est ensuite transformé en lingots : monocristallins, tirés par la méthode de Czochralski, ou multicristallins, coulés en blocs carrés.
 - On dope les plaquettes avec du bore, du phosphore ou d'autres éléments pour créer la jonction P-N, qui produit le courant.
-
+- Les cellules sont reliées en série, puis protégées entre une vitre et une feuille de polymère pour former le module.
 ---
 type: article
 title: Comment une simple boîte en acier a-t-elle changé la façon dont voyagent les objets ?
@@ -11316,6 +11719,9 @@ sources:
   - title: "Maritime transport"
     url: "https://en.wikipedia.org/wiki/Maritime_transport"
     publisher: "Wikipedia"
+  - title: "The unexpected history of the shipping container"
+    url: "https://www.rmg.co.uk/stories/ocean/unexpected-history-shipping-container"
+    publisher: "Royal Museums Greenwich"
 quiz:
   - question: "Que peut-on faire avec un conteneur sans en décharger le contenu ?"
     options:
@@ -11516,6 +11922,13 @@ sources:
   - title: "Intermodal container"
     url: "https://en.wikipedia.org/wiki/Intermodal_container"
     publisher: "Wikipedia"
+  - title: "Des solutions pratiques pour des problèmes concrets (à propos)"
+    url: "https://committee.iso.org/fr/a-propos"
+    publisher: "ISO"
+  - title: "La révision d'ISO 9001 au stade final"
+    url: "https://bobs.isolutions.iso.org/fr/news/2014/11/Ref1905.html"
+    publisher: "ISO"
+    date: "2014"
 quiz:
   - question: "Que signifie le nom ISO ?"
     options:
@@ -11611,6 +12024,12 @@ sources:
   - title: "Industrial robot"
     url: "https://en.wikipedia.org/wiki/Industrial_robot"
     publisher: "Wikipedia"
+  - title: "Les causes de la désindustrialisation en France"
+    url: "https://www.banque-france.fr/fr/publications-et-statistiques/publications/les-causes-de-la-desindustrialisation-en-france"
+    publisher: "Banque de France"
+  - title: "Note IPP 123 : désindustrialisation"
+    url: "https://www.ipp.eu/wp-content/uploads/2026/02/Note_IPP_123_desindustrialisation.pdf"
+    publisher: "Institut des politiques publiques (IPP)"
 quiz:
   - question: "Depuis quand l'industrie perd-elle du poids en France ?"
     options:
@@ -11706,6 +12125,9 @@ sources:
   - title: "Steelmaking"
     url: "https://en.wikipedia.org/wiki/Steelmaking"
     publisher: "Wikipedia"
+  - title: "La décarbonation de l'acier, un défi multifactoriel"
+    url: "https://www.techniques-ingenieur.fr/actualite/articles/la-decarbonation-de-lacier-un-defi-multifactoriel-154935/"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Que charge-t-on dans un haut-fourneau ?"
     options:
@@ -11807,6 +12229,12 @@ sources:
   - title: "Distributed manufacturing"
     url: "https://en.wikipedia.org/wiki/Distributed_manufacturing"
     publisher: "Wikipedia"
+  - title: "Fabrication additive"
+    url: "https://www.cetim.fr/content/download/146946/4340472/version/1/file/24_Fabrication+additive.pdf"
+    publisher: "CETIM"
+  - title: "Paving the way for a 3D printing revolution in Europe"
+    url: "https://cordis.europa.eu/article/id/430263-paving-the-way-for-a-3d-printing-revolution-in-europe/fr"
+    publisher: "CORDIS (Commission européenne)"
 quiz:
   - question: "Comment fonctionne la fabrication additive ?"
     options:

@@ -200,6 +200,20 @@ quiz:
     explanation: >
       Sur une image, les premières couches détectent des bords, les suivantes des formes, puis
       des parties d'objets, puis des objets entiers.
+  - question: "Qu'est-ce qui explique l'essor récent de l'apprentissage profond, alors que l'idée est ancienne ?"
+    options:
+      - "L'invention de la rétropropagation, formulée seulement au début des années 2010."
+      - "La découverte que les réseaux de neurones copient fidèlement le fonctionnement du cerveau."
+      - "Des données massives, des processeurs graphiques adaptés et des avancées techniques pour les réseaux très profonds."
+    answer: 3
+    explanation: "L'idée est ancienne. Internet a fourni des données en quantité, les processeurs graphiques ont donné la puissance de calcul, et des avancées techniques ont permis d'entraîner des réseaux vraiment profonds."
+  - question: "Comment fonctionne la rétropropagation du gradient ?"
+    options:
+      - "On mesure l'erreur sur un exemple, puis on modifie légèrement chaque paramètre dans le sens qui la réduit, et on recommence."
+      - "On ajoute à la main des règles chaque fois que le réseau se trompe sur un exemple."
+      - "On supprime les exemples mal classés pour que le réseau n'apprenne que des cas faciles."
+    answer: 1
+    explanation: "On compare la réponse du réseau à la bonne réponse, on mesure l'erreur et on ajuste chaque paramètre un peu, des millions de fois, comme une descente lente vers le fond d'une vallée."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -326,6 +340,20 @@ quiz:
     explanation: >
       Aux échecs, on peut compter la valeur des pièces. Au go, évaluer une position relève
       d'une appréciation globale que les programmeurs ne savaient pas formuler.
+  - question: "En quoi consiste le problème du crédit en apprentissage par renforcement ?"
+    options:
+      - "Savoir quel coup, parmi tous ceux joués, mérite le crédit d'une récompense qui n'arrive qu'à la fin."
+      - "Décider combien de parties le système doit jouer avant de recevoir sa première récompense."
+      - "Compter les points gagnés à chaque coup pour comparer le système à un joueur humain."
+    answer: 1
+    explanation: "La récompense arrive à la fin de la partie, mais le coup décisif a pu être joué bien plus tôt. Il faut répartir le crédit dans le temps entre les actions."
+  - question: "Comment le réseau de neurones a-t-il rendu le go abordable pour une machine ?"
+    options:
+      - "Il a permis d'explorer toutes les positions possibles en quelques secondes."
+      - "Il évalue une position et propose des coups plausibles, ce qui réduit énormément l'espace à explorer."
+      - "Il a remplacé l'exploration des coups par une simple copie des parties de professionnels."
+    answer: 2
+    explanation: "Le réseau juge les positions et suggère des coups plausibles. L'exploration ciblée peut alors se concentrer sur un espace bien plus réduit."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -456,6 +484,20 @@ quiz:
     explanation: >
       Évaluer un modèle sur ses propres données d'entraînement ne prouve rien. Seuls des
       exemples inédits mesurent sa capacité à généraliser.
+  - question: "Pourquoi un système censé distinguer des animaux a-t-il pu se révéler inutilisable dans la vraie vie ?"
+    options:
+      - "Parce qu'il avait trop peu de photos pour reconnaître chaque espèce."
+      - "Parce que les animaux changent d'aspect d'une saison à l'autre."
+      - "Parce qu'il avait appris à repérer la neige en arrière-plan, présente sur toutes les photos d'une espèce."
+    answer: 3
+    explanation: "Le modèle exploite ce qui sépare les catégories sans se demander si c'est pertinent. Il a retenu un indice trompeur, la neige, et non l'animal lui-même."
+  - question: "Sur quelles données faut-il évaluer un modèle avant de l'utiliser ?"
+    options:
+      - "Sur des données qui ressemblent aux conditions réelles d'usage, pas à celles du laboratoire."
+      - "Sur les mêmes exemples que ceux de l'entraînement, pour vérifier qu'il les a bien appris."
+      - "Sur les données les plus simples, pour être sûr qu'il ne fasse aucune erreur."
+    answer: 1
+    explanation: "Un modèle peut réussir au laboratoire pour de mauvaises raisons. L'évaluation doit donc reproduire les conditions réelles dans lesquelles il servira."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -578,6 +620,20 @@ quiz:
     explanation: >
       Les architectures précédentes traitaient les mots l'un après l'autre, ce qui interdisait
       la parallélisation. Le goulot d'étranglement n'était pas l'idée, mais le temps de calcul.
+  - question: "Pourquoi les architectures précédentes avaient-elles du mal à relier le début et la fin d'un long paragraphe ?"
+    options:
+      - "Parce qu'elles traitaient tous les mots en même temps, sans tenir compte de l'ordre."
+      - "Parce que leur mémoire se dégradait avec la distance entre les mots."
+      - "Parce qu'elles ne pouvaient lire que des phrases de moins de dix mots."
+    answer: 2
+    explanation: "Elles traitaient le texte mot après mot en gardant une mémoire de ce qui précédait. Cette mémoire s'affaiblissait avec la distance, et un lien lointain se perdait."
+  - question: "Comment le transformeur a-t-il pu être appliqué aux images ?"
+    options:
+      - "En transformant chaque image en un texte décrivant son contenu."
+      - "En réduisant l'image à une seule couleur moyenne traitée comme un mot."
+      - "En découpant l'image en morceaux traités comme des mots."
+    answer: 3
+    explanation: "L'architecture s'est révélée générale : en découpant une image en morceaux traités comme des mots, on peut lui appliquer le même mécanisme d'attention."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -697,6 +753,20 @@ quiz:
     explanation: >
       C'est le mécanisme complet. La cohérence apparente du texte résulte de cette prédiction
       répétée, pas d'un plan établi à l'avance.
+  - question: "Pourquoi enchaîner plusieurs systèmes séparés pour faire parler une machine faisait-il perdre de l'information ?"
+    options:
+      - "À chaque passage se perdaient l'intonation, l'hésitation ou le bruit de fond, et du temps aussi."
+      - "Parce que chaque système ne pouvait traiter que des mots courts."
+      - "Parce que la voix devait être entièrement enregistrée avant que le texte puisse être traité."
+    answer: 1
+    explanation: "Transcrire la voix en texte puis la resynthétiser fait disparaître des informations comme le ton. Un modèle unique évite ces ruptures et peut percevoir le ton d'une voix."
+  - question: "Pourquoi les usages où personne ne vérifie le résultat sont-ils les plus risqués ?"
+    options:
+      - "Parce que le système affiche un message d'alerte quand il se trompe, que personne ne lit."
+      - "Parce que le système est tout aussi fluide quand il se trompe, ce qui rend l'erreur difficile à repérer."
+      - "Parce que le système ne peut pas fonctionner sans la présence continue d'un humain."
+    answer: 2
+    explanation: "Un modèle de langage prédit le mot suivant et paraît aussi cohérent quand il se trompe. Sans vérification humaine, l'erreur passe inaperçue."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -811,6 +881,20 @@ quiz:
     explanation: >
       Le ton assuré fait partie du style appris. Il ne reflète aucune évaluation interne de
       fiabilité, ce qui rend la vérification humaine indispensable.
+  - question: "Pourquoi un modèle de langage peut-il échouer sur un calcul qu'une calculatrice réussit ?"
+    options:
+      - "Parce qu'il manque de mémoire pour retenir les chiffres d'une opération."
+      - "Parce qu'il refuse de calculer sans avoir accès à internet."
+      - "Parce qu'il manipule du texte et produit un résultat plausible plutôt qu'il ne calcule."
+    answer: 3
+    explanation: "Le modèle traite du texte, pas des nombres. Il fournit la réponse qui paraît la plus plausible, d'où des erreurs que les outils de calcul réels évitent."
+  - question: "Quelle règle pratique s'applique à l'usage d'un modèle de langage ?"
+    options:
+      - "Plus le coût d'une erreur est élevé, plus la vérification doit être systématique."
+      - "Plus la réponse est détaillée, moins il est nécessaire de la vérifier."
+      - "Plus la question est précise, plus on peut se fier à la première réponse."
+    answer: 1
+    explanation: "Un chiffre précis, une référence, une règle de droit ou un diagnostic exigent une vérification, car une erreur y coûte cher. Pour un simple premier jet, le risque est faible."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -932,6 +1016,20 @@ quiz:
     explanation: >
       Un code postal, un parcours scolaire, un type de loisir peuvent suffire. C'est ce qu'on
       appelle une variable substitutive.
+  - question: "Comment une boucle de rétroaction peut-elle créer un biais ?"
+    options:
+      - "Le système modifie ses propres données d'entraînement pour obtenir de meilleurs résultats."
+      - "Un système qui envoie plus de contrôles dans un quartier y trouve plus d'infractions, ce qui confirme sa prédiction."
+      - "Le système oublie progressivement les groupes peu représentés dans ses données."
+    answer: 2
+    explanation: "Davantage de contrôles dans un quartier produit mécaniquement davantage d'infractions constatées. Cela confirme la prédiction et renforce le ciblage."
+  - question: "Pourquoi choisir une définition de l'équité est-il une décision politique et pas seulement technique ?"
+    options:
+      - "Parce que seuls les responsables politiques savent écrire les formules mathématiques."
+      - "Parce qu'une définition unique a été imposée par la loi dans tous les pays."
+      - "Parce que plusieurs définitions existent et ne peuvent pas être satisfaites en même temps, sauf cas particuliers."
+    answer: 3
+    explanation: "Même taux d'erreur, même taux de sélection, même valeur prédictive : ces définitions sont incompatibles entre elles. Choisir l'une d'elles est donc un choix de valeurs."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1055,6 +1153,20 @@ quiz:
     explanation: >
       Une règle fondée sur l'usage reste applicable quand la technique change. C'est un choix
       de conception du texte.
+  - question: "Que doivent respecter les usages classés à risque limité ?"
+    options:
+      - "Des obligations de transparence : savoir qu'on parle à une machine et signaler les contenus générés."
+      - "Une interdiction totale, comme pour la notation sociale des citoyens."
+      - "Une supervision humaine permanente et une documentation complète des données."
+    answer: 1
+    explanation: "Le risque limité impose la transparence. Les obligations lourdes de documentation et de supervision concernent les usages à haut risque."
+  - question: "Pourquoi le règlement européen pourrait-il devenir un standard bien au-delà de l'Europe ?"
+    options:
+      - "Parce que tous les autres pays ont signé l'obligation de l'appliquer."
+      - "Parce que des entreprises préfèrent appliquer la norme la plus exigeante partout plutôt que maintenir deux versions d'un produit."
+      - "Parce que les sanctions s'appliquent seulement aux entreprises situées hors d'Europe."
+    answer: 2
+    explanation: "Comme pour la protection des données, il est plus simple de n'avoir qu'une version conforme à la règle la plus stricte, qui devient alors un standard de fait."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1178,6 +1290,20 @@ quiz:
     explanation: >
       Paradoxalement, certaines tâches manuelles peu qualifiées sont plus difficiles à
       automatiser que des tâches intellectuelles très qualifiées.
+  - question: "Qu'est-ce qui distingue cette vague d'automatisation des précédentes ?"
+    options:
+      - "Elle ne concerne que les tâches manuelles répétitives des usines."
+      - "Elle supprime désormais tous les métiers, et non plus seulement certaines tâches."
+      - "Elle touche des tâches intellectuelles comme rédiger, résumer, traduire ou produire du code."
+    answer: 3
+    explanation: "Les vagues précédentes visaient surtout des tâches manuelles répétitives. Celle-ci atteint des professions intellectuelles qui se croyaient à l'abri."
+  - question: "Que montrent les premières études sur l'écart entre débutants et personnes expérimentées ?"
+    options:
+      - "Il se réduit, car les moins expérimentés progressent davantage."
+      - "Il s'agrandit, car les plus expérimentés profitent seuls de l'outil."
+      - "Il reste identique, car les gains sont partagés à parts égales."
+    answer: 1
+    explanation: "Un résultat revient dans les évaluations en situation réelle : les moins expérimentés gagnent plus que les plus expérimentés, ce qui rapproche les niveaux."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1729,6 +1855,20 @@ quiz:
       Un modèle exécuté localement continue de fonctionner même sans accès à internet,
       contrairement à un service en ligne qui devient inutilisable dès que la connexion est
       coupée.
+  - question: "Pourquoi faire fonctionner un modèle de langage demande-t-il normalement beaucoup de mémoire ?"
+    options:
+      - "Parce qu'il contient des milliards de paramètres numériques à stocker et à utiliser."
+      - "Parce qu'il doit garder en mémoire tout internet pour répondre."
+      - "Parce qu'il doit enregistrer chaque conversation de tous ses utilisateurs."
+    answer: 1
+    explanation: "Un modèle de langage est composé de milliards de paramètres ajustés lors de l'entraînement. Les stocker et les faire fonctionner demande une grande quantité de mémoire."
+  - question: "Quelle contrepartie accompagne un modèle quantifié exécuté sur du matériel modeste ?"
+    options:
+      - "Il ne peut répondre que s'il est connecté à internet."
+      - "Il réclame une carte graphique puissante et coûteuse."
+      - "Il reste généralement moins performant qu'un très grand modèle sur une infrastructure spécialisée."
+    answer: 3
+    explanation: "Le modèle allégé fonctionne hors ligne et répond utilement à beaucoup de questions, mais il est généralement moins performant qu'un très grand modèle."
 lastVerified: 2026-09-28
 status: published
 ---

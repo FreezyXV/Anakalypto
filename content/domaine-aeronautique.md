@@ -130,6 +130,20 @@ quiz:
     explanation: >
       Le réflexe naturel est de tirer pour arrêter de descendre. C'est exactement l'inverse qu'il
       faut faire : pousser réduit l'angle de l'aile, l'air se recolle, et la portance revient.
+  - question: "Pourquoi un avion de chasse rapide peut-il décrocher alors qu'un planeur lent vole sans problème ?"
+    options:
+      - "Parce que le décrochage dépend de l'angle de l'aile face au vent, pas de la vitesse"
+      - "Parce que l'avion de chasse est plus lourd et manque de portance à haute vitesse"
+      - "Parce que la vitesse de décrochage du planeur est toujours inférieure à 60 km/h"
+    answer: 1
+    explanation: "Ce qui compte est l'incidence, l'angle entre l'aile et le vent. Un avion rapide qui tire brutalement sur le manche dépasse l'angle critique, alors qu'un planeur bien aligné vole normalement."
+  - question: "Pourquoi les ailes sont-elles dessinées pour que le décollement de l'air commence près du fuselage ?"
+    options:
+      - "Pour que l'aile vibre moins juste avant le décrochage"
+      - "Pour que les commandes de virage continuent de répondre le plus longtemps possible"
+      - "Pour que l'avion décroche plus tôt et que le pilote soit prévenu"
+    answer: 2
+    explanation: "Le décollement commence près du fuselage et finit par les extrémités, ce qui garde les commandes de virage efficaces le plus longtemps possible."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -232,6 +246,20 @@ quiz:
     explanation: >
       Une ailette ajoute du poids et oblige à renforcer l'aile. Sur un vol court, l'économie de
       carburant ne compense pas ce poids supplémentaire.
+  - question: "Pourquoi la traînée induite est-elle la plus forte au décollage et en montée ?"
+    options:
+      - "Parce que le frottement de l'air est alors plus intense qu'en croisière"
+      - "Parce que le tourbillon de bout d'aile disparaît quand l'avion accélère"
+      - "Parce que l'avion vole lentement et que l'aile doit travailler dur"
+    answer: 3
+    explanation: "À basse vitesse, l'aile doit fournir beaucoup de portance et le tourbillon est fort. En croisière rapide, la traînée induite devient faible."
+  - question: "Comment une ailette réduit-elle le freinage causé par le tourbillon ?"
+    options:
+      - "Elle agit comme une petite aile dans le tourbillon, avec une force dont une partie pousse vers l'avant"
+      - "Elle allonge l'aile pour la rendre plus fine, comme celle d'un planeur"
+      - "Elle supprime la différence de pression entre le dessus et le dessous de l'aile"
+    answer: 1
+    explanation: "L'ailette est placée dans le tourbillon et produit une force dont une partie pousse vers l'avant. Elle éloigne aussi le cœur du tourbillon."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -335,6 +363,20 @@ quiz:
     explanation: >
       L'air turbulent frotte davantage, mais il brasse et reste collé plus longtemps. On accepte
       un peu plus de frottement pour éviter un décollement, bien plus coûteux.
+  - question: "Que se passe-t-il quand l'air devient turbulent sur l'aile ?"
+    options:
+      - "Il s'immobilise complètement contre la surface"
+      - "Il part en tourbillons et le frottement augmente beaucoup"
+      - "Il glisse en couches rangées et frotte moins"
+    answer: 2
+    explanation: "Plus loin vers l'arrière, l'ordre se brise : l'air part en tourbillons et le frottement augmente, parfois cinq fois plus."
+  - question: "Pourquoi les techniques qui gardent l'air laminaire restent-elles rares en service ?"
+    options:
+      - "Parce qu'elles augmentent le frottement à l'avant de l'aile"
+      - "Parce que la transition se produit à un endroit imprévisible"
+      - "Parce qu'un insecte écrasé, une goutte de pluie ou une rayure suffisent à déclencher la turbulence"
+    answer: 3
+    explanation: "Garder l'air laminaire économiserait du carburant, mais la moindre saleté ou rayure déclenche la turbulence et annule le gain."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -439,6 +481,20 @@ quiz:
     explanation: >
       Cette inclinaison, appelée flèche, réduit la vitesse de l'air vue par le profil de l'aile.
       L'onde de choc apparaît donc plus tard, à vitesse plus élevée.
+  - question: "Pourquoi l'onde de choc peut-elle faire trembler l'avion et rendre les commandes moins efficaces ?"
+    options:
+      - "Elle peut décoller l'air de l'aile juste derrière elle"
+      - "Elle fait vibrer le moteur à cause de la hausse de température"
+      - "Elle augmente soudainement la portance sur un seul côté"
+    answer: 1
+    explanation: "Derrière l'onde de choc, l'air peut se décoller de l'aile : l'avion tremble et les commandes répondent mal."
+  - question: "Quel est le principe du profil supercritique ?"
+    options:
+      - "Incliner l'aile vers l'arrière pour réduire la vitesse de l'air vue par le profil"
+      - "Aplatir le dessus de l'aile pour étaler l'accélération de l'air au lieu de la concentrer"
+      - "Resserrer le fuselage à l'endroit où les ailes s'attachent"
+    answer: 2
+    explanation: "Le profil supercritique est plus plat sur le dessus et recourbé vers l'arrière : il étale l'accélération au lieu de la concentrer. Les deux autres propositions décrivent la flèche et la règle des aires."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -541,6 +597,20 @@ quiz:
       Aujourd'hui, la plus grande partie de l'hydrogène mondial est produite à partir de gaz
       naturel, ce qui émet du CO2. Seul l'hydrogène fabriqué avec de l'électricité propre est
       réellement bénéfique.
+  - question: "Pourquoi l'hydrogène liquide ne peut-il pas être stocké dans les ailes comme le kérosène ?"
+    options:
+      - "Parce qu'il doit rester à moins 253 degrés, ce que les ailes ne supportent pas"
+      - "Parce qu'il est trop lourd pour être porté par les ailes"
+      - "Parce que les ailes sont minces et plates alors que son réservoir doit être gros, rond et bien isolé"
+    answer: 3
+    explanation: "Le réservoir d'hydrogène doit être volumineux, rond et isolé : il ne tient pas dans des ailes minces et plates, d'où un placement dans le fuselage."
+  - question: "Pourquoi la pile à combustible est-elle réservée aux petits avions régionaux ?"
+    options:
+      - "Parce que l'ensemble est lourd et chauffe beaucoup"
+      - "Parce qu'elle produit des oxydes d'azote en grande quantité"
+      - "Parce que son rendement est moins bon que celui d'une turbine"
+    answer: 1
+    explanation: "La pile offre un meilleur rendement et aucune pollution locale, mais l'ensemble est lourd et chauffe beaucoup, ce qui limite cette voie aux petits appareils."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -643,6 +713,20 @@ quiz:
     explanation: >
       Elles sont peintes en orange fluorescent pour être retrouvées plus facilement dans une
       épave ou au fond de l'eau. Le surnom « boîte noire » vient d'autre chose.
+  - question: "Comment les enquêtes rendent-elles l'aviation plus sûre au fil du temps ?"
+    options:
+      - "Elles désignent les responsables pour qu'ils soient sanctionnés"
+      - "Leurs recommandations modifient les règles et la formation, ce qui rend un accident du même type moins probable"
+      - "Elles remplacent les enquêtes judiciaires pour aller plus vite"
+    answer: 2
+    explanation: "Chaque accident étudié donne des recommandations qui changent les règles et la formation. L'effet est lent mais s'accumule depuis des décennies."
+  - question: "Quelle relation y a-t-il entre l'enquête de sécurité et l'enquête judiciaire ?"
+    options:
+      - "La seconde remplace la première dès qu'un fautif est identifié"
+      - "Les deux partagent librement toutes leurs pièces"
+      - "Elles peuvent avoir lieu en parallèle, mais ne partagent pas librement leurs pièces"
+    answer: 3
+    explanation: "Une enquête judiciaire peut se dérouler en parallèle, mais les deux ne partagent pas librement leurs pièces, afin que les témoins osent parler."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -746,6 +830,20 @@ quiz:
     explanation: >
       C'est ce qu'on appelle une consigne de navigabilité. Elle s'impose à tous les exemplaires
       déjà livrés, partout dans le monde.
+  - question: "Pourquoi l'accord sur la liste des exigences, au début du programme, est-il décisif ?"
+    options:
+      - "Parce qu'il fige les règles du jeu pour tout le programme, et qu'on ne pourra plus les changer facilement"
+      - "Parce qu'il dispense le constructeur de certains essais en vol"
+      - "Parce qu'il permet à l'autorité de modifier les règles à chaque nouvel essai"
+    answer: 1
+    explanation: "Constructeur et autorité s'accordent avant la construction. Cet accord fige les règles pour tout le programme."
+  - question: "À quoi sert la seconde cellule d'essai, soumise à des dizaines de milliers de cycles de pressurisation et de flexion ?"
+    options:
+      - "À casser l'aile en la chargeant de plus en plus fort"
+      - "À simuler une vie entière de vols en quelques mois"
+      - "À tester les décrochages volontaires en vol"
+    answer: 2
+    explanation: "Cette cellule est fatiguée par des cycles répétés pour simuler une vie entière de vols en quelques mois. C'est la première cellule qui est chargée jusqu'à la rupture."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -850,6 +948,20 @@ quiz:
     explanation: >
       Le bruit d'un jet dépend très fortement de sa vitesse de sortie, environ à la puissance
       huit. Diviser cette vitesse réduit donc le bruit de façon spectaculaire.
+  - question: "Que mesure le taux de dilution d'un réacteur ?"
+    options:
+      - "Le rapport entre la vitesse du jet et celle de l'avion"
+      - "La proportion de carburant mélangée à l'air dans la chambre de combustion"
+      - "Le rapport entre l'air qui contourne le cœur du moteur et celui qui le traverse"
+    answer: 3
+    explanation: "Le taux de dilution compare le flux secondaire, qui contourne le cœur, au flux primaire qui le traverse. Il dépasse aujourd'hui 10."
+  - question: "Pourquoi ne peut-on pas agrandir les soufflantes indéfiniment ?"
+    options:
+      - "Parce qu'une nacelle plus grande est plus lourde et freine davantage, et que le moteur doit passer sous l'aile"
+      - "Parce que le bruit augmente avec le diamètre de la soufflante"
+      - "Parce que le flux secondaire finit par disparaître"
+    answer: 1
+    explanation: "Une grande soufflante exige une nacelle plus volumineuse, donc plus lourde et plus freinante, et le moteur doit encore tenir sous l'aile sans toucher le sol."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -961,6 +1073,20 @@ quiz:
     explanation: >
       Au-delà, le bout des pales approche la vitesse du son et l'onde de choc fait chuter le
       rendement de l'hélice. Le réacteur reprend alors l'avantage.
+  - question: "Pourquoi un turbopropulseur consomme-t-il moins qu'un jet régional jusqu'à Mach 0,6 ?"
+    options:
+      - "Parce que son hélice tourne plus vite que la turbine"
+      - "Parce que l'hélice brasse un très grand volume d'air en ne l'accélérant qu'un peu"
+      - "Parce qu'il fonctionne sans turbine à gaz"
+    answer: 2
+    explanation: "Brasser beaucoup d'air en l'accélérant peu donne un bon rendement, comme pour les réacteurs à grande soufflante, mais l'hélice va encore plus loin dans cette voie."
+  - question: "Pourquoi les avions à hélices desservent-ils souvent des pistes courtes ou sommaires ?"
+    options:
+      - "Parce qu'ils volent à des vitesses proches de celles des jets"
+      - "Parce que leur réducteur freine l'avion à l'atterrissage"
+      - "Parce que l'hélice tire fort à basse vitesse et que son pas peut être inversé pour freiner"
+    answer: 3
+    explanation: "L'hélice aide au décollage court et, avec l'inversion de pas, freine efficacement à l'atterrissage."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1061,6 +1187,20 @@ quiz:
     explanation: >
       Les hélices soufflent de l'air sur l'aile, ce qui augmente la portance à basse vitesse.
       L'aile peut alors être plus petite, donc plus légère et moins freinante.
+  - question: "Pourquoi l'écart d'énergie entre kérosène et batterie n'est-il pas compensé par le moteur électrique ?"
+    options:
+      - "Parce que le meilleur rendement du moteur ne rattrape qu'une partie d'un écart d'environ cinquante fois"
+      - "Parce que le moteur électrique perd la moitié de son énergie en chaleur"
+      - "Parce que le kérosène brûle plus lentement qu'une batterie ne se décharge"
+    answer: 1
+    explanation: "Le kérosène stocke près de cinquante fois plus d'énergie par kilogramme. Le rendement supérieur du moteur électrique ne comble qu'une partie de cet écart."
+  - question: "Pourquoi les hybrides font-ils tourner une petite turbine à régime constant ?"
+    options:
+      - "Pour supprimer tout besoin de batterie"
+      - "Pour qu'elle tourne à son meilleur rendement tout en alimentant les moteurs ou en rechargeant la batterie"
+      - "Pour qu'elle serve uniquement au décollage"
+    answer: 2
+    explanation: "À régime constant, la turbine fonctionne à son meilleur rendement et fournit l'électricité aux moteurs ou recharge la batterie."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1169,6 +1309,20 @@ quiz:
     explanation: >
       C'est la vitesse par rapport à l'air qui compte pour voler. Avec un vent arrière de
       100 km/h, l'avion avance plus vite au-dessus du sol, mais son aile ne le sait pas.
+  - question: "Pourquoi le pilote doit-il régler son altimètre ?"
+    options:
+      - "Parce que le gyroscope dérive lentement avec le temps"
+      - "Parce que l'altimètre compare deux pressions, comme le badin"
+      - "Parce que la pression varie aussi avec la météo, ce qui peut fausser l'altitude de plusieurs centaines de mètres"
+    answer: 3
+    explanation: "L'altimètre est un baromètre. Comme la pression change aussi avec la météo, sans réglage il peut se tromper de plusieurs centaines de mètres."
+  - question: "Pourquoi un gyroscope est-il utile pour l'horizon artificiel ?"
+    options:
+      - "Parce qu'il garde son axe fixe dans l'espace, quoi que fasse l'avion"
+      - "Parce qu'il mesure la pression de l'air autour de l'avion"
+      - "Parce qu'il reste toujours orienté vers le nord"
+    answer: 1
+    explanation: "Un gyroscope conserve son axe fixe : il fournit une référence stable pour afficher une ligne qui reste horizontale."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1283,6 +1437,20 @@ quiz:
     explanation: >
       Trois satellites donneraient la position si l'horloge du récepteur était parfaite. Comme
       elle ne l'est pas, un quatrième satellite sert à corriger cette erreur d'horloge.
+  - question: "Pourquoi la navigation par satellites est-elle facile à tromper ?"
+    options:
+      - "Parce que les satellites sont trop peu nombreux"
+      - "Parce que le signal reçu est extraordinairement faible, donc facile à brouiller ou à imiter"
+      - "Parce que le récepteur additionne des erreurs au fil du temps"
+    answer: 2
+    explanation: "Le signal qui arrive est comparable à une ampoule vue depuis un autre continent : on peut le brouiller, voire l'imiter. L'accumulation d'erreurs est le défaut de la centrale inertielle."
+  - question: "Que se passe-t-il si le signal des satellites disparaît en vol ?"
+    options:
+      - "La navigation s'arrête jusqu'au retour du signal"
+      - "La position devient brutalement fausse de plusieurs milles"
+      - "La navigation continue en inertiel pur, avec une précision qui se dégrade lentement"
+    answer: 3
+    explanation: "La centrale inertielle prend le relais seule : la précision se dégrade lentement, mais l'avion n'est jamais perdu."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1397,6 +1565,20 @@ quiz:
     explanation: >
       Cette séparation de 1 000 pieds a remplacé les 2 000 pieds d'autrefois, une fois les
       altimètres devenus assez précis. Cela a doublé le nombre de niveaux disponibles.
+  - question: "Pourquoi la séparation verticale a-t-elle pu être réduite de moitié ?"
+    options:
+      - "Parce que les altimètres sont devenus assez précis, ce qui a doublé le nombre de niveaux disponibles"
+      - "Parce que les avions volent plus lentement qu'avant"
+      - "Parce que le radar détecte désormais les tourbillons de bout d'aile"
+    answer: 1
+    explanation: "La séparation était autrefois le double. Quand les altimètres sont devenus assez précis, on l'a réduite, ce qui a doublé le nombre de niveaux de vol."
+  - question: "Quel avantage le radar secondaire a-t-il sur le radar primaire ?"
+    options:
+      - "Il envoie une onde plus puissante"
+      - "Il interroge le transpondeur de l'avion, qui répond avec son identité et son altitude"
+      - "Il fonctionne sans aucun équipement au sol"
+    answer: 2
+    explanation: "Le radar primaire écoute seulement l'écho. Le radar secondaire interroge le transpondeur, qui annonce identité et altitude."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1642,6 +1824,20 @@ quiz:
     explanation: >
       La forme bombée aide, mais l'essentiel vient de l'inclinaison de l'aile face au vent. En
       vol dos, le pilote incline l'avion pour que l'aile continue de dévier l'air vers le bas.
+  - question: "Pourquoi un avion doit-il décoller plus vite dans un aéroport de montagne ?"
+    options:
+      - "Parce que la piste y est plus courte"
+      - "Parce que les moteurs y sont moins puissants"
+      - "Parce que l'air y est moins dense, donc l'aile porte moins à vitesse égale"
+    answer: 3
+    explanation: "La portance dépend de la densité de l'air, qui diminue avec l'altitude. Il faut compenser par plus de vitesse."
+  - question: "Pourquoi sort-on les volets à l'atterrissage ?"
+    options:
+      - "Pour augmenter la courbure et la surface de l'aile, afin qu'elle porte assez à basse vitesse"
+      - "Pour freiner l'avion en augmentant la poussée des moteurs"
+      - "Pour réduire l'incidence et éviter le décrochage"
+    answer: 1
+    explanation: "À l'approche, la vitesse est faible. Les volets augmentent courbure et surface, donc la portance, ce qui permet de se poser sur une piste de longueur raisonnable."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1744,6 +1940,20 @@ quiz:
     explanation: >
       Des roues et des jambes exposées au vent produisent une résistance considérable. Les
       rentrer a été l'un des plus gros progrès de l'aviation dans les années 1930.
+  - question: "Pourquoi les rivets sont-ils noyés dans la tôle plutôt que saillants ?"
+    options:
+      - "Pour alléger la structure de l'avion"
+      - "Parce que l'état de la surface influence le frottement de l'air"
+      - "Pour réduire la traînée induite en croisière"
+    answer: 2
+    explanation: "Le frottement dépend de la surface exposée et de son état : lisse, bien peinte, sans rivets saillants."
+  - question: "En quoi la traînée induite diffère-t-elle du frottement ?"
+    options:
+      - "Elle est la plus forte en croisière, alors que le frottement domine à basse vitesse"
+      - "Elle disparaît quand on rentre le train d'atterrissage"
+      - "Elle est forte à basse vitesse et faible en croisière, exactement l'inverse du frottement"
+    answer: 3
+    explanation: "La traînée induite, liée aux tourbillons de bout d'aile, est forte à basse vitesse et faible en croisière, alors que le frottement domine en croisière."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1850,6 +2060,20 @@ quiz:
     explanation: >
       Ces deux phases représentent une toute petite partie du temps de vol mais concentrent
       l'essentiel des accidents : l'avion y est bas, lent et proche du sol.
+  - question: "Quel élément du progrès de la sécurité relève du retour d'expérience ?"
+    options:
+      - "L'analyse de chaque accident par des enquêteurs indépendants, dont les recommandations changent les règles pour tous"
+      - "L'ajout de systèmes en double ou en triple"
+      - "Les règles de repos des équipages"
+    answer: 1
+    explanation: "Le retour d'expérience désigne l'analyse indépendante de chaque accident. La technique et les procédures sont les deux autres piliers."
+  - question: "Pourquoi les équipages s'imposent-ils un silence de rigueur au décollage et à l'atterrissage ?"
+    options:
+      - "Parce que le bruit des moteurs rend toute conversation impossible"
+      - "Parce que l'avion y est lent, bas, lourd et proche du sol, avec peu de marge pour corriger une erreur"
+      - "Parce que le contrôle aérien le leur demande"
+    answer: 2
+    explanation: "Ces quelques minutes concentrent la majorité des accidents : les procédures y sont les plus strictes, sans conversation inutile."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -1955,6 +2179,20 @@ quiz:
       Les gaz chauds font tourner une turbine placée derrière la chambre de combustion. Cette
       turbine est reliée par un arbre au compresseur et à la soufflante : le moteur s'entretient
       lui-même une fois lancé.
+  - question: "Pourquoi le flux secondaire réduit-il le bruit d'un réacteur ?"
+    options:
+      - "Parce qu'il éloigne le jet des passagers"
+      - "Parce qu'il supprime la combustion dans le moteur"
+      - "Parce qu'il enveloppe le jet chaud"
+    answer: 3
+    explanation: "Le flux froid enveloppe le jet chaud, ce qui réduit beaucoup le bruit."
+  - question: "Sur un avion de ligne, qu'est-ce qui produit l'essentiel de la poussée ?"
+    options:
+      - "Le flux secondaire, qui contourne le cœur du moteur"
+      - "Les gaz brûlés sortant de la tuyère"
+      - "La turbine, qui pousse directement l'avion"
+    answer: 1
+    explanation: "Le flux secondaire, juste accéléré par la soufflante, produit l'essentiel de la poussée."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2055,6 +2293,20 @@ quiz:
     explanation: >
       Le plomb évite l'auto-allumage, très dangereux dans un moteur d'avion. Des carburants
       sans plomb sont en cours de certification pour le remplacer.
+  - question: "Dans le cycle à quatre temps d'un moteur de petit avion, quel temps fournit l'énergie ?"
+    options:
+      - "La compression, quand le piston remonte et comprime le mélange"
+      - "La combustion, quand l'étincelle repousse violemment le piston vers le bas"
+      - "L'admission, quand le piston aspire le mélange d'air et d'essence"
+    answer: 2
+    explanation: "La combustion est le seul temps qui produit de l'énergie, en repoussant le piston vers le bas."
+  - question: "Comment les moteurs à plat des avions légers sont-ils refroidis ?"
+    options:
+      - "Par un liquide qui circule dans un radiateur"
+      - "Par l'huile qui circule autour des cylindres"
+      - "Directement par l'air que fait circuler l'avancée de l'avion"
+    answer: 3
+    explanation: "Ces moteurs, dont les cylindres sont opposés deux à deux, sont refroidis directement par l'air."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -2163,6 +2415,20 @@ quiz:
     explanation: >
       Le moteur électrique est excellent. C'est la batterie qui pose problème : il en faudrait
       un poids impossible à faire décoller pour traverser un océan.
+  - question: "Pourquoi les carburants durables ne sont-ils pas utilisés à grande échelle malgré leur atout ?"
+    options:
+      - "Parce qu'ils coûtent plus cher et que les matières premières durables manquent"
+      - "Parce qu'ils ne sont pas encore certifiés pour voler"
+      - "Parce qu'ils exigent de redessiner les avions actuels"
+    answer: 1
+    explanation: "Ils sont certifiés et compatibles avec les avions actuels, mais leur coût et la disponibilité limitée des matières premières freinent leur production."
+  - question: "Pourquoi la filière des huiles usagées ne peut-elle pas suffire ?"
+    options:
+      - "Parce que c'est la voie la moins mature"
+      - "Parce que c'est la plus mature, mais que la ressource est limitée"
+      - "Parce qu'elle consomme énormément d'électricité"
+    answer: 2
+    explanation: "Les huiles usagées et graisses forment la voie la plus mature, mais la ressource est limitée. La forte consommation d'électricité concerne la filière hydrogène et CO2."
 lastVerified: 2026-09-22
 status: published
 ---
@@ -3408,6 +3674,12 @@ sources:
   - title: "Wind tunnel"
     url: "https://en.wikipedia.org/wiki/Wind_tunnel"
     publisher: "Wikipedia"
+  - title: "Souffleries : de la naissance aux premières évolutions des souffleries"
+    url: "https://www.universalis.fr/encyclopedie/souffleries/"
+    publisher: "Encyclopaedia Universalis"
+  - title: "Souffleries aéronautiques (TRP4015)"
+    url: "https://www.techniques-ingenieur.fr/base-documentaire/ingenierie-des-transports-th14/physique-du-vol-et-avionique-42577210/souffleries-aeronautiques-trp4015/"
+    publisher: "Techniques de l'Ingénieur"
 quiz:
   - question: "Dans une soufflerie, qu'est-ce qui bouge ?"
     options:
@@ -4138,6 +4410,9 @@ sources:
   - title: "Leading-edge slat"
     url: "https://en.wikipedia.org/wiki/Leading-edge_slat"
     publisher: "Wikipedia"
+  - title: "Dispositifs hypersustentateurs"
+    url: "https://sites.ac-nancy-metz.fr/ciras/cahierdubia/volets/dispositifs_hypersustentateurs.html"
+    publisher: "Académie de Nancy-Metz (cahier du BIA)"
 quiz:
   - question: "À quoi servent les volets et les becs d'une aile ?"
     options:
@@ -4475,6 +4750,9 @@ sources:
   - title: "Vol US Airways 1549"
     url: "https://fr.wikipedia.org/wiki/Vol_US_Airways_1549"
     publisher: "Wikipédia"
+  - title: "Mécanique du vol : performances"
+    url: "https://www.universalis.fr/encyclopedie/mecanique-du-vol/2-performances/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Que veut dire une finesse de 20 ?"
     options:
@@ -5376,6 +5654,12 @@ sources:
   - title: "Air Florida Flight 90"
     url: "https://en.wikipedia.org/wiki/Air_Florida_Flight_90"
     publisher: "Wikipedia"
+  - title: "Givrage en vol"
+    url: "https://tc.canada.ca/fr/aviation/publications/securite-aerienne-nouvelles/numero-3-2024/givrage-vol"
+    publisher: "Transports Canada"
+  - title: "ITA spécial givrage"
+    url: "https://www.ecologie.gouv.fr/sites/default/files/1_ita_special_givrage.pdf"
+    publisher: "ecologie.gouv.fr (ministère de la Transition écologique)"
 quiz:
   - question: "Qu'est-ce qu'une goutte d'eau surfondue ?"
     options:
@@ -7588,6 +7872,9 @@ sources:
   - title: "Collision aérienne d'Überlingen"
     url: "https://fr.wikipedia.org/wiki/Collision_a%C3%A9rienne_d%27%C3%9Cberlingen"
     publisher: "Wikipédia"
+  - title: "Système d'avertissement de trafic et d'évitement d'abordage (fiche terminologique)"
+    url: "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26522970/systeme-davertissement-de-trafic-et-devitement-dabordage"
+    publisher: "Office québécois de la langue française"
 quiz:
   - question: "Comment le TCAS connaît-il la position des autres avions ?"
     options:
@@ -9619,6 +9906,9 @@ sources:
   - title: "Dead reckoning"
     url: "https://en.wikipedia.org/wiki/Dead_reckoning"
     publisher: "Wikipedia"
+  - title: "Fiche : la navigation à l'estime"
+    url: "https://ffplum.fr/images/pdf/fiches/Estime.pdf"
+    publisher: "FFPLUM"
 quiz:
   - question: "Quelle formule est à la base de la navigation à l'estime ?"
     options:
@@ -12684,6 +12974,9 @@ sources:
   - title: "Magnéto d'allumage"
     url: "https://fr.wikipedia.org/wiki/Magn%C3%A9to_d%27allumage"
     publisher: "Wikipédia"
+  - title: "Moteurs aviation à pistons"
+    url: "https://sites.ac-nancy-metz.fr/ciras/cahierdubia/moteur_pistons/moteur_pistons.html"
+    publisher: "Académie de Nancy-Metz (cahier du BIA)"
 quiz:
   - question: "De quoi une magnéto a-t-elle besoin pour produire du courant ?"
     options:
@@ -13668,6 +13961,9 @@ sources:
   - title: "Turbopropulseur"
     url: "https://fr.wikipedia.org/wiki/Turbopropulseur"
     publisher: "Wikipédia"
+  - title: "Canadair CL-415"
+    url: "https://feuxdeforet.fr/moyens-de-lutte/avions/canadair-cl-415/"
+    publisher: "feuxdeforet.fr"
 quiz:
   - question: "Combien d'eau un Canadair CL-415 peut-il écoper ?"
     options:
@@ -13909,8 +14205,9 @@ title: Pourquoi un avion vole, portance et écoulement de l'air
 slug: pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air
 categoryPath: aeronautique/aerodynamique/portance
 summary: >
-  La portance naît d'une différence de pression autour de l'aile et de l'air envoyé vers le bas.
-  L'explication du temps de parcours égal est fausse.
+  La portance naît d'une différence de pression autour de l'aile et d'un air dévié vers le bas.
+  L'explication du temps de parcours égal est fausse : l'aile vole parce qu'elle courbe
+  l'écoulement, pas parce que deux filets d'air se retrouveraient.
 tags: [portance]
 sources:
   - title: "Portance (aérodynamique)"
@@ -13922,6 +14219,9 @@ sources:
   - title: "Airfoil"
     url: "https://en.wikipedia.org/wiki/Airfoil"
     publisher: "Wikipedia"
+  - title: "Incorrect Lift Theory 1 : Equal Transit Time"
+    url: "https://www.grc.nasa.gov/WWW/k-12/VirtualAero/BottleRocket/airplane/wrong1.html"
+    publisher: "NASA Glenn Research Center"
 quiz:
   - question: "Dans quelle direction la portance s'exerce-t-elle par rapport au mouvement de l'aile ?"
     options:
@@ -13959,7 +14259,7 @@ quiz:
     explanation: >
       La portance dépend surtout de l'angle d'incidence de l'aile ; quand il devient trop grand,
       l'écoulement se détache et la portance chute : c'est le décrochage.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -13973,11 +14273,17 @@ La portance est la composante de la force aérodynamique exercée sur un corps e
 
 ## Une différence de pression
 
-La pression moyenne est plus faible sur le dessus de l'aile que sur le dessous : la portance se manifeste par cette différence de pression.
+La pression moyenne est plus faible sur le dessus de l'aile que sur le dessous : la portance se manifeste par cette différence de pression. L'air qui longe le dessus circule plus vite, et plus il va vite, plus sa pression baisse. Pour calculer la portance, il faut donc connaître la vitesse de l'air tout autour du profil, en déduire la pression, puis additionner la poussée exercée sur toute la surface de l'aile.
 
 ## Un mythe à oublier
 
-L'explication par un temps de parcours égal est incorrecte : l'air du dessus et l'air du dessous ne se retrouvent pas en même temps au bord de fuite.
+L'explication par un temps de parcours égal est incorrecte : l'air du dessus et l'air du dessous ne se retrouvent pas en même temps au bord de fuite. Elle affirme que le dessus de l'aile est plus long, que l'air doit donc y aller plus vite pour rejoindre celui du dessous.
+
+Plusieurs faits la contredisent. Un avion en papier, dont les deux faces ont la même longueur, plane très bien. Un avion d'acrobatie vole sur le dos. Certains profils modernes ont même un dessous plus long que le dessus et portent quand même. Enfin, l'air du dessus arrive en réalité au bord de fuite avant celui du dessous, et il va bien plus vite que la théorie ne le prévoit.
+
+## Dévier l'écoulement
+
+Ce qui compte, c'est de faire tourner l'écoulement. L'aile courbe le trajet de l'air et le rabat vers le bas, ce qui crée à la fois la différence de pression et la réaction vers le haut. Les ailes très cambrées sont efficaces parce qu'elles dévient fortement le flux. Pression et air poussé vers le bas ne sont donc pas deux théories rivales : ce sont deux façons de décrire le même phénomène.
 
 ## Forme et angle de l'aile
 
@@ -14001,7 +14307,6 @@ elements:
 - La pression est plus faible au-dessus de l'aile qu'au-dessous.
 - Si l'angle d'incidence devient trop grand, l'écoulement se détache et la portance chute : c'est le décrochage.
 - L'explication du « temps de parcours égal » est fausse.
-
 ---
 type: article
 title: Le turboréacteur à double flux, principe de fonctionnement
@@ -14021,6 +14326,9 @@ sources:
   - title: "Soufflante"
     url: "https://fr.wikipedia.org/wiki/Soufflante"
     publisher: "Wikipédia"
+  - title: "Propulsion aéronautique : les qualités du propulseur"
+    url: "https://www.universalis.fr/encyclopedie/propulsion-aeronautique/4-les-qualites-du-propulseur/"
+    publisher: "Encyclopaedia Universalis"
 quiz:
   - question: "Que fait la soufflante ?"
     options:
@@ -14123,6 +14431,12 @@ sources:
   - title: "Separation (aeronautics)"
     url: "https://en.wikipedia.org/wiki/Separation_(aeronautics)"
     publisher: "Wikipedia"
+  - title: "ASR24 : minimums de séparation"
+    url: "https://www.bazl.admin.ch/fr/asr24-minimums-de-separation"
+    publisher: "OFAC (Office fédéral de l'aviation civile, Suisse)"
+  - title: "Pertes de séparation en approche triple"
+    url: "https://bea.aero/fileadmin/uploads/tx_scalaetudessecurite/pertes.de.separation.en.approche.triple_01.pdf"
+    publisher: "BEA"
 quiz:
   - question: "Que consiste la séparation ?"
     options:
@@ -14210,8 +14524,9 @@ title: Comment les pales d'un hélicoptère créent la portance
 slug: comment-les-pales-d-un-helicoptere-creent-la-portance
 categoryPath: aeronautique/aerodynamique/portance
 summary: >
-  Les pales du rotor d'un hélicoptère créent la portance. Les pas collectif et cyclique, le
-  plateau cyclique et le rotor anticouple permettent de le piloter.
+  Les pales d'un rotor sont des ailes qui tournent. Elles ne reçoivent pas la même vitesse d'air
+  des deux côtés de l'appareil : les pas collectif et cyclique, le plateau cyclique et le rotor
+  anticouple servent à équilibrer et à piloter ce système.
 tags: [portance]
 sources:
   - title: "Pas collectif"
@@ -14223,6 +14538,9 @@ sources:
   - title: "Helicopter rotor"
     url: "https://en.wikipedia.org/wiki/Helicopter_rotor"
     publisher: "Wikipedia"
+  - title: "Helicopter Flying Handbook"
+    url: "https://www.faa.gov/sites/faa.gov/files/helicopter_flying_handbook.pdf"
+    publisher: "Federal Aviation Administration"
 quiz:
   - question: "Que change le pas collectif ?"
     options:
@@ -14260,7 +14578,7 @@ quiz:
     explanation: >
       Le plateau cyclique transmet aux pales en rotation les ordres du pilote, donnés par des
       leviers qui, eux, sont immobiles.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14272,9 +14590,19 @@ Les pales du rotor d'un hélicoptère créent la portance. Les pas collectif et 
 
 Un hélicoptère est un aéronef dont la sustentation et la propulsion sont assurées par une voilure tournante, le rotor. En tournant, les pales du rotor créent la force de portance qui soutient le poids de l'hélicoptère. Le rotor anticouple empêche l'hélicoptère de tourner sur lui-même quand le rotor principal tourne.
 
+## Chaque pale est une aile
+
+Une pale de rotor fonctionne comme une aile d'avion : l'air qui la frôle produit de la portance. La différence, c'est que la vitesse de l'air vient surtout de la rotation. Plus on s'éloigne du moyeu, plus un point de la pale va vite, donc plus la pale porte vers le bout.
+
 ## Monter, descendre, avancer
 
 Le pas collectif change en même temps l'angle de toutes les pales du rotor principal, ce qui modifie la portance pour monter ou descendre. Le pas cyclique fait varier l'angle des pales au fil de la rotation, pour incliner la poussée du rotor et diriger l'hélicoptère. Le plateau cyclique transmet aux pales en rotation les ordres du pilote, donnés par des leviers qui, eux, sont immobiles.
+
+## Un rotor déséquilibré en avançant
+
+Quand l'hélicoptère avance, la pale qui progresse dans le sens du vol reçoit un air plus rapide que celle qui recule. Sans correction, la première porterait davantage que la seconde et l'appareil se coucherait sur le côté : c'est la dissymétrie de portance. Les pales sont articulées pour pouvoir battre légèrement, et leur angle varie au cours du tour, ce qui rééquilibre l'ensemble.
+
+À grande vitesse, la pale qui recule se retrouve avec peu d'air relatif et doit prendre un angle élevé. Elle peut alors décrocher, comme une aile d'avion : c'est une des raisons qui limitent la vitesse maximale des hélicoptères classiques.
 
 ## Stationnaire et en cas de panne
 
@@ -14299,7 +14627,6 @@ parties:
 - Le pas collectif change l'angle de toutes les pales à la fois : l'hélicoptère monte ou descend.
 - Le pas cyclique fait varier l'angle des pales pendant la rotation, pour diriger l'hélicoptère.
 - Le rotor anticouple empêche l'hélicoptère de tourner sur lui-même quand le rotor principal tourne.
-
 ---
 type: article
 title: Les turbulences, pourquoi l'avion est secoué
@@ -14501,7 +14828,8 @@ slug: la-boite-noire-deux-enregistreurs-pour-comprendre-un-accident
 categoryPath: aeronautique/aviation-civile/securite
 summary: >
   Orange et non noires, les boîtes noires enregistrent les sons du poste de pilotage et les
-  paramètres de vol, et résistent aux chocs.
+  paramètres de vol. Un cahier des charges européen précise comment elles doivent survivre aux
+  chocs, au feu et à l'eau pour livrer leurs données aux enquêteurs.
 tags: [securite]
 sources:
   - title: "Enregistreurs de vol - introduction"
@@ -14513,6 +14841,10 @@ sources:
   - title: "Flight recorder"
     url: "https://en.wikipedia.org/wiki/Flight_recorder"
     publisher: "Wikipedia"
+  - title: "ED-112A, MOPS for Crash Protected Airborne Recorder Systems"
+    url: "https://www.eurocae.net/product/ed-112a-mops-for-crash-protected-airborne-recorder-systems/"
+    publisher: "EUROCAE"
+    date: "2013"
 quiz:
   - question: "De quelle couleur sont les boîtes noires ?"
     options:
@@ -14548,7 +14880,7 @@ quiz:
     answer: 1
     explanation: >
       Les enregistreurs sont conçus pour résister à des chocs de l'ordre de 3 400 g.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14563,6 +14895,16 @@ Les enregistreurs de vol, appelés « boîtes noires », sont des équipements o
 ## Solides et durables
 
 Les enregistreurs sont conçus pour résister à des chocs de l'ordre de 3 400 g. L'enregistreur de paramètres FDR garde plus de 25 heures de données de vol. Les enregistreurs modernes utilisent des mémoires à semi-conducteurs, qui remplacent peu à peu les bandes magnétiques.
+
+## Une norme pour survivre à l'accident
+
+Le plus important n'est pas la caisse orange, mais la mémoire qu'elle protège. Le matériel doit passer une série d'épreuves qui imitent un accident : choc violent, écrasement, perforation, incendie, puis immersion prolongée. Ces exigences sont fixées par un document technique européen, rédigé par l'organisme EUROCAE.
+
+Son dernier état, appelé ED-112A, date d'août 2013. Il prolonge deux versions plus anciennes : ED-55, publiée en 1990 pour les enregistreurs de paramètres, et ED-112, publiée en 2003.
+
+## Plus que des sons et des paramètres
+
+La norme ne se limite plus aux deux enregistreurs classiques. Elle couvre les appareils qui conservent, sur un support résistant aux accidents, les données de vol, les sons du poste de pilotage, des images et les messages échangés par liaison de données. Son but unique est d'aider les enquêtes sur les accidents et les incidents.
 
 ## Retrouver l'épave
 
@@ -14593,7 +14935,6 @@ colonnes:
 - Malgré leur nom, les boîtes noires sont orange, avec des bandes blanches réfléchissantes, pour être repérées dans les débris.
 - Les enregistreurs sont conçus pour résister à des chocs de l'ordre de 3 400 g.
 - La balise acoustique sous-marine émet pendant 90 jours.
-
 ---
 type: article
 title: Le planeur, voler sans moteur
@@ -14613,6 +14954,9 @@ sources:
   - title: "Planeur"
     url: "https://fr.wikipedia.org/wiki/Planeur"
     publisher: "Wikipédia"
+  - title: "Rapport M1 (projet Skyscanner : vol de planeur et ascendances)"
+    url: "https://sites.laas.fr/projects/skyscanner/sites/www.laas.fr.projects.skyscanner/files/u45/Erdelyi_Rapport_M1.pdf"
+    publisher: "LAAS-CNRS"
 quiz:
   - question: "Comment un planeur reste-t-il en l'air sans moteur ?"
     options:
@@ -14701,8 +15045,9 @@ title: Comment un pilote sait-il où est le haut dans les nuages ?
 slug: comment-un-pilote-sait-il-ou-est-le-haut-dans-les-nuages
 categoryPath: aeronautique/navigation-aerienne/instruments-de-vol
 summary: >
-  L'horizon artificiel utilise un gyroscope pour montrer l'assiette et l'inclinaison de l'avion.
-  Il se place au centre des quatre instruments de base, disposés en T.
+  Dans les nuages, l'oreille interne se trompe et peut faire croire à un pilote qu'il vole droit
+  alors qu'il s'incline. L'horizon artificiel, gyroscope au centre des quatre instruments de base
+  en T, lui donne la seule vérité fiable.
 tags: [instruments-de-vol]
 sources:
   - title: "Horizon artificiel"
@@ -14714,6 +15059,9 @@ sources:
   - title: "Instrument de bord"
     url: "https://fr.wikipedia.org/wiki/Instrument_de_bord"
     publisher: "Wikipédia"
+  - title: "Spatial Disorientation"
+    url: "https://www.faa.gov/pilots/training/airman_education/topics_of_interest/spatial_disorientation"
+    publisher: "Federal Aviation Administration"
 quiz:
   - question: "Que mesure l'horizon artificiel ?"
     options:
@@ -14751,7 +15099,7 @@ quiz:
     explanation: >
       Les instruments de base sont disposés en T : l'horizon artificiel au centre, l'anémomètre
       à gauche, l'altimètre à droite et le gyro directionnel dessous.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14763,9 +15111,15 @@ L'horizon artificiel utilise un gyroscope pour montrer l'assiette et l'inclinais
 
 L'horizon artificiel mesure l'assiette et l'inclinaison d'un aéronef par rapport à l'horizon. Il repose sur un gyroscope qui reste aligné sur la verticale, même quand l'avion bouge. Sur l'instrument, la moitié haute est bleue comme le ciel et la moitié basse est marron comme le sol.
 
+## Quand l'oreille interne se trompe
+
+Notre sens de l'équilibre repose sur des canaux remplis de liquide, dans l'oreille interne. Ils détectent les rotations, mais seulement au-dessus d'un seuil d'environ 2 degrés par seconde : un virage très lent passe inaperçu. Et si la rotation dure de 10 à 20 secondes à vitesse constante, le signal envoyé au cerveau peut devenir faux.
+
+Résultat, le pilote peut tourner sans le savoir. Quand il redresse enfin, il ressent parfois une inclinaison dans le sens opposé, alors que l'avion est à plat. Les pilotes appellent cette illusion « the leans ». La vue fournit pourtant jusqu'à 90 % de nos repères d'orientation : sans visibilité, le corps perd son principal guide.
+
 ## Pourquoi il est si important
 
-C'est un instrument essentiel pour voler aux instruments, quand aucune référence visuelle extérieure n'est disponible. Il évite au pilote de se fier aux sensations trompeuses de son oreille interne quand il vole sans repères visuels. Une panne ou une mauvaise lecture de l'horizon artificiel a causé des accidents mortels.
+C'est un instrument essentiel pour voler aux instruments, quand aucune référence visuelle extérieure n'est disponible. Il évite au pilote de se fier aux sensations trompeuses de son oreille interne quand il vole sans repères visuels. La consigne de l'administration américaine de l'aviation est claire : pour toute action sur les commandes, se fier aux instruments, et attendre que les fausses sensations s'estompent. Une panne ou une mauvaise lecture de l'horizon artificiel a causé des accidents mortels.
 
 ## Les instruments de base
 
@@ -14790,15 +15144,15 @@ elements:
 - Sur l'instrument, la moitié haute est bleue comme le ciel et la moitié basse est marron comme le sol.
 - C'est un instrument essentiel pour voler aux instruments, quand aucune référence visuelle extérieure n'est disponible.
 - Les instruments de base forment un T : l'horizon artificiel au centre, l'anémomètre à gauche, l'altimètre à droite.
-
 ---
 type: article
 title: Les winglets, petits ailerons contre la traînée
 slug: les-winglets-petits-ailerons-contre-la-trainee
 categoryPath: aeronautique/aerodynamique/trainee
 summary: >
-  Les winglets, petits ailerons en bout d'aile, réduisent les tourbillons marginaux et la
-  traînée induite, ce qui diminue la consommation de carburant.
+  Les winglets, petits ailerons en bout d'aile, affaiblissent les tourbillons marginaux et la
+  traînée induite. Imaginés à la NASA après le choc pétrolier de 1973, ils économisent
+  aujourd'hui quelques pour cent de carburant sur les avions de ligne.
 tags: [trainee]
 sources:
   - title: "Winglet"
@@ -14810,6 +15164,10 @@ sources:
   - title: "Tourbillon marginal"
     url: "https://fr.wikipedia.org/wiki/Tourbillon_marginal"
     publisher: "Wikipédia"
+  - title: "Winglets (NASA Spinoff)"
+    url: "https://spinoff.nasa.gov/node/10666"
+    publisher: "NASA Spinoff"
+    date: "2010"
 quiz:
   - question: "Où se forme un tourbillon marginal ?"
     options:
@@ -14846,7 +15204,7 @@ quiz:
     explanation: >
       Richard Whitcomb, du centre de recherche Langley de la NASA, a développé le concept de
       winglet.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14862,9 +15220,15 @@ Un tourbillon marginal se forme en bout d'aile parce que l'air passe de la zone 
 
 Les winglets réduisent la traînée induite en récupérant une partie de l'énergie des tourbillons marginaux, sans augmenter l'envergure de l'aile. Richard Whitcomb, du centre de recherche Langley de la NASA, a développé le concept de winglet. Airbus a créé ses propres winglets, appelés sharklets.
 
+## Des essais de la NASA aux avions de ligne
+
+Le projet naît du choc pétrolier de 1973, qui pousse la NASA à chercher des économies de carburant. En 1976, Whitcomb publie ses résultats et prévoit environ 20 % de traînée induite en moins, avec un gain de 6 à 9 % sur le rapport portance sur traînée.
+
+Les essais en vol, menés en 1979 et 1980 sur un KC-135 équipé de winglets de 9 pieds, confirment ces prévisions : 20 % de traînée induite en moins et 7 % de gain de finesse, sans effet néfaste sur le pilotage. Le Boeing 747-400 les adopte en 1989, le MD-11 en 1990.
+
 ## Ce que l'on y gagne
 
-Les winglets réduisent de quelques pour cent la consommation de carburant d'un avion de ligne. Les winglets atténuent aussi le tourbillon de sillage laissé derrière l'avion. Certains oiseaux, comme les cigognes et les rapaces, recourbent les plumes du bout de leurs ailes pour augmenter la portance et réduire la turbulence.
+Les winglets réduisent de quelques pour cent la consommation de carburant d'un avion de ligne. Les modèles « fondus » dans l'aile, dits blended, économisent environ 4 à 6 %. Pour un Boeing 737-700 type, cela représente environ 100 000 gallons américains de kérosène par an. Les winglets atténuent aussi le tourbillon de sillage laissé derrière l'avion. Certains oiseaux, comme les cigognes et les rapaces, recourbent les plumes du bout de leurs ailes pour augmenter la portance et réduire la turbulence.
 
 ```schema
 type: etapes
@@ -14885,15 +15249,15 @@ elements:
 - Les winglets récupèrent une partie de l'énergie des tourbillons et réduisent la traînée, sans allonger l'aile.
 - Richard Whitcomb, du centre de recherche Langley de la NASA, a développé le concept de winglet.
 - Les winglets réduisent de quelques pour cent la consommation de carburant d'un avion de ligne.
-
 ---
 type: article
 title: Que rejette un avion à hydrogène, et où loge-t-on le carburant ?
 slug: que-rejette-un-avion-a-hydrogene-et-ou-loge-t-on-le-carburant
 categoryPath: aeronautique/propulsion/propulsion-electrique-aeronautique
 summary: >
-  Dans un avion à hydrogène, l'hydrogène alimente une pile à combustible ou des réacteurs. Son
-  stockage, à −253 °C pour le liquide, et son volume sont les grands défis.
+  Un avion à hydrogène ne rejette que de la vapeur d'eau avec une pile à combustible. Le vrai
+  casse-tête est le réservoir : léger en énergie par kilo, mais volumineux, et à garder à environ
+  −253 °C.
 tags: [propulsion-electrique-aeronautique]
 sources:
   - title: "Hydrogen and its potential for aviation"
@@ -14905,6 +15269,9 @@ sources:
   - title: "ZEROe: our hydrogen-powered aircraft"
     url: "https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe"
     publisher: "Airbus"
+  - title: "Liquid hydrogen tanks for aircraft (Cranfield University repository)"
+    url: "https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/e8e2178c-12b3-4295-aeff-a39e32ebeb8e/content"
+    publisher: "Cranfield University"
 quiz:
   - question: "Que rejette en vol un avion à pile à combustible ?"
     options:
@@ -14940,7 +15307,7 @@ quiz:
     explanation: >
       À énergie égale, l'hydrogène exige un volume de stockage plus grand que le kérosène : les
       réservoirs actuels des ailes ne peuvent pas l'accueillir sans grande refonte.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -14954,7 +15321,23 @@ L'hydrogène peut alimenter des piles à combustible, qui produisent de l'élect
 
 ## Stocker l'hydrogène
 
-L'hydrogène se stocke à bord sous forme de gaz comprimé ou de liquide à très basse température. L'hydrogène liquide doit être maintenu à −253 °C. À énergie égale, l'hydrogène exige un volume de stockage plus grand que le kérosène : les réservoirs actuels des ailes ne peuvent pas l'accueillir sans grande refonte.
+L'hydrogène se stocke à bord sous forme de gaz comprimé ou de liquide à très basse température. L'hydrogène liquide doit être maintenu à −253 °C, soit environ 20 kelvins. À énergie égale, l'hydrogène exige un volume de stockage plus grand que le kérosène : les réservoirs actuels des ailes ne peuvent pas l'accueillir sans grande refonte.
+
+## Léger mais encombrant
+
+Au kilo, l'hydrogène contient environ trois fois plus d'énergie que le kérosène : 120 mégajoules contre 43. Mais il est très peu dense. Liquide, il pèse environ 71 kg par mètre cube, contre près de 800 pour le kérosène. Au litre, il offre donc environ quatre fois moins d'énergie : 8,5 mégajoules contre 33,6.
+
+Même comprimé à 700 bars, l'hydrogène gazeux est environ deux fois moins dense que l'hydrogène liquide. Cette solution est donc peu adaptée aux avions qui doivent emporter beaucoup d'énergie.
+
+## Où le loger ?
+
+Un réservoir d'hydrogène liquide est de préférence cylindrique, avec des extrémités arrondies. La sphère est la forme la plus légère, mais elle s'intègre mal dans un fuselage d'environ 4 mètres de diamètre. Plus un réservoir est grand, plus il est léger par rapport à son contenu, d'où l'intérêt de grands réservoirs dans le fuselage.
+
+Les projets étudiés les placent à l'avant ou à l'arrière de la cabine. Ils obligent à allonger le fuselage ou à réduire le nombre de sièges. Les ailes, trop étroites, conviennent mal.
+
+## Isoler du chaud
+
+Le moindre apport de chaleur fait bouillir l'hydrogène et monter la pression. Pour les grands réservoirs, on privilégie une mousse isolante. Pour les petits, on préfère un vide d'air entre deux parois, avec plusieurs couches de film réfléchissant. Rejeter l'hydrogène dans l'air est possible en vol, mais jugé indésirable dans les aéroports.
 
 ## Pour quelles lignes ?
 
@@ -14984,15 +15367,15 @@ colonnes:
 - L'hydrogène se stocke à bord sous forme de gaz comprimé ou de liquide à très basse température.
 - L'hydrogène liquide doit être maintenu à −253 °C.
 - À énergie égale, l'hydrogène exige plus de volume de stockage que le kérosène.
-
 ---
 type: article
 title: Les concepts d'avion à hydrogène d'Airbus
 slug: les-concepts-d-avion-a-hydrogene-d-airbus
 categoryPath: aeronautique/aviation-civile/decarbonation
 summary: >
-  En 2020, Airbus lance ZEROe et dévoile trois concepts d'avions à hydrogène liquide, avec 2035
-  comme objectif de mise en service. L'hydrogène y est stocké à −253 °C.
+  En 2020, Airbus lance ZEROe et dévoile trois concepts d'avions à hydrogène liquide, visant
+  2035. Début 2025, le calendrier est repoussé : la technologie progresse moins vite que prévu et
+  tout l'écosystème hydrogène reste à bâtir.
 tags: [decarbonation]
 sources:
   - title: "ZEROe: our hydrogen-powered aircraft"
@@ -15010,6 +15393,9 @@ sources:
   - title: "Hydrogen and its potential for aviation"
     url: "https://www.easa.europa.eu/en/light/topics/hydrogen-and-its-potential-aviation"
     publisher: "EASA"
+  - title: "Liquid hydrogen tanks for aircraft (Cranfield University repository)"
+    url: "https://dspace.lib.cranfield.ac.uk/server/api/core/bitstreams/e8e2178c-12b3-4295-aeff-a39e32ebeb8e/content"
+    publisher: "Cranfield University"
 quiz:
   - question: "Combien de concepts d'avions à hydrogène liquide Airbus a-t-il dévoilés ?"
     options:
@@ -15046,17 +15432,17 @@ quiz:
     explanation: >
       Les aéroports auraient besoin d'infrastructures importantes de production, de transport et
       d'avitaillement en hydrogène.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-En 2020, Airbus lance ZEROe et dévoile trois concepts d'avions à hydrogène liquide, avec 2035 comme objectif de mise en service. L'hydrogène y est stocké à −253 °C.
+En 2020, Airbus lance ZEROe et dévoile trois concepts d'avions à hydrogène liquide, avec 2035 comme objectif initial de mise en service. L'hydrogène y est stocké à −253 °C. Début 2025, cet objectif a été repoussé.
 
 ## Un programme lancé en 2020
 
-2020 : Airbus lance le programme ZEROe pour explorer la propulsion à l'hydrogène des avions commerciaux. 2035 : année visée par Airbus pour la mise en service de son premier avion commercial à hydrogène.
+2020 : Airbus lance le programme ZEROe pour explorer la propulsion à l'hydrogène des avions commerciaux. 2035 : année visée à l'origine par Airbus pour la mise en service de son premier avion commercial à hydrogène.
 
 ## Trois concepts
 
@@ -15064,7 +15450,13 @@ Airbus a dévoilé trois concepts d'avions à hydrogène liquide : à turbosouff
 
 ## Le défi du stockage
 
-L'hydrogène liquide doit être stocké à −253 °C, dans des réservoirs cryogéniques.
+L'hydrogène liquide doit être stocké à −253 °C, dans des réservoirs cryogéniques. Il est léger, mais peu dense : à énergie égale, il occupe environ quatre fois plus de volume que le kérosène. Les concepteurs doivent donc loger de gros réservoirs, le plus souvent dans un fuselage allongé, derrière la cabine.
+
+## Un calendrier repoussé en 2025
+
+Début 2025, Airbus reporte son objectif de 2035 pour un avion commercial à hydrogène. Le syndicat Force Ouvrière annonce aussi une baisse de 25 % des budgets de recherche sur l'hydrogène. Les essais en vol d'un système de propulsion et de stockage sur un A380 modifié, prévus auparavant, sont abandonnés.
+
+Airbus invoque des progrès technologiques plus lents que prévu et le besoin d'un écosystème complet : infrastructures, production, distribution et réglementation. Le constructeur continue pourtant de voir dans l'hydrogène un levier possible de transformation pour l'aviation. Aucune nouvelle date n'est publiée dans les sources consultées.
 
 ## Ce qu'il reste à construire
 
@@ -15086,8 +15478,7 @@ evenements:
 ## À retenir
 
 - 2020 : Airbus lance le programme ZEROe pour explorer la propulsion à l'hydrogène des avions commerciaux.
-- 2035 : année visée par Airbus pour la mise en service de son premier avion commercial à hydrogène.
+- 2035 : année visée à l'origine par Airbus pour son premier avion commercial à hydrogène ; l'objectif a été repoussé début 2025.
 - Airbus a dévoilé trois concepts d'avions à hydrogène liquide : turbosoufflantes, turbopropulseurs et aile volante.
 - L'hydrogène liquide doit être stocké à −253 °C, dans des réservoirs cryogéniques.
 - Les aéroports auraient besoin d'infrastructures importantes de production, de transport et d'avitaillement en hydrogène.
-

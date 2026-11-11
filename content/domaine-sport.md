@@ -201,6 +201,20 @@ quiz:
     explanation: >
       Il existe un compromis strict entre puissance et endurance. Plus une filière délivre vite,
       moins elle dure longtemps.
+  - question: "Selon le texte, que devient le lactate produit pendant un effort intense ?"
+    options:
+      - "Un déchet qui provoque les courbatures"
+      - "Un carburant réutilisé par d'autres muscles et par le cœur"
+      - "Une substance qui bloque la voie aérobie"
+    answer: 2
+    explanation: "Contrairement à une croyance tenace, le lactate n'est pas un déchet : il sert de carburant. C'est l'acidité qui l'accompagne qui contribue à la fatigue."
+  - question: "Comment fonctionnent les trois filières énergétiques du muscle ?"
+    options:
+      - "Elles s'allument l'une après l'autre comme un interrupteur"
+      - "Une seule filière travaille à la fois selon la distance"
+      - "Elles fonctionnent en permanence, leur proportion changeant selon l'intensité et la durée"
+    answer: 3
+    explanation: "Ce n'est pas un interrupteur mais un dosage : les trois filières sont actives en même temps, et leur part relative varie avec l'effort."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -331,6 +345,20 @@ quiz:
     explanation: >
       S'entraîner en endurance ne rend pas fort, et soulever des poids ne prépare pas un
       marathon. Les adaptations sont ciblées sur la sollicitation réelle.
+  - question: "Que se passe-t-il si une séance arrive trop tôt, alors que le corps répare encore ?"
+    options:
+      - "Le corps surcompense deux fois plus"
+      - "On empile de la fatigue sans adaptation, ce qui mène au surentraînement"
+      - "On repart simplement du même niveau qu'avant"
+    answer: 2
+    explanation: "Trop tôt, la réparation n'est pas finie : la fatigue s'accumule sans adaptation, et les performances peuvent baisser malgré un travail accru."
+  - question: "Pourquoi les semaines de décharge ne sont-elles pas du temps perdu ?"
+    options:
+      - "C'est là que les adaptations s'expriment"
+      - "Elles servent à augmenter le volume d'entraînement ensuite"
+      - "Elles permettent d'éviter toute fatigue durablement"
+    answer: 1
+    explanation: "En allégeant la charge, on laisse le corps exprimer les adaptations construites pendant les périodes de charge croissante."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -462,6 +490,20 @@ quiz:
     explanation: >
       Un muscle progresse en quelques semaines. Un tendon demande plusieurs mois. Une
       progression calée sur les muscles dépasse donc ce que les tendons supportent.
+  - question: "Que dit le texte à propos des étirements avant l'effort ?"
+    options:
+      - "Ils protègent clairement des blessures et améliorent la performance"
+      - "Ils remplacent avantageusement l'échauffement"
+      - "Ils n'ont pas montré d'effet protecteur clair, contrairement à l'échauffement"
+    answer: 3
+    explanation: "Les étirements avant l'effort n'ont pas d'effet protecteur démontré, alors que l'échauffement a un intérêt établi : échauffement ne veut pas dire étirement."
+  - question: "Dans quel cas une douleur impose-t-elle d'arrêter et de consulter ?"
+    options:
+      - "Quand elle apparaît pendant l'effort et disparaît ensuite"
+      - "Quand elle persiste après l'effort, réveille la nuit ou s'aggrave de séance en séance"
+      - "Quand elle survient uniquement lors des premières minutes"
+    answer: 2
+    explanation: "Une douleur qui dure, réveille la nuit ou s'aggrave signale souvent une blessure de surcharge : continuer peut transformer une gêne de deux semaines en arrêt de six mois."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -600,6 +642,20 @@ quiz:
     explanation: >
       Cette accessibilité extrême explique sa diffusion, notamment dans les pays où les
       équipements sportifs coûteux sont hors de portée.
+  - question: "Pourquoi faut-il prendre ces grands nombres comme des ordres de grandeur ?"
+    options:
+      - "Parce que les licenciés sont comptés approximativement par les fédérations"
+      - "Parce que les pratiquants occasionnels sont estimés par enquête, avec une marge d'incertitude large"
+      - "Parce que le recensement ne concerne que les joueurs professionnels"
+    answer: 2
+    explanation: "Les licenciés sont comptés précisément, mais les pratiquants occasionnels sont estimés par enquête, avec une incertitude bien plus grande."
+  - question: "Comment le texte explique-t-il la faible part de femmes parmi les pratiquants ?"
+    options:
+      - "Par un héritage d'interdictions et de découragements dont les effets se prolongent"
+      - "Par un manque d'intérêt naturel des femmes pour ce sport"
+      - "Par des règles du jeu pensées pour les hommes"
+    answer: 1
+    explanation: "La pratique féminine a été découragée, voire interdite, pendant des décennies. Ces interdictions sont levées, mais il en reste moins de clubs, d'entraîneuses et de modèles."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -725,6 +781,20 @@ quiz:
       Une semelle très épaisse et élastique associée à une lame rigide restitue une partie de
       l'énergie. L'effet a été mesuré, ce qui a conduit les fédérations à encadrer ces
       chaussures.
+  - question: "Quand un record progresse brusquement après des années de stagnation, quelle en est généralement la cause ?"
+    options:
+      - "Une génération d'athlètes exceptionnellement talentueuse"
+      - "Une cause technique identifiable, souvent liée au matériel"
+      - "Une baisse du niveau des concurrents"
+    answer: 2
+    explanation: "Les sauts brusques ont généralement une cause technique : combinaisons de natation, chaussures à semelle épaisse, ou conditions de course particulières."
+  - question: "Pourquoi comparer des performances à un siècle de distance a-t-il des limites ?"
+    options:
+      - "Parce que les distances officielles ont changé"
+      - "Parce qu'une performance mesure tout un système : athlète, entraînement, matériel et conditions"
+      - "Parce que les anciens athlètes ne se chronométraient pas"
+    answer: 2
+    explanation: "La performance brute reflète à la fois le corps, l'entraînement, le matériel et les conditions, qui ont tous changé en un siècle."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -851,6 +921,20 @@ quiz:
       Une lame restitue une partie de l'énergie mais ne peut ni pousser activement, ni
       s'adapter finement au sol. Les comparaisons sont complexes et font l'objet de
       publications contradictoires.
+  - question: "Pourquoi une même personne peut-elle relever de classes différentes selon la discipline ?"
+    options:
+      - "Parce que son diagnostic médical change selon le sport"
+      - "Parce que les classificateurs varient d'un sport à l'autre"
+      - "Parce que l'incidence du handicap sur le geste n'est pas la même en natation et en tir à l'arc"
+    answer: 3
+    explanation: "La classification porte sur la limitation fonctionnelle dans le geste sportif concerné, pas sur le diagnostic : elle peut donc varier selon la discipline."
+  - question: "Quelle difficulté le système de classification reconnaît-il lui-même ?"
+    options:
+      - "La frontière entre deux classes est arbitraire quelque part, ce qui désavantage un athlète juste au-dessus d'un seuil"
+      - "Tous les handicaps sont faciles à évaluer objectivement"
+      - "Les classes ne sont jamais révisées"
+    answer: 1
+    explanation: "Tout seuil crée des cas limites. Le système est assumé comme imparfait et révisé régulièrement."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -971,6 +1055,20 @@ quiz:
     explanation: >
       Plutôt que de chercher une substance, on surveille ses effets. Une variation inexplicable
       des paramètres sanguins peut suffire à ouvrir une procédure.
+  - question: "Pourquoi les échantillons sont-ils conservés pendant des années ?"
+    options:
+      - "Pour pouvoir les réanalyser quand de nouvelles techniques apparaissent"
+      - "Pour les comparer avec ceux des autres pays"
+      - "Pour prouver que les contrôles ont bien eu lieu"
+    answer: 1
+    explanation: "Les méthodes progressent : des sanctions sont régulièrement prononcées bien après la compétition, grâce à la réanalyse d'anciens échantillons."
+  - question: "Pourquoi une hausse du nombre de cas ne prouve-t-elle pas que le dopage augmente ?"
+    options:
+      - "Parce que les athlètes sont de plus en plus nombreux à se faire contrôler volontairement"
+      - "Parce que les sanctions sont toujours levées plus tard"
+      - "Parce qu'elle peut aussi refléter de meilleurs contrôles"
+    answer: 3
+    explanation: "Une hausse peut signifier plus de dopage ou des contrôles améliorés : les données seules ne permettent pas de trancher."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1097,6 +1195,20 @@ quiz:
     explanation: >
       Tout le reste se regarde en différé, sans publicité. Le sport garde une valeur de
       rendez-vous simultané, devenue rare et donc précieuse.
+  - question: "Pourquoi la concentration des revenus sur quelques clubs pose-t-elle problème à la compétition ?"
+    options:
+      - "Elle augmente l'incertitude du résultat, ce qui lasse les spectateurs"
+      - "Elle empêche les clubs riches de recruter les meilleurs joueurs"
+      - "Elle réduit l'incertitude du résultat, qui fait pourtant l'intérêt d'une compétition"
+    answer: 3
+    explanation: "Les clubs riches attirent les meilleurs joueurs, gagnent, et gagnent davantage : cette boucle réduit l'incertitude, d'où des mécanismes correcteurs dans certains championnats."
+  - question: "De quoi vivent la plupart des disciplines sportives peu médiatisées ?"
+    options:
+      - "De droits de diffusion vendus aux plateformes"
+      - "De subventions publiques, de bénévolat et de cotisations"
+      - "De la billetterie des grands stades"
+    answer: 2
+    explanation: "En dehors des quelques sports très médiatisés, les ressources viennent surtout d'aides publiques, de bénévoles et de cotisations."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1217,6 +1329,20 @@ quiz:
     explanation: >
       Ou 75 minutes d'activité intense, avec en plus du renforcement musculaire deux fois par
       semaine. L'activité peut être fractionnée en séances courtes.
+  - question: "Une heure de sport suffit-elle à annuler les effets de douze heures passées assis ?"
+    options:
+      - "Oui, l'activité compense toujours la position assise"
+      - "Oui, à condition de faire du renforcement musculaire"
+      - "Non, l'activité physique et le temps passé assis sont deux facteurs distincts"
+    answer: 3
+    explanation: "Les deux comptent indépendamment : d'où la recommandation de se lever régulièrement et d'interrompre les longues périodes assises."
+  - question: "Selon le texte, qu'est-ce qui empêche souvent de bouger davantage ?"
+    options:
+      - "Des obstacles concrets comme le temps, le coût ou l'aménagement urbain"
+      - "Un manque de motivation personnelle uniquement"
+      - "Une méconnaissance totale des bénéfices du sport"
+    answer: 1
+    explanation: "Les obstacles sont rarement la seule motivation : agir sur eux est plus efficace que répéter qu'il faut bouger."
 lastVerified: 2026-09-23
 status: published
 ---
@@ -1560,7 +1686,8 @@ title: Soigner une entorse
 slug: soigner-entorse
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/blessures-et-prevention
 summary: >
-  Repos, glace, compression, élévation : les premiers soins et la rééducation.
+  Repos, glace, compression, élévation : les premiers soins d'une entorse, les délais de guérison
+  réalistes et les signes qui imposent de consulter.
 tags: [blessures-et-prevention, entorse, premiers-secours, essentiel-reconstruction]
 relatedArticles: [immobiliser-fracture]
 sources:
@@ -1572,6 +1699,9 @@ sources:
     url: "https://www.medicalnewstoday.com/articles/321469"
     publisher: "Medical News Today"
     date: "2025"
+  - title: "Sprains and strains"
+    url: "https://www.nhs.uk/conditions/sprains-and-strains/"
+    publisher: "NHS (National Health Service, Royaume-Uni)"
 quiz:
   - question: "Que signifie l'acronyme RICE utilisé pour les premiers soins d'une entorse ?"
     options:
@@ -1592,52 +1722,61 @@ quiz:
     explanation: >
       Un contact direct et prolongé entre la glace et la peau peut provoquer des brûlures par le
       froid. Un tissu fin protège la peau tout en laissant passer l'effet refroidissant.
-lastVerified: 2026-09-25
+  - question: "Selon le NHS, à quelle fréquence peut-on appliquer la glace les premiers jours ?"
+    options:
+      - "Toutes les 2 à 3 heures, jusqu'à 20 minutes"
+      - "Une seule fois par jour, pendant une heure"
+      - "En continu, sans interruption"
+    answer: 1
+    explanation: "Le NHS conseille de la glace jusqu'à 20 minutes toutes les 2 à 3 heures pendant les 2 à 3 premiers jours."
+  - question: "Que faut-il éviter durant les deux premiers jours pour ne pas augmenter le gonflement ?"
+    options:
+      - "Le bandage de compression"
+      - "La chaleur, l'alcool et les massages"
+      - "L'élévation du membre"
+    answer: 2
+    explanation: "La chaleur, l'alcool et les massages peuvent augmenter le gonflement, alors que compression et élévation le limitent."
+lastVerified: 2026-11-11
 status: published
 ---
 
 ## En bref
 
-Une entorse, causée par l'étirement ou la déchirure des ligaments qui stabilisent une
-articulation, guérit généralement bien si elle est prise en charge rapidement. Quatre gestes
-simples, résumés par l'acronyme RICE, limitent l'enflure et accélèrent la récupération.
+Une entorse, causée par l'étirement ou la déchirure des ligaments qui stabilisent une articulation, guérit généralement bien si elle est prise en charge rapidement. Quatre gestes simples, résumés par l'acronyme RICE, limitent l'enflure et accélèrent la récupération.
 
 ## Repos, le premier réflexe
 
-Cesser immédiatement l'activité qui a causé la blessure et éviter de mettre du poids sur
-l'articulation touchée pendant les premières quarante-huit à soixante-douze heures limite
-l'aggravation de la lésion.
+Cesser immédiatement l'activité qui a causé la blessure et éviter de mettre du poids sur l'articulation touchée pendant les premières quarante-huit à soixante-douze heures limite l'aggravation de la lésion.
 
 ## Glace, pour limiter l'enflure
 
-Appliquer de la glace enveloppée dans un tissu fin pendant quinze à vingt minutes, plusieurs fois
-par jour durant les deux premiers jours, réduit l'inflammation et la douleur. Un contact direct et
-prolongé avec la peau doit être évité pour ne pas provoquer de brûlure par le froid.
+Appliquer de la glace enveloppée dans un tissu fin pendant quinze à vingt minutes, plusieurs fois par jour durant les deux premiers jours, réduit l'inflammation et la douleur. Un contact direct et prolongé avec la peau doit être évité pour ne pas provoquer de brûlure par le froid.
 
-## Compression, pour stabiliser
+## Compression et élévation
 
-Un bandage élastique enroulé autour de l'articulation, ni trop serré ni trop lâche, limite le
-gonflement. Il doit permettre de glisser un doigt sous le bandage sans difficulté, signe qu'il ne
-coupe pas la circulation.
+Un bandage élastique enroulé autour de l'articulation, ni trop serré ni trop lâche, limite le gonflement. Il doit permettre de glisser un doigt dessous sans difficulté, signe qu'il ne coupe pas la circulation. Surélever le membre blessé, autant que possible, aide les liquides accumulés à refluer.
 
-## Élévation, pour drainer
+## Ce qu'il faut éviter, et le délai de guérison
 
-Surélever le membre blessé au-dessus du niveau du cœur, autant que possible, aide le sang et les
-liquides accumulés à refluer, réduisant davantage l'enflure durant les premiers jours.
+Le service de santé britannique (NHS) conseille d'appliquer la glace jusqu'à 20 minutes toutes les 2 à 3 heures pendant les 2 à 3 premiers jours. Pendant les deux premiers jours, il recommande aussi d'éviter la chaleur (bain chaud, poche chauffante), l'alcool et les massages, qui peuvent augmenter le gonflement. Dès que la douleur le permet, il faut remuer la zone pour qu'elle ne se raidisse pas.
+
+La plupart des entorses s'améliorent en environ 2 semaines. Les efforts intenses, comme la course, restent déconseillés jusqu'à 8 semaines pour éviter la récidive. Une entorse sévère peut demander plusieurs mois.
+
+## Quand consulter
+
+Une douleur ou un gonflement qui s'aggravent, l'impossibilité de s'appuyer ou de faire plus de quelques pas, ou l'absence d'amélioration justifient un avis médical. Un craquement au moment du choc, une articulation déformée, un engourdissement ou une peau bleutée imposent les urgences.
 
 ## La rééducation, une étape à ne pas négliger
 
-Une fois la douleur aiguë passée, des exercices progressifs de mobilité et de renforcement
-aident l'articulation à retrouver sa stabilité et réduisent le risque de récidive, particulièrement
-fréquent après une première entorse mal soignée.
+Une fois la douleur aiguë passée, des exercices progressifs de mobilité et de renforcement aident l'articulation à retrouver sa stabilité et réduisent le risque de récidive, particulièrement fréquent après une première entorse mal soignée.
 
 ## À retenir
 
 - L'acronyme RICE résume les quatre gestes essentiels : repos, glace, compression, élévation.
-- Le repos immédiat évite d'aggraver la lésion des ligaments touchés.
 - La glace doit toujours être appliquée avec un tissu protecteur, jamais directement sur la peau.
-- Un bandage de compression adapté limite le gonflement sans couper la circulation.
-- La rééducation progressive réduit le risque de récidive après la guérison initiale.
+- Les premiers jours, évitez la chaleur, l'alcool et les massages.
+- La plupart des entorses s'améliorent en 2 semaines environ, les efforts intenses attendent jusqu'à 8 semaines.
+- Une douleur qui s'aggrave ou l'impossibilité de marcher justifient de consulter.
 
 ```schema
 type: etapes
@@ -1695,6 +1834,20 @@ quiz:
     explanation: >
       Tenter de redresser un os déformé risque d'endommager des vaisseaux sanguins, des nerfs ou
       des muscles environnants. Le membre doit être immobilisé dans la position où il se trouve.
+  - question: "Pourquoi faut-il rembourrer les matériaux rigides d'une attelle de fortune ?"
+    options:
+      - "Pour la rendre plus solide"
+      - "Pour éviter tout point de pression inconfortable"
+      - "Pour pouvoir serrer plus fortement"
+    answer: 2
+    explanation: "Les supports rigides doivent être rembourrés de tissu afin d'éviter des points de pression, puis fixés sans serrer excessivement."
+  - question: "Que faire si la personne ressent un engourdissement après la pose de l'attelle ?"
+    options:
+      - "Desserrer immédiatement le bandage"
+      - "Resserrer pour mieux immobiliser"
+      - "Attendre la prochaine vérification dans une heure"
+    answer: 1
+    explanation: "Un engourdissement signale que la circulation est gênée : il faut desserrer sans attendre."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2199,6 +2352,20 @@ quiz:
       S'arrêter, se remettre sur le dos et flotter en respirant calmement permet de reprendre le
       contrôle avant de nager ou de marcher vers la sécurité, plutôt que de s'épuiser en
       paniquant.
+  - question: "Quelles conditions faut-il vérifier avant de s'aventurer en eau plus profonde ?"
+    options:
+      - "Savoir plonger la tête la première et nager sur le ventre"
+      - "Pouvoir flotter, faire du surplace trente secondes et nager dix mètres sans toucher le fond"
+      - "Avoir déjà nagé en milieu naturel avec un gilet"
+    answer: 2
+    explanation: "Ces trois capacités montrent que l'on est assez à l'aise avant de quitter la zone où l'on peut prendre appui."
+  - question: "Pourquoi nager accompagné reste-t-il plus sûr, même pour une personne à l'aise ?"
+    options:
+      - "Parce qu'en piscine les courants sont très forts"
+      - "Parce que nager seul est interdit par la loi"
+      - "Parce qu'en milieu naturel les courants et la profondeur sont moins prévisibles"
+    answer: 3
+    explanation: "Hors piscine, les conditions sont moins prévisibles : un incident est plus dangereux sans personne pour aider."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -2793,6 +2960,20 @@ quiz:
       Tourner le buste en portant une charge combine torsion et compression sur la colonne
       vertébrale, un mouvement particulièrement à risque de blessure. Il vaut mieux déplacer les
       pieds pour changer de direction.
+  - question: "Pourquoi faut-il tenir la charge près du corps, vers le nombril ?"
+    options:
+      - "Pour réduire considérablement la tension exercée sur le dos"
+      - "Pour mieux voir où l'on met les pieds"
+      - "Pour pouvoir tourner le buste plus facilement"
+    answer: 1
+    explanation: "Une charge tenue à bout de bras tire fortement sur le dos ; proche du corps, elle exerce beaucoup moins de tension."
+  - question: "Pourquoi écarter les pieds à la largeur des épaules avant de soulever ?"
+    options:
+      - "Pour pouvoir pencher le dos plus facilement"
+      - "Pour offrir une meilleure stabilité qu'avec les pieds joints, qui favorisent les déséquilibres"
+      - "Pour tourner le buste sans bouger les pieds"
+    answer: 2
+    explanation: "Une base large, avec un pied légèrement avancé, stabilise la posture au moment de l'effort."
 lastVerified: 2026-09-25
 status: published
 ---
@@ -10484,8 +10665,8 @@ title: Marcher et porter longtemps, l'astuce du pendule
 slug: marcher-et-porter-longtemps
 categoryPath: sport-et-sciences-du-mouvement/physiologie-de-l-effort/energetique-musculaire
 summary: >
-  En marchant, le corps se comporte comme un pendule inversé et récupère au mieux environ 65 %
-  de l'énergie du mouvement. Le portage sur la tête reste débattu.
+  En marchant, le corps se comporte comme un pendule inversé et récupère au mieux environ 65 % de
+  l'énergie du mouvement, à vitesse intermédiaire. Le portage sur la tête reste débattu.
 tags: [marche, biomecanique, portage, essentiel-reconstruction, reconstruction]
 sources:
   - title: "Walking"
@@ -10500,6 +10681,14 @@ sources:
   - title: "The mechanics of head-supported load carriage by Nepalese porters"
     url: "https://journals.biologists.com/jeb/article/219/22/3626/16733/The-mechanics-of-head-supported-load-carriage-by"
     publisher: "Journal of Experimental Biology"
+  - title: "The sources of external work in level walking and running (Cavagna, Thys, Zamboni)"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC1307665"
+    publisher: "The Journal of Physiology"
+    date: "1976"
+  - title: "Energetic consequences of walking like an inverted pendulum: step-to-step transitions"
+    url: "https://pubmed.ncbi.nlm.nih.gov/15821430/"
+    publisher: "Exercise and Sport Sciences Reviews"
+    date: "2005"
 quiz:
   - question: "En marchant, quelle part de l'énergie mécanique le corps peut-il récupérer au mieux ?"
     options:
@@ -10537,7 +10726,7 @@ quiz:
     explanation: >
       Une étude plus récente, avec des charges bien plus lourdes, a trouvé que le portage sur la
       tête consommait plus d'oxygène que le portage dans le dos.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -10549,17 +10738,19 @@ Le corps qui marche ressemble à un pendule inversé : la gravité fait une part
 
 Le mouvement du corps qui marche ressemble à celui d'un pendule inversé : la gravité fait une partie du travail. Pendant la marche, le corps peut récupérer au mieux environ 65 % de l'énergie mécanique. La marche humaine est un peu plus économe en énergie que le déplacement d'un mammifère quadrupède de taille comparable, comme le chimpanzé.
 
+## Le pendule a ses limites
+
+En 1976, Giovanni Cavagna et ses collègues ont mesuré le travail mécanique de personnes marchant et courant de 2 à 32 km/h. Le maximum de récupération, environ 65 %, est atteint à des vitesses intermédiaires. Vers 4 km/h, le travail vertical et le travail vers l'avant s'égalisent, et le coût énergétique par kilomètre est minimal.
+
+Le modèle du pendule ne tient plus au-delà d'environ 7 km/h. En course, la récupération tombe à 0 à 4 % : le corps rebondit comme un ressort au lieu de se balancer.
+
+## Le coût du changement de pas
+
+Un pendule parfait ne coûterait presque rien. Mais à chaque pas, le centre de gravité doit changer de trajectoire pour passer d'un arc à l'autre. L'étude d'Arthur Kuo, publiée en 2005, montre que ce travail de redirection a un coût métabolique proportionnel et constitue un déterminant majeur du coût total de la marche.
+
 ## Porter sur la tête
 
-Des femmes africaines ont pu porter sur la tête des charges allant jusqu'à 20 % de leur poids sans dépenser sensiblement plus d'énergie.
-
-## Une science qui évolue
-
-Une étude plus récente, avec des charges bien plus lourdes, a trouvé que le portage sur la tête consommait plus d'oxygène que le portage dans le dos. Il ne faut donc pas généraliser le résultat des 20 %. Cette fiche décrit des mesures scientifiques, pas des conseils d'entraînement.
-
-## Avant de commencer
-
-Aucun matériel n'est nécessaire, seulement son corps.
+Des femmes africaines ont pu porter sur la tête des charges allant jusqu'à 20 % de leur poids sans dépenser sensiblement plus d'énergie. Une étude plus récente, avec des charges bien plus lourdes, a trouvé que le portage sur la tête consommait plus d'oxygène que le portage dans le dos. Il ne faut donc pas généraliser le résultat des 20 %. Cette fiche décrit des mesures scientifiques, pas des conseils d'entraînement.
 
 ```schema
 type: chiffres
@@ -10572,10 +10763,10 @@ chiffres:
 ## À retenir
 
 - Le mouvement du corps qui marche ressemble à celui d'un pendule inversé : la gravité fait une partie du travail.
-- Au mieux, la marche récupère environ 65 % de l'énergie mécanique.
-- Des femmes africaines ont pu porter sur la tête des charges allant jusqu'à 20 % de leur poids sans dépenser sensiblement plus d'énergie.
-- Une étude plus récente, avec des charges bien plus lourdes, a trouvé plus d'oxygène consommé pour la tête que pour le dos.
-
+- Au mieux, la marche récupère environ 65 % de l'énergie mécanique, à vitesse intermédiaire.
+- Au-delà d'environ 7 km/h, le modèle du pendule ne tient plus, et la course ne récupère que 0 à 4 %.
+- Le changement de pas a un coût énergétique qui pèse beaucoup dans le coût total de la marche.
+- Le résultat des 20 % de charge sur la tête ne se généralise pas aux charges plus lourdes.
 ---
 type: article
 title: À quoi sert vraiment l'échauffement, et vaut-il mieux s'étirer avant l'effort ?
@@ -11361,8 +11552,9 @@ title: Pourquoi les records du monde tombent-ils moins vite qu'avant ?
 slug: pourquoi-les-records-du-monde-tombent-ils-moins-vite-qu-avant
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
 summary: >
-  Les records progressent grâce aux talents, à l'entraînement, à la technologie et au contrôle
-  du dopage. Dans plusieurs épreuves, la progression a ralenti depuis les années 1990.
+  Les records progressent grâce aux talents, à l'entraînement, à la technologie et au contrôle du
+  dopage. Dans plusieurs épreuves, la progression a ralenti depuis les années 1990, et la mesure
+  du temps a elle-même changé.
 tags: [sports-individuels]
 sources:
   - title: "World record"
@@ -11374,6 +11566,10 @@ sources:
   - title: "What is the absolute limit for human athletes? Here's the science"
     url: "https://theconversation.com/what-is-the-absolute-limit-for-human-athletes-heres-the-science-63749"
     publisher: "The Conversation"
+  - title: "100 years of the 100 metres world record"
+    url: "https://worldathletics.org/news/press-release/100-years-of-the-100-metres-world-record-ia"
+    publisher: "World Athletics (IAAF)"
+    date: "2012"
 quiz:
   - question: "Qu'est-ce qu'un record du monde ?"
     options:
@@ -11411,7 +11607,7 @@ quiz:
     explanation: >
       Les records dépendent de plusieurs facteurs à la fois : biologie, entraînement, équipement
       et nombre d'athlètes.
-lastVerified: 2026-09-30
+lastVerified: 2026-11-11
 status: published
 ---
 
@@ -11421,7 +11617,13 @@ Les records progressent grâce aux talents, à l'entraînement, à la technologi
 
 ## Qu'est-ce qu'un record ?
 
-Un record du monde est la meilleure performance mondiale jamais enregistrée et officiellement vérifiée dans une activité. Une performance qui ne remplit pas les critères officiels, comme un parcours trop dénivelé, est appelée meilleure performance mondiale. Des organisations, comme le Guinness World Records, suivent et publient les records dans de nombreux domaines : athlétisme, natation, patinage de vitesse, cyclisme, aviron ou haltérophilie. Les records dépendent de plusieurs facteurs à la fois : biologie, entraînement, équipement et nombre d'athlètes.
+Un record du monde est la meilleure performance mondiale jamais enregistrée et officiellement vérifiée dans une activité. Une performance qui ne remplit pas les critères officiels, comme un parcours trop dénivelé, est appelée meilleure performance mondiale. Des organisations, comme le Guinness World Records, suivent et publient les records dans de nombreux domaines : athlétisme, natation, patinage de vitesse, cyclisme, aviron ou haltérophilie.
+
+## L'exemple du 100 mètres
+
+Le premier record du monde du 100 m ratifié par la fédération d'athlétisme date de 1912 : l'Américain Donald Lippincott court en 10,6 secondes aux Jeux de Stockholm. En 1921, Charlie Paddock descend à 10,4. En 1968, Jim Hines établit 9,95 à Mexico, mesuré électroniquement.
+
+Environ cinquante ans après le premier record, les chronomètres à la main ne mesuraient qu'au dixième de seconde. Le chronométrage automatique est devenu obligatoire pour valider un record en 1977, ce qui permet de compter au centième. Ensuite, Usain Bolt a signé trois records : 9,72, 9,69 puis 9,58.
 
 ## Pourquoi la progression ralentit
 
@@ -11444,26 +11646,104 @@ parties:
 ## À retenir
 
 - Un record du monde est la meilleure performance mondiale jamais enregistrée et officiellement vérifiée dans une activité.
+- Au 100 m, on est passé de 10,6 secondes en 1912 à 9,58 pour Bolt.
+- Le chronométrage automatique est obligatoire pour valider un record depuis 1977 et permet de mesurer au centième.
 - Dans le saut en longueur et les courses de vitesse, la progression a nettement ralenti depuis le milieu des années 1990.
-- Quand la courbe s'aplatit, les performances deviennent presque statiques : les humains approchent peut-être de limites biologiques.
 - Les chaussures à plaque de carbone ont amélioré l'économie de course, et les lièvres lumineux aident à répartir l'allure.
-- Les records dépendent de plusieurs facteurs à la fois : biologie, entraînement, équipement et nombre d'athlètes.
-
 ---
 type: article
 title: Les records de 1968 à Mexico et l'altitude
 slug: les-records-de-1968-a-mexico-et-l-altitude
 categoryPath: sport-et-sciences-du-mouvement/disciplines-sportives/sports-individuels
 summary: >
-  Le 18 octobre 1968, Bob Beamon saute 8,90 m aux Jeux de Mexico, à 2 240 m d'altitude, et
-  améliore le record de 55 cm. Il tiendra presque 23 ans.
+  En 1968, Bob Beamon saute 8,90 m à Mexico, à 2 240 m d'altitude, et efface le record de 55 cm.
+  Il tiendra près de 23 ans. L'altitude a-t-elle tout expliqué ?
 tags: [athletisme, altitude, records]
-priority: 2
-essentiel: false
-status: planned
+relatedArticles: []
+sources:
+  - title: "Bob Beamon"
+    url: "https://www.britannica.com/print/article/57272"
+    publisher: "Encyclopaedia Britannica"
+  - title: "Bob Beamon's 8.90m long jump world record: 50th anniversary"
+    url: "https://worldathletics.org/competitions/heritage/news/bob-beamon-890m-long-jump-world-record-50th-a"
+    publisher: "World Athletics"
+    date: "2018"
+quiz:
+  - question: "De combien Beamon améliore-t-il le record du monde ?"
+    options:
+      - "5 cm"
+      - "55 cm"
+      - "1,5 m"
+    answer: 2
+    explanation: "Il passe de 8,35 m à 8,90 m, soit 55 centimètres de mieux."
+  - question: "Qui bat son record en 1991 ?"
+    options:
+      - "Mike Powell"
+      - "Ralph Boston"
+      - "Carl Lewis"
+    answer: 1
+    explanation: "Mike Powell saute 8,95 m aux championnats du monde de Tokyo."
+  - question: "Pourquoi les officiels ont-ils utilisé des rubans de mesure ?"
+    options:
+      - "L'appareil optique était en panne"
+      - "Le saut dépassait les capacités de l'appareil"
+      - "Le public l'exigeait"
+    answer: 2
+    explanation: "Selon World Athletics, le saut était au-delà de ce que l'équipement pouvait mesurer."
+  - question: "Quelle est l'altitude de Mexico ?"
+    options:
+      - "2 240 m"
+      - "850 m"
+      - "3 600 m"
+    answer: 1
+    explanation: "Mexico est située à 2 240 mètres, où l'air est moins dense."
+lastVerified: 2026-11-11
+status: published
 ---
 
-À rédiger.
+## En bref
+
+En octobre 1968, aux Jeux olympiques de Mexico, l'Américain Bob Beamon saute 8,90 mètres en longueur. Il améliore le record du monde de 55 centimètres d'un seul coup. Ce saut reste le record pendant près de 23 ans. La ville est située à 2 240 mètres d'altitude, ce qui relance un débat : quelle part de cet exploit revient à l'air raréfié ?
+
+## Un saut hors norme
+
+Le record précédent, de 8,35 m, était partagé par Ralph Boston et Igor Ter-Ovanesyan. Beamon le dépasse de 55 cm, un écart énorme pour un record du monde en longueur, où l'on gagne d'habitude quelques centimètres à la fois.
+
+Le saut était si long que l'appareil de mesure optique ne pouvait pas le mesurer, selon World Athletics. Les officiels ont dû utiliser des rubans de mesure, puis la distance est apparue sur le tableau. La marque officielle est de 8,90 m, soit 29 pieds et 2 pouces et demi.
+
+Le contexte aide à mesurer l'écart. Un record du monde de longueur progresse d'ordinaire par petites touches, de quelques centimètres. Passer d'un bond de 8,35 m à 8,90 m ressemble donc moins à une amélioration qu'à un changement d'échelle, et c'est ce qui rend le saut si célèbre, même plus de cinquante ans après.
+
+## Ce que l'altitude change
+
+À 2 240 mètres, l'air est moins dense qu'au niveau de la mer. Pour un sauteur lancé en pleine vitesse sur sa piste d'élan, cette moindre densité réduit la résistance de l'air. Les sprinteurs et les sauteurs en profitent, alors que les épreuves d'endurance, elles, souffrent du manque d'oxygène.
+
+Britannica retient que l'altitude et un vent arrière ont aidé la performance de Beamon. Le règlement tolère un vent arrière de 2,0 m/s au maximum pour qu'un record soit homologué, et World Athletics ne précise pas la valeur relevée ce jour-là.
+
+## Un record qui dure
+
+Beamon a détenu le record pendant 23 ans. Il est battu en 1991 par un autre Américain, Mike Powell, avec 8,95 m aux championnats du monde de Tokyo. Powell a donc sauté seulement 5 centimètres plus loin, et cela à basse altitude. Ce détail montre que l'altitude ne suffit pas à tout expliquer.
+
+## Idées reçues
+
+On lit souvent que le record de Beamon est dû uniquement à l'altitude. C'est trop simple : l'altitude et le vent ont aidé, mais il fallait aussi un sauteur capable d'exploiter ces conditions, avec une vitesse d'élan et un appel parfaitement réussis. Les sources consultées ne chiffrent pas la part de chaque facteur, et cette fiche s'en tient à ce qui est établi.
+
+## À retenir
+
+- Bob Beamon saute 8,90 m en longueur aux Jeux olympiques de Mexico, en octobre 1968.
+- Il améliore de 55 cm l'ancien record du monde, de 8,35 m.
+- Mexico se trouve à 2 240 mètres d'altitude, où l'air est moins dense.
+- Le record tient près de 23 ans, jusqu'aux 8,95 m de Mike Powell à Tokyo en 1991.
+- L'altitude et le vent ont aidé, mais aucune source consultée ne chiffre leur part exacte.
+
+```schema
+type: chiffres
+titre: Le saut de Bob Beamon, 18 octobre 1968
+chiffres:
+  - valeur: 8,90 m
+    texte: en longueur, à Mexico
+  - valeur: 55 cm
+    texte: de plus que l'ancien record
+```
 ---
 type: article
 title: Que mesure vraiment la variabilité cardiaque, ce chiffre qui promet de dire si vous êtes récupéré ?
