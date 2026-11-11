@@ -9452,6 +9452,12 @@ sources:
   - title: "Food preservation"
     url: "https://en.wikipedia.org/wiki/Food_preservation"
     publisher: "Wikipedia"
+  - title: "Comment garantir l'hygiène des aliments dans son réfrigérateur ?"
+    url: "https://www.anses.fr/fr/content/comment-garantir-lhygiene-des-aliments-dans-son-refrigerateur"
+    publisher: "ANSES"
+  - title: "Comment bien conserver ses aliments et ne pas interrompre la chaîne du froid ?"
+    url: "https://www.anses.fr/fr/content/comment-bien-conserver-ses-aliments-et-ne-pas-interrompre-la-chaine-du-froid"
+    publisher: "ANSES"
 quiz:
   - question: "Quelle température vise-t-on dans la zone la plus froide du réfrigérateur ?"
     options:
@@ -14399,6 +14405,13 @@ sources:
   - title: "Nicolas Appert"
     url: "https://fr.wikipedia.org/wiki/Nicolas_Appert"
     publisher: "Wikipédia"
+  - title: "Le botulisme : de quoi s'agit-il et comment s'en prémunir ?"
+    url: "https://www.anses.fr/fr/content/le-botulisme-comment-se-premunir"
+    publisher: "ANSES"
+  - title: "Conserves maison : comment éviter le botulisme ?"
+    url: "https://www.sante.fr/conserves-maison-comment-eviter-le-botulisme"
+    publisher: "Service public d'information en santé"
+    date: "2025"
 quiz:
   - question: "Pourquoi les légumes peu acides et la viande sont-ils les conserves les plus risquées ?"
     options:
@@ -19819,6 +19832,9 @@ sources:
   - title: "Ail des ours"
     url: "https://fr.wikipedia.org/wiki/Ail_des_ours"
     publisher: "Wikipédia"
+  - title: "Confusion entre plantes toxiques et plantes comestibles"
+    url: "https://www.anses.fr/fr/content/confusion-entre-plantes-toxiques-et-plantes-comestibles"
+    publisher: "ANSES"
 quiz:
   - question: "Quelle est la règle absolue pour la cueillette sauvage ?"
     options:

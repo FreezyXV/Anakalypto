@@ -5062,6 +5062,12 @@ sources:
   - title: "Automated external defibrillator"
     url: "https://en.wikipedia.org/wiki/Automated_external_defibrillator"
     publisher: "Wikipedia"
+  - title: "Défibrillateurs cardiaques externes"
+    url: "https://ansm.sante.fr/dossiers-thematiques/defibrillateurs-cardiaques-externes"
+    publisher: "Agence nationale de sécurité du médicament et des produits de santé (ANSM)"
+  - title: "Défibrillateurs automatisés externes (DAE)"
+    url: "https://www.nouvelle-aquitaine.ars.sante.fr/defibrillateurs-automatises-externes-dae"
+    publisher: "Agence régionale de santé Nouvelle-Aquitaine"
 quiz:
   - question: "Que se passe-t-il pendant une fibrillation ventriculaire ?"
     options:
@@ -7478,6 +7484,12 @@ sources:
   - title: "Grippe"
     url: "https://fr.wikipedia.org/wiki/Grippe"
     publisher: "Wikipédia"
+  - title: "Différences entre la grippe et le rhume"
+    url: "https://www.quebec.ca/sante/problemes-de-sante/grippe-rhume-et-gastro/differences-entre-la-grippe-et-le-rhume"
+    publisher: "Gouvernement du Québec"
+  - title: "Le rhume et la grippe : sachez la différence"
+    url: "https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/rhume-grippe-sachez-difference-feuille-information.html"
+    publisher: "Agence de la santé publique du Canada"
 quiz:
   - question: "Quel virus cause le plus souvent le rhume ?"
     options:
@@ -8044,6 +8056,9 @@ sources:
   - title: "Hemodialysis"
     url: "https://en.wikipedia.org/wiki/Hemodialysis"
     publisher: "Wikipedia"
+  - title: "Dialyse ou épuration extrarénale"
+    url: "https://www.larousse.fr/encyclopedie/medical/dialyse/12507"
+    publisher: "Larousse Médical"
 quiz:
   - question: "Combien de litres de sang les reins filtrent-ils environ chaque jour ?"
     options:
@@ -8455,6 +8470,9 @@ sources:
   - title: "Gaston Ramon"
     url: "https://fr.wikipedia.org/wiki/Gaston_Ramon"
     publisher: "Wikipédia"
+  - title: "Tétanos : la maladie"
+    url: "https://www.santepubliquefrance.fr/tetanos/la-maladie"
+    publisher: "Santé publique France"
 quiz:
   - question: "Où vivent les spores de la bactérie du tétanos ?"
     options:
@@ -8627,6 +8645,13 @@ sources:
   - title: "Zona"
     url: "https://fr.wikipedia.org/wiki/Zona"
     publisher: "Wikipédia"
+  - title: "Le zona est-il contagieux ?"
+    url: "https://www.sante.fr/decryptage/nos-reponses/le-zona-est-il-contagieux"
+    publisher: "Service public d'information en santé"
+  - title: "La régulation des cycles infectieux du virus de la varicelle et du zona"
+    url: "https://ipubli.inserm.fr/handle/10608/1093"
+    publisher: "médecine/sciences (Inserm)"
+    date: "1998"
 quiz:
   - question: "Combien de temps se passe-t-il en moyenne entre la contamination et les premiers boutons ?"
     options:
@@ -12011,6 +12036,13 @@ sources:
   - title: "Edward Jenner"
     url: "https://fr.wikipedia.org/wiki/Edward_Jenner"
     publisher: "Wikipédia"
+  - title: "Comment l'Inde a vaincu la variole"
+    url: "https://www.gavi.org/fr/vaccineswork/comment-inde-vaincu-variole"
+    publisher: "Gavi, l'Alliance du vaccin"
+    date: "2022"
+  - title: "Variole"
+    url: "https://www.universalis.fr/encyclopedie/variole/"
+    publisher: "Encyclopædia Universalis"
 quiz:
   - question: "D'où vient le mot « vaccin » ?"
     options:

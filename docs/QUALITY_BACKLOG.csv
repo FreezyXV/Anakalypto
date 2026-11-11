@@ -1,0 +1,713 @@
+domaine;slug;titre;mots;sources;wikipedia_seul;quiz;quiz_2_questions
+aeronautique;decrochage-aerodynamique;Le décrochage aérodynamique;322;2;non;2;oui
+aeronautique;winglets-trainee-induite;Les ailettes au bout des ailes;380;2;non;2;oui
+aeronautique;couche-limite-transition-laminaire-turbulent;La couche limite, la peau d'air invisible;377;2;non;2;oui
+aeronautique;vol-transsonique-onde-de-choc;Le mur du son et l'onde de choc;362;2;non;2;oui
+aeronautique;avion-a-hydrogene-etat-des-projets;L'avion à hydrogène;375;2;non;2;oui
+aeronautique;enquetes-de-securite-apres-accident;Les enquêtes après un accident d'avion;349;2;non;2;oui
+aeronautique;certification-avion-de-transport;Comment un avion est autorisé à voler;366;2;non;2;oui
+aeronautique;taux-de-dilution-turboreacteurs;Pourquoi les réacteurs sont devenus énormes;438;2;non;2;oui
+aeronautique;turbopropulseur-principe-domaine-emploi;Le turbopropulseur, la turbine qui fait tourner une hélice;369;2;non;2;oui
+aeronautique;propulsion-electrique-hybride-aeronautique;L'avion électrique et le poids des batteries;362;2;non;2;oui
+aeronautique;instruments-de-vol-primaires;Les six instruments qui permettent de voler dans les nuages;433;2;non;2;oui
+aeronautique;systemes-de-navigation-inertielle-et-satellitaire;Deux façons de savoir où l'on est en vol;395;2;non;2;oui
+aeronautique;controle-du-trafic-aerien-principes;Comment on range les avions dans le ciel;427;2;non;2;oui
+aeronautique;physique-portance-aerodynamique;Pourquoi une aile porte;386;2;non;2;oui
+aeronautique;trainee-aerodynamique-reduction;Tout ce qui freine un avion;380;2;non;2;oui
+aeronautique;statistiques-mondiales-securite-aerienne;Pourquoi l'avion est le transport le plus sûr;361;2;non;2;oui
+aeronautique;fonctionnement-turboreacteur;Comment fonctionne un réacteur d'avion;350;2;non;2;oui
+aeronautique;fonctionnement-moteurs-a-piston-aeronautiques;Les moteurs à piston des petits avions;361;2;non;2;oui
+aeronautique;carburants-aviation-durables-saf;Les carburants d'aviation durables;346;2;non;2;oui
+aeronautique;comment-une-soufflerie-permet-elle-de-tester-un-avion-sans-le-faire-voler;Comment une soufflerie permet-elle de tester un avion sans le faire voler ?;491;2;oui;4;non
+aeronautique;pourquoi-les-ailes-d-un-avion-changent-elles-de-forme-au-decollage-et-a-l-atterrissage;Pourquoi les ailes d'un avion changent-elles de forme au décollage et à l'atterrissage ?;478;3;oui;4;non
+aeronautique;comment-un-avion-de-ligne-peut-il-planer-quand-ses-moteurs-s-arretent;Comment un avion de ligne peut-il planer quand ses moteurs s'arrêtent ?;491;3;oui;4;non
+aeronautique;pourquoi-le-givre-est-il-dangereux-pour-les-ailes-d-un-avion;Pourquoi le givre est-il dangereux pour les ailes d'un avion ?;529;3;oui;4;non
+aeronautique;comment-deux-avions-evitent-ils-de-se-rentrer-dedans-en-plein-ciel;Comment deux avions évitent-ils de se rentrer dedans en plein ciel ?;489;3;oui;4;non
+aeronautique;comment-peut-on-suivre-sur-internet-les-avions-en-plein-vol;Comment peut-on suivre sur Internet les avions en plein vol ?;510;3;oui;4;non
+aeronautique;comment-un-pilote-peut-il-trouver-sa-route-sans-gps;Comment un pilote peut-il trouver sa route sans GPS ?;521;2;oui;4;non
+aeronautique;comment-un-avion-de-ligne-freine-t-il-apres-l-atterrissage;Comment un avion de ligne freine-t-il après l'atterrissage ?;467;2;oui;4;non
+aeronautique;pourquoi-le-moteur-d-un-petit-avion-a-t-il-deux-allumages;Pourquoi le moteur d'un petit avion a-t-il deux allumages ?;505;2;oui;4;non
+aeronautique;comment-un-avion-bombardier-d-eau-remplit-il-ses-reservoirs-sans-s-arreter;Comment un avion bombardier d'eau remplit-il ses réservoirs sans s'arrêter ?;473;3;oui;4;non
+aeronautique;pourquoi-un-avion-vole-portance-et-ecoulement-de-l-air;Pourquoi un avion vole, portance et écoulement de l'air;302;3;oui;4;non
+aeronautique;le-turboreacteur-a-double-flux-principe-de-fonctionnement;Le turboréacteur à double flux, principe de fonctionnement;329;3;oui;4;non
+aeronautique;comment-le-controle-aerien-gere-des-milliers-de-vols;Comment le contrôle aérien gère des milliers de vols;338;3;oui;4;non
+aeronautique;comment-les-pales-d-un-helicoptere-creent-la-portance;Comment les pales d'un hélicoptère créent la portance;296;3;oui;4;non
+aeronautique;le-mur-du-son-et-le-bang-supersonique;Le mur du son et le bang supersonique;348;3;oui;4;non
+aeronautique;le-planeur-voler-sans-moteur;Le planeur, voler sans moteur;331;3;oui;4;non
+aeronautique;comment-un-pilote-sait-il-ou-est-le-haut-dans-les-nuages;Comment un pilote sait-il où est le haut dans les nuages ?;309;3;oui;4;non
+aeronautique;les-winglets-petits-ailerons-contre-la-trainee;Les winglets, petits ailerons contre la traînée;298;3;oui;4;non
+alimentation;role-glucides-lipides-proteines;Glucides, lipides et protéines;373;2;non;2;oui
+alimentation;index-et-charge-glycemiques;L'index glycémique, une mesure mal comprise;396;2;non;2;oui
+alimentation;acides-gras-essentiels;Les acides gras essentiels;395;2;non;2;oui
+alimentation;cholesterol-ami-ou-ennemi;Le cholestérol, ami ou ennemi ?;373;2;non;2;oui
+alimentation;vitamines-mineraux-essentiels;Les vitamines et les minéraux;392;2;non;2;oui
+alimentation;carence-en-fer-dans-le-monde;Le manque de fer, première carence mondiale;404;2;non;2;oui
+alimentation;antioxydants-mythes-et-realites;Les antioxydants, mythes et réalités;381;2;non;2;oui
+alimentation;antinutriments-phytates-lectines;Les antinutriments, amis ou ennemis ?;381;2;non;2;oui
+alimentation;besoins-en-eau-et-hydratation;Combien faut-il boire par jour;368;2;non;2;oui
+alimentation;fibres-alimentaires-roles-et-apports;Les fibres, ce que le corps ne digère pas;356;2;non;2;oui
+alimentation;probiotiques-et-prebiotiques;Probiotiques et prébiotiques, quelle différence ?;381;3;non;2;oui
+alimentation;reperes-nutritionnels-anses;Les repères nutritionnels officiels;355;2;non;2;oui
+alimentation;nutri-score-principe-et-limites;Le Nutri-Score et ce qu'il ne dit pas;352;2;non;2;oui
+alimentation;lecture-etiquettes-alimentaires;Lecture des étiquettes alimentaires;455;2;non;2;oui
+alimentation;contaminants-alimentaires-normes-securite;Ce qui peut rendre un aliment dangereux;368;2;non;2;oui
+alimentation;chaine-du-froid-et-risque-microbiologique;La chaîne du froid;403;2;non;2;oui
+alimentation;intoxications-alimentaires;Les intoxications alimentaires;383;2;non;2;oui
+alimentation;pesticides-dans-alimentation;Les pesticides dans l'alimentation;430;2;non;2;oui
+alimentation;metaux-lourds-poissons;Les métaux lourds dans les poissons;360;2;non;2;oui
+alimentation;mycotoxines-moisissures-dangereuses;Les mycotoxines;406;2;non;2;oui
+alimentation;perturbateurs-endocriniens-alimentation;Les perturbateurs endocriniens dans l'alimentation;421;2;non;2;oui
+alimentation;hygiene-en-cuisine;L'hygiène en cuisine;432;2;non;2;oui
+alimentation;regimes-vegetariens-et-vegetaliens;Les régimes végétariens et végétaliens;394;2;non;2;oui
+alimentation;regime-mediterraneen;Le régime méditerranéen;383;2;non;2;oui
+alimentation;jeune-intermittent;Le jeûne intermittent;455;2;non;2;oui
+alimentation;alimentation-anti-inflammatoire;L'alimentation anti-inflammatoire;444;2;non;2;oui
+alimentation;regime-low-fodmap;Le régime low-FODMAP;356;2;non;2;oui
+alimentation;alimentation-du-sportif;L'alimentation du sportif;411;2;non;2;oui
+alimentation;nutrition-et-sommeil;Nutrition et sommeil;428;2;non;2;oui
+alimentation;alimentation-et-sante-mentale;Alimentation et santé mentale;388;2;non;2;oui
+alimentation;nutrition-et-vieillissement;Nutrition et vieillissement;357;2;non;2;oui
+alimentation;alimentation-pendant-la-grossesse;L'alimentation pendant la grossesse;384;2;non;2;oui
+alimentation;alimentation-des-enfants;L'alimentation des enfants;377;2;non;2;oui
+alimentation;allergies-et-intolerances-alimentaires;Les allergies et intolérances alimentaires;401;2;non;2;oui
+alimentation;techniques-conservation-aliments;Comment on conserve les aliments;381;2;non;2;oui
+alimentation;appertisation-et-sterilisation;La conserve, une invention de guerre;376;2;non;2;oui
+alimentation;pasteurisation-et-sterilisation;La pasteurisation et la stérilisation;394;2;non;2;oui
+alimentation;sechage-et-fumage;Le séchage et le fumage;377;2;non;2;oui
+alimentation;emballages-alimentaires;Les emballages alimentaires;348;2;non;2;oui
+alimentation;aliments-fermentes;Les aliments fermentés;402;2;non;2;oui
+alimentation;aliments-ultra-transformes-classification-nova;Les aliments ultra-transformés;394;2;non;2;oui
+alimentation;additifs-alimentaires;Les additifs alimentaires;476;2;non;2;oui
+alimentation;edulcorants;Les édulcorants;484;2;non;2;oui
+alimentation;huile-de-palme;L'huile de palme;443;4;non;2;oui
+alimentation;graisses-trans;Les graisses trans;355;2;non;2;oui
+alimentation;sucre-cache-comment-le-reperer;Le sucre caché;433;2;non;2;oui
+alimentation;sel-cache;Le sel caché;343;2;non;2;oui
+alimentation;complements-alimentaires;Les compléments alimentaires;448;2;non;2;oui
+alimentation;insectes-comestibles;Les insectes comestibles;397;2;non;2;oui
+alimentation;viande-cultivee;La viande cultivée;380;2;non;2;oui
+alimentation;algues-ressource-avenir;Les algues, une ressource d'avenir;424;2;non;2;oui
+alimentation;legumineuses-aliment-avenir;Les légumineuses, l'aliment d'avenir;378;2;non;2;oui
+alimentation;cuisson-et-nutriments;La cuisson et les nutriments;453;2;non;2;oui
+alimentation;empreinte-carbone-de-lalimentation;Ce que notre assiette coûte au climat;371;2;non;2;oui
+alimentation;eau-virtuelle;L'eau virtuelle;396;2;non;2;oui
+alimentation;agriculture-biologique;L'agriculture biologique;389;2;non;2;oui
+alimentation;circuits-courts;Les circuits courts;402;2;non;2;oui
+alimentation;saisonnalite-fruits-legumes;La saisonnalité;401;2;non;2;oui
+alimentation;gaspillage-alimentaire-mondial;Un tiers de la nourriture est jetée;393;2;non;2;oui
+alimentation;peche-durable;La pêche durable;376;2;non;2;oui
+alimentation;bien-etre-animal;Le bien-être animal et l'alimentation;359;2;non;2;oui
+alimentation;agriculture-regeneratrice;L'agriculture régénératrice;376;2;non;2;oui
+alimentation;nutrition-et-immunite;Nutrition et immunité;425;2;non;2;oui
+alimentation;nutrition-et-peau;Nutrition et peau;427;2;non;2;oui
+alimentation;nutrition-et-vue;Nutrition et vue;365;2;non;2;oui
+alimentation;nutrition-et-os;Nutrition et os;439;2;non;2;oui
+alimentation;nutrition-et-dents;Nutrition et dents;439;2;non;2;oui
+alimentation;nutrition-et-cheveux;Nutrition et cheveux;379;2;non;2;oui
+alimentation;gluten-mythes-et-realites;Le gluten, entre mythe et réalité;402;2;non;2;oui
+alimentation;lactose-et-intolerance;Le lactose et l'intolérance;413;4;non;2;oui
+alimentation;la-conservation-des-aliments-par-sechage-solaire;La conservation des aliments par séchage solaire;623;4;oui;3;non
+alimentation;pourquoi-a-t-on-soif;Pourquoi a-t-on soif ?;464;3;oui;4;non
+alimentation;pourquoi-certains-acides-amines-doivent-ils-venir-de-notre-assiette;Pourquoi certains acides aminés doivent-ils venir de notre assiette ?;454;3;oui;4;non
+alimentation;pourquoi-dit-on-que-les-carottes-font-voir-dans-le-noir;Pourquoi dit-on que les carottes font voir dans le noir ?;506;2;oui;4;non
+alimentation;pourquoi-un-aliment-decongele-devient-il-parfois-tout-mou;Pourquoi un aliment décongelé devient-il parfois tout mou ?;456;2;oui;4;non
+alimentation;la-conservation-par-le-sel-salaisons-et-saumures;La conservation par le sel, salaisons et saumures;593;4;oui;3;non
+alimentation;le-stockage-en-cave-des-legumes-racines;Le stockage en cave des légumes racines;643;4;oui;3;non
+alimentation;comment-le-miel-peut-il-se-conserver-presque-sans-fin;Comment le miel peut-il se conserver presque sans fin ?;375;3;oui;4;non
+alimentation;comment-le-vin-se-transforme-t-il-en-vinaigre;Comment le vin se transforme-t-il en vinaigre ?;459;2;oui;4;non
+alimentation;la-conservation-des-legumes-par-lactofermentation;La conservation des légumes par lactofermentation;651;4;oui;3;non
+alimentation;pourquoi-faut-il-preparer-le-manioc-avant-de-le-manger;Pourquoi faut-il préparer le manioc avant de le manger ?;507;3;oui;4;non
+alimentation;comment-un-grain-de-ble-devient-il-de-la-farine;Comment un grain de blé devient-il de la farine ?;503;3;oui;4;non
+alimentation;pourquoi-le-sel-et-le-sucre-conservent-les-aliments;Pourquoi le sel et le sucre conservent les aliments;315;3;oui;4;non
+alimentation;comment-des-bacteries-transforment-elles-le-lait-en-yaourt;Comment des bactéries transforment-elles le lait en yaourt ?;278;3;oui;4;non
+arts;diapason-a440-norme-internationale;Pourquoi le la fait 440 hertz;384;2;non;2;oui
+arts;gammes-et-temperament-egal;Pourquoi un piano est toujours un peu faux;429;2;non;2;oui
+arts;origines-theatre-grec-antique;Aux origines du théâtre;364;2;non;2;oui
+arts;naissance-du-ballet-classique;La naissance du ballet;383;2;non;2;oui
+arts;naissance-de-lopera-en-italie;L'invention de l'opéra;366;2;non;2;oui
+arts;histoire-de-lenregistrement-sonore;L'enregistrement du son;359;2;non;2;oui
+arts;perspective-lineaire-renaissance;La perspective, une invention du XVe siècle;377;2;non;2;oui
+arts;salvator-mundi-record-denchere;Le tableau à 450 millions de dollars;336;2;non;2;oui
+arts;invention-de-la-photographie;L'invention de la photographie;391;2;non;2;oui
+arts;premiere-projection-cinematographe-lumiere;La première séance de cinéma;338;2;non;2;oui
+arts;histoire-de-la-typographie;L'histoire des lettres que vous lisez;401;2;non;2;oui
+arts;ordres-architecturaux-grecs;Les trois ordres de l'architecture grecque;382;2;non;2;oui
+arts;art-gothique-et-croisee-dogives;Comment le gothique a fait entrer la lumière;415;2;non;2;oui
+arts;burj-khalifa-exemple-architectural;Le Burj Khalifa et la résistance au vent;365;2;non;2;oui
+arts;liste-du-patrimoine-mondial-unesco;La Liste du patrimoine mondial;333;2;non;2;oui
+arts;conservation-preventive-et-restauration;Conserver plutôt que restaurer;413;2;non;2;oui
+arts;patrimoine-culturel-immateriel;Le patrimoine qui ne se touche pas;379;2;non;2;oui
+arts;naissance-du-roman-moderne;Comment le roman est devenu un genre;417;2;non;2;oui
+arts;invention-de-limprimerie-a-caracteres-mobiles;L'imprimerie de Gutenberg;430;2;non;2;oui
+arts;pigments-fabrication-couleurs;Les pigments et la fabrication des couleurs;401;2;non;2;oui
+arts;comment-le-cinema-a-t-il-appris-a-parler;Comment le cinéma a-t-il appris à parler ?;452;3;oui;4;non
+arts;architecture-vernaculaire;L'architecture vernaculaire;378;2;non;2;oui
+arts;archives-bibliotheques-preservation;Les archives et bibliothèques de préservation;331;2;non;2;oui
+arts;savoir-faire-artisanaux;Les savoir-faire artisanaux;333;2;non;2;oui
+arts;fabriquer-papier;Fabriquer du papier;345;2;non;2;oui
+arts;encre-outils-ecriture;L'encre et les outils d'écriture;388;2;non;2;oui
+arts;comment-ecrit-on-de-la-musique-sur-une-partition;Comment écrit-on de la musique sur une partition ?;441;3;oui;4;non
+arts;comment-une-flute-transforme-t-elle-un-souffle-en-musique;Comment une flûte transforme-t-elle un souffle en musique ?;427;3;oui;4;non
+arts;comment-un-pictogramme-se-comprend-il-sans-un-seul-mot;Comment un pictogramme se comprend-il sans un seul mot ?;396;3;oui;4;non
+arts;comment-une-gravure-permet-elle-d-imprimer-la-meme-image-des-dizaines-de-fois;Comment une gravure permet-elle d'imprimer la même image des dizaines de fois ?;405;3;oui;4;non
+arts;comment-l-argile-devient-elle-dure-comme-de-la-pierre-dans-un-four;Comment l'argile devient-elle dure comme de la pierre dans un four ?;427;3;oui;4;non
+arts;comment-une-boite-percee-d-un-petit-trou-fabrique-t-elle-une-image;Comment une boîte percée d'un petit trou fabrique-t-elle une image ?;463;2;oui;4;non
+arts;comment-les-egyptiens-fabriquaient-ils-des-feuilles-avec-une-plante;Comment les Égyptiens fabriquaient-ils des feuilles avec une plante ?;406;2;oui;4;non
+arts;comment-un-arc-en-pierre-tient-il-debout-grace-a-son-propre-poids;Comment un arc en pierre tient-il debout grâce à son propre poids ?;413;3;oui;4;non
+arts;comment-fabriquait-on-un-livre-enlumine-au-moyen-age;Comment fabriquait-on un livre enluminé au Moyen Âge ?;424;3;oui;4;non
+arts;comment-la-typographie-est-elle-passee-du-plomb-a-l-ecran;Comment la typographie est-elle passée du plomb à l'écran ?;414;3;oui;4;non
+arts;pourquoi-deux-instruments-ne-sonnent-ils-pas-pareil-sur-la-meme-note;Pourquoi deux instruments ne sonnent-ils pas pareil sur la même note ?;395;3;oui;4;non
+arts;pourquoi-un-ministre-du-roi-a-t-il-transforme-une-teinturerie-en-manufacture-de-tapisseries;Pourquoi un ministre du roi a-t-il transformé une teinturerie en manufacture de tapisseries ?;349;3;oui;4;non
+arts;pourquoi-certains-pigments-des-maitres-anciens-etaient-ils-dangereux;Pourquoi certains pigments des maîtres anciens étaient-ils dangereux ?;395;3;oui;4;non
+arts;comment-decide-t-on-de-restaurer-une-uvre-sans-la-trahir;Comment décide-t-on de restaurer une œuvre sans la trahir ?;352;3;oui;4;non
+automobile;moteur-diesel-principe-et-declin;Le Diesel, du triomphe au recul;414;2;non;2;oui
+automobile;voiture-electrique;La voiture électrique;417;2;non;2;oui
+automobile;recharge-et-infrastructure-des-bornes;Recharger une voiture électrique;364;2;non;2;oui
+automobile;autonomie-reelle-et-cycle-dhomologation;Pourquoi l'autonomie annoncée n'est jamais celle qu'on obtient;379;6;non;2;oui
+automobile;motorisations-hybrides-architectures;Les motorisations hybrides;374;2;non;2;oui
+automobile;biocarburants-et-carburants-de-synthese;Biocarburants et carburants de synthèse;386;2;non;2;oui
+automobile;technologies-aide-conduite-efficacite;Ce que les aides à la conduite évitent vraiment;393;2;non;2;oui
+automobile;freinage-durgence-automatique;Le freinage d'urgence automatique;375;2;non;2;oui
+automobile;securite-des-vehicules-autonomes-waymo;Les robotaxis en service;345;2;non;2;oui
+automobile;niveaux-dautomatisation-de-la-conduite;Les six niveaux de conduite automatisée;420;3;non;2;oui
+automobile;ceinture-airbag-et-structures-deformables;Pourquoi les voitures sont faites pour se casser;416;2;non;2;oui
+automobile;production-automobile-mondiale;Où l'on fabrique les voitures;334;2;non;2;oui
+automobile;plateformes-modulaires-et-standardisation;Une plateforme, dix modèles;359;2;non;2;oui
+automobile;marche-automobile-mondial-regions;Le marché automobile mondial;320;2;non;2;oui
+automobile;marche-de-loccasion-et-valeur-residuelle;Le marché de l'occasion et la décote;362;2;non;2;oui
+automobile;normes-demissions-euro;Les normes d'émissions européennes;364;2;non;2;oui
+automobile;autopartage-et-covoiturage;Autopartage et covoiturage;370;2;non;2;oui
+automobile;analyse-du-cycle-de-vie-dune-automobile;L'empreinte d'une voiture sur toute sa vie;391;2;non;2;oui
+automobile;chimies-batteries-lithium-ion-automobile;Les batteries lithium-ion et leurs chimies;154;1;non;2;oui
+automobile;comment-la-chaine-de-montage-de-ford-a-t-elle-change-la-fabrication-des-voitures;Comment la chaîne de montage de Ford a-t-elle changé la fabrication des voitures ?;511;2;oui;4;non
+automobile;comment-transforme-t-on-de-l-huile-de-friture-usagee-en-carburant;Comment transforme-t-on de l'huile de friture usagée en carburant ?;502;3;oui;4;non
+automobile;le-systeme-d-allumage-electronique-moderne;L'allumage, bougies et bobines;595;4;oui;3;non
+automobile;comment-un-moteur-diesel-s-allume-t-il-sans-bougie-d-allumage;Comment un moteur diesel s'allume-t-il sans bougie d'allumage ?;503;2;oui;4;non
+automobile;le-systeme-de-depollution-des-moteurs-diesel-adblue;La dépollution diesel, du FAP à l'AdBlue;610;4;oui;3;non
+automobile;la-transmission-manuelle-contre-automatique;La boîte automatique, du convertisseur au double embrayage;586;4;oui;3;non
+automobile;comment-l-esp-empeche-t-il-une-voiture-de-partir-en-tete-a-queue;Comment l'ESP empêche-t-il une voiture de partir en tête-à-queue ?;496;2;oui;4;non
+automobile;pourquoi-l-avant-d-une-voiture-est-il-fait-pour-s-ecraser;Pourquoi l'avant d'une voiture est-il fait pour s'écraser ?;486;2;oui;4;non
+automobile;comment-une-ceinture-de-securite-se-bloque-t-elle-d-un-coup;Comment une ceinture de sécurité se bloque-t-elle d'un coup ?;496;2;oui;4;non
+automobile;comment-une-voiture-hybride-legere-aide-t-elle-son-moteur-a-essence;Comment une voiture hybride légère aide-t-elle son moteur à essence ?;498;2;oui;4;non
+automobile;voiture-thermique-chaine-complete;La voiture thermique de A à Z, essence ou diesel;846;4;oui;3;non
+automobile;alimentation-carburant-injection;L'alimentation en carburant et l'injection;591;4;oui;3;non
+automobile;vanne-egr-recirculation-gaz-echappement;La vanne EGR, recycler les gaz d'échappement;515;3;oui;3;non
+automobile;intercooler-circuit-admission;L'admission d'air, du filtre à l'intercooler;598;4;oui;3;non
+automobile;embrayage-volant-moteur-bimasse;L'embrayage et le volant moteur bimasse;630;3;oui;3;non
+automobile;boite-de-transfert-4x4;La boîte de transfert et les 4x4;608;4;oui;3;non
+automobile;train-roulant-rotules-silentblocs;Le train roulant, triangles, rotules et silentblocs;620;4;oui;3;non
+automobile;circuit-electrique-12v-batterie-alternateur-demarreur;Batterie, démarreur et alternateur, le circuit électrique d'une voiture;642;4;oui;3;non
+automobile;calculateur-moteur-capteurs;Le calculateur moteur et ses capteurs;649;4;oui;3;non
+automobile;pompes-voiture-thermique;Les pompes d'une voiture thermique;595;4;oui;3;non
+communication;histoire-du-web-utilisateurs;Le web, inventé dans un labo de physique;372;2;non;2;oui
+communication;web-ouvert-et-plateformes-fermees;Le web ouvert face aux plateformes fermées;368;2;non;2;oui
+communication;utilisateurs-reseaux-sociaux-monde;Cinq milliards de comptes sur les réseaux sociaux;331;2;non;2;oui
+communication;economie-de-lattention-et-fils-algorithmiques;Qui décide de ce que vous voyez;389;2;non;2;oui
+communication;moderation-des-contenus-en-ligne;Comment on modère des milliards de messages;424;2;non;2;oui
+communication;crise-economique-de-la-presse;L'argent de la presse s'est évaporé;384;2;non;2;oui
+communication;secret-des-sources-et-protection-des-journalistes;Pourquoi un journaliste ne révèle pas ses sources;388;2;non;2;oui
+communication;ampleur-desinformation-en-ligne;L'ampleur de la désinformation en ligne;336;2;non;2;oui
+communication;contenus-synthetiques-et-hypertrucages;Les hypertrucages et les images fabriquées;365;2;non;2;oui
+communication;education-aux-medias-et-a-linformation;Trois réflexes pour vérifier une information;376;2;non;2;oui
+communication;deploiement-5g-et-perspectives-6g;La 5G et ce qui vient après;325;2;non;2;oui
+communication;spectre-radioelectrique-et-attribution-des-frequences;Le partage des ondes radio;343;2;non;2;oui
+communication;constellations-satellites-orbite-basse;Les constellations de satellites en orbite basse;417;2;non;2;oui
+communication;communications-par-satellite-geostationnaire;Les satellites qui paraissent immobiles;382;2;non;2;oui
+communication;fibre-optique-et-reseaux-dacces;La fibre optique;369;2;non;2;oui
+communication;naissance-de-la-presse-periodique;La naissance de la presse;332;2;non;2;oui
+communication;agences-de-presse-et-circulation-de-linformation;Les agences de presse et la forme de la dépêche;367;2;non;2;oui
+communication;naissance-de-la-radiodiffusion;Quand la radio a inventé le direct;365;2;non;2;oui
+communication;television-du-direct-au-flux-a-la-demande;La fin de la télévision à heure fixe;352;2;non;2;oui
+communication;comment-les-journaux-a-petit-prix-ont-ils-rendu-la-presse-populaire;Comment les journaux à petit prix ont-ils rendu la presse populaire ?;574;3;oui;4;non
+communication;pourquoi-les-ondes-courtes-peuvent-elles-porter-la-radio-a-l-autre-bout-du-monde;Pourquoi les ondes courtes peuvent-elles porter la radio à l'autre bout du monde ?;538;3;oui;4;non
+communication;comment-un-poste-a-galene-capte-t-il-la-radio-sans-pile-ni-prise;Comment un poste à galène capte-t-il la radio sans pile ni prise ?;516;2;oui;4;non
+communication;la-radio-comme-outil-d-alerte-en-cas-de-catastrophe;La radio comme outil d'alerte en cas de catastrophe;569;4;oui;3;non
+communication;comprendre-la-difference-entre-correlation-et-causalite;Comprendre la différence entre corrélation et causalité;542;4;oui;3;non
+communication;comment-le-langage-html-construit-il-une-page-web;Comment le langage HTML construit-il une page web ?;551;2;oui;4;non
+communication;comment-un-moteur-de-recherche-trouve-t-il-une-page-parmi-toutes-celles-du-web;Comment un moteur de recherche trouve-t-il une page parmi toutes celles du web ?;389;3;oui;4;non
+communication;le-web-archivage-et-la-memoire-d-internet;Le web archivage et la mémoire d'Internet;553;4;oui;3;non
+communication;comment-la-lumiere-reste-t-elle-prisonniere-d-une-fibre-optique;Comment la lumière reste-t-elle prisonnière d'une fibre optique ?;412;3;oui;4;non
+communication;pourquoi-un-sms-est-il-limite-a-160-caracteres;Pourquoi un SMS est-il limité à 160 caractères ?;552;2;oui;4;non
+communication;comment-un-telephone-satellite-fonctionne-t-il-loin-de-toute-antenne-relais;Comment un téléphone satellite fonctionne-t-il loin de toute antenne relais ?;551;2;oui;4;non
+communication;comment-les-antennes-relais-permettent-elles-de-telephoner-en-se-deplacant;Comment les antennes relais permettent-elles de téléphoner en se déplaçant ?;537;2;oui;4;non
+communication;comment-un-satellite-de-telecommunication-relaie-t-il-la-television-d-un-continent-a-l-autre;Comment un satellite de télécommunication relaie-t-il la télévision d'un continent à l'autre ?;552;2;oui;4;non
+communication;comment-retrouver-d-ou-vient-une-image-trouvee-en-ligne;Comment retrouver d'où vient une image trouvée en ligne ?;339;4;oui;4;non
+communication;comment-la-tsf-a-t-elle-permis-d-envoyer-des-messages-sans-fil;Comment la TSF a-t-elle permis d'envoyer des messages sans fil ?;409;4;oui;4;non
+corps-humain;coeur-circulation-sanguine;Le cœur et la circulation du sang;387;2;non;2;oui
+corps-humain;pression-arterielle-et-hypertension;La tension artérielle, le tueur silencieux;370;2;non;2;oui
+corps-humain;systeme-nerveux-structure-fonctionnement;Le système nerveux;421;2;non;2;oui
+corps-humain;plasticite-cerebrale;Le cerveau se remodèle toute la vie;409;2;non;2;oui
+corps-humain;echanges-gazeux-et-respiration;Comment on respire;423;2;non;2;oui
+corps-humain;digestion-et-absorption-des-nutriments;La digestion, du repas à la cellule;389;2;non;2;oui
+corps-humain;microbiote-intestinal-physiologie;Le microbiote intestinal;371;4;non;2;oui
+corps-humain;antibiotiques-et-microbiote;Les antibiotiques abîment aussi les bonnes bactéries;380;2;non;2;oui
+corps-humain;immunite-innee-et-adaptative;Les deux systèmes de défense du corps;358;2;non;2;oui
+corps-humain;allergies-et-hypersensibilite;Les allergies;345;2;non;2;oui
+corps-humain;cycles-du-sommeil-et-fonction-reparatrice;Ce qui se passe pendant que vous dormez;436;2;non;2;oui
+corps-humain;obesite-dans-le-monde-oms;L'obésité dans le monde;375;2;non;2;oui
+corps-humain;diabete-de-type-2-mecanismes-et-prevention;Le diabète de type 2;391;2;non;2;oui
+corps-humain;resistance-aux-antimicrobiens;La résistance aux antibiotiques;356;2;non;2;oui
+corps-humain;transmission-des-maladies-infectieuses;Comment se transmettent les maladies infectieuses;397;2;non;2;oui
+corps-humain;depression-donnees-et-prise-en-charge;La dépression;385;2;non;2;oui
+corps-humain;principe-de-la-vaccination-et-immunite-collective;Comment marche un vaccin;409;2;non;2;oui
+corps-humain;vaccins-a-arn-messager;Les vaccins à ARN messager;414;3;non;2;oui
+corps-humain;depistage-organise-des-cancers;Le dépistage, utile mais pas sans risque;447;2;non;2;oui
+corps-humain;massage-cardiaque;Le massage cardiaque;562;3;non;2;oui
+corps-humain;arreter-hemorragie;Arrêter une hémorragie;353;2;non;2;oui
+corps-humain;comment-un-neurone-envoie-t-il-un-message-a-un-autre-neurone;Comment un neurone envoie-t-il un message à un autre neurone ?;355;4;oui;4;non
+corps-humain;degager-voies-respiratoires;Dégager les voies respiratoires;318;2;non;2;oui
+corps-humain;vitamines-carences;Les vitamines et les carences;335;2;non;2;oui
+corps-humain;besoins-nutritionnels-base;Les besoins nutritionnels de base;342;2;non;2;oui
+corps-humain;cholera-eau-contaminee;Le choléra et l'eau contaminée;363;2;non;2;oui
+corps-humain;maladies-transmises-eau-aliments;Les maladies transmises par l'eau et les aliments;342;2;non;2;oui
+corps-humain;stress-post-traumatique;Le stress post-traumatique;344;2;non;2;oui
+corps-humain;pourquoi-sent-on-son-coeur-battre-au-poignet;Pourquoi sent-on son cœur battre au poignet ?;491;2;oui;4;non
+corps-humain;pourquoi-la-main-se-retire-t-elle-toute-seule-d-une-surface-brulante;Pourquoi la main se retire-t-elle toute seule d'une surface brûlante ?;327;3;oui;4;non
+corps-humain;comment-le-corps-garde-t-il-une-temperature-proche-de-37-c;Comment le corps garde-t-il une température proche de 37 °C ?;461;2;oui;4;non
+corps-humain;comment-un-anticorps-reconnait-il-un-microbe;Comment un anticorps reconnaît-il un microbe ?;529;2;oui;4;non
+corps-humain;pourquoi-manque-t-on-de-souffle-en-altitude-alors-que-l-air-reste-le-meme;Pourquoi manque-t-on de souffle en altitude alors que l'air reste le même ?;389;3;oui;4;non
+corps-humain;pourquoi-parle-t-on-d-inflammation-de-bas-grade;Pourquoi parle-t-on d'inflammation de bas grade ?;356;3;oui;4;non
+corps-humain;pourquoi-manquer-de-sommeil-affaiblit-il-les-defenses-du-corps;Pourquoi manquer de sommeil affaiblit-il les défenses du corps ?;309;3;oui;4;non
+corps-humain;pourquoi-a-t-on-parfois-l-impression-de-tomber-juste-avant-de-s-endormir;Pourquoi a-t-on parfois l'impression de tomber juste avant de s'endormir ?;355;3;oui;4;non
+corps-humain;pourquoi-le-baillement-est-il-contagieux-et-est-ce-un-signe-d-empathie;Pourquoi le bâillement est-il contagieux, et est-ce un signe d'empathie ?;320;3;oui;4;non
+corps-humain;regle-des-trois-priorites-survie;Les priorités de survie, la règle des trois;567;4;oui;3;non
+droit;code-civil-des-francais-1804;Le Code civil de 1804;382;2;non;2;oui
+droit;principes-du-droit-penal;Ce que la loi interdit et pourquoi;378;2;non;2;oui
+droit;abolition-peine-de-mort-france-1981;L'abolition de la peine de mort en France;364;2;non;2;oui
+droit;presomption-dinnocence-et-charge-de-la-preuve;La présomption d'innocence;395;2;non;2;oui
+droit;constitution-du-4-octobre-1958;La Constitution de 1958;405;2;non;2;oui
+droit;cour-penale-internationale-statut-de-rome;La Cour pénale internationale;422;2;non;2;oui
+droit;principe-de-precaution;Le principe de précaution;392;2;non;2;oui
+droit;organisation-tribunaux-en-france;Comment sont organisés les tribunaux;398;2;non;2;oui
+droit;declaration-universelle-droits-homme-1948;La Déclaration universelle des droits de l'homme;443;2;non;2;oui
+droit;metiers-de-la-justice;Qui fait quoi dans un tribunal;385;2;non;2;oui
+droit;contrat-conditions-de-validite;Ce qui rend un contrat valable;412;2;non;2;oui
+droit;responsabilite-civile-et-reparation;Réparer le dommage que l'on cause;414;2;non;2;oui
+droit;prescription-en-matiere-penale;Pourquoi les infractions se prescrivent;379;2;non;2;oui
+droit;garde-a-vue-et-droits-de-la-defense;La garde à vue;378;2;non;2;oui
+droit;separation-des-pouvoirs;La séparation des pouvoirs;391;2;non;2;oui
+droit;liberte-dexpression-et-ses-limites;La liberté d'expression et ses limites;415;2;non;2;oui
+droit;contrat-de-travail-et-licenciement;Le contrat de travail;441;2;non;2;oui
+droit;droit-de-greve;Le droit de grève;395;2;non;2;oui
+droit;propriete-cadastre;La propriété et le cadastre;342;2;non;2;oui
+droit;mediation-arbitrage;La médiation et l'arbitrage;328;2;non;2;oui
+droit;ecrire-constitution;Écrire une constitution;350;2;non;2;oui
+droit;credit-consommation;Le crédit à la consommation;635;4;oui;3;non
+droit;le-contrat-d-assurance-principes-de-base;Le contrat d'assurance, principes de base;609;4;oui;3;non
+droit;pourquoi-une-loi-ne-peut-elle-pas-contredire-la-constitution;Pourquoi une loi ne peut-elle pas contredire la Constitution ?;468;3;oui;4;non
+droit;comment-des-citoyens-tires-au-sort-jugent-ils-les-crimes;Comment des citoyens tirés au sort jugent-ils les crimes ?;512;2;oui;4;non
+energie;consommation-mondiale-petrole-gaz;Pétrole et gaz, pourquoi ils sont si difficiles à remplacer;408;2;non;2;oui
+energie;charbon-premiere-source-delectricite;Le charbon, toujours première source d'électricité;370;2;non;2;oui
+energie;etat-du-parc-nucleaire-mondial;Le parc nucléaire mondial;413;2;non;2;oui
+energie;energies-renouvelables-panorama;Le panorama des énergies renouvelables;402;2;non;2;oui
+energie;record-mondial-installations-eoliennes-2024;L'éolien, année record en 2024;414;2;non;2;oui
+energie;hydroelectricite-et-stockage-par-pompage;L'hydroélectricité;373;2;non;2;oui
+energie;reseaux-electriques-intelligents-smart-grids;Les réseaux électriques intelligents;378;3;non;2;oui
+energie;prix-des-batteries-lithium-ion-2025;La chute du prix des batteries;386;2;non;2;oui
+energie;hydrogene-couleurs-et-usages;L'hydrogène, un vecteur et non une source;428;2;non;2;oui
+energie;efficacite-energetique-et-effet-rebond;L'efficacité énergétique et l'effet rebond;380;2;non;2;oui
+energie;ou-part-lenergie-dun-menage;Où part vraiment l'énergie d'un foyer;339;2;non;2;oui
+energie;raffinage-du-petrole;Le raffinage du pétrole;322;2;non;2;oui
+energie;dechets-radioactifs-et-stockage;Les déchets radioactifs;371;2;non;2;oui
+energie;fusion-nucleaire-etat-des-recherches;La fusion nucléaire;431;2;non;2;oui
+energie;comment-fonctionne-une-cellule-photovoltaique;Comment un panneau solaire produit de l'électricité;342;2;non;2;oui
+energie;solaire-thermique-et-concentration;Le solaire thermique et les centrales à concentration;403;2;non;2;oui
+energie;mix-electrique-et-intermittence;Le mix électrique et l'intermittence;395;2;non;2;oui
+energie;comment-fonctionne-une-batterie-lithium-ion;Comment fonctionne une batterie lithium-ion;407;2;non;2;oui
+energie;energie-primaire-et-energie-finale;Énergie primaire et énergie finale;362;2;non;2;oui
+energie;biogaz-gaz-sans-gisement;Le biogaz, du gaz sans gisement;686;4;oui;3;non
+energie;four-chauffe-eau-solaires;Le four et le chauffe-eau solaires;608;4;oui;3;non
+energie;construire-petite-eolienne;Construire une petite éolienne;633;4;oui;3;non
+energie;moulin-eau;Le moulin à eau;606;3;non;2;oui
+energie;microcentrale-hydroelectrique;La microcentrale hydroélectrique;350;2;non;2;oui
+energie;produire-electricite-avec-aimant;Produire de l'électricité avec un aimant;388;2;non;2;oui
+energie;batterie-plomb;La batterie au plomb;345;2;non;2;oui
+energie;electrolyse-eau;L'électrolyse de l'eau;336;2;non;2;oui
+energie;isoler-batiment;Isoler un bâtiment;354;2;non;2;oui
+energie;comment-une-led-fabrique-t-elle-de-la-lumiere-sans-chauffer-de-filament;Comment une LED fabrique-t-elle de la lumière sans chauffer de filament ?;383;3;oui;4;non
+energie;cogeneration;La cogénération;342;2;non;2;oui
+energie;bois-chauffage;Le bois de chauffage;370;2;non;2;oui
+energie;comment-un-double-vitrage-garde-t-il-la-chaleur-dans-la-maison;Comment un double vitrage garde-t-il la chaleur dans la maison ?;501;2;oui;4;non
+energie;pourquoi-une-maison-aux-murs-epais-de-pierre-ou-de-terre-reste-t-elle-fraiche-en-ete;Pourquoi une maison aux murs épais de pierre ou de terre reste-t-elle fraîche en été ?;487;3;oui;4;non
+energie;pourquoi-trouve-t-on-du-petrole-dans-nos-sacs-nos-vetements-et-nos-medicaments;Pourquoi trouve-t-on du pétrole dans nos sacs, nos vêtements et nos médicaments ?;464;3;oui;4;non
+energie;pourquoi-y-a-t-il-de-la-radioactivite-naturelle-tout-autour-de-nous;Pourquoi y a-t-il de la radioactivité naturelle tout autour de nous ?;474;2;oui;4;non
+energie;les-hydroliennes-l-eolien-sous-marin;Les hydroliennes et l'énergie des marées;559;4;oui;3;non
+energie;comment-volta-a-t-il-invente-la-premiere-pile-electrique;Comment Volta a-t-il inventé la première pile électrique ?;440;2;oui;4;non
+energie;pourquoi-une-batterie-s-use-avec-le-temps;Pourquoi une batterie s'use avec le temps;655;4;oui;3;non
+energie;la-molecule-d-hydrogene-et-ses-proprietes-energetiques;La molécule d'hydrogène et ses propriétés énergétiques;537;4;oui;3;non
+energie;pourquoi-un-pays-entier-peut-il-se-retrouver-d-un-coup-sans-electricite;Pourquoi un pays entier peut-il se retrouver d'un coup sans électricité ?;479;3;oui;4;non
+energie;comment-stocker-de-l-electricite-dans-de-l-air-comprime;Comment stocker de l'électricité dans de l'air comprimé ?;375;3;oui;4;non
+energie;comment-une-mega-batterie-aide-t-elle-a-stabiliser-le-reseau-electrique;Comment une méga-batterie aide-t-elle à stabiliser le réseau électrique ?;431;4;oui;4;non
+energie;comment-une-batterie-peut-elle-stocker-de-l-energie-dans-des-reservoirs-de-liquide;Comment une batterie peut-elle stocker de l'énergie dans des réservoirs de liquide ?;364;4;oui;4;non
+energie;geothermie-chaleur-de-la-terre;La géothermie, la chaleur de la Terre;629;4;oui;3;non
+environnement;concentration-record-de-co2-dans-latmosphere;L'effet de serre, comment ça marche;463;2;non;2;oui
+environnement;changement-climatique-budget-carbone;Le budget carbone;393;2;non;2;oui
+environnement;adaptation-au-changement-climatique;S'adapter à ce qui est déjà engagé;370;2;non;2;oui
+environnement;liste-rouge-uicn-2025-biodiversite;La liste rouge des espèces menacées;390;2;non;2;oui
+environnement;services-ecosystemiques-biodiversite;Ce que la nature nous fournit gratuitement;398;2;non;2;oui
+environnement;forets-du-monde-et-deforestation;Les forêts du monde;427;2;non;2;oui
+environnement;oceans-et-absorption-du-carbone;L'océan, régulateur du climat;395;2;non;2;oui
+environnement;pollution-de-lair-ambiant-risque-sanitaire;La pollution de l'air;444;2;non;2;oui
+environnement;stress-hydrique-mondial;Le stress hydrique dans le monde;394;2;non;2;oui
+environnement;dechets-et-limites-du-recyclage;Les déchets et le recyclage;386;2;non;2;oui
+environnement;haies-bocage;Les haies et le bocage;663;4;oui;3;non
+environnement;gerer-durablement-foret;Gérer durablement une forêt;678;4;oui;3;non
+environnement;rendre-eau-potable;Rendre l'eau potable;580;3;non;2;oui
+environnement;recuperer-eau-pluie;Récupérer l'eau de pluie;347;2;non;2;oui
+environnement;reparer-plutot-jeter;Réparer plutôt que jeter;359;2;non;2;oui
+environnement;comment-les-mangroves-protegent-elles-les-cotes-des-vagues;Comment les mangroves protègent-elles les côtes des vagues ?;481;2;oui;4;non
+environnement;comment-les-vers-de-terre-rendent-ils-le-sol-fertile;Comment les vers de terre rendent-ils le sol fertile ?;502;2;oui;4;non
+environnement;comment-lutte-t-on-contre-un-feu-de-foret;Comment lutte-t-on contre un feu de forêt ?;534;3;oui;4;non
+environnement;pourquoi-un-trou-s-est-il-forme-dans-la-couche-d-ozone;Pourquoi un trou s'est-il formé dans la couche d'ozone ?;537;3;oui;4;non
+environnement;comment-les-arbres-rafraichissent-ils-une-ville-en-ete;Comment les arbres rafraîchissent-ils une ville en été ?;507;2;oui;4;non
+environnement;pourquoi-la-meteo-et-le-climat-ne-sont-ils-pas-la-meme-chose;Pourquoi la météo et le climat ne sont-ils pas la même chose ?;452;3;oui;4;non
+environnement;comment-un-vieux-journal-redevient-il-du-papier-neuf;Comment un vieux journal redevient-il du papier neuf ?;501;2;oui;4;non
+environnement;comment-des-epluchures-se-transforment-elles-en-compost;Comment des épluchures se transforment-elles en compost ?;501;2;oui;4;non
+environnement;pourquoi-des-algues-vertes-envahissent-elles-certaines-plages-de-bretagne;Pourquoi des algues vertes envahissent-elles certaines plages de Bretagne ?;546;3;oui;4;non
+environnement;comment-se-forme-une-nappe-d-eau-sous-nos-pieds;Comment se forme une nappe d'eau sous nos pieds ?;480;3;oui;4;non
+environnement;pourquoi-les-abeilles-sauvages-et-autres-pollinisateurs-sont-ils-precieux-pour-nos-cultures;Pourquoi les abeilles sauvages et autres pollinisateurs sont-ils précieux pour nos cultures ?;375;3;oui;4;non
+environnement;pourquoi-dit-on-que-les-zones-humides-sont-des-eponges-naturelles;Pourquoi dit-on que les zones humides sont des éponges naturelles ?;329;3;oui;4;non
+environnement;assainissement-autonome-toilettes-seches;L'assainissement autonome et les toilettes sèches;607;4;oui;3;non
+espace;huit-planetes-systeme-solaire;Les huit planètes du Système solaire;405;2;non;2;oui
+espace;la-lune-formation-et-marees;La Lune, sa formation et les marées;436;2;non;2;oui
+espace;asteroides-cometes-et-meteorites;Astéroïdes, comètes et météorites;427;2;non;2;oui
+espace;formation-stellaire-galaxies-lointaines-jwst;Comment naissent et meurent les étoiles;443;2;non;2;oui
+espace;gwtc-5-catalogue-ondes-gravitationnelles;Les ondes gravitationnelles;431;2;non;2;oui
+espace;trous-noirs-ce-quon-en-sait;Les trous noirs;454;2;non;2;oui
+espace;telescope-spatial-james-webb;Le télescope spatial James Webb;370;2;non;2;oui
+espace;pourquoi-observer-dans-linfrarouge;Pourquoi observer dans l'infrarouge;408;2;non;2;oui
+espace;taille-des-telescopes-et-resolution;À quoi sert la taille d'un télescope;362;2;non;2;oui
+espace;artemis-ii-retour-vers-la-lune;Artemis II, le retour vers la Lune;394;2;non;2;oui
+espace;mettre-un-objet-en-orbite;Comment on met un objet en orbite;417;2;non;2;oui
+espace;calendrier-lunaire;Le calendrier lunaire;370;2;non;2;oui
+espace;reperer-grace-etoiles;Se repérer grâce aux étoiles;355;2;non;2;oui
+espace;fabriquer-lunette-astronomique;Fabriquer une lunette astronomique;346;2;non;2;oui
+espace;comment-une-tempete-solaire-peut-elle-allumer-des-aurores-et-couper-le-courant;Comment une tempête solaire peut-elle allumer des aurores et couper le courant ?;473;3;oui;4;non
+espace;l-etoile-polaire-et-son-role-dans-l-orientation;L'étoile Polaire et l'orientation sans boussole;618;4;oui;3;non
+espace;pourquoi-voit-on-beaucoup-moins-d-etoiles-en-ville-qu-a-la-campagne;Pourquoi voit-on beaucoup moins d'étoiles en ville qu'à la campagne ?;519;2;oui;4;non
+espace;pourquoi-la-lune-change-t-elle-de-forme-au-fil-du-mois;Pourquoi la Lune change-t-elle de forme au fil du mois ?;475;2;oui;4;non
+espace;comment-sait-on-que-l-univers-grandit;Comment sait-on que l'Univers grandit ?;446;2;oui;4;non
+espace;pourquoi-la-queue-d-une-comete-pointe-t-elle-toujours-a-l-oppose-du-soleil;Pourquoi la queue d'une comète pointe-t-elle toujours à l'opposé du Soleil ?;472;2;oui;4;non
+espace;pourquoi-venus-est-elle-la-planete-la-plus-chaude-du-systeme-solaire;Pourquoi Vénus est-elle la planète la plus chaude du Système solaire ?;454;2;oui;4;non
+espace;comment-nait-une-etoile-a-partir-d-un-nuage-de-gaz;Comment naît une étoile à partir d'un nuage de gaz ?;351;3;oui;4;non
+espace;pourquoi-n-y-a-t-il-pas-une-eclipse-a-chaque-nouvelle-lune;Pourquoi n'y a-t-il pas une éclipse à chaque nouvelle Lune ?;414;3;oui;4;non
+espace;pourquoi-les-astronautes-flottent-ils-dans-la-station-spatiale;Pourquoi les astronautes flottent-ils dans la station spatiale ?;339;3;oui;4;non
+espace;comment-un-amas-de-galaxies-peut-il-agir-comme-une-loupe-cosmique;Comment un amas de galaxies peut-il agir comme une loupe cosmique ?;385;3;oui;4;non
+geographie;formation-chaines-de-montagnes;La formation des montagnes;379;2;non;2;oui
+geographie;classification-climats-mondiaux-koppen;Les grands types de climats;466;2;non;2;oui
+geographie;pourquoi-il-pleut-ici-et-pas-la;Pourquoi il pleut ici et pas là;397;2;non;2;oui
+geographie;huit-milliards-dhabitants;Huit milliards d'habitants;407;2;non;2;oui
+geographie;urbanisation-mondiale-onu;L'urbanisation du monde;413;2;non;2;oui
+geographie;migrations-realites-et-idees-recues;Les migrations, chiffres et idées reçues;388;2;non;2;oui
+geographie;differend-frontalier-essequibo-guyana-venezuela;Comment se dessinent les frontières;439;2;non;2;oui
+geographie;repartition-mondiale-lithium-ressource-strategique;Les ressources stratégiques;408;2;non;2;oui
+geographie;detroits-et-routes-maritimes;Les détroits et les routes maritimes;426;2;non;2;oui
+geographie;prevoir-temps-sans-instruments;Prévoir le temps sans instruments;383;2;non;2;oui
+geographie;calendrier-saisons-cultures;Le calendrier des saisons et des cultures;374;2;non;2;oui
+geographie;organiser-village-autonome;Organiser un village autonome;327;2;non;2;oui
+geographie;ressources-territoire;Les ressources d'un territoire;363;2;non;2;oui
+geographie;naviguer-sans-gps;Naviguer sans GPS;351;2;non;2;oui
+geographie;pourquoi-la-mousson-apporte-t-elle-des-pluies-torrentielles-en-inde-chaque-ete;Pourquoi la mousson apporte-t-elle des pluies torrentielles en Inde chaque été ?;530;2;oui;4;non
+geographie;pourquoi-la-pression-de-l-air-annonce-t-elle-la-pluie-ou-le-beau-temps;Pourquoi la pression de l'air annonce-t-elle la pluie ou le beau temps ?;507;3;oui;4;non
+geographie;comment-la-meme-eau-voyage-t-elle-sans-fin-entre-la-mer-le-ciel-et-la-terre;Comment la même eau voyage-t-elle sans fin entre la mer, le ciel et la terre ?;484;2;oui;4;non
+geographie;comment-un-fleuve-fabrique-t-il-de-nouvelles-terres-a-son-embouchure;Comment un fleuve fabrique-t-il de nouvelles terres à son embouchure ?;544;3;oui;4;non
+geographie;comment-les-terrasses-permettent-elles-de-cultiver-sur-une-montagne;Comment les terrasses permettent-elles de cultiver sur une montagne ?;473;3;oui;4;non
+geographie;comment-le-canal-de-panama-fait-il-passer-les-navires-d-un-ocean-a-l-autre;Comment le canal de Panama fait-il passer les navires d'un océan à l'autre ?;562;2;oui;4;non
+geographie;comment-partage-t-on-la-mer-entre-les-pays;Comment partage-t-on la mer entre les pays ?;517;2;oui;4;non
+geographie;ou-va-la-pluie-qui-tombe-de-chaque-cote-d-une-crete;Où va la pluie qui tombe de chaque côté d'une crête ?;384;3;oui;4;non
+geographie;quel-est-le-plus-grand-desert-du-monde-et-est-ce-vraiment-le-sahara;Quel est le plus grand désert du monde, et est-ce vraiment le Sahara ?;377;3;oui;4;non
+geographie;pourquoi-la-terre-est-elle-decoupee-en-24-fuseaux-horaires;Pourquoi la Terre est-elle découpée en 24 fuseaux horaires ?;342;3;oui;4;non
+industries;lacier-bas-carbone-reduction-directe-hydrogene;L'acier sans charbon;420;2;non;2;oui
+industries;chimie-industrielle-mondiale-enjeux;La chimie industrielle;434;2;non;2;oui
+industries;automatisation-industrielle-robotique-production;Les robots dans les usines;409;2;non;2;oui
+industries;chaine-logistique-mondiale-perturbations;La chaîne logistique mondiale;453;2;non;2;oui
+industries;normalisation-et-controle-qualite;Pourquoi une vis se visse partout pareil;404;2;non;2;oui
+industries;internet-des-objets-industriel;Les capteurs connectés dans l'industrie;415;2;non;2;oui
+industries;jumeau-numerique-applications-industrielles;Les jumeaux numériques;394;2;non;2;oui
+industries;mise-en-forme-des-materiaux;Comment on met la matière en forme;414;2;non;2;oui
+industries;composites-et-materiaux-combines;Les matériaux composites;462;2;non;2;oui
+industries;minerai-fer-bas-fourneau;"""Du minerai au fer, le bas fourneau""";626;3;non;2;oui
+industries;forge-travail-fer;La forge et le travail du fer;393;2;non;2;oui
+industries;trempe-revenu;La trempe et le revenu;394;2;non;2;oui
+industries;soude-potasse;La soude et la potasse;358;2;non;2;oui
+industries;stocker-conserver-marchandises;Stocker et conserver les marchandises;334;2;non;2;oui
+industries;mesurer-avec-precision;Mesurer avec précision;332;2;non;2;oui
+industries;fonderie;La fonderie;340;2;non;2;oui
+industries;soudage;Le soudage;377;2;non;2;oui
+industries;filer-tisser;Filer et tisser;370;2;non;2;oui
+industries;comment-fabrique-t-on-des-engrais-avec-l-azote-de-l-air;Comment fabrique-t-on des engrais avec l'azote de l'air ?;479;2;oui;4;non
+industries;les-catalyseurs-accelerer-une-reaction-chimique;Les catalyseurs, accélérer une réaction chimique;512;4;oui;3;non
+industries;pourquoi-la-fonte-le-fer-et-l-acier-ne-se-comportent-ils-pas-de-la-meme-facon;Pourquoi la fonte, le fer et l'acier ne se comportent-ils pas de la même façon ?;501;3;oui;4;non
+industries;comment-une-caisse-lit-elle-un-code-barres;Comment une caisse lit-elle un code-barres ?;366;3;oui;4;non
+industries;comment-la-chaine-du-froid-garde-t-elle-les-aliments-frais-pendant-leur-voyage;Comment la chaîne du froid garde-t-elle les aliments frais pendant leur voyage ?;481;2;oui;4;non
+industries;pourquoi-la-france-a-t-elle-invente-le-metre;Pourquoi la France a-t-elle inventé le mètre ?;441;2;oui;4;non
+industries;pourquoi-les-pieces-interchangeables-ont-elles-change-la-fabrication-des-objets;Pourquoi les pièces interchangeables ont-elles changé la fabrication des objets ?;474;2;oui;4;non
+industries;comment-le-soufre-a-t-il-rendu-le-caoutchouc-solide-et-elastique;Comment le soufre a-t-il rendu le caoutchouc solide et élastique ?;453;2;oui;4;non
+industries;pourquoi-certains-plastiques-fondent-ils-a-la-chaleur-et-d-autres-non;Pourquoi certains plastiques fondent-ils à la chaleur et d'autres non ?;474;3;oui;4;non
+industries;comment-un-tour-et-une-fraiseuse-taillent-ils-une-piece-dans-un-bloc-de-metal;Comment un tour et une fraiseuse taillent-ils une pièce dans un bloc de métal ?;499;3;oui;4;non
+industries;comment-une-camera-repere-t-elle-une-piece-defectueuse-sur-une-chaine-de-production;Comment une caméra repère-t-elle une pièce défectueuse sur une chaîne de production ?;497;2;oui;4;non
+industries;comment-des-chariots-sans-conducteur-trouvent-ils-leur-chemin-dans-une-usine;Comment des chariots sans conducteur trouvent-ils leur chemin dans une usine ?;454;2;oui;4;non
+industries;comment-fabrique-t-on-un-panneau-solaire-en-silicium;Comment fabrique-t-on un panneau solaire en silicium ?;314;3;oui;4;non
+industries;comment-une-simple-boite-en-acier-a-t-elle-change-la-facon-dont-voyagent-les-objets;Comment une simple boîte en acier a-t-elle changé la façon dont voyagent les objets ?;343;3;oui;4;non
+industries;pourquoi-le-monde-a-t-il-besoin-de-normes-communes-comme-celles-de-l-iso;Pourquoi le monde a-t-il besoin de normes communes comme celles de l'ISO ?;335;3;oui;4;non
+industries;pourquoi-la-france-cherche-t-elle-a-reindustrialiser-et-quel-role-jouent-les-robots;Pourquoi la France cherche-t-elle à réindustrialiser, et quel rôle jouent les robots ?;328;3;oui;4;non
+industries;comment-fabrique-t-on-de-l-acier-avec-un-haut-fourneau-ou-un-four-electrique;Comment fabrique-t-on de l'acier, avec un haut-fourneau ou un four électrique ?;364;3;oui;4;non
+industries;comment-une-imprimante-3d-peut-elle-fabriquer-une-piece-detachee-sur-place;Comment une imprimante 3D peut-elle fabriquer une pièce détachée sur place ?;400;3;oui;4;non
+industries;pourquoi-l-europe-construit-elle-des-usines-geantes-de-batteries-et-reussissent-elles;Pourquoi l'Europe construit-elle des usines géantes de batteries, et réussissent-elles ?;348;3;oui;4;non
+industries;qu-est-ce-qu-un-fab-lab-et-que-peut-on-y-fabriquer;Qu'est-ce qu'un fab lab, et que peut-on y fabriquer ?;381;4;oui;4;non
+informatique;gravure-2-nanometres-tsmc;La gravure en deux nanomètres;458;2;non;2;oui
+informatique;comment-fonctionne-un-processeur;Comment fonctionne un processeur;403;2;non;2;oui
+informatique;ram-stockage-ssd-evolution;Mémoire vive et stockage;373;2;non;2;oui
+informatique;comment-un-ecran-affiche-une-image;Comment un écran affiche une image;383;2;non;2;oui
+informatique;histoire-principes-systemes-exploitation;À quoi sert un système d'exploitation;361;2;non;2;oui
+informatique;histoire-principes-langages-programmation;Les langages de programmation;428;2;non;2;oui
+informatique;algorithmes-et-complexite;Les algorithmes et leur efficacité;406;2;non;2;oui
+informatique;fonctionnement-internet-acces-mondial;Comment fonctionne internet;369;2;non;2;oui
+informatique;ampleur-cyberattaques-mondiales;Les cyberattaques;403;2;non;2;oui
+informatique;chiffrement-et-vie-privee;Le chiffrement;492;2;non;2;oui
+informatique;representation-et-compression-des-donnees;Comment on compresse une image ou un son;448;2;non;2;oui
+informatique;bases-de-donnees-et-index;Les bases de données;408;2;non;2;oui
+informatique;comment-un-transistor-minuscule-interrupteur-fait-il-fonctionner-un-ordinateur;Comment un transistor, minuscule interrupteur, fait-il fonctionner un ordinateur ?;331;3;oui;4;non
+informatique;loi-moore;La loi de Moore;543;4;oui;3;non
+informatique;cartes-graphiques;Les cartes graphiques;583;4;oui;3;non
+informatique;fabrique-puce;Comment on fabrique une puce;732;4;oui;3;non
+informatique;tsmc-geopolitique-puces;TSMC et la géopolitique des puces;633;4;oui;3;non
+informatique;conserver-donnees-long-terme;Conserver les données sur le long terme;374;2;non;2;oui
+informatique;remettre-marche-vieil-ordinateur;Remettre en marche un vieil ordinateur;360;2;non;2;oui
+informatique;reseaux-locaux-sans-internet;Les réseaux locaux sans internet;354;2;non;2;oui
+informatique;comment-un-ordinateur-peut-il-tout-ecrire-avec-seulement-des-0-et-des-1;Comment un ordinateur peut-il tout écrire avec seulement des 0 et des 1 ?;521;2;oui;4;non
+informatique;comment-un-programme-decide-t-il-quoi-faire-grace-aux-conditions-et-aux-boucles;Comment un programme décide-t-il quoi faire grâce aux conditions et aux boucles ?;503;2;oui;4;non
+informatique;comment-un-ordinateur-demarre-t-il-quand-on-appuie-sur-le-bouton;Comment un ordinateur démarre-t-il quand on appuie sur le bouton ?;466;2;oui;4;non
+informatique;comment-une-imprimante-depose-t-elle-l-encre-exactement-au-bon-endroit;Comment une imprimante dépose-t-elle l'encre exactement au bon endroit ?;512;3;oui;4;non
+informatique;les-processeurs-specialises-pour-l-intelligence-artificielle;Les processeurs spécialisés pour l'intelligence artificielle;585;4;oui;3;non
+informatique;comment-le-chiffre-de-vigenere-cachait-il-un-message-mieux-que-celui-de-cesar;Comment le chiffre de Vigenère cachait-il un message mieux que celui de César ?;548;3;oui;4;non
+informatique;comment-une-chaine-de-blocs-rend-elle-le-passe-presque-impossible-a-modifier;Comment une chaîne de blocs rend-elle le passé presque impossible à modifier ?;337;3;oui;4;non
+informatique;comment-un-antivirus-repere-t-il-un-programme-malveillant;Comment un antivirus repère-t-il un programme malveillant ?;504;2;oui;4;non
+informatique;comment-internet-arrive-t-il-par-satellite-dans-les-endroits-isoles;Comment Internet arrive-t-il par satellite dans les endroits isolés ?;526;3;oui;4;non
+informatique;comment-un-ordinateur-range-t-il-une-liste-dans-l-ordre;Comment un ordinateur range-t-il une liste dans l'ordre ?;538;3;oui;4;non
+informatique;les-langages-de-programmation-compiles-et-interpretes-une-distinction-fondamentale;Les langages de programmation compilés et interprétés, une distinction fondamentale;532;4;oui;3;non
+informatique;le-role-du-noyau-dans-l-architecture-d-un-systeme-d-exploitation;Le rôle du noyau dans l'architecture d'un système d'exploitation;557;4;oui;3;non
+informatique;pourquoi-un-ordinateur-a-t-il-besoin-d-un-ventilateur;Pourquoi un ordinateur a-t-il besoin d'un ventilateur ?;479;3;oui;4;non
+informatique;comment-rsa-permet-il-d-echanger-un-secret-sans-s-etre-vu-avant;Comment RSA permet-il d'échanger un secret sans s'être vu avant ?;420;4;oui;4;non
+informatique;quelle-difference-y-a-t-il-entre-un-ssd-et-un-disque-dur;Quelle différence y a-t-il entre un SSD et un disque dur ?;331;4;oui;4;non
+informatique;qu-est-ce-qu-un-pixel-et-comment-une-image-est-elle-faite-de-pixels;Qu'est-ce qu'un pixel, et comment une image est-elle faite de pixels ?;353;3;oui;4;non
+informatique;que-change-le-fait-qu-une-architecture-de-processeur-soit-libre-comme-risc-v;Que change le fait qu'une architecture de processeur soit libre, comme RISC-V ?;371;3;oui;4;non
+informatique;comment-fonctionne-un-processeur-quantique-a-qubits-supraconducteurs;Comment fonctionne un processeur quantique à qubits supraconducteurs ?;349;3;oui;4;non
+intelligence-artificielle;principes-apprentissage-profond;Comment une machine apprend;430;2;non;2;oui
+intelligence-artificielle;apprentissage-par-renforcement-alphago;Apprendre en jouant des millions de parties;455;2;non;2;oui
+intelligence-artificielle;donnees-dentrainement-et-surapprentissage;Les données d'entraînement;399;2;non;2;oui
+intelligence-artificielle;transformeurs-architecture-ia;Les transformeurs;398;2;non;2;oui
+intelligence-artificielle;gpt-4o-ia-generative-multimodale;L'IA générative multimodale;389;2;non;2;oui
+intelligence-artificielle;limites-des-modeles-de-langage;Pourquoi une IA invente des choses fausses;422;2;non;2;oui
+intelligence-artificielle;biais-algorithmiques-exemples-documentes;Les biais des algorithmes;402;2;non;2;oui
+intelligence-artificielle;reglement-europeen-sur-lia-ai-act;Le règlement européen sur l'IA;411;2;non;2;oui
+intelligence-artificielle;ia-et-transformation-du-travail;Ce que l'IA change dans le travail;395;2;non;2;oui
+intelligence-artificielle;faire-tourner-ia-ordinateur;Faire tourner une IA sur son ordinateur;343;2;non;2;oui
+intelligence-artificielle;pourquoi-une-ia-doit-elle-parfois-tenter-des-choix-au-hasard-pour-mieux-apprendre;Pourquoi une IA doit-elle parfois tenter des choix au hasard pour mieux apprendre ?;478;3;oui;4;non
+intelligence-artificielle;comment-un-reseau-de-neurones-convolutif-repere-t-il-les-formes-dans-une-image;Comment un réseau de neurones convolutif repère-t-il les formes dans une image ?;501;2;oui;4;non
+intelligence-artificielle;comment-un-reseau-de-neurones-recurrent-se-souvient-il-du-debut-d-une-phrase;Comment un réseau de neurones récurrent se souvient-il du début d'une phrase ?;511;2;oui;4;non
+intelligence-artificielle;comment-l-intelligence-artificielle-aide-t-elle-les-personnes-aveugles-ou-sourdes;Comment l'intelligence artificielle aide-t-elle les personnes aveugles ou sourdes ?;487;3;oui;4;non
+intelligence-artificielle;comment-une-ia-fabrique-t-elle-une-image-a-partir-d-une-simple-phrase;Comment une IA fabrique-t-elle une image à partir d'une simple phrase ?;474;3;oui;4;non
+intelligence-artificielle;comment-fabrique-t-on-un-deepfake-et-pourquoi-faut-il-s-en-mefier;Comment fabrique-t-on un deepfake, et pourquoi faut-il s'en méfier ?;521;3;oui;4;non
+intelligence-artificielle;pourquoi-une-ia-conversationnelle-ne-connait-elle-pas-les-dernieres-nouvelles;Pourquoi une IA conversationnelle ne connaît-elle pas les dernières nouvelles ?;502;3;oui;4;non
+intelligence-artificielle;comment-fonctionnaient-les-systemes-experts-ces-ia-faites-de-regles;Comment fonctionnaient les systèmes experts, ces IA faites de règles ?;561;3;oui;4;non
+intelligence-artificielle;comment-un-robot-peut-il-apprendre-a-agir-dans-des-situations-qu-il-n-a-jamais-vues;Comment un robot peut-il apprendre à agir dans des situations qu'il n'a jamais vues ?;381;3;oui;4;non
+intelligence-artificielle;comment-une-ia-peut-elle-comprendre-a-la-fois-une-image-et-une-phrase;Comment une IA peut-elle comprendre à la fois une image et une phrase ?;341;3;oui;4;non
+sciences-du-vivant;techniques-imagerie-medicale;Voir à l'intérieur du corps;408;2;non;2;oui
+sciences-du-vivant;principes-pharmacologie-essais-cliniques;Comment on prouve qu'un médicament marche;463;2;non;2;oui
+sciences-du-vivant;niveaux-de-preuve-en-medecine;Toutes les études ne se valent pas;442;2;non;2;oui
+sciences-du-vivant;casgevy-premiere-therapie-crispr;La première thérapie fondée sur CRISPR;436;2;non;2;oui
+sciences-du-vivant;crispr-comment-ca-marche;CRISPR, des ciseaux pour l'ADN;444;4;non;2;oui
+sciences-du-vivant;biologie-de-synthese-applications-recentes;La biologie de synthèse;412;2;non;2;oui
+sciences-du-vivant;selection-vegetale-methodes-traditionnelles-modernes;Comment on améliore les plantes cultivées;469;2;non;2;oui
+sciences-du-vivant;agriculture-durable-dans-le-monde;L'agriculture durable;430;2;non;2;oui
+sciences-du-vivant;sols-vivants-et-erosion;Le sol est un milieu vivant;404;2;non;2;oui
+sciences-du-vivant;examiner-patient-sans-machine;Examiner un patient sans machine;597;4;oui;3;non
+sciences-du-vivant;produire-conserver-semences;Produire et conserver ses semences;685;4;oui;3;non
+sciences-du-vivant;greffage;Le greffage;696;4;oui;3;non
+sciences-du-vivant;plantes-nourrissantes;Les plantes les plus nourrissantes;595;4;oui;3;non
+sciences-du-vivant;rotation-cultures;La rotation des cultures;570;3;non;2;oui
+sciences-du-vivant;legumineuses-azote;Les légumineuses et l'azote;351;2;non;2;oui
+sciences-du-vivant;lutte-biologique-contre-ravageurs;La lutte biologique contre les ravageurs;326;2;non;2;oui
+sciences-du-vivant;irrigation-econome-eau;L'irrigation économe en eau;314;2;non;2;oui
+sciences-du-vivant;elevage-traction-animale;L'élevage et la traction animale;349;2;non;2;oui
+sciences-du-vivant;conserver-recoltes;Conserver les récoltes;335;2;non;2;oui
+sciences-du-vivant;fertiliser-sans-engrais-industriels;Fertiliser sans engrais industriels;323;2;non;2;oui
+sciences-du-vivant;reconnaitre-sol;Reconnaître un sol;364;2;non;2;oui
+sciences-du-vivant;comment-une-couche-de-paille-protege-t-elle-le-sol-d-un-potager;Comment une couche de paille protège-t-elle le sol d'un potager ?;496;2;oui;4;non
+sciences-du-vivant;comment-une-herbe-sauvage-du-mexique-est-elle-devenue-le-mais;Comment une herbe sauvage du Mexique est-elle devenue le maïs ?;519;2;oui;4;non
+sciences-du-vivant;pourquoi-garde-t-on-des-millions-de-graines-dans-une-montagne-glacee-pres-du-pole-nord;Pourquoi garde-t-on des millions de graines dans une montagne glacée près du pôle Nord ?;572;2;oui;4;non
+sciences-du-vivant;comment-des-bacteries-fabriquent-elles-l-insuline-des-diabetiques;Comment des bactéries fabriquent-elles l'insuline des diabétiques ?;547;3;oui;4;non
+sciences-du-vivant;comment-des-enzymes-produites-par-des-microbes-aident-elles-la-lessive-a-laver-a-froid;Comment des enzymes produites par des microbes aident-elles la lessive à laver à froid ?;505;3;oui;4;non
+sciences-du-vivant;comment-l-echographie-voit-elle-un-bebe-dans-le-ventre-grace-au-son;Comment l'échographie voit-elle un bébé dans le ventre grâce au son ?;545;3;oui;4;non
+sciences-du-vivant;comment-un-rouleau-de-papier-a-t-il-donne-naissance-au-stethoscope;Comment un rouleau de papier a-t-il donné naissance au stéthoscope ?;536;2;oui;4;non
+sciences-du-vivant;le-double-aveugle-eliminer-les-biais-d-attente;Le double aveugle, éliminer les biais d'attente;475;4;oui;3;non
+sciences-du-vivant;pourquoi-un-faux-medicament-peut-il-parfois-soulager;Pourquoi un faux médicament peut-il parfois soulager ?;507;2;oui;4;non
+sciences-du-vivant;comment-un-antibiotique-tue-t-il-les-bacteries-sans-abimer-nos-cellules;Comment un antibiotique tue-t-il les bactéries sans abîmer nos cellules ?;364;3;oui;4;non
+sciences-du-vivant;comment-l-edition-du-genome-change-t-elle-la-facon-de-creer-de-nouvelles-varietes-de-plantes;Comment l'édition du génome change-t-elle la façon de créer de nouvelles variétés de plantes ?;347;4;oui;4;non
+sciences-fondamentales;lois-de-newton-mecanique-classique;Les trois lois de Newton;455;3;non;2;oui
+sciences-fondamentales;energie-et-conservation;L'énergie ne se perd jamais;417;2;non;2;oui
+sciences-fondamentales;dualite-onde-corpuscule;Une particule peut-elle être une onde;403;2;non;2;oui
+sciences-fondamentales;correction-derreurs-quantiques-willow;L'ordinateur quantique et ses erreurs;471;2;non;2;oui
+sciences-fondamentales;electricite-et-magnetisme-un-seul-phenomene;L'électricité et le magnétisme sont la même chose;394;2;non;2;oui
+sciences-fondamentales;comment-fonctionne-un-aimant;Comment fonctionne un aimant;442;2;non;2;oui
+sciences-fondamentales;les-deux-principes-de-la-thermodynamique;Les deux principes de la thermodynamique;481;2;non;2;oui
+sciences-fondamentales;temperature-et-chaleur;Température et chaleur ne sont pas la même chose;445;2;non;2;oui
+sciences-fondamentales;tableau-periodique-des-elements;Le tableau périodique;401;2;non;2;oui
+sciences-fondamentales;molecule-carbone-composes-organiques;Le carbone, l'atome du vivant;446;2;non;2;oui
+sciences-fondamentales;reactions-chimiques-et-equilibre;Pourquoi une réaction chimique se produit;462;2;non;2;oui
+sciences-fondamentales;histoire-principes-algebre;L'algèbre, ou comment calculer avec l'inconnu;418;2;non;2;oui
+sciences-fondamentales;prix-abel-2025-kashiwara;Le prix Abel et les mathématiques contemporaines;396;2;non;2;oui
+sciences-fondamentales;le-hasard-et-les-probabilites;Le hasard et les probabilités;489;2;non;2;oui
+sciences-fondamentales;geometrie-euclidienne-et-au-dela;La géométrie d'Euclide et celles qui l'ont suivie;433;2;non;2;oui
+sciences-fondamentales;theorie-evolution-selection-naturelle;L'évolution par sélection naturelle;460;2;non;2;oui
+sciences-fondamentales;decouverte-structure-adn;La découverte de la structure de l'ADN;442;2;non;2;oui
+sciences-fondamentales;la-cellule-unite-du-vivant;La cellule, unité du vivant;434;2;non;2;oui
+sciences-fondamentales;chaines-alimentaires-et-ecosystemes;Qui mange qui dans un écosystème;454;2;non;2;oui
+sciences-fondamentales;tectonique-des-plaques;La tectonique des plaques;432;2;non;2;oui
+sciences-fondamentales;volcans-et-tremblements-de-terre;Volcans et tremblements de terre;529;2;non;2;oui
+sciences-fondamentales;courants-oceaniques-role-climatique;Les grands courants océaniques;449;2;non;2;oui
+sciences-fondamentales;pendule-mesure-temps;Le pendule et la mesure du temps;336;2;non;2;oui
+sciences-fondamentales;tension-courant-resistance;Tension, courant et résistance;451;5;non;2;oui
+sciences-fondamentales;lentilles-optique;Les lentilles et l'optique;328;2;non;2;oui
+sciences-fondamentales;conduction-convection-rayonnement;Conduction, convection, rayonnement;362;2;non;2;oui
+sciences-fondamentales;distillation;La distillation;341;2;non;2;oui
+sciences-fondamentales;acides-bases;Les acides et les bases;364;2;non;2;oui
+sciences-fondamentales;oxydation-reduction;L'oxydation et la réduction;344;2;non;2;oui
+sciences-fondamentales;combustion;La combustion;349;2;non;2;oui
+sciences-fondamentales;numeration-position-zero;La numération de position et le zéro;367;2;non;2;oui
+sciences-fondamentales;arpenter-mesurer-terrain;Arpenter et mesurer un terrain;352;2;non;2;oui
+sciences-fondamentales;trouver-minerais;Trouver des minerais;321;2;non;2;oui
+sciences-fondamentales;trouver-eau-souterraine;Trouver l'eau souterraine;351;2;non;2;oui
+sciences-fondamentales;comment-les-bacteries-deviennent-elles-resistantes-aux-antibiotiques;Comment les bactéries deviennent-elles résistantes aux antibiotiques ?;495;2;oui;4;non
+sciences-fondamentales;pourquoi-n-avons-nous-pas-tous-le-meme-groupe-sanguin;Pourquoi n'avons-nous pas tous le même groupe sanguin ?;605;3;oui;4;non
+sciences-fondamentales;l-eau-une-molecule-aux-proprietes-exceptionnelles;L'eau, une molécule aux propriétés exceptionnelles;609;4;oui;3;non
+sciences-fondamentales;pourquoi-le-sel-disparait-il-dans-l-eau-alors-que-l-huile-reste-a-part;Pourquoi le sel disparaît-il dans l'eau alors que l'huile reste à part ?;573;3;oui;4;non
+sciences-fondamentales;pourquoi-le-nombre-pi-se-cache-t-il-dans-tous-les-cercles;Pourquoi le nombre pi se cache-t-il dans tous les cercles ?;557;2;oui;4;non
+sciences-fondamentales;comment-eratosthene-a-t-il-mesure-la-terre-avec-une-ombre;Comment Ératosthène a-t-il mesuré la Terre avec une ombre ?;532;2;oui;4;non
+sciences-fondamentales;la-loi-des-grands-nombres;La loi des grands nombres;483;4;oui;3;non
+sciences-fondamentales;la-moyenne-la-mediane-et-le-mode-trois-mesures-distinctes;La moyenne, la médiane et le mode, trois mesures distinctes;617;4;oui;3;non
+sciences-fondamentales;comment-une-dynamo-de-velo-fabrique-t-elle-de-l-electricite;Comment une dynamo de vélo fabrique-t-elle de l'électricité ?;510;3;oui;4;non
+sciences-fondamentales;pourquoi-peserait-on-six-fois-moins-sur-la-lune-sans-perdre-un-gramme;Pourquoi pèserait-on six fois moins sur la Lune sans perdre un gramme ?;541;3;oui;4;non
+sciences-fondamentales;les-echelles-de-temperature-celsius-fahrenheit-et-kelvin;Les échelles de température, Celsius, Fahrenheit et Kelvin;624;4;oui;3;non
+sciences-fondamentales;comment-la-lune-fait-elle-monter-et-descendre-la-mer;Comment la Lune fait-elle monter et descendre la mer ?;593;2;oui;4;non
+sciences-fondamentales;pourquoi-certaines-sources-sortent-elles-du-sol-deja-chaudes;Pourquoi certaines sources sortent-elles du sol déjà chaudes ?;565;3;oui;4;non
+sciences-fondamentales;les-transformateurs-electriques-et-leur-role-dans-l-ajustement-de-la-tension;Les transformateurs électriques et leur rôle dans l'ajustement de la tension;587;4;oui;3;non
+sciences-fondamentales;comment-les-animaux-des-profondeurs-survivent-ils-a-une-pression-ecrasante;Comment les animaux des profondeurs survivent-ils à une pression écrasante ?;321;3;oui;4;non
+sciences-fondamentales;pourquoi-aucune-carte-du-monde-a-plat-ne-peut-elle-etre-parfaitement-fidele;Pourquoi aucune carte du monde à plat ne peut-elle être parfaitement fidèle ?;348;4;oui;4;non
+sciences-fondamentales;un-materiau-peut-il-etre-isolant-a-l-interieur-et-conducteur-en-surface;Un matériau peut-il être isolant à l'intérieur et conducteur en surface ?;312;3;oui;4;non
+sciences-fondamentales;allumer-entretenir-feu;Allumer et entretenir un feu;661;4;oui;3;non
+sciences-humaines;homo-naledi-species-debattue;Ce que la préhistoire nous apprend encore;436;2;non;2;oui
+sciences-humaines;grandes-transformations-epoque-contemporaine;Deux siècles qui ont tout changé;459;2;non;2;oui
+sciences-humaines;comment-travaille-un-historien;Comment travaille un historien;462;2;non;2;oui
+sciences-humaines;principes-offre-et-demande;Comment se forme un prix;490;2;non;2;oui
+sciences-humaines;perspectives-de-croissance-mondiale-fmi-2025;La croissance économique mondiale;433;2;non;2;oui
+sciences-humaines;inflation-comment-ca-marche;L'inflation;488;2;non;2;oui
+sciences-humaines;inegalites-de-revenu-et-de-patrimoine;Mesurer les inégalités;467;2;non;2;oui
+sciences-humaines;processus-cognitifs-memoire-attention;La mémoire et l'attention;483;2;non;2;oui
+sciences-humaines;stades-developpement-enfant-piaget;Comment un enfant apprend à penser;517;2;non;2;oui
+sciences-humaines;pourquoi-notre-cerveau-se-trompe;Pourquoi notre cerveau se trompe;502;2;non;2;oui
+sciences-humaines;conformite-et-obeissance;Pourquoi les gens se conforment;471;2;non;2;oui
+sciences-humaines;ecole-et-reproduction-sociale;L'école et la reproduction sociale;454;2;non;2;oui
+sciences-humaines;revolution-neolithique;La révolution néolithique;352;2;non;2;oui
+sciences-humaines;outils-pierre;Les outils de pierre;359;2;non;2;oui
+sciences-humaines;plan-marshall-reconstruction-europe;Le plan Marshall et la reconstruction de l'Europe;352;2;non;2;oui
+sciences-humaines;effondrement-civilisations;L'effondrement des civilisations;351;2;oui;2;oui
+sciences-humaines;division-travail;La division du travail;365;2;non;2;oui
+sciences-humaines;comptabilite-partie-double;La comptabilité en partie double;363;2;oui;2;oui
+sciences-humaines;troc-invention-monnaie;Le troc et l'invention de la monnaie;383;2;non;2;oui
+sciences-humaines;cooperation-biens-communs;La coopération et les biens communs;403;2;oui;2;oui
+sciences-humaines;transmettre-savoirs;Transmettre les savoirs;374;2;oui;2;oui
+sciences-humaines;comment-le-carbone-14-permet-il-de-dater-un-os-ou-un-morceau-de-bois;Comment le carbone 14 permet-il de dater un os ou un morceau de bois ?;532;2;oui;4;non
+sciences-humaines;comment-les-cernes-des-arbres-permettent-ils-de-dater-le-passe;Comment les cernes des arbres permettent-ils de dater le passé ?;545;2;oui;4;non
+sciences-humaines;comment-les-humains-de-la-prehistoire-allumaient-ils-un-feu;Comment les humains de la préhistoire allumaient-ils un feu ?;525;3;oui;4;non
+sciences-humaines;comment-le-propulseur-permettait-il-de-lancer-une-sagaie-plus-vite;Comment le propulseur permettait-il de lancer une sagaie plus vite ?;497;2;oui;4;non
+sciences-humaines;pourquoi-ne-regarder-que-les-reussites-nous-trompe-t-il;Pourquoi ne regarder que les réussites nous trompe-t-il ?;514;3;oui;4;non
+sciences-humaines;pourquoi-ne-peut-on-pas-bien-faire-deux-choses-a-la-fois;Pourquoi ne peut-on pas bien faire deux choses à la fois ?;508;3;oui;4;non
+sciences-humaines;pourquoi-reviser-en-plusieurs-fois-aide-t-il-a-mieux-retenir;Pourquoi réviser en plusieurs fois aide-t-il à mieux retenir ?;480;3;oui;4;non
+sciences-humaines;pourquoi-un-nouveau-ne-serre-t-il-fort-le-doigt-qu-on-lui-tend;Pourquoi un nouveau-né serre-t-il fort le doigt qu'on lui tend ?;523;2;oui;4;non
+sciences-humaines;les-monopoles-et-leur-impact-sur-le-fonctionnement-d-un-marche;Les monopoles et leur impact sur le fonctionnement d'un marché;533;4;oui;3;non
+sciences-humaines;pourquoi-la-pollution-d-une-usine-coute-t-elle-aussi-a-ses-voisins;Pourquoi la pollution d'une usine coûte-t-elle aussi à ses voisins ?;523;2;oui;4;non
+sciences-humaines;pourquoi-la-revolution-industrielle-a-t-elle-provoque-autant-de-revoltes-et-de-lois-sociales;Pourquoi la révolution industrielle a-t-elle provoqué autant de révoltes et de lois sociales ?;427;4;oui;4;non
+sciences-humaines;pourquoi-perdre-une-somme-fait-il-plus-mal-que-gagner-la-meme-somme-ne-fait-plaisir;Pourquoi perdre une somme fait-il plus mal que gagner la même somme ne fait plaisir ?;405;4;oui;4;non
+sciences-humaines;pourquoi-remet-on-a-demain-ce-qu-on-sait-devoir-faire-aujourd-hui;Pourquoi remet-on à demain ce qu'on sait devoir faire aujourd'hui ?;386;3;oui;4;non
+sciences-humaines;pourquoi-croit-on-aux-fausses-informations-meme-quand-on-se-croit-prudent;Pourquoi croit-on aux fausses informations, même quand on se croit prudent ?;381;4;oui;4;non
+sciences-humaines;comment-nos-emotions-orientent-elles-nos-decisions-sans-qu-on-s-en-rende-compte;Comment nos émotions orientent-elles nos décisions sans qu'on s'en rende compte ?;363;4;oui;4;non
+sciences-humaines;pourquoi-une-rumeur-se-deforme-t-elle-en-passant-de-bouche-en-bouche;Pourquoi une rumeur se déforme-t-elle en passant de bouche en bouche ?;341;3;oui;4;non
+sciences-humaines;comment-pousser-les-gens-a-mieux-choisir-sans-rien-leur-interdire;Comment pousser les gens à mieux choisir sans rien leur interdire ?;354;3;oui;4;non
+sciences-humaines;pourquoi-les-humains-inventent-ils-toujours-une-monnaie-meme-dans-un-camp-de-prisonniers;Pourquoi les humains inventent-ils toujours une monnaie, même dans un camp de prisonniers ?;352;3;oui;4;non
+sciences-humaines;pourquoi-les-prix-ont-ils-flambe-au-xvie-siecle-selon-jean-bodin;Pourquoi les prix ont-ils flambé au XVIe siècle, selon Jean Bodin ?;414;3;oui;4;non
+sciences-humaines;interets-composes;Les intérêts composés;576;3;oui;3;non
+sciences-humaines;negocier-efficacement;Négocier efficacement;599;4;oui;3;non
+sciences-humaines;gerer-son-temps-priorites;Gérer son temps et ses priorités;586;4;oui;3;non
+sciences-humaines;prise-de-parole-en-public;Parler en public sans paniquer;585;3;oui;3;non
+sciences-humaines;ecoute-active-communication;L'écoute active et la communication bienveillante;582;4;oui;3;non
+sciences-humaines;reussir-entretien-embauche;Réussir un entretien d'embauche;647;4;oui;3;non
+sciences-humaines;construire-son-reseau-professionnel;Construire son réseau professionnel;589;4;oui;3;non
+sciences-humaines;prendre-de-meilleures-decisions;Prendre de meilleures décisions;574;4;oui;3;non
+sport;filieres-energetiques-du-muscle;D'où vient l'énergie d'un muscle;430;2;non;2;oui
+sport;principes-periodisation-entrainement-sportif;Comment on progresse à l'entraînement;411;2;non;2;oui
+sport;blessures-et-charge-dentrainement;Pourquoi on se blesse en faisant du sport;468;2;non;2;oui
+sport;big-count-fifa-265-millions-de-joueurs;265 millions de footballeurs;389;2;non;2;oui
+sport;records-donnees-reference-athletisme;Ce que les records d'athlétisme racontent;410;2;non;2;oui
+sport;sport-adapte-et-classification;Le sport adapté et la classification;398;2;non;2;oui
+sport;rapport-adrv-2023-dopage-ama;Le dopage et les contrôles;438;2;non;2;oui
+sport;economie-mondiale-du-sport;L'économie du sport;419;2;non;2;oui
+sport;bouger-est-un-medicament;Bouger est un médicament;476;2;non;2;oui
+sport;soigner-entorse;Soigner une entorse;310;2;non;2;oui
+sport;immobiliser-fracture;Immobiliser une fracture;344;2;non;2;oui
+sport;pourquoi-au-rugby-fait-on-des-passes-vers-l-arriere;Pourquoi au rugby fait-on des passes vers l'arrière ?;499;2;oui;4;non
+sport;comment-le-basket-ball-a-t-il-ete-invente;Comment le basket-ball a-t-il été inventé ?;429;2;oui;4;non
+sport;apprendre-nager;Apprendre à nager;350;2;non;2;oui
+sport;porter-soulever-sans-blesser;Porter et soulever sans se blesser;332;2;non;2;oui
+sport;pourquoi-le-crawl-est-il-la-nage-la-plus-rapide;Pourquoi le crawl est-il la nage la plus rapide ?;520;3;oui;4;non
+sport;comment-une-corde-d-escalade-arrete-t-elle-la-chute-d-un-grimpeur;Comment une corde d'escalade arrête-t-elle la chute d'un grimpeur ?;512;3;oui;4;non
+sport;pourquoi-un-choc-a-la-tete-oblige-t-il-un-sportif-a-sortir-du-terrain;Pourquoi un choc à la tête oblige-t-il un sportif à sortir du terrain ?;457;2;oui;4;non
+sport;pourquoi-le-coeur-bat-il-plus-vite-quand-on-fait-du-sport;Pourquoi le cœur bat-il plus vite quand on fait du sport ?;486;3;oui;4;non
+sport;comment-les-muscles-deviennent-ils-plus-forts-avec-l-entrainement;Comment les muscles deviennent-ils plus forts avec l'entraînement ?;443;3;oui;4;non
+sport;comment-joue-t-on-au-basket-en-fauteuil-roulant;Comment joue-t-on au basket en fauteuil roulant ?;482;2;oui;4;non
+sport;comment-joue-t-on-au-goalball-sans-voir-le-ballon;Comment joue-t-on au goalball sans voir le ballon ?;434;2;oui;4;non
+sport;a-quoi-sert-vraiment-l-echauffement-et-vaut-il-mieux-s-etirer-avant-l-effort;À quoi sert vraiment l'échauffement, et vaut-il mieux s'étirer avant l'effort ?;374;3;oui;4;non
+sport;comment-l-epo-fait-elle-gagner-des-courses-et-comment-la-detecte-t-on;Comment l'EPO fait-elle gagner des courses, et comment la détecte-t-on ?;415;5;oui;4;non
+sport;les-champions-d-endurance-s-entrainent-en-montagne-pourquoi-leur-sang-produit-il-plus-de-globules-rouges;Les champions d'endurance s'entraînent en montagne, pourquoi leur sang produit-il plus de globules rouges ?;350;4;oui;4;non
+sport;l-acide-lactique-est-il-vraiment-responsable-des-courbatures;L'acide lactique est-il vraiment responsable des courbatures ?;351;4;oui;4;non
+sport;que-font-les-scientifiques-et-les-statisticiens-dans-une-equipe-de-haut-niveau;Que font les scientifiques et les statisticiens dans une équipe de haut niveau ?;403;3;oui;4;non
+sport;faut-il-manger-tout-de-suite-apres-l-entrainement-pour-mieux-progresser;Faut-il manger tout de suite après l'entraînement pour mieux progresser ?;351;3;oui;4;non
+sport;que-mesure-vraiment-le-capteur-au-dos-d-une-montre-connectee-et-peut-on-s-y-fier;Que mesure vraiment le capteur au dos d'une montre connectée, et peut-on s'y fier ?;357;3;oui;4;non
+sport;que-mesure-vraiment-la-variabilite-cardiaque-ce-chiffre-qui-promet-de-dire-si-vous-etes-recupere;Que mesure vraiment la variabilité cardiaque, ce chiffre qui promet de dire si vous êtes récupéré ?;333;3;oui;4;non
+technologies;burj-khalifa-plus-haut-batiment-du-monde;Comment tient une structure;530;2;non;2;oui
+technologies;empreinte-carbone-du-ciment;Le ciment, 7 à 8 % des émissions mondiales;474;2;non;2;oui
+technologies;ponts-et-entretien-des-ouvrages;Les ponts et leur entretien;433;2;non;2;oui
+technologies;actionneurs-en-robotique;Ce qui fait bouger un robot;420;2;non;2;oui
+technologies;capteurs-perception-robotique;Comment un robot perçoit le monde;438;2;non;2;oui
+technologies;robots-mobiles-et-navigation;Comment un robot se repère et se déplace;438;2;non;2;oui
+technologies;graphene-et-nanomateriaux;Le graphène et les nanomatériaux;423;2;non;2;oui
+technologies;applications-nanotechnologies-medecine-industrie;Les nanotechnologies dans la vie courante;456;2;non;2;oui
+technologies;comment-choisir-un-materiau;Comment on choisit un matériau;450;2;non;2;oui
+technologies;defaillances-techniques-et-causes-multiples;Pourquoi les catastrophes techniques arrivent;485;2;non;2;oui
+technologies;levier-poulie-plan-incline;Le levier, la poulie et le plan incliné;744;4;oui;3;non
+technologies;arc-voute;L'arc et la voûte;713;4;oui;3;non
+technologies;charpente-bois;La charpente en bois;629;4;oui;3;non
+technologies;chaux-liant-millenaire;"""La chaux, liant millénaire""";603;3;non;2;oui
+technologies;brique-terre-cuite;La brique de terre cuite;369;2;non;2;oui
+technologies;construire-route-durable;Construire une route durable;348;2;non;2;oui
+technologies;aqueducs-canaux;Les aqueducs et canaux;364;2;non;2;oui
+technologies;engrenages-courroies-transmissions;Engrenages, courroies et transmissions;350;2;non;2;oui
+technologies;reconnaitre-recuperer-materiaux;Reconnaître et récupérer les matériaux;377;2;non;2;oui
+technologies;l-elasticite-et-la-plasticite-des-materiaux;L'élasticité et la plasticité des matériaux;507;4;oui;3;non
+technologies;pourquoi-une-piece-de-metal-peut-elle-casser-a-force-d-etre-secouee;Pourquoi une pièce de métal peut-elle casser à force d'être secouée ?;506;2;oui;4;non
+technologies;pourquoi-l-acier-inoxydable-ne-rouille-t-il-pas;Pourquoi l'acier inoxydable ne rouille-t-il pas ?;468;2;oui;4;non
+technologies;pourquoi-construit-on-les-batiments-et-les-machines-plus-solides-que-necessaire;Pourquoi construit-on les bâtiments et les machines plus solides que nécessaire ?;488;2;oui;4;non
+technologies;pourquoi-met-on-des-barres-d-acier-dans-le-beton;Pourquoi met-on des barres d'acier dans le béton ?;463;3;oui;4;non
+technologies;comment-un-barrage-resiste-t-il-a-la-poussee-de-l-eau;Comment un barrage résiste-t-il à la poussée de l'eau ?;488;3;oui;4;non
+technologies;comment-construire-des-batiments-qui-resistent-aux-tremblements-de-terre;Comment construire des bâtiments qui résistent aux tremblements de terre ?;493;3;oui;4;non
+technologies;comment-un-drone-a-quatre-helices-tient-il-immobile-dans-les-airs;Comment un drone à quatre hélices tient-il immobile dans les airs ?;485;2;oui;4;non
+technologies;comment-un-verin-hydraulique-donne-t-il-une-force-enorme-a-une-machine;Comment un vérin hydraulique donne-t-il une force énorme à une machine ?;519;3;oui;4;non
+technologies;comment-un-lidar-permet-il-a-un-robot-de-dessiner-une-carte-de-ce-qui-l-entoure;Comment un lidar permet-il à un robot de dessiner une carte de ce qui l'entoure ?;505;2;oui;4;non
+technologies;comment-construit-on-des-structures-a-l-echelle-du-milliardieme-de-metre;Comment construit-on des structures à l'échelle du milliardième de mètre ?;414;3;oui;4;non
+technologies;peut-on-fabriquer-du-beton-sans-ciment-portland-pour-emettre-moins-de-co2;Peut-on fabriquer du béton sans ciment Portland pour émettre moins de CO2 ?;382;3;oui;4;non
+technologies;comment-un-ordinateur-decide-t-il-ou-mettre-la-matiere-pour-faire-des-pieces-plus-legeres;Comment un ordinateur décide-t-il où mettre la matière pour faire des pièces plus légères ?;369;3;oui;4;non
+technologies;peut-on-vraiment-construire-une-maison-en-l-imprimant-en-beton;Peut-on vraiment construire une maison en l'imprimant en béton ?;366;3;oui;4;non
+technologies;comment-un-materiau-peut-il-se-reparer-tout-seul-quand-il-se-fissure;Comment un matériau peut-il se réparer tout seul quand il se fissure ?;363;3;oui;4;non
+technologies;comment-une-structure-peut-elle-tenir-dans-un-sac-puis-se-deployer-ou-se-gonfler;Comment une structure peut-elle tenir dans un sac, puis se déployer ou se gonfler ?;403;3;oui;4;non
+technologies;comment-des-bacteries-des-capsules-ou-la-chaux-romaine-reparent-elles-les-fissures-du-beton;Comment des bactéries, des capsules ou la chaux romaine réparent-elles les fissures du béton ?;403;3;oui;4;non

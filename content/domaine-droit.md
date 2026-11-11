@@ -10643,6 +10643,10 @@ sources:
   - title: "Légitime défense"
     url: "https://fr.wikipedia.org/wiki/L%C3%A9gitime_d%C3%A9fense"
     publisher: "Wikipédia"
+  - title: "Qu'est-ce que la légitime défense ?"
+    url: "https://www.justice.fr/fiche/legitime-defense"
+    publisher: "Ministère de la Justice"
+    date: "2024"
 quiz:
   - question: "Quel article du Code pénal prévoit la légitime défense ?"
     options:
